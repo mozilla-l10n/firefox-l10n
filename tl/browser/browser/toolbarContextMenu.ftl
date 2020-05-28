@@ -20,12 +20,18 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Ibalik ang Nakasarang Tab
     .accesskey = U
+toolbar-context-menu-remove-extension =
+    .label = Alisin ang Extension
+    .accesskey = v
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = I-pin sa Overflow Menu
     .accesskey = P
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Auto-Hide in Toolbar
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Alisin sa Toolbar
     .accesskey = R
