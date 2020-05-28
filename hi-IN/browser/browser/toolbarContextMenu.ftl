@@ -23,6 +23,9 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-manage-extension =
     .label = विस्तारक प्रबंधित करें
     .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = एक्सटेंशन हटाएँ
+    .accesskey = v
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
