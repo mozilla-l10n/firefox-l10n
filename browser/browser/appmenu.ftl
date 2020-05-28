@@ -9,23 +9,25 @@ appmenuitem-protection-report-title = Protezioni per la privacy
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vai al rapporto privacy
 appmenuitem-protection-dashboard-title = Dashboard protezioni
+appmenuitem-customize-mode =
+    .label = Personalizza…
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Aumenta zoom
+appmenuitem-zoom-reduce =
+    .label = Riduci zoom
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sincronizza adesso
 
-## Zoom Controls
-
-appmenuitem-zoom-enlarge =
-  .label = Aumenta zoom
-appmenuitem-zoom-reduce =
-  .label = Riduci zoom
-
 ## What's New panel in App menu.
 
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
-  .label = Notifica nuove funzionalità
-  .accesskey = f
+    .label = Notifica nuove funzionalità
+    .accesskey = f
