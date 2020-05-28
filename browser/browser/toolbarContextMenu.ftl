@@ -20,6 +20,12 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Desfés el tancament de la pestanya
     .accesskey = D
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Fixa al menú d'eines addicionals (»)
+    .accesskey = F
 toolbar-context-menu-remove-from-toolbar =
     .label = Elimina de la barra d'eines
     .accesskey = E
