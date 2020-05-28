@@ -23,6 +23,12 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-remove-extension =
     .label = Eliminar extensión
     .accesskey = v
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Anclar al menú de desbordamiento
+    .accesskey = P
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Autoocultar en la barra de herramientas
     .accesskey = A
