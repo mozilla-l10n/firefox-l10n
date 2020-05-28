@@ -7,24 +7,24 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "Dit adresboek toont alleen contacten na een zoekopdracht">
+<!ENTITY localResultsOnlyMessage.label                  "Contacten uit externe adresboeken worden pas na een zoekopdracht getoond">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Contact…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Mailinglijst…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "M">
 <!ENTITY newAddressBookCmd.label                        "Adresboek…">
 <!ENTITY newAddressBookCmd.accesskey                    "r">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-directory…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Contact afdrukken…">
 <!ENTITY printContactViewCmd.accesskey                  "d">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Afdrukvoorbeeld van contact">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Adresboek afdrukken…">
 <!ENTITY printAddressBook.accesskey                     "f">
 <!ENTITY printPreviewAddressBook.label                  "Afdrukvoorbeeld van adresboek">
@@ -40,7 +40,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "Voor-/achternaam wisselen">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!ENTITY propertiesCmd.label                            "Eigenschappen…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "E">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +84,7 @@
 <!ENTITY deleteItemButton.accesskey                     "V">
 <!ENTITY newimButton.label                              "Instant-bericht">
 <!ENTITY newimButton.accesskey                          "I">
+<!ENTITY printButton.label                              "Afdrukken">
 <!ENTITY searchNameAndEmail.placeholder                 "Naam en e-mailadres doorzoeken">
 <!ENTITY searchBox.title                                "Zoeken">
 
