@@ -29,3 +29,6 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-remove-from-toolbar =
     .label = Eliminar de la barra de herramientas
     .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
