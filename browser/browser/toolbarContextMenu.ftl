@@ -20,6 +20,9 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Ponovno odpri zavihek
     .accesskey = H
+toolbar-context-menu-manage-extension =
+    .label = Upravljaj razširitev
+    .accesskey = U
 toolbar-context-menu-remove-extension =
     .label = Odstrani razširitev
     .accesskey = r
@@ -29,6 +32,18 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = Prijavi razširitev
     .accesskey = j
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Pripni v meni prekoračitve
+    .accesskey = P
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Samodejno skrij v orodni vrstici
+    .accesskey = S
 toolbar-context-menu-remove-from-toolbar =
     .label = Odstrani iz orodne vrstice
     .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = Prilagodi …
+    .accesskey = P
