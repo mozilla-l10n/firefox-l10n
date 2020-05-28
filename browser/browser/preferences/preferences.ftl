@@ -550,6 +550,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = 在隐私窗口中显示搜索建议
 suggestions-addressbar-settings = 更改浏览记录、书签、标签页建议的首选项
+suggestions-addressbar-settings-generic = 更改其他地址栏建议首选项
 search-suggestions-cant-show = 由于您已经设置 { -brand-short-name } 不要记住浏览历史，地址栏中将不会显示搜索建议。
 search-one-click-header = 快捷搜索引擎列表
 search-one-click-desc = 请选择在地址栏和搜索栏输入关键词时，您希望显示在下方的其他可选用的搜索引擎。
