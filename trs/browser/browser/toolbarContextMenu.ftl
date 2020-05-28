@@ -20,3 +20,24 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Dure' riña naránt rakïj ñanj
     .accesskey = U
+toolbar-context-menu-manage-extension =
+    .label = Dugumin' ra'a ma
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Dure' sa taj a
+    .accesskey = v
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Nuto' riña menu
+    .accesskey = P
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Gachi huì ma'an ma riña dukuán rasùun
+    .accesskey = A
+toolbar-context-menu-remove-from-toolbar =
+    .label = Dùsiki' ga'an riña dukuán rasùun
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = Nagi'iô' daj huin ruhuô'...
+    .accesskey = C
