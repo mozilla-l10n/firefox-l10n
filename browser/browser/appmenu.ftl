@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Protekto de privateco
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vidu vian raporton pri privateco
+appmenuitem-customize-mode =
+    .label = Personecigi…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Speguli nun
+
+## What's New panel in App menu.
+
