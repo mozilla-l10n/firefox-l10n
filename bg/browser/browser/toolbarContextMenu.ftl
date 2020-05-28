@@ -20,6 +20,24 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Отваряне на затворен раздел
     .accesskey = О
+toolbar-context-menu-manage-extension =
+    .label = Управление на добавката
+    .accesskey = д
+toolbar-context-menu-remove-extension =
+    .label = Премахване на разширението
+    .accesskey = в
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Преместване в допълнителното меню
+    .accesskey = д
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Автоматично скриване от лентата
+    .accesskey = А
 toolbar-context-menu-remove-from-toolbar =
     .label = Премахване от лентата с инструменти
+    .accesskey = П
+toolbar-context-menu-view-customize-toolbar =
+    .label = Персонализиране…
     .accesskey = П
