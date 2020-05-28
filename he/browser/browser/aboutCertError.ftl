@@ -56,6 +56,9 @@ cert-error-details-hsts-label = אבטחת תעבורה מחמירה של HTTP �
 cert-error-details-key-pinning-label = הצמדת מפתח ציבורי של HTTP:‏ { $hasHPKP }
 cert-error-details-cert-chain-label = שרשרת אישורים:
 open-in-new-window-for-csp-or-xfo-error = פתיחת אתר בחלון חדש
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = כדי להגן על האבטחה שלך, { $hostname } לא יאפשר ל־{ -brand-short-name } להציג את הדף אם אתר אחר הטמיע אותו. כדי לצפות בדף זה, עליך לפתוח אותו בחלון חדש.
 
 ## Messages used for certificate error titles
 
