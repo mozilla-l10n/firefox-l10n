@@ -26,3 +26,6 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-remove-from-toolbar =
     .label = Hapus dari Bilah Alat
     .accesskey = H
+toolbar-context-menu-view-customize-toolbar =
+    .label = Ubahsuai…
+    .accesskey = U
