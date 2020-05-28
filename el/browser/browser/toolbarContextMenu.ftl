@@ -20,3 +20,12 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Αναίρεση κλεισίματος καρτέλας
     .accesskey = ι
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Καρφίτσωμα στο αναδυόμενο μενού
+    .accesskey = Κ
+toolbar-context-menu-view-customize-toolbar =
+    .label = Προσαρμογή…
+    .accesskey = Π
