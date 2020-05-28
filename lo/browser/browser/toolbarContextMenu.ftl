@@ -5,3 +5,24 @@
 toolbar-context-menu-undo-close-tab =
     .label = ເອີ້ນຄືນແທັບທີ່ຫາກະປິດ
     .accesskey = U
+toolbar-context-menu-manage-extension =
+    .label = ຈັດການສ່ວນຂະຫຍາຍ
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = ລຶບສ່ວນຂະຫຍາຍ
+    .accesskey = v
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = ປັກຫມຸດລົງໃນເມນູລົ້ນ
+    .accesskey = P
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = ເຊື່ອງອັດຕະໂນມັດໃນແຖບເຄື່ອງມື
+    .accesskey = A
+toolbar-context-menu-remove-from-toolbar =
+    .label = ເອົາອອກຈາກແຖບເຄື່ອງມື
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = ປັບແຕ່ງ…
+    .accesskey = C

@@ -5,10 +5,16 @@
 
 ## App Menu
 
+appmenuitem-customize-mode =
+    .label = ປັບແຕ່ງ…
 
 ## Zoom Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
+
+## What's New panel in App menu.
+
