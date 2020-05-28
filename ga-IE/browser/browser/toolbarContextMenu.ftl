@@ -17,6 +17,15 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = Tuairiscigh an Eisínteacht
     .accesskey = r
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Pionnáil leis an Roghchlár Fuílligh
+    .accesskey = P
 toolbar-context-menu-remove-from-toolbar =
     .label = Bain amach ón Bharra Uirlisí
     .accesskey = B
+toolbar-context-menu-view-customize-toolbar =
+    .label = Saincheap…
+    .accesskey = c
