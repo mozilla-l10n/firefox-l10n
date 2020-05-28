@@ -14,3 +14,15 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង
     .accesskey = U
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = ខ្ទាស់​ទៅ​ម៉ឺនុយ Overflow
+    .accesskey = P
+toolbar-context-menu-remove-from-toolbar =
+    .label = លុប​ចេញពី​របារ​ឧបករណ៍
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = ប្ដូរ​តាម​តម្រូវ​ការ…
+    .accesskey = C
