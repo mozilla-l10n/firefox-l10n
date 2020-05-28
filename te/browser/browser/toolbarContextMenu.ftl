@@ -17,6 +17,12 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-manage-extension =
     .label = పొడగింత నిర్వహణ
     .accesskey = E
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Overflow మెనూకు పిన్ చెయ్
+    .accesskey = P
 toolbar-context-menu-remove-from-toolbar =
     .label = పనిముట్ల పట్టీ నుండి తీసివేయి
     .accesskey = R
