@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = বন্ধ করা ট্যাব পুনরায় খুলুন
     .accesskey = U
+toolbar-context-menu-remove-from-toolbar =
+    .label = টুলবার থেকে অপসারণ করুন
+    .accesskey = R
