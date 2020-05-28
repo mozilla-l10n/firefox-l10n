@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Atšaukti kortelės užvėrimą
     .accesskey = š
+toolbar-context-menu-remove-from-toolbar =
+    .label = Pašalinti iš priemonių juostos
+    .accesskey = š
