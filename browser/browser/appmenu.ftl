@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Заштите приватности
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Идите на извештај о приватности
+appmenuitem-customize-mode =
+    .label = Прилагоди…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Синхронизуј сада
+
+## What's New panel in App menu.
+
