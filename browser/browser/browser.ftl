@@ -272,6 +272,8 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Tillat aldri
     .accesskey = a
+popup-silence-notifications-checkbox = Deaktiver varsel frå { -brand-short-name } medan du deler
+popup-silence-notifications-checkbox-warning = { -brand-short-name } vil ikkje vise varsel medan du deler.
 
 ## WebRTC window or screen share tab switch warning
 
