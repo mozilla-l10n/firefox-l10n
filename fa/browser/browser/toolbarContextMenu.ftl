@@ -20,6 +20,9 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = برگردان زبانه بسته شده
     .accesskey = ب
+toolbar-context-menu-remove-extension =
+    .label = حذف افزونه
+    .accesskey = v
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
