@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = 閉じたタブを元に戻す
     .accesskey = U
+toolbar-context-menu-view-customize-toolbar =
+    .label = カスタマイズ...
+    .accesskey = C
