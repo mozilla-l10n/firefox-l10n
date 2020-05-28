@@ -14,3 +14,6 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-remove-from-toolbar =
     .label = Desaniciar de la barra de ferramientes
     .accesskey = D
+toolbar-context-menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
