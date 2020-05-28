@@ -20,6 +20,15 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Відновити закриту вкладку
     .accesskey = В
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Прикріпити до розширеного меню
+    .accesskey = к
 toolbar-context-menu-remove-from-toolbar =
     .label = Вилучити з панелі
     .accesskey = В
+toolbar-context-menu-view-customize-toolbar =
+    .label = Пристосування…
+    .accesskey = П
