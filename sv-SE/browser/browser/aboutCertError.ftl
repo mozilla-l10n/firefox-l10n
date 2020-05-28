@@ -55,6 +55,7 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Pinnad offentlig HTTP nyckel: { $hasHPKP }
 cert-error-details-cert-chain-label = Certifikatkedja:
+open-in-new-window-for-csp-or-xfo-error = Öppna webbplatsen i nytt fönster
 
 ## Messages used for certificate error titles
 
