@@ -20,6 +20,12 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Mở lại thẻ vừa đóng
     .accesskey = U
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Ghim vào menu gợi ý trên thanh địa chỉ
+    .accesskey = P
 toolbar-context-menu-remove-from-toolbar =
     .label = Xóa khỏi thanh công cụ
     .accesskey = R
