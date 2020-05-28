@@ -23,12 +23,24 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-manage-extension =
     .label = Gerer extension
     .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Remover le extention
+    .accesskey = v
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Signalar extension
+    .accesskey = o
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Clavar al menu disbordante
     .accesskey = C
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Auto-celar in le barra de instrumentos
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Remover del barra de instrumentos
     .accesskey = R
