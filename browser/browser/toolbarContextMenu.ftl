@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = 復原已關閉分頁
     .accesskey = U
+toolbar-context-menu-remove-from-toolbar =
+    .label = 自工具列移除
+    .accesskey = R
