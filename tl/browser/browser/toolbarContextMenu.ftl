@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Ibalik ang Nakasarang Tab
     .accesskey = U
+toolbar-context-menu-view-customize-toolbar =
+    .label = I-customize...
+    .accesskey = c

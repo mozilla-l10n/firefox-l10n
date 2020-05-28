@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Mga Privacy Protection
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Pumunta sa iyong privacy report
+appmenuitem-customize-mode =
+    .label = I-customize...
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Mag-sync Na
+
+## What's New panel in App menu.
+
