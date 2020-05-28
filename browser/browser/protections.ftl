@@ -172,6 +172,8 @@ monitor-partial-breaches-motivation-title-start = İyi başladınız!
 monitor-partial-breaches-motivation-title-middle = Aynen böyle devam!
 monitor-partial-breaches-motivation-title-end = Bitmek üzere! Aynen böyle devam.
 monitor-partial-breaches-motivation-desc = Geri kalan ihallerinizi { -monitor-brand-short-name }’de çözün
+monitor-resolve-breaches-link = İhlalleri çöz
+    .title = İhlalleri { -monitor-brand-short-name }’de çözün
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
