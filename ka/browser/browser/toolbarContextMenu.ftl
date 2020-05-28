@@ -20,3 +20,24 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = დახურული ჩანართის დაბრუნება
     .accesskey = ბ
+toolbar-context-menu-manage-extension =
+    .label = გაფართოების მართვა
+    .accesskey = ფ
+toolbar-context-menu-remove-extension =
+    .label = გაფართოების ამოშლა
+    .accesskey = მ
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = ჩამოსაშლელ მენიუში მიმაგრება
+    .accesskey = გ
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = ხელსაწყოთა ზოლის თვითდამალვა
+    .accesskey = ვ
+toolbar-context-menu-remove-from-toolbar =
+    .label = ხელსაწყოთა ზოლიდან მოცილება
+    .accesskey = ა
+toolbar-context-menu-view-customize-toolbar =
+    .label = მორგება…
+    .accesskey = მ
