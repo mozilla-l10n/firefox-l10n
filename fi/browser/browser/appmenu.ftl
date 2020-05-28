@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Yksityisyyden suojaukset
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Siirry yksityisyysraporttiin
+appmenuitem-customize-mode =
+    .label = Muokkaa…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Synkronoi
+
+## What's New panel in App menu.
+
