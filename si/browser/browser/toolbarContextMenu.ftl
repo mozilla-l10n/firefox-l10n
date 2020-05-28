@@ -11,3 +11,6 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = පිටාර මෙනුවට අමුණන්න
     .accesskey = P
+toolbar-context-menu-remove-from-toolbar =
+    .label = මෙවලම් තීරුවෙන්න ඉවත් කරන්න
+    .accesskey = R
