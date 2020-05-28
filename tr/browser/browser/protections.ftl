@@ -38,7 +38,7 @@ etp-card-content = Takipçiler, gezinti alışkanlıklarınız ve ilgi alanları
 protection-report-webpage-title = Korumalar Panosu
 protection-report-page-content-title = Korumalar Panosu
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
-protection-report-page-summary = Siz web’de gezinirken { -brand-short-name } arka planda gizliliğinizi korur. Aşağıda bu korumaların özetini ve çevrimiçi güvenliğinizi artırmanızı sağlayacak araçları görüyorsunuz.
+protection-report-page-summary = Siz web’de gezinirken { -brand-short-name } arka planda gizliliğinizi koruyabilir. Aşağıda bu korumaların özetini ve çevrimiçi güvenliğinizi artırmanızı sağlayacak araçları görüyorsunuz.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = Siz web’de gezinirken { -brand-short-name } arka planda gizliliğinizi korur. Aşağıda bu korumaların özetini ve çevrimiçi güvenliğinizi artırmanızı sağlayacak araçları görüyorsunuz.
 protection-report-settings-link = Gizlilik ve güvenlik ayarlarınızı yönetin
