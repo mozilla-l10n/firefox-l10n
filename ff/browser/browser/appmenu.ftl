@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Ndeenkaaji Suturo
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Yah to jaŋtol maa suturo
+appmenuitem-customize-mode =
+    .label = Heertin…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sanngoɗin Jooni
+
+## What's New panel in App menu.
+
