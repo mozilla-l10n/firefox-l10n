@@ -23,6 +23,12 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-manage-extension =
     .label = Gestionează extensia
     .accesskey = E
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Fixează în meniul excedentar
+    .accesskey = P
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Ascunde automat în bara de instrumente
     .accesskey = A
