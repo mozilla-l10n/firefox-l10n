@@ -33,6 +33,7 @@
 <!ENTITY DisplayName.accesskey          "a">
 <!ENTITY preferDisplayName.label        "Altijd weergavenaam boven berichtkop verkiezen">
 <!ENTITY preferDisplayName.accesskey    "z">
+<!ENTITY preferDisplayName2.accesskey   "z">
 <!ENTITY NickName.label                 "Bijnaam:">
 <!ENTITY NickName.accesskey             "B">
 
@@ -122,6 +123,7 @@
 <!ENTITY Notes.accesskey                "A">
 
 <!ENTITY Chat.tab                       "Chat">
+<!ENTITY Chat.accesskey                 "a">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
