@@ -8,5 +8,5 @@ about-httpsonly-insecure-title = 보안 연결을 사용할 수 없음
 about-httpsonly-insecure-explanation-unavailable = HTTPS 전용 모드로 탐색 중이며, <em>{ $websiteUrl }</em>의 보안 HTTPS 버전을 사용할 수 없습니다.
 about-httpsonly-insecure-explanation-reasons = 웹 사이트는 HTTPS를 지원하지 않지만, 공격자가 HTTPS 버전을 차단하고 있을 수도 있습니다.
 about-httpsonly-insecure-explanation-exception = 보안 위험은 낮지만 웹 사이트의 HTTP 버전을 방문하기로 결정한 경우, 비밀번호, 이메일 또는 신용 카드 세부 정보와 같은 민감한 정보는 입력하지 않아야 합니다.
-about-httpsonly-button-make-exception = 위험을 감수하고 사이트로 진행
+about-httpsonly-button-make-exception = 위험을 감수하고 사이트로 계속 진행
 about-httpsonly-button-go-back = 뒤로 가기
