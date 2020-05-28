@@ -23,6 +23,13 @@ address-input-type-aria-label =
         [one] { $type } մեկ հասցէով, աւգտագործեք ձախ սլաքի ստեղնը դրա վրա կենտրոնանալու համար:
        *[other] { $type }֊ի հետ { $count }{ $count } հասցէներով, աւգտագործեք ձախ սլաքի ստեղնը դրանց վրա կենտրոնանալու համար:
     }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }։ սեղմեք Enter- ը խմբագրելու համար, ջնջել հեռացնելու համար:
+       *[other] { $email }, 1 { $count }․ սեղմել Enter ՝ խմբագրելու համար, ջնջել հեռացնելու համար:
+    }
 pill-action-edit =
     .label = Խմբագրել հասցէները
     .accesskey = e
