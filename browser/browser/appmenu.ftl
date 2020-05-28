@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = ଗୋପନୀୟତା ସୁରକ୍ଷା
 appmenuitem-protection-report-tooltip =
     .tooltiptext = ଆପଣଙ୍କର ଗୋପନୀୟତା ପତ୍ରକୁ ଯାଆନ୍ତୁ
+appmenuitem-customize-mode =
+    .label = ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ
+
+## What's New panel in App menu.
+
