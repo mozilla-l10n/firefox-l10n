@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Zaščite zasebnosti
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Pojdi na poročilo o zasebnosti
 appmenuitem-protection-dashboard-title = Nadzorna plošča zaščit
+appmenuitem-customize-mode =
+    .label = Prilagodi …
 
 ## Zoom Controls
 
@@ -21,3 +23,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sinhroniziraj
+
+## What's New panel in App menu.
+
