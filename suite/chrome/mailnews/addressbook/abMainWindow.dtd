@@ -85,6 +85,7 @@
 <!ENTITY newimButton.label                              "Instant-bericht">
 <!ENTITY newimButton.accesskey                          "I">
 <!ENTITY printButton.label                              "Afdrukken">
+<!ENTITY printButton.accesskey                          "A">
 <!ENTITY searchNameAndEmail.placeholder                 "Naam en e-mailadres doorzoeken">
 <!ENTITY searchBox.title                                "Zoeken">
 
@@ -95,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "Het geselecteerde item bewerken">
 <!ENTITY newmsgButton.tooltip                           "Een e-mailbericht sturen">
 <!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
+<!ENTITY printButton.tooltip                            "Geselecteerde item afdrukken">
 <!ENTITY deleteItemButton.tooltip                       "Geselecteerde item verwijderen">
 <!ENTITY throbber.tooltip                               "Naar de &vendorShortName;-startpagina gaan">
 <!ENTITY throbber.tooltip2                              "Naar de &brandShortName;-startpagina gaan">
