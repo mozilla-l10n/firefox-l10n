@@ -20,3 +20,15 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Neo-dhèan dùnadh an taba
     .accesskey = N
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Prìnich ris a’ chlàr-taice taosgaidh
+    .accesskey = P
+toolbar-context-menu-remove-from-toolbar =
+    .label = Thoir air falbh on bhàr-inneal
+    .accesskey = r
+toolbar-context-menu-view-customize-toolbar =
+    .label = Gnàthaich…
+    .accesskey = c
