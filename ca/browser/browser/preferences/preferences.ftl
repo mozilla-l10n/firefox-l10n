@@ -284,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Utilitza { $app-name } (per defecte)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Utilitza l'aplicació per defecte del macOS
+            [windows] Utilitza l'aplicació per defecte del Windows
+           *[other] Utilitza l'aplicació per defecte del sistema
+        }
 applications-use-other =
     .label = Utilitza una altra aplicació…
 applications-select-helper = Seleccioneu l'aplicació auxiliar
@@ -865,6 +872,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Elements de seguiment entre llocs
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Elements de seguiment de xarxes socials i entre llocs
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Elements de seguiment de xarxes socials i entre llocs, i aïlla les galetes restants
 sitedata-option-block-unvisited =
     .label = Galetes de llocs web no visitats
 sitedata-option-block-all-third-party =
@@ -894,6 +903,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Pestanyes obertes
     .accesskey = P
+addressbar-locbar-topsites-option =
+    .label = Llocs principals
+    .accesskey = L
 addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
 
 ## Privacy Section - Content Blocking
