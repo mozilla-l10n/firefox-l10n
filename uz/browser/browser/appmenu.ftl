@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Maxfiylik himoyalari
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Maxfiylik haqidagi hisobotga kirish
+appmenuitem-customize-mode =
+    .label = Moslash…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sinxronlash
+
+## What's New panel in App menu.
+

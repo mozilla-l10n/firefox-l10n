@@ -20,6 +20,24 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Yopilgan varaqni qaytarish
     .accesskey = q
+toolbar-context-menu-manage-extension =
+    .label = Kengaytmani boshqarish
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Kengaytmani olib tashlash
+    .accesskey = v
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Kengaytirilgan menyuga qistirish
+    .accesskey = Q
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Asboblar panelida avto yashirish
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Asboblar panelidan o‘chirish
     .accesskey = o
+toolbar-context-menu-view-customize-toolbar =
+    .label = Moslash…
+    .accesskey = M
