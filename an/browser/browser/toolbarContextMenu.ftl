@@ -20,6 +20,12 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Desfer a zarradura d'a zaguera pestanya
     .accesskey = D
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Penchar en o menú de sobreiximiento
+    .accesskey = P
 toolbar-context-menu-remove-from-toolbar =
     .label = Eliminar d'a barra de ferramientas
     .accesskey = E
