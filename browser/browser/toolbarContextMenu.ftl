@@ -20,3 +20,15 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = बंद टैब वापस लें
     .accesskey = U
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = अतिप्रवाह मेनू पर पिन करें
+    .accesskey = P
+toolbar-context-menu-remove-from-toolbar =
+    .label = औजारपट्टी से मिटाएँ
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = मनपसंद बनाएँ…
+    .accesskey = C
