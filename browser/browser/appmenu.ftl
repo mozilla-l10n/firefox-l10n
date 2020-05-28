@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = პირადულობის და�
 appmenuitem-protection-report-tooltip =
     .tooltiptext = პირადულობის ანგარიშზე გადასვლა
 appmenuitem-protection-dashboard-title = დაცვის მაჩვენებლები
+appmenuitem-customize-mode =
+    .label = მორგება…
 
 ## Zoom Controls
 
@@ -21,3 +23,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = დასინქრონება ახლავე
+
+## What's New panel in App menu.
+
