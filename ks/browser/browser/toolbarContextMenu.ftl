@@ -5,3 +5,9 @@
 toolbar-context-menu-undo-close-tab =
     .label = ٹیب بند كروٛ ن كریو اَن ڈو
     .accesskey = U
+toolbar-context-menu-remove-from-toolbar =
+    .label = ٹول بار پیٹھ ہٹأیو&
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = کسٹمائز ۔۔۔
+    .accesskey = C
