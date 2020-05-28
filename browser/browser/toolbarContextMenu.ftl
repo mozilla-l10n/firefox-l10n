@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Reabrir aba
     .accesskey = b
+toolbar-context-menu-remove-from-toolbar =
+    .label = Remover da barra de ferramentas
+    .accesskey = R
