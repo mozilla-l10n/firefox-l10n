@@ -26,3 +26,6 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = ओव्हरफ्लो मेनूला पिन करा
     .accesskey = P
+toolbar-context-menu-remove-from-toolbar =
+    .label = साधनपट्टीतून काढून टाका
+    .accesskey = R
