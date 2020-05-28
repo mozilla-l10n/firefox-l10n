@@ -57,7 +57,6 @@ rcwn-avg-long = Långt medelvärde
 rcwn-std-dev-long = Lång standardavvikelse
 rcwn-cache-slow = Antal långsam cache
 rcwn-cache-not-slow = Antal inte långsam cache
-
 about-networking-title = Om nätverk
 about-networking-http = HTTP
 about-networking-sockets = Sockets
@@ -80,6 +79,7 @@ about-networking-family = Familj
 about-networking-trr = TRR
 about-networking-addresses = Adresser
 about-networking-expires = Förfaller (sekunder)
+about-networking-originAttributesSuffix = Isoleringsnyckel
 about-networking-messages-sent = Skickade meddelanden
 about-networking-messages-received = Mottagna meddelanden
 about-networking-bytes-sent = Skickade byte
