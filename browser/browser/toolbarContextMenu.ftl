@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Lapbezárás visszavonása
     .accesskey = v
+toolbar-context-menu-remove-from-toolbar =
+    .label = Eltávolítás az eszköztárról
+    .accesskey = e
