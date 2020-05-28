@@ -7,6 +7,8 @@
 
 appmenuitem-protection-report-tooltip =
     .tooltiptext = మీ అంతరంగికతా నివేదికను చూడండి
+appmenuitem-customize-mode =
+    .label = అభిమతీకరించు…
 
 ## Zoom Controls
 
@@ -15,3 +17,6 @@ appmenuitem-protection-report-tooltip =
 
 fxa-toolbar-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
+
+## What's New panel in App menu.
+
