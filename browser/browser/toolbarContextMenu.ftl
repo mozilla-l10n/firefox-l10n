@@ -20,3 +20,18 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Son kapatılan sekmeyi aç
     .accesskey = K
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Eklentiyi şikâyet et
+    .accesskey = i
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Adres çubuğu menüsüne sabitle
+    .accesskey = s
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Araç çubuğunda kendiliğinden gizle
+    .accesskey = A
