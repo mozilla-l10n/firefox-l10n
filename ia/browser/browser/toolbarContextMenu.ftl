@@ -20,3 +20,12 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Reaperir le ultime scheda claudite
     .accesskey = u
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Clavar al menu disbordante
+    .accesskey = C
+toolbar-context-menu-view-customize-toolbar =
+    .label = Personalisar…
+    .accesskey = P
