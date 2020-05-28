@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Yopilgan varaqni qaytarish
     .accesskey = q
+toolbar-context-menu-remove-from-toolbar =
+    .label = Asboblar panelidan o‘chirish
+    .accesskey = o
