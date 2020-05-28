@@ -11,3 +11,6 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fixar nel menú flotante
     .accesskey = F
+toolbar-context-menu-remove-from-toolbar =
+    .label = Desaniciar de la barra de ferramientes
+    .accesskey = D
