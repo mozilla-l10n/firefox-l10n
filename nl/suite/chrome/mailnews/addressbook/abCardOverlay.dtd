@@ -48,6 +48,8 @@
 <!ENTITY ScreenName.label               "Schermnaam:">
 <!ENTITY ScreenName.accesskey           "S">
 
+<!ENTITY chatName.label                 "Chatnaam:">
+
 <!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "r">
 <!ENTITY HomePhone.label                "Thuis:">
@@ -118,6 +120,7 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Aantekeningen">
 <!ENTITY Notes.accesskey                "A">
+
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
