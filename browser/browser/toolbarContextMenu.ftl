@@ -38,3 +38,6 @@ toolbar-context-menu-auto-hide-downloads-button =
 toolbar-context-menu-remove-from-toolbar =
     .label = Retirar da barra de ferramentas
     .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
