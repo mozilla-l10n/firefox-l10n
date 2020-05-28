@@ -20,6 +20,12 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Deshacer cerrar pestaña
     .accesskey = h
+toolbar-context-menu-manage-extension =
+    .label = Administrar extensión
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Eliminar la extensión
+    .accesskey = E
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
@@ -32,6 +38,9 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Pegar en menú flotante
     .accesskey = P
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Ocultar automaticamente en la barra de herramientas
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Eliminar de la barra de herramientas
     .accesskey = R
