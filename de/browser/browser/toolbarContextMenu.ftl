@@ -20,3 +20,21 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Geschlossenen Tab wiederherstellen
     .accesskey = G
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Erweiterung melden
+    .accesskey = d
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = In Überhangmenü verschieben
+    .accesskey = b
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Automatisch aus Symbolleiste ausblenden
+    .accesskey = u
+toolbar-context-menu-remove-from-toolbar =
+    .label = Aus Symbolleiste entfernen
+    .accesskey = e
