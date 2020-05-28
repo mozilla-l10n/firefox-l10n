@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Titzolïx Titz'apïx Ruwi'
     .accesskey = T
+toolbar-context-menu-remove-from-toolbar =
+    .label = Telesäx el pa molsamajib'äl
+    .accesskey = T
