@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Angre lukking av fane
     .accesskey = n
+toolbar-context-menu-remove-from-toolbar =
+    .label = Fjern fra verktøylinje
+    .accesskey = n
