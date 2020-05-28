@@ -17,7 +17,7 @@
 <!ENTITY SecondEmail.label                     "Extra e-mailadres">
 <!ENTITY SecondEmail.accesskey                 "a">
 <!ENTITY Department.label                      "Afdeling">
-<!ENTITY Department.accesskey                  "d">
+<!ENTITY Department.accesskey                  "e">
 <!ENTITY JobTitle.label                        "Functie">
 <!ENTITY JobTitle.accesskey                    "t">
 <!ENTITY CellularNumber.label                  "Mobiel">
