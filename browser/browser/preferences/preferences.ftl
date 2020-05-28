@@ -558,6 +558,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Vis søkeforslag i private vindu
 suggestions-addressbar-settings = Endre innstillinger for nettleserhistorikk, bokmerker og faneforslag
+suggestions-addressbar-settings-generic = Endre innstillinger for andre adresselinjeforslag
 search-suggestions-cant-show = Søkeforslag vil ikke vises i adresselinjeresultatene fordi du har konfigurert { -brand-short-name } til å aldri huske historikk.
 search-one-click-header = Ettklikks søkemotorer
 search-one-click-desc = Velg alternative søkemotorer som vises under adresselinjen og søkelinjen når du begynner å skrive inn et søkeord.
