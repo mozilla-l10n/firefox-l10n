@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = 개인 정보 보호
 appmenuitem-protection-report-tooltip =
     .tooltiptext = 개인 정보 보호 보고서로 이동
 appmenuitem-protection-dashboard-title = 보호 기능 대시보드
+appmenuitem-customize-mode =
+    .label = 사용자 지정…
 
 ## Zoom Controls
 

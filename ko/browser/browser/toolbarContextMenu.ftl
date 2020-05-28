@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = 닫은 탭 다시 열기
     .accesskey = U
+toolbar-context-menu-view-customize-toolbar =
+    .label = 사용자 지정…
+    .accesskey = C
