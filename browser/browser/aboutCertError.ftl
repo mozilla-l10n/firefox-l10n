@@ -56,6 +56,9 @@ cert-error-details-hsts-label = HTTP 严格传输安全（HSTS）：{ $hasHSTS }
 cert-error-details-key-pinning-label = HTTP 公钥固定：{ $hasHPKP }
 cert-error-details-cert-chain-label = 证书链：
 open-in-new-window-for-csp-or-xfo-error = 在新窗口中打开网站
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = 为了保护您的安全，{ $hostname } 将不允许 { -brand-short-name } 显示嵌入于其他网站的页面。要查看此页面，请在新窗口中打开。
 
 ## Messages used for certificate error titles
 
