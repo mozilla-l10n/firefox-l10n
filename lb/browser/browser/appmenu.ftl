@@ -5,10 +5,16 @@
 
 ## App Menu
 
+appmenuitem-customize-mode =
+    .label = Upassen…
 
 ## Zoom Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Elo synchroniséieren
+
+## What's New panel in App menu.
+

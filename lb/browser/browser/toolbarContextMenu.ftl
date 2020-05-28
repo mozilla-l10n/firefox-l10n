@@ -5,3 +5,6 @@
 toolbar-context-menu-undo-close-tab =
     .label = Tab zoumaachen réckgängeg maachen
     .accesskey = U
+toolbar-context-menu-view-customize-toolbar =
+    .label = Upassen…
+    .accesskey = C
