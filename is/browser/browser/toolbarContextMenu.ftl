@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Afturkalla að loka flipa
     .accesskey = u
+toolbar-context-menu-remove-from-toolbar =
+    .label = Fjarlægja frá verkfæraslá
+    .accesskey = r
