@@ -23,3 +23,6 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-remove-from-toolbar =
     .label = Remover da barra de ferramentas
     .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
