@@ -14,3 +14,6 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-remove-from-toolbar =
     .label = Yishenxise kwiThulbha
     .accesskey = Y
+toolbar-context-menu-view-customize-toolbar =
+    .label = Lungiselela…
+    .accesskey = L
