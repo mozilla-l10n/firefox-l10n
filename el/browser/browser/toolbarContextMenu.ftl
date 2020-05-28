@@ -20,6 +20,9 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Αναίρεση κλεισίματος καρτέλας
     .accesskey = ι
+toolbar-context-menu-manage-extension =
+    .label = Διαχείριση επέκτασης
+    .accesskey = ε
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
