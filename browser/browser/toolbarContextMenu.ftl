@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Desfer a zarradura d'a zaguera pestanya
     .accesskey = D
+toolbar-context-menu-remove-from-toolbar =
+    .label = Eliminar d'a barra de ferramientas
+    .accesskey = E
