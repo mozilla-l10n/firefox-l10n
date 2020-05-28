@@ -63,6 +63,7 @@ policy-ExtensionSettings = 管理擴充套件的各種安裝設定。
 policy-ExtensionUpdate = 開啟或關閉擴充套件自動更新。
 policy-FirefoxHome = 設定 Firefox Home。
 policy-FlashPlugin = 允許或拒絕使用 Flash 擴充套件。
+policy-Handlers = 設定預設應用程式處理方式。
 policy-HardwareAcceleration = 若為 false，就會關閉硬體加速。
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = 設定或鎖定首頁。
