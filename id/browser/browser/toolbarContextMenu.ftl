@@ -20,9 +20,21 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Urungkan Menutup Tab
     .accesskey = g
+toolbar-context-menu-manage-extension =
+    .label = Kelola Ekstensi
+    .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Hapus Ekstensi
     .accesskey = h
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Laporkan Ekstensi
+    .accesskey = o
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Sembunyi-Otomatis di Bilah Alat
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Hapus dari Bilah Alat
     .accesskey = H
