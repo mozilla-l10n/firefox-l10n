@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Məxfilik Qorumaları
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Məxfilik hesabatınıza gedin
+appmenuitem-customize-mode =
+    .label = Fərdiləşdir…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = İndi Sinxronizə et
+
+## What's New panel in App menu.
+
