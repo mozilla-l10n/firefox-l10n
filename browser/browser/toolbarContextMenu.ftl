@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Anulează închiderea filei
     .accesskey = U
+toolbar-context-menu-view-customize-toolbar =
+    .label = Personalizează…
+    .accesskey = C
