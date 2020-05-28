@@ -8,3 +8,15 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = ပိတ်လိုက်သည့် တပ်ဗ်ကို ပြန်ဖွင့်ပါ
     .accesskey = U
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = ပိုလျှံမီနူးတွင် တွယ်ချိတ်ပါ
+    .accesskey = P
+toolbar-context-menu-remove-from-toolbar =
+    .label = ကိရိယာအတန်းမှ ဖယ်ရှားပါ
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = စိတ်ကြိုက်ပြင်ဆင်ရန်…
+    .accesskey = C
