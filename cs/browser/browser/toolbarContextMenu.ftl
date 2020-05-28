@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Obnovit zavřený panel
     .accesskey = t
+toolbar-context-menu-remove-from-toolbar =
+    .label = Odebrat z lišty
+    .accesskey = d
