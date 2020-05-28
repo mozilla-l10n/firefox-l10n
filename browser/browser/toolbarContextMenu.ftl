@@ -35,3 +35,6 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Araç çubuğunda kendiliğinden gizle
     .accesskey = A
+toolbar-context-menu-remove-from-toolbar =
+    .label = Araç çubuğundan kaldır
+    .accesskey = k
