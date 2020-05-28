@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = बन्द टेबखौ  सिगांनि महराव लाबोफिन
     .accesskey = U
+toolbar-context-menu-remove-from-toolbar =
+    .label = टुलबार निफ्राय बोखार
+    .accesskey = R
