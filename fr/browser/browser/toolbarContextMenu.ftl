@@ -23,6 +23,9 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-manage-extension =
     .label = Gérer l’extension
     .accesskey = G
+toolbar-context-menu-remove-extension =
+    .label = Supprimer l’extension
+    .accesskey = S
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
