@@ -20,3 +20,9 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = टॅब बंद करणे पूर्ववत् करा
     .accesskey = U
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = ओव्हरफ्लो मेनूला पिन करा
+    .accesskey = P
