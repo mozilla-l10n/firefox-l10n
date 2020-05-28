@@ -278,6 +278,8 @@ popup-silence-notifications-checkbox = Paylaşırken { -brand-short-name } bildi
 
 sharing-warning-proceed-to-tab =
     .label = Sekmeye devam et
+sharing-warning-disable-for-session =
+    .label = Bu oturumda paylaşım korumasını devre dışı bırak
 
 ## DevTools F12 popup
 
