@@ -5,3 +5,6 @@
 toolbar-context-menu-undo-close-tab =
     .label = Naa lash naa tòɁw loo koo güin penta
     .accesskey = N
+toolbar-context-menu-view-customize-toolbar =
+    .label = Tùs kùe...
+    .accesskey = e

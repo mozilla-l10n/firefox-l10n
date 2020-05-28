@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-customize-mode =
+    .label = Tùs kùe...
 
 ## Zoom Controls
 
@@ -17,3 +19,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ahora
+
+## What's New panel in App menu.
+
