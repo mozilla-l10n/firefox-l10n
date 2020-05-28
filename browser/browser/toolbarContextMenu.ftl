@@ -20,3 +20,24 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Tabblad sluiten ongedaan maken
     .accesskey = o
+toolbar-context-menu-manage-extension =
+    .label = Extensie beheren
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Extensie verwijderen
+    .accesskey = r
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Vastmaken aan overloopmenu
+    .accesskey = V
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Automatisch verbergen in werkbalk
+    .accesskey = u
+toolbar-context-menu-remove-from-toolbar =
+    .label = Verwijderen van werkbalk
+    .accesskey = w
+toolbar-context-menu-view-customize-toolbar =
+    .label = Aanpassen…
+    .accesskey = A
