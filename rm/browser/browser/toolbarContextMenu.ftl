@@ -20,12 +20,18 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Revocar il serrar dil tab
     .accesskey = r
+toolbar-context-menu-manage-extension =
+    .label = Administrar l'extensiun
+    .accesskey = e
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fixar en il menu extra
     .accesskey = F
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Zuppentar automaticamain en la trav d'utensils
+    .accesskey = a
 toolbar-context-menu-remove-from-toolbar =
     .label = Allontanar da la trav d'utensils
     .accesskey = l
