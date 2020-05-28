@@ -6,6 +6,8 @@
 ## App Menu
 
 appmenuitem-protection-report-title = Privātuma aizsardzība
+appmenuitem-customize-mode =
+    .label = Pielāgot…
 
 ## Zoom Controls
 
@@ -14,3 +16,6 @@ appmenuitem-protection-report-title = Privātuma aizsardzība
 
 fxa-toolbar-sync-now =
     .label = Sinhronizēt
+
+## What's New panel in App menu.
+
