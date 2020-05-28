@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Cosaint Príobháideachais
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Oscail do thuairisc phríobháideachais
+appmenuitem-customize-mode =
+    .label = Saincheap…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sioncronaigh Anois
+
+## What's New panel in App menu.
+
