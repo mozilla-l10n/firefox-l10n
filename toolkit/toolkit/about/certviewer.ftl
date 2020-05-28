@@ -13,6 +13,9 @@ certificate-viewer-email-address = ईमेल पता
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = सम्मिलित देश
 certificate-viewer-country = देश
+certificate-viewer-dns-name = DNS नाम
+certificate-viewer-ip-address = IP पता
+certificate-viewer-other-name = अन्य नाम
 certificate-viewer-id = आईडी
 certificate-viewer-location = स्थान
 certificate-viewer-logid = लॉग आईडी
@@ -34,7 +37,6 @@ certificate-viewer-version = संस्करण
 certificate-viewer-issuer-name = जारीकर्ता का नाम
 certificate-viewer-validity = वैधता
 certificate-viewer-certificate-policies = प्रमाणपत्र नीतियां
-
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = डाउनलोड
@@ -49,6 +51,7 @@ certificate-viewer-boolean =
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
