@@ -2,19 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## App Menu
-
-appmenuitem-customize-mode =
+toolbar-context-menu-remove-from-toolbar =
+    .label = टुलबार खोन ओचोक्
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
     .label = कुसियाक् तेयार…
-
-## Zoom Controls
-
-
-## Firefox Account toolbar button and Sync panel in App menu.
-
-fxa-toolbar-sync-now =
-    .label = नित् मित् ओकतो
-
-## What's New panel in App menu.
-
+    .accesskey = C
