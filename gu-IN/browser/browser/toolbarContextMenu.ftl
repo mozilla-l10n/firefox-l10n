@@ -32,3 +32,6 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-remove-from-toolbar =
     .label = સાધનપટ્ટીમાંથી દૂર કરો
     .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = વૈવિધ્યપૂર્ણ બનાવો...
+    .accesskey = C
