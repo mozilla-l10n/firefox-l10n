@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = બંધ ટૅબને ફરી લાવો
     .accesskey = U
+toolbar-context-menu-remove-from-toolbar =
+    .label = સાધનપટ્ટીમાંથી દૂર કરો
+    .accesskey = R
