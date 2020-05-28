@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Bảo vệ quyền riêng tư
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Đi đến báo cáo bảo mật của bạn
 appmenuitem-protection-dashboard-title = Bảng điều khiển bảo vệ
+appmenuitem-customize-mode =
+    .label = Tùy biến…
 
 ## Zoom Controls
 
