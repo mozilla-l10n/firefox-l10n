@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Відновити закриту вкладку
     .accesskey = В
+toolbar-context-menu-remove-from-toolbar =
+    .label = Вилучити з панелі
+    .accesskey = В
