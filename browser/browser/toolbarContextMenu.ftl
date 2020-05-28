@@ -23,12 +23,18 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-manage-extension =
     .label = 管理扩展
     .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = 移除扩展
+    .accesskey = v
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = 隐藏到折叠菜单
     .accesskey = P
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = 于工具栏自动隐去
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = 从工具栏中移除
     .accesskey = R
