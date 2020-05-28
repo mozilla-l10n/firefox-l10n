@@ -20,9 +20,18 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Sefsex amdal n yiccer
     .accesskey = S
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Senṭeḍ deg wumuɣ n tfuli
+    .accesskey = R
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Tufra twurmant deg ufeggag n ifecka
     .accesskey = A
+toolbar-context-menu-remove-from-toolbar =
+    .label = Kkes seg ufeggag n yifecka
+    .accesskey = K
 toolbar-context-menu-view-customize-toolbar =
     .label = Sagen…
     .accesskey = S
