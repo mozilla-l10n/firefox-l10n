@@ -32,3 +32,6 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-remove-from-toolbar =
     .label = Remove from Toolbar
     .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = Customize…
+    .accesskey = C
