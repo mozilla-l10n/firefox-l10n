@@ -20,12 +20,21 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Emboguevi tendayke ñemboty
     .accesskey = U
+toolbar-context-menu-manage-extension =
+    .label = Emongu’e jepysokue
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Emboguete pe jepysokue
+    .accesskey = v
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Pin poravorã hembypáva pegua
     .accesskey = P
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Emokañy ijehegui tembipuru rendápe
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Tembipuru rendágui mboguete
     .accesskey = R
