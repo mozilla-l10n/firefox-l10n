@@ -20,6 +20,21 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Angre attlating av fane
     .accesskey = n
+toolbar-context-menu-manage-extension =
+    .label = Handter utviding
+    .accesskey = e
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Fest til overflytsmenyen
+    .accesskey = F
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Skjul automatisk i verktøylinja
+    .accesskey = a
 toolbar-context-menu-remove-from-toolbar =
     .label = Fjern frå verktøylinja
     .accesskey = n
+toolbar-context-menu-view-customize-toolbar =
+    .label = Tilpass…
+    .accesskey = T
