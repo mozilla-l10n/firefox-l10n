@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Obnoviť zatvorenú kartu
     .accesskey = b
+toolbar-context-menu-remove-from-toolbar =
+    .label = Odstrániť z panela nástrojov
+    .accesskey = O
