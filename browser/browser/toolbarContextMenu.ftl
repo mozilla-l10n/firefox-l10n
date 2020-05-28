@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Адмяніць закрыццё карткі
     .accesskey = А
+toolbar-context-menu-remove-from-toolbar =
+    .label = Выдаліць з паліцы прылад
+    .accesskey = В
