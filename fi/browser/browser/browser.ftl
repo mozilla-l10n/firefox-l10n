@@ -266,6 +266,12 @@ popup-select-microphone =
     .value = Jaettava mikrofoni:
     .accesskey = m
 popup-all-windows-shared = Kaikki näkyvissä olevat ikkunat jaetaan.
+popup-screen-sharing-not-now =
+    .label = Ei nyt
+    .accesskey = E
+popup-screen-sharing-never =
+    .label = Älä salli koskaan
+    .accesskey = Ä
 
 ## WebRTC window or screen share tab switch warning
 
