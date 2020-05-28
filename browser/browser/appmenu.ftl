@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Pribatutasun-babesak
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Joan zure pribatutasun-txostenera
 appmenuitem-protection-dashboard-title = Babesen panela
+appmenuitem-customize-mode =
+    .label = Pertsonalizatu…
 
 ## Zoom Controls
 
