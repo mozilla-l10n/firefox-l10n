@@ -23,3 +23,6 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-remove-from-toolbar =
     .label = Ze symboloweje rědki wótpóraś
     .accesskey = Z
+toolbar-context-menu-view-customize-toolbar =
+    .label = Pśiměriś…
+    .accesskey = m

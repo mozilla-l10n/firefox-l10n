@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Šćit priwatnosći
 appmenuitem-protection-report-tooltip =
     .tooltiptext = K wašej rozpšawje priwatnosći pśejś
 appmenuitem-protection-dashboard-title = Pśeglěd šćitow
+appmenuitem-customize-mode =
+    .label = Pśiměriś…
 
 ## Zoom Controls
 
@@ -21,3 +23,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Něnto synchronizěrowaś
+
+## What's New panel in App menu.
+
