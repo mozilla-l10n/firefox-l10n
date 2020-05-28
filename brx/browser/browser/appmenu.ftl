@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = गुमुरथि रैखाथि
 appmenuitem-protection-report-tooltip =
     .tooltiptext = नोंथांनि गुमुरथिनि फोरमान बिलाइआव थां
+appmenuitem-customize-mode =
+    .label = गावनि गोसोबादि माव...
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = दानो सिनक खालाम
+
+## What's New panel in App menu.
+
