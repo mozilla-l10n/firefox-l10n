@@ -5,6 +5,12 @@
 toolbar-context-menu-undo-close-tab =
     .label = बन्द गरिएको ट्याबलाई पुनः खोल्नुहोस्
     .accesskey = U
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = ओभरफ्लो मेनुमा पिन गर्नुहोस्
+    .accesskey = P
 toolbar-context-menu-remove-from-toolbar =
     .label = टुलबारबाट हटाउनुहोस्
     .accesskey = R
