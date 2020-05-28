@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Schutzmaßnahmen
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Bericht zu Schutzmaßnahmen für Datenschutz öffnen
+appmenuitem-customize-mode =
+    .label = Anpassen…
 
 ## Zoom Controls
 
