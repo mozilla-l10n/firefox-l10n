@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Ångra flikstängning
     .accesskey = g
+toolbar-context-menu-remove-from-toolbar =
+    .label = Ta bort från verktygsfält
+    .accesskey = T
