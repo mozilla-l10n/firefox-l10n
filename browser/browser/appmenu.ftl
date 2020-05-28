@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Diogelu Preifatrwydd
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ewch i'ch adroddiad preifatrwydd
 appmenuitem-protection-dashboard-title = Bwrdd Gwaith Diogelwch
+appmenuitem-customize-mode =
+    .label = Cyfaddasu…
 
 ## Zoom Controls
 
