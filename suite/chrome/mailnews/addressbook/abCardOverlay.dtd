@@ -65,7 +65,7 @@
 <!ENTITY Home.tab                       "Privé">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adres:">
-<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Woonplaats:">
@@ -95,7 +95,7 @@
 <!ENTITY Company.label                  "Organisatie:">
 <!ENTITY Company.accesskey              "r">
 <!ENTITY WorkAddress.label              "Adres:">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Plaats:">
@@ -120,7 +120,7 @@
 <!ENTITY Custom4.label                  "Overig 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Aantekeningen">
-<!ENTITY Notes.accesskey                "A">
+<!ENTITY Notes.accesskey                "n">
 
 <!ENTITY Chat.tab                       "Chat">
 <!ENTITY Chat.accesskey                 "a">
