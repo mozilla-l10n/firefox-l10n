@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = پارێزگاری تایبەتێتی
 appmenuitem-protection-report-tooltip =
     .tooltiptext = بڕۆ بۆ ڕاپۆرتی تایبەتێتی خۆت
 appmenuitem-protection-dashboard-title = بۆردی پارێزگاری
+appmenuitem-customize-mode =
+    .label = دڵخوازکردن…
 
 ## Zoom Controls
 
