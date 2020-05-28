@@ -20,9 +20,18 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = أعِد فتح اللسان
     .accesskey = د
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = ثبّت في قائمة الزيادة
+    .accesskey = ث
 toolbar-context-menu-auto-hide-downloads-button =
     .label = أخفِ تلقائيا في شريط الأدوات
     .accesskey = خ
+toolbar-context-menu-remove-from-toolbar =
+    .label = احذف من شريط الأدوات
+    .accesskey = ح
 toolbar-context-menu-view-customize-toolbar =
     .label = خصّص…
     .accesskey = ص
