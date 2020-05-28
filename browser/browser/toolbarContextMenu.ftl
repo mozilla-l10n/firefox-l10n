@@ -38,3 +38,6 @@ toolbar-context-menu-auto-hide-downloads-button =
 toolbar-context-menu-remove-from-toolbar =
     .label = Aus Symbolleiste entfernen
     .accesskey = e
+toolbar-context-menu-view-customize-toolbar =
+    .label = Anpassen…
+    .accesskey = A
