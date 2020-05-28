@@ -8,10 +8,16 @@
 appmenuitem-protection-report-title = Privātuma aizsardzeiba
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Porīt iz sovu atskaiti par privātumu
+appmenuitem-customize-mode =
+    .label = Pīlāgōt…
 
 ## Zoom Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sinhronizeit
+
+## What's New panel in App menu.
+
