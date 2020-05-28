@@ -22,10 +22,10 @@ toolbar-context-menu-undo-close-tab =
     .accesskey = g
 toolbar-context-menu-manage-extension =
     .label = Hantera tillägg
-    .accesskey = H
+    .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Ta bort tillägg
-    .accesskey = T
+    .accesskey = v
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
@@ -43,7 +43,7 @@ toolbar-context-menu-auto-hide-downloads-button =
     .accesskey = a
 toolbar-context-menu-remove-from-toolbar =
     .label = Ta bort från verktygsfält
-    .accesskey = T
+    .accesskey = R
 toolbar-context-menu-view-customize-toolbar =
     .label = Anpassa…
-    .accesskey = A
+    .accesskey = C
