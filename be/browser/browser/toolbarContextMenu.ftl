@@ -20,6 +20,18 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Адмяніць закрыццё карткі
     .accesskey = А
+toolbar-context-menu-manage-extension =
+    .label = Кіраваць пашырэннем
+    .accesskey = К
+toolbar-context-menu-remove-extension =
+    .label = Выдаліць пашырэнне
+    .accesskey = і
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Паведаміць пра пашырэнне
+    .accesskey = ш
 toolbar-context-menu-remove-from-toolbar =
     .label = Выдаліць з паліцы прылад
     .accesskey = В
