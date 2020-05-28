@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-customize-mode =
+    .label = Ntasai nixi kunu…
 
 ## Zoom Controls
 
@@ -17,3 +19,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Chita'an vichi
+
+## What's New panel in App menu.
+
