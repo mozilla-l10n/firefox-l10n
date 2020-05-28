@@ -20,3 +20,15 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Malfermi fermitan langeton
     .accesskey = M
+toolbar-context-menu-remove-extension =
+    .label = Forigi etendaĵon
+    .accesskey = F
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Denunci etendaĵon
+    .accesskey = D
+toolbar-context-menu-remove-from-toolbar =
+    .label = Forigi el ilarstrio
+    .accesskey = f
