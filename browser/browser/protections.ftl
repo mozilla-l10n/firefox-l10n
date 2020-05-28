@@ -165,6 +165,12 @@ password-warning =
        *[other] mots de passe enregistrés peuvent avoir été compromis par une fuite de données. Changez ces mots de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
     }
 monitor-no-breaches-title = Bonne nouvelle !
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = Terminé à { $percentComplete } %
+monitor-partial-breaches-motivation-title-start = Un bon début !
+monitor-partial-breaches-motivation-title-middle = Gardez le rythme !
+monitor-partial-breaches-motivation-title-end = C’est presque fini. Continuez !
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
