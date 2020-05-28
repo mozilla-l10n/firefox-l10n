@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Gwokke me Mung
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Cit i ripot me mung mamegi
+appmenuitem-customize-mode =
+    .label = Yiki…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Rib Kombedi
+
+## What's New panel in App menu.
+
