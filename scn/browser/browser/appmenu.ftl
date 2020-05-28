@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Prutizziuna pâ privatizza
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vai ô rapportu di privatizza
+appmenuitem-customize-mode =
+    .label = Pirsunalizza…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sincrunizza ora
+
+## What's New panel in App menu.
+
