@@ -15,6 +15,7 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = 인증 기관
 certmgr-mine = 사용자를 확인하는 이 기관의 인증서를 가지고 있습니다
+certmgr-remembered = 이 인증서는 웹 사이트에서 사용자를 식별하는 데 사용됩니다.
 certmgr-people = 다음 사람들을 확인하는 파일의 인증서를 가지고 있습니다
 certmgr-servers = 다음 서버들을 확인하는 파일의 인증서를 가지고 있습니다
 certmgr-ca = 다음 인증 권한을 확인하는 파일의 인증서를 가지고 있습니다
