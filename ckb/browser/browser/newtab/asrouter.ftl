@@ -83,6 +83,14 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = چی نوێ هەیە
 cfr-whatsnew-release-notes-link-text = سەرنجەکانی وەشان بخوێنەوە
 cfr-whatsnew-tracking-protect-link-text = ڕاپۆرت پیشان بدە
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] چاودێریکەر بلۆک کرا
+       *[other] چاودێریکەر بلۆک کرا
+    }
 cfr-whatsnew-tracking-blocked-subtitle = لە { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ڕاپۆرت پیشان بدە
 cfr-whatsnew-lockwise-backup-title = وشەی تێپەڕبوونەکانت پاڵپشت هەڵگرە.
