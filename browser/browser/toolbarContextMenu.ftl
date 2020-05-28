@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Atsaukt cilnes aizvēršanu
     .accesskey = u
+toolbar-context-menu-remove-from-toolbar =
+    .label = Aizvākt no rīkjoslas
+    .accesskey = r
