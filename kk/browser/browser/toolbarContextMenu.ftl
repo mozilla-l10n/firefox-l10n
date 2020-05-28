@@ -20,12 +20,27 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Жабылған бетті қайтару
     .accesskey = л
+toolbar-context-menu-manage-extension =
+    .label = Кеңейтуді басқару
+    .accesskey = е
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Кеңейтуді хабарлау
+    .accesskey = у
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Қайта аймалау мәзіріне жапсыру
     .accesskey = п
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Құралдар панелінде автожасыру
+    .accesskey = а
+toolbar-context-menu-remove-from-toolbar =
+    .label = Құралдар панелінен өшіру
+    .accesskey = ш
 toolbar-context-menu-view-customize-toolbar =
     .label = Баптау…
     .accesskey = а
