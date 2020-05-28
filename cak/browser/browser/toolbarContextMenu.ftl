@@ -20,6 +20,12 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Titzolïx Titz'apïx Ruwi'
     .accesskey = T
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Tiya' pa Ruxik'oj K'utsamaj
+    .accesskey = T
 toolbar-context-menu-remove-from-toolbar =
     .label = Telesäx el pa molsamajib'äl
     .accesskey = T
