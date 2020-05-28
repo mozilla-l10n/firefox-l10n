@@ -6,6 +6,8 @@
 ## App Menu
 
 appmenuitem-protection-report-title = Proteçioin in sciâ privacy
+appmenuitem-customize-mode =
+    .label = Personalizza…
 
 ## Zoom Controls
 
@@ -14,3 +16,6 @@ appmenuitem-protection-report-title = Proteçioin in sciâ privacy
 
 fxa-toolbar-sync-now =
     .label = Scincronizza òua
+
+## What's New panel in App menu.
+
