@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Desegin fitxa ixtea
     .accesskey = D
+toolbar-context-menu-remove-from-toolbar =
+    .label = Kendu tresna-barratik
+    .accesskey = K
