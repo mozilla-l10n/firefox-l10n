@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-customize-mode =
+    .label = ប្ដូរ​តាម​តម្រូវ​ការ…
 
 ## Zoom Controls
 
@@ -17,3 +19,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = ធ្វើ​សមកាលកម្ម​ឥឡូវ
+
+## What's New panel in App menu.
+
