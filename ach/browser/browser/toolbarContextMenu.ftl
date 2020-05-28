@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Gony loro dirica matidi
     .accesskey = G
+toolbar-context-menu-remove-from-toolbar =
+    .label = Kwany ki bot gintic
+    .accesskey = K
