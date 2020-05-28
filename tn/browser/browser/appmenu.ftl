@@ -5,10 +5,16 @@
 
 ## App Menu
 
+appmenuitem-customize-mode =
+    .label = tshwanedisa...
 
 ## Zoom Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Rulaganya ka tsamaisano gone Jaana
+
+## What's New panel in App menu.
+
