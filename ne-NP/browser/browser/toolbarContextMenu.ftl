@@ -5,3 +5,9 @@
 toolbar-context-menu-undo-close-tab =
     .label = बन्द गरिएको ट्याबलाई पुनः खोल्नुहोस्
     .accesskey = U
+toolbar-context-menu-remove-from-toolbar =
+    .label = टुलबारबाट हटाउनुहोस्
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = अनुकुलित बनाउनुहोस्...
+    .accesskey = C
