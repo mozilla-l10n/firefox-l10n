@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Annuler la fermeture de l’onglet
     .accesskey = n
+toolbar-context-menu-remove-from-toolbar =
+    .label = Retirer de la barre d’outils
+    .accesskey = R
