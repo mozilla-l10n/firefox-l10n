@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Integritetsskydd
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gå till din integritetsrapport
 appmenuitem-protection-dashboard-title = Säkerhetsöversikt
+appmenuitem-customize-mode =
+    .label = Anpassa…
 
 ## Zoom Controls
 
