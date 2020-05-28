@@ -29,3 +29,6 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-remove-from-toolbar =
     .label = Telesäx el pa molsamajib'äl
     .accesskey = T
+toolbar-context-menu-view-customize-toolbar =
+    .label = Tichinäx…
+    .accesskey = T

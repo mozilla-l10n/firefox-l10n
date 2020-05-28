@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Richinanem Chajinem
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tatz'eta' ri ichinan rutzijol
+appmenuitem-customize-mode =
+    .label = Tichinäx…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Tixim Wakami
+
+## What's New panel in App menu.
+
