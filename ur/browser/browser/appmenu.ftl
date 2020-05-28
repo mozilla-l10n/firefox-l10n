@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = رازداری سے تحفظ
 appmenuitem-protection-report-tooltip =
     .tooltiptext = اپنی رازداری رپورٹ پر جائیں
+appmenuitem-customize-mode =
+    .label = تخصیص کریں…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = ابھی Sync کریں
+
+## What's New panel in App menu.
+

@@ -17,3 +17,12 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-manage-extension =
     .label = توسیع بندرست کریں
     .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = ایکسٹینشن ہٹائیں
+    .accesskey = v
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = اورفلوں مینو مے پن کرے
+    .accesskey = P
