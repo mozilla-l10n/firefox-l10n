@@ -20,3 +20,24 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Võta kaardi sulgemine tagasi
     .accesskey = V
+toolbar-context-menu-manage-extension =
+    .label = Halda laiendust
+    .accesskey = l
+toolbar-context-menu-remove-extension =
+    .label = Eemalda laiendus
+    .accesskey = i
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Raporteeri laiendusest
+    .accesskey = R
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Liiguta nurgatagusesse menüüsse
+    .accesskey = r
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Peidetakse tööriistaribalt automaatselt
+    .accesskey = r
