@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = ביטול סגירת לשונית
     .accesskey = ב
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = הסתרה אוטומטית בסרגל הכלים
+    .accesskey = א
