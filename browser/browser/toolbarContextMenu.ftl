@@ -20,6 +20,30 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Fortryd lukning af faneblad
     .accesskey = l
+toolbar-context-menu-manage-extension =
+    .label = Håndter udvidelse
+    .accesskey = H
+toolbar-context-menu-remove-extension =
+    .label = Fjern udvidelse
+    .accesskey = v
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Rapporter udvidelse
+    .accesskey = o
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Fastgør til >>-menuen
+    .accesskey = a
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Skjul automatisk i værktøjslinje
+    .accesskey = S
+toolbar-context-menu-remove-from-toolbar =
+    .label = Fjern fra værktøjslinje
+    .accesskey = j
 toolbar-context-menu-view-customize-toolbar =
     .label = Tilpas…
     .accesskey = p
