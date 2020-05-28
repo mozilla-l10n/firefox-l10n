@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Fortryd lukning af faneblad
     .accesskey = l
+toolbar-context-menu-view-customize-toolbar =
+    .label = Tilpas…
+    .accesskey = p
