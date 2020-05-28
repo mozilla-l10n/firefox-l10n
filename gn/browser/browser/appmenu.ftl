@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Ñemiguáva ñemo’ã
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tereho ne marandu’i ñemiguápe
 appmenuitem-protection-dashboard-title = Ñemo’ãha renda
+appmenuitem-customize-mode =
+    .label = Ñemomba'e…
 
 ## Zoom Controls
 
@@ -21,3 +23,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Embojuehe ko'ág̃a
+
+## What's New panel in App menu.
+
