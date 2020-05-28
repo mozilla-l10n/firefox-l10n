@@ -44,6 +44,7 @@ protection-report-page-summary = { -brand-short-name } можа ахоўваць
 protection-report-settings-link = Кіруйце сваімі наладамі прыватнасці і бяспекі
 etp-card-title-always = Узмоцненая ахова ад сачэння: заўсёды ўключана
 etp-card-title-custom-not-blocking = Узмоцненая ахова ад сачэння: ВЫКЛЮЧАНА
+etp-card-content-description = { -brand-short-name } аўтаматычна спыняе таемнае сачэнне кампаній за вамі ў Інтэрнэце.
 protection-report-etp-card-content-custom-not-blocking = Усе меры аховы зараз адключаны. Выберыце, якія трэкеры трэба заблакаваць, кіруючы наладамі аховы { -brand-short-name }.
 protection-report-manage-protections = Кіраваць наладамі
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
