@@ -110,6 +110,7 @@ audio-backend = Back-end audio
 max-audio-channels = Numero massimo di canali
 channel-layout = Layout preferito dei canali
 sample-rate = Frequenza di campionamento preferita
+roundtrip-latency = Latenza di andata e ritorno (deviazione standard)
 media-title = Media
 media-output-devices-title = Dispositivi di output
 media-input-devices-title = Dispositivi di input
