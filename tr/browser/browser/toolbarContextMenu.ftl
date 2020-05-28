@@ -20,6 +20,9 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Son kapatılan sekmeyi aç
     .accesskey = K
+toolbar-context-menu-manage-extension =
+    .label = Eklentiyi yönet
+    .accesskey = E
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
