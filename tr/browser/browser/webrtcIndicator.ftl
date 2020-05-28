@@ -12,9 +12,12 @@
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Paylaşım Göstergesi
 webrtc-sharing-window = Başka bir uygulama penceresini paylaşıyorsunuz.
+webrtc-sharing-browser-window = { -brand-short-name } tarayıcınızı paylaşıyorsunuz.
 webrtc-sharing-screen = Tüm ekranınızı paylaşıyorsunuz.
 webrtc-stop-sharing-button = Paylaşmayı durdur
 webrtc-microphone-button =
     .title = Mikrofununuz paylaşılıyor. Paylaşımı yönetmek için tıklayın.
 webrtc-camera-button =
     .title = Kameranız paylaşılıyor. Paylaşımı yönetmek için tıklayın.
+webrtc-minimize =
+    .title = Göstergeyi küçült
