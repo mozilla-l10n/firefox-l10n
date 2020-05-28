@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Отваряне на затворен раздел
     .accesskey = О
+toolbar-context-menu-remove-from-toolbar =
+    .label = Премахване от лентата с инструменти
+    .accesskey = П
