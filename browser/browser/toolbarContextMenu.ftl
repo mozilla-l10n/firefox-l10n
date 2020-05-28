@@ -8,6 +8,12 @@ toolbar-context-menu-reload-selected-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Undo ಟ್ಯಾಬ್ ಮುಚ್ಚು
     .accesskey = U
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = ಒವರ್‌ಫ್ಲೋ ಮೆನುವಿಗೆ ಪಿನ್ ಮಾಡಿ
+    .accesskey = P
 toolbar-context-menu-remove-from-toolbar =
     .label = Remove ಉಪಕರಣ ಪಟ್ಟಿಯಿಂದ
     .accesskey = R
