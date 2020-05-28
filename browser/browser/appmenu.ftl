@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Privatumo apsaugos
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Eiti į jūsų privatumo ataskaitą
 appmenuitem-protection-dashboard-title = Apsaugos skydelis
+appmenuitem-customize-mode =
+    .label = Tvarkyti…
 
 ## Zoom Controls
 
@@ -21,3 +23,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sinchronizuoti dabar
+
+## What's New panel in App menu.
+
