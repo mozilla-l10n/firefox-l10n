@@ -20,6 +20,30 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Obnovit zavřený panel
     .accesskey = t
+toolbar-context-menu-manage-extension =
+    .label = Nastavení tohoto rozšíření
+    .accesskey = e
+toolbar-context-menu-remove-extension =
+    .label = Odebrat rozšíření
+    .accesskey = r
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Nahlásit rozšíření
+    .accesskey = N
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Přesunout do rozšiřující nabídky
+    .accesskey = P
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Automaticky skrývat
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Odebrat z lišty
     .accesskey = d
+toolbar-context-menu-view-customize-toolbar =
+    .label = Nastavení tlačítek a lišt…
+    .accesskey = V

@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Ochrana soukromí
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Otevře přehled ochrany vašeho soukromí
 appmenuitem-protection-dashboard-title = Přehled ochrany soukromí
+appmenuitem-customize-mode =
+    .label = Nastavení tlačítek a lišt…
 
 ## Zoom Controls
 
