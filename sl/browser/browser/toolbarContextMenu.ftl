@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Ponovno odpri zavihek
     .accesskey = H
+toolbar-context-menu-remove-from-toolbar =
+    .label = Odstrani iz orodne vrstice
+    .accesskey = R
