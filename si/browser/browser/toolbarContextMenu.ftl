@@ -5,3 +5,9 @@
 toolbar-context-menu-undo-close-tab =
     .label = ටැබ් වැසීම අහෝසි කරන්න
     .accesskey = U
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = පිටාර මෙනුවට අමුණන්න
+    .accesskey = P
