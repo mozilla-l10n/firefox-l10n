@@ -5,3 +5,9 @@
 toolbar-context-menu-undo-close-tab =
     .label = Ontdoen sluit van oortjie
     .accesskey = O
+toolbar-context-menu-remove-from-toolbar =
+    .label = Skrap vanaf nutsbalk
+    .accesskey = r
+toolbar-context-menu-view-customize-toolbar =
+    .label = Doelmaak…
+    .accesskey = D
