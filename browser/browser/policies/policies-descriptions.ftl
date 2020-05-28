@@ -26,6 +26,7 @@ policy-DisabledCiphers = השבתת צפנים.
 policy-DefaultDownloadDirectory = הגדרת תיקיית ההורדות ברירת המחדל.
 policy-DisableAppUpdate = מניעת עדכון הדפדפן.
 policy-DisableBuiltinPDFViewer = השבתת PDF.js, מציג ה־PDF המובנה ב־{ -brand-short-name }.
+policy-DisableDefaultBrowserAgent = למנוע מסוכן הדפדפן ברירת המחדל מלבצע פעולות כלשהן. תקף ל־Windows בלבד; בסביבות אחרות אין את הסוכן הזה.
 policy-DisableDeveloperTools = חסימת גישה לכלי הפיתוח.
 policy-DisableFeedbackCommands = השבתת פקודות לשליחת משוב מתפריט העזרה (שליחת משוב ודיווח על אתר מטעה).
 policy-DisableFirefoxAccounts = השבתת שירותים מבוססי { -fxaccount-brand-name }, לרבות Sync.
@@ -62,6 +63,7 @@ policy-ExtensionSettings = ניהול כל ההיבטים של התקנת הרח
 policy-ExtensionUpdate = הפעלה או השבתה של עדכונים אוטומטיים להרחבות.
 policy-FirefoxHome = הגדרת תצורה של מסך הבית של Firefox.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
+policy-Handlers = קביעת תצורה של מטפלים ביישומי ברירת מחדל.
 policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ־false.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = הגדרה ונעילה כרשות של דף הבית.
