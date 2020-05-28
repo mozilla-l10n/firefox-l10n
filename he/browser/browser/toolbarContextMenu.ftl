@@ -20,6 +20,15 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = ביטול סגירת לשונית
     .accesskey = ב
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = הצמדה לתפריט הצף
+    .accesskey = צ
 toolbar-context-menu-auto-hide-downloads-button =
     .label = הסתרה אוטומטית בסרגל הכלים
     .accesskey = א
+toolbar-context-menu-remove-from-toolbar =
+    .label = הסרה מסרגל הכלים
+    .accesskey = ר
