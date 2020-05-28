@@ -32,6 +32,18 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = Паведаміць пра пашырэнне
     .accesskey = ш
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Замацаваць у меню перапаўнення
+    .accesskey = З
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Аўтаматычна хаваць на паліцы прылад
+    .accesskey = А
 toolbar-context-menu-remove-from-toolbar =
     .label = Выдаліць з паліцы прылад
     .accesskey = В
+toolbar-context-menu-view-customize-toolbar =
+    .label = Уладкаваць…
+    .accesskey = л
