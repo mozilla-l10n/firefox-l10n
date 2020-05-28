@@ -5,3 +5,6 @@
 toolbar-context-menu-undo-close-tab =
     .label = Vrati zatvoreni tab
     .accesskey = V
+toolbar-context-menu-remove-from-toolbar =
+    .label = Ukloni iz alatne trake
+    .accesskey = r
