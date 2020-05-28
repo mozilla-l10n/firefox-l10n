@@ -20,12 +20,21 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Poništi zatvaranje kartice
     .accesskey = P
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Prijavi dodatak
+    .accesskey = o
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Zakači u dodatni izbornik
     .accesskey = Z
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Automatski sakrij u alatnoj traci
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Ukloni s alatne trake
     .accesskey = r
