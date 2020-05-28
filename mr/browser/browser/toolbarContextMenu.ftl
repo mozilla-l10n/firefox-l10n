@@ -20,6 +20,9 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = टॅब बंद करणे पूर्ववत् करा
     .accesskey = U
+toolbar-context-menu-manage-extension =
+    .label = एक्सटेन्शन व्यवस्थापित करा
+    .accesskey = E
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
