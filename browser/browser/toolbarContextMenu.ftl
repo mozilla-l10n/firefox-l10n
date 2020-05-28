@@ -38,3 +38,6 @@ toolbar-context-menu-auto-hide-downloads-button =
 toolbar-context-menu-remove-from-toolbar =
     .label = Araç çubuğundan kaldır
     .accesskey = k
+toolbar-context-menu-view-customize-toolbar =
+    .label = Özelleştir…
+    .accesskey = Ö
