@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = 隱私保護
 appmenuitem-protection-report-tooltip =
     .tooltiptext = 前往您的隱私報告
 appmenuitem-protection-dashboard-title = 保護資訊儀錶板
+appmenuitem-customize-mode =
+    .label = 自訂…
 
 ## Zoom Controls
 
