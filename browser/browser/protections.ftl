@@ -167,7 +167,7 @@ password-warning =
 monitor-no-breaches-title = Bonne nouvelle !
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
-monitor-partial-breaches-percentage = Terminé à { $percentComplete } %
+monitor-partial-breaches-percentage = Terminé à { $percentageResolved } %
 monitor-partial-breaches-motivation-title-start = Un bon début !
 monitor-partial-breaches-motivation-title-middle = Gardez le rythme !
 monitor-partial-breaches-motivation-title-end = C’est presque fini. Continuez !
