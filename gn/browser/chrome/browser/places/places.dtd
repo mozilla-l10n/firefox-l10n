@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Techaukaha jereraha HTML-ramo">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Mba'ekuaarã jereru...">
+<!ENTITY importOtherBrowser.label          "Mba’ekuaarã jereru…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Mbokuatia...">

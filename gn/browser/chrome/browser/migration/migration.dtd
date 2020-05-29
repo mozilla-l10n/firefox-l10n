@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Mba'ejegueru pytyvõha">
 
-<!ENTITY importFrom.label               "Jeporavorã jegueru, techaukaha, tembiasakue, ñe'ẽñemi ha ambue mba'ekuaarã kóvagui:">
-<!ENTITY importFromUnix.label           "Jerohoryvéva jegueru, techaukaha, tembiasakue, ñe'ẽñemi ha ambue mba'ekuaarã kóvagui:">
+<!ENTITY importFrom.label               "Jeporavorã jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:">
+<!ENTITY importFromUnix.label           "Jerohoryvéva jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:">
 <!ENTITY importFromBookmarks.label      "Techaukaha jegueru kóvagui:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -36,9 +36,9 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Ndojejuhúi tembiaporape oguerekóva techaukaha, tembiasakue térã mba'ekuaarã ñe'ẽñemi rehegua.">
+<!ENTITY noMigrationSources.label       "Ndojejuhúi tembiaporape oguerekóva techaukaha, tembiasakue térã mba’ekuaarã ñe’ẽñemi rehegua.">
 
-<!ENTITY importSource.title             "Mba'epytyvõrã ha mba'ekuaarã jegueru">
+<!ENTITY importSource.title             "Mba’epytyvõrã ha mba’ekuaarã jegueru">
 <!ENTITY importItems.title              "Mba'epuru ojeguerútava">
 <!ENTITY importItems.label              "Eiporavo mba'epuru reguerútava">
 
@@ -46,7 +46,7 @@
 <!ENTITY migrating.label                "Ojegueruhína ko'ã mba'epuru…">
 
 <!ENTITY selectProfile.title            "Rechaukaha jeporavo">
-<!ENTITY selectProfile.label            "Ikatu regueru mba'ekuaarã ko'ã  rechaukahakuéragui:">
+<!ENTITY selectProfile.label            "Ikatu regueru mba’ekuaarã ko’ã rechaukahakuéragui:">
 
 <!ENTITY done.title                     "Jeguerupaite">
 <!ENTITY done.label                     "Ko'ã mba'epuru ojeguerupa porã:">
