@@ -165,6 +165,20 @@ password-warning =
        *[other] conexiones guardadas podrían haberse visto expuesta en una filtración de datos. Cambia la contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver conexiones guardadas</a>
     }
 monitor-no-breaches-title = ¡Buenas noticias!
+monitor-no-breaches-description = No tienes filtraciones conocidas. Si eso cambia, te lo haremos saber.
+monitor-view-report-link = Ver reporte
+    .title = Resuelve las filtraciones en { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Resuelve tus filtraciones
+monitor-manage-breaches-link = Gestionar filtraciones
+    .title = Gestiona filtraciones en { -monitor-brand-short-name }
+monitor-breaches-resolved-title = ¡Genial! Has resuelto todas las filtraciones conocidas.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentComplete }% completo
+monitor-partial-breaches-motivation-title-start = ¡Empezaste bien!
+monitor-partial-breaches-motivation-title-middle = ¡Sigue así!
+monitor-partial-breaches-motivation-title-end = ¡Casi listo! Continúa.
+monitor-partial-breaches-motivation-desc = Resuelve el resto de tus filtraciones en { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Resolver filtraciones
     .title = Resuelve filtraciones en { -monitor-brand-short-name }
 
