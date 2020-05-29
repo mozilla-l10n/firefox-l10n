@@ -911,6 +911,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Les onglets ouverts
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = Sites les plus visités
+    .accesskey = v
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 
 ## Privacy Section - Content Blocking
