@@ -165,6 +165,14 @@ password-warning =
        *[other] mots de passe enregistrés peuvent avoir été compromis par une fuite de données. Changez ces mots de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
     }
 monitor-no-breaches-title = Bonne nouvelle !
+monitor-no-breaches-description = Vous n’apparaissez dans aucune fuite de données connue. Si cela vient à changer, nous vous en aviserons.
+monitor-view-report-link = Voir le rapport
+    .title = Régler les fuites de données avec { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Réglez vos fuites de données
+monitor-breaches-unresolved-description = Après avoir examiné les détails des fuites de données et pris des mesures pour protéger vos informations, vous pouvez marquer les fuites comme réglées.
+monitor-manage-breaches-link = Gérer les fuites de données
+    .title = Gérer les fuites de données avec { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Bien ! Vous avez réglé toutes les fuites de données connues.
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = Terminé à { $percentageResolved } %
