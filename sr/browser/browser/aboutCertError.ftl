@@ -55,6 +55,10 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
+open-in-new-window-for-csp-or-xfo-error = Отворите страницу у новом прозору
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Да би заштитио вашу сигурност, { $hostname } неће дозволити { -brand-short-name }-у да прикаже страницу ако ју је уградио неки други сајт. Да бисте видели ову страницу, потребно је да је отворите у новом прозору.
 
 ## Messages used for certificate error titles
 
@@ -85,6 +89,7 @@ unknownSocketType-title = Неочекиван одговор од сервер�
 nssFailure2-title = Безбедна веза није успостављена
 cspBlocked-title = Блокирано због полисе о безбедности садржаја
 xfoBlocked-title = Блокирано према X-Frame-Options политици
+csp-xfo-error-title = { -brand-short-name } не може да отвори ову страницу
 corruptedContentError-title = Грешка оштећеног садржаја
 remoteXUL-title = Удаљени XUL
 sslv3Used-title = Не могу се повезати безбедно

@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Претражи
     .aria-label = Претражи
-
 newtab-search-box-search-the-web-text = Претражи веб
 newtab-search-box-search-the-web-input =
     .placeholder = Претражи веб
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Уреди популарне сајто�
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Унесите наслов
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Унесите или налепите URL
 newtab-topsites-url-validation = Исправан URL се захтева
-
 newtab-topsites-image-url-label = URL прилагођене слике
 newtab-topsites-use-image-link = Користи прилагођену слику…
 newtab-topsites-image-validation = Нисам успео да учитам слику. Пробајте са другим URL-ом.
@@ -60,12 +57,10 @@ newtab-confirm-delete-history-p2 = Ова радња се не може опоз
 newtab-menu-section-tooltip =
     .title = Отвори мени
     .aria-label = Отвори мени
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Уклони
     .aria-label = Уклони
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -94,6 +89,7 @@ newtab-menu-show-privacy-info = Наши спонзори и ваша прива
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Готово
+newtab-privacy-modal-button-manage = Управљајте подешавањима спонзорисаног садржаја
 newtab-privacy-modal-header = Ваша приватност је битна.
 newtab-privacy-modal-paragraph-2 =
     Поред дељења занимљивих прича, такође вам приказујемо релевантне,
@@ -137,11 +133,14 @@ newtab-label-removed-bookmark = Забелешка је уклоњена
 newtab-label-recommended = У тренду
 newtab-label-saved = Сачувано у { -pocket-brand-name }
 newtab-label-download = Преузето
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Спонзорисано
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = Спонзорише { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -175,12 +174,10 @@ newtab-section-header-pocket = Предложио { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Почните са коришћењем веба а ми ћемо вам овде приказивати неке од одличних чланака, видео записа и других страница које сте скоро посетили.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Вратите се касније за нове вести { $provider }. Не можете дочекати? Изаберите популарну тему да пронађете још занимљивих вести из света.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
