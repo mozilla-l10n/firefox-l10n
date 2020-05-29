@@ -189,6 +189,8 @@ monitor-partial-breaches-motivation-title-start = Comencia!
 monitor-partial-breaches-motivation-title-middle = Continua assi!
 monitor-partial-breaches-motivation-title-end = Quasi finite. Continua assi!
 monitor-partial-breaches-motivation-desc = Resolver le altere tu violationes sur { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Resolver violationes
+    .title = Resolver violationes sur { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
