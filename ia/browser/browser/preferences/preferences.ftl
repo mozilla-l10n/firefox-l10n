@@ -558,6 +558,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Monstrar suggestiones de recerca in fenestras private
 suggestions-addressbar-settings = Cambiar preferentias pro suggestiones a base de chronologia, marcapaginas e schedas
+suggestions-addressbar-settings-generic = Cambiar preferentias pro altere suggestiones in le barra de adresse
 search-suggestions-cant-show = Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate { -brand-short-name } pro non memorisar jammais le chronologia.
 search-one-click-header = Motores de recerca a un sol clic
 search-one-click-desc = Elige le motores de recerca alternative que appare infra le barra de adresse o le de recerca quando tu comencia a scriber un parola clave.
