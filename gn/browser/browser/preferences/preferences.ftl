@@ -122,7 +122,7 @@ startup-header = Ñepyrũha
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Emoneĩ { -brand-short-name } ha Firefox-pe ojepurúvo oñondivete
-use-firefox-sync = Ñe'ẽkuaa: Kóva oipuru rechaukaha ipa'ũva. Oipuru { -sync-brand-short-name } omoherakuã hag̃ua mba'ekuaarã oñondivekuéra.
+use-firefox-sync = Ñe’ẽkuaa: Kóva oipuru rechaukaha ipa’ũva. Oipuru { -sync-brand-short-name } omoherakuã hag̃ua mba’ekuaarã oñondivekuéra.
 get-started-not-logged-in = Eñemboheguapy { -sync-brand-short-name }…
 get-started-configured = Eike { -sync-brand-short-name } eguerohoryvévape
 always-check-default =
@@ -831,7 +831,7 @@ history-remember-option-never =
 history-remember-option-custom =
     .label = Eiporu peteĩ ñemboheko mba'etéva tembiasakuépe g̃uarã
 history-remember-description = { -brand-short-name } imandu'áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
-history-dontremember-description = { -brand-short-name } oipurujeýta pe ñemboheko kundaha ñemigua pegua, ha noñongatumo'ãi mba'evéichagua mba'ekuaarã tembiasakuéva oikundahakuévo ñandutípe.
+history-dontremember-description = { -brand-short-name } oipurujeýta ñemboheko kundaha ñemiguáva, ha noñongatumo’ãi mba’ekuaarã tembiasakuéva oikundahávo ñandutípe.
 history-private-browsing-permanent =
     .label = Kundaha ñemi jepuru tapia
     .accesskey = p
@@ -854,7 +854,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kookie ha tenda mbakuaarã
-sitedata-total-size-calculating = Eikuaase tenda mba'ekuaarã ha kache tuichakue…
+sitedata-total-size-calculating = Eikuaase tenda mba’ekuaarã ha kache tuichakue…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

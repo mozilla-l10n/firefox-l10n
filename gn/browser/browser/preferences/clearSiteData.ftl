@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Kookie ha tenda mba'ekuaarã
+    .label = Kookie ha tenda mba’ekuaarã
     .accesskey = S
 clear-site-data-cookies-info = Emboguetéramo, ikatu emboty ne rembiapo ñanduti renda pegua
 # The parameters in parentheses in this string describe disk usage
@@ -41,7 +41,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Ñanduti rechapyrã kachépe
     .accesskey = W
-clear-site-data-cache-info = Eikotevẽ ñanduti renda omyenyhẽjey ta'anga ha mba'ekuaarã
+clear-site-data-cache-info = Eikotevẽ ñanduti renda omyenyhẽjey ta’ãnga ha mba’ekuaarã
 clear-site-data-cancel =
     .label = Heja
     .accesskey = C

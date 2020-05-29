@@ -5,66 +5,50 @@
 permissions-window =
     .title = Ta'ãnga ñangarekoha
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Ñanduti renda kundaharape
     .accesskey = d
-
 permissions-block =
     .label = Joko
     .accesskey = B
-
 permissions-session =
     .label = Emoneĩ Tembiapo ñepyrũ
     .accesskey = T
-
 permissions-allow =
     .label = Moneĩ
     .accesskey = A
-
 permissions-site-name =
     .label = Ñanduti renda
-
 permissions-status =
     .label = Tekotee
-
 permissions-remove =
     .label = Emboguete ñanduti renda
     .accesskey = R
-
 permissions-remove-all =
     .label = Emboguete opavave ñanduti renda
     .accesskey = E
-
 permissions-button-cancel =
     .label = Heja
     .accesskey = H
-
 permissions-button-ok =
     .label = Moambue ñongatu
     .accesskey = S
-
 permissions-autoplay-menu = Ijypykuéramo opaite ñanduti rendápe g̃uarã:
-
 permissions-searchbox =
     .placeholder = Ñandutirenda Jeheka
-
 permissions-capabilities-autoplay-allow =
     .label = Emoneĩ mba'epu ha ta'ãngamýi
 permissions-capabilities-autoplay-block =
     .label = Ejoko mba'epu
 permissions-capabilities-autoplay-blockall =
     .label = Ejoko mba'epu ha ta'ãngamýi
-
 permissions-capabilities-allow =
     .label = Moneĩ
 permissions-capabilities-block =
     .label = Jokoha
 permissions-capabilities-prompt =
     .label = Porandu Tapia
-
 permissions-capabilities-listitem-allow =
     .value = Moneĩ
 permissions-capabilities-listitem-block =
@@ -83,7 +67,6 @@ permissions-exceptions-content-blocking-window =
     .title = Ykepegua – Tetepy jejoko
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Ojeipe’áma tetepy jejoko ko’ã tenda pegua.
-
 permissions-exceptions-etp-window =
     .title = Ykepegua tapykuehoha mo’ãha iporãvévape g̃uarã
     .style = { permissions-window.style }
@@ -92,9 +75,9 @@ permissions-exceptions-etp-desc = Eipe’a mo’ãha ko’ã ñanduti renda pegu
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Ijykepeguáva: Kookie ha tenda mba'ekuaarã
+    .title = Ijykepeguáva: Kookie ha tenda mba’ekuaarã
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte oipuru térã araka'eve ndoipurúiva kookie ha mba'ekuaarã tendagua. Ehai ñandutirapete tenda  reisãmbyhyséva ha upéi ehesakutu Joko, Emoneĩ tembiapo térã Emoneĩ.
+permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte oipuru térã araka’eve ndoipurúiva kookie ha mba’ekuaarã tendagua. Ehai ñandutirape tenda reisãmbyhyséva ha upéi ehesakutu Joko, emoneĩ tembiapo térã Emoneĩ.
 
 ## Exceptions - Pop-ups
 
@@ -108,7 +91,7 @@ permissions-exceptions-popup-desc = Ikatu rehechauka mba'e ñanduti renda guivé
 permissions-exceptions-saved-logins-window =
     .title = Oĩ'ỹva - Emoñepyrũ tembiapo ñongatupyre
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Mba'ekuaa jeike hag̃ua ko'ã ñandutirenda rehegua noñeñongatumo'ãi
+permissions-exceptions-saved-logins-desc = Tembiapo ñepyrũ ko’ã ñanduti renda noñeñongatumo’ãi
 
 ## Exceptions - Add-ons
 
