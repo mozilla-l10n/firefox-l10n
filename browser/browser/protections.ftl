@@ -173,12 +173,24 @@ monitor-breaches-unresolved-description = Après avoir examiné les détails des
 monitor-manage-breaches-link = Gérer les fuites de données
     .title = Gérer les fuites de données avec { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Bien ! Vous avez réglé toutes les fuites de données connues.
+monitor-breaches-resolved-description = Si votre adresse électronique figure dans de nouvelles fuites de donnés, nous vous préviendrons.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreachesResolved ->
+        [one] { $numBreachesResolved } fuite sur { $numBreaches } marquée comme réglée
+       *[other] { $numBreachesResolved } fuites sur { $numBreaches } marquées comme réglées
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = Terminé à { $percentageResolved } %
 monitor-partial-breaches-motivation-title-start = Un bon début !
 monitor-partial-breaches-motivation-title-middle = Gardez le rythme !
 monitor-partial-breaches-motivation-title-end = C’est presque fini. Continuez !
+monitor-partial-breaches-motivation-desc = Réglez vos autres fuites de données avec { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Réglez vos fuites de données
+    .title = Réglez vos fuites de données avec { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
