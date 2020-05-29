@@ -148,10 +148,26 @@ info-known-breaches-found =
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Violazione di dati conosciuta contrassegnata come risolta
+       *[other] Violazioni di dati conosciute contrassegnate come risolte
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
         [one] Password compromessa in tutte le violazioni
        *[other] Password compromesse in tutte le violazioni
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved = =
+    { $count ->
+        [one] Password compromessa in violazioni non risolte
+       *[other] Password compromesse in violazioni non risolte
     }
 full-report-link = Visualizza il rapporto completo in <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
