@@ -174,7 +174,7 @@ monitor-manage-breaches-link = Gestionar filtraciones
 monitor-breaches-resolved-title = ¡Genial! Has resuelto todas las filtraciones conocidas.
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
-monitor-partial-breaches-percentage = { $percentComplete }% completo
+monitor-partial-breaches-percentage = { $percentageResolved }% completo
 monitor-partial-breaches-motivation-title-start = ¡Empezaste bien!
 monitor-partial-breaches-motivation-title-middle = ¡Sigue así!
 monitor-partial-breaches-motivation-title-end = ¡Casi listo! Continúa.
