@@ -8,7 +8,6 @@ password-quality-meter = Ñe'ẽñemi rekoporã ra'ãha
 
 change-password-window =
     .title = Ñe'ẽñemi ha'etéva moambue
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Mba'e'oka tekorosãrã: { $tokenName }
@@ -23,7 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Mbojevyjey
-reset-password-text = Emoañete jeýramo neñe'ẽñemi ha'etéva, umi ñanduti neñe'ẽñemi ha ñanduti veve embyatypyre, umi myanyhẽha mba'ekuarã, mboajepyréva avamba'etéva ha ñe'ẽñemi ñemiguáva hesaraipáta. ¿Añetehápe eguerusejey neñe'ẽñemi ha'etéva?
+reset-password-text = Emoañete jeýramo neñe’ẽñemi ha’etéva, umi ñanduti neñe’ẽñemi ha ñanduti veve embyatypyre, umi myanyhẽha mba’ekuaarã, mboajepyréva avamba’etéva ha ñe’ẽñemi ñemiguáva hesaraipáta. ¿Añetehápe eguerusejey neñe’ẽñemi ha’etéva?
 
 ## Downloading cert dialog
 

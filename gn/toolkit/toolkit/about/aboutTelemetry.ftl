@@ -25,7 +25,7 @@ about-telemetry-telemetry-probe-dictionary = Pe <a data-l10n-name="probe-diction
 about-telemetry-show-in-Firefox-json-viewer = Eike JSON hechahápe
 about-telemetry-home-section = Ñepyrũ
 about-telemetry-general-data-section = Opaichagua marandu
-about-telemetry-environment-data-section = Mba'ekuarã tekohápe g̃uarã
+about-telemetry-environment-data-section = Mba’ekuaarã tekohápe g̃uarã
 about-telemetry-session-info-section = Marandu tembiapo rehegua
 about-telemetry-scalar-section = Jejupi
 about-telemetry-keyed-scalar-section = Jupikuaa papapýva
