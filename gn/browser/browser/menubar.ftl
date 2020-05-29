@@ -68,7 +68,7 @@ menu-edit-find-again =
     .label = Jeheka jey
     .accesskey = g
 menu-edit-bidi-switch-text-direction =
-    .label = Kundaharape moñe'ẽrã moambue
+    .label = Kundaharape moñe’ẽrã moambue
     .accesskey = w
 
 ## View Menu
@@ -104,7 +104,7 @@ menu-view-full-zoom-actual-size =
     .label = Tuichakuete
     .accesskey = A
 menu-view-full-zoom-toggle =
-    .label = Moñe'ẽrã año mongakuaa
+    .label = Moñe’ẽrã año mongakuaa
     .accesskey = T
 menu-view-page-style-menu =
     .label = Kuatiarogue mbohekoha
@@ -116,7 +116,7 @@ menu-view-page-basic-style =
     .label = Kuatiarogue mbohekoha ypygua
     .accesskey = B
 menu-view-charset =
-    .label = Moñe'ẽrã mbopapapy
+    .label = Moñe’ẽrã mbopapapy
     .accesskey = c
 
 ## These should match what Safari and other Apple applications
@@ -267,7 +267,7 @@ menu-help-safe-mode-with-addons =
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
-    .label = Emombe'u ñandutirenda ivaiha...
+    .label = Emombe’u ñandutirenda ivaiha...
     .accesskey = d
 menu-help-not-deceptive =
     .label = Kóva ndaha'éi tenda ombotavyséva…

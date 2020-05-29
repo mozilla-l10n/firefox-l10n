@@ -168,7 +168,7 @@ newtab-section-header-topsites = Tenda Ojehechavéva
 newtab-section-header-highlights = Mba'eporãitéva
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } he'i ndéve reike hag̃ua
+newtab-section-header-pocket = { $provider } he’i ndéve reike hag̃ua
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -176,7 +176,7 @@ newtab-empty-section-highlights = Eñepyrũ eikundaha ha rohechaukáta ndéve mb
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ko'ág̃a reikuaapáma ipyahúva. Eikejey ag̃ave ápe eikuaávo mombe'upy pyahu { $provider } oikuave'ẽva ndéve. Ndaikatuvéima reha'ãrõ? Eiporavo peteĩ ñe'ẽmbyrã ha emoñe'ẽve oĩvéva ñande yvy ape ári.
+newtab-empty-section-topstories = Ko’ág̃a reikuaapáma ipyahúva. Eikejey ag̃ave ápe eikuaávo mombe’upy pyahu { $provider } oikuave’ẽva ndéve. Ndaikatuvéima reha’ãrõ? Eiporavo peteĩ ñe’ẽmbyrã ha emoñe’ẽve oĩvéva ñande yvy ape ári.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -190,7 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyh
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Ñe'ẽmbyrã Ojehayhuvéva:
+newtab-pocket-read-more = Ñe’ẽmbyrã Ojehayhuvéva:
 newtab-pocket-more-recommendations = Hetave je’eporã
 newtab-pocket-learn-more = Kuaave
 newtab-pocket-cta-button = Eguereko { -pocket-brand-name }

@@ -85,7 +85,7 @@ about-logins-login-item-username =
     .placeholder = (puruhára hera’ỹva)
 login-item-copy-username-button-text = Monguatia
 login-item-copied-username-button-text = Monguatiapyre!
-login-item-password-label = Ñe'ẽñemi
+login-item-password-label = Ñe’ẽñemi
 login-item-password-reveal-checkbox =
     .aria-label = Ehechauka ñe’ẽñemi
 login-item-copy-password-button-text = Monguatia
@@ -105,22 +105,16 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Ehechajey nde reraite embosako’i hag̃ua tembiapo ñepyrũ ñongatupyre.
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Embosako’ívo tembiapo ñepyrũ, emoĩ nde reraite Windows rembiapo ñepyrũme. Oipytyvõta emo’ãvo ne mba’ete rekorosã.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = embosako’i tembiapo ñepyrũ ñongatupyre
-# This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = Ehechajey nde reraite embosako’i hag̃ua ñe’ẽñemi ñongatupyre.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ehecha hag̃ua ñe’ẽñemi, emoinge nde reraite tembiapo ñepyrũ pegua. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = embosako’i ñe’ẽñemi ñongatupyre
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Ehechajey nde reraite ehechauka hag̃ua ñe’ẽñemi ñongatupyre.
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Emonguatia hag̃ua ñe’ẽñemi, emoinge nde reraite Windows rembiapo ñepyrũme. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to copy a password in about:logins
