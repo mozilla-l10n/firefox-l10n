@@ -39,6 +39,8 @@ protection-report-webpage-title = Tryggingspanel
 protection-report-page-content-title = Tryggingspanel
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } kan ta vare på personvernet ditt bak kulissene medan du surfar. Dette er ei personleg oppsummering av desse verna, inkludert verktøy for å ta kontroll over sikkerheita di på nettet.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } tar vare på personvernet ditt bak kulissene medan du surfar. Dette er ei personleg oppsummering av desse verna, inkludert verktøy for å ta kontroll over dsikkerheita di på nettet.
 protection-report-settings-link = Handter personvern- og tryggingsinnstillingar
 etp-card-title-always = Utvida sporingsvern: Alltid på
 etp-card-title-custom-not-blocking = Utvida sporingsvern: AV
@@ -163,6 +165,7 @@ password-warning =
        *[other] Lagra innloggingar kan ha blitt eksponerte i ein datalekkasje. Endre desse passorda for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
     }
 monitor-no-breaches-title = Gode nyheiter!
+monitor-no-breaches-description = Du har ingen kjende datalekkasjear. Om det endrar seg, vil vi gi deg beskjed.
 monitor-view-report-link = Vis rapport
     .title = Løys datalekkasjar på { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Løys datalekkasjane dine
