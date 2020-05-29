@@ -13,9 +13,9 @@ cert-error-trust-unknown-issuer-intro = Ikatu hína peteĩva oha’ãnga tendáp
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Umi ñanduti renda oha’ã heraite mboajepyre rupive. { -brand-short-name } ndojeroviái { $hostname } rehe pe mboajepyre me’ẽha ndojekuaái rehe, ko mboajepyre oñemboheraguapy, térã pe mohendahavusu nomondói mboajepyre mbytegua oikóva.
 cert-error-trust-cert-invalid = Ndojejeroviái pe mboajepyre rehe ha'e rupi pe CA mboajepyre oiko'ỹva guenohẽmby.
-cert-error-trust-untrusted-issuer = Ndojejeroviái pe mboajepyréva rehe pe ime'ẽhare rehe ndojejeroviavéima rupi.
+cert-error-trust-untrusted-issuer = Ndojejeroviái pe mboajepyréva rehe pe ime’ẽhare rehe ndojejeroviavéima rupi.
 cert-error-trust-signature-algorithm-disabled = Ndojejeroviái pe mboajepyréva rehe omboheraguapy rupi oipurúvo algoritmo mboheraguapy rehegua ojejokomava'ekue nahekorosãi haguére.
-cert-error-trust-expired-issuer = Ndojejeroviái pe mboajepyre rehe pe ime'ẽhare ndoikovéima rupi.
+cert-error-trust-expired-issuer = Ndojejeroviái pe mboajepyre rehe pe ime’ẽhare ndoikovéima rupi.
 cert-error-trust-self-signed = Ndojejeroviái pe mboajepyre rehe oñemboheraguapyjehegui rupi.
 cert-error-trust-symantec = Umi mboajepyre oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign nahekorosãvéima mboajepyre myakãharakuéra ndoguatái tekorosã rapére ymave.
 cert-error-untrusted-default = Pe mboajepyre ndoúi peteĩ teñoiha ijeroviahávagui.
@@ -53,7 +53,7 @@ cert-error-symantec-distrust-admin = Ikatu emomarandu ñanduti renda ñangarekoh
 cert-error-details-hsts-label = HTTP Tekorosãite Jegueraha Katu: { $hasHSTS }
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
-cert-error-details-key-pinning-label = HTTP Ñe'ẽñemi Pavẽrovapeguáva Ñesa'ỹijo: { $hasHPKP }
+cert-error-details-key-pinning-label = HTTP Ñe’ẽñemi Pavẽrovapeguáva Ñesa’ỹijo: { $hasHPKP }
 cert-error-details-cert-chain-label = Kuatia mboajepyre rysýi:
 open-in-new-window-for-csp-or-xfo-error = Embojuruja tenda ovetã pyahúpe
 
@@ -73,7 +73,7 @@ captivePortal-title = Eñepyrũ tembiapo ñandutípe
 malformedURI-title = Hmm. Ko kundaharape ndojehechaporãi.
 netInterrupt-title = Pe jeike ojejokóma
 notCached-title = Kuatiaite ndoikovéima
-netOffline-title = Jeike'ỹ ayvu
+netOffline-title = Jeike’ỹ ayvu
 contentEncodingError-title = Tetepy mbopapapy jejavy
 unsafeContentType-title = Peteĩchagua marandurenda hekorosã’ỹva
 netReset-title = Jeike oñepyrũjeýma

@@ -314,8 +314,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } jepuru ({ -brand-short-name }-pe)
-applications-preview-inapp =
-    .label = { -brand-short-name }-pe jehecha'ypy
 applications-open-inapp =
     .label = Ijurujáva { -brand-short-name }-pe
 
@@ -329,8 +327,6 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
 applications-always-ask-label =
@@ -562,6 +558,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Ehechauka jehekaha Windows ñemiguávape
 suggestions-addressbar-settings = Emoambue jerohoryvéva kundaha rembiasakuépe g̃uarã, techaukaha ha tendayke jepururã.
+suggestions-addressbar-settings-generic = Emoambue erohoryvéva ambue ñe’ãporãpe g̃uarã kundaharape rendápe
 search-suggestions-cant-show = Jeheka je'epyréva ndojekuaamo'ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu'a tembiasakuére.
 search-one-click-header = Jehekaha mongu'eha jekutu peteĩva
 search-one-click-desc = Eiporavo hekaha mongu'eha mbojopyrukuaáva ojekuaáva kundaharape ha jehekaha renda guýpe eñepyrũvo emoinge peteĩ ñe'ẽ ñemigua.
@@ -765,10 +762,10 @@ privacy-header = Kundahára Ñemigua
 
 ## Privacy Section - Forms
 
+logins-header = Tembiapo ñepyrũ ha ñe’ẽñemi
 
 ## Privacy Section - Logins and Passwords
 
-logins-header = Tembiapo ñepyrũ ha ñe’ẽñemi
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Tembiapo ñepyrũ ha ñe’ẽñemi
     .searchkeywords = { -lockwise-brand-short-name }
@@ -804,8 +801,6 @@ forms-master-pw-fips-desc = Ñe'ẽñemi moambue jejavy
 
 ## OS Authentication dialog
 
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Ehechajey nde reraite emoheñói hag̃ua ñe’ẽñemi ha’etéva.
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Emoheñói hag̃ua ñe’ẽñemi ha’etéva, emoinge nde reraite Windows rembiapo ñepyrũme. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen by trying to add a Master Password.
@@ -916,7 +911,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Tendayke ijurujáva
     .accesskey = O
-addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre mombue
+addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
 
 ## Privacy Section - Content Blocking
 
@@ -975,7 +970,6 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = ¡Ema'ẽmi!
 content-blocking-warning-description = Tetepy jejoko ikatu nomomba’apo porãi ñanduti renda. Ikatúramo eipe’a pe jokoha tenda ejeroviaha pegua.
 content-blocking-learn-how = Mba’éicha eikuaa
-content-blocking-etp-warning-description = Ejokóva tapykuehoha ikatu ombyai heta tenda rembiapoite. Emyanyhẽjey kuatiarogue tapykuehoha ndive emyanyhẽ hag̃ua tetepy tuichaháicha.
 content-blocking-and-isolating-etp-warning-description = Ejokóvo tapykuehoha ha kookie ñemomombyry ikatu ombyai peteĩva tembiapoite. Emyanyhẽjey kuatiarogue tapykuehoha ndive emyanyhẽ hag̃ua opaite tetepy.
 content-blocking-warning-learn-how = Mba'éichapa eikuaáta
 content-blocking-reload-description = Emonyhẽjeyva’erã umi tendayke oiko hag̃ua ko’ã moambuepyre.
