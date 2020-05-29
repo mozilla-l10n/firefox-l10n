@@ -62,13 +62,13 @@ serviceworker-empty-intro = Você precisa registrar um Service Worker para ser i
 serviceworker-empty-suggestions = Se a página atual deveria ter um service worker, eis algumas coisas que você pode tentar fazer
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Look for errors in the Console. <a>Open the Console</a>
+serviceworker-empty-suggestions-console = Procurar erros no Console. <a>Abrir o Console</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Step through your Service Worker registration and look for exceptions. <a>Open the Debugger</a>
+serviceworker-empty-suggestions-debugger = Percorrer o registro do seu Service Worker e procurar exceções. <a>Abrir o Debugger</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Inspect Service Workers from other domains. <a>Open about:debugging</a>
+serviceworker-empty-suggestions-aboutdebugging = Inspecionar Service Workers de outros domínios. <a>Abrir about:debugging</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = App Manifest
 # Header for the Manifest page when there's no manifest to inspect
