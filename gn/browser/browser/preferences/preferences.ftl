@@ -858,10 +858,10 @@ sitedata-total-size-calculating = Eikuaase tenda mba’ekuaarã ha kache tuichak
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Umi kookie ñembyytpyre, tenda mba'ekuaarã ha kache mandu'arenda oipuru porã ko'ag̃aite { $value } { $unit } pe disco pegua pa'ũ.
+sitedata-total-size = Umi kookie, tenda mba’ekuaarã ha kache mandu’arenda oipuruhína { $value } { $unit } disco pegua pa’ũ.
 sitedata-learn-more = Kuaave
 sitedata-delete-on-close =
-    .label = Embogue kookie ha mba'ekuaarã tenda pegua oñemboty vove { -brand-short-name }
+    .label = Embogue kookie ha mba’ekuaarã rendagua oñemboty vove { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = Kundaha ñemigua tapiagua rekópe, umi kookie ha tenda mba’ekuaarã oguéta oñymbotykuévo { -brand-short-name }.
 sitedata-allow-cookies-option =
@@ -889,10 +889,10 @@ sitedata-option-block-all-third-party =
 sitedata-option-block-all =
     .label = Opaite umi kookie (ombojavýta ñanduti renda)
 sitedata-clear =
-    .label = Mba'ekuaarã mopotĩ…
+    .label = Mba’ekuaarã mopotĩ…
     .accesskey = l
 sitedata-settings =
-    .label = Eñangareko mba'ekuaarãre…
+    .label = Eñangareko mba’ekuaarãre…
     .accesskey = M
 sitedata-cookies-permissions =
     .label = Ejerure ñemoneĩ…
@@ -1066,7 +1066,7 @@ permissions-a11y-privacy-link = Kuaave
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Ñembyaty ha mba'ekuaarã jepuru
+collection-header = { -brand-short-name } Ñembyaty ha mba’ekuaarã jepuru
 collection-description = Roñeha’ã mbarete rome’ẽ hag̃ua jeporavorã ha rombyaty roikotevẽva rome’ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Rojerure tapia ñemoneĩ marandu og̃uahẽ mboyve oréve.
 collection-privacy-notice = Marandu Ñemigua
 collection-health-report-telemetry-disabled = Nomoneĩvéima { -vendor-short-name } ojapyhývo mba’ekuaarã aporekogua ha oñondiveguáva. Opaite mba’ekuaarã itujavéva oguéta 30 ára ohasávo.
@@ -1083,7 +1083,7 @@ addon-recommendations =
 addon-recommendations-link = Kuaave
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = Pe mba'ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã
+collection-health-report-disabled = Pe mba’ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã
 collection-backlogged-crash-reports =
     .label = Emoneĩ { -brand-short-name } omondóvo marandu jejavy rehegua nde rérape
     .accesskey = c
@@ -1142,8 +1142,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } henyhẽma hína idisco. Umi ñanduti renda ikatu hína ndojehechauka porãi. Ikatu hína ombogue mba'ekuaarã ñembyatypyre ijykeguávape > Temiñemi ha Tekorosã > Kookie ha tenda mba'ekuaarã.
-       *[other] { -brand-short-name } henyhẽma hína idisco. Umi ñanduti renda ikatu hína ndojehechauka porãi. Ikatu hína ombogue mba'ekuaarã ñembyatypyre jerohoryvévape > Temiñemi ha Tekorosã > Kookie ha tenda mba'ekuaarã.
+        [windows] { -brand-short-name } henyhẽma hína idisco. Umi ñanduti renda ikatu hína ndojehechauka porãi. Ikatu hína ombogue mba’ekuaarã ñembyatypyre ijykeguávape > Temiñemi ha Tekorosã > Kookie ha tenda mba’ekuaarã.
+       *[other] { -brand-short-name } henyhẽma hína idisco. Umi ñanduti renda ikatu hína ndojehechauka porãi. Ikatu hína ombogue mba’ekuaarã ñembyatypyre jerohoryvévape > Temiñemi ha Tekorosã > Kookie ha tenda mba’ekuaarã.
     }
 space-alert-under-5gb-ok-button =
     .label = OK, arekóma

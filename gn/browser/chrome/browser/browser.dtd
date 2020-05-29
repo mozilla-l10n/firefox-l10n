@@ -256,7 +256,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Eike ñe'ẽmondo rupa ñe'ẽñemi ñongatuhápe">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Mba'ejoajurã jepuru ñangareko">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mba'ekuaarã ñembyaty, ñembyaty hi'arekuaávape">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mba’ekuaarã ñembyaty, ñembyaty hi’arekuaávape">
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Kundahára oĩ ñangarekoha okayguáva poguýpe">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Eike pe ñanduti mboajeha rupápe">
@@ -277,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.screenBlocked.tooltip            "Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba'erechaha.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ejokóma marandu ejuhukuaa hag̃ua ko ñanduti renda.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ejokóma ñemomarandu ko ñanduti rendápe g̃uarã.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ejokóma mba'ekuaarã ñembyaty hi'aréva ko ñanduti renda pegua.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ejokóma mba’ekuaarã ñembyaty hi’aréva ko ñanduti renda pegua.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ejokoukákuri ovetã apysẽva ko ñandutirendápe g̃uarã.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ejokóma ñemboheta ijeheguíva mba’epu rehegua ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ejokoukákuri kuaapy canvas rehegua ñeguenohẽ ko ñandutirendápe g̃uarã.">

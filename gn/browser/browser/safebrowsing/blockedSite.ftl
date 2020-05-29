@@ -7,7 +7,7 @@ safeb-blocked-malware-page-title = Reikéramo ko ñandutirendápe oñembyaikuaa 
 safeb-blocked-unwanted-page-title = Ñandutirenda reikétava oguerekokuaa mba'evai apoha
 safeb-blocked-harmful-page-title = Ko tenda tapykuerigua ikatu oreko malware
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } ojoko ko togue oimo'ãgui nembotavysetaha ojapo hag̃ua ma'evai techapyrãrõ omohendakuaa software mba'evai apóva ýrõ ombohasakuaa ambuévape kuaapy nemba'éva taha'e ñe'ẽñemi térã tarjeta de credito rehegua.
-safeb-blocked-malware-page-short-desc = { -brand-short-name } ojoko ko ñandutirogue omohendakuaágui mba'evai ne mohendahápe, omondakuaáva mba'ekuaa nde rehegua ýrõ omboguekuaáva reguerekóva.
+safeb-blocked-malware-page-short-desc = { -brand-short-name } ojoko ko ñandutirogue omohendakuaágui mba’evai ne mohendahápe, omondakuaáva mba’ekuaa nde rehegua ýrõ omboguekuaáva reguerekóva.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ojoko ko togue oimo'ãgui kóva nembotavyséta emohenda hag̃ua programa mba'evai apoha (techapyrãrõ omoambuekuaa ne ñandutirogue ñepyrũgua ýrõ ohechaukakuaa ta'ãnga omba'evendeseha opaite hendápe reikéva guive).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ojoko ko ñandutirogue oimo'ãgui kóva oiméne omohendase tembipuru'i ivaíva ne mohendahápe, umíva rupive omonda térã omboguekuaa nemba'éva (techapyrã ta'ãnga rerekóva, ñe'ẽñemi, marandu ha viru kuatiatã reipurúva).
 safeb-palm-advisory-desc = Marandu omog̃uahẽva <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
