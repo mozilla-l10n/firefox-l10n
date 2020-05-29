@@ -90,9 +90,9 @@ cfr-protections-panel-link-text = Eikuaave
 # the notification icon
 cfr-badge-reader-label-newfeature = Peteĩchagua pyahu:
 cfr-whatsnew-button =
-    .label = Oĩpa mba'e pyahu
-    .tooltiptext = Oĩpa mba'e pyahu
-cfr-whatsnew-panel-header = Oĩpa mba'e pyahu
+    .label = Oĩpa mba’e pyahu
+    .tooltiptext = Oĩpa mba’e pyahu
+cfr-whatsnew-panel-header = Oĩpa mba’e pyahu
 cfr-whatsnew-release-notes-link-text = Emoñe’ẽ jehaipy rehegua
 cfr-whatsnew-fx70-title = { -brand-short-name } oñorairõve ne ñemigua rehe
 cfr-whatsnew-fx70-body = Ñembohekopyahu omo’ã porãve jehapykuehópe ha ikatu emoheñói ñe’ẽñemi hekorosãva peteĩteĩva tendápe g̃uarã.

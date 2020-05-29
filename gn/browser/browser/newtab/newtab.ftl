@@ -7,7 +7,7 @@
 
 newtab-page-title = Tendayke Pyahu
 newtab-settings-button =
-    .title = Eñemomba'e ne Tendayke Pyahu roguére
+    .title = Eñemomba’e ne Tendayke Pyahu roguére
 
 ## Search box component.
 
@@ -47,7 +47,7 @@ newtab-topsites-add-button = Embojoapy
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = Añetehápepa renohẽse oimeraẽva mba'e ko toguepegua tembiasakue rysýigui?
+newtab-confirm-delete-history-p1 = Añetehápepa renohẽse oimeraẽva mba’e ko toguepegua tembiasakue rysýigui?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ko ojejapóva ndaikatuvéima oñemboguevi.
 
@@ -165,14 +165,14 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Tenda Ojehechavéva
-newtab-section-header-highlights = Mba'eporãitéva
+newtab-section-header-highlights = Mba’eporãitéva
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } he’i ndéve reike hag̃ua
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Eñepyrũ eikundaha ha rohechaukáta ndéve mba'ehai, mba'erecharã oĩva ha ambue ñandutirenda reikeva'ekue ýrõ rembotechaukava'ekue.
+newtab-empty-section-highlights = Eñepyrũ eikundaha ha rohechaukáta ndéve mba’ehai, mba’erecharã oĩva ha ambue ñandutirenda reikeva’ekue ýrõ rembotechaukava’ekue.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".

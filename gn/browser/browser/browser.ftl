@@ -76,7 +76,7 @@ urlbar-storage-access-anchor =
 urlbar-translate-notification-anchor =
     .tooltiptext = Emoñe’ẽasa ko kuatiarogue
 urlbar-web-rtc-share-screen-notification-anchor =
-    .tooltiptext = Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive
+    .tooltiptext = Eñangareko moherakuã nerovetã térã mba’erechaha ko tenda ndive
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Eguereko ñangarekoha rekaha. Eikutu Esc eguereko jey hag̃ua pe ñangarekoha.
 urlbar-password-notification-anchor =
@@ -84,13 +84,13 @@ urlbar-password-notification-anchor =
 urlbar-translated-notification-anchor =
     .tooltiptext = Eñangareko kuatiarogue ñe’ẽasa rehe
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Mba'ejoajurã jepuru ñangareko
+    .tooltiptext = Mba’ejoajurã jepuru ñangareko
 urlbar-web-rtc-share-devices-notification-anchor =
-    .tooltiptext = Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive
+    .tooltiptext = Eñangareko moherakuã nerovetã térã mba’erechaha ko tenda ndive
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Embojuruja ñemboheta ijeheguíva ra’angarupa
 urlbar-persistent-storage-notification-anchor =
-    .tooltiptext = Mba'ekuaarã ñembyaty, ñembyaty hi'arekuaávape
+    .tooltiptext = Mba’ekuaarã mboheta ñembyaty hi’arekuaávape
 urlbar-addons-notification-anchor =
     .tooltiptext = Eike ñe’ẽmondo moĩmbaha ñemohenda ra’ãngarupápe
 urlbar-tip-help-icon =
@@ -123,9 +123,9 @@ urlbar-camera-blocked =
 urlbar-microphone-blocked =
     .tooltiptext = Ejokóma ne ñe’ẽatãha ko ñanduti rendápe g̃uarã.
 urlbar-screen-blocked =
-    .tooltiptext = Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba'erechaha.
+    .tooltiptext = Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba’erechaha.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = Ejokóma mba'ekuaarã ñembyaty hi'aréva ko ñanduti renda pegua.
+    .tooltiptext = Ejokóma mba’ekuaarã ñembyaty hi’aréva ko ñanduti renda pegua.
 urlbar-popup-blocked =
     .tooltiptext = Ejokoukákuri ovetã apysẽva ko ñandutirendápe g̃uarã.
 urlbar-autoplay-media-blocked =
@@ -162,7 +162,7 @@ full-screen-autohide =
     .label = Tembipuru renda moñemi
     .accesskey = H
 full-screen-exit =
-    .label = Mba'erechaha tuichavéva rekógui ñesẽ
+    .label = Mba’erechaha tuichavéva rekógui ñesẽ
     .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
@@ -173,9 +173,9 @@ search-one-offs-with-title = Ko'ág̃a, eheka hendive:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
-    .label = Jeheka mba'epytyvõrã moambue
+    .label = Jeheka mba’epytyvõrã moambue
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = Jeheka mba'epytyvõrã moambue
+    .tooltiptext = Jeheka mba’epytyvõrã moambue
 search-one-offs-context-open-new-tab =
     .label = Tendayke pyahúpe jeheka
     .accesskey = T
@@ -208,7 +208,7 @@ identity-connection-file = Ko kuatiarogue oñeñongatu mohendahápe.
 identity-extension-page = Ko kuatiarogue oñemyanyhẽ jepysokue guive.
 identity-active-blocked = { -brand-short-name } ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.
 identity-custom-root = Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.
-identity-passive-loaded = Ko kuatiarogue pehẽ heta hendápe nda'ijeroviapái (mba'era'ãngáramo).
+identity-passive-loaded = Ko kuatiarogue pehẽ heta hendápe nda’ijeroviapái (mba’era’ãngáramo).
 identity-active-loaded = Ndereguerekói pa'ũ ko kuatiaroguépe g̃uarã.
 identity-weak-encryption = Ko kuatiarogue oipuru ñangarekoha ikangýva.
 identity-insecure-login-forms = Ojehaiva'ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.
@@ -231,8 +231,8 @@ identity-description-weak-cipher-intro = Nde jeike ko ñanduti rendápe oipuru �
 identity-description-weak-cipher-risk = Ambue tapichakuéra ikatu ohecha nemarandu térã omoambue ñanduti kuatiarogue reko.
 identity-description-active-blocked = { -brand-short-name } ojokóma ko kuatiarogue pehẽ ijerovia'ỹha. <label data-l10n-name="link">Kuaave</label>
 identity-description-passive-loaded = Nde jeike naiñemíri ha nemarandu remoingéva ko tendápe ikatu ohecha ambue tapicha.
-identity-description-passive-loaded-insecure = Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (mba'era'ãngáramo). <label data-l10n-name="link">Kuaave</label>
-identity-description-passive-loaded-mixed = { -brand-short-name } ojokóramo jepe heta retepy, oĩ gueteri tetepy kuatiaroguépe ndaijegueroviapáiva (mba'era'ãngáramo). <label data-l10n-name="link">Kuaave</label>
+identity-description-passive-loaded-insecure = Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (mba’era'ãngáramo). <label data-l10n-name="link">Kuaave</label>
+identity-description-passive-loaded-mixed = { -brand-short-name } ojokóramo jepe heta retepy, oĩ gueteri tetepy kuatiaroguépe ndaijegueroviapáiva (mba’era’ãngáramo). <label data-l10n-name="link">Kuaave</label>
 identity-description-active-loaded = Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (guiõramo) ha nde jeike pype naiñemíri.
 identity-description-active-loaded-insecure = Marandu remondóva ko kuatiaroguépe ikatu ohecha ambue tapicha (ñe’ẽñemíramo, ñe’ẽmondo, kuatia’atã ñemurã ha ambue).
 identity-learn-more =
@@ -265,7 +265,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Ñe’ẽatãha hetápe g̃uarãva:
     .accesskey = M
-popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba'erechahápe.
+popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba’erechahápe.
 popup-screen-sharing-not-now =
     .label = Ani ko'ág̃a
     .accesskey = w

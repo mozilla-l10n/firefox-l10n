@@ -80,7 +80,7 @@ menu-view-toolbars-menu =
     .label = Tembiporu renda
     .accesskey = T
 menu-view-customize-toolbar =
-    .label = Ñemomba'e…
+    .label = Ñemomba’e…
     .accesskey = C
 menu-view-sidebar =
     .label = Ta'ãngarupa yke
@@ -123,13 +123,13 @@ menu-view-charset =
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = Mba'erechaha tuichavévape jeike
+    .label = Mba’erechaha tuichavévape jeike
     .accesskey = F
 menu-view-exit-full-screen =
-    .label = Mba'erechaha tuichavévagui ñesẽ
+    .label = Mba’erechaha tuichavévagui ñesẽ
     .accesskey = F
 menu-view-full-screen =
-    .label = Mba'erechaha tuichavéva
+    .label = Mba’erechaha tuichavéva
     .accesskey = F
 
 ##
