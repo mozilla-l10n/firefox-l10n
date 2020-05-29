@@ -6,20 +6,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Oiko jejavy eikévo { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Ayvu jejavy; { $error }
-
 psmerr-ssl-disabled = Ndaikatúi eike jeroviápe pe mba'ete oñemongéma rupi.
 psmerr-ssl2-disabled = Ndaikatúi eikekatu pe tenda oipuru rupi peteĩchagua itujáva ha nahekorosãiva SSL reheguáva.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Og̃uahẽ ndéve peteĩ mboajepyre ndoikóiva. Eñe'ẽ pe me'ẽhára ndive térã ñanduti veve kundaharape mohendahavusu rehegua ha embohasa chupe marandu:
+    Og̃uahẽ ndéve peteĩ mboajepyre ndoikóiva. Eñe’ẽ pe me’ẽhára ndive térã ñanduti veve kundaharape mohendahavusu rehegua ha embohasa chupe marandu:
     
-    Nemboajepyre oguereko peteĩchaguaite papapy syryrýva pe ambue mboajepyre oguenohẽva moakãhára omboajepyrekuaáva. Eñeha'ã eguereko mboajepyre pyahu ipapapy syryry ha'eñoitéva.
-
+    Nemboajepyre oguereko peteĩchaguaite papapy syryrýva pe ambue mboajepyre oguenohẽva moakãhára omboajepyrekuaáva. Eñeha'ã eguereko mboajepyre pyahu ipapapy syryry ha’eñoitéva.
 ssl-error-export-only-server = Ndaikatúi oñemongeta jeroviaitépe. Avei nomoneĩri mbopapapy ijyvatetereíva.
 ssl-error-us-only-server = Ndaikatúi oñomongeta jeroviápe. Peer oikotevẽ mbopapapy tuicháva rehegua ndojogueraháiva.
 ssl-error-no-cypher-overlap = Ndaikatúi eñemomarandu jeroviápe ambuéva ndive: ndaipóri algoritmo ipapapýva opavaveguáva.
@@ -29,11 +25,11 @@ ssl-error-bad-client = Mohendavusu ojuhu mba'ekuaarã ñemuhára mba'e ndoikóiv
 ssl-error-bad-server = Ñemuhára ojuhu mba'ekuaarã mohendavusu mba'e ndoikóiva.
 ssl-error-unsupported-certificate-type = Peteĩchagua mboajepyre noñemoeĩriva.
 ssl-error-unsupported-version = Ambue tendaguáva oipuruhína taperekoite rekorosãrã peteĩchagua noñemoneĩriva.
-ssl-error-wrong-certificate = Ñemuhára reraite oiko'ỹva: ñe'ẽ ñemiguáva mba'ekuarã ñemíva ndojueheguái pe ñe'ẽ opavaveguáva ndive mba'ekuarã mboajepyréva ryepýpe.
+ssl-error-wrong-certificate = Ñemuhára reraite oiko'ỹva: ñe’ẽ ñemiguáva mba'ekuarã ñemíva ndojueheguái pe ñe’ẽ opavaveguáva ndive mba’ekuarã mboajepyréva ryepýpe.
 ssl-error-bad-cert-domain = Ndaikatúi eñemomarandu jeroviápe ambue jeikekatu apyraguáva ndive pe tendatee réra ejerurepyréva ndojueheguái pe mohendahavusu mboajepyréva ndive.
 ssl-error-post-warning = Ayvu jejavy SSL ojekuaa'ỹva.
 ssl-error-ssl2-disabled = Ambue tendagua omoneĩ SSL mokõiháva añoite, oñemongéva ko'ápe g̃uarã.
-ssl-error-bad-mac-read = SSL ojapyhy peteĩ jehaipy pe ayvu reraite ñe'ẽmondo oiko'ỹva ndive.
+ssl-error-bad-mac-read = SSL ojapyhy peteĩ jehaipy pe ayvu reraite ñe’ẽmondo oiko’ỹva ndive.
 ssl-error-bad-mac-alert = SSL jeike ambue apýra pegua omomarandu peteĩ ayvu reraite ñe'ẽmondo oiko'ỹva rehegua.
 ssl-error-bad-cert-alert = SSL jeike ambue apýra pegua ndaikatúi ohechajey imboajepyre.
 ssl-error-revoked-cert-alert = SSL jeike ambue apýra pegua ombojevyjey imboajepyre ohechakuaa rupi ndoikoveimaha.

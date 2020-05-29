@@ -15,9 +15,9 @@ error-title-text = ¡Peg̃uahẽporãite, yvyporakuéra!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Roju penerendápe py'aguapy ha tekojekupytýre.
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = Avara'ãnga ndojapova'erãi ivaíva tapicháre térã, ojapo'ỹvo mba'eve, oheja ojehu mba'e vai tapicháre.
+error-long-desc1 = Avara’ãnga ndojapova’erãi ivaíva tapicháre térã, ojapo’ỹvo mba’eve, oheja ojehu mba’e vai tapicháre.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
-error-long-desc2 = Umi avara'ãnga ohecháma mba'eita peẽ peguerovia'ỹtava.
+error-long-desc2 = Umi avara’ãnga ohecháma mba’eita peẽ peguerovia’ỹtava.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Umi avara'ãnga niko ne angirũ karéi ha hendivekuéra reñeñanduporãta.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."

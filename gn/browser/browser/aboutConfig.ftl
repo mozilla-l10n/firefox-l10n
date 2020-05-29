@@ -7,9 +7,7 @@ about-config-warning-title = ¡Jekuaa’ỹha gotyo!
 about-config-warning-text = Ko ñemboheko moambue ikatu ombyaihína pytareko, tekorosã ha tembipuru’i rembiapo. Eku’ejey ejeroviáramo hese añoite.
 about-config-warning-checkbox = ¡Erekuaajey chéve, ikatúramo!
 about-config-warning-button = Amoneĩ pe kyhyjerã
-
 about-config2-title = Ñemboheko henyhẽtamava
-
 about-config-search-input =
     .placeholder = Heka
 
@@ -20,26 +18,20 @@ about-config-intro-warning-text = Iñambuévo jeguerohoryvéva ñemboheko ombyai
 about-config-intro-warning-checkbox = Chemomarandu aikétavo ko’ã jeguerohoryvévape
 about-config-intro-warning-button = Emoneĩ jekyhyje ha ehojey
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Iñambuévo ko’ã jeguerohoryvéva ombyaikuaa { -brand-short-name } rembiapokue ýrõ hekorosã.
-
 about-config-page-title = Jerohoryvéva hupytypyre
-
 about-config-search-input1 =
     .placeholder = Jeguerohoryvéva réra jeheka
 about-config-show-all = Ehechaukapa
-
 about-config-pref-add = Mbojuaju
 about-config-pref-toggle = Moambue
 about-config-pref-edit = Mbosako'i
 about-config-pref-save = Ñongatu
 about-config-pref-reset = Mbojevyjey
 about-config-pref-delete = Mboguete
-
 about-config-pref-add-button =
     .title = Mbojuaju
 about-config-pref-toggle-button =
@@ -69,4 +61,4 @@ about-config-pref-add-type-string = Juajuha
 about-config-pref-accessible-value-default =
     .aria-label = { $value } (ijypykue)
 about-config-pref-accessible-value-custom =
-    .aria-label = { $value } (ñemomba'epyre)
+    .aria-label = { $value } (ñemomba’epyre)

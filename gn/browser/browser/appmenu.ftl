@@ -10,7 +10,7 @@ appmenuitem-protection-report-tooltip =
     .tooltiptext = Tereho ne marandu’i ñemiguápe
 appmenuitem-protection-dashboard-title = Ñemo’ãha renda
 appmenuitem-customize-mode =
-    .label = Ñemomba'e…
+    .label = Ñemomba’e…
 
 ## Zoom Controls
 

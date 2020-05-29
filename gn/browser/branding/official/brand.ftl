@@ -20,4 +20,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox ha Firefox ra'ãngakuéra niko Fundación Mozilla mba'etee.
+trademarkInfo = Firefox ha Firefox ra’ãngakuéra niko Fundación Mozilla mba’etee.

@@ -7,7 +7,7 @@
 cert-error-intro = { $hostname } oipuru mboajepyre rekorosã oiko'ỹva.
 cert-error-mitm-intro = Ko’ã ñanduti renda ohechauka heratee mboajepyre rupi oguenohẽva mboajepyre umi mburuvicha.
 cert-error-mitm-mozilla = { -brand-short-name } oykeko Mozilla, atyguasu viru’ỹgua oñangarekóva tendaguasu mboajepyre myakãha ijurujáva. Ko mboajepyre myakãha oipytyvõ oñemoañete hag̃ua mboajepyre myakãha rembiapo potĩ puruhára rekorosãrã rekávo.
-cert-error-mitm-connection = { -brand-short-name } oipuru Mozilla ñemuha CA ohecha hag̃ua hekorosãpa jeike, mboajepyre ome’ẽva puruhára apopyvusu rendaguépe. Upéicha rupi, pe tembiaporape mba'echu'i jukaha térã ñanduti ohapejokórõ jeike mboajepyre hekorosãva ndive ome’ẽva peteĩ CA oĩ’ỹva Mozilla ñemuhápe, pe jeike nahekorosãmo’ãi.
+cert-error-mitm-connection = { -brand-short-name } oipuru Mozilla ñemuha CA ohecha hag̃ua hekorosãpa jeike, mboajepyre ome’ẽva puruhára apopyvusu rendaguépe. Upéicha rupi, pe tembiaporape mba’echu’i jukaha térã ñanduti ohapejokórõ jeike mboajepyre hekorosãva ndive ome’ẽva peteĩ CA oĩ’ỹva Mozilla ñemuhápe, pe jeike nahekorosãmo’ãi.
 cert-error-trust-unknown-issuer-intro = Ikatu hína peteĩva oha’ãnga tendápe ha nde repytamava’erã.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
