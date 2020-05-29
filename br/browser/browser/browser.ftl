@@ -266,9 +266,23 @@ popup-select-microphone =
     .value = Mikrofon da rannañ :
     .accesskey = M
 popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
+popup-screen-sharing-not-now =
+    .label = Diwezhatoc'h
+    .accesskey = D
+popup-screen-sharing-never =
+    .label = Na aotren biken
+    .accesskey = N
+popup-silence-notifications-checkbox = Diweredekaat ar rebuziñ eus { -brand-short-name } e-pad ar rannadenn
+popup-silence-notifications-checkbox-warning = { -brand-short-name } na ziskouezo ket a rebuzadurioù p'emaoc'h o rannañ.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Emaoc'h o rannañ { -brand-short-name }. Gallout a ra tud all gwelet pa 'z it war un ivinell nevez.
+sharing-warning-screen = Emaoc'h o rannañ ho skramm a-bezh. Gallout a ra tud all gwelet pa 'z it war un ivinell nevez.
+sharing-warning-proceed-to-tab =
+    .label = Kenderc'hel betek an ivinell
+sharing-warning-disable-for-session =
+    .label = Diweredekaat ar gwarez rannañ evit an estez-mañ
 
 ## DevTools F12 popup
 
