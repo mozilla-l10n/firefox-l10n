@@ -165,18 +165,30 @@ password-warning =
        *[other] Credentiales salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasignos pro melior securitate online. <a data-l10n-name="lockwise-link">Vide credentiales salvate</a>
     }
 monitor-no-breaches-title = Bon novas!
+monitor-no-breaches-description = Tu non ha ulle violationes note. Si isto cambia, nos te facera saper.
 monitor-view-report-link = Vider reporto
     .title = Resolve violationes sur { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Resolver tu violationes
+monitor-breaches-unresolved-description = Post revider detalios del violationes e prender mesuras pro proteger tu informationes, tu potera marcar le violationes como resolvite.
 monitor-manage-breaches-link = Gerer violationes
     .title = Gerer violationes sur { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Optimo! Tu ha resolvite tote le violationes.
+monitor-breaches-resolved-description = Si tu email appare in ulle nove violationes, nos te facera saper.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } de { $numBreaches } violationes marcate como resolvite
+       *[other] { $numBreachesResolved } de { $numBreaches } violationes marcate como resolvite
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% complete
 monitor-partial-breaches-motivation-title-start = Comencia!
 monitor-partial-breaches-motivation-title-middle = Continua assi!
 monitor-partial-breaches-motivation-title-end = Quasi finite. Continua assi!
+monitor-partial-breaches-motivation-desc = Resolver le altere tu violationes sur { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
