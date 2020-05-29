@@ -104,7 +104,7 @@ onboarding-fxa-title = Mbojuehe
 onboarding-fxa-text = Eñemboheraguapy eguereko hag̃ua { -fxaccount-brand-name } ha embojuehe nde rechaukaha, ñe’ẽñemi ha tendayke ijurujáva eipuruhápe { -brand-short-name }.
 onboarding-tracking-protection-title2 = Ñemo’ã jehapykueho rovake
 onboarding-tracking-protection-text2 = { -brand-short-name } oipytyvõ omboykévo umi tenda nde rapykuehóva ñandutípe, asyve hag̃uáicha umi maranduñemurã nde rapykuehóvo eikundaha jave.
-onboarding-tracking-protection-button2 = Mba'éichapa omba'apo
+onboarding-tracking-protection-button2 = Mba’éichapa omba’apo
 onboarding-data-sync-title = Egueraha ne mbohekopyahu nendive
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Embojuehe nde rechaukaha, ñe’ẽñemi ha hetave eipurúvo { -brand-product-name } oimehápe.
