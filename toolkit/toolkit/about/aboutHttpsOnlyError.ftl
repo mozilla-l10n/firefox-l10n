@@ -5,3 +5,4 @@
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-insecure-explanation-unavailable = Du surfar i moduset «Bere HTTPS» (HTTPS-Only), og ein trygg HTTPS-versjon av <em>{ $websiteUrl }</em> er ikkje tilgjengeleg.
+about-httpsonly-button-go-back = Gå tilbake

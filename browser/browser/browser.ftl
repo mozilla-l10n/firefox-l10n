@@ -281,6 +281,8 @@ sharing-warning-window = Du deler { -brand-short-name }. Andre personar kan sjå
 sharing-warning-screen = Du deler heile skjermen. Andre personar kan sjå når du byter til ei ny fane.
 sharing-warning-proceed-to-tab =
     .label = Fortset til fana
+sharing-warning-disable-for-session =
+    .label = Slå av delingsvern for denne økta
 
 ## DevTools F12 popup
 
