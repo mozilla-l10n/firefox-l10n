@@ -558,6 +558,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Syksuggestjes werjaan yn priveefinsters
 suggestions-addressbar-settings = Foarkarren foar navigaasjeskiednis, blêdwizers en ljepblêdfoarstellen wizigje
+suggestions-addressbar-settings-generic = Foarkarren foar oare adresbalksuggestjes wizigje
 search-suggestions-cant-show = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
 search-one-click-header = Ien-klik-sykmasinen
 search-one-click-desc = Kies de alternative sykmasinen dy't ûnder de adresbalke en sykbalke ferskine as jo in kaaiwurd begjinne yn te fieren.
@@ -910,6 +911,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Iepen ljepblêden
     .accesskey = I
+addressbar-locbar-topsites-option =
+    .label = Topwebsites
+    .accesskey = T
 addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 
 ## Privacy Section - Content Blocking
