@@ -609,7 +609,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Egueraha neñanduti nendive
-sync-signedout-description = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe'ẽñemi, moĩmbaha ha jerohoryvéva opaite nemba'e'oka rupi.
+sync-signedout-description = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe’ẽñemi, moĩmbaha ha jerohoryvéva opaite nemba’e’oka rupi.
 sync-signedout-account-title = Eike { -fxaccount-brand-name } ndive
 sync-signedout-account-create = Nanemba'etéi gueteri piko? Ejapomi
     .accesskey = C
@@ -627,7 +627,7 @@ sync-signedout-account-signin2 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Emboguejy Aguaratata kóvape g̃uarã:<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> térã <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> embojuehe hag̃ua nemba'e'oka oku'éva rehe.
+sync-mobile-promo = Emboguejy Aguaratata kóvape g̃uarã:<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> térã <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> embojuehe hag̃ua nemba’e’oka oku’éva rehe.
 
 ## Sync Section - Signed in
 
@@ -656,7 +656,7 @@ sync-sign-in =
     .label = Eñemboheraguapy
     .accesskey = g
 sync-signedin-settings-header = Ñembojuehe ñemoĩporã
-sync-signedin-settings-desc = Eiporavo mba'éichapa embojuehéta nemba'e'oka { -brand-short-name } ndive.
+sync-signedin-settings-desc = Eiporavo mba’éichapa embojuehéta nemba’e’oka { -brand-short-name } ndive.
 
 ## Sync section - enabling or disabling sync.
 
@@ -665,7 +665,7 @@ prefs-syncing-off = Ñembojuehe: OFF
 prefs-sync-setup =
     .label = Emboheko { -sync-brand-short-name }…
     .accesskey = E
-prefs-sync-offer-setup-label = Embojuehe techaukaha, tembiasakue, tendayke, ñe'ẽñemi, moĩmbaha ha jerohoryvéva opaite ne mba'e'okápe.
+prefs-sync-offer-setup-label = Embojuehe techaukaha, tembiasakue, tendayke, ñe’ẽñemi, moĩmbaha ha jerohoryvéva opaite ne mba’e’okápe.
 prefs-sync-now =
     .labelnotsyncing = Embojuehe ko’ág̃a
     .accesskeynotsyncing = N
@@ -707,7 +707,7 @@ sync-engine-history =
     .accesskey = r
 sync-engine-tabs =
     .label = Tendayképe jeike
-    .tooltiptext = Tysýi ojehechaukahápe opa mba'e jurujáva oĩva mba'e'oka mbojuehepyrépe
+    .tooltiptext = Tysýi ojehechaukahápe opa mba’e jurujáva oĩva mba’e’oka mbojuehepyrépe
     .accesskey = T
 sync-engine-logins =
     .label = Tembiapo moñepyrũ
@@ -740,9 +740,9 @@ sync-engine-prefs =
 
 ## The device name controls.
 
-sync-device-name-header = Mba'e'oka Réra
+sync-device-name-header = Mba’e’oka Réra
 sync-device-name-change =
-    .label = Emoambue mba'e'oka réra…
+    .label = Emoambue mba’e’oka réra…
     .accesskey = h
 sync-device-name-cancel =
     .label = Heja
@@ -751,8 +751,8 @@ sync-device-name-save =
     .label = Eñongatu
     .accesskey = v
 sync-connect-another-device = Embojuaju ambue mba’e’oka
-sync-manage-devices = Eñangareko mba'e'okáre
-sync-fxa-begin-pairing = Embojoja mba'e'oka
+sync-manage-devices = Eñangareko mba’e’okáre
+sync-fxa-begin-pairing = Embojoja mba’e’oka
 sync-tos-link = Mba'epytyvõrã ñemboguata
 sync-fxa-privacy-notice = Purureko ñemiguáva momarandu
 
