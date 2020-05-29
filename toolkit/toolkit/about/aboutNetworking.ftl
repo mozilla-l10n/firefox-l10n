@@ -57,7 +57,6 @@ rcwn-avg-long = Дужа просечна
 rcwn-std-dev-long = Дугачко подразумевано одступање
 rcwn-cache-slow = Број успореног кеша
 rcwn-cache-not-slow = Брз неуспореног кеша
-
 about-networking-title = О умрежавању
 about-networking-http = HTTP
 about-networking-sockets = Sockets
@@ -80,6 +79,7 @@ about-networking-family = Породица
 about-networking-trr = TRR
 about-networking-addresses = Адресе
 about-networking-expires = Истиче (секунде)
+about-networking-originAttributesSuffix = Изолациони кључ
 about-networking-messages-sent = Поруке послате
 about-networking-messages-received = Поруке примљене
 about-networking-bytes-sent = Бајтова послато
