@@ -39,8 +39,12 @@ protection-report-webpage-title = Panel de protecciones
 protection-report-page-content-title = Panel de protecciones
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } puede proteger tu privacidad tras bambalinas mientras navegas. Este es un resumen personalizado de aquellas protecciones, incluyendo las herramientas para tomar el control de tu vida en línea.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } protege tu privacidad tras bambalinas mientras navegas. Este es un resumen personalizado de aquellas protecciones, incluyendo las herramientas para tomar el control de tu vida en línea.
+protection-report-settings-link = Gestiona tu configuración de privacidad y seguridad
 etp-card-title-always = Protección de seguimiento mejorada: Siempre activa
 etp-card-title-custom-not-blocking = Protección de seguimiento mejorada: DESACTIVADA
+etp-card-content-description = { -brand-short-name } automáticamente detiene a las compañías que te sigen en secreto por la web.
 protection-report-etp-card-content-custom-not-blocking = Actualmente están todas las protecciones desactivadas. Elije que rastreadores bloquear en tus ajustes de protección de { -brand-short-name }.
 protection-report-manage-protections = Administrar ajustes
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -118,6 +122,8 @@ monitor-link = Cómo funciona
 monitor-header-content-no-account = Revisa { -monitor-brand-name } para ver si has sido parte de una filtración de datos conocida, y recibe alertas sobre nuevas filtraciones.
 monitor-header-content-signed-in = { -monitor-brand-name } te advierte si tu información ha aparecido en una filtración de datos conocida.
 monitor-sign-up = Regístrate para recibir alertas de filtraciones
+monitor-sign-up-link = Regístrate para recibir alertas de filtraciones
+    .title = Regístrate para recibir alertas de filtraciones en { -monitor-brand-name }
 auto-scan = Escaneado automáticamente el día de hoy
 monitor-emails-tooltip =
     .title = Ver las direcciones de correo supervisadas en { -monitor-brand-short-name }
@@ -158,6 +164,7 @@ password-warning =
         [one] conexión guardada podría haberse visto expuesta en una filtración de datos. Cambia la contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver conexiones guardadas</a>
        *[other] conexiones guardadas podrían haberse visto expuesta en una filtración de datos. Cambia la contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver conexiones guardadas</a>
     }
+monitor-no-breaches-title = ¡Buenas noticias!
 monitor-resolve-breaches-link = Resolver filtraciones
     .title = Resuelve filtraciones en { -monitor-brand-short-name }
 
