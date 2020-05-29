@@ -20,7 +20,7 @@
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Mohenda">
 <!ENTITY view.sort.accesskey            "M">
-<!ENTITY view.unsorted.label            "Mohenda'ỹva">
+<!ENTITY view.unsorted.label            "Mohenda’ỹva">
 <!ENTITY view.unsorted.accesskey        "M">
 <!ENTITY view.sortAscending.label       "A > Z ñemohenda">
 <!ENTITY view.sortAscending.accesskey   "A">
