@@ -277,6 +277,8 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } vil ikkje v
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Du deler { -brand-short-name }. Andre personar kan sjå når du byter til ei ny fane.
+sharing-warning-screen = Du deler heile skjermen. Andre personar kan sjå når du byter til ei ny fane.
 sharing-warning-proceed-to-tab =
     .label = Fortset til fana
 
