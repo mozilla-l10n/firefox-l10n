@@ -89,6 +89,7 @@ unknownSocketType-title = Responsa inexpectate del servitor
 nssFailure2-title = Connexion secur fallite
 cspBlocked-title = Blocate per le politica de securitate del contento
 xfoBlocked-title = Blocate per politica X-Frame-Options
+csp-xfo-error-title = { -brand-short-name } Non pote aperir iste pagina
 corruptedContentError-title = Error de contento corrumpite
 remoteXUL-title = XUL remote
 sslv3Used-title = Incapace de connecter se securmente

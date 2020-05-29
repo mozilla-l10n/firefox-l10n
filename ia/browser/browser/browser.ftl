@@ -277,6 +277,8 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } non monstra
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Tu comparti { -brand-short-name }. Altere personas pote vider quando tu passa a un nove scheda.
+sharing-warning-screen = Tu comparti tu integre schermo. Altere personas pote vider quando tu passa a un nove scheda.
 sharing-warning-proceed-to-tab =
     .label = Procede al scheda
 sharing-warning-disable-for-session =
