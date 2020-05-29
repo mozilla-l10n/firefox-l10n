@@ -162,11 +162,15 @@ password-warning =
         [one] Lagra innlogging kan ha blitt eksponert i ein datalekkasje. Endre dette passordet for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
        *[other] Lagra innloggingar kan ha blitt eksponerte i ein datalekkasje. Endre desse passorda for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
     }
+monitor-no-breaches-title = Gode nyheiter!
 monitor-view-report-link = Vis rapport
     .title = Løys datalekkasjar på { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Løys datalekkasjane dine
 monitor-manage-breaches-link = Handter datalekkasjer
     .title = Handter datalekkasjar på { -monitor-brand-short-name }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved } % fullført
 monitor-partial-breaches-motivation-title-start = Bra start!
 monitor-partial-breaches-motivation-title-middle = Hald fram slik!
 monitor-partial-breaches-motivation-title-end = Nesten ferdig! Hald fram slik.
