@@ -4,7 +4,7 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } oipuru mboajepyre rekorosã oiko'ỹva.
+cert-error-intro = { $hostname } oipuru mboajepyre rekorosã oiko’ỹva.
 cert-error-mitm-intro = Ko’ã ñanduti renda ohechauka heratee mboajepyre rupi oguenohẽva mboajepyre umi mburuvicha.
 cert-error-mitm-mozilla = { -brand-short-name } oykeko Mozilla, atyguasu viru’ỹgua oñangarekóva tendaguasu mboajepyre myakãha ijurujáva. Ko mboajepyre myakãha oipytyvõ oñemoañete hag̃ua mboajepyre myakãha rembiapo potĩ puruhára rekorosãrã rekávo.
 cert-error-mitm-connection = { -brand-short-name } oipuru Mozilla ñemuha CA ohecha hag̃ua hekorosãpa jeike, mboajepyre ome’ẽva puruhára apopyvusu rendaguépe. Upéicha rupi, pe tembiaporape mba’echu’i jukaha térã ñanduti ohapejokórõ jeike mboajepyre hekorosãva ndive ome’ẽva peteĩ CA oĩ’ỹva Mozilla ñemuhápe, pe jeike nahekorosãmo’ãi.
@@ -12,7 +12,7 @@ cert-error-trust-unknown-issuer-intro = Ikatu hína peteĩva oha’ãnga tendáp
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Umi ñanduti renda oha’ã heraite mboajepyre rupive. { -brand-short-name } ndojeroviái { $hostname } rehe pe mboajepyre me’ẽha ndojekuaái rehe, ko mboajepyre oñemboheraguapy, térã pe mohendahavusu nomondói mboajepyre mbytegua oikóva.
-cert-error-trust-cert-invalid = Ndojejeroviái pe mboajepyre rehe ha'e rupi pe CA mboajepyre oiko'ỹva guenohẽmby.
+cert-error-trust-cert-invalid = Ndojejeroviái pe mboajepyre rehe ha’e rupi pe CA mboajepyre oiko’ỹva guenohẽmby.
 cert-error-trust-untrusted-issuer = Ndojejeroviái pe mboajepyréva rehe pe ime’ẽhare rehe ndojejeroviavéima rupi.
 cert-error-trust-signature-algorithm-disabled = Ndojejeroviái pe mboajepyréva rehe omboheraguapy rupi oipurúvo algoritmo mboheraguapy rehegua ojejokomava'ekue nahekorosãi haguére.
 cert-error-trust-expired-issuer = Ndojejeroviái pe mboajepyre rehe pe ime’ẽhare ndoikovéima rupi.
@@ -82,7 +82,7 @@ unknownProtocolFound-title = Pe kundaharape nahesakãi
 proxyConnectFailure-title = Mohendahavusu proxy ombotove jeike
 proxyResolveFailure-title = Ndaikatúi ojejuhu mohendahavusu proxy
 redirectLoop-title = Ko kuatiarogue ndoguerahajeýi hekoitépe
-unknownSocketType-title = Mbohovái eha'ãrõ’ỹva mohendahavusúgui
+unknownSocketType-title = Mbohovái eha’ãrõ’ỹva mohendahavusúgui
 nssFailure2-title = Jeikekatu jejavýva
 cspBlocked-title = Ojejoko hetepy rekorosãrã purureko rupi
 xfoBlocked-title = Ojokóma tapereko X-Frame-Options

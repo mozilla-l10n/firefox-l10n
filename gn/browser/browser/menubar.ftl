@@ -53,7 +53,7 @@ menu-file-import-from-another-browser =
     .label = Egueruka ambue kundaháragui…
     .accesskey = I
 menu-file-go-offline =
-    .label = Mba'apo ñanduti'ỹre
+    .label = Mba’apo ñanduti’ỹre
     .accesskey = k
 
 ## Edit Menu
@@ -110,8 +110,8 @@ menu-view-page-style-menu =
     .label = Kuatiarogue mbohekoha
     .accesskey = y
 menu-view-page-style-no-style =
-    .label = Mboheko'ỹva
-    .accesskey = N
+    .label = Mboheko’ỹva
+    .accesskey = n
 menu-view-page-basic-style =
     .label = Kuatiarogue mbohekoha ypygua
     .accesskey = B

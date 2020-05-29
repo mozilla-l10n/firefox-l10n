@@ -157,8 +157,8 @@ main-context-menu-media-play-speed-faster =
 # "Ludicrous" is a reference to the movie "Space Balls" and is meant
 # to say that this speed is very fast.
 main-context-menu-media-play-speed-fastest =
-    .label = Oiko'ỹva (2×)
-    .accesskey = O
+    .label = Oiko’ỹva (2×)
+    .accesskey = L
 main-context-menu-media-loop =
     .label = Mosãha
     .accesskey = M

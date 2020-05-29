@@ -21,7 +21,7 @@ error-long-desc2 = Umi avara’ãnga ohecháma mba’eita peẽ peguerovia’ỹ
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Umi avara'ãnga niko ne angirũ karéi ha hendivekuéra reñeñanduporãta.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = Umi avara'ãnga hevi atã vera ojepytekuaa'ỹva.
+error-long-desc4 = Umi avara’ãnga hevi atã vera ojepytekuaa’ỹva.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ha oguereko peteĩ apopyrã.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
