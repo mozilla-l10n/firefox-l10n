@@ -199,6 +199,7 @@ monitor-partial-breaches-motivation-title-start = Ottimo inizio!
 monitor-partial-breaches-motivation-title-middle = Continua così!
 monitor-partial-breaches-motivation-title-end = Quasi finito. Continua così!
 monitor-partial-breaches-motivation-desc = Risolvi le altre violazioni su { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = Risolvi le altre violazioni su { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Risolvi violazioni
   .title = Risolvi le violazioni su { -monitor-brand-short-name }
 
