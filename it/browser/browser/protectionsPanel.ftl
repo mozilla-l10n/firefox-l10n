@@ -57,7 +57,6 @@ protections-panel-not-found-label = Non rilevati
 
 protections-panel-settings-label = Impostazioni protezione
 protections-panel-showreport-label = Visualizza rapporto
-protections-panel-showdashboard-label = Visualizza dashboard
 protections-panel-protectionsdashboard-label = Dashboard protezioni
 
 ## In the Site Not Working? view, we suggest turning off protections if
