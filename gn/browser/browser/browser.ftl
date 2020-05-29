@@ -266,9 +266,19 @@ popup-select-microphone =
     .value = Ñe'ẽatãha hetápe g̃uarãva:
     .accesskey = M
 popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba'erechahápe.
+popup-screen-sharing-not-now =
+    .label = Ani ko'ág̃a
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = Ani emoneĩ araka’eve
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Eho tendayképe
+sharing-warning-disable-for-session =
+    .label = Eipe’a ñemo’ã ko tendápe g̃uarã
 
 ## DevTools F12 popup
 
