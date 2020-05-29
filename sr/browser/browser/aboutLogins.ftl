@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Увези из дру�
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Опције
-       *[other] Поставке
+       *[other] Подешавања
     }
 about-logins-menu-menuitem-help = Помоћ
 menu-menuitem-android-app = { -lockwise-brand-short-name } за Андроид
@@ -75,12 +75,12 @@ about-logins-intro-import = Ако су ваше пријаве сачуване
 
 ## Login
 
-login-item-new-login-title = Направи нову пријаву
+login-item-new-login-title = Направите нову пријаву
 login-item-edit-button = Уреди
 about-logins-login-item-remove-button = Уклони
 login-item-origin-label = Адреса веб странице
 login-item-origin =
-    .placeholder = https://www.example.com
+    .placeholder = https://primer.rs
 login-item-username-label = Корисничко име
 about-logins-login-item-username =
     .placeholder = (без корисничког имена)
@@ -153,7 +153,7 @@ confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
 about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
-confirm-delete-dialog-message = Ова радња је неопозива.
+confirm-delete-dialog-message = Ова радња се не може опозвати.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
 confirm-discard-changes-dialog-title = Одбацити несачуване измене?
 confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
