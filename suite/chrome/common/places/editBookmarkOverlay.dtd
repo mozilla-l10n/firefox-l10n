@@ -9,7 +9,9 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Gøym">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etikettar:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Skil etikettar med komma">
 <!ENTITY editBookmarkOverlay.description.label               "Skildring:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Nøkkelord:">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Vis alle etikettar">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Last dette bokmerket i sidestolpen">
