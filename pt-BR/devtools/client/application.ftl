@@ -73,7 +73,7 @@ serviceworker-empty-suggestions-aboutdebugging = Inspecionar Service Workers de 
 manifest-view-header = App Manifest
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = You need to add a web app Manifest to inspect it here. <a>Learn more</a>
+manifest-empty-intro = Você precisa adicionar um Manifest de app web para ser inspecionado aqui. <a>Saiba mais</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Errors and Warnings
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -93,7 +93,7 @@ manifest-loaded-error = There was an error while loading the manifest:
 # trying to load the manifest
 manifest-loaded-devtools-error = Firefox DevTools error
 # Text displayed when the page has no manifest available
-manifest-non-existing = No manifest found to inspect.
+manifest-non-existing = Nenhum manifest encontrado para ser inspecionado.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = The manifest is embedded in a Data URL.
