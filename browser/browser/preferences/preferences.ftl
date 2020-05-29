@@ -286,7 +286,7 @@ applications-manage-app =
     .label = 응용 프로그램 세부사항…
 applications-always-ask =
     .label = 항상 물어 보기
-applications-type-pdf = PDF 문서(PDF)
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
