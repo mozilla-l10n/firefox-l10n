@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "مصدر الصفحة">
 <!ENTITY pageSourceCmd.accesskey "ح">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "معلومات الصفحة">
 <!ENTITY pageInfoCmd.accesskey "م">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "منقح تخطيط الصفحة">
 <!ENTITY ldbCmd.accesskey "م">
@@ -126,9 +124,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "افتح تفضيلات &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "أعِد الاتصال مع &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "أكّد حسابك">
-
-
- <!-- } is above this key on many keyboards -->
 
 
 <!ENTITY fullScreenMinimize.tooltip "صغّر">
@@ -180,6 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "أرسِل اللسان مباشرةً إلى أي جهاز ولجت فيه.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -218,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "علامات">
 <!ENTITY bookmarksMenu.accesskey "ع">
-
 <!ENTITY bookmarkThisPageCmd.label "علّم هذه الصفحة">
 <!ENTITY editThisBookmarkCmd.label "حرّر هذه العلامة">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -243,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "ع">
 <!ENTITY stopCmd.label                "أوقف">
 <!ENTITY stopCmd.accesskey            "ق">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "اذهب للعنوان في شريط الموقع">
@@ -291,10 +285,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "لقد حجبنا عن هذا الموقع الوصول إلى MIDI.">
 <!ENTITY urlbar.installBlocked.tooltip           "حجبت تثبيت الإضافات في هذا الموقع.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "منحت هذا الموقع صلاحيات أخرى.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "منحت هذا الموقع صلاحيات أخرى.">
 
 
 <!ENTITY searchItem.title             "ابحث">
@@ -355,7 +348,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ملف">
 <!ENTITY fileMenu.accesskey       "م">
-
 <!ENTITY newUserContext.label             "لسان حاوٍ جديد">
 <!ENTITY newUserContext.accesskey         "ح">
 <!ENTITY manageUserContext.label          "أدِر الحاويات">
@@ -409,6 +401,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "خصّص…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ص">
+
 <!ENTITY overflowCustomizeToolbar.label       "خصّص شريط الأدوات…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ش">
 
@@ -420,7 +413,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "استعد الجلسة السابقة">
 
 <!ENTITY showAllHistoryCmd2.label "أظهر كل التأريخ">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "أظهر كل التأريخ">
@@ -467,7 +459,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "أضف إلى شريط الأدوات">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ض">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "أضف لقائمة الزيادة">
@@ -601,7 +593,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "ح">
 <!ENTITY showOnlyThisFrameCmd.label     "أظهر هذا الإطار فقط">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ظ">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "أعِد تحميل الإطار">
 <!ENTITY reloadFrameCmd.accesskey     "ت">
@@ -642,6 +633,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "احفظ في Pocket">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "احفظ الصفحة في Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "ح">
 <!ENTITY saveLinkToPocketCmd.label    "احفظ الرابط في Pocket">
@@ -654,7 +647,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "س">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "س">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "احفظ الإطار باسم…">
 <!ENTITY saveFrameCmd.accesskey       "ط">
@@ -758,20 +750,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "قرّب">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ق">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "بعّد">
 <!ENTITY fullZoomReduceCmd.accesskey    "ب">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "صفّر">
 <!ENTITY fullZoomResetCmd.accesskey     "ص">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -795,7 +784,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "أغلق">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "غ">
 
@@ -821,7 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "ك">
 <!ENTITY bidiSwitchTextDirectionItem.label        "اعكس اتجاه النص">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ن">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ابحث في هذه الصفحة…">
@@ -851,7 +838,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "الاتصال">
 <!ENTITY identity.connectionSecure "اتصال آمن">
 <!ENTITY identity.connectionNotSecure "الاتصال غير آمن">
-
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
 <!ENTITY identity.connectionVerified2 "تتصل بأمان مع هذا الموقع، و الذي يملكه:">
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
@@ -892,58 +878,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "امسح الكعكات و بيانات المواقع…">
 
 <!ENTITY identity.permissions "التّصاريح">
-
 <!ENTITY identity.permissionsEmpty "لم تمنح هذا الموقع أي صلاحيات خاصة.">
 <!ENTITY identity.permissionsReloadHint "قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.">
 <!ENTITY identity.permissionsPreferences.tooltip "افتح تفضيلات التصاريح">
 <!ENTITY identity.contentBlockingPreferences.tooltip "افتح تفضيلات حجب المحتوى">
 
-
-<!ENTITY protections.etpON.header "فُعّلت الحماية الموسّعة من التعقب في هذا الموقع">
-<!ENTITY protections.etpOFF.header "عُطّلت الحماية الموسّعة من التعقب في هذا الموقع">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "معلومات أخرى حول الحماية الموسّعة من التعقب">
-<!ENTITY protections.settings.label "إعدادات الحماية">
-<!ENTITY protections.showreport.label "اعرض التقرير">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "ألا يعمل الموقع؟">
-<!ENTITY protections.siteNotWorkingView.title "ألا يعمل الموقع؟">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "أوقِف ميزات الحماية إن واجهت مشاكل تخص:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "مربعات الولوج">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "الاستمارات">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "عمليات الدفع">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "التعليقات">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "الڤديوهات">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "أرسِل بلاغا">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "محجوبة">
-<!ENTITY protections.notBlocking2.label "مسموح بها">
-<!ENTITY protections.notFound.label "لم تُكتشف في الصفحة">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "لمَ؟">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "إن حجبتها فقد تعطب بعض العناصر في المواقع. قد لا تعمل بعض الأزرار والاستمارات ومربعات الولوج إن لم تكن هناك متعقّبات.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "حُمّلت كافة المتعقّبات في هذا الموقع إذ أنّ الحماية معطّلة.">
-<!ENTITY protections.noTrackersFound.description "لم تُكتشف في هذه الصفحة أي متعقّبات يعرفها &brandShortName;.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "تتعقّبك هذه الكعكات وأنت تفتح الموقع تلو الآخر لتجمع بيانات عمّا تفعله على الشبكة. هذه الكعكات تأتي من أطراف ثالثة مثل شركات الإعلان والتحليل.">
-<!ENTITY protections.cryptominers.description "تستعمل المُعدّنات المعمّاة طاقة الحساب في جهازك لتُعدّن أموالا رقمية. يستنزف هذا التعدين المدخرة ويُبطئ الجهاز ويزيد من فاتورة الكهرباء.">
-<!ENTITY protections.fingerprinters.description "تجمع مُسجّلات البصمات الإعدادات من المتصفح والجهاز لتفتح عنك ملفا عمّن تكون. يمكنها باستعمال هذه البصمة الرقمية تعقّبك في أرجاء مختلف المواقع.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -989,13 +928,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "الكعكات">
 <!ENTITY contentBlocking.cookiesView.label "الكعكات وبيانات المواقع">
 
-<!ENTITY contentBlocking.trackingProtection4.label "حجب المحتوى">
-
-<!ENTITY contentBlocking.manageSettings2.label "أدِر إعدادات الحماية">
-<!ENTITY contentBlocking.manageSettings2.accesskey "د">
-
-<!ENTITY contentBlocking.socialblock.label "متعقبات مواقع التواصل الاجتماعي">
-
 <!ENTITY contentBlocking.cryptominers.label "المُعدّنات المعمّاة">
 <!ENTITY contentBlocking.cryptominersView.label "المُعدّنات المعمّاة">
 
@@ -1006,11 +938,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "الإبلاغ عن مشاكل">
 <!ENTITY contentBlocking.breakageReportView2.description "يمكن أن يتسبّب حجب المحتوى بمشاكل مع بعض المواقع. عندما تُبلغ عن المشاكل تكون تساعد في جعل &brandShortName; أفضل للجميع. (سيُرسل هذا مسار الصفحة كما ومعلومات عن إعدادات المتصفح لديك إلى Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "اطّلع على المزيد">
-
-<!ENTITY contentBlocking.breakageReportView2.learnMore "اطّلع على المزيد">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "المسار">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "ما المشاكل التي تواجهها؟ (اختياري)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "لو أردت: صِف المشكلة">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "أرسِل البلاغ">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "ألغِ">
 
@@ -1061,7 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "ط">
 
 <!ENTITY homepageControlled.message "ثمة امتداد غيّر ما تراه في صفحة البداية. يمكنك استعادة الإعداد السابق إن لم تقبل بهذا التغيير.">
-
 <!ENTITY homepageControlled.header.message "لقد تغيرت صفحة البداية.">
 <!ENTITY homepageControlled.keepButton.label "أبقِ التغييرات">
 <!ENTITY homepageControlled.keepButton.accesskey "غ">
