@@ -500,7 +500,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description = Iporãvéva ñanduti retepy, oñemomba’éva ndéve g̃uarã
 home-prefs-recommended-by-learn-more = Mba’éichapa omba’apo
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Tembiasakue jehepyme'ẽguáva
+    .label = Tembiasakue jehepyme’ẽguáva
 home-prefs-highlights-header =
     .label = Mba'erechapyrã
 home-prefs-highlights-description = Tenda jeporavopy eñongatu térã eike hague
@@ -1067,7 +1067,7 @@ permissions-a11y-privacy-link = Kuaave
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Ñembyaty ha mba'ekuaarã jepuru
-collection-description = Roñeha'ã mbarete rome'ẽ hag̃ua jeporavorã ha rombyaty pe roikotevẽva rome'ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Tapiaite rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.
+collection-description = Roñeha’ã mbarete rome’ẽ hag̃ua jeporavorã ha rombyaty roikotevẽva rome’ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Rojerure tapia ñemoneĩ marandu og̃uahẽ mboyve oréve.
 collection-privacy-notice = Marandu Ñemigua
 collection-health-report-telemetry-disabled = Nomoneĩvéima { -vendor-short-name } ojapyhývo mba’ekuaarã aporekogua ha oñondiveguáva. Opaite mba’ekuaarã itujavéva oguéta 30 ára ohasávo.
 collection-health-report-telemetry-disabled-link = Kuaave

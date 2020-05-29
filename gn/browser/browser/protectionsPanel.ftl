@@ -68,7 +68,7 @@ protections-panel-site-not-working-view-header = Eipe’a umi ñemo’ãha nemoa
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Tembiapo ñepyrũ rekoha
 protections-panel-site-not-working-view-issue-list-forms = Myañyhẽha
-protections-panel-site-not-working-view-issue-list-payments = Jehepume'ẽ
+protections-panel-site-not-working-view-issue-list-payments = Jehepume’ẽ
 protections-panel-site-not-working-view-issue-list-comments = Je'erei
 protections-panel-site-not-working-view-issue-list-videos = Ta'ãngamýi
 protections-panel-site-not-working-view-send-report = Emondo marandu'i
