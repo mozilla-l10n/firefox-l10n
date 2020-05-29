@@ -162,9 +162,19 @@ password-warning =
         [one] Kayıtlı hesabınız bir veri ihlalinde ele geçirilmiş olabilir. Güvenliğinizi artırmak için bu parolayı değiştirin. <a data-l10n-name="lockwise-link">Kayıtlı hesapları göster</a>
        *[other] Kayıtlı hesaplarınız bir veri ihlalinde ele geçirilmiş olabilir. Güvenliğinizi artırmak için bu parolayı değiştirin. <a data-l10n-name="lockwise-link">Kayıtlı hesapları göster</a>
     }
+monitor-no-breaches-title = Her şey yolunda!
 monitor-manage-breaches-link = İhlalleri yönet
     .title = İhlalleri { -monitor-brand-short-name }’de yönetin
 monitor-breaches-resolved-title = Güzel! Bilinen tüm ihlalleri çözdünüz.
+monitor-breaches-resolved-description = E-postanız yeni bir ihlalde ortaya çıkarsa size haber vereceğiz.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreaches } ihlalden { $numBreachesResolved } tanesi çözüldü olarak işaretlendi
+       *[other] { $numBreaches } ihlalden { $numBreachesResolved } tanesi çözüldü olarak işaretlendi
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = %{ $percentageResolved } tamamlandı
