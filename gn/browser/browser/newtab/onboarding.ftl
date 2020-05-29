@@ -31,7 +31,7 @@ onboarding-join-form-body = Eñepyrũ hag̃ua, ehai ne ñanduti veve kundaharape
 onboarding-join-form-email =
     .placeholder = Ehai ñandutiveve kundaharape
 onboarding-join-form-email-error = Eikotevẽ ñandutiveve oikóva
-onboarding-join-form-legal = Eku’ejeývo, emoneĩma umi <a data-l10n-name="terms">Mba'epytyvõrã ñemboguata</a> ha <a data-l10n-name="privacy">Temiñemi purureko</a>.
+onboarding-join-form-legal = Eku’ejeývo, emoneĩma umi <a data-l10n-name="terms">Mba’epytyvõrã ñemboguata</a> ha <a data-l10n-name="privacy">Temiñemi purureko</a>.
 onboarding-join-form-continue = Eku'ejey
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = ¿Eguerekóma ne mba’ete?
@@ -93,7 +93,7 @@ onboarding-benefit-lockwise-text = Eñangareko ñe’ẽñemi oñemo’ãva ha o
 
 onboarding-private-browsing-title = Kundaha ñemigua
 onboarding-private-browsing-text = Eikundaha ndejeheve. Kundaha ñemigua Tetepy jokoha ndive ojoko umi nde rapykuehóva ñanduti peguáva.
-onboarding-screenshots-title = Mba'erechaha jejapyhy
+onboarding-screenshots-title = Mba’erechaha jejapyhy
 onboarding-screenshots-text = Ejapyhy, eñongatu ha emoherakuã mba’erechaha japyhypy – ese’ỹre { -brand-short-name }-gui. Ejapyhy peteĩ tendaguasu térã kuatiarogue tuichaháicha eikundaha jave. Upéi eñongatu ñandutípe eike hag̃ua pya’e ha emoherakuãkuaa hag̃ua.
 onboarding-addons-title = Moimbaha
 onboarding-addons-text = Embojuaju tembiapoiteve emonba’apo hag̃ua { -brand-short-name } ndéve g̃uarã. Emoñondive tepy, ema’ẽ árare térã ehechauka reikuaáva peteĩ téma ñemomba’epyre rupi.
@@ -127,7 +127,7 @@ onboarding-mobile-phone-button = Emboguejy kundaha pumbyrygua
 onboarding-send-tabs-title = Emondo tendayke ko’ag̃aite
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Send Tabs omoherakuã kuatiarogue ne mba’e’oka ndive omonguatia’ỹre, mboja ha osẽ’ỹre avei kundahágui.
+onboarding-send-tabs-text = Send Tabs omoherakuã kuatiarogue ne mba’e’oka ndive omonguatia’ỹre, mboja ha osẽ’ỹre avei kundaháragui.
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Emoherakuã kuatiarogue ne mba’e’okakuéra ndive ehai’ỹre juajuha térã emboty’ỹre kundaha.
