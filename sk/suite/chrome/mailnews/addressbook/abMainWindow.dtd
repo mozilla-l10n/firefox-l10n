@@ -7,24 +7,24 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "Tento adresár zobrazuje kontakty až po vyhľadávaní">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakty zo vzdialených adresárov nie sú zobrazené až pokiaľ nevykonáte hľadanie">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Kontakt…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "K">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Rozosielací zoznam">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "R">
 <!ENTITY newAddressBookCmd.label                        "Adresár">
 <!ENTITY newAddressBookCmd.accesskey                    "A">
 <!ENTITY newLDAPDirectoryCmd.label                      "Priečinok LDAP…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Tlačiť kontakt…">
 <!ENTITY printContactViewCmd.accesskey                  "T">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Ukážka pred tlačou kontaktu">
 <!ENTITY printPreviewContactViewCmd.accesskey           "U">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Tlačiť adresár…">
 <!ENTITY printAddressBook.accesskey                     "d">
 <!ENTITY printPreviewAddressBook.label                  "Ukážka pred tlačou adresára">
@@ -40,7 +40,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "Vymeniť meno a priezvisko">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
 <!ENTITY propertiesCmd.label                            "Vlastnosti…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "l">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +84,8 @@
 <!ENTITY deleteItemButton.accesskey                     "d">
 <!ENTITY newimButton.label                              "Rýchla správa">
 <!ENTITY newimButton.accesskey                          "R">
+<!ENTITY printButton.label                              "Tlačiť">
+<!ENTITY printButton.accesskey                          "l">
 <!ENTITY searchNameAndEmail.placeholder                 "Hľadať meno alebo e-mail">
 <!ENTITY searchBox.title                                "Hľadať">
 
@@ -95,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "Upraviť označenú položku">
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
+<!ENTITY printButton.tooltip                            "Vytlačiť označenú položku">
 <!ENTITY deleteItemButton.tooltip                       "Odstrániť označenú položku">
 <!ENTITY throbber.tooltip                               "Prejsť na domovskú stránku &vendorShortName;">
 <!ENTITY throbber.tooltip2                              "Prejsť na domovskú stránku &brandShortName;">
@@ -108,6 +110,7 @@
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Domov">
 <!ENTITY other.heading                                  "Ostatné">
+<!ENTITY chat.heading                                   "Konverzácie">
 <!ENTITY phone.heading                                  "Telefón">
 <!ENTITY work.heading                                   "Zamestnanie">
 <!-- Special Box Headings, for mailing lists -->
