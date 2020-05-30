@@ -34,9 +34,15 @@
 
 <!ENTITY fileNotFound.title "Zbiōr niy ma znodniynty">
 
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Badnij na miano zbioru, jeźli niy mo felerōw abo złyj srogości liter.</li>
+  <li>Badnij, jeźli zbiōr niy bōł wrażony kaj indzij, skasowany, abo niy mioł zmiynionego miana.</li>
+</ul>">
+
+<!ENTITY fileAccessDenied.title "Dostymp do pliku ôstoł ôdciepniynty">
 
 
-
+<!ENTITY generic.title "Ups.">
 
 
 
