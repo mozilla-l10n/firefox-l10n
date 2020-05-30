@@ -568,8 +568,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Jeheka mba'epytyvõrã moambue">
-<!ENTITY changeSearchSettings.tooltip "Jeheka mba'epytyvõrã moambue">
+<!ENTITY changeSearchSettings.button  "Jeheka mba’epytyvõrã moambue">
+<!ENTITY changeSearchSettings.tooltip "Jeheka mba’epytyvõrã moambue">
 
 <!ENTITY searchInNewTab.label         "Tendayke pyahúpe jeheka">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -606,19 +606,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Kora marandu jehecha">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "Mba'era'ãnga myenyhẽjey">
+<!ENTITY reloadImageCmd.label         "Mba’era’ãnga myenyhẽjey">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Mba'era'ãnga jehecha">
+<!ENTITY viewImageCmd.label           "Mba’era’ãnga jehecha">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "Mba'era'ãnga marandu jehecha">
+<!ENTITY viewImageInfoCmd.label       "Mba’era’ãnga marandu jehecha">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Myesakãha jehecha">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "Ta'ãngamýi jehecha">
 <!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "Mba'era'ãnga huguapegua jehecha">
+<!ENTITY viewBGImageCmd.label         "Mba’era’ãnga huguapegua jehecha">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "Mba'erechaha rugua mopyenda…">
+<!ENTITY setDesktopBackgroundCmd.label      "Mba’erechaha rugua mopyenda…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Kuatiarogue mbojoapy">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
@@ -654,34 +654,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Joajuha ñongatu pyahu…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "Mba'era'ãnga ñongatu pyahu…">
+<!ENTITY saveImageCmd.label           "Mba’era’ãnga ñongatu pyahu…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Ta'ãngamýi ñongatu pyahu…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Mba'epu ñongatu pyahu…">
+<!ENTITY saveAudioCmd.label           "Mba’epu ñongatu pyahu…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Mba'era'ãnga mondo…">
+<!ENTITY emailImageCmd.label          "Mba’era'ãnga mondo…">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Ta'ãngamýi mondo…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Mba'epu mondo…">
+<!ENTITY emailAudioCmd.label          "Mba’epu mondo…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Mba'ejoajurã myendy">
+<!ENTITY playPluginCmd.label          "Mba’ejoajurã myendy">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Mba'ejoajurã moñemi">
+<!ENTITY hidePluginCmd.label          "Mba’ejoajurã moñemi">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "Joajuha rape mbohasarã">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Mba'era'ãnga rape mbohasarã">
+<!ENTITY copyImageCmd.label           "Mba’era’ãnga rape mbohasarã">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Mba'era'ãnga mbohasarã">
+<!ENTITY copyImageContentsCmd.label   "Mba’era’ãnga mbohasarã">
 <!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Ta'ãngamýi rape mbohasarã">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Mba'epu rape mbohasarã">
+<!ENTITY copyAudioURLCmd.label        "Mba’epu rape mbohasarã">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Maranduveve rape mbohasarã">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
@@ -704,7 +704,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Mokirirĩ">
 <!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "Mba'epu mbojevy">
+<!ENTITY mediaUnmute.label           "Mba’epu mbojevy">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "Mbohetaha Pya'ekue">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
@@ -730,9 +730,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Ñangarekoha moñemi">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Mba'erechaha tuichavéva">
+<!ENTITY videoFullScreen.label       "Mba’erechaha tuichavéva">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "Mba'erechaha japyhypyre ñongatu pyahu…">
+<!ENTITY videoSaveImage.label        "Mba’erechaha japyhypyre ñongatu pyahu…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -839,7 +839,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Jeikekatu">
 <!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
 <!ENTITY identity.connectionFile "Ko kuatiarogue oñeñongatu mohendahápe.">
-<!ENTITY identity.connectionVerified2 "Eikhína tekorosãme ko tendápe, mba'eteépe:">
+<!ENTITY identity.connectionVerified2 "Eikehína tekorosãme ko tendápe, mba’eteépe:">
 <!ENTITY identity.connectionInternal "Kóva &brandShortName; jeroviáva; kuatiarogue.">
 <!ENTITY identity.extensionPage "Ko kuatiarogue oñemyanyhẽ jepysokue guive.">
 <!ENTITY identity.insecureLoginForms2 "Ojehaiva'ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.">
