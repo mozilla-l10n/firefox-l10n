@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = כניסות וססמאות
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -26,6 +32,7 @@ menu =
     .title = פתיחת תפריט
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = ייבוא מדפדפן אחר…
+about-logins-menu-menuitem-export-logins = ייצוא כניסות…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] אפשרויות
@@ -142,6 +149,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 about-logins-confirm-remove-dialog-confirm-button = הסרה
+about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
+about-logins-confirm-export-dialog-confirm-button = ייצוא…
 confirm-discard-changes-dialog-title = האם להתעלם מהשינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
 confirm-discard-changes-dialog-confirm-button = התעלמות
@@ -174,3 +183,19 @@ about-logins-vulnerable-alert-learn-more-link = מידע נוסף
 about-logins-error-message-duplicate-login-with-link = כבר קיימת רשומה עבור { $loginTitle } עם שם המשתמש הזה. <a data-l10n-name="duplicate-link">לעבור לרשומה הקיימת?</a>
 # This is a generic error message.
 about-logins-error-message-default = אירעה שגיאה במהלך הניסיון לשמור ססמה זו.
+
+## Login Export Dialog
+
+# Title of the file picker dialog
+about-logins-export-file-picker-title = ייצוא קובץ כניסות
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = ייצוא
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] מסמך CSV
+       *[other] קובץ CSV
+    }
