@@ -39,6 +39,9 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = Abrir en el visor del sistema
     .accesskey = V
+downloads-cmd-always-use-system-default =
+    .label = Abrir siempre en el visor del sistema
+    .accesskey = W
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
