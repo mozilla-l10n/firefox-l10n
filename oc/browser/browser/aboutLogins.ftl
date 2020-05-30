@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = Identificants e senhals
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -26,6 +32,7 @@ menu =
     .title = Dobrir lo menú
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar d’un autre navegador…
+about-logins-menu-menuitem-export-logins = Exportar los identificants…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -154,6 +161,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Suprimir aqueste identificant ?
 confirm-delete-dialog-message = Aquesta accion es irreversibla.
 about-logins-confirm-remove-dialog-confirm-button = Suprimir
+about-logins-confirm-export-dialog-title = Exportacion dels identificants e senhals
+about-logins-confirm-export-dialog-confirm-button = Exportar…
 confirm-discard-changes-dialog-title = Ignorar las modificacions pas enregistradas ?
 confirm-discard-changes-dialog-message = Totas las modificacions pas enregistradas seràn perdudas.
 confirm-discard-changes-dialog-confirm-button = Ignorar
@@ -186,3 +195,17 @@ about-logins-vulnerable-alert-learn-more-link = Ne saber mai
 about-logins-error-message-duplicate-login-with-link = Existís ja una entrada per { $loginTitle } amb aqueste nom d’utilizaire.<a data-l10n-name="duplicate-link">Accedir a l’entrada existenta ?
 # This is a generic error message.
 about-logins-error-message-default = Una error s’es producha en enregistrant aqueste senhal.
+
+## Login Export Dialog
+
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = identificants.csv
+about-logins-export-file-picker-export-button = Exportar
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Document CSV
+       *[other] Fichièr CSV
+    }
