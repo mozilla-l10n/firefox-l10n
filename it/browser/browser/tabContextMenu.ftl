@@ -53,6 +53,16 @@ move-to-end =
 move-to-new-window =
     .label = Sposta in una nuova finestra
     .accesskey = f
+tab-context-close-multiple-tabs =
+    .label = Chiudi più schede
+    .accesskey = u
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Riapri scheda chiusa
+           *[other] Riapri schede chiuse
+        }
+    .accesskey = s
 undo-close-tab =
     .label = Riapri scheda chiusa
     .accesskey = s
