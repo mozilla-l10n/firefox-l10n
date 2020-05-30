@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] Known data breaches have exposed your information
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Known data breach marked as resolved
+       *[other] Known data breaches marked as resolved
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -163,6 +171,14 @@ password-warning =
     { $count ->
         [one] Saved login may have been exposed in a data breach. Change this password for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
        *[other] Saved logins may have been exposed in a data breach. Change these passwords for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Password exposed in unresolved breaches
+       *[other] Passwords exposed in unresolved breaches
     }
 monitor-no-breaches-title = Good news!
 monitor-no-breaches-description = You have no known breaches. If that changes, we will let you know.
@@ -187,7 +203,7 @@ monitor-partial-breaches-percentage = { $percentageResolved }% complete
 monitor-partial-breaches-motivation-title-start = Great start!
 monitor-partial-breaches-motivation-title-middle = Keep it up!
 monitor-partial-breaches-motivation-title-end = Almost done! Keep it up.
-monitor-partial-breaches-motivation-desc = Resolve the rest of your breaches on { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = Resolve the rest of your breaches on { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Resolve Breaches
     .title = Resolve breaches on { -monitor-brand-short-name }
 
