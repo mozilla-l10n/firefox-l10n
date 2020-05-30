@@ -20,6 +20,13 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Undo Close Tab
     .accesskey = U
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Undo Close Tab
+           *[other] Undo Close Tabs
+        }
+    .accesskey = U
 toolbar-context-menu-manage-extension =
     .label = Manage Extension
     .accesskey = E
