@@ -161,6 +161,7 @@ about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습�
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
 about-logins-confirm-export-dialog-title = 로그인과 비밀번호 내보내기
+about-logins-confirm-export-dialog-message = 비밀번호는 읽을 수 있는 텍스트 (예: BadP@ssw0rd)로 저장되므로, 내보낸 파일을 열 수 있는 사람은 누구나 볼 수 있습니다.
 about-logins-confirm-export-dialog-confirm-button = 내보내기…
 confirm-discard-changes-dialog-title = 저장되지 않은 변경 내용을 버리시겠습니까?
 confirm-discard-changes-dialog-message = 저장되지 않은 모든 변경 내용을 잃게 됩니다.
@@ -203,3 +204,10 @@ about-logins-export-file-picker-title = 로그인 파일 내보내기
 # This must end in .csv
 about-logins-export-file-picker-default-filename = 로그인.csv
 about-logins-export-file-picker-export-button = 내보내기
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV 문서
+       *[other] CSV 파일
+    }
