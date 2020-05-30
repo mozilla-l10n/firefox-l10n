@@ -4,6 +4,12 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Riapri scheda chiusa
+all-tabs-menu-undo-close-tabs =
+  .label =
+      { $tabCount ->
+          [1] Riapri scheda chiusa
+         *[other] Riapri schede chiuse
+      }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Cerca scheda
