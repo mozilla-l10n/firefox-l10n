@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] Violaciones de datos conocidas que expusieron su información
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Violación de datos conocida marcada como resuelta
+       *[other] Violaciones de datos conocidas marcadas como resueltas
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -163,6 +171,14 @@ password-warning =
     { $count ->
         [one] El inicio de sesión guardado puede haber estado expuesto en una violación de datos. Cambie esta contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
        *[other] Los inicios de sesión guardados pueden haber estado expuestos en una violación de datos. Cambie estas contraseñas para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Contraseña expuesta en violaciones no resueltas
+       *[other] Contraseñas expuestas en violaciones no resueltas
     }
 monitor-no-breaches-title = ¡Buenas noticias!
 monitor-no-breaches-description = No tiene violaciones conocidas. Si eso cambia, se lo vamos a comunicar.
@@ -190,7 +206,7 @@ monitor-partial-breaches-percentage = { $percentageResolved } % completo
 monitor-partial-breaches-motivation-title-start = ¡Gran comienzo!
 monitor-partial-breaches-motivation-title-middle = ¡Siga así!
 monitor-partial-breaches-motivation-title-end = ¡Casi terminado! Siga así.
-monitor-partial-breaches-motivation-desc = Resuelva las demás violaciones en { -monitor-brand-short-name } { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = Resuelva las demás violaciones en { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Resolver violaciones
     .title = Resolver violaciones en { -monitor-brand-short-name }
 
