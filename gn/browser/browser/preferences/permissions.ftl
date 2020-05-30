@@ -149,9 +149,9 @@ permissions-site-xr-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva 
 permissions-site-camera-window =
     .title = Ñangareko - Camara Jepuru
     .style = { permissions-window.style }
-permissions-site-camera-desc = Ko'ãva ñanduti renda ojejerure oike hag̃ua ta'angamýime. Ikatu ehechauka mab'e ñanduti rendápa oguereko ñemoneĩ oikpurúvo ta'angamýi. Avéi ikatu ejoko mba'ejerure pyahu oikeséva ta'angamýime rehegua.
+permissions-site-camera-desc = Ko’ãva ñanduti renda ojejerure oike hag̃ua ta’ãngamýime. Ikatu ehechauka mab’e ñanduti rendápa oguereko ñemoneĩ oikpurúvo ta’angamýi. Avéi ikatu ejoko mba’ejerure pyahu oikeséva ta’ãngamýime rehegua.
 permissions-site-camera-disable-label =
-    .label = Mba'ejerure pyahu joko ani hag̃ua ojepuru ta'angamýi
+    .label = Mba’ejerure pyahu joko ani hag̃ua ojepuru ta’ãngamýi
 permissions-site-camera-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva tysýi yvy gotyo guápe ojerurévo ñemoneĩ oike hag̃ua ta'angamýime. Ejokóramo ta'angamýime jeike ikatu ombyai ambue ñanduti rendápe.
 
 ## Site Permissions - Microphone
@@ -159,7 +159,7 @@ permissions-site-camera-disable-desc = Kóva omboykéta umi ñanduti renda noĩr
 permissions-site-microphone-window =
     .title = Ñangareko - Ñe'ẽmbotuichaha Jepuru
     .style = { permissions-window.style }
-permissions-site-microphone-desc = Ko'ã ñanduti renda ojerure ikatúpa oike ñe'ẽ'atãhápe. Ikatu emyesakã mab'e ñanduti rendápa pguereko ñemoneĩ oipurúvo ñe'ẽ'atãha. Avéi ikatu ejoko mba'ejerure pyahu oikeséva ñe'ẽ'atãhápe rehegua.
+permissions-site-microphone-desc = Ko’ã ñanduti renda ojerure ikatúpa oike ñe’ẽ’atãhápe. Ikatu emyesakã mab’e ñanduti rendápa oguereko ñemoneĩ oipurúvo ñe’ẽ’atãha. Avéi ikatu ejoko mba’ejerure pyahu oikeséva ñe’ẽ’atãhápe rehegua.
 permissions-site-microphone-disable-label =
-    .label = Mba'ejerure pyahu joko ani hag̃ua ojepuru ne ñe'ẽ'atãha
-permissions-site-microphone-disable-desc = Ko'ãva omboykéta umi ñanduti renda noĩriva omba'ejeruréva ñemoneĩ oike hag̃ua ñe'ẽ'atãhápe. Ejokóramo ñe'ẽ'atãhápe jeike ikatu ombyai ambue ñanduti rendápe.
+    .label = Mba’ejerure pyahu joko ani hag̃ua ojepuru ne ñe’ẽ’atãha
+permissions-site-microphone-disable-desc = Ko’ãva omboykéta umi ñanduti renda noĩriva omba’ejeruréva ñemoneĩ oike hag̃ua ñe’ẽ’atãhápe. Ejokóramo ñe’ẽ’atãhápe jeike ikatu ombyai ambue ñanduti rendápe.

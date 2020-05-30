@@ -58,8 +58,6 @@ fingerprinter-tab-title = Ñemokuãhũ
 fingerprinter-tab-content = Umi kuãhũ kuaaukaha ombyaty ne kundahára ñemoĩporã ha ne mohendaha omoheñói hag̃ua mba’ete nenba’erã. Oipurúvo ko kuãhũ ikatu ohapykueho opaichagua ñanduti renda guive. <a data-l10n-name="learn-more-link">Kuaave</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Umi criptominero oipurúva nde apopyvusu rembipurupyahu oguenohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oipurupa ibatería, omombegue ne mohendaha ha ikatu ohupi electricidad repy. <a data-l10n-name="learn-more-link">Kuaave</a>
-protections-close-button =
-    .aria-label = Mboty
 protections-close-button2 =
     .aria-label = Mboty
     .title = Mboty
@@ -107,7 +105,7 @@ lockwise-scanned-text-no-breached-logins =
 lockwise-how-it-works-link = Mba’éicha omba’apo
 turn-on-sync = Emyandy { -sync-brand-short-name }...
     .title = Eho ñembojuehe erohoryvévape
-manage-connected-devices = Mba'e'oka ñangarekoha…
+manage-connected-devices = Mba’e’oka ñangarekoha…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -116,7 +114,7 @@ lockwise-connected-device-status =
        *[other] Oike mba’e’okuérape { $count } ndive
     }
 monitor-title = Ema’ẽag̃uíke mba’ekuaarã ñembyaíre
-monitor-link = Mba'éichapa oba'apo
+monitor-link = Mba’éichapa omba’apo
 monitor-header-content-no-account = Ehecha { -monitor-brand-name } eikuaa hag̃ua oĩpara’e mba’ekuaarã kuaapýva ñembyaípe ha oñembou hag̃ua ndéve kyhyjyrã mba’evai rehegua.
 monitor-header-content-signed-in = { -monitor-brand-name } ne nemongyhyje ne marandu’i oĩ haguére mba’ekuaarã ñembyai kuaapývape.
 monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
