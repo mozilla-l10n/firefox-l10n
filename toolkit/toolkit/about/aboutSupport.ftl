@@ -126,6 +126,7 @@ audio-backend = Обробка аудіо
 max-audio-channels = Максимальне число каналів
 channel-layout = Основний формат каналів
 sample-rate = Основна частота
+roundtrip-latency = Затримка в обох напрямках (стандартне відхилення)
 media-title = Медіа
 media-output-devices-title = Пристрої відтворення
 media-input-devices-title = Пристрої введення
