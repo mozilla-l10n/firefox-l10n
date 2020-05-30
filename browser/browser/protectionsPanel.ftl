@@ -58,7 +58,8 @@ protections-panel-not-found-label = Cap pas detectat
 
 protections-panel-settings-label = Paramètres de proteccion
 protections-panel-showreport-label = Veire lo rapòrt
-protections-panel-showdashboard-label = Afichar los tablèu de bòrd
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Taula de bòrd de las proteccions
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
