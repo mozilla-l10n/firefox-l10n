@@ -169,14 +169,25 @@ monitor-no-breaches-description = Du har ingen kjende datalekkasjear. Om det end
 monitor-view-report-link = Vis rapport
     .title = Løys datalekkasjar på { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Løys datalekkasjane dine
+monitor-breaches-unresolved-description = Etter å ha gått gjennom datalekkasje-detaljar, og sett i verk tiltak for å ta vare på den personlege informasjonen din, kan du merke datalekkasjar som løyste.
 monitor-manage-breaches-link = Handter datalekkasjer
     .title = Handter datalekkasjar på { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Bra! Du har løyst alle kjende datalekkasjar.
+monitor-breaches-resolved-description = Vi vil gi deg beskjed om e-postadressa di dukkar opp i nye datalekkasjar.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } av { $numBreaches } datalekkasjar er merkte som løyste
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % fullført
 monitor-partial-breaches-motivation-title-start = Bra start!
 monitor-partial-breaches-motivation-title-middle = Hald fram slik!
 monitor-partial-breaches-motivation-title-end = Nesten ferdig! Hald fram slik.
+monitor-partial-breaches-motivation-desc = Løys resten av datalekkasjane dine på { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Løys datalekkasjar
     .title = Løys datalekkasjar på { -monitor-brand-short-name }
 
