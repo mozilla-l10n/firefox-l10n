@@ -209,7 +209,7 @@ monitor-partial-breaches-percentage = { $percentageResolved } % dokónčene
 monitor-partial-breaches-motivation-title-start = Wulkotny spočatk!
 monitor-partial-breaches-motivation-title-middle = Dale tak!
 monitor-partial-breaches-motivation-title-end = Nimale dokónčene! Dale tak.
-monitor-partial-breaches-motivation-desc = Wotstrońće zbytk swojich datowych dźěrow na { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = Wotstrońće zbytk swojich datowych dźěrow na { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Datowe dźěry wotstronić
     .title = Datowe dźěry na { -monitor-brand-short-name } wotstronić
 
