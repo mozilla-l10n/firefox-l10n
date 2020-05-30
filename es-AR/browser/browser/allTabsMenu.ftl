@@ -4,17 +4,20 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Deshacer cerrar pestaña
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Deshacer cerrar pestaña
+            [one] Deshacer cerrar pestañas
+           *[other] Deshacer cerrar pestañas
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Buscar Pestañas
-
 all-tabs-menu-new-user-context =
     .label = Nueva pestaña contenedora
-
 all-tabs-menu-hidden-tabs =
     .label = Pestañas ocultas
-
 all-tabs-menu-manage-user-context =
     .label = Administrar contenedores
     .accesskey = O
