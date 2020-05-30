@@ -20,6 +20,15 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Відновити закриту вкладку
     .accesskey = В
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Відновити закриту вкладку
+            [one] Відновити закриту вкладку
+            [few] Відновити закриті вкладки
+           *[many] Відновити закриті вкладки
+        }
+    .accesskey = В
 toolbar-context-menu-manage-extension =
     .label = Керувати розширенням
     .accesskey = К
