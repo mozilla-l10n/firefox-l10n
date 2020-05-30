@@ -20,6 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = ביטול סגירת לשונית
     .accesskey = ב
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] ביטול סגירת לשונית
+            [one] ביטול סגירת לשונית
+           *[other] ביטול סגירת לשוניות
+        }
+    .accesskey = י
 toolbar-context-menu-manage-extension =
     .label = ניהול הרחבה
     .accesskey = ה

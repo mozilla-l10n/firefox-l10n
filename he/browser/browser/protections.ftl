@@ -116,6 +116,7 @@ lockwise-connected-device-status =
         [one] מחובר למכשיר אחד
        *[other] מחובר ל־{ $count } מכשירים
     }
+monitor-title = קבלת התרעות על דליפות נתונים
 monitor-link = איך זה עובד
 monitor-header-content-no-account = ניתן לבדוק את { -monitor-brand-name } כדי לראות אם היית חלק מדליפת נתונים מוכרת, ולקבל התרעות לגבי דליפות חדשות.
 monitor-header-content-signed-in = { -monitor-brand-name } מזהיר אותך אם המידע שלך נחשף בדליפת נתונים מוכרת.
@@ -146,6 +147,14 @@ info-known-breaches-found =
        *[other] דליפות נתונים מוכרות חשפו מידע עליך
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] דליפת נתונים מוכרת אחת סומנה שטופלה
+       *[other] דליפות נתונים מוכרות סומנו שטופלו
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -161,6 +170,14 @@ password-warning =
     { $count ->
         [one] יתכן שכניסה שמורה אחת נחשפה בדליפת נתונים. מומלץ לשנות את הססמה הזאת לטובת אבטחה מקוונת טובה יותר. <a data-l10n-name="lockwise-link"> הצגת כניסות שמורות</a>
        *[other] יתכן שכניסות שמורות נחשפו בדליפת נתונים. מומלץ לשנות את הססמאות האלו לטובת אבטחה מקוונת טובה יותר. <a data-l10n-name="lockwise-link"> הצגת כניסות שמורות</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] ססמה אחת נחשפה בדליפות שטרם טופלו
+       *[other] ססמאות נחשפו בדליפות שטרם טופלו
     }
 monitor-no-breaches-title = חדשות טובות!
 monitor-no-breaches-description = אין לך דליפות מוכרות. אם זה ישתנה, נודיע לך על כך.
@@ -183,7 +200,7 @@ monitor-partial-breaches-title =
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% הושלמו
 monitor-partial-breaches-motivation-title-start = התחלה נהדרת!
-monitor-partial-breaches-motivation-desc = טיפול בשאר הדליפות שלך ב־{ -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = ניתן לטפל בשאר הדליפות שלך ב־{ -monitor-brand-short-name }.
 monitor-resolve-breaches-link = טיפול בדליפות
     .title = טיפול בדליפות ב־{ -monitor-brand-short-name }
 

@@ -232,6 +232,10 @@ translate-attribution = תרגום של <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = חריגות…
     .accesskey = ג
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = שימוש בהגדרות מערכת ההפעלה שלך עבור ״{ $localeName }״ כדי לעצב תאריכים, זמנים, מספרים ומידות.
 check-user-spelling =
     .label = בדיקת איות תוך כדי הקלדה
     .accesskey = ב
@@ -489,11 +493,16 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = אתרים מובילים
 home-prefs-topsites-description = האתרים בהם ביקרת הכי הרבה
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = מומלץ על־ידי { $provider }
 home-prefs-recommended-by-description = תוכן נהדר מכל רחבי הרשת, בהתאמה אישית להעדפותיך
+
+##
+
 home-prefs-recommended-by-learn-more = איך זה עובד
 home-prefs-recommended-by-option-sponsored-stories =
     .label = סיפורים ממומנים
