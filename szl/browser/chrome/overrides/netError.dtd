@@ -44,13 +44,22 @@
 
 <!ENTITY generic.title "Ups.">
 
+<!ENTITY generic.longDesc "<p>&brandShortName; niy poradzi zaladować tyj strony.</p>">
 
+<!ENTITY captivePortal.title "Logowanie do neca">
+<!ENTITY captivePortal.longDesc2 "<p>Trza połōnczynio z tym necym, podwiela pudzie mieć dostymp do internetu.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Ôdewrzij strōna logowanio do necu">
 
+<!ENTITY malformedURI.pageTitle "Zło adresa URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Ta adresa niy wyglōndo na dobro.">
 
+<!ENTITY netInterrupt.title "Połōnczynie przerwane">
 
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokumynt sie przedowniōł">
 
 
 
