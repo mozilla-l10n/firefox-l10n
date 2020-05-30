@@ -20,6 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Deshacer cerrar pestaña
     .accesskey = h
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Deshacer cerrar pestaña
+            [one] Deshacer cerrar pestañas
+           *[other] Deshacer cerrar pestañas
+        }
+    .accesskey = U
 toolbar-context-menu-manage-extension =
     .label = Administrar extensión
     .accesskey = E
