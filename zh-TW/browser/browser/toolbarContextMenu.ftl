@@ -20,6 +20,13 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = 復原已關閉分頁
     .accesskey = U
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] 復原已關閉分頁
+           *[other] 復原已關閉分頁
+        }
+    .accesskey = U
 toolbar-context-menu-manage-extension =
     .label = 管理擴充套件
     .accesskey = E

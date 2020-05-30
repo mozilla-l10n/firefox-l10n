@@ -32,6 +32,7 @@ menu =
     .title = 開啟選單
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = 從另一套瀏覽器匯入…
+about-logins-menu-menuitem-export-logins = 匯出登入資訊…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 選項
@@ -159,6 +160,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = 要移除這筆登入資訊嗎？
 confirm-delete-dialog-message = 此動作無法復原。
 about-logins-confirm-remove-dialog-confirm-button = 移除
+about-logins-confirm-export-dialog-title = 匯出登入資訊與密碼
+about-logins-confirm-export-dialog-message = 您的密碼將以可閱讀的明文格式（例如 BadP@ssw0rd）儲存，任何能夠開啟檔案的人都能得知密碼內容。
 about-logins-confirm-export-dialog-confirm-button = 匯出…
 confirm-discard-changes-dialog-title = 要放棄未儲存的變更嗎？
 confirm-discard-changes-dialog-message = 將失去所有未儲存的變更。
@@ -195,7 +198,16 @@ about-logins-error-message-default = 嘗試儲存此密碼時發生錯誤。
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = 匯出登入資訊檔案
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
 about-logins-export-file-picker-export-button = 匯出
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV 文件
+       *[other] CSV 檔案
+    }
