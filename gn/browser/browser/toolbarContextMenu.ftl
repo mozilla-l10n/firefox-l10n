@@ -45,5 +45,5 @@ toolbar-context-menu-remove-from-toolbar =
     .label = Tembipuru rendágui mboguete
     .accesskey = R
 toolbar-context-menu-view-customize-toolbar =
-    .label = Ñemomba'e…
+    .label = Ñemomba’e…
     .accesskey = C

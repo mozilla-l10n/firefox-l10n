@@ -8,8 +8,8 @@ back = Atukupe
 forward = Tenonde
 reload = Myanyhẽjey
 home = Óga
-fullscreen = Mba'erechaha tuichakue
-touchbar-fullscreen-exit = Esẽ mba'erechaha tuichavévagui
+fullscreen = Mba’erechaha tuichakue
+touchbar-fullscreen-exit = Esẽ mba’erechaha tuichavévagui
 find = Juhu
 new-tab = Tendayke pyahu
 add-bookmark = Embojuaju techaukaha
@@ -20,7 +20,6 @@ open-location = Eheka térã emoinge kundaharape
 share = Moherakuã
 close-window = Emboty ovetã
 open-sidebar = Tenda yke
-
 # This string describes shortcuts for search.
 search-popover = Eheka jeike pya’eha
 # Describes searches limited to a specific scope
