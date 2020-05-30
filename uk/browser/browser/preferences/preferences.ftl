@@ -496,11 +496,17 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Популярні сайти
 home-prefs-topsites-description = Сайти, які ви відвідуєте найчастіше
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Рекомендовано { $provider }
 home-prefs-recommended-by-description = Чудові матеріали з усього інтернету, відібрані спеціально для вас
+home-prefs-recommended-by-description-update = Наданий { $provider } винятковий вміст з мережі
+
+##
+
 home-prefs-recommended-by-learn-more = Як це працює
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Матеріали від спонсорів
