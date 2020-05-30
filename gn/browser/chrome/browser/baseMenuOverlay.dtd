@@ -41,7 +41,7 @@
 <!ENTITY preferencesCmdMac.label        "Jerohoryvéva…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "Mba'epytyvõrã">
+<!ENTITY servicesMenuMac.label          "Mba’epytyvõrã">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; moñemi">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
@@ -51,4 +51,4 @@
 
 <!ENTITY showAllAppsCmdMac.label        "Techaukapaite">
 
-<!ENTITY touchBarCmdMac.label           "Eñemomba'e pokogua rendáre…">
+<!ENTITY touchBarCmdMac.label           "Eñemomba’e pokogua rendáre…">
