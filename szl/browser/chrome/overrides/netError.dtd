@@ -7,15 +7,32 @@
 
 <!ENTITY loadError.label "Problym ladowanio strōny">
 <!ENTITY retry.label "Sprōbuj jeszcze roz">
+<!ENTITY returnToPreviousPage.label "Nazod">
+<!ENTITY returnToPreviousPage1.label "Nazod (Doradzane)">
+<!ENTITY advanced2.label "Rozszyrzōne…">
+<!ENTITY viewCertificate.label "Pokoż certyfikat">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Niy idzie sie połōnczyć">
 
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
+<!ENTITY deniedPortAccess.title "Zaszperowano adresa">
 
+<!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "Serwer niy ma znodniynty">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm, mōmy problym znojś ta strōna.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Jak adresa je dobro, idzie jeszcze sprōbować tego:</strong>
+<ul>
+  <li>Sprōbuj zaś niyskorzij.</li>
+  <li>Badnij, jeźli mosz połōnczynie z internetym .</li>
+  <li>Jak mosz połōnczynie bez firewall, badnij, jeźli &brandShortName; mo zgoda na dostymp do neca.</li>
+</ul>">
 
+<!ENTITY fileNotFound.title "Zbiōr niy ma znodniynty">
 
 
 
