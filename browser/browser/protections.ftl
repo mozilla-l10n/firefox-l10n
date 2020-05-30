@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] Kjente datalekkasjer har eksponert din informasjon
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Kjent datalekkasje merket som løste
+       *[other] Kjente datalekkasjer merket som løste
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -163,6 +171,14 @@ password-warning =
     { $count ->
         [one] Lagret innlogging kan ha blitt eksponert i en datalekkasje. Endre dette passordet for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
        *[other] Lagrede innlogginger kan ha blitt eksponert i en datalekkasje. Endre disse passordene for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Passord eksponerte i uløste datalekkasjer
+       *[other] Passord eksponerte i uløste datalekkasjer
     }
 monitor-no-breaches-title = Gode nyheter!
 monitor-no-breaches-description = Du har ingen kjente datalekkasjer. Hvis det endres, vil vi gi deg beskjed.
@@ -187,7 +203,7 @@ monitor-partial-breaches-percentage = { $percentageResolved } % fullført
 monitor-partial-breaches-motivation-title-start = Bra start!
 monitor-partial-breaches-motivation-title-middle = Fortsett slik!
 monitor-partial-breaches-motivation-title-end = Nesten ferdig! Fortsett slik.
-monitor-partial-breaches-motivation-desc = Løs resten av datalekkasjene dine på { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = Løs resten av datalekkasjene dine på { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Løs datalekkasjer
     .title = Løs datalekkasjer på { -monitor-brand-short-name }
 

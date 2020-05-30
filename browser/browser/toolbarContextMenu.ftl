@@ -20,6 +20,13 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Angre lukking av fane
     .accesskey = n
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Angre lukking av faner
+           *[other] Angre lukking av faner
+        }
+    .accesskey = A
 toolbar-context-menu-manage-extension =
     .label = Behandle utvidelser
     .accesskey = e
