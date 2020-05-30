@@ -177,7 +177,7 @@ monitor-partial-breaches-percentage = 完成 { $percentageResolved }%
 monitor-partial-breaches-motivation-title-start = 很棒的开始！
 monitor-partial-breaches-motivation-title-middle = 请保持！
 monitor-partial-breaches-motivation-title-end = 就要完成了！请保持。
-monitor-partial-breaches-motivation-desc = 到 { -monitor-brand-short-name } 处理其他的数据外泄事件
+monitor-partial-breaches-motivation-description = 到 { -monitor-brand-short-name } 处理其他的数据外泄事件。
 monitor-resolve-breaches-link = 处理数据外泄事件
     .title = 到 { -monitor-brand-short-name } 处理数据外泄事件
 

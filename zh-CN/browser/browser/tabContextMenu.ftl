@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = 恢复关闭的标签页
     .accesskey = U
+tab-context-close-multiple-tabs =
+    .label = 关闭多个标签页
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] 恢复关闭的标签页
+           *[other] 恢复关闭的标签页
+        }
+    .accesskey = U
 close-tab =
     .label = 关闭标签页
     .accesskey = c
