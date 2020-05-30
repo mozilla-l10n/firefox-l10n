@@ -140,6 +140,13 @@ info-known-breaches-found =
        *[other] 場資料外洩事件，流出了您的個資
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+       *[other] 標示為已解決的資料外洩事件數
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -153,6 +160,13 @@ full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-
 password-warning =
     { $count ->
        *[other] 有網站發生資料外洩事件，當中可能流出了您儲存的登入資訊。請更改此密碼以維護線上安全。<a data-l10n-name="lockwise-link">檢視已存登入資訊</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+       *[other] 尚未處理的事件中，洩漏出的密碼組數
     }
 monitor-no-breaches-title = 好消息！
 monitor-no-breaches-description = 還沒有遇到已知的資料外洩事件。有新事件發生時我們會通知您。
@@ -177,7 +191,7 @@ monitor-partial-breaches-percentage = 完成 { $percentageResolved }%
 monitor-partial-breaches-motivation-title-start = 好的開始！
 monitor-partial-breaches-motivation-title-middle = 繼續保持！
 monitor-partial-breaches-motivation-title-end = 快完成了，繼續保持！
-monitor-partial-breaches-motivation-desc = 到 { -monitor-brand-short-name } 處理其他的資料外洩事件
+monitor-partial-breaches-motivation-description = 到 { -monitor-brand-short-name } 處理其他的資料外洩事件。
 monitor-resolve-breaches-link = 處理資料外洩事件
     .title = 到 { -monitor-brand-short-name } 處理資料外洩事件
 

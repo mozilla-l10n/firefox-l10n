@@ -58,7 +58,8 @@ protections-panel-not-found-label = 未偵測到
 
 protections-panel-settings-label = 保護設定
 protections-panel-showreport-label = 顯示報告
-protections-panel-showdashboard-label = 顯示儀錶板
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = 保護資訊儀錶板
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
