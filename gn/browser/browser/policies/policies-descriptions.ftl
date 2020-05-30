@@ -29,7 +29,7 @@ policy-DisableBuiltinPDFViewer = Eipe’aite PDF.js, PDF jehechaha oĩva { -bran
 policy-DisableDefaultBrowserAgent = Omboyke pe kundahára ijypyguáva oñepyrũvo hembiapo. Kóva ojokupyty Windows ndive añoite; ambue plataforma ndorekói hesegua.
 policy-DisableDeveloperTools = Ejoko ñangarekohára rembipurúpe jeike.
 policy-DisableFeedbackCommands = Eipe’a mbohapeha emondo hag̃ua neñe’ẽ pytyvõha poravorã guive (Emondo neñe’ẽ ha emomarandu tenda imarãva).
-policy-DisableFirefoxAccounts = Eipe’a mba'epytyvõrã { -fxaccount-brand-name } pegua, oĩhápe avei Sync.
+policy-DisableFirefoxAccounts = Eipe’a mba’epytyvõrã { -fxaccount-brand-name } pegua, oĩhápe avei Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Eipe’a Firefox Screenshots rembiapoite.
 policy-DisableFirefoxStudies = Ani eheja { -brand-short-name } omomba’apo ñembokatupyry.
