@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "Adresár">
+<!ENTITY Addrbook.accesskey                    "A">
 <!ENTITY GeneratedName.label                   "Meno">
 <!ENTITY GeneratedName.accesskey               "M">
 <!ENTITY PrimaryEmail.label                    "E-mailová adresa">
@@ -30,6 +32,8 @@
 <!ENTITY WorkPhone.accesskey                   "d">
 <!ENTITY ScreenName.label                      "Účet pre IM">
 <!ENTITY ScreenName.accesskey                  "I">
+<!ENTITY ChatName.label                        "Meno pre konverzácie">
+<!ENTITY ChatName.accesskey                    "M">
 <!ENTITY sortAscending.label                   "Vzostupne">
 <!ENTITY sortAscending.accesskey               "V">
 <!ENTITY sortDescending.label                  "Zostupne">
