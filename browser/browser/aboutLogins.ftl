@@ -163,6 +163,8 @@ about-logins-confirm-remove-dialog-title = Уклонити ову пријав�
 confirm-delete-dialog-message = Ова радња се не може опозвати.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
 about-logins-confirm-export-dialog-title = Извезите пријаве и лозинке
+about-logins-confirm-export-dialog-message = Ваше лозинке ће бити сачуване као читљив текст (нпр. BadP@ssw0rd) тако да може погледати свако ко може да отвори извезену датотеку.
+about-logins-confirm-export-dialog-confirm-button = Извоз…
 confirm-discard-changes-dialog-title = Одбацити несачуване измене?
 confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
 confirm-discard-changes-dialog-confirm-button = Одбаци
@@ -198,3 +200,16 @@ about-logins-error-message-default = Дошло је до грешке прил�
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Извези датотеке пријаве
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Извоз
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV документ
+       *[other] CSV датотека
+    }
