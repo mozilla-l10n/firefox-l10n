@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = Пријаве и лозинке
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -26,6 +32,7 @@ menu =
     .title = Отвори мени
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Увези из другог прегледача…
+about-logins-menu-menuitem-export-logins = Извезите пријаве…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Опције
@@ -155,6 +162,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
 confirm-delete-dialog-message = Ова радња се не може опозвати.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
+about-logins-confirm-export-dialog-title = Извезите пријаве и лозинке
 confirm-discard-changes-dialog-title = Одбацити несачуване измене?
 confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
 confirm-discard-changes-dialog-confirm-button = Одбаци
@@ -187,3 +195,6 @@ about-logins-vulnerable-alert-learn-more-link = Сазнајте више
 about-logins-error-message-duplicate-login-with-link = Унос { $loginTitle } са овим корисничким именом већ постоји. <a data-l10n-name="duplicate-link">Идите на постојећи унос?</a>
 # This is a generic error message.
 about-logins-error-message-default = Дошло је до грешке приликом покушаја чувања лозинке.
+
+## Login Export Dialog
+
