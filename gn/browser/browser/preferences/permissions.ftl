@@ -38,11 +38,11 @@ permissions-autoplay-menu = Ijypykuéramo opaite ñanduti rendápe g̃uarã:
 permissions-searchbox =
     .placeholder = Ñandutirenda Jeheka
 permissions-capabilities-autoplay-allow =
-    .label = Emoneĩ mba'epu ha ta'ãngamýi
+    .label = Emoneĩ mba’epu ha ta’ãngamýi
 permissions-capabilities-autoplay-block =
-    .label = Ejoko mba'epu
+    .label = Ejoko mba’epu
 permissions-capabilities-autoplay-blockall =
-    .label = Ejoko mba'epu ha ta'ãngamýi
+    .label = Ejoko mba’epu ha ta’ãngamýi
 permissions-capabilities-allow =
     .label = Moneĩ
 permissions-capabilities-block =
@@ -84,7 +84,7 @@ permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte 
 permissions-exceptions-popup-window =
     .title = Tenda ñemoneĩmbyre - Ovetã apysẽ
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Ikatu rehechauka mba'e ñanduti renda guivépa ikatu reike ovetã apysẽme. Ehai kundaharape ha'etéva tenda remoneĩséva ha ejopy Ñemoneĩ.
+permissions-exceptions-popup-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu reike ovetã apysẽme. Ehai kundaharape ha’etéva tenda remoneĩséva ha ejopy Ñemoneĩ.
 
 ## Exceptions - Saved Logins
 
@@ -98,7 +98,7 @@ permissions-exceptions-saved-logins-desc = Tembiapo ñepyrũ ko’ã ñanduti re
 permissions-exceptions-addons-window =
     .title = Tenda ñemoneĩmbyre - Moimbaha ñemohenda
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Ikatu rehechauka mba'e ñanduti renda guivépa ikatu remohenda moimbaha. Ehai kundaharape ha'etéva tenda remoneĩséva ha ejopy Moneĩ.
+permissions-exceptions-addons-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu remohenda moimbaha. Ehai kundaharape ha’etéva tenda remoneĩséva ha ejopy Moneĩ.
 
 ## Exceptions - Autoplay Media
 
@@ -119,27 +119,27 @@ permissions-site-autoplay-desc = Ko’ápe ikatu eñangareko umi tenda ndohapyku
 permissions-site-notification-window =
     .title = Ñemboheko - Momarandu ñemoneĩ
     .style = { permissions-window.style }
-permissions-site-notification-desc = Ko'ã ñanduti renda omba'ejerure ne momarandu hag̃ua. Ikatu emyesakã máva umi ñanduti renda ñemoneĩmbyre ne momarandukuaáva. Avéi ikatu ejoko mba'ejerure pyahu emoneĩ hag̃ua ñemomarandu.
+permissions-site-notification-desc = Ko’ã ñanduti renda omba’ejerure ne momarandu hag̃ua. Ikatu emyesakã máva umi ñanduti renda ñemoneĩmbyre ne momarandukuaáva. Avéi ikatu ejoko mba'ejerure pyahu emoneĩ hag̃ua ñemomarandu.
 permissions-site-notification-disable-label =
-    .label = Momarandu mba'ejerure pyahu rehegua jejoko
-permissions-site-notification-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva omba'ejeruréva ñemoneĩ oike hag̃ua nerendaite apytépe. Ejokóramo ñemomarandu ikatu ombyai ambue ñanduti renda.
+    .label = Momarandu mba’ejerure pyahu rehegua jejoko
+permissions-site-notification-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva omba’ejeruréva ñemoneĩ oike hag̃ua nerendaite apytépe. Ejokóramo ñemomarandu ikatu ombyai ambue ñanduti renda.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Ñangareko - Tenda Reimeha Rehegua
     .style = { permissions-window.style }
-permissions-site-location-desc = Ko'ã ñanduti renda omba'ejerure ikatúpa oike nerendaitépe. Ikatu emyesakã ñanduti renda ñemoneĩmby oikekuaáva. Avéi ikatu ejoko mba'ejerure pyahu oikeséva nerendaitépe rehegua.
+permissions-site-location-desc = Ko’ã ñanduti renda omba’ejerure ikatúpa oike nerendaitépe. Ikatu emyesakã ñanduti renda ñemoneĩmby oikekuaáva. Avéi ikatu ejoko mba’ejerure pyahu oikeséva nerendaitépe rehegua.
 permissions-site-location-disable-label =
-    .label = Ejoko mba'ejerure pyahu oikeséva nerendaitépe rehegua
-permissions-site-location-disable-desc = Ko'ãva omboykéta umi ñanduti renda noĩriva omba'ejeruréva ñemoneĩ oike hag̃ua nerendaitépe. Ejokóramo neredaite ikatu ombyai ambue ñanduti renda.
+    .label = Ejoko mba’ejerure pyahu oikeséva nerendaitépe rehegua
+permissions-site-location-disable-desc = Ko’ãva omboykéta umi ñanduti renda noĩriva omba’ejeruréva ñemoneĩ oike hag̃ua nerendaitépe. Ejokóramo neredaite ikatu ombyai ambue ñanduti renda.
 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
     .title = Ñemboheko - Ñemoneĩ añetegua ñandutípe
     .style = { permissions-window.style }
-permissions-site-xr-desc = Ko'ã ñanduti renda omba'ejerure ikatúpa oike ne ñanduti añetegua mba’e’okápe. Ikatu emyesakã ñanduti renda ne ñanduti añeteguápe mba’e’okápe oikekuaáva. Avéi ikatu ejoko mba'ejerure pyahu oikeséva ne ñanduti añetegua mba’e’okápe rehegua.
+permissions-site-xr-desc = Ko’ã ñanduti renda omba’ejerure ikatúpa oike ne ñanduti añetegua mba’e’okápe. Ikatu emyesakã ñanduti renda ne ñanduti añeteguápe mba’e’okápe oikekuaáva. Avei ikatu ejoko mba’ejerure pyahu oikeséva ne ñanduti añetegua mba’e’okápe rehegua.
 permissions-site-xr-disable-label =
     .label = Ejoko mba’ejerure jeikeha pyahu ne ñanduti añetegua mba’e’okápe
 permissions-site-xr-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva tysýi yvate gotyoguápe ojerurévo ñemoneĩ oike hag̃ua ne rendaitépe. Ejokóramo ne ñanduti añetegua mba’e’okápe jeike ikatu ombyai ambue ñanduti rendápe.

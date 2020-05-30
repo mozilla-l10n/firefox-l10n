@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window =
-    .title = Mba'epytyvõrã jeikekatu rehegua
+    .title = Mba’epytyvõrã jeikekatu rehegua
     .style =
         { PLATFORM() ->
             [macos] width: 44em
@@ -62,7 +62,7 @@ connection-proxy-noproxy-desc = Techapyrã: .mozilla.org, .net.nz, 192.168.1.0/2
 # Do not translate localhost, 127.0.0.1 and ::1.
 connection-proxy-noproxy-localhost-desc = Umi jeike localhost-gua, 127.0.0.1 ha ::1 ndohasái proxy rupi.
 connection-proxy-autotype =
-    .label = URL mbohekorã ijeheguíva proxy mba'évape g̃uarã
+    .label = URL mbohekorã ijeheguíva proxy mba’évape g̃uarã
     .accesskey = A
 connection-proxy-reload =
     .label = Myenyhẽjey
@@ -85,7 +85,7 @@ connection-dns-over-https-url-item-default =
     .label = { $name } (ijypykue)
     .tooltiptext = Eipuru URL ijypykuéva eike hag̃ua DNS-pe HTTPS rãngue
 connection-dns-over-https-url-custom =
-    .label = Momba'epyre
+    .label = Momba’epyre
     .accesskey = C
-    .tooltiptext = Ingresa tu URL preferida para resolver DNS sobre HTTPS
-connection-dns-over-https-custom-label = Ñemomba'epyre
+    .tooltiptext = Emoinge nde URL erohoryvéva emoĩpora hag̃ua DNS HTTPS rehegua
+connection-dns-over-https-custom-label = Ñemomba’epyre
