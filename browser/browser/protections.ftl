@@ -156,6 +156,15 @@ info-known-breaches-found =
        *[many] Відомих витоків даних викрили вашу інформацію
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Відомий витік даних позначено розвʼязаним
+        [few] Відомих витоків даних позначено розвʼязаними
+       *[many] Відомих витоків даних позначено розвʼязаними
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -173,6 +182,15 @@ password-warning =
         [one] Збережений пароль міг бути викритий у витоку даних. Змініть цей пароль для кращого захисту онлайн. <a data-l10n-name="lockwise-link">Переглянути збережені паролі</a>
         [few] Збережені паролі могли бути викриті у витоку даних. Змініть ці паролі для кращого захисту онлайн. <a data-l10n-name="lockwise-link">Переглянути збережені паролі</a>
        *[many] Збережених паролів могло бути викрито у витоку даних. Змініть ці паролі для кращого захисту онлайн. <a data-l10n-name="lockwise-link">Переглянути збережені паролі</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Викритий пароль у нерозвʼязаних витоках
+        [few] Викритих паролів у нерозвʼязаних витоках
+       *[many] Викритих паролів у нерозвʼязаних витоках
     }
 monitor-no-breaches-title = Гарні новини!
 monitor-no-breaches-description = У вас немає відомих витоків даних. Якщо щось зміниться, ми повідомимо вас.
@@ -199,7 +217,7 @@ monitor-partial-breaches-percentage = { $percentageResolved }% завершен�
 monitor-partial-breaches-motivation-title-start = Гарний початок!
 monitor-partial-breaches-motivation-title-middle = Так тримати!
 monitor-partial-breaches-motivation-title-end = Майже завершено! Так тримати.
-monitor-partial-breaches-motivation-desc = Розв'яжіть решту своїх витоків даних на { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = Розв'яжіть решту своїх витоків даних на { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Розв'язати витоки
     .title = Розв'язати витоки даних на { -monitor-brand-short-name }
 
