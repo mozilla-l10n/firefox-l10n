@@ -233,3 +233,5 @@ cfr-whatsnew-passwords-icon-alt = Иконица рањиве лозинке
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Проширите слика-у-слици режим на цели екран
+cfr-whatsnew-pip-fullscreen-body = Када видео поставите у плутајући прозор, сада га можете двапут кликнути да бисте прешли на цео екран.
+cfr-whatsnew-pip-fullscreen-icon-alt = Слика-у-слици иконица
