@@ -154,6 +154,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Rimuovere queste credenziali?
 confirm-delete-dialog-message = Questa operazione non può essere annullata.
 about-logins-confirm-remove-dialog-confirm-button = Rimuovi
+
+about-logins-confirm-export-dialog-title = Esportazione credenziali e password
+about-logins-confirm-export-dialog-message = Le password verranno salvate come testo leggibile (ad esempio “Password123”). Chiunque abbia accesso al file esportato potrà vederle.
+about-logins-confirm-export-dialog-confirm-button = Esporta…
+
 confirm-discard-changes-dialog-title = Ignorare le modifiche non salvate?
 confirm-discard-changes-dialog-message = Tutte le modifiche non salvate andranno perse.
 confirm-discard-changes-dialog-confirm-button = Ignora
