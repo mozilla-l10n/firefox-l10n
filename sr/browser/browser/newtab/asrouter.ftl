@@ -150,13 +150,14 @@ cfr-whatsnew-permission-prompt-cta = Сазнајте више
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
-        [one] Узимач дигиталних отисака блокиран
-        [few] Узимача дигиталних отисака блокирана
-       *[other] Узимача дигиталних отисака блокирано
+        [one] Блокиран узимач дигиталних отисака
+        [few] Блокирана узимача дигиталних отисака
+       *[other] Блокирано узимача дигиталних отисака
     }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокира многе узимаче дигиталних отисака, који тајно прикупљају информације о вашем уређају и радњама у сврху израде вашег рекламног профила.
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокира многе узимаче дигиталних отисака, који тајно прикупљају информације о вашем уређају и радњама у сврху израде рекламног профила за вас.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Узимачи дигиталних отисака
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } може да блокира узимаче дигиталних отисака који тајно прикупљају информације о вашем уређају и радњама у сврху израде рекламног профила за вас.
 
 ## Bookmark Sync
 
@@ -219,9 +220,15 @@ cfr-doorhanger-milestone-ok-button = Погледај све
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Лако правите сигурне лозинке
+cfr-whatsnew-lockwise-body = Није лако смислити јединствене и сигурне лозинке за сваки налог. Када правите лозинку, изаберите одговарајуће поље да бисте добили сигурну лозинку, коју смишља { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } иконица
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Добијајте упозорења о рањивим лозинкама
+cfr-whatsnew-passwords-body = Хакери знају да људи понављају своје лозинке. Ако сте користили исту лозинку на више страница и једна од њих је била жртва цурења података, видећете упозорење у { -lockwise-brand-short-name }-у са захтевом да измените вашу лозинку на тим страницама.
+cfr-whatsnew-passwords-icon-alt = Иконица рањиве лозинке
 
 ## Picture-in-Picture fullscreen message
 
