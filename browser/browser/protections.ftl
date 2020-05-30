@@ -140,6 +140,13 @@ info-known-breaches-found =
        *[other] 알려진 데이터 유출로 인해 정보가 노출되었습니다.
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+       *[other] 해결된 것으로 표시된 알려진 데이터 유출
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -153,6 +160,13 @@ full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name
 password-warning =
     { $count ->
        *[other] 저장된 로그인이 데이터 유출에 노출되었을 수 있습니다. 더 나은 온라인 보안을 위해 이 비밀번호를 변경하세요. <a data-l10n-name="lockwise-link">저장된 로그인 보기</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+       *[other] 해결되지 않은 유출에 노출된 비밀번호
     }
 monitor-no-breaches-title = 좋은 소식!
 monitor-no-breaches-description = 알려진 유출이 없습니다. 변경되면 알려 드리겠습니다.
@@ -177,7 +191,7 @@ monitor-partial-breaches-percentage = { $percentageResolved }% 완료
 monitor-partial-breaches-motivation-title-start = 시작!
 monitor-partial-breaches-motivation-title-middle = 계속하세요!
 monitor-partial-breaches-motivation-title-end = 거의 다 했어요! 계속하세요.
-monitor-partial-breaches-motivation-desc = { -monitor-brand-short-name }에서 나머지 유출을 해결하세요
+monitor-partial-breaches-motivation-description = { -monitor-brand-short-name }에서 나머지 유출을 해결하세요.
 monitor-resolve-breaches-link = 유출 해결
     .title = { -monitor-brand-short-name }에서 유출 해결
 

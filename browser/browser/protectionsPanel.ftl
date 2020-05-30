@@ -58,7 +58,8 @@ protections-panel-not-found-label = 감지되지 않음
 
 protections-panel-settings-label = 보호 설정
 protections-panel-showreport-label = 보고서 표시
-protections-panel-showdashboard-label = 대시보드 표시
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = 보호 기능 대시보드
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
