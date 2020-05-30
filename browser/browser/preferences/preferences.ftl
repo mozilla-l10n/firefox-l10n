@@ -489,11 +489,17 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = 常用网站
 home-prefs-topsites-description = 您经常访问的网站
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = { $provider } 推荐
 home-prefs-recommended-by-description = 来自网络的精彩内容，为您量身打造
+home-prefs-recommended-by-description-update = 由 { $provider } 整理提供的网络精选内容
+
+##
+
 home-prefs-recommended-by-learn-more = 使用方法
 home-prefs-recommended-by-option-sponsored-stories =
     .label = 赞助内容
