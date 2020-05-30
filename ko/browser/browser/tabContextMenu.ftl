@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = 닫은 탭 다시 열기
     .accesskey = U
+tab-context-close-multiple-tabs =
+    .label = 여러 탭 닫기
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] 닫은 탭 다시 열기
+           *[other] 닫은 탭 다시 열기
+        }
+    .accesskey = U
 close-tab =
     .label = 탭 닫기
     .accesskey = c
