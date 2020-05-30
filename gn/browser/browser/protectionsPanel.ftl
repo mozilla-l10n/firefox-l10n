@@ -32,7 +32,7 @@ protections-panel-site-not-working-view =
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
-protections-panel-not-blocking-why-label = ¿Mba'ére?
+protections-panel-not-blocking-why-label = ¿Mba’ére?
 protections-panel-not-blocking-why-etp-on-tooltip = Ko’ãva jejoko ikatu ombyai mba’epuru ñanduti renda pegua. Jehapykuehoha’ỹre heta votõ, myanyhẽha ha tembiapo ñepyrũ rekoha ikatu ndoikói.
 protections-panel-not-blocking-why-etp-off-tooltip = Opaite tepykuehoha ko tenda pegua oñemyanyhẽ ñemo’ãha ojepe’aite rupi.
 
@@ -58,7 +58,6 @@ protections-panel-not-found-label = Ndaipóri juhupyre
 
 protections-panel-settings-label = Ñemo’ã ñemboheko
 protections-panel-showreport-label = Ehechauka marandu'i
-protections-panel-showdashboard-label = Ehechauka mba’erenda
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

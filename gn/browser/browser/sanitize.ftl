@@ -26,7 +26,7 @@ clear-data-settings-label = Oñembotývo, { -brand-short-name } omboguepaiteva�
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = Mba'e sapy'agua ipotĩva'erã:{ " " }
+    .value = Mba’e sapy’agua ipotĩva’erã:{ " " }
     .accesskey = T
 clear-time-duration-value-last-hour =
     .label = Aravo paha
