@@ -493,11 +493,17 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Mest besøkte
 home-prefs-topsites-description = Mest besøkte nettsteder
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Anbefalt av { $provider }
 home-prefs-recommended-by-description = Bra innhold fra hele nettet, tilpasset for deg
+home-prefs-recommended-by-description-update = Eksepsjonelt innhold fra hele nettet, kuratert av { $provider }
+
+##
+
 home-prefs-recommended-by-learn-more = Hvordan det virker
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsede historier
