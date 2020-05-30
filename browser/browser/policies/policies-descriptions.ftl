@@ -63,6 +63,7 @@ policy-ExtensionSettings = Quản lý các cài đặt cài đặt khác nhau ch
 policy-ExtensionUpdate = Bật hoặc tắt cập nhật tiện ích mở rộng tự động.
 policy-FirefoxHome = Cấu hình trang chủ Firefox.
 policy-FlashPlugin = Cho phép hoặc từ chối việc sử dụng phần bổ trợ Flash.
+policy-Handlers = Cấu hình trình xử lý ứng dụng mặc định.
 policy-HardwareAcceleration = Nếu không đúng, hãy tắt chế độ tăng tốc phần cứng.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Đặt và tùy chọn khóa trang chủ.
