@@ -277,6 +277,8 @@ popup-silence-notifications-checkbox-warning = ‏{ -brand-short-name } לא י�
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = { -brand-short-name } משותף כעת. אנשים אחרים יכולים לראות כשיבוצע מעבר ללשונית חדשה.
+sharing-warning-screen = כל המסך שלך משותף כעת. אנשים אחרים יכולים לראות כשיבוצע מעבר ללשונית חדשה.
 sharing-warning-proceed-to-tab =
     .label = המשך ללשונית
 sharing-warning-disable-for-session =
