@@ -140,6 +140,13 @@ info-known-breaches-found =
        *[other] 爆出的涉及您的数据泄露事件
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+       *[other] 标记为已处理的数据外泄事件数
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -153,6 +160,13 @@ full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-
 password-warning =
     { $count ->
        *[other] 有网站发生数据外泄事件，可能已泄露您在其保存的登录信息。请尽快修改此密码，以维护您的线上安全。<a data-l10n-name="lockwise-link">查看已存登录信息</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+       *[other] 在未处理事件中泄露的密码
     }
 monitor-no-breaches-title = 好消息！
 monitor-no-breaches-description = 您没有已知的数据外泄。如果情况发生变化，我们将通知您。
