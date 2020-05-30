@@ -56,7 +56,7 @@
 <!ENTITY lineNumbers.label             "줄 번호 표시">
 <!ENTITY lineNumbers.accesskey         "L">
 
-<!ENTITY wordWrap.label                "긴 줄 여러 줄로 보기">
+<!ENTITY wordWrap.label                "자동 줄 바꿈">
 <!ENTITY wordWrap.accesskey            "W">
 
 <!ENTITY highlightTrailingSpace.label     "줄 끝 빈칸 강조">
