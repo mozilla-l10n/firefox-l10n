@@ -488,11 +488,16 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Siti principali
 home-prefs-topsites-description = I siti più visitati
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Consigliati da { $provider }
 home-prefs-recommended-by-description = Contenuti interessanti da tutto il Web, personalizzati per te.
+home-prefs-recommended-by-description-update = Contenuti eccezionali da tutto il Web, a cura di { $provider }
+##
+
 home-prefs-recommended-by-learn-more = Come funziona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articoli sponsorizzati
