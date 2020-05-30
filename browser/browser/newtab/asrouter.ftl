@@ -139,9 +139,24 @@ cfr-whatsnew-pip-cta = Сазнајте више
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Мање иритантних искакајућих прозора
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } сада блокира странице од аутоматског захтевања да вам шаљу искакајуће поруке.
+cfr-whatsnew-permission-prompt-cta = Сазнајте више
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Узимач дигиталних отисака блокиран
+        [few] Узимача дигиталних отисака блокирана
+       *[other] Узимача дигиталних отисака блокирано
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокира многе узимаче дигиталних отисака, који тајно прикупљају информације о вашем уређају и радњама у сврху израде вашег рекламног профила.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Узимачи дигиталних отисака
 
 ## Bookmark Sync
 
