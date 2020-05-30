@@ -232,3 +232,4 @@ cfr-whatsnew-passwords-icon-alt = Иконица рањиве лозинке
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Проширите слика-у-слици режим на цели екран
