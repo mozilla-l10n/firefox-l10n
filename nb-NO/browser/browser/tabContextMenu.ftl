@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = Angre lukking av fane
     .accesskey = A
+tab-context-close-multiple-tabs =
+    .label = Lukk flere faner
+    .accesskey = f
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Angre lukking av fane
+           *[other] Angre lukking av faner
+        }
+    .accesskey = A
 close-tab =
     .label = Lukk fane
     .accesskey = k
