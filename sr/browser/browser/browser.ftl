@@ -266,9 +266,23 @@ popup-select-microphone =
     .value = Микрофон за дељење:
     .accesskey = М
 popup-all-windows-shared = Сви видљиви прозори на екрану ће бити подељени.
+popup-screen-sharing-not-now =
+    .label = Не сада
+    .accesskey = с
+popup-screen-sharing-never =
+    .label = Немој никада
+    .accesskey = Н
+popup-silence-notifications-checkbox = Онемогућите обавештења од { -brand-short-name }-а током дељења
+popup-silence-notifications-checkbox-warning = { -brand-short-name } неће приказивати обавештења док делите.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Делите { -brand-short-name }. Други људи могу да виде када пређете на нови језичак.
+sharing-warning-screen = Делите цео екран. Други људи могу да виде када пређете на нови језичак.
+sharing-warning-proceed-to-tab =
+    .label = Наставите на језичак
+sharing-warning-disable-for-session =
+    .label = Онемогучите заштиту дељења за ову сесију
 
 ## DevTools F12 popup
 
