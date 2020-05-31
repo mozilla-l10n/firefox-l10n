@@ -22,6 +22,7 @@
 <!ENTITY showHideTooltips.accesskey             "N">
 
 <!ENTITY showHideGrippies.label                 "Piilota työkalurivin otteet">
+<!ENTITY showHideGrippies.accesskey             "o">
 
 <!ENTITY pref.locales.title                     "Ohjelman kieli">
 <!ENTITY selectLocale.label                     "Valitse ohjelman kieli:">
