@@ -59,8 +59,8 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva'erã emyandy hag̃ua koichagua.
-feature-disable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva'erã emboguete hag̃ua koichagua.
+feature-enable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã emyandy hag̃ua koichagua.
+feature-disable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã emboguete hag̃ua koichagua.
 should-restart-title = Ñepyrüjey { -brand-short-name }
 should-restart-ok = Emoñepyrũjey { -brand-short-name } ko'ág̃a
 cancel-no-restart-button = Heja
@@ -102,7 +102,7 @@ extension-controlled-proxy-config = Peteĩ jepysokue, <img data-l10n-name="icon"
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Emyendy hag̃ua moĩmbaha rehova'erã <img data-l10n-name="addons-icon"/> Moĩmbaha poravorã rysýi <img data-l10n-name="menu-icon"/> pe.
+extension-controlled-enable = Emyendy hag̃ua moĩmbaha rehova’erã <img data-l10n-name="addons-icon"/> Moĩmbaha poravorã rysýi <img data-l10n-name="menu-icon"/> pe.
 
 ## Preferences UI Search Results
 
@@ -716,15 +716,15 @@ sync-engine-tabs =
     .accesskey = T
 sync-engine-logins =
     .label = Tembiapo moñepyrũ
-    .tooltiptext = Puruhára réra ha ñe'ẽñemi reñongatúva'ekue
-    .accesskey = T
+    .tooltiptext = Puruhára réra ha ñe’ẽñemi reñongatúva’ekue
+    .accesskey = L
 sync-engine-logins-passwords =
     .label = Tembiapo ñepyrũ ha ñe’ẽñemi
     .tooltiptext = Puruhára réra ha ñe’ẽñemi ñongatupyre
     .accesskey = L
 sync-engine-addresses =
     .label = Kundaharape
-    .tooltiptext = Pareha Papapy reñongatuva'ekue (mohendahápe g̃uarãnte)
+    .tooltiptext = Pareha Papapy reñongatuva’ekue (mohendahápe g̃uarãnte)
     .accesskey = e
 sync-engine-creditcards =
     .label = Kuatia'atã ñemurã

@@ -119,7 +119,7 @@
 <!ENTITY openDownloadsFolder.label        "Eike ñemboguejy ñongatuhápe">
 
 <!ENTITY clearDownloadsButton.label       "Mboguejypyre mopotĩ">
-<!ENTITY clearDownloadsButton.tooltip     "Emopotĩ oñemboguejypámava, ojehejareipyréva ha ndoguejyporãiva'ekue">
+<!ENTITY clearDownloadsButton.tooltip     "Emopotĩ oñemboguejypámava, ojehejareipyréva ha ndoguejyporãiva’ekue">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
