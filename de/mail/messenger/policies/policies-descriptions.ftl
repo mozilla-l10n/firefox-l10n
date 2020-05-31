@@ -11,6 +11,8 @@
 
 policy-3rdparty = Für WebExtensions mittels chrome.storage.managed zugängliche Richtlinien festlegen
 
+policy-AppAutoUpdate = Automatische Anwendungsaktualisierung aktivieren oder deaktivieren
+
 policy-AppUpdateURL = Anwendungsaktualisierung über benutzerdefinierte Adresse festlegen
 
 policy-Authentication = Integrierte Authentifizierung für Websites, welche dies unterstützen, konfigurieren
@@ -28,6 +30,8 @@ policy-CaptivePortal = Erkennung von Anmelde- oder Bestätigungspflicht für Int
 policy-CertificatesDescription = Zertifikate hinzufügen oder eingebaute Zertifikate verwenden
 
 policy-Cookies = Cookies setzen durch Websites erlauben oder verbieten
+
+policy-DisabledCiphers = Chiffren deaktivieren
 
 policy-DefaultDownloadDirectory = Standardordner für Downloads festlegen
 
@@ -66,6 +70,8 @@ policy-EnableTrackingProtection = Seitenelementeblockierung aktivieren oder deak
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installieren, Deinstallieren oder Fixieren von Erweiterungen. Die Install-Option akzeptiert Adressen und Pfade als Werte. Die Uninstall- und Locked-Optionen erfordern Erweiterungs-IDs.
+
+policy-ExtensionSettings = Alle Einstellungen für die Erweiterungsinstallation verwalten
 
 policy-ExtensionUpdate = Automatische Add-on-Updates aktivieren oder deaktivieren
 
