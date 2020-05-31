@@ -7,24 +7,24 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "ეს წიგნაკი აჩვენებს ხალხს, მხოლოდ ძიების შემდგომ">
+<!ENTITY localResultsOnlyMessage.label                  "ძიებისას, ვებმისამართზე არსებულ წიგნაკში მოცემული პირები არ გამოჩნდება">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "პირი…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "კ">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "დაგზავნის სია…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "ს">
 <!ENTITY newAddressBookCmd.label                        "წიგნაკი…">
 <!ENTITY newAddressBookCmd.accesskey                    "წ">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP საქაღალდე…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "სწრაფი შეტყობინება">
 <!ENTITY printContactViewCmd.label                      "პირის მონაცემების ამობეჭდვა…">
 <!ENTITY printContactViewCmd.accesskey                  "მ">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "პირის მონაცემების შეთვალიერება ამობეჭდვამდე">
 <!ENTITY printPreviewContactViewCmd.accesskey           "შ">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "წიგნაკის ამობეჭდვა…">
 <!ENTITY printAddressBook.accesskey                     "ბ">
 <!ENTITY printPreviewAddressBook.label                  "შეთვალიერება ამობეჭდვამდე">
@@ -40,7 +40,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "სახელის/გვარის ადგილების გაცვლა">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "ც">
 <!ENTITY propertiesCmd.label                            "პარამეტრები…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "პ">
 <!ENTITY propertiesCmd.key                              "i">
 
