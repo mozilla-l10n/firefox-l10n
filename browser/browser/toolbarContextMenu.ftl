@@ -20,6 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Son kapatılan sekmeyi aç
     .accesskey = K
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Kapatılan sekmeyi aç
+            [one] Kapatılan sekmeyi aç
+           *[other] Kapatılan sekmeleri aç
+        }
+    .accesskey = l
 toolbar-context-menu-manage-extension =
     .label = Eklentiyi yönet
     .accesskey = E
