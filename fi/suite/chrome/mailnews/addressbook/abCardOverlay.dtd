@@ -48,9 +48,6 @@
 <!ENTITY ScreenName.label               "Puhuttelunimi:">
 <!ENTITY ScreenName.accesskey           "P">
 
-<!ENTITY allowRemoteContent1.label      "Salli etäsisältö">
-<!ENTITY allowRemoteContent1.accesskey  "a">
-<!ENTITY allowRemoteContent1.tooltip    "HTML-viesteihin on mahdollista upottaa sisältöä toisilta palvelimilta. Jos tällainen viesti avataan, tuohon palvelimeen avataan yhteys, mikä mahdollistaa viestin tilan seuraamisen. Tällä valinnalla sallit tällaisten upotettujen sisältöjen lataamisen tämän yhteyshenkilön lähettämissä viesteissä.">
 
 <!ENTITY WorkPhone.label                "Työnumero:">
 <!ENTITY WorkPhone.accesskey            "T">
@@ -122,6 +119,25 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Huomautuksia:">
 <!ENTITY Notes.accesskey                "H">
+
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber-tunnus:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC-tunnus:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Kuva">
 <!ENTITY Photo.accesskey                "V">
