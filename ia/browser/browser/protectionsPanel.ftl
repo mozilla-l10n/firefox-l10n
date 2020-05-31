@@ -58,7 +58,8 @@ protections-panel-not-found-label = Necun detegite
 
 protections-panel-settings-label = Parametros de protection
 protections-panel-showreport-label = Monstrar le reporto
-protections-panel-showdashboard-label = Monstrar pannello de controlo
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Pannello de controlo del protectiones
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

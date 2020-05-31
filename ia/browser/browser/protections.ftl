@@ -172,6 +172,14 @@ password-warning =
         [one] Le credential salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasigno pro melior securitate online. <a data-l10n-name="lockwise-link">Vide le credential salvate</a>
        *[other] Credentiales salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasignos pro melior securitate online. <a data-l10n-name="lockwise-link">Vide credentiales salvate</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Contrasigno exponite in violationes non resolvite
+       *[other] Contrasignos exponite in violationes non resolvite
+    }
 monitor-no-breaches-title = Bon novas!
 monitor-no-breaches-description = Tu non ha ulle violationes note. Si isto cambia, nos te facera saper.
 monitor-view-report-link = Vider reporto
@@ -196,6 +204,7 @@ monitor-partial-breaches-percentage = { $percentageResolved }% complete
 monitor-partial-breaches-motivation-title-start = Comencia!
 monitor-partial-breaches-motivation-title-middle = Continua assi!
 monitor-partial-breaches-motivation-title-end = Quasi finite. Continua assi!
+monitor-partial-breaches-motivation-description = Resolve le altere tu violationes sur { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Resolver violationes
     .title = Resolver violationes sur { -monitor-brand-short-name }
 
