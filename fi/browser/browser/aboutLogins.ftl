@@ -108,17 +108,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Muokataksesi kirjautumistietojasi, anna Windowsin kirjautumistiedot. Tämä auttaa tiliesi tietoturvan suojaamisessa.
+about-logins-edit-login-os-auth-dialog-message-win = Jatka muokkaamaan kirjautumistietojasi antamalla Windows-kirjautumistiedot. Tämä auttaa suojaamaan tilejäsi.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = muokata tallennettua kirjautumistietoa
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = Nähdäksesi salasanasi, anna Windowsin kirjautumistiedot. Tämä auttaa tiliesi tietoturvan suojaamisessa.
+about-logins-reveal-password-os-auth-dialog-message-win = Katso salasana antamalla Windows-kirjautumistiedot. Tämä auttaa suojaamaan tilejäsi.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = paljastaa tallennetun salasanan
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = Kopioidaksesi salasanasi, anna Windowsin kirjautumistiedot. Tämä auttaa tiliesi tietoturvan suojaamisessa.
+about-logins-copy-password-os-auth-dialog-message-win = Kopioi salasana antamalla Windows-kirjautumistiedot. Tämä auttaa suojaamaan tilejäsi.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopioida tallennetun salasanan
