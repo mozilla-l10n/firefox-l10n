@@ -217,6 +217,7 @@ monitor-partial-breaches-percentage = { $percentageResolved }% завершен�
 monitor-partial-breaches-motivation-title-start = Отличное начало!
 monitor-partial-breaches-motivation-title-middle = Так держать!
 monitor-partial-breaches-motivation-title-end = Почти готово! Так держать.
+monitor-partial-breaches-motivation-description = Разберитесь с остальными вашими утечками на { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Разобраться с утечками
     .title = Разобраться с утечками с помощью { -monitor-brand-short-name }
 
