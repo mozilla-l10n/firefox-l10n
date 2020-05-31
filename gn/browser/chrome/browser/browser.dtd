@@ -847,7 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
-<!ENTITY identity.passiveLoaded "Ko kuatiarogue pehẽ heta hendápe nda'ijeroviapái (mba'era'ãngáramo).">
+<!ENTITY identity.passiveLoaded "Ko kuatiarogue pehẽ heta hendápe nda’ijeroviapái (mba’era’ãngáramo).">
 <!ENTITY identity.activeLoaded "Ndereguerekói pa'ũ ko kuatiaroguépe g̃uarã.">
 <!ENTITY identity.weakEncryption "Ko kuatiarogue oipuru ñangarekoha ikangýva.">
 
@@ -858,8 +858,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher2 "Ambue tapichakuéra ikatu ohecha nemarandu térã omoambue ñanduti kuatiarogue reko.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
 <!ENTITY identity.description.passiveLoaded "Nde jeike naiñemíri ha nemarandu remoingéva ko tendápe ikatu ohecha ambue tapicha.">
-<!ENTITY identity.description.passiveLoaded2 "Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (mba'era'ãngáramo).">
-<!ENTITY identity.description.passiveLoaded3 "&brandShortName; ojokóramo jepe heta retepy, oĩ gueteri tetepy kuatiaroguépe ndaijegueroviapáiva (mba'era'ãngáramo).">
+<!ENTITY identity.description.passiveLoaded2 "Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (mba’era’ãngáramo).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; ojokóramo jepe heta retepy, oĩ gueteri tetepy kuatiaroguépe ndaijegueroviapáiva (mba’era’ãngáramo).">
 <!ENTITY identity.description.activeLoaded "Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (guiõramo) ha nde jeike pype naiñemíri.">
 <!ENTITY identity.description.activeLoaded2 "Marandu remondóva ko kuatiaroguépe ikatu ohecha ambue tapicha (ñe'ẽñemíramo, ñe'ẽmondo, kuatia'atã ñemurã ha ambue).">
 <!ENTITY identity.description.customRoot "Mozilla nomoneĩri ko mboajepyre me’ẽhápe. Ikatu oñembojuaju apopyvusu oku’éva térã ñangarekoha rupive.">
@@ -910,8 +910,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Ñe'ẽatãha hetápe g̃uarãva:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "Tenda'i mba'epu oñemosarambíta.">
-<!ENTITY getUserMedia.allWindowsShared.message "Oñemosarambíta opaite ovetã ojehecháva mba'erechahápe.">
+<!ENTITY getUserMedia.audioCapture.label "Tenda’i mba’epu oñemosarambíta.">
+<!ENTITY getUserMedia.allWindowsShared.message "Oñemosarambíta opaite ovetã ojehecháva mba’erechahápe.">
 
 <!ENTITY contentBlocking.title "Tetepy jejoko">
 <!ENTITY contentBlocking.detected "Ojejuhu ko tendápe tetepy ojejokokuaáva.">
@@ -1007,7 +1007,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "Emboguete kundaharape rendágui">
 <!ENTITY pageAction.manageExtension.label "Moĩmbaháre Ñangareko…">
 
-<!ENTITY sendToDevice.syncNotReady.label "Mba'e'oka ñembojuehe…">
+<!ENTITY sendToDevice.syncNotReady.label "Mba’e’oka ñembojuehe…">
 
 <!ENTITY pageAction.shareUrl.label "Moherakuã">
 <!ENTITY pageAction.shareMore.label "Hetave…">
