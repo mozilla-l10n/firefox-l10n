@@ -56,6 +56,9 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
 open-in-new-window-for-csp-or-xfo-error = Avaa sivusto uuteen ikkunaan
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Turvallisuutesi suojaamiseksi { $hostname } ei salli { -brand-short-name }in näyttää sivua, jos se on upotettu toiselle sivulle. Jotta voit nähdä tämän sivun, sinun tulee avata se uudessa ikkunassa.
 
 ## Messages used for certificate error titles
 
