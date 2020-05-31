@@ -33,6 +33,7 @@
 <!ENTITY DisplayName.accesskey          "K">
 <!ENTITY preferDisplayName.label        "Käytä aina kokonimeä viestiotsikossa olevan sijaan">
 <!ENTITY preferDisplayName.accesskey    "K">
+<!ENTITY preferDisplayName2.accesskey   "j">
 <!ENTITY NickName.label                 "Lempinimi:">
 <!ENTITY NickName.accesskey             "L">
 
@@ -48,6 +49,7 @@
 <!ENTITY ScreenName.label               "Puhuttelunimi:">
 <!ENTITY ScreenName.accesskey           "P">
 
+<!ENTITY chatName.label                 "Chat-nimi:">
 
 <!ENTITY WorkPhone.label                "Työnumero:">
 <!ENTITY WorkPhone.accesskey            "T">
@@ -120,6 +122,8 @@
 <!ENTITY Notes.label                    "Huomautuksia:">
 <!ENTITY Notes.accesskey                "H">
 
+<!ENTITY Chat.tab                       "Keskustelu">
+<!ENTITY Chat.accesskey                 "e">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
