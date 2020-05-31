@@ -7,24 +7,24 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "Это адресная книга покажет контакты только после поиска">
+<!ENTITY localResultsOnlyMessage.label                  "Контакты из удаленных адресных книг не будут показаны, пока вы не выполните поиск">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Контакт…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "н">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Список рассылки…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "п">
 <!ENTITY newAddressBookCmd.label                        "Адресную книгу…">
 <!ENTITY newAddressBookCmd.accesskey                    "д">
 <!ENTITY newLDAPDirectoryCmd.label                      "Каталог LDAP…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "Мгновенное сообщение">
 <!ENTITY printContactViewCmd.label                      "Печать контакта…">
 <!ENTITY printContactViewCmd.accesskey                  "ч">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Предварительный просмотр контакта">
 <!ENTITY printPreviewContactViewCmd.accesskey           "в">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Печать адресной книги…">
 <!ENTITY printAddressBook.accesskey                     "а">
 <!ENTITY printPreviewAddressBook.label                  "Предварительный просмотр адресной книги">
@@ -40,7 +40,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "Поменять местами имя и фамилию">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "П">
 <!ENTITY propertiesCmd.label                            "Свойства…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "в">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +84,8 @@
 <!ENTITY deleteItemButton.accesskey                     "д">
 <!ENTITY newimButton.label                              "Мгновенное сообщение">
 <!ENTITY newimButton.accesskey                          "М">
+<!ENTITY printButton.label                              "Печать">
+<!ENTITY printButton.accesskey                          "ч">
 <!ENTITY searchNameAndEmail.placeholder                 "Поиск по имени и адресу">
 <!ENTITY searchBox.title                                "Поиск">
 
@@ -95,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "Изменение выбранного элемента">
 <!ENTITY newmsgButton.tooltip                           "Создание сообщения">
 <!ENTITY newIM.tooltip                                  "Отправить мгновенное сообщение или начать беседу">
+<!ENTITY printButton.tooltip                            "Печать выбранного элемента">
 <!ENTITY deleteItemButton.tooltip                       "Удаление выбранного элемента">
 <!ENTITY throbber.tooltip                               "Перейти на домашнюю страницу &vendorShortName;">
 <!ENTITY throbber.tooltip2                              "Перейти на домашнюю страницу &brandShortName;">
@@ -108,6 +110,7 @@
 <!ENTITY contact.heading                                "Контакт">
 <!ENTITY home.heading                                   "Дом">
 <!ENTITY other.heading                                  "Прочее">
+<!ENTITY chat.heading                                   "Чат">
 <!ENTITY phone.heading                                  "Телефоны">
 <!ENTITY work.heading                                   "Рабочий">
 <!-- Special Box Headings, for mailing lists -->
