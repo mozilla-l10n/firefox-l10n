@@ -118,6 +118,12 @@ monitor-header-content-no-account = Tutustu { -monitor-brand-name }iin nähdäks
 monitor-header-content-signed-in = { -monitor-brand-name } varoittaa sinua, jos tietosi paljastuvat tunnetussa tietovuodossa.
 monitor-sign-up = Tilaa vuotohälytykset
 auto-scan = Automaattisesti tarkistettu tänään
+monitor-emails-tooltip =
+    .title = Tarkista seurattavat sähköpostiosoitteet { -monitor-brand-short-name }-palvelusta
+monitor-breaches-tooltip =
+    .title = Katso tunnetut tietovuodot { -monitor-brand-short-name }-palvelusta
+monitor-passwords-tooltip =
+    .title = Katso paljastuneet salasanat { -monitor-brand-short-name }-palvelusta
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
