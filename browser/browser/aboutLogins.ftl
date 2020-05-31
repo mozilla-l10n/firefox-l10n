@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = Käyttäjätunnukset ja salasanat
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -12,12 +18,9 @@ login-app-promo-android =
     .alt = Lataa Google Playsta
 login-app-promo-apple =
     .alt = Lataa App Storesta
-
 login-filter =
     .placeholder = Etsi kirjautumistietoja
-
 create-login-button = Luo uusi kirjautumistieto
-
 fxaccounts-sign-in-text = Käytä salasanojasi kaikilla laitteillasi
 fxaccounts-sign-in-button = Kirjaudu { -sync-brand-short-name }-palveluun
 fxaccounts-avatar-button =
@@ -104,24 +107,19 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Vahvista henkilöllisyytesi muokataksesi tallennettuja tietoja.
-
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Muokataksesi kirjautumistietojasi, anna Windowsin kirjautumistiedot. Tämä auttaa tiliesi tietoturvan suojaamisessa.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = muokata tallennettua kirjautumistietoa
-
-# This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = Vahvista henkilöllisyytesi nähdäksesi tallennetun salasanan.
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Nähdäksesi salasanasi, anna Windowsin kirjautumistiedot. Tämä auttaa tiliesi tietoturvan suojaamisessa.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = paljastaa tallennetun salasanan
-
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Vahvista henkilöllisyytesi kopioidaksesi tallennetun salasanan.
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Kopioidaksesi salasanasi, anna Windowsin kirjautumistiedot. Tämä auttaa tiliesi tietoturvan suojaamisessa.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopioida tallennetun salasanan
 
@@ -151,11 +149,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Peruuta
 confirmation-dialog-dismiss-button =
     .title = Peruuta
-
 about-logins-confirm-remove-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
 about-logins-confirm-remove-dialog-confirm-button = Poista
-
 confirm-discard-changes-dialog-title = Hylätäänkö tallentamattomat muutokset?
 confirm-discard-changes-dialog-message = Kaikki tallentamattomat muutokset menetetään.
 confirm-discard-changes-dialog-confirm-button = Hylkää
@@ -186,6 +182,11 @@ about-logins-vulnerable-alert-learn-more-link = Lue lisää
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Kirjautumistieto sivulle { $loginTitle } tällä käyttäjätunnuksella on jo olemassa. <a data-l10n-name="duplicate-link">Siirrytäänkö olemassa olevaan kirjautumistietoon?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Tätä salasanaa tallentaessa ilmeni virhe.
+
+## Login Export Dialog
+
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = kirjautumistiedot.csv
