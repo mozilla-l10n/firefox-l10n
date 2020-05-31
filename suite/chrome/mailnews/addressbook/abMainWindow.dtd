@@ -9,22 +9,19 @@
 
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Yhteyshenkilö…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "Y">
 <!ENTITY newListCmd.label                               "Postituslista…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "P">
 <!ENTITY newAddressBookCmd.label                        "Osoitekirja…">
 <!ENTITY newAddressBookCmd.accesskey                    "O">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-hakemisto…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newIM.label                                    "Pikaviesti">
 <!ENTITY printContactViewCmd.label                      "Tulosta yhteystiedot…">
 <!ENTITY printContactViewCmd.accesskey                  "o">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Esikatsele yhteystietoja">
 <!ENTITY printPreviewContactViewCmd.accesskey           "k">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Tulosta osoitekirja…">
 <!ENTITY printAddressBook.accesskey                     "t">
 <!ENTITY printPreviewAddressBook.label                  "Esikatsele osoitekirjaa">
@@ -40,7 +37,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "Vaihda etu- ja sukunimien paikkaa">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "V">
 <!ENTITY propertiesCmd.label                            "Ominaisuudet…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "O">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +81,8 @@
 <!ENTITY deleteItemButton.accesskey                     "P">
 <!ENTITY newimButton.label                              "Pikaviesti">
 <!ENTITY newimButton.accesskey                          "P">
+<!ENTITY printButton.label                              "Tulosta">
+<!ENTITY printButton.accesskey                          "T">
 <!ENTITY searchNameAndEmail.placeholder                 "Etsi nimestä ja sähköpostiosoitteesta">
 <!ENTITY searchBox.title                                "Etsi">
 
