@@ -25,9 +25,9 @@
 <!ENTITY dnsNotFound.pageTitle "Mohendahavusu ndojejuhúiva">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Oĩ apañuãi ejuhu hag̃ua ko tenda.">
-<!ENTITY dnsNotFound.longDesc1 "<strong>Ne kundaharape oĩporãrõ, ko'ápe oĩ ambue mba'e eipurukuaáva:</strong>
+<!ENTITY dnsNotFound.longDesc1 "<strong>Ne kundaharape oĩporãrõ, ko'ápe oĩ ambue mba’e eipurukuaáva:</strong>
 <ul>
- <li>Eha'ãjey uperire.</li>
+ <li>Eha’ãjey uperire.</li>
  <li>Ehechajey ne ñanduti joajuha.</li>
  <li>Eikéramo firewall rupive, ehechajey &brandShortName; iguerekópa ñemoneĩ oike hag̃ua ñandutípe.</li>
 </ul>">
@@ -42,7 +42,7 @@
 
 <!ENTITY generic.title "Ndi.">
 
-<!ENTITY generic.longDesc "<p>&brandShortName; ndaikatúi omyanyhẽ ko kuatiarogue ndojekuaái mba'érepa.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; ndaikatúi omyanyhẽ ko kuatiarogue ndojekuaái mba’érepa.</p>">
 
 <!ENTITY captivePortal.title "Eñepyrũ tembiapo ñandutípe">
 <!ENTITY captivePortal.longDesc2 "<p>Eñepyrũ tembiapo ko ñandutípe eike mboyve ambue ñandutípe.</p>">
@@ -99,11 +99,18 @@
 
 <!ENTITY unknownSocketType.title "Mbohovái eha'ãrõ'ỹva mohendahavusúgui">
 
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Ehechajey nde apopyvusu oguerekópa ñangarekoha imba'eteéva tekorosãrã mohendapyréva.</li> <li>Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã'ỹva mohendahavusúpe rupi.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul>
+  <li>Ehechajey nde apopyvusu oguerekópa ñangarekoha imba’eteéva
+    tekorosãrã mohendapyréva.</li>
+  <li>Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã’ỹva mohendahavusúpe rupi.</li>
+</ul>">
 
 <!ENTITY nssFailure2.title "Jeikekatu jejavýva">
 
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Kuatiarogue eikeseha ndaikatúi ehecha mba'ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.</li> <li>Ikatúpiko, eñe'ẽmi ñanduti renda jára ndive ha emombe'umi chupekuéra ko apañuãi rehegua.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul>
+  <li>Kuatiarogue eikeseha ndaikatúi ehecha mba'ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.</li>
+  <li>Ikatúpiko, eñe’ẽmi ñanduti renda jára ndive ha emombe’umi chupekuéra ko apañuãi rehegua.</li>
+</ul>">
 
 <!ENTITY certerror.longpagetitle2 "Jesarekorã: Imarãkuaáva tenondeve">
 <!ENTITY certerror.sts.longpagetitle  "Ndoikéi: Ikatu hína iñapañuãi tekorosãrã">
