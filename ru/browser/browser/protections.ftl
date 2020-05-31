@@ -183,6 +183,15 @@ password-warning =
         [few] Сохранённых логина были скомпрометированы утечкой данных. Измените пароль для обеспечения безопасности. <a data-l10n-name="lockwise-link">Посмотреть сохранённые логины</a>
        *[many] Сохранённых логинов были скомпрометированы утечкой данных. Измените пароль для обеспечения безопасности. <a data-l10n-name="lockwise-link">Посмотреть сохранённые логины</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Раскрытый пароль в нерешённых утечках
+        [few] Раскрытых пароля в нерешённых утечках
+       *[many] Раскрытых паролей в нерешённых утечках
+    }
 monitor-no-breaches-title = Хорошие новости!
 monitor-no-breaches-description = Ваши адреса не замечены ни в одной утечке. Если это изменится, мы дадим вам знать.
 monitor-view-report-link = Посмотреть отчёт
