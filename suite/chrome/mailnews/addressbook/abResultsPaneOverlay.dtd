@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "მისამართების წიგნაკი">
+<!ENTITY Addrbook.accesskey                    "წ">
 <!ENTITY GeneratedName.label                   "სახელი">
 <!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "ელფოსტა">
@@ -30,6 +32,8 @@
 <!ENTITY WorkPhone.accesskey                   "W">
 <!ENTITY ScreenName.label                      "ეკრანული სახელი">
 <!ENTITY ScreenName.accesskey                  "S">
+<!ENTITY ChatName.label                        "სახელი სასაუბროსთვის">
+<!ENTITY ChatName.accesskey                    "ბ">
 <!ENTITY sortAscending.label                   "აღმავალი">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "დაღმავალი">

@@ -425,6 +425,7 @@
 <!ENTITY deleteButton.label "წაშლა">
 <!ENTITY undeleteButton.label "აღდგენა">
 <!ENTITY markButton.label "მონიშვნა">
+<!ENTITY printButton.label "ამობეჭდვა">
 <!ENTITY stopButton.label "შეჩერება">
 <!ENTITY junkButton.label "ჯართი">
 <!ENTITY notJunkButton.label "არა ჯართი">
@@ -448,6 +449,7 @@
 <!ENTITY deleteButton.tooltip "მონიშნული წერილის ან საქაღალდის წაშლა">
 <!ENTITY undeleteButton.tooltip "მონიშნული წერილის აღდგენა">
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
+<!ENTITY printButton.tooltip "ამ წერილის ამობეჭდვა">
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
 <!ENTITY throbber.tooltip "&vendorShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY throbber.tooltip2 "&brandShortName; – საწყის გვერდზე გადასვლა">

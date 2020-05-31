@@ -84,6 +84,8 @@
 <!ENTITY deleteItemButton.accesskey                     "წ">
 <!ENTITY newimButton.label                              "სწრაფი შეტყობინება">
 <!ENTITY newimButton.accesskey                          "წ">
+<!ENTITY printButton.label                              "ამობეჭდვა">
+<!ENTITY printButton.accesskey                          "ჭ">
 <!ENTITY searchNameAndEmail.placeholder                 "სახელისა და ელფოსტის ძიება">
 <!ENTITY searchBox.title                                "ძიება">
 
@@ -94,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "შერჩეული ელემენტის ჩასწორება">
 <!ENTITY newmsgButton.tooltip                           "ელფოსტის გაგზავნა">
 <!ENTITY newIM.tooltip                                  "მყისი გზავნილი ან გასუბრება">
+<!ENTITY printButton.tooltip                            "შერჩეულის ამობეჭდვა">
 <!ENTITY deleteItemButton.tooltip                       "შერჩეული ელემენტის წაშლა">
 <!ENTITY throbber.tooltip                               "&vendorShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY throbber.tooltip2                              "&brandShortName; – საწყის გვერდზე გადასვლა">
@@ -107,6 +110,7 @@
 <!ENTITY contact.heading                                "პირი">
 <!ENTITY home.heading                                   "თავფურცელი">
 <!ENTITY other.heading                                  "სხვა">
+<!ENTITY chat.heading                                   "სასაუბრო">
 <!ENTITY phone.heading                                  "ტელეფონი">
 <!ENTITY work.heading                                   "სამსახური">
 <!-- Special Box Headings, for mailing lists -->
