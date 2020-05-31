@@ -20,7 +20,7 @@ login-app-promo-apple =
     .alt = Descárgalo en la App Store
 login-filter =
     .placeholder = Buscar credenciales
-create-login-button = Crear nueva conexión
+create-login-button = Crear nueva credencial
 fxaccounts-sign-in-text = Ten tus contraseñas en tus otros dispositivos
 fxaccounts-sign-in-button = Conectarse a { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,7 +61,7 @@ login-list-intro-title = No se encontraron credenciales
 login-list-intro-description = Cuando guardas una contraseña en { -brand-product-name }, esta será mostrada aquí.
 about-logins-login-list-empty-search-title = No se encontraron credenciales
 about-logins-login-list-empty-search-description = No hay resultados que coincidan con tu búsqueda.
-login-list-item-title-new-login = Nueva conexión
+login-list-item-title-new-login = Nueva credencial
 login-list-item-subtitle-new-login = Ingresa tus credenciales de conexión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
 about-logins-list-item-breach-icon =
@@ -81,7 +81,7 @@ about-logins-intro-import = Si tus credenciales están guardadas en otro navegad
 
 ## Login
 
-login-item-new-login-title = crear una nueva conexión
+login-item-new-login-title = crear una nueva credencial
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Dirección del sitio web
@@ -113,10 +113,10 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Para editar tu conexión, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
+about-logins-edit-login-os-auth-dialog-message-win = Para editar tu credencial, ingresa tus datos de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = editar la conexión guardada
+about-logins-edit-login-os-auth-dialog-message-macosx = editar la credencial guardada
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -158,7 +158,7 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-about-logins-confirm-remove-dialog-title = ¿Eliminar esta conexión?
+about-logins-confirm-remove-dialog-title = ¿Eliminar esta credencial?
 confirm-delete-dialog-message = Esta acción no puede revertirse.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
 about-logins-confirm-export-dialog-title = Exportar credenciales y contraseñas
@@ -171,7 +171,7 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Filtración de sitio
-breach-alert-text = Se filtraron o robaron contraseñas de este sitio desde la última vez en que actualizaste tus datos de conexión. Cambia tu contraseña para proteger tu cuenta.
+breach-alert-text = Se filtraron o robaron contraseñas de este sitio desde la última vez en que actualizaste los datos de tu credencial. Cambia tu contraseña para proteger tu cuenta.
 about-logins-breach-alert-date = Esta filtración ocurrió el { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"

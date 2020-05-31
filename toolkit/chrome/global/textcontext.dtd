@@ -27,11 +27,11 @@
 
 <!ENTITY searchTextBox.clear.label "Limpiar">
 
-<!ENTITY fillLoginMenu.label          "Rellenar datos de conexión">
+<!ENTITY fillLoginMenu.label          "Rellenar credencial">
 <!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillPasswordMenu.label       "Rellenar contraseña">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Rellenar nombre de usuario">
 <!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(No hay sugerencias para la conexión)">
+<!ENTITY noLoginSuggestions.label     "(No hay sugerencias de credencial)">
 <!ENTITY viewSavedLogins.label        "Ver credenciales guardadas">
