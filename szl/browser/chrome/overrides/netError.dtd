@@ -125,13 +125,25 @@
 
 <!ENTITY nssFailure2.title "Niypodarzōne bezpieczne połōnczynie">
 
+<!ENTITY nssFailure2.longDesc2 "<ul>
+  <li>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo niy szło zweryfikować autyntyczności ôd dostōnych danych.</li>
+  <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
+</ul>">
 
+<!ENTITY certerror.longpagetitle2 "Pozōr: Możebne zagrożynie bezpieczyństwa">
+<!ENTITY certerror.sts.longpagetitle  "Niypołōnczōne: Możebne zagrożynie bezpieczyństwa">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; znod możliwe zagrożynie bezpieczyństwa i niy zaladowoł <span class='hostname'/>. Jak pōdziesz na ta strōna, ôszydy mogōm prōbować ukraść twoje dane, bez przikłod hasła, emaile abo dane z kredytowyj karty.">
+<!ENTITY certerror.sts.introPara "&brandShortName; znod możliwe zagrożynie bezpieczyństwa i niy zaladowoł <span class='hostname'/>, bo ta strōna potrzebuje bezpiecznego połōnczynio.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; znod problym i niy zaladowoł <span class='hostname'/>. Strōna je felernie nastawiōno abo zygor na tym kōmputrze je nastawiōny na zły czas.">
+<!ENTITY certerror.expiredCert.secondPara2 "Zdo sie, iże certyfikat tyj strōny sie przedowniōł, bez co &brandShortName; niy poradzi sie bezpiecznie ś niōm połōnczyć. Jak pōdziesz na ta strōna, ôszydy mogōm prōbować ukraść twoje dane, bez przikłod hasła, emaile abo dane z kredytowyj karty.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Zdo sie, iże certyfikat tyj strōny sie przedowniōł, bez co &brandShortName; niy poradzi sie bezpiecznie ś niōm połōnczyć.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Co idzie z tym zrobić?">
 
 
 
