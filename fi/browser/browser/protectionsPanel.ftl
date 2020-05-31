@@ -58,7 +58,8 @@ protections-panel-not-found-label = Ei havaittu
 
 protections-panel-settings-label = Suojauksen asetukset
 protections-panel-showreport-label = Näytä raportti
-protections-panel-showdashboard-label = Näytä yhteenveto
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Suojausten yhteenveto
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

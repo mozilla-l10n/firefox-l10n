@@ -32,6 +32,7 @@ menu =
     .title = Avaa valikko
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Tuo toisesta selaimesta…
+about-logins-menu-menuitem-export-logins = Vie kirjautumistiedot…
 menu-menuitem-preferences = Asetukset
 about-logins-menu-menuitem-help = Ohje
 menu-menuitem-android-app = { -lockwise-brand-short-name } Androidille
@@ -152,6 +153,9 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
 about-logins-confirm-remove-dialog-confirm-button = Poista
+about-logins-confirm-export-dialog-title = Vie kirjautumistiedot ja salasanat
+about-logins-confirm-export-dialog-message = Salasanasi tallennetaan luettavaan muotoon (esim. hu0n0s4l4s4n4), joten kuka tahansa viedyn tiedoston avaamiseen kykenevä voi nähdä salasanat.
+about-logins-confirm-export-dialog-confirm-button = Vie…
 confirm-discard-changes-dialog-title = Hylätäänkö tallentamattomat muutokset?
 confirm-discard-changes-dialog-message = Kaikki tallentamattomat muutokset menetetään.
 confirm-discard-changes-dialog-confirm-button = Hylkää
@@ -187,6 +191,16 @@ about-logins-error-message-default = Tätä salasanaa tallentaessa ilmeni virhe.
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Vie kirjautumistietojen tiedosto
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = kirjautumistiedot.csv
+about-logins-export-file-picker-export-button = Vie
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-dokumentti
+       *[other] CSV-tiedosto
+    }
