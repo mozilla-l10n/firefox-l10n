@@ -266,6 +266,12 @@ popup-select-microphone =
     .value = Mikrofonas, kurį leisite pasiekti:
     .accesskey = M
 popup-all-windows-shared = Bus leidžiama matyti visus jūsų ekrane matomus langus.
+popup-screen-sharing-not-now =
+    .label = Ne dabar
+    .accesskey = b
+popup-screen-sharing-never =
+    .label = Niekada neleisti
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
