@@ -180,6 +180,35 @@ info-exposed-passwords-resolved =
         [one] Contraseña expuesta en filtraciones no resueltas
        *[other] Contraseñas expuestas en filtraciones no resueltas
     }
+monitor-no-breaches-title = ¡Buenas noticias!
+monitor-no-breaches-description = No tiene filtraciones conocidas. Si eso cambia, se lo haremos saber.
+monitor-view-report-link = Ver el informe
+    .title = Resolver las filtraciones en { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Resolver sus filtraciones
+monitor-breaches-unresolved-description =
+    Después de revisar los detalles sobre una filtración y tomar medidas para proteger 
+    su información, puede marcar las filtraciones como resueltas.
+monitor-manage-breaches-link = Gestionar filtraciones
+    .title = Gestiona filtraciones en { -monitor-brand-short-name }
+monitor-breaches-resolved-title = ¡Bien! Ha resuelto todas las filtraciones conocidas.
+monitor-breaches-resolved-description = Si su correo electrónico aparece en cualquier nueva filtración, le avisaremos.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } de { $numBreaches } filtración marcada como resuelta
+       *[other] { $numBreachesResolved } de { $numBreaches } filtraciones marcadas como resueltas
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% completo
+monitor-partial-breaches-motivation-title-start = ¡Gran comienzo!
+monitor-partial-breaches-motivation-title-middle = ¡Siga así!
+monitor-partial-breaches-motivation-title-end = ¡Casi terminado! Siga así.
+monitor-partial-breaches-motivation-description = Resuelva las demás filtraciones en { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Resolver filtraciones
+    .title = Resolver filtraciones en { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
