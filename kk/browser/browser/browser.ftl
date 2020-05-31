@@ -262,6 +262,12 @@ popup-select-microphone =
     .value = Бөлісу үшін микрофон:
     .accesskey = м
 popup-all-windows-shared = Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.
+popup-screen-sharing-not-now =
+    .label = Қазір емес
+    .accesskey = м
+popup-screen-sharing-never =
+    .label = Ешқашан рұқсат етпеу
+    .accesskey = н
 
 ## WebRTC window or screen share tab switch warning
 
