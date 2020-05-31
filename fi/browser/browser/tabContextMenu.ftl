@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = Kumoa välilehden sulkeminen
     .accesskey = u
+tab-context-close-multiple-tabs =
+    .label = Sulje useita välilehtiä
+    .accesskey = t
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Kumoa välilehden sulkeminen
+           *[other] Kumoa välilehtien sulkeminen
+        }
+    .accesskey = u
 close-tab =
     .label = Sulje välilehti
     .accesskey = S
