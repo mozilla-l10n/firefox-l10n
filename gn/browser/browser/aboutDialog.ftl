@@ -16,7 +16,7 @@ update-downloading = <img data-l10n-name="icon"/>Oñemboguejyhína tekopyahu —
 update-applying = Ojepuruhína tekopyahu…
 update-failed = Tekopyahu ndoikói.<label data-l10n-name="failed-link">Emboguejy apopy ipyahuvéva</label>
 update-failed-main = Tekopyahu ndoikói.<a data-l10n-name="failed-link-main">Emboguejy apopy ipyahuvéva</a>
-update-adminDisabled = Tekopyahu ñangarekohára omongeva'ekue
+update-adminDisabled = Tekopyahu ñangarekohára omongeva’ekue
 update-noUpdatesFound = { -brand-short-name } hekopyahúma
 update-otherInstanceHandlingUpdates = { -brand-short-name } oñembohekopyahuhína ambuéva rupi
 update-manual = Tekopyahu rejuhukuaáva ápe<label data-l10n-name="manual-link"/>
