@@ -12,3 +12,4 @@ process-type-weblargeallocation = Allocazione di grandi dimensioni
 process-type-webisolated = Contenuti web isolati
 process-type-gpu = GPU
 process-type-socket = Socket
+process-type-prealloc = Preallocato
