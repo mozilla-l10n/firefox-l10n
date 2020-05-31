@@ -32,6 +32,7 @@ menu =
     .title = 打开菜单
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = 从其他浏览器导入…
+about-logins-menu-menuitem-export-logins = 导出登录信息…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 选项
@@ -159,6 +160,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
 about-logins-confirm-remove-dialog-confirm-button = 移除
+about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
 about-logins-confirm-export-dialog-confirm-button = 导出…
 confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
