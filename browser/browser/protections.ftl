@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] fuites de données connues ont compromis vos informations
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] fuite de données connue marquée comme réglée
+       *[other] fuites de données connues marquées comme réglées
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -163,6 +171,14 @@ password-warning =
     { $count ->
         [one] mot de passe enregistré peut avoir été compromis par une fuite de données. Changez ce mot de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
        *[other] mots de passe enregistrés peuvent avoir été compromis par une fuite de données. Changez ces mots de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] mot de passe compromis parmi les fuites de données non réglées
+       *[other] mots de passe compromis parmi les fuites de données non réglées
     }
 monitor-no-breaches-title = Bonne nouvelle !
 monitor-no-breaches-description = Vous n’apparaissez dans aucune fuite de données connue. Si cela vient à changer, nous vous en aviserons.
@@ -188,7 +204,6 @@ monitor-partial-breaches-percentage = Terminé à { $percentageResolved } %
 monitor-partial-breaches-motivation-title-start = Un bon début !
 monitor-partial-breaches-motivation-title-middle = Gardez le rythme !
 monitor-partial-breaches-motivation-title-end = C’est presque fini. Continuez !
-monitor-partial-breaches-motivation-desc = Réglez vos autres fuites de données avec { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Réglez vos fuites de données
     .title = Réglez vos fuites de données avec { -monitor-brand-short-name }
 
