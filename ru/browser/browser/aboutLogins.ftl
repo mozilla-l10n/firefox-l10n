@@ -204,11 +204,11 @@ about-logins-export-file-picker-title = Экспорт файла логинов
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = логины.csv
-about-logins-export-file-picker-export-button = Экспорт
+about-logins-export-file-picker-export-button = Экспортировать
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
-        [macos] CSV документ
-       *[other] CSV файл
+        [macos] Документ CSV
+       *[other] CSV-файл
     }
