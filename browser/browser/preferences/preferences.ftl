@@ -921,7 +921,7 @@ addressbar-locbar-openpage-option =
     .label = из открытых вкладок
     .accesskey = к
 addressbar-locbar-topsites-option =
-    .label = Топ сайтов
+    .label = из топа сайтов
     .accesskey = й
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 
