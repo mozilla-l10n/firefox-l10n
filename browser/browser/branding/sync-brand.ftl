@@ -8,7 +8,6 @@
         [dat] სინქრონიზაციას
         [gen] სინქრონიზაციის
     }
-
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
@@ -16,13 +15,13 @@
        *[nom] Firefox Sync
         [gen] Firefox Sync-ის
     }
-
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
        *[nom] Firefox-ანგარიში
-        [dat] Firefox-ანგარიშ
+        [dat] Firefox-ანგარიშს
         [gen] Firefox-ანგარიშის
         [ins] Firefox-ანგარიშით
+        [add] Firefox-ანგარიშთან
     }
