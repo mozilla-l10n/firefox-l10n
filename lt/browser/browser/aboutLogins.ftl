@@ -32,6 +32,7 @@ menu =
     .title = Atverti meniu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importuoti iš kitos naršyklės…
+about-logins-menu-menuitem-export-logins = Eksportuoti prisijungimus…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Nuostatos
@@ -161,6 +162,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Pašalinti šį prisijungimą?
 confirm-delete-dialog-message = Atlikus šį veiksmą, jo atšaukti neįmanoma.
 about-logins-confirm-remove-dialog-confirm-button = Pašalinti
+about-logins-confirm-export-dialog-title = Eksportuoti prisijungimus ir slaptažodžius
+about-logins-confirm-export-dialog-message = Jūsų slaptažodžiai bus įrašyti kaip perskaitomas tekstas (pvz., BlogasSl@ptaz0dis), tad bet kas galintis atverti eksportuotą failą galės juos peržiūrėti.
 about-logins-confirm-export-dialog-confirm-button = Eksportuoti…
 confirm-discard-changes-dialog-title = Atsisakyti neįrašytų pakeitimų?
 confirm-discard-changes-dialog-message = Visi neįrašyti pakeitimai bus prarasti.
