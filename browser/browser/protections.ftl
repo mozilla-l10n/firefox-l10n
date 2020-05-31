@@ -37,7 +37,10 @@ etp-card-title = Protección contra rastreo mejorada
 etp-card-content = Los rastreadores le siguen en línea para recopilar información sobre sus hábitos de navegación e intereses. { -brand-short-name } bloquea muchos de esos rastreadores y otros elementos maliciosos.
 protection-report-webpage-title = Panel de protecciones
 protection-report-page-content-title = Panel de protecciones
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } puede proteger su privacidad entre bastidores mientras navega. Este es un resumen personalizado de esas protecciones, incluidas las herramientas para tomar el control de su seguridad en línea.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } protege su privacidad entre bastidores mientras navega. Este es un resumen personalizado de esas protecciones, incluidas las herramientas para tomar el control de su seguridad en línea.
 protection-report-settings-link = Administrar su configuración de privacidad y seguridad
 etp-card-title-always = Protección contra rastreo mejorada: siempre activa
 etp-card-title-custom-not-blocking = Protección contra rastreo mejorada: desactivada
@@ -59,8 +62,6 @@ fingerprinter-tab-title = Detectores de huellas digitales
 fingerprinter-tab-content = Los detectores de huellas digitales (fingerprinters) recopilan la configuración de su navegador y su ordenador para crear un perfil de usted. Usando esta huella digital pueden seguirle a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Saber más</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan la potencia informática de su sistema para obtener dinero digital. Los scripts de criptominería agotan la batería de su ordenador, lo ralentizan y pueden aumentar su factura de electricidad. <a data-l10n-name="learn-more-link">Saber más</a>
-protections-close-button =
-    .aria-label = Cerrar
 protections-close-button2 =
     .aria-label = Cerrar
     .title = Cerrar
@@ -121,6 +122,8 @@ monitor-link = Cómo funciona
 monitor-header-content-no-account = Consulte { -monitor-brand-name } para ver si sus datos aparecen en una filtración de datos y reciba alertas sobre nuevas filtraciones.
 monitor-header-content-signed-in = { -monitor-brand-name } le advierte si su información ha aparecido en una filtración de datos conocida.
 monitor-sign-up = Suscribirse a las alertas de filtraciones
+monitor-sign-up-link = Suscribirse a las alertas de filtraciones
+    .title = Suscribirse a las alertas de filtraciones en { -monitor-brand-name }
 auto-scan = Se escaneó automáticamente hoy
 monitor-emails-tooltip =
     .title = Ver las direcciones de correo electrónico supervisadas en { -monitor-brand-short-name }
@@ -145,6 +148,14 @@ info-known-breaches-found =
        *[other] La filtraciones de datos que han expuesto su información
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Filtración de datos conocida marcada como resuelta
+       *[other] Filtraciones de datos conocidas marcadas como resueltas
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -160,6 +171,14 @@ password-warning =
     { $count ->
         [one] Puede que el inicio de sesión almacenado haya aparecido en una filtración de datos. Cambie su contraseña para una mayor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
        *[other] Puede que los inicios de sesión almacenados hayan aparecido en una filtración de datos. Cambie su contraseña para una mayor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Contraseña expuesta en filtraciones no resueltas
+       *[other] Contraseñas expuestas en filtraciones no resueltas
     }
 
 ## The title attribute is used to display the type of protection.

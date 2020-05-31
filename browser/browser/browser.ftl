@@ -281,6 +281,8 @@ sharing-warning-window = Está compartiendo { -brand-short-name }. Otras persona
 sharing-warning-screen = Está compartiendo su pantalla completa. Otras personas pueden ver cuando pasa a una pestaña nueva.
 sharing-warning-proceed-to-tab =
     .label = Ir a la pestaña
+sharing-warning-disable-for-session =
+    .label = Deshabilitar la protección de compartición para esta sesión
 
 ## DevTools F12 popup
 
