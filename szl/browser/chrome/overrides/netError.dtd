@@ -145,8 +145,13 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Co idzie z tym zrobić?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Zdo sie, iże problym je z tōm strōnōm i niy poradzisz go rozwiōnzać.</p>
+<p>Jak żeś je w korporacyjnym necu abo używoż antywirusowego softwaru, możesz spytać ô pōmoc zespōł sparcio. Możesz tyż dać znać ô problymie administratorowi strōny.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Zygor na tym kōmputrze je nastawiōny na <span id='wrongSystemTime_systemDate2'/>. Badnij, jeźli kōmputer mo nastawiōno dobro data, godzina i czasowo strefa w nasztalowaniach systymu, a potym ôdświyż <span class='hostname'/>.</p>
+<p>Jak zygor pokazuje dobry czas, problym bydzie ze złymi nasztalowaniami strōny i niy poradzisz nic z tym zrobić. Możesz dać znać ô problymie administratorowi strōny.</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problym bydzie ze złymi nasztalowaniami strōny i niy poradzisz nic z tym zrobić. Możesz dać znać ô problymie administratorowi strōny.</p>">
 
 
 
