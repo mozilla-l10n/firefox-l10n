@@ -61,19 +61,41 @@
 
 <!ENTITY notCached.title "Dokumynt sie przedowniōł">
 
+<!ENTITY notCached.longDesc '<p>Proszōny dokumynt niy ma dostympny w podryncznyj pamiyńci aplikacyje &brandShortName;. </p><ul><li>Skuli bezpieczynstwa &brandShortName; autōmatycznie  niy pobiyro zaś prywatnych dokumyntōw. </li><li>Kliknij "Sprōbuj jeszcze roz", coby jeszcze roz pobrać dokumynt ze strōny.</li></ul>'>
 
+<!ENTITY netOffline.title "Tryb offline">
 
+<!ENTITY netOffline.longDesc2 "<ul>
+  <li>Coby przełōnczyć na tryb online i przeladować strōna, prziciś „Sprōbuj jeszcze roz“.</li>
+</ul>">
 
+<!ENTITY contentEncodingError.title "Feler kodowanio zawartości">
 
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
+</ul>">
 
+<!ENTITY unsafeContentType.title "Niybezpieczny typ zbioru">
 
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
+</ul>">
 
+<!ENTITY netReset.title "Połōnczynie zresetowane">
 
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.title "Przestōmpiōny czas połōnczynio">
 
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Niyspokopiōno adresa">
 
+<!ENTITY unknownProtocolFound.longDesc "<ul>
+  <li>Możno bydzie trza zainsztalować inksze programy, coby ôdewrzić ta adresa.</li>
+</ul>">
 
+<!ENTITY proxyConnectFailure.title "Serwer proxy ôdciepuje połōnczynia">
 
 
 
