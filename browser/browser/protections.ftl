@@ -73,8 +73,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Administración de contraseñas
 lockwise-header-content = { -lockwise-brand-name } almacena de forma segura tus contraseñas en tu navegador.
 lockwise-header-content-logged-in = Almacena de forma segura tus contraseñas y sincronízalas en todos tus dispositivos.
-protection-report-view-logins-button = Ver conexiones
-    .title = Ir a las conexiones guardadas
+protection-report-view-logins-button = Ver credenciales
+    .title = Ir a las credenciales guardadas
 protection-report-save-passwords-button = Guardar contraseñas
     .title = Guardar contraseñas en { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Gestionar contraseñas
@@ -161,8 +161,8 @@ full-report-link = Ver el reporte completo en <a data-l10n-name="monitor-inline-
 # your localization, because it would result in the number showing twice.
 password-warning =
     { $count ->
-        [one] conexión guardada podría haberse visto expuesta en una filtración de datos. Cambia la contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver conexiones guardadas</a>
-       *[other] conexiones guardadas podrían haberse visto expuesta en una filtración de datos. Cambia la contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver conexiones guardadas</a>
+        [one] Una credencial guardada podría haberse visto expuesta en una filtración de datos. Cambia su contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver credenciales guardadas</a>
+       *[other] Credenciales guardadas podrían haberse visto expuestsa en una filtración de datos. Cambia sus contraseñas para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver credenciales guardadas</a>
     }
 monitor-no-breaches-title = ¡Buenas noticias!
 monitor-no-breaches-description = No tienes filtraciones conocidas. Si eso cambia, te lo haremos saber.
@@ -178,7 +178,6 @@ monitor-partial-breaches-percentage = { $percentageResolved }% completo
 monitor-partial-breaches-motivation-title-start = ¡Empezaste bien!
 monitor-partial-breaches-motivation-title-middle = ¡Sigue así!
 monitor-partial-breaches-motivation-title-end = ¡Casi listo! Continúa.
-monitor-partial-breaches-motivation-desc = Resuelve el resto de tus filtraciones en { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Resolver filtraciones
     .title = Resuelve filtraciones en { -monitor-brand-short-name }
 

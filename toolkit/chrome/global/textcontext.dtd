@@ -34,4 +34,4 @@
 <!ENTITY fillUsernameMenu.label       "Rellenar nombre de usuario">
 <!ENTITY fillUsernameMenu.accesskey   "F">
 <!ENTITY noLoginSuggestions.label     "(No hay sugerencias para la conexión)">
-<!ENTITY viewSavedLogins.label        "Ver conexiones guardadas">
+<!ENTITY viewSavedLogins.label        "Ver credenciales guardadas">
