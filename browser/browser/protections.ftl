@@ -107,9 +107,9 @@ lockwise-scanned-text-breached-logins =
 # $count (Number) - Number of passwords stored in Lockwise.
 lockwise-scanned-text-no-breached-logins =
     { $count ->
-        [one] Ваш пароль хранится в безопасности.
-        [few] Ваши пароли хранятся в безопасности.
-       *[many] Ваши пароли хранятся в безопасности.
+        [one] $count пароль хранится в безопасности.
+        [few] $count пароля хранятся в безопасности.
+       *[many] $count паролей хранятся в безопасности.
     }
 lockwise-how-it-works-link = Как это работает
 turn-on-sync = Включить { -sync-brand-short-name(case: "accusative") }…
@@ -156,6 +156,15 @@ info-known-breaches-found =
        *[many] Известных утечек данных раскрыли вашу информацию
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Известная утечка отмеченная как решённая
+        [few] Известные утечки отмеченные как решённые
+       *[many] Известных утечек отмеченных как решённые
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -199,7 +208,6 @@ monitor-partial-breaches-percentage = { $percentageResolved }% завершен�
 monitor-partial-breaches-motivation-title-start = Отличное начало!
 monitor-partial-breaches-motivation-title-middle = Так держать!
 monitor-partial-breaches-motivation-title-end = Почти готово! Так держать.
-monitor-partial-breaches-motivation-desc = Разберитесь с остальными вашими утечками на { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Разобраться с утечками
     .title = Разобраться с утечками с помощью { -monitor-brand-short-name }
 
