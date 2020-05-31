@@ -493,11 +493,17 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sitios frecuentes
 home-prefs-topsites-description = Los sitios que más visitas
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description = El mejor contenido de toda la web, seleccionado para ti
+home-prefs-recommended-by-description-update = Contenido excepcional de toda la web, revisado por { $provider }
+
+##
+
 home-prefs-recommended-by-learn-more = Cómo funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Historias patrocinadas
@@ -677,7 +683,7 @@ sync-currently-syncing-heading = Actualmente estás sincronizando estos elemento
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestañas abiertas
-sync-currently-syncing-logins-passwords = Conexiones y contraseñas
+sync-currently-syncing-logins-passwords = Credenciales y contraseñas
 sync-currently-syncing-addresses = Direcciones
 sync-currently-syncing-creditcards = Tarjetas de crédito
 sync-currently-syncing-addons = Complementos
@@ -710,12 +716,12 @@ sync-engine-tabs =
     .tooltiptext = Una lista de lo que está abierto en todos los dispositivos sincronizados
     .accesskey = t
 sync-engine-logins =
-    .label = Conexiones
+    .label = Credenciales
     .tooltiptext = Usuarios y contraseñas que has guardado
     .accesskey = L
 sync-engine-logins-passwords =
-    .label = Conexiones y contraseñas
-    .tooltiptext = Nombres de usuario y contraseñas que has guardado
+    .label = Credenciales y contraseñas
+    .tooltiptext = Usuarios y contraseñas que has guardado
     .accesskey = L
 sync-engine-addresses =
     .label = Direcciones
@@ -762,16 +768,16 @@ privacy-header = Privacidad del navegador
 
 ## Privacy Section - Forms
 
-logins-header = Conexiones y contraseñas
+logins-header = Credenciales y contraseñas
 
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Conexiones y contraseñas
+pane-privacy-logins-and-passwords-header = Credenciales y contraseñas
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Preguntar para guardar conexiones y contraseñas para sitios web
+    .label = Preguntar para guardar credenciales y contraseñas para sitios web
     .accesskey = r
 forms-exceptions =
     .label = Excepciones…
@@ -785,10 +791,10 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Aprender más
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = Autocompletar conexiones y contraseñas
+    .label = Autocompletar credenciales y contraseñas
     .accesskey = i
 forms-saved-logins =
-    .label = Conexiones guardadas…
+    .label = Credenciales guardadas…
     .accesskey = L
 forms-master-pw-use =
     .label = Usar una contraseña maestra

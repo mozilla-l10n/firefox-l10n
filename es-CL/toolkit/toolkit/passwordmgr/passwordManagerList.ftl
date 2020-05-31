@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 saved-logins =
-    .title = Conexiones guardadas
+    .title = Credenciales guardadas
 window-close =
     .key = w
 focus-search-shortcut =
@@ -54,15 +54,14 @@ import =
 close-button =
     .label = Cerrar
     .accesskey = C
-
 show-passwords =
     .label = Mostrar contraseñas
     .accesskey = P
 hide-passwords =
     .label = Ocultar contraseñas
     .accesskey = P
-logins-description-all = Las conexiones para los siguientes sitios son almacenadas en tu computador
-logins-description-filtered = Las siguientes conexiones coinciden con tu búsqueda:
+logins-description-all = Las credenciales para los siguientes sitios son almacenadas en tu computador
+logins-description-filtered = Las siguientes credenciales coinciden con tu búsqueda:
 remove-all =
     .label = Eliminar todas
     .accesskey = A
@@ -73,4 +72,4 @@ remove-all-passwords-prompt = ¿Estás seguro de que deseas eliminar todas las c
 remove-all-passwords-title = Eliminar todas las contraseñas
 no-master-password-prompt = ¿Estás seguro de que deseas mostrar tus contraseñas?
 auto-fill-logins-and-passwords =
-    .label = Autocompletar conexiones y contraseñas
+    .label = Autocompletar credenciales y contraseñas

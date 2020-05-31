@@ -8,7 +8,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Conexiones y contraseñas
+about-logins-page-title = Credenciales y contraseñas
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
@@ -19,7 +19,7 @@ login-app-promo-android =
 login-app-promo-apple =
     .alt = Descárgalo en la App Store
 login-filter =
-    .placeholder = Buscar conexiones
+    .placeholder = Buscar credenciales
 create-login-button = Crear nueva conexión
 fxaccounts-sign-in-text = Ten tus contraseñas en tus otros dispositivos
 fxaccounts-sign-in-button = Conectarse a { -sync-brand-short-name }
@@ -45,11 +45,11 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone e iPad
 ## Login List
 
 login-list =
-    .aria-label = Conexiones que coinciden con criterios de búsqueda
+    .aria-label = Credenciales que coinciden con  loscriterios de búsqueda
 login-list-count =
     { $count ->
-        [one] { $count } conexión
-       *[other] { $count } conexiones
+        [one] { $count } credencial
+       *[other] { $count } credenciales
     }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nombre (A-Z)
@@ -57,9 +57,9 @@ login-list-name-reverse-option = Nombre (Z-A)
 about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Último uso
-login-list-intro-title = No se encontraron conexiones
+login-list-intro-title = No se encontraron credenciales
 login-list-intro-description = Cuando guardas una contraseña en { -brand-product-name }, esta será mostrada aquí.
-about-logins-login-list-empty-search-title = No se encontraron conexiones
+about-logins-login-list-empty-search-title = No se encontraron credenciales
 about-logins-login-list-empty-search-description = No hay resultados que coincidan con tu búsqueda.
 login-list-item-title-new-login = Nueva conexión
 login-list-item-subtitle-new-login = Ingresa tus credenciales de conexión
@@ -72,12 +72,12 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = ¿Buscas tus contraseñas guardadas? Configura { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-in = No se encontraron conexiones sincronizadas.
-login-intro-description = Si guardaste tus conexiones en { -brand-product-name } en un dispositivo diferente, estas son las instrucciones para que las puedas tener también aquí:
-login-intro-instruction-fxa = Crea o conéctate a tu { -fxaccount-brand-name } en el dispositivo en que tienes guardadas tus conexiones
-login-intro-instruction-fxa-settings = Asegúrate de seleccionar la marca de conexiones en los ajustes de { -sync-brand-short-name }
+about-logins-login-intro-heading-logged-in = No se encontraron credenciales sincronizadas.
+login-intro-description = Si guardaste tus credenciales en { -brand-product-name } en un dispositivo diferente, estas son las instrucciones para que puedas tenerlas también aquí:
+login-intro-instruction-fxa = Crea o conéctate a tu { -fxaccount-brand-name } en el dispositivo en que tienes guardadas tus credenciales
+login-intro-instruction-fxa-settings = Asegúrate de seleccionar la marca de credenciales en los ajustes de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visita el <a data-l10n-name="help-link">Soporte de { -lockwise-brand-short-name }</a> para más ayuda
-about-logins-intro-import = Si tus conexiones están guardadas en otro navegador, puedes <a data-l10n-name="import-link">importarlas a { -lockwise-brand-short-name }</a>
+about-logins-intro-import = Si tus credenciales están guardadas en otro navegador, puedes <a data-l10n-name="import-link">importarlas a { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -130,7 +130,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contraseña
 
 ## Master Password notification
 
-master-password-notification-message = Por favor, ingresa tu contraseña maestra para ver tus conexiones y contraseñas guardadas
+master-password-notification-message = Por favor, ingresa tu contraseña maestra para ver tus credenciales y contraseñas guardadas
 master-password-reload-button =
     .label = Conectarse
     .accesskey = L
@@ -139,8 +139,8 @@ master-password-reload-button =
 
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] ¿Quieres tener tus conexiones en todas partes en que usas { -brand-product-name }? Ve a Opciones de { -sync-brand-short-name } y selecciona la casilla de verificación de Conexiones.
-       *[other] ¿Quieres tener tus conexiones en todas partes en que usas { -brand-product-name }? Ve a Preferencias de { -sync-brand-short-name } y selecciona la casilla de verificación de Conexiones.
+        [windows] ¿Quieres tener tus credenciales en todas partes en que usas { -brand-product-name }? Ve a Opciones de { -sync-brand-short-name } y selecciona la casilla de verificación de credenciales.
+       *[other] ¿Quieres tener tus credenciales en todas partes en que usas { -brand-product-name }? Ve a Preferencias de { -sync-brand-short-name } y selecciona la casilla de verificación de credenciales.
     }
 enable-password-sync-preferences-button =
     .label =
