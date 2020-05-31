@@ -108,7 +108,7 @@
 <!ENTITY nssFailure2.title "Jeikekatu jejavýva">
 
 <!ENTITY nssFailure2.longDesc2 "<ul>
-  <li>Kuatiarogue eikeseha ndaikatúi ehecha mba'ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.</li>
+  <li>Kuatiarogue eikeseha ndaikatúi ehecha mba’ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.</li>
   <li>Ikatúpiko, eñe’ẽmi ñanduti renda jára ndive ha emombe’umi chupekuéra ko apañuãi rehegua.</li>
 </ul>">
 
@@ -159,7 +159,7 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 
 <!ENTITY securityOverride.exceptionButton1Label "Emoneĩ imarãkuaáva ha eku’ejey">
 
-<!ENTITY errorReporting.automatic2 "Emomarandu koichagua jejavy eipytyvõ hag̃ua Mozilla-pe ojuhúvo ha ojokóvo tenda mba'evai aposéva">
+<!ENTITY errorReporting.automatic2 "Emomarandu koichagua jejavy eipytyvõ hag̃ua Mozilla-pe ojuhúvo ha ojokóvo tenda mba’evai aposéva">
 <!ENTITY errorReporting.learnMore "Kuaave…">
 
 <!ENTITY remoteXUL.title "XUL okaygua">
