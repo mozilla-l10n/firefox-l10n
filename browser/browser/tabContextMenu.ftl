@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = Undo Close Tab
     .accesskey = U
+tab-context-close-multiple-tabs =
+    .label = Close Multiple Tabs
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Undo Close Tab
+           *[other] Undo Close Tabs
+        }
+    .accesskey = U
 close-tab =
     .label = Close Tab
     .accesskey = C
