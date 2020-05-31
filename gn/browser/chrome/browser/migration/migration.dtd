@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Mba'ejegueru pytyvõha">
+<!ENTITY migrationWizard.title          "Mba’ejegueru pytyvõha">
 
 <!ENTITY importFrom.label               "Jeporavorã jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:">
 <!ENTITY importFromUnix.label           "Jerohoryvéva jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:">
@@ -17,7 +17,7 @@
 <!ENTITY importFromEdgeLegacy.accesskey "L">
 <!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
 <!ENTITY importFromEdgeBeta.accesskey   "d">
-<!ENTITY importFromNothing.label        "Ani regueru mba'eve">
+<!ENTITY importFromNothing.label        "Ani regueru mba’eve">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
@@ -39,16 +39,16 @@
 <!ENTITY noMigrationSources.label       "Ndojejuhúi tembiaporape oguerekóva techaukaha, tembiasakue térã mba’ekuaarã ñe’ẽñemi rehegua.">
 
 <!ENTITY importSource.title             "Mba’epytyvõrã ha mba’ekuaarã jegueru">
-<!ENTITY importItems.title              "Mba'epuru ojeguerútava">
-<!ENTITY importItems.label              "Eiporavo mba'epuru reguerútava">
+<!ENTITY importItems.title              "Mba’epuru ojeguerútava">
+<!ENTITY importItems.label              "Eiporavo mba’epuru reguerútava:">
 
 <!ENTITY migrating.title                "Jegueruhína…">
-<!ENTITY migrating.label                "Ojegueruhína ko'ã mba'epuru…">
+<!ENTITY migrating.label                "Ojegueruhína ko’ã mba’epuru…">
 
 <!ENTITY selectProfile.title            "Rechaukaha jeporavo">
 <!ENTITY selectProfile.label            "Ikatu regueru mba’ekuaarã ko’ã rechaukahakuéragui:">
 
 <!ENTITY done.title                     "Jeguerupaite">
-<!ENTITY done.label                     "Ko'ã mba'epuru ojeguerupa porã:">
+<!ENTITY done.label                     "Ko’ã mba’epuru ojeguerupa porã:">
 
 <!ENTITY closeSourceBrowser.label       "Ikatúpiko, ehechaporãke pe kundaha poravopyre oñembotýpara'e reku'e mboyve jey.">

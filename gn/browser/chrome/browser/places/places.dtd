@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Mba'erysýi">
+<!ENTITY places.library.title  "Mba’erysýi">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Mohenda">
@@ -55,7 +55,7 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Tendayképe jeikepa">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
-<!ENTITY cmd.properties.label      "Mba'ejára">
+<!ENTITY cmd.properties.label      "Mba’ejára">
 <!ENTITY cmd.properties.accesskey  "M">
 
 <!ENTITY cmd.sortby_name.label              "Teraite rupi Ñemohenda">
@@ -83,15 +83,15 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Mba'ereru ha Ñongatuguy">
+<!ENTITY maintenance.label      "Mba’ereru ha Ñongatuguy">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Nde rechahaukakuéra mba'ereru ha mba'ereraha">
+<!ENTITY maintenance.tooltip    "Nde rechahaukakuéra mba’ereru ha mba’ereraha">
 
 <!ENTITY backButton.tooltip  "Tapykuévo jeho">
 
 <!ENTITY forwardButton.tooltip  "Tenonde jeho">
 
-<!ENTITY detailsPane.selectAnItemText.description "Eiporavo peteĩ mba'epuru ehecha ha embosako'i hag̃ua imba'etee">
+<!ENTITY detailsPane.selectAnItemText.description "Eiporavo peteĩ mba’epuru ehecha ha embosako’i hag̃ua imba’etee">
 
 <!ENTITY view.label               "Hecha">
 <!ENTITY view.accesskey           "w">
