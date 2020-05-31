@@ -493,11 +493,17 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sitos preferite
 home-prefs-topsites-description = Le sitos que tu visita le plus
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recommendate per { $provider }
 home-prefs-recommended-by-description = Grande contento ex tote le Web, personalisate pro te
+home-prefs-recommended-by-description-update = Contentos exceptional de tote le Web, curate per { $provider }
+
+##
+
 home-prefs-recommended-by-learn-more = Como illo labora
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articulos sponsorisate
