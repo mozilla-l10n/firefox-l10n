@@ -140,7 +140,12 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 <p>Ikatu hína iñapañuãi ko ñanduti renda, ha ndaikatúi ejapo mba’eve emoĩporã hag̃ua. Ikatu emomarandu ñanduti renda ñangarekohárape pe apañuãi rehegua.</p>
 ">
 
-<!ENTITY sharedLongDesc "<ul> <li>Pe tenda ikatu hína ndojepurukuaái sapy'aitemi térã ojepuruetereihína. Eha'ãjey ag̃amieve.</li> <li>Ndaikatúiramo emyanyhẽ mba'eveichagua kuatiarogue, ehechajey ijeikekatu nemohendaha ñanduti peguápe.</li> <li>Nemohendaha térã ñanduti omo'ã chupe tatakytĩha térã proxy, ehecháke &brandShortName; oguerekópa moneĩ oike hag̃ua ñandutípe.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul>
+  <li>Pe tenda ikatu hína ndojepurukuaái sapy’aitemi térã ojepuruetereihína. Eha’ãjey
+  ag̃amieve.</li>
+    <li>Ndaikatúiramo emyanyhẽ mba’eveichagua kuatiarogue, ehechajey ijeikekatu nemohendaha ñanduti peguápe.</li>
+  <li>Nemohendaha térã ñanduti omo’ã chupe tatakytĩha térã proxy, ehecháke &brandShortName; oguerekópa moneĩ oike hag̃ua ñandutípe.</li>
+</ul>">
 
 <!ENTITY cspBlocked.title "Ojejoko hetepy rekorosãrã purureko rupi">
 
@@ -150,7 +155,7 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; omboyke ko kuatiarogue henyhẽvo ko apu’ápe pe kuatiarogue oreko rupi X-Frame purureko nomoneĩriva.</p>">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba’ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Emoneĩ imarãkuaáva ha eku’ejey">
 
