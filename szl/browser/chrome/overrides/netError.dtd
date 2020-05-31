@@ -97,13 +97,33 @@
 
 <!ENTITY proxyConnectFailure.title "Serwer proxy ôdciepuje połōnczynia">
 
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>Badnij, jeźli nasztalowania serwera proxy sōm dobre</li>
+  <li>Spytej sie swojigo administratora neca, jeźli serwer proxy funguje.</li>
+</ul>">
 
+<!ENTITY proxyResolveFailure.title "Niy idzie znojś serwera proxy">
 
+<!ENTITY proxyResolveFailure.longDesc "<ul>
+  <li>Badnij, jeźli nasztalowania serwera proxy sōm dobre</li>
+  <li>Badnij, jeźli funguje połōnczynie tego kōmputra z internetym.</li>
+  <li>Jak tyn kōmputer je chroniōny ôd firewalla abo serwera proxy, badnij jeźli &brandShortName; mo zgoda na dostymp do internetu.</li>
+</ul>">
 
+<!ENTITY redirectLoop.title "Strōna felernie przekerowuje">
 
+<!ENTITY redirectLoop.longDesc "<ul>
+  <li>Niykedy tyn problym pokazuje sie skuli zastawiynio abo ôdkozanio zgody na cookies.</li>
+</ul>">
 
+<!ENTITY unknownSocketType.title "Niyspodziywano ôdpowiydź ze serwera">
 
+<!ENTITY unknownSocketType.longDesc "<ul>
+  <li>Badnij, jeźli tyn systym mo zainsztalowane Personal Security Manager.</li>
+  <li>Problym może sie pokazować skuli niysztandardowyj kōnfiguracyje serwera.</li>
+</ul>">
 
+<!ENTITY nssFailure2.title "Niypodarzōne bezpieczne połōnczynie">
 
 
 
