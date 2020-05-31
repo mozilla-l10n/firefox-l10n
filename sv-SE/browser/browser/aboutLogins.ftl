@@ -32,7 +32,7 @@ menu =
     .title = Öppna meny
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importera från en annan webbläsare…
-about-logins-menu-menuitem-export-logins = Exportera inloggningar ...
+about-logins-menu-menuitem-export-logins = Exportera inloggningar...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Inställningar
@@ -198,6 +198,8 @@ about-logins-error-message-default = Ett fel uppstod vid försök att spara lös
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Exportera inloggningsfil
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
@@ -206,6 +208,6 @@ about-logins-export-file-picker-export-button = Exportera
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
-        [macos] CSV Dokument
-       *[other] CSV Fil
+        [macos] CSV-dokument
+       *[other] CSV-fil
     }
