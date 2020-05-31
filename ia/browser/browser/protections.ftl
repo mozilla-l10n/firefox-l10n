@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] violationes cognoscite de datos ha exponite tu information
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Violation de datos note marcate como resolvite
+       *[other] Violationes de datos note marcate como resolvite
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -188,7 +196,6 @@ monitor-partial-breaches-percentage = { $percentageResolved }% complete
 monitor-partial-breaches-motivation-title-start = Comencia!
 monitor-partial-breaches-motivation-title-middle = Continua assi!
 monitor-partial-breaches-motivation-title-end = Quasi finite. Continua assi!
-monitor-partial-breaches-motivation-desc = Resolver le altere tu violationes sur { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Resolver violationes
     .title = Resolver violationes sur { -monitor-brand-short-name }
 
