@@ -32,6 +32,7 @@ menu =
     .title = Aperir menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar ab un altere navigator…
+about-logins-menu-menuitem-export-logins = Exportar credentiales…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Optiones
@@ -160,6 +161,9 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Remover iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
 about-logins-confirm-remove-dialog-confirm-button = Remover
+about-logins-confirm-export-dialog-title = Exportar credentiales e contrasignos
+about-logins-confirm-export-dialog-message = Tu contrasignos sera salvate como texto legibile (e.g., "P@ssw0rd123"), assi quicunque pote aperir le file exportate, pote vider los.
+about-logins-confirm-export-dialog-confirm-button = Exportar…
 confirm-discard-changes-dialog-title = Abandonar le modificationes non salvate?
 confirm-discard-changes-dialog-message = Tote le modificationes non salvate essera perdite.
 confirm-discard-changes-dialog-confirm-button = Abandonar
@@ -195,6 +199,8 @@ about-logins-error-message-default = Un error occurreva durante le tentativa de 
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Exportar file de credentiales
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = credenziales.csv
