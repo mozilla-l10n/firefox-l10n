@@ -26,3 +26,8 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Notificar sobre nuevas funciones
+    .accesskey = f
