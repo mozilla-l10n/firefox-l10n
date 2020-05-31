@@ -20,6 +20,13 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Kumoa välilehden sulkeminen
     .accesskey = m
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Kumoa välilehden sulkeminen
+           *[other] Kumoa välilehtien sulkeminen
+        }
+    .accesskey = u
 toolbar-context-menu-manage-extension =
     .label = Hallitse laajennusta
     .accesskey = a
