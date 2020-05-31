@@ -317,8 +317,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Использовать { $plugin-name } (в { -brand-short-name })
-applications-preview-inapp =
-    .label = Предпросмотр в { -brand-short-name }
 applications-open-inapp =
     .label = Открыть в { -brand-short-name }
 
@@ -332,8 +330,6 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
 applications-always-ask-label =
@@ -500,11 +496,16 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Топ сайтов
 home-prefs-topsites-description = Сайты, которые вы чаще всего посещаете
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Рекомендовано { $provider }
 home-prefs-recommended-by-description = Отличный контент со всего Интернета, отобранный по вашему вкусу
+
+##
+
 home-prefs-recommended-by-learn-more = Как это работает
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Статьи спонсоров
@@ -566,6 +567,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Отображать поисковые предложения в Приватных окнах
 suggestions-addressbar-settings = Изменить настройки предложений из журнала посещений, закладок и вкладок
+suggestions-addressbar-settings-generic = Изменить настройки для других предложений для адресной строки
 search-suggestions-cant-show = При использовании панели адреса поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
 search-one-click-header = Поиск одним щелчком
 search-one-click-desc = Выберите альтернативные поисковые системы, которые появятся под панелью адреса и панелью поиска, когда вы начнёте вводить ключевое слово.
@@ -769,10 +771,10 @@ privacy-header = Приватность браузера
 
 ## Privacy Section - Forms
 
+logins-header = Логины и пароли
 
 ## Privacy Section - Logins and Passwords
 
-logins-header = Логины и пароли
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Логины и пароли
     .searchkeywords = { -lockwise-brand-short-name }
@@ -808,8 +810,6 @@ forms-master-pw-fips-desc = Смена пароля не удалась
 
 ## OS Authentication dialog
 
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Подтвердите свою личность для создания мастер-пароля.
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Чтобы создать мастер-пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen by trying to add a Master Password.
@@ -920,6 +920,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = из открытых вкладок
     .accesskey = к
+addressbar-locbar-topsites-option =
+    .label = Топ сайтов
+    .accesskey = й
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 
 ## Privacy Section - Content Blocking
@@ -979,7 +982,6 @@ content-blocking-fingerprinters = Сборщики цифровых отпеча
 content-blocking-warning-title = Осторожно!
 content-blocking-warning-description = Блокировка содержимого может вызывать проблемы с некоторыми веб-сайтами. Можно легко отключить блокировку для сайтов, которым вы доверяете.
 content-blocking-learn-how = Подробнее
-content-blocking-etp-warning-description = Блокировка трекеров может нарушить работу некоторых сайтов. Перезагрузите страницу с трекерами, чтобы загрузить все содержимое.
 content-blocking-and-isolating-etp-warning-description = Блокировка трекеров и изоляция куков может нарушить работу некоторых сайтов. Перезагрузите страницу с трекерами, чтобы загрузить все содержимое.
 content-blocking-warning-learn-how = Подробнее
 content-blocking-reload-description = Вам понадобится обновить свои вкладки, чтобы применить эти изменения.

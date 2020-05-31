@@ -63,6 +63,7 @@ policy-ExtensionSettings = Управляет всеми аспектами ус
 policy-ExtensionUpdate = Включает или отключает автоматические обновления расширений.
 policy-FirefoxHome = Настраивает домашнюю страницу Firefox.
 policy-FlashPlugin = Разрешает или запрещает использование плагина Flash.
+policy-Handlers = Настраивает обработчики приложений по умолчанию.
 policy-HardwareAcceleration = Отключает аппаратное ускорение, если установлена в false.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Устанавливает домашнюю страницу и, по желанию, блокирует её смену.
