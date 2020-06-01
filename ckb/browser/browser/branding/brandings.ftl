@@ -10,10 +10,10 @@
 ## - Translated.
 
 -facebook-container-brand-name = لەخۆگری فەیسبووک
--lockwise-brand-name = فایەرفۆکسی لوکوایز
+-lockwise-brand-name = Firefox Lockwise
 -lockwise-brand-short-name = لوکوایز
--monitor-brand-name = فایەرفۆکس چاودێری
+-monitor-brand-name = Firefox Monitor
 -monitor-brand-short-name = چاودێری
 -pocket-brand-name = گیرفان
--send-brand-name = فایەرفۆکس ناردن
--screenshots-brand-name = فایەرفۆکسی وێنەی شاشە
+-send-brand-name = Firefox Send
+-screenshots-brand-name = Firefox Screenshots

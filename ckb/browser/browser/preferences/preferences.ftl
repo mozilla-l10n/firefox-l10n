@@ -388,7 +388,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = پەڕەی سەرەکی فایەرفۆکس (بنەڕەت)
+    .label = پەڕەی سەرەکی Firefox (بنەڕەت)
 home-mode-choice-custom =
     .label = بەستەری خوازراو...
 home-mode-choice-blank =
@@ -413,18 +413,23 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = ناوەڕۆکی سەرەکی فایەرفۆکس
-home-prefs-content-description = هەڵیبژێرە کە چ ناوەڕۆکێک دەربکەوێت لە پەڕەی سەرەکی فایەرفۆکس.
+home-prefs-content-header = ناوەڕۆکی سەرەکی Firefox
+home-prefs-content-description = هەڵیبژێرە کە چ ناوەڕۆکێک دەربکەوێت لە پەڕەی سەرەکی Firefox.
 home-prefs-search-header =
     .label = گەڕانی وێب
 home-prefs-topsites-header =
     .label = ماڵپەڕە سەرەکییەکان
 home-prefs-topsites-description = ئەو ماڵپەڕانەی زۆرترین سەردانت کردوون
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = پێشنیازکراوە لە لایەن { $provider }
 home-prefs-recommended-by-description = ناوەڕۆکێکی گرنگ لە وێب، تایبەتکراوە بۆ تۆ
+
+##
+
 home-prefs-recommended-by-learn-more = چۆن کار دەکات
 home-prefs-recommended-by-option-sponsored-stories =
     .label = چیرۆکی سپۆنسەرکراو
@@ -550,7 +555,7 @@ sync-signedout-account-signin2 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = فایەرفۆکس دابگرە بۆ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ئەندرۆید</a> یان <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> بۆ ئەوەی هاوکاتگەری پێبکەیت لەگەڵ مۆبایلەکانت.
+sync-mobile-promo = Firefox دابگرە بۆ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ئەندرۆید</a> یان <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> بۆ ئەوەی هاوکاتگەری پێبکەیت لەگەڵ مۆبایلەکانت.
 
 ## Sync Section - Signed in
 

@@ -31,7 +31,7 @@
 <!ENTITY importFromChromeDev.accesskey  "D">
 <!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromChromium.accesskey   "u">
-<!ENTITY importFromFirefox.label        "فایەرفۆکس">
+<!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFrom360se.label          "وێبگەڕی پارێزراوی ٣٦٠">
 <!ENTITY importFrom360se.accesskey      "3">

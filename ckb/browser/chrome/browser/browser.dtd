@@ -136,7 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "فایەرفۆکس لەگەڵ خۆت ببە">
+<!ENTITY fxa.signin.callout.label "Firefox لەگەڵ خۆت ببە">
 <!ENTITY fxa.signin.description.label "هەموو دڵخوازەکان، مێژوو، وشەی تێپەڕبوون و ڕێکخستنەکانی تر بۆ هەمووو ئامێرەکانت.">
 <!ENTITY fxa.signin.button.label "کاراکردنی &syncBrand.shortName.label;...">
 
@@ -276,9 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "تۆ ئاگانامەکانت بۆ ئەم ماڵپەڕە بلۆک کرد.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "تۆ بیرگەی هەمیشەییت بۆ ئەم ماڵپەڕە بلۆک کردووە.">
 
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "پیشاندانی مێژوو">
+
 
 
 <!ENTITY searchItem.title             "گەڕان">
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "پەڕگە">
 <!ENTITY fileMenu.accesskey       "F">
-
 <!ENTITY newUserContext.label             "بازدەری لەخۆگری نوێ">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "ڕێکخستنی لەخۆگرەکان">
@@ -393,6 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "دڵخوازکردن…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "دڵخوازکردنی توڵامراز...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
@@ -450,7 +449,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "زیادی بکە بۆ توڵامراز">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
@@ -828,7 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "ئەم پەڕەیە &brandShortName; پارێزراوە.">
 <!ENTITY identity.extensionPage "ئەم پەڕەیە بارکراوە لە پێوەکراوێکەوە.">
 <!ENTITY identity.insecureLoginForms2 "چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.">
-<!ENTITY identity.customRoot "پەیوەندی سەلمێنراوە لە لایەنێکەوە کە نەناسراوە لە لایەن مۆزیلاوە.">
+<!ENTITY identity.customRoot "پەیوەندی سەلمێنراوە لە لایەنێکەوە کە نەناسراوە لە لایەن Mozillaوە.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; چەند بەشێکی ئەم پەڕەی بلۆک کردووە چونکە پارێزراو نیە.">
@@ -856,44 +855,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "لەوانیە پێویست بێت پەڕەکە نوێبکەیتەوە بۆ جێبەجێکردنی گۆڕانکارییەکان.">
 <!ENTITY identity.permissionsPreferences.tooltip "هەڵبژاردنەکانی ڕێگەپێدان بکەرەوە">
 <!ENTITY identity.contentBlockingPreferences.tooltip "هەڵبژاردنەکانی بلۆککردنی ناوەڕۆک بکەرەوە">
-
-
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.settings.label "ڕێکخستنەکانی پارێزگاری">
-<!ENTITY protections.showreport.label "ڕاپۆرت پیشان بدە">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "ماڵپەڕ کار ناکات؟">
-<!ENTITY protections.siteNotWorkingView.title "ماڵپەڕ کار ناکات؟">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "پارێزگاری بکوژێنەوە ئەگەر کێشەت هەیە لەگەڵ:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "بواری چوونەژوورەوە">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "فۆرمەکان">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "پارەدان">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "لێدوانەکان">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "ڤیدیۆکان">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "ڕاپۆرت بنێرە">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "بلۆککراوە">
-<!ENTITY protections.notBlocking2.label "ڕێگەپێدراوە">
-<!ENTITY protections.notFound.label "هیچ نەدۆزرایەوە">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "بۆچی؟">
-<!ENTITY protections.noTrackersFound.description "هیچ چاودێریکەرێکی ناسراو لە &brandShortName; نەدۆزرایەوە لەم پەرەیە">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -940,13 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "شەکرۆکە">
 <!ENTITY contentBlocking.cookiesView.label "شەکرۆکە و زانیاری ماڵپەڕ">
 
-<!ENTITY contentBlocking.trackingProtection4.label "چاودێریکردنی ناوەڕۆک">
-
-<!ENTITY contentBlocking.manageSettings2.label "بەڕێوەبردنی ڕێکخستنەکانی پارێزگاری">
-<!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
-<!ENTITY contentBlocking.socialblock.label "چاودێریکردنی تۆڕی کۆمەڵایەتی">
-
 
 <!ENTITY contentBlocking.fingerprinters.label "پەنجە مۆرەکان">
 <!ENTITY contentBlocking.fingerprintersView.label "پەنجە مۆرەکان">
@@ -954,12 +908,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.openBreakageReportView2.label "کێشە بنێرە">
 <!ENTITY contentBlocking.breakageReportView.label "کێشە بنێرە">
 <!ENTITY contentBlocking.breakageReportView.learnMore "زیاتر بزانە">
-
-<!ENTITY contentBlocking.breakageReportView.title "ماڵپەڕێکی لەکارکەوتوو ڕاپۆرت بکە">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "زیاتر بزانە">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "بەستەر">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "چی کێشەیەکت هەیە؟ (دڵخوازییە)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "دڵخوازییە: کێشەکە باس بکە">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ڕاپۆرت بنێرە">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "پاشگەزبوونەوە">
 
@@ -1008,7 +958,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.label "پێوەکراو ناچالاک بکە">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
-
 
 <!ENTITY homepageControlled.header.message "پەڕەی سەرەکیت گۆڕانکاری بەسەرهات.">
 <!ENTITY homepageControlled.keepButton.label "گۆڕانکارییەکان بهێڵەوە">

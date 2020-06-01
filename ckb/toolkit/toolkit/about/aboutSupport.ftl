@@ -56,7 +56,7 @@ app-basics-profiles = پرۆفایلەکان
 app-basics-enterprise-policies = سیاسەتی ئابوری
 app-basics-location-service-key-google = کلیلی خزمەتگوزاری شوێنی گووگڵ
 app-basics-safebrowsing-key-google = کلیلی گەڕانی پارێزراوی گووگڵ
-app-basics-key-mozilla = کلیلی خزمەتگوزاری شوێنی مۆزیلا
+app-basics-key-mozilla = کلیلی خزمەتگوزاری شوێنی Mozilla
 app-basics-safe-mode = دۆخی پارێزراو
 show-dir-label =
     { PLATFORM() ->

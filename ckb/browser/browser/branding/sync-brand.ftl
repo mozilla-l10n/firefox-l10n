@@ -3,11 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -sync-brand-short-name = هاوکاتگەری
-
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = فایەرفۆکس هاوکاتگەری
-
+-sync-brand-name = Firefox Sync
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = هەژماری فایەرفۆکس
+-fxaccount-brand-name = هەژماری Firefox

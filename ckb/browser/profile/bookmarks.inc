@@ -19,7 +19,7 @@
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
-#define firefox_heading مۆزیلا فایەرفۆکس
+#define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
@@ -27,7 +27,7 @@
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
-#define firefox_customize فایەرفۆکس بەخواستی خۆت
+#define firefox_customize Firefox بەخواستی خۆت
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
@@ -39,19 +39,19 @@
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
-#define nightly_heading سەرچاوەی فایەرفۆکسی شەوانەیی
+#define nightly_heading سەرچاوەی Firefoxی شەوانەیی
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
-#define nightly_blog بڵاگی فایەرفۆکسی شەوانەیی
+#define nightly_blog بڵاگی Firefoxی شەوانەیی
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-#define bugzilla شوێنکەوتەی کەلێنی مۆزیلا
+#define bugzilla شوێنکەوتەی کەلێنی Mozilla
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
-#define mdn ڕایەڵەی گەشەپێدەرانی مۆزیلا
+#define mdn ڕایەڵەی گەشەپێدەرانی Mozilla
 
 # LOCALIZATION NOTE (nightly_tester_tools):
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
@@ -67,6 +67,6 @@
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
-#define planet هەسارەی مۆزیلا
+#define planet هەسارەی Mozilla
 
 #unfilter emptyLines

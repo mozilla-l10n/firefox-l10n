@@ -54,7 +54,7 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = پرۆکسی نیە بۆ
     .accesskey = پ
-connection-proxy-noproxy-desc = نموونە: mozilla.org, .net.nz, 192.168.1.0/24
+connection-proxy-noproxy-desc = نموونە: Mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
 connection-proxy-noproxy-localhost-desc = پەیوەندی کردن بە ڕاژەی ناوخۆیی، 127.0.0.1 ،و ::1 هەرگیز پرۆکسی نەکراون.
 connection-proxy-autotype =
