@@ -14,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Quelltext von: ">
 
+<!ENTITY editMenu.label "Bearbeiten">
+<!ENTITY editMenu.accesskey "B">
 <!ENTITY fileMenu.label "Datei">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY savePageCmd.label "Speichern unter…">
