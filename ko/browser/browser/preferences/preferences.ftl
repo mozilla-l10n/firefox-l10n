@@ -1135,8 +1135,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } 디스크 용량이 부족합니다. 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 옵션 > 개인정보와 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
-       *[other] { -brand-short-name } 디스크 용량이 부족합니다. 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인정보와 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
+        [windows] { -brand-short-name } 디스크 용량이 부족합니다. 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인 정보 및 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
+       *[other] { -brand-short-name } 디스크 용량이 부족합니다. 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인 정보 및 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
     }
 space-alert-under-5gb-ok-button =
     .label = 확인
