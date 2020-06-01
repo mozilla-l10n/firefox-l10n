@@ -106,7 +106,7 @@ options-enable-remote-tooltip =
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Mba’epytyvõrã mba’apohára moheñói HTTP rupi (tembipuru ryru ijurujáramo)
 options-enable-service-workers-http-tooltip =
-    .title = Emyandývo ko poravopyrã omoneĩta mba'apoharakuéra mba'epytyvõrãva HTTP rupi opavave tenda'ípe g̃uarã oguerekóva tembipuru ryru ijurujáva.
+    .title = Emyandývo ko poravopyrã omoneĩta mba’apoharakuéra mba’epytyvõrãva HTTP rupi opavave tenda’ípe g̃uarã oguerekóva tembipuru ryru ijurujáva.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Embojuruja yvyra'ãnga ypýva
 options-source-maps-tooltip =
@@ -115,6 +115,6 @@ options-source-maps-tooltip =
 options-context-triggers-page-refresh = * Tembiapo ag̃agua añónte, emyenyhẽjey kuatiarogue
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Mba'ekuaarã jehechauka Gecko rehegua
+options-show-platform-data-label = Mba’ekuaarã jehechauka Gecko rehegua
 options-show-platform-data-tooltip =
     .title = Remyandývo poravopyrã marandu ñehesa'ỹijoha JavaScript omoingéta ta'ãnga'i Gecko rehegua
