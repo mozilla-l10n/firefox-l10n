@@ -6,15 +6,30 @@
 
 <!ENTITY menu_securityEncryptRequire.label "Nachricht verschlüsseln">
 
+<!ENTITY menu_securityDoNotEncrypt.label "Nicht verschlüsseln">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "N">
+
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "v">
+<!ENTITY menu_securityEncryptRequire2.label "Verschlüsselung verlangen">
+<!ENTITY menu_securityEncryptRequire.accesskey "V">
 
 <!ENTITY menu_securitySign.label "Nachricht unterschreiben">
 <!ENTITY menu_securitySign.accesskey "u">
+
+<!ENTITY menu_securityAttachMyKey.label "Meinen öffentlichen Schlüssel anhängen">
+<!ENTITY menu_securityAttachMyKey.accesskey "a">
+
+<!ENTITY menu_securityTech.label "Verschlüsselungs-Technologie">
+<!ENTITY menu_securityTech.accesskey "T">
+
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Sicherheitsinformationen anzeigen">
 <!ENTITY menu_securityStatus.accesskey "i">

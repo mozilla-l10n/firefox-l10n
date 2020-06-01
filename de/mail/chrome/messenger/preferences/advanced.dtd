@@ -123,3 +123,7 @@
 <!ENTITY viewSecurityDevices.label      "Kryptographie-Module verwalten…">
 <!ENTITY viewSecurityDevices.accesskey  "K">
 
+<!ENTITY manageCertificates2.label "Zertifikate verwalten…">
+<!ENTITY manageCertificates2.accesskey "Z">
+<!ENTITY viewSecurityDevices2.label "Kryptographie-Module verwalten…">
+<!ENTITY viewSecurityDevices2.accesskey "K">

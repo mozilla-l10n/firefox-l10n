@@ -8,6 +8,8 @@
 
 <!ENTITY accountManagerTitle.label "Konten-Einstellungen">
 
+<!ENTITY  accountManagerCloseButton.label "Schließen">
+
 <!ENTITY accountActionsButton.label "Konten-Aktionen">
 <!ENTITY accountActionsButton.accesskey "K">
 <!ENTITY addMailAccountButton.label "E-Mail-Konto hinzufügen…">

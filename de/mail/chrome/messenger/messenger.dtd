@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "N">
 <!ENTITY  newContactCmd.label "Adressbuchkontakt…">
 <!ENTITY  newContactCmd.accesskey "k">
+<!ENTITY openMenuCmd.label "Öffnen">
+<!ENTITY openMenuCmd.accesskey "Ö">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY saveAsMenu.label "Speichern als">
@@ -287,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Nachrichten suchen…">
 <!ENTITY searchMailCmd.accesskey "N">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Globale Suche…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Adressen suchen…">
 <!ENTITY searchAddressesCmd.accesskey "A">
 
@@ -586,6 +590,7 @@
 <!ENTITY fileButton.tooltip "Gewählte Nachricht(en) ablegen">
 <!ENTITY archiveButton.tooltip "Gewählte Nachricht(en) archivieren">
 <!ENTITY openConversationButton.tooltip "Themenbaum der Nachricht anzeigen">
+<!ENTITY openMsgConversationButton.tooltip "Konversation für ausgewählte Nachrichten anzeigen">
 <!ENTITY nextButton.tooltip "Gehe zur nächsten ungelesenen Nachricht">
 <!ENTITY nextMsgButton.tooltip "Gehe zur nächsten Nachricht">
 <!ENTITY previousButton.tooltip "Gehe zur vorherigen ungelesenen Nachricht">
@@ -705,6 +710,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Als virtuellen Ordner speichern…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Nachrichten auswählen">
 <!ENTITY threadColumn.label "Thema">
 <!ENTITY fromColumn.label "Von">
 <!ENTITY recipientColumn.label "Empfänger">
@@ -726,8 +732,11 @@
 <!ENTITY idColumn.label "Eingangsreihenfolge">
 <!ENTITY attachmentColumn.label "Anhänge">
 
+<!ENTITY deleteColumn.label "Löschen">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Anzuzeigende Spalten auswählen">
+<!ENTITY selectColumn.tooltip "Auswahl der angezeigten Nachrichten umschalten">
 <!ENTITY threadColumn2.tooltip "Themenbäume anzeigen">
 <!ENTITY fromColumn2.tooltip "Nach Von sortieren">
 <!ENTITY recipientColumn2.tooltip "Nach Empfänger sortieren">
@@ -748,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Nach Ablageort sortieren">
 <!ENTITY idColumn2.tooltip "Nach Eingangsreihenfolge sortieren">
 <!ENTITY attachmentColumn2.tooltip "Nach Anhängen sortieren">
+
+<!ENTITY deleteColumn.tooltip "Nachricht löschen">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Neue Nachricht aus Vorlage">
@@ -972,3 +983,6 @@
 <!ENTITY writeNewMessageDock.label      "Neue Nachricht verfassen">
 <!ENTITY openAddressBookDock.label      "Adressbuch öffnen">
 
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Eine Seite vor">
+<!ENTITY browseForwardButton.tooltip "Eine Seite zurück">

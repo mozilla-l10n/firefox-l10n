@@ -164,6 +164,7 @@
 <!ENTITY deleteButton2.accesskey                        "ö">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Anzuzeigende Spalten auswählen">
 <!ENTITY newContactButton.tooltip                       "Neuen Kontakt erstellen">
 <!ENTITY newlistButton.tooltip                          "Neue Verteilerliste erstellen">
 <!ENTITY editPropertiesButton.tooltip                   "Gewählten Eintrag bearbeiten">

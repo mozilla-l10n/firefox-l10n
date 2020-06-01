@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Anhänge">
 <!ENTITY panePrivacy.title        "Datenschutz">
 <!ENTITY paneSecurity.title       "Sicherheit">
+<!ENTITY panePrivacySecurity.title "Datenschutz &amp; Sicherheit">
 <!ENTITY paneLightning.title      "Kalender">
 <!ENTITY paneAdvanced.title       "Erweitert">
 <!ENTITY paneAccount.title        "Konten">
