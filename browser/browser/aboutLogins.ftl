@@ -32,6 +32,7 @@ menu =
     .title = Meni wočinić
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Z druheho wobhladowaka importować…
+about-logins-menu-menuitem-export-logins = Přizjewjenja eksportować…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Nastajenja
@@ -162,6 +163,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Tute přizjewjenje wotstronić?
 confirm-delete-dialog-message = Tuta akcija njeda so cofnyć.
 about-logins-confirm-remove-dialog-confirm-button = Wotstronić
+about-logins-confirm-export-dialog-title = Přizjewjenja a hesła eksportować
 about-logins-confirm-export-dialog-confirm-button = Eksportować…
 confirm-discard-changes-dialog-title = Njeskładowane změny zaćisnyć?
 confirm-discard-changes-dialog-message = Wšě njeskładowane změny so zhubja.
@@ -198,6 +200,8 @@ about-logins-error-message-default = Při pospyće tute hesło składować, je z
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Dataju přizjewjenjow eksportować
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
