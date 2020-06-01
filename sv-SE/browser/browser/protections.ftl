@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] Kända dataintrång har avslöjat din information
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Känt dataintrång markerade som lösta
+       *[other] Kända dataintrång markerade som lösta
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -164,6 +172,14 @@ password-warning =
         [one] Lagrat lösenord kan ha avslöjats i ett intrång. Ändra detta lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
        *[other] Lagrade lösenord kan ha avslöjats i ett intrång. Ändra dessa lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Lösenord exponerade i olösta intrång
+       *[other] Lösenord exponerade i flera olösta intrång
+    }
 monitor-no-breaches-title = Goda nyheter!
 monitor-no-breaches-description = Du har inga kända intrång. Om det ändras, kommer vi att meddela dig.
 monitor-view-report-link = Visa rapport
@@ -171,12 +187,23 @@ monitor-view-report-link = Visa rapport
 monitor-breaches-unresolved-title = Lös dina intrång
 monitor-manage-breaches-link = Hantera intrång
     .title = Hantera intrång på { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Trevligt! Du har löst alla kända intrång.
+monitor-breaches-resolved-description = Om din e-postadress dyker upp i några nya kända intrång, kommer vi att meddela dig.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } av { $numBreaches } intrång markerade som lösta
+       *[other] { $numBreachesResolved } av { $numBreaches } av flera intrång markerade som lösta
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% färdig
 monitor-partial-breaches-motivation-title-start = Bra start!
 monitor-partial-breaches-motivation-title-middle = Fortsätt så!
 monitor-partial-breaches-motivation-title-end = Nästan klar! Fortsätt så.
+monitor-partial-breaches-motivation-description = Lös resten av dina intrång på { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Lös intrång
     .title = Lös intrång på { -monitor-brand-short-name }
 

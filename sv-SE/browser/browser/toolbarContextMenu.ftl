@@ -20,6 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Ångra flikstängning
     .accesskey = g
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ångra Stäng flik
+            [one] Ångra Stäng flik
+           *[other] Ångra Stäng flikar
+        }
+    .accesskey = U
 toolbar-context-menu-manage-extension =
     .label = Hantera tillägg
     .accesskey = E
