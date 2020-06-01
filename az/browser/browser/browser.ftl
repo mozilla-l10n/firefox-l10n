@@ -69,6 +69,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Mesaj panelini aç
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Mövqe sorğusu panelini aç
+urlbar-xr-notification-anchor =
+    .tooltiptext = Virtual reallıq icazəsi panelini aç
 urlbar-storage-access-anchor =
     .tooltiptext = Səyyah aktivliyi icazə panelini aç
 urlbar-translate-notification-anchor =
@@ -93,6 +95,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Əlavə quraşdırma mesaj panelini aç
 urlbar-tip-help-icon =
     .title = Köməl alın
+urlbar-search-tips-confirm = Tamam, başa düşdüm
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Məsləhət:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
