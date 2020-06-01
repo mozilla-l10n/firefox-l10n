@@ -164,6 +164,16 @@ info-known-breaches-found =
        *[other] Znate datowe dźěry su waše informacije přeradźili
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] znata datowa dźěra je so jako rozrisana markěrowała
+        [two] znatej datowej dźěrje stej so jako rozrisanej markěrowałoj
+        [few] znate datowe dźěry su so jako rozrisane markěrowali
+       *[other] znatych datowych dźěrow je so jako rozrisane markěrowało
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
