@@ -225,7 +225,7 @@ menu-preferences =
            *[other] n
         }
 menu-tools-layout-debugger =
-    .label = Moha'ãnga mopotĩha
+    .label = Moha’ãnga mopotĩha
     .accesskey = L
 
 ## Window Menu
@@ -270,5 +270,5 @@ menu-help-report-deceptive-site =
     .label = Emombe’u ñandutirenda ivaiha...
     .accesskey = d
 menu-help-not-deceptive =
-    .label = Kóva ndaha'éi tenda ombotavyséva…
+    .label = Kóva ndaha’éi tenda ombotavyséva…
     .accesskey = d

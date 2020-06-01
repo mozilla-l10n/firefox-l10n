@@ -15,7 +15,7 @@ psmerr-ssl2-disabled = Ndaikatúi eikekatu pe tenda oipuru rupi peteĩchagua itu
 psmerr-hostreusedissuerandserial =
     Og̃uahẽ ndéve peteĩ mboajepyre ndoikóiva. Eñe’ẽ pe me’ẽhára ndive térã ñanduti veve kundaharape mohendahavusu rehegua ha embohasa chupe marandu:
     
-    Nemboajepyre oguereko peteĩchaguaite papapy syryrýva pe ambue mboajepyre oguenohẽva moakãhára omboajepyrekuaáva. Eñeha'ã eguereko mboajepyre pyahu ipapapy syryry ha’eñoitéva.
+    Nemboajepyre oguereko peteĩchaguaite papapy syryrýva pe ambue mboajepyre oguenohẽva moakãhára omboajepyrekuaáva. Eñeha’ã eguereko mboajepyre pyahu ipapapy syryry ha’eñoitéva.
 ssl-error-export-only-server = Ndaikatúi oñemongeta jeroviaitépe. Avei nomoneĩri mbopapapy ijyvatetereíva.
 ssl-error-us-only-server = Ndaikatúi oñomongeta jeroviápe. Peer oikotevẽ mbopapapy tuicháva rehegua ndojogueraháiva.
 ssl-error-no-cypher-overlap = Ndaikatúi eñemomarandu jeroviápe ambuéva ndive: ndaipóri algoritmo ipapapýva opavaveguáva.
@@ -73,7 +73,7 @@ ssl-error-rx-unknown-record-type = SSL-pe og̃uahẽ peteĩ jehaipy peteĩchagua
 ssl-error-rx-unknown-handshake = SSL-pe og̃uahẽ peteĩ jehaipy ñomongetarãva peteĩchagua tetepy ojekuaa’ỹva ndive.
 ssl-error-rx-unknown-alert = SSL-pe og̃uahẽ peteĩ jehaipy jesarekorãva pe jesarekorã myesakãha ojekuaa’ỹva ndive.
 ssl-error-close-notify-alert = Pe ambue SSL jeikekatu apýra ombotýma ko jeikekatu.
-ssl-error-handshake-unexpected-alert = Pe ambue SSL jeikekatu apýra noha'arõi peteĩ jehaipy ñomongetarãva og̃uahẽva chupe.
+ssl-error-handshake-unexpected-alert = Pe ambue SSL jeikekatu apýra noha’arõi peteĩ jehaipy ñomongetarãva og̃uahẽva chupe.
 ssl-error-decompression-failure-alert = Pe ambue SSL jeikekatu apýra ndaikatúi omomichĩ hekoitépe peteĩ SSL jehaipy og̃uahẽva chupe.
 ssl-error-handshake-failure-alert = Ambue SSL jeikekatu apýra ndaikatúi ombohekoporã aty rehegua moneĩmbýva tekorosã mba’aporã.
 ssl-error-illegal-parameter-alert = Pe ambue SSL jeikekatu apýra omboguevijey peteĩ ñe’ẽmondo ñomongetarãva tetepy oñemoneĩ’ỹva rupi.
