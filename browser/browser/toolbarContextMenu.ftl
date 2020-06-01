@@ -20,6 +20,16 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Začinjeny rajtark wobnowić
     .accesskey = b
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Začinjeny rajtark wočinić
+            [one] Začinjeny rajtark wočinić
+            [two] Začinjenej rajtarkaj wočinić
+            [few] Začinjene rajtarki wočinić
+           *[other] Začinjene rajtarki wočinić
+        }
+    .accesskey = Z
 toolbar-context-menu-manage-extension =
     .label = Rozšěrjenje rjadować
     .accesskey = R
