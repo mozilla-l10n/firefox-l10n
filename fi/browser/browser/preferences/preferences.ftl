@@ -916,8 +916,8 @@ addressbar-locbar-openpage-option =
     .label = avoimista välilehdistä
     .accesskey = a
 addressbar-locbar-topsites-option =
-    .label = Ykkössivustot
-    .accesskey = Y
+    .label = ykkössivustoista
+    .accesskey = y
 addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 
 ## Privacy Section - Content Blocking
