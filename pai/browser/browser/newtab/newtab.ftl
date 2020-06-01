@@ -8,6 +8,10 @@
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = Ŕmee
+    .aria-label = Ŕmee
 
 ## Top Sites - General form dialog.
 
@@ -24,6 +28,7 @@ newtab-topsites-url-label = URL
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-dismiss = Nmak
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

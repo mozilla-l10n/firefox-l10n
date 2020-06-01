@@ -16,6 +16,9 @@ onboarding-button-label-learn-more = Terabum Ŕpo
 
 ## Welcome modal dialog strings
 
+onboarding-cards-dismiss =
+    .title = Nmak
+    .aria-label = Nmak
 
 ## Welcome full page string
 
