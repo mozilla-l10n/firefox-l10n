@@ -24,11 +24,11 @@ graph-week-summary-private-window = 이번 주에 { -brand-short-name }가 차�
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
 protection-report-header-details-standard = 보호 수준이 <b>표준</b>으로 설정되었습니다
-    .title = 개인정보 보호 설정으로 이동
+    .title = 개인 정보 설정으로 이동
 protection-report-header-details-strict = 보호 수준이 <b>엄격</b>으로 설정되었습니다
-    .title = 개인정보 보호 설정으로 이동
+    .title = 개인 정보 설정으로 이동
 protection-report-header-details-custom = 보호 수준이 <b>사용자 지정</b>으로 설정되었습니다
-    .title = 개인정보 보호 설정으로 이동
+    .title = 개인 정보 설정으로 이동
 protection-report-page-title = 개인 정보 보호
 protection-report-content-title = 개인 정보 보호
 etp-card-title = 향상된 추적 방지 기능
