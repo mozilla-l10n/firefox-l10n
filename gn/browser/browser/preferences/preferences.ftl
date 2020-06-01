@@ -916,6 +916,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Tendayke ijurujáva
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = Tenda jehayhuvéva
+    .accesskey = T
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
 
 ## Privacy Section - Content Blocking

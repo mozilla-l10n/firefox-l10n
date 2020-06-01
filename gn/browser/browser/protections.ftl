@@ -158,6 +158,11 @@ password-warning =
         [one] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
        *[other] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
     }
+monitor-no-breaches-title = ¡Marandu iporãva!
+monitor-view-report-link = Ehecha marandu’i
+    .title = Emoĩporã  ñembogua { -monitor-brand-short-name }-pe
+monitor-partial-breaches-motivation-title-start = ¡Ñepyrũ guasu!
+monitor-partial-breaches-motivation-title-middle = ¡Eku’e péicha!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
