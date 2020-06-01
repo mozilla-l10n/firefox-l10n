@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] Vazamentos conhecidos de dados expuseram suas informações
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Vazamento de dados conhecido marcado como resolvido
+       *[other] Vazamentos de dados conhecidos marcados como resolvidos
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -163,6 +171,14 @@ password-warning =
     { $count ->
         [one] Conta salva pode ter sido exposta em um vazamento de dados. Mude esta senha para melhor segurança online. <a data-l10n-name="lockwise-link">Ver contas salvas</a>
        *[other] Contas salvas podem ter sido expostas em um vazamento de dados. Mude estas senhas para melhor segurança online. <a data-l10n-name="lockwise-link">Ver contas salvas</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Senha exposta em vazamentos não resolvidos
+       *[other] Senhas expostas em vazamentos não resolvidos
     }
 monitor-no-breaches-title = Boas notícias!
 monitor-no-breaches-description = Você não tem vazamentos conhecidos. Se isso mudar, te avisaremos.
@@ -188,7 +204,7 @@ monitor-partial-breaches-percentage = { $percentageResolved }% concluído
 monitor-partial-breaches-motivation-title-start = Ótimo começo!
 monitor-partial-breaches-motivation-title-middle = Continue assim!
 monitor-partial-breaches-motivation-title-end = Falta pouco! Continue assim.
-monitor-partial-breaches-motivation-desc = Resolva o resto de seus vazamentos no { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = Resolva o resto de seus vazamentos no { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Resolver vazamentos
     .title = Resolver vazamentos no { -monitor-brand-short-name }
 
