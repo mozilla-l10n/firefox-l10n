@@ -59,6 +59,16 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Wjacore rajtarki začinić
     .accesskey = W
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Začinjeny rajtark wočinić
+            [one] Začinjeny rajtark wočinić
+            [two] Začinjenej rajtarkaj wočinić
+            [few] Začinjene rajtarki wočinić
+           *[other] Začinjene rajtarki wočinić
+        }
+    .accesskey = Z
 close-tab =
     .label = Rajtark začinić
     .accesskey = z
