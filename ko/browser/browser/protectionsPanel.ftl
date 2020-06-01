@@ -38,7 +38,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = 보호 기능이 꺼져 있
 
 ##
 
-protections-panel-no-trackers-found = 이 페이지에서 { -brand-short-name }에 알려진 추적기가 탐지되지 않았습니다.
+protections-panel-no-trackers-found = 이 페이지에서 { -brand-short-name }에 알려진 추적기가 감지되지 않았습니다.
 protections-panel-content-blocking-tracking-protection = 추적 콘텐츠
 protections-panel-content-blocking-socialblock = 소셜 미디어 추적기
 protections-panel-content-blocking-cryptominers-label = 크립토마이너
