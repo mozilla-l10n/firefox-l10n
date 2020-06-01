@@ -194,6 +194,16 @@ password-warning =
         [few] Składowane přizjewjenja su so w datowej dźěrje wotkryli. Změńće tute hesła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
        *[other] Składowane přizjewjenja su so w datowej dźěrje wotkryli. Změńće tute hesła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] hesło je so w njerozrisanych datowych dźěrach pokazało
+        [two] hesle stej so w njerozrisanych datowych dźěrach pokazałoj
+        [few] hesła su so w njerozrisanych datowych dźěrach pokazali
+       *[other] hesłow je so w njerozrisanych datowych dźěrach pokazało
+    }
 monitor-no-breaches-title = Dobre powěsće!
 monitor-no-breaches-description = Nimaće žane znate datowe dźěry. Jeli so to změni, zdźělimy wam to.
 monitor-view-report-link = Rozprawu pokazać
