@@ -56,6 +56,14 @@ move-to-new-window =
 undo-close-tab =
     .label = Reabrir aba
     .accesskey = b
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir aba
+            [one] Reabrir aba
+           *[other] Reabrir abas
+        }
+    .accesskey = b
 close-tab =
     .label = Fechar aba
     .accesskey = F
