@@ -20,7 +20,7 @@ styleeditor-media-rules = Ñemomarandu rape
 styleeditor-editor-textbox =
     .data-placeholder = Ehai CSS ápe.
 styleeditor-no-stylesheet = Ko kuatiarogue ndoguerekói kuatia.
-styleeditor-no-stylesheet-tip = Reipota mba'éramo<a data-l10n-name="append-new-stylesheet">Emoirũ peteĩ kuatia pyahu</a>?
+styleeditor-no-stylesheet-tip = Reipota mba’éramo<a data-l10n-name="append-new-stylesheet">Emoirũ peteĩ kuatia pyahu</a>?
 styleeditor-open-link-new-tab =
     .label = Tendayke pyahu joajuhápe jeike
 styleeditor-copy-url =
