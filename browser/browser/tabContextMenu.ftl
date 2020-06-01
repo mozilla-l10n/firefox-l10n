@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Lapbezárás visszavonása
     .accesskey = v
+tab-context-close-multiple-tabs =
+    .label = Több lap bezárása
+    .accesskey = T
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Lapbezárás visszavonása
+            [one] Lapbezárás visszavonása
+           *[other] Lapbezárások visszavonása
+        }
+    .accesskey = L
 close-tab =
     .label = Lap bezárása
     .accesskey = b

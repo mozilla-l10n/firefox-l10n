@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] Ismert adatsértésben kerültek ki az információi
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Megoldottként megjelölt adatsértés
+       *[other] Megoldottként megjelölt adatsértések
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -163,6 +171,14 @@ password-warning =
     { $count ->
         [one] A mentett bejelentkezés lehet, hogy kikerült egy adatsértésben. Módosítsa a jelszavát a nagyobb online biztonság érdekében. <a data-l10n-name="lockwise-link">Mentett bejelentkezések megtekintése</a>
        *[other] A mentett bejelentkezések lehet, hogy kikerültek egy adatsértésben. Módosítsa a jelszavakat a nagyobb online biztonság érdekében. <a data-l10n-name="lockwise-link">Mentett bejelentkezések megtekintése</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Megoldatlan adatsértésekben kikerült jelszó
+       *[other] Megoldatlan adatsértésekben kikerült jelszavak
     }
 monitor-no-breaches-title = Jó hírek!
 monitor-no-breaches-description = Nincs ismert adatsértés. Ha ez megváltozik, tájékoztatni fogjuk.
@@ -187,7 +203,7 @@ monitor-partial-breaches-percentage = { $percentageResolved }% kész
 monitor-partial-breaches-motivation-title-start = Nagyszerű kezdés!
 monitor-partial-breaches-motivation-title-middle = Csak így tovább!
 monitor-partial-breaches-motivation-title-end = Majdnem kész! Csak így tovább.
-monitor-partial-breaches-motivation-desc = Oldja meg a többi adatsértését a { -monitor-brand-short-name }on
+monitor-partial-breaches-motivation-description = Oldja meg a többi adatsértését a { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Adatsértések megoldása
     .title = Adatsértések megoldása a { -monitor-brand-short-name }on
 
