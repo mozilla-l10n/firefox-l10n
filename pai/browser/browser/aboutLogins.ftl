@@ -43,11 +43,11 @@
 
 ## Breach Alert notification
 
-about-logins-breach-alert-learn-more-link = Terabum Ŕpo
+about-logins-breach-alert-learn-more-link = Terabum ŕpo
 
 ## Vulnerable Password notification
 
-about-logins-vulnerable-alert-learn-more-link = Terabum Ŕpo
+about-logins-vulnerable-alert-learn-more-link = Terabum ŕpo
 
 ## Error Messages
 
