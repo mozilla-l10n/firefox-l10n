@@ -13,12 +13,12 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
-<!ENTITY performanceUI.bufferStatusTooltip "Pe mba'etee moheñoiha ombyaty jehechaukarã peteĩ búfer ojerévape, ha pe mandu'arenda mbyteguáva ohupytývo hu'ãite oñeñongatuete hag̃ua, umi jehechaukarã oñepyrũ ohaijo'a jehechaukarã pyahu ñongatuete ñepyrũguávape.">
+<!ENTITY performanceUI.bufferStatusTooltip "Pe mba’etee moheñoiha ombyaty jehechaukarã peteĩ búfer ojerévape, ha pe mandu’arenda mbyteguáva ohupytývo hu’ãite oñeñongatuete hag̃ua, umi jehechaukarã oñepyrũ ohaijo’a jehechaukarã pyahu ñongatuete ñepyrũguávape.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "Embojuruja Firefox rembiapoita pe jerohoryvévape oñeñongatuete hag̃ua mba'ekuaarã aravoite peguáva.">
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Embojuruja Firefox rembiapoita pe jerohoryvévape oñeñongatuete hag̃ua mba’ekuaarã aravoite peguáva.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "Mba'ete ñongatuete ndojepurukuaái. Ikatúpiko emboty opaite ovetã kundaha ñemiguáva ha upéi eha'ãjey.">
+<!ENTITY performanceUI.unavailableNoticePB "Mba’ete ñongatuete ndojepurukuaái. Ikatúpiko emboty opaite ovetã kundaha ñemiguáva ha upéi eha’ãjey.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -38,7 +38,7 @@
 <!ENTITY performanceUI.toolbar.waterfall "Yje'a">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Ehechauka opaichagua tembiapo pe kundaha ojapóva ñongatuete aja, omohendáva ojuapykueripa ysyry ho'aramoguáicha.">
 <!ENTITY performanceUI.toolbar.js-calltree "Ehenói yvyra">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Omomba'e JavaScript rembiapo kundaha peguáva ohasa hetave aravo ñongatuete aja.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Omomba’e JavaScript rembiapo kundaha peguáva ohasa hetave aravo ñongatuete aja.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Tembiaporãme’ẽ">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ehechauka mamoitépa pe mandu'arenda oñemoĩ ñongatuete oiko aja.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS ta'ãnga rendy">
@@ -60,13 +60,13 @@
 <!ENTITY performanceUI.table.function                 "Tembiapoite">
 <!ENTITY performanceUI.table.function.tooltip         "Téra ha teñoiha renda tembiapoite jehechaukapyréva.">
 <!ENTITY performanceUI.table.totalAlloc               "Opaite jeporavopyre oñemoingéva pe jehechaukahápe">
-<!ENTITY performanceUI.table.totalAlloc.tooltip       "Pe papapy je'epyre mba'e jehechaukapýva ko tenda pegua ha ñehenói japyhypyrépe.">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Pe papapy je’epyre mba’e jehechaukapýva ko tenda pegua ha ñehenói japyhypyrépe.">
 <!ENTITY performanceUI.table.selfAlloc                "Mboherapy jehechaukajeheguíva">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Pe papapy je'epyre mba'e jehechaukapýva ko tendápe.">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "Pe papapy je'epyre mba’e jehechaukapýva ko tendápe.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
-<!ENTITY performanceUI.options.filter.tooltiptext "Eiporavo mba'eichagua mba'ekuaarãpa aravo tairendápe">
+<!ENTITY performanceUI.options.filter.tooltiptext "Eiporavo mba’eichagua mba’ekuaarãpa aravo tairendápe">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
@@ -80,25 +80,25 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "Ta'ãnga rendy mbojere">
-<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Embojerévo pe mba'erendy ohechauka ñehenói rape ñembohapepyre umi kora ipyahuvéva guive ha péicha oñembotuichave umi kora itujavéva.">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Embojerévo pe mba’erendy ohechauka ñehenói rape ñembohapepyre umi kora ipyahuvéva guive ha péicha oñembotuichave umi kora itujavéva.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
-<!ENTITY performanceUI.showPlatformData             "Mba'ekuaarã jehechauka Gecko rehegua">
-<!ENTITY performanceUI.showPlatformData.tooltiptext "Ehechaukávo mba'ekuaarã rehegua omoneĩ JavaScript Profiler-pe omombe'úvo Gecko-pe ijeike ta'ãnga'i reheguápe.">
+<!ENTITY performanceUI.showPlatformData             "Mba’ekuaarã jehechauka Gecko rehegua">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Ehechaukávo mba’ekuaarã rehegua omoneĩ JavaScript Profiler-pe omombe'úvo Gecko-pe ijeike ta’ãnga’i reheguápe.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 <!ENTITY performanceUI.showJITOptimizations             "JIT haipyre jepuruporã">
-<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Mba'ekuaarã JIT jepuruporãme ojehechaukahápe peteĩteĩva JavaScript peguáva.">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Mba’ekuaarã JIT jepuruporãme ojehechaukahápe peteĩteĩva JavaScript peguáva.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 <!ENTITY performanceUI.flattenTreeRecursion             "Embojuaju yvyra rembiapo">
-<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Embojuapy mba'e ehechajeývo tembiapoite.">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Embojuapy mba’e ehechajeývo tembiapoite.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
@@ -110,12 +110,12 @@
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableAllocations             "Jeporavopyre ñongatuete">
-<!ENTITY performanceUI.enableAllocations.tooltiptext "Mba'e jahaipy mboherapyre, oñembohape aja.">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Mba’e jahaipy mboherapyre, oñembohape aja.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-<!ENTITY performanceUI.enableFramerate             "Mba'era'ãnga ñongatu aravo'ivépe">
+<!ENTITY performanceUI.enableFramerate             "Mba’era’ãnga ñongatu aravo’ivépe">
 <!ENTITY performanceUI.enableFramerate.tooltiptext "Ta'ãngakuéra jehaipy aravo'ive jave, oñembohape aja.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
@@ -129,4 +129,4 @@
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 <!ENTITY performanceUI.console.stopCommandStart "Ejoko pe ñongatuete emoingévo peteĩ">
-<!ENTITY performanceUI.console.stopCommandEnd   "Mba'e'okarupápe.">
+<!ENTITY performanceUI.console.stopCommandEnd   "Mba’e’okarupápe.">
