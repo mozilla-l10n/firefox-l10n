@@ -40,6 +40,8 @@ browser-main-window-title = { -brand-full-name }
 
 ## Identity Panel
 
+identity-learn-more =
+    .value = Terabum Ŕpo
 
 ## Window controls
 
