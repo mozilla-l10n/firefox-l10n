@@ -21,7 +21,7 @@
 <!ENTITY showHideTooltips.label                 "Exibir descrições em balões (ao apontar com o ponteiro do mouse)">
 <!ENTITY showHideTooltips.accesskey             "x">
 
-<!ENTITY showHideGrippies.label                 "Ocultar pontos de ancoragem de barras de ferramentas">
+<!ENTITY showHideGrippies.label                 "Ocultar alças da barra de ferramentas">
 <!ENTITY showHideGrippies.accesskey             "O">
 
 <!ENTITY pref.locales.title                     "Linguagem da interface">
