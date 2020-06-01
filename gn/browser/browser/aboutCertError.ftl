@@ -12,7 +12,7 @@ cert-error-trust-unknown-issuer-intro = Ikatu hína peteĩva oha’ãnga tendáp
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Umi ñanduti renda oha’ã heraite mboajepyre rupive. { -brand-short-name } ndojeroviái { $hostname } rehe pe mboajepyre me’ẽha ndojekuaái rehe, ko mboajepyre oñemboheraguapy, térã pe mohendahavusu nomondói mboajepyre mbytegua oikóva.
-cert-error-trust-cert-invalid = Ndojejeroviái pe mboajepyre rehe ha’e rupi pe CA mboajepyre oiko’ỹva guenohẽmby.
+cert-error-trust-cert-invalid = Ndojejeroviái mboajepyre rehe ha’e rupi pe CA mboajepyre oiko’ỹva guenohẽmbyre.
 cert-error-trust-untrusted-issuer = Ndojejeroviái pe mboajepyréva rehe pe ime’ẽhare rehe ndojejeroviavéima rupi.
 cert-error-trust-signature-algorithm-disabled = Ndojejeroviái pe mboajepyréva rehe omboheraguapy rupi oipurúvo algoritmo mboheraguapy rehegua ojejokomava’ekue nahekorosãi haguére.
 cert-error-trust-expired-issuer = Ndojejeroviái pe mboajepyre rehe pe ime’ẽhare ndoikovéima rupi.

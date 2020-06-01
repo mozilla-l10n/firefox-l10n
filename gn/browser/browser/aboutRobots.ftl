@@ -25,5 +25,5 @@ error-long-desc4 = Umi avara’ãnga hevi atã vera ojepytekuaa’ỹva.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ha oguereko peteĩ apopyrã.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
-error-try-again = Eha'ãjey
+error-try-again = Eha’ãjey
     .label2 = Ani rejopyjey ko votõ.

@@ -23,7 +23,7 @@ update-manual = Tekopyahu rejuhukuaáva ápe<label data-l10n-name="manual-link"/
 update-unsupported = Ndaikatuvéima reipuru ambue tekopyahu ko apopyvusúpe.<label data-l10n-name="unsupported-link">Kuaave</label>
 update-restarting = Moñepyrũjey…
 channel-description = Oiporuhína mbohapeha<label data-l10n-name="current-channel"></label> tekopyahurã.
-warningDesc-version = { -brand-short-name } oñeha'âva gueteri ha ne’ĩrava oĩmba.
+warningDesc-version = { -brand-short-name } oñeha’ãva gueteri ha ne’ĩrava oĩmba.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>ha’e peteĩ<label data-l10n-name="community-exp-creditsLink">Yvóra rekoha</label>Ñamba’apo oñondivepa ikatu hag̃uáicha ñanduti ijuruja, opavavépe g̃uarã ha oikekuaahápe oimeraẽva.
 community-2 = { -brand-short-name } apohare<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, peteĩ <label data-l10n-name="community-creditsLink">Yvóra rekoha</label>ñamba’apo oñondivepa ikatu hag̃uáicha ñanduti ijuruja, opavavépe g̃uarã ha oikekuaahápe oimeraẽva.
 helpus = Reipytyvõsepa<label data-l10n-name="helpus-donateLink">Mba’eme’ẽ</label> térã<label data-l10n-name="helpus-getInvolvedLink">eiképy</label>

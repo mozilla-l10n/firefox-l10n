@@ -161,6 +161,8 @@ password-warning =
 monitor-no-breaches-title = ¡Marandu iporãva!
 monitor-view-report-link = Ehecha marandu’i
     .title = Emoĩporã  ñembogua { -monitor-brand-short-name }-pe
+monitor-manage-breaches-link = Emongu’e ñembogua
+    .title = Emongu’e ñembogua { -monitor-brand-short-name }-pe
 monitor-partial-breaches-motivation-title-start = ¡Ñepyrũ guasu!
 monitor-partial-breaches-motivation-title-middle = ¡Eku’e péicha!
 
