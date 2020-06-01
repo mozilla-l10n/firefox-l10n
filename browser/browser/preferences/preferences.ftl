@@ -493,11 +493,17 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sites preferidos
 home-prefs-topsites-description = Os sites que você mais visita
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recomendado pelo { $provider }
 home-prefs-recommended-by-description = Os melhores conteúdos disponíveis na Web, personalizados pra você
+home-prefs-recommended-by-description-update = Conteúdo excepcional da web afora, curadoria de { $provider }
+
+##
+
 home-prefs-recommended-by-learn-more = Como funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Histórias patrocinadas
