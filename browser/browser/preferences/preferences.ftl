@@ -493,11 +493,16 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sites les plus visités
 home-prefs-topsites-description = Les sites que vous visitez le plus
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recommandations par { $provider }
 home-prefs-recommended-by-description = Du contenu intéressant en provenance du Web, personnalisé pour vous
+
+##
+
 home-prefs-recommended-by-learn-more = Mode d’emploi
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articles sponsorisés
@@ -912,7 +917,7 @@ addressbar-locbar-openpage-option =
     .label = Les onglets ouverts
     .accesskey = O
 addressbar-locbar-topsites-option =
-    .label = Sites les plus visités
+    .label = Les sites les plus visités
     .accesskey = v
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 
