@@ -20,6 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Lapbezárás visszavonása
     .accesskey = v
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Lapbezárás visszavonása
+            [one] Lapbezárás visszavonása
+           *[other] Lapbezárások visszavonása
+        }
+    .accesskey = v
 toolbar-context-menu-manage-extension =
     .label = Kiegészítő kezelése
     .accesskey = K

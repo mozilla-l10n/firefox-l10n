@@ -58,7 +58,8 @@ protections-panel-not-found-label = Nincs észlelve
 
 protections-panel-settings-label = Védelmi beállítások
 protections-panel-showreport-label = Jelentés megjelenítése
-protections-panel-showdashboard-label = Vezérlőpult megjelenítése
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Védelmi vezérlőpult
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
