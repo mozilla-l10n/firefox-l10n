@@ -4,17 +4,20 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Ångra flikstängning
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ångra flikstängning
+            [one] Ångra Stäng flik
+           *[other] Ångra Stäng flikar
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Sök flikar
-
 all-tabs-menu-new-user-context =
     .label = Ny innehållsflik
-
 all-tabs-menu-hidden-tabs =
     .label = Dolda flikar
-
 all-tabs-menu-manage-user-context =
     .label = Hantera behållare
     .accesskey = b

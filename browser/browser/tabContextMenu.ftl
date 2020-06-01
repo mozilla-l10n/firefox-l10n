@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Ångra flikstängning
     .accesskey = g
+tab-context-close-multiple-tabs =
+    .label = Stäng flera flikar
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ångra Stäng flik
+            [one] Ångra Stäng flik
+           *[other] Ångra Stäng flikar
+        }
+    .accesskey = U
 close-tab =
     .label = Stäng flik
     .accesskey = S
