@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = Mewngofnodion a Chyfrineiriau
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -12,12 +18,9 @@ login-app-promo-android =
     .alt = Mae ar gael yn Google Play
 login-app-promo-apple =
     .alt = Llwythwch i lawr o'r App Store
-
 login-filter =
     .placeholder = Chwilio Mewngofnodion
-
 create-login-button = Creu Mewngofnod Newydd
-
 fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
 fxaccounts-sign-in-button = Mewngofnodi i { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -29,6 +32,7 @@ menu =
     .title = Agor dewislen
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Mewnforio o Borwr Arall…
+about-logins-menu-menuitem-export-logins = Allforio Mewngofnodion…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Dewisiadau
@@ -112,27 +116,16 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Gwiriwch eich hunaniaeth i olygu'r mewngofnod sydd wedi'i gadw.
-
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = I olygu eich mewngofnod, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = golygu'r mewngofnod sydd wedi'i gadw
-
-# This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = Gwiriwch eich hunaniaeth i ddadlennu'r mewngofnod sydd wedi'i gadw.
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = I weld eich cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = dadlennu'r cyfrinair sydd wedi'i gadw
-
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Gwiriwch eich hunaniaeth i gopïo'r cyfrinair sydd wedi'i gadw.
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = I gopïo'ch cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to copy a password in about:logins
@@ -169,11 +162,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Diddymu
 confirmation-dialog-dismiss-button =
     .title = Diddymu
-
 about-logins-confirm-remove-dialog-title = Tynnu'r mewngofnod?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
 about-logins-confirm-remove-dialog-confirm-button = Tynnu
-
+about-logins-confirm-export-dialog-title = Allforio mewngofnodion a chyfrineiriau
+about-logins-confirm-export-dialog-message = Bydd eich cyfrineiriau'n cael eu cadw fel testun darllenadwy (e.e. BadP@ssw0rd) fel y gall unrhyw un sy'n gallu agor y ffeil a allforiwyd eu gweld.
+about-logins-confirm-export-dialog-confirm-button = Allforio…
 confirm-discard-changes-dialog-title = Hepgor newidiadau heb eu cadw?
 confirm-discard-changes-dialog-message = Bydd yr holl newidiadau sydd heb eu cadw'n cael eu colli.
 confirm-discard-changes-dialog-confirm-button = Dileu
@@ -204,6 +198,21 @@ about-logins-vulnerable-alert-learn-more-link = Dysgu rhagor
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Mae cofnod ar gyfer { $loginTitle } gyda'r enw defnyddiwr hwnnw eisoes yn bodoli. <a data-l10n-name="duplicate-link"> Ewch i'r cofnod presennol? </a>
-
 # This is a generic error message.
 about-logins-error-message-default = Digwyddodd gwall wrth geisio gadw'r cyfrinair hwn.
+
+## Login Export Dialog
+
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Allforio Ffeil Mewngofnodion
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = mewngofnodion.csv
+about-logins-export-file-picker-export-button = Allforio
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dogfen CSV
+       *[other] Ffeil CSV
+    }
