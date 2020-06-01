@@ -93,9 +93,11 @@
 <!ENTITY addressbookToolbar.tooltip                     "Verktygsfält för adressboken">
 <!ENTITY newContactButton.tooltip                       "Skapa en ny kontakt i adressboken">
 <!ENTITY newlistButton.tooltip                          "Skapa en sändlista">
+<!ENTITY editItemButton.tooltip                         "Redigera valt objekt">
 <!ENTITY newmsgButton.tooltip                           "Skapa nytt meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta">
 <!ENTITY printButton.tooltip                            "Skriv ut valt objekt">
+<!ENTITY deleteItemButton.tooltip                       "Radera valt objekt">
 <!ENTITY throbber.tooltip                               "Gå till &vendorShortName;s webbplats">
 <!ENTITY throbber.tooltip2                              "Gå till &brandShortName;s webbplats">
 <!ENTITY advancedButton.tooltip                         "Avancerad adressökning">
