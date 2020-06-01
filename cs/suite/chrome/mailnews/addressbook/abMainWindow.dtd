@@ -7,24 +7,23 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "Tato složka kontaktů zobrazuje kontakty pouze po vyhledání">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakty ze vzdálených složek kontaktů se nezobrazují dokud je nevyhledáváte">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Kontakt…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "K">
 <!ENTITY newListCmd.label                               "Skupina…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "S">
 <!ENTITY newAddressBookCmd.label                        "Kontakty…">
 <!ENTITY newAddressBookCmd.accesskey                    "K">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP adresář…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Tisk kontaktu…">
 <!ENTITY printContactViewCmd.accesskey                  "t">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Náhled tisku kontaktu">
 <!ENTITY printPreviewContactViewCmd.accesskey           "h">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Tisk kontaktů…">
 <!ENTITY printAddressBook.accesskey                     "O">
 <!ENTITY printPreviewAddressBook.label                  "Náhled tisku kontaktů">
@@ -40,7 +39,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "Vyměnit křestní jméno/příjmení">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
 <!ENTITY propertiesCmd.label                            "Vlastnosti…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "V">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +83,7 @@
 <!ENTITY deleteItemButton.accesskey                     "m">
 <!ENTITY newimButton.label                              "Zpráva přes IM">
 <!ENTITY newimButton.accesskey                          "I">
+<!ENTITY printButton.label                              "Tisk">
 <!ENTITY searchNameAndEmail.placeholder                 "Hledat jméno a e-mail">
 <!ENTITY searchBox.title                                "Hledat">
 
@@ -95,6 +94,7 @@
 <!ENTITY editItemButton.tooltip                         "Upraví označenou položku">
 <!ENTITY newmsgButton.tooltip                           "Vytvoří novou zprávu">
 <!ENTITY newIM.tooltip                                  "Pošle krátkou zprávu nebo začne rozhovor">
+<!ENTITY printButton.tooltip                            "Tisk vybrané položky">
 <!ENTITY deleteItemButton.tooltip                       "Smaže označenou položku">
 <!ENTITY throbber.tooltip                               "Přejde na domovskou stránku aplikace &vendorShortName;">
 <!ENTITY throbber.tooltip2                              "Přejde na domovskou stránku aplikace &brandShortName;">
@@ -108,6 +108,7 @@
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Bydliště">
 <!ENTITY other.heading                                  "Ostatní">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Zaměstnání">
 <!-- Special Box Headings, for mailing lists -->
