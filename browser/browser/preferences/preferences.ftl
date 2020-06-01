@@ -450,7 +450,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox 홈페이지(기본값)
+    .label = Firefox 홈 (기본값)
 home-mode-choice-custom =
     .label = 사용자 지정 URL…
 home-mode-choice-blank =
