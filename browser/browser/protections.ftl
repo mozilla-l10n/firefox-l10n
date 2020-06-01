@@ -41,7 +41,7 @@ protection-report-page-summary = { -brand-short-name }는 탐색하는 동안 �
 protection-report-page-summary-default = { -brand-short-name }는 탐색하는 동안 뒤에서 개인 정보를 보호합니다. 다음은 온라인 보안을 제어하는 도구를 포함하여 이러한 보호 기능에 대한 개인화된 요약입니다.
 protection-report-settings-link = 개인 정보 및 보안 설정 관리
 etp-card-title-always = 향상된 추적 방지 기능: 항상 켜기
-etp-card-title-custom-not-blocking = 향상된 추적 방지 기능: 끄기
+etp-card-title-custom-not-blocking = 향상된 추적 방지 기능: 꺼짐
 etp-card-content-description = { -brand-short-name }는 회사가 웹에서 사용자를 몰래 따라 다니는 것을 자동으로 중지합니다.
 protection-report-etp-card-content-custom-not-blocking = 현재 모든 보호 기능이 꺼져 있습니다. { -brand-short-name } 보호 설정에서 차단할 추적기를 선택하세요.
 protection-report-manage-protections = 설정 관리
@@ -69,7 +69,7 @@ mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> �
 lockwise-title = 비밀번호를 다시 잊지 마세요
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = 비밀번호 관리
-lockwise-header-content = { -lockwise-brand-name }은 비밀번호를 브라우저에 안전하게 저장합니다.
+lockwise-header-content = { -lockwise-brand-name }는 비밀번호를 브라우저에 안전하게 저장합니다.
 lockwise-header-content-logged-in = 비밀번호를 모든 기기에 안전하게 저장하고 동기화합니다.
 protection-report-view-logins-button = 로그인 보기
     .title = 저장된 로그인으로 이동
