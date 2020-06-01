@@ -56,6 +56,21 @@ move-to-new-window =
 undo-close-tab =
     .label = Dadwneud Cau'r Tab
     .accesskey = D
+tab-context-close-multiple-tabs =
+    .label = Cau Tabiau Lluosog
+    .accesskey = L
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Dadwneud Cau Tabiau
+            [zero] Dadwneud Cau Tabiau
+            [one] Dadwneud Cau Tab
+            [two] Dadwneud Cau Tabiau
+            [few] Dadwneud Cau Tabiau
+            [many] Dadwneud Cau Tabiau
+           *[other] Dadwneud Cau Tabiau
+        }
+    .accesskey = D
 close-tab =
     .label = Cau Tab
     .accesskey = C

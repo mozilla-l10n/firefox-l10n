@@ -505,11 +505,17 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Hoff Wefannau
 home-prefs-topsites-description = Y gwefannau rydych yn ymweld â nhw amlaf
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Argymhellwyd gan { $provider }
 home-prefs-recommended-by-description = Cynnwys gwych o ar draws y we, wedi ei ddewis yn arbennig i chi
+home-prefs-recommended-by-description-update = Cynnwys eithriadol o bob rhan o'r we, wedi'i guradu gan { $provider }
+
+##
+
 home-prefs-recommended-by-learn-more = Sut mae'n gweithio
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Straeon wedi eu Noddi
