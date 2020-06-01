@@ -4,17 +4,20 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Reabrir aba
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir aba
+            [one] Reabrir aba
+           *[other] Reabrir abas
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Pesquisar abas
-
 all-tabs-menu-new-user-context =
     .label = Nova aba contêiner
-
 all-tabs-menu-hidden-tabs =
     .label = Abas ocultas
-
 all-tabs-menu-manage-user-context =
     .label = Gerenciar contêineres
     .accesskey = O

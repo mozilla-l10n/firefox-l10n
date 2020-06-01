@@ -20,6 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Reabrir aba
     .accesskey = b
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir aba
+            [one] Reabrir aba
+           *[other] Reabrir abas
+        }
+    .accesskey = b
 toolbar-context-menu-manage-extension =
     .label = Gerenciar extensão
     .accesskey = e
