@@ -15,7 +15,7 @@
 <!ENTITY helpMenuWin.label        "Msaada"> 
 <!ENTITY helpMenuWin.accesskey    "M">
 
-<!ENTITY aboutProduct2.label      "About &brandShortName;">
+<!ENTITY aboutProduct2.label      "Kuhusu &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShortName; Help">
 <!ENTITY productHelp2.accesskey   "H">
