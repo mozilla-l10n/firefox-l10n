@@ -166,12 +166,19 @@ password-warning =
     }
 monitor-no-breaches-title = Goda nyheter!
 monitor-no-breaches-description = Du har inga kända intrång. Om det ändras, kommer vi att meddela dig.
+monitor-view-report-link = Visa rapport
+    .title = Lös intrång på { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Lös dina intrång
+monitor-manage-breaches-link = Hantera intrång
+    .title = Hantera intrång på { -monitor-brand-short-name }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% färdig
 monitor-partial-breaches-motivation-title-start = Bra start!
 monitor-partial-breaches-motivation-title-middle = Fortsätt så!
 monitor-partial-breaches-motivation-title-end = Nästan klar! Fortsätt så.
+monitor-resolve-breaches-link = Lös intrång
+    .title = Lös intrång på { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
