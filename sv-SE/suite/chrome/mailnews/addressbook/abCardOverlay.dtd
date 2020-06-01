@@ -33,7 +33,7 @@
 <!ENTITY DisplayName.accesskey          "o">
 <!ENTITY preferDisplayName.label        "Föredra alltid kortnamn istället för visningsnamnet i meddelandet">
 <!ENTITY preferDisplayName.accesskey    "a">
-<!ENTITY preferDisplayName2.accesskey   "y">
+<!ENTITY preferDisplayName2.accesskey   "v">
 <!ENTITY NickName.label                 "Smeknamn:">
 <!ENTITY NickName.accesskey             "S">
 
@@ -123,7 +123,7 @@
 <!ENTITY Notes.accesskey                "n">
 
 <!ENTITY Chat.tab                       "Chatt">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "c">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
