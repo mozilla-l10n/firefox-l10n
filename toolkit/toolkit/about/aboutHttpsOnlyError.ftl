@@ -7,3 +7,6 @@ about-httpsonly-insecure-title = A biztonságos kapcsolat nem érhető el
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-insecure-explanation-unavailable = Csak HTTPS módban böngészik, és a(z) <em>{ $websiteUrl }</em> biztonságos HTTPS verziója nem érhető el.
 about-httpsonly-insecure-explanation-reasons = Valószínűleg a weboldal nem támogatja a HTTPS-t, de az is lehet, hogy egy támadó blokkolja a HTTPS-verziót.
+about-httpsonly-insecure-explanation-exception = Bár a biztonsági kockázat alacsony, ha úgy dönt, hogy felkeresi a weboldal HTTP verzióját, akkor ne adjon meg érzékeny információkat, mint jelszavakat, e-mail címeket vagy bankkártyaadatokat.
+about-httpsonly-button-make-exception = Kockázat elfogadása és továbblépés az oldalra
+about-httpsonly-button-go-back = Ugrás vissza
