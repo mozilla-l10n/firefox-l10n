@@ -56,6 +56,8 @@ cfr-whatsnew-permission-prompt-cta = Terabum ŕpo
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-close-button = Ŕ´amch
+    .accesskey = Ŕ
 
 ## Enhanced Tracking Protection Milestones
 

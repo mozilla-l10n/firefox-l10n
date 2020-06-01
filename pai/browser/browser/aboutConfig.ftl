@@ -10,6 +10,9 @@ about-config-search-input =
 
 ##
 
+about-config-pref-delete = Ujiñ
+about-config-pref-delete-button =
+    .title = Ujiñ
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 

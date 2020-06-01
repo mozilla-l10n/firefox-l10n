@@ -45,6 +45,8 @@ identity-learn-more =
 
 ## Window controls
 
+browser-window-close-button =
+    .tooltiptext = Ŕ´amch
 
 ## WebRTC Pop-up notifications
 

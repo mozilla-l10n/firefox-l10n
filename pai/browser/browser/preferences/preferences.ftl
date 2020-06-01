@@ -5,6 +5,8 @@
 do-not-track-learn-more = Terabum ŕpo
 do-not-track-option-always =
     .label = T t'or
+close-button =
+    .aria-label = Ŕ´amch
 
 ## Browser Restart Dialog
 
