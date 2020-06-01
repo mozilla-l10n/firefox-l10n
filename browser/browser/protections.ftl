@@ -33,8 +33,8 @@ protection-report-page-title = 개인 정보 보호
 protection-report-content-title = 개인 정보 보호
 etp-card-title = 향상된 추적 방지 기능
 etp-card-content = 추적기는 온라인에서 사용자를 따라다니며 탐색 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
-protection-report-webpage-title = 보호 기능 대시보드
-protection-report-page-content-title = 보호 기능 대시보드
+protection-report-webpage-title = 보호 대시보드
+protection-report-page-content-title = 보호 대시보드
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name }는 탐색하는 동안 뒤에서 개인 정보를 보호할 수 있습니다. 다음은 온라인 보안을 제어하는 도구를 포함하여 이러한 보호 기능에 대한 개인화된 요약입니다.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
