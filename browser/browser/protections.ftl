@@ -40,7 +40,7 @@ protection-report-page-summary = { -brand-short-name }는 탐색하는 동안 �
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name }는 탐색하는 동안 뒤에서 개인 정보를 보호합니다. 다음은 온라인 보안을 제어하는 도구를 포함하여 이러한 보호 기능에 대한 개인화된 요약입니다.
 protection-report-settings-link = 개인 정보 및 보안 설정 관리
-etp-card-title-always = 향상된 추적 방지 기능: 항상 켜기
+etp-card-title-always = 향상된 추적 방지 기능: 항상 사용
 etp-card-title-custom-not-blocking = 향상된 추적 방지 기능: 꺼짐
 etp-card-content-description = { -brand-short-name }는 회사가 웹에서 사용자를 몰래 따라 다니는 것을 자동으로 중지합니다.
 protection-report-etp-card-content-custom-not-blocking = 현재 모든 보호 기능이 꺼져 있습니다. { -brand-short-name } 보호 설정에서 차단할 추적기를 선택하세요.
