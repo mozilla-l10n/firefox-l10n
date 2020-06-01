@@ -20,6 +20,18 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Dadwneud Cau'r Tab
     .accesskey = D
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Dadwneud Cau Tab
+            [zero] Dadwneud Cau Tabiau
+            [one] Dadwneud Cau Tab
+            [two] Dadwneud Cau Tabiau
+            [few] Dadwneud Cau Tabiau
+            [many] Dadwneud Cau Tabiau
+           *[other] Dadwneud Cau Tabiau
+        }
+    .accesskey = C
 toolbar-context-menu-manage-extension =
     .label = Rheoli Estyniad
     .accesskey = E

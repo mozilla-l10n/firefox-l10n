@@ -180,6 +180,18 @@ info-known-breaches-found =
        *[other] Tor-data hysbys wedi amlygu eich manylion
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [zero] Tor-data hysbys wedi'u nodi fel wedi'u datrys
+        [one] Tor-data hysbys wedi'i nodi fel wedi'i ddatrys
+        [two] Dor-data hysbys wedi'u nodi fel wedi'u datrys
+        [few] Tor-data hysbys wedi'u nodi fel wedi'u datrys
+        [many] Thor-data hysbys wedi'u nodi fel wedi'u datrys
+       *[other] Tor-data hysbys wedi'u nodi fel wedi'u datrys
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -203,6 +215,18 @@ password-warning =
         [few] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
         [many] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
        *[other] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [zero] Cyfrineiriau wedi'u hamlygu mewn tor-data heb eu datrys
+        [one] Cyfrinair wedi'i amlygu mewn tor-data heb ei ddatrys
+        [two] Gyfrinair wedi'u hamlygu mewn tor-data heb eu datrys
+        [few] Cyfrinair wedi'u hamlygu mewn tor-data heb eu datrys
+        [many] Chyfrinair wedi'u hamlygu mewn tor-data heb eu datrys
+       *[other] Cyfrinair wedi'u hamlygu mewn tor-data heb eu datrys
     }
 monitor-no-breaches-title = Newyddion da!
 monitor-no-breaches-description = Nid oes gennych unrhyw dor-data hysbys. Os bydd hynny'n newid, byddwn yn rhoi gwybod i chi.
@@ -232,7 +256,7 @@ monitor-partial-breaches-percentage = { $percentageResolved }% wedi'u cwblhau
 monitor-partial-breaches-motivation-title-start = Dechrau da!
 monitor-partial-breaches-motivation-title-middle = Daliwch ati!
 monitor-partial-breaches-motivation-title-end = Bron wedi ei wneud! Daliwch ati.
-monitor-partial-breaches-motivation-desc = Datryswch weddill eich tor-data { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-description = Datryswch weddill eich tor-data ar { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Datrys Tor-data
     .title = Datrys tor-data ar { -monitor-brand-short-name }
 
