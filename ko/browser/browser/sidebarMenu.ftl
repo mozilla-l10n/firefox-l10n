@@ -4,12 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = 북마크
-
 sidebar-menu-history =
     .label = 기록
-
 sidebar-menu-synced-tabs =
-    .label = 동기화한 탭
-
+    .label = 동기화된 탭
 sidebar-menu-close =
     .label = 탐색창 닫기
