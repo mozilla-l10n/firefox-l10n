@@ -20,9 +20,11 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Gony loro dirica matidi
     .accesskey = G
+
 toolbar-context-menu-manage-extension =
     .label = Lo Lamed
     .accesskey = A
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
