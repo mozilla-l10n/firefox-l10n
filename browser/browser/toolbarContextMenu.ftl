@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = টেব বন্ধ কৰা বাতিল কৰক
     .accesskey = U
+
 toolbar-context-menu-remove-from-toolbar =
     .label = সঁজুলিবাৰৰ পৰা আতৰাওক
     .accesskey = R
