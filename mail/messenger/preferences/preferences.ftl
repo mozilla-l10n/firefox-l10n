@@ -572,6 +572,17 @@ notification-name =
     .label = solamente col nome del mittente
 notification-empty =
     .label = senza alcuna informazione
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Anima l'icona nel dock
+           *[other] Fai lampeggiare l'elemento nella barra delle applicazioni
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Riproduci un suono
     .accesskey = s
