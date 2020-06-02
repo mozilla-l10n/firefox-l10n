@@ -5,6 +5,9 @@
 pane-general-title = 常规
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = 编写
+category-compose =
+    .tooltiptext = 编写
 general-language-and-appearance-header = 语言与外观
 general-incoming-mail-header = 接收邮件
 general-files-and-attachment-header = 文件与附件
@@ -76,6 +79,29 @@ focus-search-shortcut =
     .key = f
 focus-search-shortcut-alt =
     .key = k
+general-legend = { -brand-short-name } 起始页
+start-page-label =
+    .label = { -brand-short-name } 启动时在消息区域显示起始页
+    .accesskey = W
+location-label =
+    .value = 地址：
+    .accesskey = o
+restore-default-label =
+    .label = 恢复默认值
+    .accesskey = R
+new-message-arrival = 当新消息到达时：
+mail-play-button =
+    .label = 播放
+    .accesskey = P
+customize-alert-label =
+    .label = 自定义…
+    .accesskey = C
+mail-custom-sound-label =
+    .label = 使用下列声音文件
+    .accesskey = U
+mail-browse-sound-button =
+    .label = 浏览…
+    .accesskey = B
 enable-gloda-search-label =
     .label = 启用全局搜索以及索引
     .accesskey = E
@@ -93,20 +119,55 @@ return-receipts-description = 指定 { -brand-short-name } 如何处理回执
 return-receipts-button =
     .label = 回执…
     .accesskey = R
+networking-legend = 连接
+network-settings-button =
+    .label = 设置…
+    .accesskey = S
+offline-legend = 脱机
+offline-settings = 配置脱机设置
+offline-settings-button =
+    .label = 脱机…
+    .accesskey = O
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = 最多使用
+    .accesskey = U
+use-cache-after = MB 磁盘空间作为缓存
 
 ##
 
+clear-cache-button =
+    .label = 立即清空
+    .accesskey = C
 default-font-label =
     .value = 默认字体:
     .accesskey = D
 default-size-label =
     .value = 大小：
     .accesskey = S
+display-width-legend = 纯文本消息
+display-text-label = 当显示引用的纯文本消息时使用以下设置：
+style-label =
+    .value = 样式：
+    .accesskey = y
+regular-style-item =
+    .label = 常规
+bold-style-item =
+    .label = 粗体
+italic-style-item =
+    .label = 斜体
+bold-italic-style-item =
+    .label = 粗斜体
+regular-size-item =
+    .label = 常规
+bigger-size-item =
+    .label = 较大
+smaller-size-item =
+    .label = 较小
 type-column-label =
     .label = 内容类型
     .accesskey = T
@@ -141,13 +202,68 @@ delete-tag-button =
 
 ## Compose Tab
 
+forward-label =
+    .value = 转发消息：
+    .accesskey = F
+inline-label =
+    .label = 内联
+as-attachment-label =
+    .label = 作为附件
+extension-label =
+    .label = 添加扩展名至文件名
+    .accesskey = e
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = 自动保存，每隔
+    .accesskey = A
+auto-save-end = 分钟
 
 ##
 
+warn-on-send-accel-key =
+    .label = 当使用键盘快捷键发送消息时需确认
+    .accesskey = C
+spellcheck-label =
+    .label = 发送前进行拼写检查
+    .accesskey = C
+spellcheck-inline-label =
+    .label = 启用即时拼写检查
+    .accesskey = k
+download-dictionaries-link = 下载更多字典
+font-label =
+    .value = 字体：
+    .accesskey = n
+font-color-label =
+    .value = 文本颜色：
+    .accesskey = T
+bg-color-label =
+    .value = 背景色：
+    .accesskey = B
+restore-html-label =
+    .label = 恢复默认值
+    .accesskey = R
+format-description = 配置文本格式行为：
+send-options-label =
+    .label = 发送选项…
+    .accesskey = S
+autocomplete-description = 对消息进行地址查找时，在下列位置搜索：
+ab-label =
+    .label = 本地通讯录
+    .accesskey = L
+directories-label =
+    .label = 目录服务器：
+    .accesskey = D
+directories-none-label =
+    .none = 无
+edit-directories-label =
+    .label = 编辑目录…
+    .accesskey = E
+email-picker-label =
+    .label = 自动将发送邮件地址添加至：
+    .accesskey = A
 attachment-label =
     .label = 检查缺失的附件
     .accesskey = m
