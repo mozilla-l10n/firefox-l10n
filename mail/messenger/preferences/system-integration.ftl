@@ -4,6 +4,7 @@
 
 system-integration-title =
     .title = Intégration système
+default-client-intro = Utiliser { -brand-short-name } comme client par défaut pour :
 checkbox-email-label =
     .label = le courrier électronique
     .tooltiptext = { unset-default-tooltip }

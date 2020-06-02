@@ -12,6 +12,12 @@ fonts-label-default-unnamed =
     .label = Par défaut
 fonts-encoding-dialog-title =
     .title = Polices et encodages
+fonts-language-legend =
+    .value = Polices pour :
+    .accesskey = o
+fonts-proportional-label =
+    .value = Proportionnelle :
+    .accesskey = P
 
 ## Languages
 
@@ -62,6 +68,18 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans serif
+font-serif-label =
+    .value = Serif :
+    .accesskey = S
+font-sans-serif-label =
+    .value = Sans serif :
+    .accesskey = n
+font-monospace-label =
+    .value = Largeur fixe :
+    .accesskey = L
+font-min-size-label =
+    .value = Taille minimale de la police :
+    .accesskey = m
 min-size-none =
     .label = Aucune
 
