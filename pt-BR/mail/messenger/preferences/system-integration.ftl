@@ -9,6 +9,7 @@ system-integration-dialog =
     .buttonlabelcancel = Pular integração
     .buttonlabelcancel2 = Cancelar
 default-client-intro = Tornar o { -brand-short-name } o aplicativo padrão para:
+unset-default-tooltip = Não é possível remover o { -brand-short-name } como o cliente padrão dentro do { -brand-short-name }. Para tornar outro aplicativo o cliente padrão você deve usar a configuração 'Tornar padrão' do próprio aplicativo.
 checkbox-email-label =
     .label = E-mail
     .tooltiptext = { unset-default-tooltip }
