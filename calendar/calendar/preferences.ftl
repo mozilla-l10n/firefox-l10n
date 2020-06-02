@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Күнтізбе
+calendar-title-reminder = Еске салулар
+calendar-title-category = Санаттар
 dateformat-label =
     .value = Күнді көрсету пішімі:
     .accesskey = К
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Көріністер және кіші ай көрінісінде апта нөмірлерін көрсету
     .accesskey = н
+workdays-label =
+    .value = Жұмыс күндері:
 day-1-checkbox =
     .label = Жек
     .accesskey = Ж
@@ -70,6 +75,9 @@ midnight-label =
     .label = Түн ортасы
 noon-label =
     .label = Түс
+location-checkbox =
+    .label = Орналасуды көрсету
+    .accesskey = л
 multiweek-legend = Бірнеше апталық көрініс
 number-of-weeks-label =
     .value = Көрсетілетін апталар саны (өткен апталармен қоса):
@@ -92,7 +100,16 @@ previous-weeks-label =
     .value = Көрсетілетін өткен апталар саны:
     .accesskey = к
 todaypane-legend = Бүгінгі панелі
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Болашақ таңдауы көрсетеді:
+    .accesskey = б
 event-task-legend = Оқиғалар және тапсырмалар
+default-length-label =
+    .value = Оқиға және тапсырманың үнсіз келісім ұзақтығы:
+    .accesskey = ы
 task-start-label =
     .value = Бастапқы күн:
 task-start-1-label =
@@ -130,12 +147,18 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Бастапқы дыбысты қолдану
     .accesskey = п
+reminder-custom-sound-label =
+    .label = Келесі дыбыс файлын қолдану
+    .accesskey = ы
 reminder-browse-sound-label =
     .label = Қарап шығу…
     .accesskey = ш
 reminder-dialog-label =
     .label = Еске салу сұхбатын көрсету
     .accesskey = с
+missed-reminder-label =
+    .label = Жазу үшін қолжетерлік күнтізбелер үшін қалып қойған хабарламаларды көрсету
+    .accesskey = з
 reminder-default-legend = Еске салудың бастапқы баптаулары
 default-snooze-label =
     .value = Кейінге қалдырудың бастапқы ұзақтығы:
