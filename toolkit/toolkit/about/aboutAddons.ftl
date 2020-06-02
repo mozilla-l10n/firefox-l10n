@@ -606,9 +606,6 @@ updates-heading = Frissítések kezelése
 discover-heading = A { -brand-short-name } testreszabása
 shortcuts-heading = Kiegészítő-gyorsbillentyűk kezelése
 
-theme-heading-search-label = További témák keresése
-extension-heading-search-label = További kiegészítők keresése
-
 default-heading-search-label = Több kiegészítő keresése
 addons-heading-search-input =
     .placeholder = Keresés itt: addons.mozilla.org

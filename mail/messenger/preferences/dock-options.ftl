@@ -5,16 +5,22 @@
 dock-options-window-dialog =
     .title = Appikon beállításai
     .style = width: 35em;
+
 bounce-system-dock-icon =
     .label = Az appikon animálása új üzenet érkezésekor
     .accesskey = a
+
 dock-icon-legend = Appikon megjelölése
+
 dock-icon-show-label =
     .value = Appikon megjelölése ezzel:
+
 count-unread-messages-radio =
     .label = Olvasatlan üzenetek száma
     .accesskey = O
+
 count-new-messages-radio =
     .label = Új üzenetek száma
     .accesskey = n
+
 notification-settings-info = A kitűzőt a Rendszerbeállítások Értesítés lapján tudja letiltani.

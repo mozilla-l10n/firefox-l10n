@@ -28,18 +28,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Lapbezárások visszavonása
         }
     .accesskey = v
+
 toolbar-context-menu-manage-extension =
     .label = Kiegészítő kezelése
     .accesskey = K
 toolbar-context-menu-remove-extension =
     .label = Kiegészítő eltávolítása
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Kiegészítő jelentése
     .accesskey = j
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

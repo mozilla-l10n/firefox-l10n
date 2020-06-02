@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Szöveg keresése az oldalon">
 <!ENTITY spellToolbarCmd.label "Helyesírás">
 <!ENTITY spellToolbarCmd.tooltip "A kijelölt rész vagy az egész oldal helyesírásának ellenőrzése">
+
 <!ENTITY imageToolbarCmd.label "Kép">
 <!ENTITY imageToolbarCmd.tooltip "Új kép beszúrása vagy a kijelölt tulajdonságainak módosítása">
 <!ENTITY hruleToolbarCmd.label "Vízszintes vonal">
