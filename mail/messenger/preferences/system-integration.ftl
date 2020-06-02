@@ -4,6 +4,12 @@
 
 system-integration-title =
     .title = Integració amb el sistema
+system-integration-dialog =
+    .buttonlabelaccept = Defineix per defecte
+    .buttonlabelcancel = Omet la integració
+    .buttonlabelcancel2 = Cancel·la
+default-client-intro = Utilitza el { -brand-short-name } com a client per defecte per a:
+unset-default-tooltip = No podeu eliminar el { -brand-short-name } com a client per defecte des de dins del mateix { -brand-short-name }. Per definir una altra aplicació com a client per defecte, heu d'utilitzar el seu diàleg «Defineix per defecte».
 checkbox-email-label =
     .label = Correu electrònic
     .tooltiptext = { unset-default-tooltip }
