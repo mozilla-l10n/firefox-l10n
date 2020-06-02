@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = O
     .tooltiptext = Fier jo foarkars-URL yn foar DNS oer HTTPS
 connection-dns-over-https-custom-label = Oanpast
+connection-dialog-window =
+    .title = Ferbiningsynstellingen
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Proxy’s foar tagong ta it ynternet konfigurearje
 proxy-type-no =
     .label = Gjin proxy
@@ -33,6 +40,12 @@ proxy-http-label =
 http-port-label =
     .value = Poarte:
     .accesskey = P
+proxy-http-sharing =
+    .label = Dizze proxy ek foar HTTPS brûke
+    .accesskey = x
+proxy-https-label =
+    .value = HTTPS-proxy:
+    .accesskey = S
 ssl-port-label =
     .value = Poarte:
     .accesskey = o
@@ -51,7 +64,22 @@ proxy-socks5-label =
 proxy-type-auto =
     .label = URL foar automatyske proxykonfiguraasje:
     .accesskey = a
+proxy-reload-label =
+    .label = Opnij lade
+    .accesskey = l
 no-proxy-label =
     .value = Gjin proxy foar:
     .accesskey = n
 no-proxy-example = Foarbyld: .mozilla.org, .net.nz, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = Ferbiningen nei localhost, 127.0.0.1, en :: 1 rinne nea fia de proxy.
+proxy-password-prompt =
+    .label = Freegje net om autentikaasje as wachtwurd bewarre is
+    .accesskey = i
+    .tooltiptext = Dizze opsje autentisearret jo automatisysk by proxies as jo derfoar bewarre gegevens hawwe. Jo sille frege wurde as autentikaasje mislearret.
+proxy-remote-dns =
+    .label = DNS fia proxy by gebrûk fan SOCKS v5
+    .accesskey = D
+proxy-enable-doh =
+    .label = DNS oer HTTPS ynskeakelje
+    .accesskey = o

@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+offline-dialog-window =
+    .title = Offline-ynstellingen
 autodetect-online-label =
     .label = Automatysk detektearre onlinetastân folgje
     .accesskey = A
@@ -28,6 +30,7 @@ going-online-not =
 going-online-ask =
     .label = My freegje
     .accesskey = f
+going-offline-label = Wolle jo berjochten downloade foar offline gebrûk foardat jo offline gean?
 going-offline-auto =
     .label = Ja
     .accesskey = a

@@ -9,9 +9,13 @@ colors-dialog-window =
             [macos] width: 41em !important
            *[other] width: 38em !important
         }
+colors-dialog-legend = Tekst en eftergrûn
 text-color-label =
     .value = Tekst:
     .accesskey = t
+background-color-label =
+    .value = Eftergrûn:
+    .accesskey = g
 use-system-colors =
     .label = Brûk systeemkleuren
     .accesskey = s
@@ -32,3 +36,5 @@ override-color-always =
     .label = Altyd
 override-color-auto =
     .label = Allinnich by tema’s mei heech kontrast
+override-color-never =
+    .label = Nea
