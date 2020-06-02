@@ -73,9 +73,13 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = 字体控制
 use-document-fonts-checkbox =
     .label = 允许消息使用其他字体
     .accesskey = o
+use-fixed-width-plain-checkbox =
+    .label = 用等宽字体显示纯文本信息
+    .accesskey = x
 
 ## Language settings
 
