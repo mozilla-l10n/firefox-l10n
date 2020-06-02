@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = В
     .tooltiptext = Уведіть бажаний URL для розвʼязання DNS через HTTPS
 connection-dns-over-https-custom-label = Власний
+connection-dialog-window =
+    .title = Параметри з’єднання
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Налаштування проксі для доступу в Інтернет
 proxy-type-no =
     .label = Без проксі
@@ -58,3 +65,13 @@ no-proxy-label =
     .value = Не використовувати проксі для:
     .accesskey = д
 no-proxy-example = Зразок: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = Не запитувати про автентифікацію, якщо пароль вже збережено
+    .accesskey = Н
+    .tooltiptext = Якщо у вас є збережені дані для входу, ця опція проведе вашу авторизацію на проксі без запитів. При невдалій авторизації ви отримаєте запит.
+proxy-remote-dns =
+    .label = Проксі DNS при використанні SOCKS v5
+    .accesskey = к
+proxy-enable-doh =
+    .label = Увімкнути DNS через HTTPS
+    .accesskey = У

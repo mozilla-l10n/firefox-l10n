@@ -4,6 +4,7 @@
 
 attachment-reminder-window =
     .title = Ключові слова Вкладень
+attachment-reminder-label = { -brand-short-name } буде попереджати вас про відсутні вкладення, якщо у листі, який ви збираєтесь надіслати, є одне з цих ключових слів.
 keyword-new-button =
     .label = Нова…
     .accesskey = Н
