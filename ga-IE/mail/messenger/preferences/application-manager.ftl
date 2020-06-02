@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Mionsonraí an Fheidhmchláir
     .style = width: 36em; min-height: 24em;
+
 remove-app-button =
     .label = Bain
     .accesskey = B

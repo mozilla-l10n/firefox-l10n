@@ -299,6 +299,7 @@
 <!ENTITY findToolbarCmd.tooltip "Cuardaigh téacs sa leathanach">
 <!ENTITY spellToolbarCmd.label "Litriú">
 <!ENTITY spellToolbarCmd.tooltip "Seiceáil litriú an roghnaithe nó an leathanaigh iomláin">
+
 <!ENTITY imageToolbarCmd.label "Íomhá">
 <!ENTITY imageToolbarCmd.tooltip "Ionsáigh íomhá nua nó cuir airíonna na híomhá roghnaithe in eagar">
 <!ENTITY hruleToolbarCmd.label "Líne Ch.">

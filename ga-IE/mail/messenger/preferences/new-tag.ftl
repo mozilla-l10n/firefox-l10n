@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Clib Nua
+
 tag-name-label =
     .value = Ainm na Clibe:
     .accesskey = C

@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Saincheap Airdeall an Ríomhphoist Nua
+
 customize-alert-description = Roghnaigh na réimsí a thaispeánfar sa bhfógra airdill:
+
 preview-text-checkbox =
     .label = Téacs an Réamhamhairc Theachtaireachta
     .accesskey = m
+
 subject-checkbox =
     .label = Ábhar
     .accesskey = b
+
 sender-checkbox =
     .label = Seoltóir
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Taispeáin Airdeall Ríomhphoist Nua le haghaidh
     .accesskey = N
+
 open-time-label-after =
     .value = soicind
