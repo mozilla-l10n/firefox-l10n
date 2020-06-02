@@ -87,9 +87,13 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = Control del tipus de lletra
 use-document-fonts-checkbox =
     .label = Permet que els missatges utilitzin altres tipus de lletra
     .accesskey = e
+use-fixed-width-plain-checkbox =
+    .label = Utilitza el tipus de lletra d'amplada fixa per als missatges de text
+    .accesskey = x
 
 ## Language settings
 

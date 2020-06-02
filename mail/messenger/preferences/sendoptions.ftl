@@ -5,6 +5,10 @@
 sendoptions-dialog-window =
     .title = Opcions d'enviament
 send-mail-title = Format del text
+default-html-format-label = Quan s'enviïn missatges en format HTML, però hi hagi algun destinatari pel qual s'hagi especificat que no pot rebre HTML:
+html-format-ask =
+    .label = Demana'm què vull fer
+    .accesskey = m
 html-format-convert =
     .label = Converteix el missatge en text net
     .accesskey = C
