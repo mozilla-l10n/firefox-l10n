@@ -44,7 +44,6 @@ protection-report-page-summary = { -brand-short-name } dapat melindungi privasi 
 
 etp-card-title-always = Perlindungan Pelacakan yang Ditingkatkan: Selalu Aktif
 etp-card-title-custom-not-blocking = Perlindungan Pelacakan yang Ditingkatkan: NONAKTIF
-etp-card-content-summary = Ketika perusahaan tak dikenal mencoba diam-diam mengikuti Anda di web, { -brand-short-name } secara otomatis menghentikan mayoritas dari mereka.
 protection-report-etp-card-content-custom-not-blocking = Semua pengamanan saat ini nonaktif. Pilih pelacak yang akan diblokir dengan mengelola pengaturan perlindungan { -brand-short-name } Anda.
 protection-report-manage-protections = Kelola Pengaturan
 
@@ -69,9 +68,6 @@ fingerprinter-tab-content = Pelacak sidik mengumpulkan pengaturan dari browser d
 
 cryptominer-tab-title = Penambang Kripto
 cryptominer-tab-content = Penambang kripto menggunakan daya komputasi pada sistem Anda untuk menambang uang digital. Skrip penambangan kripto menguras baterai Anda, membuat Komputer anda lambat dan dapat menambah tagihan listrik Anda. <a data-l10n-name="learn-more-link">Pelajari lebih lanjut</a>
-
-protections-close-button =
-    .aria-label = Tutup
 
 protections-close-button2 =
     .aria-label = Tutup

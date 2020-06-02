@@ -4,10 +4,14 @@
 
 attachment-reminder-window =
     .title = Kata Kunci Pengingat Lampiran
+
 attachment-reminder-label = { -brand-short-name } akan mengingatkan Anda tentang lampiran yang tertinggal ketika Anda akan mengirim email dengankata kunci sebagai berikut.
+
 keyword-remove-button =
     .label = Hapus
     .accesskey = H
+
 new-keyword-label = Kata Kunci:
+
 edit-keyword-title = Ubah Kata Kunci
 edit-keyword-label = Kata Kunci:

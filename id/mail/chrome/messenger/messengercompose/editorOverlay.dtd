@@ -283,6 +283,7 @@
 <!ENTITY findToolbarCmd.tooltip "Cari teks di laman">
 <!ENTITY spellToolbarCmd.label "Periksa Ejaan">
 <!ENTITY spellToolbarCmd.tooltip "Periksa Ejaan saat mengetik atau seluruh laman">
+
 <!ENTITY imageToolbarCmd.label "Gambar">
 <!ENTITY imageToolbarCmd.tooltip "Sisipkan gambar baru atau sunting properti gambar yang dipilih">
 <!ENTITY hruleToolbarCmd.label "G.Mendatar">

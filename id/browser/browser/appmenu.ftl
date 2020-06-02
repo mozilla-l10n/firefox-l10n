@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Perlindungan Privasi
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Buka laporan privasi Anda
+
 appmenuitem-customize-mode =
     .label = Ubahsuai…
 

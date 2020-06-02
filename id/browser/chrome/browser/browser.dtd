@@ -285,10 +285,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Anda telah memblokir akses MIDI untuk situs web ini.">
 <!ENTITY urlbar.installBlocked.tooltip           "Anda telah memblokir pemasangan pengaya untuk situs Web ini.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Anda telah memberikan izin tambahan kepada situs web ini.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Anda telah memberikan izin tambahan kepada situs web ini.">
 
 
 <!ENTITY searchItem.title             "Cari">
@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Ubahsuai…">
 <!ENTITY viewCustomizeToolbar.accesskey     "U">
+
 <!ENTITY overflowCustomizeToolbar.label       "Ubahsuai Bilah Alat…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "U">
 
@@ -883,54 +884,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Buka Preferensi Pemblokiran Konten">
 
 
-<!ENTITY protections.etpON.header "Perlindungan Pelacakan yang Ditingkatkan AKTIF untuk situs ini">
-<!ENTITY protections.etpOFF.header "Perlindungan Pelacakan yang Ditingkatkan NONAKTIF untuk situs ini">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Informasi lebih lanjut tentang Perlindungan Pelacakan yang Ditingkatkan">
-<!ENTITY protections.settings.label "Setelan Perlindungan">
-<!ENTITY protections.showreport.label "Tampilkan Laporan">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Situs tidak berfungsi?">
-<!ENTITY protections.siteNotWorkingView.title "Situs Tidak Berfungsi?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Nonaktifkan perlindungan jika Anda memiliki masalah dengan:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Bidang info masuk">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Formulir">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Pembayaran">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Komentar">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Video">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Kirim laporan">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Diblokir">
-<!ENTITY protections.notBlocking2.label "Diizinkan">
-<!ENTITY protections.notFound.label "Tidak Terdeteksi">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Mengapa?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Memblokir yang berikut dapat merusak elemen pada beberapa situs web. Tanpa pelacak, beberapa tombol, formulir, dan bidang info masuk mungkin tidak berfungsi.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Semua pelacak di situs ini telah dimuat karena perlindungan dinonaktifkan.">
-<!ENTITY protections.noTrackersFound.description "Tidak ada pelacak yang dikenali &brandShortName; terdeteksi di laman ini.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Kuki ini mengikuti Anda dari situs ke situs untuk mengumpulkan data tentang apa yang Anda lakukan daring. Mereka ditetapkan oleh pihak ketiga seperti pengiklan dan perusahaan analitik.">
-<!ENTITY protections.cryptominers.description "Penambang kripto menggunakan kekuatan komputasi sistem Anda untuk menambang uang digital. Skrip penambangan kripto menguras baterai Anda, memperlambat komputer Anda, dan dapat meningkatkan tagihan listrik Anda.">
-<!ENTITY protections.fingerprinters.description "Pelacak sidik mengumpulkan pengaturan dari browser dan komputer Anda untuk membuat profil tentang Anda. Dengan menggunakan pelacak sidik digital ini, mereka dapat melacak Anda di berbagai situs web.">
-<!ENTITY protections.trackingContent2.description "Situs web dapat memuat iklan eksternal, video, dan konten lainnya dengan kode pelacakan. Pemblokiran konten pelacak dapat membantu situs dimuat lebih cepat, tetapi beberapa tombol, formulir, dan bidang info masuk mungkin tidak berfungsi.">
-<!ENTITY protections.socialMediaTrackers.description "Situs jejaring sosial menempatkan pelacak di situs web lain untuk mengikuti apa yang Anda lakukan, lihat, dan tonton secara daring. Ini memungkinkan perusahaan media sosial untuk belajar lebih banyak tentang Anda, di luar apa yang Anda bagikan di profil media sosial Anda.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tab peramban">
@@ -975,13 +928,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kuki">
 <!ENTITY contentBlocking.cookiesView.label "Kuki dan Data Situs">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Pelacakan Konten">
-
-<!ENTITY contentBlocking.manageSettings2.label "Kelola Setelan Perlindungan">
-<!ENTITY contentBlocking.manageSettings2.accesskey "K">
-
-<!ENTITY contentBlocking.socialblock.label "Pelacak Media Sosial">
-
 <!ENTITY contentBlocking.cryptominers.label "Penambang Kripto">
 <!ENTITY contentBlocking.cryptominersView.label "Penambang Kripto">
 
@@ -993,12 +939,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Pemblokiran konten bisa menyebabkan beberapa situs web tidak berfungsi dengan baik. Saat Anda melaporkan masalahnya, Anda membantu agar &brandShortName; menjadi lebih baik bagi semua orang. (Proses ini akan mengirimkan URL serta informasi tentang pengaturan peramban Anda ke Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pelajari Lebih Lanjut">
 
-<!ENTITY contentBlocking.breakageReportView.title "Laporkan Situs yang Rusak">
-<!ENTITY contentBlocking.breakageReportView3.description "Pemblokiran pelacak tertentu bisa menyebabkan beberapa situs web tidak berfungsi dengan baik. Saat Anda melaporkan masalahnya, Anda membantu agar &brandShortName; menjadi lebih baik bagi semua orang. Pengiriman laporan ini akan mengirimkan URL serta informasi tentang pengaturan peramban Anda ke Mozilla.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Pelajari lebih lanjut">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Apa masalahnya? (Opsional)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opsional: Jelaskan masalahnya">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Kirim Laporan">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Batal">
 
