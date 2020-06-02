@@ -21,3 +21,5 @@ sender-checkbox =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-after =
+    .value = segundos
