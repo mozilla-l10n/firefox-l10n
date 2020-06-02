@@ -113,6 +113,17 @@ remove-search-engine =
     .label = Odstrániť
     .accesskey = i
 new-message-arrival = Pri prijatí novej správy
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Prehrať nasledovný zvukový súbor:
+           *[other] Prehrať zvuk
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] z
+           *[other] h
+        }
 mail-play-button =
     .label = Ukážka
     .accesskey = U
