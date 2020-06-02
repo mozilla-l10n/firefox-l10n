@@ -21,6 +21,7 @@ html-format-send-html =
 html-format-send-both =
     .label = Send meddelelsen som både HTML og ren tekst-format
     .accesskey = b
+default-html-format-info = Note: Brug adressebogen til at angive tekstformat for modtagere.
 html-tab-label =
     .label = HTML-domæner
     .accesskey = H
