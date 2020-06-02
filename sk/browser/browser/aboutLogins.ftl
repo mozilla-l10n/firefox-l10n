@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = Prihlasovacie údaje
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -110,21 +115,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Ak chcete upraviť prihlasovacie údaje, najprv overte svoju totožnosť.
-
-# This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upraviť uložené prihlasovacie údaje
 
 # This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = Pre zobrazenie uloženého hesla najprv overte svoju totožnosť.
-
-# This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = zobraziť uložené heslo
-
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Pre skopírovanie uloženého hesla najprv overte svoju totožnosť.
 
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -198,3 +194,7 @@ about-logins-error-message-duplicate-login-with-link = Prihlasovacie údaje pre 
 
 # This is a generic error message.
 about-logins-error-message-default = Pri pokuse o uloženie tohto hesla nastala chyba.
+
+
+## Login Export Dialog
+

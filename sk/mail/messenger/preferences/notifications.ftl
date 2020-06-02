@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Prispôsobenie upozornenia na novú správu
+
 customize-alert-description = Vyberte, ktoré položky sa majú v upozornení zobraziť:
+
 preview-text-checkbox =
     .label = Ukážka textu správy
     .accesskey = U
+
 subject-checkbox =
     .label = Predmet
     .accesskey = P
+
 sender-checkbox =
     .label = Odosielateľ
     .accesskey = O
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Upozornenie zobrazovať po dobu
     .accesskey = z
+
 open-time-label-after =
     .value = sekúnd

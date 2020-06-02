@@ -67,9 +67,6 @@ fingerprinter-tab-content = Zberom informácií o vašom prehliadači a počíta
 cryptominer-tab-title = Ťažba kryptomien
 cryptominer-tab-content = Ťažba kryptomien používa výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu a spomaľujú váš počítač. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 
-protections-close-button =
-    .aria-label = Zavrieť
-
 protections-close-button2 =
     .aria-label = Zavrieť
     .title = Zavrieť
