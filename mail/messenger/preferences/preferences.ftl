@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] ចំណូល​ចិត្ត
+        }
 pane-compose-title = Composition
 category-compose =
     .tooltiptext = Composition
@@ -28,10 +34,15 @@ location-label =
 restore-default-label =
     .label = Restore Default
     .accesskey = R
+default-search-engine = ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម
 new-message-arrival = When new messages arrive:
 mail-play-button =
     .label = Play
     .accesskey = P
+change-dock-icon = ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​សម្រាប់​រូបតំណាង​កម្មវិធី
+app-icon-options =
+    .label = ជម្រើស​រូបតំណាង​កម្មវិធី…
+    .accesskey = n
 animated-alert-label =
     .label = Show an alert
     .accesskey = S
@@ -50,6 +61,16 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Enable Global Search and Indexer
     .accesskey = E
+allow-hw-accel =
+    .label = ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន
+    .accesskey = ប
+store-type-label =
+    .value = ប្រភេទ​ឧបករណ៍​ផ្ទុកសារ​សម្រាប់​គណនី​ថ្មី៖
+    .accesskey = ស
+mbox-store-label =
+    .label = ឯកសារ​ក្នុង​មួយ​ថត (mbox)
+maildir-store-label =
+    .label = ឯកសារ​ក្នុង​សារ​មួយ (maildir)
 scrolling-legend = រមូរ
 autoscroll-label =
     .label = ប្រើ​រមូរ​ស្វ័យប្រវត្តិ
@@ -82,6 +103,15 @@ return-receipts-description = Determine how { -brand-short-name } handles return
 return-receipts-button =
     .label = Return Receipts…
     .accesskey = R
+automatic-updates-label =
+    .label = ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ (បាន​ផ្ដល់​អនុសាសន៍ ៖ សុវត្ថិភាព​កាន់​តែ​ប្រសើរ)
+    .accesskey = A
+check-updates-label =
+    .label = ពិនិត្យមើល​​បច្ចុប្បន្នភាព ប៉ុន្តែ​អនុញ្ញាត​ឲ្យ​ខ្ញុំ​ជ្រើស​ថា​តើ​ត្រូវ​ដំឡើង​ពួកវា​ដែរ​ឬ​ទេ
+    .accesskey = C
+update-history-button =
+    .label = បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព
+    .accesskey = p
 use-service =
     .label = ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព
     .accesskey = b
@@ -113,6 +143,7 @@ use-cache-after = MB of space for the cache
 clear-cache-button =
     .label = Clear Now
     .accesskey = C
+fonts-legend = អត្ថបទ៖
 default-font-label =
     .value = Default font:
     .accesskey = D
@@ -183,13 +214,40 @@ display-tags-text = Tags can be used to categorize and prioritize your messages.
 delete-tag-button =
     .label = Delete
     .accesskey = D
+auto-mark-as-read =
+    .label = Automatically mark messages as read
+    .accesskey = A
+mark-read-no-delay =
+    .label = Immediately on display
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = After displaying for
+    .accesskey = d
+seconds-label = seconds
 
 ##
 
+open-msg-label =
+    .value = Open messages in:
+open-msg-tab =
+    .label = A new tab
+    .accesskey = t
+open-msg-window =
+    .label = A new message window
+    .accesskey = n
+open-msg-ex-window =
+    .label = An existing message window
+    .accesskey = e
+close-move-delete =
+    .label = Close message window/tab on move or delete
+    .accesskey = C
+condensed-addresses-label =
+    .label = Show only display name for people in my address book
+    .accesskey = S
 
 ## Compose Tab
 
@@ -275,6 +333,43 @@ cloud-account-description = បន្ថែម​សេវាកម្ម​ផ�
 
 ## Privacy Tab
 
+mail-content = មាតិកា​អ៊ីមែល
+remote-content-label =
+    .label = អនុញ្ញាត​មាតិកា​ពី​ចម្ងាយ​ក្នុងសារ
+    .accesskey = m
+exceptions-button =
+    .label = ករណី​លើកលែង…
+    .accesskey = E
+remote-content-info =
+    .value = ស្វែងយល់​បន្ថែម​អំពី​បញ្ហា​ភាព​ឯកជន​នៃ​មាតិកា​ពី​ចម្ងាយ
+web-content = Web Content
+history-label =
+    .label = ចងចាំ​វេបសាយ និង​តំណ​ដែលខ្ញុំ​បានមើល
+    .accesskey = R
+cookies-label =
+    .label = ទទួលយក​ខូគី​ពី​តំបន់​បណ្ដាញ
+    .accesskey = A
+third-party-label =
+    .value = ព្រម​ទទួល​ខូគី​ភាគី​ទីបី៖
+    .accesskey = c
+third-party-always =
+    .label = ជានិច្ច
+third-party-never =
+    .label = មិន
+third-party-visited =
+    .label = ពី​អ្វី​ដែល​បាន​ទស្សនា
+keep-label =
+    .value = Keep until:
+    .accesskey = K
+keep-expire =
+    .label = they expire
+keep-close =
+    .label = I close { -brand-short-name }
+keep-ask =
+    .label = ask me every time
+cookies-button =
+    .label = Show Cookies…
+    .accesskey = S
 passwords-description = { -brand-short-name } can remember passwords for all of your accounts.
 passwords-button =
     .label = Saved Passwords…
@@ -313,9 +408,15 @@ phishing-label =
     .label = Tell me if the message I'm reading is a suspected email scam
     .accesskey = T
 certificate-description = When a server requests my personal certificate:
+certificate-auto =
+    .label = Select one automatically
+    .accesskey = S
 certificate-ask =
     .label = Ask me every time
     .accesskey = A
+ocsp-label =
+    .label = ម៉ាស៊ីនមេ​​ឆ្លើយតប OCSP ដើម្បី​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​របស់វិញ្ញាបនបត្រ​បច្ចុប្បន្ន
+    .accesskey = ម
 
 ## Chat Tab
 
@@ -346,6 +447,31 @@ away-message-label =
 send-typing-label =
     .label = ផ្ញើ​ការ​ជូនដំណឹង​វាយ​អក្សរ​នៅ​ក្នុង​ការ​សន្ទនា
     .accesskey = t
+notification-label = នៅ​ពេល​ដែល​សារ​ទៅ​ដល់​អ្នក​ដោយ​ផ្ទាល់៖
+show-notification-label =
+    .label = បង្ហាញ​ការ​​ជូន​ដំណឹង៖
+    .accesskey = c
+notification-all =
+    .label = ជា​មួយ​ឈ្មោះអ្នក​ផ្ញើ និងការមើលសារជា​មុន
+notification-name =
+    .label = ជា​មួយ​ឈ្មោះ​អ្នកប្រើប៉ុណ្ណោះ
+notification-empty =
+    .label = ដោយគ្មាន​ព័ត៌មាន​ណា​មួយ
+chat-play-sound-label =
+    .label = ចាក់​សំឡេង
+    .accesskey = d
+chat-play-button =
+    .label = ចាក់
+    .accesskey = P
+chat-system-sound-label =
+    .label = សំឡេង​ប្រព័ន្ធ​អ៊ីមែល​លំនាំដើម​សម្រាប់​អ៊ីមែល​ថ្មី
+    .accesskey = D
+chat-custom-sound-label =
+    .label = Use the following sound file
+    .accesskey = U
+chat-browse-sound-button =
+    .label = រក​មើល…
+    .accesskey = B
 
 ## Preferences UI Search Results
 
