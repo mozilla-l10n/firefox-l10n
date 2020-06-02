@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = Z
     .tooltiptext = Unesite željeni URL za DNS preko HTTPS
 connection-dns-over-https-custom-label = Zadano
+connection-dialog-window =
+    .title = Postavke spajanja
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Podesite proxy za pristupanje Internetu
 proxy-type-no =
     .label = Bez proxyja
@@ -58,3 +65,13 @@ no-proxy-label =
     .value = Bez proxyja za:
     .accesskey = z
 no-proxy-example = Primjer: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = Ne pitaj za prijavu ukoliko je lozinka spremljena
+    .accesskey = i
+    .tooltiptext = Ova mogućnost vas tiho prijavi na proxy ukoliko imate spremljene lozinke za njih. Biti ćete obaviješteni ukoliko prijava nije uspješna.
+proxy-remote-dns =
+    .label = Proxy DNS ukoliko se koristi SOCKS v5
+    .accesskey = d
+proxy-enable-doh =
+    .label = Omogući DNS preko HTTPS
+    .accesskey = D
