@@ -4,10 +4,25 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Privzeta ({ $name })
 fonts-label-default-unnamed =
     .label = Privzeta
+
+## Languages
+
+
+## Default font type
+
+default-font-serif =
+    .label = Serif
+default-font-sans-serif =
+    .label = Sans Serif
+
+## Fonts in message
+
+
+## Language settings
+
