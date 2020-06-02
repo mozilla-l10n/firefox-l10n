@@ -4,7 +4,12 @@
 
 system-integration-title =
     .title = Integración col sistema
+system-integration-dialog =
+    .buttonlabelaccept = Definir como predet.
+    .buttonlabelcancel = Omitir integración
+    .buttonlabelcancel2 = Encaboxar
 default-client-intro = Usar { -brand-short-name } como veceru por defeutu pa:
+unset-default-tooltip = Nun ye dable desaniciar { -brand-short-name } como veceru predetermináu dende'l propiu { -brand-short-name }. Pa que otra aplicación seya la predeterminada, tienes d'usar el diálogu 'Afitar como predeterminada'.
 checkbox-email-label =
     .label = Corréu-e
     .tooltiptext = { unset-default-tooltip }
