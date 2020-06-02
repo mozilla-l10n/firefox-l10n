@@ -4,7 +4,12 @@
 
 system-integration-title =
     .title = Nastavení systému
+system-integration-dialog =
+    .buttonlabelaccept = Nastavit jako výchozí
+    .buttonlabelcancel = Přeskočit integraci
+    .buttonlabelcancel2 = Zrušit
 default-client-intro = Použít aplikaci { -brand-short-name } jako výchozí pro:
+unset-default-tooltip = Z aplikace { -brand-short-name } není možné nastavit, aby { -brand-short-name } nebyl výchozí klient. Pro nastavení jiné aplikace jako výchozí použijte její dialog pro nastavení výchozí aplikace.
 checkbox-email-label =
     .label = E-mail
     .tooltiptext = { unset-default-tooltip }
