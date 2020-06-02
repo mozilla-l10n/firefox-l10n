@@ -4,7 +4,12 @@
 
 system-integration-title =
     .title = Integrare cu sistemul
+system-integration-dialog =
+    .buttonlabelaccept = Setează ca implicit
+    .buttonlabelcancel = Omite integrarea
+    .buttonlabelcancel2 = Renunțare
 default-client-intro = Folosește { -brand-short-name } ca și client implicit pentru:
+unset-default-tooltip = Nu este posibil să deselectezi { -brand-short-name } ca clientul implicit în cadrul opțiunilor din { -brand-short-name }. Pentru a face un program ca și client implicit trebuie să folosești dialogul său „Setează ca implicit”.
 checkbox-email-label =
     .label = E-mail
     .tooltiptext = { unset-default-tooltip }
