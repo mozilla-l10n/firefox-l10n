@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "а">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Шрифт">
 <!ENTITY FontFaceSelect.tooltip "Изберете шрифт">
 <!ENTITY fontfaceMenu.label "Шрифт">
 <!ENTITY fontfaceMenu.accesskey "Ш">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Размер на шрифта">
 <!ENTITY FontSizeSelect.tooltip "Изберете размер на шрифта">
 <!ENTITY decreaseFontSize.label "Намаляване">
 <!ENTITY decreaseFontSize.accesskey "я">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Свойства на списъка…">
 <!ENTITY listPropsCmd.accesskey "С">
 
+<!ENTITY ParagraphSelect.title "Абзац">
 <!ENTITY ParagraphSelect.tooltip "Избор на формат за абзац">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Основен текст">
@@ -304,6 +307,7 @@
 <!ENTITY linkToolbarCmd.tooltip "Вмъкване на нова връзка или редактиране свойствата на избраната връзка">
 <!ENTITY anchorToolbarCmd.label "Котва">
 <!ENTITY anchorToolbarCmd.tooltip "Вмъкване на нова именувана котва или редактиране свойствата на избраната котва">
+<!ENTITY colorButtons.title "Цветове">
 <!ENTITY TextColorButton.tooltip "Изберете цвят на текста">
 <!ENTITY BackgroundColorButton.tooltip "Изберете цвят за фона">
 <!ENTITY throbber.tooltip "Към началната страница на &vendorShortName;">
@@ -311,9 +315,13 @@
 <!ENTITY HighlightColorButton.tooltip "Изберете цвят на откроения текст">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Размер на шрифта">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Задаване размер на шрифта">
+<!ENTITY smaller.label "По-малък">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Намаляване размера на шрифта">
+<!ENTITY larger.label "По-голям">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Увеличаване размера на текста">
+<!ENTITY bold.label "Получер">
 <!ENTITY boldToolbarCmd.tooltip "Удебелен">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
 <!ENTITY underlineToolbarCmd.tooltip "Подчертан">
