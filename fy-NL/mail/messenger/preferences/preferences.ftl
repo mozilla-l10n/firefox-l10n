@@ -88,6 +88,7 @@ start-page-label =
 restore-default-label =
     .label = Standertynstelling tebeksette
     .accesskey = S
+default-search-engine = Standertsykmasine
 new-message-arrival = As nije berjochten oankomme:
 mail-play-button =
     .label = Ofspylje
@@ -119,6 +120,9 @@ search-engine-name =
 check-updates-label =
     .label = Kontrolearje op fernijngen, mar lit my kieze oft ik se ynstallearje wol
     .accesskey = K
+update-history-button =
+    .label = Fernijingsskiednis toane
+    .accesskey = s
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -199,12 +203,16 @@ auto-save-end = minuten automatysk bewarje
 
 ##
 
+warn-on-send-accel-key =
+    .label = Befêstiging freegje by gebrûk fan fluchtoets om berjochten te ferstjoeren
+    .accesskey = B
 spellcheck-label =
     .label = Stavering kontrolearje foar it ferstjoeren
     .accesskey = k
 language-popup-label =
     .value = Taal:
     .accesskey = T
+download-dictionaries-link = Mear wurdboeken downloade
 font-label =
     .value = Lettertype:
     .accesskey = L
@@ -218,6 +226,7 @@ format-description = Tekstopmaakgedrach konfigurearje
 send-options-label =
     .label = Ferstjoeropsjes…
     .accesskey = F
+autocomplete-description = By it adressearjen fan berjochten nei oerienkomsten sykje yn:
 ab-label =
     .label = Lokale adresboeken
     .accesskey = r
@@ -300,6 +309,12 @@ antivirus-label =
 certificate-auto =
     .label = Selektearje automatysk ien
     .accesskey = m
+certificate-ask =
+    .label = My altyd freegje
+    .accesskey = a
+ocsp-label =
+    .label = OCSP-responderservers freegje om de aktuele faliditeit fan sertifikaten te befêstigjen
+    .accesskey = F
 
 ## Chat Tab
 
