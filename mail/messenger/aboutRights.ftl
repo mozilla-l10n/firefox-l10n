@@ -15,6 +15,7 @@ rights-webservices = O { -brand-full-name } usa serviços de informação basead
 rights-locationawarebrowsing = <strong>Navegação com conhecimento da localização: </strong>é sempre de indicação explícita.  Não serão enviadas quaisquer informações de localização sem a sua permissão.  Se quiser desativar completamente a funcionalidade, siga estes passos:
 rights-locationawarebrowsing-term-1 = Na barra de URL, escreva <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Escreva geo.enabled
+rights-locationawarebrowsing-term-3 = Duplo clique na preferência geo.enabled
 rights-locationawarebrowsing-term-4 = A navegação com conhecimento da localização está agora desativada
 rights-webservices-unbranded =
     Uma visão dos serviços de sites que o produto incorpora, 
