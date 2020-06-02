@@ -11,6 +11,8 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Krátky: { $date }
+timezone-label =
+    .value = Časové pásmo:
 weekstart-label =
     .value = Prvý deň v týždni:
     .accesskey = d
