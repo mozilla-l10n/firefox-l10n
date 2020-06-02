@@ -11,6 +11,8 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Kurz: { $date }
+timezone-label =
+    .value = Zeitzone:
 weekstart-label =
     .value = Erster Tag der Woche:
     .accesskey = r
