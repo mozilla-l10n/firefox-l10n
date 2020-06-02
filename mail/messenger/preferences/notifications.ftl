@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Personalizar avisu de corréu nuevu
+
 customize-alert-description = Esbilla qué campos amosar na notificación d'avisu:
+
 preview-text-checkbox =
     .label = Testu de previsualización de mensaxe
     .accesskey = T
+
 subject-checkbox =
     .label = Asuntu
     .accesskey = A
+
 sender-checkbox =
     .label = Remitente
     .accesskey = R
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Amosar alertes de corréu nuevu mentanto
     .accesskey = M
+
 open-time-label-after =
     .value = segundos
