@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Dibarzhioù
+           *[other] Gwellvezioù
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = Aozañ
@@ -10,6 +16,9 @@ category-compose =
 pane-chat-title = Postelerezh prim
 category-chat =
     .tooltiptext = Postelerezh prim
+pane-calendar-title = Deiziataer
+category-calendar =
+    .tooltiptext = Deiziataer
 general-language-and-appearance-header = Yezhoù & Neuz
 general-incoming-mail-header = Posteloù o tont
 general-files-and-attachment-header = Restroù & Kenstagadurioù
@@ -56,7 +65,19 @@ location-label =
 restore-default-label =
     .label = Assav ar re dre ziouer
     .accesskey = r
+default-search-engine = Keflusker Enklask dre Ziouer
 new-message-arrival = P'en em gav kemennadennoù nevez :
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Ober gant ar restr son da heul:
+           *[other] Seniñ ur son
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] u
+           *[other] s
+        }
 mail-play-button =
     .label = Lenn
     .accesskey = e
@@ -64,6 +85,7 @@ change-dock-icon = Kemmañ gwellvezioù arlun an arload
 app-icon-options =
     .label = Gwellvezioù arlun an arload…
     .accesskey = a
+notification-settings = Ar galvoù-diwall hag ar son dre ziouer a c'hall bezañ diweredekaet war penel rebuziñ ar gwellvezioù reizhiad.
 animated-alert-label =
     .label = Diskouez ur c'hemenn evezhiañ
     .accesskey = s
@@ -82,6 +104,13 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Gweredekaat ar c'hlask hag an ibiliañ hollek
     .accesskey = h
+store-type-label =
+    .value = Rizh Kadaviñ Kemennadenn evit kontoù nevez :
+    .accesskey = R
+mbox-store-label =
+    .label = Restr dre teuliad (mbox)
+maildir-store-label =
+    .label = Restr dre kemennadenn (kavlec'h postel)
 scrolling-legend = Dibunañ
 autoscroll-label =
     .label = Arverañ an dibunañ emgefreek
@@ -225,16 +254,49 @@ always-ask-label =
     .label = Atav goulenn diganin pelec'h enrollañ ar restroù
     .accesskey = A
 display-tags-text = Arveret e vez merkoù da rummañ ha lakaat tevet war ho kemennadennoù.
+new-tag-button =
+    .label = Nevez...
+    .accesskey = N
+edit-tag-button =
+    .label = Embann…
+    .accesskey = E
 delete-tag-button =
     .label = Dilemel
     .accesskey = D
+auto-mark-as-read =
+    .label = Merkañ ar c'hemennadennoù evel lennet ent emgefreek
+    .accesskey = a
+mark-read-no-delay =
+    .label = Adalek ar skrammañ
+    .accesskey = s
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Goude
+    .accesskey = d
+seconds-label = a eilennoù
 
 ##
 
+open-msg-label =
+    .value = Digeriñ ar c'hemennadennoù e-barzh:
+open-msg-tab =
+    .label = Un ivinell nevez
+    .accesskey = i
+open-msg-window =
+    .label = Ur prenestr kemennadenn nevez
+    .accesskey = p
+open-msg-ex-window =
+    .label = Ur prenestr kemennadenn digor
+    .accesskey = d
+close-move-delete =
+    .label = Serrin prenestr / ivinell ar gemennadenn goude an dilec'hiañ pe an dilemel
+    .accesskey = S
+condensed-addresses-label =
+    .label = Diskouez an anv evit an den eus ma c'harned chomlec'hioù nemetken
+    .accesskey = D
 
 ## Compose Tab
 
@@ -284,6 +346,9 @@ bg-color-label =
 restore-html-label =
     .label = Assav ar re dre ziouer
     .accesskey = r
+default-format-label =
+    .label = Arverañ ar mentrezh Rannbennad e-lec'h ar C'horf Testenn dre ziouer
+    .accesskey = R
 format-description = Kefluniañ emzalc'h ar mentrezh testenn
 autocomplete-description = Pa lakait chomlec'h ar c'hemennadennoù, sellit ouzh an enankadoù a glot e :
 ab-label =
@@ -307,6 +372,10 @@ enable-cloud-share =
     .label = Kinnig evit rannañ restroù vrasoc'h eget
 cloud-share-size =
     .value = Me
+add-cloud-account =
+    .label = Ouzhpennañ...
+    .accesskey = O
+    .defaultlabel = Ouzhpennañ...
 remove-cloud-account =
     .label = Lemel
     .accesskey = L
@@ -388,6 +457,10 @@ phishing-description = Barrek eo { -brand-short-name } da zezrannañ kemennadenn
 phishing-label =
     .label = Lavar din hag-eñ emaon o lenn ur postel gant c'hwezh ar c'hwiberezh warnañ
     .accesskey = e
+antivirus-description = Gallout a ray { -brand-short-name } aesaat labour an enep-viruzoù da zielfennañ kemennadennoù ouzh ar viruzoù, a-raok ma vo gwaredet ar c'hemennadennoù war hoc'h urzhiataer.
+antivirus-label =
+    .label = Aotren an enep-viruzoù da lakaat en dispell ar c'hemennadennoù oc'h erruout.
+    .accesskey = A
 certificate-description = Pa vez goulennet ma zesteni personel gant un dafariad:
 certificate-auto =
     .label = Diuz unan ent emgefreek
