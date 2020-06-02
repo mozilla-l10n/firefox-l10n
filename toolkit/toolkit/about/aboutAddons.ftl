@@ -605,9 +605,6 @@ updates-heading = Управљајте вашим ажурирањима
 discover-heading = Персонализујте ваш { -brand-short-name }
 shortcuts-heading = Управљај пречицама екстензија
 
-theme-heading-search-label = Нађите више тема
-extension-heading-search-label = Нађите више екстензија
-
 default-heading-search-label = Пронађите још додатака
 addons-heading-search-input =
     .placeholder = Претражи сајт addons.mozilla.org

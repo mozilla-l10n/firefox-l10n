@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Колачићи
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Претрага:
     .accesskey = П
+
 cookies-on-system-label = Следећи колачићи су сачувани на вашем рачунару:
+
 treecol-site-header =
     .label = Страница
+
 treecol-name-header =
     .label = Име колачића
+
 props-name-label =
     .value = Име:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Истиче:
 props-container-label =
     .value = Контејнер:
+
 remove-cookie-button =
     .label = Уклони колачић
     .accesskey = У
+
 remove-all-cookies-button =
     .label = Уклони све колачиће
     .accesskey = в
+
 cookie-close-button =
     .label = Затвори
     .accesskey = З

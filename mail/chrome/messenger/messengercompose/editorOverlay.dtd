@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Нађи текст на страници">
 <!ENTITY spellToolbarCmd.label "Правопис">
 <!ENTITY spellToolbarCmd.tooltip "Провери правопис изабраног или целе странице">
+
 <!ENTITY imageToolbarCmd.label "Слика">
 <!ENTITY imageToolbarCmd.tooltip "Убаци нову слику или уреди својства изабране слике">
 <!ENTITY hruleToolbarCmd.label "В.Линија">

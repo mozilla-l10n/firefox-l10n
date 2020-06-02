@@ -57,6 +57,7 @@ rcwn-avg-long = Дужа просечна
 rcwn-std-dev-long = Дугачко подразумевано одступање
 rcwn-cache-slow = Број успореног кеша
 rcwn-cache-not-slow = Брз неуспореног кеша
+
 about-networking-title = О умрежавању
 about-networking-http = HTTP
 about-networking-sockets = Sockets
