@@ -14,6 +14,5 @@ accounts-conn-security = Zwiskowa wěstota
 accounts-auth-method = Awtentifikaciska metoda
 accounts-default = Standard?
 identity-name = Identita
-
 send-via-email = Přez e-mejl pósłać
-
+app-basics-telemetry = Telemetrijne daty
