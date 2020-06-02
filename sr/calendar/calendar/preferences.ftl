@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Календар
+calendar-title-reminder = Подсетници
+calendar-title-category = Категорије
 dateformat-label =
     .value = Формат текста датума:
     .accesskey = д
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Прикажи број недеље у прегледима и мини-месецу
     .accesskey = к
+workdays-label =
+    .value = Радни дани у недељи:
 day-1-checkbox =
     .label = Нед
     .accesskey = Н
@@ -102,6 +107,9 @@ soon-label =
     .value = Одељак „Предстојећи“ приказује:
     .accesskey = О
 event-task-legend = Догађаји и задаци
+default-length-label =
+    .value = Подразумевана дужина догађаја и задатка:
+    .accesskey = Е
 task-start-label =
     .value = Почетни датум:
 task-start-1-label =
@@ -139,6 +147,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Користи подразумевани звук
     .accesskey = д
+reminder-custom-sound-label =
+    .label = Користите следећу звучну датотеку
+    .accesskey = У
 reminder-browse-sound-label =
     .label = Прегледај…
     .accesskey = р
