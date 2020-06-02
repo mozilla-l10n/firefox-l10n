@@ -39,6 +39,7 @@ week-5-label =
     .label = 5 săptămâni
 week-6-label =
     .label = 6 săptămâni
+accessibility-legend = Accesibilitate
 reminder-play-checkbox =
     .label = Redă un sunet
     .accesskey = s
