@@ -8,6 +8,12 @@ category-general =
 pane-compose-title = Opstelle
 category-compose =
     .tooltiptext = Opstelle
+pane-chat-title = Chat
+category-chat =
+    .tooltiptext = Chat
+pane-calendar-title = Aginda
+category-calendar =
+    .tooltiptext = Aginda
 general-language-and-appearance-header = Taal en Foarmjouwing
 general-incoming-mail-header = Ynkommende e-mailberjochten:
 general-files-and-attachment-header = Bestannen en Bylagen
@@ -76,6 +82,9 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## General Tab
 
 general-legend = { -brand-short-name }-startside
+start-page-label =
+    .label = Wannear't { -brand-short-name } start, de startside yn it berjochtdiel toane
+    .accesskey = W
 restore-default-label =
     .label = Standertynstelling tebeksette
     .accesskey = S
@@ -83,12 +92,22 @@ new-message-arrival = As nije berjochten oankomme:
 mail-play-button =
     .label = Ofspylje
     .accesskey = f
+change-dock-icon = Wizigje eigenskippen fan it programmasymboal
 animated-alert-label =
     .label = In melding toane
+    .accesskey = t
+customize-alert-label =
+    .label = Oanpasse…
+    .accesskey = O
+tray-icon-label =
+    .label = Taakbalkikoantsje toane
     .accesskey = t
 mail-custom-sound-label =
     .label = It folgjende lûdsbestân brûke
     .accesskey = l
+mail-browse-sound-button =
+    .label = Blêdzje…
+    .accesskey = B
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -97,6 +116,9 @@ search-engine-name =
         [windows] Windows Zoeken
        *[other] { "" }
     }
+check-updates-label =
+    .label = Kontrolearje op fernijngen, mar lit my kieze oft ik se ynstallearje wol
+    .accesskey = K
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -105,12 +127,16 @@ search-engine-name =
 
 ##
 
+fonts-legend = Lettertypen & kleuren
 default-font-label =
     .value = Standertlettertype:
     .accesskey = S
 default-size-label =
     .value = Grutte:
     .accesskey = G
+color-options-button =
+    .label = Kleuren…
+    .accesskey = K
 display-width-legend = Platte-tekstberjochten
 display-text-label = Sitearre tekst yn platte-tekstberjochten werjaan as:
 style-label =
@@ -133,6 +159,9 @@ bigger-size-item =
     .label = Grutter
 smaller-size-item =
     .label = Lytser
+quoted-text-color =
+    .label = Kleur:
+    .accesskey = K
 save-to-label =
     .label = Bewarje bestannen yn
     .accesskey = w
@@ -203,12 +232,49 @@ attachment-label =
 attachment-options-label =
     .label = Kaaiwurden…
     .accesskey = K
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Fuortsmite
+    .accesskey = F
+cloud-account-description = In nije Filelink bewartsjinst tafoegje
 
 ## Privacy Tab
 
+mail-content = E-mailynhâld
+remote-content-label =
+    .label = Ynbedde ynhâld tastean yn berjochten
+    .accesskey = Y
+exceptions-button =
+    .label = Utsûnderingen…
+    .accesskey = U
+remote-content-info =
+    .value = Mear ynfo oer de privacysaken of ynbedde ynhâld
+web-content = Webynhâld
+history-label =
+    .label = Unthâld websites en keppelings dy't ik besocht haw
+    .accesskey = w
+cookies-label =
+    .label = Akseptearje cookies fan websites
+    .accesskey = A
+third-party-label =
+    .value = Akseptearje tredde-party cookies:
+    .accesskey = c
+third-party-always =
+    .label = Altyd
+third-party-visited =
+    .label = Fan besochte
+keep-label =
+    .value = Bewarje oant:
+    .accesskey = B
+keep-expire =
+    .label = se ferrinne
+keep-close =
+    .label = Ik { -brand-short-name } ôfslut
 passwords-button =
     .label = Bewarre wachtwurden…
     .accesskey = B
+junk-description = Stel jo standertynstellingen foar net-winske-berjochtedeteksje yn. Accountspesifike ynstellingen kinne konfigurearre wurde yn Accountynstellingen.
 junk-label =
     .label = Wannear ik berjochten markearje as net-winske:
     .accesskey = W
@@ -244,9 +310,41 @@ certificate-auto =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Myn kontakten nei
+    .accesskey = k
+idle-time-label = minuten ynaktiviteit litte witte dat ik net aktyf bin
 
 ##
 
+away-message-label =
+    .label = en myn steat op Ofwêzich ynstelle mei dit steatberjocht:
+    .accesskey = O
+send-typing-label =
+    .label = Typenotifikaasjes ferstjoere yn konversaasjes
+    .accesskey = T
+notification-label = As berjochten foar jo oankomme:
+notification-all =
+    .label = mei namme fan ôfstjoerder en berjochtfoarbyld
+notification-name =
+    .label = allinnich mei namme fan ôfstjoerder
+notification-empty =
+    .label = sûnder ynfo
+chat-play-sound-label =
+    .label = Spylje in lûd
+    .accesskey = d
+chat-play-button =
+    .label = Spylje
+    .accesskey = S
+chat-system-sound-label =
+    .label = Standert systeemlûd foar nije e-mail
+    .accesskey = n
+chat-custom-sound-label =
+    .label = Brûk it folgjende lûdsbestân
+    .accesskey = l
+chat-browse-sound-button =
+    .label = Blêdzje…
+    .accesskey = B
 
 ## Preferences UI Search Results
 
