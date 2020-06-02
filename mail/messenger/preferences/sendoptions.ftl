@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Sendeinnstillingar
 send-mail-title = Tekstformat
+auto-downgrade-label =
+    .label = Send meldingar som rein tekst om muleg
+    .accesskey = S
 default-html-format-label = Ved sending av meldingar i HTML-format, og ein eller fleire mottakarar er oppførde som å ikkje kunne ta imot HTML:
 html-format-ask =
     .label = Spør meg om kva som skal gjerast

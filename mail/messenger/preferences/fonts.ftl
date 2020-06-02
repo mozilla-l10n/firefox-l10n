@@ -63,12 +63,27 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-math =
+    .label = Mathematics
 
 ## Default font type
 
+default-font-serif =
+    .label = Seriffskrift
+default-font-sans-serif =
+    .label = Serifflaus skrift
+font-serif-label =
+    .value = Seriffskrift:
+    .accesskey = S
+font-sans-serif-label =
+    .value = Serrifflaus-skrift:
+    .accesskey = u
 font-monospace-label =
     .value = Fast teiknavstand:
     .accesskey = F
+font-min-size-label =
+    .value = Minste skriftstørrelse:
+    .accesskey = M
 min-size-none =
     .label = Ingen
 
@@ -84,9 +99,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Tekstkoding
+text-encoding-description = Vel standard tekstkoding for sending og mottak av e-post
 font-outgoing-email-label =
     .value = Utgåande e-post:
     .accesskey = U
 font-incoming-email-label =
     .value = Innkomande e-post:
     .accesskey = I
+default-font-reply-checkbox =
+    .label = Når mogleg, bruk standard tekstkoding i svar
+    .accesskey = N
