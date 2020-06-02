@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Mdel
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -138,6 +140,7 @@ enable-gloda-search-label =
     .label = Rmed anadi amatu akked timerna n ukatar
     .accesskey = m
 datetime-formatting-legend = Amsal n uzemz akked wakud
+language-selector-legend = Tutlayt
 allow-hw-accel =
     .label = Seqdec tasɣiwelt n warrum ma tella
     .accesskey = q
@@ -184,6 +187,7 @@ update-app-legend = Ileqman n { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Lqem { $version }
+allow-description = Eǧǧ { -brand-short-name }
 automatic-updates-label =
     .label = Sebded s wudem awurman ileqman (yelha i tɣellist-inek)
     .accesskey = A
@@ -196,6 +200,7 @@ update-history-button =
 use-service =
     .label = Seqdec tanfa n ugilal i wesebded n ileqman
     .accesskey = b
+cross-user-udpate-warning = Aɣewwaṛ-a ad yeddu meṛṛa deg yimiḍanen Windows akked imeɣna yesseqdacen asebded-a n { -brand-short-name }.
 networking-legend = Tuqqna
 proxy-config-description = Swel tarrayt n tuqqna n { -brand-short-name } ɣer Internet
 network-settings-button =
@@ -563,6 +568,17 @@ notification-name =
     .label = S yisem n umazan kan
 notification-empty =
     .label = swar talɣut
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Ḥerrek tignit n tacirra
+           *[other] Sebrureq aferdis deg ufeggag n yirmuden
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Urar imesli
     .accesskey = l
