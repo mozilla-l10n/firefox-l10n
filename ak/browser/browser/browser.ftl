@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Brawsen A Ɛyɛ Praevet)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Brawsen A Ɛyɛ Praevet)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Brawsen A Ɛyɛ Praevet)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Brawsen A Ɛyɛ Praevet)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -110,5 +112,6 @@ urlbar-placeholder =
     .placeholder = Hwehwɛ anaaso kyerɛw adrɛs
 urlbar-switch-to-tab =
     .value = Swekye kɔ tab:
+
 urlbar-go-button =
     .tooltiptext = Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu
