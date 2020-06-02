@@ -13,6 +13,8 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "E-mail cím:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Válasz ettől a személyazonosságról, ha a kézbesítési fejlécek megegyeznek:">
+<!ENTITY catchAll.accesskey "k">
 <!ENTITY replyTo.label "Válaszcím:">
 <!ENTITY replyTo.accesskey "V">
 <!ENTITY replyTo.placeholder "A levél címzettjei erre a másik címre válaszolhatnak">
