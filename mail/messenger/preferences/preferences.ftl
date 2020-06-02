@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -17,7 +18,9 @@ preferences-title =
 mail-browse-sound-button =
     .label = Pārlūkot...
     .accesskey = P
+
 offline-legend = Nesaistē
+
 offline-settings-button =
     .label = Bezsaistē...
     .accesskey = B
@@ -31,9 +34,12 @@ offline-settings-button =
 
 search-input =
     .placeholder = Meklēt
+
+
 edit-tag-button =
     .label = Rediģēt...
     .accesskey = e
+
 delete-tag-button =
     .label = Dzēst
     .accesskey = D

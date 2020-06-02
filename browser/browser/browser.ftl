@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privātā pārlūkošana)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privātā pārlūkošana)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privātā pārlūkošana)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privātā pārlūkošana)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -119,10 +121,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Šīs lapas canvas datu ieguve ir bloķēta.
 urlbar-midi-blocked =
     .tooltiptext = MIDI izmantošana šajā lapā ir bloķēta.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Rediģēt šo grāmatzīmi ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -154,6 +158,7 @@ search-one-offs-change-settings-button =
     .label = Mainīt meklēšanas iestatījumus
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Mainīt meklēšanas iestatījumus
+
 search-one-offs-context-open-new-tab =
     .label = Meklēt jaunā cilnē
     .accesskey = c
@@ -166,8 +171,10 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Rādīt redaktoru, saglabājot
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Gatavs
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -245,9 +252,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Pārlūks tiek attālināti kontrolēts
 urlbar-switch-to-tab =
     .value = Pārslēgties uz cilni:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplašinājums:
+
 urlbar-go-button =
     .tooltiptext = Pāriet uz adresi, kas redzama vietas joslā
 urlbar-page-action-button =
