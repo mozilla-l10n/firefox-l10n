@@ -13,4 +13,7 @@ allow-button =
 treehead-status-label =
     .label = Estado
 permission-can-label = Permitir
+permission-can-session-label = Permitir nesta sessão
 permission-cannot-label = Bloquear
+invalid-uri-message = Introduza um nome de servidor válido
+invalid-uri-title = Nome de servidor inválido
