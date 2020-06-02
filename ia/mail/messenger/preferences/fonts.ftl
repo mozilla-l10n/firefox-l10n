@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-encoding-dialog-title =
+    .title = Typos de litteras & codificationes
+fonts-language-legend =
+    .value = Typos de litteras pro:
+    .accesskey = t
 fonts-proportional-label =
     .value = Proportional:
     .accesskey = P
@@ -89,12 +94,32 @@ font-sans-serif-label =
 font-monospace-label =
     .value = Largor fixe:
     .accesskey = F
+font-min-size-label =
+    .value = Dimension minime de litteras:
+    .accesskey = d
 min-size-none =
     .label = Nulle
 
 ## Fonts in message
 
+font-control-legend = Controlo de typos de litteras
+use-document-fonts-checkbox =
+    .label = Permitter que le messages usa altere typos de litteras
+    .accesskey = o
+use-fixed-width-plain-checkbox =
+    .label = Usar un typo de litteras a largessa fixe pro messages de texto simple
+    .accesskey = x
 
 ## Language settings
 
 text-encoding-legend = Codification del texto
+text-encoding-description = Predefinir le codification del texto pro reciper e inviar posta
+font-outgoing-email-label =
+    .value = Posta exiente:
+    .accesskey = u
+font-incoming-email-label =
+    .value = Posta entrante:
+    .accesskey = { "" }
+default-font-reply-checkbox =
+    .label = Quando possibile, usar le codification de texto predefinite in responsas
+    .accesskey = Q
