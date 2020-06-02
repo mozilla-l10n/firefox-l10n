@@ -520,6 +520,9 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Odaberi…
     .accesskey = B
+theme-label =
+    .value = Tema:
+    .accesskey = T
 style-thunderbird =
     .label = Thunderbird
 style-bubbles =
@@ -533,6 +536,12 @@ style-simple =
 preview-label = Pregled:
 no-preview-label = Nije dostupan pregled
 no-preview-description = Ova tema nije važeća ili trenutno nije dostupna (onemogućeni dodatak, siguran režim, ...).
+chat-variant-label =
+    .value = Varijanta:
+    .accesskey = V
+chat-header-label =
+    .label = Prikaži zaglavlje
+    .accesskey = H
 
 ## Preferences UI Search Results
 
