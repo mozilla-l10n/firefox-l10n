@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+dateformat-label =
+    .value = Tekstualni oblik datuma:
+    .accesskey = d
 #   $date (String) - the formatted example date
 dateformat-long =
     .label = Dugi: { $date }
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Kratki: { $date }
+weekstart-label =
+    .value = Tjedan započinje u:
+    .accesskey = z
 day-1-name =
     .label = Nedjelja
 day-2-name =
