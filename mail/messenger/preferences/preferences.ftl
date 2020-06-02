@@ -68,14 +68,41 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = D
+focus-search-shortcut-alt =
+    .key = k
+new-message-arrival = Ko prispejo nova sporočila:
+mail-custom-sound-label =
+    .label = Uporabi naslednjo zvočno datoteko
+    .accesskey = U
+networking-legend = Povezava
+offline-legend = Brez povezave
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-after = MB prostora za predpomnjenje.
 
 ##
 
+default-font-label =
+    .value = Privzeta pisava:
+    .accesskey = P
+default-size-label =
+    .value = Velikost:
+    .accesskey = V
+display-width-legend = Sporočila v golem besedilu
+style-label =
+    .value = Slog:
+    .accesskey = S
+regular-size-item =
+    .label = Običajna
+bigger-size-item =
+    .label = Večja
+smaller-size-item =
+    .label = Manjša
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -90,13 +117,20 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-end = minut
 
 ##
 
 download-dictionaries-link = Prenesi dodatne slovarje
+autocomplete-description = Pri naslavljanju sporočil išči ustrezne vnose v:
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name } si lahko zapomni gesla za vse vaše račune.
+master-password-description = Glavno geslo varuje vsa vaša gesla, vendar ga morate vnesti vsaj enkrat na sejo.
+master-password-label =
+    .label = Uporabi glavno geslo
+    .accesskey = U
 
 ## Chat Tab
 
