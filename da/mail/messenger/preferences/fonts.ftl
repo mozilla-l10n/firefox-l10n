@@ -68,6 +68,10 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-math =
+    .label = Matematisk
+font-language-group-odia =
+    .label = Oriya
 font-language-group-telugu =
     .label = Telugu
 font-language-group-kannada =
@@ -116,9 +120,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Tegnkodning
+text-encoding-description = Sæt standardtegnkodning for udgående og indkommende meddelelser
 font-outgoing-email-label =
     .value = Udgående meddelelser:
     .accesskey = u
 font-incoming-email-label =
     .value = Indkommende meddelelser:
     .accesskey = d
+default-font-reply-checkbox =
+    .label = Anvend standardtegnkodning i svar, når det er muligt
+    .accesskey = o

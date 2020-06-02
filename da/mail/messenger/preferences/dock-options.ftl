@@ -17,3 +17,4 @@ count-unread-messages-radio =
 count-new-messages-radio =
     .label = Antal meddelelser
     .accesskey = n
+notification-settings-info = Du kan deaktivere mærket på meddelelsessiden i systemindstillingerne.
