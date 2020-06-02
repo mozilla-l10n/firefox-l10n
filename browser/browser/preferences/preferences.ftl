@@ -384,8 +384,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Použiť { $plugin-name } (v aplikácii { -brand-short-name })
-applications-preview-inapp =
-    .label = Zobraziť v aplikácii { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -399,9 +397,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -617,11 +612,16 @@ home-prefs-topsites-header =
     .label = Top stránky
 home-prefs-topsites-description = Najnavštevovanejšie stránky
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Odporúča { $provider }
 home-prefs-recommended-by-description = Skvelý obsah z celého webu, vybraný špeciálne pre vás
+##
+
 home-prefs-recommended-by-learn-more = Ako to funguje
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponzorované stránky
@@ -943,9 +943,9 @@ privacy-header = Súkromie
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Prihlasovacie údaje
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Prihlasovacie údaje
@@ -984,9 +984,6 @@ forms-master-pw-fips-title = Momentálne používate režim FIPS. Tento režim v
 forms-master-pw-fips-desc = Heslo sa nepodarilo zmeniť
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Pre vytvorenie hlavného hesla najprv overte svoju totožnosť.
 
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -1187,7 +1184,6 @@ content-blocking-warning-title = Pozor!
 content-blocking-warning-description = Blokovanie obsahu môže spôsobiť rozbitie niektorých webových stránok. Na dôveryhodných stránkach môžete blokovanie jednoducho vypnúť.
 content-blocking-learn-how = Ďalšie informácie
 
-content-blocking-etp-warning-description = Blokovanie sledovacích prvkov môže ovplyvniť fungovanie niektorých stránok. Pre načítanie všetkého obsahu obnovte stránku s povolenými sledovacími prvkami.
 content-blocking-warning-learn-how = Ďalšie informácie
 
 content-blocking-reload-description = Aby sa zmeny prejavili, musíte obnoviť vaše karty.

@@ -16,3 +16,4 @@ accounts-default = Predvolený?
 identity-name = Identita
 
 send-via-email = Odoslať ako e-mailovú správu
+

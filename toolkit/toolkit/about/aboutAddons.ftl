@@ -611,9 +611,6 @@ updates-heading = Spravujte svoje aktualizácie
 discover-heading = Prispôsobte si { -brand-short-name }
 shortcuts-heading = Správa klávesových skratiek pre rozšírenia
 
-theme-heading-search-label = Nájdite ďalšie témy vzhľadu
-extension-heading-search-label = Nájdite ďalšie rozšírenia
-
 default-heading-search-label = Zobraziť ďalšie doplnky
 addons-heading-search-input =
     .placeholder = Hľadať na addons.mozilla.org

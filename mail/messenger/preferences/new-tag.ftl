@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Nový popis
+
 tag-name-label =
     .value = Názov popisu:
     .accesskey = N

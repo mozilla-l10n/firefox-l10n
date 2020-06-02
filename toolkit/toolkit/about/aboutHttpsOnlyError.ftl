@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-insecure-title = Zabezpečené pripojenie nie je k dispozícii
+
 about-httpsonly-button-make-exception = Rozumiem riziku a chcem pokračovať
 about-httpsonly-button-go-back = Prejsť naspäť

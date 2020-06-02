@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Kľúčové slová pre kontrolu prítomnosti príloh
+
 attachment-reminder-label = { -brand-short-name } vás upozorní na chýbajúcu prílohu, ak sa pokúsite odoslať e-mailovú správu, ktorá bude obsahovať jedno z uvedených kľúčových slov.
+
 keyword-new-button =
     .label = Nový…
     .accesskey = N
+
 keyword-edit-button =
     .label = Upraviť…
     .accesskey = U
+
 keyword-remove-button =
     .label = Odstrániť
     .accesskey = O
+
 new-keyword-title = Nové kľúčové slovo
 new-keyword-label = Kľúčové slovo:
+
 edit-keyword-title = Upraviť kľúčové slovo
 edit-keyword-label = Kľúčové slovo:
