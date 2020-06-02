@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = 自定义新邮件提醒
+
 customize-alert-description = 选择在提示通知中要显示的字段：
+
 preview-text-checkbox =
     .label = 消息预览文本
     .accesskey = M
+
 subject-checkbox =
     .label = 标题
     .accesskey = S
+
 sender-checkbox =
     .label = 发件人
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = 显示新邮件提示：
     .accesskey = N
+
 open-time-label-after =
     .value = 秒

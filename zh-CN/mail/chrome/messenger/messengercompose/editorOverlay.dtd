@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "在页面中查找文本">
 <!ENTITY spellToolbarCmd.label "拼写">
 <!ENTITY spellToolbarCmd.tooltip "检查选中部分或整个页面的拼写">
+
 <!ENTITY imageToolbarCmd.label "图像">
 <!ENTITY imageToolbarCmd.tooltip "插入新图像或编辑选择图像的特性">
 <!ENTITY hruleToolbarCmd.label "水平线">

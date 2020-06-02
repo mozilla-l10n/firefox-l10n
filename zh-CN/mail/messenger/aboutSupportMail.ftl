@@ -16,3 +16,4 @@ accounts-default = 默认值？
 identity-name = 身份
 
 send-via-email = 通过电子邮件发送
+

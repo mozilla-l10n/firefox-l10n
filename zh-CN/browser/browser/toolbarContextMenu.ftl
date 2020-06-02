@@ -27,18 +27,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] 恢复关闭的标签页
         }
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = 管理扩展
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = 移除扩展
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = 举报扩展
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

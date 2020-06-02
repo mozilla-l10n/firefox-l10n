@@ -389,7 +389,3 @@ main-context-menu-eme-learn-more =
     .label = 详细了解数字版权管理（DRM）…
     .accesskey = D
 
-# Checkbox displayed at the bottom of the What's New panel, allowing users to 
-# enable/disable What's New notifications.
-cfr-whatsnew-panel-footer-checkbox =
-    .label = 有新功能推出时通知我

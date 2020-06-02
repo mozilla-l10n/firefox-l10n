@@ -80,6 +80,10 @@ policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
 
 policy-InstallAddonsPermission = 允许特定网站安装附加组件。
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = 允许特定网站链接到本地文件。
 
 policy-NetworkPrediction = 启用或禁用网络预测（DNS 预读取）功能。
