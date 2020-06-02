@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-title =
+    .title = সিস্টেম ইন্টিগ্রেশন
+default-client-intro = যার জন্য ডিফল্ট ক্লায়েন্ট হিসেবে { -brand-short-name } ব্যবহার করা হবে:
 checkbox-email-label =
     .label = ইমেইল
     .tooltiptext = { unset-default-tooltip }
