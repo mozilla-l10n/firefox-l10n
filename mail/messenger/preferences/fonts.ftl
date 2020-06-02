@@ -4,10 +4,23 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = ค่าเริ่มต้น ({ $name })
 fonts-label-default-unnamed =
     .label = ค่าเริ่มต้น
+
+## Languages
+
+font-language-group-gurmukhi =
+    .label = เกอร์มุกห์
+
+## Default font type
+
+
+## Fonts in message
+
+
+## Language settings
+
