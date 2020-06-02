@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opções
+           *[other] Preferências
+        }
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
@@ -86,16 +92,24 @@ start-page-label =
 location-label =
     .value = Endereço:
     .accesskey = E
+default-search-engine = Mecanismo de pesquisa padrão
 new-message-arrival = Ao chegarem novas mensagens
 mail-play-button =
     .label = Testar
     .accesskey = T
+change-dock-icon = Mudar preferências do ícone
+app-icon-options =
+    .label = Opções do ícone…
+    .accesskey = n
 animated-alert-label =
     .label = Mostrar um alerta
     .accesskey = M
 customize-alert-label =
     .label = Personalizar…
     .accesskey = z
+tray-icon-label =
+    .label = Exibir ícone na bandeja
+    .accesskey = n
 mail-custom-sound-label =
     .label = Usar este arquivo de som:
     .accesskey = U
@@ -105,6 +119,13 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Ativar pesquisa global e indexação
     .accesskey = A
+allow-hw-accel =
+    .label = Usar aceleração de hardware quando disponível
+    .accesskey = h
+mbox-store-label =
+    .label = Um arquivo por pasta (mbox)
+maildir-store-label =
+    .label = Um arquivo por mensagem (maildir)
 scrolling-legend = Navegação
 smooth-scrolling-label =
     .label = Rolagem suave
@@ -131,6 +152,10 @@ proxy-config-description = Determine como o { -brand-short-name } conecta-se à 
 network-settings-button =
     .label = Configurar conexão…
     .accesskey = C
+diskspace-legend = Espaço em disco
+offline-compact-folder =
+    .label = Condensar todas as pastas se puder liberar pelo menos
+    .accesskey = n
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -214,13 +239,40 @@ always-ask-label =
 delete-tag-button =
     .label = Excluir
     .accesskey = x
+auto-mark-as-read =
+    .label = Marcar automaticamente mensagens como lidas
+    .accesskey = M
+mark-read-no-delay =
+    .label = Ao exibir
+    .accesskey = A
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Ao exibir por
+    .accesskey = e
+seconds-label = segundos
 
 ##
 
+open-msg-label =
+    .value = Abrir mensagens em:
+open-msg-tab =
+    .label = Nova aba
+    .accesskey = N
+open-msg-window =
+    .label = Nova janela
+    .accesskey = o
+open-msg-ex-window =
+    .label = Janela existente
+    .accesskey = J
+close-move-delete =
+    .label = Ao mover ou excluir, fechar aba/janela da mensagem
+    .accesskey = v
+condensed-addresses-label =
+    .label = Para pessoas em meus contatos, exibir somente o nome
+    .accesskey = P
 
 ## Compose Tab
 
@@ -289,6 +341,9 @@ enable-cloud-share =
     .label = Oferecer compartilhamento para arquivos maiores que
 cloud-share-size =
     .value = MB
+remove-cloud-account =
+    .label = Remover
+    .accesskey = R
 
 ## Privacy Tab
 
@@ -365,6 +420,12 @@ away-message-label =
 send-typing-label =
     .label = Enviar notificações de digitação durante conversas
     .accesskey = E
+chat-custom-sound-label =
+    .label = Usar este arquivo de som:
+    .accesskey = U
+chat-browse-sound-button =
+    .label = Procurar…
+    .accesskey = P
 
 ## Preferences UI Search Results
 
