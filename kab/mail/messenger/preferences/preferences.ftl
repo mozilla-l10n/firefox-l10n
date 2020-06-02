@@ -463,6 +463,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Kkes
     .accesskey = K
+find-cloud-providers =
+    .value = Af-d ugar n yisaǧǧawen...
 cloud-account-description = Rnu ameẓlu n usekles n useɣwen n ufaylu amaynut
 
 ## Privacy Tab
