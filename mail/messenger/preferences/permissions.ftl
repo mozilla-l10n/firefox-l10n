@@ -4,6 +4,9 @@
 
 window-close-key =
     .key = w
+website-address-label =
+    .value = បន្ថែម​វេបសាយ៖
+    .accesskey = d
 block-button =
     .label = Block
     .accesskey = B
