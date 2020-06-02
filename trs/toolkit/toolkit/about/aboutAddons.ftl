@@ -586,9 +586,6 @@ updates-heading = Ganikāj ñu’ūnj nej sa nagi’iaj nakàt
 discover-heading = Nagi'iaj dàj garan' ruhuât si { -brand-short-name }
 shortcuts-heading = Dugumîn nej akseso direkto riña nej ekstensiûn
 
-theme-heading-search-label = Narì't doj têma
-extension-heading-search-label = Narì't doj extensiûn
-
 addons-heading-search-input =
     .placeholder = Nana'uì' addons.mozilla.org
 

@@ -368,8 +368,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Garasun' { $plugin-name } (riña { -brand-short-name })
-applications-preview-inapp =
-    .label = Ni'io' daj gaj 'ngà { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -383,9 +381,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -601,11 +596,16 @@ home-prefs-topsites-header =
     .label = Hiuj ni'iaj yitïnj rè'
 home-prefs-topsites-description = Riña gaché nu yitïnjt
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Sa hua hue'e taj { $provider }
 home-prefs-recommended-by-description = Sa hua hue'e doj riña web, guendat huin
+##
+
 home-prefs-recommended-by-learn-more = Dàj 'iaj sunj
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Nej sa du'uej
@@ -916,9 +916,9 @@ privacy-header = Daj da'ui navegador gi'iaj sunj
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Gayi'ìt gatut ni Da'nga' huìi
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Gayi'ìt gatut ni Da'nga' huìi
@@ -1151,7 +1151,6 @@ content-blocking-warning-title = ¡Nuguan' huaa!
 content-blocking-warning-description = Si naránt riña da'aj kontenido ni ga'ue dure'ej da'aj sîtio. Sê si chì' huaj na'nïnt riña nej sitiô ngà ni'înt.
 content-blocking-learn-how = Gahuin chrūn doj
 
-content-blocking-etp-warning-description = Ga'ue gi'iaj sun a'nan' da'aj sîtio 'iaj si naránt riña nej sa naga'naj a. Nayi'ì nakà ñû riña pajinân dan sani si naránt riña nej sa naga'naj a.
 content-blocking-warning-learn-how = Gahuin chrūn dàj
 
 content-blocking-reload-description = Da' naduna sa huin ruhuât ni da'uît nagi'iaj nakàt rakïj ñanj.

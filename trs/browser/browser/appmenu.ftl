@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Nej sa dugumîn sa hua huìi
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ni'iāj dàj hua rayi'î sa huì huā 'iát
+
 appmenuitem-customize-mode =
     .label = Nagi'iô' daj huin ruhuô'...
 
