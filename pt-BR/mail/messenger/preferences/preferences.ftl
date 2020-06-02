@@ -5,6 +5,9 @@
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-chat-title = Bate-papo
+category-chat =
+    .tooltiptext = Bate-papo
 general-language-and-appearance-header = Idioma e aparência
 general-incoming-mail-header = Recebimento de e-mails
 general-files-and-attachment-header = Arquivos e anexos
@@ -256,12 +259,19 @@ directories-none-label =
 edit-directories-label =
     .label = Editar diretórios…
     .accesskey = E
+email-picker-label =
+    .label = Ao enviar e-mails, criar contatos dos destinatários em:
+    .accesskey = A
 attachment-label =
     .label = Detectar ausência de anexos
     .accesskey = D
 attachment-options-label =
     .label = Palavras-chave…
     .accesskey = P
+enable-cloud-share =
+    .label = Oferecer compartilhamento para arquivos maiores que
+cloud-share-size =
+    .value = MB
 
 ## Privacy Tab
 
@@ -310,6 +320,11 @@ certificate-auto =
 
 ## Chat Tab
 
+startup-label =
+    .value = Ao iniciar o { -brand-short-name }:
+    .accesskey = o
+auto-connect-label =
+    .label = Conectar-se às minhas contas de bate-papo
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -317,9 +332,19 @@ certificate-auto =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Notificar aos meus contatos que estou Inativo após
+    .accesskey = N
+idle-time-label = minutos de inatividade
 
 ##
 
+away-message-label =
+    .label = e definir meu status como Ausente com esta mensagem de status:
+    .accesskey = A
+send-typing-label =
+    .label = Enviar notificações de digitação durante conversas
+    .accesskey = E
 
 ## Preferences UI Search Results
 
