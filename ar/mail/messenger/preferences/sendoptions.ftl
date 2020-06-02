@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = خيارات الإرسال
 send-mail-title = تنسيق النص
+auto-downgrade-label =
+    .label = أرسل الرسائل كنص صِرف إذا أمكن
+    .accesskey = س
 default-html-format-label = عند إرسال رسائل بتنسيق HTML ولم يكن واحد أو أكثر من المستلمين في قائمة من يستطيع استقبال رسائل HTML:
 html-format-ask =
     .label = اسألني ماذا ستفعل

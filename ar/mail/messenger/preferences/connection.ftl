@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-dns-over-https-custom-label = مخصّص
+connection-dialog-window =
+    .title = إعدادات الاتّصال
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = اضبط وسطاء الدخول إلى الإنترنت
 proxy-type-no =
     .label = بدون وسيط
@@ -47,3 +54,10 @@ no-proxy-label =
     .value = لا وسيط لأجل:
     .accesskey = و
 no-proxy-example = مثال: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = لا تسأل الاستيثاق إذا كانت كلمة السر محفوظة
+    .accesskey = س
+    .tooltiptext = يستوثق هذا الخيار مع وسطاء الشبكة تلقائيًا إذا كان لديك بيانات ولوج محفوظة لهم. ستُسأل إذا فشل الاستيثاق.
+proxy-remote-dns =
+    .label = خادوم عناوين نطاقات الوسيط أثناء استخدام SOCKS v5
+    .accesskey = ن
