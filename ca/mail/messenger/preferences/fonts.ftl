@@ -12,12 +12,39 @@ fonts-label-default-unnamed =
     .label = Per defecte
 fonts-encoding-dialog-title =
     .title = Tipus de lletra i codificacions
+fonts-language-legend =
+    .value = Tipus de lletra per a:
+    .accesskey = T
 fonts-proportional-label =
     .value = Proporcional:
     .accesskey = P
 
 ## Languages
 
+font-language-group-japanese =
+    .label = Japonès
+font-language-group-trad-chinese =
+    .label = Xinès tradicional (Taiwan)
+font-language-group-simpl-chinese =
+    .label = Xinès simplificat
+font-language-group-trad-chinese-hk =
+    .label = Xinès tradicional (Hong Kong)
+font-language-group-korean =
+    .label = Coreà
+font-language-group-cyrillic =
+    .label = Ciríl·lic
+font-language-group-el =
+    .label = Grec
+font-language-group-thai =
+    .label = Tailandès
+font-language-group-hebrew =
+    .label = Hebreu
+font-language-group-arabic =
+    .label = Àrab
+font-language-group-devanagari =
+    .label = Devanagari
+font-language-group-tamil =
+    .label = Tàmil
 font-language-group-armenian =
     .label = Armeni
 font-language-group-bengali =
@@ -28,10 +55,14 @@ font-language-group-ethiopic =
     .label = Etíop
 font-language-group-georgian =
     .label = Georgià
+font-language-group-gujarati =
+    .label = Gujarati
 font-language-group-gurmukhi =
     .label = Gurmukhi
 font-language-group-khmer =
     .label = Khmer
+font-language-group-malayalam =
+    .label = Malaiàlam
 
 ## Default font type
 
@@ -65,3 +96,6 @@ use-document-fonts-checkbox =
 font-outgoing-email-label =
     .value = Correu de sortida:
     .accesskey = u
+font-incoming-email-label =
+    .value = Correu d'entrada:
+    .accesskey = e
