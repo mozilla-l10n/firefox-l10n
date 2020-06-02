@@ -4,9 +4,11 @@
 
 fonts-encoding-dialog-title =
     .title = Clófhoirne agus Ionchóduithe
+
 fonts-language-legend =
     .value = Clófhoirne do:
     .accesskey = d
+
 fonts-proportional-label =
     .value = Cló Il-Leithid:
     .accesskey = I
@@ -77,35 +79,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Méid:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Méid:
     .accesskey = i
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Cló Aonleithid:
     .accesskey = A
+
 font-min-size-label =
     .value = Clómhéid is lú:
     .accesskey = l
+
 min-size-none =
     .label = Gan sonrú
 
 ## Fonts in message
 
 font-control-legend = Rialú an Chló
+
 use-document-fonts-checkbox =
     .label = Ceadaigh teachtaireachtaí chun clónna eile a úsáid
     .accesskey = n
+
 use-fixed-width-plain-checkbox =
     .label = Úsáid cló aonleithid le haghaidh teachtaireachtaí gnáth-théacs
     .accesskey = L
@@ -113,13 +125,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Ionchódú Téacs
+
 text-encoding-description = Roghnaigh ionchódú téacs réamhshocraithe le haghaidh seolta agus glactha ríomhphoist
+
 font-outgoing-email-label =
     .value = Ríomhphost Amach:
     .accesskey = m
+
 font-incoming-email-label =
     .value = Ríomhphost Isteach:
     .accesskey = I
+
 default-font-reply-checkbox =
     .label = Más féidir, úsáid ionchódú réamhshocraithe na gcarachtar i bhfreagraí
     .accesskey = h

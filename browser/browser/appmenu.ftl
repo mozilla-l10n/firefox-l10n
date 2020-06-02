@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Cosaint Príobháideachais
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Oscail do thuairisc phríobháideachais
+
 appmenuitem-customize-mode =
     .label = Saincheap…
 
