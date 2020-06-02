@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Serrar
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -118,6 +120,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Activar la tschertga globala e l'indexaziun da messadis
     .accesskey = E
+datetime-formatting-legend = Format da data ed ura
 allow-hw-accel =
     .label = Utilisar sche pussaivel l'acceleraziun cun hardware da grafica
     .accesskey = h
@@ -160,6 +163,10 @@ return-receipts-description = Reglar co { -brand-short-name } duai tractar confe
 return-receipts-button =
     .label = Confermas da retschavida…
     .accesskey = R
+update-app-legend = Actualisaziuns da { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versiun { $version }
 automatic-updates-label =
     .label = Installar automaticamain actualisaziuns (recumandà, pli segir)
     .accesskey = I
@@ -200,6 +207,9 @@ use-cache-after = MB sco cache
 
 ##
 
+smart-cache-label =
+    .label = Betg utilisar la gestiun automatica dal cache
+    .accesskey = g
 clear-cache-button =
     .label = Svidar ussa
     .accesskey = v
@@ -271,6 +281,12 @@ always-ask-label =
     .label = Dumandar mintga giada nua ch'ina datoteca duai vegnir memorisada
     .accesskey = A
 display-tags-text = Etichettas pon ins utilisar per categorisar messadis e definir lur prioritad.
+new-tag-button =
+    .label = Nov…
+    .accesskey = N
+edit-tag-button =
+    .label = Modifitgar…
+    .accesskey = M
 delete-tag-button =
     .label = Stizzar
     .accesskey = z
@@ -357,6 +373,9 @@ bg-color-label =
 restore-html-label =
     .label = Restaurar la successiun da standard
     .accesskey = R
+default-format-label =
+    .label = Utilisar sco standard il format da paragraf empè dal text da corp
+    .accesskey = p
 format-description = Configurar il cumportament dal format da text
 send-options-label =
     .label = Opziuns da trametter…
@@ -376,6 +395,11 @@ edit-directories-label =
 email-picker-label =
     .label = Agiuntar automaticamain adressas dad e-mail dals e-mails sortents a:
     .accesskey = A
+default-directory-label =
+    .value = Ordinatur da standard cun avrir la fanestra dal cudeschet d'adressas:
+    .accesskey = s
+default-last-label =
+    .none = Ultim ordinatur utilisà
 attachment-label =
     .label = Controllar sche agiuntas mancan
     .accesskey = m
@@ -386,6 +410,10 @@ enable-cloud-share =
     .label = Proponer da cundivider per datotecas pli grondas che
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Agiuntar…
+    .accesskey = A
+    .defaultlabel = Agiuntar…
 remove-cloud-account =
     .label = Allontanar
     .accesskey = R
@@ -521,6 +549,17 @@ notification-name =
     .label = mo cun il num dal speditur
 notification-empty =
     .label = senza infurmaziuns
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animar l'icona en il dock
+           *[other] Far sbrinzlar l'element en la taskbar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] k
+           *[other] r
+        }
 chat-play-sound-label =
     .label = Far ir in tun
     .accesskey = t
@@ -536,6 +575,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Navigar…
     .accesskey = N
+theme-label =
+    .value = Design:
+    .accesskey = e
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Borlas
+style-dark =
+    .label = Stgir
+style-paper =
+    .label = Fegls da palpiri
+style-simple =
+    .label = Simpel
+preview-label = Prevista:
+no-preview-label = Nagina prevista disponibla
+no-preview-description = Quest design è nunvalid u actualmain indisponibel (supplement deactivà, modus segirà, …).
+chat-variant-label =
+    .value = Varianta:
+    .accesskey = V
+chat-header-label =
+    .label = Mussar il chau-pagina
+    .accesskey = c
 
 ## Preferences UI Search Results
 
