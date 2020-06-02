@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Нова мітка
+
 tag-name-label =
     .value = Назва:
     .accesskey = Н

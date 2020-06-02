@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Подробиці програми
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Вилучити
     .accesskey = В

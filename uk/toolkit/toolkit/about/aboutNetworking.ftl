@@ -57,6 +57,7 @@ rcwn-avg-long = Довге середнє
 rcwn-std-dev-long = Довге стандартне відхилення
 rcwn-cache-slow = Лічильник повільного кешу
 rcwn-cache-not-slow = Лічильник не повільного кешу
+
 about-networking-title = Про мережу
 about-networking-http = HTTP
 about-networking-sockets = Сокети

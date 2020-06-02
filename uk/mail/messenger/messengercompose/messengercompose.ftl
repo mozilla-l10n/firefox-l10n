@@ -10,16 +10,6 @@ remove-address-row-type = Вилучити поле { $type }
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Порожнє поле вводу { $type }
-        [one] Поле вводу { $type } з однією адресою
-        [few] Поле вводу { $type } з { $count } адресами
-       *[many] Поле вводу { $type } з { $count } адресами
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -52,3 +42,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Перемістити в поле Прихована копія
     .accesskey = х
+
