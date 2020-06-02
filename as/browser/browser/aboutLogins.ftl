@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = লগইন আৰু পাছৱৰ্ড
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -106,21 +111,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = সঞ্চিত লগিন সম্পাদনা কৰিবলৈ আপোনাৰ পৰিচয় প্ৰমাণিত কৰক।
-
-# This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = সঞ্চিত লগিন সম্পাদনা কৰক
 
 # This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = সঞ্চিত পাছৱৰ্ড উন্মোচন কৰিবলৈ আপোনাৰ পৰিচয় প্ৰমাণিত কৰক।
-
-# This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = সঞ্চিত পাছৱৰ্ড উন্মোচন কৰক
-
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = সঞ্চিত পাছৱৰ্ড কপি কৰিবলৈ আপোনাৰ পৰিচয় প্ৰমাণিত কৰক।
 
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -181,3 +177,7 @@ about-logins-error-message-duplicate-login-with-link = { $loginTitle }-ৰ ব�
 
 # This is a generic error message.
 about-logins-error-message-default = এই পাছৱৰ্ড সঞ্চয় কৰাৰ চেষ্টা কৰোঁতে ত্ৰুটি ঘটিছে।
+
+
+## Login Export Dialog
+
