@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-reminder-window =
+    .title = Kivételek
+    .style = width: 45em;
 window-close-key =
     .key = w
 website-address-label =
@@ -10,6 +13,9 @@ website-address-label =
 block-button =
     .label = Tiltás
     .accesskey = T
+allow-session-button =
+    .label = Engedélyezés a munkamenetben
+    .accesskey = m
 allow-button =
     .label = Engedélyezés
     .accesskey = E
@@ -23,7 +29,14 @@ remove-site-button =
 remove-all-site-button =
     .label = Minden webhely eltávolítása
     .accesskey = M
+cancel-button =
+    .label = Mégse
+    .accesskey = M
+save-button =
+    .label = Változtatások mentése
+    .accesskey = V
 permission-can-label = Engedélyezés
+permission-can-access-first-party-label = Csak első fél engedélyezése
 permission-can-session-label = Engedélyezés a munkamenetben
 permission-cannot-label = Tiltás
 invalid-uri-message = Írjon be egy érvényes gépnevet.

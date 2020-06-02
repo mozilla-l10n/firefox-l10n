@@ -27,6 +27,9 @@ system-search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+system-search-integration-label =
+    .label = A(z) { system-search-engine-name } kereshet az üzenetek között
+    .accesskey = s
 check-on-startup-label =
     .label = Ellenőrzés elvégzése a { -brand-short-name } minden indításakor
     .accesskey = E
