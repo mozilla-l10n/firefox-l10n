@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Mion-fhiosrachadh a' phrògraim
     .style = width: 36em; min-height: 24em;
+
 remove-app-button =
     .label = Thoir air falbh
     .accesskey = r

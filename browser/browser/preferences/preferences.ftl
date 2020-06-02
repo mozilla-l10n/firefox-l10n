@@ -367,8 +367,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Cleachd { $plugin-name } (ann an { -brand-short-name })
-applications-preview-inapp =
-    .label = Ro-sheall ann an { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -382,9 +380,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -574,11 +569,16 @@ home-prefs-topsites-header =
     .label = Brod nan làrach
 home-prefs-topsites-description = Na làraichean air an tadhail thu as trice
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = ’Ga mholadh le { $provider }
 home-prefs-recommended-by-description = Sàr-shusbaint o fheadh an lìn, air a phearsantachadh dhut-sa
+##
+
 home-prefs-recommended-by-learn-more = Mar a dh’obraicheas e
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sgeulachdan sponsairichte
@@ -824,9 +824,9 @@ privacy-header = Prìobhaideachd a’ bhrabhsair
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Clàraidhean a-steach ⁊ faclan-faire
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Clàraidhean a-steach ⁊ faclan-faire

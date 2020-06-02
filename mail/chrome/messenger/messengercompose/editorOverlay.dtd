@@ -299,6 +299,7 @@
 <!ENTITY findToolbarCmd.tooltip "Lorg teacsa san duilleag">
 <!ENTITY spellToolbarCmd.label "Litreachadh">
 <!ENTITY spellToolbarCmd.tooltip "Ceartaich litreachadh na h-earrainn no na duilleige gu lèir">
+
 <!ENTITY imageToolbarCmd.label "Dealbh">
 <!ENTITY imageToolbarCmd.tooltip "Cuir a-steach dealbh ùr no deasaich roghainnean an deilbh a thagh thu">
 <!ENTITY hruleToolbarCmd.label "Loidhne.ch">
