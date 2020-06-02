@@ -4,7 +4,12 @@
 
 system-integration-title =
     .title = Integrálódás a rendszerbe
+system-integration-dialog =
+    .buttonlabelaccept = Legyen ez az alapértelmezett
+    .buttonlabelcancel = Integráció kihagyása
+    .buttonlabelcancel2 = Mégse
 default-client-intro = A { -brand-short-name } beállítása alapértelmezett kliensként:
+unset-default-tooltip = Nem lehet a { -brand-short-name }ból törölni a { -brand-short-name } beállítását alapértelmezett kliensként. Másik alkalmazás alapértelmezetté tételéhez használja annak „Beállítás alapértelmezettként” ablakát.
 checkbox-email-label =
     .label = Levelezés
     .tooltiptext = { unset-default-tooltip }
