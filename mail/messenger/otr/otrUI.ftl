@@ -12,6 +12,30 @@ auth-error = Hiba történt a partnere személyazonosságának ellenőrzésekor.
 auth-success = A partnere személyazonosságának ellenőrzése sikeresen befejeződött.
 auth-successThem = A partnere sikeresen ellenőrizte az Ön személyazonosságát. Ön is megerősítheti az ő személyazonosságát a saját kérdése feltételével.
 auth-fail = A partnere személyazonosságának ellenőrzése sikertelen.
+auth-waiting = Várakozás, hogy a partnere befejezze az ellenőrzést…
+finger-verify = Ellenőrzés
+finger-verify-accessKey = E
+# Do not translate 'OTR' (name of an encryption protocol)
+buddycontextmenu-label = OTR-ujjlenyomat hozzáadása
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = Titkosított beszélgetés kezdeményezése a következővel: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = Titkosított beszélgetés felfrissítése a következővel: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = A titkosított beszélgetés véget ért a következővel: { $name }.
+state-not_private = A jelenlegi beszélgetés nem privát.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = A jelenlegi beszélgetés titkosított, de nem privát, mert { $name } személyazonossága még nem lett ellenőrizve.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = { $name } személyazonossága ellenőrizve lett. A jelenlegi beszélgetés titkosított és privát.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } befejezte a titkosított beszélgetését Önnel; Önnek is ugyanezt kell tennie.
 state-not_private-label = Nem biztonságos
 state-unverified-label = Nem ellenőrzött
 state-private-label = Privát
