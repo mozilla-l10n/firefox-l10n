@@ -5,6 +5,15 @@
 notifications-dialog-window =
     .title = Prilagodi obavijest o novoj poruci
 customize-alert-description = Odaberite koja će se polja prikazivati u obavijesti:
+preview-text-checkbox =
+    .label = Tekst poruke
+    .accesskey = T
+subject-checkbox =
+    .label = Naslov
+    .accesskey = s
+sender-checkbox =
+    .label = Pošiljatelj
+    .accesskey = e
 
 ## Note: open-time-label-before is displayed first, then there's a field where
 ## the user can enter a number, and open-time-label-after is displayed at the end
@@ -12,3 +21,6 @@ customize-alert-description = Odaberite koja će se polja prikazivati u obavijes
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = Prikaži obavjest o novoj pošti na
+    .accesskey = n
