@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Koledar
+calendar-title-reminder = Opomniki
+calendar-title-category = Kategorije
 dateformat-label =
     .value = Oblika zapisa datuma:
     .accesskey = O
@@ -143,6 +146,9 @@ reminder-play-alarm-button =
     .accesskey = P
 reminder-default-sound-label =
     .label = Uporabi privzeti zvok
+    .accesskey = U
+reminder-custom-sound-label =
+    .label = Uporabi naslednjo zvočno datoteko
     .accesskey = U
 reminder-browse-sound-label =
     .label = Prebrskaj …
