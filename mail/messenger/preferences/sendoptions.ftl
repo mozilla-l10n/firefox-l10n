@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Настройки за изпращане
 send-mail-title = Текстов формат
+auto-downgrade-label =
+    .label = Ако е възможно, писмата да се изпращат като обикновен текст
+    .accesskey = т
 default-html-format-label = Когато изпращате писмо в HTML формат и един и повече получатели не могат да получават HTML:
 html-format-ask =
     .label = Запитване какво действие да се предприеме

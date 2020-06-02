@@ -33,6 +33,8 @@ font-language-group-cyrillic =
     .label = Кирилица
 font-language-group-el =
     .label = Гръцки
+font-language-group-other =
+    .label = Други писмени системи
 font-language-group-hebrew =
     .label = Иврит
 font-language-group-arabic =
@@ -57,6 +59,14 @@ font-language-group-khmer =
     .label = Кхмерски
 font-language-group-malayalam =
     .label = Малаялам
+font-language-group-math =
+    .label = Математически
+font-language-group-telugu =
+    .label = Телугу
+font-language-group-sinhala =
+    .label = Синхала
+font-language-group-tibetan =
+    .label = Тибетски
 
 ## Default font type
 
@@ -73,9 +83,14 @@ use-document-fonts-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Кодиране на текста
+text-encoding-description = Установява стандартно кодиране на текста за изпращана и получавана поща
 font-outgoing-email-label =
     .value = Изходяща поща:
     .accesskey = х
 font-incoming-email-label =
     .value = Входяща поща:
     .accesskey = щ
+default-font-reply-checkbox =
+    .label = Когато е възможно в отговорите да се използва стандартното кодиране на текста
+    .accesskey = о
