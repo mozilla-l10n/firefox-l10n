@@ -16,3 +16,4 @@ accounts-default = Par défaut
 identity-name = Identité
 
 send-via-email = Envoyer par courriel
+

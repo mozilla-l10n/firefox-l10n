@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Si la valeur est sur false, l’accélération mat
 
 policy-InstallAddonsPermission = Autoriser certains sites web à installer des modules complémentaires.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Autoriser des sites web spécifiques à créer des liens vers des fichiers locaux.
 
 policy-NetworkPrediction = Activer ou désactiver la prédiction réseau (prélecture DNS).
