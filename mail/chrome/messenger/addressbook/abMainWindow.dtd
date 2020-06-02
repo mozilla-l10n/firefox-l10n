@@ -71,6 +71,7 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Intercambiar nombre y apellidos">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "t">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label "Propiedades">
 <!ENTITY propertiesMenu.accesskey "i">
@@ -206,6 +207,7 @@
 <!ENTITY _PhoneticName.label "Nombre fonético">
 <!ENTITY _PhoneticName.accesskey "o">
 
+<!-- Card Summary Pane -->
 <!-- Card Summary Pane -->
 <!ENTITY contact.heading "Contacto">
 <!ENTITY home.heading "Inicio">

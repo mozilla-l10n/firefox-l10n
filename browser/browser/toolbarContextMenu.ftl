@@ -28,18 +28,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Deshacer cerrar pestañas
         }
     .accesskey = c
+
 toolbar-context-menu-manage-extension =
     .label = Gestionar extensión
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Eliminar extensión
     .accesskey = E
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Informar sobre la extensión
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

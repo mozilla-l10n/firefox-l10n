@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Palabras clave para el recordatorio de adjuntos
+
 attachment-reminder-label = { -brand-short-name } le advertirá sobre adjuntos olvidados si va a enviar un mensaje de correo electrónico que contenga alguna de estas palabras.
+
 keyword-new-button =
     .label = Nuevo…
     .accesskey = N
+
 keyword-edit-button =
     .label = Editar…
     .accesskey = E
+
 keyword-remove-button =
     .label = Eliminar
     .accesskey = m
+
 new-keyword-title = Nueva palabra clave
 new-keyword-label = Palabra clave:
+
 edit-keyword-title = Editar palabra clave
 edit-keyword-label = Palabra clave:

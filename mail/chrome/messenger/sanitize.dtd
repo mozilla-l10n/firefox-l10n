@@ -5,6 +5,7 @@
 <!ENTITY sanitizeDialog2.title "Limpiar historial reciente">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!ENTITY clearTimeDuration.label "Intervalo de tiempo a limpiar: ">
 <!ENTITY clearTimeDuration.accesskey "I">
 <!ENTITY clearTimeDuration.lastHour "La última hora">

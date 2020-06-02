@@ -603,9 +603,6 @@ updates-heading = Administrar sus actualizaciones
 discover-heading = Personalice su { -brand-short-name }
 shortcuts-heading = Administrar los atajos a las extensiones
 
-theme-heading-search-label = Encontrar más temas
-extension-heading-search-label = Encontrar más extensiones
-
 default-heading-search-label = Buscar más complementos
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org

@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = ({ $name }) por omisión
 fonts-label-default-unnamed =
     .label = Por omisión
+
 fonts-encoding-dialog-title =
     .title = Tipografía y codificación
+
 fonts-language-legend =
     .value = Tipos de letra para:
     .accesskey = T
+
 fonts-proportional-label =
     .value = Proporcional:
     .accesskey = P
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Tamaño:
     .accesskey = ñ
+
 font-size-monospace-label =
     .value = Tamaño:
     .accesskey = a
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monoespacio:
     .accesskey = M
+
 font-min-size-label =
     .value = Tamaño de letra mínimo:
     .accesskey = d
+
 min-size-none =
     .label = Ninguno
 
 ## Fonts in message
 
 font-control-legend = Control de tipos de letra
+
 use-document-fonts-checkbox =
     .label = Permitir a los mensajes usar otros tipos de letra
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = Usar tipografía de ancho fijo para mensajes en texto sin formato
     .accesskey = f
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codificación de texto
+
 text-encoding-description = Configurar la codificación de texto predeterminada para enviar y recibir mensajes
+
 font-outgoing-email-label =
     .value = Correo saliente:
     .accesskey = e
+
 font-incoming-email-label =
     .value = Correo entrante:
     .accesskey = C
+
 default-font-reply-checkbox =
     .label = Cuando sea posible, usar la codificación de texto predeterminada en las respuestas
     .accesskey = b

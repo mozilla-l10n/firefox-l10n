@@ -57,6 +57,7 @@ rcwn-avg-long = Media de largas
 rcwn-std-dev-long = Desviación estándar de largas
 rcwn-cache-slow = Cuenta de caché lenta
 rcwn-cache-not-slow = Cuenta de caché no lenta
+
 about-networking-title = Acerca del tráfico de red
 about-networking-http = HTTP
 about-networking-sockets = Sockets
