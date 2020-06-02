@@ -599,9 +599,6 @@ updates-heading = Kelola Pembaruan Anda
 discover-heading = Personalisasikan { -brand-short-name } Anda
 shortcuts-heading = Kelola Pintasan Ekstensi
 
-theme-heading-search-label = Temukan lebih banyak tema
-extension-heading-search-label = Temukan lebih banyak ekstensi
-
 default-heading-search-label = Temukan lebih banyak pengaya
 addons-heading-search-input =
     .placeholder = Cari addons.mozilla.org
