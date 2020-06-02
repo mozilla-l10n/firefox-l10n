@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Закрыть
 pane-general-title = Основные
 category-general =
     .tooltiptext = { pane-general-title }
@@ -58,6 +60,7 @@ update-in-progress-ok-button = &Отменить
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продолжить
+addons-button = Расширения и темы
 
 ## OS Authentication dialog
 
@@ -75,6 +78,24 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+add-search-engine =
+    .label = Добавить из файла
+    .accesskey = й
+remove-search-engine =
+    .label = Удалить
+    .accesskey = л
+notification-settings = Уведомления и звук по умолчанию могут быть отключены на Панели Уведомления в «Системных настройках».
+datetime-formatting-legend = Формат даты и времени
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Поиску Windows
+       *[other] { "" }
+    }
+allow-description = Разрешить { -brand-short-name }
+cross-user-udpate-warning = Этот параметр применится ко всем учётным записям Windows и профилям { -brand-short-name }, использующим эту установку { -brand-short-name }.
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -100,9 +121,50 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ##
 
+enable-cloud-share =
+    .label = Предлагать службу хранения для файлов больше чем
+cloud-share-size =
+    .value = МБ
 
 ## Privacy Tab
 
+mail-content = Содержимое электронной почты
+remote-content-label =
+    .label = Разрешить в сообщениях показ содержимого из Интернета
+    .accesskey = а
+exceptions-button =
+    .label = Исключения…
+    .accesskey = к
+remote-content-info =
+    .value = Узнайте больше о вопросах приватности для содержимого из Интернета
+web-content = Содержимое веб-сайтов
+history-label =
+    .label = Помнить посещённые мной веб-сайты и ссылки
+    .accesskey = м
+cookies-label =
+    .label = Принимать куки с сайтов
+    .accesskey = н
+third-party-label =
+    .value = Принимать куки со сторонних сайтов:
+    .accesskey = и
+third-party-always =
+    .label = Всегда
+third-party-never =
+    .label = Никогда
+third-party-visited =
+    .label = С посещённых
+keep-label =
+    .value = Сохранять куки:
+    .accesskey = я
+keep-expire =
+    .label = до истечения срока их действия
+keep-close =
+    .label = до закрытия мною { -brand-short-name }
+keep-ask =
+    .label = спрашивать каждый раз
+cookies-button =
+    .label = Показать куки…
+    .accesskey = з
 junk-description = Здесь вы можете установить настройки анти-спам фильтра по умолчанию. Настройки анти-спам фильтра, специфичные для учётной записи, могут быть установлены в параметрах учётной записи.
 junk-label =
     .label = Когда я помечаю сообщения как спам:
@@ -113,6 +175,12 @@ junk-move-label =
 junk-delete-label =
     .label = Удалять их
     .accesskey = д
+junk-read-label =
+    .label = Отмечать сообщения, определённые как спам, как прочитанные
+    .accesskey = ч
+junk-log-label =
+    .label = Включить журнал работы адаптивного анти-спам фильтра
+    .accesskey = ж
 junk-log-button =
     .label = Показать журнал
     .accesskey = к
@@ -132,6 +200,17 @@ reset-junk-button =
 
 ##
 
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Анимировать иконку в доке
+           *[other] Мигать на панели задач
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] н
+           *[other] и
+        }
 
 ## Preferences UI Search Results
 
