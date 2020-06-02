@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Bevoegdheden…">
 <!ENTITY privileges.button.accesskey             "B">
 <!ENTITY permissionsDesc.label                   "U hebt de volgende rechten:">
+<!ENTITY folderOtherUsers.label                  "Anderen met toegang tot deze map:">
 <!ENTITY folderType.label                        "Maptype:">
 
 <!ENTITY folderQuotaTab.label                    "Quotum">
