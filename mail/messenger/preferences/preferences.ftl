@@ -66,6 +66,10 @@ update-in-progress-cancel-button = &Continua
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = Pàgina d'inici del { -brand-short-name }
 start-page-label =
     .label = Quan s'executi el { -brand-short-name }, mostra la pàgina d'inici a l'àrea de missatges
@@ -91,6 +95,9 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Navega…
     .accesskey = N
+enable-gloda-search-label =
+    .label = Habilita el cercador i indexador de missatges
+    .accesskey = i
 scrolling-legend = Desplaçament
 autoscroll-label =
     .label = Utilitza el desplaçament automàtic
@@ -98,9 +105,21 @@ autoscroll-label =
 smooth-scrolling-label =
     .label = Utilitza el desplaçament suau
     .accesskey = m
+system-integration-legend = Integració amb el sistema
 always-check-default =
     .label = A l'inici, comprova sempre si el { -brand-short-name } és el client de correu per defecte
     .accesskey = l
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Cercador del Windows
+       *[other] { "" }
+    }
+search-integration-label =
+    .label = Permet al { search-engine-name } que cerqui missatges
+    .accesskey = c
 config-editor-button =
     .label = Editor de la configuració…
     .accesskey = c
@@ -145,6 +164,15 @@ use-cache-after = MB d'espai de disc per a la memòria cau
 clear-cache-button =
     .label = Neteja-la ara
     .accesskey = N
+default-font-label =
+    .value = Tipus de lletra per defecte:
+    .accesskey = d
+default-size-label =
+    .value = Mida:
+    .accesskey = M
+font-options-button =
+    .label = Avançades…
+    .accesskey = A
 display-width-legend = Missatges en text net
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -173,6 +201,29 @@ smaller-size-item =
     .label = Més petita
 search-input =
     .placeholder = Cerca
+type-column-label =
+    .label = Tipus de contingut
+    .accesskey = T
+action-column-label =
+    .label = Acció
+    .accesskey = A
+save-to-label =
+    .label = Desa els fitxers a
+    .accesskey = s
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Tria…
+           *[other] Navega…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] T
+           *[other] v
+        }
+always-ask-label =
+    .label = Demana'm sempre on desar els fitxers
+    .accesskey = a
 display-tags-text = Les etiquetes poden utilitzar-se per classificar i donar prioritats als vostres missatges.
 delete-tag-button =
     .label = Suprimeix
@@ -190,6 +241,8 @@ delete-tag-button =
 forward-label =
     .value = Reenvia missatges:
     .accesskey = n
+inline-label =
+    .label = Insereix
 as-attachment-label =
     .label = Com a adjunció
 extension-label =
@@ -199,6 +252,9 @@ extension-label =
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Desa automàticament cada
+    .accesskey = u
 auto-save-end = minuts
 
 ##
@@ -229,6 +285,7 @@ format-description = Configura el comportament del format de text
 send-options-label =
     .label = Opcions d'enviament…
     .accesskey = v
+autocomplete-description = Quan s'estigui escrivint adreces en els missatges, cerca adreces que coincideixin a:
 ab-label =
     .label = Llibretes d'adreces locals
     .accesskey = a
@@ -243,6 +300,12 @@ edit-directories-label =
 email-picker-label =
     .label = Afegeix automàticament les adreces electròniques de sortida a:
     .accesskey = t
+attachment-label =
+    .label = Comprova si falten fitxers adjunts
+    .accesskey = m
+attachment-options-label =
+    .label = Paraules clau…
+    .accesskey = P
 cloud-share-size =
     .value = MB
 remove-cloud-account =
@@ -253,11 +316,39 @@ cloud-account-description = Afegeix un servei d'emmagatzematge Filelink nou
 ## Privacy Tab
 
 passwords-description = El { -brand-short-name } pot recordar les contrasenyes de tots els vostres comptes; així no cal que torneu a introduir els vostres detalls d'entrada.
+passwords-button =
+    .label = Contrasenyes desades…
+    .accesskey = d
 master-password-description = Una vegada definida, la contrasenya mestra protegeix totes les vostres contrasenyes - però heu d'introduir-la una vegada per cada sessió.
+master-password-label =
+    .label = Utilitza una contrasenya mestra
+    .accesskey = m
+master-password-button =
+    .label = Canvia la contrasenya mestra…
+    .accesskey = C
+junk-label =
+    .label = Quan marqui els missatges com a correu brossa:
+    .accesskey = Q
+junk-delete-label =
+    .label = Suprimeix-los
+    .accesskey = x
+junk-read-label =
+    .label = Marca els missatges determinats com a brossa com a llegits
+    .accesskey = c
 junk-log-label =
     .label = Activa el registre de dades d'entrenament del correu brossa
     .accesskey = e
+junk-log-button =
+    .label = Mostra el registre
+    .accesskey = t
+reset-junk-button =
+    .label = Reinicia les dades d'entrenament
+    .accesskey = d
 phishing-description = El { -brand-short-name } pot analitzar els missatges sospitosos de ser fraudulents tenint en compte les tècniques més comunes d'engany.
+certificate-description = Quan un servidor demani el meu certificat personal:
+certificate-ask =
+    .label = Demana-m'ho cada vegada
+    .accesskey = c
 
 ## Chat Tab
 
