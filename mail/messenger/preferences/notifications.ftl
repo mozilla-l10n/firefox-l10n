@@ -5,6 +5,9 @@
 notifications-dialog-window =
     .title = Yeni Posta Uyarısını Özelleştir
 customize-alert-description = Uyarı bildiriminde hangi alanların gösterileceğini seçin:
+preview-text-checkbox =
+    .label = İleti ön izleme metni
+    .accesskey = İ
 subject-checkbox =
     .label = Konu
     .accesskey = K
