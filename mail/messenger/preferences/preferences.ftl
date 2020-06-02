@@ -503,6 +503,9 @@ keep-ask =
 cookies-button =
     .label = Mostra i cookie…
     .accesskey = o
+do-not-track-label =
+    .label = Comunica ai siti la volontà di non essere tracciato inviando un segnale “Do Not Track”
+    .accesskey = n
 learn-button =
     .label = Ulteriori informazioni
 passwords-description = { -brand-short-name } può memorizzare le password per tutti gli account.
@@ -556,6 +559,12 @@ certificate-ask =
 ocsp-label =
     .label = Interrogare i risponditori OCSP per confermare l'attuale validità dei certificati
     .accesskey = e
+certificate-button =
+    .label = Gestisci certificati…
+    .accesskey = G
+security-devices-button =
+    .label = Dispositivi di sicurezza…
+    .accesskey = D
 
 ## Chat Tab
 
