@@ -394,8 +394,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Uzi { $plugin-name } (en { -brand-short-name })
-applications-preview-inapp =
-    .label = Antaŭvidi en { -brand-short-name }
 
 applications-open-inapp =
     .label = Malfermi per { -brand-short-name }
@@ -412,9 +410,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -636,11 +631,16 @@ home-prefs-topsites-header =
     .label = Plej vizitaj
 home-prefs-topsites-description = Viaj plej vizititaj retejoj
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Rekomendita de { $provider }
 home-prefs-recommended-by-description = Bonega enhavo de la tuta Teksaĵo, personecigita por vi
+##
+
 home-prefs-recommended-by-learn-more = Kiel funkcias tio
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Patronitaj artikoloj
@@ -961,9 +961,9 @@ privacy-header = Retumila privateco
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Akreditiloj kaj pasvortoj
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Akreditiloj kaj pasvortoj
@@ -1002,9 +1002,6 @@ forms-master-pw-fips-title = Vi estas nun en FIPSa reĝimo. FIPS postulas nemalp
 forms-master-pw-fips-desc = Pasvorto malsukcese ŝanĝita
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Konfirmu vian identecon por krei ĉefan pasvorton.
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Por krei ĉefan pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
@@ -1211,7 +1208,6 @@ content-blocking-warning-title = Atentu!
 content-blocking-warning-description = La blokado de enhavo povas misfunkciigi kelkajn retejojn. Estas facile malaktivigi la blokadon por retejoj, kiujn vi fidas.
 content-blocking-learn-how = Pli da informo
 
-content-blocking-etp-warning-description = Blokado de spuriloj povas influi la funkciadon de kelkaj retejoj. Reŝargu paĝon kun spuriloj por ŝargi la tutan enhavon.
 content-blocking-and-isolating-etp-warning-description = Blokado de spuriloj kaj izolado de kuketoj povus influi la funkciadon de kelkaj retejoj. Reŝargu paĝon kun spuriloj por ŝargi la tutan enhavon.
 content-blocking-warning-learn-how = Pli da informo
 

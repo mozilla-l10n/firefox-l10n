@@ -389,7 +389,3 @@ main-context-menu-eme-learn-more =
     .label = Pli da informo pri DRM…
     .accesskey = i
 
-# Checkbox displayed at the bottom of the What's New panel, allowing users to 
-# enable/disable What's New notifications.
-cfr-whatsnew-panel-footer-checkbox =
-    .label = Sciigi pri novaj trajtoj
