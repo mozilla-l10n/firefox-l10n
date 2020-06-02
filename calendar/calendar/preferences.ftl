@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Naptár
+calendar-title-reminder = Emlékeztetők
+calendar-title-category = Kategóriák
 dateformat-label =
     .value = Dátumszöveg formátuma:
     .accesskey = D
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Hétszám megjelenítése a nézetekben és a mini hónapban
     .accesskey = H
+workdays-label =
+    .value = Munkahét napjai:
 day-1-checkbox =
     .label = Va.
     .accesskey = V
@@ -70,6 +75,9 @@ midnight-label =
     .label = éjfél
 noon-label =
     .label = dél
+location-checkbox =
+    .label = Hely megjelenítése
+    .accesskey = H
 multiweek-legend = Többheti nézet
 number-of-weeks-label =
     .value = Megjelenítendő hetek száma (beleértve az előző heteket is)
@@ -92,7 +100,16 @@ previous-weeks-label =
     .value = Megjelenítendő előző hetek:
     .accesskey = e
 todaypane-legend = Ma panel
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = A várakozó szakaszban megjelenik:
+    .accesskey = v
 event-task-legend = Események és feladatok
+default-length-label =
+    .value = Alapértelmezett esemény- és a feladathossz:
+    .accesskey = E
 task-start-label =
     .value = Kezdési dátum:
 task-start-1-label =
@@ -130,12 +147,18 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Alapértelmezett hang használata
     .accesskey = A
+reminder-custom-sound-label =
+    .label = A következő hangfájl használata
+    .accesskey = h
 reminder-browse-sound-label =
     .label = Tallózás…
     .accesskey = T
 reminder-dialog-label =
     .label = Értesítő párbeszédpanel megjelenítése
     .accesskey = r
+missed-reminder-label =
+    .label = Elszalasztott emlékeztetők megjelenítése az írható naptárakhoz
+    .accesskey = z
 reminder-default-legend = Értesítések alapbeállításai
 default-snooze-label =
     .value = Alapértelmezett szundihossz:
