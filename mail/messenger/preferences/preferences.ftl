@@ -144,6 +144,10 @@ return-receipts-description = Determine como o { -brand-short-name } trata as co
 return-receipts-button =
     .label = Confirmações de leitura…
     .accesskey = C
+update-app-legend = Atualizações do { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versão { $version }
 automatic-updates-label =
     .label = Instalar atualizações automaticamente (recomendado: melhoria da segurança)
     .accesskey = a
@@ -325,6 +329,9 @@ font-label =
 font-color-label =
     .value = Cor do texto:
     .accesskey = C
+default-format-label =
+    .label = Usar formato de parágrafo em vez do corpo do texto por padrão
+    .accesskey = P
 autocomplete-description = Ao endereçar mensagens, procurar por contatos em:
 ab-label =
     .label = Catálogos de endereços locais
@@ -480,6 +487,17 @@ notification-name =
     .label = com o nome do remetente apenas
 notification-empty =
     .label = sem qualquer informação
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animar o ícone da dock
+           *[other] Piscar o item da barra de tarefas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] f
+        }
 chat-play-sound-label =
     .label = Reproduzir um som
     .accesskey = d
