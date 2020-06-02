@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Calendr
+calendar-title-reminder = Atgoffwyr
+calendar-title-category = Categorïau
 dateformat-label =
     .value = Fformat Testun Dyddiad:
     .accesskey = F
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Dangos rhif wythnos mewn golwg a mis bach
     .accesskey = r
+workdays-label =
+    .value = Diwrnodau wythnos gwaith:
 day-1-checkbox =
     .label = Sul
     .accesskey = S
@@ -102,6 +107,9 @@ soon-label =
     .value = Mae'r adran Nesaf yn dangos:
     .accesskey = N
 event-task-legend = Digwyddiadau a Thasgau
+default-length-label =
+    .value = Hyd Digwyddiad a Tasg Rhagosodedig:
+    .accesskey = D
 task-start-label =
     .value = Dyddiad Cychwyn:
 task-start-1-label =
@@ -139,6 +147,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Defnyddio'r sain rhagosodedig
     .accesskey = s
+reminder-custom-sound-label =
+    .label = Defnyddio'r ffeil sain ganlynol
+    .accesskey = D
 reminder-browse-sound-label =
     .label = Pori…
     .accesskey = P
