@@ -92,6 +92,17 @@ restore-default-label =
     .accesskey = u
 default-search-engine = Standard søkjemotor
 new-message-arrival = Når ei ny melding kjem:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Bruk følgjande lydfil:
+           *[other] Spel av ein lyd
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] r
+           *[other] S
+        }
 mail-play-button =
     .label = Spel av
     .accesskey = e
@@ -102,6 +113,9 @@ app-icon-options =
 animated-alert-label =
     .label = Vis eit varsel
     .accesskey = V
+customize-alert-label =
+    .label = Avansert…
+    .accesskey = A
 tray-icon-label =
     .label = Vis eit ikon i systemstatusfeltet
     .accesskey = t
@@ -138,6 +152,14 @@ always-check-default =
 check-default-button =
     .label = Sjekk no …
     .accesskey = n
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows-søk
+       *[other] { "" }
+    }
 search-integration-label =
     .label = Tillat { search-engine-name } å søkja i meldingar
     .accesskey = T
@@ -148,6 +170,9 @@ return-receipts-description = Avgjer korleis { -brand-short-name } skal handsama
 return-receipts-button =
     .label = Kvitteringar …
     .accesskey = K
+automatic-updates-label =
+    .label = Automatisk installer oppdateringar (tilrådd: betre sikkerheit)
+    .accesskey = A
 check-updates-label =
     .label = Sjå etter oppdateringar, men la meg velja om dei skal installerast
     .accesskey = S
@@ -198,6 +223,9 @@ default-size-label =
 font-options-button =
     .label = Skrifttypar …
     .accesskey = r
+color-options-button =
+    .label = Fargar…
+    .accesskey = F
 display-width-legend = Meldingar i normal tekst
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -238,10 +266,24 @@ action-column-label =
 save-to-label =
     .label = Lagre filer til
     .accesskey = L
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Vel…
+           *[other] Bla gjennom …
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] B
+        }
 always-ask-label =
     .label = Alltid spør meg om kvar eg vil lagre filer
     .accesskey = A
 display-tags-text = Merkelapp-stikkord kan brukast for å kategorisera og prioritera meldingane dine.
+edit-tag-button =
+    .label = Rediger…
+    .accesskey = R
 delete-tag-button =
     .label = Slett
     .accesskey = S
@@ -287,6 +329,9 @@ inline-label =
     .label = Innebygd
 as-attachment-label =
     .label = Som vedlegg
+extension-label =
+    .label = legg til filtype i filnamnet
+    .accesskey = l
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -323,6 +368,9 @@ bg-color-label =
 restore-html-label =
     .label = Bruk standard
     .accesskey = d
+default-format-label =
+    .label = Bruk paragrafformat i staden for brødtekst som standard
+    .accesskey = p
 format-description = Konfigurer åtferda til tekstformatet
 send-options-label =
     .label = Sende-innstillingar …
@@ -345,10 +393,17 @@ email-picker-label =
 attachment-label =
     .label = Åtvar meg dersom vedlegg manglar
     .accesskey = Å
+attachment-options-label =
+    .label = Nykelord…
+    .accesskey = N
 enable-cloud-share =
     .label = Tilby å dele for filer større enn
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Legg til…
+    .accesskey = L
+    .defaultlabel = Legg til…
 remove-cloud-account =
     .label = Fjern
     .accesskey = F
@@ -360,10 +415,16 @@ mail-content = E-postinnhald
 remote-content-label =
     .label = Tillat eksternt innhald i meldingar
     .accesskey = T
+exceptions-button =
+    .label = Unntak…
+    .accesskey = U
 web-content = Nettinnhald
 history-label =
     .label = Hugs nettsider og lenker eg har besøkt
     .accesskey = H
+cookies-label =
+    .label = Tillat infokapslar frå nettstadar
+    .accesskey = a
 third-party-label =
     .value = Tillat tredjeparts infokapslar:
     .accesskey = i
@@ -434,10 +495,16 @@ auto-connect-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = La kontaktane mine vita at eg er inaktiv etter
+    .accesskey = i
 idle-time-label = minutt med inaktivitet
 
 ##
 
+away-message-label =
+    .label = og set status til borte med denne statusmeldinga:
+    .accesskey = a
 send-typing-label =
     .label = Send varsel om at eg skriv i samtalar
     .accesskey = t
@@ -457,6 +524,9 @@ chat-play-sound-label =
 chat-play-button =
     .label = Spel av
     .accesskey = p
+chat-system-sound-label =
+    .label = Standard systemlyd for ny e-post
+    .accesskey = d
 chat-custom-sound-label =
     .label = Bruk lydfil
     .accesskey = B
