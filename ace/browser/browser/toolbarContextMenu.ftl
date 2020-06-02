@@ -5,3 +5,4 @@
 toolbar-context-menu-undo-close-tab =
     .label = Pubateue Tôp Tab
     .accesskey = U
+

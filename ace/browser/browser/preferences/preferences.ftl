@@ -317,9 +317,6 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 
-applications-preview-inapp =
-    .label = Ngieng siat bak { -brand-short-name }
-
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
@@ -332,9 +329,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -506,11 +500,17 @@ home-prefs-topsites-header =
     .label = Situih Palèng Ateuëh
 home-prefs-topsites-description = Situih nyang kayèm that droëneuh saweuë
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Geu-usui uléh { $provider }
 home-prefs-recommended-by-description = Kontèn krak nibak ban mandum situihwèb, dipeuturi keu droëneuh
+##
+
+
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Kisah-kisah nyang diseuponsor
 
@@ -872,7 +872,6 @@ content-blocking-learn-more = Meurunoe lôm
 
 
 ##
-
 
 ## Privacy Section - Tracking
 

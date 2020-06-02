@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Jeunajah Rahsia)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Jeunajah Rahsia)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Jeunajah Rahsia)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Jeunajah Rahsia)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -73,6 +75,7 @@ search-one-offs-change-settings-button =
     .label = Ubah Peuatô Mita
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah peuatô mita
+
 search-one-offs-context-open-new-tab =
     .label = Mita nibak Tab Barô
     .accesskey = T
@@ -81,6 +84,7 @@ search-one-offs-context-open-new-tab =
 
 bookmark-panel-done-button =
     .label = Seuleusoë
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
