@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = T
     .tooltiptext = Angi din foretrukne nettadresse for DNS-oppslag over HTTPS
 connection-dns-over-https-custom-label = Tilpasset
+connection-dialog-window =
+    .title = Tilkoblingsinnstillinger
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Konfigurer proxy for tilgang til Internett
 proxy-type-no =
     .label = Ingen proxy
@@ -33,6 +40,12 @@ proxy-http-label =
 http-port-label =
     .value = Port:
     .accesskey = P
+proxy-http-sharing =
+    .label = Bruk også denne proxyserver for HTTPS
+    .accesskey = x
+proxy-https-label =
+    .value = HTTPS-proxy:
+    .accesskey = S
 ssl-port-label =
     .value = Port:
     .accesskey = o
@@ -58,3 +71,15 @@ no-proxy-label =
     .value = Ingen MT for:
     .accesskey = n
 no-proxy-example = Eksempel: .mozilla.org, .net.nz, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = Tilkoblinger til localhost, 127.0.0.1 og ::1 er aldri koblet til via proxy.
+proxy-password-prompt =
+    .label = Ikke be om autentisering hvis passordet er lagret
+    .accesskey = i
+    .tooltiptext = Dette valget autentiserer deg automatisk mot proxier når du har lagrede innloggingsdetaljer for de. Du vil få spørsmål dersom autentisering er mislykket.
+proxy-remote-dns =
+    .label = Proxy-DNS når du bruker SOCKS v5
+    .accesskey = D
+proxy-enable-doh =
+    .label = Aktiver DNS-over-HTTPS
+    .accesskey = o
