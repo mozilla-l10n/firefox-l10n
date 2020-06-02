@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+dateformat-label =
+    .value = Formát data:
+    .accesskey = d
+#   $date (String) - the formatted example date
+dateformat-long =
+    .label = Dlouhý: { $date }
+#   $date (String) - the formatted example date
+dateformat-short =
+    .label = Krátký: { $date }
 weekstart-label =
     .value = První den v týdnu:
     .accesskey = r
@@ -63,6 +72,22 @@ week-6-label =
 previous-weeks-label =
     .value = Počet předchozích týdnů:
     .accesskey = o
+task-start-1-label =
+    .label = Žádný
+task-start-2-label =
+    .label = Začátek dne
+task-start-3-label =
+    .label = Konec dne
+task-start-4-label =
+    .label = Zítra
+task-start-5-label =
+    .label = Příští týden
+task-start-6-label =
+    .label = Relativně k aktuálnímu času
+task-start-7-label =
+    .label = Relativně k začátku
+task-start-8-label =
+    .label = Relativně k následující hodině
 reminder-legend = Při upozornění:
 reminder-play-checkbox =
     .label = Přehrát zvuk
@@ -77,6 +102,9 @@ reminder-dialog-label =
     .label = Zobrazit dialog upozornění
     .accesskey = d
 reminder-default-legend = Výchozí nastavení upozornění
+default-snooze-label =
+    .value = Opakovat upozornění každých:
+    .accesskey = O
 event-alarm-label =
     .value = Výchozí nastavení upozornění pro události:
     .accesskey = c
