@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Yksityisyyden suojaukset
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Siirry yksityisyysraporttiin
+
 appmenuitem-protection-dashboard-title = Suojausten yhteenveto
 appmenuitem-customize-mode =
     .label = Muokkaa…

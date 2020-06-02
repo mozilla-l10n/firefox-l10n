@@ -10,15 +10,6 @@ remove-address-row-type = Poista { $type } -kenttä
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Tyhjä { $type }-syöttökenttä
-        [one] { $type }-syöttökenttä ja yksi osoite
-       *[other] { $type }-syöttökenttä ja { $count } osoitetta
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -49,3 +40,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Siirrä piilokopion vastaanottajaksi
     .accesskey = p
+

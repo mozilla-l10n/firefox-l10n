@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Muokkaa uuden viestin ilmoitustapaa
+
 customize-alert-description = Valitse, mitä näytetään uusi viesti -ilmoituksessa:
+
 preview-text-checkbox =
     .label = Viestin esikatselu
     .accesskey = V
+
 subject-checkbox =
     .label = Aihe
     .accesskey = A
+
 sender-checkbox =
     .label = Lähettäjä
     .accesskey = L
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Näytä uusi viesti -ilmoitusta
     .accesskey = N
+
 open-time-label-after =
     .value = sekuntia

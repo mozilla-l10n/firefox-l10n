@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Uusi tunnus
+
 tag-name-label =
     .value = Tunnuksen nimi:
     .accesskey = T
