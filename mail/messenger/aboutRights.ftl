@@ -11,6 +11,7 @@ rights-intro-point-5 = Won e fannuuji { -brand-short-name } ena kuutortoo carwe 
 rights-intro-point-5-unbranded = So ndee faggoore ena soomi carwe geese, kala sarɗi carwe pawotooɗe e carwol (carwe) ɗee ena poti jokkondirɗe e <a data-l10n-name="mozilla-website-services-link">Carwe Lowe Geese</a> taƴre.
 rights-intro-point-6 = Ngam tartude yoga e loowdi widewoo, { -brand-short-name } aawtoto won e gulɗe dokkitorɗe loowdi iwde e nokkuuji goɗɗi.
 rights-webservices-header = Carwe Humpito { -brand-full-name } Mooftiiɗe e Geese
+rights-webservices = { -brand-full-name } ena huutoroo carwe humpito mooftiiɗe e geese ("Carwe") ngam addude won e fannuuji ɗi ngaddane-ɗaa yo a huutoro ndee yamre biinere { -brand-short-name } tugnaade e sarɗiiji cifaaɗi les ɗoo. So a yiɗaa huutoraade gootol walla keewɗe e ɗeen Carwe walla sarɗiiji gonɗi les ɗoo njaɓotaako, aɗa waawi daaƴde oon fannu Carwol(we). Tinndinoore e no fannu keeriiɗo walla Carwol daaƴirtee ena heɓoo <a data-l10n-name="mozilla-disable-service-link">ɗoo</a>. Fannuuji e Carwe goɗɗe ena mbaawi daaƴeede e cuɓoraaɗe jaaɓnirgal ngal.
 rights-locationawarebrowsing = <strong>Peeragol Ganndungol Nokkuure: </strong>ko jaɓel kala sahaa.  Alaa humpito nokkuure neldetee tawa a yamiraani.  So aɗa yiɗi daaƴde oo fannu haa timma, tugno e ɗee daawe:
 rights-locationawarebrowsing-term-1 = E palal URL ngal, tappu <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Tappu geo.enabled
