@@ -38,9 +38,6 @@ graph-today = Hannde
 
 tracker-tab-title = Dewindagol Loowdi
 
-protections-close-button =
-    .aria-label = Uddu
-
 protections-close-button2 =
     .aria-label = Uddu
     .title = Uddu

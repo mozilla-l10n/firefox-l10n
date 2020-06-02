@@ -367,8 +367,6 @@ applications-file-ending-with-type = { applications-file-ending }{ $type }
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Huutoro { $plugin-name } (nder { -brand-short-name })
-applications-preview-inapp =
-    .label = Yiytino e { -brand-short-name }
 
 applications-open-inapp =
     .label = Uddit e { -brand-short-name }
@@ -385,9 +383,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -594,11 +589,16 @@ home-prefs-topsites-header =
     .label = Lowre Rowrowe
 home-prefs-topsites-description = Lowe ɗe ɓurɗaa waawde yillaade
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Waggini ɗum ko { $provider }
 home-prefs-recommended-by-description = Loowdi dowrowri geese, keertinanaandi ma
+##
+
 home-prefs-recommended-by-learn-more = Hol no gollortoo
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Daari joɓanaaɗi
@@ -884,9 +884,9 @@ privacy-header = Suturo Wanngorde
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Ceŋorɗe & Pinle
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Ceŋorɗe & Pinle
