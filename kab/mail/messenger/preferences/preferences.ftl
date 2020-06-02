@@ -72,6 +72,7 @@ update-in-progress-ok-button = &Anef
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
+addons-button = Isiɣzaf & Isental
 
 ## OS Authentication dialog
 
@@ -386,6 +387,12 @@ download-dictionaries-link = Zdem ugar n imawalen
 font-label =
     .value = Tasefsit:
     .accesskey = s
+font-size-label =
+    .value = Teɣzi:
+    .accesskey = z
+default-colors-label =
+    .label = Seqdec initen imezwar n umeɣri
+    .accesskey = d
 font-color-label =
     .value = Tiɣmi n uḍris:
     .accesskey = m
