@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Tanca
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Redacció
 category-compose =
     .tooltiptext = Redacció
+pane-privacy-title = Privadesa i seguretat
+category-privacy =
+    .tooltiptext = Privadesa i seguretat
 pane-chat-title = Xat
 category-chat =
     .tooltiptext = Xat
@@ -66,6 +71,7 @@ update-in-progress-ok-button = &Descarta
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
+addons-button = Extensions i temes
 
 ## OS Authentication dialog
 
@@ -87,6 +93,12 @@ restore-default-label =
     .label = Restaura el valor per defecte
     .accesskey = R
 default-search-engine = Motor de cerca per defecte
+add-search-engine =
+    .label = Afegeix des d'un fitxer
+    .accesskey = A
+remove-search-engine =
+    .label = Elimina
+    .accesskey = E
 new-message-arrival = Quan arribin missatges nous:
 mail-play-sound-label =
     .label =
@@ -126,6 +138,7 @@ enable-gloda-search-label =
     .label = Habilita el cercador i indexador de missatges
     .accesskey = i
 datetime-formatting-legend = Format de data i hora
+language-selector-legend = Llengua
 allow-hw-accel =
     .label = Utilitza l'acceleració de maquinari quan sigui disponible
     .accesskey = r
@@ -172,6 +185,7 @@ update-app-legend = Actualitzacions del { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Versió { $version }
+allow-description = Opcions d'actualització del { -brand-short-name }
 automatic-updates-label =
     .label = Instal·la les actualitzacions automàticament (és l'opció recomanada per seguretat)
     .accesskey = a
@@ -184,6 +198,7 @@ update-history-button =
 use-service =
     .label = Instal·la les actualitzacions en segon pla
     .accesskey = s
+cross-user-udpate-warning = Aquest paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzin aquesta instal·lació del { -brand-short-name }.
 networking-legend = Connexió
 proxy-config-description = Configura com es connecta el { -brand-short-name } a Internet
 network-settings-button =
@@ -323,6 +338,9 @@ open-msg-window =
 open-msg-ex-window =
     .label = Una finestra ja oberta
     .accesskey = j
+close-move-delete =
+    .label = Tanca la finestra o la pestanya de missatges quan se suprimeixi o es mogui
+    .accesskey = T
 condensed-addresses-label =
     .label = Ensenya només el nom a mostrar de la gent que estigui a la meva llibreta d'adreces
     .accesskey = n
@@ -366,6 +384,9 @@ download-dictionaries-link = Baixa més diccionaris
 font-label =
     .value = Tipus de lletra:
     .accesskey = l
+font-size-label =
+    .value = Mida:
+    .accesskey = M
 font-color-label =
     .value = Color del text:
     .accesskey = x
@@ -408,6 +429,8 @@ attachment-label =
 attachment-options-label =
     .label = Paraules clau…
     .accesskey = P
+enable-cloud-share =
+    .label = Ofereix compartir fitxers més grans de
 cloud-share-size =
     .value = MB
 add-cloud-account =
@@ -417,6 +440,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Suprimeix
     .accesskey = r
+find-cloud-providers =
+    .value = Cerqueu més proveïdors…
 cloud-account-description = Afegeix un servei d'emmagatzematge Filelink nou
 
 ## Privacy Tab
@@ -458,6 +483,11 @@ keep-ask =
 cookies-button =
     .label = Mostra les galetes…
     .accesskey = s
+do-not-track-label =
+    .label = Envia als llocs web el senyal «No vull ser seguit» per informar-los que no vull que em facin el seguiment
+    .accesskey = n
+learn-button =
+    .label = Més informació
 passwords-description = El { -brand-short-name } pot recordar les contrasenyes de tots els vostres comptes; així no cal que torneu a introduir els vostres detalls d'entrada.
 passwords-button =
     .label = Contrasenyes desades…
@@ -509,6 +539,12 @@ certificate-ask =
 ocsp-label =
     .label = Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats
     .accesskey = C
+certificate-button =
+    .label = Gestiona els certificats…
+    .accesskey = G
+security-devices-button =
+    .label = Dispositius de seguretat…
+    .accesskey = D
 
 ## Chat Tab
 
@@ -549,6 +585,17 @@ notification-name =
     .label = només amb el nom del remitent
 notification-empty =
     .label = sense cap informació
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Anima la icona de l'acoblador
+           *[other] Fes parpellejar la icona de la barra de tasques
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Reprodueix un so
     .accesskey = d
@@ -564,6 +611,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Navega…
     .accesskey = N
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bombolles
+style-dark =
+    .label = Fosc
+style-paper =
+    .label = Fulls de paper
+style-simple =
+    .label = Senzill
+preview-label = Previsualització:
+no-preview-label = La previsualització no està disponible
+no-preview-description = Aquest tema no és vàlid o actualment no està disponible (perquè s'ha inhabilitat el complement, esteu en mode segur…)
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Mostra la capçalera
+    .accesskey = M
 
 ## Preferences UI Search Results
 
