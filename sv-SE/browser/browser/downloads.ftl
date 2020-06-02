@@ -38,10 +38,10 @@ downloads-cmd-show-menuitem-mac =
     .accesskey = F
 downloads-cmd-use-system-default =
     .label = Öppna i systemvisaren
-    .accesskey = V
+    .accesskey = s
 downloads-cmd-always-use-system-default =
     .label = Öppna alltid i systemvisaren
-    .accesskey = W
+    .accesskey = a
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->

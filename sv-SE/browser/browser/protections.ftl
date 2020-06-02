@@ -152,7 +152,7 @@ info-known-breaches-found =
 # to your localization, because it would result in the number showing twice.
 info-known-breaches-resolved =
     { $count ->
-        [one] Känt dataintrång markerade som lösta
+        [one] Känt dataintrång markerat som löst
        *[other] Kända dataintrång markerade som lösta
     }
 # This string is displayed after a large numeral that indicates the total number
@@ -177,8 +177,8 @@ password-warning =
 # to your localization, because it would result in the number showing twice.
 info-exposed-passwords-resolved =
     { $count ->
-        [one] Lösenord exponerade i olösta intrång
-       *[other] Lösenord exponerade i flera olösta intrång
+        [one] Lösenord exponerat i olösta intrång
+       *[other] Lösenord exponerade i olösta intrång
     }
 monitor-no-breaches-title = Goda nyheter!
 monitor-no-breaches-description = Du har inga kända intrång. Om det ändras, kommer vi att meddela dig.
