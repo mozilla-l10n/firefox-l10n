@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Restolando en privao)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Restolando en privao)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Restolando en privao)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Restolando en privao)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -100,10 +102,12 @@ urlbar-screen-blocked =
     .tooltiptext = Bloquiesti la compartición de pantalla pa esti sitiu web.
 urlbar-popup-blocked =
     .tooltiptext = Bloquiesti los ventanos emerxentes d'esti sitiu web.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editar esti marcardor ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -131,6 +135,7 @@ search-one-offs-change-settings-button =
     .label = Camudar axustes de gueta
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Camudar preferencies de busca
+
 search-one-offs-context-open-new-tab =
     .label = Guetar en llingüeta nueva
     .accesskey = L
@@ -210,9 +215,11 @@ urlbar-placeholder =
     .placeholder = Guetar o introducir direición
 urlbar-switch-to-tab =
     .value = Camudar a la llingüeta:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estensión:
+
 urlbar-go-button =
     .tooltiptext = Va a la direición na barra d'allugamientos
 urlbar-page-action-button =

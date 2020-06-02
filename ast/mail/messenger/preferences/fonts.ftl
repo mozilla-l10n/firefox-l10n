@@ -4,9 +4,11 @@
 
 fonts-encoding-dialog-title =
     .title = Fontes y codificación
+
 fonts-language-legend =
     .value = Fontes de lletra pa:
     .accesskey = T
+
 fonts-proportional-label =
     .value = Proporcional:
     .accesskey = P
@@ -77,35 +79,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Tamañu:
     .accesskey = u
+
 font-size-monospace-label =
     .value = Tamañu:
     .accesskey = i
+
 font-serif-label =
     .value = Serif:
     .accesskey = s
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monoespaciu:
     .accesskey = m
+
 font-min-size-label =
     .value = Tamañu de lletra mínimu:
     .accesskey = d
+
 min-size-none =
     .label = Dengún
 
 ## Fonts in message
 
 font-control-legend = Control de fontes de lletra
+
 use-document-fonts-checkbox =
     .label = Permitir a los mensaxes usar otres fontes de lletra
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = Usar fontes d'anchor fixu pa mensaxes en testu ensin formatu
     .accesskey = f
@@ -113,13 +125,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codificación de testu
+
 text-encoding-description = Afita la codificación de testu por defeutu pa unviar y recibir corréu
+
 font-outgoing-email-label =
     .value = Corréu saliente:
     .accesskey = e
+
 font-incoming-email-label =
     .value = Corréu entrante:
     .accesskey = C
+
 default-font-reply-checkbox =
     .label = Cuando seya posible, usa la codificación de testu por defeutu nes rempuestes
     .accesskey = H
