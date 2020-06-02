@@ -4,6 +4,7 @@
 
 attachment-reminder-window =
     .title = Palavras-chave do lembrete de anexos
+attachment-reminder-label = O { -brand-short-name } alertará sobre ausência de anexos quando você enviar um e-mail contendo uma dessas palavras-chave.
 keyword-new-button =
     .label = Novo…
     .accesskey = N

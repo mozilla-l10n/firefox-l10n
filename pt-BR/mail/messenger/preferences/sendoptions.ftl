@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sendoptions-dialog-window =
+    .title = Opções de envio
 send-mail-title = Mensagens com formatação
 auto-downgrade-label =
     .label = Enviar mensagens como texto sem formatação, se possível
@@ -26,6 +28,7 @@ html-tab-label =
 plain-tab-label =
     .label = Enviar como texto sem formatação
     .accesskey = t
+send-message-domain-label = Ao enviar uma mensagem para um endereço de um dos domínios abaixo, o { -brand-short-name } automaticamente envia a mensagem no formato correto.
 add-domain-button =
     .label = Adicionar…
     .accesskey = A
