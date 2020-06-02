@@ -61,6 +61,33 @@ update-in-progress-cancel-button = &Fortsæt
 
 ## General Tab
 
+enable-gloda-search-label =
+    .label = Aktiver global søgning og indeksering
+    .accesskey = A
+allow-hw-accel =
+    .label = Brug hardware-acceleration hvor muligt
+    .accesskey = h
+store-type-label =
+    .value = Lagertype for meddelelser for nye konti:
+    .accesskey = L
+mbox-store-label =
+    .label = En fil pr. mappe (mbox)
+maildir-store-label =
+    .label = En fil pr. meddelelse (maildir)
+scrolling-legend = Scrolling
+autoscroll-label =
+    .label = Brug autoscrolling
+    .accesskey = B
+smooth-scrolling-label =
+    .label = Brug blød scrolling
+    .accesskey = r
+system-integration-legend = Systemintegration
+always-check-default =
+    .label = Undersøg altid om { -brand-short-name } er standardmailprogrammet, når det startes
+    .accesskey = U
+check-default-button =
+    .label = Undersøg nu…
+    .accesskey = n
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -69,14 +96,60 @@ search-engine-name =
         [windows] Windows Søgning
        *[other] { "" }
     }
+search-integration-label =
+    .label = Tillad { search-engine-name } at søge efter meddelelser
+    .accesskey = T
+config-editor-button =
+    .label = Avancerede indstillinger…
+    .accesskey = r
+return-receipts-description = Vælg hvordan { -brand-short-name } skal håndtere kvitteringer
+return-receipts-button =
+    .label = Kvitteringer…
+    .accesskey = v
+update-app-legend = { -brand-short-name }-opdateringer
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Version { $version }
+update-history-button =
+    .label = Vis opdateringshistorik
+    .accesskey = V
+use-service =
+    .label = Brug en baggrundsservice til at installere opdateringer
+    .accesskey = b
+networking-legend = Forbindelse
+proxy-config-description = Konfigurer hvordan { -brand-short-name } forbinder til internettet
+network-settings-button =
+    .label = Indstillinger…
+    .accesskey = I
+offline-legend = Offline
+offline-settings = Rediger offline-indstillinger
+offline-settings-button =
+    .label = Offline…
+    .accesskey = O
+diskspace-legend = Diskplads
+offline-compact-folder =
+    .label = Optimer mapper, når det kan spare mere end
+    .accesskey = k
+compact-folder-size =
+    .value = MB
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Benyt op til
+    .accesskey = B
+use-cache-after = MB til mellemlageret
 
 ##
 
+smart-cache-label =
+    .label = Tilsidesæt automatisk cachehåndtering
+    .accesskey = s
+clear-cache-button =
+    .label = Ryd nu
+    .accesskey = R
 save-to-label =
     .label = Gem filer i
     .accesskey = f
@@ -200,6 +273,16 @@ antivirus-description = { -brand-short-name } kan gøre det lettere for antiviru
 antivirus-label =
     .label = Tillad antivirusprogrammer at sætte indkommende meddelelser i karantæne
     .accesskey = T
+certificate-description = Når en server forespørger mit personlige certifikat:
+certificate-auto =
+    .label = Vælg et automatisk
+    .accesskey = a
+certificate-ask =
+    .label = Spørg mig hver gang
+    .accesskey = ø
+ocsp-label =
+    .label = Send forespørgsel til OCSP responder-servere for at bekræfte certifikaters aktuelle gyldighed
+    .accesskey = e
 
 ## Chat Tab
 
