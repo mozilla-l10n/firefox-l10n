@@ -511,6 +511,13 @@ ocsp-label =
 
 ## Chat Tab
 
+startup-label =
+    .value = Při startu aplikace { -brand-short-name }:
+    .accesskey = s
+offline-label =
+    .label = Ponechat mé účty chatu offline
+auto-connect-label =
+    .label = Automaticky připojit mé účty chatu
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -518,9 +525,19 @@ ocsp-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Zobrazit se mým kontaktům jako Nečinný po
+    .accesskey = N
+idle-time-label = minutách nečinnosti
 
 ##
 
+away-message-label =
+    .label = a nastavit stav Pryč s touto zprávou:
+    .accesskey = r
+send-typing-label =
+    .label = Odesílat v konverzaci upozornění, že píši
+    .accesskey = a
 notification-label = Při přijetí zprávy určené mně:
 show-notification-label =
     .label = Zobrazit upozornění
@@ -531,6 +548,9 @@ notification-name =
     .label = pouze se jménem odesílatele
 notification-empty =
     .label = bez dalších informací
+chat-play-sound-label =
+    .label = Přehrát zvuk
+    .accesskey = P
 chat-play-button =
     .label = Přehrát
     .accesskey = h
@@ -540,7 +560,28 @@ chat-system-sound-label =
 chat-browse-sound-button =
     .label = Procházet…
     .accesskey = c
+theme-label =
+    .value = Motiv vzhledu:
+    .accesskey = t
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bubliny
+style-dark =
+    .label = Tmavý
+style-paper =
+    .label = Papírové listy
+style-simple =
+    .label = Jednoduchý
+preview-label = Náhled:
+no-preview-label = Náhled není k dispozici
 no-preview-description = Tento motiv vzhledu není platný, nebo je momentálně nedostupný (zakázaný doplněk, nouzový režim, …).
+chat-variant-label =
+    .value = Varianta:
+    .accesskey = V
+chat-header-label =
+    .label = Zobrazit hlavičku
+    .accesskey = h
 
 ## Preferences UI Search Results
 
