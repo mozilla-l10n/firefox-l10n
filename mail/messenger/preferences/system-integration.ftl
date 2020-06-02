@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-title =
+    .title = Интеграция с системой
+system-integration-dialog =
+    .buttonlabelaccept = Установить по умолчанию
+    .buttonlabelcancel = Пропустить интеграцию
+    .buttonlabelcancel2 = Отмена
+default-client-intro = Использовать { -brand-short-name } по умолчанию в качестве:
 unset-default-tooltip = Невозможно отказаться от использования { -brand-short-name } в качестве клиента по умолчанию, находясь в самом { -brand-short-name }. Чтобы установить другое приложение в качестве клиента по умолчанию, вы должны использовать его функцию 'Установка по умолчанию'.
 checkbox-email-label =
     .label = Почтового клиента
