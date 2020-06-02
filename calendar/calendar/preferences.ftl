@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 calendar-title = Agenda
+calendar-title-reminder = Rappels
 calendar-title-category = Catégories
 dateformat-label =
     .value = Format de la date :
