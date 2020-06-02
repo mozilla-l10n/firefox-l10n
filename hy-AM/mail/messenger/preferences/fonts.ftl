@@ -10,6 +10,8 @@ fonts-label-default =
     .label = Լռելյայն ({ $name })
 fonts-label-default-unnamed =
     .label = Լռելյայն
+fonts-encoding-dialog-title =
+    .title = Տառատեսակներ և կոդավորումներ
 fonts-language-legend =
     .value = Տառատեսակներ՝
     .accesskey = t
@@ -19,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Լատիներեն
 font-language-group-japanese =
     .label = Ճապոներեն
 font-language-group-trad-chinese =
@@ -33,6 +38,8 @@ font-language-group-cyrillic =
     .label = Կիրիլյան
 font-language-group-el =
     .label = Հունարեն
+font-language-group-other =
+    .label = Այլ գրահամակարգեր
 font-language-group-thai =
     .label = Թաի
 font-language-group-hebrew =
@@ -61,6 +68,18 @@ font-language-group-khmer =
     .label = Խմեր
 font-language-group-malayalam =
     .label = Մալայալամ
+font-language-group-math =
+    .label = Մաթեմատիկա
+font-language-group-odia =
+    .label = Odia
+font-language-group-telugu =
+    .label = Թելուգու
+font-language-group-kannada =
+    .label = Կաննադա
+font-language-group-sinhala =
+    .label = Սինհալերեն
+font-language-group-tibetan =
+    .label = Տիբեթերեն
 
 ## Default font type
 
@@ -68,9 +87,21 @@ default-font-serif =
     .label = Հստակ
 default-font-sans-serif =
     .label = Գծիկավոր
+font-size-label =
+    .value = Չափը.
+    .accesskey = e
+font-size-monospace-label =
+    .value = Չափը.
+    .accesskey = i
+font-serif-label =
+    .value = Գծիկավոր.
+    .accesskey = S
 font-sans-serif-label =
     .value = Հստակ-գծիկավոր.
     .accesskey = n
+font-monospace-label =
+    .value = Համաչափ.
+    .accesskey = M
 font-min-size-label =
     .value = Առնվազն տառաչափը.
     .accesskey = z
@@ -89,9 +120,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Տեքստի կոդավորումը
+text-encoding-description = Գրանշանների ծրագրային կոդավորումը՝ նամակի ուղարկելիս կամ ստանալիս
 font-outgoing-email-label =
     .value = Ելքային նամակ.
     .accesskey = u
 font-incoming-email-label =
     .value = Մուտքային նամակ.
     .accesskey = I
+default-font-reply-checkbox =
+    .label = Հնարավորության դեպքում պատասխանելիս օգտ. ծրագրային կոդավորումը.
+    .accesskey = ր

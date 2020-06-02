@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Ուղարկելու ընտրանքներ
 send-mail-title = Տեքստային
+auto-downgrade-label =
+    .label = Ուղարկել նամակները որպես սովորական տեքստ, եթե հնարավոր է
+    .accesskey = տ
 default-html-format-label = Եթե նամակը ուղարկում եք HTML-ով և այն ստացողներից մեկը չկա HTML նամակ ստացողների ցանկում.
 html-format-ask =
     .label = Հարցնել, թե ինչ անել
