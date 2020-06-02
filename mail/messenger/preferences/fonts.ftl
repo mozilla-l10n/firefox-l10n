@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Vestleg
 font-language-group-japanese =
     .label = Japansk
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Kyrillisk
 font-language-group-el =
     .label = Gresk
+font-language-group-other =
+    .label = Anna skriftsystem
 font-language-group-thai =
     .label = Thai
 font-language-group-hebrew =
@@ -65,6 +70,14 @@ font-language-group-malayalam =
     .label = Malayalam
 font-language-group-math =
     .label = Mathematics
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Sinhala
+font-language-group-tibetan =
+    .label = Tibetansk
 
 ## Default font type
 
@@ -72,6 +85,12 @@ default-font-serif =
     .label = Seriffskrift
 default-font-sans-serif =
     .label = Serifflaus skrift
+font-size-label =
+    .value = Storleik:
+    .accesskey = r
+font-size-monospace-label =
+    .value = Storleik:
+    .accesskey = e
 font-serif-label =
     .value = Seriffskrift:
     .accesskey = S

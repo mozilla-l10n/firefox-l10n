@@ -34,6 +34,7 @@ cancel-button =
     .accesskey = A
 permission-can-label = Tillat
 permission-can-access-first-party-label = Tillat berre fyrsteparts
+permission-can-session-label = Tillat for programøkta
 permission-cannot-label = Blokker
 invalid-uri-message = Skriv inn ei gyldig nettadresse
 invalid-uri-title = Ugyldig nettadresse
