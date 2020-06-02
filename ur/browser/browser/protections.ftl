@@ -46,9 +46,6 @@ fingerprinter-tab-title = فنگر پرنٹرز
 
 cryptominer-tab-title = کریپٹومینر
 
-protections-close-button =
-    .aria-label = بند کریں
-
 protections-close-button2 =
     .aria-label = بند کریں
     .title = بند کریں

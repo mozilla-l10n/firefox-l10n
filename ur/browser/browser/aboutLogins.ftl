@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = لاگ ان اور پاس ورڈ
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -107,21 +112,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = محفوظ کردہ لاگ ان میں ترمیم کرنے کے لئے اپنی شناخت کی تصدیق کریں۔
-
-# This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = محفوظ کردہ لاگ ان میں تدوین کریں
 
 # This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = محفوظ شدہ پاس ورڈ کو ظاہر کرنے کے لئے اپنی شناخت کی تصدیق کریں۔
-
-# This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = محفوظ شدہ پاس ورڈ کو ظاہر کریں
-
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = محفوظ شدہ پاس ورڈ کی نقل کرنے کے لئے اپنی شناخت کی تصدیق کریں۔
 
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -183,3 +179,7 @@ about-logins-vulnerable-alert-learn-more-link = مزید سیکھیں
 
 # This is a generic error message.
 about-logins-error-message-default = اس پاس ورڈ کو محفوظ کرنے کی کوشش کرتے وقت ایک نقص پیش آگیا۔
+
+
+## Login Export Dialog
+

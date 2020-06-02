@@ -5,13 +5,16 @@
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = غلطی کا کوڈ: { $error }
+
 psmerr-ssl-disabled = حفاظت سے جڑ نہیں سکتا کیونکہ SSL پروٹوکول نااہل کر دی گئی ہے۔
 psmerr-ssl2-disabled = حفاظت سے جڑ نہیں سکتا کیونکہ سائٹ SSL پروٹوکول کا ایک پرانا تر، ناقابل بھروسا ورژن استعمال کرتی ہے۔
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     آپ نے ایک ناجائز تصدیق نامہ وصول کیا ہے۔ پیش کار منتظم یا ای میل نامہ نگار سے رابطہ کریں اور انہیں مندرجہ ذیل معلومات دیں:
     
     آپ کا تصدیق نامہ اسی سیریل نمبر کا حامل ہے جیسا ایک اور تصدیق نامہ، جو تصدیق نامہ مقتدرہ سے جاری کردہ ہے۔ یکتا سیریل نمبر کا حامل کوئی نیا تصدیق نامہ حاصل کریں۔
+
 ssl-error-export-only-server = محفوظ طریقے سے بات چیت کرنے سے قاصر ہے. ہم مرتبہ اعلی گریڈ خفیہ کاری کی حمایت نہیں کرتا.
 ssl-error-us-only-server = محفوظ طریقے سے بات چیت کرنے سے قاصر ہے. ہم مرتبہ اعلی گریڈ خفیہ کاری کی حمایت نہیں کرتا.
 ssl-error-no-cypher-overlap = ہم مرتبہ کے ساتھ محفوظ طریقے سے بات چیت نہیں کر سکتے ہیں:کوئی عام خفیہ کاری کا الگورتھم
