@@ -79,9 +79,22 @@ change-dock-icon = Změna nastavení pro ikonu aplikace
 app-icon-options =
     .label = Nastavení ikony aplikace…
     .accesskey = n
+allow-hw-accel =
+    .label = Použít hardwarovou akceleraci, je-li dostupná
+    .accesskey = h
+store-type-label =
+    .value = Typ úložiště zpráv pro nové účty:
+    .accesskey = T
+mbox-store-label =
+    .label = Soubor pro každou složku (mbox)
+maildir-store-label =
+    .label = Soubor pro každou zprávu (maildir)
 automatic-updates-label =
     .label = Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)
     .accesskey = A
+check-updates-label =
+    .label = Vyhledávat aktualizace, ale zeptat se, zda mají být nainstalovány
+    .accesskey = C
 update-history-button =
     .label = Zobrazit historii aktualizací
     .accesskey = b
@@ -93,6 +106,12 @@ update-history-button =
 
 ##
 
+auto-mark-as-read =
+    .label = Automaticky označit zprávu jako přečtenou
+    .accesskey = A
+mark-read-no-delay =
+    .label = Okamžitě po zobrazení
+    .accesskey = O
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -100,16 +119,79 @@ update-history-button =
 
 ##
 
+open-msg-label =
+    .value = Otevírat zprávy v:
+open-msg-tab =
+    .label = Novém panelu
+    .accesskey = p
+open-msg-window =
+    .label = Novém okně
+    .accesskey = N
+close-move-delete =
+    .label = Při přesunutí nebo smazání zprávy zavřít panel/okno
+    .accesskey = s
 
 ## Compose Tab
 
+forward-label =
+    .value = Přeposílat zprávy:
+    .accesskey = s
+as-attachment-label =
+    .label = Jako přílohu
+extension-label =
+    .label = Přidat k názvu souboru příponu
+    .accesskey = d
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Automaticky ukládat každých
+    .accesskey = A
+auto-save-end = minut
 
 ##
 
+warn-on-send-accel-key =
+    .label = Při odeslání zprávy pomocí klávesové zkratky požadovat potvrzení
+    .accesskey = i
+language-popup-label =
+    .value = Jazyk:
+    .accesskey = J
+download-dictionaries-link = Stáhnout další slovníky
+font-label =
+    .value = Písmo:
+    .accesskey = m
+font-color-label =
+    .value = Text:
+    .accesskey = T
+restore-html-label =
+    .label = Obnovit výchozí
+    .accesskey = O
+format-description = Nastavení chování textového formátu
+send-options-label =
+    .label = Předvolby odesílání…
+    .accesskey = e
+ab-label =
+    .label = Místní kontakty
+    .accesskey = M
+directories-label =
+    .label = Adresářový server:
+    .accesskey = s
+directories-none-label =
+    .none = Žádný
+edit-directories-label =
+    .label = Upravit adresáře…
+    .accesskey = U
+email-picker-label =
+    .label = Automaticky přidat odchozí e-mailovou adresu do složky:
+    .accesskey = A
+attachment-label =
+    .label = Kontrolovat zapomenuté přílohy
+    .accesskey = n
+attachment-options-label =
+    .label = Klíčová slova…
+    .accesskey = K
 enable-cloud-share =
     .label = Nabízet nahrávání na úložiště pro soubory větší než
 cloud-share-size =
@@ -127,16 +209,27 @@ exceptions-button =
 remote-content-info =
     .value = Zjistit více o problémech se soukromím u vzdáleného obsahu
 web-content = Webový obsah
+cookies-label =
+    .label = Povolit serverům nastavovat cookies
+    .accesskey = c
+third-party-label =
+    .value = Povolit cookies třetích stran:
+    .accesskey = i
 third-party-always =
     .label = Vždy
 third-party-never =
     .label = Nikdy
 third-party-visited =
     .label = Pouze navštívené
+keep-label =
+    .value = Ponechat do:
+    .accesskey = d
 keep-expire =
     .label = konce doby platnosti
 keep-close =
     .label = ukončení aplikace { -brand-short-name }
+keep-ask =
+    .label = vždy se zeptat
 cookies-button =
     .label = Správce cookies…
     .accesskey = S
@@ -156,6 +249,9 @@ junk-read-label =
 reset-junk-button =
     .label = Vymazat naučená pravidla
     .accesskey = V
+ocsp-label =
+    .label = Aktuální platnost certifikátů ověřovat na serverech OCSP
+    .accesskey = p
 
 ## Chat Tab
 
@@ -173,6 +269,21 @@ notification-label = Při přijetí zprávy určené mně:
 show-notification-label =
     .label = Zobrazit upozornění
     .accesskey = Z
+notification-all =
+    .label = se jménem odesílatele a náhledem zprávy
+notification-name =
+    .label = pouze se jménem odesílatele
+notification-empty =
+    .label = bez dalších informací
+chat-play-button =
+    .label = Přehrát
+    .accesskey = h
+chat-system-sound-label =
+    .label = Zvuk nové pošty v systému
+    .accesskey = u
+chat-browse-sound-button =
+    .label = Procházet…
+    .accesskey = c
 
 ## Preferences UI Search Results
 
