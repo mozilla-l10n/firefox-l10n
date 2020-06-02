@@ -4,16 +4,35 @@
 
 connection-dns-over-https-url-resolver = Usar proveedor
     .accesskey = r
-
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (Predeterminada)
     .tooltiptext = Usar URL predeterminada para resolver DNS sobre HTTPS
-
 connection-dns-over-https-url-custom =
     .label = Personalizada
     .accesskey = z
     .tooltiptext = Ingresar URL preferida para resolver DNS sobre HTTPS
-
 connection-dns-over-https-custom-label = Personalizada
+proxy-type-manual =
+    .label = Configuración manual de proxy:
+    .accesskey = m
+proxy-http-label =
+    .value = Proxy HTTP:
+    .accesskey = h
+proxy-socks-label =
+    .value = Servidor SOCKS:
+    .accesskey = c
+proxy-socks4-label =
+    .label = SOCKS v4
+    .accesskey = k
+proxy-socks5-label =
+    .label = SOCKS v5
+    .accesskey = v
+proxy-type-auto =
+    .label = URL de configuración automática de proxy:
+    .accesskey = a
+no-proxy-label =
+    .value = Sin proxy para:
+    .accesskey = n
+no-proxy-example = Ejemplo: .mozilla.org, .net.ar, 192.168.1.0/24
