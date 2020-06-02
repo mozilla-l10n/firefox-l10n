@@ -4,3 +4,4 @@
 
 connection-close-key =
     .key = w
+

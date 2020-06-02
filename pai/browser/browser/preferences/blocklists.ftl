@@ -4,3 +4,4 @@
 
 blocklist-close-key =
     .key = w
+

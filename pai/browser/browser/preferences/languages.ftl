@@ -4,3 +4,4 @@
 
 languages-close-key =
     .key = w
+

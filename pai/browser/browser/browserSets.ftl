@@ -4,17 +4,22 @@
 
 search-focus-shortcut =
     .key = K
+
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
 find-shortcut =
     .key = F
+
 search-find-again-shortcut =
     .key = G
+
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+
 search-find-selection-shortcut =
     .key = E
+
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.

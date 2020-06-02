@@ -9,3 +9,4 @@
 editmenu-delete =
     .label = Ujiñ
     .accesskey = U
+

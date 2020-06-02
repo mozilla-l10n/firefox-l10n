@@ -5,6 +5,7 @@
 do-not-track-learn-more = Terabum ŕpo
 do-not-track-option-always =
     .label = T t'or
+
 close-button =
     .aria-label = Ŕ´amch
 
@@ -29,6 +30,7 @@ close-button =
 
 browser-containers-learn-more = Terabum ŕpo
 
+
 ## General Section - Language & Appearance
 
 
@@ -51,6 +53,7 @@ performance-settings-learn-more = Terabum ŕpo
 ## General Section - Browsing
 
 browsing-picture-in-picture-learn-more = Terabum ŕpo
+
 browsing-cfr-recommendations-learn-more = Terabum ŕpo
 
 ## General Section - Proxy
@@ -144,13 +147,17 @@ content-blocking-learn-more = Terabum ŕpo
 ## Privacy Section - Permissions
 
 permissions-notification-link = Terabum ŕpo
+
 permissions-a11y-privacy-link = Terabum ŕpo
 
 ## Privacy Section - Data Collection
 
 collection-health-report-telemetry-disabled-link = Terabum ŕpo
+
 collection-health-report-link = Terabum ŕpo
+
 addon-recommendations-link = Terabum ŕpo
+
 collection-backlogged-crash-reports-link = Terabum ŕpo
 
 ## Privacy Section - Security

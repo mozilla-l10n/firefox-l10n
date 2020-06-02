@@ -7,3 +7,4 @@ window-close =
 close-button =
     .label = Ŕ´amch
     .accesskey = Ŕ
+

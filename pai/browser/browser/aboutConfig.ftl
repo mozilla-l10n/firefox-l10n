@@ -11,6 +11,7 @@ about-config-search-input =
 ##
 
 about-config-pref-delete = Ujiñ
+
 about-config-pref-delete-button =
     .title = Ujiñ
 

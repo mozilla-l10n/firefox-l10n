@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 footer-learn-more-link = Terabum ŕpo
+
 features-learn-more = Terabum ŕpo

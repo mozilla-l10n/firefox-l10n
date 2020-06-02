@@ -4,6 +4,7 @@
 
 translation-close-key =
     .key = w
+
 translation-button-close =
     .label = Ŕ´amch
     .accesskey = Ŕ
