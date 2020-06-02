@@ -177,6 +177,7 @@
 <!ENTITY findToolbarCmd.tooltip "पेज में पाठ ढूंढें">
 <!ENTITY spellToolbarCmd.label "वर्तनी">
 <!ENTITY spellToolbarCmd.tooltip "चयनित या पूरे पेज की वर्तनी जांचे">
+
 <!ENTITY imageToolbarCmd.label "चित्र">
 <!ENTITY imageToolbarCmd.tooltip "नया चित्र डालें या चयनित चित्र गुण संपादित करें">
 <!ENTITY hruleToolbarCmd.label "H.रेखा">
