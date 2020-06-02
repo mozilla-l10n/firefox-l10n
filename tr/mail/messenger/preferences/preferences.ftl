@@ -204,6 +204,9 @@ auto-save-label =
 
 ##
 
+warn-on-send-accel-key =
+    .label = İleti göndermek için klavye kısayolu kullanıldığında onay iste
+    .accesskey = k
 spellcheck-label =
     .label = Göndermeden önce yazım denetimi yap
     .accesskey = a
