@@ -4,10 +4,31 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Predvolený ({ $name })
 fonts-label-default-unnamed =
     .label = Predvolený
+fonts-encoding-dialog-title =
+    .title = Písma a kódovanie
+
+## Languages
+
+
+## Default font type
+
+font-min-size-label =
+    .value = Minimálna veľkosť písma:
+    .accesskey = o
+min-size-none =
+    .label = Žiadne
+
+## Fonts in message
+
+
+## Language settings
+
+font-outgoing-email-label =
+    .value = Odosielaná pošta:
+    .accesskey = d
