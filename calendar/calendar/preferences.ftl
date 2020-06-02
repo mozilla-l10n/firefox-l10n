@@ -4,6 +4,7 @@
 
 calendar-title = Takvim
 calendar-title-reminder = Anımsatıcılar
+calendar-title-category = Kategoriler
 dateformat-label =
     .value = Tarih metni biçemi:
     .accesskey = T
