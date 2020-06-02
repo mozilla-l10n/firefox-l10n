@@ -602,9 +602,6 @@ updates-heading = Կառավարեք ձեր թարմացումները
 discover-heading = Անհատականացրեք ձեր { -brand-short-name }-ը
 shortcuts-heading = Կառավարել ընդլայնման դյուրացումները
 
-theme-heading-search-label = Ավելի շատ ձևավորումներ
-extension-heading-search-label = Ավելի շատ ընդլայնումներ
-
 default-heading-search-label = Ավելի շատ հավելումներ
 addons-heading-search-input =
     .placeholder = Որոնել  addons.mozilla.org֊ում
