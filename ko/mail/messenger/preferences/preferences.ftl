@@ -116,6 +116,17 @@ minimize-to-tray-label =
     .label = { -brand-short-name }가 최소화되면 트레이로 이동
     .accesskey = m
 new-message-arrival = 메시지 도착 알림
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] 다음 소리 파일 재생:
+           *[other] 소리로 알리기
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] d
+        }
 mail-play-button =
     .label = 미리듣기
     .accesskey = P
