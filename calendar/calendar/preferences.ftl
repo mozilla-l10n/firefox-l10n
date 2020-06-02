@@ -97,6 +97,12 @@ previous-weeks-label =
     .value = Semanas anteriores a mostrar:
     .accesskey = m
 todaypane-legend = Painel hoje
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = A secção brevemente mostra:
+    .accesskey = b
 event-task-legend = Eventos e tarefas
 default-length-label =
     .value = Evento predefinido e duração da tarefa:
@@ -138,12 +144,18 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Utilizar som pré-definido
     .accesskey = d
+reminder-custom-sound-label =
+    .label = Utilizar o seguinte ficheiro de som
+    .accesskey = U
 reminder-browse-sound-label =
     .label = Escolher…
     .accesskey = E
 reminder-dialog-label =
     .label = Mostrar uma caixa de alarme
     .accesskey = M
+missed-reminder-label =
+    .label = Mostrar lembretes falhados para calendários editáveis
+    .accesskey = p
 reminder-default-legend = Predefinições dos lembretes
 default-snooze-label =
     .value = Duração predefinida entre toques de alarme:
