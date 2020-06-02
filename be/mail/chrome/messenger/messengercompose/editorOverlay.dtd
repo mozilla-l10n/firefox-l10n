@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Знайсці тэкст на старонцы">
 <!ENTITY spellToolbarCmd.label "Правапіс">
 <!ENTITY spellToolbarCmd.tooltip "Праверыць правапіс вылучэння або ўсёй старонкі ">
+
 <!ENTITY imageToolbarCmd.label "Выява">
 <!ENTITY imageToolbarCmd.tooltip "Уставіць новую выяву або правіць уласцівасці выбранай">
 <!ENTITY hruleToolbarCmd.label "Г.рыска">

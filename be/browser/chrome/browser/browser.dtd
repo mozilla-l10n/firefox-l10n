@@ -293,10 +293,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Вы заблакавалі ўсталяванне дадаткаў з гэтага вэб-сайта.">
 
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Вы далі гэтаму вэб-сайту дадатковыя дазволы.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Паказаць гісторыю">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Вы далі гэтаму вэб-сайту дадатковыя дазволы.">
 
 
 <!ENTITY searchItem.title             "Пошук">
@@ -411,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Уладкаваць…">
 <!ENTITY viewCustomizeToolbar.accesskey     "л">
+
 <!ENTITY overflowCustomizeToolbar.label       "Уладкаванне паліцы прылад…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "У">
 
@@ -901,54 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Адкрыць налады блакаванага змесціва">
 
 
-<!ENTITY protections.etpON.header "Узмоцненая ахова ад сачэння ўключана на гэтым сайце">
-<!ENTITY protections.etpOFF.header "Узмоцненая ахова ад сачэння выключана на гэтым сайце">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Больш падрабязна пра ўзмоцненую ахову ад сачэння">
-<!ENTITY protections.settings.label "Налады аховы">
-<!ENTITY protections.showreport.label "Паказаць справаздачу">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Сайт не працуе?">
-<!ENTITY protections.siteNotWorkingView.title "Сайт не працуе?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Адключыце ахову, калі ўзніклі праблемы з:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Палямі для ўваходу">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Формамі">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Плацяжамі">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Каментарыі">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Відэа">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Даслаць справаздачу">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Заблакаваны">
-<!ENTITY protections.notBlocking2.label "Дазволены">
-<!ENTITY protections.notFound.label "Не выяўлены">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Чаму?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Блакаванне іх можа парушыць часткі некаторых вэб-сайтаў. Без трэкераў некаторыя кнопкі, формы і палі для ўваходу могуць не працаваць.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Усе трэкеры на гэтым сайце загружаныя, таму што ахова адключана.">
-<!ENTITY protections.noTrackersFound.description "Ніводнага трэкера, вядомага &brandShortName;, не выяўлена на гэтай старонцы.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Гэтыя кукі ідуць за вамі з сайта на сайт, каб сабраць звесткі пра тое, што вы робіце ў сеціве. Яны ўсталёўваюцца трэцімі бакамі, такімі як рэкламадаўцы і аналітычныя кампаніі.">
-<!ENTITY protections.cryptominers.description "Майнеры крыптавалют выкарыстоўваюць вылічальную магутнасць вашай сістэмы, каб здабываць лічбавыя грошы. Скрыпты для здабычы крыптавалют разраджаюць вашу батарэю, запавольваюць працу камп'ютара і могуць павялічыць ваш выдаткі на электраэнергію.">
-<!ENTITY protections.fingerprinters.description "Збіральнікі адбіткаў пальцаў збіраюць налады вашага браўзера і камп'ютара для стварэння вашага профілю. Выкарыстоўваючы гэты лічбавы адбітак, яны могуць асочваць вас на розных сайтах.">
-<!ENTITY protections.trackingContent2.description "Вэб-сайты могуць загружаць вонкавую рэкламу, відэа і іншае змесціва з кодам асочвання. Блакіроўка элементаў асочвання можа дапамагчы сайтам хутчэй загружацца, але некаторыя кнопкі, формы і палі ўваходу могуць не працаваць.">
-<!ENTITY protections.socialMediaTrackers.description "Сацыяльныя сеткі размяшчаюць трэкеры на іншых сайтах, каб сачыць за тым, што вы робіце, бачыце і глядзіце ў сеціве. Гэта дазваляе кампаніям сацыяльных сетак даведацца пра вас больш за тое, чым вы дзяліцеся ў сваіх профілях у сацыяльных сетках.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Карткі браўзера">
@@ -993,13 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Кукі">
 <!ENTITY contentBlocking.cookiesView.label "Кукі і дадзеныя сайтаў">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Змест з элементамі сачэння">
-
-<!ENTITY contentBlocking.manageSettings2.label "Кіраваць наладамі аховы">
-<!ENTITY contentBlocking.manageSettings2.accesskey "ь">
-
-<!ENTITY contentBlocking.socialblock.label "Трэкеры сацыяльных сетак">
-
 <!ENTITY contentBlocking.cryptominers.label "Майнеры крыптавалют">
 <!ENTITY contentBlocking.cryptominersView.label "Майнеры крыптавалют">
 
@@ -1011,12 +957,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Блакаванне змесціва можа выклікаць праблемы з некаторымі вэб-сайтамі. Калі вы паведамляеце аб праблеме, вы дапамагаеце зрабіць &brandShortName; лепшым для ўсіх. (Гэта дашле URL-адрас разам з інфармацыяй пра вашы налады браўзера ў Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Даведацца больш">
 
-<!ENTITY contentBlocking.breakageReportView.title "Паведаміць пра пашкоджаны сайт">
-<!ENTITY contentBlocking.breakageReportView3.description "Блакаванне пэўных трэкераў можа выклікаць праблемы з некаторымі вэб-сайтамі. Паведамленне пра такія праблемы дапамагае зрабіць &brandShortName; лепшым для ўсіх. Адпраўка гэтай справаздачы дашле URL-адрас разам з інфармацыяй пра вашы налады браўзера ў Mozilla.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Даведацца больш">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Што ў вас за праблема? (неабавязкова)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Неабавязкова: апішыце праблему">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Адправіць паведамленне">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Скасаваць">
 
