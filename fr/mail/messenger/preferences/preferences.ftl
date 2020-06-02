@@ -75,6 +75,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = Page de démarrage de { -brand-short-name }
 start-page-label =
     .label = Afficher la page de démarrage au lancement de { -brand-short-name }
@@ -95,6 +99,14 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Parcourir…
     .accesskey = r
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Recherche Windows
+       *[other] { "" }
+    }
 networking-legend = Connexion
 network-settings-button =
     .label = Paramètres…
@@ -133,6 +145,29 @@ smaller-size-item =
     .label = Plus petite
 search-input =
     .placeholder = Rechercher
+type-column-label =
+    .label = Type de contenu
+    .accesskey = T
+action-column-label =
+    .label = Action
+    .accesskey = A
+save-to-label =
+    .label = Enregistrer les fichiers sous
+    .accesskey = E
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Choisir…
+           *[other] Parcourir…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] P
+        }
+always-ask-label =
+    .label = Toujours demander où enregistrer les fichiers
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -187,6 +222,12 @@ edit-directories-label =
 email-picker-label =
     .label = Ajouter les adresses des messages sortants dans :
     .accesskey = A
+attachment-label =
+    .label = Vérification de pièces jointes manquantes
+    .accesskey = V
+attachment-options-label =
+    .label = Mots-clés
+    .accesskey = M
 
 ## Privacy Tab
 
