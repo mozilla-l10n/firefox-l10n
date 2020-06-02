@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Se for false, desativar aceleração de hardware.
 
 policy-InstallAddonsPermission = Permitir que certos sites instalem extensões.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Permitir que sites específicos tenham link para arquivos locais.
 
 policy-NetworkPrediction = Ativar ou desativar predição de rede (DNS prefetching).

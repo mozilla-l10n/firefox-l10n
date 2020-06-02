@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Detalhes do aplicativo
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Remove
     .accesskey = R
