@@ -220,6 +220,7 @@
 <!ENTITY findToolbarCmd.tooltip "Хуудсанд текст ол">
 <!ENTITY spellToolbarCmd.label "Үгийн алдаа шалгах">
 <!ENTITY spellToolbarCmd.tooltip "Сонгосон хэсэгт эсвэл бүхэл хуудсанд үгийн алдаа шалга">
+
 <!ENTITY imageToolbarCmd.label "Зураг">
 <!ENTITY imageToolbarCmd.tooltip "Шинэ зураг орлуул эсвэл сонгосон зургийн шинж чанарыг засварла">
 <!ENTITY hruleToolbarCmd.label "Хэвтээ шугам">
