@@ -242,6 +242,7 @@ attachment-options-label =
 
 ## Privacy Tab
 
+junk-description = Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».
 junk-label =
     .label = Quand je marque des messages comme indésirables :
     .accesskey = Q
