@@ -19,6 +19,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = لاتيني
 font-language-group-japanese =
     .label = ياباني
 font-language-group-trad-chinese =
@@ -33,6 +36,8 @@ font-language-group-cyrillic =
     .label = سريلي
 font-language-group-el =
     .label = يوناني
+font-language-group-other =
+    .label = نظم الكتابة الأخرى
 font-language-group-thai =
     .label = تايلندي
 font-language-group-hebrew =
@@ -65,6 +70,14 @@ font-language-group-math =
     .label = رياضيات
 font-language-group-odia =
     .label = أوريا
+font-language-group-telugu =
+    .label = تلوگو
+font-language-group-kannada =
+    .label = كنّادا
+font-language-group-sinhala =
+    .label = سنهالا
+font-language-group-tibetan =
+    .label = تِبِتي
 
 ## Default font type
 
@@ -72,6 +85,12 @@ default-font-serif =
     .label = مذيّل
 default-font-sans-serif =
     .label = غير مذيّل
+font-size-label =
+    .value = الحجم:
+    .accesskey = ح
+font-size-monospace-label =
+    .value = الحجم:
+    .accesskey = م
 font-serif-label =
     .value = مذيل:
     .accesskey = م
@@ -99,9 +118,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = ترميز النص
+text-encoding-description = حدد ترميز النص المبدئي لإرسال واستقبال البريد
 font-outgoing-email-label =
     .value = البريد الصادر:
     .accesskey = ص
 font-incoming-email-label =
     .value = البريد الوارد:
     .accesskey = و
+default-font-reply-checkbox =
+    .label = استخدم ترميز النص المبدئي في الردود عند الإمكان
+    .accesskey = ز
