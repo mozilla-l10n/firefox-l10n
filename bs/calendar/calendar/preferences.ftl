@@ -92,6 +92,12 @@ previous-weeks-label =
     .value = Prethodne sedmice za prikazati:
     .accesskey = P
 todaypane-legend = Današnji događaji
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Nadolazeća sekcija prikazuje:
+    .accesskey = U
 event-task-legend = Događaji i zadaci
 task-start-label =
     .value = Datum početka:
