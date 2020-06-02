@@ -4,16 +4,31 @@
 
 connection-dns-over-https-url-resolver = Используемый провайдер
     .accesskey = п
-
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (По умолчанию)
     .tooltiptext = Использовать URL по умолчанию для разрешения DNS через HTTPS
-
 connection-dns-over-https-url-custom =
     .label = Другой URL
     .accesskey = о
     .tooltiptext = Введите свой URL для разрешения DNS через HTTPS
-
 connection-dns-over-https-custom-label = Другой URL
+proxy-http-sharing =
+    .label = Также использовать этот прокси для HTTPS
+    .accesskey = е
+proxy-https-label =
+    .value = HTTPS прокси:
+    .accesskey = и
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = Соединения с localhost, 127.0.0.1 и ::1 никогда не проксируются.
+proxy-password-prompt =
+    .label = Не запрашивать аутентификацию (если был сохранён пароль)
+    .accesskey = ш
+    .tooltiptext = Эта настройка аутентифицирует вас на прокси, не выполняя запросов, если вы сохранили свои учётные данные. Если аутентификация не удастся, вам будет выдан запрос.
+proxy-remote-dns =
+    .label = Отправлять DNS-запросы через прокси, используя SOCKS v5
+    .accesskey = я
+proxy-enable-doh =
+    .label = Включить DNS через HTTPS
+    .accesskey = л
