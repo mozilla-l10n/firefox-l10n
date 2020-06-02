@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-dialog-window =
+    .title = Байланыс баптаулары
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Интернетпен байланысу үшін прокси-серверді баптау
 proxy-type-no =
     .label = Прокси сервері жоқ
@@ -46,3 +53,10 @@ no-proxy-label =
     .value = Келесі үшін прокси қолданбау:
     .accesskey = л
 no-proxy-example = Мысалы: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = Пароль сақталып тұрса, аутентификацияны сұрамау
+    .accesskey = и
+    .tooltiptext = Бұл баптау тіркелгі ақпараты сақталған прокси серверлерде тыныш аутентификацияны жасайды. Аутентификация сәтсіз болса, тіркелгі ақпараты сізден сұралады.
+proxy-remote-dns =
+    .label = SOCKS v5 қолдану кезінде DNS сұранымдарын прокси арқылы жіберу
+    .accesskey = д
