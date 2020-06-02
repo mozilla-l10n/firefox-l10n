@@ -4,7 +4,12 @@
 
 system-integration-title =
     .title = Integreiddio System
+system-integration-dialog =
+    .buttonlabelaccept = Gosod fel Rhagosodiad
+    .buttonlabelcancel = Hepgor Integreiddio
+    .buttonlabelcancel2 = Diddymu
 default-client-intro = Defnyddio { -brand-short-name } fel y rhaglen rhagosodedig ar gyfer:
+unset-default-tooltip = Nid yw'n bosib dadosod { -brand-short-name } fel y cleient rhagosodedig o fewn { -brand-short-name }. I wneud rhaglen arall y rhagosodedig rhaid defnyddio ei ddeialog 'Gosod fel y rhagosodedig' ei hun.
 checkbox-email-label =
     .label = E-Bost
     .tooltiptext = { unset-default-tooltip }
