@@ -5,8 +5,14 @@
 rights-title = Wo wašich prawach
 rights-intro = { -brand-full-name } je darmotna softwara wotewrjeneho žórła, wutworjena wot zhromadźenstwa tysacow ludźi z cyłeho swěta. Su někotre wěcy, kotrež wy měł wědźeć:
 rights-intro-point-1 = { -brand-short-name } staja so k dispoziciji pod wuměnjenjemi <a data-l10n-name="mozilla-public-license-link">licency Mozilla Public License</a>. To woznamjenja, zo móžeće { -brand-short-name } wužiwać a kopěrować a jón na druhich rozdźělić. Wostanje wam přewostajene, žórłowy kod { -brand-short-name } po wašim wuzdaću změnić, zo by wón wašim potrjebam wotpowědował. Licenca Mozilla Public License tež wam da prawo waše změnjene wersije rozdźělić.
+rights-intro-point-2 =
+    Njegarantuja wam žane prawa na wikowanskich znamjenjach abo licency na wikowanskich znamjenjach
+    załožby Mozilla foundation abo někajkeje druheje strony, bjez wobmjezowanja na
+    mjeno abo logo Thunderbird. Přidatne informacije wo wikowanskich znamjenjach namakaće
+    <a data-l10n-name="mozilla-trademarks-link">tu</a>.
 rights-intro-point-3 = Někotre funkcije w { -brand-short-name }, na př. zdźělenje spadnjenjow, dawaja wam móžnosć waše posudki na { -vendor-short-name } pósłać. Hdyž waše posudki wotesćeleš, daće { -vendor-short-name } dowolnosć, posudki wužiwać, jeho produkty polěpšić, posudki na jeho websydłach wozjewić a posudki rozdźělić.
 rights-intro-point-4 = Kak wužiwamy waše wosobinske informacije a posudki, kotrež sće na { -vendor-short-name } přez { -brand-short-name } pósłał, wopisuje so w <a data-l10n-name="mozilla-privacy-policy-link">prawidłach priwatnosće { -brand-short-name }</a>.
+rights-intro-point-4-unbranded = Wšě nałožujomne prawidła priwatnosće za tutón produkt měli so tu podać.
 rights-intro-point-5 = Někotre funkcije w { -brand-short-name } wužiwaja informaciske websłužby, ale njemóžemy garantować, zo wone su 100% w porjadku abo bjez zmylkow. Dalše podrobnsće, inkluziwne informacije kak móžeće funkcije znjemóžnić, kotrež tute słužby wužiwaja, namakaće we <a data-l10n-name="mozilla-service-terms-link">wužiwanskich wuměnjenjach</a>.
 rights-intro-point-5-unbranded = Jeli tutón produkt wopřijima websłužby, nałožujomne wužiwanske wuměnjenja za słužby měli być zwjazane z <a data-l10n-name="mozilla-website-services-link">wotrězkom</a> websydłowych słužbow.
 rights-intro-point-6 = Zo by wěste typy widejowobsaha wothrał, sćehnje { -brand-short-name } wěste module za dešifrowanje wobsaha wot třećich poskićowarjow.
