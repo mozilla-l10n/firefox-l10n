@@ -18,5 +18,5 @@ otr-log =
 otr-requireEncryption =
     .label = Végpontok közötti titkosítás megkövetelése a négyszemközti beszélgetésekhez
 otr-verifyNudge =
-    .label = Mindig emlékeztessen az ellenőrizetlen kapcsolatok ellenőrzésére
+    .label = Mindig emlékeztessen az ellenőrizetlen partnerek ellenőrzésére
 otr-notYetAvailable = még nem érhető el
