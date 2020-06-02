@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 send-mail-title = Format de texte
+html-format-convert =
+    .label = Convertir au format texte simple
+    .accesskey = C
 html-tab-label =
     .label = Domaines HTML
     .accesskey = H
+add-domain-button =
+    .label = Ajouter…
+    .accesskey = A
