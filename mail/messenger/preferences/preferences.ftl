@@ -8,6 +8,9 @@ category-general =
 pane-compose-title = შექმნა
 category-compose =
     .tooltiptext = შექმნა
+pane-calendar-title = კალენდარი
+category-calendar =
+    .tooltiptext = კალენდარი
 general-language-and-appearance-header = ენა და იერსახე
 general-incoming-mail-header = შემოსული წერილები
 general-files-and-attachment-header = ფაილები და დანართები
@@ -75,6 +78,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = { -brand-short-name } საწყისი გვერდი
 start-page-label =
     .label = { -brand-short-name } სეანსის დაწყებისას საწყისი გვერდის წერილების არეში ჩვენება
@@ -92,9 +99,26 @@ mail-play-button =
 animated-alert-label =
     .label = გაფრთხილების ჩვენება
     .accesskey = S
+tray-icon-label =
+    .label = ხატულას ჩვენება სიტემურ ქვედა ზოლზე
+    .accesskey = t
 mail-browse-sound-button =
     .label = ნუსხა…
     .accesskey = B
+scrolling-legend = გადახვევა
+system-integration-legend = სისტემური ინტეგრაცია
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows ძიება
+       *[other] { "" }
+    }
+return-receipts-description = როგორ მოეპყრას { -brand-short-name } მიღების დასტურებს
+use-service =
+    .label = ფონური მოსახურებით სარგებლობა განახლებათა ჩადგმისას
+    .accesskey = b
 networking-legend = კავშირი
 proxy-config-description = როგორ დაუკავშირდეს { -brand-short-name } პროგრამა ინტერნეტს.
 
@@ -105,6 +129,7 @@ proxy-config-description = როგორ დაუკავშირდეს 
 
 ##
 
+fonts-legend = შრიფტები და ფერები
 display-width-legend = ტექსტური წერილები
 regular-style-item =
     .label = ჩვეულებრივი
@@ -120,6 +145,25 @@ bigger-size-item =
     .label = მოზრდილი
 smaller-size-item =
     .label = მომცრო
+search-input =
+    .placeholder = ძიება
+action-column-label =
+    .label = ქმედება
+    .accesskey = A
+save-to-label =
+    .label = ფაილების შენახვა…
+    .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] შერჩევა…
+           *[other] ნუსხა…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -147,12 +191,25 @@ format-description = ტექსტის ფორმატირების 
 autocomplete-description = წერილების გაგზავნისას შესაბამისი ჩანაწერების შემოწმება:
 directories-none-label =
     .none = არა
+enable-cloud-share =
+    .label = შემოთავაზება ფაილებისთვის ზომით მეტი ვიდრე
+cloud-share-size =
+    .value = მბ
+cloud-account-description = ფაილების ბმების საცავის ახალი მომსახურების დამატება
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name }-ს შეუძლია ყველა თქვენი ანგარიშის პაროლების დამახსოვრება.
+master-password-description = მთავარი პაროლი იცავს ყველა თქვენს პაროლს და მისი მითითება სეანსზე ერთხელ მოგიწევთ.
+junk-description = მიუთითეთ ჯართის პარამეტრები. ჯართის ანგარიშზე დამოკიდებული პარამეტრების მითითება შესაძლებელია ანგარიშის პარამეტრების სექციაში.
+phishing-description = { -brand-short-name }-ს შეუძლია გააანალიზოს საეჭვო გზავნილები გარკვეული ტექნოლოგიების გამოყენებით.
+antivirus-description = { -brand-short-name }-ს შეუძლია გააიოლოს ანტივირუსის მუშაობა შემოსულ წერილებში ვირუსების აღმოსაჩენად მათ ლოკალურად შენახვამდე.
 
 ## Chat Tab
 
+startup-label =
+    .value = { -brand-short-name } პროგრამის გახსნისას:
+    .accesskey = s
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -160,9 +217,16 @@ directories-none-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-time-label = უქმი წუთის შემდეგ
 
 ##
 
+away-message-label =
+    .label = და ჩემი სტატუსის მითითება, როგორც -გასულია-, გზავნილით:
+    .accesskey = A
+send-typing-label =
+    .label = შეტანის სტატუსის გაზავნა დიალოგისას
+    .accesskey = t
 
 ## Preferences UI Search Results
 
