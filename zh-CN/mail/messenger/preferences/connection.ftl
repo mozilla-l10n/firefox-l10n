@@ -80,3 +80,6 @@ proxy-password-prompt =
 proxy-remote-dns =
     .label = 使用 SOCKS v5 时 DNS 经过代理
     .accesskey = d
+proxy-enable-doh =
+    .label = 启用基于 HTTPS 的 DNS
+    .accesskey = b
