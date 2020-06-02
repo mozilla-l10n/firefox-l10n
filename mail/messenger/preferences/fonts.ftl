@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latino
 font-language-group-japanese =
     .label = Japonês
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Cirílico
 font-language-group-el =
     .label = Grego
+font-language-group-other =
+    .label = Outros sistemas de escrita
 font-language-group-thai =
     .label = Tailandês
 font-language-group-hebrew =
@@ -63,6 +68,16 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malaiala
+font-language-group-math =
+    .label = Matemática
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Sinhala
+font-language-group-tibetan =
+    .label = Tibetano
 
 ## Default font type
 
@@ -70,6 +85,12 @@ default-font-serif =
     .label = Com serifa
 default-font-sans-serif =
     .label = Sem serifa
+font-size-label =
+    .value = Tamanho:
+    .accesskey = h
+font-size-monospace-label =
+    .value = Tamanho:
+    .accesskey = n
 font-serif-label =
     .value = Com serifa:
     .accesskey = C
@@ -97,9 +118,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Codificação do texto
+text-encoding-description = Defina a codificação de texto para recebimento e envio de mensagens
 font-outgoing-email-label =
     .value = Para mensagens enviadas:
     .accesskey = r
 font-incoming-email-label =
     .value = Para mensagens recebidas:
     .accesskey = e
+default-font-reply-checkbox =
+    .label = Quando possível, use a codificação de texto padrão nas respostas
+    .accesskey = Q
