@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Nuostatos
+           *[other] Nuostatos
+        }
 pane-general-title = Bendrosios
 category-general =
     .tooltiptext = { pane-general-title }
@@ -11,6 +17,9 @@ category-compose =
 pane-chat-title = Pokalbiai
 category-chat =
     .tooltiptext = Pokalbiai
+pane-calendar-title = Kalendorius
+category-calendar =
+    .tooltiptext = Kalendorius
 general-language-and-appearance-header = Kalba ir išvaizda
 general-incoming-mail-header = Gauti laiškai
 general-files-and-attachment-header = Failai ir priedai
@@ -76,11 +85,33 @@ master-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = „{ -brand-short-name }“ pradžios tinklalapis
+start-page-label =
+    .label = Paleidžiant programą „{ -brand-short-name }“ laiškų polangyje rodyti pradžios tinklalapį
+    .accesskey = P
+location-label =
+    .value = Adresas:
+    .accesskey = A
 restore-default-label =
     .label = Atstatyti numatytąsias nuostatas
     .accesskey = t
+default-search-engine = Numatytoji paieškos sistema
 new-message-arrival = Gavus naują laišką:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Naudoti kitą garso failą:
+           *[other] Pranešti garsu
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] u
+           *[other] g
+        }
 mail-play-button =
     .label = Perklausyti
     .accesskey = k
@@ -88,9 +119,13 @@ change-dock-icon = Keisti pritvirtinamos piktogramos nuostatas
 app-icon-options =
     .label = Piktogramos nuostatos…
     .accesskey = n
+notification-settings = Įspėjimus ir numatytuosius garsus galite išjungti Sistemos nuostatų Pranešimų polangyje.
 animated-alert-label =
     .label = Parodyti įspėjimą
     .accesskey = ė
+customize-alert-label =
+    .label = Kitkas…
+    .accesskey = K
 tray-icon-label =
     .label = Rodyti piktogramą pranešimų srityje
     .accesskey = t
@@ -103,6 +138,14 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Įjungti globalią laiškų paiešką ir indeksavimą
     .accesskey = g
+allow-hw-accel =
+    .label = Jei įmanoma, naudoti aparatinį spartinimą
+    .accesskey = a
+store-type-label =
+    .value = Laiškų saugojimo būdas naujoms paskyroms:
+    .accesskey = b
+maildir-store-label =
+    .label = Atskiras failas kiekvienam laiškui („Maildir“)
 scrolling-legend = Slinkimas
 autoscroll-label =
     .label = Slinkti automatiškai
@@ -131,6 +174,7 @@ search-integration-label =
 config-editor-button =
     .label = Visų parametrų sąrašas…
     .accesskey = V
+return-receipts-description = Nustatykite kaip „{ -brand-short-name }“ tvarko pažymas apie pristatytus laiškus
 return-receipts-button =
     .label = Laiškų pristatymo pažymos…
     .accesskey = L
@@ -143,6 +187,9 @@ check-updates-label =
 update-history-button =
     .label = Rodyti atnaujinimo žurnalą
     .accesskey = R
+use-service =
+    .label = Naujinimams įdiegti naudoti fone veikiančią tarnybą
+    .accesskey = f
 networking-legend = Ryšys
 proxy-config-description = Parinkite „{ -brand-short-name }“ ryšio su internetu nuostatas
 network-settings-button =
@@ -153,6 +200,7 @@ offline-settings = Parinkite darbo neprisijungus prie tinklo nuostatas
 offline-settings-button =
     .label = Darbas neprisijungus prie tinklo…
     .accesskey = D
+diskspace-legend = Disko atmintis
 offline-compact-folder =
     .label = Suglaudinti visus aplankus, jei sumoje tai padės sutaupyti daugiau kaip
     .accesskey = S
@@ -163,14 +211,35 @@ compact-folder-size =
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Podėliui skirti iki
+    .accesskey = P
+use-cache-after = MB disko atminties
 
 ##
 
+clear-cache-button =
+    .label = Išvalyti dabar
+    .accesskey = v
+fonts-legend = Šriftai ir spalvos
+default-font-label =
+    .value = Numatytasis šriftas:
+    .accesskey = u
+default-size-label =
+    .value = dydis:
+    .accesskey = d
+font-options-button =
+    .label = Kitkas…
+    .accesskey = t
+color-options-button =
+    .label = Spalvos…
+    .accesskey = S
 display-width-legend = Grynojo teksto laiškai
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
     .label = Jaustukus rodyti grafiškai
     .accesskey = J
+display-text-label = Citatų šriftas:
 style-label =
     .value = Stilius:
     .accesskey = t
@@ -196,6 +265,12 @@ quoted-text-color =
     .accesskey = C
 search-input =
     .placeholder = Ieškoti
+type-column-label =
+    .label = Turinio tipas
+    .accesskey = t
+action-column-label =
+    .label = Veiksmas
+    .accesskey = V
 save-to-label =
     .label = Įrašyti failus į aplanką
     .accesskey = f
@@ -214,16 +289,49 @@ always-ask-label =
     .label = Visada klausti, kur įrašyti failus
     .accesskey = V
 display-tags-text = Pagal gaires galima grupuoti laiškus ir nustatyti jų prioritetus.
+new-tag-button =
+    .label = Nauja…
+    .accesskey = N
+edit-tag-button =
+    .label = Keisti…
+    .accesskey = K
 delete-tag-button =
     .label = Pašalinti
     .accesskey = š
+auto-mark-as-read =
+    .label = Atvertą laišką pažymėti kaip skaitytą
+    .accesskey = ž
+mark-read-no-delay =
+    .label = iškart
+    .accesskey = i
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = praėjus
+    .accesskey = p
+seconds-label = sek.
 
 ##
 
+open-msg-label =
+    .value = Atveriamą laišką rodyti:
+open-msg-tab =
+    .label = naujoje kortelėje
+    .accesskey = k
+open-msg-window =
+    .label = naujame lange
+    .accesskey = n
+open-msg-ex-window =
+    .label = tame pačiame (atvertame) lange
+    .accesskey = t
+close-move-delete =
+    .label = Perkėlus ar pašalinus laišką, užverti langą ar kortelę su juo
+    .accesskey = v
+condensed-addresses-label =
+    .label = Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)
+    .accesskey = a
 
 ## Compose Tab
 
@@ -257,6 +365,9 @@ spellcheck-label =
 spellcheck-inline-label =
     .label = Tikrinti rašybą rašant tekstą
     .accesskey = r
+language-popup-label =
+    .value = Kalba:
+    .accesskey = K
 download-dictionaries-link = Atsiųsti kitų kalbų žodynus
 font-label =
     .value = Šriftas:
@@ -270,6 +381,9 @@ bg-color-label =
 restore-html-label =
     .label = Atstatyti numatytąsias nuostatas
     .accesskey = A
+default-format-label =
+    .label = Numatytuoju atveju naudoti pastraipos formatą vietoj paprastojo teksto formato
+    .accesskey = p
 format-description = Parinkite siunčiamų laiškų tekstų tipus:
 send-options-label =
     .label = Siuntimo parinktys…
@@ -299,6 +413,10 @@ enable-cloud-share =
     .label = Siūlyti siųsti failus per debesį, kai jų dydis viršija
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Pridėti…
+    .accesskey = P
+    .defaultlabel = Pridėti…
 remove-cloud-account =
     .label = Pašalinti
     .accesskey = š
@@ -376,9 +494,24 @@ junk-log-button =
 reset-junk-button =
     .label = Atstatyti automatinės kontrolės duomenis
     .accesskey = t
+phishing-description = Analizuodama gaunamus laiškus programa „{ -brand-short-name }“ gali patikrinti, ar jais nebandoma jūsų apgauti.
 phishing-label =
     .label = Tikrinti, ar gaunamuose laiškuose nėra apgaulės
     .accesskey = T
+antivirus-description = Prieš įrašydama gaunamus laiškus programa „{ -brand-short-name }“ gali leisti antivirusinei programai patikrinti ar juose nėra virusų.
+antivirus-label =
+    .label = Leisti antivirusinei programai izoliuoti atskirus įtartinus laiškus
+    .accesskey = L
+certificate-description = Serveriui paprašius mano liudijimo:
+certificate-auto =
+    .label = parinkti jį automatiškai
+    .accesskey = a
+certificate-ask =
+    .label = visada klausti
+    .accesskey = k
+ocsp-label =
+    .label = Tikrinti liudijimų galiojimą, užklausiant OCSP atsakiklių
+    .accesskey = O
 
 ## Chat Tab
 
