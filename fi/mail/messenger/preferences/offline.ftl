@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = Verkkoyhteydettömän tilan asetukset
+autodetect-online-label =
+    .label = Valitse tila automaattisesti tunnistetun tilan mukaan
+    .accesskey = V
+startup-label = Kysy käynnistettäessä tilaa:
 status-radio-remember =
     .label = Muista edellinen yhteystila
     .accesskey = M
+status-radio-ask =
+    .label = Kysy yhteystila
+    .accesskey = K
+status-radio-always-online =
+    .label = Yhteystilassa
+    .accesskey = Y
+status-radio-always-offline =
+    .label = Yhteydetön tila
+    .accesskey = d
 going-online-label = Lähetetäänkö lähtevät viestit siirryttäessä yhteystilaan?
 going-online-auto =
     .label = Kyllä
