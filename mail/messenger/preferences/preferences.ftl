@@ -5,6 +5,9 @@
 pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Opstellen
+category-compose =
+    .tooltiptext = Opstellen
 general-language-and-appearance-header = Taal & Vormgeving
 general-incoming-mail-header = Inkomende berichten
 general-files-and-attachment-header = Bestanden & Bijlagen
@@ -69,3 +72,124 @@ master-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Window
 master-password-os-auth-dialog-message-macosx = een hoofdwachtwoord aan te maken
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## General Tab
+
+general-legend = { -brand-short-name }-startpagina
+start-page-label =
+    .label = Wanneer { -brand-short-name } start, de startpagina in het berichtgedeelte tonen
+    .accesskey = W
+restore-default-label =
+    .label = Standaardinstelling herstellen
+    .accesskey = S
+mail-play-button =
+    .label = Afspelen
+    .accesskey = f
+customize-alert-label =
+    .label = Aanpassen…
+    .accesskey = A
+mail-custom-sound-label =
+    .label = Het volgende geluidsbestand gebruiken
+    .accesskey = v
+mail-browse-sound-button =
+    .label = Bladeren…
+    .accesskey = B
+networking-legend = Verbinding
+offline-legend = Offline
+offline-settings = Offline-instellingen configureren
+offline-settings-button =
+    .label = Offline…
+    .accesskey = O
+
+## Note: The entities use-cache-before and use-cache-after appear on a single
+## line in preferences as follows:
+## use-cache-before [ textbox for cache size in MB ] use-cache-after
+
+
+##
+
+regular-style-item =
+    .label = Normaal
+bold-style-item =
+    .label = Vet
+italic-style-item =
+    .label = Cursief
+bold-italic-style-item =
+    .label = Vet en cursief
+regular-size-item =
+    .label = Normaal
+bigger-size-item =
+    .label = Groter
+smaller-size-item =
+    .label = Kleiner
+
+## Note: This will concatenate to "After displaying for [___] seconds",
+## using (mark-read-delay) and a number (seconds-label).
+
+
+##
+
+
+## Compose Tab
+
+forward-label =
+    .value = Berichten doorsturen:
+    .accesskey = d
+inline-label =
+    .label = In het bericht
+as-attachment-label =
+    .label = Als bijlage
+
+## Note: This will concatenate to "Auto Save every [___] minutes",
+## using (auto-save-label) and a number (auto-save-end).
+
+auto-save-label =
+    .label = Elke
+    .accesskey = E
+auto-save-end = minuten automatisch opslaan
+
+##
+
+spellcheck-label =
+    .label = Spelling controleren voor het verzenden
+    .accesskey = c
+spellcheck-inline-label =
+    .label = Spelling controleren tijdens het typen
+    .accesskey = n
+language-popup-label =
+    .value = Taal:
+    .accesskey = T
+download-dictionaries-link = Meer woordenboeken downloaden
+font-label =
+    .value = Lettertype:
+    .accesskey = L
+bg-color-label =
+    .value = Achtergrondkleur:
+    .accesskey = A
+restore-html-label =
+    .label = Standaardwaarden herstellen
+    .accesskey = S
+format-description = Tekstopmaakgedrag configureren
+send-options-label =
+    .label = Verzendopties…
+    .accesskey = V
+autocomplete-description = Bij het adresseren van berichten, naar overeenkomsten zoeken in:
+
+## Privacy Tab
+
+
+## Chat Tab
+
+
+## Note: idle-label is displayed first, then there's a field where the user
+## can enter a number, and itemTime is displayed at the end of the line.
+## The translations of the idle-label and idle-time-label parts don't have
+## to mean the exact same thing as in English; please try instead to
+## translate the whole sentence.
+
+
+##
+
+
+## Preferences UI Search Results
+
