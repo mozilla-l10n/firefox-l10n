@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Close
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Composition
 category-compose =
     .tooltiptext = Composition
+pane-privacy-title = Privacy & Security
+category-privacy =
+    .tooltiptext = Privacy & Security
 pane-chat-title = Chat
 category-chat =
     .tooltiptext = Chat
@@ -70,6 +75,7 @@ update-in-progress-ok-button = &Discard
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
+addons-button = Extensions & Themes
 
 ## OS Authentication dialog
 
@@ -95,10 +101,19 @@ general-legend = { -brand-short-name } Start Page
 start-page-label =
     .label = When { -brand-short-name } launches, show the Start Page in the message area
     .accesskey = W
+location-label =
+    .value = Location:
+    .accesskey = o
 restore-default-label =
     .label = Restore Default
     .accesskey = R
 default-search-engine = Default Search Engine
+add-search-engine =
+    .label = Add from file
+    .accesskey = A
+remove-search-engine =
+    .label = Remove
+    .accesskey = v
 new-message-arrival = When new messages arrive:
 mail-play-sound-label =
     .label =
@@ -122,6 +137,9 @@ notification-settings = Alerts and the default sound can be disabled on the Noti
 animated-alert-label =
     .label = Show an alert
     .accesskey = S
+customize-alert-label =
+    .label = Customize…
+    .accesskey = C
 tray-icon-label =
     .label = Show a tray icon
     .accesskey = t
@@ -131,7 +149,11 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Browse…
     .accesskey = B
+enable-gloda-search-label =
+    .label = Enable Global Search and Indexer
+    .accesskey = G
 datetime-formatting-legend = Date and Time Formatting
+language-selector-legend = Language
 allow-hw-accel =
     .label = Use hardware acceleration when available
     .accesskey = h
@@ -178,6 +200,7 @@ update-app-legend = { -brand-short-name } Updates
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Version { $version }
+allow-description = Allow { -brand-short-name } to
 automatic-updates-label =
     .label = Automatically install updates (recommended: improved security)
     .accesskey = A
@@ -190,6 +213,7 @@ update-history-button =
 use-service =
     .label = Use a background service to install updates
     .accesskey = b
+cross-user-udpate-warning = This setting will apply to all Windows accounts and { -brand-short-name } profiles using this installation of { -brand-short-name }.
 networking-legend = Connection
 proxy-config-description = Configure how { -brand-short-name } connects to the Internet
 network-settings-button =
@@ -200,6 +224,10 @@ offline-settings = Configure offline settings
 offline-settings-button =
     .label = Offline…
     .accesskey = O
+diskspace-legend = Disk Space
+offline-compact-folder =
+    .label = Compact all folders when it will save over
+    .accesskey = a
 compact-folder-size =
     .value = MB in total
 
@@ -280,6 +308,7 @@ choose-folder-label =
 always-ask-label =
     .label = Always ask me where to save files
     .accesskey = A
+display-tags-text = Tags can be used to categorize and prioritize your messages.
 new-tag-button =
     .label = New…
     .accesskey = N
@@ -292,6 +321,9 @@ delete-tag-button =
 auto-mark-as-read =
     .label = Automatically mark messages as read
     .accesskey = A
+mark-read-no-delay =
+    .label = Immediately on display
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -317,6 +349,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Close message window/tab on move or delete
     .accesskey = C
+display-name-label =
+    .value = Display name:
 condensed-addresses-label =
     .label = Show only display name for people in my address book
     .accesskey = S
@@ -350,6 +384,9 @@ warn-on-send-accel-key =
 spellcheck-label =
     .label = Check spelling before sending
     .accesskey = C
+spellcheck-inline-label =
+    .label = Enable spellcheck as you type
+    .accesskey = E
 language-popup-label =
     .value = Language:
     .accesskey = L
@@ -357,12 +394,16 @@ download-dictionaries-link = Download More Dictionaries
 font-label =
     .value = Font:
     .accesskey = n
+font-size-label =
+    .value = Size:
+    .accesskey = z
 restore-html-label =
     .label = Restore Defaults
     .accesskey = R
 default-format-label =
     .label = Use Paragraph format instead of Body Text by default
     .accesskey = P
+format-description = Configure text format behavior
 send-options-label =
     .label = Send Options…
     .accesskey = S
@@ -378,6 +419,9 @@ directories-none-label =
 edit-directories-label =
     .label = Edit Directories…
     .accesskey = E
+email-picker-label =
+    .label = Automatically add outgoing e-mail addresses to my:
+    .accesskey = A
 default-directory-label =
     .value = Default startup directory in the address book window:
     .accesskey = S
@@ -400,11 +444,16 @@ add-cloud-account =
 remove-cloud-account =
     .label = Remove
     .accesskey = R
+find-cloud-providers =
+    .value = Find more providers…
 cloud-account-description = Add a new Filelink storage service
 
 ## Privacy Tab
 
 mail-content = Mail Content
+remote-content-label =
+    .label = Allow remote content in messages
+    .accesskey = m
 exceptions-button =
     .label = Exceptions…
     .accesskey = E
@@ -435,6 +484,11 @@ keep-ask =
 cookies-button =
     .label = Show Cookies…
     .accesskey = S
+do-not-track-label =
+    .label = Send websites a “Do Not Track” signal that you don’t want to be tracked
+    .accesskey = n
+learn-button =
+    .label = Learn more
 passwords-description = { -brand-short-name } can remember passwords for all of your accounts.
 passwords-button =
     .label = Saved Passwords…
@@ -465,13 +519,27 @@ junk-log-button =
 reset-junk-button =
     .label = Reset Training Data
     .accesskey = R
+phishing-description = { -brand-short-name } can analyze messages for suspected email scams by looking for common techniques used to deceive you.
+antivirus-description = { -brand-short-name } can make it easy for antivirus software to analyze incoming mail messages for viruses before they are stored locally.
+antivirus-label =
+    .label = Allow antivirus clients to quarantine individual incoming messages
+    .accesskey = A
 certificate-description = When a server requests my personal certificate:
+certificate-auto =
+    .label = Select one automatically
+    .accesskey = S
 certificate-ask =
     .label = Ask me every time
     .accesskey = A
 ocsp-label =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
+certificate-button =
+    .label = Manage Certificates…
+    .accesskey = M
+security-devices-button =
+    .label = Security Devices…
+    .accesskey = D
 
 ## Chat Tab
 
@@ -503,6 +571,9 @@ send-typing-label =
     .label = Send typing notifications in conversations
     .accesskey = t
 notification-label = When messages directed at you arrive:
+show-notification-label =
+    .label = Show a notification:
+    .accesskey = c
 notification-empty =
     .label = without any info
 notification-type-label =
