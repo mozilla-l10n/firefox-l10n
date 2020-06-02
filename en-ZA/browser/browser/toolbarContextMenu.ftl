@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = Undo Close Tab
     .accesskey = U
+
 toolbar-context-menu-remove-from-toolbar =
     .label = Remove from Toolbar
     .accesskey = R
