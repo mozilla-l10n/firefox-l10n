@@ -39,6 +39,17 @@ restore-default-label =
     .accesskey = R
 default-search-engine = Inneall Cuardaigh Réamhshocraithe
 new-message-arrival = Ar theacht teachtaireachtaí nua:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Seinn an comhad fuaime seo a leanas:
+           *[other] Seinn fuaim
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] u
+           *[other] d
+        }
 mail-play-button =
     .label = Seinn
     .accesskey = S
@@ -46,6 +57,7 @@ change-dock-icon = Roghanna a bhaineann leis an deilbhín
 app-icon-options =
     .label = Roghanna an Deilbhín…
     .accesskey = n
+notification-settings = Is féidir foláirimh agus an fhuaim réamhshocraithe a dhíchumasú sa bpána Fógraí i Sainroghanna an Chórais.
 animated-alert-label =
     .label = Taispeáin airdeall
     .accesskey = s
@@ -64,12 +76,15 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Cumasaigh Cuardach Cuimsitheach agus an tInneacsóir
     .accesskey = e
+datetime-formatting-legend = Formáidiú Dáta agus Ama
 allow-hw-accel =
     .label = Bain úsáid as luasghéarú crua-earraí más féidir
     .accesskey = l
 store-type-label =
     .value = Cineál Stórais na dTeachtaireachtaí le haghaidh cuntas nua:
     .accesskey = T
+mbox-store-label =
+    .label = Gach fillteán ina chomhad féin (mbox)
 maildir-store-label =
     .label = Gach teachtaireacht ina comhad féin (maildir)
 scrolling-legend = Scrollú
@@ -104,6 +119,10 @@ return-receipts-description = Socraigh conas a láimhseálann { -brand-short-nam
 return-receipts-button =
     .label = Admhálacha Léite…
     .accesskey = L
+update-app-legend = Nuashonruithe { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Leagan { $version }
 automatic-updates-label =
     .label = Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)
     .accesskey = a
@@ -144,6 +163,9 @@ use-cache-after = MB spás don taisce
 
 ##
 
+smart-cache-label =
+    .label = Sáraigh bainistíocht uathoibríoch na taisce
+    .accesskey = b
 clear-cache-button =
     .label = Bánaigh Anois
     .accesskey = B
@@ -215,16 +237,49 @@ always-ask-label =
     .label = Fiafraigh díom cá sábhálfar an comhad i gcónaí
     .accesskey = g
 display-tags-text = Is féidir clibeanna a úsáid le catagóirí agus tosaíochtaí a chur le do chuid teachtaireachtaí.
+new-tag-button =
+    .label = Nua…
+    .accesskey = N
+edit-tag-button =
+    .label = Eagar…
+    .accesskey = E
 delete-tag-button =
     .label = Scrios
     .accesskey = S
+auto-mark-as-read =
+    .label = Marcáil teachtaireachtaí mar léite go huathoibríoch
+    .accesskey = u
+mark-read-no-delay =
+    .label = Chomh luath agus a thaispeántar iad
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Tar éis iad a thaispeáint ar feadh
+    .accesskey = t
+seconds-label = soicind
 
 ##
 
+open-msg-label =
+    .value = Oscail teachtaireachtaí:
+open-msg-tab =
+    .label = i gcluaisín nua
+    .accesskey = n
+open-msg-window =
+    .label = i bhfuinneog nua theachtaireachta
+    .accesskey = n
+open-msg-ex-window =
+    .label = i bhfuinneog theachtaireachta atá ann cheana
+    .accesskey = e
+close-move-delete =
+    .label = Dún fuinneog/cluaisín na teachtaireachta tar éis a bhogtha nó scriosta
+    .accesskey = c
+condensed-addresses-label =
+    .label = Ná taispeáin ach an t-ainm taispeána le haghaidh daoine atá i mo leabhar seoltaí
+    .accesskey = s
 
 ## Compose Tab
 
@@ -261,6 +316,7 @@ spellcheck-inline-label =
 language-popup-label =
     .value = Teanga:
     .accesskey = T
+download-dictionaries-link = Íoslódáil Tuilleadh Foclóirí
 font-label =
     .value = Cló:
     .accesskey = l
@@ -273,6 +329,9 @@ bg-color-label =
 restore-html-label =
     .label = Athchóirigh na Réamhshocruithe
     .accesskey = R
+default-format-label =
+    .label = Úsáid formáid an Ailt seachas Corpthéacs mar réamhshocrú
+    .accesskey = A
 format-description = Cumraigh iompar an fhormáidithe téacs
 send-options-label =
     .label = Roghanna Seolta…
@@ -292,6 +351,11 @@ edit-directories-label =
 email-picker-label =
     .label = Cuir seoltaí ríomhphoist amach go huathoibríoch le mo:
     .accesskey = a
+default-directory-label =
+    .value = Fillteán tosaigh réamhshocraithe i bhfuinneog an leabhair seoltaí:
+    .accesskey = s
+default-last-label =
+    .none = Fillteán is déanaí
 attachment-label =
     .label = Seiceáil le haghaidh iatán ar iarraidh
     .accesskey = i
@@ -302,6 +366,10 @@ enable-cloud-share =
     .label = Tabhair tairiscint comhaid a chomhroinnt má tá siad níos mó ná
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Cuir Leis…
+    .accesskey = L
+    .defaultlabel = Cuir Leis…
 remove-cloud-account =
     .label = Bain
     .accesskey = B
@@ -383,6 +451,10 @@ phishing-description = Is féidir le { -brand-short-name } camscéimeanna ríomh
 phishing-label =
     .label = Inis dom má mheastar gur camscéim í an teachtaireacht atá á léamh agam
     .accesskey = t
+antivirus-description = Is féidir le { -brand-short-name } cabhrú le bogearraí frithvíris chun teachtaireachtaí isteach a chuardach le haghaidh víreas sula stórálfar go logánta iad.
+antivirus-label =
+    .label = Ceadaigh do chliaint fhrithvíris teachtaireachtaí isteach a chur ar coraintín
+    .accesskey = a
 certificate-description = Nuair atá freastalaí ag iarraidh mo theastas pearsanta:
 certificate-auto =
     .label = Roghnaigh go huathoibríoch
