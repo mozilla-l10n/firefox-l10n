@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigare privată)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigare privată)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigare privată)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigare privată)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -136,10 +138,12 @@ urlbar-midi-blocked =
     .tooltiptext = Ai blocat accesul MIDI pentru acest site web.
 urlbar-install-blocked =
     .tooltiptext = Ai blocat suplimentele instalate pentru acest site web.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editează acest marcaj ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -170,12 +174,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = De data aceasta, caută cu:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Schimbă setările de căutare
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Schimbă setările de căutare
+
 search-one-offs-context-open-new-tab =
     .label = Caută într-o filă nouă
     .accesskey = T
@@ -191,8 +197,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Afișează editorul la salvare
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Terminat
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -285,9 +293,11 @@ urlbar-permissions-granted =
     .tooltiptext = Ai acordat permisiuni suplimentare acestui site web.
 urlbar-switch-to-tab =
     .value = Treci pe fila:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
+
 urlbar-go-button =
     .tooltiptext = Mergi la adresa din bara de adrese
 urlbar-page-action-button =

@@ -67,9 +67,6 @@ fingerprinter-tab-content = Generatoarele de amprente digitale îți colectează
 cryptominer-tab-title = Criptomineri
 cryptominer-tab-content = Criptomomerii folosesc puterea de calcul a sistemului tău pentru a mina bani digitali. Scripturile de criptominare îți golesc bateria, îți încetinesc calculatorul și îți pot crește factura la energie. <a data-l10n-name="learn-more-link">Află mai multe</a>
 
-protections-close-button =
-    .aria-label = Închide
-
 protections-close-button2 =
     .aria-label = Închide
     .title = Închide

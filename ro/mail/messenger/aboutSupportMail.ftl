@@ -16,3 +16,4 @@ accounts-default = Implicită?
 identity-name = Identitate
 
 send-via-email = Trimite prin e-mail
+

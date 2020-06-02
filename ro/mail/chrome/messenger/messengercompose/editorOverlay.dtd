@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Caută text în pagină">
 <!ENTITY spellToolbarCmd.label "Ortografie">
 <!ENTITY spellToolbarCmd.tooltip "Verifică ortografia în selecție sau pe toată pagina">
+
 <!ENTITY imageToolbarCmd.label "Imagine">
 <!ENTITY imageToolbarCmd.tooltip "Inserează o imagine nouă sau editează proprietățile imaginii selectate">
 <!ENTITY hruleToolbarCmd.label "Linie orizontală">
