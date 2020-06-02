@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-reminder-window =
+    .title = 例外網站
+    .style = width: 45em;
 window-close-key =
     .key = w
+website-address-label =
+    .value = 網站網址:
+    .accesskey = d
 block-button =
     .label = 封鎖
     .accesskey = B
@@ -20,7 +26,14 @@ remove-site-button =
 remove-all-site-button =
     .label = 移除全部網站
     .accesskey = e
+cancel-button =
+    .label = 取消
+    .accesskey = C
+save-button =
+    .label = 儲存變更
+    .accesskey = S
 permission-can-label = 允許
+permission-can-access-first-party-label = 僅允許第一方
 permission-cannot-label = 封鎖
 invalid-uri-message = 請輸入正確的主機名稱
 invalid-uri-title = 輸入的主機名稱不正確

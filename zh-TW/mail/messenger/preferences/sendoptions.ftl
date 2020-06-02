@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = 寄送選項
 send-mail-title = 文字格式
+auto-downgrade-label =
+    .label = 可以的話，以純文字傳送訊息
+    .accesskey = t
 default-html-format-label = 當用 HTML 格式寄信而且收件者中有人可能無法收 HTML 格式的郵件時:
 html-format-ask =
     .label = 詢問我如何處理
@@ -29,3 +32,6 @@ send-message-domain-label = 當您寄信到下列網域時，{ -brand-short-name
 add-domain-button =
     .label = 新增…
     .accesskey = A
+delete-domain-button =
+    .label = 刪除
+    .accesskey = D
