@@ -75,9 +75,13 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = შრიფტების მართვა
 use-document-fonts-checkbox =
     .label = წერილებში სხვა შრიფტების გამოყენების უფლება
     .accesskey = o
+use-fixed-width-plain-checkbox =
+    .label = მონოსიგანის შრიფტებით სარგებლობა ტექსტური გზავნილებისთვის
+    .accesskey = x
 
 ## Language settings
 
