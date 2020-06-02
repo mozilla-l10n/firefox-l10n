@@ -102,6 +102,9 @@ font-sans-serif-label =
 font-monospace-label =
     .value = 고정폭 글꼴:
     .accesskey = m
+font-min-size-label =
+    .value = 최소 글꼴 크기:
+    .accesskey = z
 min-size-none =
     .label = 없음
 
