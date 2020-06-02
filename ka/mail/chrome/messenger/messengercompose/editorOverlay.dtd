@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "ძიება ამ გვერდზე">
 <!ENTITY spellToolbarCmd.label "მართლწერა">
 <!ENTITY spellToolbarCmd.tooltip "მონიშნული ტექსტის ან გვერდის მართლწერის შემოწმება">
+
 <!ENTITY imageToolbarCmd.label "გამოსახულება">
 <!ENTITY imageToolbarCmd.tooltip "ახალი სურათის ჩამატება ან მონიშნული გამოსახულების ჩასწორება">
 <!ENTITY hruleToolbarCmd.label "თ.ხაზი">

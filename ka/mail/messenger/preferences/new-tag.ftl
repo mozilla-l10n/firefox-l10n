@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = ახალი ჭდე
+
 tag-name-label =
     .value = ჭდის სახელი:
     .accesskey = T
