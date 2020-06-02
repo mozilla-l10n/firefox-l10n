@@ -4,6 +4,12 @@
 
 close-button =
     .aria-label = أغلق
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] الخيارات
+           *[other] التفضيلات
+        }
 pane-general-title = عام
 pane-compose-title = التحرير
 category-compose =
@@ -11,6 +17,9 @@ category-compose =
 pane-chat-title = الدردشة
 category-chat =
     .tooltiptext = الدردشة
+pane-calendar-title = التقويم
+category-calendar =
+    .tooltiptext = التقويم
 general-language-and-appearance-header = اللغة والمظهر
 general-incoming-mail-header = البريد الوارد
 general-files-and-attachment-header = الملفات والمرفقات
@@ -47,6 +56,7 @@ focus-search-shortcut =
     .key = f
 focus-search-shortcut-alt =
     .key = k
+general-legend = صفحة بداية { -brand-short-name }
 start-page-label =
     .label = عند تشغيل { -brand-short-name }، اعرض صفحة البداية في منطقة الرسالة
     .accesskey = ص
@@ -56,10 +66,27 @@ location-label =
 restore-default-label =
     .label = استعد المبدئيات
     .accesskey = س
+default-search-engine = محرك البحث المبدئي
 new-message-arrival = عند وصول رسالة جديدة:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] شغل ملف الصوت التالي:
+           *[other] شغّل ملفًا صوتيًا
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ش
+           *[other] ت
+        }
 mail-play-button =
     .label = شغّل
     .accesskey = ش
+change-dock-icon = غيّر تفضيلات أيقونة التطبيق
+app-icon-options =
+    .label = خيارات أيقونة التطبيق…
+    .accesskey = خ
+notification-settings = يمكن تعطيل التنبيهات و الصوت المبدئي من لوحة التنويهات في تفضيلات النظام.
 animated-alert-label =
     .label = اعرض تنبيهًا
     .accesskey = ر
@@ -72,9 +99,23 @@ tray-icon-label =
 mail-custom-sound-label =
     .label = استخدم ملف الصوت التالي
     .accesskey = س
+mail-browse-sound-button =
+    .label = تصفّح…
+    .accesskey = ص
 enable-gloda-search-label =
     .label = فعّل البحث العمومي والفهرسة
     .accesskey = ف
+datetime-formatting-legend = تنسيق التاريخ و الوقت
+allow-hw-accel =
+    .label = استخدم تسريع العتاد إن كان متاحًا
+    .accesskey = ع
+store-type-label =
+    .value = طريقة تخزين الرسائل للحسابات الجديدة:
+    .accesskey = خ
+mbox-store-label =
+    .label = ملف لكل مجلد (mbox)
+maildir-store-label =
+    .label = ملف لكل رسالة (maildir)
 scrolling-legend = اللف
 autoscroll-label =
     .label = استخدم اللّف الآلي
@@ -103,10 +144,26 @@ search-integration-label =
 config-editor-button =
     .label = محرر الإعدادات…
     .accesskey = ت
+return-receipts-description = حدد كيف يتعامل { -brand-short-name } مع إعلامات الوصول
 return-receipts-button =
     .label = إعلامات الوصول…
     .accesskey = ع
 update-app-legend = تحديثات { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = الإصدارة { $version }
+automatic-updates-label =
+    .label = نصّب التحديثات آليًا (مستحسن: يزيد الأمان)
+    .accesskey = ل
+check-updates-label =
+    .label = التمس التحديثات، و لكن اترك لي خيار تنصيبها من عدمه
+    .accesskey = ت
+update-history-button =
+    .label = أظهر تأريخ التحديث
+    .accesskey = ظ
+use-service =
+    .label = استخدم خدمة تعمل في الخلفية لتنصيب التحديثات
+    .accesskey = خ
 networking-legend = الاتصال
 proxy-config-description = اضبط كيفية اتصال { -brand-short-name } بالإنترنت
 network-settings-button =
@@ -117,6 +174,7 @@ offline-settings = اضبط إعدادات طور اللا اتصال
 offline-settings-button =
     .label = غير متصل…
     .accesskey = ص
+diskspace-legend = مساحة القرص
 offline-compact-folder =
     .label = ادمج كل المجلدات إذا كانت ستوفِّر أكثر من
     .accesskey = و
@@ -134,6 +192,9 @@ use-cache-after = م.بايت من المساحة للذاكرة المخبأة
 
 ##
 
+smart-cache-label =
+    .label = تخطَّ الإدارة الآلية للذاكرة الخبيئة
+    .accesskey = ذ
 clear-cache-button =
     .label = امسح الآن
     .accesskey = ح
@@ -150,6 +211,7 @@ font-options-button =
 color-options-button =
     .label = الألوان…
     .accesskey = ن
+display-width-legend = رسائل النص الصرف
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
     .label = اعرض أيقونات الانفعالات كرسوم
@@ -204,16 +266,49 @@ always-ask-label =
     .label = اسألني دائمًا أين أريد حفظ الملفات
     .accesskey = د
 display-tags-text = يمكن استخدام الوسوم لتصنيف وتفضيل رسائلك.
+new-tag-button =
+    .label = جديد…
+    .accesskey = د
+edit-tag-button =
+    .label = حرّر…
+    .accesskey = ح
 delete-tag-button =
     .label = احذف
     .accesskey = ح
+auto-mark-as-read =
+    .label = أشّر على الرسائل تلقائيًا بانها مقروءة
+    .accesskey = ت
+mark-read-no-delay =
+    .label = فورًا عند العرض
+    .accesskey = ف
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = بعد العرض لمدة
+    .accesskey = ض
+seconds-label = ثانية
 
 ##
 
+open-msg-label =
+    .value = افتح الرسائل في:
+open-msg-tab =
+    .label = لسان جديد
+    .accesskey = ن
+open-msg-window =
+    .label = نافذة رسالة جديدة
+    .accesskey = ن
+open-msg-ex-window =
+    .label = نافذة رسالة موجودة
+    .accesskey = م
+close-move-delete =
+    .label = أغلِق نافذة/لسان الرسالة عند النقل أو الحذف
+    .accesskey = ن
+condensed-addresses-label =
+    .label = اعرض فقط اسم العرض للأشخاص الذين في دفتر عناويني
+    .accesskey = ع
 
 ## Compose Tab
 
@@ -263,6 +358,9 @@ bg-color-label =
 restore-html-label =
     .label = استعد المبدئيات
     .accesskey = م
+default-format-label =
+    .label = استخدم تنسيق الفقرات بدلا من متن النص مبدئيًا
+    .accesskey = ف
 format-description = اضبط سلوك تنسيق النص
 send-options-label =
     .label = خيارات الإرسال…
@@ -282,6 +380,11 @@ edit-directories-label =
 email-picker-label =
     .label = أضِف آليًّا عنوان البريد الصادر إلى:
     .accesskey = ع
+default-directory-label =
+    .value = مجلد بدأ التشغيل المبدئي في نافذة دفتر العناوين:
+    .accesskey = د
+default-last-label =
+    .none = آخر دليل مستخدم
 attachment-label =
     .label = تحقق من المرفقات الناقصة
     .accesskey = ن
@@ -292,6 +395,10 @@ enable-cloud-share =
     .label = اقترح مشاركة الملفات الأكبر من
 cloud-share-size =
     .value = م.ب
+add-cloud-account =
+    .label = أضف…
+    .accesskey = ض
+    .defaultlabel = أضف…
 remove-cloud-account =
     .label = أزِل
     .accesskey = ل
@@ -299,6 +406,43 @@ cloud-account-description = أضِف خدمة تخزين ملفات على ال�
 
 ## Privacy Tab
 
+mail-content = محتوى البريد
+remote-content-label =
+    .label = اسمح بالمحتوى البعيد في الرسائل
+    .accesskey = س
+exceptions-button =
+    .label = الاستثناءات…
+    .accesskey = ث
+remote-content-info =
+    .value = اطلع على المزيد حول مسائل الخصوصية مع المحتوى البعيد
+web-content = محتوى الوب
+history-label =
+    .label = تذكر المواقع و الروابط التي زُرتُها
+    .accesskey = ت
+cookies-label =
+    .label = اقبل الكعكات من المواقع
+    .accesskey = ك
+third-party-label =
+    .value = اقبل الكعكات من أطراف أخرى:
+    .accesskey = ب
+third-party-always =
+    .label = دائمًا
+third-party-never =
+    .label = أبدًا
+third-party-visited =
+    .label = من المواقع المُزارة
+keep-label =
+    .value = احتفظ بها حتى:
+    .accesskey = ف
+keep-expire =
+    .label = تنتهي صلاحيتها
+keep-close =
+    .label = أُغلق { -brand-short-name }
+keep-ask =
+    .label = اسألني كل مرة
+cookies-button =
+    .label = أظهِر الكعكات…
+    .accesskey = ظ
 passwords-description = يستطيع { -brand-short-name } تذكر معلومات كلمة السر لكل حساباتك لذا لن تحتاج إلى إعادة إدخال بيانات الولوج.
 passwords-button =
     .label = كلمات السر المحفوظة…
@@ -336,13 +480,26 @@ phishing-description = يستطيع { -brand-short-name } تحليل الرسا�
 phishing-label =
     .label = أخبرني إذا كانت الرسالة التي أقرأ بريد احتيال محتمل
     .accesskey = خ
+antivirus-description = يستطيع { -brand-short-name } تسهيل مهمة مضاد الفيروسات في تحليل رسائل البريد الواردة بحثا عن فيروسات قبل حفظها محليّا.
+antivirus-label =
+    .label = اسمح لمضادات الفيروسات بحجر الرسائل الواردة عن بعض
+    .accesskey = س
 certificate-description = عندما يطلب خادوم شهادتي الشخصية:
+certificate-auto =
+    .label = اختر واحدة تلقائيًا
+    .accesskey = خ
 certificate-ask =
     .label = اسألني كل مرة
     .accesskey = ك
+ocsp-label =
+    .label = استعلم من خواديم مستجيبي OCSP عن الصلاحية الحالية للشهادات
+    .accesskey = س
 
 ## Chat Tab
 
+startup-label =
+    .value = عند بدء { -brand-short-name }:
+    .accesskey = ب
 offline-label =
     .label = اترك حسابات الدردشة غير متصلة
 auto-connect-label =
@@ -354,6 +511,9 @@ auto-connect-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = أعلِم جهات اتصالي بخمولي بعد
+    .accesskey = ع
 idle-time-label = دقائق من عدم النشاط
 
 ##
@@ -364,6 +524,16 @@ away-message-label =
 send-typing-label =
     .label = أرسل تنويهات الكتابة في المحادثات
     .accesskey = ك
+notification-label = عندما تصل الرسائل الموجهة إليك:
+show-notification-label =
+    .label = أظهر تنبيهًا:
+    .accesskey = ت
+notification-all =
+    .label = باسم المرسل و معاينة للرسالة
+notification-name =
+    .label = باسم المرسل فقط
+notification-empty =
+    .label = بدون أي بيانات
 notification-type-label =
     .label =
         { PLATFORM() ->
@@ -375,6 +545,21 @@ notification-type-label =
             [macos] و
            *[other] م
         }
+chat-play-sound-label =
+    .label = اعزف صوتًا
+    .accesskey = ع
+chat-play-button =
+    .label = شغّل
+    .accesskey = ش
+chat-system-sound-label =
+    .label = صوت النظام المبدئي للبريد الجديد
+    .accesskey = ت
+chat-custom-sound-label =
+    .label = استخدم ملف الصوت التالي
+    .accesskey = س
+chat-browse-sound-button =
+    .label = تصفّح…
+    .accesskey = ف
 style-bubbles =
     .label = فقاعات
 style-dark =
