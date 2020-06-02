@@ -27,6 +27,9 @@ system-search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+system-search-integration-label =
+    .label = Թույլատրել { system-search-engine-name }-ին փնտրելու նամակներ
+    .accesskey = s
 check-on-startup-label =
     .label = { -brand-short-name }-ը բացելիս միշտ ստուգել այս ընտրությունը։
     .accesskey = A
