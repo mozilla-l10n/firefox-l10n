@@ -16,3 +16,4 @@ accounts-default = Լռելյա՞յն
 identity-name = Որոշիչ
 
 send-via-email = Ուղարկել նամակով
+

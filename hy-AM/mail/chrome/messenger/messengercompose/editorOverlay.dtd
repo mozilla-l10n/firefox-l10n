@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Գտնել տեքստ էջում">
 <!ENTITY spellToolbarCmd.label "Ուղագրություն">
 <!ENTITY spellToolbarCmd.tooltip "Ստուգել ընտրվածի ուղղագրությունը">
+
 <!ENTITY imageToolbarCmd.label "Նկար">
 <!ENTITY imageToolbarCmd.tooltip "Ներմուծել նոր նկար կամ խմբագրել նկարի հատկությունները">
 <!ENTITY hruleToolbarCmd.label "H.Line">

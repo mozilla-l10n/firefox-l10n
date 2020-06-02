@@ -381,8 +381,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Օգտագործել { $plugin-name } ({ -brand-short-name }-ում)
-applications-preview-inapp =
-    .label = Դիտել { -brand-short-name }-ում
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -396,9 +394,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -605,11 +600,16 @@ home-prefs-topsites-header =
     .label = Լավագույն կայքեր
 home-prefs-topsites-description = Ամենաշատ այցելած կայքեր
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Առաջարկվում է { $provider }
 home-prefs-recommended-by-description = Հիանալի բովանդակություն համացանցից, անձնավորված ձեզ համար
+##
+
 home-prefs-recommended-by-learn-more = Ինչպես է դա աշխատում
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Հովանավորված կայքեր
@@ -930,9 +930,9 @@ privacy-header = Դիտարկիչի գաղտնիություն
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Մուտքանուններ և Գաղտնաբառեր
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Մուտքանուններ և Գաղտնաբառեր
@@ -971,9 +971,6 @@ forms-master-pw-fips-title = Դուք այժմ օգտագործում էք FIPS 
 forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխությունը Չհաջողվեց
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Ստուգեք ձեր ինքնությունը `Վարպետ գաղտնաբառ ստեղծելու համար:
 
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -1174,7 +1171,6 @@ content-blocking-warning-title = Ուշադրություն։
 content-blocking-warning-description = Բովանդակության արգելափակումը կարող է որոշ կայքերի կոտրման պատճառ դառնալ։ Հեշտ է անջատել վստահված կայքերի արգելափակումը։
 content-blocking-learn-how = Սովորել, թե ինչպես
 
-content-blocking-etp-warning-description = Հետևման արգելափակումը կարող է ազդել որոշ կայքերի գործառությանը։ Վերբեռնե՛ք էջը հետևումներով ողջ բովանդակությունը բեռնելու համար։
 content-blocking-warning-learn-how = Իմանալ ինչպես
 
 content-blocking-reload-description = Ձեզ հարկավոր կլինի վերբեռնել ձեր ներդիրները այս փոփոխությունները հաստատելու համար։
