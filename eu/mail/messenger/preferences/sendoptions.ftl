@@ -15,6 +15,7 @@ html-format-send-html =
 html-format-send-both =
     .label = Bidali mezua bai HTML eta testu arrunt gisa ere
     .accesskey = e
+default-html-format-info = Oharra: erabili helbide-liburua hartzaileen testu-formatu lehenetsa ezartzeko.
 html-tab-label =
     .label = HTML domeinuak
     .accesskey = H

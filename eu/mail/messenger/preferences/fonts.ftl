@@ -10,6 +10,8 @@ fonts-label-default =
     .label = Lehenetsia ({ $name })
 fonts-label-default-unnamed =
     .label = Lehenetsia
+fonts-encoding-dialog-title =
+    .title = Letra-tipoak eta kodeketak
 fonts-language-legend =
     .value = Letra-tipoa:
     .accesskey = t
@@ -19,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latina
 font-language-group-japanese =
     .label = Japoniarra
 font-language-group-trad-chinese =
@@ -111,9 +116,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Testuaren kodeketa
+text-encoding-description = Ezarri posta bidali eta jasotzeko karaktere-kodeketa lehenetsiak
 font-outgoing-email-label =
     .value = Irteerako posta:
     .accesskey = r
 font-incoming-email-label =
     .value = Sarrerakoa posta:
     .accesskey = S
+default-font-reply-checkbox =
+    .label = Ahal bada, erabili erantzunetan karaktere-kodeketa lehenetsia
+    .accesskey = h
