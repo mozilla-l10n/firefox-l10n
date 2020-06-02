@@ -505,6 +505,17 @@ send-typing-label =
 notification-label = When messages directed at you arrive:
 notification-empty =
     .label = without any info
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animate dock icon
+           *[other] Flash the taskbar item
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Play a sound
     .accesskey = d
@@ -520,6 +531,27 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Browse…
     .accesskey = B
+theme-label =
+    .value = Theme:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bubbles
+style-dark =
+    .label = Dark
+style-paper =
+    .label = Paper Sheets
+style-simple =
+    .label = Simple
+preview-label = Preview:
+no-preview-label = No preview available
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Show Header
+    .accesskey = H
 
 ## Preferences UI Search Results
 
