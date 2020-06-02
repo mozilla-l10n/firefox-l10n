@@ -609,9 +609,6 @@ updates-heading = Jo fernijingen beheare
 discover-heading = Personalisearje jo { -brand-short-name }
 shortcuts-heading = Utwreidingsfluchtoetsen beheare
 
-theme-heading-search-label = Mear tema’s sykje
-extension-heading-search-label = Mear útwreidingen sykje
-
 default-heading-search-label = Mear add-ons sykje
 addons-heading-search-input =
     .placeholder = addons.mozilla.org trochsykje

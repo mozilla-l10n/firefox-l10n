@@ -57,6 +57,7 @@ rcwn-avg-long = Lang gemiddelde
 rcwn-std-dev-long = Lange standertdeviaasje
 rcwn-cache-slow = Oantal trage buffers
 rcwn-cache-not-slow = Oantal net-trage buffers
+
 about-networking-title = Oer netwurken
 about-networking-http = HTTP
 about-networking-sockets = Sockets
