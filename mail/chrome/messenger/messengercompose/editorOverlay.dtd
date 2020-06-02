@@ -235,6 +235,7 @@
 <!ENTITY findToolbarCmd.tooltip "Fumana mongolo leqepheng">
 <!ENTITY spellToolbarCmd.label "Peleta">
 <!ENTITY spellToolbarCmd.tooltip "Lekola mopeleto wa kgetho kapa leqephe lohle">
+
 <!ENTITY imageToolbarCmd.label "Setshwantsho">
 <!ENTITY imageToolbarCmd.tooltip "Kenya setshwantsho se setjha kapa o edite dimelo tsa setshwantsho se kgethilweng">
 <!ENTITY hruleToolbarCmd.label "Laene ya H">
