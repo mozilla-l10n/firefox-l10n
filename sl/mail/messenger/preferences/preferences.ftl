@@ -8,6 +8,12 @@ category-general =
 pane-compose-title = Sestavljanje
 category-compose =
     .tooltiptext = Sestavljanje
+pane-chat-title = Klepet
+category-chat =
+    .tooltiptext = Klepet
+pane-calendar-title = Lightning
+category-calendar =
+    .tooltiptext = Lightning
 general-language-and-appearance-header = Jezik in videz
 general-incoming-mail-header = Dohodna pošta
 general-files-and-attachment-header = Datoteke in priponke
@@ -76,6 +82,7 @@ new-message-arrival = Ko prispejo nova sporočila:
 mail-custom-sound-label =
     .label = Uporabi naslednjo zvočno datoteko
     .accesskey = U
+scrolling-legend = Drsenje
 config-editor-button =
     .label = Urejevalnik nastavitev …
     .accesskey = U
@@ -138,6 +145,8 @@ edit-directories-label =
 attachment-options-label =
     .label = Ključne besede …
     .accesskey = K
+cloud-share-size =
+    .value = MB
 
 ## Privacy Tab
 
