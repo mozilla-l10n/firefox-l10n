@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferències
+        }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -80,7 +86,19 @@ location-label =
 restore-default-label =
     .label = Restaura el valor per defecte
     .accesskey = R
+default-search-engine = Motor de cerca per defecte
 new-message-arrival = Quan arribin missatges nous:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Reprodueix el fitxer de so següent:
+           *[other] Reprodueix un so
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] p
+        }
 mail-play-button =
     .label = Reprodueix
     .accesskey = d
@@ -88,6 +106,7 @@ change-dock-icon = Canvia les preferències de la icona de l'aplicació
 app-icon-options =
     .label = Opcions de la icona de l'aplicació…
     .accesskey = n
+notification-settings = Podeu desactivar les alertes i el so per defecte en la subfinestra «Notificació» de les «Preferències del sistema».
 animated-alert-label =
     .label = Mostra una alerta
     .accesskey = M
@@ -106,6 +125,17 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Habilita el cercador i indexador de missatges
     .accesskey = i
+datetime-formatting-legend = Format de data i hora
+allow-hw-accel =
+    .label = Utilitza l'acceleració de maquinari quan sigui disponible
+    .accesskey = r
+store-type-label =
+    .value = Tipus d'emmagatzematge de missatges per als comptes nous:
+    .accesskey = T
+mbox-store-label =
+    .label = Un fitxer per carpeta (mbox)
+maildir-store-label =
+    .label = Un fitxer per missatge (maildir)
 scrolling-legend = Desplaçament
 autoscroll-label =
     .label = Utilitza el desplaçament automàtic
@@ -138,6 +168,10 @@ return-receipts-description = Determina com el { -brand-short-name } gestiona le
 return-receipts-button =
     .label = Confirmacions de recepció…
     .accesskey = r
+update-app-legend = Actualitzacions del { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versió { $version }
 automatic-updates-label =
     .label = Instal·la les actualitzacions automàticament (és l'opció recomanada per seguretat)
     .accesskey = a
@@ -178,6 +212,9 @@ use-cache-after = MB d'espai de disc per a la memòria cau
 
 ##
 
+smart-cache-label =
+    .label = Ignora la gestió automàtica de la memòria cau
+    .accesskey = g
 clear-cache-button =
     .label = Neteja-la ara
     .accesskey = N
@@ -249,16 +286,46 @@ always-ask-label =
     .label = Demana'm sempre on desar els fitxers
     .accesskey = a
 display-tags-text = Les etiquetes poden utilitzar-se per classificar i donar prioritats als vostres missatges.
+new-tag-button =
+    .label = Nova…
+    .accesskey = N
+edit-tag-button =
+    .label = Edita…
+    .accesskey = E
 delete-tag-button =
     .label = Suprimeix
     .accesskey = x
+auto-mark-as-read =
+    .label = Marca els missatges com a llegits automàticament
+    .accesskey = a
+mark-read-no-delay =
+    .label = Immediatament en mostrar-los
+    .accesskey = d
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Després de mostrar-los durant
+    .accesskey = e
+seconds-label = segons
 
 ##
 
+open-msg-label =
+    .value = Obre els missatges en:
+open-msg-tab =
+    .label = Una pestanya nova
+    .accesskey = p
+open-msg-window =
+    .label = Una finestra nova
+    .accesskey = f
+open-msg-ex-window =
+    .label = Una finestra ja oberta
+    .accesskey = j
+condensed-addresses-label =
+    .label = Ensenya només el nom a mostrar de la gent que estigui a la meva llibreta d'adreces
+    .accesskey = n
 
 ## Compose Tab
 
@@ -308,6 +375,9 @@ bg-color-label =
 restore-html-label =
     .label = Restaura els valors per defecte
     .accesskey = R
+default-format-label =
+    .label = Utilitza per defecte el format de «Paràgraf» en lloc de «Text del cos»
+    .accesskey = f
 format-description = Configura el comportament del format de text
 send-options-label =
     .label = Opcions d'enviament…
@@ -327,6 +397,11 @@ edit-directories-label =
 email-picker-label =
     .label = Afegeix automàticament les adreces electròniques de sortida a:
     .accesskey = t
+default-directory-label =
+    .value = Directori d'inici per defecte de la llibreta d'adreces:
+    .accesskey = i
+default-last-label =
+    .none = Darrer directori utilitzat
 attachment-label =
     .label = Comprova si falten fitxers adjunts
     .accesskey = m
@@ -335,6 +410,10 @@ attachment-options-label =
     .accesskey = P
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Afegeix…
+    .accesskey = A
+    .defaultlabel = Afegeix…
 remove-cloud-account =
     .label = Suprimeix
     .accesskey = r
@@ -413,6 +492,13 @@ reset-junk-button =
     .label = Reinicia les dades d'entrenament
     .accesskey = d
 phishing-description = El { -brand-short-name } pot analitzar els missatges sospitosos de ser fraudulents tenint en compte les tècniques més comunes d'engany.
+phishing-label =
+    .label = Avisa'm si el missatge que estic llegint és sospitós de ser fraudulent
+    .accesskey = v
+antivirus-description = El { -brand-short-name } pot facilitar que el programari antivirus analitzi els missatges de correu entrant abans que s'emmagatzemin localment.
+antivirus-label =
+    .label = Permet que els programes antivirus posin en quarantena missatges d'entrada individuals
+    .accesskey = q
 certificate-description = Quan un servidor demani el meu certificat personal:
 certificate-auto =
     .label = Selecciona'n un automàticament
