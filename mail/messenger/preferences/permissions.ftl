@@ -26,3 +26,5 @@ remove-all-site-button =
 permission-can-label = Baimendu
 permission-can-session-label = Baimendu saio honetarako
 permission-cannot-label = Blokeatu
+invalid-uri-message = Sartu baliozko ostalari-izena
+invalid-uri-title = Sartutako ostalari-izena okerra da
