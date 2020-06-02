@@ -17,3 +17,4 @@ count-unread-messages-radio =
 count-new-messages-radio =
     .label = gautų naujų laiškų kiekį
     .accesskey = g
+notification-settings-info = Galite atsisakyti perspėjimų, išjungę šią funkciją Sistemos nuostatų Perspėjimų polangyje.
