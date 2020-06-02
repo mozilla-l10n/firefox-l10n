@@ -2,12 +2,85 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencies
+        }
+pane-compose-title = Redaición
+category-compose =
+    .tooltiptext = Redaición
+pane-chat-title = Chat
+category-chat =
+    .tooltiptext = Chat
 
 ## OS Authentication dialog
 
 
 ## General Tab
 
+general-legend = Páxina d'aniciu de { -brand-short-name }
+start-page-label =
+    .label = Al aniciase { -brand-short-name }, amosar la páxina d'aniciu nel área de mensaxes
+    .accesskey = i
+location-label =
+    .value = Direición:
+    .accesskey = D
+restore-default-label =
+    .label = Restablecer predetermináu
+    .accesskey = R
+default-search-engine = Motor de gueta por defeutu
+new-message-arrival = Cuando aporten mensaxes nuevos:
+mail-play-button =
+    .label = Reproducir
+    .accesskey = r
+change-dock-icon = Camudar les preferencies del iconu de l'aplicación
+app-icon-options =
+    .label = Opciones del iconu de l'aplicación…
+    .accesskey = c
+animated-alert-label =
+    .label = Amosar un avisu/alerta
+    .accesskey = M
+customize-alert-label =
+    .label = Personalizar…
+    .accesskey = P
+tray-icon-label =
+    .label = Amosar un iconu na bandexa
+    .accesskey = a
+mail-custom-sound-label =
+    .label = Usar el siguiente ficheru de soníu
+    .accesskey = U
+mail-browse-sound-button =
+    .label = Desaminar…
+    .accesskey = E
+enable-gloda-search-label =
+    .label = Activar indexador y gueta global
+    .accesskey = A
+allow-hw-accel =
+    .label = Usar aceleración per hardware al tar disponible
+    .accesskey = h
+store-type-label =
+    .value = Triba d'almacenamientu de mensaxes pa cuentes nueves:
+    .accesskey = T
+mbox-store-label =
+    .label = Ficheru per carpeta (mbox)
+maildir-store-label =
+    .label = Ficheru per mensaxe (maildir)
+scrolling-legend = Desplazamientu
+autoscroll-label =
+    .label = Usar desplazamientu automáticu
+    .accesskey = U
+smooth-scrolling-label =
+    .label = Usar desplazamientu suave
+    .accesskey = d
+system-integration-legend = Integración col sistema
+always-check-default =
+    .label = Comprobar siempre al aniciar si { -brand-short-name } ye'l veceru de corréu por omisión
+    .accesskey = C
+check-default-button =
+    .label = Comprobar agora…
+    .accesskey = b
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -16,14 +89,59 @@ search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+search-integration-label =
+    .label = Permitir que { search-engine-name } guete nos mensaxes
+    .accesskey = P
+config-editor-button =
+    .label = Editor de configuración…
+    .accesskey = E
+return-receipts-description = Determinar cómo xestiona { -brand-short-name } los acuses de recibu
+return-receipts-button =
+    .label = Acuses de recibu…
+    .accesskey = r
+automatic-updates-label =
+    .label = Instalar anovamientos automáticamente (recomiéndase: ameyora la seguridá)
+    .accesskey = I
+check-updates-label =
+    .label = Guetar anovamientos, pero permitime elexir si los instalo
+    .accesskey = G
+update-history-button =
+    .label = Amosar historial d'anovamientos
+    .accesskey = M
+use-service =
+    .label = Usar un serviciu en segundu planu pa instalar anovamientos
+    .accesskey = v
+networking-legend = Conexón
+proxy-config-description = Configurar cómo se coneuta { -brand-short-name } a Internet
+network-settings-button =
+    .label = Configuración…
+    .accesskey = C
+offline-legend = Desconeutáu
+offline-settings = Configurar mou ensin conexón
+offline-settings-button =
+    .label = Ensin conexón…
+    .accesskey = S
+diskspace-legend = Espaciu en discu
+offline-compact-folder =
+    .label = Compautar toles carpetes cuando s'aforren más de
+    .accesskey = C
+compact-folder-size =
+    .value = MB en total
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Usar hasta
+    .accesskey = U
+use-cache-after = MB d'espaciu pa la caché
 
 ##
 
+clear-cache-button =
+    .label = Llimpiar agora
+    .accesskey = L
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -34,13 +152,80 @@ search-engine-name =
 
 ## Compose Tab
 
+forward-label =
+    .value = Reunviar mensaxes:
+    .accesskey = m
+inline-label =
+    .label = Incorporáu
+as-attachment-label =
+    .label = Como axuntu
+extension-label =
+    .label = Amestar estensión al nome de ficheru
+    .accesskey = A
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Guardar automáticamente cada
+    .accesskey = G
+auto-save-end = minutos
 
 ##
 
+warn-on-send-accel-key =
+    .label = Confirmar al usar l'atayu de tecláu pal unviu de mensaxes
+    .accesskey = n
+spellcheck-label =
+    .label = Comprobar la ortografía enantes d'unviar
+    .accesskey = C
+spellcheck-inline-label =
+    .label = Activar correición ortográfica al escribir
+    .accesskey = v
+language-popup-label =
+    .value = Llingua:
+    .accesskey = L
+download-dictionaries-link = Descargar más diccionarios
+font-label =
+    .value = Fonte de lletra:
+    .accesskey = T
+font-color-label =
+    .value = Color del testu:
+    .accesskey = s
+bg-color-label =
+    .value = Color de fondu:
+    .accesskey = C
+restore-html-label =
+    .label = Restaurar valores por omisión
+    .accesskey = R
+default-format-label =
+    .label = Usar formatu párrafu en cuentes del testu de cuerpu por defeutu
+    .accesskey = P
+format-description = Configurar comportamientu del formatu de testu
+send-options-label =
+    .label = Opciones d'unviu…
+    .accesskey = v
+autocomplete-description = Al unviar mensaxes, guetar entraes coincidentes en:
+ab-label =
+    .label = Llibretes de direiciones llocales
+    .accesskey = L
+directories-label =
+    .label = Sirvidor de direutoriu:
+    .accesskey = S
+directories-none-label =
+    .none = Dengún
+edit-directories-label =
+    .label = Editar direutorios…
+    .accesskey = E
+email-picker-label =
+    .label = Amestar automáticamente les direiciones de corréu saliente al mio/mios:
+    .accesskey = A
+attachment-label =
+    .label = Comprobar axuntos escaecíos
+    .accesskey = b
+attachment-options-label =
+    .label = Pallabres clave…
+    .accesskey = P
 enable-cloud-share =
     .label = Ufrilu pa compartir ficheros mayores de
 cloud-share-size =
@@ -123,6 +308,16 @@ antivirus-description = { -brand-short-name } pue facer cenciellamente que'l sof
 antivirus-label =
     .label = Permitir a los antivirus poner en cuarentena mensaxes individuales
     .accesskey = P
+certificate-description = Cuando un sirvidor solicite'l mio certificáu personal:
+certificate-auto =
+    .label = Seleicionar ún automáticamente
+    .accesskey = S
+certificate-ask =
+    .label = Entrugame cada vegada
+    .accesskey = E
+ocsp-label =
+    .label = Entrugar a los sirvidores respondedores de OCSP pa confirmar la validez actual de los certificaos
+    .accesskey = u
 
 ## Chat Tab
 
