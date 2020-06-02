@@ -649,6 +649,7 @@ style-simple =
     .label = Simple
 preview-label = Preview:
 no-preview-label = No preview available
+no-preview-description = This theme is not valid or is currently unavailable (disabled add-on, safe-mode, …).
 chat-variant-label =
     .value = Variant:
     .accesskey = V
