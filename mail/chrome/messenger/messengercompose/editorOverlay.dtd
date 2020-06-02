@@ -295,6 +295,7 @@
 <!ENTITY spellToolbarCmd.label "Stavning">
 <!ENTITY spellToolbarCmd.tooltip "Kontrollera stavningen i markering eller på hela sidan">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Bild">
 <!ENTITY imageToolbarCmd.tooltip "Infoga ny bild eller ändra egenskaperna för markerad bild">
 <!ENTITY hruleToolbarCmd.label "V. linje">
@@ -317,7 +318,7 @@
 <!ENTITY boldToolbarCmd.tooltip "Halvfet">
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Understruken">
-<!ENTITY bulletListToolbarCmd.tooltip "Tillämpa eller ta bort lista med bomber">
+<!ENTITY bulletListToolbarCmd.tooltip "Använd eller ta bort punktlista">
 <!ENTITY numberListToolbarCmd.tooltip "Tillämpa eller ta bort numrerad lista">
 <!ENTITY outdentToolbarCmd.tooltip "Dra ut text (flytta åt vänster)">
 <!ENTITY indentToolbarCmd.tooltip "Dra in text (flytta åt höger)">
