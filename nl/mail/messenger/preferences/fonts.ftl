@@ -83,9 +83,13 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = Lettertype-instellingen
 use-document-fonts-checkbox =
     .label = Berichten toestaan om andere lettertypen te gebruiken
     .accesskey = a
+use-fixed-width-plain-checkbox =
+    .label = Vastebreedtelettertype gebruiken voor plattetekstberichten
+    .accesskey = b
 
 ## Language settings
 
