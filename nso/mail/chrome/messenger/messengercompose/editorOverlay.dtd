@@ -194,6 +194,7 @@
 <!ENTITY findToolbarCmd.tooltip "Hwetša sengwalwa ka go letlakala">
 <!ENTITY spellToolbarCmd.label "Peleta">
 <!ENTITY spellToolbarCmd.tooltip "Hlokomela mopeleto wa kgetho goba letlakala ka moka">
+
 <!ENTITY imageToolbarCmd.label "Seswantšho">
 <!ENTITY imageToolbarCmd.tooltip "Lokela seswantšho se sefsa goba rulaganya dipharologantšho tša seswantšho se se kgethilwego">
 <!ENTITY hruleToolbarCmd.label "H.Mothalo">
