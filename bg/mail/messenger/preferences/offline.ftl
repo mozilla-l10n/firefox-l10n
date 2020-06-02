@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+offline-dialog-window =
+    .title = Настройки за работа извън мрежа
 autodetect-online-label =
     .label = Автоматично продължаване, ако е открита връзка с мрежата
     .accesskey = ж
@@ -15,6 +17,9 @@ status-radio-ask =
 status-radio-always-online =
     .label = На линия
     .accesskey = л
+status-radio-always-offline =
+    .label = Без мрежа
+    .accesskey = м
 going-online-label = Изпращане на неизпратените писма след свързване?
 going-online-auto =
     .label = Да
