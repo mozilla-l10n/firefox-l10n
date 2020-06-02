@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Opzioni di invio
 send-mail-title = Formato testo
+auto-downgrade-label =
+    .label = Se possibile invia i messaggi come testo semplice.
+    .accesskey = t
 default-html-format-label = Quando si inviano messaggi in HTML e uno o più destinatari non sono elencati come in grado di ricevere HTML:
 html-format-ask =
     .label = Chiedi che cosa fare

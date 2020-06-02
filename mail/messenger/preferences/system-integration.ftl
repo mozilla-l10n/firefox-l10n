@@ -9,6 +9,7 @@ system-integration-dialog =
     .buttonlabelcancel = Salta integrazione
     .buttonlabelcancel2 = Annulla
 default-client-intro = Utilizza { -brand-short-name } come programma predefinito per:
+unset-default-tooltip = Non è possibile rendere { -brand-short-name } non predefinito dall'interno di { -brand-short-name } stesso. Se si desidera che un'altra applicazione sia la predefinita si deve utilizzare la voce 'Rendila predefinita' all'interno della stessa.
 checkbox-email-label =
     .label = E-Mail
     .tooltiptext = { unset-default-tooltip }

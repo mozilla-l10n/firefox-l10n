@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = Impostazioni non in linea
+autodetect-online-label =
+    .label = Passa automaticamente alla modalità in linea
+    .accesskey = S
+startup-label = Impostazione manuale all'avvio:
 status-radio-remember =
     .label = Ricordarsi del precedente stato in linea
     .accesskey = R
+status-radio-ask =
+    .label = Chiedi per passare alla modalità in linea
+    .accesskey = C
+status-radio-always-online =
+    .label = In linea
+    .accesskey = l
+status-radio-always-offline =
+    .label = Non in linea
+    .accesskey = N
 going-online-label = Inviare i messaggi in attesa subito dopo essersi collegati?
 going-online-auto =
     .label = Si
