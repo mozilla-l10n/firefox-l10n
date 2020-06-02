@@ -450,6 +450,7 @@ junk-log-button =
 reset-junk-button =
     .label = Ponastavi podatke za učenje
     .accesskey = n
+phishing-description = { -brand-short-name } lahko z iskanjem pogostih metod za zavajanje preverja sporočila in vas obvesti, če sumi, da vsebujejo e-poštno prevaro.
 phishing-label =
     .label = Sporoči, če obstaja sum, da je prikazano sporočilo e-poštna prevara
     .accesskey = S
