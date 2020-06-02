@@ -5,9 +5,11 @@
 toolbar-context-menu-undo-close-tab =
     .label = Atsaukt cilnes aiztaiseišonu
     .accesskey = u
+
 toolbar-context-menu-manage-extension =
     .label = Porvaldēt paplašinōjumu
     .accesskey = P
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

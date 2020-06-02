@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = Lītōtōjvōrdi un paroles
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -140,3 +145,7 @@ breach-alert-text = Nu tōs teizes, kod beji itymā lopā pādejū reizi, ir nū
 
 # This is a generic error message.
 about-logins-error-message-default = Raugūt saglobōt paroli, nūtykuse klaida.
+
+
+## Login Export Dialog
+

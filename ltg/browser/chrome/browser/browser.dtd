@@ -329,6 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Pīlāgōt…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+
 <!ENTITY overflowCustomizeToolbar.label       "Pīlāgōt reikjūslu…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 

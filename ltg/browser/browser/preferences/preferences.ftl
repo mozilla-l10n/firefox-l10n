@@ -343,8 +343,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Izmantuot { $plugin-name } (ar { -brand-short-name })
-applications-preview-inapp =
-    .label = Prīkšskateit ar { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -358,9 +356,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -531,11 +526,17 @@ home-prefs-topsites-header =
     .label = Top lopys
 home-prefs-topsites-description = Vaira apmaklātōs lopys
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } īsaceitōs
 home-prefs-recommended-by-description = Tev dalāgōts saturs nu vysa interneta
+##
+
+
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorāti roksti
 
@@ -910,7 +911,6 @@ content-blocking-learn-more = Vaira
 
 
 ##
-
 
 ## Privacy Section - Tracking
 
