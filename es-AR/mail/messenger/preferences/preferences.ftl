@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Cerrar
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -73,6 +75,7 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+addons-button = Extensiones & Temas
 
 ## OS Authentication dialog
 
@@ -111,6 +114,9 @@ add-search-engine =
 remove-search-engine =
     .label = Eliminar
     .accesskey = E
+minimize-to-tray-label =
+    .label = Cuando { -brand-short-name } está minimizado, muévalo a la bandeja
+    .accesskey = m
 new-message-arrival = Cuando llegue un nuevo mensaje:
 mail-play-sound-label =
     .label =
@@ -150,6 +156,7 @@ enable-gloda-search-label =
     .label = Habilitar indexado y búsqueda global
     .accesskey = i
 datetime-formatting-legend = Formato de fecha y hora
+language-selector-legend = Idioma
 allow-hw-accel =
     .label = Usar aceleración por hardware cuando esté disponible
     .accesskey = h
@@ -197,6 +204,9 @@ update-app-legend = Actualizaciones de { -brand-short-name }
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Versión { $version }
 allow-description = Permitir que { -brand-short-name }
+automatic-updates-label =
+    .label = Instalar actualizaciones automáticamente (recomendado: seguridad aumentada)
+    .accesskey = a
 check-updates-label =
     .label = Buscar actualizaciones, pero dejarme decidir si las instalo
     .accesskey = c
@@ -394,6 +404,12 @@ download-dictionaries-link = Descargar más diccionarios
 font-label =
     .value = Tipografía:
     .accesskey = g
+font-size-label =
+    .value = Tamaño:
+    .accesskey = z
+default-colors-label =
+    .label = Usar los colores predeterminados del lector
+    .accesskey = d
 font-color-label =
     .value = Color del texto:
     .accesskey = x
@@ -490,6 +506,9 @@ keep-ask =
 cookies-button =
     .label = Mostrar cookies…
     .accesskey = S
+do-not-track-label =
+    .label = Enviar a los sitios una señal de “No rastrear” indicando que no quiere ser rastreado
+    .accesskey = n
 learn-button =
     .label = Conocer más
 passwords-description = { -brand-short-name } puede recordar las contraseñas para todas sus cuentas.
