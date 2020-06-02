@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Benachrichtigungen
+
 customize-alert-description = In den Benachrichtigungen Folgendes anzeigen:
+
 preview-text-checkbox =
     .label = Textausschnitt
     .accesskey = T
+
 subject-checkbox =
     .label = Betreff
     .accesskey = B
+
 sender-checkbox =
     .label = Absender
     .accesskey = A
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Benachrichtigung über neue Nachrichten für
     .accesskey = N
+
 open-time-label-after =
     .value = Sekunden anzeigen

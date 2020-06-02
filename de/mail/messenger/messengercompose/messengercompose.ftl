@@ -9,14 +9,6 @@ remove-address-row-type = { $type }-Eingabefeld entfernen
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type = { $count ->
-    [0]     Leeres { $type }-Eingabefeld
-    [one]   { $type }-Eingabefeld mit einer Adresse
-    *[other] { $type }-Eingabefeld mit { $count } Adressen
-}
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label = { $count ->
     [0]     { $type }
     [one]   { $type } mit einer Adresse, Pfeil-nach-links-Taste zum Auswählen verwenden
@@ -45,3 +37,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Verschieben zu Bcc
     .accesskey = B
+

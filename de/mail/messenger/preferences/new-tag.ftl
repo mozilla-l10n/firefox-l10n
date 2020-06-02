@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Neues Schlagwort
+
 tag-name-label =
     .value = Schlagwort und zugeordnete Farbe:
     .accesskey = S
