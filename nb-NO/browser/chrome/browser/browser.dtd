@@ -293,10 +293,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Du har blokkert installasjon av utvidelser for dette nettstedet.">
 
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Du har gitt dette nettstedet noen spesialtillatelser.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Du har gitt dette nettstedet noen spesialtillatelser.">
 
 
 <!ENTITY searchItem.title             "Søk">
@@ -411,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Tilpass …">
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
+
 <!ENTITY overflowCustomizeToolbar.label       "Tilpass verktøylinje…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
@@ -901,54 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Åpne innstillinger for innholdsblokkering">
 
 
-<!ENTITY protections.etpON.header "Utvidet sporingsbeskyttelse er slått PÅ for dette nettstedet">
-<!ENTITY protections.etpOFF.header "Utvidet sporingsbeskyttelse er slått AV for dette nettstedet">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Mer informasjon om utvidet sporingsbeskyttelse">
-<!ENTITY protections.settings.label "Innstillinger for beskyttelse">
-<!ENTITY protections.showreport.label "Vis rapport">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Fungerer ikke nettstedet?">
-<!ENTITY protections.siteNotWorkingView.title "Fungerer ikke nettstedet?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Slå av beskyttelsen hvis du har problemer med:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Innloggingsfelt">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Skjemaer">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Betalinger">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentarer">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Videoer">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Send inn en rapport">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Blokkert">
-<!ENTITY protections.notBlocking2.label "Tillatt">
-<!ENTITY protections.notFound.label "Ingen oppdaget">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Hvorfor?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokkering av disse kan føre til feil med elementer på noen nettsteder. Uten sporere fungerer kanskje ikke noen knapper, skjemaer og innloggingsfelt.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alle sporere på dette nettstedet er lastet fordi sporingsbeskyttelsen er slått av.">
-<!ENTITY protections.noTrackersFound.description "Ingen sporere kjent for &brandShortName; ble oppdaget på denne siden.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Disse infokapslene følger deg fra side til side for å samle inn data om hva du gjør på nettet. De er satt av tredjeparter som annonsører og analyseselskaper.">
-<!ENTITY protections.cryptominers.description "Kryptominere bruker systemets datakraft for å utvinne digitale penger. Kryptomineringsskript tapper batteriet, gjør datamaskinen tregere og kan øke strømregningen.">
-<!ENTITY protections.fingerprinters.description "Fingerprinters samler innstillinger fra nettleseren din og datamaskinen for å opprette en profil av deg. Ved hjelp av dette digitale fingeravtrykket kan de spore deg på forskjellige nettsteder.">
-<!ENTITY protections.trackingContent2.description "Nettsteder kan laste inn eksterne annonser, videoer og annet innhold med sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke.">
-<!ENTITY protections.socialMediaTrackers.description "Sosiale nettverk plasserer sporere på andre nettsteder for å følge det du gjør og ser på nettet. Dette gjør at sosiale media-selskaper kan lære mer om deg utover det du deler på profilene dine på sosiale medier.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Nettleserfaner">
@@ -993,13 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Infokapsler">
 <!ENTITY contentBlocking.cookiesView.label "Infokapsler og nettstedsdata">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Sporings-innhold">
-
-<!ENTITY contentBlocking.manageSettings2.label "Behandle beskyttelsesinnstillinger">
-<!ENTITY contentBlocking.manageSettings2.accesskey "n">
-
-<!ENTITY contentBlocking.socialblock.label "Sporing via sosiale medier">
-
 <!ENTITY contentBlocking.cryptominers.label "Kryptominere">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptominere">
 
@@ -1011,12 +957,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Innholdsblokkering kan føre til problemer med enkelte nettsteder. Når du rapporterer problemer, hjelper du med å gjøre &brandShortName; bedre for alle. (Dette vil sende en URL, samt informasjon om nettleserinnstillingene dine, til Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Les mer">
 
-<!ENTITY contentBlocking.breakageReportView.title "Rapporter problem med et nettsted">
-<!ENTITY contentBlocking.breakageReportView3.description "Blokkering av visse sporere kan føre til problemer med enkelte nettsteder. Rapportering av disse problemene er med på å gjøre &brandShortName; bedre for alle. Ved sending av denne rapporten vil du sende en URL og informasjon om nettleserinnstillingene dine, til Mozilla.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Les mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-adresse">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvilke problemer har du? (Valgfri)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Valgfritt: Beskriv problemet">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Send rapport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Avbryt">
 

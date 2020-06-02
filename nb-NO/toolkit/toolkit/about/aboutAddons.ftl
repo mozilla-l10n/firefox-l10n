@@ -604,9 +604,6 @@ updates-heading = Behandle oppdateringene
 discover-heading = Tilpass din { -brand-short-name }
 shortcuts-heading = Håndter snarveier for utvidelser
 
-theme-heading-search-label = Finn flere tema
-extension-heading-search-label = Finn flere utvidelser
-
 default-heading-search-label = Finn flere utvidelser
 addons-heading-search-input =
     .placeholder = Søk på addons.mozilla.org
