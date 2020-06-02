@@ -2,9 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Předvolby
+        }
 pane-general-title = Obecné
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Vytváření
+category-compose =
+    .tooltiptext = Vytváření
+pane-chat-title = Chat
+category-chat =
+    .tooltiptext = Chat
 pane-calendar-title = Kalendář
 category-calendar =
     .tooltiptext = Kalendář
@@ -75,10 +87,56 @@ update-in-progress-cancel-button = &Pokračovat
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
+general-legend = Úvodní stránka aplikace { -brand-short-name }
+start-page-label =
+    .label = Při spuštění aplikace { -brand-short-name } zobrazit úvodní stránku
+    .accesskey = s
+location-label =
+    .value = Adresa:
+    .accesskey = A
+restore-default-label =
+    .label = Obnovit výchozí
+    .accesskey = O
+default-search-engine = Výchozí vyhledávač
+new-message-arrival = Při přijetí nové zprávy:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Přehrát zvukový soubor:
+           *[other] Přehrát zvuk
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] v
+           *[other] P
+        }
+mail-play-button =
+    .label = Přehrát
+    .accesskey = h
 change-dock-icon = Změna nastavení pro ikonu aplikace
 app-icon-options =
     .label = Nastavení ikony aplikace…
     .accesskey = n
+notification-settings = Upozornění a výchozí zvuk můžete zakázat v systémovém nastavení panelu upozornění.
+animated-alert-label =
+    .label = Zobrazit upozornění
+    .accesskey = Z
+customize-alert-label =
+    .label = Přizpůsobit…
+    .accesskey = b
+tray-icon-label =
+    .label = Zobrazit ikonu v oznamovací oblasti
+    .accesskey = t
+mail-browse-sound-button =
+    .label = Procházet…
+    .accesskey = c
+enable-gloda-search-label =
+    .label = Povolit globální hledání a indexaci
+    .accesskey = g
 allow-hw-accel =
     .label = Použít hardwarovou akceleraci, je-li dostupná
     .accesskey = h
@@ -89,6 +147,34 @@ mbox-store-label =
     .label = Soubor pro každou složku (mbox)
 maildir-store-label =
     .label = Soubor pro každou zprávu (maildir)
+scrolling-legend = Posunování
+autoscroll-label =
+    .label = Použít automatické posouvání
+    .accesskey = a
+smooth-scrolling-label =
+    .label = Použít plynulé posouvání
+    .accesskey = e
+system-integration-legend = Nastavení systému
+always-check-default =
+    .label = Při startu aplikace { -brand-short-name } kontrolovat, zda je výchozím poštovním klientem
+    .accesskey = s
+check-default-button =
+    .label = Zkontrolovat…
+    .accesskey = Z
+search-integration-label =
+    .label = Povolit službě { search-engine-name } prohledávat zprávy
+    .accesskey = v
+config-editor-button =
+    .label = Editor předvoleb…
+    .accesskey = i
+return-receipts-description = Určuje, jak aplikace { -brand-short-name } zachází s potvrzením o přečtení
+return-receipts-button =
+    .label = Potvrzení o přečtení…
+    .accesskey = P
+update-app-legend = Aktualizace aplikace { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Verze { $version }
 automatic-updates-label =
     .label = Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)
     .accesskey = A
@@ -98,14 +184,120 @@ check-updates-label =
 update-history-button =
     .label = Zobrazit historii aktualizací
     .accesskey = b
+use-service =
+    .label = K instalaci aktualizací použít službu na pozadí
+    .accesskey = s
+networking-legend = Připojení
+proxy-config-description = Konfigurovat připojení aplikace { -brand-short-name } k Internetu
+network-settings-button =
+    .label = Nastavení…
+    .accesskey = a
+offline-legend = Režim offline
+offline-settings = Konfigurovat režim offline
+offline-settings-button =
+    .label = Režim offline…
+    .accesskey = o
+diskspace-legend = Místo na disku
+offline-compact-folder =
+    .label = Provést údržbu složek, ušetří-li se celkově přes
+    .accesskey = k
+compact-folder-size =
+    .value = MB
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Použít maximálně
+    .accesskey = P
+use-cache-after = MB diskové mezipaměti
 
 ##
 
+smart-cache-label =
+    .label = Nepoužívat automatickou správu mezipaměti
+    .accesskey = e
+clear-cache-button =
+    .label = Vymazat
+    .accesskey = m
+fonts-legend = Písma a barvy
+default-font-label =
+    .value = Výchozí písmo:
+    .accesskey = p
+default-size-label =
+    .value = Velikost:
+    .accesskey = e
+font-options-button =
+    .label = Rozšířené…
+    .accesskey = o
+color-options-button =
+    .label = Barvy…
+    .accesskey = B
+display-width-legend = Zobrazení prostých textových zpráv a článků
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Zobrazit smajlíky jako ikony
+    .accesskey = Z
+display-text-label = Použít následující nastavení pro zobrazení citovaných zpráv v čistém textu:
+style-label =
+    .value = Styl:
+    .accesskey = S
+regular-style-item =
+    .label = Normální
+bold-style-item =
+    .label = Tučné
+italic-style-item =
+    .label = Kurzíva
+bold-italic-style-item =
+    .label = Tučná kurzíva
+size-label =
+    .value = Velikost:
+    .accesskey = V
+regular-size-item =
+    .label = Normální
+bigger-size-item =
+    .label = Větší
+smaller-size-item =
+    .label = Menší
+quoted-text-color =
+    .label = Barva:
+    .accesskey = a
+search-input =
+    .placeholder = Hledat
+type-column-label =
+    .label = Typ obsahu
+    .accesskey = T
+action-column-label =
+    .label = Akce
+    .accesskey = A
+save-to-label =
+    .label = Ukládat všechny soubory do složky
+    .accesskey = U
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Vybrat…
+           *[other] Procházet…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] r
+        }
+always-ask-label =
+    .label = U každého souboru se zeptat, kam ho uložit
+    .accesskey = k
+display-tags-text = Štítky lze použít pro rozřazení zpráv dle kategorií a priorit.
+new-tag-button =
+    .label = Nový…
+    .accesskey = N
+edit-tag-button =
+    .label = Upravit…
+    .accesskey = U
+delete-tag-button =
+    .label = Smazat
+    .accesskey = S
 auto-mark-as-read =
     .label = Automaticky označit zprávu jako přečtenou
     .accesskey = A
@@ -127,15 +319,23 @@ open-msg-tab =
 open-msg-window =
     .label = Novém okně
     .accesskey = N
+open-msg-ex-window =
+    .label = Existujícím okně se zprávou
+    .accesskey = x
 close-move-delete =
     .label = Při přesunutí nebo smazání zprávy zavřít panel/okno
     .accesskey = s
+condensed-addresses-label =
+    .label = U lidí z mých kontaktů zobrazovat pouze jméno
+    .accesskey = U
 
 ## Compose Tab
 
 forward-label =
     .value = Přeposílat zprávy:
     .accesskey = s
+inline-label =
+    .label = Vložené
 as-attachment-label =
     .label = Jako přílohu
 extension-label =
@@ -155,6 +355,12 @@ auto-save-end = minut
 warn-on-send-accel-key =
     .label = Při odeslání zprávy pomocí klávesové zkratky požadovat potvrzení
     .accesskey = i
+spellcheck-label =
+    .label = Před odesláním zprávy zkontrolovat pravopis
+    .accesskey = P
+spellcheck-inline-label =
+    .label = Kontrolovat pravopis při psaní
+    .accesskey = K
 language-popup-label =
     .value = Jazyk:
     .accesskey = J
@@ -165,6 +371,9 @@ font-label =
 font-color-label =
     .value = Text:
     .accesskey = T
+bg-color-label =
+    .value = Barva pozadí:
+    .accesskey = P
 restore-html-label =
     .label = Obnovit výchozí
     .accesskey = O
@@ -172,6 +381,7 @@ format-description = Nastavení chování textového formátu
 send-options-label =
     .label = Předvolby odesílání…
     .accesskey = e
+autocomplete-description = Při psaní adresy hledat vhodné položky v:
 ab-label =
     .label = Místní kontakty
     .accesskey = M
@@ -196,6 +406,14 @@ enable-cloud-share =
     .label = Nabízet nahrávání na úložiště pro soubory větší než
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Přidat…
+    .accesskey = a
+    .defaultlabel = Přidat…
+remove-cloud-account =
+    .label = Odebrat
+    .accesskey = d
+cloud-account-description = Přidat nové webové úložiště pro odesílání příloh
 
 ## Privacy Tab
 
@@ -249,6 +467,13 @@ junk-read-label =
 reset-junk-button =
     .label = Vymazat naučená pravidla
     .accesskey = V
+certificate-description = Pokud server vyžaduje osobní certifikát:
+certificate-auto =
+    .label = Zvolit automaticky
+    .accesskey = a
+certificate-ask =
+    .label = Vždy se zeptat
+    .accesskey = d
 ocsp-label =
     .label = Aktuální platnost certifikátů ověřovat na serverech OCSP
     .accesskey = p
@@ -284,6 +509,7 @@ chat-system-sound-label =
 chat-browse-sound-button =
     .label = Procházet…
     .accesskey = c
+no-preview-description = Tento motiv vzhledu není platný, nebo je momentálně nedostupný (zakázaný doplněk, nouzový režim, …).
 
 ## Preferences UI Search Results
 
