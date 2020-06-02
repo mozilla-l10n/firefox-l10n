@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 going-online-label = Inviar le messages non inviate quando se passa al modo in linea?
+
 going-online-ask =
     .label = Demandar me
     .accesskey = D
+

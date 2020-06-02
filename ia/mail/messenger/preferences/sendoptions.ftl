@@ -4,16 +4,21 @@
 
 sendoptions-dialog-window =
     .title = Inviar optiones
+
 send-mail-title = Formato de texto
+
 auto-downgrade-label =
     .label = Inviar messages in texto plan, si possibile
     .accesskey = t
+
 html-format-ask =
     .label = Demandar me que facer
     .accesskey = m
+
 add-domain-button =
     .label = Adder…
     .accesskey = A
+
 delete-domain-button =
     .label = Deler
     .accesskey = D

@@ -5,12 +5,16 @@
 dock-options-window-dialog =
     .title = Optiones del icone del app
     .style = width: 35em;
+
 bounce-system-dock-icon =
     .label = Animar le icone del app quando arriva un none message
     .accesskey = i
+
 count-unread-messages-radio =
     .label = Numero de messages non lecte
     .accesskey = u
+
 count-new-messages-radio =
     .label = Numero de nove messages
     .accesskey = m
+

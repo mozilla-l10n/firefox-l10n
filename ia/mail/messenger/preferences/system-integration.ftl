@@ -8,3 +8,4 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = Fluxos
     .tooltiptext = { unset-default-tooltip }
+

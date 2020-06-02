@@ -4,11 +4,16 @@
 
 receipts-dialog-window =
     .title = Receptas de retorno
+
 return-receipt-checkbox =
     .label = Quando se invia messages, sempre demandar un recepta
     .acceskey = Q
+
 receipt-arrive-label = Quando un recepta arriva:
+
 receipt-move-radio =
     .label = Displaciar lo a mi dossier "Inviate"
     .acceskey = m
+
 receipt-request-label = Quando io recipe un demanda de recepta:
+
