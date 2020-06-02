@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = Socruithe As Líne
+autodetect-online-label =
+    .label = Faigh amach an staid ar líne go huathoibríoch
+    .accesskey = d
+startup-label = Staid de láimh ag am tosaithe:
 status-radio-remember =
     .label = Úsáid an staid ar líne roimhe seo
     .accesskey = r
+status-radio-ask =
+    .label = Fiafraigh díom faoin staid ar líne
+    .accesskey = F
+status-radio-always-online =
+    .label = As Líne
+    .accesskey = L
+status-radio-always-offline =
+    .label = As Líne
+    .accesskey = s
 going-online-label = An bhfuil fonn ort teachtaireachtaí neamhsheolta a sheoladh agus tú ag dul ar líne?
 going-online-auto =
     .label = Tá
