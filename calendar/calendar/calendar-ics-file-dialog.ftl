@@ -19,4 +19,4 @@ calendar-ics-file-dialog-message-2 = імпортувати з файлу:
 calendar-ics-file-dialog-calendar-menu-label = Імпортувати до календаря:
 calendar-ics-file-import-success = Успішно імпортовано!
 calendar-ics-file-import-error = Сталася помилка, не вдалося імпортувати.
-calendar-ics-file-dialog-no-calendars = Немає календарів до яких можна імпортувати події чи завдання.
+calendar-ics-file-dialog-no-calendars = Немає календарів, до яких можна імпортувати події чи завдання.
