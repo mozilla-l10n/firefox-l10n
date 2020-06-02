@@ -52,3 +52,91 @@ update-in-progress-ok-button = &Annuller
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
+
+## OS Authentication dialog
+
+
+## General Tab
+
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Søgning
+       *[other] { "" }
+    }
+
+## Note: The entities use-cache-before and use-cache-after appear on a single
+## line in preferences as follows:
+## use-cache-before [ textbox for cache size in MB ] use-cache-after
+
+
+##
+
+always-ask-label =
+    .label = Spørg mig altid, hvor filer skal gemmes
+    .accesskey = S
+
+## Note: This will concatenate to "After displaying for [___] seconds",
+## using (mark-read-delay) and a number (seconds-label).
+
+
+##
+
+
+## Compose Tab
+
+
+## Note: This will concatenate to "Auto Save every [___] minutes",
+## using (auto-save-label) and a number (auto-save-end).
+
+
+##
+
+
+## Privacy Tab
+
+passwords-description = { -brand-short-name } kan huske adgangskoder til alle dine konti, så du ikke behøver at indtaste dem.
+passwords-button =
+    .label = Gemte adgangskoder…
+    .accesskey = G
+master-password-description = Hovedadgangskoden beskytter alle dine adgangskoder, men du skal indtaste den ved hver opstart.
+master-password-label =
+    .label = Brug hovedadgangskode
+    .accesskey = U
+master-password-button =
+    .label = Skift hovedadgangskode…
+    .accesskey = S
+junk-delete-label =
+    .label = Slet dem
+    .accesskey = S
+junk-read-label =
+    .label = Marker spam-meddelelser som læste
+    .accesskey = M
+junk-log-button =
+    .label = Vis log
+    .accesskey = V
+reset-junk-button =
+    .label = Nulstil indlærte data
+    .accesskey = N
+antivirus-description = { -brand-short-name } kan gøre det lettere for antivirusprogrammer at analysere indkommende meddelelser for virus, før de gemmes lokalt.
+antivirus-label =
+    .label = Tillad antivirusprogrammer at sætte indkommende meddelelser i karantæne
+    .accesskey = T
+
+## Chat Tab
+
+
+## Note: idle-label is displayed first, then there's a field where the user
+## can enter a number, and itemTime is displayed at the end of the line.
+## The translations of the idle-label and idle-time-label parts don't have
+## to mean the exact same thing as in English; please try instead to
+## translate the whole sentence.
+
+
+##
+
+
+## Preferences UI Search Results
+
