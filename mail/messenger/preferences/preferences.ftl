@@ -2,76 +2,45 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
-
 general-language-and-appearance-header = 語言與外觀
-
 general-incoming-mail-header = 收到的郵件
-
 general-files-and-attachment-header = 檔案與附件
-
 general-tags-header = 標籤
-
 general-reading-and-display-header = 閱讀與顯示
-
 general-updates-header = 更新
-
 general-network-and-diskspace-header = 網路與磁碟空間
-
 general-indexing-label = 索引
-
 composition-category-header = 編輯
-
 composition-attachments-header = 附件
-
 composition-spelling-title = 拼字檢查
-
 compose-html-style-title = HTML 樣式
-
 composition-addressing-header = 地址
-
 privacy-main-header = 隱私權
-
 privacy-passwords-header = 密碼
-
 privacy-junk-header = 垃圾郵件
-
 privacy-data-collection-header = 資料收集與使用
-
 privacy-security-header = 安全性
-
 privacy-scam-detection-title = 詐騙信偵測
-
 privacy-anti-virus-title = 防毒
-
 privacy-certificates-title = 憑證
-
 chat-pane-header = 聊天
-
 chat-status-title = 狀態
-
 chat-notifications-title = 通知
-
 chat-pane-styling-header = 樣式
-
 choose-messenger-language-description = 請選擇 { -brand-short-name } 要用來顯示選單、介面訊息以及通知內容的語言。
 manage-messenger-languages-button =
     .label = 設定其他語言…
     .accesskey = l
 confirm-messenger-language-change-description = 重新啟動 { -brand-short-name } 來套用變更
 confirm-messenger-language-change-button = 套用並重新啟動
-
 update-pref-write-failure-title = 寫入失敗
-
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = 無法儲存偏好設定。無法寫入檔案: { $path }
-
 update-setting-write-failure-title = 儲存更新偏好設定時發生錯誤
-
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -80,11 +49,8 @@ update-setting-write-failure-message =
     { -brand-short-name } 遇到錯誤，並未儲存此變更。請注意: 調整此更新偏好設定，需要能夠寫入下列檔案的權限。您或您的系統管理員可以透過授予使用者此檔案的完整控制權，來解決本問題。
     
     無法寫入下列檔案: { $path }
-
 update-in-progress-title = 更新中
-
 update-in-progress-message = 您希望 { -brand-short-name } 使用此更新繼續嗎？
-
 update-in-progress-ok-button = 捨棄 (&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -94,15 +60,68 @@ update-in-progress-cancel-button = 繼續 (&C)
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = 確認您的身分以建立主控密碼。
-
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能建立主控密碼。這個動作是為了保護您的登入資訊安全。
-
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = 建立主控密碼
-
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## General Tab
+
+networking-legend = 連線
+offline-legend = 離線模式
+offline-settings = 離線模式設定
+
+## Note: The entities use-cache-before and use-cache-after appear on a single
+## line in preferences as follows:
+## use-cache-before [ textbox for cache size in MB ] use-cache-after
+
+
+##
+
+
+## Note: This will concatenate to "After displaying for [___] seconds",
+## using (mark-read-delay) and a number (seconds-label).
+
+
+##
+
+
+## Compose Tab
+
+
+## Note: This will concatenate to "Auto Save every [___] minutes",
+## using (auto-save-label) and a number (auto-save-end).
+
+
+##
+
+font-label =
+    .value = 字型:
+    .accesskey = n
+bg-color-label =
+    .value = 背景色彩:
+    .accesskey = B
+
+## Privacy Tab
+
+
+## Chat Tab
+
+
+## Note: idle-label is displayed first, then there's a field where the user
+## can enter a number, and itemTime is displayed at the end of the line.
+## The translations of the idle-label and idle-time-label parts don't have
+## to mean the exact same thing as in English; please try instead to
+## translate the whole sentence.
+
+
+##
+
+
+## Preferences UI Search Results
+
