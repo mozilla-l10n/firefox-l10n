@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Podrobnosće nałoženja
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Wotstronić
     .accesskey = W

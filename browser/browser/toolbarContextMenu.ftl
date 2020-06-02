@@ -30,18 +30,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Začinjene rajtarki wočinić
         }
     .accesskey = Z
+
 toolbar-context-menu-manage-extension =
     .label = Rozšěrjenje rjadować
     .accesskey = R
 toolbar-context-menu-remove-extension =
     .label = Rozšěrjenje wotstronić
     .accesskey = s
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Rozšěrjenje zdźělić
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

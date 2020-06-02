@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Placki
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Pytać:
     .accesskey = P
+
 cookies-on-system-label = Slědowace placki su na wašim ličaku składowane:
+
 treecol-site-header =
     .label = Sydło
+
 treecol-name-header =
     .label = Mjeno placka
+
 props-name-label =
     .value = Mjeno:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Płaćiwy hač do:
 props-container-label =
     .value = Kontejner:
+
 remove-cookie-button =
     .label = Plack wotstronić
     .accesskey = P
+
 remove-all-cookies-button =
     .label = Wšě placki wotstronić
     .accesskey = W
+
 cookie-close-button =
     .label = Začinić
     .accesskey = Z

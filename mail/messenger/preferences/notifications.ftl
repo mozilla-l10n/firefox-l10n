@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Zdźělenku noweje e-mejle přiměrić
+
 customize-alert-description = Wuzwolić, kotre pola so maja we warnowanskim zdźělenju pokazać:
+
 preview-text-checkbox =
     .label = Přehladowy tekst powěsće
     .accesskey = h
+
 subject-checkbox =
     .label = Tema
     .accesskey = T
+
 sender-checkbox =
     .label = Wotpósłar
     .accesskey = o
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Powěsć wo nowym pósće za
     .accesskey = P
+
 open-time-label-after =
     .value = sekundow pokazać

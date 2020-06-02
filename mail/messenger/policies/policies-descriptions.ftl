@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Jeli false, hardwarowe pospěšenje wupinać.
 
 policy-InstallAddonsPermission = Wěstym websydłam dowolić, přidatki instalować.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Wěstym websydłam dowolić, na lokalne dataje wotskazać.
 
 policy-NetworkPrediction = Syćowe předzačitanje (DNS-předzačitanje) zmóžnić abo znjemóžnić.

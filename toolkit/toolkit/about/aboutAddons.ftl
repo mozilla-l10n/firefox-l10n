@@ -600,9 +600,6 @@ updates-heading = Waše aktualizacije rjadować
 discover-heading = Personalizujće swój { -brand-short-name }
 shortcuts-heading = Tastowe skrótšenki rozšěrjenjow rjadować
 
-theme-heading-search-label = Dalše drasty pytać
-extension-heading-search-label = Dalše rozšěrjenja pytać
-
 default-heading-search-label = Dalše přidatki pytać
 addons-heading-search-input =
     .placeholder = Na addons.mozilla.org pytać
