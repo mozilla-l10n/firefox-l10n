@@ -10,6 +10,7 @@ rights-intro-point-5 = အချို့ { -brand-short-name } ကွန်ယ�
 rights-intro-point-5-unbranded = အကယ်လို့ဒီထုတ်ကုန်ဟာ ဝတ်ဆိုက်ဝန်ဆောင်မှူများဖြင့်အလုပ်လုပ်သောအရာမဟုတ်ပါက မည်သည့်အသုံးချနိုင်သောဝန်ဆောင်မှူသဘောတူညီချက်များအားလုံးလင်ခ့်ပေးရန်နေရာမှာ<a data-l10n-name="mozilla-website-services-link">ဝတ်ဆိုက်ဝန်ဆောင်မှူများ</a>section.
 rights-intro-point-6 = အမျိုးအစားသေချာပါရှိသည့် ဗွီဒီယိုများကို ဖွင့်ရန်၊ { -brand-short-name } သည် ဖိုင်အမျိုးအစားနှင့် ပတ်သက်သည့် အခြားအဖွဲ့ထံမှ ဝှက်စာဖြည်အစိတ်အပိုင်းကို ကူးယူဆွဲချပါမည်။
 rights-webservices-header = { -brand-full-name }၏အင်တာနက်ခြေခံသတင်းအချက်အလက်ဝန်ဆောင်မှူ
+rights-webservices = { -brand-full-name } သည်သင်အသုံးပြုရန်အတွက်အောက်တွင်ဖော်ပြထားသောသဘောတူညီချက်များဖြင့် { -brand-short-name } အားသင်အသုံးပြုရန် အတွက် ဝတ်အခြေခံသတင်းအချက်အလက် ဝန်ဆောင်မှူများအားအသုံးပြုသည်("Services")။အကယ်လို့ သင်သည်တစ်ခုသို့မဟုတ် တစ်ခုထက်ပိုသော သဘောတူညီချက်များအားလက်မခံနိုင်ပါက အဆိုပါဝန်ဆောင်မှူသို့ဆားဗစ်အားပိတ်ထားနိုင်ပါသည်။ထိုသို့ပိတ်ပင်ရန်အတွက်လုပ်ဆောင်ချက်အဆင့်ဆင့်အားဖော်ပြထားသည်မှာ ..<a data-l10n-name="mozilla-disable-service-link">ဒီမှာ</a>ဆော့ဝဲ၏ အပြင်အဆင်ဆက်တင်များတွင် အခြားလုပ်ဆောင်ချက်များအား ပိတ်ထားနိုင်ပါသှ်
 rights-locationawarebrowsing = <strong>တည်နေရာအလိုက်အင်တာနက်အသုံးပြုခြင်း</strong>is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:
 rights-locationawarebrowsing-term-1 = URL ဘားတွင်၊ရိုက်ထည့်ပါ<code>about:config</code>
 rights-locationawarebrowsing-term-3 = Double click on the geo.enabled preference
