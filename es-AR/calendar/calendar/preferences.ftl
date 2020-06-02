@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+dateformat-label =
+    .value = Formato de fecha:
+    .accesskey = D
+#   $date (String) - the formatted example date
+dateformat-long =
+    .label = Largo: { $date }
+#   $date (String) - the formatted example date
+dateformat-short =
+    .label = Corto: { $date }
+timezone-label =
+    .value = Huso horario:
 weekstart-label =
     .value = Comenzar la semana en:
     .accesskey = r
@@ -59,6 +70,9 @@ midnight-label =
     .label = Medianoche
 noon-label =
     .label = Mediodía
+location-checkbox =
+    .label = Mostrar ubicación
+    .accesskey = u
 multiweek-legend = Vista multisemana
 number-of-weeks-label =
     .value = Semanas configuradas para mostrar (incluir semanas previas):
@@ -80,6 +94,41 @@ week-6-label =
 previous-weeks-label =
     .value = Semanas previas para mostrar:
     .accesskey = P
+todaypane-legend = Vista de hoy
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = La siguiente sección muestra:
+    .accesskey = u
+event-task-legend = Eventos y tareas
+task-start-label =
+    .value = Fecha de inicio:
+task-start-1-label =
+    .label = Ninguna
+task-start-2-label =
+    .label = Inicio del día
+task-start-3-label =
+    .label = Fin del día
+task-start-4-label =
+    .label = Mañana
+task-start-5-label =
+    .label = Semana que viene
+task-start-6-label =
+    .label = Relativo a la hora actual
+task-start-7-label =
+    .label = Relativo al inicio
+task-start-8-label =
+    .label = Relativo a la próxima hora
+task-due-label =
+    .value = Fecha de fin:
+edit-intab-label =
+    .label = Editar eventos y tareas en una pestaña en lugar de una ventana de diálogo.
+    .accesskey = t
+accessibility-legend = Accesibilidad
+accessibility-colors-label =
+    .label = Optimizar colores para accesibilidad
+    .accesskey = c
 reminder-legend = Cuando se activa una alarma:
 reminder-play-checkbox =
     .label = Reproducir sonido
@@ -96,6 +145,9 @@ reminder-browse-sound-label =
 reminder-dialog-label =
     .label = Mostrar una ventana de alarma
     .accesskey = v
+missed-reminder-label =
+    .label = Mostrar recordatorios perdidos para calendarios grabables
+    .accesskey = M
 reminder-default-legend = Valores por omisión para alarmas
 default-snooze-label =
     .value = Longitud predeterminada del silenciado:
@@ -116,6 +168,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Tiempo predeterminado en que una alarma se activa antes de una tares:
     .accesskey = o
+category-new-label = Nueva categoría
 category-edit-label = Editar categoría
 category-overwrite-title = Advertencia: Nombre duplicado
 category-overwrite = a existe una categoría con ese nombre. ¿Desea sobreescribirla?
