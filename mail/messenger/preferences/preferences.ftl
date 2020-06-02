@@ -5,6 +5,9 @@
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
+pane-calendar-title = Kalender
+category-calendar =
+    .tooltiptext = Kalender
 general-language-and-appearance-header = Sprog og udseende
 general-incoming-mail-header = Indgående meddelelser
 general-files-and-attachment-header = Filer og vedhæftninger
@@ -77,6 +80,17 @@ search-engine-name =
 save-to-label =
     .label = Gem filer i
     .accesskey = f
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Vælg…
+           *[other] Gennemse…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] G
+           *[other] G
+        }
 always-ask-label =
     .label = Spørg mig altid, hvor filer skal gemmes
     .accesskey = S
@@ -108,6 +122,43 @@ cloud-account-description = Tilføj en ny Filelink-tjeneste
 
 ## Privacy Tab
 
+mail-content = Meddelelsesindhold
+remote-content-label =
+    .label = Tillad eksternt indhold i meddelelser
+    .accesskey = T
+exceptions-button =
+    .label = Undtagelser…
+    .accesskey = n
+remote-content-info =
+    .value = Læs mere om problemer med privatliv i forbindelse med eksternt indhold
+web-content = Webindhold
+history-label =
+    .label = Husk websteder og links jeg har besøgt
+    .accesskey = H
+cookies-label =
+    .label = Accepter cookies fra websteder
+    .accesskey = A
+third-party-label =
+    .value = Accepter tredjeparts cookies:
+    .accesskey = c
+third-party-always =
+    .label = Altid
+third-party-never =
+    .label = Aldrig
+third-party-visited =
+    .label = Fra besøgte
+keep-label =
+    .value = Behold indtil:
+    .accesskey = B
+keep-expire =
+    .label = De udløber
+keep-close =
+    .label = Jeg lukker { -brand-short-name }
+keep-ask =
+    .label = Spørg mig hver gang
+cookies-button =
+    .label = Vis cookies…
+    .accesskey = V
 passwords-description = { -brand-short-name } kan huske adgangskoder til alle dine konti, så du ikke behøver at indtaste dem.
 passwords-button =
     .label = Gemte adgangskoder…
@@ -176,6 +227,28 @@ idle-time-label = minutter uden aktivitet
 away-message-label =
     .label = og vis denne meddelelse:
     .accesskey = m
+notification-label = Når meddelelser til dig ankommer:
+show-notification-label =
+    .label = Vis en besked
+    .accesskey = V
+notification-all =
+    .label = med afsenderens navn og en forhåndsvisning af indholdet
+notification-name =
+    .label = med afsenderens navn og intet andet
+notification-empty =
+    .label = uden info fra mailen
+chat-play-sound-label =
+    .label = Afspil lyd
+    .accesskey = l
+chat-play-button =
+    .label = Afspil
+    .accesskey = A
+chat-custom-sound-label =
+    .label = Brug denne lydfil
+    .accesskey = B
+chat-browse-sound-button =
+    .label = Gennemse…
+    .accesskey = G
 
 ## Preferences UI Search Results
 
