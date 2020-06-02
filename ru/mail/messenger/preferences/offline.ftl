@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = Параметры автономной работы
+autodetect-online-label =
+    .label = Автоматически выбирать обнаруженное состояние подключения
+    .accesskey = м
+startup-label = Ручной выбор состояния при запуске:
 status-radio-remember =
     .label = Использовать режим работы предыдущего сеанса
     .accesskey = ы
+status-radio-ask =
+    .label = Запросить состояние подключения
+    .accesskey = о
+status-radio-always-online =
+    .label = Подключён к сети
+    .accesskey = ю
+status-radio-always-offline =
+    .label = Автономная работа
+    .accesskey = в
 going-online-label = Отправить неотправленные сообщения при подключении?
 going-online-auto =
     .label = Да
