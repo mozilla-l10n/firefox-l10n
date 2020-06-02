@@ -60,3 +60,6 @@ proxy-password-prompt =
 proxy-remote-dns =
     .label = SOCKS v5 қолдану кезінде DNS сұранымдарын прокси арқылы жіберу
     .accesskey = д
+proxy-enable-doh =
+    .label = HTTPS арқылы DNS іске қосу
+    .accesskey = е
