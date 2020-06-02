@@ -5,6 +5,12 @@
 attachment-reminder-window =
     .title = Stikord for påmindelse om vedhæftning af fil
 attachment-reminder-label = { -brand-short-name } vil advare dig ved manglende vedhæftning af fil, hvis du er ved at sende en meddelelse, der indeholder et af disse ord.
+keyword-new-button =
+    .label = Nyt…
+    .accesskey = N
+keyword-edit-button =
+    .label = Rediger…
+    .accesskey = R
 keyword-remove-button =
     .label = Slet
     .accesskey = S
