@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "权限…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "您拥有如下的权限：">
+<!ENTITY folderOtherUsers.label                  "其他有权访问此文件夹的人：">
 <!ENTITY folderType.label                        "文件夹类型：">
 
 <!ENTITY folderQuotaTab.label                    "配额">
