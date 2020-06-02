@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Protyka
+calendar-title-reminder = Dopomnjeća
+calendar-title-category = Kategorije
 dateformat-label =
     .value = Datumowy tekstowy format:
     .accesskey = D
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Čisło tydźenja w napohladach a miniměsacu pokazać
     .accesskey = t
+workdays-label =
+    .value = Dźěłowe dny:
 day-1-checkbox =
     .label = Nj
     .accesskey = N
@@ -70,6 +75,9 @@ midnight-label =
     .label = Połnóc
 noon-label =
     .label = Připołdnjo
+location-checkbox =
+    .label = Městno pokazać
+    .accesskey = M
 multiweek-legend = Wjacetydźenjowy napohlad
 number-of-weeks-label =
     .value = Ličba tydźenjow, kotraž ma so pokazać (inkluziwnje předchadnych tydźenjow):
@@ -92,7 +100,16 @@ previous-weeks-label =
     .value = Ličba předchadnych tydźenjow:
     .accesskey = c
 todaypane-legend = Dźensniši plan
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Wotrězk Přichodne pokazuje:
+    .accesskey = P
 event-task-legend = Podawki a nadawki
+default-length-label =
+    .value = Standardna dołhosć za podawki a nadawki:
+    .accesskey = S
 task-start-label =
     .value = Spočatny datum:
 task-start-1-label =
@@ -130,12 +147,18 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Standardny zynk wužiwać
     .accesskey = S
+reminder-custom-sound-label =
+    .label = Slědowacu zynkowu dataju wužiwać
+    .accesskey = S
 reminder-browse-sound-label =
     .label = Přepytać…
     .accesskey = P
 reminder-dialog-label =
     .label = Dopomnjenski dialog pokazać
     .accesskey = m
+missed-reminder-label =
+    .label = Zapasene dopomnjeća za popisujomne protyki pokazać
+    .accesskey = k
 reminder-default-legend = Standardne hódnoty za dopomnjeća
 default-snooze-label =
     .value = Čas před nowym dopomnjećom:
