@@ -12,3 +12,6 @@
 
 fxa-toolbar-sync-now =
     .label = Ipatulad Ita
+
+## What's New panel in App menu.
+
