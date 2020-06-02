@@ -1,0 +1,27 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+cookies-window-dialog =
+    .title = Çerezler
+    .style = width: 36em;
+window-close-key =
+    .key = w
+window-focus-search-key =
+    .key = f
+window-focus-search-alt-key =
+    .key = k
+filter-search-label =
+    .value = Arama:
+    .accesskey = A
+treecol-site-header =
+    .label = Site
+props-name-label =
+    .value = Ad:
+props-value-label =
+    .value = İçerik:
+props-path-label =
+    .value = Yolu:
+cookie-close-button =
+    .label = Kapat
+    .accesskey = K
