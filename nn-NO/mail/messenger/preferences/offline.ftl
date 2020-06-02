@@ -14,3 +14,6 @@ going-offline-auto =
 going-offline-not =
     .label = Nei
     .accesskey = e
+going-offline-ask =
+    .label = Spør meg
+    .accesskey = S

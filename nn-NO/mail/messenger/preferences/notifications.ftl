@@ -5,6 +5,15 @@
 notifications-dialog-window =
     .title = Tilpass ny e-postlyd
 customize-alert-description = Vel kva for felt som skal visast i varselmeldinga:
+preview-text-checkbox =
+    .label = Førehandsvising av meldingstekst
+    .accesskey = F
+subject-checkbox =
+    .label = Emne
+    .accesskey = E
+sender-checkbox =
+    .label = Avsendar
+    .accesskey = A
 
 ## Note: open-time-label-before is displayed first, then there's a field where
 ## the user can enter a number, and open-time-label-after is displayed at the end

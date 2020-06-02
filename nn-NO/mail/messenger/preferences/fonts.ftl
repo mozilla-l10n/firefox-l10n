@@ -49,6 +49,8 @@ font-language-group-armenian =
     .label = Armensk
 font-language-group-bengali =
     .label = Bengali
+font-language-group-canadian =
+    .label = Kanadisk
 font-language-group-ethiopic =
     .label = Etiopisk
 font-language-group-georgian =
@@ -64,14 +66,21 @@ font-language-group-malayalam =
 
 ## Default font type
 
+font-monospace-label =
+    .value = Fast teiknavstand:
+    .accesskey = F
 min-size-none =
     .label = Ingen
 
 ## Fonts in message
 
+font-control-legend = Skrifttypekontroll
 use-document-fonts-checkbox =
     .label = La meldingar bruke andre skrifttypar
     .accesskey = L
+use-fixed-width-plain-checkbox =
+    .label = Bruk skrifttype med fast teiknavstand for meldingar i rein tekst
+    .accesskey = B
 
 ## Language settings
 
