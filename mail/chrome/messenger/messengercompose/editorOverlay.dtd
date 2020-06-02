@@ -292,6 +292,7 @@
 <!ENTITY findToolbarCmd.tooltip "Vind teks in bladsy">
 <!ENTITY spellToolbarCmd.label "Spel">
 <!ENTITY spellToolbarCmd.tooltip "Toets spelling van gemerkte teks of hele bladsy">
+
 <!ENTITY imageToolbarCmd.label "Prent">
 <!ENTITY imageToolbarCmd.tooltip "Voeg nuwe prent in of redigeer gemerkte prent se eienskappe">
 <!ENTITY hruleToolbarCmd.label "H.streep">

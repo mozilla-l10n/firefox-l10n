@@ -4,7 +4,9 @@
 
 system-integration-title =
     .title = Stelselintegrasie
+
 default-client-intro = Gebruik { -brand-short-name } as die verstekkliënt vir:
+
 checkbox-email-label =
     .label = E-pos
     .tooltiptext = { unset-default-tooltip }
@@ -14,6 +16,7 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = Nuusvoere
     .tooltiptext = { unset-default-tooltip }
+
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 system-search-engine-name =
@@ -22,9 +25,11 @@ system-search-engine-name =
         [windows] Windowssoektog
        *[other] { "" }
     }
+
 system-search-integration-label =
     .label = Laat { system-search-engine-name } toe om boodskappe te deursoek
     .accesskey = b
+
 check-on-startup-label =
     .label = Kontroleer altyd wanneer { -brand-short-name } begin word
     .accesskey = K

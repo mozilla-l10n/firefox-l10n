@@ -5,6 +5,7 @@
 fonts-language-legend =
     .value = Fonte vir:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Proporsioneel:
     .accesskey = P
@@ -58,29 +59,37 @@ font-language-group-malayalam =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monospasie:
     .accesskey = M
+
 font-min-size-label =
     .value = Minimum fontgrootte:
     .accesskey = r
+
 min-size-none =
     .label = Geen
 
 ## Fonts in message
 
 font-control-legend = Fontbeheer
+
 use-document-fonts-checkbox =
     .label = Laat boodskappe toe om ander fonte te gebruik
     .accesskey = a
+
 use-fixed-width-plain-checkbox =
     .label = Gebruik vastewydte-font vir skoonteks-boodskappe
     .accesskey = v
@@ -90,6 +99,8 @@ use-fixed-width-plain-checkbox =
 font-outgoing-email-label =
     .value = Uitgaande pos:
     .accesskey = U
+
 font-incoming-email-label =
     .value = Inkomende pos:
     .accesskey = I
+

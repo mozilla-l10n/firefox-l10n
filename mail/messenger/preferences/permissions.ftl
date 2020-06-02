@@ -4,24 +4,32 @@
 
 window-close-key =
     .key = w
+
 block-button =
     .label = Blokkeer
     .accesskey = B
+
 allow-button =
     .label = Toelaat
     .accesskey = T
+
 treehead-sitename-label =
     .label = Werf
+
 treehead-status-label =
     .label = Status
+
 remove-site-button =
     .label = Verwyder werf
     .accesskey = V
+
 remove-all-site-button =
     .label = Verwyder alle werwe
     .accesskey = e
+
 permission-can-label = Toelaat
 permission-can-session-label = Toelaat vir sessie
 permission-cannot-label = Blokkeer
+
 invalid-uri-message = Tik 'n geldige gasheernaam in
 invalid-uri-title = Ongeldige gasheernaam ingetik
