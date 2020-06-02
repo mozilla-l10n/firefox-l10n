@@ -5,6 +5,8 @@
 #   $date (String) - the formatted example date
 dateformat-long =
     .label = Dài: { $date }
+timezone-label =
+    .value = Múi giờ:
 weekstart-label =
     .value = Bắt đầu tuần vào:
     .accesskey = B
@@ -82,10 +84,41 @@ week-6-label =
 previous-weeks-label =
     .value = Số lượng tuần trước đó mà bạn muốn hiển thị:
     .accesskey = S
+todaypane-legend = Bảng ngày hôm nay
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Phần sắp tới cho thấy:
+    .accesskey = U
+event-task-legend = Sự kiện và nhiệm vụ
 task-start-label =
     .value = Ngày bắt đầu:
+task-start-1-label =
+    .label = Không có
+task-start-2-label =
+    .label = Ngày bắt đầu
+task-start-3-label =
+    .label = Ngày kết thúc
+task-start-4-label =
+    .label = Ngày mai
+task-start-5-label =
+    .label = Tuần tới
+task-start-6-label =
+    .label = Liên quan đến thời gian hiện tại
+task-start-7-label =
+    .label = Liên quan đến bắt đầu
+task-start-8-label =
+    .label = Liên quan đến giờ tiếp theo
 task-due-label =
     .value = Ngày đến hạn:
+edit-intab-label =
+    .label = Chỉnh sửa các sự kiện và tác vụ trong một thẻ thay vì trong cửa sổ hộp thoại.
+    .accesskey = t
+accessibility-legend = Trợ năng
+accessibility-colors-label =
+    .label = Tối ưu hóa màu sắc cho khả năng tiếp cận
+    .accesskey = c
 reminder-legend = Khi đổ chuông báo:
 reminder-play-alarm-button =
     .label = Phát
