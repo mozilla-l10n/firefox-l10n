@@ -94,6 +94,7 @@ week-6-label =
 previous-weeks-label =
     .value = 显示之前周数：
     .accesskey = P
+todaypane-legend = 今日窗格
 # Note: "Upcoming" is the name of a section and the translation must match the
 # translation of that section name (calendar.upcoming.button.label). Also,
 # it should be upper case (as a proper name) if the target language permits.
