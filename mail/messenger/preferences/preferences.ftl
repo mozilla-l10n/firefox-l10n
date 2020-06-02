@@ -11,6 +11,9 @@ category-compose =
 pane-chat-title = Sgwrsio
 category-chat =
     .tooltiptext = Sgwrsio
+pane-calendar-title = Calendr
+category-calendar =
+    .tooltiptext = Calendr
 general-language-and-appearance-header = Iaith a Gwedd
 general-incoming-mail-header = Derbyn E-byst
 general-files-and-attachment-header = Ffeiliau ac Atodiadau
@@ -99,6 +102,18 @@ mail-play-button =
 animated-alert-label =
     .label = Dangos rhybudd
     .accesskey = D
+customize-alert-label =
+    .label = Cyfaddasu…
+    .accesskey = C
+tray-icon-label =
+    .label = Dangos eicon cilfach
+    .accesskey = c
+mail-custom-sound-label =
+    .label = Defnyddio'r ffeil sain ganlynol
+    .accesskey = D
+mail-browse-sound-button =
+    .label = Pori…
+    .accesskey = P
 enable-gloda-search-label =
     .label = Galluogi Chwilio a Mynegeio Eang
     .accesskey = G
@@ -113,6 +128,9 @@ system-integration-legend = Integreiddio System
 always-check-default =
     .label = Gwirio bob tro os { -brand-short-name } yw'r rhaglen e-bost rhagosodedig wrth gychwyn
     .accesskey = G
+check-default-button =
+    .label = Gwiriwch Nawr…
+    .accesskey = N
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -124,14 +142,26 @@ search-engine-name =
 search-integration-label =
     .label = Caniatáu i { search-engine-name } chwilio drwy'r negeseuon
     .accesskey = C
+config-editor-button =
+    .label = Golygydd Ffurfweddu…
+    .accesskey = F
 return-receipts-description = Pennu sut mae { -brand-short-name } yn trin derbynebau
+return-receipts-button =
+    .label = Derbynebau Dychwelyd…
+    .accesskey = D
 use-service =
     .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
     .accesskey = e
 networking-legend = Cysylltiad
 proxy-config-description = Ffurfweddu sut mae { -brand-short-name } yn cysylltu â'r Rhyngrwyd
+network-settings-button =
+    .label = Gosodiadau…
+    .accesskey = G
 offline-legend = All-lein
 offline-settings = Ffurfweddi gosodiadau all-lein
+offline-settings-button =
+    .label = All-lein…
+    .accesskey = l
 diskspace-legend = Lle ar Ddisg
 offline-compact-folder =
     .label = Cywasgu pob ffolder pan fydd yn cadw dros gyfanswm o
@@ -143,6 +173,10 @@ compact-folder-size =
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Defnyddio hyd at
+    .accesskey = D
+use-cache-after = MB o le disg ar gyfer y storfa
 
 ##
 
@@ -155,6 +189,12 @@ default-font-label =
 default-size-label =
     .value = Maint:
     .accesskey = M
+font-options-button =
+    .label = Uwch…
+    .accesskey = U
+color-options-button =
+    .label = Lliwiau…
+    .accesskey = L
 display-width-legend = Negeseuon Testun Plaen
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -166,6 +206,8 @@ style-label =
     .accesskey = A
 regular-style-item =
     .label = Arferol
+bold-style-item =
+    .label = Trwm
 italic-style-item =
     .label = Italig
 bold-italic-style-item =
@@ -179,14 +221,31 @@ bigger-size-item =
     .label = Mwy
 smaller-size-item =
     .label = Llai
+quoted-text-color =
+    .label = Lliw:
+    .accesskey = L
 search-input =
     .placeholder = Chwilio
+type-column-label =
+    .label = Math o Gynnwys
+    .accesskey = M
 action-column-label =
     .label = Gweithred
     .accesskey = G
 save-to-label =
     .label = Cadw ffeiliau yn
     .accesskey = C
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Dewis…
+           *[other] Pori…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] D
+           *[other] P
+        }
 always-ask-label =
     .label = Gofyn i mi lle i gadw pob ffeil
     .accesskey = G
@@ -235,6 +294,9 @@ language-popup-label =
     .value = Iaith:
     .accesskey = I
 download-dictionaries-link = Llwytho i Lawr Rhagor o Eiriaduron
+font-label =
+    .value = Ffont:
+    .accesskey = F
 font-color-label =
     .value = Lliw Testun:
     .accesskey = L
@@ -245,6 +307,9 @@ restore-html-label =
     .label = Adfer y Rhagosodiad
     .accesskey = R
 format-description = Ffurfweddi ymddygiad fformat testun
+send-options-label =
+    .label = Dewisiadau Anfon…
+    .accesskey = A
 autocomplete-description = Wrth gyfeirio negeseuon, chwilio am gofnodion cyfatebol yn:
 ab-label =
     .label = Llyfrau Cyfeiriadau Lleol
@@ -266,10 +331,17 @@ cloud-account-description = Ychwanegu gwasanaeth storio Filelink newydd
 
 ## Privacy Tab
 
+passwords-description = Mae { -brand-short-name } yn gallu cofio cyfrineiriau eich holl cyfrifon.
+passwords-button =
+    .label = Cyfrineiriau sydd wedi'u cadw…
+    .accesskey = C
 master-password-description = Mae Prif Gyfrinair yn diogelu eich holl gyfrineiriau, ond mae'n rhaid i chi ei roi unwaith bob sesiwn.
 master-password-label =
     .label = Defnyddio prif gyfrinair
     .accesskey = p
+master-password-button =
+    .label = Newid y Prif Gyfrinair…
+    .accesskey = N
 junk-label =
     .label = Pan fyddai'n marcio negeseuon fel sbam:
     .accesskey = P
@@ -291,6 +363,8 @@ junk-log-button =
 reset-junk-button =
     .label = Ailosod Data Hyfforddi
     .accesskey = A
+phishing-description = Mae { -brand-short-name } yn gallu dadansoddi negeseuon am dwyll e-bost drwy edrych am dechnegau cyffredin i'ch twyllo.
+antivirus-description = Mae { -brand-short-name } yn gallu ei gwneud yn hawdd i feddalwedd gwrth firws ddadansoddi negeseuon e-byst sy'n cael eu derbyn am firysau cyn eu storio'n lleol.
 certificate-description = Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:
 certificate-ask =
     .label = Gofyn i mi bob tro
@@ -310,6 +384,9 @@ offline-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Hysbysu fy nghysylltiadau fy mod yn Segur ar ôl
+    .accesskey = S
 idle-time-label = munud o seibiant
 
 ##
