@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-title =
+    .title = Integração no sistema
+unset-default-tooltip = Não pode cancelar a seleção do { -brand-short-name } como aplicação predefinida no { -brand-short-name }. Para definir outra aplicação como predefinida tem de utilizar a janela 'Definir como predefinido'.
 checkbox-newsgroups-label =
     .label = Grupos de notícias
     .tooltiptext = { unset-default-tooltip }
