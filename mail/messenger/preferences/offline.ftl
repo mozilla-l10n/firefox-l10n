@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = Offline-indstillinger
+autodetect-online-label =
+    .label = Brug automatisk den konstaterede online-tilstand
+    .accesskey = B
+startup-label = Tilstand ved opstart:
 status-radio-remember =
     .label = Husk sidste online-status
     .accesskey = H
+status-radio-ask =
+    .label = Spørg mig efter online-status
+    .accesskey = m
+status-radio-always-online =
+    .label = Online
+    .accesskey = o
+status-radio-always-offline =
+    .label = Start altid offline
+    .accesskey = f
 going-online-label = Send meddelelser i Udbakke, når jeg går online?
 going-online-auto =
     .label = Ja
