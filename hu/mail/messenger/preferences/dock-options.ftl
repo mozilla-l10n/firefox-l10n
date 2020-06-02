@@ -17,3 +17,4 @@ count-unread-messages-radio =
 count-new-messages-radio =
     .label = Új üzenetek száma
     .accesskey = n
+notification-settings-info = A kitűzőt a Rendszerbeállítások Értesítés lapján tudja letiltani.
