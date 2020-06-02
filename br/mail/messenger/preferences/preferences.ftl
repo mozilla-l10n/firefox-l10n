@@ -47,6 +47,7 @@ update-in-progress-ok-button = &Dilezel
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
+addons-button = Askouezhioù & Neuzioù
 
 ## OS Authentication dialog
 
@@ -106,7 +107,11 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Gweredekaat ar c'hlask hag an ibiliañ hollek
     .accesskey = h
+datetime-formatting-legend = Mentrezh an deiziad hag an eur
 language-selector-legend = Yezh
+allow-hw-accel =
+    .label = Implijout ar buanadur periant pa vez tu
+    .accesskey = I
 store-type-label =
     .value = Rizh Kadaviñ Kemennadenn evit kontoù nevez :
     .accesskey = R
@@ -146,9 +151,11 @@ return-receipts-description = Despizañ penaos e dornatao { -brand-short-name } 
 return-receipts-button =
     .label = Testenioù-degemer…
     .accesskey = r
+update-app-legend = Hizivadurioù evit { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Handelv { $version }
+allow-description = Aotren { -brand-short-name } da
 automatic-updates-label =
     .label = Staliañ an hizivadurioù ent emgefreek (erbedet : diogelroez gwellaet)
     .accesskey = e
@@ -161,6 +168,7 @@ update-history-button =
 use-service =
     .label = Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù
     .accesskey = v
+cross-user-udpate-warning = An arventenn-mañ a vo arloet war an holl gontoù Windows hag an holl arladoù { -brand-short-name } a arver ar staliadur { -brand-short-name }-mañ.
 networking-legend = Kennask
 proxy-config-description = Despizañ penaos e kennasko { -brand-short-name } ouzh internet
 network-settings-button =
@@ -189,6 +197,9 @@ use-cache-after = Me a egor evit ar grubuilh
 
 ##
 
+smart-cache-label =
+    .label = Tremen dreist ardeiñ emgefreek ar grubuilh
+    .accesskey = d
 clear-cache-button =
     .label = Skarzhañ diouzhtu
     .accesskey = S
@@ -343,6 +354,12 @@ download-dictionaries-link = Pellgargañ muioc'h a c'heriadurioù
 font-label =
     .value = Nodrezh :
     .accesskey = N
+font-size-label =
+    .value = Ment :
+    .accesskey = M
+default-colors-label =
+    .label = Arverañ livioù dre ziouer al lenner
+    .accesskey = A
 font-color-label =
     .value = Liv an destenn :
     .accesskey = L
@@ -356,6 +373,9 @@ default-format-label =
     .label = Arverañ ar mentrezh Rannbennad e-lec'h ar C'horf Testenn dre ziouer
     .accesskey = R
 format-description = Kefluniañ emzalc'h ar mentrezh testenn
+send-options-label =
+    .label = Dibarzhioù kas…
+    .accesskey = k
 autocomplete-description = Pa lakait chomlec'h ar c'hemennadennoù, sellit ouzh an enankadoù a glot e :
 ab-label =
     .label = Karned-chomlec'hioù lec'hel
@@ -371,6 +391,14 @@ edit-directories-label =
 email-picker-label =
     .label = Ouzhpennañ ent emgefreek ar chomlec'hioù eus ar posteloù kaset d'am :
     .accesskey = t
+default-directory-label =
+    .value = Kavlec'hiad dre ziouer er prenestr karned chomlec'hioù:
+    .accesskey = K
+default-last-label =
+    .none = Kavlec'hiad arveret da ziwezhañ
+attachment-label =
+    .label = Gwiriañ ar c'henstagadurioù a vank
+    .accesskey = v
 attachment-options-label =
     .label = Gerioù-alc'hwez…
     .accesskey = G
