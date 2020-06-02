@@ -2,9 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Chiudi
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opzioni
+           *[other] Preferenze
+        }
 pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Composizione
+category-compose =
+    .tooltiptext = Composizione
+pane-chat-title = Chat
+category-chat =
+    .tooltiptext = Chat
 pane-calendar-title = Calendario
 category-calendar =
     .tooltiptext = Calendario
@@ -136,6 +150,7 @@ enable-gloda-search-label =
     .label = Attiva la ricerca globale e l'indicizzazione
     .accesskey = E
 datetime-formatting-legend = Formattazione data e ora
+language-selector-legend = Lingua
 allow-hw-accel =
     .label = Utilizza l'accelerazione hardware quando disponibile
     .accesskey = h
