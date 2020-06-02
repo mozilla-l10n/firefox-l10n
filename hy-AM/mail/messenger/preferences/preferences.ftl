@@ -76,6 +76,9 @@ restore-default-label =
     .label = Վերականգնել հիմնականը
     .accesskey = R
 new-message-arrival = Նոր նամակ ստանալիս.
+animated-alert-label =
+    .label = Ցուցադրել ազդի ժամանակ
+    .accesskey = Ց
 customize-alert-label =
     .label = Կարգավորել…
     .accesskey = C
@@ -161,6 +164,10 @@ color-options-button =
     .label = Գույներ…
     .accesskey = C
 display-width-legend = Սովորական տեքստային նամակ
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Ցուցարդել զգացմունքները որպես գրաֆիկա
+    .accesskey = e
 display-text-label = Մեջբերված սովորական տեքստային նամակները ցուցադրելիս.
 style-label =
     .value = Ոճը.
@@ -169,6 +176,9 @@ regular-style-item =
     .label = Կանոնավոր
 italic-style-item =
     .label = Շեղ
+size-label =
+    .value = Չափը.
+    .accesskey = z
 regular-size-item =
     .label = Կանոնավոր
 bigger-size-item =
@@ -324,6 +334,11 @@ certificate-ask =
 
 ## Chat Tab
 
+startup-label =
+    .value = { -brand-short-name } -ի մեկնարկի ժամանակ`
+    .accesskey = s
+offline-label =
+    .label = Պահել Զրույցի իմ հաշիվը անցանց
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -331,6 +346,9 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Տեղեկացնել իմ կոնտակներին, որ ես Թաքնված եմ՝
+    .accesskey = ի
 idle-time-label = րոպե պասսիվ լինելուց հետո
 
 ##
