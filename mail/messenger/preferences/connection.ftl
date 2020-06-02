@@ -21,3 +21,6 @@ connection-dns-over-https-custom-label = Tùy chỉnh
 proxy-type-no =
     .label = Không dùng proxy
     .accesskey = y
+proxy-socks5-label =
+    .label = SOCKS v5
+    .accesskey = v
