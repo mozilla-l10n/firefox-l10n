@@ -4,16 +4,22 @@
 
 connection-dns-over-https-url-resolver = Uporabi ponudnika
     .accesskey = U
-
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (privzet)
     .tooltiptext = Uporabi privzeti URL za razreševanje DNS preko HTTPS
-
 connection-dns-over-https-url-custom =
     .label = Po meri
     .accesskey = P
     .tooltiptext = Vnesite želeni URL za razreševanje DNS preko HTTPS
-
 connection-dns-over-https-custom-label = Po meri
+proxy-socks-label =
+    .value = Gostitelj SOCKS:
+    .accesskey = O
+proxy-socks4-label =
+    .label = SOCKS v4
+    .accesskey = 4
+proxy-socks5-label =
+    .label = SOCKS v5
+    .accesskey = 5
