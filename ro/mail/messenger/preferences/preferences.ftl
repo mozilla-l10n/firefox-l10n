@@ -8,6 +8,9 @@ category-general =
 pane-compose-title = Redactare
 category-compose =
     .tooltiptext = Redactare
+pane-chat-title = Chat
+category-chat =
+    .tooltiptext = Chat
 pane-calendar-title = Calendar
 category-calendar =
     .tooltiptext = Calendar
@@ -97,6 +100,10 @@ customize-alert-label =
 enable-gloda-search-label =
     .label = Activează căutarea globală și indexarea
     .accesskey = i
+scrolling-legend = Derulare
+smooth-scrolling-label =
+    .label = Folosește derularea lină
+    .accesskey = o
 system-integration-legend = Integrare cu sistemul
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
@@ -106,6 +113,9 @@ search-engine-name =
         [windows] Căutare Windows
        *[other] { "" }
     }
+search-integration-label =
+    .label = Permite la { search-engine-name } să caute în mesaje
+    .accesskey = P
 config-editor-button =
     .label = Editor de configurație…
     .accesskey = g
@@ -117,6 +127,8 @@ network-settings-button =
     .label = Setări…
     .accesskey = S
 diskspace-legend = Spațiu pe disc
+compact-folder-size =
+    .value = MB în total
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -125,6 +137,7 @@ diskspace-legend = Spațiu pe disc
 
 ##
 
+fonts-legend = Fonturi și culori
 default-font-label =
     .value = Font implicit:
     .accesskey = F
@@ -151,6 +164,9 @@ bigger-size-item =
     .label = Mai mare
 smaller-size-item =
     .label = Mai mic
+quoted-text-color =
+    .label = Culoare:
+    .accesskey = l
 search-input =
     .placeholder = Căutare
 type-column-label =
@@ -223,8 +239,11 @@ edit-directories-label =
 attachment-options-label =
     .label = Cuvinte cheie…
     .accesskey = C
+enable-cloud-share =
+    .label = Oferă partajarea fișierelor mai mari decât
 cloud-share-size =
     .value = MB
+cloud-account-description = Adaugă un serviciu nou de stocare Filelink
 
 ## Privacy Tab
 
@@ -250,6 +269,10 @@ certificate-description = Când un server cere certificatul meu personal:
 
 ## Chat Tab
 
+offline-label =
+    .label = Păstrează-mi conturile de chat deconectate
+auto-connect-label =
+    .label = Conectează-mă automat la conturile de chat
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -257,9 +280,13 @@ certificate-description = Când un server cere certificatul meu personal:
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-time-label = minute de inactivitate
 
 ##
 
+away-message-label =
+    .label = și setează-mi starea ca Plecat cu acest mesaj de stare:
+    .accesskey = s
 
 ## Preferences UI Search Results
 
