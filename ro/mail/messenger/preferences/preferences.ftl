@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opțiuni
+           *[other] Preferințe
+        }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -84,27 +90,54 @@ focus-search-shortcut =
 focus-search-shortcut-alt =
     .key = k
 general-legend = Pagina de pornire { -brand-short-name }
+location-label =
+    .value = Locație:
+    .accesskey = A
 restore-default-label =
     .label = Restaurează
     .accesskey = R
+default-search-engine = Motor de căutare implicit
 new-message-arrival = Când sosesc noi mesaje:
 mail-play-button =
     .label = Redă
     .accesskey = R
+change-dock-icon = Schimbă preferințele pentru pictograma aplicației
+app-icon-options =
+    .label = Opțiuni pentru iconița aplicației…
+    .accesskey = n
 animated-alert-label =
     .label = Afișează o alertă
     .accesskey = A
 customize-alert-label =
     .label = Personalizează…
     .accesskey = P
+mail-browse-sound-button =
+    .label = Răsfoiește…
+    .accesskey = f
 enable-gloda-search-label =
     .label = Activează căutarea globală și indexarea
     .accesskey = i
+allow-hw-accel =
+    .label = Folosește accelerarea hardware când este disponibilă
+    .accesskey = h
+store-type-label =
+    .value = Tipul de stocare al mesajelor pentru conturile noi:
+    .accesskey = T
+mbox-store-label =
+    .label = Fișier per dosar (mbox)
+maildir-store-label =
+    .label = Fișiere per mesaj (maildir)
 scrolling-legend = Derulare
 smooth-scrolling-label =
     .label = Folosește derularea lină
     .accesskey = o
 system-integration-legend = Integrare cu sistemul
+always-check-default =
+    .label = Verifică întotdeauna la pornire dacă { -brand-short-name } este clientul implicit de e-mail
+    .accesskey = a
+check-default-button =
+    .label = Verifică acum…
+    .accesskey = V
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -122,10 +155,22 @@ config-editor-button =
 return-receipts-button =
     .label = Confirmări de primire…
     .accesskey = r
+automatic-updates-label =
+    .label = Instalează actualizări automat (recomandat: securitate sporită)
+    .accesskey = a
+check-updates-label =
+    .label = Caută actualizări, dar lasă-mă pe mine să decid dacă să le instalez
+    .accesskey = C
+update-history-button =
+    .label = Afișează istoricul actualizărilor
+    .accesskey = p
 networking-legend = Conexiune
 network-settings-button =
     .label = Setări…
     .accesskey = S
+offline-settings-button =
+    .label = Offline…
+    .accesskey = O
 diskspace-legend = Spațiu pe disc
 compact-folder-size =
     .value = MB în total
@@ -134,9 +179,16 @@ compact-folder-size =
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Utilizează până la
+    .accesskey = U
+use-cache-after = MB de spațiu pentru cache
 
 ##
 
+clear-cache-button =
+    .label = Șterge acum
+    .accesskey = c
 fonts-legend = Fonturi și culori
 default-font-label =
     .value = Font implicit:
@@ -144,6 +196,12 @@ default-font-label =
 default-size-label =
     .value = Mărime:
     .accesskey = M
+font-options-button =
+    .label = Avansat…
+    .accesskey = A
+color-options-button =
+    .label = Culori…
+    .accesskey = C
 display-width-legend = Mesaje text
 display-text-label = Pentru afișarea mesajelor text citate:
 style-label =
@@ -178,19 +236,42 @@ action-column-label =
 save-to-label =
     .label = Salvează fișierele în
     .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Alege…
+           *[other] Răsfoiește…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] f
+        }
+always-ask-label =
+    .label = Întreabă-mă întotdeauna unde să se salveze fișierele
+    .accesskey = a
 delete-tag-button =
     .label = Șterge
     .accesskey = t
+mark-read-no-delay =
+    .label = Imediat la afișare
+    .accesskey = d
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+seconds-label = secunde
 
 ##
 
+close-move-delete =
+    .label = Închide fereastra sau fila cu mesajul la mutare sau ștergere
+    .accesskey = c
 
 ## Compose Tab
 
+as-attachment-label =
+    .label = Ca atașament
 extension-label =
     .label = adaugă extensia la numele fișierului
     .accesskey = f
@@ -236,6 +317,12 @@ directories-none-label =
 edit-directories-label =
     .label = Editează directoarele…
     .accesskey = E
+email-picker-label =
+    .label = Adaugă automat adresele de e-mail din mesajele trimise la:
+    .accesskey = a
+attachment-label =
+    .label = Verifică dacă lipsesc atașamentele
+    .accesskey = m
 attachment-options-label =
     .label = Cuvinte cheie…
     .accesskey = C
@@ -247,9 +334,41 @@ cloud-account-description = Adaugă un serviciu nou de stocare Filelink
 
 ## Privacy Tab
 
+mail-content = Conținutul mesajelor
+exceptions-button =
+    .label = Excepții…
+    .accesskey = E
+remote-content-info =
+    .value = Află mai multe despre problemele de confidențialitate ale conținutului de la distanță
+web-content = Conținut web
+cookies-label =
+    .label = Acceptă cookie-uri de la site-uri
+    .accesskey = c
+third-party-always =
+    .label = Întotdeauna
+third-party-never =
+    .label = Niciodată
+third-party-visited =
+    .label = De la site-urile vizitate
+keep-label =
+    .value = Păstrează-le până când:
+    .accesskey = K
+keep-expire =
+    .label = expiră
+keep-ask =
+    .label = întreabă de fiecare dată
+cookies-button =
+    .label = Afișează cookie-urile…
+    .accesskey = S
 passwords-button =
     .label = Parole salvate…
     .accesskey = s
+master-password-label =
+    .label = Folosește o parolă generală
+    .accesskey = U
+master-password-button =
+    .label = Schimbă parola generală…
+    .accesskey = c
 junk-label =
     .label = Când marchez mesaje ca nesolicitate:
     .accesskey = C
@@ -262,10 +381,25 @@ junk-delete-label =
 junk-read-label =
     .label = Marchează mesajele detectate ca nesolicitate ca fiind citite
     .accesskey = M
+junk-log-label =
+    .label = Activează jurnalizarea filtrării adaptive de mesaje nesolicitate
+    .accesskey = e
 reset-junk-button =
     .label = Resetează datele de antrenament
     .accesskey = R
+antivirus-label =
+    .label = Permite programelor antivirus să pună în carantină individual mesajele primite
+    .accesskey = a
 certificate-description = Când un server cere certificatul meu personal:
+certificate-auto =
+    .label = Selectează automat unul
+    .accesskey = S
+certificate-ask =
+    .label = Întreabă-mă de fiecare dată
+    .accesskey = A
+ocsp-label =
+    .label = Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor
+    .accesskey = e
 
 ## Chat Tab
 
@@ -287,6 +421,22 @@ idle-time-label = minute de inactivitate
 away-message-label =
     .label = și setează-mi starea ca Plecat cu acest mesaj de stare:
     .accesskey = s
+send-typing-label =
+    .label = Trimite notificări de tastare în conversații
+    .accesskey = t
+notification-all =
+    .label = cu numele expeditorului și previzualizarea mesajului
+notification-empty =
+    .label = fără nicio informație
+chat-play-sound-label =
+    .label = Redă un sunet
+    .accesskey = d
+chat-play-button =
+    .label = Redă
+    .accesskey = R
+chat-browse-sound-button =
+    .label = Răsfoiește…
+    .accesskey = f
 
 ## Preferences UI Search Results
 
