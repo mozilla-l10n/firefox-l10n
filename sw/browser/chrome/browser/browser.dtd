@@ -239,6 +239,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Geuza kukufaa…">
 <!ENTITY viewCustomizeToolbar.accesskey     "G">
+
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Historia">

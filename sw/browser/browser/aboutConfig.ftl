@@ -11,6 +11,7 @@ about-config-search-input =
 ##
 
 about-config-show-all = Onyesha Yote
+
 about-config-pref-add = Ongeza
 about-config-pref-save = Hifadhi
 
