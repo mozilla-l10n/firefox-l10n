@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = C
     .tooltiptext = Introdu URL-ul preferat pentru rezolvarea DNS over HTTPS
 connection-dns-over-https-custom-label = Personalizat
+connection-dialog-window =
+    .title = Setări privind conexiunea
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Configurează proxy-uri pentru accesul la internet
 proxy-type-no =
     .label = Fără proxy
@@ -49,3 +56,9 @@ no-proxy-label =
     .value = Fără proxy pentru:
     .accesskey = n
 no-proxy-example = Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-remote-dns =
+    .label = Proxy DNS când folosești SOCKS v5
+    .accesskey = d
+proxy-enable-doh =
+    .label = Activează DNS prin HTTPS
+    .accesskey = z

@@ -4,6 +4,12 @@
 
 attachment-reminder-window =
     .title = Cuvinte cheie pentru verificarea lipsei atașamentelor
+keyword-new-button =
+    .label = Nou…
+    .accesskey = N
+keyword-edit-button =
+    .label = Editează…
+    .accesskey = E
 keyword-remove-button =
     .label = Șterge
     .accesskey = t
