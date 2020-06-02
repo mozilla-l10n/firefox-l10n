@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Nastavenia pre odosielanie
 send-mail-title = Formát textu
+auto-downgrade-label =
+    .label = Ak je to možné, odosielať správy vo formáte čistý text
+    .accesskey = x
 default-html-format-label = Ak odosielate správu vo formáte HTML a jeden alebo viacerí adresáti nie sú schopní prijímať správy v tomto formáte:
 html-format-ask =
     .label = Opýtať sa
