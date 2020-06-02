@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-reminder-window =
+    .title = Výnimky
+    .style = width: 45em;
 window-close-key =
     .key = w
 block-button =
@@ -21,7 +24,14 @@ remove-site-button =
 remove-all-site-button =
     .label = Odstrániť všetky servery
     .accesskey = v
+cancel-button =
+    .label = Zrušiť
+    .accesskey = Z
+save-button =
+    .label = Uložiť zmeny
+    .accesskey = U
 permission-can-label = Povoliť
+permission-can-access-first-party-label = Povoliť len pre prvú stranu
 permission-can-session-label = Povoliť pre reláciu
 permission-cannot-label = Zakázať
 invalid-uri-message = Zadajte platný názov servera
