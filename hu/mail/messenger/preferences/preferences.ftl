@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Bezárás
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Szerkesztés
 category-compose =
     .tooltiptext = Szerkesztés
+pane-privacy-title = Adatvédelem és biztonság
+category-privacy =
+    .tooltiptext = Adatvédelem és biztonság
 pane-chat-title = Csevegés
 category-chat =
     .tooltiptext = Csevegés
@@ -70,6 +75,7 @@ update-in-progress-ok-button = &Elvetés
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Folytatás
+addons-button = Kiegészítők és témák
 
 ## OS Authentication dialog
 
@@ -102,6 +108,15 @@ restore-default-label =
     .label = Alaphelyzet
     .accesskey = A
 default-search-engine = Alapértelmezett keresőszolgáltatás
+add-search-engine =
+    .label = Hozzáadás fájlból
+    .accesskey = a
+remove-search-engine =
+    .label = Eltávolítás
+    .accesskey = E
+minimize-to-tray-label =
+    .label = Ha a { -brand-short-name } minimalizálva van, áthelyezés a tálcára
+    .accesskey = m
 new-message-arrival = Új üzenet érkezésekor:
 mail-play-sound-label =
     .label =
@@ -140,6 +155,8 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Globális keresés és indexelő engedélyezése
     .accesskey = G
+datetime-formatting-legend = Dátum és idő formázás
+language-selector-legend = Nyelv
 allow-hw-accel =
     .label = Hardveres gyorsítás használata, ha elérhető
     .accesskey = H
@@ -186,6 +203,7 @@ update-app-legend = { -brand-short-name } frissítések:
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Verzió: { $version }
+allow-description = A { -brand-short-name } megteheti:
 automatic-updates-label =
     .label = Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)
     .accesskey = a
@@ -198,6 +216,7 @@ update-history-button =
 use-service =
     .label = Háttérben futó szolgáltatás intézze a frissítést
     .accesskey = H
+cross-user-udpate-warning = Ez a beállítás érvényes lesz minden Windows-fiókra és { -brand-short-name }-profilra, amely a { -brand-short-name } ezen telepítését használja.
 networking-legend = Kapcsolat
 proxy-config-description = A { -brand-short-name } internetkapcsolatának megadása
 network-settings-button =
@@ -340,6 +359,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Üzenetablak/-lap bezárása áthelyezéskor vagy törléskor
     .accesskey = z
+display-name-label =
+    .value = Megjelenítendő név:
 condensed-addresses-label =
     .label = Csak a név megjelenítése a címjegyzékben szereplő személyeknél
     .accesskey = C
@@ -353,6 +374,9 @@ inline-label =
     .label = Beágyazva
 as-attachment-label =
     .label = Mellékletként
+extension-label =
+    .label = kiterjesztés hozzáadása a fájlnévhez
+    .accesskey = K
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -380,6 +404,12 @@ download-dictionaries-link = További szótárak letöltése
 font-label =
     .value = Betű:
     .accesskey = B
+font-size-label =
+    .value = Méret:
+    .accesskey = M
+default-colors-label =
+    .label = Az olvasó alapértelmezett színeinek használata
+    .accesskey = a
 font-color-label =
     .value = Szövegszín:
     .accesskey = z
@@ -433,6 +463,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Eltávolítás
     .accesskey = E
+find-cloud-providers =
+    .value = További szolgáltatók keresése…
 cloud-account-description = Adjon hozzá új óriásfájl-küldési tárolószolgáltatást
 
 ## Privacy Tab
@@ -474,6 +506,11 @@ keep-ask =
 cookies-button =
     .label = Sütik megtekintése…
     .accesskey = t
+do-not-track-label =
+    .label = „Do Not Track” jelzés küldése a webhelyeknek, jelezve, hogy nem szeretné, hogy kövessék
+    .accesskey = n
+learn-button =
+    .label = További tudnivalók
 passwords-description = A { -brand-short-name } képes megjegyezni az összes fiók jelszavát.
 passwords-button =
     .label = Mentett jelszavak…
@@ -525,6 +562,12 @@ certificate-ask =
 ocsp-label =
     .label = Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez
     .accesskey = C
+certificate-button =
+    .label = Tanúsítványok kezelése…
+    .accesskey = T
+security-devices-button =
+    .label = Biztonsági eszközök…
+    .accesskey = B
 
 ## Chat Tab
 
@@ -565,6 +608,17 @@ notification-name =
     .label = csak a feladó nevével
 notification-empty =
     .label = információ nélkül
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Dokkolóikon animálása
+           *[other] A tálca elem felvillantása
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] f
+        }
 chat-play-sound-label =
     .label = Hangjelzés
     .accesskey = H
@@ -580,6 +634,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Tallózás…
     .accesskey = T
+theme-label =
+    .value = Téma:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Buborékok
+style-dark =
+    .label = Sötét
+style-paper =
+    .label = Papírlapok
+style-simple =
+    .label = Egyszerű
+preview-label = Előnézet:
+no-preview-label = Nem érhető el előnézet
+no-preview-description = Ez a téma nem érvényes, vagy jelenleg nem érhető el (letiltott kiegészítő, biztonságos mód, …).
+chat-variant-label =
+    .value = Változat:
+    .accesskey = V
+chat-header-label =
+    .label = Fejléc megjelenítése
+    .accesskey = F
 
 ## Preferences UI Search Results
 
