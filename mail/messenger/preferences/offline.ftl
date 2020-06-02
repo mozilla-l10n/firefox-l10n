@@ -4,9 +4,19 @@
 
 offline-dialog-window =
     .title = Setări pentru lucrul offline
+startup-label = Starea manuală la pornire:
 status-radio-remember =
     .label = Memorează starea online precedentă
     .accesskey = r
+status-radio-ask =
+    .label = Întreabă-mă pentru starea online
+    .accesskey = t
+status-radio-always-online =
+    .label = Online
+    .accesskey = l
+status-radio-always-offline =
+    .label = Offline
+    .accesskey = f
 going-online-auto =
     .label = Da
     .accesskey = D

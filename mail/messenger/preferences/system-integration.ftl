@@ -5,6 +5,9 @@
 system-integration-title =
     .title = Integrare cu sistemul
 default-client-intro = Folosește { -brand-short-name } ca și client implicit pentru:
+checkbox-email-label =
+    .label = E-mail
+    .tooltiptext = { unset-default-tooltip }
 checkbox-newsgroups-label =
     .label = Grupuri de discuții
     .tooltiptext = { unset-default-tooltip }
