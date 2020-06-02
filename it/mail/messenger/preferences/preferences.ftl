@@ -455,6 +455,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Elimina
     .accesskey = E
+find-cloud-providers =
+    .value = Trova altri provider…
 cloud-account-description = Aggiungi un nuovo servizio di archiviazione Filelink
 
 ## Privacy Tab
@@ -628,6 +630,7 @@ style-simple =
     .label = Semplice
 preview-label = Anteprima:
 no-preview-label = Anteprima non disponibile
+no-preview-description = Questo tema non è valido o in questo momento non è disponibile (componente aggiuntivo disattivato, modalità provvisoria, …).
 chat-variant-label =
     .value = Variante:
     .accesskey = V
