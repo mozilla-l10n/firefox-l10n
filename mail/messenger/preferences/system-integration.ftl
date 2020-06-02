@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-title =
+    .title = Съчетаване с операционната система
 system-integration-dialog =
     .buttonlabelaccept = По подразбиране
     .buttonlabelcancel = Прескачане на интеграцията
@@ -10,6 +12,9 @@ default-client-intro = Използване на { -brand-short-name } като 
 unset-default-tooltip = Не е възможно да отмените { -brand-short-name } като клиент по подразбиране за { -brand-short-name } За да изберете друго приложение, трябва да използвате диалога "По подразбиране".
 checkbox-email-label =
     .label = Електронна поща
+    .tooltiptext = { unset-default-tooltip }
+checkbox-newsgroups-label =
+    .label = Дискусионни групи
     .tooltiptext = { unset-default-tooltip }
 checkbox-feeds-label =
     .label = Емисии
@@ -22,6 +27,9 @@ system-search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+system-search-integration-label =
+    .label = Разрешаване на { system-search-engine-name } да търси съобщения
+    .accesskey = т
 check-on-startup-label =
     .label = Винаги се прави тази проверка при стартиране на { -brand-short-name }
     .accesskey = В

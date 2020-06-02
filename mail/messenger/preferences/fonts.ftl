@@ -21,12 +21,17 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Латински
 font-language-group-japanese =
     .label = Японски
 font-language-group-trad-chinese =
     .label = Традиционен китайски (Тайван)
 font-language-group-simpl-chinese =
     .label = Опростен китайски
+font-language-group-trad-chinese-hk =
+    .label = Традиционен китайски (Хонг Конг)
 font-language-group-korean =
     .label = Корейски
 font-language-group-cyrillic =
@@ -35,6 +40,8 @@ font-language-group-el =
     .label = Гръцки
 font-language-group-other =
     .label = Други писмени системи
+font-language-group-thai =
+    .label = Тайландски
 font-language-group-hebrew =
     .label = Иврит
 font-language-group-arabic =
@@ -47,6 +54,8 @@ font-language-group-armenian =
     .label = Арменски
 font-language-group-bengali =
     .label = Бенгалски
+font-language-group-canadian =
+    .label = Единна канадска сричкова писменост
 font-language-group-ethiopic =
     .label = Етиопски
 font-language-group-georgian =
@@ -61,8 +70,12 @@ font-language-group-malayalam =
     .label = Малаялам
 font-language-group-math =
     .label = Математически
+font-language-group-odia =
+    .label = Одийски
 font-language-group-telugu =
     .label = Телугу
+font-language-group-kannada =
+    .label = Каннада
 font-language-group-sinhala =
     .label = Синхала
 font-language-group-tibetan =
@@ -70,9 +83,30 @@ font-language-group-tibetan =
 
 ## Default font type
 
+default-font-serif =
+    .label = Серифен
+default-font-sans-serif =
+    .label = Безсерифен
+font-size-label =
+    .value = Големина:
+    .accesskey = з
+font-size-monospace-label =
+    .value = Големина:
+    .accesskey = м
+font-serif-label =
+    .value = Серифен:
+    .accesskey = С
+font-sans-serif-label =
+    .value = Безсерифен:
+    .accesskey = н
 font-monospace-label =
     .value = Равноширок:
     .accesskey = Р
+font-min-size-label =
+    .value = Минимален размер:
+    .accesskey = М
+min-size-none =
+    .label = Няма
 
 ## Fonts in message
 
@@ -80,6 +114,9 @@ font-control-legend = Контрол на шрифта
 use-document-fonts-checkbox =
     .label = Писмата могат да използват други шрифтове
     .accesskey = у
+use-fixed-width-plain-checkbox =
+    .label = Използване на равноширок шрифт за съобщения с нормален текст
+    .accesskey = ф
 
 ## Language settings
 
