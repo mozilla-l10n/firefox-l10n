@@ -6,4 +6,5 @@
 active-policies-tab = dob kíy
 errors-tab = Na blit ní
 documentation-tab = ré yêtz
+
 policy-value = Lí chop ko tak ah

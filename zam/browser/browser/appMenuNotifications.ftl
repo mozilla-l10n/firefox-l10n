@@ -13,3 +13,4 @@ appmenu-update-restart =
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Ah, gúa
     .buttonaccesskey = O
+    
