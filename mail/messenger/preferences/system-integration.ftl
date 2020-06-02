@@ -4,7 +4,12 @@
 
 system-integration-title =
     .title = Co-fhilleadh an t-siostaim
+system-integration-dialog =
+    .buttonlabelaccept = Suidhich mar a' bhun-roghainn
+    .buttonlabelcancel = Gearr leum thairis air a' cho-fhilleadh
+    .buttonlabelcancel2 = Sguir dheth
 default-client-intro = Cleachd { -brand-short-name } mar an cliant bunaiteach airson:
+unset-default-tooltip = Chan urrainn dhut { -brand-short-name } a thoirt air falbh mar an cliant bunaiteach o bhroinn { -brand-short-name }. Ma tha thu ag iarraidh aplacaid eile mar bhun-roghainn, feumaidh tu a dhol ann is bun-roghainn a dhèanamh dheth o bhroinn fhèin.
 checkbox-email-label =
     .label = Post-dealain
     .tooltiptext = { unset-default-tooltip }
