@@ -5,3 +5,7 @@
 start-label = 开始加密对话
 auth-cancel = 取消
 auth-cancelAccessKey = C
+state-not_private-label = 不安全
+error-title = 错误
+success-title = 端到端加密
+fail-title = 无法验证
