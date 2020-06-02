@@ -255,13 +255,85 @@ condensed-addresses-label =
 
 ## Compose Tab
 
+forward-label =
+    .value = Inoltra i messaggi:
+    .accesskey = I
+inline-label =
+    .label = nel corpo del messaggio
+as-attachment-label =
+    .label = come allegati
+extension-label =
+    .label = Aggiungi l'estensione al nome del file
+    .accesskey = e
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Salvataggio automatico ogni
+    .accesskey = v
+auto-save-end = minuti
 
 ##
 
+warn-on-send-accel-key =
+    .label = Chiedi conferma quando si utilizza una scorciatoia da tastiera per inviare il messaggio
+    .accesskey = h
+spellcheck-label =
+    .label = Controlla ortografia prima di inviare
+    .accesskey = C
+spellcheck-inline-label =
+    .label = Attiva il controllo ortografico durante la digitazione
+    .accesskey = A
+language-popup-label =
+    .value = Lingua:
+    .accesskey = L
+download-dictionaries-link = Scarica altri dizionari
+font-label =
+    .value = Carattere:
+    .accesskey = c
+font-color-label =
+    .value = Colore del testo:
+    .accesskey = o
+bg-color-label =
+    .value = Colore di sfondo:
+    .accesskey = l
+restore-html-label =
+    .label = Ripristina predefiniti
+    .accesskey = R
+default-format-label =
+    .label = Usare il formato paragrafo come predefinito al posto del Corpo del Messaggio
+    .accesskey = P
+format-description = Configura la formattazione del testo:
+send-options-label =
+    .label = Opzioni di invio…
+    .accesskey = d
+autocomplete-description = Durante la scrittura dell'indirizzo controlla le corrispondenze in:
+ab-label =
+    .label = Rubriche locali
+    .accesskey = u
+directories-label =
+    .label = Rubrica remota:
+    .accesskey = R
+directories-none-label =
+    .none = nessuna
+edit-directories-label =
+    .label = Modifica cartelle…
+    .accesskey = M
+email-picker-label =
+    .label = Aggiungi automaticamente l'indirizzo della posta in uscita a:
+    .accesskey = A
+default-directory-label =
+    .value = Directory di avvio predefinita nella finestra rubrica:
+    .accesskey = S
+default-last-label =
+    .none = Ultima directory selezionata
+attachment-label =
+    .label = Controlla allegati mancanti
+    .accesskey = m
+attachment-options-label =
+    .label = Parole chiave…
+    .accesskey = P
 enable-cloud-share =
     .label = Offrire la condivisione per file più grandi di
 cloud-share-size =
