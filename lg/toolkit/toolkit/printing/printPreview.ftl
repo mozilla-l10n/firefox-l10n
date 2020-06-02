@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Gonzamu Pegi
+    .accesskey = i
+    .tooltiptext = Eno page tesobola kugonzebwa yokka
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Kyusa mu engeri gy'ebilagibwamu ogonzemu okusoma kwo
 printpreview-close =
     .label = Ggalawo
     .accesskey = G
@@ -25,6 +33,7 @@ printpreview-of =
     .value = ogwa
 printpreview-custom-prompt =
     .value = Ekipimo ekimanyiddwa…
+printpreview-custom-scale-prompt-title = Ekipimo Ky'oyagala
 printpreview-page-setup =
     .label = Entegeka Y'omuko…
     .accesskey = k
@@ -36,6 +45,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Omuko ogusooka
@@ -48,4 +59,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Omuko ogusembayo
-
