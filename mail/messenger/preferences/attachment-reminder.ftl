@@ -5,8 +5,16 @@
 attachment-reminder-window =
     .title = Paraules clau del recordatori d'adjunció
 attachment-reminder-label = El { -brand-short-name } us avisarà que us falta adjuntar algun fitxer quan estigueu a punt d'enviar un correu que contingui una de les paraules següents.
+keyword-new-button =
+    .label = Nova…
+    .accesskey = N
+keyword-edit-button =
+    .label = Edita…
+    .accesskey = E
 keyword-remove-button =
     .label = Suprimeix
     .accesskey = S
+new-keyword-title = Paraula clau nova
+new-keyword-label = Paraula clau:
 edit-keyword-title = Edita la paraula clau
 edit-keyword-label = Paraula clau:

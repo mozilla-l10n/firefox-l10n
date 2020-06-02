@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Llatí
 font-language-group-japanese =
     .label = Japonès
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Ciríl·lic
 font-language-group-el =
     .label = Grec
+font-language-group-other =
+    .label = Altres sistemes d'escriptura
 font-language-group-thai =
     .label = Tailandès
 font-language-group-hebrew =
@@ -63,6 +68,18 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malaiàlam
+font-language-group-math =
+    .label = Matemàtiques
+font-language-group-odia =
+    .label = Oriya
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kanarès
+font-language-group-sinhala =
+    .label = Singalès
+font-language-group-tibetan =
+    .label = Tibetà
 
 ## Default font type
 
@@ -70,6 +87,12 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans Serif
+font-size-label =
+    .value = Mida:
+    .accesskey = M
+font-size-monospace-label =
+    .value = Mida:
+    .accesskey = i
 font-serif-label =
     .value = Serif:
     .accesskey = S
@@ -97,9 +120,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Codificació del text
+text-encoding-description = Definiu la codificació del text per defecte per enviar i rebre correu
 font-outgoing-email-label =
     .value = Correu de sortida:
     .accesskey = u
 font-incoming-email-label =
     .value = Correu d'entrada:
     .accesskey = e
+default-font-reply-checkbox =
+    .label = Quan sigui possible, utilitza la codificació del text per defecte en les respostes
+    .accesskey = z
