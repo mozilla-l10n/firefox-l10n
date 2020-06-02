@@ -28,5 +28,6 @@
 <!-- AccountManager.xul -->
 
 <!-- AccountManager.xhtml -->
+<!-- AccountManager.xhtml -->
 <!ENTITY accountManager.size "width: 120ch; height: 56em;">
 <!ENTITY accountTree.width "width: 32ch;">

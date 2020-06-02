@@ -229,6 +229,7 @@
 <!ENTITY printButton.tooltip "Imprimir este mensaje">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
 <!ENTITY headersSpace2.style "width: 8em;">
@@ -315,6 +316,7 @@
 <!ENTITY attachPage.label "Adjuntar página web…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
 <!-- Attachment Pane Header Bar Context Menu -->
 <!ENTITY initiallyShowAttachmentPane.label "Al abrir, mostrar el panel de adjuntos">
 <!ENTITY initiallyShowAttachmentPane.accesskey "m">

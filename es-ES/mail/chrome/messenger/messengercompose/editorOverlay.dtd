@@ -273,6 +273,7 @@
 <!ENTITY findToolbarCmd.tooltip "Buscar texto en la página">
 <!ENTITY spellToolbarCmd.label "Ortografía">
 <!ENTITY spellToolbarCmd.tooltip "Revisar ortografía de la selección o de la página entera">
+
 <!ENTITY imageToolbarCmd.label "Imagen">
 <!ENTITY imageToolbarCmd.tooltip "Inserta una nueva imagen o edita las propiedades de la imagen seleccionada">
 <!ENTITY hruleToolbarCmd.label "Línea horiz.">

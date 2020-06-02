@@ -35,6 +35,10 @@
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
 <!ENTITY rights.webservices-a "&brandFullName; ofrece servicios opcionales (&quot;servicios&quot;), tales como el servicio de actualización de complementos, que están disponibles para su uso con esta versión binaria de &brandShortName; tal y como se describe más abajo. Si no quiere usar los servicios o los términos siguientes no son aceptables, puede desactivar el servicio de actualización de complementos abriendo las preferencias de la aplicación, seleccionando la ">
 <!ENTITY rights.webservices-b "Avanzado">
 <!ENTITY rights.webservices-c " sección, seguida de la ">
