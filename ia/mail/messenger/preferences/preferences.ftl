@@ -73,6 +73,7 @@ change-dock-icon = Cambiar preferentias pro le icone del app
 app-icon-options =
     .label = Optiones del icone del app…
     .accesskey = n
+notification-settings = Le alertas e le sono predefinite pote esser disactivate in le pannello de notification in le preferentias del systema.
 animated-alert-label =
     .label = Monstrar un alerta
     .accesskey = M
@@ -99,6 +100,8 @@ allow-hw-accel =
 store-type-label =
     .value = Typo de magazinage del message pro nove contos:
     .accesskey = T
+mbox-store-label =
+    .label = File per dossier (mbox)
 maildir-store-label =
     .label = File per message (maildir)
 scrolling-legend = Rolamento
@@ -142,15 +145,21 @@ update-history-button =
 use-service =
     .label = Usar un servicio in secunde plano pro installar le actualisationes
     .accesskey = s
+cross-user-udpate-warning = Iste configuration se applicara a tote le contos de Windows e profilos de { -brand-short-name } que usa iste installation de { -brand-short-name }.
 networking-legend = Connexion
 proxy-config-description = Configurar como { -brand-short-name } se connecte a Internet
 network-settings-button =
     .label = Parametros…
     .accesskey = S
+offline-legend = Foras de linea
 offline-settings = Configurar le parametros offline
 offline-settings-button =
     .label = Offline…
     .accesskey = O
+diskspace-legend = Spatio sur disco
+offline-compact-folder =
+    .label = Compactar tote le dossiers quando se recupera plus de
+    .accesskey = t
 compact-folder-size =
     .value = MB total
 
@@ -168,6 +177,12 @@ use-cache-after = MB de spatio pro le cache
 smart-cache-label =
     .label = Supplantar le gestion automatic del cache
     .accesskey = u
+clear-cache-button =
+    .label = Rader ora
+    .accesskey = C
+style-label =
+    .value = Stilo:
+    .accesskey = y
 regular-style-item =
     .label = Regular
 bold-style-item =
@@ -188,6 +203,17 @@ smaller-size-item =
 quoted-text-color =
     .label = Color:
     .accesskey = o
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Eliger…
+           *[other] Percurrer…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] E
+           *[other] P
+        }
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -202,6 +228,8 @@ seconds-label = secundas
 forward-label =
     .value = Inviar ultra messages:
     .accesskey = u
+as-attachment-label =
+    .label = Como annexo
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -220,10 +248,19 @@ bg-color-label =
 restore-html-label =
     .label = Restaurar predefinitiones
     .accesskey = R
+attachment-label =
+    .label = Deteger omission de annexos
+    .accesskey = o
+attachment-options-label =
+    .label = Parolas clave…
+    .accesskey = P
 
 ## Privacy Tab
 
 mail-content = Contento del posta
+remote-content-label =
+    .label = Permitter contento remote in messages
+    .accesskey = m
 exceptions-button =
     .label = Exceptiones…
     .accesskey = E
@@ -236,10 +273,15 @@ history-label =
 cookies-label =
     .label = Acceptar cookies ab le sitos web
     .accesskey = A
+third-party-label =
+    .value = Acceptar cookies de tertios:
+    .accesskey = c
 third-party-always =
     .label = Sempre
 third-party-never =
     .label = Nunquam
+third-party-visited =
+    .label = De sitos visitate
 keep-label =
     .value = Mantener usque:
     .accesskey = M
@@ -257,6 +299,15 @@ do-not-track-label =
     .accesskey = n
 learn-button =
     .label = Saper plus
+junk-description = Configura hic le parametros global de posta indesirate. Le parametros de posta indesirate specific pro cata conto pote esser configurate in Parametros de contos.
+junk-log-label =
+    .label = Registrar le activitate del filtro adaptive de posta indesirate
+    .accesskey = R
+junk-log-button =
+    .label = Monstrar registro
+    .accesskey = M
+antivirus-description = { -brand-short-name } pote facilitar al programmas antivirus de deteger viruses in le messages de posta entrante ante que illos se immagazina localmente.
+certificate-description = Quando un servitor requesta mi certificato personal:
 certificate-auto =
     .label = Selectionar un automaticamente
     .accesskey = S
@@ -285,6 +336,8 @@ security-devices-button =
 
 ##
 
+notification-empty =
+    .label = sin information
 chat-play-button =
     .label = Reproducer
     .accesskey = R
