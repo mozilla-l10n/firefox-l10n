@@ -22,5 +22,7 @@ week-4-label =
     .label = 4 tedni
 week-5-label =
     .label = 5 tednov
+week-6-label =
+    .label = 6 tednov
 category-edit-label = Uredi kategorijo
 category-blank-warning = Vnesti morate ime kategorije.
