@@ -4,6 +4,7 @@
 
 notifications-dialog-window =
     .title = Tilpass varsling om ny e-post
+customize-alert-description = Velg hva beskjeden skal inneholde:
 preview-text-checkbox =
     .label = Forhåndsvisning av meldingsteksten
     .accesskey = F
@@ -20,3 +21,8 @@ sender-checkbox =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = Vis varsel for ny e-post i
+    .accesskey = V
+open-time-label-after =
+    .value = sekunder

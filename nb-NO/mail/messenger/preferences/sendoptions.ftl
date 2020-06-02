@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Sendeinnstillinger
 send-mail-title = Tekstformat
+auto-downgrade-label =
+    .label = Send meldinger som ren tekst hvis mulig
+    .accesskey = S
 default-html-format-label = Ved sending av meldinger i HTML-format, og en eller flere mottakere er oppført som å ikke kunne motta HTML:
 html-format-ask =
     .label = Spør meg hva som skal gjøres
@@ -25,6 +28,7 @@ html-tab-label =
 plain-tab-label =
     .label = Tekst-domener
     .accesskey = T
+send-message-domain-label = Når du sender en melding til en adresse innenfor et av domenene som er listet under, vil { -brand-short-name } automatisk sende meldingen i det formatet som er valgt.
 add-domain-button =
     .label = Legg til …
     .accesskey = L
