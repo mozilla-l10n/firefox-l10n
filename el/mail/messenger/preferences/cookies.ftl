@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+cookies-window-dialog =
+    .title = Cookies
+    .style = width: 40em;
+window-close-key =
+    .key = w
+window-focus-search-key =
+    .key = f
+window-focus-search-alt-key =
+    .key = k
 filter-search-label =
     .value = Αναζήτηση:
     .accesskey = ζ
@@ -22,6 +31,8 @@ props-secure-label =
     .value = Στάλθηκε για:
 props-expires-label =
     .value = Λήγει:
+props-container-label =
+    .value = Περιβάλλον:
 remove-cookie-button =
     .label = Απομάκρυνση Cookie
     .accesskey = ρ
