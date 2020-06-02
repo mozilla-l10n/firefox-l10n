@@ -4,6 +4,9 @@
 
 receipts-dialog-window =
     .title = 返回回执
+return-receipt-checkbox =
+    .label = 发送消息时，一律要求得到邮件回执
+    .acceskey = W
 receipt-arrive-label = 当收到邮件回执时:
 receipt-leave-radio =
     .label = 留在“收件箱”中
@@ -23,6 +26,8 @@ receipt-not-to-cc =
     .acceskey = f
 receipt-send-never-label =
     .label = 总不发送
+receipt-send-always-label =
+    .label = 一律发送
 receipt-send-ask-label =
     .label = 询问我
 sender-outside-domain =
