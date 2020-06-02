@@ -11,6 +11,9 @@ preview-text-checkbox =
 subject-checkbox =
     .label = ਵਿਸ਼ਾ
     .accesskey = S
+sender-checkbox =
+    .label = ਭੇਜਣ ਵਾਲਾ
+    .accesskey = e
 
 ## Note: open-time-label-before is displayed first, then there's a field where
 ## the user can enter a number, and open-time-label-after is displayed at the end
