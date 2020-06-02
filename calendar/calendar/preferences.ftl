@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Calendário
+calendar-title-reminder = Lembretes
+calendar-title-category = Categorias
 dateformat-label =
     .value = Formato de texto da data:
     .accesskey = d
@@ -30,6 +33,8 @@ day-6-name =
     .label = sexta
 day-7-name =
     .label = sábado
+workdays-label =
+    .value = Dias da semana de trabalho:
 day-1-checkbox =
     .label = dom
     .accesskey = d
@@ -83,6 +88,10 @@ week-6-label =
 previous-weeks-label =
     .value = Semanas anteriores a mostrar:
     .accesskey = m
+todaypane-legend = Painel hoje
+default-length-label =
+    .value = Evento predefinido e duração da tarefa:
+    .accesskey = u
 task-start-1-label =
     .label = Nenhum
 task-start-2-label =
@@ -100,6 +109,9 @@ task-start-7-label =
 task-start-8-label =
     .label = Relativo à próxima hora
 accessibility-legend = Acessibilidade
+accessibility-colors-label =
+    .label = Otimizar cores para acessibilidade
+    .accesskey = c
 reminder-legend = Se o lembrete estiver vencido:
 reminder-dialog-label =
     .label = Mostrar uma caixa de alarme
