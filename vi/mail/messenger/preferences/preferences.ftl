@@ -73,7 +73,19 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 new-message-arrival = Khi có thư mới:
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Tìm kiếm Windows
+       *[other] { "" }
+    }
 networking-legend = Kết nối
 offline-legend = Ngoại tuyến
 offline-settings = Cấu hình thiết lập ngoại tuyến
@@ -98,6 +110,8 @@ bigger-size-item =
     .label = Lớn hơn
 smaller-size-item =
     .label = Nhỏ hơn
+search-input =
+    .placeholder = Tìm kiếm
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
