@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Ny merkelapp
+
 tag-name-label =
     .value = Merkelappnamn:
     .accesskey = N

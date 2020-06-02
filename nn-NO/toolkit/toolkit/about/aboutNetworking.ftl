@@ -57,6 +57,7 @@ rcwn-avg-long = Langt gjennomsnitt
 rcwn-std-dev-long = Langt standardavvik
 rcwn-cache-slow = Tal på langsam cache
 rcwn-cache-not-slow = Tal på ikkje-langsam cache
+
 about-networking-title = Om nettverk
 about-networking-http = HTTP
 about-networking-sockets = Sockets

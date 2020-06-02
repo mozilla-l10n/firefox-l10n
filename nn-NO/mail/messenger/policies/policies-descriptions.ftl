@@ -76,6 +76,10 @@ policy-HardwareAcceleration = Om inaktiv, slå av maskinvareakselerasjon.
 
 policy-InstallAddonsPermission = Tillat visse nettstadar å installere tillegg.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Tillat at bestemte nettstadar koplar til lokale filer.
 
 policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-prefetch).
