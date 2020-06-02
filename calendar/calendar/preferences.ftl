@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Календарь
+calendar-title-reminder = Напоминания
 calendar-title-category = Категории
 dateformat-label =
     .value = Формат даты:
@@ -34,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Показывать номер недели в обзорах и минимесяце
     .accesskey = о
+workdays-label =
+    .value = Рабочие дни:
 day-1-checkbox =
     .label = Вс
     .accesskey = В
@@ -71,6 +75,9 @@ midnight-label =
     .label = Полночь
 noon-label =
     .label = Полдень
+location-checkbox =
+    .label = Показать расположение
+    .accesskey = а
 multiweek-legend = Обзор по неделям
 number-of-weeks-label =
     .value = Количество недель в обзоре (включая предыдущие недели):
@@ -99,6 +106,10 @@ todaypane-legend = Мероприятия
 soon-label =
     .value = В разделе Предстоящих показано:
     .accesskey = е
+event-task-legend = События и задачи
+default-length-label =
+    .value = Продолжительность события или задачи по умолчанию:
+    .accesskey = ж
 task-start-label =
     .value = Дата начала:
 task-start-1-label =
@@ -168,6 +179,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Оповещать о задаче до её наступления за:
     .accesskey = ч
+category-new-label = Новая категория
 category-edit-label = Изменить категорию
 category-overwrite-title = Предупреждение: Одинаковые названия
 category-overwrite = Категория с таким названием уже существует. Вы хотите переписать её?
