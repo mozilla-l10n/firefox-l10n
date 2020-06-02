@@ -4,6 +4,9 @@
 
 receipts-dialog-window =
     .title = إعلامات الوصول
+return-receipt-checkbox =
+    .label = اطلب إعلام الوصول دائمًا عند إرسال الرسائل
+    .acceskey = ع
 receipt-arrive-label = عند وصول الإعلام:
 receipt-leave-radio =
     .label = اتركه في صندوق الوارد

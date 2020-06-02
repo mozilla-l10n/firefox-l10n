@@ -37,8 +37,12 @@ font-language-group-hebrew =
     .label = عبري
 font-language-group-arabic =
     .label = عربي
+font-language-group-devanagari =
+    .label = ديفاناجاري
 font-language-group-tamil =
     .label = تاميلي
+font-language-group-armenian =
+    .label = أرمني
 font-language-group-bengali =
     .label = بنغالي
 font-language-group-canadian =
@@ -53,6 +57,12 @@ font-language-group-gurmukhi =
     .label = گورموخي
 font-language-group-khmer =
     .label = خميري
+font-language-group-malayalam =
+    .label = ملايلامي
+font-language-group-math =
+    .label = رياضيات
+font-language-group-odia =
+    .label = أوريا
 
 ## Default font type
 

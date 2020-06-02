@@ -37,3 +37,6 @@ remove-cookie-button =
 remove-all-cookies-button =
     .label = أزٍل كل الكعكات
     .accesskey = ت
+cookie-close-button =
+    .label = أغلق
+    .accesskey = غ
