@@ -102,6 +102,9 @@ animated-alert-label =
 customize-alert-label =
     .label = Prilagodi…
     .accesskey = a
+tray-icon-label =
+    .label = Prikaži ikonu u sistemskoj traci
+    .accesskey = s
 mail-custom-sound-label =
     .label = Koristi sljedeću zvučnu datoteku
     .accesskey = u
@@ -119,6 +122,17 @@ system-integration-legend = Sistemska integracija
 always-check-default =
     .label = Prilikom pokretanja uvijek provjeri je li { -brand-short-name } zadani program za e-poštu
     .accesskey = a
+check-default-button =
+    .label = Provjeri sada…
+    .accesskey = P
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows pretraživanje
+       *[other] { "" }
+    }
 search-integration-label =
     .label = Dopusti da { search-engine-name } pretražuje poruke
     .accesskey = D
@@ -162,6 +176,7 @@ use-cache-after = MB prostora za priručnu memoriju
 clear-cache-button =
     .label = Očisti sada
     .accesskey = O
+fonts-legend = Fontovi i boje
 default-font-label =
     .value = Zadani font:
     .accesskey = d
@@ -171,6 +186,9 @@ default-size-label =
 font-options-button =
     .label = Napredno…
     .accesskey = N
+color-options-button =
+    .label = Boje…
+    .accesskey = B
 display-width-legend = Poruke s običnim tekstom
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -197,6 +215,9 @@ bigger-size-item =
     .label = Veće
 smaller-size-item =
     .label = Manje
+quoted-text-color =
+    .label = Boja:
+    .accesskey = B
 search-input =
     .placeholder = Traži
 type-column-label =
@@ -302,6 +323,12 @@ attachment-label =
 attachment-options-label =
     .label = Ključne riječi…
     .accesskey = K
+enable-cloud-share =
+    .label = Ponuda za razmjenu datoteka većih od
+remove-cloud-account =
+    .label = Ukloni
+    .accesskey = U
+cloud-account-description = Dodaj novu Filelink uslugu pohrane
 
 ## Privacy Tab
 
@@ -320,12 +347,18 @@ junk-description = Postavite svoje zadane postavke neželjene pošte. Specifičn
 junk-label =
     .label = Kada označim poruke kao neželjenu poštu:
     .accesskey = K
+junk-move-label =
+    .label = Premjesti ih u mapu "Neželjena pošta"
+    .accesskey = j
 junk-delete-label =
     .label = Obriši ih
     .accesskey = O
 junk-read-label =
     .label = Poruke za koje se utvrdi da su neželjena pošta označi kao pročitane
     .accesskey = u
+junk-log-label =
+    .label = Omogući prilagodljivi zapisnik filtera neželjene pošte
+    .accesskey = m
 junk-log-button =
     .label = Prikaži zapisnik
     .accesskey = P
