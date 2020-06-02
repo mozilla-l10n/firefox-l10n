@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Ka ga ditokelo tša gago
 rights-intro = { -brand-full-name } ke lenaneo-tirišo la khomphutha la bolokologi le la mothopo o bulegilego, leo le agilwego ke setšhaba sa batho ba dikete bao ba tšwago lefaseng ka bophara. Go na le dilo tše mmalwa tšeo o swanetšego go di tseba:
 rights-intro-point-1 = { -brand-short-name } e dirilwe gore e hwetšagale go wena ka tlase ga maemo a <a data-l10n-name="mozilla-public-license-link">Laesense ya Setšhaba ya Mozilla</a>. Se se bolela gore o ka diriša, kopiša le go phatlalatša { -brand-short-name } go batho ba bangwe.  Gape o amogelegile gore o ka fetoša khoutu ya mothopo ya { -brand-short-name } ka ge o nyaka go fihlelela dinyakwa tša gago. Laesense ya Setšhaba ya Mozilla gape e go nea tokelo ya go phatlalatša dikgatišo tšeo o di fetošitšego.
 rights-intro-point-3 = Dibopego tše dingwe go { -brand-short-name }, tše bjalo ka sebegi sa go pšhatlega, di go nea kgetho ya go fana ka dipoelo go { -vendor-short-name }. Ka go kgetha go romela dipoelo, o nea { -vendor-short-name } tumelelo ya go diriša dipoelo gore e kaonafatše ditšweletšwa tša yona, go phatlalatša dipoelo diwepesaeteng tša yona, le go aba dipoelo gape.
