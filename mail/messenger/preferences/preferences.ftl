@@ -100,6 +100,17 @@ restore-default-label =
     .accesskey = н
 default-search-engine = Типовий засіб пошуку
 new-message-arrival = При появі нових листів:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Відтворити наступний звуковий файл:
+           *[other] Відтворити звук
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] з
+           *[other] з
+        }
 mail-play-button =
     .label = Відтворити
     .accesskey = в
