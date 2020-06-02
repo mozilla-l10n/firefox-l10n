@@ -99,6 +99,12 @@ previous-weeks-label =
     .value = Nombre de semaines passées :
     .accesskey = o
 todaypane-legend = Panneau « Aujourd’hui »
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = La section « Prochainement » doit afficher une période de :
+    .accesskey = P
 event-task-legend = Évènements et tâches
 default-length-label =
     .value = Durée par défaut des évènements et tâches:
