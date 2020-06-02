@@ -94,6 +94,17 @@ restore-default-label =
     .accesskey = R
 default-search-engine = Maschina da tschertgar da standard
 new-message-arrival = Sche in nov messadi arriva:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Far ir la suandanta datoteca da tun:
+           *[other] Far ir in tun
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] F
+        }
 mail-play-button =
     .label = Fa ir
     .accesskey = i
