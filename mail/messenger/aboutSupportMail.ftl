@@ -14,6 +14,5 @@ accounts-conn-security = Kapcsolat biztonsága
 accounts-auth-method = Hitelesítési módszer
 accounts-default = Alapértelmezett?
 identity-name = Felhasználó
-
 send-via-email = Küldés e-mailben
-
+app-basics-telemetry = Telemetriai adatok
