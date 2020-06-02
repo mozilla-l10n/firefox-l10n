@@ -30,7 +30,7 @@
 <!ENTITY PhoneticField1.label           "Fonetisch:">
 <!ENTITY PhoneticField2.label           "Fonetisch:">
 <!ENTITY DisplayName.label              "Weergave:">
-<!ENTITY DisplayName.accesskey          "a">
+<!ENTITY DisplayName.accesskey          "g">
 <!ENTITY preferDisplayName.label        "Altijd weergavenaam boven berichtkop verkiezen">
 <!ENTITY preferDisplayName.accesskey    "z">
 <!ENTITY preferDisplayName2.accesskey   "z">
