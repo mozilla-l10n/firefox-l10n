@@ -492,9 +492,11 @@ cookies-button =
     .accesskey = S
 learn-button =
     .label = Conocer más
+passwords-description = { -brand-short-name } puede recordar las contraseñas para todas sus cuentas.
 passwords-button =
     .label = Contraseñas guardadas…
     .accesskey = s
+master-password-description = Una contraseña maestra protege todas sus contraseñas pero deberá ingresarla una vez por sesión.
 master-password-label =
     .label = Usar una contraseña maestra
     .accesskey = m
@@ -514,6 +516,9 @@ junk-delete-label =
 junk-read-label =
     .label = Marcar los mensajes determinados como basura como ya leídos
     .accesskey = a
+junk-log-label =
+    .label = Habilitar el registro del filtro de basura adaptativo
+    .accesskey = g
 junk-log-button =
     .label = Mostrar el registro
     .accesskey = s
@@ -568,6 +573,9 @@ idle-time-label = minutos de inactividad
 
 ##
 
+away-message-label =
+    .label = y establecer mi estado como Ausente con el siguiente mensaje de estado:
+    .accesskey = A
 send-typing-label =
     .label = Enviar notificaciones de tipeo en las notificaciones
     .accesskey = t
@@ -581,6 +589,17 @@ notification-name =
     .label = solo con nombre de remitente
 notification-empty =
     .label = sin otra información
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animar el ícono del dock
+           *[other] Titilar el elemento de la barra de tareas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] T
+        }
 chat-play-sound-label =
     .label = Reproducir un sonido
     .accesskey = d
