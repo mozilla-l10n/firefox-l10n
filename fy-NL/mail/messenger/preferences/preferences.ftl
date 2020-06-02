@@ -76,6 +76,9 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## General Tab
 
 general-legend = { -brand-short-name }-startside
+restore-default-label =
+    .label = Standertynstelling tebeksette
+    .accesskey = S
 new-message-arrival = As nije berjochten oankomme:
 mail-play-button =
     .label = Ofspylje
@@ -83,6 +86,17 @@ mail-play-button =
 animated-alert-label =
     .label = In melding toane
     .accesskey = t
+mail-custom-sound-label =
+    .label = It folgjende lûdsbestân brûke
+    .accesskey = l
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Zoeken
+       *[other] { "" }
+    }
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -91,10 +105,40 @@ animated-alert-label =
 
 ##
 
+default-font-label =
+    .value = Standertlettertype:
+    .accesskey = S
+default-size-label =
+    .value = Grutte:
+    .accesskey = G
+display-width-legend = Platte-tekstberjochten
+display-text-label = Sitearre tekst yn platte-tekstberjochten werjaan as:
+style-label =
+    .value = Styl:
+    .accesskey = S
 regular-style-item =
     .label = Normaal
+bold-style-item =
+    .label = Fet
+italic-style-item =
+    .label = Skreef
+bold-italic-style-item =
+    .label = Fet en skreef
+size-label =
+    .value = Grutte:
+    .accesskey = G
 regular-size-item =
     .label = Normaal
+bigger-size-item =
+    .label = Grutter
+smaller-size-item =
+    .label = Lytser
+save-to-label =
+    .label = Bewarje bestannen yn
+    .accesskey = w
+always-ask-label =
+    .label = My altyd freegje wêr't bestannen bewarre wurde moatte
+    .accesskey = M
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -105,6 +149,16 @@ regular-size-item =
 
 ## Compose Tab
 
+forward-label =
+    .value = Berjochten trochstjoere:
+    .accesskey = t
+inline-label =
+    .label = Yn it berjocht
+as-attachment-label =
+    .label = As bylage
+extension-label =
+    .label = Ekstinsje oan bestânsnamme tafoegje
+    .accesskey = t
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -112,9 +166,13 @@ regular-size-item =
 auto-save-label =
     .label = Elke
     .accesskey = E
+auto-save-end = minuten automatysk bewarje
 
 ##
 
+spellcheck-label =
+    .label = Stavering kontrolearje foar it ferstjoeren
+    .accesskey = k
 language-popup-label =
     .value = Taal:
     .accesskey = T
@@ -124,12 +182,58 @@ font-label =
 font-color-label =
     .value = Tekstkleur:
     .accesskey = k
+restore-html-label =
+    .label = Standertwearden tebeksette
+    .accesskey = S
+format-description = Tekstopmaakgedrach konfigurearje
+send-options-label =
+    .label = Ferstjoeropsjes…
+    .accesskey = F
 ab-label =
     .label = Lokale adresboeken
     .accesskey = r
+directories-none-label =
+    .none = Gjin
+email-picker-label =
+    .label = E-mailadressen fan útgeande berjochten automatysk tafoegje oan myn:
+    .accesskey = t
+attachment-label =
+    .label = Kontrolearje op fergetten bylagen
+    .accesskey = f
+attachment-options-label =
+    .label = Kaaiwurden…
+    .accesskey = K
 
 ## Privacy Tab
 
+passwords-button =
+    .label = Bewarre wachtwurden…
+    .accesskey = B
+junk-label =
+    .label = Wannear ik berjochten markearje as net-winske:
+    .accesskey = W
+junk-move-label =
+    .label = se ferpleatse nei de map "Net-winske" fan de account
+    .accesskey = u
+junk-delete-label =
+    .label = se fuortsmite
+    .accesskey = t
+junk-read-label =
+    .label = Berjochten dy't detektearre binne as net-winske, markearje as lêzen
+    .accesskey = k
+junk-log-button =
+    .label = Lochboek toane
+    .accesskey = L
+phishing-label =
+    .label = My fertelle oft it lêzen berjocht in fertochte e-mailscam is
+    .accesskey = e
+antivirus-description = { -brand-short-name } kin it foar antifirusprogramma maklik meitsje om ynkommende e-mailberjochten op firussen te kontrolearjen foardat se lokaal bewarre wurde.
+antivirus-label =
+    .label = Antifirusprogramma’s tastean om yndividuele ynkommende berjochten yn karantêne te pleatsen
+    .accesskey = u
+certificate-auto =
+    .label = Selektearje automatysk ien
+    .accesskey = m
 
 ## Chat Tab
 
