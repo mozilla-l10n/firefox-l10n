@@ -4,6 +4,10 @@
 
 system-integration-title =
     .title = Systemintegration
+system-integration-dialog =
+    .buttonlabelaccept = Angiv som standard
+    .buttonlabelcancel = Undlad integration
+    .buttonlabelcancel2 = Fortryd
 default-client-intro = Brug { -brand-short-name } som standardprogram til:
 unset-default-tooltip = Det er ikke muligt at angive et andet standardprogram end { -brand-short-name } inde fra { -brand-short-name }. For at angive et andet standardprogram skal du gå ind i det ønskede program og der angive, at det skal bruges som standard.
 checkbox-email-label =
@@ -26,3 +30,6 @@ system-search-engine-name =
 system-search-integration-label =
     .label = Tillad { system-search-engine-name } at søge i meddelelser
     .accesskey = S
+check-on-startup-label =
+    .label = Undersøg altid om { -brand-short-name } er standardmailprogrammet, når det startes
+    .accesskey = A

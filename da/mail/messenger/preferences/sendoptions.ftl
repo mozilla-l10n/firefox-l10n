@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Sendeindstillinger
 send-mail-title = Tekstformat
+auto-downgrade-label =
+    .label = Send om muligt meddelelser som ren tekst
+    .accesskey = e
 default-html-format-label = Når meddelelser sendes i HTML-format og en eller flere af modtagerne er markeret som ude af stand til at læse HTML:
 html-format-ask =
     .label = Spørg mig
