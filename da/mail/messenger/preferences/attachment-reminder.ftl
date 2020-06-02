@@ -14,3 +14,7 @@ keyword-edit-button =
 keyword-remove-button =
     .label = Slet
     .accesskey = S
+new-keyword-title = Nyt stikord
+new-keyword-label = Stikord:
+edit-keyword-title = Rediger stikord
+edit-keyword-label = Stikord:
