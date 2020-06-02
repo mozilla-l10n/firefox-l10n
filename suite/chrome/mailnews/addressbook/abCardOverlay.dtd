@@ -79,7 +79,7 @@
 <!ENTITY HomeWebPage.label              "Webpagina:">
 <!ENTITY HomeWebPage.accesskey          "b">
 <!ENTITY Birthday.label                 "Verjaardag:">
-<!ENTITY Birthday.accesskey             "e">
+<!ENTITY Birthday.accesskey             "r">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Jaar">
 <!ENTITY Or.value                       "of">
@@ -103,7 +103,7 @@
 <!ENTITY WorkState.label                "Provincie:">
 <!ENTITY WorkState.accesskey            "v">
 <!ENTITY WorkZipCode.label              "Postcode:">
-<!ENTITY WorkZipCode.accesskey          "t">
+<!ENTITY WorkZipCode.accesskey          "e">
 <!ENTITY WorkCountry.label              "Land:">
 <!ENTITY WorkCountry.accesskey          "L">
 <!ENTITY WorkWebPage.label              "Webpagina:">
