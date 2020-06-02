@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = E
     .tooltiptext = Adja meg az előnyben részesített URL-t a HTTPS feletti DNS feloldáshoz
 connection-dns-over-https-custom-label = Egyéni
+connection-dialog-window =
+    .title = Kapcsolat beállításai
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Proxy beállítása az internet eléréséhez
 proxy-type-no =
     .label = Nincs proxy
@@ -33,6 +40,12 @@ proxy-http-label =
 http-port-label =
     .value = Port:
     .accesskey = P
+proxy-http-sharing =
+    .label = Használja ezt a proxyt HTTPS esetén is
+    .accesskey = x
+proxy-https-label =
+    .value = HTTPS-proxy:
+    .accesskey = S
 ssl-port-label =
     .value = Port:
     .accesskey = o
@@ -58,3 +71,15 @@ no-proxy-label =
     .value = Nincs proxy a következőhöz:
     .accesskey = N
 no-proxy-example = Példa: .mozilla.org, .net.nz, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = A localhost, a 127.0.0.1 és a ::1 felé nyitott kapcsolatok sosem kerülnek proxyzásra.
+proxy-password-prompt =
+    .label = Ne kérjen hitelesítést, ha a jelszó el van mentve
+    .accesskey = h
+    .tooltiptext = Ez a beállítás csendben hitelesíti proxyk felé, ha mentette hozzájuk a hitelesítési adatokat. Ha a hitelesítés sikertelen, akkor felszólítást kap.
+proxy-remote-dns =
+    .label = DNS proxyzása SOCKS v5 használatakor
+    .accesskey = d
+proxy-enable-doh =
+    .label = HTTPS feletti DNS bekapcsolása
+    .accesskey = b
