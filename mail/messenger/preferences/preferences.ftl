@@ -8,6 +8,9 @@ category-general =
 pane-compose-title = Laiškų rašymas
 category-compose =
     .tooltiptext = Laiškų rašymas
+pane-chat-title = Pokalbiai
+category-chat =
+    .tooltiptext = Pokalbiai
 general-language-and-appearance-header = Kalba ir išvaizda
 general-incoming-mail-header = Gauti laiškai
 general-files-and-attachment-header = Failai ir priedai
@@ -81,20 +84,80 @@ new-message-arrival = Gavus naują laišką:
 mail-play-button =
     .label = Perklausyti
     .accesskey = k
+change-dock-icon = Keisti pritvirtinamos piktogramos nuostatas
+app-icon-options =
+    .label = Piktogramos nuostatos…
+    .accesskey = n
 animated-alert-label =
     .label = Parodyti įspėjimą
     .accesskey = ė
+tray-icon-label =
+    .label = Rodyti piktogramą pranešimų srityje
+    .accesskey = t
 mail-custom-sound-label =
     .label = Naudoti kitą garso failą:
     .accesskey = u
 mail-browse-sound-button =
     .label = Parinkti…
     .accesskey = r
+enable-gloda-search-label =
+    .label = Įjungti globalią laiškų paiešką ir indeksavimą
+    .accesskey = g
+scrolling-legend = Slinkimas
+autoscroll-label =
+    .label = Slinkti automatiškai
+    .accesskey = a
+smooth-scrolling-label =
+    .label = Slinkti tolygiai
+    .accesskey = t
+system-integration-legend = Integracija su sistema
+always-check-default =
+    .label = Paleidžiant „{ -brand-short-name }“ tikrinti, ar ji yra numatytoji
+    .accesskey = u
+check-default-button =
+    .label = Tikrinti dabar…
+    .accesskey = d
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Search
+       *[other] { "" }
+    }
+search-integration-label =
+    .label = Leisti „{ search-engine-name }“ ieškoti laiškų
+    .accesskey = L
+config-editor-button =
+    .label = Visų parametrų sąrašas…
+    .accesskey = V
 return-receipts-button =
     .label = Laiškų pristatymo pažymos…
     .accesskey = L
+automatic-updates-label =
+    .label = Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)
+    .accesskey = A
+check-updates-label =
+    .label = Tikrinti, ar yra naujinimų, bet atsiklausti prieš juos įdiegiant
+    .accesskey = T
+update-history-button =
+    .label = Rodyti atnaujinimo žurnalą
+    .accesskey = R
 networking-legend = Ryšys
+proxy-config-description = Parinkite „{ -brand-short-name }“ ryšio su internetu nuostatas
+network-settings-button =
+    .label = Nuostatos…
+    .accesskey = N
 offline-legend = Atsijungimas nuo tinklo
+offline-settings = Parinkite darbo neprisijungus prie tinklo nuostatas
+offline-settings-button =
+    .label = Darbas neprisijungus prie tinklo…
+    .accesskey = D
+offline-compact-folder =
+    .label = Suglaudinti visus aplankus, jei sumoje tai padės sutaupyti daugiau kaip
+    .accesskey = S
+compact-folder-size =
+    .value = MB
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -119,12 +182,38 @@ italic-style-item =
     .label = Kursyvas
 bold-italic-style-item =
     .label = Pusjuodis kursyvas
+size-label =
+    .value = dydis:
+    .accesskey = y
 regular-size-item =
     .label = Normalusis
 bigger-size-item =
     .label = Didesnis
 smaller-size-item =
     .label = Mažesnis
+quoted-text-color =
+    .label = Citatų spalva:
+    .accesskey = C
+search-input =
+    .placeholder = Ieškoti
+save-to-label =
+    .label = Įrašyti failus į aplanką
+    .accesskey = f
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Parinkti…
+           *[other] Parinkti…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] r
+           *[other] r
+        }
+always-ask-label =
+    .label = Visada klausti, kur įrašyti failus
+    .accesskey = V
+display-tags-text = Pagal gaires galima grupuoti laiškus ir nustatyti jų prioritetus.
 delete-tag-button =
     .label = Pašalinti
     .accesskey = š
@@ -192,18 +281,114 @@ ab-label =
 directories-label =
     .label = katalogų serveryje:
     .accesskey = s
+directories-none-label =
+    .none = Nėra
 edit-directories-label =
     .label = Tvarkyti katalogus…
     .accesskey = T
 email-picker-label =
     .label = Išsiunčiamų laiškų el. pašto adresus automatiškai įtraukti į:
     .accesskey = s
+attachment-label =
+    .label = Tikrinti, ar neužmiršta pridėti failo
+    .accesskey = t
+attachment-options-label =
+    .label = Reikšminiai žodžiai…
+    .accesskey = ž
+enable-cloud-share =
+    .label = Siūlyti siųsti failus per debesį, kai jų dydis viršija
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Pašalinti
+    .accesskey = š
+cloud-account-description = Pridėkite failų talpinimo debesyje tarnybą
 
 ## Privacy Tab
 
+mail-content = Laiškų intarpai
+remote-content-label =
+    .label = Leisti intarpus iš tinklo laiškuose
+    .accesskey = L
+exceptions-button =
+    .label = Išimtys…
+    .accesskey = š
+remote-content-info =
+    .value = Sužinoti daugiau apie privatumo problemas, leidžiant intarpus iš tinklo
+web-content = Saityno turinys
+history-label =
+    .label = Įsiminti lankytas svetaines ir saitus
+    .accesskey = m
+cookies-label =
+    .label = Leisti įrašyti slapukus
+    .accesskey = s
+third-party-label =
+    .value = Leisti trečiųjų šalių slapukus:
+    .accesskey = t
+third-party-always =
+    .label = visada
+third-party-never =
+    .label = niekada
+third-party-visited =
+    .label = tik lankytų
+keep-label =
+    .value = Laikyti iki:
+    .accesskey = k
+keep-expire =
+    .label = jų galiojimo laiko pabaigos
+keep-close =
+    .label = „{ -brand-short-name }“ seanso pabaigos
+keep-ask =
+    .label = klausti prieš priimant slapuką
+cookies-button =
+    .label = Rodyti slapukus…
+    .accesskey = R
+passwords-description = Programa „{ -brand-short-name }“ gali įsiminti visų paskyrų slaptažodžius.
+passwords-button =
+    .label = Įrašyti slaptažodžiai…
+    .accesskey = s
+master-password-description = Pagrindinis slaptažodis apsaugos visus slaptažodžius. Jis turi būti pateikiamas programai kartą per seansą.
+master-password-label =
+    .label = Naudoti pagrindinį slaptažodį
+    .accesskey = N
+master-password-button =
+    .label = Pakeisti pagrindinį slaptažodį…
+    .accesskey = k
+junk-description = Brukalo kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.
+junk-label =
+    .label = Pažymėjus, kad laiškai yra brukalas:
+    .accesskey = P
+junk-move-label =
+    .label = perkelti juos į paskyros aplanką „Brukalas“
+    .accesskey = k
+junk-delete-label =
+    .label = pašalinti juos
+    .accesskey = š
+junk-read-label =
+    .label = Laiškus, įgijusius brukalo statusą, žymėti kaip skaitytus
+    .accesskey = L
+junk-log-label =
+    .label = Įrašyti adaptyviojo brukalo filtro veiksmus
+    .accesskey = r
+junk-log-button =
+    .label = Rodyti žurnalą
+    .accesskey = ž
+reset-junk-button =
+    .label = Atstatyti automatinės kontrolės duomenis
+    .accesskey = t
+phishing-label =
+    .label = Tikrinti, ar gaunamuose laiškuose nėra apgaulės
+    .accesskey = T
 
 ## Chat Tab
 
+startup-label =
+    .value = Paleidus „{ -brand-short-name }“:
+    .accesskey = P
+offline-label =
+    .label = pokalbių paskyras palikti neprijungtas
+auto-connect-label =
+    .label = prijungti pokalbių paskyras automatiškai
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -211,9 +396,44 @@ email-picker-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Pranešti adresatams apie jūsų neveiklumą po
+    .accesskey = n
+idle-time-label = min.
 
 ##
 
+away-message-label =
+    .label = ir pakeisti būseną į „nesu“, nurodant šį būsenos pranešimą:
+    .accesskey = b
+send-typing-label =
+    .label = Pranešti pašnekovams, kai rašote pokalbyje
+    .accesskey = š
+notification-label = Gavus jums skirtą pranešimą:
+show-notification-label =
+    .label = Rodyti įspėjimą
+    .accesskey = ė
+notification-all =
+    .label = su siuntėjo vardu ir laiško ištrauka
+notification-name =
+    .label = tik su siuntėjo vardu
+notification-empty =
+    .label = be informacijos apie laišką
+chat-play-sound-label =
+    .label = Pranešti garsu
+    .accesskey = g
+chat-play-button =
+    .label = Perklausyti
+    .accesskey = k
+chat-system-sound-label =
+    .label = Sistemos numatytasis naujų laiškų gavimo garsas
+    .accesskey = S
+chat-custom-sound-label =
+    .label = Naudoti kitą garso failą
+    .accesskey = u
+chat-browse-sound-button =
+    .label = Parinkti…
+    .accesskey = r
 
 ## Preferences UI Search Results
 
