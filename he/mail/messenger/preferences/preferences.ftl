@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = סגירה
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -11,6 +13,9 @@ preferences-title =
 pane-compose-title = חיבור הודעה
 category-compose =
     .tooltiptext = חיבור הודעה
+pane-chat-title = צ׳אט
+category-chat =
+    .tooltiptext = צ׳אט
 
 ## OS Authentication dialog
 
@@ -31,16 +36,35 @@ location-label =
 restore-default-label =
     .label = שחזור ברירת מחדל
     .accesskey = מ
+default-search-engine = מנוע חיפוש כבררת מחדל
 new-message-arrival = כאשר מופיעות הודעות חדשות:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] להשמיע את קובץ הצליל הבא:
+           *[other] השמע צליל
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] צ
+           *[other] צ
+        }
 mail-play-button =
     .label = נגן
     .accesskey = נ
+change-dock-icon = שינוי ההעדפות לסמל היישום
+app-icon-options =
+    .label = אפשרויות סמל היישום…
+    .accesskey = ס
 animated-alert-label =
     .label = הראה התרעה
     .accesskey = א
 customize-alert-label =
     .label = התאמה אישית…
     .accesskey = ה
+tray-icon-label =
+    .label = הצגת סמל במגש המערכת
+    .accesskey = ג
 mail-custom-sound-label =
     .label = השתמש בקובץ צליל הבא
     .accesskey = ש
@@ -50,10 +74,31 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = אפשר חיפוש גלובלי ואינדוקס
     .accesskey = ח
+datetime-formatting-legend = תבנית תאריך ושעה
+allow-hw-accel =
+    .label = שימוש בהאצת חומרה כשניתן
+    .accesskey = ח
+store-type-label =
+    .value = סוג אחסון הודעות לחשבונות חדשים:
+    .accesskey = ס
+mbox-store-label =
+    .label = קובץ לכל תיקייה (mbox)
+maildir-store-label =
+    .label = קובץ לכל הודעה (maildir)
+scrolling-legend = גלילה
+autoscroll-label =
+    .label = שימוש בגלילה אוטומטית
+    .accesskey = א
+smooth-scrolling-label =
+    .label = שימוש בגלילה חלקה
+    .accesskey = ח
 system-integration-legend = השתלבות במערכת
 always-check-default =
     .label = בדוק בכל הפעלה אם { -brand-short-name } היא תוכנת דואר ברירת המחדל
     .accesskey = ב
+check-default-button =
+    .label = לבדוק כעת…
+    .accesskey = כ
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -72,6 +117,19 @@ return-receipts-description = קבע כיצד { -brand-short-name } מטפל ב�
 return-receipts-button =
     .label = קבלות חוזרות...
     .accesskey = ז
+update-app-legend = עדכוני { -brand-short-name }
+automatic-updates-label =
+    .label = להתקין עדכונים אוטומטית (מומלץ: אבטחה משופרת)
+    .accesskey = א
+check-updates-label =
+    .label = לבדוק עדכונים, אבל לאפשר לי לבחור האם להתקין אותם
+    .accesskey = ב
+update-history-button =
+    .label = הצגת היסטוריית עדכונים
+    .accesskey = ע
+use-service =
+    .label = שימוש בשירות רקע כדי להתקין עדכונים
+    .accesskey = ר
 networking-legend = חיבור
 proxy-config-description = קבע כיצד { -brand-short-name } מתחבר לאינטרנט.
 network-settings-button =
@@ -83,6 +141,11 @@ offline-settings-button =
     .label = לא־מקוון...
     .accesskey = מ
 diskspace-legend = שטח דיסק
+offline-compact-folder =
+    .label = לדחוס את כל התיקיות כשהפעולה תחסוך למעלה מ־
+    .accesskey = ס
+compact-folder-size =
+    .value = מ״ב בסך הכול
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -95,9 +158,13 @@ use-cache-after = מ״ב
 
 ##
 
+smart-cache-label =
+    .label = דריסת ניהול מטמון אוטומטי
+    .accesskey = ד
 clear-cache-button =
     .label = נקה כעת
     .accesskey = נ
+fonts-legend = גופנים וצבעים
 default-font-label =
     .value = גופן ברירת מחדל:
     .accesskey = ב
@@ -107,6 +174,9 @@ default-size-label =
 font-options-button =
     .label = מתקדם…
     .accesskey = מ
+color-options-button =
+    .label = צבעים…
+    .accesskey = צ
 display-width-legend = הודעות טקסט פשוט
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -133,6 +203,9 @@ bigger-size-item =
     .label = גדול יותר
 smaller-size-item =
     .label = קטן יותר
+quoted-text-color =
+    .label = צבע:
+    .accesskey = ב
 search-input =
     .placeholder = חיפוש
 type-column-label =
@@ -159,16 +232,49 @@ always-ask-label =
     .label = שאל תמיד היכן לשמור קבצים
     .accesskey = ת
 display-tags-text = תוויות משמשות לחלוקה לקטגוריות ותיעדוף ההודעות שלך.
+new-tag-button =
+    .label = חדש…
+    .accesskey = ח
+edit-tag-button =
+    .label = עריכה…
+    .accesskey = ע
 delete-tag-button =
     .label = מחק
+    .accesskey = מ
+auto-mark-as-read =
+    .label = סימון הודעות כנקראו אוטומטית
+    .accesskey = ק
+mark-read-no-delay =
+    .label = מיד עם ההצגה
     .accesskey = מ
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = לאחר הצגה למשך
+    .accesskey = א
+seconds-label = שניות
 
 ##
 
+open-msg-label =
+    .value = פתיחת הודעות בתוך:
+open-msg-tab =
+    .label = לשונית חדשה
+    .accesskey = ל
+open-msg-window =
+    .label = חלון הודעה חדש
+    .accesskey = ח
+open-msg-ex-window =
+    .label = חלון הודעה קיים
+    .accesskey = ק
+close-move-delete =
+    .label = לסגור את חלון/לשונית ההודעה בעת העברה או מחיקה
+    .accesskey = ס
+condensed-addresses-label =
+    .label = הצגת שמות תצוגה בלבד עבור אנשים בפנקס הכתובת שלי
+    .accesskey = צ
 
 ## Compose Tab
 
@@ -218,6 +324,9 @@ bg-color-label =
 restore-html-label =
     .label = שחזור ברירות מחדל
     .accesskey = ב
+default-format-label =
+    .label = שימוש בתבנית פסקה במקום גוף ההודעה כבררת מחדל
+    .accesskey = פ
 format-description = הגדר התנהגות סגנון טקסט
 send-options-label =
     .label = אפשרויות שליחה...
@@ -237,15 +346,65 @@ edit-directories-label =
 email-picker-label =
     .label = הוסף אוטומטית כתובות מדואר אלקטרוני יוצא אל:
     .accesskey = כ
+default-directory-label =
+    .value = תיקיית בררת מחדל לפתיחת חלון פנקס הכתובות:
+    .accesskey = ב
+default-last-label =
+    .none = תיקייה אחרונה שהייתה בשימוש
 attachment-label =
     .label = בדוק לקבצים מצורפים חסרים
     .accesskey = ח
 attachment-options-label =
     .label = מילות מפתח…
     .accesskey = מ
+enable-cloud-share =
+    .label = הצעה לשתף עבור קבצים בגודל מעל
+cloud-share-size =
+    .value = מ״ב
+add-cloud-account =
+    .label = הוספה…
+    .accesskey = ס
+    .defaultlabel = הוספה…
 
 ## Privacy Tab
 
+mail-content = תוכן דוא״ל
+remote-content-label =
+    .label = לאפשר תוכן מרוחק בהודעות
+    .accesskey = ת
+exceptions-button =
+    .label = חריגות…
+    .accesskey = ח
+remote-content-info =
+    .value = מידע נוסף על נושאי אבטחה שעולים בהקשר של תוכן מרוחק
+web-content = תוכן אינטרנט
+history-label =
+    .label = לזכור אתרים וקישורים בהם ביקרתי
+    .accesskey = ז
+cookies-label =
+    .label = לקבל עוגיות מאתרים
+    .accesskey = ע
+third-party-label =
+    .value = לקבל עוגיות צד־שלישי:
+    .accesskey = ש
+third-party-always =
+    .label = תמיד
+third-party-never =
+    .label = לעולם לא
+third-party-visited =
+    .label = מכאלו שבהם ביקרת
+keep-label =
+    .value = לשמור עד:
+    .accesskey = ע
+keep-expire =
+    .label = לתפוגתם
+keep-close =
+    .label = הסגירה של { -brand-short-name }
+keep-ask =
+    .label = לשאול בכל פעם
+cookies-button =
+    .label = הצגת עוגיות…
+    .accesskey = צ
 passwords-description = { -brand-short-name } יכול לזכור מידע ססמאות עבור כל החשבונות שלך כדי שלא תצטרך להכניס שוב את מידע ההתחברות.
 passwords-button =
     .label = ססמאות שמורות…
@@ -270,6 +429,9 @@ junk-delete-label =
 junk-read-label =
     .label = סמן הודעות שזוהו כזבל כהודעות שנקראו
     .accesskey = נ
+junk-log-label =
+    .label = הפעלת רישום מסנן זבל מסתגל
+    .accesskey = פ
 junk-log-button =
     .label = הצג יומן
     .accesskey = ה
@@ -293,6 +455,13 @@ certificate-ask =
 
 ## Chat Tab
 
+startup-label =
+    .value = כאשר { -brand-short-name } מופעל:
+    .accesskey = פ
+offline-label =
+    .label = להשאיר את חשבון הצ׳אט שלי לא מקוון
+auto-connect-label =
+    .label = התחברות לחשבונות הצ׳אט שלי אוטומטית
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -300,9 +469,76 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = לאפשר לאנשי הקשר שלי לדעת על חוסר פעילות מצדי לאחר
+    .accesskey = פ
+idle-time-label = דקות של חוסר פעילות
 
 ##
 
+away-message-label =
+    .label = ולהגדיר את המצב למרוחק עם הודעה מצב זו:
+    .accesskey = ר
+send-typing-label =
+    .label = שליחת התרעת הקלדה בדיונים
+    .accesskey = ק
+notification-label = כשמגיעות הודעות שמיועדות אליך:
+show-notification-label =
+    .label = הצגת התרעה:
+    .accesskey = ר
+notification-all =
+    .label = עם שם השולח ותצוגה מקדימה של הודעה
+notification-name =
+    .label = עם שם השולח בלבד
+notification-empty =
+    .label = ללא כל מידע
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] הנפשת הסמל במעגן
+           *[other] הבהוב הפריט בשורת המשימות
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ע
+           *[other] ב
+        }
+chat-play-sound-label =
+    .label = השמעת צליל
+    .accesskey = ס
+chat-play-button =
+    .label = השמעה
+    .accesskey = ש
+chat-system-sound-label =
+    .label = צליל בררת המחדל של המערכת להודעות דוא״ל חדשות
+    .accesskey = ב
+chat-custom-sound-label =
+    .label = שימוש בקובץ השמע הבא
+    .accesskey = ש
+chat-browse-sound-button =
+    .label = עיון…
+    .accesskey = ע
+theme-label =
+    .value = ערכת נושא:
+    .accesskey = ע
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = בועות
+style-dark =
+    .label = כהה
+style-paper =
+    .label = גיליונות נייר
+style-simple =
+    .label = פשוט
+preview-label = תצוגה מקדימה:
+no-preview-label = אין תצוגה מקדימה זמינה
+chat-variant-label =
+    .value = הגוון:
+    .accesskey = ג
+chat-header-label =
+    .label = הצגת כותרת
+    .accesskey = כ
 
 ## Preferences UI Search Results
 
