@@ -4,8 +4,16 @@
 
 attachment-reminder-window =
     .title = Attachment Reminder Keywords
+keyword-new-button =
+    .label = New…
+    .accesskey = N
+keyword-edit-button =
+    .label = Edit…
+    .accesskey = E
 keyword-remove-button =
     .label = Delete
     .accesskey = D
+new-keyword-title = New Keyword
+new-keyword-label = Keyword:
 edit-keyword-title = Edit Keyword
 edit-keyword-label = Keyword:
