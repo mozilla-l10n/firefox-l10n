@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Beállítások
+           *[other] Beállítások
+        }
 pane-general-title = Általános
 category-general =
     .tooltiptext = { pane-general-title }
@@ -95,7 +101,19 @@ location-label =
 restore-default-label =
     .label = Alaphelyzet
     .accesskey = A
+default-search-engine = Alapértelmezett keresőszolgáltatás
 new-message-arrival = Új üzenet érkezésekor:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] A következő hangfájl lejátszása:
+           *[other] Hangjelzés
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] h
+           *[other] H
+        }
 mail-play-button =
     .label = Lejátszás
     .accesskey = L
@@ -103,6 +121,7 @@ change-dock-icon = Az appikon beállításainak módosítása
 app-icon-options =
     .label = Appikon beállításai…
     .accesskey = A
+notification-settings = Az értesítések és az alapértelmezett hang letilthatók a Rendszerbeállítások Értesítés lapján.
 animated-alert-label =
     .label = Figyelmeztető ablak
     .accesskey = F
@@ -121,6 +140,16 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Globális keresés és indexelő engedélyezése
     .accesskey = G
+allow-hw-accel =
+    .label = Hardveres gyorsítás használata, ha elérhető
+    .accesskey = H
+store-type-label =
+    .value = Üzenettároló és típus új fiókokhoz:
+    .accesskey = z
+mbox-store-label =
+    .label = Egy fájl mappánként (mbox)
+maildir-store-label =
+    .label = Egy fájl üzenetenként (maildir)
 scrolling-legend = Görgetés
 autoscroll-label =
     .label = Automatikus görgetés
@@ -143,6 +172,9 @@ search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+search-integration-label =
+    .label = A(z) { search-engine-name } kereshet az üzenetek között
+    .accesskey = s
 config-editor-button =
     .label = Konfigurációszerkesztő…
     .accesskey = K
@@ -150,6 +182,13 @@ return-receipts-description = A { -brand-short-name } tértivevény-kezeléséne
 return-receipts-button =
     .label = Tértivevények…
     .accesskey = T
+update-app-legend = { -brand-short-name } frissítések:
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Verzió: { $version }
+automatic-updates-label =
+    .label = Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)
+    .accesskey = a
 check-updates-label =
     .label = Frissítések keresése, de a telepítés kézzel történik
     .accesskey = k
@@ -187,6 +226,9 @@ use-cache-after = MB hely a gyorsítótárnak
 
 ##
 
+smart-cache-label =
+    .label = Az automatikus gyorsítótár-kezelés felülbírálása
+    .accesskey = a
 clear-cache-button =
     .label = Törlés most
     .accesskey = T
@@ -194,6 +236,9 @@ fonts-legend = Betűk és színek
 default-font-label =
     .value = Alapértelmezett betű:
     .accesskey = b
+default-size-label =
+    .value = Méret:
+    .accesskey = M
 font-options-button =
     .label = Speciális…
     .accesskey = c
@@ -231,6 +276,12 @@ quoted-text-color =
     .accesskey = z
 search-input =
     .placeholder = Keresés
+type-column-label =
+    .label = Tartalomtípus
+    .accesskey = T
+action-column-label =
+    .label = Művelet
+    .accesskey = M
 save-to-label =
     .label = Fájlok mentése
     .accesskey = m
@@ -249,16 +300,49 @@ always-ask-label =
     .label = Rákérdezés a fájlok letöltési helyére
     .accesskey = R
 display-tags-text = A címkék az üzenetek kategorizálására és priorálására használhatók.
+new-tag-button =
+    .label = Új…
+    .accesskey = j
+edit-tag-button =
+    .label = Szerkesztés…
+    .accesskey = z
 delete-tag-button =
     .label = Törlés
     .accesskey = T
+auto-mark-as-read =
+    .label = Üzenetek automatikus megjelölése olvasottként
+    .accesskey = a
+mark-read-no-delay =
+    .label = Megjelenítéskor azonnal
+    .accesskey = M
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Megjelenítés után
+    .accesskey = e
+seconds-label = másodperc
 
 ##
 
+open-msg-label =
+    .value = Üzenetek megnyitása:
+open-msg-tab =
+    .label = Új üzenetlapon
+    .accesskey = l
+open-msg-window =
+    .label = Új üzenetablakban
+    .accesskey = z
+open-msg-ex-window =
+    .label = Létező üzenetablakban
+    .accesskey = l
+close-move-delete =
+    .label = Üzenetablak/-lap bezárása áthelyezéskor vagy törléskor
+    .accesskey = z
+condensed-addresses-label =
+    .label = Csak a név megjelenítése a címjegyzékben szereplő személyeknél
+    .accesskey = C
 
 ## Compose Tab
 
@@ -305,7 +389,13 @@ bg-color-label =
 restore-html-label =
     .label = Alapértelmezett értékek visszaállítása
     .accesskey = A
+default-format-label =
+    .label = Alapértelmezésben a Bekezdés formátum használata Szövegtörzs helyett
+    .accesskey = B
 format-description = Szövegformátum beállítása
+send-options-label =
+    .label = Üzenetküldési beállítások…
+    .accesskey = b
 autocomplete-description = Üzenetek címzésekor egyezések keresése a következő helyeken:
 ab-label =
     .label = Helyi címjegyzékek
@@ -318,6 +408,14 @@ directories-none-label =
 edit-directories-label =
     .label = Címtárak szerkesztése…
     .accesskey = C
+email-picker-label =
+    .label = A kimenő levelek címeinek automatikus hozzáadása:
+    .accesskey = e
+default-directory-label =
+    .value = Alapértelmezett indítási könyvtár a címjegyzék ablakban:
+    .accesskey = d
+default-last-label =
+    .none = Utoljára használt könyvtár
 attachment-label =
     .label = Figyelmeztetés a hiányzó mellékletekre
     .accesskey = m
@@ -328,6 +426,10 @@ enable-cloud-share =
     .label = Fájlmegosztás ajánlása, ha a fájl nagyobb, mint
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Hozzáadás…
+    .accesskey = H
+    .defaultlabel = Hozzáadás…
 remove-cloud-account =
     .label = Eltávolítás
     .accesskey = E
@@ -351,6 +453,9 @@ history-label =
 cookies-label =
     .label = Sütik elfogadása webhelyekről
     .accesskey = w
+third-party-label =
+    .value = Harmadik féltől származó sütik elfogadása:
+    .accesskey = H
 third-party-always =
     .label = Mindig
 third-party-never =
@@ -406,6 +511,10 @@ phishing-description = A { -brand-short-name } képes elemezni az üzeneteket, �
 phishing-label =
     .label = Figyelmeztetés a gyanús e-mailekre
     .accesskey = F
+antivirus-description = A { -brand-short-name } könnyen lehetővé teszi a vírusellenes szoftverek számára a bejövő üzenetek ellenőrzését, még mielőtt helyileg tárolná azokat.
+antivirus-label =
+    .label = A vírusellenes szoftverek karanténba tehetik a bejövő üzeneteket
+    .accesskey = v
 certificate-description = Ha a kiszolgáló elkéri a személyes tanúsítványt:
 certificate-auto =
     .label = Automatikus választás
@@ -419,6 +528,9 @@ ocsp-label =
 
 ## Chat Tab
 
+startup-label =
+    .value = A { -brand-short-name } indításakor:
+    .accesskey = s
 offline-label =
     .label = A csevegőfiókok kapcsolat nélküli módban legyenek
 auto-connect-label =
@@ -430,17 +542,44 @@ auto-connect-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Partnereim értesítése tétlen állapotomról
+    .accesskey = P
 idle-time-label = perc tétlenség után
 
 ##
 
+away-message-label =
+    .label = Az állapotom beállítása távollevőre ezzel az üzenettel:
+    .accesskey = A
+send-typing-label =
+    .label = A beszélgetések során értesítés küldése a gépelésről
+    .accesskey = k
 notification-label = Önnek címzett új üzenet érkezésekor:
+show-notification-label =
+    .label = Értesítés megjelenítése:
+    .accesskey = r
 notification-all =
     .label = feladó nevével és az üzenet előnézetével
 notification-name =
     .label = csak a feladó nevével
 notification-empty =
     .label = információ nélkül
+chat-play-sound-label =
+    .label = Hangjelzés
+    .accesskey = H
+chat-play-button =
+    .label = Lejátszás
+    .accesskey = L
+chat-system-sound-label =
+    .label = Alapértelmezett rendszerhang az új üzenethez
+    .accesskey = A
+chat-custom-sound-label =
+    .label = A következő hangfájl használata
+    .accesskey = v
+chat-browse-sound-button =
+    .label = Tallózás…
+    .accesskey = T
 
 ## Preferences UI Search Results
 
