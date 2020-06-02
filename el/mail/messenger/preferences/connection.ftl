@@ -73,6 +73,10 @@ no-proxy-label =
 no-proxy-example = Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24
 # Note: Do not translate localhost, 127.0.0.1 and ::1.
 no-proxy-localhost-label = Συνδέσεις στο localhost, 127.0.0.1 και ::1 δεν περνούν ποτέ μέσω διαμεσολαβητή.
+proxy-password-prompt =
+    .label = Να μην ζητείται έλεγχος ταυτοποίησης αν είναι αποθηκευμένος ο κωδικός πρόσβασης
+    .accesskey = α
+    .tooltiptext = Αυτή η επιλογή κάνει κρυφά την ταυτοποίησή σας σε διαμεσολαβητές, όταν έχετε αποθηκευμένα τα διαπιστευτήριά τους. Θα ειδοποιηθείτε αν αποτύχει η ταυτοποίηση.
 proxy-remote-dns =
     .label = Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5
     .accesskey = d
