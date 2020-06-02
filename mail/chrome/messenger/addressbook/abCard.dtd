@@ -123,7 +123,7 @@
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM2.accesskey                 "A">
+<!ENTITY AIM2.accesskey                 "M">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -131,7 +131,7 @@
 <!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
-<!ENTITY MSN2.accesskey                 "M">
+<!ENTITY MSN2.accesskey                 "N">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber-ID:">
@@ -142,7 +142,7 @@
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
 <!ENTITY GenericPhoto.label             "Algemene foto">
-<!ENTITY GenericPhoto.accesskey         "A">
+<!ENTITY GenericPhoto.accesskey         "e">
 <!ENTITY DefaultPhoto.label             "Standaard">
 <!ENTITY PhotoFile.label                "Op deze computer">
 <!ENTITY PhotoFile.accesskey            "d">
