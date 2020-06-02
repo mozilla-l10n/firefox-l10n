@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Nowe wobznamjenje
+
 tag-name-label =
     .value = Mě wobznamjenja:
     .accesskey = M

@@ -400,8 +400,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } wužywaś (w { -brand-short-name })
-applications-preview-inapp =
-    .label = Pśeglěd w { -brand-short-name }
 
 applications-open-inapp =
     .label = W { -brand-short-name } wócyniś
@@ -418,9 +416,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -642,11 +637,16 @@ home-prefs-topsites-header =
     .label = Nejcesćej woglědane sedła
 home-prefs-topsites-description = Sedła, ku kótarymž se nejcesćej woglědujośo
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Wót { $provider } dopórucony
 home-prefs-recommended-by-description = Wjelicne wopśimjeśe z cełego weba, wubrane specielnje za was
+##
+
 home-prefs-recommended-by-learn-more = Kak funkcioněrujo
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorowane tšojenja pokazaś
@@ -969,9 +969,9 @@ privacy-header = Priwatnosć wobglědowaka
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Pśizjawjenja a gronidła
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Pśizjawjenja a gronidła
@@ -1010,9 +1010,6 @@ forms-master-pw-fips-title = Sćo tuchylu we FIPS-modusu. FIPS pomina se głowne
 forms-master-pw-fips-desc = Změnjanje gronidła njejo se raźiło
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Pśeglědajśo swóju identitu, aby głowne gronidło napórał.
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby głowne gronidło napórał. To wěstotu wašych kontow šćita.
@@ -1219,7 +1216,6 @@ content-blocking-warning-title = Glědajśo!
 content-blocking-warning-description = Blokěrowanje wopśimjeśa móžo zawinowaś, až někotare websedła wěcej njefunkcioněruju. Jo lažko, blokěrowanje za sedła znjemóžniś, kótarymž dowěriśo.
 content-blocking-learn-how = Zgóńśo kak
 
-content-blocking-etp-warning-description = Blokěrowanje pśeslědowakow mógło funkcionalnosć někotarych websedłow wobwliwowaś. Zacytajśo bok z pśeslědowakami znowego, aby wšykno wopśimjeśe zacytał.
 content-blocking-and-isolating-etp-warning-description = Blokěrowanje pśeslědowakow a izolěrowanje plackow mógłej funkcionalnosć někotarych websedłow wobwliwowaś. Zacytajśo bok z pśeslědowakami znowego, aby wšykno wopśimjeśe zacytał.
 content-blocking-warning-learn-how = Zgóńśo kak
 
