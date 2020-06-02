@@ -581,9 +581,6 @@ updates-heading = ניהול העדכונים שלך
 discover-heading = התאמה אישית של ה־{ -brand-short-name } שלך
 shortcuts-heading = ניהול קיצורי דרך להרחבות
 
-theme-heading-search-label = חיפוש ערכות נושא נוספות
-extension-heading-search-label = חיפוש הרחבות נוספות
-
 default-heading-search-label = חיפוש תוספות נוספות
 addons-heading-search-input =
     .placeholder = חיפוש ב־addons.mozilla.org

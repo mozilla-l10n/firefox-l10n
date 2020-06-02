@@ -4,9 +4,11 @@
 
 fonts-encoding-dialog-title =
     .title = גופנים וקידודים
+
 fonts-language-legend =
     .value = גופנים עבור:
     .accesskey = ע
+
 fonts-proportional-label =
     .value = יחסי:
     .accesskey = P
@@ -77,35 +79,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = סריף
+
 default-font-sans-serif =
     .label = סאן־סריף
+
 font-size-label =
     .value = גודל:
     .accesskey = ח
+
 font-size-monospace-label =
     .value = גודל:
     .accesskey = ק
+
 font-serif-label =
     .value = סריף:
     .accesskey = ס
+
 font-sans-serif-label =
     .value = סאן־סריף:
     .accesskey = ר
+
 font-monospace-label =
     .value = רוחב קבוע:
     .accesskey = ב
+
 font-min-size-label =
     .value = גודל גופן מינימלי:
     .accesskey = ג
+
 min-size-none =
     .label = ללא
 
 ## Fonts in message
 
 font-control-legend = בקרת גופנים
+
 use-document-fonts-checkbox =
     .label = אפשר להודעות לבחור את הגופנים שלהם
     .accesskey = א
+
 use-fixed-width-plain-checkbox =
     .label = השתמש בגופן בעל רוחב קבוע להודעות טקסט
     .accesskey = ק
@@ -113,13 +125,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = קידוד טקסט
+
 text-encoding-description = הגדרת קידוד הטקסט כבררת מחדל לשליחה וקבלה של הודעות דוא״ל
+
 font-outgoing-email-label =
     .value = דואר יוצא:
     .accesskey = צ
+
 font-incoming-email-label =
     .value = דואר נכנס:
     .accesskey = נ
+
 default-font-reply-checkbox =
     .label = כשניתן, יש להשתמש בקידוד טקסט כבררת מחדל בתגובות
     .accesskey = כ

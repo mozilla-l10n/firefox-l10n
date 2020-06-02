@@ -5,12 +5,16 @@
 dock-options-window-dialog =
     .title = אפשרויות סמל יישום
     .style = width: 35em;
+
 bounce-system-dock-icon =
     .label = הנפשת סמל היישום כשהודעה חדשה מגיעה
     .accesskey = ס
+
 count-unread-messages-radio =
     .label = מניין הודעות שלא נקראו
     .accesskey = ל
+
 count-new-messages-radio =
     .label = מניין הודעות חדשות
     .accesskey = ח
+

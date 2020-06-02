@@ -76,6 +76,10 @@ policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ�
 
 policy-InstallAddonsPermission = לאפשר לאתרים מסוימים להתקין תוספות.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = לאפשר לאתרים מסויימים לקשר לקבצים מקומיים.
 
 policy-NetworkPrediction = הפעלה או השבתה של חיזוי רשתי (אחזור מוקדם באמצעות DNS).

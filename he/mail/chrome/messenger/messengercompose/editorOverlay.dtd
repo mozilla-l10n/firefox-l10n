@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "מצא טקסט בדף">
 <!ENTITY spellToolbarCmd.label "איות">
 <!ENTITY spellToolbarCmd.tooltip "בדוק איות של קטע נבחר או דף שלם">
+
 <!ENTITY imageToolbarCmd.label "תמונה">
 <!ENTITY imageToolbarCmd.tooltip "הכנס תמונה חדשה או ערוך מאפייני תמונה נבחרת">
 <!ENTITY hruleToolbarCmd.label "קו אופקי">

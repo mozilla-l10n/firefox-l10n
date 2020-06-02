@@ -285,10 +285,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "חסמת גישת MIDI לאתר זה.">
 <!ENTITY urlbar.installBlocked.tooltip           "חסמת התקנת תוספות עבור אתר זה.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "הענקת לאתר זה הרשאות נוספות.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "הענקת לאתר זה הרשאות נוספות.">
 
 
 <!ENTITY searchItem.title             "חיפוש">
@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "התאמה אישית…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ה">
+
 <!ENTITY overflowCustomizeToolbar.label       "התאמה אישית של סרגל הכלים…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ס">
 
@@ -883,53 +884,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "פתיחת העדפות חסימת תוכן">
 
 
-<!ENTITY protections.etpON.header "הגנת מעקב מתקדמת פעילה עבור אתר זה">
-<!ENTITY protections.etpOFF.header "הגנת מעקב מתקדמת כבויה עבור אתר זה">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "מידע נוסף על הגנת מעקב מתקדמת">
-<!ENTITY protections.settings.label "הגדרות הגנה">
-<!ENTITY protections.showreport.label "הצגת דוח">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "האתר לא עובד?">
-<!ENTITY protections.siteNotWorkingView.title "האתר לא עובד?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "ניתן לכבות את ההגנות אם יש בעיות עם:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "שדות התחברות">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "טפסים">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "תשלומים">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "תגובות">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "סרטוני וידאו">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "שליחת דיווח">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "חסומים">
-<!ENTITY protections.notBlocking2.label "מורשים">
-<!ENTITY protections.notFound.label "לא אותרו">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "למה?">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "כל רכיבי המעקב באתר זה נטענו מכיוון שההגנות כבויות.">
-<!ENTITY protections.noTrackersFound.description "לא זוהו רכיבי מעקב המוכרים ל־&brandShortName; בדף זה.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "עוגיות אלו עוקבות אחריך מאתר לאתר כדי לאסוף נתונים על הפעילויות המקוונות שלך. הן נוצרות על־ידי גורמי צד־שלישי כמו מפרסמים וחברות אנליטיות.">
-<!ENTITY protections.cryptominers.description "כורי מטבעות דיגיטליים משתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי. תסריטי כריית מטבעות מרוקנים את הסוללה שלך, מאטים את המחשב שלך ומגדילים את חשבון החשמל שלך.">
-<!ENTITY protections.fingerprinters.description "רכיבי זהות דיגיטלית אוספים הגדרות מהדפדפן והמחשב שלך כדי ליצור עליך פרופיל. באמצעות טביעת האצבע הדיגיטלית הזאת, הם יכולים לעקוב אחריך באתרי אינטרנט שונים.">
-<!ENTITY protections.trackingContent2.description "אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים עם קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו.">
-<!ENTITY protections.socialMediaTrackers.description "רשתות חברתיות מציבות רכיבי מעקב באתרים אחרים כדי לעקוב אחר מה שהינך עושה ורואה ברשת. זה מאפשר לחברות המדיה החברתית ללמוד עליך מעבר למה שבחרת לשתף בפרופילי המדיה החברתית שלך.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "לשוניות הדפדפן">
@@ -974,13 +928,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "עוגיות">
 <!ENTITY contentBlocking.cookiesView.label "עוגיות ונתוני אתרים">
 
-<!ENTITY contentBlocking.trackingProtection4.label "תוכן מעקב">
-
-<!ENTITY contentBlocking.manageSettings2.label "ניהול הגדרות הגנה">
-<!ENTITY contentBlocking.manageSettings2.accesskey "נ">
-
-<!ENTITY contentBlocking.socialblock.label "רכיבי מעקב של מדיה חברתית">
-
 <!ENTITY contentBlocking.cryptominers.label "כורי מטבעות דיגיטליים">
 <!ENTITY contentBlocking.cryptominersView.label "כורי מטבעות דיגיטליים">
 
@@ -992,12 +939,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "חסימת תוכן עשויה לגרום לתקלות במגוון אתרים. עצם הדיווח מצדך, מסייע בשיפור &brandShortName; לטובת הכלל. (פעולה זו תשלח כתובת לרבות מידע על הגדרות הדפדפן שלך ל‏־Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "מידע נוסף">
 
-<!ENTITY contentBlocking.breakageReportView.title "דיווח על אתר שבור">
-<!ENTITY contentBlocking.breakageReportView3.description "חסימת רכיבי מעקב מסויימים עשויה לגרום לתקלות במגוון אתרים. דיווח על הבעיות האלה מסייע בשיפור &brandShortName; לטובת הכלל. בדיווח זה יישלחו ל־Mozilla כתובת האתר ומידע על הגדרות הדפדפן שלך.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "מידע נוסף">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "כתובת">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "באילו בעיות נתקלת? (לא חובה)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "אופציונלי: תיאור הבעיה">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "שליחת דיווח">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "ביטול">
 
