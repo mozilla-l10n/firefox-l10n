@@ -394,8 +394,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilizar { $plugin-name } (em { -brand-short-name })
-applications-preview-inapp =
-    .label = Pré-visualizar no { -brand-short-name }
 
 applications-open-inapp =
     .label = Abrir no { -brand-short-name }
@@ -412,9 +410,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -636,11 +631,16 @@ home-prefs-topsites-header =
     .label = Sites mais visitados
 home-prefs-topsites-description = Os sites que mais visita
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description = Ótimo conteúdo de toda a web, personalizado para si
+##
+
 home-prefs-recommended-by-learn-more = Como funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Histórias patrocinadas
@@ -961,9 +961,9 @@ privacy-header = Privacidade do navegador
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Credenciais e palavras-passe
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Credenciais e palavras-passe
@@ -1002,9 +1002,6 @@ forms-master-pw-fips-title = Atualmente, está no modo FIPS. Este modo requer um
 forms-master-pw-fips-desc = Erro ao alterar palavra-passe
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Confirme a sua identidade para criar uma palavra-passe mestra.
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Para criar uma palavra-passe mestra, introduza as suas credenciais de autenticação do Windows. Isto ajuda a proteger a segurança das suas contas.
@@ -1211,7 +1208,6 @@ content-blocking-warning-title = Atenção!
 content-blocking-warning-description = O bloqueio de conteúdo pode fazer com que alguns sites quebrem. É fácil desativar o bloqueio para sites em que confia.
 content-blocking-learn-how = Saber mais
 
-content-blocking-etp-warning-description = O bloqueio de rastreadores poderá afetar a funcionalidade de alguns sites. Recarregue uma página com rastreadores para carregar todo o conteúdo.
 content-blocking-and-isolating-etp-warning-description = O bloqueio de rastreadores e o isolamento de cookies afetar a funcionalidade de alguns sites. Recarregue uma página com rastreadores para carregar todo o conteúdo.
 content-blocking-warning-learn-how = Saiba como
 

@@ -16,3 +16,4 @@ accounts-default = Predefinição?
 identity-name = Identidade
 
 send-via-email = Enviar via email
+

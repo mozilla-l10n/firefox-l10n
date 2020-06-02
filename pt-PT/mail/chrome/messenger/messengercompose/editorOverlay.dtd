@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Localizar texto na página">
 <!ENTITY spellToolbarCmd.label "Ortografia">
 <!ENTITY spellToolbarCmd.tooltip "Verificar ortografia da seleção ou da página">
+
 <!ENTITY imageToolbarCmd.label "Imagem">
 <!ENTITY imageToolbarCmd.tooltip "Inserir nova imagem ou editar as propriedades das imagens selecionadas">
 <!ENTITY hruleToolbarCmd.label "Linha horizontal">
