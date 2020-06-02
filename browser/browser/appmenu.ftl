@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Proteccions de privadesa
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vés a l'informe de privadesa
+
 appmenuitem-protection-dashboard-title = Tauler de proteccions
 appmenuitem-customize-mode =
     .label = Personalitza…
