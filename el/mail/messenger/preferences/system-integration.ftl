@@ -4,6 +4,10 @@
 
 system-integration-title =
     .title = Ενσωμάτωση συστήματος
+system-integration-dialog =
+    .buttonlabelaccept = Ορισμός ως προεπιλογή
+    .buttonlabelcancel = Παράλειψη ενσωμάτωσης
+    .buttonlabelcancel2 = Άκυρο
 default-client-intro = Χρήση του { -brand-short-name } ως την προεπιλεγμένη εφαρμογή για:
 unset-default-tooltip = Δεν είναι δυνατή η ακύρωση ορισμού του { -brand-short-name } ως προκαθορισμένου προγράμματος μέσα από το { -brand-short-name }. Για να ορίσετε άλλη εφαρμογή ως προεπιλογή πρέπει να χρησιμοποιήσετε το διάλογο της «Ορισμός ως προεπιλογή».
 checkbox-email-label =

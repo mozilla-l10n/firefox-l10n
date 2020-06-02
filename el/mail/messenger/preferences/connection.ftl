@@ -76,3 +76,6 @@ no-proxy-localhost-label = Συνδέσεις στο localhost, 127.0.0.1 και
 proxy-remote-dns =
     .label = Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5
     .accesskey = d
+proxy-enable-doh =
+    .label = Ενεργοποίηση DNS αντί HTTPS
+    .accesskey = γ
