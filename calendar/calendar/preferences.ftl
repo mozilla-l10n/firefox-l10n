@@ -70,6 +70,9 @@ midnight-label =
     .label = Canol Nos
 noon-label =
     .label = Canol Dydd
+location-checkbox =
+    .label = Dangos y lleoliad
+    .accesskey = L
 multiweek-legend = Golwg Wythnosau
 number-of-weeks-label =
     .value = Nifer o wythnosau i'w dangos (gan gynnwys yr wythnos flaenorol):
@@ -92,6 +95,12 @@ previous-weeks-label =
     .value = Dangos yr wythnos flaenorol:
     .accesskey = f
 todaypane-legend = Paen Heddiw
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Mae'r adran Nesaf yn dangos:
+    .accesskey = N
 event-task-legend = Digwyddiadau a Thasgau
 task-start-label =
     .value = Dyddiad Cychwyn:
@@ -136,6 +145,9 @@ reminder-browse-sound-label =
 reminder-dialog-label =
     .label = Dangos y ddeialog atgoffa
     .accesskey = d
+missed-reminder-label =
+    .label = Dangos atgoffwyr wedi eu colli ar gyfer calendrau ysgrifenadwy
+    .accesskey = n
 reminder-default-legend = Rhagosodiadau Atgoffwyr
 default-snooze-label =
     .value = Hyd Cysgu Rhagosodedig:
