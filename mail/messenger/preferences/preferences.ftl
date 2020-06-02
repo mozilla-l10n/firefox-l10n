@@ -72,6 +72,7 @@ update-in-progress-ok-button = 放弃
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
+addons-button = 扩展和主题
 
 ## OS Authentication dialog
 
@@ -143,6 +144,7 @@ enable-gloda-search-label =
     .label = 启用全局搜索以及索引
     .accesskey = E
 datetime-formatting-legend = 日期和时间格式
+language-selector-legend = 语言
 allow-hw-accel =
     .label = 自动启用硬件加速
     .accesskey = h
@@ -386,6 +388,12 @@ download-dictionaries-link = 下载更多字典
 font-label =
     .value = 字体：
     .accesskey = n
+font-size-label =
+    .value = 大小：
+    .accesskey = z
+default-colors-label =
+    .label = 使用阅读器的默认颜色
+    .accesskey = d
 font-color-label =
     .value = 文本颜色：
     .accesskey = T
@@ -480,6 +488,7 @@ keep-ask =
 cookies-button =
     .label = 显示 Cookie…
     .accesskey = S
+passwords-description = { -brand-short-name } 能记住您所有账户的密码信息，因此您不必在每次登录时重复输入密码。
 passwords-button =
     .label = 已保存密码…
     .accesskey = S
@@ -490,9 +499,15 @@ master-password-label =
 master-password-button =
     .label = 更换主密码…
     .accesskey = C
+junk-description =
+    设定您默认的垃圾邮件设置。
+    可以在“账户设置”中设定特定于账户的垃圾邮件设置。
 junk-label =
     .label = 当我将消息标记为垃圾邮件时：
     .accesskey = W
+junk-move-label =
+    .label = 将它们移动至账户的“垃圾”文件夹
+    .accesskey = o
 junk-delete-label =
     .label = 删除它们
     .accesskey = D
