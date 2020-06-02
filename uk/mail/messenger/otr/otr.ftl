@@ -48,3 +48,18 @@ msgevent-rcvdmsg_unrecognized = Ви отримали нерозпізнане �
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_for_other_instance = Повідомлення, надіслане { $name }, призначене для іншого сеансу. Якщо ви входили до системи кілька разів, повідомлення може бути отримане в іншому сеансі.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Почато приватну розмову з { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Почато захищено, але непідтверджену розмову з { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Захищену розмову з { $name } успішно оновлено.
+error-enc = Сталася помилка під час шифрування повідомлення.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = { $name } не очікує зашифрованих даних, які було надіслано вами.
+error-unreadable = Ви надіслали зашифроване повідомлення, яке неможливо прочитати.
+error-malformed = Ви передали хибне повідомлення з даними.
