@@ -51,6 +51,8 @@ font-language-group-gujarati =
     .label = Gujarati
 font-language-group-gurmukhi =
     .label = Gurmukhi
+font-language-group-khmer =
+    .label = Khmeră
 font-language-group-malayalam =
     .label = Malayalam
 
@@ -67,6 +69,9 @@ min-size-none =
 use-document-fonts-checkbox =
     .label = Permite mesajelor să folosească alte fonturi
     .accesskey = o
+use-fixed-width-plain-checkbox =
+    .label = Folosește font de lățime fixă pentru mesajele în text simplu
+    .accesskey = x
 
 ## Language settings
 
