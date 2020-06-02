@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = ଟ୍ୟାବ ବନ୍ଦ କରନ୍ତୁକୁ ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ
     .accesskey = U
+
 toolbar-context-menu-remove-from-toolbar =
     .label = ସାଧନପଟିରୁ ବାହାରନ୍ତୁ
     .accesskey = R
