@@ -11,6 +11,7 @@ window-focus-search-key =
     .key = f
 window-focus-search-alt-key =
     .key = k
+cookies-on-system-label = Estes cookies estão guardados no seu computador:
 treecol-name-header =
     .label = Nome do cookie
 props-name-label =

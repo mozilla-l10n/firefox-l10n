@@ -18,6 +18,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latino
 font-language-group-japanese =
     .label = Japonês
 font-language-group-trad-chinese =
@@ -58,14 +61,25 @@ font-language-group-khmer =
     .label = Cambodjano
 font-language-group-malayalam =
     .label = Malaio
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-tibetan =
+    .label = Tibetano
 
 ## Default font type
 
 default-font-serif =
     .label = Serifa
+default-font-sans-serif =
+    .label = Sem serifa
 font-serif-label =
     .value = Serifa:
     .accesskey = S
+font-monospace-label =
+    .value = Monoespaço:
+    .accesskey = M
 font-min-size-label =
     .value = Tamanho mínimo da letra:
     .accesskey = i
