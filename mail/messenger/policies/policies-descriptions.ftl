@@ -76,6 +76,10 @@ policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid 
 
 policy-InstallAddonsPermission = Permetter a tschertas websites dad installar supplements.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Permetter a websites specificas dad utilisar colliaziuns a datotecas localas.
 
 policy-NetworkPrediction = Activar u deactivar «network prediction» (prelectura DNS).

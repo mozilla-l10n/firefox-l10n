@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Mesiras da protecziun
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Avrir il rapport davart las mesiras per la protecziun da datas
+
 appmenuitem-customize-mode =
     .label = Persunalisar…
 

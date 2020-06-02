@@ -70,9 +70,6 @@ fingerprinter-tab-content = Improntaders rimnan parameters da tes navigatur e co
 cryptominer-tab-title = Criptominiers
 cryptominer-tab-content = Criptominiers maldovran las resursas da tes sistem per generar daners digitals. Scripts da criptominiers consuman la battaria, ralenteschan tes computer e pon augmentar il quint da l'electricitad. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
 
-protections-close-button =
-    .aria-label = Serrar
-
 protections-close-button2 =
     .aria-label = Serrar
     .title = Serrar

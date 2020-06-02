@@ -389,8 +389,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilisar { $plugin-name } (en { -brand-short-name })
-applications-preview-inapp =
-    .label = Prevista en { -brand-short-name }
 
 applications-open-inapp =
     .label = Avrir en { -brand-short-name }
@@ -407,9 +405,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -631,11 +626,16 @@ home-prefs-topsites-header =
     .label = Paginas preferidas
 home-prefs-topsites-description = Las paginas che ti visitas il pli savens
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Recumandà da { $provider }
 home-prefs-recommended-by-description = Cuntegn interessant ord il web, persunalisà per tai
+##
+
 home-prefs-recommended-by-learn-more = Co ch'i funcziuna
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Artitgels sponsurads
@@ -956,9 +956,9 @@ privacy-header = Protecziun da datas
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Infurmaziuns d'annunzia & pleds-clav
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Infurmaziuns d'annunzia & pleds-clav
@@ -997,9 +997,6 @@ forms-master-pw-fips-title = Ti es actualmain en il modus FIPS. FIPS pretenda in
 forms-master-pw-fips-desc = I n'è betg reussì da midar il pled-clav
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Verifitgescha tia identitad per crear in pled clav universal.
 
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -1200,7 +1197,6 @@ content-blocking-warning-title = Attenziun!
 content-blocking-warning-description = La bloccada da cuntegn po impedir che tschertas websites funcziunian. Igl è simpel da deactivar la bloccada per las websites che ti tegnas per fidablas.
 content-blocking-learn-how = Vegnir a savair co
 
-content-blocking-etp-warning-description = La bloccada da fastizaders po influenzar las funcziunalitads da tschertas websites. Rechargiar ina pagina cun fastizaders per chargiar l'entir cuntegn.
 content-blocking-and-isolating-etp-warning-description = La bloccada da fastizaders e l'isolaziun da cookies po influenzar las funcziunalitads da tschertas websites. Rechargiar ina pagina cun fastizaders per chargiar l'entir cuntegn.
 content-blocking-warning-learn-how = Vegnir a savair co
 

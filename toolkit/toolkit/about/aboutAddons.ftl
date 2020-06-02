@@ -608,9 +608,6 @@ updates-heading = Administrar las actualisaziuns
 discover-heading = Persunalisescha tes { -brand-short-name }
 shortcuts-heading = Administrar scursanidas dad extensiuns
 
-theme-heading-search-label = Chattar ulteriurs designs
-extension-heading-search-label = Chattar ulteriuras extensiuns
-
 default-heading-search-label = Chattar ulteriurs supplements
 addons-heading-search-input =
     .placeholder = Tschertgar sin addons.mozilla.org

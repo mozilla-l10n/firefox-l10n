@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Tschertgar text en la pagina">
 <!ENTITY spellToolbarCmd.label "Ortografia">
 <!ENTITY spellToolbarCmd.tooltip "Controllar l'ortografia da la selecziun u da l'entira pagina">
+
 <!ENTITY imageToolbarCmd.label "Grafica">
 <!ENTITY imageToolbarCmd.tooltip "Inserir ina nova grafica u modifitgar las caracteristicas da la grafica selecziunada">
 <!ENTITY hruleToolbarCmd.label "Lingia">
