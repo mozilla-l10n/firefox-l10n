@@ -286,6 +286,8 @@ cloud-account-description = Tambakan layanan penyimpanan Filelink
 
 ## Privacy Tab
 
+remote-content-info =
+    .value = Pelajari lebih lanjut tentang isu privasi konten jarak jauh
 passwords-description = { -brand-short-name } dapat menyimpan informasi sandi untuk semua akun Anda sehingga Anda tidak perlu mengetikkan ulang informasi log-masuk Anda berkali-kali.
 passwords-button =
     .label = Sandi Tersimpan…
@@ -297,6 +299,7 @@ master-password-label =
 master-password-button =
     .label = Ubah Sandi Utama…
     .accesskey = S
+junk-description = Atur pengaturan surel sampah bawaan. Pengaturan surel sampah masing-masing akun dapat diatur pada Pengaturan Akun.
 junk-label =
     .label = Saat menandai pesan sebagai pesan junk:
     .accesskey = S
