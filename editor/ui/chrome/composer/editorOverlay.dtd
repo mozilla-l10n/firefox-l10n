@@ -315,6 +315,7 @@
 <!ENTITY BackgroundColorButton.tooltip "Choisir une couleur pour le fond">
 <!ENTITY throbber.tooltip "Visiter le site web de &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Visiter le site web de &brandShortName;">
+<!ENTITY HighlightColorButton.label "Surlignage">
 <!ENTITY HighlightColorButton.tooltip "Choisir la mise en couleur pour le texte">
 
 <!-- Editor toolbar -->
