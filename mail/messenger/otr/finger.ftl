@@ -13,3 +13,5 @@ finger-fingerprint =
     .label = Fingeravtryck
 finger-remove =
     .label = Ta bort markerad
+finger-remove-all =
+    .label = Ta bort alla

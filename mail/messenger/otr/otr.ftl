@@ -63,3 +63,12 @@ error-enc = Ett fel inträffade vid kryptering av meddelandet.
 error-not_priv = Du skickade krypterad data till { $name }, som inte förväntade sig den.
 error-unreadable = Du skickade ett oläsbart krypterat meddelande.
 error-malformed = Du skickade ett felformat datameddelande.
+resent = [skicka igen]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } har avslutat sin krypterade konversation med dig; du borde göra samma sak.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } har begärt en Off-the-Record-krypterad konversation (OTR). Du har dock inte en insticksmodul som stöder det. Se https://en.wikipedia.org/wiki/Off-the-Record_Messaging för mer information.
