@@ -35,14 +35,22 @@ font-language-group-cyrillic =
     .label = Chirilică
 font-language-group-el =
     .label = Greacă
+font-language-group-other =
+    .label = Alte sisteme de scriere
+font-language-group-thai =
+    .label = Thailandeză
 font-language-group-hebrew =
     .label = Ebraică
 font-language-group-arabic =
     .label = Arabă
 font-language-group-devanagari =
     .label = Devanagari
+font-language-group-tamil =
+    .label = Tamilă
 font-language-group-armenian =
     .label = Armeană
+font-language-group-bengali =
+    .label = Bengali
 font-language-group-ethiopic =
     .label = Etiopiană
 font-language-group-georgian =
@@ -55,9 +63,25 @@ font-language-group-khmer =
     .label = Khmeră
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-math =
+    .label = Matematică
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
 
 ## Default font type
 
+default-font-serif =
+    .label = Cu serife
+default-font-sans-serif =
+    .label = Fără serife
+font-serif-label =
+    .value = Cu serife:
+    .accesskey = s
+font-sans-serif-label =
+    .value = Fără serife:
+    .accesskey = n
 font-monospace-label =
     .value = Monospațiat:
     .accesskey = M
@@ -75,9 +99,13 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Codare de text
 font-outgoing-email-label =
     .value = Mesaje trimise:
     .accesskey = M
 font-incoming-email-label =
     .value = Mesaje primite:
     .accesskey = i
+default-font-reply-checkbox =
+    .label = Când e posibil, folosește codarea de text implicită în răspunsuri
+    .accesskey = n
