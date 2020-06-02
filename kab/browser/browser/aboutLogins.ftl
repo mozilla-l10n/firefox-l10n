@@ -32,6 +32,7 @@ menu =
     .title = Ldi umuɣ
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Kter seg iminig nniḍen…
+about-logins-menu-menuitem-export-logins = Sifeḍ inekcam…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] iɣewwaṛen
@@ -160,6 +161,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 about-logins-confirm-remove-dialog-confirm-button = Kkes
+about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
 about-logins-confirm-export-dialog-confirm-button = Kter…
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
 confirm-discard-changes-dialog-message = Akk isnifal ur nettwakles ara ad ttwaksen.
@@ -196,6 +198,8 @@ about-logins-error-message-default = Teḍra-d tuccḍa deg uɛraḍ n usekles n
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Afaylu n usifeḍ n yinekcam
 about-logins-export-file-picker-export-button = Kter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

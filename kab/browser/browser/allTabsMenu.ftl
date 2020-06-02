@@ -4,17 +4,20 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Sefsex amdal n yiccer.
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sefsex amdal n yiccer
+            [one] Sefsex amdal n yiccer
+           *[other] Sefsex amdal n waccaren
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Nadi deg yiccaren
-
 all-tabs-menu-new-user-context =
     .label = Iccer amagbar amaynut
-
 all-tabs-menu-hidden-tabs =
     .label = Iccaren ifren
-
 all-tabs-menu-manage-user-context =
     .label = Sefrek imagbaren
     .accesskey = O
