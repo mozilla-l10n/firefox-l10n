@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-dialog-window =
+    .title = Roghainnean ceangail
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Rèitich progsaidhean a chum inntrigeadh dhan lìon
 proxy-type-no =
     .label = Gun phrogsaidh
@@ -46,3 +53,10 @@ no-proxy-label =
     .value = Gun phrogsaidh airson:
     .accesskey = n
 no-proxy-example = Ball-sampaill: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = Na iarr orm mo dhearbhadh ma chaidh am facal-faire a shàbhaladh ann
+    .accesskey = i
+    .tooltiptext = Nì an roghainn seo dearbhadh sàmhach as do leth mu choinneamh phrogsaidhean a chaidh ainm is facal-faire a shàbhaladh air an son. Thèid do bhrodadh mur an obraich an dearbhadh.
+proxy-remote-dns =
+    .label = DNS progsaidh nuair a chleachdar SOCKS v5
+    .accesskey = d
