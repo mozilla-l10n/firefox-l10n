@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opsies
+           *[other] Voorkeure
+        }
 pane-compose-title = Opstelling
 category-compose =
     .tooltiptext = Opstelling
@@ -62,6 +68,9 @@ return-receipts-description = Bepaal hoe { -brand-short-name } antwoordstrokies 
 return-receipts-button =
     .label = Antwoordstrokies…
     .accesskey = A
+update-history-button =
+    .label = Wys bywerkgeskiedenis
+    .accesskey = W
 networking-legend = Verbinding
 proxy-config-description = Stel op hoe { -brand-short-name } aan die internet koppel
 network-settings-button =
@@ -145,13 +154,37 @@ display-tags-text = Merkers kan gebruik word om u boodskappe te kategoriseer en 
 delete-tag-button =
     .label = Skrap
     .accesskey = S
+auto-mark-as-read =
+    .label = Merk boodskappe outomaties as gelees
+    .accesskey = M
+mark-read-no-delay =
+    .label = Dadelik wanneer vertoon
+    .accesskey = w
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Na vertoon is vir
+    .accesskey = v
+seconds-label = sekondes
 
 ##
 
+open-msg-label =
+    .value = Open boodskappe in:
+open-msg-tab =
+    .label = 'n Nuwe oortjie
+    .accesskey = o
+open-msg-window =
+    .label = 'n Nuwe boodskapvenster
+    .accesskey = N
+open-msg-ex-window =
+    .label = 'n Bestaande boodskapvenster
+    .accesskey = B
+condensed-addresses-label =
+    .label = Wys net vertoonnaam vir mense in my adresboek
+    .accesskey = W
 
 ## Compose Tab
 
@@ -229,6 +262,19 @@ attachment-options-label =
 
 ## Privacy Tab
 
+web-content = Webinhoud
+keep-label =
+    .value = Hou tot:
+    .accesskey = H
+keep-expire =
+    .label = hulle verval
+keep-close =
+    .label = ek { -brand-short-name } afsluit
+keep-ask =
+    .label = vra elke keer
+cookies-button =
+    .label = Wys koekies…
+    .accesskey = W
 passwords-description = { -brand-short-name } kan wagwoorde vir al jou rekeninge onthou.
 passwords-button =
     .label = Gestoorde wagwoorde…
@@ -277,6 +323,15 @@ certificate-ask =
 
 ##
 
+chat-play-button =
+    .label = Speel
+    .accesskey = S
+chat-custom-sound-label =
+    .label = Gebruik die volgende klanklêer
+    .accesskey = G
+chat-browse-sound-button =
+    .label = Blaai…
+    .accesskey = B
 
 ## Preferences UI Search Results
 
