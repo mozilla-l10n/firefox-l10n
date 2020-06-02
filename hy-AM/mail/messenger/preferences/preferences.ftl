@@ -122,6 +122,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը
     .accesskey = Մ
+datetime-formatting-legend = Ամսաթվի և ժամանակի ձևաչափ
 allow-hw-accel =
     .label = Հնարավորության դեպքում օգտագործել սարքակազմի արագացում
     .accesskey = ս
@@ -164,6 +165,10 @@ return-receipts-description = Որոշեք, թե { -brand-short-name }-ը ինչ
 return-receipts-button =
     .label = Ստացականներ...
     .accesskey = R
+update-app-legend = { -brand-short-name }-ի թարմացումներ
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Տարբերակ՝ { $version }
 automatic-updates-label =
     .label = Ինքնաշխատ տեղադրել թարմացումները (խորհուրդ է տրվում)
     .accesskey = Ի
@@ -204,6 +209,9 @@ use-cache-after = ՄԲ պահոցի համար
 
 ##
 
+smart-cache-label =
+    .label = Վերագրել շտեմի ինքնաշխատ կառավարումը
+    .accesskey = v
 clear-cache-button =
     .label = Մաքրել Հիմա
     .accesskey = C
