@@ -4,6 +4,7 @@
 
 calendar-title = Календар
 calendar-title-reminder = Нагадування
+calendar-title-category = Категорії
 dateformat-label =
     .value = Формат дати:
     .accesskey = Ф
