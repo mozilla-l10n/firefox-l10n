@@ -19,6 +19,17 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = 收取点
     .tooltiptext = { unset-default-tooltip }
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+system-search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows 搜索
+       *[other] { "" }
+    }
 system-search-integration-label =
     .label = 允许 { system-search-engine-name } 搜索邮件
     .accesskey = s
+check-on-startup-label =
+    .label = 每次启动 { -brand-short-name } 时都进行此项检查
+    .accesskey = A
