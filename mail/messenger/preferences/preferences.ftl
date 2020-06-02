@@ -2,9 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Sulje
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Asetukset
+           *[other] Asetukset
+        }
 pane-general-title = Yleiset
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Viestin kirjoitus
+category-compose =
+    .tooltiptext = Viestin kirjoitus
 pane-chat-title = Keskustelut
 category-chat =
     .tooltiptext = Keskustelut
@@ -61,6 +72,7 @@ update-in-progress-ok-button = &Hylkää
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jatka
+addons-button = Laajennukset ja teemat
 
 ## OS Authentication dialog
 
@@ -78,7 +90,14 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 default-search-engine = Oletushakukone
+minimize-to-tray-label =
+    .label = Kun { -brand-short-name } on pienennetty, piilota se
+    .accesskey = p
 mail-play-button =
     .label = Toista
     .accesskey = T
@@ -86,6 +105,7 @@ change-dock-icon = Muokkaa sovelluskuvakkeen asetuksia
 app-icon-options =
     .label = Sovelluskuvakkeen asetukset…
     .accesskey = v
+notification-settings = Ilmoitukset ja oletusääni voidaan poistaa käytöstä Asetukset-ikkunan Ilmoitukset-paneelissa.
 customize-alert-label =
     .label = Muokkaa…
     .accesskey = M
@@ -98,9 +118,16 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Selaa…
     .accesskey = S
+enable-gloda-search-label =
+    .label = Ota käyttöön viestien yleishaku ja indeksointi
+    .accesskey = O
+datetime-formatting-legend = Päiväyksen ja ajan muoto
 allow-hw-accel =
     .label = Käytä laitteistokiihdytystä jos mahdollista
     .accesskey = l
+store-type-label =
+    .value = Viestisäilö uusilla tileillä:
+    .accesskey = V
 mbox-store-label =
     .label = Tiedosto jokaiselle kansiolle (mbox)
 maildir-store-label =
@@ -127,12 +154,20 @@ search-engine-name =
         [windows] Windowsin haku
        *[other] { "" }
     }
+search-integration-label =
+    .label = Salli hakukoneen { search-engine-name } etsiä viesteistä
+    .accesskey = S
 config-editor-button =
     .label = Asetusten muokkain…
     .accesskey = A
+return-receipts-description = Määrittele, kuinka { -brand-short-name } käsittelee vastaanottokuittauksia
 return-receipts-button =
     .label = Vastaanottokuittaukset…
     .accesskey = V
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versio { $version }
+allow-description = Anna sovellukselle { -brand-short-name } lupa
 automatic-updates-label =
     .label = Asenna päivitykset automaattisesti (suositeltu: turvallisin)
     .accesskey = A
@@ -145,6 +180,7 @@ update-history-button =
 use-service =
     .label = Asenna päivitykset taustapalvelun avulla
     .accesskey = u
+cross-user-udpate-warning = Tämä asetus vaikuttaa kaikkiin tätä { -brand-short-name }-asennusta käyttäviin Windows-tileihin ja { -brand-short-name }-profiileihin.
 networking-legend = Yhteysasetukset
 proxy-config-description = Määritä yhteyden välityspalvelimet
 network-settings-button =
@@ -155,6 +191,7 @@ offline-settings = Määritä verkkoyhteydettömän tilan asetukset
 offline-settings-button =
     .label = Yhteydetön tila…
     .accesskey = h
+diskspace-legend = Levytilan käyttö
 offline-compact-folder =
     .label = Tiivistä kansiot kun se säästää yhteensä yli
     .accesskey = T
@@ -172,6 +209,9 @@ use-cache-after = Mt:a levytilaa väliaikaistiedostoille
 
 ##
 
+smart-cache-label =
+    .label = Ohita automaattinen välimuistin hallinta
+    .accesskey = O
 clear-cache-button =
     .label = Tyhjennä heti
     .accesskey = T
@@ -188,13 +228,43 @@ font-options-button =
 color-options-button =
     .label = Värit…
     .accesskey = V
+display-width-legend = Pelkkä teksti -viestit
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
     .label = Näytä hymiöt kuvina
     .accesskey = N
+display-text-label = Kirjasinlaji lainattaessa pelkkä teksti -viestejä:
+style-label =
+    .value = Tyyli:
+    .accesskey = T
+regular-style-item =
+    .label = Normaali
+bold-style-item =
+    .label = Lihavoitu
+italic-style-item =
+    .label = Kursivoitu
+bold-italic-style-item =
+    .label = Lihavoitu kursiivi
+size-label =
+    .value = Koko:
+    .accesskey = o
+regular-size-item =
+    .label = Normaali
+bigger-size-item =
+    .label = Suurempi
+smaller-size-item =
+    .label = Pienempi
 quoted-text-color =
     .label = Väri:
     .accesskey = V
+search-input =
+    .placeholder = Etsi
+type-column-label =
+    .label = Sisältötyyppi
+    .accesskey = S
+action-column-label =
+    .label = Toiminto
+    .accesskey = o
 save-to-label =
     .label = Tallenna kansioon
     .accesskey = T
@@ -212,6 +282,16 @@ choose-folder-label =
 always-ask-label =
     .label = Kysy aina tiedoston tallennuskansio
     .accesskey = K
+display-tags-text = Voit luokitella ja merkitä tärkeitä viestejä tunnuksilla.
+new-tag-button =
+    .label = Uusi…
+    .accesskey = U
+edit-tag-button =
+    .label = Muokkaa…
+    .accesskey = M
+delete-tag-button =
+    .label = Poista
+    .accesskey = P
 auto-mark-as-read =
     .label = Merkitse viestit automaattisesti luetuksi
     .accesskey = M
@@ -234,6 +314,9 @@ open-msg-label =
 open-msg-tab =
     .label = Uuteen välilehteen
     .accesskey = v
+open-msg-ex-window =
+    .label = Avoinna olevaan viesti-ikkunaan
+    .accesskey = A
 close-move-delete =
     .label = Sulje viesti-ikkuna kun viesti siirretään tai poistetaan
     .accesskey = v
@@ -243,6 +326,13 @@ condensed-addresses-label =
 
 ## Compose Tab
 
+forward-label =
+    .value = Välitä viestit:
+    .accesskey = V
+inline-label =
+    .label = Viestirungossa
+as-attachment-label =
+    .label = Liitteenä
 extension-label =
     .label = lisää tiedostonimeen pääte
     .accesskey = s
@@ -250,12 +340,35 @@ extension-label =
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Tallenna viestit automaattisesti
+    .accesskey = T
+auto-save-end = minuutin välein
 
 ##
 
+warn-on-send-accel-key =
+    .label = Pyydä vahvistus kun viesti lähetetään pikanäppäimillä
+    .accesskey = y
+spellcheck-label =
+    .label = Oikolue viestit ennen lähettämistä
+    .accesskey = O
+spellcheck-inline-label =
+    .label = Oikolue teksti kirjoitettaessa
+    .accesskey = k
+language-popup-label =
+    .value = Kieli:
+    .accesskey = K
+download-dictionaries-link = Hae sanastoja
 font-label =
     .value = Kirjasin:
     .accesskey = n
+font-size-label =
+    .value = Koko:
+    .accesskey = K
+default-colors-label =
+    .label = Käytä lukijan oletusvärejä
+    .accesskey = o
 font-color-label =
     .value = Tekstin väri:
     .accesskey = s
@@ -265,8 +378,33 @@ bg-color-label =
 restore-html-label =
     .label = Palauta oletukset
     .accesskey = P
+default-format-label =
+    .label = Käytä oletuksena kappalemuotoilua leipätekstin sijaan
+    .accesskey = p
+format-description = Muokkaa viestimuodon lähetysasetuksia:
+send-options-label =
+    .label = Lähetysasetukset…
+    .accesskey = L
+autocomplete-description = Kirjoitettaessa vastaanottajia, etsi vastineita kohteesta:
+ab-label =
+    .label = Paikalliset osoitekirjat
+    .accesskey = P
+directories-label =
+    .label = Hakemistopalvelin:
+    .accesskey = H
 directories-none-label =
     .none = Ei mitään
+edit-directories-label =
+    .label = Muokkaa hakemistoja…
+    .accesskey = M
+email-picker-label =
+    .label = Lisää lähetettyjen viestien vastaanottajat osoitekirjaan:
+    .accesskey = L
+default-directory-label =
+    .value = Oletuskansio osoitekirjan ikkunassa:
+    .accesskey = k
+default-last-label =
+    .none = Viimeksi käytetty kansio
 attachment-label =
     .label = Tarkista puuttuuko viestistä liitetiedosto
     .accesskey = p
@@ -277,6 +415,10 @@ enable-cloud-share =
     .label = Ehdota palvelua yli
 cloud-share-size =
     .value = Mt:n tiedostoille
+add-cloud-account =
+    .label = Lisää…
+    .accesskey = L
+    .defaultlabel = Lisää…
 remove-cloud-account =
     .label = Poista
     .accesskey = P
@@ -285,9 +427,14 @@ cloud-account-description = Lisää uusi tiedostoja linkittävä tallennuspalvel
 ## Privacy Tab
 
 mail-content = Sähköpostin sisältö
+remote-content-label =
+    .label = Salli etäsisältö sähköposteissa
+    .accesskey = S
 exceptions-button =
     .label = Poikkeukset…
     .accesskey = k
+remote-content-info =
+    .value = Lue lisää etäsisällön vaikutuksista yksityisyydensuojaan
 web-content = Verkkosisältö
 history-label =
     .label = Muista avaamani sivustot ja linkit
@@ -407,6 +554,17 @@ notification-name =
     .label = vain lähettäjän nimi
 notification-empty =
     .label = ilman lisätietoja
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animoi Dockin kohde
+           *[other] Vilkuta työkalupalkin kohdetta
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] V
+        }
 chat-play-sound-label =
     .label = Toista ääni
     .accesskey = a
@@ -422,6 +580,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Selaa…
     .accesskey = S
+theme-label =
+    .value = Teema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Kuplat
+style-dark =
+    .label = Tumma
+style-paper =
+    .label = Paperiarkit
+style-simple =
+    .label = Yksinkertainen
+preview-label = Esikatselu:
+no-preview-label = Esikatselu ei ole käytettävissä
+no-preview-description = Tämä teema ei ole kelvollinen tai sitä ei tilapäisesti ole saatavilla (estetty liitännäinen, vikasietotila, …).
+chat-variant-label =
+    .value = Muunnelma:
+    .accesskey = M
+chat-header-label =
+    .label = Näytä otsikko
+    .accesskey = O
 
 ## Preferences UI Search Results
 
