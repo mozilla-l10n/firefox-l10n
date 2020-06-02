@@ -103,6 +103,17 @@ restore-default-label =
     .accesskey = u
 default-search-engine = Standard søkemotor
 new-message-arrival = Når en ny melding ankommer:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Spill av følgende lydfil:
+           *[other] Spill av en lyd
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] S
+        }
 mail-play-button =
     .label = Spill av
     .accesskey = p
@@ -157,6 +168,9 @@ search-engine-name =
         [windows] Windows-søk
        *[other] { "" }
     }
+search-integration-label =
+    .label = Tillat { search-engine-name } å søke i meldinger
+    .accesskey = s
 config-editor-button =
     .label = Konfigurasjonseditor …
     .accesskey = o
@@ -275,12 +289,18 @@ always-ask-label =
     .label = Alltid spør meg hvor jeg vil lagre filer
     .accesskey = A
 display-tags-text = Etiketter kan brukes for å kategorisere og prioritere meldingene dine.
+edit-tag-button =
+    .label = Rediger …
+    .accesskey = R
 delete-tag-button =
     .label = Slett
     .accesskey = S
 auto-mark-as-read =
     .label = Automatisk merk meldinger som lest
     .accesskey = A
+mark-read-no-delay =
+    .label = Umiddelbart etter de er vist
+    .accesskey = U
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -358,6 +378,9 @@ bg-color-label =
 restore-html-label =
     .label = Bruk standard
     .accesskey = d
+default-format-label =
+    .label = Bruk paragrafformat i stedet for brødtekst som standard
+    .accesskey = p
 format-description = Konfigurer oppførselen til tekstformatet
 send-options-label =
     .label = Sendeinnstillinger …
@@ -387,6 +410,10 @@ enable-cloud-share =
     .label = Tilby å dele for filer større enn
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Legg til …
+    .accesskey = L
+    .defaultlabel = Legg til …
 remove-cloud-account =
     .label = Fjern
     .accesskey = F
@@ -478,6 +505,9 @@ certificate-auto =
     .accesskey = e
 certificate-ask =
     .label = Spør meg hver gang
+    .accesskey = S
+ocsp-label =
+    .label = Spør OCSP-serverne om å bekrefte gyldigheten til sertifikater
     .accesskey = S
 
 ## Chat Tab
