@@ -69,7 +69,7 @@
 <!ENTITY HomeState.label                "Provincie:">
 <!ENTITY HomeState.accesskey            "v">
 <!ENTITY HomeZipCode.label              "Postcode:">
-<!ENTITY HomeZipCode.accesskey          "t">
+<!ENTITY HomeZipCode.accesskey          "s">
 <!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Webpagina:">
