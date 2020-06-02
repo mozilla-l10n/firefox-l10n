@@ -368,6 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Heertin…">
 <!ENTITY viewCustomizeToolbar.accesskey     "H">
+
 <!ENTITY overflowCustomizeToolbar.label       "Heertin Palal Kuutorɗe…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "H">
 
