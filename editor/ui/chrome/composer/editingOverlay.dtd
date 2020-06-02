@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "ადგილობრივი ფაილის გახსნა">
 <!ENTITY saveToolbarCmd.tooltip "ფაილის შენახვა კომპიუტერში">
 <!ENTITY publishToolbarCmd.tooltip "ფაილის ატვირთვა გარე სერვერზე">
+<!ENTITY printToolbarCmd.label "ამობეჭდვა">
+<!ENTITY printToolbarCmd.tooltip "ამ გვერდის ამობეჭდვა">
