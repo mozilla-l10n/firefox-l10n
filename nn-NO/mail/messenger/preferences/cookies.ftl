@@ -14,6 +14,7 @@ window-focus-search-alt-key =
 filter-search-label =
     .value = Søk:
     .accesskey = S
+cookies-on-system-label = Følgande infokapslar er lagra på datamaskina di:
 treecol-site-header =
     .label = Nettstad
 treecol-name-header =
