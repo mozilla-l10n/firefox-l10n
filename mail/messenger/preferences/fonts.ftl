@@ -8,6 +8,8 @@ fonts-label-default =
     .label = المبدئي ({ $name })
 fonts-label-default-unnamed =
     .label = المبدئي
+fonts-encoding-dialog-title =
+    .title = الخطوط و الترميزات
 fonts-language-legend =
     .value = خطوط:
     .accesskey = خ
@@ -66,6 +68,10 @@ font-language-group-odia =
 
 ## Default font type
 
+default-font-serif =
+    .label = مذيّل
+default-font-sans-serif =
+    .label = غير مذيّل
 font-serif-label =
     .value = مذيل:
     .accesskey = م
