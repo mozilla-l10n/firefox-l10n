@@ -4,16 +4,15 @@
 
 connection-dns-over-https-url-resolver = Szolgáltató használata
     .accesskey = o
-
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (Alapértelmezett)
     .tooltiptext = Az alapértelmezett URL használati a HTTPS feletti DNS feloldáshoz
-
 connection-dns-over-https-url-custom =
     .label = Egyéni
     .accesskey = E
     .tooltiptext = Adja meg az előnyben részesített URL-t a HTTPS feletti DNS feloldáshoz
-
 connection-dns-over-https-custom-label = Egyéni
+connection-proxy-legend = Proxy beállítása az internet eléréséhez
+no-proxy-example = Példa: .mozilla.org, .net.nz, 192.168.1.0/24
