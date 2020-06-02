@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = ป้ายกำกับใหม่
+
 tag-name-label =
     .value = ชื่อป้ายกำกับ:
     .accesskey = ช

@@ -382,8 +382,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = ใช้ { $plugin-name } (ใน { -brand-short-name })
-applications-preview-inapp =
-    .label = แสดงตัวอย่างใน { -brand-short-name }
 
 applications-open-inapp =
     .label = เปิดใน { -brand-short-name }
@@ -400,9 +398,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -624,11 +619,16 @@ home-prefs-topsites-header =
     .label = ไซต์เด่น
 home-prefs-topsites-description = ไซต์ที่คุณเยี่ยมชมมากที่สุด
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = แนะนำโดย { $provider }
 home-prefs-recommended-by-description = เนื้อหาที่ยอดเยี่ยมจากเว็บต่าง ๆ ปรับแต่งให้เป็นส่วนบุคคลเพื่อคุณ
+##
+
 home-prefs-recommended-by-learn-more = วิธีการทำงาน
 home-prefs-recommended-by-option-sponsored-stories =
     .label = เรื่องราวที่ได้รับการสนับสนุน
@@ -945,9 +945,9 @@ privacy-header = ความเป็นส่วนตัวเบราว์
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = การเข้าสู่ระบบและรหัสผ่าน
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = การเข้าสู่ระบบและรหัสผ่าน
@@ -986,9 +986,6 @@ forms-master-pw-fips-title = คุณกำลังอยู่ในโหม
 forms-master-pw-fips-desc = การเปลี่ยนรหัสผ่านล้มเหลว
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = ยืนยันตัวตนของคุณเพื่อสร้างรหัสผ่านหลัก
 
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -1192,7 +1189,6 @@ content-blocking-warning-title = ระวัง!
 content-blocking-warning-description = การปิดกั้นเนื้อหาอาจส่งผลให้บางเว็บใช้การไม่ได้ แต่มันก็ง่ายที่จะปลดการปิดกั้นสำหรับเว็บที่คุณไว้ใจ
 content-blocking-learn-how = เรียนรู้วิธี
 
-content-blocking-etp-warning-description = การปิดกั้นตัวติดตามอาจส่งผลต่อการทำงานของบางไซต์ โหลดหน้าเว็บใหม่ด้วยตัวติดตามเพื่อโหลดเนื้อหาทั้งหมด
 content-blocking-and-isolating-etp-warning-description = การปิดกั้นตัวติดตามและแยกคุกกี้อาจส่งผลกระทบต่อการทำงานของบางไซต์ได้ โหลดหน้าใหม่พร้อมตัวติดตามเพื่อโหลดเนื้อหาทั้งหมด
 content-blocking-warning-learn-how = เรียนรู้วิธี
 

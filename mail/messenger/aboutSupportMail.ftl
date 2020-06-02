@@ -16,3 +16,4 @@ accounts-default = ค่าเริ่มต้น?
 identity-name = ข้อมูลประจำตัว
 
 send-via-email = ส่งผ่านอีเมล
+

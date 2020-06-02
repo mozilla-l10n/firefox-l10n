@@ -292,10 +292,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.installBlocked.tooltip           "คุณได้ปิดกั้นการติดตั้งส่วนเสริมสำหรับเว็บไซต์นี้">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "คุณได้อนุญาตไซต์นี้ด้วยสิทธิเพิ่มเติม">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "คุณได้อนุญาตไซต์นี้ด้วยสิทธิเพิ่มเติม">
 
 
 <!ENTITY searchItem.title             "ค้นหา">
@@ -410,6 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ป">
+
 <!ENTITY overflowCustomizeToolbar.label       "ปรับแต่งแถบเครื่องมือ…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ป">
 
@@ -900,54 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "เปิดค่ากำหนดการปิดกั้นเนื้อหา">
 
 
-<!ENTITY protections.etpON.header "การป้องกันการติดตามที่มากขึ้นถูก เปิด สำหรับไซต์นี้">
-<!ENTITY protections.etpOFF.header "การป้องกันการติดตามที่มากขึ้นถูก ปิด สำหรับไซต์นี้">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "รายละเอียดเพิ่มเติมเกี่ยวกับการป้องกันการติดตามที่มากขึ้น">
-<!ENTITY protections.settings.label "การตั้งค่าการป้องกัน">
-<!ENTITY protections.showreport.label "แสดงรายงาน">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "ไซต์ไม่ทำงาน?">
-<!ENTITY protections.siteNotWorkingView.title "ไซต์ไม่ทำงาน?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "ปิดการป้องกันหากคุณมีปัญหากับ:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "ช่องเข้าสู่ระบบ">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "แบบฟอร์ม">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "การชำระเงิน">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "ความคิดเห็น">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "วิดีโอ">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "ส่งรายงาน">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "ปิดกั้นแล้ว">
-<!ENTITY protections.notBlocking2.label "อนุญาตแล้ว">
-<!ENTITY protections.notFound.label "ตรวจไม่พบ">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "ทำไม?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "การปิดกั้นคุณลักษณะเหล่านี้อาจทำให้องค์ประกอบของบางเว็บไซต์เสียหายได้ หากไม่มีตัวติดตาม ปุ่ม แบบฟอร์ม และฟิลด์การเข้าสู่ระบบบางส่วนอาจไม่ทำงาน">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "ตัวติดตามทั้งหมดในไซต์นี้ถูกโหลดเนื่องจากการป้องกันถูกปิด">
-<!ENTITY protections.noTrackersFound.description "ไม่มีตัวติดตามที่ &brandShortName; รู้จักถูกตรวจพบที่หน้านี้">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "คุกกี้เหล่านี้ติดตามคุณจากไซต์หนึ่งไปยังอีกไซต์หนึ่งเพื่อรวบรวมข้อมูลเกี่ยวกับสิ่งที่คุณทำทางออนไลน์ พวกมันถูกตั้งค่าโดยบุคคลที่สามเช่น นักโฆษณาและบริษัทวิเคราะห์">
-<!ENTITY protections.cryptominers.description "ตัวขุดเหรียญคริปโตดิจิตอลใช้พลังการคำนวณของระบบของคุณเพื่อสร้างเงินคริปโตดิจิทัล สคริปต์ขุดเหรียญดิจิทัลจะทำให้พลังงานแบตเตอรี่ของคุณลดลง คอมพิวเตอร์ของคุณช้าลง และเพิ่มค่าไฟฟ้าของคุณได้">
-<!ENTITY protections.fingerprinters.description "ลายนิ้วมือดิจิทัลรวบรวมการตั้งค่าจากเบราว์เซอร์และคอมพิวเตอร์ของคุณเพื่อสร้างโปรไฟล์ของคุณ การใช้ลายนิ้วมือดิจิทัลจะทำให้สามารถติดตามคุณผ่านเว็บไซต์ต่าง ๆ ได้">
-<!ENTITY protections.trackingContent2.description "เว็บไซต์อาจโหลดโฆษณา วิดีโอ และเนื้อหาอื่น ๆ นอกเว็บที่มีโค้ดติดตาม การปิดกั้นเนื้อหาการติดตามจะทำให้เว็บไซต์โหลดเร็วขึ้น แต่ปุ่มบางปุ่ม ฟอร์ม และเขตข้อมูลการเข้าสู่ระบบอาจไม่ทำงาน">
-<!ENTITY protections.socialMediaTrackers.description "เครือข่ายสังคมออนไลน์จะวางตัวติดตามบนเว็บไซต์อื่น ๆ เพื่อติดตามสิ่งที่คุณทำ และดูทางออนไลน์ ซึ่งทำให้บริษัทสังคมออนไลน์สามารถเรียนรู้เพิ่มเติมเกี่ยวกับคุณนอกเหนือจากที่คุณแบ่งปันในโปรไฟล์สังคมออนไลน์ของคุณ">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "แท็บเบราว์เซอร์">
@@ -992,13 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "คุกกี้">
 <!ENTITY contentBlocking.cookiesView.label "คุกกี้และข้อมูลไซต์">
 
-<!ENTITY contentBlocking.trackingProtection4.label "ตัวติดตามเนื้อหา">
-
-<!ENTITY contentBlocking.manageSettings2.label "จัดการการตั้งค่าการป้องกัน">
-<!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
-<!ENTITY contentBlocking.socialblock.label "ตัวติดตามสังคมออนไลน์">
-
 <!ENTITY contentBlocking.cryptominers.label "ตัวขุดเหรียญดิจิทัล">
 <!ENTITY contentBlocking.cryptominersView.label "ตัวขุดเหรียญดิจิทัล">
 
@@ -1010,12 +956,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "การบล็อกเนื้อหาอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ เมื่อคุณรายงานปัญหา นั่นก็เท่ากับคุณช่วยทำให้ &brandShortName; ดีขึ้นสำหรับทุกๆ คน (การดำเนินการนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ Mozilla)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "เรียนรู้เพิ่มเติม">
 
-<!ENTITY contentBlocking.breakageReportView.title "รายงานไซต์ที่ใช้งานไม่ได้">
-<!ENTITY contentBlocking.breakageReportView3.description "การปิดกั้นตัวติดตามบางตัวอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ การรายงานปัญหา ก็เท่ากับคุณช่วยทำให้ &brandShortName; ดีขึ้นสำหรับทุก ๆ คน การรายงานนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ Mozilla">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "เรียนรู้เพิ่มเติม">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "คุณมีปัญหาอะไร? (ไม่จำเป็นต้องระบุ)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "ทางเลือก: อธิบายปัญหา">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ส่งรายงาน">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "ยกเลิก">
 

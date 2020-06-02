@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "ค้นหาข้อความในหน้า">
 <!ENTITY spellToolbarCmd.label "การสะกด">
 <!ENTITY spellToolbarCmd.tooltip "ตรวจสอบการสะกดของส่วนที่เลือกหรือทั้งหน้า">
+
 <!ENTITY imageToolbarCmd.label "ภาพ">
 <!ENTITY imageToolbarCmd.tooltip "แทรกภาพใหม่หรือแก้ไขคุณสมบัติของภาพที่เลือก">
 <!ENTITY hruleToolbarCmd.label "เส้นแนวนอน">
