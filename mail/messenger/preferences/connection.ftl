@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = P
     .tooltiptext = Introduïu el vostre URL preferit per resoldre DNS sobre HTTPS
 connection-dns-over-https-custom-label = Personalitzat
+connection-dialog-window =
+    .title = Paràmetres de la connexió
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Configura els servidors intermediaris per accedir a Internet
 proxy-type-no =
     .label = Sense cap servidor intermediari
@@ -33,6 +40,12 @@ proxy-http-label =
 http-port-label =
     .value = Port:
     .accesskey = P
+proxy-http-sharing =
+    .label = Utilitza també aquest servidor intermediari per a HTTPS
+    .accesskey = v
+proxy-https-label =
+    .value = Servidor intermediari d'HTTPS:
+    .accesskey = S
 ssl-port-label =
     .value = Port:
     .accesskey = o
@@ -58,3 +71,15 @@ no-proxy-label =
     .value = Sense servidor intermediari per a:
     .accesskey = n
 no-proxy-example = Exemple: .mozilla.org, .net.nz, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = No s'utilitza mail cap servidor intermediari per a les connexions a localhost, 127.0.0.1 i ::1.
+proxy-password-prompt =
+    .label = No sol·licitis autenticació si la contrasenya està desada
+    .accesskey = i
+    .tooltiptext = Aquesta opció us autentica automàticament en els servidors intermediaris dels quals heu desat les credencials. Si l'autenticació falla, se us sol·licitaran les credencials.
+proxy-remote-dns =
+    .label = Utilitza el servidor intermediari per a DNS en utilitzar SOCKS v5
+    .accesskey = d
+proxy-enable-doh =
+    .label = Habilita DNS sobre HTTPS
+    .accesskey = H

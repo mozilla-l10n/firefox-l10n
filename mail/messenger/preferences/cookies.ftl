@@ -14,6 +14,7 @@ window-focus-search-alt-key =
 filter-search-label =
     .value = Cerca:
     .accesskey = C
+cookies-on-system-label = Les galetes següents estan emmagatzemades al vostre ordinador:
 treecol-site-header =
     .label = Lloc web
 treecol-name-header =
