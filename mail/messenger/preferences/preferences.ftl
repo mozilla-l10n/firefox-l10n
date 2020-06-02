@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Dùin
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -27,6 +29,7 @@ update-pref-write-failure-title = Dh’fhàillig an sgrìobhadh
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Cha deach an roghainn a shàbhaladh oir cha b’ urrainn dhuinn sgrìobhadh san fhaidhle: { $path }
+addons-button = Leudachain ⁊ ùrlaran
 
 ## OS Authentication dialog
 
@@ -87,6 +90,7 @@ enable-gloda-search-label =
     .label = Cuir an lorg is an clàr-innsiche uile-choitcheann an comas
     .accesskey = e
 datetime-formatting-legend = Fòrmatadh a’ chinn-là ’s an ama
+language-selector-legend = Cànan
 allow-hw-accel =
     .label = Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh
     .accesskey = m
@@ -133,6 +137,7 @@ update-app-legend = Ùrachaidhean { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Tionndadh { $version }
+allow-description = Thoir cead dha { -brand-short-name }
 automatic-updates-label =
     .label = Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b’ fhearr)
     .accesskey = S
@@ -145,6 +150,7 @@ update-history-button =
 use-service =
     .label = Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh
     .accesskey = b
+cross-user-udpate-warning = Bidh buaidh aig an roghainn seo air gach cunntas Windows agus pròifil { -brand-short-name } a chleachdas an stàladh seo de { -brand-short-name }.
 networking-legend = Ceangal
 proxy-config-description = Rèitich mar a cheanglas { -brand-short-name } ris an lìon
 network-settings-button =
@@ -330,6 +336,12 @@ download-dictionaries-link = Luchdaich a-nuas barrachd fhaclairean
 font-label =
     .value = Cruth-clò:
     .accesskey = C
+font-size-label =
+    .value = Meud:
+    .accesskey = z
+default-colors-label =
+    .label = Cleachd dathan bunaiteach an leughadair
+    .accesskey = d
 font-color-label =
     .value = Dath an teacsa:
     .accesskey = t
@@ -530,6 +542,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Brabhsaich…
     .accesskey = B
+theme-label =
+    .value = Ùrlar:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Builgeanan
+style-dark =
+    .label = Dorcha
+style-paper =
+    .label = Siotaichean pàipeir
+style-simple =
+    .label = Simplidh
+preview-label = Ro-shealladh:
+no-preview-label = Chan eil ro-shealladh ri fhaighinn
+no-preview-description = Chan eil an t-ùrlar seo dligheach no chan eil e ri fhaighinn aig an àm seo (tuilleadan à comas, modh sàbhailte, ...).
+chat-variant-label =
+    .value = Eug-samhail:
+    .accesskey = V
+chat-header-label =
+    .label = Seall am bann-cinn
+    .accesskey = H
 
 ## Preferences UI Search Results
 
