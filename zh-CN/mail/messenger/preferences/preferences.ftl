@@ -103,6 +103,17 @@ restore-default-label =
     .accesskey = R
 default-search-engine = 默认搜索引擎
 new-message-arrival = 当新消息到达时：
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] 播放下列声音文件：
+           *[other] 播放声音
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] d
+        }
 mail-play-button =
     .label = 播放
     .accesskey = P
@@ -110,6 +121,7 @@ change-dock-icon = 更改应用图标首选项
 app-icon-options =
     .label = 应用图标选项…
     .accesskey = n
+notification-settings = 可以在系统设置的通知面板中禁用提醒和默认的通知声音。
 customize-alert-label =
     .label = 自定义…
     .accesskey = C
@@ -125,6 +137,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = 启用全局搜索以及索引
     .accesskey = E
+datetime-formatting-legend = 日期和时间格式
 allow-hw-accel =
     .label = 自动启用硬件加速
     .accesskey = h
@@ -159,6 +172,10 @@ return-receipts-description = 指定 { -brand-short-name } 如何处理回执
 return-receipts-button =
     .label = 回执…
     .accesskey = R
+update-app-legend = { -brand-short-name } 更新
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = 版本: { $version }
 automatic-updates-label =
     .label = 自动安装更新（推荐：可提升安全性）
     .accesskey = A
@@ -199,6 +216,9 @@ use-cache-after = MB 磁盘空间作为缓存
 
 ##
 
+smart-cache-label =
+    .label = 覆盖自动缓存管理
+    .accesskey = v
 clear-cache-button =
     .label = 立即清空
     .accesskey = C
@@ -263,6 +283,12 @@ choose-folder-label =
            *[other] B
         }
 display-tags-text = 标签用于对消息进行分类或区分优先级。
+new-tag-button =
+    .label = 新建…
+    .accesskey = N
+edit-tag-button =
+    .label = 编辑…
+    .accesskey = E
 delete-tag-button =
     .label = 删除
     .accesskey = D
@@ -349,6 +375,9 @@ bg-color-label =
 restore-html-label =
     .label = 恢复默认值
     .accesskey = R
+default-format-label =
+    .label = 默认使用段落而非正文文本格式
+    .accesskey = P
 format-description = 配置文本格式行为：
 send-options-label =
     .label = 发送选项…
@@ -368,6 +397,11 @@ edit-directories-label =
 email-picker-label =
     .label = 自动将发送邮件地址添加至：
     .accesskey = A
+default-directory-label =
+    .value = 通讯录窗口中的默认启动目录︰
+    .accesskey = S
+default-last-label =
+    .none = 最后使用目录
 attachment-label =
     .label = 检查缺失的附件
     .accesskey = m
@@ -378,6 +412,10 @@ enable-cloud-share =
     .label = 大于此数值的文件提议分享：
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = 添加…
+    .accesskey = A
+    .defaultlabel = 添加…
 remove-cloud-account =
     .label = 移除
     .accesskey = R
@@ -496,6 +534,17 @@ notification-name =
     .label = 仅带有发送者的名称
 notification-empty =
     .label = 不带有任何信息
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] 动画 Dock 图标
+           *[other] 刷新任务栏项目
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = 播放声音
     .accesskey = d
@@ -511,6 +560,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = 浏览…
     .accesskey = B
+theme-label =
+    .value = 主题：
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = 气泡
+style-dark =
+    .label = 黑夜
+style-paper =
+    .label = 纸张
+style-simple =
+    .label = 简朴
+preview-label = 预览：
+no-preview-label = 没有预览可用
+no-preview-description = 此主题无效或目前不可用（原因例如：已被禁用、处在安全模式，……）。
+chat-variant-label =
+    .value = 变体：
+    .accesskey = V
+chat-header-label =
+    .label = 显示报头
+    .accesskey = H
 
 ## Preferences UI Search Results
 
