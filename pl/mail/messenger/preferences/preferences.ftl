@@ -5,6 +5,9 @@
 pane-general-title = Ogólne
 category-general =
     .tooltiptext = { pane-general-title }
+pane-calendar-title = Kalendarz
+category-calendar =
+    .tooltiptext = Kalendarz
 general-language-and-appearance-header = Język i wygląd
 general-incoming-mail-header = Poczta przychodząca
 general-files-and-attachment-header = Pliki i załączniki
@@ -72,6 +75,14 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Usługa wyszukiwania systemu Windows
+       *[other] { "" }
+    }
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -98,9 +109,49 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ##
 
 format-description = Ustawienia automatycznego formatowania wysyłanych wiadomości
+cloud-share-size =
+    .value = MB
 
 ## Privacy Tab
 
+mail-content = Wiadomości
+remote-content-label =
+    .label = Zdalne treści w wiadomościach
+    .accesskey = Z
+exceptions-button =
+    .label = Wyjątki…
+    .accesskey = W
+remote-content-info =
+    .value = Informacje o wpływie zdalnych treści na prywatność
+web-content = Strony
+history-label =
+    .label = Zachowywanie historii odwiedzonych stron
+    .accesskey = e
+cookies-label =
+    .label = Akceptowanie ciasteczek
+    .accesskey = A
+third-party-always =
+    .label = zawsze
+third-party-never =
+    .label = nigdy
+third-party-visited =
+    .label = z odwiedzonych
+keep-label =
+    .value = Przechowywanie ciasteczek:
+    .accesskey = h
+keep-expire =
+    .label = do ich wygaśnięcia
+keep-close =
+    .label = do zamknięcia programu { -brand-short-name }
+keep-ask =
+    .label = pytaj za każdym razem
+cookies-button =
+    .label = Wyświetl ciasteczka…
+    .accesskey = c
+passwords-description = { -brand-short-name } może zachować hasła dla wszystkich kont użytkownika.
+junk-log-label =
+    .label = Włącz dziennik filtru niechcianej poczty
+    .accesskey = d
 
 ## Chat Tab
 
