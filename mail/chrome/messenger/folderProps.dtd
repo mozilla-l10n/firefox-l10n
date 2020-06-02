@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Привілеї…">
 <!ENTITY privileges.button.accesskey             "П">
 <!ENTITY permissionsDesc.label                   "У вас є наступні права:">
+<!ENTITY folderOtherUsers.label                  "Інші, з доступом до цієї теки:">
 <!ENTITY folderType.label                        "Тип теки:">
 
 <!ENTITY folderQuotaTab.label                    "Квота">
