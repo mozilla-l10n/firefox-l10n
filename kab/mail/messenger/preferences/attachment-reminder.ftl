@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+attachment-reminder-window =
+    .title = Awalen n tsarut n usmekti n yimeddayen
 attachment-reminder-label = { -brand-short-name } ad k-id-yelɣu ɣef imeddayen yettwattun ticki t-ttedduḍ ad tazneḍ imayl igebren yiwen seg wawalen-agi n tsarutt.
 keyword-new-button =
     .label = Amaynut...
