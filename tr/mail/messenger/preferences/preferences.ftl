@@ -5,6 +5,9 @@
 pane-general-title = Genel
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Düzenleme
+category-compose =
+    .tooltiptext = Düzenleme
 general-language-and-appearance-header = Dil ve Görünüm
 general-incoming-mail-header = Gelen E-postalar
 general-files-and-attachment-header = Dosyalar ve Ekler
@@ -72,14 +75,71 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
+location-label =
+    .value = Konum:
+    .accesskey = o
+mail-play-button =
+    .label = Çal
+    .accesskey = l
+customize-alert-label =
+    .label = Özelleştir…
+    .accesskey = z
+mail-browse-sound-button =
+    .label = Gözat…
+    .accesskey = G
+networking-legend = Bağlantı
+network-settings-button =
+    .label = Ayarlar…
+    .accesskey = A
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Önbellek için en fazla
+    .accesskey = b
+use-cache-after = MB kullan
 
 ##
 
+default-size-label =
+    .value = Boyut:
+    .accesskey = o
+font-options-button =
+    .label = Gelişmiş…
+    .accesskey = e
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Duygu simgelerini grafik olarak göster
+    .accesskey = D
+bold-style-item =
+    .label = Kalın
+italic-style-item =
+    .label = Eğik
+search-input =
+    .placeholder = Ara
+action-column-label =
+    .label = Eylem
+    .accesskey = E
+save-to-label =
+    .label = Dosyaları kaydetme konumu
+    .accesskey = k
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Seç…
+           *[other] Gözat…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] S
+           *[other] G
+        }
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -90,16 +150,31 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Compose Tab
 
+forward-label =
+    .value = İletileri
+    .accesskey = İ
+extension-label =
+    .label = dosya adına uzantı ekle
+    .accesskey = d
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Her
+    .accesskey = e
 
 ##
 
+directories-none-label =
+    .none = Hiçbiri
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name } bütün hesaplarınızın parolalarını hatırlayabilir.
+master-password-label =
+    .label = Ana parola kullan
+    .accesskey = A
 junk-label =
     .label = İletileri gereksiz olarak işaretlediğimde:
     .accesskey = l
@@ -115,6 +190,9 @@ junk-read-label =
 junk-log-button =
     .label = Günlüğü göster
     .accesskey = G
+certificate-ask =
+    .label = Her seferinde bana sor
+    .accesskey = H
 
 ## Chat Tab
 
