@@ -108,6 +108,12 @@ restore-default-label =
     .label = Відновити
     .accesskey = н
 default-search-engine = Типовий засіб пошуку
+add-search-engine =
+    .label = Додати з файлу
+    .accesskey = Д
+remove-search-engine =
+    .label = Вилучити
+    .accesskey = в
 new-message-arrival = При появі нових листів:
 mail-play-sound-label =
     .label =
@@ -494,6 +500,9 @@ keep-ask =
 cookies-button =
     .label = Показати куки…
     .accesskey = о
+do-not-track-label =
+    .label = Надішліть вебсайтам сигнал “Не стежити”, якщо ви не хочете, щоб вас відстежували
+    .accesskey = с
 learn-button =
     .label = Докладніше
 passwords-description = { -brand-short-name } може запам’ятовувати реєстраційну інформацію для всіх ваших облікових записів так, що вам не доведеться вводити її знову.
@@ -547,6 +556,12 @@ certificate-ask =
 ocsp-label =
     .label = Запитувати у серверів OCSP підтвердження поточного стану сертифікатів
     .accesskey = З
+certificate-button =
+    .label = Керування сертифікатами…
+    .accesskey = К
+security-devices-button =
+    .label = Пристрої безпеки…
+    .accesskey = з
 
 ## Chat Tab
 
