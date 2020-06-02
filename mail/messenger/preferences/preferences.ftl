@@ -138,6 +138,7 @@ enable-gloda-search-label =
     .label = Activează căutarea globală și indexarea
     .accesskey = i
 datetime-formatting-legend = Formatarea datei și a orei
+language-selector-legend = Limba
 allow-hw-accel =
     .label = Folosește accelerarea hardware când este disponibilă
     .accesskey = h
