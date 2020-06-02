@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-dialog =
+    .buttonlabelaccept = По подразбиране
+    .buttonlabelcancel = Прескачане на интеграцията
+    .buttonlabelcancel2 = Отмяна
 default-client-intro = Използване на { -brand-short-name } като клиент по подразбиране за:
 checkbox-email-label =
     .label = Електронна поща
