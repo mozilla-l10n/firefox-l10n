@@ -127,6 +127,9 @@ autocomplete-description = Pri naslavljanju sporočil išči ustrezne vnose v:
 ## Privacy Tab
 
 passwords-description = { -brand-short-name } si lahko zapomni gesla za vse vaše račune.
+passwords-button =
+    .label = Shranjena gesla …
+    .accesskey = S
 master-password-description = Glavno geslo varuje vsa vaša gesla, vendar ga morate vnesti vsaj enkrat na sejo.
 master-password-label =
     .label = Uporabi glavno geslo
