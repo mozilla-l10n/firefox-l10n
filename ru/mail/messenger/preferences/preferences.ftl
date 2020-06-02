@@ -103,6 +103,22 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Tab
 
+junk-description = Здесь вы можете установить настройки анти-спам фильтра по умолчанию. Настройки анти-спам фильтра, специфичные для учётной записи, могут быть установлены в параметрах учётной записи.
+junk-label =
+    .label = Когда я помечаю сообщения как спам:
+    .accesskey = с
+junk-move-label =
+    .label = Перемещать их в папку «Спам» учётной записи
+    .accesskey = м
+junk-delete-label =
+    .label = Удалять их
+    .accesskey = д
+junk-log-button =
+    .label = Показать журнал
+    .accesskey = к
+reset-junk-button =
+    .label = Удалить данные обучения
+    .accesskey = б
 
 ## Chat Tab
 
