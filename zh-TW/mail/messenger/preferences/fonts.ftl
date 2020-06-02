@@ -4,10 +4,26 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = 預設（{ $name }）
 fonts-label-default-unnamed =
     .label = 預設
+fonts-encoding-dialog-title =
+    .title = 字型與字元編碼
+
+## Languages
+
+
+## Default font type
+
+
+## Fonts in message
+
+
+## Language settings
+
+font-outgoing-email-label =
+    .value = 外寄的郵件:
+    .accesskey = u
