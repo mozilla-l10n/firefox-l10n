@@ -2,12 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Luk
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Indstillinger
+           *[other] Indstillinger
+        }
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Redigering
+category-compose =
+    .tooltiptext = Redigering
 pane-privacy-title = Privatliv & sikkerhed
 category-privacy =
     .tooltiptext = Privatliv & sikkerhed
+pane-chat-title = Chat
+category-chat =
+    .tooltiptext = Chat
 pane-calendar-title = Kalender
 category-calendar =
     .tooltiptext = Kalender
@@ -69,12 +83,58 @@ focus-search-shortcut =
     .key = f
 focus-search-shortcut-alt =
     .key = k
+general-legend = { -brand-short-name } startside
+start-page-label =
+    .label = Vis startsiden i meddelelsesområdet, når { -brand-short-name } starter
+    .accesskey = V
+location-label =
+    .value = Startside:
+    .accesskey = S
+restore-default-label =
+    .label = Gendan standard
+    .accesskey = G
+default-search-engine = Standardsøgetjeneste
 add-search-engine =
     .label = Tilføj fra fil
     .accesskey = F
 remove-search-engine =
     .label = Fjern
     .accesskey = r
+new-message-arrival = Når der kommer nye meddelelser:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Afspil den følgende lydfil:
+           *[other] Afspil en lyd
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] n
+           *[other] d
+        }
+mail-play-button =
+    .label = Afspil
+    .accesskey = A
+change-dock-icon = Skift indstillinger for app-ikon
+app-icon-options =
+    .label = Indstillinger for app-ikon…
+    .accesskey = I
+notification-settings = Meddelelser og standardlyden kan deaktiveres på meddelelsessiden i systemindstillingerne.
+animated-alert-label =
+    .label = Vis en pop op-meddelelse
+    .accesskey = p
+customize-alert-label =
+    .label = Tilpas…
+    .accesskey = T
+tray-icon-label =
+    .label = Vis ikon i systembakken
+    .accesskey = k
+mail-custom-sound-label =
+    .label = Anvend følgende lydfil
+    .accesskey = n
+mail-browse-sound-button =
+    .label = Gennemse…
+    .accesskey = e
 enable-gloda-search-label =
     .label = Aktiver global søgning og indeksering
     .accesskey = A
@@ -125,6 +185,13 @@ update-app-legend = { -brand-short-name }-opdateringer
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Version { $version }
+allow-description = Giv { -brand-short-name } tilladelse til at
+automatic-updates-label =
+    .label = Installere opdateringer automatisk (anbefalet, forbedrer sikkerheden)
+    .accesskey = I
+check-updates-label =
+    .label = Søge efter opdateringer, men lade mig vælge om de skal installeres
+    .accesskey = ø
 update-history-button =
     .label = Vis opdateringshistorik
     .accesskey = V
@@ -540,6 +607,9 @@ chat-play-sound-label =
 chat-play-button =
     .label = Afspil
     .accesskey = A
+chat-system-sound-label =
+    .label = Standard systemlyd ved modtagelse af ny mail
+    .accesskey = y
 chat-custom-sound-label =
     .label = Brug denne lydfil
     .accesskey = B
