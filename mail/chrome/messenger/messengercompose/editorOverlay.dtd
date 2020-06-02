@@ -235,6 +235,7 @@
 <!ENTITY findToolbarCmd.tooltip "Tfola umbhalo ephejini">
 <!ENTITY spellToolbarCmd.label "Pela">
 <!ENTITY spellToolbarCmd.tooltip "Hlola sipelingi salokuphawuliwe nome salo lonkhe lelipheji">
+
 <!ENTITY imageToolbarCmd.label "Sitfombe">
 <!ENTITY imageToolbarCmd.tooltip "Fala sitfombe lesisha nome uhlele timphahla tesitfombe lesikhetsiwe">
 <!ENTITY hruleToolbarCmd.label "H. Lilayini">
