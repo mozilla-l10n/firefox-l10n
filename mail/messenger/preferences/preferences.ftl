@@ -76,6 +76,9 @@ new-message-arrival = Ko prispejo nova sporočila:
 mail-custom-sound-label =
     .label = Uporabi naslednjo zvočno datoteko
     .accesskey = U
+config-editor-button =
+    .label = Urejevalnik nastavitev …
+    .accesskey = U
 networking-legend = Povezava
 offline-legend = Brez povezave
 
@@ -107,6 +110,8 @@ bigger-size-item =
     .label = Večja
 smaller-size-item =
     .label = Manjša
+search-input =
+    .placeholder = Išči
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
