@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Փակել
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,9 +16,15 @@ category-general =
 pane-compose-title = Նամակը
 category-compose =
     .tooltiptext = Նամակը
+pane-privacy-title = Գաղտնիություն և անվտանգություն
+category-privacy =
+    .tooltiptext = Գաղտնիություն և անվտանգություն
 pane-chat-title = Զրույց
 category-chat =
     .tooltiptext = Զրույց
+pane-calendar-title = Օրացույց
+category-calendar =
+    .tooltiptext = Օրացույց
 general-language-and-appearance-header = Լեզուն և տեսքը
 general-incoming-mail-header = Մուտքային նամակներ
 general-files-and-attachment-header = Նիշքեր և հավելվածներ
@@ -64,6 +72,7 @@ update-in-progress-ok-button = &Հրաժարվել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
+addons-button = Ընդլայնումներ և Ոճեր
 
 ## OS Authentication dialog
 
@@ -85,6 +94,12 @@ restore-default-label =
     .label = Վերականգնել հիմնականը
     .accesskey = R
 default-search-engine = Հիմնական որոնիչ
+add-search-engine =
+    .label = Ավելացնել նիշքից
+    .accesskey = A
+remove-search-engine =
+    .label = Հեռացնել
+    .accesskey = v
 new-message-arrival = Նոր նամակ ստանալիս.
 mail-play-sound-label =
     .label =
@@ -104,6 +119,7 @@ change-dock-icon = Ծրագրի պատկերակի կարգավորումներ�
 app-icon-options =
     .label = Ծրագրի պատկերակի ընտրանքներ...
     .accesskey = կ
+notification-settings = Ահազանգերը և լռելյայն ձայնը կարող են անջատվել համակարգի նախապատվությունների ծանուցման վահանակում:
 animated-alert-label =
     .label = Ցուցադրել ազդի ժամանակ
     .accesskey = Ց
@@ -123,6 +139,7 @@ enable-gloda-search-label =
     .label = Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը
     .accesskey = Մ
 datetime-formatting-legend = Ամսաթվի և ժամանակի ձևաչափ
+language-selector-legend = Լեզու
 allow-hw-accel =
     .label = Հնարավորության դեպքում օգտագործել սարքակազմի արագացում
     .accesskey = ս
@@ -169,6 +186,7 @@ update-app-legend = { -brand-short-name }-ի թարմացումներ
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Տարբերակ՝ { $version }
+allow-description = Թույլատրել { -brand-short-name } դեպի
 automatic-updates-label =
     .label = Ինքնաշխատ տեղադրել թարմացումները (խորհուրդ է տրվում)
     .accesskey = Ի
@@ -181,6 +199,7 @@ update-history-button =
 use-service =
     .label = Թարմացումները տեղադրել խորապատկերում
     .accesskey = b
+cross-user-udpate-warning = Այս կարգաբերումը կկիրառվի Windows- ի բոլոր հաշիվների և { -brand-short-name }- ի համար; { -brand-short-name }- ի այս տեղադրումը օգտագործող հաշիվներ:
 networking-legend = Կապակցում
 proxy-config-description = Կարգավորել, թե ինչպես { -brand-short-name }-ը մուտք գործի համացանց
 network-settings-button =
@@ -323,6 +342,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Փակել նամակի էջը/պատուհանը ջնջելուց հետո
     .accesskey = C
+display-name-label =
+    .value = Ցուցադրել անունը․
 condensed-addresses-label =
     .label = Հասցեագրքում ցուցադրել միայն մարդկանց ցուցադրվող անունը
     .accesskey = S
@@ -366,6 +387,12 @@ download-dictionaries-link = Ներբեռնել բառարաններ
 font-label =
     .value = Տառը.
     .accesskey = n
+font-size-label =
+    .value = Չափը.
+    .accesskey = z
+default-colors-label =
+    .label = Օգտագործել ընթերցողի լռելյայն գույները
+    .accesskey = d
 font-color-label =
     .value = Տեքստի գույնը.
     .accesskey = T
@@ -397,6 +424,11 @@ edit-directories-label =
 email-picker-label =
     .label = Միանգամից ավելացնել ելքային հասցեները իմ՝
     .accesskey = A
+default-directory-label =
+    .value = Հասցեների նախնական ցուցակը հասցեների գրքի պատուհանում.
+    .accesskey = S
+default-last-label =
+    .none = Վերջին օգտագործված նշարանը
 attachment-label =
     .label = Ստուգել բացակայող կցորդները
     .accesskey = m
@@ -414,6 +446,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Ջնջել
     .accesskey = Ջ
+find-cloud-providers =
+    .value = Գտել ավել մատակարարներ…
 cloud-account-description = Ավելացնել նոր Ֆայլի հղման կրիչ սարք
 
 ## Privacy Tab
@@ -455,6 +489,11 @@ keep-ask =
 cookies-button =
     .label = Ցուցադրել Cookie-ները...
     .accesskey = S
+do-not-track-label =
+    .label = Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծվել
+    .accesskey = n
+learn-button =
+    .label = Իմանալ ավելին
 passwords-description = { -brand-short-name }-ը կարող է հիշել Ձեր բոլոր փոստարկղերի գաղտնաբառերը։
 passwords-button =
     .label = Պահպանված գաղտնաբառեր…
@@ -506,6 +545,12 @@ certificate-ask =
 ocsp-label =
     .label = OCSP հարցման պատասխանիչ սպասարկիչը՝ հաստատելու ընթացիկ վավերության վկայագիրը
     .accesskey = O
+certificate-button =
+    .label = Կառավարել վկայագրերը…
+    .accesskey = M
+security-devices-button =
+    .label = Անվտանգության սարքեր...
+    .accesskey = D
 
 ## Chat Tab
 
@@ -561,6 +606,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Ընտրել...
     .accesskey = Ը
+theme-label =
+    .value = Թեման.
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Պղպջակներ
+style-dark =
+    .label = Մուգ
+style-paper =
+    .label = Թղթի թերթեր
+style-simple =
+    .label = Պարզ
+preview-label = Նախադիտում.
+no-preview-label = Նախադիտումը հասանելի չէ
+no-preview-description = Այս թեման վավեր չէ կամ ներկայումս անհասանելի է (անջատված լրացում, անվտանգ աշխատակերպ,…):
+chat-variant-label =
+    .value = Տարբերակ․
+    .accesskey = V
+chat-header-label =
+    .label = Ցուցադրել վերնագիրը
+    .accesskey = H
 
 ## Preferences UI Search Results
 
