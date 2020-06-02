@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Календар
+calendar-title-reminder = Нагадування
 dateformat-label =
     .value = Формат дати:
     .accesskey = Ф
@@ -33,6 +35,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Показувати номер тижня в переглядах і міні-місяці
     .accesskey = т
+workdays-label =
+    .value = Робочі дні:
 day-1-checkbox =
     .label = НД
     .accesskey = Н
@@ -70,6 +74,9 @@ midnight-label =
     .label = Опівночі
 noon-label =
     .label = Опівдні
+location-checkbox =
+    .label = Показати розташування
+    .accesskey = ш
 multiweek-legend = Вигляд кількох тижнів
 number-of-weeks-label =
     .value = Показувати типово тижнів (включно з попередніми тижнями):
@@ -92,7 +99,16 @@ previous-weeks-label =
     .value = Показувати попередніх тижнів:
     .accesskey = П
 todaypane-legend = Панель дня
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Розділ "Незабаром" показує:
+    .accesskey = Н
 event-task-legend = Події та завдання
+default-length-label =
+    .value = Типова тривалість події та завдання:
+    .accesskey = и
 task-start-label =
     .value = Дата початку:
 task-start-1-label =
@@ -130,12 +146,18 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Використовувати типовий звук
     .accesskey = т
+reminder-custom-sound-label =
+    .label = Використовувати такий звуковий файл
+    .accesskey = з
 reminder-browse-sound-label =
     .label = Вибрати…
     .accesskey = В
 reminder-dialog-label =
     .label = Показати вікно сповіщення
     .accesskey = к
+missed-reminder-label =
+    .label = Показати пропущені нагадування для календарів з дозволом на запис
+    .accesskey = а
 reminder-default-legend = Типові значення для сповіщень
 default-snooze-label =
     .value = Типова тривалість затримки сигналу:
