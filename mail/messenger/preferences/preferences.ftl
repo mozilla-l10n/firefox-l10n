@@ -139,6 +139,7 @@ enable-gloda-search-label =
     .label = Aktiver global søgning og indeksering
     .accesskey = A
 datetime-formatting-legend = Dato- og tidsformat
+language-selector-legend = Sprog
 allow-hw-accel =
     .label = Brug hardware-acceleration hvor muligt
     .accesskey = h
