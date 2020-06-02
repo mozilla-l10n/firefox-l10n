@@ -20,12 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = બંધ ટૅબને ફરી લાવો
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = એક્સ્ટેંશનનો વહીવટ કરો
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = એક્સ્ટેંશન દૂર કરો
     .accesskey = v
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

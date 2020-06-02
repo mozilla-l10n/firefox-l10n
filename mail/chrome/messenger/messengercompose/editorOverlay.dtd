@@ -178,6 +178,7 @@
 <!ENTITY findToolbarCmd.tooltip "લખાણને પાનામાં શોધો">
 <!ENTITY spellToolbarCmd.label "જોડણી">
 <!ENTITY spellToolbarCmd.tooltip "પસંદગીની અથવા વર્તમાન પાનાની જોડણી ચકાસો">
+
 <!ENTITY imageToolbarCmd.label "ઈમેજ">
 <!ENTITY imageToolbarCmd.tooltip "નવી ઈમેજ એડ-ઓન અથવા પસંદ કરેલ ઈમેજના ગુણધર્મોમાં ફેરફાર કરો">
 <!ENTITY hruleToolbarCmd.label "આડી લીટી">
