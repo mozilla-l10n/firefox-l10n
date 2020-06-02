@@ -394,8 +394,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilizar { $plugin-name } (dins { -brand-short-name })
-applications-preview-inapp =
-    .label = Previsualizar dins { -brand-short-name }
 
 applications-open-inapp =
     .label = Dobrir dins { -brand-short-name }
@@ -412,9 +410,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -636,11 +631,16 @@ home-prefs-topsites-header =
     .label = Sites populars
 home-prefs-topsites-description = Los sites que visitatz mai sovent
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Recomandat per { $provider }
 home-prefs-recommended-by-description = De contengut interessant de tot lo web, personalizat per vos
+##
+
 home-prefs-recommended-by-learn-more = Cossí fonciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articles pairinejats
@@ -961,9 +961,9 @@ privacy-header = Confidencialitat del navegador
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Identificants e senhals
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Identificants e senhals
@@ -1002,9 +1002,6 @@ forms-master-pw-fips-title = Actualament, sètz en mòde FIPS. Lo mòde FIPS nec
 forms-master-pw-fips-desc = La modificacion de senhal a pas capitat
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Verificatz vòstra identitat per crear un senhal principal.
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Per crear un senhal màger, picatz vòstras informacions de connexion Windows. Aquò permet de servar la seguretat dels comptes.
@@ -1211,7 +1208,6 @@ content-blocking-warning-title = Atencion !
 content-blocking-warning-description = Lo blocatge del contengut pòt copar qualques sites. Es facil de desactivar lo blocatge pels sites que vos fisatz.
 content-blocking-learn-how = Descobrissètz cossí far
 
-content-blocking-etp-warning-description = Lo blocatge de traçadors pòt aver una incidéncia sus las foncionalitats de certans sites. Tornatz cargar una pagina amb los traçadors per cargar tot lo contengut.
 content-blocking-and-isolating-etp-warning-description = Lo blocatge de traçadors e l’isolacion dels cookies pòdon aver una incidéncia sus las foncionalitats de certans sites. Tornatz cargar una pagina amb los traçadors per cargar tot lo contengut.
 content-blocking-warning-learn-how = M’ensenhar cossí far
 

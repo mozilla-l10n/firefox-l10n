@@ -606,9 +606,6 @@ updates-heading = Gestion de las mesas a jorn
 discover-heading = Personalizatz { -brand-short-name }
 shortcuts-heading = Gestion dels acorchis d’extensions
 
-theme-heading-search-label = Trobar mai de tèmas
-extension-heading-search-label = Trobar mai d’extensions
-
 default-heading-search-label = Trobar mai de moduls
 addons-heading-search-input =
     .placeholder = Cercar sus addons.mozilla.org
