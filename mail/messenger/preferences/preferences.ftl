@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Затваряне
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -11,6 +13,9 @@ preferences-title =
 pane-compose-title = Съставяне
 category-compose =
     .tooltiptext = Съставяне
+pane-chat-title = Разговори
+category-chat =
+    .tooltiptext = Разговори
 pane-calendar-title = Календар
 category-calendar =
     .tooltiptext = Календар
@@ -47,8 +52,16 @@ location-label =
 restore-default-label =
     .label = Възстановяване
     .accesskey = В
+default-search-engine = Стандартна търсеща машина
 new-message-arrival = При пристигане на ново писмо:
+mail-play-button =
+    .label = Изпълняване
+    .accesskey = в
 change-dock-icon = Промяна на настройките за иконката на приложението
+app-icon-options =
+    .label = Настройки на пиктограмата на приложението…
+    .accesskey = и
+notification-settings = Можете да изключите предупрежденията и звуците от панела Уведомяване в Системни настройки.
 animated-alert-label =
     .label = Показване на известие
     .accesskey = и
@@ -67,6 +80,11 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Разрешаване на глобално търсене и индексиране
     .accesskey = Р
+datetime-formatting-legend = Формат на датата и часа
+language-selector-legend = Език
+allow-hw-accel =
+    .label = Използване на хардуерно ускоряване, ако е налично
+    .accesskey = х
 store-type-label =
     .value = Вид на съхранение на писмата за нови регистрации:
     .accesskey = В
@@ -75,6 +93,13 @@ mbox-store-label =
 maildir-store-label =
     .label = Файл за всяко писмо (maildir)
 scrolling-legend = Плъзгане
+autoscroll-label =
+    .label = Автоматично плъзгане
+    .accesskey = И
+smooth-scrolling-label =
+    .label = Плавно плъзгане
+    .accesskey = п
+system-integration-legend = Съчетаване с операционната система
 always-check-default =
     .label = Проверяване дали { -brand-short-name } е стандартният пощенски клиент
     .accesskey = В
@@ -99,19 +124,33 @@ return-receipts-description = Определяне как { -brand-short-name } 
 return-receipts-button =
     .label = Обратни разписки…
     .accesskey = б
+update-app-legend = Обновявания на { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Издание { $version }
 automatic-updates-label =
     .label = Автоматично инсталиране на обновявания (препоръчва се: подобрява безопасността)
     .accesskey = А
 check-updates-label =
     .label = Проверка за обновявания, но пита преди да ги инсталира
     .accesskey = П
+update-history-button =
+    .label = История на обновяванията
+    .accesskey = о
+use-service =
+    .label = Използване на услуга във фонов режим за инсталиране на обновявания
+    .accesskey = ф
 networking-legend = Връзка
+proxy-config-description = Настройки на { -brand-short-name } за достъп до Мрежата
 network-settings-button =
     .label = Настройки…
     .accesskey = й
+offline-legend = Без мрежа
+offline-settings = Конфигуриране настройките за работа извън мрежа
 offline-settings-button =
     .label = Без връзка…
     .accesskey = Б
+diskspace-legend = Дисково пространство
 offline-compact-folder =
     .label = Уплътняване на папките, когато ще се спести над
     .accesskey = У
@@ -125,9 +164,13 @@ compact-folder-size =
 use-cache-before =
     .value = Използване не повече от
     .accesskey = п
+use-cache-after = МБ за кеш
 
 ##
 
+smart-cache-label =
+    .label = Незачитане на автоматичното управление на буфера
+    .accesskey = Н
 clear-cache-button =
     .label = Изчистване
     .accesskey = ч
@@ -135,6 +178,12 @@ fonts-legend = Шрифтове и цветове
 default-font-label =
     .value = Шрифт по подразбиране:
     .accesskey = Ш
+default-size-label =
+    .value = Големина:
+    .accesskey = е
+font-options-button =
+    .label = Разширени…
+    .accesskey = Р
 color-options-button =
     .label = Цветове…
     .accesskey = Ц
@@ -175,6 +224,30 @@ type-column-label =
 action-column-label =
     .label = Действие
     .accesskey = Д
+save-to-label =
+    .label = Запазване на файловете в
+    .accesskey = З
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Избиране…
+           *[other] Избор…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] И
+           *[other] И
+        }
+always-ask-label =
+    .label = Винаги да пита къде да бъдат запазвани файловете
+    .accesskey = В
+display-tags-text = Етикетите могат да бъдат използвани за подреждане и оценяване на вашите писма.
+new-tag-button =
+    .label = Добавяне…
+    .accesskey = Д
+edit-tag-button =
+    .label = Редактиране…
+    .accesskey = Р
 delete-tag-button =
     .label = Изтриване
     .accesskey = И
@@ -220,6 +293,8 @@ forward-label =
     .accesskey = П
 inline-label =
     .label = Вложено
+as-attachment-label =
+    .label = Прикачено
 extension-label =
     .label = добавяне на разширение към името на файла
     .accesskey = ф
@@ -227,6 +302,9 @@ extension-label =
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Автоматично запазване на всеки
+    .accesskey = в
 auto-save-end = минути
 
 ##
@@ -237,6 +315,9 @@ warn-on-send-accel-key =
 spellcheck-label =
     .label = Проверка на правописа преди изпращане
     .accesskey = П
+spellcheck-inline-label =
+    .label = Проверка на правописа при въвеждане
+    .accesskey = в
 language-popup-label =
     .value = Език:
     .accesskey = Е
@@ -250,6 +331,9 @@ font-color-label =
 bg-color-label =
     .value = Цвят на фона:
     .accesskey = ф
+restore-html-label =
+    .label = Стандартни настройки
+    .accesskey = с
 default-format-label =
     .label = За формат по подразбиране да се използва Абзац вместо Основен текст
     .accesskey = ф
@@ -272,11 +356,25 @@ edit-directories-label =
 email-picker-label =
     .label = Автоматично добавяне на изходящите пощ. адреси към моя:
     .accesskey = А
+default-directory-label =
+    .value = Начална папка по подразбиране за адресника:
+    .accesskey = п
+default-last-label =
+    .none = Последно използван адресник
+attachment-label =
+    .label = Проверка за липсващи прикачени файлове
+    .accesskey = л
 attachment-options-label =
     .label = Ключови думи…
     .accesskey = К
 enable-cloud-share =
     .label = Предлагане за споделяне на файлове, когато са по-големи от
+cloud-share-size =
+    .value = МБ
+add-cloud-account =
+    .label = Добавяне…
+    .accesskey = Д
+    .defaultlabel = Добавяне…
 remove-cloud-account =
     .label = Премахване
     .accesskey = П
@@ -291,6 +389,8 @@ remote-content-label =
 exceptions-button =
     .label = Изключения…
     .accesskey = з
+remote-content-info =
+    .value = Научете повече за проблемите с личните данни и отдалеченото съдържание
 web-content = Уеб съдържание
 history-label =
     .label = Запомняне на посетените уеб-страници и връзки
@@ -298,10 +398,15 @@ history-label =
 cookies-label =
     .label = Разрешаване на бисквитки от сайтове
     .accesskey = б
+third-party-label =
+    .value = Разрешаване на бисквитки от трети страни:
+    .accesskey = т
 third-party-always =
     .label = Винаги
 third-party-never =
     .label = Никога
+third-party-visited =
+    .label = От посетените
 keep-label =
     .value = Задържане до:
     .accesskey = З
@@ -311,6 +416,9 @@ keep-close =
     .label = затваряне на { -brand-short-name }
 keep-ask =
     .label = питане всеки път
+cookies-button =
+    .label = Показване на бисквитките…
+    .accesskey = П
 passwords-description = { -brand-short-name } може да запомни паролите на всичките ви регистрации.
 passwords-button =
     .label = Запазени пароли…
@@ -319,6 +427,9 @@ master-password-description = Главната парола защитава о�
 master-password-label =
     .label = Използване на главна парола
     .accesskey = И
+master-password-button =
+    .label = Промяна на главна парола…
+    .accesskey = П
 junk-description = Установете началните настройки за нежеланите писма. Специфичните за всяка регистрация настройки могат да се направят в Настройки на регистрацията.
 junk-label =
     .label = Когато отбележа някое писмо за нежелано:
@@ -350,8 +461,14 @@ antivirus-label =
     .label = Разрешаване на антивирусните програми да поставят под карантина получаваните писма
     .accesskey = Р
 certificate-description = Когато сървъра поиска личния ми сертификат:
+certificate-auto =
+    .label = Автоматично избиране на някой
+    .accesskey = ч
 certificate-ask =
     .label = Запитване всеки път
+    .accesskey = З
+ocsp-label =
+    .label = Заявка към сървър OCSP responder за потвърждаване валидността на сертификатите
     .accesskey = З
 
 ## Chat Tab
@@ -393,6 +510,23 @@ notification-name =
     .label = само с името на подателя
 notification-empty =
     .label = без друга информация
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Анимиране на пиктограмата
+           *[other] Премигване в лентата със задачи
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] п
+           *[other] п
+        }
+chat-play-sound-label =
+    .label = Изпълняване на звук
+    .accesskey = з
+chat-play-button =
+    .label = Изпълняване
+    .accesskey = в
 chat-system-sound-label =
     .label = Стандартен системен звук за нови писма
     .accesskey = С
@@ -402,6 +536,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Разглеждане…
     .accesskey = Р
+theme-label =
+    .value = Тема:
+    .accesskey = Т
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Мехурчета
+style-dark =
+    .label = Тъмна
+style-paper =
+    .label = Хартиени листове
+style-simple =
+    .label = Обикновена
+preview-label = Преглед:
+no-preview-label = Няма преглед
+no-preview-description = Темата е непълна или временно недостъпна (изключена добавка, надежден режим и т.н).
+chat-variant-label =
+    .value = Вариант:
+    .accesskey = В
+chat-header-label =
+    .label = Показване на заглавен ред
+    .accesskey = з
 
 ## Preferences UI Search Results
 
