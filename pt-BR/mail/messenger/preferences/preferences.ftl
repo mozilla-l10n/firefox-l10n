@@ -86,6 +86,9 @@ mail-play-button =
 animated-alert-label =
     .label = Mostrar um alerta
     .accesskey = M
+customize-alert-label =
+    .label = Personalizar…
+    .accesskey = z
 mail-custom-sound-label =
     .label = Usar este arquivo de som:
     .accesskey = U
@@ -143,6 +146,8 @@ smaller-size-item =
 forward-label =
     .value = Encaminhar como:
     .accesskey = h
+inline-label =
+    .label = Texto na mensagem
 as-attachment-label =
     .label = Anexo
 
@@ -169,7 +174,21 @@ download-dictionaries-link = Mais dicionários
 font-label =
     .value = Fonte:
     .accesskey = F
+font-color-label =
+    .value = Cor do texto:
+    .accesskey = C
 autocomplete-description = Ao endereçar mensagens, procurar por contatos em:
+ab-label =
+    .label = Catálogos de endereços locais
+    .accesskey = C
+directories-label =
+    .label = Servidor de diretório:
+    .accesskey = S
+directories-none-label =
+    .none = Nenhum
+edit-directories-label =
+    .label = Editar diretórios…
+    .accesskey = E
 
 ## Privacy Tab
 
