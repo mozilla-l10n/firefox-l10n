@@ -395,9 +395,6 @@ plugin-heading = Stjórnborð tengiforrita
 dictionary-heading = Stjórnborð orðabóka
 locale-heading = Stjórnborð tungumála
 
-theme-heading-search-label = Finna fleiri þemu
-extension-heading-search-label = Finna fleiri viðbætur
-
 addons-heading-search-input =
     .placeholder = Leita á addons.mozilla.org
 
