@@ -371,8 +371,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ব্যবহার করা হবে ({ -brand-short-name } তে)
-applications-preview-inapp =
-    .label = { -brand-short-name }-র ভেতর প্রদর্শন করা হবে
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -386,9 +384,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -604,11 +599,16 @@ home-prefs-topsites-header =
     .label = শীর্ষ সাইট
 home-prefs-topsites-description = যে সাইটগুলিতে আপনি বেশি যান
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } দ্বারা সুপারিশকৃত
 home-prefs-recommended-by-description = ওয়েবের দারুন সব কন্টেন্ট, নিজের মত করে সাঁজিয়ে নিন
+##
+
 home-prefs-recommended-by-learn-more = কিভাবে এটা কাজ করে
 home-prefs-recommended-by-option-sponsored-stories =
     .label = স্পন্সর করা স্টোরি
@@ -921,9 +921,9 @@ privacy-header = ব্রাউজার গোপনীয়তা
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = লগইন এবং পাসওয়ার্ড
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = লগইন এবং পাসওয়ার্ড
@@ -1156,7 +1156,6 @@ content-blocking-warning-title = সাধুবাদ জানাই!
 content-blocking-warning-description = কন্টেন্ট ব্লক করার ফলে কিছু ওয়েবসাইট ঠিকঠাক কাজ নাও করতে পারে। আপনার বিশ্বস্ত সাইটের জন্য ব্লকিং বন্ধ করা সহজ।
 content-blocking-learn-how = শিখুন কিভাবে হয়
 
-content-blocking-etp-warning-description = ট্র্যাকার ব্লক কিছু সাইটের কার্যকারিতা প্রভাবিত করতে পারে। সমস্ত কন্টেন্ট লোড করতে ট্র্যাকার সহ একটি পাতা পুনরায় লোড করুন।
 content-blocking-warning-learn-how = শিখুন কিভাবে হয়
 
 content-blocking-reload-description = এই পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে আপনার ট্যাব পুনরায় লোড করতে হবে।

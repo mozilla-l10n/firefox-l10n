@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = গোপনীয়তা সুরক্ষা
 appmenuitem-protection-report-tooltip =
     .tooltiptext = আপনার গোপনীয়তার প্রতিবেদনে যান
+
 appmenuitem-customize-mode =
     .label = নিজের পছন্দানুযায়ী নির্বাচন…
 

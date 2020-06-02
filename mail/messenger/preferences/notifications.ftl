@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = নতুন মেইলের সতর্কবাণী স্বনির্বাচন
+
 customize-alert-description = সতর্কবাণী ঘোষনায় কোন ক্ষেত্রসমূহ দেখান হবে তা নির্বাচন করুন:
+
 preview-text-checkbox =
     .label = বার্তার প্রাকদর্শন টেক্সট (M)
     .accesskey = M
+
 subject-checkbox =
     .label = বিষয় (S)
     .accesskey = S
+
 sender-checkbox =
     .label = প্রেরক (e)
     .accesskey = e

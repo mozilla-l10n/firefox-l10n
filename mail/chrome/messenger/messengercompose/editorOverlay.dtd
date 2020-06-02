@@ -277,6 +277,7 @@
 <!ENTITY findToolbarCmd.tooltip "পৃষ্ঠায় পাঠ্য অনুসন্ধান">
 <!ENTITY spellToolbarCmd.label "বানান">
 <!ENTITY spellToolbarCmd.tooltip "নির্বাচনের বা সম্পূর্ণ পৃষ্ঠার বানান পরীক্ষা করা হবে">
+
 <!ENTITY imageToolbarCmd.label "ছবি">
 <!ENTITY imageToolbarCmd.tooltip "নতুন ছবি প্রবেশ বা নির্বাচিত ছবির বৈশিষ্ট্য সম্পাদনা করা হবে">
 <!ENTITY hruleToolbarCmd.label "অনুভূমিক রেখা">

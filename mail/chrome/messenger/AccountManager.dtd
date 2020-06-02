@@ -30,5 +30,6 @@
      this window for en-US. -->
 
 <!-- AccountManager.xhtml -->
+<!-- AccountManager.xhtml -->
 <!ENTITY accountManager.size "width: 110ch; height: 52em;">
 <!ENTITY accountTree.width "width: 31ch;">
