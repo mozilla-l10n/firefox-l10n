@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = k
     .tooltiptext = Nurodykite norimą URI serverių paieškai (DNS) HTTPS protokolu
 connection-dns-over-https-custom-label = Kita
+connection-dialog-window =
+    .title = Ryšio nuostatos
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Įgaliotųjų serverių sąranka
 proxy-type-no =
     .label = Nenaudoti įgaliotojo serverio
@@ -33,6 +40,12 @@ proxy-http-label =
 http-port-label =
     .value = Prievadas:
     .accesskey = P
+proxy-http-sharing =
+    .label = Taip pat naudoti šį serverį jungiantis per HTTPS
+    .accesskey = x
+proxy-https-label =
+    .value = HTTP įgaliotasis serveris:
+    .accesskey = S
 ssl-port-label =
     .value = Prievadas:
     .accesskey = i
@@ -58,3 +71,15 @@ no-proxy-label =
     .value = Tiesiogiai jungtis prie šių sričių:
     .accesskey = š
 no-proxy-example = Pavyzdys: .mozilla.org, .lrs.lt, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = Prisijungimai prie „localhost“, 127.0.0.1, ir ::1 niekada neina per įgaliotąjį serverį.
+proxy-password-prompt =
+    .label = Neprašyti tapatybės patvirtinimo, jeigu slaptažodis įrašytas
+    .accesskey = i
+    .tooltiptext = Pažymėjus šią parinktį, bus bandoma automatiškai patvirtinti tapatybę tuose įgaliotuosiuose serveriuose, kurių slaptažodžius naršyklė turi įsiminusi. Jei šis procesas nepavyktų, jūsų bus prašoma įvesti patikslintus duomenis.
+proxy-remote-dns =
+    .label = Įgaliotojo serverio DNS, kai naudojamas SOCKS v5
+    .accesskey = d
+proxy-enable-doh =
+    .label = Įjungti DNS per HTTPS
+    .accesskey = b

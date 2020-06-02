@@ -120,6 +120,7 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Simbolių koduotė
 text-encoding-description = Laiškų rašymo ir skaitymo numatytosios koduotės
 font-outgoing-email-label =
     .value = Laiškų rašymo:
