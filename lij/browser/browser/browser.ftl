@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navegaçion priva)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navegaçion priva)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navegaçion priva)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navegaçion priva)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -121,10 +123,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Ti æ blocòu l'estaçion dæti canvas pe sto scito.
 urlbar-midi-blocked =
     .tooltiptext = Ti æ blocòu l'acesso MIDI pe sto scito.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Cangia sto segnalibbro ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -156,6 +160,7 @@ search-one-offs-change-settings-button =
     .label = Inpostaçioin da riçerca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cangia inpostaçioin de riçerca
+
 search-one-offs-context-open-new-tab =
     .label = Çerca inte neuvo feuggio
     .accesskey = n
@@ -168,8 +173,10 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Fanni vedde l'editô quande sarvo
     .accesskey = F
+
 bookmark-panel-done-button =
     .label = Fæto
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -252,9 +259,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Navegatô in contròllo remòtto
 urlbar-switch-to-tab =
     .value = Vanni a-o feuggio:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estenscioin:
+
 urlbar-go-button =
     .tooltiptext = Vanni a l'indirisso in sciâ bara di indirissi
 urlbar-page-action-button =

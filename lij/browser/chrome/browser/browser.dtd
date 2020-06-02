@@ -391,6 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Personalizza…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+
 <!ENTITY overflowCustomizeToolbar.label       "Personaliza a bara di atressi…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
@@ -875,40 +876,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Arvi preferense do blòcco di contegnui">
 
 
-<!ENTITY protections.etpON.header "Proteçion anti traciamento avansâ a l'é ATIVA pe sto scito">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "O scito o no fonçionn-a?">
-<!ENTITY protections.siteNotWorkingView.title "O scito o no fonçionn-a?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Asmòrta e proteçioin se ti gh'æ di problemi con:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Canpi de acesso">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Mòdoli">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagamenti">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Comenti">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Video">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Manda 'n report">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Blocòu">
-<!ENTITY protections.notBlocking2.label "Permisso">
-<!ENTITY protections.notFound.label "Nisciun rilevou">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Perché?">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

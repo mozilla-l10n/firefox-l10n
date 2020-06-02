@@ -396,9 +396,6 @@ dictionary-heading = Gestisci i diçionai
 locale-heading = Gestisci e lengoe
 shortcuts-heading = Gestisci scorsaeiu de estenscioin
 
-theme-heading-search-label = Treuva atri temi
-extension-heading-search-label = Treuva atre estenscioin
-
 addons-heading-search-input =
     .placeholder = Çerca in addons.mozilla.org
 

@@ -6,6 +6,7 @@
 ## App Menu
 
 appmenuitem-protection-report-title = Proteçioin in sciâ privacy
+
 appmenuitem-customize-mode =
     .label = Personalizza…
 
