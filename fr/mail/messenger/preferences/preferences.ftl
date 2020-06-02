@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Préférences
+        }
 pane-general-title = Général
 category-general =
     .tooltiptext = { pane-general-title }
@@ -92,19 +98,33 @@ start-page-label =
 restore-default-label =
     .label = Réinitialiser
     .accesskey = i
+default-search-engine = Moteur de recherche par défaut
 new-message-arrival = Quand un nouveau message arrive :
 mail-play-button =
     .label = Jouer le son
     .accesskey = o
+change-dock-icon = Modifier les préférences de l’icône de l’application
+app-icon-options =
+    .label = Options de l’icône de l’application…
+    .accesskey = n
+animated-alert-label =
+    .label = Afficher un avertissement
+    .accesskey = f
 customize-alert-label =
     .label = Personnaliser…
     .accesskey = P
+tray-icon-label =
+    .label = Afficher une icône dans la barre de notification
+    .accesskey = e
 mail-custom-sound-label =
     .label = Utiliser le fichier son suivant :
     .accesskey = U
 mail-browse-sound-button =
     .label = Parcourir…
     .accesskey = r
+check-default-button =
+    .label = Vérifier maintenant…
+    .accesskey = V
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -113,7 +133,20 @@ search-engine-name =
         [windows] Recherche Windows
        *[other] { "" }
     }
+automatic-updates-label =
+    .label = Installer automatiquement les mises à jour (recommandé pour votre sécurité)
+    .accesskey = A
+check-updates-label =
+    .label = Vérifier l’existence de mises à jour mais me laisser décider de leur installation
+    .accesskey = C
+update-history-button =
+    .label = Afficher l’historique des mises à jour
+    .accesskey = h
+use-service =
+    .label = Utiliser un service en arrière-plan pour installer les mises à jour
+    .accesskey = s
 networking-legend = Connexion
+proxy-config-description = Configurer la façon dont { -brand-short-name } se connecte à Internet
 network-settings-button =
     .label = Paramètres…
     .accesskey = P
@@ -122,23 +155,40 @@ offline-settings = Configurer les paramètres hors connexion
 offline-settings-button =
     .label = Hors connexion…
     .accesskey = H
+diskspace-legend = Espace disque
+offline-compact-folder =
+    .label = Compacter les dossiers quand cela économise au moins
+    .accesskey = C
+compact-folder-size =
+    .value = Mo au total
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Utiliser jusqu’à
+    .accesskey = U
+use-cache-after = Mo d’espace disque pour le cache
 
 ##
 
 clear-cache-button =
     .label = Vider le cache maintenant
     .accesskey = V
+fonts-legend = Polices et couleurs
 default-font-label =
     .value = Police par défaut :
     .accesskey = D
 default-size-label =
     .value = Taille :
     .accesskey = T
+font-options-button =
+    .label = Avancé…
+    .accesskey = A
+color-options-button =
+    .label = Couleurs…
+    .accesskey = C
 display-width-legend = Messages en texte simple
 style-label =
     .value = Style :
@@ -160,6 +210,9 @@ bigger-size-item =
     .label = Plus grande
 smaller-size-item =
     .label = Plus petite
+quoted-text-color =
+    .label = Couleur :
+    .accesskey = o
 search-input =
     .placeholder = Rechercher
 type-column-label =
@@ -216,21 +269,45 @@ auto-save-end = minutes
 
 ##
 
+warn-on-send-accel-key =
+    .label = Demander confirmation lors de l’utilisation d’un raccourci clavier pour envoyer un message
+    .accesskey = D
+spellcheck-label =
+    .label = Vérifier l’orthographe avant l’envoi
+    .accesskey = V
 spellcheck-inline-label =
     .label = Activer la vérification pendant la saisie
     .accesskey = A
 language-popup-label =
     .value = Langue :
     .accesskey = L
+download-dictionaries-link = Télécharger d’autres dictionnaires
 font-label =
     .value = Police :
     .accesskey = P
 font-color-label =
     .value = Couleur du texte :
     .accesskey = C
+bg-color-label =
+    .value = Couleur de l’arrière-plan :
+    .accesskey = u
 restore-html-label =
     .label = Restaurer les paramètres initiaux
     .accesskey = R
+default-format-label =
+    .label = Utiliser le format paragraphe à la place du format texte principal par défaut
+    .accesskey = P
+format-description = Configuration du comportement pour l’envoi en format texte
+send-options-label =
+    .label = Options d’expédition…
+    .accesskey = O
+autocomplete-description = Lors de la recherche d’adresses, chercher les correspondances dans :
+ab-label =
+    .label = les carnets d’adresses locaux
+    .accesskey = C
+directories-label =
+    .label = un serveur d’annuaire :
+    .accesskey = s
 directories-none-label =
     .none = Aucun
 edit-directories-label =
@@ -245,6 +322,8 @@ attachment-label =
 attachment-options-label =
     .label = Mots-clés
     .accesskey = M
+enable-cloud-share =
+    .label = Proposer le partage pour les fichiers de plus de
 cloud-share-size =
     .value = Mo
 remove-cloud-account =
@@ -254,6 +333,43 @@ cloud-account-description = Ajouter un nouveau service de stockage en ligne
 
 ## Privacy Tab
 
+mail-content = Contenu des messages
+remote-content-label =
+    .label = Autoriser le contenu distant dans les messages
+    .accesskey = u
+exceptions-button =
+    .label = Exceptions…
+    .accesskey = p
+remote-content-info =
+    .value = En savoir plus sur les problématiques de vie privée liées au contenu distant
+web-content = Contenu web
+history-label =
+    .label = Se souvenir des sites web et liens visités
+    .accesskey = S
+cookies-label =
+    .label = Accepter les cookies
+    .accesskey = A
+third-party-label =
+    .value = Accepter les cookies tiers :
+    .accesskey = c
+third-party-always =
+    .label = toujours
+third-party-never =
+    .label = jamais
+third-party-visited =
+    .label = depuis les sites visités
+keep-label =
+    .value = Les conserver jusqu’à :
+    .accesskey = L
+keep-expire =
+    .label = leur expiration
+keep-close =
+    .label = la fermeture de { -brand-short-name }
+keep-ask =
+    .label = me demander à chaque fois
+cookies-button =
+    .label = Afficher les cookies…
+    .accesskey = k
 junk-description = Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».
 junk-label =
     .label = Quand je marque des messages comme indésirables :
@@ -273,15 +389,26 @@ junk-log-label =
 junk-log-button =
     .label = Afficher le journal
     .accesskey = A
+reset-junk-button =
+    .label = Réinitialiser les données d’apprentissage
+    .accesskey = R
+phishing-label =
+    .label = Signaler si le message en cours de lecture est susceptible d’être frauduleux
+    .accesskey = S
+antivirus-description = { -brand-short-name } peut permettre aux logiciels antivirus d’analyser les courriers entrants avant qu’ils ne soient stockés localement.
 antivirus-label =
     .label = Permettre aux logiciels antivirus de mettre individuellement en quarantaine les messages entrants
     .accesskey = P
+certificate-description = Lorsqu’un serveur demande mon certificat personnel :
 certificate-auto =
     .label = en sélectionner un automatiquement
     .accesskey = m
 certificate-ask =
     .label = me demander à chaque fois
     .accesskey = d
+ocsp-label =
+    .label = Interroger le répondeur OCSP pour confirmer la validité de vos certificats
+    .accesskey = I
 
 ## Chat Tab
 
@@ -295,6 +422,31 @@ certificate-ask =
 
 ##
 
+notification-label = À la réception d’un message qui vous est destiné :
+show-notification-label =
+    .label = Afficher une notification :
+    .accesskey = c
+notification-all =
+    .label = avec le nom de l’expéditeur et un aperçu du message
+notification-name =
+    .label = avec le nom de l’expéditeur uniquement
+notification-empty =
+    .label = sans aucune information
+chat-play-sound-label =
+    .label = Jouer un son
+    .accesskey = n
+chat-play-button =
+    .label = Jouer
+    .accesskey = J
+chat-system-sound-label =
+    .label = Son système par défaut pour la réception d’un nouveau message
+    .accesskey = S
+chat-custom-sound-label =
+    .label = Utiliser le fichier son suivant
+    .accesskey = U
+chat-browse-sound-button =
+    .label = Parcourir…
+    .accesskey = r
 
 ## Preferences UI Search Results
 
