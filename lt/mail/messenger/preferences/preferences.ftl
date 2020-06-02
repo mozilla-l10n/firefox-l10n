@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Užverti
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Laiškų rašymas
 category-compose =
     .tooltiptext = Laiškų rašymas
+pane-privacy-title = Privatumas ir saugumas
+category-privacy =
+    .tooltiptext = Privatumas ir saugumas
 pane-chat-title = Pokalbiai
 category-chat =
     .tooltiptext = Pokalbiai
@@ -70,6 +75,7 @@ update-in-progress-ok-button = &Atsisakyti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
+addons-button = Priedai ir grafiniai apvalkalai
 
 ## OS Authentication dialog
 
@@ -100,6 +106,15 @@ restore-default-label =
     .label = Atstatyti numatytąsias nuostatas
     .accesskey = t
 default-search-engine = Numatytoji paieškos sistema
+add-search-engine =
+    .label = Pridėti iš failo
+    .accesskey = A
+remove-search-engine =
+    .label = Pašalinti
+    .accesskey = v
+minimize-to-tray-label =
+    .label = Kai „{ -brand-short-name }“ sumažinamas iki minimumo, perkelti į dėklą
+    .accesskey = m
 new-message-arrival = Gavus naują laišką:
 mail-play-sound-label =
     .label =
@@ -138,6 +153,8 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Įjungti globalią laiškų paiešką ir indeksavimą
     .accesskey = g
+datetime-formatting-legend = Datos ir laiko formatas
+language-selector-legend = Kalba
 allow-hw-accel =
     .label = Jei įmanoma, naudoti aparatinį spartinimą
     .accesskey = a
@@ -180,6 +197,11 @@ return-receipts-description = Nustatykite kaip „{ -brand-short-name }“ tvark
 return-receipts-button =
     .label = Laiškų pristatymo pažymos…
     .accesskey = L
+update-app-legend = „{ -brand-short-name }“ naujinimai
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Laida { $version }
+allow-description = Leisti „{ -brand-short-name }“
 automatic-updates-label =
     .label = Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)
     .accesskey = A
@@ -192,6 +214,7 @@ update-history-button =
 use-service =
     .label = Naujinimams įdiegti naudoti fone veikiančią tarnybą
     .accesskey = f
+cross-user-udpate-warning = Ši nuostata bus pritaikyta visoms „Windows“ paskyroms ir „{ -brand-short-name }“ profiliams, naudojantiems šią „{ -brand-short-name }“ įdiegtį.
 networking-legend = Ryšys
 proxy-config-description = Parinkite „{ -brand-short-name }“ ryšio su internetu nuostatas
 network-settings-button =
@@ -220,6 +243,9 @@ use-cache-after = MB disko atminties
 
 ##
 
+smart-cache-label =
+    .label = Neleisti automatinio podėlio dydžio valdymo
+    .accesskey = v
 clear-cache-button =
     .label = Išvalyti dabar
     .accesskey = v
@@ -331,6 +357,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Perkėlus ar pašalinus laišką, užverti langą ar kortelę su juo
     .accesskey = v
+display-name-label =
+    .value = Rodomas vardas:
 condensed-addresses-label =
     .label = Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)
     .accesskey = a
@@ -374,6 +402,12 @@ download-dictionaries-link = Atsiųsti kitų kalbų žodynus
 font-label =
     .value = Šriftas:
     .accesskey = Š
+font-size-label =
+    .value = Dydis:
+    .accesskey = z
+default-colors-label =
+    .label = Naudokite numatytasias skaitymo spalvas
+    .accesskey = d
 font-color-label =
     .value = Teksto spalva:
     .accesskey = T
@@ -405,6 +439,11 @@ edit-directories-label =
 email-picker-label =
     .label = Išsiunčiamų laiškų el. pašto adresus automatiškai įtraukti į:
     .accesskey = s
+default-directory-label =
+    .value = Numatytasis paleidimo katalogas adresų knygos lange:
+    .accesskey = S
+default-last-label =
+    .none = Paskiausiai naudotas katalogas
 attachment-label =
     .label = Tikrinti, ar neužmiršta pridėti failo
     .accesskey = t
@@ -422,6 +461,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Pašalinti
     .accesskey = š
+find-cloud-providers =
+    .value = Rasti daugiau teikėjų…
 cloud-account-description = Pridėkite failų talpinimo debesyje tarnybą
 
 ## Privacy Tab
@@ -463,6 +504,11 @@ keep-ask =
 cookies-button =
     .label = Rodyti slapukus…
     .accesskey = R
+do-not-track-label =
+    .label = Siųsti svetainėms „Do Not Track“ signalą, nurodantį jūsų pageidavimą nebūti sekamiems
+    .accesskey = n
+learn-button =
+    .label = Sužinokite daugiau
 passwords-description = Programa „{ -brand-short-name }“ gali įsiminti visų paskyrų slaptažodžius.
 passwords-button =
     .label = Įrašyti slaptažodžiai…
@@ -514,6 +560,12 @@ certificate-ask =
 ocsp-label =
     .label = Tikrinti liudijimų galiojimą, užklausiant OCSP atsakiklių
     .accesskey = O
+certificate-button =
+    .label = Tvarkyti liudijimus…
+    .accesskey = M
+security-devices-button =
+    .label = Saugumo priemonės…
+    .accesskey = D
 
 ## Chat Tab
 
@@ -554,6 +606,17 @@ notification-name =
     .label = tik su siuntėjo vardu
 notification-empty =
     .label = be informacijos apie laišką
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animuoti doko piktogramą
+           *[other] Animuoti užduočių juostoje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Pranešti garsu
     .accesskey = g
@@ -569,6 +632,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Parinkti…
     .accesskey = r
+theme-label =
+    .value = Grafinis apvalkalas:
+    .accesskey = T
+style-thunderbird =
+    .label = „Thunderbird“
+style-bubbles =
+    .label = Burbulai
+style-dark =
+    .label = Tamsus
+style-paper =
+    .label = Popieriaus lapai
+style-simple =
+    .label = Paprastas
+preview-label = Peržiūra:
+no-preview-label = Peržiūra negalima
+no-preview-description = Ši tema netinkama arba šiuo metu nepasiekiama (išjungtas priedas, saugusis režimas, …).
+chat-variant-label =
+    .value = Variantas:
+    .accesskey = V
+chat-header-label =
+    .label = Rodyti antraštę
+    .accesskey = H
 
 ## Preferences UI Search Results
 
