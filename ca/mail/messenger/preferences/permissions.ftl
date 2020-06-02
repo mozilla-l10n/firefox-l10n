@@ -4,13 +4,20 @@
 
 window-close-key =
     .key = w
+website-address-label =
+    .value = Adreça del lloc web:
+    .accesskey = d
 block-button =
     .label = Bloca
     .accesskey = B
+allow-button =
+    .label = Permet
+    .accesskey = P
 treehead-sitename-label =
     .label = Lloc web
 treehead-status-label =
     .label = Estat
+permission-can-label = Permet
 permission-can-session-label = Permet durant la sessió
 permission-cannot-label = Bloca
 invalid-uri-message = Introduïu un nom de servidor correcte
