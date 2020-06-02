@@ -131,6 +131,8 @@ bigger-size-item =
     .label = Plus grande
 smaller-size-item =
     .label = Plus petite
+search-input =
+    .placeholder = Rechercher
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -182,6 +184,9 @@ directories-none-label =
 edit-directories-label =
     .label = Modifier les annuaires…
     .accesskey = M
+email-picker-label =
+    .label = Ajouter les adresses des messages sortants dans :
+    .accesskey = A
 
 ## Privacy Tab
 
@@ -200,6 +205,15 @@ junk-read-label =
 junk-log-button =
     .label = Afficher le journal
     .accesskey = A
+antivirus-label =
+    .label = Permettre aux logiciels antivirus de mettre individuellement en quarantaine les messages entrants
+    .accesskey = P
+certificate-auto =
+    .label = en sélectionner un automatiquement
+    .accesskey = m
+certificate-ask =
+    .label = me demander à chaque fois
+    .accesskey = d
 
 ## Chat Tab
 
