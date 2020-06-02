@@ -39,6 +39,17 @@ restore-default-label =
     .accesskey = E
 default-search-engine = Sjálfgefin leitarvél
 new-message-arrival = Þegar nýr póstur er móttekin:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Spila eftirfarandi hljóðskrá:
+           *[other] Spila hljóð
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] h
+        }
 mail-play-button =
     .label = Spila
     .accesskey = S
@@ -46,6 +57,7 @@ change-dock-icon = Breyta stillingum fyrir app icon
 app-icon-options =
     .label = App Icon valkostir…
     .accesskey = n
+notification-settings = Hægt er loka á áminningar og sjálfgefið hljóð í tilkynningaflipa í kerfisstillingum.
 animated-alert-label =
     .label = Sýna glugga
     .accesskey = g
@@ -217,6 +229,12 @@ always-ask-label =
     .label = Alltaf spyrja hvar á að vista skrár
     .accesskey = A
 display-tags-text = Hægt er að nota flokka til að flokka og forgangsraða póstum.
+new-tag-button =
+    .label = Ný…
+    .accesskey = N
+edit-tag-button =
+    .label = Breyta…
+    .accesskey = e
 delete-tag-button =
     .label = Eyða
     .accesskey = y
@@ -303,6 +321,9 @@ bg-color-label =
 restore-html-label =
     .label = Endurstilla sjálfgefin gildi
     .accesskey = r
+default-format-label =
+    .label = Sjálfgefið nota málsgreinarsnið í staðinn fyrir meginmálstexta
+    .accesskey = ð
 format-description = Skilgreina hegðun textasniðs
 send-options-label =
     .label = Sendingarkostir…
@@ -322,6 +343,11 @@ edit-directories-label =
 email-picker-label =
     .label = Bæta sjálfkrafa útsendum póst í:
     .accesskey = t
+default-directory-label =
+    .value = Sjálfgefin ræsimappa fyrir nafnabókarglugga:
+    .accesskey = { "" }
+default-last-label =
+    .none = Síðast notaða mappa
 attachment-label =
     .label = Athuga hvort viðhengi vantar
     .accesskey = v
@@ -332,6 +358,10 @@ enable-cloud-share =
     .label = Bjóðast til að deila stærri skrám en
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Bæta við…
+    .accesskey = a
+    .defaultlabel = Bæta við…
 remove-cloud-account =
     .label = Fjarlægja
     .accesskey = r
