@@ -5,6 +5,9 @@
 pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
+pane-calendar-title = Calendario
+category-calendar =
+    .tooltiptext = Calendario
 general-language-and-appearance-header = Lingua e aspetto
 general-incoming-mail-header = Posta in arrivo
 general-files-and-attachment-header = File e allegati
@@ -69,3 +72,50 @@ master-password-os-auth-dialog-message-win = Per creare una password principale,
 master-password-os-auth-dialog-message-macosx = creare una password principale
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## General Tab
+
+
+## Note: The entities use-cache-before and use-cache-after appear on a single
+## line in preferences as follows:
+## use-cache-before [ textbox for cache size in MB ] use-cache-after
+
+
+##
+
+
+## Note: This will concatenate to "After displaying for [___] seconds",
+## using (mark-read-delay) and a number (seconds-label).
+
+
+##
+
+
+## Compose Tab
+
+
+## Note: This will concatenate to "Auto Save every [___] minutes",
+## using (auto-save-label) and a number (auto-save-end).
+
+
+##
+
+
+## Privacy Tab
+
+
+## Chat Tab
+
+
+## Note: idle-label is displayed first, then there's a field where the user
+## can enter a number, and itemTime is displayed at the end of the line.
+## The translations of the idle-label and idle-time-label parts don't have
+## to mean the exact same thing as in English; please try instead to
+## translate the whole sentence.
+
+
+##
+
+
+## Preferences UI Search Results
+
