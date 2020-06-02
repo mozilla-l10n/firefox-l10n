@@ -1,0 +1,27 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+colors-dialog-window =
+    .title = Kleuren
+    .style =
+        { PLATFORM() ->
+            [macos] width: 41em !important
+           *[other] width: 38em !important
+        }
+text-color-label =
+    .value = Tekst:
+    .accesskey = t
+use-system-colors =
+    .label = Brûk systeemkleuren
+    .accesskey = s
+colors-link-legend = Keppelingkleuren
+link-color-label =
+    .value = Net besochte keppelingen:
+    .accesskey = l
+visited-link-color-label =
+    .value = Besochte keppelingen:
+    .accesskey = p
+underline-link-checkbox =
+    .label = Keppelingen ûnderstreekje
+    .accesskey = K

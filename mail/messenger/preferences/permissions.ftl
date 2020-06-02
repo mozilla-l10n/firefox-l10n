@@ -14,3 +14,5 @@ treehead-status-label =
     .label = Steat
 permission-can-label = Tastean
 permission-cannot-label = Blokkearje
+invalid-uri-message = Folje in jildige kompjûternamme yn
+invalid-uri-title = Unjildige kompjûternamme
