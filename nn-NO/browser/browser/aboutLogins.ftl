@@ -161,6 +161,9 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Fjerne denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
+about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
+about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan åpne den eksporterte fila kan sjå dei.
+about-logins-confirm-export-dialog-confirm-button = Eksporter…
 confirm-discard-changes-dialog-title = Vil du forkaste endringar som ikkje er lagra?
 confirm-discard-changes-dialog-message = Alle ikkje-lagra endringar vil gå tapt.
 confirm-discard-changes-dialog-confirm-button = Ignorer
@@ -196,3 +199,16 @@ about-logins-error-message-default = Det oppstod ein feil ved forsøk på å lag
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Eksporter fil med innloggingar
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = innloggingar.csv
+about-logins-export-file-picker-export-button = Eksporter
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-dokument
+       *[other] CSV-fil
+    }
