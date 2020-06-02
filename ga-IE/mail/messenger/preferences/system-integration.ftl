@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-title =
+    .title = Comhtháthú Córais
+system-integration-dialog =
+    .buttonlabelaccept = Socraigh mar réamhshocrú
+    .buttonlabelcancel = Ná Bac le Comhtháthú
+    .buttonlabelcancel2 = Cealaigh
+default-client-intro = Úsáid { -brand-short-name } mar chliant réamhshocraithe le haghaidh:
 unset-default-tooltip = Ní féidir { -brand-short-name } a dhíshocrú mar chliant réamhshocraithe taobh istigh de { -brand-short-name }. Chun feidhmchlár eile a roghnú, caithfidh tú an dialóg 'Socraigh mar réamhshocrú' san fheidhmchlár sin a úsáid.
 checkbox-email-label =
     .label = R-Phost
