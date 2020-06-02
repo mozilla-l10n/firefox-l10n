@@ -50,7 +50,7 @@
 <!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "r">
 <!ENTITY HomePhone.label                "Thuis:">
-<!ENTITY HomePhone.accesskey            "u">
+<!ENTITY HomePhone.accesskey            "s">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pieper:">
