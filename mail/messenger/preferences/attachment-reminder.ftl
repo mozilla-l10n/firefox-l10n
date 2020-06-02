@@ -8,5 +8,6 @@ attachment-reminder-label = { -brand-short-name } akan mengingatkan Anda tentang
 keyword-remove-button =
     .label = Hapus
     .accesskey = H
+new-keyword-label = Kata Kunci:
 edit-keyword-title = Ubah Kata Kunci
 edit-keyword-label = Kata Kunci:
