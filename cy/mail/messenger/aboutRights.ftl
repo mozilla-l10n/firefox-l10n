@@ -9,6 +9,7 @@ rights-intro-point-3 = Mae rhai nodweddion yn { -brand-short-name }, megis yr Ad
 rights-intro-point-4 = Mae sut rydym yn defnyddio y data personol ac adborth rydych wedi ei gyflwyno i { -vendor-short-name } drwy { -brand-short-name } yn cael ei ddisgrifio yn <a data-l10n-name="mozilla-privacy-policy-link">Polisi Preifatrwydd { -brand-short-name }</a>.
 rights-intro-point-5 = Mae rhai nodweddion { -brand-short-name } yn gwneud defnydd p wasanaethau gwybodaeth gwe, er hynny nid ydym yn gallu gwarantu eu bod yn 100% yn gywir nac yn rhydd o wallau. Mae rhagor o fanylion, gan gynnwys gwybodaeth ar sut i'w hanalluogi i'w cael yn yr <a data-l10n-name="mozilla-service-terms-link">amodau gwasanaeth</a>.
 rights-intro-point-5-unbranded = Os yw'r cynnyrch yn cynnwys gwasanaethau gwe, rhaid cysylltu unrhyw amodau gwasanaeth perthnasol ar gyfer y gwasanaeth(au) i'r adran <a data-l10n-name="mozilla-website-services-link">Gwasanaethau Gwefan</a> Gwe.
+rights-intro-point-6 = Er mwyn chwarae rhai mathau o gynnwys fideo, mae { -brand-short-name } yn llwytho i lawr rhywfaint o gynnwys modiwlau dadgryptio gan drydydd partïon.
 rights-webservices-header = Gwasanaethau Gwybodaeth Gwe { -brand-full-name }
 rights-locationawarebrowsing = <strong>Pori Ymwybodol o Leoliad: </strong>yn ddewis i chi bob tro.  Ni fydd gwybodaeth yn cael ei anfon heb eich caniatâd.  Os hoffech chi analluogi'r nodwedd yn llwyr, dilynwch y camau hyn:
 rights-locationawarebrowsing-term-1 = Yn y bar URL, teipiwch <code>about:config</code>
