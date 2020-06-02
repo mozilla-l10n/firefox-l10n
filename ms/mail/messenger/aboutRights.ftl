@@ -14,6 +14,7 @@ rights-webservices-header = { -brand-full-name } Servis Informasi berdasarkan We
 rights-webservices = { -brand-full-name } menggunakan perkhidmatan maklumat -berasaskan-web ("Perkhidmatans") untuk menyediakan beberapa ciri yang disediakan untuk kegunaan anda dengan versi binari { -brand-short-name } di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu daripada Perkhidmatan atau tidak menerima terma di bawah, anda boleh nyahdayakan mana-mana ciri Perkhidmatan tersebut. Arahan mengenai cara untuk menyahdayakan ciri atau Perkhidmatan tertentu boleh ditemui di <a data-l10n-name="mozilla-disable-service-link">di sini</a>. Ciri lain dan Services boleh dinyahdayakan dalam keutamaan aplikasi.
 rights-locationawarebrowsing = <strong>Pelayaran Sedar Lokasi: </strong>adalah satu ciri pilihan.  Tiada maklumat lokasi yang akan dihantar tanpa keizinan anda.  Jika anda mahu menyahaktifkan ciri ini secara keseluruhan, ikuti arahan berikut:
 rights-locationawarebrowsing-term-1 = Di bar URL, taip <code>about:config</code>
+rights-locationawarebrowsing-term-2 = Taip geo.enabled
 rights-locationawarebrowsing-term-3 = Klik-dua kali pada keutamaan geo.enabled
 rights-locationawarebrowsing-term-4 = Location-Aware Browsing kini dinyahdayakan
 rights-webservices-unbranded = Gambaran keseluruhan perkhidmatan laman web yang mengandungi produk, berserta arahan untuk menyahdayakannya, jika ada, perlu disertakan di sini.
