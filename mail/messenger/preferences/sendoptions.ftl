@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Mogućnosti slanja
 send-mail-title = Oblikovanje teksta
+auto-downgrade-label =
+    .label = Šalje poruke s običnim tekstom ukoliko je moguće
+    .accesskey = t
 default-html-format-label = Ako prilikom slanja poruka u HTML formatu jedan ili više primatelja nisu označeni da mogu primati HTML poruke:
 html-format-ask =
     .label = Pitaj me što želim uraditi

@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = Izvanmrežne postavke
+autodetect-online-label =
+    .label = Automatski prati otkriveno mrežno stanje
+    .accesskey = p
+startup-label = Ručno stanje prilikom pokretanja:
 status-radio-remember =
     .label = Sjeti se zadnjeg on-line stanja
     .accesskey = S
+status-radio-ask =
+    .label = Pitaj me za mrežno stanje
+    .accesskey = z
+status-radio-always-online =
+    .label = Na mreži
+    .accesskey = N
+status-radio-always-offline =
+    .label = Izvan mreže
+    .accesskey = I
 going-online-label = Poslati neposlane poruke prilikom spajanja on-line?
 going-online-auto =
     .label = Da

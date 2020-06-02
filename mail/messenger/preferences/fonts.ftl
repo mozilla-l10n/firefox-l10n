@@ -31,6 +31,8 @@ font-language-group-korean =
     .label = Korejski
 font-language-group-el =
     .label = Grčki
+font-language-group-other =
+    .label = Drugi sustavi pisanja
 font-language-group-thai =
     .label = Tajlandski
 font-language-group-hebrew =
@@ -59,9 +61,27 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malajalam
+font-language-group-math =
+    .label = Matematika
+font-language-group-odia =
+    .label = Odia
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Sinhala
+font-language-group-tibetan =
+    .label = Tibetanski
 
 ## Default font type
 
+font-size-label =
+    .value = Veličina:
+    .accesskey = e
+font-size-monospace-label =
+    .value = Veličina:
+    .accesskey = i
 font-serif-label =
     .value = Serif:
     .accesskey = S
@@ -89,9 +109,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Kôdna stranica
+text-encoding-description = Postavite zadane kôdne stranice za slanje i primanje pošte
 font-outgoing-email-label =
     .value = Odlazna pošta:
     .accesskey = d
 font-incoming-email-label =
     .value = Dolazna pošta:
     .accesskey = a
+default-font-reply-checkbox =
+    .label = Kada je moguće, koristi zadanu kôdnu stranicu u odgovorima
+    .accesskey = j

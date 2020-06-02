@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-reminder-window =
+    .title = Izuzeci
+    .style = width: 45em;
 window-close-key =
     .key = w
 website-address-label =
@@ -10,6 +13,9 @@ website-address-label =
 block-button =
     .label = Blokiraj
     .accesskey = B
+allow-session-button =
+    .label = Dopusti u ovoj sesiji
+    .accesskey = u
 allow-button =
     .label = Dopusti
     .accesskey = o
@@ -23,7 +29,14 @@ remove-site-button =
 remove-all-site-button =
     .label = Ukloni sve stranice
     .accesskey = e
+cancel-button =
+    .label = Odustani
+    .accesskey = O
+save-button =
+    .label = Spremi promjene
+    .accesskey = S
 permission-can-label = Dopusti
+permission-can-access-first-party-label = Dopusti samo od prve strane
 permission-can-session-label = Dopusti za sesiju
 permission-cannot-label = Blokiraj
 invalid-uri-message = Unesite ispravnu domenu
