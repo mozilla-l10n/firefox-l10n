@@ -2,9 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+weekstart-label =
+    .value = Hafta başlangıcı:
+    .accesskey = f
 day-start-label =
     .value = Gün başlangıcı:
     .accesskey = G
+day-end-label =
+    .value = Gün bitişi:
+    .accesskey = n
 week-0-label =
     .label = yok
 week-1-label =
@@ -19,6 +25,9 @@ week-5-label =
     .label = 5 hafta
 week-6-label =
     .label = 6 hafta
+previous-weeks-label =
+    .value = Önceki hafta sayısı:
+    .accesskey = c
 reminder-default-sound-label =
     .label = Varsayılan ses dosyasını kullan
     .accesskey = d
