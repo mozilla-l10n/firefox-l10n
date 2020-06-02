@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Կարգավորումներ
+           *[other] Կարգավորումներ…
+        }
 pane-general-title = Գլխավոր
 category-general =
     .tooltiptext = { pane-general-title }
@@ -72,10 +78,32 @@ general-legend = { -brand-short-name }-ի մեկնարկային էջը
 start-page-label =
     .label = { -brand-short-name }-ը բացելիս ցուցադրել Մեկնարկային էջը
     .accesskey = W
+location-label =
+    .value = Տեղադրություն.
+    .accesskey = o
 restore-default-label =
     .label = Վերականգնել հիմնականը
     .accesskey = R
+default-search-engine = Հիմնական որոնիչ
 new-message-arrival = Նոր նամակ ստանալիս.
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Նվագարկել հետևյալ ձայնային ֆայլը.
+           *[other] Նվագարկել ձայն
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ի
+           *[other] d
+        }
+mail-play-button =
+    .label = Նվագարկել
+    .accesskey = Ն
+change-dock-icon = Ծրագրի պատկերակի կարգավորումների փոփոխում
+app-icon-options =
+    .label = Ծրագրի պատկերակի ընտրանքներ...
+    .accesskey = կ
 animated-alert-label =
     .label = Ցուցադրել ազդի ժամանակ
     .accesskey = Ց
@@ -94,6 +122,16 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը
     .accesskey = Մ
+allow-hw-accel =
+    .label = Հնարավորության դեպքում օգտագործել սարքակազմի արագացում
+    .accesskey = ս
+store-type-label =
+    .value = Նամակները պահելու եղանակը՝ նոր հաշիվների համար.
+    .accesskey = ե
+mbox-store-label =
+    .label = Ֆայլ թղթապանակում (mbox)
+maildir-store-label =
+    .label = Ֆայլ ամեն նամակի համար (maildir)
 scrolling-legend = Թերթումը
 autoscroll-label =
     .label = Օգտագործել ինքնավար թերթում
@@ -116,6 +154,9 @@ search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+search-integration-label =
+    .label = Թույլատրել { search-engine-name }-ին որոնել նամակներ
+    .accesskey = s
 config-editor-button =
     .label = Խմբագրիչի կարգ...
     .accesskey = C
@@ -123,9 +164,19 @@ return-receipts-description = Որոշեք, թե { -brand-short-name }-ը ինչ
 return-receipts-button =
     .label = Ստացականներ...
     .accesskey = R
+automatic-updates-label =
+    .label = Ինքնաշխատ տեղադրել թարմացումները (խորհուրդ է տրվում)
+    .accesskey = Ի
+check-updates-label =
+    .label = Ստուգել թարմացումները, բայց ես ինքս կորոշեմ տեղադրել, թե ոչ
+    .accesskey = Ս
+update-history-button =
+    .label = Ցուցադրել թարմացումների պատմությունը
+    .accesskey = ա
 use-service =
     .label = Թարմացումները տեղադրել խորապատկերում
     .accesskey = b
+networking-legend = Կապակցում
 proxy-config-description = Կարգավորել, թե ինչպես { -brand-short-name }-ը մուտք գործի համացանց
 network-settings-button =
     .label = Կարգավորումներ...
@@ -157,9 +208,15 @@ clear-cache-button =
     .label = Մաքրել Հիմա
     .accesskey = C
 fonts-legend = Տառատեսակները և Գույները
+default-font-label =
+    .value = Հիմ. տառատեսակ.
+    .accesskey = Հ
 default-size-label =
     .value = Չափը.
     .accesskey = S
+font-options-button =
+    .label = Ընդլայնված...
+    .accesskey = Ը
 color-options-button =
     .label = Գույներ…
     .accesskey = C
@@ -174,8 +231,12 @@ style-label =
     .accesskey = y
 regular-style-item =
     .label = Կանոնավոր
+bold-style-item =
+    .label = Թավ
 italic-style-item =
     .label = Շեղ
+bold-italic-style-item =
+    .label = Թավ շեղ
 size-label =
     .value = Չափը.
     .accesskey = z
@@ -188,6 +249,8 @@ smaller-size-item =
 quoted-text-color =
     .label = Գույնը.
     .accesskey = o
+search-input =
+    .placeholder = Որոնում
 type-column-label =
     .label = Պարունակությունը
     .accesskey = T
@@ -208,23 +271,61 @@ choose-folder-label =
             [macos] C
            *[other] B
         }
+always-ask-label =
+    .label = Միշտ հարցնել ֆայլերը պահելու տեղադրությունը
+    .accesskey = Մ
 display-tags-text = Պիտակներով կարող եք կարգավորել և դասակարգել Ձեր նամակները։
+new-tag-button =
+    .label = Նոր...
+    .accesskey = Ն
+edit-tag-button =
+    .label = Խմբագրել...
+    .accesskey = Խ
 delete-tag-button =
     .label = Ջնջել
     .accesskey = D
+auto-mark-as-read =
+    .label = Նշել նամակները ընթերցված՝
+    .accesskey = A
+mark-read-no-delay =
+    .label = Միանգամից, երբ նայում ես
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Ժամանակ անց՝
+    .accesskey = d
+seconds-label = վայրկյան
 
 ##
 
+open-msg-label =
+    .value = Բացել նամակը՝
+open-msg-tab =
+    .label = Նոր էջ
+    .accesskey = t
+open-msg-window =
+    .label = Նոր պատուհանում
+    .accesskey = n
+open-msg-ex-window =
+    .label = Տվյալ պատուհանում
+    .accesskey = e
+close-move-delete =
+    .label = Փակել նամակի էջը/պատուհանը ջնջելուց հետո
+    .accesskey = C
+condensed-addresses-label =
+    .label = Հասցեագրքում ցուցադրել միայն մարդկանց ցուցադրվող անունը
+    .accesskey = S
 
 ## Compose Tab
 
 forward-label =
     .value = Փոխանցել նամակները՝
     .accesskey = F
+inline-label =
+    .label = Ներտող
 as-attachment-label =
     .label = Որպես կցորդ
 extension-label =
@@ -234,6 +335,9 @@ extension-label =
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Պահել յուրաքանչյուր՝
+    .accesskey = Պ
 auto-save-end = րոպե
 
 ##
@@ -250,6 +354,7 @@ spellcheck-inline-label =
 language-popup-label =
     .value = Լեզուն.
     .accesskey = Լ
+download-dictionaries-link = Ներբեռնել բառարաններ
 font-label =
     .value = Տառը.
     .accesskey = n
@@ -262,6 +367,9 @@ bg-color-label =
 restore-html-label =
     .label = Ըստ ծրագրայինի
     .accesskey = R
+default-format-label =
+    .label = Օգտագործեք Պարբերություն ձևաչափը՝ Հիմնական գրվածքի փոխարեն
+    .accesskey = Պ
 format-description = Կարգավորել տեքստայինի վարքը
 send-options-label =
     .label = Ուղարկելու ընտրանքներ...
@@ -273,6 +381,8 @@ ab-label =
 directories-label =
     .label = Սպասարկիչում.
     .accesskey = D
+directories-none-label =
+    .none = Չկա
 edit-directories-label =
     .label = Խմբագրել թղթապանակները...
     .accesskey = E
@@ -289,6 +399,10 @@ enable-cloud-share =
     .label = Առաջարկել տարածել ֆայլերը, որոնք մեծ են՝
 cloud-share-size =
     .value = ՄԲ
+add-cloud-account =
+    .label = Ավելացնել...
+    .accesskey = Ա
+    .defaultlabel = Ավելացնել...
 remove-cloud-account =
     .label = Ջնջել
     .accesskey = Ջ
@@ -296,6 +410,43 @@ cloud-account-description = Ավելացնել նոր Ֆայլի հղման կր
 
 ## Privacy Tab
 
+mail-content = Նամակի բովանդակությունը
+remote-content-label =
+    .label = Թույլատրել նամակի հեռակա բովանդակությունը
+    .accesskey = կ
+exceptions-button =
+    .label = Բացառություններ...
+    .accesskey = E
+remote-content-info =
+    .value = Մանրամասներ՝ հեռակա բովանդակության անվտանգության մասին
+web-content = Վեբ բովանդակություն
+history-label =
+    .label = Հիշել իմ այցելած կայքերը և հղումները
+    .accesskey = Հ
+cookies-label =
+    .label = Ընդունել cookie-ներ հետևյալ կայքերից՝
+    .accesskey = Ը
+third-party-label =
+    .value = Ընդունել երրորդ կողմի cookie-ները.
+    .accesskey = ն
+third-party-always =
+    .label = Միշտ
+third-party-never =
+    .label = Երբեք
+third-party-visited =
+    .label = Այցելածներից
+keep-label =
+    .value = Պահել մինչև՝
+    .accesskey = Պ
+keep-expire =
+    .label = ավարտման ժամկերը
+keep-close =
+    .label = { -brand-short-name }-ի փակումը
+keep-ask =
+    .label = հարցնել ամեն անգամ
+cookies-button =
+    .label = Ցուցադրել Cookie-ները...
+    .accesskey = S
 passwords-description = { -brand-short-name }-ը կարող է հիշել Ձեր բոլոր փոստարկղերի գաղտնաբառերը։
 passwords-button =
     .label = Պահպանված գաղտնաբառեր…
@@ -320,17 +471,33 @@ junk-delete-label =
 junk-read-label =
     .label = Նշել թափոն նամակները որպես ընթերցված
     .accesskey = M
+junk-log-label =
+    .label = Միացնել թափոնի հարմարողական զտիչի մատյանը
+    .accesskey = Մ
 junk-log-button =
     .label = Ցուցադրել մատյանը
     .accesskey = S
+reset-junk-button =
+    .label = Վերակայել ուսուցման տվյալը
+    .accesskey = Վ
 phishing-description = { -brand-short-name }-ը կարող է ստուգել նամակները՝ որոշելու համար խաբկանք նամակները։
 phishing-label =
     .label = Տեղեկացնել, երբ որևէ նամակը կասկածվում է որպես խաբկանք
     .accesskey = T
+antivirus-description = { -brand-short-name }-ը կարող է հեշտացնել ստացված նամակների հակավիրուսային ստուգումը՝ մինչև դրանք համակարգիչ ներբեռնելը։
+antivirus-label =
+    .label = Թույլատրել հակավիրուսին նամակները տեղափոխել մեկուսարան։
+    .accesskey = A
 certificate-description = Երբ սպասարկիչը պահանջում է հավաստագիր.
+certificate-auto =
+    .label = Ընտրել որևէ մեկը
+    .accesskey = S
 certificate-ask =
     .label = Ամեն անգամ հարցնել
     .accesskey = A
+ocsp-label =
+    .label = OCSP հարցման պատասխանիչ սպասարկիչը՝ հաստատելու ընթացիկ վավերության վկայագիրը
+    .accesskey = O
 
 ## Chat Tab
 
@@ -339,6 +506,8 @@ startup-label =
     .accesskey = s
 offline-label =
     .label = Պահել Զրույցի իմ հաշիվը անցանց
+auto-connect-label =
+    .label = Կապակցել Զրույցի իմ հաշվեկշռին միանգամից
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -356,6 +525,34 @@ idle-time-label = րոպե պասսիվ լինելուց հետո
 away-message-label =
     .label = և դարձնել իմ կարգավիճակը Հեռու եմ այս գրությամբ.
     .accesskey = և
+send-typing-label =
+    .label = Ուղարկել մուտքագրվող ծանուցումները զրուցաշարով
+    .accesskey = մ
+notification-label = Երբ ձեզ հասցեագրված նամակները հասնում են.
+show-notification-label =
+    .label = Ցուցադրել ծանուցումները.
+    .accesskey = ո
+notification-all =
+    .label = ուղարկողի անունով և նախադիտումով
+notification-name =
+    .label = միայն ուղարկողի անունով
+notification-empty =
+    .label = առանց որևէ տեղեկության
+chat-play-sound-label =
+    .label = Նվագարկել ձայն
+    .accesskey = ա
+chat-play-button =
+    .label = Նվագարկել
+    .accesskey = Ն
+chat-system-sound-label =
+    .label = Համակարգային ձայն՝ նոր նամակի դեպքում
+    .accesskey = Հ
+chat-custom-sound-label =
+    .label = Օգտ. հետևյալ ձայնային ֆայլը
+    .accesskey = U
+chat-browse-sound-button =
+    .label = Ընտրել...
+    .accesskey = Ը
 
 ## Preferences UI Search Results
 
