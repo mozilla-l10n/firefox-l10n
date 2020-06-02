@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Nauja gairė
+
 tag-name-label =
     .value = Gairė:
     .accesskey = G

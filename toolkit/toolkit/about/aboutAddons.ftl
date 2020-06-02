@@ -607,9 +607,6 @@ updates-heading = Tvarkykite savo naujinimus
 discover-heading = Individualizuokite savo „{ -brand-short-name }“
 shortcuts-heading = Tvarkyti sparčiuosius klavišus priedams
 
-theme-heading-search-label = Rasti daugiau apvalkalų
-extension-heading-search-label = Rasti daugiau priedų
-
 default-heading-search-label = Rasti daugiau priedų
 addons-heading-search-input =
     .placeholder = Ieškoti per addons.mozilla.org

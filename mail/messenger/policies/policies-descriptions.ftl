@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
 
 policy-InstallAddonsPermission = Leisti kai kurioms svetainėms diegti priedus.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Leisti konkrečioms svetainėms susieti vietinius failus.
 
 policy-NetworkPrediction = Įjungti arba išjungti tinklo nuspėjimą (parengtinis DNS įkėlimas).
