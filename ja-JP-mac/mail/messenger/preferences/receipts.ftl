@@ -4,6 +4,9 @@
 
 receipts-dialog-window =
     .title = 開封確認
+return-receipt-checkbox =
+    .label = 送信メッセージについて、毎回開封確認の返送を求める
+    .acceskey = W
 receipt-arrive-label = 開封確認が届いたとき:
 receipt-leave-radio =
     .label = 受信トレイに残す
@@ -21,6 +24,8 @@ receipt-return-some-radio =
 receipt-not-to-cc =
     .value = メッセージの宛先や Cc に自分が含まれていない場合:
     .acceskey = f
+receipt-send-never-label =
+    .label = 返送しない
 receipt-send-always-label =
     .label = 常に返送する
 receipt-send-ask-label =

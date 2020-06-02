@@ -10,6 +10,8 @@ fonts-label-default =
     .label = デフォルト ({ $name })
 fonts-label-default-unnamed =
     .label = デフォルト
+fonts-encoding-dialog-title =
+    .title = フォントと文字エンコーディング
 fonts-language-legend =
     .value = 対象言語:
     .accesskey = t
@@ -27,6 +29,8 @@ font-language-group-simpl-chinese =
     .label = 簡体字中国語
 font-language-group-korean =
     .label = 韓国語
+font-language-group-cyrillic =
+    .label = キリル文字
 font-language-group-el =
     .label = ギリシャ語
 font-language-group-thai =
@@ -45,6 +49,8 @@ font-language-group-georgian =
     .label = グルジア語
 font-language-group-gujarati =
     .label = グジャラート語
+font-language-group-khmer =
+    .label = クメール語
 font-language-group-malayalam =
     .label = マラヤラム語
 
@@ -68,3 +74,9 @@ min-size-none =
 
 ## Language settings
 
+font-outgoing-email-label =
+    .value = 送信メッセージ:
+    .accesskey = u
+font-incoming-email-label =
+    .value = 受信メッセージ:
+    .accesskey = I
