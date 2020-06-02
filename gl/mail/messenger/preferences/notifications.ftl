@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Personalizar un novo aviso de correo
+
 customize-alert-description = Escolla os campos que quere amosar na notificación do aviso:
+
 preview-text-checkbox =
     .label = Texto da previsualización da mensaxe
     .accesskey = T
+
 subject-checkbox =
     .label = Asunto
     .accesskey = A
+
 sender-checkbox =
     .label = Remitente
     .accesskey = R
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Amosar unha alerta de novo correo para
     .accesskey = n
+
 open-time-label-after =
     .value = segundos
