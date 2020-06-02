@@ -10,16 +10,6 @@ remove-address-row-type = Pašalinti lauką { $type }
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Tuščias { $type } įvesties laukas
-        [one] { $type } įvesties laukas su { $count } adresu
-        [few] { $type } įvesties laukas su { $count } adresais
-       *[other] { $type } įvesties laukas su { $count } adresų
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -52,3 +42,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Perkelti į BCC
     .accesskey = b
+

@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Naujų laiškų gavimo įspėjimai
+
 customize-alert-description = Parinkite, kuriuos laukus rodyti įspėjimuose apie laiškus:
+
 preview-text-checkbox =
     .label = Laiško peržiūros tekstas
     .accesskey = L
+
 subject-checkbox =
     .label = Tema
     .accesskey = T
+
 sender-checkbox =
     .label = Siuntėjas
     .accesskey = u
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Įspėjimus apie naujus laiškus rodyti
     .accesskey = r
+
 open-time-label-after =
     .value = sek.

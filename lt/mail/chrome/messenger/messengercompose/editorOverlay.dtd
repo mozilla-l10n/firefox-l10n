@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Ieškoti šiame tinklalapyje">
 <!ENTITY spellToolbarCmd.label "Rašyba">
 <!ENTITY spellToolbarCmd.tooltip "Tikrinti viso laiško arba pažymėtos jo dalies rašybą">
+
 <!ENTITY imageToolbarCmd.label "Paveikslas">
 <!ENTITY imageToolbarCmd.tooltip "Įterpti paveikslą arba taisyti pažymėto paveikslo savybes">
 <!ENTITY hruleToolbarCmd.label "Horizontalė">
