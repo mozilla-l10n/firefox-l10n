@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Dewisiadau
+           *[other] Dewisiadau
+        }
 pane-general-title = Cyffredinol
 category-general =
     .tooltiptext = { pane-general-title }
@@ -95,10 +101,27 @@ location-label =
 restore-default-label =
     .label = Adfer y Rhagosodiad
     .accesskey = R
+default-search-engine = Peiriant Chwilio Rhagosodedig
 new-message-arrival = Pan fydd neges newydd yn cyrraedd:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Chwarae'r ffeil sain ganlynol:
+           *[other] Canu nodyn
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] s
+           *[other] d
+        }
 mail-play-button =
     .label = Chwarae
     .accesskey = h
+change-dock-icon = Newid dewisiadau eicon yr ap
+app-icon-options =
+    .label = Dewisiadau Eicon Ap…
+    .accesskey = E
+notification-settings = Mae modd analluogi rhybuddion a'r sain rhagosodedig ar y paen Hysbysu y Dewisiadau System.
 animated-alert-label =
     .label = Dangos rhybudd
     .accesskey = D
@@ -117,6 +140,16 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Galluogi Chwilio a Mynegeio Eang
     .accesskey = G
+allow-hw-accel =
+    .label = Defnyddio cyflymu caledwedd pan fydd ar gael
+    .accesskey = y
+store-type-label =
+    .value = Math o Storio Negeseuon ar gyfer cyfrifon newydd:
+    .accesskey = M
+mbox-store-label =
+    .label = Ffeil i'r ffolder (mbox)
+maildir-store-label =
+    .label = Ffeil y neges (maildir)
 scrolling-legend = Sgrolio
 autoscroll-label =
     .label = Defnyddio awto sgrolio
@@ -148,6 +181,15 @@ config-editor-button =
 return-receipts-description = Pennu sut mae { -brand-short-name } yn trin derbynebau
 return-receipts-button =
     .label = Derbynebau Dychwelyd…
+    .accesskey = D
+automatic-updates-label =
+    .label = Gosod diweddariadau'n awtomatig (argymell: gwella diogelwch)
+    .accesskey = a
+check-updates-label =
+    .label = Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio
+    .accesskey = d
+update-history-button =
+    .label = Dangos Hanes Diweddaru
     .accesskey = D
 use-service =
     .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
@@ -183,6 +225,7 @@ use-cache-after = MB o le disg ar gyfer y storfa
 clear-cache-button =
     .label = Clirio Nawr
     .accesskey = N
+fonts-legend = Ffontiau a Lliwiau
 default-font-label =
     .value = Ffont rhagosodedig:
     .accesskey = r
@@ -250,16 +293,49 @@ always-ask-label =
     .label = Gofyn i mi lle i gadw pob ffeil
     .accesskey = G
 display-tags-text = Mae modd defnyddio tagiau i gategoreiddio a blaenoriaethu eich negeseuon.
+new-tag-button =
+    .label = Newydd…
+    .accesskey = N
+edit-tag-button =
+    .label = Golygu…
+    .accesskey = G
 delete-tag-button =
     .label = Dileu
     .accesskey = D
+auto-mark-as-read =
+    .label = Marcio'n awtomatig negeseuon wedi'u darllen
+    .accesskey = a
+mark-read-no-delay =
+    .label = Dangos yn syth
+    .accesskey = s
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Ar ôl dangos am
+    .accesskey = d
+seconds-label = eiliad
 
 ##
 
+open-msg-label =
+    .value = Agor neges mewn:
+open-msg-tab =
+    .label = Tab newydd
+    .accesskey = T
+open-msg-window =
+    .label = Ffenestr neges newydd
+    .accesskey = n
+open-msg-ex-window =
+    .label = Ffenestr neges gyfredol
+    .accesskey = g
+close-move-delete =
+    .label = Cau ffenestr/tab neges wrth symud neu ddileu
+    .accesskey = C
+condensed-addresses-label =
+    .label = Dangos dim ond enw dangos unigolion yn fy llyfr cyfeiriadau
+    .accesskey = D
 
 ## Compose Tab
 
@@ -277,6 +353,9 @@ extension-label =
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Awto Gadw pob
+    .accesskey = G
 auto-save-end = munud
 
 ##
@@ -306,6 +385,9 @@ bg-color-label =
 restore-html-label =
     .label = Adfer y Rhagosodiad
     .accesskey = R
+default-format-label =
+    .label = Defnyddio'r Fformat Paragraff yn lle Testun Corff drwy ragosodiad
+    .accesskey = P
 format-description = Ffurfweddi ymddygiad fformat testun
 send-options-label =
     .label = Dewisiadau Anfon…
@@ -319,11 +401,26 @@ directories-label =
     .accesskey = G
 directories-none-label =
     .none = Dim
+edit-directories-label =
+    .label = Golygu Cyfeiriaduron…
+    .accesskey = C
+email-picker-label =
+    .label = Ychwanegu cyfeiriadau e-bost anfon yn awtomatig i'r:
+    .accesskey = Y
 attachment-label =
     .label = Gwirio am atodiadau coll
     .accesskey = w
+attachment-options-label =
+    .label = Allweddeiriau…
+    .accesskey = w
+enable-cloud-share =
+    .label = Cynnig rhannu ffeiliau sy'n fwy na
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Ychwanegu…
+    .accesskey = Y
+    .defaultlabel = Ychwanegu…
 remove-cloud-account =
     .label = Tynnu
     .accesskey = T
@@ -331,6 +428,43 @@ cloud-account-description = Ychwanegu gwasanaeth storio Filelink newydd
 
 ## Privacy Tab
 
+mail-content = Cynnwys E-bost
+remote-content-label =
+    .label = Caniatáu cynnwys pell o fewn negeseuon
+    .accesskey = C
+exceptions-button =
+    .label = Eithriadau…
+    .accesskey = E
+remote-content-info =
+    .value = Dysgu rhagor am faterion preifatrwydd cynnwys pell
+web-content = Cynnwys Gwe
+history-label =
+    .label = Cofio gwefannau a dolenni rwyf wedi ymweld â nhw
+    .accesskey = o
+cookies-label =
+    .label = Derbyn cwcis gan wefannau
+    .accesskey = D
+third-party-label =
+    .value = Derbyn cwcis trydydd parti:
+    .accesskey = D
+third-party-always =
+    .label = Bob tro
+third-party-never =
+    .label = Byth
+third-party-visited =
+    .label = O'r ymwelwyd
+keep-label =
+    .value = Cadw tan:
+    .accesskey = C
+keep-expire =
+    .label = daw i ben
+keep-close =
+    .label = Cau { -brand-short-name }
+keep-ask =
+    .label = gofyn i mi bob tro
+cookies-button =
+    .label = Dangos Cwcis…
+    .accesskey = D
 passwords-description = Mae { -brand-short-name } yn gallu cofio cyfrineiriau eich holl cyfrifon.
 passwords-button =
     .label = Cyfrineiriau sydd wedi'u cadw…
@@ -342,6 +476,7 @@ master-password-label =
 master-password-button =
     .label = Newid y Prif Gyfrinair…
     .accesskey = N
+junk-description = Yma gallwch osod eich gosodiadau sbam rhagosodedig. Mae modd ffurfweddu gosodiadau penodol ar gyfer sbam yn Gosodiadau Cyfrif.
 junk-label =
     .label = Pan fyddai'n marcio negeseuon fel sbam:
     .accesskey = P
@@ -364,11 +499,23 @@ reset-junk-button =
     .label = Ailosod Data Hyfforddi
     .accesskey = A
 phishing-description = Mae { -brand-short-name } yn gallu dadansoddi negeseuon am dwyll e-bost drwy edrych am dechnegau cyffredin i'ch twyllo.
+phishing-label =
+    .label = Dweud wrthyf os yw'r neges ryw'n ei darllen o bosib yn e-bost twyllodrus
+    .accesskey = D
 antivirus-description = Mae { -brand-short-name } yn gallu ei gwneud yn hawdd i feddalwedd gwrth firws ddadansoddi negeseuon e-byst sy'n cael eu derbyn am firysau cyn eu storio'n lleol.
+antivirus-label =
+    .label = Caniatáu i'r rhaglen neilltuo negeseuon sy'n cael eu derbyn
+    .accesskey = a
 certificate-description = Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:
+certificate-auto =
+    .label = Dewis un yn awtomatig
+    .accesskey = D
 certificate-ask =
     .label = Gofyn i mi bob tro
     .accesskey = G
+ocsp-label =
+    .label = Ymholi gweinyddion ymatebydd OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau
+    .accesskey = Y
 
 ## Chat Tab
 
@@ -377,6 +524,8 @@ startup-label =
     .accesskey = P
 offline-label =
     .label = Cadw fy Nghyfrifon Sgwrsio all-lein
+auto-connect-label =
+    .label = Cysylltu â fy nghyfrifon sgwrsio yn awtomatig
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -397,6 +546,31 @@ away-message-label =
 send-typing-label =
     .label = Anfon hysbysiadau teipio mewn trafodaethau
     .accesskey = h
+notification-label = Pan fydd negeseuon wedi eu cyfeirio atoch chi yn cyrraedd:
+show-notification-label =
+    .label = Dangos rhybudd:
+    .accesskey = r
+notification-all =
+    .label = gydag enw'r anfonwr a rhagolwg o'r neges
+notification-name =
+    .label = gydag enw'r anfonwr yn unig
+notification-empty =
+    .label = heb unrhyw wybodaeth
+chat-play-sound-label =
+    .label = Canu nodyn
+    .accesskey = C
+chat-play-button =
+    .label = Chwarae
+    .accesskey = h
+chat-system-sound-label =
+    .label = Sain rhagosodedig y system ar gyfer e-bost newydd
+    .accesskey = S
+chat-custom-sound-label =
+    .label = Defnyddio'r ffeil sain ganlynol
+    .accesskey = D
+chat-browse-sound-button =
+    .label = Pori…
+    .accesskey = P
 
 ## Preferences UI Search Results
 
