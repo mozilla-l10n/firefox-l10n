@@ -4,6 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Lapbezárás visszavonása
+
 all-tabs-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -11,13 +12,17 @@ all-tabs-menu-undo-close-tabs =
             [one] Lapbezárás visszavonása
            *[other] Lapbezárások visszavonása
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Lapok keresése
+
 all-tabs-menu-new-user-context =
     .label = Új konténerlap
+
 all-tabs-menu-hidden-tabs =
     .label = Rejtett lapok
+
 all-tabs-menu-manage-user-context =
     .label = Konténerek kezelése
     .accesskey = O

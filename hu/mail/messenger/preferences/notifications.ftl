@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Értesítés új üzenetről
+
 customize-alert-description = Az értesítésben a következő mezők szerepeljenek:
+
 preview-text-checkbox =
     .label = Üzenet szövegének előnézete
     .accesskey = z
+
 subject-checkbox =
     .label = Tárgy
     .accesskey = T
+
 sender-checkbox =
     .label = Feladó
     .accesskey = F
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Új levél értesítés megjelenítése
     .accesskey = m
+
 open-time-label-after =
     .value = másodpercig

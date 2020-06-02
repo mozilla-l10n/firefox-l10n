@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Ha hamis, akkor kikapcsolja a hardveres gyorsítá
 
 policy-InstallAddonsPermission = Engedélyezi, hogy bizonyos weboldalak kiegészítőket telepítsenek.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Engedélyezi, hogy bizonyos weboldalak helyi fájlokra hivatkozzanak.
 
 policy-NetworkPrediction = A hálózati előrejelzés engedélyezése vagy letiltása (előzetes DNS lekérdezés).

@@ -59,6 +59,7 @@ rcwn-avg-long = Hosszú átlag
 rcwn-std-dev-long = Hosszú szórás
 rcwn-cache-slow = A gyorsítótár hányszor volt lassú
 rcwn-cache-not-slow = A gyorsítótár hányszor nem volt lassú
+
 about-networking-title = Hálózatkezelés névjegye
 about-networking-http = HTTP
 about-networking-sockets = Foglalatok
