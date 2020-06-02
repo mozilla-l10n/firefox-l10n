@@ -18,3 +18,5 @@ carddav-password-input =
 carddav-remember-password =
     .label = 记住密码
     .accesskey = m
+carddav-loading = 正在查询配置…
+carddav-connection-error = 连接失败。
