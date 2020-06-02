@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-app-manager-window-dialog =
-    .title = Applikaasjedetails
-    .style = width: 30em; min-height: 20em;
-remove-app-button =
-    .label = Fuortsmite
-    .accesskey = F
+count-unread-messages-radio =
+    .label = Oantal net-lêzen berjochten
+    .accesskey = a
+count-new-messages-radio =
+    .label = Oantal nije berjochten
+    .accesskey = n

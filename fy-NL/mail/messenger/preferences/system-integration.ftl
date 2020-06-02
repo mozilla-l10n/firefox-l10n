@@ -4,6 +4,11 @@
 
 system-integration-title =
     .title = Systeemyntegraasje
+system-integration-dialog =
+    .buttonlabelaccept = As standert ynstelle
+    .buttonlabelcancel = Yntegraasje oerslaan
+    .buttonlabelcancel2 = Annulearje
+default-client-intro = { -brand-short-name } as standertprogramma brûke foar:
 checkbox-email-label =
     .label = E-mail
     .tooltiptext = { unset-default-tooltip }
