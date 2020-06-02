@@ -17,6 +17,7 @@ rights-locationawarebrowsing-term-1 = בשורת הכתובות, הקש <code>ab
 rights-locationawarebrowsing-term-2 = הקלד geo.enabled
 rights-locationawarebrowsing-term-3 = לחץ לחיצה כפולה על ההעדפה geo.enabled
 rights-locationawarebrowsing-term-4 = גלישה מבוססת מיקום מנוטרלת כעת
+rights-webservices-unbranded = סקירה של שירותי האתרים שהמוצר מכיל, יחד עם הוראות כיצד לבטל אותם, אם הדבר ישים, צריכה להיכלל כאן.
 rights-webservices-term-unbranded = יש לרשום כאן כל תנאי שירות ישימים עבור מוצר זה.
 rights-webservices-term-1 = { -vendor-short-name } על תורמיו, בעלי זכויות יוצריו ושותפיו עובדים יחדיו כדי לספק את השירותים העדכניים והמדויקים ביותר.  עם זאת, איננו יכולים להבטיח כי מידע זה מקיף ונטול שגיאות.  לדוגמה, שירות הגלישה הבטוחה עלול שלא לזהות מספר אתרים מסוכנים ועלול לזהות כמה אתרים בטוחים בטעות ובשירות מבוסס המיקום כל המיקומים שמוחזרים על־ידי ספקי השירות שלנו משוערכים בלבד וגם אנחנו וגם ספקי השירות שלנו לא יכולים להתחייב לדיוקם של המיקומים המסופקים.
 rights-webservices-term-2 = { -vendor-short-name } עשוי להפסיק או לשנות את השירותים לפי ראותו.
