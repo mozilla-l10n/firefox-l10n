@@ -95,6 +95,10 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Parcourir…
     .accesskey = r
+networking-legend = Connexion
+network-settings-button =
+    .label = Paramètres…
+    .accesskey = P
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -103,7 +107,13 @@ mail-browse-sound-button =
 
 ##
 
+clear-cache-button =
+    .label = Vider le cache maintenant
+    .accesskey = V
 display-width-legend = Messages en texte simple
+style-label =
+    .value = Style :
+    .accesskey = S
 regular-style-item =
     .label = Normal
 bold-style-item =
@@ -112,6 +122,9 @@ italic-style-item =
     .label = Italique
 bold-italic-style-item =
     .label = Gras italique
+size-label =
+    .value = Taille :
+    .accesskey = T
 regular-size-item =
     .label = Normale
 bigger-size-item =
@@ -128,30 +141,65 @@ smaller-size-item =
 
 ## Compose Tab
 
+forward-label =
+    .value = Transférer les messages :
+    .accesskey = T
 inline-label =
     .label = intégrés
 as-attachment-label =
     .label = en pièces jointes
+extension-label =
+    .label = ajouter une extension au nom de fichier
+    .accesskey = a
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Sauvegarde automatique toutes les
+    .accesskey = S
 auto-save-end = minutes
 
 ##
 
+spellcheck-inline-label =
+    .label = Activer la vérification pendant la saisie
+    .accesskey = A
+language-popup-label =
+    .value = Langue :
+    .accesskey = L
 font-label =
     .value = Police :
     .accesskey = P
+font-color-label =
+    .value = Couleur du texte :
+    .accesskey = C
 restore-html-label =
     .label = Restaurer les paramètres initiaux
     .accesskey = R
+directories-none-label =
+    .none = Aucun
 edit-directories-label =
     .label = Modifier les annuaires…
     .accesskey = M
 
 ## Privacy Tab
 
+junk-label =
+    .label = Quand je marque des messages comme indésirables :
+    .accesskey = Q
+junk-move-label =
+    .label = les déplacer dans le dossier « Indésirables »
+    .accesskey = e
+junk-delete-label =
+    .label = les supprimer
+    .accesskey = s
+junk-read-label =
+    .label = Marquer les messages détectés indésirables comme lus
+    .accesskey = M
+junk-log-button =
+    .label = Afficher le journal
+    .accesskey = A
 
 ## Chat Tab
 
