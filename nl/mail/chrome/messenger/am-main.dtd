@@ -15,6 +15,7 @@
 <!ENTITY name.accesskey "U">
 <!ENTITY email.label "E-mailadres:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Vanuit deze identiteit reageren als de afleverheaders overeenkomen met:">
 <!ENTITY replyTo.label "Antwoordadres:">
 <!ENTITY replyTo.accesskey "n">
 <!ENTITY replyTo.placeholder "Ontvangers zullen antwoorden naar dit andere adres">
