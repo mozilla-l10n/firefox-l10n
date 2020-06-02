@@ -19,15 +19,15 @@ address-input-type = { $count ->
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label = { $count ->
     [0]     { $type }
-    [one]   { $type } mit einer Adresse, Pfeil-nach-links-Taste zum Auswählen verwenden
-    *[other] { $type } mit { $count } Adressen, Pfeil-nach-links-Taste zum Auswählen verwenden
+    [one]   { $type } mit einer Adresse, Pfeil-nach-links-Taste zum AuswÃ¤hlen verwenden
+    *[other] { $type } mit { $count } Adressen, Pfeil-nach-links-Taste zum AuswÃ¤hlen verwenden
 }
 
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label = { $count ->
-    [one]   { $email }: zum Bearbeiten Eingabetaste drücken, Entfernen-Taste zum Entfernen.
-    *[other] { $email }, 1 von { $count }: zum Bearbeiten Eingabetaste drücken, Entfernen-Taste zum Entfernen.
+    [one]   { $email }: zum Bearbeiten Eingabetaste drÃ¼cken, Entfernen-Taste zum Entfernen.
+    *[other] { $email }, 1 von { $count }: zum Bearbeiten Eingabetaste drÃ¼cken, Entfernen-Taste zum Entfernen.
 }
 
 pill-action-edit =
