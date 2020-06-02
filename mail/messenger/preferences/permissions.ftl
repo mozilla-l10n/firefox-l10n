@@ -36,6 +36,7 @@ save-button =
     .label = Shrani spremembe
     .accesskey = S
 permission-can-label = Dovoli
+permission-can-access-first-party-label = Dovoli samo lastne
 permission-can-session-label = Dovoli za sejo
 permission-cannot-label = Blokiraj
 invalid-uri-message = Vnesite veljavno ime gostitelja.

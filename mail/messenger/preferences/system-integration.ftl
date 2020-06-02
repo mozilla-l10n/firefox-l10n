@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-title =
+    .title = Vključitev v sistem
+system-integration-dialog =
+    .buttonlabelaccept = Nastavi kot privzeto
+    .buttonlabelcancel = Ne zdaj
+    .buttonlabelcancel2 = Prekliči
 default-client-intro = Uporabi { -brand-short-name } kot privzeti program za:
 unset-default-tooltip = { -brand-short-name }a ni mogoče odstraniti kot privzetega odjemalca znotraj { -brand-short-name }a. Če želite privzeto uporabljati drug program, uporabite njegovo pogovorno okno 'Nastavi kot privzeto'.
 checkbox-email-label =
@@ -21,6 +27,9 @@ system-search-engine-name =
         [windows] iskanju Windows
        *[other] { "" }
     }
+system-search-integration-label =
+    .label = Dovoli { system-search-engine-name } iskanje po sporočilih
+    .accesskey = D
 check-on-startup-label =
     .label = Vedno preveri ob zagonu { -brand-short-name }a
     .accesskey = V
