@@ -140,6 +140,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Galluogi Chwilio a Mynegeio Eang
     .accesskey = G
+datetime-formatting-legend = Fformatio Dyddiad ac Amser
 allow-hw-accel =
     .label = Defnyddio cyflymu caledwedd pan fydd ar gael
     .accesskey = y
@@ -182,6 +183,10 @@ return-receipts-description = Pennu sut mae { -brand-short-name } yn trin derbyn
 return-receipts-button =
     .label = Derbynebau Dychwelyd…
     .accesskey = D
+update-app-legend = Diweddariadau { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Fersiwn { $version }
 automatic-updates-label =
     .label = Gosod diweddariadau'n awtomatig (argymell: gwella diogelwch)
     .accesskey = a
@@ -222,6 +227,9 @@ use-cache-after = MB o le disg ar gyfer y storfa
 
 ##
 
+smart-cache-label =
+    .label = Anwybyddu rheolaeth storfa awtomatig
+    .accesskey = A
 clear-cache-button =
     .label = Clirio Nawr
     .accesskey = N
@@ -407,6 +415,11 @@ edit-directories-label =
 email-picker-label =
     .label = Ychwanegu cyfeiriadau e-bost anfon yn awtomatig i'r:
     .accesskey = Y
+default-directory-label =
+    .value = Cyfeiriadur cychwyn rhagosodedig yn ffenestr y llyfr cyfeiriadau:
+    .accesskey = c
+default-last-label =
+    .none = Cyfeiriadur defnyddiwyd ddiwethaf
 attachment-label =
     .label = Gwirio am atodiadau coll
     .accesskey = w
