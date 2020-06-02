@@ -70,15 +70,66 @@ addons-button = Laiendused ja teemad
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = F
+focus-search-shortcut-alt =
+    .key = K
+general-legend = { -brand-short-name }i avaleht
+start-page-label =
+    .label = { -brand-short-name }i käivitumisel näidatakse kirja alas avalehte
+    .accesskey = i
+location-label =
+    .value = Asukoht:
+    .accesskey = o
+restore-default-label =
+    .label = Taasta algväärtus
+    .accesskey = T
+default-search-engine = Vaikeotsingumootor
 add-search-engine =
     .label = Lisa failist
     .accesskey = f
 remove-search-engine =
     .label = Eemalda
     .accesskey = E
+new-message-arrival = Uue kirja saabumisel:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Esitatakse järgmist helifaili:
+           *[other] mängitakse helifaili
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] h
+           *[other] g
+        }
+mail-play-button =
+    .label = Esita
+    .accesskey = E
+change-dock-icon = Rakenduse ikooni sätete muutmine
+app-icon-options =
+    .label = Rakenduse ikooni sätted…
+    .accesskey = n
+notification-settings = Teated ja vaikimisi heli saab välja lülitada paneelilt Teavitused süsteemi eelistustes.
+animated-alert-label =
+    .label = kuvatakse teadet
+    .accesskey = u
+customize-alert-label =
+    .label = Kohanda...
+    .accesskey = K
+tray-icon-label =
+    .label = Kuvatakse süsteemisalve ikooni
+    .accesskey = v
+mail-custom-sound-label =
+    .label = kasutatakse järgnevat helifaili
+    .accesskey = e
+mail-browse-sound-button =
+    .label = Lehitse...
+    .accesskey = L
 enable-gloda-search-label =
     .label = Lubatakse kirjade üldotsing ja indekseerimine
     .accesskey = L
+datetime-formatting-legend = Kuupäeva ja kellaaja vorming
 language-selector-legend = Keel
 allow-hw-accel =
     .label = Võimalusel kasutatakse riistvaralist kiirendust
@@ -122,6 +173,10 @@ return-receipts-description = Määra, kuidas { -brand-short-name } käsitleb k�
 return-receipts-button =
     .label = Kättesaamise kinnitused...
     .accesskey = M
+update-app-legend = { -brand-short-name }i uuendused
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versioon { $version }
 allow-description = { -brand-short-name }il lubatakse
 automatic-updates-label =
     .label = uuendused automaatselt paigaldada (soovitatav: parem turvalisus)
@@ -170,15 +225,119 @@ smart-cache-label =
 clear-cache-button =
     .label = Puhasta nüüd
     .accesskey = P
+fonts-legend = Fondid ja värvid
+default-font-label =
+    .value = Vaikimisi font:
+    .accesskey = V
+default-size-label =
+    .value = Suurus:
+    .accesskey = S
+font-options-button =
+    .label = Fondid...
+    .accesskey = F
+color-options-button =
+    .label = Värvid…
+    .accesskey = r
+display-width-legend = Lihttekstis kirjad
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Emotikonide graafiline esitamine
+    .accesskey = m
+display-text-label = Tsiteeritud lihttekstiga kirjade kuvamine:
+style-label =
+    .value = Stiil:
+    .accesskey = t
+regular-style-item =
+    .label = tavaline
+bold-style-item =
+    .label = paks
+italic-style-item =
+    .label = kaldkiri
+bold-italic-style-item =
+    .label = paks kaldkiri
+size-label =
+    .value = Suurus:
+    .accesskey = S
+regular-size-item =
+    .label = tavaline
+bigger-size-item =
+    .label = suurem
+smaller-size-item =
+    .label = väiksem
+quoted-text-color =
+    .label = Värv:
+    .accesskey = V
+search-input =
+    .placeholder = Otsi
+type-column-label =
+    .label = Sisu tüüp
+    .accesskey = S
+action-column-label =
+    .label = Tegevus
+    .accesskey = T
+save-to-label =
+    .label = Failid salvestatakse asukohta
+    .accesskey = F
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Lehitse…
+           *[other] Lehitse…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] L
+           *[other] L
+        }
+always-ask-label =
+    .label = Alati küsitakse, kuhu failid salvestatakse
+    .accesskey = A
+display-tags-text = Silte saab kasutada kirjade kategoriseerimiseks ja prioriteedi määramiseks.
+new-tag-button =
+    .label = Uus…
+    .accesskey = U
+edit-tag-button =
+    .label = Redigeeri…
+    .accesskey = R
+delete-tag-button =
+    .label = Kustuta
+    .accesskey = K
+auto-mark-as-read =
+    .label = Kirjad märgitakse automaatselt loetuks
+    .accesskey = K
+mark-read-no-delay =
+    .label = kohe pärast kuvamist
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = märgitakse loetuks pärast
+    .accesskey = m
+seconds-label = sekundit
 
 ##
 
+open-msg-label =
+    .value = Kirjad avatakse:
+open-msg-tab =
+    .label = uuel kaardil
+    .accesskey = u
+open-msg-window =
+    .label = uues aknas
+    .accesskey = a
+open-msg-ex-window =
+    .label = samas aknas
+    .accesskey = s
+close-move-delete =
+    .label = Kustutamisel või liigutamisel kirja aken/kaart suletakse
+    .accesskey = K
 display-name-label =
     .value = Kuvatav nimi:
+condensed-addresses-label =
+    .label = Aadressiraamatus olevate kontaktide puhul näidatakse ainult kuvatavat nime
+    .accesskey = k
 
 ## Compose Tab
 
@@ -269,8 +428,18 @@ attachment-options-label =
     .accesskey = V
 enable-cloud-share =
     .label = Pilveteenuste kasutamist pakutakse suuremate failide puhul kui
+cloud-share-size =
+    .value = MiB
+add-cloud-account =
+    .label = Lisa…
+    .accesskey = L
+    .defaultlabel = Lisa…
+remove-cloud-account =
+    .label = Eemalda
+    .accesskey = E
 find-cloud-providers =
     .value = Leia veel teenusepakkujaid…
+cloud-account-description = Lisa uus pilveteenus
 
 ## Privacy Tab
 
