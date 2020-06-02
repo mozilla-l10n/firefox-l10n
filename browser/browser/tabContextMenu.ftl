@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = Angre attlating av fane
     .accesskey = r
+tab-context-close-multiple-tabs =
+    .label = Lat att flere faner
+    .accesskey = f
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Angre attlating av fane
+           *[other] Angre attlating av faner
+        }
+    .accesskey = A
 close-tab =
     .label = Lat att fane
     .accesskey = n
