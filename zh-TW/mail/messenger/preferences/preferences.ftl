@@ -42,6 +42,9 @@ privacy-main-header = 隱私權
 privacy-passwords-header = 密碼
 privacy-junk-header = 垃圾郵件
 privacy-data-collection-header = 資料收集與使用
+collection-privacy-notice = 隱私權公告
+collection-health-report-telemetry-disabled-link = 了解更多
+collection-health-report-link = 了解更多
 collection-backlogged-crash-reports-link = 了解更多
 privacy-security-header = 安全性
 privacy-scam-detection-title = 詐騙信偵測
@@ -676,4 +679,10 @@ search-input-box =
 ## Preferences UI Search Results
 
 search-results-header = 搜尋結果
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] 抱歉！沒有「<span data-l10n-name="query"></span>」的選項搜尋結果。
+       *[other] 抱歉！沒有「<span data-l10n-name="query"></span>」的偏好設定搜尋結果。
+    }
 search-results-help-link = 需要幫忙嗎？請到 <a data-l10n-name="url">{ -brand-short-name } 技術支援</a>
