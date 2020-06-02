@@ -69,3 +69,114 @@ master-password-os-auth-dialog-message-win = Luo pääsalasana kirjoittamalla Wi
 master-password-os-auth-dialog-message-macosx = luoda pääsalasanan
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## General Tab
+
+mail-play-button =
+    .label = Toista
+    .accesskey = T
+customize-alert-label =
+    .label = Muokkaa…
+    .accesskey = M
+mail-custom-sound-label =
+    .label = Käytä seuraavaa äänitiedostoa
+    .accesskey = K
+mail-browse-sound-button =
+    .label = Selaa…
+    .accesskey = S
+networking-legend = Yhteysasetukset
+offline-legend = Yhteydetön tila
+offline-settings = Määritä verkkoyhteydettömän tilan asetukset
+offline-settings-button =
+    .label = Yhteydetön tila…
+    .accesskey = h
+
+## Note: The entities use-cache-before and use-cache-after appear on a single
+## line in preferences as follows:
+## use-cache-before [ textbox for cache size in MB ] use-cache-after
+
+
+##
+
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Näytä hymiöt kuvina
+    .accesskey = N
+
+## Note: This will concatenate to "After displaying for [___] seconds",
+## using (mark-read-delay) and a number (seconds-label).
+
+
+##
+
+
+## Compose Tab
+
+extension-label =
+    .label = lisää tiedostonimeen pääte
+    .accesskey = s
+
+## Note: This will concatenate to "Auto Save every [___] minutes",
+## using (auto-save-label) and a number (auto-save-end).
+
+
+##
+
+font-label =
+    .value = Kirjasin:
+    .accesskey = n
+font-color-label =
+    .value = Tekstin väri:
+    .accesskey = s
+bg-color-label =
+    .value = Taustaväri:
+    .accesskey = a
+restore-html-label =
+    .label = Palauta oletukset
+    .accesskey = P
+
+## Privacy Tab
+
+junk-description = Muokkaa alta roskapostisuodattimen oletusasetuksia. Tilikohtaisia asetuksia voi muokata Tilien asetuksista.
+junk-label =
+    .label = Kun merkitsen viestin roskapostiksi:
+    .accesskey = K
+junk-move-label =
+    .label = Siirrä se tilin roskapostikansioon
+    .accesskey = S
+junk-delete-label =
+    .label = Poista se
+    .accesskey = P
+junk-read-label =
+    .label = Merkitse roskapostiviestit luetuiksi
+    .accesskey = M
+junk-log-button =
+    .label = Näytä loki
+    .accesskey = N
+reset-junk-button =
+    .label = Nollaa harjoitustiedot
+    .accesskey = N
+phishing-description = { -brand-short-name } voi yrittää tunnistaa viestejä sähköpostihuijauksiksi tavanomaisia huijaustekniikoita etsien.
+phishing-label =
+    .label = Näytä varoitus epäillyistä sähköpostihuijauksista
+    .accesskey = N
+antivirus-description = { -brand-short-name }issä virustorjuntaohjelman voi antaa tarkistaa saapuvat sähköpostiviestit virusten varalta ennen kuin ne tallennetaan tietokoneelle.
+antivirus-label =
+    .label = Virustorjuntaohjelmat voivat asettaa yksittäiset viestit karanteeniin
+    .accesskey = V
+
+## Chat Tab
+
+
+## Note: idle-label is displayed first, then there's a field where the user
+## can enter a number, and itemTime is displayed at the end of the line.
+## The translations of the idle-label and idle-time-label parts don't have
+## to mean the exact same thing as in English; please try instead to
+## translate the whole sentence.
+
+
+##
+
+
+## Preferences UI Search Results
+
