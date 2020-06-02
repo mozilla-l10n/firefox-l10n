@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (একান্ত ব্রাউজিং)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (একান্ত ব্রাউজিং)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (একান্ত ব্রাউজিং)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (একান্ত ব্রাউজিং)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -121,10 +123,12 @@ urlbar-canvas-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন অবরোধ করেছেন।
 urlbar-midi-blocked =
     .tooltiptext = আপনি সাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = এই বুকমার্কটি সম্পাদনা ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -156,6 +160,7 @@ search-one-offs-change-settings-button =
     .label = অনুসন্ধান সেটিং বদল করুন
 search-one-offs-change-settings-compact-button =
     .tooltiptext = অনুসন্ধান সেটিংস পরিবর্তন করুন
+
 search-one-offs-context-open-new-tab =
     .label = নতুন ট্যাবে অনুসন্ধান T
     .accesskey = T
@@ -168,8 +173,10 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = সংরক্ষণ করার সময় সম্পাদক দেখাও
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = সম্পন্ন
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -247,9 +254,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্রাউজার রিমোর্ট কন্ট্রোলের আওতায়
 urlbar-switch-to-tab =
     .value = ট্যাবে যান:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশন:
+
 urlbar-go-button =
     .tooltiptext = ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে
 urlbar-page-action-button =

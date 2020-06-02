@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = অ্যাপ্লিকেশনের বিস্তারিত
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = অপসারণ (R)
     .accesskey = R

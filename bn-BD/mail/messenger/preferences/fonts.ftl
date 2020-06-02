@@ -4,9 +4,11 @@
 
 fonts-encoding-dialog-title =
     .title = ফন্ট ও এনকোডিং
+
 fonts-language-legend =
     .value = যার জন্য ফন্ট (t):
     .accesskey = t
+
 fonts-proportional-label =
     .value = সমানুপাতিক হার (P):
     .accesskey = P
@@ -60,29 +62,37 @@ font-language-group-malayalam =
 
 default-font-serif =
     .label = সেরিফ
+
 default-font-sans-serif =
     .label = সান্স-সেরিফ
+
 font-serif-label =
     .value = সেরিফ (S):
     .accesskey = S
+
 font-sans-serif-label =
     .value = সান্স-সেরিফ (n):
     .accesskey = n
+
 font-monospace-label =
     .value = মনোস্পেস (M):
     .accesskey = M
+
 font-min-size-label =
     .value = ফন্টের সর্বনিম্ন আকার (z):
     .accesskey = z
+
 min-size-none =
     .label = কোনটি না
 
 ## Fonts in message
 
 font-control-legend = ফন্ট নিয়ন্ত্রণ
+
 use-document-fonts-checkbox =
     .label = অন্যান্য ফন্ট ব্যবহার করতে বার্তাসমূহকে অনুমোদন দেয়া হবে (o)
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = সরল টেক্সট বার্তার জন্য নির্ধারিত প্রস্থের ফন্ট ব্যবহার করুন
     .accesskey = x
@@ -92,6 +102,8 @@ use-fixed-width-plain-checkbox =
 font-outgoing-email-label =
     .value = বহিঃর্গামী মেইল (u):
     .accesskey = u
+
 font-incoming-email-label =
     .value = আসন্ন মেইল (I):
     .accesskey = I
+
