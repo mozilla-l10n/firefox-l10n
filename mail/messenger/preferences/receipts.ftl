@@ -4,6 +4,9 @@
 
 receipts-dialog-window =
     .title = 收件回執
+return-receipt-checkbox =
+    .label = 寄送郵件時一律要求收件回執
+    .acceskey = W
 receipt-arrive-label = 收到回執時:
 receipt-leave-radio =
     .label = 留在「收件匣」中
@@ -11,12 +14,16 @@ receipt-leave-radio =
 receipt-move-radio =
     .label = 移到「寄件備份」匣
     .acceskey = M
+receipt-request-label = 收到要求收件回執的郵件時:
 receipt-return-never-radio =
     .label = 一律不寄出回執
     .acceskey = N
 receipt-return-some-radio =
     .label = 依下列設定決定是否寄出回執
     .acceskey = r
+receipt-not-to-cc =
+    .value = 如果我不在郵件的收件者或副本列表中:
+    .acceskey = f
 receipt-send-never-label =
     .label = 不要寄出
 receipt-send-always-label =
