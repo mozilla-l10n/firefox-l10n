@@ -189,6 +189,7 @@ return-receipts-description = Määrittele, kuinka { -brand-short-name } käsitt
 return-receipts-button =
     .label = Vastaanottokuittaukset…
     .accesskey = V
+update-app-legend = { -brand-short-name }-päivitykset
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Versio { $version }
@@ -339,6 +340,9 @@ open-msg-label =
 open-msg-tab =
     .label = Uuteen välilehteen
     .accesskey = v
+open-msg-window =
+    .label = Uuteen viesti-ikkunaan
+    .accesskey = i
 open-msg-ex-window =
     .label = Avoinna olevaan viesti-ikkunaan
     .accesskey = A
