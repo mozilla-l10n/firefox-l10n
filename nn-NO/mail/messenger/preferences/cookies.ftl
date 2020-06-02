@@ -39,3 +39,6 @@ remove-cookie-button =
 remove-all-cookies-button =
     .label = Slett alle infokapslar
     .accesskey = a
+cookie-close-button =
+    .label = Lat att
+    .accesskey = L
