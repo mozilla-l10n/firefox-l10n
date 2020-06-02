@@ -17,3 +17,4 @@ count-unread-messages-radio =
 count-new-messages-radio =
     .label = Líon na dteachtaireachtaí nua
     .accesskey = n
+notification-settings-info = Is féidir leat an suaitheantas a dhíchumasú sa bpána Fógraí i Socruithe an Chórais.
