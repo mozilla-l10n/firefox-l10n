@@ -594,9 +594,6 @@ updates-heading = 업데이트 관리
 discover-heading = { -brand-short-name } 개인화
 shortcuts-heading = 확장 기능 단축키 관리
 
-theme-heading-search-label = 더 많은 테마 찾기
-extension-heading-search-label = 더 많은 확장 기능 찾기
-
 default-heading-search-label = 더 많은 부가 기능 찾기
 addons-heading-search-input =
     .placeholder = addons.mozilla.org 검색

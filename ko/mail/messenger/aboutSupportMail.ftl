@@ -16,3 +16,4 @@ accounts-default = 기본값?
 identity-name = 아이디
 
 send-via-email = 이메일로 보내기
+

@@ -80,6 +80,10 @@ policy-HardwareAcceleration = False면 하드웨어 가속을 끕니다.
 
 policy-InstallAddonsPermission = 특정 웹사이트가 애드온을 설치하도록 허용합니다.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = 특정 웹사이트가 로컬 파일에 연결하는 것을 허용합니다.
 
 policy-NetworkPrediction = 네트워크 예측(DNS의 프리패치)을 작동시키거나 작동하지 않게 합니다.

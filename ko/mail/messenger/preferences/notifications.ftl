@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = 새 메일 알림 설정
+
 customize-alert-description = 경고 알람을 사용할 필드 선택:
+
 preview-text-checkbox =
     .label = 메시지 미리 보기
     .accesskey = M
+
 subject-checkbox =
     .label = 제목
     .accesskey = S
+
 sender-checkbox =
     .label = 보낸 사람
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = 새 메일 알림을
     .accesskey = N
+
 open-time-label-after =
     .value = 초 동안 보여주기
