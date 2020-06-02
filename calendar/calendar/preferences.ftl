@@ -92,6 +92,12 @@ previous-weeks-label =
     .value = Previous weeks to show:
     .accesskey = P
 todaypane-legend = Hodiaŭa panelo
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = La sekcio 'venontaj' montras:
+    .accesskey = v
 event-task-legend = Eventoj kaj taskoj
 task-start-label =
     .value = Start Date:
@@ -136,6 +142,9 @@ reminder-browse-sound-label =
 reminder-dialog-label =
     .label = Montri memorigan dialogon
     .accesskey = x
+missed-reminder-label =
+    .label = Montri maltrafitajn memorigojn por redakteblaj kalendaroj
+    .accesskey = m
 reminder-default-legend = Normoj de memorigo
 default-snooze-label =
     .value = Norma daŭro de prokrasto:
