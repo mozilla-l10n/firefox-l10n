@@ -97,6 +97,14 @@ always-ask-label =
 
 ##
 
+enable-cloud-share =
+    .label = Tilbyd at bruge Filelink ved filer større end
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Fjern
+    .accesskey = F
+cloud-account-description = Tilføj en ny Filelink-tjeneste
 
 ## Privacy Tab
 
@@ -124,6 +132,9 @@ junk-delete-label =
 junk-read-label =
     .label = Marker spam-meddelelser som læste
     .accesskey = M
+junk-log-label =
+    .label = Aktiver logning af spam-filter
+    .accesskey = A
 junk-log-button =
     .label = Vis log
     .accesskey = V
@@ -141,6 +152,13 @@ antivirus-label =
 
 ## Chat Tab
 
+startup-label =
+    .value = Når { -brand-short-name } startes:
+    .accesskey = s
+offline-label =
+    .label = Lad mine chat-konti være offline
+auto-connect-label =
+    .label = Forbind automatisk mine chat-konti
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -148,9 +166,16 @@ antivirus-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Skift min status til Ikke til stede efter
+    .accesskey = i
+idle-time-label = minutter uden aktivitet
 
 ##
 
+away-message-label =
+    .label = og vis denne meddelelse:
+    .accesskey = m
 
 ## Preferences UI Search Results
 
