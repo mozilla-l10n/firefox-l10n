@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = धांपिल्ले टॅब परत उगडचे
     .accesskey = प
+
 toolbar-context-menu-remove-from-toolbar =
     .label = साधनपट्टेतल्यान काडात
     .accesskey = R
