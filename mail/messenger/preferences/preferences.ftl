@@ -587,6 +587,17 @@ notification-name =
     .label = samo s pošiljateljevim imenom
 notification-empty =
     .label = brez podatkov
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animiraj ikono v doku
+           *[other] Utripaj z gumbom opravilne vrstice
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] U
+        }
 chat-play-sound-label =
     .label = predvajaj zvok
     .accesskey = r
