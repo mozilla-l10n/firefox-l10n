@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 send-mail-title = Mensagens com formatação
+auto-downgrade-label =
+    .label = Enviar mensagens como texto sem formatação, se possível
+    .accesskey = t
 default-html-format-label = Ao enviar mensagens com formatação (HTML) e um destinatário não estiver definido para receber nesse formato:
 html-format-ask =
     .label = Perguntar qual é o formato desejado
