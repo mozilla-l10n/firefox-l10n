@@ -5,6 +5,14 @@
 
 ## Languages
 
+font-language-group-cyrillic =
+    .label = Cyrillic
+font-language-group-armenian =
+    .label = Armenian
+font-language-group-canadian =
+    .label = Unified Canadian Syllabary
+font-language-group-ethiopic =
+    .label = Ethiopic
 
 ## Default font type
 
@@ -24,6 +32,9 @@ font-monospace-label =
 
 ## Fonts in message
 
+use-document-fonts-checkbox =
+    .label = Allow messages to use other fonts
+    .accesskey = o
 
 ## Language settings
 
