@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title-category = Категории
 dateformat-label =
     .value = Формат даты:
     .accesskey = Ф
@@ -11,6 +12,8 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Краткий: { $date }
+timezone-label =
+    .value = Часовой пояс:
 weekstart-label =
     .value = Первый день недели:
     .accesskey = е
@@ -28,9 +31,15 @@ day-6-name =
     .label = Пятница
 day-7-name =
     .label = Суббота
+show-weeknumber-label =
+    .label = Показывать номер недели в обзорах и минимесяце
+    .accesskey = о
 day-1-checkbox =
     .label = Вс
     .accesskey = В
+day-2-checkbox =
+    .label = Пн
+    .accesskey = н
 day-3-checkbox =
     .label = Вт
     .accesskey = т
@@ -83,6 +92,13 @@ week-6-label =
 previous-weeks-label =
     .value = Количество предыдущих недель в обзоре:
     .accesskey = о
+todaypane-legend = Мероприятия
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = В разделе Предстоящих показано:
+    .accesskey = е
 task-start-label =
     .value = Дата начала:
 task-start-1-label =
@@ -103,14 +119,35 @@ task-start-8-label =
     .label = Относительно следующего часа
 task-due-label =
     .value = Срок:
+edit-intab-label =
+    .label = Редактировать события и задачи во вкладке, а не в диалоговом окне.
+    .accesskey = а
 accessibility-legend = Общедоступность
 accessibility-colors-label =
     .label = Оптимизировать цвета для людей с ограниченными возможностями
     .accesskey = п
 reminder-legend = При наступлении времени оповещения:
+reminder-play-checkbox =
+    .label = Проигрывать звук
+    .accesskey = з
+reminder-play-alarm-button =
+    .label = Воспроизвести
+    .accesskey = и
+reminder-default-sound-label =
+    .label = По умолчанию
+    .accesskey = м
+reminder-custom-sound-label =
+    .label = Использовать следующий звуковой файл
+    .accesskey = й
+reminder-browse-sound-label =
+    .label = Обзор…
+    .accesskey = б
 reminder-dialog-label =
     .label = Показать окно оповещения
     .accesskey = к
+missed-reminder-label =
+    .label = Показывать пропущенные оповещения для доступных для записи календарей
+    .accesskey = а
 reminder-default-legend = Параметры по умолчанию для оповещений
 default-snooze-label =
     .value = По умолчанию отложить на:
