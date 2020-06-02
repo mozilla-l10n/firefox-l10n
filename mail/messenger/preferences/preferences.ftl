@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Zapri
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -95,6 +97,15 @@ restore-default-label =
     .label = Ponastavi privzeto
     .accesskey = P
 default-search-engine = Privzeti iskalnik
+add-search-engine =
+    .label = Dodaj iz datoteke
+    .accesskey = D
+remove-search-engine =
+    .label = Odstrani
+    .accesskey = s
+minimize-to-tray-label =
+    .label = Ob pomanjšanju premakni { -brand-short-name } v pladenj opravilne vrstice
+    .accesskey = m
 new-message-arrival = Ko prispejo nova sporočila:
 mail-play-button =
     .label = Predvajaj
@@ -140,6 +151,7 @@ autoscroll-label =
 smooth-scrolling-label =
     .label = Uporabi gladko drsenje
     .accesskey = a
+system-integration-legend = Vključitev v sistem
 always-check-default =
     .label = Ob zagonu vedno preveri, ali je { -brand-short-name } privzeti odjemalec elektronske pošte
     .accesskey = O
@@ -164,15 +176,23 @@ return-receipts-description = Določite, kako { -brand-short-name } obravnava po
 return-receipts-button =
     .label = Povratnice …
     .accesskey = P
+update-app-legend = Posodobitve { -brand-short-name }a
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Različica { $version }
 automatic-updates-label =
     .label = Samodejno nameščaj posodobitve (priporočeno za večjo varnost)
     .accesskey = S
 check-updates-label =
     .label = Preverjaj posodobitve, vendar mi prepusti odločitev o nameščanju
     .accesskey = P
+update-history-button =
+    .label = Prikaži zgodovino posodobitev
+    .accesskey = o
 use-service =
     .label = Uporabi storitev za nameščanje posodobitev v ozadju
     .accesskey = Z
+cross-user-udpate-warning = Ta nastavitev bo uveljavljena v vseh uporabniških računih sistema Windows in { -brand-short-name }ovih profilih, ki uporabljajo to različico { -brand-short-name }a.
 networking-legend = Povezava
 proxy-config-description = Nastavite, kako naj se { -brand-short-name } poveže na internet.
 network-settings-button =
@@ -201,6 +221,9 @@ use-cache-after = MB prostora za predpomnjenje.
 
 ##
 
+smart-cache-label =
+    .label = Prezri samodejno upravljanje predpomnilnika
+    .accesskey = r
 clear-cache-button =
     .label = Počisti zdaj
     .accesskey = o
@@ -312,6 +335,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Zapri okno/zavihek s sporočilom ob premikanju ali brisanju
     .accesskey = Z
+display-name-label =
+    .value = Prikazno ime:
 condensed-addresses-label =
     .label = Za osebe v mojem imeniku prikaži le prikazano ime
     .accesskey = a
@@ -339,9 +364,15 @@ auto-save-end = minut
 
 ##
 
+warn-on-send-accel-key =
+    .label = Potrdi pošiljanje ob pritisku tipkovne bližnjice za pošiljanje sporočila
+    .accesskey = o
 spellcheck-label =
     .label = Pred pošiljanjem preveri črkovanje
     .accesskey = P
+spellcheck-inline-label =
+    .label = Omogoči preverjanje črkovanja med tipkanjem
+    .accesskey = O
 language-popup-label =
     .value = Jezik:
     .accesskey = J
@@ -349,6 +380,12 @@ download-dictionaries-link = Prenesi dodatne slovarje
 font-label =
     .value = Pisava:
     .accesskey = s
+font-size-label =
+    .value = Velikost:
+    .accesskey = V
+default-colors-label =
+    .label = Uporabi privzete barve bralnika
+    .accesskey = p
 font-color-label =
     .value = Barva besedila:
     .accesskey = b
@@ -361,6 +398,7 @@ restore-html-label =
 default-format-label =
     .label = Privzeto uporabi obliko odstavka namesto telesa besedila
     .accesskey = k
+format-description = Nastavi vedenje oblikovanja besedila
 send-options-label =
     .label = Možnosti pošiljanja …
     .accesskey = M
@@ -376,8 +414,17 @@ directories-none-label =
 edit-directories-label =
     .label = Uredi imenike …
     .accesskey = U
+email-picker-label =
+    .label = Samodejno dodaj odhodne e-poštne naslove v:
+    .accesskey = S
+default-directory-label =
+    .value = Privzeta začetna mapa v oknu imenika:
+    .accesskey = P
 default-last-label =
     .none = Nazadnje uporabljena mapa
+attachment-label =
+    .label = Preveri, ali morda manjkajo priponke
+    .accesskey = r
 attachment-options-label =
     .label = Ključne besede …
     .accesskey = K
@@ -392,6 +439,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Odstrani
     .accesskey = O
+find-cloud-providers =
+    .value = Poišči več ponudnikov …
 cloud-account-description = Dodaj novega ponudnika storitve za shranjevanje podatkov Filelink
 
 ## Privacy Tab
@@ -409,12 +458,22 @@ web-content = Spletna vsebina
 history-label =
     .label = Zapomni si spletna mesta in povezave, ki sem jih obiskal
     .accesskey = Z
+third-party-label =
+    .value = Sprejemaj piškotke tretjih strani:
+    .accesskey = š
 third-party-always =
     .label = Vedno
 third-party-never =
     .label = Nikoli
 third-party-visited =
     .label = Od obiskanih
+keep-label =
+    .value = Obdrži jih:
+    .accesskey = O
+keep-expire =
+    .label = dokler ne pretečejo
+keep-close =
+    .label = dokler ne zaprem { -brand-short-name }a
 keep-ask =
     .label = vsakokrat me vprašaj
 cookies-button =
@@ -432,6 +491,9 @@ master-password-button =
     .label = Nastavi glavno geslo …
     .accesskey = N
 junk-description = Nastavite svoje privzete nastavitve za neželeno pošto. Nastavitve neželene pošte za posamezni račun lahko prilagodite v nastavitvah računa.
+junk-label =
+    .label = Ko označim sporočila kot neželena:
+    .accesskey = M
 junk-move-label =
     .label = jih prestavi v mapo "Neželeno"
     .accesskey = r
@@ -468,6 +530,12 @@ certificate-ask =
 ocsp-label =
     .label = Poizvej po odzivnih strežnikih OCSP za potrditev trenutne veljavnosti potrdil
     .accesskey = P
+certificate-button =
+    .label = Upravljanje potrdil …
+    .accesskey = U
+security-devices-button =
+    .label = Varnostne naprave …
+    .accesskey = V
 
 ## Chat Tab
 
@@ -485,6 +553,9 @@ auto-connect-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Naj moji stiki vedo, da sem odsoten, po
+    .accesskey = N
 idle-time-label = minutah nedejavnosti
 
 ##
@@ -492,6 +563,10 @@ idle-time-label = minutah nedejavnosti
 away-message-label =
     .label = in mojo odsotnost objavi s sporočilom stanja:
     .accesskey = o
+send-typing-label =
+    .label = Med pogovori pošiljaj obvestila o tipkanju
+    .accesskey = M
+notification-label = Kadar prispejo sporočila, namenjena meni:
 show-notification-label =
     .label = prikaži obvestilo:
     .accesskey = a
@@ -513,6 +588,31 @@ chat-system-sound-label =
 chat-custom-sound-label =
     .label = Uporabi naslednjo zvočno datoteko
     .accesskey = U
+chat-browse-sound-button =
+    .label = Prebrskaj …
+    .accesskey = B
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Oblački
+style-dark =
+    .label = Temno
+style-paper =
+    .label = Listi papirja
+style-simple =
+    .label = Preprosto
+preview-label = Predogled:
+no-preview-label = Predogled ni na voljo
+no-preview-description = Ta tema ni veljavna ali trenutno ni na voljo (onemogočen dodatek, varni način …).
+chat-variant-label =
+    .value = Inačica:
+    .accesskey = I
+chat-header-label =
+    .label = Prikaži glavo
+    .accesskey = g
 
 ## Preferences UI Search Results
 
