@@ -75,6 +75,16 @@ update-in-progress-cancel-button = &Pokračovat
 
 ## General Tab
 
+change-dock-icon = Změna nastavení pro ikonu aplikace
+app-icon-options =
+    .label = Nastavení ikony aplikace…
+    .accesskey = n
+automatic-updates-label =
+    .label = Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)
+    .accesskey = A
+update-history-button =
+    .label = Zobrazit historii aktualizací
+    .accesskey = b
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -107,6 +117,29 @@ cloud-share-size =
 
 ## Privacy Tab
 
+mail-content = Obsah e-mailu
+remote-content-label =
+    .label = Povolit vzdálený obsah ve zprávách
+    .accesskey = P
+exceptions-button =
+    .label = Výjimky…
+    .accesskey = m
+remote-content-info =
+    .value = Zjistit více o problémech se soukromím u vzdáleného obsahu
+web-content = Webový obsah
+third-party-always =
+    .label = Vždy
+third-party-never =
+    .label = Nikdy
+third-party-visited =
+    .label = Pouze navštívené
+keep-expire =
+    .label = konce doby platnosti
+keep-close =
+    .label = ukončení aplikace { -brand-short-name }
+cookies-button =
+    .label = Správce cookies…
+    .accesskey = S
 junk-description = Další nastavení nevyžádané pošty lze provést v dialogu Nastavení účtu.
 junk-label =
     .label = Pokud ručně označím zprávy jako nevyžádané:
@@ -136,6 +169,10 @@ reset-junk-button =
 
 ##
 
+notification-label = Při přijetí zprávy určené mně:
+show-notification-label =
+    .label = Zobrazit upozornění
+    .accesskey = Z
 
 ## Preferences UI Search Results
 
