@@ -57,6 +57,7 @@ rcwn-avg-long = 長平均
 rcwn-std-dev-long = 長標準差
 rcwn-cache-slow = 快取較慢數量
 rcwn-cache-not-slow = 快取較快數量
+
 about-networking-title = 關於網路連線
 about-networking-http = HTTP
 about-networking-sockets = Sockets

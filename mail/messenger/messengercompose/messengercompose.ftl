@@ -10,14 +10,6 @@ remove-address-row-type = 移除 { $type } 欄位
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] 空白的 { $type } 輸入欄位
-       *[other] 有 { $count } 個地址的 { $type } 輸入欄位
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -47,3 +39,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = 移到密件副本
     .accesskey = b
+
