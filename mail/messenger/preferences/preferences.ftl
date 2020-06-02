@@ -111,6 +111,11 @@ networking-legend = Connexion
 network-settings-button =
     .label = Paramètres…
     .accesskey = P
+offline-legend = Hors connexion
+offline-settings = Configurer les paramètres hors connexion
+offline-settings-button =
+    .label = Hors connexion…
+    .accesskey = H
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -122,6 +127,12 @@ network-settings-button =
 clear-cache-button =
     .label = Vider le cache maintenant
     .accesskey = V
+default-font-label =
+    .value = Police par défaut :
+    .accesskey = D
+default-size-label =
+    .value = Taille :
+    .accesskey = T
 display-width-legend = Messages en texte simple
 style-label =
     .value = Style :
