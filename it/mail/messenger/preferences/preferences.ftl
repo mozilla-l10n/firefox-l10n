@@ -75,6 +75,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = Pagina iniziale di { -brand-short-name }
 start-page-label =
     .label = All'apertura di { -brand-short-name } mostra la pagina iniziale nell'area messaggi
@@ -87,6 +91,17 @@ restore-default-label =
     .accesskey = R
 default-search-engine = Motore di ricerca predefinito
 new-message-arrival = All'arrivo di un messaggio:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Esegui questo file audio:
+           *[other] Riproduci un suono
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] E
+           *[other] o
+        }
 mail-play-button =
     .label = Ascolta
     .accesskey = A
@@ -126,19 +141,117 @@ search-engine-name =
 
 ##
 
+fonts-legend = Caratteri e colori
+default-font-label =
+    .value = Carattere predefinito:
+    .accesskey = C
+default-size-label =
+    .value = Dim.:
+    .accesskey = D
+font-options-button =
+    .label = Avanzate…
+    .accesskey = z
+color-options-button =
+    .label = Colori…
+    .accesskey = l
+display-width-legend = Messaggi di testo semplice
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Mostra le faccine in modo grafico
+    .accesskey = a
+display-text-label = Durante la visualizzazione delle citazioni in testo semplice:
+style-label =
+    .value = Stile:
+    .accesskey = e
+regular-style-item =
+    .label = Regolare
+bold-style-item =
+    .label = Grassetto
+italic-style-item =
+    .label = Corsivo
+bold-italic-style-item =
+    .label = Grassetto corsivo
+size-label =
+    .value = Dimensione:
+    .accesskey = s
+regular-size-item =
+    .label = Regolare
+bigger-size-item =
+    .label = Più grande
+smaller-size-item =
+    .label = Più piccolo
+quoted-text-color =
+    .label = Colore:
+    .accesskey = o
+search-input =
+    .placeholder = Cerca
+type-column-label =
+    .label = Tipo di contenuto
+    .accesskey = T
+action-column-label =
+    .label = Azione
+    .accesskey = A
+save-to-label =
+    .label = Salva i file in
+    .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Scegliere…
+           *[other] Sfoglia…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+always-ask-label =
+    .label = Chiedi dove salvare ogni file
+    .accesskey = C
+display-tags-text = Le etichette possono essere usate per catalogare e dare priorità ai messaggi.
 new-tag-button =
     .label = Nuovo…
     .accesskey = N
 edit-tag-button =
     .label = Modifica…
     .accesskey = M
+delete-tag-button =
+    .label = Elimina
+    .accesskey = E
+auto-mark-as-read =
+    .label = Contrassegna automaticamente un messaggio come letto
+    .accesskey = C
+mark-read-no-delay =
+    .label = immediatamente dopo averlo mostrato
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = dopo averlo mostrato per
+    .accesskey = d
+seconds-label = secondi
 
 ##
 
+open-msg-label =
+    .value = Aprire i messaggi in:
+open-msg-tab =
+    .label = nuova scheda
+    .accesskey = s
+open-msg-window =
+    .label = nuova finestra
+    .accesskey = f
+open-msg-ex-window =
+    .label = finestra esistente
+    .accesskey = e
+close-move-delete =
+    .label = Chiudere la finestra/scheda del messaggio in caso sia spostato o cancellato
+    .accesskey = C
+condensed-addresses-label =
+    .label = mostra solo il nome visualizzato per le persone nella rubrica
+    .accesskey = m
 
 ## Compose Tab
 
@@ -157,6 +270,10 @@ add-cloud-account =
     .label = Aggiungi…
     .accesskey = A
     .defaultlabel = Aggiungi…
+remove-cloud-account =
+    .label = Elimina
+    .accesskey = E
+cloud-account-description = Aggiungi un nuovo servizio di archiviazione Filelink
 
 ## Privacy Tab
 
