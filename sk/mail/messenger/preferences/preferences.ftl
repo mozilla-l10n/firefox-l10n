@@ -249,6 +249,10 @@ color-options-button =
     .label = Farby…
     .accesskey = F
 display-width-legend = Textové správy
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Zobraziť emotikony ako grafiku
+    .accesskey = m
 display-text-label = Pri zobrazovaní citácií v textových správach:
 style-label =
     .value = Štýl:
@@ -299,18 +303,51 @@ always-ask-label =
     .label = Vždy sa opýtať, kam súbory uložiť
     .accesskey = k
 display-tags-text = Farebné popisy je možné použiť na triedenie vašich správ podľa kategórie a priorít.
+new-tag-button =
+    .label = Nový…
+    .accesskey = N
+edit-tag-button =
+    .label = Upraviť…
+    .accesskey = U
 delete-tag-button =
     .label = Odstrániť
+    .accesskey = O
+auto-mark-as-read =
+    .label = Automaticky označovať správy ako prečítané
+    .accesskey = A
+mark-read-no-delay =
+    .label = Okamžite po zobrazení
     .accesskey = O
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Po
+    .accesskey = P
+seconds-label = sekundách od zobrazenia
 
 ##
 
+open-msg-label =
+    .value = Správy otvárať:
+open-msg-tab =
+    .label = Na novej karte
+    .accesskey = k
+open-msg-window =
+    .label = V novom okne správy
+    .accesskey = n
+open-msg-ex-window =
+    .label = V existujúcom okne so správou
+    .accesskey = x
+close-move-delete =
+    .label = Pri odstraňovaní alebo presunutí správy zatvoriť jej okno/kartu
+    .accesskey = d
 display-name-label =
     .value = Zobrazované meno:
+condensed-addresses-label =
+    .label = Zobrazovať mená len pre adresy uložené v osobných adresároch
+    .accesskey = Z
 
 ## Compose Tab
 
@@ -366,6 +403,9 @@ bg-color-label =
 restore-html-label =
     .label = Obnoviť predvolené
     .accesskey = O
+default-format-label =
+    .label = V predvolenom nastavení používať formát odstavca namiesto základného textu
+    .accesskey = r
 format-description = Konfigurácia správania formátovania textov
 send-options-label =
     .label = Nastavenie odosielania…
@@ -400,6 +440,10 @@ enable-cloud-share =
     .label = Ponúkať odoslanie súbor na online úložisko pre súbory väčšie ako
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Pridať…
+    .accesskey = P
+    .defaultlabel = Pridať…
 remove-cloud-account =
     .label = Odstrániť
     .accesskey = O
