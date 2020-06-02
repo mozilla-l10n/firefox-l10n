@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Заштите приватности
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Идите на извештај о приватности
+
 appmenuitem-protection-dashboard-title = Сигурносна командна табла
 appmenuitem-customize-mode =
     .label = Прилагоди…

@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Прилагоди узбуну о новој пошти
+
 customize-alert-description = Изаберите која поља се приказују у узбуни:
+
 preview-text-checkbox =
     .label = Текст са прегледом поруке
     .accesskey = л
+
 subject-checkbox =
     .label = Тема
     .accesskey = м
+
 sender-checkbox =
     .label = Пошиљалац
     .accesskey = ц
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Прикажи нову узбуну за пошту у трајању од
     .accesskey = у
+
 open-time-label-after =
     .value = секунди
