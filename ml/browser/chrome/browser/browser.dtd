@@ -361,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "ഇച്ഛാനുസൃതമാക്കുക...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "ടൂൾബാർ ഇഷ്ടമുള്ള രീതിയിൽ ആക്കുക…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 

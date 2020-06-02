@@ -311,8 +311,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ഉപയോഗിക്കുക ({ -brand-short-name }-ല്‍)
-applications-preview-inapp =
-    .label = { -brand-short-name }-ല്‍ ഒരു നോക്ക് കാണുക
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -326,9 +324,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -497,10 +492,15 @@ home-prefs-topsites-header =
     .label = മുന്നേറിയ സൈറ്റുകൾ
 home-prefs-topsites-description = നിങ്ങൾ കൂടുതൽ സന്ദർശിക്കുന്ന സൈറ്റുകൾ
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } ശുപാർശ ചെയ്തത്
+##
+
 home-prefs-recommended-by-learn-more = ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു
 
 home-prefs-highlights-header =
@@ -701,9 +701,9 @@ privacy-header = ബ്രൗസർ സ്വകാര്യത
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും

@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക
     .accesskey = U
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
