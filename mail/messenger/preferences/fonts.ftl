@@ -79,9 +79,13 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = Font Control
 use-document-fonts-checkbox =
     .label = அஞ்சல்களில் பிற எழுத்துருக்களை பயன்படுத்த அனுமதிக்கவும்.
     .accesskey = o
+use-fixed-width-plain-checkbox =
+    .label = தனி உறையை மட்டும் கொண்ட செய்திகளுக்காக நிலையான அகலமுடைய font இனை பயன்படுத்துக
+    .accesskey = x
 
 ## Language settings
 
