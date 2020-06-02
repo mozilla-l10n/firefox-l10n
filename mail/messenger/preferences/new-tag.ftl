@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Нов етикет
+
 tag-name-label =
     .value = Име на етикет:
     .accesskey = е

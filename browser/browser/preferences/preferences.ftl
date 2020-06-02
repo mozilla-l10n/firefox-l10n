@@ -381,8 +381,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Използване на { $plugin-name } (в { -brand-short-name })
-applications-preview-inapp =
-    .label = Преглед с { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -396,9 +394,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -616,11 +611,16 @@ home-prefs-topsites-header =
     .label = Често посещавани страници
 home-prefs-topsites-description = Най-посещаваните от вас страници
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Препоръчано от { $provider }
 home-prefs-recommended-by-description = Отлично съдържание от цялата Мрежа, подбрано лично за вас
+##
+
 home-prefs-recommended-by-learn-more = Как работи
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Платени публикации
@@ -927,9 +927,9 @@ privacy-header = Поверителност на четеца
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Регистрации и пароли
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Регистрации и пароли
@@ -1162,7 +1162,6 @@ content-blocking-warning-title = Внимание!
 content-blocking-warning-description = Ограничаването на съдържание може да наруши работата на някои страници. Лесно е да го изключите за страниците, на които вярвате.
 content-blocking-learn-how = Научете как
 
-content-blocking-etp-warning-description = Спирането на проследяване може да се повлияе на възможностите на някои страници. Презаредете страница с проследяване, за да зареди цялото съдържание.
 content-blocking-warning-learn-how = Научете как
 
 content-blocking-reload-description = За да бъдат приложени промените, разделите трябва да бъдат презаредени.
