@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Laideann
 font-language-group-japanese =
     .label = Seapanais
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Cirilis
 font-language-group-el =
     .label = Greugais
+font-language-group-other =
+    .label = Dòighean-litreachaidh eile
 font-language-group-thai =
     .label = Tàidh
 font-language-group-hebrew =
@@ -63,6 +68,18 @@ font-language-group-khmer =
     .label = Cmèar
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-math =
+    .label = Matamataig
+font-language-group-odia =
+    .label = Odia
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Sinhala
+font-language-group-tibetan =
+    .label = Tibeitis
 
 ## Default font type
 
@@ -70,6 +87,12 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans Serif
+font-size-label =
+    .value = Meud:
+    .accesskey = e
+font-size-monospace-label =
+    .value = Meud:
+    .accesskey = i
 font-serif-label =
     .value = Serif:
     .accesskey = S
@@ -97,9 +120,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Còdachadh teacsa
+text-encoding-description = Suidhich an còdachadh teacsa bunaiteach airson post a chur ’s fhaighinn
 font-outgoing-email-label =
     .value = Post a-mach:
     .accesskey = P
 font-incoming-email-label =
     .value = Post a-steach:
     .accesskey = P
+default-font-reply-checkbox =
+    .label = Ma ghabhas sin a dhèanamh, cleachd an còdachadh teacsa bunaiteach ’nam fhreagairtean
+    .accesskey = h
