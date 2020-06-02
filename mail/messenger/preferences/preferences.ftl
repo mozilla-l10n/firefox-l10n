@@ -106,6 +106,10 @@ default-font-label =
     .value = Шрифт по подразбиране:
     .accesskey = Ш
 display-width-legend = Писма в обикновен текст
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Знаците за емоции се показват в графичен вид
+    .accesskey = З
 display-text-label = При показване на цитирани писма в обикновен текст:
 style-label =
     .value = Стил:
