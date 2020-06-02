@@ -26,8 +26,8 @@
 <!ENTITY closeConversationCmd.accesskey "F">
 <!ENTITY aliasCmd.label                "Renomear">
 <!ENTITY aliasCmd.accesskey            "R">
-<!ENTITY deleteCmd.label               "Excluir contato">
-<!ENTITY deleteCmd.accesskey           "x">
+<!ENTITY deleteCmd.label               "Remover contato">
+<!ENTITY deleteCmd.accesskey           "v">
 
 <!ENTITY openConversationButton.tooltip  "Iniciar uma conversa">
 <!ENTITY closeConversationButton.tooltip "Fechar conversa">
@@ -37,7 +37,7 @@
 <!ENTITY chatAccountsButton.label      "Mostrar conta">
 
 <!ENTITY status.available          "Disponível">
-<!ENTITY status.unavailable        "Ocupado">
+<!ENTITY status.unavailable        "Não disponível">
 <!ENTITY status.offline            "Desconectado">
 
 <!ENTITY openLinkCmd.label            "Abrir link…">

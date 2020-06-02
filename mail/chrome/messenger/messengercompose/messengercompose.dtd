@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Painel de anexos">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "x">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "x">
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.accesskey "S">
@@ -293,7 +286,7 @@
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Inserir um smiley">
 <!ENTITY smiley1Cmd.label "Alegre">
-<!ENTITY smiley2Cmd.label "Triste">
+<!ENTITY smiley2Cmd.label "Emburrado">
 <!ENTITY smiley3Cmd.label "Piscadela">
 <!ENTITY smiley4Cmd.label "Mostrando a língua">
 <!ENTITY smiley5Cmd.label "Rindo">
@@ -303,9 +296,9 @@
 <!ENTITY smiley9Cmd.label "Beijos">
 <!ENTITY smiley10Cmd.label "Berro">
 <!ENTITY smiley11Cmd.label "Legal">
-<!ENTITY smiley12Cmd.label "Tudo por dinheiro">
-<!ENTITY smiley13Cmd.label "Gafe">
-<!ENTITY smiley14Cmd.label "Ingênuo">
+<!ENTITY smiley12Cmd.label "Dinheiro na boca">
+<!ENTITY smiley13Cmd.label "Pé na boca">
+<!ENTITY smiley14Cmd.label "Inocente">
 <!ENTITY smiley15Cmd.label "Choro">
 <!ENTITY smiley16Cmd.label "Boca fechada">
 
