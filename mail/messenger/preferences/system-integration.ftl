@@ -4,7 +4,12 @@
 
 system-integration-title =
     .title = システム統合
+system-integration-dialog =
+    .buttonlabelaccept = 既定として設定
+    .buttonlabelcancel = 統合をスキップ
+    .buttonlabelcancel2 = キャンセル
 default-client-intro = { -brand-short-name } を次の既定のクライアントとして使用する:
+unset-default-tooltip = { -brand-short-name } から既定のクライアントの設定を解除することはできません。他のプログラムを既定に設定するには、そのプログラムから設定してください。
 checkbox-email-label =
     .label = メール
     .tooltiptext = { unset-default-tooltip }
