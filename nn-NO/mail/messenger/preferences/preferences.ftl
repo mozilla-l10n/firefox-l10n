@@ -16,6 +16,9 @@ category-general =
 pane-compose-title = Skriving
 category-compose =
     .tooltiptext = Skriving
+pane-privacy-title = Personvern og sikkerheit
+category-privacy =
+    .tooltiptext = Personvern og sikkerheit
 pane-chat-title = Nettprat
 category-chat =
     .tooltiptext = Nettprat
@@ -72,6 +75,7 @@ update-in-progress-ok-button = &Avvis
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortset
+addons-button = Utvidingar og tema
 
 ## OS Authentication dialog
 
@@ -93,6 +97,9 @@ restore-default-label =
     .label = Bruk standard
     .accesskey = u
 default-search-engine = Standard søkjemotor
+remove-search-engine =
+    .label = Fjern
+    .accesskey = e
 new-message-arrival = Når ei ny melding kjem:
 mail-play-sound-label =
     .label =
@@ -179,6 +186,7 @@ update-app-legend = { -brand-short-name }-oppdateringar
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Versjon { $version }
+allow-description = Tillat { -brand-short-name } å
 automatic-updates-label =
     .label = Automatisk installer oppdateringar (tilrådd: betre sikkerheit)
     .accesskey = A
@@ -191,6 +199,7 @@ update-history-button =
 use-service =
     .label = Bruk ei bakgrunnsteneste for å installera oppdateringar
     .accesskey = B
+cross-user-udpate-warning = Denne innstillinga gjeld for alle Windows-kontoar og { -brand-short-name }-profilar som brukar denne installasjonen av { -brand-short-name }.
 networking-legend = Tilkopling
 proxy-config-description = Still inn korleis { -brand-short-name } koplar seg til Internett
 network-settings-button =
@@ -333,6 +342,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Lat att meldingsvindauge/fane ved flytting eller sletting
     .accesskey = L
+display-name-label =
+    .value = Visingsnamn:
 condensed-addresses-label =
     .label = Vis berre visings-namnet for personar i adresseboka
     .accesskey = V
@@ -376,6 +387,9 @@ download-dictionaries-link = Last ned fleire ordbøker
 font-label =
     .value = Skrifttype:
     .accesskey = S
+font-size-label =
+    .value = Storleik:
+    .accesskey = e
 font-color-label =
     .value = Tekstfarge:
     .accesskey = T
@@ -470,6 +484,11 @@ keep-ask =
 cookies-button =
     .label = Vis infokapslar…
     .accesskey = V
+do-not-track-label =
+    .label = Send nettsider eit «Ikkje spor»-signal om at du ikkje vil bli spora
+    .accesskey = n
+learn-button =
+    .label = Les meir
 passwords-description = { -brand-short-name } kan hugse passordinformasjon for alle kontoane dine, slik at du ikkje treng å skriva inn innloggingsdetaljane fleire gonger.
 passwords-button =
     .label = Lagra passord…
@@ -521,6 +540,12 @@ certificate-ask =
 ocsp-label =
     .label = Spør OCSP-tenaren om å stadfesta at sertifikat gjeld
     .accesskey = S
+certificate-button =
+    .label = Handter sertifikat…
+    .accesskey = s
+security-devices-button =
+    .label = Tryggingseiningar…
+    .accesskey = e
 
 ## Chat Tab
 
@@ -561,6 +586,17 @@ notification-name =
     .label = berre med namnet åt avsendaren
 notification-empty =
     .label = utan nokon info
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animer dock-ikonet
+           *[other] Blink i oppgåvelinja
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] B
+        }
 chat-play-sound-label =
     .label = Spel ein lyd
     .accesskey = l
