@@ -46,7 +46,6 @@ protection-report-page-summary = { -brand-short-name } povas malantaŭ la scenej
 
 etp-card-title-always = Plibonigita protekto kontraŭ spurado: ĉiam ŝaltita
 etp-card-title-custom-not-blocking = Plibonigita protekto kontraŭ spurado: MALŜALTITA
-etp-card-content-summary = Kiam nekonataj entrepenoj volas sekrete sekvi vin tra la reto, { -brand-short-name } aŭtomate haltigas multajn el ili.
 protection-report-etp-card-content-custom-not-blocking = Ĉiuj protektoj estas nun malŝaltitaj. Elektu la spurilojn, kiujn vi volas bloki, per administrado de la agordoj pri protekto de { -brand-short-name }.
 protection-report-manage-protections = Administri agordojn
 
@@ -71,9 +70,6 @@ fingerprinter-tab-content = La identigiloj de ciferecaj spuroj kolektas agordojn
 
 cryptominer-tab-title = Miniloj de ĉifromono
 cryptominer-tab-content = La miniloj de ĉifromono uzas la kalkulpovon de via komputilo por mini ciferecan monon. Minado de ĉifromono eluzas vian baterion, malrapidigas vian komputilon kaj povas konsumi pli da elekto, kiun vi devos pagi. <a data-l10n-name="learn-more-link">Pli da informo</a>
-
-protections-close-button =
-    .aria-label = Fermi
 
 protections-close-button2 =
     .aria-label = Fermi

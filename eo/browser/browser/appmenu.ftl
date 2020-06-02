@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Protekto de privateco
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vidu vian raporton pri privateco
+
 appmenuitem-customize-mode =
     .label = Personecigi…
 

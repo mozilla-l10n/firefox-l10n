@@ -592,9 +592,6 @@ updates-heading = Administri viajn ĝisdatigojn
 discover-heading = Personecigu vian { -brand-short-name }
 shortcuts-heading = Administri alirklavojn de etendaĵoj
 
-theme-heading-search-label = Serĉi pli da etosoj
-extension-heading-search-label = Serĉi pli da etendaĵoj
-
 default-heading-search-label = Serĉi pli da aldonaĵoj
 addons-heading-search-input =
     .placeholder = Serĉi en addons.mozilla.org

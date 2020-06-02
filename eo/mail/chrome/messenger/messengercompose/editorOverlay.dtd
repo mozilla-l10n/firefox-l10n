@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Serĉi tekston en la paĝo">
 <!ENTITY spellToolbarCmd.label "Ortografio">
 <!ENTITY spellToolbarCmd.tooltip "Kontroli pri ortografiaj eraroj en la elekto aŭ en la tuta paĝo">
+
 <!ENTITY imageToolbarCmd.label "Bildo">
 <!ENTITY imageToolbarCmd.tooltip "Enmeti novan bildon aŭ redakti atributojn de elektita bildo">
 <!ENTITY hruleToolbarCmd.label "Horizontala linio">

@@ -292,10 +292,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Vi blokis la aliron MIDI por tiu ĉi retejo.">
 <!ENTITY urlbar.installBlocked.tooltip           "Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Vi aldonis permesojn al tiu ĉi retejo.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Vi aldonis permesojn al tiu ĉi retejo.">
 
 
 <!ENTITY searchItem.title             "Serĉi">
@@ -410,6 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Personecigi…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+
 <!ENTITY overflowCustomizeToolbar.label       "Personecigi ilaron…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
@@ -900,54 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Malfermi preferojn de blokado de enhavo">
 
 
-<!ENTITY protections.etpON.header "La plibonigita protekto kontraŭ spurado estas AKTIVA por tiu ĉi retejo">
-<!ENTITY protections.etpOFF.header "La plibonigita protekto kontraŭ spurado estas MALAKTIVA por tiu ĉi retejo">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Pli da informo pri la plibonigita protekto kontraŭ spurado">
-<!ENTITY protections.settings.label "Agordoj de protekto">
-<!ENTITY protections.showreport.label "Montri raporton">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Ĉu la retejo ne funkcias?">
-<!ENTITY protections.siteNotWorkingView.title "Ĉu la retejo ne funkcias?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Malŝaltu protektojn se vi havas problemojn kun:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Legitimilaj kampoj">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularoj">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagoj">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Komentoj">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Filmetoj">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Sendi raporton">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Blokita">
-<!ENTITY protections.notBlocking2.label "Permesata">
-<!ENTITY protections.notFound.label "Neniu eltrovita">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Kial?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokado de tiuj ĉi elementoj povas misfunkciigi kelkajn retejojn. Sen spuriloj, kelkaj butonoj, formularoj, kaj legitimilaj kampoj, povus ne funkcii.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Ĉiuj spuriloj en tiu ĉi retejo estis ŝargitaj ĉar protektoj estas malaktivaj.">
-<!ENTITY protections.noTrackersFound.description "Neniu spurilo, konata de &brandShortName;, estis trovita en tiu ĉi paĝo.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Tiuj ĉi kuketoj sekvas vin inter retejoj por kolekti informon pri via retumo. Ili estas difinitaj de aliaj, ekzemple de reklamistoj kaj retumanalizaj entreprenoj.">
-<!ENTITY protections.cryptominers.description "La miniloj de ĉifromono uzas la kalkulpovon de via komputilo por mini ciferecan monon. Minado de ĉifromono eluzas vian baterion, malrapidigas vian komputilon kaj povas konsumi pli da elekto, kiun vi devos pagi.">
-<!ENTITY protections.fingerprinters.description "La identigiloj de ciferecaj spuroj kolektas agordojn de via retumilo kaj komputilo por krei profilon de vi. Per tiu cifereca spuro, ili povas sekvi vin tra malsamaj retejoj.">
-<!ENTITY protections.trackingContent2.description "Retejoj povas ŝargi eksterajn reklamojn, filmetojn kaj aliajn enhavojn, kiuj kunportas spurilojn. Blokado de spurila enhavo povas helpi rapidgi la ŝargadon de retejoj, sed kelkaj butonoj, formularoj kaj legitimilaj kampoj povus ne funkcii.">
-<!ENTITY protections.socialMediaTrackers.description "Socia retoj aldonas spurilojn en aliaj retejoj por sekvi vin kaj scii kion vi vidas kaj faras dum retumo. Tiu permesas al sociretaj entreprenoj havi informon pri vi, kiun vi ne dividas per viaj sociretaj profiloj.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Langetoj de retumilo">
@@ -992,13 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kuketoj">
 <!ENTITY contentBlocking.cookiesView.label "Kuketoj kaj retejaj datumoj">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Spurila enhavo">
-
-<!ENTITY contentBlocking.manageSettings2.label "Administri agordojn de protekto">
-<!ENTITY contentBlocking.manageSettings2.accesskey "R">
-
-<!ENTITY contentBlocking.socialblock.label "Sociretaj spuriloj">
-
 <!ENTITY contentBlocking.cryptominers.label "Miniloj de ĉifromono">
 <!ENTITY contentBlocking.cryptominersView.label "Miniloj de ĉifromono">
 
@@ -1010,12 +956,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "La blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpos nin plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos al Mozilla retadreson kaj informojn pri la agordoj de via retumilo.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pli da informo">
 
-<!ENTITY contentBlocking.breakageReportView.title "Raporti ne bone funkciantan retejon">
-<!ENTITY contentBlocking.breakageReportView3.description "Blokado de kelkaj spuriloj povas misfunkciigi retejojn. Raportado de tiuj ĉi problemoj helpas plibonigi &brandShortName; por ĉiuj. Sendo de tiu ĉi raporto al Mozilla estos akompanata de retadreso kaj informo pri viaj retumilaj agordoj.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Pli da informo">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Retadreso">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kiujn problemojn vi havis? (nedeviga)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Nedeviga: priskribi la problemon">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Sendi raporton">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Nuligi">
 
