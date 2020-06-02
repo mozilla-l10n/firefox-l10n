@@ -97,7 +97,36 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Bläddra…
     .accesskey = B
+enable-gloda-search-label =
+    .label = Aktivera global sökning och indexering
+    .accesskey = A
+system-integration-legend = Systemintegration
+always-check-default =
+    .label = Kontrollera vid start om { -brand-short-name } är standardklient för e-post
+    .accesskey = o
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Sök
+       *[other] { "" }
+    }
+search-integration-label =
+    .label = Låt { search-engine-name } söka igenom meddelanden
+    .accesskey = L
+config-editor-button =
+    .label = Konfigurationsredigerare…
+    .accesskey = K
+return-receipts-description = Ange hur { -brand-short-name } ska hantera mottagningskvitto
+return-receipts-button =
+    .label = Mottagningskvitton…
+    .accesskey = M
 networking-legend = Anslutning
+proxy-config-description = Ange hur { -brand-short-name } ansluter till Internet
+network-settings-button =
+    .label = Inställningar…
+    .accesskey = I
 offline-legend = Nedkopplat läge
 offline-settings = Ange inställningar för nedkopplat läge
 offline-settings-button =
@@ -108,9 +137,22 @@ offline-settings-button =
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Använd upp till
+    .accesskey = A
+use-cache-after = MB utrymme för cachen
 
 ##
 
+clear-cache-button =
+    .label = Rensa nu
+    .accesskey = R
+default-font-label =
+    .value = Standardteckensnitt:
+    .accesskey = d
+font-options-button =
+    .label = Avancerat…
+    .accesskey = A
 display-width-legend = Oformaterade meddelanden
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -136,6 +178,25 @@ bigger-size-item =
     .label = Större
 smaller-size-item =
     .label = Mindre
+search-input =
+    .placeholder = Sök
+save-to-label =
+    .label = Spara filer till
+    .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Välj…
+           *[other] Bläddra…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] B
+        }
+always-ask-label =
+    .label = Fråga alltid var jag vill spara filerna
+    .accesskey = F
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -203,15 +264,34 @@ ab-label =
 directories-label =
     .label = Katalogserver:
     .accesskey = K
+directories-none-label =
+    .none = Ingen
 edit-directories-label =
     .label = Redigera kataloger…
     .accesskey = R
 email-picker-label =
     .label = Spara automatiskt utgående e-postadresser i:
     .accesskey = S
+attachment-label =
+    .label = Kontrollera om bilagor saknas
+    .accesskey = K
+attachment-options-label =
+    .label = Nyckelord…
+    .accesskey = N
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name } kan spara lösenord för alla dina konton.
+passwords-button =
+    .label = Sparade lösenord…
+    .accesskey = S
+master-password-description = Ett huvudlösenord skyddar alla dina lösenord, men du måste ange det en gång per session.
+master-password-label =
+    .label = Använd ett huvudlösenord
+    .accesskey = A
+master-password-button =
+    .label = Byt huvudlösenord…
+    .accesskey = h
 junk-description = Ange inställningar för skräpposthantering. Kontospecifika skräppostinställningar kan göras i Kontoinställningar.
 junk-label =
     .label = När jag märker meddelanden som skräppost:
@@ -239,6 +319,13 @@ antivirus-description = { -brand-short-name } kan göra det lätt för antivirus
 antivirus-label =
     .label = Låt antivirusprogram sätta inkommande meddelanden i karantän
     .accesskey = L
+certificate-description = När en server efterfrågar mitt personliga certifikat:
+certificate-auto =
+    .label = Välj ett automatiskt
+    .accesskey = a
+certificate-ask =
+    .label = Fråga varje gång
+    .accesskey = F
 
 ## Chat Tab
 
