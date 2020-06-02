@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = خصص تنويهات البريد الجديد
+
 customize-alert-description = اختر أي الحقول تظهر في التنويه:
+
 preview-text-checkbox =
     .label = معاينة الرسالة
     .accesskey = ر
+
 subject-checkbox =
     .label = الموضوع
     .accesskey = و
+
 sender-checkbox =
     .label = المُرسِل
     .accesskey = ل
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = أظهر تنبيه بريد جيد لمدة
     .accesskey = ت
+
 open-time-label-after =
     .value = ثوان

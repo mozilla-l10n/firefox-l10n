@@ -71,9 +71,6 @@ fingerprinter-tab-title = مسجّلات البصمات
 cryptominer-tab-title = المُعدّنات المعمّاة
 cryptominer-tab-content = تستعمل المُعدّنات المعمّاة طاقة الحساب في جهازك لتُعدّن أموالا رقمية. يستنزف هذا التعدين المدخرة ويُبطئ الجهاز ويزيد من فاتورة الكهرباء.<a data-l10n-name="learn-more-link">اطّلع على المزيد</a>
 
-protections-close-button =
-    .aria-label = أغلِق
-
 protections-close-button2 =
     .aria-label = أغلِق
     .title = أغلِق

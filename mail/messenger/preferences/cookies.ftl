@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = الكعكات
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = ابحث عن:
     .accesskey = ث
+
 cookies-on-system-label = الكعكات التالية مخزنة في جهازك:
+
 treecol-site-header =
     .label = الموقع
+
 treecol-name-header =
     .label = اسم الكعكة
+
 props-name-label =
     .value = الاسم:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = تنتهي في:
 props-container-label =
     .value = الحاوية:
+
 remove-cookie-button =
     .label = أزِل الكعكة
     .accesskey = ع
+
 remove-all-cookies-button =
     .label = أزٍل كل الكعكات
     .accesskey = ت
+
 cookie-close-button =
     .label = أغلق
     .accesskey = غ

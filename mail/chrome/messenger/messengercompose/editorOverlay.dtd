@@ -299,6 +299,7 @@
 <!ENTITY findToolbarCmd.tooltip "ابحث عن نص في الصفحة">
 <!ENTITY spellToolbarCmd.label "دقق الإملاء">
 <!ENTITY spellToolbarCmd.tooltip "دقق إملاء التحديد أو الصفحة كاملة">
+
 <!ENTITY imageToolbarCmd.label "صورة">
 <!ENTITY imageToolbarCmd.tooltip "أدرج صورة جديدة أو حرر خصائص الصورة المختارة">
 <!ENTITY hruleToolbarCmd.label "خط أفقي">

@@ -369,7 +369,5 @@ dictionary-heading = أدِر القواميس لديك
 locale-heading = أدِر اللغات لديك
 shortcuts-heading = أدِر اختصارات الامتدادات
 
-extension-heading-search-label = ابحث عن امتدادات أكثر
-
 addon-page-options-button =
     .title = أدوات لجميع الإضافات

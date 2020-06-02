@@ -393,8 +393,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = استخدم { $plugin-name } (في { -brand-short-name })
-applications-preview-inapp =
-    .label = عاين في { -brand-short-name }
 
 applications-open-inapp =
     .label = افتح في { -brand-short-name }
@@ -411,9 +409,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -629,11 +624,16 @@ home-prefs-topsites-header =
     .label = المواقع الأكثر زيارة
 home-prefs-topsites-description = أكثر المواقع المزارة
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = ينصح به { $provider }
 home-prefs-recommended-by-description = محتوى مميز من أرجاء الوِب انتقيناه لك أنت
+##
+
 home-prefs-recommended-by-learn-more = آلية العمل
 home-prefs-recommended-by-option-sponsored-stories =
     .label = الأخبار الممولة
@@ -958,9 +958,9 @@ privacy-header = خصوصية المتصفح
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = جلسات الولوج وكلمات السر
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = جلسات الولوج وكلمات السر
@@ -999,9 +999,6 @@ forms-master-pw-fips-title = أنت حاليًّا في وضع FIPS. يتطلّ�
 forms-master-pw-fips-desc = فشل تغيير كلمة السر
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = أكِّد هويتك لإنشاء كلمة سر رئيسية.
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتصنع كلمة سر رئيسية. يساعد هذا الأمر على حماية أمن حساباتك.
@@ -1205,7 +1202,6 @@ content-blocking-warning-title = انتبه!
 content-blocking-warning-description = يمكن أن تعطب بعض المواقع إن حُجب المحتوى. يمكنك بسهولة إلغاء أي نوع حجب للمواقع التي تثق بها.
 content-blocking-learn-how = اطّلع على الطريقة
 
-content-blocking-etp-warning-description = يمكن أن يضرّ حجب المتعقّبات بمزايا بعض المواقع. أعِد تحميل الصفحات التي فيها متعقّبات لتحميل كلّ محتواها.
 content-blocking-warning-learn-how = اطّلع على المزيد
 
 content-blocking-reload-description = عليك إعادة تحميل الألسنة لتأخذ هذه التغييرات مفعولها.
