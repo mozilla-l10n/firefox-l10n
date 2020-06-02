@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = ਨਵੀਂ ਮੇਲ ਚੇਤਾਵਨੀ ਪਸੰਦ
+
 customize-alert-description = ਚੋਣ ਕਰੋ ਕਿ ਕਿਹੜੇ ਖੇਤਰ ਵਿੱਚ ਚੇਤਾਵਨੀ ਸੂਚਨਾ ਵੇਖਾਈ ਜਾਵੇ:
+
 preview-text-checkbox =
     .label = ਸੁਨੇਹਾ ਝਲਕ ਟੈਕਸਟ
     .accesskey = M
+
 subject-checkbox =
     .label = ਵਿਸ਼ਾ
     .accesskey = S
+
 sender-checkbox =
     .label = ਭੇਜਣ ਵਾਲਾ
     .accesskey = e

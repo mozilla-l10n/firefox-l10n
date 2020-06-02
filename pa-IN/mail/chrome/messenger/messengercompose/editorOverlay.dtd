@@ -290,6 +290,7 @@
 <!ENTITY findToolbarCmd.tooltip "ਸਫ਼ੇ ਵਿੱਚ ਟੈਕਸਟ ਲੱਭੋ">
 <!ENTITY spellToolbarCmd.label "ਸਪੈਲ">
 <!ENTITY spellToolbarCmd.tooltip "ਚੋਣ ਜਾਂ ਪੂਰੇ ਸਫ਼ੇ ਲਈ ਸਪੈਲ ਚੈੱਕ ਕਰੋ">
+
 <!ENTITY imageToolbarCmd.label "ਚਿੱਤਰ">
 <!ENTITY imageToolbarCmd.tooltip "Insert new image or edit selected image's properties">
 <!ENTITY hruleToolbarCmd.label "ਲੇਟਵੀਂ ਲਾਈਨ">
