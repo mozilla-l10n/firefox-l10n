@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Calendar
+calendar-title-reminder = Reminders
+calendar-title-category = Categories
 dateformat-label =
     .value = Date Text Format:
     .accesskey = D
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Show week number in views and minimonth
     .accesskey = w
+workdays-label =
+    .value = Workweek days:
 day-1-checkbox =
     .label = Sun
     .accesskey = S
@@ -70,6 +75,9 @@ midnight-label =
     .label = Midnight
 noon-label =
     .label = Noon
+location-checkbox =
+    .label = Show Location
+    .accesskey = L
 multiweek-legend = Multiweek View
 number-of-weeks-label =
     .value = Number of weeks to show (including previous weeks):
@@ -92,7 +100,16 @@ previous-weeks-label =
     .value = Previous weeks to show:
     .accesskey = P
 todaypane-legend = Today Pane
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = The Upcoming section shows:
+    .accesskey = U
 event-task-legend = Events and Tasks
+default-length-label =
+    .value = Default Event and Task Length:
+    .accesskey = E
 task-start-label =
     .value = Start Date:
 task-start-1-label =
@@ -130,12 +147,18 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Use default sound
     .accesskey = d
+reminder-custom-sound-label =
+    .label = Use the following sound file
+    .accesskey = U
 reminder-browse-sound-label =
     .label = Browse…
     .accesskey = B
 reminder-dialog-label =
     .label = Show the reminder dialogue
     .accesskey = x
+missed-reminder-label =
+    .label = Show missed reminders for writeable calendars
+    .accesskey = m
 reminder-default-legend = Reminder Defaults
 default-snooze-label =
     .value = Default Snooze Length:
