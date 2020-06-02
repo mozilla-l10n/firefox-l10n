@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = U
     .tooltiptext = Sekcem tansa-ik tudmawant tufrint akken ad tefruḍ DNS s HTTPS
 connection-dns-over-https-custom-label = Udmawan
+connection-dialog-window =
+    .title = Iɣewwaṛen n tuqqna
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Tawila n uqeddac apṛuksi n unekcum ar Internet
 proxy-type-no =
     .label = Ulac apṛuksi
@@ -65,3 +72,6 @@ proxy-password-prompt =
 proxy-remote-dns =
     .label = Apṛuksi DNS ticki SOCKS v5 yettwaseqdec
     .accesskey = z
+proxy-enable-doh =
+    .label = Rmed DNS s HTTPS
+    .accesskey = b
