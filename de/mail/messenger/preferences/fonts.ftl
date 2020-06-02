@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Lateinisch
 font-language-group-japanese =
     .label = Japanisch
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Kyrillisch
 font-language-group-el =
     .label = Griechisch
+font-language-group-other =
+    .label = Andere Schreibweisen
 font-language-group-thai =
     .label = Thailändisch
 font-language-group-hebrew =
@@ -63,6 +68,18 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-math =
+    .label = Mathematisch
+font-language-group-odia =
+    .label = Odia
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Sinhala
+font-language-group-tibetan =
+    .label = Tibetisch
 
 ## Default font type
 
@@ -70,6 +87,12 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans Serif
+font-size-label =
+    .value = Größe:
+    .accesskey = G
+font-size-monospace-label =
+    .value = Größe:
+    .accesskey = r
 font-serif-label =
     .value = Serif:
     .accesskey = e
@@ -79,6 +102,9 @@ font-sans-serif-label =
 font-monospace-label =
     .value = Feste Breite:
     .accesskey = F
+font-min-size-label =
+    .value = Mindestschriftgröße:
+    .accesskey = M
 min-size-none =
     .label = Keine
 
@@ -94,9 +120,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Textkodierungen
+text-encoding-description = Standard-Textkodierungen für ein- und ausgehende Nachrichten
 font-outgoing-email-label =
     .value = Ausgehende Nachrichten:
     .accesskey = h
 font-incoming-email-label =
     .value = Eingehende Nachrichten:
     .accesskey = I
+default-font-reply-checkbox =
+    .label = Wenn möglich, Standard-Textkodierung für Antworten verwenden
+    .accesskey = W
