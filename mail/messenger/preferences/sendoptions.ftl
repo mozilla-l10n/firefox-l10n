@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Roghainnean a' chuir
 send-mail-title = Fòrmat teacsa
+auto-downgrade-label =
+    .label = Cuir teachdaireachdan mar theacsa lom ma ghabhas sin a dhèanamh idir
+    .accesskey = t
 default-html-format-label = Nuair a chuireas mi teachdaireachdan ann am fòrmat HTML gu aonan no barrachd dhaoine 's fios nach urrainn dhaibh HTML fhaighinn:
 html-format-ask =
     .label = Faighnich dhìom na tha mi airson dèanamh

@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = Na roghainnean airson obrachadh far loidhne
+autodetect-online-label =
+    .label = Lean ris an staid air loidhne a chaidh a mhothachadh dha
+    .accesskey = d
+startup-label = Staid de làimh aig àm tòiseachaidh:
 status-radio-remember =
     .label = Cuimhnich mo roghainn air loidhne/far loidhne roimhe
     .accesskey = r
+status-radio-ask =
+    .label = Faighnich dhìom dè an staid air loidhne
+    .accesskey = F
+status-radio-always-online =
+    .label = Air loidhne
+    .accesskey = l
+status-radio-always-offline =
+    .label = Far loidhne
+    .accesskey = o
 going-online-label = An cuirear na teachdaireachdan nach deach an cur roimhe nuair a thèid thu air loidhne?
 going-online-auto =
     .label = Cuiridh
