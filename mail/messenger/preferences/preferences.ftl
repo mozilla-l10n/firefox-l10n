@@ -2,12 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] 选项
+           *[other] 首选项
+        }
 pane-general-title = 常规
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = 编写
 category-compose =
     .tooltiptext = 编写
+pane-chat-title = 聊天
+category-chat =
+    .tooltiptext = 聊天
+pane-calendar-title = 日历
+category-calendar =
+    .tooltiptext = 日历
 general-language-and-appearance-header = 语言与外观
 general-incoming-mail-header = 接收邮件
 general-files-and-attachment-header = 文件与附件
@@ -89,13 +101,21 @@ location-label =
 restore-default-label =
     .label = 恢复默认值
     .accesskey = R
+default-search-engine = 默认搜索引擎
 new-message-arrival = 当新消息到达时：
 mail-play-button =
     .label = 播放
     .accesskey = P
+change-dock-icon = 更改应用图标首选项
+app-icon-options =
+    .label = 应用图标选项…
+    .accesskey = n
 customize-alert-label =
     .label = 自定义…
     .accesskey = C
+tray-icon-label =
+    .label = 显示托盘图标
+    .accesskey = t
 mail-custom-sound-label =
     .label = 使用下列声音文件
     .accesskey = U
@@ -105,10 +125,30 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = 启用全局搜索以及索引
     .accesskey = E
+allow-hw-accel =
+    .label = 自动启用硬件加速
+    .accesskey = h
+store-type-label =
+    .value = 新账户的消息存储类型：
+    .accesskey = T
+mbox-store-label =
+    .label = 每个文件夹一个文件 (mbox)
+maildir-store-label =
+    .label = 每个消息一个文件（邮件文件夹）
+scrolling-legend = 滚动
+autoscroll-label =
+    .label = 使用自动滚屏
+    .accesskey = U
+smooth-scrolling-label =
+    .label = 使用平滑滚动
+    .accesskey = m
 system-integration-legend = 系统集成
 always-check-default =
     .label = 启动时检查 { -brand-short-name } 是否为默认邮件客户端
     .accesskey = A
+check-default-button =
+    .label = 立即检查…
+    .accesskey = N
 search-integration-label =
     .label = 允许 { search-engine-name } 搜索邮件
     .accesskey = S
@@ -119,6 +159,18 @@ return-receipts-description = 指定 { -brand-short-name } 如何处理回执
 return-receipts-button =
     .label = 回执…
     .accesskey = R
+automatic-updates-label =
+    .label = 自动安装更新（推荐：可提升安全性）
+    .accesskey = A
+check-updates-label =
+    .label = 检查更新，但是让我选择是否安装
+    .accesskey = C
+update-history-button =
+    .label = 显示更新历史
+    .accesskey = p
+use-service =
+    .label = 使用后台服务来安装更新
+    .accesskey = b
 networking-legend = 连接
 network-settings-button =
     .label = 设置…
@@ -128,6 +180,12 @@ offline-settings = 配置脱机设置
 offline-settings-button =
     .label = 脱机…
     .accesskey = O
+diskspace-legend = 磁盘空间
+offline-compact-folder =
+    .label = 需要节省空间时压缩全部文件夹
+    .accesskey = a
+compact-folder-size =
+    .value = MB 合计
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -143,12 +201,19 @@ use-cache-after = MB 磁盘空间作为缓存
 clear-cache-button =
     .label = 立即清空
     .accesskey = C
+fonts-legend = 字体和颜色
 default-font-label =
     .value = 默认字体:
     .accesskey = D
 default-size-label =
     .value = 大小：
     .accesskey = S
+font-options-button =
+    .label = 高级
+    .accesskey = A
+color-options-button =
+    .label = 颜色…
+    .accesskey = C
 display-width-legend = 纯文本消息
 display-text-label = 当显示引用的纯文本消息时使用以下设置：
 style-label =
@@ -162,12 +227,20 @@ italic-style-item =
     .label = 斜体
 bold-italic-style-item =
     .label = 粗斜体
+size-label =
+    .value = 大小：
+    .accesskey = z
 regular-size-item =
     .label = 常规
 bigger-size-item =
     .label = 较大
 smaller-size-item =
     .label = 较小
+quoted-text-color =
+    .label = 颜色:
+    .accesskey = o
+search-input =
+    .placeholder = 搜索
 type-column-label =
     .label = 内容类型
     .accesskey = T
@@ -192,13 +265,40 @@ display-tags-text = 标签用于对消息进行分类或区分优先级。
 delete-tag-button =
     .label = 删除
     .accesskey = D
+auto-mark-as-read =
+    .label = 自动将消息标为已读
+    .accesskey = A
+mark-read-no-delay =
+    .label = 显示时立即
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = 显示
+    .accesskey = d
+seconds-label = 秒之后
 
 ##
 
+open-msg-label =
+    .value = 打开消息：
+open-msg-tab =
+    .label = 在新标签页
+    .accesskey = t
+open-msg-window =
+    .label = 在新的消息窗口
+    .accesskey = n
+open-msg-ex-window =
+    .label = 在现有的消息窗口
+    .accesskey = e
+close-move-delete =
+    .label = 移动或删除后关闭消息窗口/标签页
+    .accesskey = C
+condensed-addresses-label =
+    .label = 只显示我的通讯录中的显示名称
+    .accesskey = S
 
 ## Compose Tab
 
@@ -232,6 +332,9 @@ spellcheck-label =
 spellcheck-inline-label =
     .label = 启用即时拼写检查
     .accesskey = k
+language-popup-label =
+    .value = 语言：
+    .accesskey = L
 download-dictionaries-link = 下载更多字典
 font-label =
     .value = 字体：
@@ -270,9 +373,49 @@ attachment-label =
 attachment-options-label =
     .label = 关键字…
     .accesskey = K
+enable-cloud-share =
+    .label = 大于此数值的文件提议分享：
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = 移除
+    .accesskey = R
+cloud-account-description = 添加一个新的“文件链接”存储服务
 
 ## Privacy Tab
 
+mail-content = 邮件内容
+remote-content-label =
+    .label = 允许消息中的远程内容
+    .accesskey = m
+exceptions-button =
+    .label = 例外…
+    .accesskey = E
+remote-content-info =
+    .value = 详细了解有关远程内容的隐私问题
+web-content = 网络内容
+history-label =
+    .label = 记住我访问过的网站和链接
+    .accesskey = R
+third-party-label =
+    .value = 接受第三方 Cookie：
+    .accesskey = C
+third-party-never =
+    .label = 总不
+third-party-visited =
+    .label = 仅访问过的域
+keep-label =
+    .value = 保存直至：
+    .accesskey = K
+keep-expire =
+    .label = 它们过期
+keep-close =
+    .label = 我退出 { -brand-short-name }
+keep-ask =
+    .label = 每次均询问
+cookies-button =
+    .label = 显示 Cookie…
+    .accesskey = S
 passwords-button =
     .label = 已保存密码…
     .accesskey = S
@@ -292,6 +435,9 @@ junk-delete-label =
 junk-read-label =
     .label = 将垃圾消息自动标记为已读
     .accesskey = M
+junk-log-label =
+    .label = 启用自适应垃圾邮件过滤日志
+    .accesskey = E
 junk-log-button =
     .label = 显示日志
     .accesskey = S
@@ -302,13 +448,26 @@ phishing-description = { -brand-short-name } 可以识别一些常见欺诈伎�
 phishing-label =
     .label = 告诉我正在阅读的消息是否是欺诈邮件
     .accesskey = T
+antivirus-description = { -brand-short-name } 可以让防病毒软件更容易在传入的邮件被本地保存之前扫描病毒。
+antivirus-label =
+    .label = 允许防病毒软件隔离个别传入的邮件
+    .accesskey = A
 certificate-description = 当某个服务器索取我的个人证书时：
+certificate-auto =
+    .label = 自动选择
+    .accesskey = S
 certificate-ask =
     .label = 每次均询问
     .accesskey = A
+ocsp-label =
+    .label = 查询 OCSP 响应服务器以确认证书的当前有效性
+    .accesskey = Q
 
 ## Chat Tab
 
+startup-label =
+    .value = 启动 { -brand-short-name } 时:
+    .accesskey = s
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -316,9 +475,41 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-time-label = 分钟时，让我的联系人获知
 
 ##
 
+away-message-label =
+    .label = ，并设置我的状态为离开，状态文本：
+    .accesskey = A
+send-typing-label =
+    .label = 在对话时发送正在输入通知
+    .accesskey = t
+notification-label = 当有直接发送给您的消息时：
+show-notification-label =
+    .label = 显示通知
+    .accesskey = c
+notification-all =
+    .label = 带有发送者的名称和消息预览
+notification-name =
+    .label = 仅带有发送者的名称
+notification-empty =
+    .label = 不带有任何信息
+chat-play-sound-label =
+    .label = 播放声音
+    .accesskey = d
+chat-play-button =
+    .label = 播放
+    .accesskey = P
+chat-system-sound-label =
+    .label = 默认的系统新邮件提示声
+    .accesskey = D
+chat-custom-sound-label =
+    .label = 使用下列声音文件
+    .accesskey = U
+chat-browse-sound-button =
+    .label = 浏览…
+    .accesskey = B
 
 ## Preferences UI Search Results
 
