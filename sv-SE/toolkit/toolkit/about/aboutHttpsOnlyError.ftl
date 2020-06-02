@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-insecure-title = Säker anslutning ej tillgänglig
+
 about-httpsonly-button-make-exception = Acceptera risken och fortsätt till webbplatsen
 about-httpsonly-button-go-back = Gå tillbaka

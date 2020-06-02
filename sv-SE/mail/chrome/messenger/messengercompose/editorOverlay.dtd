@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Sök text på sidan">
 <!ENTITY spellToolbarCmd.label "Stavning">
 <!ENTITY spellToolbarCmd.tooltip "Kontrollera stavningen i markering eller på hela sidan">
+
 <!ENTITY imageToolbarCmd.label "Bild">
 <!ENTITY imageToolbarCmd.tooltip "Infoga ny bild eller ändra egenskaperna för markerad bild">
 <!ENTITY hruleToolbarCmd.label "V. linje">

@@ -293,10 +293,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Du har blockerat installation av tillägg från denna webbplats.">
 
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Du har beviljat denna webbplats ytterligare behörigheter.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Visa historik">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Du har beviljat denna webbplats ytterligare behörigheter.">
 
 
 <!ENTITY searchItem.title             "Sök">
@@ -411,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Anpassa…">
 <!ENTITY viewCustomizeToolbar.accesskey     "A">
+
 <!ENTITY overflowCustomizeToolbar.label       "Anpassa verktygsfält…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "n">
 
@@ -901,54 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Öppna inställningar för innehållsblockering">
 
 
-<!ENTITY protections.etpON.header "Förbättrat spårningsskydd är PÅ för den här webbplatsen">
-<!ENTITY protections.etpOFF.header "Förbättrat spårningsskydd är AV för den här webbplatsen">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Mer information om Förbättrat spårningsskydd">
-<!ENTITY protections.settings.label "Skyddsinställningar">
-<!ENTITY protections.showreport.label "Visa rapport">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Fungerar inte webbplatsen?">
-<!ENTITY protections.siteNotWorkingView.title "Fungerar inte webbplatsen?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Stäng av skydd om du har problem med:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Inloggningsfält">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Formulär">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Betalningar">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentarer">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Videor">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Skicka in en rapport">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Blockerad">
-<!ENTITY protections.notBlocking2.label "Tillåten">
-<!ENTITY protections.notFound.label "Ingen upptäckt">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Varför?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blockering av dessa kan förstöra delar av vissa webbplatser. Utan spårare fungerar kanske inte vissa knappar, formulär och inloggningsfält.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alla spårare på denna webbplats har laddats eftersom skyddet är avstängt.">
-<!ENTITY protections.noTrackersFound.description "Inga kända spårare för &brandShortName; upptäcktes på den här sidan.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Dessa kakor följer dig från sida till sida för att samla in data om vad du gör online. De anges av tredje part som annonsörer och analysföretag.">
-<!ENTITY protections.cryptominers.description "Kryptogrävare använder ditt systems datakraft för att utvinna digitala pengar. Kryptogrävar-skript tömmer ditt batteri, slöar ner din dator och kan öka energiräkningen.">
-<!ENTITY protections.fingerprinters.description "Fingeravtrycksspårare samlar inställningar från din webbläsare och dator för att skapa en profil av dig. Med det här digitala fingeravtrycket kan de spåra dig på olika webbplatser.">
-<!ENTITY protections.trackingContent2.description "Webbplatser kan ladda externa annonser, videor och annat innehåll som innehåller spårningskod. Blockering av spårningsinnehåll kan hjälpa webbplatser att ladda snabbare, men vissa knappar, formulär och inloggningsfält kanske inte fungerar.">
-<!ENTITY protections.socialMediaTrackers.description "Sociala nätverk placerar spårare på andra webbplatser för att följa vad du gör, ser och tittar på online. Detta gör att sociala medieföretag kan lära sig mer om dig utöver vad du delar i dina sociala medieprofiler.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Webbläsarflikar">
@@ -993,13 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kakor">
 <!ENTITY contentBlocking.cookiesView.label "Kakor och webbplatsdata">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Spårningsinnehåll">
-
-<!ENTITY contentBlocking.manageSettings2.label "Hantera skyddsinställningar">
-<!ENTITY contentBlocking.manageSettings2.accesskey "H">
-
-<!ENTITY contentBlocking.socialblock.label "Sociala media-spårare">
-
 <!ENTITY contentBlocking.cryptominers.label "Kryptogrävare">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptogrävare">
 
@@ -1011,12 +957,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Innehållsblockering kan orsaka problem med vissa webbplatser. När du rapporterar problem hjälper du till att göra &brandShortName; bättre för alla. (Detta skickar en URL samt information om dina webbläsarinställningar till Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Läs mer">
 
-<!ENTITY contentBlocking.breakageReportView.title "Rapportera en trasig webbplats">
-<!ENTITY contentBlocking.breakageReportView3.description "Blockering av vissa spårare kan orsaka problem med vissa webbplatser. Att rapportera dessa problem hjälper till att göra &brandShortName; bättre för alla. Genom att skicka in den här rapporten skickas en URL och information om dina webbläsarinställningar till Mozilla.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Läs mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Vilka problem har du haft? (Frivillig)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Valfritt: Beskriv problemet">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Skicka rapport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Avbryt">
 
