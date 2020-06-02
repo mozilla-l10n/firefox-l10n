@@ -2,12 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] 選項
+           *[other] 偏好設定
+        }
 pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = 編輯
 category-compose =
     .tooltiptext = 編輯
+pane-chat-title = 聊天
+category-chat =
+    .tooltiptext = 聊天
+pane-calendar-title = 行事曆
+category-calendar =
+    .tooltiptext = 行事曆
 general-language-and-appearance-header = 語言與外觀
 general-incoming-mail-header = 收到的郵件
 general-files-and-attachment-header = 檔案與附件
@@ -79,38 +91,89 @@ focus-search-shortcut =
     .key = f
 focus-search-shortcut-alt =
     .key = k
+general-legend = { -brand-short-name } 開始頁
+start-page-label =
+    .label = 當啟動 { -brand-short-name } 時，在郵件區顯示開始頁
+    .accesskey = W
 location-label =
     .value = 位置:
     .accesskey = o
 restore-default-label =
     .label = 回復預設值
     .accesskey = R
+default-search-engine = 預設搜尋引擎
 new-message-arrival = 當有新郵件時:
 mail-play-button =
     .label = 播放
     .accesskey = P
+change-dock-icon = 修改應用程式圖示的偏好設定
+app-icon-options =
+    .label = 應用程式圖示選項…
+    .accesskey = n
 animated-alert-label =
     .label = 顯示警告視窗
     .accesskey = S
 customize-alert-label =
     .label = 自訂…
     .accesskey = C
+tray-icon-label =
+    .label = 顯示工具列圖示
+    .accesskey = t
 mail-custom-sound-label =
     .label = 使用下列音效檔案
     .accesskey = U
 mail-browse-sound-button =
     .label = 瀏覽…
     .accesskey = B
+enable-gloda-search-label =
+    .label = 開啟全域搜尋與索引器
+    .accesskey = E
+allow-hw-accel =
+    .label = 可用時開啟硬體加速
+    .accesskey = h
+store-type-label =
+    .value = 新帳號的訊息儲存方式:
+    .accesskey = T
+mbox-store-label =
+    .label = 為每個信件匣建立一個檔案（mbox）
+maildir-store-label =
+    .label = 為每封訊息建立檔案（maildir）
+scrolling-legend = 捲動
+autoscroll-label =
+    .label = 使用自動捲動
+    .accesskey = U
+smooth-scrolling-label =
+    .label = 使用平滑捲動
+    .accesskey = m
 system-integration-legend = 系統整合
 always-check-default =
     .label = 每次啟動時檢查 { -brand-short-name } 是否為預設電子郵件用戶端
     .accesskey = a
+check-default-button =
+    .label = 立刻檢查…
+    .accesskey = N
+search-integration-label =
+    .label = 允許 { search-engine-name } 搜尋訊息
+    .accesskey = s
 config-editor-button =
     .label = 組態編輯器…
     .accesskey = C
+return-receipts-description = 決定 { -brand-short-name } 要如何處理收件回執
 return-receipts-button =
     .label = 收件回執…
     .accesskey = R
+automatic-updates-label =
+    .label = 自動安裝更新（建議的，保持安全性）
+    .accesskey = A
+check-updates-label =
+    .label = 自動檢查更新，但讓我選擇要不要安裝
+    .accesskey = C
+update-history-button =
+    .label = 顯示更新記錄
+    .accesskey = p
+use-service =
+    .label = 在背景服務當中安裝更新
+    .accesskey = b
 networking-legend = 連線
 proxy-config-description = 設定 { -brand-short-name } 要如何連到網路
 network-settings-button =
@@ -121,6 +184,12 @@ offline-settings = 離線模式設定
 offline-settings-button =
     .label = 離線模式…
     .accesskey = O
+diskspace-legend = 磁碟空間
+offline-compact-folder =
+    .label = 在可以節省超過
+    .accesskey = a
+compact-folder-size =
+    .value = MB 時壓實重整所有郵件匣
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -136,6 +205,7 @@ use-cache-after = MB 磁碟空間存放快取資料
 clear-cache-button =
     .label = 立刻清除
     .accesskey = C
+fonts-legend = 字型與色彩
 default-font-label =
     .value = 預設字型:
     .accesskey = D
@@ -145,7 +215,14 @@ default-size-label =
 font-options-button =
     .label = 進階…
     .accesskey = A
+color-options-button =
+    .label = 色彩…
+    .accesskey = C
 display-width-legend = 純文字郵件
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = 顯示表情符號圖片
+    .accesskey = e
 display-text-label = 顯示引用的純文字郵件時:
 style-label =
     .value = 樣式:
@@ -158,29 +235,81 @@ italic-style-item =
     .label = 斜體字
 bold-italic-style-item =
     .label = 粗斜體
+size-label =
+    .value = 大小:
+    .accesskey = z
 regular-size-item =
     .label = 正常
 bigger-size-item =
     .label = 增大
 smaller-size-item =
     .label = 減少
+quoted-text-color =
+    .label = 色彩:
+    .accesskey = o
+search-input =
+    .placeholder = 搜尋
 type-column-label =
     .label = 內容類型
     .accesskey = t
 action-column-label =
     .label = 動作
     .accesskey = A
+save-to-label =
+    .label = 儲存檔案到
+    .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] 選擇…
+           *[other] 瀏覽…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
 always-ask-label =
     .label = 每次都問我要存到何處
     .accesskey = A
 display-tags-text = 標籤可以用來分類或排出郵件的優先順序。
+delete-tag-button =
+    .label = 刪除
+    .accesskey = D
+auto-mark-as-read =
+    .label = 自動將郵件標示為已讀
+    .accesskey = A
+mark-read-no-delay =
+    .label = 顯示時立刻標示
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = 在顯示
+    .accesskey = d
+seconds-label = 秒之後
 
 ##
 
+open-msg-label =
+    .value = 開啟郵件於:
+open-msg-tab =
+    .label = 新分頁
+    .accesskey = t
+open-msg-window =
+    .label = 新視窗
+    .accesskey = n
+open-msg-ex-window =
+    .label = 重複使用已存在的視窗
+    .accesskey = e
+close-move-delete =
+    .label = 在移動或刪除郵件時關閉訊息視窗/分頁
+    .accesskey = C
+condensed-addresses-label =
+    .label = 顯示通訊錄裡設定的名字
+    .accesskey = S
 
 ## Compose Tab
 
@@ -208,6 +337,13 @@ auto-save-end = 分鐘自動儲存
 spellcheck-label =
     .label = 寄送前先檢查拼字
     .accesskey = C
+spellcheck-inline-label =
+    .label = 啟用拼字檢查
+    .accesskey = E
+language-popup-label =
+    .value = 語言:
+    .accesskey = L
+download-dictionaries-link = 下載其他字典
 font-label =
     .value = 字型:
     .accesskey = n
@@ -217,6 +353,12 @@ font-color-label =
 bg-color-label =
     .value = 背景色彩:
     .accesskey = B
+restore-html-label =
+    .label = 回復為預設值
+    .accesskey = R
+default-format-label =
+    .label = 預設使用段落模式而非內文
+    .accesskey = P
 format-description = 設定文字編排方式
 send-options-label =
     .label = 寄送選項…
@@ -233,15 +375,63 @@ directories-none-label =
 edit-directories-label =
     .label = 編輯目錄…
     .accesskey = E
+email-picker-label =
+    .label = 自動把寄信時使用的電子郵件地址加到我的:
+    .accesskey = A
 attachment-label =
     .label = 檢查遺失的附件
     .accesskey = m
 attachment-options-label =
     .label = 關鍵字…
     .accesskey = K
+enable-cloud-share =
+    .label = 檔案超過一定大小時使用雲端鏈結服務:
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = 移除
+    .accesskey = R
+cloud-account-description = 新增雲端檔案鏈結儲存服務
 
 ## Privacy Tab
 
+mail-content = 郵件內容
+remote-content-label =
+    .label = 允許在訊息中顯示遠端內容
+    .accesskey = m
+exceptions-button =
+    .label = 例外網站…
+    .accesskey = E
+remote-content-info =
+    .value = 了解更多遠端內容的隱私風險
+web-content = 網站內容
+history-label =
+    .label = 記住我開啟過的網站與鏈結
+    .accesskey = R
+cookies-label =
+    .label = 允許網站設定 Cookie
+    .accesskey = A
+third-party-label =
+    .value = 接受來自第三方的 Cookies:
+    .accesskey = c
+third-party-always =
+    .label = 總是
+third-party-never =
+    .label = 永不
+third-party-visited =
+    .label = 造訪過的網站
+keep-label =
+    .value = 保留 Cookie 直到:
+    .accesskey = K
+keep-expire =
+    .label = Cookie 過期
+keep-close =
+    .label = 關閉 { -brand-short-name }
+keep-ask =
+    .label = 每次都詢問我
+cookies-button =
+    .label = 顯示 Cookie…
+    .accesskey = S
 passwords-description = { -brand-short-name } 可以幫您記住所有帳號的密碼。
 passwords-button =
     .label = 已存密碼…
@@ -265,6 +455,9 @@ junk-delete-label =
 junk-read-label =
     .label = 標示垃圾郵件為已讀
     .accesskey = M
+junk-log-label =
+    .label = 啟用漸進式垃圾郵件過濾記錄
+    .accesskey = E
 junk-log-button =
     .label = 顯示記錄
     .accesskey = S
@@ -276,6 +469,9 @@ phishing-label =
     .label = 當我閱讀可能是詐騙信的郵件時告訴我
     .accesskey = T
 antivirus-description = { -brand-short-name } 可讓防毒軟體在郵件存入電腦前檢查郵件是否有問題。
+antivirus-label =
+    .label = 允許防毒軟體個別處理與檢查新郵件
+    .accesskey = A
 certificate-description = 當伺服器要求我的個人憑證時:
 certificate-auto =
     .label = 自動選擇一組憑證
@@ -283,9 +479,19 @@ certificate-auto =
 certificate-ask =
     .label = 每次都詢問我
     .accesskey = A
+ocsp-label =
+    .label = 向 OCSP 回應伺服器查詢，以確認憑證有效性
+    .accesskey = Q
 
 ## Chat Tab
 
+startup-label =
+    .value = 當 { -brand-short-name } 啟動時:
+    .accesskey = S
+offline-label =
+    .label = 保持我的聊天帳號離線
+auto-connect-label =
+    .label = 自動連線到我的聊天帳號
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -293,9 +499,44 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = 讓我的聯絡人在超過
+    .accesskey = I
+idle-time-label = 分鐘沒有使用後知道我正在閒置
 
 ##
 
+away-message-label =
+    .label = 並將我的狀態設定為不在電腦前，且加上此狀態訊息:
+    .accesskey = a
+send-typing-label =
+    .label = 在對話中傳送正在輸入的通知
+    .accesskey = t
+notification-label = 收到只傳給您的私訊時:
+show-notification-label =
+    .label = 顯示通知:
+    .accesskey = c
+notification-all =
+    .label = 包含寄件者名稱與訊息預覽
+notification-name =
+    .label = 只有寄件者名稱
+notification-empty =
+    .label = 不顯示任何資訊
+chat-play-sound-label =
+    .label = 播放音效
+    .accesskey = d
+chat-play-button =
+    .label = 播放
+    .accesskey = P
+chat-system-sound-label =
+    .label = 系統預設音效
+    .accesskey = D
+chat-custom-sound-label =
+    .label = 使用下列音效檔案
+    .accesskey = U
+chat-browse-sound-button =
+    .label = 瀏覽…
+    .accesskey = B
 
 ## Preferences UI Search Results
 
