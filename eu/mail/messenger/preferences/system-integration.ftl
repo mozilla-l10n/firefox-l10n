@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-title =
+    .title = Sistemaren integrazioa
+system-integration-dialog =
+    .buttonlabelaccept = Ezarri lehenetsi gisa
+    .buttonlabelcancel = Saltatu integrazioa
+    .buttonlabelcancel2 = Utzi
 checkbox-email-label =
     .label = E-posta
     .tooltiptext = { unset-default-tooltip }
@@ -22,3 +28,6 @@ system-search-engine-name =
 system-search-integration-label =
     .label = Baimendu { system-search-engine-name }(r)i mezuak bilatzea
     .accesskey = B
+check-on-startup-label =
+    .label = Egiaztatu beti { -brand-short-name } abiaraztean
+    .accesskey = a
