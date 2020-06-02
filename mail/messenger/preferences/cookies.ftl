@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+cookies-window-dialog =
+    .title = Cookie
+    .style = width: 36em;
 window-close-key =
     .key = w
 window-focus-search-key =
@@ -11,6 +14,7 @@ window-focus-search-alt-key =
 filter-search-label =
     .value = 搜索：
     .accesskey = S
+cookies-on-system-label = 以下是在您的计算机上存储的 Cookie：
 treecol-site-header =
     .label = 站点
 treecol-name-header =

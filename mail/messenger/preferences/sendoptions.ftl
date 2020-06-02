@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = 发送选项
 send-mail-title = 文本格式
+auto-downgrade-label =
+    .label = 如果可能的话以纯文本方式发送消息
+    .accesskey = t
 default-html-format-label = 当以 HTML 格式发送消息并且一个或多个收件人未被列为可接收 HTML 时：
 html-format-ask =
     .label = 询问我将做什么
