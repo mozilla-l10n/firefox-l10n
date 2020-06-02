@@ -16,6 +16,9 @@ category-general =
 pane-compose-title = Scriver
 category-compose =
     .tooltiptext = Scriver
+pane-privacy-title = Protecziun da datas & segirezza
+category-privacy =
+    .tooltiptext = Protecziun da datas & segirezza
 pane-chat-title = Chat
 category-chat =
     .tooltiptext = Chat
@@ -72,6 +75,7 @@ update-in-progress-ok-button = &Interrumper
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
+addons-button = Extensiuns & designs
 
 ## OS Authentication dialog
 
@@ -93,6 +97,12 @@ restore-default-label =
     .label = Restaurar il standard
     .accesskey = R
 default-search-engine = Maschina da tschertgar da standard
+add-search-engine =
+    .label = Agiuntar cun datoteca
+    .accesskey = A
+remove-search-engine =
+    .label = Allontanar
+    .accesskey = o
 new-message-arrival = Sche in nov messadi arriva:
 mail-play-sound-label =
     .label =
@@ -132,6 +142,7 @@ enable-gloda-search-label =
     .label = Activar la tschertga globala e l'indexaziun da messadis
     .accesskey = E
 datetime-formatting-legend = Format da data ed ura
+language-selector-legend = Lingua
 allow-hw-accel =
     .label = Utilisar sche pussaivel l'acceleraziun cun hardware da grafica
     .accesskey = h
@@ -178,6 +189,7 @@ update-app-legend = Actualisaziuns da { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Versiun { $version }
+allow-description = Permetter a { -brand-short-name } da
 automatic-updates-label =
     .label = Installar automaticamain actualisaziuns (recumandà, pli segir)
     .accesskey = I
@@ -190,6 +202,7 @@ update-history-button =
 use-service =
     .label = Utilisar in servetsch per installar actualisaziuns senza interrupziun
     .accesskey = r
+cross-user-udpate-warning = Quest parameter pertutga tut ils contos da Windows e tut ils profils da { -brand-short-name } che utiliseschan questa installaziun da { -brand-short-name }.
 networking-legend = Connexiun
 proxy-config-description = Definir la moda da connexiun da { -brand-short-name } cun l'internet
 network-settings-button =
@@ -332,6 +345,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Serrar la fanestra da messadis/il tab sch'il messadi vegn spustà u stizzà
     .accesskey = S
+display-name-label =
+    .value = Num mussà:
 condensed-addresses-label =
     .label = Mo mussar il 'Num per mussar' per persunas en mes cudeschet d'adressas
     .accesskey = M
@@ -375,6 +390,12 @@ download-dictionaries-link = Telechargiar ulteriurs dicziunaris
 font-label =
     .value = Scrittira:
     .accesskey = s
+font-size-label =
+    .value = Grondezza:
+    .accesskey = z
+default-colors-label =
+    .label = Utilisar las colurs predefinidas dal lectur
+    .accesskey = d
 font-color-label =
     .value = Colur dal text:
     .accesskey = T
@@ -428,6 +449,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Allontanar
     .accesskey = R
+find-cloud-providers =
+    .value = Chattar ulteriurs purschiders…
 cloud-account-description = Agiuntar in nov servetsch per memorisar datotecas
 
 ## Privacy Tab
@@ -469,6 +492,11 @@ keep-ask =
 cookies-button =
     .label = Mussar ils cookies…
     .accesskey = o
+do-not-track-label =
+    .label = Trametter a websites il signal «Do Not Track» per inditgar che ti na vuls betg vegnir fastizà
+    .accesskey = D
+learn-button =
+    .label = Ulteriuras infurmaziuns
 passwords-description = { -brand-short-name } po tegnair endament ils pleds-clav da tut tes contos.
 passwords-button =
     .label = Pleds-clav memorisads…
@@ -520,6 +548,12 @@ certificate-ask =
 ocsp-label =
     .label = Laschar confermar la validitad da certificats entras dumandar servers da OCSP
     .accesskey = O
+certificate-button =
+    .label = Administrar ils certificats…
+    .accesskey = A
+security-devices-button =
+    .label = Apparats da segirezza…
+    .accesskey = s
 
 ## Chat Tab
 
