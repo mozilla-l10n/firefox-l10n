@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Agenda
+calendar-title-reminder = Herinneringen
 dateformat-label =
     .value = Datumtekstnotatie:
     .accesskey = n
@@ -33,6 +35,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Weeknummer tonen in overzichten en minimaand
     .accesskey = k
+workdays-label =
+    .value = Dagen werkweek:
 day-1-checkbox =
     .label = zo
     .accesskey = z
@@ -102,6 +106,9 @@ soon-label =
     .value = De sectie Aanstaand toont:
     .accesskey = A
 event-task-legend = Gebeurtenissen en taken
+default-length-label =
+    .value = Standaardlengte gebeurtenissen en taken:
+    .accesskey = e
 task-start-label =
     .value = Begindatum:
 task-start-1-label =
@@ -139,6 +146,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Standaardgeluid gebruiken
     .accesskey = S
+reminder-custom-sound-label =
+    .label = Het volgende geluidsbestand gebruiken
+    .accesskey = v
 reminder-browse-sound-label =
     .label = Bladeren…
     .accesskey = B
