@@ -17,6 +17,7 @@ html-format-send-html =
 html-format-send-both =
     .label = Trimite mesajul atât în format text cât și în format HTML
     .accesskey = e
+default-html-format-info = Notă: Folosește agenda de contacte pentru a specifica formatul preferat de destinatari.
 html-tab-label =
     .label = Domenii cu HTML
     .accesskey = H

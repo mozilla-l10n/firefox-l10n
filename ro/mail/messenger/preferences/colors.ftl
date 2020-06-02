@@ -19,6 +19,7 @@ background-color-label =
 use-system-colors =
     .label = Folosește culorile sistemului
     .accesskey = o
+colors-link-legend = Culori pentru linkuri
 link-color-label =
     .value = Linkuri nevizitate:
     .accesskey = L

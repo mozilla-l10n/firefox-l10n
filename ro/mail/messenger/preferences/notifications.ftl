@@ -15,5 +15,8 @@ subject-checkbox =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = Afișează alerta de mesaj nou timp de
+    .accesskey = n
 open-time-label-after =
     .value = secunde
