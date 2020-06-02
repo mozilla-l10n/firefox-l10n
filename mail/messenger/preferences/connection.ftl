@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = P
     .tooltiptext = Digite sua URL preferida para resolver DNS sobre HTTPS
 connection-dns-over-https-custom-label = Personalizado
+connection-dialog-window =
+    .title = Configurar conexão
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Acesso à internet
 proxy-type-no =
     .label = Sem proxy
@@ -52,3 +59,6 @@ no-proxy-label =
     .value = Sem proxy para:
     .accesskey = S
 no-proxy-example = Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-remote-dns =
+    .label = Proxy DNS ao usar SOCKS v5
+    .accesskey = d
