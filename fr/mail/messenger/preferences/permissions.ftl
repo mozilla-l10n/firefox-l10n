@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-reminder-window =
+    .title = Exceptions
+    .style = width: 45em;
 window-close-key =
     .key = w
+website-address-label =
+    .value = Adresse du site web :
+    .accesskey = d
 block-button =
     .label = Bloquer
     .accesskey = B
@@ -23,6 +29,14 @@ remove-site-button =
 remove-all-site-button =
     .label = Supprimer tous les sites
     .accesskey = u
+cancel-button =
+    .label = Annuler
+    .accesskey = n
+save-button =
+    .label = Enregistrer les modifications
+    .accesskey = E
 permission-can-label = Autoriser
 permission-can-session-label = Autoriser pour la session
 permission-cannot-label = Bloquer
+invalid-uri-message = Veuillez saisir un nom d’hôte valide
+invalid-uri-title = Nom d’hôte invalide

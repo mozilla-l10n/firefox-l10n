@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Langues latines
 font-language-group-japanese =
     .label = Japonais
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Cyrillique
 font-language-group-el =
     .label = Grec
+font-language-group-other =
+    .label = Autres systèmes d’écriture
 font-language-group-thai =
     .label = Thaï
 font-language-group-hebrew =
@@ -61,6 +66,18 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-math =
+    .label = Mathématiques
+font-language-group-odia =
+    .label = Odia
+font-language-group-telugu =
+    .label = Télougou
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Sinhala
+font-language-group-tibetan =
+    .label = Tibétain
 
 ## Default font type
 
@@ -68,6 +85,12 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans serif
+font-size-label =
+    .value = Taille :
+    .accesskey = T
+font-size-monospace-label =
+    .value = Taille :
+    .accesskey = e
 font-serif-label =
     .value = Serif :
     .accesskey = S
@@ -86,6 +109,9 @@ min-size-none =
 ## Fonts in message
 
 font-control-legend = Contrôle des polices
+use-document-fonts-checkbox =
+    .label = Autoriser les messages à utiliser d’autres polices
+    .accesskey = A
 use-fixed-width-plain-checkbox =
     .label = Utiliser une police à largeur fixe pour les messages au format texte
     .accesskey = x
