@@ -608,9 +608,6 @@ updates-heading = Διαχείριση των ενημερώσεών σας
 discover-heading = Εξατομικεύστε το { -brand-short-name } σας
 shortcuts-heading = Διαχείριση συντομεύσεων επέκτασης
 
-theme-heading-search-label = Βρείτε περισσότερα θέματα
-extension-heading-search-label = Βρείτε περισσότερες επεκτάσεις
-
 default-heading-search-label = Βρείτε περισσότερα πρόσθετα
 addons-heading-search-input =
     .placeholder = Αναζήτηση στο addons.mozilla.org

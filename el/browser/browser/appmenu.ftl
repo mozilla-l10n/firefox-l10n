@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Προστασία απορρήτου
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Μεταβείτε στην αναφορά απορρήτου σας
+
 appmenuitem-customize-mode =
     .label = Προσαρμογή…
 

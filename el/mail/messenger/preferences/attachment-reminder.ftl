@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Λέξεις κλειδιά για την υπενθύμιση συνημμένου
+
 attachment-reminder-label = Το { -brand-short-name } θα σάς προειδοποιεί για ξεχασμένα συνημμένα, όταν πρόκειται να αποστείλετε ένα μήνυμα με τις παρακάτω λέξεις-κλειδιά.
+
 keyword-new-button =
     .label = Νέα…
     .accesskey = Ν
+
 keyword-edit-button =
     .label = Επεξεργασία…
     .accesskey = ξ
+
 keyword-remove-button =
     .label = Διαγραφή
     .accesskey = Δ
+
 new-keyword-title = Νέα λέξη-κλειδί
 new-keyword-label = Λέξη-κλειδί:
+
 edit-keyword-title = Επεξεργασία
 edit-keyword-label = Λέξη-κλειδί:
