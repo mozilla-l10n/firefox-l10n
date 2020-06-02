@@ -2,12 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Preferences
+        }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = Composition
 category-compose =
     .tooltiptext = Composition
+pane-chat-title = Chat
+category-chat =
+    .tooltiptext = Chat
+pane-calendar-title = Calendar
+category-calendar =
+    .tooltiptext = Calendar
 general-language-and-appearance-header = Language & Appearance
 general-incoming-mail-header = Incoming Mails
 general-files-and-attachment-header = Files & Attachments
@@ -86,16 +98,36 @@ start-page-label =
 restore-default-label =
     .label = Restore Default
     .accesskey = R
+default-search-engine = Default Search Engine
 new-message-arrival = When new messages arrive:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Play the following sound file:
+           *[other] Play a sound
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] d
+        }
 mail-play-button =
     .label = Play
     .accesskey = P
+change-dock-icon = Change preferences for the app icon
+app-icon-options =
+    .label = App Icon Options…
+    .accesskey = n
+notification-settings = Alerts and the default sound can be disabled on the Notification pane of System Preferences.
 animated-alert-label =
     .label = Show an alert
     .accesskey = S
 customize-alert-label =
     .label = Customise…
     .accesskey = C
+tray-icon-label =
+    .label = Show a tray icon
+    .accesskey = t
 mail-custom-sound-label =
     .label = Use the following sound file
     .accesskey = U
@@ -105,10 +137,31 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Enable Global Search and Indexer
     .accesskey = E
+datetime-formatting-legend = Date and Time Formatting
+allow-hw-accel =
+    .label = Use hardware acceleration when available
+    .accesskey = h
+store-type-label =
+    .value = Message Store Type for new accounts:
+    .accesskey = T
+mbox-store-label =
+    .label = File per folder (mbox)
+maildir-store-label =
+    .label = File per message (maildir)
+scrolling-legend = Scrolling
+autoscroll-label =
+    .label = Use autoscrolling
+    .accesskey = U
+smooth-scrolling-label =
+    .label = Use smooth scrolling
+    .accesskey = m
 system-integration-legend = System Integration
 always-check-default =
     .label = Always check to see if { -brand-short-name } is the default mail client on startup
     .accesskey = A
+check-default-button =
+    .label = Check Now…
+    .accesskey = N
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -117,6 +170,9 @@ search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+search-integration-label =
+    .label = Allow { search-engine-name } to search messages
+    .accesskey = S
 config-editor-button =
     .label = Config Editor…
     .accesskey = C
@@ -124,6 +180,22 @@ return-receipts-description = Determine how { -brand-short-name } handles return
 return-receipts-button =
     .label = Return Receipts…
     .accesskey = R
+update-app-legend = { -brand-short-name } Updates
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Version { $version }
+automatic-updates-label =
+    .label = Automatically install updates (recommended: improved security)
+    .accesskey = A
+check-updates-label =
+    .label = Check for updates, but let me choose whether to install them
+    .accesskey = C
+update-history-button =
+    .label = Show Update History
+    .accesskey = p
+use-service =
+    .label = Use a background service to install updates
+    .accesskey = b
 networking-legend = Connection
 proxy-config-description = Configure how { -brand-short-name } connects to the Internet
 network-settings-button =
@@ -134,6 +206,11 @@ offline-settings = Configure offline settings
 offline-settings-button =
     .label = Offline…
     .accesskey = O
+offline-compact-folder =
+    .label = Compact all folders when it will save over
+    .accesskey = m
+compact-folder-size =
+    .value = MB in total
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -146,9 +223,13 @@ use-cache-after = MB of space for the cache
 
 ##
 
+smart-cache-label =
+    .label = Override automatic cache management
+    .accesskey = v
 clear-cache-button =
     .label = Clear Now
     .accesskey = C
+fonts-legend = Fonts & Colours
 default-font-label =
     .value = Default font:
     .accesskey = D
@@ -158,7 +239,14 @@ default-size-label =
 font-options-button =
     .label = Advanced…
     .accesskey = A
+color-options-button =
+    .label = Colours…
+    .accesskey = C
 display-width-legend = Plain Text Messages
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Display emoticons as graphics
+    .accesskey = e
 display-text-label = When displaying quoted plain text messages:
 style-label =
     .value = Style:
@@ -171,12 +259,18 @@ italic-style-item =
     .label = Italic
 bold-italic-style-item =
     .label = Bold Italic
+size-label =
+    .value = Size:
+    .accesskey = z
 regular-size-item =
     .label = Regular
 bigger-size-item =
     .label = Bigger
 smaller-size-item =
     .label = Smaller
+quoted-text-color =
+    .label = Colour:
+    .accesskey = o
 search-input =
     .placeholder = Search
 type-column-label =
@@ -203,13 +297,49 @@ always-ask-label =
     .label = Always ask me where to save files
     .accesskey = A
 display-tags-text = Tags can be used to categorise and prioritise your messages.
+new-tag-button =
+    .label = New…
+    .accesskey = N
+edit-tag-button =
+    .label = Edit…
+    .accesskey = E
+delete-tag-button =
+    .label = Delete
+    .accesskey = D
+auto-mark-as-read =
+    .label = Automatically mark messages as read
+    .accesskey = A
+mark-read-no-delay =
+    .label = Immediately on display
+    .accesskey = m
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = After displaying for
+    .accesskey = d
+seconds-label = seconds
 
 ##
 
+open-msg-label =
+    .value = Open messages in:
+open-msg-tab =
+    .label = A new tab
+    .accesskey = t
+open-msg-window =
+    .label = A new message window
+    .accesskey = n
+open-msg-ex-window =
+    .label = An existing message window
+    .accesskey = e
+close-move-delete =
+    .label = Close message window/tab on move or delete
+    .accesskey = C
+condensed-addresses-label =
+    .label = Show only display name for people in my address book
+    .accesskey = S
 
 ## Compose Tab
 
@@ -259,6 +389,9 @@ bg-color-label =
 restore-html-label =
     .label = Restore Defaults
     .accesskey = R
+default-format-label =
+    .label = Use Paragraph format instead of Body Text by default
+    .accesskey = P
 format-description = Configure text format behaviour
 send-options-label =
     .label = Send Options…
@@ -278,15 +411,69 @@ edit-directories-label =
 email-picker-label =
     .label = Automatically add outgoing email addresses to my:
     .accesskey = A
+default-directory-label =
+    .value = Default startup directory in the address book window:
+    .accesskey = S
+default-last-label =
+    .none = Last used directory
 attachment-label =
     .label = Check for missing attachments
     .accesskey = m
 attachment-options-label =
     .label = Keywords…
     .accesskey = K
+enable-cloud-share =
+    .label = Offer to share for files larger than
+cloud-share-size =
+    .value = MB
+add-cloud-account =
+    .label = Add…
+    .accesskey = A
+    .defaultlabel = Add…
+remove-cloud-account =
+    .label = Remove
+    .accesskey = R
+cloud-account-description = Add a new Filelink storage service
 
 ## Privacy Tab
 
+mail-content = Mail Content
+remote-content-label =
+    .label = Allow remote content in messages
+    .accesskey = A
+exceptions-button =
+    .label = Exceptions…
+    .accesskey = E
+remote-content-info =
+    .value = Learn more about the privacy issues of remote content
+web-content = Web Content
+history-label =
+    .label = Remember web sites and links I've visited
+    .accesskey = R
+cookies-label =
+    .label = Accept cookies from sites
+    .accesskey = A
+third-party-label =
+    .value = Accept third-party cookies:
+    .accesskey = c
+third-party-always =
+    .label = Always
+third-party-never =
+    .label = Never
+third-party-visited =
+    .label = From visited
+keep-label =
+    .value = Keep until:
+    .accesskey = K
+keep-expire =
+    .label = they expire
+keep-close =
+    .label = I close { -brand-short-name }
+keep-ask =
+    .label = ask me every time
+cookies-button =
+    .label = Show Cookies…
+    .accesskey = S
 passwords-description = { -brand-short-name } can remember passwords for all of your accounts.
 passwords-button =
     .label = Saved Passwords…
@@ -302,12 +489,18 @@ junk-description = Set your default junk mail settings. Account-specific junk ma
 junk-label =
     .label = When I mark messages as junk:
     .accesskey = W
+junk-move-label =
+    .label = Move them to the account's "Junk" folder
+    .accesskey = o
 junk-delete-label =
     .label = Delete them
     .accesskey = D
 junk-read-label =
     .label = Mark messages determined to be Junk as read
     .accesskey = M
+junk-log-label =
+    .label = Enable adaptive junk filter logging
+    .accesskey = E
 junk-log-button =
     .label = Show log
     .accesskey = S
@@ -329,9 +522,19 @@ certificate-auto =
 certificate-ask =
     .label = Ask me every time
     .accesskey = A
+ocsp-label =
+    .label = Query OCSP responder servers to confirm the current validity of certificates
+    .accesskey = Q
 
 ## Chat Tab
 
+startup-label =
+    .value = When { -brand-short-name } starts:
+    .accesskey = s
+offline-label =
+    .label = Keep my Chat Accounts offline
+auto-connect-label =
+    .label = Connect my chat accounts automatically
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -339,9 +542,44 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Let my contacts know that I am Idle after
+    .accesskey = I
+idle-time-label = minutes of inactivity
 
 ##
 
+away-message-label =
+    .label = and set my status to Away with this status message:
+    .accesskey = A
+send-typing-label =
+    .label = Send typing notifications in conversations
+    .accesskey = t
+notification-label = When messages directed at you arrive:
+show-notification-label =
+    .label = Show a notification
+    .accesskey = c
+notification-all =
+    .label = with sender's name and message preview
+notification-name =
+    .label = with sender's name only
+notification-empty =
+    .label = without any info
+chat-play-sound-label =
+    .label = Play a sound
+    .accesskey = d
+chat-play-button =
+    .label = Play
+    .accesskey = P
+chat-system-sound-label =
+    .label = Default system sound for new mail
+    .accesskey = D
+chat-custom-sound-label =
+    .label = Use the following sound file
+    .accesskey = U
+chat-browse-sound-button =
+    .label = Browse…
+    .accesskey = B
 
 ## Preferences UI Search Results
 
