@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Persunalisar l'avis ad in nov messadi
+
 customize-alert-description = Mussar il suandant en ils avis:
+
 preview-text-checkbox =
     .label = Extract dal text
     .accesskey = E
+
 subject-checkbox =
     .label = Object
     .accesskey = O
+
 sender-checkbox =
     .label = Speditur
     .accesskey = S
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Mussar l'avis da novs messadis durant
     .accesskey = n
+
 open-time-label-after =
     .value = secundas

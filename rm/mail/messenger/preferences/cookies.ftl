@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Cookies
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Tschertgar
     .accesskey = S
+
 cookies-on-system-label = Actualmain èn arcunads ils suandants cookies sin tes computer:
+
 treecol-site-header =
     .label = Website
+
 treecol-name-header =
     .label = Num dal cookie
+
 props-name-label =
     .value = Num:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Valid fin:
 props-container-label =
     .value = Container:
+
 remove-cookie-button =
     .label = Allontanar il cookie
     .accesskey = R
+
 remove-all-cookies-button =
     .label = Stizzar tut ils cookies
     .accesskey = A
+
 cookie-close-button =
     .label = Serrar
     .accesskey = S
