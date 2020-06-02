@@ -41,12 +41,16 @@ config-editor-button =
     .label = Тохиргоо засварлагч…
     .accesskey = ч
 return-receipts-description = { -brand-short-name } илгээсэн захиаг хүлээн авсан мэдэгдэлтэй хэрхэн хандахыг тодорхойлох
+return-receipts-button =
+    .label = Захиа хүлээн авсан мэдэгдлүүд…
+    .accesskey = м
 networking-legend = Холболт
 offline-legend = Салангид
 offline-settings = Салангид үеийн тохиргоо
 offline-settings-button =
     .label = Салангид…
     .accesskey = д
+diskspace-legend = Дискийн зай
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
