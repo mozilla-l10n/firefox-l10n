@@ -57,6 +57,7 @@ rcwn-avg-long = Cyfartaledd Hir
 rcwn-std-dev-long = Gwyriad Safonol Hir
 rcwn-cache-slow = Cyfrif araf storfa dros dro
 rcwn-cache-not-slow = Cyfrif nid araf storfa dros dro
+
 about-networking-title = Ynghylch Rhwydweithio
 about-networking-http = HTTP
 about-networking-sockets = Socedi

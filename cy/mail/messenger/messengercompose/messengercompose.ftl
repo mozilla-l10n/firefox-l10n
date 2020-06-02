@@ -10,19 +10,6 @@ remove-address-row-type = Tynnwch y maes { $type }
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Maes mewnbwn { $type } gwag
-        [zero] Maes mewnbwn { $type } gwag
-        [one] Maes mewnbwn { $type } gydag un cyfeiriad
-        [two] Maes mewnbwn { $type } gyda { $count } cyfeiriad
-        [few] Maes mewnbwn { $type } gyda { $count } cyfeiriad
-        [many] Maes mewnbwn { $type } gyda { $count } cyfeiriad
-       *[other] Maes mewnbwn { $type } gyda { $count } cyfeiriad
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -61,3 +48,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Symud i Bcc
     .accesskey = B
+

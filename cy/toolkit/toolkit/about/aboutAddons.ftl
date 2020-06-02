@@ -608,9 +608,6 @@ updates-heading = Rheoli Eich Diweddariadau
 discover-heading = Personoli Eich { -brand-short-name }
 shortcuts-heading = Rheoli Estyniad Llwybrau Byr
 
-theme-heading-search-label = Canfod themâu eraill
-extension-heading-search-label = Canfod estyniadau eraill
-
 default-heading-search-label = Canfod rhagor o ychwanegion
 addons-heading-search-input =
     .placeholder = Search addons.mozilla.org

@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Os false, diffoddwch gyflymder y caledwedd.
 
 policy-InstallAddonsPermission = Caniatáu i wefannau penodol osod ychwanegion.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Caniatáu i wefannau penodol gysylltu â ffeiliau lleol.
 
 policy-NetworkPrediction = Galluogi neu analluogi rhagfynegiad rhwydwaith (DNS prefetching).

@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Cyfaddasu Rhybudd E-bost Newydd
+
 customize-alert-description = Dewis pa faes i'w ddangos yn yr hysbysiad rhybudd:
+
 preview-text-checkbox =
     .label = Testun Rhagolwg Neges
     .accesskey = R
+
 subject-checkbox =
     .label = Pwnc
     .accesskey = P
+
 sender-checkbox =
     .label = Anfonwr
     .accesskey = A
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Dangos Rhybudd E-bost Newydd pob
     .accesskey = N
+
 open-time-label-after =
     .value = eiliad

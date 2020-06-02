@@ -32,18 +32,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Dadwneud Cau Tabiau
         }
     .accesskey = C
+
 toolbar-context-menu-manage-extension =
     .label = Rheoli Estyniad
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Tynnu'r Estyniad
     .accesskey = T
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Adrodd ar yr Estyniad
     .accesskey = A
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
