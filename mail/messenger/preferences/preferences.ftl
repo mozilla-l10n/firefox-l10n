@@ -2,10 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = أغلق
 pane-general-title = عام
 pane-compose-title = التحرير
 category-compose =
     .tooltiptext = التحرير
+pane-chat-title = الدردشة
+category-chat =
+    .tooltiptext = الدردشة
 general-language-and-appearance-header = اللغة والمظهر
 general-incoming-mail-header = البريد الوارد
 general-files-and-attachment-header = الملفات والمرفقات
@@ -58,16 +63,40 @@ mail-play-button =
 animated-alert-label =
     .label = اعرض تنبيهًا
     .accesskey = ر
+customize-alert-label =
+    .label = خصّص…
+    .accesskey = خ
+tray-icon-label =
+    .label = أظهر أيقونة في لوحة النظام
+    .accesskey = ل
 mail-custom-sound-label =
     .label = استخدم ملف الصوت التالي
     .accesskey = س
 enable-gloda-search-label =
     .label = فعّل البحث العمومي والفهرسة
     .accesskey = ف
+scrolling-legend = اللف
+autoscroll-label =
+    .label = استخدم اللّف الآلي
+    .accesskey = ف
+smooth-scrolling-label =
+    .label = استخدم اللّف السلس
+    .accesskey = خ
 system-integration-legend = تكامل النظام
 always-check-default =
     .label = تحقق دائمًا عند البدء إن كان { -brand-short-name } هو عميل البريد الافتراضي
     .accesskey = ئ
+check-default-button =
+    .label = التمس الآن…
+    .accesskey = ت
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Search
+       *[other] { "" }
+    }
 search-integration-label =
     .label = اسمح ل‍ { search-engine-name } بالبحث في الرسائل
     .accesskey = ث
@@ -77,6 +106,7 @@ config-editor-button =
 return-receipts-button =
     .label = إعلامات الوصول…
     .accesskey = ع
+update-app-legend = تحديثات { -brand-short-name }
 networking-legend = الاتصال
 proxy-config-description = اضبط كيفية اتصال { -brand-short-name } بالإنترنت
 network-settings-button =
@@ -87,6 +117,11 @@ offline-settings = اضبط إعدادات طور اللا اتصال
 offline-settings-button =
     .label = غير متصل…
     .accesskey = ص
+offline-compact-folder =
+    .label = ادمج كل المجلدات إذا كانت ستوفِّر أكثر من
+    .accesskey = و
+compact-folder-size =
+    .value = م.بايت
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -102,6 +137,7 @@ use-cache-after = م.بايت من المساحة للذاكرة المخبأة
 clear-cache-button =
     .label = امسح الآن
     .accesskey = ح
+fonts-legend = الخطوط و الألوان
 default-font-label =
     .value = الخط المبدئي:
     .accesskey = م
@@ -111,6 +147,9 @@ default-size-label =
 font-options-button =
     .label = الخطوط…
     .accesskey = خ
+color-options-button =
+    .label = الألوان…
+    .accesskey = ن
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
     .label = اعرض أيقونات الانفعالات كرسوم
@@ -136,6 +175,9 @@ bigger-size-item =
     .label = أكبر
 smaller-size-item =
     .label = أصغر
+quoted-text-color =
+    .label = اللون:
+    .accesskey = ل
 search-input =
     .placeholder = ابحث
 type-column-label =
@@ -246,6 +288,14 @@ attachment-label =
 attachment-options-label =
     .label = الكلمات المفتاحية…
     .accesskey = ك
+enable-cloud-share =
+    .label = اقترح مشاركة الملفات الأكبر من
+cloud-share-size =
+    .value = م.ب
+remove-cloud-account =
+    .label = أزِل
+    .accesskey = ل
+cloud-account-description = أضِف خدمة تخزين ملفات على الإنترنت جديدة
 
 ## Privacy Tab
 
@@ -264,12 +314,18 @@ junk-description = اضبط إعدادات السخام الافتراضيَّة
 junk-label =
     .label = عند تأشير الرسائل كسخام:
     .accesskey = ئ
+junk-move-label =
+    .label = انقلها إلى مجلد ”السخام“
+    .accesskey = ن
 junk-delete-label =
     .label = احذفهم
     .accesskey = ذ
 junk-read-label =
     .label = أشِّر الرسائل السخام كمقروءة
     .accesskey = ء
+junk-log-label =
+    .label = فعل تسجيل مرشّح السّخام التكيّفي
+    .accesskey = ف
 junk-log-button =
     .label = اعرض السجل
     .accesskey = ع
@@ -287,6 +343,10 @@ certificate-ask =
 
 ## Chat Tab
 
+offline-label =
+    .label = اترك حسابات الدردشة غير متصلة
+auto-connect-label =
+    .label = اتصل بحسابات الدردشة تلقائيا
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -294,9 +354,37 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-time-label = دقائق من عدم النشاط
 
 ##
 
+away-message-label =
+    .label = واجعل حالتي غائب مع هذه الرسالة:
+    .accesskey = غ
+send-typing-label =
+    .label = أرسل تنويهات الكتابة في المحادثات
+    .accesskey = ك
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] حرك أيقونة اللوحة
+           *[other] ألمع عنصر شريط المهام
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] و
+           *[other] م
+        }
+style-bubbles =
+    .label = فقاعات
+style-dark =
+    .label = داكن
+style-paper =
+    .label = صفحات ورقية
+style-simple =
+    .label = بسيط
+preview-label = المعاينة:
+no-preview-description = ليست هذه السمة صحيحة أو ربما غير متاحة حاليًا (إضافة معطلة، صنعتها بنفسك، …).
 
 ## Preferences UI Search Results
 
