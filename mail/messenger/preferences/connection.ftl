@@ -80,3 +80,6 @@ proxy-password-prompt =
 proxy-remote-dns =
     .label = Proxy-DNS ved brug af SOCKS v5
     .accesskey = D
+proxy-enable-doh =
+    .label = Aktiver DNS via HTTPS
+    .accesskey = k
