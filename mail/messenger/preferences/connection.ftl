@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = C
     .tooltiptext = Rhowch eich hoff URL er mwyn datrys DNS drod HTTPS
 connection-dns-over-https-custom-label = Cyfaddas
+connection-dialog-window =
+    .title = Gosodiadau Cysylltu
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Ffurfweddu'r Dirprwyon i Gael Mynediad i'r Rhyngrwyd
 proxy-type-no =
     .label = Dim dirprwy
@@ -58,3 +65,10 @@ no-proxy-label =
     .value = Dim Dirprwy ar gyfer:
     .accesskey = m
 no-proxy-example = Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = Peidio gofyn am ddilysiad os yw'r cyfrinair wedi ei gadw
+    .accesskey = d
+    .tooltiptext = Mae'r dewis hwn yn eich dilysu'n dawel i ddirprwyon rydych wedi eu cadw eu manylion ar eu cyfer. Byddwn yn gofyn os bydd y dilysiad yn methu.
+proxy-remote-dns =
+    .label = DNS dirprwyol pan y defnyddio SOCKS v5
+    .accesskey = D
