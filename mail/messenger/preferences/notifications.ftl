@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Customise New Mail Alert
+
 customize-alert-description = Choose which fields to show in the alert notification:
+
 preview-text-checkbox =
     .label = Message Preview Text
     .accesskey = M
+
 subject-checkbox =
     .label = Subject
     .accesskey = S
+
 sender-checkbox =
     .label = Sender
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Show New Mail Alert for
     .accesskey = N
+
 open-time-label-after =
     .value = seconds
