@@ -10,15 +10,6 @@ remove-address-row-type = It fjild { $type } fuortsmite
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Leech ynfierfjild { $type }
-        [one] Ynfierfjild { $type } mei ien adres
-       *[other] Ynfierfjild { $type } mei { $count } adressen
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -49,3 +40,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Ferpleatse nei Bcc
     .accesskey = B
+

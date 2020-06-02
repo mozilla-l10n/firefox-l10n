@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 
 policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Spesifike websites tastean te keppeljen nei lokale bestannen.
 
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) yn- of útskeakelje.

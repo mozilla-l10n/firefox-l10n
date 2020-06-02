@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Privacybeskermingen
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gean nei jo privacyrapport
+
 appmenuitem-protection-dashboard-title = Befeiligingsdashboerd
 appmenuitem-customize-mode =
     .label = Oanpasse…
