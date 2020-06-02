@@ -11,6 +11,7 @@ rights-intro-point-5 = Tha cuid dhe na feartan aig { -brand-short-name } a' clea
 rights-intro-point-5-unbranded = If this product incorporates web services, any applicable service terms for the service(s) should be linked to the <a data-l10n-name="mozilla-website-services-link">Web Site Services</a> section.
 rights-intro-point-6 = Airson ’s gun urrainn dha cuid a shusbaint video a chluich, luchdaichidh { -brand-short-name } a-nuas cuid a mhòidealan dì-chrioptachaidh o threas-phàrtaidhean.
 rights-webservices-header = { -brand-full-name } Web-Based Information Services
+rights-webservices = { -brand-full-name } uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of { -brand-short-name } under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found <a data-l10n-name="mozilla-disable-service-link">here</a>. 'S urrainn dhut feartan is seirbheisean eile a chur à comas ann an roghainnean na h-aplacaid.
 rights-locationawarebrowsing-term-1 = Cuir na leanas sa bhàr URL <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Cuir a-steach geo.enabled
 rights-locationawarebrowsing-term-3 = Dèan briogadh dùbailte air an roghainn geo.enabled
