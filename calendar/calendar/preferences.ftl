@@ -53,4 +53,7 @@ task-alarm-label =
 event-alarm-time-label =
     .value = Standert tiid foarôfgeand oan in barren wêrop in alarm ferskynt:
     .accesskey = b
+category-edit-label = Kategory bewurkje
 category-overwrite-title = Warskôging: dûbele namme
+category-overwrite = Der bestiet al in kategory mei dizze namme. Wolle jo dizze oerskriuwe?
+category-blank-warning = Jo moatte in kategorynamme ynfiere.
