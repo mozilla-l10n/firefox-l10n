@@ -4,9 +4,16 @@
 
 offline-dialog-window =
     .title = Ρυθμίσεις εργασίας χωρίς σύνδεση
+startup-label = Κατάσταση κατά την εκκίνηση:
 status-radio-remember =
     .label = Απομνημόνευση προηγούμενης κατάστασης
     .accesskey = μ
+status-radio-ask =
+    .label = Ερώτηση για σύνδεση κατά την εκκίνηση
+    .accesskey = ρ
+status-radio-always-online =
+    .label = Mε σύνδεση
+    .accesskey = π
 going-online-label = Αποστολή μη απεσταλμένων κατά την σύνδεση;
 going-online-auto =
     .label = Ναι
