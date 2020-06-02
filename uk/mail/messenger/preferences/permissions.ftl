@@ -4,7 +4,16 @@
 
 window-close-key =
     .key = w
+treehead-status-label =
+    .label = Стан
+cancel-button =
+    .label = Скасувати
+    .accesskey = С
+save-button =
+    .label = Зберегти зміни
+    .accesskey = З
 permission-can-label = Дозволити
+permission-can-access-first-party-label = Не приймати сторонні
 permission-can-session-label = Дозволити на сеанс
 permission-cannot-label = Блокувати
 invalid-uri-message = Будь ласка, вкажіть дійсне ім’я хоста
