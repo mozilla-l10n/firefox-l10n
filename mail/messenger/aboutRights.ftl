@@ -15,6 +15,7 @@ rights-webservices = { -brand-full-name } brukar nettbaserte informasjonsteneste
 rights-locationawarebrowsing = <strong>Stad-medviten nettlesing:</strong>er alltid ein funksjon du må aktivt velje å slå på for at han skal brukast. Ingen stadinfo vert sendt utan at du gjev løyve til det. Dersom du ønskjer å slå av denne funksjonen heilt, følg desse stega:
 rights-locationawarebrowsing-term-1 = I adresselinja, skriv du inn <code>about:config</code>
 rights-locationawarebrowsing-term-4 = Stad-medviten nettlesing er no slått av
+rights-webservices-unbranded = Ei oversikt over informasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.
 rights-webservices-term-unbranded = Andre tenestevilkår for dette produktet bør førast opp her.
 rights-webservices-term-1 = { -vendor-short-name } og bidragsytarane, lisensgjevarar og partnarar jobbar for å tilby den mest nøyaktige og oppdaterte tenesta.  Vi kan likevel ikkje garantere at denne informasjonen er fullstendig og feilfri. Det kan til dømes hende at nokre risikable nettstader ikkje er oppdaga enno, og nokre trygge nettstadar kan feilaktig ha blitt klassifiserte som risikable. All info som vert returnert frå tenestetilbydarane våre er berre estimat, og korkje vi eller tenestetilbydarane garanterer at informasjonen som vert spesifisert er heilt nøyaktig.
 rights-webservices-term-2 = { -vendor-short-name } kan avbryte eller endre Tenestene etter eige ønskje.
