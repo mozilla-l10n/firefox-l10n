@@ -14,11 +14,11 @@
 <!ENTITY newContact.label                               "Ny kontakt…">
 <!ENTITY newContact.accesskey                           "k">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "E-postlista…">
-<!ENTITY newListCmd.accesskey                           "E">
+<!ENTITY newListCmd.label                               "Ny e-postlista…">
+<!ENTITY newListCmd.accesskey                           "e">
 <!ENTITY newAddressBookCmd.label                        "Ny adressbok…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
-<!ENTITY newCardDAVBookCmd.label                        "CardDAV-adressbok...">
+<!ENTITY newCardDAVBookCmd.label                        "Ny CardDAV-adressbok...">
 <!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Ny LDAP-katalog…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
