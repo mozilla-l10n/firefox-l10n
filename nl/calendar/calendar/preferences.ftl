@@ -4,6 +4,7 @@
 
 calendar-title = Agenda
 calendar-title-reminder = Herinneringen
+calendar-title-category = Categorieën
 dateformat-label =
     .value = Datumtekstnotatie:
     .accesskey = n
