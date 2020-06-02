@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = Tak'ulu' pa Google Play
 login-app-promo-apple =
     .alt = Taqasaj pa ri App Store
-
 login-filter =
     .placeholder = Kekanöx Tikirib'äl taq Molojri'ïl
-
 create-login-button = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
-
 fxaccounts-sign-in-text = Ke'ak'ulu' ewan taq kitzij ru ch'aqa' chik taq okisab'äl
 fxaccounts-sign-in-button = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -34,6 +32,7 @@ menu =
     .title = Tijaq k'utsamaj
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Tijik' pa Jun Chik Okik'amaya'l…
+about-logins-menu-menuitem-export-logins = Tik'wäx el Tikirib'äl Molojri'ïl…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Taq cha'oj
@@ -118,13 +117,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Richin nanük' ri rutikirib
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = tinuk' ri yakon rutikirib'al molojri'ïl
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Richin natz'ët ri ewan atzij, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = tik'ut ri yakon ewan tzij
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Richin nawachib'ej ri ewan atzij, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
 # This message can be seen when attempting to copy a password in about:logins
@@ -161,11 +158,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Tiq'at
 confirmation-dialog-dismiss-button =
     .title = Tiq'at
-
 about-logins-confirm-remove-dialog-title = ¿La niyuj el rutikirib'al re moloj re'?
 confirm-delete-dialog-message = Man nitzolin ta chik re samaj.
 about-logins-confirm-remove-dialog-confirm-button = Tiyuj
-
+about-logins-confirm-export-dialog-title = Kek'wäx el kitikirisaxik molojri'ïl chuqa' ewan taq tzij
+about-logins-confirm-export-dialog-confirm-button = Tik'wäx el…
 confirm-discard-changes-dialog-title = ¿La yech'aqïx ri taq jaloj man eyakon ta?
 confirm-discard-changes-dialog-message = Xkesach ronojel ri jaloj man eyakon ta.
 confirm-discard-changes-dialog-confirm-button = Tich'aqïx
@@ -196,10 +193,21 @@ about-logins-vulnerable-alert-learn-more-link = Tetamäx ch'aqa' chik
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = K'o chik jun okib'äl richin { $loginTitle } rik'in ri rub'i' winäq ri'. <a data-l10n-name="duplicate-link">¿La nawajo' yab'e pa ri okib'äl ri'?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Xk'ulwachitäj jun sachoj toq niyak re ewan tzij.
 
-
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Tik'wäx el Ruyakb'al Tikirib'äl Molojri'ïl
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Tik'wäx el
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Wuj CSV
+       *[other] Yakb'äl CSV
+    }

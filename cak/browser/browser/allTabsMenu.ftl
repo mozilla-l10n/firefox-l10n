@@ -4,17 +4,20 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Titzolïx Titz'apïx Ruwi'
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Titzolïx Titz'apïx Ruwi'
+            [one] Titzolïx Yetz'apïx Taq Ruwi'
+           *[other] Titzolïx Yetz'apïx Taq Ruwi'
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Kekanöx taq Ruwi'
-
 all-tabs-menu-new-user-context =
     .label = K'ak'a' k'ojlib'äl ruwi'
-
 all-tabs-menu-hidden-tabs =
     .label = Ewan taq Ruwi'
-
 all-tabs-menu-manage-user-context =
     .label = Kenuk'samajïx K'wayöl
     .accesskey = O
