@@ -389,7 +389,3 @@ main-context-menu-eme-learn-more =
     .label = اطلع أكثر عن إدارة الحقوق الرقمية…
     .accesskey = د
 
-# Checkbox displayed at the bottom of the What's New panel, allowing users to 
-# enable/disable What's New notifications.
-cfr-whatsnew-panel-footer-checkbox =
-    .label = أعلِمني بالميزات الجديدة

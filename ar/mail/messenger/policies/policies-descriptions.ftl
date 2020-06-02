@@ -70,6 +70,10 @@ policy-HardwareAcceleration = إن كان ”خطأ“، عطِّل التسري
 
 policy-InstallAddonsPermission = السماح لبعض المواقع بتثبيت الإضافات.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = السماح لمواقع بعينها أن تصنع روابط إلى ملفات محلية.
 
 policy-NetworkPrediction = تفعيل/تعطيل التوقّع الشبكي (الجلب المسبق لِ‍ DNS).
