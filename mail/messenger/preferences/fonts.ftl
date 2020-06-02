@@ -23,6 +23,7 @@ default-font-sans-serif =
 
 ## Fonts in message
 
+font-control-legend = Nadzor pisav
 
 ## Language settings
 
