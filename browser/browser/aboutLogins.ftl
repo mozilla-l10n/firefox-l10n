@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = Last ned frå Google Play
 login-app-promo-apple =
     .alt = Last ned frå App Store
-
 login-filter =
     .placeholder = Søk innloggingar
-
 create-login-button = Lag ny innlogging
-
 fxaccounts-sign-in-text = Få passorda dine på dei andre einingane dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -34,6 +32,7 @@ menu =
     .title = Opne meny
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importer frå ein annan nettlesar…
+about-logins-menu-menuitem-export-logins = Eksporter innloggingar…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Innstillingar
@@ -118,13 +117,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Skriv inn innloggingsinform
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = rediger lagra innlogging
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å vise passordet. Dette vil gjere kontoane dine tryggare.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = vis det lagra passordet
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å kopiere passordet. Dette vil gjere kontoane dine tryggare.
 # This message can be seen when attempting to copy a password in about:logins
@@ -161,11 +158,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
-
 about-logins-confirm-remove-dialog-title = Fjerne denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
-
 confirm-discard-changes-dialog-title = Vil du forkaste endringar som ikkje er lagra?
 confirm-discard-changes-dialog-message = Alle ikkje-lagra endringar vil gå tapt.
 confirm-discard-changes-dialog-confirm-button = Ignorer
@@ -196,10 +191,8 @@ about-logins-vulnerable-alert-learn-more-link = Les meir
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ei oppføring for { $loginTitle } med dette brukarnamnet finst allereie. <a data-l10n-name="duplicate-link">Gå til eksisterande oppføring?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Det oppstod ein feil ved forsøk på å lagre dette passordet.
-
 
 ## Login Export Dialog
 
