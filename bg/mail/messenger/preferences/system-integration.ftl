@@ -7,6 +7,7 @@ system-integration-dialog =
     .buttonlabelcancel = Прескачане на интеграцията
     .buttonlabelcancel2 = Отмяна
 default-client-intro = Използване на { -brand-short-name } като клиент по подразбиране за:
+unset-default-tooltip = Не е възможно да отмените { -brand-short-name } като клиент по подразбиране за { -brand-short-name } За да изберете друго приложение, трябва да използвате диалога "По подразбиране".
 checkbox-email-label =
     .label = Електронна поща
     .tooltiptext = { unset-default-tooltip }
