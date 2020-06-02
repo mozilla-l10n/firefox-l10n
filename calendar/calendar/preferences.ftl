@@ -91,6 +91,12 @@ previous-weeks-label =
     .value = Semanas anteriores a exibir:
     .accesskey = n
 todaypane-legend = Painel hoje
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = A seção Seguintes exibe:
+    .accesskey = S
 event-task-legend = Eventos e tarefas
 task-start-label =
     .value = Data inicial:
