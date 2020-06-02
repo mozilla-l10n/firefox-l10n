@@ -29,6 +29,7 @@ update-pref-write-failure-title = Жазу қатесі
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Баптауды сақтау мүмкін емес. Файлға жазу мүмкін емес: { $path }
+addons-button = Кеңейтімдер мен тақырыптар
 
 ## OS Authentication dialog
 
