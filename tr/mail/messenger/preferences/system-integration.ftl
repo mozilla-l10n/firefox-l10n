@@ -8,6 +8,7 @@ system-integration-dialog =
     .buttonlabelaccept = Varsayılan olarak ayarla
     .buttonlabelcancel = Tümleştirmeyi geç
     .buttonlabelcancel2 = İptal
+default-client-intro = { -brand-short-name } aşağıdakiler için varsayılan istemcim olsun:
 unset-default-tooltip = { -brand-short-name } içinden varsayılan istemciyi { -brand-short-name } dışında bir istemci yapamazsınız. Başka bir uygulamayı varsayılan yapmak için o uygulamanın 'Varsayılan olarak ayarla' komutunu kullanmalısınız.
 checkbox-email-label =
     .label = E-posta
