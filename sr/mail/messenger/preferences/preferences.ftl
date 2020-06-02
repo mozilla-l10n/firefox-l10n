@@ -75,6 +75,7 @@ update-in-progress-ok-button = &Одбаци
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
+addons-button = Проширења и теме
 
 ## OS Authentication dialog
 
@@ -105,6 +106,12 @@ restore-default-label =
     .label = Врати подразумевано
     .accesskey = В
 default-search-engine = Подразумевани претраживач
+add-search-engine =
+    .label = Додајте из датотеке
+    .accesskey = Д
+remove-search-engine =
+    .label = Уклоните
+    .accesskey = У
 new-message-arrival = Када нове поруке стигну:
 mail-play-sound-label =
     .label =
@@ -191,6 +198,7 @@ update-app-legend = { -brand-short-name } ажурирања
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Верзија { $version }
+allow-description = Дозволите { -brand-short-name } да
 automatic-updates-label =
     .label = Аутоматски инсталирај ажурирања (препоручено: побољшава безбедност)
     .accesskey = А
@@ -203,6 +211,7 @@ update-history-button =
 use-service =
     .label = Користи услугу у позадини за инсталирање ажурирања
     .accesskey = л
+cross-user-udpate-warning = Ово подешавање ће утицати на све Windows налоге и { -brand-short-name } профиле који користе ову { -brand-short-name } инсталацију.
 networking-legend = Веза
 proxy-config-description = Подесите начин на који се { -brand-short-name } повезује на интернет
 network-settings-button =
@@ -345,6 +354,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Затвори прозор/језичак поруке при померању или брисању
     .accesskey = З
+display-name-label =
+    .value = Име за приказ:
 condensed-addresses-label =
     .label = Прикажи само име за приказ за људе у мом именику
     .accesskey = П
@@ -388,6 +399,12 @@ download-dictionaries-link = Преузми још речника
 font-label =
     .value = Фонт:
     .accesskey = н
+font-size-label =
+    .value = Величина:
+    .accesskey = В
+default-colors-label =
+    .label = Користите унапред подешену боју читача
+    .accesskey = д
 font-color-label =
     .value = Боја текста:
     .accesskey = Т
@@ -441,6 +458,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Уклони
     .accesskey = У
+find-cloud-providers =
+    .value = Пронађите више провајдера…
 cloud-account-description = Додај нову Filelink услугу складиштења
 
 ## Privacy Tab
@@ -482,6 +501,11 @@ keep-ask =
 cookies-button =
     .label = Прикажи колачиће…
     .accesskey = р
+do-not-track-label =
+    .label = Пошаљите веб страници сигнал “Не прати” који показује да не желите да вас прате
+    .accesskey = н
+learn-button =
+    .label = Сазнајте више
 passwords-description = { -brand-short-name } може памтити лозинке за све ваше налоге.
 passwords-button =
     .label = Сачуване лозинке…
@@ -533,6 +557,12 @@ certificate-ask =
 ocsp-label =
     .label = Упитај OCSP сервер за одговарање да би потврдио тренутну исправност сертификата
     .accesskey = У
+certificate-button =
+    .label = Управљајте сертификатима…
+    .accesskey = У
+security-devices-button =
+    .label = Сигурносни уређаји…
+    .accesskey = С
 
 ## Chat Tab
 
