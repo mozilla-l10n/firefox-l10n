@@ -582,6 +582,24 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Odaberi…
     .accesskey = d
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Mjehurići
+style-dark =
+    .label = Tamno
+style-paper =
+    .label = Papirnati listovi
+style-simple =
+    .label = Jednostavno
+preview-label = Pregled:
+no-preview-label = Nema dostupnog pregleda
+chat-variant-label =
+    .value = Varijanta:
+    .accesskey = V
+chat-header-label =
+    .label = Prikaži zaglavlje
+    .accesskey = z
 
 ## Preferences UI Search Results
 
