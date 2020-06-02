@@ -123,6 +123,7 @@ change-dock-icon = 독 아이콘 설정
 app-icon-options =
     .label = 독 아이콘 옵션…
     .accesskey = n
+notification-settings = 경고와 기본 소리는 시스템 환경설정의 알림에서 끌 수 있습니다.
 animated-alert-label =
     .label = 알림창 띄우기
     .accesskey = S
@@ -138,8 +139,35 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = 찾아보기…
     .accesskey = B
+enable-gloda-search-label =
+    .label = 전체 검색 및 색인 사용함
+    .accesskey = E
 datetime-formatting-legend = 날짜와 시간 형식
 language-selector-legend = 언어
+allow-hw-accel =
+    .label = 하드웨어 가속 사용하기
+    .accesskey = h
+store-type-label =
+    .value = 새 계정에 대한 메시지 저장 타입:
+    .accesskey = T
+mbox-store-label =
+    .label = 큰 파일 하나 (mbox)
+maildir-store-label =
+    .label = 메시지 당 파일 하나 (maildir)
+scrolling-legend = 스크롤
+autoscroll-label =
+    .label = 자동스크롤 사용하기
+    .accesskey = U
+smooth-scrolling-label =
+    .label = 부드러운 스크롤 사용하기
+    .accesskey = m
+system-integration-legend = 시스템 통합
+always-check-default =
+    .label = 시작 시 { -brand-short-name }가 기본 메일 프로그램인지 항상 확인
+    .accesskey = A
+check-default-button =
+    .label = 지금 확인
+    .accesskey = N
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -148,23 +176,68 @@ search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+search-integration-label =
+    .label = 검색 시 { search-engine-name } 엔진 사용 허가
+    .accesskey = S
+config-editor-button =
+    .label = 설정 편집…
+    .accesskey = C
+return-receipts-description = 수신 확인 메시지 설정
+return-receipts-button =
+    .label = 수신 확인…
+    .accesskey = R
 update-app-legend = { -brand-short-name } 업데이트
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = { " " }{ $version } 버전
 allow-description = { -brand-short-name }가 다음을 하도록 허용
+automatic-updates-label =
+    .label = 자동으로 업데이트 설치하기 (추천방식: 보안이 강화됨)
+    .accesskey = A
+check-updates-label =
+    .label = 새 업데이트를 체크하고 설치여부 묻기
+    .accesskey = C
+update-history-button =
+    .label = 업데이트 기록 보기
+    .accesskey = p
+use-service =
+    .label = 업데이트 설치를 위해 백그라운드 서비스를 이용
+    .accesskey = b
 cross-user-udpate-warning = 이 설정은 모든 Windows 계정과 { -brand-short-name } 프로필을 사용하는 이 { -brand-short-name } 설치본에 적용됩니다.
+networking-legend = 연결
+proxy-config-description = { -brand-short-name } 인터넷 연결 방식 설정
+network-settings-button =
+    .label = 연결 설정…
+    .accesskey = S
+offline-legend = 오프라인
+offline-settings = 오프라인 설정
+offline-settings-button =
+    .label = 오프라인…
+    .accesskey = O
+diskspace-legend = 디스크 용량
+offline-compact-folder =
+    .label = 지정된 용량 이상 저장할 때 폴더 압축
+    .accesskey = a
+compact-folder-size =
+    .value = MB (총)
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = 페이지 캐시
+    .accesskey = U
+use-cache-after = MB 까지 캐시 사용
 
 ##
 
 smart-cache-label =
     .label = 자동 캐시 관리 덮어씀
     .accesskey = v
+clear-cache-button =
+    .label = 지금 삭제
+    .accesskey = C
 fonts-legend = 글꼴 & 색상
 default-font-label =
     .value = 기본 글꼴:
@@ -178,9 +251,37 @@ font-options-button =
 color-options-button =
     .label = 색상…
     .accesskey = C
+display-width-legend = 일반 텍스트 메시지
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = 이모티콘 표시
+    .accesskey = D
+display-text-label = 인용 처리된 메시지 표시할 때:
+style-label =
+    .value = 스타일:
+    .accesskey = y
+regular-style-item =
+    .label = 규칙
+bold-style-item =
+    .label = 굵게
+italic-style-item =
+    .label = 기울임
+bold-italic-style-item =
+    .label = 굵게 기울임
+size-label =
+    .value = 크기:
+    .accesskey = z
+regular-size-item =
+    .label = 규칙
+bigger-size-item =
+    .label = 크게
+smaller-size-item =
+    .label = 작게
 quoted-text-color =
     .label = 색상:
     .accesskey = o
+search-input =
+    .placeholder = 검색하기
 type-column-label =
     .label = 콘텐츠 형식
     .accesskey = T
@@ -204,15 +305,52 @@ choose-folder-label =
 always-ask-label =
     .label = 파일을 저장할 때 항상 물어보기
     .accesskey = A
+display-tags-text = 태그는 메일의 내용을 분류하거나 차례를 매겨 검색을 도와 줍니다.
+new-tag-button =
+    .label = 새 태그…
+    .accesskey = N
+edit-tag-button =
+    .label = 편집…
+    .accesskey = E
+delete-tag-button =
+    .label = 삭제
+    .accesskey = D
+auto-mark-as-read =
+    .label = 읽은 메시지로 자동 표시
+    .accesskey = A
+mark-read-no-delay =
+    .label = 출력 후 즉시
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = 다음 시간이 경과되었을 시 읽은 것으로 표시:
+    .accesskey = d
+seconds-label = 초
 
 ##
 
+open-msg-label =
+    .value = 메시지 열기:
+open-msg-tab =
+    .label = 새 탭
+    .accesskey = t
+open-msg-window =
+    .label = 새 메시지 창
+    .accesskey = n
+open-msg-ex-window =
+    .label = 기존 메시지 창
+    .accesskey = e
+close-move-delete =
+    .label = 이동시 또는 삭제시 메시지 창 또는 탭 닫기
+    .accesskey = C
 display-name-label =
     .value = 표시 이름:
+condensed-addresses-label =
+    .label = 주소록에서 사람에 대한 표시명만 보이기
+    .accesskey = S
 
 ## Compose Tab
 
@@ -268,6 +406,9 @@ bg-color-label =
 restore-html-label =
     .label = 기본 설정으로 복원
     .accesskey = R
+default-format-label =
+    .label = 본문 서식 대신 단락 서식 사용
+    .accesskey = P
 format-description = 텍스트 형식 설정
 send-options-label =
     .label = 보내기 설정…
@@ -298,8 +439,20 @@ attachment-label =
 attachment-options-label =
     .label = 키워드…
     .accesskey = K
+enable-cloud-share =
+    .label = 다음 크기보다 큰 파일의 첨부시에 링크 공유:
+cloud-share-size =
+    .value = MB
+add-cloud-account =
+    .label = 추가…
+    .accesskey = A
+    .defaultlabel = 추가…
+remove-cloud-account =
+    .label = 삭제
+    .accesskey = R
 find-cloud-providers =
     .value = 다른 제공 업체 찾기…
+cloud-account-description = 새로운 파일 공유 스토리지 서비스를 추가합니다
 
 ## Privacy Tab
 
@@ -386,6 +539,16 @@ antivirus-description = { -brand-short-name }는 안티 바이러스 소프트�
 antivirus-label =
     .label = 안티 바이러스 프로그램이 개별 메시지 검사 허용
     .accesskey = A
+certificate-description = 서버가 사설 인증서를 요청할 경우:
+certificate-auto =
+    .label = 자동으로 선택
+    .accesskey = m
+certificate-ask =
+    .label = 매번 물어보기
+    .accesskey = A
+ocsp-label =
+    .label = OCSP 응답 서버에 이 인증서의 유효성 확인하기
+    .accesskey = Q
 certificate-button =
     .label = 인증서 관리…
     .accesskey = M
