@@ -2,12 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Sluiten
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opties
+           *[other] Voorkeuren
+        }
 pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = Opstellen
 category-compose =
     .tooltiptext = Opstellen
+pane-privacy-title = Privacy & Beveiliging
+category-privacy =
+    .tooltiptext = Privacy & Beveiliging
 pane-chat-title = Chat
 category-chat =
     .tooltiptext = Chat
@@ -64,6 +75,7 @@ update-in-progress-ok-button = &Verwerpen
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Doorgaan
+addons-button = Extensies & Thema’s
 
 ## OS Authentication dialog
 
@@ -92,7 +104,25 @@ start-page-label =
 restore-default-label =
     .label = Standaardinstelling herstellen
     .accesskey = S
+default-search-engine = Standaardzoekmachine
+add-search-engine =
+    .label = Uit bestand toevoegen
+    .accesskey = U
+remove-search-engine =
+    .label = Verwijderen
+    .accesskey = d
 new-message-arrival = Als nieuwe berichten binnenkomen:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Het volgende geluidsbestand afspelen:
+           *[other] Een geluid afspelen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] v
+           *[other] u
+        }
 mail-play-button =
     .label = Afspelen
     .accesskey = f
@@ -100,15 +130,37 @@ change-dock-icon = Voorkeuren van het programmasymbool wijzigen
 app-icon-options =
     .label = Programmasymboolopties…
     .accesskey = P
+notification-settings = Waarschuwingen en het standaardgeluid kunnen worden uitgeschakeld via het paneel Berichtgeving in Systeemvoorkeuren.
+animated-alert-label =
+    .label = Een waarschuwing tonen
+    .accesskey = r
 customize-alert-label =
     .label = Aanpassen…
     .accesskey = A
+tray-icon-label =
+    .label = Een systeemvakpictogram tonen
+    .accesskey = t
 mail-custom-sound-label =
     .label = Het volgende geluidsbestand gebruiken
     .accesskey = v
 mail-browse-sound-button =
     .label = Bladeren…
     .accesskey = B
+enable-gloda-search-label =
+    .label = Globaal zoeken en indexeren activeren
+    .accesskey = G
+datetime-formatting-legend = Datum- en tijdopmaak
+language-selector-legend = Taal
+allow-hw-accel =
+    .label = Hardwareversnelling gebruiken wanneer beschikbaar
+    .accesskey = v
+store-type-label =
+    .value = Type berichtenopslag voor nieuwe accounts:
+    .accesskey = b
+mbox-store-label =
+    .label = Eén bestand per map (mbox)
+maildir-store-label =
+    .label = Eén bestand per bericht (maildir)
 scrolling-legend = Scrollen
 autoscroll-label =
     .label = Automatisch scrollen gebruiken
@@ -141,6 +193,11 @@ return-receipts-description = Bepalen hoe { -brand-short-name } omgaat met leesb
 return-receipts-button =
     .label = Leesbevestigingen…
     .accesskey = L
+update-app-legend = { -brand-short-name }-updates
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versie { $version }
+allow-description = { -brand-short-name } mag
 automatic-updates-label =
     .label = Updates automatisch installeren (aanbevolen: verbeterde beveiliging)
     .accesskey = U
@@ -153,6 +210,7 @@ update-history-button =
 use-service =
     .label = Een achtergrondservice gebruiken om updates te installeren
     .accesskey = a
+cross-user-udpate-warning = Deze instelling is van toepassing op alle Windows-accounts en { -brand-short-name }-profielen die deze installatie van { -brand-short-name } gebruiken.
 networking-legend = Verbinding
 proxy-config-description = Configureren hoe { -brand-short-name } verbinding maakt met het internet
 network-settings-button =
@@ -164,6 +222,9 @@ offline-settings-button =
     .label = Offline…
     .accesskey = O
 diskspace-legend = Schijfruimte
+offline-compact-folder =
+    .label = Alle mappen comprimeren als dit meer bespaart dan
+    .accesskey = m
 compact-folder-size =
     .value = MB in totaal
 
@@ -178,6 +239,9 @@ use-cache-after = MB ruimte gebruiken voor de buffer
 
 ##
 
+smart-cache-label =
+    .label = Automatisch bufferbeheer negeren
+    .accesskey = A
 clear-cache-button =
     .label = Nu wissen
     .accesskey = w
@@ -195,6 +259,10 @@ color-options-button =
     .label = Kleuren…
     .accesskey = K
 display-width-legend = Plattetekstberichten
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Emoticons weergeven als afbeeldingen
+    .accesskey = E
 display-text-label = Geciteerde tekst in plattetekstberichten weergeven als:
 style-label =
     .value = Stijl:
@@ -244,13 +312,52 @@ choose-folder-label =
 always-ask-label =
     .label = Mij altijd vragen waar bestanden moeten worden opgeslagen
     .accesskey = v
+display-tags-text = Labels kunnen worden gebruikt voor het categoriseren en prioriteren van uw berichten.
+new-tag-button =
+    .label = Nieuw…
+    .accesskey = N
+edit-tag-button =
+    .label = Bewerken…
+    .accesskey = B
+delete-tag-button =
+    .label = Verwijderen
+    .accesskey = V
+auto-mark-as-read =
+    .label = Berichten automatisch als gelezen markeren
+    .accesskey = B
+mark-read-no-delay =
+    .label = Direct bij weergeven
+    .accesskey = D
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Na
+    .accesskey = N
+seconds-label = seconden weergeven
 
 ##
 
+open-msg-label =
+    .value = Nieuwe berichten openen in:
+open-msg-tab =
+    .label = Een nieuw tabblad
+    .accesskey = t
+open-msg-window =
+    .label = Een nieuw berichtvenster
+    .accesskey = i
+open-msg-ex-window =
+    .label = Een bestaand berichtvenster
+    .accesskey = e
+close-move-delete =
+    .label = Berichtvenster/-tabblad sluiten bij verplaatsen of verwijderen
+    .accesskey = s
+display-name-label =
+    .value = Weergavenaam:
+condensed-addresses-label =
+    .label = Van personen in mijn adresboek alleen weergavenaam tonen
+    .accesskey = V
 
 ## Compose Tab
 
@@ -275,6 +382,9 @@ auto-save-end = minuten automatisch opslaan
 
 ##
 
+warn-on-send-accel-key =
+    .label = Bevestiging vragen bij het gebruik van sneltoets om bericht te verzenden
+    .accesskey = B
 spellcheck-label =
     .label = Spelling controleren voor het verzenden
     .accesskey = c
@@ -288,6 +398,12 @@ download-dictionaries-link = Meer woordenboeken downloaden
 font-label =
     .value = Lettertype:
     .accesskey = L
+font-size-label =
+    .value = Grootte:
+    .accesskey = G
+default-colors-label =
+    .label = Standaardkleuren van lezer gebruiken
+    .accesskey = k
 font-color-label =
     .value = Tekstkleur:
     .accesskey = T
@@ -297,6 +413,9 @@ bg-color-label =
 restore-html-label =
     .label = Standaardwaarden herstellen
     .accesskey = S
+default-format-label =
+    .label = Standaard tekstopmaak Alinea gebruiken in plaats van Tekst
+    .accesskey = r
 format-description = Tekstopmaakgedrag configureren
 send-options-label =
     .label = Verzendopties…
@@ -316,6 +435,11 @@ edit-directories-label =
 email-picker-label =
     .label = E-mailadressen van uitgaande berichten automatisch toevoegen aan mijn:
     .accesskey = E
+default-directory-label =
+    .value = Standaard opstartmap in het adresboekvenster:
+    .accesskey = S
+default-last-label =
+    .none = Laatst gebruikte map
 attachment-label =
     .label = Controleren op ontbrekende bijlagen
     .accesskey = C
@@ -326,18 +450,69 @@ enable-cloud-share =
     .label = Delen voorstellen bij bestanden groter dan
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Toevoegen…
+    .accesskey = T
+    .defaultlabel = Toevoegen…
 remove-cloud-account =
     .label = Verwijderen
     .accesskey = V
+find-cloud-providers =
+    .value = Meer providers zoeken…
 cloud-account-description = Een nieuwe Filelink-opslagservice toevoegen
 
 ## Privacy Tab
 
+mail-content = E-mailinhoud
+remote-content-label =
+    .label = Externe inhoud in berichten toestaan
+    .accesskey = E
+exceptions-button =
+    .label = Uitzonderingen…
+    .accesskey = U
+remote-content-info =
+    .value = Meer info over de privacyproblemen van externe inhoud
+web-content = Webinhoud
+history-label =
+    .label = Websites en koppelingen die ik heb bezocht onthouden
+    .accesskey = W
+cookies-label =
+    .label = Cookies van websites accepteren
+    .accesskey = C
+third-party-label =
+    .value = Cookies van derden accepteren:
+    .accesskey = o
+third-party-always =
+    .label = Altijd
+third-party-never =
+    .label = Nooit
+third-party-visited =
+    .label = Van bezochte
+keep-label =
+    .value = Bewaren totdat:
+    .accesskey = B
+keep-expire =
+    .label = ze verlopen
+keep-close =
+    .label = ik { -brand-short-name } afsluit
+keep-ask =
+    .label = mij elke keer vragen
+cookies-button =
+    .label = Cookies tonen…
+    .accesskey = t
+do-not-track-label =
+    .label = Websites een ‘Niet volgen’-signaal sturen om te laten weten dat u niet gevolgd wilt worden
+    .accesskey = N
+learn-button =
+    .label = Meer info
 passwords-description = { -brand-short-name } kan wachtwoordinformatie voor al uw accounts onthouden.
 passwords-button =
     .label = Opgeslagen wachtwoorden…
     .accesskey = O
 master-password-description = Een hoofdwachtwoord beveiligt al uw wachtwoorden, maar u moet het eens per sessie invoeren.
+master-password-label =
+    .label = Een hoofdwachtwoord gebruiken
+    .accesskey = h
 master-password-button =
     .label = Hoofdwachtwoord wijzigen…
     .accesskey = w
@@ -381,9 +556,22 @@ certificate-ask =
 ocsp-label =
     .label = OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen
     .accesskey = v
+certificate-button =
+    .label = Certificaten beheren…
+    .accesskey = C
+security-devices-button =
+    .label = Beveiligingsapparaten…
+    .accesskey = B
 
 ## Chat Tab
 
+startup-label =
+    .value = Als { -brand-short-name } start:
+    .accesskey = s
+offline-label =
+    .label = Mijn chataccounts offline houden
+auto-connect-label =
+    .label = Mijn chataccounts automatisch verbinden
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -408,6 +596,60 @@ notification-label = Als er aan u geadresseerde berichten binnenkomen:
 show-notification-label =
     .label = Een melding tonen
     .accesskey = m
+notification-all =
+    .label = met naam van de afzender en voorbeeld van het bericht
+notification-name =
+    .label = met alleen de naam van de afzender
+notification-empty =
+    .label = zonder informatie
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Het programmasymbool bewegen
+           *[other] Het taakbalkitem laten knipperen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] r
+           *[other] k
+        }
+chat-play-sound-label =
+    .label = Een geluid afspelen
+    .accesskey = u
+chat-play-button =
+    .label = Afspelen
+    .accesskey = f
+chat-system-sound-label =
+    .label = Standaard systeemgeluid voor nieuwe e-mail
+    .accesskey = d
+chat-custom-sound-label =
+    .label = Het volgende geluidsbestand gebruiken
+    .accesskey = v
+chat-browse-sound-button =
+    .label = Bladeren…
+    .accesskey = B
+theme-label =
+    .value = Thema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Tekstballonnen
+style-dark =
+    .label = Donker
+style-paper =
+    .label = Vellen papier
+style-simple =
+    .label = Eenvoudig
+preview-label = Voorbeeld:
+no-preview-label = Geen voorbeeld beschikbaar
+no-preview-description = Dit thema is ongeldig of momenteel niet beschikbaar (uitgeschakelde add-on, veilige modus, …).
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Kop tonen
+    .accesskey = K
 
 ## Preferences UI Search Results
 
