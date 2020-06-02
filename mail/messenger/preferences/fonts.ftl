@@ -60,6 +60,8 @@ font-language-group-ethiopic =
     .label = Éthiopien
 font-language-group-georgian =
     .label = Géorgien
+font-language-group-gujarati =
+    .label = Gujarati
 font-language-group-gurmukhi =
     .label = Gurmukhi
 font-language-group-khmer =
@@ -118,3 +120,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Encodage du texte
+text-encoding-description = Réglage de l’encodage de texte par défaut pour l’envoi et la réception de courrier
+font-outgoing-email-label =
+    .value = Courrier sortant :
+    .accesskey = u
+font-incoming-email-label =
+    .value = Courrier entrant :
+    .accesskey = i
+default-font-reply-checkbox =
+    .label = Quand c’est possible, utiliser l’encodage par défaut dans les réponses
+    .accesskey = Q
