@@ -5,6 +5,9 @@
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-calendar-title = Calendário
+category-calendar =
+    .tooltiptext = Calendário
 general-language-and-appearance-header = Idioma e aparência
 general-incoming-mail-header = Mensagens a receber
 general-files-and-attachment-header = Ficheiros e anexos
