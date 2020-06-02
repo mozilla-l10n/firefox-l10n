@@ -106,6 +106,17 @@ restore-default-label =
     .accesskey = В
 default-search-engine = Подразумевани претраживач
 new-message-arrival = Када нове поруке стигну:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Пусти следећу звучну датотеку:
+           *[other] Пусти звук
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] д
+           *[other] з
+        }
 mail-play-button =
     .label = Пусти
     .accesskey = П
