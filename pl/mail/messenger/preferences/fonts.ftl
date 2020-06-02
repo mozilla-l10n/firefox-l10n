@@ -120,6 +120,9 @@ use-fixed-width-plain-checkbox =
 
 text-encoding-legend = Kodowanie tekstu
 text-encoding-description = Ustawienia domyślnego kodowania tekstu wysyłanych i odbieranych wiadomości
+font-outgoing-email-label =
+    .value = Poczta wychodząca:
+    .accesskey = w
 font-incoming-email-label =
     .value = Poczta przychodząca:
     .accesskey = t
