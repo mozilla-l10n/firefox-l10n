@@ -325,14 +325,23 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "글꼴 크기 작게">
 <!ENTITY larger.label "크게">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "글꼴 크기 크게">
+<!ENTITY bold.label "굵게">
 <!ENTITY boldToolbarCmd.tooltip "굵게">
+<!ENTITY italic.label "기울임">
 <!ENTITY italicToolbarCmd.tooltip "기울임">
+<!ENTITY underline.label "밑줄">
 <!ENTITY underlineToolbarCmd.tooltip "밑줄">
+<!ENTITY bullets.label "목록">
 <!ENTITY bulletListToolbarCmd.tooltip "글머리 적용/제거">
+<!ENTITY numbers.label "숫자 목록">
 <!ENTITY numberListToolbarCmd.tooltip "번호 매김 적용/제거">
+<!ENTITY outdent.label "내어쓰기">
 <!ENTITY outdentToolbarCmd.tooltip "내어쓰기(왼쪽으로)">
+<!ENTITY indent.label "들여쓰기">
 <!ENTITY indentToolbarCmd.tooltip "들여쓰기(오른쪽으로)">
+<!ENTITY AlignPopupButton.label "맞춤">
 <!ENTITY AlignPopupButton.tooltip "텍스트 맞춤 방식 선택">
+<!ENTITY InsertPopupButton.label "삽입">
 <!ENTITY InsertPopupButton.tooltip "링크 또는 이미지, 가로선, 표 삽입">
 <!ENTITY alignLeftButton.label "왼쪽으로 정렬">
 <!ENTITY alignLeftButton.tooltip "왼쪽으로 맞춤">
@@ -340,6 +349,7 @@
 <!ENTITY alignCenterButton.tooltip "가운데로 맞춤">
 <!ENTITY alignRightButton.label "오른쪽으로 정렬">
 <!ENTITY alignRightButton.tooltip "오른쪽으로 맞춤">
+<!ENTITY alignJustifyButton.label "양쪽 맞춤">
 <!ENTITY alignJustifyButton.tooltip "좌우 여백에 따라 맞춤">
 
 <!-- Structure Toolbar Context Menu items -->

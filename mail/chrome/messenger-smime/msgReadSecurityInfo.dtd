@@ -4,7 +4,6 @@
 
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 <!ENTITY status.label "메시지 보안 정보">
 <!ENTITY signatureCert.label "서명된 인증서 보기">
 <!ENTITY encryptionCert.label "암호화 인증서 보기">
@@ -14,3 +13,5 @@
 <!ENTITY email.address "메일 주소:">
 <!ENTITY issuer.name "인증서 발급:">
 
+<!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
+<!ENTITY SMIME.label "S/MIME">
