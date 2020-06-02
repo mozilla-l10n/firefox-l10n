@@ -133,6 +133,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Ativar pesquisa global e indexação
     .accesskey = A
+language-selector-legend = Idioma
 allow-hw-accel =
     .label = Usar aceleração de hardware quando disponível
     .accesskey = h
