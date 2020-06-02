@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 
 policy-InstallAddonsPermission = Določenim spletnim stranem dovoli nameščanje dodatkov.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Določenim spletnim stranem dovoli povezovanje na krajevne datoteke.
 
 policy-NetworkPrediction = Omogoči ali onemogoči napovedovanje omrežja (vnaprejšnje pridobivanje DNS).

@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Piškotki
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Išči:
     .accesskey = š
+
 cookies-on-system-label = Na vašem računalniku so shranjeni naslednji piškotki:
+
 treecol-site-header =
     .label = Stran
+
 treecol-name-header =
     .label = Ime piškotka
+
 props-name-label =
     .value = Ime:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Preteče:
 props-container-label =
     .value = Vsebnik:
+
 remove-cookie-button =
     .label = Odstrani piškotek
     .accesskey = O
+
 remove-all-cookies-button =
     .label = Odstrani vse piškotke
     .accesskey = d
+
 cookie-close-button =
     .label = Zapri
     .accesskey = Z

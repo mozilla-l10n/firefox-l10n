@@ -16,3 +16,4 @@ accounts-default = Privzeto?
 identity-name = Identiteta
 
 send-via-email = Pošlji po e-pošti
+
