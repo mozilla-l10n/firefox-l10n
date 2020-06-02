@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Piawai ({ $name })
 fonts-label-default-unnamed =
     .label = Piawai
+
 fonts-encoding-dialog-title =
     .title = Fon & Pengekodan
+
 fonts-language-legend =
     .value = Fon untuk:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Berkadaran:
     .accesskey = B
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Saiz:
     .accesskey = z
+
 font-size-monospace-label =
     .value = Saiz:
     .accesskey = i
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monospace:
     .accesskey = M
+
 font-min-size-label =
     .value = Saiz fon minimum:
     .accesskey = z
+
 min-size-none =
     .label = Tiada
 
 ## Fonts in message
 
 font-control-legend = Kawalan Fon
+
 use-document-fonts-checkbox =
     .label = Izinkan mesej menggunakan fon lain
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = Guna fon lebar tetap untuk mesej teks biasa
     .accesskey = t
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Pengekodan Teks
+
 text-encoding-description = Tetapkan pengekodan teks piawai untuk menghantar dan menerima mel
+
 font-outgoing-email-label =
     .value = Mel Keluar:
     .accesskey = u
+
 font-incoming-email-label =
     .value = Mel Masuk:
     .accesskey = M
+
 default-font-reply-checkbox =
     .label = Jika boleh, guna pengekodan teks piawai apabila membalas
     .accesskey = h

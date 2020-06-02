@@ -354,9 +354,6 @@ plugin-heading = Urus plugin anda
 dictionary-heading = Urus kamus anda
 locale-heading = Urus bahasa anda
 
-theme-heading-search-label = Cari tema selanjutnya
-extension-heading-search-label = Cari ekstensi selanjutnya
-
 addons-heading-search-input =
     .placeholder = Cari di addons.mozilla.org
 

@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Butiran Aplikasi
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Buang
     .accesskey = B

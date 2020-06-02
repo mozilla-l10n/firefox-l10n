@@ -337,6 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Penyesuaian…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+
 <!ENTITY overflowCustomizeToolbar.label       "Penyesuaian Bar Alatan…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
