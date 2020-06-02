@@ -58,3 +58,6 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = Підтвердження отримання
+    .tooltiptext = Надіслати запит повернення підтвердження отримання цього повідомлення
