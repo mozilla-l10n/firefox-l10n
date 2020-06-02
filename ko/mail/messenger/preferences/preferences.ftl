@@ -5,6 +5,9 @@
 pane-general-title = 일반
 category-general =
     .tooltiptext = { pane-general-title }
+pane-calendar-title = 캘린더
+category-calendar =
+    .tooltiptext = 캘린더
 general-language-and-appearance-header = 언어와 표현
 general-incoming-mail-header = 받는 메일
 general-files-and-attachment-header = 파일 및 첨부
@@ -90,6 +93,25 @@ search-engine-name =
 
 ##
 
+fonts-legend = 글꼴 & 색상
+default-font-label =
+    .value = 기본 글꼴:
+    .accesskey = D
+default-size-label =
+    .value = 크기:
+    .accesskey = S
+font-options-button =
+    .label = 고급 설정…
+    .accesskey = A
+color-options-button =
+    .label = 색상…
+    .accesskey = C
+quoted-text-color =
+    .label = 색상:
+    .accesskey = o
+type-column-label =
+    .label = 콘텐츠 형식
+    .accesskey = T
 action-column-label =
     .label = 실행 방식
     .accesskey = A
@@ -127,6 +149,9 @@ always-ask-label =
 
 ##
 
+attachment-options-label =
+    .label = 키워드…
+    .accesskey = K
 
 ## Privacy Tab
 
@@ -134,6 +159,7 @@ passwords-description = { -brand-short-name }는 계정 암호를 저장할 수 
 passwords-button =
     .label = 저장된 암호 목록…
     .accesskey = S
+master-password-description = 기본 암호는 모든 일반 암호를 보호합니다. 프로그램 다시 시작할 때 다시 입력해야 합니다.
 master-password-label =
     .label = 기본 암호 사용
     .accesskey = U
@@ -153,6 +179,9 @@ junk-delete-label =
 junk-read-label =
     .label = 스팸으로 표시된 메시지는 읽은 것으로 표시
     .accesskey = M
+junk-log-label =
+    .label = 스팸 메일 적응 필터 기록 사용함
+    .accesskey = E
 junk-log-button =
     .label = 로그 보기
     .accesskey = S
