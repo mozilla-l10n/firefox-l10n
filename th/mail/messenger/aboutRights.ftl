@@ -17,6 +17,7 @@ rights-locationawarebrowsing-term-1 = ในแถบ URL พิมพ์ <code>
 rights-locationawarebrowsing-term-2 = พิมพ์ geo.enabled
 rights-locationawarebrowsing-term-3 = คลิกสองครั้งที่ค่ากำหนด geo.enabled
 rights-locationawarebrowsing-term-4 = การท่องเว็บที่ผูกพันกับสถานที่ถูกปิดใช้งานแล้ว
+rights-webservices-unbranded = ภาพรวมของบริการเว็บที่ได้รวมเข้าในผลิตภัณฑ์ รวมไปถึงวิธีใช้การยกเลิกใช้งานบริการเหล่านั้น ควรนำมารวมไว้ที่นี่
 rights-webservices-term-unbranded = ข้อกำหนดการของบริการใดๆ ที่เข้ากันควรจะแสดงไว้ที่นี่
 rights-webservices-term-2 = { -vendor-short-name } อาจพิจารณายกเลิกหรือแก้ไขบริการเหล่านี้ได้ในภายหลัง
 rights-webservices-term-3 = คุณสามารถใช้บริการเหล่านี้ในรุ่นเพิ่มเติมของ { -brand-short-name } และ { -vendor-short-name } ให้สิทธิในการทำเช่นนั้น { -vendor-short-name } และเจ้าของสัญญาอนุญาตที่เกี่ยวข้องขอสงวนสิทธิ์ต่างๆ ในบริการ ข้อตกลงเหล่านี้ไม่ได้มีไว้เพื่อจำกัดสิทธิ์ที่ถูกให้ไว้ภายใต้สัญญาอนุญาตซอฟต์แวร์เปิดรหัสใดๆ ที่ { -brand-short-name } ใช้งานอยู่และที่สอดคล้องกับต้นรหัสของ { -brand-short-name }
