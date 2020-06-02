@@ -74,6 +74,9 @@ search-engine-name =
 
 ##
 
+save-to-label =
+    .label = Gem filer i
+    .accesskey = f
 always-ask-label =
     .label = Spørg mig altid, hvor filer skal gemmes
     .accesskey = S
@@ -108,6 +111,13 @@ master-password-label =
 master-password-button =
     .label = Skift hovedadgangskode…
     .accesskey = S
+junk-description = Du kan redigere kontospecifikke spam-indstillinger i vinduet Kontoindstillinger.
+junk-label =
+    .label = Når du markerer meddelelsen som spam:
+    .accesskey = å
+junk-move-label =
+    .label = Flyt dem til mappen Spam på kontoen
+    .accesskey = F
 junk-delete-label =
     .label = Slet dem
     .accesskey = S
@@ -120,6 +130,10 @@ junk-log-button =
 reset-junk-button =
     .label = Nulstil indlærte data
     .accesskey = N
+phishing-description = { -brand-short-name } kan analysere meddelelser for mailsvindel ved at se efter standardteknikker, som benyttes til at snyde dig.
+phishing-label =
+    .label = Fortæl mig, hvis meddelelsen jeg læser er mailsvindel
+    .accesskey = F
 antivirus-description = { -brand-short-name } kan gøre det lettere for antivirusprogrammer at analysere indkommende meddelelser for virus, før de gemmes lokalt.
 antivirus-label =
     .label = Tillad antivirusprogrammer at sætte indkommende meddelelser i karantæne
