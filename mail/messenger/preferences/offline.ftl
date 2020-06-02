@@ -4,6 +4,22 @@
 
 offline-dialog-window =
     .title = Inställningar för nedkopplat läge
+autodetect-online-label =
+    .label = Följ automatiskt detekterat uppkopplat tillstånd
+    .accesskey = d
+startup-label = Manuellt tillstånd vid uppstart:
+status-radio-remember =
+    .label = Kom ihåg tidigare uppkopplat tillstånd
+    .accesskey = K
+status-radio-ask =
+    .label = Fråga mig om uppkopplat tillstånd
+    .accesskey = F
+status-radio-always-online =
+    .label = Alltid uppkopplat
+    .accesskey = u
+status-radio-always-offline =
+    .label = Alltid nedkopplat
+    .accesskey = n
 going-online-label = Skicka osända meddelanden vid uppkoppling?
 going-online-auto =
     .label = Ja

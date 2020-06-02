@@ -4,6 +4,10 @@
 
 system-integration-title =
     .title = Systemintegration
+system-integration-dialog =
+    .buttonlabelaccept = Ange som standard
+    .buttonlabelcancel = Hoppa över integrationen
+    .buttonlabelcancel2 = Avbryt
 default-client-intro = Använd { -brand-short-name } som standardklient för:
 unset-default-tooltip = Det är inte möjligt att ta bort { -brand-short-name } som standardklient inuti { -brand-short-name }. För att göra ett annat program till standard måste du använda dess 'Ange som standard'-dialog.
 checkbox-email-label =

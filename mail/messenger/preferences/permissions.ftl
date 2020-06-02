@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-reminder-window =
+    .title = Undantag
+    .style = width: 45em;
 window-close-key =
     .key = w
 website-address-label =
@@ -26,7 +29,14 @@ remove-site-button =
 remove-all-site-button =
     .label = Ta bort alla
     .accesskey = a
+cancel-button =
+    .label = Avbryt
+    .accesskey = A
+save-button =
+    .label = Spara ändringar
+    .accesskey = S
 permission-can-label = Tillåt
+permission-can-access-first-party-label = Tillåt endast första part
 permission-can-session-label = Tillåt för sessionen
 permission-cannot-label = Blockera
 invalid-uri-message = Skriv in ett giltigt värdnamn
