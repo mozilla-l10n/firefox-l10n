@@ -4,12 +4,24 @@
 
 close-button =
     .aria-label = Sulge
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Valikud
+           *[other] Eelistused
+        }
 pane-general-title = Üldine
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Koostamine
+category-compose =
+    .tooltiptext = Koostamine
 pane-privacy-title = Privaatsus ja turvalisus
 category-privacy =
     .tooltiptext = Privaatsus ja turvalisus
+pane-chat-title = Kiirsuhtlus
+category-chat =
+    .tooltiptext = Kiirsuhtlus
 pane-calendar-title = Kalender
 category-calendar =
     .tooltiptext = Kalender
