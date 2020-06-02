@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Anullar la tampadura de l'onglet
     .accesskey = u
+tab-context-close-multiple-tabs =
+    .label = Tampar mantun onglets
+    .accesskey = m
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Anullar la tampadura d’onglets
+            [one] Anullar la tampadura de l’onglet
+           *[other] Anullar la tampadura dels onglet
+        }
+    .accesskey = A
 close-tab =
     .label = Tampar l'onglet
     .accesskey = T
