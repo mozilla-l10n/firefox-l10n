@@ -5,6 +5,7 @@
 sendoptions-dialog-window =
     .title = Opzioni di invio
 send-mail-title = Formato testo
+default-html-format-label = Quando si inviano messaggi in HTML e uno o più destinatari non sono elencati come in grado di ricevere HTML:
 html-format-ask =
     .label = Chiedi che cosa fare
     .accesskey = c
@@ -24,6 +25,7 @@ html-tab-label =
 plain-tab-label =
     .label = Domini testo semplice
     .accesskey = D
+send-message-domain-label = Quando si invia un messaggio a un indirizzo appartenente ad uno dei domini presenti nel seguente elenco { -brand-short-name } invia automaticamente il messaggio nel formato corretto.
 add-domain-button =
     .label = Aggiungi…
     .accesskey = A

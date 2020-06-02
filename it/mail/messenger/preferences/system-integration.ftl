@@ -4,6 +4,10 @@
 
 system-integration-title =
     .title = Integrazione col sistema
+system-integration-dialog =
+    .buttonlabelaccept = Imposta come predefinito
+    .buttonlabelcancel = Salta integrazione
+    .buttonlabelcancel2 = Annulla
 default-client-intro = Utilizza { -brand-short-name } come programma predefinito per:
 checkbox-email-label =
     .label = E-Mail
