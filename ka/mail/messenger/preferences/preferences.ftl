@@ -96,6 +96,7 @@ mail-browse-sound-button =
     .label = ნუსხა…
     .accesskey = B
 networking-legend = კავშირი
+proxy-config-description = როგორ დაუკავშირდეს { -brand-short-name } პროგრამა ინტერნეტს.
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -144,6 +145,8 @@ auto-save-end = წუთში
 download-dictionaries-link = სხვა ლექსიკონების ჩამოტვირთვა
 format-description = ტექსტის ფორმატირების წესების მითითება
 autocomplete-description = წერილების გაგზავნისას შესაბამისი ჩანაწერების შემოწმება:
+directories-none-label =
+    .none = არა
 
 ## Privacy Tab
 
