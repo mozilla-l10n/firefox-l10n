@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Začinić
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Pisać
 category-compose =
     .tooltiptext = Pisać
+pane-privacy-title = Priwatnosć a wěstota
+category-privacy =
+    .tooltiptext = Priwatnosć a wěstota
 pane-chat-title = Chat
 category-chat =
     .tooltiptext = Chat
@@ -70,6 +75,7 @@ update-in-progress-ok-button = &Zaćisnyć
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dale
+addons-button = Rozšěrjenja a drasty
 
 ## OS Authentication dialog
 
@@ -102,6 +108,15 @@ restore-default-label =
     .label = Standard wobnowić
     .accesskey = b
 default-search-engine = Standardna pytawa
+add-search-engine =
+    .label = Z dataje přidać
+    .accesskey = Z
+remove-search-engine =
+    .label = Wotstronić
+    .accesskey = t
+minimize-to-tray-label =
+    .label = Hdyž { -brand-short-name } je miniměrowany, přesuńće jón do žłobika.
+    .accesskey = m
 new-message-arrival = Hdyž nowe powěsće dochadźeja:
 mail-play-sound-label =
     .label =
@@ -141,6 +156,7 @@ enable-gloda-search-label =
     .label = Globalne pytanje a indeksowanje zmóžnić
     .accesskey = G
 datetime-formatting-legend = Formatowanje datuma a časa
+language-selector-legend = Rěč
 allow-hw-accel =
     .label = Hardwarowe pospěšenje wužiwać, jeli je k dispoziciji
     .accesskey = H
@@ -187,6 +203,7 @@ update-app-legend = Aktualizacije { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Wersija { $version }
+allow-description = { -brand-short-name } zmóžnić:
 automatic-updates-label =
     .label = Aktualizacije awtomatisce instalować (poruča so: polěpšena wěstota)
     .accesskey = A
@@ -199,6 +216,7 @@ update-history-button =
 use-service =
     .label = Pozadkowu słužbu za instalowanje aktualizacijow wužiwać
     .accesskey = z
+cross-user-udpate-warning = Tute nastajenje so na wšě konta Windows nałoži a na profile { -brand-short-name }, kotrež tutu instalaciju { -brand-short-name } wužiwaja.
 networking-legend = Zwisk
 proxy-config-description = Konfigurować, kak { -brand-short-name } z Internetom zwjazuje
 network-settings-button =
@@ -341,6 +359,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Powěsćowe wokno/Powěsćowy rajtark při přesuwanju abo hašenju začinić
     .accesskey = P
+display-name-label =
+    .value = Pokazowane mjeno:
 condensed-addresses-label =
     .label = Jenož zwobraznjenske mjeno za ludźi w adresniku pokazać
     .accesskey = J
@@ -384,6 +404,12 @@ download-dictionaries-link = Dalše słowniki sćahnyć
 font-label =
     .value = Pismo:
     .accesskey = P
+font-size-label =
+    .value = Wulkosć:
+    .accesskey = u
+default-colors-label =
+    .label = Standardne barby čitaka wužiwać
+    .accesskey = d
 font-color-label =
     .value = Tekstowa barba:
     .accesskey = T
@@ -437,6 +463,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Wotstronić
     .accesskey = W
+find-cloud-providers =
+    .value = Dalšich poskićowarjow namakać…
 cloud-account-description = Nowu składowansku słužbu Filelink přidać
 
 ## Privacy Tab
@@ -478,6 +506,11 @@ keep-ask =
 cookies-button =
     .label = Placki pokazać…
     .accesskey = c
+do-not-track-label =
+    .label = Websydłam signal “Njeslědować” pósłać, zo nochceće, zo wone was slěduja
+    .accesskey = s
+learn-button =
+    .label = Dalše informacije
 passwords-description = { -brand-short-name } móže hesła za wšě waše konta składować.
 passwords-button =
     .label = Składowane hesła…
@@ -529,6 +562,12 @@ certificate-ask =
 ocsp-label =
     .label = Pola wotmołwnych serwerow OCSP so naprašować, zo by so aktualna płaćiwosć certifikatow wobkrućiło
     .accesskey = P
+certificate-button =
+    .label = Certifikaty rjadować…
+    .accesskey = C
+security-devices-button =
+    .label = Wěstotne graty…
+    .accesskey = W
 
 ## Chat Tab
 
@@ -569,6 +608,17 @@ notification-name =
     .label = jenož z mjenom wotpósłarja
 notification-empty =
     .label = bjez někajkich informacijow
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Dokowy symbol animěrować
+           *[other] Zapisk nadawkoweje lajsty zablendować
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] Z
+        }
 chat-play-sound-label =
     .label = Zynk wothrać
     .accesskey = h
@@ -584,6 +634,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Přepytać…
     .accesskey = P
+theme-label =
+    .value = Drasta:
+    .accesskey = D
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Puchery
+style-dark =
+    .label = Ćmowe
+style-paper =
+    .label = Papjerowe łopjena
+style-simple =
+    .label = Jednora
+preview-label = Přehlad:
+no-preview-label = Přehlad k dispoziciji njeje
+no-preview-description = Tuta drasta płaćiwa njeje abo njeje tuchwilu k dispoziciji (žnjemóžnjeny přidatk, wěsty modus …).
+chat-variant-label =
+    .value = Warianta:
+    .accesskey = W
+chat-header-label =
+    .label = Hłowu pokazać
+    .accesskey = H
 
 ## Preferences UI Search Results
 
