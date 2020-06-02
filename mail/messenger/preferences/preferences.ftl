@@ -8,6 +8,9 @@ category-general =
 pane-compose-title = Písanie správ
 category-compose =
     .tooltiptext = Písanie správ
+pane-chat-title = Konverzácie
+category-chat =
+    .tooltiptext = Konverzácie
 general-language-and-appearance-header = Jazyk a vzhľad stránok
 general-incoming-mail-header = Doručená pošta
 general-files-and-attachment-header = Súbory a prílohy
@@ -73,10 +76,18 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = Úvodná stránka { -brand-short-name }u
 start-page-label =
     .label = Pri štarte { -brand-short-name }u zobraziť stránku v oblasti správy
     .accesskey = z
+restore-default-label =
+    .label = Obnoviť predvolenú
+    .accesskey = d
+new-message-arrival = Pri prijatí novej správy
 mail-play-button =
     .label = Ukážka
     .accesskey = U
@@ -86,20 +97,70 @@ animated-alert-label =
 customize-alert-label =
     .label = Prispôsobiť…
     .accesskey = o
+tray-icon-label =
+    .label = Zobraziť ikonu v oznamovacej oblasti systémového panela úloh
+    .accesskey = k
 mail-custom-sound-label =
     .label = Použiť nasledovný zvukový súbor
     .accesskey = n
 mail-browse-sound-button =
     .label = Prehľadávať…
     .accesskey = P
+scrolling-legend = Posúvanie obsahu
+autoscroll-label =
+    .label = Použiť automatický posun
+    .accesskey = a
+smooth-scrolling-label =
+    .label = Použiť plynulý posun
+    .accesskey = n
+check-default-button =
+    .label = Skontrolovať…
+    .accesskey = S
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Search
+       *[other] { "" }
+    }
+use-service =
+    .label = Na inštaláciu aktualizácií použiť službu na pozadí
+    .accesskey = k
+diskspace-legend = Miesto na disku
+offline-compact-folder =
+    .label = Vykonať údržbu všetkých priečinkov, ak sa celkovo ušetrí aspoň
+    .accesskey = V
+compact-folder-size =
+    .value = MB
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Vyhradiť do
+    .accesskey = h
+use-cache-after = MB na disku pre vyrovnávaciu pamäť
 
 ##
 
+clear-cache-button =
+    .label = Vymazať teraz
+    .accesskey = e
+fonts-legend = Písma a farby
+default-font-label =
+    .value = Predvolené písmo:
+    .accesskey = e
+default-size-label =
+    .value = Veľkosť:
+    .accesskey = V
+font-options-button =
+    .label = Pokročilé…
+    .accesskey = P
+color-options-button =
+    .label = Farby…
+    .accesskey = F
 display-width-legend = Textové správy
 display-text-label = Pri zobrazovaní citácií v textových správach:
 style-label =
@@ -122,6 +183,34 @@ bigger-size-item =
     .label = Väčšie
 smaller-size-item =
     .label = Menšie
+quoted-text-color =
+    .label = Farba:
+    .accesskey = a
+search-input =
+    .placeholder = Hľadať
+type-column-label =
+    .label = Typ obsahu
+    .accesskey = T
+action-column-label =
+    .label = Akcia
+    .accesskey = A
+save-to-label =
+    .label = Súbory ukladať do
+    .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Vybrať…
+           *[other] Prehľadávať…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] h
+        }
+always-ask-label =
+    .label = Vždy sa opýtať, kam súbory uložiť
+    .accesskey = k
 display-tags-text = Farebné popisy je možné použiť na triedenie vašich správ podľa kategórie a priorít.
 delete-tag-button =
     .label = Odstrániť
@@ -143,12 +232,84 @@ delete-tag-button =
 
 ##
 
+attachment-label =
+    .label = Kontrolovať, či v správe nechýba príloha
+    .accesskey = c
+attachment-options-label =
+    .label = Kľúčové slová…
+    .accesskey = K
+enable-cloud-share =
+    .label = Ponúkať odoslanie súbor na online úložisko pre súbory väčšie ako
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Odstrániť
+    .accesskey = O
+cloud-account-description = Pridať novú službu na odosielanie príloh
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name } si môže zapamätať prihlasovacie údaje pre všetky vaše kontá.
+passwords-button =
+    .label = Uložené heslá…
+    .accesskey = U
+master-password-description = Hlavné heslo slúži na ochranu všetkých vašich hesiel, musíte ho však zadať počas každej relácie.
+master-password-label =
+    .label = Používať hlavné heslo
+    .accesskey = P
+master-password-button =
+    .label = Zmeniť hlavné heslo…
+    .accesskey = Z
+junk-description = Ak chcete zmeniť špecifické nastavenia nevyžiadanej pošty svojho účtu, prejdite do jeho nastavenia.
+junk-label =
+    .label = Keď manuálne označím správy ako nevyžiadané:
+    .accesskey = K
+junk-move-label =
+    .label = Presunúť ich do priečinka "SPAM" v danom účte
+    .accesskey = u
+junk-delete-label =
+    .label = Odstrániť ich
+    .accesskey = d
+junk-read-label =
+    .label = Označiť správy identifikované ako nevyžiadané za prečítané
+    .accesskey = O
+junk-log-label =
+    .label = Povoliť protokol z adaptívneho rozpoznávania nevyžiadanej pošty
+    .accesskey = P
+junk-log-button =
+    .label = Zobraziť protokol
+    .accesskey = Z
+reset-junk-button =
+    .label = Vymazať zozbierané údaje
+    .accesskey = V
+phishing-description = { -brand-short-name } môže analyzovať prichádzajúcu poštu na prípadné podvodné správy tým, že odhalí techniku použitú na vaše oklamanie.
+phishing-label =
+    .label = Upozorniť v prípade, ak je čítaná správa podozrivá
+    .accesskey = U
+antivirus-description = { -brand-short-name } môže antivírusovým programom umožniť analýzu správ prichádzajúcej pošty na výskyt vírusov ešte skôr, ako budú uložené do priečinkov pošty.
+antivirus-label =
+    .label = Povoliť antivírusovým klientom prehliadať jednotlivé doručené správy
+    .accesskey = P
+certificate-description = Pokiaľ stránka požaduje môj osobný certifikát:
+certificate-auto =
+    .label = Vybrať automaticky
+    .accesskey = m
+certificate-ask =
+    .label = Vždy sa opýtať
+    .accesskey = V
+ocsp-label =
+    .label = Aktuálnu platnosť certifikátov overovať na serveroch OCSP
+    .accesskey = A
 
 ## Chat Tab
 
+startup-label =
+    .value = Pri spustení programu { -brand-short-name }:
+    .accesskey = P
+offline-label =
+    .label = ponechať všetky moje účty konverzácii v stave offline
+auto-connect-label =
+    .label = automaticky pripojiť všetky účty konverzácií
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -156,9 +317,25 @@ delete-tag-button =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Po zadanom počte minút nečinnosti upozorniť moje kontakty, že som nečinný:
+    .accesskey = z
+idle-time-label = minút
 
 ##
 
+away-message-label =
+    .label = a nastaviť môj stav na 'Som preč' so stavovou správou:
+    .accesskey = n
+send-typing-label =
+    .label = V konverzáciách odosielať notifikáciu o písaní správy
+    .accesskey = k
+notification-all =
+    .label = s uvedením odosielateľa a ukážkou textu správy
+notification-name =
+    .label = s uvedením odosielateľa
+notification-empty =
+    .label = bez ďalších informácií
 
 ## Preferences UI Search Results
 
