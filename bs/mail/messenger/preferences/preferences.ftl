@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Zatvori
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -505,6 +507,17 @@ notification-name =
     .label = samo s imenom pošiljaoca
 notification-empty =
     .label = bez bilo kakvih informacija
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animiraj ikonicu u docku
+           *[other] Zatreperi stavku u traci zadataka
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Reproduciraj zvuk
     .accesskey = d
