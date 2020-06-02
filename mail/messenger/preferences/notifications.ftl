@@ -4,6 +4,7 @@
 
 notifications-dialog-window =
     .title = Benachrichtigungen
+customize-alert-description = In den Benachrichtigungen Folgendes anzeigen:
 preview-text-checkbox =
     .label = Textausschnitt
     .accesskey = T
