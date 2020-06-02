@@ -18,6 +18,7 @@
 <!ENTITY newListCmd.accesskey                           "D">
 <!ENTITY newAddressBookCmd.label                        "Imenik …">
 <!ENTITY newAddressBookCmd.accesskey                    "m">
+<!ENTITY newCardDAVBookCmd.label                        "Imenik CardDAV …">
 <!ENTITY newLDAPDirectoryCmd.label                      "Imenik LDAP …">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newMessageCmd.label                            "Sporočilo">
