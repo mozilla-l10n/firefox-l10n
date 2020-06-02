@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = თ
     .tooltiptext = შეიყვანეთ სასურველი URL-ბმული DNS-ის HTTPS-ით გადასაცემად
 connection-dns-over-https-custom-label = მითითებული
+connection-dialog-window =
+    .title = კავშირის პარამეტრები
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 45em !important
+        }
 connection-proxy-legend = პროქსის გამართვა ინტერნეტ კავშირისთვის
 proxy-type-no =
     .label = პროქსი არაა
@@ -58,3 +65,13 @@ no-proxy-label =
     .value = პროქსი არაა:
     .accesskey = n
 no-proxy-example = მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = შესვლის მოთხოვნის გამოტოვება, თუ პაროლი დამახსოვრებულია
+    .accesskey = ე
+    .tooltiptext = ამ მითითების შედეგად, პროქსის ანგარიშზე ავტომატურად შეხვალთ, თუ ანგარიშის მონაცემები დამახსოვრებული იქნება. ასევე გეცნობებათ, თუ შესვლა ვერ მოხერხდება.
+proxy-remote-dns =
+    .label = პროქსის DNS SOCKS v5-ის გამოყენებისას
+    .accesskey = D
+proxy-enable-doh =
+    .label = DNS-ის HTTPS-ით გადაცემის ჩართვა
+    .accesskey = ვ
