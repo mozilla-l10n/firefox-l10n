@@ -94,6 +94,17 @@ location-label =
     .accesskey = E
 default-search-engine = Mecanismo de pesquisa padrão
 new-message-arrival = Ao chegarem novas mensagens
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Tocar o arquivo de som:
+           *[other] Tocar um som
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] c
+        }
 mail-play-button =
     .label = Testar
     .accesskey = T
@@ -101,6 +112,7 @@ change-dock-icon = Mudar preferências do ícone
 app-icon-options =
     .label = Opções do ícone…
     .accesskey = n
+notification-settings = Alertas e a notificação sonoras padrão podem ser desativados no Painel de Notificações nas Preferências do Sistema.
 animated-alert-label =
     .label = Mostrar um alerta
     .accesskey = M
@@ -347,6 +359,8 @@ edit-directories-label =
 email-picker-label =
     .label = Ao enviar e-mails, criar contatos dos destinatários em:
     .accesskey = A
+default-last-label =
+    .none = Último diretório usado
 attachment-label =
     .label = Detectar ausência de anexos
     .accesskey = D
