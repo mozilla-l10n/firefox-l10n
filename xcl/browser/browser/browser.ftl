@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+##
+
 ## Tooltips for images appearing in the address bar
 
 
@@ -30,6 +34,8 @@
 ## Window controls
 
 ## WebRTC Pop-up notifications
+
+## WebRTC window or screen share tab switch warning
 
 ## DevTools F12 popup
 
