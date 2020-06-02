@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Privilegier">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Du har dessa privilegier:">
+<!ENTITY folderOtherUsers.label                  "Andra med tillgång till den här mappen:">
 <!ENTITY folderType.label                        "Typ av mapp:">
 
 <!ENTITY folderQuotaTab.label                    "Kvot">
