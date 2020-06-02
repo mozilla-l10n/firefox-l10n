@@ -7,3 +7,4 @@ dock-icon-show-label =
 count-unread-messages-radio =
     .label = Aantal ongelezen berichten
     .accesskey = o
+notification-settings-info = U kunt de badge uitschakelen via het paneel Berichtgeving in Systeemvoorkeuren.

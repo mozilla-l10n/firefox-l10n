@@ -21,18 +21,27 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latijns
 font-language-group-japanese =
     .label = Japans
 font-language-group-trad-chinese =
     .label = Traditioneel Chinees (Taiwan)
 font-language-group-simpl-chinese =
     .label = Vereenvoudigd Chinees
+font-language-group-trad-chinese-hk =
+    .label = Traditioneel Chinees (Hongkong)
 font-language-group-korean =
     .label = Koreaans
 font-language-group-cyrillic =
     .label = Cyrillisch
 font-language-group-el =
     .label = Grieks
+font-language-group-other =
+    .label = Andere schriftsystemen
+font-language-group-thai =
+    .label = Thais
 font-language-group-hebrew =
     .label = Hebreeuws
 font-language-group-arabic =
@@ -59,6 +68,18 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-math =
+    .label = Wiskunde
+font-language-group-odia =
+    .label = Odia
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Singalees
+font-language-group-tibetan =
+    .label = Tibetaans
 
 ## Default font type
 
@@ -66,6 +87,12 @@ default-font-serif =
     .label = Met schreef
 default-font-sans-serif =
     .label = Schreefloos
+font-size-label =
+    .value = Grootte:
+    .accesskey = G
+font-size-monospace-label =
+    .value = Grootte:
+    .accesskey = o
 font-serif-label =
     .value = Met schreef:
     .accesskey = s
@@ -93,6 +120,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Tekstcodering
+text-encoding-description = De standaard tekstcodering voor verzenden en ontvangen van e-mailberichten instellen
 font-outgoing-email-label =
     .value = Uitgaande e-mailberichten:
     .accesskey = U
+font-incoming-email-label =
+    .value = Inkomende e-mailberichten:
+    .accesskey = e
+default-font-reply-checkbox =
+    .label = Wanneer mogelijk, de standaard tekstcodering gebruiken in antwoorden
+    .accesskey = W
