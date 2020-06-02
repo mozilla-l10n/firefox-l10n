@@ -4,6 +4,7 @@
 
 calendar-title = Calendar
 calendar-title-reminder = Reminders
+calendar-title-category = Categories
 dateformat-label =
     .value = Date Text Format:
     .accesskey = D
@@ -133,6 +134,9 @@ edit-intab-label =
     .label = Edit events and tasks in a tab instead of in a dialog window.
     .accesskey = t
 accessibility-legend = Accessibility
+accessibility-colors-label =
+    .label = Optimize colours for accessibility
+    .accesskey = c
 reminder-legend = When a Reminder is Due:
 reminder-play-checkbox =
     .label = Play a sound
