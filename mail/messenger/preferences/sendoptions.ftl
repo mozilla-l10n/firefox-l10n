@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Saatmise valikud
 send-mail-title = Teksti vorming
+auto-downgrade-label =
+    .label = Kui võimalik, saada kirjad lihttekstina
+    .accesskey = v
 default-html-format-label = Kui saadetakse kiri HTML-ina ning üks või rohkem adressaatidest ei ole märgitud HTML-i lugejaks:
 html-format-ask =
     .label = küsitakse, mida teha

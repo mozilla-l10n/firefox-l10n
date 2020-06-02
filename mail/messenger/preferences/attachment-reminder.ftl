@@ -4,6 +4,7 @@
 
 attachment-reminder-window =
     .title = Manuse meeldetuletuse võtmesõnad
+attachment-reminder-label = { -brand-short-name } hoiatab sind puuduva manuse eest, kui oled saatmas kirja, mis sisaldab järgnevaid võtmesõnu.
 keyword-remove-button =
     .label = Kustuta
     .accesskey = K
