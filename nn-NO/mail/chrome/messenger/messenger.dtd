@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Adressebokkontakt…">
 <!ENTITY  newContactCmd.accesskey "k">
+<!ENTITY openMenuCmd.label "Opne">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Opne lagra melding…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Lagre som">
@@ -287,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Søk i meldingar…">
 <!ENTITY searchMailCmd.accesskey "k">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Globalt søk…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Søk i adresser …">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
@@ -728,6 +732,8 @@
 <!ENTITY idColumn.label "Motteke-rekkjefølgje">
 <!ENTITY attachmentColumn.label "Vedlegg">
 
+<!ENTITY deleteColumn.label "Slett">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vel kolonner du vil vise">
 <!ENTITY selectColumn.tooltip "Skift vel alle meldingane">
@@ -751,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Sorter etter: Plassering">
 <!ENTITY idColumn2.tooltip "Sorter etter: Mottaksrekkjefølgje">
 <!ENTITY attachmentColumn2.tooltip "Sorter etter: Vedlegg">
+
+<!ENTITY deleteColumn.tooltip "Slett ei melding">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Ny melding frå mal">
