@@ -42,6 +42,7 @@ restore-default-label =
     .label = Възстановяване
     .accesskey = В
 new-message-arrival = При пристигане на ново писмо:
+change-dock-icon = Промяна на настройките за иконката на приложението
 animated-alert-label =
     .label = Показване на известие
     .accesskey = и
@@ -60,7 +61,12 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Разрешаване на глобално търсене и индексиране
     .accesskey = Р
+mbox-store-label =
+    .label = Файл за всяка папка (mbox)
 scrolling-legend = Плъзгане
+check-default-button =
+    .label = Проверка сега…
+    .accesskey = е
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -79,6 +85,12 @@ return-receipts-description = Определяне как { -brand-short-name } 
 return-receipts-button =
     .label = Обратни разписки…
     .accesskey = б
+automatic-updates-label =
+    .label = Автоматично инсталиране на обновявания (препоръчва се: подобрява безопасността)
+    .accesskey = А
+check-updates-label =
+    .label = Проверка за обновявания, но пита преди да ги инсталира
+    .accesskey = П
 networking-legend = Връзка
 network-settings-button =
     .label = Настройки…
@@ -194,6 +206,9 @@ font-color-label =
 bg-color-label =
     .value = Цвят на фона:
     .accesskey = ф
+default-format-label =
+    .label = За формат по подразбиране да се използва Абзац вместо Основен текст
+    .accesskey = ф
 format-description = Настройка на правила за работа с текстовия формат
 send-options-label =
     .label = Настройки за изпращане…
@@ -225,6 +240,28 @@ cloud-account-description = Добавяне на нова услуга за с�
 
 ## Privacy Tab
 
+mail-content = Съдържание на писмата
+remote-content-label =
+    .label = Разрешаване на отдалечено съдържание в съобщенията
+    .accesskey = Р
+exceptions-button =
+    .label = Изключения…
+    .accesskey = з
+web-content = Уеб съдържание
+cookies-label =
+    .label = Разрешаване на бисквитки от сайтове
+    .accesskey = б
+third-party-always =
+    .label = Винаги
+third-party-never =
+    .label = Никога
+keep-label =
+    .value = Задържане до:
+    .accesskey = З
+keep-expire =
+    .label = загуба на валидност
+keep-ask =
+    .label = питане всеки път
 passwords-description = { -brand-short-name } може да запомни паролите на всичките ви регистрации.
 passwords-button =
     .label = Запазени пароли…
@@ -275,6 +312,16 @@ certificate-ask =
 
 ##
 
+notification-label = Когато пристигне пряко съобщение до вас:
+chat-system-sound-label =
+    .label = Стандартен системен звук за нови писма
+    .accesskey = С
+chat-custom-sound-label =
+    .label = Използване на следния звуков файл
+    .accesskey = И
+chat-browse-sound-button =
+    .label = Разглеждане…
+    .accesskey = Р
 
 ## Preferences UI Search Results
 
