@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Типовий ({ $name })
 fonts-label-default-unnamed =
     .label = Типово
+
 fonts-encoding-dialog-title =
     .title = Шрифти та кодування
+
 fonts-language-legend =
     .value = Шрифти для набору символів:
     .accesskey = Ш
+
 fonts-proportional-label =
     .value = Пропорційний:
     .accesskey = П
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Із засічками
+
 default-font-sans-serif =
     .label = Без засічок
+
 font-size-label =
     .value = Розмір:
     .accesskey = Р
+
 font-size-monospace-label =
     .value = Розмір:
     .accesskey = м
+
 font-serif-label =
     .value = Із засічками:
     .accesskey = І
+
 font-sans-serif-label =
     .value = Без засічок:
     .accesskey = Б
+
 font-monospace-label =
     .value = Моноширний:
     .accesskey = М
+
 font-min-size-label =
     .value = Найменший розмір шрифту:
     .accesskey = Н
+
 min-size-none =
     .label = Немає
 
 ## Fonts in message
 
 font-control-legend = Керування шрифтами
+
 use-document-fonts-checkbox =
     .label = Дозволити листам використовувати інші шрифти
     .accesskey = Р
+
 use-fixed-width-plain-checkbox =
     .label = Використовувати шрифт фіксованої ширини для листів простим текстом
     .accesskey = ф
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Набори символів
+
 text-encoding-description = Виберіть стандартні кодування листів для відісланої та отриманої пошти
+
 font-outgoing-email-label =
     .value = Вихідна пошта:
     .accesskey = и
+
 font-incoming-email-label =
     .value = Вхідна пошта:
     .accesskey = і
+
 default-font-reply-checkbox =
     .label = Вживати стандартне кодування символів у відповідях на листи, коли це можливо
     .accesskey = с

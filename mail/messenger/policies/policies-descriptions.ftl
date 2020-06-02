@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Якщо значення false, апаратне 
 
 policy-InstallAddonsPermission = Дозволити певним вебсайтам встановлювати додатки.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Дозволити певним вебсайтам посилатися на локальні файли.
 
 policy-NetworkPrediction = Ввімкнути чи вимкнути прогнозування мережі (попереднє отримання DNS).

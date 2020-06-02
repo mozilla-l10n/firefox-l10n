@@ -16,3 +16,4 @@ accounts-default = Типово?
 identity-name = Ідентифікація
 
 send-via-email = Надіслати електронною поштою
+

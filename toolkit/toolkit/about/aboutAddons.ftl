@@ -609,9 +609,6 @@ updates-heading = Керуйте своїми оновленнями
 discover-heading = Персоналізуйте свій { -brand-short-name }
 shortcuts-heading = Керувати комбінаціями клавіш розширень
 
-theme-heading-search-label = Знайти інші теми
-extension-heading-search-label = Знайти інші розширення
-
 default-heading-search-label = Знайти більше додатків
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
