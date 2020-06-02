@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Nova etiqueta
+
 tag-name-label =
     .value = Nome da etiqueta:
     .accesskey = N
