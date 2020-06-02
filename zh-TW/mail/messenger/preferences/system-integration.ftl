@@ -19,6 +19,14 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = 消息來源
     .tooltiptext = { unset-default-tooltip }
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+system-search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows 搜尋
+       *[other] { "" }
+    }
 system-search-integration-label =
     .label = 允許 { system-search-engine-name } 搜尋訊息
     .accesskey = s
