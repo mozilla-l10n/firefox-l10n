@@ -591,9 +591,6 @@ updates-heading = Pamahalaan ang Iyong Mga Update
 discover-heading = Ipasadya mo ang Iyong { -brand-short-name }
 shortcuts-heading = I-manage ang mga Extension Shortcut
 
-theme-heading-search-label = Maghanap pa ng ibang mga tema
-extension-heading-search-label = Maghanap pa ng ibang mga extension
-
 default-heading-search-label = Maghanap ng mga karagdagang add-on
 addons-heading-search-input =
     .placeholder = Hanapin sa addons.mozilla.org

@@ -285,10 +285,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Na-block mo ang access sa MIDI para sa website na ito.">
 <!ENTITY urlbar.installBlocked.tooltip           "Hinarang mo ang pagkabit ng mga add-on sa website na ito.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.">
 
 
 <!ENTITY searchItem.title             "Hanapin">
@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "I-customize...">
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
+
 <!ENTITY overflowCustomizeToolbar.label       "I-customize ang Toolbar...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
@@ -885,54 +886,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Buksan ang mga Kagustuhan sa Content Blocking">
 
 
-<!ENTITY protections.etpON.header "Nakabukas ang Enhanced Tracking Protection para sa site na ito">
-<!ENTITY protections.etpOFF.header "Sarado ang Enhanced Tracking Protection para sa site na ito">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Karagdagang impormasyon tungkol sa Enhanced Tracking Protection">
-<!ENTITY protections.settings.label "Mga Protection Setting">
-<!ENTITY protections.showreport.label "Ipakita ang Ulat">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Hindi gumagana ang site?">
-<!ENTITY protections.siteNotWorkingView.title "Hindi Gumagana ang Site?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Isara ang mga proteksyon kung nagkakaroon ka ng mga issue sa:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Mga login field">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Mga form">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Mga kabayaran">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Mga komento">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Mga video">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Magpadala ng report">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Hinarang">
-<!ENTITY protections.notBlocking2.label "Pinapayagan">
-<!ENTITY protections.notFound.label "Walang Nakita">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Bakit?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Maaaring masira ang ilang parte ng ilang website kapag hinarang ang mga ito. Kapag walang mga tracker, may mga button, form, at login field na maaaring hindi gumana.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Lahat ng mga tracker sa site na ito ay nag-load dahil nakasara ang mga protection.">
-<!ENTITY protections.noTrackersFound.description "Walang mga tracker na kilala ng &brandShortName; na natuklasan sa pahinang ito.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Sinusundan ka ng mga cookie na ito sa iba't-ibang mga site para matyagan ka sa kung ano ang ginagawa mo online. Itinakda ito ng mga third party kagaya ng mga advertiser at kumpanyang may kinalaman sa analytics.">
-<!ENTITY protections.cryptominers.description "Ginagamit ng mga cryptominer ang computing power ng sistema mo para kumita ng digital na pera. Ang mga cryptomining script ay nakakaubos ng baterya mo, nagpapabagal sa computer, at pwedeng dumagdag sa bayarin mo sa kuryente.">
-<!ENTITY protections.fingerprinters.description "Ang mga fingerprinter ay nangongolekta ng mga setting sa browser at computer mo para makilala ka. Gamit ang digital fingerprint na ito, pwede ka nilang manmanan sa iba't-ibang mga website.">
-<!ENTITY protections.trackingContent2.description "Ang mga website ay maaaring mag-load ng mga external ad, video, at iba pang content na may tracking code. Ang pagharang sa tracking content ay makatutulong sa mga site na mag-load nang mas mabilis, pero may mga button, form, at login field na maaaring hindi gumana.">
-<!ENTITY protections.socialMediaTrackers.description "Naglalagay ng mga tracker ang mga social network sa ibang mga website para sundan ang iyong mga ginagawa, tinitingnan, at pinapanood online. Dahil dito'y mas nakikilala ka ng mga kumpanya ng social media bukod sa kung ano ang ibinabahagi mo sa iyong social media profile.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Mga tab ng browser">
@@ -977,13 +930,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Mga cookie">
 <!ENTITY contentBlocking.cookiesView.label "Mga Cookie at Site Data">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Mga Tracking Content">
-
-<!ENTITY contentBlocking.manageSettings2.label "I-manage ang mga Protection Setting">
-<!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
-<!ENTITY contentBlocking.socialblock.label "Mga Social Media Tracker">
-
 <!ENTITY contentBlocking.cryptominers.label "Mga Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Mga cryptominer">
 
@@ -995,12 +941,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Ang pagharang ng content ay maaaring maging dahilan ng problema sa ilang mga website. Kapag nag-ulat ka ng mga problema, matutulungan mong pahusayin ang &brandShortName; para sa lahat. (Ito ay magpapadala ng URL at impormasyon tungkol sa iyong mga browser setting sa Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Alamin pa">
 
-<!ENTITY contentBlocking.breakageReportView.title "Mag-ulat ng Sirang Site">
-<!ENTITY contentBlocking.breakageReportView3.description "Ang pagharang ng ilang mga tracker ay maaaring maging dahilan ng problema sa ilang mga website. Ang pag-ulat ng mga problemang ito ay nakatutulong pahusayin ang &brandShortName; para sa lahat. Ang pagpapadala ng ulat na ito ay magpapadala ng URL at impormasyon tungkol sa iyong mga browser setting sa Mozilla.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Alamin">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Anong mga problema ang mayroon ka? (Optional)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opsyonal: Ilarawan ang problema">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Magpasa ng Report">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Kanselahin">
 

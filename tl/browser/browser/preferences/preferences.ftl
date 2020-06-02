@@ -381,8 +381,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Gamitin ang { $plugin-name } (sa { -brand-short-name })
-applications-preview-inapp =
-    .label = Paunang-tingin sa { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -396,9 +394,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -614,11 +609,16 @@ home-prefs-topsites-header =
     .label = Mga Pangunahing Site
 home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Inirekomenda ni { $provider }
 home-prefs-recommended-by-description = Magagandang mga content na galing sa web, inakma para sa iyo.
+##
+
 home-prefs-recommended-by-learn-more = Paano ito gumagana
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Mga Na-sponsor na Kwento
@@ -938,9 +938,9 @@ privacy-header = Browser Privacy
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Mga Login at mga Password
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Mga Login at mga Password
@@ -1181,7 +1181,6 @@ content-blocking-warning-title = Mag-ingat!
 content-blocking-warning-description = Ang pagharang sa mga content ay maaaring maging sanhi para masira ang ilang mga website. Madali namang mag-disable ng pagharang para sa mga pinagkakatiwalaang site.
 content-blocking-learn-how = Alamin kung papaano
 
-content-blocking-etp-warning-description = Ang pag-block sa mga tracker ay maaaring maka-apekto sa functionality ng ilang mga site. Mag-reload ng pahina na may mga tracker para mai-load lahat ng content.
 content-blocking-warning-learn-how = Alamin kung paano
 
 content-blocking-reload-description = Kailangan mong i-reload ang iyong mga tab upang makita ang mga pagbabago.
