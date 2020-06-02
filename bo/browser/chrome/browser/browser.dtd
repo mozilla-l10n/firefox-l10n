@@ -340,6 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "རང་མོས་སྒྲིག་འགོད…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "ལག་ཆའི་ངོས་རང་མོས་སྒྲིག་འགོས…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 

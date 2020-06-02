@@ -489,6 +489,11 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+##
+
 ## Search Section
 
 search-bar-header = འཚོལ་བཤེར་ངོས
@@ -696,9 +701,9 @@ privacy-header = Browser Privacy
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = ནང་འཇུག་དང་གསང་གྲངས
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = ནང་འཇུག་དང་གསང་གྲངས

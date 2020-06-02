@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -121,10 +123,12 @@ urlbar-canvas-blocked =
     .tooltiptext = You have blocked canvas data extraction for this website.
 urlbar-midi-blocked =
     .tooltiptext = You have blocked MIDI access for this website.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -156,6 +160,7 @@ search-one-offs-change-settings-button =
     .label = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
 search-one-offs-change-settings-compact-button =
     .tooltiptext = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
+
 search-one-offs-context-open-new-tab =
     .label = ཡན་ལག་ངོས་གསར་བའི་ནང་དུ་འཚོལ་བ
     .accesskey = T
@@ -168,8 +173,10 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Show editor when saving
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Done
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -247,9 +254,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser is under remote control
 urlbar-switch-to-tab =
     .value = Switch to tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ཟུར་སྣོན:
+
 urlbar-go-button =
     .tooltiptext = གནས་ཁོངས་ངོས་ཀྱི་དྲ་གནས་ཐོག་ཏུ་སྐྱོད་པ
 urlbar-page-action-button =
