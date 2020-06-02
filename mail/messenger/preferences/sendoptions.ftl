@@ -2,7 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sendoptions-dialog-window =
+    .title = Sendeoptionen
 send-mail-title = Textformat
+auto-downgrade-label =
+    .label = Nachrichten falls möglich als Reintext senden
+    .accesskey = t
 default-html-format-label = Beim Senden von Nachrichten im HTML-Format an Empfänger, die laut Liste HTML nicht empfangen können oder wollen:
 html-format-ask =
     .label = Fragen, wie gesendet werden soll

@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = Offline-Einstellungen
+autodetect-online-label =
+    .label = Automatisch erkannten Online-/Offline-Status verwenden
+    .accesskey = u
+startup-label = Benutzerdefinierter Zustand beim Programmstart:
 status-radio-remember =
     .label = Vorherigen Online-/Offline-Status merken
     .accesskey = V
+status-radio-ask =
+    .label = Fragen, ob man online arbeiten möchte
+    .accesskey = F
+status-radio-always-online =
+    .label = Immer online starten
+    .accesskey = l
+status-radio-always-offline =
+    .label = Immer offline starten
+    .accesskey = m
 going-online-label = Postausgang senden, sobald man im Online-Modus ist:
 going-online-auto =
     .label = Ja
