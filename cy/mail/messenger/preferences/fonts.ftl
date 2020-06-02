@@ -95,3 +95,6 @@ use-fixed-width-plain-checkbox =
 font-outgoing-email-label =
     .value = Anfon E-bost:
     .accesskey = A
+font-incoming-email-label =
+    .value = Derbyn E-bost:
+    .accesskey = D
