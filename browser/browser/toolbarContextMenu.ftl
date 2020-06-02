@@ -20,12 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Qapatılan vərəqləri geri al
     .accesskey = g
+
 toolbar-context-menu-manage-extension =
     .label = Uzantını idarə et
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Uzantını Sil
     .accesskey = v
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

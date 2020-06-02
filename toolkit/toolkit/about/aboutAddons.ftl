@@ -407,9 +407,6 @@ locale-heading = Dillərini idarə et
 discover-heading = { -brand-short-name } səyyahınızı şəxsiləşdirin
 shortcuts-heading = Uzantı Qısa-yollarını İdarə et
 
-theme-heading-search-label = Daha çox mövzu tap
-extension-heading-search-label = Daha çox uzantı tap
-
 addons-heading-search-input =
     .placeholder = addons.mozilla.org saytında axtar
 

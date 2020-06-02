@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Məxfi Səyahət)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Məxfi Səyahət)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Məxfi Səyahət)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Məxfi Səyahət)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -131,10 +133,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sayt üçün lövhə (canvas) məlumatı çıxartmanı əngəllədiniz.
 urlbar-midi-blocked =
     .tooltiptext = Bu saytın MIDI işlətməsini əngəlləmisiniz.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Bu əlfəcini redaktə et ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -163,12 +167,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Bu dəfə bununla axtarın:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Axtarış Tənzimləmələrini Dəyiş
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Axtarış tənzimləmələrinizi dəyişdir
+
 search-one-offs-context-open-new-tab =
     .label = Yeni vərəqdə axtar
     .accesskey = v
@@ -184,8 +190,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Yadda saxlarkən redaktoru göstər
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Bitdi
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -263,9 +271,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Səyyah uzaqdan idarədədir
 urlbar-switch-to-tab =
     .value = Keçiləcək vərəq:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
+
 urlbar-go-button =
     .tooltiptext = Ünvan Sətrindəki ünvanı aç
 urlbar-page-action-button =
