@@ -149,6 +149,14 @@ always-check-default =
 check-default-button =
     .label = Verificar agora…
     .accesskey = V
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Search
+       *[other] { "" }
+    }
 search-integration-label =
     .label = Permitir que o { search-engine-name } pesquise em mensagens
     .accesskey = P
@@ -261,6 +269,9 @@ choose-folder-label =
 always-ask-label =
     .label = Sempre perguntar onde salvar arquivos
     .accesskey = e
+edit-tag-button =
+    .label = Editar…
+    .accesskey = E
 delete-tag-button =
     .label = Excluir
     .accesskey = x
@@ -371,6 +382,10 @@ enable-cloud-share =
     .label = Oferecer compartilhamento para arquivos maiores que
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Adicionar…
+    .accesskey = A
+    .defaultlabel = Adicionar…
 remove-cloud-account =
     .label = Remover
     .accesskey = R
@@ -527,6 +542,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Procurar…
     .accesskey = P
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bolhas
+style-dark =
+    .label = Escuro
+style-paper =
+    .label = Folhas de papel
+style-simple =
+    .label = Simples
+preview-label = Pré-visualizar:
+no-preview-label = Nenhum pré-visualização disponível
+no-preview-description = Este tema não é válido ou está atualmente indisponível (extensão desativada, modo de segurança, …).
+chat-variant-label =
+    .value = Variante:
+    .accesskey = V
+chat-header-label =
+    .label = Exibir cabeçalho
+    .accesskey = C
 
 ## Preferences UI Search Results
 
