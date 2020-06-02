@@ -9,6 +9,7 @@ system-integration-dialog =
     .buttonlabelcancel = Yntegraasje oerslaan
     .buttonlabelcancel2 = Annulearje
 default-client-intro = { -brand-short-name } as standertprogramma brûke foar:
+unset-default-tooltip = It is net mooglik om it ynstellen fan { -brand-short-name } as de standerrclient yn { -brand-short-name } ûngedien te meitsjen. Om in oare tapassing de standertclient te meitsjen, moatte jo it dialoochfinster ‘As standert ynstellen’ dêrfan brûke.
 checkbox-email-label =
     .label = E-mail
     .tooltiptext = { unset-default-tooltip }
