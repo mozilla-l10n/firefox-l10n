@@ -14,6 +14,8 @@ rights-webservices-header = { -brand-full-name } nettbaserte informasjonsteneste
 rights-webservices = { -brand-full-name } brukar nettbaserte informasjonstenester («Tenester») for å gjere nokre av funksjonane tilgjengelege i den binære versjonen av { -brand-short-name }, under vilkår som er skildra nedanfor. Dersom du ikkje ønskjer å bruke ei eller fleire av tenestene, eller om du ikkje kan akseptere vilkåra, kan du slå av funksjonen eller tenesta/tenestene. Instruksjonar om korleis du slår av ein bestemt funksjon eller teneste finn du <a data-l10n-name="mozilla-disable-service-link">her</a>. Andre funksjonar og tenester kan slåast av i program-innstillingane.
 rights-locationawarebrowsing = <strong>Stad-medviten nettlesing:</strong>er alltid ein funksjon du må aktivt velje å slå på for at han skal brukast. Ingen stadinfo vert sendt utan at du gjev løyve til det. Dersom du ønskjer å slå av denne funksjonen heilt, følg desse stega:
 rights-locationawarebrowsing-term-1 = I adresselinja, skriv du inn <code>about:config</code>
+rights-locationawarebrowsing-term-2 = Skriv inn geo.enabled
+rights-locationawarebrowsing-term-3 = Dobbelklikk på geo.enabled preference
 rights-locationawarebrowsing-term-4 = Stad-medviten nettlesing er no slått av
 rights-webservices-unbranded = Ei oversikt over informasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.
 rights-webservices-term-unbranded = Andre tenestevilkår for dette produktet bør førast opp her.
