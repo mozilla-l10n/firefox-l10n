@@ -108,9 +108,23 @@ search-engine-name =
 
 ##
 
+enable-cloud-share =
+    .label = Offrire la condivisione per file più grandi di
+cloud-share-size =
+    .value = MB
 
 ## Privacy Tab
 
+mail-content = Contenuto della posta
+exceptions-button =
+    .label = Eccezioni…
+    .accesskey = E
+remote-content-info =
+    .value = Maggiori informazioni sui problemi di privacy dei contenuti remoti
+web-content = Contenuto web
+cookies-button =
+    .label = Mostra i cookie…
+    .accesskey = o
 passwords-description = { -brand-short-name } può memorizzare le password per tutti gli account.
 passwords-button =
     .label = Password salvate…
@@ -132,17 +146,26 @@ junk-move-label =
 junk-delete-label =
     .label = Eliminali
     .accesskey = E
+junk-read-label =
+    .label = Segna come già letti tutti i messaggi riconosciuti come posta indesiderata
+    .accesskey = M
 junk-log-label =
     .label = Attiva registro attività del filtro incrementale per la posta indesiderata
     .accesskey = A
 junk-log-button =
     .label = Mostra registro attività
     .accesskey = S
+reset-junk-button =
+    .label = Elimina i dati di autoistruzione
+    .accesskey = z
 phishing-description = { -brand-short-name } è in grado di analizzare i messaggi alla ricerca di possibili tentativi di frode, individuando le tecniche più comuni per questo tipo di truffe.
 phishing-label =
     .label = Avvisa sempre se il messaggio che si sta leggendo è un possibile tentativo di frode
     .accesskey = e
 antivirus-description = { -brand-short-name } è in grado di semplificare il lavoro del software antivirus, permettendo l'analisi della posta in arrivo prima che venga salvata localmente.
+antivirus-label =
+    .label = Consenti ai programmi antivirus di mettere in quarantena i singoli messaggi in arrivo.
+    .accesskey = n
 
 ## Chat Tab
 
