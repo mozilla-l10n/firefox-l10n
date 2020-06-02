@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Fechar
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -70,6 +72,7 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+addons-button = Extensões e temas
 
 ## OS Authentication dialog
 
@@ -114,6 +117,9 @@ mail-play-sound-label =
             [macos] d
            *[other] d
         }
+mail-play-button =
+    .label = Reproduzir
+    .accesskey = T
 notification-settings = Os alertas e o som pode ser desativado no painel Notificações das preferências do sistema.
 animated-alert-label =
     .label = Mostrar um alerta
@@ -134,6 +140,10 @@ enable-gloda-search-label =
     .label = Ativar pesquisa global e indexação
     .accesskey = e
 datetime-formatting-legend = Formatação de data e hora
+language-selector-legend = Idioma
+allow-hw-accel =
+    .label = Se disponível, utilizar aceleração de hardware
+    .accesskey = h
 store-type-label =
     .value = Tipo de armazenamento de mensagem para novas contas:
     .accesskey = T
@@ -148,6 +158,9 @@ autoscroll-label =
 smooth-scrolling-label =
     .label = Utilizar deslocação suave
     .accesskey = u
+always-check-default =
+    .label = Verificar sempre se o { -brand-short-name } é o cliente de correio predefinido no arranque
+    .accesskey = A
 check-default-button =
     .label = Verificar agora…
     .accesskey = V
@@ -173,6 +186,7 @@ update-app-legend = Atualizações do { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Versão { $version }
+allow-description = Permitir ao { -brand-short-name }
 automatic-updates-label =
     .label = Instalar atualizações automaticamente (recomendado: segurança melhorada)
     .accesskey = a
@@ -185,6 +199,7 @@ update-history-button =
 use-service =
     .label = Utilizar um serviço em segundo plano para instalar atualizações
     .accesskey = t
+cross-user-udpate-warning = Esta definição irá ser aplicada a todas as contas do Windows e perfis do { -brand-short-name } utilizando esta instalação do { -brand-short-name }.
 networking-legend = Ligação
 proxy-config-description = Configure o modo de ligãção do { -brand-short-name } à Internet.
 network-settings-button =
@@ -354,6 +369,9 @@ auto-save-end = minutos
 
 ##
 
+warn-on-send-accel-key =
+    .label = Confirmar quando utilizar atalhos de teclado para enviar mensagem
+    .accesskey = C
 spellcheck-label =
     .label = Verificar ortografia antes de enviar
     .accesskey = V
@@ -363,9 +381,16 @@ spellcheck-inline-label =
 language-popup-label =
     .value = Idioma:
     .accesskey = I
+download-dictionaries-link = Transferir mais dicionários
 font-label =
     .value = Tipo de letra:
     .accesskey = l
+font-size-label =
+    .value = Tamanho:
+    .accesskey = z
+default-colors-label =
+    .label = Utilizar as cores predefinidas do leitor
+    .accesskey = d
 font-color-label =
     .value = Cor do texto:
     .accesskey = t
@@ -419,6 +444,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Remover
     .accesskey = R
+find-cloud-providers =
+    .value = Encontre mais fornecedores…
 cloud-account-description = Adicionar um novo serviço de armazenamento Filelink
 
 ## Privacy Tab
@@ -551,6 +578,12 @@ notification-name =
     .label = apenas com o nome do remetente
 notification-empty =
     .label = sem informação nenhuma
+chat-play-sound-label =
+    .label = Reproduzir um som
+    .accesskey = d
+chat-play-button =
+    .label = Reproduzir
+    .accesskey = r
 chat-system-sound-label =
     .label = Som pré-definido para novo correio
     .accesskey = d
@@ -560,6 +593,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Navegar…
     .accesskey = N
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bolhas
+style-dark =
+    .label = Escuro
+style-paper =
+    .label = Folhas de papel
+style-simple =
+    .label = Simples
+preview-label = Pré-visualização:
+no-preview-label = Sem pré-visualização disponível
+no-preview-description = Este tema não é válido ou está atualmente indisponível (extra desativado, modo de segurança, …).
+chat-variant-label =
+    .value = Variante:
+    .accesskey = V
+chat-header-label =
+    .label = Mostrar cabeçalho
+    .accesskey = C
 
 ## Preferences UI Search Results
 
