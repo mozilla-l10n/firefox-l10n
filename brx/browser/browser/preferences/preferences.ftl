@@ -227,8 +227,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } खौ ({ -brand-short-name } आव) बाहाय
-applications-preview-inapp =
-    .label = गिबि नुथायखौ { -brand-short-name } आव नाय
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -242,9 +240,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -362,10 +357,15 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = गिबि साइटफोर
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } आ बसोन होनाइ
+##
+
 home-prefs-recommended-by-learn-more = बेयो माबादि खामानि मावो
 
 home-prefs-highlights-header =
@@ -503,9 +503,9 @@ sync-fxa-privacy-notice = गुमुरथि मिथिसारहोन�
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = लगिनफोर आरो पासवर्डफोर
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = लगिनफोर आरो पासवर्डफोर
