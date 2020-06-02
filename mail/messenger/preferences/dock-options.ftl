@@ -5,16 +5,22 @@
 dock-options-window-dialog =
     .title = Innstillingar for app-ikon
     .style = width: 35em;
+
 bounce-system-dock-icon =
     .label = Animer app-ikonet når det kjem ny melding
     .accesskey = A
+
 dock-icon-legend = App-ikon merke
+
 dock-icon-show-label =
     .value = Merk app-ikonet med:
+
 count-unread-messages-radio =
     .label = Tal  på ulesne meldingar
     .accesskey = u
+
 count-new-messages-radio =
     .label = Tal på nye meldingar
     .accesskey = n
+
 notification-settings-info = Du kan skru av merket på varselpanelet i systeminnstillingar.

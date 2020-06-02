@@ -604,9 +604,6 @@ updates-heading = Handter oppdateringar
 discover-heading = Tilpass { -brand-short-name }
 shortcuts-heading = Handter snarvegar for utvidingar
 
-theme-heading-search-label = Finn fleire tema
-extension-heading-search-label = Finn fleire utvidingar
-
 default-heading-search-label = Finn fleire tillegg
 addons-heading-search-input =
     .placeholder = Søk på addons.mozilla.org

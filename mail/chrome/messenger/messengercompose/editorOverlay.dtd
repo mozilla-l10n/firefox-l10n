@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Søk etter tekst på sida">
 <!ENTITY spellToolbarCmd.label "Stavekontroll">
 <!ENTITY spellToolbarCmd.tooltip "Kontroller merkt område eller heile sida for stavefeil">
+
 <!ENTITY imageToolbarCmd.label "Bilde">
 <!ENTITY imageToolbarCmd.tooltip "Set inn nytt bilde eller rediger eigenskapane til det valde bildet">
 <!ENTITY hruleToolbarCmd.label "Horisontal linje">

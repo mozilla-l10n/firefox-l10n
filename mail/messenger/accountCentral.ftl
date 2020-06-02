@@ -4,3 +4,4 @@
 
 newsgroups-label = Temagrupper
     .aria-label = Kopla til ei temagruppe
+
