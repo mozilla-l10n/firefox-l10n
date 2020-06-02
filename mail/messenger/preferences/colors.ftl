@@ -8,3 +8,6 @@ text-color-label =
 background-color-label =
     .value = Latar Belakang:
     .accesskey = L
+colors-link-legend = Warna Tautan
+override-color-always =
+    .label = Selalu
