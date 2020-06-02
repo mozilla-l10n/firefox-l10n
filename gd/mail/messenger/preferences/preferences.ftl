@@ -5,6 +5,12 @@
 pane-compose-title = Sgrìobhadh
 category-compose =
     .tooltiptext = Sgrìobhadh
+pane-chat-title = Cabadaich
+category-chat =
+    .tooltiptext = Cabadaich
+pane-calendar-title = Am mìosachan
+category-calendar =
+    .tooltiptext = Am mìosachan
 choose-messenger-language-description = Tagh an cànan a chithear sna clàran-taice, teachdaireachd is brathan o { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Suidhich roghainnean eile...
@@ -45,6 +51,9 @@ animated-alert-label =
 customize-alert-label =
     .label = Gnàthaich…
     .accesskey = c
+tray-icon-label =
+    .label = Seall ìomhaigheag san treidhe
+    .accesskey = t
 mail-custom-sound-label =
     .label = Cleachd an fhuaim a leanas
     .accesskey = u
@@ -54,10 +63,20 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Cuir an lorg is an clàr-innsiche uile-choitcheann an comas
     .accesskey = e
+scrolling-legend = Sgroladh
+autoscroll-label =
+    .label = Cleachd fèin-sgroladh
+    .accesskey = o
+smooth-scrolling-label =
+    .label = Cleachd sgroladh rèidh
+    .accesskey = h
 system-integration-legend = Co-fhilleadh an t-siostaim
 always-check-default =
     .label = Bheir { -brand-short-name } sùil an e e fhèin do roghainn prògram nam post-dealain gach turas a thòiseachas e
     .accesskey = a
+check-default-button =
+    .label = Thoir sùil an-dràsta…
+    .accesskey = n
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -76,6 +95,9 @@ return-receipts-description = Suidhich mar a làimhsicheas { -brand-short-name }
 return-receipts-button =
     .label = Bannan-cuidhteis…
     .accesskey = B
+use-service =
+    .label = Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh
+    .accesskey = b
 networking-legend = Ceangal
 proxy-config-description = Rèitich mar a cheanglas { -brand-short-name } ris an lìon
 network-settings-button =
@@ -86,6 +108,11 @@ offline-settings = Rèitich na roghainnean airson obrachadh far loidhne
 offline-settings-button =
     .label = Far loidhne…
     .accesskey = o
+offline-compact-folder =
+    .label = CDùmhlaich na pasgain nan sàbhaladh seo barrachd air
+    .accesskey = a
+compact-folder-size =
+    .value = MB uile gu lèir
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -110,6 +137,9 @@ default-size-label =
 font-options-button =
     .label = Adhartach…
     .accesskey = A
+color-options-button =
+    .label = Dathan…
+    .accesskey = D
 display-width-legend = Teachdaireachdan ann an teacsa lom
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -136,6 +166,9 @@ bigger-size-item =
     .label = Nas motha
 smaller-size-item =
     .label = Nas lugha
+quoted-text-color =
+    .label = Dath:
+    .accesskey = h
 search-input =
     .placeholder = Lorg
 type-column-label =
@@ -235,6 +268,14 @@ attachment-label =
 attachment-options-label =
     .label = Faclan air a dh'aithnichear iad…
     .accesskey = F
+enable-cloud-share =
+    .label = Mol co-roinneadh airson faidhlichean a tha nas motha na
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Thoir air falbh
+    .accesskey = T
+cloud-account-description = Cuir seirbheis stòrais Filelink ùr ris
 
 ## Privacy Tab
 
@@ -258,6 +299,9 @@ junk-delete-label =
 junk-read-label =
     .label = Cuir comharra mar gum biodh teachdaireachd air a leughadh ma tha comharra truilleis ris
     .accesskey = m
+junk-log-label =
+    .label = Cuir an comas logadh criathradh glic na truilleis
+    .accesskey = e
 junk-log-button =
     .label = Seall an loga
     .accesskey = S
@@ -275,6 +319,13 @@ certificate-ask =
 
 ## Chat Tab
 
+startup-label =
+    .value = Nuair a thòisicheas { -brand-short-name }:
+    .accesskey = s
+offline-label =
+    .label = Cum na cunntasan cabadich agam far loidhne
+auto-connect-label =
+    .label = Dèan ceangal ris na cunntasan cabadaich agam gu fèin-obrachail
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -282,9 +333,16 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Nochd dhan luchd-aithne agam gu bheil mi 'nam thàmh an dèidh
+    .accesskey = N
+idle-time-label = mionaid(ean) 's mi gun dad a dhèanamh
 
 ##
 
+send-typing-label =
+    .label = Nochd ann an còmhradh ma bhios cuideigin a' sgrìobhadh rud
+    .accesskey = c
 
 ## Preferences UI Search Results
 
