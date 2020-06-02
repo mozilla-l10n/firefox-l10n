@@ -291,10 +291,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Blokirali ste ovu web stranicu da koristi Adobe Flash plugin.">
 
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici ste dodijelili dodatne dozvole.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži historiju">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici ste dodijelili dodatne dozvole.">
 
 
 <!ENTITY searchItem.title             "Pretraga">
@@ -404,6 +404,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Prilagođavanje…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+
 <!ENTITY overflowCustomizeToolbar.label       "Prilagodi alatnu traku…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 

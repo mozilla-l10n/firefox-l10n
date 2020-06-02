@@ -299,6 +299,7 @@
 <!ENTITY findToolbarCmd.tooltip "Pronađi tekst na stranici">
 <!ENTITY spellToolbarCmd.label "Pravopis">
 <!ENTITY spellToolbarCmd.tooltip "Provjeri pravopis izabranog teksta ili cijele stranice">
+
 <!ENTITY imageToolbarCmd.label "Slika">
 <!ENTITY imageToolbarCmd.tooltip "Umetni novu sliku ili promijeni postavke izabrane slike">
 <!ENTITY hruleToolbarCmd.label "H.Linija">

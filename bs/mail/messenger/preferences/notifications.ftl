@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Prilagodi obavijest o novoj poruci
+
 customize-alert-description = Odaberite koja će se polja prikazivati u obavijesti:
+
 preview-text-checkbox =
     .label = Tekst poruke
     .accesskey = M
+
 subject-checkbox =
     .label = Naslov
     .accesskey = S
+
 sender-checkbox =
     .label = Pošiljalac
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Prikaži obavjest o novoj pošti na
     .accesskey = N
+
 open-time-label-after =
     .value = sekundi
