@@ -2,12 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Slute
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opsjes
+           *[other] Foarkarren
+        }
 pane-general-title = Algemien
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = Opstelle
 category-compose =
     .tooltiptext = Opstelle
+pane-privacy-title = Privacy en Befeiliging
+category-privacy =
+    .tooltiptext = Privacy en Befeiliging
 pane-chat-title = Chat
 category-chat =
     .tooltiptext = Chat
@@ -64,6 +75,7 @@ update-in-progress-ok-button = &Ferwerpe
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Trochgean
+addons-button = Utwreidingen & Tema's
 
 ## OS Authentication dialog
 
@@ -81,6 +93,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = { -brand-short-name }-startside
 start-page-label =
     .label = Wannear't { -brand-short-name } start, de startside yn it berjochtdiel toane
@@ -89,7 +105,27 @@ restore-default-label =
     .label = Standertynstelling tebeksette
     .accesskey = S
 default-search-engine = Standertsykmasine
+add-search-engine =
+    .label = Tafoegje út bestân
+    .accesskey = T
+remove-search-engine =
+    .label = Fuortsmite
+    .accesskey = u
+minimize-to-tray-label =
+    .label = Nei de systeembalke ferpleatse wannear { -brand-short-name } minimalisearre is
+    .accesskey = m
 new-message-arrival = As nije berjochten oankomme:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Spylje it folgjende lûdsbestân:
+           *[other] In lûd ôfspylje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] l
+        }
 mail-play-button =
     .label = Ofspylje
     .accesskey = f
@@ -97,6 +133,7 @@ change-dock-icon = Wizigje eigenskippen fan it programmasymboal
 app-icon-options =
     .label = Programmasymboalopsjes…
     .accesskey = p
+notification-settings = Warskôgingen en it standert lûd kinne útskeakele wurde fia it paniel Berjochtjouwing yn Systeemfoarkarren.
 animated-alert-label =
     .label = In melding toane
     .accesskey = t
@@ -112,6 +149,35 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Blêdzje…
     .accesskey = B
+enable-gloda-search-label =
+    .label = Globaal sykje en yndeksearder ynskeakelje
+    .accesskey = y
+datetime-formatting-legend = Datum- en tiidnotaasje
+language-selector-legend = Taal
+allow-hw-accel =
+    .label = Hardwarefersnelling brûke wannear beskikber
+    .accesskey = f
+store-type-label =
+    .value = Type berjochtenopslach foar nije accounts:
+    .accesskey = b
+mbox-store-label =
+    .label = Ien bestân per map (mbox)
+maildir-store-label =
+    .label = Ien bestân per berjocht (maildir)
+scrolling-legend = Skowe
+autoscroll-label =
+    .label = Automatysk skowe brûke
+    .accesskey = m
+smooth-scrolling-label =
+    .label = Floeiend skowe brûke
+    .accesskey = e
+system-integration-legend = Systeemyntegraasje
+always-check-default =
+    .label = By it opstarten altyd neigean oft { -brand-short-name } de standert e-mailclient is
+    .accesskey = c
+check-default-button =
+    .label = No kontrolearje…
+    .accesskey = N
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -120,20 +186,68 @@ search-engine-name =
         [windows] Windows Zoeken
        *[other] { "" }
     }
+search-integration-label =
+    .label = Lit { search-engine-name } troch berjochten sykje
+    .accesskey = S
+config-editor-button =
+    .label = Konfiguraasjebewurker…
+    .accesskey = f
+return-receipts-description = Bepale hoe't { -brand-short-name } omgiet mei lêsbefêstigingen
+return-receipts-button =
+    .label = Lêsbefêstigingen…
+    .accesskey = L
+update-app-legend = { -brand-short-name }-fernijingen
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Ferzje { $version }
+allow-description = { -brand-short-name } tastean om
+automatic-updates-label =
+    .label = Fernijingen automatysk ynstallearje (oanrekommandearre: ferbettere feilichheid)
+    .accesskey = a
 check-updates-label =
     .label = Kontrolearje op fernijngen, mar lit my kieze oft ik se ynstallearje wol
     .accesskey = K
 update-history-button =
     .label = Fernijingsskiednis toane
     .accesskey = s
+use-service =
+    .label = In eftergrûntsjinst brûke om fernijingen te ynstallearjen
+    .accesskey = a
+cross-user-udpate-warning = Dizze ynstelling is fan tapassing op alle Windows-accounts en { -brand-short-name }-profilen dy't dizze ynstallaasje fan { -brand-short-name } brûke.
+networking-legend = Ferbining
+proxy-config-description = Konfigurearje hoe't { -brand-short-name } ferbining makket mei it ynternet
+network-settings-button =
+    .label = Ynstellingen…
+    .accesskey = Y
+offline-legend = Sûnder ferbining
+offline-settings = Sûnder ferbining-ynstellingen konfigurearje
+offline-settings-button =
+    .label = Sûnder ferbining…
+    .accesskey = S
+diskspace-legend = Skiifromte
+offline-compact-folder =
+    .label = Mappen komprimearje as it mear besparret as
+    .accesskey = M
+compact-folder-size =
+    .value = MB yn totaal
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Oant
+    .accesskey = O
+use-cache-after = MB skiifromte brûke foar de buffer
 
 ##
 
+smart-cache-label =
+    .label = Automatysk bufferbehear net brûke
+    .accesskey = r
+clear-cache-button =
+    .label = No wiskje
+    .accesskey = N
 fonts-legend = Lettertypen & kleuren
 default-font-label =
     .value = Standertlettertype:
@@ -141,10 +255,17 @@ default-font-label =
 default-size-label =
     .value = Grutte:
     .accesskey = G
+font-options-button =
+    .label = Avansearre…
+    .accesskey = s
 color-options-button =
     .label = Kleuren…
     .accesskey = K
 display-width-legend = Platte-tekstberjochten
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Glimkes werjaan as ôfbylding
+    .accesskey = m
 display-text-label = Sitearre tekst yn platte-tekstberjochten werjaan as:
 style-label =
     .value = Styl:
@@ -169,6 +290,14 @@ smaller-size-item =
 quoted-text-color =
     .label = Kleur:
     .accesskey = K
+search-input =
+    .placeholder = Sykje:
+type-column-label =
+    .label = Ynhâldtype
+    .accesskey = t
+action-column-label =
+    .label = Aksje
+    .accesskey = A
 save-to-label =
     .label = Bewarje bestannen yn
     .accesskey = w
@@ -186,13 +315,52 @@ choose-folder-label =
 always-ask-label =
     .label = My altyd freegje wêr't bestannen bewarre wurde moatte
     .accesskey = M
+display-tags-text = Labels kinne brûkt wurde foar it kategorisearjen fan jo berjochten.
+new-tag-button =
+    .label = Nij…
+    .accesskey = N
+edit-tag-button =
+    .label = Bewurkje…
+    .accesskey = B
+delete-tag-button =
+    .label = Fuortsmite
+    .accesskey = s
+auto-mark-as-read =
+    .label = Berjochten automatysk as lêzen markearje
+    .accesskey = A
+mark-read-no-delay =
+    .label = Direkt op it skerm
+    .accesskey = O
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Nei it toanen foar
+    .accesskey = N
+seconds-label = sekonden
 
 ##
 
+open-msg-label =
+    .value = Nije berjochten iepenje yn:
+open-msg-tab =
+    .label = in nij ljepblêd
+    .accesskey = l
+open-msg-window =
+    .label = In nij berjochtefinster
+    .accesskey = i
+open-msg-ex-window =
+    .label = In besteand berjochtefinster
+    .accesskey = a
+close-move-delete =
+    .label = Slút berjochtskerm/ljepblêd nei ferpleatsen of fuortsmiten
+    .accesskey = S
+display-name-label =
+    .value = Werjeftenamme:
+condensed-addresses-label =
+    .label = Fan minsken yn myn adresboek allinnich werjeftenamme toane
+    .accesskey = m
 
 ## Compose Tab
 
@@ -233,9 +401,18 @@ download-dictionaries-link = Mear wurdboeken downloade
 font-label =
     .value = Lettertype:
     .accesskey = L
+font-size-label =
+    .value = Grutte:
+    .accesskey = t
+default-colors-label =
+    .label = Brûk de standert kleuren fan lêzers
+    .accesskey = d
 font-color-label =
     .value = Tekstkleur:
     .accesskey = k
+bg-color-label =
+    .value = Eftergrûnkleur:
+    .accesskey = E
 restore-html-label =
     .label = Standertwearden tebeksette
     .accesskey = S
@@ -261,6 +438,11 @@ edit-directories-label =
 email-picker-label =
     .label = E-mailadressen fan útgeande berjochten automatysk tafoegje oan myn:
     .accesskey = t
+default-directory-label =
+    .value = Standert opstartmap yn it adresboekfinster:
+    .accesskey = S
+default-last-label =
+    .none = Lêst brûkte map
 attachment-label =
     .label = Kontrolearje op fergetten bylagen
     .accesskey = f
@@ -271,9 +453,15 @@ enable-cloud-share =
     .label = Biedt dielen oan by bestannen grutter as
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Tafoegje…
+    .accesskey = T
+    .defaultlabel = Tafoegje…
 remove-cloud-account =
     .label = Fuortsmite
     .accesskey = F
+find-cloud-providers =
+    .value = Sykje mear providers…
 cloud-account-description = In nije Filelink bewartsjinst tafoegje
 
 ## Privacy Tab
@@ -299,6 +487,8 @@ third-party-label =
     .accesskey = c
 third-party-always =
     .label = Altyd
+third-party-never =
+    .label = Nea
 third-party-visited =
     .label = Fan besochte
 keep-label =
@@ -308,9 +498,21 @@ keep-expire =
     .label = se ferrinne
 keep-close =
     .label = Ik { -brand-short-name } ôfslut
+keep-ask =
+    .label = freegje my elke kear wer
+cookies-button =
+    .label = Cookies toane…
+    .accesskey = T
+do-not-track-label =
+    .label = Websites in ‘Net folgje’-sinjaal stjoere om litte te witten dat jo net folge wurde wol
+    .accesskey = n
+learn-button =
+    .label = Mear ynfo
+passwords-description = { -brand-short-name } kin wachtwurdynformaasje foar al jo accounts ûnthâlde, sadat jo net hieltyd jo oanmeldgegevens hoege yn te fieren.
 passwords-button =
     .label = Bewarre wachtwurden…
     .accesskey = B
+master-password-description = As dit ynsteld is befeiliget it haadwachtwurd al jo wachtwurden - mar jo moatte it elke sesje ien kear ynfiere.
 master-password-label =
     .label = In haadwachtwurd brûke
     .accesskey = h
@@ -336,6 +538,10 @@ junk-log-label =
 junk-log-button =
     .label = Lochboek toane
     .accesskey = L
+reset-junk-button =
+    .label = Trainingsgegevens opnij inisjalisearje
+    .accesskey = r
+phishing-description = { -brand-short-name } kin berjochten analysearje op fertochte e-mailscams troch te sjen nei faakfoarkommende techniken dy't brûkt wurde om jo te mislieden.
 phishing-label =
     .label = My fertelle oft it lêzen berjocht in fertochte e-mailscam is
     .accesskey = e
@@ -353,9 +559,22 @@ certificate-ask =
 ocsp-label =
     .label = OCSP-responderservers freegje om de aktuele faliditeit fan sertifikaten te befêstigjen
     .accesskey = F
+certificate-button =
+    .label = Sertifikaten beheare…
+    .accesskey = b
+security-devices-button =
+    .label = Befeiligingsapparaten…
+    .accesskey = a
 
 ## Chat Tab
 
+startup-label =
+    .value = As { -brand-short-name } start:
+    .accesskey = s
+offline-label =
+    .label = De accountbehearder iepenje
+auto-connect-label =
+    .label = Myn accounts automatysk ferbine
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -377,12 +596,26 @@ send-typing-label =
     .label = Typenotifikaasjes ferstjoere yn konversaasjes
     .accesskey = T
 notification-label = As berjochten foar jo oankomme:
+show-notification-label =
+    .label = In melding toane:
+    .accesskey = m
 notification-all =
     .label = mei namme fan ôfstjoerder en berjochtfoarbyld
 notification-name =
     .label = allinnich mei namme fan ôfstjoerder
 notification-empty =
     .label = sûnder ynfo
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] It programmasymboal beweegje
+           *[other] It taakbalke-item knipperje litte
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] I
+        }
 chat-play-sound-label =
     .label = Spylje in lûd
     .accesskey = d
@@ -398,6 +631,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Blêdzje…
     .accesskey = B
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bubbels
+style-dark =
+    .label = Donker
+style-paper =
+    .label = Papier
+style-simple =
+    .label = Simpel
+preview-label = Foarbyld:
+no-preview-label = Gjin foarbyld beskikber
+no-preview-description = Dit tema is net falide of is op dit stuit net beskikber (útskeakele add-on, feilige modus, …).
+chat-variant-label =
+    .value = Fariant:
+    .accesskey = F
+chat-header-label =
+    .label = Kop toane
+    .accesskey = K
 
 ## Preferences UI Search Results
 
