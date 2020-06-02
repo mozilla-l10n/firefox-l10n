@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latin
 font-language-group-japanese =
     .label = Japaneg
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Kirilleg
 font-language-group-el =
     .label = Gresianeg
+font-language-group-other =
+    .label = Reizhiadoù skrivañ all
 font-language-group-thai =
     .label = Thaieg
 font-language-group-hebrew =
@@ -63,6 +68,18 @@ font-language-group-khmer =
     .label = Khmereg
 font-language-group-malayalam =
     .label = Malayalameg
+font-language-group-math =
+    .label = Matematikoù
+font-language-group-odia =
+    .label = Odia
+font-language-group-telugu =
+    .label = Telougoueg
+font-language-group-kannada =
+    .label = Kannadaeg
+font-language-group-sinhala =
+    .label = Sinhaleg
+font-language-group-tibetan =
+    .label = Tibetek
 
 ## Default font type
 
@@ -70,6 +87,12 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Hep Serif
+font-size-label =
+    .value = Ment :
+    .accesskey = e
+font-size-monospace-label =
+    .value = Ment :
+    .accesskey = n
 font-serif-label =
     .value = Serif :
     .accesskey = S
@@ -97,9 +120,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Bonegadur an arouezioù
+text-encoding-description = Arventennañ ar bonegañ dre ziouer evit kas ha degemer posteloù
 font-outgoing-email-label =
     .value = Postel o vont er-maez :
     .accesskey = o
 font-incoming-email-label =
     .value = Postel o tont e-barzh :
     .accesskey = s
+default-font-reply-checkbox =
+    .label = Mard eo posupl, arverañ ar bonegañ dre ziouer gant ar respontoù
+    .accesskey = M

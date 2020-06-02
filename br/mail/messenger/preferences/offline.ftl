@@ -4,9 +4,19 @@
 
 offline-dialog-window =
     .title = Arventennoù ezlinenn
+autodetect-online-label =
+    .label = Heuliañ ar stadoù enlinenn dinoet ent emgefreek
+    .accesskey = d
+startup-label = Stad dre zorn e-pad an deraouiñ :
 status-radio-remember =
     .label = Derc'hel soñj eus ar stad enlinenn
     .accesskey = r
+status-radio-always-online =
+    .label = Enlinenn
+    .accesskey = l
+status-radio-always-offline =
+    .label = Ezlinenn
+    .accesskey = z
 going-online-label = Kas ar posteloù o c'hortoz pa 'z a da enlinenn ?
 going-online-auto =
     .label = Ya

@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Dibarzhioù kas
 send-mail-title = Mentrezh an destenn
+auto-downgrade-label =
+    .label = Kas kemennadennoù evel testenn blaen m'eo posupl
+    .accesskey = t
 default-html-format-label = Pa vez kaset posteloù e mentrezh HTML hag unan pe veur a zegemerer n'int ket war roll ar re varrek da zegemer HTML:
 html-format-ask =
     .label = Goulenn petra ober
