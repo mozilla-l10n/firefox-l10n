@@ -16,5 +16,7 @@ calendar-ics-file-accept-button-ok-label = OK
 # $fileName (string) - The name of the file.
 calendar-ics-file-dialog-message = Vill du importera filen "{ $fileName }"?
 calendar-ics-file-dialog-message-2 = Importera från fil:
+calendar-ics-file-dialog-calendar-menu-label = Importera till kalender:
 calendar-ics-file-import-success = Importerad!
 calendar-ics-file-import-error = Ett fel inträffade och importen misslyckades.
+calendar-ics-file-dialog-no-calendars = Det finns inga kalendrar som kan importera händelser eller uppgifter.

@@ -59,6 +59,7 @@ day-6-checkbox =
 day-7-checkbox =
     .label = Lör
     .accesskey = L
+dayweek-legend = Dag- och veckovisning
 visible-hours-label =
     .value = Visa:
     .accesskey = V
@@ -97,7 +98,7 @@ week-6-label =
     .label = 6 veckor
 previous-weeks-label =
     .value = Antal föregående veckor som visas:
-    .accesskey = ö
+    .accesskey = f
 todaypane-legend = Panel för idag
 # Note: "Upcoming" is the name of a section and the translation must match the
 # translation of that section name (calendar.upcoming.button.label). Also,
@@ -110,7 +111,7 @@ default-length-label =
     .value = Standardlängd för händelser och uppgifter:
     .accesskey = h
 task-start-label =
-    .value = Start datum:
+    .value = Startdatum:
 task-start-1-label =
     .label = Ingen
 task-start-2-label =
