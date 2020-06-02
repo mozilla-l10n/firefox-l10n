@@ -17,6 +17,7 @@ rights-locationawarebrowsing-term-1 = Na barra de endereço, digite <code>about:
 rights-locationawarebrowsing-term-2 = Digite geo.enabled
 rights-locationawarebrowsing-term-3 = Dê um duplo clique na preferência geo.enabled
 rights-locationawarebrowsing-term-4 = O serviço de Navegação sensível à localização agora está desativado
+rights-webservices-unbranded = Uma visão geral dos serviços web que o produto inclui, assim como instruções de como os desativar (se aplicáveis), deve ser colocada aqui.
 rights-webservices-term-unbranded = Quaisquer termos de serviço aplicáveis a este produto devem ser listados aqui.
 rights-webservices-term-1 = A { -vendor-short-name } e seus colaboradores, licenciadores e parceiros trabalham para fornecer serviços o mais precisos e atualizados possível. Entretanto, não podemos garantir a abrangência e a ausência de erros dessas informações. Por exemplo, o serviço de navegação segura pode não identificar alguns sites arriscados e alguns sites seguros podem ser identificados erroneamente. No serviço de navegação sensível à localização, todas as localizações fornecidas por nossos provedores de serviço são somente estimativas e nem nós nem nossos provedores de serviço podemos garantir a precisão das localizações fornecidas.
 rights-webservices-term-2 = A { -vendor-short-name } pode descontinuar ou alterar os serviços a critério dela.
