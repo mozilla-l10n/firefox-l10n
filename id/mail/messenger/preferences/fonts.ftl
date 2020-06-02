@@ -13,6 +13,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latin
 font-language-group-japanese =
     .label = Jepang
 font-language-group-trad-chinese =
@@ -55,6 +58,12 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Sinhala
 
 ## Default font type
 
