@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "메시지 저장">
 <!ENTITY securitySettings.label "보안 설정">
 <!ENTITY serverSettings.label "서버 설정">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "포트:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "기본:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "받아오기 전 확인">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc 파일:">
 <!ENTITY newsrcPicker.label "newsrc 파일 위치">
+<!ENTITY newsrcFilePath1.label "News.rc 파일:">
+<!ENTITY newsrcPicker1.label "News.rc 파일 선택">
 <!ENTITY abbreviate.label "메일 폴더에 뉴스 그룹 이름 보이기:">
 <!ENTITY abbreviateOn.label "뉴스 그룹 이름 (예: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "약어 이름 (예: 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "기본 문자 인코딩:">
 <!ENTITY localPath.label "로컬 디렉터리:">
+<!ENTITY localPath1.label "로컬 디렉토리:">
 <!ENTITY localFolderPicker.label "로컬 디렉터리 위치">
 <!ENTITY browseFolder.label "찾아보기…">
 <!ENTITY browseFolder.accesskey "B">
