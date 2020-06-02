@@ -10,15 +10,6 @@ remove-address-row-type = Elimine el campo { $type }
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Campo de entrada { $type } vacío
-        [one] { $type } campo de entrada con una dirección
-       *[other] { $type } campo de entrada con { $count } direcciones
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -49,3 +40,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Mover a CCO
     .accesskey = b
+

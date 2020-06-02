@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Personalizar nueva alerta de correo
+
 customize-alert-description = Seleccione qué campos mostrar en la alerta de notificación:
+
 preview-text-checkbox =
     .label = Vista previa del mensaje (texto)
     .accesskey = M
+
 subject-checkbox =
     .label = Asunto
     .accesskey = S
+
 sender-checkbox =
     .label = Remitente
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Mostrar nueva alerta de correo por
     .accesskey = n
+
 open-time-label-after =
     .value = segundos
