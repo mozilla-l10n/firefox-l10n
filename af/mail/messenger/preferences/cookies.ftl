@@ -5,16 +5,22 @@
 cookies-window-dialog =
     .title = Koekies
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 filter-search-label =
     .value = Soek:
     .accesskey = S
+
 cookies-on-system-label = Die volgende koekies is op u rekenaar gestoor:
+
 treecol-site-header =
     .label = Werf
+
 treecol-name-header =
     .label = Koekienaam
+
 props-name-label =
     .value = Naam:
 props-value-label =
@@ -27,12 +33,15 @@ props-secure-label =
     .value = Stuur met:
 props-expires-label =
     .value = Verval:
+
 remove-cookie-button =
     .label = Verwyder koekie
     .accesskey = V
+
 remove-all-cookies-button =
     .label = Verwyder alle koekies
     .accesskey = a
+
 cookie-close-button =
     .label = Sluit
     .accesskey = S

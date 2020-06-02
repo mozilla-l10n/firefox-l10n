@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Doelmaak nuwepos-klank
+
 customize-alert-description = Kies watter velde in die kennisgewing gewys moet word:
+
 preview-text-checkbox =
     .label = Boodskap-voorskouteks
     .accesskey = B
+
 subject-checkbox =
     .label = Onderwerpreël
     .accesskey = O
+
 sender-checkbox =
     .label = Afsender
     .accesskey = e

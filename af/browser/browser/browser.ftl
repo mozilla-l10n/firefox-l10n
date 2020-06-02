@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private blaaiery)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Private blaaiery)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Private blaaiery)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Private blaaiery)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -98,10 +100,12 @@ urlbar-microphone-blocked =
     .tooltiptext = U het die mikrofoon geblok vir dié webwerf.
 urlbar-screen-blocked =
     .tooltiptext = U het dié webwerf geblok om die skerm te deel.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -127,6 +131,7 @@ search-one-offs-change-settings-button =
     .label = Verander soekinstellings
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Verander soekinstellings
+
 search-one-offs-context-open-new-tab =
     .label = Soek in nuwe oortjie
     .accesskey = t
@@ -206,8 +211,10 @@ urlbar-placeholder =
     .placeholder = Soek of tik adres in
 urlbar-switch-to-tab =
     .value = Verwissel na oortjie:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uitbreiding:
+
 urlbar-go-button =
     .tooltiptext = Gaan na die adres in die adresbalk
