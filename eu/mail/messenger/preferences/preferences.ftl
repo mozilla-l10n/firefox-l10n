@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Itxi
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -70,6 +72,7 @@ update-in-progress-ok-button = &Baztertu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
+addons-button = Hedapenak eta Gaiak
 
 ## OS Authentication dialog
 
@@ -101,6 +104,17 @@ restore-default-label =
     .accesskey = r
 default-search-engine = Bilatzaile lehenetsia
 new-message-arrival = Mezu berri bat iristerakoan:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Erabili hurrengo soinu-fitxategia:
+           *[other] Erreproduzitu soinua
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] E
+           *[other] E
+        }
 mail-play-button =
     .label = Erreproduzitu
     .accesskey = p
@@ -108,6 +122,7 @@ change-dock-icon = Aldatu aplikazio-ikonoaren hobespenak
 app-icon-options =
     .label = Aplikazio-ikonoaren aukerak…
     .accesskey = n
+notification-settings = Alertak eta soinu lehenetsiak desgaitu dezakezu jakinarazpen paneleko sistemaren hobespenetan.
 animated-alert-label =
     .label = Erakutsi abisua
     .accesskey = s
@@ -126,12 +141,16 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Gaitu bilaketa orokorra eta indexatzailea
     .accesskey = i
+datetime-formatting-legend = Data eta denboraren formatua
+language-selector-legend = Hizkuntza
 allow-hw-accel =
     .label = Erabili hardware azelerazioa erabilgarri dagoenean
     .accesskey = h
 store-type-label =
     .value = Mezuen biltegiratze mota kontu berrientzako:
     .accesskey = m
+mbox-store-label =
+    .label = Karpeta bakoitzeko fitxategi bat (mbox)
 maildir-store-label =
     .label = Fitxategia mezuko (maildir)
 scrolling-legend = Korritzea
@@ -166,6 +185,10 @@ return-receipts-description = Zehaztu hartu-agiriak nola kudeatzen dituen { -bra
 return-receipts-button =
     .label = Hartu-agiriak…
     .accesskey = r
+update-app-legend = { -brand-short-name } eguneraketak
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Bertsioa { $version }
 automatic-updates-label =
     .label = Instalatu eguneraketak automatikoki (gomendatua: hobetutako segurtasuna)
     .accesskey = a
@@ -206,6 +229,9 @@ use-cache-after = MB cachearentzat
 
 ##
 
+smart-cache-label =
+    .label = Gainidatzi automatikoki cachearen kudeaketa
+    .accesskey = a
 clear-cache-button =
     .label = Garbitu orain
     .accesskey = G
@@ -223,6 +249,10 @@ color-options-button =
     .label = Koloreak…
     .accesskey = K
 display-width-legend = Testu-arrunteko mezuak
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Bistaratu aurpegierak eta grafikoak
+    .accesskey = a
 display-text-label = Zitatutako testu-arrunteko mezuak bistaratzean:
 style-label =
     .value = Estiloa:
@@ -273,6 +303,12 @@ always-ask-label =
     .label = Beti galdetu niri fitxategiak non  gorde
     .accesskey = B
 display-tags-text = Mezuak sailkatu eta lehentasunak zehazteko erabil daitezke etiketak.
+new-tag-button =
+    .label = Berria…
+    .accesskey = B
+edit-tag-button =
+    .label = Editatu…
+    .accesskey = E
 delete-tag-button =
     .label = Ezabatu
     .accesskey = z
@@ -350,6 +386,12 @@ download-dictionaries-link = Deskargatu hiztegi gehiago
 font-label =
     .value = Letra-tipoa:
     .accesskey = r
+font-size-label =
+    .value = Tamaina:
+    .accesskey = t
+default-colors-label =
+    .label = Erabili irakurlearen kolore lehenetsiak
+    .accesskey = l
 font-color-label =
     .value = Testuaren kolorea:
     .accesskey = s
@@ -359,6 +401,9 @@ bg-color-label =
 restore-html-label =
     .label = Berrezarri lehenetsiak
     .accesskey = r
+default-format-label =
+    .label = Erabili paragrafo formatua testu gorputzaren ordez lehenetsirik
+    .accesskey = p
 format-description = Konfiguratu testuaren formatuaren portaera
 send-options-label =
     .label = Bidalketa-aukerak…
@@ -378,6 +423,11 @@ edit-directories-label =
 email-picker-label =
     .label = Gehitu hemen automatikoki bidalitako posta-helbideak:
     .accesskey = t
+default-directory-label =
+    .value = Helbide liburu leihoko abioko direktorio lehenetsia:
+    .accesskey = H
+default-last-label =
+    .none = Azken direktorio erabilia
 attachment-label =
     .label = Egiaztatu eranskinak falta diren
     .accesskey = f
@@ -388,6 +438,10 @@ enable-cloud-share =
     .label = Eskaini partekatzea hau baino handiagoak diren fitxategientzat:
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Gehitu…
+    .accesskey = G
+    .defaultlabel = Gehitu…
 remove-cloud-account =
     .label = Kendu
     .accesskey = K
@@ -469,6 +523,10 @@ phishing-description = { -brand-short-name }(e)k mezuak azter ditzake posta-iruz
 phishing-label =
     .label = Esaidazu irakurtzen ari naizen mezua posta-iruzurra izan daitekeen
     .accesskey = E
+antivirus-description = { -brand-short-name } erraztuko du antibirus softwareak datozen mezuak aztertu ditzan lokalki gorde aurretik.
+antivirus-label =
+    .label = Baimendu antibirus bezeroari mezuak koarentenan jartzea
+    .accesskey = k
 certificate-description = Webgune batek nire ziurtagiri pertsonala eskatzen duenean:
 certificate-auto =
     .label = Hautatu bat automatikoki
@@ -519,6 +577,17 @@ notification-name =
     .label = bidaltzailearen izenarekin soilik
 notification-empty =
     .label = inolako informaziorik gabe
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Atrakeko ikonoak animatu
+           *[other] Keinuka ataza-barrako elementua
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] K
+        }
 chat-play-sound-label =
     .label = Erreproduzitu soinua
     .accesskey = d
@@ -534,6 +603,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Arakatu…
     .accesskey = A
+theme-label =
+    .value = Gaia:
+    .accesskey = G
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Burbuilak
+style-dark =
+    .label = Iluna
+style-paper =
+    .label = Papera orriak
+style-simple =
+    .label = Sinplea
+preview-label = Aurrebista:
+no-preview-label = Aurrebista ez dago erabilgarri
+no-preview-description = Gai hau ez da baliokoa edo une honetan ez dago erabilgarri (desgaitu gehigarria, modu-segurua, …).
+chat-variant-label =
+    .value = Aldaerak:
+    .accesskey = A
+chat-header-label =
+    .label = Erakutsi goiburua
+    .accesskey = g
 
 ## Preferences UI Search Results
 
