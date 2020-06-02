@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Taga ùr
+
 tag-name-label =
     .value = Ainm an taga:
     .accesskey = t

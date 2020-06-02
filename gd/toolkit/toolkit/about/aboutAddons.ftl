@@ -455,9 +455,6 @@ dictionary-heading = Stiùirich na faclairean agad
 locale-heading = Stiùirich na cànain agad
 shortcuts-heading = Stiùirich ath-ghoiridean an leudachain
 
-theme-heading-search-label = Lorg barrachd ùrlaran
-extension-heading-search-label = Lorg barrachd leudachan
-
 addons-heading-search-input =
     .placeholder = Lorg air addons.mozilla.org
 

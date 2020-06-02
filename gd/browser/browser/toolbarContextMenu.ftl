@@ -20,12 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Neo-dhèan dùnadh an taba
     .accesskey = N
+
 toolbar-context-menu-manage-extension =
     .label = Stiùirich an leudachan
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Thoir an leudachan air falbh
     .accesskey = v
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
