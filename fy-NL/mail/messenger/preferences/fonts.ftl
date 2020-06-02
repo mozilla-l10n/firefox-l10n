@@ -25,6 +25,8 @@ font-language-group-japanese =
     .label = Japansk
 font-language-group-trad-chinese =
     .label = Tradisjoneel Sineesk (Taiwan)
+font-language-group-simpl-chinese =
+    .label = Ferienfâldige Sineesk
 font-language-group-trad-chinese-hk =
     .label = Tradisjoneel Sineesk (Hong Kong)
 font-language-group-korean =
@@ -33,6 +35,8 @@ font-language-group-cyrillic =
     .label = Syrillysk
 font-language-group-el =
     .label = Gryksk
+font-language-group-other =
+    .label = Oare skriftsystemen
 font-language-group-thai =
     .label = Taisk
 font-language-group-hebrew =
@@ -61,6 +65,14 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Singaleesk
+font-language-group-tibetan =
+    .label = Tibetaansk
 
 ## Default font type
 
@@ -68,6 +80,12 @@ default-font-serif =
     .label = Mei skreef
 default-font-sans-serif =
     .label = Skreefleas
+font-size-label =
+    .value = Grutte
+    .accesskey = G
+font-size-monospace-label =
+    .value = Grutte
+    .accesskey = e
 font-serif-label =
     .value = Mei skreef:
     .accesskey = s
@@ -85,12 +103,17 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = Lettertype-ynstellingen
 use-document-fonts-checkbox =
     .label = Berjochten tastean om oare lettertypen te brûken
     .accesskey = a
+use-fixed-width-plain-checkbox =
+    .label = Fêstebreedtelettertype brûke foar platte tekstberjochten
+    .accesskey = F
 
 ## Language settings
 
+text-encoding-legend = Tekstkodearing
 font-outgoing-email-label =
     .value = Utgeande e-mailberjochten:
     .accesskey = U

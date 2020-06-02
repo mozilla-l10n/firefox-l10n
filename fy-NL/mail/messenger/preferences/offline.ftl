@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+autodetect-online-label =
+    .label = Automatysk detektearre onlinetastân folgje
+    .accesskey = A
+startup-label = Hânmjittige tastân by it opstarten:
+status-radio-remember =
+    .label = Foarige onlinetastân hantearje
+    .accesskey = h
+status-radio-ask =
+    .label = My de onlinetastân freegje
+    .accesskey = M
+status-radio-always-online =
+    .label = Online
+    .accesskey = O
+status-radio-always-offline =
+    .label = Altyd offline opstarte
+    .accesskey = f
 going-online-label = Wolle jo net-ferstjoerde berjochten ferstjoere as jo online gean?
 going-online-auto =
     .label = Ja
