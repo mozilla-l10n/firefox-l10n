@@ -4,6 +4,10 @@
 
 system-integration-title =
     .title = Intégration système
+system-integration-dialog =
+    .buttonlabelaccept = Définir par défaut
+    .buttonlabelcancel = Ignorer l’intégration
+    .buttonlabelcancel2 = Annuler
 default-client-intro = Utiliser { -brand-short-name } comme client par défaut pour :
 unset-default-tooltip = Il n’est pas possible de faire en sorte que { -brand-short-name } ne soit plus le client par défaut au sein de { -brand-short-name }. Pour définir une autre application comme client par défaut vous devez utiliser son dialogue « Définir par défaut ».
 checkbox-email-label =

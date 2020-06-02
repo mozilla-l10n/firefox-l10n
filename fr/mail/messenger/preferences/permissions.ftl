@@ -36,6 +36,7 @@ save-button =
     .label = Enregistrer les modifications
     .accesskey = E
 permission-can-label = Autoriser
+permission-can-access-first-party-label = Domaine principal seul
 permission-can-session-label = Autoriser pour la session
 permission-cannot-label = Bloquer
 invalid-uri-message = Veuillez saisir un nom d’hôte valide
