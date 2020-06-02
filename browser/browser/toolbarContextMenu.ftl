@@ -20,12 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Arvi torna o feuggio serou
     .accesskey = A
+
 toolbar-context-menu-manage-extension =
     .label = Gestisci estenscion
     .accesskey = G
 toolbar-context-menu-remove-extension =
     .label = Scancella estenscion
     .accesskey = c
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
