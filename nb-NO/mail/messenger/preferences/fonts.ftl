@@ -120,6 +120,9 @@ use-fixed-width-plain-checkbox =
 
 text-encoding-legend = Tekstkoding
 text-encoding-description = Bruk standard tekstkoding for sending og mottak av e-post
+font-outgoing-email-label =
+    .value = Utgående e-post:
+    .accesskey = U
 font-incoming-email-label =
     .value = Innkommende e-post:
     .accesskey = I
