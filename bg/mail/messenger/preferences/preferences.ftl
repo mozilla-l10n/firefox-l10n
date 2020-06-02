@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Настройки
+           *[other] Настройки
+        }
 pane-compose-title = Съставяне
 category-compose =
     .tooltiptext = Съставяне
@@ -63,6 +69,8 @@ enable-gloda-search-label =
     .accesskey = Р
 mbox-store-label =
     .label = Файл за всяка папка (mbox)
+maildir-store-label =
+    .label = Файл за всяко писмо (maildir)
 scrolling-legend = Плъзгане
 check-default-button =
     .label = Проверка сега…
@@ -121,6 +129,9 @@ fonts-legend = Шрифтове и цветове
 default-font-label =
     .value = Шрифт по подразбиране:
     .accesskey = Ш
+color-options-button =
+    .label = Цветове…
+    .accesskey = Ц
 display-width-legend = Писма в обикновен текст
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -161,13 +172,34 @@ action-column-label =
 delete-tag-button =
     .label = Изтриване
     .accesskey = И
+auto-mark-as-read =
+    .label = Автоматично маркира писмата като прочетени
+    .accesskey = А
+mark-read-no-delay =
+    .label = Незабавно показване
+    .accesskey = з
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = След показване за
+    .accesskey = д
+seconds-label = секунди
 
 ##
 
+open-msg-label =
+    .value = Отваряне съобщенията в:
+open-msg-window =
+    .label = нов прозорец
+    .accesskey = н
+open-msg-ex-window =
+    .label = съществуващия прозорец
+    .accesskey = с
+condensed-addresses-label =
+    .label = Aко хората са в моя адресник, се показват само имената им
+    .accesskey = х
 
 ## Compose Tab
 
@@ -248,6 +280,9 @@ exceptions-button =
     .label = Изключения…
     .accesskey = з
 web-content = Уеб съдържание
+history-label =
+    .label = Запомняне на посетените уеб-страници и връзки
+    .accesskey = З
 cookies-label =
     .label = Разрешаване на бисквитки от сайтове
     .accesskey = б
@@ -260,6 +295,8 @@ keep-label =
     .accesskey = З
 keep-expire =
     .label = загуба на валидност
+keep-close =
+    .label = затваряне на { -brand-short-name }
 keep-ask =
     .label = питане всеки път
 passwords-description = { -brand-short-name } може да запомни паролите на всичките ви регистрации.
@@ -292,9 +329,14 @@ junk-log-button =
 reset-junk-button =
     .label = Нулиране на наличните данни
     .accesskey = Н
+phishing-description = { -brand-short-name } може да анализира писмата за възможна измама, като търси познати техники за подлъгване.
 phishing-label =
     .label = Уведомяване, ако четеното писмо е съмнително
     .accesskey = У
+antivirus-description = { -brand-short-name } може да улесни антивирусните програми да анализират получените писма за вируси, преди да бъдат съхранени в компютъра.
+antivirus-label =
+    .label = Разрешаване на антивирусните програми да поставят под карантина получаваните писма
+    .accesskey = Р
 certificate-description = Когато сървъра поиска личния ми сертификат:
 certificate-ask =
     .label = Запитване всеки път
@@ -302,6 +344,13 @@ certificate-ask =
 
 ## Chat Tab
 
+startup-label =
+    .value = Когато се стартира { -brand-short-name }:
+    .accesskey = с
+offline-label =
+    .label = Разговорите са изключени
+auto-connect-label =
+    .label = Автоматично свързване за разговори
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -309,10 +358,29 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Другите ще видят, че съм неактивен след
+    .accesskey = н
+idle-time-label = минути
 
 ##
 
+away-message-label =
+    .label = и задаване на състояние Далеч със следното съобщение:
+    .accesskey = ч
+send-typing-label =
+    .label = Изпращане на уведомления за писане по време на разговор
+    .accesskey = п
 notification-label = Когато пристигне пряко съобщение до вас:
+show-notification-label =
+    .label = Показване на уведомление:
+    .accesskey = у
+notification-all =
+    .label = с името на подателя и преглед на съобщението
+notification-name =
+    .label = само с името на подателя
+notification-empty =
+    .label = без друга информация
 chat-system-sound-label =
     .label = Стандартен системен звук за нови писма
     .accesskey = С
