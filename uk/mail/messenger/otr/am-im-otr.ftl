@@ -4,5 +4,6 @@
 
 account-encryption =
     .label = Наскрізне шифрування
+account-otr-label = Повідомлення, які не записуються (OTR)
 otr-settings-title = Налаштування OTR
 otr-notYetAvailable = поки що недоступно
