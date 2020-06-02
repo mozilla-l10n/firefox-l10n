@@ -66,6 +66,10 @@ font-language-group-khmer =
     .label = Khmerskie
 font-language-group-malayalam =
     .label = Malajalam
+font-language-group-math =
+    .label = Matematyczne
+font-language-group-odia =
+    .label = Orija
 font-language-group-telugu =
     .label = Telugu
 font-language-group-kannada =
@@ -77,6 +81,8 @@ font-language-group-tibetan =
 
 ## Default font type
 
+default-font-serif =
+    .label = Szeryfowa
 default-font-sans-serif =
     .label = Bezszeryfowa
 font-size-label =
@@ -94,14 +100,29 @@ font-sans-serif-label =
 font-monospace-label =
     .value = O stałej szerokości:
     .accesskey = O
+font-min-size-label =
+    .value = Minimalny rozmiar czcionki:
+    .accesskey = M
+min-size-none =
+    .label = Brak
 
 ## Fonts in message
 
+font-control-legend = Zasady używania czcionek
+use-document-fonts-checkbox =
+    .label = Zezwalaj na używanie czcionek zadeklarowanych w wiadomościach
+    .accesskey = Z
+use-fixed-width-plain-checkbox =
+    .label = Używaj czcionki o stałej szerokości dla wiadomości wysyłanych jako zwykły tekst
+    .accesskey = U
 
 ## Language settings
 
 text-encoding-legend = Kodowanie tekstu
 text-encoding-description = Ustawienia domyślnego kodowania tekstu wysyłanych i odbieranych wiadomości
+font-incoming-email-label =
+    .value = Poczta przychodząca:
+    .accesskey = t
 default-font-reply-checkbox =
     .label = Używaj domyślnego kodowania tekstu w odpowiedziach zawsze, kiedy to możliwe
     .accesskey = d
