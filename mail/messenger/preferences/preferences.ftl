@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Zatvori
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Sastavljanje
 category-compose =
     .tooltiptext = Sastavljanje
+pane-privacy-title = Privatnost i sigurnost
+category-privacy =
+    .tooltiptext = Privatnost i sigurnost
 pane-chat-title = Razgovor
 category-chat =
     .tooltiptext = Razgovor
@@ -102,6 +107,15 @@ restore-default-label =
     .label = Vrati zadano
     .accesskey = r
 default-search-engine = Zadani pretraživač
+add-search-engine =
+    .label = Dodaj iz datoteke
+    .accesskey = a
+remove-search-engine =
+    .label = Ukloni
+    .accesskey = U
+minimize-to-tray-label =
+    .label = Kada je { -brand-short-name } smanjen, premjesti ga u sistemsku traku
+    .accesskey = m
 new-message-arrival = Kada stigne nova poruka:
 mail-play-sound-label =
     .label =
@@ -141,6 +155,7 @@ enable-gloda-search-label =
     .label = Omogući globalno pretraživanje i indeksiranje
     .accesskey = e
 datetime-formatting-legend = Oblikovanje datuma i vremena
+language-selector-legend = Jezik
 allow-hw-accel =
     .label = Koristi hardversku akceleraciju kad je moguće
     .accesskey = h
@@ -187,6 +202,7 @@ update-app-legend = { -brand-short-name } ažuriranja
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Inačica { $version }
+allow-description = Dozvoli { -brand-short-name } da
 automatic-updates-label =
     .label = Automatski instaliraj dopune (preporučeno: poboljšana sigurnost)
     .accesskey = A
@@ -199,6 +215,7 @@ update-history-button =
 use-service =
     .label = Koristi pozadinski proces za instalaciju nadogradnji
     .accesskey = K
+cross-user-udpate-warning = Ove postavke će se primijeniti na sve Windows račune i { -brand-short-name } profile koji koriste ovu { -brand-short-name } instalaciju.
 networking-legend = Veza
 proxy-config-description = Podesite način na koji se{ -brand-short-name } povezuje na Internet
 network-settings-button =
@@ -341,6 +358,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Zatvori prozor/karticu poruke prilikom premještanja ili brisanja
     .accesskey = Z
+display-name-label =
+    .value = Ime za prikaz:
 condensed-addresses-label =
     .label = Prikaži samo ime za prikaz osoba iz mojeg adresara
     .accesskey = P
@@ -435,6 +454,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Ukloni
     .accesskey = U
+find-cloud-providers =
+    .value = Pronađite više davatelja usluga…
 cloud-account-description = Dodaj novu Filelink uslugu pohrane
 
 ## Privacy Tab
@@ -476,6 +497,11 @@ keep-ask =
 cookies-button =
     .label = Prikaži kolačiće…
     .accesskey = k
+do-not-track-label =
+    .label = Šalji “Ne prati me” signal web stranicama (stranice ga ne moraju poštivati)
+    .accesskey = N
+learn-button =
+    .label = Saznajte više
 passwords-description = { -brand-short-name } može zapamtiti lozinke za sve vaše račune.
 passwords-button =
     .label = Spremljene lozinke…
@@ -527,6 +553,12 @@ certificate-ask =
 ocsp-label =
     .label = Upitajte OCSP poslužitelje da biste potvrdili validnost certifikata
     .accesskey = U
+certificate-button =
+    .label = Upravljanje certifikatima…
+    .accesskey = U
+security-devices-button =
+    .label = Sigurnosni uređaji…
+    .accesskey = S
 
 ## Chat Tab
 
@@ -567,6 +599,17 @@ notification-name =
     .label = samo s imenom pošiljatelja
 notification-empty =
     .label = bez bilo kakvih informacija
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animiraj ikonu pristanka
+           *[other] Bljesak stavke alatne trake
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] B
+        }
 chat-play-sound-label =
     .label = Reproduciraj zvuk
     .accesskey = d
