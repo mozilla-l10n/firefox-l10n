@@ -105,6 +105,12 @@ restore-default-label =
     .label = Réinitialiser
     .accesskey = i
 default-search-engine = Moteur de recherche par défaut
+add-search-engine =
+    .label = Ajouter depuis un fichier
+    .accesskey = A
+remove-search-engine =
+    .label = Supprimer
+    .accesskey = S
 minimize-to-tray-label =
     .label = Quand { -brand-short-name } est réduit, le déplacer dans la barre de notification
     .accesskey = r
@@ -194,6 +200,7 @@ update-app-legend = Mises à jour de { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Version { $version }
+allow-description = Autoriser { -brand-short-name } à
 automatic-updates-label =
     .label = Installer automatiquement les mises à jour (recommandé pour votre sécurité)
     .accesskey = A
@@ -206,6 +213,7 @@ update-history-button =
 use-service =
     .label = Utiliser un service en arrière-plan pour installer les mises à jour
     .accesskey = s
+cross-user-udpate-warning = Ce paramètre s’appliquera à tous les comptes Windows et aux profils { -brand-short-name } utilisant cette installation de { -brand-short-name }.
 networking-legend = Connexion
 proxy-config-description = Configurer la façon dont { -brand-short-name } se connecte à Internet
 network-settings-button =
@@ -450,6 +458,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Supprimer
     .accesskey = S
+find-cloud-providers =
+    .value = Trouver plus de fournisseurs…
 cloud-account-description = Ajouter un nouveau service de stockage en ligne
 
 ## Privacy Tab
