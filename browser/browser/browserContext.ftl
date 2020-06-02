@@ -385,7 +385,3 @@ main-context-menu-eme-learn-more =
     .label = מידע נוסף על ניהול זכויות דיגיטלי…
     .accesskey = ז
 
-# Checkbox displayed at the bottom of the What's New panel, allowing users to 
-# enable/disable What's New notifications.
-cfr-whatsnew-panel-footer-checkbox =
-    .label = הצגת התרעות על תכונות חדשות

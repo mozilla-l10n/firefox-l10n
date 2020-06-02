@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = תגית חדשה
+
 tag-name-label =
     .value = שם התווית:
     .accesskey = T

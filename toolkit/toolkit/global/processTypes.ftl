@@ -19,3 +19,4 @@ process-type-gpu = מעבד גרפי
 
 # process used to perform network operations
 process-type-socket = Socket
+
