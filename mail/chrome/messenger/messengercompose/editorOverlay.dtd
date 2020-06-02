@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "페이지에서 단어 찾기">
 <!ENTITY spellToolbarCmd.label "맞춤법">
 <!ENTITY spellToolbarCmd.tooltip "선택된 모든 페이지에서 맞춤법 검사">
+
 <!ENTITY imageToolbarCmd.label "이미지">
 <!ENTITY imageToolbarCmd.tooltip "새 이미지을 삽입하거나 선택된 이미지 편집">
 <!ENTITY hruleToolbarCmd.label "가로선">

@@ -10,14 +10,6 @@ remove-address-row-type = { $type } 필드 삭제
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] { $type } 입력 필드 비우기
-       *[other] { $count }개 주소의 { $type } 입력 필드
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -47,3 +39,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = 숨은 참조로 이동
     .accesskey = b
+

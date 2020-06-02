@@ -27,18 +27,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] 닫은 탭 다시 열기
         }
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = 확장 기능 관리
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = 확장 기능 제거
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = 확장 기능 신고
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
