@@ -21,8 +21,12 @@ fonts-proportional-label =
 
 font-language-group-japanese =
     .label = Seapanais
+font-language-group-trad-chinese =
+    .label = Sìnis thradaiseanta (Taidh-Bhàn)
 font-language-group-simpl-chinese =
     .label = Sìnis shimplichte
+font-language-group-trad-chinese-hk =
+    .label = Sìnis thradaiseanta (Hong Kong)
 font-language-group-korean =
     .label = Coireanais
 font-language-group-cyrillic =
