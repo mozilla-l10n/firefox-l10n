@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Yeni Posta Uyarısını Özelleştir
+
 customize-alert-description = Uyarı bildiriminde hangi alanların gösterileceğini seçin:
+
 preview-text-checkbox =
     .label = İleti ön izleme metni
     .accesskey = İ
+
 subject-checkbox =
     .label = Konu
     .accesskey = K
+
 sender-checkbox =
     .label = Gönderen
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Yeni e-posta uyarısını
     .accesskey = Y
+
 open-time-label-after =
     .value = saniye boyunca göster

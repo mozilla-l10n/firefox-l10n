@@ -16,3 +16,4 @@ accounts-default = Varsayılan mı?
 identity-name = Kimlik
 
 send-via-email = E-posta ile gönder
+

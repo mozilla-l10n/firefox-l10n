@@ -599,9 +599,6 @@ updates-heading = Güncellemelerinizi yönetin
 discover-heading = { -brand-short-name } tarayıcınızı kişiselleştirin
 shortcuts-heading = Eklenti kısayollarını yönet
 
-theme-heading-search-label = Daha fazla tema bul
-extension-heading-search-label = Daha fazla eklenti bul
-
 default-heading-search-label = Daha fazla eklenti bul
 addons-heading-search-input =
     .placeholder = addons.mozilla.org’da ara

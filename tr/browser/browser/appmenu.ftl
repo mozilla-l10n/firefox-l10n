@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Gizlilik korumaları
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gizlilik raporuna git
+
 appmenuitem-protection-dashboard-title = Korumalar panosu
 appmenuitem-customize-mode =
     .label = Özelleştir…
