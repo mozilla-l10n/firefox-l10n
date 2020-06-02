@@ -11,6 +11,7 @@ category-compose =
 
 ## General Tab
 
+general-legend = Pagina d'aviada de { -brand-short-name }
 start-page-label =
     .label = Afichar la pagina d'aviada al moment de l'aviada de { -brand-short-name }
     .accesskey = A
