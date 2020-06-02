@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Lat att
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -110,6 +112,7 @@ change-dock-icon = Endra innstillingar for app-ikonet
 app-icon-options =
     .label = Innstillingar for app-ikon …
     .accesskey = n
+notification-settings = Åtvaringar og standardlyden kan slåast av i varslingsfeltet i Systeminnstillingar.
 animated-alert-label =
     .label = Vis eit varsel
     .accesskey = V
@@ -128,6 +131,8 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Slå på globalt søk og indeksering
     .accesskey = S
+datetime-formatting-legend = Formatering av dato og tid
+language-selector-legend = Språk
 allow-hw-accel =
     .label = Bruk maskinvareakselerasjon når tilgjengeleg
     .accesskey = m
@@ -170,6 +175,10 @@ return-receipts-description = Avgjer korleis { -brand-short-name } skal handsama
 return-receipts-button =
     .label = Kvitteringar …
     .accesskey = K
+update-app-legend = { -brand-short-name }-oppdateringar
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versjon { $version }
 automatic-updates-label =
     .label = Automatisk installer oppdateringar (tilrådd: betre sikkerheit)
     .accesskey = A
@@ -210,6 +219,9 @@ use-cache-after = MB diskplass for snøgglageret
 
 ##
 
+smart-cache-label =
+    .label = Sett til side automatisk cachehandsaming
+    .accesskey = s
 clear-cache-button =
     .label = Tøm no
     .accesskey = T
@@ -281,6 +293,9 @@ always-ask-label =
     .label = Alltid spør meg om kvar eg vil lagre filer
     .accesskey = A
 display-tags-text = Merkelapp-stikkord kan brukast for å kategorisera og prioritera meldingane dine.
+new-tag-button =
+    .label = Ny…
+    .accesskey = N
 edit-tag-button =
     .label = Rediger…
     .accesskey = R
@@ -304,6 +319,8 @@ seconds-label = sekund
 
 ##
 
+open-msg-label =
+    .value = Opne meldingar i:
 open-msg-tab =
     .label = Ei ny fane
     .accesskey = E
@@ -390,6 +407,11 @@ edit-directories-label =
 email-picker-label =
     .label = Automatisk legg utgåande e-postadresser til i:
     .accesskey = A
+default-directory-label =
+    .value = Standard startkatalog i adressbokvindauget:
+    .accesskey = S
+default-last-label =
+    .none = Sist brukte katalog
 attachment-label =
     .label = Åtvar meg dersom vedlegg manglar
     .accesskey = Å
@@ -418,6 +440,8 @@ remote-content-label =
 exceptions-button =
     .label = Unntak…
     .accesskey = U
+remote-content-info =
+    .value = Les meir om personvernutfordringane ved eksternt innhald
 web-content = Nettinnhald
 history-label =
     .label = Hugs nettsider og lenker eg har besøkt
@@ -434,7 +458,22 @@ third-party-never =
     .label = Aldri
 third-party-visited =
     .label = Frå besøkte
+keep-label =
+    .value = Ta vare på dei til:
+    .accesskey = e
+keep-expire =
+    .label = Dei går ut på dato
+keep-close =
+    .label = Eg lukkar { -brand-short-name }
+keep-ask =
+    .label = Spør meg kvar gong
+cookies-button =
+    .label = Vis infokapslar…
+    .accesskey = V
 passwords-description = { -brand-short-name } kan hugse passordinformasjon for alle kontoane dine, slik at du ikkje treng å skriva inn innloggingsdetaljane fleire gonger.
+passwords-button =
+    .label = Lagra passord…
+    .accesskey = L
 master-password-description = Du kan bruka eit hovudpassord for å verna alle passorda dine, men du må skriva inn passordet ein gong for kvar programøkt.
 master-password-label =
     .label = Bruk eit hovudpassord
@@ -452,6 +491,9 @@ junk-move-label =
 junk-delete-label =
     .label = Slett dei
     .accesskey = t
+junk-read-label =
+    .label = Merk uønskte søppelmeldingar som lesne
+    .accesskey = M
 junk-log-label =
     .label = Slå på logging for adaptiv filter for uønskt e-post
     .accesskey = l
@@ -465,6 +507,7 @@ phishing-description = { -brand-short-name } kan analysere meldingar og oppdage 
 phishing-label =
     .label = Fortel meg om meldinga eg les er mistenkt e-postsvindel
     .accesskey = F
+antivirus-description = { -brand-short-name } kan gjere det enkelt for antivirus-program å analysere innkomande e-postmeldingar for virus før dei vert lagra.
 antivirus-label =
     .label = Tillat antivirus-program å leggja innkomande meldingar i karantene
     .accesskey = T
@@ -533,6 +576,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Bla gjennom …
     .accesskey = B
+theme-label =
+    .value = Tema
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bobler
+style-dark =
+    .label = Mørkt
+style-paper =
+    .label = Papirark
+style-simple =
+    .label = Enkelt
+preview-label = Førehandsvising:
+no-preview-label = Inga førehandsvising tilgjengeleg
+no-preview-description = Dette temaet er ikkje gyldig eller er for tida utilgjengeleg (deaktivert utviding, trygg modus, ...).
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Vis overskrift
+    .accesskey = o
 
 ## Preferences UI Search Results
 
