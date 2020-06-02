@@ -2,12 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Mbylle
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Mundësi
+           *[other] Parapëlqime
+        }
 pane-general-title = Të përgjithshme
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = Hartim
 category-compose =
     .tooltiptext = Hartim
+pane-privacy-title = Privatësi & Siguri
+category-privacy =
+    .tooltiptext = Privatësi & Siguri
+pane-chat-title = Fjalosje
+category-chat =
+    .tooltiptext = Fjalosje
+pane-calendar-title = Kalendar
+category-calendar =
+    .tooltiptext = Kalendar
 general-language-and-appearance-header = Gjuhë & Dukje
 general-incoming-mail-header = Email-e Ardhëse
 general-files-and-attachment-header = Kartela & Bashkëngjitje
@@ -58,6 +75,7 @@ update-in-progress-ok-button = &Hidhe Tej
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
+addons-button = Zgjerimet & Tema
 
 ## OS Authentication dialog
 
@@ -75,43 +93,212 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = Faqe Fillimi për { -brand-short-name }-in
 restore-default-label =
     .label = Rimerr Parazgjedhjet
     .accesskey = R
+default-search-engine = Motor Parazgjedhje Kërkimesh
+add-search-engine =
+    .label = Shtoni prej kartele
+    .accesskey = S
+remove-search-engine =
+    .label = Hiqe
+    .accesskey = q
+minimize-to-tray-label =
+    .label = Kur minimizohet { -brand-short-name }-i, shpjere te shtylla
+    .accesskey = m
 new-message-arrival = Kur mbërrijnë mesazhe të rinj:
+change-dock-icon = Ndryshoni parapëlqimet për ikonën e aplikacionit
+app-icon-options =
+    .label = Mundësi Ikone Aplikacioni…
+    .accesskey = M
+notification-settings = Sinjalizimet dhe tingulli parazgjedhje mund të çaktivizohen te pjesa Njoftime në Parapëlqime Sistemi.
 animated-alert-label =
     .label = Shfaq një sinjalizim
     .accesskey = S
+tray-icon-label =
+    .label = Shfaq ikonë paneli
+    .accesskey = p
+datetime-formatting-legend = Formatim Datash dhe Kohe
+language-selector-legend = Gjuhë
+allow-hw-accel =
+    .label = Përdor përshpejtim hardware kur mundet
+    .accesskey = h
+store-type-label =
+    .value = Lloj Depoje Mesazhesh për llogari të reja:
+    .accesskey = L
+mbox-store-label =
+    .label = Një kartelë për dosje (mbox)
+maildir-store-label =
+    .label = Një kartelë për mesazh (maildir)
+scrolling-legend = Rrëshqitje
+autoscroll-label =
+    .label = Përdor vetërrëshqitje
+    .accesskey = v
+smooth-scrolling-label =
+    .label = Përdor rrëshqitje të butë
+    .accesskey = b
+always-check-default =
+    .label = Gjatë nisjes, kontrollo përherë nëse është apo jo { -brand-short-name }-i klienti parazgjedhje për postën
+    .accesskey = G
+check-default-button =
+    .label = Kontrolloni Tani…
+    .accesskey = K
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Search
+       *[other] { "" }
+    }
+update-app-legend = Përditësime { -brand-short-name }-i
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Version { $version }
+allow-description = Lejojeni { -brand-short-name }-in të
+automatic-updates-label =
+    .label = Instaloji vetvetiu përditësimet (e këshillueshme: përmirësohet siguria)
+    .accesskey = v
+check-updates-label =
+    .label = Kontrollo për përditësime, por lejomë të zgjedh t'i instaloj apo jo
+    .accesskey = K
+update-history-button =
+    .label = Shfaq Historik Përditësimesh
+    .accesskey = H
+use-service =
+    .label = Për instalim përditësimesh përdor një shërbim në prapaskenë
+    .accesskey = i
+cross-user-udpate-warning = Ky rregullim do të zbatohet mbi krejt llogaritë Windows dhe profilet { -brand-short-name } që përdorin këtë instalim të { -brand-short-name }-it.
+offline-legend = Jo në linjë
+offline-settings = Formësoni rregullimet për jo në linjë
+offline-settings-button =
+    .label = Jo në linjë…
+    .accesskey = J
+diskspace-legend = Hapësirë Disku
+offline-compact-folder =
+    .label = Ngjeshi krejt dosjet kur kjo sjell kursim vendi
+    .accesskey = N
+compact-folder-size =
+    .value = MB gjithsej
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-after = MB hapësirë për fshehtinën
 
 ##
 
+smart-cache-label =
+    .label = Anashkalo administrim të vetvetishëm fshehtine
+    .accesskey = A
+fonts-legend = Shkronja & Ngjyra
+color-options-button =
+    .label = Ngjyra…
+    .accesskey = N
 display-width-legend = Mesazhe Tekst i Thjeshtë
+display-text-label = Kur shfaqen mesazhe teksti të thjeshtë të cituar:
 regular-style-item =
     .label = I rregullt
 bold-style-item =
     .label = Të trasha
 italic-style-item =
     .label = Të pjerrëta
+bold-italic-style-item =
+    .label = Të trasha Të pjerrëta
 regular-size-item =
     .label = Të rregullta
+bigger-size-item =
+    .label = Më të mëdha
 smaller-size-item =
     .label = Më të vogla
+quoted-text-color =
+    .label = Ngjyrë:
+    .accesskey = n
+search-input =
+    .placeholder = Kërko
+type-column-label =
+    .label = Lloj Lënde
+    .accesskey = L
+action-column-label =
+    .label = Veprim
+    .accesskey = V
+save-to-label =
+    .label = Kartelat ruaji te
+    .accesskey = K
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Zgjidhni…
+           *[other] Shfletoni…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] Z
+           *[other] S
+        }
+always-ask-label =
+    .label = Pyetmë përherë ku të ruhen kartelat
+    .accesskey = P
+display-tags-text = Etiketat mund të përdoren për të kategorizuar dhe treguar përparësi për mesazhet tuaj.
+new-tag-button =
+    .label = E re…
+    .accesskey = r
+edit-tag-button =
+    .label = Përpunoni…
+    .accesskey = P
+delete-tag-button =
+    .label = Fshije
+    .accesskey = F
+auto-mark-as-read =
+    .label = Shënoji vetvetiu mesazhet si të lexuar
+    .accesskey = v
+mark-read-no-delay =
+    .label = Sapo të shfaqen
+    .accesskey = S
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Pasi janë shfaqur për
+    .accesskey = P
+seconds-label = sekonda
 
 ##
 
+open-msg-label =
+    .value = Hapi mesazhet në:
+open-msg-tab =
+    .label = Skedë të re
+    .accesskey = k
+open-msg-window =
+    .label = Dritare të re mesazhesh
+    .accesskey = D
+open-msg-ex-window =
+    .label = Dritare ekzistuese mesazhesh
+    .accesskey = e
+close-move-delete =
+    .label = Me lëvizjen ose fshirjen mbylle dritaren /skedën e mesazhit
+    .accesskey = m
+display-name-label =
+    .value = Emër në ekran:
+condensed-addresses-label =
+    .label = Për persona në librin tim të adresave shfaq vetëm emër ekrani
+    .accesskey = P
 
 ## Compose Tab
 
+as-attachment-label =
+    .label = Si Bashkëngjitje
+extension-label =
+    .label = Shto prapashtesë te emri i kartelës
+    .accesskey = s
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -120,13 +307,167 @@ auto-save-end = minuta
 
 ##
 
+spellcheck-label =
+    .label = Kontrolloji drejtshkrimin para se ta dërgosh
+    .accesskey = K
+download-dictionaries-link = Shkarkoni Më Tepër Fjalorë
+font-label =
+    .value = Shkronja:
+    .accesskey = S
+font-size-label =
+    .value = Madhësi:
+    .accesskey = M
+default-colors-label =
+    .label = Përdor ngjyrat parazgjedhje të lexuesit
+    .accesskey = p
+font-color-label =
+    .value = Ngjyrë Teksti:
+    .accesskey = T
+bg-color-label =
+    .value = Ngjyrë Sfondi:
+    .accesskey = S
+restore-html-label =
+    .label = Rimerr Parazgjedhjet
+    .accesskey = i
+default-format-label =
+    .label = Si parazgjedhje, përdor formatin Paragraf, në vend se të Lëndë Mesazhi
+    .accesskey = P
 autocomplete-description = Kur adresohen mesazhe, shih për zëra përputhjesh te:
+ab-label =
+    .label = Libra Vendorë Adresash
+    .accesskey = L
+directories-label =
+    .label = Shërbyes Drejtorie:
+    .accesskey = S
+directories-none-label =
+    .none = Asnjë
+edit-directories-label =
+    .label = Përpunoni Drejtori…
+    .accesskey = P
+default-directory-label =
+    .value = Drejtori parazgjedhje për nisjen e dritares së librit të adresave:
+    .accesskey = D
+default-last-label =
+    .none = Drejtoria e përdorur së fundit
+enable-cloud-share =
+    .label = Ofroni për ndarje kartela më të mëdha se
+cloud-share-size =
+    .value = MB
+add-cloud-account =
+    .label = Shtoni…
+    .accesskey = S
+    .defaultlabel = Shtoni…
+remove-cloud-account =
+    .label = Hiqe
+    .accesskey = H
+find-cloud-providers =
+    .value = Gjeni më tepër furnizues…
+cloud-account-description = Shtoni një shërbim të ri depozitimi Filelink
 
 ## Privacy Tab
 
+mail-content = Lëndë Poste
+remote-content-label =
+    .label = Lejo lëndë të largët në mesazhe
+    .accesskey = L
+exceptions-button =
+    .label = Përjashtime…
+    .accesskey = ë
+remote-content-info =
+    .value = Mësoni më tepër rreth çështjesh privatësie lënde të largët
+web-content = Lëndë Web
+history-label =
+    .label = Mba mend sajte dhe lidhje që kam vizituar
+    .accesskey = R
+cookies-label =
+    .label = Prano cookies prej sajtesh
+    .accesskey = s
+third-party-label =
+    .value = Prano cookies palësh të treta:
+    .accesskey = t
+third-party-always =
+    .label = Përherë
+third-party-never =
+    .label = Kurrë
+third-party-visited =
+    .label = Nga të vizituarit
+keep-label =
+    .value = Mbaji:
+    .accesskey = M
+keep-expire =
+    .label = deri sa të skadojnë
+keep-close =
+    .label = deri sa të mbyll { -brand-short-name }-in
+keep-ask =
+    .label = pyetmë çdo herë
+cookies-button =
+    .label = Shfaqni Cookie-t…
+    .accesskey = S
+do-not-track-label =
+    .label = Dërgojuni sajteve një sinjal “Mos Më Gjurmo” se nuk doni të ndiqeni
+    .accesskey = D
+learn-button =
+    .label = Mësoni më tepër
+passwords-description = { -brand-short-name }-i mund të mbajë mend fjalëkalimet për tërë llogaritë tuaja.
+passwords-button =
+    .label = Fjalëkalime të Ruajtur…
+    .accesskey = F
+master-password-description = Një Fjalëkalim i Përgjithshëm i mbron tërë fjalëkalimet tuaj, por do t'ju duhet ta jepni çdo herë për sesion.
+master-password-label =
+    .label = Përdor fjalëkalim të përgjithshëm
+    .accesskey = P
+master-password-button =
+    .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
+    .accesskey = N
+junk-description = Caktoni rregullimet tuaja parazgjedhje për postën e pavlerë. Rregullimet për postë të pavlerë, sipas llogarish të veçanta, mund të formësohen te Rregullime Llogarish.
+junk-label =
+    .label = Kur shënoj mesazhe si të pavlera:
+    .accesskey = K
+junk-move-label =
+    .label = Shpjeri te dosja "Të pavlera" e llogarisë përkatëse
+    .accesskey = S
+junk-delete-label =
+    .label = Fshiji
+    .accesskey = F
+junk-read-label =
+    .label = Mesazhet, për të cilat është përcaktuar se janë Të pavlera, shënoji si të lexuar
+    .accesskey = M
+junk-log-label =
+    .label = Aktivizo regjistrim nga filtrat për të pavlerat
+    .accesskey = A
+junk-log-button =
+    .label = Shfaq regjistrimin
+    .accesskey = h
+reset-junk-button =
+    .label = Rirregulloni të Dhëna Stërvitjeje
+    .accesskey = R
+phishing-description = { -brand-short-name }-i mund t'i analizojë mesazhet për email mashtrues duke parë për teknika të zakonshme që përdoren për t'ju hedhur hi syve.
+phishing-label =
+    .label = Nëse mesazhi që po lexoj dyshohet si email mashtrim, ma bëj të ditur
+    .accesskey = M
+antivirus-description = { -brand-short-name }-i mund t'ia lehtësojë software-it tuaj anti-virus analizat për viruse në mesazhe poste ardhëse, përpara se ato të depozitohen lokalisht.
+antivirus-label =
+    .label = Lejo klientë anti-virus të vendosin në karantinë mesazhe të veçantë ardhës
+    .accesskey = L
+ocsp-label =
+    .label = Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive
+    .accesskey = K
+certificate-button =
+    .label = Administroni Dëshmi…
+    .accesskey = A
+security-devices-button =
+    .label = Pajisje Sigurie…
+    .accesskey = P
 
 ## Chat Tab
 
+startup-label =
+    .value = Kur niset { -brand-short-name }-i:
+    .accesskey = K
+offline-label =
+    .label = Mbaji jashtë linje llogaritë e mia të fjalosjeve
+auto-connect-label =
+    .label = Bëje vetvetiu lidhjen e llogarive të mia të fjalosjeve
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -134,9 +475,77 @@ autocomplete-description = Kur adresohen mesazhe, shih për zëra përputhjesh t
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Kontakteve të mia lejoju të më shohin si të plogësht pas
+    .accesskey = K
+idle-time-label = minutash pa veprimtari
 
 ##
 
+away-message-label =
+    .label = dhe gjendjen time kaloje si i Larguar, dhe me këtë mesazh gjendjeje:
+    .accesskey = d
+send-typing-label =
+    .label = Dërgo gjatë bisedave njoftime lidhur me shtypje në tastierë
+    .accesskey = ë
+notification-label = Kur mbërrijnë mesazhe drejtuar jush:
+show-notification-label =
+    .label = Shfaq një njoftim:
+    .accesskey = n
+notification-all =
+    .label = me emrin e dërguesit dhe një paraparje të mesazhit
+notification-name =
+    .label = vetëm me emrin e dërguesit
+notification-empty =
+    .label = pa ndonjë të dhënë
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Kryej animacion ikone paneli
+           *[other] Xixëlloje objektin e panelit
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] a
+           *[other] X
+        }
+chat-play-sound-label =
+    .label = Luaj një tingull
+    .accesskey = L
+chat-play-button =
+    .label = Luaje
+    .accesskey = L
+chat-system-sound-label =
+    .label = Tingull parazgjedhje sistemi për postë të re
+    .accesskey = P
+chat-custom-sound-label =
+    .label = Përdor kartelën zanore vijuese
+    .accesskey = P
+chat-browse-sound-button =
+    .label = Shfletoni…
+    .accesskey = S
+theme-label =
+    .value = Temë:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Flluska
+style-dark =
+    .label = E errët
+style-paper =
+    .label = Fletë Letre
+style-simple =
+    .label = E thjeshtë
+preview-label = Paraparje:
+no-preview-label = S’ka paraparje gati
+no-preview-description = Kjo temë s’është e vlefshme ose hëpërhë jo gati (shtesë e çaktivizuar, mënyrë e parrezik, …).
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Shfaq Kryet
+    .accesskey = K
 
 ## Preferences UI Search Results
 
