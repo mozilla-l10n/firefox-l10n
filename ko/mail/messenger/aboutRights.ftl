@@ -6,6 +6,7 @@ rights-title = 여러분의 권리 알아보기
 rights-intro = { -brand-full-name }는 무료 오픈 소스 소프트웨어이며, 전세계 수천명의 커뮤니티 개발자에 의해 만들어지고 있습니다. 아래에 몇 가지 유의 사항을 알려 드립니다:
 rights-intro-point-3 = { -brand-short-name }내 충돌 보고서 같은 기능은 { -vendor-short-name }에 피드백을 보냅니다. 의견 보내기를 누르면 { -vendor-short-name }에서 더 나은 제품을 만드는 데 의견을 웹 사이트에 게시, 배포하는 권한을 얻게 됩니다.
 rights-intro-point-5-unbranded = 이 제품이 웹 서비스를 지원하지 않으면 당 서비스의 서비스 조건은 링크에서 찾을 수 있습니다.<a data-l10n-name="mozilla-website-services-link">자세히</a> 보기
+rights-intro-point-6 = 특정 형식의 동영상 재생을 위해 { -brand-short-name }는 특정 제 삼자 콘텐츠 해석 모듈을 다운받습니다.
 rights-webservices-header = { -brand-full-name } 웹 기반 정보 서비스
 rights-locationawarebrowsing-term-1 = 주소창에 about:config 입력 <code>검색항목에 geo.enabled 입력</code>
 rights-locationawarebrowsing-term-2 = geo.enabled 항목을 더블 클릭
