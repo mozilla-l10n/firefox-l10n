@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Taq Kib'anikil Chokoy
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Tiyuj
     .accesskey = y

@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Richinanem Chajinem
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tatz'eta' ri ichinan rutzijol
+
 appmenuitem-customize-mode =
     .label = Tichinäx…
 

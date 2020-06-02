@@ -16,3 +16,4 @@ accounts-default = ¿La kan k'o wi?
 identity-name = B'anikil
 
 send-via-email = Titaq rik'in taqoya'l
+

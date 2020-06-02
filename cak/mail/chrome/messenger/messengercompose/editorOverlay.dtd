@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Tikanöx rucholajem tzij pa ruxaq">
 <!ENTITY spellToolbarCmd.label "Cholotz'ib'">
 <!ENTITY spellToolbarCmd.tooltip "Tinik'ox rutz'ib'axik cha'oj o chijun ri ruxaq">
+
 <!ENTITY imageToolbarCmd.label "Wachib'äl">
 <!ENTITY imageToolbarCmd.tooltip "Tich'ik k'ak'a' wachib'äl o tinuk' taq richinil ri wachib'äl cha'on">
 <!ENTITY hruleToolbarCmd.label "H.Line">

@@ -46,7 +46,6 @@ protection-report-page-summary = { -brand-short-name } nitikïr nuchajij ri awic
 
 etp-card-title-always = Utzirisan Chajinïk chuwäch Ojqanem: Jutaqil Tzijïl
 etp-card-title-custom-not-blocking = Utzirisan Chajinïk chuwäch Ojqanem: CHUPÜL
-etp-card-content-summary = Toq man etaman ta kiwa taq ajk'ayij nikitojtob'ej yatkoqaj pan ewäl pan ajk'amaya'l, { -brand-short-name } pa ruyonil yeruq'ät k'ïy chi ke ri'.
 protection-report-etp-card-content-custom-not-blocking = Echupun ronojel ri taq chajinïk wakami. Ke'acha' ri taq ojqanela' yeq'at rik'in nanuk'samajij kinuk'ulem taq ruchajinik { -brand-short-name }.
 protection-report-manage-protections = Tinuk'samajïx Runuk'ulem
 
@@ -71,9 +70,6 @@ fingerprinter-tab-content = Ri b'anöy ruwi' q'ab'aj nikimöl taq runuk'ulem awo
 
 cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Ri ajkriptom nikokisaj ruchuq'a' ruq'inoj akematz'ib' richin rub'anik kematz'ib'il pwäq. Ri taq skrip ye'okisäx chi kipam, nikokisaj ri awateriya', eqal nikib'än chi re ri akematz'ib' chuqa' nikijotob'a' rajil ruwujil asaqil. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
-
-protections-close-button =
-    .aria-label = Titz'apïx
 
 protections-close-button2 =
     .aria-label = Titz'apïx

@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Taq kaxlanwey
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Tikanöx:
     .accesskey = T
+
 cookies-on-system-label = Re taq kaxlanwey re' eyakon pan akematz'ib':
+
 treecol-site-header =
     .label = Ruxaq k'amaya'l
+
 treecol-name-header =
     .label = Rub'i' Kaxlanwey
+
 props-name-label =
     .value = B'i'aj:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Xtik'o ruq'ijul:
 props-container-label =
     .value = K'ojlib'äl:
+
 remove-cookie-button =
     .label = Tiyuj Kaxlanwäy
     .accesskey = y
+
 remove-all-cookies-button =
     .label = Keyuj Konojel taq Kaxlanwey
     .accesskey = K
+
 cookie-close-button =
     .label = Titz'apïx
     .accesskey = x

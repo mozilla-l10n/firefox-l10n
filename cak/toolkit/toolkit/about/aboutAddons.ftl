@@ -602,9 +602,6 @@ updates-heading = Ke'anuk'samajij ri taq Ak'exoj
 discover-heading = Tawichinaj { -brand-short-name }
 shortcuts-heading = Kenuk'samajïx Kichojokem taq K'amal
 
-theme-heading-search-label = Ke'ilitäj ch'aqa' chik taq wachinel
-extension-heading-search-label = Ke'ilitäj ch'aqa' chik taq k'amal
-
 default-heading-search-label = Kekanöx ch'aqa' chik taq tz'aqat
 addons-heading-search-input =
     .placeholder = Tikanöx addons.mozilla.org

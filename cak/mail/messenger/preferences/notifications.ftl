@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Tichinäx K'ak'a' Rutzijol Taqoya'l
+
 customize-alert-description = Ticha' achike taq k'ojlib'äl yek'ut pa ri rutzijol k'ayewal:
+
 preview-text-checkbox =
     .label = Nab'ey Rutzub'al Cholan Rutzij Tzijol
     .accesskey = R
+
 subject-checkbox =
     .label = Taqikil
     .accesskey = T
+
 sender-checkbox =
     .label = Taqonel
     .accesskey = a
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Tik'ut pe K'ak'a' Rutzijol Ruk'ayewal Tzijol pa
     .accesskey = K
+
 open-time-label-after =
     .value = taq nich'ramaj
