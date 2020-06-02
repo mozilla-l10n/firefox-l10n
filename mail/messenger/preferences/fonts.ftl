@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latină
 font-language-group-japanese =
     .label = Japoneză
 font-language-group-trad-chinese =
@@ -69,6 +72,10 @@ font-language-group-telugu =
     .label = Telugu
 font-language-group-kannada =
     .label = Kannada
+font-language-group-sinhala =
+    .label = Sinhaleză
+font-language-group-tibetan =
+    .label = Tibetană
 
 ## Default font type
 
@@ -76,6 +83,12 @@ default-font-serif =
     .label = Cu serife
 default-font-sans-serif =
     .label = Fără serife
+font-size-label =
+    .value = Dimensiune:
+    .accesskey = e
+font-size-monospace-label =
+    .value = Dimensiune:
+    .accesskey = i
 font-serif-label =
     .value = Cu serife:
     .accesskey = s
@@ -85,11 +98,15 @@ font-sans-serif-label =
 font-monospace-label =
     .value = Monospațiat:
     .accesskey = M
+font-min-size-label =
+    .value = Dimensiunea minimă a fontului:
+    .accesskey = M
 min-size-none =
     .label = Fără
 
 ## Fonts in message
 
+font-control-legend = Controlarea fonturilor
 use-document-fonts-checkbox =
     .label = Permite mesajelor să folosească alte fonturi
     .accesskey = o
@@ -100,6 +117,7 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codare de text
+text-encoding-description = Setează codarea de text implicită pentru trimiterea și primirea mesajelor
 font-outgoing-email-label =
     .value = Mesaje trimise:
     .accesskey = M

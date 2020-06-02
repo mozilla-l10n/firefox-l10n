@@ -14,6 +14,7 @@ connection-dns-over-https-url-custom =
     .accesskey = C
     .tooltiptext = Introdu URL-ul preferat pentru rezolvarea DNS over HTTPS
 connection-dns-over-https-custom-label = Personalizat
+connection-proxy-legend = Configurează proxy-uri pentru accesul la internet
 proxy-type-no =
     .label = Fără proxy
     .accesskey = y
