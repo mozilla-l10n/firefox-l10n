@@ -2,9 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+dateformat-label =
+    .value = Datoformat:
+    .accesskey = D
+#   $date (String) - the formatted example date
+dateformat-long =
+    .label = Lang: { $date }
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Kort: { $date }
+day-1-name =
+    .label = Sundag
 day-2-name =
     .label = Måndag
 day-3-name =
@@ -17,6 +25,9 @@ day-6-name =
     .label = Fredag
 day-7-name =
     .label = Laurdag
+day-1-checkbox =
+    .label = Sun
+    .accesskey = S
 day-2-checkbox =
     .label = Mån
     .accesskey = M
@@ -62,10 +73,16 @@ reminder-dialog-label =
     .label = Vis alarmboks
     .accesskey = V
 reminder-default-legend = Standardalarmar
+event-alarm-label =
+    .value = Standard alarminnstilling for hendingar:
+    .accesskey = e
 alarm-on-label =
     .label = På
 alarm-off-label =
     .label = Av
+task-alarm-label =
+    .value = Standard alarminnstilling for oppgåver:
+    .accesskey = a
 event-alarm-time-label =
     .value = Standard varslingstid før ei hending:
     .accesskey = v
