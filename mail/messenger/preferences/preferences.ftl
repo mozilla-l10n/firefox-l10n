@@ -64,15 +64,43 @@ update-in-progress-cancel-button = &Fortset
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 location-label =
     .value = Adresse:
     .accesskey = A
+restore-default-label =
+    .label = Bruk standard
+    .accesskey = u
 new-message-arrival = Når ei ny melding kjem:
+mail-play-button =
+    .label = Spel av
+    .accesskey = e
+animated-alert-label =
+    .label = Vis eit varsel
+    .accesskey = V
 mail-browse-sound-button =
     .label = Bla gjennom …
     .accesskey = B
+enable-gloda-search-label =
+    .label = Slå på globalt søk og indeksering
+    .accesskey = S
+system-integration-legend = Systemintegrasjon
+always-check-default =
+    .label = Alltid kontroller om { -brand-short-name } er standard e-postklient ved oppstart
+    .accesskey = l
+config-editor-button =
+    .label = Konfigurasjonseditor …
+    .accesskey = o
+return-receipts-button =
+    .label = Kvitteringar …
+    .accesskey = K
 networking-legend = Tilkopling
+proxy-config-description = Still inn korleis { -brand-short-name } koplar seg til Internett
 offline-legend = Fråkopla
+offline-settings = Konfigurer innstillingar for fråkopla modus
 offline-settings-button =
     .label = Fråkopla …
     .accesskey = F
@@ -81,11 +109,26 @@ offline-settings-button =
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Bruk opptil
+    .accesskey = B
 
 ##
 
+clear-cache-button =
+    .label = Tøm no
+    .accesskey = T
+default-font-label =
+    .value = Standard skrifttype:
+    .accesskey = t
+font-options-button =
+    .label = Skrifttypar …
+    .accesskey = r
 display-width-legend = Meldingar i normal tekst
 display-text-label = Når ein viser sitat i tekstmeldingar:
+style-label =
+    .value = Stil:
+    .accesskey = S
 regular-style-item =
     .label = Vanleg
 bold-style-item =
@@ -100,6 +143,21 @@ bigger-size-item =
     .label = Større
 smaller-size-item =
     .label = Mindre
+type-column-label =
+    .label = Innhaldstype
+    .accesskey = I
+action-column-label =
+    .label = Handling
+    .accesskey = H
+save-to-label =
+    .label = Lagre filer til
+    .accesskey = L
+always-ask-label =
+    .label = Alltid spør meg om kvar eg vil lagre filer
+    .accesskey = A
+delete-tag-button =
+    .label = Slett
+    .accesskey = S
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -121,6 +179,9 @@ as-attachment-label =
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Lagre meldingar automatisk kvart
+    .accesskey = L
 auto-save-end = minutt
 
 ##
@@ -132,13 +193,37 @@ font-color-label =
 bg-color-label =
     .value = Bakgrunnsfarge:
     .accesskey = B
+restore-html-label =
+    .label = Bruk standard
+    .accesskey = d
 format-description = Konfigurer åtferda til tekstformatet
+ab-label =
+    .label = Lokale adressebøker
+    .accesskey = L
 directories-label =
     .label = Katalogtenar:
     .accesskey = K
+directories-none-label =
+    .none = Ingen
 
 ## Privacy Tab
 
+master-password-label =
+    .label = Bruk eit hovudpassord
+    .accesskey = B
+junk-delete-label =
+    .label = Slett dei
+    .accesskey = t
+junk-log-button =
+    .label = Vis logg
+    .accesskey = V
+certificate-description = Når ein tenar ber om det personlege sertifikatet mitt:
+certificate-auto =
+    .label = Vel eit automatisk
+    .accesskey = e
+certificate-ask =
+    .label = Spør meg kvar gong
+    .accesskey = S
 
 ## Chat Tab
 
