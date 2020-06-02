@@ -5,16 +5,22 @@
 dock-options-window-dialog =
     .title = Наcтройки значка приложения
     .style = width: 45em;
+
 bounce-system-dock-icon =
     .label = Анимировать значок приложения при приходе нового сообщения
     .accesskey = н
+
 dock-icon-legend = Наклейка значка приложения
+
 dock-icon-show-label =
     .value = Наклеивать на значок приложения:
+
 count-unread-messages-radio =
     .label = Число непрочитанных сообщений
     .accesskey = и
+
 count-new-messages-radio =
     .label = Число новых сообщений
     .accesskey = о
+
 notification-settings-info = Вы можете отключить наклейку на панели Уведомления в Системных настройках.

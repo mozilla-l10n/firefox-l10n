@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Настройка уведомлений о приходе почты
+
 customize-alert-description = Укажите поля, показываемые в уведомлении о приходе почты:
+
 preview-text-checkbox =
     .label = Текст сообщения
     .accesskey = к
+
 subject-checkbox =
     .label = Тема
     .accesskey = е
+
 sender-checkbox =
     .label = Отправитель
     .accesskey = п
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Отображать уведомление о приходе почты в течение
     .accesskey = о
+
 open-time-label-after =
     .value = сек.
