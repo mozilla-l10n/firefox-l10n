@@ -41,6 +41,7 @@ location-label =
 restore-default-label =
     .label = Kembalikan Nilai Default
     .accesskey = K
+default-search-engine = Mesin Pencari Baku
 new-message-arrival = Saat pesan baru datang:
 mail-play-button =
     .label = Mainkan
