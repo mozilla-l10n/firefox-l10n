@@ -30,5 +30,6 @@ carddav-remember-password =
     .accesskey = п
 carddav-loading = Пошук конфігурації…
 carddav-connection-error = Не вдалося з’єднатися.
+carddav-none-found = Не знайдено адресних книг, які можна додати до вказаного облікового запису.
 carddav-already-added = Усі адресні книги для вказаного облікового запису вже додано.
 carddav-available-books = Доступні адресні книги:
