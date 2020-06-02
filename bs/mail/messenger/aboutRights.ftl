@@ -13,6 +13,7 @@ rights-intro-point-6 = Da bi mogao reproducirati neke vrste video zapisa, { -bra
 rights-webservices-header = { -brand-full-name } Web-bazirani informacioni servisi
 rights-webservices = { -brand-full-name } koristi web-bazirane servise ("Servisi") da bi vam omogućio neke od opcija koje možete koristiti uz ovu binarnu verziju { -brand-short-name }a pod uslovima opisanim u nastavku. Ukoliko ne želite koristiti jedan ili više Servisa ili su vam uslovi korištenja neprihvatljivi, možete onemogućiti opciju ili Servis(e). Instrukcije kako onemogućiti opciju ili Servis možete pronaći <a data-l10n-name="mozilla-disable-service-link">ovdje</a>. Druge mogućnosti i Usluge mogu biti onemogućeni u postavkama aplikacije.
 rights-locationawarebrowsing = <strong>Lokacijski-svjesno surfanje: </strong>je uvijek opcionalno. Nijedna informacija o lokaciji nije poslata bez vaše dozvole. Ukoliko želite da onemogućite ovu opciju u potpunosti, pratite sljedeće korake:
+rights-locationawarebrowsing-term-1 = U traci za URL, upišite <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Upišite geo.enabled
 rights-locationawarebrowsing-term-3 = Dva puta kliknite na geo.enabled postavku
 rights-locationawarebrowsing-term-4 = Lokacijski-svjesno surfanje je sada onemogućeno
