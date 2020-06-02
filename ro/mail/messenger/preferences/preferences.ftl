@@ -75,6 +75,7 @@ update-in-progress-ok-button = E&limină
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = C&ontinuă
+addons-button = Extensii și teme
 
 ## OS Authentication dialog
 
@@ -95,6 +96,9 @@ focus-search-shortcut =
 focus-search-shortcut-alt =
     .key = k
 general-legend = Pagina de pornire { -brand-short-name }
+start-page-label =
+    .label = Afișează pagina de start în zona de mesaje la pornirea { -brand-short-name }
+    .accesskey = A
 location-label =
     .value = Locație:
     .accesskey = A
@@ -102,6 +106,15 @@ restore-default-label =
     .label = Restaurează
     .accesskey = R
 default-search-engine = Motor de căutare implicit
+add-search-engine =
+    .label = Adaugă din fișier
+    .accesskey = A
+remove-search-engine =
+    .label = Elimină
+    .accesskey = v
+minimize-to-tray-label =
+    .label = Când { -brand-short-name } este minimalizat, mută-l în bara de sistem
+    .accesskey = m
 new-message-arrival = Când sosesc noi mesaje:
 mail-play-sound-label =
     .label =
@@ -128,6 +141,9 @@ animated-alert-label =
 customize-alert-label =
     .label = Personalizează…
     .accesskey = P
+tray-icon-label =
+    .label = Afișează o pictogramă în bara de stare
+    .accesskey = p
 mail-custom-sound-label =
     .label = Folosește următorul fișier de sunet
     .accesskey = U
@@ -177,6 +193,7 @@ search-integration-label =
 config-editor-button =
     .label = Editor de configurație…
     .accesskey = g
+return-receipts-description = Configurează cum gestionează { -brand-short-name } confirmările de primire
 return-receipts-button =
     .label = Confirmări de primire…
     .accesskey = r
@@ -184,6 +201,7 @@ update-app-legend = Actualizări { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Versiunea { $version }
+allow-description = Permite ca { -brand-short-name } să
 automatic-updates-label =
     .label = Instalează actualizări automat (recomandat: securitate sporită)
     .accesskey = a
@@ -196,7 +214,9 @@ update-history-button =
 use-service =
     .label = Folosește un serviciu în fundal pentru a instala actualizări
     .accesskey = s
+cross-user-udpate-warning = Această setare se va aplica tuturor conturilor Windows și profilurilor { -brand-short-name } care folosesc această instalare { -brand-short-name }.
 networking-legend = Conexiune
+proxy-config-description = Configurează cum se conectează { -brand-short-name } la Internet
 network-settings-button =
     .label = Setări…
     .accesskey = S
@@ -206,6 +226,9 @@ offline-settings-button =
     .label = Offline…
     .accesskey = O
 diskspace-legend = Spațiu pe disc
+offline-compact-folder =
+    .label = Compactează toate dosarele și salvează peste
+    .accesskey = C
 compact-folder-size =
     .value = MB în total
 
@@ -240,6 +263,10 @@ color-options-button =
     .label = Culori…
     .accesskey = C
 display-width-legend = Mesaje text
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Afișează emoticoanele în format grafic
+    .accesskey = e
 display-text-label = Pentru afișarea mesajelor text citate:
 style-label =
     .value = Stil
@@ -289,6 +316,7 @@ choose-folder-label =
 always-ask-label =
     .label = Întreabă-mă întotdeauna unde să se salveze fișierele
     .accesskey = a
+display-tags-text = Etichetele pot fi folosite pentru a organiza mesajele tale pe categorii și după priorități.
 new-tag-button =
     .label = Etichetă nouă…
     .accesskey = n
@@ -329,9 +357,19 @@ open-msg-ex-window =
 close-move-delete =
     .label = Închide fereastra sau fila cu mesajul la mutare sau ștergere
     .accesskey = c
+display-name-label =
+    .value = Nume afișat:
+condensed-addresses-label =
+    .label = Afișează numai numele de afișaj ale persoanelor din agenda mea de contacte
+    .accesskey = S
 
 ## Compose Tab
 
+forward-label =
+    .value = Redirecționează mesajele:
+    .accesskey = n
+inline-label =
+    .label = Inclus
 as-attachment-label =
     .label = Ca atașament
 extension-label =
@@ -354,6 +392,9 @@ warn-on-send-accel-key =
 spellcheck-label =
     .label = Verifică ortografia înainte de a trimite
     .accesskey = c
+spellcheck-inline-label =
+    .label = Activează corectarea ortografică în timpul scrierii
+    .accesskey = n
 language-popup-label =
     .value = Limba:
     .accesskey = L
@@ -361,12 +402,21 @@ download-dictionaries-link = Descarcă mai multe dicționare
 font-label =
     .value = Font:
     .accesskey = n
+font-size-label =
+    .value = Dimensiune:
+    .accesskey = z
+default-colors-label =
+    .label = Folosește culorile implicite ale cititorului
+    .accesskey = d
 font-color-label =
     .value = Culoare text:
     .accesskey = x
 bg-color-label =
     .value = Culoare fundal:
     .accesskey = C
+restore-html-label =
+    .label = Revenire la valorile implicite
+    .accesskey = R
 default-format-label =
     .label = Folosește implicit formatarea „Paragraf” în loc de „Corp text”
     .accesskey = P
@@ -374,6 +424,7 @@ format-description = Configurează aspectul textului
 send-options-label =
     .label = Opțiuni de trimitere…
     .accesskey = O
+autocomplete-description = La introducerea adresei destinatarului, caută rezultate corespondente în:
 ab-label =
     .label = Agende locale de contacte
     .accesskey = A
@@ -407,17 +458,28 @@ add-cloud-account =
     .label = Adaugă…
     .accesskey = A
     .defaultlabel = Adaugă…
+remove-cloud-account =
+    .label = Elimină
+    .accesskey = r
+find-cloud-providers =
+    .value = Caută mai mulți furnizori…
 cloud-account-description = Adaugă un serviciu nou de stocare Filelink
 
 ## Privacy Tab
 
 mail-content = Conținutul mesajelor
+remote-content-label =
+    .label = Permite conținuturi de la distanță în mesaje
+    .accesskey = m
 exceptions-button =
     .label = Excepții…
     .accesskey = E
 remote-content-info =
     .value = Află mai multe despre problemele de confidențialitate ale conținutului de la distanță
 web-content = Conținut web
+history-label =
+    .label = Reține site-urile și linkurile vizitate
+    .accesskey = R
 cookies-label =
     .label = Acceptă cookie-uri de la site-uri
     .accesskey = c
@@ -435,6 +497,8 @@ keep-label =
     .accesskey = K
 keep-expire =
     .label = expiră
+keep-close =
+    .label = Închid { -brand-short-name }
 keep-ask =
     .label = întreabă de fiecare dată
 cookies-button =
@@ -445,15 +509,18 @@ do-not-track-label =
     .accesskey = n
 learn-button =
     .label = Află mai multe
+passwords-description = { -brand-short-name } poate reține parolele tuturor conturilor tale.
 passwords-button =
     .label = Parole salvate…
     .accesskey = s
+master-password-description = O parolă generală îți protejează toate parolele, dar trebuie să o introduci la fiecare sesiune nouă deschisă.
 master-password-label =
     .label = Folosește o parolă generală
     .accesskey = U
 master-password-button =
     .label = Schimbă parola generală…
     .accesskey = c
+junk-description = Definește setările implicite pentru mesaje nesolicitate. Setările specifice contului pentru mesaje nesolicitate pot fi configurate în setările contului.
 junk-label =
     .label = Când marchez mesaje ca nesolicitate:
     .accesskey = C
@@ -469,9 +536,17 @@ junk-read-label =
 junk-log-label =
     .label = Activează jurnalizarea filtrării adaptive de mesaje nesolicitate
     .accesskey = e
+junk-log-button =
+    .label = Afișează jurnalul
+    .accesskey = A
 reset-junk-button =
     .label = Resetează datele de antrenament
     .accesskey = R
+phishing-description = { -brand-short-name } poate analiza mesajele pentru a depista o eventuală înșelăciune prin e-mail, căutând tehnici frecvente menite să inducă în eroare.
+phishing-label =
+    .label = Spune-mi dacă mesajul pe care-l citesc este suspectat de înșelăciune prin e-mail
+    .accesskey = t
+antivirus-description = { -brand-short-name } poate ușura munca programelor antivirus scanând mesajele primite de viruși înainte de a le stoca pe disc.
 antivirus-label =
     .label = Permite programelor antivirus să pună în carantină individual mesajele primite
     .accesskey = a
@@ -488,9 +563,15 @@ ocsp-label =
 certificate-button =
     .label = Gestionează certificatele…
     .accesskey = M
+security-devices-button =
+    .label = Dispozitive de securitate…
+    .accesskey = D
 
 ## Chat Tab
 
+startup-label =
+    .value = La deschiderea { -brand-short-name }:
+    .accesskey = p
 offline-label =
     .label = Păstrează-mi conturile de chat deconectate
 auto-connect-label =
@@ -502,6 +583,9 @@ auto-connect-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Permite contactelor să știe când sunt inactiv(ă) după
+    .accesskey = P
 idle-time-label = minute de inactivitate
 
 ##
@@ -512,16 +596,36 @@ away-message-label =
 send-typing-label =
     .label = Trimite notificări de tastare în conversații
     .accesskey = t
+notification-label = La sosirea mesajelor care îți sunt adresate:
+show-notification-label =
+    .label = Afișează o notificare:
+    .accesskey = c
 notification-all =
     .label = cu numele expeditorului și previzualizarea mesajului
+notification-name =
+    .label = doar cu numele expeditorului
 notification-empty =
     .label = fără nicio informație
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animează pictograma de andocare
+           *[other] Pâlpâie în bara de activități
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] I
+        }
 chat-play-sound-label =
     .label = Redă un sunet
     .accesskey = d
 chat-play-button =
     .label = Redă
     .accesskey = R
+chat-system-sound-label =
+    .label = Sunet de sistem implicit pentru mesaje noi
+    .accesskey = S
 chat-custom-sound-label =
     .label = Folosește următorul fișier de sunet
     .accesskey = U
@@ -542,9 +646,14 @@ style-paper =
 style-simple =
     .label = Simplă
 preview-label = Previzualizare:
+no-preview-label = Nicio previzualizare disponibilă
+no-preview-description = Această temă nu este validă sau nu este disponibilă acum (supliment dezactivat, mod-de-siguranță, …).
 chat-variant-label =
     .value = Variantă:
     .accesskey = V
+chat-header-label =
+    .label = Afișează antetul
+    .accesskey = a
 
 ## Preferences UI Search Results
 
