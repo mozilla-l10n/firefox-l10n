@@ -59,6 +59,9 @@ diskspace-legend = Disk Space
 
 ##
 
+font-options-button =
+    .label = Fonts...
+    .accesskey = F
 display-width-legend = Plain Text Messages
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
