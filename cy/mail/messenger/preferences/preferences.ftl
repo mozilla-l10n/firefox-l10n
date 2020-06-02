@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Cau
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Ysgrifennu
 category-compose =
     .tooltiptext = Ysgrifennu
+pane-privacy-title = Preifatrwydd a Diogelwch
+category-privacy =
+    .tooltiptext = Preifatrwydd a Diogelwch
 pane-chat-title = Sgwrsio
 category-chat =
     .tooltiptext = Sgwrsio
@@ -70,6 +75,7 @@ update-in-progress-ok-button = &Dileu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
+addons-button = Estyniadau a Themâu
 
 ## OS Authentication dialog
 
@@ -102,6 +108,15 @@ restore-default-label =
     .label = Adfer y Rhagosodiad
     .accesskey = R
 default-search-engine = Peiriant Chwilio Rhagosodedig
+add-search-engine =
+    .label = Ychwanegu o ffeil
+    .accesskey = Y
+remove-search-engine =
+    .label = Tynnu
+    .accesskey = T
+minimize-to-tray-label =
+    .label = Pan fydd { -brand-short-name } wedi ei leihau, ei symud i'r dror
+    .accesskey = l
 new-message-arrival = Pan fydd neges newydd yn cyrraedd:
 mail-play-sound-label =
     .label =
@@ -141,6 +156,7 @@ enable-gloda-search-label =
     .label = Galluogi Chwilio a Mynegeio Eang
     .accesskey = G
 datetime-formatting-legend = Fformatio Dyddiad ac Amser
+language-selector-legend = Iaith
 allow-hw-accel =
     .label = Defnyddio cyflymu caledwedd pan fydd ar gael
     .accesskey = y
@@ -187,6 +203,7 @@ update-app-legend = Diweddariadau { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Fersiwn { $version }
+allow-description = Gadael i { -brand-short-name } wneud
 automatic-updates-label =
     .label = Gosod diweddariadau'n awtomatig (argymell: gwella diogelwch)
     .accesskey = a
@@ -199,6 +216,7 @@ update-history-button =
 use-service =
     .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
     .accesskey = e
+cross-user-udpate-warning = Bydd y gosodiad hwn yn berthnasol i holl gyfrifon Windows a phroffiliau { -brand-short-name } sy'n ddefnyddio'r gosodiad hwn { -brand-short-name }.
 networking-legend = Cysylltiad
 proxy-config-description = Ffurfweddu sut mae { -brand-short-name } yn cysylltu â'r Rhyngrwyd
 network-settings-button =
@@ -341,6 +359,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Cau ffenestr/tab neges wrth symud neu ddileu
     .accesskey = C
+display-name-label =
+    .value = Enw dangos:
 condensed-addresses-label =
     .label = Dangos dim ond enw dangos unigolion yn fy llyfr cyfeiriadau
     .accesskey = D
@@ -384,6 +404,12 @@ download-dictionaries-link = Llwytho i Lawr Rhagor o Eiriaduron
 font-label =
     .value = Ffont:
     .accesskey = F
+font-size-label =
+    .value = Maint:
+    .accesskey = M
+default-colors-label =
+    .label = Defnyddio lliwiau rhagosodedig y darllenydd
+    .accesskey = d
 font-color-label =
     .value = Lliw Testun:
     .accesskey = L
@@ -437,6 +463,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Tynnu
     .accesskey = T
+find-cloud-providers =
+    .value = Canfod rhagor o ddarparwyr…
 cloud-account-description = Ychwanegu gwasanaeth storio Filelink newydd
 
 ## Privacy Tab
@@ -478,6 +506,11 @@ keep-ask =
 cookies-button =
     .label = Dangos Cwcis…
     .accesskey = D
+do-not-track-label =
+    .label = Anfon neges “Dim Tracio” at wefannau nad ydych am gael eich tracio
+    .accesskey = D
+learn-button =
+    .label = Dysgu rhagor
 passwords-description = Mae { -brand-short-name } yn gallu cofio cyfrineiriau eich holl cyfrifon.
 passwords-button =
     .label = Cyfrineiriau sydd wedi'u cadw…
@@ -529,6 +562,12 @@ certificate-ask =
 ocsp-label =
     .label = Ymholi gweinyddion ymatebydd OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau
     .accesskey = Y
+certificate-button =
+    .label = Rheoli Tystysgrifau…
+    .accesskey = R
+security-devices-button =
+    .label = Dyfeisiau Diogelwch…
+    .accesskey = D
 
 ## Chat Tab
 
