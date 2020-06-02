@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Podsjetnik za dodavanje privitka - ključne riječi
+
 attachment-reminder-label = { -brand-short-name } će vas upozoriti da trebate dodati privitak ako šaljete e-poštu koja sadrži jednu od ovih ključnih riječi.
+
 keyword-new-button =
     .label = Nova…
     .accesskey = N
+
 keyword-edit-button =
     .label = Uredi…
     .accesskey = e
+
 keyword-remove-button =
     .label = Obriši
     .accesskey = O
+
 new-keyword-title = Nova ključna riječ
 new-keyword-label = Ključna riječ:
+
 edit-keyword-title = Uredi ključnu riječ
 edit-keyword-label = Ključna riječ:

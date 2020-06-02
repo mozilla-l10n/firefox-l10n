@@ -44,7 +44,6 @@ etp-card-content = Programi za praćenje prate tvoje radnje prilikom pregledavan
 
 etp-card-title-always = Poboljšana zaštita od praćenja: uvijek uključeno
 etp-card-title-custom-not-blocking = Poboljšana zaštita od praćenja: ISKLJUČENO
-etp-card-content-summary = Kad te nepoznate kompanije pokušaju potajno pratiti na internetu, { -brand-short-name } automatski zaustavlja mnoge od njih.
 protection-report-etp-card-content-custom-not-blocking = Sve zaštite su trenutačno isključene. Upravljaj programima za praćenje koje želiš blokirati u { -brand-short-name } postavkama zaštite.
 protection-report-manage-protections = Upravljaj postavkama
 
@@ -69,9 +68,6 @@ fingerprinter-tab-content = Čitači digitalnog otiska prikupljaju postavke tvog
 
 cryptominer-tab-title = Kripto rudari
 cryptominer-tab-content = Krupto rudari koriste računalnu snagu tvog sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju. <a data-l10n-name="learn-more-link">Saznaj više</a>
-
-protections-close-button =
-    .aria-label = Zatvori
 
 protections-close-button2 =
     .aria-label = Zatvori

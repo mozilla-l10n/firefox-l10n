@@ -16,3 +16,4 @@ accounts-default = Zadano?
 identity-name = Identitet
 
 send-via-email = Pošalji e-poštom
+

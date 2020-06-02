@@ -285,10 +285,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Blokirali ste MIDI pristup za ovu web stranicu.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ovoj stranici ste zabranili instalaciju dodataka.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici odobrene su dodatne dozvole.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici odobrene su dodatne dozvole.">
 
 
 <!ENTITY searchItem.title             "Traži">
@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Prilagodi …">
 <!ENTITY viewCustomizeToolbar.accesskey     "l">
+
 <!ENTITY overflowCustomizeToolbar.label       "Prilagodi alatnu traku…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "a">
 
@@ -883,54 +884,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otvori postavke blokiranja sadržaja">
 
 
-<!ENTITY protections.etpON.header "Pojačana zaštita od praćenja je UKLJUČENA za ovu stranicu">
-<!ENTITY protections.etpOFF.header "Pojačana zaštita od praćenja je ISKLJUČENA za ovu stranicu">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Više informacija o poboljšanoj zaštiti od praćenja">
-<!ENTITY protections.settings.label "Postavke zaštite">
-<!ENTITY protections.showreport.label "Prikaži izvještaj">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Stranica ne radi?">
-<!ENTITY protections.siteNotWorkingView.title "Stranica ne radi?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Isključi zaštite ukoliko imaš problema s:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Poljem za prijavu">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Obrascima">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Plaćanjima">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Komentarima">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Videom">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Pošaljite izvještaj">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Blokirano">
-<!ENTITY protections.notBlocking2.label "Dozvoljeno">
-<!ENTITY protections.notFound.label "Ništa otkriveno">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Zašto?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez programa za praćenje, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Svi pratitelji na ovoj stranici su učitani iz razloga što su zaštite isključene.">
-<!ENTITY protections.noTrackersFound.description "Programi za praćenje koji su poznati &brandShortName;u nisu otkriveni na ovoj stranici.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Ovi kolačići te prate od stranice do stranice i prikupljaju podatke o tome što radiš na Internetu. Postavljeni su od trećih strana kao što su oglašivači i analitičke tvrtke.">
-<!ENTITY protections.cryptominers.description "Kripto rudari koriste računalnu snagu tvog sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju.">
-<!ENTITY protections.fingerprinters.description "Čitači digitalnih otisaka prikupljaju postavke tvog preglednika i računala kako bi stvorili tvoj jedinstveni profil. Koristeći ovaj digitalni otisak, mogu te pratiti diljem raznih web stranica.">
-<!ENTITY protections.trackingContent2.description "Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kȏd za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi.">
-<!ENTITY protections.socialMediaTrackers.description "Društvene mreže postavljaju programe za praćenje na druge web stranice kako bi pratili što radiš, pregledavaš i vidiš na Internetu. Ovo omogućava tvrtkama društvenih mreža o tebi saznati više od onoga što dijeliš na svom profilu.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kartice preglednika">
@@ -975,13 +928,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kolačići">
 <!ENTITY contentBlocking.cookiesView.label "Kolačići i podaci stranica">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Praćenje sadržaja">
-
-<!ENTITY contentBlocking.manageSettings2.label "Upravljaj postavkama zaštite">
-<!ENTITY contentBlocking.manageSettings2.accesskey "U">
-
-<!ENTITY contentBlocking.socialblock.label "Programi za praćenje s društvenih mreža">
-
 <!ENTITY contentBlocking.cryptominers.label "Kripto rudari">
 <!ENTITY contentBlocking.cryptominersView.label "Kripto rudari">
 
@@ -993,12 +939,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Blokiranje sadržaja može uzrokovati probleme s nekim web stranicama. Tvojom prijavom problema, pomažeš unaprijediti &brandShortName; za sve korisnike. (Mozilli će se poslati URL stranice, kao i podaci o postavkama preglednika.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saznaj više">
 
-<!ENTITY contentBlocking.breakageReportView.title "Prijavi neispravnu web stranicu">
-<!ENTITY contentBlocking.breakageReportView3.description "Blokiranje određenih programa za praćenje može uzrokovati probleme s nekim web stranicama. Prijavljivanjem ovih problema pomoći ćeš unaprijediti &brandShortName; za sve korisnike. Kad pošalješ ove prijavu, Mozilli ćeš poslati URL stranice i informacije o postavkama preglednika.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Saznaj više">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kakve ste probleme imali? (Neobavezno)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Neobavezno: opišite problem">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Pošalji izvještaj">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Otkaži">
 

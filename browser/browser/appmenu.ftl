@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Zaštita privatnosti
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Idi na izvještaj o privatnosti
+
 appmenuitem-customize-mode =
     .label = Prilagodi …
 
