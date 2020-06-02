@@ -36,6 +36,25 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Перемістити в поле Прихована копія
     .accesskey = х
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value =
+        { $count ->
+            [1] { $count } вкладення
+            [one] { $count } вкладення
+            [few] { $count } вкладення
+           *[many] { $count } вкладень
+        }
+    .accesskey = в
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] { $count } вкладення
+            [one] { $count } вкладення
+            [few] { $count } вкладення
+           *[many] { $count } вкладень
+        }
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
