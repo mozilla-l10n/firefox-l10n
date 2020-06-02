@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Отключает аппаратное ускор
 
 policy-InstallAddonsPermission = Разрешает некоторым веб-сайтам устанавливать дополнения.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Разрешает определённым веб-сайтам ссылаться на локальные файлы.
 
 policy-NetworkPrediction = Включает или отключает прогнозирование сети (предварительная выборка DNS).

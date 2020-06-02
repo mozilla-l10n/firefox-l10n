@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Найти текст на странице">
 <!ENTITY spellToolbarCmd.label "Орфография">
 <!ENTITY spellToolbarCmd.tooltip "Проверить орфографию выделенного отрывка или всей страницы">
+
 <!ENTITY imageToolbarCmd.label "Изображение">
 <!ENTITY imageToolbarCmd.tooltip "Вставить новое изображение или изменить свойства выделенного">
 <!ENTITY hruleToolbarCmd.label "Разделитель">

@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Ключевые слова для напоминания о вложении
+
 attachment-reminder-label = { -brand-short-name } будет предупреждать вас о том, что вы забыли вложить файл, если вы попробуете отправить письмо, содержащее одно из этих ключевых слов.
+
 keyword-new-button =
     .label = Создать…
     .accesskey = о
+
 keyword-edit-button =
     .label = Изменить…
     .accesskey = м
+
 keyword-remove-button =
     .label = Удалить
     .accesskey = а
+
 new-keyword-title = Новое ключевое слово
 new-keyword-label = Ключевое слово:
+
 edit-keyword-title = Изменить ключевое слово
 edit-keyword-label = Ключевое слово:

@@ -389,7 +389,3 @@ main-context-menu-eme-learn-more =
     .label = Узнать больше о DRM…
     .accesskey = а
 
-# Checkbox displayed at the bottom of the What's New panel, allowing users to 
-# enable/disable What's New notifications.
-cfr-whatsnew-panel-footer-checkbox =
-    .label = Уведомлять о новых функциях

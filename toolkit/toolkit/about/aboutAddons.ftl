@@ -606,9 +606,6 @@ updates-heading = Управление моими обновлениями
 discover-heading = Сделайте { -brand-short-name } своим
 shortcuts-heading = Управление горячими клавишами расширений
 
-theme-heading-search-label = Найти другие темы
-extension-heading-search-label = Найти больше расширений
-
 default-heading-search-label = Найти больше дополнений
 addons-heading-search-input =
     .placeholder = Поиск на addons.mozilla.org
