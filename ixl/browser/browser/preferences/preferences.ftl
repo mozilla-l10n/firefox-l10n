@@ -107,9 +107,6 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 
-applications-preview-inapp =
-    .label = La sajil b'axa{ -brand-short-name }
-
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
@@ -122,9 +119,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -183,6 +177,11 @@ home-mode-choice-custom =
 
 home-prefs-topsites-header =
     .label = Uve' pal chit tilpe'
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+##
 
 home-prefs-highlights-options-bookmarks =
     .label = Aq'ol texhlal

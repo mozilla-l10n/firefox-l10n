@@ -6,9 +6,6 @@
 # capitalization for this string should match the output for your locale.
 graph-today = Cheel
 
-protections-close-button =
-    .aria-label = Jupa
-
 protections-close-button2 =
     .aria-label = Jupa
     .title = Jupa

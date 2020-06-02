@@ -95,5 +95,3 @@ addon-detail-updates-radio-default = A' chite' at kan
 theme-heading = Nuk' unq'a kame'
 locale-heading = Nuk' unq'a va yolb'ale'
 
-theme-heading-search-label = Lej kan kam
-

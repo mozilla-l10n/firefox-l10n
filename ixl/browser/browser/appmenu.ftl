@@ -20,3 +20,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Ik'ultib' skaajayil
+
+## What's New panel in App menu.
+
