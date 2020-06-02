@@ -595,9 +595,6 @@ updates-heading = Gestioneu les actualitzacions
 discover-heading = Personalitzeu el { -brand-short-name }
 shortcuts-heading = Gestioneu les dreceres de les extensions
 
-theme-heading-search-label = Cerqueu més temes
-extension-heading-search-label = Cerqueu més extensions
-
 default-heading-search-label = Cerqueu més complements
 addons-heading-search-input =
     .placeholder = Cerca a addons.mozilla.org

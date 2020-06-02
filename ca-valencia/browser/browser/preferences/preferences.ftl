@@ -381,8 +381,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilitza { $plugin-name } (en el { -brand-short-name })
-applications-preview-inapp =
-    .label = Previsualitza al { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -396,9 +394,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -614,11 +609,16 @@ home-prefs-topsites-header =
     .label = Llocs principals
 home-prefs-topsites-description = Els llocs que visiteu més sovint
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
 home-prefs-recommended-by-description = El contingut més interessant de tot el web, personalitzat per a vós
+##
+
 home-prefs-recommended-by-learn-more = Com funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articles patrocinats
@@ -939,9 +939,9 @@ privacy-header = Privadesa del navegador
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Inicis de sessió i contrasenyes
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Inicis de sessió i contrasenyes
@@ -1174,7 +1174,6 @@ content-blocking-warning-title = Atenció!
 content-blocking-warning-description = El bloqueig de contingut pot fer que alguns llocs web no funcionen correctament. És fàcil desactivar el bloqueig dels llocs en què confieu.
 content-blocking-learn-how = Vegeu com fer-ho
 
-content-blocking-etp-warning-description = El bloqueig d'elements de seguiment pot afectar la funcionalitat d'alguns llocs. Torneu a carregar la pàgina amb els elements de seguiment per carregar-ne tot el contingut.
 content-blocking-warning-learn-how = Vegeu com fer-ho
 
 content-blocking-reload-description = Cal tornar a carregar les pestanyes per aplicar estos canvis.
