@@ -25,6 +25,7 @@ animated-alert-label =
 config-editor-button =
     .label = Editha kulungisa...
     .accesskey = n
+diskspace-legend = Sikhala sediski
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
