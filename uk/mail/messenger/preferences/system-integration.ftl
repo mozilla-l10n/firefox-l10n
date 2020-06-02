@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-title =
+    .title = Системна інтеграція
+system-integration-dialog =
+    .buttonlabelaccept = Встановити типовим
+    .buttonlabelcancel = Пропустити інтеграцію
+    .buttonlabelcancel2 = Скасувати
+default-client-intro = Використовувати { -brand-short-name } як типовий клієнт для:
+unset-default-tooltip = { -brand-short-name } не може розвибрати { -brand-short-name } з позиції типового клієнта. Щоб встановити іншу програму типовою, вам треба скористатись її діалогом «Встановити типовою».
+checkbox-email-label =
+    .label = Електронної пошти
+    .tooltiptext = { unset-default-tooltip }
+checkbox-newsgroups-label =
+    .label = Груп новин
+    .tooltiptext = { unset-default-tooltip }
+checkbox-feeds-label =
+    .label = Стрічок
+    .tooltiptext = { unset-default-tooltip }
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 system-search-engine-name =
@@ -10,3 +27,9 @@ system-search-engine-name =
         [windows] Пошук Windows
        *[other] { "" }
     }
+system-search-integration-label =
+    .label = Дозволити { system-search-engine-name } шукати листи
+    .accesskey = ш
+check-on-startup-label =
+    .label = Завжди виконувати цю перевірку при запуску { -brand-short-name }
+    .accesskey = З
