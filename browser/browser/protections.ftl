@@ -46,7 +46,6 @@ protection-report-page-summary = { -brand-short-name }-i mund të mbrojë privat
 
 etp-card-title-always = Mbrojtje e Thelluar Nga Gjurmimi: Përherë On
 etp-card-title-custom-not-blocking = Mbrojtje e Thelluar Nga Gjurmimi: OFF
-etp-card-content-summary = Kur shoqëri të panjohura rreken t’ju ndjekin fshehtazi nëpër internet, { -brand-short-name }-i ndalon automatikisht mjaft prej tyre.
 protection-report-etp-card-content-custom-not-blocking = Krejt mbrojtjet janë të çaktivizuara. Duke administruar rregullimet tuaja për mbrojtje { -brand-short-name }, zgjidhni cilët gjurmues të bllokohen.
 protection-report-manage-protections = Administroni Rregullime
 
@@ -71,9 +70,6 @@ fingerprinter-tab-content = Krijuesit e shenjave të gishtave (<em>Fingerprinter
 
 cryptominer-tab-title = Nxjerrës kriptomonedhash
 cryptominer-tab-content = Nxjerrësit e kriptomonedhave e përdorin fuqinë përllogaritëse të sistemit tuaj për të nxjerrë para dixhitale. Programthet për nxjerrje kriptomonedhash konsumojnë energjinë e baterisë tuaj, ngadalësojnë kompjuterin tuaj dhe mund të sjellin shtim të faturës tuaj për energjinë. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
-
-protections-close-button =
-    .aria-label = Mbylle
 
 protections-close-button2 =
     .aria-label = Mbylle

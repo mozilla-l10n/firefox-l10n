@@ -16,3 +16,4 @@ accounts-default = Parazgjedhje?
 identity-name = Identitet
 
 send-via-email = Dërgoje përmes email-i
+

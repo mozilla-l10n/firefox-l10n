@@ -394,8 +394,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Përdor { $plugin-name } (te { -brand-short-name })
-applications-preview-inapp =
-    .label = Paraparje në { -brand-short-name }
 
 applications-open-inapp =
     .label = Hape në { -brand-short-name }
@@ -412,9 +410,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -636,11 +631,16 @@ home-prefs-topsites-header =
     .label = Sajte Kryesues
 home-prefs-topsites-description = Sajtet që vizitoni më tepër
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Rekomanduar nga { $provider }
 home-prefs-recommended-by-description = Lëndë e bukur nga anembanë internetit, personalizuar për ju
+##
+
 home-prefs-recommended-by-learn-more = Si funksionon
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Histori të Sponsorizuara
@@ -961,9 +961,9 @@ privacy-header = Privatësi Shfletuesi
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Kredenciale Hyrjesh dhe Fjalëkalime
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Kredenciale Hyrjesh dhe Fjalëkalime
@@ -1002,9 +1002,6 @@ forms-master-pw-fips-title = Gjendeni nën mënyrën FIPS. FIPS lyp një Fjalëk
 forms-master-pw-fips-desc = Ndryshimi i Fjalëkalimit Dështoi
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Që të krijoni një Fjalëkalim të Përgjithshëm, verifikoni identitetin tuaj.
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim të Përgjithshëm, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
@@ -1211,7 +1208,6 @@ content-blocking-warning-title = Kini mendjen!
 content-blocking-warning-description = Bllokimi i lëndës mund të dëmtojë funksionimin e disa sajteve. Është e lehtë të çaktivizoni bllokimin për sajte të cilëve u zini besë.
 content-blocking-learn-how = Mësoni se si
 
-content-blocking-etp-warning-description = Bllokimi i gjurmuesve mund të ndikojë në funksionimin e disa sajteve. Për të lejuar krejt lëndën, ringarkoni një faqe me gjurmues.
 content-blocking-and-isolating-etp-warning-description = Bllokimi i gjurmuesve dhe izolimi i cookie-ve mund të ndikojë në funksionimin e disa sajteve. Për të lejuar krejt lëndën, ringarkoni një faqe me gjurmues.
 content-blocking-warning-learn-how = Mësoni se si
 

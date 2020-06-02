@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Gjeni tekst në faqe">
 <!ENTITY spellToolbarCmd.label "Drejtshkrim">
 <!ENTITY spellToolbarCmd.tooltip "Kontrolloni drejtshkrimin për përzgjedhjen ose tërë faqen">
+
 <!ENTITY imageToolbarCmd.label "Figurë">
 <!ENTITY imageToolbarCmd.tooltip "Futni figurë të re ose përpunoni vetitë e figurës së përzgjedhur">
 <!ENTITY hruleToolbarCmd.label "Rresht H.">
