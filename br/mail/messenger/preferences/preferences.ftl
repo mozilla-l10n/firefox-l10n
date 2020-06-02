@@ -69,6 +69,12 @@ restore-default-label =
     .label = Assav ar re dre ziouer
     .accesskey = r
 default-search-engine = Keflusker Enklask dre Ziouer
+add-search-engine =
+    .label = Ouzhpennañ diwar ur restr
+    .accesskey = O
+remove-search-engine =
+    .label = Lemel
+    .accesskey = L
 new-message-arrival = P'en em gav kemennadennoù nevez :
 mail-play-sound-label =
     .label =
@@ -454,6 +460,8 @@ keep-ask =
 cookies-button =
     .label = Diskouez an toupinoù…
     .accesskey = s
+learn-button =
+    .label = Gouzout hiroc'h
 passwords-description = Gallout a ra { -brand-short-name } derc'hel soñj eus ho kerioù-tremen evit ho holl kontoù.
 passwords-button =
     .label = Gerioù-tremen enrollet…
@@ -505,6 +513,12 @@ certificate-ask =
 ocsp-label =
     .label = Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP
     .accesskey = G
+certificate-button =
+    .label = Merañ an testenioù…
+    .accesskey = M
+security-devices-button =
+    .label = Trevnadoù diogelroez…
+    .accesskey = T
 
 ## Chat Tab
 
