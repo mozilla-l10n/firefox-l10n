@@ -5,6 +5,7 @@
 system-integration-title =
     .title = Systemintegration
 default-client-intro = Använd { -brand-short-name } som standardklient för:
+unset-default-tooltip = Det är inte möjligt att ta bort { -brand-short-name } som standardklient inuti { -brand-short-name }. För att göra ett annat program till standard måste du använda dess 'Ange som standard'-dialog.
 checkbox-email-label =
     .label = E-post
     .tooltiptext = { unset-default-tooltip }
