@@ -181,6 +181,14 @@ always-check-default =
 check-default-button =
     .label = Jetzt prüfen…
     .accesskey = J
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows-Suche
+       *[other] { "" }
+    }
 search-integration-label =
     .label = { search-engine-name } ermöglichen, Nachrichten zu durchsuchen
     .accesskey = S
