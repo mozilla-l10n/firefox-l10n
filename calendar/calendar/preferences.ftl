@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+dateformat-label =
+    .value = Date Text Format:
+    .accesskey = D
+#   $date (String) - the formatted example date
+dateformat-long =
+    .label = Long: { $date }
+#   $date (String) - the formatted example date
+dateformat-short =
+    .label = Short: { $date }
 weekstart-label =
     .value = ਹਫ਼ਤਾ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ:
     .accesskey = r
@@ -77,6 +86,30 @@ week-6-label =
 previous-weeks-label =
     .value = ਵੇਖਾਉਣ ਲਈ ਪਿਛਲੇ ਹਫ਼ਤੇ:
     .accesskey = P
+task-start-label =
+    .value = Start Date:
+task-start-1-label =
+    .label = None
+task-start-2-label =
+    .label = Start of Day
+task-start-3-label =
+    .label = End of Day
+task-start-4-label =
+    .label = Tomorrow
+task-start-5-label =
+    .label = Next Week
+task-start-6-label =
+    .label = Relative to Current Time
+task-start-7-label =
+    .label = Relative to Start
+task-start-8-label =
+    .label = Relative to Next Hour
+task-due-label =
+    .value = Due Date:
+accessibility-legend = Accessibility
+accessibility-colors-label =
+    .label = Optimize colors for accessibility
+    .accesskey = c
 reminder-legend = ਜਦੋਂ ਇੱਕ ਅਲਾਰਮ ਬੰਦ ਹੋਵੇ:
 reminder-play-checkbox =
     .label = ਸਾਊਂਡ ਚਲਾਓ
