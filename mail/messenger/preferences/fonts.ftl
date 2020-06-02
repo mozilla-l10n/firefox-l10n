@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = ლათინური
 font-language-group-japanese =
     .label = იაპონური
 font-language-group-trad-chinese =
@@ -33,6 +36,8 @@ font-language-group-cyrillic =
     .label = კირილიცა
 font-language-group-el =
     .label = ბერძნული
+font-language-group-other =
+    .label = სხვა დამწერლობები
 font-language-group-thai =
     .label = ტაი
 font-language-group-hebrew =
@@ -61,9 +66,35 @@ font-language-group-khmer =
     .label = ქჰმერული
 font-language-group-malayalam =
     .label = მალაილამი
+font-language-group-odia =
+    .label = ორია
+font-language-group-telugu =
+    .label = ტელუგუ
+font-language-group-kannada =
+    .label = კანადა
+font-language-group-sinhala =
+    .label = სინჰალური
+font-language-group-tibetan =
+    .label = ტიბეტური
 
 ## Default font type
 
+default-font-serif =
+    .label = ნაჭდევებიანი
+default-font-sans-serif =
+    .label = უნაჭდევო
+font-size-label =
+    .value = ზომა:
+    .accesskey = გ
+font-size-monospace-label =
+    .value = ზომა:
+    .accesskey = ი
+font-serif-label =
+    .value = ნაჭდევებიანი:
+    .accesskey = ნ
+font-sans-serif-label =
+    .value = უნაჭდევო:
+    .accesskey = უ
 font-monospace-label =
     .value = მონოსიგანის:
     .accesskey = m
@@ -85,6 +116,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = ტექსტის კოდირება
+text-encoding-description = ტექსტის ნაგულისხმევი კოდირების მითითება, წერილების გაგზავნა/მიღებისთვის
 font-outgoing-email-label =
     .value = გამავალი ფოსტა:
     .accesskey = u
+font-incoming-email-label =
+    .value = შემოსული ფოსტა:
+    .accesskey = I
+default-font-reply-checkbox =
+    .label = როცა შესაძლებელია, ტექსტის ნაგულისხმევი კოდირების გამოყენება პასუხისას
+    .accesskey = პ
