@@ -4,6 +4,7 @@
 
 notifications-dialog-window =
     .title = Personalizar alerta de nova mensagem
+customize-alert-description = Selecione os campos que deseja mostrar no alerta:
 preview-text-checkbox =
     .label = Amostra da mensagem
     .accesskey = m
