@@ -20,6 +20,10 @@ category-chat =
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = Páxina d'aniciu de { -brand-short-name }
 start-page-label =
     .label = Al aniciase { -brand-short-name }, amosar la páxina d'aniciu nel área de mensaxes
@@ -142,6 +146,77 @@ use-cache-after = MB d'espaciu pa la caché
 clear-cache-button =
     .label = Llimpiar agora
     .accesskey = L
+fonts-legend = Fontes y colores
+default-font-label =
+    .value = Fonte de lletra por defeutu:
+    .accesskey = e
+default-size-label =
+    .value = Tamañu:
+    .accesskey = T
+font-options-button =
+    .label = Avanzaes…
+    .accesskey = v
+color-options-button =
+    .label = Colores…
+    .accesskey = C
+display-width-legend = Mensaxes de testu ensin formatu
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Amosar fustaxes como gráficos
+    .accesskey = A
+display-text-label = Al amosar mensaxes de testu ensin formatu:
+style-label =
+    .value = Estilu:
+    .accesskey = E
+regular-style-item =
+    .label = Regular
+bold-style-item =
+    .label = Negrina
+italic-style-item =
+    .label = Cursiva
+bold-italic-style-item =
+    .label = Negrina cursiva
+size-label =
+    .value = Tamañu:
+    .accesskey = a
+regular-size-item =
+    .label = Regular
+bigger-size-item =
+    .label = Mayor
+smaller-size-item =
+    .label = Menor
+quoted-text-color =
+    .label = Color:
+    .accesskey = o
+search-input =
+    .placeholder = Guetar
+type-column-label =
+    .label = Triba de conteníu
+    .accesskey = T
+action-column-label =
+    .label = Aición
+    .accesskey = A
+save-to-label =
+    .label = Guardar ficheros en
+    .accesskey = G
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Elexir…
+           *[other] Desaminar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] E
+           *[other] s
+        }
+always-ask-label =
+    .label = Entrugame siempre aú guardar ficheros
+    .accesskey = P
+display-tags-text = Les etiquetes puen usase pa categorizar y priorizar los tos mensaxes.
+delete-tag-button =
+    .label = Desaniciar
+    .accesskey = r
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -230,6 +305,10 @@ enable-cloud-share =
     .label = Ufrilu pa compartir ficheros mayores de
 cloud-share-size =
     .value = MB
+remove-cloud-account =
+    .label = Desaniciar
+    .accesskey = n
+cloud-account-description = Amestar un serviciu nuevu d'almacenamientu Filelink
 
 ## Privacy Tab
 
