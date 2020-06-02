@@ -159,6 +159,9 @@ directories-label =
 edit-directories-label =
     .label = ડિરેક્ટરીઓમાં ફેરફાર કરો...
     .accesskey = E
+email-picker-label =
+    .label = જતા ઈ-મેલ સંદેશાઓને આપોઆપ આમાં ઉમેેરો:
+    .accesskey = t
 
 ## Privacy Tab
 
