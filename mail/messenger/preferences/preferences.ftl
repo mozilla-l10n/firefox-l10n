@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Mogućnosti
+           *[other] Postavke
+        }
 pane-general-title = Općenito
 category-general =
     .tooltiptext = { pane-general-title }
@@ -95,10 +101,27 @@ location-label =
 restore-default-label =
     .label = Vrati zadano
     .accesskey = r
+default-search-engine = Zadani pretraživač
 new-message-arrival = Kada stigne nova poruka:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Reproduciraj sljedeću zvučnu datoteku:
+           *[other] Reproduciraj zvuk
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] v
+        }
 mail-play-button =
     .label = Reproduciraj
     .accesskey = c
+change-dock-icon = Promjeni postavke za aplikacijsku ikonu
+app-icon-options =
+    .label = Mogućnosti aplikacijske ikone…
+    .accesskey = n
+notification-settings = Obavijesti i zadani zvukovi se mogu isključiti u okviru obavijesti u postavkama sustava.
 animated-alert-label =
     .label = Prikaži obavijest
     .accesskey = P
@@ -117,6 +140,17 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Omogući globalno pretraživanje i indeksiranje
     .accesskey = e
+datetime-formatting-legend = Oblikovanje datuma i vremena
+allow-hw-accel =
+    .label = Koristi hardversku akceleraciju kad je moguće
+    .accesskey = h
+store-type-label =
+    .value = Tip pohrane poruka za nove račune:
+    .accesskey = T
+mbox-store-label =
+    .label = Datoteka po mapi (mbox)
+maildir-store-label =
+    .label = Datoteka po poruci (maildir)
 scrolling-legend = Klizanje
 autoscroll-label =
     .label = Koristi automatsko klizanje
@@ -149,6 +183,19 @@ return-receipts-description = Odredite kako će { -brand-short-name } rukovati s
 return-receipts-button =
     .label = Potvrde čitanja…
     .accesskey = r
+update-app-legend = { -brand-short-name } ažuriranja
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Inačica { $version }
+automatic-updates-label =
+    .label = Automatski instaliraj dopune (preporučeno: poboljšana sigurnost)
+    .accesskey = A
+check-updates-label =
+    .label = Provjeri dostupnost dopuna, ali mi ponudi želim li ih instalirati
+    .accesskey = d
+update-history-button =
+    .label = Prikaži povijest ažuriranja
+    .accesskey = P
 use-service =
     .label = Koristi pozadinski proces za instalaciju nadogradnji
     .accesskey = K
@@ -180,6 +227,9 @@ use-cache-after = MB prostora za priručnu memoriju
 
 ##
 
+smart-cache-label =
+    .label = Premosti automatsko upravljanje priručnom memorijom
+    .accesskey = v
 clear-cache-button =
     .label = Očisti sada
     .accesskey = O
@@ -251,16 +301,49 @@ always-ask-label =
     .label = Uvijek me pitaj gdje spremiti datoteke
     .accesskey = U
 display-tags-text = Oznake se mogu koristiti za kategoriziranje i određivanje prioriteta vaših poruka.
+new-tag-button =
+    .label = Nova…
+    .accesskey = N
+edit-tag-button =
+    .label = Uredi…
+    .accesskey = e
 delete-tag-button =
     .label = Obriši
+    .accesskey = O
+auto-mark-as-read =
+    .label = Automatski označi poruku kao pročitanu
+    .accesskey = A
+mark-read-no-delay =
+    .label = Odmah pri prikazu
     .accesskey = O
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Nakon prikazivanja u trajanju od
+    .accesskey = d
+seconds-label = sekundi
 
 ##
 
+open-msg-label =
+    .value = Otvori poruke u:
+open-msg-tab =
+    .label = Novoj kartici
+    .accesskey = t
+open-msg-window =
+    .label = Novom prozoru poruke
+    .accesskey = N
+open-msg-ex-window =
+    .label = Postojećem prozoru poruke
+    .accesskey = e
+close-move-delete =
+    .label = Zatvori prozor/karticu poruke prilikom premještanja ili brisanja
+    .accesskey = Z
+condensed-addresses-label =
+    .label = Prikaži samo ime za prikaz osoba iz mojeg adresara
+    .accesskey = P
 
 ## Compose Tab
 
@@ -269,6 +352,9 @@ forward-label =
     .accesskey = P
 as-attachment-label =
     .label = Kao privitak
+extension-label =
+    .label = dodaj nastavak nazivu datoteke
+    .accesskey = e
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -305,6 +391,9 @@ bg-color-label =
 restore-html-label =
     .label = Vrati zadane postavke
     .accesskey = r
+default-format-label =
+    .label = Koristi kao zadano oblik odlomka umjesto teksta tijela
+    .accesskey = o
 format-description = Podesite ponašanje prilikom oblikovanja teksta
 send-options-label =
     .label = Mogućnosti slanja…
@@ -324,6 +413,11 @@ edit-directories-label =
 email-picker-label =
     .label = Automatski dodaj adrese e-pošte iz poslanih poruka u moj:
     .accesskey = A
+default-directory-label =
+    .value = Zadana početna mapa u prozoru adresara:
+    .accesskey = s
+default-last-label =
+    .none = Zadnje korištena mapa
 attachment-label =
     .label = Provjeravaj nedostaju li privici
     .accesskey = n
@@ -334,6 +428,10 @@ enable-cloud-share =
     .label = Ponuda za razmjenu datoteka većih od
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Dodaj…
+    .accesskey = a
+    .defaultlabel = Dodaj…
 remove-cloud-account =
     .label = Ukloni
     .accesskey = U
@@ -341,6 +439,43 @@ cloud-account-description = Dodaj novu Filelink uslugu pohrane
 
 ## Privacy Tab
 
+mail-content = Sadržaj poruke
+remote-content-label =
+    .label = Dozvoli vanjski sadržaj u porukama
+    .accesskey = a
+exceptions-button =
+    .label = Izuzeci…
+    .accesskey = I
+remote-content-info =
+    .value = Saznajte više o problemima oko privatnosti kod vanjskog sadržaja
+web-content = Web sadržaj
+history-label =
+    .label = Zapamti web stranice i poveznice koje sam posjetio
+    .accesskey = r
+cookies-label =
+    .label = Prihvati kolačiće od stranica
+    .accesskey = r
+third-party-label =
+    .value = Prihvati kolačiće trećih strana:
+    .accesskey = h
+third-party-always =
+    .label = Uvijek
+third-party-never =
+    .label = Nikada
+third-party-visited =
+    .label = Od posjećenih
+keep-label =
+    .value = Zadrži do:
+    .accesskey = Z
+keep-expire =
+    .label = iteka roka
+keep-close =
+    .label = zatvaranja { -brand-short-name }-a
+keep-ask =
+    .label = pitaj me svaki puta
+cookies-button =
+    .label = Prikaži kolačiće…
+    .accesskey = k
 passwords-description = { -brand-short-name } može zapamtiti lozinke za sve vaše račune.
 passwords-button =
     .label = Spremljene lozinke…
@@ -378,10 +513,20 @@ phishing-description = { -brand-short-name } može analizirati poruke e-pošte k
 phishing-label =
     .label = Obavjesti me ako se sumnja da je poruka koju čitam prijevara
     .accesskey = O
+antivirus-description = { -brand-short-name } može olakšati antivirusnim programima analizu primljenih poruka e-pošte na viruse prije nego se pohrane lokalno.
+antivirus-label =
+    .label = Dozvoli antivirusnim programima da izoliraju pojedine primljene poruke
+    .accesskey = a
 certificate-description = Kada poslužitelj zatraži moj osobni certifikat:
+certificate-auto =
+    .label = Automatski odaberi jedan
+    .accesskey = A
 certificate-ask =
     .label = Pitaj me svaki put
     .accesskey = a
+ocsp-label =
+    .label = Upitajte OCSP poslužitelje da biste potvrdili validnost certifikata
+    .accesskey = U
 
 ## Chat Tab
 
@@ -406,9 +551,37 @@ idle-time-label = minuta neaktivnosti
 
 ##
 
+away-message-label =
+    .label = i postavi moj status na Odsutan s ovom porukom:
+    .accesskey = a
 send-typing-label =
     .label = Šalji obavjest o tipkanju u razgovorima
     .accesskey = t
+notification-label = Kada stignu poruke naslovljene na vas:
+show-notification-label =
+    .label = Prikaži obavijest:
+    .accesskey = k
+notification-all =
+    .label = s imenom pošiljatelja i pregledom poruke
+notification-name =
+    .label = samo s imenom pošiljatelja
+notification-empty =
+    .label = bez bilo kakvih informacija
+chat-play-sound-label =
+    .label = Reproduciraj zvuk
+    .accesskey = d
+chat-play-button =
+    .label = Reproduciraj
+    .accesskey = p
+chat-system-sound-label =
+    .label = Zadani sistemski zvuk za novu poruku
+    .accesskey = Z
+chat-custom-sound-label =
+    .label = Koristi sljedeću zvučnu datoteku
+    .accesskey = u
+chat-browse-sound-button =
+    .label = Odaberi…
+    .accesskey = d
 
 ## Preferences UI Search Results
 
