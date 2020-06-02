@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Tutup
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-compose =
 pane-chat-title = Ngobrol
 category-chat =
     .tooltiptext = Ngobrol
+pane-calendar-title = Kalender
+category-calendar =
+    .tooltiptext = Kalender
 choose-messenger-language-description = Pilih bahasa tampilan menu, pesan, dan notifikasi dari { -brand-short-name }.
 confirm-messenger-language-change-button = Terapkan dan Mulai Ulang
 
@@ -55,6 +60,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan
     .accesskey = i
+language-selector-legend = Bahasa
 system-integration-legend = Integrasi dengan Sistem
 always-check-default =
     .label = Periksa apakah { -brand-short-name } adalah pembaca email default ketika memulai
@@ -77,6 +83,7 @@ return-receipts-description = Mengatur penanganan tanda konfirmasi diterima (ret
 return-receipts-button =
     .label = Tanda Konfirmasi Diterima…
     .accesskey = r
+update-app-legend = Pemutakhiran { -brand-short-name }
 networking-legend = Sambungan
 proxy-config-description = Atur cara { -brand-short-name } tersambung ke Internet
 network-settings-button =
@@ -288,6 +295,9 @@ cloud-account-description = Tambakan layanan penyimpanan Filelink
 
 remote-content-info =
     .value = Pelajari lebih lanjut tentang isu privasi konten jarak jauh
+web-content = Konten Web
+third-party-always =
+    .label = Selalu
 passwords-description = { -brand-short-name } dapat menyimpan informasi sandi untuk semua akun Anda sehingga Anda tidak perlu mengetikkan ulang informasi log-masuk Anda berkali-kali.
 passwords-button =
     .label = Sandi Tersimpan…
@@ -369,6 +379,14 @@ chat-play-button =
 chat-custom-sound-label =
     .label = Gunakan berkas suara berikut
     .accesskey = u
+style-thunderbird =
+    .label = Thunderbird
+style-dark =
+    .label = Gelap
+style-simple =
+    .label = Sederhana
+preview-label = Pratinjau:
+no-preview-label = Pratinjau tidak tersedia
 
 ## Preferences UI Search Results
 
