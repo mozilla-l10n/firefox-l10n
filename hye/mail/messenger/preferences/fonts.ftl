@@ -4,9 +4,19 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Սկզբնադիր ({ $name })
 fonts-label-default-unnamed =
     .label = Սկզբնադիր
+
+## Languages
+
+## Default font type
+
+## Fonts in message
+
+## Language settings
+

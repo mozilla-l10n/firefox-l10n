@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Պաշտպանութեան զեկոյց
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Անցնել գաղտնիութեան զեկոյցին
+
 appmenuitem-customize-mode =
     .label = Հարմարեցնել…
 

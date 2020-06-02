@@ -377,8 +377,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Աւգտագործել { $plugin-name } ({ -brand-short-name }-ում)
-applications-preview-inapp =
-    .label = Դիտել { -brand-short-name }-ում
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -392,9 +390,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -602,11 +597,16 @@ home-prefs-topsites-header =
     .label = Լավագոյն կայքեր
 home-prefs-topsites-description = Ամենաշատ այցելած կայքեր
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Առաջարկուում է { $provider }
 home-prefs-recommended-by-description = Հիանալի բովանդակութիւն համացանցից, անձնաւորուած Ձեզ համար
+##
+
 home-prefs-recommended-by-learn-more = Ինչպէս է դա աշխատում
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Հովանաւորուած կայքեր
@@ -923,9 +923,9 @@ privacy-header = Դիտարկիչի գաղտնիութիւն
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Մուտքանուններ եւ Գաղտնաբառեր
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Մուտքանուններ եւ Գաղտնաբառեր
@@ -1158,7 +1158,6 @@ content-blocking-warning-title = Ուշադրութիւն։
 content-blocking-warning-description = Բովանդակութեան արգելափակումը կարող է որոշ կայքերի կոտրման պատճառ դառնալ։ Հեշտ է անջատել վստահուած կայքերի արգելափակումը։
 content-blocking-learn-how = Իմանալ, թե ինչպէս
 
-content-blocking-etp-warning-description = Հետեւման արգելափակումը կարող է ազդել որոշ կայքերի գործառութեանը։ Վերբեռնե՛ք էջը հետեւումներով ողջ բովանդակութիւնը բեռնելու համար։
 content-blocking-warning-learn-how = Իմանալ ինչպէս
 
 content-blocking-reload-description = Ձեզ հարկաւոր կլինի վերբեռնել Ձեր ներդիրները այս փոփոխութիւնները հաստատելու համար։

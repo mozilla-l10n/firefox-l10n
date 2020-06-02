@@ -14,4 +14,6 @@ accounts-conn-security = Միացման անվտանգութիւն
 accounts-auth-method = Նույնականացման եղանակ
 accounts-default = Լռելեյայն
 identity-name = Ինքնութիւն
+
 send-via-email = Ուղարկեք Ել․փոստով
+
