@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+notifications-dialog-window =
+    .title = ახალი წერილის შეტყობინების მორგება
 customize-alert-description = მიუთითეთ სასურველი ველები შეტყობინებებში საჩვენებლად:
 subject-checkbox =
     .label = თემა
@@ -16,3 +18,8 @@ sender-checkbox =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = ახალი ფოსტის შეტყობინების ჩვენება
+    .accesskey = N
+open-time-label-after =
+    .value = წამით
