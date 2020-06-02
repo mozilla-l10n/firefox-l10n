@@ -394,8 +394,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ਵਰਤੋਂ ({ -brand-short-name } ਵਿੱਚ)
-applications-preview-inapp =
-    .label = { -brand-short-name } ਵਿੱਚ ਝਲਕ
 
 applications-open-inapp =
     .label = { -brand-short-name } ਵਿੱਚ ਖੋਲ੍ਹੋ
@@ -412,9 +410,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -626,11 +621,16 @@ home-prefs-topsites-header =
     .label = ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ
 home-prefs-topsites-description = ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਭ ਤੋਂ ਵੱਧ ਵੇਖੀਆਂ ਸਾਈਟਾਂ
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
 home-prefs-recommended-by-description = ਸਮੁੱਚੇ ਵੈੱਬ ਤੋਂ ਸ਼ਾਨਦਾਰ ਸਮੱਗਰੀ, ਤੁਹਾਡੇ ਲਈ ਵਿਅਕਤੀਗਤ ਹੈ
+##
+
 home-prefs-recommended-by-learn-more = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ
 home-prefs-recommended-by-option-sponsored-stories =
     .label = ਸਪਾਂਸਰ ਕੀਤੀਆਂ ਕਹਾਣੀਆਂ
@@ -951,9 +951,9 @@ privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
@@ -992,9 +992,6 @@ forms-master-pw-fips-title = ਇਸ ਸਮੇਂ ਤੁਸੀਂ FIPS ਮੋਡ 
 forms-master-pw-fips-desc = ਪਾਸਵਰਡ ਨੂੰ ਬਦਲਣਾ ਫੇਲ੍ਹ ਹੋਇਆ
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਣਾਉਣ ਲਈ ਆਪਣੀ ਪਛਾਣ ਦੀ ਤਸਦੀਕ ਕਰੋ।
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਣਾਉਣ ਲਈ ਆਪਣੀਆਂ Windows ਲਾਗਇਨ ਪਾਸਵਰਡ ਦਿਓ। ਇਸ ਤੁਹਾਡੇ ਖਾਤਿਆਂ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਬਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
@@ -1201,7 +1198,6 @@ content-blocking-warning-title = ਧਿਆਨ ਰੱਖੋ!
 content-blocking-warning-description = ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣਾ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਠੀਕ ਤਰ੍ਹਾਂ ਨਾ ਚੱਲਣ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ। ਸਾਈਟਾਂ, ਜਿੰਨਾਂ ਉੱਤੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੈ, ਉੱਤੇ ਪਾਬੰਦੀ ਅਸਮਰੱਥ ਕਰਨਾ ਸੌਖਾ ਹੈ।
 content-blocking-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 
-content-blocking-etp-warning-description = ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਨਾਲ ਕੁਝ ਸਾਈਟਾਂ ਦੇ ਕੰਮ ਕਰਨ ਉੱਤੇ ਅਸਰ ਪੈ ਸਕਦਾ ਹੈ। ਸਾਰੀ ਸਮੱਗਰੀ ਲੋਡ ਕਰਨ ਲਈ ਟਰੈਕਰਾਂ ਨਾਲ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ।
 content-blocking-warning-learn-how = ਹੋਰ ਸਿੱਖੋ
 
 content-blocking-reload-description = ਇਹ ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।

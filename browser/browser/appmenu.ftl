@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ
 appmenuitem-protection-report-tooltip =
     .tooltiptext = ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਰਿਪੋਰਟ ‘ਤੇ ਜਾਓ
+
 appmenuitem-customize-mode =
     .label = …ਪਸੰਦ
 

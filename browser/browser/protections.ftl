@@ -46,7 +46,6 @@ protection-report-page-summary = { -brand-short-name } ਤੁਹਾਡੇ ਵਲ
 
 etp-card-title-always = ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ: ਹਮੇਸ਼ਾ ਚਾਲੂ
 etp-card-title-custom-not-blocking = ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ: ਬੰਦ
-etp-card-content-summary = ਜਦੋਂ ਅਣਪਛਾਤੀਆਂ ਕੰਪਨੀਆਂ ਵੈੱਬ ਉੱਤੇ ਚੋਰੀ ਛਿਪੇ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੀਆਂ ਹਨ ਤਾਂ { -brand-short-name } ਆਪਣੇ-ਆਪ ਉਹਨਾਂ ਨੂੰ ਰੋਕ ਦਿੰਦਾ ਹੈ।
 protection-report-etp-card-content-custom-not-blocking = ਸਾਰੀਆਂ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਇਸ ਵੇਲੇ ਬੰਦ ਕੀਤਾ ਹੈ। ਆਪਣੀਆਂ { -brand-short-name } ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਾਜ਼ਮ ਕਰਕੇ ਪਾਬੰਦੀ ਲਾਉਣ ਵਾਲੇ ਟਰੈਕਰਾਂ ਨੂੰ ਚੁਣੋ।
 protection-report-manage-protections = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 
@@ -71,9 +70,6 @@ fingerprinter-tab-content = ਫਿੰਗਰਪਰਿੰਟਰ ਤੁਹਾਡੇ
 
 cryptominer-tab-title = ਕ੍ਰਿਪਟੋਮਾਈਨਰ
 cryptominer-tab-content = ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਡਿਜ਼ਿਟਲ ਧਨ ਦੀ ਟਕਸਾਲ ਦੇ ਰੂਪ ਵਿੱਚ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਊਰਜਾ ਨੂੰ ਗੁਪਤ ਰੂਪ ਵਿੱਚ ਵਰਤਦੇ ਹਨ। ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਸਕ੍ਰਿਪਟ ਤੁਹਾਡੀ ਬੈਟਰੀ ਖਪਾਉਂਦੀਆਂ ਹਨ, ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਹੌਲੀ ਕਰਦੀਆਂ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਬਿਜਲੀ ਦੇ ਬਿੱਲ ‘ਚ ਵੀ ਵਾਧਾ ਕਰ ਸਕਦੀਆਂ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
-
-protections-close-button =
-    .aria-label = ਬੰਦ ਕਰੋ
 
 protections-close-button2 =
     .aria-label = ਬੰਦ ਕਰੋ

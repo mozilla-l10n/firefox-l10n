@@ -593,9 +593,6 @@ updates-heading = ਆਪਣੇ ਅੱਪਡੇਟਾਂ ਦਾ ਬੰਦੋਬ�
 discover-heading = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ
 shortcuts-heading = ਇਕਸਟੈਨਸ਼ਨ ਸ਼ਾਰਟਕੱਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 
-theme-heading-search-label = ਹੋਰ ਥੀਮ ਲੱਭੋ
-extension-heading-search-label = ਹੋਰ ਇਕਸਟੈਨਸ਼ਨਾਂ ਲੱਭੋ
-
 default-heading-search-label = ਹੋਰ ਐਡ-ਆਨ ਲੱਭੋ
 addons-heading-search-input =
     .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
