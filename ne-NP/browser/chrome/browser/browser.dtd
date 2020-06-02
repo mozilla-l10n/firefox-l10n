@@ -321,6 +321,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "अनुकुलित बनाउनुहोस्...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "उपकरणपट्टि अनुकुलन गर्नुहोस्…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
