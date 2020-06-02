@@ -5,3 +5,8 @@
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-encryption_required_part1 = Nem titkosított üzenetet próbált küldeni { $name } részére. A házirend alapján a titkosítatlan üzenetek nem engedélyezettek.
+msgevent-encryption_required_part2 = Privát beszélgetést próbál indítani. Az üzenete újra lesz küldve, ha a privát beszélgetés elindul.
+msgevent-encryption_error = Hiba történt az üzenet titkosításakor. Az üzenetet nem lett elküldve.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-connection_ended = { $name } már bezárta a titkosított kapcsolatot Önnel. Hogy elkerülje az üzenet titkosítás nélküli véletlen elküldését, az üzenete nem lett elküldve. Fejezze be a titkosított beszélgetést, vagy indítsa újra.
