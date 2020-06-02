@@ -56,24 +56,33 @@ policy-LegacyProfiles = Вимкнути функцію, що застосову
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Увімкнути застаріле налаштування поведінки SameSite для кук.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Повертати застарілу поведінку SameSite для кук на вказаних сайтах.
 
 ##
 
 policy-LocalFileLinks = Дозволити певним вебсайтам посилатися на локальні файли.
 policy-NetworkPrediction = Ввімкнути чи вимкнути прогнозування мережі (попереднє отримання DNS).
 policy-OfferToSaveLogins = Застосувати налаштування, яке дозволить { -brand-short-name } пропонувати запам'ятати збережені логіни та паролі. Працюють обидва значення true і false.
+policy-OfferToSaveLoginsDefault = Встановити типове значення, щоби дозволити { -brand-short-name } пропонувати збереження імен користувача і паролів. Допускаються обидва значення true і false.
 policy-OverrideFirstRunPage = Перевизначити сторінку першого запуску. Установіть цю політику порожньою, якщо ви хочете вимкнути сторінку першого запуску.
 policy-OverridePostUpdatePage = Перевизначити сторінку "Що нового", яка відкривається після оновлення. Для вимкнення цієї сторінки залиште значення для цього правила порожнім.
+policy-PasswordManagerEnabled = Увімкнути збереження паролів у менеджері паролів.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Вимкнути або налаштувати PDF.js, вбудований засіб перегляду файлів PDF у { -brand-short-name }.
+policy-Permissions2 = Налаштувати дозволи для камери, мікрофона, розташування, сповіщень та автовідтворення.
 policy-Preferences = Встановити і зафіксувати значення для набору налаштувань.
 policy-PromptForDownloadLocation = Запитувати, де зберігати файли при завантаженні.
 policy-Proxy = Налаштувати параметри проксі.
 policy-RequestedLocales = Встановити перелік запитуваних мов для програми у вказаному порядку.
 policy-SanitizeOnShutdown2 = Очищати дані навігації при виході з програми.
 policy-SearchEngines = Налаштувати засіб пошуку. Ця політика доступна лише у версії Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Увімкнути чи вимкнути пропозиції пошуку.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Встановити модулі PKCS #11.
 policy-SSLVersionMax = Встановити максимальну версію SSL.
 policy-SSLVersionMin = Встановити мінімальну версію SSL.
 policy-SupportMenu = Додати власний елемент меню підтримки в меню довідки.
+policy-UserMessaging = Не показувати певні повідомлення користувачу.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Блокувати відвідування вебсайтів. Для отримання подробиць щодо формату, ознайомтеся з документацією.
