@@ -4,10 +4,67 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Zadani ({ $name })
 fonts-label-default-unnamed =
     .label = Zadani
+
+## Languages
+
+font-language-group-japanese =
+    .label = Japanski
+font-language-group-trad-chinese =
+    .label = Tradicionalni kineski (Tajvan)
+font-language-group-simpl-chinese =
+    .label = Pojednostavljeni kineski
+font-language-group-trad-chinese-hk =
+    .label = Tradicionalni kineski (Hong Kong)
+font-language-group-korean =
+    .label = Korejski
+font-language-group-el =
+    .label = Grčki
+font-language-group-thai =
+    .label = Tajlandski
+font-language-group-hebrew =
+    .label = Hebrejski
+font-language-group-arabic =
+    .label = Arapski
+font-language-group-devanagari =
+    .label = Devanagari
+font-language-group-tamil =
+    .label = Tamil
+font-language-group-armenian =
+    .label = Armenski
+font-language-group-bengali =
+    .label = Bengalski
+font-language-group-canadian =
+    .label = Objedinjeni kanadski slogovni
+font-language-group-ethiopic =
+    .label = Etiopski
+font-language-group-georgian =
+    .label = Gruzijski
+font-language-group-gujarati =
+    .label = Gudžaratski
+font-language-group-gurmukhi =
+    .label = Gurmukhi
+font-language-group-khmer =
+    .label = Khmer
+font-language-group-malayalam =
+    .label = Malajalam
+
+## Default font type
+
+font-sans-serif-label =
+    .value = Sans-serif:
+    .accesskey = n
+
+## Fonts in message
+
+use-document-fonts-checkbox =
+    .label = Dopusti porukama korištenje drugih fontova
+    .accesskey = o
+
+## Language settings
+
