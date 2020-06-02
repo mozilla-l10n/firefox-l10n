@@ -78,6 +78,10 @@ policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοπο
 
 policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένες ιστοσελίδες.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Να επιτρέπεται σε συγκεκριμένες ιστοσελίδες η σύνδεση με τοπικά αρχεία.
 
 policy-NetworkPrediction = Ενεργοποίηση ή απενεργοποίηση πρόβλεψης δικτύου (προφόρτωση DNS).

@@ -381,8 +381,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Χρήση αρθρώματος "{ $plugin-name }" (σε { -brand-short-name })
-applications-preview-inapp =
-    .label = Προεπισκόπηση σε { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -396,9 +394,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -614,11 +609,16 @@ home-prefs-topsites-header =
     .label = Κορυφαίες ιστοσελίδες
 home-prefs-topsites-description = Οι ιστοσελίδες που επισκέπτεστε περισσότερο
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Προτάσεις του { $provider }
 home-prefs-recommended-by-description = Εξαιρετικό περιεχόμενο από το διαδίκτυο, εξατομικευμένο για εσάς
+##
+
 home-prefs-recommended-by-learn-more = Πώς λειτουργεί
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Χορηγούμενες ιστορίες
@@ -928,9 +928,9 @@ privacy-header = Απόρρητο προγράμματος περιήγησης
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Συνδέσεις & κωδικοί πρόσβασης
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Συνδέσεις & κωδικοί πρόσβασης
@@ -1155,7 +1155,6 @@ content-blocking-warning-title = Προσοχή!
 content-blocking-warning-description = Η φραγή περιεχομένου μπορεί να προκαλέσει δυσλειτουργία σε ορισμένες ιστοσελίδες. Μπορείτε εύκολα να απενεργοποιήσετε τη φραγή σε ιστοσελίδες που εμπιστεύεστε.
 content-blocking-learn-how = Μάθετε πώς
 
-content-blocking-etp-warning-description = Η φραγή ιχνηλατών μπορεί να επηρεάσει τη λειτουργικότητα ορισμένων ιστοσελίδων. Φορτώστε εκ νέου μια σελίδα με ιχνηλάτες για να φορτώσετε όλο το περιεχόμενο.
 content-blocking-warning-learn-how = Μάθετε πώς
 
 content-blocking-reload-description = Θα πρέπει να φορτώσετε ξανά τις καρτέλες σας για εφαρμογή των αλλαγών αυτών.

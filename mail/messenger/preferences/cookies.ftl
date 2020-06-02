@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Cookies
     .style = width: 40em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Αναζήτηση:
     .accesskey = ζ
+
 cookies-on-system-label = Τα ακόλουθα cookies είναι αποθηκευμένα στον υπολογιστή σας:
+
 treecol-site-header =
     .label = Σελίδα
+
 treecol-name-header =
     .label = Όνομα Cookie
+
 props-name-label =
     .value = Όνομα:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Λήγει:
 props-container-label =
     .value = Περιβάλλον:
+
 remove-cookie-button =
     .label = Απομάκρυνση Cookie
     .accesskey = ρ
+
 remove-all-cookies-button =
     .label = Απομάκρυνση όλων των Cookies
     .accesskey = λ
+
 cookie-close-button =
     .label = Κλείσιμο
     .accesskey = Κ

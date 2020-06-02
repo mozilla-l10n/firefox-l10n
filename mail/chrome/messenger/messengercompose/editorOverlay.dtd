@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Εύρεση κειμένου στη σελίδα">
 <!ENTITY spellToolbarCmd.label "Ορθογραφικός έλεγχος">
 <!ENTITY spellToolbarCmd.tooltip "Ορθογραφικός έλεγχος στην επιλογή ή σε όλη τη σελίδα">
+
 <!ENTITY imageToolbarCmd.label "Εικόνα">
 <!ENTITY imageToolbarCmd.tooltip "Εισαγωγή νέας εικόνας ή επεξεργασία ιδιοτήτων επιλεγμένης εικόνας">
 <!ENTITY hruleToolbarCmd.label "Οριζ. γραμμή">

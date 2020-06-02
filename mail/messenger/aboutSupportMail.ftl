@@ -16,3 +16,4 @@ accounts-default = Προεπιλογή;
 identity-name = Ταυτότητα
 
 send-via-email = Αποστολή μέσω email
+
