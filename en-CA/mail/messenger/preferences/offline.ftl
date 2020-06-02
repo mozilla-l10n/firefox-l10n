@@ -37,3 +37,6 @@ going-offline-auto =
 going-offline-not =
     .label = No
     .accesskey = o
+going-offline-ask =
+    .label = Ask me
+    .accesskey = a
