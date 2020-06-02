@@ -4,16 +4,15 @@
 
 connection-dns-over-https-url-resolver = Utilizar fornecedor
     .accesskey = r
-
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (predefinido)
     .tooltiptext = Utilize o URL predefinido para resolver DNS por HTTPS
-
 connection-dns-over-https-url-custom =
     .label = Personalizar
     .accesskey = P
     .tooltiptext = Introduza o seu URL preferido para resolver DNS por HTTPS
-
 connection-dns-over-https-custom-label = Personalizado
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = O proxy nunca é utilizado em ligações para localhost, 127.0.0.1 e :: 1.
