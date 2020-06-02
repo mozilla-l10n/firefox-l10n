@@ -2,12 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Schließen
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Einstellungen
+           *[other] Einstellungen
+        }
 pane-general-title = Allgemein
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = Verfassen
 category-compose =
     .tooltiptext = Verfassen
+pane-privacy-title = Datenschutz & Sicherheit
+category-privacy =
+    .tooltiptext = Datenschutz & Sicherheit
+pane-chat-title = Chat
+category-chat =
+    .tooltiptext = Chat
 pane-calendar-title = Kalender
 category-calendar =
     .tooltiptext = Kalender
@@ -61,6 +75,7 @@ update-in-progress-ok-button = &Verwerfen
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortfahren
+addons-button = Erweiterungen & Themes
 
 ## OS Authentication dialog
 
@@ -92,10 +107,36 @@ location-label =
 restore-default-label =
     .label = Standard wiederherstellen
     .accesskey = w
+default-search-engine = Standardsuchmaschine
+add-search-engine =
+    .label = Aus Datei hinzufügen
+    .accesskey = D
+remove-search-engine =
+    .label = Entfernen
+    .accesskey = f
+minimize-to-tray-label =
+    .label = { -brand-short-name } beim Minimieren in die Infoleiste verschieben
+    .accesskey = M
 new-message-arrival = Wenn neue Nachrichten eintreffen
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Folgende Audiodatei abspielen:
+           *[other] Einen Klang abspielen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] F
+           *[other] K
+        }
 mail-play-button =
     .label = Probe hören
     .accesskey = P
+change-dock-icon = Einstellungen für Dock-Symbol ändern
+app-icon-options =
+    .label = Dock-Symbol-Einstellungen…
+    .accesskey = D
+notification-settings = Benachrichtigungen und Standardton können in der Mitteilungszentrale der Systemeinstellungen deaktiviert werden.
 animated-alert-label =
     .label = Eine Benachrichtigung anzeigen
     .accesskey = B
@@ -111,6 +152,18 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Globale Suche und Nachrichtenindizierung aktivieren
     .accesskey = N
+datetime-formatting-legend = Datums- und Uhrzeitformat
+language-selector-legend = Sprache
+allow-hw-accel =
+    .label = Hardwarebeschleunigung verwenden, wenn verfügbar
+    .accesskey = H
+store-type-label =
+    .value = Speichermethode für neue Konten:
+    .accesskey = m
+mbox-store-label =
+    .label = Eine Datei pro Ordner (mbox)
+maildir-store-label =
+    .label = Eine Datei pro Nachricht (maildir)
 system-integration-legend = Systemintegration
 always-check-default =
     .label = Beim Starten prüfen, ob { -brand-short-name } als Standard-Anwendung registriert ist
@@ -125,6 +178,15 @@ return-receipts-description = Den Umgang mit Empfangsbestätigungen (MDN) regeln
 return-receipts-button =
     .label = Empfangsbestätigungen…
     .accesskey = E
+update-app-legend = { -brand-short-name }-Updates
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Version { $version }
+allow-description = { -brand-short-name } erlauben
+use-service =
+    .label = Einen Hintergrunddienst zum Installieren von Updates verwenden
+    .accesskey = H
+cross-user-udpate-warning = Diese Einstellung betrifft alle Windows-Konten und { -brand-short-name }-Profile, welche diese Installation von { -brand-short-name } verwenden.
 networking-legend = Verbindung
 proxy-config-description = Festlegen wie sich { -brand-short-name } mit dem Internet verbindet
 network-settings-button =
@@ -148,6 +210,9 @@ use-cache-after = MB Speicherplatz als Cache verwendet
 
 ##
 
+smart-cache-label =
+    .label = Automatisches Cache-Management ausschalten
+    .accesskey = M
 clear-cache-button =
     .label = Jetzt leeren
     .accesskey = l
@@ -211,16 +276,51 @@ always-ask-label =
     .label = Jedes Mal nachfragen, wo gespeichert werden soll
     .accesskey = J
 display-tags-text = Schlagwörter können beim Sortieren und Erkennen von Nachrichten helfen.
+new-tag-button =
+    .label = Hinzufügen…
+    .accesskey = H
+edit-tag-button =
+    .label = Bearbeiten…
+    .accesskey = B
 delete-tag-button =
     .label = Löschen
     .accesskey = L
+auto-mark-as-read =
+    .label = Nachrichten automatisch als gelesen markieren
+    .accesskey = a
+mark-read-no-delay =
+    .label = Sofort beim Anzeigen
+    .accesskey = S
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Nach dem Anzeigen für
+    .accesskey = c
+seconds-label = Sekunden
 
 ##
 
+open-msg-label =
+    .value = Nachricht durch Doppelklick öffnen in:
+open-msg-tab =
+    .label = Neuem Tab
+    .accesskey = T
+open-msg-window =
+    .label = Neuem Fenster
+    .accesskey = N
+open-msg-ex-window =
+    .label = Vorhandenem Fenster
+    .accesskey = V
+close-move-delete =
+    .label = Nachrichtenfenster/-tab beim Verschieben oder Löschen schließen
+    .accesskey = h
+display-name-label =
+    .value = Anzeigename:
+condensed-addresses-label =
+    .label = Bei bekannten Kontakten nur den Anzeigenamen zeigen
+    .accesskey = B
 
 ## Compose Tab
 
@@ -245,6 +345,9 @@ auto-save-end = Minuten automatisch speichern
 
 ##
 
+warn-on-send-accel-key =
+    .label = Bestätigen, wenn die Tastenkombination zum Senden einer Nachricht verwendet wird
+    .accesskey = B
 spellcheck-label =
     .label = Rechtschreibprüfung vor dem Senden
     .accesskey = R
@@ -258,6 +361,12 @@ download-dictionaries-link = Weitere Wörterbücher herunterladen
 font-label =
     .value = Schriftart:
     .accesskey = c
+font-size-label =
+    .value = Größe:
+    .accesskey = G
+default-colors-label =
+    .label = Standardfarben des Programms verwenden
+    .accesskey = P
 font-color-label =
     .value = Text:
     .accesskey = T
@@ -267,7 +376,13 @@ bg-color-label =
 restore-html-label =
     .label = Standard wiederherstellen
     .accesskey = w
+default-format-label =
+    .label = Format "Absatz" anstatt "Normaler Text" verwenden
+    .accesskey = F
 format-description = Verhalten beim Senden von HTML-Nachrichten:
+send-options-label =
+    .label = Sendeoptionen…
+    .accesskey = o
 autocomplete-description = Beim Adressieren von Nachrichten nach passenden Einträgen suchen in:
 ab-label =
     .label = Lokale Adressbücher
@@ -283,15 +398,76 @@ edit-directories-label =
 email-picker-label =
     .label = Adressen beim Senden automatisch hinzufügen zu:
     .accesskey = A
+default-directory-label =
+    .value = Standardordner beim Öffnen des Adressbuchs:
+    .accesskey = S
+default-last-label =
+    .none = Zuletzt verwendeter Ordner
 attachment-label =
     .label = Auf fehlende Anhänge prüfen
     .accesskey = u
 attachment-options-label =
     .label = Schlüsselwörter…
     .accesskey = S
+enable-cloud-share =
+    .label = Hochladen für Dateien größer als
+cloud-share-size =
+    .value = MB anbieten
+add-cloud-account =
+    .label = Hinzufügen…
+    .accesskey = H
+    .defaultlabel = Hinzufügen…
+remove-cloud-account =
+    .label = Entfernen
+    .accesskey = E
+find-cloud-providers =
+    .value = Weitere Anbieter finden…
+cloud-account-description = Einen Filelink-Speicherdienst hinzufügen
 
 ## Privacy Tab
 
+mail-content = E-Mail-Inhalte
+remote-content-label =
+    .label = Externe Inhalte in Nachrichten erlauben
+    .accesskey = x
+exceptions-button =
+    .label = Ausnahmen…
+    .accesskey = A
+remote-content-info =
+    .value = Erfahren Sie mehr über die Datenschutzaspekte externer Inhalte
+web-content = Webinhalte
+history-label =
+    .label = Besuchte Webseiten und Links merken
+    .accesskey = W
+cookies-label =
+    .label = Cookies von Webseiten akzeptieren
+    .accesskey = C
+third-party-label =
+    .value = Cookies von Drittanbietern akzeptieren:
+    .accesskey = k
+third-party-always =
+    .label = Immer
+third-party-never =
+    .label = Nie
+third-party-visited =
+    .label = Nur von besuchten Drittanbietern
+keep-label =
+    .value = Behalten, bis:
+    .accesskey = B
+keep-expire =
+    .label = sie nicht mehr gültig sind
+keep-close =
+    .label = { -brand-short-name } geschlossen wird
+keep-ask =
+    .label = jedes Mal nachfragen
+cookies-button =
+    .label = Cookies anzeigen…
+    .accesskey = o
+do-not-track-label =
+    .label = Websites eine "Do Not Track"-Mitteilung senden, dass Ihre Online-Aktivitäten nicht verfolgt werden sollen
+    .accesskey = D
+learn-button =
+    .label = Weitere Informationen
 passwords-description = { -brand-short-name } kann die Passwörter aller Ihrer Konten speichern.
 passwords-button =
     .label = Gespeicherte Passwörter…
@@ -316,6 +492,9 @@ junk-delete-label =
 junk-read-label =
     .label = Junk als gelesen markieren
     .accesskey = J
+junk-log-label =
+    .label = Junk-Protokoll für selbstlernenden Filter aktivieren
+    .accesskey = u
 junk-log-button =
     .label = Protokoll anzeigen…
     .accesskey = P
@@ -337,9 +516,25 @@ certificate-auto =
 certificate-ask =
     .label = Jedes Mal fragen
     .accesskey = e
+ocsp-label =
+    .label = Aktuelle Gültigkeit von Zertifikaten durch Anfrage bei OCSP-Server bestätigen lassen
+    .accesskey = G
+certificate-button =
+    .label = Zertifikate verwalten…
+    .accesskey = Z
+security-devices-button =
+    .label = Kryptographie-Module verwalten…
+    .accesskey = K
 
 ## Chat Tab
 
+startup-label =
+    .value = Beim Start von { -brand-short-name }:
+    .accesskey = S
+offline-label =
+    .label = Chat-Konten nicht verbinden
+auto-connect-label =
+    .label = Chat-Konten automatisch verbinden
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -347,9 +542,77 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Kontakte über Untätigkeit informieren nach
+    .accesskey = U
+idle-time-label = Minuten ohne Aktion am Computer
 
 ##
 
+away-message-label =
+    .label = und eigenen Status auf Abwesend setzen mit dieser Statusnachricht:
+    .accesskey = A
+send-typing-label =
+    .label = Kontakte bei laufendem Gespräch über Tippen informieren
+    .accesskey = T
+notification-label = Wenn direkt an Sie gerichtete Nachrichten eintreffen
+show-notification-label =
+    .label = Eine Benachrichtigung anzeigen
+    .accesskey = B
+notification-all =
+    .label = mit dem Namen des Absenders und einer Vorschau der Nachricht
+notification-name =
+    .label = nur mit dem Namen des Absenders
+notification-empty =
+    .label = ohne jegliche Informationen
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animiertes Symbol im Dock
+           *[other] Blinkendes Symbol in Taskleiste
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] m
+           *[other] m
+        }
+chat-play-sound-label =
+    .label = Einen Klang abspielen
+    .accesskey = K
+chat-play-button =
+    .label = Probe hören
+    .accesskey = P
+chat-system-sound-label =
+    .label = Systemklang für neue Nachrichten
+    .accesskey = y
+chat-custom-sound-label =
+    .label = Benutzerdefinierter Klang
+    .accesskey = e
+chat-browse-sound-button =
+    .label = Durchsuchen…
+    .accesskey = D
+theme-label =
+    .value = Erscheinungsbild:
+    .accesskey = E
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Sprechblasen
+style-dark =
+    .label = Dunkel
+style-paper =
+    .label = Papierseiten
+style-simple =
+    .label = Einfach
+preview-label = Vorschau:
+no-preview-label = Keine Vorschau verfügbar
+no-preview-description = Dieses Erscheinungsbild ist ungültig oder derzeit nicht verfügbar (z.B. weil Add-on deaktiviert, Thunderbird im Abgesicherten Modus, …).
+chat-variant-label =
+    .value = Variante:
+    .accesskey = V
+chat-header-label =
+    .label = Kopfzeilen anzeigen
+    .accesskey = K
 
 ## Preferences UI Search Results
 
