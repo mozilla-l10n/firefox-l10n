@@ -112,6 +112,17 @@ remove-search-engine =
     .label = Eliminar
     .accesskey = E
 new-message-arrival = Cuando llegue un nuevo mensaje:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Reproducir el siguiente archivo de sonido:
+           *[other] Reproducir un sonido
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] p
+        }
 mail-play-button =
     .label = Reproducir
     .accesskey = d
