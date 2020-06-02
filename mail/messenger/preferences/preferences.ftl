@@ -75,6 +75,7 @@ update-in-progress-ok-button = &Απόρριψη
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Συνέχεια
+addons-button = Επεκτάσεις & Θέματα
 
 ## OS Authentication dialog
 
@@ -96,6 +97,12 @@ restore-default-label =
     .label = Επαναφορά προεπιλογής
     .accesskey = π
 default-search-engine = Προεπιλεγμένη μηχανή αναζήτησης
+add-search-engine =
+    .label = Προσθήκη από αρχείο
+    .accesskey = Π
+remove-search-engine =
+    .label = Αφαίρεση
+    .accesskey = ρ
 new-message-arrival = Όταν φθάνουν νέα μηνύματα:
 mail-play-sound-label =
     .label =
@@ -175,10 +182,14 @@ config-editor-button =
     .label = Επεξεργασία ρυθμίσεων…
     .accesskey = θ
 return-receipts-description = Καθορίστε τον τρόπο διαχείρισης των βεβαιώσεων ανάγνωσης από το { -brand-short-name }
+return-receipts-button =
+    .label = Αποδεικτικά ανάγνωσης…
+    .accesskey = Β
 update-app-legend = Ενημερώσεις { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Έκδοση { $version }
+allow-description = Να επιτρέπεται στο { -brand-short-name }
 automatic-updates-label =
     .label = Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται: αυξημένη ασφάλεια)
     .accesskey = Α
@@ -191,6 +202,7 @@ update-history-button =
 use-service =
     .label = Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων
     .accesskey = υ
+cross-user-udpate-warning = Αυτή η ρύθμιση θα εφαρμοστεί σε όλους τους λογαριασμούς των Windows και τα προφίλ του { -brand-short-name } με αυτή την εγκατάσταση του { -brand-short-name }.
 networking-legend = Σύνδεση
 proxy-config-description = Ρύθμιση του τρόπου σύνδεσης του { -brand-short-name } στο διαδίκτυο
 network-settings-button =
@@ -201,6 +213,7 @@ offline-settings = Ρυθμίσεις εργασίας χωρίς σύνδεση
 offline-settings-button =
     .label = Χωρίς σύνδεση…
     .accesskey = Χ
+diskspace-legend = Χώρος δίσκου
 offline-compact-folder =
     .label = Συμπίεση φακέλων πάνω από
     .accesskey = π
@@ -277,6 +290,17 @@ action-column-label =
 save-to-label =
     .label = Αποθήκευση αρχείων σε
     .accesskey = θ
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Επιλογή…
+           *[other] Περιήγηση…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] π
+           *[other] ξ
+        }
 always-ask-label =
     .label = Πάντα ερώτηση για την τοποθεσία αποθήκευσης
     .accesskey = Π
@@ -366,6 +390,12 @@ download-dictionaries-link = Λήψη περισσότερων λεξικών
 font-label =
     .value = Γραμματοσειρά:
     .accesskey = ρ
+font-size-label =
+    .value = Μέγεθος:
+    .accesskey = γ
+default-colors-label =
+    .label = Να χρησιμοποιηθούν τα προκαθορισμένα χρώματα αναγνώστη
+    .accesskey = π
 font-color-label =
     .value = Χρώμα κειμένου:
     .accesskey = Χ
@@ -419,6 +449,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Αφαίρεση
     .accesskey = R
+find-cloud-providers =
+    .value = Εύρεση περισσότερων παρόχων…
 cloud-account-description = Προσθήκη νέας υπηρεσίας αποθηκευτικού χώρου Filelink
 
 ## Privacy Tab
@@ -463,6 +495,8 @@ cookies-button =
 do-not-track-label =
     .label = Αποστολή σήματος “Αποτροπή καταγραφής” που σημαίνει ότι δεν θέλετε να καταγράφεστε από τις ιστοσελίδες
     .accesskey = n
+learn-button =
+    .label = Μάθετε περισσότερα
 passwords-description = Το { -brand-short-name } μπορεί να απομνημονεύσει τους κωδικούς πρόσβασης όλων των λογαριασμών σας.
 passwords-button =
     .label = Αποθηκευμένοι κωδικοί πρόσβασης…
@@ -514,6 +548,12 @@ certificate-ask =
 ocsp-label =
     .label = Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών
     .accesskey = δ
+certificate-button =
+    .label = Διαχείριση Πιστοποιητικών…
+    .accesskey = Δ
+security-devices-button =
+    .label = Συσκευές ασφαλείας…
+    .accesskey = Σ
 
 ## Chat Tab
 
