@@ -8,12 +8,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = ပိတ်လိုက်သည့် တပ်ဗ်ကို ပြန်ဖွင့်ပါ
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = တိုးချဲ့ကိရိယာများကို စီမံရန်
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = တိုးချဲ့မှု ပယ်ဖျက်ပါ
     .accesskey = v
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

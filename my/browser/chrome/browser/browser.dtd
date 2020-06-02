@@ -349,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "စိတ်ကြိုက်ပြင်ဆင်ရန်…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "တန်ဆာပလာအတန်းကို မွမ်းမံရန်…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 

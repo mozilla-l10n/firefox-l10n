@@ -333,8 +333,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = ({ $plugin-name } တွင်) { -brand-short-name } ကို အသုံးပြုပါ
-applications-preview-inapp =
-    .label = { -brand-short-name } တွင် အစမ်းကြည့်ရန်
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -348,9 +346,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -522,10 +517,15 @@ choose-bookmark =
 home-prefs-topsites-header =
     .label = ထိပ်တန်းဝဘ်ဆိုက်များ
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } က အကြံပြုထားသည်
+##
+
 home-prefs-recommended-by-learn-more = ဘယ်လိုအလုပ်လုပ်လဲ
 
 home-prefs-highlights-header =
@@ -760,9 +760,9 @@ privacy-header = ဘရောင်ဇာ ကိုယ်ရေးကာကွ�
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = အကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = အကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
