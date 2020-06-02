@@ -69,11 +69,11 @@
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Woonplaats:">
-<!ENTITY HomeCity.accesskey             "n">
+<!ENTITY HomeCity.accesskey             "s">
 <!ENTITY HomeState.label                "Provincie:">
 <!ENTITY HomeState.accesskey            "v">
 <!ENTITY HomeZipCode.label              "Postcode:">
-<!ENTITY HomeZipCode.accesskey          "t">
+<!ENTITY HomeZipCode.accesskey          "e">
 <!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Webpagina:">
