@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Dacă este fals, dezactivează accelerarea hardwar
 
 policy-InstallAddonsPermission = Permite anumitor site-uri să instaleze suplimente.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Permite anumitor site-uri să creeze linkuri către fișiere locale.
 
 policy-NetworkPrediction = Activează sau dezactivează predicția de rețea (obținere prealabilă DNS).

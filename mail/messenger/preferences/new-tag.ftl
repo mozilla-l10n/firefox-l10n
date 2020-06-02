@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Etichetă nouă
+
 tag-name-label =
     .value = Denumirea etichetei:
     .accesskey = t

@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Implicit ({ $name })
 fonts-label-default-unnamed =
     .label = Implicit
+
 fonts-encoding-dialog-title =
     .title = Fonturi și codări
+
 fonts-language-legend =
     .value = Fonturi pentru:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Proporțional:
     .accesskey = P
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Cu serife
+
 default-font-sans-serif =
     .label = Fără serife
+
 font-size-label =
     .value = Dimensiune:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Dimensiune:
     .accesskey = i
+
 font-serif-label =
     .value = Cu serife:
     .accesskey = s
+
 font-sans-serif-label =
     .value = Fără serife:
     .accesskey = n
+
 font-monospace-label =
     .value = Monospațiat:
     .accesskey = M
+
 font-min-size-label =
     .value = Dimensiunea minimă a fontului:
     .accesskey = M
+
 min-size-none =
     .label = Fără
 
 ## Fonts in message
 
 font-control-legend = Controlarea fonturilor
+
 use-document-fonts-checkbox =
     .label = Permite mesajelor să folosească alte fonturi
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = Folosește font de lățime fixă pentru mesajele în text simplu
     .accesskey = x
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codare de text
+
 text-encoding-description = Setează codarea de text implicită pentru trimiterea și primirea mesajelor
+
 font-outgoing-email-label =
     .value = Mesaje trimise:
     .accesskey = M
+
 font-incoming-email-label =
     .value = Mesaje primite:
     .accesskey = i
+
 default-font-reply-checkbox =
     .label = Când e posibil, folosește codarea de text implicită în răspunsuri
     .accesskey = n

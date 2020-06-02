@@ -596,9 +596,6 @@ updates-heading = Gestionează-ți actualizările
 discover-heading = Personalizează { -brand-short-name }
 shortcuts-heading = Gestionează comenzile rapide ale extensiilor
 
-theme-heading-search-label = Caută mai multe teme
-extension-heading-search-label = Caută mai multe extensii
-
 default-heading-search-label = Caută mai multe suplimente
 addons-heading-search-input =
     .placeholder = Caută pe addons.mozilla.org
