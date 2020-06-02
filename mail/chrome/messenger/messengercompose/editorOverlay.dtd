@@ -290,6 +290,7 @@
 <!ENTITY findToolbarCmd.tooltip "Batla mafoko mo tsebeng">
 <!ENTITY spellToolbarCmd.label "Peleta">
 <!ENTITY spellToolbarCmd.tooltip "Tlhola mopeleto wa tlhopho gongwe tsebe yotlhe">
+
 <!ENTITY imageToolbarCmd.label "Setshwantsho">
 <!ENTITY imageToolbarCmd.tooltip "Lokela setshwantsho se sentšhwa gongwe o tseleganye ditlhagotshedimosetso tsa setshwantsho se se tlhophilweng">
 <!ENTITY hruleToolbarCmd.label "Mola wa o o rapameng">
