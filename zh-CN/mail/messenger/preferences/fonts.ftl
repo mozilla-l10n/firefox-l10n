@@ -21,14 +21,21 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = 拉丁
 font-language-group-japanese =
     .label = 日语
 font-language-group-simpl-chinese =
     .label = 简体中文
 font-language-group-korean =
     .label = 朝鲜语
+font-language-group-cyrillic =
+    .label = 西里尔字母
 font-language-group-el =
     .label = 希腊语
+font-language-group-other =
+    .label = 其他书写系统
 font-language-group-thai =
     .label = 泰语
 font-language-group-hebrew =
@@ -39,6 +46,8 @@ font-language-group-devanagari =
     .label = 梵文
 font-language-group-tamil =
     .label = 泰米尔语
+font-language-group-armenian =
+    .label = 亚美尼亚语
 font-language-group-bengali =
     .label = 孟加拉语
 font-language-group-canadian =
@@ -55,6 +64,16 @@ font-language-group-khmer =
     .label = 高棉语
 font-language-group-malayalam =
     .label = 马拉亚拉姆
+font-language-group-math =
+    .label = 数学
+font-language-group-telugu =
+    .label = 泰卢固语
+font-language-group-kannada =
+    .label = 埃纳德语
+font-language-group-sinhala =
+    .label = 僧伽罗语
+font-language-group-tibetan =
+    .label = 藏语
 
 ## Default font type
 
@@ -62,9 +81,21 @@ default-font-serif =
     .label = 衬线字体
 default-font-sans-serif =
     .label = 无衬线字体
+font-size-label =
+    .value = 大小：
+    .accesskey = e
+font-size-monospace-label =
+    .value = 大小：
+    .accesskey = i
+font-serif-label =
+    .value = 衬线字体：
+    .accesskey = S
 font-sans-serif-label =
     .value = 无衬线字体：
     .accesskey = n
+font-monospace-label =
+    .value = 等宽字体：
+    .accesskey = M
 font-min-size-label =
     .value = 最小字体大小：
     .accesskey = z
@@ -83,9 +114,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = 文字编码
+text-encoding-description = 设置发送和接收邮件时的默认文字编码
 font-outgoing-email-label =
     .value = 发送邮件：
     .accesskey = u
 font-incoming-email-label =
     .value = 接收邮件：
     .accesskey = I
+default-font-reply-checkbox =
+    .label = 尽可能使用默认的文字编码进行回复
+    .accesskey = h
