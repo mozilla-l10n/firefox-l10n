@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Avaa paikallinen tiedosto">
 <!ENTITY saveToolbarCmd.tooltip "Tallenna tiedosto paikalliselle levylle">
 <!ENTITY publishToolbarCmd.tooltip "Siirrä tiedosto palvelimelle">
+<!ENTITY printToolbarCmd.label "Tulosta">
+<!ENTITY printToolbarCmd.tooltip "Tulosta tämä sivu">

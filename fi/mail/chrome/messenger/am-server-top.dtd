@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Viestien säilytys">
 <!ENTITY securitySettings.label "Turva-asetukset">
 <!ENTITY serverSettings.label "Palvelimen asetukset">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Portti:">
 <!ENTITY port.accesskey "o">
 <!ENTITY serverPortDefault.label "Oletus:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "s">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Kysy ennen kuin noudetaan yli">
 <!ENTITY maxMessagesStart.accesskey "K">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "V">
 <!ENTITY newsrcFilePath.label "newsrc-tiedosto:">
 <!ENTITY newsrcPicker.label "Valitse newsrc-tiedosto">
+<!ENTITY newsrcFilePath1.label "News.rc-tiedosto:">
+<!ENTITY newsrcPicker1.label "Valitse News.rc-tiedosto">
 <!ENTITY abbreviate.label "Näytä keskusteluryhmien nimet Postikansiot-paneelissa">
 <!ENTITY abbreviateOn.label "Kokonaisina (esimerkiksi netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label "Lyhennä nimet (esimerkiksi &quot;n.p.m.mail-news&quot;)">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "L">
 <!ENTITY serverDefaultCharset2.label "Oletusmerkistökoodaus:">
 <!ENTITY localPath.label "Paikallinen hakemisto:">
+<!ENTITY localPath1.label "Paikallinen hakemisto:">
 <!ENTITY localFolderPicker.label "Valitse paikalliskansioiden sijainti">
 <!ENTITY browseFolder.label "Selaa…">
 <!ENTITY browseFolder.accesskey "e">
