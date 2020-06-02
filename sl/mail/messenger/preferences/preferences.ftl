@@ -72,6 +72,7 @@ update-in-progress-ok-button = &Opusti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
+addons-button = Razširitve in teme
 
 ## OS Authentication dialog
 
@@ -145,6 +146,7 @@ enable-gloda-search-label =
     .label = Omogoči splošno iskanje in kazalo
     .accesskey = m
 datetime-formatting-legend = Oblika datuma in časa
+language-selector-legend = Jezik
 allow-hw-accel =
     .label = Uporabi strojno pospeševanje, kadar je na voljo
     .accesskey = n
