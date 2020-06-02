@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigazion privade)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigazion privade)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigazion privade)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigazion privade)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -62,6 +64,7 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modifiche chest segnelibri ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -118,5 +121,6 @@ urlbar-placeholder =
     .placeholder = Cîr o inserìs direzion
 urlbar-switch-to-tab =
     .value = Passe a la schede:
+
 urlbar-go-button =
     .tooltiptext = Va al indiriç specificât inte sbare dai indiriçs

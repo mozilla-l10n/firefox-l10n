@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = Anule la sierade de lengute
     .accesskey = u
+
 toolbar-context-menu-remove-from-toolbar =
     .label = Gjave de rie dai imprescj
     .accesskey = G
