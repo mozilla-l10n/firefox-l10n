@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Stäng
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Inställningar
+           *[other] Inställningar
+        }
 pane-general-title = Allmänt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -64,6 +72,7 @@ update-in-progress-ok-button = &Ignorera
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsätt
+addons-button = Tillägg & teman
 
 ## OS Authentication dialog
 
@@ -81,22 +90,39 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
+general-legend = { -brand-short-name } startsida
 start-page-label =
     .label = Visa startsidan i förhandsgranskningen när { -brand-short-name } startar
     .accesskey = ö
+location-label =
+    .value = Adress:
+    .accesskey = A
 restore-default-label =
     .label = Återställ standard
     .accesskey = Å
+default-search-engine = Standardsökmotor
 new-message-arrival = När ny e-post kommer:
 mail-play-button =
     .label = Spela upp
     .accesskey = e
+change-dock-icon = Ändra inställningar för programsymbol
+app-icon-options =
+    .label = Alternativ för programsymbol…
+    .accesskey = n
+notification-settings = Varningar och standardljud kan stängas av aviseringsfältet i Systeminställningar.
 animated-alert-label =
     .label = Visa en meddelanderuta
     .accesskey = V
 customize-alert-label =
     .label = Anpassa…
     .accesskey = n
+tray-icon-label =
+    .label = Visa ikon i aktivitetsfältet
+    .accesskey = a
 mail-custom-sound-label =
     .label = Använd följande ljudfil
     .accesskey = d
@@ -106,6 +132,18 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Aktivera global sökning och indexering
     .accesskey = A
+datetime-formatting-legend = Formatering av datum och tid
+language-selector-legend = Språk
+allow-hw-accel =
+    .label = Använd hårdvaruacceleration när det finns
+    .accesskey = h
+store-type-label =
+    .value = Lagringstyp för meddelande i nya konton:
+    .accesskey = t
+mbox-store-label =
+    .label = Fil per mapp (mbox)
+maildir-store-label =
+    .label = Fil per meddelande (maildir)
 scrolling-legend = Scrollning
 autoscroll-label =
     .label = Använd automatisk scrollning
@@ -138,6 +176,24 @@ return-receipts-description = Ange hur { -brand-short-name } ska hantera mottagn
 return-receipts-button =
     .label = Mottagningskvitton…
     .accesskey = M
+update-app-legend = { -brand-short-name } uppdateringar
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Version { $version }
+allow-description = Tillåt { -brand-short-name } att
+automatic-updates-label =
+    .label = Installera uppdateringar automatiskt (rekommenderas: förbättrad säkerhet)
+    .accesskey = I
+check-updates-label =
+    .label = Sök efter uppdateringar, men låt mig välja om de ska installeras
+    .accesskey = S
+update-history-button =
+    .label = Visa uppdateringshistorik
+    .accesskey = h
+use-service =
+    .label = Använd en bakgrundstjänst för att installera uppdateringar
+    .accesskey = b
+cross-user-udpate-warning = Den här inställningen gäller för alla Windows-konton och { -brand-short-name } profiler som använder den här installationen av { -brand-short-name }.
 networking-legend = Anslutning
 proxy-config-description = Ange hur { -brand-short-name } ansluter till Internet
 network-settings-button =
@@ -166,20 +222,31 @@ use-cache-after = MB utrymme för cachen
 
 ##
 
+smart-cache-label =
+    .label = Åsidosätt automatisk cachehantering
+    .accesskey = s
 clear-cache-button =
     .label = Rensa nu
     .accesskey = R
+fonts-legend = Teckensnitt & färger
 default-font-label =
     .value = Standardteckensnitt:
     .accesskey = d
+default-size-label =
+    .value = Storlek:
+    .accesskey = S
 font-options-button =
     .label = Avancerat…
     .accesskey = A
+color-options-button =
+    .label = Färger…
+    .accesskey = F
 display-width-legend = Oformaterade meddelanden
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
     .label = Visa smilisar (gubbar som uttrycker känslor).
     .accesskey = m
+display-text-label = Vid visning av citerade oformaterade meddelanden:
 style-label =
     .value = Stil:
     .accesskey = S
@@ -200,8 +267,17 @@ bigger-size-item =
     .label = Större
 smaller-size-item =
     .label = Mindre
+quoted-text-color =
+    .label = Färg:
+    .accesskey = F
 search-input =
     .placeholder = Sök
+type-column-label =
+    .label = Typ av innehåll
+    .accesskey = T
+action-column-label =
+    .label = Åtgärd
+    .accesskey = Å
 save-to-label =
     .label = Spara filer till
     .accesskey = S
@@ -219,13 +295,50 @@ choose-folder-label =
 always-ask-label =
     .label = Fråga alltid var jag vill spara filerna
     .accesskey = F
+display-tags-text = Etiketter kan användas för att kategorisera och prioritera meddelanden.
+new-tag-button =
+    .label = Ny…
+    .accesskey = N
+edit-tag-button =
+    .label = Redigera…
+    .accesskey = R
+delete-tag-button =
+    .label = Ta bort
+    .accesskey = T
+auto-mark-as-read =
+    .label = Märk automatiskt meddelanden som lästa
+    .accesskey = M
+mark-read-no-delay =
+    .label = Omedelbart vid visning
+    .accesskey = O
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Efter att ha visats i
+    .accesskey = E
+seconds-label = sekunder
 
 ##
 
+open-msg-label =
+    .value = Öppna meddelanden i:
+open-msg-tab =
+    .label = en ny flik
+    .accesskey = n
+open-msg-window =
+    .label = ett nytt fönster
+    .accesskey = e
+open-msg-ex-window =
+    .label = befintligt fönster
+    .accesskey = b
+close-move-delete =
+    .label = Stäng meddelandefönstret/fliken vid flyttning eller borttagning
+    .accesskey = S
+condensed-addresses-label =
+    .label = Visa endast kortnamn för personer som finns i adressboken
+    .accesskey = V
 
 ## Compose Tab
 
@@ -266,6 +379,12 @@ download-dictionaries-link = Hämta fler ordlistor
 font-label =
     .value = Teckensnitt:
     .accesskey = T
+font-size-label =
+    .value = Storlek:
+    .accesskey = S
+default-colors-label =
+    .label = Använd läsarens standardfärger
+    .accesskey = d
 font-color-label =
     .value = Textfärg:
     .accesskey = x
@@ -275,6 +394,9 @@ bg-color-label =
 restore-html-label =
     .label = Återställ standard
     .accesskey = Å
+default-format-label =
+    .label = Använd styckeformat istället för brödtext som standard
+    .accesskey = t
 format-description = Anpassa valet av textformat:
 send-options-label =
     .label = Anpassa…
@@ -294,6 +416,11 @@ edit-directories-label =
 email-picker-label =
     .label = Spara automatiskt utgående e-postadresser i:
     .accesskey = S
+default-directory-label =
+    .value = Standardstartkatalog i adressboksfönstret:
+    .accesskey = S
+default-last-label =
+    .none = Senast använda katalog
 attachment-label =
     .label = Kontrollera om bilagor saknas
     .accesskey = K
@@ -304,13 +431,56 @@ enable-cloud-share =
     .label = Erbjuder dig att dela filer större än
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Lägg till…
+    .accesskey = L
+    .defaultlabel = Lägg till…
 remove-cloud-account =
     .label = Ta bort
     .accesskey = T
+find-cloud-providers =
+    .value = Hitta fler leverantörer…
 cloud-account-description = Lägg till en ny Filelink lagringstjänst
 
 ## Privacy Tab
 
+mail-content = E-postinnehåll
+remote-content-label =
+    .label = Tillåt fjärrinnehåll i meddelanden
+    .accesskey = T
+exceptions-button =
+    .label = Undantag…
+    .accesskey = U
+remote-content-info =
+    .value = Läs mer om integritetsfrågor för fjärrinnehåll
+web-content = Webbinnehåll
+history-label =
+    .label = Kom ihåg webbplatser och länkar som jag har besökt
+    .accesskey = K
+cookies-label =
+    .label = Tillåt kakor från webbplatser
+    .accesskey = T
+third-party-label =
+    .value = Tillåt tredjepartskakor:
+    .accesskey = r
+third-party-always =
+    .label = Alltid
+third-party-never =
+    .label = Aldrig
+third-party-visited =
+    .label = Från besökta
+keep-label =
+    .value = Behålls tills:
+    .accesskey = B
+keep-expire =
+    .label = de förfaller
+keep-close =
+    .label = { -brand-short-name } stängs
+keep-ask =
+    .label = fråga mig varje gång
+cookies-button =
+    .label = Visa kakor…
+    .accesskey = V
 passwords-description = { -brand-short-name } kan spara lösenord för alla dina konton.
 passwords-button =
     .label = Sparade lösenord…
@@ -359,6 +529,9 @@ certificate-auto =
 certificate-ask =
     .label = Fråga varje gång
     .accesskey = F
+ocsp-label =
+    .label = Använd OCSP-mekanism för att bekräfta giltigheten på certifikaten
+    .accesskey = o
 
 ## Chat Tab
 
@@ -389,6 +562,64 @@ away-message-label =
 send-typing-label =
     .label = Skicka skrivmeddelanden i konversationer
     .accesskey = k
+notification-label = När meddelanden riktade till dig kommer:
+show-notification-label =
+    .label = Visa avisering
+    .accesskey = V
+notification-all =
+    .label = med avsändarens namn och förhandsvisning
+notification-name =
+    .label = med avsändarens namn endast
+notification-empty =
+    .label = utan någon info
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animera dockikonen
+           *[other] Blinka i aktivitetsfältet
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] B
+        }
+chat-play-sound-label =
+    .label = Spela ett ljud
+    .accesskey = d
+chat-play-button =
+    .label = Spela
+    .accesskey = S
+chat-system-sound-label =
+    .label = Systemets standardljud för ny e-post
+    .accesskey = D
+chat-custom-sound-label =
+    .label = Använd följande ljudfil
+    .accesskey = A
+chat-browse-sound-button =
+    .label = Bläddra…
+    .accesskey = B
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bubblor
+style-dark =
+    .label = Mörkt
+style-paper =
+    .label = Pappersark
+style-simple =
+    .label = Enkelt
+preview-label = Förhandsgranskning:
+no-preview-label = Ingen förhandsgranskning tillgänglig
+no-preview-description = Det här temat är inte giltigt eller är för närvarande inte tillgängligt (inaktivera tillägg, säkert läge, …).
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Visa rubrik
+    .accesskey = r
 
 ## Preferences UI Search Results
 
