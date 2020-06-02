@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latyn
 font-language-group-japanese =
     .label = Japansk
 font-language-group-trad-chinese =
@@ -67,6 +70,8 @@ font-language-group-malayalam =
     .label = Malayalam
 font-language-group-math =
     .label = Wiskunde
+font-language-group-odia =
+    .label = Odia
 font-language-group-telugu =
     .label = Telugu
 font-language-group-kannada =
@@ -116,6 +121,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Tekstkodearing
+text-encoding-description = Standert tekstkodearing foar ferstjoeren en ûntfangen fan e-mailberjochten
 font-outgoing-email-label =
     .value = Utgeande e-mailberjochten:
     .accesskey = U
+font-incoming-email-label =
+    .value = Ynkommende e-mailberjochten:
+    .accesskey = Y
+default-font-reply-checkbox =
+    .label = Wannear mooglik, yn antwurden de standert tekstkodearing brûke
+    .accesskey = W
