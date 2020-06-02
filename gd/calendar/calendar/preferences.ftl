@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Am mìosachan
+calendar-title-reminder = Cuimhneachain
+calendar-title-category = Roinnean-seòrsa
 dateformat-label =
     .value = Fòrmat teacs nan ceann-là:
     .accesskey = F
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Seall àireamh na seachdain sna seallaidhean agus sa mheanbh-mhìos
     .accesskey = n
+workdays-label =
+    .value = Làithean na seachdain-obrach:
 day-1-checkbox =
     .label = DiD
     .accesskey = D
@@ -70,6 +75,9 @@ midnight-label =
     .label = Meadhan-oidhche
 noon-label =
     .label = Meadhan-latha
+location-checkbox =
+    .label = Seall an t-ionad
+    .accesskey = L
 multiweek-legend = Sealladh ioma-sheachdaineil
 number-of-weeks-label =
     .value = Àireamh nan seachdain a chithear (a' gabhail a-steach an fheadhainn 's a chaidh):
@@ -92,7 +100,16 @@ previous-weeks-label =
     .value = Na seachdainean 's a chaidh a chithear:
     .accesskey = N
 todaypane-legend = Leòsan an latha
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Seallaidh earrann nan tachartasan a tha gu bhith ann:
+    .accesskey = U
 event-task-legend = Tachartasan is saothraichean
+default-length-label =
+    .value = Faid bhunaiteach thachartasan is shaothraichean:
+    .accesskey = E
 task-start-label =
     .value = Latha tòiseachaidh:
 task-start-1-label =
@@ -126,12 +143,18 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Cleachd an fhuaim bhunaiteach
     .accesskey = d
+reminder-custom-sound-label =
+    .label = Cleachd an fhuaim a leanas
+    .accesskey = U
 reminder-browse-sound-label =
     .label = Brabhsaich…
     .accesskey = B
 reminder-dialog-label =
     .label = Seall bogsa caismeachd
     .accesskey = x
+missed-reminder-label =
+    .label = Seall cuimhneachain a dh’fhairtlich orm a thaobh mhìosachan so-sgrìobhte
+    .accesskey = m
 reminder-default-legend = Roghainnean caismeachd bunaiteach
 default-snooze-label =
     .value = Faid bhunaiteach an dùsail:
