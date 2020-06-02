@@ -235,6 +235,7 @@
 <!ENTITY findToolbarCmd.tooltip "Thola umtlolo ekhasini">
 <!ENTITY spellToolbarCmd.label "Peleda">
 <!ENTITY spellToolbarCmd.tooltip "Qala isipeledo sokukhethiweko namkha ikhasi loke">
+
 <!ENTITY imageToolbarCmd.label "Isithombe">
 <!ENTITY imageToolbarCmd.tooltip "Faka isithombe esitjha namkha ulungise iimpahla zesithombe ezikhethiweko">
 <!ENTITY hruleToolbarCmd.label "H.Umuda">
