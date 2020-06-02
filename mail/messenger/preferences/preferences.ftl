@@ -74,6 +74,7 @@ location-label =
 restore-default-label =
     .label = Bruk standard
     .accesskey = u
+default-search-engine = Standard søkjemotor
 new-message-arrival = Når ei ny melding kjem:
 mail-play-button =
     .label = Spel av
@@ -87,10 +88,18 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Slå på globalt søk og indeksering
     .accesskey = S
+store-type-label =
+    .value = Lagringstype for meldingar i nye kontoar:
+    .accesskey = d
+maildir-store-label =
+    .label = Fil per melding (maildir)
 system-integration-legend = Systemintegrasjon
 always-check-default =
     .label = Alltid kontroller om { -brand-short-name } er standard e-postklient ved oppstart
     .accesskey = l
+check-default-button =
+    .label = Sjekk no …
+    .accesskey = n
 config-editor-button =
     .label = Konfigurasjonseditor …
     .accesskey = o
@@ -99,6 +108,9 @@ return-receipts-button =
     .accesskey = K
 networking-legend = Tilkopling
 proxy-config-description = Still inn korleis { -brand-short-name } koplar seg til Internett
+network-settings-button =
+    .label = Innstillingar …
+    .accesskey = I
 offline-legend = Fråkopla
 offline-settings = Konfigurer innstillingar for fråkopla modus
 offline-settings-button =
@@ -208,15 +220,23 @@ directories-none-label =
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name } kan hugse passordinformasjon for alle kontoane dine, slik at du ikkje treng å skriva inn innloggingsdetaljane fleire gonger.
+master-password-description = Du kan bruka eit hovudpassord for å verna alle passorda dine, men du må skriva inn passordet ein gong for kvar programøkt.
 master-password-label =
     .label = Bruk eit hovudpassord
     .accesskey = B
+master-password-button =
+    .label = Endra hovudpassord …
+    .accesskey = E
 junk-delete-label =
     .label = Slett dei
     .accesskey = t
 junk-log-button =
     .label = Vis logg
     .accesskey = V
+antivirus-label =
+    .label = Tillat antivirus-program å leggja innkomande meldingar i karantene
+    .accesskey = T
 certificate-description = Når ein tenar ber om det personlege sertifikatet mitt:
 certificate-auto =
     .label = Vel eit automatisk
@@ -227,6 +247,8 @@ certificate-ask =
 
 ## Chat Tab
 
+auto-connect-label =
+    .label = Kopla til nettprat-kontoane automatisk
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -237,6 +259,19 @@ certificate-ask =
 
 ##
 
+notification-label = Når meldingar sendt til deg kjem:
+show-notification-label =
+    .label = Vis eit varsel
+    .accesskey = V
+chat-play-sound-label =
+    .label = Spel ein lyd
+    .accesskey = l
+chat-custom-sound-label =
+    .label = Bruk lydfil
+    .accesskey = B
+chat-browse-sound-button =
+    .label = Bla gjennom …
+    .accesskey = B
 
 ## Preferences UI Search Results
 
