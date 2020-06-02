@@ -5,6 +5,9 @@
 pane-general-title = Yleiset
 category-general =
     .tooltiptext = { pane-general-title }
+pane-chat-title = Keskustelut
+category-chat =
+    .tooltiptext = Keskustelut
 general-language-and-appearance-header = Kieli ja ulkoasu
 general-incoming-mail-header = Saapuva sähköposti
 general-files-and-attachment-header = Tiedostot ja liitteet
@@ -72,43 +75,168 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+default-search-engine = Oletushakukone
 mail-play-button =
     .label = Toista
     .accesskey = T
+change-dock-icon = Muokkaa sovelluskuvakkeen asetuksia
+app-icon-options =
+    .label = Sovelluskuvakkeen asetukset…
+    .accesskey = v
 customize-alert-label =
     .label = Muokkaa…
     .accesskey = M
+tray-icon-label =
+    .label = Näytä ilmoitusalueen kuvake
+    .accesskey = i
 mail-custom-sound-label =
     .label = Käytä seuraavaa äänitiedostoa
     .accesskey = K
 mail-browse-sound-button =
     .label = Selaa…
     .accesskey = S
+allow-hw-accel =
+    .label = Käytä laitteistokiihdytystä jos mahdollista
+    .accesskey = l
+mbox-store-label =
+    .label = Tiedosto jokaiselle kansiolle (mbox)
+maildir-store-label =
+    .label = Tiedosto jokaiselle viestille (maildir)
+scrolling-legend = Vieritys
+autoscroll-label =
+    .label = Vieritä sivua automaattisesti
+    .accesskey = V
+smooth-scrolling-label =
+    .label = Vieritä sivua portaattomasti
+    .accesskey = e
+system-integration-legend = Järjestelmään liittäminen
+always-check-default =
+    .label = Tarkista aina onko { -brand-short-name } järjestelmän oletussähköpostiohjelma
+    .accesskey = T
+check-default-button =
+    .label = Tarkista heti…
+    .accesskey = h
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windowsin haku
+       *[other] { "" }
+    }
+config-editor-button =
+    .label = Asetusten muokkain…
+    .accesskey = A
+return-receipts-button =
+    .label = Vastaanottokuittaukset…
+    .accesskey = V
+automatic-updates-label =
+    .label = Asenna päivitykset automaattisesti (suositeltu: turvallisin)
+    .accesskey = A
+check-updates-label =
+    .label = Hae päivityksiä, mutta minä päätän asennetaanko ne
+    .accesskey = H
+update-history-button =
+    .label = Näytä päivityshistoria
+    .accesskey = N
+use-service =
+    .label = Asenna päivitykset taustapalvelun avulla
+    .accesskey = u
 networking-legend = Yhteysasetukset
+proxy-config-description = Määritä yhteyden välityspalvelimet
+network-settings-button =
+    .label = Yhteysasetukset…
+    .accesskey = Y
 offline-legend = Yhteydetön tila
 offline-settings = Määritä verkkoyhteydettömän tilan asetukset
 offline-settings-button =
     .label = Yhteydetön tila…
     .accesskey = h
+offline-compact-folder =
+    .label = Tiivistä kansiot kun se säästää yhteensä yli
+    .accesskey = T
+compact-folder-size =
+    .value = Mt
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Käytä enintään
+    .accesskey = K
+use-cache-after = Mt:a levytilaa väliaikaistiedostoille
 
 ##
 
+clear-cache-button =
+    .label = Tyhjennä heti
+    .accesskey = T
+fonts-legend = Kirjasinlajit ja värit
+default-font-label =
+    .value = Oletuskirjasin:
+    .accesskey = O
+default-size-label =
+    .value = Koko:
+    .accesskey = K
+font-options-button =
+    .label = Lisäasetukset…
+    .accesskey = L
+color-options-button =
+    .label = Värit…
+    .accesskey = V
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
     .label = Näytä hymiöt kuvina
     .accesskey = N
+quoted-text-color =
+    .label = Väri:
+    .accesskey = V
+save-to-label =
+    .label = Tallenna kansioon
+    .accesskey = T
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Valitse…
+           *[other] Selaa…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] S
+        }
+always-ask-label =
+    .label = Kysy aina tiedoston tallennuskansio
+    .accesskey = K
+auto-mark-as-read =
+    .label = Merkitse viestit automaattisesti luetuksi
+    .accesskey = M
+mark-read-no-delay =
+    .label = Kun ne avataan
+    .accesskey = K
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Kun ne ovat olleet avattuna
+    .accesskey = u
+seconds-label = sekuntia
 
 ##
 
+open-msg-label =
+    .value = Avaa viestit:
+open-msg-tab =
+    .label = Uuteen välilehteen
+    .accesskey = v
+close-move-delete =
+    .label = Sulje viesti-ikkuna kun viesti siirretään tai poistetaan
+    .accesskey = v
+condensed-addresses-label =
+    .label = Näytä osoitekirjassa olevien nimet ilman sähköpostiosoitetta
+    .accesskey = N
 
 ## Compose Tab
 
@@ -134,9 +262,68 @@ bg-color-label =
 restore-html-label =
     .label = Palauta oletukset
     .accesskey = P
+directories-none-label =
+    .none = Ei mitään
+attachment-label =
+    .label = Tarkista puuttuuko viestistä liitetiedosto
+    .accesskey = p
+attachment-options-label =
+    .label = Avainsanat…
+    .accesskey = A
+enable-cloud-share =
+    .label = Ehdota palvelua yli
+cloud-share-size =
+    .value = Mt:n tiedostoille
+remove-cloud-account =
+    .label = Poista
+    .accesskey = P
+cloud-account-description = Lisää uusi tiedostoja linkittävä tallennuspalvelu
 
 ## Privacy Tab
 
+mail-content = Sähköpostin sisältö
+exceptions-button =
+    .label = Poikkeukset…
+    .accesskey = k
+web-content = Verkkosisältö
+history-label =
+    .label = Muista avaamani sivustot ja linkit
+    .accesskey = M
+cookies-label =
+    .label = Sivustot saavat asettaa evästeitä
+    .accesskey = v
+third-party-label =
+    .value = Salli kolmannen osapuolen evästeet:
+    .accesskey = m
+third-party-always =
+    .label = Aina
+third-party-never =
+    .label = Ei milloinkaan
+third-party-visited =
+    .label = Vierailluilta sivustoilta
+keep-label =
+    .value = Säilytä evästeet:
+    .accesskey = t
+keep-expire =
+    .label = kunnes ne vanhenevat
+keep-close =
+    .label = kunnes { -brand-short-name } suljetaan
+keep-ask =
+    .label = kysy aina erikseen
+cookies-button =
+    .label = Näytä evästeet…
+    .accesskey = N
+passwords-description = Voit tallentaa { -brand-short-name }iin kaikkien sähköpostitiliesi salasanat.
+passwords-button =
+    .label = Tallennetut salasanat…
+    .accesskey = T
+master-password-description = Pääsalasanalla suojaat kaikkien sähköpostitiliesi salasanat, mutta se kysytään kerran joka istunnossa.
+master-password-label =
+    .label = Ota pääsalasana käyttöön
+    .accesskey = p
+master-password-button =
+    .label = Muuta pääsalasanaa…
+    .accesskey = M
 junk-description = Muokkaa alta roskapostisuodattimen oletusasetuksia. Tilikohtaisia asetuksia voi muokata Tilien asetuksista.
 junk-label =
     .label = Kun merkitsen viestin roskapostiksi:
@@ -150,6 +337,9 @@ junk-delete-label =
 junk-read-label =
     .label = Merkitse roskapostiviestit luetuiksi
     .accesskey = M
+junk-log-label =
+    .label = Pidä roskapostilokia
+    .accesskey = P
 junk-log-button =
     .label = Näytä loki
     .accesskey = N
@@ -164,9 +354,26 @@ antivirus-description = { -brand-short-name }issä virustorjuntaohjelman voi ant
 antivirus-label =
     .label = Virustorjuntaohjelmat voivat asettaa yksittäiset viestit karanteeniin
     .accesskey = V
+certificate-description = Palvelimen pyytäessä henkilökohtaista varmennettani:
+certificate-auto =
+    .label = Valitse sellainen automaattisesti
+    .accesskey = V
+certificate-ask =
+    .label = Kysy joka kerta
+    .accesskey = K
+ocsp-label =
+    .label = Vahvista varmenteiden ajantasainen voimassaolo OCSP-vastaajapalvelimilta
+    .accesskey = C
 
 ## Chat Tab
 
+startup-label =
+    .value = Kun { -brand-short-name } käynnistyy:
+    .accesskey = T
+offline-label =
+    .label = Älä yhdistä pikaviestitilejäni
+auto-connect-label =
+    .label = Yhdistä automaattisesti pikaviestitilit
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -174,9 +381,44 @@ antivirus-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Näytä tuttaville kun tietokoneellani ei tapahdu mitään
+    .accesskey = A
+idle-time-label = minuuttiin
 
 ##
 
+away-message-label =
+    .label = ja aseta minut poissaolevaksi tämän viestin kera:
+    .accesskey = A
+send-typing-label =
+    .label = Lähetä tieto kirjoittamisesta keskustelujen aikana
+    .accesskey = L
+notification-label = Kun sinulle osoitettu viesti saapuu:
+show-notification-label =
+    .label = Näytä ilmoituksessa:
+    .accesskey = i
+notification-all =
+    .label = lähettäjän nimi ja viestin esikatselu
+notification-name =
+    .label = vain lähettäjän nimi
+notification-empty =
+    .label = ilman lisätietoja
+chat-play-sound-label =
+    .label = Toista ääni
+    .accesskey = a
+chat-play-button =
+    .label = Toista
+    .accesskey = T
+chat-system-sound-label =
+    .label = Järjestelmän oletusääni uudelle sähköpostille
+    .accesskey = J
+chat-custom-sound-label =
+    .label = Käytä seuraavaa äänitiedostoa
+    .accesskey = K
+chat-browse-sound-button =
+    .label = Selaa…
+    .accesskey = S
 
 ## Preferences UI Search Results
 
