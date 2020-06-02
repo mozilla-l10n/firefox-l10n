@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "სახელი:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "ხატულას ფერი:">
+<!ENTITY folderProps.color.accesskey             "ხ">
+<!ENTITY folderProps.reset.tooltip               "ნაგულისხმევი ფერის აღდგენა">
 <!ENTITY folderProps.location.label              "მისამართი:">
 <!ENTITY folderProps.location.accesskey          "L">
 
