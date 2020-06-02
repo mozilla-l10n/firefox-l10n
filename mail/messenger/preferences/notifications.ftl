@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+notifications-dialog-window =
+    .title = Naujų laiškų gavimo įspėjimai
+customize-alert-description = Parinkite, kuriuos laukus rodyti įspėjimuose apie laiškus:
 preview-text-checkbox =
     .label = Laiško peržiūros tekstas
     .accesskey = L
@@ -18,3 +21,8 @@ sender-checkbox =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = Įspėjimus apie naujus laiškus rodyti
+    .accesskey = r
+open-time-label-after =
+    .value = sek.
