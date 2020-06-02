@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Privaatsuse kaitse
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vaata oma privaatsuse raportit
+
 appmenuitem-customize-mode =
     .label = Kohanda...
 

@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Otsi sellelt lehelt">
 <!ENTITY spellToolbarCmd.label "Õigekiri">
 <!ENTITY spellToolbarCmd.tooltip "Kontrolli valitud lõigu või lehe õigekirja">
+
 <!ENTITY imageToolbarCmd.label "Pilt">
 <!ENTITY imageToolbarCmd.tooltip "Redigeeri valitud pildi omadusi või lisa uus pilt">
 <!ENTITY hruleToolbarCmd.label "H.joon">
