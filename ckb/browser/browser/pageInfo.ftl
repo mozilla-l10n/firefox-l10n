@@ -19,6 +19,7 @@ general-meta-name =
     .label = ناو
 general-meta-content =
     .label = ناوەڕۆک
+
 security-view-privacy =
     .value = تایبەتیی و مێژووی کار
 
@@ -35,3 +36,4 @@ security-view-privacy =
 media-block-image =
     .label = وێنە بلۆک بکە لە { $website }
     .accesskey = B
+

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (گەڕانی تایبەتیی)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (گەڕانی تایبەتیی)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (گەڕانی تایبەتیی)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (گەڕانی تایبەتیی)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -114,10 +116,12 @@ urlbar-microphone-blocked =
     .tooltiptext = تۆ مایکرۆفۆنەکەت بۆ ئەم ماڵپەڕە بلۆک کرد.
 urlbar-screen-blocked =
     .tooltiptext = تۆ بڵاوکردنەوەی کامێرات بۆ ئەم ماڵپەڕە بلۆک کرد.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ئەم دڵخوازە دەستکاریبکە ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -148,12 +152,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = لەم کاتەدا، بگەڕێ لەگەڵ:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = گۆڕینی ڕێکخستنەکانی گەڕان
 search-one-offs-change-settings-compact-button =
     .tooltiptext = گۆڕینی ڕێکخستنەکانی گەڕان
+
 search-one-offs-context-open-new-tab =
     .label = گەڕان لە بازدەری نوێ
     .accesskey = گ
@@ -169,8 +175,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = دەستکاریکەر پیشان بدە کاتێک پاشەکەوتی دەکەیت
     .accesskey = س
+
 bookmark-panel-done-button =
     .label = تەواو
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -233,9 +241,11 @@ popup-select-microphone =
     .value = مایکرۆفۆن بۆ بڵاوکردنەوە
     .accesskey = م
 popup-all-windows-shared = هەموو پەنجەرە نیشاندراوەکانت بڵاودەکرێتەوە.
+
 popup-screen-sharing-not-now =
     .label = ئێستا نا
     .accesskey = ئ
+
 popup-screen-sharing-never =
     .label = هەرگیز ڕێگە مەدە
     .accesskey = م
@@ -254,9 +264,11 @@ urlbar-placeholder =
     .placeholder = بگەڕێ یان ناونیشان بنووسە
 urlbar-switch-to-tab =
     .value = بچۆ بۆ بازدەری:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = پێوەکراوەکان:
+
 urlbar-go-button =
     .tooltiptext = بڕۆ بۆ ناونیشان لە توڵی شوێن
 urlbar-page-action-button =

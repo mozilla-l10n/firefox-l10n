@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = زانیاری گەڕان بۆ کیشەکان
+
 crashes-title = ڕاپۆرتی داخستنی لەناکاو
 crashes-id = ناسنامەی ڕاپۆرت
 crashes-send-date = نێردرا

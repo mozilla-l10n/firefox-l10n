@@ -13,6 +13,8 @@
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>بوار:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = نوێکردنەوە
+
 waiting = چاوەڕێدەکرێت...

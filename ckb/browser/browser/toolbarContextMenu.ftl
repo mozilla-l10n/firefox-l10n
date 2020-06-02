@@ -20,18 +20,21 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = بازدەری داخراو بهێنەوە
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = بەڕێوەبردنی پێوەکراو
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = سڕینەوەی پێوەکراو
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = پێوەکراو ڕاپۆرت بکە
     .accesskey = o
+
 toolbar-context-menu-auto-hide-downloads-button =
     .label = شاردنەوەی خۆکار لە توڵامراز
     .accesskey = A

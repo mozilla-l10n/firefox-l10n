@@ -9,6 +9,7 @@ graph-week-summary =
         [one] { -brand-short-name } لە هەفتەی پێشوودا { $count } چاودێریکەری بلۆک کردووە.
        *[other] { -brand-short-name } لە هەفتەی پێشوودا { $count } چاودێریکەری بلۆک کردووە.
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -18,8 +19,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> چاودێریکەر بلۆک کراوە لەوکاتەوە { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> چاودێریکەر بلۆک کراوە لەوکاتەوە { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = ئەو چاودێریکەرانەی کە { -brand-short-name } بلۆکی کردوون ئەم هەفتەیە
+
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -31,30 +34,40 @@ protection-report-header-details-custom = ڕێکخستنی ئاستی پارێز
     .title = بڕۆ بۆ ڕێکخستنەکانی تایبەتیی
 protection-report-page-title = پارێزگاری تایبەتێتی
 protection-report-content-title = پارێزگاری تایبەتێتی
+
 etp-card-title = باشترکردنی پارێزگاری لە چاودێریکردن
+
 protection-report-webpage-title = بۆردی پارێزگاری
 protection-report-page-content-title = بۆردی پارێزگاری
 protection-report-page-summary = { -brand-short-name } دەتوانێت بتپارێزێت لە پشت پەردەوە کاتێک تۆ گەڕان ئەنجام دەدەیت. ئەمە کورتەیەکە لەم پارێزگارییانە، ئامراز لە خۆ دەگرێت بۆ ڕێکخستنی پاراستنت لەسەر هێڵ.
+
 protection-report-settings-link = بەڕێوەبردنی ڕێکخستنەکانی تایبەتیی و پاراستن
+
 etp-card-title-always = باشترکردنی پارێزگاری لە چاودێریکردن: هەموو کات کارا
 etp-card-title-custom-not-blocking = باشترکردنی پارێزگاری لە چاودێریکردن: کوژاوە
 etp-card-content-description = { -brand-short-name } خۆکارانە کۆمپانیاکان دوەستێنێت لەوەی چاودێریت بکەن لە ناو وێبدا بە شێوەیەکی پارێزراو.
 protection-report-etp-card-content-custom-not-blocking = هەموو پارێزگارییەکان کوژاونەتەوە ئێستا. دیاریبکە کام چاودێریکەر بلۆک بکرێت ئەویش بە کردنەوەی ڕێکخستنەکانی پاراستنی { -brand-short-name }
 protection-report-manage-protections = بەڕێوەبردنی ڕێکخستنەکان
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = ئەمڕۆ
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = ئەم کێشراوە ئەوە پیشان دەدات کە چەند چاودێریکەر بلۆک کراوە ئەم هەفتەیە.
+
 social-tab-title = چاودێریکەرانی تۆڕی کۆمەڵایەتی
+
 tracker-tab-title = چاودێریکردنی ناوەڕۆک
+
 fingerprinter-tab-title = پەنجە مۆرەکان
-protections-close-button =
-    .aria-label = داخستن
+
 protections-close-button2 =
     .aria-label = داخستن
     .title = داخستن
+  
 mobile-app-links = { -brand-product-name } وێبگەڕ بۆ <a data-l10n-name="android-mobile-inline-link">ئەندرۆید </a> و <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+
 lockwise-title = جارێکی تر وشەی تێپەڕبوون لەبیر مەکە
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = بەڕێوبردنی وشەی تێپەڕبوونەکان
@@ -69,6 +82,7 @@ protection-report-manage-passwords-button = بەڕێوەبردنی وشەی تێ
 lockwise-mobile-app-title = وشەی تێپەڕەکەت لەگەڵ خۆت بەرە
 lockwise-no-logins-card-content = وشەی تێپەڕبوون بەکاربێنە کە هەڵگیراوە لە { -brand-short-name } بۆ هەر ئامێرێک.
 lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">ئەندرۆید</a> و <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -79,9 +93,12 @@ lockwise-scanned-text-no-breached-logins =
        *[other] وشەی تێپەڕبوونەکانت هەڵگیران بە پارێزراوی.
     }
 lockwise-how-it-works-link = چۆن کار دەکات
+
 turn-on-sync = کارپێکردنی { -sync-brand-short-name }…
     .title = بڕۆ بۆ هەڵبژاردنەکانی هاوکاتگەری
+
 manage-connected-devices = بەڕێوەبردنی ئامێرەکان...
+
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -89,17 +106,20 @@ lockwise-connected-device-status =
         [one] بەستراوەتەوە بە { $count } ئامێر
        *[other] بەستراوەتەوە بە { $count } ئامێر
     }
+
 monitor-title = بگەڕێ بۆ دزەپێکردنی زانیاریی
 monitor-link = چۆن کار دەکات
 monitor-header-content-signed-in = { -monitor-brand-name } ئاگادارت دەکاتەوە کاتێک زانیارییەکانت بڵاو دەکرێتەوە و یان دزەی پێدەکرێت لەو ماڵپەڕە جیهانییەکان.
 monitor-sign-up = خۆتۆمارکردن بۆ ئاگاداربوون لە دزەکردووەکان
 auto-scan = خۆکارانە چێکی کردووە ئەمڕۆ
+
 monitor-emails-tooltip =
     .title = پۆستی ئەلکترۆنی چاودێریکراو پیشان بدە لە ناو { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = زانیاری دزەپێکراو پیشان بدە لە ناو { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = وشەی تێپەڕبوونی دزەپێکراو پیشان بدە لە ناو { -monitor-brand-short-name }
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

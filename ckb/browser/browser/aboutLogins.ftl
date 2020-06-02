@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = چوونەژوورەوە و وشەی تێپەڕەکان
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -12,9 +17,12 @@ login-app-promo-android =
     .alt = بەدەستهێنانی لە کۆگای گووگڵ
 login-app-promo-apple =
     .alt = داگرتن لە کۆگای ئەپڵ
+
 login-filter =
     .placeholder = گەڕان بۆ چوونەژوورەوەکان
+
 create-login-button = چوونەژوورەوە دروست بکە
+
 fxaccounts-sign-in-text = وشەی تێپەڕەکەت لە ئامێرەکانی ترەوە بەدەستبهێنە
 fxaccounts-sign-in-button = بچۆ ژوورەوە بۆ { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -108,9 +116,11 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو لەبەربگرەوە
@@ -133,9 +143,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = پاشگەزبوونەوە
 confirmation-dialog-dismiss-button =
     .title = پاشگەزبوونەوە
+
 about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەسڕیتەوە؟
 confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
 about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
+
 confirm-discard-changes-dialog-title = هەڵوەشاندنەوەی گۆڕانکارییە پاشەکەوت نەکراوەکان؟
 confirm-discard-changes-dialog-message = هەموو گۆڕانکارییە پاشەکەوتکراوەکان دەفەوتێت.
 confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە
@@ -161,3 +173,7 @@ about-logins-vulnerable-alert-learn-more-link = زیاتر بزانە
 
 # This is a generic error message.
 about-logins-error-message-default = هەڵەیەک ڕوویدا لە کاتی پاشەکەوتکردنی ئەم وشەی تێپەڕبوونە
+
+
+## Login Export Dialog
+
