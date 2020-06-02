@@ -17,3 +17,4 @@ count-unread-messages-radio =
 count-new-messages-radio =
     .label = Število novih sporočil
     .accesskey = Š
+notification-settings-info = Značko lahko onemogočite v podoknu obvestil v sistemskih nastavitvah.

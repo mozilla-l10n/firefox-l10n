@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Možnosti pošiljanja
 send-mail-title = Oblika besedila
+auto-downgrade-label =
+    .label = Po možnosti pošlji sporočila kot golo besedilo
+    .accesskey = ž
 default-html-format-label = Ko pošiljam sporočila v obliki HTML, eden ali več prejemnikov pa ne more prejemati HTML:
 html-format-ask =
     .label = me vprašaj, kaj storiti

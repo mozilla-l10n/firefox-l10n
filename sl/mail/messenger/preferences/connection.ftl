@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = P
     .tooltiptext = Vnesite želeni URL za razreševanje DNS preko HTTPS
 connection-dns-over-https-custom-label = Po meri
+connection-dialog-window =
+    .title = Nastavitve povezave
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Nastavitve posrednika za dostop do interneta
 proxy-type-no =
     .label = Brez posrednika
@@ -24,6 +31,9 @@ proxy-type-wpad =
 proxy-type-system =
     .label = Uporabi sistemske nastavitve za posrednika
     .accesskey = U
+proxy-type-manual =
+    .label = Ročna nastavitev posrednika:
+    .accesskey = č
 proxy-http-label =
     .value = Posrednik HTTP:
     .accesskey = H
@@ -48,4 +58,14 @@ proxy-socks5-label =
 proxy-reload-label =
     .label = Ponovno naloži
     .accesskey = P
+no-proxy-label =
+    .value = Brez posrednika za:
+    .accesskey = e
 no-proxy-example = Primer: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = Brez overjanja, če je geslo shranjeno
+    .accesskey = z
+    .tooltiptext = Ta možnost izvede tiho overjanje s posredniki, če imate shranjena poverila zanje. Če overjanje ne uspe, boste morali vnesti poverila.
+proxy-remote-dns =
+    .label = Posredniški DNS, kadar se uporablja SOCKS v5
+    .accesskey = N
