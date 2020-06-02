@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Traži tekst u stranici">
 <!ENTITY spellToolbarCmd.label "Pravopis">
 <!ENTITY spellToolbarCmd.tooltip "Provjeri pravopis odabranog teksta ili cijele stranice">
+
 <!ENTITY imageToolbarCmd.label "Slika">
 <!ENTITY imageToolbarCmd.tooltip "Umetni novu sliku ili uredi postavke odabrane slike">
 <!ENTITY hruleToolbarCmd.label "Vod.Linija">

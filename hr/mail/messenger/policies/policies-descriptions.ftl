@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Ukoliko je postavljeno na netočno, isključuje ha
 
 policy-InstallAddonsPermission = Dopusti određenim stranicama za instaliraju dodatke.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Omogućite određenim stranicama poveznice na lokalne datoteke.
 
 policy-NetworkPrediction = Omogućite ili onemogućite predviđanje mreže (DNS prefetching).
