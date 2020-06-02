@@ -5,7 +5,13 @@
 sendoptions-dialog-window =
     .title = Bidalketa-aukerak
 send-mail-title = Testuaren formatua
+auto-downgrade-label =
+    .label = Bidali mezua testu huts gisa posible basa
+    .accesskey = t
 default-html-format-label = Mezuak HTML formatuan bidaltzean eta hartzaileetako bat edo gehiago HTML mezuak jasotzeko zerrendan ez daudenean:
+html-format-ask =
+    .label = Galdetu niri zer egin
+    .accesskey = a
 html-format-convert =
     .label = Bihurtu mezua testu arruntera
     .accesskey = z
