@@ -10,6 +10,12 @@ fonts-label-default =
     .label = Zadani ({ $name })
 fonts-label-default-unnamed =
     .label = Zadani
+fonts-language-legend =
+    .value = Fontovi za:
+    .accesskey = F
+fonts-proportional-label =
+    .value = Proporcionalan:
+    .accesskey = P
 
 ## Languages
 
@@ -59,12 +65,27 @@ font-language-group-malayalam =
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+font-min-size-label =
+    .value = Minimalna veličina fonta:
+    .accesskey = a
+min-size-none =
+    .label = Ništa
 
 ## Fonts in message
 
+font-control-legend = Upravljanje fontovima
 use-document-fonts-checkbox =
     .label = Dopusti porukama korištenje drugih fontova
     .accesskey = o
+use-fixed-width-plain-checkbox =
+    .label = Koristi font fiksne širine za poruke s običnim tekstom
+    .accesskey = K
 
 ## Language settings
 
+font-outgoing-email-label =
+    .value = Odlazna pošta:
+    .accesskey = d
+font-incoming-email-label =
+    .value = Dolazna pošta:
+    .accesskey = a
