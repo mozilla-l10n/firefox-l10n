@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] אפשרויות
+           *[other] העדפות
+        }
 pane-compose-title = חיבור הודעה
 category-compose =
     .tooltiptext = חיבור הודעה
@@ -21,6 +27,9 @@ start-page-label =
     .accesskey = ג
 location-label =
     .value = מיקום:
+    .accesskey = מ
+restore-default-label =
+    .label = שחזור ברירת מחדל
     .accesskey = מ
 new-message-arrival = כאשר מופיעות הודעות חדשות:
 mail-play-button =
@@ -73,6 +82,7 @@ offline-settings = נהל הגדרות לא־מקוון
 offline-settings-button =
     .label = לא־מקוון...
     .accesskey = מ
+diskspace-legend = שטח דיסק
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -134,6 +144,17 @@ action-column-label =
 save-to-label =
     .label = שמור קבצים אל
     .accesskey = ש
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] בחירה…
+           *[other] עיון…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ב
+           *[other] ע
+        }
 always-ask-label =
     .label = שאל תמיד היכן לשמור קבצים
     .accesskey = ת
@@ -194,6 +215,9 @@ font-color-label =
 bg-color-label =
     .value = צבע רקע:
     .accesskey = ר
+restore-html-label =
+    .label = שחזור ברירות מחדל
+    .accesskey = ב
 format-description = הגדר התנהגות סגנון טקסט
 send-options-label =
     .label = אפשרויות שליחה...
@@ -230,6 +254,9 @@ master-password-description = כאשר נקבעה, הססמה הראשית מג�
 master-password-label =
     .label = השתמש בססמה ראשית
     .accesskey = ר
+master-password-button =
+    .label = שינוי ססמה ראשית…
+    .accesskey = ש
 junk-description = קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל יחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.
 junk-label =
     .label = כאשר אני מסמן הודעות כזבל:
