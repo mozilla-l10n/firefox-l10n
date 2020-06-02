@@ -75,6 +75,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+mbox-store-label =
+    .label = Ficheiro por pasta (mbox)
+maildir-store-label =
+    .label = Ficheiro por mensagem (maildir)
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -83,6 +87,9 @@ search-engine-name =
         [windows] Pesquisa do Windows
        *[other] { "" }
     }
+update-history-button =
+    .label = Mostrar histórico de atualizações
+    .accesskey = h
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -108,9 +115,55 @@ search-engine-name =
 
 ##
 
+enable-cloud-share =
+    .label = Oferecer partilha de ficheiros maiores que
 
 ## Privacy Tab
 
+mail-content = Conteúdo remoto
+remote-content-label =
+    .label = Permitir conteúdo remoto nas mensagens
+    .accesskey = P
+exceptions-button =
+    .label = Exceções
+    .accesskey = E
+remote-content-info =
+    .value = Saber mais sobre privacidade e conteúdo remoto
+web-content = Conteúdo web
+third-party-label =
+    .value = Aceitar cookies de terceiros:
+    .accesskey = c
+third-party-always =
+    .label = Sempre
+third-party-never =
+    .label = Nunca
+keep-label =
+    .value = Manter até:
+    .accesskey = M
+keep-expire =
+    .label = que expirem
+keep-close =
+    .label = fechar o { -brand-short-name }
+keep-ask =
+    .label = perguntar sempre
+cookies-button =
+    .label = Mostrar cookies
+    .accesskey = s
+junk-label =
+    .label = Ao marcar uma mensagem como lixo eletrónico:
+    .accesskey = A
+junk-move-label =
+    .label = Mover para a pasta "Lixo eletrónico"
+    .accesskey = o
+junk-read-label =
+    .label = Marcar mensagens consideradas lixo eletrónico como lidas
+    .accesskey = m
+junk-log-label =
+    .label = Ativar registo inteligente do filtro do lixo eletrónico
+    .accesskey = x
+junk-log-button =
+    .label = Mostrar registo
+    .accesskey = s
 
 ## Chat Tab
 
@@ -124,6 +177,22 @@ search-engine-name =
 
 ##
 
+notification-label = Qando chegar uma mensagem para si:
+show-notification-label =
+    .label = Mostrar notificação:
+    .accesskey = c
+notification-all =
+    .label = com o nome do remetente e pré-visualização da mensagem
+notification-name =
+    .label = apenas com o nome do remetente
+notification-empty =
+    .label = sem informação nenhuma
+chat-system-sound-label =
+    .label = Som pré-definido para novo correio
+    .accesskey = d
+chat-browse-sound-button =
+    .label = Navegar…
+    .accesskey = N
 
 ## Preferences UI Search Results
 
