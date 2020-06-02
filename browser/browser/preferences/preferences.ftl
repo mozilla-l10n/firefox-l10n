@@ -375,8 +375,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ({ -brand-short-name } में) का प्रयोग करें
-applications-preview-inapp =
-    .label = { -brand-short-name } में पूर्वावलोकन
 
 applications-open-inapp =
     .label = { -brand-short-name } में खोलें
@@ -393,9 +391,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -599,11 +594,16 @@ home-prefs-topsites-header =
     .label = सर्वोच्च साइटें
 home-prefs-topsites-description = साइटों आप सबसे अधिक यात्रा
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा अनुशंसित
 home-prefs-recommended-by-description = वेब से शानदार सामग्री, आपके लिए व्यक्तिगत बनाया गया
+##
+
 home-prefs-recommended-by-learn-more = यह किस प्रकार काम करता है
 home-prefs-recommended-by-option-sponsored-stories =
     .label = प्रायोजित कहानियां
@@ -905,9 +905,9 @@ privacy-header = ब्राउज़र गोपनीयता
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = लॉगिन और पासवर्ड
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = लॉगिन और पासवर्ड
@@ -939,9 +939,6 @@ forms-master-pw-fips-title = आप अभी FIPS मोड में हैं
 forms-master-pw-fips-desc = कूटशब्द बदलाव विफल
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = मास्टर पासवर्ड बनाने के लिए अपनी पहचान सत्यापित करें।
 
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "

@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = गोपनीयता सुरक्षाएँ
 appmenuitem-protection-report-tooltip =
     .tooltiptext = अपनी गोपनीयता रिपोर्ट पर जाएं
+
 appmenuitem-customize-mode =
     .label = मनपसंद बनाएँ…
 
