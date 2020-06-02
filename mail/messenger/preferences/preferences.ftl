@@ -28,6 +28,7 @@ animated-alert-label =
 config-editor-button =
     .label = विन्यास संपादक...
     .accesskey = g
+diskspace-legend = डिस्क स्थान
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -40,6 +41,10 @@ font-options-button =
     .label = फंट...
     .accesskey = F
 display-width-legend = सादा पाठ संदेश
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = आरेख के रूप में हाव-भाव दिखायें
+    .accesskey = D
 display-text-label = जब उद्धृत सादा पाठ संदेश दिखाया जा रहा हो:
 style-label =
     .value = शैली:
