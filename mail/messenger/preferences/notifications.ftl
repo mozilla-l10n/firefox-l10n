@@ -18,3 +18,8 @@ sender-checkbox =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = Yeni e-posta uyarısını
+    .accesskey = Y
+open-time-label-after =
+    .value = saniye boyunca göster

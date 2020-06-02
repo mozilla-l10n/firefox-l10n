@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+offline-dialog-window =
+    .title = Çevrimdışı Ayarları
+autodetect-online-label =
+    .label = Bağlı olup olunmadığını kendiliğinden izle
+    .accesskey = z
+startup-label = Başlangıçta bu şekilde ayarla:
+status-radio-always-offline =
+    .label = Çevrimdışı
+    .accesskey = d
 going-online-auto =
     .label = Evet
     .accesskey = E
