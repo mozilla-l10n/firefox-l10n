@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Zavřít
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Vytváření
 category-compose =
     .tooltiptext = Vytváření
+pane-privacy-title = Soukromí a zabezpečení
+category-privacy =
+    .tooltiptext = Soukromí a zabezpečení
 pane-chat-title = Chat
 category-chat =
     .tooltiptext = Chat
@@ -81,6 +86,7 @@ update-in-progress-ok-button = &Nepokračovat
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
+addons-button = Rozšíření a vzhledy
 
 ## OS Authentication dialog
 
@@ -102,6 +108,12 @@ restore-default-label =
     .label = Obnovit výchozí
     .accesskey = O
 default-search-engine = Výchozí vyhledávač
+add-search-engine =
+    .label = Přidat ze souboru
+    .accesskey = s
+remove-search-engine =
+    .label = Odebrat
+    .accesskey = r
 new-message-arrival = Při přijetí nové zprávy:
 mail-play-sound-label =
     .label =
@@ -138,6 +150,7 @@ enable-gloda-search-label =
     .label = Povolit globální hledání a indexaci
     .accesskey = g
 datetime-formatting-legend = Formátování data a času
+language-selector-legend = Jazyk
 allow-hw-accel =
     .label = Použít hardwarovou akceleraci, je-li dostupná
     .accesskey = h
@@ -176,6 +189,7 @@ update-app-legend = Aktualizace aplikace { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Verze { $version }
+allow-description = Povolit aplikaci { -brand-short-name }
 automatic-updates-label =
     .label = Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)
     .accesskey = A
@@ -188,6 +202,7 @@ update-history-button =
 use-service =
     .label = K instalaci aktualizací použít službu na pozadí
     .accesskey = s
+cross-user-udpate-warning = Toto nastavení se uplatní pro všechny účty systému Windows a profily aplikace { -brand-short-name } používající tuto instalaci aplikace { -brand-short-name }.
 networking-legend = Připojení
 proxy-config-description = Konfigurovat připojení aplikace { -brand-short-name } k Internetu
 network-settings-button =
@@ -326,6 +341,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Při přesunutí nebo smazání zprávy zavřít panel/okno
     .accesskey = s
+display-name-label =
+    .value = Zobrazované jméno:
 condensed-addresses-label =
     .label = U lidí z mých kontaktů zobrazovat pouze jméno
     .accesskey = U
@@ -369,6 +386,12 @@ download-dictionaries-link = Stáhnout další slovníky
 font-label =
     .value = Písmo:
     .accesskey = m
+font-size-label =
+    .value = Velikost:
+    .accesskey = s
+default-colors-label =
+    .label = Použít výchozí barvy čtečky
+    .accesskey = d
 font-color-label =
     .value = Text:
     .accesskey = T
@@ -419,6 +442,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Odebrat
     .accesskey = d
+find-cloud-providers =
+    .value = Najít další poskytovatele…
 cloud-account-description = Přidat nové webové úložiště pro odesílání příloh
 
 ## Privacy Tab
@@ -457,6 +482,11 @@ keep-ask =
 cookies-button =
     .label = Správce cookies…
     .accesskey = S
+do-not-track-label =
+    .label = Říci webovým stránkám pomocí signálu Do Not Track, že nechcete být sledováni
+    .accesskey = n
+learn-button =
+    .label = Zjistit více
 passwords-description = Aplikace { -brand-short-name } si může pamatovat vaše přihlašovací údaje pro jednotlivé účty, takže je nebudete muset znovu zadávat.
 passwords-button =
     .label = Zobrazit hesla…
@@ -548,6 +578,17 @@ notification-name =
     .label = pouze se jménem odesílatele
 notification-empty =
     .label = bez dalších informací
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animovat ikonku v doku
+           *[other] Blikat v hlavním panelu
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Přehrát zvuk
     .accesskey = P
