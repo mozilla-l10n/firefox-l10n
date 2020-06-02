@@ -30,16 +30,16 @@ toolbar-context-menu-undo-close-tabs =
     .accesskey = U
 toolbar-context-menu-manage-extension =
     .label = Hantera tillägg
-    .accesskey = E
+    .accesskey = H
 toolbar-context-menu-remove-extension =
     .label = Ta bort tillägg
-    .accesskey = v
+    .accesskey = T
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Rapportera tillägg
-    .accesskey = o
+    .accesskey = R
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -51,7 +51,7 @@ toolbar-context-menu-auto-hide-downloads-button =
     .accesskey = a
 toolbar-context-menu-remove-from-toolbar =
     .label = Ta bort från verktygsfält
-    .accesskey = R
+    .accesskey = T
 toolbar-context-menu-view-customize-toolbar =
     .label = Anpassa…
-    .accesskey = C
+    .accesskey = A

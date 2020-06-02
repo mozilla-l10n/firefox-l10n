@@ -195,7 +195,7 @@ monitor-breaches-resolved-description = Om din e-postadress dyker upp i några n
 monitor-partial-breaches-title =
     { $numBreaches ->
         [one] { $numBreachesResolved } av { $numBreaches } intrång markerade som lösta
-       *[other] { $numBreachesResolved } av { $numBreaches } av flera intrång markerade som lösta
+       *[other] { $numBreachesResolved } av { $numBreaches } intrång markerade som lösta
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.

@@ -58,7 +58,7 @@ undo-close-tab =
     .accesskey = g
 tab-context-close-multiple-tabs =
     .label = Stäng flera flikar
-    .accesskey = M
+    .accesskey = f
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -66,7 +66,7 @@ tab-context-undo-close-tabs =
             [one] Ångra Stäng flik
            *[other] Ångra Stäng flikar
         }
-    .accesskey = U
+    .accesskey = n
 close-tab =
     .label = Stäng flik
     .accesskey = S
