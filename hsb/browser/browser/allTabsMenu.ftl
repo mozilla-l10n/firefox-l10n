@@ -4,6 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Začinjeny rajtark wobnowić
+
 all-tabs-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -13,13 +14,17 @@ all-tabs-menu-undo-close-tabs =
             [few] Začinjene rajtarki wočinić
            *[other] Začinjene rajtarki wočinić
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Rajtarki přepytać
+
 all-tabs-menu-new-user-context =
     .label = Nowy kontenerowy rajtark
+
 all-tabs-menu-hidden-tabs =
     .label = Schowane rajtarki
+
 all-tabs-menu-manage-user-context =
     .label = Kontejnery rjadować
     .accesskey = K

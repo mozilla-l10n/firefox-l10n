@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Tekst na stronje namakać">
 <!ENTITY spellToolbarCmd.label "Prawopis kontrolować">
 <!ENTITY spellToolbarCmd.tooltip "Prawopis wuběra abo cyłeje strony kontrolować">
+
 <!ENTITY imageToolbarCmd.label "Wobraz">
 <!ENTITY imageToolbarCmd.tooltip "Nowy wobraz zasadźić abo kajkosće wubraneho wobraza wobdźěłać">
 <!ENTITY hruleToolbarCmd.label "Horicontalna linija">

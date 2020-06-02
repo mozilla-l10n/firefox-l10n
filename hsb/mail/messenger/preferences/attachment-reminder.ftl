@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Hesła za přiwěškowe napominje
+
 attachment-reminder-label = { -brand-short-name } budźe was wo falowacych přiwěškach warnować, jeli chceće e-mejlku pósłać, kotraž jedne z tutych hesłow wobsahuje.
+
 keyword-new-button =
     .label = Nowy…
     .accesskey = N
+
 keyword-edit-button =
     .label = Wobdźěłać…
     .accesskey = b
+
 keyword-remove-button =
     .label = Zhašeć
     .accesskey = h
+
 new-keyword-title = Nowe klučowe słowo
 new-keyword-label = Klučowe słowo:
+
 edit-keyword-title = Klučowe hesło wobdźěłać
 edit-keyword-label = Klučowe hesło:
