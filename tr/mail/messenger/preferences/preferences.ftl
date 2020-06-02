@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Kapat
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Düzenleme
 category-compose =
     .tooltiptext = Düzenleme
+pane-privacy-title = Gizlilik ve Güvenlik
+category-privacy =
+    .tooltiptext = Gizlilik ve Güvenlik
 pane-chat-title = Sohbet
 category-chat =
     .tooltiptext = Sohbet
@@ -70,6 +75,7 @@ update-in-progress-ok-button = &Vazgeç
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
+addons-button = Eklentiler ve temalar
 
 ## OS Authentication dialog
 
@@ -92,10 +98,22 @@ focus-search-shortcut =
 focus-search-shortcut-alt =
     .key = k
 general-legend = { -brand-short-name } Başlangıç Sayfası
+start-page-label =
+    .label = { -brand-short-name } açıldığında ileti alanında Başlangıç Sayfasını göster
+    .accesskey = B
 location-label =
     .value = Konum:
     .accesskey = o
+restore-default-label =
+    .label = Varsayılanı geri yükle
+    .accesskey = V
 default-search-engine = Varsayılan Arama Motoru
+add-search-engine =
+    .label = Dosyadan ekle
+    .accesskey = D
+remove-search-engine =
+    .label = Kaldır
+    .accesskey = r
 new-message-arrival = Yeni ileti geldiğinde:
 mail-play-sound-label =
     .label =
@@ -115,6 +133,7 @@ change-dock-icon = Uygulama simgesi tercihlerini değiştir
 app-icon-options =
     .label = Uygulama Simgesi Seçenekleri…
     .accesskey = m
+notification-settings = Uyarılar ve varsayılan ses Sistem Tercihleri'ndeki Bildirim bölümünden kapatılabilir.
 animated-alert-label =
     .label = Uyarı göster
     .accesskey = U
@@ -133,6 +152,8 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Küresel aramayı ve dizin oluşturmayı etkinleştir
     .accesskey = o
+datetime-formatting-legend = Tarih ve saat biçimi
+language-selector-legend = Dil
 allow-hw-accel =
     .label = Mümkün olduğunda donanım ivmelenmesini kullan
     .accesskey = d
@@ -175,6 +196,8 @@ return-receipts-description = { -brand-short-name } uygulamasının alındı ona
 return-receipts-button =
     .label = Alındı onayları…
     .accesskey = A
+update-app-legend = { -brand-short-name } güncellemeleri
+allow-description = { -brand-short-name } şunları yapabilir
 automatic-updates-label =
     .label = Güncellemeleri otomatik olarak kur (önerilir: artırılmış güvenlik)
     .accesskey = o
@@ -187,6 +210,7 @@ update-history-button =
 use-service =
     .label = Güncellemeleri kurmak için arka plan hizmetini kullan
     .accesskey = G
+cross-user-udpate-warning = Bu ayar tüm Windows hesaplarına ve bu { -brand-short-name } profilini kullanan { -brand-short-name } kurulumlarına uygulanacaktır.
 networking-legend = Bağlantı
 proxy-config-description = { -brand-short-name } uygulamasının internete nasıl bağlandığını yapılandır
 network-settings-button =
@@ -215,6 +239,9 @@ use-cache-after = MB kullan
 
 ##
 
+smart-cache-label =
+    .label = Otomatik önbellek yönetiminin üzerine yaz
+    .accesskey = O
 clear-cache-button =
     .label = Şimdi temizle
     .accesskey = t
@@ -326,6 +353,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Taşınınca veya silinince ileti penceresini/sekmesini kapat
     .accesskey = k
+display-name-label =
+    .value = Görünen ad:
 condensed-addresses-label =
     .label = Adres defterimdeki kişilerin sadece gösterilen adını göster
     .accesskey = d
@@ -349,6 +378,7 @@ extension-label =
 auto-save-label =
     .label = Her
     .accesskey = e
+auto-save-end = dakikada bir otomatik kaydet
 
 ##
 
@@ -368,6 +398,12 @@ download-dictionaries-link = Daha fazla sözlük indir
 font-label =
     .value = Yazı tipi:
     .accesskey = Y
+font-size-label =
+    .value = Boyut:
+    .accesskey = B
+default-colors-label =
+    .label = Okuyucunun varsayılan renklerini kullan
+    .accesskey = O
 font-color-label =
     .value = Metin rengi:
     .accesskey = t
@@ -377,6 +413,9 @@ bg-color-label =
 restore-html-label =
     .label = Varsayılanları geri yükle
     .accesskey = V
+default-format-label =
+    .label = Varsayılan olarak gövde metni yerine paragraf biçimini kullan
+    .accesskey = V
 format-description = Metin biçimi davranışını yapılandır
 send-options-label =
     .label = Gönderim seçenekleri…
@@ -385,11 +424,22 @@ autocomplete-description = Adres girerken eşleşen kayıtları bulmak için bur
 ab-label =
     .label = Yerel adres defterleri
     .accesskey = a
+directories-label =
+    .label = Dizin sunucusu:
+    .accesskey = D
 directories-none-label =
     .none = Hiçbiri
+edit-directories-label =
+    .label = Dizinleri düzenle…
+    .accesskey = e
 email-picker-label =
     .label = E-posta gönderdiğim adresleri otomatik olarak buraya ekle:
     .accesskey = t
+default-directory-label =
+    .value = Adres defteri penceresinin varsayılan açılış dizini:
+    .accesskey = d
+default-last-label =
+    .none = Son kullanılan dizin
 attachment-label =
     .label = Eklenmesi unutulan ekleri denetle
     .accesskey = d
@@ -407,6 +457,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Kaldır
     .accesskey = K
+find-cloud-providers =
+    .value = Daha fazla sağlayıcı bul…
 cloud-account-description = Yeni Filelink depolama hizmeti ekle
 
 ## Privacy Tab
@@ -421,6 +473,9 @@ exceptions-button =
 remote-content-info =
     .value = Uzaktan içeriklerin gizlilik sorunları hakkında daha fazla bilgi alın
 web-content = Web İçeriği
+history-label =
+    .label = Ziyaret ettiğim web sitelerini ve bağlantıları hatırla
+    .accesskey = h
 cookies-label =
     .label = Sitelerden çerez kabul et
     .accesskey = k
@@ -445,6 +500,11 @@ keep-ask =
 cookies-button =
     .label = Çerezleri göster…
     .accesskey = z
+do-not-track-label =
+    .label = Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder
+    .accesskey = n
+learn-button =
+    .label = Daha fazla bilgi al
 passwords-description = { -brand-short-name } bütün hesaplarınızın parolalarını hatırlayabilir.
 passwords-button =
     .label = Kayıtlı parolalar…
@@ -496,6 +556,9 @@ certificate-ask =
 ocsp-label =
     .label = Sertifikaların geçerliliğini doğrulamak için OCSP yanıt sunucularını sorgula
     .accesskey = S
+security-devices-button =
+    .label = Güvenlik aygıtları…
+    .accesskey = G
 
 ## Chat Tab
 
@@ -530,10 +593,23 @@ notification-label = Bana gönderilen iletiler ulaştığında:
 show-notification-label =
     .label = Bildirim göster:
     .accesskey = B
+notification-all =
+    .label = gönderenin adı ve ileti ön izlemesiyle
 notification-name =
     .label = yalnızca gönderenin adıyla
 notification-empty =
     .label = hiçbir bilgi olmadan
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Hareketli dock simgesi
+           *[other] Görev çubuğu öğesini yakıp söndür
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] H
+           *[other] G
+        }
 chat-play-sound-label =
     .label = Ses çal
     .accesskey = S
@@ -549,6 +625,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Gözat…
     .accesskey = G
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Balonlar
+style-dark =
+    .label = Koyu
+style-paper =
+    .label = Kâğıt Sayfaları
+style-simple =
+    .label = Basit
+preview-label = Ön izleme:
+no-preview-label = Ön izleme yok
+no-preview-description = Bu tema geçersiz veya şu anda kullanılamıyor (devre dışı bırakılmış eklenti, güvenli mod…).
+chat-variant-label =
+    .value = Varyant:
+    .accesskey = V
+chat-header-label =
+    .label = Başlığı göster
+    .accesskey = B
 
 ## Preferences UI Search Results
 
