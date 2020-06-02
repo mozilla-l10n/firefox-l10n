@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Fermer
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -145,6 +147,7 @@ enable-gloda-search-label =
     .label = Activer la recherche et l’indexation globales
     .accesskey = c
 datetime-formatting-legend = Format de date et heure
+language-selector-legend = Langues
 allow-hw-accel =
     .label = Utiliser l’accélération graphique matérielle si disponible
     .accesskey = i
@@ -573,6 +576,17 @@ notification-name =
     .label = avec le nom de l’expéditeur uniquement
 notification-empty =
     .label = sans aucune information
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animer l’icône du dock
+           *[other] Faire clignoter l’élément dans la barre des tâches
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Jouer un son
     .accesskey = n
@@ -588,6 +602,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Parcourir…
     .accesskey = r
+theme-label =
+    .value = Thème :
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bulles
+style-dark =
+    .label = Sombre
+style-paper =
+    .label = Feuilles de papier
+style-simple =
+    .label = Simple
+preview-label = Aperçu :
+no-preview-label = Pas d’aperçu disponible
+no-preview-description = Ce thème n’est plus valide ou est indisponible (module désactivé, mode sans échec, …).
+chat-variant-label =
+    .value = Variante :
+    .accesskey = V
+chat-header-label =
+    .label = Afficher l’en-tête
+    .accesskey = E
 
 ## Preferences UI Search Results
 
