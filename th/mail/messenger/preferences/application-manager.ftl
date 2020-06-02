@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = รายละเอียดแอปพลิเคชัน
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = เอาออก
     .accesskey = อ

@@ -20,18 +20,21 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = เลิกทำการปิดแท็บ
     .accesskey = ด
+
 toolbar-context-menu-manage-extension =
     .label = จัดการส่วนขยาย
     .accesskey = จ
 toolbar-context-menu-remove-extension =
     .label = เอาส่วนขยายออก
     .accesskey = อ
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = รายงานส่วนขยาย
     .accesskey = ร
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
