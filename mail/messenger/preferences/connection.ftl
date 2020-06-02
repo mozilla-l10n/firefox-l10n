@@ -14,6 +14,14 @@ connection-dns-over-https-url-custom =
     .accesskey = C
     .tooltiptext = 输入您偏好的 URL，用来完成基于 HTTPS 的 DNS 解析
 connection-dns-over-https-custom-label = 自定义
+connection-dialog-window =
+    .title = 连接设置
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
+connection-proxy-legend = 配置访问互联网的代理
 proxy-type-no =
     .label = 不使用代理
     .accesskey = y
@@ -32,6 +40,12 @@ proxy-http-label =
 http-port-label =
     .value = 端口:
     .accesskey = P
+proxy-http-sharing =
+    .label = 也将此代理用于 HTTPS
+    .accesskey = x
+proxy-https-label =
+    .value = HTTPS Proxy:
+    .accesskey = S
 ssl-port-label =
     .value = 端口:
     .accesskey = o
@@ -57,3 +71,12 @@ no-proxy-label =
     .value = 不使用代理:
     .accesskey = N
 no-proxy-example = 例如： .mozilla.org.cn, .net.nz, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = 与 localhost、127.0.0.1 和 ::1 的连接永不经过代理。
+proxy-password-prompt =
+    .label = 如果密码已保存，不提示身份验证
+    .accesskey = i
+    .tooltiptext = 如果选中此选项，当您已保存身份凭据时，将会自动验证身份。如果身份验证失败，仍将向您询问身份凭据。
+proxy-remote-dns =
+    .label = 使用 SOCKS v5 时 DNS 经过代理
+    .accesskey = d
