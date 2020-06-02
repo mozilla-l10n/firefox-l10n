@@ -7,6 +7,7 @@
 
 appmenuitem-protection-report-tooltip =
     .tooltiptext = మీ అంతరంగికతా నివేదికను చూడండి
+
 appmenuitem-customize-mode =
     .label = అభిమతీకరించు…
 
