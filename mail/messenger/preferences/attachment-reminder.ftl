@@ -5,12 +5,16 @@
 attachment-reminder-window =
     .title = Nøkkelord for vedleggspåminnelse
 attachment-reminder-label = { -brand-short-name } advarer deg om manglende vedlegg dersom du sender en e-post som inneholder et av disse nøkkelordene.
+keyword-new-button =
+    .label = Ny…
+    .accesskey = N
 keyword-edit-button =
     .label = Rediger …
     .accesskey = R
 keyword-remove-button =
     .label = Slett
     .accesskey = S
+new-keyword-title = Nytt nøkkelord
 new-keyword-label = Nøkkelord:
 edit-keyword-title = Rediger nøkkelord
 edit-keyword-label = Nøkkelord:
