@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Cookies
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Іздеу:
     .accesskey = з
+
 cookies-on-system-label = Компьютеріңізде келесі Cookies сақталған:
+
 treecol-site-header =
     .label = Сайты
+
 treecol-name-header =
     .label = Cookie аты
+
 props-name-label =
     .value = Аты:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Мерзімі аяқталады:
 props-container-label =
     .value = Контейнер:
+
 remove-cookie-button =
     .label = Cookie өшіру
     .accesskey = ш
+
 remove-all-cookies-button =
     .label = Барлық cookies өшіру
     .accesskey = а
+
 cookie-close-button =
     .label = Жабу
     .accesskey = Ж

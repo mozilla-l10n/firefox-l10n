@@ -597,9 +597,6 @@ updates-heading = Жаңартуларды басқару
 discover-heading = Өз { -brand-short-name } жеке қылыңыз
 shortcuts-heading = Кеңейтудің пернетақта жарлықтарын басқару
 
-theme-heading-search-label = Көбірек темаларды табу
-extension-heading-search-label = Көбірек кеңейтулерді табу
-
 default-heading-search-label = Көбірек қосымшаларды табу
 addons-heading-search-input =
     .placeholder = addons.mozilla.org-ға іздеу

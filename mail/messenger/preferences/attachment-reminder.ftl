@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Салынымдар туралы еске салудың кілт сөздері
+
 attachment-reminder-label = { -brand-short-name } жоқ салынымдар туралы сізге еске салады, егер сіз жіберем деген хатта келесі кілт сөздердің біреуі болса.
+
 keyword-new-button =
     .label = Жаңа…
     .accesskey = Ж
+
 keyword-edit-button =
     .label = Түзету…
     .accesskey = Т
+
 keyword-remove-button =
     .label = Өшіру
     .accesskey = ш
+
 new-keyword-title = Жаңа кілтсөз
 new-keyword-label = Кілтсөз:
+
 edit-keyword-title = Қысқаша атауын түзету
 edit-keyword-label = Кілтсөз:
