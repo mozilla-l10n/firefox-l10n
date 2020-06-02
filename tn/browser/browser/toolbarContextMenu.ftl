@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = Dirolola Tswalo ya Thebe
     .accesskey = D
+
 toolbar-context-menu-remove-from-toolbar =
     .label = Tlosa mo Bara ya didirisiwa
     .accesskey = T
