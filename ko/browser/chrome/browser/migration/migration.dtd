@@ -46,7 +46,7 @@
 <!ENTITY migrating.label                "다음 항목들을 가져오고 있습니다…">
 
 <!ENTITY selectProfile.title            "프로필 선택">
-<!ENTITY selectProfile.label            "다음으로부터 가져올 수 있는 프로필 항목:">
+<!ENTITY selectProfile.label            "가져올 수 있는 프로필:">
 
 <!ENTITY done.title                     "가져오기 완료">
 <!ENTITY done.label                     "다음 항목들을 성공적으로 가져 왔습니다:">
