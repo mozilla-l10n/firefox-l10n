@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Etiketa berria
+
 tag-name-label =
     .value = Etiketaren izena:
     .accesskey = E

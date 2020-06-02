@@ -11,6 +11,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Partekatzearen adierazlea
+
 webrtc-sharing-window = Beste aplikazio baten leihoa ari zara partekatzen.
 webrtc-sharing-browser-window = { -brand-short-name } ari zara partekatzen.
 webrtc-sharing-screen = Pantaila osoa ari zara partekatzen.

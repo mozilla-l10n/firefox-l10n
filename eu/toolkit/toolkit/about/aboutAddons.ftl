@@ -592,9 +592,6 @@ updates-heading = Kudeatu zure eguneraketak
 discover-heading = Pertsonalizatu zure { -brand-short-name }
 shortcuts-heading = Kudeatu hedapenen lasterbideak
 
-theme-heading-search-label = Bilatu itxura gehiago
-extension-heading-search-label = Bilatu hedapen gehiago
-
 default-heading-search-label = Bilatu gehigarri gehiago
 addons-heading-search-input =
     .placeholder = Bilatu addons.mozilla.org gunean

@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituk
 
 policy-InstallAddonsPermission = Baimendu zenbait webgunek gehigarriak instalatzea.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Baimendu gune zehatzei fitxategi lokalen loturak egitea.
 
 policy-NetworkPrediction = Gaitu edo desgaitu sarearen iragarpena (DNS aurre-eskuratzea).

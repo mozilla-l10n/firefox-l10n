@@ -10,15 +10,6 @@ remove-address-row-type = Kendu { $type } eremua
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] { $type } sarrera eremua hutsik dago
-        [one] { $type } sarrera eremuak helbide bat dauka
-       *[other] { $type } sarrera eremuak { $count } helbide ditu
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -49,3 +40,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Eraman Bcc-ra
     .accesskey = B
+

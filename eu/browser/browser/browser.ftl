@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Nabigatze pribatua)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Nabigatze pribatua)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Nabigatze pribatua)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Nabigatze pribatua)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -136,10 +138,12 @@ urlbar-midi-blocked =
     .tooltiptext = MIDI sarbidea blokeatuta daukazu webgune honetarako.
 urlbar-install-blocked =
     .tooltiptext = Gehigarrien instalazioa blokeatuta daukazu webgune honetarako.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editatu laster-marka ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -170,12 +174,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Oraingoan, bilatu honekin:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Aldatu bilaketa-ezarpenak
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Aldatu bilaketa-ezarpenak
+
 search-one-offs-context-open-new-tab =
     .label = Bilatu fitxa berrian
     .accesskey = f
@@ -191,8 +197,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Erakutsi editorea gordetzean
     .accesskey = E
+
 bookmark-panel-done-button =
     .label = Eginda
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -266,12 +274,15 @@ popup-select-microphone =
     .value = Partekatzeko mikrofonoa:
     .accesskey = m
 popup-all-windows-shared = Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.
+
 popup-screen-sharing-not-now =
     .label = Une honetan ez
     .accesskey = z
+
 popup-screen-sharing-never =
     .label = Inoiz ez baimendu
     .accesskey = n
+
 popup-silence-notifications-checkbox = Partekatu bitartean, desgaitu { -brand-short-name }(r)en jakinarazpenak
 popup-silence-notifications-checkbox-warning = { -brand-short-name }(e)k ez du jakinarazpenik bistaratuko partekatzen ari zaren bitartean.
 
@@ -288,6 +299,7 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = F12 lasterbidea erabiltzeko, ireki lehenik garatzaile-tresnak 'Web garapena' menutik.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -300,9 +312,11 @@ urlbar-permissions-granted =
     .tooltiptext = Baimen bereziak eman dizkiozu webgune honi.
 urlbar-switch-to-tab =
     .value = Aldatu fitxara:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Hedapena:
+
 urlbar-go-button =
     .tooltiptext = Joan kokapen-barrako helbidera
 urlbar-page-action-button =
