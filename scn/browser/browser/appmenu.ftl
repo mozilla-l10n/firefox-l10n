@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Prutizziuna pâ privatizza
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vai ô rapportu di privatizza
+
 appmenuitem-customize-mode =
     .label = Pirsunalizza…
 

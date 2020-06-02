@@ -381,8 +381,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usa { $plugin-name } (nne { -brand-short-name })
-applications-preview-inapp =
-    .label = Antiprima nne { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -396,9 +394,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -615,11 +610,16 @@ home-prefs-topsites-header =
     .label = Siti principali
 home-prefs-topsites-description = I siti chi vìsiti cchiù assai
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Cunzigghiati di { $provider }
 home-prefs-recommended-by-description = Cuntinuti ntirissanti dâ riti, pirsunalizzati pi tia
+##
+
 home-prefs-recommended-by-learn-more = Comu funziona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Artìculi spunzurizzati
@@ -934,9 +934,9 @@ privacy-header = Privatizza navigaturi
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Accessi e chiavi
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Accessi e chiavi
@@ -1168,7 +1168,6 @@ content-blocking-warning-title = Cumanna!
 content-blocking-warning-description = Bluccari cuntinuti po ncippari certi siti. È fàcili disabbilitari u bloccu pî siti dî quali ti fidi.
 content-blocking-learn-how = Scopri comu
 
-content-blocking-etp-warning-description = Bluccari i trazzatura putissi fari farsijari certi siti. Ricàrrica na pàggina chî trazzatura pi càrricari tutti i cuntinuti.
 content-blocking-warning-learn-how = Vidi comu
 
 content-blocking-reload-description = Ài a ricarricari i schedi p'appricari sti canciamenti.

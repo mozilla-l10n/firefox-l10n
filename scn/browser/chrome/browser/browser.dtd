@@ -275,10 +275,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Bluccasti l'accessu MIDI pi stu situ.">
 <!ENTITY urlbar.installBlocked.tooltip           "Bluccasti u nzitamentu d'agghiuncitini pi stu situ.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ci dasti pirmisi addizziunali a stu situ.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mustra cronuluggìa">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ci dasti pirmisi addizziunali a stu situ.">
 
 
 <!ENTITY searchItem.title             "Cerca">
@@ -388,6 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Pirsunalizza…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+
 <!ENTITY overflowCustomizeToolbar.label       "Pirsunalizza a sbarra dî strumenti…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
@@ -811,18 +812,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 
 
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Bluccatu">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 
-<!ENTITY protections.socialMediaTrackers.description "I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazziuna supra di tia sparti di chiḍḍu chi sparti nnê to prufili.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -849,15 +842,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY contentBlocking.socialblock.label "Trazzatura dî riti suciali">
-
-
 <!ENTITY contentBlocking.fingerprinters.label "Giniratura d'urmi diggitali">
 <!ENTITY contentBlocking.fingerprintersView.label "Giniratura d'urmi diggitali">
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "Cchiù nfurmazziuna">
 
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Cchiù nfurmazziuna">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Sfai">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
