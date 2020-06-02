@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Bilatu testua orrian">
 <!ENTITY spellToolbarCmd.label "Ortografia">
 <!ENTITY spellToolbarCmd.tooltip "Egiaztatu hautapenaren ortografia edo orri osoaren ortografia">
+
 <!ENTITY imageToolbarCmd.label "Irudia">
 <!ENTITY imageToolbarCmd.tooltip "Txertatu irudi berria edo aldatu hautatutako irudiaren propietateak">
 <!ENTITY hruleToolbarCmd.label "Lerro horizontala">

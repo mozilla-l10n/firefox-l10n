@@ -57,6 +57,7 @@ rcwn-avg-long = Batez besteko luzea
 rcwn-std-dev-long = Desbideratze estandar luzea
 rcwn-cache-slow = Cache motel kopurua
 rcwn-cache-not-slow = Cache ez motel kopurua
+
 about-networking-title = Sareari buruz
 about-networking-http = HTTP
 about-networking-sockets = Socketak

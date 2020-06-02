@@ -16,3 +16,4 @@ accounts-default = Lehenetsia?
 identity-name = Identitatea
 
 send-via-email = Bidali posta elektronikoz
+
