@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Kalendar
+calendar-title-reminder = Podsjetnici
 dateformat-label =
     .value = Tekstualni oblik datuma:
     .accesskey = d
@@ -33,6 +35,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Prikaži broj tjedna u prikazima i mini mjesecu
     .accesskey = r
+workdays-label =
+    .value = Dani radnog tjedna:
 day-1-checkbox =
     .label = Ned
     .accesskey = N
@@ -70,6 +74,9 @@ midnight-label =
     .label = Ponoć
 noon-label =
     .label = Podne
+location-checkbox =
+    .label = Prikaži lokaciju
+    .accesskey = l
 multiweek-legend = Prikaz više tjedana
 number-of-weeks-label =
     .value = Broj tjedana za prikazati (uključujući protekle tjedne):
@@ -92,7 +99,16 @@ previous-weeks-label =
     .value = Proteklih tjedana za prikazati:
     .accesskey = P
 todaypane-legend = Današnji događaji
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Odjel Nadolazeće prikazuje:
+    .accesskey = N
 event-task-legend = Događaji i zadaci
+default-length-label =
+    .value = Zadano trajanje događaja i zadataka:
+    .accesskey = e
 task-start-label =
     .value = Datum početka:
 task-start-1-label =
@@ -130,12 +146,18 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Koristi zadani zvuk
     .accesskey = K
+reminder-custom-sound-label =
+    .label = Koristi sljedeću zvučnu datoteku
+    .accesskey = u
 reminder-browse-sound-label =
     .label = Odaberi…
     .accesskey = O
 reminder-dialog-label =
     .label = Prikaži okvir podsjetnika
     .accesskey = i
+missed-reminder-label =
+    .label = Prikaži propuštene podsjetnike za kalendare u kojima je dozvoljeno pisanje
+    .accesskey = u
 reminder-default-legend = Zadane postavke podsjetnika
 default-snooze-label =
     .value = Zadano trajanje odgode:
