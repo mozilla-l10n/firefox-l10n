@@ -24,3 +24,5 @@ sender-checkbox =
 open-time-label-before =
     .value = Amosar alertes de corréu nuevu mentanto
     .accesskey = M
+open-time-label-after =
+    .value = segundos
