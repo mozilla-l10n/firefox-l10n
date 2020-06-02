@@ -21,6 +21,7 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-proxy-legend = Proksy za pśistup k internetoju konfigěrurowaś
 proxy-type-no =
     .label = Žeden proksy
     .accesskey = y
@@ -39,6 +40,12 @@ proxy-http-label =
 http-port-label =
     .value = Port:
     .accesskey = P
+proxy-http-sharing =
+    .label = Teke toś ten proksy za HTTPS wužywaś
+    .accesskey = k
+proxy-https-label =
+    .value = HTTPS-proksy:
+    .accesskey = S
 ssl-port-label =
     .value = Port:
     .accesskey = o
@@ -64,6 +71,8 @@ no-proxy-label =
     .value = Žeden proksy za:
     .accesskey = d
 no-proxy-example = Pśikład: .mozilla.org, .net.nz, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = Zwiski z localhost, 127.0.0.1 a ::1 nigda pśez proksy njejdu.
 proxy-password-prompt =
     .label = Za awtentificěrowanim se njepšašaś, jolic gronidło jo składowane
     .accesskey = i
@@ -71,3 +80,6 @@ proxy-password-prompt =
 proxy-remote-dns =
     .label = Proksy-DNS, gaž se SOCKS v5 wužywa
     .accesskey = D
+proxy-enable-doh =
+    .label = DNS pśez HTTPS zmóžniś
+    .accesskey = m
