@@ -197,6 +197,9 @@ return-receipts-button =
     .label = Alındı onayları…
     .accesskey = A
 update-app-legend = { -brand-short-name } güncellemeleri
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Sürüm { $version }
 allow-description = { -brand-short-name } şunları yapabilir
 automatic-updates-label =
     .label = Güncellemeleri otomatik olarak kur (önerilir: artırılmış güvenlik)
