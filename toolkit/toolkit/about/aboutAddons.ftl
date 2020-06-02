@@ -613,9 +613,6 @@ updates-heading = Uw updates beheren
 discover-heading = Uw { -brand-short-name } personaliseren
 shortcuts-heading = Extensiesneltoetsen beheren
 
-theme-heading-search-label = Meer thema’s zoeken
-extension-heading-search-label = Meer extensies zoeken
-
 default-heading-search-label = Meer add-ons zoeken
 addons-heading-search-input =
     .placeholder = addons.mozilla.org doorzoeken

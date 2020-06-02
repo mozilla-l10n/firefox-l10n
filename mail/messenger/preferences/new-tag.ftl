@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Nieuw label
+
 tag-name-label =
     .value = Labelnaam:
     .accesskey = L
