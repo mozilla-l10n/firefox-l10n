@@ -2,12 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Zavrieť
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Možnosti
+        }
 pane-general-title = Všeobecné
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = Písanie správ
 category-compose =
     .tooltiptext = Písanie správ
+pane-privacy-title = Súkromie a bezpečnosť
+category-privacy =
+    .tooltiptext = Súkromie a bezpečnosť
 pane-chat-title = Konverzácie
 category-chat =
     .tooltiptext = Konverzácie
@@ -64,6 +75,7 @@ update-in-progress-ok-button = &Zrušiť
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
+addons-button = Rozšírenia a témy vzhľadu
 
 ## OS Authentication dialog
 
@@ -87,10 +99,19 @@ general-legend = Úvodná stránka { -brand-short-name }u
 start-page-label =
     .label = Pri štarte { -brand-short-name }u zobraziť stránku v oblasti správy
     .accesskey = z
+location-label =
+    .value = Adresa:
+    .accesskey = A
 restore-default-label =
     .label = Obnoviť predvolenú
     .accesskey = d
 default-search-engine = Predvolený vyhľadávací modul
+add-search-engine =
+    .label = Pridať zo súboru
+    .accesskey = r
+remove-search-engine =
+    .label = Odstrániť
+    .accesskey = i
 new-message-arrival = Pri prijatí novej správy
 mail-play-button =
     .label = Ukážka
@@ -99,6 +120,7 @@ change-dock-icon = Zmena nastavení ikony aplikácie
 app-icon-options =
     .label = Nastavenia ikony aplikácie…
     .accesskey = e
+notification-settings = Upozornenia a predvolené zvuky môžete zakázať v nastaveniach systému na paneli Notifikácie.
 animated-alert-label =
     .label = Zobraziť upozornenie
     .accesskey = b
@@ -117,6 +139,8 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Povoliť globálne vyhľadávanie a indexovanie správ
     .accesskey = o
+datetime-formatting-legend = Formát dátumu a času
+language-selector-legend = Jazyk
 allow-hw-accel =
     .label = Použiť hardvérové urýchľovanie (ak je dostupné)
     .accesskey = h
@@ -159,6 +183,11 @@ return-receipts-description = Zistiť ako { -brand-short-name } spracováva potv
 return-receipts-button =
     .label = Potvrdenia o prečítaní…
     .accesskey = P
+update-app-legend = Aktualizácie aplikácie { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Verzia { $version }
+allow-description = Povoliť aplikácii { -brand-short-name }
 automatic-updates-label =
     .label = Automaticky inštalovať aktualizácie (odporúčané z dôvodu zvýšenej bezpečnosti)
     .accesskey = A
@@ -171,6 +200,7 @@ update-history-button =
 use-service =
     .label = Na inštaláciu aktualizácií použiť službu na pozadí
     .accesskey = k
+cross-user-udpate-warning = Toto nastavenie sa vzťahuje na všetky účty v systéme Windows a profily aplikácie { -brand-short-name } používajúce túto inštaláciu aplikácie { -brand-short-name }.
 networking-legend = Pripojenie
 proxy-config-description = Nastaviť spôsob, akým sa { -brand-short-name } pripája k sieti Internet
 network-settings-button =
@@ -199,6 +229,9 @@ use-cache-after = MB na disku pre vyrovnávaciu pamäť
 
 ##
 
+smart-cache-label =
+    .label = Vlastné nastavenie vyrovnávacej pamäte
+    .accesskey = v
 clear-cache-button =
     .label = Vymazať teraz
     .accesskey = e
@@ -276,6 +309,8 @@ delete-tag-button =
 
 ##
 
+display-name-label =
+    .value = Zobrazované meno:
 
 ## Compose Tab
 
@@ -316,6 +351,12 @@ download-dictionaries-link = Prevziať ďalšie slovníky
 font-label =
     .value = Písmo:
     .accesskey = P
+font-size-label =
+    .value = Veľkosť:
+    .accesskey = s
+default-colors-label =
+    .label = Použiť predvolené farby
+    .accesskey = d
 font-color-label =
     .value = Farba textu:
     .accesskey = F
@@ -344,6 +385,11 @@ edit-directories-label =
 email-picker-label =
     .label = Adresy odosielaných e-mailov automaticky pridať do:
     .accesskey = o
+default-directory-label =
+    .value = Predvolený spúšťací priečinok v okne adresára:
+    .accesskey = r
+default-last-label =
+    .none = Naposledy použitý priečinok
 attachment-label =
     .label = Kontrolovať, či v správe nechýba príloha
     .accesskey = c
@@ -357,6 +403,8 @@ cloud-share-size =
 remove-cloud-account =
     .label = Odstrániť
     .accesskey = O
+find-cloud-providers =
+    .value = Nájsť ďalších poskytovateľov…
 cloud-account-description = Pridať novú službu na odosielanie príloh
 
 ## Privacy Tab
@@ -398,6 +446,11 @@ keep-ask =
 cookies-button =
     .label = Zobraziť cookies…
     .accesskey = Z
+do-not-track-label =
+    .label = Požiadať webové stránky pomocou signálu „Do Not Track“, aby vás nesledovali
+    .accesskey = n
+learn-button =
+    .label = Ďalšie informácie
 passwords-description = { -brand-short-name } si môže zapamätať prihlasovacie údaje pre všetky vaše kontá.
 passwords-button =
     .label = Uložené heslá…
@@ -449,6 +502,12 @@ certificate-ask =
 ocsp-label =
     .label = Aktuálnu platnosť certifikátov overovať na serveroch OCSP
     .accesskey = A
+certificate-button =
+    .label = Správa certifikátov…
+    .accesskey = S
+security-devices-button =
+    .label = Bezpečnostné zariadenia…
+    .accesskey = z
 
 ## Chat Tab
 
@@ -489,6 +548,17 @@ notification-name =
     .label = s uvedením odosielateľa
 notification-empty =
     .label = bez ďalších informácií
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animovať ikonu v docku
+           *[other] Blikať v paneli úloh
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] B
+        }
 chat-play-sound-label =
     .label = Prehrať zvuk
     .accesskey = u
@@ -503,6 +573,28 @@ chat-custom-sound-label =
     .accesskey = a
 chat-browse-sound-button =
     .label = Prehľadávať…
+    .accesskey = h
+theme-label =
+    .value = Vzhľad:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bubliny
+style-dark =
+    .label = Tmavá
+style-paper =
+    .label = Listy papiera
+style-simple =
+    .label = Jednoduchá
+preview-label = Ukážka:
+no-preview-label = K dispozícii nie je žiadny náhľad
+no-preview-description = Táto téma vzhľadu nie je platná alebo je momentálne nedostupná (zakázaný doplnok, núdzový režim…).
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Zobraziť hlavičku
     .accesskey = h
 
 ## Preferences UI Search Results
