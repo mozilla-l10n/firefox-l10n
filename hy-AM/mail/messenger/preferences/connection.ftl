@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = C
     .tooltiptext = Մուտքագրեք Ձեր նախընտրված URL-ը DNS-ը HTTPS-ի վրա լուծելու համար
 connection-dns-over-https-custom-label = Ընտրովի
+connection-dialog-window =
+    .title = Կապի կարգավորումներ
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Կարգավորել պրոքսին
 proxy-type-no =
     .label = Առանց պրոքսի
@@ -58,3 +65,6 @@ no-proxy-label =
     .value = Չկա պրոքսի՝
     .accesskey = N
 no-proxy-example = Օրինակ՝ .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-enable-doh =
+    .label = Միացնել DNS-ը HTTPS-ով
+    .accesskey = b
