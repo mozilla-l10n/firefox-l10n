@@ -92,14 +92,39 @@ focus-search-shortcut =
 focus-search-shortcut-alt =
     .key = k
 general-legend = Початкова сторінка { -brand-short-name }
+start-page-label =
+    .label = Показувати початкову сторінку в області перегляду листа при запуску { -brand-short-name }
+    .accesskey = с
+restore-default-label =
+    .label = Відновити
+    .accesskey = н
 default-search-engine = Типовий засіб пошуку
+new-message-arrival = При появі нових листів:
+mail-play-button =
+    .label = Відтворити
+    .accesskey = в
 change-dock-icon = Змінити налаштування для піктограми програми
 app-icon-options =
     .label = Налаштування піктограми програми…
     .accesskey = л
 notification-settings = Сигнали і типові звуки можна вимкнути в панелі сповіщень системних налаштувань.
+animated-alert-label =
+    .label = Показувати сповіщення
+    .accesskey = с
+customize-alert-label =
+    .label = Налаштувати…
+    .accesskey = л
 tray-icon-label =
     .label = Показувати піктограму в області сповіщень
+    .accesskey = і
+mail-custom-sound-label =
+    .label = Використовувати наступний звуковий файл
+    .accesskey = В
+mail-browse-sound-button =
+    .label = Огляд…
+    .accesskey = О
+enable-gloda-search-label =
+    .label = Увімкнути глобальний пошук та індексацію
     .accesskey = і
 allow-hw-accel =
     .label = Використовувати апаратне прискорення, якщо можливо
@@ -112,6 +137,19 @@ mbox-store-label =
 maildir-store-label =
     .label = Один файл на повідомлення (maildir)
 scrolling-legend = Прокручування
+autoscroll-label =
+    .label = Використовувати автоматичне прокручування
+    .accesskey = а
+smooth-scrolling-label =
+    .label = Використовувати плавне прокручування
+    .accesskey = п
+system-integration-legend = Системна інтеграція
+always-check-default =
+    .label = Перевіряти на старті чи { -brand-short-name } є типовою поштовою програмою
+    .accesskey = ш
+check-default-button =
+    .label = Перевірити зараз…
+    .accesskey = з
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -120,6 +158,16 @@ search-engine-name =
         [windows] Пошук Windows
        *[other] { "" }
     }
+search-integration-label =
+    .label = Дозволити { search-engine-name } шукати листи
+    .accesskey = S
+config-editor-button =
+    .label = Редактор налаштувань
+    .accesskey = Р
+return-receipts-description = Вкажіть, як { -brand-short-name } має обробляти сповіщення про доставку
+return-receipts-button =
+    .label = Сповіщення про доставку…
+    .accesskey = д
 automatic-updates-label =
     .label = Автоматично встановлювати оновлення (рекомендовано: покращує безпеку)
     .accesskey = А
@@ -129,55 +177,245 @@ check-updates-label =
 update-history-button =
     .label = Показати історію оновлень
     .accesskey = в
+use-service =
+    .label = Використовувати фонову службу для встановлення оновлень
+    .accesskey = ф
+networking-legend = З’єднання
 proxy-config-description = Налаштуйте параметри з’єднання { -brand-short-name } з інтернетом
+network-settings-button =
+    .label = Налаштування…
+    .accesskey = Н
+offline-legend = Автономний режим
+offline-settings = Налаштуйте параметри автономного режиму
+offline-settings-button =
+    .label = Автономний режим…
+    .accesskey = А
+diskspace-legend = Дисковий простір
+offline-compact-folder =
+    .label = Стискати всі теки, якщо це звільнить більш ніж
+    .accesskey = в
+compact-folder-size =
+    .value = MB загалом
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Використовувати до
+    .accesskey = и
+use-cache-after = MB місця під кеш
 
 ##
 
+clear-cache-button =
+    .label = Очистити зараз
+    .accesskey = О
 fonts-legend = Шрифти й кольори
+default-font-label =
+    .value = Типовий шрифт:
+    .accesskey = Т
+default-size-label =
+    .value = Розмір:
+    .accesskey = Р
+font-options-button =
+    .label = Шрифти…
+    .accesskey = Ш
 color-options-button =
     .label = Кольори…
     .accesskey = К
+display-width-legend = Лист у текстовому форматі
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Відображати смайліки як графіку
+    .accesskey = б
+display-text-label = Використовувати наступні параметри відображення цитат в листах текстового формату:
+style-label =
+    .value = Стиль:
+    .accesskey = С
+regular-style-item =
+    .label = Звичайний
+bold-style-item =
+    .label = Напівжирний
+italic-style-item =
+    .label = Курсив
+bold-italic-style-item =
+    .label = Напівжирний курсив
+size-label =
+    .value = Розмір:
+    .accesskey = Р
+regular-size-item =
+    .label = Звичайний
+bigger-size-item =
+    .label = Більший
+smaller-size-item =
+    .label = Менший
+quoted-text-color =
+    .label = Колір:
+    .accesskey = К
+search-input =
+    .placeholder = Пошук
+type-column-label =
+    .label = Тип вмісту
+    .accesskey = Т
+action-column-label =
+    .label = Дія
+    .accesskey = Д
+save-to-label =
+    .label = Зберігати файли до
+    .accesskey = З
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Вибрати…
+           *[other] Вибрати…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] В
+           *[other] В
+        }
+always-ask-label =
+    .label = Завжди питати мене куди зберігати файли
+    .accesskey = п
+display-tags-text = Мітки використовують для сортування та зазначення пріоритетів листів.
 new-tag-button =
     .label = Нова…
     .accesskey = Н
 edit-tag-button =
     .label = Змінити…
     .accesskey = З
+delete-tag-button =
+    .label = Вилучити
+    .accesskey = В
+auto-mark-as-read =
+    .label = Автоматично позначати листи як прочитані
+    .accesskey = А
+mark-read-no-delay =
+    .label = Зразу після відображення
+    .accesskey = З
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Як мине
+    .accesskey = Я
+seconds-label = секунд
 
 ##
 
+open-msg-label =
+    .value = Відкривати листи у:
+open-msg-tab =
+    .label = Новій вкладці
+    .accesskey = в
+open-msg-window =
+    .label = новому вікні
+    .accesskey = н
+open-msg-ex-window =
+    .label = вже існуючому вікні
+    .accesskey = у
+close-move-delete =
+    .label = Закривати вікно листа після видалення/переміщення
+    .accesskey = З
+condensed-addresses-label =
+    .label = Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі
+    .accesskey = м
 
 ## Compose Tab
 
+forward-label =
+    .value = Пересилати листи:
+    .accesskey = П
+inline-label =
+    .label = Усередині листа
+as-attachment-label =
+    .label = Як вкладення
+extension-label =
+    .label = додати розширення до імені файлу
+    .accesskey = ф
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Автоматично зберігати лист кожні
+    .accesskey = А
+auto-save-end = хвилин
 
 ##
 
+warn-on-send-accel-key =
+    .label = Запитувати підтвердження при використанні клавіатурних скорочень для надсилання листа
+    .accesskey = З
+spellcheck-label =
+    .label = Перевіряти орфографію перед відсиланням листа
+    .accesskey = і
+spellcheck-inline-label =
+    .label = Перевіряти орфографію під час введення
+    .accesskey = е
+language-popup-label =
+    .value = Мова:
+    .accesskey = М
+download-dictionaries-link = Завантажити додаткові словники
+font-label =
+    .value = Шрифт:
+    .accesskey = Ш
+font-color-label =
+    .value = Колір тексту:
+    .accesskey = т
+bg-color-label =
+    .value = Колір тла:
+    .accesskey = т
+restore-html-label =
+    .label = Відновити типові значення
+    .accesskey = В
 default-format-label =
     .label = Використовувати типово формат абзацу замість основного тексту
     .accesskey = б
+format-description = Текстовий формат:
+send-options-label =
+    .label = Параметри надсилання…
+    .accesskey = П
 autocomplete-description = При введенні адреси шукати відповідні адреси у:
+ab-label =
+    .label = Локальних адресних книгах
+    .accesskey = Л
+directories-label =
+    .label = Сервері каталогів:
+    .accesskey = С
+directories-none-label =
+    .none = Ніякому
+edit-directories-label =
+    .label = Змінити каталоги…
+    .accesskey = З
+email-picker-label =
+    .label = Автоматично додавати адреси з вихідних листів в:
+    .accesskey = А
 default-directory-label =
     .value = Типовий початковий каталог у вікні адресної книги:
     .accesskey = к
 default-last-label =
     .none = Останній використаний каталог
+attachment-label =
+    .label = Перевіряти відсутні вкладення
+    .accesskey = в
+attachment-options-label =
+    .label = Ключові слова…
+    .accesskey = К
+enable-cloud-share =
+    .label = Пропонувати поділитись для файлів більших за
+cloud-share-size =
+    .value = Мб
 add-cloud-account =
     .label = Додати…
     .accesskey = о
     .defaultlabel = Додати…
+remove-cloud-account =
+    .label = Вилучити
+    .accesskey = В
+cloud-account-description = Додати нову службу зберігання Filelink
 
 ## Privacy Tab
 
@@ -215,12 +453,67 @@ keep-ask =
 cookies-button =
     .label = Показати куки…
     .accesskey = о
+passwords-description = { -brand-short-name } може запам’ятовувати реєстраційну інформацію для всіх ваших облікових записів так, що вам не доведеться вводити її знову.
+passwords-button =
+    .label = Збережені паролі…
+    .accesskey = б
+master-password-description = Будучи встановленим, головний пароль буде використаний для захисту всіх ваших паролів. Вам потрібно буде вводити його один раз в сесію.
+master-password-label =
+    .label = Встановити головний пароль
+    .accesskey = В
+master-password-button =
+    .label = Зміна головного паролю…
+    .accesskey = З
+junk-description = Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.
+junk-label =
+    .label = Коли я позначаю лист як спам:
+    .accesskey = я
+junk-move-label =
+    .label = Перемістити їх у теку «Спам»
+    .accesskey = т
+junk-delete-label =
+    .label = Знищити їх
+    .accesskey = н
+junk-read-label =
+    .label = Відмітити такі листи прочитаними
+    .accesskey = ч
+junk-log-label =
+    .label = Увімкнути журнал роботи адаптивного анти-спам фільтра
+    .accesskey = ж
+junk-log-button =
+    .label = Показати журнал
+    .accesskey = к
+reset-junk-button =
+    .label = Скинути дані тренувань
+    .accesskey = С
+phishing-description = { -brand-short-name } може аналізувати листи на предмет шахрайства, виявляючи усталені методи обману.
+phishing-label =
+    .label = Повідомляти мене, коли щодо листа, який я читаю, є підозри у шахрайстві
+    .accesskey = П
+antivirus-description = { -brand-short-name } може полегшити роботу антивіруса при перевірці вхідних листів на наявність вірусів перед тим, як зберегти їх в поштові теки.
+antivirus-label =
+    .label = Дозволити антивірусу поміщати в карантин окремі вхідні листи
+    .accesskey = Д
+certificate-description = Коли сервер запитує мій персональний сертифікат:
+certificate-auto =
+    .label = Вибрати автоматично
+    .accesskey = а
+certificate-ask =
+    .label = Питати щоразу
+    .accesskey = П
 ocsp-label =
     .label = Запитувати у серверів OCSP підтвердження поточного стану сертифікатів
     .accesskey = З
 
 ## Chat Tab
 
+startup-label =
+    .value = Коли { -brand-short-name } запускається:
+    .accesskey = з
+offline-label =
+    .label = Тримати мої чатові облікові записи в офлайні
+auto-connect-label =
+    .label = Під'єднати мої облікові записи автоматично
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -228,9 +521,19 @@ ocsp-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Дозволити моїм контактам знати, що я бездіяльний після
+    .accesskey = я
+idle-time-label = хвилин неактивності
 
 ##
 
+away-message-label =
+    .label = та встановлювати мені статус Відійшов із повідомленням статусу:
+    .accesskey = В
+send-typing-label =
+    .label = Надсилати сповіщення про введення в розмовах
+    .accesskey = н
 notification-label = Коли прибувають направлені вам повідомлення:
 show-notification-label =
     .label = Показувати сповіщення:
