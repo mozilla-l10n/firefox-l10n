@@ -1,0 +1,9 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+rights-title = Um þín réttindi
+rights-intro-point-5 = Sumir eiginleikar í { -brand-short-name } nota vefsvæðisupplýsingar, en, því miður getum við ekki ábyrgst að þær upplýsingar séu 100% nákvæmar eða villulausar. Fyrir meiri upplýsingar, og meðal annars upplýsingar um hvernig á að gera þjónusturnar óvirkar, er að finna í <a data-l10n-name="mozilla-service-terms-link">þjónustuskilmálum</a>.
+rights-intro-point-6 = Til að geta spilað ákveðnar tegundir af myndefni, þarf { -brand-short-name } að hala niður ákveðnum tegundum af afkóðunarviðbótum frá þriðja aðila.
+rights-webservices-term-1 = { -vendor-short-name } og þeirra þátttakendur, leyfisaðilar og meðlimir vinna að því að útvega uppfærðar þjónustur og nákvæmar upplýsingar.  Hinsvegar, geta þeir ekki ábyrgst að þessar upplýsingar séu alhliða eða réttar.  Sem dæmi, gæti örugg vöfrun ekki endilega borið kennsl á óörugg vefsvæði og sum vefsvæði gætu verið rangt skilgreind sem örugg, og einnig eru staðsetningar frá staðsetningar þjónustunni bara ágiskanir og við eða þjónustuaðilar okkar geta ekki borið ábyrgð á að staðsetningar sem veittar eru séu nákvæmar.
+rights-webservices-term-4 = <strong>Þessar þjónustur eru ætlaðar til notkunar án allrar "ábyrgðar."  { -vendor-short-name }, þátttakendur, leyfisaðilar, og dreifingaraðilar, afsala sér allri ábyrgð, hvort sem það er beint eða óbeint, innifelur það í sér án allra takmarkana, ábyrgðir að þjónusturnar séu seljanlegar og hæfi þínum sérstaka tilgangi.  Þú berð alla ábyrgð á því hvort val þitt á þjónustunum passi þínum tilgangi og hvort gæði eða afköst henti þér. Sum lögsagnarumdæmi leyfa ekki útilokanir eða takmarkanir á ákveðnum ábyrgðum, þannig að þessi riftunarákvæði gætu ekki átt við þig.</strong>
