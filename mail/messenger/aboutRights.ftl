@@ -2,12 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = About Your Rights
 rights-intro = { -brand-full-name } is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:
 rights-intro-point-1 = { -brand-short-name } is made available to you under the terms of the <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. This means you may use, copy and distribute { -brand-short-name } to others.  You are also welcome to modify the source code of { -brand-short-name } as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.
 rights-intro-point-3 = Some features in { -brand-short-name }, such as the Crash Reporter, give you the option to provide feedback to { -vendor-short-name }. By choosing to submit feedback, you give { -vendor-short-name } permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.
 rights-intro-point-4 = How we use your personal information and feedback submitted to { -vendor-short-name } through { -brand-short-name } is described in the <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } Privacy Policy</a>.
 rights-intro-point-5 = Some { -brand-short-name } features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the <a data-l10n-name="mozilla-service-terms-link">service terms</a>.
 rights-intro-point-5-unbranded = If this product incorporates web services, any applicable service terms for the service(s) should be linked to the <a data-l10n-name="mozilla-website-services-link">Website Services</a> section.
+rights-intro-point-6 = In order to play back certain types of video content, { -brand-short-name } downloads certain content decryption modules from third parties.
 rights-webservices-header = { -brand-full-name } Web-Based Information Services
 rights-locationawarebrowsing = <strong>Location Aware Browsing: </strong>is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:
 rights-locationawarebrowsing-term-1 = In the URL bar, type <code>about:config</code>
