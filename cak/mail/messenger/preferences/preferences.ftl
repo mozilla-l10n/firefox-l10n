@@ -16,6 +16,9 @@ category-general =
 pane-compose-title = Ruch'akulal
 category-compose =
     .tooltiptext = Ruch'akulal
+pane-privacy-title = Ichinanem & Jikomal
+category-privacy =
+    .tooltiptext = Ichinanem & Jikomal
 pane-chat-title = Chat
 category-chat =
     .tooltiptext = Chat
@@ -67,6 +70,7 @@ update-in-progress-ok-button = &Tich'aqïx
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Titikïr chik el
+addons-button = Taq k'amal & taq Wachinel
 
 ## OS Authentication dialog
 
@@ -88,6 +92,12 @@ restore-default-label =
     .label = Titzolïx ri K'o wi
     .accesskey = T
 default-search-engine = K'o wi chi Kanob'äl
+add-search-engine =
+    .label = Titz'aqatisäx rik'in yakb'äl
+    .accesskey = T
+remove-search-engine =
+    .label = Tiyuj
+    .accesskey = y
 new-message-arrival = Toq ye'uqa k'ak'a' taq tzijol:
 mail-play-sound-label =
     .label =
@@ -127,6 +137,7 @@ enable-gloda-search-label =
     .label = Titzij Cholajin chuqa' Chijun Kanoxïk
     .accesskey = C
 datetime-formatting-legend = Rub'anikil Q'ijul chuqa' Ramaj
+language-selector-legend = Ch'ab'äl
 allow-hw-accel =
     .label = Tokisäx rupararexik ch'akulakem toq xtiwachin pe
     .accesskey = c
@@ -173,6 +184,7 @@ update-app-legend = { -brand-short-name } Taq Ruk'exoj
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Ruwäch { $version }
+allow-description = Tiya' q'ij { -brand-short-name } chi re
 automatic-updates-label =
     .label = Keyak ruyonil taq k'exoj ruwäch (chilab'en: utzilan jikimal)
     .accesskey = r
@@ -327,6 +339,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Titz'apïx rutzuwäch/tab rutzijol toq nisilöx o niyuj
     .accesskey = T
+display-name-label =
+    .value = Tik'ut b'i'aj:
 condensed-addresses-label =
     .label = Titz'et xa xe ri b'i'aj xtik'ut chi kiwäch ri winaqi' pa kitz'ib'awuj wochochib'al
     .accesskey = T
@@ -370,6 +384,12 @@ download-dictionaries-link = Keqasäx ch'aqa' chik taq Soltzij
 font-label =
     .value = Ruwäch tz'ib':
     .accesskey = z
+font-size-label =
+    .value = Nimilem:
+    .accesskey = e
+default-colors-label =
+    .label = Ke'okisäx ri taq b'onil erucha'on ri sik'inel
+    .accesskey = e
 font-color-label =
     .value = Rub'onil Rucholajem Tzij:
     .accesskey = T
@@ -423,6 +443,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Tiyuj
     .accesskey = y
+find-cloud-providers =
+    .value = Kekanöx ch'aqa' chik taq ajya'öl…
 cloud-account-description = Titz'aqatisäx jun k'ak'a' Filelink richin kiyakik samaj
 
 ## Privacy Tab
@@ -464,6 +486,11 @@ keep-ask =
 cookies-button =
     .label = Kek'ut taq Kaxlanwey…
     .accesskey = k
+do-not-track-label =
+    .label = Ketaq ri taq ruxaq ajk'amaya'l jun “Mani Tojqäx” raqän kumal chi man nojowäx ta chi tikanöx
+    .accesskey = t
+learn-button =
+    .label = Tetamäx ch'aqa' chik
 passwords-description = { -brand-short-name } nitikïr yerunataj ri ewan taq atzij kichin konojel ri taq rub'i' ataqoya'l.
 passwords-button =
     .label = Xeyak taq Ewan Tzij…
@@ -515,6 +542,12 @@ certificate-ask =
 ocsp-label =
     .label = Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i'
     .accesskey = R
+certificate-button =
+    .label = Kenuk'samajiïx Kiwujil B'i'aj…
+    .accesskey = K
+security-devices-button =
+    .label = Kokisaxel taq Jikomal…
+    .accesskey = K
 
 ## Chat Tab
 
