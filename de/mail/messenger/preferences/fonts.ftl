@@ -23,6 +23,12 @@ fonts-proportional-label =
 
 font-language-group-japanese =
     .label = Japanisch
+font-language-group-trad-chinese =
+    .label = Chinesisch traditionell (Taiwan)
+font-language-group-simpl-chinese =
+    .label = Chinesisch vereinfacht
+font-language-group-trad-chinese-hk =
+    .label = Chinesisch traditionell (Hong Kong)
 font-language-group-korean =
     .label = Koreanisch
 font-language-group-cyrillic =
@@ -37,6 +43,8 @@ font-language-group-arabic =
     .label = Arabisch
 font-language-group-devanagari =
     .label = Devanagari
+font-language-group-tamil =
+    .label = Tamilisch
 font-language-group-armenian =
     .label = Armenisch
 font-language-group-bengali =
@@ -53,6 +61,8 @@ font-language-group-gurmukhi =
     .label = Gurmukhi
 font-language-group-khmer =
     .label = Khmer
+font-language-group-malayalam =
+    .label = Malayalam
 
 ## Default font type
 
@@ -63,6 +73,9 @@ default-font-sans-serif =
 font-serif-label =
     .value = Serif:
     .accesskey = e
+font-sans-serif-label =
+    .value = Sans Serif:
+    .accesskey = a
 font-monospace-label =
     .value = Feste Breite:
     .accesskey = F
@@ -71,6 +84,19 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = Schriftartenkontrolle
+use-document-fonts-checkbox =
+    .label = Nachrichten das Verwenden eigener statt der oben gewählten Schriftarten erlauben
+    .accesskey = N
+use-fixed-width-plain-checkbox =
+    .label = Unproportionale Schriftart für Reintext-Nachrichten verwenden
+    .accesskey = U
 
 ## Language settings
 
+font-outgoing-email-label =
+    .value = Ausgehende Nachrichten:
+    .accesskey = h
+font-incoming-email-label =
+    .value = Eingehende Nachrichten:
+    .accesskey = I
