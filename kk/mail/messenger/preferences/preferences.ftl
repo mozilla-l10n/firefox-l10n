@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Жабу
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -87,6 +89,7 @@ enable-gloda-search-label =
     .label = Глобалды іздеуді және индекстеуді іске қосу
     .accesskey = е
 datetime-formatting-legend = Күн және уақытты пішімдеу
+language-selector-legend = Тіл
 allow-hw-accel =
     .label = Қолжетерлік болса құрылғылық үдетуді қолдану
     .accesskey = р
@@ -133,6 +136,7 @@ update-app-legend = { -brand-short-name } жаңартулары
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Нұсқасы { $version }
+allow-description = { -brand-short-name } үшін рұқсат ету
 automatic-updates-label =
     .label = Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздікті арттырады)
     .accesskey = а
@@ -145,6 +149,7 @@ update-history-button =
 use-service =
     .label = Жаңартуларды орнату үшін фон қызметін қолдану
     .accesskey = ф
+cross-user-udpate-warning = Бұл баптау { -brand-short-name } бұл орнатуын қолданатын барлық Windows тіркелгілері және { -brand-short-name } профильдері үшін іске асады.
 networking-legend = Байланыс
 proxy-config-description = { -brand-short-name } Интернетке байланысу параметрлерін баптау
 network-settings-button =
@@ -330,6 +335,12 @@ download-dictionaries-link = Көбірек сөздіктерді жүктеп 
 font-label =
     .value = Қаріп:
     .accesskey = п
+font-size-label =
+    .value = Өлшемі:
+    .accesskey = м
+default-colors-label =
+    .label = Пайдаланушының үнсіз келісім түстерін қолдану
+    .accesskey = д
 font-color-label =
     .value = Мәтін түсі:
     .accesskey = т
@@ -424,6 +435,8 @@ keep-ask =
 cookies-button =
     .label = Cookies көрсету…
     .accesskey = р
+learn-button =
+    .label = Көбірек білу
 passwords-description = { -brand-short-name } барлық тіркелгілер үшін парольдерді сақтай алады.
 passwords-button =
     .label = Сақталған парольдер…
@@ -475,6 +488,12 @@ certificate-ask =
 ocsp-label =
     .label = OCSP жауап беруші серверлерін сертификаттардың ағымдағы дұрыстығы жөнінде сұрау
     .accesskey = с
+certificate-button =
+    .label = Сертификаттарды басқару…
+    .accesskey = б
+security-devices-button =
+    .label = Қауіпсіздік құрылғылары…
+    .accesskey = р
 
 ## Chat Tab
 
@@ -515,6 +534,17 @@ notification-name =
     .label = тек жіберуші атымен
 notification-empty =
     .label = ешбір ақпаратсыз
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Док таңбашасын анимациялау
+           *[other] Құралдар панелі элементін жыпылықтау
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] о
+           *[other] ы
+        }
 chat-play-sound-label =
     .label = Дыбысты ойнату
     .accesskey = Д
@@ -530,6 +560,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Шолу…
     .accesskey = Ш
+theme-label =
+    .value = Тема:
+    .accesskey = Т
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Көпіршіктер
+style-dark =
+    .label = Күңгірт
+style-paper =
+    .label = Қағаз парақтары
+style-simple =
+    .label = Қарапайым
+preview-label = Алдын-ала қарау:
+no-preview-label = Алдын-ала қарау қолжетерсіз
+no-preview-description = Бұл тема жарамсыз немесе ағымдағы уақытта қолжетерсіз (сөндірілген кеңейту, қауіпсіз режимі, …).
+chat-variant-label =
+    .value = Нұсқасы:
+    .accesskey = с
+chat-header-label =
+    .label = Тақырыптаманы көрсету
+    .accesskey = т
 
 ## Preferences UI Search Results
 
