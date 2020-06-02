@@ -13,6 +13,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = לטיני
 font-language-group-japanese =
     .label = יפנית
 font-language-group-trad-chinese =
@@ -27,6 +30,8 @@ font-language-group-cyrillic =
     .label = קירילי
 font-language-group-el =
     .label = יוונית
+font-language-group-other =
+    .label = סוגי כתב אחרים
 font-language-group-thai =
     .label = תאילנדית
 font-language-group-hebrew =
@@ -55,6 +60,18 @@ font-language-group-khmer =
     .label = קמבודית
 font-language-group-malayalam =
     .label = מליאלאם
+font-language-group-math =
+    .label = מתמטיקה
+font-language-group-odia =
+    .label = אורייה
+font-language-group-telugu =
+    .label = טלוגו
+font-language-group-kannada =
+    .label = קאנדה
+font-language-group-sinhala =
+    .label = סינהלה
+font-language-group-tibetan =
+    .label = טיבטית
 
 ## Default font type
 
@@ -62,6 +79,12 @@ default-font-serif =
     .label = סריף
 default-font-sans-serif =
     .label = סאן־סריף
+font-size-label =
+    .value = גודל:
+    .accesskey = ח
+font-size-monospace-label =
+    .value = גודל:
+    .accesskey = ק
 font-serif-label =
     .value = סריף:
     .accesskey = ס
@@ -89,9 +112,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = קידוד טקסט
+text-encoding-description = הגדרת קידוד הטקסט כבררת מחדל לשליחה וקבלה של הודעות דוא״ל
 font-outgoing-email-label =
     .value = דואר יוצא:
     .accesskey = צ
 font-incoming-email-label =
     .value = דואר נכנס:
     .accesskey = נ
+default-font-reply-checkbox =
+    .label = כשניתן, יש להשתמש בקידוד טקסט כבררת מחדל בתגובות
+    .accesskey = כ

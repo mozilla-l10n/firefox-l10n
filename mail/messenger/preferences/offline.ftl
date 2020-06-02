@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = הגדרות לא־מקוון
+autodetect-online-label =
+    .label = לעקוב אוטומטית אחר המצב המקוון שהתגלה
+    .accesskey = ג
+startup-label = מצב ידני עם ההתחלה:
 status-radio-remember =
     .label = זכור מצב מקוון קודם
     .accesskey = ז
+status-radio-ask =
+    .label = לשאול אותי על המצב המקוון שלי
+    .accesskey = ל
+status-radio-always-online =
+    .label = מקוון
+    .accesskey = ק
+status-radio-always-offline =
+    .label = מנותק
+    .accesskey = נ
 going-online-label = לשלוח הודעות שלא נשלחו במעבר למצב מקוון?
 going-online-auto =
     .label = כן
