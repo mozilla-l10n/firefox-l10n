@@ -4,6 +4,7 @@
 
 calendar-title = Awitay
 calendar-title-reminder = Imektiyen
+calendar-title-category = Taggayin
 dateformat-label =
     .value = Amasal n wazemz:
     .accesskey = s
