@@ -209,6 +209,25 @@ antivirus-label =
 
 ##
 
+notification-label = 메시지가 도착했을 때:
+show-notification-label =
+    .label = 알림 보여주기
+    .accesskey = c
+chat-play-sound-label =
+    .label = 소리 재생
+    .accesskey = d
+chat-play-button =
+    .label = 재생
+    .accesskey = P
+chat-system-sound-label =
+    .label = 기본 시스템 소리
+    .accesskey = D
+chat-custom-sound-label =
+    .label = 다음 소리 파일 사용
+    .accesskey = U
+chat-browse-sound-button =
+    .label = 찾아보기…
+    .accesskey = B
 
 ## Preferences UI Search Results
 
