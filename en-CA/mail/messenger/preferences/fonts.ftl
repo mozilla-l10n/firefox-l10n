@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latin
 font-language-group-japanese =
     .label = Japanese
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Cyrillic
 font-language-group-el =
     .label = Greek
+font-language-group-other =
+    .label = Other Writing Systems
 font-language-group-thai =
     .label = Thai
 font-language-group-hebrew =
@@ -63,6 +68,18 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-math =
+    .label = Mathematics
+font-language-group-odia =
+    .label = Odia
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Sinhala
+font-language-group-tibetan =
+    .label = Tibetan
 
 ## Default font type
 
@@ -70,9 +87,21 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans Serif
+font-size-label =
+    .value = Size:
+    .accesskey = e
+font-size-monospace-label =
+    .value = Size:
+    .accesskey = i
+font-serif-label =
+    .value = Serif:
+    .accesskey = S
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+font-monospace-label =
+    .value = Monospace:
+    .accesskey = M
 font-min-size-label =
     .value = Minimum font size:
     .accesskey = z
@@ -91,9 +120,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Text Encoding
+text-encoding-description = Set the default text encoding for sending and receiving mail
 font-outgoing-email-label =
     .value = Outgoing Mail:
     .accesskey = u
 font-incoming-email-label =
     .value = Incoming Mail:
     .accesskey = I
+default-font-reply-checkbox =
+    .label = When possible, use the default text encoding in replies
+    .accesskey = h

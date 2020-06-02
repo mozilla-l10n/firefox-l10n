@@ -4,6 +4,10 @@
 
 system-integration-title =
     .title = System Integration
+system-integration-dialog =
+    .buttonlabelaccept = Set as Default
+    .buttonlabelcancel = Skip Integration
+    .buttonlabelcancel2 = Cancel
 default-client-intro = Use { -brand-short-name } as the default client for:
 checkbox-newsgroups-label =
     .label = Newsgroups
@@ -19,6 +23,9 @@ system-search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+system-search-integration-label =
+    .label = Allow { system-search-engine-name } to search messages
+    .accesskey = S
 check-on-startup-label =
     .label = Always perform this check when starting { -brand-short-name }
     .accesskey = A
