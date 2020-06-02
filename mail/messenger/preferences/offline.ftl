@@ -4,3 +4,24 @@
 
 offline-dialog-window =
     .title = Setări pentru lucrul offline
+status-radio-remember =
+    .label = Memorează starea online precedentă
+    .accesskey = r
+going-online-auto =
+    .label = Da
+    .accesskey = D
+going-online-not =
+    .label = Nu
+    .accesskey = N
+going-online-ask =
+    .label = Întreabă-mă
+    .accesskey = n
+going-offline-auto =
+    .label = Da
+    .accesskey = D
+going-offline-not =
+    .label = Nu
+    .accesskey = N
+going-offline-ask =
+    .label = Întreabă-mă
+    .accesskey = a
