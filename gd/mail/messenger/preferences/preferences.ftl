@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Roghainnean
+           *[other] Roghainnean
+        }
 pane-compose-title = Sgrìobhadh
 category-compose =
     .tooltiptext = Sgrìobhadh
@@ -41,10 +47,27 @@ location-label =
 restore-default-label =
     .label = Aisig na roghainnean bunaiteach
     .accesskey = r
+default-search-engine = An t-einnsean-luirg bunaiteach
 new-message-arrival = Nuair a ruigeas teachdaireachd ùr:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Cluich am faidhle fuaime a leanas:
+           *[other] Cluich fuaim
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] d
+        }
 mail-play-button =
     .label = Cluich
     .accesskey = C
+change-dock-icon = Atharraich na roghainnean airson ìomhaigheag na h-aplacaid
+app-icon-options =
+    .label = Roghainnean ìomhaigheag na h-aplacaid…
+    .accesskey = n
+notification-settings = ’S urrainn dhut caismeachdan is an fhuaim bhunaiteach a chur às comas ann an leòsan nam brathan ann an roghainnean an t-siostaim.
 animated-alert-label =
     .label = Seall caismeachd
     .accesskey = S
@@ -63,6 +86,17 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Cuir an lorg is an clàr-innsiche uile-choitcheann an comas
     .accesskey = e
+datetime-formatting-legend = Fòrmatadh a’ chinn-là ’s an ama
+allow-hw-accel =
+    .label = Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh
+    .accesskey = m
+store-type-label =
+    .value = Seòrsa stòras nan teachdaireachdan airson cunntasan ùra:
+    .accesskey = t
+mbox-store-label =
+    .label = Faidhle gach pasgan (mbox)
+maildir-store-label =
+    .label = Faidhle gach teachdaireachd (maildir)
 scrolling-legend = Sgroladh
 autoscroll-label =
     .label = Cleachd fèin-sgroladh
@@ -95,6 +129,19 @@ return-receipts-description = Suidhich mar a làimhsicheas { -brand-short-name }
 return-receipts-button =
     .label = Bannan-cuidhteis…
     .accesskey = B
+update-app-legend = Ùrachaidhean { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Tionndadh { $version }
+automatic-updates-label =
+    .label = Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b’ fhearr)
+    .accesskey = S
+check-updates-label =
+    .label = Thoir sùil ach a bheil ùrachadh ann ach cuiridh mi fhìn romham a bheil mi airson an stàladh
+    .accesskey = b
+update-history-button =
+    .label = Seall eachdraidh nan ùrachaidhean
+    .accesskey = S
 use-service =
     .label = Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh
     .accesskey = b
@@ -126,6 +173,9 @@ use-cache-after = MB a dh'àite airson an tasgadan
 
 ##
 
+smart-cache-label =
+    .label = Leig seachad stiùireadh fèin-obrachail an tasgadain
+    .accesskey = f
 clear-cache-button =
     .label = Falmhaich e an-dràsta
     .accesskey = c
@@ -197,16 +247,49 @@ always-ask-label =
     .label = Faighnich dhìom càit an dèid faidhlichean a shàbhaladh an-còmhnaidh
     .accesskey = a
 display-tags-text = 'S urrainn dhut do theachdaireachdan agad a chur ann an roinnean 's prìomhachas a thoirt dhaibh le tagaichean.
+new-tag-button =
+    .label = Ùr…
+    .accesskey = r
+edit-tag-button =
+    .label = Deasaich…
+    .accesskey = e
 delete-tag-button =
     .label = Sguab às
     .accesskey = S
+auto-mark-as-read =
+    .label = Cuirear comharra gun deach teachdaireachd a leughadh leis fhèin
+    .accesskey = a
+mark-read-no-delay =
+    .label = Sa bhad nuair a choimheadas mi air
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Nuair a bhios mi air coimhead air fad
+    .accesskey = d
+seconds-label = diog(an)
 
 ##
 
+open-msg-label =
+    .value = Fosgail teachdaireachdan ann an:
+open-msg-tab =
+    .label = Taba ùr
+    .accesskey = T
+open-msg-window =
+    .label = Uinneag teachdaireachd ùr
+    .accesskey = n
+open-msg-ex-window =
+    .label = Uinneag teachdaireachd a tha fosgailte mu thràth
+    .accesskey = e
+close-move-delete =
+    .label = Dùin uinneag/taba na teachdaireachd nuair a sguabas mi às fear no ma ghluaiseas mi fear
+    .accesskey = c
+condensed-addresses-label =
+    .label = Na seall ach an t-ainm-taisbeanaidh airson nan daoine ann an leabhar nan seòladh agam
+    .accesskey = s
 
 ## Compose Tab
 
@@ -215,6 +298,8 @@ forward-label =
     .accesskey = S
 inline-label =
     .label = Taobh a-staigh na loidhne
+as-attachment-label =
+    .label = Mar cheanglachan
 extension-label =
     .label = cuir leudachan ri ainm an fhaidhle
     .accesskey = e
@@ -254,6 +339,9 @@ bg-color-label =
 restore-html-label =
     .label = Aisig na roghainnean bunaiteach
     .accesskey = r
+default-format-label =
+    .label = Cleachd fòrmat pharagrafan a ghnàth seach teacsa bodhaig
+    .accesskey = p
 format-description = Rèitich giùlan fòrmat an teacsa
 send-options-label =
     .label = Roghainnean a' chuir…
@@ -273,6 +361,11 @@ edit-directories-label =
 email-picker-label =
     .label = Cuirear seòlaidhean puist-dhealain a chuireas mi teachdaireachd thuca an-seo a ghnàth:
     .accesskey = a
+default-directory-label =
+    .value = Am pasgan tòiseachaidh bunaiteach ann an uinneag leabhar nan seòladh:
+    .accesskey = s
+default-last-label =
+    .none = Am pasgan a chleachd thu turas mu dheireadh
 attachment-label =
     .label = Cum sùil airson ceanglachain a dh'fhaodadh a bhith a dhìth
     .accesskey = m
@@ -283,6 +376,10 @@ enable-cloud-share =
     .label = Mol co-roinneadh airson faidhlichean a tha nas motha na
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Cuir ris…
+    .accesskey = C
+    .defaultlabel = Cuir ris…
 remove-cloud-account =
     .label = Thoir air falbh
     .accesskey = T
@@ -290,6 +387,43 @@ cloud-account-description = Cuir seirbheis stòrais Filelink ùr ris
 
 ## Privacy Tab
 
+mail-content = Susbaint puist
+remote-content-label =
+    .label = Ceadaich susbaint chèin ann an teachdaireachdan
+    .accesskey = a
+exceptions-button =
+    .label = Eisgeachdan...
+    .accesskey = E
+remote-content-info =
+    .value = Barrachd fiosrachaidh air ceistean prìobhaideachd a thaobh susbaint chèin
+web-content = Susbaint-lìn
+history-label =
+    .label = Cum an cuimhne làraichean-lìn is ceanglaichean air an do thadhail mi
+    .accesskey = r
+cookies-label =
+    .label = Gabh ri briosgaidean o làraichean
+    .accesskey = c
+third-party-label =
+    .value = Gabh ri briosgaidean treas pàrtaidh:
+    .accesskey = G
+third-party-always =
+    .label = An-còmhnaidh
+third-party-never =
+    .label = Chan ann idir
+third-party-visited =
+    .label = O fheadhainn air an deach tadhal
+keep-label =
+    .value = Cum gus:
+    .accesskey = C
+keep-expire =
+    .label = am falbh an ùine orra
+keep-close =
+    .label = an dùin mi { -brand-short-name }
+keep-ask =
+    .label = faighnich dhìom gach turas
+cookies-button =
+    .label = Seall na briosgaidean…
+    .accesskey = S
 passwords-description = 'S urrainn do { -brand-short-name } na faclan-faire airson gach cunntas agad a chumail 'na chuimhne.
 passwords-button =
     .label = Faclan-faire a chaidh a shàbhaladh…
@@ -327,10 +461,20 @@ phishing-description = 'S urrainn do { -brand-short-name } sgrùdadh a dhèanamh
 phishing-label =
     .label = Innis dhomh ma tha amharas gu bheil an teachdaireachd a tha mi a' leughadh 'na fhallsaidheachd puist-dhealain
     .accesskey = t
+antivirus-description = Nì { -brand-short-name } furasta e do bhathar-bog an aghaidh bhìorasan teachdaireachdan puist a thig a-steach a sgrùdadh air eagal ’s gum bi bìorasan annta, mus dèid an stòradh gu h-ionadail.
+antivirus-label =
+    .label = Leig le cliantan an aghaidh bhìorasan teachdaireachdan a thig a-steach a chur ann an cuarantain
+    .accesskey = a
 certificate-description = Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:
+certificate-auto =
+    .label = Taghar fear leis fhèin
+    .accesskey = S
 certificate-ask =
     .label = Faighnich dhìom gach turas
     .accesskey = a
+ocsp-label =
+    .label = Cuir ceist air OCSP Responder Servers airson dligheachd nan teisteanasan a dhearbhadh
+    .accesskey = C
 
 ## Chat Tab
 
@@ -361,6 +505,31 @@ away-message-label =
 send-typing-label =
     .label = Nochd ann an còmhradh ma bhios cuideigin a' sgrìobhadh rud
     .accesskey = c
+notification-label = Nuair a thig teachdaireachd a-steach is ann dhomhsa:
+show-notification-label =
+    .label = Seall brath:
+    .accesskey = b
+notification-all =
+    .label = le ainm an t-seòladair is ro-shealladh na teachdaireachd
+notification-name =
+    .label = le ainm an t-seòladair a-mhàin
+notification-empty =
+    .label = as aonais fiosrachaidh sam bith
+chat-play-sound-label =
+    .label = Cluich fuaim
+    .accesskey = f
+chat-play-button =
+    .label = Cluich
+    .accesskey = C
+chat-system-sound-label =
+    .label = Fuaim bhunaiteach an t-siostaim airson post ùr
+    .accesskey = F
+chat-custom-sound-label =
+    .label = Cleachd an fhuaim a leanas
+    .accesskey = u
+chat-browse-sound-button =
+    .label = Brabhsaich…
+    .accesskey = B
 
 ## Preferences UI Search Results
 
