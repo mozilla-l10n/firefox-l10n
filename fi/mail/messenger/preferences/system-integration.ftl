@@ -9,6 +9,7 @@ system-integration-dialog =
     .buttonlabelcancel = Ohita järjestelmään sopeuttaminen
     .buttonlabelcancel2 = Peruuta
 default-client-intro = Käytä { -brand-short-name }iä oletusohjelmana:
+unset-default-tooltip = { -brand-short-name }istä ei ole mahdollista asettaa toista ohjelmaa järjestelmän oletukseksi. Aseta toinen ohjelma oletukseksi sen omalla ”Aseta oletukseksi” -asetuksella.
 checkbox-email-label =
     .label = Sähköpostille
     .tooltiptext = { unset-default-tooltip }
