@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Mu do chòraichean
 rights-intro-point-5-unbranded = If this product incorporates web services, any applicable service terms for the service(s) should be linked to the <a data-l10n-name="mozilla-website-services-link">Web Site Services</a> section.
+rights-intro-point-6 = Airson ’s gun urrainn dha cuid a shusbaint video a chluich, luchdaichidh { -brand-short-name } a-nuas cuid a mhòidealan dì-chrioptachaidh o threas-phàrtaidhean.
 rights-webservices-term-2 = { -vendor-short-name } may discontinue or change the Services at its discretion.
 rights-webservices-term-4 = <strong>The Services are provided "as-is."  { -vendor-short-name }, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>
 rights-webservices-term-5 = <strong>Except as required by law, { -vendor-short-name }, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of { -brand-short-name } and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.</strong>
