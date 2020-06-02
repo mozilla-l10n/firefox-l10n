@@ -25,6 +25,7 @@ animated-alert-label =
 config-editor-button =
     .label = Tokiso ya Phetolo...
     .accesskey = t
+diskspace-legend = Sebaka Diskeng
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
