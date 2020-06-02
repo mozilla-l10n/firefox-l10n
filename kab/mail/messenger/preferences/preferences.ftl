@@ -137,6 +137,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Rmed anadi amatu akked timerna n ukatar
     .accesskey = m
+datetime-formatting-legend = Amsal n uzemz akked wakud
 allow-hw-accel =
     .label = Seqdec tasɣiwelt n warrum ma tella
     .accesskey = q
@@ -179,6 +180,10 @@ return-receipts-description = Wali amek ara yexdem { -brand-short-name } akked i
 return-receipts-button =
     .label = Inagan n waggaḍ…
     .accesskey = g
+update-app-legend = Ileqman n { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Lqem { $version }
 automatic-updates-label =
     .label = Sebded s wudem awurman ileqman (yelha i tɣellist-inek)
     .accesskey = A
@@ -219,6 +224,9 @@ use-cache-after = MAṬ n tallunt i tuffirt
 
 ##
 
+smart-cache-label =
+    .label = Snifel asefrek awurman n tuffirt
+    .accesskey = v
 clear-cache-button =
     .label = Sfeḍ tura
     .accesskey = S
@@ -401,6 +409,9 @@ edit-directories-label =
 email-picker-label =
     .label = Rnu s wudem awurman tansiwin n yimayl tuffiɣin i nek:
     .accesskey = d
+default-directory-label =
+    .value = Akatar amezwar deg lldi n imedlis n tansiwin:
+    .accesskey = S
 default-last-label =
     .none = Akaram aneggaru yettwasqedcen
 attachment-label =
@@ -567,6 +578,22 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Ḍum…
     .accesskey = Ḍ
+theme-label =
+    .value = Asentel:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-dark =
+    .label = Aberkan
+style-paper =
+    .label = Tawriqt
+style-simple =
+    .label = Aḥerfi
+preview-label = Taskant:
+no-preview-label = Ulac taskant
+chat-header-label =
+    .label = Sken-d aqeṛṛu
+    .accesskey = H
 
 ## Preferences UI Search Results
 
