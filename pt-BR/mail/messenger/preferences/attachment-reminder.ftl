@@ -4,6 +4,12 @@
 
 attachment-reminder-window =
     .title = Palavras-chave do lembrete de anexos
+keyword-new-button =
+    .label = Novo…
+    .accesskey = N
+keyword-edit-button =
+    .label = Editar…
+    .accesskey = E
 keyword-remove-button =
     .label = Excluir
     .accesskey = x
