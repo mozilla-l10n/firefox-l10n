@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Jogosultságok…">
 <!ENTITY privileges.button.accesskey             "J">
 <!ENTITY permissionsDesc.label                   "A következő jogosultságai vannak:">
+<!ENTITY folderOtherUsers.label                  "Mások, akik hozzáférnek ehhez a mappához:">
 <!ENTITY folderType.label                        "Mappatípus:">
 
 <!ENTITY folderQuotaTab.label                    "Kvóta">

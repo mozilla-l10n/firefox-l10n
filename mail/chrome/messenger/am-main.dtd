@@ -4,7 +4,6 @@
 
 <!-- extracted from am-main.xul -->
 
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Postafiók beállításai">
@@ -16,6 +15,8 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "E-mail cím:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Válasz ettől a személyazonosságról, ha a kézbesítési fejlécek megegyeznek:">
+<!ENTITY catchAll.accesskey "k">
 <!ENTITY replyTo.label "Válaszcím:">
 <!ENTITY replyTo.accesskey "V">
 <!ENTITY replyTo.placeholder "A levél címzettjei erre a másik címre válaszolhatnak">
@@ -38,8 +39,8 @@
 
 <!ENTITY manageIdentities.label "Személyazonosságok kezelése…">
 <!ENTITY manageIdentities.accesskey "a">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Levélküldő kiszolgáló (SMTP):">
 <!ENTITY smtpName.accesskey "k">
 <!ENTITY smtpDefaultServer.label "Alapértelmezett kiszolgáló használata">
