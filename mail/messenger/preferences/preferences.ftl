@@ -11,6 +11,9 @@ preferences-title =
 pane-compose-title = Composition
 category-compose =
     .tooltiptext = Composition
+pane-chat-title = گفت‌وگو
+category-chat =
+    .tooltiptext = گفت‌وگو
 
 ## OS Authentication dialog
 
@@ -230,9 +233,14 @@ email-picker-label =
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name } می‌تواند گذرواژه‌ها را برای همهٔ حسابهای شما به خاطر بیاورد.
 
 ## Chat Tab
 
+offline-label =
+    .label = حساب گفت‌و‌گوی من را آفلاین نگه دار
+auto-connect-label =
+    .label = حساب گفت‌و‌گوی من را بطور خودکار متصل کن
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -243,9 +251,13 @@ email-picker-label =
 
 ##
 
+notification-label = وقتی پیام‌هایی که مستقیم برای شما هستند میرسند:
 chat-play-button =
     .label = پخش
     .accesskey = پ
+chat-system-sound-label =
+    .label = صدای پیش فرض سیستم برای نامه جدید
+    .accesskey = D
 chat-custom-sound-label =
     .label = Use the following sound file
     .accesskey = U
