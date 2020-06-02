@@ -5,6 +5,9 @@
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
+pane-privacy-title = Privatliv & sikkerhed
+category-privacy =
+    .tooltiptext = Privatliv & sikkerhed
 pane-calendar-title = Kalender
 category-calendar =
     .tooltiptext = Kalender
@@ -55,15 +58,27 @@ update-in-progress-ok-button = &Annuller
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
+addons-button = Udvidelser og temaer
 
 ## OS Authentication dialog
 
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
+add-search-engine =
+    .label = Tilføj fra fil
+    .accesskey = F
+remove-search-engine =
+    .label = Fjern
+    .accesskey = r
 enable-gloda-search-label =
     .label = Aktiver global søgning og indeksering
     .accesskey = A
+datetime-formatting-legend = Dato- og tidsformat
 allow-hw-accel =
     .label = Brug hardware-acceleration hvor muligt
     .accesskey = h
@@ -116,6 +131,7 @@ update-history-button =
 use-service =
     .label = Brug en baggrundsservice til at installere opdateringer
     .accesskey = b
+cross-user-udpate-warning = Denne indstilling gælder for alle Windows-konti og { -brand-short-name }-profiler der bruger denne installation af { -brand-short-name }.
 networking-legend = Forbindelse
 proxy-config-description = Konfigurer hvordan { -brand-short-name } forbinder til internettet
 network-settings-button =
@@ -150,6 +166,56 @@ smart-cache-label =
 clear-cache-button =
     .label = Ryd nu
     .accesskey = R
+fonts-legend = Skrifttyper & farver
+default-font-label =
+    .value = Standardskrifttype:
+    .accesskey = S
+default-size-label =
+    .value = Størrelse:
+    .accesskey = ø
+font-options-button =
+    .label = Avanceret…
+    .accesskey = A
+color-options-button =
+    .label = Farver…
+    .accesskey = F
+display-width-legend = Meddelelser i ren tekst
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Vis smiley-ansigter som grafik.
+    .accesskey = V
+display-text-label = Ved visning af citerede meddelelser i ren tekst-format:
+style-label =
+    .value = Stil:
+    .accesskey = i
+regular-style-item =
+    .label = Normal
+bold-style-item =
+    .label = Fed
+italic-style-item =
+    .label = Kursiv
+bold-italic-style-item =
+    .label = Fed kursiv
+size-label =
+    .value = Størrelse:
+    .accesskey = r
+regular-size-item =
+    .label = Normal
+bigger-size-item =
+    .label = Større
+smaller-size-item =
+    .label = Mindre
+quoted-text-color =
+    .label = Farve:
+    .accesskey = e
+search-input =
+    .placeholder = Søg
+type-column-label =
+    .label = Indholdstype
+    .accesskey = I
+action-column-label =
+    .label = Handling
+    .accesskey = H
 save-to-label =
     .label = Gem filer i
     .accesskey = f
@@ -167,30 +233,153 @@ choose-folder-label =
 always-ask-label =
     .label = Spørg mig altid, hvor filer skal gemmes
     .accesskey = S
+display-tags-text = Mærkater kan bruges til at kategorisere og prioritere dine meddelelser
+new-tag-button =
+    .label = Nyt…
+    .accesskey = N
+edit-tag-button =
+    .label = Rediger…
+    .accesskey = R
+delete-tag-button =
+    .label = Slet
+    .accesskey = S
+auto-mark-as-read =
+    .label = Marker automatisk som læst
+    .accesskey = M
+mark-read-no-delay =
+    .label = Marker omgående
+    .accesskey = a
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Efter visning i
+    .accesskey = v
+seconds-label = sekunder
 
 ##
 
+open-msg-label =
+    .value = Åbn meddelelse i:
+open-msg-tab =
+    .label = Et nyt faneblad
+    .accesskey = f
+open-msg-window =
+    .label = Et nyt meddelelsesvindue
+    .accesskey = n
+open-msg-ex-window =
+    .label = Et eksisterende meddelelsesvindue
+    .accesskey = e
+close-move-delete =
+    .label = Luk meddelelsesvinduet/-fanen ved flytning eller sletning
+    .accesskey = L
+display-name-label =
+    .value = Vist navn:
+condensed-addresses-label =
+    .label = Vis kun "Vis som"-feltet for personer i min adressebog
+    .accesskey = p
 
 ## Compose Tab
 
+forward-label =
+    .value = Videresend meddelelser som:
+    .accesskey = v
+inline-label =
+    .label = En del af selve meddelelsen
+as-attachment-label =
+    .label = Vedhæftet fil
+extension-label =
+    .label = tilføj filendelse til filnavn
+    .accesskey = t
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Gem automatisk hvert
+    .accesskey = m
+auto-save-end = minut
 
 ##
 
+warn-on-send-accel-key =
+    .label = Bekræft når genvejstaster bruges til at sende meddelelser
+    .accesskey = æ
+spellcheck-label =
+    .label = Udfør stavekontrol før meddelelsen sendes
+    .accesskey = U
+spellcheck-inline-label =
+    .label = Anvend løbende stavekontrol
+    .accesskey = n
+language-popup-label =
+    .value = Sprog:
+    .accesskey = S
+download-dictionaries-link = Hent flere ordbøger
+font-label =
+    .value = Skrifttype:
+    .accesskey = S
+font-size-label =
+    .value = Størrelse:
+    .accesskey = ø
+default-colors-label =
+    .label = Brug læserens standardfarver
+    .accesskey = u
+font-color-label =
+    .value = Tekstfarve:
+    .accesskey = F
+bg-color-label =
+    .value = Baggrundsfarve:
+    .accesskey = B
+restore-html-label =
+    .label = Gendan standard
+    .accesskey = G
+default-format-label =
+    .label = Benyt afsnitsformat som standard i stedet for formatet for almindelig tekst
+    .accesskey = e
+format-description = Konfigurering af meddelelsesindholdet:
+send-options-label =
+    .label = Afsendelsesindstillinger…
+    .accesskey = A
+autocomplete-description = Søg efter adresser i:
+ab-label =
+    .label = Lokale adressebøger
+    .accesskey = L
+directories-label =
+    .label = LDAP-server:
+    .accesskey = s
+directories-none-label =
+    .none = Ingen
+edit-directories-label =
+    .label = Rediger LDAP-servere…
+    .accesskey = R
+email-picker-label =
+    .label = Tilføj automatisk modtageres mailadresser i:
+    .accesskey = A
+default-directory-label =
+    .value = Standardmappe ved start i vinduet Adressebog:
+    .accesskey = t
+default-last-label =
+    .none = Senest brugte mappe
+attachment-label =
+    .label = Kontroller for manglende vedhæftede filer
+    .accesskey = K
+attachment-options-label =
+    .label = Stikord…
+    .accesskey = i
 enable-cloud-share =
     .label = Tilbyd at bruge Filelink ved filer større end
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Tilføj…
+    .accesskey = T
+    .defaultlabel = Tilføj…
 remove-cloud-account =
     .label = Fjern
     .accesskey = F
+find-cloud-providers =
+    .value = Find flere udbydere…
 cloud-account-description = Tilføj en ny Filelink-tjeneste
 
 ## Privacy Tab
@@ -232,6 +421,11 @@ keep-ask =
 cookies-button =
     .label = Vis cookies…
     .accesskey = V
+do-not-track-label =
+    .label = Send et “Spor mig ikke”-signal til websider som tegn på, at du ikke ønsker at blive sporet
+    .accesskey = n
+learn-button =
+    .label = Læs mere
 passwords-description = { -brand-short-name } kan huske adgangskoder til alle dine konti, så du ikke behøver at indtaste dem.
 passwords-button =
     .label = Gemte adgangskoder…
@@ -283,6 +477,12 @@ certificate-ask =
 ocsp-label =
     .label = Send forespørgsel til OCSP responder-servere for at bekræfte certifikaters aktuelle gyldighed
     .accesskey = e
+certificate-button =
+    .label = Håndter certifikater…
+    .accesskey = H
+security-devices-button =
+    .label = Sikkerhedsenheder…
+    .accesskey = E
 
 ## Chat Tab
 
@@ -310,6 +510,9 @@ idle-time-label = minutter uden aktivitet
 away-message-label =
     .label = og vis denne meddelelse:
     .accesskey = m
+send-typing-label =
+    .label = Vis, når der skrives i samtaler
+    .accesskey = n
 notification-label = Når meddelelser til dig ankommer:
 show-notification-label =
     .label = Vis en besked
@@ -320,6 +523,17 @@ notification-name =
     .label = med afsenderens navn og intet andet
 notification-empty =
     .label = uden info fra mailen
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animér dock-ikon
+           *[other] Blink på proceslinje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] k
+        }
 chat-play-sound-label =
     .label = Afspil lyd
     .accesskey = l
@@ -332,6 +546,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Gennemse…
     .accesskey = G
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bobler
+style-dark =
+    .label = Mørk
+style-paper =
+    .label = Papirark
+style-simple =
+    .label = Simpel
+preview-label = Forhåndsvisning:
+no-preview-label = Ingen forhåndsvisning
+no-preview-description = Temaet er ikke gyldigt eller kan ikke vises lige nu (tilføjelse deaktiveret, fejlsikret tilstand ...).
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Vis hoved
+    .accesskey = H
 
 ## Preferences UI Search Results
 
