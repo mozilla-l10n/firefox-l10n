@@ -4,14 +4,26 @@
 
 receipts-dialog-window =
     .title = Acuses de recibo
+return-receipt-checkbox =
+    .label = Al enviar mensajes, siempre pedir un acuse de recibo
+    .acceskey = e
 receipt-arrive-label = Cuando llegue un acuse de recibo:
 receipt-leave-radio =
     .label = Dejarlo en mi bandeja de entrada
     .acceskey = i
+receipt-move-radio =
+    .label = Moverlo a mi carpeta "Enviados"
+    .acceskey = M
 receipt-request-label = Cuando recibo una solicitud de acuse de recibo:
+receipt-return-never-radio =
+    .label = Nunca enviar un acuse de recibo
+    .acceskey = N
 receipt-return-some-radio =
     .label = Permitir acuses de recibo de algunos mensajes
     .acceskey = r
+receipt-not-to-cc =
+    .value = Si no estoy en A: o CC: del mensaje:
+    .acceskey = S
 receipt-send-never-label =
     .label = Nunca enviar
 receipt-send-always-label =
