@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Kalender
+calendar-title-reminder = Alarmer
 calendar-title-category = Kategorier
 dateformat-label =
     .value = Datoformat:
@@ -34,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Vis ugenummer i kalender og minikalender
     .accesskey = i
+workdays-label =
+    .value = Hverdage:
 day-1-checkbox =
     .label = Søn
     .accesskey = S
@@ -103,6 +107,9 @@ soon-label =
     .value = Afsnittet Kommende viser:
     .accesskey = A
 event-task-legend = Begivenheder og opgaver
+default-length-label =
+    .value = Forvalgt varighed for begivenheder og opgaver:
+    .accesskey = v
 task-start-label =
     .value = Startdato:
 task-start-1-label =
