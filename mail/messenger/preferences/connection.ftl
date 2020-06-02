@@ -16,3 +16,6 @@ connection-dns-over-https-url-custom =
 connection-dns-over-https-custom-label = Vlastní
 # Note: Do not translate localhost, 127.0.0.1 and ::1.
 no-proxy-localhost-label = Spojení na localhost, 127.0.0.1 a ::1 nikdy proxy servery nepoužívají.
+proxy-enable-doh =
+    .label = Zapnout DNS over HTTPS
+    .accesskey = p

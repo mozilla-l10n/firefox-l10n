@@ -39,3 +39,5 @@ permission-can-label = Povolit
 permission-can-access-first-party-label = Zakázat pro servery třetích stran
 permission-can-session-label = Povolit pro relaci
 permission-cannot-label = Blokovat
+invalid-uri-message = Vložte prosím platný název serveru
+invalid-uri-title = Neplatný název serveru
