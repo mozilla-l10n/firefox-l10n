@@ -1,0 +1,54 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+weekstart-label =
+    .value = Primo giorno della settimana:
+    .accesskey = P
+dayweek-legend = Viste giorno e settimana
+visible-hours-label =
+    .value = Mostra:
+    .accesskey = o
+visible-hours-end-label =
+    .value = ore alla volta
+day-start-label =
+    .value = Il giorno inizia alle:
+    .accesskey = z
+multiweek-legend = Vista multi-settimana
+number-of-weeks-label =
+    .value = Numero di settimane da visualizzare (incluse settimane precedenti):
+    .accesskey = N
+week-0-label =
+    .label = Nessuna
+week-1-label =
+    .label = 1 settimana
+week-2-label =
+    .label = 2 settimane
+week-3-label =
+    .label = 3 settimane
+week-4-label =
+    .label = 4 settimane
+week-5-label =
+    .label = 5 settimane
+week-6-label =
+    .label = 6 settimane
+previous-weeks-label =
+    .value = Numero di settimane precedenti:
+    .accesskey = u
+reminder-legend = Quando un allarme si attiva:
+reminder-play-checkbox =
+    .label = Esegui un suono
+    .accesskey = E
+reminder-default-sound-label =
+    .label = Usa suono predefinito
+    .accesskey = U
+reminder-dialog-label =
+    .label = Visualizza un messaggio di allarme
+    .accesskey = m
+reminder-default-legend = Impostazioni predefinite allarmi
+event-alarm-label =
+    .value = Impostazione predefinita allarme per gli eventi:
+    .accesskey = z
+category-edit-label = Modifica categoria
+category-overwrite-title = Attenzione: nome duplicato
+category-blank-warning = È necessario inserire un nome di categoria.
