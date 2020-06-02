@@ -4,6 +4,9 @@
 
 offline-dialog-window =
     .title = Nastavitve za stanje brez povezave
+autodetect-online-label =
+    .label = Samodejno zaznavaj, ali je povezava vzpostavljena
+    .accesskey = m
 startup-label = Ročno stanje ob zagonu:
 status-radio-remember =
     .label = Zapomni si prejšnje stanje povezave
@@ -17,6 +20,7 @@ status-radio-always-online =
 status-radio-always-offline =
     .label = Brez povezave
     .accesskey = B
+going-online-label = Ali naj se neposlana sporočila pošljejo ob vzpostavitvi povezave?
 going-online-auto =
     .label = Da
     .accesskey = D
