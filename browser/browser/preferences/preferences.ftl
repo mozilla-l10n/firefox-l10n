@@ -320,8 +320,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = ប្រើ { $plugin-name } (ក្នុង { -brand-short-name })
-applications-preview-inapp =
-    .label = មើល​ជាមុន​ក្នុង { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -335,9 +333,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -512,10 +507,15 @@ home-prefs-topsites-header =
     .label = សាយកំពូល
 home-prefs-topsites-description = គេហទំព័រ​ដែល​អ្នក​មើល​ច្រើន​បំផុត
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = បានណែនាំដោយ { $provider }
+##
+
 home-prefs-recommended-by-learn-more = របៀប​ដែល​វា​ដំណើរការ
 
 home-prefs-highlights-header =

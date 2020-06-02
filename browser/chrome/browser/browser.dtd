@@ -365,6 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "ប្ដូរ​តាម​តម្រូវ​ការ…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "ប្តូរ​របារ​ឧបករណ៍​តាម​បំណង...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 

@@ -4,27 +4,36 @@
 
 window-close-key =
     .key = w
+
 website-address-label =
     .value = បន្ថែម​វេបសាយ៖
     .accesskey = d
+
 block-button =
     .label = Block
     .accesskey = B
+
 allow-button =
     .label = Allow
     .accesskey = A
+
 treehead-sitename-label =
     .label = Site
+
 treehead-status-label =
     .label = Վիճակը
+
 remove-site-button =
     .label = Remove Site
     .accesskey = R
+
 remove-all-site-button =
     .label = Remove All Sites
     .accesskey = e
+
 permission-can-label = Allow
 permission-can-session-label = Allow for Session
 permission-cannot-label = Block
+
 invalid-uri-message = Please enter a valid hostname
 invalid-uri-title = Invalid Hostname Entered
