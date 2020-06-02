@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Қолданба туралы ақпарат
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Өшіру
     .accesskey = ш

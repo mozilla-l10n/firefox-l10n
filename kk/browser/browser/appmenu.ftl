@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Жекелікті қорғау
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Жекелік есептемесіне өту
+
 appmenuitem-customize-mode =
     .label = Баптау…
 

@@ -381,8 +381,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } қолдану ({ -brand-short-name } құрамында)
-applications-preview-inapp =
-    .label = { -brand-short-name } ішінде алдын-ала қарау
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -396,9 +394,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -614,11 +609,16 @@ home-prefs-topsites-header =
     .label = Үздік сайттар
 home-prefs-topsites-description = Сіз жиі шолатын сайттар
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Ұсынушы { $provider }
 home-prefs-recommended-by-description = Бүкіл Интернеттен алынған тамаша контент, талғамыңызға сай таңдалған
+##
+
 home-prefs-recommended-by-learn-more = Ол қалай жұмыс істейді
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Демеушілер мақалалары
@@ -939,9 +939,9 @@ privacy-header = Браузер жекелігі
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Логиндер және парольдер
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Логиндер және парольдер
@@ -1180,7 +1180,6 @@ content-blocking-warning-title = Ескерту!
 content-blocking-warning-description = Құраманы бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Сенімді сайттар үшін бұғаттауды өшіру оңай.
 content-blocking-learn-how = Көбірек білу
 
-content-blocking-etp-warning-description = Трекерлерді бұғаттау кейбір сайттардың жұмысына әсер етуі мүмкін. Барлық мазмұнды жүктеу үшін трекерлермен бетті қайта жүктеңіз.
 content-blocking-warning-learn-how = Көбірек білу
 
 content-blocking-reload-description = Бұл өзгерістер іске асуы үшін беттерді қайта жүктеу керек болады.

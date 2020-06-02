@@ -299,6 +299,7 @@
 <!ENTITY findToolbarCmd.tooltip "Беттен мәтінді табу">
 <!ENTITY spellToolbarCmd.label "Емле">
 <!ENTITY spellToolbarCmd.tooltip "Таңдалғанның немесе толық парақтың емлесін тексеру">
+
 <!ENTITY imageToolbarCmd.label "Сурет">
 <!ENTITY imageToolbarCmd.tooltip "Жаңа суретті енгізу немесе таңдалған суреттің қасиеттерін түзету">
 <!ENTITY hruleToolbarCmd.label "Гориз. сызық">
