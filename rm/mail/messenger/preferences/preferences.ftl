@@ -274,13 +274,40 @@ display-tags-text = Etichettas pon ins utilisar per categorisar messadis e defin
 delete-tag-button =
     .label = Stizzar
     .accesskey = z
+auto-mark-as-read =
+    .label = Marcar automaticamain ils messadis sco legids
+    .accesskey = a
+mark-read-no-delay =
+    .label = Immediat cun mussar
+    .accesskey = e
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Suenter avair mussà durant
+    .accesskey = t
+seconds-label = secundas
 
 ##
 
+open-msg-label =
+    .value = Avrir messadis en:
+open-msg-tab =
+    .label = In nov tab
+    .accesskey = t
+open-msg-window =
+    .label = Ina nova fanestra da messadis
+    .accesskey = n
+open-msg-ex-window =
+    .label = Ina fanestra da messadis existenta
+    .accesskey = e
+close-move-delete =
+    .label = Serrar la fanestra da messadis/il tab sch'il messadi vegn spustà u stizzà
+    .accesskey = S
+condensed-addresses-label =
+    .label = Mo mussar il 'Num per mussar' per persunas en mes cudeschet d'adressas
+    .accesskey = M
 
 ## Compose Tab
 
