@@ -143,6 +143,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Zobrazit ikonu v oznamovací oblasti
     .accesskey = t
+mail-custom-sound-label =
+    .label = Vlastní zvukový soubor
+    .accesskey = V
 mail-browse-sound-button =
     .label = Procházet…
     .accesskey = c
@@ -324,6 +327,10 @@ mark-read-no-delay =
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Až po
+    .accesskey = z
+seconds-label = sekundách od zobrazení
 
 ##
 
@@ -423,6 +430,9 @@ edit-directories-label =
 email-picker-label =
     .label = Automaticky přidat odchozí e-mailovou adresu do složky:
     .accesskey = A
+default-directory-label =
+    .value = Výchozí počáteční složka v okně kontaktů:
+    .accesskey = c
 default-last-label =
     .none = Poslední používaná složka
 attachment-label =
@@ -458,6 +468,9 @@ exceptions-button =
 remote-content-info =
     .value = Zjistit více o problémech se soukromím u vzdáleného obsahu
 web-content = Webový obsah
+history-label =
+    .label = Pamatovat si navštívené stránky a adresy
+    .accesskey = a
 cookies-label =
     .label = Povolit serverům nastavovat cookies
     .accesskey = c
@@ -598,6 +611,9 @@ chat-play-button =
 chat-system-sound-label =
     .label = Zvuk nové pošty v systému
     .accesskey = u
+chat-custom-sound-label =
+    .label = Vlastní zvukový soubor
+    .accesskey = V
 chat-browse-sound-button =
     .label = Procházet…
     .accesskey = c
