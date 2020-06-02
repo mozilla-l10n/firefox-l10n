@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Dostosowywanie powiadomień o nowej poczcie
+
 customize-alert-description = Zaznacz pola, które mają być wyświetlane w oknach powiadomienia:
+
 preview-text-checkbox =
     .label = Podgląd treści wiadomości
     .accesskey = P
+
 subject-checkbox =
     .label = Temat
     .accesskey = T
+
 sender-checkbox =
     .label = Nadawca
     .accesskey = N
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Wyświetlaj powiadomienia przez
     .accesskey = W
+
 open-time-label-after =
     .value = s.

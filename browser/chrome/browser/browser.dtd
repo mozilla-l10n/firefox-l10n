@@ -293,10 +293,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Instalacja dodatków przez tę witrynę została zablokowana">
 
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Witryna korzysta z dodatkowych uprawnień.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Wyświetl historię">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Witryna korzysta z dodatkowych uprawnień.">
 
 
 <!ENTITY searchItem.title             "Znajdź">
@@ -411,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Dostosuj…">
 <!ENTITY viewCustomizeToolbar.accesskey     "t">
+
 <!ENTITY overflowCustomizeToolbar.label       "Dostosuj pasek narzędzi…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "D">
 
@@ -901,54 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otwórz ustawienia blokowania treści">
 
 
-<!ENTITY protections.etpON.header "Wzmocniona ochrona przed śledzeniem jest włączona na tej witrynie">
-<!ENTITY protections.etpOFF.header "Wzmocniona ochrona przed śledzeniem jest wyłączona na tej witrynie">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Więcej informacji o wzmocnionej ochronie przed śledzeniem">
-<!ENTITY protections.settings.label "Ustawienia ochrony">
-<!ENTITY protections.showreport.label "Wyświetl raport">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Strona nie działa?">
-<!ENTITY protections.siteNotWorkingView.title "Strona nie działa?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Wyłącz ochronę, jeśli masz problemy z:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "polami logowania">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "formularzami">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "płatnościami">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "komentarzami">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "filmami">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Wyślij zgłoszenie">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Zablokowane">
-<!ENTITY protections.notBlocking2.label "Dopuszczone">
-<!ENTITY protections.notFound.label "Niewykryte">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Dlaczego?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokowanie tych elementów może powodować niepoprawne działanie niektórych stron. Bez elementów śledzących niektóre przyciski, formularze i pola logowania mogą nie działać.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Wszystkie elementy śledzące na tej stronie zostały wczytane, ponieważ ochrona jest wyłączona.">
-<!ENTITY protections.noTrackersFound.description "&brandShortName; nie wykrył na tej stronie znanych elementów śledzących.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Te ciasteczka śledzą Cię od strony do strony w celu zbierania danych o tym, co robisz w Internecie. Są umieszczane przez zewnętrzne firmy, takie jak agencje reklamowe i firmy analityczne.">
-<!ENTITY protections.cryptominers.description "Te elementy wykorzystują moc obliczeniową Twojego komputera do generowania cyfrowych walut. Skrypty generujące kryptowaluty rozładowują baterię, spowalniają komputer i mogą zwiększyć rachunek za prąd.">
-<!ENTITY protections.fingerprinters.description "Te elementy zbierają ustawienia przeglądarki i komputera, aby utworzyć profil użytkownika. Za pomocą tego cyfrowego odcisku palca mogą śledzić Cię między różnymi witrynami.">
-<!ENTITY protections.trackingContent2.description "Witryny mogą wczytywać zewnętrzne reklamy, filmy i inne treści z elementami śledzącymi. Blokowanie ich może przyspieszyć wczytywanie stron, ale niektóre przyciski, formularze i pola logowania mogą działać niepoprawnie.">
-<!ENTITY protections.socialMediaTrackers.description "Serwisy społecznościowe umieszczają elementy śledzące na innych witrynach, aby śledzić co robisz, widzisz i oglądasz w Internecie. Dzięki temu ich właściciele wiedzą o Tobie więcej, niż udostępniasz w ich serwisach.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty przeglądarki">
@@ -993,13 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Ciasteczka">
 <!ENTITY contentBlocking.cookiesView.label "Ciasteczka i dane stron">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Treści z elementami śledzącymi">
-
-<!ENTITY contentBlocking.manageSettings2.label "Zarządzaj ustawieniami ochrony">
-<!ENTITY contentBlocking.manageSettings2.accesskey "Z">
-
-<!ENTITY contentBlocking.socialblock.label "Elementy śledzące serwisów społecznościowych">
-
 <!ENTITY contentBlocking.cryptominers.label "Elementy używające komputera użytkownika do generowania kryptowalut">
 <!ENTITY contentBlocking.cryptominersView.label "Elementy używające komputera użytkownika do generowania kryptowalut">
 
@@ -1011,12 +957,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Blokowanie treści może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program &brandShortName; (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Więcej informacji">
 
-<!ENTITY contentBlocking.breakageReportView.title "Zgłoś niepoprawnie działającą stronę">
-<!ENTITY contentBlocking.breakageReportView3.description "Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program &brandShortName; (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli).">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Więcej informacji">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres URL problematycznej strony">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Jakie problemy wystąpiły? (opcjonalnie)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opcjonalnie: opisz problem">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Wyślij zgłoszenie">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Anuluj">
 

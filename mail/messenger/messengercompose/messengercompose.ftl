@@ -10,16 +10,6 @@ remove-address-row-type = Usuń adresy z pola „{ $type }”
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Puste pole „{ $type }”
-        [one] Pole „{ $type }” z jednym adresem
-        [few] Pole „{ $type }” z { $count } adresami
-       *[many] Pole „{ $type }” z { $count } adresami
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -52,3 +42,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Przenieś do pola „Ukryta kopia”
     .accesskey = U
+

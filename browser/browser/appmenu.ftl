@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Ochrona prywatności
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Otwórz raport prywatności
+
 appmenuitem-customize-mode =
     .label = Dostosuj…
 
