@@ -81,22 +81,56 @@ update-in-progress-cancel-button = &Συνέχεια
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
+general-legend = Αρχική σελίδα του { -brand-short-name }
 location-label =
     .value = Τοποθεσία:
     .accesskey = ο
+restore-default-label =
+    .label = Επαναφορά προεπιλογής
+    .accesskey = π
 default-search-engine = Προεπιλεγμένη μηχανή αναζήτησης
 new-message-arrival = Όταν φθάνουν νέα μηνύματα:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Αναπαραγωγή του ακόλουθου αρχείου ήχου:
+           *[other] Αναπαραγωγή ήχου
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] δ
+           *[other] π
+        }
 mail-play-button =
     .label = Αναπαραγωγή
     .accesskey = π
 change-dock-icon = Αλλαγή προτιμήσεων για το εικονίδιο της εφαρμογής
+app-icon-options =
+    .label = Επιλογές εικονιδίου εφαρμογής…
+    .accesskey = Ε
+animated-alert-label =
+    .label = Εμφάνιση ειδοποίησης
+    .accesskey = φ
 customize-alert-label =
     .label = Προσαρμογή…
+    .accesskey = μ
+tray-icon-label =
+    .label = Εμφάνιση εικονιδίου στη γραμμή
     .accesskey = μ
 mail-custom-sound-label =
     .label = Χρήση του ακόλουθου αρχείου ήχου
     .accesskey = Χ
+enable-gloda-search-label =
+    .label = Ενεργοποίηση καθολικής αναζήτησης και ευρετηριοποίησης
+    .accesskey = γ
 datetime-formatting-legend = Μορφή ημερομηνίας και ώρας
+allow-hw-accel =
+    .label = Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη
+    .accesskey = υ
 store-type-label =
     .value = Τύπος αποθήκευσης μηνυμάτων για νέους λογαριασμούς:
     .accesskey = Τ
@@ -112,6 +146,12 @@ smooth-scrolling-label =
     .label = Χρήση ομαλής κύλισης
     .accesskey = ο
 system-integration-legend = Ενσωμάτωση συστήματος
+always-check-default =
+    .label = Πάντα έλεγχος στην εκκίνηση για το αν το { -brand-short-name } είναι το προεπιλεγμένο πρόγραμμα αλληλογραφίας
+    .accesskey = λ
+check-default-button =
+    .label = Έλεγχος τώρα…
+    .accesskey = τ
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -120,6 +160,17 @@ search-engine-name =
         [windows] Αναζήτηση των Windows
        *[other] { "" }
     }
+search-integration-label =
+    .label = Να επιτρέπεται στην { search-engine-name } η αναζήτηση μηνυμάτων
+    .accesskey = π
+config-editor-button =
+    .label = Επεξεργασία ρυθμίσεων…
+    .accesskey = θ
+return-receipts-description = Καθορίστε τον τρόπο διαχείρισης των βεβαιώσεων ανάγνωσης από το { -brand-short-name }
+update-app-legend = Ενημερώσεις { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Έκδοση { $version }
 automatic-updates-label =
     .label = Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται: αυξημένη ασφάλεια)
     .accesskey = Α
@@ -168,7 +219,18 @@ default-font-label =
 default-size-label =
     .value = Μέγεθος:
     .accesskey = θ
+font-options-button =
+    .label = Για προχωρημένους…
+    .accesskey = μ
+color-options-button =
+    .label = Χρώματα…
+    .accesskey = ρ
 display-width-legend = Μηνύματα απλού κειμένου
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Εμφάνιση emoticons ως γραφικά στοιχεία
+    .accesskey = φ
+display-text-label = Κατά την προβολή μηνυμάτων απλού κειμένου σε παράθεση:
 regular-style-item =
     .label = Κανονικά
 bold-style-item =
@@ -180,6 +242,12 @@ bold-italic-style-item =
 size-label =
     .value = Μέγεθος:
     .accesskey = θ
+regular-size-item =
+    .label = Κανονικό
+bigger-size-item =
+    .label = Μεγαλύτερο
+smaller-size-item =
+    .label = Μικρότερο
 quoted-text-color =
     .label = Χρώμα:
     .accesskey = Χ
@@ -197,12 +265,19 @@ save-to-label =
 always-ask-label =
     .label = Πάντα ερώτηση για την τοποθεσία αποθήκευσης
     .accesskey = Π
+display-tags-text = Οι ετικέτες μπορούν να χρησιμοποιηθούν για την ταξινόμηση και τον καθορισμό προτεραιότητας των μηνυμάτων σας.
 new-tag-button =
     .label = Νέα…
     .accesskey = Ν
 delete-tag-button =
     .label = Διαγραφή
     .accesskey = φ
+auto-mark-as-read =
+    .label = Αυτόματη επισήμανση μηνυμάτων ως αναγνωσμένα
+    .accesskey = Α
+mark-read-no-delay =
+    .label = Άμεσα κατά την προβολή
+    .accesskey = μ
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -222,14 +297,24 @@ open-msg-window =
 open-msg-ex-window =
     .label = Υπάρχον παράθυρο μηνύματος
     .accesskey = υ
+close-move-delete =
+    .label = Κλείσιμο παραθύρου/καρτέλας μηνύματος μετά από μετακίνηση ή διαγραφή
+    .accesskey = Κ
 display-name-label =
     .value = Εμφανιζόμενο όνομα:
+condensed-addresses-label =
+    .label = Εμφάνιση μόνο του ονόματος εμφάνισης για τα άτομα στο ευρετήριο διευθύνσεών μου
+    .accesskey = ε
 
 ## Compose Tab
 
 forward-label =
     .value = Προώθηση μηνυμάτων:
     .accesskey = θ
+inline-label =
+    .label = Εντός μηνύματος
+as-attachment-label =
+    .label = Ως συνημμένο
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -241,9 +326,15 @@ auto-save-end = λεπτά
 
 ##
 
+warn-on-send-accel-key =
+    .label = Επιβεβαίωση πριν την αποστολή μηνύματος όταν γίνεται χρήση συντομεύσεων πληκτρολογίου
+    .accesskey = β
 spellcheck-label =
     .label = Ορθογραφικός έλεγχος πριν την αποστολή
     .accesskey = θ
+spellcheck-inline-label =
+    .label = Ορθογραφικός ελέγχος κατά την πληκτρολόγηση
+    .accesskey = υ
 language-popup-label =
     .value = Γλώσσα:
     .accesskey = λ
@@ -254,10 +345,20 @@ font-label =
 font-color-label =
     .value = Χρώμα κειμένου:
     .accesskey = Χ
+bg-color-label =
+    .value = Χρώμα φόντου:
+    .accesskey = ρ
 restore-html-label =
     .label = Επαναφορά προεπιλογών
     .accesskey = φ
+default-format-label =
+    .label = Χρήση της μορφής παραγράφου αντί του μορφής κειμένου κύριου μέρους από προεπιλογή
+    .accesskey = π
 format-description = Ρύθμιση συμπεριφοράς μορφής κειμένου
+send-options-label =
+    .label = Επιλογές αποστολής…
+    .accesskey = σ
+autocomplete-description = Κατά τη διευθυνσιοδότηση μηνυμάτων, αναζήτηση για αντίστοιχες καταχωρήσεις σε:
 ab-label =
     .label = Τοπικά ευρετήρια διευθύνσεων
     .accesskey = ο
@@ -266,29 +367,107 @@ directories-label =
     .accesskey = κ
 directories-none-label =
     .none = Κανένας
+edit-directories-label =
+    .label = Επεξεργασία καταλόγων…
+    .accesskey = Ε
+email-picker-label =
+    .label = Αυτόματη προσθήκη των εξερχομένων διευθύνσεων e-mail σε:
+    .accesskey = τ
 default-last-label =
     .none = Τελευταία χρησιμοποιημένος κατάλογος
+attachment-label =
+    .label = Έλεγχος για συνημμένα που λείπουν
+    .accesskey = γ
 attachment-options-label =
     .label = Λέξεις-κλειδιά…
     .accesskey = κ
+enable-cloud-share =
+    .label = Πρόταση για κοινή χρήση αρχείων, μεγαλύτερων από
+cloud-share-size =
+    .value = MB
+add-cloud-account =
+    .label = Προσθήκη…
+    .accesskey = Π
+    .defaultlabel = Προσθήκη…
+remove-cloud-account =
+    .label = Αφαίρεση
+    .accesskey = R
+cloud-account-description = Προσθήκη νέας υπηρεσίας αποθηκευτικού χώρου Filelink
 
 ## Privacy Tab
 
+mail-content = Περιεχόμενο email
 remote-content-label =
     .label = Να επιτρέπεται το απομακρυσμένο περιεχόμενο στα μηνύματα
     .accesskey = π
 exceptions-button =
     .label = Εξαιρέσεις…
     .accesskey = Ε
+remote-content-info =
+    .value = Μάθετε περισσότερα σχετικά με τα θέματα απορρήτου του απομακρυσμένου περιεχομένου
+web-content = Διαδικτυακό περιεχόμενο
+history-label =
+    .label = Απομνημόνευση ιστοσελίδων και συνδέσμων που έχω επισκεφθεί
+    .accesskey = ι
+third-party-label =
+    .value = Αποδοχή cookies τρίτων:
+    .accesskey = τ
 third-party-always =
     .label = Πάντα
 third-party-never =
     .label = Ποτέ
+third-party-visited =
+    .label = Από τις επισκέψεις
+keep-label =
+    .value = Διατήρηση μέχρι:
+    .accesskey = δ
+keep-expire =
+    .label = να λήξουν
 keep-close =
     .label = το κλείσιμο του { -brand-short-name }
+keep-ask =
+    .label = να γίνεται ερώτηση κάθε φορά
+cookies-button =
+    .label = Εμφάνιση cookies…
+    .accesskey = φ
 do-not-track-label =
     .label = Αποστολή σήματος “Αποτροπή καταγραφής” που σημαίνει ότι δεν θέλετε να καταγράφεστε από τις ιστοσελίδες
     .accesskey = n
+passwords-description = Το { -brand-short-name } μπορεί να απομνημονεύσει τους κωδικούς πρόσβασης όλων των λογαριασμών σας.
+passwords-button =
+    .label = Αποθηκευμένοι κωδικοί πρόσβασης…
+    .accesskey = θ
+master-password-description = Ο κύριος κωδικός πρόσβασης προστατεύει όλους τους κωδικούς πρόσβασής σας, αλλά θα πρέπει να τον εισαγάγετε σε κάθε συνεδρία.
+master-password-label =
+    .label = Χρήση κύριου κωδικού πρόσβασης
+    .accesskey = ρ
+junk-description = Καθορίστε τις προεπιλεγμένες ρυθμίσεις ανεπιθύμητης αλληλογραφίας. Οι ρυθμίσεις για συγκεκριμένους λογαριασμούς μπορούν να τροποποιηθούν στις ρυθμίσεις λογαριασμού.
+junk-label =
+    .label = Όταν επισημαίνεται ως ανεπιθύμητο ένα μήνυμα:
+    .accesskey = σ
+junk-move-label =
+    .label = Μετακίνηση στο φάκελο "Ανεπιθύμητα" του λογαριασμού
+    .accesskey = θ
+junk-delete-label =
+    .label = Διαγραφή
+    .accesskey = δ
+junk-read-label =
+    .label = Επισήμανση ανεπιθύμητων μηνυμάτων ως αναγνωσμένα
+    .accesskey = μ
+junk-log-label =
+    .label = Ενεργοποίηση καταγραφής προσαρμοστικού φίλτρου ανεπιθύμητων
+    .accesskey = γ
+junk-log-button =
+    .label = Εμφάνιση αρχείου καταγραφής
+    .accesskey = φ
+phishing-description = Το { -brand-short-name } μπορεί να αναλύει τα μηνύματα για πιθανές απάτες email, αναζητώντας κοινές πρακτικές που χρησιμοποιούνται για παραπλάνηση.
+phishing-label =
+    .label = Ειδοποίηση αν το τρέχον μήνυμα είναι ύποπτο για απάτη email
+    .accesskey = δ
+antivirus-description = Το { -brand-short-name } μπορεί να διευκολύνει το λογισμικό προστασίας από ιούς στην ανάλυση των εισερχομένων σας για ιούς πριν την τοπική αποθήκευση.
+antivirus-label =
+    .label = Να επιτρέπεται στο λογισμικό προστασίας από ιούς η απομόνωση ξεχωριστών εισερχόμενων μηνυμάτων
+    .accesskey = ρ
 certificate-description = Όταν ένας διακομιστής ζητά ένα πιστοποιητικό:
 certificate-auto =
     .label = Να επιλέγεται ένα αυτόματα
@@ -305,6 +484,10 @@ ocsp-label =
 startup-label =
     .value = Κατά την εκκίνηση του { -brand-short-name }:
     .accesskey = ε
+offline-label =
+    .label = Διατήρηση λογαριασμών συνομιλίας εκτός σύνδεσης
+auto-connect-label =
+    .label = Αυτόματη σύνδεση λογαριασμών συνομιλίας
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -322,9 +505,19 @@ idle-time-label = λεπτά αδράνειας
 away-message-label =
     .label = και να ορίζεται η κατάσταση μου σε Μακρυά με αυτό το μήνυμα κατάστασης:
     .accesskey = υ
+send-typing-label =
+    .label = Αποστολή ειδοποιήσεων πληκτρολόγησης στις συνομιλίες
+    .accesskey = σ
 notification-label = Όταν έρχονται μηνύματα που απευθύνονται σε εσάς:
+show-notification-label =
+    .label = Εμφάνιση ειδοποίησης:
+    .accesskey = ε
 notification-all =
     .label = με το όνομα του αποστολέα και μια προεπισκόπηση του μηνύματος
+notification-name =
+    .label = μόνο με το όνομα του αποστολέα
+notification-empty =
+    .label = χωρίς καμία πληροφορία
 notification-type-label =
     .label =
         { PLATFORM() ->
@@ -339,6 +532,34 @@ notification-type-label =
 chat-play-button =
     .label = Αναπαραγωγή
     .accesskey = Α
+chat-system-sound-label =
+    .label = Προεπιλεγμένος ήχος συστήματος για νέο email
+    .accesskey = ρ
+chat-custom-sound-label =
+    .label = Χρήση του ακόλουθου αρχείου ήχου
+    .accesskey = χ
+theme-label =
+    .value = Θέμα:
+    .accesskey = Θ
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Φούσκες
+style-dark =
+    .label = Σκούρο
+style-paper =
+    .label = Φύλλα χαρτιού
+style-simple =
+    .label = Απλό
+preview-label = Προεπισκόπηση:
+no-preview-label = Μη διαθέσιμη προεπισκόπιση
+no-preview-description = Αυτό το θέμα δεν είναι έγκυρο ή διαθέσιμο αυτή τη στιγμή (ανενεργό πρόσθετο, ασφαλής λειτουργία, …).
+chat-variant-label =
+    .value = Παραλλαγή:
+    .accesskey = Π
+chat-header-label =
+    .label = Εμφάνιση επικεφαλίδας
+    .accesskey = Ε
 
 ## Preferences UI Search Results
 
