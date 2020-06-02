@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "E">
 <!ENTITY newAddressBookCmd.label                        "Adressebok …">
 <!ENTITY newAddressBookCmd.accesskey                    "d">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV-adressebok...">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog …">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newMessageCmd.label                            "Melding">
