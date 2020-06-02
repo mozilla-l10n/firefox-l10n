@@ -106,6 +106,7 @@ enable-gloda-search-label =
     .label = فعّل البحث العمومي والفهرسة
     .accesskey = ف
 datetime-formatting-legend = تنسيق التاريخ و الوقت
+language-selector-legend = اللغة
 allow-hw-accel =
     .label = استخدم تسريع العتاد إن كان متاحًا
     .accesskey = ع
@@ -560,6 +561,9 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = تصفّح…
     .accesskey = ف
+theme-label =
+    .value = السمة:
+    .accesskey = س
 style-bubbles =
     .label = فقاعات
 style-dark =
@@ -569,7 +573,14 @@ style-paper =
 style-simple =
     .label = بسيط
 preview-label = المعاينة:
+no-preview-label = لا معاينة متوفرة
 no-preview-description = ليست هذه السمة صحيحة أو ربما غير متاحة حاليًا (إضافة معطلة، صنعتها بنفسك، …).
+chat-variant-label =
+    .value = التنويعة:
+    .accesskey = ع
+chat-header-label =
+    .label = اعرض الترويسة
+    .accesskey = ت
 
 ## Preferences UI Search Results
 
