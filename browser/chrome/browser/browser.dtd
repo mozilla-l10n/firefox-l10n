@@ -285,10 +285,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "您已阻止此网站访问 MIDI。">
 <!ENTITY urlbar.installBlocked.tooltip           "您已阻止此网站安装附加组件。">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此站点更多权限。">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "显示历史">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此站点更多权限。">
 
 
 <!ENTITY searchItem.title             "搜索">
@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "定制…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "定制工具栏…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
@@ -883,54 +884,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "打开内容拦截首选项">
 
 
-<!ENTITY protections.etpON.header "对此网站已开启增强型跟踪保护">
-<!ENTITY protections.etpOFF.header "对此网站已关闭增强型跟踪保护">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "关于增强型跟踪保护功能的更多信息">
-<!ENTITY protections.settings.label "保护设置">
-<!ENTITY protections.showreport.label "显示报告">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "网站不正常？">
-<!ENTITY protections.siteNotWorkingView.title "网站不正常？">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "请关闭保护，若您遇到以下问题：">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "登录栏">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "表单">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "支付">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "评论">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "视频">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "发送反馈">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "已拦截">
-<!ENTITY protections.notBlocking2.label "已允许">
-<!ENTITY protections.notFound.label "未检测到">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "为什么？">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "拦截这些内容可能导致某些网站上的元素异常。若无跟踪器，某些按钮、表单、登录栏可能无法正常工作。">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "隐私保护处于关闭状态，已载入此网站的所有跟踪器。">
-<!ENTITY protections.noTrackersFound.description "此页面上未检测到 &brandShortName; 已知的跟踪器。">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。">
-<!ENTITY protections.cryptominers.description "加密货币挖矿程序使用您的计算机算力来“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。">
-<!ENTITY protections.fingerprinters.description "数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。">
-<!ENTITY protections.trackingContent2.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录栏可能无法正常工作。">
-<!ENTITY protections.socialMediaTrackers.description "社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "浏览器标签页">
@@ -975,13 +928,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie 和网站数据">
 
-<!ENTITY contentBlocking.trackingProtection4.label "跟踪性内容">
-
-<!ENTITY contentBlocking.manageSettings2.label "管理保护设置">
-<!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
-<!ENTITY contentBlocking.socialblock.label "社交媒体跟踪器">
-
 <!ENTITY contentBlocking.cryptominers.label "加密货币挖矿程序">
 <!ENTITY contentBlocking.cryptominersView.label "加密货币挖矿程序">
 
@@ -993,12 +939,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "内容拦截可能导致某些网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。这将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
 <!ENTITY contentBlocking.breakageReportView.learnMore "详细了解">
 
-<!ENTITY contentBlocking.breakageReportView.title "反馈网站问题">
-<!ENTITY contentBlocking.breakageReportView3.description "拦截某些跟踪器可能导致部分网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。发送反馈将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "详细了解">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "网址">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到了什么问题？（可选）">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "描述问题（选填）：">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "发送反馈">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "取消">
 
