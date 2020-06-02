@@ -95,18 +95,33 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Procurar…
     .accesskey = P
+return-receipts-description = Determine como o { -brand-short-name } trata as confirmações de leitura.
+return-receipts-button =
+    .label = Confirmações de leitura…
+    .accesskey = C
 use-service =
     .label = Usar um serviço em segundo plano para instalar atualizações
     .accesskey = s
 networking-legend = Conexão
+proxy-config-description = Determine como o { -brand-short-name } conecta-se à internet.
+network-settings-button =
+    .label = Configurar conexão…
+    .accesskey = C
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Usar no máximo
+    .accesskey = s
+use-cache-after = MB de espaço para o cache
 
 ##
 
+clear-cache-button =
+    .label = Limpar cache agora
+    .accesskey = L
 display-width-legend = Mensagens sem formatação
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
