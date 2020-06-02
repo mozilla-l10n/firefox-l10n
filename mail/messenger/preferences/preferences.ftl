@@ -86,17 +86,73 @@ focus-search-shortcut =
     .key = f
 focus-search-shortcut-alt =
     .key = k
+general-legend = หน้าเริ่มต้นของ { -brand-short-name }
+start-page-label =
+    .label = เมื่อ { -brand-short-name } เริ่มทำงานแล้ว ให้แสดงหน้าเริ่มต้นในพื้นที่ข้อความ
+    .accesskey = ม
+location-label =
+    .value = ตำแหน่งที่ตั้ง:
+    .accesskey = ต
+restore-default-label =
+    .label = เรียกคืนค่าเริ่มต้น
+    .accesskey = ร
+default-search-engine = เครื่องมือค้นหาเริ่มต้น
 add-search-engine =
     .label = เพิ่มจากไฟล์
     .accesskey = พ
 remove-search-engine =
     .label = เอาออก
     .accesskey = อ
+new-message-arrival = เมื่อมีข้อความใหม่มาถึง:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] เล่นไฟล์เสียงดังต่อไปนี้:
+           *[other] เล่นเสียง
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] น
+           *[other] น
+        }
+mail-play-button =
+    .label = เล่น
+    .accesskey = ล
+change-dock-icon = เปลี่ยนการตั้งค่าสำหรับไอคอนแอป
+app-icon-options =
+    .label = ตัวเลือกไอคอนแอป…
+    .accesskey = ไ
+notification-settings = สามารถปิดใช้งานเสียงการแจ้งเตือนและ่าเริ่มต้นได้บนบานหน้าต่างการแจ้งเตือนในค่ากำหนดระบบ
+animated-alert-label =
+    .label = แสดงการแจ้งเตือน
+    .accesskey = แ
+customize-alert-label =
+    .label = ปรับแต่ง…
+    .accesskey = ป
+tray-icon-label =
+    .label = แสดงไอคอนถาด
+    .accesskey = ถ
+mail-custom-sound-label =
+    .label = ใช้ไฟล์เสียงดังต่อไปนี้
+    .accesskey = ช
+mail-browse-sound-button =
+    .label = เรียกดู…
+    .accesskey = เ
+enable-gloda-search-label =
+    .label = เปิดใช้งานการค้นหาส่วนกลางและตัวทำดัชนี
+    .accesskey = ป
 datetime-formatting-legend = การจัดรูปแบบวันที่และเวลา
 language-selector-legend = ภาษา
 allow-hw-accel =
     .label = ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อพร้อมใช้งาน
     .accesskey = ช
+store-type-label =
+    .value = ชนิดการเก็บข้อความสำหรับบัญชีใหม่:
+    .accesskey = น
+mbox-store-label =
+    .label = ไฟล์ต่อโฟลเดอร์ (mbox)
+maildir-store-label =
+    .label = ไฟล์ต่อข้อความ (maildir)
 scrolling-legend = การเลื่อน
 autoscroll-label =
     .label = ใช้การเลื่อนอัตโนมัติ
@@ -105,24 +161,73 @@ smooth-scrolling-label =
     .label = ใช้การเลื่อนแบบลื่นไหล
     .accesskey = ก
 system-integration-legend = การผนวกรวมระบบ
+always-check-default =
+    .label = ตรวจสอบเสมอว่า { -brand-short-name } เป็นไคลเอนต์จดหมายเริ่มต้นหรือไม่เมื่อเริ่มต้น
+    .accesskey = ต
 check-default-button =
     .label = ตรวจสอบตอนนี้…
     .accesskey = ต
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Search
+       *[other] { "" }
+    }
 search-integration-label =
     .label = อนุญาตให้ { search-engine-name } ค้นหาข้อความ
     .accesskey = อ
 config-editor-button =
     .label = ตัวแก้ไขการกำหนดค่า…
     .accesskey = ว
+return-receipts-description = กำหนดวิธีที่ { -brand-short-name } จัดการการแจ้งเตือนการเปิดอ่าน
+return-receipts-button =
+    .label = การแจ้งเตือนการเปิดอ่าน…
+    .accesskey = ก
 update-app-legend = การอัปเดต { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = รุ่น { $version }
+allow-description = อนุญาตให้ { -brand-short-name }
+automatic-updates-label =
+    .label = ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)
+    .accesskey = ต
+check-updates-label =
+    .label = ตรวจสอบการอัปเดต แต่ให้ฉันเลือกว่าจะติดตั้งหรือไม่
+    .accesskey = ร
+update-history-button =
+    .label = แสดงประวัติการอัปเดต
+    .accesskey = ส
+use-service =
+    .label = ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต
+    .accesskey = ช
+cross-user-udpate-warning = การตั้งค่านี้จะนำไปใช้กับบัญชี Windows ทั้งหมดและโปรไฟล์ { -brand-short-name } ที่ใช้ { -brand-short-name } รุ่นที่ติดตั้งนี้
 networking-legend = การเชื่อมต่อ
+proxy-config-description = กำหนดค่าวิธีที่ { -brand-short-name } เชื่อมต่อกับอินเทอร์เน็ต
+network-settings-button =
+    .label = การตั้งค่า…
+    .accesskey = ก
 offline-legend = ออฟไลน์
 offline-settings = กำหนดค่าการตั้งค่าออฟไลน์
+offline-settings-button =
+    .label = ออฟไลน์…
+    .accesskey = อ
+diskspace-legend = เนื้อที่ดิสก์
+offline-compact-folder =
+    .label = กระชับโฟลเดอร์ทั้งหมดเมื่อสามารถประหยัดได้มากกว่า
+    .accesskey = ก
+compact-folder-size =
+    .value = MB ของขนาดรวม
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = ใช้ถึง
+    .accesskey = ช
+use-cache-after = MB ของพื้นที่สำหรับแคช
 
 ##
 
@@ -132,13 +237,53 @@ smart-cache-label =
 clear-cache-button =
     .label = ล้างตอนนี้
     .accesskey = ล
+fonts-legend = แบบอักษรและสี
+default-font-label =
+    .value = แบบอักษรเริ่มต้น:
+    .accesskey = บ
+default-size-label =
+    .value = ขนาด:
+    .accesskey = ข
+font-options-button =
+    .label = ขั้นสูง…
+    .accesskey = น
+color-options-button =
+    .label = สี…
+    .accesskey = ส
+display-width-legend = ข้อความตัวอักษรธรรมดา
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = แสดงไอคอนสื่ออารมณ์เป็นกราฟิก
+    .accesskey = แ
+display-text-label = เมื่อแสดงข้อความตัวอักษรธรรมดาที่ถูกอ้างอิง:
 style-label =
     .value = ลักษณะ:
     .accesskey = ล
+regular-style-item =
+    .label = ธรรมดา
+bold-style-item =
+    .label = ตัวหนา
+italic-style-item =
+    .label = ตัวเอียง
+bold-italic-style-item =
+    .label = ตัวเอียงหนา
+size-label =
+    .value = ขนาด:
+    .accesskey = ข
+regular-size-item =
+    .label = ธรรมดา
+bigger-size-item =
+    .label = ใหญ่
 smaller-size-item =
     .label = เล็กลง
+quoted-text-color =
+    .label = สี:
+    .accesskey = ส
 search-input =
     .placeholder = ค้นหา
+type-column-label =
+    .label = ชนิดเนื้อหา
+    .accesskey = ช
 action-column-label =
     .label = การกระทำ
     .accesskey = ก
@@ -156,25 +301,147 @@ choose-folder-label =
             [macos] ล
            *[other] ร
         }
+always-ask-label =
+    .label = ถามฉันเสมอว่าจะบันทึกไฟล์ที่ไหน
+    .accesskey = ถ
+display-tags-text = สามารถใช้แท็กเพื่อจัดหมวดหมู่และลำดับความสำคัญของข้อความของคุณได้
+new-tag-button =
+    .label = ใหม่…
+    .accesskey = ม
+edit-tag-button =
+    .label = แก้ไข…
+    .accesskey = ก
+delete-tag-button =
+    .label = ลบ
+    .accesskey = ล
+auto-mark-as-read =
+    .label = ทำเครื่องหมายข้อความว่าอ่านแล้วโดยอัตโนมัติ
+    .accesskey = ท
+mark-read-no-delay =
+    .label = ทันทีที่แสดง
+    .accesskey = แ
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = หลังจากแสดงไปแล้ว
+    .accesskey = ล
+seconds-label = วินาที
 
 ##
 
+open-msg-label =
+    .value = เปิดข้อความใน:
+open-msg-tab =
+    .label = แท็บใหม่
+    .accesskey = บ
+open-msg-window =
+    .label = หน้าต่างข้อความใหม่
+    .accesskey = ห
+open-msg-ex-window =
+    .label = หน้าต่างข้อความที่มีอยู่
+    .accesskey = น
+close-move-delete =
+    .label = ปิดหน้าต่าง/แท็บข้อความเมื่อย้ายหรือลบ
+    .accesskey = ป
 display-name-label =
     .value = ชื่อที่แสดง:
+condensed-addresses-label =
+    .label = แสดงเฉพาะชื่อที่แสดงสำหรับผู้คนในสมุดรายชื่อของฉัน
+    .accesskey = ส
 
 ## Compose Tab
 
+forward-label =
+    .value = ส่งต่อข้อความ:
+    .accesskey = ส
+inline-label =
+    .label = แบบอินไลน์
+as-attachment-label =
+    .label = เป็นไฟล์แนบ
+extension-label =
+    .label = เติมนามสกุลให้กับชื่อไฟล์
+    .accesskey = ต
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = บันทึกอัตโนมัติทุก ๆ
+    .accesskey = บ
+auto-save-end = นาที
 
 ##
 
+warn-on-send-accel-key =
+    .label = ยืนยันเมื่อใช้แป้นพิมพ์ลัดเพื่อส่งข้อความ
+    .accesskey = ย
+spellcheck-label =
+    .label = ตรวจสอบการสะกดคำก่อนส่ง
+    .accesskey = ต
+spellcheck-inline-label =
+    .label = เปิดใช้งานการตรวจสอบการสะกดคำเมื่อคุณพิมพ์
+    .accesskey = ป
+language-popup-label =
+    .value = ภาษา:
+    .accesskey = ภ
+download-dictionaries-link = ดาวน์โหลดพจนานุกรมเพิ่มเติม
+font-label =
+    .value = แบบอักษร:
+    .accesskey = บ
+font-size-label =
+    .value = ขนาด:
+    .accesskey = ข
+default-colors-label =
+    .label = ใช้สีเริ่มต้นของตัวอ่าน
+    .accesskey = ช
+font-color-label =
+    .value = สีข้อความ:
+    .accesskey = อ
+bg-color-label =
+    .value = สีพื้นหลัง:
+    .accesskey = พ
+restore-html-label =
+    .label = เรียกคืนค่าเริ่มต้น
+    .accesskey = ร
+default-format-label =
+    .label = ใช้รูปแบบย่อหน้าแทนข้อความเนื้อความโดยค่าเริ่มต้น
+    .accesskey = ช
+format-description = กำหนดค่าลักษณะการทำงานของรูปแบบข้อความ
+send-options-label =
+    .label = ตัวเลือกการส่ง…
+    .accesskey = ว
+autocomplete-description = เมื่อกำหนดที่อยู่ของข้อความ ให้มองหารายการที่ตรงกันใน:
+ab-label =
+    .label = สมุดรายชื่อในเครื่อง
+    .accesskey = ส
+directories-label =
+    .label = เซิร์ฟเวอร์ไดเรกทอรี:
+    .accesskey = เ
+directories-none-label =
+    .none = ไม่มี
+edit-directories-label =
+    .label = แก้ไขไดเรกทอรี…
+    .accesskey = ก
+email-picker-label =
+    .label = เพิ่มที่อยู่อีเมลขาออกไปยังตำแหน่งนี้โดยอัตโนมัติ:
+    .accesskey = ม
+default-directory-label =
+    .value = ไดเรกทอรีเริ่มต้นในหน้าต่างสมุดรายชื่อ:
+    .accesskey = ไ
+default-last-label =
+    .none = ไดเรกทอรีที่ใช้ล่าสุด
+attachment-label =
+    .label = ตรวจสอบไฟล์แนบที่หายไป
+    .accesskey = ต
+attachment-options-label =
+    .label = คำสำคัญ…
+    .accesskey = ค
+enable-cloud-share =
+    .label = เสนอให้แบ่งปันไฟล์ที่มีขนาดใหญ่กว่า
+cloud-share-size =
+    .value = MB
 add-cloud-account =
     .label = เพิ่ม…
     .accesskey = พ
@@ -182,6 +449,9 @@ add-cloud-account =
 remove-cloud-account =
     .label = เอาออก
     .accesskey = อ
+find-cloud-providers =
+    .value = ค้นหาผู้ให้บริการเพิ่มเติม…
+cloud-account-description = เพิ่มบริการที่เก็บข้อมูล Filelink ใหม่
 
 ## Privacy Tab
 
@@ -189,7 +459,85 @@ mail-content = เนื้อหาจดหมาย
 remote-content-label =
     .label = อนุญาตเนื้อหาระยะไกลในข้อความ
     .accesskey = อ
+exceptions-button =
+    .label = ข้อยกเว้น…
+    .accesskey = เ
+remote-content-info =
+    .value = เรียนรู้เพิ่มเติมเกี่ยวกับปัญหาความเป็นส่วนตัวของเนื้อหาระยะไกล
 web-content = เนื้อหาเว็บ
+history-label =
+    .label = จดจำเว็บไซต์และลิงก์ที่ฉันเคยเยี่ยมชม
+    .accesskey = จ
+cookies-label =
+    .label = ยอมรับคุกกี้จากไซต์
+    .accesskey = ย
+third-party-label =
+    .value = ยอมรับคุกกี้จากบุคคลที่สาม:
+    .accesskey = ม
+third-party-always =
+    .label = เสมอ
+third-party-never =
+    .label = ไม่เลย
+third-party-visited =
+    .label = จากที่เยี่ยมชม
+keep-label =
+    .value = เก็บจนกระทั่ง:
+    .accesskey = ก
+keep-expire =
+    .label = คุกกี้หมดอายุ
+keep-close =
+    .label = ฉันปิด { -brand-short-name }
+keep-ask =
+    .label = ถามฉันทุกครั้ง
+cookies-button =
+    .label = แสดงคุกกี้…
+    .accesskey = ส
+do-not-track-label =
+    .label = ส่งสัญญาณ “ไม่ติดตาม” ให้กับเว็บไซต์ว่าคุณไม่ต้องการถูกติดตาม
+    .accesskey = ง
+learn-button =
+    .label = เรียนรู้เพิ่มเติม
+passwords-description = { -brand-short-name } สามารถจดจำรหัสผ่านสำหรับบัญชีทั้งหมดของคุณ
+passwords-button =
+    .label = รหัสผ่านที่บันทึกไว้…
+    .accesskey = ร
+master-password-description = รหัสผ่านหลักจะปกป้องรหัสผ่านทั้งหมดของคุณ แต่คุณต้องป้อนเพียงวาระละหนึ่งครั้งเท่านั้น
+master-password-label =
+    .label = ใช้รหัสผ่านหลัก
+    .accesskey = ช
+master-password-button =
+    .label = เปลี่ยนรหัสผ่านหลัก…
+    .accesskey = เ
+junk-description = ตั้งค่าการตั้งค่าจดหมายขยะเริ่มต้นของคุณ สามารถกำหนดค่าการตั้งค่าจดหมายขยะเฉพาะบัญชีได้ในการตั้งค่าบัญชี
+junk-label =
+    .label = เมื่อฉันทำเครื่องหมายข้อความว่าเป็นขยะ:
+    .accesskey = ม
+junk-move-label =
+    .label = ย้ายไปไว้ในโฟลเดอร์ "ขยะ" ของบัญชี
+    .accesskey = ย
+junk-delete-label =
+    .label = ลบออก
+    .accesskey = ล
+junk-read-label =
+    .label = ทำเครื่องหมายข้อความที่ถูกพิจารณาว่าเป็นขยะว่าอ่านแล้ว
+    .accesskey = ท
+junk-log-label =
+    .label = เปิดใช้งานการบันทึกตัวกรองขยะแบบปรับเปลี่ยนได้
+    .accesskey = ป
+junk-log-button =
+    .label = แสดงรายการบันทึก
+    .accesskey = ส
+reset-junk-button =
+    .label = ตั้งค่าข้อมูลการสอนใหม่
+    .accesskey = ต
+phishing-description = { -brand-short-name } สามารถวิเคราะห์ข้อความสำหรับการหลอกลวงอีเมลที่น่าสงสัยโดยมองหาเทคนิคทั่วไปที่ใช้หลอกลวงคุณ
+phishing-label =
+    .label = บอกฉันหากข้อความที่ฉันกำลังอ่านเป็นการหลอกลวงอีเมลที่น่าสงสัย
+    .accesskey = บ
+antivirus-description = { -brand-short-name } สามารถทำให้ซอฟต์แวร์ป้องกันไวรัสวิเคราะห์ข้อความจดหมายขาเข้าสำหรับไวรัสก่อนที่จะถูกเก็บไว้ในเครื่องได้ง่ายขึ้น
+antivirus-label =
+    .label = อนุญาตให้ไคลเอ็นต์โปรแกรมป้องกันไวรัสกักกันข้อความขาเข้าแต่ละข้อความ
+    .accesskey = อ
 certificate-description = เมื่อเซิร์ฟเวอร์ขอใบรับรองส่วนบุคคลของฉัน:
 certificate-auto =
     .label = เลือกมาหนึ่งโดยอัตโนมัติ
@@ -197,6 +545,9 @@ certificate-auto =
 certificate-ask =
     .label = ถามฉันทุกครั้ง
     .accesskey = ถ
+ocsp-label =
+    .label = สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน
+    .accesskey = ส
 certificate-button =
     .label = จัดการใบรับรอง…
     .accesskey = จ
@@ -209,6 +560,10 @@ security-devices-button =
 startup-label =
     .value = เมื่อ { -brand-short-name } เริ่ม:
     .accesskey = ม
+offline-label =
+    .label = คงสถานะออฟไลน์ของบัญชีแชทของฉัน
+auto-connect-label =
+    .label = เชื่อมต่อบัญชีแชทของฉันโดยอัตโนมัติ
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -216,9 +571,77 @@ startup-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = แจ้งให้ผู้ติดต่อของฉันทราบว่าฉันไม่ได้ใช้งานหลังจาก
+    .accesskey = จ
+idle-time-label = นาทีที่ไม่มีความเคลื่อนไหว
 
 ##
 
+away-message-label =
+    .label = และตั้งค่าสถานะของฉันว่าไม่อยู่ด้วยข้อความสถานะนี้:
+    .accesskey = ล
+send-typing-label =
+    .label = ส่งการแจ้งเตือนการพิมพ์ในการสนทนา
+    .accesskey = ส
+notification-label = เมื่อมีข้อความส่งมาถึงคุณโดยตรงแล้ว:
+show-notification-label =
+    .label = แสดงการแจ้งเตือน:
+    .accesskey = แ
+notification-all =
+    .label = พร้อมชื่อผู้ส่งและตัวอย่างข้อความ
+notification-name =
+    .label = พร้อมชื่อผู้ส่งเท่านั้น
+notification-empty =
+    .label = โดยไม่มีข้อมูลใด ๆ
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] ทำให้ไอคอน Dock เคลื่อนไหว
+           *[other] กะพริบรายการแถบงาน
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ท
+           *[other] ก
+        }
+chat-play-sound-label =
+    .label = เล่นเสียง
+    .accesskey = เ
+chat-play-button =
+    .label = เล่น
+    .accesskey = น
+chat-system-sound-label =
+    .label = เสียงระบบเริ่มต้นสำหรับจดหมายใหม่
+    .accesskey = ย
+chat-custom-sound-label =
+    .label = ใช้ไฟล์เสียงดังต่อไปนี้
+    .accesskey = ช
+chat-browse-sound-button =
+    .label = เรียกดู…
+    .accesskey = ร
+theme-label =
+    .value = ชุดตกแต่ง:
+    .accesskey = ด
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = ฟองอากาศ
+style-dark =
+    .label = มืด
+style-paper =
+    .label = แผ่นกระดาษ
+style-simple =
+    .label = ธรรมดา
+preview-label = ตัวอย่าง:
+no-preview-label = ไม่มีตัวอย่างที่ใช้งานได้
+no-preview-description = ชุดตกแต่งนี้ไม่ถูกต้องหรือไม่สามารถใช้งานได้ในขณะนี้ (ปิดใช้งานส่วนเสริม, โหมดปลอดภัย, …)
+chat-variant-label =
+    .value = รูปแบบอื่น:
+    .accesskey = ป
+chat-header-label =
+    .label = แสดงส่วนหัว
+    .accesskey = ง
 
 ## Preferences UI Search Results
 
