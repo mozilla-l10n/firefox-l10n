@@ -5,6 +5,9 @@
 pane-general-title = Γενικά
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Σύνταξη
+category-compose =
+    .tooltiptext = Σύνταξη
 general-language-and-appearance-header = Γλώσσα & εμφάνιση
 general-incoming-mail-header = Εισερχόμενα email
 general-files-and-attachment-header = Αρχεία & συνημμένα
@@ -61,14 +64,87 @@ update-in-progress-cancel-button = &Συνέχεια
 
 ## General Tab
 
+location-label =
+    .value = Τοποθεσία:
+    .accesskey = ο
+new-message-arrival = Όταν φθάνουν νέα μηνύματα:
+mail-play-button =
+    .label = Αναπαραγωγή
+    .accesskey = π
+customize-alert-label =
+    .label = Προσαρμογή…
+    .accesskey = μ
+mail-custom-sound-label =
+    .label = Χρήση του ακόλουθου αρχείου ήχου
+    .accesskey = Χ
+datetime-formatting-legend = Μορφή ημερομηνίας και ώρας
+system-integration-legend = Ενσωμάτωση συστήματος
+networking-legend = Σύνδεση
+proxy-config-description = Ρύθμιση του τρόπου σύνδεσης του { -brand-short-name } στο διαδίκτυο
+network-settings-button =
+    .label = Ρυθμίσεις…
+    .accesskey = Θ
+offline-legend = Εργασία χωρίς σύνδεση
+offline-settings = Ρυθμίσεις εργασίας χωρίς σύνδεση
+offline-settings-button =
+    .label = Χωρίς σύνδεση…
+    .accesskey = Χ
+offline-compact-folder =
+    .label = Συμπίεση φακέλων πάνω από
+    .accesskey = π
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Χρήση μέχρι
+    .accesskey = μ
+use-cache-after = MB χώρου για την προσωρινή μνήμη
 
 ##
 
+clear-cache-button =
+    .label = Εκκαθάριση τώρα
+    .accesskey = θ
+default-font-label =
+    .value = Προεπιλεγμένη γραμματοσειρά:
+    .accesskey = ρ
+default-size-label =
+    .value = Μέγεθος:
+    .accesskey = θ
+display-width-legend = Μηνύματα απλού κειμένου
+regular-style-item =
+    .label = Κανονικά
+bold-style-item =
+    .label = Έντονα
+italic-style-item =
+    .label = Πλάγια
+bold-italic-style-item =
+    .label = Έντονα πλάγια
+size-label =
+    .value = Μέγεθος:
+    .accesskey = θ
+quoted-text-color =
+    .label = Χρώμα:
+    .accesskey = Χ
+search-input =
+    .placeholder = Αναζήτηση
+type-column-label =
+    .label = Τύπος περιεχομένου
+    .accesskey = Τ
+action-column-label =
+    .label = Ενέργεια
+    .accesskey = ν
+save-to-label =
+    .label = Αποθήκευση αρχείων σε
+    .accesskey = θ
+always-ask-label =
+    .label = Πάντα ερώτηση για την τοποθεσία αποθήκευσης
+    .accesskey = Π
+delete-tag-button =
+    .label = Διαγραφή
+    .accesskey = φ
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -79,16 +155,55 @@ update-in-progress-cancel-button = &Συνέχεια
 
 ## Compose Tab
 
+forward-label =
+    .value = Προώθηση μηνυμάτων:
+    .accesskey = θ
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Αυτόματη αποθήκευση κάθε
+    .accesskey = υ
+auto-save-end = λεπτά
 
 ##
 
+spellcheck-label =
+    .label = Ορθογραφικός έλεγχος πριν την αποστολή
+    .accesskey = θ
+language-popup-label =
+    .value = Γλώσσα:
+    .accesskey = λ
+download-dictionaries-link = Λήψη περισσότερων λεξικών
+font-label =
+    .value = Γραμματοσειρά:
+    .accesskey = ρ
+font-color-label =
+    .value = Χρώμα κειμένου:
+    .accesskey = Χ
+restore-html-label =
+    .label = Επαναφορά προεπιλογών
+    .accesskey = φ
+format-description = Ρύθμιση συμπεριφοράς μορφής κειμένου
+ab-label =
+    .label = Τοπικά ευρετήρια διευθύνσεων
+    .accesskey = ο
+directories-none-label =
+    .none = Κανένας
+attachment-options-label =
+    .label = Λέξεις-κλειδιά…
+    .accesskey = κ
 
 ## Privacy Tab
 
+certificate-description = Όταν ένας διακομιστής ζητά ένα πιστοποιητικό:
+certificate-auto =
+    .label = Να επιλέγεται ένα αυτόματα
+    .accesskey = λ
+certificate-ask =
+    .label = Να γίνεται ερώτηση κάθε φορά
+    .accesskey = γ
 
 ## Chat Tab
 
