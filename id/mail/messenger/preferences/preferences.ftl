@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Pengaturan
+           *[other] Pengaturan
+        }
 pane-compose-title = Penyusunan
 category-compose =
     .tooltiptext = Penyusunan
@@ -81,6 +87,7 @@ offline-settings = Atur pengaturan luring
 offline-settings-button =
     .label = Luring…
     .accesskey = L
+diskspace-legend = Ruang Disk
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -160,13 +167,40 @@ display-tags-text = Tag dapat digunakan untuk mengelompokkan dan memprioritaskan
 delete-tag-button =
     .label = Hapus
     .accesskey = H
+auto-mark-as-read =
+    .label = Otomatis tandai pesan saya sudah dibaca
+    .accesskey = a
+mark-read-no-delay =
+    .label = Langsung saat ditampilkan
+    .accesskey = d
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Setelah ditampilkan
+    .accesskey = e
+seconds-label = detik
 
 ##
 
+open-msg-label =
+    .value = Buka pesan di:
+open-msg-tab =
+    .label = Tab baru
+    .accesskey = T
+open-msg-window =
+    .label = Jendela pesan baru
+    .accesskey = J
+open-msg-ex-window =
+    .label = Jendela pesan yang sudah tampil
+    .accesskey = a
+close-move-delete =
+    .label = Tutup jendela/tab pesan saat memindahkan atau menghapus
+    .accesskey = T
+condensed-addresses-label =
+    .label = Hanya tampilkan nama tampilan untuk orang yang ada pada buku alamat saya.
+    .accesskey = p
 
 ## Compose Tab
 
@@ -295,6 +329,9 @@ certificate-auto =
 
 ## Chat Tab
 
+startup-label =
+    .value = Saat { -brand-short-name } dimulai:
+    .accesskey = S
 offline-label =
     .label = Biarkan akun ngobrol tetap luring
 auto-connect-label =
@@ -306,6 +343,9 @@ auto-connect-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Biarkan kontak saya mengetahui bawah saya sedang diam setelah
+    .accesskey = i
 idle-time-label = menit tanpa aktivitas
 
 ##
@@ -316,6 +356,12 @@ away-message-label =
 send-typing-label =
     .label = Kirimkan pemberitahuan sedang mengetik dalam percakapan
     .accesskey = t
+chat-play-button =
+    .label = Mainkan
+    .accesskey = M
+chat-custom-sound-label =
+    .label = Gunakan berkas suara berikut
+    .accesskey = u
 
 ## Preferences UI Search Results
 
