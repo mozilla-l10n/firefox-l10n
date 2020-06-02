@@ -112,6 +112,10 @@ return-receipts-button =
     .label = 收件回執…
     .accesskey = R
 networking-legend = 連線
+proxy-config-description = 設定 { -brand-short-name } 要如何連到網路
+network-settings-button =
+    .label = 設定…
+    .accesskey = S
 offline-legend = 離線模式
 offline-settings = 離線模式設定
 offline-settings-button =
@@ -122,9 +126,16 @@ offline-settings-button =
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = 最多使用
+    .accesskey = U
+use-cache-after = MB 磁碟空間存放快取資料
 
 ##
 
+clear-cache-button =
+    .label = 立刻清除
+    .accesskey = C
 default-font-label =
     .value = 預設字型:
     .accesskey = D
