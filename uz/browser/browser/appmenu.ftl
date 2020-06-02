@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Maxfiylik himoyalari
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Maxfiylik haqidagi hisobotga kirish
+
 appmenuitem-customize-mode =
     .label = Moslash…
 

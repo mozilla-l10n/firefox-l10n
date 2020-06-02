@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Yangi xat haqidagi ogohlantirishni moslash
+
 customize-alert-description = Ogohlantirish xabarida qaysi maydonchalar ko‘rinishini tanlang
+
 preview-text-checkbox =
     .label = Xabarning matni ko‘rinishi
     .accesskey = X
+
 subject-checkbox =
     .label = Mavzu
     .accesskey = M
+
 sender-checkbox =
     .label = Jo‘natuvchi
     .accesskey = J
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Yangi xat ogohlantirishini
     .accesskey = Y
+
 open-time-label-after =
     .value = soniyada ko‘rsatish

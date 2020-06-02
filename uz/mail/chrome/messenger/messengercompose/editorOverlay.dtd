@@ -299,6 +299,7 @@
 <!ENTITY findToolbarCmd.tooltip "Sahifadan matnni topish">
 <!ENTITY spellToolbarCmd.label "Imlo">
 <!ENTITY spellToolbarCmd.tooltip "Butun sahifa yoki tanlanganning imlosini tekshirish">
+
 <!ENTITY imageToolbarCmd.label "Rasm">
 <!ENTITY imageToolbarCmd.tooltip "Yangi rasmni kiriting yoi tanlangan rasmning xossalarini tahrirlang">
 <!ENTITY hruleToolbarCmd.label "H.qatori">

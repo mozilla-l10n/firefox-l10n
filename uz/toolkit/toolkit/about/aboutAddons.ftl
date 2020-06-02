@@ -339,7 +339,5 @@ recommended-themes-heading = Tavsiya etilgan mavzular
 
 theme-heading = Mavzularni boshqarish
 
-theme-heading-search-label = Yana mavzu topish
-
 addon-page-options-button =
     .title = Barcha qoʻshimcha dasturlar uchun asboblar

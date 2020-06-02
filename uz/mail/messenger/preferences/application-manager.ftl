@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Ilova dastur ma’lumotlari
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Olib tashlash
     .accesskey = O

@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Kukilar
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Izlash:
     .accesskey = I
+
 cookies-on-system-label = Quyidagi kukilar kompyuteringizda joylashgan:
+
 treecol-site-header =
     .label = Sayt
+
 treecol-name-header =
     .label = Kuki nomi
+
 props-name-label =
     .value = Nomi:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Muddati o‘tishi:
 props-container-label =
     .value = Container:
+
 remove-cookie-button =
     .label = Kukini olib tashlash
     .accesskey = o
+
 remove-all-cookies-button =
     .label = Barcha kukilarni olib tashlash
     .accesskey = a
+
 cookie-close-button =
     .label = Yopish
     .accesskey = Y

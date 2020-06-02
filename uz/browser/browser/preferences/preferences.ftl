@@ -325,8 +325,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name }`dan foydalanish ({ -brand-short-name }da)
-applications-preview-inapp =
-    .label = { -brand-short-name }da koʻrish
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -340,9 +338,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -528,11 +523,17 @@ home-prefs-topsites-header =
     .label = Ommabop saytlar
 home-prefs-topsites-description = Tez-tez tashrif buyuradigan saytlaringiz
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } tomonidan tavsiya qilingan
 home-prefs-recommended-by-description = Siz uchun moslangan internetdagi ajoyib kontent
+##
+
+
 home-prefs-recommended-by-learn-more = U qanday ishlaydi
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Homiylik maqolalari
@@ -917,7 +918,6 @@ addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni 
 
 
 ##
-
 
 ## Privacy Section - Tracking
 
