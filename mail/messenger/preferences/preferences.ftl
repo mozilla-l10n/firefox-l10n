@@ -75,6 +75,14 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Ricerca di Windows
+       *[other] { "" }
+    }
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -103,6 +111,38 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name } può memorizzare le password per tutti gli account.
+passwords-button =
+    .label = Password salvate…
+    .accesskey = P
+master-password-description = È possibile impostare una Password principale per proteggere tutte le altre password; sarà però obbligatorio digitarla una volta per sessione.
+master-password-label =
+    .label = Utilizza una password principale
+    .accesskey = U
+master-password-button =
+    .label = Cambia Password principale…
+    .accesskey = C
+junk-description = Scegliere le impostazioni predefinite per la posta indesiderata. Le impostazioni di posta indesiderata specifiche possono essere configurate nelle Impostazioni account.
+junk-label =
+    .label = Quando i messaggi sono segnati come posta indesiderata:
+    .accesskey = Q
+junk-move-label =
+    .label = Spostali nella cartella "Indesiderata" dell'utente
+    .accesskey = o
+junk-delete-label =
+    .label = Eliminali
+    .accesskey = E
+junk-log-label =
+    .label = Attiva registro attività del filtro incrementale per la posta indesiderata
+    .accesskey = A
+junk-log-button =
+    .label = Mostra registro attività
+    .accesskey = S
+phishing-description = { -brand-short-name } è in grado di analizzare i messaggi alla ricerca di possibili tentativi di frode, individuando le tecniche più comuni per questo tipo di truffe.
+phishing-label =
+    .label = Avvisa sempre se il messaggio che si sta leggendo è un possibile tentativo di frode
+    .accesskey = e
+antivirus-description = { -brand-short-name } è in grado di semplificare il lavoro del software antivirus, permettendo l'analisi della posta in arrivo prima che venga salvata localmente.
 
 ## Chat Tab
 
