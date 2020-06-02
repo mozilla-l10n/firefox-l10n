@@ -16,6 +16,9 @@ category-general =
 pane-compose-title = Составление
 category-compose =
     .tooltiptext = Составление
+pane-privacy-title = Приватность и защита
+category-privacy =
+    .tooltiptext = Приватность и защита
 pane-chat-title = Чат
 category-chat =
     .tooltiptext = Чат
@@ -111,6 +114,9 @@ add-search-engine =
 remove-search-engine =
     .label = Удалить
     .accesskey = л
+minimize-to-tray-label =
+    .label = При сворачивании перемещать { -brand-short-name } в системный трей
+    .accesskey = ч
 new-message-arrival = При появлении новых сообщений:
 mail-play-sound-label =
     .label =
@@ -146,7 +152,35 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Обзор…
     .accesskey = б
+enable-gloda-search-label =
+    .label = Включить глобальный поиск и индексацию сообщений
+    .accesskey = с
 datetime-formatting-legend = Формат даты и времени
+language-selector-legend = Язык
+allow-hw-accel =
+    .label = По возможности использовать аппаратное ускорение
+    .accesskey = м
+store-type-label =
+    .value = Тип хранилища сообщений для новых учётных записей:
+    .accesskey = л
+mbox-store-label =
+    .label = Каждая папка в отдельном файле (mbox)
+maildir-store-label =
+    .label = Каждое сообщение в отдельном файле (maildir)
+scrolling-legend = Прокрутка
+autoscroll-label =
+    .label = Использовать автоматическую прокрутку
+    .accesskey = ь
+smooth-scrolling-label =
+    .label = Использовать плавную прокрутку
+    .accesskey = с
+system-integration-legend = Интеграция с системой
+always-check-default =
+    .label = Всегда проверять при запуске, является ли { -brand-short-name } почтовым клиентом по умолчанию
+    .accesskey = и
+check-default-button =
+    .label = Проверить сейчас…
+    .accesskey = е
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -155,16 +189,68 @@ search-engine-name =
         [windows] Поиску Windows
        *[other] { "" }
     }
+search-integration-label =
+    .label = Разрешить { search-engine-name } производить поиск сообщений
+    .accesskey = а
+config-editor-button =
+    .label = Редактор настроек…
+    .accesskey = о
+return-receipts-description = Определите, как { -brand-short-name } должен обрабатывать уведомления о прочтении
+return-receipts-button =
+    .label = Уведомления о прочтении…
+    .accesskey = ч
+update-app-legend = Обновления { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Версия { $version }
 allow-description = Разрешить { -brand-short-name }
+automatic-updates-label =
+    .label = Автоматически устанавливать обновления (рекомендовано: повышает безопасность)
+    .accesskey = и
+check-updates-label =
+    .label = Проверять наличие обновлений, но позволять мне решать, устанавливать ли их или нет
+    .accesskey = о
+update-history-button =
+    .label = Показать журнал обновлений
+    .accesskey = й
+use-service =
+    .label = Использовать фоновую службу для установки обновлений
+    .accesskey = у
 cross-user-udpate-warning = Этот параметр применится ко всем учётным записям Windows и профилям { -brand-short-name }, использующим эту установку { -brand-short-name }.
+networking-legend = Соединение
+proxy-config-description = Настройка параметров соединения { -brand-short-name } с Интернетом
+network-settings-button =
+    .label = Настроить…
+    .accesskey = а
+offline-legend = Автономная работа
+offline-settings = Настройка параметров автономной работы
+offline-settings-button =
+    .label = Автономная работа…
+    .accesskey = в
+diskspace-legend = Дисковое пространство
+offline-compact-folder =
+    .label = Сжимать все папки, если при этом высвободится всего более
+    .accesskey = э
+compact-folder-size =
+    .value = МБ
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Использовать до
+    .accesskey = ь
+use-cache-after = МБ на диске для кэша
 
 ##
 
+smart-cache-label =
+    .label = Отключить автоматическое управление кэшем
+    .accesskey = ю
+clear-cache-button =
+    .label = Очистить сейчас
+    .accesskey = о
 fonts-legend = Шрифты и цвета
 default-font-label =
     .value = Шрифт по умолчанию:
@@ -273,6 +359,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Закрывать окно/вкладку сообщения при его перемещении или удалении
     .accesskey = к
+display-name-label =
+    .value = Отображаемое имя:
 condensed-addresses-label =
     .label = Показывать только имя для людей, находящихся в моей адресной книге
     .accesskey = к
@@ -316,6 +404,12 @@ download-dictionaries-link = Загрузить дополнительные с�
 font-label =
     .value = Шрифт:
     .accesskey = р
+font-size-label =
+    .value = Размер:
+    .accesskey = е
+default-colors-label =
+    .label = Использовать цвета пользователя по умолчанию
+    .accesskey = ь
 font-color-label =
     .value = Цвет текста:
     .accesskey = т
@@ -369,6 +463,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Удалить
     .accesskey = д
+find-cloud-providers =
+    .value = Найти больше провайдеров…
 cloud-account-description = Добавить новую службу хранения Filelink
 
 ## Privacy Tab
@@ -410,6 +506,11 @@ keep-ask =
 cookies-button =
     .label = Показать куки…
     .accesskey = з
+do-not-track-label =
+    .label = Отправлять веб-сайтам сигнал «Не отслеживать», означающий, чтобы вы не хотите быть отслеживаемыми
+    .accesskey = я
+learn-button =
+    .label = Подробнее
 passwords-description = { -brand-short-name } может запоминать пароли для всех ваших учетных записей.
 passwords-button =
     .label = Сохранённые пароли…
@@ -451,6 +552,22 @@ antivirus-description = { -brand-short-name } может облегчить ра
 antivirus-label =
     .label = Разрешить антивирусу помещать в карантин отдельные входящие сообщения
     .accesskey = в
+certificate-description = Когда сервер запрашивает личный сертификат:
+certificate-auto =
+    .label = Отправлять автоматически
+    .accesskey = а
+certificate-ask =
+    .label = Спрашивать каждый раз
+    .accesskey = и
+ocsp-label =
+    .label = Запрашивать у OCSP-серверов подтверждение текущего статуса сертификатов
+    .accesskey = ш
+certificate-button =
+    .label = Управление сертификатами…
+    .accesskey = ф
+security-devices-button =
+    .label = Устройства защиты…
+    .accesskey = ы
 
 ## Chat Tab
 
@@ -517,6 +634,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Обзор…
     .accesskey = з
+theme-label =
+    .value = Тема:
+    .accesskey = е
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Пузырьки
+style-dark =
+    .label = Тёмная
+style-paper =
+    .label = Листы бумаги
+style-simple =
+    .label = Простая
+preview-label = Предпросмотр:
+no-preview-label = Предпросмотр недоступен
+no-preview-description = Эта тема повреждена или в настоящее время недоступна (отключено дополнение, включен безопасный режим…).
+chat-variant-label =
+    .value = Вариант:
+    .accesskey = а
+chat-header-label =
+    .label = Отображать заголовок
+    .accesskey = ж
 
 ## Preferences UI Search Results
 
