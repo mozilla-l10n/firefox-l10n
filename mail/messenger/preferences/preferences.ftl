@@ -527,6 +527,17 @@ notification-name =
     .label = le ainm an t-seòladair a-mhàin
 notification-empty =
     .label = as aonais fiosrachaidh sam bith
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Beòthaich ìomhaigheag an doca
+           *[other] Boillsg an nì air bàr nan saothair
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] B
+        }
 chat-play-sound-label =
     .label = Cluich fuaim
     .accesskey = f
