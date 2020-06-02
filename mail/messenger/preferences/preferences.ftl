@@ -2,12 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = 閉じる
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] オプション
+           *[other] 環境設定
+        }
 pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = 編集
 category-compose =
     .tooltiptext = 編集
+pane-privacy-title = プライバシーとセキュリティ
+category-privacy =
+    .tooltiptext = プライバシーとセキュリティ
+pane-chat-title = チャット
+category-chat =
+    .tooltiptext = チャット
+pane-calendar-title = カレンダー
+category-calendar =
+    .tooltiptext = カレンダー
 general-language-and-appearance-header = 言語と外観
 general-incoming-mail-header = 新着メールの通知
 general-files-and-attachment-header = ファイルと添付
@@ -58,6 +75,7 @@ update-in-progress-ok-button = 破棄(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 続行(&C)
+addons-button = 拡張機能とテーマ
 
 ## OS Authentication dialog
 
@@ -75,6 +93,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = { -brand-short-name } スタートページ
 start-page-label =
     .label = 起動時にメッセージペインにスタートページを表示する
@@ -85,26 +107,80 @@ location-label =
 restore-default-label =
     .label = デフォルトに戻す
     .accesskey = R
+default-search-engine = デフォルト検索エンジン
+add-search-engine =
+    .label = ファイルから追加
+    .accesskey = A
+remove-search-engine =
+    .label = 削除
+    .accesskey = v
+minimize-to-tray-label =
+    .label = 最小化した { -brand-short-name } をタスクトレイにしまう
+    .accesskey = m
 new-message-arrival = 新着メッセージの通知
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] 次のサウンドファイルを鳴らす:
+           *[other] 音を鳴らす
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] d
+        }
 mail-play-button =
     .label = 再生
     .accesskey = P
+change-dock-icon = アプリケーションアイコンの設定を変更します
+app-icon-options =
+    .label = アプリケーションアイコンのオプション...
+    .accesskey = n
+notification-settings = 通知とデフォルトサウンドはシステム環境設定の通知ペインで無効化できます。
 animated-alert-label =
     .label = デスクトップ通知を表示する
     .accesskey = S
 customize-alert-label =
     .label = 設定...
     .accesskey = C
+tray-icon-label =
+    .label = トレイアイコンを表示する
+    .accesskey = t
 mail-custom-sound-label =
     .label = 次のサウンドファイルを使用する:
     .accesskey = U
 mail-browse-sound-button =
     .label = 選択...
     .accesskey = B
+enable-gloda-search-label =
+    .label = グローバル検索と索引データベースを有効にする
+    .accesskey = G
+datetime-formatting-legend = 日付と時刻の書式
+language-selector-legend = 言語
+allow-hw-accel =
+    .label = ハードウェアアクセラレーション機能を使用する (可能な場合)
+    .accesskey = h
+store-type-label =
+    .value = 新しいアカウントのメッセージ格納形式:
+    .accesskey = T
+mbox-store-label =
+    .label = フォルダー単位 (mbox 形式)
+maildir-store-label =
+    .label = メッセージ単位 (maildir 形式)
+scrolling-legend = スクロール
+autoscroll-label =
+    .label = 自動スクロール機能を使用する
+    .accesskey = U
+smooth-scrolling-label =
+    .label = スムーズスクロール機能を使用する
+    .accesskey = m
 system-integration-legend = システム統合
 always-check-default =
     .label = 起動時に { -brand-short-name } がデフォルトクライアントとして設定されているか確認する
     .accesskey = A
+check-default-button =
+    .label = 今すぐ確認...
+    .accesskey = N
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -116,17 +192,47 @@ search-engine-name =
 search-integration-label =
     .label = { search-engine-name } によるメッセージの検索を許可する
     .accesskey = S
+config-editor-button =
+    .label = 設定エディター...
+    .accesskey = C
 return-receipts-description = 開封確認の取り扱い方を設定します。
 return-receipts-button =
     .label = 開封確認...
     .accesskey = R
+update-app-legend = { -brand-short-name } の更新
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = バージョン { $version }
+allow-description = { -brand-short-name } の更新動作
+automatic-updates-label =
+    .label = 更新を自動的にインストールする (推奨: セキュリティ向上)
+    .accesskey = A
+check-updates-label =
+    .label = 更新を確認するが、インストールするかどうかを選択する
+    .accesskey = C
+update-history-button =
+    .label = 更新履歴を表示
+    .accesskey = p
+use-service =
+    .label = 更新のインストールにバックグラウンドサービスを使用する
+    .accesskey = b
+cross-user-udpate-warning = この設定はすべての Windows アカウントと、このバージョンの { -brand-short-name } で使用するすべてのプロファイルに適用されます。
 networking-legend = 接続
+proxy-config-description = インターネット接続に使用するプロキシーを設定できます。
+network-settings-button =
+    .label = 接続設定...
+    .accesskey = S
 offline-legend = オフライン
 offline-settings = オフライン時の動作を設定します。
 offline-settings-button =
     .label = オフライン設定...
     .accesskey = O
 diskspace-legend = ディスク領域
+offline-compact-folder =
+    .label = ディスク領域を合計
+    .accesskey = a
+compact-folder-size =
+    .value = MB 以上節約できるときはフォルダーを最適化する
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -139,10 +245,30 @@ use-cache-after = MB まで使用する
 
 ##
 
+smart-cache-label =
+    .label = 自動キャッシュ管理設定を上書き
+    .accesskey = v
 clear-cache-button =
     .label = 今すぐ消去
     .accesskey = C
+fonts-legend = フォントとカラー
+default-font-label =
+    .value = デフォルトフォント:
+    .accesskey = D
+default-size-label =
+    .value = サイズ:
+    .accesskey = S
+font-options-button =
+    .label = 詳細設定...
+    .accesskey = A
+color-options-button =
+    .label = カラー設定...
+    .accesskey = C
 display-width-legend = プレーンテキストメッセージ
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = 顔文字をアイコンで表示する
+    .accesskey = e
 display-text-label = 引用されたテキストメッセージの表示:
 style-label =
     .value = 書式:
@@ -151,23 +277,93 @@ regular-style-item =
     .label = 標準
 bold-style-item =
     .label = 太字
+italic-style-item =
+    .label = イタリック体
+bold-italic-style-item =
+    .label = 太字イタリック体
+size-label =
+    .value = サイズ:
+    .accesskey = z
 regular-size-item =
     .label = 標準
 bigger-size-item =
     .label = 大きく
 smaller-size-item =
     .label = 小さく
+quoted-text-color =
+    .label = カラー:
+    .accesskey = o
+search-input =
+    .placeholder = 検索
+type-column-label =
+    .label = ファイルの種類
+    .accesskey = T
+action-column-label =
+    .label = 動作設定
+    .accesskey = A
+save-to-label =
+    .label = 次のフォルダーに保存する:
+    .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] 選択...
+           *[other] 参照...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
+always-ask-label =
+    .label = ファイルごとに保存先を指定する
+    .accesskey = A
 display-tags-text = タグを使ってメッセージを分類したり印を付けたりできます。
+new-tag-button =
+    .label = 新規...
+    .accesskey = N
+edit-tag-button =
+    .label = 編集...
+    .accesskey = E
 delete-tag-button =
     .label = 削除
     .accesskey = D
+auto-mark-as-read =
+    .label = メッセージを自動的に既読にする
+    .accesskey = A
+mark-read-no-delay =
+    .label = メッセージの表示直後に既読にする
+    .accesskey = o
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = メッセージを
+    .accesskey = d
+seconds-label = 秒間以上表示していたら既読にする
 
 ##
 
+open-msg-label =
+    .value = メッセージを次の場所に開く:
+open-msg-tab =
+    .label = 新規タブ
+    .accesskey = t
+open-msg-window =
+    .label = 新規メッセージウインドウ
+    .accesskey = n
+open-msg-ex-window =
+    .label = 既存のメッセージウインドウ
+    .accesskey = e
+close-move-delete =
+    .label = 移動時または削除時にメッセージウインドウまたはタブを閉じる
+    .accesskey = C
+display-name-label =
+    .value = 表示名:
+condensed-addresses-label =
+    .label = アドレス帳に登録されている人については宛先フィールドで <メールアドレス> 部を表示しない
+    .accesskey = S
 
 ## Compose Tab
 
@@ -185,6 +381,10 @@ extension-label =
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = 編集中のメッセージを
+    .accesskey = A
+auto-save-end = 分ごとに下書きとして自動保存する
 
 ##
 
@@ -200,49 +400,140 @@ spellcheck-inline-label =
 language-popup-label =
     .value = 辞書の言語:
     .accesskey = L
+download-dictionaries-link = スペルチェックに必要な辞書を追加する
 font-label =
     .value = フォント:
     .accesskey = n
+font-size-label =
+    .value = サイズ:
+    .accesskey = z
+default-colors-label =
+    .label = デフォルトカラーを使用
+    .accesskey = d
+font-color-label =
+    .value = 文字カラー:
+    .accesskey = T
+bg-color-label =
+    .value = 背景カラー:
+    .accesskey = B
 restore-html-label =
     .label = デフォルトに戻す
     .accesskey = R
+default-format-label =
+    .label = デフォルトで本文テキストの代わりに段落書式を使用する
+    .accesskey = P
 format-description = 送信するメッセージの形式を設定します。
 send-options-label =
     .label = 送信テキスト形式...
     .accesskey = S
+autocomplete-description = 以下に登録されているメールアドレスを宛先等の入力時に自動補完する:
 ab-label =
     .label = ローカルのアドレス帳
     .accesskey = L
+directories-label =
+    .label = LDAP サーバー:
+    .accesskey = D
 directories-none-label =
     .none = なし
+edit-directories-label =
+    .label = LDAP サーバーの編集...
+    .accesskey = E
+email-picker-label =
+    .label = メール送信時に受信者を次のアドレス帳に自動で追加する:
+    .accesskey = A
+default-directory-label =
+    .value = アドレス帳ウインドウの初期表示ディレクトリー:
+    .accesskey = S
+default-last-label =
+    .none = 最後に使用したディレクトリー
 attachment-label =
     .label = ファイルの添付忘れがないか確認する
     .accesskey = m
 attachment-options-label =
     .label = キーワード...
     .accesskey = K
+enable-cloud-share =
+    .label = 次のサイズより大きなファイルの添付時にリンク共有する:
+cloud-share-size =
+    .value = MB
+add-cloud-account =
+    .label = 追加...
+    .accesskey = A
+    .defaultlabel = 追加...
+remove-cloud-account =
+    .label = 削除
+    .accesskey = R
+find-cloud-providers =
+    .value = 他のプロバイダーを検索...
+cloud-account-description = 新しい Filelink ストレージサービスを追加してください。
 
 ## Privacy Tab
 
+mail-content = メールコンテンツ
+remote-content-label =
+    .label = メッセージ内のリモートコンテンツを許可する
+    .accesskey = m
+exceptions-button =
+    .label = 例外...
+    .accesskey = E
+remote-content-info =
+    .value = リモートコンテンツのプライバシーに係わる問題について
+cookies-label =
+    .label = サイトから送られてきた Cookie を保存する
+    .accesskey = A
+third-party-label =
+    .value = サードパーティ Cookie の保存:
+    .accesskey = c
+third-party-always =
+    .label = 常に許可
+third-party-never =
+    .label = 常に拒否
+third-party-visited =
+    .label = 訪問したサイトのみ許可
+keep-label =
+    .value = Cookie を保存する期間:
+    .accesskey = K
+keep-expire =
+    .label = サイトが指定した期限まで
+keep-close =
+    .label = { -brand-short-name } を終了するまで
+keep-ask =
+    .label = 毎回確認する
+cookies-button =
+    .label = Cookie を表示...
+    .accesskey = S
+do-not-track-label =
+    .label = ウェブサイトに “Do Not Track” 信号を送り、追跡されたくないことを知らせます
+    .accesskey = n
+learn-button =
+    .label = 詳細情報
 passwords-description = { -brand-short-name } で利用するすべてのアカウントのパスワードを保存できます。
 passwords-button =
     .label = 保存されているパスワード...
     .accesskey = S
+master-password-description = マスターパスワードを使用すると、保存されたすべてのパスワードが保護されます。ただし、セッションごとに入力を求められます。
 master-password-label =
     .label = マスターパスワードを使用する
     .accesskey = U
 master-password-button =
     .label = マスターパスワードを変更...
     .accesskey = C
+junk-description = デフォルト迷惑メールフィルターの動作を設定します。アカウントごとの迷惑メールフィルターの設定は “アカウント設定” で行います。
 junk-label =
     .label = 迷惑メールであると手動でマークしたときに次の処理を実行する:
     .accesskey = W
+junk-move-label =
+    .label = "迷惑メール" フォルダーへ移動する
+    .accesskey = o
 junk-delete-label =
     .label = メッセージを削除する
     .accesskey = D
 junk-read-label =
     .label = 迷惑メールと判断したメッセージを既読にする
     .accesskey = M
+junk-log-label =
+    .label = 迷惑メール適応フィルターのログを有効にする
+    .accesskey = E
 junk-log-button =
     .label = ログを表示
     .accesskey = S
@@ -253,9 +544,36 @@ phishing-description = フィッシング詐欺メールでよく使われる偽
 phishing-label =
     .label = 表示中のメッセージに詐欺メールの疑いがあるときに知らせる
     .accesskey = T
+antivirus-description = ウイルス対策ソフトがウイルスを検出したとき、感染したメッセージだけを処理できるようにします。
+antivirus-label =
+    .label = 受信したメッセージは個別の一時ファイルとして保存してからメールボックスに移動させる
+    .accesskey = A
+certificate-description = サーバーが個人証明書を要求したとき:
+certificate-auto =
+    .label = 自動的に選択する
+    .accesskey = S
+certificate-ask =
+    .label = 毎回自分で選択する
+    .accesskey = A
+ocsp-label =
+    .label = OCSP レスポンダーサーバーに問い合わせて証明書の現在の正当性を確認する
+    .accesskey = Q
+certificate-button =
+    .label = 証明書を管理...
+    .accesskey = M
+security-devices-button =
+    .label = セキュリティデバイス...
+    .accesskey = D
 
 ## Chat Tab
 
+startup-label =
+    .value = { -brand-short-name } の起動時:
+    .accesskey = s
+offline-label =
+    .label = チャットアカウントをオフラインにする
+auto-connect-label =
+    .label = チャットアカウントを自動的に接続する
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -263,9 +581,77 @@ phishing-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = 待機状態が
+    .accesskey = I
+idle-time-label = 分間続いたらそれを相手に知らせる
 
 ##
 
+away-message-label =
+    .label = さらに次のステータスメッセージを送信して離席状態にする:
+    .accesskey = A
+send-typing-label =
+    .label = 会話中のタイピング通知を送信する
+    .accesskey = t
+notification-label = ダイレクトメッセージの通知:
+show-notification-label =
+    .label = デスクトップ通知の表示:
+    .accesskey = c
+notification-all =
+    .label = 送信者の名前とメッセージプレビュー
+notification-name =
+    .label = 送信者の名前のみ
+notification-empty =
+    .label = 情報なし
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] ドックアイコンをアニメーション
+           *[other] タスクバーアイテムを点滅
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
+chat-play-sound-label =
+    .label = 音を鳴らす
+    .accesskey = d
+chat-play-button =
+    .label = 再生
+    .accesskey = P
+chat-system-sound-label =
+    .label = システムの新着メール通知音
+    .accesskey = D
+chat-custom-sound-label =
+    .label = 次のサウンドファイルを使用する
+    .accesskey = U
+chat-browse-sound-button =
+    .label = 選択...
+    .accesskey = B
+theme-label =
+    .value = テーマ:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bubbles
+style-dark =
+    .label = Dark
+style-paper =
+    .label = Paper Sheets
+style-simple =
+    .label = Simple
+preview-label = プレビュー:
+no-preview-label = プレビューできません
+no-preview-description = このテーマは正しくないか現在利用できません (理由: 無効化されたアドオン、セーフモードなど)。
+chat-variant-label =
+    .value = 色調:
+    .accesskey = V
+chat-header-label =
+    .label = ヘッダーを表示する
+    .accesskey = H
 
 ## Preferences UI Search Results
 
