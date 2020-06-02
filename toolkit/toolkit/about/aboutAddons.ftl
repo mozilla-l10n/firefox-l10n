@@ -603,9 +603,6 @@ updates-heading = Quản lý cập nhật của bạn
 discover-heading = Cá nhân hóa { -brand-short-name } của bạn
 shortcuts-heading = Quản lý phím tắt tiện ích mở rộng
 
-theme-heading-search-label = Tìm thêm chủ đề
-extension-heading-search-label = Tìm thêm tiện ích
-
 default-heading-search-label = Tìm thêm tiện ích
 addons-heading-search-input =
     .placeholder = Tìm kiếm addons.mozilla.org

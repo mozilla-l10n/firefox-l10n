@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Tùy chỉnh thông báo thư mới
+
 customize-alert-description = Chọn các trường muốn hiện trong thông báo:
+
 preview-text-checkbox =
     .label = Xem trước thư văn bản
     .accesskey = M
+
 subject-checkbox =
     .label = Tiêu đề
     .accesskey = S
+
 sender-checkbox =
     .label = Người gửi
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Hiển thị thông báo thư mới trong
     .accesskey = N
+
 open-time-label-after =
     .value = giây

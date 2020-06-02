@@ -23,3 +23,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Chuyển sang Bcc
     .accesskey = b
+

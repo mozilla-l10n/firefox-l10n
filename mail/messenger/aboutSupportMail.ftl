@@ -16,3 +16,4 @@ accounts-default = Mặc định?
 identity-name = Danh tính
 
 send-via-email = Gửi qua email
+
