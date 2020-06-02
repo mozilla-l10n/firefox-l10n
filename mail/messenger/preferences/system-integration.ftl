@@ -5,3 +5,4 @@
 checkbox-newsgroups-label =
     .label = Newsgroups
     .tooltiptext = { unset-default-tooltip }
+

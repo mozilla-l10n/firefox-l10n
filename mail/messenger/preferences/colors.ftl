@@ -5,3 +5,4 @@
 text-color-label =
     .value = متن:
     .accesskey = م
+

@@ -4,6 +4,8 @@
 
 treehead-status-label =
     .label = وضعیت
+
 remove-site-button =
     .label = حذف پایگاه
     .accesskey = ح
+

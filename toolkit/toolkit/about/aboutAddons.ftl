@@ -541,9 +541,6 @@ locale-heading = زبانهای خود را مدیریت کنید
 discover-heading = { -brand-short-name } خود را سفارشی کنید
 shortcuts-heading = میانبرهای افزونه را مدیریت کنید
 
-theme-heading-search-label = تم‌های بیشتری پیدا کنید
-extension-heading-search-label = افزونه‌های بیشتری پیدا کنید
-
 addons-heading-search-input =
     .placeholder = جست‌ و جو addons.mozilla.org
 
