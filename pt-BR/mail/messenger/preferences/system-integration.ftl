@@ -5,6 +5,9 @@
 system-integration-title =
     .title = Integração com o sistema
 default-client-intro = Tornar o { -brand-short-name } o aplicativo padrão para:
+checkbox-email-label =
+    .label = E-mail
+    .tooltiptext = { unset-default-tooltip }
 checkbox-newsgroups-label =
     .label = Newsgroups
     .tooltiptext = { unset-default-tooltip }
