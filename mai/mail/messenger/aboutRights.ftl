@@ -1,0 +1,9 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+rights-title = About Your Rights
+rights-intro-point-5 = किछु { -brand-short-name } फीचर वेब आधारित सूचना क इस्तेमाल करैत अछि, जखनकि एकर कोनो गारंटी नहि अछि कि ओ 100% सही आओर त्रुटि रहित अछि. बेसी जानकारी,  इ सेवा कए उपयोग करय बला सुविधा कए निष्क्रिय करबाक बारे मे क जानकारी संगे, एहि मे भेटत <a data-l10n-name="mozilla-service-terms-link">service terms</a>.
+rights-intro-point-6 = कोनो खास तरह केर वीडियो सामग्री चलाबै केर क्रम मे, { -brand-short-name } तेसर पार्टी सँ निश्चित सामग्री डिक्रिप्शन मोड्यूल डाउनलोड करू.
+rights-webservices = { -brand-full-name } uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of { -brand-short-name } under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found <a data-l10n-name="mozilla-disable-service-link">here</a>. Other features and Services can be disabled in the application preferences.
+rights-webservices-term-4 = <strong>The Services are provided "as-is."  { -vendor-short-name }, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes. You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.</strong>
