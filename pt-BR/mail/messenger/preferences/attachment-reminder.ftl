@@ -13,5 +13,7 @@ keyword-edit-button =
 keyword-remove-button =
     .label = Excluir
     .accesskey = x
+new-keyword-title = Nova palavra-chave
+new-keyword-label = Palavra-chave:
 edit-keyword-title = Editar palavra-chave
 edit-keyword-label = Palavra-chave:
