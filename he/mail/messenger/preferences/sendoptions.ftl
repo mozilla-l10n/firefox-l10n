@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = אפשרויות שליחה
 send-mail-title = סגנון טקסט
+auto-downgrade-label =
+    .label = שליחת הודעות כטקסט פשוט אם ניתן
+    .accesskey = פ
 default-html-format-label = בעת משלוח הודעות בתבנית HTML ונמען אחד או יותר אינם רשומים כיכולים לקבל HTML:
 html-format-ask =
     .label = שאל אותי מה לעשות

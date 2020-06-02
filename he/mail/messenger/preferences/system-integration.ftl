@@ -4,6 +4,12 @@
 
 system-integration-title =
     .title = השתלבות במערכת
+system-integration-dialog =
+    .buttonlabelaccept = הגדרה כבררת מחדל
+    .buttonlabelcancel = דילוג על ההשתלבות
+    .buttonlabelcancel2 = ביטול
+default-client-intro = שימוש ב־{ -brand-short-name } כלקוח בררת מחדל עבור:
+unset-default-tooltip = זה בלתי אפשרי לבטל את ההגדרה של { -brand-short-name } כלקוח בררת המחדל מתוך { -brand-short-name }. כדי להפוך תכנית אחרת לבררת המחדל עליך להשתמש בתיבת הדו־שיח של 'הגדרה כבררת מחדל' בתכנית עצמה.
 checkbox-email-label =
     .label = דואר אלקטרוני
     .tooltiptext = { unset-default-tooltip }
