@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "سفارشی‌سازی…">
 <!ENTITY viewCustomizeToolbar.accesskey     "س">
+
 <!ENTITY overflowCustomizeToolbar.label       "سفارشی‌سازی نوار ابزار…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "س">
 
@@ -888,47 +889,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "باز کردن ترجیحات مسدود کردن محتواها">
 
 
-<!ENTITY protections.etpON.header "حفاظت پیشرفته در برابر ردیابی برای این سایت روشن است">
-<!ENTITY protections.etpOFF.header "حفاظت پیشرفته در برابر ردیابی برای این سایت خاموش است">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "اطلاعات بیشتر در مورد حفاظت پیشرفته در برابر ردیابی">
-<!ENTITY protections.settings.label "تنظیمات حفاظتی">
-<!ENTITY protections.showreport.label "نمایش گزارش">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "سایت کار نمی‌کند؟">
-<!ENTITY protections.siteNotWorkingView.title "سایت کار نمی‌کند؟">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "اگر هر کدام از مشکلات مقابل را دارید، محافظت‌ها را خاموش کنید:">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "فرم‌ها">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "پرداخت‌های مالی">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "نظرات">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "ویدئوها">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "ارسال گزارش">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "مسدود شده">
-<!ENTITY protections.notBlocking2.label "مجاز">
-<!ENTITY protections.notFound.label "موردی پیدا نشد">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "چرا؟">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "مسدود کردن این موارد می‌تواند عناصر برخی از وب سایت‌ها را خراب کند. بدون ردیاب‌ها، ممکن است برخی از دکمه‌ها، فرم‌ها و قسمت‌های ورود کار نکنند.">
-<!ENTITY protections.noTrackersFound.description "هیچ ردیابی که برای &brandShortName; آشنا باشد در این صفحه شناسایی شدند.">
-
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "زبانه‌های مرورگر">
@@ -973,13 +933,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "کوکی‌ها">
 <!ENTITY contentBlocking.cookiesView.label "کوکی‌ها و داده‌های سایت">
 
-<!ENTITY contentBlocking.trackingProtection4.label "محتوای ردیابی">
-
-<!ENTITY contentBlocking.manageSettings2.label "مدیریت تنظیمات حفاظتی">
-<!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
-<!ENTITY contentBlocking.socialblock.label "ردیاب‌های شبکه‌های اجتماعی">
-
 <!ENTITY contentBlocking.cryptominers.label "استخراج کننده‌های رمزارزها">
 <!ENTITY contentBlocking.cryptominersView.label "استخراج کننده‌های رمزارزها">
 
@@ -989,11 +942,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "مسدود کردن محتوا در این وب‌ سایت می‌تواند منجر به مشکلاتی شود. وقتی شما این مشکلات را گزارش دهید،‌ شما به &brandShortName; کمک می‌کنید تا برای همگان بهتر شود. ( این کار یک URL به همراه اطلاعات در خصوص تنظیمات مرورگر شما به موزیلا ارسال می‌کند.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "بیشتر بدانید">
 
-<!ENTITY contentBlocking.breakageReportView.title "گزارش یک سایت خراب">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "اطلاعات بیشتر">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "چه مشکلی داشتید؟ (اختیاری)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "اختیاری: مشکل را شرح دهید">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ارسال گزارش">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "انصراف">
 

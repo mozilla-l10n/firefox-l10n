@@ -5,3 +5,4 @@
 keyword-remove-button =
     .label = حذف
     .accesskey = ح
+

@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Customize New Mail Alert
+
 customize-alert-description = Choose which fields to show in the alert notification:
+
 preview-text-checkbox =
     .label = Message Preview Text
     .accesskey = M
+
 subject-checkbox =
     .label = موضوع
     .accesskey = م
+
 sender-checkbox =
     .label = Sender
     .accesskey = e

@@ -381,8 +381,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = استفاده از { $plugin-name } (در { -brand-short-name })
-applications-preview-inapp =
-    .label = پیش‌نمایش در { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -396,9 +394,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -603,11 +598,16 @@ home-prefs-topsites-header =
     .label = سایت‌های برتر
 home-prefs-topsites-description = سایت‌هایی که بیشتر بازدید می‌کنید
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = پیشنهاد شده توسط { $provider }
 home-prefs-recommended-by-description = محتوایی عالی از سراسر وب، شخصی شده برای شما
+##
+
 home-prefs-recommended-by-learn-more = این چجوری کار میکنه
 home-prefs-recommended-by-option-sponsored-stories =
     .label = محتوایی از حامیان مالی
@@ -909,9 +909,9 @@ privacy-header = حریم خصوصی مرورگر
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = ورودها و گذرواژه‌ها
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = ورودها و گذرواژه‌ها

@@ -4,9 +4,11 @@
 
 fonts-encoding-dialog-title =
     .title = Fonts & Encodings
+
 fonts-language-legend =
     .value = قلم‌ها برای:
     .accesskey = ق
+
 fonts-proportional-label =
     .value = مختلف العرض:
     .accesskey = م
@@ -62,20 +64,26 @@ font-language-group-malayalam =
 
 default-font-serif =
     .label = سِریف
+
 default-font-sans-serif =
     .label = بدون سِریف
+
 font-serif-label =
     .value = سریف:
     .accesskey = س
+
 font-sans-serif-label =
     .value = بدون سریف:
     .accesskey = ب
+
 font-monospace-label =
     .value = تک‌عرض:
     .accesskey = ت
+
 font-min-size-label =
     .value = حداقل اندازهٔ قلم:
     .accesskey = ح
+
 min-size-none =
     .label = هیچ
 
@@ -90,6 +98,8 @@ use-document-fonts-checkbox =
 font-outgoing-email-label =
     .value = Outgoing Mail:
     .accesskey = u
+
 font-incoming-email-label =
     .value = Incoming Mail:
     .accesskey = I
+
