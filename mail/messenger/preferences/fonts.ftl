@@ -85,9 +85,13 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = Teckensnittsval
 use-document-fonts-checkbox =
     .label = Låt meddelanden använda andra teckensnitt
     .accesskey = L
+use-fixed-width-plain-checkbox =
+    .label = Använd teckensnitt med fast bredd för meddelanden med vanlig text
+    .accesskey = A
 
 ## Language settings
 
