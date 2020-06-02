@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = 오프라인 설정
+autodetect-online-label =
+    .label = 자동으로 온라인 상태 탐지
+    .accesskey = d
+startup-label = 시작할 때:
 status-radio-remember =
     .label = 이전의 온라인 상태 기억하기
     .accesskey = R
+status-radio-ask =
+    .label = 시작할 온라인 상태 묻기
+    .accesskey = k
+status-radio-always-online =
+    .label = 시작할 때 항상 온라인
+    .accesskey = l
+status-radio-always-offline =
+    .label = 시작할 때 항상 오프라인
+    .accesskey = f
 going-online-label = 온라인으로 전환 시에 보내지 않은 메시지를 보내겠습니까?
 going-online-auto =
     .label = 예
