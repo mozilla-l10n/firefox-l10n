@@ -14,6 +14,7 @@ window-focus-search-alt-key =
 filter-search-label =
     .value = Arama:
     .accesskey = A
+cookies-on-system-label = Aşağıdaki çerezler bilgisayarınızda depolanmıştır:
 treecol-site-header =
     .label = Site
 props-name-label =
