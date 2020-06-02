@@ -70,6 +70,14 @@ font-language-group-math =
     .label = Μαθηματικά
 font-language-group-odia =
     .label = Όντια
+font-language-group-telugu =
+    .label = Τελούγκου
+font-language-group-kannada =
+    .label = Κανάντα
+font-language-group-sinhala =
+    .label = Σινχάλα
+font-language-group-tibetan =
+    .label = Θιβετιανή
 
 ## Default font type
 
