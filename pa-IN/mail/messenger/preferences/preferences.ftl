@@ -8,6 +8,9 @@ category-compose =
 pane-chat-title = ਗੱਲਬਾਤ
 category-chat =
     .tooltiptext = ਗੱਲਬਾਤ
+pane-calendar-title = Calendar
+category-calendar =
+    .tooltiptext = Calendar
 
 ## OS Authentication dialog
 
@@ -266,6 +269,40 @@ cloud-account-description = Add a new Filelink storage service
 
 ## Privacy Tab
 
+mail-content = Mail Content
+remote-content-label =
+    .label = Allow remote content in messages
+    .accesskey = A
+exceptions-button =
+    .label = Exceptions…
+    .accesskey = E
+remote-content-info =
+    .value = Learn more about the privacy issues of remote content
+web-content = Web Content
+cookies-label =
+    .label = Accept cookies from sites
+    .accesskey = A
+third-party-label =
+    .value = Accept third-party cookies:
+    .accesskey = c
+third-party-always =
+    .label = Always
+third-party-never =
+    .label = Never
+third-party-visited =
+    .label = From visited
+keep-label =
+    .value = Keep until:
+    .accesskey = K
+keep-expire =
+    .label = they expire
+keep-close =
+    .label = I close { -brand-short-name }
+keep-ask =
+    .label = ask me every time
+cookies-button =
+    .label = Show Cookies…
+    .accesskey = S
 passwords-description = { -brand-short-name } can remember passwords for all of your accounts.
 passwords-button =
     .label = Saved Passwords…
