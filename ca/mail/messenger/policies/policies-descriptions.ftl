@@ -20,3 +20,7 @@ policy-BlockAboutSupport = Bloca l'accés a la pàgina about:support.
 
 policy-DisableDeveloperTools = Bloca l'accés a les eines per a desenvolupadors.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+

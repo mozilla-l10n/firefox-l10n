@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Personalització de l'avís de nou correu
+
 customize-alert-description = Trieu quins camps es mostraran en les notificacions d'avís:
+
 preview-text-checkbox =
     .label = Text de previsualització del missatge
     .accesskey = m
+
 subject-checkbox =
     .label = Assumpte
     .accesskey = s
+
 sender-checkbox =
     .label = Remitent
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Mostra l'avís de nou correu durant
     .accesskey = n
+
 open-time-label-after =
     .value = segons

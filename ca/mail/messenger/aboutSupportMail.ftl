@@ -16,3 +16,4 @@ accounts-default = Per defecte?
 identity-name = Identitat
 
 send-via-email = Envia per correu electrònic
+

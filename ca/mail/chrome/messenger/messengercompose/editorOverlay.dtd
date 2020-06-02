@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Cerca text a la pàgina">
 <!ENTITY spellToolbarCmd.label "Ortografia">
 <!ENTITY spellToolbarCmd.tooltip "Verifica l'ortografia de la selecció o de tota la pàgina">
+
 <!ENTITY imageToolbarCmd.label "Imatge">
 <!ENTITY imageToolbarCmd.tooltip "Insereix una imatge nova o edita les propietats de la imatge seleccionada">
 <!ENTITY hruleToolbarCmd.label "Línia horitzontal">
