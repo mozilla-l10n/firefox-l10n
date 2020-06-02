@@ -5,6 +5,9 @@
 pane-general-title = Obecné
 category-general =
     .tooltiptext = { pane-general-title }
+pane-calendar-title = Kalendář
+category-calendar =
+    .tooltiptext = Kalendář
 general-language-and-appearance-header = Zobrazení a jazyk stránek
 general-incoming-mail-header = Příchozí pošta
 general-files-and-attachment-header = Soubory a přílohy
@@ -97,6 +100,10 @@ update-in-progress-cancel-button = &Pokračovat
 
 ##
 
+enable-cloud-share =
+    .label = Nabízet nahrávání na úložiště pro soubory větší než
+cloud-share-size =
+    .value = MB
 
 ## Privacy Tab
 
@@ -104,6 +111,9 @@ junk-description = Další nastavení nevyžádané pošty lze provést v dialog
 junk-label =
     .label = Pokud ručně označím zprávy jako nevyžádané:
     .accesskey = r
+junk-move-label =
+    .label = Přesunout je do složky „Nevyžádaná“
+    .accesskey = n
 junk-delete-label =
     .label = Smazat
     .accesskey = S
