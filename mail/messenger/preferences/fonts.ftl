@@ -10,6 +10,8 @@ fonts-label-default =
     .label = Predefinido ({ $name })
 fonts-label-default-unnamed =
     .label = Predefinido
+fonts-encoding-dialog-title =
+    .title = Tipos de letra e codificação
 fonts-proportional-label =
     .value = Proporcional:
     .accesskey = P
@@ -18,6 +20,12 @@ fonts-proportional-label =
 
 font-language-group-japanese =
     .label = Japonês
+font-language-group-trad-chinese =
+    .label = Mandarim tradicional (Taiwan)
+font-language-group-simpl-chinese =
+    .label = Mandarim simplificado
+font-language-group-trad-chinese-hk =
+    .label = Mandarim tradicional (Hong Kong)
 font-language-group-korean =
     .label = Coreano
 font-language-group-cyrillic =
@@ -53,6 +61,11 @@ font-language-group-malayalam =
 
 ## Default font type
 
+default-font-serif =
+    .label = Serifa
+font-serif-label =
+    .value = Serifa:
+    .accesskey = S
 font-min-size-label =
     .value = Tamanho mínimo da letra:
     .accesskey = i
@@ -61,6 +74,10 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = Controlo de letras
+use-fixed-width-plain-checkbox =
+    .label = Utilizar largura fixa para mensagens sem formatação
+    .accesskey = x
 
 ## Language settings
 
