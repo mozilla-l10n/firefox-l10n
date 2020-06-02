@@ -446,6 +446,7 @@ antivirus-description = { -brand-short-name } יכול לגרום לתוכנות
 antivirus-label =
     .label = אפשר ללקוחות אנטי וירוס לבודד הודעות יחידות מתוך ההודעות הנכנסות
     .accesskey = ב
+certificate-description = כאשר שרת מבקש את אישור האבטחה האישי שלי:
 certificate-auto =
     .label = בחר אחד באופן אוטומטי
     .accesskey = א
