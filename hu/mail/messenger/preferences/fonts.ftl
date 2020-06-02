@@ -72,6 +72,7 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = Betűbeállítások
 
 ## Language settings
 
