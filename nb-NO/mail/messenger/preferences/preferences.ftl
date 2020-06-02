@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Lukk
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Skriving
 category-compose =
     .tooltiptext = Skriving
+pane-privacy-title = Personvern og sikkerhet
+category-privacy =
+    .tooltiptext = Personvern og sikkerhet
 pane-chat-title = Nettprat
 category-chat =
     .tooltiptext = Nettprat
@@ -70,6 +75,7 @@ update-in-progress-ok-button = &Avvis
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsett
+addons-button = Utvidelser og temaer
 
 ## OS Authentication dialog
 
@@ -102,6 +108,15 @@ restore-default-label =
     .label = Bruk standard
     .accesskey = u
 default-search-engine = Standard søkemotor
+add-search-engine =
+    .label = Legg til fra fil
+    .accesskey = e
+remove-search-engine =
+    .label = Fjern
+    .accesskey = e
+minimize-to-tray-label =
+    .label = Når { -brand-short-name } er minimert, flytt den til systemstatusfeltet
+    .accesskey = m
 new-message-arrival = Når en ny melding ankommer:
 mail-play-sound-label =
     .label =
@@ -121,6 +136,7 @@ change-dock-icon = Endre innstillinger for app-ikonet
 app-icon-options =
     .label = Innstillinger for app-ikon …
     .accesskey = n
+notification-settings = Varsler og standardlyden kan deaktiveres i Varslinger-panelet i Systemvalg.
 animated-alert-label =
     .label = Vis en beskjed
     .accesskey = n
@@ -139,6 +155,8 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Slå på globalt søk og indeksering
     .accesskey = S
+datetime-formatting-legend = Formatering av dato og tid
+language-selector-legend = Språk
 allow-hw-accel =
     .label = Bruk maskinvareakselerasjon når tilgjengelig
     .accesskey = m
@@ -150,6 +168,9 @@ mbox-store-label =
 maildir-store-label =
     .label = Fil per melding (maildir)
 scrolling-legend = Rulling
+autoscroll-label =
+    .label = Bruk automatisk rulling
+    .accesskey = B
 smooth-scrolling-label =
     .label = Bruk jevn rulling
     .accesskey = r
@@ -178,6 +199,11 @@ return-receipts-description = Bestem hvordan { -brand-short-name } behandler kvi
 return-receipts-button =
     .label = Kvitteringer …
     .accesskey = K
+update-app-legend = { -brand-short-name }-oppdateringer
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versjon { $version }
+allow-description = Tillat { -brand-short-name } å
 automatic-updates-label =
     .label = Automatisk installer oppdateringer (anbefalt: bedre sikkerhet)
     .accesskey = A
@@ -190,6 +216,7 @@ update-history-button =
 use-service =
     .label = Bruk en bakgrunnstjeneste for å installere oppdateringer
     .accesskey = B
+cross-user-udpate-warning = Denne innstilling gjelder for alle Windows-kontoer og { -brand-short-name }-profiler som bruker denne installasjonen av { -brand-short-name }.
 networking-legend = Tilkobling
 proxy-config-description = Bestem hvordan { -brand-short-name } kobler til Internett
 network-settings-button =
@@ -218,6 +245,9 @@ use-cache-after = MB diskplass for hurtiglager
 
 ##
 
+smart-cache-label =
+    .label = Overstyr automatisk hurtigbufferadministrasjon
+    .accesskey = v
 clear-cache-button =
     .label = Tøm nå
     .accesskey = T
@@ -289,6 +319,9 @@ always-ask-label =
     .label = Alltid spør meg hvor jeg vil lagre filer
     .accesskey = A
 display-tags-text = Etiketter kan brukes for å kategorisere og prioritere meldingene dine.
+new-tag-button =
+    .label = Ny…
+    .accesskey = N
 edit-tag-button =
     .label = Rediger …
     .accesskey = R
@@ -326,6 +359,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Lukk meldingsvindu/fane ved flytting eller sletting
     .accesskey = L
+display-name-label =
+    .value = Visningsnavn:
 condensed-addresses-label =
     .label = Vis bare visningsnavnet for personer i adresseboken
     .accesskey = V
@@ -369,6 +404,12 @@ download-dictionaries-link = Last ned flere ordbøker
 font-label =
     .value = Skrifttype:
     .accesskey = S
+font-size-label =
+    .value = Størrelse:
+    .accesskey = e
+default-colors-label =
+    .label = Bruk leserens standardfarger
+    .accesskey = d
 font-color-label =
     .value = Tekstfarge:
     .accesskey = T
@@ -400,6 +441,9 @@ edit-directories-label =
 email-picker-label =
     .label = Automatisk legg til adresser fra utgående e-post i:
     .accesskey = A
+default-directory-label =
+    .value = Standard startkatalog i adressbokvinduet.
+    .accesskey = S
 default-last-label =
     .none = Sist brukte katalog
 attachment-label =
@@ -419,6 +463,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Fjern
     .accesskey = F
+find-cloud-providers =
+    .value = Finn flere leverandører…
 cloud-account-description = Legg til en Filelink lagringstjeneste
 
 ## Privacy Tab
@@ -460,6 +506,11 @@ keep-ask =
 cookies-button =
     .label = Vis infokapsler …
     .accesskey = V
+do-not-track-label =
+    .label = Send nettsider et «Ikke spor»-signal om at du ikke vil bli sporet
+    .accesskey = n
+learn-button =
+    .label = Les mer
 passwords-description = { -brand-short-name } kan huske passordene for alle kontoene dine.
 passwords-button =
     .label = Lagrede passord …
@@ -511,6 +562,12 @@ certificate-ask =
 ocsp-label =
     .label = Spør OCSP-serverne om å bekrefte gyldigheten til sertifikater
     .accesskey = S
+certificate-button =
+    .label = Behandle sertifikater…
+    .accesskey = B
+security-devices-button =
+    .label = Sikkerhetsenheter…
+    .accesskey = e
 
 ## Chat Tab
 
@@ -551,6 +608,17 @@ notification-name =
     .label = bare med avsenderens navn
 notification-empty =
     .label = uten noe info
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animer dock-ikonet
+           *[other] Blink i oppgavelinjen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] B
+        }
 chat-play-sound-label =
     .label = Spill av en lyd
     .accesskey = l
@@ -566,6 +634,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Bla gjennom …
     .accesskey = l
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bobler
+style-dark =
+    .label = Mørkt
+style-paper =
+    .label = Papirark
+style-simple =
+    .label = Enkelt
+preview-label = Forhåndsvisning:
+no-preview-label = Ingen forhåndsvisning tilgjengelig
+no-preview-description = Dette temaet er ikke gyldig eller er for øyeblikket utilgjengelig (deaktivert utvidelse, sikker modus, ...).
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Vis overskrift
+    .accesskey = o
 
 ## Preferences UI Search Results
 
