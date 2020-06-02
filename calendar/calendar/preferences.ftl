@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = 日历
+calendar-title-reminder = 提醒
+calendar-title-category = 分类
 dateformat-label =
     .value = 日期格式：
     .accesskey = D
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = 在视图和小月历中显示周数
     .accesskey = w
+workdays-label =
+    .value = 每周工作日：
 day-1-checkbox =
     .label = 日
     .accesskey = S
@@ -102,6 +107,9 @@ soon-label =
     .value = “即将到来”区块将显示：
     .accesskey = U
 event-task-legend = 事件和任务
+default-length-label =
+    .value = 默认事件和任务长度:
+    .accesskey = E
 task-start-label =
     .value = 开始日期：
 task-start-1-label =
@@ -139,6 +147,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = 使用默认声音
     .accesskey = d
+reminder-custom-sound-label =
+    .label = 使用下列声音文件
+    .accesskey = U
 reminder-browse-sound-label =
     .label = 浏览…
     .accesskey = B
