@@ -4,10 +4,23 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = 기본 ({ $name })
 fonts-label-default-unnamed =
     .label = 기본
+
+## Languages
+
+font-language-group-odia =
+    .label = Odia
+
+## Default font type
+
+
+## Fonts in message
+
+
+## Language settings
+
