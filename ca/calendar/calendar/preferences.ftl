@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Calendari
+calendar-title-reminder = Recordatoris
+calendar-title-category = Categories
 dateformat-label =
     .value = Format de les dates:
     .accesskey = d
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Mostra el número de setmana a les vistes i al mini-mes
     .accesskey = M
+workdays-label =
+    .value = Dies feiners:
 day-1-checkbox =
     .label = dg
     .accesskey = g
@@ -102,6 +107,9 @@ soon-label =
     .value = La secció «Properes» mostra:
     .accesskey = P
 event-task-legend = Cites i tasques
+default-length-label =
+    .value = Durada per defecte de les cites i tasques:
+    .accesskey = D
 task-start-label =
     .value = Data d'inici:
 task-start-1-label =
@@ -139,6 +147,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Utilitza el so per defecte
     .accesskey = d
+reminder-custom-sound-label =
+    .label = Utilitza el fitxer de so següent
+    .accesskey = U
 reminder-browse-sound-label =
     .label = Navega…
     .accesskey = N
