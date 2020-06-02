@@ -324,6 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+
 <!ENTITY overflowCustomizeToolbar.label       "Personalizar la barra de ferramientas…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
