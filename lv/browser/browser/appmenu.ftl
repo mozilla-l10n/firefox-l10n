@@ -6,6 +6,7 @@
 ## App Menu
 
 appmenuitem-protection-report-title = Privātuma aizsardzība
+
 appmenuitem-customize-mode =
     .label = Pielāgot…
 

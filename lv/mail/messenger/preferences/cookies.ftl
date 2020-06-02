@@ -5,6 +5,7 @@
 filter-search-label =
     .value = Meklēt:
     .accesskey = M
+
 cookie-close-button =
     .label = Aizvērt
     .accesskey = A

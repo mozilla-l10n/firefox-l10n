@@ -5,6 +5,8 @@
 keyword-edit-button =
     .label = Rediģēt...
     .accesskey = e
+
 keyword-remove-button =
     .label = Dzēst
     .accesskey = D
+

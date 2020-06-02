@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = Lietotājvārdi un paroles
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -44,4 +49,7 @@ login-app-promo-title = Paņemiet paroles sev līdz
 
 
 ## Error Messages
+
+
+## Login Export Dialog
 

@@ -20,12 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Atsaukt cilnes aizvēršanu
     .accesskey = u
+
 toolbar-context-menu-manage-extension =
     .label = Pārvaldīt paplašinājumu
     .accesskey = P
 toolbar-context-menu-remove-extension =
     .label = Aizvākt meklētāju
     .accesskey = n
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
