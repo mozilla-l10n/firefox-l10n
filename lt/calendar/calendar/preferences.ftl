@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Kalendorius
+calendar-title-reminder = Priminimai
+calendar-title-category = Kategorijos
 dateformat-label =
     .value = Datos formatas:
     .accesskey = D
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Rodyti savaičių numerius
     .accesskey = v
+workdays-label =
+    .value = Darbo dienos savaitėje:
 day-1-checkbox =
     .label = Sk
     .accesskey = S
@@ -70,6 +75,9 @@ midnight-label =
     .label = Vidurnaktis
 noon-label =
     .label = Vidurdienis
+location-checkbox =
+    .label = Rodyti vietą
+    .accesskey = v
 multiweek-legend = Kelių savaičių kalendorius
 number-of-weeks-label =
     .value = Numatytai rodyti savaičių (tame tarpe praėjusių):
@@ -92,7 +100,16 @@ previous-weeks-label =
     .value = Rodyti praėjusių savaičių:
     .accesskey = y
 todaypane-legend = Šiandienos polangis
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Skyriuje „Netrukus“ rodyti:
+    .accesskey = N
 event-task-legend = Įvykiai ir darbai
+default-length-label =
+    .value = Numatytoji įvykio ir užduoties trukmė:
+    .accesskey = N
 task-start-label =
     .value = Pradžia:
 task-start-1-label =
@@ -130,12 +147,18 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Naudoti numatytąjį garsą
     .accesskey = n
+reminder-custom-sound-label =
+    .label = Naudoti šį garso failą
+    .accesskey = g
 reminder-browse-sound-label =
     .label = Parinkti…
     .accesskey = r
 reminder-dialog-label =
     .label = Parodyti priminimo dialogą
     .accesskey = P
+missed-reminder-label =
+    .label = Rodyti praleistus priminimus (redaguojamiems kalendoriams)
+    .accesskey = l
 reminder-default-legend = Numatytosios priminimų nuostatos
 default-snooze-label =
     .value = Numatytasis priminimų atidėjimo laikas:
