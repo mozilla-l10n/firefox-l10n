@@ -100,6 +100,12 @@ previous-weeks-label =
     .value = Počet předchozích týdnů:
     .accesskey = o
 todaypane-legend = Dnešní panel
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Sekce Nadcházející zobrazuje:
+    .accesskey = N
 event-task-legend = Události a úkoly
 default-length-label =
     .value = Výchozí doba trvání události a úkolu:
