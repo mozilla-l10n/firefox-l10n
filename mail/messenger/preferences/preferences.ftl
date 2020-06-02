@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Close
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = Composition
 category-compose =
     .tooltiptext = Composition
+pane-privacy-title = Privacy & Security
+category-privacy =
+    .tooltiptext = Privacy & Security
 pane-chat-title = Chat
 category-chat =
     .tooltiptext = Chat
@@ -70,6 +75,7 @@ update-in-progress-ok-button = &Discard
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
+addons-button = Extensions & Themes
 
 ## OS Authentication dialog
 
@@ -99,6 +105,9 @@ restore-default-label =
     .label = Restore Default
     .accesskey = R
 default-search-engine = Default Search Engine
+minimize-to-tray-label =
+    .label = When { -brand-short-name } is minimised, move it to the tray
+    .accesskey = m
 new-message-arrival = When new messages arrive:
 mail-play-sound-label =
     .label =
@@ -184,6 +193,7 @@ update-app-legend = { -brand-short-name } Updates
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Version { $version }
+allow-description = Allow { -brand-short-name } to
 automatic-updates-label =
     .label = Automatically install updates (recommended: improved security)
     .accesskey = A
@@ -196,6 +206,7 @@ update-history-button =
 use-service =
     .label = Use a background service to install updates
     .accesskey = b
+cross-user-udpate-warning = This setting will apply to all Windows accounts and { -brand-short-name } profiles using this installation of { -brand-short-name }.
 networking-legend = Connection
 proxy-config-description = Configure how { -brand-short-name } connects to the Internet
 network-settings-button =
@@ -206,6 +217,7 @@ offline-settings = Configure offline settings
 offline-settings-button =
     .label = Offline…
     .accesskey = O
+diskspace-legend = Disk Space
 offline-compact-folder =
     .label = Compact all folders when it will save over
     .accesskey = m
@@ -337,6 +349,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Close message window/tab on move or delete
     .accesskey = C
+display-name-label =
+    .value = Display name:
 condensed-addresses-label =
     .label = Show only display name for people in my address book
     .accesskey = S
@@ -433,6 +447,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Remove
     .accesskey = R
+find-cloud-providers =
+    .value = Find more providers…
 cloud-account-description = Add a new Filelink storage service
 
 ## Privacy Tab
@@ -474,6 +490,11 @@ keep-ask =
 cookies-button =
     .label = Show Cookies…
     .accesskey = S
+do-not-track-label =
+    .label = Send web sites a “Do Not Track” signal that you don’t want to be tracked
+    .accesskey = n
+learn-button =
+    .label = Learn more
 passwords-description = { -brand-short-name } can remember passwords for all of your accounts.
 passwords-button =
     .label = Saved Passwords…
@@ -525,6 +546,12 @@ certificate-ask =
 ocsp-label =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
+certificate-button =
+    .label = Manage Certificates…
+    .accesskey = M
+security-devices-button =
+    .label = Security Devices…
+    .accesskey = D
 
 ## Chat Tab
 
@@ -565,6 +592,17 @@ notification-name =
     .label = with sender's name only
 notification-empty =
     .label = without any info
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animate dock icon
+           *[other] Flash the taskbar item
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Play a sound
     .accesskey = d
@@ -580,6 +618,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Browse…
     .accesskey = B
+theme-label =
+    .value = Theme:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bubbles
+style-dark =
+    .label = Dark
+style-paper =
+    .label = Paper Sheets
+style-simple =
+    .label = Simple
+preview-label = Preview:
+no-preview-label = No preview available
+no-preview-description = This theme is not valid or is currently unavailable (disabled add-on, safe-mode, …).
+chat-variant-label =
+    .value = Variant:
+    .accesskey = V
+chat-header-label =
+    .label = Show Header
+    .accesskey = H
 
 ## Preferences UI Search Results
 
