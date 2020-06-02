@@ -10,3 +10,12 @@ msgevent-encryption_error = Hiba történt az üzenet titkosításakor. Az üzen
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-connection_ended = { $name } már bezárta a titkosított kapcsolatot Önnel. Hogy elkerülje az üzenet titkosítás nélküli véletlen elküldését, az üzenete nem lett elküldve. Fejezze be a titkosított beszélgetést, vagy indítsa újra.
+error-enc = Hiba történt az üzenet titkosításakor.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Titkosított adatokat küldött { $name } számára, aki nem számított rá.
+error-unreadable = Olvashatatlan titkosított üzenetet továbbított.
+error-malformed = Nem megfelelő formátumú adatüzenetet továbbított.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } befejezte a titkosított beszélgetését Önnel; Önnek is ugyanezt kell tennie.
