@@ -120,9 +120,13 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-description = Laiškų rašymo ir skaitymo numatytosios koduotės
 font-outgoing-email-label =
     .value = Laiškų rašymo:
     .accesskey = r
 font-incoming-email-label =
     .value = Laiškų skaitymo:
     .accesskey = s
+default-font-reply-checkbox =
+    .label = Kai galima, numatytąją koduotę naudoti ir atsakant į laiškus
+    .accesskey = n
