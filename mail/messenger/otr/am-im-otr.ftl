@@ -9,3 +9,6 @@ view-fingerprint-button =
     .label = 管理聯絡人的指紋
     .accesskey = F
 otr-settings-title = OTR 設定
+otr-verifyNudge =
+    .label = 總是提醒我要對尚未驗證的聯絡人做驗證
+otr-notYetAvailable = 還無法使用
