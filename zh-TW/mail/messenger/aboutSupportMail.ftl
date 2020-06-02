@@ -16,3 +16,4 @@ accounts-default = 預設值？
 identity-name = 身份識別
 
 send-via-email = 透過電子郵件寄出
+

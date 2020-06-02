@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "在此頁面中尋找">
 <!ENTITY spellToolbarCmd.label "拼字">
 <!ENTITY spellToolbarCmd.tooltip "在整頁或選取文字中檢查拼字">
+
 <!ENTITY imageToolbarCmd.label "圖片">
 <!ENTITY imageToolbarCmd.tooltip "插入新圖片或編輯已選取圖片的屬性">
 <!ENTITY hruleToolbarCmd.label "水平線">

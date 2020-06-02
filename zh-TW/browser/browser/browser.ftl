@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name }（隱私瀏覽模式）
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name }（隱私瀏覽模式）
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } -（隱私瀏覽模式）
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } -（隱私瀏覽模式）
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -136,10 +138,12 @@ urlbar-midi-blocked =
     .tooltiptext = 您已封鎖此網站的 MIDI 存取權限。
 urlbar-install-blocked =
     .tooltiptext = 您已封鎖此網站安裝附加元件。
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = 編輯此書籤 ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -170,12 +174,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = 這次使用下列搜尋引擎搜尋:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = 變更搜尋設定
 search-one-offs-change-settings-compact-button =
     .tooltiptext = 修改搜尋設定
+
 search-one-offs-context-open-new-tab =
     .label = 在新分頁中搜尋
     .accesskey = T
@@ -191,8 +197,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = 儲存時顯示編輯器
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = 完成
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -266,12 +274,15 @@ popup-select-microphone =
     .value = 要分享的麥克風:
     .accesskey = M
 popup-all-windows-shared = 將分享您畫面上所有可見的視窗。
+
 popup-screen-sharing-not-now =
     .label = 現在不要
     .accesskey = w
+
 popup-screen-sharing-never =
     .label = 永不允許
     .accesskey = N
+
 popup-silence-notifications-checkbox = 分享時，不顯示 { -brand-short-name } 的通知
 popup-silence-notifications-checkbox-warning = { -brand-short-name } 將不會在進行分享時顯示通知。
 
@@ -288,6 +299,7 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = 請透過「網頁開發者」選單開啟開發者工具，才能使用 F12 快速鍵。
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -300,9 +312,11 @@ urlbar-permissions-granted =
     .tooltiptext = 您已授予此網站更多權限。
 urlbar-switch-to-tab =
     .value = 切換到分頁:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 擴充套件:
+
 urlbar-go-button =
     .tooltiptext = 按此前往網址列中的網址
 urlbar-page-action-button =

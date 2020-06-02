@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = 新增標籤
+
 tag-name-label =
     .value = 標籤名稱:
     .accesskey = T
