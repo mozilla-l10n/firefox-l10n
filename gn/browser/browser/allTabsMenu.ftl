@@ -4,6 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Emboguevi ha emboty tendayke
+
 all-tabs-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -11,13 +12,17 @@ all-tabs-menu-undo-close-tabs =
             [one] Emboguevi tendayke ñemboty
            *[other] Emboguevi tendaykekuéra ñemboty
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Eheka tendayke
+
 all-tabs-menu-new-user-context =
     .label = Tendayke pyahu rerekoha
+
 all-tabs-menu-hidden-tabs =
     .label = Tendayke kañymby
+
 all-tabs-menu-manage-user-context =
     .label = Jeguerekoha ñangarekohára
     .accesskey = O

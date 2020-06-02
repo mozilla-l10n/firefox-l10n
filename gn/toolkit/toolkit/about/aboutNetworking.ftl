@@ -57,6 +57,7 @@ rcwn-avg-long = Mombytegua ipukúva
 rcwn-std-dev-long = Ñemboyke ha'etéva ipukúva
 rcwn-cache-slow = Kache nemba'etéva imbeguéva
 rcwn-cache-not-slow = Kache nemba'etéva imbegue'ỹva
+
 about-networking-title = Ñanduti raperã rehegua
 about-networking-http = HTTP
 about-networking-sockets = Moingeha

@@ -596,9 +596,6 @@ updates-heading = Eñangareko ne ñembohekopyahúre
 discover-heading = Emomba'e nde { -brand-short-name }
 shortcuts-heading = Eñangareko jepysokue jeike pya’eháre
 
-theme-heading-search-label = Ejuhuvéta téma
-extension-heading-search-label = Ejuhuvéta jepysokue
-
 default-heading-search-label = Ehekave moimbaha
 addons-heading-search-input =
     .placeholder = Eheka addons.mozilla.org
