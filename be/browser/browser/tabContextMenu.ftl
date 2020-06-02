@@ -56,6 +56,18 @@ move-to-new-window =
 undo-close-tab =
     .label = Адмяніць закрыццё карткі
     .accesskey = А
+tab-context-close-multiple-tabs =
+    .label = Закрыць некалькі картак
+    .accesskey = ь
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Адмяніць закрыццё карткі
+            [one] Адмяніць закрыццё карткі
+            [few] Адмяніць закрыццё картак
+           *[many] Адмяніць закрыццё картак
+        }
+    .accesskey = я
 close-tab =
     .label = Закрыць картку
     .accesskey = З
