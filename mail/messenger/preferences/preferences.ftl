@@ -5,6 +5,9 @@
 pane-compose-title = संरचना
 category-compose =
     .tooltiptext = संरचना
+pane-calendar-title = कैलेन्डर
+category-calendar =
+    .tooltiptext = कैलेन्डर
 
 ## OS Authentication dialog
 
