@@ -16,6 +16,14 @@ checkbox-email-label =
 checkbox-newsgroups-label =
     .label = Nyheitsgrupper
     .tooltiptext = { unset-default-tooltip }
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+system-search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows-søk
+       *[other] { "" }
+    }
 system-search-integration-label =
     .label = Tillat { system-search-engine-name } å søke i meldingar
     .accesskey = T
