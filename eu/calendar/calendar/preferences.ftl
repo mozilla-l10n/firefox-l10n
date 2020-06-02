@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Egutegia
+calendar-title-reminder = Gogorarazleak
+calendar-title-category = Kategoriak
 dateformat-label =
     .value = Data testu formatua:
     .accesskey = D
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Erakutsi aste zenbakiak ikuspegietan eta mini-hilabetetan
     .accesskey = n
+workdays-label =
+    .value = Asteko lanegunak:
 day-1-checkbox =
     .label = Ig.
     .accesskey = I
@@ -102,6 +107,9 @@ soon-label =
     .value = Hurrengo atalak erakusten du:
     .accesskey = U
 event-task-legend = Gertaerak eta zereginak
+default-length-label =
+    .value = Gertaera eta zeregin lehenetsien luzera:
+    .accesskey = L
 task-start-label =
     .value = Hasiera-data:
 task-start-1-label =
@@ -139,6 +147,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Erabili soinu lehenetsia
     .accesskey = l
+reminder-custom-sound-label =
+    .label = Erabili hurrengo soinu-fitxategia
+    .accesskey = E
 reminder-browse-sound-label =
     .label = Arakatu…
     .accesskey = A
