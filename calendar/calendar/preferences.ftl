@@ -99,6 +99,7 @@ task-start-7-label =
     .label = Relativo ao início
 task-start-8-label =
     .label = Relativo à próxima hora
+accessibility-legend = Acessibilidade
 reminder-legend = Se o lembrete estiver vencido:
 reminder-dialog-label =
     .label = Mostrar uma caixa de alarme
