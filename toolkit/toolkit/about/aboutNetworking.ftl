@@ -57,6 +57,7 @@ rcwn-avg-long = Dłujki pśerězk
 rcwn-std-dev-long = Dłujke standardne wótchylenje
 rcwn-cache-slow = Pomałe licenje pufrowaś
 rcwn-cache-not-slow = Pomałe licenje njepufrowaś
+
 about-networking-title = Wo seśowych zwiskach
 about-networking-http = HTTP
 about-networking-sockets = Sokety

@@ -10,17 +10,6 @@ remove-address-row-type = Pólo typa { $type } wótwónoźeś
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Prozne zapódawańske pólo typa { $type }
-        [one] Zapódawańske pólo typa { $type } z jadneju adresu
-        [two] Zapódawańske pólo typa { $type } z { $count } adresoma
-        [few] Zapódawańske pólo typa { $type } z { $count } adresami
-       *[other] Zapódawańske pólo typa { $type } z { $count } adresami
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -55,3 +44,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Do schowaneje kopije pśesunuś
     .accesskey = s
+

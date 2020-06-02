@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Tekst na boku namakaś">
 <!ENTITY spellToolbarCmd.label "Pšawopis kontrolěrowaś">
 <!ENTITY spellToolbarCmd.tooltip "Pšawopis wuběrka abo cełego boka kontrolěrowaś">
+
 <!ENTITY imageToolbarCmd.label "Wobraz">
 <!ENTITY imageToolbarCmd.tooltip "Nowy wobraz zasajźiś abo kakosći wubranego wobraza wobźěłaś">
 <!ENTITY hruleToolbarCmd.label "Horicontalna linija">

@@ -285,10 +285,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Sćo blokěrował pśistup k MIDI za toś to websedło.">
 <!ENTITY urlbar.installBlocked.tooltip           "Sćo blokěrował instalěrowanje dodankow za toś to websedło.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Sćo pśizwólił toś tomu websedłoju pśidatne pšawa.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazaś">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Sćo pśizwólił toś tomu websedłoju pśidatne pšawa.">
 
 
 <!ENTITY searchItem.title             "Pytaś">
@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Pśiměriś…">
 <!ENTITY viewCustomizeToolbar.accesskey     "m">
+
 <!ENTITY overflowCustomizeToolbar.label       "Symbolowu rědku pśiměriś…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
 
@@ -883,54 +884,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Nastajenja blokěrowanja wopśimjeśa wócyniś">
 
 
-<!ENTITY protections.etpON.header "Pólěpšony slědowański šćit jo zmóžnjony za toś to sedło">
-<!ENTITY protections.etpOFF.header "Polěpšony slědowański šćit jo znjemóžnjony za toś to sedło">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Dalšne informacije wó pólěpšonem slědowańskem šćiśe">
-<!ENTITY protections.settings.label "Šćitowe nastajenja">
-<!ENTITY protections.showreport.label "Rozpšawu pokazaś">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Sedło njefunkcioněrujo?">
-<!ENTITY protections.siteNotWorkingView.title "Sedło njefunkcioněrujo?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Znjemóžniśo šćit, jolic maśo problemy z:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Pśizjawjeńske póla">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Formulary">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Płaśenja">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Komentary">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Wideo">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Rozpšawu pósłaś">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Blokěrowany">
-<!ENTITY protections.notBlocking2.label "Dowólony">
-<!ENTITY protections.notFound.label "Njenamakany">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Cogodla?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Gaž toś te elementy blokěrujośo, snaź wěste websedła wěcej pšawje njefunkcioněruju. Někotare tłocaški, formulary a pśizjawjeńske póla njemógli bźez pśeslědowakow pčawje funkcioněrowaś.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Wšykne pśeslědowaki na toś tom sydle su se zacytali, dokulaž šćit jo znjemóžnjony.">
-<!ENTITY protections.noTrackersFound.description "Žedne pśeslědowaki, kótarež &brandShortName; znajo, njejsu se namakali na toś tom boku.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Toś te cookieje wam wót sedła do sedła slěduju, aby daty wó tom zběrali, což online gótujośo. Stajaju se wót tśeśich póbitowarjow kaž na pśikład wabjarjow a analyzowych pśedewześćow.">
-<!ENTITY protections.cryptominers.description "Kryptokopanje liceńske wugbaśe wašogo systema wužywa, aby digitalne pjenjeze dobyło. Kryptokopanske skripty wašu bateriju proznje, wašo licadło spómałšuju a mógu wašu pśetrjebu energije pówušyś.">
-<!ENTITY protections.fingerprinters.description "Palcowe wótśišće zběraju nastajenja z wašogo wobglědowaka a licadła, aby profil wó was napórali. Gaž toś ten digitalny palcowy wótśišć wužywaśo, mógu wam pśez rozdźělne websedła slědowaś.">
-<!ENTITY protections.trackingContent2.description "Websedła mógu eksterne wabjenje, wideo a druge wośimjeśe ze slědujucym kodom zacytaś. Gaž slědujuce wopśimjeśe blokěrujośo, móžo to pomagaś, sedła malsnjej zacytaś, ale někotare tłocaški, formulary a pśizjawjeńske póla snaź wěcej njebudu funkcioněrowaś.">
-<!ENTITY protections.socialMediaTrackers.description "Socialne seśi placěruju pśeslědowaki na drugich websedłach, aby slědowali, což online gótujośo, wiźiśo a se wobglědujośo. To pśedewześam socialnych medijow dowólujo, wěcej wó was zgónił ako w profilach socialnych medijow źěliśo.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Rejtariki wobglědowaka">
@@ -975,13 +928,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookieje">
 <!ENTITY contentBlocking.cookiesView.label "Cookieje a sedłowe daty">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Slědujuce wopśimjeśe">
-
-<!ENTITY contentBlocking.manageSettings2.label "Šćitowe nastajenja zastojaś">
-<!ENTITY contentBlocking.manageSettings2.accesskey "n">
-
-<!ENTITY contentBlocking.socialblock.label "Pśeslědowaki socialnych medijow">
-
 <!ENTITY contentBlocking.cryptominers.label "Kryptokopanje">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptokopanje">
 
@@ -993,12 +939,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Blokěrowanje wopśimjeśa móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo &brandShortName; za kuždego pólěpšyś. (Pósćelo se Mozilla URL a informacije wó wašych nastajenjach wobglědowaka.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Dalšne informacije">
 
-<!ENTITY contentBlocking.breakageReportView.title "Wobškóźone sedło k wěsći daś">
-<!ENTITY contentBlocking.breakageReportView3.description "Blokěrowanje wěstych pśeslědowakow móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo &brandShortName; za kuždego pólěpšyś. Pósćelo se Mozilla URL a informacije wó wašych nastajenjach wobglědowaka.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Dalšne informacije">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kótare problemy sćo měł? (na žycenje)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Na žycenje: Problem wopisaś">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Rozpšawu pósłaś">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Pśetergnuś">
 

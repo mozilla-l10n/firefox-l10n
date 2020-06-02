@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Jolic false, hardwarowe póspěšenje wušaltowaś
 
 policy-InstallAddonsPermission = Wěstym websedłam dowóliś, dodanki instalěrowaś.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótskazaś.
 
 policy-NetworkPrediction = Seśowe pśedzacytanje (DNS-pśedzacytanje) zmóžniś abo znjemóžniś.
