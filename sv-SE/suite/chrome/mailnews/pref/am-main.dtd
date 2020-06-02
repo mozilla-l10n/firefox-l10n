@@ -13,6 +13,7 @@
 <!ENTITY name.accesskey "n">
 <!ENTITY email.label "E-postadress:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Svara från denna identitet när leveranshuvud matchar:">
 <!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Svarsadress:">
 <!ENTITY replyTo.accesskey "S">
