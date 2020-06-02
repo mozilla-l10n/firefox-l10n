@@ -78,6 +78,8 @@ font-language-group-kannada =
     .label = Kannada
 font-language-group-sinhala =
     .label = Sinhala
+font-language-group-tibetan =
+    .label = Tibetano
 
 ## Default font type
 
