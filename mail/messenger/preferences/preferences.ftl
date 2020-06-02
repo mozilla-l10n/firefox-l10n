@@ -25,6 +25,7 @@ animated-alert-label =
 config-editor-button =
     .label = Indlela Yokuhlela Umbhali...
     .accesskey = a
+diskspace-legend = Isikhala Esingenalutho Kwidiski
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
