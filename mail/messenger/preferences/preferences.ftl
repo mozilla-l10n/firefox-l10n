@@ -58,6 +58,7 @@ update-in-progress-ok-button = I&nterrompi
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
+addons-button = Estensioni & Temi
 
 ## OS Authentication dialog
 
@@ -90,6 +91,12 @@ restore-default-label =
     .label = Ripristina predefinita
     .accesskey = R
 default-search-engine = Motore di ricerca predefinito
+add-search-engine =
+    .label = Aggiungi da file
+    .accesskey = A
+remove-search-engine =
+    .label = Rimuovi
+    .accesskey = v
 new-message-arrival = All'arrivo di un messaggio:
 mail-play-sound-label =
     .label =
@@ -125,6 +132,34 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Sfoglia…
     .accesskey = S
+enable-gloda-search-label =
+    .label = Attiva la ricerca globale e l'indicizzazione
+    .accesskey = E
+datetime-formatting-legend = Formattazione data e ora
+allow-hw-accel =
+    .label = Utilizza l'accelerazione hardware quando disponibile
+    .accesskey = h
+store-type-label =
+    .value = Modalità di salvataggio dei messaggi per i nuovi account:
+    .accesskey = T
+mbox-store-label =
+    .label = File per cartella (mbox)
+maildir-store-label =
+    .label = Un file per ogni messaggio (maildir)
+scrolling-legend = Scrolling
+autoscroll-label =
+    .label = Utilizza lo scorrimento automatico
+    .accesskey = U
+smooth-scrolling-label =
+    .label = Utilizza lo scorrimento continuo
+    .accesskey = m
+system-integration-legend = Integrazione col sistema
+always-check-default =
+    .label = Controlla sempre all'avvio se { -brand-short-name } è il programma di posta predefinito
+    .accesskey = A
+check-default-button =
+    .label = Controlla ora…
+    .accesskey = O
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -133,14 +168,68 @@ search-engine-name =
         [windows] Ricerca di Windows
        *[other] { "" }
     }
+search-integration-label =
+    .label = Permetti a { search-engine-name } di cercare nei messaggi
+    .accesskey = P
+config-editor-button =
+    .label = Editor di configurazione…
+    .accesskey = o
+return-receipts-description = Determina come { -brand-short-name } gestisce le ricevute di ritorno
+return-receipts-button =
+    .label = Ricevute di ritorno…
+    .accesskey = R
+update-app-legend = Aggiornamenti di { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versione { $version }
+allow-description = Consenti a { -brand-short-name } di
+automatic-updates-label =
+    .label = Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)
+    .accesskey = n
+check-updates-label =
+    .label = Controlla aggiornamenti ma permetti all'utente di scegliere se installarli
+    .accesskey = C
+update-history-button =
+    .label = Mostra cronologia aggiornamenti
+    .accesskey = S
+use-service =
+    .label = Utilizza un servizio di sistema per installare gli aggiornamenti
+    .accesskey = U
+cross-user-udpate-warning = Questa impostazione si applicherà a tutti gli account Windows e ai profili di { -brand-short-name } che utilizzano questa installazione di { -brand-short-name }.
+networking-legend = Connessione
+proxy-config-description = Configura il modo in cui { -brand-short-name } si collega a Internet
+network-settings-button =
+    .label = Impostazioni…
+    .accesskey = I
+offline-legend = Non in linea
+offline-settings = Configura le impostazioni 'non in linea'
+offline-settings-button =
+    .label = Non in linea…
+    .accesskey = N
+diskspace-legend = Spazio su disco
+offline-compact-folder =
+    .label = Compatta le cartelle se serve a risparmiare spazio
+    .accesskey = a
+compact-folder-size =
+    .value = Mb in totale
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Utilizza al massimo
+    .accesskey = U
+use-cache-after = MB di spazio per la cache
 
 ##
 
+smart-cache-label =
+    .label = Non utilizzare la gestione automatica della cache
+    .accesskey = N
+clear-cache-button =
+    .label = Pulisci ora
+    .accesskey = P
 fonts-legend = Caratteri e colori
 default-font-label =
     .value = Carattere predefinito:
@@ -292,6 +381,12 @@ download-dictionaries-link = Scarica altri dizionari
 font-label =
     .value = Carattere:
     .accesskey = c
+font-size-label =
+    .value = Dimensione:
+    .accesskey = d
+default-colors-label =
+    .label = Usa i colori predefiniti del lettore
+    .accesskey = u
 font-color-label =
     .value = Colore del testo:
     .accesskey = o
@@ -427,9 +522,26 @@ antivirus-description = { -brand-short-name } è in grado di semplificare il lav
 antivirus-label =
     .label = Consenti ai programmi antivirus di mettere in quarantena i singoli messaggi in arrivo.
     .accesskey = n
+certificate-description = Quando un sito web richiede il certificato personale:
+certificate-auto =
+    .label = Selezionane uno automaticamente
+    .accesskey = S
+certificate-ask =
+    .label = Chiedere ogni volta
+    .accesskey = C
+ocsp-label =
+    .label = Interrogare i risponditori OCSP per confermare l'attuale validità dei certificati
+    .accesskey = e
 
 ## Chat Tab
 
+startup-label =
+    .value = Quando si avvia { -brand-short-name }:
+    .accesskey = Q
+offline-label =
+    .label = Mantieni gli account di chat scollegati
+auto-connect-label =
+    .label = Collega l'account di chat automaticamente
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -437,9 +549,65 @@ antivirus-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Consenti che i miei contatti sappiano che sono Inattivo dopo
+    .accesskey = C
+idle-time-label = minuti di inattività
 
 ##
 
+away-message-label =
+    .label = ed imposta il mio stato come 'Non disponibile' con questo messaggio:
+    .accesskey = e
+send-typing-label =
+    .label = Mostra le notifiche di scrittura nelle conversazioni
+    .accesskey = M
+notification-label = Quando arriva un messaggio indirizzato a te:
+show-notification-label =
+    .label = Mostra una notifica:
+    .accesskey = M
+notification-all =
+    .label = col nome del mittente e una anteprima del messaggio
+notification-name =
+    .label = solamente col nome del mittente
+notification-empty =
+    .label = senza alcuna informazione
+chat-play-sound-label =
+    .label = Riproduci un suono
+    .accesskey = s
+chat-play-button =
+    .label = Riproduci
+    .accesskey = R
+chat-system-sound-label =
+    .label = Suono predefinito di sistema per nuova posta
+    .accesskey = p
+chat-custom-sound-label =
+    .label = Utilizza questo file audio
+    .accesskey = U
+chat-browse-sound-button =
+    .label = Sfoglia…
+    .accesskey = f
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Fumetti
+style-dark =
+    .label = Scuro
+style-paper =
+    .label = Fogli di carta
+style-simple =
+    .label = Semplice
+preview-label = Anteprima:
+no-preview-label = Anteprima non disponibile
+chat-variant-label =
+    .value = Variante:
+    .accesskey = V
+chat-header-label =
+    .label = Mostra intestazione
+    .accesskey = I
 
 ## Preferences UI Search Results
 
