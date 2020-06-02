@@ -180,3 +180,7 @@ task-alarm-time-label =
     .value = Meeldetuletus eelneb ülesandele:
     .accesskey = e
 category-new-label = Uus kategooria
+category-edit-label = Kategooria muutmine
+category-overwrite-title = Hoiatus: Korduv nimi
+category-overwrite = Sellise nimega kategooria on juba olemas. Kas soovid selle üle kirjutada?
+category-blank-warning = Kategooria sisestamine on kohustuslik.
