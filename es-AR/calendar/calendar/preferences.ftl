@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Calendario
+calendar-title-reminder = Recordatorios
+calendar-title-category = Categorías
 dateformat-label =
     .value = Formato de fecha:
     .accesskey = D
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Mostrar número de semana en vistas y mini mes
     .accesskey = s
+workdays-label =
+    .value = Días laborables:
 day-1-checkbox =
     .label = Dom
     .accesskey = D
@@ -102,6 +107,9 @@ soon-label =
     .value = La siguiente sección muestra:
     .accesskey = u
 event-task-legend = Eventos y tareas
+default-length-label =
+    .value = Evento predeterminado y longitud de la tarea:
+    .accesskey = E
 task-start-label =
     .value = Fecha de inicio:
 task-start-1-label =
@@ -139,6 +147,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Usar sonido predeterminado
     .accesskey = d
+reminder-custom-sound-label =
+    .label = Usar el siguiente archivo de sonido
+    .accesskey = U
 reminder-browse-sound-label =
     .label = Examinar…
     .accesskey = x
