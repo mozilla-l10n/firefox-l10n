@@ -14,6 +14,7 @@ keyword-edit-button =
 keyword-remove-button =
     .label = Ջնջել
     .accesskey = D
+new-keyword-title = Նոր բառ
 new-keyword-label = Հիմնաբառը.
 edit-keyword-title = Խմբագրել հիմնաբառը
 edit-keyword-label = Հիմնաբառը.
