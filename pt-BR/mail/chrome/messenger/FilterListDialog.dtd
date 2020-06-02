@@ -13,20 +13,20 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Excluir">
 <!ENTITY deleteButton.accesskey "x">
-<!ENTITY reorderTopButton "Primeiro">
+<!ENTITY reorderTopButton "Mover para o topo">
 <!ENTITY reorderTopButton.accessKey "R">
-<!ENTITY reorderTopButton.toolTip "Reordenar filtro para que ele seja executado antes de todos os outros">
+<!ENTITY reorderTopButton.toolTip "Reposicionar o filtro para que seja executado antes de todos os outros">
 <!ENTITY reorderUpButton.label "Para cima">
 <!ENTITY reorderUpButton.accesskey "c">
 <!ENTITY reorderDownButton.label "Para baixo">
 <!ENTITY reorderDownButton.accesskey "b">
 <!ENTITY reorderBottomButton "Último">
 <!ENTITY reorderBottomButton.accessKey "T">
-<!ENTITY reorderBottomButton.toolTip "Reordenar filtro para que ele seja executado após todos os outros">
+<!ENTITY reorderBottomButton.toolTip "Reposicionar o filtro para que seja executado após todos os outros">
 <!ENTITY filterHeader.label "Filtros ativados são executados automaticamente na ordem exibida abaixo.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "o">
-<!ENTITY viewLogButton.label "Exibir relatório">
+<!ENTITY viewLogButton.label "Registro das filtragens">
 <!ENTITY viewLogButton.accesskey "l">
 <!ENTITY runFilters.label "Aplicar agora">
 <!ENTITY runFilters.accesskey "A">

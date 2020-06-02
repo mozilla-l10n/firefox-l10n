@@ -72,7 +72,7 @@
 <!ENTITY newsrcPicker1.label "Selecionar o arquivo News.rc">
 <!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
 <!ENTITY abbreviateOn.label "Nome completo (exemplo: netscape.public.mozilla.mail-news)">
-<!ENTITY abbreviateOff.label "Nomes abreviados (exemplo: n.p.m.mail-news)">
+<!ENTITY abbreviateOff.label "Nomes abreviados (por exemplo, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avançado…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "Codificação padrão do texto:">

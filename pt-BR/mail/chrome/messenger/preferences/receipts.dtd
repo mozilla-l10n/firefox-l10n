@@ -8,8 +8,8 @@
 <!ENTITY receiptArrive.label           "Ao receber uma confirmação que eu solicitei:">
 <!ENTITY leaveIt.label                 "Deixar na pasta “Entrada”">
 <!ENTITY leaveIt.accesskey             "E">
-<!ENTITY moveToSent.label              "Mover para a pasta “Enviados”">
-<!ENTITY moveToSent.accesskey          "v">
+<!ENTITY moveToSent.label              "Mover para a pasta &quot;Enviados&quot;">
+<!ENTITY moveToSent.accesskey          "M">
 <!ENTITY requestMDN.label              "Se alguém me solicitar uma confirmação de leitura:">
 <!ENTITY never.label                   "Não enviar">
 <!ENTITY never.accesskey               "N">

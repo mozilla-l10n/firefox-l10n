@@ -14,7 +14,7 @@
 <!ENTITY fieldMapImport.up.accesskey "c">
 <!ENTITY fieldMapImport.down.label "Para baixo">
 <!ENTITY fieldMapImport.down.accesskey "b">
-<!ENTITY fieldMapImport.fieldListTitle "Campos do catálogo">
+<!ENTITY fieldMapImport.fieldListTitle "Campos do catálogo de endereços">
 <!ENTITY fieldMapImport.dataTitle "Dados do registro a importar">
 <!ENTITY fieldMapImport.skipFirstRecord.label "O primeiro registro contém o nome dos campos">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "O">

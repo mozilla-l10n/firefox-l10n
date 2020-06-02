@@ -21,9 +21,9 @@
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens">
-<!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas.">
-<!ENTITY retentionCleanupImap.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas (tanto as cópias locais como as originais no servidor remoto).">
-<!ENTITY retentionCleanupPop.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas (incluindo as originais no servidor remoto).">
+<!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser excluídas permanentemente.">
+<!ENTITY retentionCleanupImap.label "Para recuperar espaço em disco, mensagens antigas podem ser excluídas permanentemente, tanto cópias locais como originais no servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para recuperar espaço em disco, mensagens antigas podem ser excluídas permanentemente, incluindo originais no servidor remoto.">
 <!ENTITY retentionDeleteMsg.label "Excluir mensagens com mais de">
 <!ENTITY retentionDeleteMsg.accesskey "x">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
