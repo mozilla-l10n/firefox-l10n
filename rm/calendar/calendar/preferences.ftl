@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Chalender
+calendar-title-reminder = Promemorias
+calendar-title-category = Categorias
 dateformat-label =
     .value = Format per data e temp:
     .accesskey = d
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Mussar il number da l'emna en vistas e mini-mais
     .accesskey = v
+workdays-label =
+    .value = Lavurdis:
 day-1-checkbox =
     .label = Du
     .accesskey = D
@@ -102,6 +107,9 @@ soon-label =
     .value = La secziun «Proximamain» mussa:
     .accesskey = u
 event-task-legend = Eveniments ed incumbensas
+default-length-label =
+    .value = Durada predefinida dad eveniments ed incumbensas:
+    .accesskey = e
 task-start-label =
     .value = Data da cumenzament:
 task-start-1-label =
