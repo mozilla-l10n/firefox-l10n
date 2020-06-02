@@ -34,5 +34,7 @@ override-color-label =
     .accesskey = o
 override-color-always =
     .label = Uvijek
+override-color-auto =
+    .label = Samo s motivima visokog kontrasta
 override-color-never =
     .label = Nikada
