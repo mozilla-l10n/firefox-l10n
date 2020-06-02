@@ -196,6 +196,15 @@ update-app-legend = { -brand-short-name }-Updates
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Version { $version }
 allow-description = { -brand-short-name } erlauben
+automatic-updates-label =
+    .label = Updates automatisch zu installieren (empfohlen: erhöhte Sicherheit)
+    .accesskey = U
+check-updates-label =
+    .label = Nach Updates zu suchen, aber vor der Installation nachfragen
+    .accesskey = N
+update-history-button =
+    .label = Update-Chronik anzeigen
+    .accesskey = C
 use-service =
     .label = Einen Hintergrunddienst zum Installieren von Updates verwenden
     .accesskey = H
