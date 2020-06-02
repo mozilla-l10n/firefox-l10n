@@ -75,6 +75,41 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+general-legend = Pagina iniziale di { -brand-short-name }
+start-page-label =
+    .label = All'apertura di { -brand-short-name } mostra la pagina iniziale nell'area messaggi
+    .accesskey = d
+location-label =
+    .value = Posizione:
+    .accesskey = n
+restore-default-label =
+    .label = Ripristina predefinita
+    .accesskey = R
+default-search-engine = Motore di ricerca predefinito
+new-message-arrival = All'arrivo di un messaggio:
+mail-play-button =
+    .label = Ascolta
+    .accesskey = A
+change-dock-icon = Modifica le preferenze per l'icona dell'app
+app-icon-options =
+    .label = Opzioni icona applicazione…
+    .accesskey = n
+notification-settings = È possibile disattivare gli avvisi e il suono predefinito nella sezione Notifiche delle Preferenze di Sistema.
+animated-alert-label =
+    .label = Mostra un avviso
+    .accesskey = M
+customize-alert-label =
+    .label = Personalizza…
+    .accesskey = z
+tray-icon-label =
+    .label = Mostra un'icona nell'area di notifica
+    .accesskey = t
+mail-custom-sound-label =
+    .label = Utilizza questo file audio
+    .accesskey = U
+mail-browse-sound-button =
+    .label = Sfoglia…
+    .accesskey = S
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -91,6 +126,12 @@ search-engine-name =
 
 ##
 
+new-tag-button =
+    .label = Nuovo…
+    .accesskey = N
+edit-tag-button =
+    .label = Modifica…
+    .accesskey = M
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -112,6 +153,10 @@ enable-cloud-share =
     .label = Offrire la condivisione per file più grandi di
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Aggiungi…
+    .accesskey = A
+    .defaultlabel = Aggiungi…
 
 ## Privacy Tab
 
