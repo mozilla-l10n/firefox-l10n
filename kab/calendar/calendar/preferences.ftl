@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Awitay
+calendar-title-reminder = Imektiyen
 dateformat-label =
     .value = Amasal n wazemz:
     .accesskey = s
@@ -33,6 +35,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Sken uṭṭun n dduṛt di tmeẓriyin akked waggur meẓẓiyen
     .accesskey = S
+workdays-label =
+    .value = Ussan n tggarra n umalas:
 day-1-checkbox =
     .label = Sed
     .accesskey = S
@@ -102,6 +106,9 @@ soon-label =
     .value = Tigezmi d iteddun ad tesken:
     .accesskey = G
 event-task-legend = Tidyanin d tiwuriwin
+default-length-label =
+    .value = Anedru amezwer akked teɣzi n twuri:
+    .accesskey = A
 task-start-label =
     .value = Azemz n tazwara:
 task-start-1-label =
