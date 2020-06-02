@@ -4,6 +4,9 @@
 
 receipts-dialog-window =
     .title = Kvitteringer
+return-receipt-checkbox =
+    .label = Be alltid om kvittering fra mottaker ved sending av e-post
+    .acceskey = B
 receipt-arrive-label = Når en kvittering mottas:
 receipt-leave-radio =
     .label = La den ligge i innboksen
@@ -11,6 +14,7 @@ receipt-leave-radio =
 receipt-move-radio =
     .label = Flytt den til «Sendt»-mappen
     .acceskey = F
+receipt-request-label = Når jeg mottar forespørsel om kvittering:
 receipt-return-never-radio =
     .label = Aldri send kvitteringer
     .acceskey = A
