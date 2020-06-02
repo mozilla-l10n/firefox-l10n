@@ -57,6 +57,7 @@
 <!ENTITY runtimeButton_label "Wybierz środowisko">
 
 <!-- We try to repicate Firefox' bindings: -->
+<!-- We try to repicate Firefox' bindings: -->
 <!ENTITY key_quit "W">
 <!ENTITY key_showProjectPanel "O">
 <!ENTITY key_play "R">
@@ -128,6 +129,7 @@
 <!ENTITY devicesetting_newtext "Wartość ustawienia">
 <!ENTITY devicesetting_addnew "Dodaj ustawienie">
 
+<!-- WiFi Authentication -->
 <!-- WiFi Authentication -->
 <!ENTITY wifi_auth_header "Identyfikacja klienta">
 <!ENTITY wifi_auth_scan_request "Urządzenie, z którym się łączysz, potrzebuje więcej informacji, aby uwierzytelnić to połączenie. Proszę zeskanować poniższy kod QR z poziomu komunikatu wyświetlanego na drugim urządzeniu.">

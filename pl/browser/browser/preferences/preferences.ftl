@@ -397,8 +397,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Wtyczka { $plugin-name } (w programie { -brand-short-name })
-applications-preview-inapp =
-    .label = Podgląd w programie { -brand-short-name }
 
 applications-open-inapp =
     .label = Otwórz w programie { -brand-short-name }
@@ -415,9 +413,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -639,11 +634,16 @@ home-prefs-topsites-header =
     .label = Popularne
 home-prefs-topsites-description = Najczęściej odwiedzane strony.
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Polecane przez { $provider }
 home-prefs-recommended-by-description = Świetne rzeczy z całego Internetu, wybrane specjalnie dla Ciebie
+##
+
 home-prefs-recommended-by-learn-more = Jak to działa?
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorowane artykuły
@@ -965,9 +965,9 @@ privacy-header = Prywatność
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Dane logowania i hasła
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Dane logowania i hasła
@@ -1006,9 +1006,6 @@ forms-master-pw-fips-title = Program pracuje obecnie w trybie FIPS. Tryb FIPS w
 forms-master-pw-fips-desc = Zmiana hasła się nie powiodła.
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Potwierdź swoją tożsamość, aby utworzyć hasło główne.
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Aby utworzyć hasło główne, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
@@ -1215,7 +1212,6 @@ content-blocking-warning-title = Ostrzeżenie
 content-blocking-warning-description = Blokowanie treści może powodować problemy z niektórymi stronami. Blokowanie można łatwo wyłączyć na stronach, którym ufasz.
 content-blocking-learn-how = Więcej informacji
 
-content-blocking-etp-warning-description = Blokowanie elementów śledzących może wpłynąć na funkcjonowanie niektórych stron. Odśwież stronę z włączonymi elementami śledzącymi, aby wyświetlić całą jej zawartość.
 content-blocking-and-isolating-etp-warning-description = Blokowanie elementów śledzących i izolowanie ciasteczek może wpłynąć na funkcjonowanie niektórych stron. Odśwież stronę z włączonymi elementami śledzącymi, aby wyświetlić całą jej zawartość.
 content-blocking-warning-learn-how = Więcej informacji
 

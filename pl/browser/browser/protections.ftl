@@ -48,7 +48,6 @@ protection-report-page-summary = { -brand-short-name } może po cichu chronić T
 
 etp-card-title-always = Wzmocniona ochrona przed śledzeniem: zawsze włączona
 etp-card-title-custom-not-blocking = Wzmocniona ochrona przed śledzeniem: wyłączona
-etp-card-content-summary = Kiedy nieznane firmy próbują potajemnie śledzić Cię w Internecie, { -brand-short-name } automatycznie zatrzymuje wiele z nich.
 protection-report-etp-card-content-custom-not-blocking = Cała ochrona jest obecnie wyłączona. Wybierz, które elementy śledzące blokować w ustawieniach ochrony przeglądarki { -brand-short-name }.
 protection-report-manage-protections = Otwórz ustawienia
 
@@ -73,9 +72,6 @@ fingerprinter-tab-content = Te elementy zbierają ustawienia przeglądarki i ko
 
 cryptominer-tab-title = Elementy używające komputera użytkownika do generowania kryptowalut
 cryptominer-tab-content = Te elementy wykorzystują moc obliczeniową Twojego komputera do generowania cyfrowych walut. Skrypty generujące kryptowaluty rozładowują baterię, spowalniają komputer i mogą zwiększyć rachunek za prąd. <a data-l10n-name="learn-more-link">Więcej informacji</a>
-
-protections-close-button =
-    .aria-label = Zamknij
 
 protections-close-button2 =
     .aria-label = Zamknij

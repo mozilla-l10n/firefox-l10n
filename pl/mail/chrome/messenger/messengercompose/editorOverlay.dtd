@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Znajdź tekst na stronie">
 <!ENTITY spellToolbarCmd.label "Pisownia">
 <!ENTITY spellToolbarCmd.tooltip "Sprawdź pisownię zaznaczenia lub całej strony">
+
 <!ENTITY imageToolbarCmd.label "Obraz">
 <!ENTITY imageToolbarCmd.tooltip "Wstaw nowy obraz lub edytuj właściwości wybranego obrazu">
 <!ENTITY hruleToolbarCmd.label "Linia pozioma">
