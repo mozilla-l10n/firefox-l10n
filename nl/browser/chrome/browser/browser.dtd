@@ -292,10 +292,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "U hebt MIDI-toegang voor deze website geblokkeerd.">
 <!ENTITY urlbar.installBlocked.tooltip           "U hebt installatie van add-ons voor deze website geblokkeerd.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "U hebt deze website aanvullende toestemmingen gegeven.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geschiedenis tonen">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "U hebt deze website aanvullende toestemmingen gegeven.">
 
 
 <!ENTITY searchItem.title             "Zoeken">
@@ -410,6 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Aanpassen…">
 <!ENTITY viewCustomizeToolbar.accesskey     "A">
+
 <!ENTITY overflowCustomizeToolbar.label       "Werkbalk aanpassen…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "a">
 
@@ -900,54 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Voorkeuren voor inhoudsblokkering openen">
 
 
-<!ENTITY protections.etpON.header "Verbeterde bescherming tegen volgen is AAN voor deze website">
-<!ENTITY protections.etpOFF.header "Verbeterde bescherming tegen volgen is UIT voor deze website">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Meer informatie over Verbeterde bescherming tegen volgen">
-<!ENTITY protections.settings.label "Beschermingsinstellingen">
-<!ENTITY protections.showreport.label "Rapport tonen">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Werkt de website niet?">
-<!ENTITY protections.siteNotWorkingView.title "Werkt de website niet?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Schakel beschermingen uit als u problemen hebt met:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Aanmeldvelden">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Formulieren">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Betalingen">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Opmerkingen">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Video’s">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Rapport verzenden">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Geblokkeerd">
-<!ENTITY protections.notBlocking2.label "Toegestaan">
-<!ENTITY protections.notFound.label "Geen gedetecteerd">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Waarom?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Door deze te blokkeren werken elementen van sommige websites mogelijk niet. Zonder trackers werken sommige knoppen, formulieren en aanmeldvelden mogelijk niet.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alle trackers op deze website zijn geladen omdat beschermingen zijn uitgeschakeld.">
-<!ENTITY protections.noTrackersFound.description "Op deze pagina zijn geen bij &brandShortName; bekende trackers aangetroffen.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Deze cookies volgen u van website naar website om gegevens over wat u online doet te verzamelen. Ze worden geplaatst door derden, zoals advertentiebureaus en analysebedrijven.">
-<!ENTITY protections.cryptominers.description "Cryptominers gebruiken de rekenkracht van uw systeem om digitale valuta te genereren. Cryptominer-scripts trekken uw accu leeg, vertragen uw computer en kunnen uw energierekening omhoog jagen.">
-<!ENTITY protections.fingerprinters.description "Fingerprinters verzamelen instellingen van uw browser en computer om een profiel van u te maken. Met behulp van deze digitale vingerafdruk kunnen ze u op verschillende websites volgen.">
-<!ENTITY protections.trackingContent2.description "Websites kunnen externe advertenties, video’s en andere inhoud laden met volgcode. Het blokkeren van volginhoud kan websites helpen sneller te laden, maar sommige knoppen, formulieren en aanmeldvelden werken mogelijk niet.">
-<!ENTITY protections.socialMediaTrackers.description "Sociale netwerken plaatsen trackers op andere websites om te volgen wat u online doet, ziet en bekijkt. Hierdoor kunnen sociale-mediabedrijven meer over u leren dan wat u deelt op uw sociale-mediaprofielen.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Browsertabbladen">
@@ -992,13 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies en websitegegevens">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Volginhoud">
-
-<!ENTITY contentBlocking.manageSettings2.label "Beschermingsinstellingen beheren">
-<!ENTITY contentBlocking.manageSettings2.accesskey "B">
-
-<!ENTITY contentBlocking.socialblock.label "Sociale-mediatrackers">
-
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
 
@@ -1010,12 +956,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Inhoudsblokkering kan problemen met bepaalde websites veroorzaken. Als u problemen meldt, helpt u &brandShortName; voor iedereen te verbeteren. (Hierdoor wordt zowel een URL als informatie over uw browserinstellingen naar Mozilla verzonden.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Meer info">
 
-<!ENTITY contentBlocking.breakageReportView.title "Niet-werkende website melden">
-<!ENTITY contentBlocking.breakageReportView3.description "Het blokkeren van bepaalde trackers kan problemen met bepaalde websites veroorzaken. Door deze problemen te melden, helpt u &brandShortName; voor iedereen te verbeteren. Als u dit rapport verzendt, wordt zowel een URL als informatie over uw browserinstellingen naar Mozilla verzonden.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Meer info">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Welke problemen ondervond u? (Optioneel)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Optioneel: beschrijf het probleem">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Rapport verzenden">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Annuleren">
 

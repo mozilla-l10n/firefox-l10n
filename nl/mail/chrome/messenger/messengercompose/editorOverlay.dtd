@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Tekst zoeken op pagina">
 <!ENTITY spellToolbarCmd.label "Spelling">
 <!ENTITY spellToolbarCmd.tooltip "Spelling van selectie of hele pagina controleren">
+
 <!ENTITY imageToolbarCmd.label "Afbeelding">
 <!ENTITY imageToolbarCmd.tooltip "Nieuwe afbeelding invoegen of eigenschappen van geselecteerde afbeelding bewerken">
 <!ENTITY hruleToolbarCmd.label "H.lijn">

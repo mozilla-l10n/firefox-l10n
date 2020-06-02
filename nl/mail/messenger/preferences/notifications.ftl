@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Waarschuwing bij nieuwe e-mail aanpassen
+
 customize-alert-description = Kies welke velden worden getoond in de waarschuwingsnotificatie:
+
 preview-text-checkbox =
     .label = Voorbeeldweergavetekst
     .accesskey = V
+
 subject-checkbox =
     .label = Onderwerp
     .accesskey = O
+
 sender-checkbox =
     .label = Afzender
     .accesskey = A
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Waarschuwing bij nieuwe e-mail
     .accesskey = W
+
 open-time-label-after =
     .value = seconden tonen
