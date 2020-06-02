@@ -122,6 +122,9 @@ app-icon-options =
     .label = 应用图标选项…
     .accesskey = n
 notification-settings = 可以在系统设置的通知面板中禁用提醒和默认的通知声音。
+animated-alert-label =
+    .label = 显示提示
+    .accesskey = S
 customize-alert-label =
     .label = 自定义…
     .accesskey = C
@@ -162,6 +165,14 @@ always-check-default =
 check-default-button =
     .label = 立即检查…
     .accesskey = N
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows 搜索
+       *[other] { "" }
+    }
 search-integration-label =
     .label = 允许 { search-engine-name } 搜索邮件
     .accesskey = S
@@ -236,6 +247,10 @@ color-options-button =
     .label = 颜色…
     .accesskey = C
 display-width-legend = 纯文本消息
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = 以图形显示颜文字
+    .accesskey = e
 display-text-label = 当显示引用的纯文本消息时使用以下设置：
 style-label =
     .value = 样式：
@@ -282,6 +297,9 @@ choose-folder-label =
             [macos] C
            *[other] B
         }
+always-ask-label =
+    .label = 每次都询问保存文件的位置
+    .accesskey = A
 display-tags-text = 标签用于对消息进行分类或区分优先级。
 new-tag-button =
     .label = 新建…
@@ -436,9 +454,14 @@ web-content = 网络内容
 history-label =
     .label = 记住我访问过的网站和链接
     .accesskey = R
+cookies-label =
+    .label = 接受站点的 Cookie
+    .accesskey = A
 third-party-label =
     .value = 接受第三方 Cookie：
     .accesskey = C
+third-party-always =
+    .label = 一律
 third-party-never =
     .label = 总不
 third-party-visited =
@@ -507,6 +530,10 @@ ocsp-label =
 startup-label =
     .value = 启动 { -brand-short-name } 时:
     .accesskey = s
+offline-label =
+    .label = 保持我的聊天账户离线
+auto-connect-label =
+    .label = 自动连接我的聊天账户
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -514,6 +541,9 @@ startup-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = 当我闲置超过
+    .accesskey = I
 idle-time-label = 分钟时，让我的联系人获知
 
 ##
