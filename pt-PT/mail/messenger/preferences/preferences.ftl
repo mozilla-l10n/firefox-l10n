@@ -105,6 +105,15 @@ restore-default-label =
     .label = Restaurar predefinição
     .accesskey = R
 default-search-engine = Motor de pesquisa predefinido
+add-search-engine =
+    .label = Adicionar do ficheiro
+    .accesskey = A
+remove-search-engine =
+    .label = Remover
+    .accesskey = v
+minimize-to-tray-label =
+    .label = Quando o { -brand-short-name } for minimizado, movê-lo para a bandeja
+    .accesskey = m
 new-message-arrival = Ao receber mensagens
 mail-play-sound-label =
     .label =
@@ -158,6 +167,7 @@ autoscroll-label =
 smooth-scrolling-label =
     .label = Utilizar deslocação suave
     .accesskey = u
+system-integration-legend = Integração no sistema
 always-check-default =
     .label = Verificar sempre se o { -brand-short-name } é o cliente de correio predefinido no arranque
     .accesskey = A
@@ -342,6 +352,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Fechar janela/separador de mensagem ao mover ou apagar
     .accesskey = F
+display-name-label =
+    .value = Nome de apresentação:
 condensed-addresses-label =
     .label = Mostrar apenas o nome para pessoas nos meus contactos
     .accesskey = m
@@ -538,6 +550,12 @@ certificate-ask =
 ocsp-label =
     .label = Consultar os servidores de resposta OCSP para confirmar a validade de certificados
     .accesskey = O
+certificate-button =
+    .label = Gerir certificados…
+    .accesskey = G
+security-devices-button =
+    .label = Dispositivos de segurança…
+    .accesskey = D
 
 ## Chat Tab
 
@@ -578,6 +596,17 @@ notification-name =
     .label = apenas com o nome do remetente
 notification-empty =
     .label = sem informação nenhuma
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animar o ícone da doca
+           *[other] Piscar o item da barra de tarefas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] f
+        }
 chat-play-sound-label =
     .label = Reproduzir um som
     .accesskey = d
