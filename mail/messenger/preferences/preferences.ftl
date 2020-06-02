@@ -8,6 +8,9 @@ category-general =
 pane-compose-title = Redactare
 category-compose =
     .tooltiptext = Redactare
+pane-calendar-title = Calendar
+category-calendar =
+    .tooltiptext = Calendar
 general-language-and-appearance-header = Limbă și aspect
 general-incoming-mail-header = Mesaje primite
 general-files-and-attachment-header = Fișiere și atașamente
@@ -73,15 +76,47 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = Pagina de pornire { -brand-short-name }
 restore-default-label =
     .label = Restaurează
     .accesskey = R
 new-message-arrival = Când sosesc noi mesaje:
+mail-play-button =
+    .label = Redă
+    .accesskey = R
 animated-alert-label =
     .label = Afișează o alertă
     .accesskey = A
+customize-alert-label =
+    .label = Personalizează…
+    .accesskey = P
+enable-gloda-search-label =
+    .label = Activează căutarea globală și indexarea
+    .accesskey = i
+system-integration-legend = Integrare cu sistemul
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Căutare Windows
+       *[other] { "" }
+    }
+config-editor-button =
+    .label = Editor de configurație…
+    .accesskey = g
+return-receipts-button =
+    .label = Confirmări de primire…
+    .accesskey = r
 networking-legend = Conexiune
+network-settings-button =
+    .label = Setări…
+    .accesskey = S
+diskspace-legend = Spațiu pe disc
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -90,6 +125,12 @@ networking-legend = Conexiune
 
 ##
 
+default-font-label =
+    .value = Font implicit:
+    .accesskey = F
+default-size-label =
+    .value = Mărime:
+    .accesskey = M
 display-width-legend = Mesaje text
 display-text-label = Pentru afișarea mesajelor text citate:
 style-label =
@@ -103,10 +144,27 @@ italic-style-item =
     .label = Înclinat
 bold-italic-style-item =
     .label = Îngroșat și înclinat
+size-label =
+    .value = Mărime:
+    .accesskey = M
 bigger-size-item =
     .label = Mai mare
 smaller-size-item =
     .label = Mai mic
+search-input =
+    .placeholder = Căutare
+type-column-label =
+    .label = Tip de conținut
+    .accesskey = T
+action-column-label =
+    .label = Acțiune
+    .accesskey = A
+save-to-label =
+    .label = Salvează fișierele în
+    .accesskey = S
+delete-tag-button =
+    .label = Șterge
+    .accesskey = t
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -117,6 +175,9 @@ smaller-size-item =
 
 ## Compose Tab
 
+extension-label =
+    .label = adaugă extensia la numele fișierului
+    .accesskey = f
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -145,15 +206,47 @@ bg-color-label =
     .value = Culoare fundal:
     .accesskey = C
 format-description = Configurează aspectul textului
+send-options-label =
+    .label = Opțiuni de trimitere…
+    .accesskey = O
 ab-label =
     .label = Agende locale de contacte
     .accesskey = A
 directories-label =
     .label = Server de directoare:
     .accesskey = d
+directories-none-label =
+    .none = Niciunul
+edit-directories-label =
+    .label = Editează directoarele…
+    .accesskey = E
+attachment-options-label =
+    .label = Cuvinte cheie…
+    .accesskey = C
+cloud-share-size =
+    .value = MB
 
 ## Privacy Tab
 
+passwords-button =
+    .label = Parole salvate…
+    .accesskey = s
+junk-label =
+    .label = Când marchez mesaje ca nesolicitate:
+    .accesskey = C
+junk-move-label =
+    .label = Mută-le în dosarul cu mesaje nesolicitate al contului
+    .accesskey = o
+junk-delete-label =
+    .label = Șterge-le
+    .accesskey = t
+junk-read-label =
+    .label = Marchează mesajele detectate ca nesolicitate ca fiind citite
+    .accesskey = M
+reset-junk-button =
+    .label = Resetează datele de antrenament
+    .accesskey = R
+certificate-description = Când un server cere certificatul meu personal:
 
 ## Chat Tab
 
