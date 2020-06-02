@@ -16,3 +16,5 @@ keyword-remove-button =
     .accesskey = D
 new-keyword-title = 새 키워드
 new-keyword-label = 키워드:
+edit-keyword-title = 키워드 편집
+edit-keyword-label = 키워드:

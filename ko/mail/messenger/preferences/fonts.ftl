@@ -18,6 +18,13 @@ font-language-group-odia =
 
 ## Default font type
 
+default-font-serif =
+    .label = 세리프
+default-font-sans-serif =
+    .label = 산세리프
+font-serif-label =
+    .value = 세리프:
+    .accesskey = S
 
 ## Fonts in message
 
