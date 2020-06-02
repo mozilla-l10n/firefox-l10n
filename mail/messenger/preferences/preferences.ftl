@@ -591,6 +591,17 @@ notification-name =
     .label = միայն ուղարկողի անունով
 notification-empty =
     .label = առանց որևէ տեղեկության
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Շարժապատկերված հարակցման պատկերակ
+           *[other] Բռնկել առաջադրանքագոտու միույթ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Նվագարկել ձայն
     .accesskey = ա
