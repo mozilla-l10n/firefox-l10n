@@ -4,8 +4,13 @@
 
 attachment-reminder-window =
     .title = Λέξεις κλειδιά για την υπενθύμιση συνημμένου
+keyword-new-button =
+    .label = Νέα…
+    .accesskey = Ν
 keyword-remove-button =
     .label = Διαγραφή
     .accesskey = Δ
+new-keyword-title = Νέα λέξη-κλειδί
+new-keyword-label = Λέξη-κλειδί:
 edit-keyword-title = Επεξεργασία
 edit-keyword-label = Λέξη-κλειδί:
