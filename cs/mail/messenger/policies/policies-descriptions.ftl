@@ -88,6 +88,10 @@ policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelera
 
 policy-InstallAddonsPermission = Povolení instalace doplňků z vybraných webových stránek.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Povolí vybraným stránkám odkazovat na soubory uložené na místním disku.
 
 policy-NetworkPrediction = Povolení nebo zakázání přednačítání DNS.

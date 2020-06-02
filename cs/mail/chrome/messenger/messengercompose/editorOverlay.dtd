@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Vyhledání textu na stránce">
 <!ENTITY spellToolbarCmd.label "Pravopis">
 <!ENTITY spellToolbarCmd.tooltip "Zkontroluje pravopis v označeném textu nebo na celé stránce">
+
 <!ENTITY imageToolbarCmd.label "Obrázek">
 <!ENTITY imageToolbarCmd.tooltip "Vloží nový obrázek, nebo upraví označený">
 <!ENTITY hruleToolbarCmd.label "Vodorovná linka">

@@ -659,9 +659,6 @@ discover-heading =
     }
 shortcuts-heading = Správa klávesových zkratek pro rozšíření
 
-theme-heading-search-label = Najít další vzhledy
-extension-heading-search-label = Najít další rozšíření
-
 default-heading-search-label = Najít další doplňky
 addons-heading-search-input =
     .placeholder = Vyhledat na addons.mozilla.org
