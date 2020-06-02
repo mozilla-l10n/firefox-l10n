@@ -5,6 +5,9 @@
 pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = 編集
+category-compose =
+    .tooltiptext = 編集
 general-language-and-appearance-header = 言語と外観
 general-incoming-mail-header = 新着メールの通知
 general-files-and-attachment-header = ファイルと添付
@@ -73,21 +76,77 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## General Tab
 
 general-legend = { -brand-short-name } スタートページ
+start-page-label =
+    .label = 起動時にメッセージペインにスタートページを表示する
+    .accesskey = W
+location-label =
+    .value = URL:
+    .accesskey = o
 restore-default-label =
     .label = 既定値に戻す
     .accesskey = R
 new-message-arrival = 新着メッセージの通知
+mail-play-button =
+    .label = 再生
+    .accesskey = P
+animated-alert-label =
+    .label = デスクトップ通知を表示する
+    .accesskey = S
+customize-alert-label =
+    .label = 設定...
+    .accesskey = C
+mail-custom-sound-label =
+    .label = 次のサウンドファイルを使用する:
+    .accesskey = U
+mail-browse-sound-button =
+    .label = 参照...
+    .accesskey = B
+system-integration-legend = システム統合
+always-check-default =
+    .label = 起動時に { -brand-short-name } が既定のクライアントとして設定されているか確認する
+    .accesskey = A
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Search
+       *[other] { "" }
+    }
+search-integration-label =
+    .label = { search-engine-name } によるメッセージの検索を許可する
+    .accesskey = S
+return-receipts-description = 開封確認の取り扱い方を設定します。
+return-receipts-button =
+    .label = 開封確認...
+    .accesskey = R
+networking-legend = 接続
+offline-legend = オフライン
+offline-settings = オフライン時の動作を設定します。
+offline-settings-button =
+    .label = オフライン設定...
+    .accesskey = O
 diskspace-legend = ディスク領域
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = ページキャッシュとして
+    .accesskey = U
+use-cache-after = MB まで使用する
 
 ##
 
+clear-cache-button =
+    .label = 今すぐ消去
+    .accesskey = C
 display-width-legend = プレーンテキストメッセージ
 display-text-label = 引用されたテキストメッセージの表示:
+style-label =
+    .value = 書式:
+    .accesskey = y
 regular-style-item =
     .label = 標準
 bold-style-item =
@@ -98,6 +157,10 @@ bigger-size-item =
     .label = 大きく
 smaller-size-item =
     .label = 小さく
+display-tags-text = タグを使ってメッセージを分類したり印を付けたりできます。
+delete-tag-button =
+    .label = 削除
+    .accesskey = D
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -108,8 +171,16 @@ smaller-size-item =
 
 ## Compose Tab
 
+forward-label =
+    .value = 転送元のメッセージを:
+    .accesskey = F
 inline-label =
     .label = メール本文に含める
+as-attachment-label =
+    .label = ファイルとして添付
+extension-label =
+    .label = ファイル名に拡張子を付加する
+    .accesskey = e
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -117,16 +188,77 @@ inline-label =
 
 ##
 
+warn-on-send-accel-key =
+    .label = キーボードショートカットでメッセージを送信するときは確認する
+    .accesskey = C
 spellcheck-label =
     .label = 送信前にスペルチェックを行う
     .accesskey = C
+spellcheck-inline-label =
+    .label = 自動スペルチェックを有効にする
+    .accesskey = E
+language-popup-label =
+    .value = 辞書の言語:
+    .accesskey = L
+font-label =
+    .value = フォント:
+    .accesskey = n
+font-color-label =
+    .value = 文字色:
+    .accesskey = T
+bg-color-label =
+    .value = 背景色:
+    .accesskey = B
+restore-html-label =
+    .label = 既定値に戻す
+    .accesskey = R
 format-description = 送信するメッセージの形式を設定します。
 send-options-label =
     .label = 送信テキスト形式...
     .accesskey = S
+ab-label =
+    .label = ローカルのアドレス帳
+    .accesskey = L
+directories-none-label =
+    .none = なし
+attachment-label =
+    .label = ファイルの添付忘れがないか確認する
+    .accesskey = m
+attachment-options-label =
+    .label = キーワード...
+    .accesskey = K
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name } で利用するすべてのアカウントのパスワードを保存できます。
+passwords-button =
+    .label = 保存されているパスワード...
+    .accesskey = S
+master-password-label =
+    .label = マスターパスワードを使用する
+    .accesskey = U
+master-password-button =
+    .label = マスターパスワードを変更...
+    .accesskey = C
+junk-label =
+    .label = 迷惑メールであると手動でマークしたときに次の処理を実行する:
+    .accesskey = W
+junk-delete-label =
+    .label = メッセージを削除する
+    .accesskey = D
+junk-read-label =
+    .label = 迷惑メールと判断したメッセージを既読にする
+    .accesskey = M
+junk-log-button =
+    .label = ログを表示
+    .accesskey = S
+reset-junk-button =
+    .label = 判別基準データのリセット
+    .accesskey = R
+phishing-description = フィッシング詐欺メールでよく使われる偽装手法が含まれているメッセージを検出できます。
+phishing-label =
+    .label = 表示中のメッセージに詐欺メールの疑いがあるときに知らせる
+    .accesskey = T
 
 ## Chat Tab
 
