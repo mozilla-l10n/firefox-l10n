@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = P
     .tooltiptext = Endatescha l'URL preferì per resolver DNS via HTTPS
 connection-dns-over-https-custom-label = Persunalisà
+connection-dialog-window =
+    .title = Preferenzas da connexiun
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Configurar ils proxies per l'access a l'internet
 proxy-type-no =
     .label = Nagin proxy
@@ -58,3 +65,10 @@ no-proxy-label =
     .value = Nagin proxy per:
     .accesskey = N
 no-proxy-example = Exempel: .mozilla.org, .giuru.ch, 192.168.1.0/24
+proxy-password-prompt =
+    .label = Betg pretender l'autentificaziun sch'il pled-clav è memorisà
+    .accesskey = i
+    .tooltiptext = Questa opziun t'autentifitgescha automaticamain tar proxies sche ti has memorisà las infurmaziuns d'annunzia correspundentas. L'autentificaziun manuala è mo necessaria sche l'autentificaziun automatica na reussescha betg.
+proxy-remote-dns =
+    .label = Utilisar in DNS proxy sche SOCKS v5 è activ
+    .accesskey = d
