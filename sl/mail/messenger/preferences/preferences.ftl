@@ -107,6 +107,17 @@ minimize-to-tray-label =
     .label = Ob pomanjšanju premakni { -brand-short-name } v pladenj opravilne vrstice
     .accesskey = m
 new-message-arrival = Ko prispejo nova sporočila:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Predvajaj naslednjo zvočno datoteko:
+           *[other] predvajaj zvok
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] P
+           *[other] e
+        }
 mail-play-button =
     .label = Predvajaj
     .accesskey = d
