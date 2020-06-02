@@ -17,6 +17,7 @@ webrtc-indicator-title =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }
+
 webrtc-sharing-window = Sdílíte okno jiné aplikace.
 webrtc-sharing-browser-window =
     Sdílíte { -brand-short-name.gender ->

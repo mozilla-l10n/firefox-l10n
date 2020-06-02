@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Nový štítek
+
 tag-name-label =
     .value = Štítek:
     .accesskey = t
