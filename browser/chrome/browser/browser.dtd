@@ -342,6 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "পছন্দ অনুযায়ী নির্বাচন...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "টুলবারের পছন্দসই বিন্যাস…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 

@@ -4,5 +4,8 @@
 
 offline-dialog-window =
     .title = Offline Settings
+
 going-online-label = Send unsent messages when going online?
+
 going-offline-label = Download messages for offline use when going offline?
+
