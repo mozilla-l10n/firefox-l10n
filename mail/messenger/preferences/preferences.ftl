@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Aukerak
+           *[other] Hobespenak
+        }
 pane-general-title = Orokorra
 category-general =
     .tooltiptext = { pane-general-title }
@@ -93,6 +99,7 @@ location-label =
 restore-default-label =
     .label = Berrezarri lehenetsia
     .accesskey = r
+default-search-engine = Bilatzaile lehenetsia
 new-message-arrival = Mezu berri bat iristerakoan:
 mail-play-button =
     .label = Erreproduzitu
@@ -135,6 +142,9 @@ smooth-scrolling-label =
     .label = Erabili korritze leuna
     .accesskey = u
 system-integration-legend = Sistemaren integrazioa
+always-check-default =
+    .label = Egiaztatu beti { -brand-short-name } posta-bezero lehenetsia dela abiaraztean
+    .accesskey = g
 check-default-button =
     .label = Egiaztatu orain…
     .accesskey = o
@@ -199,6 +209,10 @@ use-cache-after = MB cachearentzat
 clear-cache-button =
     .label = Garbitu orain
     .accesskey = G
+fonts-legend = Letra-tipoak eta koloreak
+default-font-label =
+    .value = Letra-tipo lehenetsia:
+    .accesskey = L
 default-size-label =
     .value = Tamaina:
     .accesskey = T
@@ -241,6 +255,20 @@ type-column-label =
 action-column-label =
     .label = Ekintza
     .accesskey = a
+save-to-label =
+    .label = Gorde fitxategiak hemen:
+    .accesskey = G
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Aukeratu…
+           *[other] Arakatu…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] A
+        }
 always-ask-label =
     .label = Beti galdetu niri fitxategiak non  gorde
     .accesskey = B
@@ -248,13 +276,40 @@ display-tags-text = Mezuak sailkatu eta lehentasunak zehazteko erabil daitezke e
 delete-tag-button =
     .label = Ezabatu
     .accesskey = z
+auto-mark-as-read =
+    .label = Markatu automatikoki mezuak irakurrita gisa
+    .accesskey = a
+mark-read-no-delay =
+    .label = Bistaratu bezain laster
+    .accesskey = B
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Denbora batez bistaratu eta gero:
+    .accesskey = e
+seconds-label = segundoz
 
 ##
 
+open-msg-label =
+    .value = Ireki mezuak:
+open-msg-tab =
+    .label = Fitxa berrian
+    .accesskey = t
+open-msg-window =
+    .label = Mezu-leiho berrian
+    .accesskey = h
+open-msg-ex-window =
+    .label = Dagoen mezu-leihoan
+    .accesskey = D
+close-move-delete =
+    .label = Itxi mezu-leihoa/fitxa lekuz aldatzean edo ezabatzean
+    .accesskey = I
+condensed-addresses-label =
+    .label = Erakutsi nire helbide-liburuko pertsonen bistarazte-izena bakarrik
+    .accesskey = p
 
 ## Compose Tab
 
@@ -275,6 +330,7 @@ extension-label =
 auto-save-label =
     .label = Gorde automatikoki
     .accesskey = u
+auto-save-end = minutuan behin
 
 ##
 
@@ -335,6 +391,7 @@ cloud-share-size =
 remove-cloud-account =
     .label = Kendu
     .accesskey = K
+cloud-account-description = Gehitu Filelink biltegiratze-zerbitzu berri bat
 
 ## Privacy Tab
 
@@ -348,6 +405,9 @@ exceptions-button =
 remote-content-info =
     .value = Urruneko edukiaren pribatutasun-arazoei buruzko argibide gehiago
 web-content = Web edukia
+history-label =
+    .label = Gogoratu bisitatu ditudan webgune eta loturak
+    .accesskey = G
 cookies-label =
     .label = Onartu guneetako cookieak
     .accesskey = O
@@ -376,18 +436,29 @@ passwords-description = { -brand-short-name }(e)k pasahitzen informazioa gogora 
 passwords-button =
     .label = Gordetako pasahitzak…
     .accesskey = G
+master-password-description = Pasahitz nagusiak zure pasahitz guztiak babesten ditu, baina saio bakoitzeko behin sartu behar duzu.
 master-password-label =
     .label = Erabili pasahitz nagusia
     .accesskey = n
 master-password-button =
     .label = Aldatu pasahitz nagusia…
     .accesskey = A
+junk-description = Ezarri zabor-postaren ezarpen lehenetsiak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfiguratu daitezke.
+junk-label =
+    .label = Mezuak zabor gisa markatzen ditudanean:
+    .accesskey = z
+junk-move-label =
+    .label = Aldatu lekuz kontuaren "Zaborra" karpetara
+    .accesskey = d
 junk-delete-label =
     .label = Ezabatu
     .accesskey = E
 junk-read-label =
     .label = Markatu zabor-mezuak irakurrita gisa
     .accesskey = M
+junk-log-label =
+    .label = Gaitu zabor-iragazki moldakorraren loga
+    .accesskey = G
 junk-log-button =
     .label = Erakutsi loga
     .accesskey = s
@@ -399,8 +470,14 @@ phishing-label =
     .label = Esaidazu irakurtzen ari naizen mezua posta-iruzurra izan daitekeen
     .accesskey = E
 certificate-description = Webgune batek nire ziurtagiri pertsonala eskatzen duenean:
+certificate-auto =
+    .label = Hautatu bat automatikoki
+    .accesskey = S
 certificate-ask =
     .label = Galdetu beti
+    .accesskey = G
+ocsp-label =
+    .label = Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko
     .accesskey = G
 
 ## Chat Tab
@@ -426,10 +503,22 @@ idle-time-label = minutu ondoren
 
 ##
 
+away-message-label =
+    .label = eta ezarri nire egoera Kanpoan egoera-mezu honekin:
+    .accesskey = K
 send-typing-label =
     .label = Bidali idazketa-jakinarazpenak berriketetan
     .accesskey = d
 notification-label = Zuri zuzendutako mezuak iristean:
+show-notification-label =
+    .label = Erakutsi jakinarazpena:
+    .accesskey = n
+notification-all =
+    .label = bidaltzailearen izenarekin eta mezuaren aurrebistarekin
+notification-name =
+    .label = bidaltzailearen izenarekin soilik
+notification-empty =
+    .label = inolako informaziorik gabe
 chat-play-sound-label =
     .label = Erreproduzitu soinua
     .accesskey = d
