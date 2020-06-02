@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Ключови думи за напомняне за прикачване
+
 attachment-reminder-label = { -brand-short-name } ще ви напомни за липсващи прикачени файлове, ако изпращате писмо съдържащо някоя от тези ключови думи.
+
 keyword-new-button =
     .label = Добавяне…
     .accesskey = Д
+
 keyword-edit-button =
     .label = Редактиране…
     .accesskey = Р
+
 keyword-remove-button =
     .label = Изтриване
     .accesskey = И
+
 new-keyword-title = Нова ключова дума
 new-keyword-label = Ключова дума:
+
 edit-keyword-title = Промяна на ключова дума
 edit-keyword-label = Ключова дума:

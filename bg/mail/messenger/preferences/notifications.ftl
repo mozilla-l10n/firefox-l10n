@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Известяване за нова поща по избор
+
 customize-alert-description = Изберете кои полета да се показват при известяване:
+
 preview-text-checkbox =
     .label = Преглед на текста
     .accesskey = П
+
 subject-checkbox =
     .label = Тема
     .accesskey = Т
+
 sender-checkbox =
     .label = Подател
     .accesskey = д
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Показване на известяването за нова поща за
     .accesskey = н
+
 open-time-label-after =
     .value = секунди

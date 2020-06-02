@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Бисквитки
     .style = width: 46em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Търсене:
     .accesskey = Т
+
 cookies-on-system-label = Бисквитки, запазени на вашия компютър:
+
 treecol-site-header =
     .label = Страница
+
 treecol-name-header =
     .label = Име на бисквитката
+
 props-name-label =
     .value = Име:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Валидност до:
 props-container-label =
     .value = Контейнер:
+
 remove-cookie-button =
     .label = Премахване
     .accesskey = П
+
 remove-all-cookies-button =
     .label = Премахване на всички
     .accesskey = в
+
 cookie-close-button =
     .label = Затваряне
     .accesskey = З

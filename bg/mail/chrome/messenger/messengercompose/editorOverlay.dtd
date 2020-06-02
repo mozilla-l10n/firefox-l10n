@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Търсене на текст в страницата">
 <!ENTITY spellToolbarCmd.label "Правопис">
 <!ENTITY spellToolbarCmd.tooltip "Проверка на правописа на маркирания текст или цялата страница">
+
 <!ENTITY imageToolbarCmd.label "Изображение">
 <!ENTITY imageToolbarCmd.tooltip "Вмъкване на ново изображение или редактиране свойствата на избраното изображение">
 <!ENTITY hruleToolbarCmd.label "Хор. линия">

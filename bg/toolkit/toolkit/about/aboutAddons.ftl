@@ -558,9 +558,6 @@ locale-heading = Управление на езици
 discover-heading = Персонализирайте вашия { -brand-short-name }
 shortcuts-heading = Управление на клавишните комбинации на разширението
 
-theme-heading-search-label = Още теми
-extension-heading-search-label = Още разширения
-
 default-heading-search-label = Намерете още добавки
 addons-heading-search-input =
     .placeholder = търсене в addons.mozilla.org
