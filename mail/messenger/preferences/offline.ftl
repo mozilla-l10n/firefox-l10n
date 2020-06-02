@@ -2,7 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+offline-dialog-window =
+    .title = Definições do modo offline
+autodetect-online-label =
+    .label = Seguir automaticamente o estado online detetado
+    .accesskey = d
 startup-label = Estado ao iniciar:
+status-radio-remember =
+    .label = Memorizar o estado online anterior
+    .accesskey = r
+status-radio-ask =
+    .label = Pergunte-me pelo estado online
+    .accesskey = u
+status-radio-always-online =
+    .label = Online
+    .accesskey = l
+status-radio-always-offline =
+    .label = Offline
+    .accesskey = f
+going-online-label = Enviar mensagens não enviadas ao ficar online?
 going-online-auto =
     .label = Sim
     .accesskey = S

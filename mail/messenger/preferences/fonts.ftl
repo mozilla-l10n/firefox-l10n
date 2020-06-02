@@ -51,6 +51,8 @@ font-language-group-armenian =
     .label = Arménio
 font-language-group-bengali =
     .label = Bengali
+font-language-group-canadian =
+    .label = Silabário canadiano unificado
 font-language-group-ethiopic =
     .label = Etíope
 font-language-group-georgian =
@@ -63,10 +65,16 @@ font-language-group-khmer =
     .label = Cambodjano
 font-language-group-malayalam =
     .label = Malaio
+font-language-group-math =
+    .label = Matemática
+font-language-group-odia =
+    .label = Odia
 font-language-group-telugu =
     .label = Telugu
 font-language-group-kannada =
     .label = Kannada
+font-language-group-sinhala =
+    .label = Cingalês
 font-language-group-tibetan =
     .label = Tibetano
 
@@ -109,3 +117,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Codificação de texto
+text-encoding-description = Defina a codificação de texto para receção e envio de mensagens
+font-outgoing-email-label =
+    .value = Mensagens enviadas:
+    .accesskey = v
+font-incoming-email-label =
+    .value = Mensagens recebidas:
+    .accesskey = i
+default-font-reply-checkbox =
+    .label = Se possível, utilizar codificação predefinida nas respostas
+    .accesskey = u
