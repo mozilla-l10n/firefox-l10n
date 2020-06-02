@@ -8,6 +8,9 @@ category-general =
 pane-compose-title = Rédaction
 category-compose =
     .tooltiptext = Rédaction
+pane-chat-title = Messagerie instantanée
+category-chat =
+    .tooltiptext = Messagerie instantanée
 general-language-and-appearance-header = Langue et apparence
 general-incoming-mail-header = Courrier entrant
 general-files-and-attachment-header = Fichiers et pièces jointes
@@ -239,6 +242,12 @@ attachment-label =
 attachment-options-label =
     .label = Mots-clés
     .accesskey = M
+cloud-share-size =
+    .value = Mo
+remove-cloud-account =
+    .label = Supprimer
+    .accesskey = S
+cloud-account-description = Ajouter un nouveau service de stockage en ligne
 
 ## Privacy Tab
 
