@@ -5,8 +5,14 @@
 rights-title = Om dina rättigheter
 rights-intro = { -brand-full-name } är fri programvara baserad på öppen källkod, byggd av en community av tusentals personer över hela världen. Det finns några saker du bör känna till:
 rights-intro-point-1 = { -brand-short-name } görs tillgänglig enligt villkoren i <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Det betyder att du får använda, kopiera och distribuera { -brand-short-name } till andra. Du får också modifiera källkoden i { -brand-short-name } för att bättre passa dina behov. Mozilla Public License ger dig även rätt att distribuera de modifierade versionerna.
+rights-intro-point-2 =
+    Du beviljas inte några varumärkesrättigheter eller licenser för varumärkena till
+    Mozilla Foundation eller någon part, inklusive utan begränsning Thunderbird-namnet
+    eller logotypen. Ytterligare information om varumärken kan hittas
+    <a data-l10n-name="mozilla-trademarks-link">här</a>.
 rights-intro-point-3 = Vissa funktioner i { -brand-short-name }, såsom Kraschrapportören, ger dig möjlighet att ge feedback till { -vendor-short-name }. Genom att skicka in feedback ger du { -vendor-short-name } tillstånd att använda den för att förbättra sina produkter, publicera denna feedback på sina webbplatser och att distribuera den.
 rights-intro-point-4 = Hur vi använder dina personliga uppgifter och din feedback som du skickar till { -vendor-short-name } genom { -brand-short-name } finns beskrivet i <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } sekretesspolicy</a>.
+rights-intro-point-4-unbranded = Alla tillämpliga sekretesspolicyer för denna produkt bör listas här.
 rights-intro-point-5 = Vissa funktioner i { -brand-short-name } använder webbaserade informationstjänster, men vi kan dock inte garantera att dessa är till 100 % felfria. Fler detaljer, med information om hur du inaktiverar de funktioner som använder dessa tjänster hittar du i <a data-l10n-name="mozilla-service-terms-link">tjänstevillkoren</a>.
 rights-intro-point-5-unbranded = Om den här produkten innehåller integrerade webbtjänster bör tillämpliga villkor för tjänsterna länkas till sektionen <a data-l10n-name="mozilla-website-services-link">webbplatstjänster</a> .
 rights-intro-point-6 = För att spela upp vissa typer av videoinnehåll, { -brand-short-name }hämtar innehåll från vissa dekrypteringsmoduler från tredje part.
