@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 about-logins-page-title = Лагіны & паролі
 
 # "Google Play" and "App Store" are both branding and should not be translated
@@ -109,26 +114,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Пацвердзіце сваю асобу, каб змяніць захаваны лагін.
-
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Каб змяніць ваш лагін, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = рэдагаваць захаваны лагін
 
-# This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = Пацвердзіце сваю асобу для паказу захаванага пароля.
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Каб пабачыць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = паказаць захаваны пароль
-
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Праверце сваю асобу, каб скапіяваць захаваны пароль.
 
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Каб скапіраваць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
@@ -204,3 +200,7 @@ about-logins-error-message-duplicate-login-with-link = Запіс для { $logi
 
 # This is a generic error message.
 about-logins-error-message-default = Пры спробе захавання гэтага пароля здарылася памылка.
+
+
+## Login Export Dialog
+

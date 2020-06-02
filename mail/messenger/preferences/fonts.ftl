@@ -8,11 +8,14 @@ fonts-label-default =
     .label = Прадвызначаны ({ $name })
 fonts-label-default-unnamed =
     .label = Прадвызначана
+
 fonts-encoding-dialog-title =
     .title = Шрыфты і кадоўкі
+
 fonts-language-legend =
     .value = Шрыфты для:
     .accesskey = Ш
+
 fonts-proportional-label =
     .value = Суадносны:
     .accesskey = С
@@ -83,29 +86,37 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-serif-label =
     .value = З засечкамі:
     .accesskey = З
+
 font-sans-serif-label =
     .value = Без засечак:
     .accesskey = б
+
 font-monospace-label =
     .value = Роўнашырокі:
     .accesskey = Р
+
 font-min-size-label =
     .value = Найменшы памер шрыфту:
     .accesskey = м
+
 min-size-none =
     .label = Няма
 
 ## Fonts in message
 
 font-control-legend = Кіраванне шрыфтамі:
+
 use-document-fonts-checkbox =
     .label = Дазволіць лістам карыстацца іншымі шрыфтамі
     .accesskey = і
+
 use-fixed-width-plain-checkbox =
     .label = Ужываць шрыфт з нязменнай шырынёй для простатэкставых лістоў
     .accesskey = н
@@ -113,9 +124,12 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Кадаванне тэксту
+
 font-outgoing-email-label =
     .value = Выходная пошта:
     .accesskey = В
+
 font-incoming-email-label =
     .value = Уваходная пошта:
     .accesskey = У
+

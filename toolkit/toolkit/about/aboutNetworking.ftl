@@ -57,6 +57,7 @@ rcwn-avg-long = Доўгае сярэдняе
 rcwn-std-dev-long = Доўгае сярэднеквадратычнае адхіленне
 rcwn-cache-slow = Лік маруднага кэша
 rcwn-cache-not-slow = Лік не-маруднага кэша
+
 about-networking-title = Пра сетку
 about-networking-http = HTTP
 about-networking-sockets = Сокеты
