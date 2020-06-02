@@ -84,6 +84,15 @@ min-size-none =
 
 ## Fonts in message
 
+use-document-fonts-checkbox =
+    .label = Mensagens podem usar outras fontes
+    .accesskey = n
 
 ## Language settings
 
+font-outgoing-email-label =
+    .value = Para mensagens enviadas:
+    .accesskey = r
+font-incoming-email-label =
+    .value = Para mensagens recebidas:
+    .accesskey = e
