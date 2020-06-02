@@ -9,3 +9,6 @@ checkbox-email-label =
 checkbox-newsgroups-label =
     .label = Novičarske skupine
     .tooltiptext = { unset-default-tooltip }
+checkbox-feeds-label =
+    .label = Vire
+    .tooltiptext = { unset-default-tooltip }

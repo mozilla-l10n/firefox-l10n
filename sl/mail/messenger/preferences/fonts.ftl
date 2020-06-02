@@ -20,6 +20,12 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans Serif
+font-size-label =
+    .value = Velikost:
+    .accesskey = V
+font-size-monospace-label =
+    .value = Velikost:
+    .accesskey = e
 
 ## Fonts in message
 
