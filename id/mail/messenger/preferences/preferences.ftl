@@ -60,6 +60,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan
     .accesskey = i
+datetime-formatting-legend = Format Waktu dan Tanggal
 language-selector-legend = Bahasa
 system-integration-legend = Integrasi dengan Sistem
 always-check-default =
@@ -84,6 +85,9 @@ return-receipts-button =
     .label = Tanda Konfirmasi Diterima…
     .accesskey = r
 update-app-legend = Pemutakhiran { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versi { $version }
 networking-legend = Sambungan
 proxy-config-description = Atur cara { -brand-short-name } tersambung ke Internet
 network-settings-button =
