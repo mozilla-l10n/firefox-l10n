@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Kalender
+calendar-title-reminder = Påminnelser
 calendar-title-category = Kategorier
 dateformat-label =
     .value = Datum textformat:
@@ -34,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Visa veckonummer i vyer
     .accesskey = v
+workdays-label =
+    .value = Arbetsveckans dagar:
 day-1-checkbox =
     .label = Sön
     .accesskey = S
@@ -103,6 +107,9 @@ soon-label =
     .value = Kommande avsnittet visar:
     .accesskey = K
 event-task-legend = Händelser och uppgifter
+default-length-label =
+    .value = Standardlängd för händelser och uppgifter:
+    .accesskey = h
 task-start-label =
     .value = Start datum:
 task-start-1-label =
