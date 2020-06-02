@@ -569,6 +569,17 @@ notification-name =
     .label = gydag enw'r anfonwr yn unig
 notification-empty =
     .label = heb unrhyw wybodaeth
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animeiddio eitem docio
+           *[other] Fflachio'r eitem bar tasgau
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Canu nodyn
     .accesskey = C
@@ -583,6 +594,28 @@ chat-custom-sound-label =
     .accesskey = D
 chat-browse-sound-button =
     .label = Pori…
+    .accesskey = P
+theme-label =
+    .value = Thema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Swigod
+style-dark =
+    .label = Tywyll
+style-paper =
+    .label = Dalennau Papur
+style-simple =
+    .label = Syml
+preview-label = Rhagolwg:
+no-preview-label = Dim rhagolwg ar gael
+no-preview-description = Nid yw'r thema yma'n ddilys nac ar gael ar hyn o bryd (ychwanegyn wedi ei analluogi, modd diogel, …).
+chat-variant-label =
+    .value = Amrywiad:
+    .accesskey = A
+chat-header-label =
+    .label = Dangos Pennyn
     .accesskey = P
 
 ## Preferences UI Search Results
