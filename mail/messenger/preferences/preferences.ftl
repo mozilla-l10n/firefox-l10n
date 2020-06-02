@@ -162,6 +162,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Показувати піктограму в області сповіщень
     .accesskey = і
+mail-system-sound-label =
+    .label = Типовий системний звук сповіщення про надходження нових листів
+    .accesskey = з
 mail-custom-sound-label =
     .label = Використовувати наступний звуковий файл
     .accesskey = В
@@ -672,7 +675,29 @@ chat-variant-label =
 chat-header-label =
     .label = Показувати заголовок
     .accesskey = з
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Шукати у налаштуваннях
+           *[other] Шукати у налаштуваннях
+        }
 
 ## Preferences UI Search Results
 
 search-results-header = Результати пошуку
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Перепрошуємо! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
+       *[other] Перепрошуємо! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Потрібна допомога? Відвідайте <a data-l10n-name="url">Підтримка { -brand-short-name }</a>
