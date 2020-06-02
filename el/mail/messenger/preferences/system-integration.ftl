@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+system-integration-title =
+    .title = Ενσωμάτωση συστήματος
+default-client-intro = Χρήση του { -brand-short-name } ως την προεπιλεγμένη εφαρμογή για:
 checkbox-newsgroups-label =
     .label = Ομάδες συζητήσεων
     .tooltiptext = { unset-default-tooltip }
