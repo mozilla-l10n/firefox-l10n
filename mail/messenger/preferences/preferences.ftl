@@ -172,6 +172,7 @@ use-service =
     .label = 使用后台服务来安装更新
     .accesskey = b
 networking-legend = 连接
+proxy-config-description = 配置 { -brand-short-name } 如何连接至国际互联网
 network-settings-button =
     .label = 设置…
     .accesskey = S
