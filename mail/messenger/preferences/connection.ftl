@@ -72,3 +72,6 @@ proxy-password-prompt =
 proxy-remote-dns =
     .label = Bideratu DNSa proxy bidez SOCKS v5 erabiltzean
     .accesskey = d
+proxy-enable-doh =
+    .label = Gaitu HTTPS gaineko DNSa
+    .accesskey = b
