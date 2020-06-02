@@ -3,7 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rights-intro = El { -brand-full-name } és programari lliure i de codi obert, creat per una comunitat de milers de desenvolupadors d'arreu del món. Hi ha certs punts que caldria que coneguéssiu:
+rights-intro-point-1 = El { -brand-short-name } es posa a la vostra disposició sota els termes de la <a data-l10n-name="mozilla-public-license-link">Mozilla Public License (Llicència Pública de Mozilla)</a>. Això significa que podeu utilitzar, copiar i distribuir el { -brand-short-name } a altres. També es permet obertament la modificació del codi font del { -brand-short-name } per tal que s'adeqüi a les vostres necessitats. La Mozilla Public License us dóna també el dret de distribuir versions modificades.
 rights-intro-point-4 = Com s'utilitza la vostra informació personal i els informes que hàgiu tramès a { -vendor-short-name } des del { -brand-short-name } es descriu a la <a data-l10n-name="mozilla-privacy-policy-link">política de privadesa del { -brand-short-name }</a>.
+rights-intro-point-6 = Per tal de reproduir determinats tipus de contingut de vídeo, el { -brand-short-name } ha de baixar alguns mòduls de desxifratge de contingut de tercers.
 rights-webservices-header = Serveis d'informació web del { -brand-full-name }
 rights-locationawarebrowsing = <strong>Navegació amb geolocalització: </strong>és sempre opcional.  No s'enviarà mai cap informació de la vostra ubicació sense el vostre permís. Si voleu inhabilitar la funcionalitat complement, seguiu els passos següents:
 rights-locationawarebrowsing-term-1 = A la barra d'ubicació, escriviu-hi <code>about:config</code>
