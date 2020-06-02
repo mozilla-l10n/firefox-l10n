@@ -25,6 +25,7 @@ html-tab-label =
 plain-tab-label =
     .label = 純文字網域
     .accesskey = P
+send-message-domain-label = 當您寄信到下列網域時，{ -brand-short-name } 會自動送出相對應的格式。
 add-domain-button =
     .label = 新增…
     .accesskey = A
