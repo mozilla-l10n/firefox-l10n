@@ -60,3 +60,6 @@ proxy-password-prompt =
 proxy-remote-dns =
     .label = DNS progsaidh nuair a chleachdar SOCKS v5
     .accesskey = d
+proxy-enable-doh =
+    .label = Cuir an comas DNS air HTTPS
+    .accesskey = b
