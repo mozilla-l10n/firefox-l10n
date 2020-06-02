@@ -75,6 +75,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = { -brand-short-name } kezdőoldal
 start-page-label =
     .label = Kezdőoldal betöltése az üzenetek helyére a { -brand-short-name } indításakor
@@ -95,7 +99,24 @@ animated-alert-label =
 mail-custom-sound-label =
     .label = A következő hangfájl használata
     .accesskey = h
+enable-gloda-search-label =
+    .label = Globális keresés és indexelő engedélyezése
+    .accesskey = G
+system-integration-legend = Integrálódás a rendszerbe
+always-check-default =
+    .label = Indításkor ellenőrzés, hogy a { -brand-short-name }-e az alapértelmezett levelező
+    .accesskey = I
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Search
+       *[other] { "" }
+    }
+return-receipts-description = A { -brand-short-name } tértivevény-kezelésének beállítása
 networking-legend = Kapcsolat
+proxy-config-description = A { -brand-short-name } internetkapcsolatának megadása
 offline-legend = Kapcsolat nélküli munka
 offline-settings = Kapcsolat nélküli munka beállításai
 
@@ -103,10 +124,24 @@ offline-settings = Kapcsolat nélküli munka beállításai
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Legfeljebb
+    .accesskey = L
+use-cache-after = MB hely a gyorsítótárnak
 
 ##
 
+clear-cache-button =
+    .label = Törlés most
+    .accesskey = T
+default-font-label =
+    .value = Alapértelmezett betű:
+    .accesskey = b
 display-width-legend = Normál szöveges levelek
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Hangulatjelek megjelenítése grafikaként
+    .accesskey = H
 display-text-label = A következő beállítások használata idézett szöveges levelek esetén:
 style-label =
     .value = Stílus:
@@ -128,6 +163,18 @@ bigger-size-item =
     .label = Nagyobb
 smaller-size-item =
     .label = Kisebb
+search-input =
+    .placeholder = Keresés
+save-to-label =
+    .label = Fájlok mentése
+    .accesskey = m
+always-ask-label =
+    .label = Rákérdezés a fájlok letöltési helyére
+    .accesskey = R
+display-tags-text = A címkék az üzenetek kategorizálására és priorálására használhatók.
+delete-tag-button =
+    .label = Törlés
+    .accesskey = T
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -149,6 +196,9 @@ as-attachment-label =
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Automatikus mentés
+    .accesskey = A
 auto-save-end = percenként
 
 ##
@@ -163,6 +213,9 @@ download-dictionaries-link = További szótárak letöltése
 font-label =
     .value = Betű:
     .accesskey = B
+font-color-label =
+    .value = Szövegszín:
+    .accesskey = z
 bg-color-label =
     .value = Háttérszín:
     .accesskey = H
@@ -177,9 +230,46 @@ ab-label =
 directories-label =
     .label = Címtárkiszolgáló:
     .accesskey = C
+directories-none-label =
+    .none = Nincs
+attachment-label =
+    .label = Figyelmeztetés a hiányzó mellékletekre
+    .accesskey = m
 
 ## Privacy Tab
 
+passwords-description = A { -brand-short-name } képes megjegyezni az összes fiók jelszavát.
+master-password-description = A mesterjelszó az összes jelszót védi. Minden munkamenet során egyszer meg kell adni.
+master-password-label =
+    .label = Mesterjelszó használata
+    .accesskey = M
+junk-description = Az alapértelmezett levélszemét-kezelés beállítása. A postafiókra jellemző levélszemét-kezelés beállításait a Postafiókok beállításai alatt végezheti el.
+junk-label =
+    .label = A levélszemét kézi megjelölésekor:
+    .accesskey = k
+junk-move-label =
+    .label = Áthelyezés a postafiók „Szemét” mappájába
+    .accesskey = h
+junk-delete-label =
+    .label = Törlés
+    .accesskey = T
+junk-read-label =
+    .label = A szemétként megjelölt levelek megjelölése olvasottként
+    .accesskey = o
+junk-log-button =
+    .label = Napló megjelenítése
+    .accesskey = N
+reset-junk-button =
+    .label = Tanulási adatok törlése
+    .accesskey = T
+phishing-description = A { -brand-short-name } képes elemezni az üzeneteket, és kiszűrni a leggyakrabban használt trükköket, amelyekkel Önt becsaphatják.
+phishing-label =
+    .label = Figyelmeztetés a gyanús e-mailekre
+    .accesskey = F
+certificate-description = Ha a kiszolgáló elkéri a személyes tanúsítványt:
+certificate-ask =
+    .label = Megerősítés minden alkalommal
+    .accesskey = M
 
 ## Chat Tab
 
