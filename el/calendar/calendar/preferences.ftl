@@ -92,6 +92,13 @@ previous-weeks-label =
     .value = Προηγούμενες εβδομάδες προς εμφάνιση:
     .accesskey = γ
 todaypane-legend = Παράθυρο ημέρας
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Η ενότητα "Επερχόμενα" εμφανίζει:
+    .accesskey = Ε
+event-task-legend = Συμβάντα και εργασίες
 task-start-label =
     .value = Ημερομηνία έναρξης:
 task-start-1-label =
@@ -152,6 +159,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Προεπιλεγμένος χρόνος που να ορίζεται η υπενθύμιση πριν από εργασία:
     .accesskey = ρ
+category-new-label = Νέα κατηγορία
 category-edit-label = Επεξεργασία κατηγορίας
 category-overwrite-title = Προειδοποίηση: Διπλότυπο όνομα
 category-overwrite = Υπάρχει ήδη κατηγορία με αυτό το όνομα. \n Θέλετε να την αντικαταστήσετε;
