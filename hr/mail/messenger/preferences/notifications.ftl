@@ -24,3 +24,5 @@ sender-checkbox =
 open-time-label-before =
     .value = Prikaži obavjest o novoj pošti na
     .accesskey = n
+open-time-label-after =
+    .value = sekundi

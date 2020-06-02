@@ -62,9 +62,15 @@ font-language-group-malayalam =
 
 ## Default font type
 
+font-serif-label =
+    .value = Serif:
+    .accesskey = S
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+font-monospace-label =
+    .value = Monospace:
+    .accesskey = M
 font-min-size-label =
     .value = Minimalna veličina fonta:
     .accesskey = a
