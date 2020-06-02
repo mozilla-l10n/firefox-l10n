@@ -79,14 +79,21 @@ font-sans-serif-label =
 font-monospace-label =
     .value = Monoespaçada:
     .accesskey = o
+font-min-size-label =
+    .value = Tamanho mínimo permitido:
+    .accesskey = m
 min-size-none =
     .label = Nenhum
 
 ## Fonts in message
 
+font-control-legend = Controle das fontes
 use-document-fonts-checkbox =
     .label = Mensagens podem usar outras fontes
     .accesskey = n
+use-fixed-width-plain-checkbox =
+    .label = Usar fonte monoespaçada em mensagens sem formatação
+    .accesskey = U
 
 ## Language settings
 
