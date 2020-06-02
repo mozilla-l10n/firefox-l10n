@@ -24,3 +24,27 @@ msgevent-rcvdmsg_not_private = Зашифроване повідомлення, 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Ви отримали зашифроване повідомлення від { $name }, яке неможливо прочитати.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Ви отримали хибні дані повідомлення від { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Ви отримали технічне повідомлення для продовження встановленого зʼєднання від { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Надіслано технічне повідомлення для продовження встановленого зʼєднання з { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Сталася неочікувана помилка під час спроби захистити вашу розмову за допомогою OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = Вказане повідомлення, отримане від { $name }, не було зашифровано: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Ви отримали нерозпізнане повідомлення OTR від { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = Повідомлення, надіслане { $name }, призначене для іншого сеансу. Якщо ви входили до системи кілька разів, повідомлення може бути отримане в іншому сеансі.
