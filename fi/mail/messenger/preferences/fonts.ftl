@@ -4,10 +4,26 @@
 
 fonts-window-close =
     .key = s
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Oletus ({ $name })
 fonts-label-default-unnamed =
     .label = Oletus
+fonts-encoding-dialog-title =
+    .title = Kirjasinlajit ja merkistökoodaukset
+
+## Languages
+
+
+## Default font type
+
+
+## Fonts in message
+
+
+## Language settings
+
+font-outgoing-email-label =
+    .value = Lähtevät viestit:
+    .accesskey = L
