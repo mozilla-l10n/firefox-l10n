@@ -98,6 +98,12 @@ focus-search-shortcut =
 focus-search-shortcut-alt =
     .key = k
 general-legend = Faqe Fillimi për { -brand-short-name }-in
+start-page-label =
+    .label = Kur niset { -brand-short-name }-i, te fusha e mesazheve shfaq Faqen e Fillimit
+    .accesskey = K
+location-label =
+    .value = Vendndodhje:
+    .accesskey = V
 restore-default-label =
     .label = Rimerr Parazgjedhjet
     .accesskey = R
@@ -112,6 +118,20 @@ minimize-to-tray-label =
     .label = Kur minimizohet { -brand-short-name }-i, shpjere te shtylla
     .accesskey = m
 new-message-arrival = Kur mbërrijnë mesazhe të rinj:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Luaj kartelën tingull vijuese:
+           *[other] Luaj një tingull
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] i
+           *[other] L
+        }
+mail-play-button =
+    .label = Luaje
+    .accesskey = u
 change-dock-icon = Ndryshoni parapëlqimet për ikonën e aplikacionit
 app-icon-options =
     .label = Mundësi Ikone Aplikacioni…
@@ -120,9 +140,21 @@ notification-settings = Sinjalizimet dhe tingulli parazgjedhje mund të çaktivi
 animated-alert-label =
     .label = Shfaq një sinjalizim
     .accesskey = S
+customize-alert-label =
+    .label = Përshtateni…
+    .accesskey = P
 tray-icon-label =
     .label = Shfaq ikonë paneli
     .accesskey = p
+mail-custom-sound-label =
+    .label = Përdor kartelën zanore vijuese
+    .accesskey = o
+mail-browse-sound-button =
+    .label = Shfletoni…
+    .accesskey = f
+enable-gloda-search-label =
+    .label = Aktivizo Kërkim dhe Indeksues Global
+    .accesskey = A
 datetime-formatting-legend = Formatim Datash dhe Kohe
 language-selector-legend = Gjuhë
 allow-hw-accel =
@@ -142,6 +174,7 @@ autoscroll-label =
 smooth-scrolling-label =
     .label = Përdor rrëshqitje të butë
     .accesskey = b
+system-integration-legend = Integrim me Sistemin
 always-check-default =
     .label = Gjatë nisjes, kontrollo përherë nëse është apo jo { -brand-short-name }-i klienti parazgjedhje për postën
     .accesskey = G
@@ -156,6 +189,16 @@ search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+search-integration-label =
+    .label = Lejo { search-engine-name }-n të kërkojë në mesazhe
+    .accesskey = L
+config-editor-button =
+    .label = Përpunues Formësimesh…
+    .accesskey = P
+return-receipts-description = Përcaktoni se si i trajton { -brand-short-name }-i faturat e kthimit
+return-receipts-button =
+    .label = Fatura Kthimi…
+    .accesskey = F
 update-app-legend = Përditësime { -brand-short-name }-i
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
@@ -174,6 +217,11 @@ use-service =
     .label = Për instalim përditësimesh përdor një shërbim në prapaskenë
     .accesskey = i
 cross-user-udpate-warning = Ky rregullim do të zbatohet mbi krejt llogaritë Windows dhe profilet { -brand-short-name } që përdorin këtë instalim të { -brand-short-name }-it.
+networking-legend = Lidhje
+proxy-config-description = Formësoni mënyrën se si { -brand-short-name }-i lidhet në Internet
+network-settings-button =
+    .label = Rregullime…
+    .accesskey = R
 offline-legend = Jo në linjë
 offline-settings = Formësoni rregullimet për jo në linjë
 offline-settings-button =
@@ -190,6 +238,9 @@ compact-folder-size =
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Përdor deri më
+    .accesskey = d
 use-cache-after = MB hapësirë për fshehtinën
 
 ##
@@ -197,12 +248,31 @@ use-cache-after = MB hapësirë për fshehtinën
 smart-cache-label =
     .label = Anashkalo administrim të vetvetishëm fshehtine
     .accesskey = A
+clear-cache-button =
+    .label = Spastroje Tani
+    .accesskey = P
 fonts-legend = Shkronja & Ngjyra
+default-font-label =
+    .value = Shkronja parazgjedhje:
+    .accesskey = a
+default-size-label =
+    .value = Madhësi:
+    .accesskey = M
+font-options-button =
+    .label = Të mëtejshme…
+    .accesskey = S
 color-options-button =
     .label = Ngjyra…
     .accesskey = N
 display-width-legend = Mesazhe Tekst i Thjeshtë
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Emotikonet shfaqi si grafikë
+    .accesskey = E
 display-text-label = Kur shfaqen mesazhe teksti të thjeshtë të cituar:
+style-label =
+    .value = Stil:
+    .accesskey = i
 regular-style-item =
     .label = I rregullt
 bold-style-item =
@@ -211,6 +281,9 @@ italic-style-item =
     .label = Të pjerrëta
 bold-italic-style-item =
     .label = Të trasha Të pjerrëta
+size-label =
+    .value = Madhësi:
+    .accesskey = a
 regular-size-item =
     .label = Të rregullta
 bigger-size-item =
@@ -294,6 +367,11 @@ condensed-addresses-label =
 
 ## Compose Tab
 
+forward-label =
+    .value = Mesazhet përcilli:
+    .accesskey = M
+inline-label =
+    .label = Brendazi
 as-attachment-label =
     .label = Si Bashkëngjitje
 extension-label =
@@ -303,13 +381,25 @@ extension-label =
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Vetëruaje çdo
+    .accesskey = V
 auto-save-end = minuta
 
 ##
 
+warn-on-send-accel-key =
+    .label = Ripohoni përdorimin e shkurtoreve për dërgim mesazhi
+    .accesskey = R
 spellcheck-label =
     .label = Kontrolloji drejtshkrimin para se ta dërgosh
     .accesskey = K
+spellcheck-inline-label =
+    .label = Kontrollo drejtshkrimin në shkrim e sipër
+    .accesskey = d
+language-popup-label =
+    .value = Gjuhë:
+    .accesskey = G
 download-dictionaries-link = Shkarkoni Më Tepër Fjalorë
 font-label =
     .value = Shkronja:
@@ -332,6 +422,10 @@ restore-html-label =
 default-format-label =
     .label = Si parazgjedhje, përdor formatin Paragraf, në vend se të Lëndë Mesazhi
     .accesskey = P
+format-description = Formësoni sjelljen lidhur me formate tekstesh
+send-options-label =
+    .label = Mundësi Dërgimi…
+    .accesskey = u
 autocomplete-description = Kur adresohen mesazhe, shih për zëra përputhjesh te:
 ab-label =
     .label = Libra Vendorë Adresash
@@ -344,11 +438,20 @@ directories-none-label =
 edit-directories-label =
     .label = Përpunoni Drejtori…
     .accesskey = P
+email-picker-label =
+    .label = Shto vetvetiu adresë dërgimi email-i te:
+    .accesskey = v
 default-directory-label =
     .value = Drejtori parazgjedhje për nisjen e dritares së librit të adresave:
     .accesskey = D
 default-last-label =
     .none = Drejtoria e përdorur së fundit
+attachment-label =
+    .label = Kontrollo për bashkëngjitje që mungojnë
+    .accesskey = K
+attachment-options-label =
+    .label = Fjalëkyçe…
+    .accesskey = F
 enable-cloud-share =
     .label = Ofroni për ndarje kartela më të mëdha se
 cloud-share-size =
@@ -449,6 +552,13 @@ antivirus-description = { -brand-short-name }-i mund t'ia lehtësojë software-i
 antivirus-label =
     .label = Lejo klientë anti-virus të vendosin në karantinë mesazhe të veçantë ardhës
     .accesskey = L
+certificate-description = Kur një shërbyes kërkon dëshminë time vetjake:
+certificate-auto =
+    .label = Përzgjidh një vetvetiu
+    .accesskey = P
+certificate-ask =
+    .label = Pyetmë çdo herë
+    .accesskey = y
 ocsp-label =
     .label = Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive
     .accesskey = K
