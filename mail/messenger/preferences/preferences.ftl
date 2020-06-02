@@ -8,6 +8,12 @@ category-general =
 pane-compose-title = Szerkesztés
 category-compose =
     .tooltiptext = Szerkesztés
+pane-chat-title = Csevegés
+category-chat =
+    .tooltiptext = Csevegés
+pane-calendar-title = Naptár
+category-calendar =
+    .tooltiptext = Naptár
 general-language-and-appearance-header = Nyelv és megjelenés
 general-incoming-mail-header = Bejövő levelek
 general-files-and-attachment-header = Fájlok és mellékletek
@@ -93,19 +99,42 @@ new-message-arrival = Új üzenet érkezésekor:
 mail-play-button =
     .label = Lejátszás
     .accesskey = L
+change-dock-icon = Az appikon beállításainak módosítása
+app-icon-options =
+    .label = Appikon beállításai…
+    .accesskey = A
 animated-alert-label =
     .label = Figyelmeztető ablak
     .accesskey = F
+customize-alert-label =
+    .label = Testreszabás…
+    .accesskey = T
+tray-icon-label =
+    .label = Tálcaikon megjelenítése
+    .accesskey = t
 mail-custom-sound-label =
     .label = A következő hangfájl használata
     .accesskey = h
+mail-browse-sound-button =
+    .label = Tallózás…
+    .accesskey = T
 enable-gloda-search-label =
     .label = Globális keresés és indexelő engedélyezése
     .accesskey = G
+scrolling-legend = Görgetés
+autoscroll-label =
+    .label = Automatikus görgetés
+    .accesskey = u
+smooth-scrolling-label =
+    .label = Finom görgetés
+    .accesskey = F
 system-integration-legend = Integrálódás a rendszerbe
 always-check-default =
     .label = Indításkor ellenőrzés, hogy a { -brand-short-name }-e az alapértelmezett levelező
     .accesskey = I
+check-default-button =
+    .label = Ellenőrzés most…
+    .accesskey = E
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -114,11 +143,38 @@ search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+config-editor-button =
+    .label = Konfigurációszerkesztő…
+    .accesskey = K
 return-receipts-description = A { -brand-short-name } tértivevény-kezelésének beállítása
+return-receipts-button =
+    .label = Tértivevények…
+    .accesskey = T
+check-updates-label =
+    .label = Frissítések keresése, de a telepítés kézzel történik
+    .accesskey = k
+update-history-button =
+    .label = Frissítési előzmények megjelenítése
+    .accesskey = z
+use-service =
+    .label = Háttérben futó szolgáltatás intézze a frissítést
+    .accesskey = H
 networking-legend = Kapcsolat
 proxy-config-description = A { -brand-short-name } internetkapcsolatának megadása
+network-settings-button =
+    .label = Beállítások…
+    .accesskey = B
 offline-legend = Kapcsolat nélküli munka
 offline-settings = Kapcsolat nélküli munka beállításai
+offline-settings-button =
+    .label = Kapcsolat nélkül…
+    .accesskey = K
+diskspace-legend = Lemezterület
+offline-compact-folder =
+    .label = Minden mappa tömörítése, ha a megtakarított hely több lenne, mint
+    .accesskey = t
+compact-folder-size =
+    .value = MB összesen
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -134,9 +190,13 @@ use-cache-after = MB hely a gyorsítótárnak
 clear-cache-button =
     .label = Törlés most
     .accesskey = T
+fonts-legend = Betűk és színek
 default-font-label =
     .value = Alapértelmezett betű:
     .accesskey = b
+color-options-button =
+    .label = Színek…
+    .accesskey = n
 display-width-legend = Normál szöveges levelek
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -163,11 +223,25 @@ bigger-size-item =
     .label = Nagyobb
 smaller-size-item =
     .label = Kisebb
+quoted-text-color =
+    .label = Szín:
+    .accesskey = z
 search-input =
     .placeholder = Keresés
 save-to-label =
     .label = Fájlok mentése
     .accesskey = m
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Tallózás…
+           *[other] Tallózás…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] T
+           *[other] T
+        }
 always-ask-label =
     .label = Rákérdezés a fájlok letöltési helyére
     .accesskey = R
@@ -235,14 +309,56 @@ directories-none-label =
 attachment-label =
     .label = Figyelmeztetés a hiányzó mellékletekre
     .accesskey = m
+enable-cloud-share =
+    .label = Fájlmegosztás ajánlása, ha a fájl nagyobb, mint
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Eltávolítás
+    .accesskey = E
+cloud-account-description = Adjon hozzá új óriásfájl-küldési tárolószolgáltatást
 
 ## Privacy Tab
 
+mail-content = Levéltartalom
+remote-content-label =
+    .label = Távoli tartalom engedélyezése az üzenetekben
+    .accesskey = T
+remote-content-info =
+    .value = Tudjon meg többet a távoli tartalommal kapcsolatos adatvédelmi problémákról
+web-content = Webtartalom
+history-label =
+    .label = Meglátogatott webhelyek és hivatkozások megjegyzése
+    .accesskey = z
+cookies-label =
+    .label = Sütik elfogadása webhelyekről
+    .accesskey = w
+third-party-always =
+    .label = Mindig
+third-party-never =
+    .label = Soha
+third-party-visited =
+    .label = Meglátogatottól
+keep-label =
+    .value = Sütik megtartása:
+    .accesskey = m
+keep-expire =
+    .label = amíg le nem járnak
+keep-close =
+    .label = a { -brand-short-name } bezárásáig
+keep-ask =
+    .label = megerősítés minden alkalommal
 passwords-description = A { -brand-short-name } képes megjegyezni az összes fiók jelszavát.
+passwords-button =
+    .label = Mentett jelszavak…
+    .accesskey = e
 master-password-description = A mesterjelszó az összes jelszót védi. Minden munkamenet során egyszer meg kell adni.
 master-password-label =
     .label = Mesterjelszó használata
     .accesskey = M
+master-password-button =
+    .label = Mesterjelszó megváltoztatása…
+    .accesskey = z
 junk-description = Az alapértelmezett levélszemét-kezelés beállítása. A postafiókra jellemző levélszemét-kezelés beállításait a Postafiókok beállításai alatt végezheti el.
 junk-label =
     .label = A levélszemét kézi megjelölésekor:
@@ -256,6 +372,9 @@ junk-delete-label =
 junk-read-label =
     .label = A szemétként megjelölt levelek megjelölése olvasottként
     .accesskey = o
+junk-log-label =
+    .label = Adaptív levélszemétszűrő-naplózás engedélyezése
+    .accesskey = A
 junk-log-button =
     .label = Napló megjelenítése
     .accesskey = N
@@ -267,12 +386,22 @@ phishing-label =
     .label = Figyelmeztetés a gyanús e-mailekre
     .accesskey = F
 certificate-description = Ha a kiszolgáló elkéri a személyes tanúsítványt:
+certificate-auto =
+    .label = Automatikus választás
+    .accesskey = u
 certificate-ask =
     .label = Megerősítés minden alkalommal
     .accesskey = M
+ocsp-label =
+    .label = Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez
+    .accesskey = C
 
 ## Chat Tab
 
+offline-label =
+    .label = A csevegőfiókok kapcsolat nélküli módban legyenek
+auto-connect-label =
+    .label = Automatikus csatlakozás a csevegőfiókokhoz
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -280,9 +409,17 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-time-label = perc tétlenség után
 
 ##
 
+notification-label = Önnek címzett új üzenet érkezésekor:
+notification-all =
+    .label = feladó nevével és az üzenet előnézetével
+notification-name =
+    .label = csak a feladó nevével
+notification-empty =
+    .label = információ nélkül
 
 ## Preferences UI Search Results
 
