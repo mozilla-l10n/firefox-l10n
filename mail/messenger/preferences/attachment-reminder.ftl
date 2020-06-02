@@ -4,9 +4,12 @@
 
 attachment-reminder-window =
     .title = Palabras chave para o recordatorio de anexos
+
 attachment-reminder-label = { -brand-short-name } avisarao sobre anexos olvidados, se vai a enviar un correo-e que conteña algunha destas palabras chave.
+
 keyword-remove-button =
     .label = Eliminar
     .accesskey = m
+
 edit-keyword-title = Editar palabra clave
 edit-keyword-label = Palabra clave:

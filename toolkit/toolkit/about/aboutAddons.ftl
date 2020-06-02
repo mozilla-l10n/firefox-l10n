@@ -351,9 +351,6 @@ plugin-heading = Xestione os seus engadidos
 dictionary-heading = Xestione os seus dicionarios
 locale-heading = Xestione os seus idiomas
 
-theme-heading-search-label = Atopar máis temas
-extension-heading-search-label = Atopar máis extensións
-
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
 

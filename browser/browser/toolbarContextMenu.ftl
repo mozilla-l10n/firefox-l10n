@@ -20,12 +20,14 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Anular o peche da lapela
     .accesskey = u
+
 toolbar-context-menu-manage-extension =
     .label = Xestionar extensión
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Retirar extensión
     .accesskey = x
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
