@@ -2,12 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencias
+        }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-compose-title = Redacción
 category-compose =
     .tooltiptext = Redacción
+pane-chat-title = Chat
+category-chat =
+    .tooltiptext = Chat
+pane-calendar-title = Calendar
+category-calendar =
+    .tooltiptext = Calendar
 general-language-and-appearance-header = Idioma y apariencia
 general-incoming-mail-header = Correos electrónicos entrantes
 general-files-and-attachment-header = Archivos y adjuntos
@@ -75,28 +87,143 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = Página de inicio de { -brand-short-name }
+start-page-label =
+    .label = Cuando se inicie { -brand-short-name }, mostrar la página de inicio en el área de mensajes
+    .accesskey = i
 location-label =
     .value = Dirección:
     .accesskey = c
 restore-default-label =
     .label = Restaurar predeterminados
     .accesskey = R
+default-search-engine = Buscador predeterminado
 new-message-arrival = Cuando llegue un nuevo mensaje:
+mail-play-button =
+    .label = Reproducir
+    .accesskey = d
+change-dock-icon = Cambiar preferencias para el ícono de la aplicación
+app-icon-options =
+    .label = Opciones de ícono de la aplicación…
+    .accesskey = n
+animated-alert-label =
+    .label = Mostrar una alerta
+    .accesskey = M
+customize-alert-label =
+    .label = Personalizar…
+    .accesskey = z
+tray-icon-label =
+    .label = Mostrar un ícono en sistema
+    .accesskey = t
 mail-custom-sound-label =
     .label = Usar el siguiente archivo de sonido
     .accesskey = U
+mail-browse-sound-button =
+    .label = Examinar…
+    .accesskey = x
+enable-gloda-search-label =
+    .label = Habilitar indexado y búsqueda global
+    .accesskey = i
+allow-hw-accel =
+    .label = Usar aceleración por hardware cuando esté disponible
+    .accesskey = h
+store-type-label =
+    .value = Tipo de almacenamiento de mensajes para nuevas cuentas:
+    .accesskey = T
+mbox-store-label =
+    .label = Un archivo por carpeta (mbox)
+maildir-store-label =
+    .label = Un archivo por mensaje (maildir)
+scrolling-legend = Desplazamiento
+autoscroll-label =
+    .label = Usar autodesplazamiento
+    .accesskey = U
+smooth-scrolling-label =
+    .label = Usar desplazamiento suave
+    .accesskey = m
+system-integration-legend = Integración con el sistema
+check-default-button =
+    .label = Verificar ahora…
+    .accesskey = V
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Búsqueda de Windows
+       *[other] { "" }
+    }
+search-integration-label =
+    .label = Permitir que { search-engine-name } busque mensajes
+    .accesskey = S
+config-editor-button =
+    .label = Editor de configuración…
+    .accesskey = g
+return-receipts-description = Determine cómo { -brand-short-name } maneja los acuses de recibo
+return-receipts-button =
+    .label = Acuses de recibo…
+    .accesskey = r
+check-updates-label =
+    .label = Buscar actualizaciones, pero dejarme decidir si las instalo
+    .accesskey = c
+update-history-button =
+    .label = Mostrar historial de actualizaciones
+    .accesskey = h
+use-service =
+    .label = Usar un servicio en segundo plano para instalar actualizaciones
+    .accesskey = z
 networking-legend = Conexión
+proxy-config-description = Configurar cómo { -brand-short-name } se conectará a Internet.
+network-settings-button =
+    .label = Configuración…
+    .accesskey = n
 offline-legend = Sin conexión
+offline-settings = Configurar las opciones 'Sin conexión'
+offline-settings-button =
+    .label = Sin conexión…
+    .accesskey = S
+offline-compact-folder =
+    .label = Compactar carpetas cuando se recuperen más de
+    .accesskey = e
+compact-folder-size =
+    .value = MB en total
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Usar hasta
+    .accesskey = U
+use-cache-after = MB de espacio para caché
 
 ##
 
+clear-cache-button =
+    .label = Borrar ahora
+    .accesskey = B
+fonts-legend = Tipografía y colores
+default-font-label =
+    .value = Tipografía predeterminada:
+    .accesskey = d
+default-size-label =
+    .value = Tamaño:
+    .accesskey = T
+font-options-button =
+    .label = Avanzadas…
+    .accesskey = A
+color-options-button =
+    .label = Colores…
+    .accesskey = C
 display-width-legend = Mensajes de texto plano
+display-text-label = Cuando se muestren mensajes de texto plano citados:
+style-label =
+    .value = Estilo:
+    .accesskey = E
 regular-style-item =
     .label = Regular
 bold-style-item =
@@ -105,49 +232,255 @@ italic-style-item =
     .label = Itálica
 bold-italic-style-item =
     .label = Negrita itálica
+size-label =
+    .value = Tamaño:
+    .accesskey = T
 regular-size-item =
     .label = Regular
 bigger-size-item =
     .label = Más grande
 smaller-size-item =
     .label = Más pequeño
+quoted-text-color =
+    .label = Color:
+    .accesskey = o
+search-input =
+    .placeholder = Buscar
+type-column-label =
+    .label = Tipo de contenido
+    .accesskey = T
+action-column-label =
+    .label = Acción
+    .accesskey = A
+save-to-label =
+    .label = Guardar archivos en
+    .accesskey = G
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Elegir…
+           *[other] Examinar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] E
+           *[other] x
+        }
+always-ask-label =
+    .label = Preguntarme siempre dónde guardar los archivos
+    .accesskey = P
+auto-mark-as-read =
+    .label = Marcar mensajes como leídos automáticamente
+    .accesskey = A
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Después de mostrar por
+    .accesskey = D
+seconds-label = segundos
 
 ##
 
+open-msg-label =
+    .value = Abrir mensajes en:
+open-msg-tab =
+    .label = Una nueva pestaña
+    .accesskey = t
+open-msg-window =
+    .label = Una nueva ventana de mensaje
+    .accesskey = n
+open-msg-ex-window =
+    .label = Una ventana de mensaje existente
+    .accesskey = e
+close-move-delete =
+    .label = Cerrar ventana/pestaña de mensaje al mover o borrar
+    .accesskey = C
+condensed-addresses-label =
+    .label = Ver solamente el nombre a mostrar para personas en mi libreta de direcciones
+    .accesskey = S
 
 ## Compose Tab
 
+forward-label =
+    .value = Reenviar mensajes:
+    .accesskey = m
 inline-label =
     .label = Incorporado
 as-attachment-label =
     .label = Como adjunto
+extension-label =
+    .label = Agregar la extensión al nombre de archivo
+    .accesskey = n
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Guardar todo automáticamente cada
+    .accesskey = u
 auto-save-end = minutos
 
 ##
 
+warn-on-send-accel-key =
+    .label = Confirmar cuando se usan atajos de teclados para enviar mensajes
+    .accesskey = C
+spellcheck-label =
+    .label = Verificar ortografía antes de enviar
+    .accesskey = V
+spellcheck-inline-label =
+    .label = Verificar ortografía mientras se escribe
+    .accesskey = e
+language-popup-label =
+    .value = Idioma:
+    .accesskey = I
 download-dictionaries-link = Descargar más diccionarios
+font-label =
+    .value = Tipografía:
+    .accesskey = g
 font-color-label =
     .value = Color del texto:
     .accesskey = x
+bg-color-label =
+    .value = Color de fondo:
+    .accesskey = f
 restore-html-label =
     .label = Restaurar predeterminados
     .accesskey = R
+default-format-label =
+    .label = Usar formato de párrafo en vez de texto de cuerpo por defecto
+    .accesskey = p
 format-description = Configurar el comportamiento del formato de texto
+send-options-label =
+    .label = Opciones de envío…
+    .accesskey = O
 autocomplete-description = Al escribir una dirección, buscar coincidencias en:
+ab-label =
+    .label = Libretas de direcciones locales
+    .accesskey = d
+directories-label =
+    .label = Servidor de directorios:
+    .accesskey = S
+directories-none-label =
+    .none = Ninguno
+edit-directories-label =
+    .label = Editar directorios…
+    .accesskey = E
+email-picker-label =
+    .label = Añadir automáticamente las direcciones de correo salientes a mi:
+    .accesskey = s
+attachment-label =
+    .label = Comprobar adjuntos faltantes
+    .accesskey = j
+attachment-options-label =
+    .label = Palabras…
+    .accesskey = P
+enable-cloud-share =
+    .label = Ofrecer para compartir archivos de más de
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Eliminar
+    .accesskey = r
+cloud-account-description = Agregar un nuevo servicio de almacenamiento Filelink
 
 ## Privacy Tab
 
+mail-content = Contenido de correo
+remote-content-label =
+    .label = Permitir contenido remoto en mensajes
+    .accesskey = a
+exceptions-button =
+    .label = Excepciones…
+    .accesskey = E
+remote-content-info =
+    .value = Conozca más sobre los problemas de privacidad del contenido remoto
+web-content = Contenido web
+history-label =
+    .label = Recordar sitios web y enlaces que haya visitado
+    .accesskey = R
+cookies-label =
+    .label = Aceptar cookies de los sitios
+    .accesskey = A
+third-party-label =
+    .value = Aceptar cookies de terceros:
+    .accesskey = c
+third-party-always =
+    .label = Siempre
+third-party-never =
+    .label = Nunca
+third-party-visited =
+    .label = De visitados
+keep-label =
+    .value = Mantener hasta:
+    .accesskey = h
+keep-expire =
+    .label = que expiren
+keep-close =
+    .label = que cierre { -brand-short-name }
+keep-ask =
+    .label = preguntarme cada vez
+cookies-button =
+    .label = Mostrar cookies…
+    .accesskey = S
+passwords-button =
+    .label = Contraseñas guardadas…
+    .accesskey = s
+master-password-label =
+    .label = Usar una contraseña maestra
+    .accesskey = m
+master-password-button =
+    .label = Cambiar contraseña maestra…
+    .accesskey = C
+junk-description = Configuración predeterminada de correo basura. Las configuraciones específicas de cada cuenta deben ser realizadas en Configuración de cuentas.
+junk-label =
+    .label = Cuando marque mensajes como basura:
+    .accesskey = C
+junk-move-label =
+    .label = Moverlos a la carpeta "Basura" de la cuenta
+    .accesskey = o
+junk-delete-label =
+    .label = Borrarlos
+    .accesskey = B
+junk-read-label =
+    .label = Marcar los mensajes determinados como basura como ya leídos
+    .accesskey = a
+junk-log-button =
+    .label = Mostrar el registro
+    .accesskey = s
+reset-junk-button =
+    .label = Borrar entrenamiento
+    .accesskey = B
+phishing-description = { -brand-short-name } puede analizar mensajes buscando correos sospechosos de fraude buscando las técnicas más conocidas con que puedan engañarlo.
+phishing-label =
+    .label = Avisarme si el mensaje que estoy leyendo puede ser una estafa
+    .accesskey = e
+antivirus-description = { -brand-short-name } puede facilitar a los antivirus que revisen el correo electrónico antes de ser guardados localmente.
+antivirus-label =
+    .label = Permitir a los antivirus poner en cuarentena mensajes individualmente
+    .accesskey = l
+certificate-description = Cuando un servidor solicite mi certificado personal:
+certificate-auto =
+    .label = Seleccionar uno automáticamente
+    .accesskey = m
+certificate-ask =
+    .label = Preguntarme cada vez
+    .accesskey = a
+ocsp-label =
+    .label = Pedir a los servidores respondedores de OCSP que confirmen la validez actual de los certificados
+    .accesskey = O
 
 ## Chat Tab
 
+startup-label =
+    .value = Al iniciar { -brand-short-name }:
+    .accesskey = A
+offline-label =
+    .label = Mantener mis cuentas de chat desconectadas
+auto-connect-label =
+    .label = Conectar mis cuentas de chat automáticamente
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -155,9 +488,41 @@ autocomplete-description = Al escribir una dirección, buscar coincidencias en:
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Dejar que mis contactos sepan que estoy inactivo después de
+    .accesskey = i
+idle-time-label = minutos de inactividad
 
 ##
 
+send-typing-label =
+    .label = Enviar notificaciones de tipeo en las notificaciones
+    .accesskey = t
+notification-label = Cuando lleguen mensajes dirigidos a usted:
+show-notification-label =
+    .label = Mostrar una notificación
+    .accesskey = c
+notification-all =
+    .label = con nombre de remitente y vista previa de mensaje
+notification-name =
+    .label = solo con nombre de remitente
+notification-empty =
+    .label = sin otra información
+chat-play-sound-label =
+    .label = Reproducir un sonido
+    .accesskey = d
+chat-play-button =
+    .label = Reproducir
+    .accesskey = p
+chat-system-sound-label =
+    .label = Sonido predeterminado para nuevo correo
+    .accesskey = d
+chat-custom-sound-label =
+    .label = Usar el siguiente archivo de sonido
+    .accesskey = U
+chat-browse-sound-button =
+    .label = Examinar…
+    .accesskey = x
 
 ## Preferences UI Search Results
 
