@@ -1,0 +1,33 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+filter-search-label =
+    .value = Αναζήτηση:
+    .accesskey = ζ
+cookies-on-system-label = Τα ακόλουθα cookies είναι αποθηκευμένα στον υπολογιστή σας:
+treecol-site-header =
+    .label = Σελίδα
+treecol-name-header =
+    .label = Όνομα Cookie
+props-name-label =
+    .value = Όνομα:
+props-value-label =
+    .value = Περιεχόμενο:
+props-domain-label =
+    .value = Σύστημα:
+props-path-label =
+    .value = Διαδρομή:
+props-secure-label =
+    .value = Στάλθηκε για:
+props-expires-label =
+    .value = Λήγει:
+remove-cookie-button =
+    .label = Απομάκρυνση Cookie
+    .accesskey = ρ
+remove-all-cookies-button =
+    .label = Απομάκρυνση όλων των Cookies
+    .accesskey = λ
+cookie-close-button =
+    .label = Κλείσιμο
+    .accesskey = Κ
