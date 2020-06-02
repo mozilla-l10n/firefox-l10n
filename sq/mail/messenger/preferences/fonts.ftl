@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Parazgjedhje ({ $name })
 fonts-label-default-unnamed =
     .label = Parazgjedhje
+
 fonts-encoding-dialog-title =
     .title = Shkronja & Kodime
+
 fonts-language-legend =
     .value = Shkronja për:
     .accesskey = S
+
 fonts-proportional-label =
     .value = Proportional:
     .accesskey = P
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Madhësi:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Madhësi:
     .accesskey = i
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monospace:
     .accesskey = M
+
 font-min-size-label =
     .value = Madhësi më e vogël shkronjash:
     .accesskey = v
+
 min-size-none =
     .label = Asnjë
 
 ## Fonts in message
 
 font-control-legend = Kontroll Lloji Shkronjash
+
 use-document-fonts-checkbox =
     .label = Lejoji mesazhet të përdorin shkronja të tjera
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = Për mesazhe teksti të thjeshtë përdor shkronja me gjerësi të fiksuar
     .accesskey = x
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Kodim Teksti
+
 text-encoding-description = Caktoni kodim parazgjedhje teskti për dërgim dhe marrje poste
+
 font-outgoing-email-label =
     .value = Postë Ikëse:
     .accesskey = i
+
 font-incoming-email-label =
     .value = Postë Ardhëse:
     .accesskey = a
+
 default-font-reply-checkbox =
     .label = Kur mundet, përdor në përgjigje kodim parazgjedhje tekstesh
     .accesskey = K

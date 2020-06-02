@@ -10,15 +10,6 @@ remove-address-row-type = Hiqe fushën { $type }
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Empty Fushë dhëniesh { $type } e zbrazët
-        [one] Fushë dhëniesh { $type } me një adresë
-       *[other] Fushë dhëniesh { $type } me { $count } adresa
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -49,3 +40,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Shpjere te Bcc
     .accesskey = B
+

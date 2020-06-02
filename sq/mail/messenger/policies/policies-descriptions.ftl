@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Në u caktoftë "false", çaktivizohet përshpejti
 
 policy-InstallAddonsPermission = Lejojuni disa sajteve të caktuar të instalojnë shtesa.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Lejo sajte specifikë të krijojnë lidhje te kartela vendore.
 
 policy-NetworkPrediction = Aktivizoni ose çaktivizoni parashikim rrjeti (<em>DNS prefetching</em>).

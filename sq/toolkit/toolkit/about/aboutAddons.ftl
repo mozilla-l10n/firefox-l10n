@@ -602,9 +602,6 @@ updates-heading = Administroni Përditësimet Tuaja
 discover-heading = Personalizoni { -brand-short-name }-in Tuaj
 shortcuts-heading = Administroni Shkurtore Zgjerimesh
 
-theme-heading-search-label = Gjeni më tepër tema
-extension-heading-search-label = Gjeni më tepër zgjerime
-
 default-heading-search-label = Gjeni më tepër shtesa
 addons-heading-search-input =
     .placeholder = Kërkoni te addons.mozilla.org

@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Hollësi Aplikacioni
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Hiqe
     .accesskey = H

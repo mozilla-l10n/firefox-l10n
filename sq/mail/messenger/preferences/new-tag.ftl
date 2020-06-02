@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Etiketë e Re
+
 tag-name-label =
     .value = Emër Etikete:
     .accesskey = E
