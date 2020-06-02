@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Siuntimo parinktys
 send-mail-title = Siunčiamo teksto tipai
+auto-downgrade-label =
+    .label = Jei įmanomą, siųsti laiškus grynuoju tekstu
+    .accesskey = t
 default-html-format-label = Išsiunčiant laiškus raiškiuoju tekstu (HTML) gali paaiškėti, kad esama adresatų, neįtrauktų į gavėjų, galinčių priimti tokį tekstą, sąrašą. Tuomet:
 html-format-ask =
     .label = įspėti

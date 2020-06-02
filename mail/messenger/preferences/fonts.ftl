@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Lotynų
 font-language-group-japanese =
     .label = Japonų
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Kirilica
 font-language-group-el =
     .label = Graikų
+font-language-group-other =
+    .label = Kitos rašto sistemos
 font-language-group-thai =
     .label = Tajų
 font-language-group-hebrew =
@@ -63,12 +68,37 @@ font-language-group-khmer =
     .label = Chmerų
 font-language-group-malayalam =
     .label = Malajų
+font-language-group-math =
+    .label = Matematiniai
+font-language-group-odia =
+    .label = Orijų
+font-language-group-telugu =
+    .label = Telugų
+font-language-group-kannada =
+    .label = Kanadų
+font-language-group-sinhala =
+    .label = Singhų
+font-language-group-tibetan =
+    .label = Tibetiečių
 
 ## Default font type
 
+default-font-serif =
+    .label = Su užraitais
+default-font-sans-serif =
+    .label = Be užraitų
+font-size-label =
+    .value = Dydis:
+    .accesskey = D
+font-size-monospace-label =
+    .value = Dydis:
+    .accesskey = y
 font-serif-label =
     .value = Su užraitais:
     .accesskey = u
+font-sans-serif-label =
+    .value = Be užraitų:
+    .accesskey = B
 font-monospace-label =
     .value = Lygiaplotis:
     .accesskey = L
@@ -80,9 +110,19 @@ min-size-none =
 
 ## Fonts in message
 
+font-control-legend = Šriftų valdymas
+use-document-fonts-checkbox =
+    .label = Leisti laiškuose naudoti kitus šriftus
+    .accesskey = k
+use-fixed-width-plain-checkbox =
+    .label = Grynojo teksto laiškus rodyti lygiapločiu šriftu
+    .accesskey = G
 
 ## Language settings
 
 font-outgoing-email-label =
     .value = Laiškų rašymo:
     .accesskey = r
+font-incoming-email-label =
+    .value = Laiškų skaitymo:
+    .accesskey = s

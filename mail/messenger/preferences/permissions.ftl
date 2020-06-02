@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-reminder-window =
+    .title = Išimtys
+    .style = width: 45em;
 window-close-key =
     .key = w
 website-address-label =
@@ -10,6 +13,9 @@ website-address-label =
 block-button =
     .label = Neleisti
     .accesskey = N
+allow-session-button =
+    .label = Leisti vienam seansui
+    .accesskey = n
 allow-button =
     .label = Leisti
     .accesskey = L
@@ -23,7 +29,14 @@ remove-site-button =
 remove-all-site-button =
     .label = Pašalinti visas svetaines
     .accesskey = v
+cancel-button =
+    .label = Atšaukti
+    .accesskey = A
+save-button =
+    .label = Įrašyti pakeitimus
+    .accesskey = r
 permission-can-label = Leisti
+permission-can-access-first-party-label = Leisti tik tiesioginiam gavėjui
 permission-can-session-label = Leisti vienam seansui
 permission-cannot-label = Neleisti
 invalid-uri-message = Prašom surinkti teisingą serverio vardą
