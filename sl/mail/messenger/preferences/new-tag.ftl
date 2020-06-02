@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Nova oznaka
+
 tag-name-label =
     .value = Ime oznake:
     .accesskey = I

@@ -10,17 +10,6 @@ remove-address-row-type = Odstrani polje { $type }
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Prazno vnosno polje { $type }
-        [one] Vnosno polje { $type } z enim naslovom
-        [two] Vnosno polje { $type } z dvema naslovoma
-        [few] Vnosno polje { $type } s { $count } naslovi
-       *[other] Vnosno polje { $type } s { $count } naslovi
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -55,3 +44,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Premakni v Skp
     .accesskey = S
+
