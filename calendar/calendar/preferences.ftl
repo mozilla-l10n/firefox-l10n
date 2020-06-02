@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Ημερολόγιο
+calendar-title-reminder = Υπενθυμίσεις
+calendar-title-category = Κατηγορίες
 dateformat-label =
     .value = Μορφή ημερομηνίας:
     .accesskey = φ
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Εμφάνιση αριθμού εβδομάδας στις διάφορες προβολές και στον μίνι μήνα
     .accesskey = θ
+workdays-label =
+    .value = Εργάσιμες ημέρες:
 day-1-checkbox =
     .label = Κυρ
     .accesskey = Κ
@@ -102,6 +107,9 @@ soon-label =
     .value = Η ενότητα "Επερχόμενα" εμφανίζει:
     .accesskey = Ε
 event-task-legend = Συμβάντα και εργασίες
+default-length-label =
+    .value = Προεπιλεγμένο μήκος γεγονότων και εργασιών:
+    .accesskey = ε
 task-start-label =
     .value = Ημερομηνία έναρξης:
 task-start-1-label =
@@ -139,6 +147,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Χρήση προεπιλεγμένου ήχου
     .accesskey = λ
+reminder-custom-sound-label =
+    .label = Χρήση του ακόλουθου αρχείου ήχου
+    .accesskey = Χ
 reminder-browse-sound-label =
     .label = Εξερεύνηση…
     .accesskey = ξ
