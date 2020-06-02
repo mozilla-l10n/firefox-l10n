@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Send Options
 send-mail-title = Text Format
+auto-downgrade-label =
+    .label = Send messages as plain text if possible
+    .accesskey = t
 default-html-format-label = When sending messages in HTML format and one or more recipients are not listed as being able to receive HTML:
 html-format-ask =
     .label = Ask me what to do
