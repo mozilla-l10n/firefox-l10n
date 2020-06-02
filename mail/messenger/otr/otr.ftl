@@ -27,3 +27,39 @@ msgevent-rcvdmsg_unreadable = Du fick ett oläsbart krypterat meddelande från {
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_malformed = Du fick ett felformat datameddelande från { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Heartbeat mottagen från { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Heartbeat skickad till { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Ett oväntat fel inträffade när du försökte skydda din konversation med OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = Följande meddelande från { $name } krypterades inte: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Du fick ett okänt OTR-meddelande från { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } har skickat ett meddelande som är avsett för en annan session. Om du är inloggad flera gånger kan en annan session ha fått meddelandet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Privat konversation med { $name } startad.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Krypterad, men overifierad konversation med { $name } startad.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Uppdaterade den krypterade konversationen med { $name }.
+error-enc = Ett fel inträffade vid kryptering av meddelandet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Du skickade krypterad data till { $name }, som inte förväntade sig den.
+error-unreadable = Du skickade ett oläsbart krypterat meddelande.
+error-malformed = Du skickade ett felformat datameddelande.
