@@ -592,9 +592,6 @@ updates-heading = আপনার হালনাগাদ পরিচালন
 discover-heading = আপনার { -brand-short-name } নিজের মত করুন
 shortcuts-heading = এক্সটেনশন শর্টকাট পরিচালনা করুন
 
-theme-heading-search-label = আরও থিম খুঁজুন
-extension-heading-search-label = আরও এক্সটেনশন খুঁজুন
-
 addons-heading-search-input =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
 
