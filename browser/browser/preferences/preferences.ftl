@@ -341,8 +341,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name }ஐ பயன்படுத்து ({ -brand-short-name }இல்)
-applications-preview-inapp =
-    .label = { -brand-short-name }இல் முன்பார்வை காட்டு
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -356,9 +354,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -543,11 +538,17 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = சிறந்த தளங்கள்
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
 home-prefs-recommended-by-description = இணையத்திலிருந்து சிறந்த உள்ளடக்கங்கள், உங்களுக்காக தனிப்பயனாக்கப்பட்டவை
+##
+
+
 home-prefs-recommended-by-learn-more = இது எப்படி செயல்படுகிறது
 home-prefs-recommended-by-option-sponsored-stories =
     .label = விளம்பரக் கதைகள்
@@ -931,7 +932,6 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = C
 
 ##
-
 
 ## Privacy Section - Tracking
 

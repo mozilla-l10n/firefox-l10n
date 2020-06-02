@@ -5,9 +5,11 @@
 toolbar-context-menu-undo-close-tab =
     .label = மூடிய கீற்றுகளைத் திற
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = நீட்சிகளை நிர்வகி
     .accesskey = E
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

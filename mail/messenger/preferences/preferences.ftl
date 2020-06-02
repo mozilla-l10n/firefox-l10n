@@ -9,15 +9,18 @@
 ## General Tab
 
 update-app-legend = { -brand-short-name } மேம்படுத்தல்கள்
+
 automatic-updates-label =
     .label = புதுப்பிப்புகளை தானாக நிறுவு (பரிந்துரை: பாதுகாப்பை வழுப்படுத்தும்)
     .accesskey = A
 check-updates-label =
     .label = புதுப்பிப்புகள் உள்ளதா எனப் சரிபார், ஆனால் நிறுவ வேண்டுமா என்பதை நான் தேர்வு செய்கிறேன்
     .accesskey = C
+
 use-service =
     .label = புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்
     .accesskey = b
+
 offline-legend = இணைப்பில்லை
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
