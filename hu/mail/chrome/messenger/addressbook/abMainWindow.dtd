@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Címjegyzék…">
 <!ENTITY newAddressBookCmd.accesskey                    "C">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV-címjegyzék…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP címjegyzék…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Üzenet">
