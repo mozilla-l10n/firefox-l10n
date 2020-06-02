@@ -37,6 +37,8 @@ font-language-group-arabic =
     .label = Arabe
 font-language-group-devanagari =
     .label = Devanagari
+font-language-group-tamil =
+    .label = Tamoul
 font-language-group-armenian =
     .label = Arménien
 font-language-group-bengali =
@@ -58,11 +60,17 @@ font-language-group-malayalam =
 
 default-font-serif =
     .label = Serif
+default-font-sans-serif =
+    .label = Sans serif
 min-size-none =
     .label = Aucune
 
 ## Fonts in message
 
+font-control-legend = Contrôle des polices
+use-fixed-width-plain-checkbox =
+    .label = Utiliser une police à largeur fixe pour les messages au format texte
+    .accesskey = x
 
 ## Language settings
 
