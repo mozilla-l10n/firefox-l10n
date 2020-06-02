@@ -4,6 +4,7 @@
 
 attachment-reminder-window =
     .title = Sleutelwoorden voor bijlageherinnering
+attachment-reminder-label = { -brand-short-name } zal u waarschuwen voor ontbrekende bijlagen als u een bericht wilt verzenden dat een van de volgende sleutelwoorden bevat.
 keyword-new-button =
     .label = Nieuw…
     .accesskey = N

@@ -39,3 +39,5 @@ permission-can-label = Toestaan
 permission-can-access-first-party-label = Van derden blokkeren
 permission-can-session-label = Toestaan voor sessie
 permission-cannot-label = Blokkeren
+invalid-uri-message = Voer een geldige hostnaam in
+invalid-uri-title = Ongeldige hostnaam ingevoerd
