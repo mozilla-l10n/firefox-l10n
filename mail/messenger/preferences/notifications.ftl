@@ -5,6 +5,15 @@
 notifications-dialog-window =
     .title = Налаштувати сповіщення про нову пошту
 customize-alert-description = Оберіть поля, які слід показувати в сповіщенні:
+preview-text-checkbox =
+    .label = Попередній перегляд тексту
+    .accesskey = П
+subject-checkbox =
+    .label = Тема
+    .accesskey = Т
+sender-checkbox =
+    .label = Відправник
+    .accesskey = В
 
 ## Note: open-time-label-before is displayed first, then there's a field where
 ## the user can enter a number, and open-time-label-after is displayed at the end
