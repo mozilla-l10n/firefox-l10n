@@ -2,9 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = კალენდარი
+calendar-title-reminder = შეხსენებები
+calendar-title-category = კატეგორიები
 dateformat-label =
     .value = თარიღის ტექსტური ფორმატი:
     .accesskey = თ
+#   $date (String) - the formatted example date
+dateformat-long =
+    .label = სრული: { $date }
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = მოკლე: { $date }
@@ -30,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = კვირების გადანომვრა, სხვადასხვა ხედსა და მცირე კალენდარზე
     .accesskey = ნ
+workdays-label =
+    .value = სამუშაო დღეები:
 day-1-checkbox =
     .label = კვი
     .accesskey = კ
@@ -55,6 +63,8 @@ dayweek-legend = დღეების და კვირების ჩვე
 visible-hours-label =
     .value = ჩვენება:
     .accesskey = ვ
+visible-hours-end-label =
+    .value = საათი ამავე დროს
 day-start-label =
     .value = დღის დასაწყისი:
     .accesskey = წ
@@ -97,6 +107,9 @@ soon-label =
     .value = მოახლებულების არეში გამოჩნდება უახლოესი:
     .accesskey = ა
 event-task-legend = ღონისძიებები და დავალებები
+default-length-label =
+    .value = ღონისძიებისა და დავალების ნაგულისხმევი სიგრძე:
+    .accesskey = გ
 task-start-label =
     .value = დაწყება:
 task-start-1-label =
@@ -128,9 +141,15 @@ reminder-legend = შეხსენებისას:
 reminder-play-checkbox =
     .label = ხმოვანი სიგნალი
     .accesskey = ს
+reminder-play-alarm-button =
+    .label = დაკვრა
+    .accesskey = დ
 reminder-default-sound-label =
     .label = ნაგულისხმები სიგნალის გამოყენება
     .accesskey = ნ
+reminder-custom-sound-label =
+    .label = მოცემული ხმოვანი ფაილის გამოყენება
+    .accesskey = გ
 reminder-browse-sound-label =
     .label = ამორჩევა…
     .accesskey = ჩ
@@ -161,6 +180,7 @@ task-alarm-time-label =
     .value = შეხსენების ნაგულისხმევი დრო, დაყენებულია დავალებამდე:
     .accesskey = უ
 category-new-label = ახალი კატეგორია
+category-edit-label = კატეგორიის ჩასწორება
 category-overwrite-title = გაფრთხილება: ერთნაირი დასახელება
 category-overwrite = კატეგორია ამ სახელით უკვე არსებობს. გნებავთ მისი ჩანაცვლება?
 category-blank-warning = უნდა მიუთითოთ კატეგორიის სახელი.
