@@ -282,8 +282,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Ni´i { $plugin-name } (nuu { -brand-short-name })
-applications-preview-inapp =
-    .label = Kune'ya nakja kino  { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -297,9 +295,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -466,10 +461,15 @@ home-prefs-topsites-header =
     .label = Da sitio vii
 home-prefs-topsites-description = Da nuu ni´inu kue´e
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = A kachi { $provider }
+##
+
 home-prefs-recommended-by-learn-more = Naja satiñu
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Artículos íyo patrocinado
@@ -762,9 +762,9 @@ privacy-header = Nánuku yu´u
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Nuu kajie´e sesión ji contraseñas
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Nuu kajie´e sesión ji contraseñas

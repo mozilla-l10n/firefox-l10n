@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Síne nuu iin ventana yu´u jíía
     .accesskey = p
+
 places-new-folder-contextmenu =
     .label = Carpeta jíía...
     .accesskey = F
@@ -26,10 +27,13 @@ places-new-folder =
 places-new-separator =
     .label = Separador jíía
     .accesskey = v
+
 places-view =
     .label = Kune'ya
     .accesskey = V
+
 places-history-search =
     .placeholder = Nánuku historial
 places-bookmarks-search =
     .placeholder = Nánuku A ta´a ini noo´o
+

@@ -349,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Sá´á vii">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+
 <!ENTITY overflowCustomizeToolbar.label       "Sá´á vii barra ka̱a̱...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
@@ -690,20 +691,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 
 
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Nasɨ">
-<!ENTITY protections.notBlocking2.label "Kuvi">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "¿Navi?">
-
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -733,9 +720,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookiesView.label "Cookies ji datos nuu ya´a">
 
 
-<!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
-
 <!ENTITY contentBlocking.cryptominers.label "Criptomineros">
 <!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
 
@@ -746,8 +730,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Kachi jie´e iin tixi">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ka´vi kue´eka">
 
-<!ENTITY contentBlocking.breakageReportView.title "Kachi jie´e iin nuu ntu íyo tiñu">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Ka´vi kue´eka">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Chu´un íchi reporte">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Nkuvi-ka">

@@ -32,9 +32,6 @@ fingerprinter-tab-title = Huellas dactilares
 
 cryptominer-tab-title = Criptomineros
 
-protections-close-button =
-    .aria-label = Nakasɨ
-
 protections-close-button2 =
     .aria-label = Nakasɨ
     .title = Nakasɨ
