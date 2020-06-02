@@ -8,3 +8,5 @@ attachment-reminder-label = ඔබ මෙම මූලපද (Keywords) එක�
 keyword-remove-button =
     .label = මැකීම
     .accesskey = D
+edit-keyword-title = මූලපදය (Keyword) සැකසීම
+edit-keyword-label = මූලපදය (Keyword):
