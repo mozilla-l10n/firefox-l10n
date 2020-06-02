@@ -601,9 +601,6 @@ updates-heading = Päivitysten hallinta
 discover-heading = Tee { -brand-short-name }ista mieleisesi
 shortcuts-heading = Laajennusten pikanäppäinten hallinta
 
-theme-heading-search-label = Etsi lisää teemoja
-extension-heading-search-label = Etsi lisää laajennuksia
-
 default-heading-search-label = Etsi lisää lisäosia
 addons-heading-search-input =
     .placeholder = Etsi addons.mozilla.orgista

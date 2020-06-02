@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöst
 
 policy-InstallAddonsPermission = Salli tiettyjen sivustojen asentaa lisäosia.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Salli tiettyjen sivustojen linkittää paikallisiin tiedostoihin.
 
 policy-NetworkPrediction = Ota käyttöön tai poista käytöstä verkkoennakointi (DNS-esihaku).

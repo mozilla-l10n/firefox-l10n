@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Etsi teksti sivulta">
 <!ENTITY spellToolbarCmd.label "Oikolue">
 <!ENTITY spellToolbarCmd.tooltip "Oikolue valinta tai koko sivu">
+
 <!ENTITY imageToolbarCmd.label "Kuva">
 <!ENTITY imageToolbarCmd.tooltip "Lisää uusi kuva tai muokkaa valitun kuvan ominaisuuksia">
 <!ENTITY hruleToolbarCmd.label "Vaakaviiva">

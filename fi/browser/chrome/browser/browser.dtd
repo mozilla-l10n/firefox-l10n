@@ -292,10 +292,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Olet estänyt MIDI-käytön tältä sivustolta.">
 <!ENTITY urlbar.installBlocked.tooltip           "Olet estänyt lisäosien asennuksen tältä sivustolta.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Olet myöntänyt tälle sivustolle lisäoikeuksia.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Olet myöntänyt tälle sivustolle lisäoikeuksia.">
 
 
 <!ENTITY searchItem.title             "Etsi">
@@ -410,6 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Muokkaa…">
 <!ENTITY viewCustomizeToolbar.accesskey     "M">
+
 <!ENTITY overflowCustomizeToolbar.label       "Muokkaa työkalupalkkia…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "M">
 
@@ -900,54 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Avaa sisällön eston asetukset">
 
 
-<!ENTITY protections.etpON.header "Tehostettu seurannan suojaus on PÄÄLLÄ tällä sivustolla">
-<!ENTITY protections.etpOFF.header "Tehostettu seurannan suojaus on POIS PÄÄLTÄ tällä sivustolla">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Lisätietoja tehostetusta seurannan suojauksesta">
-<!ENTITY protections.settings.label "Suojauksen asetukset">
-<!ENTITY protections.showreport.label "Näytä raportti">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Eikö sivusto toimi?">
-<!ENTITY protections.siteNotWorkingView.title "Eikö sivusto toimi?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Poista suojaukset käytöstä, jos kohtaat ongelmia seuraavien kanssa:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Kirjautumiskentät">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Lomakkeet">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Maksut">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentit">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Videot">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Lähetä raportti">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Estetty">
-<!ENTITY protections.notBlocking2.label "Sallittu">
-<!ENTITY protections.notFound.label "Ei havaittu">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Miksi?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Näiden estäminen voisi rikkoa osia joistain sivustoista. Ilman seuraimia jotkin painikkeet, lomakkeet ja kirjautumiskentät eivät välttämättä toimi.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Kaikki tämän sivuston seuraimet on ladattu, sillä suojaukset ovat pois päältä.">
-<!ENTITY protections.noTrackersFound.description "Tällä sivulla ei havaittu seuraimia, jotka &brandShortName; tuntee.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Nämä evästeet seuraavat sinua sivustolta toiselle ja keräävät tietoja tekemisistäsi verkossa. Ne on asetettu kolmansien osapuolten, kuten mainostajien ja analytiikkayhtiöiden, toimesta.">
-<!ENTITY protections.cryptominers.description "Kryptolouhijat käyttävät tietokoneesi laskentatehoa digitaalisen rahan louhintaan. Kryptolouhintaan tarkoitetut komentosarjat kuluttavat tietokoneen akkua, hidastavat tietokonetta ja voivat vaikuttaa sähkölaskun loppusummaan.">
-<!ENTITY protections.fingerprinters.description "Yksilöijät keräävät asetustietoja selaimestasi sekä tietokoneestasi ja luovat näiden tietojen avulla profiilin sinusta. Tätä digitaalista sormenjälkeä hyödyntämällä sinua voidaan seurata eri verkkosivustojen välillä.">
-<!ENTITY protections.trackingContent2.description "Sivustot saattavat ladata ulkoisia mainoksia, videoita ja muuta sisältöä, joka seuraa sinua. Seurantaan tarkoitetun sisällön estäminen voi nopeuttaa sivujen latautumista, mutta jotkin painikkeet, lomakkeet ja kirjautumiskentät eivät välttämättä toimi.">
-<!ENTITY protections.socialMediaTrackers.description "Sosiaaliset verkot asettavat seuraimia muille verkkosivuille, ja niiden avulla sinua sekä tekemisiäsi voidaan seurata verkossa. Tämä mahdollistaa sosiaalisen median yhtiöiden kerätä sinusta enemmän tietoa kuin mitä itse jaat sosiaalisen median profiileissa.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Selaimen välilehdet">
@@ -992,13 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Evästeet">
 <!ENTITY contentBlocking.cookiesView.label "Evästeet ja sivustotiedot">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Seurantaan tarkoitettu sisältö">
-
-<!ENTITY contentBlocking.manageSettings2.label "Hallitse suojauksen asetuksia">
-<!ENTITY contentBlocking.manageSettings2.accesskey "H">
-
-<!ENTITY contentBlocking.socialblock.label "Sosiaalisen median seuraimet">
-
 <!ENTITY contentBlocking.cryptominers.label "Kryptolouhijat">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptolouhijat">
 
@@ -1010,12 +956,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Sisällön esto voi aiheuttaa ongelmia joillakin sivustoilla. Ongelmista ilmoittaminen auttaa tekemään &brandShortName;ista paremman kaikille. (Ilmoittaminen lähettää Mozillalle sivun osoitteen sekä tietoja selainasetuksistasi.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Lue lisää">
 
-<!ENTITY contentBlocking.breakageReportView.title "Ilmoita rikkinäisestä sivustosta">
-<!ENTITY contentBlocking.breakageReportView3.description "Joidenkin seuraimien estäminen saattaa aiheuttaa ongelmia joillain sivustoilla. Ilmoittamalla näistä ongelmista autat parantamaan &brandShortName;-selainta. Tämän raportin lähettäminen lähettää Mozillalle sivun osoitteen ja tietoja selaimesi asetuksista.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Lue lisää">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Osoite">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Mitä ongelmia kohtasit? (Valinnainen)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Valinnainen: Kuvaile ongelma">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Lähetä ilmoitus">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Peruuta">
 
