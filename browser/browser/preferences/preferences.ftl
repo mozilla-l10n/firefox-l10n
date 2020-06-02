@@ -317,8 +317,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ({ -brand-short-name } मा) प्रयोग गर्नुहोस्
-applications-preview-inapp =
-    .label = { -brand-short-name } मा पूर्वावलोकन हेर्नुहोस्
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -332,9 +330,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -501,11 +496,17 @@ home-prefs-topsites-header =
     .label = शीर्ष साइटहरू
 home-prefs-topsites-description = तपाईंले धेरै भ्रमण गर्नुभएका साइटहरू
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा सिफारिस गरिएको
 home-prefs-recommended-by-description = वेब वरिपरिका राम्रा सामग्रीहरु, तपाईंको लागि निजीकृत गरिएको
+##
+
+
 home-prefs-recommended-by-option-sponsored-stories =
     .label = प्रायोजित गरिएको कथाहरू
 
@@ -788,7 +789,6 @@ addressbar-suggestions-settings = खोज इन्जिन सुझाव�
 
 
 ##
-
 
 ## Privacy Section - Tracking
 

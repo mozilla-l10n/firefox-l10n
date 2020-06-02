@@ -237,6 +237,7 @@
 <!ENTITY findToolbarCmd.tooltip "यस पृष्ठमा पाठ फेला पार्नुहोस्">
 <!ENTITY spellToolbarCmd.label "हिज्जे">
 <!ENTITY spellToolbarCmd.tooltip "चयन वा पूरै पृष्ठको हिज्जे जाँच गर्नुहोस्">
+
 <!ENTITY imageToolbarCmd.label "छवि">
 <!ENTITY imageToolbarCmd.tooltip "नयाँ छवि घुसाउनुहोस् वा चयन गरिएका छविको गुण सम्पादन गर्नुहोस्">
 <!ENTITY hruleToolbarCmd.label "H रेखा">

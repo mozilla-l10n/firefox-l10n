@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = बन्द गरिएको ट्याबलाई पुनः खोल्नुहोस्
     .accesskey = U
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
