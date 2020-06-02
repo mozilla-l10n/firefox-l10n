@@ -8,3 +8,5 @@ attachment-reminder-label = { -brand-short-name } நீங்கள் இந�
 keyword-remove-button =
     .label = அழிக்குக
     .accesskey = D
+edit-keyword-title = முக்கியச்சொல்லினை தொகுக்க
+edit-keyword-label = முக்கியச்சொல்:
