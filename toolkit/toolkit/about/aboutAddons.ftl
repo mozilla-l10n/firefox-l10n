@@ -600,9 +600,6 @@ updates-heading = Hantera dina uppdateringar
 discover-heading = Anpassa { -brand-short-name }
 shortcuts-heading = Hantera genvägar för tillägg
 
-theme-heading-search-label = Hitta fler teman
-extension-heading-search-label = Hitta fler tillägg
-
 default-heading-search-label = Hitta fler tillägg
 addons-heading-search-input =
     .placeholder = Sök på addons.mozilla.org

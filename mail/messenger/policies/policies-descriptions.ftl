@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Om falsk, stängs hårdvaruacceleration av.
 
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Tillåt specifika webbplatser att länka till lokala filer.
 
 policy-NetworkPrediction = Aktivera eller inaktivera nätverksprediktning (DNS-förhämtning).

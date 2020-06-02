@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Anpassa ny e-postavisering
+
 customize-alert-description = Välj vilka fält som ska visas i meddelanderutan:
+
 preview-text-checkbox =
     .label = Meddelandetext
     .accesskey = M
+
 subject-checkbox =
     .label = Ämne
     .accesskey = Ä
+
 sender-checkbox =
     .label = Avsändare
     .accesskey = A
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Visa ny e-postavisering i
     .accesskey = N
+
 open-time-label-after =
     .value = sekunder
