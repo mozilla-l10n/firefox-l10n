@@ -5,9 +5,16 @@
 sendoptions-dialog-window =
     .title = Ferstjoeropsjes
 send-mail-title = Tekstopmaak
+default-html-format-label = As in berjocht yn HTML-opmaak ferstjoerd wurdt en fan ien of mear ûntfangers is net bekend oft se HTML ûntfange kinne:
 html-format-ask =
     .label = My freegje wat te dwaan
     .accesskey = f
+html-format-convert =
+    .label = Berjocht konvertearje nei platte tekst
+    .accesskey = k
+html-format-send-html =
+    .label = Berjocht dochs as HTML ferstjoere
+    .accesskey = H
 default-html-format-info = Noat: brûk it adresboek om winske tekstopmaak foar ûntfangers te spesifisearjen.
 html-tab-label =
     .label = HTML-domeinen
