@@ -8,6 +8,12 @@ category-general =
 pane-compose-title = Düzenleme
 category-compose =
     .tooltiptext = Düzenleme
+pane-chat-title = Sohbet
+category-chat =
+    .tooltiptext = Sohbet
+pane-calendar-title = Takvim
+category-calendar =
+    .tooltiptext = Takvim
 general-language-and-appearance-header = Dil ve Görünüm
 general-incoming-mail-header = Gelen E-postalar
 general-files-and-attachment-header = Dosyalar ve Ekler
@@ -79,9 +85,11 @@ focus-search-shortcut =
     .key = f
 focus-search-shortcut-alt =
     .key = k
+general-legend = { -brand-short-name } Başlangıç Sayfası
 location-label =
     .value = Konum:
     .accesskey = o
+new-message-arrival = Yeni ileti geldiğinde:
 mail-play-button =
     .label = Çal
     .accesskey = l
@@ -91,10 +99,36 @@ customize-alert-label =
 mail-browse-sound-button =
     .label = Gözat…
     .accesskey = G
+scrolling-legend = Kaydırma
+autoscroll-label =
+    .label = Otomatik kaydırmayı kullan
+    .accesskey = O
+smooth-scrolling-label =
+    .label = Yumuşak kaydırmayı kullan
+    .accesskey = Y
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows Araması
+       *[other] { "" }
+    }
+search-integration-label =
+    .label = { search-engine-name } uygulamasının iletileri aramasına izin ver
+    .accesskey = s
+use-service =
+    .label = Güncellemeleri kurmak için arka plan hizmetini kullan
+    .accesskey = G
 networking-legend = Bağlantı
 network-settings-button =
     .label = Ayarlar…
     .accesskey = A
+offline-compact-folder =
+    .label = Toplam
+    .accesskey = o
+compact-folder-size =
+    .value = MB kazanılabileceği zaman tüm dizinleri sıkıştır
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -117,6 +151,7 @@ font-options-button =
 convert-emoticons-label =
     .label = Duygu simgelerini grafik olarak göster
     .accesskey = D
+display-text-label = Alıntılanmış düz metin iletileri görüntülerken:
 bold-style-item =
     .label = Kalın
 italic-style-item =
@@ -140,6 +175,9 @@ choose-folder-label =
             [macos] S
            *[other] G
         }
+always-ask-label =
+    .label = Dosyaların nereye kaydedileceğini her zaman sor
+    .accesskey = s
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -166,8 +204,19 @@ auto-save-label =
 
 ##
 
+spellcheck-label =
+    .label = Göndermeden önce yazım denetimi yap
+    .accesskey = a
 directories-none-label =
     .none = Hiçbiri
+email-picker-label =
+    .label = E-posta gönderdiğim adresleri otomatik olarak buraya ekle:
+    .accesskey = t
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Kaldır
+    .accesskey = K
 
 ## Privacy Tab
 
@@ -187,6 +236,9 @@ junk-delete-label =
 junk-read-label =
     .label = Gereksiz olarak değerlendirilen iletileri okunmuş say
     .accesskey = G
+junk-log-label =
+    .label = Uyumlu gereksiz filtresi günlüğünü etkinleştir
+    .accesskey = n
 junk-log-button =
     .label = Günlüğü göster
     .accesskey = G
@@ -196,6 +248,11 @@ certificate-ask =
 
 ## Chat Tab
 
+startup-label =
+    .value = { -brand-short-name } açıldığında:
+    .accesskey = a
+auto-connect-label =
+    .label = Sohbet hesaplarıma otomatik olarak bağlan
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -206,6 +263,12 @@ certificate-ask =
 
 ##
 
+away-message-label =
+    .label = ve durumumu şu durum iletisiyle Uzakta olarak ayarla:
+    .accesskey = U
+send-typing-label =
+    .label = Yazışmalarda yazma bildirimleri gönder
+    .accesskey = Y
 
 ## Preferences UI Search Results
 
