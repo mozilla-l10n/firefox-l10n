@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Închide
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -101,6 +103,17 @@ restore-default-label =
     .accesskey = R
 default-search-engine = Motor de căutare implicit
 new-message-arrival = Când sosesc noi mesaje:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Redă fișierul sonor următor:
+           *[other] Redă un sunet
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] d
+        }
 mail-play-button =
     .label = Redă
     .accesskey = R
@@ -108,6 +121,7 @@ change-dock-icon = Schimbă preferințele pentru pictograma aplicației
 app-icon-options =
     .label = Opțiuni pentru iconița aplicației…
     .accesskey = n
+notification-settings = Alertele și sunetul implicit pot fi dezactivate din panoul de notificări al preferințelor sistemului.
 animated-alert-label =
     .label = Afișează o alertă
     .accesskey = A
@@ -123,6 +137,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Activează căutarea globală și indexarea
     .accesskey = i
+datetime-formatting-legend = Formatarea datei și a orei
 allow-hw-accel =
     .label = Folosește accelerarea hardware când este disponibilă
     .accesskey = h
@@ -164,6 +179,10 @@ config-editor-button =
 return-receipts-button =
     .label = Confirmări de primire…
     .accesskey = r
+update-app-legend = Actualizări { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Versiunea { $version }
 automatic-updates-label =
     .label = Instalează actualizări automat (recomandat: securitate sporită)
     .accesskey = a
@@ -200,6 +219,9 @@ use-cache-after = MB de spațiu pentru cache
 
 ##
 
+smart-cache-label =
+    .label = Înlocuiește gestionarea automată a cache-ului
+    .accesskey = v
 clear-cache-button =
     .label = Șterge acum
     .accesskey = c
@@ -266,6 +288,12 @@ choose-folder-label =
 always-ask-label =
     .label = Întreabă-mă întotdeauna unde să se salveze fișierele
     .accesskey = a
+new-tag-button =
+    .label = Etichetă nouă…
+    .accesskey = n
+edit-tag-button =
+    .label = Editează…
+    .accesskey = E
 delete-tag-button =
     .label = Șterge
     .accesskey = t
@@ -338,6 +366,9 @@ font-color-label =
 bg-color-label =
     .value = Culoare fundal:
     .accesskey = C
+default-format-label =
+    .label = Folosește implicit formatarea „Paragraf” în loc de „Corp text”
+    .accesskey = P
 format-description = Configurează aspectul textului
 send-options-label =
     .label = Opțiuni de trimitere…
@@ -356,6 +387,11 @@ edit-directories-label =
 email-picker-label =
     .label = Adaugă automat adresele de e-mail din mesajele trimise la:
     .accesskey = a
+default-directory-label =
+    .value = Dosarul implicit de pornire în fereastra agendei:
+    .accesskey = S
+default-last-label =
+    .none = Ultimul dosar folosit
 attachment-label =
     .label = Verifică dacă lipsesc atașamentele
     .accesskey = m
@@ -366,6 +402,10 @@ enable-cloud-share =
     .label = Oferă partajarea fișierelor mai mari decât
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Adaugă…
+    .accesskey = A
+    .defaultlabel = Adaugă…
 cloud-account-description = Adaugă un serviciu nou de stocare Filelink
 
 ## Privacy Tab
@@ -487,6 +527,23 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Răsfoiește…
     .accesskey = f
+theme-label =
+    .value = Temă:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Bule
+style-dark =
+    .label = Întunecată
+style-paper =
+    .label = Foi de hârtie
+style-simple =
+    .label = Simplă
+preview-label = Previzualizare:
+chat-variant-label =
+    .value = Variantă:
+    .accesskey = V
 
 ## Preferences UI Search Results
 
