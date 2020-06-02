@@ -94,10 +94,32 @@ focus-search-shortcut =
     .key = f
 focus-search-shortcut-alt =
     .key = k
+general-legend = { -brand-short-name }in aloitussivu
+start-page-label =
+    .label = Näytä aloitussivuna viestikentässä { -brand-short-name }in käynnistyessä:
+    .accesskey = N
+location-label =
+    .value = Osoite:
+    .accesskey = O
+restore-default-label =
+    .label = Palauta oletusasetus
+    .accesskey = P
 default-search-engine = Oletushakukone
 minimize-to-tray-label =
     .label = Kun { -brand-short-name } on pienennetty, piilota se
     .accesskey = p
+new-message-arrival = Uuden viestin saapuessa:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Toista seuraava äänitiedosto:
+           *[other] Soita äänimerkki
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ä
+           *[other] o
+        }
 mail-play-button =
     .label = Toista
     .accesskey = T
@@ -106,6 +128,9 @@ app-icon-options =
     .label = Sovelluskuvakkeen asetukset…
     .accesskey = v
 notification-settings = Ilmoitukset ja oletusääni voidaan poistaa käytöstä Asetukset-ikkunan Ilmoitukset-paneelissa.
+animated-alert-label =
+    .label = Näytä hälytys
+    .accesskey = ä
 customize-alert-label =
     .label = Muokkaa…
     .accesskey = M
