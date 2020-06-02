@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Kalender
+calendar-title-reminder = Påminningar
+calendar-title-category = Kategoriar
 dateformat-label =
     .value = Datoformat:
     .accesskey = D
@@ -33,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Vis vekenummer i visingar og minimånad
     .accesskey = n
+workdays-label =
+    .value = Arbeidsvekedagar:
 day-1-checkbox =
     .label = Sun
     .accesskey = S
@@ -102,6 +107,9 @@ soon-label =
     .value = Komande-seksjonen viser:
     .accesskey = K
 event-task-legend = Hendingar og oppgåver
+default-length-label =
+    .value = Standardlengde for hendingar og oppgåver:
+    .accesskey = h
 task-start-label =
     .value = Startdato:
 task-start-1-label =
@@ -139,6 +147,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Bruk standardlyd
     .accesskey = r
+reminder-custom-sound-label =
+    .label = Bruk følgjande lydfil
+    .accesskey = f
 reminder-browse-sound-label =
     .label = Bla gjennom…
     .accesskey = B
