@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Налаштування
+           *[other] Налаштування
+        }
 pane-general-title = Загальні
 category-general =
     .tooltiptext = { pane-general-title }
@@ -85,6 +91,45 @@ focus-search-shortcut =
     .key = f
 focus-search-shortcut-alt =
     .key = k
+general-legend = Початкова сторінка { -brand-short-name }
+default-search-engine = Типовий засіб пошуку
+change-dock-icon = Змінити налаштування для піктограми програми
+app-icon-options =
+    .label = Налаштування піктограми програми…
+    .accesskey = л
+notification-settings = Сигнали і типові звуки можна вимкнути в панелі сповіщень системних налаштувань.
+tray-icon-label =
+    .label = Показувати піктограму в області сповіщень
+    .accesskey = і
+allow-hw-accel =
+    .label = Використовувати апаратне прискорення, якщо можливо
+    .accesskey = и
+store-type-label =
+    .value = Тип сховища повідомлень для нових облікових записів:
+    .accesskey = Т
+mbox-store-label =
+    .label = Один файл на теку (mbox)
+maildir-store-label =
+    .label = Один файл на повідомлення (maildir)
+scrolling-legend = Прокручування
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Пошук Windows
+       *[other] { "" }
+    }
+automatic-updates-label =
+    .label = Автоматично встановлювати оновлення (рекомендовано: покращує безпеку)
+    .accesskey = А
+check-updates-label =
+    .label = Перевіряти наявність оновлень, але питати мене чи хочу я їх встановити
+    .accesskey = П
+update-history-button =
+    .label = Показати історію оновлень
+    .accesskey = в
+proxy-config-description = Налаштуйте параметри з’єднання { -brand-short-name } з інтернетом
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -93,6 +138,16 @@ focus-search-shortcut-alt =
 
 ##
 
+fonts-legend = Шрифти й кольори
+color-options-button =
+    .label = Кольори…
+    .accesskey = К
+new-tag-button =
+    .label = Нова…
+    .accesskey = Н
+edit-tag-button =
+    .label = Змінити…
+    .accesskey = З
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -110,9 +165,59 @@ focus-search-shortcut-alt =
 
 ##
 
+default-format-label =
+    .label = Використовувати типово формат абзацу замість основного тексту
+    .accesskey = б
+autocomplete-description = При введенні адреси шукати відповідні адреси у:
+default-directory-label =
+    .value = Типовий початковий каталог у вікні адресної книги:
+    .accesskey = к
+default-last-label =
+    .none = Останній використаний каталог
+add-cloud-account =
+    .label = Додати…
+    .accesskey = о
+    .defaultlabel = Додати…
 
 ## Privacy Tab
 
+mail-content = Вміст пошти
+remote-content-label =
+    .label = Дозволити віддалений вміст в повідомленнях
+    .accesskey = в
+exceptions-button =
+    .label = Винятки…
+    .accesskey = В
+remote-content-info =
+    .value = Докладніше про питання приватності й віддалений вміст
+web-content = Веб-вміст
+cookies-label =
+    .label = Приймати куки від сайтів
+    .accesskey = к
+third-party-label =
+    .value = Приймати куки від сторонніх сайтів:
+    .accesskey = с
+third-party-always =
+    .label = Завжди
+third-party-never =
+    .label = Ніколи
+third-party-visited =
+    .label = Від відвіданих
+keep-label =
+    .value = Зберігати доки:
+    .accesskey = З
+keep-expire =
+    .label = не закінчиться термін їх дії
+keep-close =
+    .label = я не закрию { -brand-short-name }
+keep-ask =
+    .label = питати кожного разу
+cookies-button =
+    .label = Показати куки…
+    .accesskey = о
+ocsp-label =
+    .label = Запитувати у серверів OCSP підтвердження поточного стану сертифікатів
+    .accesskey = З
 
 ## Chat Tab
 
@@ -126,6 +231,31 @@ focus-search-shortcut-alt =
 
 ##
 
+notification-label = Коли прибувають направлені вам повідомлення:
+show-notification-label =
+    .label = Показувати сповіщення:
+    .accesskey = о
+notification-all =
+    .label = з ім'ям відправника і переглядом повідомлення
+notification-name =
+    .label = лише з ім'ям відправника
+notification-empty =
+    .label = без жодної інформації
+chat-play-sound-label =
+    .label = Відтворювати звук
+    .accesskey = з
+chat-play-button =
+    .label = Відтворити
+    .accesskey = и
+chat-system-sound-label =
+    .label = Типовий системний звук для нової пошти
+    .accesskey = Т
+chat-custom-sound-label =
+    .label = Використовувати наступний звуковий файл
+    .accesskey = а
+chat-browse-sound-button =
+    .label = Огляд…
+    .accesskey = л
 
 ## Preferences UI Search Results
 
