@@ -4,6 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Kapatılan sekmeyi aç
+
 all-tabs-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -11,13 +12,17 @@ all-tabs-menu-undo-close-tabs =
             [one] Kapatılan sekmeyi aç
            *[other] Kapatılan sekmeleri aç
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Sekmelerde ara
+
 all-tabs-menu-new-user-context =
     .label = Yeni kapsayıcı sekme
+
 all-tabs-menu-hidden-tabs =
     .label = Gizli sekmeler
+
 all-tabs-menu-manage-user-context =
     .label = Kapsayıcıları yönet
     .accesskey = K

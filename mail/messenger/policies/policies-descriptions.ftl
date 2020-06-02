@@ -80,6 +80,10 @@ policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 
 policy-InstallAddonsPermission = Belirli websitelerinin eklenti yüklemesine izin ver.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Belirli web sitelerinin yerel dosyalara bağlantı vermesine izin ver.
 
 policy-NetworkPrediction = Ağ tahminini (DNS prefetching) aç veya kapat.

@@ -292,10 +292,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sitenin MIDI erişimini engellediniz.">
 <!ENTITY urlbar.installBlocked.tooltip           "Bu sitenin eklenti yüklemesini engellediniz.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Bu siteye ek izinler verdiniz.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geçmişi göster">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Bu siteye ek izinler verdiniz.">
 
 
 <!ENTITY searchItem.title             "Ara">
@@ -410,6 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Özelleştir…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Ö">
+
 <!ENTITY overflowCustomizeToolbar.label       "Araç çubuğunu özelleştir…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "u">
 
@@ -900,54 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "İçerik engelleme tercihlerini aç">
 
 
-<!ENTITY protections.etpON.header "Bu sitede gelişmiş izlenme koruması AÇIK">
-<!ENTITY protections.etpOFF.header "Bu sitede gelişmiş izlenme koruması KAPALI">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Gelişmiş izlenme koruması hakkında daha fazla bilgi">
-<!ENTITY protections.settings.label "Koruma ayarları">
-<!ENTITY protections.showreport.label "Raporu göster">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Site çalışmıyor mu?">
-<!ENTITY protections.siteNotWorkingView.title "Site çalışmıyor mu?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Aşağıdakilerle ilgili sorun yaşıyorsanız korumaları kapatın:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Giriş alanları">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Formlar">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Ödemeler">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Yorumlar">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Videolar">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Rapor gönderin">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Engellendi">
-<!ENTITY protections.notBlocking2.label "İzin verildi">
-<!ENTITY protections.notFound.label "Bulunmadı">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Neden?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Bunları engellemek bazı web sitelerini kısmen bozabilir. Takipçiler engellendiğinde bazı düğmeler, formlar ve giriş alanları çalışmayabilir.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Korumalar kapalı olduğu için bu sitedeki tüm takipçiler yüklendi.">
-<!ENTITY protections.noTrackersFound.description "Bu sayfada &brandShortName; tarayıcısının tanıdığı bir takipçi tespit edilmedi.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Bu çerezler, internette yaptığınız şeyler hakkında veri toplamak için sizi siteden siteye takip eder. Reklam verenler ve analiz şirketleri gibi üçüncü taraflar tarafından yerleştirilirler.">
-<!ENTITY protections.cryptominers.description "Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik komut dosyaları pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir.">
-<!ENTITY protections.fingerprinters.description "Parmak izi toplayıcılar profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler.">
-<!ENTITY protections.trackingContent2.description "Web siteleri; takip kodu içeren harici reklamlar, videolar ve başka içerikler yükleyebilir. Takip amaçlı içerikleri engellemek sitelerin daha hızlı yüklenmesini sağlayabilir ama bazı düğmeler, formlar ve giriş alanları çalışmayabilir.">
-<!ENTITY protections.socialMediaTrackers.description "Sosyal ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tarayıcı sekmeleri">
@@ -992,13 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Çerezler">
 <!ENTITY contentBlocking.cookiesView.label "Çerezler ve site verileri">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Takip amaçlı içerikler">
-
-<!ENTITY contentBlocking.manageSettings2.label "Koruma ayarlarını yönet">
-<!ENTITY contentBlocking.manageSettings2.accesskey "K">
-
-<!ENTITY contentBlocking.socialblock.label "Sosyal medya takipçileri">
-
 <!ENTITY contentBlocking.cryptominers.label "Kripto madencileri">
 <!ENTITY contentBlocking.cryptominersView.label "Kripto madencileri">
 
@@ -1010,12 +956,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "İçerik engelleme bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. (Sorunlu sayfanın adresi ve tarayıcı ayarlarınızla ilgili bilgiler Mozilla’ya gönderilecektir.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Daha fazla bilgi al">
 
-<!ENTITY contentBlocking.breakageReportView.title "Bozuk Bir Siteyi Bildirin">
-<!ENTITY contentBlocking.breakageReportView3.description "Bazı takipçileri engellemek bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. Bu rapor, sayfanın adresini ve tarayıcı ayarlarınızla ilgili bilgileri Mozilla’ya gönderir.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Daha fazla bilgi alın">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Nasıl bir sorunla karşılaştınız? (tercihe bağlı)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "İsteğe bağlı: Sorunu açıklayın">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Raporu gönder">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Vazgeç">
 

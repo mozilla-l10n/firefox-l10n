@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Sayfada metin bul">
 <!ENTITY spellToolbarCmd.label "Yazım">
 <!ENTITY spellToolbarCmd.tooltip "Seçimin veya tüm sayfada yazım denetimi yap">
+
 <!ENTITY imageToolbarCmd.label "Resim">
 <!ENTITY imageToolbarCmd.tooltip "Yeni bir resim ekle veya seçili görüntünün özelliklerini düzenle">
 <!ENTITY hruleToolbarCmd.label "Y. çizgi">
