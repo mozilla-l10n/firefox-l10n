@@ -18,9 +18,12 @@ login-app-promo-android =
     .alt = Last ned fra Google Play
 login-app-promo-apple =
     .alt = Last ned fra App Store
+
 login-filter =
     .placeholder = Søk innlogginger
+
 create-login-button = Lag ny innlogging
+
 fxaccounts-sign-in-text = Få passordene dine på de andre enheter dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -117,11 +120,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Skriv inn innloggingsinform
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = rediger lagret innlogging
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å vise passordet. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = vis det lagrede passordet
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å kopiere passordet. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen when attempting to copy a password in about:logins
@@ -158,12 +163,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
+
 about-logins-confirm-remove-dialog-title = Fjerne denne innloggingen?
 confirm-delete-dialog-message = Denne handlingen kan ikke angres.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
+
 about-logins-confirm-export-dialog-title = Eksporter innlogginger og passord
 about-logins-confirm-export-dialog-message = Passordene dine blir lagret som lesbar tekst (f.eks. DårligP@ss0rd), slik at alle som kan åpne den eksporterte filen kan se dem.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
+
 confirm-discard-changes-dialog-title = Vil du forkaste endringer som ikke er lagret?
 confirm-discard-changes-dialog-message = Alle ikke-lagrede endringer vil gå tapt.
 confirm-discard-changes-dialog-confirm-button = Forkast
@@ -194,8 +202,10 @@ about-logins-vulnerable-alert-learn-more-link = Les mer
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = En oppføring for { $loginTitle } med dette brukernavnet finnes allerede. <a data-l10n-name="duplicate-link">Gå til eksisterende oppføring?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Det oppstod en feil ved forsøk på å lagre dette passordet.
+
 
 ## Login Export Dialog
 
