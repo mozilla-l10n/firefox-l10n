@@ -75,13 +75,57 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = { -brand-short-name }-Startseite
+start-page-label =
+    .label = Beim Aufrufen von { -brand-short-name } die Startseite anzeigen
+    .accesskey = m
+location-label =
+    .value = Adresse:
+    .accesskey = r
 restore-default-label =
     .label = Standard wiederherstellen
     .accesskey = w
 new-message-arrival = Wenn neue Nachrichten eintreffen
+mail-play-button =
+    .label = Probe hören
+    .accesskey = P
+animated-alert-label =
+    .label = Eine Benachrichtigung anzeigen
+    .accesskey = B
+customize-alert-label =
+    .label = Anpassen…
+    .accesskey = A
+mail-custom-sound-label =
+    .label = Benutzerdefinierter Klang
+    .accesskey = e
+mail-browse-sound-button =
+    .label = Durchsuchen…
+    .accesskey = u
+system-integration-legend = Systemintegration
+always-check-default =
+    .label = Beim Starten prüfen, ob { -brand-short-name } als Standard-Anwendung registriert ist
+    .accesskey = B
+search-integration-label =
+    .label = { search-engine-name } ermöglichen, Nachrichten zu durchsuchen
+    .accesskey = S
+config-editor-button =
+    .label = Konfiguration bearbeiten…
+    .accesskey = K
+return-receipts-description = Den Umgang mit Empfangsbestätigungen (MDN) regeln:
+return-receipts-button =
+    .label = Empfangsbestätigungen…
+    .accesskey = E
 networking-legend = Verbindung
+proxy-config-description = Festlegen wie sich { -brand-short-name } mit dem Internet verbindet
+network-settings-button =
+    .label = Einstellungen…
+    .accesskey = E
 offline-legend = Offline
+offline-settings = Das Verhalten des Offline-Modus konfigurieren
 offline-settings-button =
     .label = Offline…
     .accesskey = O
@@ -91,9 +135,25 @@ diskspace-legend = Speicherplatz
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Es werden bis zu
+    .accesskey = U
+use-cache-after = MB Speicherplatz als Cache verwendet
 
 ##
 
+clear-cache-button =
+    .label = Jetzt leeren
+    .accesskey = l
+default-font-label =
+    .value = Standard-Schriftart:
+    .accesskey = n
+default-size-label =
+    .value = Größe:
+    .accesskey = G
+font-options-button =
+    .label = Erweitert…
+    .accesskey = E
 display-width-legend = Reintext-Nachrichten
 style-label =
     .value = Stil:
@@ -112,6 +172,33 @@ bigger-size-item =
     .label = Größer
 smaller-size-item =
     .label = Kleiner
+type-column-label =
+    .label = Dateityp
+    .accesskey = D
+action-column-label =
+    .label = Aktion
+    .accesskey = A
+save-to-label =
+    .label = Dateien speichern unter
+    .accesskey = s
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Auswählen…
+           *[other] Durchsuchen…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] w
+           *[other] u
+        }
+always-ask-label =
+    .label = Jedes Mal nachfragen, wo gespeichert werden soll
+    .accesskey = J
+display-tags-text = Schlagwörter können beim Sortieren und Erkennen von Nachrichten helfen.
+delete-tag-button =
+    .label = Löschen
+    .accesskey = L
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -122,6 +209,9 @@ smaller-size-item =
 
 ## Compose Tab
 
+forward-label =
+    .value = Nachrichten weiterleiten:
+    .accesskey = N
 inline-label =
     .label = Eingebunden
 as-attachment-label =
@@ -140,6 +230,15 @@ auto-save-end = Minuten automatisch speichern
 
 ##
 
+spellcheck-label =
+    .label = Rechtschreibprüfung vor dem Senden
+    .accesskey = R
+spellcheck-inline-label =
+    .label = Sofort-Rechtschreibprüfung aktivieren
+    .accesskey = S
+language-popup-label =
+    .value = Sprache:
+    .accesskey = p
 download-dictionaries-link = Weitere Wörterbücher herunterladen
 font-label =
     .value = Schriftart:
@@ -150,18 +249,55 @@ font-color-label =
 bg-color-label =
     .value = Hintergrund:
     .accesskey = H
+restore-html-label =
+    .label = Standard wiederherstellen
+    .accesskey = w
 format-description = Verhalten beim Senden von HTML-Nachrichten:
 autocomplete-description = Beim Adressieren von Nachrichten nach passenden Einträgen suchen in:
+ab-label =
+    .label = Lokale Adressbücher
+    .accesskey = L
+directories-label =
+    .label = LDAP-Verzeichnisserver:
+    .accesskey = D
+directories-none-label =
+    .none = Keine
 edit-directories-label =
     .label = Bearbeiten…
     .accesskey = B
+email-picker-label =
+    .label = Adressen beim Senden automatisch hinzufügen zu:
+    .accesskey = A
+attachment-label =
+    .label = Auf fehlende Anhänge prüfen
+    .accesskey = u
+attachment-options-label =
+    .label = Schlüsselwörter…
+    .accesskey = S
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name } kann die Passwörter aller Ihrer Konten speichern.
+passwords-button =
+    .label = Gespeicherte Passwörter…
+    .accesskey = G
+master-password-description = Ein Master-Passwort schützt alle gespeicherten Passwörter, Sie müssen es aber einmal pro Sitzung eingeben.
+master-password-label =
+    .label = Master-Passwort verwenden
+    .accesskey = M
 junk-description = Die folgenden Einstellungen gelten für alle Konten. In den Konten-Einstellungen können zusätzlich für jedes Konto getrennte Einstellungen vorgenommen werden.
 junk-label =
     .label = Wenn Nachrichten manuell als Junk markiert werden:
     .accesskey = W
+junk-move-label =
+    .label = Verschiebe diese in den für Junk bestimmten Ordner des Kontos
+    .accesskey = V
+junk-delete-label =
+    .label = Lösche diese Nachrichten
+    .accesskey = L
+junk-read-label =
+    .label = Junk als gelesen markieren
+    .accesskey = J
 junk-log-button =
     .label = Protokoll anzeigen…
     .accesskey = P
@@ -176,6 +312,13 @@ antivirus-description = { -brand-short-name } kann es Anti-Virus-Software ermög
 antivirus-label =
     .label = Anti-Virus-Software ermöglichen, eingehende Nachrichten unter Quarantäne zu stellen
     .accesskey = A
+certificate-description = Wenn eine Website nach dem persönlichen Sicherheitszertifikat verlangt:
+certificate-auto =
+    .label = Automatisch eins wählen
+    .accesskey = A
+certificate-ask =
+    .label = Jedes Mal fragen
+    .accesskey = e
 
 ## Chat Tab
 
