@@ -591,9 +591,6 @@ locale-heading = Keelte haldamine
 discover-heading = Isikupärasta oma { -brand-short-name }
 shortcuts-heading = Halda laienduste kiirklahve
 
-theme-heading-search-label = Leia rohkem teemasid
-extension-heading-search-label = Leia rohkem laiendusi
-
 addons-heading-search-input =
     .placeholder = Otsi saidilt addons.mozilla.org
 

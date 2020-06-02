@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Uue sildi loomine
+
 tag-name-label =
     .value = Sildi nimi:
     .accesskey = S

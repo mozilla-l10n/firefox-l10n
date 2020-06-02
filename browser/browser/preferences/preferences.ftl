@@ -363,8 +363,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Kasutatakse pluginat { $plugin-name } (kaustas { -brand-short-name })
-applications-preview-inapp =
-    .label = Eelvaade rakenduses { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -378,9 +376,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -596,11 +591,16 @@ home-prefs-topsites-header =
     .label = Top saidid
 home-prefs-topsites-description = Enim külastatud saidid
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } soovitab
 home-prefs-recommended-by-description = Parim veebisisu sinu huvidest lähtuvalt
+##
+
 home-prefs-recommended-by-learn-more = Kuidas see töötab?
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsitud postitused
@@ -902,9 +902,9 @@ privacy-header = Veebilehitseja privaatsus
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Kasutajatunnused ja paroolid
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Kasutajatunnused ja paroolid
@@ -1135,7 +1135,6 @@ content-blocking-warning-title = Tähelepanu!
 content-blocking-warning-description = Sisu blokkimine võib põhjustada mõnede saitide purunemise. Blokkimise keelamine usaldusväärsetel saitidel on lihtne.
 content-blocking-learn-how = Vaata juhendit
 
-content-blocking-etp-warning-description = Jälitajate blokkimine võib mõjutada mõne saidi funktsionaalsust. Kogu sisu laadimiseks laadige jälitajatega leht uuesti.
 content-blocking-warning-learn-how = Vaata juhendit
 
 content-blocking-reload-description = Tehtud muudatuste rakendamiseks tuleb sul kaardid uuesti laadida.

@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Küpsised
     .style = width: 36em;
+
 window-close-key =
     .key = W
+
 window-focus-search-key =
     .key = F
+
 window-focus-search-alt-key =
     .key = K
+
 filter-search-label =
     .value = Otsimine:
     .accesskey = s
+
 cookies-on-system-label = Arvutisse on salvestatud järgnevad küpsised:
+
 treecol-site-header =
     .label = Veebileht
+
 treecol-name-header =
     .label = Küpsise nimi
+
 props-name-label =
     .value = Nimi:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Aegub:
 props-container-label =
     .value = Konteiner:
+
 remove-cookie-button =
     .label = Kustuta küpsised
     .accesskey = K
+
 remove-all-cookies-button =
     .label = Kustuta kõik küpsised
     .accesskey = a
+
 cookie-close-button =
     .label = Sulge
     .accesskey = u
