@@ -62,3 +62,6 @@ no-proxy-example = Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24
 proxy-remote-dns =
     .label = Proxy DNS ao usar SOCKS v5
     .accesskey = d
+proxy-enable-doh =
+    .label = Habilitar DNS sobre HTTPS
+    .accesskey = b
