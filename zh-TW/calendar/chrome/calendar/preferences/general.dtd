@@ -25,7 +25,7 @@
 <!ENTITY pref.default_event_length.label "預設長度:" >
 <!ENTITY pref.default_event_length.accesskey "E">
 
-<!ENTITY pref.default_event_task_length.label "預設事件與任務長度">
+<!ENTITY pref.default_event_task_length.label "預設事件與工作長度">
 <!ENTITY pref.default_event_task_length.accesskey "E">
 
 <!ENTITY pref.default_task_none.label "無">

@@ -25,7 +25,7 @@
 <!ENTITY pref.calendar.alarms.defaults.label "提醒預設值">
 <!ENTITY pref.defalarm4events.label "預設的事件提醒設定:">
 <!ENTITY pref.defalarm4events.accesskey "e">
-<!ENTITY pref.defalarm4todos.label "預設的任務提醒設定:">
+<!ENTITY pref.defalarm4todos.label "預設的工作提醒設定:">
 <!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "開啟">
 <!ENTITY pref.alarm.off "關閉">
