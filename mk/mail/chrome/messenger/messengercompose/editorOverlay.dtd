@@ -196,6 +196,7 @@
 <!ENTITY findToolbarCmd.tooltip "Наоѓа текст на оваа страница">
 <!ENTITY spellToolbarCmd.label "Правопис">
 <!ENTITY spellToolbarCmd.tooltip "Го проверува правописот на изборот или целата страница">
+
 <!ENTITY imageToolbarCmd.label "Слика">
 <!ENTITY imageToolbarCmd.tooltip "Внесува нова слика или ги менува својствата на избраната слика">
 <!ENTITY hruleToolbarCmd.label "Х. линија">

@@ -308,6 +308,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Прилагоди…">
 <!ENTITY viewCustomizeToolbar.accesskey     "р">
+
 <!ENTITY overflowCustomizeToolbar.label       "Прилагоди мени…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "П">
 

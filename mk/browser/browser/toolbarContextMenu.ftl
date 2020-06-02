@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = Врати го затвореното јазиче
     .accesskey = з
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Приватно прелистување)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Приватно прелистување)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Приватно прелистување)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Приватно прелистување)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -113,6 +115,7 @@ search-one-offs-change-settings-button =
     .label = Промени поставки за пребарување
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Промени поставки за пребарување
+
 search-one-offs-context-open-new-tab =
     .label = Пребарај во ново јазиче
     .accesskey = П
@@ -193,9 +196,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Прелистувачот е контролиран далечински
 urlbar-switch-to-tab =
     .value = Оди до јазиче:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Проширување:
+
 urlbar-go-button =
     .tooltiptext = Ја отвора адресата во локациската лента
 urlbar-page-action-button =
