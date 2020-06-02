@@ -4,9 +4,11 @@
 
 fonts-encoding-dialog-title =
     .title = Fonts & Encodings
+
 fonts-language-legend =
     .value = Fonts for:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Proportional:
     .accesskey = P
@@ -60,20 +62,26 @@ font-language-group-malayalam =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-serif-label =
     .value = Serif:
     .accesskey = s
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monospace:
     .accesskey = m
+
 font-min-size-label =
     .value = Minimum font size:
     .accesskey = z
+
 min-size-none =
     .label = None
 
@@ -88,6 +96,8 @@ use-document-fonts-checkbox =
 font-outgoing-email-label =
     .value = Outgoing Mail:
     .accesskey = u
+
 font-incoming-email-label =
     .value = Incoming Mail:
     .accesskey = I
+
