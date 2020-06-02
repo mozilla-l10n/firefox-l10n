@@ -4,6 +4,10 @@
 
 system-integration-title =
     .title = Sistem tümleştirmesi
+system-integration-dialog =
+    .buttonlabelaccept = Varsayılan olarak ayarla
+    .buttonlabelcancel = Tümleştirmeyi geç
+    .buttonlabelcancel2 = İptal
 unset-default-tooltip = { -brand-short-name } içinden varsayılan istemciyi { -brand-short-name } dışında bir istemci yapamazsınız. Başka bir uygulamayı varsayılan yapmak için o uygulamanın 'Varsayılan olarak ayarla' komutunu kullanmalısınız.
 checkbox-email-label =
     .label = E-posta
@@ -25,3 +29,6 @@ system-search-engine-name =
 system-search-integration-label =
     .label = { system-search-engine-name } uygulamasının iletileri aramasına izin ver
     .accesskey = s
+check-on-startup-label =
+    .label = { -brand-short-name } her açıldığında bu denetimi yap
+    .accesskey = d
