@@ -72,6 +72,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = F
+focus-search-shortcut-alt =
+    .key = K
 general-legend = Página inicial do { -brand-short-name }
 start-page-label =
     .label = Ao iniciar o { -brand-short-name }, abrir esta página no painel de mensagens:
@@ -94,6 +98,13 @@ mail-custom-sound-label =
     .accesskey = U
 mail-browse-sound-button =
     .label = Procurar…
+    .accesskey = P
+enable-gloda-search-label =
+    .label = Ativar pesquisa global e indexação
+    .accesskey = A
+system-integration-legend = Integração com o sistema
+search-integration-label =
+    .label = Permitir que o { search-engine-name } pesquise em mensagens
     .accesskey = P
 return-receipts-description = Determine como o { -brand-short-name } trata as confirmações de leitura.
 return-receipts-button =
@@ -122,6 +133,15 @@ use-cache-after = MB de espaço para o cache
 clear-cache-button =
     .label = Limpar cache agora
     .accesskey = L
+default-font-label =
+    .value = Fonte padrão:
+    .accesskey = F
+default-size-label =
+    .value = Tam.:
+    .accesskey = T
+font-options-button =
+    .label = Avançado…
+    .accesskey = A
 display-width-legend = Mensagens sem formatação
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -148,6 +168,32 @@ bigger-size-item =
     .label = Maior
 smaller-size-item =
     .label = Menor
+type-column-label =
+    .label = Tipo de conteúdo
+    .accesskey = T
+action-column-label =
+    .label = Ação
+    .accesskey = A
+save-to-label =
+    .label = Salvar arquivos em:
+    .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Procurar…
+           *[other] Procurar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] P
+           *[other] P
+        }
+always-ask-label =
+    .label = Sempre perguntar onde salvar arquivos
+    .accesskey = e
+delete-tag-button =
+    .label = Excluir
+    .accesskey = x
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -165,6 +211,9 @@ inline-label =
     .label = Texto na mensagem
 as-attachment-label =
     .label = Anexo
+extension-label =
+    .label = Adic. extensão ao nome do arquivo
+    .accesskey = A
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
@@ -182,6 +231,9 @@ warn-on-send-accel-key =
 spellcheck-label =
     .label = Verificar ortografia antes de enviar
     .accesskey = e
+spellcheck-inline-label =
+    .label = Verificar ortografia ao digitar
+    .accesskey = V
 language-popup-label =
     .value = Idioma:
     .accesskey = I
@@ -204,9 +256,57 @@ directories-none-label =
 edit-directories-label =
     .label = Editar diretórios…
     .accesskey = E
+attachment-label =
+    .label = Detectar ausência de anexos
+    .accesskey = D
+attachment-options-label =
+    .label = Palavras-chave…
+    .accesskey = P
 
 ## Privacy Tab
 
+passwords-description = O { -brand-short-name } pode memorizar nomes de usuário e senhas de todas as suas contas.
+passwords-button =
+    .label = Senhas memorizadas…
+    .accesskey = S
+master-password-description = A senha mestra protege todas as suas senhas — mas você deve fornecê-la uma vez por sessão.
+master-password-label =
+    .label = Usar uma senha mestra
+    .accesskey = U
+master-password-button =
+    .label = Modificar senha mestra…
+    .accesskey = M
+junk-description = Defina suas configurações padrão para spam. Opções específicas para cada conta podem ser definidas em “Configurar contas”.
+junk-label =
+    .label = Ao marcar mensagens como spam:
+    .accesskey = A
+junk-move-label =
+    .label = Movê-las para a pasta “Spam” da conta
+    .accesskey = o
+junk-delete-label =
+    .label = Excluí-las
+    .accesskey = x
+junk-read-label =
+    .label = Marcar como lidas as mensagens definidas como spam
+    .accesskey = M
+junk-log-button =
+    .label = Exibir log
+    .accesskey = E
+reset-junk-button =
+    .label = Excluir o treinamento
+    .accesskey = c
+phishing-description = O { -brand-short-name } pode verificar se mensagens são possíveis fraudes (também conhecidas como phishing scams), detectando as técnicas de falsificação mais comuns.
+phishing-label =
+    .label = Alertar se a mensagem exibida for um possível golpe
+    .accesskey = A
+antivirus-description = O { -brand-short-name } pode facilitar a análise de novas mensagens por antivírus antes que elas sejam armazenadas localmente.
+antivirus-label =
+    .label = Aplicativos antivírus podem colocar uma mensagem recebida em quarentena
+    .accesskey = A
+certificate-description = Quando um servidor solicitar meu certificado pessoal:
+certificate-auto =
+    .label = Selecionar um automaticamente
+    .accesskey = S
 
 ## Chat Tab
 
