@@ -8,6 +8,9 @@ category-general =
 pane-compose-title = Skriva
 category-compose =
     .tooltiptext = Skriva
+pane-chat-title = Chatt
+category-chat =
+    .tooltiptext = Chatt
 pane-calendar-title = Kalender
 category-calendar =
     .tooltiptext = Kalender
@@ -103,10 +106,20 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Aktivera global sökning och indexering
     .accesskey = A
+scrolling-legend = Scrollning
+autoscroll-label =
+    .label = Använd automatisk scrollning
+    .accesskey = u
+smooth-scrolling-label =
+    .label = Använd mjuk scrollning
+    .accesskey = m
 system-integration-legend = Systemintegration
 always-check-default =
     .label = Kontrollera vid start om { -brand-short-name } är standardklient för e-post
     .accesskey = o
+check-default-button =
+    .label = Kontrollera nu…
+    .accesskey = n
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -135,6 +148,12 @@ offline-settings = Ange inställningar för nedkopplat läge
 offline-settings-button =
     .label = Nedkopplat läge…
     .accesskey = N
+diskspace-legend = Diskutrymme
+offline-compact-folder =
+    .label = Komprimera alla mappar när det kommer spara över
+    .accesskey = K
+compact-folder-size =
+    .value = MB totalt
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -281,6 +300,14 @@ attachment-label =
 attachment-options-label =
     .label = Nyckelord…
     .accesskey = N
+enable-cloud-share =
+    .label = Erbjuder dig att dela filer större än
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Ta bort
+    .accesskey = T
+cloud-account-description = Lägg till en ny Filelink lagringstjänst
 
 ## Privacy Tab
 
@@ -308,6 +335,9 @@ junk-delete-label =
 junk-read-label =
     .label = Märk skräpklassade meddelanden som lästa
     .accesskey = M
+junk-log-label =
+    .label = Aktivera loggning av skräppostfiltret
+    .accesskey = A
 junk-log-button =
     .label = Visa logg
     .accesskey = V
@@ -332,6 +362,13 @@ certificate-ask =
 
 ## Chat Tab
 
+startup-label =
+    .value = När { -brand-short-name } startar:
+    .accesskey = s
+offline-label =
+    .label = Håll mina chattkonton offline
+auto-connect-label =
+    .label = Anslut mina chattkonton automatiskt
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -339,9 +376,19 @@ certificate-ask =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Låt mina kontakter veta att jag är Inaktiv efter
+    .accesskey = I
+idle-time-label = minuters inaktivitet
 
 ##
 
+away-message-label =
+    .label = och sätt min status till Borta med statusmeddelandet:
+    .accesskey = B
+send-typing-label =
+    .label = Skicka skrivmeddelanden i konversationer
+    .accesskey = k
 
 ## Preferences UI Search Results
 
