@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Kalendář
+calendar-title-reminder = Upozornění
 calendar-title-category = Kategorie
 dateformat-label =
     .value = Formát data:
@@ -148,6 +150,9 @@ reminder-browse-sound-label =
 reminder-dialog-label =
     .label = Zobrazit dialog upozornění
     .accesskey = d
+missed-reminder-label =
+    .label = Zobrazovat zmeškané upozornění pro zapisovatelné kalendáře
+    .accesskey = k
 reminder-default-legend = Výchozí nastavení upozornění
 default-snooze-label =
     .value = Opakovat upozornění každých:
