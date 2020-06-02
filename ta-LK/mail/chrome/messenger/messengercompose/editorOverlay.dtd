@@ -277,6 +277,7 @@
 <!ENTITY findToolbarCmd.tooltip "பக்கத்தில் உரையை கண்டுபிடிக்க">
 <!ENTITY spellToolbarCmd.label "எழுத்துக்கூட்டு">
 <!ENTITY spellToolbarCmd.tooltip "தேர்வு அல்லது முழு பக்கத்தின் எழுத்துக்கூட்டை சரிபார்க்கவும்">
+
 <!ENTITY imageToolbarCmd.label "படிமம்">
 <!ENTITY imageToolbarCmd.tooltip "புதிய படிமத்தை சேர்க்கவும் அல்லது தேர்வு செய்த படிமத்தின் பண்பியல்புகளை செவ்வையாக்குக">
 <!ENTITY hruleToolbarCmd.label "H.கோடு">

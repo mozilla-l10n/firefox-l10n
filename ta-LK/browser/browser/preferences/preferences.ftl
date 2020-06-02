@@ -136,9 +136,6 @@ applications-action-save-label =
 applications-use-app-label =
     .value = { applications-use-app.label }
 
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 
@@ -182,6 +179,12 @@ network-proxy-connection-settings =
 
 
 ## Home Section - Firefox Home Content Customization
+
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+##
 
 
 ## Search Section
@@ -244,7 +247,6 @@ history-remember-option-never =
 
 
 ##
-
 
 ## Privacy Section - Tracking
 

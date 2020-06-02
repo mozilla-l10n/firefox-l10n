@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = செயலி விபரங்கள்
     .style = அகலம்: 30em; min-நீளம்: 20em;
+
 remove-app-button =
     .label = நீக்குக
     .accesskey = R
