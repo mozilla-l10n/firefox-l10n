@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+preferences-title =
+    .title =
+        { PLATFORM() ->
+            [windows] گزینه‌ها
+           *[other] ترجیحات
+        }
 pane-compose-title = Composition
 category-compose =
     .tooltiptext = Composition
@@ -60,6 +66,7 @@ offline-settings = Configure offline settings
 offline-settings-button =
     .label = Offline…
     .accesskey = O
+diskspace-legend = Disk Space
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -75,6 +82,9 @@ use-cache-after = مگابایت از فضای دیسک برای حافظهٔ ن
 clear-cache-button =
     .label = هم‌اکنون پاک شود
     .accesskey = ه
+default-size-label =
+    .value = اندازه:
+    .accesskey = ا
 font-options-button =
     .label = Fonts…
     .accesskey = F
@@ -104,13 +114,51 @@ bigger-size-item =
     .label = Bigger
 smaller-size-item =
     .label = Smaller
+search-input =
+    .placeholder = جست‌وجو
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] انتخاب…
+           *[other] مرور…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ا
+           *[other] م
+        }
+display-tags-text = Tags can be used to categorize and prioritize your messages.
+delete-tag-button =
+    .label = حذف
+    .accesskey = ح
+auto-mark-as-read =
+    .label = Automatically mark messages as read
+    .accesskey = A
+mark-read-no-delay =
+    .label = Immediately on display
+    .accesskey = d
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = After displaying for
+    .accesskey = e
+seconds-label = seconds
 
 ##
 
+open-msg-label =
+    .value = Open messages in:
+open-msg-window =
+    .label = A new message window
+    .accesskey = i
+open-msg-ex-window =
+    .label = An existing message window
+    .accesskey = x
+condensed-addresses-label =
+    .label = Show only display name for people in my address book
+    .accesskey = p
 
 ## Compose Tab
 
@@ -141,6 +189,12 @@ warn-on-send-accel-key =
 spellcheck-label =
     .label = Check spelling before sending
     .accesskey = C
+spellcheck-inline-label =
+    .label = Enable spell check as you type
+    .accesskey = k
+language-popup-label =
+    .value = زبان:
+    .accesskey = L
 download-dictionaries-link = Download More Dictionaries
 font-label =
     .value = Font:
@@ -189,6 +243,15 @@ email-picker-label =
 
 ##
 
+chat-play-button =
+    .label = پخش
+    .accesskey = پ
+chat-custom-sound-label =
+    .label = Use the following sound file
+    .accesskey = U
+chat-browse-sound-button =
+    .label = مرور…
+    .accesskey = م
 
 ## Preferences UI Search Results
 
