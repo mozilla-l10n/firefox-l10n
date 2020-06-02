@@ -20,3 +20,6 @@ props-secure-label =
     .value = Pošlji za:
 props-expires-label =
     .value = Preteče:
+cookie-close-button =
+    .label = Zapri
+    .accesskey = Z
