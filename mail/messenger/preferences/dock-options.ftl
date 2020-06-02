@@ -5,16 +5,22 @@
 dock-options-window-dialog =
     .title = Pilihan ikon aplikasi
     .style = width: 35em;
+
 bounce-system-dock-icon =
     .label = Animasi ikon aplikasi apabila ada mesej baru
     .accesskey = i
+
 dock-icon-legend = Kelompok ikon aplikasi
+
 dock-icon-show-label =
     .value = Ikon aplikasi kelompok dengan:
+
 count-unread-messages-radio =
     .label = Bilangan mesej yang belum dibaca
     .accesskey = u
+
 count-new-messages-radio =
     .label = Bilangan mesej baru
     .accesskey = n
+
 notification-settings-info = Anda boleh nyahaktifkan kelompok dalam anak tetingkap Notifikasi dalam Keutamaan Sistem.

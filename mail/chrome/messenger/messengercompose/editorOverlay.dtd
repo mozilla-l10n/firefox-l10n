@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Cari teks dalam halaman">
 <!ENTITY spellToolbarCmd.label "Eja">
 <!ENTITY spellToolbarCmd.tooltip "Semak ejaan pilihan atau seluruh halaman">
+
 <!ENTITY imageToolbarCmd.label "Imej">
 <!ENTITY imageToolbarCmd.tooltip "Sisip imej baru atau edit sifat imej dipilih">
 <!ENTITY hruleToolbarCmd.label "H.Line">

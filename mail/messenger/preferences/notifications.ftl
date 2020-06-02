@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Sesuaikan Makluman Mel Baru
+
 customize-alert-description = Pilih medan yang dipaparkan dalam notifikasi makluman:
+
 preview-text-checkbox =
     .label = Teks Previu Mesej
     .accesskey = M
+
 subject-checkbox =
     .label = Subjek
     .accesskey = S
+
 sender-checkbox =
     .label = Pengirim
     .accesskey = e
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Papar Makluman Mel Baru selama
     .accesskey = B
+
 open-time-label-after =
     .value = saat
