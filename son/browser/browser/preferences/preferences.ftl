@@ -239,8 +239,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Goy nda { $plugin-name } ({ -brand-short-name } ra)
-applications-preview-inapp =
-    .label = Moo-fur { -brand-short-name } ra
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -254,9 +252,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -362,6 +357,12 @@ choose-bookmark =
     .accesskey = D
 
 ## Home Section - Firefox Home Content Customization
+
+
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+##
 
 
 ## Search Section
@@ -576,7 +577,6 @@ addressbar-suggestions-settings = Ibaa&ey barmay ceecijinay honnandiyaney se
 
 
 ##
-
 
 ## Privacy Section - Tracking
 

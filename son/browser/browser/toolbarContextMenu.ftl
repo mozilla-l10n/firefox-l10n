@@ -5,6 +5,7 @@
 toolbar-context-menu-undo-close-tab =
     .label = Kanji daabuyan taafeeri
     .accesskey = t
+
 toolbar-context-menu-remove-from-toolbar =
     .label = Kaataray goyjinay zuu ra
     .accesskey = r
