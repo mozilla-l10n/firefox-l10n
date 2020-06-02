@@ -10,6 +10,11 @@ fonts-label-default =
     .label = Standard ({ $name })
 fonts-label-default-unnamed =
     .label = Standard
+fonts-encoding-dialog-title =
+    .title = Skrifttyper & tegnkodning
+fonts-proportional-label =
+    .value = Proportional:
+    .accesskey = P
 
 ## Languages
 
@@ -54,12 +59,24 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans Serif
+font-monospace-label =
+    .value = Monospatieret:
+    .accesskey = M
 min-size-none =
     .label = Ingen
 
 ## Fonts in message
 
 font-control-legend = Vælg skrifttype
+use-document-fonts-checkbox =
+    .label = Tillad meddelelser at bruge andre skrifttyper
+    .accesskey = T
+use-fixed-width-plain-checkbox =
+    .label = Anvend skrifttype med fast bredde til ren tekst-meddelelser
+    .accesskey = F
 
 ## Language settings
 
+font-outgoing-email-label =
+    .value = Udgående meddelelser:
+    .accesskey = u
