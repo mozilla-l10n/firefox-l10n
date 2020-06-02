@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Canfod y testun ar y dudalen">
 <!ENTITY spellToolbarCmd.label "Sillafu">
 <!ENTITY spellToolbarCmd.tooltip "Gwirio sillafu o adran neu o'r dudalen gyfan">
+
 <!ENTITY imageToolbarCmd.label "Delwedd">
 <!ENTITY imageToolbarCmd.tooltip "Mewnosod delwedd newydd neu olygu priodweddau'r ddelwedd">
 <!ENTITY hruleToolbarCmd.label "H.Line">

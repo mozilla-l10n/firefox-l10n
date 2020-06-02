@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Tab Newydd
+
 tag-name-label =
     .value = Enw Tag:
     .accesskey = T
