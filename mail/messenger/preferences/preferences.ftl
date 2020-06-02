@@ -106,6 +106,17 @@ restore-default-label =
     .accesskey = Å
 default-search-engine = Standardsökmotor
 new-message-arrival = När ny e-post kommer:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Spela följande ljudfil:
+           *[other] Spela upp ett ljud
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] u
+        }
 mail-play-button =
     .label = Spela upp
     .accesskey = e
