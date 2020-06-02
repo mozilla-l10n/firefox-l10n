@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = නව ලිපි සංඥා රිසිකරණය
+
 customize-alert-description = සංඥාව තුළ පෙන්විය යුත්තේ කවර ක්ෂේත්‍රදැයි තෝරන්න:
+
 preview-text-checkbox =
     .label = ලිපි ‍පෙරදැකුම් පාඨ
     .accesskey = M
+
 subject-checkbox =
     .label = මාතෘකාව
     .accesskey = S
+
 sender-checkbox =
     .label = එවන්නා
     .accesskey = e

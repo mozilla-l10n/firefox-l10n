@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = කුකීස්
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = සෙවුම:
     .accesskey = S
+
 cookies-on-system-label = පහත කුකීස් ඔබගේ පරිගණකයේ තැන්පත් කරනු ඇත:
+
 treecol-site-header =
     .label = අඩවිය
+
 treecol-name-header =
     .label = කුකී නම
+
 props-name-label =
     .value = නම:
 props-value-label =
@@ -31,12 +39,15 @@ props-secure-label =
     .value = යවන ලද්දේ:
 props-expires-label =
     .value = කල් ඉකුත්වන්නේ:
+
 remove-cookie-button =
     .label = කුකී ඉවත් කරන්න
     .accesskey = R
+
 remove-all-cookies-button =
     .label = සියළු කුකීස් ඉවත් කරන්න
     .accesskey = A
+
 cookie-close-button =
     .label = වසන්න
     .accesskey = C

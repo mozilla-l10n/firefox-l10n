@@ -4,9 +4,11 @@
 
 fonts-encoding-dialog-title =
     .title = අකුරු සහ කේතනයන්
+
 fonts-language-legend =
     .value = අකුරු (සඳහා):
     .accesskey = t
+
 fonts-proportional-label =
     .value = Proportional:
     .accesskey = P
@@ -60,29 +62,37 @@ font-language-group-malayalam =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans-serif
+
 font-serif-label =
     .value = Serif:
     .accesskey = s
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monospace:
     .accesskey = m
+
 font-min-size-label =
     .value = අවම අකුරු විශාලත්වය:
     .accesskey = z
+
 min-size-none =
     .label = කිසිවක් නැත
 
 ## Fonts in message
 
 font-control-legend = ෆොන්ට පාලනය
+
 use-document-fonts-checkbox =
     .label = වෙනත් අකුරු භාවිතා කිරීමට ලිපි බලැති කරන්න
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = සාමාන්‍ය පාඨ ලිපි සඳහා ස්ථිර පළල ෆොන්ට (fixed width font) භාවිතා කරන්න
     .accesskey = x
@@ -92,6 +102,8 @@ use-fixed-width-plain-checkbox =
 font-outgoing-email-label =
     .value = යවන ලිපි:
     .accesskey = u
+
 font-incoming-email-label =
     .value = ලැබෙන ලිපි:
     .accesskey = I
+

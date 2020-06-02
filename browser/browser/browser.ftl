@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (පෞද්ගලික ගවේෂණය)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (පෞද්ගලික ගවේෂණය)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (පෞද්ගලික ගවේෂණය)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (පෞද්ගලික ගවේෂණය)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -110,10 +112,12 @@ urlbar-popup-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.
 urlbar-midi-blocked =
     .tooltiptext = ඔබ මෙම වෙබ්අඩවියට MIDI පිවිසුම අවහිර කර ඇත.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -145,6 +149,7 @@ search-one-offs-change-settings-button =
     .label = සෙවුම් සැකසුම් වෙනස් කරන්න
 search-one-offs-change-settings-compact-button =
     .tooltiptext = සෙවුම් සිටුවම් වෙනස් කරන්න
+
 search-one-offs-context-open-new-tab =
     .label = නව ටැබයක සොයන්න
     .accesskey = T
@@ -228,9 +233,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ගවේශකය දුරස්ථ පාලනයේ පවතී
 urlbar-switch-to-tab =
     .value = ටැබයට මාරුවෙන්න:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = දිගුව:
+
 urlbar-go-button =
     .tooltiptext = පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න
 urlbar-page-action-button =

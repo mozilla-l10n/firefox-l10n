@@ -333,6 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "රිසිකරණය...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "මෙවලම් තීරු රිසිකරණය…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 

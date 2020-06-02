@@ -4,9 +4,12 @@
 
 attachment-reminder-window =
     .title = ඇමුණුම් සිහිකැඳවීමේ මූලපද (Keywords)
+
 attachment-reminder-label = ඔබ මෙම මූලපද (Keywords) එකක් හෝ සහිතව ලිපියක් යැවීමට සැරසෙන විට, { -brand-short-name } මඟහැරුනු ඇමුණුම් පිළිබඳව ඔබට අනතුරු අඟවනු ඇත.
+
 keyword-remove-button =
     .label = මැකීම
     .accesskey = D
+
 edit-keyword-title = මූලපදය (Keyword) සැකසීම
 edit-keyword-label = මූලපදය (Keyword):

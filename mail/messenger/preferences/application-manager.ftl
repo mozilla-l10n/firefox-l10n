@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = යෙදුමේ විස්තර
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = ඉවත් කරන්න
     .accesskey = R
