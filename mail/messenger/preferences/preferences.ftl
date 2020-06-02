@@ -191,6 +191,7 @@ update-app-legend = { -brand-short-name } 更新
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = 版本: { $version }
+allow-description = 允许 { -brand-short-name }：
 automatic-updates-label =
     .label = 自动安装更新（推荐：可提升安全性）
     .accesskey = A
@@ -203,6 +204,7 @@ update-history-button =
 use-service =
     .label = 使用后台服务来安装更新
     .accesskey = b
+cross-user-udpate-warning = 此设置将影响使用这份 { -brand-short-name } 程序的所有 Windows 账户及 { -brand-short-name } 配置文件。
 networking-legend = 连接
 proxy-config-description = 配置 { -brand-short-name } 如何连接至国际互联网
 network-settings-button =
