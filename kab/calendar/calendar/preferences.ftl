@@ -92,6 +92,12 @@ previous-weeks-label =
     .value = Dduṛtat yezrin ara d-yettwaseknen:
     .accesskey = z
 todaypane-legend = Agalis Ass-a
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Tigezmi d iteddun ad tesken:
+    .accesskey = G
 event-task-legend = Tidyanin d tiwuriwin
 task-start-label =
     .value = Azemz n tazwara:
