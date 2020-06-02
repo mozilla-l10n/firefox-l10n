@@ -19,6 +19,9 @@ system-search-engine-name =
         [windows] Căutare Windows
        *[other] { "" }
     }
+system-search-integration-label =
+    .label = Permite la { system-search-engine-name } să caute în mesaje
+    .accesskey = P
 check-on-startup-label =
     .label = Verifică întotdeauna la pornirea { -brand-short-name }
     .accesskey = a
