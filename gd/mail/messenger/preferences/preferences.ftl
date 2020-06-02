@@ -29,6 +29,9 @@ general-legend = Duilleag tòiseachaidh { -brand-short-name }
 start-page-label =
     .label = Nuair a thòiseachas { -brand-short-name }, seall an duilleag tòiseachaidh ann an raon nan teachdaireachdan
     .accesskey = N
+location-label =
+    .value = Àite:
+    .accesskey = o
 restore-default-label =
     .label = Aisig na roghainnean bunaiteach
     .accesskey = r
@@ -95,6 +98,9 @@ use-cache-after = MB a dh'àite airson an tasgadan
 
 ##
 
+clear-cache-button =
+    .label = Falmhaich e an-dràsta
+    .accesskey = c
 default-font-label =
     .value = An cruth-clò bunaiteach:
     .accesskey = A
@@ -130,6 +136,8 @@ bigger-size-item =
     .label = Nas motha
 smaller-size-item =
     .label = Nas lugha
+search-input =
+    .placeholder = Lorg
 type-column-label =
     .label = Seòrsa na susbaint
     .accesskey = t
@@ -139,6 +147,17 @@ action-column-label =
 save-to-label =
     .label = Sàbhail faidhlichean ann an
     .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Tagh…
+           *[other] Brabhsaich…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] T
+           *[other] B
+        }
 always-ask-label =
     .label = Faighnich dhìom càit an dèid faidhlichean a shàbhaladh an-còmhnaidh
     .accesskey = a
@@ -224,6 +243,9 @@ passwords-button =
     .label = Faclan-faire a chaidh a shàbhaladh…
     .accesskey = s
 master-password-description = Dìonaidh am prìomh fhacal-faire na faclan-faire uile agad ach feumaidh tu a chur a-steach turas gach seisein.
+master-password-label =
+    .label = Cleachd prìomh fhacal-faire
+    .accesskey = C
 master-password-button =
     .label = Atharraich am prìomh fhacal-faire…
     .accesskey = c
@@ -242,6 +264,7 @@ junk-log-button =
 reset-junk-button =
     .label = Ath-shuidhich an dàta trèanaidh
     .accesskey = r
+phishing-description = 'S urrainn do { -brand-short-name } sgrùdadh a dhèanamh air teachdaireachdan air eagal 's gu bheil iad nam fallsaidheachdan puis-dhealain le bhith a' cumail faire air gleusan cumanta a chleachdar a chum foill.
 phishing-label =
     .label = Innis dhomh ma tha amharas gu bheil an teachdaireachd a tha mi a' leughadh 'na fhallsaidheachd puist-dhealain
     .accesskey = t
