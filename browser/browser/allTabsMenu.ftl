@@ -4,17 +4,19 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Angre attlating av fane
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Angre attlating av fane
+           *[other] Angre attlating av faner
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Søk i faner
-
 all-tabs-menu-new-user-context =
     .label = Ny innhaldsfane
-
 all-tabs-menu-hidden-tabs =
     .label = Skjulte faner
-
 all-tabs-menu-manage-user-context =
     .label = Handter behaldarar
     .accesskey = H
