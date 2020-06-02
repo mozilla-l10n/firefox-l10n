@@ -79,6 +79,10 @@ policy-HardwareAcceleration = Hardwarebeschleunigung deaktiviert, falls false
 
 policy-InstallAddonsPermission = Add-on-Installation von festgelegten Websites erlauben
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Festgelegten Websites Zugriff auf lokale Dateien erlauben
 
 policy-NetworkPrediction = Spekulative DNS-Abfragen für noch nicht angeforderte Ressourcen ("DNS-Prefetching") aktivieren oder deaktivieren

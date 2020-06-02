@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Standard ({ $name })
 fonts-label-default-unnamed =
     .label = Standard
+
 fonts-encoding-dialog-title =
     .title = Schriftarten und Zeichenkodierungen
+
 fonts-language-legend =
     .value = Schriftarten für
     .accesskey = S
+
 fonts-proportional-label =
     .value = Proportional:
     .accesskey = P
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Größe:
     .accesskey = G
+
 font-size-monospace-label =
     .value = Größe:
     .accesskey = r
+
 font-serif-label =
     .value = Serif:
     .accesskey = e
+
 font-sans-serif-label =
     .value = Sans Serif:
     .accesskey = a
+
 font-monospace-label =
     .value = Feste Breite:
     .accesskey = F
+
 font-min-size-label =
     .value = Mindestschriftgröße:
     .accesskey = M
+
 min-size-none =
     .label = Keine
 
 ## Fonts in message
 
 font-control-legend = Schriftartenkontrolle
+
 use-document-fonts-checkbox =
     .label = Nachrichten das Verwenden eigener statt der oben gewählten Schriftarten erlauben
     .accesskey = N
+
 use-fixed-width-plain-checkbox =
     .label = Unproportionale Schriftart für Reintext-Nachrichten verwenden
     .accesskey = U
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Textkodierungen
+
 text-encoding-description = Standard-Textkodierungen für ein- und ausgehende Nachrichten
+
 font-outgoing-email-label =
     .value = Ausgehende Nachrichten:
     .accesskey = h
+
 font-incoming-email-label =
     .value = Eingehende Nachrichten:
     .accesskey = I
+
 default-font-reply-checkbox =
     .label = Wenn möglich, Standard-Textkodierung für Antworten verwenden
     .accesskey = W
