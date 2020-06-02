@@ -70,6 +70,7 @@ update-in-progress-ok-button = &Abandonner
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuer
+addons-button = Extensions et thèmes
 
 ## OS Authentication dialog
 
@@ -95,11 +96,28 @@ general-legend = Page de démarrage de { -brand-short-name }
 start-page-label =
     .label = Afficher la page de démarrage au lancement de { -brand-short-name }
     .accesskey = A
+location-label =
+    .value = Adresse :
+    .accesskey = d
 restore-default-label =
     .label = Réinitialiser
     .accesskey = i
 default-search-engine = Moteur de recherche par défaut
+minimize-to-tray-label =
+    .label = Quand { -brand-short-name } est réduit, le déplacer dans la barre de notification
+    .accesskey = r
 new-message-arrival = Quand un nouveau message arrive :
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Jouer le fichier son suivant :
+           *[other] Jouer un son
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] J
+           *[other] J
+        }
 mail-play-button =
     .label = Jouer le son
     .accesskey = o
@@ -107,6 +125,7 @@ change-dock-icon = Modifier les préférences de l’icône de l’application
 app-icon-options =
     .label = Options de l’icône de l’application…
     .accesskey = n
+notification-settings = Les alertes et le son par défaut peuvent être désactivés depuis le panneau Notifications dans les préférences système.
 animated-alert-label =
     .label = Afficher un avertissement
     .accesskey = f
@@ -122,6 +141,31 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = Parcourir…
     .accesskey = r
+enable-gloda-search-label =
+    .label = Activer la recherche et l’indexation globales
+    .accesskey = c
+datetime-formatting-legend = Format de date et heure
+allow-hw-accel =
+    .label = Utiliser l’accélération graphique matérielle si disponible
+    .accesskey = i
+store-type-label =
+    .value = Type de stockage des messages pour les nouveaux comptes :
+    .accesskey = k
+mbox-store-label =
+    .label = Un fichier par dossier (mbox)
+maildir-store-label =
+    .label = Un fichier par message (maildir)
+scrolling-legend = Défilement
+autoscroll-label =
+    .label = Automatique
+    .accesskey = u
+smooth-scrolling-label =
+    .label = Doux
+    .accesskey = o
+system-integration-legend = Intégration système
+always-check-default =
+    .label = Toujours vérifier si { -brand-short-name } est le client de messagerie par défaut au démarrage
+    .accesskey = T
 check-default-button =
     .label = Vérifier maintenant…
     .accesskey = V
@@ -133,6 +177,20 @@ search-engine-name =
         [windows] Recherche Windows
        *[other] { "" }
     }
+search-integration-label =
+    .label = Autoriser { search-engine-name } à rechercher dans les messages
+    .accesskey = A
+config-editor-button =
+    .label = Éditeur de configuration…
+    .accesskey = d
+return-receipts-description = Gestion des accusés de réception dans { -brand-short-name }
+return-receipts-button =
+    .label = Accusés de réception…
+    .accesskey = A
+update-app-legend = Mises à jour de { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Version { $version }
 automatic-updates-label =
     .label = Installer automatiquement les mises à jour (recommandé pour votre sécurité)
     .accesskey = A
@@ -173,6 +231,9 @@ use-cache-after = Mo d’espace disque pour le cache
 
 ##
 
+smart-cache-label =
+    .label = Modifier la gestion automatique du cache
+    .accesskey = M
 clear-cache-button =
     .label = Vider le cache maintenant
     .accesskey = V
@@ -190,6 +251,11 @@ color-options-button =
     .label = Couleurs…
     .accesskey = C
 display-width-legend = Messages en texte simple
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Afficher les émoticônes sous forme graphique
+    .accesskey = f
+display-text-label = Lors de l’affichage de citations en texte simple :
 style-label =
     .value = Style :
     .accesskey = S
@@ -238,13 +304,50 @@ choose-folder-label =
 always-ask-label =
     .label = Toujours demander où enregistrer les fichiers
     .accesskey = o
+display-tags-text = Les étiquettes peuvent être utilisées pour classer en catégories et donner un ordre de priorité à vos messages
+new-tag-button =
+    .label = Nouvelle…
+    .accesskey = N
+edit-tag-button =
+    .label = Modifier…
+    .accesskey = M
+delete-tag-button =
+    .label = Supprimer
+    .accesskey = S
+auto-mark-as-read =
+    .label = Marquer automatiquement les messages comme lus
+    .accesskey = M
+mark-read-no-delay =
+    .label = Dès l’affichage
+    .accesskey = D
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Après un délai de
+    .accesskey = A
+seconds-label = secondes
 
 ##
 
+open-msg-label =
+    .value = Ouvrir les messages dans :
+open-msg-tab =
+    .label = un nouvel onglet
+    .accesskey = v
+open-msg-window =
+    .label = une nouvelle fenêtre
+    .accesskey = U
+open-msg-ex-window =
+    .label = une fenêtre existante
+    .accesskey = e
+close-move-delete =
+    .label = Fermer la fenêtre ou l’onglet de message lors du déplacement ou de la suppression
+    .accesskey = F
+condensed-addresses-label =
+    .label = N’afficher que le nom pour les personnes se trouvant dans le carnet d’adresses
+    .accesskey = N
 
 ## Compose Tab
 
@@ -316,6 +419,11 @@ edit-directories-label =
 email-picker-label =
     .label = Ajouter les adresses des messages sortants dans :
     .accesskey = A
+default-directory-label =
+    .value = Annuaire par défaut à l’ouverture de la fenêtre du carnet d’adresses :
+    .accesskey = f
+default-last-label =
+    .none = Dernier annuaire utilisé
 attachment-label =
     .label = Vérification de pièces jointes manquantes
     .accesskey = V
@@ -326,6 +434,10 @@ enable-cloud-share =
     .label = Proposer le partage pour les fichiers de plus de
 cloud-share-size =
     .value = Mo
+add-cloud-account =
+    .label = Ajouter…
+    .accesskey = A
+    .defaultlabel = Ajouter…
 remove-cloud-account =
     .label = Supprimer
     .accesskey = S
@@ -370,6 +482,17 @@ keep-ask =
 cookies-button =
     .label = Afficher les cookies…
     .accesskey = k
+passwords-description = { -brand-short-name } peut mémoriser les mots de passe pour tous vos comptes.
+passwords-button =
+    .label = Mots de passe enregistrés…
+    .accesskey = M
+master-password-description = Un mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.
+master-password-label =
+    .label = Utiliser un mot de passe principal
+    .accesskey = U
+master-password-button =
+    .label = Gérer le mot de passe principal…
+    .accesskey = G
 junk-description = Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».
 junk-label =
     .label = Quand je marque des messages comme indésirables :
@@ -392,6 +515,7 @@ junk-log-button =
 reset-junk-button =
     .label = Réinitialiser les données d’apprentissage
     .accesskey = R
+phishing-description = { -brand-short-name } peut analyser les messages pour trouver les courriers susceptibles d’être frauduleux en cherchant les techniques habituelles utilisées pour tromper les utilisateurs.
 phishing-label =
     .label = Signaler si le message en cours de lecture est susceptible d’être frauduleux
     .accesskey = S
@@ -412,6 +536,13 @@ ocsp-label =
 
 ## Chat Tab
 
+startup-label =
+    .value = Au démarrage de { -brand-short-name } :
+    .accesskey = A
+offline-label =
+    .label = Laisser mes comptes de messagerie instantanée déconnectés
+auto-connect-label =
+    .label = Connecter mes comptes automatiquement
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -419,9 +550,19 @@ ocsp-label =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Permettre à mes contacts de savoir que mon compte est inactif après
+    .accesskey = P
+idle-time-label = minutes d’inactivité
 
 ##
 
+away-message-label =
+    .label = et indiquer mon absence avec le message suivant :
+    .accesskey = e
+send-typing-label =
+    .label = Envoyer les notifications de saisie dans mes conversations
+    .accesskey = v
 notification-label = À la réception d’un message qui vous est destiné :
 show-notification-label =
     .label = Afficher une notification :
