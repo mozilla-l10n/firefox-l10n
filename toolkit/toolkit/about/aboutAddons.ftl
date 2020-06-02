@@ -607,9 +607,6 @@ updates-heading = განახლებების მართვა
 discover-heading = მოირგეთ თქვენი { -brand-short-name }
 shortcuts-heading = გაფართოებების ღილაკების მართვა
 
-theme-heading-search-label = სხვა თემების მოძიება
-extension-heading-search-label = სხვა გაფართოებების მოძიება
-
 default-heading-search-label = სხვა დამატებების მოძიება
 addons-heading-search-input =
     .placeholder = addons.mozilla.org საიტზე მოძიება

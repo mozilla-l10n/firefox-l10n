@@ -285,10 +285,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.installBlocked.tooltip           "ამ საიტისთვის დამატების ჩადგმის უფლება შეზღუდული გაქვთ.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "ამ საიტისთვის დამატებითი უფლებები გაქვთ მინიჭებული.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ისტორიის ჩვენება">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "ამ საიტისთვის დამატებითი უფლებები გაქვთ მინიჭებული.">
 
 
 <!ENTITY searchItem.title             "ძიება">
@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "მორგება…">
 <!ENTITY viewCustomizeToolbar.accesskey     "მ">
+
 <!ENTITY overflowCustomizeToolbar.label       "ხელსაწყოთა ზოლის მორგება…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ზ">
 
@@ -883,54 +884,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "შიგთავსის შეზღუდვის პარამეტრების გახსნა">
 
 
-<!ENTITY protections.etpON.header "თვალთვალისგან გაძლიერებული დაცვა ჩართულია ამ საიტზე">
-<!ENTITY protections.etpOFF.header "თვალთვალისგან გაძლიერებული დაცვა გამორთულია ამ საიტზე">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "ვრცლად, თვალთვალისგან გაძლიერებული დაცვის შესახებ">
-<!ENTITY protections.settings.label "უსაფრთხოების პარამეტრები">
-<!ENTITY protections.showreport.label "ანგარიშის ნახვა">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "არ მუშაობს საიტი?">
-<!ENTITY protections.siteNotWorkingView.title "არ მუშაობს საიტი?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "გამორთეთ დაცვა, თუ რამე ხარვეზი აღინიშნება:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "ანგარიშის ველებზე">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "შესავსებ კითხვარებზე">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "გადახდებზე">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "გამოხმაურებებზე">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "ვიდეოებზე">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "მოგვახსენეთ">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "შეზღუდულია">
-<!ENTITY protections.notBlocking2.label "დაშვებულია">
-<!ENTITY protections.notFound.label "არ აღმოჩენილა">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "რატომ?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "მათი შეზღუდვის შედეგად, შესაძლოა საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშების შესაყვანი და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "ყველა მეთვალყურე ჩაიტვირთა ამ საიტზე, ვინაიდან დაცვა გამორთულია.">
-<!ENTITY protections.noTrackersFound.description "ამ გვერდზე მეთვალყურეები, რომელთაც &brandShortName; ცნობს, არ აღმოჩენილა.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "ეს ფუნთუშები თან დაგყვებათ საიტებზე და აგროვებს მონაცემებს, თუ რას აკეთებთ ინტერნეტში. მათ იყენებს გარეშე მხარეები, სარეკლამო და კვლევითი დაწესებულებები.">
-<!ENTITY protections.cryptominers.description "კრიპტოვალუტის გამომმუშავებლები სარგებლობს თქვენი სისტემის გამოთვლის სიმძლავრით ციფრული ფულის მოსაპოვებლად. ამგვარი კოდები ასუსტებს ბატარეას, ანელებს კომპიუტერს და ზრდის დენის დანახარჯს.">
-<!ENTITY protections.fingerprinters.description "მომხმარებლის ამომცნობები აგროვებს ბრაუზერისა და კომპიუტერის მონაცემებს, თქვენი დახასიათების შესადგენად. ამის შედეგად კი თქვენი სხვებისგან გამორჩევაა შესაძლებელი, სხვადასხვა საიტებზე.">
-<!ENTITY protections.trackingContent2.description "საიტები, ზოგჯერ გარე ბმულებიდან ტვირთავენ თვალის სადევნებელი კოდის შემცველ მასალას. მათი შეზღუდვით, საიტი უფრო სწრაფად ჩაიტვირთება, თუმცა ღილაკებმა, ანგარიშისა და სხვა შესავსებმა ველებმა, შეიძლება აღარ იმუშაოს.">
-<!ENTITY protections.socialMediaTrackers.description "სოციალური ქსელები ათავსებს მეთვალყურეებს სხვა საიტებზე, რომ თვალი გადევნონ ინტერნეტში. ეს საშუალებას აძლევს მათ მფლობელ დაწესებულებებს, იმაზე მეტი რამ შეიტყონ თქვენ შესახებ, ვიდრე ამ სოციალურ ქსელში გაქვთ გაზიარებული.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ბრაუზერის ჩანართები">
@@ -975,13 +928,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "ფუნთუშები">
 <!ENTITY contentBlocking.cookiesView.label "ფუნთუშები და საიტის მონაცემები">
 
-<!ENTITY contentBlocking.trackingProtection4.label "თვალის მდევნელი შიგთავსი">
-
-<!ENTITY contentBlocking.manageSettings2.label "დაცვის პარამეტრების მართვა">
-<!ENTITY contentBlocking.manageSettings2.accesskey "მ">
-
-<!ENTITY contentBlocking.socialblock.label "სოციალური ქსელის მეთვალყურეები">
-
 <!ENTITY contentBlocking.cryptominers.label "კრიპტოვალუტის გამომმუშავებლები">
 <!ENTITY contentBlocking.cryptominersView.label "კრიპტოვალუტის გამომმუშავებლები">
 
@@ -993,12 +939,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ &brandShortName; გავხადოთ უკეთესი ყველასთვის. (შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "იხილეთ ვრცლად">
 
-<!ENTITY contentBlocking.breakageReportView.title "მოხსენება დაზიანებულ საიტზე">
-<!ENTITY contentBlocking.breakageReportView3.description "შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ &brandShortName; გავხადოთ უკეთესი ყველასთვის. შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "ვრცლად">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "მისამართი">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "რა ხარვეზები აღმოაჩინეთ? (არასავალდებულო)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "არასავალდებულო: აღწერეთ ხარვეზი">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "მოხსენების გაგზავნა">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "გაუქმება">
 

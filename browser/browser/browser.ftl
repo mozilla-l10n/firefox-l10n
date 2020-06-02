@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (პირადი ფანჯარა)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (პირადი ფანჯარა)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (პირადი ფანჯარა)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (პირადი ფანჯარა)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -136,10 +138,12 @@ urlbar-midi-blocked =
     .tooltiptext = ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.
 urlbar-install-blocked =
     .tooltiptext = ამ საიტისთვის დამატების ჩადგმის უფლება შეზღუდული გაქვთ.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = სანიშნის ჩასწორება ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -170,12 +174,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = მოსაძიებლად, შეგიძლიათ გამოიყენოთ:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ძიების პარამეტრების შეცვლა
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ძიების პარამეტრების შეცვლა
+
 search-one-offs-context-open-new-tab =
     .label = ძიება ახალ ჩანართში
     .accesskey = ნ
@@ -191,8 +197,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = ჩასწორების შესაძლებლობა შენახვისას
     .accesskey = ჩ
+
 bookmark-panel-done-button =
     .label = მზადაა
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -274,6 +282,7 @@ popup-all-windows-shared = ეკრანზე ნაჩვენები ყ
 
 enable-devtools-popup-description = F12 მალსახმობის გამოსაყენებლად, ჯერ გახსენით DevTools, ვებშემუშავების მენიუდან.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -286,9 +295,11 @@ urlbar-permissions-granted =
     .tooltiptext = ამ საიტისთვის დამატებითი უფლებები გაქვთ მინიჭებული.
 urlbar-switch-to-tab =
     .value = გადასვლა ჩანართზე:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = გაფართოება:
+
 urlbar-go-button =
     .tooltiptext = მისამართზე გადასვლა
 urlbar-page-action-button =

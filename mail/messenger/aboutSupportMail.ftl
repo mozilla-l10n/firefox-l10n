@@ -16,3 +16,4 @@ accounts-default = ნაგულისხმევი?
 identity-name = მოწმობა
 
 send-via-email = ელფოსტით გაგზავნა
+
