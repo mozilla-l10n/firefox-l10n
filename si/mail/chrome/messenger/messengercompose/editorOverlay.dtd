@@ -290,6 +290,7 @@
 <!ENTITY findToolbarCmd.tooltip "පිටුවේ පාඨ සෙවීම">
 <!ENTITY spellToolbarCmd.label "අක්ෂර වින්‍යාසය">
 <!ENTITY spellToolbarCmd.tooltip "තෝරාගත් කොටාස් හෝ පිටුවේ අක්ෂර වින්‍යාසය පරීක්ෂා කිරීම">
+
 <!ENTITY imageToolbarCmd.label "රූප">
 <!ENTITY imageToolbarCmd.tooltip "නව රූපයක් ඇතුළු කිරීම හෝ කෝරාගත් රූපයක ලක්ෂණ සැකසීම">
 <!ENTITY hruleToolbarCmd.label "තිරස් රේඛාව">

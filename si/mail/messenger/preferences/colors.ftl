@@ -9,23 +9,32 @@ colors-dialog-window =
             [macos] width: 41em !important
            *[other] width: 38em !important
         }
+
 colors-dialog-legend = Text and Background
+
 text-color-label =
     .value = Text:
     .accesskey = t
+
 background-color-label =
     .value = Background:
     .accesskey = b
+
 use-system-colors =
     .label = Use system colors
     .accesskey = s
+
 colors-link-legend = Link Colors
+
 link-color-label =
     .value = Unvisited Links:
     .accesskey = l
+
 visited-link-color-label =
     .value = Visited Links:
     .accesskey = v
+
 underline-link-checkbox =
     .label = Underline links
     .accesskey = u
+

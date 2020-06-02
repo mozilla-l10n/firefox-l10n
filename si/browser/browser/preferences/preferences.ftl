@@ -303,8 +303,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ({ -brand-short-name } තුළ) භාවිතා කරන්න
-applications-preview-inapp =
-    .label = { -brand-short-name } තුළ පූර්‍ව දර්ශන කරන්න
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -318,9 +316,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -474,10 +469,15 @@ home-prefs-topsites-header =
     .label = ප්‍රමුඛ අඩවි
 home-prefs-topsites-description = ඔබ වැඩිපුරම පිවිසෙන අඩවි
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } විසින් නිර්දේශිතයි
+##
+
 home-prefs-recommended-by-learn-more = එය ක්‍රියාත්මක වන්නේ කෙසේද
 home-prefs-recommended-by-option-sponsored-stories =
     .label = අනුග්‍රාහක කතා
@@ -669,9 +669,9 @@ privacy-header = ගවේශන පුද්ගලිකත්වය
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = පිවිසුම් සහ මුරපද
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = පිවිසුම් සහ මුරපද

@@ -4,12 +4,16 @@
 
 system-integration-title =
     .title = පද්ධති ඒකාබද්ධ කිරීම
+
 system-integration-dialog =
     .buttonlabelaccept = Set as Default
     .buttonlabelcancel = Skip Integration
     .buttonlabelcancel2 = Cancel
+
 default-client-intro = { -brand-short-name } පෙරනිමි සේවාග්‍රාහකය ලෙස භාවිතා කරන්න:
+
 unset-default-tooltip = It is not possible to unset { -brand-short-name } as the default client within { -brand-short-name }. To make another application the default you must use its 'Set as default' dialog.
+
 checkbox-email-label =
     .label = වි.තැපැල්
     .tooltiptext = { unset-default-tooltip }
@@ -19,6 +23,7 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = පෝෂක
     .tooltiptext = { unset-default-tooltip }
+
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 system-search-engine-name =
@@ -27,9 +32,11 @@ system-search-engine-name =
         [windows] වින්ඩෝස් සෙවුම
        *[other] { "" }
     }
+
 system-search-integration-label =
     .label = { system-search-engine-name } ට ලිපි සෙවීමට ඉඩදෙන්න
     .accesskey = S
+
 check-on-startup-label =
     .label = { -brand-short-name } අරඹන විට මෙම පරීක්ෂාව කරන්න
     .accesskey = A
