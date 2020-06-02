@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = P
     .tooltiptext = Introduza o seu URL preferido para resolver DNS por HTTPS
 connection-dns-over-https-custom-label = Personalizado
+connection-dialog-window =
+    .title = Definições de ligação
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Configurar proxies para aceder à Internet
 proxy-type-no =
     .label = Sem proxy
@@ -60,3 +67,13 @@ no-proxy-label =
 no-proxy-example = Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24
 # Note: Do not translate localhost, 127.0.0.1 and ::1.
 no-proxy-localhost-label = O proxy nunca é utilizado em ligações para localhost, 127.0.0.1 e :: 1.
+proxy-password-prompt =
+    .label = Não solicitar autenticação se a palavra-passe estiver guardada
+    .accesskey = i
+    .tooltiptext = Esta opção autentica-lhe silenciosamente em proxies quando tem credenciais guardadas para os mesmos. Será solicitado(a) se a autenticação falhar.
+proxy-remote-dns =
+    .label = Proxy DNS ao utilizar SOCKS v5
+    .accesskey = d
+proxy-enable-doh =
+    .label = Ativar DNS por HTTPS
+    .accesskey = t
