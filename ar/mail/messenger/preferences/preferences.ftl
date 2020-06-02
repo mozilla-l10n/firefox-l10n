@@ -14,6 +14,9 @@ pane-general-title = عام
 pane-compose-title = التحرير
 category-compose =
     .tooltiptext = التحرير
+pane-privacy-title = الخصوصية و الأمان
+category-privacy =
+    .tooltiptext = الخصوصية و الأمان
 pane-chat-title = الدردشة
 category-chat =
     .tooltiptext = الدردشة
@@ -46,6 +49,7 @@ confirm-messenger-language-change-button = طبِّق وأعِد التشغيل
 update-pref-write-failure-title = فشلت الكتابة
 update-setting-write-failure-title = حدث عُطل أثناء تحديث التفضيلات
 update-in-progress-title = يجري الآن التحديث
+addons-button = الامتدادات والسمات
 
 ## OS Authentication dialog
 
@@ -444,6 +448,8 @@ keep-ask =
 cookies-button =
     .label = أظهِر الكعكات…
     .accesskey = ظ
+learn-button =
+    .label = اطّلع على المزيد
 passwords-description = يستطيع { -brand-short-name } تذكر معلومات كلمة السر لكل حساباتك لذا لن تحتاج إلى إعادة إدخال بيانات الولوج.
 passwords-button =
     .label = كلمات السر المحفوظة…
@@ -564,6 +570,8 @@ chat-browse-sound-button =
 theme-label =
     .value = السمة:
     .accesskey = س
+style-thunderbird =
+    .label = Thunderbird
 style-bubbles =
     .label = فقاعات
 style-dark =
