@@ -13,6 +13,14 @@ fonts-label-default-unnamed =
 
 ## Languages
 
+font-language-group-devanagari =
+    .label = Dévanágarí
+font-language-group-bengali =
+    .label = Bengálština
+font-language-group-gujarati =
+    .label = Gudžarátština
+font-language-group-gurmukhi =
+    .label = Gurmukhí
 
 ## Default font type
 
