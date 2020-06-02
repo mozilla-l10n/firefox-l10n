@@ -356,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "விருப்பமை…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "கருவிப்பட்டையை விருப்பமை...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
