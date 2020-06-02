@@ -14,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Kjeldekode for: ">
 
+<!ENTITY editMenu.label "Rediger">
+<!ENTITY editMenu.accesskey "R">
 <!ENTITY fileMenu.label "Fil">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Lagre sida som…">
@@ -86,4 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "Kopier e-postadresse">
 <!ENTITY copyEmailCmd.accesskey "E">
-

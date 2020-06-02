@@ -6,21 +6,30 @@
 
 <!ENTITY menu_securityEncryptRequire.label "Krypter denne meldinga">
 
+<!ENTITY menu_securityDoNotEncrypt.label "Ikkje krypter">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "k">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "Krev kryptering">
 <!ENTITY menu_securityEncryptRequire.accesskey "K">
 
 <!ENTITY menu_securitySign.label "Signer denne meldinga digitalt">
 <!ENTITY menu_securitySign.accesskey "S">
 
+<!ENTITY menu_securityAttachMyKey.label "Legg ved den offentlege nøkkelen min">
+<!ENTITY menu_securityAttachMyKey.accesskey "o">
 
+<!ENTITY menu_securityTech.label "Krypteringsteknologi">
+<!ENTITY menu_securityTech.accesskey "t">
 
 <!ENTITY menu_techPGP.label "OpenPGP">
 <!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Vis tryggingsinfo">
 <!ENTITY menu_securityStatus.accesskey "V">
