@@ -4,6 +4,7 @@
 
 notifications-dialog-window =
     .title = Prilagodi opozorilo o novi pošti
+customize-alert-description = Izberite, katera polja naj bodo prikazana v obvestilu z opozorilom:
 preview-text-checkbox =
     .label = Besedilo predogleda sporočila
     .accesskey = B
@@ -20,3 +21,8 @@ sender-checkbox =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = Prikaži opozorilo o novi pošti za
+    .accesskey = r
+open-time-label-after =
+    .value = sekund
