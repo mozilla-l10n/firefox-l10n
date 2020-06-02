@@ -10,6 +10,8 @@ fonts-label-default =
     .label = Zadani ({ $name })
 fonts-label-default-unnamed =
     .label = Zadani
+fonts-encoding-dialog-title =
+    .title = Fontovi i kodiranja
 fonts-language-legend =
     .value = Fontovi za:
     .accesskey = F
@@ -19,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latinicu
 font-language-group-japanese =
     .label = Japanski
 font-language-group-trad-chinese =
@@ -29,6 +34,8 @@ font-language-group-trad-chinese-hk =
     .label = Tradicionalni kineski (Hong Kong)
 font-language-group-korean =
     .label = Korejski
+font-language-group-cyrillic =
+    .label = Ćirilicu
 font-language-group-el =
     .label = Grčki
 font-language-group-other =
@@ -76,6 +83,10 @@ font-language-group-tibetan =
 
 ## Default font type
 
+default-font-serif =
+    .label = Serifni
+default-font-sans-serif =
+    .label = Bezserifni
 font-size-label =
     .value = Veličina:
     .accesskey = e
