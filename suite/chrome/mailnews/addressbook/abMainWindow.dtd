@@ -13,8 +13,8 @@
 <!ENTITY newContact.label                               "Kontakt…">
 <!ENTITY newContact.accesskey                           "K">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Sändlista…">
-<!ENTITY newListCmd.accesskey                           "l">
+<!ENTITY newListCmd.label                               "E-postlista…">
+<!ENTITY newListCmd.accesskey                           "e">
 <!ENTITY newAddressBookCmd.label                        "Adressbok…">
 <!ENTITY newAddressBookCmd.accesskey                    "b">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog…">
