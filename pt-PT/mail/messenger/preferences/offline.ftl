@@ -30,6 +30,7 @@ going-online-not =
 going-online-ask =
     .label = Perguntar
     .accesskey = P
+going-offline-label = Descarregar mensagens para utilização offline?
 going-offline-auto =
     .label = Sim
     .accesskey = i
