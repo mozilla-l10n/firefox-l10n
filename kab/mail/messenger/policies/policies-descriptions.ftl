@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 
 policy-InstallAddonsPermission = Sireg asebeddi n yizegrar i kra n yismal web.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Sireg ismal usdiden ad cudden ɣer yifuyla idiganen.
 
 policy-NetworkPrediction = Rmed neɣ sens tifin n yiẓeḍwa (taɣuri tuzwirt DNS)

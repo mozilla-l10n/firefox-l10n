@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-insecure-title = Ulac tuqqna taɣelsant
+
 about-httpsonly-button-make-exception = Qbel ugur syen kemmel ɣef usmel
 about-httpsonly-button-go-back = Uɣal ɣer deffir

@@ -10,15 +10,6 @@ remove-address-row-type = Kkes urti { $type }
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Urti n unekcum { $type } d ilem
-        [one] Urti n unekcum { $type } s yiwet n tensa
-       *[other] Urti n unekcum { $type } akked tensiwin { $count }
-    }
-
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
@@ -49,3 +40,4 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Awi ɣer unɣal uffir
     .accesskey = ɣ
+

@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Tabzimt tamaynut
+
 tag-name-label =
     .value = Isem n tebzimt:
     .accesskey = b

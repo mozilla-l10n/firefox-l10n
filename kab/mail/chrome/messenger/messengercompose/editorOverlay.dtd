@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Nadi aḍris deg usebter">
 <!ENTITY spellToolbarCmd.label "Mmel s usekkil">
 <!ENTITY spellToolbarCmd.tooltip "ṣeɣti taɣdira n ufran n usebter imeṛṛa">
+
 <!ENTITY imageToolbarCmd.label "Tugna">
 <!ENTITY imageToolbarCmd.tooltip "Ger tugna tamaynut neɣ ẓreg timeẓliyin n tugna yettwafernen">
 <!ENTITY hruleToolbarCmd.label "Izirig aglawan">

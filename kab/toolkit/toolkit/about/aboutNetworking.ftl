@@ -57,6 +57,7 @@ rcwn-avg-long = Talemmast ɣezzifet
 rcwn-std-dev-long = Amgared tizeɣt muqren
 rcwn-cache-slow = Amḍan n tuffirt ẓẓayen
 rcwn-cache-not-slow = Amdan n tuffirt ur nelli ẓẓayet
+
 about-networking-title = Talɣut ɣef uẓeṭṭa
 about-networking-http = HTTP
 about-networking-sockets = Igrudmawen
