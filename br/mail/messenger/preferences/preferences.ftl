@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Serriñ
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -104,6 +106,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Gweredekaat ar c'hlask hag an ibiliañ hollek
     .accesskey = h
+language-selector-legend = Yezh
 store-type-label =
     .value = Rizh Kadaviñ Kemennadenn evit kontoù nevez :
     .accesskey = R
@@ -143,6 +146,9 @@ return-receipts-description = Despizañ penaos e dornatao { -brand-short-name } 
 return-receipts-button =
     .label = Testenioù-degemer…
     .accesskey = r
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Handelv { $version }
 automatic-updates-label =
     .label = Staliañ an hizivadurioù ent emgefreek (erbedet : diogelroez gwellaet)
     .accesskey = e
@@ -511,6 +517,17 @@ notification-name =
     .label = gant anv ar c'haser nemetken
 notification-empty =
     .label = hep titour ebet
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Bevaat arlun an dock
+           *[other] Lakit da vlinkañ an elfenn e barrenn an drevellioù
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Seniñ ur son
     .accesskey = S
@@ -526,6 +543,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Furchal…
     .accesskey = F
+theme-label =
+    .value = Neuz:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Lagadennoù
+style-dark =
+    .label = Teñval
+style-paper =
+    .label = Follennoù paper
+style-simple =
+    .label = Eeun
+preview-label = Alberz:
+no-preview-label = Alberz ebet hegerz
+no-preview-description = N'eo ket mat an tem-mañ pe dihegerz emañ evit ar mare (mollad lazhet, mod sur, …).
+chat-variant-label =
+    .value = Variezon:
+    .accesskey = V
+chat-header-label =
+    .label = Diskouez talbenn
+    .accesskey = H
 
 ## Preferences UI Search Results
 
