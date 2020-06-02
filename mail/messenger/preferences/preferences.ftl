@@ -75,6 +75,7 @@ update-in-progress-ok-button = O&dbaci
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
+addons-button = Proširenja i motivi
 
 ## OS Authentication dialog
 
@@ -369,6 +370,8 @@ condensed-addresses-label =
 forward-label =
     .value = Proslijedi poruke:
     .accesskey = P
+inline-label =
+    .label = Ugrađeno
 as-attachment-label =
     .label = Kao privitak
 extension-label =
@@ -631,6 +634,9 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Odaberi…
     .accesskey = d
+theme-label =
+    .value = Motiv:
+    .accesskey = T
 style-thunderbird =
     .label = Thunderbird
 style-bubbles =
@@ -643,6 +649,7 @@ style-simple =
     .label = Jednostavno
 preview-label = Pregled:
 no-preview-label = Nema dostupnog pregleda
+no-preview-description = Ovaj motiv je neispravan ili trenutačno nedostupan (isključen dodatak, siguran način rada, …).
 chat-variant-label =
     .value = Varijanta:
     .accesskey = V
