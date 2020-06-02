@@ -87,12 +87,16 @@ use-cache-after = MB prostora za predpomnjenje.
 
 ##
 
+fonts-legend = Pisave in barve
 default-font-label =
     .value = Privzeta pisava:
     .accesskey = P
 default-size-label =
     .value = Velikost:
     .accesskey = V
+color-options-button =
+    .label = Barve …
+    .accesskey = B
 display-width-legend = Sporočila v golem besedilu
 style-label =
     .value = Slog:
@@ -123,9 +127,17 @@ auto-save-end = minut
 
 download-dictionaries-link = Prenesi dodatne slovarje
 autocomplete-description = Pri naslavljanju sporočil išči ustrezne vnose v:
+edit-directories-label =
+    .label = Uredi imenike …
+    .accesskey = U
+attachment-options-label =
+    .label = Ključne besede …
+    .accesskey = K
 
 ## Privacy Tab
 
+mail-content = Vsebina pošte
+web-content = Spletna vsebina
 passwords-description = { -brand-short-name } si lahko zapomni gesla za vse vaše račune.
 passwords-button =
     .label = Shranjena gesla …
@@ -147,6 +159,9 @@ master-password-label =
 
 ##
 
+chat-custom-sound-label =
+    .label = Uporabi naslednjo zvočno datoteko
+    .accesskey = U
 
 ## Preferences UI Search Results
 
