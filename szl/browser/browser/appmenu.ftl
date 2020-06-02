@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Ôchrōna prywatności
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ôdewrzij raport prywatności
+
 appmenuitem-customize-mode =
     .label = Przipasuj…
 

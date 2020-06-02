@@ -397,8 +397,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Użyj { $plugin-name } (we aplikacyji { -brand-short-name })
-applications-preview-inapp =
-    .label = Pokoż we aplikacyji { -brand-short-name }
 
 applications-open-inapp =
     .label = Ôdewrzij we aplikacyji { -brand-short-name }
@@ -415,9 +413,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
@@ -641,11 +636,16 @@ home-prefs-topsites-header =
     .label = Topowe strōny
 home-prefs-topsites-description = Strōny, co je nojczyńścij nawiydzosz
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Rykōmyndowane ôd { $provider }
 home-prefs-recommended-by-description = Super zawartość z cołkigo internetu zebrano ekstra do ciebie
+##
+
 home-prefs-recommended-by-learn-more = Jak to funguje
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Spōnsorowane nowiny
@@ -967,9 +967,9 @@ privacy-header = Prywatność przeglōndarki
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Dane logowanio i hasła
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Dane logowanio i hasła
@@ -1005,9 +1005,6 @@ forms-master-pw-fips-title = Jeżeś prawie w trybie FIPS, co potrzebuje niyprō
 forms-master-pw-fips-desc = Zmiana hasła sie niy podarziła
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Zweryfikuj swoja tożsamość, coby zrychtować głōwne hasło.
 
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -1211,7 +1208,6 @@ content-blocking-warning-title = Pozōr!
 content-blocking-warning-description = Skuli szperowanio zawartości niykere strōny mogōm niy fungować dobrze. Snadnie możesz wyłōnczyć szperowanie na strōnach, kierym wierzisz.
 content-blocking-learn-how = Przewiydz sie, jak
 
-content-blocking-etp-warning-description = Skuli szperowanio zawartości niykere strōny mogōm mieć gorszo funkcjōnalność. Przeladuj strōna ze załōnczōnymi śledzōncymi elymyntami, coby pokozać cołko zawartość.
 content-blocking-and-isolating-etp-warning-description = Skuli szperowanio zawartości niykere i izolowanio cookies strōny mogōm mieć gorszo funkcjōnalność. Przeladuj strōna ze załōnczōnymi śledzōncymi elymyntami, coby pokozać cołko zawartość.
 content-blocking-warning-learn-how = Przewiydz sie, jak
 
