@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Paçte kẽsejna)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Paçte kẽsejna)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Paçte kẽsejna)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Paçte kẽsejna)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -97,6 +99,7 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Nxu'pthena wẽdxnxisatx pakwenxisa's
+
 search-one-offs-context-open-new-tab =
     .label = U'se pakwen phadenxisatx
     .accesskey = U
@@ -172,5 +175,6 @@ urlbar-placeholder =
     .placeholder = Pakweya kĩimeeçxa takhnxi's u'kaya
 urlbar-switch-to-tab =
     .value = Yu'pteni's nxithni
+
 urlbar-go-button =
     .tooltiptext = Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh
