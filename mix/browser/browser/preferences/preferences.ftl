@@ -223,6 +223,12 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
+##
+
+
 home-prefs-highlights-option-visited-pages =
     .label = Páginas ntsinu
 
@@ -382,7 +388,6 @@ enhanced-tracking-protection-setting-custom =
     .accesskey = N
 
 ##
-
 
 ## Privacy Section - Tracking
 
