@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title-category = Kategorier
 dateformat-label =
     .value = Datum textformat:
     .accesskey = D
@@ -139,6 +140,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Använd standardljudet
     .accesskey = A
+reminder-custom-sound-label =
+    .label = Använd följande ljudfil
+    .accesskey = f
 reminder-browse-sound-label =
     .label = Bläddra…
     .accesskey = B
