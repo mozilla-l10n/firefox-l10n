@@ -5,6 +5,9 @@
 pane-general-title = Algemien
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Opstelle
+category-compose =
+    .tooltiptext = Opstelle
 general-language-and-appearance-header = Taal en Foarmjouwing
 general-incoming-mail-header = Ynkommende e-mailberjochten:
 general-files-and-attachment-header = Bestannen en Bylagen
@@ -72,6 +75,14 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+general-legend = { -brand-short-name }-startside
+new-message-arrival = As nije berjochten oankomme:
+mail-play-button =
+    .label = Ofspylje
+    .accesskey = f
+animated-alert-label =
+    .label = In melding toane
+    .accesskey = t
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
