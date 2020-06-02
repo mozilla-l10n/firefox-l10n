@@ -358,8 +358,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } वापरा ({ -brand-short-name } अंतर्गत)
-applications-preview-inapp =
-    .label = { -brand-short-name } अंतर्गत पूर्वदृश्य
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -373,9 +371,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -568,11 +563,16 @@ home-prefs-topsites-header =
     .label = शीर्ष साइट्स
 home-prefs-topsites-description = आपण सर्वाधिक भेट देता त्या साइट
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } तर्फे शिफारस
 home-prefs-recommended-by-description = आपल्यासाठी वैयक्तिकीकृत केलेल्या वेबवरील छान सामग्री
+##
+
 home-prefs-recommended-by-learn-more = हे कसे कार्य करते
 home-prefs-recommended-by-option-sponsored-stories =
     .label = प्रायोजित कथा
@@ -847,9 +847,9 @@ privacy-header = ब्राऊजर गोपनीयता
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = लॉगिन आणि पासवर्ड
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = लॉगिन आणि पासवर्ड

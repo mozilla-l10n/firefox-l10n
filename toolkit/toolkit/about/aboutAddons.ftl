@@ -415,8 +415,5 @@ dictionary-heading = शब्दकोश व्यवस्थापित क
 locale-heading = भाषा व्यवस्थापित करा
 shortcuts-heading = विस्तार शॉर्टकट व्यवस्थापित करा
 
-theme-heading-search-label = अधिक थीम शोधा
-extension-heading-search-label = अधिक विस्तार शोधा
-
 addon-page-options-button =
     .title = सर्व ॲड-ऑन्स् करीता साधने
