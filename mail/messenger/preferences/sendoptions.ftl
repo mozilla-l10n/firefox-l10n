@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Dewisiadau Anfon
 send-mail-title = Fformat Testun
+auto-downgrade-label =
+    .label = Anfon negeuon fel testun plaen os yn bosib
+    .accesskey = t
 default-html-format-label = Wrth anfon negeseuon mewn fformat HTML ac nad yw un neu fwy o'r derbynwyr wedi'u rhestru fel eu bod yn gallu derbyn HTML:
 html-format-ask =
     .label = Gofyn i mi beth i'w wneud
@@ -25,6 +28,7 @@ html-tab-label =
 plain-tab-label =
     .label = Parthau Testun Plaen
     .accesskey = P
+send-message-domain-label = Pan fyddwch yn anfon neges i gyfeiriad gydag un o'r enwau parth sydd wedi rhestri isod, bydd { -brand-short-name } yn anfon y neges yn ei fformat cywir yn awtomatig.
 add-domain-button =
     .label = Ychwanegu…
     .accesskey = Y

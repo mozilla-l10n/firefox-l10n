@@ -21,5 +21,8 @@ sender-checkbox =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = Dangos Rhybudd E-bost Newydd pob
+    .accesskey = N
 open-time-label-after =
     .value = eiliad
