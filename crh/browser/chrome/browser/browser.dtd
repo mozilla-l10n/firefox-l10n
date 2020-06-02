@@ -341,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Şahsiyleştir…">
 <!ENTITY viewCustomizeToolbar.accesskey     "L">
+
 <!ENTITY overflowCustomizeToolbar.label       "Alet Çubuğını Şahsiyleştir…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "s">
 

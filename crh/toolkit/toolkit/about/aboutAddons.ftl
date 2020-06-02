@@ -415,9 +415,6 @@ dictionary-heading = Luğatlarıñıznı İdare Etiñiz
 locale-heading = Tilleriñizni İdare Etiñiz
 shortcuts-heading = Eklenti Qısqa-yollarını İdare Etiñiz
 
-theme-heading-search-label = Daa çoq temalar tap
-extension-heading-search-label = Daa çoq eklentiler tap
-
 addons-heading-search-input =
     .placeholder = addons.mozilla.org’da qıdır
 

@@ -361,8 +361,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } qullan ({ -brand-short-name } içinde)
-applications-preview-inapp =
-    .label = { -brand-short-name } içinde Ög-baq
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -376,9 +374,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -568,11 +563,16 @@ home-prefs-topsites-header =
     .label = Eñ Üst Saytlar
 home-prefs-topsites-description = En çoq ziyaret etkeniñiz saytlar
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } tevsiyeli
 home-prefs-recommended-by-description = İnternet etrafından mükemmel muhteva, siziñ içün şahsiyleştirilgen
+##
+
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorlı Hikâyeler
 
@@ -815,9 +815,9 @@ privacy-header = Kezici Hususiyatı
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = İçeri İmzalanmalar ve Sır-sözler
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = İçeri İmzalanmalar ve Sır-sözler
