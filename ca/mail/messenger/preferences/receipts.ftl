@@ -4,6 +4,9 @@
 
 receipts-dialog-window =
     .title = Confirmacions de recepció
+return-receipt-checkbox =
+    .label = Quan s'enviïn missatges, sempre sol·licita una confirmació de recepció
+    .acceskey = Q
 receipt-arrive-label = Quan arribi una confirmació de recepció:
 receipt-leave-radio =
     .label = Deixa-la a la safata d'entrada
@@ -21,6 +24,10 @@ receipt-return-some-radio =
 receipt-not-to-cc =
     .value = Si no sóc a la part del missatge A o Cc:
     .acceskey = C
+receipt-send-never-label =
+    .label = No l'enviïs mai
+receipt-send-always-label =
+    .label = Envia-la sempre
 receipt-send-ask-label =
     .label = Demana-m'ho
 sender-outside-domain =

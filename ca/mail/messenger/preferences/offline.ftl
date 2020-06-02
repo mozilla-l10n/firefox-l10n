@@ -4,9 +4,22 @@
 
 offline-dialog-window =
     .title = Paràmetres de fora de línia
+autodetect-online-label =
+    .label = Segueix automàticament l'estat en línia detectat
+    .accesskey = d
+startup-label = Estat manual en iniciar-se:
 status-radio-remember =
     .label = Recorda l'estat en línia anterior
     .accesskey = R
+status-radio-ask =
+    .label = Pregunta'm l'estat en línia
+    .accesskey = P
+status-radio-always-online =
+    .label = En línia
+    .accesskey = l
+status-radio-always-offline =
+    .label = Fora de línia
+    .accesskey = F
 going-online-label = Voleu que s'enviïn els missatges per enviar en posar-se en línia?
 going-online-auto =
     .label = Sí
