@@ -4,6 +4,7 @@
 
 attachment-reminder-window =
     .title = Cuvinte cheie pentru verificarea lipsei atașamentelor
+attachment-reminder-label = { -brand-short-name } te va avertiza dacă ai uitat să atașezi fișierele pe baza cuvintelor-cheie de aici care sunt găsite în mesaj.
 keyword-new-button =
     .label = Nou…
     .accesskey = N
@@ -13,3 +14,7 @@ keyword-edit-button =
 keyword-remove-button =
     .label = Șterge
     .accesskey = t
+new-keyword-title = Cuvânt-cheie nou
+new-keyword-label = Cuvânt-cheie:
+edit-keyword-title = Editare cuvânt-cheie
+edit-keyword-label = Cuvânt-cheie:

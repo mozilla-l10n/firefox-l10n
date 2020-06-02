@@ -5,9 +5,15 @@
 notifications-dialog-window =
     .title = Personalizează alerta de mesaj nou
 customize-alert-description = Alege care câmpuri să fie afișate în notificare:
+preview-text-checkbox =
+    .label = Text de previzualizare a mesajului
+    .accesskey = m
 subject-checkbox =
     .label = Subiectul
     .accesskey = S
+sender-checkbox =
+    .label = Expeditor
+    .accesskey = E
 
 ## Note: open-time-label-before is displayed first, then there's a field where
 ## the user can enter a number, and open-time-label-after is displayed at the end

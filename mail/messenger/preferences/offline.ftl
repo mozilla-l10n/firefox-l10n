@@ -4,6 +4,9 @@
 
 offline-dialog-window =
     .title = Setări pentru lucrul offline
+autodetect-online-label =
+    .label = Urmărește automat starea online detectată
+    .accesskey = d
 startup-label = Starea manuală la pornire:
 status-radio-remember =
     .label = Memorează starea online precedentă
@@ -17,6 +20,7 @@ status-radio-always-online =
 status-radio-always-offline =
     .label = Offline
     .accesskey = f
+going-online-label = Vrei să se expedieze mesajele netrimise când lucrezi online?
 going-online-auto =
     .label = Da
     .accesskey = D
@@ -26,6 +30,7 @@ going-online-not =
 going-online-ask =
     .label = Întreabă-mă
     .accesskey = n
+going-offline-label = Vrei să descarci mesajele pentru utilizare offline?
 going-offline-auto =
     .label = Da
     .accesskey = D
