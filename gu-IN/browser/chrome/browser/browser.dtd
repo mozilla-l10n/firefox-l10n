@@ -358,6 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "વૈવિધ્યપૂર્ણ બનાવો...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "પોતાની રીતની સાધનપટ્ટી…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 

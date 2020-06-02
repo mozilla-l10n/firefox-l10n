@@ -406,9 +406,6 @@ dictionary-heading = તમારા શબ્દકોશોને સંચા
 locale-heading = તમારી ભાષાઓને સંચાલિત કરો
 shortcuts-heading = એક્સ્ટેંશન શૉર્ટકટ્સ મેનેજ કરો
 
-theme-heading-search-label = વધુ થીમ્સ શોધો
-extension-heading-search-label = વધુ એક્સ્ટેન્શન્સ શોધો
-
 addons-heading-search-input =
     .placeholder = addons.mozilla.org શોધો
 
