@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 calendar-title = Kalenteri
+calendar-title-reminder = Hälytykset
+calendar-title-category = Luokat
 dateformat-label =
     .value = Päiväystekstin formaatti:
     .accesskey = P
@@ -34,6 +36,8 @@ day-7-name =
 show-weeknumber-label =
     .label = Näytä viikkonumero näkymissä ja pienoiskuukaudessa
     .accesskey = ä
+workdays-label =
+    .value = Työviikon päivät:
 day-1-checkbox =
     .label = su
     .accesskey = s
@@ -103,6 +107,9 @@ soon-label =
     .value = Tulevat-osiossa näytetään:
     .accesskey = u
 event-task-legend = Tapahtumat ja tehtävät
+default-length-label =
+    .value = Oletustapahtuma ja tehtävän pituus:
+    .accesskey = o
 task-start-label =
     .value = Aloitusaika:
 task-start-1-label =
@@ -140,6 +147,9 @@ reminder-play-alarm-button =
 reminder-default-sound-label =
     .label = Käytä oletusääntä
     .accesskey = K
+reminder-custom-sound-label =
+    .label = Käytä seuraavaa äänitiedostoa
+    .accesskey = s
 reminder-browse-sound-label =
     .label = Selaa…
     .accesskey = S
