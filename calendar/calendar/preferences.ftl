@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Kalenteri
 dateformat-label =
     .value = Päiväystekstin formaatti:
     .accesskey = P
@@ -11,6 +12,8 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Lyhyt: { $date }
+timezone-label =
+    .value = Aikavyöhyke:
 weekstart-label =
     .value = Viikko alkaa:
     .accesskey = V
@@ -28,6 +31,9 @@ day-6-name =
     .label = perjantai
 day-7-name =
     .label = lauantai
+show-weeknumber-label =
+    .label = Näytä viikkonumero näkymissä ja pienoiskuukaudessa
+    .accesskey = ä
 day-1-checkbox =
     .label = su
     .accesskey = s
@@ -65,6 +71,9 @@ midnight-label =
     .label = keskiyöllä
 noon-label =
     .label = keskipäivällä
+location-checkbox =
+    .label = Näytä sijainti
+    .accesskey = j
 multiweek-legend = Moniviikkonäkymä
 number-of-weeks-label =
     .value = Näytettävien viikkojen määrä (sis. edelliset viikot):
@@ -86,6 +95,13 @@ week-6-label =
 previous-weeks-label =
     .value = Näytä edellisiä viikkoja:
     .accesskey = d
+todaypane-legend = Tänään-ruutu
+# Note: "Upcoming" is the name of a section and the translation must match the
+# translation of that section name (calendar.upcoming.button.label). Also,
+# it should be upper case (as a proper name) if the target language permits.
+soon-label =
+    .value = Tulevat-osiossa näytetään:
+    .accesskey = u
 task-start-label =
     .value = Aloitusaika:
 task-start-1-label =
@@ -114,6 +130,9 @@ reminder-legend = Kun hälytys käynnistyy:
 reminder-play-checkbox =
     .label = Anna äänimerkki
     .accesskey = A
+reminder-play-alarm-button =
+    .label = Toista
+    .accesskey = T
 reminder-default-sound-label =
     .label = Käytä oletusääntä
     .accesskey = K
