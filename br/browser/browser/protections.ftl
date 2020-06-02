@@ -71,9 +71,6 @@ fingerprinter-tab-content = An dinoerien roudoù niverel a zastum arventennoù h
 cryptominer-tab-title = Kriptogleuzerien
 cryptominer-tab-content = Gant ar c'hriptogleuzerien e vez implijet gallout jediñ ho reizhiad evit kleuziañ arc'hant niverel. Skriptoù kriptogleuziañ a implij kalz ho patiri, a c'horreka hoc'h urzhiataer hag a lak ho fakturenn tredan da vezañ keroc'h. <a data-l10n-name="learn-more-link">Gouzout hiroc'h</a>
 
-protections-close-button =
-    .aria-label = Serriñ
-
 protections-close-button2 =
     .aria-label = Serriñ
     .title = Serriñ

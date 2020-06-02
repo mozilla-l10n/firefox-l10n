@@ -4,6 +4,7 @@
 
 tag-dialog-window =
     .title = Klav nevez
+
 tag-name-label =
     .value = Anv ar merk :
     .accesskey = m

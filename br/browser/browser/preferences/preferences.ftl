@@ -390,8 +390,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Arverañ { $plugin-name } (e { -brand-short-name })
-applications-preview-inapp =
-    .label = Alberz e { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -405,9 +403,6 @@ applications-action-save-label =
 
 applications-use-app-label =
     .value = { applications-use-app.label }
-
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 
 applications-always-ask-label =
     .value = { applications-always-ask.label }
@@ -623,11 +618,16 @@ home-prefs-topsites-header =
     .label = Lec'hiennoù gwellañ
 home-prefs-topsites-description = Al lec'hiennoù a weladennit ar muiañ
 
+## Variables:
+##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Erbedet gant { $provider }
 home-prefs-recommended-by-description = Danvez eus an dibab eus pep lec'h er web, personelaet evidoc'h
+##
+
 home-prefs-recommended-by-learn-more = Penaos ez a en-dro
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Istorioù kevelet
@@ -951,9 +951,9 @@ privacy-header = Prevezted ar merdeer
 ## Privacy Section - Forms
 
 
-## Privacy Section - Logins and Passwords
-
 logins-header = Titouroù kennaskañ
+
+## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Titouroù kennaskañ
@@ -1186,7 +1186,6 @@ content-blocking-warning-title = Diwallit!
 content-blocking-warning-description = Stankañ endalc'hadoù a c'hall lakaat lec'hiennoù 'zo da vont en-dro a-dreuz. Aes eo diweredekaat ar stankadur evit al lec'hiennoù ho peus fiziañs eno.
 content-blocking-learn-how = Deskit penaos
 
-content-blocking-etp-warning-description = Stankañ an heulierien a c'hallfe kaout un efed war implij lec'hiennoù 'zo. Adkargit ur bajenn gant an heulierien evit kargañ pep tra.
 content-blocking-warning-learn-how = Deskit penaos
 
 content-blocking-reload-description = Ezhomm ho po da adkargañ hoc'h ivinelloù evit arloañ ar c'hemmoù.

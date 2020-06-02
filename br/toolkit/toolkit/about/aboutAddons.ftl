@@ -573,9 +573,6 @@ updates-heading = Merañ ho hizivadurioù
 discover-heading = Personelait ho { -brand-short-name }
 shortcuts-heading = Merañ berradennoù an askouezhioù
 
-theme-heading-search-label = Kaout muioc'h a neuzioù
-extension-heading-search-label = Kavout muioc'h a askouezhioù
-
 default-heading-search-label = Kavout muioc'h a askouezhioù
 addons-heading-search-input =
     .placeholder = Klask war addons.mozilla.org

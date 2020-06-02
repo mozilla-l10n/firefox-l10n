@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Munudoù an arload
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Dilemel
     .accesskey = D

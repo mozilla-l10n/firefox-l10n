@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Kavout testenn war ar bajenn">
 <!ENTITY spellToolbarCmd.label "Reizhskrivañ">
 <!ENTITY spellToolbarCmd.tooltip "Gwiriañ reizhskrivañ an diuzad pe ar bajennad a-bezh">
+
 <!ENTITY imageToolbarCmd.label "Skeudenn">
 <!ENTITY imageToolbarCmd.tooltip "Enlakaat ur skeudenn nevez pe embann perzhioù ar skeudenn diuzet">
 <!ENTITY hruleToolbarCmd.label "Linenn a-blaen">
