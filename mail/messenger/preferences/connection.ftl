@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = P
     .tooltiptext = Introducir su URL preferida para resolver DNS sobre HTTPS
 connection-dns-over-https-custom-label = Personalizado
+connection-dialog-window =
+    .title = Configuración de conexión
+    .style =
+        { PLATFORM() ->
+            [macos] width: 52em !important
+           *[other] width: 59em !important
+        }
 connection-proxy-legend = Configurar proxies para el acceso a Internet
 proxy-type-no =
     .label = Sin proxy
@@ -39,6 +46,9 @@ ssl-port-label =
 proxy-socks-label =
     .value = Servidor SOCKS:
     .accesskey = c
+socks-port-label =
+    .value = Puerto:
+    .accesskey = e
 proxy-socks4-label =
     .label = SOCKS v4
     .accesskey = k
@@ -55,3 +65,13 @@ no-proxy-label =
     .value = No usar proxy para:
     .accesskey = n
 no-proxy-example = Ejemplo: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = No solicitar identificación si la contraseña está guardada
+    .accesskey = d
+    .tooltiptext = Esta opción le identifica sin ningún mensaje ante los proxis cuando ha guardado credenciales para ellos. Se le preguntará en caso de que falle el inicio de sesión.
+proxy-remote-dns =
+    .label = DNS proxy al usar SOCKS v5
+    .accesskey = 5
+proxy-enable-doh =
+    .label = Activar DNS sobre HTTPS
+    .accesskey = v
