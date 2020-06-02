@@ -4,6 +4,7 @@
 
 calendar-title = Calendario
 calendar-title-reminder = Promemoria
+calendar-title-category = Categorie
 dateformat-label =
     .value = Formato testo data:
     .accesskey = F
