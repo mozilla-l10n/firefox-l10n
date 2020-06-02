@@ -17,3 +17,4 @@ count-unread-messages-radio =
 count-new-messages-radio =
     .label = 새 메시지 개수
     .accesskey = n
+notification-settings-info = 시스템 설정의 알림 창에서 배지표시를 끌 수 있습니다.
