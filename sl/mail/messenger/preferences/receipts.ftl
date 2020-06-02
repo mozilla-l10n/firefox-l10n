@@ -5,3 +5,4 @@
 receipts-dialog-window =
     .title = Povratnice
 receipt-arrive-label = Ko povratnica prispe:
+receipt-request-label = Kadar pride zahteva za povratnico:
