@@ -5,6 +5,7 @@
 system-integration-title =
     .title = Systemintegration
 default-client-intro = Brug { -brand-short-name } som standardprogram til:
+unset-default-tooltip = Det er ikke muligt at angive et andet standardprogram end { -brand-short-name } inde fra { -brand-short-name }. For at angive et andet standardprogram skal du gå ind i det ønskede program og der angive, at det skal bruges som standard.
 checkbox-email-label =
     .label = Mail
     .tooltiptext = { unset-default-tooltip }
@@ -22,3 +23,6 @@ system-search-engine-name =
         [windows] Windows Søgning
        *[other] { "" }
     }
+system-search-integration-label =
+    .label = Tillad { system-search-engine-name } at søge i meddelelser
+    .accesskey = S
