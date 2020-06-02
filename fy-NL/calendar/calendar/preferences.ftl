@@ -1,0 +1,56 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+day-1-name =
+    .label = snein
+day-3-name =
+    .label = tiisdei
+day-4-name =
+    .label = woansdei
+day-5-name =
+    .label = tongersdei
+day-6-name =
+    .label = freed
+day-7-name =
+    .label = sneon
+day-2-checkbox =
+    .label = moa
+    .accesskey = m
+day-3-checkbox =
+    .label = tii
+    .accesskey = t
+day-4-checkbox =
+    .label = woa
+    .accesskey = w
+day-5-checkbox =
+    .label = ton
+    .accesskey = o
+day-6-checkbox =
+    .label = fre
+    .accesskey = f
+midnight-label =
+    .label = Middernacht
+noon-label =
+    .label = Middei
+reminder-legend = As in alarm ôfgiet:
+reminder-play-checkbox =
+    .label = In lûd ôfspylje
+    .accesskey = p
+reminder-dialog-label =
+    .label = In alarmfinster toane
+    .accesskey = t
+event-alarm-label =
+    .value = Standert alarmynstelling foar barren:
+    .accesskey = l
+alarm-on-label =
+    .label = Oan
+alarm-off-label =
+    .label = Ut
+task-alarm-label =
+    .value = Standert alarmynstelling foar taken:
+    .accesskey = k
+event-alarm-time-label =
+    .value = Standert tiid foarôfgeand oan in barren wêrop in alarm ferskynt:
+    .accesskey = b
+category-overwrite-title = Warskôging: dûbele namme
