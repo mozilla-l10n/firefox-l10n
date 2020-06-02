@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = P
     .tooltiptext = Sartu zure gogoko URL HTTPSn DNSak ebazteko
 connection-dns-over-https-custom-label = Pertsonalizatua
+connection-dialog-window =
+    .title = Konexio-ezarpenak
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Konfiguratu Internet atzitzeko proxy-ak
 proxy-type-no =
     .label = Proxy-rik ez
@@ -58,3 +65,10 @@ no-proxy-label =
     .value = Proxy-rik ez hauentzat:
     .accesskey = n
 no-proxy-example = Adibidez: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = Ez eskatu autentifikaziorik pasahitza gordeta badago
+    .accesskey = i
+    .tooltiptext = Aukera honek proxietarako autentifikazioa isilean burutzen du hauentzat kredentzialak gorde dituzunean. Autentifikazioak huts egiten badu, eskatu egingo zaizu.
+proxy-remote-dns =
+    .label = Bideratu DNSa proxy bidez SOCKS v5 erabiltzean
+    .accesskey = d
