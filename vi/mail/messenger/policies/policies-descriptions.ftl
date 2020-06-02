@@ -80,6 +80,10 @@ policy-HardwareAcceleration = Nếu sai, tắt tăng tốc phần cứng.
 
 policy-InstallAddonsPermission = Cho phép các trang web nhất định để cài đặt tiện ích.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-LocalFileLinks = Cho phép các trang web cụ thể để liên kết đến các tập tin cục bộ.
 
 policy-NetworkPrediction = Kích hoạt hoặc vô hiệu hóa dự đoán mạng (tìm nạp trước DNS).

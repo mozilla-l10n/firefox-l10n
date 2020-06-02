@@ -285,10 +285,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Bạn đã chặn quyền truy cập MIDI của trang web này.">
 <!ENTITY urlbar.installBlocked.tooltip           "Bạn đã chặn cài đặt tiện ích cho trang web này.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Bạn đã cấp cho trang web này các quyền bổ sung.">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Xem lịch sử">
+
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Bạn đã cấp cho trang web này các quyền bổ sung.">
 
 
 <!ENTITY searchItem.title             "Tìm kiếm">
@@ -403,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Tùy biến…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+
 <!ENTITY overflowCustomizeToolbar.label       "Tùy biến thanh công cụ…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
@@ -883,54 +884,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Mở tùy chọn chặn nội dung">
 
 
-<!ENTITY protections.etpON.header "Trình chống theo dõi nâng cao đã được BẬT cho trang này">
-<!ENTITY protections.etpOFF.header "Trình chống theo dõi nâng cao đã bị TẮT cho trang này">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Thông tin thêm về trình chống theo dõi nâng cao">
-<!ENTITY protections.settings.label "Cài đặt bảo vệ">
-<!ENTITY protections.showreport.label "Hiển thị báo cáo">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Trang web không hoạt động?">
-<!ENTITY protections.siteNotWorkingView.title "Trang web không hoạt động?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Tắt bảo vệ nếu bạn có vấn đề với:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Trường đăng nhập">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Biểu mẫu">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Thanh toán">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Bình luận">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Video">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Gửi báo cáo">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Đã chặn">
-<!ENTITY protections.notBlocking2.label "Đã cho phép">
-<!ENTITY protections.notFound.label "Không phát hiện">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Tại sao?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Chặn những thứ này có thể phá vỡ các yếu tố của một số trang web. Không có trình theo dõi, một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Tất cả các trình theo dõi trên trang web này đã được tải vì bảo vệ bị tắt.">
-<!ENTITY protections.noTrackersFound.description "&brandShortName; không phát hiện ra trình theo dõi đã biết trên trang này.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Những cookie này theo bạn từ trang này sang trang khác để thu thập dữ liệu về những gì bạn làm trực tuyến. Chúng được đặt bởi các bên thứ ba như nhà quảng cáo và công ty phân tích.">
-<!ENTITY protections.cryptominers.description "Tiền điện tử sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn.">
-<!ENTITY protections.fingerprinters.description "Dấu vân tay thu thập cài đặt từ trình duyệt và máy tính của bạn để tạo hồ sơ về bạn. Sử dụng dấu vân tay kỹ thuật số này, họ có thể theo dõi bạn trên các trang web khác nhau.">
-<!ENTITY protections.trackingContent2.description "Trang web có thể tải quảng cáo bên ngoài, video và nội dung khác với đoạn mã theo dõi. Chặn nội dung theo dõi có thể giúp các trang web tải nhanh hơn, nhưng một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.">
-<!ENTITY protections.socialMediaTrackers.description "Mạng xã hội đặt trình theo dõi trên các trang web khác để theo dõi những gì bạn làm, xem và xem trực tuyến. Điều này cho phép các công ty truyền thông xã hội tìm hiểu thêm về bạn ngoài những gì bạn chia sẻ trên hồ sơ truyền thông xã hội của mình.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Thẻ trình duyệt">
@@ -975,13 +928,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie và dữ liệu trang">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Trình theo dõi nội dung">
-
-<!ENTITY contentBlocking.manageSettings2.label "Quản lý cài đặt bảo vệ">
-<!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
-<!ENTITY contentBlocking.socialblock.label "Trình theo dõi truyền thông xã hội">
-
 <!ENTITY contentBlocking.cryptominers.label "Tiền điện tử">
 <!ENTITY contentBlocking.cryptominersView.label "Tiền điện tử">
 
@@ -993,12 +939,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Chặn nội dung có thể gây ra sự cố với một số trang web. Khi bạn báo cáo sự cố, bạn sẽ giúp tạo &brandShortName; tốt hơn cho mọi người. (Thao tác này sẽ gửi URL cũng như thông tin về cài đặt trình duyệt của bạn tới Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Tìm hiểu thêm">
 
-<!ENTITY contentBlocking.breakageReportView.title "Báo cáo một trang web bị hỏng">
-<!ENTITY contentBlocking.breakageReportView3.description "Chặn một số trình theo dõi nhất định có thể gây ra vấn đề với một số trang web. Báo cáo những vấn đề này giúp tạo &brandShortName; tốt hơn cho mọi người. Gửi báo cáo này sẽ gửi một URL và thông tin về cài đặt trình duyệt của bạn đến Mozilla.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Tìm hiểu thêm">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Những lỗi bạn đã gặp phải là gì? (không bắt buộc)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Tùy chọn: Mô tả vấn đề">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Gửi báo cáo">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Hủy bỏ">
 

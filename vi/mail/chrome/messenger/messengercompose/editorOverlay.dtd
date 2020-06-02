@@ -294,6 +294,7 @@
 <!ENTITY findToolbarCmd.tooltip "Tìm văn bản trong trang">
 <!ENTITY spellToolbarCmd.label "Chính tả">
 <!ENTITY spellToolbarCmd.tooltip "Kiểm tra chính tả của phần đã chọn hoặc toàn bộ trang">
+
 <!ENTITY imageToolbarCmd.label "Hình">
 <!ENTITY imageToolbarCmd.tooltip "Chèn hình mới hoặc chỉnh sửa thuộc tính của hình">
 <!ENTITY hruleToolbarCmd.label "Đ.Ngang">
