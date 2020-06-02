@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = Π
     .tooltiptext = Εισάγετε το προτιμώμενο URL για επίλυση DNS αντί HTTPS
 connection-dns-over-https-custom-label = Προσαρμοσμένο
+connection-dialog-window =
+    .title = Ρυθμίσεις σύνδεσης
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Ρύθμιση διαμεσολαβητών για την πρόσβαση στο διαδίκτυο
 proxy-type-no =
     .label = Χωρίς διαμεσολαβητή
@@ -66,3 +73,6 @@ no-proxy-label =
 no-proxy-example = Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24
 # Note: Do not translate localhost, 127.0.0.1 and ::1.
 no-proxy-localhost-label = Συνδέσεις στο localhost, 127.0.0.1 και ::1 δεν περνούν ποτέ μέσω διαμεσολαβητή.
+proxy-remote-dns =
+    .label = Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5
+    .accesskey = d
