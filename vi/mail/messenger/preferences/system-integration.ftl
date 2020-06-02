@@ -4,12 +4,20 @@
 
 system-integration-title =
     .title = Tích hợp Hệ thống
+system-integration-dialog =
+    .buttonlabelaccept = Đặt làm mặc định
+    .buttonlabelcancel = Bỏ qua tích hợp
+    .buttonlabelcancel2 = Hủy bỏ
 default-client-intro = Dùng { -brand-short-name } làm chương trình mặc định cho:
+unset-default-tooltip = Không thể bỏ đặt { -brand-short-name } là ứng dụng khách mặc định trong { -brand-short-name }. Để đặt ứng dụng khác thành mặc định, bạn phải sử dụng hộp thoại 'Đặt làm mặc định'.
 checkbox-email-label =
     .label = Thư điện tử (E-Mail)
     .tooltiptext = { unset-default-tooltip }
 checkbox-newsgroups-label =
     .label = Nhóm tin
+    .tooltiptext = { unset-default-tooltip }
+checkbox-feeds-label =
+    .label = Nguồn cấp
     .tooltiptext = { unset-default-tooltip }
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
