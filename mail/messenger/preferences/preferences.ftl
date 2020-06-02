@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = 關閉
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -14,6 +16,9 @@ category-general =
 pane-compose-title = 編輯
 category-compose =
     .tooltiptext = 編輯
+pane-privacy-title = 隱私權與安全性
+category-privacy =
+    .tooltiptext = 隱私權與安全性
 pane-chat-title = 聊天
 category-chat =
     .tooltiptext = 聊天
@@ -70,6 +75,7 @@ update-in-progress-ok-button = 捨棄 (&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 繼續 (&C)
+addons-button = 擴充套件和佈景主題
 
 ## OS Authentication dialog
 
@@ -102,7 +108,27 @@ restore-default-label =
     .label = 回復預設值
     .accesskey = R
 default-search-engine = 預設搜尋引擎
+add-search-engine =
+    .label = 從檔案新增
+    .accesskey = A
+remove-search-engine =
+    .label = 移除
+    .accesskey = v
+minimize-to-tray-label =
+    .label = 最小化 { -brand-short-name } 時，移動到工具列
+    .accesskey = m
 new-message-arrival = 當有新郵件時:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] 播放下列音效檔案:
+           *[other] 播放音效
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] d
+        }
 mail-play-button =
     .label = 播放
     .accesskey = P
@@ -110,6 +136,7 @@ change-dock-icon = 修改應用程式圖示的偏好設定
 app-icon-options =
     .label = 應用程式圖示選項…
     .accesskey = n
+notification-settings = 可在系統偏好設定的通知窗格中關閉警示與預設音效。
 animated-alert-label =
     .label = 顯示警告視窗
     .accesskey = S
@@ -128,6 +155,8 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = 開啟全域搜尋與索引器
     .accesskey = E
+datetime-formatting-legend = 日期與時間格式
+language-selector-legend = 語言
 allow-hw-accel =
     .label = 可用時開啟硬體加速
     .accesskey = h
@@ -152,6 +181,14 @@ always-check-default =
 check-default-button =
     .label = 立刻檢查…
     .accesskey = N
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Spotlight
+        [windows] Windows 搜尋
+       *[other] { "" }
+    }
 search-integration-label =
     .label = 允許 { search-engine-name } 搜尋訊息
     .accesskey = s
@@ -162,6 +199,11 @@ return-receipts-description = 決定 { -brand-short-name } 要如何處理收件
 return-receipts-button =
     .label = 收件回執…
     .accesskey = R
+update-app-legend = { -brand-short-name } 更新
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = { $version } 版
+allow-description = 讓 { -brand-short-name }:
 automatic-updates-label =
     .label = 自動安裝更新（建議的，保持安全性）
     .accesskey = A
@@ -174,6 +216,7 @@ update-history-button =
 use-service =
     .label = 在背景服務當中安裝更新
     .accesskey = b
+cross-user-udpate-warning = 此設定將套用到本電腦上的所有 Windows 帳號及此份 { -brand-short-name } 的所有 { -brand-short-name } 設定檔。
 networking-legend = 連線
 proxy-config-description = 設定 { -brand-short-name } 要如何連到網路
 network-settings-button =
@@ -202,6 +245,9 @@ use-cache-after = MB 磁碟空間存放快取資料
 
 ##
 
+smart-cache-label =
+    .label = 停用自動快取管理
+    .accesskey = v
 clear-cache-button =
     .label = 立刻清除
     .accesskey = C
@@ -273,6 +319,12 @@ always-ask-label =
     .label = 每次都問我要存到何處
     .accesskey = A
 display-tags-text = 標籤可以用來分類或排出郵件的優先順序。
+new-tag-button =
+    .label = 新增…
+    .accesskey = N
+edit-tag-button =
+    .label = 編輯…
+    .accesskey = E
 delete-tag-button =
     .label = 刪除
     .accesskey = D
@@ -307,6 +359,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = 在移動或刪除郵件時關閉訊息視窗/分頁
     .accesskey = C
+display-name-label =
+    .value = 顯示名稱:
 condensed-addresses-label =
     .label = 顯示通訊錄裡設定的名字
     .accesskey = S
@@ -334,6 +388,9 @@ auto-save-end = 分鐘自動儲存
 
 ##
 
+warn-on-send-accel-key =
+    .label = 用快速鍵發送郵件時需要確認
+    .accesskey = C
 spellcheck-label =
     .label = 寄送前先檢查拼字
     .accesskey = C
@@ -347,6 +404,12 @@ download-dictionaries-link = 下載其他字典
 font-label =
     .value = 字型:
     .accesskey = n
+font-size-label =
+    .value = 大小:
+    .accesskey = z
+default-colors-label =
+    .label = 使用閱讀器的預設色彩
+    .accesskey = d
 font-color-label =
     .value = 文字色彩:
     .accesskey = T
@@ -378,6 +441,11 @@ edit-directories-label =
 email-picker-label =
     .label = 自動把寄信時使用的電子郵件地址加到我的:
     .accesskey = A
+default-directory-label =
+    .value = 通訊錄視窗開啟時的預設目錄:
+    .accesskey = S
+default-last-label =
+    .none = 最近使用的目錄
 attachment-label =
     .label = 檢查遺失的附件
     .accesskey = m
@@ -388,9 +456,15 @@ enable-cloud-share =
     .label = 檔案超過一定大小時使用雲端鏈結服務:
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = 新增…
+    .accesskey = A
+    .defaultlabel = 新增…
 remove-cloud-account =
     .label = 移除
     .accesskey = R
+find-cloud-providers =
+    .value = 尋找更多供應商…
 cloud-account-description = 新增雲端檔案鏈結儲存服務
 
 ## Privacy Tab
@@ -432,6 +506,11 @@ keep-ask =
 cookies-button =
     .label = 顯示 Cookie…
     .accesskey = S
+do-not-track-label =
+    .label = 傳送「Do Not Track」訊號，告訴網站您不想被追蹤
+    .accesskey = n
+learn-button =
+    .label = 了解更多
 passwords-description = { -brand-short-name } 可以幫您記住所有帳號的密碼。
 passwords-button =
     .label = 已存密碼…
@@ -443,6 +522,7 @@ master-password-label =
 master-password-button =
     .label = 變更主控密碼…
     .accesskey = c
+junk-description = 設定您的預設垃圾郵件處理方式。可以到「帳號設定」調整各個帳號自己的處理方式。
 junk-label =
     .label = 當標示郵件為垃圾信時:
     .accesskey = W
@@ -482,6 +562,12 @@ certificate-ask =
 ocsp-label =
     .label = 向 OCSP 回應伺服器查詢，以確認憑證有效性
     .accesskey = Q
+certificate-button =
+    .label = 管理憑證…
+    .accesskey = M
+security-devices-button =
+    .label = 安全性裝置…
+    .accesskey = D
 
 ## Chat Tab
 
@@ -522,6 +608,17 @@ notification-name =
     .label = 只有寄件者名稱
 notification-empty =
     .label = 不顯示任何資訊
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] 在 dock 圖示顯示動畫
+           *[other] 閃爍工具列項目
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = 播放音效
     .accesskey = d
@@ -537,6 +634,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = 瀏覽…
     .accesskey = B
+theme-label =
+    .value = 佈景主題:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = 泡泡
+style-dark =
+    .label = 暗色
+style-paper =
+    .label = 紙張
+style-simple =
+    .label = 簡單
+preview-label = 預覽:
+no-preview-label = 沒有可用預覽
+no-preview-description = 此佈景主題無效，或無法使用（停用了附加元件、處於安全模式等等）。
+chat-variant-label =
+    .value = 動態:
+    .accesskey = V
+chat-header-label =
+    .label = 顯示標題
+    .accesskey = H
 
 ## Preferences UI Search Results
 
