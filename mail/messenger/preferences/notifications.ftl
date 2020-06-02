@@ -8,6 +8,9 @@ customize-alert-description = Ընտրել ցուցադրվելիք դաշտեր
 preview-text-checkbox =
     .label = Նախն. դիտման տեքստը
     .accesskey = M
+subject-checkbox =
+    .label = Վերնագիր
+    .accesskey = Վ
 sender-checkbox =
     .label = Ուղարկողը
     .accesskey = e
@@ -18,5 +21,8 @@ sender-checkbox =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = Ցուցադրել նոր նամակի մասին
+    .accesskey = ն
 open-time-label-after =
     .value = վայրկյան

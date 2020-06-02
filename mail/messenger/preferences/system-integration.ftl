@@ -13,6 +13,9 @@ unset-default-tooltip = It is not possible to unset { -brand-short-name } as the
 checkbox-email-label =
     .label = Էլ. նամակ
     .tooltiptext = { unset-default-tooltip }
+checkbox-newsgroups-label =
+    .label = Լուրախմբեր
+    .tooltiptext = { unset-default-tooltip }
 checkbox-feeds-label =
     .label = Շղթաների
     .tooltiptext = { unset-default-tooltip }
@@ -24,6 +27,9 @@ system-search-engine-name =
         [windows] Windows Search
        *[other] { "" }
     }
+system-search-integration-label =
+    .label = Թույլատրել { system-search-engine-name }-ին որոնել նամակներ
+    .accesskey = s
 check-on-startup-label =
     .label = { -brand-short-name }-ը բացելիս միշտ ստուգել այս ընտրությունը։
     .accesskey = A
