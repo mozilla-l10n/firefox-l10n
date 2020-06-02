@@ -4,6 +4,7 @@
 
 calendar-title = Օրացույց
 calendar-title-reminder = Հիշեցումներ
+calendar-title-category = Անվանակարգեր
 dateformat-label =
     .value = Ամսաթվի գրույթի ձևաչափ․
     .accesskey = D
@@ -129,6 +130,9 @@ task-start-8-label =
     .label = Հարաբերական է հաջորդ ժամին
 task-due-label =
     .value = Վերջնաժամկետ՝
+edit-intab-label =
+    .label = Խմբագրել իրադարձությունները և առաջադրանքները ներդիրում՝ երկխոսության պատուհանի փոխարեն։
+    .accesskey = t
 accessibility-legend = Մատչելիություն
 accessibility-colors-label =
     .label = Հարմարեցնել գույները մատչելիության համար
