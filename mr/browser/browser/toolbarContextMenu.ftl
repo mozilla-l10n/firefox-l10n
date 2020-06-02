@@ -20,18 +20,21 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = टॅब बंद करणे पूर्ववत् करा
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = एक्सटेन्शन व्यवस्थापित करा
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = विस्तार काढा
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = विस्ताराची तक्रार करा
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
