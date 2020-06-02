@@ -235,6 +235,7 @@
 <!ENTITY findToolbarCmd.tooltip "Wanani ḽiṅwalwa kha heḽi siaṱari">
 <!ENTITY spellToolbarCmd.label "Peḽeṱani">
 <!ENTITY spellToolbarCmd.tooltip "Ṱolani mupeḽeṱo wa zwo nangiwaho kana siaṱari ḽoṱhe">
+
 <!ENTITY imageToolbarCmd.label "Tshivhumbeo">
 <!ENTITY imageToolbarCmd.tooltip "Dzhenisani siaṱari ḽiswa kana vhuvha ha tshivhumbeo tsho nangiwaho">
 <!ENTITY hruleToolbarCmd.label "H. Ḽaini">
