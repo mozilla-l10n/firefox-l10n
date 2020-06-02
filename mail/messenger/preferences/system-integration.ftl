@@ -4,7 +4,12 @@
 
 system-integration-title =
     .title = Systemintegration
+system-integration-dialog =
+    .buttonlabelaccept = Als Standard festlegen
+    .buttonlabelcancel = Integration überspringen
+    .buttonlabelcancel2 = Abbrechen
 default-client-intro = { -brand-short-name } als Standard-Anwendung verwenden für:
+unset-default-tooltip = Die Festlegung { -brand-short-name } als Standard-Anwendung zu verwenden, kann nicht innerhalb { -brand-short-name }s aufgehoben werden. Um eine andere Anwendung als Standard festzulegen, muss deren 'Als Standard festlegen'-Einstellung verwendet werden.
 checkbox-email-label =
     .label = E-Mail
     .tooltiptext = { unset-default-tooltip }
