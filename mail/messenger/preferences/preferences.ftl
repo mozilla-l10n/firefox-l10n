@@ -187,6 +187,10 @@ return-receipts-description = Начин на који { -brand-short-name } б�
 return-receipts-button =
     .label = Потврде о пријему…
     .accesskey = П
+update-app-legend = { -brand-short-name } ажурирања
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Верзија { $version }
 automatic-updates-label =
     .label = Аутоматски инсталирај ажурирања (препоручено: побољшава безбедност)
     .accesskey = А
