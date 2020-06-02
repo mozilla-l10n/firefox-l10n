@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-client-intro = Uporabi { -brand-short-name } kot privzeti program za:
+unset-default-tooltip = { -brand-short-name }a ni mogoče odstraniti kot privzetega odjemalca znotraj { -brand-short-name }a. Če želite privzeto uporabljati drug program, uporabite njegovo pogovorno okno 'Nastavi kot privzeto'.
 checkbox-email-label =
     .label = E-pošto
     .tooltiptext = { unset-default-tooltip }
@@ -12,3 +13,14 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = Vire
     .tooltiptext = { unset-default-tooltip }
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+system-search-engine-name =
+    { PLATFORM() ->
+        [macos] iskalniku Spotlight
+        [windows] iskanju Windows
+       *[other] { "" }
+    }
+check-on-startup-label =
+    .label = Vedno preveri ob zagonu { -brand-short-name }a
+    .accesskey = V

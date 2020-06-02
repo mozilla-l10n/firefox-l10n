@@ -10,9 +10,16 @@ fonts-label-default =
     .label = Privzeta ({ $name })
 fonts-label-default-unnamed =
     .label = Privzeta
+fonts-encoding-dialog-title =
+    .title = Pisave in kodiranja
+fonts-language-legend =
+    .value = Pisave za:
+    .accesskey = P
 
 ## Languages
 
+font-language-group-telugu =
+    .label = telugu
 
 ## Default font type
 
@@ -26,10 +33,35 @@ font-size-label =
 font-size-monospace-label =
     .value = Velikost:
     .accesskey = e
+font-serif-label =
+    .value = Serif:
+    .accesskey = r
+font-sans-serif-label =
+    .value = Sans-serif:
+    .accesskey = a
+font-min-size-label =
+    .value = Najmanjša velikost pisav:
+    .accesskey = N
+min-size-none =
+    .label = Brez
 
 ## Fonts in message
 
 font-control-legend = Nadzor pisav
+use-document-fonts-checkbox =
+    .label = Dovoli, da sporočila uporabljajo druge pisave
+    .accesskey = D
 
 ## Language settings
 
+text-encoding-legend = Kodiranje besedila
+text-encoding-description = Nastavi privzeto kodiranje besedila za pošiljanje in prejemanje pošte
+font-outgoing-email-label =
+    .value = Odhodna pošta:
+    .accesskey = O
+font-incoming-email-label =
+    .value = Dohodna pošta:
+    .accesskey = h
+default-font-reply-checkbox =
+    .label = Po možnosti za odgovore uporabi privzeto kodiranje besedila
+    .accesskey = m
