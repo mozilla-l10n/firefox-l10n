@@ -4,6 +4,7 @@
 
 calendar-title = Kalendar
 calendar-title-reminder = Podsjetnici
+calendar-title-category = Kategorije
 dateformat-label =
     .value = Tekstualni oblik datuma:
     .accesskey = d
