@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजी ब्राउज़िंग)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजी ब्राउज़िंग)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -80,6 +82,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ई पुस्तकचिह्न संपादित करू ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -103,6 +106,7 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = खोज सेटिंग्स बदलू
+
 search-one-offs-context-open-new-tab =
     .label = नव टैब मे खोजू
     .accesskey = T
@@ -174,5 +178,6 @@ urlbar-placeholder =
     .placeholder = खोजू अथवा पता दर्ज करू
 urlbar-switch-to-tab =
     .value = टैबमे जाउ:
+
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पतामे जाउ
