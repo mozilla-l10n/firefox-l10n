@@ -372,6 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Sérsníða…">
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
+
 <!ENTITY overflowCustomizeToolbar.label       "Sérsníða verkfæraslá…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
 

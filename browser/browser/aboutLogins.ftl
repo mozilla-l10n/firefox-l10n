@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# NOTE: New strings should use the about-logins- prefix.
+
 # "Google Play" and "App Store" are both branding and should not be translated
 
 
@@ -62,4 +67,7 @@ master-password-reload-button =
 ## Vulnerable Password notification
 
 ## Error Messages
+
+
+## Login Export Dialog
 

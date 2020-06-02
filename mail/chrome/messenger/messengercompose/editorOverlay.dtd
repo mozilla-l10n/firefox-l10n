@@ -296,6 +296,7 @@
 <!ENTITY findToolbarCmd.tooltip "Finna texta á síðu">
 <!ENTITY spellToolbarCmd.label "Stafsetning">
 <!ENTITY spellToolbarCmd.tooltip "Athuga stafsetningu á vali eða allri síðunni">
+
 <!ENTITY imageToolbarCmd.label "Mynd">
 <!ENTITY imageToolbarCmd.tooltip "Setja inn nýja mynd eða breyta eiginleikum valinnar myndar">
 <!ENTITY hruleToolbarCmd.label "L.Lína">
