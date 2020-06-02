@@ -21,6 +21,9 @@ fonts-proportional-label =
 
 ## Languages
 
+# Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+font-language-group-latin =
+    .label = Latin
 font-language-group-japanese =
     .label = Japanska
 font-language-group-trad-chinese =
@@ -35,6 +38,8 @@ font-language-group-cyrillic =
     .label = Kyrilliska språk
 font-language-group-el =
     .label = Grekiska
+font-language-group-other =
+    .label = Andra skriftsystem
 font-language-group-thai =
     .label = Thai
 font-language-group-hebrew =
@@ -49,6 +54,8 @@ font-language-group-armenian =
     .label = Armeniska
 font-language-group-bengali =
     .label = Bengali
+font-language-group-canadian =
+    .label = Enhetliga kanadensiska stavelser
 font-language-group-ethiopic =
     .label = Etiopiska
 font-language-group-georgian =
@@ -61,6 +68,18 @@ font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
     .label = Malayalam
+font-language-group-math =
+    .label = Matematik
+font-language-group-odia =
+    .label = Odia
+font-language-group-telugu =
+    .label = Telugu
+font-language-group-kannada =
+    .label = Kannada
+font-language-group-sinhala =
+    .label = Singalesiska
+font-language-group-tibetan =
+    .label = Tibetanska
 
 ## Default font type
 
@@ -68,6 +87,12 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans Serif
+font-size-label =
+    .value = Storlek:
+    .accesskey = t
+font-size-monospace-label =
+    .value = Storlek:
+    .accesskey = o
 font-serif-label =
     .value = Serif:
     .accesskey = S
@@ -95,6 +120,11 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Textkodning
+text-encoding-description = Ange standardtextkodning för att skicka och ta emot e-post
 font-outgoing-email-label =
     .value = Utgående e-post:
     .accesskey = U
+default-font-reply-checkbox =
+    .label = Använd om möjligt standardtextkodning i svaren
+    .accesskey = n

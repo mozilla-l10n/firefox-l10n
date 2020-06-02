@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = A
     .tooltiptext = Ange önskad adress för att lösa DNS över HTTPS
 connection-dns-over-https-custom-label = Anpassad
+connection-dialog-window =
+    .title = Anslutningsinställningar
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Ange proxy för anslutning till Internet
 proxy-type-no =
     .label = Ingen proxy
@@ -33,6 +40,12 @@ proxy-http-label =
 http-port-label =
     .value = Port:
     .accesskey = P
+proxy-http-sharing =
+    .label = Använd också denna proxy för HTTPS
+    .accesskey = x
+proxy-https-label =
+    .value = HTTPS-proxy:
+    .accesskey = S
 ssl-port-label =
     .value = Port:
     .accesskey = o
@@ -58,3 +71,15 @@ no-proxy-label =
     .value = Ingen proxy för:
     .accesskey = n
 no-proxy-example = Exempel: .mozilla.org, .sunet.se, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = Anslutning till localhost 127.0.0.1 och ::1 går aldrig via proxy.
+proxy-password-prompt =
+    .label = Fråga inte efter autentisering om lösenordet är sparat
+    .accesskey = o
+    .tooltiptext = Detta alternativ autentiserar dig automatiskt till proxier när du har sparat inloggningsuppgifter för dem. Du kommer att bli tillfrågad om autentiseringen misslyckas.
+proxy-remote-dns =
+    .label = Proxy DNS när du använder SOCKS v5
+    .accesskey = d
+proxy-enable-doh =
+    .label = Aktivera DNS över HTTPS
+    .accesskey = v
