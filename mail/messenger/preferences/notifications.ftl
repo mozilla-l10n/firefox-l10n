@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = புதிய அஞ்சல் எச்சரிக்கையை தனிப்பயனாக்குக
+
 customize-alert-description = எச்சரிக்கை அறிவிப்பில் காட்டப்படவேண்டிய புலங்களை தெரிவு செய்க:
+
 preview-text-checkbox =
     .label = செய்தி முன்நோக்கு உரை
     .accesskey = M
+
 subject-checkbox =
     .label = தலைப்பு
     .accesskey = S
+
 sender-checkbox =
     .label = அனுப்புநர்
     .accesskey = e

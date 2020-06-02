@@ -4,9 +4,11 @@
 
 fonts-encoding-dialog-title =
     .title = எழுத்துருக்களும் குறிமுறைகளும்
+
 fonts-language-legend =
     .value = இதற்கான எழுத்துருக்கள்:
     .accesskey = t
+
 fonts-proportional-label =
     .value = நேர்விகிதத்தில்:
     .accesskey = P
@@ -60,29 +62,37 @@ font-language-group-malayalam =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-serif-label =
     .value = Serif:
     .accesskey = s
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monospace:
     .accesskey = m
+
 font-min-size-label =
     .value = குறைந்ச பட்ச எழுத்துரு அளவு:
     .accesskey = z
+
 min-size-none =
     .label = ஒன்றுமில்லை
 
 ## Fonts in message
 
 font-control-legend = Font Control
+
 use-document-fonts-checkbox =
     .label = அஞ்சல்களில் பிற எழுத்துருக்களை பயன்படுத்த அனுமதிக்கவும்.
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = தனி உறையை மட்டும் கொண்ட செய்திகளுக்காக நிலையான அகலமுடைய font இனை பயன்படுத்துக
     .accesskey = x
@@ -92,6 +102,8 @@ use-fixed-width-plain-checkbox =
 font-outgoing-email-label =
     .value = அனுப்பும் அஞ்சல்l:
     .accesskey = u
+
 font-incoming-email-label =
     .value = வரும் அஞ்சல்:
     .accesskey = I
+

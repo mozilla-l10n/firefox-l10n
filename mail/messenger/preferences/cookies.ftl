@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Cookies
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = தேடல்:
     .accesskey = S
+
 cookies-on-system-label = பின்வரும் cookies உங்களுடைய கணினியில் சேமிக்கப்பட்டுள்ளன:
+
 treecol-site-header =
     .label = தளம்
+
 treecol-name-header =
     .label = Cookie பெயர்
+
 props-name-label =
     .value = பெயர்:
 props-value-label =
@@ -31,12 +39,15 @@ props-secure-label =
     .value = இற்காக அனுப்புக:
 props-expires-label =
     .value = காலாவதி:
+
 remove-cookie-button =
     .label = Cookie இனை நீக்குக
     .accesskey = R
+
 remove-all-cookies-button =
     .label = அனைத்து Cookies களையும் நீக்குக
     .accesskey = A
+
 cookie-close-button =
     .label = மூடுக
     .accesskey = C
