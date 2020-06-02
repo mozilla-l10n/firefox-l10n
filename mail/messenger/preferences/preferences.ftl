@@ -126,6 +126,7 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Увімкнути глобальний пошук та індексацію
     .accesskey = і
+datetime-formatting-legend = Формат дати та часу
 allow-hw-accel =
     .label = Використовувати апаратне прискорення, якщо можливо
     .accesskey = и
@@ -168,6 +169,10 @@ return-receipts-description = Вкажіть, як { -brand-short-name } має 
 return-receipts-button =
     .label = Сповіщення про доставку…
     .accesskey = д
+update-app-legend = Оновлення { -brand-short-name }
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Версія { $version }
 automatic-updates-label =
     .label = Автоматично встановлювати оновлення (рекомендовано: покращує безпеку)
     .accesskey = А
@@ -208,6 +213,9 @@ use-cache-after = MB місця під кеш
 
 ##
 
+smart-cache-label =
+    .label = Відключити автоматичне керування кешем
+    .accesskey = ю
 clear-cache-button =
     .label = Очистити зараз
     .accesskey = О
