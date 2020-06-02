@@ -8,5 +8,7 @@ attachment-reminder-label = { -brand-short-name } vás upozorní na chýbajúcu 
 keyword-remove-button =
     .label = Odstrániť
     .accesskey = O
+new-keyword-title = Nové kľúčové slovo
+new-keyword-label = Kľúčové slovo:
 edit-keyword-title = Upraviť kľúčové slovo
 edit-keyword-label = Kľúčové slovo:
