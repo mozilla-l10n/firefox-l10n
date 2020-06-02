@@ -46,6 +46,7 @@ urlbar-translated-notification-anchor =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Jenóyena jɨaɨena jóne
+
 search-one-offs-context-open-new-tab =
     .label = Kómue úitɨraɨ jéno
     .accesskey = ú
@@ -92,3 +93,4 @@ urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
+
