@@ -194,6 +194,7 @@
 <!ENTITY findToolbarCmd.tooltip "Thola okubhaliwe ekhasini">
 <!ENTITY spellToolbarCmd.label "Bizela">
 <!ENTITY spellToolbarCmd.tooltip "Hlola ukubhalwa kahle kwamagama kulokhu okukhethiwe noma ekhasini lonke">
+
 <!ENTITY imageToolbarCmd.label "Isithombe">
 <!ENTITY imageToolbarCmd.tooltip "Faka isithombe esisha noma ulungise izici zesithombe esikhethiwe">
 <!ENTITY hruleToolbarCmd.label "H.Umugqa">
