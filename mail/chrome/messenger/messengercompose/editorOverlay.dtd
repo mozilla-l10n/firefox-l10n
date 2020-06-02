@@ -235,6 +235,7 @@
 <!ENTITY findToolbarCmd.tooltip "Kuma tsalwa eka pheji">
 <!ENTITY spellToolbarCmd.label "Peleta">
 <!ENTITY spellToolbarCmd.tooltip "Xiya mpeleto wa nhlawulo kumbe wa pheji hinkwaro">
+
 <!ENTITY imageToolbarCmd.label "Xifaniso">
 <!ENTITY imageToolbarCmd.tooltip "Nghenisa xifaniso xintshwa kumbe hlela swihlawulekisi leswi hlawuriweke swa xifaniso">
 <!ENTITY hruleToolbarCmd.label "Layini ya H">
