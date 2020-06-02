@@ -5,6 +5,9 @@
 sendoptions-dialog-window =
     .title = Roghanna Seolta
 send-mail-title = Formáid Téacs
+auto-downgrade-label =
+    .label = Seol teachtaireachtaí mar ghnáth-théacs más féidir
+    .accesskey = t
 default-html-format-label = Agus teachtaireachtaí á seoladh i bhformáid HTML, má tá faighteoirí nach féidir leo glacadh le HTML:
 html-format-ask =
     .label = Fiafraigh díom cad atá le déanamh

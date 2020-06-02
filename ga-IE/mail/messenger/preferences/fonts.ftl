@@ -60,6 +60,10 @@ font-language-group-khmer =
     .label = Ciméarach
 font-language-group-malayalam =
     .label = Mailéalamach
+font-language-group-math =
+    .label = Matamaitic
+font-language-group-odia =
+    .label = Oiríseach
 font-language-group-telugu =
     .label = Teileagúch
 font-language-group-kannada =
@@ -108,9 +112,14 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Ionchódú Téacs
+text-encoding-description = Roghnaigh ionchódú téacs réamhshocraithe le haghaidh seolta agus glactha ríomhphoist
 font-outgoing-email-label =
     .value = Ríomhphost Amach:
     .accesskey = m
 font-incoming-email-label =
     .value = Ríomhphost Isteach:
     .accesskey = I
+default-font-reply-checkbox =
+    .label = Más féidir, úsáid ionchódú réamhshocraithe na gcarachtar i bhfreagraí
+    .accesskey = h
