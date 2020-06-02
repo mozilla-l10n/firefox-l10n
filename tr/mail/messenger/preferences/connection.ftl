@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = Ö
     .tooltiptext = HTTPS üzerinden DNS'i çözümlemek için tercih ettiğiniz URL'i girin
 connection-dns-over-https-custom-label = Özel
+connection-dialog-window =
+    .title = Bağlantı Ayarları
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = İnternete Erişmek İçin Vekil Sunucuları Yapılandırın
 proxy-type-no =
     .label = Vekil sunucu kullanma
