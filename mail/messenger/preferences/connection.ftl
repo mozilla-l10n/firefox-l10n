@@ -14,6 +14,13 @@ connection-dns-over-https-url-custom =
     .accesskey = T
     .tooltiptext = Spesifiser føretrekt nettadresse for DNS-oppslag over HTTPS
 connection-dns-over-https-custom-label = Tilpassa
+connection-dialog-window =
+    .title = Tilkoplingsinnstillingar
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Konfigurer mellomtenarar for tilgang til Internett
 proxy-type-no =
     .label = Ingen mellomtenar
@@ -58,3 +65,13 @@ no-proxy-label =
     .value = Ingen MT for:
     .accesskey = n
 no-proxy-example = Døme: .mozilla.org, .net.nz, 192.168.1.0/24
+proxy-password-prompt =
+    .label = Ikkje be om autentisering viss passordet er lagra
+    .accesskey = i
+    .tooltiptext = Dette alternativet stadfestar deg, i det stille, til proxiar når du har lagra innloggingsdetaljar for dei. Du vil få spørsmål om godkjenninga er mislykka.
+proxy-remote-dns =
+    .label = Proxy-DNS når du brukar SOCKS v5
+    .accesskey = D
+proxy-enable-doh =
+    .label = Aktiver DNS-over-HTTPS
+    .accesskey = o
