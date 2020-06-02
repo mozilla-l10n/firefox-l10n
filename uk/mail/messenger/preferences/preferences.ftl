@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Закрити
 preferences-title =
     .title =
         { PLATFORM() ->
@@ -70,6 +72,7 @@ update-in-progress-ok-button = &Відхилити
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продовжити
+addons-button = Розширення і теми
 
 ## OS Authentication dialog
 
@@ -95,6 +98,9 @@ general-legend = Початкова сторінка { -brand-short-name }
 start-page-label =
     .label = Показувати початкову сторінку в області перегляду листа при запуску { -brand-short-name }
     .accesskey = с
+location-label =
+    .value = Розташування:
+    .accesskey = Р
 restore-default-label =
     .label = Відновити
     .accesskey = н
@@ -138,6 +144,7 @@ enable-gloda-search-label =
     .label = Увімкнути глобальний пошук та індексацію
     .accesskey = і
 datetime-formatting-legend = Формат дати та часу
+language-selector-legend = Мова
 allow-hw-accel =
     .label = Використовувати апаратне прискорення, якщо можливо
     .accesskey = и
@@ -184,6 +191,7 @@ update-app-legend = Оновлення { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Версія { $version }
+allow-description = Дозволити { -brand-short-name }
 automatic-updates-label =
     .label = Автоматично встановлювати оновлення (рекомендовано: покращує безпеку)
     .accesskey = А
@@ -196,6 +204,7 @@ update-history-button =
 use-service =
     .label = Використовувати фонову службу для встановлення оновлень
     .accesskey = ф
+cross-user-udpate-warning = Цей параметр застосується для всіх облікових записів Windows та профілів { -brand-short-name }, що використовують це встановлення { -brand-short-name }.
 networking-legend = З’єднання
 proxy-config-description = Налаштуйте параметри з’єднання { -brand-short-name } з інтернетом
 network-settings-button =
@@ -381,6 +390,12 @@ download-dictionaries-link = Завантажити додаткові слов�
 font-label =
     .value = Шрифт:
     .accesskey = Ш
+font-size-label =
+    .value = Розмір:
+    .accesskey = з
+default-colors-label =
+    .label = Використовувати типові кольори читача
+    .accesskey = п
 font-color-label =
     .value = Колір тексту:
     .accesskey = т
@@ -563,6 +578,17 @@ notification-name =
     .label = лише з ім'ям відправника
 notification-empty =
     .label = без жодної інформації
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Анімація піктограми в док
+           *[other] Миготіння на панелі завдань
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] я
+           *[other] г
+        }
 chat-play-sound-label =
     .label = Відтворювати звук
     .accesskey = з
@@ -578,6 +604,28 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Огляд…
     .accesskey = л
+theme-label =
+    .value = Тема:
+    .accesskey = Т
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Бульбашки
+style-dark =
+    .label = Темна
+style-paper =
+    .label = Паперовий лист
+style-simple =
+    .label = Проста
+preview-label = Попередній перегляд:
+no-preview-label = Попередній перегляд недоступний
+no-preview-description = Ця тема недоступна (вимкнений додаток, безпечний режим, …).
+chat-variant-label =
+    .value = Варіант:
+    .accesskey = В
+chat-header-label =
+    .label = Показувати заголовок
+    .accesskey = з
 
 ## Preferences UI Search Results
 
