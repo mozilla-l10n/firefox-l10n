@@ -11,6 +11,10 @@ category-compose =
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = { -brand-short-name } தொடக்கப்பக்கம்
 start-page-label =
     .label = { -brand-short-name } தொடங்கும்போது, அஞ்சல் பரப்பில் தொடக்கப் பக்கத்தை காண்பிக்கவும்
@@ -37,9 +41,24 @@ mail-custom-sound-label =
 mail-browse-sound-button =
     .label = உலாவுக...
     .accesskey = B
+enable-gloda-search-label =
+    .label = Indexer மற்றும் அகிலத் தேடலை இயலுமைப்படுத்துக
+    .accesskey = E
+system-integration-legend = அமைப்பு ஒருங்கிணைப்பு
 always-check-default =
     .label = Always check to see if { -brand-short-name } is the default mail client on startup
     .accesskey = l
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] ஔிவிளக்கு
+        [windows] சாளரங்கள் தேடல்
+       *[other] { "" }
+    }
+search-integration-label =
+    .label = அனுமதிக்க { search-engine-name } செய்திகளை தேடுவதற்கு
+    .accesskey = S
 config-editor-button =
     .label = கட்டமைப்பு செவ்வையாளன்....
     .accesskey = g
@@ -48,6 +67,10 @@ return-receipts-button =
     .label = Return Receipts..
     .accesskey = R
 networking-legend = இணைப்பு
+proxy-config-description = எப்படி { -brand-short-name }ஐ இணையத்துடன் இணைப்பதென்பதை தகவமைக்க
+network-settings-button =
+    .label = அமைப்புக்கள்…
+    .accesskey = n
 offline-legend = இணைப்பில்லாத
 offline-settings = இணைப்பில்லா நிலைகளை கட்டமைக்கவும்்
 offline-settings-button =
@@ -62,9 +85,22 @@ diskspace-legend = உள்ள வட்டுத்தளம்
 use-cache-before =
     .value = Use up to
     .accesskey = U
+use-cache-after = இடைமாற்று நினைவகத்திற்காக MB இடைவெளி
 
 ##
 
+clear-cache-button =
+    .label = இப்பொழுது சுத்தப்படுத்துக
+    .accesskey = C
+default-font-label =
+    .value = Default font:
+    .accesskey = D
+default-size-label =
+    .value = அளவு:
+    .accesskey = S
+font-options-button =
+    .label = மேம்பட்ட…
+    .accesskey = A
 display-width-legend = எளிய உரை அஞ்சல்கள்
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
@@ -91,6 +127,29 @@ bigger-size-item =
     .label = பெரியதான
 smaller-size-item =
     .label = சிறியதான
+type-column-label =
+    .label = உள்ளடக்க வகை
+    .accesskey = T
+action-column-label =
+    .label = செயல்
+    .accesskey = A
+save-to-label =
+    .label = இற்கு கோப்புகளை சேமிக்க
+    .accesskey = S
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] தெரிவுசெய்க…
+           *[other] உலாவுக…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
+always-ask-label =
+    .label = கோப்புகளை சேமிக்கும் ஒவ்வொறு தடவையும் என்னை கேட்க
+    .accesskey = A
 display-tags-text = அடையாளங்களை உங்கள் அஞ்சல்களை வகைப்படுத்த மற்றும் முக்கியத்துவம் தர உபயோகிக்கலாம்
 delete-tag-button =
     .label = நீக்குக
@@ -112,9 +171,53 @@ delete-tag-button =
 
 ##
 
+attachment-label =
+    .label = தவறவிடப்பட்ட உடனிணைப்புகளை சரிபார்க்க
+    .accesskey = m
 
 ## Privacy Tab
 
+passwords-description = { -brand-short-name }-ல் உங்கள் அனைத்து கணக்குகளின் கடவுச்சொல் விவரத்தை நினைவு வைத்துக்கொள்ளமுடியும், இதனால் உங்கள் பதிவு விவரங்களை மறுபடி எழுதும் அவசியம் கிடையாது
+passwords-button =
+    .label = சேமிக்கப்பட்ட கடவுச்சொற்கள்…
+    .accesskey = S
+master-password-label =
+    .label = முதன்மைக் கடவுச்சொல்லினைப் பயன்படுத்துக
+    .accesskey = m
+master-password-button =
+    .label = முதன்மைக் கடவுச்சொல்லை மாற்றுக…
+    .accesskey = C
+junk-description = கொடாநிலை குப்பை அஞ்சல் அமைவுகளை அமைக்கவும். கண
+junk-label =
+    .label = நான் அஞ்சல்களை குப்பையென்று குறிக்கும்போது:
+    .accesskey = W
+junk-move-label =
+    .label = கணக்கின் "குப்பை" கோப்புறைக்கு நகர்த்துக
+    .accesskey = o
+junk-read-label =
+    .label = படித்ததாக கருதப்படவேண்டிய குப்பை அஞ்சலை குறிக்கவும்
+    .accesskey = k
+junk-log-button =
+    .label = பதிவை காட்டுக
+    .accesskey = h
+reset-junk-button =
+    .label = பயிற்சி தரவை மீண்டும் அமைக்கவும்
+    .accesskey = D
+phishing-description = { -brand-short-name }இல் உங்களை ஏமாற்ற உபயோகப்படுத்தப்படும் பொதுவான வழிகளை கவனித்து பார்த்து வஞ்சகமான மின்னஞ்சல்களை ஆராயமுடியும்
+phishing-label =
+    .label = நான் படிக்கும் செய்தி சந்தேகத்திற்கு உரிய மின்னஞ்சல் சூழ்ச்சியா என்பதை தெரிவிக்கவும்
+    .accesskey = e
+antivirus-description = { -brand-short-name } வைரஸ்-நீக்கி மென்பொருள் உள்ளே வரும் அஞ்சல் செய்திகள் உள்ளே சேமிக்கப்படும் முன் அதில் வைரஸ்கள் இருக்கிறதா என்று பரீட்சித்து பார்ப்பதை சுலபமாக்குகிறது.
+antivirus-label =
+    .label = வைரஸ்-நீக்கி நுகர்வோனை தனிப்பட்ட வரும் அஞ்சல்களை க்வாரன்டைன் செய்ய அனுமதிக்கவும்
+    .accesskey = l
+certificate-description = எனது தனிப்பட்ட சான்றிதழை சேவையகம் வேண்டும் போது:
+certificate-auto =
+    .label = ஒன்றை தனாகவே தெரிவுசெய்க
+    .accesskey = m
+certificate-ask =
+    .label = ஒவ்வொறு தடவையும் என்னை கேட்க
+    .accesskey = A
 
 ## Chat Tab
 
