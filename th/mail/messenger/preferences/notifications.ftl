@@ -4,6 +4,16 @@
 
 notifications-dialog-window =
     .title = ปรับแต่งการแจ้งเตือนจดหมายใหม่
+customize-alert-description = เลือกข้อมูลที่จะแสดงในข้อความแจ้งเตือน:
+preview-text-checkbox =
+    .label = ตัวอย่างข้อความตัวอักษร
+    .accesskey = ต
+subject-checkbox =
+    .label = หัวเรื่อง
+    .accesskey = ห
+sender-checkbox =
+    .label = ผู้ส่ง
+    .accesskey = ผ
 
 ## Note: open-time-label-before is displayed first, then there's a field where
 ## the user can enter a number, and open-time-label-after is displayed at the end
@@ -11,3 +21,8 @@ notifications-dialog-window =
 ## parts don't have to mean the exact same thing as in English; please try instead
 ## to translate the whole sentence.
 
+open-time-label-before =
+    .value = แสดงการแจ้งเตือนจดหมายใหม่เป็นเวลา
+    .accesskey = ส
+open-time-label-after =
+    .value = วินาที
