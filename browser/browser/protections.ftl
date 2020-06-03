@@ -194,6 +194,35 @@ password-warning =
         [few] Skłaźone pśizjewjenje su se wótkšyli w datowej źěrje. Změńśo toś te gronidła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Skłaźone pśizjewjenja pokazaś</a>
        *[other] Skłaźone pśizjewjenje su se wótkšyli w datowej źěrje. Změńśo toś te gronidła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Skłaźone pśizjewjenja pokazaś</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] gronidło jo se pokazało w njerozwězanych datowych źěrach
+        [two] gronidle stej se pokazałej w njerozwězanych datowych źěrach
+        [few] gronidła su se pokazali w njerozwězanych datowych źěrach
+       *[other] gronidłow jo se pokazało w njerozwězanych datowych źěrach
+    }
+monitor-no-breaches-title = Dobre powěsći!
+monitor-no-breaches-description = Njamaśo žedne znate datowe źěry. Jolic se to změnijo, dajomy wam to k wěsći.
+monitor-view-report-link = Rozpšawu pokazaś
+    .title = Datowe źěry na { -monitor-brand-short-name } rozwězaś
+monitor-breaches-unresolved-title = Rozwěźćo swóje datowe źěry
+monitor-manage-breaches-link = Datowe źěry zastojaś
+    .title = Datowe źěry na { -monitor-brand-short-name } zastojaś
+monitor-breaches-resolved-title = Wjelicnje! Sćo rozwězał wšykne znate datowe źěry.
+monitor-breaches-resolved-description = Jolic se waša e-mailowa adresa w nowych datowych źěrach pokazujo, dajomy wam to k wěsći.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } z { $numBreaches } datowych źěrow jo se markěrowała ako rozwězana.
+        [two] { $numBreachesResolved } z { $numBreaches } datowych źěrow stej se markěrowałej ako rozwězanej.
+        [few] { $numBreachesResolved } z { $numBreaches } datowych źěrow su se markěrowali ako rozwězane.
+       *[other] { $numBreachesResolved } z { $numBreaches } datowych źěrow jo se markěrowało ako rozwězane.
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
