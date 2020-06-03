@@ -71,4 +71,4 @@ tlv-disconnected = { $name } 結束了與您之間的加密對話，您也應該
 # Make sure that this string does NOT contain any numbers, e.g. like "3".
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-query-msg = { $name } 要求進行不留紀錄（OTR）加密聊天，但您沒有支援該功能的外掛程式。若需更多資訊請參考 https://zh.wikipedia.org/wiki/Off-the-Record_Messaging。
+query-msg = { $name } 要求進行不留紀錄（OTR）加密聊天，但您沒有支援該功能的外掛程式。若需更多資訊，請參考 https://en.wikipedia.org/wiki/Off-the-Record_Messaging。
