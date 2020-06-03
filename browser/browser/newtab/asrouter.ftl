@@ -150,6 +150,10 @@ cfr-doorhanger-firefox-send-header = এই PDF নিৰাপদে ভাগ-
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-close-button = বন্ধ কৰক
+    .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = এনেকুৱা বাৰ্তা মোক আকৌ নেদেখুৱাব
+    .accesskey = D
 
 ## Enhanced Tracking Protection Milestones
 
