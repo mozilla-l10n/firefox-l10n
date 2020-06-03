@@ -277,6 +277,12 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } njebuźo zd
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Źěliśo { -brand-short-name }. Druge wósoby mógu wiźeś, gaž k nowemu rejtarikoju pśejźośo.
+sharing-warning-screen = Źěliśo swóju cełu wobrazowku. Druge wósoby mógu wiźeś, gaž k nowemu rejtarikoju pśejźośo.
+sharing-warning-proceed-to-tab =
+    .label = K rejtarikoju póstupowaś
+sharing-warning-disable-for-session =
+    .label = Źěleński šćit za toś to pósejźenje znjemóžniś
 
 ## DevTools F12 popup
 
