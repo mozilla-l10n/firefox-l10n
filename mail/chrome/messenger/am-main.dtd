@@ -15,7 +15,7 @@
 <!ENTITY name.accesskey "В">
 <!ENTITY email.label "Адреса електронної пошти:">
 <!ENTITY email.accesskey "е">
-<!ENTITY catchAll.label "Відповідь з цього ідентифікатора, коли заголовки доставляння збігаються:">
+<!ENTITY catchAll.label "Відповідати з цієї адреси е-пошти, коли заголовки доставляння збігаються:">
 <!ENTITY catchAll.accesskey "о">
 <!ENTITY replyTo.label "Адреса для відповіді:">
 <!ENTITY replyTo.accesskey "д">
