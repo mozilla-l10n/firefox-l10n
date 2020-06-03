@@ -173,9 +173,18 @@ confirm-discard-changes-dialog-confirm-button = নাকচ কৰক
 about-logins-breach-alert-title = ৱেবছাইট উলংঘন
 breach-alert-text = আপুনি শেষবাৰ আপোনাৰ লগিনৰ বিশদ-বিৱৰণ আপডেট কৰোঁতে এই ৱেবছাইটৰ পৰা পাছৱৰ্ডসমূম লীক বা চুৰি হৈছিল। আপোনাৰ একাউণ্ট সুৰক্ষিত কৰিবলৈ আপোনাৰ পাছৱৰ্ড সলনি কৰক।
 about-logins-breach-alert-date = এই উলংঘন { DATETIME($date, day: "numeric", month: "long", year: "numeric") } তাৰিখে ঘটিছে
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname }-লৈ যাওঁক
+about-logins-breach-alert-learn-more-link = অধিক জানক
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = অসুৰক্ষিত পাছৱৰ্ড
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname }-লৈ যাওঁক
+about-logins-vulnerable-alert-learn-more-link = অধিক জানক
 
 ## Error Messages
 
@@ -189,6 +198,12 @@ about-logins-error-message-default = এই পাছৱৰ্ড সঞ্চ�
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = লগিন ফাইল ৰপ্তানি কৰক
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = ৰপ্তানি
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
