@@ -503,7 +503,7 @@ home-prefs-topsites-description = Сайти, які ви відвідуєте �
 home-prefs-recommended-by-header =
     .label = Рекомендовано { $provider }
 home-prefs-recommended-by-description = Чудові матеріали з усього інтернету, відібрані спеціально для вас
-home-prefs-recommended-by-description-update = Наданий { $provider } винятковий вміст з мережі
+home-prefs-recommended-by-description-update = Винятково цікаві матеріали з мережі від { $provider }
 
 ##
 
