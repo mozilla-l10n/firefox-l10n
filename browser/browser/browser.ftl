@@ -130,6 +130,12 @@ urlbar-popup-blocked =
     .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি প'প-আপ অৱৰোধ কৰিছে।
 urlbar-autoplay-media-blocked =
     .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি শব্দ থকা মিডিয়া স্বয়ংচলন অৱৰোধ কৰিছে।
+urlbar-canvas-blocked =
+    .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি কেনভাচ ডাটা নিষ্কাষণ অৱৰোধ কৰিছে।
+urlbar-midi-blocked =
+    .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি MIDI এক্সেছ অৱৰোধ কৰিছে।
+urlbar-install-blocked =
+    .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি এড-অন ইনষ্টলেশ্যন অৱৰোধ কৰিছে।
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -143,6 +149,12 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = ঠিকনা দণ্ডিকাত যোগ কৰক
+page-action-manage-extension =
+    .label = এক্সটেনশ্যন পৰিচালনা…
+page-action-remove-from-urlbar =
+    .label = ঠিকনা দণ্ডিকাৰ পৰা আঁতৰাওক
+page-action-remove-extension =
+    .label = এক্সটেনশ্যন আঁতৰাওক
 
 ## Auto-hide Context Menu
 
@@ -155,13 +167,32 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = এইবাৰ এইটোৰে সন্ধান কৰক:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = সন্ধানৰ সংহতিসমূহ পৰিবৰ্তন কৰক
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = সন্ধান ছেটিংছ সলনি কৰক
+search-one-offs-context-open-new-tab =
+    .label = নতুন টেবত সন্ধান কৰক
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = ডিফ'ল্ট ছাৰ্চ ইঞ্জিনৰূপে ছেট কৰক
+    .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = ব্যক্তিগত উইণ্ড'ৰ বাবে ডিফ'ল্ট ছাৰ্চ ইঞ্জিনৰূপে ছেট কৰক
+    .accesskey = P
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = সঞ্চয় কৰোঁতে এডিটৰ দেখুৱাব
+    .accesskey = S
+bookmark-panel-done-button =
+    .label = হৈ গ'ল
 
 ## Identity Panel
 
