@@ -69,7 +69,7 @@ policy-OverrideFirstRunPage = Diystyru y dudalen rhediad gyntaf. Gosod y polisi 
 policy-OverridePostUpdatePage = Diystyru'r dudalen ôl ddiweddaru "Beth sy'n Newydd". Gosodwch y polisi hwn i gwag os hoffech chi analluogi'r dudalen ôl ddiweddaru.
 policy-PasswordManagerEnabled = Galluogi cadw cyfrineiriau i'r rheolwr cyfrinair.
 # PDF.js and PDF should not be translated
-policy-PDFjs = Analluogu neu ffurfweddu PDF.js, darllenydd PDF mewnol { -brand-short-name }.
+policy-PDFjs = Analluogi neu ffurfweddu PDF.js, darllenydd PDF mewnol { -brand-short-name }.
 policy-Permissions2 = Ffurfweddu caniatâd ar gyfer camera, meicroffon, lleoliad, hysbysiadau ac awtochwarae.
 policy-Preferences = Gosod a chloi'r gwerth ar gyfer is-set o ddewisiadau.
 policy-PromptForDownloadLocation = Gofynnwch ble i arbed ffeiliau wrth eu llwytho i lawr.
