@@ -67,3 +67,8 @@ resent = [重寄]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } 結束了與您之間的加密對話，您也應該中斷對話。
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } 要求進行不留紀錄（OTR）加密聊天，但您沒有支援該功能的外掛程式。若需更多資訊請參考 https://zh.wikipedia.org/wiki/Off-the-Record_Messaging。
