@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Não há nenhum vídeo com formato ou tipo MIME suportados.">
 <!ENTITY error.generic "Execução do vídeo interrompida por um erro desconhecido.">
 
-<!ENTITY status.pictureInPicture "Este vídeo está sendo reproduzido em modo Picture-in-Picture.">
+<!ENTITY status.pictureInPicture "Este vídeo está sendo reproduzido em modo picture-in-picture.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
