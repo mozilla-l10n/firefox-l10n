@@ -41,6 +41,9 @@
 
 <!ENTITY fileAccessDenied.title "Dostymp do pliku ôstoł ôdciepniynty">
 
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Bōł skasowany, przeniysiōny, abo niy ma ku nimu dostympu skuli nasztalowanych przizwōlyń.</li>
+</ul>">
 
 <!ENTITY generic.title "Ups.">
 
@@ -153,8 +156,18 @@ was trying to connect. -->
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problym bydzie ze złymi nasztalowaniami strōny i niy poradzisz nic z tym zrobić. Możesz dać znać ô problymie administratorowi strōny.</p>">
 
+<!ENTITY sharedLongDesc "<ul>
+  <li>Strōna mogła być czasowo niydostympna abo za fest zajynto. Sprōbuj zaś
+za pora chwil.</li>
+  <li>Jak niy idzie zaladować żodnych strōn, badnij na połōnczynie tego kōmputra
+    z necym.</li>
+  <li>Jak tyn kōmputer abo nec je chrōniōny  bez firewall abo proxy, badnij jeźli
+    &brandShortName; mo zgoda na dostymp do internetu.</li>
+</ul>">
 
+<!ENTITY cspBlocked.title "Zaszperowane skuli polityki bezpieczyństwa zawartości">
 
+<!ENTITY cspBlocked.longDesc "<p>Aplikacyjo &brandShortName; niy dała tyj strōnie sie tak zaladować skuli polityki bezpieczyństwa strōny, co na to niy przizwolo.</p>">
 
 
 
