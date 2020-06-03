@@ -4,3 +4,5 @@
 
 account-encryption =
     .label = End-to-end-versleuteling
+account-otr-label = Off-the-Record-berichten (OTR)
+account-otr-description = { -brand-short-name } ondersteunt end-to-end-versleuteling van een-op-een-gesprekken. Hierdoor kunnen derden een gesprek niet afluisteren. End-to-end-versleuteling kan alleen worden gebruikt als de ander ook software gebruikt die OTR ondersteunt.
