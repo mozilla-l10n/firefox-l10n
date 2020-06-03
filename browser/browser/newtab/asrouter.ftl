@@ -112,6 +112,17 @@ cfr-whatsnew-permission-prompt-cta = অধিক জানক
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] ফিংগাৰপ্ৰিণ্টাৰ অৱৰুদ্ধ হ'ল
+       *[other] ফিংগাৰপ্ৰিণ্টাৰ অৱৰুদ্ধ হ'ল
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }-এ বহুতো ফিংগাৰপ্ৰিণ্টাৰ অৱৰোধ কৰে যিয়ে আপোনাৰ বিজ্ঞাপন প্ৰ'ফাইল তৈয়াৰ কৰিবলৈ গোপনে আপোনাৰ ডিভাইচ আৰু কাৰ্য্যসমূহৰ বিষয়ে তথ্য গোটায়।
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = ফিংগাৰপ্ৰিণ্টাৰ
 
 ## Bookmark Sync
 
