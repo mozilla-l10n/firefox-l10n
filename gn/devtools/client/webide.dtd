@@ -6,19 +6,19 @@
 
 <!ENTITY projectMenu_label "Apopyrã">
 <!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "Tembipuru'i pyahu…">
+<!ENTITY projectMenu_newApp_label "Tembipuru’i pyahu…">
 <!ENTITY projectMenu_newApp_accesskey "N">
-<!ENTITY projectMenu_importPackagedApp_label "Tembipuru'i mbohyrupyrépe jeike…">
+<!ENTITY projectMenu_importPackagedApp_label "Tembipuru’i mbohyrupyrépe jeike…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
-<!ENTITY projectMenu_importHostedApp_label "Tembipuru'i mbohupapyrépe jeike…">
+<!ENTITY projectMenu_importHostedApp_label "Tembipuru’i mbohupapyrépe jeike…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
-<!ENTITY projectMenu_selectApp_label "Eike tembipuru'ípe…">
+<!ENTITY projectMenu_selectApp_label "Eike tembipuru’ípe…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Mohenda ha Jepuru">
 <!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "Tembipuru'i jejoko">
+<!ENTITY projectMenu_stop_label "Tembipuru’i jejoko">
 <!ENTITY projectMenu_stop_accesskey "S">
-<!ENTITY projectMenu_debug_label "Tembipuru'i mopotĩ">
+<!ENTITY projectMenu_debug_label "Tembipuru’i mopotĩ">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Apopyrã mboguete">
 <!ENTITY projectMenu_remove_accesskey "R">
@@ -52,7 +52,7 @@
 <!ENTITY viewMenu_resetzoom_label "Tuichakue mbojevyjey">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
-<!ENTITY projectButton_label "Tembipuru'i ijurujáva">
+<!ENTITY projectButton_label "Tembipuru’i ijurujáva">
 
 <!ENTITY runtimeButton_label "Eiporavo marandu aravo">
 
@@ -72,7 +72,7 @@
 <!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Che apopyrãnguéra">
-<!ENTITY projectPanel_runtimeApps "Tembipuru'i marandu aravo rehegua">
+<!ENTITY projectPanel_runtimeApps "Tembipuru’i marandu aravo rehegua">
 <!ENTITY projectPanel_tabs "Tendayke">
 <!ENTITY runtimePanel_usb "USB mba’e’oka">
 <!ENTITY runtimePanel_wifi "Wi-Fi mba’e’oka">
@@ -86,11 +86,11 @@
 <!ENTITY details_error_header "jejavy">
 <!ENTITY details_description "Moha'ãnga">
 <!ENTITY details_location "Tendaite">
-<!ENTITY details_manifestURL "ID rembipuru'i">
+<!ENTITY details_manifestURL "ID rembipuru’i">
 <!ENTITY details_removeProject_button "Eguerujey Apopyrã">
 
 <!-- New App -->
-<!ENTITY newAppWindowTitle "Tembipuru'i aty pyahu">
+<!ENTITY newAppWindowTitle "Tembipuru’i aty pyahu">
 <!ENTITY newAppHeader "Eiporavo kuatiaite">
 <!ENTITY newAppLoadingTemplate "Oñemyenyhẽhína kuatiaite…">
 <!ENTITY newAppProjectName "Apopyrã Réra:">
