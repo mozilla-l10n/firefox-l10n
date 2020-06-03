@@ -12,10 +12,24 @@ auth-error = 驗證聯絡人身分時發生錯誤。
 auth-success = 已成功驗證您的聯絡人的身分。
 auth-successThem = 您的聯絡人已成功驗證您的身分。您可能也想要問他們問題，來驗證他們的身分。
 auth-fail = 無法驗證您的聯絡人的身分。
+auth-waiting = 等待聯絡人完成驗證…
 finger-verify = 驗證
 finger-verify-accessKey = V
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = 新增 OTR 指紋
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = 正在嘗試與 { $name } 開始進行加密對話…
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = 正在嘗試與 { $name } 重新整理加密對話…
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = 與 { $name } 的加密對話結束。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = { $name } 的身分未經驗證。無法進行一般的竊聽，但有心人花點功夫還是可以暗中偷聽。請驗證此聯絡人的身分來防止您受到監控。
+state-not_private = 目前的對話不是私人對話。
 state-not_private-label = 不安全
 state-unverified-label = 未驗證
 state-private-label = 私人
