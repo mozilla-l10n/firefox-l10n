@@ -204,6 +204,7 @@ monitor-partial-breaches-percentage = Terminé à { $percentageResolved } %
 monitor-partial-breaches-motivation-title-start = Un bon début !
 monitor-partial-breaches-motivation-title-middle = Gardez le rythme !
 monitor-partial-breaches-motivation-title-end = C’est presque fini. Continuez !
+monitor-partial-breaches-motivation-description = Réglez vos autres fuites de données avec { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Régler vos fuites de données
     .title = Régler vos fuites de données avec { -monitor-brand-short-name }
 
