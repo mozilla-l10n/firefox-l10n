@@ -8,3 +8,4 @@ changed-title = Kva er endra?
 options-title = Kva er vala mine?
 resources = Resursar
 about-pofiles-link = Sjå og handter brukarprofilane dine
+support-link = Bruke profilhandtering - supportartikkel
