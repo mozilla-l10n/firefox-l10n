@@ -21,6 +21,17 @@ msgevent-msg_resent = A(z) { $name } számára küldött utolsó üzenet újrak�
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_not_private = A(z) { $name } felől érkező titkosított üzenet olvashatatlan, mert jelenleg nem privát módon kommunikál.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = Olvashatatlan titkosított üzenetet kapott a következőtől: { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Kapcsolatfenntartási üzenet érkezett a következőtől: { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Kapcsolatfenntartási üzenet küldve a következőnek: { $name }.
 error-enc = Hiba történt az üzenet titkosításakor.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
