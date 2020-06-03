@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = Ñanduti raperã rehegua
-warning = Kóva ha'e oñeha'ãva gueteri. Ndojepuruva'erãi peteĩ kakuaapáva rehe'ỹ.
+warning = Kóva ha’e oñeha’ãva gueteri. Ndojepuruva’erãi peteĩ kakuaapáva rehe’ỹ.
 show-next-time-checkbox = Ehechauka ko kyhyjerã peteĩhápe
 ok = MONEĨ
 http = HTTP
@@ -57,7 +57,6 @@ rcwn-avg-long = Mombytegua ipukúva
 rcwn-std-dev-long = Ñemboyke ha'etéva ipukúva
 rcwn-cache-slow = Kache nemba'etéva imbeguéva
 rcwn-cache-not-slow = Kache nemba'etéva imbegue'ỹva
-
 about-networking-title = Ñanduti raperã rehegua
 about-networking-http = HTTP
 about-networking-sockets = Moingeha

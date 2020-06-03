@@ -8,7 +8,6 @@ password-quality-meter = Ñe'ẽñemi rekoporã ra'ãha
 
 change-password-window =
     .title = Ñe'ẽñemi ha'etéva moambue
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Mba'e'oka tekorosãrã: { $tokenName }
@@ -52,7 +51,7 @@ client-auth-cert-details = Mboajepyréva poravopyre mba'emimi:
 
 set-password-window =
     .title = Eiporavo peteĩ ñe'ẽñemi pytyvõrãva mboajepyrévape g̃uarã
-set-password-message = Mboajepyre ykekoha ñe'ẽñemi emoĩva ko'ápe omo'ãta pe marandurenda ykekoháva emoheñói potaitévape. Emoĩva'erã ko ñe'ẽñemi eguerekokuaa hag̃uáicha pe monguatiapy ykekoháva.
+set-password-message = Mboajepyre ykekoha ñe’ẽñemi emoĩva ko’ápe omo'ãta pe marandurenda ykekoháva emoheñói potaitévape. Emoĩva’erã ko ñe’ẽñemi eguerekokuaa hag̃uáicha pe monguatiapy ykekoháva.
 set-password-backup-pw =
     .value = Ñe'ẽñemi pytyvõrãva mboajepyréva mba'éva:
 set-password-repeat-backup-pw =
