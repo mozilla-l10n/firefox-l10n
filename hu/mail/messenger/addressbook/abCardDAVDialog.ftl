@@ -7,6 +7,7 @@ carddav-window =
 carddav-dialog =
     .buttonlabelaccept = Folytatás
     .buttonaccesskeyaccept = F
+carddav-experimental-warning = A CardDAV-címjegyzék támogatása kísérleti jellegű és véglegesen kárt tehet az adataiban. Csak saját felelősségre használja.
 carddav-provider-label =
     .value = CardDAV-szolgáltató:
     .accesskey = l
