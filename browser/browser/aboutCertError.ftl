@@ -58,7 +58,7 @@ cert-error-details-cert-chain-label = Certifikatowy rjeśaz:
 open-in-new-window-for-csp-or-xfo-error = Sedło w nowem woknje wócyniś
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = Aby swóju wěstotu šćitał, { $hostname } { -brand-short-name } njedowólijo, bok pokazaś, jolic jo zsajźony w drugem sedle. Aby toś ten bok wiźeł, musyśo jen w nowem woknje wócyniś.
+csp-xfo-blocked-long-desc = Aby swóju wěstotu šćitał, { $hostname } { -brand-short-name } njedowólijo, bok pokazaś, jolic jo zasajźony w drugem sedle. Aby toś ten bok wiźeł, musyśo jen w nowem woknje wócyniś.
 
 ## Messages used for certificate error titles
 
