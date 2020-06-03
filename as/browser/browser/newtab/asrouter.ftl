@@ -80,12 +80,26 @@ cfr-whatsnew-release-notes-link-text = ৰিলীজ ন'টসমূহ প�
 cfr-whatsnew-fx70-title = { -brand-short-name }-এ এতিয়া আপোনাৰ গোপনিয়তাৰ বাবে আৰু কঠোৰভাৱে যুঁজ দিয়ে
 cfr-whatsnew-tracking-protect-title = ট্রেকাৰসমূহৰ পৰা নিজকে ৰক্ষা কৰক
 cfr-whatsnew-tracking-protect-link-text = আপোনাৰ ৰিপ'ৰ্ট চাওঁক
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] ট্রেকাৰ অৱৰুদ্ধ হ'ল
+       *[other] ট্রেকাৰসমূহ অৱৰুদ্ধ হ'ল
+    }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } তাৰিখৰে পৰা
 cfr-whatsnew-tracking-blocked-link-text = ৰিপ'ৰ্ট চাওঁক
 cfr-whatsnew-lockwise-backup-title = আপোনাৰ পাছৱৰ্ডসমূহৰ বেক আপ লওঁক
+cfr-whatsnew-lockwise-backup-link-text = বেকআপ চালু কৰক
+cfr-whatsnew-lockwise-take-title = আপোনাৰ পাছৱৰ্ডসমূহ নিজৰ লগত লৈ ফুৰক
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } ম'বাইল এপে আপোনাক সুৰক্ষিতভাৱে আপোনাৰ পাছৱৰ্ডসমূহ যিকোনো ঠাইৰ পৰা এক্সেছ কৰিবলৈ দিয়ে।
+cfr-whatsnew-lockwise-take-link-text = এপ লাভ কৰক
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = কমাই টাইপ কৰক, ঠিকনা দণ্ডিকাৰে অধিক বিচাৰি পাওঁক
+cfr-whatsnew-searchbar-icon-alt-text = মেগনিফাইং গ্লাছ আইকন
 
 ## Picture-in-Picture
 
