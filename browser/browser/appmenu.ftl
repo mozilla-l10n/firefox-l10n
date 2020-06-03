@@ -8,7 +8,7 @@
 appmenuitem-protection-report-title = গোপনীয়তা সুৰক্ষা
 appmenuitem-protection-report-tooltip =
     .tooltiptext = আপোনাৰ গোপনীয়তা প্ৰতিবেদনলৈ যাওঁক
-
+appmenuitem-protection-dashboard-title = সুৰক্ষা ডেশ্বব'ৰ্ড
 appmenuitem-customize-mode =
     .label = স্বনিৰ্বাচন…
 
@@ -26,3 +26,8 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = নতুন সুবিধাৰ বিষয়ে জনাব
+    .accesskey = f
