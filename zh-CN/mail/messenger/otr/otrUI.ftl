@@ -10,6 +10,7 @@ auth-cancel = 取消
 auth-cancelAccessKey = C
 auth-error = 验证联系人身份时发生错误。
 auth-success = 已成功验证联系人的身份。
+auth-successThem = 您的联系人已成功验证您的身份。您可能也想问他们问题，来验证其身份。
 auth-fail = 无法验证联系人的身份。
 auth-waiting = 等待联系人完成验证…
 finger-verify = 验证
@@ -25,6 +26,10 @@ alert-refresh = 正在尝试刷新与 { $name } 的加密对话。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = 与 { $name } 的加密对话结束。
+state-not_private = 当前对话并不隐私。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = 由于 { $name } 的身份尚未验证，当前对话已加密但并不隐私。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = { $name }的身份已验证。当前对话已加密且能保证隐私。
