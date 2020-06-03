@@ -124,6 +124,8 @@ password-warning =
     { $count ->
        *[other] การเข้าสู่ระบบที่บันทึกไว้อาจถูกเปิดเผยในข้อมูลที่รั่วไหล เปลี่ยนรหัสผ่านนี้เพื่อความปลอดภัยออนไลน์ที่ดีกว่า <a data-l10n-name="lockwise-link">ดูการเข้าสู่ระบบที่บันทึกไว้</a>
     }
+monitor-no-breaches-title = ข่าวดี!
+monitor-partial-breaches-motivation-title-start = เริ่มต้นใช้งาน!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
