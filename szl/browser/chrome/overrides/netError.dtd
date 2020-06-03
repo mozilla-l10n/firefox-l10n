@@ -210,7 +210,11 @@ za pora chwil.</li>
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> wyglōndo na bezpieczno strōna, ale niy szło nawiōnzać bezpiecznego połōnczynio. Problym sprowiōł <span class='mitm-name'/>, co je softwarym na tym kōmputrze abo w twojim necu.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Jak twōj antywirusowy program mo funkcyjo, co skanuje zaszyfrowane połōnczynia (czynsto mianowano "skanowanie neca" abo "skanowanie HTTPS"), to możesz ta funkcyjo zastawić. Jak to niy pōmoże, możesz tyż skasować i nazod zainsztalować antywirusowy program.'>
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Jak żeś je w korporacyjnym necu, możesz sie skōntaktować ze swojim dziołym IT.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jak niy poznowosz <span class='mitm-name'/>, to może to być atak i lepij niy iść na ta strōna.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jak niy poznowosz <span class='mitm-name'/>, to może to być atak i niy idzie nic zrobić, coby wlyźć na ta strōna.">
 
+<!ENTITY clockSkewError.title "Zygor ôd twojigo kōmputra źle chodzi">
 
 
 
