@@ -223,4 +223,8 @@ za pora chwil.</li>
 
 <!ENTITY networkProtocolError.title "Feler necowego protokołu">
 
+<!ENTITY enableTls10.longDesc "Ta strōna może niy ôbsugować protokołu TLS 1.2 - minimalnyj wersyji ôbsugowanyj ôd aplikacyje &brandShortName;. Połōnczynie może sie podarzić po załōnczyniu TLS 1.0 i TLS 1.1.">
+<!ENTITY enableTls10.note "TLS 1.0 i TLS 1.1 bydōm na zawdy zastawiōne we prziszłym wydaniu.">
+<!ENTITY enableTls10.label "Załōncz TLS 1.0 i 1.1">
 
+<!ENTITY networkProtocolError.longDesc "<p>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo znod sie feler we protokole naca.</p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li></ul>">
