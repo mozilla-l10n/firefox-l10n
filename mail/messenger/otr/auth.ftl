@@ -7,7 +7,7 @@ otr-auth =
     .buttonlabelaccept = 確認
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-auth-title = 確認 { $name } 的身分
+auth-title = 驗證 { $name } 的身分
 # Variables:
 #   $own_name (String) - the user's own screen name
 auth-your-fp-value = 您 { $own_name } 的指紋:

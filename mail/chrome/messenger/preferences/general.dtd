@@ -30,7 +30,7 @@
 
 <!ENTITY play.label                       "播放">
 <!ENTITY play.accesskey                   "P">
-<!ENTITY systemsound.label                "系統預設音效">
+<!ENTITY systemsound.label                "系統預設「收到新郵件」音效">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "使用下列音效檔案">
 <!ENTITY customsound.accesskey            "U">

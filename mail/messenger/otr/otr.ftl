@@ -53,7 +53,7 @@ msgevent-rcvdmsg_for_other_instance = { $name } 送出了要發給不同使用�
 context-gone_secure_private = 與 { $name } 的私人對話開始。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-context-gone_secure_unverified = 與 { $name } 未經確認加密方式的對話開始。
+context-gone_secure_unverified = 與 { $name } 有加密，但未經驗證的對話開始。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = 成功重新整理與 { $name } 的加密對話。
@@ -64,3 +64,6 @@ error-not_priv = 您傳送了加密資料給 { $name }，但對方並沒有預�
 error-unreadable = 您傳送了無法閱讀的加密訊息。
 error-malformed = 您傳送了資料格式錯誤的訊息。
 resent = [重寄]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } 結束了與您之間的加密對話，您也應該中斷對話。
