@@ -51,3 +51,6 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = 收件回執
+    .tooltiptext = 要求對方收信後寄發回執
