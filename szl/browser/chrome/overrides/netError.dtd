@@ -195,7 +195,10 @@ za pora chwil.</li>
 
 <!ENTITY certerror.pagetitle2  "Pozōr: potyncjalne zagrożynie bezpieczyństwa">
 <!ENTITY certerror.sts.pagetitle  "Niypołōnczōne: potyncjalne zagrożynie bezpieczyństwa">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Serwer <span class='hostname'></span> mo polityka bezpieczyństwa HTTP Strict Transport Security (HSTS), bez co aplikacyjo &brandShortName; poradzi sie ś nim połōnczyć ino bezpiecznie. Niy idzie przidać wyjōntku, coby nawiydzić ta strōna.">
+<!ENTITY certerror.copyToClipboard.label "Kopiuj tekst do kamerlika">
 
+<!ENTITY inadequateSecurityError.title "Twoje połōnczynie niy ma bezpieczne">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
