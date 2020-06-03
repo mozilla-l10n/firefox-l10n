@@ -41,7 +41,7 @@ state-unverified = Mae'r sgwrs gyfredol wedi'i hamgryptio ond nid yn breifat, ga
 state-private = Mae hunaniaeth { $name } wedi'i wirio. Mae'r sgwrs gyfredol wedi'i hamgryptio ac yn breifat.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-state-finished = Mae { $name } wedi dod â'u sgwrs wedi'i hamgryptio gyda chi i ben; dylech chi wneud yr un peth.
+state-finished = Mae { $name } wedi dod â'u sgwrs wedi'i hamgryptio gyda chi i ben; dylech wneud yr un peth.
 state-not_private-label = Anniogel
 state-unverified-label = Heb ei wirio
 state-private-label = Preifat
@@ -56,7 +56,7 @@ afterauth-private = Rydych wedi gwirio hunaniaeth { $name }.
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = Nid yw hunaniaeth { $name } wedi'i wirio.
 verify-title = Gwirio hunaniaeth eich cyswllt
-error-title = Error
+error-title = Gwall
 success-title = Amgryptio Pen-i-Ben
 successThem-title = Gwirio hunaniaeth eich cyswllt
 fail-title = Methu gwirio

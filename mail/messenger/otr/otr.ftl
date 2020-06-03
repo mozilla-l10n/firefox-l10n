@@ -44,7 +44,7 @@ msgevent-rcvdmsg_unencrypted = Nid yw'r neges ganlynol a dderbyniwyd gan { $name
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-rcvdmsg_unrecognized = Cawsoch neges OTR heb ei hanabod gan { $name }.
+msgevent-rcvdmsg_unrecognized = Cawsoch neges OTR heb ei hadnabod gan { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_for_other_instance = Mae { $name } wedi anfon neges a fwriadwyd ar gyfer sesiwn wahanol. Os ydych wedi mewngofnodi sawl gwaith, efallai y bydd sesiwn arall wedi derbyn y neges.
@@ -66,7 +66,7 @@ error-malformed = Rydych wedi trosglwyddo neges ddata wedi'i hanffurfio.
 resent = [ail anfon]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-tlv-disconnected = Mae { $name } wedi dod â'u sgwrs wedi'i hamgryptio gyda chi i ben; dylech chi wneud yr un peth.
+tlv-disconnected = Mae { $name } wedi dod â'u sgwrs wedi'i hamgryptio gyda chi i ben; dylech wneud yr un peth.
 # Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
 # Make sure that this string does NOT contain any numbers, e.g. like "3".
 # Variables:
