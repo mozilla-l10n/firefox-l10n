@@ -45,6 +45,7 @@ privacy-data-collection-header = Raccolta e utilizzo dati
 collection-header = Raccolta e utilizzo dati di { -brand-short-name }
 collection-description = Cerchiamo di garantire agli utenti la possibilità di scegliere, raccogliendo solo i dati necessari per realizzare e migliorare { -brand-short-name } per tutti. Prima di raccogliere dati personali, chiediamo sempre l’autorizzazione.
 collection-privacy-notice = Informativa sulla privacy
+collection-health-report-telemetry-disabled = { -vendor-short-name } non ha più il permesso di raccogliere dati tecnici e relativi all’interazione con Thunderbird. Tutti i dati esistenti verranno rimossi entro 30 giorni.
 collection-health-report-telemetry-disabled-link = Ulteriori informazioni
 collection-health-report =
     .label = Consenti a { -brand-short-name } di inviare a { -vendor-short-name } dati tecnici e di interazione
@@ -699,3 +700,4 @@ search-results-empty-message =
         [windows] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle opzioni.
        *[other] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle preferenze.
     }
+search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web dedicato al supporto di { -brand-short-name }</a>.

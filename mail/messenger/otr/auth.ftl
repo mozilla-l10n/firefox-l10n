@@ -9,6 +9,9 @@ otr-auth =
 #   $name (String) - the screen name of a chat contact person
 auth-title = Verifica l’identità di { $name }
 # Variables:
+#   $own_name (String) - the user's own screen name
+auth-your-fp-value = Il tuo fingerprint ({ $own_name }):
+# Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Fingerprint di { $their_name }:
 auth-help = Verificare l’identità di un contatto contribuisce a salvaguardare la privacy della conversazione, rendendo più difficile per terze parti sorvegliarla o manipolarla.
@@ -33,3 +36,5 @@ auth-how = Come si preferisce verificare l’identità del contatto?
 auth-qaInstruction = Formulare una domanda di cui solo il contatto conosce la risposta. Immettere domanda e relativa risposta, quindi attendere che il contatto immetta la risposta. Se la risposta del contatto non corrisponde, il canale di comunicazione in uso potrebbe essere sotto sorveglianza.
 auth-secretInstruction = Pensare a un segreto noto solo al contatto. Evitare di scambiarsi i segreti attraverso la stessa connessione internet in uso. Immettere il segreto, quindi attendere che anche il contatto lo immetta. Se il segreto non corrisponde, il canale di comunicazione in uso potrebbe essere sotto sorveglianza.
 auth-question = Immettere una domanda:
+auth-answer = Immettere la risposta (distinzione maiuscole/minuscole):
+auth-secret = Immettere il segreto:
