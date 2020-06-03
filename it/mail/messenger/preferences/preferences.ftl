@@ -43,6 +43,7 @@ privacy-passwords-header = Password
 privacy-junk-header = Indesiderata
 privacy-data-collection-header = Raccolta e utilizzo dati
 collection-header = Raccolta e utilizzo dati di { -brand-short-name }
+collection-description = Cerchiamo di garantire agli utenti la possibilità di scegliere, raccogliendo solo i dati necessari per realizzare e migliorare { -brand-short-name } per tutti. Prima di raccogliere dati personali, chiediamo sempre l’autorizzazione.
 collection-privacy-notice = Informativa sulla privacy
 collection-health-report-telemetry-disabled-link = Ulteriori informazioni
 collection-health-report =
