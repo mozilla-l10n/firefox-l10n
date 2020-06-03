@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Mě:">
 <!ENTITY folderProps.name.accesskey              "M">
+<!ENTITY folderProps.color.label                 "Symbolowa barwa:">
+<!ENTITY folderProps.color.accesskey             "S">
+<!ENTITY folderProps.reset.tooltip               "Standardnu barwu wótnowiś">
 <!ENTITY folderProps.location.label              "Městno:">
 <!ENTITY folderProps.location.accesskey          "s">
 

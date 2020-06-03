@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
-
 
 <!ENTITY messageStorage.label "Składowanje powěsćow">
 <!ENTITY securitySettings.label "Wěstotne nastajenja">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Standard:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "P">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Pśed ześěgnjenju wěcej ako">
 <!ENTITY maxMessagesStart.accesskey "w">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "z">
 <!ENTITY newsrcFilePath.label "newsrc-dataja:">
 <!ENTITY newsrcPicker.label "Newsrc-dataju wubraś">
+<!ENTITY newsrcFilePath1.label "Dataja News.rc:">
+<!ENTITY newsrcPicker1.label "Dataju News.rc wubraś">
 <!ENTITY abbreviate.label "Mjenja diskusijnych kupkow we woknje e-mailowych zarědnikow pokazaś ako:">
 <!ENTITY abbreviateOn.label "Połne mjenja (na pśikład 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skrotcone mjenja (na pśikład 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "R">
 <!ENTITY serverDefaultCharset2.label "Standardne tekstowe koděrowanje:">
 <!ENTITY localPath.label "Lokalny zapis:">
+<!ENTITY localPath1.label "Lokalny zapis:">
 <!ENTITY localFolderPicker.label "Lokalny zapis wubraś">
 <!ENTITY browseFolder.label "Pśepytaś…">
 <!ENTITY browseFolder.accesskey "P">
