@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 otr-add-finger-fingerprint = Fingeravtrykk:
+otr-add-finger-tooltip-error = Ugyldig tegn angitt. Bare bokstavene ABCDEF og tall er tillatt
