@@ -9,3 +9,6 @@ otr-encryption-title = Crittografia verificata
 otr-settings-title = Impostazioni OTR
 otr-log =
     .label = Includi i messaggi crittati OTR nei registri delle conversazioni
+otr-verifyNudge =
+    .label = Ricordami sempre di verificare un contatto non verificato
+otr-notYetAvailable = non ancora disponibile
