@@ -28,8 +28,20 @@ alert-refresh = 正在嘗試與 { $name } 重新整理加密對話…
 alert-gone_insecure = 與 { $name } 的加密對話結束。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-finger-unseen = { $name } 的身分未經驗證。無法進行一般的竊聽，但有心人花點功夫還是可以暗中偷聽。請驗證此聯絡人的身分來防止您受到監控。
+finger-unseen = { $name } 的身分未經驗證。雖然不可能受到一般的竊聽，但有心人花點功夫還是可以暗中偷聽。請驗證此聯絡人的身分來防止您受到監控。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } 使用未經識別的電腦聯絡您。雖然不可能受到一般的竊聽，但有心人花點功夫還是可以暗中偷聽。請驗證此聯絡人的身分來防止您受到監控。
 state-not_private = 目前的對話不是私人對話。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = 由於尚未驗證 { $name } 的身分，目前的對話有加密但並不隱私。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = { $name } 的身分已經驗證，目前的對話已加密也能確保隱私。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } 結束了與您之間的加密對話，您也應該中斷對話。
 state-not_private-label = 不安全
 state-unverified-label = 未驗證
 state-private-label = 私人
