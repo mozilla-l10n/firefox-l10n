@@ -16,6 +16,7 @@
 <!ENTITY email.label "Indirizzo email:">
 <!ENTITY email.accesskey "I">
 <!ENTITY catchAll.label "Rispondi da questa identità quando le intestazioni di consegna corrispondono:">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Indirizzo per risposte:">
 <!ENTITY replyTo.accesskey "z">
 <!ENTITY replyTo.placeholder "I destinatari risponderanno a questo altro indirizzo">
