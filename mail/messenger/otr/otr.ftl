@@ -35,3 +35,22 @@ msgevent-rcvdmsg_general_err = Er is een onverwachte fout opgetreden bij het bes
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
 msgevent-rcvdmsg_unencrypted = Het volgende bericht van { $name } is niet versleuteld: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = U hebt een niet-herkend OTR-bericht ontvangen van { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } heeft een bericht gestuurd dat bedoeld is voor een andere sessie. Als u meerdere keren bent aangemeld, heeft een andere sessie het bericht mogelijk ontvangen.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Privégesprek met { $name } is gestart.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Versleuteld, maar niet-geverifieerd gesprek met { $name } is gestart.
+error-enc = Er is een fout opgetreden bij het versleutelen van het bericht.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = U hebt versleutelde gegevens verzonden naar { $name }, die dit niet verwachtte.
+error-unreadable = U hebt een onleesbaar versleuteld bericht verzonden.
+resent = [opnieuw verzonden]
