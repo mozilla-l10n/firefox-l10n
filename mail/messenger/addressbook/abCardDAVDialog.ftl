@@ -29,3 +29,4 @@ carddav-remember-password =
     .accesskey = o
 carddav-loading = Konfiguracija se pśepytujo…
 carddav-connection-error = Zwisk njejo móžny.
+carddav-available-books = K dispoziciji stojece adresniki:
