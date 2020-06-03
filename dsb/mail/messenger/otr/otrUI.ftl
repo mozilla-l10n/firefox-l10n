@@ -12,3 +12,6 @@ state-not_private = Aktualna konwersacija njejo priwatna.
 state-not_private-label = Njewěsty
 state-unverified-label = Njewobkšuśony
 state-private-label = Priwatny
+state-finished-label = Dokóńcone
+error-title = Zmólka
+success-title = Koděrowanje wót kóńca do kóńca
