@@ -77,6 +77,12 @@ cfr-whatsnew-button =
     .tooltiptext = নতুন কি আছে
 cfr-whatsnew-panel-header = নতুন কি আছে
 cfr-whatsnew-release-notes-link-text = ৰিলীজ ন'টসমূহ পঢ়ক
+cfr-whatsnew-fx70-title = { -brand-short-name }-এ এতিয়া আপোনাৰ গোপনিয়তাৰ বাবে আৰু কঠোৰভাৱে যুঁজ দিয়ে
+cfr-whatsnew-tracking-protect-title = ট্রেকাৰসমূহৰ পৰা নিজকে ৰক্ষা কৰক
+cfr-whatsnew-tracking-protect-link-text = আপোনাৰ ৰিপ'ৰ্ট চাওঁক
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } তাৰিখৰে পৰা
+cfr-whatsnew-tracking-blocked-link-text = ৰিপ'ৰ্ট চাওঁক
+cfr-whatsnew-lockwise-backup-title = আপোনাৰ পাছৱৰ্ডসমূহৰ বেক আপ লওঁক
 
 ## Search Bar
 
