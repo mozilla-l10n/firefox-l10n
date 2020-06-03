@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "權限…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "您有下列權限:">
+<!ENTITY folderOtherUsers.label                  "其他有權限存取此信件匣的人:">
 <!ENTITY folderType.label                        "信件匣類型:">
 
 <!ENTITY folderQuotaTab.label                    "配額">
