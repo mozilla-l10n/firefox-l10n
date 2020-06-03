@@ -209,6 +209,7 @@ za pora chwil.</li>
 <!ENTITY certerror.mitm.title "Ôprogramowanie niy dowo &brandShortName; bezpiecznie sie połōnczyć z tōm strōnōm.">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> wyglōndo na bezpieczno strōna, ale niy szło nawiōnzać bezpiecznego połōnczynio. Problym sprowiōł <span class='mitm-name'/>, co je softwarym na tym kōmputrze abo w twojim necu.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Jak twōj antywirusowy program mo funkcyjo, co skanuje zaszyfrowane połōnczynia (czynsto mianowano "skanowanie neca" abo "skanowanie HTTPS"), to możesz ta funkcyjo zastawić. Jak to niy pōmoże, możesz tyż skasować i nazod zainsztalować antywirusowy program.'>
 
 
 
