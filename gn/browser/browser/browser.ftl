@@ -180,11 +180,11 @@ search-one-offs-context-open-new-tab =
     .label = Tendayke pyahúpe jeheka
     .accesskey = T
 search-one-offs-context-set-as-default =
-    .label = Emopyenda ijypykuévaramo ha jehekaha mongu'eha
+    .label = Emopyenda ijypykuévaramo ha jehekaha mongu’eha
     .accesskey = D
 search-one-offs-context-set-as-default-private =
-    .label = Emoĩ jehekaha mongu'eha ijypykuévaramo ovetã ñemíme
-    .accesskey = E
+    .label = Emoĩ jehekaha mongu’eha ijypykuévaramo ovetã ñemíme
+    .accesskey = P
 
 ## Bookmark Panel
 
