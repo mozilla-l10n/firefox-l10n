@@ -89,7 +89,7 @@ main-context-menu-open-link-new-tab =
     .label = Յղումը բացել նոր ներդիրում
     .accesskey = T
 main-context-menu-open-link-container-tab =
-    .label = Յղումը բացել նոր ներդիրում
+    .label = Յղումը բացել նոր պարունակ ներդիրում
     .accesskey = b
 main-context-menu-open-link-new-window =
     .label = Յղումը բացել նոր պատուհանում
@@ -112,7 +112,7 @@ main-context-menu-save-link-to-pocket =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = Պատճէնել Էլ. փոստի հասցէն
+    .label = Պատճէնել ել. փոստի հասցէն
     .accesskey = A
 main-context-menu-copy-link =
     .label = Պատճէնել յղման հասցէն
