@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "R">
 <!ENTITY newAddressBookCmd.label                        "Llyfr Cyfeiriadau…">
 <!ENTITY newAddressBookCmd.accesskey                    "L">
+<!ENTITY newCardDAVBookCmd.label                        "Llyfr Cyfeiriadau CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Cyfeiriadur LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "y">
 <!ENTITY newMessageCmd.label                            "Neges">
