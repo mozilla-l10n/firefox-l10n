@@ -91,3 +91,7 @@ corruptedContentError-title = ক্ষতিগ্ৰস্থ সমল ত্
 remoteXUL-title = দূৰৱৰ্তী XUL
 sslv3Used-title = সুৰক্ষিতভাৱে সংযোগ কৰাত অক্ষম
 inadequateSecurityError-title = আপোনাৰ সংযোগ নিৰাপদ নহয়
+blockedByPolicy-title = অৱৰুদ্ধ পৃষ্ঠা
+clockSkewError-title = আপোনাৰ কম্পিউটাৰৰ ঘড়ী ভুল
+networkProtocolError-title = নেটৱৰ্ক প্ৰ'ট'কল ত্ৰুটি
+nssBadCert-title = সকীয়নি: সন্মুখত সম্ভাব্য নিৰাপত্তাৰ বিপদাশংকা আছে
