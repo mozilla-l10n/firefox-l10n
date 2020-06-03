@@ -56,6 +56,19 @@ move-to-new-window =
 undo-close-tab =
     .label = Zacynjony rejtarik wótnowiś
     .accesskey = c
+tab-context-close-multiple-tabs =
+    .label = Někotare rejtariki zacyniś
+    .accesskey = N
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zacynjony rejtarik wócyniś
+            [one] Zacynjony rejtarik wócyniś
+            [two] Zacynjonej rejtarika wócyniś
+            [few] Zacynjone rejtariki wócyniś
+           *[other] Zacynjonych rejtarikow wócyniś
+        }
+    .accesskey = Z
 close-tab =
     .label = Rejtarik zacyniś
     .accesskey = z

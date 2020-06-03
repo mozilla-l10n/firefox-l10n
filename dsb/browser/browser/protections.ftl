@@ -223,6 +223,15 @@ monitor-partial-breaches-title =
         [few] { $numBreachesResolved } z { $numBreaches } datowych źěrow su se markěrowali ako rozwězane.
        *[other] { $numBreachesResolved } z { $numBreaches } datowych źěrow jo se markěrowało ako rozwězane.
     }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved } % dokóńcone
+monitor-partial-breaches-motivation-title-start = Wjelicny zachopjeńk!
+monitor-partial-breaches-motivation-title-middle = Dalej tak!
+monitor-partial-breaches-motivation-title-end = Pśisamem dokóńcone! Dalej tak.
+monitor-partial-breaches-motivation-description = Rozwěźćo zbytk swójich datowych źěrow na { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Datowe źěry rozwězaś
+    .title = Datowe źěry na { -monitor-brand-short-name } rozwězaś
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
