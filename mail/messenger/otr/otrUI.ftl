@@ -19,7 +19,38 @@ buddycontextmenu-label = 添加 OTR 指纹
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-start = 尝试与 { $name } 开始加密对话。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = 正在尝试刷新与 { $name } 的加密对话。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = 与 { $name } 的加密对话结束。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = { $name }的身份已验证。当前对话已加密且能保证隐私。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } 已结束与您的加密对话；您也应该中断对话。
 state-not_private-label = 不安全
+state-unverified-label = 未验证
+state-private-label = 私人
+state-finished-label = 已完成
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } 请求验证您的身份。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = 您已验证 { $name } 的身份。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = { $name } 的身份尚未验证。
+verify-title = 验证联系人的身份
 error-title = 错误
 success-title = 端到端加密
+successThem-title = 验证联系人的身份
 fail-title = 无法验证
+waiting-title = 验证请求已发送
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = 生成 OTR 私钥失败：{ $error }
