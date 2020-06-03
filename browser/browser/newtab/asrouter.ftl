@@ -129,12 +129,20 @@ cfr-whatsnew-fingerprinter-counter-body-alt = আপোনাৰ বিজ্ঞ
 
 cfr-doorhanger-sync-bookmarks-header = আপোনাৰ ফোনত এই বুকমাৰ্ক লাভ কৰক
 cfr-doorhanger-sync-bookmarks-body = আপুনি { -brand-product-name }-ত ছাইন ইন হৈ থকা যিকোনো ঠাইলৈ আপোনাৰ বুকমাৰ্ক, পাছৱৰ্ড, ইতিহাস আৰু বহুতো লৈ যাওঁক।
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } চালু কৰক
+    .accesskey = T
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = আৰু কেতিয়াও পাছৱৰ্ড নেহেৰুৱাব
+cfr-doorhanger-sync-logins-body = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ সকলো ডিভাইচত সুৰক্ষিতভাৱে সংৰক্ষণ আৰু চিংক কৰক।
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } চালু কৰক
+    .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = এইটো ফুৰি ফুৰি পঢ়ক
+cfr-doorhanger-send-tab-recipe-header = এই ৰেচিপীটো পাকঘৰলৈ লৈ যাওঁক
 
 ## Firefox Send
 
