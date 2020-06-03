@@ -30,4 +30,6 @@ carddav-remember-password =
     .accesskey = m
 carddav-loading = 正在查询配置…
 carddav-connection-error = 连接失败。
+carddav-none-found = 找不到指定账户中可以添加的通讯录。
+carddav-already-added = 已添加指定账户的所有通讯录。
 carddav-available-books = 可用的通讯录：

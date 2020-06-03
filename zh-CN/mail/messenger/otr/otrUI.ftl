@@ -26,6 +26,12 @@ alert-refresh = 正在尝试刷新与 { $name } 的加密对话。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = 与 { $name } 的加密对话结束。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = 保{ $name } 的身份尚未验证。尽管偶然的窃听不太可能，但为万无一失。请验证此联系人的身份来避免受到监控。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } 使用未识别的计算机与您联系。尽管偶然的窃听不太可能，但为保万无一失。请验证此联系人的身份来避免受到监控。
 state-not_private = 当前对话并不隐私。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
