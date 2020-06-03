@@ -20,5 +20,5 @@ crashed-include-URL = Toñemondo avei URLs ñandutiroguekuéra ahechávakuri oik
 crashed-email-placeholder = Emoinge nekundaharape ñanduti veve ko'ápe
 crashed-email-me = Egueruka chéve ñanduti veve oĩ hetavévo marandu jehechakuaáva
 crashed-report-sent = Crash marandu oñemoguahẽma ; aguyje orepytyvõ rupi { -brand-short-name } okakuaave haguã!
-crashed-request-auto-submit-title = Marandu'i tendayke rugua pegua
+crashed-request-auto-submit-title = Marandu’i tendayke rugua pegua
 crashed-auto-submit-checkbox = Embotekopyahu Jerohoryvéva ikatuhaguáicha oñemondo ijehegui marandu { -brand-short-name } iñapañuãi jave.

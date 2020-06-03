@@ -842,7 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "Eikehína tekorosãme ko tendápe, mba’eteépe:">
 <!ENTITY identity.connectionInternal "Kóva &brandShortName; jeroviáva; kuatiarogue.">
 <!ENTITY identity.extensionPage "Ko kuatiarogue oñemyanyhẽ jepysokue guive.">
-<!ENTITY identity.insecureLoginForms2 "Ojehaiva'ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.">
+<!ENTITY identity.insecureLoginForms2 "Ojehaiva’ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.">
 <!ENTITY identity.customRoot "Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.">
 
 <!-- Strings for connection state warnings. -->

@@ -4,11 +4,10 @@
 
 page-title = Marandu apañuãi oñemyatyrõ haguã
 page-subtitle = Ko kuatiarogue oguereko marandu aporekoguáva ikatúva eipuru emyatyrõse jave peteĩ apañuãi. Ehekáramo mbohovái umi porandu oikovéva  { -brand-short-name } rehegua, eike <a data-l10n-name="support-link">tenda eikekuaaha</a>.
-
 crashes-title = Marandu jejavyguáva
 crashes-id = ID momarandu
 crashes-send-date = Mondopyre
-crashes-all-reports = Opaite marandu'i jejavy rehegua
+crashes-all-reports = Opaite marandu’i jejavy rehegua
 crashes-no-config = Ko tembipuru'i oñembohekopyahu ohechauka hag̃ua marandu jejavy rehegua.
 extensions-title = Mba'ejoapyrã
 extensions-name = Téra
@@ -124,7 +123,6 @@ audio-backend = Mba'epu ñangarekoha huguapeguáva
 max-audio-channels = Max mbohapeha
 channel-layout = Mbohapeha ñemoĩ ojererohorýva
 sample-rate = Techaukarã py'ỹigua ojererohorýva
-
 media-title = Marandu myasãiha
 media-output-devices-title = Mba'e'oka osẽha
 media-input-devices-title = Mba'e'oka oikeha
@@ -172,10 +170,9 @@ remote-debugging-url = URL
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Marandu'i jejavy rehegua ko { $days } ára peguáva
-       *[other] Marandu'i jejavy rehegua ohasaramóva { $days } ára peguáva
+        [one] Marandu’i jejavy rehegua ko { $days } ára peguáva
+       *[other] Marandu’i jejavy rehegua ohasaramóva { $days } ára peguáva
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -183,7 +180,6 @@ crashes-time-minutes =
         [one] ojapóma { $minutes } aravo'i
        *[other] ojapóma { $minutes } aravo'i
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -191,7 +187,6 @@ crashes-time-hours =
         [one] ojapóma { $hours } aravo
        *[other] ojapóma { $hours } aravo
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -199,7 +194,6 @@ crashes-time-days =
         [one] { $days } peteĩ árama
        *[other] { $days } peteĩ árama
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -207,7 +201,6 @@ pending-reports =
         [one] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha'ãrõva pe pa'ũ aravo je'epyréva)
        *[other] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha'ãrõva pe pa'ũ aravo je'epyréva)
     }
-
 raw-data-copied = Mba'ekuaarã hi'akýva ohasáva kuatiajokohápe
 text-copied = Moñe'ẽrã oñembohasáma kuatiajokohápe
 
@@ -220,11 +213,9 @@ blocked-mismatched-version = Ojoko ha'ãnga ñangarekoha peteĩchagua oĩporã'�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Ojejokóva peteĩchaguápe g̃uarã ta'ãnga ñangarekohárape. Eñeha'ã embohekopyahu pe ta'ãnga ñangarekohára { $driverVersion } ichaguáva térã ipyahuvévape.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType ra'ãhaite
-
 compositing = Hetepyete
 hardware-h264 = Hardware H264 Papapy'o
 main-thread-no-omtc = inimbo ha'etéva, OMTC ỹre
@@ -239,7 +230,6 @@ virtual-monitor-disp = Mba’erechaha ñandutiguáva
 
 found = Ojuhu
 missing = Kañymbyre
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Ñemoha'ãnga
@@ -263,23 +253,18 @@ webgl2-version = WebGL 2 ñangarekoha peteĩchagua
 webgl2-driver-extensions = WebGL 2 ñangarekoha jepysokue
 webgl2-extensions = WebGL 2 jepysokue
 blocklisted-bug = Tysýi vai apañuãi jekuaáva rupi
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = javy { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Tysýi vai; ayvu jejavy { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Ta'ãngamýi Mbopapapy'oha
 d3d9video-crash-buard = D3D9 Ta'ãngamýi Mbopapapy'oha
 d3d9video-crash-guard = D3D9 Ta'ãngamýi Mbopapapy'oha
 glcontext-crash-guard = OpenGL
-
 wmfvpxvideo-crash-guard = Ta'ãngamýi Mbopapapy'oha WMF VPX
-
 reset-on-next-restart = Embojevy moñepyrũjey uperire
 gpu-process-kill-button = GPU raperekogua mohu'ã
 gpu-device-reset = Emoñepyrũjey mba’e’oka
@@ -289,10 +274,8 @@ content-uses-tiling = Eipuru mosáiko (tetepy)
 off-main-thread-paint-enabled = Opyta okápe inimbo tuichavéva mbosa'yha ijurujáva
 off-main-thread-paint-worker-count = Ñemoha'anga resa'ỹijo téma tuichavéva opyta okápe
 target-frame-rate = Ta’anga py’ỹi hupytyrã
-
 min-lib-versions = Peteĩchagua michĩmíva ha'arõpy
 loaded-lib-versions = Peteĩchagua ojepurúva
-
 has-seccomp-bpf = Seccomp-BPF (Ñehenói mboguaha rehegua)
 has-seccomp-tsync = Seccomp mba'eapo'i ñembojuehe
 has-user-namespaces = Puruhára réra rehegua pa'ũ
@@ -305,18 +288,15 @@ sandbox-proc-type-content = tetepy
 sandbox-proc-type-file = Marandurenda rechapyrã
 sandbox-proc-type-media-plugin = plugin maranduguáva
 sandbox-proc-type-data-decoder = Mba’ekuaarã papapy'o
-
 startup-cache-title = Kache ñepyrũgua
 startup-cache-disk-cache-path = Disco Kache Rape
 startup-cache-ignore-disk-cache = Ehejarei Disco Kache
 startup-cache-found-disk-cache-on-init = Ojejuhu disco kache Init-pe
 startup-cache-wrote-to-disk-cache = Ehai Disco Kachépe
-
 launcher-process-status-0 = Jurujapyre
 launcher-process-status-1 = Ojepe'apyre ojavy rupi
 launcher-process-status-2 = Mbaretépe jepe’apyre
 launcher-process-status-unknown = Tekotee ojekuaa’ỹva
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -329,7 +309,6 @@ multi-process-status-6 = Oñemomba'apo'ỹva oguereko rupi jehai ndojehaiva'erã
 multi-process-status-7 = Oñemomba'apo'ỹ moĩmbaha rupive
 multi-process-status-8 = Oñemongepyre mbaretépe
 multi-process-status-unknown = Jeiko ojekuaa'ỹva
-
 async-pan-zoom = Ojuehe'ỹva Pan/Zoom
 apz-none = Avave
 wheel-enabled = omoneĩ jereha jeike
@@ -337,7 +316,6 @@ touch-enabled = jeikeha jepokóva jurujapyre
 drag-enabled = embosyryry oku'éva renda myendypyre
 keyboard-enabled = tairenda myandypyre
 autoscroll-enabled = ñemongu'e ijeheguíva ijurujáma
-
 zooming-enabled = zoom ñepichã’i myandypyre
 
 ## Variables
