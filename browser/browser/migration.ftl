@@ -14,6 +14,9 @@ source-name-safari = Safari
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-ie-1 =
+    .label = Opzioni internet
+    .value = Opzioni internet
 browser-data-safari-1 =
     .label = Preferenze
     .value = Preferenze
@@ -23,6 +26,18 @@ browser-data-ie-2 =
 browser-data-safari-2 =
     .label = Cookie
     .value = Cookie
+browser-data-ie-4 =
+    .label = Cronologia di navigazione
+    .value = Cronologia di navigazione
+browser-data-safari-4 =
+    .label = Cronologia di navigazione
+    .value = Cronologia di navigazione
+browser-data-ie-8 =
+    .label = Dati salvati nei moduli
+    .value = Dati salvati nei moduli
+browser-data-safari-8 =
+    .label = Dati salvati nei moduli
+    .value = Dati salvati nei moduli
 browser-data-ie-16 =
     .label = Password salvate
     .value = Password salvate
