@@ -52,19 +52,31 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = আপুনি পিন কৰিবলৈ বিচৰা টেবত <b>সোঁ-ক্লিক কৰক</b>।
+cfr-doorhanger-pintab-step2 = মেন্যুৰ পৰা <b>টেব পিন কৰক</b> বাছি লওঁক।
+cfr-doorhanger-pintab-step3 = ছাইটৰ কিবা আপডেট থাকিলে আপুনি আপোনাৰ পিন কৰা টেবত এটা নীলা বিন্দু দেখা পাব।
+cfr-doorhanger-pintab-animation-pause = ৰখাওঁক
+cfr-doorhanger-pintab-animation-resume = পুনৰাৰম্ভ
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = সকলো ঠাইতে আপোনাৰ বুকমাৰ্কসমূহ ছিংক কৰক।
+cfr-doorhanger-bookmark-fxa-link-text = এতিয়াই বুকমাৰ্ক চিংক কৰক…
 
 ## Protections panel
 
+cfr-protections-panel-link-text = অধিক জানক
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = নতুন সুবিধা:
 cfr-whatsnew-button =
     .label = নতুন কি আছে
     .tooltiptext = নতুন কি আছে
 cfr-whatsnew-panel-header = নতুন কি আছে
+cfr-whatsnew-release-notes-link-text = ৰিলীজ ন'টসমূহ পঢ়ক
 
 ## Search Bar
 
