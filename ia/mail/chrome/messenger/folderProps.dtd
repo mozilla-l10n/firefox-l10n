@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Nomine:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Color de icone:">
+<!ENTITY folderProps.color.accesskey             "i">
+<!ENTITY folderProps.reset.tooltip               "Restaurar le color predefinite">
 <!ENTITY folderProps.location.label              "Loco:">
 <!ENTITY folderProps.location.accesskey          "L">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Privilegios…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Tu ha le sequente permissiones:">
+<!ENTITY folderOtherUsers.label                  "Alteres con accesso a iste plica:">
 <!ENTITY folderType.label                        "Typo de dossier:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">

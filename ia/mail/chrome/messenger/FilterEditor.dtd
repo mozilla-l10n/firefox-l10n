@@ -38,6 +38,7 @@
 <!ENTITY replyWithTemplate.label "Responder con modello">
 <!ENTITY markMessageRead.label "Marcar como legite">
 <!ENTITY markMessageUnread.label "Marcar como non legite">
+<!ENTITY markMessageStarred.label "Adder stella">
 <!ENTITY setJunkScore.label "Mitter stato indesirate a">
 <!ENTITY deleteMessage.label "Deler message">
 <!ENTITY ignoreThread.label "Ignorar argumento">
