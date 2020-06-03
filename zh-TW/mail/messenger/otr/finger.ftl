@@ -5,6 +5,7 @@
 otr-finger =
     .buttonlabelaccept = 關閉
     .title = 先前看過的 OTR 指紋
+finger-intro = 來自先前的端到端加密對話的 OTR 金鑰指紋。
 finger-screenName =
     .label = 聯絡人
 finger-verified =
