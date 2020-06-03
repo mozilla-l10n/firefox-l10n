@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-insecure-title = Ulac tuqqna taɣelsant
-
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-insecure-explanation-unavailable = Tettinigeḍ deg uskar HTTPS kan, yerna lqem n HTTPS aɣelsan n <em>{ $websiteUrl }</em> ulac.
 about-httpsonly-button-make-exception = Qbel ugur syen kemmel ɣef usmel
 about-httpsonly-button-go-back = Uɣal ɣer deffir
