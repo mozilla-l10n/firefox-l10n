@@ -33,6 +33,24 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = 移动到“密送”
     .accesskey = b
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value =
+        { $count ->
+            [0] 无附件
+           *[other] { $count } 个附件
+        }
+    .accesskey = m
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] { $count } 个附件
+           *[other] 无附件
+        }
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = 回执
+    .tooltiptext = 要求对方收件后发送回执
