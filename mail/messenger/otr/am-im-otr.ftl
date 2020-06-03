@@ -5,11 +5,17 @@
 account-encryption =
     .label = 端到端加密
 account-otr-label = 不留记录即时通讯（OTR）
+account-otr-description = { -brand-short-name } 支持对私人对话的端到端加密。如此可以防止第三方窃听对话内容。仅可在对方也使用支持 OTR 的软件时，进行此项加密。
+otr-encryption-caption = 为了使其他人能够在 OTR 聊天中验证您的身份，请使用外部/带外信道（即可靠的方式）共享自己的 OTR 指纹。
 otr-fingerprint-label = 您的指纹：
 view-fingerprint-button =
     .label = 管理联系人的指纹
     .accesskey = F
 otr-settings-title = OTR 设置
+otr-log =
+    .label = 在对话日志中包含加密过的 OTR 消息
+otr-requireEncryption =
+    .label = 要求私人对话中进行端到端加密
 otr-verifyNudge =
     .label = 始终提醒我验证未验证的联系人
 otr-notYetAvailable = 尚不可用
