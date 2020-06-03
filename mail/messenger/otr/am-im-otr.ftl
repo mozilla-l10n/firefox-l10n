@@ -5,5 +5,8 @@
 account-encryption =
     .label = Zaklučowanje wot kónca do kónca
 otr-fingerprint-label = Waš porstowy wotćišć:
+view-fingerprint-button =
+    .label = Porstowe wotćišće kontaktow rjadowaś
+    .accesskey = P
 otr-settings-title = OTR-nastajenja
 otr-notYetAvailable = hišće k dispoziciji njeje

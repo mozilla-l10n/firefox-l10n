@@ -38,6 +38,30 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Do schowaneje kopije přesunyć
     .accesskey = s
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value =
+        { $count ->
+            [1] { $count } přidatk
+            [one] { $count } přidatk
+            [two] { $count } přidatkaj
+            [few] { $count } přidatki
+           *[other] { $count } přidatkow
+        }
+    .accesskey = d
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] { $count } přidatk
+            [one] { $count } přidatk
+            [two] { $count } přidatkaj
+            [few] { $count } přidatki
+           *[other] { $count } přidatkow
+        }
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = Kwitowanka
+    .tooltiptext = Kwitowanku za tutu powěsć požadać
