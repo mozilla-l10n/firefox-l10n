@@ -162,6 +162,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Dangos eicon cilfach
     .accesskey = c
+mail-system-sound-label =
+    .label = Sain rhagosodedig y system ar gyfer e-bost newydd
+    .accesskey = S
 mail-custom-sound-label =
     .label = Defnyddio'r ffeil sain ganlynol
     .accesskey = D
@@ -672,6 +675,29 @@ chat-variant-label =
 chat-header-label =
     .label = Dangos Pennyn
     .accesskey = P
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Canfod yn Dewisiadau
+           *[other] Canfod yn Dewisiadau
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Canlyniadau Chwilio
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
+       *[other] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Angen cymorth? Ewch i <a data-l10n-name="url">Cefnogaeth { -brand-short-name }</a>
