@@ -45,6 +45,12 @@ privacy-data-collection-header = Datainnsamling og bruk
 collection-privacy-notice = Personvernerklæring
 collection-health-report-telemetry-disabled-link = Les meir
 collection-health-report-link = Les meir
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Datarapportering er slått av for denne byggekonfigurasjonen
+collection-backlogged-crash-reports =
+    .label = Tillat { -brand-short-name } å sende etterslepne krasjrapportar på dine vegne
+    .accesskey = k
 collection-backlogged-crash-reports-link = Les meir
 privacy-security-header = Sikkerheit
 privacy-scam-detection-title = Svindeldetektering
@@ -83,6 +89,10 @@ addons-button = Utvidingar og tema
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Stadfest identiteten din for å lage eit hovudpassord.
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å lage eit hovudpassord. Dette vil gjere kontoane dine tryggare.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
