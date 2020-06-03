@@ -209,6 +209,7 @@ monitor-no-breaches-description = Njamaśo žedne znate datowe źěry. Jolic se 
 monitor-view-report-link = Rozpšawu pokazaś
     .title = Datowe źěry na { -monitor-brand-short-name } rozwězaś
 monitor-breaches-unresolved-title = Rozwěźćo swóje datowe źěry
+monitor-breaches-unresolved-description = Za tym až sćo pśeglědał drobnostki datoweje źěry a něco cynił, aby swoje informacije šćitał, móžośo datowe źěry ako rozwězane markěrowaś.
 monitor-manage-breaches-link = Datowe źěry zastojaś
     .title = Datowe źěry na { -monitor-brand-short-name } zastojaś
 monitor-breaches-resolved-title = Wjelicnje! Sćo rozwězał wšykne znate datowe źěry.
