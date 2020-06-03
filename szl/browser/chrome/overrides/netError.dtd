@@ -216,7 +216,11 @@ za pora chwil.</li>
 
 <!ENTITY clockSkewError.title "Zygor ôd twojigo kōmputra źle chodzi">
 
+<!ENTITY clockSkewError.longDesc "Zygor w tym kōmputrze je źle nastawiōny na <span id='wrongSystemTime_systemDate1'/>, bez co aplikacyjo &brandShortName; niy poradzi sie bezpiecznie połōnczyć. Coby nawiydzić serwer <span class='hostname'></span>, zaktualizuj zygor kōmputra w systymowych nasztalowaniach na dobro data, godzina i czasowo strefa, a potym ôdświyż ta strōna.">
 
+<!ENTITY prefReset.longDesc "Zdo sie, co może to być skuli nasztalowań bezpieczyństwa twojigo neca. Wrōcić bazowe nasztalowania?">
+<!ENTITY prefReset.label "Wrōć bazowe nasztalowania">
 
+<!ENTITY networkProtocolError.title "Feler necowego protokołu">
 
 
