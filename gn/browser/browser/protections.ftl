@@ -167,8 +167,14 @@ monitor-view-report-link = Ehecha marandu’i
 monitor-breaches-unresolved-title = Emoĩporã umi ñembyai
 monitor-manage-breaches-link = Emongu’e ñembogua
     .title = Emongu’e ñembogua { -monitor-brand-short-name }-pe
+monitor-breaches-resolved-title = ¡Iporã! Emoĩporãmbáma ñembogua ojekuaáva.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% oĩmbáma
 monitor-partial-breaches-motivation-title-start = ¡Ñepyrũ guasu!
 monitor-partial-breaches-motivation-title-middle = ¡Eku’e péicha!
+monitor-partial-breaches-motivation-title-end = ¡Opapotáma! Eho hese péicha.
+monitor-partial-breaches-motivation-description = Emoĩporã hembýva ñembogua { -monitor-brand-short-name } rupive.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
