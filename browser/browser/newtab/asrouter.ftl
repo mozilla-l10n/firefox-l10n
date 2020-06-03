@@ -103,9 +103,12 @@ cfr-whatsnew-searchbar-icon-alt-text = মেগনিফাইং গ্লা�
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-cta = অধিক জানক
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = আগতকৈ কম বিৰক্তিকৰ ছাইট প'প-আপ
+cfr-whatsnew-permission-prompt-cta = অধিক জানক
 
 ## Fingerprinter Counter
 
