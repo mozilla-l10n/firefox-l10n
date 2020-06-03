@@ -162,6 +162,7 @@ about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 about-logins-confirm-remove-dialog-confirm-button = Kkes
 about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
+about-logins-confirm-export-dialog-message = Awalen-inek uffiren ad ttwaskelsen am uḍris ara d-ibanen i tɣuri (d amedya, BadP@ssw0rd) akken yal amdan ara yeldin afaylu i yettusifḍen ad yizmir ad t-iwali.
 about-logins-confirm-export-dialog-confirm-button = Kter…
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
 confirm-discard-changes-dialog-message = Akk isnifal ur nettwakles ara ad ttwaksen.
@@ -200,6 +201,9 @@ about-logins-error-message-default = Teḍra-d tuccḍa deg uɛraḍ n usekles n
 
 # Title of the file picker dialog
 about-logins-export-file-picker-title = Afaylu n usifeḍ n yinekcam
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
 about-logins-export-file-picker-export-button = Kter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
