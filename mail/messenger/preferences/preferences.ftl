@@ -137,12 +137,12 @@ new-message-arrival = При появі нових листів:
 mail-play-sound-label =
     .label =
         { PLATFORM() ->
-            [macos] Відтворити наступний звуковий файл:
+            [macos] Відтворити такий звуковий файл:
            *[other] Відтворити звук
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] з
+            [macos] к
            *[other] з
         }
 mail-play-button =
