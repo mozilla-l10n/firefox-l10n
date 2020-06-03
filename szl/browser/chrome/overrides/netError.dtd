@@ -202,9 +202,13 @@ za pora chwil.</li>
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "Serwer <p><span class='hostname'></span> używo przedowniōnyj technologije bezpieczyństwa i leko idzie go zaatakować. Napastnik leko by poradziōł poznać informacyje, kere mosz za bezpieczne. Administratōr strōny bydzie musioł naprawić serwer, podwiela pōdzie nawiydzić ta strōna.</p><p>Kod felera: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Zaszperowano strōna">
 
+<!ENTITY certerror.mitm.title "Ôprogramowanie niy dowo &brandShortName; bezpiecznie sie połōnczyć z tōm strōnōm.">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> wyglōndo na bezpieczno strōna, ale niy szło nawiōnzać bezpiecznego połōnczynio. Problym sprowiōł <span class='mitm-name'/>, co je softwarym na tym kōmputrze abo w twojim necu.">
 
 
 
