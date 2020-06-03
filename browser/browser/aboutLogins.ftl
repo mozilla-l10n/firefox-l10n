@@ -181,6 +181,7 @@ about-logins-breach-alert-learn-more-link = অধিক জানক
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = অসুৰক্ষিত পাছৱৰ্ড
+about-logins-vulnerable-alert-text2 = এই পাছৱৰ্ড আন এটা একাউণ্টত ব্যৱহাৰ কৰা হৈছে যিটোত সম্ভাব্য ডাটা উলংঘন ঘটিছে। পৰিচয়-পত্ৰ পুনৰ্ব্যৱহাৰ কৰাটোৱে আপোনাৰ আটাইকেইটা একাউণ্টক বিপদত পেলায়। এই পাছৱৰ্ড সলনি কৰক।
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname }-লৈ যাওঁক
