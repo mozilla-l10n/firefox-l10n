@@ -146,6 +146,7 @@ cfr-doorhanger-send-tab-recipe-header = এই ৰেচিপীটো পা�
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = এই PDF নিৰাপদে ভাগ-বতৰা কৰক
 
 ## Social Tracking Protection
 
