@@ -18,6 +18,9 @@ msgevent-msg_reflected = A saját OTR-üzeneteit kapja meg. Vagy saját magával
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = A(z) { $name } számára küldött utolsó üzenet újraküldve.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = A(z) { $name } felől érkező titkosított üzenet olvashatatlan, mert jelenleg nem privát módon kommunikál.
 error-enc = Hiba történt az üzenet titkosításakor.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
