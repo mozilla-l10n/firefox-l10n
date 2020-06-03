@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Sefsex amdal n yiccer.
     .accesskey = S
+tab-context-close-multiple-tabs =
+    .label = Mdel aṭas n waccaren
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sefsex amdal n yiccer
+            [one] Sefsex amdal n yiccer
+           *[other] Sefsex amdal n waccaren
+        }
+    .accesskey = U
 close-tab =
     .label = Mdel iccer
     .accesskey = M
