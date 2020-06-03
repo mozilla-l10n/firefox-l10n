@@ -24,7 +24,7 @@ preloaded-tab = Henyhẽmbáva: { $title }
 type-tab = Tendayke
 type-subframe = Subframe
 type-tracker = Tapykuehohára
-type-addon = Tembipuru'i
+type-addon = Tembipuru’i
 type-browser = Kundaha
 type-worker = Mba'apohára
 type-other = Ambue
@@ -54,12 +54,11 @@ close-tab =
     .title = Emboty tendayke
 show-addon =
     .title = Ehechauka moimbaha ñangarekohápe
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
-#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
 #   $totalDuration (Number) - how much CPU time was used by this page since it loaded
-#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
     .title = Ñemondo myenyhẽha guive: { $totalDispatches } ({ $totalDuration } ms) Ñemondo aravo’iete pahávapa: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
