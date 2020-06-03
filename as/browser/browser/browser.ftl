@@ -193,9 +193,26 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = হৈ গ'ল
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
+identity-connection-not-secure = সংযোগ সুৰক্ষিত নহয়
+identity-connection-secure = সংযোগ সুৰক্ষিত
+identity-connection-internal = এইখন এখন সুৰক্ষিত { -brand-short-name } পৃষ্ঠা।
+identity-connection-file = এই পৃষ্ঠাখন আপোনাৰ কম্পিউটাৰত সংৰক্ষিত।
+identity-extension-page = এই পৃষ্ঠাখন এক্সটেনশ্যন এটাৰ পৰা ল'ড কৰা হৈছে।
+identity-active-blocked = { -brand-short-name }-এ এই পৃষ্ঠাখনৰ কিছুমান অংশ অৱৰোধ কৰিছে যিবোৰ সুৰক্ষিত নহয়।
+identity-passive-loaded = এই পৃষ্ঠাখনৰ কিছুমান অংশ সুৰক্ষিত নহয় (যেনে ছবিসমূহ)।
+identity-active-loaded = আপুনি এই পৃষ্ঠাখনত সুৰক্ষা নিষ্ক্ৰিয় কৰিছে।
+identity-weak-encryption = এই পৃষ্ঠাখনে দুৰ্বল এনক্ৰীপশ্যন ব্যৱহাৰ কৰে।
+identity-insecure-login-forms = এই পৃষ্ঠাখনত প্ৰৱিষ্ট কৰা লগিনসমূহ আপোচ কৰা হ'ব পাৰে।
+identity-permissions =
+    .value = অনুমতিসমূহ
 identity-learn-more =
     .value = অধিক জানক
 identity-disable-mixed-content-blocking =
