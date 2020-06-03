@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Priwatny modus)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Priwatny modus)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Priwatny modus)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Priwatny modus)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -138,12 +136,10 @@ urlbar-midi-blocked =
     .tooltiptext = Sćo blokěrował pśistup k MIDI za toś to websedło.
 urlbar-install-blocked =
     .tooltiptext = Sćo blokěrował instalěrowanje dodankow za toś to websedło.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Toś to cytańske znamje ({ $shortcut }) wobźěłaś
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -174,14 +170,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Něnto pytaś z:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Pytańske nastajenja
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Pytańske nastajenja změniś
-
 search-one-offs-context-open-new-tab =
     .label = W nowem rejtariku pytaś
     .accesskey = r
@@ -197,10 +191,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Editor pśi składowanju pokazaś
     .accesskey = E
-
 bookmark-panel-done-button =
     .label = Dokóńcony
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -274,6 +266,14 @@ popup-select-microphone =
     .value = Mikrofon, kótaryž ma se gromaźe wužywaś:
     .accesskey = M
 popup-all-windows-shared = Wšykne widobne wokna na wašej wobrazowce budu se źěliś.
+popup-screen-sharing-not-now =
+    .label = Nic něnto
+    .accesskey = c
+popup-screen-sharing-never =
+    .label = Nigda njedowóliś
+    .accesskey = N
+popup-silence-notifications-checkbox = Powěźeńki w { -brand-short-name } znjemóžniś, mjaztym až źěliśo
+popup-silence-notifications-checkbox-warning = { -brand-short-name } njebuźo zdźělenja pokazowaś, mjaztym až źěliśo.
 
 ## WebRTC window or screen share tab switch warning
 
@@ -281,7 +281,6 @@ popup-all-windows-shared = Wšykne widobne wokna na wašej wobrazowce budu se ź
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Aby tastu F12 wužywał, wócyńśo nejpjerwjej DevTools pśez meni Webwuwijaŕ.
-
 
 ## URL Bar
 
@@ -295,11 +294,9 @@ urlbar-permissions-granted =
     .tooltiptext = Sćo pśizwólił toś tomu websedłoju pśidatne pšawa.
 urlbar-switch-to-tab =
     .value = K rejtarikoju pśejś:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Rozšyrjenje:
-
 urlbar-go-button =
     .tooltiptext = K adresy w adresowem pólu
 urlbar-page-action-button =

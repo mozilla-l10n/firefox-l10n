@@ -4,17 +4,22 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Zacynjony rejtarik wótnowiś
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zacynjony rejtarik wócyniś
+            [one] Zacynjony rejtarik wócyniś
+            [two] Zacynjonej rejtarika wócyniś
+            [few] Zacynjone rejtariki wócyniś
+           *[other] Zacynjonych rejtarikow wócyniś
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Rejtariki pśepytaś
-
 all-tabs-menu-new-user-context =
     .label = Nowy kontejnerowy rejtarik
-
 all-tabs-menu-hidden-tabs =
     .label = Schowane rejtariki
-
 all-tabs-menu-manage-user-context =
     .label = Kontejnery zastojaś
     .accesskey = K
