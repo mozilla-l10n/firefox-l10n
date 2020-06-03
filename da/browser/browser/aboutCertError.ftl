@@ -56,6 +56,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
 
+open-in-new-window-for-csp-or-xfo-error = Åbn websted i et nyt vindue
+
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = For at beskytte din sikkerhed vil { $hostname } ikke tillade, at { -brand-short-name } viser siden, hvis et andet websted har indlejret den. Du skal åbne siden i et nyt vindue for at se den. 
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ude af stand til at oprette forbindelse
@@ -85,6 +91,7 @@ unknownSocketType-title = Uventet svar fra server
 nssFailure2-title = Sikker forbindelse mislykkedes
 cspBlocked-title = Blokeret grundet indholdssikkerhedspolitik
 xfoBlocked-title = Blokeret af politik for X-Frame-Options
+csp-xfo-error-title = { -brand-short-name } kan ikke åbne denne side
 corruptedContentError-title = Fejlbehæftet indhold
 remoteXUL-title = Remote XUL
 sslv3Used-title = Kan ikke oprette sikker forbindelse

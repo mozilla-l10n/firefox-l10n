@@ -39,10 +39,14 @@ etp-card-content = Sporings-teknologier følger dig rundt på nettet for at inds
 protection-report-webpage-title = Oversigt over beskyttelse
 protection-report-page-content-title = Oversigt over beskyttelse
 protection-report-page-summary = { -brand-short-name } kan beskytte dit privatliv, mens du bruger nettet. Dette viser dit personlige resume over, hvordan du er beskyttet - samt værktøj til at tage kontrol over din online identitet.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } beskytter dit privatliv på nettet. Denne side viser dit personlige resume over, hvordan du er beskyttet - samt værktøj til at tage kontrol over din online identitet. 
+
+protection-report-settings-link = Håndter dine indstillinger for sikkerhed og privatlivs-beskyttelse
 
 etp-card-title-always = Udvidet beskyttelse mod sporing: Altid slået til
 etp-card-title-custom-not-blocking = Udvidet beskyttelse mod sporing: SLÅET FRA
-etp-card-content-summary = Når ukendte virksomheder i hemmelighed følger dig på nettet, så stopper { -brand-short-name } automatisk mange af dem.
+etp-card-content-description = { -brand-short-name } forhindrer automatisk virksomheder i at følge efter dig i smug på nettet.
 
 protection-report-etp-card-content-custom-not-blocking = Beskyttelse er slået fra. Du kan vælge, hvilke sporings-teknologier der skal blokeres, i indstillingerne for beskyttelse i { -brand-short-name }.
 protection-report-manage-protections = Håndter indstillinger
@@ -61,8 +65,6 @@ fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters indsamler indstillinger fra din browser og din computer for at skabe en profil af dig. Ved at bruge dette digitale fingeraftryk kan de spore dig på tværs af forskellige websteder. <a data-l10n-name="learn-more-link">Læs mere</a>
 cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Cryptominers bruger din computers ressourcer til at udvinde digital valuta. Cryptomining-scripts gør din computer langsommere og får den til at bruge mere strøm, og de kan dermed dræne dit batteri. <a data-l10n-name="learn-more-link">Læs mere</a>
-protections-close-button =
-    .aria-label = Luk
 protections-close-button2 =
     .aria-label = Luk
     .title = Luk
@@ -126,6 +128,8 @@ monitor-link = Sådan virker det
 monitor-header-content-no-account = Brug { -monitor-brand-name } til at se, om dine informationer har været ramt af en datalæk - og få advarsler om nye datalæk.
 monitor-header-content-signed-in = { -monitor-brand-name } advarer dig, hvis dine informationer har været ramt af en datalæk.
 monitor-sign-up = Tilmeld dig advarsler om datalæk
+monitor-sign-up-link = Tilmeld dig advarsler om datalæk
+  .title = Tilmed dig advarsler om datalæk fra { -monitor-brand-name }
 auto-scan = Automatisk skannet i dag
 
 monitor-emails-tooltip =
@@ -151,6 +155,16 @@ info-known-breaches-found =
         [one] kendt datalæk har kompromitteret dine informationer
        *[other] kendte datalæk har kompromitteret dine informationer
     }
+
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+  { $count ->
+     [one] kendt datalæk markeret som løst
+    *[other] kendte datalæk markeret som løste
+  }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -168,6 +182,45 @@ password-warning =
         [one] gemt login kan være blevet kompromitteret i en datalæk. Skift adgangskoden for at være mere sikker på nettet. <a data-l10n-name="lockwise-link">Vis gemte logins</a>
        *[other] gemte logins kan være blevet kompromitterede i en datalæk. Skift adgangskoderne for at være mere sikker på nettet. <a data-l10n-name="lockwise-link">Vis gemte logins</a>
     }
+
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+  { $count ->
+     [one] adgangskode kompromitteret i uløste datalæk
+    *[other] adgangskoder kompromitteret i ulste datalæk
+  }
+
+monitor-no-breaches-title = Gode nyheder!
+monitor-no-breaches-description = Du er ikke blevet ramt af datalæk. Vi giver dig besked, hvis det sker.
+monitor-view-report-link = Se rapport
+  .title = Løste datalæk på { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Løs dine datalæk
+monitor-breaches-unresolved-description = Når du har kigget på detaljerne i et datalæk og har taget forholdsregler for at beskytte dine oplysninger, så kan du markere datalækket som løst.
+monitor-manage-breaches-link = Håndter datalæk
+  .title = Håndter datalæk på { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Godt gået! Du har løst alle kendte datalæk.
+monitor-breaches-resolved-description = Vi giver dig besked, hvis din mailadresse optræder i nye datalæk.
+
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title = 
+  { $numBreaches ->
+   *[other] { $numBreachesResolved } ud af { $numBreaches } datalæk markeret som løst
+  }
+
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% færdig
+
+monitor-partial-breaches-motivation-title-start = Godt begyndt!
+monitor-partial-breaches-motivation-title-middle = Bare lidt endnu!
+monitor-partial-breaches-motivation-title-end = Du er næsten færdig!
+monitor-partial-breaches-motivation-description = Løs resten af dine datalæk på { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Løs datalæk
+  .title = Løs datalæk på { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

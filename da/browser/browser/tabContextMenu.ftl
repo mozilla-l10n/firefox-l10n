@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = Fortryd lukning af faneblad
     .accesskey = l
+tab-context-close-multiple-tabs =
+    .label = Luk flere faneblade
+    .accesskey = a
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Fortryk lukning af faneblad
+           *[other] Fortryd lukning af faneblade
+        }
+    .accesskey = y
 close-tab =
     .label = Luk faneblad
     .accesskey = u
