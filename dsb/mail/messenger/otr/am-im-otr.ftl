@@ -5,5 +5,8 @@
 account-encryption =
     .label = Koděrowanje wót kóńca do kóńca
 otr-fingerprint-label = Waš palcowy wótśišć:
+view-fingerprint-button =
+    .label = Palcowe wótśišće kontaktow zastojaś
+    .accesskey = P
 otr-settings-title = OTR-nastajenja
 otr-notYetAvailable = njejo hyšći k dispoziciji
