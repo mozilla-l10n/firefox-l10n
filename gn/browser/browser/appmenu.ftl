@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Ñemiguáva ñemo’ã
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tereho ne marandu’i ñemiguápe
-
 appmenuitem-protection-dashboard-title = Ñemo’ãha renda
 appmenuitem-customize-mode =
     .label = Ñemomba’e…
@@ -23,7 +22,7 @@ appmenuitem-zoom-reduce =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = Embojuehe ko'ág̃a
+    .label = Embojuehe ko’ág̃a
 
 ## What's New panel in App menu.
 

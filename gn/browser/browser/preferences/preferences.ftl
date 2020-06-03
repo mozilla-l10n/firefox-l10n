@@ -242,7 +242,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Marandurenda ha Tembipuru'i
+files-and-applications-title = Marandurenda ha Tembipuru’i
 download-header = Ñemboguejy
 download-save-to =
     .label = Marandurenda ñongatu ko'ápe
@@ -261,10 +261,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = Eporandumeméke chéve moõpa añongatúta marandurenda
     .accesskey = A
-applications-header = Tembipuru'i
-applications-description = Eiporavo { -brand-short-name } eipuru marandurenda ñemboguejy ñanduti guive térã umi tembipuru'i eipurúva eikundaha aja.
+applications-header = Tembipuru’i
+applications-description = Eiporavo { -brand-short-name } eipuru marandurenda ñemboguejy ñanduti guive térã umi tembipuru’i eipurúva eikundaha aja.
 applications-filter =
-    .placeholder = Eheka marandurenda peteĩchagua térã tembipuru'i
+    .placeholder = Eheka marandurenda peteĩchagua térã tembipuru’i
 applications-type-column =
     .label = Peteĩchagua tetepy
     .accesskey = T
@@ -293,7 +293,7 @@ applications-use-os-default =
         }
 applications-use-other =
     .label = Ambuéva jepuru…
-applications-select-helper = Eiporavo tembipuru'i pytyvõrãva
+applications-select-helper = Eiporavo tembipuru’i pytyvõrãva
 applications-manage-app =
     .label = Tembipuru’i mba’emimi…
 applications-always-ask =

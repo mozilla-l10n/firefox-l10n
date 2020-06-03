@@ -25,7 +25,7 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Embojuaju hekaha
 newtab-topsites-add-topsites-header = Tenda Pyahu Ojeikevéva
-newtab-topsites-edit-topsites-header = Tenda Ojeikevéva Mbosako'i
+newtab-topsites-edit-topsites-header = Tenda Ojeikevéva Mbosako’i
 newtab-topsites-title-label = Teratee
 newtab-topsites-title-input =
     .placeholder = Ehai herarã
@@ -69,12 +69,12 @@ newtab-menu-content-tooltip =
     .aria-label = Embojuruja poravorã { $title } peg̃uarã
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Embosako'i ko tenda
-    .aria-label = Embosako'i ko tenda
+    .title = Embosako’i ko tenda
+    .aria-label = Embosako’i ko tenda
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
-newtab-menu-edit-topsites = Mbosako'i
+newtab-menu-edit-topsites = Mbosako’i
 newtab-menu-open-new-window = Jeike Ovetã Pyahúpe
 newtab-menu-open-new-private-window = Jeike Ovetã Ñemi Pyahúpe
 newtab-menu-dismiss = Emboyke

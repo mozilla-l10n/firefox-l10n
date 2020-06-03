@@ -139,7 +139,7 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = Ko techaukaha mbosako'i ({ $shortcut })
+    .tooltiptext = Ko techaukaha mbosako’i ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -169,7 +169,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Ko'ág̃a, eheka hendive:
+search-one-offs-with-title = Ko’ág̃a, eheka hendive:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -189,7 +189,7 @@ search-one-offs-context-set-as-default-private =
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
-    .label = Ehechauka mbosako'iha eñongatúvo
+    .label = Ehechauka mbosako’iha eñongatúvo
     .accesskey = S
 bookmark-panel-done-button =
     .label = Mohu'ã
@@ -267,7 +267,7 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba’erechahápe.
 popup-screen-sharing-not-now =
-    .label = Ani ko'ág̃a
+    .label = Ani ko’ág̃a
     .accesskey = w
 popup-screen-sharing-never =
     .label = Ani emoneĩ araka’eve

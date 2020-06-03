@@ -59,7 +59,7 @@ menu-file-go-offline =
 ## Edit Menu
 
 menu-edit =
-    .label = Mbosako'i
+    .label = Mbosako’i
     .accesskey = E
 menu-edit-find-on =
     .label = Ko kuatiaroguépe jeheka…
@@ -171,7 +171,7 @@ menu-bookmarks-show-all =
 menu-bookmark-this-page =
     .label = Kuatiarogue mbojoapy
 menu-bookmark-edit =
-    .label = Ko techaukaha mbosako'i
+    .label = Ko techaukaha mbosako’i
 menu-bookmarks-all-tabs =
     .label = Tendayke mbojoapy techaukaháre…
 menu-bookmarks-toolbar =
@@ -199,7 +199,7 @@ menu-tools-turn-on-sync =
     .label = Emyandy { -sync-brand-short-name }...
     .accesskey = n
 menu-tools-sync-now =
-    .label = Embojuehe ko'ág̃a
+    .label = Embojuehe ko’ág̃a
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Eikejey { -brand-product-name }-pe...
