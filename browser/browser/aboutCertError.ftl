@@ -61,8 +61,16 @@ open-in-new-window-for-csp-or-xfo-error = নতুন উইণ্ড'ত ছ�
 
 connectionFailure-title = সংযোগ কৰাত অক্ষম
 deniedPortAccess-title = এই ঠিকনা পৰিমিত
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = হুম্‌ম্‌‌‌। সেই ছাইটটো বিচৰাত আমাৰ সমস্যা হৈ আছে।
 fileNotFound-title = ফাইল পোৱা ন'গ'ল
+fileAccessDenied-title = ফাইলটোত এক্সেছ নাকচ কৰা হৈছে
 generic-title = ক্ষমা কৰিব।
+captivePortal-title = নেটৱৰ্কত লগিন কৰক
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = হুম্‌ম্‌। সেই ঠিকনাটো ঠিক যেন লগা নাই।
 netInterrupt-title = সংযোগ বিচ্ছিন্ন হৈছে
 notCached-title = দস্তাবেজৰ অৱসান ঘটিল
 netOffline-title = অফলাইন ধৰণ
@@ -75,7 +83,11 @@ proxyConnectFailure-title = প্ৰক্সি চাৰ্ভাৰে স�
 proxyResolveFailure-title = প্ৰক্সি চাৰ্ভাৰ পোৱা ন'গ'ল
 redirectLoop-title = এই পৃষ্ঠাই শুদ্ধভাবে পুনৰ দিশ দিয়া নাই
 unknownSocketType-title = চাৰ্ভাৰৰ পৰা অপ্ৰত্যাশিত উত্তৰ
+nssFailure2-title = নিৰাপদ সংযোগ বিফল হ'ল
 cspBlocked-title = সমল সুৰক্ষা নীতিৰ দবাৰা প্ৰতিৰোধিত
+xfoBlocked-title = X-Frame-Options নীতি দ্বাৰা অৱৰোধ কৰা হৈছে
+csp-xfo-error-title = { -brand-short-name }-এ এই পৃষ্ঠাখন খুলিব নোৱাৰে
 corruptedContentError-title = ক্ষতিগ্ৰস্থ সমল ত্ৰুটি
 remoteXUL-title = দূৰৱৰ্তী XUL
 sslv3Used-title = সুৰক্ষিতভাৱে সংযোগ কৰাত অক্ষম
+inadequateSecurityError-title = আপোনাৰ সংযোগ নিৰাপদ নহয়
