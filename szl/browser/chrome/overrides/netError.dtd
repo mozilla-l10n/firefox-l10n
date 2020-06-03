@@ -169,17 +169,32 @@ za pora chwil.</li>
 
 <!ENTITY cspBlocked.longDesc "<p>Aplikacyjo &brandShortName; niy dała tyj strōnie sie tak zaladować skuli polityki bezpieczyństwa strōny, co na to niy przizwolo.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Feler: felerno zawartość">
 
+<!ENTITY xfoBlocked.longDesc "<p>Aplikacyjo &brandShortName; niy dała tyj strōnie sie zaladować w tym kōntekście,  skuli polityki X-Frame-Options strōny, co na to niy przizwolo.</p>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<ul>
+  <li>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo znod sie feler przi transmisyje danych.</li>
+  <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
+</ul>">
 
+<!ENTITY securityOverride.exceptionButton1Label "Akceptuj ryzyko i idź dalij">
 
+<!ENTITY errorReporting.automatic2 "Dej znać ô takich felerach, coby pōmōc Mizilli znojdować i szperować ôszydne strōny">
+<!ENTITY errorReporting.learnMore "Przewiydz sie wiyncyj…">
 
+<!ENTITY remoteXUL.title "Zdalne XUL">
 
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Niy idzie sie bezpiecznie połōnczyć">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Wiyncyj infōrmacyji: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "Pozōr: potyncjalne zagrożynie bezpieczyństwa">
+<!ENTITY certerror.sts.pagetitle  "Niypołōnczōne: potyncjalne zagrożynie bezpieczyństwa">
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
