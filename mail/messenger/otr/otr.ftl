@@ -53,7 +53,7 @@ msgevent-rcvdmsg_for_other_instance = Повідомлення, надіслан
 context-gone_secure_private = Почато приватну розмову з { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-context-gone_secure_unverified = Почато захищено, але непідтверджену розмову з { $name }.
+context-gone_secure_unverified = Почато захищену, але непідтверджену розмову з { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = Захищену розмову з { $name } успішно оновлено.
@@ -67,3 +67,8 @@ resent = [надіслати ще раз]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = Зашифровану розмову з вами завершено користувачем { $name }; ви повинні зробити те саме.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } запитує зашифровану розмову, яка не записується (OTR). Однак, у вас немає плагіна для підтримки OTR. Для отримання додаткової інформації читайте https://en.wikipedia.org/wiki/Off-the-Record_Messaging.

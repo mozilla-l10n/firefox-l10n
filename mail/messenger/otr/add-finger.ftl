@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 otr-add-finger =
-    .title = Додати відбиток ключа OTR
+    .title = Додати цифровий відбиток ключа OTR
 # Variables:
 #   $name (String) - name of a chat contact person
 # Do not translate 'OTR' (name of an encryption protocol)
