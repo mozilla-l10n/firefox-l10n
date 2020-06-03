@@ -64,3 +64,11 @@ error-not_priv = Rydych wedi anfon data wedi'i amgryptio at { $name }, nad oedd 
 error-unreadable = Rydych wedi trosglwyddo neges annarllenadwy wedi'i hamgryptio.
 error-malformed = Rydych wedi trosglwyddo neges ddata wedi'i hanffurfio.
 resent = [ail anfon]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = Mae { $name } wedi dod â'u sgwrs wedi'i hamgryptio gyda chi i ben; dylech chi wneud yr un peth.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = Mae { $name } wedi gofyn am sgwrs di-gofnod wedi'i hamgryptio (OTR). Fodd bynnag, nid oes gennych ategyn i gefnogi hynny. Gweler https://en.wikipedia.org/wiki/Off-the-Record_Messaging i gael mwy o wybodaeth.
