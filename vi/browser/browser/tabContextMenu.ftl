@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = Mở lại thẻ vừa đóng
     .accesskey = U
+tab-context-close-multiple-tabs =
+    .label = Đóng nhiều thẻ
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mở lại thẻ vừa đóng
+           *[other] Mở lại các thẻ vừa đóng
+        }
+    .accesskey = U
 close-tab =
     .label = Đóng thẻ
     .accesskey = c
