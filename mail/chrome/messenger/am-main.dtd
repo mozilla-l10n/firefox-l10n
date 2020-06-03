@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Impostazioni account">
 <!ENTITY accountName.label "Nome account:">
 <!ENTITY accountName.accesskey "m">
@@ -13,6 +15,7 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "Indirizzo email:">
 <!ENTITY email.accesskey "I">
+<!ENTITY catchAll.label "Rispondi da questa identità quando le intestazioni di consegna corrispondono:">
 <!ENTITY replyTo.label "Indirizzo per risposte:">
 <!ENTITY replyTo.accesskey "z">
 <!ENTITY replyTo.placeholder "I destinatari risponderanno a questo altro indirizzo">
