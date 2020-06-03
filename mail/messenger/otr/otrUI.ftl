@@ -33,3 +33,35 @@ finger-unseen = Nid yw hunaniaeth { $name } wedi'i wirio eto. Nid yw'n bosibl i 
 #   $name (String) - the screen name of a chat contact person
 finger-seen = Mae { $name } yn cysylltu â chi o gyfrifiadur heb ei adnabod. Nid yw'n bosibl clustfeinio'n achlysurol, ond gyda pheth ymdrech gall rhywun fod yn gwrando. Rhwystrwch wyliadwriaeth trwy wirio hunaniaeth y cyswllt hwn.
 state-not_private = Nid yw'r sgwrs gyfredol yn breifat.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Mae'r sgwrs gyfredol wedi'i hamgryptio ond nid yn breifat, gan nad yw hunaniaeth { $name } wedi'i gwirio eto.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Mae hunaniaeth { $name } wedi'i wirio. Mae'r sgwrs gyfredol wedi'i hamgryptio ac yn breifat.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = Mae { $name } wedi dod â'u sgwrs wedi'i hamgryptio gyda chi i ben; dylech chi wneud yr un peth.
+state-not_private-label = Anniogel
+state-unverified-label = Heb ei wirio
+state-private-label = Preifat
+state-finished-label = Wedi gorffen
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = Gofynnodd { $name } i gael dilysu'ch hunaniaeth.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Rydych wedi gwirio hunaniaeth { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = Nid yw hunaniaeth { $name } wedi'i wirio.
+verify-title = Gwirio hunaniaeth eich cyswllt
+error-title = Error
+success-title = Amgryptio Pen-i-Ben
+successThem-title = Gwirio hunaniaeth eich cyswllt
+fail-title = Methu gwirio
+waiting-title = Cais dilysu wedi'i anfon
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Methodd cynhyrchu allwedd breifat OTR: { $error }
