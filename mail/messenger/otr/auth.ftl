@@ -31,4 +31,6 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-manualInstruction = 请通过其他可信的渠道（例如 OpenPGP 签名的电子邮件或拨打电话），与您要进行通信的另一方联系。你们应该互相告诉对方自己的指纹。（“指纹”用于标识加密密钥的校验和。）若指纹匹配，就在下方的对话框中指出双方已验证过指纹。
 auth-how = 您想如何验证联系人的身份？
+auth-qaInstruction = 想一个只有您和要联系的人知道答案的问题。输入问题与答案，然后等待对方回答。若答案不正确，则代表你们之间的通信渠道可能正被监听。
