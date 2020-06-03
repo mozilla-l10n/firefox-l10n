@@ -42,6 +42,11 @@ privacy-main-header = Privacy
 privacy-passwords-header = Password
 privacy-junk-header = Indesiderata
 privacy-data-collection-header = Raccolta e utilizzo dati
+collection-header = Raccolta e utilizzo dati di { -brand-short-name }
+collection-privacy-notice = Informativa sulla privacy
+collection-health-report-telemetry-disabled-link = Ulteriori informazioni
+collection-health-report-link = Ulteriori informazioni
+collection-backlogged-crash-reports-link = Ulteriori informazioni
 privacy-security-header = Sicurezza
 privacy-scam-detection-title = Rilevamento frodi
 privacy-anti-virus-title = Antivirus
@@ -656,6 +661,22 @@ chat-variant-label =
 chat-header-label =
     .label = Mostra intestazione
     .accesskey = I
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Trova nelle opzioni
+           *[other] Trova nelle preferenze
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Risultati della ricerca
