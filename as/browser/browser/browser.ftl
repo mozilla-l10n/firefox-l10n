@@ -219,6 +219,8 @@ identity-clear-site-data =
     .label = কুকিজ আৰু ছাইট ডাটা মচক…
 identity-connection-not-secure-security-view = আপুনি এই ছাইটৰ লগত নিৰাপদে সংযুক্ত নহয়।
 identity-connection-verified = আপুনি এই ছাইটৰ লগত নিৰাপদে সংযুক্ত।
+identity-description-weak-cipher-risk = অন্য লোকে আপোনাৰ তথ্য চাব পাৰে বা ৱেবছাইটৰ আচৰণ সলনি কৰিব পাৰে।
+identity-description-active-blocked = { -brand-short-name }-এ এই পৃষ্ঠাখনৰ কিছুমান অংশ অৱৰোধ কৰিছে যিবোৰ সুৰক্ষিত নহয়। <label data-l10n-name="link">অধিক জানক</label>
 identity-learn-more =
     .value = অধিক জানক
 identity-disable-mixed-content-blocking =
@@ -246,9 +248,17 @@ popup-select-microphone =
     .value = অংশীদাৰী কৰিবলে মাইক্ৰফোন:
     .accesskey = M
 popup-all-windows-shared = আপোনাৰ পৰ্দাত থকা সকলো দৃশ্যমান উইন্ডোক অংশীদাৰী কৰা হব।
+popup-screen-sharing-not-now =
+    .label = এতিয়া নহয়
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = কেতিয়াও অনুমতি নিদিব
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = টেবলৈ আগবাঢ়ক
 
 ## DevTools F12 popup
 
@@ -259,6 +269,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
 urlbar-placeholder =
     .placeholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ব্ৰাউজাৰ ৰিম'ট কণ্ট্ৰ'লৰ আওতাত আছে
+urlbar-permissions-granted =
+    .tooltiptext = আপুনি এই ছাইটটোক অতিৰিক্ত অনুমতি প্ৰদান কৰিছে।
 urlbar-switch-to-tab =
     .value = টেবলৈ যাওক:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
