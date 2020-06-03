@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Sidens kildekode">
 <!ENTITY pageSourceCmd.accesskey "k">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Sideoplysninger">
 <!ENTITY pageInfoCmd.accesskey "o">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Layout-debugger">
 <!ENTITY ldbCmd.accesskey "d">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Afslut fuld skærm">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "Fuld skærm">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -147,15 +146,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Du skal bekræfte din konto, før du kan begynde at synkronisere.">
 <!ENTITY fxa.unverified.button.label "Åbn indstillingerne for &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Skjul kontakt for billed-i-billed">
-<!ENTITY pictureInPictureHideToggle.accesskey "S">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Logget ind som">
 <!ENTITY fxa.menu.manageAccount.label "Håndter konto…">
 <!ENTITY fxa.menu.syncSettings.label "Indstillinger for &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Skjul kontakt for billed-i-billed">
+<!ENTITY pictureInPictureHideToggle.accesskey "S">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -167,7 +166,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Log ind på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Aktiver &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Konto">
-
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tjenester">
 <!ENTITY fxa.menu.settings.label "Indstillinger">
 <!ENTITY fxa.menu.accountSettings.label "Konto-indstillinger">
@@ -216,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Bogmærker">
 <!ENTITY bookmarksMenu.accesskey "B">
-
 <!ENTITY bookmarkThisPageCmd.label "Bogmærk denne side">
 <!ENTITY editThisBookmarkCmd.label "Rediger bogmærke">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -242,7 +239,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Gå til adressen i adressefeltet">
+
 <!ENTITY printButton.label            "Udskriv">
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
@@ -258,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip       "Administrer brug af plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip           "Vælg om du vil modtage beskeder fra webstedet">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gem data i vedvarende lager">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browseren fjernstyres">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Åbn panelet web-godkendelse">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Åbn panelet tilladelser for browsing-aktivitet">
@@ -271,8 +271,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administrer side-oversættelser">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrer brug af DRM-software">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Åbn MIDI-panel">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Du har givet dette websted yderligere tilladelser.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokeret dit kamera for dette websted.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokeret din mikrofon for dette websted.">
@@ -288,6 +286,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Du har blokeret installering af tilføjelser for dette websted.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Du har givet dette websted yderligere tilladelser.">
+
 
 <!ENTITY searchItem.title             "Søgefelt">
 
@@ -347,11 +348,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Filer">
 <!ENTITY fileMenu.accesskey       "F">
-
 <!ENTITY newUserContext.label             "Nyt kontekst-faneblad">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Håndter kontekster">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Nyt vindue">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "v">
@@ -400,6 +401,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Tilpas…">
 <!ENTITY viewCustomizeToolbar.accesskey     "p">
+
 <!ENTITY overflowCustomizeToolbar.label       "Tilpas værktøjslinje…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
@@ -411,7 +413,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Gendan forrige session">
 
 <!ENTITY showAllHistoryCmd2.label "Vis al historik">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Vis al historik">
@@ -492,6 +493,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Mere">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Søg eller indtast en adresse">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -563,7 +565,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Søg med:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -576,6 +577,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "s">
 
 <!ENTITY openLinkCmdInTab.label       "Åbn link i nyt faneblad">
+
 <!ENTITY openLinkCmdInTab.accesskey   "f">
 <!ENTITY openLinkCmd.label            "Åbn link i nyt vindue">
 <!ENTITY openLinkCmd.accesskey        "v">
@@ -624,11 +626,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bogmærk denne ramme">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
+
 <!ENTITY pageAction.copyLink.label    "Kopier link">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Gem til Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Gem side til Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Gem link til Pocket">
@@ -744,20 +750,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zoom ind">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "i">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zoom ud">
 <!ENTITY fullZoomReduceCmd.accesskey    "u">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Nulstil">
 <!ENTITY fullZoomResetCmd.accesskey     "N">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -781,7 +784,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Luk">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "L">
 
@@ -836,7 +838,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Forbindelse">
 <!ENTITY identity.connectionSecure "Sikker forbindelse">
 <!ENTITY identity.connectionNotSecure "Forbindelsen er usikker">
-
 <!ENTITY identity.connectionFile "Denne side er gemt på din computer.">
 <!ENTITY identity.connectionVerified2 "Du er forbundet på en sikker måde til dette websted, der er ejet af:">
 <!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
@@ -877,60 +878,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Ryd cookies og webstedsdata…">
 
 <!ENTITY identity.permissions "Tilladelser">
-
 <!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogen særlige tilladelser.">
 <!ENTITY identity.permissionsReloadHint "Du skal muligvis genindlæse siden, før at ændringerne slår igennem.">
 <!ENTITY identity.permissionsPreferences.tooltip "Åbn indstillinger for tilladelser">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Åbn indstillinger for blokering af indhold">
 
-
-<!ENTITY protections.etpON.header "Udvidet beskyttelse mod sporing er SLÅET TIL for dette websted">
-<!ENTITY protections.etpOFF.header "Udvidet beskyttelse mod sporing er SLÅET FRA for dette websted">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Mere information om udvidet beskyttelse mod sporing">
-<!ENTITY protections.settings.label "Indstillinger for beskyttelse">
-<!ENTITY protections.showreport.label "Vis rapport">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Virker webstedet ikke?">
-<!ENTITY protections.siteNotWorkingView.title "Virker webstedet ikke?">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Slå beskyttelse fra, hvis du har problemer med:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Login-felter">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularer">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "Betalinger">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentarer">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Videoer">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Send en rapport">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Blokeret">
-<!ENTITY protections.notBlocking2.label "Tilladt">
-<!ENTITY protections.notFound.label "Ingen fundet">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Hvorfor?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Ved at blokere disse virker elementer på visse websteder måske ikke. Uden sporings-mekanismer virker nogle knapper, formularer og login-felter måske ikke.">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alle sporings-mekanismer på dette websted er blevet indlæst, fordi beskyttelse er slået fra.">
-<!ENTITY protections.noTrackersFound.description "&brandShortName; fandt ikke kendte sporings-mekanismer på denne side.">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "Disse cookies følger dig fra websted til websted for at indsamle data om din adfærd på nettet. De stammer fra tredjepart som fx annoncører og anlyse-virksomheder.">
-<!ENTITY protections.cryptominers.description "Cryptominers bruger din computers ressourcer til at udvinde digital valuta. Cryptomining-scripts gør din computer langsommere og får den til at bruge mere strøm, og de kan dermed dræne dit batteri.">
-<!ENTITY protections.fingerprinters.description "Fingerprinters indsamler indstillinger fra din browser og din computer for at skabe en profil af dig. Ved at bruge dette digitale fingeraftryk kan de spore dig på tværs af forskellige websteder.">
-<!ENTITY protections.trackingContent2.description "Websteder kan indlæse eksterne reklamer, videoer og andet indhold, der indeholder sporings-kode. Ved at blokere sporings-indhold kan sider ofte indlæses hurtigere, men nogle knapper, formularer og login-felter virker måske ikke.">
-<!ENTITY protections.socialMediaTrackers.description "Sociale netværk placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -945,7 +897,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Log ind på &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Synkroniser nu">
 <!ENTITY syncSyncNowItemSyncing.label "Synkroniserer…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -969,10 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Sporings-teknologier">
 
 <!ENTITY contentBlocking.manageSettings.label "Håndter blokering af indhold">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Sporings-indhold">
-
-<!ENTITY contentBlocking.manageSettings2.label "Håndter indstillinger for beskyttelse">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Sporings-teknologier">
@@ -980,10 +927,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies og websteds-data">
-
-<!ENTITY contentBlocking.manageSettings2.accesskey "H">
-
-<!ENTITY contentBlocking.socialblock.label "Sporing via sociale medier">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
@@ -995,13 +938,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Rapportér problemer">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre &brandShortName; bedre for alle. (Dette sender en URL samt information om dine browser-indstillinger til Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Læs mere">
-
-<!ENTITY contentBlocking.breakageReportView.title "Rapportér problemer med et websted">
-<!ENTITY contentBlocking.breakageReportView3.description "Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre &brandShortName; bedre for alle. Dette sender en URL samt information om dine browser-indstillinger til Mozilla.">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "Læs mere">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvilke problemer oplever du? (valgfrit)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Valgfrit: Beskriv problemet.">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Send rapport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Afbryd">
 

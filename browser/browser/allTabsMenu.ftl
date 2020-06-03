@@ -4,6 +4,14 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Fortryd lukning af faneblad
+
+all-tabs-menu-undo-close-tabs =
+  .label =
+      { $tabCount ->
+          [1] Fortryd lukning af faneblad
+         *[other] Fortryd lukning af faneblade
+      }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Søg i faneblade

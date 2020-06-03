@@ -267,8 +267,25 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = Alle synlige vinduer på din skærm vil blive delt.
 
+popup-screen-sharing-not-now =
+  .label = Ikke nu
+  .accesskey = n
+
+popup-screen-sharing-never =
+  .label = Tillad aldrig
+  .accesskey = a
+
+popup-silence-notifications-checkbox = Deaktiver notifikationer fra { -brand-short-name } ved deling
+popup-silence-notifications-checkbox-warning = { -brand-short-name } vil ikke vise notifikationer, når du deler
+
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Du deler { -brand-short-name }. Andre kan se, når du skifter til et nyt faneblad.
+sharing-warning-screen = Du deler hele din skærm. Andre kan se, når du skifter til et nyt faneblad.
+sharing-warning-proceed-to-tab =
+  .label = Fortsæt til faneblad
+sharing-warning-disable-for-session =
+  .label = Deaktiver delings-beskyttelse for denne session
 
 ## DevTools F12 popup
 

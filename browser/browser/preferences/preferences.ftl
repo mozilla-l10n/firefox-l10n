@@ -318,8 +318,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Brug { $plugin-name } (i { -brand-short-name })
-applications-preview-inapp =
-    .label = Vis sammendrag i { -brand-short-name }
 applications-open-inapp =
     .label = Åbn i { -brand-short-name }
 
@@ -333,8 +331,6 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
 applications-always-ask-label =
@@ -506,6 +502,7 @@ home-prefs-topsites-description = Mest besøgte websider
 home-prefs-recommended-by-header =
     .label = Anbefalet af { $provider }
 home-prefs-recommended-by-description = Spændende indhold fra nettet, specielt udvalgt til dig
+home-prefs-recommended-by-description-update = Spændende indhold fra nettet, udvalgt af { $provider }
 home-prefs-recommended-by-learn-more = Sådan virker det
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorerede historier
@@ -566,6 +563,8 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Vis søgeforslag i private vinduer
 suggestions-addressbar-settings = Skift indstillinger for søgeforslag fra browserhistorik, bogmærker og åbne faneblade.
+
+suggestions-addressbar-settings-generic = Skift indstillinger for andre forslag i adressefeltet.
 search-suggestions-cant-show = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
 search-one-click-header = Lyn-søgetjenester
 search-one-click-desc = Vælg de alternative søgetjenester, der vises under adressefeltet og søgefeltet, når du begynder at indtaste en søgeterm.
@@ -807,9 +806,6 @@ forms-master-pw-fips-desc = Ændring af adgangskode mislykkedes
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Bekræft din identitet for at oprette en hovedadgangskode.
-
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at oprette en hovedadgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -906,6 +902,10 @@ sitedata-cookies-permissions =
     .label = Håndter tilladelser…
     .accesskey = t
 
+sitedata-cookies-exceptions =
+    .label = Håndter undtagelser…
+    .accesskey = u
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adressefelt
@@ -919,6 +919,11 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Åbne faneblade
     .accesskey = f
+
+addressbar-locbar-topsites-option =
+    .label = Mest besøgte websteder
+    .accesskey = M
+
 addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 
 ## Privacy Section - Content Blocking
@@ -978,7 +983,6 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Vigtigt!
 content-blocking-warning-description = Nogle websteder kan holde op med at fungere, når du blokerer indhold. Det er nemt at slå blokering fra for websteder, du stoler på.
 content-blocking-learn-how = Læs hvordan
-content-blocking-etp-warning-description = Nogle websteders funktionalitet kan blive påvirket, når du blokerer sporings-teknologier. Genindlæs side med sporings-teknologier for at indlæse alt indhold.
 content-blocking-and-isolating-etp-warning-description = Nogle websteders funktionalitet kan blive påvirker, når du blokerer sporings-teknologier og isolerer cookies. Genindlæs side med sporings-teknologier for at indlæse alt indhold.
 content-blocking-warning-learn-how = Læs hvordan
 content-blocking-reload-description = Du skal genindlæse dine faneblade, før ændringerne slår igennem.

@@ -29,6 +29,7 @@ menu =
   .title = Åbn menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importer fra en anden browser…
+about-logins-menu-menuitem-export-logins = Eksporter logins…
 menu-menuitem-preferences =
   { PLATFORM() ->
       [windows] Indstillinger
@@ -110,25 +111,18 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Bekræft din identitet for at redigere det gemte login.
-
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at redigere dine logins. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redigere det gemte login
 
-# This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = Bekræft din identitet for at vise den gemte adgangskode.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at se din adgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = vise den gemte adgangskode
 
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Bekræft din identitet for at kopiere den gemte adgangskode
 
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at kopiere din adgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
@@ -172,6 +166,10 @@ about-logins-confirm-remove-dialog-title = Fjern dette login?
 confirm-delete-dialog-message = Denne handling kan ikke fortrydes.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
 
+about-logins-confirm-export-dialog-title = Eksporter logins og adgangskoder
+about-logins-confirm-export-dialog-message = Dine adgangskoder bliver gemt som læsbar tekst (fx dåRligAdg@ngsk0de), så alle der kan åbne den eksportede fil kan se dine adgangskoder.
+about-logins-confirm-export-dialog-confirm-button = Eksporter…
+
 confirm-discard-changes-dialog-title = Annuller ikke-gemte ændringer?
 confirm-discard-changes-dialog-message = Alle ikke-gemte ændringer vil gå tabt.
 confirm-discard-changes-dialog-confirm-button = Annuller
@@ -206,3 +204,20 @@ about-logins-error-message-duplicate-login-with-link = Der findes allerede et lo
 
 # This is a generic error message.
 about-logins-error-message-default = Der opstod en fejl med at gemme adgangskoden.
+
+
+## Login Export Dialog
+
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Eksporter fil med logins
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Eksporter
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+  { PLATFORM() ->
+      [macos] CSV-dokument
+     *[other] CSV-fil
+  }

@@ -316,8 +316,3 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Læs mere om DRM…
     .accesskey = æ
-
-# Checkbox displayed at the bottom of the What's New panel, allowing users to 
-# enable/disable What's New notifications.
-cfr-whatsnew-panel-footer-checkbox = 
-  .label = Giv besked om nye funktioner

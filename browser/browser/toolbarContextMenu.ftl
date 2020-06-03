@@ -20,6 +20,13 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Fortryd lukning af faneblad
     .accesskey = l
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Fortryd lukning af faneblad
+           *[other] Fortryd lukning af faneblade
+        }
+    .accesskey = l
 toolbar-context-menu-manage-extension =
     .label = Håndter udvidelse
     .accesskey = H
