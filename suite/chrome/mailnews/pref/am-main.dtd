@@ -13,6 +13,8 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "E-postadresse:">
 <!ENTITY email.accesskey "p">
+<!ENTITY catchAll.label "Svar fra denne identiteten når leveranse-header samsvarer med:">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Svaradresse:">
 <!ENTITY replyTo.accesskey "S">
 <!ENTITY replyTo.placeholder "Mottakere vil svare til denne alternative adressen">
