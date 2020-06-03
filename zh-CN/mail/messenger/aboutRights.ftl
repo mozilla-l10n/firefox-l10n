@@ -5,8 +5,10 @@
 rights-title = 关于您的权利
 rights-intro = { -brand-full-name } 是一款自由开源软件，由来自世界各地成千上万的社区志愿者共同完成。以下几点您应该了解：
 rights-intro-point-1 = { -brand-short-name } 提供给您时依照的条款为 <a data-l10n-name="mozilla-public-license-link">Mozilla 公共许可证（MPL）</a>。这表示您可以使用、复制和向他人分发 { -brand-short-name }。我们也非常欢迎您按自己的需要修改 { -brand-short-name } 的源代码。Mozilla 公共许可证还授予您分发您自己修改过的软件版本的权利。
+rights-intro-point-2 = 您没有被授予 Mozilla 基金会或任何一方的任何商标权或许可证，包括但不限于 Thunderbird 的名称或徽标。在<a data-l10n-name="mozilla-trademarks-link">此处</a>可找到有关商标的其他信息。
 rights-intro-point-3 = { -brand-short-name } 的一些功能（例如崩溃报告器）使您可以向 { -vendor-short-name } 提供反馈。提交反馈的同时，您授权 { -vendor-short-name } 使用反馈信息改进产品、在其网站上发布反馈信息，以及分发反馈内容。
 rights-intro-point-4 = 关于我们如何使用您通过 { -brand-short-name } 提交给 { -vendor-short-name } 的个人信息和反馈，请参见 <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } 隐私权政策</a>。
+rights-intro-point-4-unbranded = 任何适用于此产品的隐私条款都应被列于此处。
 rights-intro-point-5 = { -brand-short-name } 的一些功能使用了基于网络的服务信息，然而，我们无法保证它们 100% 正确且无差错。包括如何禁用这些服务功能的详细信息，请参见<a data-l10n-name="mozilla-service-terms-link">服务条款</a>。
 rights-intro-point-5-unbranded = 如果此产品结合了网站服务，任何适用的服务条款都应链接至<a data-l10n-name="mozilla-website-services-link">网站服务</a>章节提供链接。
 rights-intro-point-6 = 为了能够播放某些类型的视频内容，{ -brand-short-name } 会下载一些来自第三方的内容解密模块。
