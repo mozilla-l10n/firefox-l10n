@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Tillatelser …">
 <!ENTITY privileges.button.accesskey             "T">
 <!ENTITY permissionsDesc.label                   "Du har følgende tillatelser:">
+<!ENTITY folderOtherUsers.label                  "Andre med tilgang til denne mappen:">
 <!ENTITY folderType.label                        "Mappetype:">
 
 <!ENTITY folderQuotaTab.label                    "Kvote">
