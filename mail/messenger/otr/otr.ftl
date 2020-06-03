@@ -35,5 +35,32 @@ msgevent-log_heartbeat_rcvd = 您收到來自 { $name } 的 Heartbeat 訊息。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log_heartbeat_sent = 已傳送 Heartbeat 訊息給 { $name }。
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = 嘗試使用 OTR 保護對話訊息時，發生未知錯誤。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = 收到來自 { $name } 的下列訊息未經加密: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = 您收到來自 { $name } 的無法識別的 OTR 訊息。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } 送出了要發給不同使用階段的訊息。若您在多個地方登入，其他的使用階段可能也收到了該封訊息。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = 與 { $name } 的私人對話開始。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = 與 { $name } 未經確認加密方式的對話開始。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = 成功重新整理與 { $name } 的加密對話。
 error-enc = 加密訊息時發生錯誤。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = 您傳送了加密資料給 { $name }，但對方並沒有預期要收到此資料。
+error-unreadable = 您傳送了無法閱讀的加密訊息。
+error-malformed = 您傳送了資料格式錯誤的訊息。
 resent = [重寄]
