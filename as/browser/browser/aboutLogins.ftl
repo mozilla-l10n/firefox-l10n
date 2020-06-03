@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = Google প্লে'ত পাওঁক
 login-app-promo-apple =
     .alt = এপ ষ্ট'ৰত ডাউনল'ড কৰক
-
 login-filter =
     .placeholder = লগইনৰ সন্ধান কৰক
-
 create-login-button = নতুন লগইন সৃষ্টি কৰক
-
 fxaccounts-sign-in-text = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ অন্যান্য ডিভাইচত পাওঁক
 fxaccounts-sign-in-button = { -sync-brand-short-name }-ত ছাইন ইন কৰক
 fxaccounts-avatar-button =
@@ -34,6 +32,7 @@ menu =
     .title = মেন্যু খোলক
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = আন এটা ব্ৰাউজাৰৰ পৰা আমদানি কৰক…
+about-logins-menu-menuitem-export-logins = লগিন ৰপ্তানি কৰক…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] বিকল্পবোৰ
@@ -55,6 +54,7 @@ login-list-count =
 login-list-sort-label-text = সজোৱা ক্ৰম:
 login-list-name-option = নাম (A-Z)
 login-list-name-reverse-option = নাম (Z-A)
+about-logins-login-list-alerts-option = সতৰ্কতা
 login-list-last-changed-option = শেষবাৰ সলনি হৈছিল
 login-list-last-used-option = শেষবাৰ ব্যৱহৃত
 login-list-intro-title = কোনো লগইন পোৱা নগ'ল
@@ -66,6 +66,8 @@ login-list-item-subtitle-new-login = আপোনাৰ লগইন প্ৰ�
 login-list-item-subtitle-missing-username = (কোনো ব্যৱহাৰকাৰীনাম নাই)
 about-logins-list-item-breach-icon =
     .title = ভগা ৱেবছাইট
+about-logins-list-item-vulnerable-password-icon =
+    .title = অসুৰক্ষিত পাছৱৰ্ড
 
 ## Introduction screen
 
@@ -110,15 +112,19 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = আপোনাৰ লগিন সম্পাদনা কৰিবলৈ আপোনাৰ উইণ্ড'জ লগিন পৰিচয়-পত্ৰ প্ৰৱিষ্ট কৰক। ই আপোনাৰ একাউণ্টৰ নিৰাপত্তা ৰক্ষা কৰাত সহায় কৰে।
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = সঞ্চিত লগিন সম্পাদনা কৰক
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = আপোনাৰ পাছৱৰ্ড চাবলৈ আপোনাৰ উইণ্ড'জ লগিন পৰিচয়-পত্ৰ প্ৰৱিষ্ট কৰক। ই আপোনাৰ একাউণ্টৰ নিৰাপত্তা ৰক্ষা কৰাত সহায় কৰে।
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = সঞ্চিত পাছৱৰ্ড উন্মোচন কৰক
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = আপোনাৰ পাছৱৰ্ড কপি কৰিবলৈ আপোনাৰ উইণ্ড'জ লগিন পৰিচয়-পত্ৰ প্ৰৱিষ্ট কৰক। ই আপোনাৰ একাউণ্টৰ নিৰাপত্তা ৰক্ষা কৰাত সহায় কৰে।
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = সঞ্চিত পাছৱৰ্ড কপি কৰক
 
@@ -152,20 +158,24 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = বাতিল কৰক
 confirmation-dialog-dismiss-button =
     .title = বাতিল কৰক
-
 about-logins-confirm-remove-dialog-title = এই লগিন আঁতৰাবনে?
 confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
 about-logins-confirm-remove-dialog-confirm-button = আঁতৰাওক
-
+about-logins-confirm-export-dialog-title = লগিন আৰু পাছৱৰ্ড ৰপ্তানি কৰক
+about-logins-confirm-export-dialog-message = আপোনাৰ পাছৱৰ্ডসমূহ পঢ়াযোগ্য পাঠ (যেনে- BadP@ssw0rd) হিচাপে সঞ্চয় কৰা হ'ব গতিকে ৰপ্তানি ফাইলটো খুলিব পৰা যিকোনো ব্যক্তিয়ে সেয়া চাব পাৰে।
+about-logins-confirm-export-dialog-confirm-button = ৰপ্তানি কৰক…
 confirm-discard-changes-dialog-title = সঞ্চয় নকৰা সালসলনি নাকচ কৰিবনে?
 confirm-discard-changes-dialog-message = সঞ্চয় নকৰা সকলো সালসলনি হেৰাই যাব।
 confirm-discard-changes-dialog-confirm-button = নাকচ কৰক
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = ৱেবছাইট উলংঘন
 breach-alert-text = আপুনি শেষবাৰ আপোনাৰ লগিনৰ বিশদ-বিৱৰণ আপডেট কৰোঁতে এই ৱেবছাইটৰ পৰা পাছৱৰ্ডসমূম লীক বা চুৰি হৈছিল। আপোনাৰ একাউণ্ট সুৰক্ষিত কৰিবলৈ আপোনাৰ পাছৱৰ্ড সলনি কৰক।
+about-logins-breach-alert-date = এই উলংঘন { DATETIME($date, day: "numeric", month: "long", year: "numeric") } তাৰিখে ঘটিছে
 
 ## Vulnerable Password notification
+
 
 ## Error Messages
 
@@ -174,10 +184,15 @@ breach-alert-text = আপুনি শেষবাৰ আপোনাৰ লগ
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle }-ৰ বাবে সেই ব্যৱহাৰকাৰীনাম থকা এটা এণ্ট্ৰী ইতিমধ্যে মজুত আছে। <a data-l10n-name="duplicate-link">মজুত থকা এণ্ট্ৰীলৈ যাবনে?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = এই পাছৱৰ্ড সঞ্চয় কৰাৰ চেষ্টা কৰোঁতে ত্ৰুটি ঘটিছে।
 
-
 ## Login Export Dialog
 
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV নথি
+       *[other] CSV ফাইল
+    }
