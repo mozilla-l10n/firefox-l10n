@@ -13,6 +13,8 @@ msgevent-connection_ended = { $name } 已关闭与您的加密连接。为避免
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = 与 { $name } 建立私人对话时出错。
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = 您正在接收自己的 OTR 消息。要么您正在自言自语，要么有人正在复读您的消息。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = 已重发最后一条给 { $name } 的消息。
@@ -33,3 +35,32 @@ msgevent-log_heartbeat_rcvd = 从 { $name } 收到心跳。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log_heartbeat_sent = 已发送心跳至 { $name }。
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = 尝试使用 OTR 保护您的对话时发生意外错误。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = 收到来自 { $name } 以下消息未加密：{ $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = 您收到来自 { $name } 的 OTR 消息无法识别。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = 与 { $name } 的私人对话开始。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = 与 { $name } 有加密，但未经验证的对话开始。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = 与 { $name } 的加密对话已成功刷新。
+error-enc = 加密消息时发生错误。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = 您已将加密的数据发送给 { $name }，而对方并未预期收到此数据。
+error-unreadable = 您发出了无法读取的加密消息。
+error-malformed = 您发出了数据格式错误的消息。
+resent = [重发]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } 已结束与您的加密对话；您也应该中断对话。
