@@ -4,3 +4,4 @@
 
 finger-yes = 已验证
 finger-no = 未验证
+finger-subset-title = 移除指纹
