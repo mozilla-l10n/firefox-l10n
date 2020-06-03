@@ -47,6 +47,9 @@ msgevent-rcvdmsg_unencrypted = 收到来自 { $name } 以下消息未加密：{ 
 msgevent-rcvdmsg_unrecognized = 您收到来自 { $name } 的 OTR 消息无法识别。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } 在另一会话发送了消息。若您同时在多个设备登录，那么其他会话可能已收到该消息。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = 与 { $name } 的私人对话开始。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -64,3 +67,8 @@ resent = [重发]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } 已结束与您的加密对话；您也应该中断对话。
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } 请求进行非记录（OTR）加密对话。但您没有支持该功能的插件。若需更多信息，请参见 https://en.wikipedia.org/wiki/Off-the-Record_Messaging。
