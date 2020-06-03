@@ -45,7 +45,16 @@ privacy-data-collection-header = Raccolta e utilizzo dati
 collection-header = Raccolta e utilizzo dati di { -brand-short-name }
 collection-privacy-notice = Informativa sulla privacy
 collection-health-report-telemetry-disabled-link = Ulteriori informazioni
+collection-health-report =
+    .label = Consenti a { -brand-short-name } di inviare a { -vendor-short-name } dati tecnici e di interazione
+    .accesskey = d
 collection-health-report-link = Ulteriori informazioni
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa build
+collection-backlogged-crash-reports =
+    .label = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso
+    .accesskey = s
 collection-backlogged-crash-reports-link = Ulteriori informazioni
 privacy-security-header = Sicurezza
 privacy-scam-detection-title = Rilevamento frodi
@@ -151,6 +160,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Mostra un'icona nell'area di notifica
     .accesskey = t
+mail-system-sound-label =
+    .label = Suono predefinito di sistema per nuova posta
+    .accesskey = S
 mail-custom-sound-label =
     .label = Utilizza questo file audio
     .accesskey = U
@@ -680,3 +692,9 @@ search-input-box =
 ## Preferences UI Search Results
 
 search-results-header = Risultati della ricerca
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle opzioni.
+       *[other] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle preferenze.
+    }
