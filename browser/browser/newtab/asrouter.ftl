@@ -123,9 +123,12 @@ cfr-whatsnew-fingerprinter-counter-header =
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }-এ বহুতো ফিংগাৰপ্ৰিণ্টাৰ অৱৰোধ কৰে যিয়ে আপোনাৰ বিজ্ঞাপন প্ৰ'ফাইল তৈয়াৰ কৰিবলৈ গোপনে আপোনাৰ ডিভাইচ আৰু কাৰ্য্যসমূহৰ বিষয়ে তথ্য গোটায়।
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = ফিংগাৰপ্ৰিণ্টাৰ
+cfr-whatsnew-fingerprinter-counter-body-alt = আপোনাৰ বিজ্ঞাপন প্ৰ'ফাইল তৈয়াৰ কৰিবলৈ গোপনে আপোনাৰ ডিভাইচ আৰু কাৰ্য্যসমূহৰ বিষয়ে তথ্য গোটোৱা ফিংগাৰপ্ৰিণ্টাৰসমূহ { -brand-shorter-name }-এ অৱৰোধ কৰিব পাৰে।
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = আপোনাৰ ফোনত এই বুকমাৰ্ক লাভ কৰক
+cfr-doorhanger-sync-bookmarks-body = আপুনি { -brand-product-name }-ত ছাইন ইন হৈ থকা যিকোনো ঠাইলৈ আপোনাৰ বুকমাৰ্ক, পাছৱৰ্ড, ইতিহাস আৰু বহুতো লৈ যাওঁক।
 
 ## Login Sync
 
