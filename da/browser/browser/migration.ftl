@@ -22,6 +22,10 @@ import-migrating-title =
 import-migrating-description = Følgende objekter er igang med at blive importeret…
 import-select-profile-title =
     .label = Vælg profil
+import-select-profile-description = Følgende profiler kan importeres:
+import-done-title =
+    .label = Import fuldført
+import-done-description = Følgende elementer blev importeret korrekt:
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -29,6 +33,7 @@ import-select-profile-title =
 imported-bookmarks-source = Fra { $source }
 source-name-ie = Internet Explorer
 source-name-safari = Safari
+imported-safari-reading-list = Læseliste (fra Safari)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -37,12 +42,24 @@ source-name-safari = Safari
 browser-data-ie-1 =
     .label = Internetindstillinger
     .value = Internetindstillinger
+browser-data-safari-1 =
+    .label = Indstillinger
+    .value = Indstillinger
 browser-data-ie-2 =
     .label = Cookies
     .value = Cookies
 browser-data-safari-2 =
     .label = Cookies
     .value = Cookies
+browser-data-ie-4 =
+    .label = Browserhistorik
+    .value = Browserhistorik
+browser-data-safari-4 =
+    .label = Browserhistorik
+    .value = Browserhistorik
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = Browserhistorik og bogmærker
+    .value = Browserhistorik og bogmærker
 browser-data-ie-8 =
     .label = Gemt formularhistorik
     .value = Gemt formularhistorik
