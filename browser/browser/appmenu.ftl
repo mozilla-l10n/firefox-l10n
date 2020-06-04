@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Zaštita privatnosti
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Idi na izvještaj o privatnosti
-
 appmenuitem-customize-mode =
     .label = Prilagodi …
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Što je novo
