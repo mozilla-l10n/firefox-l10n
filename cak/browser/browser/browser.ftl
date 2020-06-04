@@ -278,6 +278,9 @@ popup-silence-notifications-checkbox-warning = Man xkeruk'üt ta pe taq tzijol r
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = Nikomonin ri { -brand-short-name }. Juley chik winaqi' yetikïr nikitz'ët toq niq'ax pa jun k'ak'a' ruwi'.
+sharing-warning-screen = Nakomonij ri tz'aqät ruwa. chik winaqi' yetikïr nikitz'ët toq niq'ax pa jun k'ak'a' ruwi'.
+sharing-warning-proceed-to-tab =
+    .label = Tib'e pa Ruwi'
 sharing-warning-disable-for-session =
     .label = Tichup ri komon ruwäch chajinïk pa re molojri'ïl re'
 

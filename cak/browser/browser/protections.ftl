@@ -41,8 +41,10 @@ protection-report-page-content-title = Rupas taq Chajinïk
 protection-report-page-summary = { -brand-short-name } nitikïr nuchajij ri awichinaem toq atokinäq pa k'amaya'l. Rere' jun ichinan ch'uti kitzijol ri taq chajinïk, achi'el chuqa' ri taq samajib'äl richin nichap ri jikomal pa k'amab'ey.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } nuchajij ri awichinaem toq atokinäq pa k'amaya'l. Rere' jun ichinan ch'uti kitzijol ri taq chajinïk, achi'el chuqa' ri taq samajib'äl richin nichap ri jikomal pa k'amab'ey.
+protection-report-settings-link = Tanuk'samajij runuk'ulem awichinanem chuqa' ajikomal
 etp-card-title-always = Utzirisan Chajinïk chuwäch Ojqanem: Jutaqil Tzijïl
 etp-card-title-custom-not-blocking = Utzirisan Chajinïk chuwäch Ojqanem: CHUPÜL
+etp-card-content-description = { -brand-short-name } ruyonil yeruq'ät ri ajk'ayij moloj yatkojqaj pan ewäl pan ajk'amaya'l.
 protection-report-etp-card-content-custom-not-blocking = Echupun ronojel ri taq chajinïk wakami. Ke'acha' ri taq ojqanela' yeq'at rik'in nanuk'samajij kinuk'ulem taq ruchajinik { -brand-short-name }.
 protection-report-manage-protections = Tinuk'samajïx Runuk'ulem
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -144,6 +146,14 @@ info-known-breaches-found =
     { $count ->
         [one] Tz'ilanem tzij etaman ruwäch, xuk'üt ri awetamab'al.
        *[other] Taq tz'ilanem tzij etaman kiwäch, xkik'üt ri awetamab'al.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Rutz'ilanem tzij etaman ruwa ya'on retal chi xsol yan ruwäch
+       *[other] Kitz'ilanem taq tzij etaman kiwa ya'on ketal chi xsol yan kiwäch
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
