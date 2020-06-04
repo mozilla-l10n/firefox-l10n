@@ -71,6 +71,7 @@ source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Bralni seznam (iz Safarija)
+imported-edge-reading-list = Bralni seznam (iz Edgea)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
