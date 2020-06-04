@@ -2,4 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-rights-notification-text = { -brand-short-name } je darmotna softwara wotwejrneho žórła, wuwita wot zhormadźenstwa tysacow ludźi z cyłeho swěta.
+about-rights-notification-text = { -brand-short-name } je darmotna softwara wotewrjeneho žórła, wuwita wot zhromadźenstwa tysacow ludźi z cyłeho swěta.
