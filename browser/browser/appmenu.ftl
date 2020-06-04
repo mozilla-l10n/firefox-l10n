@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Privatumo apsaugos
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Eiti į jūsų privatumo ataskaitą
-
 appmenuitem-protection-dashboard-title = Apsaugos skydelis
 appmenuitem-customize-mode =
     .label = Tvarkyti…
@@ -27,6 +26,7 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Kas naujo
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
