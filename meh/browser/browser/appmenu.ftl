@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Protecciones de privacidad
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Kua´an nuu reporte privacidad noo´o
-
 appmenuitem-customize-mode =
     .label = Sá´á vii
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Nakuvi a jíía íyo
