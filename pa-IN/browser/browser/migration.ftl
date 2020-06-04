@@ -28,6 +28,12 @@ import-from-canary =
 import-from-chrome =
     .label = ਕਰੋਮ
     .accesskey = C
+import-from-chrome-beta =
+    .label = ਕਰੋਮ ਬੀਟਾ
+    .accesskey = B
+import-from-chrome-dev =
+    .label = ਕਰੋਮ ਡਿਵ
+    .accesskey = D
 import-from-chromium =
     .label = Chromium
     .accesskey = u
@@ -60,10 +66,13 @@ source-name-edge = Microsoft Edge
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = ਗੂਗਲ ਕਰੋਮ
+source-name-chrome-beta = ਗੂਗਲ ਕਰੋਮ ਬੀਟਾ
+source-name-chrome-dev = ਗੂਗਲ ਕਰੋਮ ਡਿਵ
 source-name-chromium = Chromium
 source-name-firefox = ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ
 source-name-360se = 360 ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਰ
 imported-safari-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (ਸਫਾਰੀ ਤੋਂ)
+imported-edge-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (Edge ਤੋਂ)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
