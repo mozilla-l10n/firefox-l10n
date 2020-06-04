@@ -16,7 +16,7 @@
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
-<!ENTITY pictureInPicture.label "Bideoa beste bideo batean">
+<!ENTITY pictureInPicture.label "Bideoa beste leiho batean">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Tamaina">
@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Ez da bideorik aurkitu onartutako bideo-formatu eta MIME motarekin.">
 <!ENTITY error.generic "Bideoaren erreprodukzioa abortatuta errore ezezagun batengatik.">
 
-<!ENTITY status.pictureInPicture "Bideoa beste bideo batean ari da exekutatzen.">
+<!ENTITY status.pictureInPicture "Bideoa beste leiho batean ari da erreproduzitzen.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
