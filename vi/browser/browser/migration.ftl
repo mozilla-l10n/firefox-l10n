@@ -2,12 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = Trình nhập dữ liệu
+import-from =
+    { PLATFORM() ->
+        [windows] Nhập các tùy chọn, dấu trang, lịch sử, mật khẩu và các dữ liệu khác từ:
+       *[other] Nhập các tùy chỉnh, dấu trang, lịch sử, mật khẩu và các dữ liệu khác từ:
+    }
+import-from-bookmarks = Nhập các dấu trang từ:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = I
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge cũ
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = Không nhập gì cả
     .accesskey = h
@@ -20,6 +34,9 @@ import-from-canary =
 import-from-chrome =
     .label = Chrome
     .accesskey = C
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
 import-from-chromium =
     .label = Chromium
     .accesskey = u
@@ -29,8 +46,11 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+no-migration-sources = Không tìm thấy chương trình nào chứa dấu trang, lịch sử, hoặc dữ liệu mật khẩu.
 import-source =
     .label = Nhập các Thiết lập và Dữ liệu từ
+import-items-title =
+    .label = Các mục cần nhập
 import-items-description = Chọn các mục để nhập:
 import-migrating-title =
     .label = Đang nhập…
@@ -49,9 +69,11 @@ import-close-source-browser = Vui lòng chắc chắn trình duyệt được ch
 imported-bookmarks-source = Từ { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
@@ -116,6 +138,9 @@ browser-data-chrome-4 =
 browser-data-canary-4 =
     .label = Lịch sử duyệt web
     .value = Lịch sử duyệt web
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = Lịch sử duyệt web và dấu trang
+    .value = Lịch sử duyệt web và dấu trang
 browser-data-360se-4 =
     .label = Lịch sử duyệt web
     .value = Lịch sử duyệt web
@@ -174,6 +199,9 @@ browser-data-chrome-32 =
     .label = Dấu trang
     .value = Dấu trang
 browser-data-canary-32 =
+    .label = Dấu trang
+    .value = Dấu trang
+browser-data-360se-32 =
     .label = Dấu trang
     .value = Dấu trang
 browser-data-ie-64 =
