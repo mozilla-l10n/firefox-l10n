@@ -52,6 +52,7 @@ import-select-profile-description = 読み込むプロファイルを選択し�
 import-done-title =
     .label = 読み込み完了
 import-done-description = 次のデータが正常に読み込まれました:
+import-close-source-browser = 続ける前に、選択したブラウザーが閉じられていることを確認してください。
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
