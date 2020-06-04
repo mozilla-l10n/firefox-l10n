@@ -9,9 +9,6 @@ msgevent-encryption_required_part2 = We proberen een privégesprek te beginnen. 
 msgevent-encryption_error = Er is een fout opgetreden bij het versleutelen van uw bericht. Het bericht is niet verzonden.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-connection_ended = { $name } heeft hun versleutelde verbinding met u al gesloten. Om te voorkomen dat u per ongeluk een bericht zonder versleuteling verstuurt, is uw bericht niet verzonden. Beëindig uw versleutelde gesprek of start het opnieuw.
-# Variables:
-#   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Er is een fout opgetreden bij het opzetten van een privégesprek met { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-msg_reflected = U ontvangt uw eigen OTR-berichten. U probeert met uzelf te praten of iemand stuurt uw berichten naar u terug.
@@ -64,6 +61,3 @@ error-not_priv = U hebt versleutelde gegevens verzonden naar { $name }, die dit 
 error-unreadable = U hebt een onleesbaar versleuteld bericht verzonden.
 error-malformed = U hebt een ongeldig gegevensbericht verzonden.
 resent = [opnieuw verzonden]
-# Variables:
-#   $name (String) - the screen name of a chat contact person
-tlv-disconnected = { $name } heeft hun versleutelde conversatie met u beëindigd; u zou hetzelfde moeten doen.

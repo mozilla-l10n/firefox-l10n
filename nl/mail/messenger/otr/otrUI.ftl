@@ -8,7 +8,6 @@ auth-label = De identiteit van uw contact verifiëren
 reauth-label = De identiteit van uw contact opnieuw verifiëren
 auth-cancel = Annuleren
 auth-error = Er is een fout opgetreden bij de verificatie van de identiteit van uw contact.
-auth-successThem = Uw contact heeft uw identiteit met succes geverifieerd. Misschien wilt u ook hun identiteit verifiëren door uw eigen vraag te stellen.
 auth-waiting = Wachten tot het contact de verificatie heeft voltooid…
 finger-verify = Verifiëren
 finger-verify-accessKey = V
@@ -30,3 +29,6 @@ state-unverified = Het huidige gesprek is versleuteld maar niet privé, omdat de
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = De identiteit van { $name } is geverifieerd. Het huidige gesprek is versleuteld en privé.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } heeft het versleutelde gesprek met u beëindigd; u dient hetzelfde te doen.
