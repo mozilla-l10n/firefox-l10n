@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Pribatutasun-babesak
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Joan zure pribatutasun-txostenera
-
 appmenuitem-protection-dashboard-title = Babesen panela
 appmenuitem-customize-mode =
     .label = Pertsonalizatu…
@@ -27,6 +26,7 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Nobedadeak
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
