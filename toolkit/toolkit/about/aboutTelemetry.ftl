@@ -16,6 +16,7 @@ about-telemetry-option-group-older = Cũ hơn
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Dữ liệu Telemetry
+about-telemetry-current-store = Cửa hàng hiện tại:
 about-telemetry-more-information = Tìm kiếm thêm thông tin?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Tài liệu dữ liệu Firefox</a> chứa các hướng dẫn về cách làm việc với các công cụ dữ liệu của chúng tôi.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Tài liệu ứng dụng khách từ xa của Firefox</a> bao gồm các định nghĩa cho các khái niệm, tài liệu API và tham chiếu dữ liệu.
@@ -34,6 +35,8 @@ about-telemetry-addon-details-section = Chi tiết về các tiện ích
 about-telemetry-late-writes-section = Ghi trễ
 about-telemetry-raw = JSON thô
 about-telemetry-full-sql-warning =    GHI CHÚ: Trình gỡ rối SQL chậm đã bật. Chuỗi SQL Đầy đủ có thể hiện ở dưới nhưng chúng không được gửi cho Telemetry. 
+about-telemetry-fetch-stack-symbols = Lấy tên hàm cho ngăn xếp
+about-telemetry-hide-stack-symbols = Hiển thị dữ liệu ngăn xếp thô
 # Selects the correct release version
 # Variables:
 #   $channel (String): represents the corresponding release data string
@@ -95,6 +98,8 @@ about-telemetry-no-search-results-all = Xin lỗi! Không có kết quả trong 
 about-telemetry-no-data-to-display = Xin lỗi! Hiện tại không có dữ liệu có sẵn trong “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping hiện tại
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = dữ liệu hiện tại
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = tất cả
 # button label to copy the histogram
@@ -129,8 +134,12 @@ about-telemetry-category-header = thể loại
 about-telemetry-method-header = phương thức
 about-telemetry-object-header = đối tượng
 about-telemetry-extra-header = thêm
+about-telemetry-origin-section = Origin Telemetry
 about-telemetry-origin-origin = gốc
 about-telemetry-origin-count = đếm
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> mã hóa dữ liệu trước khi nó được gửi để { $telemetryServerOwner } có thể đếm tất cả mọi thứ, nhưng không rõ nó có đếm cả { -brand-product-name } hay không. (<a data-l10n-name="prio-blog-link">tìm hiểu thêm</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } tiến trình
