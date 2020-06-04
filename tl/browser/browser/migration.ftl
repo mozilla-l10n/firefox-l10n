@@ -27,14 +27,21 @@ import-from-chromium =
 import-from-firefox =
     .label = Firefox
     .accesskey = x
+import-from-360se =
+    .label = 360 Ligtas na Browser
+    .accesskey = 3
 no-migration-sources = Walang mahanap na application na naglalaman ng bookmark, history o password data.
 import-items-title =
     .label = Mga item na Iimport
+import-items-description = Pumili kung aling item ang i-import:
 import-migrating-title =
     .label = Ini-import...
 import-migrating-description = Ang mga sumusunod na mga bagay ay kasalukuyang inaangkat
 import-select-profile-title =
     .label = Piliin ang Profile
+import-select-profile-description = Ang mga sumusunod na mga profile ay pweden i-import mula sa:
+import-done-title =
+    .label = Nakumpleto na ang Pag-angkat
 import-done-description = Ang mga sumusunod na mga bagay ay matagumpay na naiangkat :
 # Displays which browser the bookmarks are being imported from
 #
