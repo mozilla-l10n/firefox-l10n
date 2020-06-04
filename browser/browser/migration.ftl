@@ -2,6 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = Dewin Mewnforio
+import-from =
+    { PLATFORM() ->
+        [windows] Mewnforio Dewisiadau, Nodau Tudalen, Hanes, Cyfrineiriau, a data arall o:
+       *[other] Mewnforio Dewisiadau, Nodau Tudalen, Hanes, Cyfrineiriau a data arall o:
+    }
+import-from-bookmarks = Mewnforio Nodau Tudalen o:
+import-from-safari =
+    .label = Safari
+    .accesskey = S
+no-migration-sources = Methu canfod unrhyw rhaglenni sy'n cynnwys nodau tudalen, hanes na data cyfrineiriau.
+import-source =
+    .label = Gosodiadau Mewnforio a Data
+import-items-title =
+    .label = Eitemau i'w Mewnforio
+import-items-description = Dewis eitemau i'w mewnforio:
+import-select-profile-title =
+    .label = Dewis Proffil
+import-select-profile-description = Mae'r proffiliau canlynol ar gael i'w mewnforio o:
+import-done-title =
+    .label = Wedi Cwblhau Mewnforio
+import-done-description = Cafodd yr eitemau canlynol eu mewnforio'n llwyddiannus:
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
