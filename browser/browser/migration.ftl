@@ -11,6 +11,12 @@ import-select-profile-description = ఈ క్రింది ప్రొఫై
 import-done-title =
     .label = పూర్తిగా దిగుమతిచేయి
 import-done-description = ఈ క్రింది అంశములు సమర్ధంగా దిగుమతైనవి:
+# Displays which browser the bookmarks are being imported from
+#
+# Variables:
+#   $source (String): The browser the user has chosen to import bookmarks from.
+imported-bookmarks-source = { $source } నుండి
+imported-safari-reading-list = జాబితాను చదువుతోంది (సఫారీ నుండి)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
