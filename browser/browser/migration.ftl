@@ -112,3 +112,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = பிற தகவல்கள்
     .value = பிற தகவல்கள்
+browser-data-firefox-other-64 =
+    .label = வேறு தரவு
+    .value = வேறு தரவு
