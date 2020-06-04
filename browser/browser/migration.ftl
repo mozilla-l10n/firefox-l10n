@@ -80,3 +80,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = ਹੋਰ ਡਾਟਾ
     .value = ਹੋਰ ਡਾਟਾ
+browser-data-firefox-other-64 =
+    .label = ਹੋਰ ਡਾਟਾ
+    .value = ਹੋਰ ਡਾਟਾ
