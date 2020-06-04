@@ -251,7 +251,7 @@ offline-compact-folder =
     .label = Стискати всі теки, якщо це звільнить більш ніж
     .accesskey = в
 compact-folder-size =
-    .value = MB загалом
+    .value = МБ всього
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -260,7 +260,7 @@ compact-folder-size =
 use-cache-before =
     .value = Використовувати до
     .accesskey = и
-use-cache-after = MB місця під кеш
+use-cache-after = МБ обсяг для кешу
 
 ##
 
@@ -278,17 +278,17 @@ default-size-label =
     .value = Розмір:
     .accesskey = Р
 font-options-button =
-    .label = Шрифти…
-    .accesskey = Ш
+    .label = Додатково…
+    .accesskey = к
 color-options-button =
     .label = Кольори…
     .accesskey = К
-display-width-legend = Лист у текстовому форматі
+display-width-legend = Звичайні текстові повідомлення
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
-    .label = Відображати смайліки як графіку
-    .accesskey = б
-display-text-label = Використовувати наступні параметри відображення цитат в листах текстового формату:
+    .label = Показувати смайлики як графіку
+    .accesskey = й
+display-text-label = При показі цитат у звичайних текстових повідомленнях:
 style-label =
     .value = Стиль:
     .accesskey = С
@@ -326,18 +326,18 @@ save-to-label =
 choose-folder-label =
     .label =
         { PLATFORM() ->
-            [macos] Вибрати…
-           *[other] Вибрати…
+            [macos] Обрати…
+           *[other] Огляд…
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] В
-           *[other] В
+            [macos] О
+           *[other] г
         }
 always-ask-label =
-    .label = Завжди питати мене куди зберігати файли
+    .label = Завжди запитувати де зберегти файли
     .accesskey = п
-display-tags-text = Мітки використовують для сортування та зазначення пріоритетів листів.
+display-tags-text = Мітки використовуються для впорядкування та встановлення пріоритету повідомлень.
 new-tag-button =
     .label = Нова…
     .accesskey = Н
