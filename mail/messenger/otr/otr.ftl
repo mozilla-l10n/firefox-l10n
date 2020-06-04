@@ -20,7 +20,7 @@ msgevent-msg_reflected = Ви отримуєте власні повідомле
 msgevent-msg_resent = Останнє повідомлення до { $name } було повторно надіслано.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-rcvdmsg_not_private = Зашифроване повідомлення, отримане від { $name }, не можливо прочитати, оскільки зараз ви не спілкуєтеся приватно.
+msgevent-rcvdmsg_not_private = Зашифроване повідомлення, отримане від { $name }, неможливо прочитати, оскільки зараз ви не в приватній розмові.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Ви отримали зашифроване повідомлення від { $name }, яке неможливо прочитати.
@@ -53,14 +53,14 @@ msgevent-rcvdmsg_for_other_instance = Повідомлення, надіслан
 context-gone_secure_private = Почато приватну розмову з { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-context-gone_secure_unverified = Почато захищену, але непідтверджену розмову з { $name }.
+context-gone_secure_unverified = Почато зашифровану, але непідтверджену розмову з { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-context-still_secure = Захищену розмову з { $name } успішно оновлено.
+context-still_secure = Зашифровану розмову з { $name } успішно оновлено.
 error-enc = Сталася помилка під час шифрування повідомлення.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-error-not_priv = { $name } не очікує зашифрованих даних, які було надіслано вами.
+error-not_priv = Ви надіслали зашифровані дані користувачу { $name }, який їх не очікував.
 error-unreadable = Ви надіслали зашифроване повідомлення, яке неможливо прочитати.
 error-malformed = Ви передали хибне повідомлення з даними.
 resent = [надіслати ще раз]
