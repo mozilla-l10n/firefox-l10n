@@ -10,6 +10,21 @@ import-from =
        *[other] कुसियाक् को आ़गू,  पुथी चिनहा़ को, हिता़ल, दानाङ साबाद को आर एटागाक् डाटा खोन:
     }
 import-from-bookmarks = खोन पुथी चिनहा़ को आ़गु :
+import-from-ie =
+    .label = माइक्रो सोफ्ट इनटार नेट एक्सपोलोरार
+    .accesskey = M
+import-from-nothing =
+    .label = जाहानाक् आलोम आ़गुया
+    .accesskey = D
+import-from-safari =
+    .label = साफारी
+    .accesskey = S
+import-from-chrome =
+    .label = क्रोम
+    .accesskey = C
+import-from-firefox =
+    .label = फायरफोक्स
+    .accesskey = x
 no-migration-sources = जाहान प्रोग्राम बाङ ओका रे पुथी चिनहा़ को मेनाक् आ हिता़ल आर बाङ दानाङ साबाद डाटा बाय ञाम दाड़ेयाक् .
 import-source =
     .label = साजाव को आर डाटा आ़गु .
