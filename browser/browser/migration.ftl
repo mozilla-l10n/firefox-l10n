@@ -4,6 +4,11 @@
 
 migration-wizard =
     .title = Guiden Importer fra andre programmer
+import-from =
+    { PLATFORM() ->
+        [windows] Importer indstillinger, bogmærker, historik, adgangskoder og andre data fra:
+       *[other] Importer indstillinger, bogmærker, historik, adgangskoder og andre data fra:
+    }
 import-from-bookmarks = Importer bogmærker fra:
 import-from-ie =
     .label = Microsoft Internet Explorer
