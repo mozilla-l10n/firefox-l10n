@@ -4,12 +4,24 @@
 
 migration-wizard =
     .title = Sprievodca importom
+import-from =
+    { PLATFORM() ->
+        [windows] Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z aplikácie:
+       *[other] Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z aplikácie:
+    }
+import-from-bookmarks = Importovať záložky z aplikácie:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge Legacy
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = Nič neimportovať
     .accesskey = r
@@ -22,9 +34,18 @@ import-from-canary =
 import-from-chrome =
     .label = Chrome
     .accesskey = C
+import-from-chrome-beta =
+    .label = Chrome Beta
+    .accesskey = B
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
 import-from-chromium =
     .label = Chromium
     .accesskey = u
+import-from-firefox =
+    .label = Firefox
+    .accesskey = x
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
@@ -33,18 +54,30 @@ import-source =
     .label = Import nastavení a údajov
 import-items-title =
     .label = Položky na import
+import-items-description = Vyberte položky, ktoré chcete importovať:
 import-migrating-title =
     .label = Importuje sa…
 import-migrating-description = Práve sa importujú tieto položky…
 import-select-profile-title =
     .label = Výber profilu
 import-select-profile-description = Importovať možno tieto profily:
+import-done-title =
+    .label = Import bol dokončený
 import-done-description = Úspešne boli importované tieto položky:
+import-close-source-browser = Pred pokračovaním sa uistite, že vybraný prehliadač nie je spustený.
+# Displays which browser the bookmarks are being imported from
+#
+# Variables:
+#   $source (String): The browser the user has chosen to import bookmarks from.
+imported-bookmarks-source = Z prehliadača { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
@@ -55,6 +88,21 @@ imported-edge-reading-list = Zoznam na prečítanie (z Microsoft Edge)
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-ie-1 =
+    .label = Možnosti internetu
+    .value = Možnosti internetu
+browser-data-edge-1 =
+    .label = Nastavenia
+    .value = Nastavenia
+browser-data-safari-1 =
+    .label = Nastavenia
+    .value = Nastavenia
+browser-data-chrome-1 =
+    .label = Nastavenia
+    .value = Nastavenia
+browser-data-canary-1 =
+    .label = Nastavenia
+    .value = Nastavenia
 browser-data-360se-1 =
     .label = Nastavenia
     .value = Nastavenia
@@ -79,6 +127,15 @@ browser-data-firefox-2 =
 browser-data-360se-2 =
     .label = Súbory cookies
     .value = Súbory cookies
+browser-data-ie-4 =
+    .label = História prehliadania
+    .value = História prehliadania
+browser-data-edge-4 =
+    .label = História prehliadania
+    .value = História prehliadania
+browser-data-safari-4 =
+    .label = História prehliadania
+    .value = História prehliadania
 browser-data-chrome-4 =
     .label = História prehliadania
     .value = História prehliadania
