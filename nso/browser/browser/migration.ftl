@@ -46,6 +46,7 @@ source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
+imported-safari-reading-list = Lelokelelo la go bala (go tšwa Safari)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -90,6 +91,9 @@ browser-data-chrome-4 =
 browser-data-canary-4 =
     .label = Histori ya go praosa
     .value = Histori ya go praosa
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = Histori ya go praosa le dipukutshwayo
+    .value = Histori ya go praosa le dipukutshwayo
 browser-data-ie-8 =
     .label = Histori ya foromo ye e bolokilwego
     .value = Histori ya foromo ye e bolokilwego
