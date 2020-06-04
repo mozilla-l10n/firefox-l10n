@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Privacybeskermingen
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gean nei jo privacyrapport
-
 appmenuitem-protection-dashboard-title = Befeiligingsdashboerd
 appmenuitem-customize-mode =
     .label = Oanpasse…
@@ -27,6 +26,7 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Wat is der nij
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
