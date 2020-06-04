@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Bảo vệ quyền riêng tư
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Đi đến báo cáo bảo mật của bạn
-
 appmenuitem-protection-dashboard-title = Bảng điều khiển bảo vệ
 appmenuitem-customize-mode =
     .label = Tùy biến…
@@ -27,6 +26,7 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Có gì mới
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
