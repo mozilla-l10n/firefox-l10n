@@ -11,6 +11,11 @@ import-items-description = Chọn các mục để nhập:
 import-migrating-title =
     .label = Đang nhập…
 import-migrating-description = Các mục sau đang được nhập…
+import-select-profile-title =
+    .label = Chọn Hồ Sơ
+import-select-profile-description = Các hồ sơ có thể nhập được từ:
+import-done-title =
+    .label = Nhập Xong
 import-done-description = Các mục sau đã được nhập thành công:
 # Displays which browser the bookmarks are being imported from
 #
