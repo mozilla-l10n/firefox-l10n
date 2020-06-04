@@ -4,12 +4,24 @@
 
 migration-wizard =
     .title = Assistent d'importacion
+import-from =
+    { PLATFORM() ->
+        [windows] Importar las opcions, los marcapaginas, l'istoric, los mots de pas e las autras donadas de :
+       *[other] Importar las preferéncias, los marcapaginas, l'istoric, los senhals e las autras donadas de :
+    }
+import-from-bookmarks = Importar los marcapaginas de :
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge ancian
+    .accesskey = a
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = Importar pas res
     .accesskey = p
@@ -22,6 +34,12 @@ import-from-canary =
 import-from-chrome =
     .label = Chrome
     .accesskey = C
+import-from-chrome-beta =
+    .label = Chrome Beta
+    .accesskey = B
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
 import-from-chromium =
     .label = Chromium
     .accesskey = u
@@ -37,6 +55,11 @@ import-source =
 import-items-title =
     .label = Elements d'importar
 import-items-description = Seleccionatz los elements d'importar :
+import-migrating-title =
+    .label = Importacion…
+import-migrating-description = Los elements seguents son a s'importar…
+import-select-profile-title =
+    .label = Causissètz un perfil
 import-select-profile-description = Los perfils seguents son disponibles per èsser importats :
 import-done-title =
     .label = Importacion acabada
@@ -48,12 +71,17 @@ import-done-description = Los elements seguents son estats importats amb succès
 imported-bookmarks-source = A partir de { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+imported-safari-reading-list = Lista de lectura (de Safari)
+imported-edge-reading-list = Lista de lectura (de Edge)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
