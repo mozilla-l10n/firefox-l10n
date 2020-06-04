@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Privilegi…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Si possiedono i seguenti privilegi:">
+<!ENTITY folderOtherUsers.label                  "Altri utenti con accesso a questa cartella:">
 <!ENTITY folderType.label                        "Tipo cartella:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
