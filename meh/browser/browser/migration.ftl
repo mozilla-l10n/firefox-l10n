@@ -2,7 +2,46 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+import-from-ie =
+    .label = Microsoft Internet Explorer
+    .accesskey = M
+import-from-edge =
+    .label = Microsoft Edge
+    .accesskey = E
+import-from-safari =
+    .label = Safari
+    .accesskey = S
+import-from-canary =
+    .label = Chrome Canary
+    .accesskey = n
+import-from-chrome =
+    .label = Chrome
+    .accesskey = C
+import-from-chrome-beta =
+    .label = Chrome Beta
+    .accesskey = B
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
+import-from-chromium =
+    .label = Chromium
+    .accesskey = u
+import-from-firefox =
+    .label = Firefox
+    .accesskey = X
+import-from-360se =
+    .label = 360 Secure Browser
+    .accesskey = 3
+source-name-ie = Internet Explorer
+source-name-edge = Microsoft Edge
+source-name-safari = Safari
+source-name-canary = Google Chrome Canary
+source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
+source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
+source-name-360se = 360 Secure Browser
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -11,3 +50,24 @@ source-name-firefox = Mozilla Firefox
 browser-data-edge-1 =
     .label = Nachu’un-nákeii
     .value = Nachu’un-nákeii
+browser-data-ie-2 =
+    .label = Cookies
+    .value = Cookies
+browser-data-edge-2 =
+    .label = Cookies
+    .value = Cookies
+browser-data-safari-2 =
+    .label = Cookies
+    .value = Cookies
+browser-data-chrome-2 =
+    .label = Cookies
+    .value = Cookies
+browser-data-canary-2 =
+    .label = Cookies
+    .value = Cookies
+browser-data-firefox-2 =
+    .label = Cookies
+    .value = Cookies
+browser-data-360se-2 =
+    .label = Cookies
+    .value = Cookies
