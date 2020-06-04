@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Uus ülesanne" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Ülesanded" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Näidatakse täidetud ülesandeid">
 
 <!ENTITY calendar.today.button.label          "Täna">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Osavõtt">
 <!ENTITY calendar.context.attendance.menu.accesskey             "O">
 <!ENTITY calendar.context.attendance.occurrence.label           "See kord">
-<!ENTITY calendar.context.attendance.all.label        "Kõik korrad" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Kõik toimumiskorrad">
 <!ENTITY calendar.context.attendance.send.label                 "Teavitus saadetakse kohe">
 <!ENTITY calendar.context.attendance.send.accesskey             "k">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Meeldetuletuste näitamine">
 <!ENTITY calendarproperties.cache3.label                   "Puhverdatud">
 <!ENTITY calendarproperties.enabled.label                  "Kalendri sisselülitamine">
+<!ENTITY calendarproperties.enabled2.label                 "Lülita kalender sisse">
 <!ENTITY calendarproperties.forceDisabled.label            "Sellele kalendrile ei leitud teenusepakkujat. Sageli põhjustab seda mõne lisa keelamine või eemaldamine.">
 <!ENTITY calendarproperties.unsubscribe.label              "Lõpeta tellimine">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "L">
