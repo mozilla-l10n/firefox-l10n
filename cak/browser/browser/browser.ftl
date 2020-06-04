@@ -272,9 +272,12 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Majub'ey Tiya' Q'ij
     .accesskey = M
+popup-silence-notifications-checkbox = Kechup taq rutzijol { -brand-short-name } toq nikomonïx
+popup-silence-notifications-checkbox-warning = Man xkeruk'üt ta pe taq tzijol ri { -brand-short-name } toq nikomonin.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Nikomonin ri { -brand-short-name }. Juley chik winaqi' yetikïr nikitz'ët toq niq'ax pa jun k'ak'a' ruwi'.
 sharing-warning-disable-for-session =
     .label = Tichup ri komon ruwäch chajinïk pa re molojri'ïl re'
 
