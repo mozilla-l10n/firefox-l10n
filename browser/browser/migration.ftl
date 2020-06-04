@@ -25,6 +25,9 @@ import-source =
 import-items-title =
     .label = Importálandó elemek
 import-items-description = Válassza ki az importálni kívánt elemeket:
+import-migrating-title =
+    .label = Importálás…
+import-migrating-description = A következő elemek importálása folyik…
 import-select-profile-title =
     .label = Profil kiválasztása
 import-select-profile-description = A következő profilokból lehet importálni:
@@ -40,6 +43,7 @@ source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
+imported-safari-reading-list = Olvasási lista (a Safariból)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -84,6 +88,9 @@ browser-data-chrome-4 =
 browser-data-canary-4 =
     .label = Böngészési előzmények
     .value = Böngészési előzmények
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = A böngészés előzményei és könyvjelzők
+    .value = A böngészés előzményei és könyvjelzők
 browser-data-ie-8 =
     .label = Mentett űrlapadatok
     .value = Mentett űrlapadatok
@@ -135,3 +142,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = További adatok
     .value = További adatok
+browser-data-firefox-128 =
+    .label = Ablakok és lapok
+    .value = Ablakok és lapok
