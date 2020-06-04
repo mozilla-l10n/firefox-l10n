@@ -10,6 +10,9 @@ import-from =
        *[other] នាំចូល​ចំណង់​ចំណូល​ចិត្ត ចំណាំ​ ប្រវត្តិ ពាក្យ​សម្ងាត់ និង ទិន្នន័យ​ផ្សេងៗ​ពី ៖
     }
 import-from-bookmarks = នាំចូល​ចំណាំ​ពី ៖
+import-from-ie =
+    .label = Microsoft Internet Explorer
+    .accesskey = M
 import-from-safari =
     .label = Safari
     .accesskey = S
@@ -138,3 +141,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = ទិន្នន័យ​ផ្សេងទៀត
     .value = ទិន្នន័យ​ផ្សេងទៀត
+browser-data-firefox-128 =
+    .label = បង្អួច និង​ផ្ទាំង
+    .value = បង្អួច និង​ផ្ទាំង
