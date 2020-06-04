@@ -145,3 +145,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = Data Nyingine
     .value = Data Nyingine
+browser-data-firefox-128 =
+    .label = Dirisha na Vichupo
+    .value = Dirisha na Vichupo
