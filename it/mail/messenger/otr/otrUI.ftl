@@ -26,6 +26,12 @@ alert-refresh = Tentativo di aggiornare la conversazione crittata con { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = La conversazione crittata con { $name } è terminata.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = L’identità di { $name } non è stata ancora verificata. Non è possibile intercettare la conversazione casualmente, ma con qualche sforzo è comunque possibile farlo. Per prevenire qualunque tentativo di intercettazione, verificare l’identità di questo contatto.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } ti sta contattando da un computer non riconosciuto. Non è possibile intercettare la conversazione casualmente, ma con qualche sforzo è comunque possibile farlo. Per prevenire qualunque tentativo di intercettazione, verificare l’identità di questo contatto.
 state-not_private = La conversazione corrente non è privata.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
