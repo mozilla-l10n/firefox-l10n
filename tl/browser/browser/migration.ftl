@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = Import Wizard
+import-from =
+    { PLATFORM() ->
+        [windows] Mag-import ng mga Option, Bookmark, Kasaysayan, Password at iba pang data mula sa:
+       *[other] I-import ang mga Kagustuhan, Bookmarks, History, Passwords atbp. mula sa:
+    }
 import-from-bookmarks = I-angkat ang mga Bookmark mula sa:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -9,6 +16,12 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge Legacy
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = Don't import anything
     .accesskey = D
@@ -37,6 +50,8 @@ import-from-360se =
     .label = 360 Ligtas na Browser
     .accesskey = 3
 no-migration-sources = Walang mahanap na application na naglalaman ng bookmark, history o password data.
+import-source =
+    .label = Mag-import ng mga Setting at Data
 import-items-title =
     .label = Mga item na Iimport
 import-items-description = Pumili kung aling item ang i-import:
@@ -49,6 +64,7 @@ import-select-profile-description = Ang mga sumusunod na mga profile ay pweden i
 import-done-title =
     .label = Nakumpleto na ang Pag-angkat
 import-done-description = Ang mga sumusunod na mga bagay ay matagumpay na naiangkat :
+import-close-source-browser = Siguruhing ang piniling browser ay nakasara bago magpatuloy.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -56,6 +72,7 @@ import-done-description = Ang mga sumusunod na mga bagay ay matagumpay na naiang
 imported-bookmarks-source = Mula sa { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
@@ -74,6 +91,9 @@ imported-edge-reading-list = Listahan ng Babasahin (Mula sa Edge)
 browser-data-ie-1 =
     .label = Mga pagpipilian para sa Internet
     .value = Mga pagpipilian para sa Internet
+browser-data-edge-1 =
+    .label = Mga setting
+    .value = Mga setting
 browser-data-safari-1 =
     .label = Mga Kagustuhan
     .value = Mga Kagustuhan
@@ -89,6 +109,9 @@ browser-data-360se-1 =
 browser-data-ie-2 =
     .label = Mga Cookie
     .value = Mga Cookie
+browser-data-edge-2 =
+    .label = Mga cookie
+    .value = Mga cookie
 browser-data-safari-2 =
     .label = Mga Cookie
     .value = Mga Cookie
@@ -101,7 +124,13 @@ browser-data-canary-2 =
 browser-data-firefox-2 =
     .label = Mga Cookie
     .value = Mga Cookie
+browser-data-360se-2 =
+    .label = Mga cookie
+    .value = Mga cookie
 browser-data-ie-4 =
+    .label = Kasaysayan ng Pag-Browse
+    .value = Kasaysayan ng Pag-Browse
+browser-data-edge-4 =
     .label = Kasaysayan ng Pag-Browse
     .value = Kasaysayan ng Pag-Browse
 browser-data-safari-4 =
@@ -116,6 +145,9 @@ browser-data-canary-4 =
 browser-data-firefox-history-and-bookmarks-4 =
     .label = Kasaysayan ng Pag-Browse at mga Bookmark
     .value = Kasaysayan ng Pag-Browse at mga Bookmark
+browser-data-360se-4 =
+    .label = Kasaysayan ng Pag-Browse
+    .value = Kasaysayan ng Pag-Browse
 browser-data-ie-8 =
     .label = Kasaysayan ng mga Naitagong Form
     .value = Kasaysayan ng mga Naitagong Form
@@ -140,6 +172,9 @@ browser-data-360se-8 =
 browser-data-ie-16 =
     .label = Mga naka-save na Password
     .value = Mga naka-save na Password
+browser-data-edge-16 =
+    .label = Mga Naka-save na Password
+    .value = Mga Naka-save na Password
 browser-data-safari-16 =
     .label = Mga naka-save na Password
     .value = Mga naka-save na Password
@@ -152,6 +187,9 @@ browser-data-canary-16 =
 browser-data-firefox-16 =
     .label = Mga naka-save na Password
     .value = Mga naka-save na Password
+browser-data-360se-16 =
+    .label = Mga Naka-save na Password
+    .value = Mga Naka-save na Password
 browser-data-ie-32 =
     .label = Mga Paborito
     .value = Mga Paborito
