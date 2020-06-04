@@ -5,7 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Закрити
     .title = Раніше переглянуті цифрові відбитки OTR
-finger-intro = Цифрові відбитки ключів OTR з попередніх захищених бесід.
+finger-intro = Цифрові відбитки ключів OTR з попередніх зашифрованих бесід.
 finger-screenName =
     .label = Контакт
 finger-verified =
