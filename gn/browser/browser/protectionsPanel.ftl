@@ -96,4 +96,4 @@ protections-panel-content-blocking-breakage-report-view-collection-comments-labe
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Heja
 protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Emondo ñemombe'u
+    .label = Emondo ñemombe’u
