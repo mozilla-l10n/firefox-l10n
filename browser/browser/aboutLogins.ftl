@@ -162,6 +162,7 @@ about-logins-confirm-remove-dialog-title = Supprimer cet identifiant ?
 confirm-delete-dialog-message = Cette action est irréversible.
 about-logins-confirm-remove-dialog-confirm-button = Supprimer
 about-logins-confirm-export-dialog-title = Exporter les identifiants et les mots de passe
+about-logins-confirm-export-dialog-message = Vos mots de passe seront enregistrés sous forme de texte lisible (par exemple, « m0t2passeFaible ») ; ainsi toute personne pouvant ouvrir le fichier exporté pourra les consulter.
 about-logins-confirm-export-dialog-confirm-button = Exporter…
 confirm-discard-changes-dialog-title = Ignorer les modifications non enregistrées ?
 confirm-discard-changes-dialog-message = Toutes les modifications non enregistrées seront perdues.
