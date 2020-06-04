@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = 개인 정보 보호
 appmenuitem-protection-report-tooltip =
     .tooltiptext = 개인 정보 보호 보고서로 이동
-
 appmenuitem-protection-dashboard-title = 보호 대시보드
 appmenuitem-customize-mode =
     .label = 사용자 지정…
@@ -27,6 +26,7 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = 새 기능
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
