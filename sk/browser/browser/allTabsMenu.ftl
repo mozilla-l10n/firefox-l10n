@@ -4,17 +4,21 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Obnoviť zatvorenú kartu
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Obnoviť zatvorenú kartu
+            [one] Obnoviť zatvorenú kartu
+            [few] Obnoviť zatvorené karty
+           *[other] Obnoviť zatvorené karty
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Hľadať
-
 all-tabs-menu-new-user-context =
     .label = Nová kontajnerová karta
-
 all-tabs-menu-hidden-tabs =
     .label = Skryté karty
-
 all-tabs-menu-manage-user-context =
     .label = Správa kontajnerov
     .accesskey = o
