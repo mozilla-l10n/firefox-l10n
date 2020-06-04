@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Mesiras da protecziun
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Avrir il rapport davart las mesiras per la protecziun da datas
-
 appmenuitem-customize-mode =
     .label = Persunalisar…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Novaziuns
