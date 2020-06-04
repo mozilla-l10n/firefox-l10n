@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Privaatsuse kaitse
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vaata oma privaatsuse raportit
-
 appmenuitem-customize-mode =
     .label = Kohanda...
 
@@ -22,3 +21,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Mis on uut?
