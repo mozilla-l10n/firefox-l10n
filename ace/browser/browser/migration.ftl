@@ -26,6 +26,8 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+import-select-profile-title =
+    .label = Piléh Profil
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-safari = Safari
@@ -41,6 +43,9 @@ source-name-360se = 360 Secure Browser
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-ie-1 =
+    .label = Piléhan Internèt
+    .value = Piléhan Internèt
 browser-data-ie-2 =
     .label = Kuki
     .value = Kuki
