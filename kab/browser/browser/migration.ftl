@@ -4,6 +4,11 @@
 
 migration-wizard =
     .title = Amarag n ukter
+import-from =
+    { PLATFORM() ->
+        [windows] Kter iɣewwaṛen, ticṛaḍ n isebtar, azray, awalen uffiren d isefka-nniḍen seg:
+       *[other] Kter ismenyifen, ticṛaḍ n isebtar, azray, awalen uffiren d isefka-nniḍen seg:
+    }
 import-from-bookmarks = Kter ticṛaḍ n isebtar seg:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -38,6 +43,7 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Iminig aɣelsan
     .accesskey = 3
+no-migration-sources = Ulac aseɣẓan i igebren ticraḍ n yisebtar, azray, neɣ awalen uffiren ikelsen.
 import-source =
     .label = Aktar n iɣewwaṛen d isefka
 import-items-title =
@@ -114,6 +120,27 @@ browser-data-firefox-2 =
 browser-data-360se-2 =
     .label = Inagan n tuqqna
     .value = Inagan n tuqqna
+browser-data-ie-4 =
+    .label = Azray n tunigin
+    .value = Azray n tunigin
+browser-data-edge-4 =
+    .label = Azray n tunigin
+    .value = Azray n tunigin
+browser-data-safari-4 =
+    .label = Azray n tunigin
+    .value = Azray n tunigin
+browser-data-chrome-4 =
+    .label = Azray n tunigin
+    .value = Azray n tunigin
+browser-data-canary-4 =
+    .label = Azray n tunigin
+    .value = Azray n tunigin
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = Azray n tunigin d tecraḍ n isebtar
+    .value = Azray n tunigin d tecraḍ n isebtar
+browser-data-360se-4 =
+    .label = Azray n tunigin
+    .value = Azray n tunigin
 browser-data-ie-8 =
     .label = Yettwakles seg umazray
     .value = Yettwakles seg umazray
@@ -195,3 +222,6 @@ browser-data-firefox-other-64 =
 browser-data-360se-64 =
     .label = Isefka-nniḍen
     .value = Isefka-nniḍen
+browser-data-firefox-128 =
+    .label = Isfuyla d yiccaren
+    .value = Isfuyla d yiccaren
