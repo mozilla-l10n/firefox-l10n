@@ -172,6 +172,27 @@ password-warning =
         [one] Tikirib'äl molojri'ïl tikirel k'utun pa tz'ilanem taq tzij. Tijal re ewan tzij richin ajikomal pa k'amab'ey. <a data-l10n-name="lockwise-link">Ketz'et tikirib'äl taq molojri'ïl</a>
        *[other] Tikirib'äl taq molojri'ïl tikirel ek'utun pa tz'ilanem taq tzij. Kejal re ewan taq tzij richin ajikomal pa k'amab'ey. <a data-l10n-name="lockwise-link"> Ketz'et tikirib'äl taq molojri'ïl eyakon</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Ewan tzij k'utun pa taq tz'ilanem ri man solon ta
+       *[other] Ewan taq tzij ek'utun pa taq tz'ilanem ri man esolon ta
+    }
+monitor-no-breaches-title = ¡Jeb'ël rutzijol!
+monitor-no-breaches-description = Majun atz'ilanem etaman ruwa. We nujäl riri', xtiqaya' rutzijol chawe.
+monitor-view-report-link = Titz'et Rutzijol
+    .title = Tisol tz'ilanem pa { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Kesol ri taq tz'ilanem
+monitor-breaches-unresolved-description = Chi rij ninik'öx rucholajil ri tz'ilanem chuqa' noqäx rub'eyal richin nichajïx ri awetamab'al, yatikïr naya' kan retal achi'el chi xsol.
+monitor-manage-breaches-link = Kenuk'samajïx taq tz'ilanem
+    .title = Kenuk'samajïx taq tz'ilanem pa { -monitor-brand-short-name }
+monitor-breaches-resolved-title = ¡Yalan ütz! Xe'asöl ronojel ri taq tz'ilanem etaman kiwa.
+monitor-breaches-resolved-description = We ri ataqoya'l xtiwachin pa xab'achike k'ak'a' tz'ilanem, xtiqaya' rutzijol chawe.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved } % tz'aqatisan
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
