@@ -133,3 +133,6 @@ browser-data-canary-64 =
 browser-data-firefox-other-64 =
     .label = Басқа деректер
     .value = Басқа деректер
+browser-data-firefox-128 =
+    .label = Терезелер мен беттер
+    .value = Терезелер мен беттер
