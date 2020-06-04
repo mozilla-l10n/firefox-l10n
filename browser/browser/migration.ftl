@@ -10,6 +10,9 @@ import-from =
        *[other] Kuzana Ibyatoranyijwe, Utumenyetso, Urutonde, Amagambobanga n'Ibindi Byatanzwe Bivuye mu:
     }
 import-from-bookmarks = Kuzana Utumenyetso Tuvuye mu:
+import-from-nothing =
+    .label = Ntihagire icyo uzana
+    .accesskey = i
 no-migration-sources = Nta porogaramu zirimo utumenyetso nyobora, ibijyana n'ijambobanga n'amateka zabonetse.
 import-source =
     .label = Kuzana Amagenamiterere n'Ibyatanzwe
@@ -48,6 +51,12 @@ browser-data-ie-2 =
 browser-data-safari-2 =
     .label = Dosiyenyibutsa
     .value = Dosiyenyibutsa
+browser-data-ie-4 =
+    .label = Amateka y'Ishakisha
+    .value = Amateka y'Ishakisha
+browser-data-safari-4 =
+    .label = Amateka y'Ishakisha
+    .value = Amateka y'Ishakisha
 browser-data-ie-8 =
     .label = Ifishi y'urutonde yabitswe
     .value = Ifishi y'urutonde yabitswe
