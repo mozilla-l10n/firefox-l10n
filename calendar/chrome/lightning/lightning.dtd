@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Salvestatud kiri…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "S">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalender…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Kustuta kalendrist">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Üksikasjad…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Kuva sündmuse üksikasjad">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Ära näita neid teavitusi">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalender">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Lülitu kalendri kaardile">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Rohkem">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klõpsa teiste valikute nägemiseks">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Kinnita uuesti">

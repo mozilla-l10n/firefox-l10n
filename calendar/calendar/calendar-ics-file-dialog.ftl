@@ -15,3 +15,6 @@ calendar-ics-file-dialog-2 =
 calendar-ics-file-accept-button-ok-label = Sobib
 # $fileName (string) - The name of the file.
 calendar-ics-file-dialog-message = Kas soovid faili "{ $fileName }" importida?
+calendar-ics-file-import-success = Import õnnestus!
+calendar-ics-file-import-error = Tekkis viga ja import ebaõnnestus.
+calendar-ics-file-dialog-no-calendars = Pole ühtki kalendrit, mis võimaldaks sündmusi või ülesandeid importida.
