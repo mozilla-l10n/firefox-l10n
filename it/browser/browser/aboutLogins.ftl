@@ -120,6 +120,12 @@ about-logins-copy-password-os-auth-dialog-message-win = Per copiare la password,
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiare la password salvata
 
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Per esportare le credenziali salvate, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = esportare credenziali e password salvate
+
 ## Master Password notification
 
 master-password-notification-message = Inserire la password principale per visualizzare le credenziali e le password salvate
