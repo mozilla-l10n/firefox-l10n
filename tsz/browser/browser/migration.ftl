@@ -28,3 +28,6 @@ source-name-firefox = Mozilla Firefox
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-edge-1 =
+    .label = K'atantskua
+    .value = K'atantskua
