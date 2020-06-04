@@ -4,6 +4,11 @@
 
 migration-wizard =
     .title = Importvegvisar
+import-from =
+    { PLATFORM() ->
+        [windows] Importer innstillingar, bokmerke, historikk, passord og annan informasjon frå:
+       *[other] Importer innstillingar, bokmerke, historikk, passord og annan informasjon frå:
+    }
 import-from-bookmarks = Importer bokmerke frå:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -18,6 +23,7 @@ import-source =
     .label = Importer innstillingar og data
 import-items-title =
     .label = Element som skal importerast
+import-items-description = Vel kva for element som skal importerast:
 import-select-profile-title =
     .label = Vel profil
 import-done-title =
@@ -46,6 +52,12 @@ browser-data-ie-2 =
 browser-data-safari-2 =
     .label = Infokapslar
     .value = Infokapslar
+browser-data-ie-4 =
+    .label = Nettlesarhistorikk
+    .value = Nettlesarhistorikk
+browser-data-safari-4 =
+    .label = Nettlesarhistorikk
+    .value = Nettlesarhistorikk
 browser-data-ie-16 =
     .label = Lagra passord
     .value = Lagra passord
