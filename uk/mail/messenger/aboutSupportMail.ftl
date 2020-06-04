@@ -15,4 +15,4 @@ accounts-auth-method = Метод автентифікації
 accounts-default = Типово?
 identity-name = Ідентифікація
 send-via-email = Надіслати електронною поштою
-app-basics-telemetry = Данні телеметрії
+app-basics-telemetry = Дані телеметрії
