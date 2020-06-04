@@ -2,6 +2,35 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = راهنمای گام‌به‌گام وارد کردن اطلاعات
+import-from =
+    { PLATFORM() ->
+        [windows] وارد کردن گزینه‌ها، نشانک‌ها، تاریخچه، گذرواژه‌ها و دیگر داده‌ها از:
+       *[other] وارد کردن ترجیحات، نشانک‌ها، تاریخچه، گذرواژه‌ها و دیگر داده‌ها از:
+    }
+import-from-bookmarks = وارد کردن نشانک‌ها از:
+import-from-ie =
+    .label = اینترنت اکسپلورر مایکروسافت
+    .accesskey = م
+import-from-safari =
+    .label = سافاری
+    .accesskey = س
+no-migration-sources = برنامه‌ای که شامل اطلاعات نشانک‌ها، تاریخچه یا گذرواژه‌ها باشد یافت نشد.
+import-source =
+    .label = وارد کردن تنظیمات و داده‌ها
+import-items-title =
+    .label = مواردی که وارد شوند
+import-items-description = مواردی را که می‌خواهید وارد شوند انتخاب کنید:
+import-migrating-title =
+    .label = در حال وارد کردن…
+import-migrating-description = موارد زیر در حال وارد شدن هستند…
+import-select-profile-title =
+    .label = انتخاب مجموعهٔ تنظیمات
+import-select-profile-description = مجموعه تنظیمات زیر برای وارد کردن موجودند:
+import-done-title =
+    .label = اطلاعات وارد شد
+import-done-description = موارد زیر با موفقیت وارد شدند:
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -44,6 +73,9 @@ browser-data-ie-16 =
 browser-data-safari-16 =
     .label = گذرواژه‌های ذخیره شده
     .value = گذرواژه‌های ذخیره شده
+browser-data-safari-32 =
+    .label = نشانک‌ها
+    .value = نشانک‌ها
 browser-data-ie-64 =
     .label = دیگر اطلاعات
     .value = دیگر اطلاعات
