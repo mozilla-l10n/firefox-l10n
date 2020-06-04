@@ -28,6 +28,9 @@ import-source =
 import-items-title =
     .label = Eitemau i'w Mewnforio
 import-items-description = Dewis eitemau i'w mewnforio:
+import-migrating-title =
+    .label = Mewnforio…
+import-migrating-description = Mae'r eitemau canlynol yn cael eu mewnforio…
 import-select-profile-title =
     .label = Dewis Proffil
 import-select-profile-description = Mae'r proffiliau canlynol ar gael i'w mewnforio o:
@@ -43,6 +46,7 @@ source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
+imported-safari-reading-list = Rhestr Darllen (O Safari)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -87,6 +91,9 @@ browser-data-chrome-4 =
 browser-data-canary-4 =
     .label = Hanes Pori
     .value = Hanes Pori
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = Hanes Pori a Nodau Tudalen
+    .value = Hanes Pori a Nodau Tudalen
 browser-data-ie-8 =
     .label = Hanes Ffurflenni a Gadwyd
     .value = Hanes Ffurflenni a Gadwyd
