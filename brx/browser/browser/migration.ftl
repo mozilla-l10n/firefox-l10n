@@ -4,6 +4,21 @@
 
 migration-wizard =
     .title = उइजार्डखौ लाबो
+import-from-ie =
+    .label = माइक्र'सफ्ट इन्टारनेट एक्सप्ल'रार
+    .accesskey = M
+import-from-nothing =
+    .label = जेबो लाबोनो नाङा
+    .accesskey = D
+import-from-safari =
+    .label = साफारि
+    .accesskey = S
+import-from-chrome =
+    .label = क्रम
+    .accesskey = C
+import-from-firefox =
+    .label = फायारफक्स
+    .accesskey = x
 no-migration-sources = बुकमार्क, जारिमिन एबा पासवार्ड डाटा थानाय जेबो डाटा मोनाखै।
 import-source =
     .label = सेटिं आरो डाटाखौ लाबो
