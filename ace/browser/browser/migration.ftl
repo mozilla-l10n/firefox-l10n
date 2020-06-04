@@ -1,0 +1,97 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+import-from-safari =
+    .label = Safari
+    .accesskey = S
+import-from-canary =
+    .label = Chrome Canary
+    .accesskey = n
+import-from-chrome =
+    .label = Chrome
+    .accesskey = C
+import-from-chrome-beta =
+    .label = Chrome Beta
+    .accesskey = B
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
+import-from-chromium =
+    .label = Chromium
+    .accesskey = u
+import-from-firefox =
+    .label = Firefox
+    .accesskey = X
+import-from-360se =
+    .label = 360 Secure Browser
+    .accesskey = 3
+source-name-ie = Internet Explorer
+source-name-edge = Microsoft Edge
+source-name-safari = Safari
+source-name-canary = Google Chrome Canary
+source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
+source-name-chromium = Chromium
+source-name-firefox = Mozilla Firefox
+source-name-360se = 360 Secure Browser
+
+# Import Sources
+# Note: When adding an import source for profile reset, add the string name to
+# resetProfile.js if it should be listed in the reset dialog.
+
+browser-data-ie-2 =
+    .label = Kuki
+    .value = Kuki
+browser-data-edge-2 =
+    .label = Kuki
+    .value = Kuki
+browser-data-safari-2 =
+    .label = Kuki
+    .value = Kuki
+browser-data-chrome-2 =
+    .label = Kuki
+    .value = Kuki
+browser-data-canary-2 =
+    .label = Kuki
+    .value = Kuki
+browser-data-firefox-2 =
+    .label = Kuki
+    .value = Kuki
+browser-data-360se-2 =
+    .label = Kuki
+    .value = Kuki
+browser-data-ie-4 =
+    .label = Riwayat Peuhah Wèb
+    .value = Riwayat Peuhah Wèb
+browser-data-edge-4 =
+    .label = Riwayat Peuhah Wèb
+    .value = Riwayat Peuhah Wèb
+browser-data-safari-4 =
+    .label = Riwayat Peuhah Wèb
+    .value = Riwayat Peuhah Wèb
+browser-data-chrome-4 =
+    .label = Riwayat Peuhah Wèb
+    .value = Riwayat Peuhah Wèb
+browser-data-canary-4 =
+    .label = Riwayat Peuhah Wèb
+    .value = Riwayat Peuhah Wèb
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = Riwayat Peuhah Wèb ngön Peutanda
+    .value = Riwayat Peuhah Wèb ngön Peutanda
+browser-data-360se-4 =
+    .label = Riwayat Peuhah Wèb
+    .value = Riwayat Peuhah Wèb
+browser-data-safari-32 =
+    .label = Peutanda
+    .value = Peutanda
+browser-data-chrome-32 =
+    .label = Peutanda
+    .value = Peutanda
+browser-data-canary-32 =
+    .label = Peutanda
+    .value = Peutanda
+browser-data-360se-32 =
+    .label = Peutanda
+    .value = Peutanda
