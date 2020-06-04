@@ -18,12 +18,9 @@ login-app-promo-android =
     .alt = Оны Google Play ішінен алыңыз
 login-app-promo-apple =
     .alt = App Store ішінен жүктеп алыңыз
-
 login-filter =
     .placeholder = Логиндерден іздеу
-
 create-login-button = Жаңа торапты жасау
-
 fxaccounts-sign-in-text = Парольдеріңізді басқа құрылғыларыңызды алыңыз
 fxaccounts-sign-in-button = { -sync-brand-short-name } ішіне кіріңіз
 fxaccounts-avatar-button =
@@ -117,11 +114,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = сақталған логинді түзету
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = сақталған парольді қарау
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = сақталған парольді көшіру
@@ -156,13 +151,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Бас тарту
 confirmation-dialog-dismiss-button =
     .title = Бас тарту
-
 about-logins-confirm-remove-dialog-title = Бұл логинді өшіру керек пе?
 confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
 about-logins-confirm-remove-dialog-confirm-button = Өшіру
-
+about-logins-confirm-export-dialog-title = Логиндер және парольдерді экспорттау
 about-logins-confirm-export-dialog-confirm-button = Экспорттау…
-
 confirm-discard-changes-dialog-title = Сақталмаған өзгерістерді тайдыру керек пе?
 confirm-discard-changes-dialog-message = Барлық сақталмаған өзгерістер жоғалады.
 confirm-discard-changes-dialog-confirm-button = Тайдыру
@@ -191,10 +184,16 @@ about-logins-vulnerable-alert-learn-more-link = Көбірек білу
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Осы пайдаланушы атын қолданатын { $loginTitle } жазбасы бар болып тұр. <a data-l10n-name="duplicate-link">Бар болып тұрған жазбаға өту</a> керек пе?
-
 # This is a generic error message.
 about-logins-error-message-default = Бұл парольді сақтау кезінде қате орын алды.
 
-
 ## Login Export Dialog
 
+about-logins-export-file-picker-export-button = Экспорттау
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV құжаты
+       *[other] CSV файлы
+    }
