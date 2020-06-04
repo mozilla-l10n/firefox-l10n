@@ -18,12 +18,9 @@ login-app-promo-android =
     .alt = 从 Google Play 获取
 login-app-promo-apple =
     .alt = 到 App Store 下载
-
 login-filter =
     .placeholder = 搜索登录信息
-
 create-login-button = 新建登录信息
-
 fxaccounts-sign-in-text = 在您的其他设备上取得您的密码
 fxaccounts-sign-in-button = 登录{ -sync-brand-short-name }服务
 fxaccounts-avatar-button =
@@ -119,18 +116,21 @@ about-logins-edit-login-os-auth-dialog-message-win = 请输入 Windows 登录凭
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 编辑存放的登录信息
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以查看密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = 显示存放的密码
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以复制密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = 复制存放的密码
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以继续导出登录信息。这有助于保护您的账户安全。
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = 导出存放的登录名和密码
 
 ## Master Password notification
 
@@ -162,15 +162,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
-
 about-logins-confirm-remove-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
 about-logins-confirm-remove-dialog-confirm-button = 移除
-
 about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
 about-logins-confirm-export-dialog-confirm-button = 导出…
-
 confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
 confirm-discard-changes-dialog-message = 将失去所有未保存的更改。
 confirm-discard-changes-dialog-confirm-button = 丢弃
@@ -201,10 +198,8 @@ about-logins-vulnerable-alert-learn-more-link = 详细了解
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = 已存在具有该用户名的 { $loginTitle } 条目。<a data-l10n-name="duplicate-link">要转至现有条目吗？</a>
-
 # This is a generic error message.
 about-logins-error-message-default = 尝试保存该密码时发生错误。
-
 
 ## Login Export Dialog
 
