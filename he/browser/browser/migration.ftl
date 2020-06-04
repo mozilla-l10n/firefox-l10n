@@ -23,6 +23,7 @@ source-name-safari = Safari
 source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
 imported-safari-reading-list = רשימת קריאה (מ־Safari)
+imported-edge-reading-list = רשימת קריאה (מ־Edge)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -88,6 +89,9 @@ browser-data-canary-16 =
 browser-data-firefox-16 =
     .label = ססמאות שמורות
     .value = ססמאות שמורות
+browser-data-ie-32 =
+    .label = מועדפים
+    .value = מועדפים
 browser-data-safari-32 =
     .label = סימניות
     .value = סימניות
