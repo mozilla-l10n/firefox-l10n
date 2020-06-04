@@ -4,6 +4,12 @@
 
 migration-wizard =
     .title = విజార్డు దిగుమతిచేయి
+import-from =
+    { PLATFORM() ->
+        [windows] ఎంపికలను, ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను మరియు ఇతర డేటాను దిగుమతి చేయండి:
+       *[other] అభిరుచులను, ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను, ఇతర డాటాను దిగుమతి చేయి:
+    }
+import-from-bookmarks = ఇష్టాంశాలను దిగుమతిచేయి:
 import-from-ie =
     .label = మైక్రోసాఫ్ట్ ఇంటర్నెట్‌ ఎక్స్‌ప్లోరర్
     .accesskey = M
@@ -184,6 +190,12 @@ browser-data-edge-32 =
     .label = ఇష్టాలు
     .value = ఇష్టాలు
 browser-data-safari-32 =
+    .label = ఇష్టాంశాలు
+    .value = ఇష్టాంశాలు
+browser-data-chrome-32 =
+    .label = ఇష్టాంశాలు
+    .value = ఇష్టాంశాలు
+browser-data-canary-32 =
     .label = ఇష్టాంశాలు
     .value = ఇష్టాంశాలు
 browser-data-360se-32 =
