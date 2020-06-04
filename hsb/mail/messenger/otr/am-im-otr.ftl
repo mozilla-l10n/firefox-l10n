@@ -5,6 +5,7 @@
 account-encryption =
     .label = Zaklučowanje wot kónca do kónca
 account-otr-label = Off-the-Record Messaging (OTR)
+otr-encryption-title = Wobkrućene zaklučowanje
 otr-fingerprint-label = Waš porstowy wotćišć:
 view-fingerprint-button =
     .label = Porstowe wotćišće kontaktow rjadowaś
