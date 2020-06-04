@@ -14,6 +14,9 @@ import-from-safari =
 import-from-chrome =
     .label = கொறோம்
     .accesskey = க
+import-from-firefox =
+    .label = பயர்பாக்ஸ்(x)
+    .accesskey = x
 no-migration-sources = புத்தகக்குறிகள், வரலாறு அல்லது கடவுச்சொல் தரவு போன்றவற்றைக் கொண்ட நிரல்களை காண முடியவில்லை.
 import-source =
     .label = இறக்குதல் அமைவுகள் மற்றும் தரவு
@@ -37,6 +40,7 @@ imported-bookmarks-source = { $source } லிருந்து
 source-name-ie = இன்டர்நெட் எக்ஸ்ப்ளோரர்
 source-name-safari = சபாரி
 source-name-chrome = கூகுள் கொறோம்
+source-name-firefox = மொசில்லா பயர்பாக்ஸ்
 imported-safari-reading-list = (சபாரியில் இருந்து ) பட்டியல் படிக்கப்படுகிறது
 
 # Import Sources
