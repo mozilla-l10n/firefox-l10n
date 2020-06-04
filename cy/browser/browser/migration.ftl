@@ -130,3 +130,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = Data Arall
     .value = Data Arall
+browser-data-firefox-other-64 =
+    .label = Data Arall
+    .value = Data Arall
