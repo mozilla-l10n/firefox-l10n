@@ -2,10 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+import-from =
+    { PLATFORM() ->
+        [windows] Importar opciones, marcadores, historial, contraseñes y otros datos de:
+       *[other] Importar preferencies, marcadores, historial, contraseñes y otros datos de:
+    }
 import-from-bookmarks = Importar marcadores de:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
+import-from-nothing =
+    .label = Nun importar nada
+    .accesskey = p
 import-items-title =
     .label = Elementos a importar
 import-migrating-title =
@@ -28,6 +36,12 @@ browser-data-ie-2 =
 browser-data-safari-2 =
     .label = Cookies
     .value = Cookies
+browser-data-ie-4 =
+    .label = Historial
+    .value = Historial
+browser-data-ie-8 =
+    .label = Historial de formularios guardaos
+    .value = Historial de formularios guardaos
 browser-data-ie-16 =
     .label = Contraseñes guardaes
     .value = Contraseñes guardaes
