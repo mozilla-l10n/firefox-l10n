@@ -2,9 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = ตัวช่วยนำเข้า
+import-from-ie =
+    .label = Microsoft Internet Explorer
+    .accesskey = M
+import-from-safari =
+    .label = Safari
+    .accesskey = S
 import-from-chrome =
     .label = Chrome
     .accesskey = C
+import-from-firefox =
+    .label = Firefox
+    .accesskey = x
+import-migrating-title =
+    .label = กำลังนำเข้า…
+import-done-title =
+    .label = การนำเข้าเสร็จสมบูรณ์
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
