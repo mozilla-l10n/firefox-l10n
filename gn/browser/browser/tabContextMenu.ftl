@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Emboguevi ha emboty tendayke
     .accesskey = U
+tab-context-close-multiple-tabs =
+    .label = Emboty tendaykeita
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Emboguevi tendayke mboty
+            [one] Emboguevi tendayke mboty
+           *[other] Emboguevi tendayke mboty
+        }
+    .accesskey = U
 close-tab =
     .label = Tendayke mboty
     .accesskey = C

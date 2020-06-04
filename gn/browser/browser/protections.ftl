@@ -185,12 +185,22 @@ monitor-manage-breaches-link = Emongu’e ñembogua
     .title = Emongu’e ñembogua { -monitor-brand-short-name }-pe
 monitor-breaches-resolved-title = ¡Iporã! Emoĩporãmbáma ñembogua ojekuaáva.
 # Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } { $numBreaches } mba’e ñembyai mongurusupyre oĩporãmavaramo
+       *[other] { $numBreachesResolved } { $numBreaches } mba’e ñembyai mongurusupyre oĩporãmavaramo
+    }
+# Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% oĩmbáma
 monitor-partial-breaches-motivation-title-start = ¡Ñepyrũ guasu!
 monitor-partial-breaches-motivation-title-middle = ¡Eku’e péicha!
 monitor-partial-breaches-motivation-title-end = ¡Opapotáma! Eho hese péicha.
 monitor-partial-breaches-motivation-description = Emoĩporã hembýva ñembogua { -monitor-brand-short-name } rupive.
+monitor-resolve-breaches-link = Emoĩpórã ñembogua
+    .title = Emoĩpórã ñembogua { -monitor-brand-short-name }-pe
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
