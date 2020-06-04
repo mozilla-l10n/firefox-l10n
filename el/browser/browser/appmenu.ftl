@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Προστασία απορρήτου
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Μεταβείτε στην αναφορά απορρήτου σας
-
 appmenuitem-customize-mode =
     .label = Προσαρμογή…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Τι νέο υπάρχει
