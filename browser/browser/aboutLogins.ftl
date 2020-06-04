@@ -127,6 +127,9 @@ about-logins-copy-password-os-auth-dialog-message-win = Om du vill kopiera ditt 
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopiera det sparade lösenordet
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = exportera sparade inloggningar och lösenord
 
 ## Master Password notification
 
