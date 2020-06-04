@@ -39,6 +39,7 @@ import-source =
 import-items-title =
     .label = Element som skal importerast
 import-items-description = Vel kva for element som skal importerast:
+import-migrating-description = Følgjande element vert no importerte…
 import-select-profile-title =
     .label = Vel profil
 import-done-title =
