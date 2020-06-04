@@ -16,6 +16,9 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = Nu importa nimic
     .accesskey = u
@@ -66,6 +69,7 @@ import-close-source-browser = Te rugăm să te asiguri că browserul selectat es
 imported-bookmarks-source = Din { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
@@ -74,6 +78,8 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+imported-safari-reading-list = Listă de lectură (din Safari)
+imported-edge-reading-list = Listă de lectură (din Edge)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
