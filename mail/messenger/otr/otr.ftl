@@ -21,6 +21,12 @@ msgevent-msg_resent = Het laatste bericht aan { $name } is opnieuw verzonden.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_not_private = Het versleutelde bericht van { $name } is onleesbaar, omdat u momenteel niet privé communiceert.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = U hebt een onleesbaar versleuteld bericht ontvangen van { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = U hebt een ongeldig gegevensbericht ontvangen van { $name }.
 # A Heartbeat is a technical message used to keep a connection alive.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -48,9 +54,16 @@ context-gone_secure_private = Privégesprek met { $name } is gestart.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_unverified = Versleuteld, maar niet-geverifieerd gesprek met { $name } is gestart.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Het versleutelde gesprek met { $name } is met succes vernieuwd.
 error-enc = Er is een fout opgetreden bij het versleutelen van het bericht.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = U hebt versleutelde gegevens verzonden naar { $name }, die dit niet verwachtte.
 error-unreadable = U hebt een onleesbaar versleuteld bericht verzonden.
+error-malformed = U hebt een ongeldig gegevensbericht verzonden.
 resent = [opnieuw verzonden]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } heeft hun versleutelde conversatie met u beëindigd; u zou hetzelfde moeten doen.
