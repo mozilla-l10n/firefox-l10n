@@ -10,6 +10,9 @@ import-from =
        *[other] Fat taamu yi, mandarga xët yi, jaar jaar yi, baati jàll yi ak yeneen rootaan yi dale ko ci :
     }
 import-from-bookmarks = Fat mandarga xët yi dale ko ci :
+import-from-ie =
+    .label = Microsoft Internet Explorer
+    .accesskey = M
 import-from-nothing =
     .label = Bul fat dara
     .accesskey = d
@@ -22,6 +25,7 @@ import-from-chrome =
 import-from-firefox =
     .label = Firefox
     .accesskey = x
+no-migration-sources = Amul benn xeltéef bu ëmb ay mandarga xët, jaar jaar walla baatu jàll bu ñu aar.
 import-source =
     .label = Fat parameetar yi ak rootaan yi
 import-items-title =
@@ -41,6 +45,7 @@ import-done-description = Mbir yile fatu nañu ak ndam :
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Fate ko ci { $source }
+source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
@@ -50,6 +55,9 @@ imported-safari-reading-list = Limu jàng (dale ko ci Safari )
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-ie-1 =
+    .label = Tànneefi Internet
+    .value = Tànneefi Internet
 browser-data-safari-1 =
     .label = Taamu yi
     .value = Taamu yi
@@ -140,3 +148,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = Yeneeni rootaan
     .value = Yeneeni rootaan
+browser-data-firefox-128 =
+    .label = Palanteer yi ak koñ yi
+    .value = Palanteer yi ak koñ yi
