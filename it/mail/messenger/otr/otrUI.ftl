@@ -10,6 +10,8 @@ auth-cancel = Annulla
 auth-cancelAccessKey = A
 auth-error = Si è verificato un errore durante la verifica dell’identità del tuo contatto.
 auth-success = Verifica dell’identità del contatto completata correttamente.
+auth-successThem = Il tuo contatto ha verificato correttamente la tua identità. Si consiglia di verificare anche la sua identità ponendo la tua domanda.
+auth-fail = Verifica dell’identità del contatto non riuscita.
 auth-waiting = In attesa che il contatto completi la verifica…
 finger-verify = Verifica
 finger-verify-accessKey = V
@@ -31,6 +33,9 @@ state-unverified = La conversazione corrente è crittata ma non privata, poiché
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = L’identità di { $name } è stata verificata. La conversazione corrente è crittata e privata.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } ha terminato la sua conversazione crittata con te; dovresti farlo anche tu.
 state-not_private-label = Non sicura
 state-unverified-label = Non verificata
 state-private-label = Privata
