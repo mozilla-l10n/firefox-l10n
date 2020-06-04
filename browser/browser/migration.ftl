@@ -16,6 +16,7 @@ imported-bookmarks-source = De { $source }
 source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-chrome = Google Chrome
+source-name-firefox = Mozilla Firefox
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -40,6 +41,9 @@ browser-data-chrome-2 =
     .label = Cookies
     .value = Cookies
 browser-data-canary-2 =
+    .label = Cookies
+    .value = Cookies
+browser-data-firefox-2 =
     .label = Cookies
     .value = Cookies
 browser-data-ie-4 =
