@@ -4,6 +4,11 @@
 
 migration-wizard =
     .title = Čarobnjak uvoza
+import-from =
+    { PLATFORM() ->
+        [windows] Uvezi opcije, zabilješke, povijest pretraživanja, lozinke i ostale podatke iz:
+       *[other] Uvezi postavke, zabilješke, povijest, lozinke i ostale podatke iz:
+    }
 import-from-bookmarks = Uvezi zabilješke iz:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -14,6 +19,9 @@ import-from-edge =
 import-from-edge-legacy =
     .label = Microsoft Edge Legacy
     .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge beta
+    .accesskey = d
 import-from-nothing =
     .label = Ne uvozi ništa
     .accesskey = N
@@ -38,14 +46,22 @@ import-from-firefox =
 import-from-360se =
     .label = 360 siguran preglednik
     .accesskey = 3
+no-migration-sources = Niti jedan program koji sadrži zabilješke, povijest pretraživanja ili lozinke nije pronađen.
 import-source =
     .label = Uvezi postavke i podatke
 import-items-title =
     .label = Stavke za uvoz
+import-items-description = Odaberi stavke za uvoz:
+import-migrating-title =
+    .label = Uvozi se …
+import-migrating-description = Sljedeće stavke se trenutačno uvoze …
+import-select-profile-title =
+    .label = Odaberi profil
 import-select-profile-description = Uvoz je moguć iz sljedećih profila:
 import-done-title =
     .label = Uvoz završen
 import-done-description = Sljedeće stavke su uspješno uvezene:
+import-close-source-browser = Prije nastavka, provjeri je li odabrani preglednik zatvoren.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -53,6 +69,7 @@ import-done-description = Sljedeće stavke su uspješno uvezene:
 imported-bookmarks-source = From { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
@@ -106,6 +123,27 @@ browser-data-firefox-2 =
 browser-data-360se-2 =
     .label = Kolačići
     .value = Kolačići
+browser-data-ie-4 =
+    .label = Povijest pregledavanja
+    .value = Povijest pregledavanja
+browser-data-edge-4 =
+    .label = Povijest pregledavanja
+    .value = Povijest pregledavanja
+browser-data-safari-4 =
+    .label = Povijest pregledavanja
+    .value = Povijest pregledavanja
+browser-data-chrome-4 =
+    .label = Povijest pregledavanja
+    .value = Povijest pregledavanja
+browser-data-canary-4 =
+    .label = Povijest pregledavanja
+    .value = Povijest pregledavanja
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = Povijest pregledavanja i zabilježaka
+    .value = Povijest pregledavanja i zabilježaka
+browser-data-360se-4 =
+    .label = Povijest pregledavanja
+    .value = Povijest pregledavanja
 browser-data-ie-8 =
     .label = Povijest spremljenih obrazaca
     .value = Povijest spremljenih obrazaca
