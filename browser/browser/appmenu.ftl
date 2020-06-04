@@ -7,7 +7,6 @@
 
 appmenuitem-protection-report-tooltip =
     .tooltiptext = మీ అంతరంగికతా నివేదికను చూడండి
-
 appmenuitem-customize-mode =
     .label = అభిమతీకరించు…
 
@@ -21,3 +20,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = కొత్తవి ఏమిటి
