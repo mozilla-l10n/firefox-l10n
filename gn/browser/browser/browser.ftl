@@ -277,6 +277,8 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } ndohechauka
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Emoherakuãhína { -brand-short-name }. Ambue tapicha ikatu ohecha ohasávo ovetã pyahúpe.
+sharing-warning-screen = Emoherakuã mba’erechaha tuichavéva. Ambue tapicha ikatu ohecha ohasávo ovetã pyahúpe.
 sharing-warning-proceed-to-tab =
     .label = Eho tendayképe
 sharing-warning-disable-for-session =

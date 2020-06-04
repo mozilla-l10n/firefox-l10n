@@ -500,6 +500,7 @@ home-prefs-topsites-description = Umi tenda ojeikeveha
 home-prefs-recommended-by-header =
     .label = { $provider } he'i ndéve reike hag̃ua
 home-prefs-recommended-by-description = Iporãvéva ñanduti retepy, oñemomba’éva ndéve g̃uarã
+home-prefs-recommended-by-description-update = Tetepy oikoitéva ñanduti tuichakuépe, ohepyme’ẽva { $provider }
 
 ##
 

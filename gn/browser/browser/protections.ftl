@@ -144,6 +144,14 @@ info-known-breaches-found =
        *[other] Mba’ekuaarãkuéra kuaapýva ñembyai omomarãkuaa ne marandu
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Mba’ekuaarã ñembyai ojekuaáva ikurusúva oĩporãmavaramo
+       *[other] Mba’ekuaarãkuéra ñembyai ojekuaáva ikurusúva oĩporãmavaramo
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -159,6 +167,14 @@ password-warning =
     { $count ->
         [one] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
        *[other] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Ñe’ẽñemi ojehecháva ñembogua oĩporã’ỹvaramo
+       *[other] Ñe’ẽñemikuéra ojehecháva ñembogua oĩporã’ỹvaramo
     }
 monitor-no-breaches-title = ¡Marandu iporãva!
 monitor-no-breaches-description = Ndaipóri ñembogua ojekuaáva. Eñambuéramo, roikuaaukáta ndéve.
