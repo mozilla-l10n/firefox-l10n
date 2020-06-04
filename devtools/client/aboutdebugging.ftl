@@ -121,6 +121,11 @@ about-debugging-worker-push-service =
   .label = Servizio push
 about-debugging-worker-inspect-action-disabled =
   .title = L’analisi di service worker è attualmente disattivata in { -brand-shorter-name } multiprocesso.
+
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+  .title = La scheda non è stata caricata completamente e non può essere analizzata
+
 about-debugging-main-process-name = Processo principale
 about-debugging-main-process-description2 = Processo principale per il browser obiettivo
 about-debugging-multiprocess-toolbox-name = Cassetta degli attrezzi multiprocesso
