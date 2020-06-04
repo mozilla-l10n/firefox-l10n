@@ -145,3 +145,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = Tsebišo e nngwe
     .value = Tsebišo e nngwe
+browser-data-firefox-other-64 =
+    .label = Tsebišo e nngwe
+    .value = Tsebišo e nngwe
