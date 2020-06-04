@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+import-from-ie =
+    .label = Microsoft Internet Explorer
+    .accesskey = M
+import-from-edge =
+    .label = Microsoft Edge
+    .accesskey = E
 import-from-safari =
     .label = Safari
     .accesskey = S
@@ -46,6 +52,9 @@ source-name-360se = 360 Secure Browser
 browser-data-ie-1 =
     .label = Piléhan Internèt
     .value = Piléhan Internèt
+browser-data-edge-1 =
+    .label = Peuatoe
+    .value = Peuatoe
 browser-data-ie-2 =
     .label = Kuki
     .value = Kuki
@@ -100,3 +109,24 @@ browser-data-canary-32 =
 browser-data-360se-32 =
     .label = Peutanda
     .value = Peutanda
+browser-data-ie-64 =
+    .label = Data Laen
+    .value = Data Laen
+browser-data-edge-64 =
+    .label = Data Laen
+    .value = Data Laen
+browser-data-safari-64 =
+    .label = Data Laen
+    .value = Data Laen
+browser-data-chrome-64 =
+    .label = Data Laen
+    .value = Data Laen
+browser-data-canary-64 =
+    .label = Data Laen
+    .value = Data Laen
+browser-data-firefox-other-64 =
+    .label = Data Laen
+    .value = Data Laen
+browser-data-360se-64 =
+    .label = Data Laen
+    .value = Data Laen
