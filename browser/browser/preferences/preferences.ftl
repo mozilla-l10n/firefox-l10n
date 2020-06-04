@@ -921,7 +921,7 @@ addressbar-locbar-openpage-option =
     .accesskey = f
 
 addressbar-locbar-topsites-option =
-    .label = Mest besøgte websteder
+    .label = Mest besøgte websider
     .accesskey = M
 
 addressbar-suggestions-settings = Skift indstillinger for søgeforslag

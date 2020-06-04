@@ -275,8 +275,8 @@ popup-screen-sharing-never =
   .label = Tillad aldrig
   .accesskey = a
 
-popup-silence-notifications-checkbox = Deaktiver notifikationer fra { -brand-short-name } ved deling
-popup-silence-notifications-checkbox-warning = { -brand-short-name } vil ikke vise notifikationer, når du deler
+popup-silence-notifications-checkbox = Deaktiver beskeder fra { -brand-short-name } ved deling
+popup-silence-notifications-checkbox-warning = { -brand-short-name } vil ikke vise beskeder, når du deler
 
 ## WebRTC window or screen share tab switch warning
 
