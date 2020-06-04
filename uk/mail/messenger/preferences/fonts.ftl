@@ -120,8 +120,8 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
-text-encoding-legend = Набори символів
-text-encoding-description = Виберіть стандартні кодування листів для відісланої та отриманої пошти
+text-encoding-legend = Кодування тексту
+text-encoding-description = Встановити стандартне кодування тексту для надісланих та отриманих повідомлень
 font-outgoing-email-label =
     .value = Вихідна пошта:
     .accesskey = и
@@ -129,5 +129,5 @@ font-incoming-email-label =
     .value = Вхідна пошта:
     .accesskey = і
 default-font-reply-checkbox =
-    .label = Вживати стандартне кодування символів у відповідях на листи, коли це можливо
+    .label = Вживати стандартне кодування тексту при відповіді на листи, коли це можливо
     .accesskey = с
