@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Prutizziuna pâ privatizza
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vai ô rapportu di privatizza
-
 appmenuitem-customize-mode =
     .label = Pirsunalizza…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Nuvità
