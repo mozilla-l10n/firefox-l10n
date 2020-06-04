@@ -267,8 +267,8 @@ menu-help-safe-mode-with-addons =
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
-    .label = Emombe’u ñandutirenda ivaiha...
-    .accesskey = d
+    .label = Emombe’u ñandutirenda ivaiha…
+    .accesskey = D
 menu-help-not-deceptive =
     .label = Kóva ndaha’éi tenda ombotavyséva…
     .accesskey = d
