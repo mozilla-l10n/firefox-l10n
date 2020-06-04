@@ -5,15 +5,30 @@
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = I
+import-from-edge =
+    .label = Microsoft Edge
+    .accesskey = E
+import-from-nothing =
+    .label = Không nhập gì cả
+    .accesskey = h
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-canary =
+    .label = Chrome Canary
+    .accesskey = n
 import-from-chrome =
     .label = Chrome
     .accesskey = C
+import-from-chromium =
+    .label = Chromium
+    .accesskey = u
 import-from-firefox =
     .label = Firefox
     .accesskey = x
+import-from-360se =
+    .label = 360 Secure Browser
+    .accesskey = 3
 import-source =
     .label = Nhập các Thiết lập và Dữ liệu từ
 import-items-description = Chọn các mục để nhập:
@@ -26,16 +41,22 @@ import-select-profile-description = Các hồ sơ có thể nhập được từ
 import-done-title =
     .label = Nhập Xong
 import-done-description = Các mục sau đã được nhập thành công:
+import-close-source-browser = Vui lòng chắc chắn trình duyệt được chọn đã đóng truớc khi tiếp tục.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Từ { $source }
 source-name-ie = Internet Explorer
+source-name-edge = Microsoft Edge
 source-name-safari = Safari
+source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
+source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Đang đọc danh sách (Từ Safari)
+imported-edge-reading-list = Đang đọc danh sách (từ Edge)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -44,6 +65,9 @@ imported-safari-reading-list = Đang đọc danh sách (Từ Safari)
 browser-data-ie-1 =
     .label = Tùy chọn Internet
     .value = Tùy chọn Internet
+browser-data-edge-1 =
+    .label = Thiết lập
+    .value = Thiết lập
 browser-data-safari-1 =
     .label = Tùy chỉnh
     .value = Tùy chỉnh
@@ -113,6 +137,9 @@ browser-data-firefox-16 =
 browser-data-ie-64 =
     .label = Dữ liệu Khác
     .value = Dữ liệu Khác
+browser-data-edge-64 =
+    .label = Dữ liệu khác
+    .value = Dữ liệu khác
 browser-data-safari-64 =
     .label = Dữ liệu Khác
     .value = Dữ liệu Khác
@@ -125,6 +152,9 @@ browser-data-canary-64 =
 browser-data-firefox-other-64 =
     .label = Dữ liệu Khác
     .value = Dữ liệu Khác
+browser-data-360se-64 =
+    .label = Dữ liệu khác
+    .value = Dữ liệu khác
 browser-data-firefox-128 =
     .label = Cửa Sổ và Thẻ
     .value = Cửa Sổ và Thẻ
