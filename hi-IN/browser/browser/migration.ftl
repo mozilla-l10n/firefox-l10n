@@ -46,3 +46,6 @@ browser-data-canary-64 =
 browser-data-firefox-other-64 =
     .label = अन्य आंकड़ा
     .value = अन्य आंकड़ा
+browser-data-firefox-128 =
+    .label = विंडोज व टैब
+    .value = विंडोज व टैब
