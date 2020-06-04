@@ -10,6 +10,9 @@ import-from =
        *[other] Kuzana Ibyatoranyijwe, Utumenyetso, Urutonde, Amagambobanga n'Ibindi Byatanzwe Bivuye mu:
     }
 import-from-bookmarks = Kuzana Utumenyetso Tuvuye mu:
+no-migration-sources = Nta porogaramu zirimo utumenyetso nyobora, ibijyana n'ijambobanga n'amateka zabonetse.
+import-source =
+    .label = Kuzana Amagenamiterere n'Ibyatanzwe
 import-items-title =
     .label = Ibintu Bigomba Kuzanwa
 import-items-description = Guhitamo Ibigize byi Kuvana Hanze:
@@ -27,6 +30,7 @@ import-done-description = Ibintu Bikurikira Byazanwe nta Kibazo:
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Kuva kuri { $source }:
+source-name-firefox = Mozilla Firefox
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
