@@ -135,3 +135,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = Bayhaya taney
     .value = Bayhaya taney
+browser-data-firefox-other-64 =
+    .label = Bayhaya taney
+    .value = Bayhaya taney
