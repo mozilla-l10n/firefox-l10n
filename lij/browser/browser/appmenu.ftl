@@ -6,7 +6,6 @@
 ## App Menu
 
 appmenuitem-protection-report-title = Proteçioin in sciâ privacy
-
 appmenuitem-customize-mode =
     .label = Personalizza…
 
@@ -20,3 +19,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Cöse gh'é de neuvo
