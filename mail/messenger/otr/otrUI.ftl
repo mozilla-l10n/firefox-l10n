@@ -11,7 +11,7 @@ auth-cancelAccessKey = P
 finger-verify = Přepruwować
 finger-verify-accessKey = P
 # Do not translate 'OTR' (name of an encryption protocol)
-buddycontextmenu-label = Porstowy wotčišć OTR přidać
+buddycontextmenu-label = Porstowy wotćišć OTR přidać
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Zaklučowana konwersacija z { $name } je so skónčiła.
