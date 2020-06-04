@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = गोपनीयता संरक्षण
 appmenuitem-protection-report-tooltip =
     .tooltiptext = आपल्या गोपनीयता अहवालावर जा
-
 appmenuitem-customize-mode =
     .label = मनपसंत करा…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = नवीन काय आहे
