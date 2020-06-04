@@ -195,8 +195,8 @@ monitor-breaches-resolved-description = Si su correo aparece en cualquier filtra
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
 monitor-partial-breaches-title =
     { $numBreaches ->
-        [one] { $numBreachesResolved } de { $numTotalBreaches } filtración marcada como resuelta
-       *[other] { $numBreachesResolved } de { $numTotalBreaches } filtraciones marcadas como resueltas
+        [one] { $numBreachesResolved } de { $numBreaches } filtración marcada como resuelta
+       *[other] { $numBreachesResolved } de { $numBreaches } filtraciones marcadas como resueltas
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
