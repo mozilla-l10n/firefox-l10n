@@ -4,6 +4,11 @@
 
 migration-wizard =
     .title = Чаробњак за увоз
+import-from =
+    { PLATFORM() ->
+        [windows] Увези подешавања, забелешке, историјат, лозинке и друге податке из:
+       *[other] Увези подешавања, забелешке, историјат, лозинке и друге податке из:
+    }
 import-from-bookmarks = Увези забелешке из:
 import-from-ie =
     .label = Microsoft Internet Explorer
