@@ -4,6 +4,11 @@
 
 migration-wizard =
     .title = مرشِد الاستيراد
+import-from =
+    { PLATFORM() ->
+        [windows] استورد الخيارات، و العلامات، و التّأريخ، و كلمات السرّ و بيانات أخرى من:
+       *[other] استورد التّفضيلات، و العلامات، و التّأريخ، و كلمات السرّ و بيانات أخرى من:
+    }
 import-from-bookmarks = استورد العلامات من:
 import-from-ie =
     .label = ميكروسوفت إنترنت إكسبلورر
@@ -134,5 +139,8 @@ browser-data-chrome-64 =
     .label = بيانات أخرى
     .value = بيانات أخرى
 browser-data-canary-64 =
+    .label = بيانات أخرى
+    .value = بيانات أخرى
+browser-data-firefox-other-64 =
     .label = بيانات أخرى
     .value = بيانات أخرى
