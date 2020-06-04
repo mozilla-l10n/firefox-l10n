@@ -157,3 +157,6 @@ browser-data-canary-64 =
 browser-data-firefox-other-64 =
     .label = Diğer veriler
     .value = Diğer veriler
+browser-data-firefox-128 =
+    .label = Pencereler ve sekmeler
+    .value = Pencereler ve sekmeler
