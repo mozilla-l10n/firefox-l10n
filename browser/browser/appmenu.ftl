@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = تقرير حماية الخصوصية
 appmenuitem-protection-report-tooltip =
     .tooltiptext = انتقل إلى تقرير الخصوصية
-
 appmenuitem-customize-mode =
     .label = خصّص…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = ما الجديد
