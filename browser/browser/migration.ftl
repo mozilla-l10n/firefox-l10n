@@ -38,6 +38,7 @@ import-done-description = Дараах зүйлс амжилттай импор�
 imported-bookmarks-source = { $source }-ээс
 source-name-ie = Internet Explorer
 source-name-safari = Safari
+source-name-firefox = Mozilla Firefox
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
