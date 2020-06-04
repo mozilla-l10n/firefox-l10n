@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Ndeenkaaji Suturo
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Yah to jaŋtol maa suturo
-
 appmenuitem-customize-mode =
     .label = Heertin…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Ko Hesɗi
