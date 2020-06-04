@@ -16,6 +16,12 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge (ancian versiones)
+    .accesskey = a
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = Importar nihil
     .accesskey = n
@@ -48,6 +54,7 @@ import-source =
     .label = Importar parametros e datos
 import-items-title =
     .label = Elementos a importar
+import-items-description = Selige le datos a importar:
 import-migrating-title =
     .label = Importante…
 import-migrating-description = Le importation del elementos sequente es in curso…
@@ -57,6 +64,7 @@ import-select-profile-description = Le profilos sequente es disponibile a import
 import-done-title =
     .label = Importation complete
 import-done-description = Le elementos sequente ha essite importate con successo:
+import-close-source-browser = Per favor assecura te que le navigator seligite es claudite ante de continuar.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -64,6 +72,7 @@ import-done-description = Le elementos sequente ha essite importate con successo
 imported-bookmarks-source = De { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
