@@ -38,6 +38,7 @@ import-done-description = ନିମ୍ନଲିଖିତ ବସ୍ତୁଗୁ�
 imported-bookmarks-source = { $source } ରୁ
 source-name-ie = Internet Explorer
 source-name-safari = Safari
+imported-safari-reading-list = ତାଲିକା ପଢ଼ୁଅଛି (ସଫାରିରୁ)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
