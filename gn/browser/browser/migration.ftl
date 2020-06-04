@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = Mba’ejegueru pytyvõha
+import-from =
+    { PLATFORM() ->
+        [windows] Jeporavorã jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:
+       *[other] Jerohoryvéva jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:
+    }
 import-from-bookmarks = Techaukaha jegueru kóvagui:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -9,6 +16,15 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge Legacy
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
+import-from-nothing =
+    .label = Ani regueru mba’eve
+    .accesskey = D
 import-from-safari =
     .label = Safari
     .accesskey = S
@@ -33,12 +49,21 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+no-migration-sources = Ndojejuhúi tembiaporape oguerekóva techaukaha, tembiasakue térã mba’ekuaarã ñe’ẽñemi rehegua.
+import-source =
+    .label = Mba’epytyvõrã ha mba’ekuaarã jegueru
+import-items-title =
+    .label = Mba’epuru ojeguerútava
+import-items-description = Eiporavo mba’epuru reguerútava:
 import-migrating-title =
     .label = Jegueruhína…
+import-migrating-description = Ojegueruhína ko’ã mba’epuru…
 import-select-profile-title =
     .label = Rechaukaha jeporavo
+import-select-profile-description = Ikatu regueru mba’ekuaarã ko’ã rechaukahakuéragui:
 import-done-title =
     .label = Jeguerupaite
+import-done-description = Ko’ã mba’epuru ojeguerupa porã:
 import-close-source-browser = Ikatúpiko, ehechaporãke pe kundaha poravopyre oñembotýpara'e reku'e mboyve jey.
 # Displays which browser the bookmarks are being imported from
 #
@@ -47,6 +72,7 @@ import-close-source-browser = Ikatúpiko, ehechaporãke pe kundaha poravopyre o�
 imported-bookmarks-source = { $source } rehegua
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
@@ -164,6 +190,12 @@ browser-data-firefox-16 =
 browser-data-360se-16 =
     .label = Ñe'ẽñemi ñongatupyre
     .value = Ñe'ẽñemi ñongatupyre
+browser-data-ie-32 =
+    .label = Takate’ỹha
+    .value = Takate’ỹha
+browser-data-edge-32 =
+    .label = Takate’ỹha
+    .value = Takate’ỹha
 browser-data-safari-32 =
     .label = Techaukaha
     .value = Techaukaha
@@ -176,6 +208,27 @@ browser-data-canary-32 =
 browser-data-360se-32 =
     .label = Techaukaha
     .value = Techaukaha
+browser-data-ie-64 =
+    .label = Ambue mba’ekuaarã
+    .value = Ambue mba’ekuaarã
+browser-data-edge-64 =
+    .label = Ambue mba’ekuaarã
+    .value = Ambue mba’ekuaarã
+browser-data-safari-64 =
+    .label = Ambue mba’ekuaarã
+    .value = Ambue mba’ekuaarã
+browser-data-chrome-64 =
+    .label = Ambue mba’ekuaarã
+    .value = Ambue mba’ekuaarã
+browser-data-canary-64 =
+    .label = Ambue mba’ekuaarã
+    .value = Ambue mba’ekuaarã
+browser-data-firefox-other-64 =
+    .label = Ambue mba’ekuaarã
+    .value = Ambue mba’ekuaarã
+browser-data-360se-64 =
+    .label = Ambue mba’ekuaarã
+    .value = Ambue mba’ekuaarã
 browser-data-firefox-128 =
     .label = Ovetã ha tendayke
     .value = Ovetã ha tendayke
