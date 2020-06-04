@@ -17,6 +17,7 @@ source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
+imported-safari-reading-list = Lista de leitura (Do Safari)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -58,6 +59,9 @@ browser-data-chrome-4 =
 browser-data-canary-4 =
     .label = Histórico de navegação
     .value = Histórico de navegação
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = Histórico de navegação e marcadores
+    .value = Histórico de navegação e marcadores
 browser-data-safari-32 =
     .label = Marcadores
     .value = Marcadores
