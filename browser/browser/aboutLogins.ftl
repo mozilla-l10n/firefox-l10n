@@ -18,12 +18,9 @@ login-app-promo-android =
     .alt = Obtenlo en Google Play
 login-app-promo-apple =
     .alt = Descárgalo en la App Store
-
 login-filter =
     .placeholder = Buscar credenciales
-
 create-login-button = Crear nueva credencial
-
 fxaccounts-sign-in-text = Ten tus contraseñas en tus otros dispositivos
 fxaccounts-sign-in-button = Conectarse a { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -120,18 +117,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar tu credencial, 
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar la credencial guardada
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = revelar la contraseña guardada
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Para copiar tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contraseña guardada
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = exportar credenciales y contraseñas guardadas
 
 ## Master Password notification
 
@@ -163,15 +161,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-
 about-logins-confirm-remove-dialog-title = ¿Eliminar esta credencial?
 confirm-delete-dialog-message = Esta acción no puede revertirse.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
-
 about-logins-confirm-export-dialog-title = Exportar credenciales y contraseñas
 about-logins-confirm-export-dialog-message = Tus contraseñas serán guardadas como texto legible (por ejemplo, BadP@ssw0rd) por lo que cualquiera que pueda abrir el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
-
 confirm-discard-changes-dialog-title = ¿Descartar cambios sin guardar?
 confirm-discard-changes-dialog-message = Todos los cambios sin guardar se perderán.
 confirm-discard-changes-dialog-confirm-button = Descartar
@@ -202,10 +197,8 @@ about-logins-vulnerable-alert-learn-more-link = Aprender más
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ya existe una entrada para { $loginTitle } con ese nombre de usuario. <a data-l10n-name="duplicate-link">¿Ir a la entrada existente?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Ocurrió un error mientras se intentaba guardar esta contraseña.
-
 
 ## Login Export Dialog
 
