@@ -14,9 +14,14 @@
 <!ENTITY encryptionCert.message "Bruk dette sertifikatet til å kryptera og dekryptera meldingar sendt til deg:">
 
 <!ENTITY e2eTitle.label "Ende-til-ende-kryptering">
+<!ENTITY e2eIntro.description "For å sende krypterte eller digitalt signerte meldingar, må du konfigurere ein krypteringsteknologi, anten OpenPGP eller S/MIME.">
 <!ENTITY e2eLearnMore.label "Les meir">
 
+<!ENTITY e2eEnc.description "Utan ende-til-ende-kryptering kan innhaldet i meldingane lett eksponerast for e-postleverandøren din og for masseovervaking.">
+<!ENTITY e2eeReqWarning.description "Dersom du treng kryptering, må du ha den offentlege nøkkelen eller sertifikatet til kvar mottaker for å sende ei melding.">
 
+<!ENTITY e2eSigning.description "Ein digital signatur gjer at mottakarar kan stadfeste at meldinga vart sendt av deg, og at innhaldet ikkje er endra.">
+<!ENTITY e2eTechPref.description "Føretrekt krypteringsteknologi:">
 
 <!ENTITY doNotEncrypt.label "Ikkje slå på kryptering som standard">
 <!ENTITY doNotEncrypt.accesskey "k">
