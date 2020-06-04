@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg_resent = Poslednja powěsć na { $name } je so znowa pósłała.
 # A Heartbeat is a technical message used to keep a connection alive.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -20,3 +23,4 @@ context-gone_secure_private = Priwatna konwersacija z { $name } je so započała
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_unverified = Zaklučowana, ale njewobkrućena konwersacije z { $name } je so započała.
+resent = [znowa pósłany]
