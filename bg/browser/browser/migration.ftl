@@ -191,3 +191,6 @@ browser-data-firefox-other-64 =
 browser-data-360se-64 =
     .label = Други данни
     .value = Други данни
+browser-data-firefox-128 =
+    .label = Прозорци и раздели
+    .value = Прозорци и раздели
