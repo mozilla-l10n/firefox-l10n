@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Certifikačná autorita
 certificate-viewer-cipher-suite = Šifrovacia množina
 certificate-viewer-common-name = Bežný názov
 certificate-viewer-email-address = E-mailová adresa
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Certifikát pre { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Krajina
 certificate-viewer-country = Krajina
@@ -29,6 +32,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Skupina pre výmenu kľúčov
 certificate-viewer-key-id = ID kľúča
 certificate-viewer-key-size = Veľkosť kľúča
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Sídlo spoločnosti
 certificate-viewer-locality = Lokalita
 certificate-viewer-location = Umiestnenie
 certificate-viewer-logid = ID protokolu
@@ -76,7 +81,6 @@ certificate-viewer-authority-info-aia = Informácie o autorite
 certificate-viewer-certificate-policies = Pravidlá certifikátu
 certificate-viewer-embedded-scts = Vstavané SCTs
 certificate-viewer-crl-endpoints = CRL koncové body
-
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Prevziať
@@ -96,7 +100,6 @@ certificate-viewer-download-pem = PEM (certifikát)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (reťazec)
     .download = { $fileName }-chain.pem
-
 certificate-viewer-export = Exportovať
     .download = { $fileName }.pem
 
@@ -106,3 +109,4 @@ certificate-viewer-tab-mine = Vaše certifikáty
 certificate-viewer-tab-people = Ľudia
 certificate-viewer-tab-servers = Servery
 certificate-viewer-tab-ca = Autority
+certificate-viewer-tab-unkonwn = Neznáme
