@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Protectiones del vita private
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Visitar tu reporto de vita private
-
 appmenuitem-protection-dashboard-title = Pannello del protectiones
 appmenuitem-customize-mode =
     .label = Personalisar…
@@ -27,6 +26,7 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Novas
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
