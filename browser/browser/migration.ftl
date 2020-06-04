@@ -66,3 +66,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = Data Lain
     .value = Data Lain
+browser-data-firefox-128 =
+    .label = Tetingkap dan Tab
+    .value = Tetingkap dan Tab
