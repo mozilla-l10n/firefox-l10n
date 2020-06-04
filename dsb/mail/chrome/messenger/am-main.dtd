@@ -4,7 +4,6 @@
 
 <!-- extracted from am-main.xul -->
 
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Kontowe nastajenja">
@@ -16,6 +15,8 @@
 <!ENTITY name.accesskey "W">
 <!ENTITY email.label "E-mailowa adresa:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Wótegrońśo z toś teju identitu, gaž se librowańske głowy makaju:">
+<!ENTITY catchAll.accesskey "l">
 <!ENTITY replyTo.label "Wótegronowa adresa:">
 <!ENTITY replyTo.accesskey "g">
 <!ENTITY replyTo.placeholder "Dostawarje budu na toś tu drugu adresu wótegranjaś">
@@ -38,8 +39,8 @@
 
 <!ENTITY manageIdentities.label "Identity zastojiś…">
 <!ENTITY manageIdentities.accesskey "I">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Wuchadny serwer (SMTP):">
 <!ENTITY smtpName.accesskey "c">
 <!ENTITY smtpDefaultServer.label "Standardny serwer wužywaś">

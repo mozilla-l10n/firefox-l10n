@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Priwilegije…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Maśo slědujuce pšawa:">
+<!ENTITY folderOtherUsers.label                  "Drugi z pśistupom k toś tomu zarědnikoju:">
 <!ENTITY folderType.label                        "Typ zarědnika:">
 
 <!ENTITY folderQuotaTab.label                    "Kwoty">
