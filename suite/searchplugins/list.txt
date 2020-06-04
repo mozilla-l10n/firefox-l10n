@@ -1,6 +1,0 @@
-cnrtl-tlfi-fr
-duckduckgo
-google
-wikipedia-fr
-yahoo-france
-
