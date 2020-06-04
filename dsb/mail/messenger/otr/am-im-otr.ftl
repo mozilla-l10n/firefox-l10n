@@ -4,6 +4,7 @@
 
 account-encryption =
     .label = Koděrowanje wót kóńca do kóńca
+account-otr-label = Off-the-Record Messaging (OTR)
 otr-fingerprint-label = Waš palcowy wótśišć:
 view-fingerprint-button =
     .label = Palcowe wótśišće kontaktow zastojaś
