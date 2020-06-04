@@ -2,6 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = Matwetwe wa go Tlisateng
+import-from =
+    { PLATFORM() ->
+        [windows] Tlisateng Boitlhopelo, Matshwaotsebe, Hisetori, Dikhunololomoraba Dikhunololamoraba le tshedimosetso e nngwe go tswa:
+       *[other] Tlisateng Diratwabogolo, Matshwaotsebe, Hisetori, Dikhunololamoraba le tshedimosetso e nngwe go tswa:
+    }
+import-from-bookmarks = Tlisateng Matshwaotsebe go tswa:
+import-from-ie =
+    .label = Microsoft Internet Explorer
+    .accesskey = M
+import-items-title =
+    .label = Dilwana tse di tlisiwang teng
+import-items-description = Tlhopha gore ke dilwana dife tse di tla tlisiwang teng:
+import-migrating-title =
+    .label = E tlisa teng…
+import-migrating-description = Dilwana tse di latelang di tlisiwa teng ga jaana…
+import-select-profile-title =
+    .label = Tlhopha Porofaele
+import-select-profile-description = Diporofaele tse di latelang di gona go ka tlisiwa teng go tswa:
+import-done-title =
+    .label = Tlisoteng e Feditswe
+import-done-description = Dilwana tse di latelang di tlisitswe teng ka katlego:
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -9,6 +32,7 @@
 imported-bookmarks-source = Go tswa { $source }
 source-name-ie = Internet Explorer
 source-name-safari = Safari
+source-name-firefox = Mozilla Firefox
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
