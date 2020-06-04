@@ -127,6 +127,9 @@ about-logins-copy-password-os-auth-dialog-message-win = Skriv inn innloggingsinf
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopier det lagra passordet
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = eksporter lagra innloggingar og passord
 
 ## Master Password notification
 
