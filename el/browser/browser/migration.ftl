@@ -10,6 +10,15 @@ import-from =
        *[other] Εισαγωγή προτιμήσεων,σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:
     }
 import-from-bookmarks = Εισαγωγή σελιδοδεικτών από:
+import-from-chrome-beta =
+    .label = Chrome Beta
+    .accesskey = B
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
+import-from-360se =
+    .label = 360 Secure Browser
+    .accesskey = 3
 no-migration-sources = Δεν βρέθηκαν προγράμματα τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.
 import-source =
     .label = Εισαγωγή ρυθμίσεων και δεδομένων
@@ -25,6 +34,7 @@ import-select-profile-description = Τα ακόλουθα προφίλ είνα�
 import-done-title =
     .label = Η εισαγωγή ολοκληρώθηκε
 import-done-description = Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:
+import-close-source-browser = Παρακαλώ βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό προτού συνεχίσετε.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -35,9 +45,13 @@ source-name-edge = Microsoft Edge
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+imported-safari-reading-list = Λίστα ανάγνωσης (Από Safari)
+imported-edge-reading-list = Λίστα ανάγνωσης (Από Edge)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -124,6 +138,27 @@ browser-data-firefox-8 =
 browser-data-360se-8 =
     .label = Ιστορικό αποθηκευμένων φορμών
     .value = Ιστορικό αποθηκευμένων φορμών
+browser-data-ie-16 =
+    .label = Αποθηκευμένοι κωδικοί πρόσβασης
+    .value = Αποθηκευμένοι κωδικοί πρόσβασης
+browser-data-edge-16 =
+    .label = Αποθηκευμένοι κωδικοί πρόσβασης
+    .value = Αποθηκευμένοι κωδικοί πρόσβασης
+browser-data-safari-16 =
+    .label = Αποθηκευμένοι κωδικοί πρόσβασης
+    .value = Αποθηκευμένοι κωδικοί πρόσβασης
+browser-data-chrome-16 =
+    .label = Αποθηκευμένοι κωδικοί πρόσβασης
+    .value = Αποθηκευμένοι κωδικοί πρόσβασης
+browser-data-canary-16 =
+    .label = Αποθηκευμένοι κωδικοί πρόσβασης
+    .value = Αποθηκευμένοι κωδικοί πρόσβασης
+browser-data-firefox-16 =
+    .label = Αποθηκευμένοι κωδικοί πρόσβασης
+    .value = Αποθηκευμένοι κωδικοί πρόσβασης
+browser-data-360se-16 =
+    .label = Αποθηκευμένοι κωδικοί πρόσβασης
+    .value = Αποθηκευμένοι κωδικοί πρόσβασης
 browser-data-ie-32 =
     .label = Αγαπημένα
     .value = Αγαπημένα
