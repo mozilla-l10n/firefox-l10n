@@ -5,5 +5,14 @@
 otr-finger =
     .buttonlabelaccept = Lat att
     .title = Tidlegare sett OTR-fingeravtrykk
+finger-intro = OTR-nøkkelfingeravtrykk frå tidlegare ende-til-ende-krypterte samtalar.
 finger-screenName =
     .label = Kontakt
+finger-verified =
+    .label = Stadfestingsstatus
+finger-fingerprint =
+    .label = Fingeravtrykk
+finger-remove =
+    .label = Fjern valde
+finger-remove-all =
+    .label = Fjern alle

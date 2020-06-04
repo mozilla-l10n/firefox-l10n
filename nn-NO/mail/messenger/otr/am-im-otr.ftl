@@ -4,6 +4,7 @@
 
 account-encryption =
     .label = Ende-til-ende-kryptering
+otr-encryption-title = Stadfesta kryptering
 otr-fingerprint-label = Ditt fingeravtrykk:
 otr-settings-title = OTR-innstillingar
 otr-log =
