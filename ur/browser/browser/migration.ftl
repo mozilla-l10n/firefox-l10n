@@ -4,6 +4,12 @@
 
 migration-wizard =
     .title = درآمد مددگار
+import-from =
+    { PLATFORM() ->
+        [windows] اختیارات، بک مارک، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں:
+       *[other] ترجیحات، بک مارک، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں:
+    }
+import-from-bookmarks = بک مارک یہاں سے درآمد کریں:
 import-from-ie =
     .label = Microsoft انٹرنیٹ ایکسپلورر
     .accesskey = ا
@@ -40,6 +46,7 @@ import-from-firefox =
 import-from-360se =
     .label = 360 قابل بھروسا براؤزر
     .accesskey = 3
+no-migration-sources = کوئی بھی بک مارکوں، سابقات یا پاس ورڈ کوائف کا حامل پروگرام نہیں ملا۔
 import-items-title =
     .label = درآمد کرنے کی اشیا
 import-items-description = درآمد کرنے کے لیے اشیا منتخب کریں:
@@ -101,6 +108,9 @@ browser-data-chrome-4 =
 browser-data-canary-4 =
     .label = براؤزنگ سابقات
     .value = براؤزنگ سابقات
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = براؤزنگ سابقات اور بک مارک
+    .value = براؤزنگ سابقات اور بک مارک
 browser-data-ie-8 =
     .label = محفوظ شدہ فارم سابقات
     .value = محفوظ شدہ فارم سابقات
@@ -143,6 +153,18 @@ browser-data-ie-32 =
 browser-data-edge-32 =
     .label = پسندیدگان
     .value = پسندیدگان
+browser-data-safari-32 =
+    .label = بک مارک
+    .value = بک مارک
+browser-data-chrome-32 =
+    .label = بک مارک
+    .value = بک مارک
+browser-data-canary-32 =
+    .label = بک مارک
+    .value = بک مارک
+browser-data-360se-32 =
+    .label = بک مارک
+    .value = بک مارک
 browser-data-ie-64 =
     .label = دیگر کوائف
     .value = دیگر کوائف
