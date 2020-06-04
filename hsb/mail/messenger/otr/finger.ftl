@@ -4,7 +4,7 @@
 
 otr-finger =
     .buttonlabelaccept = Začinić
-    .title = Do toho widźane porstowe wotśišće OTR
+    .title = Do toho widźane porstowe wotćišće OTR
 finger-screenName =
     .label = Kontakt
 finger-verified =
