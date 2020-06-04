@@ -42,8 +42,21 @@ privacy-main-header = Privacy
 privacy-passwords-header = Wachtwoorden
 privacy-junk-header = Ongewenste berichten
 privacy-data-collection-header = Gegevensverzameling en -gebruik
+collection-header = { -brand-short-name }-gegevensverzameling en -gebruik
+collection-description = We streven ernaar u keuzes te bieden en alleen te verzamelen wat we nodig hebben om { -brand-short-name } voor iedereen beschikbaar te maken en te verbeteren. We vragen altijd toestemming voordat we persoonlijke gegevens ontvangen.
+collection-privacy-notice = Privacyverklaring
+collection-health-report-telemetry-disabled = U staat { -vendor-short-name } niet langer toe technische en interactiegegevens vast te leggen. Alle eerdere gegevens worden binnen 30 dagen verwijderd.
 collection-health-report-telemetry-disabled-link = Meer info
+collection-health-report =
+    .label = { -brand-short-name } toestaan om technische en interactiegegevens naar { -vendor-short-name } te verzenden
+    .accesskey = r
 collection-health-report-link = Meer info
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Gegevensrapportage is uitgeschakeld voor deze buildconfiguratie
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name } toestaan om namens u achterstallige crashrapporten te verzenden
+    .accesskey = c
 collection-backlogged-crash-reports-link = Meer info
 privacy-security-header = Beveiliging
 privacy-scam-detection-title = Scamdetectie
@@ -149,6 +162,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Een systeemvakpictogram tonen
     .accesskey = t
+mail-system-sound-label =
+    .label = Standaard systeemgeluid voor nieuwe e-mail
+    .accesskey = S
 mail-custom-sound-label =
     .label = Het volgende geluidsbestand gebruiken
     .accesskey = v
@@ -659,6 +675,28 @@ chat-variant-label =
 chat-header-label =
     .label = Kop tonen
     .accesskey = K
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] In Opties zoeken
+           *[other] In Voorkeuren zoeken
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Zoekresultaten
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Sorry! Er zijn geen resultaten in Opties voor ‘<span data-l10n-name="query"></span>’.
+       *[other] Sorry! Er zijn geen resultaten in Voorkeuren voor ‘<span data-l10n-name="query"></span>’.
+    }
