@@ -8,17 +8,31 @@ import-from-ie =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-chrome =
+    .label = Chrome
+    .accesskey = C
+import-from-firefox =
+    .label = Firefox
+    .accesskey = x
 import-items-title =
     .label = Jami me akela ki woko
 import-items-description = Yer jami me akela ki woko:
 import-migrating-title =
     .label = Kelo ki woko…
+source-name-ie = Internet Explorer
 source-name-safari = Safari
+source-name-firefox = Mozilla Firefox
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
 browser-data-safari-32 =
+    .label = Alama buk
+    .value = Alama buk
+browser-data-chrome-32 =
+    .label = Alama buk
+    .value = Alama buk
+browser-data-canary-32 =
     .label = Alama buk
     .value = Alama buk
