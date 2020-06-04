@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = رازداری سے تحفظ
 appmenuitem-protection-report-tooltip =
     .tooltiptext = اپنی رازداری رپورٹ پر جائیں
-
 appmenuitem-customize-mode =
     .label = تخصیص کریں…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = نیا کیا ہے
