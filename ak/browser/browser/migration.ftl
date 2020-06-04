@@ -145,3 +145,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = Data foforo
     .value = Data foforo
+browser-data-firefox-128 =
+    .label = Ntokuro ne Ntab
+    .value = Ntokuro ne Ntab
