@@ -67,6 +67,7 @@ source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Ceecikaw saajante
 imported-safari-reading-list = Cawhaya maašeede (Safari ra)
+imported-edge-reading-list = Cawhaya maašeede (From Edge)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
