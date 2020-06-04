@@ -4,6 +4,15 @@
 
 migration-wizard =
     .title = 导入向导
+import-from =
+    { PLATFORM() ->
+        [windows] 从下列来源导入选项、书签、历史记录、密码以及其他数据：
+       *[other] 从下列来源导入首选项、书签、历史记录、密码以及其他数据：
+    }
+import-from-bookmarks = 从下列来源导入书签：
+import-from-ie =
+    .label = 微软 IE 浏览器
+    .accesskey = M
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
@@ -25,26 +34,38 @@ import-from-chromium =
 import-from-firefox =
     .label = Firefox
     .accesskey = x
+import-from-360se =
+    .label = 360 安全浏览器
+    .accesskey = 3
+no-migration-sources = 找不到存有书签、历史记录或密码数据的浏览器。
 import-source =
     .label = 导入设置及数据
+import-items-title =
+    .label = 要导入的项目
 import-items-description = 请选择要导入的项目：
 import-migrating-title =
     .label = 正在导入…
+import-migrating-description = 正在导入下列项目…
 import-select-profile-title =
     .label = 选择配置文件
+import-select-profile-description = 下列配置文件可以导入：
 import-done-title =
     .label = 导入完成
+import-done-description = 成功导入下列各项：
+import-close-source-browser = 请先关闭选定的浏览器，再继续操作。
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = 来自 { $source }
+source-name-ie = 微软 IE 浏览器
 source-name-edge = Microsoft Edge
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
+source-name-360se = 360 安全浏览器
 imported-safari-reading-list = 阅读列表（来自 Safari）
 imported-edge-reading-list = 阅读列表（来自 Edge）
 
@@ -100,12 +121,39 @@ browser-data-edge-4 =
 browser-data-safari-4 =
     .label = 浏览历史
     .value = 浏览历史
+browser-data-chrome-4 =
+    .label = 浏览历史
+    .value = 浏览历史
+browser-data-canary-4 =
+    .label = 浏览历史
+    .value = 浏览历史
 browser-data-firefox-history-and-bookmarks-4 =
     .label = 浏览历史和书签
     .value = 浏览历史和书签
 browser-data-360se-4 =
     .label = 浏览历史
     .value = 浏览历史
+browser-data-ie-8 =
+    .label = 已保存的表单记录
+    .value = 已保存的表单记录
+browser-data-edge-8 =
+    .label = 已保存的表单记录
+    .value = 已保存的表单记录
+browser-data-safari-8 =
+    .label = 已保存的表单记录
+    .value = 已保存的表单记录
+browser-data-chrome-8 =
+    .label = 已保存的表单记录
+    .value = 已保存的表单记录
+browser-data-canary-8 =
+    .label = 已保存的表单记录
+    .value = 已保存的表单记录
+browser-data-firefox-8 =
+    .label = 已保存的表单记录
+    .value = 已保存的表单记录
+browser-data-360se-8 =
+    .label = 已保存的表单记录
+    .value = 已保存的表单记录
 browser-data-ie-16 =
     .label = 已保存的密码
     .value = 已保存的密码
