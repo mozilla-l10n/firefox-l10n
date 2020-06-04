@@ -56,6 +56,9 @@ cert-error-details-hsts-label = HTTP Jikïl ruchajixik ruk'waxik: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Xjikib'äx ri ewan tzij kichin winäq: { $hasHPKP }
 cert-error-details-cert-chain-label = Rucholajil wujil:
 open-in-new-window-for-csp-or-xfo-error = Tijaq Ruxaq pa jun K'ak'a' Tzuwäch
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Richin nichajïx ri ajikomal, man xtuya' ta q'ij ri { $hostname } chi re ri { -brand-short-name } richin nuk'üt pe ri ruxaq we jun chik ruxaq k'amaya'l ruch'ikib'an. Richin nitz'et re ruxaq re', k'o chi nijaq pa jun k'ak'a' tzuwäch.
 
 ## Messages used for certificate error titles
 
