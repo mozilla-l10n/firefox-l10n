@@ -7,6 +7,7 @@ account-encryption =
 account-otr-label = Off-the-Record-berichten (OTR)
 account-otr-description = { -brand-short-name } ondersteunt end-to-end-versleuteling van een-op-een-gesprekken. Hierdoor kunnen derden een gesprek niet afluisteren. End-to-end-versleuteling kan alleen worden gebruikt als de ander ook software gebruikt die OTR ondersteunt.
 otr-encryption-title = Geverifieerde versleuteling
+otr-encryption-caption = Om anderen in staat te stellen uw identiteit in OTR-chats te verifiëren, deelt u uw eigen OTR-vingerafdruk in een extern (out-of-band-)communicatiekanaal.
 otr-fingerprint-label = Uw vingerafdruk:
 view-fingerprint-button =
     .label = Vingerafdrukken van contacten beheren
