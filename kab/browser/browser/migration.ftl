@@ -60,6 +60,12 @@ imported-edge-reading-list = Tabdart n tɣuṛi (seg Safari)
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-ie-1 =
+    .label = Iɣewwaṛen Intenet
+    .value = Iɣewwaṛen Intenet
+browser-data-edge-1 =
+    .label = Iɣewwaṛen
+    .value = Iɣewwaṛen
 browser-data-safari-1 =
     .label = Ismenyifen
     .value = Ismenyifen
