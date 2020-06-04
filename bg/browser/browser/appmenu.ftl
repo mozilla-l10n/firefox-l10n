@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Защита на лични данни
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Прегледайте доклада за личните данни
-
 appmenuitem-customize-mode =
     .label = Персонализиране…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Какво е новото
