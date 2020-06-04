@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Ôchrōna prywatności
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ôdewrzij raport prywatności
-
 appmenuitem-customize-mode =
     .label = Przipasuj…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Co je nowego
