@@ -11,6 +11,7 @@ import-select-profile-title =
     .label = Pilien ti Profile
 import-done-title =
     .label = Nalpas ti Panagyangkat
+import-close-source-browser = Pamnekanyo ket nakarikep ti pinili a panglayag sakbaykayo agtuloy.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
