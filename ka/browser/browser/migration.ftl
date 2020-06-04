@@ -16,6 +16,12 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge (მოძველებული)
+    .accesskey = მ
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = გადმოტანის გარეშე
     .accesskey = გ
@@ -58,6 +64,7 @@ import-select-profile-description = შემდეგი პროფილე�
 import-done-title =
     .label = გადმოტანა დასრულდა
 import-done-description = გადმოტანილია შემდეგი მონაცემები:
+import-close-source-browser = სანამ განაგრძობთ დარწმუნდით, რომ არჩეული ბრაუზერი დახურულია.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -65,6 +72,7 @@ import-done-description = გადმოტანილია შემდე�
 imported-bookmarks-source = { $source }-დან
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
