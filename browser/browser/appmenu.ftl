@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Proteccion de la vida privada
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Veire lo rapòrt de vòstra vida privada
-
 appmenuitem-protection-dashboard-title = Taula de bòrd de las proteccions
 appmenuitem-customize-mode =
     .label = Personalizar…
@@ -27,3 +26,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Qué de nòu
