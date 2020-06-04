@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label "Libreta de direcciones">
+<!ENTITY Addrbook.accesskey "B">
 <!ENTITY GeneratedName.label "Nombre">
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Correo electrónico">
@@ -30,6 +32,8 @@
 <!ENTITY WorkPhone.accesskey "t">
 <!ENTITY ScreenName.label "Nombre en pantalla">
 <!ENTITY ScreenName.accesskey "p">
+<!ENTITY ChatName.label "Nombre del chat">
+<!ENTITY ChatName.accesskey "C">
 <!ENTITY sortAscending.label "Ascendente">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Descendente">
