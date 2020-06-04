@@ -133,3 +133,6 @@ browser-data-canary-64 =
 browser-data-firefox-other-64 =
     .label = Data Arall
     .value = Data Arall
+browser-data-firefox-128 =
+    .label = Ffenestri a Thabiau
+    .value = Ffenestri a Thabiau
