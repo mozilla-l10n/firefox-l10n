@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Պաշտպանութեան զեկոյց
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Անցնել գաղտնիութեան զեկոյցին
-
 appmenuitem-customize-mode =
     .label = Հարմարեցնել…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Ինչն է նոր
