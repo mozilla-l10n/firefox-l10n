@@ -61,6 +61,7 @@ source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Glista da lectura (da Safari)
+imported-edge-reading-list = Glista da lectura (dad Edge)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
