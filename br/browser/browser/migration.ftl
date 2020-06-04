@@ -66,6 +66,7 @@ import-close-source-browser = Gwiriekait eo serret ar merdeer diuzet a-raok kend
 imported-bookmarks-source = Diouzh { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
