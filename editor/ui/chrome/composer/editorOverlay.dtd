@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Písmo">
 <!ENTITY FontFaceSelect.tooltip "Vyberte písmo zo zoznamu">
 <!ENTITY fontfaceMenu.label "Písmo">
 <!ENTITY fontfaceMenu.accesskey "P">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Veľkosť písma">
 <!ENTITY FontSizeSelect.tooltip "Vyberte veľkosť písma">
 <!ENTITY decreaseFontSize.label "Zmenšiť">
 <!ENTITY decreaseFontSize.accesskey "e">
@@ -143,9 +145,9 @@
 <!ENTITY formatRemoveNamedAnchors.accesskey "d">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
-<!ENTITY paragraphMenu.label "Odstavec">
+<!ENTITY paragraphMenu.label "Odsek">
 <!ENTITY paragraphMenu.accesskey "O">
-<!ENTITY paragraphParagraphCmd.label "Odstavec">
+<!ENTITY paragraphParagraphCmd.label "Odsek">
 <!ENTITY paragraphParagraphCmd.accesskey "O">
 <!ENTITY heading1Cmd.label "Nadpis 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Vlastnosti zoznamu…">
 <!ENTITY listPropsCmd.accesskey "V">
 
+<!ENTITY ParagraphSelect.title "Odsek">
 <!ENTITY ParagraphSelect.tooltip "Vyberte formát odstavca">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Text tela">
@@ -206,7 +209,9 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Vrstva">
+<!ENTITY decreaseZIndex.label "Preniesť dozadu">
 <!ENTITY layerSendToBack.tooltip "Preniesť dozadu">
+<!ENTITY increaseZIndex.label "Preniesť dopredu">
 <!ENTITY layerBringToFront.tooltip "Preniesť dopredu">
 
 <!ENTITY increaseIndent.label "Zväčšiť zarážku">
@@ -304,28 +309,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Upraviť vybraný odkaz alebo vložiť nový">
 <!ENTITY anchorToolbarCmd.label "Kotva">
 <!ENTITY anchorToolbarCmd.tooltip "Upraviť vybranú kotvu alebo vložiť novú">
+<!ENTITY colorButtons.title "Farby">
 <!ENTITY TextColorButton.tooltip "Vyberte farbu pre text">
 <!ENTITY BackgroundColorButton.tooltip "Vyberte farbu pozadia">
 <!ENTITY throbber.tooltip "Prejsť na domovskú stránku &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Prejsť na domovskú stránku aplikácie &brandShortName;">
+<!ENTITY HighlightColorButton.label "Zvýrazňovač">
 <!ENTITY HighlightColorButton.tooltip "Vyberte farbu pre označený text">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Veľkosť písma">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nastaviť veľkosť písma">
+<!ENTITY smaller.label "Zmenšiť písmo">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Zmenšiť písmo">
+<!ENTITY larger.label "Zväčšiť písmo">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Zväčšiť písmo">
+<!ENTITY bold.label "Tučné">
 <!ENTITY boldToolbarCmd.tooltip "Nastaviť označený alebo nový text ako tučný">
+<!ENTITY italic.label "Kurzíva">
 <!ENTITY italicToolbarCmd.tooltip "Nastaviť označený alebo nový text ako kurzívu">
+<!ENTITY underline.label "Podčiarknuté">
 <!ENTITY underlineToolbarCmd.tooltip "Nastaviť označený alebo nový text ako podčiarknutý">
+<!ENTITY bullets.label "Odrážky">
 <!ENTITY bulletListToolbarCmd.tooltip "Použiť formát odrážkového zoznamu">
+<!ENTITY numbers.label "Číslovanie">
 <!ENTITY numberListToolbarCmd.tooltip "Použiť formát číslovaného zoznamu">
+<!ENTITY outdent.label "Zväčšiť zarážku">
 <!ENTITY outdentToolbarCmd.tooltip "Odsadiť text doľava">
+<!ENTITY indent.label "Zmenšiť zarážku">
 <!ENTITY indentToolbarCmd.tooltip "Odsadiť text doprava">
+<!ENTITY AlignPopupButton.label "Zarovnanie">
 <!ENTITY AlignPopupButton.tooltip "Nastaviť zarovnanie textu">
+<!ENTITY InsertPopupButton.label "Vložiť">
 <!ENTITY InsertPopupButton.tooltip "Vložií odkaz, kotvu, obrázok, vodorovnú čiaru alebo tabuľku">
+<!ENTITY alignLeftButton.label "Zarovnať doľava">
 <!ENTITY alignLeftButton.tooltip "Zarovnať text podľa ľavého okraja">
+<!ENTITY alignCenterButton.label "Zarovnať na stred">
 <!ENTITY alignCenterButton.tooltip "Zarovnať text na stred">
+<!ENTITY alignRightButton.label "Zarovnať doprava">
 <!ENTITY alignRightButton.tooltip "Zarovnať text podľa pravého okraja">
+<!ENTITY alignJustifyButton.label "Zarovnať obojstranne">
 <!ENTITY alignJustifyButton.tooltip "Zarovnať text podľa pravého a ľavého okraja">
 
 <!-- Structure Toolbar Context Menu items -->
