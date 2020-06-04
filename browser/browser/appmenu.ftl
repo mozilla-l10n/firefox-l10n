@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Ochrana súkromia
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Prejsť na prehľad ochrany súkromia
-
 appmenuitem-customize-mode =
     .label = Prispôsobiť…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Čo je nové
