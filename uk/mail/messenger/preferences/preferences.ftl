@@ -351,15 +351,15 @@ auto-mark-as-read =
     .label = Автоматично позначати листи як прочитані
     .accesskey = А
 mark-read-no-delay =
-    .label = Зразу після відображення
-    .accesskey = З
+    .label = Негайно при перегляді
+    .accesskey = г
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
 mark-read-delay =
-    .label = Як мине
-    .accesskey = Я
+    .label = При перегляді протягом
+    .accesskey = я
 seconds-label = секунд
 
 ##
