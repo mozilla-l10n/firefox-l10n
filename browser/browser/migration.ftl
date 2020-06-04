@@ -4,6 +4,11 @@
 
 migration-wizard =
     .title = Assistente de importação
+import-from =
+    { PLATFORM() ->
+        [windows] Importar opções, marcadores, histórico, palavras-passe e outros dados de:
+       *[other] Importar preferências, marcadores, histórico, palavras-passe e outros dados de:
+    }
 import-from-bookmarks = Importar marcadores de:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -23,6 +28,12 @@ import-from-canary =
 import-from-chrome =
     .label = Chrome
     .accesskey = C
+import-from-chrome-beta =
+    .label = Chrome Beta
+    .accesskey = B
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
 import-from-chromium =
     .label = Chromium
     .accesskey = u
@@ -47,6 +58,7 @@ import-select-profile-description = Os seguintes perfis estão disponíveis para
 import-done-title =
     .label = Importação concluída
 import-done-description = Os seguintes itens foram importados com sucesso:
+import-close-source-browser = Por favor certifique-se de que o navegador selecionado está fechado antes de continuar.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -57,6 +69,8 @@ source-name-edge = Microsoft Edge
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
