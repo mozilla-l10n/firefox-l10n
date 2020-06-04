@@ -39,5 +39,5 @@ permission-can-label = Дозволити
 permission-can-access-first-party-label = Дозволити лише основні
 permission-can-session-label = Дозволити на сеанс
 permission-cannot-label = Блокувати
-invalid-uri-message = Будь ласка, вкажіть дійсне ім’я хоста
-invalid-uri-title = Введено недійсне ім’я хоста
+invalid-uri-message = Введіть правильне мережеве ім’я сервера
+invalid-uri-title = Введено неправильне мережеве ім’я сервера
