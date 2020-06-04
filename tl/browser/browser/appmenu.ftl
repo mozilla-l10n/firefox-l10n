@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Mga Privacy Protection
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Pumunta sa iyong privacy report
-
 appmenuitem-customize-mode =
     .label = I-customize...
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Ano ang Bago
