@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Gwokke me Mung
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Cit i ripot me mung mamegi
-
 appmenuitem-customize-mode =
     .label = Yiki…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Ngo Manyen
