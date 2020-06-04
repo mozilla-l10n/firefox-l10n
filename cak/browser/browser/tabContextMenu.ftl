@@ -59,6 +59,14 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Ketz'apïx K'ïy Taq Ruwi'
     .accesskey = y
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Titzolïx Nitz'apïx Ruwi'
+            [one] Titzolïx Nitz'apïx Ruwi'
+           *[other] Titzolïx Yetz'apïx Kiwi'
+        }
+    .accesskey = z
 close-tab =
     .label = Titz'apïx ruwi’
     .accesskey = T
