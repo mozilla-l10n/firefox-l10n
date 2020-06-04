@@ -24,11 +24,15 @@ source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
+imported-safari-reading-list = Senarai Membaca (Dari Safari)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-ie-1 =
+    .label = Pilihan Internet
+    .value = Pilihan Internet
 browser-data-safari-1 =
     .label = Keutamaan
     .value = Keutamaan
