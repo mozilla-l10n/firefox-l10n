@@ -46,7 +46,7 @@ protection-report-settings-link = Håndter dine indstillinger for sikkerhed og p
 
 etp-card-title-always = Udvidet beskyttelse mod sporing: Altid slået til
 etp-card-title-custom-not-blocking = Udvidet beskyttelse mod sporing: SLÅET FRA
-etp-card-content-description = { -brand-short-name } forhindrer automatisk virksomheder i at følge efter dig i smug på nettet.
+etp-card-content-description = { -brand-short-name } forhindrer automatisk virksomheder i at følge dig i smug på nettet.
 
 protection-report-etp-card-content-custom-not-blocking = Beskyttelse er slået fra. Du kan vælge, hvilke sporings-teknologier der skal blokeres, i indstillingerne for beskyttelse i { -brand-short-name }.
 protection-report-manage-protections = Håndter indstillinger
@@ -189,7 +189,7 @@ password-warning =
 info-exposed-passwords-resolved =
   { $count ->
      [one] adgangskode kompromitteret i uløste datalæk
-    *[other] adgangskoder kompromitteret i ulste datalæk
+    *[other] adgangskoder kompromitteret i uløste datalæk
   }
 
 monitor-no-breaches-title = Gode nyheder!

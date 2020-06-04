@@ -65,7 +65,7 @@ tab-context-undo-close-tabs =
             [1] Fortryk lukning af faneblad
            *[other] Fortryd lukning af faneblade
         }
-    .accesskey = y
+    .accesskey = r
 close-tab =
     .label = Luk faneblad
     .accesskey = u
