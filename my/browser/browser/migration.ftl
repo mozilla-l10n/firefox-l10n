@@ -2,7 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+import-from =
+    { PLATFORM() ->
+        [windows] ရွေးစရာများ၊ မှတ်သားချက်များ၊ မှတ်တမ်း၊ စကားဝှက်များနဲ့ အ​ခြား အချက်အလက်ကြမ်း တင်သွင်းမဲ့ နေရာ၊
+       *[other] Import Preferences, Bookmarks, History, Passwords and other data from:
+    }
 import-from-bookmarks = မှတ်သားချက်များ တင်သွင်းမဲ့ နေရာ၊
+import-from-ie =
+    .label = Microsoft Internet Explorer
+    .accesskey = M
+import-from-chrome =
+    .label = Chrome
+    .accesskey = C
+no-migration-sources = မှတ်သားချက်များ၊ မှတ်တမ်း သို့ စကားဝှက် အချက်အလက်ကြမ်း ပါ၀င်တဲ့ ဘယ် ပရိုဂရမ်များမှ မတွေ့ရဘူး။
 import-source =
     .label = အပြင်အဆင်များနဲ့ အချက်အလက်ကြမ်း တင်သွင်းပါ
 import-items-title =
@@ -58,3 +70,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = အခြား အချက်အလက်ကြမ်း
     .value = အခြား အချက်အလက်ကြမ်း
+browser-data-firefox-other-64 =
+    .label = အခြား အချက်အလက်များ
+    .value = အခြား အချက်အလက်များ
