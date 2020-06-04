@@ -9,6 +9,7 @@ changed-desc-profiles = Denne installasjonen av { -brand-short-name } har ein ny
 changed-desc-dedicated = For å gjere det enklare og sikrare å byte mellom installasjonar av { -brand-product-name } (inkludert { -brand-product-name }, { -brand-product-name } Beta, og { -brand-product-name } Daily), har denne installasjonen no ein dedikert profil. Han deler ikkje automatisk den lagra informasjonen din med andre { -brand-product-name }-installasjonar.
 lost = <b>Du har ikkje mista personlege data eller tilpassingar. </b> Dersom du allereie har lagra informasjon i { -brand-product-name } på denne datamaskina, er han enno tilgjengeleg i ein annan { -brand-product-name }-installasjon.
 options-title = Kva er vala mine?
+options-do-nothing = Om du ikkje gjer noko, vil profildataa dine i { -brand-short-name } vere ulike frå profildata i andre installasjonar av { -brand-product-name }.
 resources = Resursar
 about-pofiles-link = Sjå og handter brukarprofilane dine
 support-link = Bruke profilhandtering - supportartikkel
