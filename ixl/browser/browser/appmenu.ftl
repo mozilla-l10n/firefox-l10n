@@ -23,3 +23,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Kam ak' at ve'te'
