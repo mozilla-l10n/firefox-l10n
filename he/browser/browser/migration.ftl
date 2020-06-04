@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = אשף הייבוא
 import-from =
     { PLATFORM() ->
         [windows] ייבוא אפשרויות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:
@@ -14,6 +16,9 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = לא לייבא דבר
     .accesskey = א
@@ -38,9 +43,14 @@ import-from-chromium =
 import-from-firefox =
     .label = Firefox
     .accesskey = x
+import-from-360se =
+    .label = ‎360 Secure Browser
+    .accesskey = 3
 no-migration-sources = לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע ססמאות.
 import-source =
     .label = ייבוא הגדרות ונתונים
+import-items-title =
+    .label = פריטים לייבוא
 import-items-description = נא לבחור אילו פריטים לייבא:
 import-migrating-title =
     .label = מתבצע ייבוא…
@@ -48,6 +58,8 @@ import-migrating-description = הפריטים הבאים מיובאים כעת..
 import-select-profile-title =
     .label = בחירת פרופיל
 import-select-profile-description = ניתן לייבא מהפרופילים הבאים:
+import-done-title =
+    .label = הייבוא הושלם
 import-done-description = הפריטים הבאים יובאו בהצלחה:
 import-close-source-browser = נא לוודא שהדפדפן הנבחר סגור לפני המשך הפעילות.
 # Displays which browser the bookmarks are being imported from
@@ -57,6 +69,7 @@ import-close-source-browser = נא לוודא שהדפדפן הנבחר סגור
 imported-bookmarks-source = מ־{ $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
