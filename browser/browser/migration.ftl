@@ -8,6 +8,9 @@ import-from-ie =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-chrome =
+    .label = Chrome
+    .accesskey = C
 import-migrating-title =
     .label = Inpòrto…
 import-select-profile-description = Sti profî se peuan inportâ da:
@@ -18,14 +21,34 @@ import-select-profile-description = Sti profî se peuan inportâ da:
 imported-bookmarks-source = Da { $source }
 source-name-ie = Internet Explorer
 source-name-safari = Safari
+source-name-chrome = Google Chrome
+source-name-firefox = Mozilla Firefox
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-safari-1 =
+    .label = Preferense
+    .value = Preferense
+browser-data-chrome-1 =
+    .label = Preferense
+    .value = Preferense
+browser-data-canary-1 =
+    .label = Preferense
+    .value = Preferense
 browser-data-ie-2 =
     .label = Cookie
     .value = Cookie
 browser-data-safari-2 =
+    .label = Cookie
+    .value = Cookie
+browser-data-chrome-2 =
+    .label = Cookie
+    .value = Cookie
+browser-data-canary-2 =
+    .label = Cookie
+    .value = Cookie
+browser-data-firefox-2 =
     .label = Cookie
     .value = Cookie
