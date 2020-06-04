@@ -14,6 +14,7 @@ source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
+imported-safari-reading-list = รายการอ่าน (จาก Safari)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -73,3 +74,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = ข้อมูลอื่น ๆ
     .value = ข้อมูลอื่น ๆ
+browser-data-firefox-128 =
+    .label = หน้าต่างและแท็บ
+    .value = หน้าต่างและแท็บ
