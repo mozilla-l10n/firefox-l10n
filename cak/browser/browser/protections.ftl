@@ -193,6 +193,12 @@ monitor-breaches-resolved-description = We ri ataqoya'l xtiwachin pa xab'achike 
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % tz'aqatisan
+monitor-partial-breaches-motivation-title-start = ¡Xatikirisaj ütz!
+monitor-partial-breaches-motivation-title-middle = ¡Ke ri' tab'ana'!
+monitor-partial-breaches-motivation-title-end = ¡Nik'is yan! Ke ri' tab'ana'.
+monitor-partial-breaches-motivation-description = Ke'asolo' ri ch'aqa' chik taq tz'ilanem pa { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Kesol taq Tz'ilanem
+    .title = Kesol taq Tz'ilanem pa { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
