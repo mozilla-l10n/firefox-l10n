@@ -79,3 +79,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = ఇతర డాటా
     .value = ఇతర డాటా
+browser-data-firefox-other-64 =
+    .label = ఇతర డాటా
+    .value = ఇతర డాటా
