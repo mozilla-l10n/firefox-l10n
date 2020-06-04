@@ -7,6 +7,7 @@
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = { $source } থেকে
+source-name-ie = ইন্টারনেট এক্সপ্লোরার
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -61,5 +62,8 @@ browser-data-chrome-64 =
     .label = অন্যান্য তথ্য
     .value = অন্যান্য তথ্য
 browser-data-canary-64 =
+    .label = অন্যান্য তথ্য
+    .value = অন্যান্য তথ্য
+browser-data-firefox-other-64 =
     .label = অন্যান্য তথ্য
     .value = অন্যান্য তথ্য
