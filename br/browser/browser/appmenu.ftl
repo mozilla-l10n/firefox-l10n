@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Gwarez ar vuhez prevez
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Mont d'ho tanevell war ar vuhez prevez
-
 appmenuitem-protection-dashboard-title = Taolenn-stur ar gwarezioù
 appmenuitem-customize-mode =
     .label = Personelaat…
@@ -27,6 +26,7 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Petra nevez
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
