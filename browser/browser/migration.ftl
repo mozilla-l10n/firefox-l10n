@@ -4,22 +4,39 @@
 
 migration-wizard =
     .title = Волшебник за увоз
+import-from =
+    { PLATFORM() ->
+        [windows] Увези опции, обележувачи, историја, лозинки и други податоци од:
+       *[other] Увези поставки, обележувачи, историја, лозинки и други податоци од:
+    }
 import-from-bookmarks = Увези обележувачи од:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
+import-from-edge =
+    .label = Microsoft Edge
+    .accesskey = E
 import-from-nothing =
     .label = Не увезувај ништо
     .accesskey = Н
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-canary =
+    .label = Chrome Canary
+    .accesskey = n
 import-from-chrome =
     .label = Chrome
     .accesskey = C
+import-from-chromium =
+    .label = Chromium
+    .accesskey = u
 import-from-firefox =
     .label = Firefox
     .accesskey = x
+import-from-360se =
+    .label = 360 Secure Browser
+    .accesskey = 3
 no-migration-sources = Не може да се пронајдат програми кои содржат обележувачи, историја или лозинки.
 import-source =
     .label = Увезување на поставки и податоци
@@ -35,6 +52,7 @@ import-select-profile-description = Увоз може да се направи �
 import-done-title =
     .label = Увозот заврши
 import-done-description = Следниве елементи беа успешно увезени:
+import-close-source-browser = Ве молам, пред да продолжите, осигурајте се дека избраниот прелистувач е затворен.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -50,6 +68,18 @@ imported-safari-reading-list = Список за читање (од Safari)
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-ie-1 =
+    .label = Интернет-опции
+    .value = Интернет-опции
+browser-data-safari-1 =
+    .label = Поставки
+    .value = Поставки
+browser-data-chrome-1 =
+    .label = Поставки
+    .value = Поставки
+browser-data-canary-1 =
+    .label = Поставки
+    .value = Поставки
 browser-data-ie-2 =
     .label = Колачиња
     .value = Колачиња
