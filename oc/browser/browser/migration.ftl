@@ -64,6 +64,7 @@ import-select-profile-description = Los perfils seguents son disponibles per ès
 import-done-title =
     .label = Importacion acabada
 import-done-description = Los elements seguents son estats importats amb succès :
+import-close-source-browser = Abans de contunhar, asseguratz-vos que lo navegador seleccionat siá tampat
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -126,9 +127,27 @@ browser-data-firefox-2 =
 browser-data-360se-2 =
     .label = Cookies
     .value = Cookies
+browser-data-ie-4 =
+    .label = Istoric de navegacion
+    .value = Istoric de navegacion
+browser-data-edge-4 =
+    .label = Istoric de navegacion
+    .value = Istoric de navegacion
+browser-data-safari-4 =
+    .label = Istoric de navegacion
+    .value = Istoric de navegacion
+browser-data-chrome-4 =
+    .label = Istoric de navegacion
+    .value = Istoric de navegacion
+browser-data-canary-4 =
+    .label = Istoric de navegacion
+    .value = Istoric de navegacion
 browser-data-firefox-history-and-bookmarks-4 =
     .label = Istoric e marcapaginas
     .value = Istoric e marcapaginas
+browser-data-360se-4 =
+    .label = Istoric de navegacion
+    .value = Istoric de navegacion
 browser-data-ie-8 =
     .label = Donadas de formularis enregistradas
     .value = Donadas de formularis enregistradas
