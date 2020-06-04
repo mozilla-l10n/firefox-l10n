@@ -11,12 +11,18 @@ about-config-search-input =
 ##
 
 about-config-show-all = Onyesha Yote
-
 about-config-pref-add = Ongeza
 about-config-pref-save = Hifadhi
+about-config-pref-add-button =
+    .title = Ongeza
+about-config-pref-save-button =
+    .title = Hifadhi
+about-config-pref-delete-button =
+    .title = Futa
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-number = Nambari
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
