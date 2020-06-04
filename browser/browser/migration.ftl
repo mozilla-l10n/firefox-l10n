@@ -2,12 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+import-from =
+    { PLATFORM() ->
+        [windows] ייבוא אפשרויות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:
+       *[other] ייבוא העדפות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:
+    }
+import-from-bookmarks = ייבוא סימניות מ:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = I
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-nothing =
+    .label = לא לייבא דבר
+    .accesskey = א
 import-from-safari =
     .label = Safari
     .accesskey = S
@@ -17,6 +26,12 @@ import-from-canary =
 import-from-chrome =
     .label = Chrome
     .accesskey = C
+import-from-chrome-beta =
+    .label = Chrome Beta
+    .accesskey = B
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
 import-from-chromium =
     .label = Chromium
     .accesskey = u
@@ -24,7 +39,11 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע ססמאות.
+import-source =
+    .label = ייבוא הגדרות ונתונים
 import-items-description = נא לבחור אילו פריטים לייבא:
+import-migrating-title =
+    .label = מתבצע ייבוא…
 import-migrating-description = הפריטים הבאים מיובאים כעת...
 import-select-profile-title =
     .label = בחירת פרופיל
@@ -41,6 +60,8 @@ source-name-edge = Microsoft Edge
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
@@ -99,6 +120,15 @@ browser-data-edge-4 =
 browser-data-safari-4 =
     .label = היסטוריית גלישה
     .value = היסטוריית גלישה
+browser-data-chrome-4 =
+    .label = היסטוריית גלישה
+    .value = היסטוריית גלישה
+browser-data-canary-4 =
+    .label = היסטוריית גלישה
+    .value = היסטוריית גלישה
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = היסטוריית גלישה וסימניות
+    .value = היסטוריית גלישה וסימניות
 browser-data-360se-4 =
     .label = היסטוריית גלישה
     .value = היסטוריית גלישה
