@@ -148,6 +148,8 @@ menu-history-synced-tabs =
     .label = ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម
 menu-history-restore-last-session =
     .label = ស្ដារ​សម័យ​មុន
+menu-history-hidden-tabs =
+    .label = ផ្ទាំងដែលលាក់
 menu-history-undo-menu =
     .label = ផ្ទាំង​ដែល​បិទ​ថ្មីៗ
 menu-history-undo-window-menu =
@@ -207,6 +209,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = កម្មវិធីបំបាត់កំហុសប្លង់
+    .accesskey = L
 
 ## Window Menu
 
@@ -217,6 +222,24 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = ជំនួយ
+    .accesskey = H
+menu-help-product =
+    .label = ជំនួយ { -brand-shorter-name }
+    .accesskey = H
+menu-help-show-tour =
+    .label = ទេសចរណ៍ { -brand-shorter-name }
+    .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = គ្រាប់ចុច​ផ្លូវកាត់
+    .accesskey = K
+menu-help-troubleshooting-info =
+    .label = ព័ត៌មាន​អំពី​ដំណោះស្រាយ​បញ្ហា
+    .accesskey = T
+menu-help-feedback-page =
+    .label = ដាក់​ស្នើ​មតិកែលម្អ…
+    .accesskey = S
 menu-help-not-deceptive =
     .label = នេះ​មិនមែន​ជា​វេបសាយ​បញ្ឆោត​ទេ…
     .accesskey = d
