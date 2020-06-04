@@ -27,6 +27,7 @@ import-from-firefox =
     .accesskey = x
 import-source =
     .label = 导入设置及数据
+import-items-description = 请选择要导入的项目：
 import-migrating-title =
     .label = 正在导入…
 import-select-profile-title =
