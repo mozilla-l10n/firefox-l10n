@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Protekto de privateco
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vidu vian raporton pri privateco
-
 appmenuitem-customize-mode =
     .label = Personecigi…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Novaĵoj
