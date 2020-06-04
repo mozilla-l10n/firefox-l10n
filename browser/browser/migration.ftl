@@ -2,21 +2,41 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+import-from-edge =
+    .label = Microsoft Edge
+    .accesskey = E
+import-from-canary =
+    .label = Chrome Canary
+    .accesskey = n
+import-from-chromium =
+    .label = Chromium
+    .accesskey = u
+import-from-360se =
+    .label = 360 Secure Browser
+    .accesskey = 3
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Z prohlížeče { $source }
 source-name-ie = Internet Explorer
+source-name-edge = Microsoft Edge
 source-name-safari = Safari
+source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
+source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Seznam ke čtení (ze Safari)
+imported-edge-reading-list = Seznam ke čtení (z Edge)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.
 
+browser-data-edge-1 =
+    .label = Nastavení
+    .value = Nastavení
 browser-data-safari-1 =
     .label = Předvolby
     .value = Předvolby
@@ -26,7 +46,13 @@ browser-data-chrome-1 =
 browser-data-canary-1 =
     .label = Předvolby
     .value = Předvolby
+browser-data-360se-1 =
+    .label = Předvolby
+    .value = Předvolby
 browser-data-ie-4 =
+    .label = Historie
+    .value = Historie
+browser-data-edge-4 =
     .label = Historie
     .value = Historie
 browser-data-safari-4 =
@@ -41,7 +67,13 @@ browser-data-canary-4 =
 browser-data-firefox-history-and-bookmarks-4 =
     .label = Historie prohlížení a záložky
     .value = Historie prohlížení a záložky
+browser-data-360se-4 =
+    .label = Historie
+    .value = Historie
 browser-data-ie-8 =
+    .label = Uložené formuláře
+    .value = Uložené formuláře
+browser-data-edge-8 =
     .label = Uložené formuláře
     .value = Uložené formuláře
 browser-data-safari-8 =
@@ -56,7 +88,13 @@ browser-data-canary-8 =
 browser-data-firefox-8 =
     .label = Uložené formuláře
     .value = Uložené formuláře
+browser-data-360se-8 =
+    .label = Uložené formuláře
+    .value = Uložené formuláře
 browser-data-ie-16 =
+    .label = Uložená hesla
+    .value = Uložená hesla
+browser-data-edge-16 =
     .label = Uložená hesla
     .value = Uložená hesla
 browser-data-safari-16 =
@@ -71,7 +109,13 @@ browser-data-canary-16 =
 browser-data-firefox-16 =
     .label = Uložená hesla
     .value = Uložená hesla
+browser-data-360se-16 =
+    .label = Uložená hesla
+    .value = Uložená hesla
 browser-data-ie-32 =
+    .label = Oblíbené
+    .value = Oblíbené
+browser-data-edge-32 =
     .label = Oblíbené
     .value = Oblíbené
 browser-data-safari-32 =
@@ -83,7 +127,13 @@ browser-data-chrome-32 =
 browser-data-canary-32 =
     .label = Záložky
     .value = Záložky
+browser-data-360se-32 =
+    .label = Záložky
+    .value = Záložky
 browser-data-ie-64 =
+    .label = Ostatní data
+    .value = Ostatní data
+browser-data-edge-64 =
     .label = Ostatní data
     .value = Ostatní data
 browser-data-safari-64 =
@@ -98,3 +148,9 @@ browser-data-canary-64 =
 browser-data-firefox-other-64 =
     .label = Ostatní data
     .value = Ostatní data
+browser-data-360se-64 =
+    .label = Ostatní data
+    .value = Ostatní data
+browser-data-firefox-128 =
+    .label = Okna a panely
+    .value = Okna a panely
