@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Maxfiylik himoyalari
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Maxfiylik haqidagi hisobotga kirish
-
 appmenuitem-customize-mode =
     .label = Moslash…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Yangi xususiyatlar
