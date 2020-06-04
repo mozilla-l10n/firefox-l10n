@@ -33,10 +33,13 @@ import-source =
     .label = Aktar n iɣewwaṛen d isefka
 import-migrating-title =
     .label = Aktar…
+import-migrating-description = Iferdisen-a la d-ttwaktaren akka tura…
 import-select-profile-title =
     .label = Fren amaɣnu
+import-select-profile-description = Imaɣnuten-a heggan iwakken ad ttwaketren seg:
 import-done-title =
     .label = Aktar immed
+import-done-description = Iferdisen-a ttwaketren akken iwata:
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
