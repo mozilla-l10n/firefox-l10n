@@ -4,6 +4,11 @@
 
 migration-wizard =
     .title = విజార్డు దిగుమతిచేయి
+import-from-ie =
+    .label = మైక్రోసాఫ్ట్ ఇంటర్నెట్‌ ఎక్స్‌ప్లోరర్
+    .accesskey = M
+import-items-title =
+    .label = దిగుమతి కావడానికి అంశములు
 import-migrating-title =
     .label = దిగుమతవుతున్నది...
 import-migrating-description = ఈ క్రింది అంశములు ప్రస్తుతం దిగుమతవుతున్నవి...
