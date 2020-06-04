@@ -41,6 +41,8 @@ protection-report-webpage-title = Панэль стану аховы
 protection-report-page-content-title = Панэль стану аховы
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } можа ахоўваць вашу прыватнасць за кадрам падчас аглядання. Гэта персаналізаваная зводка аб ахове, уключна з інструментамі для кантролю вашай бяспекі ў Інтэрнэце.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } ахоўвае вашу прыватнасць за кадрам падчас аглядання. Гэта персаналізаваная зводка аб ахове, уключна з інструментамі для кантролю вашай бяспекі ў Інтэрнэце.
 protection-report-settings-link = Кіруйце сваімі наладамі прыватнасці і бяспекі
 etp-card-title-always = Узмоцненая ахова ад сачэння: заўсёды ўключана
 etp-card-title-custom-not-blocking = Узмоцненая ахова ад сачэння: ВЫКЛЮЧАНА
@@ -126,6 +128,8 @@ monitor-link = Як гэта працуе
 monitor-header-content-no-account = Паспрабуйце { -monitor-brand-name }, каб спраўдзіць, ці не ўцяклі вашы дадзеныя у вядомых узломах, і атрымліваць апавяшчэнні аб новых уцечках.
 monitor-header-content-signed-in = { -monitor-brand-name } папярэдзіць, калі вашы звесткі з'явяцца ў вядомым парушэнні дадзеных.
 monitor-sign-up = Падпішыцеся на абвесткі аб уцечках
+monitor-sign-up-link = Падпісацца на абвесткі аб уцечках
+    .title = Падпісацца на абвесткі аб уцечках ад { -monitor-brand-name }
 auto-scan = Аўтаматычна прасканавана сёння
 monitor-emails-tooltip =
     .title = Пабачыць адрасы пошты, якія назіраюцца ў { -monitor-brand-short-name }
