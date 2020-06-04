@@ -43,3 +43,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = अन्य आँकड़े
     .value = अन्य आँकड़े
+browser-data-firefox-other-64 =
+    .label = अन्य आंकड़ा
+    .value = अन्य आंकड़ा
