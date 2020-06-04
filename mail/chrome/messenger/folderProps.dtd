@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Privilégios…">
 <!ENTITY privileges.button.accesskey             "D">
 <!ENTITY permissionsDesc.label                   "Você tem as seguintes permissões:">
+<!ENTITY folderOtherUsers.label                  "Outros com acesso a esta pasta:">
 <!ENTITY folderType.label                        "Tipo da pasta:">
 
 <!ENTITY folderQuotaTab.label                    "Cota">
