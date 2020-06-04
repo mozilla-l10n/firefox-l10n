@@ -138,3 +138,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = අනෙකුත් දත්ත
     .value = අනෙකුත් දත්ත
+browser-data-firefox-128 =
+    .label = කවුළු සහ ටැබ්
+    .value = කවුළු සහ ටැබ්
