@@ -83,3 +83,6 @@ browser-data-ie-64 =
 browser-data-safari-64 =
     .label = Бусад өгөгдлүүд
     .value = Бусад өгөгдлүүд
+browser-data-firefox-128 =
+    .label = Цонх болон самбарууд
+    .value = Цонх болон самбарууд
