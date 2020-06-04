@@ -4,6 +4,12 @@
 
 migration-wizard =
     .title = विज़ार्ड का आयात‌ करें
+import-from =
+    { PLATFORM() ->
+        [windows] पसन्द, बुकमार्क, इतिहास, कूटशब्द‌ एवं अन्य डेटा यहाँ से आयात करें:
+       *[other] वरीयताएँ, बुकमार्क, इतिहास, कूटशब्द एवं अन्य आंकड़ा यहाँ से आयात करें:
+    }
+import-from-bookmarks = बुकमार्क‌ यहाँ से आयात करें:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
@@ -37,6 +43,7 @@ import-from-firefox =
 import-from-360se =
     .label = 360 सुरक्षित ब्राउज़र‌
     .accesskey = 3
+no-migration-sources = प्रोग्राम जो बुकमार्क, इतिहास या कूटशब्द आंकड़ा रखती है पायी गई.‌
 import-source =
     .label = सेटिंग्स और डेटा‌ यहाँ से आयात करें
 import-items-title =
@@ -128,6 +135,9 @@ browser-data-chrome-4 =
 browser-data-canary-4 =
     .label = ब्राउज़िंग इतिहास
     .value = ब्राउज़िंग इतिहास
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = ब्राउजिंग इतिहास और बुकमार्क
+    .value = ब्राउजिंग इतिहास और बुकमार्क
 browser-data-360se-4 =
     .label = ब्राउज़िंग इतिहास
     .value = ब्राउज़िंग इतिहास
@@ -179,6 +189,15 @@ browser-data-ie-32 =
 browser-data-edge-32 =
     .label = पसंदीदा
     .value = पसंदीदा
+browser-data-safari-32 =
+    .label = बुकमार्क
+    .value = बुकमार्क
+browser-data-chrome-32 =
+    .label = बुकमार्क
+    .value = बुकमार्क
+browser-data-canary-32 =
+    .label = बुकमार्क
+    .value = बुकमार्क
 browser-data-360se-32 =
     .label = बुकमार्क्स
     .value = बुकमार्क्स
