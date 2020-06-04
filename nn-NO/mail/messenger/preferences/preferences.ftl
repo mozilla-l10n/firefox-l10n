@@ -42,8 +42,12 @@ privacy-main-header = Personvern
 privacy-passwords-header = Passord
 privacy-junk-header = Uønskt
 privacy-data-collection-header = Datainnsamling og bruk
+collection-header = { -brand-short-name } datainnsamling og bruk
 collection-privacy-notice = Personvernerklæring
 collection-health-report-telemetry-disabled-link = Les meir
+collection-health-report =
+    .label = Tillat { -brand-short-name } å sende tekniske data og data for bruk til { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Les meir
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

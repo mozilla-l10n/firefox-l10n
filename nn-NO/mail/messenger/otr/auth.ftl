@@ -15,10 +15,12 @@ auth-your-fp-value = Ditt fingeravtrykk, { $own_name }:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Fingeravtrykk for { $their_name }:
 auth-helpTitle = Stadfestingshjelp
+auth-questionReceived = Dette er spørsmålet spurd av kontakten din:
 auth-yes =
     .label = Ja
 auth-no =
     .label = Nei
+auth-manualVerification = Manuell fingeravtrykk-stadfesting
 auth-questionAndAnswer = Spørsmål og svar
 auth-sharedSecret = Delt løyndom
 auth-manualVerification-label =
