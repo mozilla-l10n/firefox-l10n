@@ -59,10 +59,13 @@ import-close-source-browser = ඉදිරියට ක්‍රියාත්�
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = { $source } වෙතින්
 source-name-ie = Internet Explorer
+source-name-edge = Microsoft Edge
 source-name-safari = සෆාරි (Safari)
 source-name-chrome = ගූග්ල් ක්‍රෝම් (Google Chrome)
+source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 imported-safari-reading-list = කියවීම් ලැයිස්තුව (Safari වෙතින්)
+imported-edge-reading-list = කියවීම් ලැයිස්තුව (Edge වෙතින්)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -110,6 +113,9 @@ browser-data-360se-2 =
 browser-data-ie-4 =
     .label = සැරිසර අතීතය
     .value = සැරිසර අතීතය
+browser-data-edge-4 =
+    .label = සැරිසර අතීතය
+    .value = සැරිසර අතීතය
 browser-data-safari-4 =
     .label = සැරිසර අතීතය
     .value = සැරිසර අතීතය
@@ -122,6 +128,9 @@ browser-data-canary-4 =
 browser-data-firefox-history-and-bookmarks-4 =
     .label = සැරිසර අතීතය සහ පිටුසලකුණු
     .value = සැරිසර අතීතය සහ පිටුසලකුණු
+browser-data-360se-4 =
+    .label = සැරිසර අතීතය
+    .value = සැරිසර අතීතය
 browser-data-ie-8 =
     .label = පෙරදෑ වලින් සුරැකූ
     .value = පෙරදෑ වලින් සුරැකූ
