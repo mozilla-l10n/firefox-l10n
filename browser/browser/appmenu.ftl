@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Protecții pentru confidențialitate
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Mergi la raportul de protecție a vieții private
-
 appmenuitem-customize-mode =
     .label = Personalizează…
 
@@ -26,3 +25,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Ce este nou
