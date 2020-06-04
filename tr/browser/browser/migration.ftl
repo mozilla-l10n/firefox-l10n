@@ -2,8 +2,49 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = İçe aktarma sihirbazı
+import-from =
+    { PLATFORM() ->
+        [windows] Seçenekleri, yer imlerini, gezinti geçmişini, parolaları ve diğer verileri şu tarayıcıdan aktar:
+       *[other] Tercihleri, yer imlerini, gezinti geçmişini, parolaları ve diğer verileri şu tarayıcıdan aktar:
+    }
+import-from-bookmarks = Yer imlerini buradan içe aktar:
+import-from-ie =
+    .label = Microsoft Internet Explorer
+    .accesskey = M
+import-from-edge-legacy =
+    .label = Microsoft Edge (Eski Sürüm)
+    .accesskey = d
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
+import-from-safari =
+    .label = Safari
+    .accesskey = S
+import-from-chrome-beta =
+    .label = Chrome Beta
+    .accesskey = B
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
+no-migration-sources = Yer imlerinin, geçmişin veya parola verilerinin kayıtlı olduğu hiçbir program bulunamadı.
+import-source =
+    .label = Ayarları ve verileri içe aktarma
+import-items-title =
+    .label = İçe aktarılacak öğeler
+import-migrating-title =
+    .label = İçe aktarılıyor…
+import-migrating-description = Aşağıdaki öğeler şu anda içe aktarılıyor…
+import-done-title =
+    .label = İçe aktarma tamamlandı
+import-done-description = Aşağıdaki öğeler başarıyla içe aktarıldı:
+import-close-source-browser = Devam etmeden önce lütfen seçtiğiniz tarayıcının kapalı olduğundan emin olun.
 source-name-ie = Internet Explorer
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
@@ -24,9 +65,21 @@ browser-data-safari-2 =
 browser-data-ie-4 =
     .label = Tarayıcı geçmişi
     .value = Tarayıcı geçmişi
+browser-data-edge-4 =
+    .label = Tarayıcı geçmişi
+    .value = Tarayıcı geçmişi
 browser-data-safari-4 =
     .label = Tarayıcı geçmişi
     .value = Tarayıcı geçmişi
+browser-data-chrome-4 =
+    .label = Gezinti geçmişi
+    .value = Gezinti geçmişi
+browser-data-canary-4 =
+    .label = Gezinti geçmişi
+    .value = Gezinti geçmişi
+browser-data-firefox-history-and-bookmarks-4 =
+    .label = Gezinti geçmişi ve yer imleri
+    .value = Gezinti geçmişi ve yer imleri
 browser-data-ie-8 =
     .label = Kayıtlı form geçmişi
     .value = Kayıtlı form geçmişi
