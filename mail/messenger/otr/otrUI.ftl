@@ -41,3 +41,26 @@ state-private = De identiteit van { $name } is geverifieerd. Het huidige gesprek
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } heeft het versleutelde gesprek met u beëindigd; u dient hetzelfde te doen.
+state-not_private-label = Onveilig
+state-unverified-label = Niet geverifieerd
+state-private-label = Privé
+state-finished-label = Voltooid
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } heeft om verificatie van uw identiteit gevraagd.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = U hebt de identiteit van { $name } geverifieerd.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = De identiteit van { $name } is niet geverifieerd.
+verify-title = De identiteit van uw contact verifiëren
+error-title = Fout
+success-title = End-to-end-versleuteling
+successThem-title = De identiteit van uw contact verifiëren
+fail-title = Kan niet verifiëren
+waiting-title = Verificatieverzoek verzonden
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Aanmaken van privé-OTR-sleutel mislukt: { $error }
