@@ -141,3 +141,6 @@ browser-data-chrome-64 =
 browser-data-canary-64 =
     .label = आन आँकड़ा
     .value = आन आँकड़ा
+browser-data-firefox-other-64 =
+    .label = आन आँकड़ा
+    .value = आन आँकड़ा
