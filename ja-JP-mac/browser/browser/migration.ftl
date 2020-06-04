@@ -66,6 +66,7 @@ source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
 imported-safari-reading-list = リーディングリスト (Safari から)
+imported-edge-reading-list = リーディングリスト (Edge から)
 
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
