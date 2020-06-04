@@ -172,4 +172,6 @@
 <!ENTITY showPopupManager.accesskey "A">
 <!ENTITY dontShowMessage.label "No mostrar este mensaje cuando se bloqueen ventanas emergentes">
 <!ENTITY dontShowMessage.accesskey "N">
+<!ENTITY throbber.title "Icono de aplicación">
+<!ENTITY throbber.tooltip2 "Ir a la página principal de &brandShortName;">
 <!ENTITY syncToolbarButton.label "Sync">
