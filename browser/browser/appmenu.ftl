@@ -8,7 +8,6 @@
 appmenuitem-protection-report-title = Yksityisyyden suojaukset
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Siirry yksityisyysraporttiin
-
 appmenuitem-protection-dashboard-title = Suojausten yhteenveto
 appmenuitem-customize-mode =
     .label = Muokkaa…
@@ -27,6 +26,7 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Mitä uutta
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
