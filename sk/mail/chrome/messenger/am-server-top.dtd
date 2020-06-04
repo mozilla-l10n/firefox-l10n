@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Úložisko správ">
 <!ENTITY securitySettings.label "Bezpečnostné nastavenia">
 <!ENTITY serverSettings.label "Nastavenie servera">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Štandardný:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "v">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Opýtať sa pri preberaní viac ako">
 <!ENTITY maxMessagesStart.accesskey "s">
@@ -70,6 +68,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "Súbor newsrc:">
 <!ENTITY newsrcPicker.label "Vyberte súbor newsrc">
+<!ENTITY newsrcFilePath1.label "Súbor News.rc:">
 <!ENTITY abbreviate.label "Zobraziť názvy diskusných skupín ako :">
 <!ENTITY abbreviateOn.label "Úplný názov (napr. 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skratky (napr. 'n.p.m.mail-news')">

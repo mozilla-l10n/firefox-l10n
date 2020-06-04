@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Tajné">
 <!ENTITY smiley16Cmd.accesskey "T">
 <!ENTITY smiley16Cmd.tooltip "Vložiť emotikon s významom: Tajné">
+<!ENTITY SmileButton.label "Vložiť emotikon">
 <!ENTITY SmileButton.tooltip "Vložiť emotikon">

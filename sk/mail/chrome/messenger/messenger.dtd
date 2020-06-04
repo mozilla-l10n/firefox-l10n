@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Poradie prijatia">
 <!ENTITY attachmentColumn.label "Prílohy">
 
+<!ENTITY deleteColumn.label "Odstrániť">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Zvoliť stĺpce">
 <!ENTITY selectColumn.tooltip "Vyberie všetky správy">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Usporiadať podľa umiestnenia">
 <!ENTITY idColumn2.tooltip "Usporiadať podľa poradia, v akom boli správy prijaté">
 <!ENTITY attachmentColumn2.tooltip "Zoskupiť správy s prílohou">
+
+<!ENTITY deleteColumn.tooltip "Odstrániť správu">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nová správa zo šablóny">

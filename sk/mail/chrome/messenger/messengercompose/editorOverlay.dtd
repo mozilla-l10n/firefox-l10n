@@ -143,9 +143,9 @@
 <!ENTITY formatRemoveNamedAnchors.accesskey "d">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
-<!ENTITY paragraphMenu.label "Odstavec">
+<!ENTITY paragraphMenu.label "Odsek">
 <!ENTITY paragraphMenu.accesskey "O">
-<!ENTITY paragraphParagraphCmd.label "Odstavec">
+<!ENTITY paragraphParagraphCmd.label "Odsek">
 <!ENTITY paragraphParagraphCmd.accesskey "O">
 <!ENTITY heading1Cmd.label "Nadpis 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -295,6 +295,7 @@
 <!ENTITY spellToolbarCmd.label "Pravopis">
 <!ENTITY spellToolbarCmd.tooltip "Kontrola pravopisu označenej časti alebo celej stránky">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Obrázok">
 <!ENTITY imageToolbarCmd.tooltip "Upraviť vlastnosti označeného obrázka alebo vložiť nový">
 <!ENTITY hruleToolbarCmd.label "Čiara">

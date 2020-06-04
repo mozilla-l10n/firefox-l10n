@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Otvoriť lokálnu stránku">
 <!ENTITY saveToolbarCmd.tooltip "Uložiť stránku lokálne">
 <!ENTITY publishToolbarCmd.tooltip "Odoslať súbor na vzdialený server">
+<!ENTITY printToolbarCmd.label "Tlačiť">
+<!ENTITY printToolbarCmd.tooltip "Tlačiť stránku">
