@@ -91,7 +91,7 @@
 <!ENTITY JobTitle.label                 "Functie:">
 <!ENTITY JobTitle.accesskey             "u">
 <!ENTITY Department.label               "Afdeling:">
-<!ENTITY Department.accesskey           "d">
+<!ENTITY Department.accesskey           "i">
 <!ENTITY Company.label                  "Organisatie:">
 <!ENTITY Company.accesskey              "r">
 <!ENTITY WorkAddress.label              "Adres:">
