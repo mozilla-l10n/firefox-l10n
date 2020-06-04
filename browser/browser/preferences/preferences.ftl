@@ -503,7 +503,7 @@ home-prefs-recommended-by-description = İnternetin her yanından sizin için se
 
 ##
 
-home-prefs-recommended-by-learn-more = Nasıl çalışıyor?
+home-prefs-recommended-by-learn-more = Nasıl çalışır?
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorlu haberler
 home-prefs-highlights-header =
