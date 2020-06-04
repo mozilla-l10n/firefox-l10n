@@ -459,6 +459,8 @@
 <!ENTITY contextPrintPreview.accesskey "v">
 <!ENTITY folderContextGetMessages.label "Recibir mensajes de la cuenta">
 <!ENTITY folderContextGetMessages.accesskey "j">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marcar todas las carpetas como leídas">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "M">
 <!ENTITY folderContextOpenNewWindow.label "Abrir en una ventana nueva">
 <!ENTITY folderContextOpenNewWindow.accesskey "v">
 <!ENTITY folderContextOpenNewTab.label "Abrir en una pestaña nueva">
