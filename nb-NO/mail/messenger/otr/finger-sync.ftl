@@ -4,3 +4,4 @@
 
 finger-yes = Bekreftet
 finger-no = Ikke bekreftet
+finger-subset-title = Fjern fingeravtrykk
