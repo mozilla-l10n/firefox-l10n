@@ -15,6 +15,8 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "Adresse électronique :">
 <!ENTITY email.accesskey "A">
+<!ENTITY catchAll.label "Répondre avec cette identité lorsque les en-têtes de distribution correspondent à :">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Adresse pour la réponse :">
 <!ENTITY replyTo.accesskey "d">
 <!ENTITY replyTo.placeholder "Les destinataires enverront leur réponse à cette autre adresse">
