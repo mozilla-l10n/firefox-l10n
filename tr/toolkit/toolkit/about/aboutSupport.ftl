@@ -4,7 +4,6 @@
 
 page-title = Sorun giderme bilgileri
 page-subtitle = Bu sayfa, bir sorunu gidermeye çalışırken işinize yarabilecek teknik bilgiler içerir. { -brand-short-name } hakkında genel sorularla ilgili yanıt arıyorsanız <a data-l10n-name="support-link">destek sitemizi</a> ziyaret edin.
-
 crashes-title = Çökme Raporları
 crashes-id = Rapor numarası
 crashes-send-date = Gönderilme tarihi
@@ -124,7 +123,7 @@ audio-backend = Ses arka ucu
 max-audio-channels = En fazla kanal
 channel-layout = Tercih edilen kanal düzeni
 sample-rate = Tercih edilen örnek oranı
-
+roundtrip-latency = Gidiş dönüş gecikmesi (standart sapma)
 media-title = Ortam
 media-output-devices-title = Çıktı cihazları
 media-input-devices-title = Girdi cihazları
@@ -175,7 +174,6 @@ report-crash-for-days =
         [one] Son { $days } günün çökme raporları
        *[other] Son { $days } günün çökme raporları
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -183,7 +181,6 @@ crashes-time-minutes =
         [one] { $minutes } dakika önce
        *[other] { $minutes } dakika önce
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -191,7 +188,6 @@ crashes-time-hours =
         [one] { $hours } saat önce
        *[other] { $hours } saat önce
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -199,7 +195,6 @@ crashes-time-days =
         [one] { $days } gün önce
        *[other] { $days } gün önce
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -207,7 +202,6 @@ pending-reports =
         [one] Tüm çökme raporları (belirtilen zaman aralığındaki { $reports } bekleyen çökme dahil)
        *[other] Tüm çökme raporları (belirtilen zaman aralığındaki { $reports } bekleyen çökme dahil)
     }
-
 raw-data-copied = Ham veriler panoya kopyalandı
 text-copied = Metin panoya kopyalandı
 
@@ -220,11 +214,9 @@ blocked-mismatched-version = Kayıt defteriyle DLL arasındaki grafik sürücüs
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Grafik kartı sürücüsü sürümünüz için engellenmiştir. Grafik kartı sürücünüzü { $driverVersion } veya daha yeni bir sürüme güncellemeyi deneyin.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametreleri
-
 compositing = Çizici
 hardware-h264 = Donanımsal H264 çözme
 main-thread-no-omtc = ana işlem parçacığı, OMTC yok
@@ -239,7 +231,6 @@ virtual-monitor-disp = Sanal monitör ekranı
 
 found = Bulundu
 missing = Eksik
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Tanım
@@ -263,23 +254,18 @@ webgl2-version = WebGL 2 sürücü sürümü
 webgl2-driver-extensions = WebGL 2 sürücü uzantıları
 webgl2-extensions = WebGL 2 uzantıları
 blocklisted-bug = Bilinen sorunlar nedeniyle engellendi
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Engellendi. Hata kodu { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Çözücüsü
 d3d9video-crash-buard = D3D9 Video Çözücüsü
 d3d9video-crash-guard = D3D9 Video Çözücüsü
 glcontext-crash-guard = OpenGL
-
 wmfvpxvideo-crash-guard = WMF VPX video çözücüsü
-
 reset-on-next-restart = Sonraki yeniden başlatmada sıfırla
 gpu-process-kill-button = GPU işlemini sonlandır
 gpu-device-reset = Aygıtı sıfırla
@@ -289,10 +275,8 @@ content-uses-tiling = Tiling kullanımı (içerik)
 off-main-thread-paint-enabled = Off main thread painting etkin
 off-main-thread-paint-worker-count = Off main thread painting işçi sayısı
 target-frame-rate = Hedef kare hızı
-
 min-lib-versions = Beklenen minimum sürüm
 loaded-lib-versions = Kullanılan sürüm
-
 has-seccomp-bpf = Seccomp-BPF (sistem çağrısı filtreleme)
 has-seccomp-tsync = Seccomp işlem senkronizasyonu
 has-user-namespaces = Kullanıcı isim uzayları
@@ -305,18 +289,15 @@ sandbox-proc-type-content = içerik
 sandbox-proc-type-file = dosya içeriği
 sandbox-proc-type-media-plugin = ortam yan uygulaması
 sandbox-proc-type-data-decoder = veri çözücü
-
 startup-cache-title = Başlangıç önbelleği
 startup-cache-disk-cache-path = Disk önbellek yolu
 startup-cache-ignore-disk-cache = Disk önbelleğini yok say
 startup-cache-found-disk-cache-on-init = Başlangıçta disk önbelleği bulundu
 startup-cache-wrote-to-disk-cache = Disk önbelleğine yazıldı
-
 launcher-process-status-0 = Etkin
 launcher-process-status-1 = Hata nedeniyle devre dışı
 launcher-process-status-2 = Zorla devre dışı bırakıldı
 launcher-process-status-unknown = Bilinmeyen durum
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -329,7 +310,6 @@ multi-process-status-6 = Desteklenmeyen metin girdisi tarafından devre dışı 
 multi-process-status-7 = Eklentiler tarafından devre dışı bırakıldı
 multi-process-status-8 = Zorla devre dışı bırakıldı
 multi-process-status-unknown = Bilinmeyen durum
-
 async-pan-zoom = Asenkron kaydır/yakınlaştır
 apz-none = yok
 wheel-enabled = tekerlek girdisi etkin
@@ -337,7 +317,6 @@ touch-enabled = dokunma girdisi etkin
 drag-enabled = kaydırma çubuğu sürükleme etkin
 keyboard-enabled = klavye etkin
 autoscroll-enabled = otomatik kaydırma etkin
-
 zooming-enabled = yumuşak pinch-zoom etkin
 
 ## Variables
