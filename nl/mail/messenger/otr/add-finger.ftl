@@ -9,5 +9,6 @@ otr-add-finger =
 # Do not translate 'OTR' (name of an encryption protocol)
 otr-add-finger-description = De OTR-vingerafdruk voor { $name } toevoegen.
 otr-add-finger-fingerprint = Vingerafdruk:
+otr-add-finger-tooltip-error = Ongeldig teken ingevoerd. Alleen cijfers en de letters ABCDEF zijn toegestaan
 otr-add-finger-input =
     .placeholder = De 40 tekens lange OTR-vingerafdruk

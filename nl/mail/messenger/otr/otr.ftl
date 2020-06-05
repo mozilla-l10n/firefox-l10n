@@ -64,3 +64,11 @@ error-not_priv = U hebt versleutelde gegevens verzonden naar { $name }, die dit 
 error-unreadable = U hebt een onleesbaar versleuteld bericht verzonden.
 error-malformed = U hebt een ongeldig gegevensbericht verzonden.
 resent = [opnieuw verzonden]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } heeft zijn/haar versleutelde conversatie met u beëindigd; u dient hetzelfde te doen.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } heeft om een Off-the-record (OTR-)versleuteld gesprek gevraagd. U beschikt echter niet over de plug-in om dat te ondersteunen. Zie https://en.wikipedia.org/wiki/Off-the-Record_Messaging voor meer informatie.
