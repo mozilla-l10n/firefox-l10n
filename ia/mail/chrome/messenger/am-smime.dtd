@@ -20,6 +20,7 @@
 <!ENTITY e2eEnc.description "Sin cryptographia testa a testa le contentos de messages es facilemente exponite a tu fornitor de email e a surveliantia de massa.">
 <!ENTITY e2eeReqWarning.description "Si tu require cryptographia, pro inviar un message tu debe haber le clave public o le certificato de cata destinatario.">
 
+<!ENTITY e2eSigning.description "Un firma digital consenti al destinatarios de verificar que le message ha essite inviate per tu e que le contento non ha essite cambiate.">
 <!ENTITY e2eTechPref.description "Technologia de cryptographia preferite:">
 
 <!ENTITY doNotEncrypt.label "Non activar le cryptographia per defecto">
@@ -51,6 +52,7 @@
 
 <!ENTITY sendingDefaults.label "Parametros predefinite pro inviar messages">
 
+<!ENTITY technologyAutomatic.label "Eliger automaticamente in base a claves o certificatos disponibile">
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Gerer certificatos S/MIME">
