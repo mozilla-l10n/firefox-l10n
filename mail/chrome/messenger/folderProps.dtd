@@ -49,6 +49,8 @@
 
 <!ENTITY folderProps.name.label                  "Όνομα:">
 <!ENTITY folderProps.name.accesskey              "ν">
+<!ENTITY folderProps.color.label                 "Χρώμα εικονιδίου:">
+<!ENTITY folderProps.color.accesskey             "Χ">
 <!ENTITY folderProps.location.label              "Τοποθεσία">
 <!ENTITY folderProps.location.accesskey          "θ">
 

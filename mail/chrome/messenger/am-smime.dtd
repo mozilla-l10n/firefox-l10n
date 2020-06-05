@@ -13,6 +13,10 @@
 <!ENTITY alwaysEncryptMessage.accesskey "α">
 <!ENTITY encryptionCert.message "Χρήση του εξής πιστοποιητικού για κρυπτογράφηση &amp; αποκρυπτογράφηση ληφθέντων μηνυμάτων:">
 
+<!ENTITY e2eLearnMore.label "Μάθετε περισσότερα">
+
+
+
 <!ENTITY digitalSign.certificate.button "Επιλογή…">
 <!ENTITY digitalSign.certificate.accesskey "Ε">
 <!ENTITY digitalSign.certificate_clear.button "Απαλοιφή">
@@ -32,8 +36,27 @@
 <!ENTITY manageDevices.label "Συσκευές ασφαλείας">
 <!ENTITY manageDevices.accesskey "υ">
 
+
+
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Διαχείριση πιστοποιητικών S/MIME">
+<!ENTITY manageCerts3.accesskey "Δ">
+<!ENTITY manageDevices2.label "Συσκευές ασφαλείας S/MIME">
+<!ENTITY manageDevices2.accesskey "φ">
+
+<!ENTITY technologySMIME.label "Να προτιμάται το S/MIME">
+<!ENTITY technologyOpenPGP.label "Να προτιμάται το OpenPGP">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Διαχείριση κλειδιών OpenPGP">
+<!ENTITY manageKeys.accesskey "κ">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Επιλογή πιστοποιητικού">
 <!ENTITY certPicker.info  "Πιστοποιητικό:">
 <!ENTITY certPicker.detailsLabel "Λεπτομέρειες επιλεγμένου πιστοποιητικού:">
 
+<!ENTITY openpgpKey.message "Προσωπικό κλειδί για κρυπτογράφηση και ψηφιακή υπογραφή:">
+<!ENTITY openpgpKey.button "Ορισμός προσωπικού κλειδιού…">
+<!ENTITY openpgpKey.accesskey "ο">

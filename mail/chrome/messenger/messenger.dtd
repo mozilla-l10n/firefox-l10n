@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων...">
 <!ENTITY searchMailCmd.accesskey "μ">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Καθολική αναζήτηση…">
+<!ENTITY glodaSearchCmd.accesskey "Κ">
 <!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων…">
 <!ENTITY searchAddressesCmd.accesskey "ζ">
 
@@ -730,6 +732,8 @@
 <!ENTITY idColumn.label "Σειρά παραλαβής">
 <!ENTITY attachmentColumn.label "Συνημμένα">
 
+<!ENTITY deleteColumn.label "Διαγραφή">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Επιλογή στηλών για προβολή">
 <!ENTITY selectColumn.tooltip "Εναλλαγή επιλογής όλων των μηνυμάτων">
@@ -753,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Ταξινόμηση κατά τοποθεσία">
 <!ENTITY idColumn2.tooltip "Ταξινόμηση κατά σειρά παραλαβής">
 <!ENTITY attachmentColumn2.tooltip "Ταξινόμηση κατά συνημμένο">
+
+<!ENTITY deleteColumn.tooltip "Διαγραφή μηνύματος">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Νέο μήνυμα από πρότυπο">

@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Άνοιγμα τοπικού αρχείου">
 <!ENTITY saveToolbarCmd.tooltip "Αποθήκευση αρχείου σε τοπική τοποθεσία">
 <!ENTITY publishToolbarCmd.tooltip "Μεταφόρτωση αρχείου σε απομακρυσμένη τοποθεσία">
+<!ENTITY printToolbarCmd.label "Εκτύπωση">
+<!ENTITY printToolbarCmd.tooltip "Εκτύπωση σελίδας">

@@ -15,5 +15,6 @@
 <!ENTITY addNewToolbar.label      "Προσθήκη νέας γραμμής εργαλείων">
 <!ENTITY showTitlebar.label       "Εμφάνιση γραμμής τίτλου">
 <!ENTITY extraDragSpace.label     "Προσθήκη χώρου">
+<!ENTITY showTitlebar2.label      "Γραμμή τίτλου">
 <!ENTITY saveChanges.label        "Τέλος">
 <!ENTITY undoChanges.label        "Ακύρωση Αλλαγών">
