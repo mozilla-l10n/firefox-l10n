@@ -8,6 +8,7 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
+webrtc-sharing-window = Sie teilen ein anderes Anwendungsfenster.
 webrtc-sharing-browser-window = Sie teilen { -brand-short-name }.
 webrtc-sharing-screen = Sie teilen Ihren gesamten Bildschirm.
 webrtc-stop-sharing-button = Freigabe beenden
