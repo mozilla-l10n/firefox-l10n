@@ -30,6 +30,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Άνοιγμα μενού
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από άλλο πρόγραμμα περιήγησης…
 about-logins-menu-menuitem-export-logins = Εξαγωγή συνδέσεων…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -62,6 +64,8 @@ login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστε�
 login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
 about-logins-list-item-breach-icon =
     .title = Παραβιασμένη ιστοσελίδα
+about-logins-list-item-vulnerable-password-icon =
+    .title = Ευάλωτος κωδικός πρόσβασης
 
 ## Introduction screen
 
@@ -140,12 +144,14 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Αφαίρεση αυτής της σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 about-logins-confirm-remove-dialog-confirm-button = Αφαίρεση
+about-logins-confirm-export-dialog-confirm-button = Εξαγωγή…
 confirm-discard-changes-dialog-title = Απόρριψη μη αποθηκευμένων αλλαγών;
 confirm-discard-changes-dialog-message = Όλες οι μη αποθηκευμένες αλλαγές θα χαθούν.
 confirm-discard-changes-dialog-confirm-button = Απόρριψη
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Παραβίαση ιστοσελίδας
 breach-alert-text = Από την τελευταία φορά που αλλάξατε τα στοιχεία σύνδεσής σας σε αυτόν τον ιστότοπο, έχουν υπάρξει περιπτώσεις διαρροής ή κλοπής κωδικών. Για να προστατεύσετε το λογαριασμό σας, αλλάξτε τον κωδικό σας.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -154,6 +160,7 @@ about-logins-breach-alert-learn-more-link = Μάθετε περισσότερα
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Ευάλωτος κωδικός πρόσβασης
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Μετάβαση στο { $hostname }
