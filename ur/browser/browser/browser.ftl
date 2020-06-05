@@ -262,6 +262,12 @@ popup-select-microphone =
     .value = شیئر کرنے کےلیے مائیکروفون:
     .accesskey = M
 popup-all-windows-shared = آپ کی سکرین پر نظر آنے والے تمام دریچے شیئر کیے جائیں گے۔
+popup-screen-sharing-not-now =
+    .label = ابھی نہیں
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = کبھی اجازت نہیں دیں
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
