@@ -4,9 +4,13 @@
 
 calendar-ics-file-dialog =
     .buttonlabelaccept = Εισαγωγή
+calendar-ics-file-dialog-import-event-button-label = Εισαγωγή συμβάντος
+calendar-ics-file-dialog-import-task-button-label = Εισαγωγή εργασίας
 calendar-ics-file-dialog-2 =
     .buttonlabelaccept = Εισαγωγή όλων
 calendar-ics-file-accept-button-ok-label = OK
+# $fileName (string) - The name of the file.
+calendar-ics-file-dialog-message = Θέλετε να εισάγετε το αρχείο "{ $fileName }";
 calendar-ics-file-dialog-message-2 = Εισαγωγή από αρχείο:
 calendar-ics-file-dialog-calendar-menu-label = Εισαγωγή στο ημερολόγιο:
 calendar-ics-file-import-success = Επιτυχής εισαγωγή!
