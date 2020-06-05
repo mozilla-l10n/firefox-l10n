@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Σφραγισμένα-χείλη">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Εισαγωγή προσώπου με σφραγισμένα χείλη">
+<!ENTITY SmileButton.label "Εισαγωγή Smiley">
 <!ENTITY SmileButton.tooltip "Εισαγωγή χαμογελαστού προσώπου">
-
