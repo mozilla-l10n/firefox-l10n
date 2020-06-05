@@ -181,9 +181,11 @@ monitor-no-breaches-description = Ndaipóri ñembogua ojekuaáva. Eñambuéramo,
 monitor-view-report-link = Ehecha marandu’i
     .title = Emoĩporã  ñembogua { -monitor-brand-short-name }-pe
 monitor-breaches-unresolved-title = Emoĩporã umi ñembyai
+monitor-breaches-unresolved-description = Ahechajey rire mba’emimi ñembyai rehegua ha roñeha’ã romo’ã ne marandu, ikatúma eikuaa ñembyai oĩporãmaha.
 monitor-manage-breaches-link = Emongu’e ñembogua
     .title = Emongu’e ñembogua { -monitor-brand-short-name }-pe
 monitor-breaches-resolved-title = ¡Iporã! Emoĩporãmbáma ñembogua ojekuaáva.
+monitor-breaches-resolved-description = Ne ñanduti veve ojehechárõ oĩha ñembyai pyahúpe, romomarandúta.
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
