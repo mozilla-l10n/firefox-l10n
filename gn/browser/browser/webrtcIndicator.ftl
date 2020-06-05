@@ -15,3 +15,5 @@ webrtc-sharing-window = Emoherakuãhína ambue tembipuru’i rovetã.
 webrtc-sharing-browser-window = Emoherakuãhína { -brand-short-name }.
 webrtc-sharing-screen = Emoherakuãhína ne mba’erechaha.
 webrtc-stop-sharing-button = Anive emoherakuã
+webrtc-minimize =
+    .title = Emomichĩ jehechaukaha
