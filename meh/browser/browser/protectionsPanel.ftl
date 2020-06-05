@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Nkene iin tixin sa nchu'un ichí tu'un. Chu'un ichí tuku ichika.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = ¿A nnuvi nuu ya'a? Chu'un ichí reporte
 
@@ -15,7 +14,6 @@ protections-panel-sitefixedsendreport-label = ¿A nnuvi nuu ya'a? Chu'un ichí r
 
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ¿Ntu íyo tiñu sitio?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = ¿Ntu íyo tiñu sitio?
@@ -45,6 +43,11 @@ protections-panel-not-blocking-label = Kuvi
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+protections-panel-site-not-working-view-issue-list-forms = Formularios
+protections-panel-site-not-working-view-issue-list-payments = Da nchuna
+protections-panel-site-not-working-view-issue-list-comments = Da tu'un
+protections-panel-site-not-working-view-issue-list-videos = Tutu káná
+protections-panel-site-not-working-view-send-report = Chu´un íchi reporte
 
 ##
 
