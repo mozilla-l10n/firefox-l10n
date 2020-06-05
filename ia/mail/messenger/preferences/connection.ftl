@@ -4,6 +4,7 @@
 
 connection-dns-over-https-url-resolver = Usar fornitor
     .accesskey = r
+connection-dns-over-https-custom-label = Personalisate
 connection-dialog-window =
     .title = Parametros de connexion
     .style =
