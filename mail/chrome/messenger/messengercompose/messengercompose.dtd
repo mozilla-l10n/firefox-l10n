@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "O">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Bifogningsfönstret">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "g">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Markera allt">
 <!ENTITY selectAllCmd.accesskey "M">
@@ -346,7 +339,7 @@
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Konvertera till…">
-<!ENTITY convertCloud.accesskey "K">
+<!ENTITY convertCloud.accesskey "v">
 <!ENTITY cancelUpload.label "Avbryt överföring">
 <!ENTITY cancelUpload.accesskey "A">
 <!ENTITY convertRegularAttachment.label "Vanlig bilaga">
