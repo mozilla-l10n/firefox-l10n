@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "μ">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Γραμματοσειρά">
 <!ENTITY FontFaceSelect.tooltip "Επιλογή γραμματοσειράς">
 <!ENTITY fontfaceMenu.label "Γραμματοσειρά">
 <!ENTITY fontfaceMenu.accesskey "Γ">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Μέγεθος γραμματοσειράς">
 <!ENTITY FontSizeSelect.tooltip "Επιλογή μεγέθους γραμματοσειράς">
 <!ENTITY decreaseFontSize.label "Μικρότερα">
 <!ENTITY decreaseFontSize.accesskey "ρ">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Ιδιότητες λίστας…">
 <!ENTITY listPropsCmd.accesskey "δ">
 
+<!ENTITY ParagraphSelect.title "Παράγραφος">
 <!ENTITY ParagraphSelect.tooltip "Επιλέξτε μια μορφή λίστας">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Κύριος μέρος κειμένου">
@@ -205,6 +208,7 @@
 <!ENTITY alignJustify.tooltip "Πλήρης στοίχιση">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Τοποθέτηση">
 <!ENTITY layer.tooltip "Επίπεδο">
 <!ENTITY layerSendToBack.tooltip "Μεταφορά πίσω">
 <!ENTITY layerBringToFront.tooltip "Μεταφορά μπροστά">
@@ -304,6 +308,7 @@
 <!ENTITY linkToolbarCmd.tooltip "Εισαγωγή νέου ή επεξεργασία ιδιοτήτων επιλεγμένου δεσμού">
 <!ENTITY anchorToolbarCmd.label "Άγκυρα">
 <!ENTITY anchorToolbarCmd.tooltip "Εισαγωγή νέας άγκυρας ή επεξεργασία ιδιοτήτων επιλεγμένης άγκυρας">
+<!ENTITY colorButtons.title "Χρώματα">
 <!ENTITY TextColorButton.tooltip "Επιλογή χρώματος κειμένου">
 <!ENTITY BackgroundColorButton.tooltip "Επιλογή χρώματος παρασκηνίου">
 <!ENTITY throbber.tooltip "Μετάβαση στην αρχική σελίδα της &vendorShortName;">
@@ -311,21 +316,35 @@
 <!ENTITY HighlightColorButton.tooltip "Επιλογή χρώματος επισήμανσης κειμένου">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Μέγεθος γραμματοσειράς">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ορισμός μεγέθους γραμματοσειράς">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Μικρότερο μέγεθος γραμματοσειράς">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Μεγαλύτερο μέγεθος γραμματοσειράς">
+<!ENTITY bold.label "Έντονα">
 <!ENTITY boldToolbarCmd.tooltip "Έντονα">
+<!ENTITY italic.label "Πλάγια">
 <!ENTITY italicToolbarCmd.tooltip "Πλάγια">
+<!ENTITY underline.label "Υπογράμμιση">
 <!ENTITY underlineToolbarCmd.tooltip "Υπογράμμιση">
+<!ENTITY bullets.label "Κουκκίδες">
 <!ENTITY bulletListToolbarCmd.tooltip "Εφαρμογή ή αφαίρεση λίστας με κουκίδες">
+<!ENTITY numbers.label "Αριθμοί">
 <!ENTITY numberListToolbarCmd.tooltip "Εφαρμογή ή αφαίρεση αριθμημένης λίστας">
+<!ENTITY outdent.label "Εξοχή">
 <!ENTITY outdentToolbarCmd.tooltip "Εξοχή κειμένου (μετακίνηση αριστερά)">
+<!ENTITY indent.label "Εσοχή">
 <!ENTITY indentToolbarCmd.tooltip "Εσοχή κειμένου (μετακίνηση δεξιά)">
+<!ENTITY AlignPopupButton.label "Στοίχιση">
 <!ENTITY AlignPopupButton.tooltip "Επιλογή στοίχισης κειμένου">
+<!ENTITY InsertPopupButton.label "Εισαγωγή">
 <!ENTITY InsertPopupButton.tooltip "Εισαγωγή συνδέσμου, άγκυρας, εικόνας, οριζόντιας γραμμής ή πίνακα">
+<!ENTITY alignLeftButton.label "Στοίχιση αριστερά">
 <!ENTITY alignLeftButton.tooltip "Στοίχιση κειμένου μαζί με αριστερό περιθώριο">
+<!ENTITY alignCenterButton.label "Στοίχιση στο κέντρο">
 <!ENTITY alignCenterButton.tooltip "Στοίχιση κειμένου στο κέντρο">
+<!ENTITY alignRightButton.label "Στοίχιση δεξιά">
 <!ENTITY alignRightButton.tooltip "Στοίχιση κειμένου μαζί με δεξιό περιθώριο">
+<!ENTITY alignJustifyButton.label "Πλήρης στοίχιση">
 <!ENTITY alignJustifyButton.tooltip "Στοίχιση κειμένου μαζί με δεξιό και αριστερό περιθώριο">
 
 <!-- Structure Toolbar Context Menu items -->

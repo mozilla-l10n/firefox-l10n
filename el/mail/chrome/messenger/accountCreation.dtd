@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (απομακρυσμένοι φάκελοι)">
 <!ENTITY pop3Long.label                  "POP3 (διατήρηση των e-mails στον υπολογιστή σας)">
 
+<!ENTITY manualConfigTable.summary       "Ρυθμίσεις διακομιστή">
 <!ENTITY incoming.label                  "Εισερχόμενα:">
 <!ENTITY incomingColumn.label            "Εισερχόμενα">
 <!ENTITY outgoing.label                  "Εξερχόμενα:">
