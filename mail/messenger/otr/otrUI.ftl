@@ -7,6 +7,7 @@ refresh-label = Het versleutelde gesprek vernieuwen
 auth-label = De identiteit van uw contact verifiëren
 reauth-label = De identiteit van uw contact opnieuw verifiëren
 auth-cancel = Annuleren
+auth-cancelAccessKey = A
 auth-error = Er is een fout opgetreden bij de verificatie van de identiteit van uw contact.
 auth-success = De verificatie van de identiteit van uw contact is met succes voltooid.
 auth-successThem = Uw contact heeft uw identiteit met succes geverifieerd. Misschien wilt u ook zijn/haar identiteit verifiëren door uw eigen vraag te stellen.
