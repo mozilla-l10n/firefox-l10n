@@ -22,9 +22,11 @@ policy-Bookmarks = Δημιουργία σελιδοδεικτών στη γρα
 policy-CaptivePortal = Ενεργοποίηση ή απενεργοποίηση υποστήριξης captive portal.
 policy-CertificatesDescription = Προσθήκη πιστοποιητικών ή χρήση ενσωματωμένων πιστοποιητικών.
 policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookies.
+policy-DisabledCiphers = Απενεργοποίηση κρυπτογράφησης.
 policy-DefaultDownloadDirectory = Ορισμός προεπιλεγμένου καταλόγου λήψης.
 policy-DisableAppUpdate = Αποτροπή ενημέρωσης προγράμματος περιήγησης.
 policy-DisableBuiltinPDFViewer = Απενεργοποίηση PDF.js, του ενσωματωμένου προγράμματος προβολής PDF στο { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Αποτροπή οποιασδήποτε ενέργειας από την προεπιλεγμένη λειτουργία προγράμματος περιήγησης. Ισχύει μόνο για Windows· οι άλλες πλατφόρμες δεν έχουν τέτοια υπηρεσία.
 policy-DisableDeveloperTools = Αποκλεισμός πρόσβασης στα εργαλεία προγραμματιστή.
 policy-DisableFeedbackCommands = Απενεργοποίηση εντολών για αποστολή σχολίων από το μενού "Βοήθεια" (Υποβολή σχολίων και αναφορά παραπλανητικής ιστοσελίδας).
 policy-DisableFirefoxAccounts = Απενεργοποίηση υπηρεσιών { -fxaccount-brand-name }, καθώς και του Sync.
@@ -51,6 +53,8 @@ policy-DontCheckDefaultBrowser = Απενεργοποίηση ελέγχου γ�
 policy-DownloadDirectory = Ορισμός και κλείδωμα καταλόγου λήψης.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ενεργοποίηση ή απενεργοποίηση φραγής περιεχομένου και προαιρετικό κλείδωμα.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Ενεργοποίηση ή απενεργοποίηση κρυπτογραφημένων επεκτάσεων πολυμέσων και προαιρετικό κλείδωμα.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -59,6 +63,7 @@ policy-ExtensionSettings = Διαχείριση όλων των πτυχών τ�
 policy-ExtensionUpdate = Ενεργοποίηση ή απενεργοποίηση αυτόματων ενημερώσεων επεκτάσεων.
 policy-FirefoxHome = Ρύθμιση παραμέτρων της Αρχικής Firefox.
 policy-FlashPlugin = Αποδοχή ή απόρριψη χρήσης του αρθρώματος Flash.
+policy-Handlers = Ρύθμιση παραμέτρων χειριστών προεπιλεγμένης εφαρμογής.
 policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ορισμός και προαιρετικό κλείδωμα της αρχικής σελίδας.
@@ -67,6 +72,8 @@ policy-LegacyProfiles = Απενεργοποίηση της λειτουργία
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Ενεργοποίηση προεπιλεγμένης ρύθμισης συμπεριφοράς του παλαιού SameSite cookie.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά στην παλαιά συμπεριφορά SameSite για cookies σε καθορισμένες ιστοσελίδες.
 
 ##
 
