@@ -68,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "s">
 <!ENTITY newsrcFilePath.label "File newsrc:">
 <!ENTITY newsrcPicker.label "Seliger le file newsrc">
+<!ENTITY newsrcFilePath1.label "File news.rc:">
+<!ENTITY newsrcPicker1.label "Seliger le file news.rc">
 <!ENTITY abbreviate.label "Monstrar le nomines de gruppos in le pannello de dossiers como:">
 <!ENTITY abbreviateOn.label "Nomine complete (Per exemplo: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomine abbreviate (Per exemplo: 'n.p.m.mail-news')">
@@ -75,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codification del testo predefinite:">
 <!ENTITY localPath.label "Directorio local:">
+<!ENTITY localPath1.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Selige directorio local">
 <!ENTITY browseFolder.label "Percurrer…">
 <!ENTITY browseFolder.accesskey "P">

@@ -15,6 +15,8 @@
 <!ENTITY name.accesskey "T">
 <!ENTITY email.label "Adresse de email:">
 <!ENTITY email.accesskey "e">
+<!ENTITY catchAll.label "Replicar ab iste identitate quando le titulos de consignation concorda:">
+<!ENTITY catchAll.accesskey "c">
 <!ENTITY replyTo.label "Adresse pro responsas:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "Le destinatarios respondera a iste altere adresse">

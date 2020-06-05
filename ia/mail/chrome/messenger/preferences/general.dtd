@@ -43,3 +43,5 @@
 <!ENTITY removeSearchEngine.label         "Remover">
 <!ENTITY removeSearchEngine.accesskey     "v">
 
+<!ENTITY minimizeToTray.label             "Quando &brandShortName; es minimisate, mover lo al zona del avisos">
+<!ENTITY minimizeToTray.accesskey         "m">
