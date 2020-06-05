@@ -500,6 +500,7 @@ home-prefs-topsites-description = Taq ruxaq yalan ye'atz'ët
 home-prefs-recommended-by-header =
     .label = Chilab'en ruma { $provider }
 home-prefs-recommended-by-description = Nïm rupam chijun ri ajk'amaya'l, ichinan awuma rat
+home-prefs-recommended-by-description-update = Man relik ta chi rupam chijun ri ajk'amaya'l, to'on ruma { $provider }
 
 ##
 

@@ -191,6 +191,14 @@ monitor-manage-breaches-link = Kenuk'samajïx taq tz'ilanem
 monitor-breaches-resolved-title = ¡Yalan ütz! Xe'asöl ronojel ri taq tz'ilanem etaman kiwa.
 monitor-breaches-resolved-description = We ri ataqoya'l xtiwachin pa xab'achike k'ak'a' tz'ilanem, xtiqaya' rutzijol chawe.
 # Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } richin { $numBreaches } tz'ilanem ya'on retal achi'el solon
+       *[other] { $numBreachesResolved } richin { $numBreaches } taq tz'ilanem ya'on ketal achi'el esolon
+    }
+# Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % tz'aqatisan
 monitor-partial-breaches-motivation-title-start = ¡Xatikirisaj ütz!

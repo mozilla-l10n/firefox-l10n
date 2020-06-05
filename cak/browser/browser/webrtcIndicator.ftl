@@ -19,3 +19,5 @@ webrtc-microphone-button =
     .title = Nikomonïx ri q'asäy tzij. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
 webrtc-camera-button =
     .title = Nikomonïx ri elesäy awachib'al. Tapitz'a' richin nachajij ri rub'eyal yakomonin.
+webrtc-minimize =
+    .title = Tich'utinisäx ya'öl retal
