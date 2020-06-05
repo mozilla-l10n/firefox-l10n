@@ -20,5 +20,14 @@ state-not_private-label = Njewěsty
 state-unverified-label = Njewobkšuśony
 state-private-label = Priwatny
 state-finished-label = Dokóńcone
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Sćo pśespytał identitu { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = Identita { $name } njejo se wobkšuśiła.
+verify-title = Identitu wašogo kontakta pśespytowaś
 error-title = Zmólka
 success-title = Koděrowanje wót kóńca do kóńca
+successThem-title = Identitu wašogo kontakta pśespytowaś
+fail-title = Pśespytanje njejo móžne
