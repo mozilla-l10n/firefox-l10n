@@ -270,6 +270,10 @@ popup-screen-sharing-not-now =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Συνέχεια στην καρτέλα
+sharing-warning-disable-for-session =
+    .label = Απενεργοποίηση προστασίας κοινής χρήσης για αυτή τη συνεδρία
 
 ## DevTools F12 popup
 
@@ -282,6 +286,8 @@ urlbar-placeholder =
     .placeholder = Αναζήτηση όρου ή εισαγωγή διεύθυνσης
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα
+urlbar-permissions-granted =
+    .tooltiptext = Έχετε χορηγήσει πρόσθετα δικαιώματα σε αυτή την ιστοσελίδα.
 urlbar-switch-to-tab =
     .value = Μετάβαση σε καρτέλα:
 # Used to indicate that a selected autocomplete entry is provided by an extension.

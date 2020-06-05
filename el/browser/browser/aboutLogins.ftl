@@ -147,6 +147,9 @@ confirm-discard-changes-dialog-confirm-button = Απόρριψη
 ## Breach Alert notification
 
 breach-alert-text = Από την τελευταία φορά που αλλάξατε τα στοιχεία σύνδεσής σας σε αυτόν τον ιστότοπο, έχουν υπάρξει περιπτώσεις διαρροής ή κλοπής κωδικών. Για να προστατεύσετε το λογαριασμό σας, αλλάξτε τον κωδικό σας.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Μετάβαση στο { $hostname }
 about-logins-breach-alert-learn-more-link = Μάθετε περισσότερα
 
 ## Vulnerable Password notification
@@ -168,6 +171,8 @@ about-logins-error-message-default = Προέκυψε σφάλμα κατά τη
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Εξαγωγή αρχείου συνδέσεων
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
