@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Οι χορηγοί μας & το απόρρητ
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Τέλος
+newtab-privacy-modal-button-manage = Διαχείριση ρυθμίσεων χορηγούμενου περιεχομένου
 newtab-privacy-modal-header = Το απόρρητό σας έχει σημασία.
 newtab-privacy-modal-paragraph-2 =
     Εκτός από την παράδοση μαγευτικών ιστοριών, σας εμφανίζουμε σχετικό,

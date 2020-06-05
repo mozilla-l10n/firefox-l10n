@@ -267,9 +267,15 @@ popup-all-windows-shared = Θα μοιραστούν όλα τα ορατά πα
 popup-screen-sharing-not-now =
     .label = Όχι τώρα
     .accesskey = ρ
+popup-screen-sharing-never =
+    .label = Να μην επιτρέπεται ποτέ
+    .accesskey = Ν
+popup-silence-notifications-checkbox = Απενεργοποίηση ειδοποιήσεων από το { -brand-short-name } κατά την κοινή χρήση
+popup-silence-notifications-checkbox-warning = Το { -brand-short-name } δεν θα εμφανίζει ειδοποιήσεις κατά την κοινή χρήση.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Μοιράζεστε το { -brand-short-name }. Άλλα άτομα μπορούν να δουν όταν μεταβείτε σε μια νέα καρτέλα.
 sharing-warning-proceed-to-tab =
     .label = Συνέχεια στην καρτέλα
 sharing-warning-disable-for-session =
