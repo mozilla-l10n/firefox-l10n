@@ -500,6 +500,7 @@ home-prefs-topsites-description = Ismal i tettwaliḍ aṭas
 home-prefs-recommended-by-header =
     .label = Iwelleh-it-id { $provider }
 home-prefs-recommended-by-description = Agbur meqqren seg umaḍal, yettwag i kečč
+home-prefs-recommended-by-description-update = Agbur yelhan i yettwafen deg Web sɣur { $provider }
 
 ##
 
