@@ -27,8 +27,11 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
+<!ENTITY importTitle.label        "Importar assistente &brandShortName;">
+<!ENTITY importShortDesc.label    "Importar adresse email, libros de adresses, parametros e filtros ex altere programmas">
 
 <!ENTITY importDescription1.label "Iste assistente importa in &brandShortName; le messages de posta, entratas de adressario, fluxos subscribite, preferentias e/o filtros ab altere programmas de posta e formatos commun de adressario.">
+<!ENTITY importDescription2.label "Un vice que illos ha essite importate, tu potera acceder los ab intra &brandShortName;.">
 
 <!ENTITY acctName.label           "Nomine:">
 <!ENTITY acctName.accesskey       "N">

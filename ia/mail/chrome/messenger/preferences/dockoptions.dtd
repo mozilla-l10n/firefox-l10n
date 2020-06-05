@@ -11,3 +11,6 @@
 <!ENTITY newMessagesCountDock.accesskey        "m">
 <!ENTITY showAllUnreadMessagesCount.label      "Numero de messages non lecte">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "u">
+<!ENTITY dockIconBadge.label                   "Insignia del icone del application">
+<!ENTITY dockIconShow.label                    "Insignia icone del application con:">
+<!ENTITY directNotificationSettings.label      "Tu pote disactivar le insignia sur le pannello del avisos del Preferentias de systema.">
