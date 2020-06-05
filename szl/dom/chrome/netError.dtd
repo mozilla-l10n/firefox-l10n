@@ -8,8 +8,12 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Połōnczynie sie niy podarziło">
+<!ENTITY connectionFailure.longDesc "<p>Chocioż strōna wyglōndo na dobro, przeglōndarka niy poradziyła nawiōnzać połōnczynio.</p><ul><li>Możno strōna je czasowo niydostympno? Sprōbuj zaś niyskorzij.</li><li>Niy idzie ôdewrzić żodnyj strōny?  Badnij na połōnczynie kōmputra z necym.</li><li>Kōmputer je chrōniōny ôd firewall abo serwer proxy? Felerne nasztalowania mogōm zawodzać w przeglōndaniu intenetu.</li></ul>">
 
+<!ENTITY deniedPortAccess.title "Port zastawiōny skuli bezpieczyństwa">
+<!ENTITY deniedPortAccess.longDesc "<p>Proszōno adresa mo port (bez przikłod <q>mozilla.org:80</q> do portu 80 na mozilla.org), co normalnie je używany do czego <em>inkszego</em> jak przeglōndanie neca. Przeglōndarka ôdciepała prośba skuli twojij ôchrōny i bezpieczyństwa.</p>">
 
+<!ENTITY dnsNotFound.title "Adresa niy ma znojdniynto">
 
 
 
