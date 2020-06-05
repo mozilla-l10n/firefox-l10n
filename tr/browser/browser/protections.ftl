@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] veri ihlalinde bilgileriniz ele geçirildi
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] veri ihlali çözüldü olarak işaretlendi
+       *[other] veri ihlali çözüldü olarak işaretlendi
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -164,7 +172,19 @@ password-warning =
         [one] Kayıtlı hesabınız bir veri ihlalinde ele geçirilmiş olabilir. Güvenliğinizi artırmak için bu parolayı değiştirin. <a data-l10n-name="lockwise-link">Kayıtlı hesapları göster</a>
        *[other] Kayıtlı hesaplarınız bir veri ihlalinde ele geçirilmiş olabilir. Güvenliğinizi artırmak için bu parolayı değiştirin. <a data-l10n-name="lockwise-link">Kayıtlı hesapları göster</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] parolanız çözülmemiş veri ihlallerinde ele geçirildi
+       *[other] parolanız çözülmemiş veri ihlallerinde ele geçirildi
+    }
 monitor-no-breaches-title = Her şey yolunda!
+monitor-no-breaches-description = Bilinen veri ihlallerinde yer almıyorsunuz. Bu durum değişirse size haber vereceğiz.
+monitor-view-report-link = Raporu görüntüle
+    .title = { -monitor-brand-short-name }'de ihlalleri çözün
+monitor-breaches-unresolved-title = İhlallerinizi çözün
 monitor-manage-breaches-link = İhlalleri yönet
     .title = İhlalleri { -monitor-brand-short-name }’de yönetin
 monitor-breaches-resolved-title = Güzel! Bilinen tüm ihlalleri çözdünüz.
