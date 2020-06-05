@@ -18,6 +18,7 @@
 <!ENTITY e2eLearnMore.label "Saper plus">
 
 <!ENTITY e2eEnc.description "Sin cryptographia testa a testa le contentos de messages es facilemente exponite a tu fornitor de email e a surveliantia de massa.">
+<!ENTITY e2eeReqWarning.description "Si tu require cryptographia, pro inviar un message tu debe haber le clave public o le certificato de cata destinatario.">
 
 <!ENTITY e2eTechPref.description "Technologia de cryptographia preferite:">
 
