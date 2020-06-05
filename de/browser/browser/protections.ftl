@@ -146,6 +146,9 @@ monitor-breaches-resolved-description = Wenn Ihre E-Mail-Adresse in neuen Datenl
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% erledigt
+monitor-partial-breaches-motivation-title-start = Toller Start!
+monitor-partial-breaches-motivation-title-middle = Weiter so!
+monitor-partial-breaches-motivation-title-end = Fast fertig! Weiter so.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
