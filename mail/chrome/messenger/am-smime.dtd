@@ -13,6 +13,10 @@
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Utilitza aquest certificat per xifrar i desxifrar missatges que us hagin enviat:">
 
+<!ENTITY e2eLearnMore.label "Més informació">
+
+
+
 <!ENTITY digitalSign.certificate.button "Seleccioneu…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Neteja">
@@ -31,8 +35,14 @@
 <!ENTITY manageCerts2.accesskey "G">
 <!ENTITY manageDevices.label "Dispositius de seguretat">
 <!ENTITY manageDevices.accesskey "s">
-<!-- Strings for the cert picker dialog -->
 
+
+
+
+
+
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seleccioneu un certificat">
 <!ENTITY certPicker.info  "Certificat:">
 <!ENTITY certPicker.detailsLabel "Detalls del certificat seleccionat:">

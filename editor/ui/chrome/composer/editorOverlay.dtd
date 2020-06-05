@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Tipus de lletra">
 <!ENTITY FontFaceSelect.tooltip "Trieu un tipus de lletra">
 <!ENTITY fontfaceMenu.label "Tipus de lletra">
 <!ENTITY fontfaceMenu.accesskey "T">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Mida de la lletra">
 <!ENTITY FontSizeSelect.tooltip "Trieu una mida de lletra">
 <!ENTITY decreaseFontSize.label "Més petita">
 <!ENTITY decreaseFontSize.accesskey "p">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Propietats de la llista…">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "Paràgraf">
 <!ENTITY ParagraphSelect.tooltip "Trieu un format de paràgraf">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Text del cos">
@@ -205,6 +208,7 @@
 <!ENTITY alignJustify.tooltip "Alineació justificada">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Posició">
 <!ENTITY layer.tooltip "Capa">
 <!ENTITY layerSendToBack.tooltip "Torna enrere">
 <!ENTITY layerBringToFront.tooltip "Porta endavant">
