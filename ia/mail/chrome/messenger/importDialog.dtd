@@ -33,13 +33,19 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Iste assistente importa in &brandShortName; le messages de posta, entratas de adressario, fluxos subscribite, preferentias e/o filtros ab altere programmas de posta e formatos commun de adressario.">
 <!ENTITY importDescription2.label "Un vice que illos ha essite importate, tu potera acceder los ab intra &brandShortName;.">
 
+<!ENTITY selectDescription.label  "Elige le typo de file que tu vole importar:">
+<!ENTITY selectDescriptionB.label "Elige un conto existente o crea un nove conto:">
+<!ENTITY selectDescription.accesskey "c">
 <!ENTITY acctName.label           "Nomine:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Nulle application o file ex que importar datos ha essite trovate.">
 
+<!ENTITY back.label               "&lt; Retro">
 <!ENTITY forward.label            "Sequente &gt;">
 <!ENTITY finish.label             "Finir">
 <!ENTITY cancel.label             "Cancellar">
 
+<!ENTITY select.label             "o eliger le typo de material a importar:">
 
 <!ENTITY title.label              "Titulo">
 <!ENTITY processing.label         "Importation…">
