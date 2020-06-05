@@ -334,7 +334,7 @@
 <!ENTITY bullets.label "Punktlista">
 <!ENTITY bulletListToolbarCmd.tooltip "Använd eller ta bort punktlista">
 <!ENTITY numbers.label "Numrerad">
-<!ENTITY numberListToolbarCmd.tooltip "Tillämpa eller ta bort numrerad lista">
+<!ENTITY numberListToolbarCmd.tooltip "Använd eller ta bort numrerad lista">
 <!ENTITY outdent.label "Minska indrag">
 <!ENTITY outdentToolbarCmd.tooltip "Dra ut text (flytta åt vänster)">
 <!ENTITY indent.label "Öka indrag">

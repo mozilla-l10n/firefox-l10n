@@ -319,7 +319,7 @@
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Understruken">
 <!ENTITY bulletListToolbarCmd.tooltip "Använd eller ta bort punktlista">
-<!ENTITY numberListToolbarCmd.tooltip "Tillämpa eller ta bort numrerad lista">
+<!ENTITY numberListToolbarCmd.tooltip "Använd eller ta bort numrerad lista">
 <!ENTITY outdentToolbarCmd.tooltip "Dra ut text (flytta åt vänster)">
 <!ENTITY indentToolbarCmd.tooltip "Dra in text (flytta åt höger)">
 <!ENTITY AlignPopupButton.tooltip "Välj kantställning">
