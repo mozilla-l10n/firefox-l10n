@@ -127,6 +127,11 @@ about-logins-copy-password-os-auth-dialog-message-win = Akken ad d-tneɣleḍ aw
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Nɣel awal-inek uffir yettwaskelsen
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Akken ad tketreḍ inekcam-inek/inem, sekcem anekcum-inek/inem n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = Akter n yinekcam d wawalen uffiren yettwasekles
 
 ## Master Password notification
 
