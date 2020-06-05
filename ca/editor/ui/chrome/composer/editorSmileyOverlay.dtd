@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Emoticona">
 <!ENTITY insertSmiley.accesskey "E">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Llavis segellats">
 <!ENTITY smiley16Cmd.accesskey "L">
 <!ENTITY smiley16Cmd.tooltip "Insereix una cara amb llavis segellats">
+<!ENTITY SmileButton.label "Insereix una emoticona">
 <!ENTITY SmileButton.tooltip "Insereix una cara somrient">
-
