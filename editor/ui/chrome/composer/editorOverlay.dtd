@@ -333,15 +333,23 @@
 <!ENTITY underlineToolbarCmd.tooltip "Subratllat">
 <!ENTITY bullets.label "Pics">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplica o elimina la llista de pics">
-<!ENTITY numbers.label "Números">
+<!ENTITY numbers.label "Nombres">
 <!ENTITY numberListToolbarCmd.tooltip "Aplica o elimina la llista numerada">
+<!ENTITY outdent.label "Sagna a la inversa">
 <!ENTITY outdentToolbarCmd.tooltip "Treu el sagnat del text (mou a l'esquerra)">
+<!ENTITY indent.label "Sagna">
 <!ENTITY indentToolbarCmd.tooltip "Sagna el text (mou a la dreta)">
+<!ENTITY AlignPopupButton.label "Alineació">
 <!ENTITY AlignPopupButton.tooltip "Trieu l'alineació del text">
+<!ENTITY InsertPopupButton.label "Insereix">
 <!ENTITY InsertPopupButton.tooltip "Insereix un enllaç, àncora, imatge, línia horitzontal o taula">
+<!ENTITY alignLeftButton.label "Alineació esquerra">
 <!ENTITY alignLeftButton.tooltip "Alinea el text al marge esquerra">
+<!ENTITY alignCenterButton.label "Alineació centrada">
 <!ENTITY alignCenterButton.tooltip "Centra el text">
+<!ENTITY alignRightButton.label "Alineació dreta">
 <!ENTITY alignRightButton.tooltip "Alinea el text al marge dret">
+<!ENTITY alignJustifyButton.label "Alineació justificada">
 <!ENTITY alignJustifyButton.tooltip "Alinea el text als marges dret i esquerra">
 
 <!-- Structure Toolbar Context Menu items -->
