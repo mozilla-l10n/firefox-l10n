@@ -30,6 +30,7 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Άνοιγμα μενού
+about-logins-menu-menuitem-export-logins = Εξαγωγή συνδέσεων…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Επιλογές
@@ -49,6 +50,7 @@ login-list-count =
 login-list-sort-label-text = Ταξινόμηση κατά:
 login-list-name-option = Όνομα (Α-Ω)
 login-list-name-reverse-option = Όνομα (Ω-Α)
+about-logins-login-list-alerts-option = Ειδοποιήσεις
 login-list-last-changed-option = Τελευταία αλλαγή
 login-list-last-used-option = Τελευταία χρήση
 login-list-intro-title = Δεν βρέθηκαν συνδέσεις
@@ -98,6 +100,7 @@ login-item-time-used = Τελευταία χρήση: { DATETIME($timeUsed, day:
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
