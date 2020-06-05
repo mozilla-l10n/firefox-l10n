@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Πιστοποιητικό
 
 ## Error messages
 
+certificate-viewer-error-message = Δεν μπορέσαμε να βρούμε τις πληροφορίες του πιστοποιητικού, ή το πιστοποιητικό έχει καταστραφεί. Παρακαλούμε δοκιμάστε ξανά.
 certificate-viewer-error-title = Κάτι πήγε στραβά.
 
 ## Certificate information labels
@@ -48,9 +49,12 @@ certificate-viewer-validity = Εγκυρότητα
 certificate-viewer-miscellaneous = Διάφορα
 certificate-viewer-basic-constraints = Βασικοί περιορισμοί
 certificate-viewer-key-usages = Χρήσεις κλειδιού
+certificate-viewer-extended-key-usages = Εκτεταμένες χρήσεις κλειδιού
+certificate-viewer-ocsp-stapling = Συρραφή OCSP
+certificate-viewer-authority-info-aia = Πληροφορίες αρχής (AIA)
 certificate-viewer-certificate-policies = Πολιτικές πιστοποιητικού
 certificate-viewer-embedded-scts = Ενσωματωμένα SCT
-
+certificate-viewer-crl-endpoints = Τελικά σημεία CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Λήψη
@@ -70,6 +74,16 @@ certificate-viewer-download-pem = PEM (πιστοποιητικό)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (αλυσίδα)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Αυτή η επέκταση έχει επισημανθεί ως κρίσιμη, πράγμα που σημαίνει ότι οι πελάτες πρέπει να απορρίψουν το πιστοποιητικό εάν δεν το καταλαβαίνουν.
+certificate-viewer-export = Εξαγωγή
+    .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Τα πιστοποιητικά σας
+certificate-viewer-tab-people = Άτομα
+certificate-viewer-tab-servers = Διακομιστές
+certificate-viewer-tab-ca = Αρχές
+certificate-viewer-tab-unkonwn = Άγνωστο
