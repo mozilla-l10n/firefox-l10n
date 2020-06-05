@@ -57,14 +57,19 @@ policy-LegacyProfiles = Disactivar le function que fortia le creation de un prof
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Activar parametro pro usar como predefinite le comportamento ancian del attributo SameSite pro le cookies.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reverter a comportamento ancian de SameSite pro cookies sur sitos specific.
 
 ##
 
 policy-LocalFileLinks = Permitter a sitos web specific de ligar a files local.
 policy-NetworkPrediction = Activar o disactivar prediction del rete (prelectura del DNS).
 policy-OfferToSaveLogins = Fortiar que le parametro permitte a { -brand-short-name } de offerer de memorisar credentiales. Le valores "true" e "false" es acceptate.
+policy-OfferToSaveLoginsDefault = Indica le valor predefinite pro permitter a { -brand-short-name } de offerer de memorisar credentiales. Le valores "true" e "false" es acceptate. Le valores "ver" e "false" es acceptate.
 policy-OverrideFirstRunPage = Supplantar le pagina del lanceamento initial.
 policy-OverridePostUpdatePage = Supplantar le pagina de “Novas” post-actualisation. Defini iste criterio a blanc si tu desira disactivar le pagina de post-actualisation.
+policy-PasswordManagerEnabled = Activar salvamento de contrasignos al gestor de contrasignos.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Disactivar o configurar PDF.js, le visor de PDF integrate in { -brand-short-name }.
 policy-Preferences = Definir e blocar le valor de un sub-ensemble de preferentias.
 policy-PromptForDownloadLocation = Demandar ubi salvar le files quando on discarga.
 policy-Proxy = Configurar le parametros del servitor proxy.
