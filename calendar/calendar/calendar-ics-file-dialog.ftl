@@ -9,3 +9,4 @@ calendar-ics-file-dialog-2 =
 calendar-ics-file-accept-button-ok-label = OK
 calendar-ics-file-dialog-message-2 = Εισαγωγή από αρχείο:
 calendar-ics-file-dialog-calendar-menu-label = Εισαγωγή στο ημερολόγιο:
+calendar-ics-file-import-success = Επιτυχής εισαγωγή!
