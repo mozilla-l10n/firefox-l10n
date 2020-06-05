@@ -65,6 +65,7 @@ policy-LegacyProfiles = Disattiva la funzione che impone profili separati per og
 policy-LegacySameSiteCookieBehaviorEnabled = Attiva impostazione per utilizzare come predefinito il comportamento legacy dell’attributo SameSite per i cookie.
 policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ripristina nei siti specificati il comportamento legacy dell’attributo SameSite per i cookie.
 policy-LocalFileLinks = Consenti a determinati siti web di usare link a file locali.
+policy-MasterPassword = Richiedi o impedisci l’utilizzo di una password principale.
 policy-NetworkPrediction = Attiva o disattiva “network prediction” (prelettura DNS).
 policy-NewTabPage = Attiva o disattiva la pagina Nuova scheda.
 policy-NoDefaultBookmarks = Disattiva la creazione dei segnalibri predefiniti di { -brand-short-name } e dei segnalibri intelligenti (“Più visitati”, “Etichette recenti”). Nota: questo criterio ha effetto solo se utilizzato prima della prima apertura del profilo.
