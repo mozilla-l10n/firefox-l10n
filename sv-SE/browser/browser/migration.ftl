@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = Importguiden
 import-from =
     { PLATFORM() ->
         [windows] Importera inställningar, bokmärken, historik, lösenord och annan data från:
