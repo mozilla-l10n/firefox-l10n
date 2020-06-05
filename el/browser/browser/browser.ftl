@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Ιδιωτική Περιήγηση)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Ιδιωτική Περιήγηση)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Ιδιωτική Περιήγηση)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Ιδιωτική Περιήγηση)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -138,12 +136,10 @@ urlbar-midi-blocked =
     .tooltiptext = Έχετε αποκλείσει την πρόσβαση MIDI για αυτή την ιστοσελίδα.
 urlbar-install-blocked =
     .tooltiptext = Έχετε αποκλείσει την εγκατάσταση προσθέτων για αυτή την ιστοσελίδα.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Επεξεργασία σελιδοδείκτη ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -157,6 +153,8 @@ page-action-manage-extension =
     .label = Διαχείριση επέκτασης…
 page-action-remove-from-urlbar =
     .label = Αφαίρεση από τη γραμμή διευθύνσεων
+page-action-remove-extension =
+    .label = Αφαίρεση επέκτασης
 
 ## Auto-hide Context Menu
 
@@ -172,14 +170,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Αυτή τη φορά, αναζήτηση με:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Αλλαγή ρυθμίσεων αναζήτησης
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Αλλαγή ρυθμίσεων αναζήτησης
-
 search-one-offs-context-open-new-tab =
     .label = Αναζήτηση σε νέα καρτέλα
     .accesskey = T
@@ -195,10 +191,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Εμφάνιση επεξεργαστή κατά την αποθήκευση
     .accesskey = Ε
-
 bookmark-panel-done-button =
     .label = Τέλος
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -256,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Ελαχιστοποίηση
+browser-window-maximize-button =
+    .tooltiptext = Μεγιστοποίηση
 browser-window-close-button =
     .tooltiptext = Κλείσιμο
 
@@ -268,6 +264,9 @@ popup-select-microphone =
     .value = Μοιραστείτε το μικρόφωνο:
     .accesskey = Μ
 popup-all-windows-shared = Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.
+popup-screen-sharing-not-now =
+    .label = Όχι τώρα
+    .accesskey = ρ
 
 ## WebRTC window or screen share tab switch warning
 
@@ -285,11 +284,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα
 urlbar-switch-to-tab =
     .value = Μετάβαση σε καρτέλα:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Επέκταση:
-
 urlbar-go-button =
     .tooltiptext = Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων
 urlbar-page-action-button =
