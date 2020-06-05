@@ -22,5 +22,5 @@ msgevent-rcvdmsg_unencrypted = Slědowaca powěsć wot { $name } njebě zaklučo
 context-gone_secure_private = Priwatna konwersacija z { $name } je so započała.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-context-gone_secure_unverified = Zaklučowana, ale njewobkrućena konwersacije z { $name } je so započała.
+context-gone_secure_unverified = Zaklučowana, ale njewobkrućena konwersacija z { $name } je so započała.
 resent = [znowa pósłany]
