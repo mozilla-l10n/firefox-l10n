@@ -24,10 +24,13 @@ policy-Cookies = Permitter o refusar al sitos web de deponer cookies.
 policy-DisabledCiphers = Disactivar cryptographias.
 policy-DefaultDownloadDirectory = Selige le directorio predefinite pro discargamentos.
 policy-DisableAppUpdate = Impedir a { -brand-short-name } de actualisar.
+policy-DisableDefaultClientAgent = Impedir al application agente predefinite de interprender ulle actiones. Applicabile solo a Windows; altere systemas operative non ha le agente.
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del disveloppamento.
 policy-DisableFeedbackCommands = Disactivar le commandos pro inviar opinion ab le menu Adjuta ("Inviar opinion" e "Denunciar un sito fraudulente").
 policy-DisableForgetButton = Impedir accesso al button Oblidar.
+policy-DisableFormHistory = Non rememorar le chronologia de recercas e formularios.
 policy-DisableMasterPasswordCreation = Si ver, non pote esser create un contrasigno maestro.
+policy-DisablePasswordReveal = Non permitter de monstrar le contrasignos in le credentiales salvate.
 policy-DisableProfileImport = Disactivar le commando del menu pro importar datos ab un altere application.
 policy-DisableSafeMode = Disactivar le functionalitate pro reinitiar in Modo secur. Nota: le clave Shift pro inserer le Modo secur pote solmente esser disactivate sur Windows per le politicas de gruppo.
 policy-DisableSecurityBypass = Impedir al usator de ignorar certe avisos de securitate.
@@ -39,6 +42,8 @@ policy-DontCheckDefaultClient = Disactivar le verification de cliente predefinit
 policy-DownloadDirectory = Configurar e blocar le plica del discargas.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activar o disactivar le blocage de contento e optionalmente serrar lo.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Activar o disactivar le extensiones cifrate de medios e optionalmente blocar los.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
