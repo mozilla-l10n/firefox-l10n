@@ -206,6 +206,9 @@ about-logins-error-message-default = Une erreur sâ€™est produite en essayant dâ€
 
 # Title of the file picker dialog
 about-logins-export-file-picker-title = Exporter le fichier des identifiants
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = identifiants.csv
 about-logins-export-file-picker-export-button = Exporter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
