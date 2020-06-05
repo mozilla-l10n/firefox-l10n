@@ -13,6 +13,7 @@
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Usa iste certificato pro cryptar e decryptar messages inviate a te:">
 
+<!ENTITY e2eTitle.label "Cryptographia testa a testa">
 <!ENTITY e2eLearnMore.label "Saper plus">
 
 
