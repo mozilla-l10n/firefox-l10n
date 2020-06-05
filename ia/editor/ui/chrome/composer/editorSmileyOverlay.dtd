@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Bucca sigillate">
 <!ENTITY smiley16Cmd.accesskey "t">
 <!ENTITY smiley16Cmd.tooltip "Inserer un emoticone con bucca clause">
+<!ENTITY SmileButton.label "Inserer emoticone">
 <!ENTITY SmileButton.tooltip "Inserer un emoticone surridente">
