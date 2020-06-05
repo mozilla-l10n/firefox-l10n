@@ -210,7 +210,9 @@
 <!-- Layer toolbar items -->
 <!ENTITY absolutePosition.label "Posició">
 <!ENTITY layer.tooltip "Capa">
+<!ENTITY decreaseZIndex.label "Envia al darrere">
 <!ENTITY layerSendToBack.tooltip "Torna enrere">
+<!ENTITY increaseZIndex.label "Envia al davant">
 <!ENTITY layerBringToFront.tooltip "Porta endavant">
 
 <!ENTITY increaseIndent.label "Augmenta el sagnat">
@@ -308,20 +310,30 @@
 <!ENTITY linkToolbarCmd.tooltip "Insereix un enllaç nou o edita les propietats de l'enllaç seleccionat">
 <!ENTITY anchorToolbarCmd.label "Àncora">
 <!ENTITY anchorToolbarCmd.tooltip "Insereix una àncora amb nom nova o edita les propietats de l'àncora seleccionada">
+<!ENTITY colorButtons.title "Colors">
 <!ENTITY TextColorButton.tooltip "Trieu un color per al text">
 <!ENTITY BackgroundColorButton.tooltip "Trieu un color per al fons">
 <!ENTITY throbber.tooltip "Vés a la pàgina inicial de &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Vés a la pàgina inicial del &brandShortName;">
+<!ENTITY HighlightColorButton.label "Marcador">
 <!ENTITY HighlightColorButton.tooltip "Trieu el color del ressaltat del text">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Mida de la lletra">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Defineix la mida del tipus de lletra">
+<!ENTITY smaller.label "Més petita">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mida de lletra més petita">
+<!ENTITY larger.label "Més gran">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Mida de lletra més gran">
+<!ENTITY bold.label "Negreta">
 <!ENTITY boldToolbarCmd.tooltip "Negreta">
+<!ENTITY italic.label "Cursiva">
 <!ENTITY italicToolbarCmd.tooltip "Cursiva">
+<!ENTITY underline.label "Subratllat">
 <!ENTITY underlineToolbarCmd.tooltip "Subratllat">
+<!ENTITY bullets.label "Pics">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplica o elimina la llista de pics">
+<!ENTITY numbers.label "Números">
 <!ENTITY numberListToolbarCmd.tooltip "Aplica o elimina la llista numerada">
 <!ENTITY outdentToolbarCmd.tooltip "Treu el sagnat del text (mou a l'esquerra)">
 <!ENTITY indentToolbarCmd.tooltip "Sagna el text (mou a la dreta)">
