@@ -52,9 +52,11 @@ policy-ExtensionSettings = Gerer tote le aspectos del installation de extensione
 policy-ExtensionUpdate = Activar o disactivar le actualisation automatic de extensiones.
 policy-HardwareAcceleration = Si false, disactivar le acceleration hardware.
 policy-InstallAddonsPermission = Permitter a certe sitos web de installar additivos.
+policy-LegacyProfiles = Disactivar le function que fortia le creation de un profilo separate pro cata installation.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Activar parametro pro usar como predefinite le comportamento ancian del attributo SameSite pro le cookies.
 
 ##
 
