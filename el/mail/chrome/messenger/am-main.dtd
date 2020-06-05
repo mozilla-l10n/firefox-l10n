@@ -15,6 +15,8 @@
 <!ENTITY name.accesskey "μ">
 <!ENTITY email.label "Διεύθυνση email:">
 <!ENTITY email.accesskey "ε">
+<!ENTITY catchAll.label "Απάντηση από αυτή την ταυτότητα όταν ταιριάζουν οι επικεφαλίδες παράδοσης:">
+<!ENTITY catchAll.accesskey "π">
 <!ENTITY replyTo.label "Διεύθυνση απάντησης:">
 <!ENTITY replyTo.accesskey "σ">
 <!ENTITY replyTo.placeholder "Οι παραλήπτες θα απαντούν σε αυτή τη διεύθυνση">

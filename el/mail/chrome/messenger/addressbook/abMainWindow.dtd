@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "Λ">
 <!ENTITY newAddressBookCmd.label                        "Βιβλίο διευθύνσεων…">
 <!ENTITY newAddressBookCmd.accesskey                    "ρ">
+<!ENTITY newCardDAVBookCmd.label                        "Βιβλίο διευθύνσεων CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP...">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "Κ">
 <!ENTITY newMessageCmd.label                            "Μήνυμα">
