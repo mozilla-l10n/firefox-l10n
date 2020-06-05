@@ -51,7 +51,6 @@ import =
 close-button =
     .label = Clauder
     .accesskey = C
-
 show-passwords =
     .label = Monstrar le contrasignos
     .accesskey = c
@@ -72,3 +71,5 @@ no-master-password-prompt = Desira tu vermente monstrar tu contrasignos?
 
 ## OS Authentication dialog
 
+# Don't change this label.
+password-os-auth-dialog-caption = { -brand-full-name }
