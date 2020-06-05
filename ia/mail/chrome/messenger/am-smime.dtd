@@ -14,8 +14,10 @@
 <!ENTITY encryptionCert.message "Usa iste certificato pro cryptar e decryptar messages inviate a te:">
 
 <!ENTITY e2eTitle.label "Cryptographia testa a testa">
+<!ENTITY e2eIntro.description "Pro inviar messages cifrate o signate digitalmente, tu debe configurar un technologia de cryptographia OpenPGP o S/MIME.">
 <!ENTITY e2eLearnMore.label "Saper plus">
 
+<!ENTITY e2eEnc.description "Sin cryptographia testa a testa le contentos de messages es facilemente exponite a tu fornitor de email e a surveliantia de massa.">
 
 <!ENTITY e2eTechPref.description "Technologia de cryptographia preferite:">
 
