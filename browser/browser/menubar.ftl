@@ -97,6 +97,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = ചെറുതാക്കുക
     .accesskey = O
+menu-view-full-zoom-actual-size =
+    .label = യഥാർത്ഥ വലുപ്പം
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = പദാവലിയുടെ വലിപ്പം മാത്രം മാറ്റുക
     .accesskey = T
@@ -148,6 +151,8 @@ menu-history-synced-tabs =
     .label = സിന്‍ക് ചെയ്ത ടാബുകള്‍
 menu-history-restore-last-session =
     .label = മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക
+menu-history-hidden-tabs =
+    .label = മറച്ച ടാബുകൾ
 menu-history-undo-menu =
     .label = അടുത്തിടെ അടച്ച റ്റാബുകള്‍
 menu-history-undo-window-menu =
@@ -242,8 +247,7 @@ menu-help-safe-mode-with-addons =
     .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = തെറ്റിദ്ധരിപ്പിക്കുന്ന സൈറ്റ് റിപ്പോര്‍ട്ട് ചെയ്യുക…
     .accesskey = D
