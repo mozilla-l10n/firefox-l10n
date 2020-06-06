@@ -120,6 +120,9 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = сақталған 
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = сақталған парольді көшіру
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = сақталған логиндер және парольдерді экспорттау
 
 ## Master Password notification
 
@@ -189,6 +192,11 @@ about-logins-error-message-default = Бұл парольді сақтау кез
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Логиндер файлын экспорттау
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = логиндер.csv
 about-logins-export-file-picker-export-button = Экспорттау
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
