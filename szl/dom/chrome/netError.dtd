@@ -60,13 +60,22 @@
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa mo protokōł (bez przikłod <q>wxyz://</q>), kerego przeglōndarka niy poznowo, bez co niy poradzi sie dobrze połōnczyć ze strōnōm.</p><ul><li>Prōbujesz ôbejrzeć multimydia abo inksze niytekstowe usugi? Badnij na strōna za ibrycznymi wymaganiami.</li><li>Niykere protokoły mogōm potrzebować rozszyrzyń abo softwaru ôd inkszych firmōw, coby przeglōndarka je poznowała.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Serwer proxy ôdciepuje połōnczynie">
-<!ENTITY proxyConnectFailure.longDesc "<p>Przeglōndarka je nasztalowano, coby używać serwera proxy, kery ale ôdciepoł połōnczynie.</p><ul><li>Je kōnfiguracyjo serwerō proxy przeglōndarki dobro? Badnij na nasztalowania i sprōbuj jeszcze roz.</li><li>Puszczo serwer proxy połōnczynia z tego neca?</li><li>Durch mosz problym? Dej znać administratorowi neca abo dowcōm internetu.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Przeglōndarka je nasztalowano, coby używać serwera proxy, kery ale ôdciepoł połōnczynie.</p><ul><li>Je kōnfiguracyjo serwera proxy przeglōndarki dobro? Badnij na nasztalowania i sprōbuj jeszcze roz.</li><li>Puszczo serwer proxy połōnczynia z tego neca?</li><li>Durch mosz problym? Dej znać administratorowi neca abo dowcōm internetu.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Serwer proxy niy ma znodniynty">
+<!ENTITY proxyResolveFailure.longDesc "<p>Przeglōndarka je nasztalowano, coby używać serwera proxy, kerego ale niy szło znojść.</p><ul><li>Je kōnfiguracyjo serwera proxy przeglōndarki dobro? Badnij na nasztalowania i sprōbuj jeszcze roz.</li><li>Je kōmputer połōnczōny do aktywnego neca?</li><li>Durch mosz problym? Dej znać administratorowi neca abo dowcōm internetu.</li></ul>">
 
+<!ENTITY redirectLoop.title "Przyntla przi przekerowaniu">
+<!ENTITY redirectLoop.longDesc "<p>Przeglōndarka przestała prōbować wrōcić proszōny elymynt. Strōna przekerowuje prośba tak, co żodyn roz sie niy podarzi.</p><ul><li>Mosz wyłōnczōne abo zaszperowane cookies potrzebne na tyj strōnie?</li><li><em>Pozōr</em>: Jak zgoda na cookies tyj strōny niy rozwiōnże problymu, bydzie to problym kōnfiguracyje serwera, a niy tego kōmputra.</li></ul>">
 
+<!ENTITY unknownSocketType.title "Zło ôdpowiydź">
+<!ENTITY unknownSocketType.longDesc "<p>Strōna ôdpedziała na prośba neca niyôczekowanym spusobym, bez co przeglōndarka niy poradzi iść dalij.</p>">
 
+<!ENTITY nssFailure2.title "Niypodarzōne bezpieczne połōnczynie">
+<!ENTITY nssFailure2.longDesc2 "<p>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo niy szło zweryfikować autyntyczności ôd dostōnych danych.</p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
+</ul>">
 
+<!ENTITY nssBadCert.title "Niypodarzōne bezpieczne połōnczynie">
 
 
 
