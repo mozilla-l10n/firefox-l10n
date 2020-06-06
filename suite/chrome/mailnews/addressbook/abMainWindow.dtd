@@ -7,24 +7,24 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "Questa rubrica mostra i contatti solo dopo una ricerca">
+<!ENTITY localResultsOnlyMessage.label                  "I contatti di rubriche remote non vengono visualizzati fino a quando non si effettua una ricerca">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Contatto…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Lista di distribuzione…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Rubrica…">
 <!ENTITY newAddressBookCmd.accesskey                    "R">
 <!ENTITY newLDAPDirectoryCmd.label                      "Directory LDAP…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Stampa contatto…">
 <!ENTITY printContactViewCmd.accesskey                  "p">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Anteprima di stampa contatto">
 <!ENTITY printPreviewContactViewCmd.accesskey           "A">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Stampa rubrica…">
 <!ENTITY printAddressBook.accesskey                     "r">
 <!ENTITY printPreviewAddressBook.label                  "Anteprima di stampa rubrica">
@@ -40,7 +40,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "Scambia Nome/Cognome">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
 <!ENTITY propertiesCmd.label                            "Proprietà…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "o">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +84,8 @@
 <!ENTITY deleteItemButton.accesskey                     "E">
 <!ENTITY newimButton.label                              "Messaggio istantaneo">
 <!ENTITY newimButton.accesskey                          "M">
+<!ENTITY printButton.label                              "Stampa">
+<!ENTITY printButton.accesskey                          "m">
 <!ENTITY searchNameAndEmail.placeholder                 "Cerca per nome ed email">
 <!ENTITY searchBox.title                                "Cerca">
 
@@ -95,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "Modifica elemento selezionato">
 <!ENTITY newmsgButton.tooltip                           "Crea un nuovo messaggio">
 <!ENTITY newIM.tooltip                                  "Spedisce un messaggio o avvia la chat">
+<!ENTITY printButton.tooltip                            "Stampa l'elemento selezionato">
 <!ENTITY deleteItemButton.tooltip                       "Rimuovi elemento selezionato">
 <!ENTITY throbber.tooltip                               "Vai alla pagina iniziale di &vendorShortName;">
 <!ENTITY throbber.tooltip2                              "Vai alla pagina iniziale di &brandShortName;">
@@ -108,6 +110,7 @@
 <!ENTITY contact.heading                                "Contatto">
 <!ENTITY home.heading                                   "Pagina iniziale">
 <!ENTITY other.heading                                  "Altro">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefono">
 <!ENTITY work.heading                                   "Lavoro">
 <!-- Special Box Headings, for mailing lists -->
