@@ -19,7 +19,6 @@ general-meta-name =
     .label = ناو
 general-meta-content =
     .label = ناوەڕۆک
-
 security-view-privacy =
     .value = تایبەتیی و مێژووی کار
 
@@ -29,6 +28,7 @@ security-view-privacy =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+image-size-unknown = نەزانراو
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -36,4 +36,3 @@ security-view-privacy =
 media-block-image =
     .label = وێنە بلۆک بکە لە { $website }
     .accesskey = B
-
