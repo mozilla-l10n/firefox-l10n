@@ -54,9 +54,15 @@
 <!ENTITY netReset.longDesc "<p>Połōnczynie sie stargało przi negocjacyji dostympu. Sprōbuj jeszcze roz.</p>">
 
 <!ENTITY netTimeout.title "Przestōmpiōny czas na łōnczynie">
+<!ENTITY netTimeout.longDesc "<p>Proszōno strōna niy ôdpedziała na prośba ô połōnczynie, a przeglōndarka przestała czekać na ôdpowiydź.</p><ul><li>Możno serwer je czasowo przeciōnżōny abo wyłōnczōny?  Sprōbuj zaś niyskorzij.</li><li>Niy idzie ôdewrzić żodnyj inkszyj strōny?  Badnij na połōnczynie z necym i nasztalowania serwera DNS.</li><li>Kōputer je chrōniōny ôd firewalla abo serwera proxy? Felerne nasztalowania mogōm zawodzać w przeglōndaniu internetu.</li><li>Durch mosz problym? Dej znać administratorowi neca abo dowcōm internetu.</li></ul>">
 
+<!ENTITY unknownProtocolFound.title "Protokōł niy ma poznany">
+<!ENTITY unknownProtocolFound.longDesc "<p>Adresa mo protokōł (bez przikłod <q>wxyz://</q>), kerego przeglōndarka niy poznowo, bez co niy poradzi sie dobrze połōnczyć ze strōnōm.</p><ul><li>Prōbujesz ôbejrzeć multimydia abo inksze niytekstowe usugi? Badnij na strōna za ibrycznymi wymaganiami.</li><li>Niykere protokoły mogōm potrzebować rozszyrzyń abo softwaru ôd inkszych firmōw, coby przeglōndarka je poznowała.</li></ul>">
 
+<!ENTITY proxyConnectFailure.title "Serwer proxy ôdciepuje połōnczynie">
+<!ENTITY proxyConnectFailure.longDesc "<p>Przeglōndarka je nasztalowano, coby używać serwera proxy, kery ale ôdciepoł połōnczynie.</p><ul><li>Je kōnfiguracyjo serwerō proxy przeglōndarki dobro? Badnij na nasztalowania i sprōbuj jeszcze roz.</li><li>Puszczo serwer proxy połōnczynia z tego neca?</li><li>Durch mosz problym? Dej znać administratorowi neca abo dowcōm internetu.</li></ul>">
 
+<!ENTITY proxyResolveFailure.title "Serwer proxy niy ma znodniynty">
 
 
 
