@@ -31,8 +31,12 @@
 <!ENTITY malformedURI.longDesc "<p>Ta adresa niy ma w żodnym poznanym formacie. Badnij na posek z adresōm za felerami i sprōbuj zaś.</p>">
 
 <!ENTITY netInterrupt.title "Przesyłanie danych je stargane">
+<!ENTITY netInterrupt.longDesc "<p>Przeglōndarka poradziyła sie połōnczyć, a;e połōnczynie stargało sie przi posyłaniu danych.  Sprōbuj jeszcze roz.</p><ul><li>Niy idzie ôdewrzić żodnyj inkszyj strōny? Badnij na połōnczynie z necym.</li><li>Durch mosz problym? Dej znać administratorowi neca abo dowcōm internetu.</li></ul>">
 
+<!ENTITY notCached.title "Dokumynt sie przedowniōł">
+<!ENTITY notCached.longDesc '<p>Proszōny dokumynt niy ma dostympny w podryncznyj pamiyńci przeglōndarki. </p><ul><li>Skuli bezpieczynstwa przeglōndarka autōmatycznie niy pobiyro zaś prywatnych dokumyntōw. </li><li>Kliknij "Sprōbuj jeszcze roz", coby jeszcze roz pobrać dokumynt ze strōny.</li></ul>'>
 
+<!ENTITY netOffline.title "Tryb offline">
 
 
 
