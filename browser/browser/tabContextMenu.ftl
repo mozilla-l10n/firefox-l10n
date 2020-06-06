@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Հետարկել փակված ներդիրը
     .accesskey = Հ
+tab-context-close-multiple-tabs =
+    .label = Փակել բազմակի ներդիրները
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Հետարկել փակված ներդիրը
+            [one] Հետարկել փակված ներդիրները
+           *[other] Հետարկել փակված ներդիրները
+        }
+    .accesskey = U
 close-tab =
     .label = Փակել ներդիրը
     .accesskey = Փ

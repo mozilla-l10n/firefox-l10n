@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] Հայտնի տվյալների խախտումները բացահայտեցին ձեր տեղեկատվությունը
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Հայտնի տվյալների խախտումը նշվել է որպես լուծված
+       *[other] Հայտնի տվյալների խախտումները նշվել են որպես լուծված
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -164,6 +172,41 @@ password-warning =
         [one] Պահպանված մուտքերը կարող են ենթարկվել տվյալների խախտման: Փոխեք այս գաղտնաբառերը առցանց ավելի լավ անվտանգության համար: <a data-l10n-name="lockwise-link"> Դիտեք պահված մուտքերը </a>
        *[other] Պահպանված մուտքերը կարող են ենթարկվել տվյալների խախտման: Փոխեք այս գաղտնաբառերը առցանց ավելի լավ անվտանգության համար: <a data-l10n-name="lockwise-link"> Դիտեք պահված մուտքերը </a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Գաղտնաբառը ենթարկվում է չլուծված խախտումների
+       *[other] Գաղտնաբառերը ենթարկվում են չլուծված խախտումների
+    }
+monitor-no-breaches-title = Լավ նորություն:
+monitor-no-breaches-description = Դուք հայտնի խախտումներ չունեք: Եթե դա փոխվի, մենք ձեզ կտեղեկացնենք:
+monitor-view-report-link = Դիտել զեկույցը
+    .title = Ուղղել խախտումները { -monitor-brand-short-name }-ում
+monitor-breaches-unresolved-title = Ուղղեք ձեր խախտումները
+monitor-breaches-unresolved-description = Խախտումների մանրամասները վերանայելուց և ձեր տեղեկությունները պաշտպանելու համար քայլեր ձեռնարկելուց հետո կարող եք խախտումները նշել որպես ուղղված:
+monitor-manage-breaches-link = Կառավարել խախտումները
+    .title = Կառավարեք խախտումները { -monitor-brand-short-name }-ում
+monitor-breaches-resolved-title = Լավ է: Դուք ուղղել եք բոլոր հայտնի խախտումները:
+monitor-breaches-resolved-description = Եթե ձեր էլ. փոստը երևա որևէ նոր խախտումում, մենք ձեզ կտեղեկացնենք:
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved }-ը՝ { $numBreaches } խախտումից նշվել է որպես ուղղված:
+       *[other] { $numBreachesResolved }-ը՝ { $numBreaches } խախտումներից նշվել է որպես ուղղված:
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }%-ը արված է
+monitor-partial-breaches-motivation-title-start = Հիանալի մեկնարկ:
+monitor-partial-breaches-motivation-title-middle = Շարունակիր նույն ձեւով:
+monitor-partial-breaches-motivation-title-end = Գրեթե պատրաստ է: Շարունակիր նույն ձեւով:
+monitor-partial-breaches-motivation-description = Ուղղեք ձեր մնացած խախտումները { -monitor-brand-short-name }-ում:
+monitor-resolve-breaches-link = Ուղղել խախտումները
+    .title = Ուղղել խախտումները { -monitor-brand-short-name }-ում
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
