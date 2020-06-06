@@ -7,16 +7,16 @@ about-config-warning-title = Tukej żyjōm drachy!
 about-config-warning-text = Skuli zmiany tych sztelōnkōw mogōm sie pokozać problymy ze stabilnościōm, bezpieczyństwym a wydajnościōm tyj aplikacyje. Kōntynuuj ino jak wiysz, co robisz.
 about-config-warning-checkbox = Dycki pokazuj to ôstrzyżynie
 about-config-warning-button = Akceptuja te ryzyko
-about-config2-title = Zaawansowane nasztalowania
+about-config2-title = Rozszyrzōne sztalōnki
 about-config-search-input =
     .placeholder = Szukej
 
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Pozōr!
-about-config-intro-warning-text = Skuli zmiany zaawansowanych nasztalowań może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
-about-config-intro-warning-checkbox = Dej mi znać ô ôtwiyraniu tyj zaawansowanyj kōnfiguracyje
-about-config-intro-warning-button = Akceptuja te ryzyko. Dalij
+about-config-intro-warning-text = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
+about-config-intro-warning-checkbox = Dej mi znać ô ôtwiyraniu tyj kōnfiguracyje
+about-config-intro-warning-button = Akceptuja ryzyko i chca kōntynuować
 
 ##
 
@@ -24,13 +24,13 @@ about-config-intro-warning-button = Akceptuja te ryzyko. Dalij
 about-config-caution-text = Zmiana tyj kōnfiguracyje może pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
 about-config-page-title = Zaawansowano kōnfiguracyjo
 about-config-search-input1 =
-    .placeholder = Szukej po mianie kōnfiguracyji
-about-config-show-all = Pokoż wszyskie
+    .placeholder = Szukej po mianie kōnfiguracyje
+about-config-show-all = Pokoż wszyske
 about-config-pref-add = Przidej
 about-config-pref-toggle = Przełōncz
 about-config-pref-edit = Edytuj
 about-config-pref-save = Spamiyntej
-about-config-pref-reset = Wynuluj
+about-config-pref-reset = Wysnoż
 about-config-pref-delete = Skasuj
 about-config-pref-add-button =
     .title = Przidej
@@ -41,13 +41,13 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = Spamiyntej
 about-config-pref-reset-button =
-    .title = Wynuluj
+    .title = Wysnoż
 about-config-pref-delete-button =
     .title = Skasuj
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
-about-config-pref-add-type-boolean = Logiczno wartość
+about-config-pref-add-type-boolean = Logiczny wert
 about-config-pref-add-type-number = Liczba
 about-config-pref-add-type-string = Lyńcuch
 
