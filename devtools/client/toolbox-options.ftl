@@ -50,11 +50,21 @@ options-default-color-unit-name = Գույնի անունը
 options-styleeditor-label = Ոճի խմբագրիչ
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS-ի ինքնալրացում
+options-stylesheet-autocompletion-tooltip =
+    .title = Ինքնալցնել CSS-ի հատկությունները, արժեքները և ընտրիչները Ոճի խմբագրիչում ինչպես որ լրացնեք
 
 ## Screenshot section
 
 # The heading
 options-screenshot-label = Էկրանի հանույթի պահվածք
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Էկրանի կորզումը սեղմատախտակում
+options-screenshot-clipboard-tooltip =
+    .title = Պահպանում է էկրանի կորզումը ուղղակիորեն սեղմատախտակում
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Նվագարկել խցիկի փակման ձայնը
+options-screenshot-audio-tooltip =
+    .title = Միացնում է խցիկի աուդիո ձայնը, երբ կորզում է պատկերը
 
 ## Editor section
 
