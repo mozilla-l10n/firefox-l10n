@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-encryption_required_part1 = Hai tentato di inviare un messaggio non crittato a { $name }. Di norma, i messaggi non crittati non sono consentiti.
+msgevent-encryption_required_part2 = Tentativo di avviare una conversazione privata. Il tuo messaggio verrà ritrasmesso quando inizierà la conversazione privata.
 msgevent-encryption_error = Si è verificato un errore durante la crittatura del messaggio. Il messaggio non è stato inviato.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -11,6 +15,12 @@ msgevent-connection_ended = { $name } ha già chiuso la sua connessione crittata
 msgevent-setup_error = Si è verificato un errore durante l’impostazione di una conversazione privata con { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-msg_reflected = Stai ricevendo i tuoi stessi messaggi OTR. O stai provando a parlare con te stesso o qualcuno ti sta rispedendo i tuoi messaggi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg_resent = L’ultimo messaggio a { $name } è stato ritrasmesso.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = Impossibile leggere il messaggio crittato ricevuto da { $name }, poiché al momento non state comunicando privatamente.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Hai ricevuto un messaggio crittato illeggibile da { $name }.
@@ -52,6 +62,13 @@ error-enc = Si è verificato un errore durante la crittatura del messaggio.
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Hai inviato dati crittati a { $name }, che non si aspettava questo invio.
 error-unreadable = Hai trasmesso un messaggio crittato illeggibile.
+error-malformed = Hai trasmesso un messaggio dati malformato.
+resent = [ritrasmesso]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } ha terminato la sua conversazione crittata con te; dovresti farlo anche tu.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } ha richiesto una conversazione crittata OTR (Off-the-Record), ma non disponi di un plugin per supportarla. Per ulteriori informazioni, leggi https://it.wikipedia.org/wiki/Off-the-Record_Messaging
