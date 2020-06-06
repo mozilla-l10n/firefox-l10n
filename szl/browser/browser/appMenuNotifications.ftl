@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = Dostympno je nowo aktualizacyjo aplikacyji { -brand-shorter-name }.
+    .label = Je dostympno nowo aktualizacyjo aplikacyje { -brand-shorter-name }.
     .buttonlabel = Pobier aktualizacyjo
     .buttonaccesskey = P
     .secondarybuttonlabel = Niy teroz
     .secondarybuttonaccesskey = N
-appmenu-update-available-message = Zaktualizuj aplikacyjo { -brand-shorter-name }, coby miała wiynkszo gibkość i bezpieczyństwo.
+appmenu-update-available-message = Zaktualizuj aplikacyjo { -brand-shorter-name } dlo srogszego szwōngu i bezpieczyństwa.
 appmenu-update-manual =
-    .label = { -brand-shorter-name } niy poradzi zainstalować nojnowszyj wersyje.
+    .label = { -brand-shorter-name } niy może zainstalować nojnowszyj wersyje.
     .buttonlabel = Pobier: { -brand-shorter-name }
     .buttonaccesskey = P
     .secondarybuttonlabel = Niy teroz
     .secondarybuttonaccesskey = N
-appmenu-update-manual-message = Pobier fryszno wersyjo aplikacyji { -brand-shorter-name }, a my pōmogymy ci jōm zainstalować.
+appmenu-update-manual-message = Pobier nowo wersyjo aplikacyje { -brand-shorter-name }, a my pōmogymy ci jōm zainstalować.
 appmenu-update-whats-new =
-    .value = Wejrzij, co nowego.
+    .value = Wejzdrzij, co nowego.
 appmenu-update-unsupported =
     .label = { -brand-shorter-name } niy poradzi zaktualizować sie do nojnowszyj wersyje.
     .buttonlabel = Przewiydz sie wiyncyj
@@ -47,7 +47,6 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = R
 appmenu-addon-private-browsing-message = Nowe rozszyrzynia, co je przidowosz do aplikacyje { -brand-shorter-name }, niy bydōm fungować we prywatnych ôknach, podwiela niy dosz na to zgody w nasztalowaniach.
 appmenu-addon-private-browsing-learn-more = Przewiydz sie, jako regiyrować nasztalowaniami rozszyrzyń
-    
 appmenu-new-tab-controlled =
     .label = Nowo karta je teroz zmiyniōno.
     .buttonlabel = Spamiyntej zmiany
