@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Փորձեք սա. Ամրացնել ներդիր
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Ինչու եմ ես սա տեսնում
-
 cfr-doorhanger-extension-cancel-button = Ոչ հիմա
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Ավելացնել հիմա
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Ամրացնել այս ներդիրը
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Կառավարել երաշխավորվող կարգավորումները
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Չցուցադրել ինձ այս երաշխավորությունները
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Իմանալ ավելին
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }-ի կողմից
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Երաշխավորություն
-
 cfr-doorhanger-extension-notification2 = Երաշխավորություն
     .tooltiptext = Ընդլայնման երաշխավորություն
     .a11y-announcement = Հասանելի ընդլայնման երաշխավորություն
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Երաշխավորություն
@@ -68,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } օգտվող
        *[other] { $total } օգտվող
     }
-
 cfr-doorhanger-pintab-description = Մատչեք առավել շատ օգտագործվող կայքերը։ Պահեք կայքերը բացված ներդիրում, եթե անգամ վերագործարկում եք։
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -76,10 +66,8 @@ cfr-doorhanger-pintab-description = Մատչեք առավել շատ օգտագ�
 cfr-doorhanger-pintab-step1 = <b>Աջ սեղմում</b>՝ այն ներդիրի վրա, որը ցանկանում եք ամրացնել:
 cfr-doorhanger-pintab-step2 = Ընտրեք<b>Ամրացնել ներդիրը</b>՝ ցանկից:
 cfr-doorhanger-pintab-step3 = Եթե կայքը արդիացում ունի, դուք կտեսնեք կապույտ կետ ձեր ամրացված ներդիրում:
-
 cfr-doorhanger-pintab-animation-pause = Դադար
 cfr-doorhanger-pintab-animation-resume = Շարունակել
-
 
 ## Firefox Accounts Message
 
@@ -101,22 +89,16 @@ cfr-protections-panel-link-text = Իմանալ ավելին
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Նոր հատկություն․
-
 cfr-whatsnew-button =
     .label = Ինչն է նոր
     .tooltiptext = Ինչն է նոր
-
 cfr-whatsnew-panel-header = Ինչն է նոր
-
 cfr-whatsnew-release-notes-link-text = Կարդալ թողարկման գրառումները
-
 cfr-whatsnew-fx70-title = { -brand-short-name } այժմ ավելի է պայքարում ձեր գաղտնիության համար
 cfr-whatsnew-fx70-body = Վերջին թարմացումը ուժեղացնում է Պաշտպանումը Վնասներից առանձնահատկությունը և դարձնում է այն ավելի հեշտ, քան երբևե բոլոր կայքերի համար անվտանգ գաղտնաբառեր ստեղծելը։
-
 cfr-whatsnew-tracking-protect-title = Պաշտպանեք ձեզ հետագծումներից
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } արգելափակում է շատ տարածված սոցիալական և խաչմերուկային վնասները, որոնք հետևում են ձեր առցանց գործողություններին։
 cfr-whatsnew-tracking-protect-link-text = Դիտել ձեր զեկույցը
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -127,11 +109,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Քանի որ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Դիտել զեկույցը
-
 cfr-whatsnew-lockwise-backup-title = Կրկնօրինակել ձեր գաղտնաբառերը
 cfr-whatsnew-lockwise-backup-body = Այժմ ստեղծեք անվտանգ գաղտնաբառեր, որոնցից կարող եք մուտք գործել ցանկացած մուտք:
 cfr-whatsnew-lockwise-backup-link-text = Միացնել կրկնօրինակումները
-
 cfr-whatsnew-lockwise-take-title = Վերցրեք ձեր գաղտնաբառերը ձեզ հետ
 cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name } բջջային հավելվածը հնարավորություն է տալիս ապահով կերպով մուտք գործել ձեր
@@ -141,6 +121,7 @@ cfr-whatsnew-lockwise-take-link-text = Ստանալ հավելվածը
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Մուտքագրեք ավելի քիչ, ավելին գտնեք հասցեի տողի հետ
+cfr-whatsnew-searchbar-body-topsites = Այժմ պարզապես ընտրեք հասցեների գոտին և տուփը կլրացվի ձեր լավագույն կայքերի հղումներով:
 cfr-whatsnew-searchbar-icon-alt-text = Խոշորացույցի պատկերակ
 
 ## Picture-in-Picture
@@ -166,7 +147,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Մատնահետքերը արգելափակվեցին
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } արգելափակում է մատնահետքերից շատերը, որոնք գաղտնի հավաքում են տեղեկատվություն ձեր սարքի և գործողությունների մասին ՝ ձեր կողմից գովազդային պրոֆիլ ստեղծելու համար:
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Մատնահետքեր
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } արգելափակում է մատնահետքերից շատերը, որոնք գաղտնի հավաքում են տեղեկատվություն ձեր սարքի և գործողությունների մասին ՝ ձեր կողմից գովազդային պրոֆիլ ստեղծելու համար:
@@ -233,10 +213,18 @@ cfr-doorhanger-milestone-ok-button = Պահպանել բոլորը
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Հեշտությամբ ստեղծեք անվտանգ գաղտնաբառեր
+cfr-whatsnew-lockwise-body = Յուրաքանչյուր հաշվի համար դժվար է մտածել եզակի, անվտանգ գաղտնաբառ: Գաղտնաբառ ստեղծելիս ընտրեք գաղտնաբառի դաշտը՝ օգտագործելու համար անվտանգ, { -brand-shorter-name }-ի կողմից ստեղծված գաղտնաբառ:
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } պատկերակ
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Զգուշացումներ ստանալ խոցելի գաղտնաբառերի մասին
+cfr-whatsnew-passwords-body = Հակերները գիտեն, որ մարդիկ օգտագործում են նույն գաղտնաբառերը: Եթե դուք օգտագործում եք նույն գաղտնաբառը բազմաթիվ կայքերում, և այդ կայքերից մեկը տվյալների խախտման մեջ է, ապա այդ կայքերում ձեր գաղտնաբառը փոխելու համար կտեսնեք ազդանշան { -lockwise-brand-short-name }-ում:
+cfr-whatsnew-passwords-icon-alt = Խոցելի գաղտնաբառի բանալու պատկերակ
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Ստանալ լիաէկրանի նկարը նկարում
+cfr-whatsnew-pip-fullscreen-body = Երբ դուք տեսանյութը տեղափոխում եք լողացող պատուհան՝ այժմ կարող եք կրկնակի սեղմել այդ պատուհանին և անցնել լիաէկրան:
 cfr-whatsnew-pip-fullscreen-icon-alt = Նկար-նկարում պատկերակ
