@@ -37,8 +37,14 @@ etp-card-title = Verbesserter Tracking-Schutz (Schutz vor Aktivitätenverfolgung
 etp-card-content = Skripte zur Aktivitätenverfolgung (Online-Tracker) folgen Ihnen über Websites hinweg und sammeln Informationen über Ihre Browser-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
 protection-report-webpage-title = Schutzmaßnahmen-Übersicht
 protection-report-page-content-title = Schutzmaßnahmen-Übersicht
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } kann Ihre Privatsphäre während Sie im Internet surfen im Hintergrund schützen. Dies ist eine personalisierte Zusammenfassung dieser Schutzmaßnahmen und enthält auch Funktionen, mit denen Sie die Kontrolle über Ihre Online-Sicherheit übernehmen können.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } schützt Ihre Privatsphäre während Sie im Internet surfen im Hintergrund. Dies ist eine personalisierte Zusammenfassung dieser Schutzmaßnahmen und enthält auch Funktionen, mit denen Sie die Kontrolle über Ihre Online-Sicherheit übernehmen können.
+protection-report-settings-link = Datenschutz- und Sicherheitseinstellungen verwalten
 etp-card-title-always = Verbesserter Tracking-Schutz: Immer an
 etp-card-title-custom-not-blocking = Verbesserter Tracking-Schutz: AUS
+etp-card-content-description = { -brand-short-name } verhindert automatisch, dass Unternehmen Ihnen heimlich im Internet folgen.
 protection-report-etp-card-content-custom-not-blocking = Derzeit sind alle Schutzmaßnahmen deaktiviert. Die zu blockierenden Elemente zur Aktivitätenverfolgung können in den Schutzmaßnahmen-Einstellungen von { -brand-short-name } festgelegt werden.
 protection-report-manage-protections = Einstellungen verwalten
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -84,6 +90,13 @@ lockwise-passwords-stored =
         [one] Passwort sicher gespeichert <a data-l10n-name="lockwise-how-it-works">Wie es funktioniert</a>
        *[other] Passwörter sicher gespeichert <a data-l10n-name="lockwise-how-it-works">Wie es funktioniert</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] Ein Passwort wurde möglicherweise bei einem Datenleck offengelegt.
+       *[other] { $count } Passwörter wurden möglicherweise bei einem Datenleck offengelegt.
+    }
 lockwise-how-it-works-link = Wie es funktioniert
 turn-on-sync = { -sync-brand-short-name } aktivieren…
     .title = Sync-Einstellungen öffnen
@@ -100,7 +113,15 @@ monitor-link = So funktioniert's
 monitor-header-content-no-account = Testen Sie mit { -monitor-brand-name }, ob Sie von einem Datenleck betroffen sind, und lassen Sie sich bei zukünftigen Datenlecks benachrichtigen.
 monitor-header-content-signed-in = { -monitor-brand-name } benachrichtigt Sie, falls Ihre Informationen von einem bekannt gewordenen Datenleck betroffen sind.
 monitor-sign-up = Für Warnmeldungen zu Datenlecks anmelden
+monitor-sign-up-link = Für Warnmeldungen zu Datenlecks anmelden
+    .title = Für Warnmeldungen zu Datenlecks bei { -monitor-brand-name } anmelden
 auto-scan = Heute automatisch überprüft
+monitor-emails-tooltip =
+    .title = Überwachte E-Mail-Adressen bei { -monitor-brand-short-name } anzeigen
+monitor-breaches-tooltip =
+    .title = Bekannte Datenlecks bei { -monitor-brand-short-name } anzeigen
+monitor-passwords-tooltip =
+    .title = Offengelegte Passwörter bei { -monitor-brand-short-name } anzeigen
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -152,6 +173,8 @@ info-exposed-passwords-resolved =
     }
 monitor-no-breaches-title = Gute Nachrichten!
 monitor-no-breaches-description = Sie haben keine bekannten Datenlecks. Wir informieren Sie, wenn sich das ändert.
+monitor-view-report-link = Bericht anzeigen
+    .title = Datenlecks bei { -monitor-brand-short-name } beheben
 monitor-breaches-resolved-description = Wenn Ihre E-Mail-Adresse in neuen Datenlecks auftaucht, werden wir Sie informieren.
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
