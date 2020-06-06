@@ -273,9 +273,12 @@ popup-screen-sharing-never =
     .label = Nie erlauben
     .accesskey = N
 popup-silence-notifications-checkbox = Deaktivieren Sie Benachrichtigungen von { -brand-short-name } während der Bildschirmfreigabe
+popup-silence-notifications-checkbox-warning = { -brand-short-name } zeigt keine Benachrichtigungen an, während Sie Ihren Bildschirm teilen.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Sie teilen { -brand-short-name }. Andere Personen können sehen, wenn Sie zu einem neuen Tab wechseln.
+sharing-warning-screen = Sie teilen Ihren gesamten Bildschirm. Andere Personen können sehen, wenn Sie zu einem neuen Tab wechseln.
 sharing-warning-proceed-to-tab =
     .label = Weiter zum Tab
 sharing-warning-disable-for-session =
