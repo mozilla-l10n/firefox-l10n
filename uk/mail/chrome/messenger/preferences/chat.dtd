@@ -41,7 +41,7 @@ sentence. -->
 <!ENTITY  play.accesskey                      "и">
 <!ENTITY  systemSound.label                   "Типовий системний звук для нової пошти">
 <!ENTITY  systemSound.accesskey               "Т">
-<!ENTITY  customsound.label                   "Використовувати наступний звуковий файл">
+<!ENTITY  customsound.label                   "Використовувати такий звуковий файл">
 <!ENTITY  customsound.accesskey               "а">
 <!ENTITY  browse.label                        "Огляд…">
 <!ENTITY  browse.accesskey                    "л">
