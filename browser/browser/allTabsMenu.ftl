@@ -7,8 +7,7 @@ all-tabs-menu-undo-close-tab =
 all-tabs-menu-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Geschlossene Tabs wiederherstellen
-            [one] Geschlossenen Tab wiederherstellen
+            [1] Geschlossenen Tab wiederherstellen
            *[other] Geschlossene Tabs wiederherstellen
         }
 # "Search" is a verb, as in "Search through tabs".
