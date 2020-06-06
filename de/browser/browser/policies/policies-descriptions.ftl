@@ -63,7 +63,7 @@ policy-ExtensionSettings = Alle Einstellungen für die Erweiterungsinstallation 
 policy-ExtensionUpdate = Automatische Add-on-Updates aktivieren oder deaktivieren
 policy-FirefoxHome = Firefox-Startseite konfigurieren
 policy-FlashPlugin = Flash-Plugin-Verwendung erlauben oder verbieten
-policy-Handlers = Standardanwendungen für das Öffnen von Dateien und Protokollen festlegen
+policy-Handlers = Standardanwendungen für das Öffnen von Dateien, Protokollen und MIME-Typen festlegen
 policy-HardwareAcceleration = Hardwarebeschleunigung deaktiviert, falls false
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Startseite festlegen und optional zusätzlich unveränderbar setzen
