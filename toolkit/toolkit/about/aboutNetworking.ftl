@@ -57,7 +57,6 @@ rcwn-avg-long = Երկար միջին
 rcwn-std-dev-long = Երկար չափօրինակի շեղում
 rcwn-cache-slow = Հիշապահեստը դանդաղ է աշխատում
 rcwn-cache-not-slow = Հիշապահեստը դանդաղ չի հաշվում
-
 about-networking-title = Ցանցի մասին
 about-networking-http = HTTP
 about-networking-sockets = Բնիկներ
@@ -80,6 +79,7 @@ about-networking-family = Ընտանիք
 about-networking-trr = TRR
 about-networking-addresses = Հասցեներ
 about-networking-expires = Կավարտվի (վայրկյանից)
+about-networking-originAttributesSuffix = Մեկուսացման բանալի
 about-networking-messages-sent = Հաղորդագրությունները ուղարկվել են
 about-networking-messages-received = Հաղորդագրությունները ուղարկվել են
 about-networking-bytes-sent = Բայթ է ուղարկվել
