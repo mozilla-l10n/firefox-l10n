@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Pooblastila …">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Imate naslednja dovoljenja:">
+<!ENTITY folderOtherUsers.label                  "Ostali z dostopom do te mape:">
 <!ENTITY folderType.label                        "Vrsta mape:">
 
 <!ENTITY folderQuotaTab.label                    "Količinska omejitev">
