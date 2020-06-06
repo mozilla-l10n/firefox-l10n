@@ -41,6 +41,22 @@ msgevent-rcvdmsg_general_err = Váratlan hiba történt a beszélgetés OTR hasz
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
 msgevent-rcvdmsg_unencrypted = A következő, { $name } felől kapott üzenet nem volt titkosítva: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Fel nem ismert OTR-üzenetet kapott tőle: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } egy másik munkamenetnek szánt üzenetet küldött. Ha többször is be van jelentkezve, akkor egy másik munkamenet is megkaphatta az üzenetet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Privát beszélgetés indítva a következővel: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Titkosított, de nem ellenőrzött beszélgetés indítva a következővel: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Sikeresen frissítette a titkosított beszélgetést a következővel: { $name }.
 error-enc = Hiba történt az üzenet titkosításakor.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
