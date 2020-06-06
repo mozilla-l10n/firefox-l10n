@@ -5,16 +5,23 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = സ്വകാര്യ സുരക്ഷ
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = നിങ്ങളുടെ സ്വകാര്യതാ റിപ്പോർട്ടിലേക്ക് പോകുക
 appmenuitem-customize-mode =
     .label = ഇച്ഛാനുസൃതമാക്കുക...
 
 ## Zoom Controls
 
+appmenuitem-zoom-enlarge =
+    .label = വലുതാക്കുക
+appmenuitem-zoom-reduce =
+    .label = ചെറുതാക്കുക
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = ഉടന്‍ സിന്‍ക് ചെയ്യുക
+    .label = സമന്വയിപ്പിക്കുക
 
 ## What's New panel in App menu.
 
