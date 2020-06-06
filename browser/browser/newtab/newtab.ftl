@@ -5,26 +5,73 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = নতুন টেব
+newtab-settings-button =
+    .title = আপোনাৰ নতুন টেবৰ পৃষ্ঠা কাষ্টমাইজ কৰক
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = সন্ধান কৰক
+    .aria-label = সন্ধান কৰক
+newtab-search-box-search-the-web-text = ৱেবত সন্ধান কৰক
+newtab-search-box-search-the-web-input =
+    .placeholder = ৱেবত সন্ধান কৰক
+    .title = ৱেবত সন্ধান কৰক
+    .aria-label = ৱেবত সন্ধান কৰক
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = ছাৰ্চ ইঞ্জিন যোগ কৰক
+newtab-topsites-add-topsites-header = নতুন শীৰ্ষ ছাইট
+newtab-topsites-edit-topsites-header = শীৰ্ষ ছাইট সম্পাদনা কৰক
+newtab-topsites-title-label = শীৰ্ষক
+newtab-topsites-title-input =
+    .placeholder = শীৰ্ষক প্ৰবিষ্ট কৰক
+newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = URL টাইপ বা পে'ষ্ট কৰক
+newtab-topsites-url-validation = বৈধ URLৰ প্ৰয়োজন
+newtab-topsites-image-url-label = কাষ্টম ছবিৰ URL
+newtab-topsites-use-image-link = কাষ্টম ছবি ব্যৱহাৰ কৰক…
+newtab-topsites-image-validation = ছবি ল'ড হোৱা বিফল হ'ল। বেলেগ এটা URL পৰীক্ষা কৰক।
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
-
-## Top Sites - Delete history confirmation dialog. 
-
+newtab-topsites-cancel-button = বাতিল কৰক
+newtab-topsites-delete-history-button = ইতিহাসৰ পৰা মচক
+newtab-topsites-save-button = সঞ্চয় কৰক
+newtab-topsites-preview-button = পূৰ্বলোকন
+newtab-topsites-add-button = যোগ কৰক
 
 ## Top Sites - Delete history confirmation dialog.
 
+
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = মেন্যু খোলক
+    .aria-label = মেন্যু খোলক
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = আঁতৰাওক
+    .aria-label = আঁতৰাওক
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = মেন্যু খোলক
+    .aria-label = { $title }-ৰ কণ্টেক্স্‌ট মেন্যু খোলক
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = এই ছাইট সম্পাদনা কৰক
+    .aria-label = এই ছাইট সম্পাদনা কৰক
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = সম্পাদন কৰক
 newtab-menu-pin = পিন কৰক
 newtab-menu-unpin = আনপিন কৰক
 newtab-menu-delete-history = ইতিহাসৰ পৰা বিলোপ কৰক
@@ -33,15 +80,13 @@ newtab-menu-delete-pocket = { -pocket-brand-name }-ৰ পৰা বিলোপ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = বুকমাৰ্ক আঁতৰাওক
 # Bookmark is a verb here.
 newtab-menu-bookmark = বুকমাৰ্ক কৰক
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -62,14 +107,12 @@ newtab-menu-open-file = ফাইল খোলক
 newtab-label-bookmarked = বুকমাৰ্ক কৰা হ'ল
 newtab-label-saved = { -pocket-brand-name }-ত সঞ্চিত হ'ল
 
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
-
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+
 ## Section aria-labels
+
 
 ## Section Headers.
 
@@ -78,6 +121,7 @@ newtab-label-saved = { -pocket-brand-name }-ত সঞ্চিত হ'ল
 
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 
 ## Pocket Content Section.
 
