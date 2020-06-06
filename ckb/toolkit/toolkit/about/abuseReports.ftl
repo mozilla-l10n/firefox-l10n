@@ -17,9 +17,14 @@ abuse-report-addon-authored-by = لە لایەن <a data-l10n-name="author-name"
 abuse-report-learnmore =
     دڵنیانیت کێشەکە چییە؟
     <a data-l10n-name="learnmore-link">زیاتر بخوێنەوە لەسەر ڕاپۆرت کردنی زیادکراو ڕووکارەکان</a>
+abuse-report-submit-description = کێشەکە پێناسە بکە (دڵخوازە)
 
 ## Panel buttons.
 
+abuse-report-cancel-button = پاشگەزبوونەوە
+abuse-report-next-button = دوواتر
+abuse-report-goback-button = بڕۆ دواوە
+abuse-report-submit-button = ناردن
 
 ## Message bars descriptions.
 
@@ -27,9 +32,26 @@ abuse-report-learnmore =
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = ڕاپۆرت کردن بۆ <span data-l10n-name="addon-name">{ $addon-name }</span> هەڵوەشێنرایەوە.
+abuse-report-messagebar-submitting = ناردنی ڕاپۆرت بۆ <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = سوپاس بۆ ناردنی ڕاپۆرت، دەتەوێت <span data-l10n-name="addon-name">{ $addon-name }</span> بسڕیتەوە؟
+abuse-report-messagebar-submitted-noremove = سوپاس بۆ ناردنی ڕاپۆرت.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = بەڵی، بیسڕەوە
+abuse-report-messagebar-action-keep-extension = نەخێر، دەیهێڵمەوە
+abuse-report-messagebar-action-remove-theme = بەڵی، بیسڕەوە
+abuse-report-messagebar-action-keep-theme = نەخێر، دەیهێڵمەوە
+abuse-report-messagebar-action-retry = هەوڵ بدەرەوە
+abuse-report-messagebar-action-cancel = پاشگەزبوونەوە
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = زانیارییەکان و کۆمپیوتەرکەم تێک دەدات
+abuse-report-damage-reason-v2 = کۆمپیوتەرەکەمی تێکدا و زانیارییەکانم بینرا
+abuse-report-damage-example = نموونە: زیانەوەڵای دانا یان زانیاری دزەپێکرد
+abuse-report-spam-reason = شتی نەخوازراو یان ڕیکلام
+abuse-report-spam-reason-v2 = بابەتی نەخوازراو یان ڕێکلامی نەویستراو دەهێنێت
+abuse-report-spam-example = نموونە: هێنانی ڕێکلام و پەڕەی تر
+abuse-report-other-reason = شتێکی تر
