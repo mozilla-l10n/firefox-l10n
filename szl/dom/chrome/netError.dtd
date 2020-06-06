@@ -82,12 +82,30 @@
 </ul>">
 
 <!ENTITY securityOverride.linkText "Abo idzie przidać wyjōntek…">
+<!ENTITY securityOverride.warningContent "<p>Niy przidowej wyjōntku, jak używosz połōnczynio, kerymu niy wierzisz, abo niy ma żeś przibadany widzieć upozorniynia do tego serwera.</p>
+<p>Jak durch chcesz przidać wyjōntek do tyj strōny, idzie to zrobić w rozszyrzōnych sztalōnkach kodowanio</p>">
 
+<!ENTITY cspBlocked.title "Zaszperowane skuli polityki bezpieczyństwa zawartości">
+<!ENTITY cspBlocked.longDesc "<p>Przeglōndarka niy dała tyj strōnie sie tak zaladować skuli polityki bezpieczyństwa strōny, co na to niy przizwolo.</p>">
 
+<!ENTITY xfoBlocked.title "Zaszperowane skuli polityki X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Przeglōndarka niy dała tyj strōnie sie zaladować w tym kōntekście skuli polityki X-Frame-Options strōny, co na to niy przizwolo.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Feler: poprzniōno zawartość">
+<!ENTITY corruptedContentErrorv2.longDesc "<ul>
+  <li>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo znod sie feler przi transmisyje danych.</li>
+  <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
+</ul>">
 
+<!ENTITY remoteXUL.title "Zdalne XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Twoje połōnczynie niy ma bezpieczne">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "Serwer <p><span class='hostname'></span> używo przedowniōnyj technologije bezpieczyństwa i leko idzie go zaatakować. Napastnik leko by poradziōł poznać informacyje, kere mosz za bezpieczne. Administratōr strōny bydzie musioł naprawić serwer, podwiela pōdzie nawiydzić ta strōna.</p><p>Kod felera: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Zaszperowano strōna">
 
+<!ENTITY networkProtocolError.title "Feler necowego protokołu">
+<!ENTITY networkProtocolError.longDesc "<p>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo znod sie feler we protokole naca.</p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li></ul>">

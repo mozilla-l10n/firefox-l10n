@@ -4,12 +4,12 @@
 
 about-private-browsing-learn-more = Dowiydz sie wiyncyj ô <a data-l10n-name="learn-more">prywatnym przeglōndaniu</a>.
 about-private-browsing-info-visited = nawiydzōne strōny
-privatebrowsingpage-open-private-window-label = Ôdewrzij prywatne ôkno
+privatebrowsingpage-open-private-window-label = Ôtwōrz prywatne ôkno
     .accesskey = P
-about-private-browsing-info-notsaved = Jak przeglōndosz co w prywatnym ôknie, { -brand-short-name }<strong>niy spamiyntuje</strong>:
+about-private-browsing-info-notsaved = Jak przeglōndosz we prywatnym ôknie, { -brand-short-name }<strong>niy spamiyntuje</strong>:
 about-private-browsing-search-placeholder = Szukej w internecie
 about-private-browsing-info-bookmarks = zokłodki
-about-private-browsing-info-title = Jeżeś w prywatnym ôknie
+about-private-browsing-info-title = Je żeś we prywatnym ôknie
 about-private-browsing-info-searches = wyszukowania
 about-private-browsing-info-downloads = pobrania
 private-browsing-title = Prywatne przeglōndanie
