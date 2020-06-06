@@ -175,13 +175,28 @@ monitor-no-breaches-title = Gute Nachrichten!
 monitor-no-breaches-description = Sie haben keine bekannten Datenlecks. Wir informieren Sie, wenn sich das ändert.
 monitor-view-report-link = Bericht anzeigen
     .title = Datenlecks bei { -monitor-brand-short-name } beheben
+monitor-breaches-unresolved-title = Beheben Sie Ihre Datenlecks
+monitor-breaches-unresolved-description = Nachdem Sie die Details zu einem Datenleck überprüft und die notwendigen Schritte zum Schutz Ihrer persönlichen Daten ergriffen haben, können Sie Datenlecks als erledigt markieren.
+monitor-manage-breaches-link = Datenlecks verwalten
+    .title = Datenlecks bei { -monitor-brand-short-name } verwalten
 monitor-breaches-resolved-description = Wenn Ihre E-Mail-Adresse in neuen Datenlecks auftaucht, werden wir Sie informieren.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } von { $numBreaches } Datenlecks als erledigt markiert
+       *[other] { $numBreachesResolved } von { $numBreaches } Datenleck als erledigt markiert
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% erledigt
 monitor-partial-breaches-motivation-title-start = Toller Start!
 monitor-partial-breaches-motivation-title-middle = Weiter so!
 monitor-partial-breaches-motivation-title-end = Fast fertig! Weiter so.
+monitor-partial-breaches-motivation-description = Verbleibende Datenlecks bei { -monitor-brand-short-name } beheben
+monitor-resolve-breaches-link = Datenlecks beheben
+    .title = Datenlecks bei { -monitor-brand-short-name } beheben
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
