@@ -203,4 +203,6 @@
 <!ENTITY dontShowMessage.label        "Non mostrare questo messaggio quando i pop-up sono bloccati">
 <!ENTITY dontShowMessage.accesskey    "N">
 
+<!ENTITY throbber.tooltip2 "Vai alla pagina principale di &brandShortName;">
+
 <!ENTITY syncToolbarButton.label "Sync">
