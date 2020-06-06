@@ -27,7 +27,7 @@ onboarding-welcome-modal-privacy-body = Hai già il browser. Adesso aggiungi pro
 onboarding-welcome-modal-family-learn-more = Ulteriori informazioni sulla famiglia di prodotti { -brand-product-name }.
 onboarding-welcome-form-header = Inizia da qui
 
-onboarding-join-form-header = Entra a far parte di { -brand-product-name }
+onboarding-join-form-header = Entra in { -brand-product-name }
 onboarding-join-form-body = Inserisci il tuo indirizzo email per iniziare
 onboarding-join-form-email =
     .placeholder = Inserisci email
