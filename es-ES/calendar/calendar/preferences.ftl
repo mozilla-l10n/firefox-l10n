@@ -5,20 +5,26 @@
 calendar-title = Calendario
 calendar-title-reminder = Recordatorios
 calendar-title-category = Categorías
+
 dateformat-label =
     .value = Formato de texto de fecha:
     .accesskey = F
+
 #   $date (String) - the formatted example date
 dateformat-long =
     .label = Largo: { $date }
+
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Corto: { $date }
+
 timezone-label =
     .value = Zona horaria:
+
 weekstart-label =
     .value = Comenzar la semana en:
-    .accesskey = z
+    .accesskey = r
+
 day-1-name =
     .label = Domingo
 day-2-name =
@@ -26,18 +32,21 @@ day-2-name =
 day-3-name =
     .label = Martes
 day-4-name =
-    .label = Miércoles
+    .label = Miercoles
 day-5-name =
     .label = Jueves
 day-6-name =
     .label = Viernes
 day-7-name =
     .label = Sábado
+
 show-weeknumber-label =
     .label = Mostrar el número de semana en las vistas y el minimés
-    .accesskey = M
+    .accesskey = n
+
 workdays-label =
     .value = Días laborables:
+
 day-1-checkbox =
     .label = Dom
     .accesskey = D
@@ -49,7 +58,7 @@ day-3-checkbox =
     .accesskey = M
 day-4-checkbox =
     .label = Mié
-    .accesskey = i
+    .accesskey = X
 day-5-checkbox =
     .label = Jue
     .accesskey = J
@@ -59,29 +68,39 @@ day-6-checkbox =
 day-7-checkbox =
     .label = Sáb
     .accesskey = S
+
 dayweek-legend = Vistas diaria y semanal
+
 visible-hours-label =
     .value = Mostrar:
     .accesskey = o
+
 visible-hours-end-label =
     .value = horas a la vez
+
 day-start-label =
     .value = El día comienza a las:
-    .accesskey = d
+    .accesskey = c
+
 day-end-label =
-    .value = El día termina a las:
+    .value = El día termina a las Day ends at:
     .accesskey = t
+
 midnight-label =
     .label = Medianoche
 noon-label =
     .label = Mediodía
+
 location-checkbox =
-    .label = Mostrar dirección
-    .accesskey = d
+    .label = Mostrar ubicación
+    .accesskey = u
+
 multiweek-legend = Vista multisemana
+
 number-of-weeks-label =
-    .value = Número de semanas a mostrar (incluyendo semanas previas):
+    .value = Número de semanas que mostrar (incluyendo anteriores):
     .accesskey = e
+
 week-0-label =
     .label = ninguna
 week-1-label =
@@ -96,91 +115,120 @@ week-5-label =
     .label = 5 semanas
 week-6-label =
     .label = 6 semanas
+
 previous-weeks-label =
-    .value = Semanas previas a mostrar:
+    .value = Semanas previas que mostrar:
     .accesskey = p
-todaypane-legend = Panel Para hoy
+
+todaypane-legend = Panel para hoy
+
 # Note: "Upcoming" is the name of a section and the translation must match the
 # translation of that section name (calendar.upcoming.button.label). Also,
 # it should be upper case (as a proper name) if the target language permits.
 soon-label =
     .value = La sección Próximamente muestra:
-    .accesskey = P
+    .accesskey = p
+
 event-task-legend = Eventos y tareas
+
 default-length-label =
-    .value = Longitud predeterminada de eventos y tareas:
-    .accesskey = L
+    .value = Duración predeterminada de eventos y tareas:
+    .accesskey = D
+
 task-start-label =
     .value = Fecha de inicio:
+
 task-start-1-label =
     .label = Ninguna
 task-start-2-label =
-    .label = Comienzo del día
+    .label = Inicio del día
 task-start-3-label =
     .label = Final del día
 task-start-4-label =
     .label = Mañana
 task-start-5-label =
-    .label = Semana siguiente
+    .label = Próxima semana
 task-start-6-label =
-    .label = Relativo a la hora actual
+    .label = Relativa a la fecha actual
 task-start-7-label =
-    .label = Relativo al comienzo
+    .label = Relativa al inicio
 task-start-8-label =
-    .label = Relativo a la hora siguiente
+    .label = Relativa a la siguiente hora
+
 task-due-label =
-    .value = Fecha límite:
+    .value = Fecha de finalización:
+
 edit-intab-label =
-    .label = Editar eventos y tareas en una pestaña en lugar de en una ventana de diálogo.
-    .accesskey = t
-accessibility-legend = Accesibilidad
+    .label = Editar eventos y tareas en una pestaña en lugar de una ventana de diálogo.
+    .accesskey = E
+
+accessibility-legend = Accessibilidad
+
 accessibility-colors-label =
-    .label = Optimizar colores para accesibilidad
-    .accesskey = O
-reminder-legend = Cuando se activa un aviso:
+    .label = Optimizar colores para la accesibilidad
+    .accesskey = c
+
+reminder-legend = Cuando salta un recordatorio:
+
 reminder-play-checkbox =
-    .label = Reproducir sonido
+    .label = Reproducir un sonido
     .accesskey = R
+
 reminder-play-alarm-button =
     .label = Reproducir
-    .accesskey = e
+    .accesskey = p
+
 reminder-default-sound-label =
-    .label = Usar sonido predeterminado
-    .accesskey = d
+    .label = Usar el sonido predeterminado
+    .accesskey = s
+
 reminder-custom-sound-label =
     .label = Usar el siguiente archivo de sonido
     .accesskey = U
+
 reminder-browse-sound-label =
-    .label = Examinar...
+    .label = Examinar…
     .accesskey = x
+
 reminder-dialog-label =
-    .label = Mostrar la ventana de aviso
-    .accesskey = M
+    .label = Mostrar el diálogo del recordatorio
+    .accesskey = d
+
 missed-reminder-label =
-    .label = Mostrar recordatorios ocultados en calendarios escribibles
-    .accesskey = o
-reminder-default-legend = Valores predeterminados para avisos
+    .label = Mostrar recordatorios perdidos en calendarios escribibles
+    .accesskey = M
+
+reminder-default-legend = Valores predeterminados de recordatorios
+
 default-snooze-label =
     .value = Duración predeterminada del retardo:
-    .accesskey = u
+    .accesskey = D
+
 event-alarm-label =
-    .value = Config. predet. de aviso para eventos:
-    .accesskey = C
+    .value = Configuración predeterminada de recordatorio de eventos:
+    .accesskey = e
+
 alarm-on-label =
-    .label = Encendido
+    .label = Activado
 alarm-off-label =
-    .label = Apagado
+    .label = Desactivado
+
 task-alarm-label =
-    .value = Config. predet. de aviso para tareas:
-    .accesskey = n
+    .value = Configuración predeterminada de recordatorio de tareas:
+    .accesskey = a
+
 event-alarm-time-label =
-    .value = Antelación predet. con la que un aviso aparece antes de un evento:
-    .accesskey = P
+    .value = Tiempo predeterminado de recordatorio antes de un evento:
+    .accesskey = u
+
 task-alarm-time-label =
-    .value = Antelación predet. con la que un aviso aparece antes de una tarea:
-    .accesskey = v
+    .value = Tiempo predeterminado de recordatorio antes de una tarea:
+    .accesskey = o
+
 category-new-label = Nueva categoría
+
 category-edit-label = Editar categoría
+
 category-overwrite-title = Advertencia: nombre duplicado
-category-overwrite = Ya existe una categoría con ese nombre. ¿Quiere sobreescribirla?
+category-overwrite = Ya existe una categoría con ese nombre. ¿Desea sobrescribirla?
 category-blank-warning = Debe introducir un nombre de categoría.
