@@ -14,18 +14,18 @@ about-private-browsing-info-searches = wyszukowania
 about-private-browsing-info-downloads = pobrania
 private-browsing-title = Prywatne przeglōndanie
 about-private-browsing-info-saved = { -brand-short-name }<strong>spamiynto</strong>:
-about-private-browsing-info-myths = Niynoleżne ôpinije ô prywatnym przeglōndaniu
+about-private-browsing-info-myths = Czynste mity ô prywatnym przeglōndaniu
 about-private-browsing-info-clipboard = skopiowany tekst
-about-private-browsing-info-temporary-files = zatymczasowe zbiory
+about-private-browsing-info-temporary-files = tymczasowe zbiory
 about-private-browsing-info-cookies = cookies
 tracking-protection-start-tour = Jak to funguje
-about-private-browsing-note = Skuli prywatnego przeglōndanio <strong>niy ma żeś anonimowo</strong>w Internecie. Twōj zwiyrchnik abo dostowca necowych usug durch poradzi uwidzieć twoje przeglōndane strōny.
+about-private-browsing-note = Przi prywatnym przeglōndaniu <strong>niy je sie anonimowo</strong>w Internecie. Twōj zwiyrchnik abo dostowca necowych usug durch zno twoje przeglōndane strōny.
 about-private-browsing =
     .title = Szukej w internecie
-about-private-browsing-not-private = Niy ma żeś teroz we prywatnym ôknie.
-content-blocking-title = Szperowanie zawartości
-content-blocking-description = Niykere strōny używajōm cichtowanio, bez co mogōm filować na twoja aktywność w internecie. We prywatnych ôknach { -brand-short-name } szperowanie zawartości autōmatycznie szperuje moc elymyntōw, co zbiyrajōm informacyje ô twojim przeglōndaniu.
-about-private-browsing-info-description = { -brand-short-name } pucuje historyjo wyszukowanio i przeglōndanio, jak wyłōnczysz aplikacyjo abo jak zawrzisz wszyskie prywatne karty i ôkna. Skuli tego niy ma żeś anonimowy do strōn ani dostowcōw necowych usug. Snadnij ale możesz skryć swoja aktywność w internecie przed inkszymi, co używajōm tego kōmputra.
+about-private-browsing-not-private = Niy je żeś teroz we prywatnym ôknie.
+content-blocking-title = Blokowanie zawartości
+content-blocking-description = Niykere strōny używajōm śledzynio, co mogōm mōnitorować twoja aktywność w internecie. We prywatnych ôknach { -brand-short-name } blokowanie zawartości autōmatycznie blokuje moc elymyntōw, co zbiyrajōm informacyje ô twojim przeglōndaniu.
+about-private-browsing-info-description = { -brand-short-name } ôprōznio historyjo wyszukowanio i przeglōndanio, jak wyłōnczysz aplikacyjo abo jak zawrzisz wszyske prywatne karty i ôkna. Skuli tego niy je sie anonimowym do strōn ani dostowcōw necowych usug. Snadnij ale możesz skryć swoja aktywność w internecie przed inkszymi, co używajōm tego kōmputra.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

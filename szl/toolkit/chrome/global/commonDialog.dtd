@@ -7,4 +7,4 @@
 
 <!ENTITY editfield0.label "Miano ôd używocza:"> 
 <!ENTITY editfield1.label "Hasło:"> 
- 
+<!ENTITY checkbox.label   "ôbznocz"> 
