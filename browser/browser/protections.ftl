@@ -97,6 +97,15 @@ lockwise-scanned-text-breached-logins =
         [one] Ein Passwort wurde möglicherweise bei einem Datenleck offengelegt.
        *[other] { $count } Passwörter wurden möglicherweise bei einem Datenleck offengelegt.
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 Passwort sicher gespeichert-.
+       *[other] Ihre Passwörter werden sicher gespeichert.
+    }
 lockwise-how-it-works-link = Wie es funktioniert
 turn-on-sync = { -sync-brand-short-name } aktivieren…
     .title = Sync-Einstellungen öffnen
@@ -179,6 +188,7 @@ monitor-breaches-unresolved-title = Beheben Sie Ihre Datenlecks
 monitor-breaches-unresolved-description = Nachdem Sie die Details zu einem Datenleck überprüft und die notwendigen Schritte zum Schutz Ihrer persönlichen Daten ergriffen haben, können Sie Datenlecks als erledigt markieren.
 monitor-manage-breaches-link = Datenlecks verwalten
     .title = Datenlecks bei { -monitor-brand-short-name } verwalten
+monitor-breaches-resolved-title = Exzellent. Sie haben alle Probleme mit Datenlecks behoben.
 monitor-breaches-resolved-description = Wenn Ihre E-Mail-Adresse in neuen Datenlecks auftaucht, werden wir Sie informieren.
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
