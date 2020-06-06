@@ -41,3 +41,6 @@ pill-action-move-bcc =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = Povratnica
+    .tooltiptext = Zahtevaj potrdilo o prejemu za to sporočilo
