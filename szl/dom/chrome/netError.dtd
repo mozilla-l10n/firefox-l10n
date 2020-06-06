@@ -37,10 +37,23 @@
 <!ENTITY notCached.longDesc '<p>Proszōny dokumynt niy ma dostympny w podryncznyj pamiyńci przeglōndarki. </p><ul><li>Skuli bezpieczynstwa przeglōndarka autōmatycznie niy pobiyro zaś prywatnych dokumyntōw. </li><li>Kliknij "Sprōbuj jeszcze roz", coby jeszcze roz pobrać dokumynt ze strōny.</li></ul>'>
 
 <!ENTITY netOffline.title "Tryb offline">
+<!ENTITY netOffline.longDesc2 "<p>Przeglōndarka robi we trybie offline i niy poradzi sie połōnczyć z tym elymyntym.</p><ul><li>Je tyn kōmputer połōnczōny z aktywnym necym?</li><li>Prziciś&quot;Sprōbuj jeszcze roz&quot;, coby sie przełōnczyć na tryb online i zaladować strōna.</li></ul>">
 
+<!ENTITY contentEncodingError.title "Feler kodowanio zawartości">
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo używo złyj abo niyôbsugowanyj formy kōmpresyje.</li>
+  <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
+</ul>">
 
+<!ENTITY unsafeContentType.title "Niybezpieczny typ zbioru">
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
+</ul>">
 
+<!ENTITY netReset.title "Połōnczynie sie stargało">
+<!ENTITY netReset.longDesc "<p>Połōnczynie sie stargało przi negocjacyji dostympu. Sprōbuj jeszcze roz.</p>">
 
+<!ENTITY netTimeout.title "Przestōmpiōny czas na łōnczynie">
 
 
 
