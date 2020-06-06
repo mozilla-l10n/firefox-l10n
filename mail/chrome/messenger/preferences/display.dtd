@@ -24,7 +24,7 @@
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Показувати смайлики як графіку">
-<!ENTITY convertEmoticons.accesskey    "б">
+<!ENTITY convertEmoticons.accesskey    "к">
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Мітки використовують для сортування та зазначення пріоритетів листів.">
