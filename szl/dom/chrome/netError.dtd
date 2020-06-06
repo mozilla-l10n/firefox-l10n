@@ -76,7 +76,12 @@
 </ul>">
 
 <!ENTITY nssBadCert.title "Niypodarzōne bezpieczne połōnczynie">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>Może to być problym z kōnfiguracyjōm serwera, abo fto prōbuje udować tyn serwer.</li>
+<li>Jak już kejś były udane połōnczynia z tym serwerym, tyn feler może być czasowy i dobrze je sprōbować niyskorzij.</li>
+</ul>">
 
+<!ENTITY securityOverride.linkText "Abo idzie przidać wyjōntek…">
 
 
 
