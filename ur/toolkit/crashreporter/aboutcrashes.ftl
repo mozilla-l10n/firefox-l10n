@@ -21,5 +21,5 @@ submit-crash-button-failure-label = ناکام
 crashes-submitted-label = ارسال شدہ کریش رپورٹیں
 date-submitted-heading = ارسال کردہ تاریخ
 view-crash-button-label = دیکھیں
-no-reports-label = کوی تباہ رپورٹ ارسال نہی کی گی۔
+no-reports-label = کوی کریش رپورٹیں ارسال نہی کی گئیں۔
 no-config-label = یہ ایپلی کیشن تباہ کردہ رپورٹس کو دکھانے کے لیے تشکیل کردہ نہں کی گیی. ترجیح کردہ <code>breakpad.reportURL</code> ضرور سیٹ ہونا چاہیے.
