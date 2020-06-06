@@ -694,3 +694,10 @@ search-input-box =
 ## Preferences UI Search Results
 
 search-results-header = Rezultati iskanja
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Oprostite! V možnostih ni zadetkov za “<span data-l10n-name="query"></span>”.
+       *[other] Oprostite! V nastavitvah ni zadetkov za “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Potrebujete pomoč? Obiščite <a data-l10n-name="url">podporo za { -brand-short-name }</a>
