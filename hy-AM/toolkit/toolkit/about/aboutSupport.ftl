@@ -292,6 +292,8 @@ sandbox-proc-type-data-decoder = տվյալների վերծանիչ
 startup-cache-title = Ինքնամեկնարկի շտեմ
 startup-cache-disk-cache-path = Հիշասարքի շտեմի ուղի
 startup-cache-ignore-disk-cache = Անտեսել հիշասարքի շտեմը
+startup-cache-found-disk-cache-on-init = Սկզբնավորման ժամանակ գտնվել է հիշասարքի շտեմ
+startup-cache-wrote-to-disk-cache = Գրվել է հիշասարքի շտեմում
 launcher-process-status-0 = Միացված
 launcher-process-status-1 = Անջատված է ձախողման պատճառով
 launcher-process-status-2 = Ուժով անջատված
@@ -315,6 +317,7 @@ touch-enabled = հպմամբ մուտքագրումը միացված է
 drag-enabled = գլորագոտու քաշելը միացված է
 keyboard-enabled = ստեղնաշարի միացված է
 autoscroll-enabled = ինքնապտտումը միացված է
+zooming-enabled = շարժումների սահուն չափափոխումը միացված է
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
