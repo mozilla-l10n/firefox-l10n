@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 category-name-label = Nombre
+
 category-color-label =
     .label = Usar color
