@@ -72,7 +72,15 @@ options-screenshot-audio-tooltip =
 options-sourceeditor-label = Խմբագրիչի նախըտրանքներ
 options-sourceeditor-detectindentation-tooltip =
     .title = Գուշակել բացատը ըստ աղբյուրի բովանդակության
+options-sourceeditor-detectindentation-label = Հայտնաբերել ներս շեղումը
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = Ինքնաշխատ տեղադրել փակման փակագծերը
+options-sourceeditor-autoclosebrackets-label = Ինքնափակման փակագծեր
+options-sourceeditor-expandtab-tooltip =
+    .title = Ներդիրի նիշքի փոխարեն օգտագործեք բացատներ
+options-sourceeditor-expandtab-label = Ներ շեղումը՝ տարածքի փոխարեն
 options-sourceeditor-tabsize-label = Ներդիրի չափը
+options-sourceeditor-keybinding-label = Ստեղների զուգորդություններ
 options-sourceeditor-keybinding-default-label = Լռելյայն
 
 ## Advanced section
@@ -81,14 +89,30 @@ options-sourceeditor-keybinding-default-label = Լռելյայն
 options-context-advanced-settings = Լրացուցիչ կարգավորումներ
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Անջատել HTTP պահոցը (երբ գործիքատուփը բաց է)
+options-disable-http-cache-tooltip =
+    .title = Այս ընտրանքի միացումը բաց գործիքատուփ ունեցող բոլոր ներդիրների համար կանջատի HTTP պահեստը։ Ծառայության աշխատողները այս ընտրանքի կողմից ներազդված չեն։
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Անջատել JavaScript-­ը *
 options-disable-javascript-tooltip =
     .title = Այս ընտրանքը կանջատի JavaScript-ը տվյալ ներդիրի համար: Եթե ներդիրը կամ գործիքները փակ են, ապա այս ընտրանքը կմոռացվի:
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Միացնել chrome զննարկիչը և հավելել վրիպազերծման գործիքատուփերը
+options-enable-chrome-tooltip =
+    .title = Այս ընտրանքի միացումը ձեզ կթույլատրի զննարկչի համատեքստում օգտագործել տարբեր մշակողի գործիքներ (Գործիքներ > Վեբ մշակող > Զննարկիչի գործիքատուփ-ի միջոցով) և հավելումների կառավարչից վրիպազերծել հավելումները
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Դարձնել հնարին հեռակառավարվող կարգաբերումը
 options-enable-remote-tooltip =
     .title = Այս ընտրանքի կապակցումը թույլ կտա մշակողի գործիքներին հեռակա կարգաբերել Firefox-ի նմուշը, ինչպիսինն Firefox OS-ն է
+options-enable-remote-tooltip2 =
+    .title = Այս ընտրանքի միացումը թույլ կտա հեռակա վրիպազերծել զննարկիչի այս օրինակը
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = Միացնել ծառայության աշխատողներին HTTP-ի միջոցով (երբ գործիքատուփը բաց է)
+options-enable-service-workers-http-tooltip =
+    .title = Այս ընտրանքը միացնելը կմիացնի ծառայության աշխատողներին HTTP-ի միջոցով բոլոր բաց գործիքատուփ ունեցող ներդիրների համար։
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Միացնել աղբյուրի քարտեզները
+options-source-maps-tooltip =
+    .title = Եթե միացնեք այս ընտրանքը՝ աղբյուրները կքարտեզագրվեն գործիքներում։
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Միայն ընթացիկ շրջանը, վերաբացում է էջը
 # The label for the checkbox that toggles the display of the platform data in the
