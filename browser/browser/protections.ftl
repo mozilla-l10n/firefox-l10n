@@ -140,6 +140,14 @@ password-warning =
         [one] gespeicherte Zugangsdaten wurden eventuell durch ein Datenleck offengelegt. Ändern Sie das Passwort für mehr Online-Sicherheit. <a data-l10n-name="lockwise-link">Gespeicherte Zugangsdaten anzeigen</a>
        *[other] gespeicherte Zugangsdaten wurden eventuell durch einen Datenleck offengelegt. Ändern Sie das Passwort für mehr Online-Sicherheit. <a data-l10n-name="lockwise-link">Gespeicherte Zugangsdaten anzeigen</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Passwort in nicht erledigten Datenlecks offengelegt
+       *[other] Passwörter in nicht erledigten Datenlecks offengelegt
+    }
 monitor-no-breaches-title = Gute Nachrichten!
 monitor-no-breaches-description = Sie haben keine bekannten Datenlecks. Wir informieren Sie, wenn sich das ändert.
 monitor-breaches-resolved-description = Wenn Ihre E-Mail-Adresse in neuen Datenlecks auftaucht, werden wir Sie informieren.
