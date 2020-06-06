@@ -449,16 +449,19 @@ de disco y memoria de &brandShortName;:</p>
   el <a href="glossary.xhtml#wpad">protocolo WPAD</a>.</li>
   <li><strong>URL para configuración automática del
   proxy</strong>: elija esta opción si tiene un archivo o URL para
-  configuración de proxy, luego introduzca la URL de
+  autoconfiguración de proxy (PAC), y seguidamente introduzca la URL de
   configuración.
     <ul>
       <li><strong>Recargar</strong>: pulse aquí para recargar el
       archivo de configuración.
-      <p>Para más información sobre la configuración
-      automática del proxy, vea en línea el documento (en
-      inglés) <a
-      href="http://www.mozilla.org/catalog/end-user/customizing/enduserPAC.html">End
-      User Guide to Proxy AutoConfiguration</a>.</p>
+        <p>Un archivo PAC tiene código JavaScript que elige un proxy que
+          usar dependiendo de la dirección que abra. El mismo archivo puede
+          usar más de un proxy o usar proxies solo para direcciones
+          específicas. Para más información sobre el contenido de los archivos
+          PAC, vea la
+          <a href="https://developer.mozilla.org/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_%28PAC%29_file">
+          documentación MDN en línea sobre archivos de autoconfiguración de
+          proxy</a>.</p>
       </li>
     </ul>
   </li>
@@ -548,22 +551,24 @@ conexiones basadas en HTTP:</p>
     por &brandShortName; a todos los sitios web se usa para propósitos
     estadísticos sobre el uso de sitios web, pero a veces también para
     suministrar ciertas características únicamente a navegadores conocidos
-    (una práctica conocida como "sniffing"). Consecuentemente, desmarcar
-    alguna de estas casilla puede suponer que los sitios web o los servicios
-    de calendario remoto no funcionen correctamente.
+    (una práctica conocida como "sniffing"). En consecuencia, cambiar esta
+    opción puede tener como resultado que los sitios web no funcionen
+    correctamente. &brandShortName; puede:
     <ul>
-      <li><strong>Anunciar compatibilidad con Firefox</strong>: si está
-        activado, &brandShortName; se identificará a sí mismo a la vez
-        como &brandShortName; y también como compatible con Firefox.
-        Esto permite a los sitios web que buscan ciertos navegadores en
-        lugar de ciertas funcionalidades que funcionen correctamente con
-        &brandShortName;.</li>
-      <li><strong>Anunciar instalación de Lightning</strong>: esta opción
-        solo está disponible cuando la extensión de calendario Lightning
-        está instalada y activada. Si se activa, &brandShortName; añadirá
-        información sobre la presencia y versión de Lightning, para que
-        los sitios web de calendario y los servicios de calendario remoto
-        puedan personalizar su comunicación.</li>
+      <li><strong>Identificarse como Firefox</strong>: no se menciona a
+        &brandShortName;; se envía un identificador de Firefox en su lugar.
+        Esto puede ser necesario para sitios web que rehúsan funcionar cuando
+        &brandShortName; se menciona en el identificador.</li>
+      <li><strong>Identificarse como &brandShortName;</strong>: &brandShortName;
+        se identificará a sí mismo como &brandShortName;, sin mencionar a
+        Firefox.</li>
+      <li><strong>Identificarse como &brandShortName; y anunciar compatibilidad
+        con Firefox</strong>: &brandShortName; se identificará a sí mismo como
+        &brandShortName; y también como compatible con Firefox. Esto permite
+        a los sitios web que buscan ciertos navegadores en lugar de cierta
+        funcionalidad que funcionen con &brandShortName;, a la vez que aún
+        aparecen como &brandShortName; en las estadísticas de los sitios
+        web.</li>
     </ul>
   </li>
 </ul>
