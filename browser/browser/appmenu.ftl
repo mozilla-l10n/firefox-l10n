@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Պաշտպանության զեկույց
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Անցնել գաղտնիության զեկույցին
+appmenuitem-protection-dashboard-title = Պաշտպանության վահանակ
 appmenuitem-customize-mode =
     .label = Հարմարեցնել…
 
@@ -26,3 +27,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ինչն է նոր
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Ծանուցել նոր հնարավորությունների մասին
+    .accesskey = f
