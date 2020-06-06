@@ -72,14 +72,21 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = সম্পাদন কৰক
+newtab-menu-open-new-window = নতুন উইণ্ড' এটাত খোলক
+newtab-menu-open-new-private-window = নতুন ব্যক্তিগত উইণ্ড' এটাত খোলক
+newtab-menu-dismiss = খাৰিজ কৰক
 newtab-menu-pin = পিন কৰক
 newtab-menu-unpin = আনপিন কৰক
 newtab-menu-delete-history = ইতিহাসৰ পৰা বিলোপ কৰক
 newtab-menu-save-to-pocket = { -pocket-brand-name }-ত সঞ্চয় কৰক
 newtab-menu-delete-pocket = { -pocket-brand-name }-ৰ পৰা বিলোপ কৰক
+newtab-menu-archive-pocket = { -pocket-brand-name }-ত আৰ্কাইভ কৰক
+newtab-menu-show-privacy-info = আমাৰ স্পঞ্চৰ আৰু আপোনাৰ গোপনিয়তা
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = হৈ গ'ল
+newtab-privacy-modal-header = আপোনাৰ গোপনিয়তাৰ গুৰুত্ব আছে।
 
 ##
 
@@ -93,6 +100,7 @@ newtab-menu-bookmark = বুকমাৰ্ক কৰক
 
 newtab-menu-copy-download-link = ডাউনল'ড প্ৰতিলিপি কৰক
 newtab-menu-go-to-download-page = ডাউনল'ড পৃষ্ঠালৈ যাওক
+newtab-menu-remove-download = ইতিহাসৰ পৰা আঁতৰাওক
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -105,7 +113,10 @@ newtab-menu-open-file = ফাইল খোলক
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-bookmarked = বুকমাৰ্ক কৰা হ'ল
+newtab-label-removed-bookmark = বুকমাৰ্ক আঁতৰোৱা হ'ল
+newtab-label-recommended = ট্ৰেণ্ডিং
 newtab-label-saved = { -pocket-brand-name }-ত সঞ্চিত হ'ল
+newtab-label-download = ডাউনল'ড কৰিছে
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
