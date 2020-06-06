@@ -26,6 +26,12 @@ alert-refresh = Titkosított beszélgetés felfrissítése a következővel: { $
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = A titkosított beszélgetés véget ért a következővel: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = { $name } személyazonossága még nem lett ellenőrizve. Az egyszerű lehallgatás nem lehetséges, de némi erőfeszítéssel valaki más lehallgathatja. A partner személyazonosságánek igazolásával megakadályozhatja a megfigyelést.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } egy nem ismert számítógépről lép kapcsolatba Önnel. Az egyszerű lehallgatás nem lehetséges, de némi erőfeszítéssel valaki más lehallgathatja. A partner személyazonosságánek igazolásával megakadályozhatja a megfigyelést.
 state-not_private = A jelenlegi beszélgetés nem privát.
 # Variables:
 #   $name (String) - the screen name of a chat contact person

@@ -24,6 +24,9 @@ msgevent-rcvdmsg_not_private = A(z) { $name } felől érkező titkosított üzen
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Olvashatatlan titkosított üzenetet kapott a következőtől: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Helytelenül formázott adatüzenetet kapott tőle: { $name }.
 # A Heartbeat is a technical message used to keep a connection alive.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -32,12 +35,24 @@ msgevent-log_heartbeat_rcvd = Kapcsolatfenntartási üzenet érkezett a követke
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log_heartbeat_sent = Kapcsolatfenntartási üzenet küldve a következőnek: { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Váratlan hiba történt a beszélgetés OTR használatával történő védelmekor.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = A következő, { $name } felől kapott üzenet nem volt titkosítva: { $msg }
 error-enc = Hiba történt az üzenet titkosításakor.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Titkosított adatokat küldött { $name } számára, aki nem számított rá.
 error-unreadable = Olvashatatlan titkosított üzenetet továbbított.
 error-malformed = Nem megfelelő formátumú adatüzenetet továbbított.
+resent = [újraküldve]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } befejezte a titkosított beszélgetését Önnel; Önnek is ugyanezt kell tennie.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } egy Off-the-Record (OTR) protokollal titkosított beszélgetést kért. Viszont nincs olyan bővítménye, amely ezt támogatná.További információkért lásd: https://en.wikipedia.org/wiki/Off-the-Record_Messaging.
