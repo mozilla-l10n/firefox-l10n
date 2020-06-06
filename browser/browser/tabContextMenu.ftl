@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = Жабылған бетті қайтару
     .accesskey = л
+tab-context-close-multiple-tabs =
+    .label = Бірнеше бетті жабу
+    .accesskey = ш
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Жабылған бетті қайтару
+           *[other] Жабылған беттерді қайтару
+        }
+    .accesskey = й
 close-tab =
     .label = Бетті жабу
     .accesskey = Б
