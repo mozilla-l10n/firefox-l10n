@@ -56,6 +56,18 @@ move-to-new-window =
 undo-close-tab =
     .label = Przywróć zamkniętą kartę
     .accesskey = a
+tab-context-close-multiple-tabs =
+    .label = Zamknij wiele kart
+    .accesskey = w
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Przywróć zamkniętą kartę
+            [one] Przywróć zamkniętą kartę
+            [few] Przywróć zamknięte karty
+           *[many] Przywróć zamknięte karty
+        }
+    .accesskey = a
 close-tab =
     .label = Zamknij kartę
     .accesskey = Z
