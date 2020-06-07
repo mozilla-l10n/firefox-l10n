@@ -268,12 +268,12 @@ popup-select-microphone =
 popup-all-windows-shared = Alle sichtbaren Fenster auf dem Bildschirm werden weitergegeben.
 popup-screen-sharing-not-now =
     .label = Nicht jetzt
-    .accesskey = j
+    .accesskey = c
 popup-screen-sharing-never =
     .label = Nie erlauben
     .accesskey = N
-popup-silence-notifications-checkbox = Deaktivieren Sie Benachrichtigungen von { -brand-short-name } während der Bildschirmfreigabe
-popup-silence-notifications-checkbox-warning = { -brand-short-name } zeigt keine Benachrichtigungen an, während Sie Ihren Bildschirm teilen.
+popup-silence-notifications-checkbox = Keine Benachrichtigungen von { -brand-short-name } anzeigen, während Ihr Bildschirm oder ein Fenster geteilt wird.
+popup-silence-notifications-checkbox-warning = { -brand-short-name } zeigt keine Benachrichtigungen an, während Sie Ihren Bildschirm oder ein Fenster teilen.
 
 ## WebRTC window or screen share tab switch warning
 
