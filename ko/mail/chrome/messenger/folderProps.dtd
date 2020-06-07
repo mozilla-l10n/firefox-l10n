@@ -60,6 +60,7 @@
 <!ENTITY privileges.button.label                 "접근 권한…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "아래 권한 있음:">
+<!ENTITY folderOtherUsers.label                  "이 폴더에 액세스 할 수있는 다른 사람:">
 <!ENTITY folderType.label                        "폴더 형식:">
 
 <!ENTITY folderQuotaTab.label                    "용량">
