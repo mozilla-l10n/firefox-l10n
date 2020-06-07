@@ -14,6 +14,5 @@ accounts-conn-security = Bezpieczeństwo połączenia
 accounts-auth-method = Metoda uwierzytelniania
 accounts-default = Domyślne?
 identity-name = Tożsamość
-
 send-via-email = Wyślij e-mailem
-
+app-basics-telemetry = Dane telemetrii
