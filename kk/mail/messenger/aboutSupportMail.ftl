@@ -14,6 +14,5 @@ accounts-conn-security = Байланыс қауіпсіздігі
 accounts-auth-method = Аутентификация тәсілі
 accounts-default = Бастапқы ма?
 identity-name = Жеке мәліметтер
-
 send-via-email = Эл. пошта арқылы жіберу
-
+app-basics-telemetry = Телеметрия мәліметтері
