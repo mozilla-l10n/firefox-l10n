@@ -7,17 +7,17 @@
 <!ENTITY event.dialog.keepDurationButton.tooltip   "Kesto pysyy samana muutettaessa päättymispäivää">
 <!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
-<!ENTITY newevent.from.label                "Lähettäjä" >
-<!ENTITY newevent.to.label                  "Vastaanottaja" >
+<!ENTITY newevent.from.label                "Alkaa" >
+<!ENTITY newevent.to.label                  "Päättyy" >
 
 <!ENTITY newevent.status.label                    "Tila" >
 <!ENTITY newevent.status.accesskey                "T" >
 <!ENTITY newevent.eventStatus.none.label          "Ei määritetty" >
 <!ENTITY newevent.eventStatus.none.accesskey      "E" >
 <!ENTITY newevent.todoStatus.none.label           "Ei määritetty" >
-<!ENTITY newevent.eventStatus.cancelled.label     "Keskeytetty" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Peruttu" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "K" >
-<!ENTITY newevent.todoStatus.cancelled.label      "Keskeytetty" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Peruttu" >
 <!ENTITY newevent.status.tentative.label          "Alustava" >
 <!ENTITY newevent.status.tentative.accesskey      "t" >
 <!ENTITY newevent.status.confirmed.label          "Vahvistettu" >
