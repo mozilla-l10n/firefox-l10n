@@ -7,3 +7,9 @@
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "Խմբագրում…">
 <!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDefault.label "Սկզբնադիր կազմ">
+<!ENTITY identitiesListDefault.accesskey "S">
+<!ENTITY identitiesListDelete.label "Ջնջել">
+<!ENTITY identitiesListDelete.accesskey "D">
+<!ENTITY identitiesListClose.label "Փակել">
+<!ENTITY identitiesListClose.accesskey "C">
