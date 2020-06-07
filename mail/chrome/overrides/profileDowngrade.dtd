@@ -9,8 +9,11 @@
  Thunderbird" and "version" is used to mean "the specific revision number of a
  given Thunderbird channel". These terms are not synonymous.
 -->
+<!ENTITY window.title "Сіз ескірген &brandProductName; нұсқасын жөнелттіңіз">
+<!ENTITY window.style "width: 490px;">
 
 
 <!ENTITY window.moreinfo "Көбірек білу…">
 <!ENTITY window.create "Жаңа профильді жасау">
 <!ENTITY window.quit-win "Шығу">
+<!ENTITY window.quit-nonwin "Шығу">

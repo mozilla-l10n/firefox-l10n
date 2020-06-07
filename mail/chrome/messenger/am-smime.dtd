@@ -13,6 +13,9 @@
 <!ENTITY alwaysEncryptMessage.accesskey "д">
 <!ENTITY encryptionCert.message "Бұл сертификатты шифрлеу және сізге жіберілген хабарламаларды дешифрлеу үшін қолдану:">
 
+
+
+
 <!ENTITY digitalSign.certificate.button "Таңдау…">
 <!ENTITY digitalSign.certificate.accesskey "с">
 <!ENTITY digitalSign.certificate_clear.button "Тазарту">
@@ -31,8 +34,24 @@
 <!ENTITY manageCerts2.accesskey "б">
 <!ENTITY manageDevices.label "Қорғаныс жабдықтары">
 <!ENTITY manageDevices.accesskey "ж">
-<!-- Strings for the cert picker dialog -->
 
+
+
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "S/MIME сертификаттарын басқару">
+<!ENTITY manageCerts3.accesskey "е">
+<!ENTITY manageDevices2.label "S/MIME қауіпсіздік құрылғылары">
+<!ENTITY manageDevices2.accesskey "у">
+
+<!ENTITY technologySMIME.label "S/MIME қалау">
+<!ENTITY technologyOpenPGP.label "OpenPGP қалау">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "OpenPGPкілттерін басқару">
+<!ENTITY manageKeys.accesskey "к">
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Сертификатты таңдау">
 <!ENTITY certPicker.info  "Сертификат:">
 <!ENTITY certPicker.detailsLabel "Таңдалған сертификат ақпараты:">

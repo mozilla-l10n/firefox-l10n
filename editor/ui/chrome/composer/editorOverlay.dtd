@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "е">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Қаріп">
 <!ENTITY FontFaceSelect.tooltip "Қаріпті таңдау">
 <!ENTITY fontfaceMenu.label "Қаріп">
 <!ENTITY fontfaceMenu.accesskey "а">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Қаріп өлшемі">
 <!ENTITY FontSizeSelect.tooltip "Қаріп өлшемін таңдау">
 <!ENTITY decreaseFontSize.label "Кішірек">
 <!ENTITY decreaseFontSize.accesskey "к">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Тізім қасиеттері…">
 <!ENTITY listPropsCmd.accesskey "Т">
 
+<!ENTITY ParagraphSelect.title "Абзац">
 <!ENTITY ParagraphSelect.tooltip "Абзац пішімін таңдау">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Дене мәтіні">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Енімен туралау">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Орналастыру">
 <!ENTITY layer.tooltip "Қабат">
+<!ENTITY decreaseZIndex.label "Артқа жіберу">
 <!ENTITY layerSendToBack.tooltip "Артқа жіберу">
+<!ENTITY increaseZIndex.label "Алға шығару">
 <!ENTITY layerBringToFront.tooltip "Алға шығару">
 
 <!ENTITY increaseIndent.label "Шегінуді үлкейту">
@@ -304,28 +310,44 @@
 <!ENTITY linkToolbarCmd.tooltip "Жаңа сілтемені енгізу немесе таңдалған сілтеменің қасиеттерін түзету">
 <!ENTITY anchorToolbarCmd.label "Байланыс">
 <!ENTITY anchorToolbarCmd.tooltip "Жаңа атаулы байланысты енгізу немесе таңдалған байланыстың қасиеттерін түзету">
+<!ENTITY colorButtons.title "Түстер">
 <!ENTITY TextColorButton.tooltip "Мәтін үшін түсті таңдау">
 <!ENTITY BackgroundColorButton.tooltip "Фон үшін түсті таңдау">
 <!ENTITY throbber.tooltip "&vendorShortName; үй парағына өту">
 <!ENTITY throbber.tooltip2 "&brandShortName; үй парағына өту">
+<!ENTITY HighlightColorButton.label "Түспен ерекшелеу">
 <!ENTITY HighlightColorButton.tooltip "Мәтінді ерекшелеу түсін таңдау">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Қаріп өлшемі">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Қаріп өлшемін орнату">
+<!ENTITY smaller.label "Кішірек">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Кішірек қаріп">
+<!ENTITY larger.label "Үлкенірек">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Үлкенірек қаріп">
+<!ENTITY bold.label "Жуан">
 <!ENTITY boldToolbarCmd.tooltip "Жуан">
+<!ENTITY italic.label "Курсив">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
+<!ENTITY underline.label "Асты сызылған">
 <!ENTITY underlineToolbarCmd.tooltip "Асты сызылған">
+<!ENTITY bullets.label "Маркерлер">
 <!ENTITY bulletListToolbarCmd.tooltip "Маркерленген тізімді іске қосу/өшіру">
+<!ENTITY numbers.label "Сандар">
 <!ENTITY numberListToolbarCmd.tooltip "Нөмірленген тізімді іске қосу/өшіру">
 <!ENTITY outdentToolbarCmd.tooltip "Мәтін шегінісін кішірейту">
 <!ENTITY indentToolbarCmd.tooltip "Мәтін шегінісін үлкейту">
+<!ENTITY AlignPopupButton.label "Туралау">
 <!ENTITY AlignPopupButton.tooltip "Мәтін туралануын таңдау">
+<!ENTITY InsertPopupButton.label "Кірістіру">
 <!ENTITY InsertPopupButton.tooltip "Сілтеме, байланыс, сурет, горизонталды сызық немесе кестені енгізу">
+<!ENTITY alignLeftButton.label "Солға туралау">
 <!ENTITY alignLeftButton.tooltip "Мәтінді сол жақ өріспен туралау">
+<!ENTITY alignCenterButton.label "Ортаға туралау">
 <!ENTITY alignCenterButton.tooltip "Мәтінді ортасымен туралау">
+<!ENTITY alignRightButton.label "Оңға туралау">
 <!ENTITY alignRightButton.tooltip "Мәтінді оң жақ өріспен туралау">
+<!ENTITY alignJustifyButton.label "Енімен туралау">
 <!ENTITY alignJustifyButton.tooltip "Мәтінді сол және оң жақ өрістерімен туралау">
 
 <!-- Structure Toolbar Context Menu items -->

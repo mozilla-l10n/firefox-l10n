@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (қашықтағы бумалар)">
 <!ENTITY pop3Long.label                  "POP3 (поштаны сіздің компьютеріңізде сақтау)">
 
+<!ENTITY manualConfigTable.summary       "Сервер баптаулары">
 <!ENTITY incoming.label                  "Кіріс:">
 <!ENTITY incomingColumn.label            "Кіріс">
 <!ENTITY outgoing.label                  "Шығыс:">
