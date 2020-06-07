@@ -633,7 +633,7 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Uusi viesti">
-<!ENTITY appmenuNewContactCmd.label "Osoitekirjan yhteistyö…">
+<!ENTITY appmenuNewContactCmd.label "Osoitekirjan yhteyshenkilö…">
 <!ENTITY appmenuEditMenu.label "Muokkaa">
 <!ENTITY appmenuToolbarLayout.label "Työkalupalkin asettelu…">
 <!ENTITY appmenuSelectThread.label "Valitse viestiketju">
