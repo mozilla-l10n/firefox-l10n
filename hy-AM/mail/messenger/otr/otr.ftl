@@ -67,3 +67,8 @@ resent = [վրդովված]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name }-ն ավարտեց Ձեզ հետ գաղտնագրված զրույցը; դուք նույնպես պետք է անեք նույնը:
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name }-ը խնդրել է գրառումից դուրս (OTR) գաղտնագրված զրույց: Այնուամենայնիվ, դուք դրան աջակցելու օժանդակիչ չունեք: Տեսեք https://en.wikipedia.org/wiki/Off-the-Record_Messaging՝ լրացուցիչ տեղեկությունների համար:
