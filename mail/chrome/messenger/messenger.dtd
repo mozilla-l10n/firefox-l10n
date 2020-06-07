@@ -590,6 +590,7 @@
 <!ENTITY fileButton.tooltip "Mou el missatge seleccionat">
 <!ENTITY archiveButton.tooltip "Arxiva els missatges seleccionats">
 <!ENTITY openConversationButton.tooltip "Mostra la conversa del missatge seleccionat">
+<!ENTITY openMsgConversationButton.tooltip "Mostra la conversa del missatge seleccionat">
 <!ENTITY nextButton.tooltip "Vés al següent missatge per llegir">
 <!ENTITY nextMsgButton.tooltip "Vés al missatge següent">
 <!ENTITY previousButton.tooltip "Vés a l'anterior missatge per llegir">
@@ -709,6 +710,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Desa la cerca com una carpeta…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Seleccioneu missatges">
 <!ENTITY threadColumn.label "Conversa">
 <!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
@@ -979,3 +981,5 @@
 <!ENTITY openAddressBookDock.label      "Obre la llibreta d'adreces">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Vés una pàgina enrere">
+<!ENTITY browseForwardButton.tooltip "Vés una pàgina endavant">
