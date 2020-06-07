@@ -11,7 +11,7 @@
 <!ENTITY EditLegendText.accesskey "t">
 <!ENTITY LegendAlign.label "Հավասարեցնել լեգենդը.">
 <!ENTITY LegendAlign.accesskey "A">
-<!ENTITY AlignDefault.label "Հիմնական">
+<!ENTITY AlignDefault.label "Սկզբնադիր">
 <!ENTITY AlignLeft.label "Ձախից">
 <!ENTITY AlignCenter.label "Կենտրոնում">
 <!ENTITY AlignRight.label "Աջից">

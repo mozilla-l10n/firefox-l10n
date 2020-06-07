@@ -10,7 +10,7 @@
 <!ENTITY useDefault.label                 "Վերականգնել հիմնականը">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY changeDockIconOptions.label      "Ծրագրի պատկերակի կարգավորումների փոփոխում">
+<!ENTITY changeDockIconOptions.label      "Ծրագրի պատկերակի նախապատվությունների փոփոխում">
 <!ENTITY dockOptions.label                "Ծրագրի պատկերակի ընտրանքներ...">
 <!ENTITY dockOptions.accesskey            "կ">
 

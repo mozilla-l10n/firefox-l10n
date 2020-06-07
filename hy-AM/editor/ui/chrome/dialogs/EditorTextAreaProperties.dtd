@@ -25,7 +25,7 @@
 
 <!ENTITY TextAreaWrap.label "Տողադարձի եղանակ.">
 <!ENTITY TextAreaWrap.accessKey "Տ">
-<!ENTITY WrapDefault.value "Հիմնական">
+<!ENTITY WrapDefault.value "Սկզբնադիր">
 <!ENTITY WrapOff.value "Անջ.">
 <!ENTITY WrapHard.value "Կոշտ">
 <!ENTITY WrapSoft.value "Փափուկ">

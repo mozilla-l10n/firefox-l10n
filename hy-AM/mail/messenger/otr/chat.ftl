@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 state-label = Գաղտնագրման վիճակը.
-start-text = Սկսեք գատղնագրված խոսակցություն
+start-text = Սկսեք գաղտնագրված զրույց
 start-label =
     .label = { start-text }
 start-tooltip =
     .tooltiptext = { start-text }
 end-label =
-    .label = Ավարտել գաղտնագրված խոսակցությունը
+    .label = Ավարտել գաղտնագրված զրույցը
 auth-label =
     .label = Ստուգել ձեր կոնտակտի ինքնությունը

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = Կարևոր նորություններ
-heading = Փոփոխություններ ձեր { -brand-short-name } պրոֆիլում
+heading = Փոփոխություններ ձեր { -brand-short-name } հատկագրում
 changed-title = Ի՞նչն է փոխվել:
 changed-desc-profiles = { -brand-short-name }-ի  տեղադրումը ունի նոր հատկագիր: Հատկագիրը ֆայլերի սահմանում է, որտեղ { -brand-product-name }-ը պահպանում է տեղեկատվությունը, ինչպիսին է՝ էլ. փոստի տվյալները, գաղտնաբառերը և օգտագործողի նախապատվությունները և հասցեների գիրքը:
 changed-desc-dedicated = Որպեսզի ավելի դյուրին և անվտանգ դառնա փոխարկումը { -brand-product-name }-ի (ներառյալ՝ { -brand-product-name }-ը, { -brand-product-name } Beta-ն և { -brand-product-name } Daily-ին) տեղակայումների միջև, այս տեղադրումը այժմ ունի առանձնացված հատկագիր: Այն ինքնաբար չի համօգտագործում պահպանված ձեր տեղեկությունները { -brand-product-name }-ի այլ տեղադրումների հետ:

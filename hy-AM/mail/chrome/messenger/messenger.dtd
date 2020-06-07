@@ -32,7 +32,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "Ա">
 <!ENTITY newIMAccountCmd.label "Զրույցի հաշիվ...">
 <!ENTITY newIMAccountCmd.accesskey "Զ">
-<!ENTITY newFeedAccountCmd.label "Շղթայի հաշիվը…">
+<!ENTITY newFeedAccountCmd.label "Սնման հաշիվ…">
 <!ENTITY newFeedAccountCmd.accesskey "ա">
 <!ENTITY newIMContactCmd.label "Զրուցել կոնտակտի հետ...">
 <!ENTITY newIMContactCmd.accesskey "h">
@@ -448,7 +448,7 @@
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Կցորդներ">
 <!ENTITY openAttachmentListCmd.accesskey "h">
-<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
+<!ENTITY openFeedMessage1.label "Սնման հաղորդագրություն բացելիս">
 <!ENTITY openFeedMessage1.accesskey "O">
 <!ENTITY openFeedWebPage.label "Բացել որպես վեբ էջ">
 <!ENTITY openFeedWebPage.accesskey "W">
