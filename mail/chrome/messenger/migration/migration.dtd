@@ -20,7 +20,7 @@
 <!ENTITY importItems.title              "Elementoj por enporti">
 <!ENTITY importItems.label              "Elekti elementojn por enporti:">
 
-<!ENTITY migrating.title                "Importing…">
+<!ENTITY migrating.title                "Enportado…">
 <!ENTITY migrating.label                "The following items are currently being imported…">
 
 <!ENTITY selectProfile.title            "Select Profile">
