@@ -500,7 +500,7 @@ home-prefs-topsites-description = Die von Ihnen am meisten besuchten Websites
 home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
 home-prefs-recommended-by-description = Tolle Inhalte aus dem ganzen Internet, für Sie personalisiert
-home-prefs-recommended-by-description-update = Besondere Inhalte aus dem Web, ausgewählt von { $provider }
+home-prefs-recommended-by-description-update = Besondere Inhalte aus dem ganzen Internet, ausgewählt von { $provider }
 
 ##
 
@@ -918,8 +918,8 @@ addressbar-locbar-openpage-option =
     .label = Offene Tabs
     .accesskey = O
 addressbar-locbar-topsites-option =
-    .label = Meistbesuchte Seiten
-    .accesskey = M
+    .label = Wichtige Seiten
+    .accesskey = W
 addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 
 ## Privacy Section - Content Blocking
