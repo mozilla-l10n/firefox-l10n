@@ -14,3 +14,9 @@
 <!ENTITY chooseFoldersButton.label "Ընտրէք…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
+<!ENTITY searchOnline.label "Որոնել առցանց (տալիս է արդի արդիւնքներ IMAP- ի եւ Նորութիւնների թղթապանակների համար, բայց մեծացնում է թղթապանակը բացելու ժամանակը)">
+<!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label       "Ստեղծել">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Թարմացնել">
+<!ENTITY editFolderButton.accesskey  "U">
