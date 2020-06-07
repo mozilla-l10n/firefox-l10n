@@ -26,6 +26,12 @@ alert-refresh = { $name }와의 암호화된 대화를 새로고침 하려고 �
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = { $name }와의 암호화된 대화가 종료되었습니다.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = { $name }의 신원이 아직 확인되지 않았습니다. 자유로운 도청은 불가능하지만 누군가 노력을 하면 청취할 수 있습니다. 이 연락처의 신원을 확인하여 감시를 차단하십시오.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } 님이 인식할 수 없는 컴퓨터에서 연락하고 있습니다. 자유로운 도청은 불가능하지만 누군가 노력을 하면 청취할 수 있습니다. 이 연락처의 신원을 확인하여 감시를 차단하십시오.
 state-not_private = 현재 대화는 비공개가 아닙니다.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
