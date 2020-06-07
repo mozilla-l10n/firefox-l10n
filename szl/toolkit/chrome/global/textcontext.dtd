@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY cutCmd.label "Wytnij">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Kopiuj">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Wraź">
+<!ENTITY pasteCmd.accesskey "w">
+<!ENTITY undoCmd.label "Cofnij">
+<!ENTITY undoCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Ôbier wszysko">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Skasuj">
+<!ENTITY deleteCmd.accesskey "s">
+
+<!ENTITY spellAddToDictionary.label "Przidej do dykcjōnorza">
+<!ENTITY spellAddToDictionary.accesskey "d">
+<!ENTITY spellUndoAddToDictionary.label "Cofnij przidanie do dykcjōnorza">
+<!ENTITY spellUndoAddToDictionary.accesskey "f">
+<!ENTITY spellCheckToggle.label "Badnij szkryft">
+<!ENTITY spellCheckToggle.accesskey "b">
+<!ENTITY spellNoSuggestions.label "(Żodnych doradōw szkryftu)">
+<!ENTITY spellDictionaries.label "Godki">
+<!ENTITY spellDictionaries.accesskey "G">
+
+<!ENTITY searchTextBox.clear.label "Wypucuj">
+
+<!ENTITY fillLoginMenu.label          "Wraź dane logowanio">
+<!ENTITY fillLoginMenu.accesskey      "W">
+<!ENTITY fillPasswordMenu.label       "Wraź hasło">
+<!ENTITY fillPasswordMenu.accesskey   "W">
+<!ENTITY fillUsernameMenu.label       "Wraź miano używocza">
+<!ENTITY fillUsernameMenu.accesskey   "W">
+<!ENTITY noLoginSuggestions.label     "(Żodnych doradōw danych logowanio)">
+<!ENTITY viewSavedLogins.label        "Pokoż spamiyntane dane logowanio">
