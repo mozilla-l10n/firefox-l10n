@@ -286,8 +286,26 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Żeby używać skrōtu F12, nojprzōd ôtwōrz DevTools ze myni Twōrcōw Necu.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Szukej abo wkludź adresa
+urlbar-placeholder =
+    .placeholder = Szukej abo wkludź adresa
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Przeglōndarka je kōntrolowano zdalnie
+urlbar-permissions-granted =
+    .tooltiptext = Ta strōna dostała ekstra zgody.
+urlbar-switch-to-tab =
+    .value = Przełōncz na karta:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Rozszyrzynie:
 urlbar-go-button =
-    .tooltiptext = Idź do adresy z poska z adresōm
+    .tooltiptext = Idź do adresy podanyj we posku adresy
+urlbar-page-action-button =
+    .tooltiptext = Akcyje strōny
+urlbar-pocket-button =
+    .tooltiptext = Spamiyntej do { -pocket-brand-name(case: "gen") }

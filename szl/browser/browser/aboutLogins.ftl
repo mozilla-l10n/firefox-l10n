@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = Ściōng z Google Play
 login-app-promo-apple =
     .alt = Ściōng ze App Store
-
 login-filter =
     .placeholder = Szukej danych logowanio
-
 create-login-button = Stwōrz nowe dane logowanio
-
 fxaccounts-sign-in-text = Używej swojich haseł na inkszych maszinach
 fxaccounts-sign-in-button = Wloguj sie do { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -34,6 +32,7 @@ menu =
     .title = Ôtwōrz myni
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importuj z inkszyj przeglōndarki…
+about-logins-menu-menuitem-export-logins = Eksportuj loginy…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ôpcyje
@@ -114,17 +113,26 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Żeby edytować login, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edytować spamiyntane dane logowanio
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Żeby ôbejzdrzeć hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ôbejzdrzeć spamiyntane hasło
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Żeby skopiować hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skopiować spamiyntane hasło
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Żeby eksportować swoje loginy, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = eksportuj spamiyntane dane logowanio i hasła
 
 ## Master Password notification
 
@@ -156,11 +164,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Pociep
 confirmation-dialog-dismiss-button =
     .title = Pociep
-
 about-logins-confirm-remove-dialog-title = Skasować te dane logowanio?
 confirm-delete-dialog-message = Tyj akcyje niy idzie cofnōńć.
 about-logins-confirm-remove-dialog-confirm-button = Skasuj
-
+about-logins-confirm-export-dialog-title = Eksportuj dane logowanio i hasła
+about-logins-confirm-export-dialog-message = Twoje hasła bydōm spamiyntane za czytelny tekst (bp. Złeh@sł0), tōż kożdy, fto bydzie mōg ôtworzić eksportowany zbiōr, bydzie je widzieć.
+about-logins-confirm-export-dialog-confirm-button = Eksportuj…
 confirm-discard-changes-dialog-title = Ôdciepnōńć niyspamiyntane umiany?
 confirm-discard-changes-dialog-message = Wszyjske niyspamiyntane umiany bydōm stracōne.
 confirm-discard-changes-dialog-confirm-button = Ôdciep
@@ -191,10 +200,21 @@ about-logins-vulnerable-alert-learn-more-link = Wiyncyj informacyji
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Dane logowanio na { $loginTitle } ze takim mianym używocza już istniyjōm. <a data-l10n-name="duplicate-link">Pokozać dane, co już istniyjōm?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Doszło do feleru przi prōbie spamiyntanio tego hasła.
 
-
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Eksportuj zbiōr loginōw…
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = loginy.csv
+about-logins-export-file-picker-export-button = Eksportuj
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumynt CSV
+       *[other] Zbiōr CSV
+    }
