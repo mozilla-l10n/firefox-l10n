@@ -183,6 +183,25 @@ password-warning =
         [few] zachowane dane logowania mogły zostać ujawnione w wycieku danych. Zmień te hasła, aby zachować bezpieczeństwo w Internecie. <a data-l10n-name="lockwise-link">Wyświetl zachowane dane logowania</a>
        *[many] zachowanych danych logowania mogło zostać ujawnionych w wycieku danych. Zmień te hasła, aby zachować bezpieczeństwo w Internecie. <a data-l10n-name="lockwise-link">Wyświetl zachowane dane logowania</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] hasło zostało ujawnione w nierozwiązanych wyciekach
+        [few] hasła zostały ujawnione w nierozwiązanych wyciekach
+       *[many] haseł zostało ujawnionych w nierozwiązanych wyciekach
+    }
+monitor-no-breaches-title = Dobre wieści!
+monitor-no-breaches-description = Nie masz żadnych znanych wycieków danych. Damy Ci znać, jeśli to się zmieni.
+monitor-view-report-link = Wyświetl raport
+    .title = Rozwiąż wycieki w serwisie { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Rozwiąż swoje wycieki danych
+monitor-breaches-unresolved-description = Po sprawdzeniu informacji o wycieku i podjęciu kroków w celu ochrony swoich danych, możesz oznaczyć wyciek jako rozwiązany.
+monitor-manage-breaches-link = Zarządzaj wyciekami danych
+    .title = Zarządzaj wyciekami danych w serwisie { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Nieźle! Rozwiązano wszystkie znane wycieki danych.
+monitor-breaches-resolved-description = Damy Ci znać, jeśli Twój adres e-mail pojawi się w nowych wyciekach danych.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
