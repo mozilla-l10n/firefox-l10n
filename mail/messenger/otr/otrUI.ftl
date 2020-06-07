@@ -26,3 +26,36 @@ alert-refresh = { $name }와의 암호화된 대화를 새로고침 하려고 �
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = { $name }와의 암호화된 대화가 종료되었습니다.
+state-not_private = 현재 대화는 비공개가 아닙니다.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = { $name }의 신원이 확인되지 않아서 현재의 대화는 암호화 되었지만 비공개가 아닙니다.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = { $name }의 신원이 확인되었습니다. 현재 대화는 암호화되어 있으며 비공개입니다.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } 님이 암호화 된 대화를 종료했습니다. 나도 똑같이 해야 합니다.
+state-not_private-label = 보안되지 않음
+state-unverified-label = 확인 안 됨
+state-private-label = 비공개
+state-finished-label = 안료됨
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name }님이 본인 확인을 요청하였습니다.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = { $name }의 신원을 확인하였습니다.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = { $name }의 신원이 아직 확인되지 않았습니다.
+verify-title = 연락처의 신원 확인
+error-title = 오류
+success-title = 종단간 암호화
+successThem-title = 연락처의 신원 확인
+fail-title = 확인할 수 없음
+waiting-title = 확인 요청 전송됨
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = OTR 개인 키 생성에 실패: { $error }
