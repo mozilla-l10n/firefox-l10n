@@ -6,4 +6,4 @@ connection-window =
     .title = Կարևոր նորություններ
 continue-button =
     .label = Շարունակել
-main-text = { -brand-short-name }-ի այս տեղադրումը ունի նոր պրոֆիլ: Այն չի համօգտագործում էլ. փոստի տվյալները, գաղտնաբառերը, օգտագործողի նախապատվությունները և հասցեների գրքերը { -brand-product-name }-ի իրենց տեղադրումներով (ներառյալ՝ { -brand-product-name }-ը, { -brand-product-name } Beta-ն և { -brand-product-name } Daily-ին) այս համակարգչում:
+main-text = { -brand-short-name }-ի այս տեղադրումը ունի նոր հատկագիր: Այն չի համօգտագործում էլ. փոստի տվյալները, գաղտնաբառերը, օգտագործողի նախապատվությունները և հասցեների գրքերը { -brand-product-name }-ի իրենց տեղադրումներով (ներառյալ՝ { -brand-product-name }-ը, { -brand-product-name } Beta-ն և { -brand-product-name } Daily-ին) այս համակարգչում:

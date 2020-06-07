@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-start-label = Սկսել գատղնագրված խոսակցություն
-refresh-label = Թարմացնել գաղտնագրված խոսակցությունը
+start-label = Սկսել գաղտնագրված զրույց
+refresh-label = Թարմացնել գաղտնագրված զրույցը
 auth-label = Ստուգել ձեր կոնտակտի ինքնությունը
 reauth-label = Կրկին ստուգել ձեր կոնտակտի ինքնությունը
 auth-cancel = Չեղարկել
@@ -35,10 +35,10 @@ finger-seen = { $name }-ի ինքնությունը դեռ հաստատված չ
 state-not_private = Ընթացիկ զրույցը մասնավոր չէ:
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-state-unverified = Ընթացիկ խոսակցությունը գաղտնագրված է, բայց ոչ մասնավոր, քանի որ { $name }-ի ինքնությունը դեռ հաստատված չէ:
+state-unverified = Ընթացիկ զրույցը գաղտնագրված է, բայց ոչ մասնավոր, քանի որ { $name }-ի ինքնությունը դեռ հաստատված չէ:
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-state-private = { $name }-ի ինքնությունը հաստատված է: Ներկայիս խոսակցությունը գաղտնագրված է և մասնավոր:
+state-private = { $name }-ի ինքնությունը հաստատված է: Ներկայիս զրույցը գաղտնագրված է և մասնավոր:
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name }-ն ավարտեց Ձեզ հետ գաղտնագրված զրույցը; դուք նույնպես պետք է անեք նույնը:

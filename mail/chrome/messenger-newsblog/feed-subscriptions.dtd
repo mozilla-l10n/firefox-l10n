@@ -4,12 +4,12 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Բաժանորդագրություններ">
-<!ENTITY learnMore.label             "Մանրամասներ Շղթաների մասին">
+<!ENTITY learnMore.label             "Մանրամասներ սնման մասին">
 
 <!ENTITY feedTitle.label             "Անվանում.">
 <!ENTITY feedTitle.accesskey         "Ա">
 
-<!ENTITY feedLocation.label          "Շղթայի URL-ն.">
+<!ENTITY feedLocation.label          "Սնման URL-ն.">
 <!ENTITY feedLocation.accesskey      "Շ">
 <!ENTITY feedLocation2.placeholder   "Նշեք ճիշտ վեբ հղում">
 <!ENTITY locationValidate.label      "Վավերացնել">
@@ -30,7 +30,7 @@
 <!ENTITY quickMode.label             "Ցուցադրել հոդվածի ընդհանուր պատկերը` վեբ էջի փոխարեն">
 <!ENTITY quickMode.accesskey         "Ց">
 
-<!ENTITY autotagEnable.label         "Ինքնաբար ստեղծել պիտակներ՝ շղթաների &lt;անվանակարգի&gt; անուններից">
+<!ENTITY autotagEnable.label         "Ինքնաբար ստեղծել պիտակներ՝ սնման &lt;անվանակարգի&gt; անուններից">
 <!ENTITY autotagEnable.accesskey     "ա">
 <!ENTITY autotagUsePrefix.label      "Պիտակի նախածանցը.">
 <!ENTITY autotagUsePrefix.accesskey  "Պ">
@@ -49,7 +49,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Արտածել">
 <!ENTITY button.exportOPML.accesskey "x">
-<!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
+<!ENTITY button.exportOPML.tooltip   "Արտահանել սնումները պանակի կառուցվածքով; ctrl քլիք կամ ; ctrl enter՝ սնումները որպես ցանկ արտահանելու համար">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Փակել">
