@@ -17,7 +17,9 @@
 <!ENTITY newListCmd.label                               "Listę dystrybucyjną">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Książkę adresową">
-<!ENTITY newAddressBookCmd.accesskey                    "k">
+<!ENTITY newAddressBookCmd.accesskey                    "K">
+<!ENTITY newCardDAVBookCmd.label                        "Książkę adresową CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "C">
 <!ENTITY newLDAPDirectoryCmd.label                      "Katalog LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Wiadomość">
