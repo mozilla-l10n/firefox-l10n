@@ -57,7 +57,6 @@ rcwn-avg-long = Ұзақ орташа мәні
 rcwn-std-dev-long = Ұзақ стандартты ауытқу
 rcwn-cache-slow = Кэшке баяу қатынаудың саны
 rcwn-cache-not-slow = Кэшке баяу емес қатынаудың саны
-
 about-networking-title = Желі туралы
 about-networking-http = HTTP
 about-networking-sockets = Сокеттер
@@ -80,6 +79,7 @@ about-networking-family = Отбасы
 about-networking-trr = TRR
 about-networking-addresses = Адрестер
 about-networking-expires = Мерзімі бітеді (секунд)
+about-networking-originAttributesSuffix = Оқшаулау кілті
 about-networking-messages-sent = Жіберілген хабарламалар
 about-networking-messages-received = Алынған хабарламалар
 about-networking-bytes-sent = Жіберілген байттар
