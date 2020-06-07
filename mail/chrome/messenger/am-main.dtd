@@ -15,6 +15,8 @@
 <!ENTITY name.accesskey "I">
 <!ENTITY email.label "Adres e-mail:">
 <!ENTITY email.accesskey "A">
+<!ENTITY catchAll.label "Odpowiadaj z tej tożsamości, kiedy nagłówki dostawy się zgadzają:">
+<!ENTITY catchAll.accesskey "O">
 <!ENTITY replyTo.label "Zwrotny adres e-mail:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "inny adres, na który odbiorcy wiadomości powinni wysyłać odpowiedzi">
@@ -31,12 +33,14 @@
 <!ENTITY choose.accesskey "W">
 <!ENTITY editVCard.label "Edytuj wizytówkę…">
 <!ENTITY editVCard.accesskey "E">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Dołączaj wizytówkę do wysyłanych wiadomości">
 <!ENTITY attachVCard.accesskey "D">
 
 <!ENTITY manageIdentities.label "Zarządzaj tożsamościami…">
 <!ENTITY manageIdentities.accesskey "Z">
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Serwer poczty wychodzącej (SMTP):">
 <!ENTITY smtpName.accesskey "r">
 <!ENTITY smtpDefaultServer.label "Użyj domyślnego serwera">
