@@ -907,6 +907,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Wyjątki…
     .accesskey = W
+sitedata-cookies-exceptions =
+    .label = Wyjątki…
+    .accesskey = W
 
 ## Privacy Section - Address Bar
 
@@ -921,6 +924,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = otwartych kartach
     .accesskey = k
+addressbar-locbar-topsites-option =
+    .label = popularnych witrynach
+    .accesskey = w
 addressbar-suggestions-settings = Zmień preferencje podpowiedzi dostarczanych przez wyszukiwarki
 
 ## Privacy Section - Content Blocking
