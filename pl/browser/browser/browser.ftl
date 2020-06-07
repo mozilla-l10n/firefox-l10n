@@ -277,6 +277,12 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } nie będzie
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = { -brand-short-name } jest udostępniany. Inni będą widzieć, że przechodzisz do nowej karty.
+sharing-warning-screen = Cały ekran jest udostępniany. Inni będą widzieć, że przechodzisz do nowej karty.
+sharing-warning-proceed-to-tab =
+    .label = Przejdź do karty
+sharing-warning-disable-for-session =
+    .label = Wyłącz ochronę udostępniania na czas tej sesji
 
 ## DevTools F12 popup
 
