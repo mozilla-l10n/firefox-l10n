@@ -13,3 +13,57 @@ msgevent-connection_ended = { $name }-ն արդեն փակել է իրենց գ�
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Սխալ է տեղի ունեցել { $name }-ի հետ անձնական զրույցը կարգավորելու ընթացքում:
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Դուք ստանում եք ձեր սեփական OTR հաղորդագրությունները: Դուք կամ փորձում եք խոսել ինքներդ Ձեզ հետ, կամ ինչ-որ մեկը հետադարձում է ձեր հաղորդագրությունները Ձեզ:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg_resent = Վերջին հաղորդագրությունը { $name }-ին կրկին ուղարկվել է:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = { $name }-ից ստացված գաղտնագրված հաղորդագրությունն անընթեռնելի է, քանի որ ներկայումս մասնավոր կապի մեջ չեք:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = Դուք ստացել եք անընթեռնելի գաղտնագրված հաղորդագրություն { $name }-ից:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Դուք ստացել եք տվյալների սխալ ձևակերպում { $name }-ից:
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Սրտի բաբախյուն ստացվեց { $name }-ից:
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Սրտի բաբախյունը ուղրկվեց { $name }-ին:
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Անսպասելի սխալ է տեղի ունեցել, երբ փորձում եք պաշտպանել ձեր խոսակցությունը`օգտագործելով OTR:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = { $name }-ից ստացված հետևյալ հաղորդագրությունը գաղտնագրված չէ. { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Դուք ստացել եք OTR սխալ ձևակերպում { $name }-ից:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name }-ը ուղարկել է հաղորդագրություն, որը նախատեսված է այլ աշխատաշրջանի համար: Եթե մուտք եք գործել մի քանի անգամ, հնարավոր է ևս մեկ աշխատաշրջան ստացավ հաղորդագրությունը:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Անձնական զրույցը { $name }-ին հետ սկսված է:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Գաղտղնագրված, բայց չստուգված զրույցը { $name }-ի հետ սկսված է:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Հաջողությամբ թարմացրեց գաղտնագրված խոսակցությունը { $name }-ի հետ:
+error-enc = Սխալ՝ հաղորդագրությունը գաղտնագրելիս:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Դուք գաղտնագրված տվյալներ եք ուղարկել { $name }-ին, որը չէր սպասում դրան:
+error-unreadable = Դուք փոխանցել եք չընթերցվող գաղտնագրված հաղորդագրություն:
+error-malformed = Դուք փոխանցել եք տվյալների սխալ ձևակերպված հաղորդագրություն:
+resent = [վրդովված]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name }-ն ավարտեց Ձեզ հետ գաղտնագրված զրույցը; դուք նույնպես պետք է անեք նույնը:
