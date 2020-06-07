@@ -232,6 +232,10 @@ translate-attribution = Аударманы ұсынған <img data-l10n-name="l
 translate-exceptions =
     .label = Осыдан бөлек…
     .accesskey = О
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Операциялық жүйеңіздің "{ $localeName }" баптауларын күн, уақыт, сандар және өлшемдерді пішімдеу үшін қолдану.
 check-user-spelling =
     .label = Мәтін терілген кезде орфографияны тексеру
     .accesskey = о
@@ -280,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } қолдану (әрқашан да)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] macOS үнсіз келісім қолданбасын қолдану
+            [windows] Windows үнсіз келісім қолданбасын қолдану
+           *[other] Жүйелік үнсіз келісім қолданбасын қолдану
+        }
 applications-use-other =
     .label = Басқасын қолдану…
 applications-select-helper = Көмекші бағдарламаны таңдаңыз
@@ -489,6 +500,7 @@ home-prefs-topsites-description = Сіз жиі шолатын сайттар
 home-prefs-recommended-by-header =
     .label = Ұсынушы { $provider }
 home-prefs-recommended-by-description = Бүкіл Интернеттен алынған тамаша контент, талғамыңызға сай таңдалған
+home-prefs-recommended-by-description-update = Интернеттен қызық материалдар, { $provider } жинаған
 
 ##
 
@@ -552,6 +564,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Іздеу жүйелерінің ұсыныстарын жекелік терезелерінде көрсету
 suggestions-addressbar-settings = Шолу тарихы, бетбелгілер және беттер ұсыныстары үшін баптауларды өзгерту
+suggestions-addressbar-settings-generic = Адрестік жолақ үшін басқа ұсыныстар баптауларын өзгерту
 search-suggestions-cant-show = Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз { -brand-short-name } өнімін тарихты есте сақтамайтындай етіп баптадыңыз.
 search-one-click-header = Бірлік шертумен іздеу қызметтері
 search-one-click-desc = Сіз кілттік сөзді енгізген кезде адрестік жолағы және іздеу өрістерінің астында көрсетілетін қосымша іздеу жүйелерін таңдаңыз.
@@ -795,6 +808,8 @@ forms-master-pw-fips-desc = Парольді өзгерту сәтсіз аяқ�
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Басты парольді жасау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
@@ -871,6 +886,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Сайтаралық трекерлер
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Сайтаралық және әлеуметтік желілер трекерлері
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Сайтаралық және әлеуметтік желілер трекерлері, және қалған cookie файлдарын оқшаулау
 sitedata-option-block-unvisited =
     .label = Қаралмаған веб-сайттардан cookies файлдары
 sitedata-option-block-all-third-party =
@@ -953,6 +970,7 @@ content-blocking-etp-strict-desc = Қатаңырақ қорғаныс, біра
 content-blocking-etp-custom-desc = Қай трекерлер мен скрипттерді блоктауды таңдаңыз.
 content-blocking-private-windows = Жекелік шолу терезелерінде бақылайтын құрама
 content-blocking-cross-site-tracking-cookies = Сайтаралық бақылайтын cookie файлдары
+content-blocking-cross-site-tracking-cookies-plus-isolate = Сайтаралық бақылау трекерлері, және қалған cookie файлдарын оқшаулау
 content-blocking-social-media-trackers = Әлеуметтік желілер трекерлері
 content-blocking-all-cookies = Барлық cookie файлдары
 content-blocking-unvisited-cookies = Қаралмаған сайттардың cookies файлдары
@@ -964,6 +982,7 @@ content-blocking-fingerprinters = Баспаны жинаушылар
 content-blocking-warning-title = Ескерту!
 content-blocking-warning-description = Құраманы бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Сенімді сайттар үшін бұғаттауды өшіру оңай.
 content-blocking-learn-how = Көбірек білу
+content-blocking-and-isolating-etp-warning-description = Трекерлерді бұғаттау және cookie файлдарын оқшаулау кейбір сайттардың жұмысына әсер етуі мүмкін. Барлық мазмұнды жүктеу үшін трекерлермен бетті қайта жүктеңіз.
 content-blocking-warning-learn-how = Көбірек білу
 content-blocking-reload-description = Бұл өзгерістер іске асуы үшін беттерді қайта жүктеу керек болады.
 content-blocking-reload-tabs-button =
