@@ -5,6 +5,7 @@
 <!ENTITY windowTitle.label            "Assistente de chat">
 
 <!ENTITY accountProtocolField.label   "Rete:">
+<!ENTITY accountProtocolGetMore.label "Reciper plus...">
 
 <!ENTITY accountUsernameTitle.label   "Nomine de usator">
 <!ENTITY accountUsernameDuplicate.label "Iste conto es jam configurate!">
