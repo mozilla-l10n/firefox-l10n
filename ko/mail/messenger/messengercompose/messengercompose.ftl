@@ -51,3 +51,6 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = 수신 확인
+    .tooltiptext = 이 메시지에 대한 수신 확인을 요청
