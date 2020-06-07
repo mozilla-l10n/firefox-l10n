@@ -208,6 +208,7 @@
 <!ENTITY alignJustify.tooltip "Justificar">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Posicionamiento">
 <!ENTITY layer.tooltip "Capa">
 <!ENTITY layerSendToBack.tooltip "Enviar al fondo">
 <!ENTITY layerBringToFront.tooltip "Traer al frente">

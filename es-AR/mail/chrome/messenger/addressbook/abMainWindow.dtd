@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Libreta de direcciones…">
 <!ENTITY newAddressBookCmd.accesskey                    "b">
+<!ENTITY newCardDAVBookCmd.label                        "Libreta de direcciones CardDAV...">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Directorio LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Mensaje">
