@@ -272,9 +272,13 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Ешқашан рұқсат етпеу
     .accesskey = н
+popup-silence-notifications-checkbox = Бөлісу кезінде { -brand-short-name } хабарламаларын сөндіру
+popup-silence-notifications-checkbox-warning = { -brand-short-name } бөлісу кезінде хабарламаларды көрсетпейді.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Сіз { -brand-short-name } өнімімен бөлісудесіз. Басқа адамдар сіз жаңа бетке ауысқан кезде оны көре алады.
+sharing-warning-screen = Сіз бүкіл экранмен бөлісудесіз. Басқа адамдар сіз жаңа бетке ауысқан кезде оны көре алады.
 sharing-warning-proceed-to-tab =
     .label = Бетке өту
 sharing-warning-disable-for-session =
@@ -282,6 +286,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 жарлығын қолдану үшін, алдымен Веб-әзірлеуші мәзірі арқылы Әзірлеуші құралдарын ашыңыз.
 
 ## URL Bar
 
