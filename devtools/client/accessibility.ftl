@@ -6,18 +6,17 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Més informació
-
 accessibility-text-label-header = Etiquetes de text i noms
-
 accessibility-keyboard-header = Teclat
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 accessibility-warning =
     .alt = Avís
-
 accessibility-fail =
     .alt = Error
+accessibility-best-practices =
+    .alt = Millors pràctiques
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue

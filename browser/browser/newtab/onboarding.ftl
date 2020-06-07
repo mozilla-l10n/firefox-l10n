@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Afegeix l'extensió
 onboarding-import-browser-settings-title = Importeu les vostres adreces d'interès, contrasenyes i molt més
 onboarding-import-browser-settings-text = Importeu fàcilment els vostres llocs i paràmetres del Chrome.
 onboarding-import-browser-settings-button = Importa les dades del Chrome
+onboarding-personal-data-promise-title = Privat per disseny
 onboarding-personal-data-promise-text = El { -brand-product-name } tracta les vostres dades amb respecte, capturant-ne menys, protegint-les i explicant clarament com les utilitzem.
 onboarding-personal-data-promise-button = Llegiu la nostra Promesa
 
