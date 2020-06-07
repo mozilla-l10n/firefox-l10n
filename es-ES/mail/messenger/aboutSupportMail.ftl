@@ -17,3 +17,5 @@ identity-name = Identidad
 
 send-via-email = Enviar por correo
 
+
+app-basics-telemetry = Datos de telemetría

@@ -37,13 +37,19 @@ policy-DefaultDownloadDirectory = Establecer el directorio de descargas predeter
 
 policy-DisableAppUpdate = Impedir que { -brand-short-name } se actualice.
 
+policy-DisableDefaultClientAgent = Impedir que el agente de cliente por omisión lleve a cabo ninguna acción. Solo es aplicable a Windows; otras plataformas no tienen el agente.
+
 policy-DisableDeveloperTools = Bloquear el acceso a las herramientas de desarrollo.
 
 policy-DisableFeedbackCommands = Desactivar las opciones para enviar información desde el menú Ayuda (Enviar opiniones e Informar de sitio fraudulento).
 
 policy-DisableForgetButton = Impedir el acceso al botón Olvidar.
 
+policy-DisableFormHistory = No recordar el historial de búsquedas y formularios.
+
 policy-DisableMasterPasswordCreation = Si Verdadero, no se puede crear una contraseña maestra.
+
+policy-DisablePasswordReveal = No permitir que se revelen las contraseñas en las credenciales guardadas.
 
 policy-DisableProfileImport = Desactivar la opción de menú para importar datos desde otra aplicación.
 
@@ -66,6 +72,9 @@ policy-DownloadDirectory = Establecer y bloquear el directorio de descargas.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activar o desactivar el bloqueo de contenido e impedir su modificación.
 
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Activar o desactivar las extensiones cifradas de medios y opcionalmente bloquearlos.
+
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -79,7 +88,13 @@ policy-HardwareAcceleration = Si falso, desactivar la aceleración hardware.
 
 policy-InstallAddonsPermission = Permitir a ciertos sitios web instalar complementos.
 
+policy-LegacyProfiles = Disable the feature enforcing a separate profile for each installation.
+
 ## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Activar el ajuste de comportamiento de la cookie SameSite por omisión anterior.
+
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revertir al comportamiento anterior de SameSite para las cookies de sitios específicos.
 
 ##
 
@@ -89,9 +104,18 @@ policy-NetworkPrediction = Activar o desactivar la predicción de red (precarga 
 
 policy-OfferToSaveLogins = Forzar el ajuste para permitir a { -brand-short-name } ofrecer recordar los inicios de sesión y contraseñas guardadas. Se aceptan valores Verdadero y Falso.
 
+policy-OfferToSaveLoginsDefault = Configurar el valor por omisión para permitir a { -brand-short-name } ofrecer recordar las credenciales y contraseñas guardadas. Se aceptan valores Verdadero y Falso.
+
 policy-OverrideFirstRunPage = Reemplazar la página de primera ejecución. Establezca esta política en blanco si quiere desactivar la página de primera ejecución.
 
 policy-OverridePostUpdatePage = Reemplazar la página "Novedades" tras una actualización. Establezca esta política en blanco si quiere desactivar la página tras una actualización.
+
+policy-PasswordManagerEnabled = Activar el guardado de contraseñas en el administrador de contraseñas.
+
+# PDF.js and PDF should not be translated
+policy-PDFjs = Desactivar o configurar PDF.js, el visor PDF incorporado en { -brand-short-name }.
+
+policy-Permissions2 = Configurar permisos de la cámara, micrófono, ubicación, notificaciones y autorreproducción.
 
 policy-Preferences = Establecer y bloquear el valor de un subconjunto de preferencias.
 
@@ -105,6 +129,8 @@ policy-SanitizeOnShutdown2 = Limpiar los datos de navegación al cerrar.
 
 policy-SearchEngines = Configurar los ajustes de buscadores. Esta política solo está disponible en la versión de asistencia extendida (ESR).
 
+policy-SearchSuggestEnabled = Activar o desactivar sugerencias de búsqueda.
+
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 
@@ -113,6 +139,8 @@ policy-SSLVersionMax = Establecer la versión SSL máxima.
 policy-SSLVersionMin = Establecer la versión SSL mínima.
 
 policy-SupportMenu = Añadir una opción de menú personalizada en el menú Ayuda.
+
+policy-UserMessaging = No mstrar ciertos mensajes al usuario.
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear la visita de sitios web. Vea la documentación para más detalles sobre el formato.
