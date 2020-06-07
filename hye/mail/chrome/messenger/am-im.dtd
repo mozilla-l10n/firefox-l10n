@@ -6,3 +6,11 @@
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "Գլխաւոր">
 <!ENTITY account.advanced              "Յառաջացաց Ընտրանքներ">
+<!ENTITY account.name                  "Աւգտանուն․">
+<!ENTITY account.password              "Գաղտնաբառ․">
+<!ENTITY account.alias                 "Կեղծանուն․">
+<!ENTITY account.newMailNotification   "Տեղեկացնել նոր նամակի մասին">
+<!ENTITY account.autojoin              "Ինքնակապակցման Ալիքներ.">
+<!ENTITY account.proxySettings.caption "Միջնորդի Կարգաւորումներ.">
+<!ENTITY account.proxySettings.change.label     "Փոխել․․․">
+<!ENTITY account.proxySettings.change.accessKey "C">

@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY virtualFolderProperties.title "Նոր Պահուած Որոնման Թղթապանակ">
+<!ENTITY name.label                 "Անուն․">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Ստեղծել որպէս ենթապանակ․">
+<!ENTITY description.accesskey      "C">
+
+<!ENTITY searchTermCaption.label "Կազմաձեւեք որոնուած պահուած թղթապանակում աւգտագործուած որոնման չափանիշները․">
+
+<!ENTITY folderSelectionCaption.label "Ընտրէք թղթապանակները որոնելու համար.">
+<!ENTITY chooseFoldersButton.label "Ընտրէք…">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
