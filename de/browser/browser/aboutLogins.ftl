@@ -121,7 +121,7 @@ about-logins-edit-login-os-auth-dialog-message-macosx = gespeicherte Zugangsdate
 about-logins-reveal-password-os-auth-dialog-message-win = Um das Passwort anzuzeigen, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-reveal-password-os-auth-dialog-message-macosx = gespeichertes Passwort anzeigen
+about-logins-reveal-password-os-auth-dialog-message-macosx = ein gespeichertes Passwort anzeigen
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Um das Passwort zu kopieren, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
 # This message can be seen when attempting to copy a password in about:logins
