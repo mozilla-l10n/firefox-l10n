@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "หน้าปิดปากสนิท">
 <!ENTITY smiley16Cmd.accesskey "ด">
 <!ENTITY smiley16Cmd.tooltip "แทรกหน้าปิดปากสนิท">
+<!ENTITY SmileButton.label "แทรกสัญลักษณ์หน้ายิ้ม">
 <!ENTITY SmileButton.tooltip "แทรกหน้ายิ้ม">
