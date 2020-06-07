@@ -425,6 +425,7 @@
 <!ENTITY deleteButton.label "Borrar">
 <!ENTITY undeleteButton.label "Recuperar">
 <!ENTITY markButton.label "Marcar">
+<!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Detener">
 <!ENTITY junkButton.label "Basura">
 <!ENTITY notJunkButton.label "No es basura">
@@ -448,6 +449,7 @@
 <!ENTITY deleteButton.tooltip "Borrar el mensaje o la carpeta seleccionados">
 <!ENTITY undeleteButton.tooltip "Recuperar mensaje borrado">
 <!ENTITY markButton.tooltip "Marcar mensajes">
+<!ENTITY printButton.tooltip "Imprimir este mensaje">
 <!ENTITY stopButton.tooltip "Detener la transferencia actual">
 <!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ir a la página de inicio de &brandShortName;">
