@@ -34,7 +34,7 @@
 <!ENTITY hdrReplyListButton1.label "Respon a la llista">
 <!ENTITY hdrReplyListButton1.tooltip "Respon a la llista de correu">
 <!ENTITY hdrFollowupButton1.label "Segueix">
-<!ENTITY hdrFollowupButton1.tooltip "Publica al grup de notícies">
+<!ENTITY hdrFollowupButton1.tooltip "Publica al grup de discussió">
 <!ENTITY hdrMenuForwardButton.label "Reenvia com a">
 <!ENTITY hdrForwardButton1.label "Reenvia">
 <!ENTITY hdrForwardButton1.tooltip "Reenvia aquest missatge">
