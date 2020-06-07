@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = Pobierz z Google Play
 login-app-promo-apple =
     .alt = Pobierz z App Store
-
 login-filter =
     .placeholder = Szukaj danych logowania
-
 create-login-button = Utwórz nowe dane logowania
-
 fxaccounts-sign-in-text = Korzystaj ze swoich haseł na innych urządzeniach
 fxaccounts-sign-in-button = Zaloguj się do { -sync-brand-short-name(case: "gen", capitalization: "lower") }
 fxaccounts-avatar-button =
@@ -34,6 +32,7 @@ menu =
     .title = Otwórz menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importuj z innej przeglądarki…
+about-logins-menu-menuitem-export-logins = Eksportuj dane logowania…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcje
@@ -119,18 +118,21 @@ about-logins-edit-login-os-auth-dialog-message-win = Aby zmienić dane logowania
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = zmiana zachowanych danych logowania
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Aby wyświetlić hasło, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = wyświetlenie zachowanego hasła
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Aby skopiować hasło, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skopiowanie zachowanego hasła
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Aby wyeksportować dane logowania witryn, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = wyeksportowanie zachowanych danych logowania i haseł
 
 ## Master Password notification
 
@@ -162,11 +164,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Anuluj
 confirmation-dialog-dismiss-button =
     .title = Anuluj
-
 about-logins-confirm-remove-dialog-title = Usunąć te dane logowania?
 confirm-delete-dialog-message = Tej czynności nie można cofnąć.
 about-logins-confirm-remove-dialog-confirm-button = Usuń
-
+about-logins-confirm-export-dialog-title = Eksport danych logowania i haseł
+about-logins-confirm-export-dialog-message = Twoje hasła zostaną zapisane jako zwykły tekst (np. SłabeH@s1o), więc każdy, kto może otworzyć wyeksportowany plik, będzie mógł je zobaczyć.
+about-logins-confirm-export-dialog-confirm-button = Eksportuj…
 confirm-discard-changes-dialog-title = Odrzucić niezachowane zmiany?
 confirm-discard-changes-dialog-message = Wszystkie niezachowane zmiany zostaną utracone.
 confirm-discard-changes-dialog-confirm-button = Odrzuć
@@ -197,10 +200,21 @@ about-logins-vulnerable-alert-learn-more-link = Więcej informacji
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Dane logowania dla witryny „{ $loginTitle }” z tą nazwą użytkownika już istnieją. <a data-l10n-name="duplicate-link">Przejść do istniejących danych?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Wystąpił błąd podczas zapisywania tego hasła.
 
-
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Eksportuj plik z danymi logowania
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = dane-logowania.csv
+about-logins-export-file-picker-export-button = Eksportuj
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument CSV
+       *[other] Plik CSV
+    }
