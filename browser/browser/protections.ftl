@@ -43,8 +43,10 @@ protection-report-page-content-title = Panel ochrony
 protection-report-page-summary = { -brand-short-name } może po cichu chronić Twoją prywatność, kiedy Ty przeglądasz Internet. Poniżej znajduje się spersonalizowane podsumowanie ochrony, a także narzędzia do przejęcia kontroli nad własnym bezpieczeństwem w sieci.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } po cichu chroni Twoją prywatność, kiedy Ty przeglądasz Internet. Poniżej znajduje się spersonalizowane podsumowanie ochrony, a także narzędzia do przejęcia kontroli nad własnym bezpieczeństwem w sieci.
+protection-report-settings-link = Otwórz ustawienia prywatności i bezpieczeństwa
 etp-card-title-always = Wzmocniona ochrona przed śledzeniem: zawsze włączona
 etp-card-title-custom-not-blocking = Wzmocniona ochrona przed śledzeniem: wyłączona
+etp-card-content-description = { -brand-short-name } automatycznie uniemożliwia firmom potajemne śledzenie Cię w Internecie.
 protection-report-etp-card-content-custom-not-blocking = Cała ochrona jest obecnie wyłączona. Wybierz, które elementy śledzące blokować w ustawieniach ochrony przeglądarki { -brand-short-name }.
 protection-report-manage-protections = Otwórz ustawienia
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -126,6 +128,8 @@ monitor-link = Jak to działa
 monitor-header-content-no-account = Wypróbuj { -monitor-brand-name }, aby sprawdzić, czy Twoje dane nie wyciekły i otrzymywać powiadomienia o nowych wyciekach danych.
 monitor-header-content-signed-in = { -monitor-brand-name } ostrzega, jeśli Twoje dane pojawiły się w znanym wycieku.
 monitor-sign-up = Subskrybuj powiadomienia o wyciekach
+monitor-sign-up-link = Subskrybuj powiadomienia o wyciekach
+    .title = Subskrybuj powiadomienia o wyciekach w serwisie { -monitor-brand-name }
 auto-scan = Automatycznie przeskanowano dzisiaj
 monitor-emails-tooltip =
     .title = Wyświetl monitorowane adresy e-mail w serwisie { -monitor-brand-short-name }
@@ -152,6 +156,15 @@ info-known-breaches-found =
        *[many] znanych wycieków ujawniło Twoje dane
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] znany wyciek danych oznaczony jako rozwiązany
+        [few] znane wycieki danych oznaczone jako rozwiązane
+       *[many] znanych wycieków danych oznaczonych jako rozwiązane
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -160,7 +173,7 @@ info-exposed-passwords-found =
         [few] hasła zostały ujawnione we wszystkich wyciekach
        *[many] haseł zostało ujawnionych we wszystkich wyciekach
     }
-full-report-link = Wyświetl pełny raport w usłudze <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+full-report-link = Wyświetl pełny raport w serwisie <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
