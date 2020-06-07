@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Import Wizard">
+<!ENTITY migrationWizard.title          "Enportilo de datumoj kaj agordoj">
 
-<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromWin.label            "Enporti elekteblojn, agordoj pri kontoj, adresaron, filtrilojn kaj aliajn datumojn el:">
 <!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
 <!ENTITY importSourceNotFound.label     "No application to import data from found.">
 
