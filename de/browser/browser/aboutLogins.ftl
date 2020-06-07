@@ -128,10 +128,10 @@ about-logins-copy-password-os-auth-dialog-message-win = Um das Passwort zu kopie
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = gespeichertes Passwort kopieren
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Um deine Zugangsdaten zu exportieren, gib deine Windows-Anmeldedaten ein. Dies hilft, die Sicherheit deiner Konten zu gewährleisten.
+about-logins-export-password-os-auth-dialog-message-win = Um die Zugangsdaten zu exportieren, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = gespeicherte Zugangsdaten und Passwörter zu exportieren
+about-logins-export-password-os-auth-dialog-message-macosx = gespeicherte Zugangsdaten und Passwörter exportieren
 
 ## Master Password notification
 
@@ -167,7 +167,7 @@ about-logins-confirm-remove-dialog-title = Diese Zugangsdaten entfernen?
 confirm-delete-dialog-message = Diese Aktion kann nicht rückgängig gemacht werden.
 about-logins-confirm-remove-dialog-confirm-button = Entfernen
 about-logins-confirm-export-dialog-title = Zugangsdaten und Passwörter exportieren
-about-logins-confirm-export-dialog-message = Ihre Passwörter werden als lesbarer Text gespeichert (z. B. P@ssw0rt), sodass jeder, der die exportierte Datei öffnen kann, sie lesen kann.
+about-logins-confirm-export-dialog-message = Ihre Passwörter werden als lesbarer Text gespeichert (z.B. P@ssw0rt). Dadurch hat jede Person, welche die exportierte Datei öffnen kann, Zugriff auf das unverschlüsselte Passwort.
 about-logins-confirm-export-dialog-confirm-button = Exportieren…
 confirm-discard-changes-dialog-title = Nicht gespeicherte Änderungen verwerfen?
 confirm-discard-changes-dialog-message = Alle nicht gespeicherten Änderungen gehen verloren.
@@ -205,7 +205,7 @@ about-logins-error-message-default = Beim Versuch, dieses Passwort zu speichern,
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Zugangsdatendatei exportieren
+about-logins-export-file-picker-title = Zugangsdaten in Datei exportieren
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
