@@ -230,16 +230,16 @@ identity-description-insecure-login-forms = Wkludzane na tyj strōnie dane logow
 identity-description-weak-cipher-intro = Twoje połōnczynie z tōm strōnōm używo słabego szyfrowanio i niy ma prywatne.
 identity-description-weak-cipher-risk = Inksi ludzie mogōm ôboczyć twoje informacyje abo zmiynić działanie tyj strōny.
 identity-description-active-blocked = Aplikacyjo { -brand-short-name } zablokowała niyzabezpieczōne party tyj strōny. <label data-l10n-name="link">Dowiydz sie wiyncyj</label>
-identity-description-passive-loaded = Twoje połōnczynie niy ma prywatne. Na informacyje, kere wkludzosz na strōnie, może zaglōndać fto inkszy.
-identity-description-passive-loaded-insecure = Ta strōna mo jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
-identity-description-passive-loaded-mixed = Chocioż aplikacyjo { -brand-short-name } zaszperowała trocha zawartości, na strōnie durch je jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
+identity-description-passive-loaded = Twoje połōnczynie niy ma prywatne. Na informacyje, kere wkludzosz na strōnie, może wejzdrzeć fto inkszy.
+identity-description-passive-loaded-insecure = Ta strōna mo jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Dowiydz sie wiyncyj</label>
+identity-description-passive-loaded-mixed = Chocioż aplikacyjo { -brand-short-name } zaszperowała trocha zawartości, na strōnie durch je jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Dowiydz sie wiyncyj</label>
 identity-description-active-loaded = Strōna mo jako niyzabezpieczōno zawartość (bez przikłod skrypty), a twoje połōnczynie niy ma prywatne.
-identity-description-active-loaded-insecure = Na informacyje (bez przikłod hasła, wiadōmości, nōmery płatowych kart), kere wkludzosz na tyj strōnie, może zaglōndać fto inkszy.
+identity-description-active-loaded-insecure = Na wkludzane na tyj strōnie informacyje (bez przikłod hasła, wiadōmości, numery płatowych kart) może wejzdrzeć fto inkszy.
 identity-learn-more =
-    .value = Przewiydz sie wiyncyj
+    .value = Dowiydz sie wiyncyj
 identity-disable-mixed-content-blocking =
-    .label = Wyłōncz ôchrōna na teroz
-    .accesskey = W
+    .label = Na razie zastow ôchrōna
+    .accesskey = w
 identity-enable-mixed-content-blocking =
     .label = Załōncz ôchrōna
     .accesskey = Z
@@ -263,12 +263,26 @@ popup-select-camera =
     .value = Kamera do udostympniynio:
     .accesskey = K
 popup-select-microphone =
-    .value = Mikrofōn do udostympniynio
+    .value = Mikrofōn do udostympniynio:
     .accesskey = M
-popup-all-windows-shared = Wszyskie ôdkna widoczne na ekranie bydōm udostympniōne.
+popup-all-windows-shared = Wszyske ôkna widziane na ekranie bydōm udostympniōne.
+popup-screen-sharing-not-now =
+    .label = Niy teroz
+    .accesskey = N
+popup-screen-sharing-never =
+    .label = Nigdy niy przizwolej
+    .accesskey = N
+popup-silence-notifications-checkbox = Zastow powiadōmiynia ôd { -brand-short-name } przi udostympnianiu
+popup-silence-notifications-checkbox-warning = { -brand-short-name } niy bydzie pokazować powiadōmiyń w czasie udostympnianio.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Udostympniosz { -brand-short-name }. Inksi ludzie mogōm widzieć, jak przejdziesz do nowyj karty.
+sharing-warning-screen = Udostympniosz cołki ekran. Inksi ludzie mogōm widzieć, jak przejdziesz do nowyj karty.
+sharing-warning-proceed-to-tab =
+    .label = Idź do karty
+sharing-warning-disable-for-session =
+    .label = Zastow ôchrōna udostympnianio we tyj sesyji
 
 ## DevTools F12 popup
 
