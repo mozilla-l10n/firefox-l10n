@@ -213,10 +213,14 @@ cfr-doorhanger-milestone-ok-button = Барлығын қарау
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Қауіпсіз парольдерді оңай жасау
+cfr-whatsnew-lockwise-body = Әр тіркелгі үшін бірегей, қауіпсіз парольді ойлап табу оңай емес. Парольді жасау кезінде, { -brand-shorter-name } ұсынатын қауіпсіз, генерацияланған парольді қолдану үшін, пароль өрісін таңдаңыз.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } таңбашасы
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Осал парольдер жөнінде ескертулерді алыңыз
+cfr-whatsnew-passwords-body = Хакерлер адамдардың бірдей парольдерді қайта қолданатынын біледі. Егер сіз бір парольді бірнеше сайтта қолданған болсаңыз және сол сайттардың бірінде деректер бұзылған болса, сол сайттардағы паролін өзгерту туралы { -lockwise-brand-short-name } ескертуін көресіз.
+cfr-whatsnew-passwords-icon-alt = Осал паролі кілтінің белгісі
 
 ## Picture-in-Picture fullscreen message
 
