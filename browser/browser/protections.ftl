@@ -127,9 +127,9 @@ monitor-title = Miej oko na wycieki danych
 monitor-link = Jak to działa
 monitor-header-content-no-account = Wypróbuj { -monitor-brand-name }, aby sprawdzić, czy Twoje dane nie wyciekły i otrzymywać powiadomienia o nowych wyciekach danych.
 monitor-header-content-signed-in = { -monitor-brand-name } ostrzega, jeśli Twoje dane pojawiły się w znanym wycieku.
-monitor-sign-up = Subskrybuj powiadomienia o wyciekach
-monitor-sign-up-link = Subskrybuj powiadomienia o wyciekach
-    .title = Subskrybuj powiadomienia o wyciekach w serwisie { -monitor-brand-name }
+monitor-sign-up = Subskrybuj powiadomienia o wyciekach danych
+monitor-sign-up-link = Subskrybuj powiadomienia o wyciekach danych
+    .title = Subskrybuj powiadomienia o wyciekach danych w serwisie { -monitor-brand-name }
 auto-scan = Automatycznie przeskanowano dzisiaj
 monitor-emails-tooltip =
     .title = Wyświetl monitorowane adresy e-mail w serwisie { -monitor-brand-short-name }
@@ -195,13 +195,31 @@ info-exposed-passwords-resolved =
 monitor-no-breaches-title = Dobre wieści!
 monitor-no-breaches-description = Nie masz żadnych znanych wycieków danych. Damy Ci znać, jeśli to się zmieni.
 monitor-view-report-link = Wyświetl raport
-    .title = Rozwiąż wycieki w serwisie { -monitor-brand-short-name }
+    .title = Rozwiąż wycieki danych w serwisie { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Rozwiąż swoje wycieki danych
 monitor-breaches-unresolved-description = Po sprawdzeniu informacji o wycieku i podjęciu kroków w celu ochrony swoich danych, możesz oznaczyć wyciek jako rozwiązany.
 monitor-manage-breaches-link = Zarządzaj wyciekami danych
     .title = Zarządzaj wyciekami danych w serwisie { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Nieźle! Rozwiązano wszystkie znane wycieki danych.
 monitor-breaches-resolved-description = Damy Ci znać, jeśli Twój adres e-mail pojawi się w nowych wyciekach danych.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreachesResolved ->
+        [one] { $numBreachesResolved } wyciek jest oznaczony jako rozwiązany
+        [few] { $numBreachesResolved } z { $numBreaches } wycieków są oznaczone jako rozwiązane
+       *[many] { $numBreachesResolved } z { $numBreaches } wycieków jest oznaczonych jako rozwiązane
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = Rozwiązano { $percentageResolved }%
+monitor-partial-breaches-motivation-title-start = Świetny początek!
+monitor-partial-breaches-motivation-title-middle = Tak trzymaj!
+monitor-partial-breaches-motivation-title-end = Prawie gotowe! Tak trzymaj.
+monitor-partial-breaches-motivation-description = Rozwiąż pozostałe wycieki danych w serwisie { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Rozwiąż wycieki danych
+    .title = Rozwiąż wycieki danych w serwisie { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
