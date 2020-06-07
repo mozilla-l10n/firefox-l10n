@@ -30,3 +30,6 @@ carddav-remember-password =
     .accesskey = m
 carddav-loading = Buscando la configuración…
 carddav-connection-error = No se pudo conectar.
+carddav-none-found = No se encontraron libretas de direcciones para agregar a la cuenta especificada.
+carddav-already-added = Ya se agregaron todas las libretas de direcciones para la cuenta especificada.
+carddav-available-books = Libretas de direcciones disponibles:
