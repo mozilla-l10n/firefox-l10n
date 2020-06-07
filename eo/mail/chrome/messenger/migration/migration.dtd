@@ -21,10 +21,10 @@
 <!ENTITY importItems.label              "Elekti elementojn por enporti:">
 
 <!ENTITY migrating.title                "Enportado…">
-<!ENTITY migrating.label                "The following items are currently being imported…">
+<!ENTITY migrating.label                "La jenaj elementoj estas nune enportataj…">
 
-<!ENTITY selectProfile.title            "Select Profile">
-<!ENTITY selectProfile.label            "The following profiles are available to import from:">
+<!ENTITY selectProfile.title            "Elekti profilon">
+<!ENTITY selectProfile.label            "Eblas enporti el la jenaj profiloj:">
 
-<!ENTITY done.title                     "Import Complete">
-<!ENTITY done.label                     "The following items were successfully imported:">
+<!ENTITY done.title                     "Enportado finita">
+<!ENTITY done.label                     "La jenaj elementoj estas sukcese enportitaj:">
