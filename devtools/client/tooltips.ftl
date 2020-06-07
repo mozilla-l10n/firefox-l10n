@@ -47,3 +47,4 @@ inactive-css-not-flex-container-fix = <strong>display:flex</strong> немесе
 inactive-css-not-inline-or-tablecell-fix = <strong>display:inline</strong> немесе <strong>display:table-cell</strong> қосып көріңіз. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = <strong>display:inline-block</strong> немесе <strong>display:block</strong> қосып көріңіз. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong> қосып көріңіз. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> қосып көріңіз. { learn-more }
