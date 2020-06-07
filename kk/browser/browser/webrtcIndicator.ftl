@@ -8,8 +8,16 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
+# This string is used so that the window has a title in tools that enumerate/look for window
+# titles. It is not normally visible anywhere.
+webrtc-indicator-title = { -brand-short-name } - Бөлісу индикаторы
+webrtc-sharing-window = Сіз басқа қолданба терезесімен бөлісудесіз.
+webrtc-sharing-browser-window = Сіз { -brand-short-name } бөлісудесіз.
+webrtc-sharing-screen = Сіз бүкіл экранмен бөлісудесіз.
 webrtc-stop-sharing-button = Бөлісуді тоқтату
 webrtc-microphone-button =
     .title = Сіз микрофоныңызбен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 webrtc-camera-button =
     .title = Сіз камерамен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
+webrtc-minimize =
+    .title = Индикаторды қайыру
