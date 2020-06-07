@@ -31,9 +31,9 @@
 <!ENTITY selectAllCmd.label          "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "A">
-<!ENTITY preferencesCmd2.label "Կարգավորումներ...">
+<!ENTITY preferencesCmd2.label "Ընտրանքներ">
 <!ENTITY preferencesCmd2.accesskey "Կ">
-<!ENTITY preferencesCmdUnix.label       "Նախընտրանքներ">
+<!ENTITY preferencesCmdUnix.label       "Նախապատվություններ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY customizeCmd.label "Հարմարեցնել">

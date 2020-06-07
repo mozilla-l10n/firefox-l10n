@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Կցորդի փեղկ">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.accesskey "A">
@@ -160,7 +153,7 @@
 <!ENTITY formatMenu.accesskey "և">
 
 <!-- Options Menu -->
-<!ENTITY optionsMenu.label "Կարգավորումներ">
+<!ENTITY optionsMenu.label "Ընտրանքներ">
 <!ENTITY optionsMenu.accesskey "ր">
 <!ENTITY checkSpellingCmd2.label "Ստուգել ուղղագրությունը...">
 <!ENTITY checkSpellingCmd2.key "Ս">
@@ -220,9 +213,9 @@
 <!ENTITY accountManagerCmd2.label "Փոստարկղի կարգավորումներ">
 <!ENTITY accountManagerCmd2.accesskey "կ">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Կարգավորումներ">
+<!ENTITY preferencesCmd2.label "Ընտրանքներ">
 <!ENTITY preferencesCmd2.accesskey "Կ">
-<!ENTITY preferencesCmdUnix.label "Կարգավորումներ…">
+<!ENTITY preferencesCmdUnix.label "Նախապատվություններ">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->

@@ -44,8 +44,8 @@
 <!ENTITY includeSigOnForward.label            "Փոխանցելիս ներառել ստորագրությունը">
 <!ENTITY includeSigOnForward.accesskey        "Փ">
 
-<!ENTITY globalComposingPrefs.label           "Նոր նամակ գրելու հիմնական կարգավորումներ...">
+<!ENTITY globalComposingPrefs.label           "Նոր նամակ գրելու հիմնական նախապատվություններ...">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
-<!ENTITY globalAddressingPrefs.label          "Ընդհանրական հասցեագրման կարգավորումներ…">
+<!ENTITY globalAddressingPrefs.label          "Ընդհանրական հասցեագրման նախապատվություններ…">
 <!ENTITY globalAddressingPrefs.accesskey      "կ">

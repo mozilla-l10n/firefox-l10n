@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pane.title                   "Պահանջել ստացական">
-<!ENTITY useGlobalPrefs.label         "Օգտ. ստացականի ուղարկման հիմնական կարգավորումները">
+<!ENTITY useGlobalPrefs.label         "Օգտ. ստացականի ուղարկման հիմնական նախապատվությունները">
 <!ENTITY useGlobalPrefs.accesskey     "U">
-<!ENTITY globalReceipts.label         "Հիմնական կարգավորումները">
+<!ENTITY globalReceipts.label         "Հիմնական նախապատվություններ…">
 <!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Ստացականի կարգավորումներ այս փոստարկղի համար">
 <!ENTITY useCustomPrefs.accesskey     "C">
