@@ -83,6 +83,14 @@ lockwise-passwords-stored =
         [one] Пароль(дер) қауіпсіз түрде сақталды <a data-l10n-name="lockwise-how-it-works">Бұл қалай жасайды</a>
        *[other] Passwords stored securely <a data-l10n-name="lockwise-how-it-works">How it works</a>
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+       *[other] Сіздің парольдеріңіз сенімді сақталуда.
+    }
 lockwise-how-it-works-link = Ол қалай жұмыс істейді
 turn-on-sync = { -sync-brand-short-name } іске қосу…
     .title = Синхрондау баптауларына өту
@@ -98,6 +106,8 @@ monitor-link = Бұл қалай жұмыс істейді
 monitor-header-content-no-account = Белгілі бір деректердің бұзылуына қатысқаныңызды және жаңа бұзушылықтар туралы ескертулер алу үшін { -monitor-brand-name } тексеріңіз.
 monitor-header-content-signed-in = { -monitor-brand-name } сіздің ақпаратыңыз белгілі деректерді бұзуда табылса, сізге ескертеді.
 monitor-sign-up = Бұзушылық туралы ескертулерге жазылу
+monitor-sign-up-link = Бұзушылық туралы ескертулерге жазылу
+    .title = Бұзушылық туралы ескертулерге { -monitor-brand-name } арқылы жазылу
 auto-scan = Бүгін автоматты түрде сканерленді
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -112,6 +122,13 @@ info-monitored-emails =
 info-known-breaches-found =
     { $count ->
        *[other] Ішінен сіздің ақпаратыңыз табылған белгілі деректерді бұзушылықтары
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+       *[other] Шешілген деп белгіленген белгілі деректер бұзушылықтары
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
