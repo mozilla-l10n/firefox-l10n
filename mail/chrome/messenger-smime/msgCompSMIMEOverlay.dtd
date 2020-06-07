@@ -6,15 +6,30 @@
 
 <!ENTITY menu_securityEncryptRequire.label "Xifra aquest missatge">
 
+<!ENTITY menu_securityDoNotEncrypt.label "No xifris">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "o">
+
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "Requereix xifratge">
 <!ENTITY menu_securityEncryptRequire.accesskey "e">
 
 <!ENTITY menu_securitySign.label "Signa digitalment">
 <!ENTITY menu_securitySign.accesskey "S">
+
+<!ENTITY menu_securityAttachMyKey.label "Adjunta la meva clau pública">
+<!ENTITY menu_securityAttachMyKey.accesskey "A">
+
+<!ENTITY menu_securityTech.label "Tecnologia de xifratge">
+<!ENTITY menu_securityTech.accesskey "T">
+
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Seguretat del missatge">
 <!ENTITY menu_securityStatus.accesskey "g">
