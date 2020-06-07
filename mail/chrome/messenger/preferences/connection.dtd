@@ -46,9 +46,12 @@
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Միացումները localhost- ին ՝ 127.0.0.1 և :: 1-ին, երբեք չեն միջնորդվում:">
+<!ENTITY  proxyHttpSharing.label        "Նաև օգտագործել այս պրոքսին HTTPS-ի համար">
 <!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Մի պահանջեք վավերացումը, եթե գաղտնաբառը պահպանված է">
 <!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "Այս ընտրանքը լռությամբ իսկորոշում է Ձեզ պրոքսիներին, երբ պահպանում եք դրանց հավաստագրերը: Ձախողման դեպքում Ձեզ հարցում կկատարվի:">
+<!ENTITY  socksRemoteDNS.label          "Պրոքսի DNS՝ SOCKS v5 օգտագործելիս">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Միացնել DNS-ը HTTPS-ով">
 <!ENTITY  dnsOverHttps.accesskey        "b">

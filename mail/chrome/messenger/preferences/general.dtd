@@ -43,3 +43,5 @@
 <!ENTITY removeSearchEngine.label         "Հեռացնել">
 <!ENTITY removeSearchEngine.accesskey     "v">
 
+<!ENTITY minimizeToTray.label             "Երբ &brandShortName;-ը նվազեցված է, տեղափոխել այն տակդիր">
+<!ENTITY minimizeToTray.accesskey         "m">
