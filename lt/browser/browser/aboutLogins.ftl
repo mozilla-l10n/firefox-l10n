@@ -18,12 +18,9 @@ login-app-promo-android =
     .alt = Parsisiųskite iš „Google Play“
 login-app-promo-apple =
     .alt = Parsisiųskite iš „App Store“
-
 login-filter =
     .placeholder = Ieškoti prisijungimų
-
 create-login-button = Sukurti naują prisijungimą
-
 fxaccounts-sign-in-text = Turėkite savo slaptažodžius ir kituose įrenginiuose
 fxaccounts-sign-in-button = Prisijungti prie „{ -sync-brand-short-name }“
 fxaccounts-avatar-button =
@@ -121,18 +118,21 @@ about-logins-edit-login-os-auth-dialog-message-win = Norėdami keisti savo prisi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redaguoti įrašytą prisijungimą
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Norėdami peržiūrėti savo slaptažodį, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = parodyti įrašytą slaptažodį
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Norėdami nukopijuoti savo slaptažodį, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = nukopijuoti įrašytą slaptažodį
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Norėdami eksportuoti savo prisijungimus, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = eksportuoti įrašytus prisijungimus ir slaptažodžius
 
 ## Master Password notification
 
@@ -164,15 +164,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Atsisakyti
 confirmation-dialog-dismiss-button =
     .title = Atsisakyti
-
 about-logins-confirm-remove-dialog-title = Pašalinti šį prisijungimą?
 confirm-delete-dialog-message = Atlikus šį veiksmą, jo atšaukti neįmanoma.
 about-logins-confirm-remove-dialog-confirm-button = Pašalinti
-
 about-logins-confirm-export-dialog-title = Eksportuoti prisijungimus ir slaptažodžius
 about-logins-confirm-export-dialog-message = Jūsų slaptažodžiai bus įrašyti kaip perskaitomas tekstas (pvz., BlogasSl@ptaz0dis), tad bet kas galintis atverti eksportuotą failą galės juos peržiūrėti.
 about-logins-confirm-export-dialog-confirm-button = Eksportuoti…
-
 confirm-discard-changes-dialog-title = Atsisakyti neįrašytų pakeitimų?
 confirm-discard-changes-dialog-message = Visi neįrašyti pakeitimai bus prarasti.
 confirm-discard-changes-dialog-confirm-button = Atsisakyti
@@ -203,10 +200,8 @@ about-logins-vulnerable-alert-learn-more-link = Sužinoti daugiau
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Jau yra { $loginTitle } įrašas su tokiu naudotojo vardu. <a data-l10n-name="duplicate-link">Parodyti esamą įrašą?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Bandant įrašyti šį slaptažodį įvyko klaida.
-
 
 ## Login Export Dialog
 
