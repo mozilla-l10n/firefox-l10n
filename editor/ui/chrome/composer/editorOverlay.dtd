@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Տառատեսակ">
 <!ENTITY FontFaceSelect.tooltip "Ընտրեք տառատեսակը">
 <!ENTITY fontfaceMenu.label "Տառատեսակ">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Տառատեսակի չափ">
 <!ENTITY FontSizeSelect.tooltip "Ընտրեք տառի չափը">
 <!ENTITY decreaseFontSize.label "Փոքր">
 <!ENTITY decreaseFontSize.accesskey "ր">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Ցանկի հատկությունները...">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "Պարբերություն">
 <!ENTITY ParagraphSelect.tooltip "Ընտրեք պարբերության ձևաչափը">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Հիմնական գրվածք">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Հավասարեցնել կենտրոնացումը">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Դիրքավորում">
 <!ENTITY layer.tooltip "Շերտը">
+<!ENTITY decreaseZIndex.label "Ուղարկել հետև">
 <!ENTITY layerSendToBack.tooltip "Ուղարկել հետև">
+<!ENTITY increaseZIndex.label "Պահել առջևում">
 <!ENTITY layerBringToFront.tooltip "Պահել հետևում">
 
 <!ENTITY increaseIndent.label "Սահմանը մեծացնել">
@@ -304,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Ներմուծել նոր հղում կամ խմբագրել ընտրված հղման հատկությունները">
 <!ENTITY anchorToolbarCmd.label "Խարիսխ">
 <!ENTITY anchorToolbarCmd.tooltip "Ներմուծել նոր անվանարկված խարիսխ կամ խմբագրել խարսխի հատկությունները">
+<!ENTITY colorButtons.title "Գույներ">
 <!ENTITY TextColorButton.tooltip "Ընտրեք տեքստի գույները">
 <!ENTITY BackgroundColorButton.tooltip "Ընտրեք խորապատկերի գույները">
 <!ENTITY throbber.tooltip "Անցնել &vendorShortName; մեկնարկային էջին">
 <!ENTITY throbber.tooltip2 "Անցնել &brandShortName;-ի մեկնարկային էջ:">
+<!ENTITY HighlightColorButton.label "Գունանշիչ">
 <!ENTITY HighlightColorButton.tooltip "Ընտրել գունանշման գույնը տեքստի համար">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Տառատեսակի չափ">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ընտրել տառաչափը">
+<!ENTITY smaller.label "Ավելի փոքր">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Տառատեսակի փոքր չափ">
+<!ENTITY larger.label "Ավելի մեծ">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Տառատեսակի մեծ չափ">
+<!ENTITY bold.label "Թավ">
 <!ENTITY boldToolbarCmd.tooltip "Թավ">
+<!ENTITY italic.label "Շեղ">
 <!ENTITY italicToolbarCmd.tooltip "Շեղ">
+<!ENTITY underline.label "Ընդգծված">
 <!ENTITY underlineToolbarCmd.tooltip "Ընդգծված">
+<!ENTITY bullets.label "Կետիկներ">
 <!ENTITY bulletListToolbarCmd.tooltip "Կիրառել կամ հեռացնել կետավորված ցանկը">
+<!ENTITY numbers.label "Թվեր">
 <!ENTITY numberListToolbarCmd.tooltip "Կիրառել կամ հեռացնել կետավորված ցանկը">
+<!ENTITY outdent.label "Դուրս շեղում">
 <!ENTITY outdentToolbarCmd.tooltip "Ելուստ տեքստ (շարժել ձախ)">
+<!ENTITY indent.label "Նահանջ">
 <!ENTITY indentToolbarCmd.tooltip "Նահանջ տեքստ (շարժել աջ)">
+<!ENTITY AlignPopupButton.label "Հավասարեցում">
 <!ENTITY AlignPopupButton.tooltip "Ընտրել տեքստի հավասարեցումը">
+<!ENTITY InsertPopupButton.label "Ներմուծել">
 <!ENTITY InsertPopupButton.tooltip "Ներմուծել հղում, խարիսխ, նկար, հորիզոնական գիծ կամ աղյուսակ">
+<!ENTITY alignLeftButton.label "Հավասարեցնել ձախից">
 <!ENTITY alignLeftButton.tooltip "Հավասարեցնել տեքստը ձախ լուսանցքին">
+<!ENTITY alignCenterButton.label "Հավասարեցնել կենտրոնով">
 <!ENTITY alignCenterButton.tooltip "Հավասարեցնել տեքստը կենտրոնով">
+<!ENTITY alignRightButton.label "Հավասարեցնել աջից">
 <!ENTITY alignRightButton.tooltip "Հավասարեցնել տեքստը ձախ լուսանցքին">
+<!ENTITY alignJustifyButton.label "Հավասարեցնել տողաշտկմամբ">
 <!ENTITY alignJustifyButton.tooltip "Հավասարեցնել տեքստը աջ լուսանցքին">
 
 <!-- Structure Toolbar Context Menu items -->
