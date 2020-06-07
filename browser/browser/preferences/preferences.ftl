@@ -802,7 +802,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Canvia la contrasenya mestra…
     .accesskey = m
-forms-master-pw-fips-title = Us trobeu en mode FIPS. El FIPS requereix una contrasenya mestra no buida.
+forms-master-pw-fips-title = Us trobeu en mode FIPS. El FIPS requereix una contrasenya mestra que no sigui buida.
 forms-master-pw-fips-desc = El canvi de contrasenya ha fallat
 
 ## OS Authentication dialog
