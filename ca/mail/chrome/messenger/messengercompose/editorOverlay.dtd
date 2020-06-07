@@ -295,6 +295,7 @@
 <!ENTITY spellToolbarCmd.label "Ortografia">
 <!ENTITY spellToolbarCmd.tooltip "Verifica l'ortografia de la selecció o de tota la pàgina">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Imatge">
 <!ENTITY imageToolbarCmd.tooltip "Insereix una imatge nova o edita les propietats de la imatge seleccionada">
 <!ENTITY hruleToolbarCmd.label "Línia horitzontal">
@@ -307,6 +308,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Insereix una àncora amb nom nova o edita les propietats de l'àncora seleccionada">
 <!ENTITY TextColorButton.tooltip "Trieu un color per al text">
 <!ENTITY BackgroundColorButton.tooltip "Trieu un color per al fons">
+<!ENTITY throbber.tooltip2 "Vés a la pàgina inicial del &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Trieu el color del ressaltat del text">
 
 <!-- Editor toolbar -->
