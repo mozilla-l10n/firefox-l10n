@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Nic nie powiem">
 <!ENTITY smiley16Cmd.accesskey "o">
 <!ENTITY smiley16Cmd.tooltip "Wstaw milczącą buzię">
+<!ENTITY SmileButton.label "Wstaw emotikonkę">
 <!ENTITY SmileButton.tooltip "Wstaw emotikonkę">

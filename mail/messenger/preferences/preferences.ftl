@@ -42,6 +42,22 @@ privacy-main-header = Prywatność
 privacy-passwords-header = Hasła
 privacy-junk-header = Niechciana poczta
 privacy-data-collection-header = Zbieranie i wykorzystywanie danych
+collection-header = Dane zbierane przez program { -brand-short-name }
+collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
+collection-privacy-notice = Prywatność
+collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z programem. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
+collection-health-report-telemetry-disabled-link = Więcej informacji
+collection-health-report =
+    .label = Przesyłanie do organizacji { -vendor-short-name } danych technicznych i o interakcjach z programem { -brand-short-name }.
+    .accesskey = z
+collection-health-report-link = Więcej informacji
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
+collection-backlogged-crash-reports =
+    .label = Przesyłanie zgromadzonych zgłoszeń awarii programu { -brand-short-name }.
+    .accesskey = o
+collection-backlogged-crash-reports-link = Więcej informacji
 privacy-security-header = Bezpieczeństwo
 privacy-scam-detection-title = Wykrywanie oszustw
 privacy-anti-virus-title = Ochrona antywirusowa

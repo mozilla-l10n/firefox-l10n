@@ -68,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label "Plik newsrc:">
 <!ENTITY newsrcPicker.label "Wybierz plik newsrc">
+<!ENTITY newsrcFilePath1.label "Plik news.rc:">
+<!ENTITY newsrcPicker1.label "Wybierz plik news.rc">
 <!ENTITY abbreviate.label "W folderze poczty pokazuj nazwy grup dyskusyjnych w formie:">
 <!ENTITY abbreviateOn.label "Pełnej (Na przykład: „pl.rec.humor.najlepsze”)">
 <!ENTITY abbreviateOff.label "Skróconej (Na przykład: „p.r.h.najlepsze”)">
@@ -75,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "Z">
 <!ENTITY serverDefaultCharset2.label "Domyślne kodowanie tekstu:">
 <!ENTITY localPath.label "Katalog lokalny:">
+<!ENTITY localPath1.label "Katalog lokalny:">
 <!ENTITY localFolderPicker.label "Wybierz katalog lokalny">
 <!ENTITY browseFolder.label "Przeglądaj…">
 <!ENTITY browseFolder.accesskey "P">
