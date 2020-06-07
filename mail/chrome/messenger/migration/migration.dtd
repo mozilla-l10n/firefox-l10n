@@ -6,19 +6,19 @@
 <!ENTITY migrationWizard.title          "Enportilo de datumoj kaj agordoj">
 
 <!ENTITY importFromWin.label            "Enporti elekteblojn, agordoj pri kontoj, adresaron, filtrilojn kaj aliajn datumojn el:">
-<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
-<!ENTITY importSourceNotFound.label     "No application to import data from found.">
+<!ENTITY importFromNonWin.label         "Enporti preferojn, agordoj pri kontoj, adresaron, filtrilojn kaj aliajn datumojn el:">
+<!ENTITY importSourceNotFound.label     "Ne trovis programon el kiu eblas enporti datumojn.">
 
-<!ENTITY importFromNothing.label        "Don't import anything">
-<!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
+<!ENTITY importFromNothing.label        "Enporti nenion">
+<!ENTITY importFromNothing.accesskey    "n">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey (versio 2 aŭ pli nova)">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
-<!ENTITY importSource.title             "Import Settings and Mail Folders">
-<!ENTITY importItems.title              "Items to Import">
-<!ENTITY importItems.label              "Select which items to import:">
+<!ENTITY importSource.title             "Enporti agordojn kaj mesaĝujojn">
+<!ENTITY importItems.title              "Elementoj por enporti">
+<!ENTITY importItems.label              "Elekti elementojn por enporti:">
 
 <!ENTITY migrating.title                "Importing…">
 <!ENTITY migrating.label                "The following items are currently being imported…">
