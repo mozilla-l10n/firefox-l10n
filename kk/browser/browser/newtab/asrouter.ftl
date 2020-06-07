@@ -220,4 +220,6 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } таңбашас
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Суреттегі суретті толық экранға шығарыңыз
+cfr-whatsnew-pip-fullscreen-body = Видеоны қалқымалы терезеге бөліп жібергеннен кейін, оны енді қос шерту арқылы толық экран режиміне ауыстыруға болады.
 cfr-whatsnew-pip-fullscreen-icon-alt = Суреттегі сурет таңбашасы
