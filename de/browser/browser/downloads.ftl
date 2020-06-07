@@ -37,11 +37,11 @@ downloads-cmd-show-menuitem-mac =
     .label = Im Finder anzeigen
     .accesskey = F
 downloads-cmd-use-system-default =
-    .label = In Standardprogramm öffnen
-    .accesskey = S
+    .label = Im Standardprogramm öffnen
+    .accesskey = p
 downloads-cmd-always-use-system-default =
-    .label = Immer in Standardprogramm öffnen
-    .accesskey = w
+    .label = Immer im Standardprogramm öffnen
+    .accesskey = m
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
