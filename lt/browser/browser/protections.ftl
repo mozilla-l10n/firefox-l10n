@@ -183,6 +183,43 @@ password-warning =
         [few] įrašyti prisijungimai galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šiuos slaptažodžius dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
        *[other] Įrašytų prisijungimų galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šiuos slaptažodžius dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] nepatikrintas nutekėjęs slaptažodis
+        [few] nepatikrinti nutekėję slaptažodžiai
+       *[other] nepatikrintų nutekėjusių slaptažodžių
+    }
+monitor-no-breaches-title = Geros žinios!
+monitor-no-breaches-description = Neturite jokių žinomų duomenų nutekėjimų. Jei tai pasikeis, jums pranešime.
+monitor-view-report-link = Peržiūrėti ataskaitą
+    .title = Patikrinti nutekėjimus su „{ -monitor-brand-short-name }“
+monitor-breaches-unresolved-title = Patikrinkite savo nutekėjimus
+monitor-breaches-unresolved-description = Peržiūrėję nutekėjimų informaciją ir apsaugoję savo duomenis, galite pažymėti nutekėjimus kaip patikrintus.
+monitor-manage-breaches-link = Tvarkyti nutekėjimus
+    .title = Tvarkyti nutekėjimus su „{ -monitor-brand-short-name }“
+monitor-breaches-resolved-title = Puiku! Patikrinote visus žinomus nutekėjimus.
+monitor-breaches-resolved-description = Jei jūsų el. paštas pasirodys naujuose nutekėjimuose, jums pranešime.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] Patikrintas { $numBreachesResolved } iš { $numBreaches } nutekėjimų
+        [few] Patikrinti { $numBreachesResolved } iš { $numBreaches } nutekėjimų
+       *[other] Patikrinta { $numBreachesResolved } iš { $numBreaches } nutekėjimų
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = Užbaigta { $percentageResolved }%
+monitor-partial-breaches-motivation-title-start = Puiki pradžia!
+monitor-partial-breaches-motivation-title-middle = Tęskite toliau!
+monitor-partial-breaches-motivation-title-end = Beveik baigta! Tęskite toliau.
+monitor-partial-breaches-motivation-description = Patikrinkite savo likusius nutekėjimus su „{ -monitor-brand-short-name }“.
+monitor-resolve-breaches-link = Patikrinti nutekėjimus
+    .title = Patikrinti nutekėjimus su „{ -monitor-brand-short-name }“
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
