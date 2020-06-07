@@ -27,5 +27,5 @@
 <!ENTITY junkClassification.label "Ընտրությունը">
 <!ENTITY junkActions.label "Տեղափոխումը">
 
-<!ENTITY globalJunkPrefs.label "Թափոնի ընդհ. կարգավորումներ">
+<!ENTITY globalJunkPrefs.label "Թափոնի ընդհ. նախապատվություններ…">
 <!ENTITY globalJunkPrefs.accesskey "G">

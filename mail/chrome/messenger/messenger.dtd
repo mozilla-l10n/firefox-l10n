@@ -472,7 +472,7 @@
 <!ENTITY addons.accesskey "A">
 <!ENTITY addonPrefs.label "Լրացուցիչ ընտրանքներ">
 <!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Լրացուցիչ նախաընտրություններ">
+<!ENTITY addonPrefsUnix.label "Հավելումների նախապատվություններ">
 <!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Լրացուցիչ կարգավորումներ չեն գտնվել:">
 <!ENTITY activitymanager.label "Ակտիվության կառավարիչ">
@@ -620,7 +620,7 @@
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "Ց">
 <!ENTITY editRemoteContentSettings.label "Խմբագրել հեռակա բովանդակության ընտրանքները...">
 <!ENTITY editRemoteContentSettings.accesskey "Խ">
-<!ENTITY editRemoteContentSettingsUnix.label "Խմբագրել հեռակա բվանդակության կարգավորումները...">
+<!ENTITY editRemoteContentSettingsUnix.label "Խմբագրել հեռակա բվանդակության նախապատվությունները...">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "Խ">
 
 <!-- Phishing Button Popup -->
@@ -628,7 +628,7 @@
 <!ENTITY phishingOptionIgnore.accesskey "ե">
 <!ENTITY phishingOptionSettings.label "Խմբագրել խաբեբայության որոշման ընտրանքները...">
 <!ENTITY phishingOptionSettings.accesskey "բ">
-<!ENTITY phishingOptionSettingsUnix.label "Խմբագրել խաբեբայության որոշման կարգավորումները...">
+<!ENTITY phishingOptionSettingsUnix.label "Խմբագրել խաբեբայության որոշման նախապատվությունները...">
 <!ENTITY phishingOptionSettingsUnix.accesskey "բ">
 
 <!-- AppMenu Popup -->
@@ -963,7 +963,7 @@
 <!ENTITY zoomWindow.label "Չափը">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label       "Կարգավորումներ">
+<!ENTITY preferencesCmdMac2.label       "Նախապատվությունները">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Ծառայություններ">
