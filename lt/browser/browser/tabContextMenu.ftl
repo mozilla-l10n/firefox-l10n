@@ -56,6 +56,18 @@ move-to-new-window =
 undo-close-tab =
     .label = Atšaukti kortelės užvėrimą
     .accesskey = š
+tab-context-close-multiple-tabs =
+    .label = Užverti keletą kortelių
+    .accesskey = k
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Atšaukti kortelės užvėrimą
+            [one] Atšaukti kortelės užvėrimą
+            [few] Atšaukti kortelių užvėrimus
+           *[other] Atšaukti kortelių užvėrimus
+        }
+    .accesskey = t
 close-tab =
     .label = Užverti kortelę
     .accesskey = U
