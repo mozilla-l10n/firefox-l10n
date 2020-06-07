@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Crea una barra">
 <!ENTITY showTitlebar.label       "Mostra la barra de títol">
 <!ENTITY extraDragSpace.label     "Afegeix un espai per arrossegar la finestra">
+<!ENTITY showTitlebar2.label      "Barra de títol">
+<!ENTITY extraDragSpace2.label    "Espai per arrossegar la finestra">
 <!ENTITY saveChanges.label        "Fet">
 <!ENTITY undoChanges.label        "Desfés els canvis">
