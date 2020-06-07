@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Անունը.">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Պատկերակի գույնը.">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Վերականգնել սկզբնադիր գույնը">
 <!ENTITY folderProps.location.label              "Տեղադրություն.">
 <!ENTITY folderProps.location.accesskey          "Տ">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Արտոնությունները…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Ձեր լիազորումը.">
+<!ENTITY folderOtherUsers.label                  "Ուրիշները մուտք կունենա այս պանակին.">
 <!ENTITY folderType.label                        "Թղթապ. տեսակը.">
 
 <!ENTITY folderQuotaTab.label                    "Մեջբերում">

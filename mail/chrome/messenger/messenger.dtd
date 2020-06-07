@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Նամակների որոնում...">
 <!ENTITY searchMailCmd.accesskey "ո">
 <!ENTITY searchMailCmd.key "Փ">
+<!ENTITY glodaSearchCmd.label "Ընդհանրական որոնում…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Հասցեների որոնում...">
 <!ENTITY searchAddressesCmd.accesskey "Հ">
 
@@ -756,6 +758,7 @@
 <!ENTITY idColumn2.tooltip "Տեսակավորել ըստ՝ ստանալու կարգի">
 <!ENTITY attachmentColumn2.tooltip "Տեսակավորել ըստ՝ կցորդների">
 
+<!ENTITY deleteColumn.tooltip "Ջնջել նամակը">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Նոր հաղորդագրություն՝ ձևանմուշից">

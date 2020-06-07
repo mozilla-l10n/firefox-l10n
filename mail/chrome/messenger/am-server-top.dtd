@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
-
 
 <!ENTITY messageStorage.label "Նամակների կրիչը">
 <!ENTITY securitySettings.label "Անվտանգության կարգավորումներ">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Դարպասը.">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Ծրագրային.">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Հարցնել ինձ՝ ներբեռնելիս ավելի քան՝">
 <!ENTITY maxMessagesStart.accesskey "ի">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "տ">
 <!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
+<!ENTITY newsrcFilePath1.label "News.rc ֆայլ.">
+<!ENTITY newsrcPicker1.label "Ընտրեք News.rc ֆայլ">
 <!ENTITY abbreviate.label "Ցուցադրել լուրախմբերը Նամակի թղթապանակում որպես՝">
 <!ENTITY abbreviateOn.label "Անունները (օրինակ՝ 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Կրճատ անունները (օրինակ՝  'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Հիմնական Կոդավորում.">
 <!ENTITY localPath.label "Տեղային թղթապանակ.">
+<!ENTITY localPath1.label "Տեղային պանակ.">
 <!ENTITY localFolderPicker.label "Ընտրեք տեղային թղթապանակը">
 <!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">
