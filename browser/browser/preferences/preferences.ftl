@@ -903,6 +903,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Berechtigungen verwalten…
     .accesskey = B
+sitedata-cookies-exceptions =
+    .label = Ausnahmen verwalten…
+    .accesskey = u
 
 ## Privacy Section - Address Bar
 
