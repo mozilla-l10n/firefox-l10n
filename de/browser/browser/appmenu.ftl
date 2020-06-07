@@ -31,4 +31,4 @@ whatsnew-panel-header = Neue Funktionen und Änderungen
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
     .label = Über neue Funktionen benachrichtigen
-    .accesskey = f
+    .accesskey = b
