@@ -33,6 +33,8 @@ protection-report-page-title = การปกป้องความเป็�
 protection-report-content-title = การปกป้องความเป็นส่วนตัว
 etp-card-title = การป้องกันการติดตามที่มากขึ้น
 etp-card-content = ตัวติดตามจะติดตามคุณทางออนไลน์เพื่อรวบรวมข้อมูลเกี่ยวกับพฤติกรรมการค้นหาและความสนใจของคุณ { -brand-short-name } ปิดกั้นตัวติดตามและสคริปต์ที่เป็นอันตรายอื่น ๆ จำนวนมาก
+protection-report-webpage-title = แดชบอร์ดการป้องกัน
+protection-report-page-content-title = แดชบอร์ดการป้องกัน
 etp-card-title-always = การป้องกันการติดตามที่มากขึ้น: เปิดตลอด
 etp-card-title-custom-not-blocking = การป้องกันการติดตามที่มากขึ้น: ปิด
 protection-report-etp-card-content-custom-not-blocking = การป้องกันทั้งหมดถูกปิดในขณนี้ เลือกตัวติดตามที่จะปิดกั้นโดยจัดการการตั้งค่าการป้องกัน { -brand-short-name } ของคุณ
@@ -79,6 +81,20 @@ lockwise-passwords-stored =
     { $count ->
        *[other] เก็บรหัสผ่านอย่างปลอดภัย <a data-l10n-name="lockwise-how-it-works">วิธีการทำงาน</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+       *[other] { $count } รหัสผ่านอาจถูกเปิดเผยในข้อมูลที่รั่วไหล
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+       *[other] รหัสผ่านของคุณถูกเก็บอย่างปลอดภัย
+    }
 lockwise-how-it-works-link = วิธีการทำงาน
 turn-on-sync = เปิด { -sync-brand-short-name }…
     .title = ไปที่ค่ากำหนดการซิงค์
@@ -95,6 +111,12 @@ monitor-header-content-no-account = ตรวจสอบ { -monitor-brand-name 
 monitor-header-content-signed-in = { -monitor-brand-name } จะเตือนคุณหากข้อมูลของคุณปรากฏในการรั่วไหลข้อมูล
 monitor-sign-up = ลงทะเบียนเพื่อรับการเตือนการรั่วไหล
 auto-scan = สแกนอัตโนมัติเมื่อวันนี้
+monitor-emails-tooltip =
+    .title = ดูที่อยู่อีเมลที่เฝ้าระวังบน { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = ดูข้อมูลที่รั่วไหลที่ทราบบน { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = ดูรหัสผ่านที่ถูกเปิดเผยบน { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
