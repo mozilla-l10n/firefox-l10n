@@ -15,6 +15,8 @@
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "էլ. փոստ.">
 <!ENTITY email.accesskey "է">
+<!ENTITY catchAll.label "Պատասխանեք այս ինքնությունից, երբ առաքման էջագլուխները համընկնում են.">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Պատասխանել հասցեի.">
 <!ENTITY replyTo.accesskey "ե">
 <!ENTITY replyTo.placeholder "Ստացողները կպատասխանեն այս այլ հասցեին">

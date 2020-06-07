@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Հասցեագիրք...">
 <!ENTITY newAddressBookCmd.accesskey                    "գ">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV Հասցեագիրք…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP գրացուցակ...">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Նամակ">
