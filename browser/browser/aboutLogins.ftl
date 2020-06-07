@@ -208,7 +208,7 @@ about-logins-error-message-default = Beim Versuch, dieses Passwort zu speichern,
 about-logins-export-file-picker-title = Zugangsdaten in Datei exportieren
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-default-filename = zugangsdaten.csv
 about-logins-export-file-picker-export-button = Exportieren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
