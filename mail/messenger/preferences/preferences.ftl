@@ -162,6 +162,9 @@ customize-alert-label =
 tray-icon-label =
     .label = wyświetlaj ikonę w obszarze powiadomień
     .accesskey = t
+mail-system-sound-label =
+    .label = domyślny systemowy dźwięk powiadomienia o nowej poczcie
+    .accesskey = s
 mail-custom-sound-label =
     .label = użyj pliku
     .accesskey = u
@@ -400,7 +403,7 @@ extension-label =
 auto-save-label =
     .label = Zapisuj stan wiadomości co
     .accesskey = Z
-auto-save-end = minut
+auto-save-end = min
 
 ##
 
@@ -642,7 +645,7 @@ chat-play-button =
     .label = Odtwórz
     .accesskey = O
 chat-system-sound-label =
-    .label = systemowy dźwięk powiadomienia o nowej poczcie
+    .label = domyślny systemowy dźwięk powiadomienia o nowej poczcie
     .accesskey = s
 chat-custom-sound-label =
     .label = użyj pliku
@@ -672,6 +675,29 @@ chat-variant-label =
 chat-header-label =
     .label = Wyświetl nagłówek
     .accesskey = n
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Szukaj w opcjach
+           *[other] Szukaj w preferencjach
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Wyniki wyszukiwania
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
+       *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url">pomoc programu { -brand-short-name }</a>.

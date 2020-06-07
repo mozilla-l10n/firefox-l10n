@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "E">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Czcionka">
 <!ENTITY FontFaceSelect.tooltip "Wybierz czcionkę">
 <!ENTITY fontfaceMenu.label "Czcionka">
 <!ENTITY fontfaceMenu.accesskey "C">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Rozmiar czcionki">
 <!ENTITY FontSizeSelect.tooltip "Wybierz rozmiar czcionki">
 <!ENTITY decreaseFontSize.label "Mniejszy">
 <!ENTITY decreaseFontSize.accesskey "n">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Właściwości listy…">
 <!ENTITY listPropsCmd.accesskey "i">
 
+<!ENTITY ParagraphSelect.title "Akapit">
 <!ENTITY ParagraphSelect.tooltip "Wybierz format akapitu">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Treść">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Wyjustuj">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Pozycjonowanie">
 <!ENTITY layer.tooltip "Warstwa">
+<!ENTITY decreaseZIndex.label "Przenieś pod spód">
 <!ENTITY layerSendToBack.tooltip "Przenieś pod spód">
+<!ENTITY increaseZIndex.label "Przenieś na wierzch">
 <!ENTITY layerBringToFront.tooltip "Przenieś na wierzch">
 
 <!ENTITY increaseIndent.label "Zwiększ wcięcie">
@@ -304,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Wstaw nowy odnośnik albo edytuj właściwości wybranego odnośnika">
 <!ENTITY anchorToolbarCmd.label "Kotwica">
 <!ENTITY anchorToolbarCmd.tooltip "Wstaw nową kotwicę albo edytuj właściwości wybranej kotwicy">
+<!ENTITY colorButtons.title "Kolory">
 <!ENTITY TextColorButton.tooltip "Wybierz kolor dla tekstu">
 <!ENTITY BackgroundColorButton.tooltip "Wybierz kolor dla tła">
 <!ENTITY throbber.tooltip "Przejdź do strony organizacji &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Przejdź do strony programu &brandShortName;">
+<!ENTITY HighlightColorButton.label "Podświetlenie">
 <!ENTITY HighlightColorButton.tooltip "Wybierz kolor podświetlenia dla tekstu">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Rozmiar czcionki">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ustaw rozmiar czcionki">
+<!ENTITY smaller.label "Mniejszy">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mniejszy rozmiar czcionki">
+<!ENTITY larger.label "Większy">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Większy rozmiar czcionki">
+<!ENTITY bold.label "Pogrubienie">
 <!ENTITY boldToolbarCmd.tooltip "Pogrubienie">
+<!ENTITY italic.label "Kursywa">
 <!ENTITY italicToolbarCmd.tooltip "Kursywa">
+<!ENTITY underline.label "Podkreślenie">
 <!ENTITY underlineToolbarCmd.tooltip "Podkreślenie">
+<!ENTITY bullets.label "Wypunktowanie">
 <!ENTITY bulletListToolbarCmd.tooltip "Zastosuj albo usuń styl wypunktowania">
+<!ENTITY numbers.label "Numerowanie">
 <!ENTITY numberListToolbarCmd.tooltip "Zastosuj albo usuń styl numerowania">
+<!ENTITY outdent.label "Zmniejsz wcięcie">
 <!ENTITY outdentToolbarCmd.tooltip "Wcięcie tekstu (przesuń w lewo)">
+<!ENTITY indent.label "Zwiększ wcięcie">
 <!ENTITY indentToolbarCmd.tooltip "Wcięcie tekstu (przesuń w prawo)">
+<!ENTITY AlignPopupButton.label "Wyrównanie">
 <!ENTITY AlignPopupButton.tooltip "Wybierz wyrównanie tekstu">
+<!ENTITY InsertPopupButton.label "Wstaw">
 <!ENTITY InsertPopupButton.tooltip "Wstaw odnośnik, kotwicę, obraz, linię poziomą lub tabelę">
+<!ENTITY alignLeftButton.label "Wyrównaj do lewej">
 <!ENTITY alignLeftButton.tooltip "Wyrównaj tekst do lewego marginesu">
+<!ENTITY alignCenterButton.label "Wyrównaj do środka">
 <!ENTITY alignCenterButton.tooltip "Wyrównaj tekst do środka">
+<!ENTITY alignRightButton.label "Wyrównaj do prawej">
 <!ENTITY alignRightButton.tooltip "Wyrównaj tekst do prawego marginesu">
+<!ENTITY alignJustifyButton.label "Wyjustuj">
 <!ENTITY alignJustifyButton.tooltip "Wyrównaj tekst pomiędzy prawym a lewym marginesem">
 
 <!-- Structure Toolbar Context Menu items -->

@@ -39,7 +39,7 @@ sentence. -->
 <!ENTITY  chatSound.label                     "odtwarzaj dźwięk">
 <!ENTITY  play.label                          "Odtwórz">
 <!ENTITY  play.accesskey                      "O">
-<!ENTITY  systemSound.label                   "systemowy dźwięk powiadomienia o nowej poczcie">
+<!ENTITY  systemSound.label                   "domyślny systemowy dźwięk powiadomienia o nowej poczcie">
 <!ENTITY  systemSound.accesskey               "s">
 <!ENTITY  customsound.label                   "użyj pliku">
 <!ENTITY  customsound.accesskey               "u">

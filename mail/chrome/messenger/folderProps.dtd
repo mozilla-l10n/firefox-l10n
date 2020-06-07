@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Nazwa:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Kolor ikony:">
+<!ENTITY folderProps.color.accesskey             "K">
+<!ENTITY folderProps.reset.tooltip               "Przywróć domyślny kolor">
 <!ENTITY folderProps.location.label              "Położenie:">
 <!ENTITY folderProps.location.accesskey          "P">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Uprawnienia…">
 <!ENTITY privileges.button.accesskey             "p">
 <!ENTITY permissionsDesc.label                   "Masz następujące uprawnienia:">
+<!ENTITY folderOtherUsers.label                  "Inni z dostępem do tego folderu:">
 <!ENTITY folderType.label                        "Typ folderu:">
 
 <!ENTITY folderQuotaTab.label                    "Limit miejsca">
