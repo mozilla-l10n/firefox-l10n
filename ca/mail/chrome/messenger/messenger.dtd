@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Contacte de la llibreta d'adreces…">
 <!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Obre">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Obre un missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Anomena i desa">
@@ -287,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Cerca els missatges…">
 <!ENTITY searchMailCmd.accesskey "e">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Cerca global…">
+<!ENTITY glodaSearchCmd.accesskey "C">
 <!ENTITY searchAddressesCmd.label "Cerca les adreces…">
 <!ENTITY searchAddressesCmd.accesskey "d">
 
@@ -726,8 +730,11 @@
 <!ENTITY idColumn.label "Ordre de recepció">
 <!ENTITY attachmentColumn.label "Adjuncions">
 
+<!ENTITY deleteColumn.label "Suprimeix">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Tria les columnes que es mostraran">
+<!ENTITY selectColumn.tooltip "Commuta la selecció de tots els missatges">
 <!ENTITY threadColumn2.tooltip "Mostra les converses de missatges">
 <!ENTITY fromColumn2.tooltip "Ordena per remitent">
 <!ENTITY recipientColumn2.tooltip "Ordena per destinatari">
@@ -748,6 +755,8 @@
 <!ENTITY locationColumn2.tooltip "Ordena per ubicació">
 <!ENTITY idColumn2.tooltip "Ordena per ordre de recepció">
 <!ENTITY attachmentColumn2.tooltip "Ordena per adjuncions">
+
+<!ENTITY deleteColumn.tooltip "Suprimeix un missatge">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Missatge nou a partir de la plantilla">
@@ -969,3 +978,4 @@
 <!ENTITY writeNewMessageDock.label      "Escriu un missatge nou">
 <!ENTITY openAddressBookDock.label      "Obre la llibreta d'adreces">
 
+<!-- Content tab Navigation buttons -->
