@@ -145,6 +145,13 @@ password-warning =
     { $count ->
        *[other] Сақталған логиндер деректер бұзуында табылған мүмкіндігі бар. Күштірек онлайн қорғаныс үшін осы паролдерді өзгертіңіз. <a data-l10n-name="lockwise-link">Сақталған логиндерді қарау</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+       *[other] Шешілмеген бұзушылықтарда ашылған парольдер
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% дайын
