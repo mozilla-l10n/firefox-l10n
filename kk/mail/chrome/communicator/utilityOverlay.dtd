@@ -4,7 +4,6 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-
 <!ENTITY fileMenu.label          "Файл">
 <!ENTITY fileMenu.accesskey        "Ф">
 <!ENTITY newMenu.label            "Жаңа">
@@ -36,6 +35,9 @@
 <!ENTITY preferencesCmd2.accesskey "О">
 <!ENTITY preferencesCmdUnix.label       "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey     "м">
+
+<!ENTITY customizeCmd.label "Баптау">
+<!ENTITY customizeCmd.accesskey "т">
 
 <!ENTITY viewMenu.label          "Түрі">
 <!ENTITY viewMenu.accesskey        "р">

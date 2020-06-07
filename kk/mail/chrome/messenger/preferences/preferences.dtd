@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Салынымдар">
 <!ENTITY panePrivacy.title        "Жекелік">
 <!ENTITY paneSecurity.title       "Қауіпсіздік">
+<!ENTITY panePrivacySecurity.title "Жекелік және Қауіпсіздік">
 <!ENTITY paneLightning.title      "Күнтізбе">
 <!ENTITY paneAdvanced.title       "Кеңейтілген">
 <!ENTITY paneAccount.title        "Тіркелгілер">

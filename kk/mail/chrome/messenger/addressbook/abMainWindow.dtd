@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "м">
 <!ENTITY newAddressBookCmd.label                        "Адрестік кітапша…">
 <!ENTITY newAddressBookCmd.accesskey                    "к">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV адрестік кітапшасы…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "п">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP бумасы…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "м">
 <!ENTITY newMessageCmd.label                            "Хабарлама">
@@ -164,6 +166,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "Ө">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Көрсетілетін бағандарды таңдау">
 <!ENTITY newContactButton.tooltip                       "Жаңа адрестік кітапша контактын жасау">
 <!ENTITY newlistButton.tooltip                          "Жаңа тізімді жасау">
 <!ENTITY editPropertiesButton.tooltip                   "Таңдалған нәрсені түзету">

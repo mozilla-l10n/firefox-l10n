@@ -37,4 +37,6 @@
 <!ENTITY dntTrackingNotOkay.accesskey "м">
 <!ENTITY doNotTrackInfo.label "Do Not Track туралы көбірек білу">
 
+<!ENTITY doNotTrackCheck.label 'Сайттарға "Мені бақыламау" сигналын жіберу арқылы сіз өзіңізді бақыламауды қалайтыныңыз туралы хабарлау'>
+<!ENTITY doNotTrackCheck.accesskey "н">
 <!ENTITY doNotTrackLearnMore.label "Көбірек білу">
