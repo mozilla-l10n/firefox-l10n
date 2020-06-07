@@ -63,6 +63,7 @@ policy-ExtensionSettings = Kudeatu hedapenen instalazioko arlo guztiak.
 policy-ExtensionUpdate = Gaitu edo desgaitu hedapenen eguneraketa automatikoa.
 policy-FirefoxHome = Konfiguratu Firefox Home.
 policy-FlashPlugin = Baimendu edo ukatu Flash plugina erabiltzea.
+policy-Handlers = Konfiguratu aplikazio-maneiatzaile lehenetsiak.
 policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituko da.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Hasiera-orria ezarri eta ezarpen bidez aldatzea.
