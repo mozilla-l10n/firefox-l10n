@@ -13,11 +13,11 @@ fonts-label-default-unnamed =
     .label = Por omisión
 
 fonts-encoding-dialog-title =
-    .title = Tipografía y codificación
+    .title = Tipografías y codificación
 
 fonts-language-legend =
     .value = Tipos de letra para:
-    .accesskey = T
+    .accesskey = t
 
 fonts-proportional-label =
     .value = Proporcional:
@@ -27,7 +27,7 @@ fonts-proportional-label =
 
 # Note: Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
 font-language-group-latin =
-    .label = Latino
+    .label = Latin
 font-language-group-japanese =
     .label = Japonés
 font-language-group-trad-chinese =
@@ -59,7 +59,7 @@ font-language-group-armenian =
 font-language-group-bengali =
     .label = Bengalí
 font-language-group-canadian =
-    .label = Silabario canadiense unificado
+    .label = Silabario unificado canadiense
 font-language-group-ethiopic =
     .label = Etíope
 font-language-group-georgian =
@@ -71,7 +71,7 @@ font-language-group-gurmukhi =
 font-language-group-khmer =
     .label = Khmer
 font-language-group-malayalam =
-    .label = Malayalam
+    .label = Malayo
 font-language-group-math =
     .label = Matemáticas
 font-language-group-odia =
@@ -95,11 +95,11 @@ default-font-sans-serif =
 
 font-size-label =
     .value = Tamaño:
-    .accesskey = ñ
+    .accesskey = T
 
 font-size-monospace-label =
     .value = Tamaño:
-    .accesskey = a
+    .accesskey = m
 
 font-serif-label =
     .value = Serif:
@@ -110,42 +110,42 @@ font-sans-serif-label =
     .accesskey = n
 
 font-monospace-label =
-    .value = Monoespacio:
+    .value = Tipo fijo:
     .accesskey = M
 
 font-min-size-label =
     .value = Tamaño de letra mínimo:
-    .accesskey = d
+    .accesskey = z
 
 min-size-none =
     .label = Ninguno
 
 ## Fonts in message
 
-font-control-legend = Control de tipos de letra
+font-control-legend = Control de tipografía
 
 use-document-fonts-checkbox =
-    .label = Permitir a los mensajes usar otros tipos de letra
+    .label = Permitir a los mensajes usar otros tipos
     .accesskey = o
 
 use-fixed-width-plain-checkbox =
-    .label = Usar tipografía de ancho fijo para mensajes en texto sin formato
-    .accesskey = f
+    .label = Usar tipografías de ancho fijo para mensajes de texto sin formato
+    .accesskey = x
 
 ## Language settings
 
 text-encoding-legend = Codificación de texto
 
-text-encoding-description = Configurar la codificación de texto predeterminada para enviar y recibir mensajes
+text-encoding-description = Fijar la codificación por omisión para enviar y recibir mensajes
 
 font-outgoing-email-label =
     .value = Correo saliente:
-    .accesskey = e
+    .accesskey = s
 
 font-incoming-email-label =
     .value = Correo entrante:
-    .accesskey = C
+    .accesskey = e
 
 default-font-reply-checkbox =
-    .label = Cuando sea posible, usar la codificación de texto predeterminada en las respuestas
-    .accesskey = b
+    .label = Cuando sea posible, usar la codificación por omisión en las respuestas
+    .accesskey = u

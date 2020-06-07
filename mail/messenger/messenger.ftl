@@ -2,10 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-app-manager-window-dialog =
-    .title = Detalles de la aplicación
-    .style = width: 30em; min-height: 20em;
-
-remove-app-button =
-    .label = Eliminar
-    .accesskey = E
+about-rights-notification-text = { -brand-short-name } es software libre y de código abierto, creado por una comunidad de miles de personas en todo el mundo.

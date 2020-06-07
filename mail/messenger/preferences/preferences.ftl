@@ -7,11 +7,10 @@ close-button =
     .aria-label = Cerrar
 
 preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opciones
-           *[other] Preferencias
-        }
+    .title = { PLATFORM() ->
+        [windows] Opciones
+        *[other] Preferencias
+    }
 
 pane-general-title = General
 category-general =
@@ -67,6 +66,28 @@ privacy-junk-header = Correo basura
 
 privacy-data-collection-header = Recopilación y uso de datos
 
+collection-header = Recopilación y uso de datos de { -brand-short-name }
+
+collection-description = Nos esforzamos en proporcionarle opciones y recopilar solo lo necesario para proporcionarle { -brand-short-name } y mejorarlo para todos. Siempre solicitamos permiso antes de recibir información personal.
+collection-privacy-notice = Aviso de privacidad
+
+collection-health-report-telemetry-disabled = Ha dejado de permitir a { -vendor-short-name } capturar datos técnicos y de interacción. Todos los datos pasados se eliminarán en 30 días.
+collection-health-report-telemetry-disabled-link = Más información
+
+collection-health-report =
+    .label = Permitir a { -brand-short-name } enviar datos técnicos y de interacción a { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Más información
+
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = El envío de datos está desactivado en la configuración de este binario
+
+collection-backlogged-crash-reports =
+    .label = Permitir a { -brand-short-name } enviar informes de fallo registrados en su nombre
+    .accesskey = c
+collection-backlogged-crash-reports-link = Más información
+
 privacy-security-header = Seguridad
 
 privacy-scam-detection-title = Detección de fraude
@@ -85,8 +106,8 @@ chat-pane-styling-header = Estilo
 
 choose-messenger-language-description = Elija los idiomas usados para mostrar los menús, mensajes y notificaciones de { -brand-short-name }.
 manage-messenger-languages-button =
-    .label = Configurar alternativas…
-    .accesskey = u
+  .label = Configurar alternativas…
+  .accesskey = u
 confirm-messenger-language-change-description = Reinicie { -brand-short-name } para aplicar los cambios
 confirm-messenger-language-change-button = Aplicar y reiniciar
 
@@ -104,7 +125,7 @@ update-setting-write-failure-title = Error al guardar las preferencias de actual
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } ha encontrado un error y no ha grabado este cambio. Tenga en cuenta que cambiar esta preferencia de actualización requiere permisos para escribir en el archivo de debajo. Usted o un administrador de sistemas pueden resolver el error concediendo al grupo Usuarios control completo sobre este archivo.
-    
+
     No se puede escribir en el archivo: { $path }
 
 update-in-progress-title = Actualización en progreso
@@ -859,4 +880,3 @@ chat-header-label =
     .accesskey = z
 
 ## Preferences UI Search Results
-
