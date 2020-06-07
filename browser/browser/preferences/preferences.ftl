@@ -500,6 +500,7 @@ home-prefs-topsites-description = Gehien bisitatzen dituzun guneak
 home-prefs-recommended-by-header =
     .label = { $provider } hornitzaileak gomendatuta
 home-prefs-recommended-by-description = Webeko eduki baliotsua, zuretzat pertsonalizatuta
+home-prefs-recommended-by-description-update = Webeko aparteko edukia, { $provider } hornitzaileak bilduta
 
 ##
 
@@ -563,6 +564,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Erakutsi bilaketa-iradokizunak leiho pribatuetan
 suggestions-addressbar-settings = Aldatu nabigatze-historia, laster-marka eta fitxen iradokizunen hobespenak
+suggestions-addressbar-settings-generic = Aldatu hobespenak bilaketa-motorren bestelako iradokizunetarako
 search-suggestions-cant-show = Bilaketa-iradokizunak ez dira helbide-barran erakutsiko { -brand-short-name }(e)k historia inoiz ez gogoratzeko konfiguratu duzulako.
 search-one-click-header = Klik bakarreko bilaketa-motorrak
 search-one-click-desc = Aukeratu gako-hitz bat idazten hastean helbide- eta bilaketa-barren azpian agertzen diren ordezko bilaketa-motorrak.
@@ -901,6 +903,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Kudeatu baimenak
     .accesskey = b
+sitedata-cookies-exceptions =
+    .label = Kudeatu salbuespenak…
+    .accesskey = s
 
 ## Privacy Section - Address Bar
 
@@ -915,6 +920,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Irekitako fitxak
     .accesskey = I
+addressbar-locbar-topsites-option =
+    .label = Gune erabilienak
+    .accesskey = r
 addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
 
 ## Privacy Section - Content Blocking
