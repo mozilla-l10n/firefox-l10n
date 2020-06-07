@@ -162,8 +162,8 @@ full-screen-autohide =
     .label = Skryj poski z noczyniami
     .accesskey = S
 full-screen-exit =
-    .label = Wylyź z trybu cołkigo ekranu
-    .accesskey = W
+    .label = Zawrzij tryb połnego ekranu
+    .accesskey = w
 
 ## Search Engine selection buttons (one-offs)
 
@@ -173,23 +173,23 @@ search-one-offs-with-title = Teroz poszukej z:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
-    .label = Zmiana nasztalowań szukanio
+    .label = Zmiana sztelōnkōw szukanio
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = Zmiyń nasztalowania szukanio
+    .tooltiptext = Zmiyń sztelōnki szukanio
 search-one-offs-context-open-new-tab =
     .label = Szukej w nowyj karcie
     .accesskey = S
 search-one-offs-context-set-as-default =
-    .label = Nasztaluj za bazowo wyszukowarka
+    .label = Nasztaluj za wychodno wyszukowarka
     .accesskey = N
 search-one-offs-context-set-as-default-private =
-    .label = Nasztaluj za bazowo wyszukowarka do prywatnych ôkiyn
+    .label = Nasztaluj za wychodno wyszukowarka do prywatnych ôkyn
     .accesskey = P
 
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
-    .label = Pokoż edytōr przi spamiyntywaniu
+    .label = Pokoż edytōr przi spamiyntowaniu
     .accesskey = E
 bookmark-panel-done-button =
     .label = Fertich
@@ -204,32 +204,32 @@ bookmark-panel =
 identity-connection-not-secure = Połōnczynie niy ma zabezpieczōne
 identity-connection-secure = Połōnczynie je zabezpieczōne
 identity-connection-internal = To je zabezpieczōno strōna aplikacyje { -brand-short-name }.
-identity-connection-file = Ta strōna je schrōniōno na twojim kōmputrze.
+identity-connection-file = Ta strōna je trzimano na twojim kōmputrze.
 identity-extension-page = Ta strōna je zaladowano z rozszyrzynio.
-identity-active-blocked = Aplikacyjo { -brand-short-name } zaszperowała niyzabezpieczōne kōnski strōny.
+identity-active-blocked = Aplikacyjo { -brand-short-name } zablokowała niyzabezpieczōne party strōny.
 identity-custom-root = Połōnczynie je zweryfikowane ôd wystowcy certyfikatu, kerego Mozilla niy poznowo.
-identity-passive-loaded = Kōnski tyj strōny sōm niyzabezpieczōne (bez przikłod ôbrozki).
-identity-active-loaded = Ôchrōna na tyj strōnie je wyłōnczōno ôd ciebie.
-identity-weak-encryption = Ta strōna używo niyherskigo szifrowanio.
+identity-passive-loaded = Party tyj strōny sōm niyzabezpieczōne (bez przikłod ôbrozki).
+identity-active-loaded = Ôchrōna na tyj strōnie je zastawiōno ôd ciebie.
+identity-weak-encryption = Ta strōna używo słabego szyfrowanio.
 identity-insecure-login-forms = Dane logowanio wkludzōne na tyj strōnie mogōm być wyzdradzōne.
 identity-permissions =
     .value = Zgody
-identity-permissions-reload-hint = Może bydzie trza zaladować strōna jeszcze roz, coby wkludzić zmiany.
-identity-permissions-empty = Ta strōna niy dostała ôd ciebie żodnych nadbytnich zgodōw.
+identity-permissions-reload-hint = Możno bydzie trza zaladować strōna jeszcze roz, coby wkludzić zmiany.
+identity-permissions-empty = Ta strōna niy dostała ôd ciebie żodnych ekstra zgōd.
 identity-clear-site-data =
-    .label = Wypucuj cookies i dane strōn…
-identity-connection-not-secure-security-view = Połōnczynie z tōm strōnōm niy ma zebezpieczōne.
+    .label = Wyprōznij cookies i dane strōn…
+identity-connection-not-secure-security-view = Połōnczynie z tōm strōnōm niy ma zabezpieczōne.
 identity-connection-verified = Połōnczynie z tōm strōnōm je zabezpieczōne.
 identity-ev-owner-label = Certyfikat je wystawiony do:
-identity-description-custom-root = Mozilla niy poznowo tego wydowcy certyfikatu. Mōg być przidany z twojigo ôperacyjnego systymu abo ôd administratora. <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
+identity-description-custom-root = Mozilla niy poznowo tego wydowcy certyfikatu. Mōg być przidany z twojigo ôperacyjnego systymu abo ôd administratora. <label data-l10n-name="link">Dowiydz sie wiyncyj</label>
 identity-remove-cert-exception =
-    .label = Wyciep wyjōntek
+    .label = Wymaż wyjōntek
     .accesskey = W
-identity-description-insecure = Twoje połōnczynie z tōm strōnōm niy ma prywatne. Informacyje (bez przikłod hasła, wiadōmości, nōmery płatowych kart), kere wkludzosz, mogōm być dostympne do inkszych.
-identity-description-insecure-login-forms = Dane logowanio, kere wkludzosz na tyj strōnie, niy sōm zabezpieczōne i mogōm być wyzdradzōne.
-identity-description-weak-cipher-intro = Twoje połōnczynie z tōm strōnōm używo niyherskigo szifrowanio i niy ma prywatne.
-identity-description-weak-cipher-risk = Inksze ludzie mogōm ôboczyć twoje informacyje abo zmiynić dziołanie tyj strōny.
-identity-description-active-blocked = Aplikacyjo { -brand-short-name } zaszperowała niyzabezpieczōne kōnski tyj strōny. <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
+identity-description-insecure = Twoje połōnczynie z tōm strōnōm niy ma prywatne. Wkludzane informacyje (bez przikłod hasła, wiadōmości, numery płatowych kart) mogōm być dostympne do inkszych.
+identity-description-insecure-login-forms = Wkludzane na tyj strōnie dane logowanio niy sōm zabezpieczōne i mogōm być wyzdradzōne.
+identity-description-weak-cipher-intro = Twoje połōnczynie z tōm strōnōm używo słabego szyfrowanio i niy ma prywatne.
+identity-description-weak-cipher-risk = Inksi ludzie mogōm ôboczyć twoje informacyje abo zmiynić działanie tyj strōny.
+identity-description-active-blocked = Aplikacyjo { -brand-short-name } zablokowała niyzabezpieczōne party tyj strōny. <label data-l10n-name="link">Dowiydz sie wiyncyj</label>
 identity-description-passive-loaded = Twoje połōnczynie niy ma prywatne. Na informacyje, kere wkludzosz na strōnie, może zaglōndać fto inkszy.
 identity-description-passive-loaded-insecure = Ta strōna mo jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
 identity-description-passive-loaded-mixed = Chocioż aplikacyjo { -brand-short-name } zaszperowała trocha zawartości, na strōnie durch je jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
