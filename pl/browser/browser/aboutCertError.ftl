@@ -89,6 +89,7 @@ unknownSocketType-title = Nieoczekiwana odpowiedź serwera
 nssFailure2-title = Nie udało się nawiązać bezpiecznego połączenia
 cspBlocked-title = Zablokowane przez politykę bezpieczeństwa treści
 xfoBlocked-title = Zablokowane przez politykę „X-Frame-Options”
+csp-xfo-error-title = { -brand-short-name } nie może otworzyć tej strony
 corruptedContentError-title = Błąd: treść uszkodzona
 remoteXUL-title = Zdalna treść XUL
 sslv3Used-title = Nie udało się nawiązać bezpiecznego połączenia
