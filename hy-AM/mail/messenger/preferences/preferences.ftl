@@ -54,6 +54,10 @@ collection-health-report-link = Իմանալ ավելին
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տվյալների զեկուցումը անջատված է կազմաձևի այս կառուցման համար
+collection-backlogged-crash-reports =
+    .label = Թույլատրե՞լ { -brand-short-name }-ին ուղարկել հետին վթարի զեկուցներ առանց հարցնելու:
+    .accesskey = c
+collection-backlogged-crash-reports-link = Իմանալ ավելին
 privacy-security-header = Անվտանգություն
 privacy-scam-detection-title = Խաբեության հայտնաբերում
 privacy-anti-virus-title = Հակավիրուս
@@ -88,6 +92,17 @@ addons-button = Ընդլայնումներ և Ոճեր
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Ստուգեք ձեր ինքնությունը`գլխավոր գաղտնաբառ ստեղծելու համար:
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Գլխավոր գաղտնաբառ ստեղծելու համար մուտքագրեք ձեր Windows-ի մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = Ստեղծել Գլխավոր գաղտնաբառ
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
@@ -112,6 +127,9 @@ add-search-engine =
 remove-search-engine =
     .label = Հեռացնել
     .accesskey = v
+minimize-to-tray-label =
+    .label = Երբ &brandShortName;-ը նվազեցված է, տեղափոխել այն տակդիր
+    .accesskey = m
 new-message-arrival = Նոր նամակ ստանալիս.
 mail-play-sound-label =
     .label =
@@ -141,6 +159,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Ցուցադրել էկրանի ներքևի պատկերը
     .accesskey = t
+mail-system-sound-label =
+    .label = Համակարգային ձայնը՝ նոր նամակի դեպքում
+    .accesskey = D
 mail-custom-sound-label =
     .label = Օգտ. հետևյալ ձայնային ֆայլը
     .accesskey = U
@@ -651,6 +672,29 @@ chat-variant-label =
 chat-header-label =
     .label = Ցուցադրել վերնագիրը
     .accesskey = H
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Գտնել Ընտրանքներում
+           *[other] Գտնել Նախապատվություններում
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Որոնման արդյունքներ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Ընտրանքերում այլ արդյունքներ չկան “<span data-l10n-name="query"></span>”-ի համար:
+       *[other] Նախապատվություններում այլ արդյունքներ չկան “<span data-l10n-name="query"></span>”-ի համար:
+    }
+search-results-help-link = Օգնությո՞ւն է պետք: Այցելեք { -brand-short-name }-ի աջակցում</a>
