@@ -116,6 +116,11 @@ sandbox-sys-call-number = Համզանգ
 sandbox-sys-call-args = Փաստարկներ
 safe-mode-title = Օգտ. Ապահով կերպը
 restart-in-safe-mode-label = Վերամեկնարկել՝ անջատելով հավելումները...
+clear-startup-cache-title = Փորձեք մաքրել ինքնամեկնարկի շտեմը
+clear-startup-cache-label = Մաքրել ինքնամեկնարկի շտեմը…
+startup-cache-dialog-title = Մաքրել ինքնամեկնարկի շտեմը
+startup-cache-dialog-body = Վերամեկնարկեք { -brand-short-name }-ը՝ ինքնամեկնարկի շտեմը մաքրելու համար: Դա չի փոխի ձեր կարգավորումները կամ հեռացնի ընդլայնումները, որոնք ավելացրել եք { -brand-short-name }-ում:
+restart-button-label = Վերամեկնարկել
 
 ## Media titles
 
