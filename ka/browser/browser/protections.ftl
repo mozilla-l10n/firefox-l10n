@@ -184,9 +184,26 @@ monitor-no-breaches-title = მშვენიერი ამბავი!
 monitor-no-breaches-description = თქვენი მონაცემები არაა მიტაცებული. თუ რამე შეიცვლება, გაცნობებთ.
 monitor-view-report-link = ანგარიშის ნახვა
     .title = გამოასწორეთ მიტაცებული მონაცემები – { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = გამოასწორეთ მიტაცებული მონაცემები
+monitor-breaches-resolved-title = მშვენიერია! ყველა მიტაცებული მონაცემი გამოსწორებულია.
+monitor-breaches-resolved-description = თუ თქვენი ელფოსტა აღმოჩნდება ახალ მიტაცებებში, გაცნობებთ.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } მიტაცება { $numBreaches }-იდან აღნიშნულია გამოსწორებულად
+       *[other] { $numBreachesResolved } მიტაცება { $numBreaches }-იდან აღნიშნულია გამოსწორებულად
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% შესრულებულია
 monitor-partial-breaches-motivation-title-start = დასაწყისისთვის მშვენიერია!
 monitor-partial-breaches-motivation-title-middle = ასე განაგრძეთ!
 monitor-partial-breaches-motivation-title-end = თითქმის მზადაა! განაგრძეთ.
+monitor-partial-breaches-motivation-description = გამოასწორეთ დარჩენილი მიტაცებული მონაცემები – { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = მიტაცებული მონაცემების გამოსწორება
+    .title = მიტაცებული მონაცემების გამოსწორება – { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
