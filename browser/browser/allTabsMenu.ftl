@@ -4,17 +4,19 @@
 
 all-tabs-menu-undo-close-tab =
     .label = დახურული ჩანართის დაბრუნება
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] დახურული ჩანართის დაბრუნება
+           *[other] დახურული ჩანართების დაბრუნება
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = ჩანართების ძიება
-
 all-tabs-menu-new-user-context =
     .label = ახალი სათავსი ჩანართი
-
 all-tabs-menu-hidden-tabs =
     .label = დამალული ჩანართები
-
 all-tabs-menu-manage-user-context =
     .label = სათავსების მართვა
     .accesskey = ა
