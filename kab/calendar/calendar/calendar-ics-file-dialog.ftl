@@ -6,6 +6,7 @@ calendar-ics-file-window =
     .title = Kter tidyanin n uwitay
 calendar-ics-file-dialog =
     .buttonlabelaccept = Kter
+calendar-ics-file-dialog-import-event-button-label = Kter tadyant
 calendar-ics-file-accept-button-ok-label = IH
 # $fileName (string) - The name of the file.
 calendar-ics-file-dialog-message = Tebɣiḍ ad tketreḍ afaylu "{ $fileName }"?
