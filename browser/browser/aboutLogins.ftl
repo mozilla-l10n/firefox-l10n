@@ -127,6 +127,11 @@ about-logins-copy-password-os-auth-dialog-message-win = Per copiar tes pled-clav
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar il pled-clav memorisà
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Per exportar tias infurmaziuns d'annunzia, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = exportar las infurmaziuns d'annunzia memorisadas ed ils pleds-clav
 
 ## Master Password notification
 
@@ -199,3 +204,16 @@ about-logins-error-message-default = Ina errur è succedida durant l'emprova da 
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Exportar la datoteca da las infurmaziuns d'annunzia
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = datas-annunzia.csv
+about-logins-export-file-picker-export-button = Exportar
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Document CSV
+       *[other] Datoteca CSV
+    }
