@@ -148,7 +148,7 @@ intl-locales-requested = Ñe'ẽnguéra jerurepyre
 intl-locales-available = Ñe'ẽnguéra ojepurukuaáva
 intl-locales-supported = Ñe’ẽnguéra tembipuru’i rehegua
 intl-locales-default = Ñe'ẽnguéra ijypykuéva
-intl-os-title = Apopyvusu oku'éva
+intl-os-title = Apopyvusu oku’éva
 intl-os-prefs-system-locales = Ñe'ẽnguéra apopyvusu rehegua
 intl-regional-prefs = Jerohoryvéva tendaguáva
 
@@ -209,7 +209,7 @@ text-copied = Moñe'ẽrã oñembohasáma kuatiajokohápe
 
 blocked-driver = Ojejokóva peteĩchaguápe g̃uarã ta'ãnga ñangarekohárape.
 blocked-gfx-card = Ojejoko ikuatia'atã ha'ãngávape g̃uarã oguereko rupi apañuãi ñangarekoha omoĩporã'ỹva.
-blocked-os-version = Ojejokóva peteĩchaguápe g̃uarã nde apopyvusu oku'éva pegua.
+blocked-os-version = Ojejokóva peteĩchaguápe g̃uarã nde apopyvusu oku’éva pegua.
 blocked-mismatched-version = Ojoko ha'ãnga ñangarekoha peteĩchagua oĩporã'ỹva jehaipy ha DLL pa'ũme.
 # Variables
 # $driverVersion - The graphics driver version string
@@ -314,7 +314,7 @@ async-pan-zoom = Ojuehe'ỹva Pan/Zoom
 apz-none = Avave
 wheel-enabled = omoneĩ jereha jeike
 touch-enabled = jeikeha jepokóva jurujapyre
-drag-enabled = embosyryry oku'éva renda myendypyre
+drag-enabled = embosyryry oku’éva renda myendypyre
 keyboard-enabled = tairenda myandypyre
 autoscroll-enabled = ñemongu’e ijeheguíva ijurujáma
 zooming-enabled = zoom ñepichã’i myandypyre

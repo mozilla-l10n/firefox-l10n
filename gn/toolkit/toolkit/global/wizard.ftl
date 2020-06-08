@@ -11,9 +11,8 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Atukupegua
     .accesskey = B
-
 wizard-macos-button-next =
-    .label = Ku'ejey
+    .label = Ku’ejey
     .accesskey = C
 wizard-linux-button-next =
     .label = Upeigua
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Upeigua >
     .accesskey = N
-
 wizard-macos-button-finish =
     .label = Japopyre
 wizard-linux-button-finish =
     .label = Mbopaha
 wizard-win-button-finish =
     .label = Mbopaha
-
 wizard-macos-button-cancel =
     .label = Heja
 wizard-linux-button-cancel =

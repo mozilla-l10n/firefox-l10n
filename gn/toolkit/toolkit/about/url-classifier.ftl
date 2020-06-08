@@ -30,7 +30,7 @@ url-classifier-cache-show-entries = Jeikeha jehechauka
 url-classifier-cache-entries = Kache jeikeha
 url-classifier-cache-prefix = Ñe'ẽpehẽtai mboyvegua
 url-classifier-cache-ncache-expiry = Kache mbotovéva ñemboty
-url-classifier-cache-fullhash = Mba'eku'i henyhẽva
+url-classifier-cache-fullhash = Mba’eku’i henyhẽva
 url-classifier-cache-pcache-expiry = Kache moneĩva ñemboty
 url-classifier-debug-title = Mopotĩ
 url-classifier-debug-module-btn = Emopyenda jehaipy ra'ãha
@@ -40,7 +40,6 @@ url-classifier-debug-sb-modules = Jehaipy ra'ãha jeikekatu rehegua
 url-classifier-debug-modules = Jehaipy ra'ãha ag̃agua
 url-classifier-debug-sbjs-modules = Jeikekatu rehegua JS log
 url-classifier-debug-file = Marandurenda rembiasakue ag̃agua
-
 url-classifier-trigger-update = Ñembohekopyahu mbojuaju'o
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Eipe'aite jeikekatu rehegua JS log
