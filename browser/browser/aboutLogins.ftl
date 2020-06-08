@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = इसे Google Play पर पायें
 login-app-promo-apple =
     .alt = App Store पर डाउनलोड करें
-
 login-filter =
     .placeholder = लॉगिन खोजें
-
 create-login-button = नई लॉगिन बनाएँ
-
 fxaccounts-sign-in-text = अपने पासवर्ड को अपने अन्य उपकरणों पर प्राप्त करें
 fxaccounts-sign-in-button = { -sync-brand-short-name } में साइन इन करें
 fxaccounts-avatar-button =
@@ -110,15 +108,13 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = सहेजे गए लॉगिन को संपादित करें
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सहेजे गए पासवर्ड देखें
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सहेजे गए पासवर्ड को कॉपी करें
 
@@ -147,11 +143,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = रद्द करें
 confirmation-dialog-dismiss-button =
     .title = रद्द करें
-
 about-logins-confirm-remove-dialog-title = इस लॉगिन को हटाएँ?
 confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
 about-logins-confirm-remove-dialog-confirm-button = हटाएँ
-
 confirm-discard-changes-dialog-title = न सहेजे गए परिवर्तनों को छोड़ें?
 confirm-discard-changes-dialog-message = सभी सहेजे न गए परिवर्तन खो जाएंगे।
 confirm-discard-changes-dialog-confirm-button = छोड़ें
@@ -177,6 +171,15 @@ about-logins-vulnerable-alert-learn-more-link = अधिक जानें
 # This is a generic error message.
 about-logins-error-message-default = पासवर्ड सहेजने का प्रयास करते समय एक त्रुटि हुई।
 
-
 ## Login Export Dialog
 
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV दस्तावेज़
+       *[other] CSV फाइल
+    }
