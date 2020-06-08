@@ -227,3 +227,11 @@ cfr-whatsnew-passwords-icon-alt = Ícone de chave de senha vulnerável
 cfr-whatsnew-pip-fullscreen-header = Use picture-in-picture em tela inteira
 cfr-whatsnew-pip-fullscreen-body = Após transferir um vídeo para uma janela flutuante, agora você pode dar um duplo-clique nessa janela para exibir em tela inteira.
 cfr-whatsnew-pip-fullscreen-icon-alt = Ícone de picture-in-picture
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-icon-alt = Ícone de escudo
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Melhor experiência de uso em PDF
