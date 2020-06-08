@@ -22,6 +22,7 @@ feeds-label = Ροές
     .aria-label = Σύνδεση στις ροές
 newsgroups-label = Ομάδες συζητήσεων
     .aria-label = Σύνδεση σε ομάδα συζητήσεων
+import-title = Εισαγωγή από άλλο πρόγραμμα
 import-label = Εισαγωγή
     .aria-label = Εισαγωγή δεδομένων από άλλα προγράμματα
 explore-link = Εξερεύνηση λειτουργιών
