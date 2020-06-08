@@ -232,6 +232,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Նկար-նկարում պատկերակ
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Պաշտպանություն առաջին հայացքից
+cfr-whatsnew-protections-body = Պաշտպանությունների վահանակը ներառում է տվյալների խախտումների և գաղտնաբառերի կառավարման ընդհանրական զեկույցներ: Այժմ կարող եք հետևել, թե որքան խախտումներ եք դուք ուղղել և տեսնել, թե ձեր պահպանած գաղտնաբառերից քանիսին են ներառվել տվյալների խախտումներում:
 cfr-whatsnew-protections-cta-link = Դիտել պաշտպանության վահանակը
 cfr-whatsnew-protections-icon-alt = Վահանի պատկերակը
 
