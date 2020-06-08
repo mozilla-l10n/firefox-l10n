@@ -6,6 +6,7 @@ auth-yes =
     .label = Ναι
 auth-no =
     .label = Όχι
+auth-questionAndAnswer = Ερώτηση και απάντηση
 auth-manualVerification-label =
     .label = { auth-manualVerification }
 auth-questionAndAnswer-label =
