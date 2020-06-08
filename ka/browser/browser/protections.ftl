@@ -185,6 +185,9 @@ monitor-no-breaches-description = თქვენი მონაცემებ
 monitor-view-report-link = ანგარიშის ნახვა
     .title = გამოასწორეთ მიტაცებული მონაცემები – { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = გამოასწორეთ მიტაცებული მონაცემები
+monitor-breaches-unresolved-description = მიტაცების დაწვრილებით გაცნობითა და ინფორმაციის დასაცავად გადადგმული ნაბიჯების შედეგად, შეგიძლიათ აღნიშნოთ, რომ გამოსწორებულია.
+monitor-manage-breaches-link = მიტაცებული მონაცემების მართვა
+    .title = მიტაცებული მონაცემების მართვა – { -monitor-brand-short-name }
 monitor-breaches-resolved-title = მშვენიერია! ყველა მიტაცებული მონაცემი გამოსწორებულია.
 monitor-breaches-resolved-description = თუ თქვენი ელფოსტა აღმოჩნდება ახალ მიტაცებებში, გაცნობებთ.
 # Variables:

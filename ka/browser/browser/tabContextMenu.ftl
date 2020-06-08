@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = დახურული ჩანართის დაბრუნება
     .accesskey = ბ
+tab-context-close-multiple-tabs =
+    .label = რამდენიმე ჩანართის დახურვა
+    .accesskey = რ
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] დახურული ჩანართის დაბრუნება
+           *[other] დახურული ჩანართების დაბრუნება
+        }
+    .accesskey = დ
 close-tab =
     .label = ჩანართის დახურვა
     .accesskey = უ
