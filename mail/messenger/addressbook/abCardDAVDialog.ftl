@@ -7,6 +7,7 @@ carddav-window =
 carddav-dialog =
     .buttonlabelaccept = Continuer
     .buttonaccesskeyaccept = C
+carddav-experimental-warning = La prise en charge des carnets d’adresses CardDAV est expérimentale et pourrait endommager définitivement vos données. À utiliser à vos risques et périls.
 carddav-provider-label =
     .value = Fournisseur CardDAV :
     .accesskey = F
