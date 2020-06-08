@@ -901,6 +901,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Gerir las autorizacions…
     .accesskey = a
+sitedata-cookies-exceptions =
+    .label = Gerir las excepcions…
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
