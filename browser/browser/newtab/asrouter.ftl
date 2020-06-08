@@ -234,6 +234,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikon for bilde-i-bilde
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Beskyttelse på et øyeblikk
 cfr-whatsnew-protections-body = Sikkerhetsoversikten inneholder sammendragsrapporter om datalekkasjer og passordbehandling. Du kan nå spore hvor mange datalekkasjer du har løst, og se om noen av de lagrede passordene dine kan ha blitt eksponert i en datalekkasje.
 cfr-whatsnew-protections-cta-link = Vis sikkerhetsoversikt
 cfr-whatsnew-protections-icon-alt = Skjoldikon
@@ -241,3 +242,4 @@ cfr-whatsnew-protections-icon-alt = Skjoldikon
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Bedre PDF-opplevelse
+cfr-whatsnew-better-pdf-body = PDF-dokumenter åpnes nå direkte i { -brand-short-name }, og holder arbeidsflyten innen samme program.
