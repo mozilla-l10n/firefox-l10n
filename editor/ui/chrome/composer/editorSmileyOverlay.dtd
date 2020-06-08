@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Смайлик">
 <!ENTITY insertSmiley.accesskey "С">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Үндемеу">
 <!ENTITY smiley16Cmd.accesskey "м">
 <!ENTITY smiley16Cmd.tooltip "Үндемейтін бетті кірістіру">
+<!ENTITY SmileButton.label "Смайликті кірістіру">
 <!ENTITY SmileButton.tooltip "Смайликті кірістіру">
-
