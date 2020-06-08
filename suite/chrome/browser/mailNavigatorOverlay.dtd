@@ -7,6 +7,9 @@
 
 <!ENTITY sendPage.label                  "Pošlji stran …">
 
+<!ENTITY contextSendThisPage.label       "Pošlji to stran ...">
+<!ENTITY contextSendThisLink.label       "Pošlji to povezavo ...">
+<!ENTITY contextSendImage.label          "Pošlji sliko ...">
 
- 
+<!ENTITY sendLinkCmd.label               "Pošlji povezavo …"> 
 
