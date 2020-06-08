@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -13,9 +14,7 @@ about-logins-page-title = ప్రవేశాలు & సంకేతపదా
 
 login-filter =
     .placeholder = ప్రవేశాలలో వెతకండి
-
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
-
 fxaccounts-avatar-button =
     .title = ఖాతా నిర్వహించు
 
@@ -35,7 +34,9 @@ login-list-count =
         [one] { $count } ప్రవేశం
        *[other] { $count } ప్రవేశాలు
     }
+login-list-sort-label-text = క్రమం:
 login-list-name-option = పేరు (A-Z)
+login-list-name-reverse-option = పేరు (Z-A)
 login-list-last-changed-option = చివరి మార్పు
 login-list-last-used-option = చివరగా వాడినది
 login-list-intro-title = ప్రవేశాలేమీ కనబడలేదు
@@ -68,9 +69,11 @@ login-item-cancel-button = రద్దుచేయి
 
 ## OS Authentication dialog
 
+
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -86,16 +89,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = రద్దుచేయి
 confirmation-dialog-dismiss-button =
     .title = రద్దుచేయి
-
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
-
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 
 ## Breach Alert notification
 
 
 ## Vulnerable Password notification
+
 
 ## Error Messages
 
