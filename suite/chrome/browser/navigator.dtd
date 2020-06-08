@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+
+<!ENTITY mainWindow.titleprivate "Zasebno brskanje">
+
+<!ENTITY editPageCmd.label "Uredi stran">
+
+
+<!ENTITY closeWindow.label "Zapri okno">
+
+<!ENTITY restoreButton.tooltip        "Obnovi">
+
+<!ENTITY feedsMenu.label "Naroči se na to stran">
+
+
+<!ENTITY editBookmark.cancel.label "Prekliči">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label             "Nazaj">
+<!ENTITY backButton.tooltip           "Pojdi na prejšnjo stran">
+<!ENTITY forwardButton.label          "Naprej">
+<!ENTITY forwardButton.tooltip        "Pojdi na naslednjo stran">
+<!ENTITY reloadButton.label           "Ponovno naloži">
+<!ENTITY reloadButton.tooltip         "Ponovno naloži trenutno stran">
+<!ENTITY goButton.label               "Pojdi">
+<!ENTITY printButton.label            "Natisni">
+<!ENTITY printButton.tooltip          "Natisni to stran">
+
+
+
+
+
+<!ENTITY bookmarksButton.label        "Zaznamki">
+<!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
+
+<!-- Statusbar -->
+
+
+<!ENTITY viewSecurityInfo.label      "Pokaži podatke o varnosti">
+

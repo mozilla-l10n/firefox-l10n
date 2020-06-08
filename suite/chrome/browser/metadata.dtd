@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY image-sec.label       "Lastnosti slike">
+<!ENTITY image-desc.label      "Opis:">
+<!ENTITY image-alt.label       "Nadomestno besedilo:">
+<!ENTITY image-width.label     "Širina:">
+<!ENTITY image-height.label    "Višina:">
+<!ENTITY image-filesize.label  "Velikost datoteke:">
+<!ENTITY image-filesize.value  "Neznano">
+<!ENTITY insdel-date.label     "Datum:">
+<!ENTITY link-sec.label        "Lastnosti povezave">
+<!ENTITY link-url.label        "Naslov:">
+<!ENTITY link-lang.label       "Ciljni jezik:">
+<!ENTITY misc-lang.label       "Jezik besedila:">
+<!ENTITY misc-title.label      "Naslov:">
