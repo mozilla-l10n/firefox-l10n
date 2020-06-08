@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Mesiras da protecziun
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Avrir il rapport davart las mesiras per la protecziun da datas
+appmenuitem-protection-dashboard-title = Survista da las protecziuns
 appmenuitem-customize-mode =
     .label = Persunalisar…
 
@@ -26,3 +27,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novaziuns
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Infurmar davart novas funcziunalitads
+    .accesskey = f
