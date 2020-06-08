@@ -30,5 +30,6 @@ carddav-remember-password =
     .accesskey = a
 carddav-loading = Configuratie opzoeken…
 carddav-connection-error = Verbinding maken mislukt.
+carddav-none-found = Geen toe te voegen adresboeken gevonden voor de opgegeven account.
 carddav-already-added = Alle adresboeken voor de opgegeven account zijn al toegevoegd.
 carddav-available-books = Beschikbare adresboeken:
