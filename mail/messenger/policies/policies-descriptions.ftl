@@ -25,6 +25,18 @@ policy-DisabledCiphers = Шифрлерді сөндіру.
 policy-DefaultDownloadDirectory = Негізгі жүктеп алулар бумасын орнату.
 policy-DisableDefaultClientAgent = Үнсіз келісім бойынша клиент агентіне ешбір әрекетті таңдауға жол бермейді. Тек Windows үшін қолданылады; басқа платформаларда агент жоқ.
 policy-DisableDeveloperTools = Әзірлеуші құралдарына қатынауды бұғаттау.
+policy-DisableFeedbackCommands = Көмек мәзірінен кері байланысты жіберу командаларын сөндіру (Кері байланыс хабарламасын жіберу және Фишингті сайт туралы хабарлау).
+policy-DisableForgetButton = Ұмыту батырмасына қатынауды бұғаттау.
+policy-DisableFormHistory = Іздеу және формалар тарихын сақтамау.
+policy-DisableMasterPasswordCreation = Мәні true болса, мастер-парольді орнату мүмкін болмайды.
+policy-DisablePasswordReveal = Сақталған логиндерде парольдердің ашылуына жол бермеу.
+policy-DisableProfileImport = Басқа қолданбадан деректерді импорттау мәзір командасын сөндіру.
+policy-DisableSafeMode = Қауіпсіз режимде қайта іске қосылу мүмкіндігін сөндіру. Ескерту: Қауіпсіз режиміне өту үшін Shift пернесін Windows-та тек Топтық Саясат көмегімен сөндіруге болады.
+policy-DisableSecurityBypass = Пайдаланушыға кейбір қауіпсіздік ескертулерді аттап кетуге рұқсат етпеу.
+policy-DisableSystemAddonUpdate = { -brand-short-name } үшін жүйелік қосымшаларды орнатуға және жаңартуға тыйым салу.
+policy-DisableTelemetry = Телеметрияны сөндіру.
+policy-DisplayMenuBar = Мәзір жолағын үнсіз келісім бойынша көрсету.
+policy-DNSOverHTTPS = HTTPS арқылы DNS баптау.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
