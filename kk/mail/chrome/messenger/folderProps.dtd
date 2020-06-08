@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Аты:">
 <!ENTITY folderProps.name.accesskey              "А">
+<!ENTITY folderProps.color.label                 "Таңбаша түсі:">
+<!ENTITY folderProps.color.accesskey             "а">
+<!ENTITY folderProps.reset.tooltip               "Бастапқы түсін қалпына келтіру">
 <!ENTITY folderProps.location.label              "Орналасуы:">
 <!ENTITY folderProps.location.accesskey          "О">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Привилегиялар…">
 <!ENTITY privileges.button.accesskey             "П">
 <!ENTITY permissionsDesc.label                   "Сізде келесі рұқсаттар бар:">
+<!ENTITY folderOtherUsers.label                  "Бұл бумаға қатынай алатын басқа адамдар:">
 <!ENTITY folderType.label                        "Бума түрі:">
 
 <!ENTITY folderQuotaTab.label                    "Квота">

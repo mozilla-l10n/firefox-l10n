@@ -27,14 +27,15 @@
 <!ENTITY contextOutgoing.accesskey "б">
 <!ENTITY contextArchive.label "Архивтеу">
 <!ENTITY contextArchive.accesskey "А">
+<!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Келесі әрекеттерді орындау:">
 <!ENTITY filterActionDesc.accesskey "н">
 
 <!ENTITY filterActionOrderWarning.label "Ескерту: Сүзгі әрекеттері басқа ретпен орындалатын болады.">
 <!ENTITY filterActionOrder.label "Орындалу ретін қарау">
-<!-- New Style Filter Rule Actions -->
 
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Хабарламаны қайда жылжыту">
 <!ENTITY copyMessage.label "Хабарлама көшірмесін қайда жасау">
 <!ENTITY forwardTo.label "Хабарламаны қайда қайта бағдарлау">
@@ -62,6 +63,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
-
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
