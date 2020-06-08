@@ -21,6 +21,7 @@
 <!ENTITY productHelp.accesskey "м">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
 <!ENTITY helpKeyboardShortcuts.label "Пернетақта жарлықтары">
 <!ENTITY helpKeyboardShortcuts.accesskey "т">
