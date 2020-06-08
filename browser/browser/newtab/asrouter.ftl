@@ -232,3 +232,15 @@ cfr-whatsnew-passwords-icon-alt = Icona di una chiave per password vulnerabile
 cfr-whatsnew-pip-fullscreen-header = Usa picture-in-picture a schermo intero
 cfr-whatsnew-pip-fullscreen-body = Dopo aver trasferito il video in una finestra separata, ora puoi fare doppio clic sulla finestra per visualizzarla a schermo intero.
 cfr-whatsnew-pip-fullscreen-icon-alt = Icona di picture-in-picture
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = Tutte le protezioni a colpo d’occhio
+cfr-whatsnew-protections-body = La dashboard protezioni include una sintesi delle informazioni relative alle violazioni di dati e alla gestione delle password. È possibile tenere traccia del numero di violazioni che hai risolto e verificare se una delle tue password è stata coinvolta in una violazione di dati.
+cfr-whatsnew-protections-cta-link = Visualizza dashboard protezioni
+cfr-whatsnew-protections-icon-alt = Icona dello scudo
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Esperienza migliore con i PDF
+cfr-whatsnew-better-pdf-body = Adesso è possibile aprire i documenti PDF direttamente in { -brand-short-name }, senza intralciare il tuo flusso di lavoro.
