@@ -80,7 +80,7 @@ protection-report-save-passwords-button = Salvar senhas
 protection-report-manage-passwords-button = Gerenciar senhas
     .title = Gerenciar senhas no { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Tenha suas senhas em qualquer lugar
-lockwise-no-logins-card-content = Use as senhas salvas em { -brand-short-name } em qualquer dispositivo.
+lockwise-no-logins-card-content = Use as senhas salvas no { -brand-short-name } em qualquer dispositivo.
 lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
