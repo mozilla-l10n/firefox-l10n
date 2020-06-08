@@ -13,6 +13,8 @@
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "ელფოსტის მისამართი:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "პასუხი ამ მოწმობით, როცა მიწოდების თავსართები დაემთხვევა:">
+<!ENTITY catchAll.accesskey "დ">
 <!ENTITY replyTo.label "მისამართი პასუხისათვის:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "მიმღებები ამას უპასუხებენ სხვა მისამართზე">
