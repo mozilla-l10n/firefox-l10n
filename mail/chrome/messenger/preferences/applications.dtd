@@ -30,6 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Жаңа Filelink сақтау қызметін қосу">
 <!ENTITY removeCloudFileAccount.label     "Өшіру">
 <!ENTITY removeCloudFileAccount.accesskey "ш">
+<!ENTITY findCloudFileProviders.label     "Көбірек провайдерлерді табу…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Келесіден үлкен файлдарды бөлісуді ұсыну">
 <!ENTITY enableCloudFileAccountOffer.mb "МБ">
