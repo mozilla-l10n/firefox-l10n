@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Спробуйте це: Прикріпити в
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чому я це бачу?
-
 cfr-doorhanger-extension-cancel-button = Не зараз
     .accesskey = е
-
 cfr-doorhanger-extension-ok-button = Додати
     .accesskey = т
 cfr-doorhanger-pintab-ok-button = Прикріпити цю вкладку
     .accesskey = к
-
 cfr-doorhanger-extension-manage-settings-button = Керувати налаштуваннями рекомендацій
     .accesskey = К
-
 cfr-doorhanger-extension-never-show-recommendation = Не показувати цю рекомендацію
     .accesskey = Н
-
 cfr-doorhanger-extension-learn-more-link = Докладніше
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = від { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Рекомендація
-
 cfr-doorhanger-extension-notification2 = Рекомендація
     .tooltiptext = Рекомендація розширень
     .a11y-announcement = Доступна рекомендація розширень
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Рекомендація
@@ -70,7 +61,6 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } користувача
        *[many] { $total } користувачів
     }
-
 cfr-doorhanger-pintab-description = Отримуйте швидкий доступ до своїх найчастіших сайтів. Зберігайте сайти відкритими у вкладках навіть після перезапуску.
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -78,10 +68,8 @@ cfr-doorhanger-pintab-description = Отримуйте швидкий досту
 cfr-doorhanger-pintab-step1 = <b>Права кнопка миші</b> на вкладці, яку ви хочете прикріпити.
 cfr-doorhanger-pintab-step2 = Оберіть в меню <b>Прикріпити вкладку</b>.
 cfr-doorhanger-pintab-step3 = Якщо на сайті є оновлення, ви побачите блакитну крапку на прикріпленій вкладці.
-
 cfr-doorhanger-pintab-animation-pause = Призупинити
 cfr-doorhanger-pintab-animation-resume = Продовжити
-
 
 ## Firefox Accounts Message
 
@@ -103,26 +91,20 @@ cfr-protections-panel-link-text = Докладніше
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова функція:
-
 cfr-whatsnew-button =
     .label = Що нового
     .tooltiptext = Що нового
-
 cfr-whatsnew-panel-header = Що нового
-
 cfr-whatsnew-release-notes-link-text = Ознайомитися з інформацією про випуск
-
 cfr-whatsnew-fx70-title = { -brand-short-name } тепер ще надійніше захищає вашу приватність
 cfr-whatsnew-fx70-body =
     Остання версія має вдосконалений захист від стеження і дозволяє
     простіше, ніж раніше, створювати надійні паролі для сайтів.
-
 cfr-whatsnew-tracking-protect-title = Захистіть себе від стеження
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } блокує багато поширених елементів стеження соціальних мереж
     та стеження між сайтами, що переслідують вас в інтернеті.
 cfr-whatsnew-tracking-protect-link-text = Переглянути звіт
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -134,11 +116,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Починаючи з { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Переглянути звіт
-
 cfr-whatsnew-lockwise-backup-title = Резервне копіювання паролів
 cfr-whatsnew-lockwise-backup-body = Тепер генеруйте надійні паролі, до яких ви можете отримати доступ де завгодно.
 cfr-whatsnew-lockwise-backup-link-text = Увімкнути резервне копіювання
-
 cfr-whatsnew-lockwise-take-title = Візьміть свої паролі з собою
 cfr-whatsnew-lockwise-take-body =
     Мобільний додаток { -lockwise-brand-short-name } дозволяє безпечно отримувати
@@ -175,7 +155,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[many] Заблокованих зчитувань цифрового відбитка
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокує багато засобів, що зчитують цифровий відбиток і таємно збирають інформацію про ваш пристрій та діяльність з метою створення вашого рекламного профілю.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Зчитування цифрового відбитка
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } може блокувати засоби, що зчитують цифровий відбиток і таємно збирають інформацію про ваш пристрій та діяльність з метою створення вашого рекламного профілю.
@@ -258,3 +237,15 @@ cfr-whatsnew-passwords-icon-alt = Піктограма ключа для вра�
 cfr-whatsnew-pip-fullscreen-header = Увімкніть повноекранний режим зображення в зображенні
 cfr-whatsnew-pip-fullscreen-body = Відтепер, коли ви переглядаєте відео у відкріпленому вікні, можете двічі клацнути по ньому, щоб перейти у повноекранний режим.
 cfr-whatsnew-pip-fullscreen-icon-alt = Піктограма зображення в зображенні
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = Швидкий огляд стану захисту
+cfr-whatsnew-protections-body = Панель стану захисту містить підсумкові звіти про витоки даних і керування паролями. Тепер ви можете стежити, скільки витоків даних ви розв'язали та переглядати чи якісь зі збережених паролів могли бути викриті з витоком даних.
+cfr-whatsnew-protections-cta-link = Переглянути панель стану захисту
+cfr-whatsnew-protections-icon-alt = Піктограма щита
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Краща робота з PDF
+cfr-whatsnew-better-pdf-body = PDF-документи тепер відкриваються безпосередньо в { -brand-short-name }, забезпечуючи швидкий доступ під час роботи.
