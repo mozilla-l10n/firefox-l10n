@@ -266,6 +266,8 @@ popup-silence-notifications-checkbox = साझा करते समय { -br
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-disable-for-session =
+    .label = इस सत्र के लिए साझाकरण सुरक्षा अक्षम करें
 
 ## DevTools F12 popup
 
