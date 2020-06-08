@@ -4,7 +4,6 @@
 
 page-title = Talɣut n usellek
 page-subtitle = Asebter-agi igber talɣut tatiknikant i izemren ahat ticki tettaɛraḍeḍ ad tefruḍ ugur. Ma yella tettnadiḍ tiririt ɣef isteqsiyen n { -brand-short-name },senqed <a data-l10n-name="support-link"> asmel-nneɣ Web</a>.
-
 crashes-title = Ineqqisen n uɣelluy
 crashes-id = Asulay n ussaɣ
 crashes-send-date = Azemz n tuzzna
@@ -117,6 +116,7 @@ sandbox-sys-call-number = Asiwel n unagraw
 sandbox-sys-call-args = Tiɣiriyin
 safe-mode-title = Ɛreḍ deg uskar aɣelsan
 restart-in-safe-mode-label = Ales asenker s izegrar irurmiden…
+restart-button-label = Ales asenker
 
 ## Media titles
 
@@ -124,7 +124,6 @@ audio-backend = Ameslaw ɣer deffir
 max-audio-channels = Amḍan afellay n ibuda
 channel-layout = Taneɣruft n udabu i tebɣiḍ
 sample-rate = Afmiḍi n imedyaten i tebɣiḍ
-
 media-title = Allalen n teγwalt
 media-output-devices-title = Ibenkan n tuffɣa
 media-input-devices-title = Ibenkan n n unekcum
@@ -175,7 +174,6 @@ report-crash-for-days =
         [one] Issaɣen n uɣelluy n { $days } aneggaru
        *[other] issaɣen n uɣelluy n { $days } ineggura
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -183,7 +181,6 @@ crashes-time-minutes =
         [one] { $minutes } n tesdat aya
        *[other] { $minutes } n tesdatin aya
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -191,7 +188,6 @@ crashes-time-hours =
         [one] { $hours } n usrag aya
        *[other] { $hours } n isragen aya
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -199,7 +195,6 @@ crashes-time-days =
         [one] { $days } n wass aya
        *[other] { $days } n wussan aya
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -207,7 +202,6 @@ pending-reports =
         [one] Akk ineqqisen n uɣelluy (ula d { $reports } n uneqqis yettṛaǧun aɣelluy deg uzilal n wakud)
        *[other] Akk ineqqisen n uɣelluy (ula d { $reports } n ineqqisen yettṛaǧun aɣelluy deg uzilal n wakud)
     }
-
 raw-data-copied = Talɣut tarewwayt yettwaneɣlen ɣef afus
 text-copied = Aḍris yettwaneɣlen ɣef afus
 
@@ -220,11 +214,9 @@ blocked-mismatched-version = Yettwasewḥel i unuḍaf n idlifen n lqem ur yelhi
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Yewḥel ɣef lqem n unuḍaf udlif. Ɛreḍ aleqqem n unuḍaf-inek udlif ɣeṛ leqem { $driverVersion } neɣ ugar.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Iɣewwaṛen ClearType
-
 compositing = Compositing
 hardware-h264 = Akestengel H264 s useqdec n warrum
 main-thread-no-omtc = akala afessas agejdan, ulac OMTC
@@ -239,7 +231,6 @@ virtual-monitor-disp = Taskant n ugdil araɣaṛan
 
 found = Yettwaf
 missing = ulac-it
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Aglam
@@ -263,23 +254,18 @@ webgl2-version = Lqem WebGL 2 Driver
 webgl2-driver-extensions = Isiɣzaf WebGL 2 Driver
 webgl2-extensions = Isiɣzaf WebGL 2
 blocklisted-bug = Yettusewḥel ɣef uguren ur yettwassnen ara
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = Abug { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Yettusewḥel; tangalt n tuccḍa { $failureCode }
-
 d3d11layers-crash-guard = Amsuddes D3D11
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
-
 wmfvpxvideo-crash-guard = WMF VPX Video Decoder
-
 reset-on-next-restart = Ales awennez deg usenker d-itteddun
 gpu-process-kill-button = Seḥbes akala GPU
 gpu-device-reset = Awennez n ibenk
@@ -289,10 +275,8 @@ content-uses-tiling = Seqdec asebleḍ (Agbur)
 off-main-thread-paint-enabled = Painting beṛṛa n tnelli n uselkem agejdan yermed
 off-main-thread-paint-worker-count = Uṭṭun n iseqdacen Painting beṛṛa n tnelli
 target-frame-rate = Afmiḍi n n ukatar asaḍas
-
 min-lib-versions = Lqem adday itturajun
 loaded-lib-versions = Lqem ittuseqdacen
-
 has-seccomp-bpf = Seccomp-BPF (Azizdeg n isawalen n unagraw)
 has-seccomp-tsync = Amtawi n tinelli n uselkem Seccomp
 has-user-namespaces = Tallunt n yismawen n useqdac
@@ -305,18 +289,15 @@ sandbox-proc-type-content = agbur
 sandbox-proc-type-file = agbur n ufaylu
 sandbox-proc-type-media-plugin = asiɣzef n wallen n teywalt
 sandbox-proc-type-data-decoder = akestengal n yisefka
-
 startup-cache-title = Tanekkra tuffirt
 startup-cache-disk-cache-path = Abrid n uḍbsi n tuffra
 startup-cache-ignore-disk-cache = Eǧǧ aḍebsi n tuffra
 startup-cache-found-disk-cache-on-init = Aḍebsi n tuffra yettwaf deg Init
 startup-cache-wrote-to-disk-cache = Aru deg uḍebsi n tuffra
-
 launcher-process-status-0 = Irmed
 launcher-process-status-1 = Yensa ɣef sebba n tuccḍa
 launcher-process-status-2 = Arurmid s tedusi
 launcher-process-status-unknown = Addad arussin
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -329,7 +310,6 @@ multi-process-status-6 = Arurmid s weḍris anekcam ur iţusefraken ara
 multi-process-status-7 = Izegrar kkesn-as armad
 multi-process-status-8 = Arurmid s tedusi
 multi-process-status-unknown = Addad arussin
-
 async-pan-zoom = Asemɣeṛ/Asemẓi aramtawa
 apz-none = ulac
 wheel-enabled = anekcum n tjaṛaṛt yermed
@@ -337,7 +317,6 @@ touch-enabled = anekcum amennalan irmed
 drag-enabled = Adrurem nufeggag yettwarmed
 keyboard-enabled = anasiw yermed
 autoscroll-enabled = Adrurem awurman yermed
-
 zooming-enabled = smooth pinch-zoom yermed
 
 ## Variables
