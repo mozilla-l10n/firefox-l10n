@@ -230,9 +230,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícone de picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Visão geral de proteções
+cfr-whatsnew-protections-body = O painel de proteções inclui relatórios concisos sobre vazamentos de dados e gerenciamento de senhas. Agora você pode acompanhar quantos vazamentos já resolveu e ver se alguma de suas senhas salvas pode ter sido exposta em um vazamento de dados.
 cfr-whatsnew-protections-cta-link = Ver painel de proteções
 cfr-whatsnew-protections-icon-alt = Ícone de escudo
 
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Melhor experiência de uso em PDF
+cfr-whatsnew-better-pdf-body = Documentos PDF agora são abertos diretamente no { -brand-short-name }, mantendo seu fluxo de trabalho facilmente ao alcance.
