@@ -230,6 +230,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícone de picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-cta-link = Ver painel de proteções
 cfr-whatsnew-protections-icon-alt = Ícone de escudo
 
 ## Better PDF message
