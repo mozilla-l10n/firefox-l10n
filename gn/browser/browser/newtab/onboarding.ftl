@@ -32,7 +32,7 @@ onboarding-join-form-email =
     .placeholder = Ehai ñandutiveve kundaharape
 onboarding-join-form-email-error = Eikotevẽ ñandutiveve oikóva
 onboarding-join-form-legal = Eku’ejeývo, emoneĩma umi <a data-l10n-name="terms">Mba’epytyvõrã ñemboguata</a> ha <a data-l10n-name="privacy">Temiñemi purureko</a>.
-onboarding-join-form-continue = Eku'ejey
+onboarding-join-form-continue = Eku’ejey
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = ¿Eguerekóma ne mba’ete?
 # Text for link to submit the sign in form
@@ -55,7 +55,7 @@ onboarding-sync-welcome-content = Eike nde techaukaha, tembiasakue, ñe’ẽñe
 onboarding-sync-welcome-learn-more-link = Eikuaave Firefox Accounts rehegua
 onboarding-sync-form-input =
     .placeholder = Ñandutiveve
-onboarding-sync-form-continue-button = Eku'ejey
+onboarding-sync-form-continue-button = Eku’ejey
 onboarding-sync-form-skip-login-button = Ehejánte kóva
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"

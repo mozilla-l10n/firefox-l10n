@@ -87,7 +87,7 @@ extension-controlled-new-tab-url = Peteĩ jepysokue, <img data-l10n-name="icon"/
 extension-controlled-web-notifications = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma’ẽag̃ui ko ñemboheko rehe.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Peteĩ moĩmbaha, <img data-l10n-name="icon"/> { $name }, omoambue Heka ku'eha reipurúva.
+extension-controlled-default-search = Peteĩ moĩmbaha, <img data-l10n-name="icon"/> { $name }, omoambue Heka ku’eha reipurúva.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Peteĩ moĩmbaha, <img data-l10n-name="icon"/> { $name }, oikotevẽ Tendayke Ryru rehe.
@@ -386,7 +386,7 @@ update-in-progress-message = ¿Eipotápa { -brand-short-name } omongu’ejey ñe
 update-in-progress-ok-button = &Hejarei
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
-update-in-progress-cancel-button = &Ku'ejey
+update-in-progress-cancel-button = &Ku’ejey
 
 ## General Section - Performance
 
@@ -412,10 +412,10 @@ performance-default-content-process-count =
 
 browsing-title = Kundaha
 browsing-use-autoscroll =
-    .label = Oku'éva ijehegui jepuru
+    .label = Oku’éva ijehegui jepuru
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = Oku'éva mbeguemi jepuru
+    .label = Oku’éva mbeguemi jepuru
     .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = Ehechauka peteĩ tairenda jepokokuaáva oñeikotevẽ jave

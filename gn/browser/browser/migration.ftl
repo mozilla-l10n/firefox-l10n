@@ -64,7 +64,7 @@ import-select-profile-description = Ikatu regueru mba’ekuaarã ko’ã rechauk
 import-done-title =
     .label = Jeguerupaite
 import-done-description = Ko’ã mba’epuru ojeguerupa porã:
-import-close-source-browser = Ikatúpiko, ehechaporãke pe kundaha poravopyre oñembotýpara'e reku'e mboyve jey.
+import-close-source-browser = Ikatúpiko, ehechaporãke kundaha poravopyre oñembotýpara’e reku’e mboyvejey.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
