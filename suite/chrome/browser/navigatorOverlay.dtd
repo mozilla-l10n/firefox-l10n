@@ -1,0 +1,51 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- File Menu -->
+<!ENTITY openFileCmd.label "Odpri datoteko …">
+
+<!ENTITY closeOtherTabs.label "Zapri ostale zavihke">
+
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Zapri zavihke na desni">
+
+
+
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Najdi na tej strani …">
+
+<!-- View Menu -->
+<!ENTITY taskbarCmd.label "Vrstica stanja">
+
+
+<!ENTITY useStyleSheetMenu.label "Uporabi slog">
+<!ENTITY useStyleSheetPersistentOnly.label "Privzeti slog">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Pojdi">
+<!ENTITY goHomeCmd.label "Domov">
+<!ENTITY historyCmd.label "Zgodovina">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
+<!ENTITY recentTabs.label "Nedavno zaprti zavihki">
+<!ENTITY recentWindows.label "Nedavno zaprta okna">
+<!ENTITY historyRestoreLastSession.label "Obnovi prejšnjo sejo">
+
+<!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "Zaznamki">
+<!ENTITY addCurPageCmd.label "Dodaj stran med zaznamke">
+<!ENTITY manBookmarksCmd.label "Upravljanje zaznamkov ...">
+
+<!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "Iskanje po spletu">
+<!ENTITY translateMenu.label "Prevedi stran">
+
+
+
+
+
+
