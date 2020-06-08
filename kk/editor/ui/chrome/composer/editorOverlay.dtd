@@ -335,7 +335,9 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Маркерленген тізімді іске қосу/өшіру">
 <!ENTITY numbers.label "Сандар">
 <!ENTITY numberListToolbarCmd.tooltip "Нөмірленген тізімді іске қосу/өшіру">
+<!ENTITY outdent.label "Шегіністі алып тастау">
 <!ENTITY outdentToolbarCmd.tooltip "Мәтін шегінісін кішірейту">
+<!ENTITY indent.label "Шегiнiс">
 <!ENTITY indentToolbarCmd.tooltip "Мәтін шегінісін үлкейту">
 <!ENTITY AlignPopupButton.label "Туралау">
 <!ENTITY AlignPopupButton.tooltip "Мәтін туралануын таңдау">
