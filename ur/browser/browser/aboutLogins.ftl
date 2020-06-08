@@ -176,9 +176,12 @@ about-logins-error-message-default = اس پاس ورڈ کو محفوظ کرنے
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = لاگ ان فائل برآمد کریں
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = برآمد کریں
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =

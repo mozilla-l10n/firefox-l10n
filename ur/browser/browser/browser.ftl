@@ -250,6 +250,8 @@ browser-window-minimize-button =
     .tooltiptext = چھوٹا کریں
 browser-window-maximize-button =
     .tooltiptext = بڑا کریں
+browser-window-restore-down-button =
+    .tooltiptext = نیچے بحال کریں
 browser-window-close-button =
     .tooltiptext = بند کریں
 
@@ -271,6 +273,8 @@ popup-screen-sharing-never =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = ٹیب پر آگے بڑھیں
 
 ## DevTools F12 popup
 
