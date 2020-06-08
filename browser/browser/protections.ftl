@@ -89,11 +89,11 @@ lockwise-connected-device-status =
         [few] Conectat la { $count } dispozitive
        *[other] Conectat la { $count } de dispozitive
     }
-monitor-title = Fii atent(ă) la breșe de date
+monitor-title = Stai cu ochii pe încălcările securității datelor
 monitor-link = Cum funcționează
-monitor-header-content-no-account = Verifică { -monitor-brand-name } și vezi dacă ai fost implicat(ă) într-o breșă de date cunoscută și pentru a obține alerte despre breșele noi.
+monitor-header-content-no-account = Verifică { -monitor-brand-name } pentru a vedea dacă faci parte dintr-o încălcare cunoscută a securității datelor și pentru a obține alerte despre încălcările noi.
 monitor-header-content-signed-in = { -monitor-brand-name } te avertizează dacă datele tale apar într-o breșă de date cunoscută.
-monitor-sign-up = Înregistrează-te pentru alerte despre breșe de date
+monitor-sign-up = Înregistrează-te pentru alerte privind încălcările securității datelor
 auto-scan = Scanat automat astăzi
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -109,18 +109,18 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] breșă cunoscută de date ți-a expus informațiile
-        [few] breșe cunoscute de date ți-au expus informațiile
-       *[other] de breșe cunoscute de date ți-au expus informațiile
+        [one] încălcare cunoscută a securității datelor ți-a expus informațiile
+        [few] încălcări cunoscute ale securității datelor ți-au expus informațiile
+       *[other] de încălcări cunoscute ale securității datelor ți-au expus informațiile
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-        [one] parolă expusă în toate breșele de date
-        [few] parole expuse în toate breșele de date
-       *[other] de parole expuse în toate breșele de date
+        [one] parolă expusă în toate încălcările securității datelor
+        [few] parole expuse în toate încălcările securității datelor
+       *[other] de parole expuse în toate încălcările securității datelor
     }
 full-report-link = Vezi raportul complet pe <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
