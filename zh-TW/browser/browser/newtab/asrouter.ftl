@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = 試試看: 釘選分頁
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 為什麼我會看到這個？
-
 cfr-doorhanger-extension-cancel-button = 現在不要
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = 立刻新增
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = 釘選此分頁
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = 管理建議設定
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = 不要告訴我這個建議
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = 了解更多
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = 由 { $name } 開發
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 推薦
-
 cfr-doorhanger-extension-notification2 = 推薦
     .tooltiptext = 推薦擴充套件
     .a11y-announcement = 有推薦的擴充套件可以使用
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 推薦
@@ -66,7 +57,6 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } 使用者
     }
-
 cfr-doorhanger-pintab-description = 快速開啟您最常使用的網站，就算是重新啟動後也將網站直接開啟於分頁中。
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -74,10 +64,8 @@ cfr-doorhanger-pintab-description = 快速開啟您最常使用的網站，就�
 cfr-doorhanger-pintab-step1 = 對想要釘選的分頁<b>點擊滑鼠右鍵</b>。
 cfr-doorhanger-pintab-step2 = 選擇<b>釘選分頁</b>。
 cfr-doorhanger-pintab-step3 = 若網站有更新，會在釘選分頁上出現藍色點點。
-
 cfr-doorhanger-pintab-animation-pause = 暫停
 cfr-doorhanger-pintab-animation-resume = 恢復
-
 
 ## Firefox Accounts Message
 
@@ -99,22 +87,16 @@ cfr-protections-panel-link-text = 了解更多
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 新功能:
-
 cfr-whatsnew-button =
     .label = 有什麼新鮮事
     .tooltiptext = 有什麼新鮮事
-
 cfr-whatsnew-panel-header = 有什麼新鮮事
-
 cfr-whatsnew-release-notes-link-text = 閱讀發行公告
-
 cfr-whatsnew-fx70-title = { -brand-short-name } 現在起為了您的隱私權更加努力
 cfr-whatsnew-fx70-body = 最新版本當中加強了追蹤保護功能，也讓您更簡單就能針對各個網站產生安全的密碼。
-
 cfr-whatsnew-tracking-protect-title = 保護自己，不被追蹤
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } 會封鎖許多在不同網站間追蹤您的常見社交型及跨網站追蹤器。
 cfr-whatsnew-tracking-protect-link-text = 檢視您的追蹤報告
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -124,11 +106,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = 自 { DATETIME($earliestDate, month: "long", year: "numeric") } 起
 cfr-whatsnew-tracking-blocked-link-text = 檢視報告
-
 cfr-whatsnew-lockwise-backup-title = 備份您的密碼
 cfr-whatsnew-lockwise-backup-body = 可以為任何需要登入的網站產生安全密碼。
 cfr-whatsnew-lockwise-backup-link-text = 開啟備份
-
 cfr-whatsnew-lockwise-take-title = 密碼隨身帶著走
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 的行動 App 可讓您在任何地方安全地讀取備份下來的密碼。
 cfr-whatsnew-lockwise-take-link-text = 下載 App
@@ -161,7 +141,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] 封鎖數位指紋追蹤程式
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } 會封鎖許多偷偷收集裝置資訊與操作行為，以針對您建立廣告資料的數位指紋追蹤程式。
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = 數位指紋追蹤程式
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } 會封鎖偷偷收集裝置資訊與操作行為，以針對您建立廣告資料的數位指紋追蹤程式。
@@ -242,3 +221,14 @@ cfr-whatsnew-passwords-icon-alt = 不安全的密碼鑰匙圖示
 cfr-whatsnew-pip-fullscreen-header = 從子母畫面放大成全螢幕
 cfr-whatsnew-pip-fullscreen-body = 當您將影片縮到子母畫面中播放時，只要雙擊該視窗就能用全螢幕播放。
 cfr-whatsnew-pip-fullscreen-icon-alt = 子母畫面圖示
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = 保護項目，一目了然
+cfr-whatsnew-protections-cta-link = 檢視保護資訊儀錶板
+cfr-whatsnew-protections-icon-alt = 盾牌圖示
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = 更好的 PDF 閱讀體驗
+cfr-whatsnew-better-pdf-body = 現在可以直接在 { -brand-short-name } 直接開啟 PDF 文件，更輕鬆完成工作。
