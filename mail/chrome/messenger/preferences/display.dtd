@@ -21,12 +21,12 @@
 <!ENTITY quotedTextColor.accesskey        "с">
 <!ENTITY displayWidth.label               "Ашық мәтін хабарламалары">
 <!ENTITY displayText.label                "Дәйексөз ретінде алынған ашық мәтін хабарламаларын көрсету кезінде:">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Смайликтерді суреттер ретінде көрсету">
 <!ENTITY convertEmoticons.accesskey    "С">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label     "Тегтерді хабарламаларды санаттарға бөлу және приоритеттерін орнату үшін қолдануға болады.">
 <!ENTITY newTagButton.label        "Жаңа…">
 <!ENTITY newTagButton.accesskey    "а">
@@ -34,8 +34,8 @@
 <!ENTITY editTagButton1.accesskey  "Т">
 <!ENTITY removeTagButton.label     "Өшіру">
 <!ENTITY removeTagButton.accesskey "ш">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Қаріптер мен түстер">
 <!ENTITY defaultFont.label       "Негізгі қаріп:">
 <!ENTITY defaultFont.accesskey   "Н">
@@ -45,10 +45,11 @@
 <!ENTITY fontOptions.label       "Қосымша…">
 <!ENTITY colorButton.label       "Түстер…">
 <!ENTITY colorButton.accesskey   "Т">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Оқу">
 <!ENTITY display.caption                  "Көрсету">
+<!ENTITY displayName.label                "Көрсетілетін аты:">
 <!ENTITY showCondensedAddresses.label     "Адрестік кітапшамдағы адамдар үшін тек атын көрсету">
 <!ENTITY showCondensedAddresses.accesskey "с">
 

@@ -38,4 +38,10 @@
 <!ENTITY browse.accesskey                 "ш">
 
 <!ENTITY defaultSearchEngine.label        "Негізгі іздеу жүйесі">
+<!ENTITY addSearchEngine.label            "Файлдан қосу">
+<!ENTITY addSearchEngine.accesskey        "а">
+<!ENTITY removeSearchEngine.label         "Өшіру">
+<!ENTITY removeSearchEngine.accesskey     "ш">
 
+<!ENTITY minimizeToTray.label             "&brandShortName; қайырылған кезде, оны трейге орналастыру">
+<!ENTITY minimizeToTray.accesskey         "р">
