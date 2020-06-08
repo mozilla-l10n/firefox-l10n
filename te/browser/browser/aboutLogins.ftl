@@ -45,6 +45,8 @@ about-logins-login-list-empty-search-description = మీ వెతుకుడ�
 login-list-item-title-new-login = కొత్త ప్రవేశం
 login-list-item-subtitle-new-login = మీ ప్రవేశ వివరాలు ఇవ్వండి
 login-list-item-subtitle-missing-username = (వాడుకరి పేరు లేదు)
+about-logins-list-item-vulnerable-password-icon =
+    .title = బలహీనమైన సంకేతపదం
 
 ## Introduction screen
 
@@ -61,6 +63,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = కాపీచేయి
 login-item-copied-username-button-text = కాపీ అయ్యింది!
 login-item-password-label = సంకేతపదం
+login-item-password-reveal-checkbox =
+    .aria-label = సంకేతపదాన్ని చూపించు
 login-item-copy-password-button-text = కాపీచేయి
 login-item-copied-password-button-text = కాపీ అయ్యింది!
 login-item-save-changes-button = మార్పులను భద్రపరుచు
@@ -69,6 +73,7 @@ login-item-cancel-button = రద్దుచేయి
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -95,9 +100,12 @@ confirm-discard-changes-dialog-title = భద్రపరచని మార్�
 
 ## Breach Alert notification
 
+about-logins-breach-alert-learn-more-link = ఇంకా తెలుసుకోండి
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = బలహీనమైన సంకేతపదం
+about-logins-vulnerable-alert-learn-more-link = ఇంకా తెలుసుకోండి
 
 ## Error Messages
 
