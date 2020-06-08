@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
-
 
 <!ENTITY messageStorage.label "Хабарламалар қоймасы">
 <!ENTITY securitySettings.label "Қауіпсіздік баптаулары">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "П">
 <!ENTITY serverPortDefault.label "Бастапқы:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "с">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Келесіден көп нәрсені жүктеп алу алдында мені сұрау">
 <!ENTITY maxMessagesStart.accesskey "м">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "ш">
 <!ENTITY newsrcFilePath.label "newsrc файлы:">
 <!ENTITY newsrcPicker.label "newsrc файлын таңдаңыз">
+<!ENTITY newsrcFilePath1.label "News.rc файлы:">
+<!ENTITY newsrcPicker1.label "News.rc файлын таңдау">
 <!ENTITY abbreviate.label "Пошта бумасы панелінде жаңалықтар топтары аттарын қалайша көрсету:">
 <!ENTITY abbreviateOn.label "Толық аттар (Мыс., 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Қысқартылған аттар (Мыс., 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "о">
 <!ENTITY serverDefaultCharset2.label "Мәтіннің бастапқы кодталуы:">
 <!ENTITY localPath.label "Жергілікті бума:">
+<!ENTITY localPath1.label "Жергілікті бума:">
 <!ENTITY localFolderPicker.label "Жергілікті буманы таңдау">
 <!ENTITY browseFolder.label "Қарап шығу…">
 <!ENTITY browseFolder.accesskey "ш">
