@@ -372,7 +372,7 @@ update-pref-write-failure-title = Жазу қатесі
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Баптауды сақтау мүмкін емес. Файлға жазу қатесі: { $path }
-update-setting-write-failure-title = Жаңарту баптауларын сақтау қатемен аяқталды.
+update-setting-write-failure-title = Жаңарту баптауларын сақтау қатемен аяқталды
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -1078,7 +1078,7 @@ permissions-a11y-privacy-link = Көбірек білу
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } деректер жинауы және қолданылуы
+collection-header = { -brand-short-name } деректер жинауы және қолдануы
 collection-description = Біз сізге таңдауды қолыңызға беріп, тек әркім үшін { -brand-short-name } өнімін ұсыну және жақсарту мақсатында керек деректерді жинаймыз. Жеке ақпаратты алу алдында біз әрқашан рұқсатты сұраймыз.
 collection-privacy-notice = Жекелік ескертуі
 collection-health-report-telemetry-disabled = Сіз { -vendor-short-name } үшін ешбір техникалық және әрекеттесу мәліметтерін жинауға енді рұқсат етпейсіз. Барлық бұрыңғы деректер 30 күннің ішінде өшірілетін болады.
