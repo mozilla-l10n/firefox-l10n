@@ -50,7 +50,7 @@ policy-DisplayBookmarksToolbar = Бетбелгілер панелін үнсі�
 policy-DisplayMenuBar = Мәзір жолағын үнсіз келісім бойынша көрсету.
 policy-DNSOverHTTPS = HTTPS арқылы DNS баптау.
 policy-DontCheckDefaultBrowser = Іске қосылғанда негізгі браузері екеніне тексеруді сөндіру.
-policy-DownloadDirectory = Жжүктеп алулар бумасын орнату және бұғаттау.
+policy-DownloadDirectory = Жүктеп алулар бумасын орнату және бұғаттау.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Құраманы бұғаттауды іске қосу немесе сөндіру, және қосымша түрде оны бекіту.
 # “lock” means that the user won’t be able to change this setting
