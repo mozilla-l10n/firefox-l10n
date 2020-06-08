@@ -9,7 +9,6 @@ graph-week-summary =
         [one] { -brand-short-name } blokkerte { $count } sporer den siste uken
        *[other] { -brand-short-name } blokkerte { $count } sporere den siste uken
     }
-
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -19,12 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> sporer blokkert siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> sporere blokkert siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
-
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } fortsetter å  blokkere sporere i private vindu, men holder ikke oversikt over hva som ble blokkert.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Sporere { -brand-short-name } blokkerte denne uken
-
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -36,55 +33,41 @@ protection-report-header-details-custom = Beskyttelsesnivået er satt til <b>til
     .title = Gå til personverninnstillinger
 protection-report-page-title = Personvernbeskyttelser
 protection-report-content-title = Personvernbeskyttelser
-
 etp-card-title = Utvidet sporingsbeskyttelse
 etp-card-content = Sporere følger deg rundt på nettet for å samle informasjon om surfevanene og interessene dine. { -brand-short-name } blokkerer mange av disse sporere og andre ondsinnede skript.
-
-protection-report-webpage-title = Beskyttelsespanel
-protection-report-page-content-title = Beskyttelsespanel
+protection-report-webpage-title = Sikkerhetsoversikt
+protection-report-page-content-title = Sikkerhetsoversikt
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } kan beskytte personvernet ditt bak kulissene mens du surfer. Dette er en personlig oppsummering av de beskyttelsene, inkludert verktøy for å ta kontroll over din sikkerhet på nettet.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } beskytter personvernet ditt bak kulissene mens du surfer. Dette er en personlig oppsummering av de beskyttelsene, inkludert verktøy for å ta kontroll over din sikkerhet på nettet.
-
 protection-report-settings-link = Behandle personvern- og sikkerhetsinnstillinger
-
 etp-card-title-always = Utvidet sporingsbeskyttelse: alltid på
 etp-card-title-custom-not-blocking = Utvidet sporingsbeskyttelse: AV
 etp-card-content-description = { -brand-short-name } stopper selskaper automatisk fra å følge deg rundt på nettet i det skjulte.
 protection-report-etp-card-content-custom-not-blocking = All beskyttelse er for tiden slått av. Velg hvilke sporere du vil blokkere ved å behandle innstillingene for beskyttelse i { -brand-short-name }.
 protection-report-manage-protections = Behandle innstillinger
-
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = I dag
-
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = En graf som inneholder det totale antallet for hver type av sporere som har blitt blokkert denne uken.
-
 social-tab-title = Sporing via sosiale medier
 social-tab-contant = Sosiale nettverk plasserer sporere på andre nettsteder for å følge det du gjør og ser på nettet. Dette gjør at sosiale media-selskaper kan lære mer om deg utover det du deler på profilene dine på sosiale medier. <a data-l10n-name="learn-more-link">Les mer</a>
-
 cookie-tab-title = Sporingsinfokapsler på tvers av nettsteder
 cookie-tab-content = Disse infokapslene følger deg fra nettsted til nettsted for å samle inn data om hva du gjør på nettet. De er satt av tredjeparter som annonsører og analyseselskaper. Blokkering av sporingsinfokapsler på tvers av nettsteder reduserer antall annonser som følger deg. <a data-l10n-name="learn-more-link">Les mer</a>
-
 tracker-tab-title = Sporings-innhold
 tracker-tab-description = Nettsteder kan laste inn eksterne annonser, videoer og annet innhold med sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke. <a data-l10n-name="learn-more-link">Les mer</a>
-
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters samler innstillinger fra nettleseren din og datamaskinen for å opprette en profil av deg. Ved hjelp av dette digitale fingeravtrykket kan de spore deg på forskjellige nettsteder. <a data-l10n-name="learn-more-link">Les mer</a>
-
 cryptominer-tab-title = Kryptominere
 cryptominer-tab-content = Kryptominere bruker systemets datakraft for å utvinne digitale penger. Kryptomineringsskript tapper batteriet, gjør datamaskinen tregere og kan øke strømregningen. <a data-l10n-name="learn-more-link">Les mer</a>
-
 protections-close-button2 =
     .aria-label = Lukk
     .title = Lukk
-  
 mobile-app-title = Blokker annonsesporere på flere enheter
 mobile-app-card-content = Bruk mobilnettleseren med innebygd beskyttelse mot annonsesporing.
 mobile-app-links = { -brand-product-name } Nettleser for <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
-
 lockwise-title = Glem aldri et passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Passordbehandling
@@ -99,7 +82,6 @@ protection-report-manage-passwords-button = Behandle passord
 lockwise-mobile-app-title = Ta med deg passordene dine overalt
 lockwise-no-logins-card-content = Bruk passord som er lagret i { -brand-short-name } på hvilken som helst enhet.
 lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -108,7 +90,6 @@ lockwise-passwords-stored =
         [one] Passord lagret sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
        *[other] Passord lagret sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
     }
-
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -116,7 +97,6 @@ lockwise-scanned-text-breached-logins =
         [one] 1 passord kan ha blitt eksponert i en datalekkasje.
        *[other] { $count } passord kan ha blitt eksponert i en datalekkasje.
     }
-
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -127,12 +107,9 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Passordene dine blir lagret sikkert.
     }
 lockwise-how-it-works-link = Hvordan det fungerer
-
 turn-on-sync = Slå på { -sync-brand-short-name }…
     .title = Gå til innstillinger for sync
-
 manage-connected-devices = Behandle enheter…
-
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -140,7 +117,6 @@ lockwise-connected-device-status =
         [one] Koblet til { $count } enhet
        *[other] Koblet til { $count } enheter
     }
-
 monitor-title = Se opp for på datalekkasjer.
 monitor-link = Hvordan det virker
 monitor-header-content-no-account = Sjekk { -monitor-brand-name } for å se om du har vært en del av en kjent datalekkasje og få varsler om nye lekkasjer.
@@ -149,14 +125,12 @@ monitor-sign-up = Registrer deg for datalekkasjevarsler
 monitor-sign-up-link = Registrer deg for datalekkasjevarsler
     .title = Registrer deg for datalekkasjevarsler på { -monitor-brand-name }
 auto-scan = Skannes automatisk i dag
-
 monitor-emails-tooltip =
     .title = Vis overvåkede e-postadresser på { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Se kjente datalekkasjer på { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Se eksponerte passord på { -monitor-brand-short-name }
-
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -165,7 +139,6 @@ info-monitored-emails =
         [one] E-postadresse som overvåkes
        *[other] E-postadresser som overvåkes
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -174,7 +147,6 @@ info-known-breaches-found =
         [one] Kjent datalekkasje har eksponert din informasjon
        *[other] Kjente datalekkasjer har eksponert din informasjon
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -183,7 +155,6 @@ info-known-breaches-resolved =
         [one] Kjent datalekkasje merket som løste
        *[other] Kjente datalekkasjer merket som løste
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -192,9 +163,7 @@ info-exposed-passwords-found =
         [one] Passord eksponert fra alle datalekkasjer.
        *[other] Passord eksponert fra alle datalekkasjer.
     }
-
 full-report-link = Se hele rapporten på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -203,7 +172,6 @@ password-warning =
         [one] Lagret innlogging kan ha blitt eksponert i en datalekkasje. Endre dette passordet for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
        *[other] Lagrede innlogginger kan ha blitt eksponert i en datalekkasje. Endre disse passordene for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -212,7 +180,6 @@ info-exposed-passwords-resolved =
         [one] Passord eksponerte i uløste datalekkasjer
        *[other] Passord eksponerte i uløste datalekkasjer
     }
-
 monitor-no-breaches-title = Gode nyheter!
 monitor-no-breaches-description = Du har ingen kjente datalekkasjer. Hvis det endres, vil vi gi deg beskjed.
 monitor-view-report-link = Vis rapport
@@ -223,7 +190,6 @@ monitor-manage-breaches-link = Behandle datalekkasjer
     .title = Behandle datalekkasjer på { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Så bra! Du har løst alle kjente datalekkasjer.
 monitor-breaches-resolved-description = Vi vil gi deg beskjed om e-postadressen din dukker opp i nye datalekkasjer.
-
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
@@ -231,11 +197,9 @@ monitor-partial-breaches-title =
     { $numBreaches ->
        *[other] { $numBreachesResolved } av { $numBreaches } datalekkasjer er merket som løste
     }
-
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % fullført
-
 monitor-partial-breaches-motivation-title-start = Bra start!
 monitor-partial-breaches-motivation-title-middle = Fortsett slik!
 monitor-partial-breaches-motivation-title-end = Nesten ferdig! Fortsett slik.
