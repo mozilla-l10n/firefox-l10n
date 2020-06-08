@@ -5,8 +5,10 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = గోప్యతా సంరక్షణలు
 appmenuitem-protection-report-tooltip =
     .tooltiptext = మీ అంతరంగికతా నివేదికను చూడండి
+appmenuitem-protection-dashboard-title = సంరక్షణల డాష్‌బోర్డ్
 appmenuitem-customize-mode =
     .label = అభిమతీకరించు…
 

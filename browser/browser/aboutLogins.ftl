@@ -82,6 +82,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = ప్రవేశించండి
+    .accesskey = L
 
 ## Password Sync notification
 
@@ -112,3 +115,4 @@ about-logins-vulnerable-alert-learn-more-link = ఇంకా తెలుసు�
 
 ## Login Export Dialog
 
+about-logins-export-file-picker-export-button = ఎగుమతించు

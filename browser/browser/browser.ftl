@@ -151,6 +151,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = ఈ సారి దీనితో వెతుకు:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -182,10 +185,13 @@ identity-passive-loaded = ఈ పేజీలోని కొన్ని భా
 identity-active-loaded = ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.
 identity-weak-encryption = ఈ పేజీ బలహీనమైన ఎన్‌క్రిప్షన్ వాడుతోంది.
 identity-insecure-login-forms = ఈ పేజీలో మీరు ఇచ్చే లాగిన్లు రాజీపడవచ్చు.
+identity-permissions =
+    .value = అనుమతులు
 identity-permissions-reload-hint = మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.
 identity-permissions-empty = ఈ సైటుకి మీరు ఎటువంటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.
 identity-clear-site-data =
     .label = కుకీలను, సైటు డేటాను తుడిచివేయి…
+identity-connection-verified = మీరు ఈ సైటుకు సురక్షితంగా అనుసంధానం అయ్యారు.
 identity-remove-cert-exception =
     .label = మినహాయింపును తొలగించు
     .accesskey = R
