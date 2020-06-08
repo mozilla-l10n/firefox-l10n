@@ -172,6 +172,21 @@ password-warning =
         [one] ანგარიშის ინფორმაცია შესაძლოა გამჟღავნებული იყოს მონაცემთა მიტაცების შედეგად. უსაფრთხოებისთვის, ჯობია შეცვალოთ აღნიშნული პაროლი. <a data-l10n-name="lockwise-link">იხილეთ შენახული მონაცემები</a>
        *[other] ანგარიშის ინფორმაცია შესაძლოა გამჟღავნებული იყოს მონაცემთა მიტაცების შედეგად. უსაფრთხოებისთვის, ჯობია შეცვალოთ აღნიშნული პაროლები. <a data-l10n-name="lockwise-link">იხილეთ შენახული მონაცემები</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] პაროლია მიტაცებული, რომელიც გამოსასწორებელია
+       *[other] პაროლია მიტაცებული, რომელიც გამოსასწორებელია
+    }
+monitor-no-breaches-title = მშვენიერი ამბავი!
+monitor-no-breaches-description = თქვენი მონაცემები არაა მიტაცებული. თუ რამე შეიცვლება, გაცნობებთ.
+monitor-view-report-link = ანგარიშის ნახვა
+    .title = გამოასწორეთ მიტაცებული მონაცემები – { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-title-start = დასაწყისისთვის მშვენიერია!
+monitor-partial-breaches-motivation-title-middle = ასე განაგრძეთ!
+monitor-partial-breaches-motivation-title-end = თითქმის მზადაა! განაგრძეთ.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
