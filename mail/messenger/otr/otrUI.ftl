@@ -26,3 +26,42 @@ alert-refresh = Tentative de rafraîchissement de la conversation chiffrée avec
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = La conversation chiffrée avec { $name } est terminée.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = L’identité de { $name } n’a pas encore été vérifiée. L’interception passive de vos conversations n’est pas possible, mais avec un peu d’effort, quelqu’un pourrait accéder à leur contenu. Empêchez toute surveillance en vérifiant l’identité de ce contact.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } vous contacte depuis un ordinateur non reconnu. L’interception passive de vos conversations n’est pas possible, mais avec un peu d’effort, quelqu’un pourrait avoir accès à leur contenu. Empêchez toute surveillance en vérifiant l’identité de ce contact.
+state-not_private = La conversation en cours n’est pas privée.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = La conversation en cours est chiffrée mais pas privée, car l’identité de { $name } n’a pas encore été vérifiée.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = L’identité de { $name } a été vérifiée. La conversation en cours est chiffrée et privée.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } a mis fin à sa conversation chiffrée avec vous ; vous devriez faire de même.
+state-not_private-label = Non sécurisée
+state-unverified-label = Non vérifiée
+state-private-label = Privée
+state-finished-label = Terminée
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } a demandé la vérification de votre identité.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Vous avez vérifié l’identité de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = L’identité de { $name } n’a pas été vérifiée.
+verify-title = Vérifier l’identité de votre contact
+error-title = Erreur
+success-title = Chiffrement de bout en bout
+successThem-title = Vérifier l’identité de votre contact
+fail-title = Impossible de vérifier
+waiting-title = Demande de vérification envoyée
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Échec de la génération de la clé privée OTR : { $error }
