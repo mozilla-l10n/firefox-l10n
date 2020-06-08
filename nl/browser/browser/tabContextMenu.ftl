@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Tabblad sluiten ongedaan maken
     .accesskey = m
+tab-context-close-multiple-tabs =
+    .label = Meerdere tabbladen sluiten
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tabblad sluiten ongedaan maken
+            [one] Tabblad sluiten ongedaan maken
+           *[other] Tabbladen sluiten ongedaan maken
+        }
+    .accesskey = o
 close-tab =
     .label = Tabblad sluiten
     .accesskey = s

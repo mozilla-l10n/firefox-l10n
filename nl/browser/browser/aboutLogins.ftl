@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = Downloaden op Google Play
 login-app-promo-apple =
     .alt = Downloaden in de App Store
-
 login-filter =
     .placeholder = Aanmeldingen zoeken
-
 create-login-button = Nieuwe aanmelding maken
-
 fxaccounts-sign-in-text = Breng uw wachtwoorden naar uw andere apparaten
 fxaccounts-sign-in-button = Aanmelden bij { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -34,6 +32,7 @@ menu =
     .title = Menu openen
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importeren vanuit een andere browser…
+about-logins-menu-menuitem-export-logins = Aanmeldingen exporteren…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opties
@@ -118,18 +117,21 @@ about-logins-edit-login-os-auth-dialog-message-win = Voer uw aanmeldgegevens voo
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = bewerk de opgeslagen aanmelding
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te bekijken. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = toon het opgeslagen wachtwoord
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te kopiëren. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopieer het opgeslagen wachtwoord
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw aanmelding te exporteren. Hierdoor wordt de beveiliging van uw accounts beschermd.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = opgeslagen aanmeldingen en wachtwoorden te exporteren
 
 ## Master Password notification
 
@@ -161,11 +163,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Annuleren
 confirmation-dialog-dismiss-button =
     .title = Annuleren
-
 about-logins-confirm-remove-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
 about-logins-confirm-remove-dialog-confirm-button = Verwijderen
-
+about-logins-confirm-export-dialog-title = Aanmeldingen en wachtwoorden exporteren
+about-logins-confirm-export-dialog-message = Uw wachtwoorden worden opgeslagen als leesbare tekst (bijvoorbeeld BadP@ssw0rd), dus iedereen die het geëxporteerde bestand kan openen, kan ze bekijken.
+about-logins-confirm-export-dialog-confirm-button = Exporteren…
 confirm-discard-changes-dialog-title = Deze wijzigingen verwerpen?
 confirm-discard-changes-dialog-message = Alle niet-opgeslagen wijzigingen gaan verloren.
 confirm-discard-changes-dialog-confirm-button = Verwerpen
@@ -196,10 +199,21 @@ about-logins-vulnerable-alert-learn-more-link = Meer info
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Er bestaat al een vermelding voor { $loginTitle } met die gebruikersnaam. <a data-l10n-name="duplicate-link">Naar bestaande vermelding gaan?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Er is een fout opgetreden tijdens het opslaan van dit wachtwoord.
 
-
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Bestand met aanmeldingen exporteren
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Exporteren
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-document
+       *[other] CSV-bestand
+    }

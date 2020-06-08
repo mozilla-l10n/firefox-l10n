@@ -4,17 +4,20 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Tabblad sluiten ongedaan maken
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tabblad sluiten ongedaan maken
+            [one] Tabblad sluiten ongedaan maken
+           *[other] Tabbladen sluiten ongedaan maken
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Tabbladen doorzoeken
-
 all-tabs-menu-new-user-context =
     .label = Nieuw containertabblad
-
 all-tabs-menu-hidden-tabs =
     .label = Verborgen tabbladen
-
 all-tabs-menu-manage-user-context =
     .label = Containers beheren
     .accesskey = o
