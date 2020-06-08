@@ -234,7 +234,9 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bilde-i-bilde ikon
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-icon-alt = Skjoldikon
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Betre PDF-oppleving
 cfr-whatsnew-better-pdf-body = PDF-dokument vert no opna direkte i { -brand-short-name }, og held arbeidsflyten innan same program.

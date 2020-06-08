@@ -116,6 +116,9 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argument
 safe-mode-title = Prøv trygg modus
 restart-in-safe-mode-label = Start på nytt utan tillegg…
+clear-startup-cache-title = Prøv å tøme oppstart-snøgglageret
+clear-startup-cache-label = Tøm oppstart-snøgglageret…
+startup-cache-dialog-title = Tøm oppstart-snøgglageret
 
 ## Media titles
 
