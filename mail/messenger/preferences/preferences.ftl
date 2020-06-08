@@ -97,6 +97,8 @@ addons-button = Кеңейтімдер мен тақырыптар
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Басты парольді жасау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
@@ -115,6 +117,15 @@ restore-default-label =
     .label = Бастапқысын қайтару
     .accesskey = й
 default-search-engine = Негізгі іздеу жүйесі
+add-search-engine =
+    .label = Файлдан қосу
+    .accesskey = а
+remove-search-engine =
+    .label = Өшіру
+    .accesskey = ш
+minimize-to-tray-label =
+    .label = { -brand-short-name } қайырылған кезде, оны трейге орналастыру
+    .accesskey = й
 new-message-arrival = Жаңа хабарламалар келген кезде:
 mail-play-sound-label =
     .label =
@@ -144,6 +155,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Трей таңбашасын көрсету
     .accesskey = Т
+mail-system-sound-label =
+    .label = Жаңа хат үшін жүйенің негізгі дыбысы
+    .accesskey = д
 mail-custom-sound-label =
     .label = Келесі дыбыс файлын қолдану
     .accesskey = д
@@ -357,6 +371,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Жылжыту немесе өшіру кезінде хабарлама терезесін/бетін жабу
     .accesskey = ж
+display-name-label =
+    .value = Көрсетілетін аты:
 condensed-addresses-label =
     .label = Адрестік кітапшамдағы адамдар үшін тек атын көрсету
     .accesskey = с
@@ -459,6 +475,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Өшіру
     .accesskey = ш
+find-cloud-providers =
+    .value = Көбірек провайдерлерді табу…
 cloud-account-description = Жаңа Filelink сақтау қызметін қосу
 
 ## Privacy Tab
@@ -500,6 +518,9 @@ keep-ask =
 cookies-button =
     .label = Cookies көрсету…
     .accesskey = р
+do-not-track-label =
+    .label = Сайттарға "Мені бақыламау" сигналын жіберу арқылы сіз өзіңізді бақыламауды қалайтыныңыз туралы хабарлау
+    .accesskey = н
 learn-button =
     .label = Көбірек білу
 passwords-description = { -brand-short-name } барлық тіркелгілер үшін парольдерді сақтай алады.
@@ -650,3 +671,11 @@ chat-header-label =
 
 ## Preferences UI Search Results
 
+search-results-header = Іздеу нәтижелері
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Кешіріңіз! Баптауларда "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
+       *[other] Кешіріңіз! Баптауларда "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
+    }
+search-results-help-link = Көмек керек пе? <a data-l10n-name="url">{ -brand-short-name } қолдауы</a> шолыңыз
