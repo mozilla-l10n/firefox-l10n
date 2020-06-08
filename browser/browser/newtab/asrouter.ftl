@@ -225,6 +225,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 子母畫面圖示
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = 保護項目，一目了然
+cfr-whatsnew-protections-body = 保護資訊儀錶板當中包含了資料外洩事件與密碼管理的相關摘要報告。現在起您可以追蹤已經處理過幾場資料外洩事件，並且看看是否還有已遭外洩的密碼。
 cfr-whatsnew-protections-cta-link = 檢視保護資訊儀錶板
 cfr-whatsnew-protections-icon-alt = 盾牌圖示
 
