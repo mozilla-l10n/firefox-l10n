@@ -9,4 +9,4 @@
 # Variables:
 #  $host - the hostname that is initiating the request
 #  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> хочет открыть ссылку a <strong>{ $scheme }</strong>.
+handler-dialog-host = <strong>{ $host }</strong> хочет открыть ссылку <strong>{ $scheme }</strong>.
