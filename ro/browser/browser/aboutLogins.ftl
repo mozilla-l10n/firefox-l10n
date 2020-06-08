@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = Acum pe Google Play
 login-app-promo-apple =
     .alt = Descarcă de pe App Store
-
 login-filter =
     .placeholder = Caută autentificări
-
 create-login-button = Creează o autentificare nouă
-
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
 fxaccounts-sign-in-button = Autentificare în { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -67,7 +65,7 @@ login-list-item-title-new-login = Date de autentificare noi
 login-list-item-subtitle-new-login = Introdu datele tale de autentificare
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 about-logins-list-item-breach-icon =
-    .title = Site web cu breșă(e) de securitate
+    .title = Site web a cărui securitate a fost încălcată
 about-logins-list-item-vulnerable-password-icon =
     .title = Parolă vulnerabilă
 
@@ -114,15 +112,13 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
 
@@ -156,18 +152,16 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Renunță
 confirmation-dialog-dismiss-button =
     .title = Renunță
-
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
-
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
 confirm-discard-changes-dialog-message = Toate modificările nesalvate vor fi pierdute.
 confirm-discard-changes-dialog-confirm-button = Înlătură
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Breșă de securitate pe site-ul web
+about-logins-breach-alert-title = Încălcarea securității datelor în cazul unui site web
 breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară detaliile de autentificare. Schimbă parola ca să îți protejezi contul.
 about-logins-breach-alert-date = Această breșă de date a apărut la data de { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
@@ -191,10 +185,8 @@ about-logins-vulnerable-alert-learn-more-link = Află mai multe
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Deja există o intrare pentru { $loginTitle } cu acest nume de utilizator. <a data-l10n-name="duplicate-link">Mergi la intrarea existentă?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = A apărut o eroare la încercarea de salvare a acestei parole.
-
 
 ## Login Export Dialog
 
