@@ -333,7 +333,9 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar o eliminar lista no numerada">
 <!ENTITY numbers.label "Números">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar o eliminar lista numerada">
+<!ENTITY outdent.label "Sacar viñeta">
 <!ENTITY outdentToolbarCmd.tooltip "Desangrar texto (mover a la izquierda)">
+<!ENTITY indent.label "Poner viñeta">
 <!ENTITY indentToolbarCmd.tooltip "Sangrar texto (mover a la derecha)">
 <!ENTITY AlignPopupButton.label "Alineación">
 <!ENTITY AlignPopupButton.tooltip "Elegir alineación del texto">
