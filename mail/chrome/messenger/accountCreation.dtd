@@ -24,7 +24,7 @@
 <!ENTITY password.placeholder            "Паролі">
 <!ENTITY password.text                   "Міндетті емес, тек пайдаланушы атын растау үшін керек">
 <!ENTITY password.toggle                 "Парольді көрсету/жасыру">
-<!ENTITY rememberPassword.label          "Парольді еске сақтау">
+<!ENTITY rememberPassword.label          "Парольді есте сақтау">
 <!ENTITY rememberPassword.accesskey      "л">
 <!ENTITY usernameEx.label                "Сіздің логиніңіз:">
 <!ENTITY usernameEx.accesskey            "л">
