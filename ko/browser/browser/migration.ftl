@@ -64,7 +64,7 @@ import-select-profile-description = 가져올 수 있는 프로필:
 import-done-title =
     .label = 가져오기 완료
 import-done-description = 다음 항목들을 성공적으로 가져 왔습니다:
-import-close-source-browser = 계속 진행하기 전에 선택된 브라우저가 닫힘을 확인하세요.
+import-close-source-browser = 계속하기 전에 선택한 브라우저가 닫혀 있는지 확인하세요.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
