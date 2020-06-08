@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "O">
 <!ENTITY newAddressBookCmd.label                        "Osoitekirja…">
 <!ENTITY newAddressBookCmd.accesskey                    "s">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV Osoitekirja…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-hakemisto…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newMessageCmd.label                            "Viesti">
