@@ -236,6 +236,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = ეკრანი-ეკრანში 
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = დაცვისთვის თვალის შევლება
+cfr-whatsnew-protections-body = დაცვის მონაცემების გვერდი შეიცავს შემაჯამებელ ცნობებს ანგარიშების მიტაცებებსა და პაროლების მართვაზე. შეგიძლია თვალი ადევნოთ, რამდენი ანგარიში გადაარჩინეთ და იხილოთ, თქვენი რომელიმე პაროლი გამჟღავნებულ მონაცემებში ხომ არ აღმოჩენილა.
 cfr-whatsnew-protections-cta-link = დაცვის მაჩვენებლების ნახვა
 cfr-whatsnew-protections-icon-alt = ფარის ნიშანი
 
