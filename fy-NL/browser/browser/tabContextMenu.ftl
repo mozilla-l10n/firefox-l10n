@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Ljepblêd slute ûngedien meitsje
     .accesskey = m
+tab-context-close-multiple-tabs =
+    .label = Mear ljepblêden slute
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ljepblêd slute ûngedien meitsje
+            [one] Ljepblêd slute ûngedien meitsje
+           *[other] Ljepblêden slute ûngedien meitsje
+        }
+    .accesskey = u
 close-tab =
     .label = Ljepblêd slute
     .accesskey = s
