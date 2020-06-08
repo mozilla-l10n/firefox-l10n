@@ -31,4 +31,8 @@
 <!ENTITY helpShowTour2.label "&brandShorterName; ішіне cаяхат">
 <!ENTITY helpShowTour2.accesskey "т">
 
+<!ENTITY helpGetInvolvedPage.label "Үлес қосу">
+<!ENTITY helpGetInvolvedPage.accesskey "у">
 
+<!ENTITY helpDonationsPage.label "Демеушілік ету">
+<!ENTITY helpDonationsPage.accesskey "м">
