@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Desegin fitxa ixtea
     .accesskey = D
+tab-context-close-multiple-tabs =
+    .label = Itxi hainbat fitxa
+    .accesskey = h
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Desegin fitxa ixtea
+            [one] Desegin fitxa ixtea
+           *[other] Desegin fitxak ixtea
+        }
+    .accesskey = D
 close-tab =
     .label = Itxi fitxa
     .accesskey = I

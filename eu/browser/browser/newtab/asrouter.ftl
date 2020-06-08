@@ -226,3 +226,12 @@ cfr-whatsnew-passwords-icon-alt = Babesik gabeko pasahitzaren giltzaren ikonoa
 cfr-whatsnew-pip-fullscreen-header = Bideoa beste leiho batean pantaila osoan ikusteko aukera
 cfr-whatsnew-pip-fullscreen-body = Bideo bat leiho mugikor batera eramatean, orain klik bikoitzarekin pantaila osora ere eraman dezakezu.
 cfr-whatsnew-pip-fullscreen-icon-alt = Bideoa beste leiho batean eginbideko ikonoa
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-icon-alt = Babesaren ikonoa
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = PDF esperientzia hobetua
+cfr-whatsnew-better-pdf-body = PDF dokumentuak orain zuzenean { -brand-short-name }(e)n irekitzen dira, zure lan egiteko modua erraztuz.
