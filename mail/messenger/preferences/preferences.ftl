@@ -700,3 +700,4 @@ search-results-empty-message =
         [windows] Sorry! Er zijn geen resultaten in Opties voor ‘<span data-l10n-name="query"></span>’.
        *[other] Sorry! Er zijn geen resultaten in Voorkeuren voor ‘<span data-l10n-name="query"></span>’.
     }
+search-results-help-link = Hulp nodig? Bezoek <a data-l10n-name="url">{ -brand-short-name } Ondersteuning</a>
