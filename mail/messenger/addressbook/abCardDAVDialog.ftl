@@ -5,6 +5,13 @@
 carddav-dialog =
     .buttonlabelaccept = Жалғастыру
     .buttonaccesskeyaccept = с
+carddav-provider-label =
+    .value = CardDAV провайдері:
+    .accesskey = п
+carddav-provider-option-other = Басқа провайдер…
+carddav-url-label =
+    .value = CardDAV URL адресі:
+    .accesskey = д
 carddav-username-label =
     .value = Пайдаланушы аты:
     .accesskey = й
