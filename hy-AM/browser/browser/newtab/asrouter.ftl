@@ -228,3 +228,14 @@ cfr-whatsnew-passwords-icon-alt = Խոցելի գաղտնաբառի բանալո
 cfr-whatsnew-pip-fullscreen-header = Ստանալ լիաէկրանի նկարը նկարում
 cfr-whatsnew-pip-fullscreen-body = Երբ դուք տեսանյութը տեղափոխում եք լողացող պատուհան՝ այժմ կարող եք կրկնակի սեղմել այդ պատուհանին և անցնել լիաէկրան:
 cfr-whatsnew-pip-fullscreen-icon-alt = Նկար-նկարում պատկերակ
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = Պաշտպանություն առաջին հայացքից
+cfr-whatsnew-protections-cta-link = Դիտել պաշտպանության վահանակը
+cfr-whatsnew-protections-icon-alt = Վահանի պատկերակը
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Ավելի լավ PDF փորձառություն
+cfr-whatsnew-better-pdf-body = PDF փաստաթղթերն այժմ բացվում են ուղղակիորեն { -brand-short-name }-ում, պահպանելով ձեր աշխատահոսքը հասանելիության պայմաններում:
