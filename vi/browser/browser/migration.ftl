@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Đang đọc danh sách (Từ Safari)
 imported-edge-reading-list = Đang đọc danh sách (từ Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Tùy chọn Internet
-    .value = Tùy chọn Internet
-browser-data-edge-1 =
-    .label = Thiết lập
-    .value = Thiết lập
-browser-data-safari-1 =
-    .label = Tùy chỉnh
-    .value = Tùy chỉnh
-browser-data-chrome-1 =
-    .label = Tùy chỉnh
-    .value = Tùy chỉnh
-browser-data-canary-1 =
-    .label = Tùy chỉnh
-    .value = Tùy chỉnh
-browser-data-360se-1 =
-    .label = Tùy chỉnh
-    .value = Tùy chỉnh
-browser-data-ie-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-edge-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-safari-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-chrome-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-canary-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-firefox-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-360se-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-ie-4 =
-    .label = Lịch sử duyệt web
-    .value = Lịch sử duyệt web
-browser-data-edge-4 =
-    .label = Lịch sử duyệt web
-    .value = Lịch sử duyệt web
-browser-data-safari-4 =
-    .label = Lịch sử duyệt web
-    .value = Lịch sử duyệt web
-browser-data-chrome-4 =
-    .label = Lịch sử duyệt web
-    .value = Lịch sử duyệt web
-browser-data-canary-4 =
-    .label = Lịch sử duyệt web
-    .value = Lịch sử duyệt web
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Lịch sử duyệt web và dấu trang
-    .value = Lịch sử duyệt web và dấu trang
-browser-data-360se-4 =
-    .label = Lịch sử duyệt web
-    .value = Lịch sử duyệt web
-browser-data-ie-8 =
-    .label = Lịch sử các biểu mẫu đã lưu
-    .value = Lịch sử các biểu mẫu đã lưu
-browser-data-edge-8 =
-    .label = Lịch sử các biểu mẫu đã lưu
-    .value = Lịch sử các biểu mẫu đã lưu
-browser-data-safari-8 =
-    .label = Lịch sử các biểu mẫu đã lưu
-    .value = Lịch sử các biểu mẫu đã lưu
-browser-data-chrome-8 =
-    .label = Lịch sử các Biểu mẫu đã lưu
-    .value = Lịch sử các Biểu mẫu đã lưu
-browser-data-canary-8 =
-    .label = Lịch sử các Biểu mẫu đã lưu
-    .value = Lịch sử các Biểu mẫu đã lưu
-browser-data-firefox-8 =
-    .label = Lịch sử các Biểu mẫu đã lưu
-    .value = Lịch sử các Biểu mẫu đã lưu
-browser-data-360se-8 =
-    .label = Lịch sử các biểu mẫu đã lưu
-    .value = Lịch sử các biểu mẫu đã lưu
-browser-data-ie-16 =
-    .label = Mật khẩu đã lưu
-    .value = Mật khẩu đã lưu
-browser-data-edge-16 =
-    .label = Mật khẩu đã lưu
-    .value = Mật khẩu đã lưu
-browser-data-safari-16 =
-    .label = Mật khẩu đã lưu
-    .value = Mật khẩu đã lưu
-browser-data-chrome-16 =
-    .label = Mật khẩu đã lưu
-    .value = Mật khẩu đã lưu
-browser-data-canary-16 =
-    .label = Mật khẩu đã lưu
-    .value = Mật khẩu đã lưu
-browser-data-firefox-16 =
-    .label = Mật khẩu đã lưu
-    .value = Mật khẩu đã lưu
-browser-data-360se-16 =
-    .label = Mật khẩu đã lưu
-    .value = Mật khẩu đã lưu
-browser-data-ie-32 =
-    .label = Ưa thích
-    .value = Ưa thích
-browser-data-edge-32 =
-    .label = Ưa thích
-    .value = Ưa thích
-browser-data-safari-32 =
-    .label = Dấu trang
-    .value = Dấu trang
-browser-data-chrome-32 =
-    .label = Dấu trang
-    .value = Dấu trang
-browser-data-canary-32 =
-    .label = Dấu trang
-    .value = Dấu trang
-browser-data-360se-32 =
-    .label = Dấu trang
-    .value = Dấu trang
-browser-data-ie-64 =
-    .label = Dữ liệu Khác
-    .value = Dữ liệu Khác
-browser-data-edge-64 =
-    .label = Dữ liệu khác
-    .value = Dữ liệu khác
-browser-data-safari-64 =
-    .label = Dữ liệu Khác
-    .value = Dữ liệu Khác
-browser-data-chrome-64 =
-    .label = Dữ liệu Khác
-    .value = Dữ liệu Khác
-browser-data-canary-64 =
-    .label = Dữ liệu Khác
-    .value = Dữ liệu Khác
-browser-data-firefox-other-64 =
-    .label = Dữ liệu Khác
-    .value = Dữ liệu Khác
-browser-data-360se-64 =
-    .label = Dữ liệu khác
-    .value = Dữ liệu khác
-browser-data-firefox-128 =
-    .label = Cửa Sổ và Thẻ
-    .value = Cửa Sổ và Thẻ
