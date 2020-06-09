@@ -42,49 +42,16 @@ imported-bookmarks-source = U bva kha { $source }
 source-name-ie = Internet Explorer
 source-name-safari = Safari
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Khetho dza Inthanete
-    .value = Khetho dza Inthanete
-browser-data-safari-1 =
-    .label = Zwitakalelwa
-    .value = Zwitakalelwa
-browser-data-ie-2 =
-    .label = Makokisi
-    .value = Makokisi
-browser-data-safari-2 =
-    .label = Makokisi
-    .value = Makokisi
-browser-data-ie-4 =
-    .label = U Swaswara Ḓivhazwakale
-    .value = U Swaswara Ḓivhazwakale
-browser-data-safari-4 =
-    .label = U Swaswara Ḓivhazwakale
-    .value = U Swaswara Ḓivhazwakale
-browser-data-ie-8 =
-    .label = Zwo Vhulungwa u bva kha Ḓivhazwakale
-    .value = Zwo Vhulungwa u bva kha Ḓivhazwakale
-browser-data-safari-8 =
-    .label = Zwo Vhulungwa u bva kha Ḓivhazwakale
-    .value = Zwo Vhulungwa u bva kha Ḓivhazwakale
-browser-data-ie-16 =
-    .label = Phasiwede dzo Vhulungwaho
-    .value = Phasiwede dzo Vhulungwaho
-browser-data-safari-16 =
-    .label = Phasiwede dzo Vhulungwaho
-    .value = Phasiwede dzo Vhulungwaho
-browser-data-ie-32 =
-    .label = Zwitakalelwa
-    .value = Zwitakalelwa
-browser-data-safari-32 =
-    .label = Tswayo dza Bugu
-    .value = Tswayo dza Bugu
-browser-data-ie-64 =
-    .label = Vhuṅwe Vhuṱanzi
-    .value = Vhuṅwe Vhuṱanzi
-browser-data-safari-64 =
-    .label = Vhuṅwe Vhuṱanzi
-    .value = Vhuṅwe Vhuṱanzi
