@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Cytańska lisćina (ze Safari)
 imported-edge-reading-list = Cytańska lisćina (z Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internetne nastajenja
-    .value = Internetne nastajenja
-browser-data-edge-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-safari-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-chrome-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-canary-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-360se-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-ie-2 =
-    .label = Cookieje
-    .value = Cookieje
-browser-data-edge-2 =
-    .label = Cookieje
-    .value = Cookieje
-browser-data-safari-2 =
-    .label = Cookieje
-    .value = Cookieje
-browser-data-chrome-2 =
-    .label = Cookieje
-    .value = Cookieje
-browser-data-canary-2 =
-    .label = Cookieje
-    .value = Cookieje
-browser-data-firefox-2 =
-    .label = Cookieje
-    .value = Cookieje
-browser-data-360se-2 =
-    .label = Cookieje
-    .value = Cookieje
-browser-data-ie-4 =
-    .label = Pśeglědowańska historija
-    .value = Pśeglědowańska historija
-browser-data-edge-4 =
-    .label = Pśeglědowańska historija
-    .value = Pśeglědowańska historija
-browser-data-safari-4 =
-    .label = Pśeglědowańska historija
-    .value = Pśeglědowańska historija
-browser-data-chrome-4 =
-    .label = Pśeglědowańska historija
-    .value = Pśeglědowańska historija
-browser-data-canary-4 =
-    .label = Pśeglědowańska historija
-    .value = Pśeglědowańska historija
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Historija a cytańske znamjenja
-    .value = Historija a cytańske znamjenja
-browser-data-360se-4 =
-    .label = Pśeglědowańska historija
-    .value = Pśeglědowańska historija
-browser-data-ie-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-edge-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-safari-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-chrome-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-canary-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-firefox-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-360se-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-ie-16 =
-    .label = Składowane gronidła
-    .value = Składowane gronidła
-browser-data-edge-16 =
-    .label = Składowane gronidła
-    .value = Składowane gronidła
-browser-data-safari-16 =
-    .label = Składowane gronidła
-    .value = Składowane gronidła
-browser-data-chrome-16 =
-    .label = Składowane gronidła
-    .value = Składowane gronidła
-browser-data-canary-16 =
-    .label = Składowane gronidła
-    .value = Składowane gronidła
-browser-data-firefox-16 =
-    .label = Składowane gronidła
-    .value = Składowane gronidła
-browser-data-360se-16 =
-    .label = Składowane gronidła
-    .value = Składowane gronidła
-browser-data-ie-32 =
-    .label = Fawority
-    .value = Fawority
-browser-data-edge-32 =
-    .label = Fawority
-    .value = Fawority
-browser-data-safari-32 =
-    .label = Cytańske znamjenja
-    .value = Cytańske znamjenja
-browser-data-chrome-32 =
-    .label = Cytańske znamjenja
-    .value = Cytańske znamjenja
-browser-data-canary-32 =
-    .label = Cytańske znamjenja
-    .value = Cytańske znamjenja
-browser-data-360se-32 =
-    .label = Cytańske znamjenja
-    .value = Cytańske znamjenja
-browser-data-ie-64 =
-    .label = Druge daty
-    .value = Druge daty
-browser-data-edge-64 =
-    .label = Druge daty
-    .value = Druge daty
-browser-data-safari-64 =
-    .label = Druge daty
-    .value = Druge daty
-browser-data-chrome-64 =
-    .label = Druge daty
-    .value = Druge daty
-browser-data-canary-64 =
-    .label = Druge daty
-    .value = Druge daty
-browser-data-firefox-other-64 =
-    .label = Druge daty
-    .value = Druge daty
-browser-data-360se-64 =
-    .label = Druge daty
-    .value = Druge daty
-browser-data-firefox-128 =
-    .label = Wokna a rejtariki
-    .value = Wokna a rejtariki
