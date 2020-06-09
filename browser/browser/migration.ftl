@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Seznam ke čtení (ze Safari)
 imported-edge-reading-list = Seznam ke čtení (z Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Možnosti internetu
-    .value = Možnosti internetu
-browser-data-edge-1 =
-    .label = Nastavení
-    .value = Nastavení
-browser-data-safari-1 =
-    .label = Předvolby
-    .value = Předvolby
-browser-data-chrome-1 =
-    .label = Předvolby
-    .value = Předvolby
-browser-data-canary-1 =
-    .label = Předvolby
-    .value = Předvolby
-browser-data-360se-1 =
-    .label = Předvolby
-    .value = Předvolby
-browser-data-ie-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-edge-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-safari-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-chrome-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-canary-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-firefox-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-360se-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-ie-4 =
-    .label = Historie
-    .value = Historie
-browser-data-edge-4 =
-    .label = Historie
-    .value = Historie
-browser-data-safari-4 =
-    .label = Historie
-    .value = Historie
-browser-data-chrome-4 =
-    .label = Historie
-    .value = Historie
-browser-data-canary-4 =
-    .label = Historie
-    .value = Historie
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Historie prohlížení a záložky
-    .value = Historie prohlížení a záložky
-browser-data-360se-4 =
-    .label = Historie
-    .value = Historie
-browser-data-ie-8 =
-    .label = Uložené formuláře
-    .value = Uložené formuláře
-browser-data-edge-8 =
-    .label = Uložené formuláře
-    .value = Uložené formuláře
-browser-data-safari-8 =
-    .label = Uložené formuláře
-    .value = Uložené formuláře
-browser-data-chrome-8 =
-    .label = Uložené formuláře
-    .value = Uložené formuláře
-browser-data-canary-8 =
-    .label = Uložené formuláře
-    .value = Uložené formuláře
-browser-data-firefox-8 =
-    .label = Uložené formuláře
-    .value = Uložené formuláře
-browser-data-360se-8 =
-    .label = Uložené formuláře
-    .value = Uložené formuláře
-browser-data-ie-16 =
-    .label = Uložená hesla
-    .value = Uložená hesla
-browser-data-edge-16 =
-    .label = Uložená hesla
-    .value = Uložená hesla
-browser-data-safari-16 =
-    .label = Uložená hesla
-    .value = Uložená hesla
-browser-data-chrome-16 =
-    .label = Uložená hesla
-    .value = Uložená hesla
-browser-data-canary-16 =
-    .label = Uložená hesla
-    .value = Uložená hesla
-browser-data-firefox-16 =
-    .label = Uložená hesla
-    .value = Uložená hesla
-browser-data-360se-16 =
-    .label = Uložená hesla
-    .value = Uložená hesla
-browser-data-ie-32 =
-    .label = Oblíbené
-    .value = Oblíbené
-browser-data-edge-32 =
-    .label = Oblíbené
-    .value = Oblíbené
-browser-data-safari-32 =
-    .label = Záložky
-    .value = Záložky
-browser-data-chrome-32 =
-    .label = Záložky
-    .value = Záložky
-browser-data-canary-32 =
-    .label = Záložky
-    .value = Záložky
-browser-data-360se-32 =
-    .label = Záložky
-    .value = Záložky
-browser-data-ie-64 =
-    .label = Ostatní data
-    .value = Ostatní data
-browser-data-edge-64 =
-    .label = Ostatní data
-    .value = Ostatní data
-browser-data-safari-64 =
-    .label = Ostatní data
-    .value = Ostatní data
-browser-data-chrome-64 =
-    .label = Ostatní data
-    .value = Ostatní data
-browser-data-canary-64 =
-    .label = Ostatní data
-    .value = Ostatní data
-browser-data-firefox-other-64 =
-    .label = Ostatní data
-    .value = Ostatní data
-browser-data-360se-64 =
-    .label = Ostatní data
-    .value = Ostatní data
-browser-data-firefox-128 =
-    .label = Okna a panely
-    .value = Okna a panely
