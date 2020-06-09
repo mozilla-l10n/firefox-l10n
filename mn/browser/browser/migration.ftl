@@ -56,3 +56,7 @@ source-name-firefox = Mozilla Firefox
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Цонх болон самбарууд
+browser-data-session-label =
+    .value = Цонх болон самбарууд
