@@ -81,151 +81,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = רשימת קריאה (מ־Safari)
 imported-edge-reading-list = רשימת קריאה (מ־Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = אפשרויות אינטרנט
-    .value = אפשרויות אינטרנט
-browser-data-edge-1 =
-    .label = הגדרות
-    .value = הגדרות
-browser-data-safari-1 =
-    .label = העדפות
-    .value = העדפות
-browser-data-chrome-1 =
-    .label = העדפות
-    .value = העדפות
-browser-data-canary-1 =
-    .label = העדפות
-    .value = העדפות
-browser-data-360se-1 =
-    .label = העדפות
-    .value = העדפות
-browser-data-ie-2 =
-    .label = עוגיות
-    .value = עוגיות
-browser-data-edge-2 =
-    .label = עוגיות
-    .value = עוגיות
-browser-data-safari-2 =
-    .label = עוגיות
-    .value = עוגיות
-browser-data-chrome-2 =
-    .label = עוגיות
-    .value = עוגיות
-browser-data-canary-2 =
-    .label = עוגיות
-    .value = עוגיות
-browser-data-firefox-2 =
-    .label = עוגיות
-    .value = עוגיות
-browser-data-360se-2 =
-    .label = עוגיות
-    .value = עוגיות
-browser-data-ie-4 =
-    .label = היסטוריית גלישה
-    .value = היסטוריית גלישה
-browser-data-edge-4 =
-    .label = היסטוריית גלישה
-    .value = היסטוריית גלישה
-browser-data-safari-4 =
-    .label = היסטוריית גלישה
-    .value = היסטוריית גלישה
-browser-data-chrome-4 =
-    .label = היסטוריית גלישה
-    .value = היסטוריית גלישה
-browser-data-canary-4 =
-    .label = היסטוריית גלישה
-    .value = היסטוריית גלישה
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = היסטוריית גלישה וסימניות
-    .value = היסטוריית גלישה וסימניות
-browser-data-360se-4 =
-    .label = היסטוריית גלישה
-    .value = היסטוריית גלישה
-browser-data-ie-8 =
-    .label = היסטוריית טפסים שמורים
-    .value = היסטוריית טפסים שמורים
-browser-data-edge-8 =
-    .label = היסטוריית טפסים שמורים
-    .value = היסטוריית טפסים שמורים
-browser-data-safari-8 =
-    .label = היסטוריית טפסים שמורים
-    .value = היסטוריית טפסים שמורים
-browser-data-chrome-8 =
-    .label = היסטוריית טפסים שמורים
-    .value = היסטוריית טפסים שמורים
-browser-data-canary-8 =
-    .label = היסטוריית טפסים שמורים
-    .value = היסטוריית טפסים שמורים
-browser-data-firefox-8 =
-    .label = היסטוריית טפסים שמורים
-    .value = היסטוריית טפסים שמורים
-browser-data-360se-8 =
-    .label = היסטוריית טפסים שמורים
-    .value = היסטוריית טפסים שמורים
-browser-data-ie-16 =
-    .label = ססמאות שמורות
-    .value = ססמאות שמורות
-browser-data-edge-16 =
-    .label = ססמאות שמורות
-    .value = ססמאות שמורות
-browser-data-safari-16 =
-    .label = ססמאות שמורות
-    .value = ססמאות שמורות
-browser-data-chrome-16 =
-    .label = ססמאות שמורות
-    .value = ססמאות שמורות
-browser-data-canary-16 =
-    .label = ססמאות שמורות
-    .value = ססמאות שמורות
-browser-data-firefox-16 =
-    .label = ססמאות שמורות
-    .value = ססמאות שמורות
-browser-data-360se-16 =
-    .label = ססמאות שמורות
-    .value = ססמאות שמורות
-browser-data-ie-32 =
-    .label = מועדפים
-    .value = מועדפים
-browser-data-edge-32 =
-    .label = מועדפים
-    .value = מועדפים
-browser-data-safari-32 =
-    .label = סימניות
-    .value = סימניות
-browser-data-chrome-32 =
-    .label = סימניות
-    .value = סימניות
-browser-data-canary-32 =
-    .label = סימניות
-    .value = סימניות
-browser-data-360se-32 =
-    .label = סימניות
-    .value = סימניות
-browser-data-ie-64 =
-    .label = נתונים אחרים
-    .value = נתונים אחרים
-browser-data-edge-64 =
-    .label = נתונים אחרים
-    .value = נתונים אחרים
-browser-data-safari-64 =
-    .label = נתונים אחרים
-    .value = נתונים אחרים
-browser-data-chrome-64 =
-    .label = נתונים אחרים
-    .value = נתונים אחרים
-browser-data-canary-64 =
-    .label = נתונים אחרים
-    .value = נתונים אחרים
-browser-data-firefox-other-64 =
-    .label = נתונים אחרים
-    .value = נתונים אחרים
-browser-data-360se-64 =
-    .label = נתונים אחרים
-    .value = נתונים אחרים
-browser-data-firefox-128 =
-    .label = חלונות ולשוניות
-    .value = חלונות ולשוניות
