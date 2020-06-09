@@ -33,52 +33,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Lieslëscht (Vum Safari)
 imported-edge-reading-list = Lieslëscht (Vum Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internet Optiounen
-    .value = Internet Optiounen
-browser-data-edge-1 =
-    .label = Astellungen
-    .value = Astellungen
-browser-data-ie-16 =
-    .label = Gespäichert Passwierder
-    .value = Gespäichert Passwierder
-browser-data-edge-16 =
-    .label = Gespäichert Passwierder
-    .value = Gespäichert Passwierder
-browser-data-safari-16 =
-    .label = Gespäichert Passwierder
-    .value = Gespäichert Passwierder
-browser-data-chrome-16 =
-    .label = Gespäichert Passwierder
-    .value = Gespäichert Passwierder
-browser-data-canary-16 =
-    .label = Gespäichert Passwierder
-    .value = Gespäichert Passwierder
-browser-data-firefox-16 =
-    .label = Gespäichert Passwierder
-    .value = Gespäichert Passwierder
-browser-data-360se-16 =
-    .label = Gespäichert Passwierder
-    .value = Gespäichert Passwierder
-browser-data-ie-32 =
-    .label = Favoriten
-    .value = Favoriten
-browser-data-edge-32 =
-    .label = Favoritten
-    .value = Favoritten
-browser-data-safari-32 =
-    .label = Lieszeechen
-    .value = Lieszeechen
-browser-data-chrome-32 =
-    .label = Lieszeechen
-    .value = Lieszeechen
-browser-data-canary-32 =
-    .label = Lieszeechen
-    .value = Lieszeechen
-browser-data-360se-32 =
-    .label = Lieszeechen
-    .value = Lieszeechen
