@@ -97,3 +97,7 @@ imported-edge-reading-list = Đang đọc danh sách (từ Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Cửa Sổ và Thẻ
+browser-data-session-label =
+    .value = Cửa Sổ và Thẻ
