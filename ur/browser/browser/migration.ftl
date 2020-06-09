@@ -84,151 +84,20 @@ source-name-360se = 360 قابل بھروسا براؤزر
 imported-safari-reading-list = فہرست پڑھ رہا ہے (سفاری سے)
 imported-edge-reading-list = فہرست پڑھ رہا ہے (عیدج سے)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = انٹرنیٹ اختیارات
-    .value = انٹرنیٹ اختیارات
-browser-data-edge-1 =
-    .label = سیٹنگز
-    .value = سیٹنگز
-browser-data-safari-1 =
-    .label = ترجیحات
-    .value = ترجیحات
-browser-data-chrome-1 =
-    .label = ترجیحات
-    .value = ترجیحات
-browser-data-canary-1 =
-    .label = ترجیحات
-    .value = ترجیحات
-browser-data-360se-1 =
-    .label = ترجیحات
-    .value = ترجیحات
-browser-data-ie-2 =
-    .label = کوکیز
-    .value = کوکیز
-browser-data-edge-2 =
-    .label = کوکیز
-    .value = کوکیز
-browser-data-safari-2 =
-    .label = کوکیز
-    .value = کوکیز
-browser-data-chrome-2 =
-    .label = کوکیز
-    .value = کوکیز
-browser-data-canary-2 =
-    .label = کوکیز
-    .value = کوکیز
-browser-data-firefox-2 =
-    .label = کوکیز
-    .value = کوکیز
-browser-data-360se-2 =
-    .label = کوکیز
-    .value = کوکیز
-browser-data-ie-4 =
-    .label = براؤزنگ کے سابقات
-    .value = براؤزنگ کے سابقات
-browser-data-edge-4 =
-    .label = براؤزنگ کے سابقات
-    .value = براؤزنگ کے سابقات
-browser-data-safari-4 =
-    .label = براؤزنگ سابقات
-    .value = براؤزنگ سابقات
-browser-data-chrome-4 =
-    .label = براؤزنگ سابقات
-    .value = براؤزنگ سابقات
-browser-data-canary-4 =
-    .label = براؤزنگ سابقات
-    .value = براؤزنگ سابقات
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = براؤزنگ سابقات اور بک مارک
-    .value = براؤزنگ سابقات اور بک مارک
-browser-data-360se-4 =
-    .label = براؤزنگ کے سابقات
-    .value = براؤزنگ کے سابقات
-browser-data-ie-8 =
-    .label = محفوظ شدہ فارم سابقات
-    .value = محفوظ شدہ فارم سابقات
-browser-data-edge-8 =
-    .label = محفوظ شدہ فارم سابقات
-    .value = محفوظ شدہ فارم سابقات
-browser-data-safari-8 =
-    .label = محفوظ شدہ فارم سابقات
-    .value = محفوظ شدہ فارم سابقات
-browser-data-chrome-8 =
-    .label = محفوظ شدہ فارم سابقات
-    .value = محفوظ شدہ فارم سابقات
-browser-data-canary-8 =
-    .label = محفوظ شدہ فارم سابقات
-    .value = محفوظ شدہ فارم سابقات
-browser-data-firefox-8 =
-    .label = محفوظ شدہ فارم سابقات
-    .value = محفوظ شدہ فارم سابقات
-browser-data-360se-8 =
-    .label = محفوظ شدہ فارم سابقات
-    .value = محفوظ شدہ فارم سابقات
-browser-data-ie-16 =
-    .label = محفوظ شدہ پاس ورڈ
-    .value = محفوظ شدہ پاس ورڈ
-browser-data-edge-16 =
-    .label = محفوظ شدہ پاس ورڈ
-    .value = محفوظ شدہ پاس ورڈ
-browser-data-safari-16 =
-    .label = محفوظ شدہ پاس ورڈ
-    .value = محفوظ شدہ پاس ورڈ
-browser-data-chrome-16 =
-    .label = محفوظ شدہ پاس ورڈ
-    .value = محفوظ شدہ پاس ورڈ
-browser-data-canary-16 =
-    .label = محفوظ شدہ پاس ورڈ
-    .value = محفوظ شدہ پاس ورڈ
-browser-data-firefox-16 =
-    .label = محفوظ شدہ پاس ورڈ
-    .value = محفوظ شدہ پاس ورڈ
-browser-data-360se-16 =
-    .label = محفوظ شدہ پاس ورڈ
-    .value = محفوظ شدہ پاس ورڈ
-browser-data-ie-32 =
-    .label = پسندیدگان
-    .value = پسندیدگان
-browser-data-edge-32 =
-    .label = پسندیدگان
-    .value = پسندیدگان
-browser-data-safari-32 =
-    .label = بک مارک
-    .value = بک مارک
-browser-data-chrome-32 =
-    .label = بک مارک
-    .value = بک مارک
-browser-data-canary-32 =
-    .label = بک مارک
-    .value = بک مارک
-browser-data-360se-32 =
-    .label = بک مارک
-    .value = بک مارک
-browser-data-ie-64 =
-    .label = دیگر کوائف
-    .value = دیگر کوائف
-browser-data-edge-64 =
-    .label = دیگر کوائف
-    .value = دیگر کوائف
-browser-data-safari-64 =
-    .label = دیگر کوائف
-    .value = دیگر کوائف
-browser-data-chrome-64 =
-    .label = دیگر کوائف
-    .value = دیگر کوائف
-browser-data-canary-64 =
-    .label = دیگر کوائف
-    .value = دیگر کوائف
-browser-data-firefox-other-64 =
-    .label = دیگر کوائف
-    .value = دیگر کوائف
-browser-data-360se-64 =
-    .label = دیگر کوائف
-    .value = دیگر کوائف
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = دریچے اور ٹیب
+browser-data-session-label =
     .value = دریچے اور ٹیب
