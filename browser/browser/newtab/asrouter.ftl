@@ -224,7 +224,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 화면 속 화면 아이콘
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = 보호 기능을 한 눈에 확인
+cfr-whatsnew-protections-body = 보호 대시보드에는 데이터 유출 및 비밀번호 관리에 대한 요약 보고서가 포함되어 있습니다. 이제 해결된 유출 수를 추적하고 저장된 비밀번호 중 데이터 유출에 노출된 비밀번호가 있는지 확인할 수 있습니다.
+cfr-whatsnew-protections-cta-link = 보호 대시보드 보기
+cfr-whatsnew-protections-icon-alt = 방패 아이콘
 
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = 더 나은 PDF 경험
+cfr-whatsnew-better-pdf-body = 이제 PDF 문서가 { -brand-short-name }에서 직접 열리므로 워크플로에 쉽게 접근할 수 있습니다.
