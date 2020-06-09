@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Listahan ng Babasahin (Mula sa Safari)
 imported-edge-reading-list = Listahan ng Babasahin (Mula sa Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Mga pagpipilian para sa Internet
-    .value = Mga pagpipilian para sa Internet
-browser-data-edge-1 =
-    .label = Mga setting
-    .value = Mga setting
-browser-data-safari-1 =
-    .label = Mga Kagustuhan
-    .value = Mga Kagustuhan
-browser-data-chrome-1 =
-    .label = Mga Kagustuhan
-    .value = Mga Kagustuhan
-browser-data-canary-1 =
-    .label = Mga Kagustuhan
-    .value = Mga Kagustuhan
-browser-data-360se-1 =
-    .label = Mga Kagustuhan
-    .value = Mga Kagustuhan
-browser-data-ie-2 =
-    .label = Mga Cookie
-    .value = Mga Cookie
-browser-data-edge-2 =
-    .label = Mga cookie
-    .value = Mga cookie
-browser-data-safari-2 =
-    .label = Mga Cookie
-    .value = Mga Cookie
-browser-data-chrome-2 =
-    .label = Mga Cookie
-    .value = Mga Cookie
-browser-data-canary-2 =
-    .label = Mga Cookie
-    .value = Mga Cookie
-browser-data-firefox-2 =
-    .label = Mga Cookie
-    .value = Mga Cookie
-browser-data-360se-2 =
-    .label = Mga cookie
-    .value = Mga cookie
-browser-data-ie-4 =
-    .label = Kasaysayan ng Pag-Browse
-    .value = Kasaysayan ng Pag-Browse
-browser-data-edge-4 =
-    .label = Kasaysayan ng Pag-Browse
-    .value = Kasaysayan ng Pag-Browse
-browser-data-safari-4 =
-    .label = Kasaysayan ng Pag-Browse
-    .value = Kasaysayan ng Pag-Browse
-browser-data-chrome-4 =
-    .label = Kasaysayan ng Pag-Browse
-    .value = Kasaysayan ng Pag-Browse
-browser-data-canary-4 =
-    .label = Kasaysayan ng Pag-Browse
-    .value = Kasaysayan ng Pag-Browse
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Kasaysayan ng Pag-Browse at mga Bookmark
-    .value = Kasaysayan ng Pag-Browse at mga Bookmark
-browser-data-360se-4 =
-    .label = Kasaysayan ng Pag-Browse
-    .value = Kasaysayan ng Pag-Browse
-browser-data-ie-8 =
-    .label = Kasaysayan ng mga Naitagong Form
-    .value = Kasaysayan ng mga Naitagong Form
-browser-data-edge-8 =
-    .label = Kasaysayan ng mga Naitagong mga Form
-    .value = Kasaysayan ng mga Naitagong mga Form
-browser-data-safari-8 =
-    .label = Kasaysayan ng mga Naitagong mga Form
-    .value = Kasaysayan ng mga Naitagong mga Form
-browser-data-chrome-8 =
-    .label = Kasaysayan ng mga Naitagong mga Form
-    .value = Kasaysayan ng mga Naitagong mga Form
-browser-data-canary-8 =
-    .label = Kasaysayan ng mga Naitagong mga Form
-    .value = Kasaysayan ng mga Naitagong mga Form
-browser-data-firefox-8 =
-    .label = Kasaysayan ng mga Naitagong mga Form
-    .value = Kasaysayan ng mga Naitagong mga Form
-browser-data-360se-8 =
-    .label = Kasaysayan ng mga Naitagong mga Form
-    .value = Kasaysayan ng mga Naitagong mga Form
-browser-data-ie-16 =
-    .label = Mga naka-save na Password
-    .value = Mga naka-save na Password
-browser-data-edge-16 =
-    .label = Mga Naka-save na Password
-    .value = Mga Naka-save na Password
-browser-data-safari-16 =
-    .label = Mga naka-save na Password
-    .value = Mga naka-save na Password
-browser-data-chrome-16 =
-    .label = Mga naka-save na Password
-    .value = Mga naka-save na Password
-browser-data-canary-16 =
-    .label = Mga naka-save na Password
-    .value = Mga naka-save na Password
-browser-data-firefox-16 =
-    .label = Mga naka-save na Password
-    .value = Mga naka-save na Password
-browser-data-360se-16 =
-    .label = Mga Naka-save na Password
-    .value = Mga Naka-save na Password
-browser-data-ie-32 =
-    .label = Mga Paborito
-    .value = Mga Paborito
-browser-data-edge-32 =
-    .label = Mga paborito
-    .value = Mga paborito
-browser-data-safari-32 =
-    .label = Mga bookmark
-    .value = Mga bookmark
-browser-data-chrome-32 =
-    .label = Mga bookmark
-    .value = Mga bookmark
-browser-data-canary-32 =
-    .label = Mga bookmark
-    .value = Mga bookmark
-browser-data-360se-32 =
-    .label = Mga bookmark
-    .value = Mga bookmark
-browser-data-ie-64 =
-    .label = Ibang Data
-    .value = Ibang Data
-browser-data-edge-64 =
-    .label = Ibang Data
-    .value = Ibang Data
-browser-data-safari-64 =
-    .label = Ibang Data
-    .value = Ibang Data
-browser-data-chrome-64 =
-    .label = Ibang Data
-    .value = Ibang Data
-browser-data-canary-64 =
-    .label = Ibang Data
-    .value = Ibang Data
-browser-data-firefox-other-64 =
-    .label = Ibang Data
-    .value = Ibang Data
-browser-data-360se-64 =
-    .label = Ibang Data
-    .value = Ibang Data
-browser-data-firefox-128 =
-    .label = Mga Window at mga tab
-    .value = Mga Window at mga tab
