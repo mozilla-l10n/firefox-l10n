@@ -97,3 +97,7 @@ imported-edge-reading-list = Lukulista (Edgestä)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Ikkunat ja välilehdet
+browser-data-session-label =
+    .value = Ikkunat ja välilehdet
