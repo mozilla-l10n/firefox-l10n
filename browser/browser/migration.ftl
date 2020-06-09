@@ -84,151 +84,16 @@ source-name-360se = 360 安全瀏覽器
 imported-safari-reading-list = 閱讀列表（來自 Safari）
 imported-edge-reading-list = 閱讀清單（來自 Edge）
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = 網際網路選項
-    .value = 網際網路選項
-browser-data-edge-1 =
-    .label = 設定
-    .value = 設定
-browser-data-safari-1 =
-    .label = 偏好設定
-    .value = 偏好設定
-browser-data-chrome-1 =
-    .label = 設定
-    .value = 設定
-browser-data-canary-1 =
-    .label = 設定
-    .value = 設定
-browser-data-360se-1 =
-    .label = 偏好設定
-    .value = 偏好設定
-browser-data-ie-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-edge-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-safari-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-chrome-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-canary-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-firefox-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-360se-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-ie-4 =
-    .label = 瀏覽紀錄
-    .value = 瀏覽紀錄
-browser-data-edge-4 =
-    .label = 瀏覽紀錄
-    .value = 瀏覽紀錄
-browser-data-safari-4 =
-    .label = 瀏覽紀錄
-    .value = 瀏覽紀錄
-browser-data-chrome-4 =
-    .label = 瀏覽紀錄
-    .value = 瀏覽紀錄
-browser-data-canary-4 =
-    .label = 瀏覽紀錄
-    .value = 瀏覽紀錄
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = 瀏覽紀錄與書籤
-    .value = 瀏覽紀錄與書籤
-browser-data-360se-4 =
-    .label = 瀏覽紀錄
-    .value = 瀏覽紀錄
-browser-data-ie-8 =
-    .label = 已存表單記錄
-    .value = 已存表單記錄
-browser-data-edge-8 =
-    .label = 已存表單記錄
-    .value = 已存表單記錄
-browser-data-safari-8 =
-    .label = 已存表單記錄
-    .value = 已存表單記錄
-browser-data-chrome-8 =
-    .label = 已存表單記錄
-    .value = 已存表單記錄
-browser-data-canary-8 =
-    .label = 已存表單記錄
-    .value = 已存表單記錄
-browser-data-firefox-8 =
-    .label = 已存表單記錄
-    .value = 已存表單記錄
-browser-data-360se-8 =
-    .label = 已存表單記錄
-    .value = 已存表單記錄
-browser-data-ie-16 =
-    .label = 已存密碼
-    .value = 已存密碼
-browser-data-edge-16 =
-    .label = 已存密碼
-    .value = 已存密碼
-browser-data-safari-16 =
-    .label = 已存密碼
-    .value = 已存密碼
-browser-data-chrome-16 =
-    .label = 已存密碼
-    .value = 已存密碼
-browser-data-canary-16 =
-    .label = 已存密碼
-    .value = 已存密碼
-browser-data-firefox-16 =
-    .label = 已存密碼
-    .value = 已存密碼
-browser-data-360se-16 =
-    .label = 已存密碼
-    .value = 已存密碼
-browser-data-ie-32 =
-    .label = 我的最愛
-    .value = 我的最愛
-browser-data-edge-32 =
-    .label = 我的最愛
-    .value = 我的最愛
-browser-data-safari-32 =
-    .label = 書籤
-    .value = 書籤
-browser-data-chrome-32 =
-    .label = 書籤
-    .value = 書籤
-browser-data-canary-32 =
-    .label = 書籤
-    .value = 書籤
-browser-data-360se-32 =
-    .label = 書籤
-    .value = 書籤
-browser-data-ie-64 =
-    .label = 其他資料
-    .value = 其他資料
-browser-data-edge-64 =
-    .label = 其他資料
-    .value = 其他資料
-browser-data-safari-64 =
-    .label = 其他資料
-    .value = 其他資料
-browser-data-chrome-64 =
-    .label = 其他資料
-    .value = 其他資料
-browser-data-canary-64 =
-    .label = 其他資料
-    .value = 其他資料
-browser-data-firefox-other-64 =
-    .label = 其他資料
-    .value = 其他資料
-browser-data-360se-64 =
-    .label = 其他資料
-    .value = 其他資料
-browser-data-firefox-128 =
-    .label = 視窗與分頁
-    .value = 視窗與分頁
