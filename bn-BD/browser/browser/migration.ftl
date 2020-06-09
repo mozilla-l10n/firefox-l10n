@@ -77,151 +77,16 @@ source-name-360se = 360 নিরাপদ ব্রাউজার
 imported-safari-reading-list = তালিকা পড়া হচ্ছে (সাফারি হতে)
 imported-edge-reading-list = তালিকা পড়া হচ্ছে (Edge হতে)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = ইন্টারনেট অপশন
-    .value = ইন্টারনেট অপশন
-browser-data-edge-1 =
-    .label = সেটিং
-    .value = সেটিং
-browser-data-safari-1 =
-    .label = পছন্দসমূহ
-    .value = পছন্দসমূহ
-browser-data-chrome-1 =
-    .label = পছন্দসমূহ
-    .value = পছন্দসমূহ
-browser-data-canary-1 =
-    .label = পছন্দসমূহ
-    .value = পছন্দসমূহ
-browser-data-360se-1 =
-    .label = পছন্দসমূহ
-    .value = পছন্দসমূহ
-browser-data-ie-2 =
-    .label = কুকি
-    .value = কুকি
-browser-data-edge-2 =
-    .label = কুকিস
-    .value = কুকিস
-browser-data-safari-2 =
-    .label = কুকি
-    .value = কুকি
-browser-data-chrome-2 =
-    .label = কুকি
-    .value = কুকি
-browser-data-canary-2 =
-    .label = কুকি
-    .value = কুকি
-browser-data-firefox-2 =
-    .label = কুকি
-    .value = কুকি
-browser-data-360se-2 =
-    .label = কুকি
-    .value = কুকি
-browser-data-ie-4 =
-    .label = ব্রাউজ ইতিহাস
-    .value = ব্রাউজ ইতিহাস
-browser-data-edge-4 =
-    .label = ব্রাউজ ইতিহাস
-    .value = ব্রাউজ ইতিহাস
-browser-data-safari-4 =
-    .label = ব্রাউজ ইতিহাস
-    .value = ব্রাউজ ইতিহাস
-browser-data-chrome-4 =
-    .label = ব্রাউজ ইতিহাস
-    .value = ব্রাউজ ইতিহাস
-browser-data-canary-4 =
-    .label = ব্রাউজ ইতিহাস
-    .value = ব্রাউজ ইতিহাস
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ব্রাউজারের ইতিহাস এবং বুকমার্ক
-    .value = ব্রাউজারের ইতিহাস এবং বুকমার্ক
-browser-data-360se-4 =
-    .label = ব্রাউজ ইতিহাস
-    .value = ব্রাউজ ইতিহাস
-browser-data-ie-8 =
-    .label = সংরক্ষিত ফরমের ইতিহাস
-    .value = সংরক্ষিত ফরমের ইতিহাস
-browser-data-edge-8 =
-    .label = সংরক্ষিত ফরমের ইতিহাস
-    .value = সংরক্ষিত ফরমের ইতিহাস
-browser-data-safari-8 =
-    .label = সংরক্ষিত ফরমের ইতিহাস
-    .value = সংরক্ষিত ফরমের ইতিহাস
-browser-data-chrome-8 =
-    .label = ইতিহাস থেকে সংরক্ষিত
-    .value = ইতিহাস থেকে সংরক্ষিত
-browser-data-canary-8 =
-    .label = ইতিহাস থেকে সংরক্ষিত
-    .value = ইতিহাস থেকে সংরক্ষিত
-browser-data-firefox-8 =
-    .label = ইতিহাস থেকে সংরক্ষিত
-    .value = ইতিহাস থেকে সংরক্ষিত
-browser-data-360se-8 =
-    .label = সংরক্ষিত ফরমের ইতিহাস
-    .value = সংরক্ষিত ফরমের ইতিহাস
-browser-data-ie-16 =
-    .label = সংরক্ষিত পাসওয়ার্ড
-    .value = সংরক্ষিত পাসওয়ার্ড
-browser-data-edge-16 =
-    .label = সংরক্ষিত পাসওয়ার্ড সমূহ
-    .value = সংরক্ষিত পাসওয়ার্ড সমূহ
-browser-data-safari-16 =
-    .label = সংরক্ষিত পাসওয়ার্ড
-    .value = সংরক্ষিত পাসওয়ার্ড
-browser-data-chrome-16 =
-    .label = সংরক্ষিত পাসওয়ার্ড
-    .value = সংরক্ষিত পাসওয়ার্ড
-browser-data-canary-16 =
-    .label = সংরক্ষিত পাসওয়ার্ড
-    .value = সংরক্ষিত পাসওয়ার্ড
-browser-data-firefox-16 =
-    .label = সংরক্ষিত পাসওয়ার্ড
-    .value = সংরক্ষিত পাসওয়ার্ড
-browser-data-360se-16 =
-    .label = সংরক্ষিত পাসওয়ার্ড
-    .value = সংরক্ষিত পাসওয়ার্ড
-browser-data-ie-32 =
-    .label = প্রিয়
-    .value = প্রিয়
-browser-data-edge-32 =
-    .label = প্রিয়
-    .value = প্রিয়
-browser-data-safari-32 =
-    .label = বুকমার্ক
-    .value = বুকমার্ক
-browser-data-chrome-32 =
-    .label = বুকমার্ক
-    .value = বুকমার্ক
-browser-data-canary-32 =
-    .label = বুকমার্ক
-    .value = বুকমার্ক
-browser-data-360se-32 =
-    .label = বুকমার্ক
-    .value = বুকমার্ক
-browser-data-ie-64 =
-    .label = অন্যান্য তথ্য
-    .value = অন্যান্য তথ্য
-browser-data-edge-64 =
-    .label = অন্যান্য তথ্য
-    .value = অন্যান্য তথ্য
-browser-data-safari-64 =
-    .label = অন্যান্য তথ্য
-    .value = অন্যান্য তথ্য
-browser-data-chrome-64 =
-    .label = অন্যান্য তথ্য
-    .value = অন্যান্য তথ্য
-browser-data-canary-64 =
-    .label = অন্যান্য তথ্য
-    .value = অন্যান্য তথ্য
-browser-data-firefox-other-64 =
-    .label = অন্যান্য তথ্য
-    .value = অন্যান্য তথ্য
-browser-data-360se-64 =
-    .label = অন্যান্য তথ্য
-    .value = অন্যান্য তথ্য
-browser-data-firefox-128 =
-    .label = উইন্ডো এবং ট্যাব
-    .value = উইন্ডো এবং ট্যাব
