@@ -84,151 +84,20 @@ source-name-360se = 360 անվտանգ զննարկիչ
 imported-safari-reading-list = Ընթերցացուցակ (Safari-ից)
 imported-edge-reading-list = Ընթերցացուցակ (Edge-ից)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Համացանցի ընտրանքները
-    .value = Համացանցի ընտրանքները
-browser-data-edge-1 =
-    .label = Կարգաւորումներ
-    .value = Կարգաւորումներ
-browser-data-safari-1 =
-    .label = Կարգաւորումներ
-    .value = Կարգաւորումներ
-browser-data-chrome-1 =
-    .label = Կարգաւորումներ
-    .value = Կարգաւորումներ
-browser-data-canary-1 =
-    .label = Կարգաւորումներ
-    .value = Կարգաւորումներ
-browser-data-360se-1 =
-    .label = Կարգաւորումներ
-    .value = Կարգաւորումներ
-browser-data-ie-2 =
-    .label = Նշոցիկներ
-    .value = Նշոցիկներ
-browser-data-edge-2 =
-    .label = Նշոցիկներ
-    .value = Նշոցիկներ
-browser-data-safari-2 =
-    .label = Նշոցիկներ
-    .value = Նշոցիկներ
-browser-data-chrome-2 =
-    .label = Նշոցիկներ
-    .value = Նշոցիկներ
-browser-data-canary-2 =
-    .label = Նշոցիկներ
-    .value = Նշոցիկներ
-browser-data-firefox-2 =
-    .label = Նշոցիկներ
-    .value = Նշոցիկներ
-browser-data-360se-2 =
-    .label = Նշոցիկներ
-    .value = Նշոցիկներ
-browser-data-ie-4 =
-    .label = Զննարկման պատմութիւնը
-    .value = Զննարկման պատմութիւնը
-browser-data-edge-4 =
-    .label = Զննարկման պատմութիւնը
-    .value = Զննարկման պատմութիւնը
-browser-data-safari-4 =
-    .label = Զննարկման պատմութիւնը
-    .value = Զննարկման պատմութիւնը
-browser-data-chrome-4 =
-    .label = Զննարկման պատմութիւնը
-    .value = Զննարկման պատմութիւնը
-browser-data-canary-4 =
-    .label = Զննարկման պատմութիւնը
-    .value = Զննարկման պատմութիւնը
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Զննարկման պատմութիւն եւ էջանիշեր
-    .value = Զննարկման պատմութիւն եւ էջանիշեր
-browser-data-360se-4 =
-    .label = Զննարկման պատմութիւն
-    .value = Զննարկման պատմութիւն
-browser-data-ie-8 =
-    .label = Պահպանուել է պատմութիւնից
-    .value = Պահպանուել է պատմութիւնից
-browser-data-edge-8 =
-    .label = Պահպանուել է պատմութիւնից
-    .value = Պահպանուել է պատմութիւնից
-browser-data-safari-8 =
-    .label = Պահպանուել է պատմութիւնից
-    .value = Պահպանուել է պատմութիւնից
-browser-data-chrome-8 =
-    .label = Պահպանուել է պատմութիւնից
-    .value = Պահպանուել է պատմութիւնից
-browser-data-canary-8 =
-    .label = Պահպանուել է պատմութիւնից
-    .value = Պահպանուել է պատմութիւնից
-browser-data-firefox-8 =
-    .label = Պահպանուել է պատմութիւնից
-    .value = Պահպանուել է պատմութիւնից
-browser-data-360se-8 =
-    .label = Պահպանուել է պատմութիւնից
-    .value = Պահպանուել է պատմութիւնից
-browser-data-ie-16 =
-    .label = Պահպանուած գաղտնաբառերը
-    .value = Պահպանուած գաղտնաբառերը
-browser-data-edge-16 =
-    .label = Պահպանուած գաղտնաբառերը
-    .value = Պահպանուած գաղտնաբառերը
-browser-data-safari-16 =
-    .label = Պահպանուած գաղտնաբառերը
-    .value = Պահպանուած գաղտնաբառերը
-browser-data-chrome-16 =
-    .label = Պահպանուած գաղտնաբառերը
-    .value = Պահպանուած գաղտնաբառերը
-browser-data-canary-16 =
-    .label = Պահպանուած գաղտնաբառերը
-    .value = Պահպանուած գաղտնաբառերը
-browser-data-firefox-16 =
-    .label = Պահպանուած գաղտնաբառերը
-    .value = Պահպանուած գաղտնաբառերը
-browser-data-360se-16 =
-    .label = Պահպանուած գաղտնաբառերը
-    .value = Պահպանուած գաղտնաբառերը
-browser-data-ie-32 =
-    .label = Ընտրեալներ
-    .value = Ընտրեալներ
-browser-data-edge-32 =
-    .label = Ընտրեալներ
-    .value = Ընտրեալներ
-browser-data-safari-32 =
-    .label = Էջանիշեր
-    .value = Էջանիշեր
-browser-data-chrome-32 =
-    .label = Էջանիշեր
-    .value = Էջանիշեր
-browser-data-canary-32 =
-    .label = Էջանիշեր
-    .value = Էջանիշեր
-browser-data-360se-32 =
-    .label = Էջանիշեր
-    .value = Էջանիշեր
-browser-data-ie-64 =
-    .label = Այլ տուեալներ
-    .value = Այլ տուեալներ
-browser-data-edge-64 =
-    .label = Այլ տուեալներ
-    .value = Այլ տուեալներ
-browser-data-safari-64 =
-    .label = Այլ տուեալներ
-    .value = Այլ տուեալներ
-browser-data-chrome-64 =
-    .label = Այլ տուեալներ
-    .value = Այլ տուեալներ
-browser-data-canary-64 =
-    .label = Այլ տուեալներ
-    .value = Այլ տուեալներ
-browser-data-firefox-other-64 =
-    .label = Այլ տուեալներ
-    .value = Այլ տուեալներ
-browser-data-360se-64 =
-    .label = Այլ տուեալներ
-    .value = Այլ տուեալներ
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Պատուհաններ եւ ներդիրներ
+browser-data-session-label =
     .value = Պատուհաններ եւ ներդիրներ
