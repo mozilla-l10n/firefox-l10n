@@ -97,3 +97,7 @@ imported-edge-reading-list = รายการอ่าน (จาก Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = หน้าต่างและแท็บ
+browser-data-session-label =
+    .value = หน้าต่างและแท็บ
