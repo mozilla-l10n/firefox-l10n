@@ -64,3 +64,7 @@ imported-safari-reading-list = Akenkan liste (Efi Safari)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Ntokuro ne Ntab
+browser-data-session-label =
+    .value = Ntokuro ne Ntab
