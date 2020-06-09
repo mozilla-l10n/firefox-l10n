@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY folderProps.windowtitle.label "Egenskaber">
+<!ENTITY folderProps.windowtitle.label           "Egenskaber">
 
-<!ENTITY generalInfo.label "Generel information">
+<!ENTITY generalInfo.label                       "Generel information">
 <!ENTITY folderCharsetFallback2.label            "Standardtegnkodning:">
 <!ENTITY folderCharsetFallback2.accesskey        "S">
 <!ENTITY folderCharsetEnforce2.label             "Anvend som standard på alle meddelelser i denne mappe (individuelle tegnkodningsindstillinger og auto-opdagelse vil blive ignoreret)">
@@ -30,39 +30,40 @@
 <!ENTITY retentionKeepAll.accesskey "S">
 <!ENTITY retentionKeepRecent.label "Slet alle undtagen de seneste">
 <!ENTITY retentionKeepRecent.accesskey "a">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionApplyToFlagged.label "Behold altid stjernemarkerede meddelelser">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronisering">
-<!ENTITY folderCheckForNewMessages2.label "Kontroller denne mappe for nye meddelelser">
-<!ENTITY folderCheckForNewMessages2.accesskey "K">
+<!ENTITY folderCheckForNewMessages2.label         "Kontroller denne mappe for nye meddelelser">
+<!ENTITY folderCheckForNewMessages2.accesskey     "K">
 
-<!ENTITY offlineFolder.check.label "Vælg denne mappe til offline-brug">
-<!ENTITY offlineFolder.check.accesskey "æ">
-<!ENTITY offlineFolder.button.label "Hent nu">
-<!ENTITY offlineFolder.button.accesskey "u">
+<!ENTITY offlineFolder.check.label               "Vælg denne mappe til offline-brug">
+<!ENTITY offlineFolder.check.accesskey           "æ">
+<!ENTITY offlineFolder.button.label              "Hent nu">
+<!ENTITY offlineFolder.button.accesskey          "u">
 
-<!ENTITY selectofflineNewsgroup.check.label "Vælg denne nyhedsgruppe til offline-brug">
-<!ENTITY selectofflineNewsgroup.check.accesskey "V">
-<!ENTITY offlineNewsgroup.button.label "Hent nu">
-<!ENTITY offlineNewsgroup.button.accesskey "H">
+<!ENTITY selectofflineNewsgroup.check.label      "Vælg denne nyhedsgruppe til offline-brug">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "V">
+<!ENTITY offlineNewsgroup.button.label           "Hent nu">
+<!ENTITY offlineNewsgroup.button.accesskey       "H">
 
-<!ENTITY folderProps.name.label "Navn:">
-<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.name.label                  "Navn:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Gendan standardfarve">
 <!ENTITY folderProps.location.label              "Placering:">
 <!ENTITY folderProps.location.accesskey          "P">
 
-<!ENTITY folderSharingTab.label "Deling">
-<!ENTITY privileges.button.label "Rettigheder…">
-<!ENTITY privileges.button.accesskey "R">
-<!ENTITY permissionsDesc.label "Du har følgende tilladelser:">
-<!ENTITY folderType.label "Mappetype:">
+<!ENTITY folderSharingTab.label                  "Deling">
+<!ENTITY privileges.button.label                 "Rettigheder…">
+<!ENTITY privileges.button.accesskey             "R">
+<!ENTITY permissionsDesc.label                   "Du har følgende tilladelser:">
+<!ENTITY folderType.label                        "Mappetype:">
 
-<!ENTITY folderQuotaTab.label "Kvote">
-<!ENTITY folderQuotaRoot.label "Kvote-rod:">
-<!ENTITY folderQuotaUsage.label "Forbrug:">
-<!ENTITY folderQuotaStatus.label "Status:">
+<!ENTITY folderQuotaTab.label                    "Kvote">
+<!ENTITY folderQuotaRoot.label                   "Kvote-rod:">
+<!ENTITY folderQuotaUsage.label                  "Forbrug:">
+<!ENTITY folderQuotaStatus.label                 "Status:">
 
 <!ENTITY numberOfMessages.label                  "Antal meddelelser:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
