@@ -97,6 +97,26 @@ imported-edge-reading-list = Lista de leitura (do Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Histórico de navegação e favoritos
+           *[other] Histórico de navegação
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Histórico de navegação e favoritos
+           *[other] Histórico de navegação
+        }
+browser-data-formdata-checkbox =
+    .label = Histórico de formulários salvo
+browser-data-formdata-label =
+    .value = Histórico de formulários salvo
 browser-data-session-checkbox =
     .label = Janelas e abas
 browser-data-session-label =
