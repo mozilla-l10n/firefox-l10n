@@ -37,52 +37,16 @@ source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-firefox = Mozilla Firefox
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Diitlhophelwa tsa Inthanete
-    .value = Diitlhophelwa tsa Inthanete
-browser-data-edge-1 =
-    .label = Dithulaganyo
-    .value = Dithulaganyo
-browser-data-safari-1 =
-    .label = Diratwabogolo
-    .value = Diratwabogolo
-browser-data-ie-2 =
-    .label = Dikhoki
-    .value = Dikhoki
-browser-data-safari-2 =
-    .label = Dikhoki
-    .value = Dikhoki
-browser-data-ie-4 =
-    .label = Hisetori ya Patlo
-    .value = Hisetori ya Patlo
-browser-data-safari-4 =
-    .label = Hisetori ya Patlo
-    .value = Hisetori ya Patlo
-browser-data-ie-8 =
-    .label = Hisetori ya Foromo e e Bolokilweng
-    .value = Hisetori ya Foromo e e Bolokilweng
-browser-data-safari-8 =
-    .label = Hisetori ya Foromo e e Bolokilweng
-    .value = Hisetori ya Foromo e e Bolokilweng
-browser-data-ie-16 =
-    .label = Dikhunololamoraba tse di Bolokilweng
-    .value = Dikhunololamoraba tse di Bolokilweng
-browser-data-safari-16 =
-    .label = Dikhunololamoraba tse di Bolokilweng
-    .value = Dikhunololamoraba tse di Bolokilweng
-browser-data-safari-32 =
-    .label = Matshwaotsebe
-    .value = Matshwaotsebe
-browser-data-ie-64 =
-    .label = Tshedimosetso E Nngwe
-    .value = Tshedimosetso E Nngwe
-browser-data-safari-64 =
-    .label = Tshedimosetso E Nngwe
-    .value = Tshedimosetso E Nngwe
-browser-data-firefox-128 =
-    .label = Di window le Dithebe
-    .value = Di window le Dithebe
