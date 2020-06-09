@@ -51,40 +51,16 @@ source-name-chrome = गुगाल क्रोम
 source-name-firefox = मोजिला फायारफॉक्स
 imported-safari-reading-list = पाड़हाव सुची   (साफारीखोन)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = इनटारनेट आपनार मोने तेयाक्
-    .value = इनटारनेट आपनार मोने तेयाक्
-browser-data-safari-1 =
-    .label = कुसियाक् को
-    .value = कुसियाक् को
-browser-data-chrome-1 =
-    .label = कुसियाक् को
-    .value = कुसियाक् को
-browser-data-canary-1 =
-    .label = कुसियाक् को
-    .value = कुसियाक् को
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ब्राउजिंग हिता़ल आर पुथी चिनहा़ को
-    .value = ब्राउजिंग हिता़ल आर पुथी चिनहा़ को
-browser-data-ie-16 =
-    .label = दानाङ साबाद सांचावाकाना
-    .value = दानाङ साबाद सांचावाकाना
-browser-data-safari-16 =
-    .label = दानाङ साबाद सांचावाकाना
-    .value = दानाङ साबाद सांचावाकाना
-browser-data-chrome-16 =
-    .label = दानाङ साबाद सांचावाकाना
-    .value = दानाङ साबाद सांचावाकाना
-browser-data-canary-16 =
-    .label = दानाङ साबाद सांचावाकाना
-    .value = दानाङ साबाद सांचावाकाना
-browser-data-firefox-16 =
-    .label = दानाङ साबाद सांचावाकाना
-    .value = दानाङ साबाद सांचावाकाना
-browser-data-firefox-128 =
-    .label = विंडो आर टैब को
-    .value = विंडो आर टैब को
