@@ -90,3 +90,7 @@ imported-edge-reading-list = (எட்ஜ்லிருந்து) பட்
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = சாளரங்களும் கீற்றுகளும்
+browser-data-session-label =
+    .value = சாளரங்களும் கீற்றுகளும்
