@@ -116,6 +116,11 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Wěsty modus wopytaś
 restart-in-safe-mode-label = Ze znjemóžnjonymi dodankami znowego startowaś…
+clear-startup-cache-title = Wopytajśo startowy pufrowak wuprozniś
+clear-startup-cache-label = Startowy pufrowak wuprozniś…
+startup-cache-dialog-title = Startowy pufrowak wuprozniś
+startup-cache-dialog-body = Startujśo { -brand-short-name } znowego, aby startowy pufrowak wuproznił. To waše nastajenja njezměnijo abo rozšyrjenja njewótwónoźijo, kótarež sćo pśidał { -brand-short-name }.
+restart-button-label = Znowego startowaś
 
 ## Media titles
 

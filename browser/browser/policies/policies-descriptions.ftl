@@ -63,6 +63,7 @@ policy-ExtensionSettings = Wšykne aspekty instalacije rozšyrjenjow zastojaś.
 policy-ExtensionUpdate = Awtomatiske aktualizacije rozšyrjenjow zmóžniś abo znjemóžniś.
 policy-FirefoxHome = Firefox Home konfigurěrowaś.
 policy-FlashPlugin = Wužywanje tykaca Flash dowóliś abo zakazaś.
+policy-Handlers = Standardne nałožeńske pśeźěłaki konfigurěrowaś
 policy-HardwareAcceleration = Jolic njewěrno, hardwarowe póspěšenje znjemóžniś.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Startowy bok nastajiś a na žycenje zastajiś.
@@ -77,6 +78,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Zestarjone zaźaržanj
 ##
 
 policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótkazaś.
+policy-MasterPassword = Głowne gronidło pominaś abo jogo wužywanjeju zajźowaś
 policy-NetworkPrediction = Seśowe pśedzacytanje (DNS-pśedzacytanje) zmóžniś abo znjemóžniś.
 policy-NewTabPage = Bok nowego rejtarika zmóžniś abo znjemóžniś.
 policy-NoDefaultBookmarks = Napóranje standardnych cytańskich znamjenjow { -brand-short-name } znjemóžniś, a inteligentnych cytańskich znamjenjow (nejcesćej woglědane, tuchylne wobznamjenja). Glědajśo: Toś to pšawidło se jano wustatkujo, gaž jo pśed prědnym startom profila wužywaśo.
