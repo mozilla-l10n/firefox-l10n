@@ -97,3 +97,7 @@ imported-edge-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (Edge ਤੋਂ)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
+browser-data-session-label =
+    .value = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
