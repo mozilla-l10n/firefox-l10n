@@ -51,109 +51,16 @@ source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
 imported-safari-reading-list = Lîsteya xwendinê (Ji Safariyê)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Vebijêrkên Înternetê
-    .value = Vebijêrkên Înternetê
-browser-data-edge-1 =
-    .label = Eyar
-    .value = Eyar
-browser-data-safari-1 =
-    .label = Vebijêrk
-    .value = Vebijêrk
-browser-data-chrome-1 =
-    .label = Vebijark
-    .value = Vebijark
-browser-data-canary-1 =
-    .label = Vebijark
-    .value = Vebijark
-browser-data-ie-2 =
-    .label = Çerez
-    .value = Çerez
-browser-data-safari-2 =
-    .label = Çerez
-    .value = Çerez
-browser-data-chrome-2 =
-    .label = Çerez
-    .value = Çerez
-browser-data-canary-2 =
-    .label = Çerez
-    .value = Çerez
-browser-data-firefox-2 =
-    .label = Çerez
-    .value = Çerez
-browser-data-ie-4 =
-    .label = Mêjûya Gerê
-    .value = Mêjûya Gerê
-browser-data-safari-4 =
-    .label = Mêjûya Gerê
-    .value = Mêjûya Gerê
-browser-data-chrome-4 =
-    .label = Raboriya gerê
-    .value = Raboriya gerê
-browser-data-canary-4 =
-    .label = Raboriya gerê
-    .value = Raboriya gerê
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Raboriya gerê û bijare
-    .value = Raboriya gerê û bijare
-browser-data-ie-8 =
-    .label = Ji mêjûya gerokê hat tomarkirin
-    .value = Ji mêjûya gerokê hat tomarkirin
-browser-data-safari-8 =
-    .label = Ji mêjûya gerokê hat tomarkirin
-    .value = Ji mêjûya gerokê hat tomarkirin
-browser-data-chrome-8 =
-    .label = Raboriya formên tomarkirî
-    .value = Raboriya formên tomarkirî
-browser-data-canary-8 =
-    .label = Raboriya formên tomarkirî
-    .value = Raboriya formên tomarkirî
-browser-data-firefox-8 =
-    .label = Raboriya formên tomarkirî
-    .value = Raboriya formên tomarkirî
-browser-data-ie-16 =
-    .label = Şîfreyên Tomarbûyî
-    .value = Şîfreyên Tomarbûyî
-browser-data-safari-16 =
-    .label = Şîfreyên Tomarbûyî
-    .value = Şîfreyên Tomarbûyî
-browser-data-chrome-16 =
-    .label = Şîfreyên Tomarkirî
-    .value = Şîfreyên Tomarkirî
-browser-data-canary-16 =
-    .label = Şîfreyên Tomarkirî
-    .value = Şîfreyên Tomarkirî
-browser-data-firefox-16 =
-    .label = Şîfreyên Tomarkirî
-    .value = Şîfreyên Tomarkirî
-browser-data-safari-32 =
-    .label = Bijare
-    .value = Bijare
-browser-data-chrome-32 =
-    .label = Bijare
-    .value = Bijare
-browser-data-canary-32 =
-    .label = Bijare
-    .value = Bijare
-browser-data-ie-64 =
-    .label = Daneya din
-    .value = Daneya din
-browser-data-safari-64 =
-    .label = Daneya din
-    .value = Daneya din
-browser-data-chrome-64 =
-    .label = Daneyên din
-    .value = Daneyên din
-browser-data-canary-64 =
-    .label = Daneyên din
-    .value = Daneyên din
-browser-data-firefox-other-64 =
-    .label = Daneyên din
-    .value = Daneyên din
-browser-data-firefox-128 =
-    .label = Pencere û Hilpekîn
-    .value = Pencere û Hilpekîn
