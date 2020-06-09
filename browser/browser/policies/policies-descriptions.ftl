@@ -78,6 +78,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Återgå till föråld
 ##
 
 policy-LocalFileLinks = Tillåt specifika webbplatser att länka till lokala filer.
+policy-MasterPassword = Kräv eller förhindra användandet av ett huvudlösenord.
 policy-NetworkPrediction = Aktivera eller inaktivera nätverksprediktning (DNS-prefetch).
 policy-NewTabPage = Aktivera eller inaktivera sidan Ny flik.
 policy-NoDefaultBookmarks = Inaktivera skapandet av standardbokmärken som levereras med { -brand-short-name } och smarta bokmärken (Mest besökta, Senast använda etiketter). OBS: denna policy fungerar bara om den är inställd innan profilen används för första gången.

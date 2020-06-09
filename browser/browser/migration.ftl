@@ -101,6 +101,18 @@ browser-data-cookies-checkbox =
     .label = Kakor
 browser-data-cookies-label =
     .value = Kakor
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Webbläsarhistorik och Bokmärken
+           *[other] Webbläsarhistorik
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Webbläsarhistorik och Bokmärken
+           *[other] Webbläsarhistorik
+        }
 browser-data-formdata-checkbox =
     .label = Sparad formulärdata
 browser-data-formdata-label =
