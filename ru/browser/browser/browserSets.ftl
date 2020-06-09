@@ -95,7 +95,7 @@ picture-in-picture-toggle-shortcut =
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
-    .key = *
+    .key = ъ
 bookmark-this-page-shortcut =
     .key = d
 # Verify what shortcut for that operation
