@@ -69,151 +69,16 @@ source-name-360se = I-360 ibhrawuza ekhuselekileyo
 imported-safari-reading-list = Uludwe lokufunda (ukusuka kwiSafari)
 imported-edge-reading-list = Uludwe Lokufunda (ukusuka Ekupheleni)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Ekunokukhethwa Kuko Konxibelelwano
-    .value = Ekunokukhethwa Kuko Konxibelelwano
-browser-data-edge-1 =
-    .label = Imimiselo
-    .value = Imimiselo
-browser-data-safari-1 =
-    .label = Izikhethwa
-    .value = Izikhethwa
-browser-data-chrome-1 =
-    .label = Izikhethwa
-    .value = Izikhethwa
-browser-data-canary-1 =
-    .label = Izikhethwa
-    .value = Izikhethwa
-browser-data-360se-1 =
-    .label = Izikhethwa
-    .value = Izikhethwa
-browser-data-ie-2 =
-    .label = Ii-Cookies
-    .value = Ii-Cookies
-browser-data-edge-2 =
-    .label = Iikhuki
-    .value = Iikhuki
-browser-data-safari-2 =
-    .label = Ii-Cookies
-    .value = Ii-Cookies
-browser-data-chrome-2 =
-    .label = Iikhukhi
-    .value = Iikhukhi
-browser-data-canary-2 =
-    .label = Iikhukhi
-    .value = Iikhukhi
-browser-data-firefox-2 =
-    .label = Iikhukhi
-    .value = Iikhukhi
-browser-data-360se-2 =
-    .label = Ii-Cookies
-    .value = Ii-Cookies
-browser-data-ie-4 =
-    .label = Kukhangelwa Imbali
-    .value = Kukhangelwa Imbali
-browser-data-edge-4 =
-    .label = Kukhangelwa Imbali
-    .value = Kukhangelwa Imbali
-browser-data-safari-4 =
-    .label = Kukhangelwa Imbali
-    .value = Kukhangelwa Imbali
-browser-data-chrome-4 =
-    .label = Kukhangelwa Imbali
-    .value = Kukhangelwa Imbali
-browser-data-canary-4 =
-    .label = Kukhangelwa Imbali
-    .value = Kukhangelwa Imbali
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Ibhrawuza imbali neebhukhmakhi
-    .value = Ibhrawuza imbali neebhukhmakhi
-browser-data-360se-4 =
-    .label = Kukhangelwa Imbali
-    .value = Kukhangelwa Imbali
-browser-data-ie-8 =
-    .label = Imbali yefom egciniweyo
-    .value = Imbali yefom egciniweyo
-browser-data-edge-8 =
-    .label = Imbali Yefom Egciniweyo
-    .value = Imbali Yefom Egciniweyo
-browser-data-safari-8 =
-    .label = Imbali yefom egciniweyo
-    .value = Imbali yefom egciniweyo
-browser-data-chrome-8 =
-    .label = Imbali yefom egciniweyo
-    .value = Imbali yefom egciniweyo
-browser-data-canary-8 =
-    .label = Imbali yefom egciniweyo
-    .value = Imbali yefom egciniweyo
-browser-data-firefox-8 =
-    .label = Imbali yefom egciniweyo
-    .value = Imbali yefom egciniweyo
-browser-data-360se-8 =
-    .label = Imbali yefom egciniweyo
-    .value = Imbali yefom egciniweyo
-browser-data-ie-16 =
-    .label = Iipasiwedi ezigciniweyo
-    .value = Iipasiwedi ezigciniweyo
-browser-data-edge-16 =
-    .label = Iiphaswedi Ezigciniweyo
-    .value = Iiphaswedi Ezigciniweyo
-browser-data-safari-16 =
-    .label = Ipasiwedi ezigciniweyo
-    .value = Ipasiwedi ezigciniweyo
-browser-data-chrome-16 =
-    .label = Iipasiwedi ezigciniweyo
-    .value = Iipasiwedi ezigciniweyo
-browser-data-canary-16 =
-    .label = Iipasiwedi ezigciniweyo
-    .value = Iipasiwedi ezigciniweyo
-browser-data-firefox-16 =
-    .label = Iipasiwedi ezigciniweyo
-    .value = Iipasiwedi ezigciniweyo
-browser-data-360se-16 =
-    .label = Iipasiwedi ezigciniweyo
-    .value = Iipasiwedi ezigciniweyo
-browser-data-ie-32 =
-    .label = Okuthandwayo
-    .value = Okuthandwayo
-browser-data-edge-32 =
-    .label = Okuthandwayo
-    .value = Okuthandwayo
-browser-data-safari-32 =
-    .label = Izalathisi eziphawulayo
-    .value = Izalathisi eziphawulayo
-browser-data-chrome-32 =
-    .label = Iibhukhmakhi
-    .value = Iibhukhmakhi
-browser-data-canary-32 =
-    .label = Iibhukhmakhi
-    .value = Iibhukhmakhi
-browser-data-360se-32 =
-    .label = Iibhukhmakhi
-    .value = Iibhukhmakhi
-browser-data-ie-64 =
-    .label = Ezinye iingcombolo
-    .value = Ezinye iingcombolo
-browser-data-edge-64 =
-    .label = Ezinye Iingcombolo
-    .value = Ezinye Iingcombolo
-browser-data-safari-64 =
-    .label = Ezinye iingcombolo
-    .value = Ezinye iingcombolo
-browser-data-chrome-64 =
-    .label = Ezinye iingcombolo
-    .value = Ezinye iingcombolo
-browser-data-canary-64 =
-    .label = Ezinye iingcombolo
-    .value = Ezinye iingcombolo
-browser-data-firefox-other-64 =
-    .label = Ezinye iingcombolo
-    .value = Ezinye iingcombolo
-browser-data-360se-64 =
-    .label = Ezinye iingcombolo
-    .value = Ezinye iingcombolo
-browser-data-firefox-128 =
-    .label = I-Windows neethebhu
-    .value = I-Windows neethebhu
