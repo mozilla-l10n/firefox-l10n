@@ -51,109 +51,20 @@ source-name-chrome = गुगल क्रोम
 source-name-firefox = मॉझिला फायरफॉक्स
 imported-safari-reading-list = वळेरी वाचता (सफारीतल्यान)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = इंटरनेट पर्याय
-    .value = इंटरनेट पर्याय
-browser-data-edge-1 =
-    .label = स्थापितां
-    .value = स्थापितां
-browser-data-safari-1 =
-    .label = प्राधान्य
-    .value = प्राधान्य
-browser-data-chrome-1 =
-    .label = प्राधान्य
-    .value = प्राधान्य
-browser-data-canary-1 =
-    .label = प्राधान्य
-    .value = प्राधान्य
-browser-data-ie-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-safari-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-chrome-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-canary-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-firefox-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-ie-4 =
-    .label = ब्राऊझिंग इतिहास
-    .value = ब्राऊझिंग इतिहास
-browser-data-safari-4 =
-    .label = ब्राऊझिंग इतिहास
-    .value = ब्राऊझिंग इतिहास
-browser-data-chrome-4 =
-    .label = ब्राऊझिंग इतिहास
-    .value = ब्राऊझिंग इतिहास
-browser-data-canary-4 =
-    .label = ब्राऊझिंग इतिहास
-    .value = ब्राऊझिंग इतिहास
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ब्रावजिंग इतिहास आणि बुकमार्कस्
-    .value = ब्रावजिंग इतिहास आणि बुकमार्कस्
-browser-data-ie-8 =
-    .label = इतिहासातल्यान जतनाय केल्ले
-    .value = इतिहासातल्यान जतनाय केल्ले
-browser-data-safari-8 =
-    .label = इतिहासातल्यान जतनाय केल्ले
-    .value = इतिहासातल्यान जतनाय केल्ले
-browser-data-chrome-8 =
-    .label = इतिहासातल्यान जतनाय केल्ले
-    .value = इतिहासातल्यान जतनाय केल्ले
-browser-data-canary-8 =
-    .label = इतिहासातल्यान जतनाय केल्ले
-    .value = इतिहासातल्यान जतनाय केल्ले
-browser-data-firefox-8 =
-    .label = इतिहासातल्यान जतनाय केल्ले
-    .value = इतिहासातल्यान जतनाय केल्ले
-browser-data-ie-16 =
-    .label = सांबाळिल्ले पासवर्ड
-    .value = सांबाळिल्ले पासवर्ड
-browser-data-safari-16 =
-    .label = सांबाळिल्ले पासवर्ड
-    .value = सांबाळिल्ले पासवर्ड
-browser-data-chrome-16 =
-    .label = सांबाळिल्ले पासवर्ड
-    .value = सांबाळिल्ले पासवर्ड
-browser-data-canary-16 =
-    .label = सांबाळिल्ले पासवर्ड
-    .value = सांबाळिल्ले पासवर्ड
-browser-data-firefox-16 =
-    .label = सांबाळिल्ले पासवर्ड
-    .value = सांबाळिल्ले पासवर्ड
-browser-data-safari-32 =
-    .label = बुकमार्क
-    .value = बुकमार्क
-browser-data-chrome-32 =
-    .label = बुकमार्क
-    .value = बुकमार्क
-browser-data-canary-32 =
-    .label = बुकमार्क
-    .value = बुकमार्क
-browser-data-ie-64 =
-    .label = हेर म्हायती
-    .value = हेर म्हायती
-browser-data-safari-64 =
-    .label = हेर म्हायती
-    .value = हेर म्हायती
-browser-data-chrome-64 =
-    .label = हेर म्हायती
-    .value = हेर म्हायती
-browser-data-canary-64 =
-    .label = हेर म्हायती
-    .value = हेर म्हायती
-browser-data-firefox-other-64 =
-    .label = हेर म्हायती
-    .value = हेर म्हायती
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = विंडोज आनि टॅबां
+browser-data-session-label =
     .value = विंडोज आनि टॅबां
