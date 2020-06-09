@@ -97,3 +97,7 @@ imported-edge-reading-list = Leseliste (frå Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Vindauge og faner
+browser-data-session-label =
+    .value = Vindauge og faner
