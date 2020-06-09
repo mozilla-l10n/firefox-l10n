@@ -50,3 +50,7 @@ source-name-firefox = Mozilla Firefox
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Di window le Dithebe
+browser-data-session-label =
+    .value = Di window le Dithebe
