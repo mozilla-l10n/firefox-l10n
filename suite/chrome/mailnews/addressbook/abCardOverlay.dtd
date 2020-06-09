@@ -28,8 +28,54 @@
 
 
 
+<!ENTITY CellularNumber.label           "Mobilnik:">
+<!ENTITY CellularNumber.accesskey       "M">
+
+<!ENTITY HomeCity.label                 "Mesto:">
+<!ENTITY HomeZipCode.label              "Poštna številka:">
+<!ENTITY HomeZipCode.accesskey          "š">
+<!ENTITY HomeCountry.label              "Država:">
+<!ENTITY HomeCountry.accesskey          "D">
+<!ENTITY Birthday.label                 "Datum rojstva:">
+<!ENTITY Birthday.accesskey             "r">
+
+<!ENTITY JobTitle.label                 "Naziv:">
+<!ENTITY JobTitle.accesskey             "z">
+<!ENTITY Department.label               "Oddelek:">
+<!ENTITY Department.accesskey           "l">
+<!ENTITY Company.label                  "Organizacija:">
+<!ENTITY Company.accesskey              "c">
+<!ENTITY WorkAddress.label              "Naslov:">
+<!ENTITY WorkAddress.accesskey          "N">
+<!ENTITY WorkCity.label                 "Mesto:">
+<!ENTITY WorkCity.accesskey             "M">
+<!ENTITY WorkZipCode.label              "Poštna številka:">
+<!ENTITY WorkZipCode.accesskey          "š">
+<!ENTITY WorkCountry.label              "Država:">
+<!ENTITY WorkCountry.accesskey          "D">
 
 
+<!ENTITY Chat.tab                       "Klepet">
+<!ENTITY Chat.accesskey                 "K">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "A">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
 
-
-
+<!ENTITY PhotoFile.label                "Na tem računalniku">
+<!ENTITY PhotoFile.accesskey            "r">
+<!ENTITY BrowsePhoto.label              "Prebrskaj">
+<!ENTITY BrowsePhoto.accesskey          "b">
+<!ENTITY PhotoURL.label                 "Na spletu">
+<!ENTITY PhotoURL.accesskey             "s">
+<!ENTITY PhotoURL.placeholder           "Prilepite ali vtipkajte spletni naslov fotografije">
