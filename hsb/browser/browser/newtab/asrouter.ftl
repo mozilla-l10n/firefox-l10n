@@ -241,7 +241,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
 
 ## Protections Dashboard message
 
-cfr-whatsnew-protections-header = Škity na jedne pohlednjenje
+cfr-whatsnew-protections-header = Škity na jedne pohladnjenje
 cfr-whatsnew-protections-cta-link = Přehlad škitow pokazać
 cfr-whatsnew-protections-icon-alt = Tarčowy symbol
 
