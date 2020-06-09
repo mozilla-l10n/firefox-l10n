@@ -90,7 +90,7 @@ options-context-advanced-settings = Ñemoĩporã opapotáva
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Kache HTTP ñemonge (tembipuru ryru ijuruja jave)
 options-disable-http-cache-tooltip =
-    .title = Emyandývo ko porãvopyrã oipe'áta kache HTTP opavave tenda’i ombojurujáva tembipuru renda. Mba’apoharakuérape ndohupytýi ko tembiapo hesegua.
+    .title = Emyandývo ko porãvopyrã oipe’áta kache HTTP opavave tenda’i ombojurujáva tembipuru renda. Mba’apoharakuérape ndohupytýi ko tembiapo hesegua.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript * monge
 options-disable-javascript-tooltip =

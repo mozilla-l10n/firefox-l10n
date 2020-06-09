@@ -24,7 +24,7 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Jerohoryvéva">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-<!ENTITY projectMenu_manageComponents_label "Mbohetapy rape'apo ñangareko">
+<!ENTITY projectMenu_manageComponents_label "Mbohetapy rape’apo ñangareko">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "Tendayke myenyhẽjey">
 
@@ -101,7 +101,7 @@
 <!ENTITY deck_close "Mboty">
 
 <!-- Addons -->
-<!ENTITY addons_title "Mbohetapy rape'apo">
+<!ENTITY addons_title "Mbohetapy rape’apo">
 <!ENTITY addons_aboutaddons "Eike moĩmbaha ñangarekohápe">
 
 <!-- Prefs -->
@@ -109,7 +109,7 @@
 <!ENTITY prefs_editor_title "Mbosako'iha">
 <!ENTITY prefs_general_title "Tuichakue">
 <!ENTITY prefs_restore "Embojevy heko ypykuépe">
-<!ENTITY prefs_manage_components "Mbohetapy rape'apo ñangareko">
+<!ENTITY prefs_manage_components "Mbohetapy rape’apo ñangareko">
 <!ENTITY prefs_options_autoconnectruntime "Eikejey ñemongu’e mboyvegua aravópe">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Eikejey ñemongu’e mboyvegua aravópe oñepyrũvo WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Eñemomandu'a apopyrã paháre">

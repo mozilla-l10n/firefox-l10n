@@ -59,7 +59,7 @@
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
-<!ENTITY cmd.chooseOpen.label             "Eike térã eipe'a Marandurenda">
+<!ENTITY cmd.chooseOpen.label             "Eike térã eipe’a Marandurenda">
 
 <!-- LOCALIZATION NOTE (showMoreInformation.label):
      Displayed when hovering a blocked download, indicates that it's possible to

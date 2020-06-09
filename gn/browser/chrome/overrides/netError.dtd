@@ -95,7 +95,10 @@
 
 <!ENTITY redirectLoop.title "Ko kuatiarogue ndoguerahajeýi hekoitépe">
 
-<!ENTITY redirectLoop.longDesc "<ul> <li>Ko apañuãi oikokuaa reipe'a térã neremoneĩriramo kookie ñeg̃uahẽ.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul>
+  <li>Ko apañuãi oikokuaa reipe’a térã neremoneĩriramo
+    kookie ñeg̃uahẽ.</li>
+</ul>">
 
 <!ENTITY unknownSocketType.title "Mbohovái eha'ãrõ'ỹva mohendahavusúgui">
 

@@ -310,7 +310,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchBookmarks.label              "Techaukaha jeheka">
 <!ENTITY bookmarkingTools.label             "Techaukaha Rembipuru">
 <!ENTITY addBookmarksMenu.label             "Embojoapy Techaukaharysýi Tembipuru rendápe">
-<!ENTITY removeBookmarksMenu.label          "Eipe'a Techaukaharysýi Tembipuru rendágui">
+<!ENTITY removeBookmarksMenu.label          "Eipe’a Techaukaharysýi Tembipuru rendágui">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -469,7 +469,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Pin poravorã hembypáva pegua">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Eipe'a poravorã hembypáva">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Eipe’a poravorã hembypáva">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Tembipuru rendágui mboguete">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
@@ -986,14 +986,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Ne Tendayke Pyahu iñambuékuri.">
 <!ENTITY newTabControlled.keepButton.label "Topyta Ñemoambue">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.disableButton.label "Eipe'aite jepysokue">
+<!ENTITY newTabControlled.disableButton.label "Eipe’aite jepysokue">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Peteĩ jepysokue omoambue ojehecháva nde kuatiarogue ñepyrũramo. Ikatu ombojevy iñemboheko ndereipotáirõ iñambue.">
 <!ENTITY homepageControlled.header.message "Emoambue nde kuatiarogue ñepyrũ.">
 <!ENTITY homepageControlled.keepButton.label "Eguerekóke moambuepyre">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "Eipe'aite jepysokue">
+<!ENTITY homepageControlled.disableButton.label "Eipe’aite jepysokue">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.header.message "Eike ne rendayke kañýme">
