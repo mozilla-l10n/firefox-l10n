@@ -51,106 +51,16 @@ source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
 imported-safari-reading-list = Ааҕыы тиһигэ (мантан - Safari)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Интэриниэт туруоруулара
-    .value = Интэриниэт туруоруулара
-browser-data-edge-1 =
-    .label = Туруоруулар
-    .value = Туруоруулар
-browser-data-safari-1 =
-    .label = Туруоруулар
-    .value = Туруоруулар
-browser-data-chrome-1 =
-    .label = Туруоруулар
-    .value = Туруоруулар
-browser-data-canary-1 =
-    .label = Туруоруулар
-    .value = Туруоруулар
-browser-data-ie-2 =
-    .label = Куукалар
-    .value = Куукалар
-browser-data-safari-2 =
-    .label = Куукалар
-    .value = Куукалар
-browser-data-chrome-2 =
-    .label = Куукалар
-    .value = Куукалар
-browser-data-canary-2 =
-    .label = Куукалар
-    .value = Куукалар
-browser-data-firefox-2 =
-    .label = Куукалар
-    .value = Куукалар
-browser-data-ie-4 =
-    .label = Көрүү сурунаала
-    .value = Көрүү сурунаала
-browser-data-safari-4 =
-    .label = Көрүү сурунаала
-    .value = Көрүү сурунаала
-browser-data-chrome-4 =
-    .label = Көрүү сурунаала
-    .value = Көрүү сурунаала
-browser-data-canary-4 =
-    .label = Көрүү сурунаала
-    .value = Көрүү сурунаала
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Көрүү сурунаала уонна кыбытык-бэлиэлэр
-    .value = Көрүү сурунаала уонна кыбытык-бэлиэлэр
-browser-data-ie-8 =
-    .label = Долоҕойго угуллубут формалар сурунааллара
-    .value = Долоҕойго угуллубут формалар сурунааллара
-browser-data-safari-8 =
-    .label = Долоҕойго угуллубут формалар сурунааллара
-    .value = Долоҕойго угуллубут формалар сурунааллара
-browser-data-chrome-8 =
-    .label = Долоҕойго угуллубут формалар сурунааллара
-    .value = Долоҕойго угуллубут формалар сурунааллара
-browser-data-canary-8 =
-    .label = Долоҕойго угуллубут формалар сурунааллара
-    .value = Долоҕойго угуллубут формалар сурунааллара
-browser-data-firefox-8 =
-    .label = Долоҕойго угуллубут формалар сурунааллара
-    .value = Долоҕойго угуллубут формалар сурунааллара
-browser-data-ie-16 =
-    .label = Долоҕойго угуллубут киирии тыллар
-    .value = Долоҕойго угуллубут киирии тыллар
-browser-data-safari-16 =
-    .label = Долоҕойго угуллубут киирии тыллар
-    .value = Долоҕойго угуллубут киирии тыллар
-browser-data-chrome-16 =
-    .label = Долоҕойго угуллубут киирии тыллар
-    .value = Долоҕойго угуллубут киирии тыллар
-browser-data-canary-16 =
-    .label = Долоҕойго угуллубут киирии тыллар
-    .value = Долоҕойго угуллубут киирии тыллар
-browser-data-firefox-16 =
-    .label = Долоҕойго угуллубут киирии тыллар
-    .value = Долоҕойго угуллубут киирии тыллар
-browser-data-safari-32 =
-    .label = Кыбытык-бэлиэлэр
-    .value = Кыбытык-бэлиэлэр
-browser-data-chrome-32 =
-    .label = Кыбытык-бэлиэлэр
-    .value = Кыбытык-бэлиэлэр
-browser-data-canary-32 =
-    .label = Кыбытык-бэлиэлэр
-    .value = Кыбытык-бэлиэлэр
-browser-data-ie-64 =
-    .label = Атын дааннайдар
-    .value = Атын дааннайдар
-browser-data-safari-64 =
-    .label = Атын дааннайдар
-    .value = Атын дааннайдар
-browser-data-chrome-64 =
-    .label = Атын дааннайдар
-    .value = Атын дааннайдар
-browser-data-canary-64 =
-    .label = Атын дааннайдар
-    .value = Атын дааннайдар
-browser-data-firefox-128 =
-    .label = Түннүктэр уонна кыбытыктар
-    .value = Түннүктэр уонна кыбытыктар
