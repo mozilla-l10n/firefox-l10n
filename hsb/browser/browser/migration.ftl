@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Čitanska lisćina (ze Safari)
 imported-edge-reading-list = Čitanska lisćina (z Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internetne nastajenja
-    .value = Internetne nastajenja
-browser-data-edge-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-safari-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-chrome-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-canary-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-360se-1 =
-    .label = Nastajenja
-    .value = Nastajenja
-browser-data-ie-2 =
-    .label = Placki
-    .value = Placki
-browser-data-edge-2 =
-    .label = Placki
-    .value = Placki
-browser-data-safari-2 =
-    .label = Placki
-    .value = Placki
-browser-data-chrome-2 =
-    .label = Placki
-    .value = Placki
-browser-data-canary-2 =
-    .label = Placki
-    .value = Placki
-browser-data-firefox-2 =
-    .label = Placki
-    .value = Placki
-browser-data-360se-2 =
-    .label = Placki
-    .value = Placki
-browser-data-ie-4 =
-    .label = Historija
-    .value = Historija
-browser-data-edge-4 =
-    .label = Přehladowanska historija
-    .value = Přehladowanska historija
-browser-data-safari-4 =
-    .label = Historija
-    .value = Historija
-browser-data-chrome-4 =
-    .label = Historija
-    .value = Historija
-browser-data-canary-4 =
-    .label = Historija
-    .value = Historija
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Historija a zapołožki
-    .value = Historija a zapołožki
-browser-data-360se-4 =
-    .label = Přehladowanska historija
-    .value = Přehladowanska historija
-browser-data-ie-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-edge-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-safari-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-chrome-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-canary-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-firefox-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-360se-8 =
-    .label = Składowana formularna historija
-    .value = Składowana formularna historija
-browser-data-ie-16 =
-    .label = Składowane hesła
-    .value = Składowane hesła
-browser-data-edge-16 =
-    .label = Składowane hesła
-    .value = Składowane hesła
-browser-data-safari-16 =
-    .label = Składowane hesła
-    .value = Składowane hesła
-browser-data-chrome-16 =
-    .label = Składowane hesła
-    .value = Składowane hesła
-browser-data-canary-16 =
-    .label = Składowane hesła
-    .value = Składowane hesła
-browser-data-firefox-16 =
-    .label = Składowane hesła
-    .value = Składowane hesła
-browser-data-360se-16 =
-    .label = Składowane hesła
-    .value = Składowane hesła
-browser-data-ie-32 =
-    .label = Fawority
-    .value = Fawority
-browser-data-edge-32 =
-    .label = Fawority
-    .value = Fawority
-browser-data-safari-32 =
-    .label = Zapołožki
-    .value = Zapołožki
-browser-data-chrome-32 =
-    .label = Zapołožki
-    .value = Zapołožki
-browser-data-canary-32 =
-    .label = Zapołožki
-    .value = Zapołožki
-browser-data-360se-32 =
-    .label = Zapołožki
-    .value = Zapołožki
-browser-data-ie-64 =
-    .label = Druhe daty
-    .value = Druhe daty
-browser-data-edge-64 =
-    .label = Druhe daty
-    .value = Druhe daty
-browser-data-safari-64 =
-    .label = Druhe daty
-    .value = Druhe daty
-browser-data-chrome-64 =
-    .label = Druhe daty
-    .value = Druhe daty
-browser-data-canary-64 =
-    .label = Druhe daty
-    .value = Druhe daty
-browser-data-firefox-other-64 =
-    .label = Druhe daty
-    .value = Druhe daty
-browser-data-360se-64 =
-    .label = Druhe daty
-    .value = Druhe daty
-browser-data-firefox-128 =
-    .label = Wokna a rajtarki
-    .value = Wokna a rajtarki
