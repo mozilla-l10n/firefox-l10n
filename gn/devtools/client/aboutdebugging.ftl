@@ -29,11 +29,11 @@ about-debugging-sidebar-setup =
 about-debugging-sidebar-usb-enabled = USB jurujapyre
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
-about-debugging-sidebar-usb-disabled = USB pe'apyre
+about-debugging-sidebar-usb-disabled = USB pe’apyre
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Jeikepyre
 # Connection status (disconnected) for runtime items in the sidebar
-aboutdebugging-sidebar-runtime-connection-status-disconnected = Pe'apyre
+aboutdebugging-sidebar-runtime-connection-status-disconnected = Pe’apyre
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = Ndojejuhúi mba’e’oka.
 # Text displayed in buttons found in sidebar items representing remote runtimes.
@@ -102,7 +102,7 @@ about-debugging-setup-usb-disable-button = Eipe’a USB mba’e’oka
 about-debugging-setup-usb-updating-button = Hekopyahuhína...
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = Jurujapyre
-about-debugging-setup-usb-status-disabled = Pe'apyre
+about-debugging-setup-usb-status-disabled = Pe’apyre
 about-debugging-setup-usb-status-updating = Hekopyahuhína...
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Emyandy mboguatahára poravoha ne Android mba’e’okápe.
@@ -208,7 +208,7 @@ about-debugging-runtime-disconnect-button = Ñesẽte
 about-debugging-connection-prompt-enable-button = Embojuruja jeikeha rechaha
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
-about-debugging-connection-prompt-disable-button = Eipe'a jeikeha rechaha
+about-debugging-connection-prompt-disable-button = Eipe’a jeikeha rechaha
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Ñemyatyrõha
 # Clicking on the header of a debug target category will expand or collapse the debug
