@@ -190,16 +190,11 @@ minimize-to-tray-label =
 
 new-message-arrival = Cuando lleguen mensajes nuevos:
 mail-play-sound-label =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Reproducir el siguiente archivo de sonido:
            *[other] Reproducir un sonido
         }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] h
-           *[other] o
-        }
+    .accesskey = o
 mail-play-button =
     .label = Reproducir
     .accesskey = r
@@ -222,12 +217,15 @@ tray-icon-label =
     .label = Mostrar un icono en la bandeja
     .accesskey = a
 
+mail-system-sound-label =
+    .label = Sonido del sistema predeterminado para correo nuevo
+    .accesskey = S
 mail-custom-sound-label =
     .label = Usar el siguiente archivo de sonido
     .accesskey = U
 mail-browse-sound-button =
     .label = Examinar…
-    .accesskey = E
+    .accesskey = x
 
 enable-gloda-search-label =
     .label = Activar indexador y búsqueda global
@@ -267,8 +265,7 @@ check-default-button =
 
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
-search-engine-name =
-    { PLATFORM() ->
+search-engine-name = { PLATFORM() ->
         [macos] Spotlight
         [windows] Windows Search
        *[other] { "" }
@@ -336,7 +333,6 @@ compact-folder-size =
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
-
 use-cache-before =
     .value = Usar hasta
     .accesskey = U
@@ -424,13 +420,11 @@ save-to-label =
     .accesskey = G
 
 choose-folder-label =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Elegir…
            *[other] Examinar…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] E
            *[other] x
         }
@@ -464,7 +458,6 @@ mark-read-no-delay =
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
-
 mark-read-delay =
     .label = Tras mostrarlo durante
     .accesskey = d
@@ -517,7 +510,6 @@ extension-label =
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
-
 auto-save-label =
     .label = Guardar automáticamente cada
     .accesskey = G
@@ -821,13 +813,11 @@ notification-empty =
     .label = sin ninguna información
 
 notification-type-label =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Animar icono del dock
            *[other] Hacer parpadear el elemento de la barra de tareas
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] d
            *[other] H
         }
@@ -879,4 +869,29 @@ chat-header-label =
     .label = Mostrar encabezado
     .accesskey = z
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder = { PLATFORM() ->
+        [windows] Encontrar en Opciones
+        *[other] Encontrar en Preferencias
+    }
+
 ## Preferences UI Search Results
+
+search-results-header = Resultados de la búsqueda
+
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message = { PLATFORM() ->
+    [windows] ¡Lo sentimos! No hay resultados en Opciones para “<span data-l10n-name="query"></span>”.
+    *[other] ¡Lo sentimos! No hay resultados en Preferencias para “<span data-l10n-name="query"></span>”.
+}
+
+search-results-help-link = ¿Necesita ayuda? Visite la ayuda de <a data-l10n-name="url">{ -brand-short-name }</a>
