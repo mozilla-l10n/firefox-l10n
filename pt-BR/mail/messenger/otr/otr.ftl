@@ -27,4 +27,40 @@ msgevent-rcvdmsg_unreadable = Você recebeu uma mensagem criptografada ilegível
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_malformed = Você recebeu uma mensagem de dados malformada de { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Ocorreu um erro inesperado ao tentar proteger sua conversa usando OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = A seguinte mensagem recebida de { $name } não foi criptografada: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Você recebeu uma mensagem OTR não reconhecida de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } enviou uma mensagem destinada a uma sessão diferente. Se você estiver conectado várias vezes, outra sessão pode ter recebido a mensagem.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Começou a conversa privativa com { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Começou a conversa criptografada, mas não verificada, com { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Restaurou com sucesso a conversa criptografada com { $name }.
 error-enc = Ocorreu um erro ao criptografar a mensagem.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Você enviou dados criptografados para { $name }, que não os estava esperando.
+error-unreadable = Você transmitiu uma mensagem criptografada ilegível.
+error-malformed = Você transmitiu uma mensagem de dados malformada.
+resent = [reenviar]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } encerrou a conversa criptografada. Você deve fazer o mesmo.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } solicitou uma conversa criptografada sem registro (OTR). No entanto, você não tem um plugin para suportar isso. Consulte mais informações em https://pt.wikipedia.org/wiki/Off-the-Record_Messaging.
