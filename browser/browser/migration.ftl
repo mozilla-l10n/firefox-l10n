@@ -77,151 +77,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Nana Tara Doggol (Iwde e Safari)
 imported-edge-reading-list = Doggol Tarol (Iwde e Safari)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Cuɓe Enternet
-    .value = Cuɓe Enternet
-browser-data-edge-1 =
-    .label = Teelte
-    .value = Teelte
-browser-data-safari-1 =
-    .label = Cuɓoraaɗe
-    .value = Cuɓoraaɗe
-browser-data-chrome-1 =
-    .label = Cuɓoraaɗe
-    .value = Cuɓoraaɗe
-browser-data-canary-1 =
-    .label = Cuɓoraaɗe
-    .value = Cuɓoraaɗe
-browser-data-360se-1 =
-    .label = Cuɓoraaɗe
-    .value = Cuɓoraaɗe
-browser-data-ie-2 =
-    .label = Kukiije
-    .value = Kukiije
-browser-data-edge-2 =
-    .label = Kukiije
-    .value = Kukiije
-browser-data-safari-2 =
-    .label = Kukiije
-    .value = Kukiije
-browser-data-chrome-2 =
-    .label = Kukiije
-    .value = Kukiije
-browser-data-canary-2 =
-    .label = Kukiije
-    .value = Kukiije
-browser-data-firefox-2 =
-    .label = Kukiije
-    .value = Kukiije
-browser-data-360se-2 =
-    .label = Kukiije
-    .value = Kukiije
-browser-data-ie-4 =
-    .label = Aslol Peeragol
-    .value = Aslol Peeragol
-browser-data-edge-4 =
-    .label = Aslol Peeragol
-    .value = Aslol Peeragol
-browser-data-safari-4 =
-    .label = Aslol Peeragol
-    .value = Aslol Peeragol
-browser-data-chrome-4 =
-    .label = Aslol Peeragol
-    .value = Aslol Peeragol
-browser-data-canary-4 =
-    .label = Aslol Peeragol
-    .value = Aslol Peeragol
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Peeragol nder Aslol e Maantore
-    .value = Peeragol nder Aslol e Maantore
-browser-data-360se-4 =
-    .label = Aslol Peeragol
-    .value = Aslol Peeragol
-browser-data-ie-8 =
-    .label = Danndaama iwde e Aslol
-    .value = Danndaama iwde e Aslol
-browser-data-edge-8 =
-    .label = Ko danndaa e Aslol
-    .value = Ko danndaa e Aslol
-browser-data-safari-8 =
-    .label = Danndaama iwde e Aslol
-    .value = Danndaama iwde e Aslol
-browser-data-chrome-8 =
-    .label = Danndaama iwde e Aslol
-    .value = Danndaama iwde e Aslol
-browser-data-canary-8 =
-    .label = Danndaama iwde e Aslol
-    .value = Danndaama iwde e Aslol
-browser-data-firefox-8 =
-    .label = Danndaama iwde e Aslol
-    .value = Danndaama iwde e Aslol
-browser-data-360se-8 =
-    .label = Danndaama iwde e Aslol
-    .value = Danndaama iwde e Aslol
-browser-data-ie-16 =
-    .label = Finndeeji Danndaaɗi
-    .value = Finndeeji Danndaaɗi
-browser-data-edge-16 =
-    .label = Finndeeji Danndaaɗi
-    .value = Finndeeji Danndaaɗi
-browser-data-safari-16 =
-    .label = Finndeeji Danndaaɗi
-    .value = Finndeeji Danndaaɗi
-browser-data-chrome-16 =
-    .label = Finndeeji Danndaaɗi
-    .value = Finndeeji Danndaaɗi
-browser-data-canary-16 =
-    .label = Finndeeji Danndaaɗi
-    .value = Finndeeji Danndaaɗi
-browser-data-firefox-16 =
-    .label = Finndeeji Danndaaɗi
-    .value = Finndeeji Danndaaɗi
-browser-data-360se-16 =
-    .label = Finndeeji Danndaaɗi
-    .value = Finndeeji Danndaaɗi
-browser-data-ie-32 =
-    .label = Cuɓaɗe
-    .value = Cuɓaɗe
-browser-data-edge-32 =
-    .label = Cuɓaɗe
-    .value = Cuɓaɗe
-browser-data-safari-32 =
-    .label = Maantore
-    .value = Maantore
-browser-data-chrome-32 =
-    .label = Maantore
-    .value = Maantore
-browser-data-canary-32 =
-    .label = Maantore
-    .value = Maantore
-browser-data-360se-32 =
-    .label = Maantore
-    .value = Maantore
-browser-data-ie-64 =
-    .label = Keɓe Goɗɗe
-    .value = Keɓe Goɗɗe
-browser-data-edge-64 =
-    .label = Keɓe Goɗɗe
-    .value = Keɓe Goɗɗe
-browser-data-safari-64 =
-    .label = Keɓe Goɗɗe
-    .value = Keɓe Goɗɗe
-browser-data-chrome-64 =
-    .label = Keɓe Goɗɗe
-    .value = Keɓe Goɗɗe
-browser-data-canary-64 =
-    .label = Keɓe Goɗɗe
-    .value = Keɓe Goɗɗe
-browser-data-firefox-other-64 =
-    .label = Keɓe Goɗɗe
-    .value = Keɓe Goɗɗe
-browser-data-360se-64 =
-    .label = Keɓe Goɗɗe
-    .value = Keɓe Goɗɗe
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Kenorɗe e Tabbe
+browser-data-session-label =
     .value = Kenorɗe e Tabbe
