@@ -43,97 +43,16 @@ source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-edge-1 =
-    .label = Nachu’un-nákeii
-    .value = Nachu’un-nákeii
-browser-data-safari-1 =
-    .label = Preferencias
-    .value = Preferencias
-browser-data-chrome-1 =
-    .label = Preferencias
-    .value = Preferencias
-browser-data-canary-1 =
-    .label = Preferencias
-    .value = Preferencias
-browser-data-360se-1 =
-    .label = Preferencias
-    .value = Preferencias
-browser-data-ie-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-edge-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-safari-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-chrome-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-canary-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-firefox-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-360se-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-ie-4 =
-    .label = Sɨ´ɨ nnánukunu
-    .value = Sɨ´ɨ nnánukunu
-browser-data-edge-4 =
-    .label = Sɨ´ɨ nnánukunu
-    .value = Sɨ´ɨ nnánukunu
-browser-data-safari-4 =
-    .label = Sɨ´ɨ nnánukunu
-    .value = Sɨ´ɨ nnánukunu
-browser-data-chrome-4 =
-    .label = Sɨ´ɨ nnánukunu
-    .value = Sɨ´ɨ nnánukunu
-browser-data-canary-4 =
-    .label = Sɨ´ɨ nnánukunu
-    .value = Sɨ´ɨ nnánukunu
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Sɨ´ɨ nnánukunu ji a ta´an ini noo´o
-    .value = Sɨ´ɨ nnánukunu ji a ta´an ini noo´o
-browser-data-360se-4 =
-    .label = Sɨ´ɨ nnánukunu
-    .value = Sɨ´ɨ nnánukunu
-browser-data-safari-32 =
-    .label = A ta´a ini noo´o
-    .value = A ta´a ini noo´o
-browser-data-chrome-32 =
-    .label = A ta´a ini noo´o
-    .value = A ta´a ini noo´o
-browser-data-canary-32 =
-    .label = A ta´a ini noo´o
-    .value = A ta´a ini noo´o
-browser-data-360se-32 =
-    .label = A ta´a ini noo´o
-    .value = A ta´a ini noo´o
-browser-data-ie-64 =
-    .label = Inka datos
-    .value = Inka datos
-browser-data-edge-64 =
-    .label = Inka datos
-    .value = Inka datos
-browser-data-safari-64 =
-    .label = Inka datos
-    .value = Inka datos
-browser-data-chrome-64 =
-    .label = Inka datos
-    .value = Inka datos
-browser-data-canary-64 =
-    .label = Inka datos
-    .value = Inka datos
-browser-data-firefox-other-64 =
-    .label = Inka datos
-    .value = Inka datos
-browser-data-360se-64 =
-    .label = Inka datos
-    .value = Inka datos
