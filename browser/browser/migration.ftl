@@ -84,151 +84,16 @@ source-name-360se = 360 қауіпсіз браузері
 imported-safari-reading-list = Оқу тізімі (Safari ішінен)
 imported-edge-reading-list = Оқу тізімі (Edge ішінен)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Интернет баптаулары
-    .value = Интернет баптаулары
-browser-data-edge-1 =
-    .label = Баптаулар
-    .value = Баптаулар
-browser-data-safari-1 =
-    .label = Баптаулар
-    .value = Баптаулар
-browser-data-chrome-1 =
-    .label = Баптаулар
-    .value = Баптаулар
-browser-data-canary-1 =
-    .label = Баптаулар
-    .value = Баптаулар
-browser-data-360se-1 =
-    .label = Баптаулар
-    .value = Баптаулар
-browser-data-ie-2 =
-    .label = Cookies файлдары
-    .value = Cookies файлдары
-browser-data-edge-2 =
-    .label = Cookies файлдары
-    .value = Cookies файлдары
-browser-data-safari-2 =
-    .label = Cookies файлдары
-    .value = Cookies файлдары
-browser-data-chrome-2 =
-    .label = Cookies файлдары
-    .value = Cookies файлдары
-browser-data-canary-2 =
-    .label = Cookies файлдары
-    .value = Cookies файлдары
-browser-data-firefox-2 =
-    .label = Cookies файлдары
-    .value = Cookies файлдары
-browser-data-360se-2 =
-    .label = Cookies файлдары
-    .value = Cookies файлдары
-browser-data-ie-4 =
-    .label = Қаралған беттер тарихы
-    .value = Қаралған беттер тарихы
-browser-data-edge-4 =
-    .label = Қаралған беттер тарихы
-    .value = Қаралған беттер тарихы
-browser-data-safari-4 =
-    .label = Қаралған беттер тарихы
-    .value = Қаралған беттер тарихы
-browser-data-chrome-4 =
-    .label = Қаралған беттер тарихы
-    .value = Қаралған беттер тарихы
-browser-data-canary-4 =
-    .label = Қаралған беттер тарихы
-    .value = Қаралған беттер тарихы
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Қаралған беттер тарихы және бетбелгілер
-    .value = Қаралған беттер тарихы және бетбелгілер
-browser-data-360se-4 =
-    .label = Қаралған беттер тарихы
-    .value = Қаралған беттер тарихы
-browser-data-ie-8 =
-    .label = Сақталынған формалар тарихы
-    .value = Сақталынған формалар тарихы
-browser-data-edge-8 =
-    .label = Сақталынған формалар тарихы
-    .value = Сақталынған формалар тарихы
-browser-data-safari-8 =
-    .label = Сақталынған формалар тарихы
-    .value = Сақталынған формалар тарихы
-browser-data-chrome-8 =
-    .label = Сақталынған формалар тарихы
-    .value = Сақталынған формалар тарихы
-browser-data-canary-8 =
-    .label = Сақталынған формалар тарихы
-    .value = Сақталынған формалар тарихы
-browser-data-firefox-8 =
-    .label = Сақталынған формалар тарихы
-    .value = Сақталынған формалар тарихы
-browser-data-360se-8 =
-    .label = Формалардың сақталған тарихы
-    .value = Формалардың сақталған тарихы
-browser-data-ie-16 =
-    .label = Сақталған парольдер
-    .value = Сақталған парольдер
-browser-data-edge-16 =
-    .label = Сақталған парольдер
-    .value = Сақталған парольдер
-browser-data-safari-16 =
-    .label = Сақталған парольдер
-    .value = Сақталған парольдер
-browser-data-chrome-16 =
-    .label = Сақталған парольдер
-    .value = Сақталған парольдер
-browser-data-canary-16 =
-    .label = Сақталған парольдер
-    .value = Сақталған парольдер
-browser-data-firefox-16 =
-    .label = Сақталған парольдер
-    .value = Сақталған парольдер
-browser-data-360se-16 =
-    .label = Сақталған парольдер
-    .value = Сақталған парольдер
-browser-data-ie-32 =
-    .label = Таңдамалы
-    .value = Таңдамалы
-browser-data-edge-32 =
-    .label = Таңдамалы
-    .value = Таңдамалы
-browser-data-safari-32 =
-    .label = Бетбелгілер
-    .value = Бетбелгілер
-browser-data-chrome-32 =
-    .label = Бетбелгілер
-    .value = Бетбелгілер
-browser-data-canary-32 =
-    .label = Бетбелгілер
-    .value = Бетбелгілер
-browser-data-360se-32 =
-    .label = Бетбелгілер
-    .value = Бетбелгілер
-browser-data-ie-64 =
-    .label = Басқа мәліметтер
-    .value = Басқа мәліметтер
-browser-data-edge-64 =
-    .label = Басқа мәліметтер
-    .value = Басқа мәліметтер
-browser-data-safari-64 =
-    .label = Басқа мәліметтер
-    .value = Басқа мәліметтер
-browser-data-chrome-64 =
-    .label = Басқа мәліметтер
-    .value = Басқа мәліметтер
-browser-data-canary-64 =
-    .label = Басқа мәліметтер
-    .value = Басқа мәліметтер
-browser-data-firefox-other-64 =
-    .label = Басқа деректер
-    .value = Басқа деректер
-browser-data-360se-64 =
-    .label = Басқа деректер
-    .value = Басқа деректер
-browser-data-firefox-128 =
-    .label = Терезелер мен беттер
-    .value = Терезелер мен беттер
