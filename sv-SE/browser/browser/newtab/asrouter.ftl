@@ -241,3 +241,4 @@ cfr-whatsnew-protections-icon-alt = Sköldikon
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Bättre PDF-upplevelse
+cfr-whatsnew-better-pdf-body = PDF-dokument öppnas nu direkt i { -brand-short-name }, och håller ditt arbetsflöde inom räckhåll.
