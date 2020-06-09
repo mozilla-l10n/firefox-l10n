@@ -69,151 +69,16 @@ source-name-360se = 360 सुरक्षित ब्राउज़र
 imported-safari-reading-list = पठन सूची (सफारीसँ)
 imported-edge-reading-list = पठन सूची (From Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = इंटरनेट विकल्प
-    .value = इंटरनेट विकल्प
-browser-data-edge-1 =
-    .label = सेटिंग्स
-    .value = सेटिंग्स
-browser-data-safari-1 =
-    .label = वरीयता
-    .value = वरीयता
-browser-data-chrome-1 =
-    .label = वरीयताएँ
-    .value = वरीयताएँ
-browser-data-canary-1 =
-    .label = वरीयताएँ
-    .value = वरीयताएँ
-browser-data-360se-1 =
-    .label = वरीयता
-    .value = वरीयता
-browser-data-ie-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-edge-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-safari-2 =
-    .label = कूक़ीज
-    .value = कूक़ीज
-browser-data-chrome-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-canary-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-firefox-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-360se-2 =
-    .label = कुकीज
-    .value = कुकीज
-browser-data-ie-4 =
-    .label = ब्राउजिंग इतिहास
-    .value = ब्राउजिंग इतिहास
-browser-data-edge-4 =
-    .label = ब्राउजिंग इतिहास
-    .value = ब्राउजिंग इतिहास
-browser-data-safari-4 =
-    .label = ब्राउजिंग इतिहास
-    .value = ब्राउजिंग इतिहास
-browser-data-chrome-4 =
-    .label = ब्राउजिंग इतिहास
-    .value = ब्राउजिंग इतिहास
-browser-data-canary-4 =
-    .label = ब्राउजिंग इतिहास
-    .value = ब्राउजिंग इतिहास
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ब्राउजिंग इतिहास आओर पुस्तकचिह्न
-    .value = ब्राउजिंग इतिहास आओर पुस्तकचिह्न
-browser-data-360se-4 =
-    .label = ब्राउजिंग इतिहास
-    .value = ब्राउजिंग इतिहास
-browser-data-ie-8 =
-    .label = इतिहास सँ सहेजल
-    .value = इतिहास सँ सहेजल
-browser-data-edge-8 =
-    .label = इतिहास स सहेजल
-    .value = इतिहास स सहेजल
-browser-data-safari-8 =
-    .label = इतिहास सँ सहेजल
-    .value = इतिहास सँ सहेजल
-browser-data-chrome-8 =
-    .label = इतिहास सँ सहेजल गेल
-    .value = इतिहास सँ सहेजल गेल
-browser-data-canary-8 =
-    .label = इतिहास सँ सहेजल गेल
-    .value = इतिहास सँ सहेजल गेल
-browser-data-firefox-8 =
-    .label = इतिहास सँ सहेजल गेल
-    .value = इतिहास सँ सहेजल गेल
-browser-data-360se-8 =
-    .label = इतिहास स सहेजल
-    .value = इतिहास स सहेजल
-browser-data-ie-16 =
-    .label = सहेजल गुड़किल्ली
-    .value = सहेजल गुड़किल्ली
-browser-data-edge-16 =
-    .label = सहेजल गुड़किल्ली
-    .value = सहेजल गुड़किल्ली
-browser-data-safari-16 =
-    .label = सहेजल गुड़किल्ली
-    .value = सहेजल गुड़किल्ली
-browser-data-chrome-16 =
-    .label = सहेजल गुड़किल्ली
-    .value = सहेजल गुड़किल्ली
-browser-data-canary-16 =
-    .label = सहेजल गुड़किल्ली
-    .value = सहेजल गुड़किल्ली
-browser-data-firefox-16 =
-    .label = सहेजल गुड़किल्ली
-    .value = सहेजल गुड़किल्ली
-browser-data-360se-16 =
-    .label = सहेजल गुड़किल्ली
-    .value = सहेजल गुड़किल्ली
-browser-data-ie-32 =
-    .label = पसंदीदा
-    .value = पसंदीदा
-browser-data-edge-32 =
-    .label = पसंदीदा
-    .value = पसंदीदा
-browser-data-safari-32 =
-    .label = पुस्तकचिह्न
-    .value = पुस्तकचिह्न
-browser-data-chrome-32 =
-    .label = पुस्तकचिह्न
-    .value = पुस्तकचिह्न
-browser-data-canary-32 =
-    .label = पुस्तकचिह्न
-    .value = पुस्तकचिह्न
-browser-data-360se-32 =
-    .label = पुस्तकचिह्न
-    .value = पुस्तकचिह्न
-browser-data-ie-64 =
-    .label = आन आँकड़ा
-    .value = आन आँकड़ा
-browser-data-edge-64 =
-    .label = आन आँकड़ा
-    .value = आन आँकड़ा
-browser-data-safari-64 =
-    .label = आन आँकड़ा
-    .value = आन आँकड़ा
-browser-data-chrome-64 =
-    .label = आन आँकड़ा
-    .value = आन आँकड़ा
-browser-data-canary-64 =
-    .label = आन आँकड़ा
-    .value = आन आँकड़ा
-browser-data-firefox-other-64 =
-    .label = आन आँकड़ा
-    .value = आन आँकड़ा
-browser-data-360se-64 =
-    .label = आन आँकड़ा
-    .value = आन आँकड़ा
-browser-data-firefox-128 =
-    .label = विंडोज आ टैब
-    .value = विंडोज आ टैब
