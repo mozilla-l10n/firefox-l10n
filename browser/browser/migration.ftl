@@ -77,151 +77,16 @@ source-name-360se = Brabhsair a tha gu tur sàbhailte
 imported-safari-reading-list = Liosta leughaidh (o Safari)
 imported-edge-reading-list = Liosta leughaidh (o Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Roghainnean lìn
-    .value = Roghainnean lìn
-browser-data-edge-1 =
-    .label = Roghainnean
-    .value = Roghainnean
-browser-data-safari-1 =
-    .label = Roghainnean
-    .value = Roghainnean
-browser-data-chrome-1 =
-    .label = Roghainnean
-    .value = Roghainnean
-browser-data-canary-1 =
-    .label = Roghainnean
-    .value = Roghainnean
-browser-data-360se-1 =
-    .label = Roghainnean
-    .value = Roghainnean
-browser-data-ie-2 =
-    .label = Briosgaidean
-    .value = Briosgaidean
-browser-data-edge-2 =
-    .label = Briosgaidean
-    .value = Briosgaidean
-browser-data-safari-2 =
-    .label = Briosgaidean
-    .value = Briosgaidean
-browser-data-chrome-2 =
-    .label = Briosgaidean
-    .value = Briosgaidean
-browser-data-canary-2 =
-    .label = Briosgaidean
-    .value = Briosgaidean
-browser-data-firefox-2 =
-    .label = Briosgaidean
-    .value = Briosgaidean
-browser-data-360se-2 =
-    .label = Briosgaidean
-    .value = Briosgaidean
-browser-data-ie-4 =
-    .label = An eachdraidh brabhsaidh
-    .value = An eachdraidh brabhsaidh
-browser-data-edge-4 =
-    .label = An eachdraidh brabhsaidh
-    .value = An eachdraidh brabhsaidh
-browser-data-safari-4 =
-    .label = An eachdraidh brabhsaidh
-    .value = An eachdraidh brabhsaidh
-browser-data-chrome-4 =
-    .label = An eachdraidh brabhsaidh
-    .value = An eachdraidh brabhsaidh
-browser-data-canary-4 =
-    .label = An eachdraidh brabhsaidh
-    .value = An eachdraidh brabhsaidh
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = An eachdraidh brabhsaidh is na comharran-lìn
-    .value = An eachdraidh brabhsaidh is na comharran-lìn
-browser-data-360se-4 =
-    .label = An eachdraidh brabhsaidh
-    .value = An eachdraidh brabhsaidh
-browser-data-ie-8 =
-    .label = Air a shàbhaladh on eachdraidh
-    .value = Air a shàbhaladh on eachdraidh
-browser-data-edge-8 =
-    .label = Air a shàbhaladh on eachdraidh
-    .value = Air a shàbhaladh on eachdraidh
-browser-data-safari-8 =
-    .label = Air a shàbhaladh on eachdraidh
-    .value = Air a shàbhaladh on eachdraidh
-browser-data-chrome-8 =
-    .label = Air a shàbhaladh on eachdraidh
-    .value = Air a shàbhaladh on eachdraidh
-browser-data-canary-8 =
-    .label = Air a shàbhaladh on eachdraidh
-    .value = Air a shàbhaladh on eachdraidh
-browser-data-firefox-8 =
-    .label = Air a shàbhaladh on eachdraidh
-    .value = Air a shàbhaladh on eachdraidh
-browser-data-360se-8 =
-    .label = Eachdraidh nam foirmean
-    .value = Eachdraidh nam foirmean
-browser-data-ie-16 =
-    .label = Faclan-faire air an sàbhaladh
-    .value = Faclan-faire air an sàbhaladh
-browser-data-edge-16 =
-    .label = Faclan-faire air an sàbhaladh
-    .value = Faclan-faire air an sàbhaladh
-browser-data-safari-16 =
-    .label = Faclan-faire air an sàbhaladh
-    .value = Faclan-faire air an sàbhaladh
-browser-data-chrome-16 =
-    .label = Faclan-faire air an sàbhaladh
-    .value = Faclan-faire air an sàbhaladh
-browser-data-canary-16 =
-    .label = Faclan-faire air an sàbhaladh
-    .value = Faclan-faire air an sàbhaladh
-browser-data-firefox-16 =
-    .label = Faclan-faire air an sàbhaladh
-    .value = Faclan-faire air an sàbhaladh
-browser-data-360se-16 =
-    .label = Faclan-faire air an sàbhaladh
-    .value = Faclan-faire air an sàbhaladh
-browser-data-ie-32 =
-    .label = Annsachdan
-    .value = Annsachdan
-browser-data-edge-32 =
-    .label = Annsachdan
-    .value = Annsachdan
-browser-data-safari-32 =
-    .label = Comharran-lìn
-    .value = Comharran-lìn
-browser-data-chrome-32 =
-    .label = Comharran-lìn
-    .value = Comharran-lìn
-browser-data-canary-32 =
-    .label = Comharran-lìn
-    .value = Comharran-lìn
-browser-data-360se-32 =
-    .label = Comharran-lìn
-    .value = Comharran-lìn
-browser-data-ie-64 =
-    .label = Dàta eile
-    .value = Dàta eile
-browser-data-edge-64 =
-    .label = Dàta eile
-    .value = Dàta eile
-browser-data-safari-64 =
-    .label = Dàta eile
-    .value = Dàta eile
-browser-data-chrome-64 =
-    .label = Dàta eile
-    .value = Dàta eile
-browser-data-canary-64 =
-    .label = Dàta eile
-    .value = Dàta eile
-browser-data-firefox-other-64 =
-    .label = Dàta eile
-    .value = Dàta eile
-browser-data-360se-64 =
-    .label = Dàta eile
-    .value = Dàta eile
-browser-data-firefox-128 =
-    .label = Uinneagan is tabaichean
-    .value = Uinneagan is tabaichean
