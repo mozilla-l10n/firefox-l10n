@@ -5,4 +5,13 @@
 bookmark-overlay-name =
     .value = Sivɨ:
     .accesskey = N
-
+bookmark-overlay-location =
+    .value = Nuu:
+    .accesskey = c
+bookmark-overlay-folder =
+    .value = Carpeta:
+bookmark-overlay-choose =
+    .label = Kaji...
+bookmark-overlay-new-folder-button =
+    .label = Carpeta jíía
+    .accesskey = N
