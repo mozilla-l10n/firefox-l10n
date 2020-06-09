@@ -119,6 +119,7 @@ restart-in-safe-mode-label = Moĩmbaha oguepyréva moñepyrũjey…
 clear-startup-cache-title = Emohenda kache ñepyrũha ñembogue
 clear-startup-cache-label = Embogue kache ñepyrũha…
 startup-cache-dialog-title = Embogue kache ñepyrũha
+startup-cache-dialog-body = Emoñepyrũjey { -brand-short-name } embogue hag̃ua kache ñepyrũha. Kóva nomoambuéi ñemboheko ha jepysokue oñembojuajúva { -brand-short-name } rehe.
 restart-button-label = Ñepyrũjey
 
 ## Media titles
@@ -127,6 +128,7 @@ audio-backend = Mba'epu ñangarekoha huguapeguáva
 max-audio-channels = Max mbohapeha
 channel-layout = Mbohapeha ñemoĩ ojererohorýva
 sample-rate = Techaukarã py'ỹigua ojererohorýva
+roundtrip-latency = Latencia ou ha ohóva (ojeréva ypykuete)
 media-title = Marandu myasãiha
 media-output-devices-title = Mba'e'oka osẽha
 media-input-devices-title = Mba'e'oka oikeha
