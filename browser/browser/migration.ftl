@@ -84,151 +84,20 @@ source-name-360se = 360 Secure
 imported-safari-reading-list = Lista Czytelnia (z Safari)
 imported-edge-reading-list = Do przeczytania (z Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Opcje internetowe
-    .value = Opcje internetowe
-browser-data-edge-1 =
-    .label = Ustawienia
-    .value = Ustawienia
-browser-data-safari-1 =
-    .label = Preferencje
-    .value = Preferencje
-browser-data-chrome-1 =
-    .label = Ustawienia
-    .value = Ustawienia
-browser-data-canary-1 =
-    .label = Ustawienia
-    .value = Ustawienia
-browser-data-360se-1 =
-    .label = Preferencje
-    .value = Preferencje
-browser-data-ie-2 =
-    .label = Ciasteczka
-    .value = Ciasteczka
-browser-data-edge-2 =
-    .label = Ciasteczka
-    .value = Ciasteczka
-browser-data-safari-2 =
-    .label = Ciasteczka
-    .value = Ciasteczka
-browser-data-chrome-2 =
-    .label = Ciasteczka
-    .value = Ciasteczka
-browser-data-canary-2 =
-    .label = Ciasteczka
-    .value = Ciasteczka
-browser-data-firefox-2 =
-    .label = Ciasteczka
-    .value = Ciasteczka
-browser-data-360se-2 =
-    .label = Ciasteczka
-    .value = Ciasteczka
-browser-data-ie-4 =
-    .label = Historia
-    .value = Historia
-browser-data-edge-4 =
-    .label = Historia
-    .value = Historia
-browser-data-safari-4 =
-    .label = Historia
-    .value = Historia
-browser-data-chrome-4 =
-    .label = Historia
-    .value = Historia
-browser-data-canary-4 =
-    .label = Historia
-    .value = Historia
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Historia i zakładki
-    .value = Historia i zakładki
-browser-data-360se-4 =
-    .label = Historia
-    .value = Historia
-browser-data-ie-8 =
-    .label = Zapamiętane dane formularzy
-    .value = Zapamiętane dane formularzy
-browser-data-edge-8 =
-    .label = Zapamiętane dane formularzy
-    .value = Zapamiętane dane formularzy
-browser-data-safari-8 =
-    .label = Zapamiętane dane formularzy
-    .value = Zapamiętane dane formularzy
-browser-data-chrome-8 =
-    .label = Zapamiętane dane formularzy
-    .value = Zapamiętane dane formularzy
-browser-data-canary-8 =
-    .label = Zapamiętane dane formularzy
-    .value = Zapamiętane dane formularzy
-browser-data-firefox-8 =
-    .label = Zapamiętane dane formularzy
-    .value = Zapamiętane dane formularzy
-browser-data-360se-8 =
-    .label = Zapamiętane dane formularzy
-    .value = Zapamiętane dane formularzy
-browser-data-ie-16 =
-    .label = Zachowane hasła
-    .value = Zachowane hasła
-browser-data-edge-16 =
-    .label = Zachowane hasła
-    .value = Zachowane hasła
-browser-data-safari-16 =
-    .label = Zachowane hasła
-    .value = Zachowane hasła
-browser-data-chrome-16 =
-    .label = Zachowane hasła
-    .value = Zachowane hasła
-browser-data-canary-16 =
-    .label = Zachowane hasła
-    .value = Zachowane hasła
-browser-data-firefox-16 =
-    .label = Zachowane hasła
-    .value = Zachowane hasła
-browser-data-360se-16 =
-    .label = Zachowane hasła
-    .value = Zachowane hasła
-browser-data-ie-32 =
-    .label = Ulubione
-    .value = Ulubione
-browser-data-edge-32 =
-    .label = Ulubione
-    .value = Ulubione
-browser-data-safari-32 =
-    .label = Zakładki
-    .value = Zakładki
-browser-data-chrome-32 =
-    .label = Zakładki
-    .value = Zakładki
-browser-data-canary-32 =
-    .label = Zakładki
-    .value = Zakładki
-browser-data-360se-32 =
-    .label = Zakładki
-    .value = Zakładki
-browser-data-ie-64 =
-    .label = Inne dane
-    .value = Inne dane
-browser-data-edge-64 =
-    .label = Inne dane
-    .value = Inne dane
-browser-data-safari-64 =
-    .label = Inne dane
-    .value = Inne dane
-browser-data-chrome-64 =
-    .label = Inne dane
-    .value = Inne dane
-browser-data-canary-64 =
-    .label = Inne dane
-    .value = Inne dane
-browser-data-firefox-other-64 =
-    .label = Inne dane
-    .value = Inne dane
-browser-data-360se-64 =
-    .label = Inne dane
-    .value = Inne dane
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Okna i karty
+browser-data-session-label =
     .value = Okna i karty
