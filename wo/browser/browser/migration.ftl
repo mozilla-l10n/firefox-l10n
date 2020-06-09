@@ -51,106 +51,16 @@ source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
 imported-safari-reading-list = Limu jàng (dale ko ci Safari )
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Tànneefi Internet
-    .value = Tànneefi Internet
-browser-data-edge-1 =
-    .label = Parammeetar yi
-    .value = Parammeetar yi
-browser-data-safari-1 =
-    .label = Taamu yi
-    .value = Taamu yi
-browser-data-chrome-1 =
-    .label = Taamu yi
-    .value = Taamu yi
-browser-data-canary-1 =
-    .label = Taamu yi
-    .value = Taamu yi
-browser-data-ie-2 =
-    .label = Kuki yi
-    .value = Kuki yi
-browser-data-safari-2 =
-    .label = Kuki yi
-    .value = Kuki yi
-browser-data-chrome-2 =
-    .label = Kuki yi
-    .value = Kuki yi
-browser-data-canary-2 =
-    .label = Kuki yi
-    .value = Kuki yi
-browser-data-firefox-2 =
-    .label = Kuki yi
-    .value = Kuki yi
-browser-data-ie-4 =
-    .label = Jaar jaaru joow
-    .value = Jaar jaaru joow
-browser-data-safari-4 =
-    .label = Jaar jaaru joow
-    .value = Jaar jaaru joow
-browser-data-chrome-4 =
-    .label = Jaar jaaru joow
-    .value = Jaar jaaru joow
-browser-data-canary-4 =
-    .label = Jaar jaaru joow
-    .value = Jaar jaaru joow
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Jaar jaar ak mandarga xët
-    .value = Jaar jaar ak mandarga xët
-browser-data-ie-8 =
-    .label = Rootaani formileer yi ñu aar
-    .value = Rootaani formileer yi ñu aar
-browser-data-safari-8 =
-    .label = Rootaani formileer yi ñu aar
-    .value = Rootaani formileer yi ñu aar
-browser-data-chrome-8 =
-    .label = Rootaani formileer yi ñu aar
-    .value = Rootaani formileer yi ñu aar
-browser-data-canary-8 =
-    .label = Rootaani formileer yi ñu aar
-    .value = Rootaani formileer yi ñu aar
-browser-data-firefox-8 =
-    .label = Rootaani formileer yi ñu aar
-    .value = Rootaani formileer yi ñu aar
-browser-data-ie-16 =
-    .label = Baati jàll yi ñu aar
-    .value = Baati jàll yi ñu aar
-browser-data-safari-16 =
-    .label = Baati jàll yi ñu aar
-    .value = Baati jàll yi ñu aar
-browser-data-chrome-16 =
-    .label = Baati jàll yi ñu aar
-    .value = Baati jàll yi ñu aar
-browser-data-canary-16 =
-    .label = Baati jàll yi ñu aar
-    .value = Baati jàll yi ñu aar
-browser-data-firefox-16 =
-    .label = Baati jàll yi ñu aar
-    .value = Baati jàll yi ñu aar
-browser-data-safari-32 =
-    .label = Takku
-    .value = Takku
-browser-data-chrome-32 =
-    .label = Xejj
-    .value = Xejj
-browser-data-canary-32 =
-    .label = Xejj
-    .value = Xejj
-browser-data-ie-64 =
-    .label = Yeneeni rootaan
-    .value = Yeneeni rootaan
-browser-data-safari-64 =
-    .label = Yeneeni rootaan
-    .value = Yeneeni rootaan
-browser-data-chrome-64 =
-    .label = Yeneeni rootaan
-    .value = Yeneeni rootaan
-browser-data-canary-64 =
-    .label = Yeneeni rootaan
-    .value = Yeneeni rootaan
-browser-data-firefox-128 =
-    .label = Palanteer yi ak koñ yi
-    .value = Palanteer yi ak koñ yi
