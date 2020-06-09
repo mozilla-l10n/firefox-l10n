@@ -121,6 +121,28 @@ browser-data-formdata-label =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
     .label = Yakon Kitikirisaxik Molojri'ïl chuqa' Ewan taq Tzij
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Yakon Kitikirisaxik Molojri'ïl chuqa' Ewan taq Tzij
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Taq Ajowab'äl
+            [edge] Taq Ajowab'äl
+           *[other] Taq Yaketal
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Taq Ajowab'äl
+            [edge] Taq Ajowab'äl
+           *[other] Taq Yaketal
+        }
+browser-data-otherdata-checkbox =
+    .label = Juley chik taq Tzij
+browser-data-otherdata-label =
+    .label = Juley chik taq Tzij
 browser-data-session-checkbox =
     .label = Taq ruwäch chuqa' taq ruwi'
 browser-data-session-label =
