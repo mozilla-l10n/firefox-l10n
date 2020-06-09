@@ -97,3 +97,7 @@ imported-edge-reading-list = Спіс для чытання (з Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Вокны і карткі
+browser-data-session-label =
+    .value = Вокны і карткі
