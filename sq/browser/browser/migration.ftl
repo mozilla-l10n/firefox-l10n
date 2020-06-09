@@ -84,151 +84,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Listë Leximesh (Prej Safari-t)
 imported-edge-reading-list = Listë Leximesh (Prej Edge-it)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Mundësi Interneti
-    .value = Mundësi Interneti
-browser-data-edge-1 =
-    .label = Rregullime
-    .value = Rregullime
-browser-data-safari-1 =
-    .label = Parapëlqime
-    .value = Parapëlqime
-browser-data-chrome-1 =
-    .label = Parapëlqime
-    .value = Parapëlqime
-browser-data-canary-1 =
-    .label = Parapëlqime
-    .value = Parapëlqime
-browser-data-360se-1 =
-    .label = Parapëlqime
-    .value = Parapëlqime
-browser-data-ie-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-edge-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-safari-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-chrome-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-canary-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-firefox-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-360se-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-ie-4 =
-    .label = Historik Shfletimi
-    .value = Historik Shfletimi
-browser-data-edge-4 =
-    .label = Historik Shfletimi
-    .value = Historik Shfletimi
-browser-data-safari-4 =
-    .label = Historik Shfletimi
-    .value = Historik Shfletimi
-browser-data-chrome-4 =
-    .label = Historik Shfletimi
-    .value = Historik Shfletimi
-browser-data-canary-4 =
-    .label = Historik Shfletimi
-    .value = Historik Shfletimi
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Historik Shfletimi dhe Faqerojtës
-    .value = Historik Shfletimi dhe Faqerojtës
-browser-data-360se-4 =
-    .label = Historik Shfletimi
-    .value = Historik Shfletimi
-browser-data-ie-8 =
-    .label = Historik Formularësh të Ruajtur
-    .value = Historik Formularësh të Ruajtur
-browser-data-edge-8 =
-    .label = Historik Formularësh të Ruajtur
-    .value = Historik Formularësh të Ruajtur
-browser-data-safari-8 =
-    .label = Historik Formularësh të Ruajtur
-    .value = Historik Formularësh të Ruajtur
-browser-data-chrome-8 =
-    .label = Historik Formularësh të Ruajtur
-    .value = Historik Formularësh të Ruajtur
-browser-data-canary-8 =
-    .label = Historik Formularësh të Ruajtur
-    .value = Historik Formularësh të Ruajtur
-browser-data-firefox-8 =
-    .label = Historik Formularësh të Ruajtur
-    .value = Historik Formularësh të Ruajtur
-browser-data-360se-8 =
-    .label = Historik Formularësh të Ruajtur
-    .value = Historik Formularësh të Ruajtur
-browser-data-ie-16 =
-    .label = Fjalëkalime të Ruajtur
-    .value = Fjalëkalime të Ruajtur
-browser-data-edge-16 =
-    .label = Fjalëkalime të Ruajtur
-    .value = Fjalëkalime të Ruajtur
-browser-data-safari-16 =
-    .label = Fjalëkalime të Ruajtur
-    .value = Fjalëkalime të Ruajtur
-browser-data-chrome-16 =
-    .label = Fjalëkalime të Ruajtur
-    .value = Fjalëkalime të Ruajtur
-browser-data-canary-16 =
-    .label = Fjalëkalime të Ruajtur
-    .value = Fjalëkalime të Ruajtur
-browser-data-firefox-16 =
-    .label = Fjalëkalime të Ruajtur
-    .value = Fjalëkalime të Ruajtur
-browser-data-360se-16 =
-    .label = Fjalëkalime të Ruajtur
-    .value = Fjalëkalime të Ruajtur
-browser-data-ie-32 =
-    .label = Më të pëlqyerit
-    .value = Më të pëlqyerit
-browser-data-edge-32 =
-    .label = Më të pëlqyerit
-    .value = Më të pëlqyerit
-browser-data-safari-32 =
-    .label = Faqerojtës
-    .value = Faqerojtës
-browser-data-chrome-32 =
-    .label = Faqerojtës
-    .value = Faqerojtës
-browser-data-canary-32 =
-    .label = Faqerojtës
-    .value = Faqerojtës
-browser-data-360se-32 =
-    .label = Faqerojtës
-    .value = Faqerojtës
-browser-data-ie-64 =
-    .label = Të dhëna të Tjera
-    .value = Të dhëna të Tjera
-browser-data-edge-64 =
-    .label = Të dhëna të Tjera
-    .value = Të dhëna të Tjera
-browser-data-safari-64 =
-    .label = Të dhëna të Tjera
-    .value = Të dhëna të Tjera
-browser-data-chrome-64 =
-    .label = Të dhëna të Tjera
-    .value = Të dhëna të Tjera
-browser-data-canary-64 =
-    .label = Të dhëna të Tjera
-    .value = Të dhëna të Tjera
-browser-data-firefox-other-64 =
-    .label = Të dhëna të Tjera
-    .value = Të dhëna të Tjera
-browser-data-360se-64 =
-    .label = Të dhëna të Tjera
-    .value = Të dhëna të Tjera
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Dritare dhe Skeda
+browser-data-session-label =
     .value = Dritare dhe Skeda
