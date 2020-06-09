@@ -4,7 +4,6 @@
 
 page-title = Gwybodaeth am Ddatrys Problemau
 page-subtitle = Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiol pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau cyffredin am { -brand-short-name }, edrychwch ar ein <a data-l10n-name="support-link">gwefan cefnogaeth</a>.
-
 crashes-title = Ardroddiad Chwalu
 crashes-id = Enw'r Adroddiad
 crashes-send-date = Cyflwynwyd
@@ -117,6 +116,11 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Ymresymiadau
 safe-mode-title = Defnyddiwch y Modd Diogel
 restart-in-safe-mode-label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…
+clear-startup-cache-title = Ceisiwch glirio'r storfa gychwyn
+clear-startup-cache-label = Clirio'r storfa gychwyn…
+startup-cache-dialog-title = Clirio'r storfa gychwyn
+startup-cache-dialog-body = Ailgychwyn { -brand-short-name } i glirio storfa cychwyn. Ni fydd hyn yn newid eich gosodiadau nac yn dileu estyniadau rydych chi wedi'u hychwanegu at { -brand-short-name }.
+restart-button-label = Ailgychwyn
 
 ## Media titles
 
@@ -124,7 +128,6 @@ audio-backend = Cefn Sain
 max-audio-channels = Mwyaf o Sianeli
 channel-layout = Cynllun Sianeli Amgen
 sample-rate = Graddfa Samplo Amgen
-
 roundtrip-latency = Cylchdro cudd (gwyriad safonol)
 media-title = Cyfrwng
 media-output-devices-title = Dyfeisiau Allbwn
@@ -180,7 +183,6 @@ report-crash-for-days =
         [many] Adroddiadau chwalu'r { $days } Diwrnod Diwethaf
        *[other] Adroddiadau chwalu'r { $days } Diwrnod Diwethaf
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -192,7 +194,6 @@ crashes-time-minutes =
         [many] { $minutes } munud yn ôl
        *[other] { $minutes } munud yn ôl
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -204,7 +205,6 @@ crashes-time-hours =
         [many] { $hours } awr yn ôl
        *[other] { $hours } awr yn ôl
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -216,7 +216,6 @@ crashes-time-days =
         [many] { $days } diwrnod yn ôl
        *[other] { $days } diwrnod yn ôl
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -228,7 +227,6 @@ pending-reports =
         [many] Pob Adroddiad Chwalu (gan gynnwys { $reports } chwalfa disgwyliedig o fewn ystod penodol o amser)
        *[other] Pob Adroddiad Chwalu (gan gynnwys { $reports } chwalfa disgwyliedig o fewn ystod penodol o amser)
     }
-
 raw-data-copied = Copïwyd data bras i'r clipfwrdd
 text-copied = Copïwyd testun i'r clipfwrdd
 
@@ -241,11 +239,9 @@ blocked-mismatched-version = Rhwystro ar gyfer gwrthdaro fersiwn gyrrwr graffig 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Wedi ei rwystro ar gyfer eich gyrrwr graffigol chi. Ceisiwch ddiweddaru'r gyrrwr i fersiwn { $driverVersion } neu ddiweddarach.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramedrau ClearType
-
 compositing = Cyfosod
 hardware-h264 = Dadgodio Caledwedd H264
 main-thread-no-omtc = prif drywydd, dim OMTC
@@ -260,7 +256,6 @@ virtual-monitor-disp = Dangosiad Monitor Rhithwir
 
 found = Wedi Canfod
 missing = Coll
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Disgrifiad
@@ -284,23 +279,18 @@ webgl2-version = Fersiwn Gyrrwr WebGL 2
 webgl2-driver-extensions = Estyniadau Gyrrwr WebGL 2
 webgl2-extensions = Estyniadau WebGL 2
 blocklisted-bug = Wedi eu rhwystro ar sail gwybodaeth hysbys
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = gwall { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Wedi ei rwystro; gwall cod { $failureCode }
-
 d3d11layers-crash-guard = Cyfosodwr D3D11
 d3d11video-crash-guard = Dadgodiwr Fideo D3D11
 d3d9video-crash-buard = Dadgodiwr Fideo D3D9
 d3d9video-crash-guard = Dadgodiwr Fideo D3D9
 glcontext-crash-guard = OpenGL
-
 wmfvpxvideo-crash-guard = Dadgodiwr Fideo WMF VPX
-
 reset-on-next-restart = Ailosod wrth Ailgychwyn
 gpu-process-kill-button = Gorffen Proses GPU
 gpu-device-reset = Ailosod Dyfais
@@ -310,10 +300,8 @@ content-uses-tiling = Yn Defnyddio Teilsio (Cynnwys)
 off-main-thread-paint-enabled = Galluogwyd Paentio All Brif Drywydd
 off-main-thread-paint-worker-count = Cyfrif Gweithiwr Paentio Oddi ar y Brif Drywydd
 target-frame-rate = Graddfa Ffrâm Darged
-
 min-lib-versions = Fersiwn lleiaf disgwyliedig
 loaded-lib-versions = Fersiwn mewn defnydd
-
 has-seccomp-bpf = Seccomp-BPF (Hidlo Galw System)
 has-seccomp-tsync = Cydweddiad Edafedd Seccomp
 has-user-namespaces = Bylchau Enwau Defnyddiwr
@@ -326,18 +314,15 @@ sandbox-proc-type-content = cynnwys
 sandbox-proc-type-file = cynnwys ffeil
 sandbox-proc-type-media-plugin = ategyn cyfrwng
 sandbox-proc-type-data-decoder = datgodydd data
-
 startup-cache-title = Storfa cychwyn
 startup-cache-disk-cache-path = Llwybr Storfa Disg
 startup-cache-ignore-disk-cache = Anwybyddu Storfa Disg
 startup-cache-found-disk-cache-on-init = Wedi dod o hyd i Storfa Disg ar Init
 startup-cache-wrote-to-disk-cache = Ysgrifennwyd at Storfa Disg
-
 launcher-process-status-0 = Galluogwyd
 launcher-process-status-1 = Analluogwyd oherwydd methiant
 launcher-process-status-2 = Analluogwyd yn orfodol
 launcher-process-status-unknown = Statws anhysbys
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -350,7 +335,6 @@ multi-process-status-6 = Analluogwyd gan fewnbwn testun heb ei gynnal
 multi-process-status-7 = Analluogwyd gan ychwanegion
 multi-process-status-8 = Analluogi gorfodol
 multi-process-status-unknown = Statws anhysbys
-
 async-pan-zoom = Chwyddo a Thremio Anghydamseredig
 apz-none = dim
 wheel-enabled = mewnbwn olwyn wedi ei alluogi
@@ -358,7 +342,6 @@ touch-enabled = mewnbwn cyffwrdd wedi ei alluogi
 drag-enabled = wedi galluogu llusgo bar sgrolio
 keyboard-enabled = bysellfwrdd wedi ei anlluogi
 autoscroll-enabled = galluogwyd awtosgrolio
-
 zooming-enabled = pinsio chwyddo llyfn wedi'i alluogi
 
 ## Variables

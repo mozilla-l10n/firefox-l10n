@@ -263,3 +263,4 @@ cfr-whatsnew-protections-icon-alt = Eicon tarian
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Gwell profiad PDF
+cfr-whatsnew-better-pdf-body = Mae dogfennau PDF nawr yn agor yn uniongyrchol yn { -brand-short-name }, gan gadw'ch llif gwaith o fewn cyrraedd.
