@@ -90,3 +90,7 @@ imported-edge-reading-list = කියවීම් ලැයිස්තුව (
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = කවුළු සහ ටැබ්
+browser-data-session-label =
+    .value = කවුළු සහ ටැබ්
