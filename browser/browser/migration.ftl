@@ -97,6 +97,48 @@ imported-edge-reading-list = पठन सूची (किनारे से)�
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = कुकीज़
+browser-data-cookies-label =
+    .value = कुकीज़
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] ब्राउज़िंग इतिहास और बुकमार्क
+           *[other] ब्राउज़िंग इतिहास
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] ब्राउज़िंग इतिहास और बुकमार्क
+           *[other] ब्राउज़िंग इतिहास
+        }
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = सहेजे हुए लॉगिन और पासवर्ड
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = सहेजे हुए लॉगिन और पासवर्ड
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] पसंदीदा
+            [edge] पसंदीदा
+           *[other] बुकमार्क
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] पसंदीदा
+            [edge] पसंदीदा
+           *[other] बुकमार्क
+        }
+browser-data-otherdata-checkbox =
+    .label = अन्य डेटा
+browser-data-otherdata-label =
+    .label = अन्य डेटा
 browser-data-session-checkbox =
     .label = विंडोज व टैब
 browser-data-session-label =
