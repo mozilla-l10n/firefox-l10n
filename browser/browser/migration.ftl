@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = รายการอ่าน (จาก Safari)
 imported-edge-reading-list = รายการอ่าน (จาก Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = ตัวเลือกอินเทอร์เน็ต
-    .value = ตัวเลือกอินเทอร์เน็ต
-browser-data-edge-1 =
-    .label = การตั้งค่า
-    .value = การตั้งค่า
-browser-data-safari-1 =
-    .label = ค่ากำหนด
-    .value = ค่ากำหนด
-browser-data-chrome-1 =
-    .label = ค่ากำหนด
-    .value = ค่ากำหนด
-browser-data-canary-1 =
-    .label = ค่ากำหนด
-    .value = ค่ากำหนด
-browser-data-360se-1 =
-    .label = ค่ากำหนด
-    .value = ค่ากำหนด
-browser-data-ie-2 =
-    .label = คุกกี้
-    .value = คุกกี้
-browser-data-edge-2 =
-    .label = คุกกี้
-    .value = คุกกี้
-browser-data-safari-2 =
-    .label = คุกกี้
-    .value = คุกกี้
-browser-data-chrome-2 =
-    .label = คุกกี้
-    .value = คุกกี้
-browser-data-canary-2 =
-    .label = คุกกี้
-    .value = คุกกี้
-browser-data-firefox-2 =
-    .label = คุกกี้
-    .value = คุกกี้
-browser-data-360se-2 =
-    .label = คุกกี้
-    .value = คุกกี้
-browser-data-ie-4 =
-    .label = ประวัติการเรียกดู
-    .value = ประวัติการเรียกดู
-browser-data-edge-4 =
-    .label = ประวัติการเรียกดู
-    .value = ประวัติการเรียกดู
-browser-data-safari-4 =
-    .label = ประวัติการเรียกดู
-    .value = ประวัติการเรียกดู
-browser-data-chrome-4 =
-    .label = ประวัติการเรียกดู
-    .value = ประวัติการเรียกดู
-browser-data-canary-4 =
-    .label = ประวัติการเรียกดู
-    .value = ประวัติการเรียกดู
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ประวัติการเรียกดูและที่คั่นหน้า
-    .value = ประวัติการเรียกดูและที่คั่นหน้า
-browser-data-360se-4 =
-    .label = ประวัติการเรียกดู
-    .value = ประวัติการเรียกดู
-browser-data-ie-8 =
-    .label = ประวัติแบบฟอร์มที่บันทึกไว้
-    .value = ประวัติแบบฟอร์มที่บันทึกไว้
-browser-data-edge-8 =
-    .label = ประวัติแบบฟอร์มที่บันทึกไว้
-    .value = ประวัติแบบฟอร์มที่บันทึกไว้
-browser-data-safari-8 =
-    .label = ประวัติแบบฟอร์มที่บันทึกไว้
-    .value = ประวัติแบบฟอร์มที่บันทึกไว้
-browser-data-chrome-8 =
-    .label = ประวัติแบบฟอร์มที่บันทึกไว้
-    .value = ประวัติแบบฟอร์มที่บันทึกไว้
-browser-data-canary-8 =
-    .label = ประวัติแบบฟอร์มที่บันทึกไว้
-    .value = ประวัติแบบฟอร์มที่บันทึกไว้
-browser-data-firefox-8 =
-    .label = ประวัติแบบฟอร์มที่บันทึกไว้
-    .value = ประวัติแบบฟอร์มที่บันทึกไว้
-browser-data-360se-8 =
-    .label = ประวัติแบบฟอร์มที่บันทึกไว้
-    .value = ประวัติแบบฟอร์มที่บันทึกไว้
-browser-data-ie-16 =
-    .label = รหัสผ่านที่บันทึกไว้
-    .value = รหัสผ่านที่บันทึกไว้
-browser-data-edge-16 =
-    .label = รหัสผ่านที่บันทึกไว้
-    .value = รหัสผ่านที่บันทึกไว้
-browser-data-safari-16 =
-    .label = รหัสผ่านที่บันทึกไว้
-    .value = รหัสผ่านที่บันทึกไว้
-browser-data-chrome-16 =
-    .label = รหัสผ่านที่บันทึกไว้
-    .value = รหัสผ่านที่บันทึกไว้
-browser-data-canary-16 =
-    .label = รหัสผ่านที่บันทึกไว้
-    .value = รหัสผ่านที่บันทึกไว้
-browser-data-firefox-16 =
-    .label = รหัสผ่านที่บันทึกไว้
-    .value = รหัสผ่านที่บันทึกไว้
-browser-data-360se-16 =
-    .label = รหัสผ่านที่บันทึกไว้
-    .value = รหัสผ่านที่บันทึกไว้
-browser-data-ie-32 =
-    .label = รายการโปรด
-    .value = รายการโปรด
-browser-data-edge-32 =
-    .label = รายการโปรด
-    .value = รายการโปรด
-browser-data-safari-32 =
-    .label = ที่คั่นหน้า
-    .value = ที่คั่นหน้า
-browser-data-chrome-32 =
-    .label = ที่คั่นหน้า
-    .value = ที่คั่นหน้า
-browser-data-canary-32 =
-    .label = ที่คั่นหน้า
-    .value = ที่คั่นหน้า
-browser-data-360se-32 =
-    .label = ที่คั่นหน้า
-    .value = ที่คั่นหน้า
-browser-data-ie-64 =
-    .label = ข้อมูลอื่น ๆ
-    .value = ข้อมูลอื่น ๆ
-browser-data-edge-64 =
-    .label = ข้อมูลอื่น ๆ
-    .value = ข้อมูลอื่น ๆ
-browser-data-safari-64 =
-    .label = ข้อมูลอื่น ๆ
-    .value = ข้อมูลอื่น ๆ
-browser-data-chrome-64 =
-    .label = ข้อมูลอื่น ๆ
-    .value = ข้อมูลอื่น ๆ
-browser-data-canary-64 =
-    .label = ข้อมูลอื่น ๆ
-    .value = ข้อมูลอื่น ๆ
-browser-data-firefox-other-64 =
-    .label = ข้อมูลอื่น ๆ
-    .value = ข้อมูลอื่น ๆ
-browser-data-360se-64 =
-    .label = ข้อมูลอื่น ๆ
-    .value = ข้อมูลอื่น ๆ
-browser-data-firefox-128 =
-    .label = หน้าต่างและแท็บ
-    .value = หน้าต่างและแท็บ
