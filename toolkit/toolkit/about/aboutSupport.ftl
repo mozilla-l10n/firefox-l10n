@@ -116,6 +116,11 @@ sandbox-sys-call-number = Жүйелік шақыру
 sandbox-sys-call-args = Аргументтер
 safe-mode-title = Қауіпсіз режимін қолданып көру
 restart-in-safe-mode-label = Сөндірілген кеңейтулермен қайта қосу…
+clear-startup-cache-title = Іске қосылу кэшін тарартып көріңіз
+clear-startup-cache-label = Іске қосылу кэшін тазарту…
+startup-cache-dialog-title = Іске қосылу кэшін тазарту
+startup-cache-dialog-body = Іске қосылу кэшін тазарту үшін { -brand-short-name } қайта іске қосыңыз. Бұл сіздің баптаулараңызы өзгертпейді, немесе сіз { -brand-short-name } ішіне қосқан кеңейтулерді өшірмейді.
+restart-button-label = Қайта қосу
 
 ## Media titles
 
