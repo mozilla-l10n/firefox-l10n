@@ -64,3 +64,7 @@ imported-safari-reading-list = Lelokelelo la go bala (go tšwa Safari)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Mafasetere le dithepo
+browser-data-session-label =
+    .value = Mafasetere le dithepo
