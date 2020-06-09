@@ -84,151 +84,16 @@ source-name-360se = 360 ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਰ
 imported-safari-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (ਸਫਾਰੀ ਤੋਂ)
 imported-edge-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (Edge ਤੋਂ)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = ਇੰਟਰਨੈੱਟ ਚੋਣਾਂ
-    .value = ਇੰਟਰਨੈੱਟ ਚੋਣਾਂ
-browser-data-edge-1 =
-    .label = ਸੈਟਿੰਗਾਂ
-    .value = ਸੈਟਿੰਗਾਂ
-browser-data-safari-1 =
-    .label = ਪਸੰਦ
-    .value = ਪਸੰਦ
-browser-data-chrome-1 =
-    .label = ਪਸੰਦ
-    .value = ਪਸੰਦ
-browser-data-canary-1 =
-    .label = ਪਸੰਦ
-    .value = ਪਸੰਦ
-browser-data-360se-1 =
-    .label = ਪਸੰਦ
-    .value = ਪਸੰਦ
-browser-data-ie-2 =
-    .label = ਕੂਕੀਜ਼
-    .value = ਕੂਕੀਜ਼
-browser-data-edge-2 =
-    .label = ਕੂਕੀਜ਼
-    .value = ਕੂਕੀਜ਼
-browser-data-safari-2 =
-    .label = ਕੂਕੀਜ਼
-    .value = ਕੂਕੀਜ਼
-browser-data-chrome-2 =
-    .label = ਕੂਕੀਜ਼
-    .value = ਕੂਕੀਜ਼
-browser-data-canary-2 =
-    .label = ਕੂਕੀਜ਼
-    .value = ਕੂਕੀਜ਼
-browser-data-firefox-2 =
-    .label = ਕੂਕੀਜ਼
-    .value = ਕੂਕੀਜ਼
-browser-data-360se-2 =
-    .label = ਕੂਕੀਜ਼
-    .value = ਕੂਕੀਜ਼
-browser-data-ie-4 =
-    .label = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-    .value = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-browser-data-edge-4 =
-    .label = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-    .value = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-browser-data-safari-4 =
-    .label = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-    .value = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-browser-data-chrome-4 =
-    .label = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-    .value = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-browser-data-canary-4 =
-    .label = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-    .value = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ
-    .value = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ
-browser-data-360se-4 =
-    .label = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-    .value = ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
-browser-data-ie-8 =
-    .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ(ਫਾਰਮ ਇਤਿਹਾਸ)
-    .value = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ(ਫਾਰਮ ਇਤਿਹਾਸ)
-browser-data-edge-8 =
-    .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
-    .value = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
-browser-data-safari-8 =
-    .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ (ਫਾਰਮ ਇਤਿਹਾਸ)
-    .value = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ (ਫਾਰਮ ਇਤਿਹਾਸ)
-browser-data-chrome-8 =
-    .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
-    .value = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
-browser-data-canary-8 =
-    .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
-    .value = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
-browser-data-firefox-8 =
-    .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
-    .value = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
-browser-data-360se-8 =
-    .label = ਸੰਭਾਲੇ ਫਾਰਮ ਅਤੀਤ
-    .value = ਸੰਭਾਲੇ ਫਾਰਮ ਅਤੀਤ
-browser-data-ie-16 =
-    .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-    .value = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-browser-data-edge-16 =
-    .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-    .value = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-browser-data-safari-16 =
-    .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-    .value = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-browser-data-chrome-16 =
-    .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-    .value = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-browser-data-canary-16 =
-    .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-    .value = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-browser-data-firefox-16 =
-    .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-    .value = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-browser-data-360se-16 =
-    .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-    .value = ਸੰਭਾਲੇ ਪਾਸਵਰਡ
-browser-data-ie-32 =
-    .label = ਪਸੰਦਾਂ
-    .value = ਪਸੰਦਾਂ
-browser-data-edge-32 =
-    .label = ਪਸੰਦਾਂ
-    .value = ਪਸੰਦਾਂ
-browser-data-safari-32 =
-    .label = ਬੁੱਕਮਾਰਕ
-    .value = ਬੁੱਕਮਾਰਕ
-browser-data-chrome-32 =
-    .label = ਬੁੱਕਮਾਰਕ
-    .value = ਬੁੱਕਮਾਰਕ
-browser-data-canary-32 =
-    .label = ਬੁੱਕਮਾਰਕ
-    .value = ਬੁੱਕਮਾਰਕ
-browser-data-360se-32 =
-    .label = ਬੁੱਕਮਾਰਕ
-    .value = ਬੁੱਕਮਾਰਕ
-browser-data-ie-64 =
-    .label = ਹੋਰ ਡਾਟਾ
-    .value = ਹੋਰ ਡਾਟਾ
-browser-data-edge-64 =
-    .label = ਹੋਰ ਡਾਟਾ
-    .value = ਹੋਰ ਡਾਟਾ
-browser-data-safari-64 =
-    .label = ਹੋਰ ਡਾਟਾ
-    .value = ਹੋਰ ਡਾਟਾ
-browser-data-chrome-64 =
-    .label = ਹੋਰ ਡਾਟਾ
-    .value = ਹੋਰ ਡਾਟਾ
-browser-data-canary-64 =
-    .label = ਹੋਰ ਡਾਟਾ
-    .value = ਹੋਰ ਡਾਟਾ
-browser-data-firefox-other-64 =
-    .label = ਹੋਰ ਡਾਟਾ
-    .value = ਹੋਰ ਡਾਟਾ
-browser-data-360se-64 =
-    .label = ਹੋਰ ਡਾਟਾ
-    .value = ਹੋਰ ਡਾਟਾ
-browser-data-firefox-128 =
-    .label = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
-    .value = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
