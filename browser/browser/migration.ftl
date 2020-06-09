@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = წასაკითხი სია (Safari-დან)
 imported-edge-reading-list = წასაკითხი სია (Edge-დან)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = ინტერნეტის პარამეტრები
-    .value = ინტერნეტის პარამეტრები
-browser-data-edge-1 =
-    .label = პარამეტრები
-    .value = პარამეტრები
-browser-data-safari-1 =
-    .label = პარამეტრები
-    .value = პარამეტრები
-browser-data-chrome-1 =
-    .label = პარამეტრები
-    .value = პარამეტრები
-browser-data-canary-1 =
-    .label = პარამეტრები
-    .value = პარამეტრები
-browser-data-360se-1 =
-    .label = პარამეტრები
-    .value = პარამეტრები
-browser-data-ie-2 =
-    .label = ფუნთუშები
-    .value = ფუნთუშები
-browser-data-edge-2 =
-    .label = ფუნთუშები
-    .value = ფუნთუშები
-browser-data-safari-2 =
-    .label = ფუნთუშები
-    .value = ფუნთუშები
-browser-data-chrome-2 =
-    .label = ფუნთუშები
-    .value = ფუნთუშები
-browser-data-canary-2 =
-    .label = ფუნთუშები
-    .value = ფუნთუშები
-browser-data-firefox-2 =
-    .label = ფუნთუშები
-    .value = ფუნთუშები
-browser-data-360se-2 =
-    .label = ფუნთუშები
-    .value = ფუნთუშები
-browser-data-ie-4 =
-    .label = მონახულებული გვერდების ისტორია
-    .value = მონახულებული გვერდების ისტორია
-browser-data-edge-4 =
-    .label = მონახულებული გვერდების ისტორია
-    .value = მონახულებული გვერდების ისტორია
-browser-data-safari-4 =
-    .label = მონახულებული გვერდების ისტორია
-    .value = მონახულებული გვერდების ისტორია
-browser-data-chrome-4 =
-    .label = მონახულებული გვერდების ისტორია
-    .value = მონახულებული გვერდების ისტორია
-browser-data-canary-4 =
-    .label = მონახულებული გვერდების ისტორია
-    .value = მონახულებული გვერდების ისტორია
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = დათვალიერების ისტორია და სანიშნები
-    .value = დათვალიერების ისტორია და სანიშნები
-browser-data-360se-4 =
-    .label = მონახულებული გვერდების ისტორია
-    .value = მონახულებული გვერდების ისტორია
-browser-data-ie-8 =
-    .label = შევსებული ველების ისტორია
-    .value = შევსებული ველების ისტორია
-browser-data-edge-8 =
-    .label = შევსებული ველების ისტორია
-    .value = შევსებული ველების ისტორია
-browser-data-safari-8 =
-    .label = შევსებული ველების ისტორია
-    .value = შევსებული ველების ისტორია
-browser-data-chrome-8 =
-    .label = შევსებული ველების ისტორია
-    .value = შევსებული ველების ისტორია
-browser-data-canary-8 =
-    .label = შევსებული ველების ისტორია
-    .value = შევსებული ველების ისტორია
-browser-data-firefox-8 =
-    .label = შევსებული ველების ისტორია
-    .value = შევსებული ველების ისტორია
-browser-data-360se-8 =
-    .label = შევსებული ველების ისტორია
-    .value = შევსებული ველების ისტორია
-browser-data-ie-16 =
-    .label = შენახული პაროლები
-    .value = შენახული პაროლები
-browser-data-edge-16 =
-    .label = შენახული პაროლები
-    .value = შენახული პაროლები
-browser-data-safari-16 =
-    .label = შენახული პაროლები
-    .value = შენახული პაროლები
-browser-data-chrome-16 =
-    .label = შენახული პაროლები
-    .value = შენახული პაროლები
-browser-data-canary-16 =
-    .label = შენახული პაროლები
-    .value = შენახული პაროლები
-browser-data-firefox-16 =
-    .label = შენახული პაროლები
-    .value = შენახული პაროლები
-browser-data-360se-16 =
-    .label = შენახული პაროლები
-    .value = შენახული პაროლები
-browser-data-ie-32 =
-    .label = რჩეული გვერდები
-    .value = რჩეული გვერდები
-browser-data-edge-32 =
-    .label = რჩეული გვერდები
-    .value = რჩეული გვერდები
-browser-data-safari-32 =
-    .label = სანიშნები
-    .value = სანიშნები
-browser-data-chrome-32 =
-    .label = სანიშნები
-    .value = სანიშნები
-browser-data-canary-32 =
-    .label = სანიშნები
-    .value = სანიშნები
-browser-data-360se-32 =
-    .label = სანიშნები
-    .value = სანიშნები
-browser-data-ie-64 =
-    .label = სხვა მონაცემები
-    .value = სხვა მონაცემები
-browser-data-edge-64 =
-    .label = სხვა მონაცემები
-    .value = სხვა მონაცემები
-browser-data-safari-64 =
-    .label = სხვა მონაცემები
-    .value = სხვა მონაცემები
-browser-data-chrome-64 =
-    .label = სხვა მონაცემები
-    .value = სხვა მონაცემები
-browser-data-canary-64 =
-    .label = სხვა მონაცემები
-    .value = სხვა მონაცემები
-browser-data-firefox-other-64 =
-    .label = სხვა მონაცემები
-    .value = სხვა მონაცემები
-browser-data-360se-64 =
-    .label = სხვა მონაცემები
-    .value = სხვა მონაცემები
-browser-data-firefox-128 =
-    .label = ფანჯრები და ჩანართები
-    .value = ფანჯრები და ჩანართები
