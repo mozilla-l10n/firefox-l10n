@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Λίστα ανάγνωσης (Από Safari)
 imported-edge-reading-list = Λίστα ανάγνωσης (Από Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Επιλογές διαδικτύου
-    .value = Επιλογές διαδικτύου
-browser-data-edge-1 =
-    .label = Ρυθμίσεις
-    .value = Ρυθμίσεις
-browser-data-safari-1 =
-    .label = Προτιμήσεις
-    .value = Προτιμήσεις
-browser-data-chrome-1 =
-    .label = Προτιμήσεις
-    .value = Προτιμήσεις
-browser-data-canary-1 =
-    .label = Προτιμήσεις
-    .value = Προτιμήσεις
-browser-data-360se-1 =
-    .label = Προτιμήσεις
-    .value = Προτιμήσεις
-browser-data-ie-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-edge-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-safari-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-chrome-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-canary-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-firefox-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-360se-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-ie-4 =
-    .label = Ιστορικό περιήγησης
-    .value = Ιστορικό περιήγησης
-browser-data-edge-4 =
-    .label = Ιστορικό περιήγησης
-    .value = Ιστορικό περιήγησης
-browser-data-safari-4 =
-    .label = Ιστορικό περιήγησης
-    .value = Ιστορικό περιήγησης
-browser-data-chrome-4 =
-    .label = Ιστορικό περιήγησης
-    .value = Ιστορικό περιήγησης
-browser-data-canary-4 =
-    .label = Ιστορικό περιήγησης
-    .value = Ιστορικό περιήγησης
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Ιστορικό περιήγησης και σελιδοδείκτες
-    .value = Ιστορικό περιήγησης και σελιδοδείκτες
-browser-data-360se-4 =
-    .label = Ιστορικό περιήγησης
-    .value = Ιστορικό περιήγησης
-browser-data-ie-8 =
-    .label = Ιστορικό αποθηκευμένων φορμών
-    .value = Ιστορικό αποθηκευμένων φορμών
-browser-data-edge-8 =
-    .label = Ιστορικό αποθηκευμένων φορμών
-    .value = Ιστορικό αποθηκευμένων φορμών
-browser-data-safari-8 =
-    .label = Ιστορικό αποθηκευμένων φορμών
-    .value = Ιστορικό αποθηκευμένων φορμών
-browser-data-chrome-8 =
-    .label = Ιστορικό αποθηκευμένων φορμών
-    .value = Ιστορικό αποθηκευμένων φορμών
-browser-data-canary-8 =
-    .label = Ιστορικό αποθηκευμένων φορμών
-    .value = Ιστορικό αποθηκευμένων φορμών
-browser-data-firefox-8 =
-    .label = Ιστορικό αποθηκευμένων φορμών
-    .value = Ιστορικό αποθηκευμένων φορμών
-browser-data-360se-8 =
-    .label = Ιστορικό αποθηκευμένων φορμών
-    .value = Ιστορικό αποθηκευμένων φορμών
-browser-data-ie-16 =
-    .label = Αποθηκευμένοι κωδικοί πρόσβασης
-    .value = Αποθηκευμένοι κωδικοί πρόσβασης
-browser-data-edge-16 =
-    .label = Αποθηκευμένοι κωδικοί πρόσβασης
-    .value = Αποθηκευμένοι κωδικοί πρόσβασης
-browser-data-safari-16 =
-    .label = Αποθηκευμένοι κωδικοί πρόσβασης
-    .value = Αποθηκευμένοι κωδικοί πρόσβασης
-browser-data-chrome-16 =
-    .label = Αποθηκευμένοι κωδικοί πρόσβασης
-    .value = Αποθηκευμένοι κωδικοί πρόσβασης
-browser-data-canary-16 =
-    .label = Αποθηκευμένοι κωδικοί πρόσβασης
-    .value = Αποθηκευμένοι κωδικοί πρόσβασης
-browser-data-firefox-16 =
-    .label = Αποθηκευμένοι κωδικοί πρόσβασης
-    .value = Αποθηκευμένοι κωδικοί πρόσβασης
-browser-data-360se-16 =
-    .label = Αποθηκευμένοι κωδικοί πρόσβασης
-    .value = Αποθηκευμένοι κωδικοί πρόσβασης
-browser-data-ie-32 =
-    .label = Αγαπημένα
-    .value = Αγαπημένα
-browser-data-edge-32 =
-    .label = Αγαπημένα
-    .value = Αγαπημένα
-browser-data-safari-32 =
-    .label = Σελιδοδείκτες
-    .value = Σελιδοδείκτες
-browser-data-chrome-32 =
-    .label = Σελιδοδείκτες
-    .value = Σελιδοδείκτες
-browser-data-canary-32 =
-    .label = Σελιδοδείκτες
-    .value = Σελιδοδείκτες
-browser-data-360se-32 =
-    .label = Σελιδοδείκτες
-    .value = Σελιδοδείκτες
-browser-data-ie-64 =
-    .label = Άλλα δεδομένα
-    .value = Άλλα δεδομένα
-browser-data-edge-64 =
-    .label = Άλλα δεδομένα
-    .value = Άλλα δεδομένα
-browser-data-safari-64 =
-    .label = Άλλα δεδομένα
-    .value = Άλλα δεδομένα
-browser-data-chrome-64 =
-    .label = Άλλα δεδομένα
-    .value = Άλλα δεδομένα
-browser-data-canary-64 =
-    .label = Άλλα δεδομένα
-    .value = Άλλα δεδομένα
-browser-data-firefox-other-64 =
-    .label = Άλλα δεδομένα
-    .value = Άλλα δεδομένα
-browser-data-360se-64 =
-    .label = Άλλα δεδομένα
-    .value = Άλλα δεδομένα
-browser-data-firefox-128 =
-    .label = Παράθυρα και καρτέλες
-    .value = Παράθυρα και καρτέλες
