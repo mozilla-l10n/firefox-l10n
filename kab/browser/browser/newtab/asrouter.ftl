@@ -231,6 +231,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Tignit n tugna-deg-tugna
 
 cfr-whatsnew-protections-header = Ammesten deg teṛmect n tiṭ
 cfr-whatsnew-protections-cta-link = Wali tafelwit n usenqed
+cfr-whatsnew-protections-icon-alt = Tignit Shield
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Tirmit ifazen n PDF
