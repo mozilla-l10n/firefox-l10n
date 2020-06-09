@@ -77,151 +77,16 @@ source-name-360se = 360 ಸುರಕ್ಷಿತ ವೀಕ್ಷಕ
 imported-safari-reading-list = ಓದುವ ಪಟ್ಟಿ (ಸಫಾರಿಯಿಂದ)
 imported-edge-reading-list = ಓದುವ ಪಟ್ಟಿ (ಎಜ್‌ನಿಂದ)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = ಅಂತರಜಾಲದ ಆಯ್ಕೆಗಳು
-    .value = ಅಂತರಜಾಲದ ಆಯ್ಕೆಗಳು
-browser-data-edge-1 =
-    .label = ಸಿದ್ಧತೆಗಳು
-    .value = ಸಿದ್ಧತೆಗಳು
-browser-data-safari-1 =
-    .label = ಆದ್ಯತೆಗಳು
-    .value = ಆದ್ಯತೆಗಳು
-browser-data-chrome-1 =
-    .label = ಆದ್ಯತೆಗಳು
-    .value = ಆದ್ಯತೆಗಳು
-browser-data-canary-1 =
-    .label = ಆದ್ಯತೆಗಳು
-    .value = ಆದ್ಯತೆಗಳು
-browser-data-360se-1 =
-    .label = ಆದ್ಯತೆಗಳು
-    .value = ಆದ್ಯತೆಗಳು
-browser-data-ie-2 =
-    .label = ಕುಕಿಗಳು
-    .value = ಕುಕಿಗಳು
-browser-data-edge-2 =
-    .label = ಕುಕಿಗಳು
-    .value = ಕುಕಿಗಳು
-browser-data-safari-2 =
-    .label = ಕುಕಿಗಳು
-    .value = ಕುಕಿಗಳು
-browser-data-chrome-2 =
-    .label = ಕುಕಿಗಳು
-    .value = ಕುಕಿಗಳು
-browser-data-canary-2 =
-    .label = ಕುಕಿಗಳು
-    .value = ಕುಕಿಗಳು
-browser-data-firefox-2 =
-    .label = ಕುಕಿಗಳು
-    .value = ಕುಕಿಗಳು
-browser-data-360se-2 =
-    .label = ಕುಕಿಗಳು
-    .value = ಕುಕಿಗಳು
-browser-data-ie-4 =
-    .label = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-    .value = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-browser-data-edge-4 =
-    .label = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-    .value = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-browser-data-safari-4 =
-    .label = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-    .value = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-browser-data-chrome-4 =
-    .label = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-    .value = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-browser-data-canary-4 =
-    .label = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-    .value = ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ವೀಕ್ಷಣಾ ಇತಿಹಾಸ ಮತ್ತು ಬುಕ್‌ಮಾರ್ಕುಗಳು
-    .value = ವೀಕ್ಷಣಾ ಇತಿಹಾಸ ಮತ್ತು ಬುಕ್‌ಮಾರ್ಕುಗಳು
-browser-data-360se-4 =
-    .label = ಜಾಲವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ
-    .value = ಜಾಲವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ
-browser-data-ie-8 =
-    .label = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-    .value = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-browser-data-edge-8 =
-    .label = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-    .value = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-browser-data-safari-8 =
-    .label = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-    .value = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-browser-data-chrome-8 =
-    .label = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-    .value = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-browser-data-canary-8 =
-    .label = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-    .value = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-browser-data-firefox-8 =
-    .label = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-    .value = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದ
-browser-data-360se-8 =
-    .label = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದವು
-    .value = ಇತಿಹಾಸದಿಂದ ಉಳಿಸಲಾದವು
-browser-data-ie-16 =
-    .label = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-    .value = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-browser-data-edge-16 =
-    .label = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-    .value = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-browser-data-safari-16 =
-    .label = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-    .value = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-browser-data-chrome-16 =
-    .label = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-    .value = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-browser-data-canary-16 =
-    .label = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-    .value = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-browser-data-firefox-16 =
-    .label = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-    .value = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-browser-data-360se-16 =
-    .label = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-    .value = ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು
-browser-data-ie-32 =
-    .label = ಅಚ್ಚುಮೆಚ್ಚಿನವು
-    .value = ಅಚ್ಚುಮೆಚ್ಚಿನವು
-browser-data-edge-32 =
-    .label = ಅಚ್ಚುಮೆಚ್ಚಿನವು
-    .value = ಅಚ್ಚುಮೆಚ್ಚಿನವು
-browser-data-safari-32 =
-    .label = ಬುಕ್‌ಮಾರ್ಕುಗಳು
-    .value = ಬುಕ್‌ಮಾರ್ಕುಗಳು
-browser-data-chrome-32 =
-    .label = ಬುಕ್‌ಮಾರ್ಕುಗಳು
-    .value = ಬುಕ್‌ಮಾರ್ಕುಗಳು
-browser-data-canary-32 =
-    .label = ಬುಕ್‌ಮಾರ್ಕುಗಳು
-    .value = ಬುಕ್‌ಮಾರ್ಕುಗಳು
-browser-data-360se-32 =
-    .label = ಪುಟಗುರುತುಗಳು
-    .value = ಪುಟಗುರುತುಗಳು
-browser-data-ie-64 =
-    .label = ಇತರೆ ಮಾಹಿತಿ
-    .value = ಇತರೆ ಮಾಹಿತಿ
-browser-data-edge-64 =
-    .label = ಇತರೆ ಮಾಹಿತಿ
-    .value = ಇತರೆ ಮಾಹಿತಿ
-browser-data-safari-64 =
-    .label = ಇತರೆ ಮಾಹಿತಿ
-    .value = ಇತರೆ ಮಾಹಿತಿ
-browser-data-chrome-64 =
-    .label = ಇತರೆ ಮಾಹಿತಿ
-    .value = ಇತರೆ ಮಾಹಿತಿ
-browser-data-canary-64 =
-    .label = ಇತರೆ ಮಾಹಿತಿ
-    .value = ಇತರೆ ಮಾಹಿತಿ
-browser-data-firefox-other-64 =
-    .label = ಇತರೆ ದತ್ತಾಂಶ
-    .value = ಇತರೆ ದತ್ತಾಂಶ
-browser-data-360se-64 =
-    .label = ಇತರೆ ದತ್ತಾಂಶ
-    .value = ಇತರೆ ದತ್ತಾಂಶ
-browser-data-firefox-128 =
-    .label = ವಿಂಡೋಗಳು ಹಾಗು ಹಾಳೆಗಳು
-    .value = ವಿಂಡೋಗಳು ಹಾಗು ಹಾಳೆಗಳು
