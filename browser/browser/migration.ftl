@@ -90,3 +90,7 @@ imported-edge-reading-list = lista de letue (da Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Barcoin e feuggi
+browser-data-session-label =
+    .value = Barcoin e feuggi
