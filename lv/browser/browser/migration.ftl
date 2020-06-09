@@ -77,151 +77,16 @@ source-name-360se = 360 Drošs pārlūks
 imported-safari-reading-list = Lasāmo lietu saraksts (No Safari)
 imported-edge-reading-list = Lasāmo lietu saraksts (No Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Interneta iestatījumi
-    .value = Interneta iestatījumi
-browser-data-edge-1 =
-    .label = Iestatījumi
-    .value = Iestatījumi
-browser-data-safari-1 =
-    .label = Iestatījumi
-    .value = Iestatījumi
-browser-data-chrome-1 =
-    .label = Iestatījumi
-    .value = Iestatījumi
-browser-data-canary-1 =
-    .label = Iestatījumi
-    .value = Iestatījumi
-browser-data-360se-1 =
-    .label = Iestatījumi
-    .value = Iestatījumi
-browser-data-ie-2 =
-    .label = Sīkdatnes
-    .value = Sīkdatnes
-browser-data-edge-2 =
-    .label = Sīkdatnes
-    .value = Sīkdatnes
-browser-data-safari-2 =
-    .label = Sīkdatnes
-    .value = Sīkdatnes
-browser-data-chrome-2 =
-    .label = Sīkdatnes
-    .value = Sīkdatnes
-browser-data-canary-2 =
-    .label = Sīkdatnes
-    .value = Sīkdatnes
-browser-data-firefox-2 =
-    .label = Sīkdatnes
-    .value = Sīkdatnes
-browser-data-360se-2 =
-    .label = Sīkdatnes
-    .value = Sīkdatnes
-browser-data-ie-4 =
-    .label = Pārlūkošanas vēsture
-    .value = Pārlūkošanas vēsture
-browser-data-edge-4 =
-    .label = Pārlūkošanas vēsture
-    .value = Pārlūkošanas vēsture
-browser-data-safari-4 =
-    .label = Pārlūkošanas vēsture
-    .value = Pārlūkošanas vēsture
-browser-data-chrome-4 =
-    .label = Pārlūkošanas vēsture
-    .value = Pārlūkošanas vēsture
-browser-data-canary-4 =
-    .label = Pārlūkošanas vēsture
-    .value = Pārlūkošanas vēsture
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Pārlūkošanas vēsture un grāmatzīmes
-    .value = Pārlūkošanas vēsture un grāmatzīmes
-browser-data-360se-4 =
-    .label = Pārlūkošanas vēsture
-    .value = Pārlūkošanas vēsture
-browser-data-ie-8 =
-    .label = Saglabātā formu vēsture
-    .value = Saglabātā formu vēsture
-browser-data-edge-8 =
-    .label = Saglabātā formu vēsture
-    .value = Saglabātā formu vēsture
-browser-data-safari-8 =
-    .label = Saglabātā formu vēsture
-    .value = Saglabātā formu vēsture
-browser-data-chrome-8 =
-    .label = Saglabātā formu vēsture
-    .value = Saglabātā formu vēsture
-browser-data-canary-8 =
-    .label = Saglabātā formu vēsture
-    .value = Saglabātā formu vēsture
-browser-data-firefox-8 =
-    .label = Saglabātā formu vēsture
-    .value = Saglabātā formu vēsture
-browser-data-360se-8 =
-    .label = Saglabātā formu vēsture
-    .value = Saglabātā formu vēsture
-browser-data-ie-16 =
-    .label = Saglabātās paroles
-    .value = Saglabātās paroles
-browser-data-edge-16 =
-    .label = Saglabātās paroles
-    .value = Saglabātās paroles
-browser-data-safari-16 =
-    .label = Saglabātās paroles
-    .value = Saglabātās paroles
-browser-data-chrome-16 =
-    .label = Saglabātās paroles
-    .value = Saglabātās paroles
-browser-data-canary-16 =
-    .label = Saglabātās paroles
-    .value = Saglabātās paroles
-browser-data-firefox-16 =
-    .label = Saglabātās paroles
-    .value = Saglabātās paroles
-browser-data-360se-16 =
-    .label = Saglabātās paroles
-    .value = Saglabātās paroles
-browser-data-ie-32 =
-    .label = Izlases
-    .value = Izlases
-browser-data-edge-32 =
-    .label = Izlases
-    .value = Izlases
-browser-data-safari-32 =
-    .label = Grāmatzīmes
-    .value = Grāmatzīmes
-browser-data-chrome-32 =
-    .label = Grāmatzīmes
-    .value = Grāmatzīmes
-browser-data-canary-32 =
-    .label = Grāmatzīmes
-    .value = Grāmatzīmes
-browser-data-360se-32 =
-    .label = Grāmatzīmes
-    .value = Grāmatzīmes
-browser-data-ie-64 =
-    .label = Citi dati
-    .value = Citi dati
-browser-data-edge-64 =
-    .label = Citi dati
-    .value = Citi dati
-browser-data-safari-64 =
-    .label = Citi dati
-    .value = Citi dati
-browser-data-chrome-64 =
-    .label = Citi dati
-    .value = Citi dati
-browser-data-canary-64 =
-    .label = Citi dati
-    .value = Citi dati
-browser-data-firefox-other-64 =
-    .label = Citi dati
-    .value = Citi dati
-browser-data-360se-64 =
-    .label = Citi dati
-    .value = Citi dati
-browser-data-firefox-128 =
-    .label = Logus un cilnes
-    .value = Logus un cilnes
