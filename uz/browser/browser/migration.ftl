@@ -88,3 +88,7 @@ imported-edge-reading-list = O‘qish ro‘yxati (Edge brauzeridan)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Oynalar va varaqlar
+browser-data-session-label =
+    .value = Oynalar va varaqlar
