@@ -84,151 +84,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = リーディングリスト (Safari から)
 imported-edge-reading-list = リーディングリスト (Edge から)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = インターネットオプション
-    .value = インターネットオプション
-browser-data-edge-1 =
-    .label = 設定
-    .value = 設定
-browser-data-safari-1 =
-    .label = 設定
-    .value = 設定
-browser-data-chrome-1 =
-    .label = 設定
-    .value = 設定
-browser-data-canary-1 =
-    .label = 設定
-    .value = 設定
-browser-data-360se-1 =
-    .label = 設定
-    .value = 設定
-browser-data-ie-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-edge-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-safari-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-chrome-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-canary-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-firefox-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-360se-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-ie-4 =
-    .label = 表示履歴
-    .value = 表示履歴
-browser-data-edge-4 =
-    .label = 表示履歴
-    .value = 表示履歴
-browser-data-safari-4 =
-    .label = 表示履歴
-    .value = 表示履歴
-browser-data-chrome-4 =
-    .label = 表示履歴
-    .value = 表示履歴
-browser-data-canary-4 =
-    .label = 表示履歴
-    .value = 表示履歴
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = 履歴とブックマーク
-    .value = 履歴とブックマーク
-browser-data-360se-4 =
-    .label = 表示履歴
-    .value = 表示履歴
-browser-data-ie-8 =
-    .label = 入力フォームの履歴
-    .value = 入力フォームの履歴
-browser-data-edge-8 =
-    .label = 入力フォームの履歴
-    .value = 入力フォームの履歴
-browser-data-safari-8 =
-    .label = 入力フォームの履歴
-    .value = 入力フォームの履歴
-browser-data-chrome-8 =
-    .label = 入力フォームの履歴
-    .value = 入力フォームの履歴
-browser-data-canary-8 =
-    .label = 入力フォームの履歴
-    .value = 入力フォームの履歴
-browser-data-firefox-8 =
-    .label = 入力フォームの履歴
-    .value = 入力フォームの履歴
-browser-data-360se-8 =
-    .label = 入力フォームの履歴
-    .value = 入力フォームの履歴
-browser-data-ie-16 =
-    .label = 保存されているパスワード
-    .value = 保存されているパスワード
-browser-data-edge-16 =
-    .label = 保存されているパスワード
-    .value = 保存されているパスワード
-browser-data-safari-16 =
-    .label = 保存されているパスワード
-    .value = 保存されているパスワード
-browser-data-chrome-16 =
-    .label = 保存されているパスワード
-    .value = 保存されているパスワード
-browser-data-canary-16 =
-    .label = 保存されているパスワード
-    .value = 保存されているパスワード
-browser-data-firefox-16 =
-    .label = 保存されているパスワード
-    .value = 保存されているパスワード
-browser-data-360se-16 =
-    .label = 保存されているパスワード
-    .value = 保存されているパスワード
-browser-data-ie-32 =
-    .label = お気に入り
-    .value = お気に入り
-browser-data-edge-32 =
-    .label = お気に入り
-    .value = お気に入り
-browser-data-safari-32 =
-    .label = ブックマーク
-    .value = ブックマーク
-browser-data-chrome-32 =
-    .label = ブックマーク
-    .value = ブックマーク
-browser-data-canary-32 =
-    .label = ブックマーク
-    .value = ブックマーク
-browser-data-360se-32 =
-    .label = ブックマーク
-    .value = ブックマーク
-browser-data-ie-64 =
-    .label = その他のデータ
-    .value = その他のデータ
-browser-data-edge-64 =
-    .label = その他のデータ
-    .value = その他のデータ
-browser-data-safari-64 =
-    .label = その他のデータ
-    .value = その他のデータ
-browser-data-chrome-64 =
-    .label = その他のデータ
-    .value = その他のデータ
-browser-data-canary-64 =
-    .label = その他のデータ
-    .value = その他のデータ
-browser-data-firefox-other-64 =
-    .label = その他のデータ
-    .value = その他のデータ
-browser-data-360se-64 =
-    .label = その他のデータ
-    .value = その他のデータ
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = ウインドウとタブ
+browser-data-session-label =
     .value = ウインドウとタブ
