@@ -51,106 +51,16 @@ source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
 imported-safari-reading-list = Okusooma Olukala (Okuvamu Safari)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Ebirondwamu Olutimbe
-    .value = Ebirondwamu Olutimbe
-browser-data-edge-1 =
-    .label = Enteegeka
-    .value = Enteegeka
-browser-data-safari-1 =
-    .label = Okweroboza
-    .value = Okweroboza
-browser-data-chrome-1 =
-    .label = Ebyokweroboza
-    .value = Ebyokweroboza
-browser-data-canary-1 =
-    .label = Ebyokweroboza
-    .value = Ebyokweroboza
-browser-data-ie-2 =
-    .label = Kukki
-    .value = Kukki
-browser-data-safari-2 =
-    .label = Kukki
-    .value = Kukki
-browser-data-chrome-2 =
-    .label = Kukkizi
-    .value = Kukkizi
-browser-data-canary-2 =
-    .label = Kukkizi
-    .value = Kukkizi
-browser-data-firefox-2 =
-    .label = Kukki
-    .value = Kukki
-browser-data-ie-4 =
-    .label = Okulambula Ebyafayo
-    .value = Okulambula Ebyafayo
-browser-data-safari-4 =
-    .label = Okulambula Ebyafayo
-    .value = Okulambula Ebyafayo
-browser-data-chrome-4 =
-    .label = Ebifudeyo Mukunoonya
-    .value = Ebifudeyo Mukunoonya
-browser-data-canary-4 =
-    .label = Ebifudeyo Mukunoonya
-    .value = Ebifudeyo Mukunoonya
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Okwalula Ebyafayo no Obulambe
-    .value = Okwalula Ebyafayo no Obulambe
-browser-data-ie-8 =
-    .label = Olugo oluterekwa ku Ebyafayo
-    .value = Olugo oluterekwa ku Ebyafayo
-browser-data-safari-8 =
-    .label = Olugo Oluterekwa ku Ebyafayo
-    .value = Olugo Oluterekwa ku Ebyafayo
-browser-data-chrome-8 =
-    .label = Ebifudeyo ku Formu Ebiterekeddwa
-    .value = Ebifudeyo ku Formu Ebiterekeddwa
-browser-data-canary-8 =
-    .label = Ebifudeyo ku Formu Ebiterekeddwa
-    .value = Ebifudeyo ku Formu Ebiterekeddwa
-browser-data-firefox-8 =
-    .label = Ebifudeyo ku Formu Ebiterekeddwa
-    .value = Ebifudeyo ku Formu Ebiterekeddwa
-browser-data-ie-16 =
-    .label = Obusumulizzo obu Terekedwa
-    .value = Obusumulizzo obu Terekedwa
-browser-data-safari-16 =
-    .label = Obusumulizzo obu Terekedwa
-    .value = Obusumulizzo obu Terekedwa
-browser-data-chrome-16 =
-    .label = Obusumulizzo Obuterekeddwa
-    .value = Obusumulizzo Obuterekeddwa
-browser-data-canary-16 =
-    .label = Obusumulizzo Obuterekeddwa
-    .value = Obusumulizzo Obuterekeddwa
-browser-data-firefox-16 =
-    .label = Obusumuluzzo obu Terekedwa
-    .value = Obusumuluzzo obu Terekedwa
-browser-data-safari-32 =
-    .label = Obulambe
-    .value = Obulambe
-browser-data-chrome-32 =
-    .label = Obulambe
-    .value = Obulambe
-browser-data-canary-32 =
-    .label = Obulambe
-    .value = Obulambe
-browser-data-ie-64 =
-    .label = Bwiino Omulala
-    .value = Bwiino Omulala
-browser-data-safari-64 =
-    .label = Bwiino Omulala
-    .value = Bwiino Omulala
-browser-data-chrome-64 =
-    .label = Bwiino Omulala
-    .value = Bwiino Omulala
-browser-data-canary-64 =
-    .label = Bwiino Omulala
-    .value = Bwiino Omulala
-browser-data-firefox-128 =
-    .label = Amaddirisa era Awadiriira
-    .value = Amaddirisa era Awadiriira
