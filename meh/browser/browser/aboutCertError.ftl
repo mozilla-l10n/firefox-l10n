@@ -86,6 +86,7 @@ unknownSocketType-title = Ntu nnaka´a vatu servidor
 nssFailure2-title = Ntu nkuvi sá´á conexión vatu
 cspBlocked-title = Yɨ´ɨ yu´u jiee Política de Seguridad de Contenido
 xfoBlocked-title = Yɨ´ɨ yu´u jiee política X-Frame-Options
+csp-xfo-error-title = { -brand-short-name } Ntu nsíne página ya'a
 corruptedContentError-title = Error jiee contenido ntívɨ
 remoteXUL-title = XUL jíká
 sslv3Used-title = Ntu kuvi kivɨ va´a ya´a

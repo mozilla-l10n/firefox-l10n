@@ -110,6 +110,8 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Sa kuvi natee nuu kajie'e sesión, chu'un credenciales nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = Natee nuu kajie'e sesión nchuva'a
@@ -153,6 +155,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Xina kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 about-logins-confirm-remove-dialog-confirm-button = Xita
+about-logins-confirm-export-dialog-confirm-button = Exportar…
 confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
 confirm-discard-changes-dialog-message = Kuaiyo da nsama je ntu nchuva´a naa.
 confirm-discard-changes-dialog-confirm-button = Xita
@@ -191,6 +194,7 @@ about-logins-error-message-default = Nkene iin error saa kuvinu chuva´anu contr
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
