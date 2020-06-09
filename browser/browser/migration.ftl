@@ -97,6 +97,18 @@ imported-edge-reading-list = Lista de leitura (do Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Credenciais e palavras-passe guardadas
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Credenciais e palavras-passe guardadas
 browser-data-session-checkbox =
     .label = Janelas e separadores
 browser-data-session-label =
