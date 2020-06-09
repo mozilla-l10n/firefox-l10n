@@ -39,6 +39,8 @@ protection-report-webpage-title = Painel das proteções
 protection-report-page-content-title = Painel das proteções
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = O { -brand-short-name } pode proteger a sua privacidade nos bastidores, enquanto navega. Este é um resumo personalizado destas proteções, incluindo ferramentas para assumir o controle da sua segurança na Internet.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = O { -brand-short-name } protege a sua privacidade, nos bastidores, enquanto navega. Este é um resumo personalizado destas proteções, incluindo ferramentas para assumir a gestão da sua segurança na Internet.
 protection-report-settings-link = Gerir as suas definições de privacidade e segurança
 etp-card-title-always = Proteção melhorada contra a monitorização: Sempre ligada
 etp-card-title-custom-not-blocking = Proteção melhorada contra a monitorização: DESLIGADA
@@ -120,6 +122,8 @@ monitor-link = Como funciona
 monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma violação de dados conhecida e para obter alertas sobre novas violações de dados.
 monitor-header-content-signed-in = O { -monitor-brand-name } avisa-o se a sua informação apareceu numa violação de dados conhecida.
 monitor-sign-up = Registar contar para alertas de violações de dados
+monitor-sign-up-link = Registar para alertas de violações de dados
+    .title = Registar no { -monitor-brand-name } para alertas de violações de dados
 auto-scan = Analisado hoje, de forma automática
 monitor-emails-tooltip =
     .title = Ver os endereços de e-mail monitorados no { -monitor-brand-short-name }
@@ -144,6 +148,14 @@ info-known-breaches-found =
        *[other] Violações de dados conhecidas que expuseram a sua informação
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Violação de dados conhecida marcada como resolvida
+       *[other] Violações de dados conhecidas marcadas como resolvidas
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -160,7 +172,24 @@ password-warning =
         [one] A credencial guardada pode ter sido exposta numa violação de dados. Altere esta palavra-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
        *[other] As credenciais guardadas podem ter sido expostas numa violação de dados. Altere estas palavras-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Palavra-passe exposta em violações de dados não resolvidas
+       *[other] Palavras-passe expostas em violações de dados não resolvidas
+    }
 monitor-no-breaches-title = Boas notícias!
+monitor-no-breaches-description = Você não tem violações de dados conhecidas. Se isto se alterar, nós iremos avisá-lo.
+monitor-view-report-link = Ver relatório
+    .title = Resolver violações de dados no { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Resolver as suas violações de dados
+monitor-breaches-unresolved-description =
+    Depois de analisar os detalhes sobre a violação de dados e tomar medidas para proteger
+    as suas informações, pode marcar as violações de dados como resolvidas.
+monitor-manage-breaches-link = Gerir violações de dados
+    .title = Gerir violações de dados no { -monitor-brand-short-name }
 monitor-partial-breaches-motivation-title-start = Ótimo começo!
 
 ## The title attribute is used to display the type of protection.
