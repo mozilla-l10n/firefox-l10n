@@ -97,6 +97,52 @@ imported-edge-reading-list = 구독 목록 (Edge로부터)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = 쿠키
+browser-data-cookies-label =
+    .value = 쿠키
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] 방문 기록 및 북마크
+           *[other] 방문 기록
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] 방문 기록 및 북마크
+           *[other] 방문 기록
+        }
+browser-data-formdata-checkbox =
+    .label = 저장된 양식 기록
+browser-data-formdata-label =
+    .value = 저장된 양식 기록
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = 저장된 로그인과 비밀번호
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = 저장된 로그인과 비밀번호
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] 즐겨찾기
+            [edge] 즐겨찾기
+           *[other] 북마크
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] 즐겨찾기
+            [edge] 즐겨찾기
+           *[other] 북마크
+        }
+browser-data-otherdata-checkbox =
+    .label = 기타 데이터
+browser-data-otherdata-label =
+    .label = 기타 데이터
 browser-data-session-checkbox =
     .label = 창과 탭
 browser-data-session-label =
