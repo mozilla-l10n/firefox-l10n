@@ -72,6 +72,10 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Xina da nxinuu
     .accesskey = d
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Kuvi xinuun
+    .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Xita archivo
@@ -99,6 +103,10 @@ downloads-show-more-information =
 # open the file using an app available in the system.
 downloads-open-file =
     .value = Síne tutu
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Xinuun tuku
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
@@ -109,3 +117,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Xituvi kuaiyo da nxinuun
     .accesskey = s
+downloads-clear-downloads-button =
+    .label = Xina da nxinuu
+    .tooltiptext = Xina kuaiyo, da ntu nkuni xinuun je ntu nkuvi xinuun
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Na íyo kue'eka nxinuun.
