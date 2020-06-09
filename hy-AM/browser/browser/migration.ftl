@@ -97,3 +97,7 @@ imported-edge-reading-list = Ընթերցացուցակ (Edge-ից)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Պատուհաններ և ներդիրներ
+browser-data-session-label =
+    .value = Պատուհաններ և ներդիրներ
