@@ -18,5 +18,5 @@
 
 <!ENTITY publicData.label        "Dados públicos">
 <!ENTITY privateData.label       "Dados particulares">
-<!ENTITY identityAlias.label     "Etiqueta da identidade:">
+<!ENTITY identityAlias.label     "Rótulo de identidade:">
 <!ENTITY identityAlias.accesskey "b">
