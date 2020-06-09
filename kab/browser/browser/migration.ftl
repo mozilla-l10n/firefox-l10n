@@ -97,6 +97,52 @@ imported-edge-reading-list = Tabdart n tɣuṛi (seg Safari)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Inagan n tuqqna
+browser-data-cookies-label =
+    .value = Inagan n tuqqna
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Azray n tunigin d tecraḍ n yisebtar
+           *[other] Azray n tunigin
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Azray n tunigin d tecraḍ n yisebtar
+           *[other] Azray n tunigin
+        }
+browser-data-formdata-checkbox =
+    .label = Yettwakles seg uzray
+browser-data-formdata-label =
+    .value = Yettwakles seg uzray
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Inekcam d wawalen uffiren ttwaskelsen
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Inekcam d wawalen uffiren ttwaskelsen
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Ismenyifen
+            [edge] Ismenyifen
+           *[other] Ticraḍ n yisebtar
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Ismenyifen
+            [edge] Ismenyifen
+           *[other] Ticraḍ n yisebtar
+        }
+browser-data-otherdata-checkbox =
+    .label = Isefka-nniḍen
+browser-data-otherdata-label =
+    .label = Isefka-nniḍen
 browser-data-session-checkbox =
     .label = Isfuyla d yiccaren
 browser-data-session-label =
