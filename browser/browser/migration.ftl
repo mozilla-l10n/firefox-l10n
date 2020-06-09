@@ -97,6 +97,52 @@ imported-edge-reading-list = Leseliste (fra Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Infokapsler
+browser-data-cookies-label =
+    .value = Infokapsler
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Nettleserhistorikk og bokmerker
+           *[other] Nettleserhistorikk
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Nettleserhistorikk og bokmerker
+           *[other] Nettleserhistorikk
+        }
+browser-data-formdata-checkbox =
+    .label = Skjemahistorikk
+browser-data-formdata-label =
+    .value = Skjemahistorikk
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Lagrede innlogginger og passord
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Lagrede innlogginger og passord
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favoritter
+            [edge] Favoritter
+           *[other] Bokmerker
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favoritter
+            [edge] Favoritter
+           *[other] Bokmerker
+        }
+browser-data-otherdata-checkbox =
+    .label = Andre data
+browser-data-otherdata-label =
+    .label = Andre data
 browser-data-session-checkbox =
     .label = Vinduer og faner
 browser-data-session-label =
