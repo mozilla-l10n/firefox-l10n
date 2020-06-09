@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Privileezjes…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Jo hawwe de folgjende foegen:">
+<!ENTITY folderOtherUsers.label                  "Oaren mei tagong ta dizze map:">
 <!ENTITY folderType.label                        "Maptype:">
 
 <!ENTITY folderQuotaTab.label                    "Kwota">
