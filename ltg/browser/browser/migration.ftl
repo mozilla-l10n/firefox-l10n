@@ -90,3 +90,7 @@ imported-edge-reading-list = Skaitamū lītu saroksts (Nu Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Lūgus i cilnes
+browser-data-session-label =
+    .value = Lūgus i cilnes
