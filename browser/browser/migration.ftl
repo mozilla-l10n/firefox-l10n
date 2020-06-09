@@ -77,151 +77,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Lugemisnimekiri (Safarist)
 imported-edge-reading-list = Lugemisnimekiri (Edge'ist)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Interneti sätted
-    .value = Interneti sätted
-browser-data-edge-1 =
-    .label = Sätted
-    .value = Sätted
-browser-data-safari-1 =
-    .label = Eelistused
-    .value = Eelistused
-browser-data-chrome-1 =
-    .label = Eelistused
-    .value = Eelistused
-browser-data-canary-1 =
-    .label = Eelistused
-    .value = Eelistused
-browser-data-360se-1 =
-    .label = Eelistused
-    .value = Eelistused
-browser-data-ie-2 =
-    .label = Küpsised
-    .value = Küpsised
-browser-data-edge-2 =
-    .label = Küpsised
-    .value = Küpsised
-browser-data-safari-2 =
-    .label = Küpsised
-    .value = Küpsised
-browser-data-chrome-2 =
-    .label = Küpsised
-    .value = Küpsised
-browser-data-canary-2 =
-    .label = Küpsised
-    .value = Küpsised
-browser-data-firefox-2 =
-    .label = Küpsised
-    .value = Küpsised
-browser-data-360se-2 =
-    .label = Küpsised
-    .value = Küpsised
-browser-data-ie-4 =
-    .label = Brausimise ajalugu
-    .value = Brausimise ajalugu
-browser-data-edge-4 =
-    .label = Brausimise ajalugu
-    .value = Brausimise ajalugu
-browser-data-safari-4 =
-    .label = Brausimise ajalugu
-    .value = Brausimise ajalugu
-browser-data-chrome-4 =
-    .label = Brausimise ajalugu
-    .value = Brausimise ajalugu
-browser-data-canary-4 =
-    .label = Brausimise ajalugu
-    .value = Brausimise ajalugu
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Brausimise ajalugu ja järjehoidjad
-    .value = Brausimise ajalugu ja järjehoidjad
-browser-data-360se-4 =
-    .label = Brausimise ajalugu
-    .value = Brausimise ajalugu
-browser-data-ie-8 =
-    .label = Salvestatud vormide ajalugu
-    .value = Salvestatud vormide ajalugu
-browser-data-edge-8 =
-    .label = Salvestatud vormide ajalugu
-    .value = Salvestatud vormide ajalugu
-browser-data-safari-8 =
-    .label = Salvestatud vormide ajalugu
-    .value = Salvestatud vormide ajalugu
-browser-data-chrome-8 =
-    .label = Salvestatud vormide ajalugu
-    .value = Salvestatud vormide ajalugu
-browser-data-canary-8 =
-    .label = Salvestatud vormide ajalugu
-    .value = Salvestatud vormide ajalugu
-browser-data-firefox-8 =
-    .label = Salvestatud vormide ajalugu
-    .value = Salvestatud vormide ajalugu
-browser-data-360se-8 =
-    .label = Salvestatud vormide ajalugu
-    .value = Salvestatud vormide ajalugu
-browser-data-ie-16 =
-    .label = Salvestatud paroolid
-    .value = Salvestatud paroolid
-browser-data-edge-16 =
-    .label = Salvestatud paroolid
-    .value = Salvestatud paroolid
-browser-data-safari-16 =
-    .label = Salvestatud paroolid
-    .value = Salvestatud paroolid
-browser-data-chrome-16 =
-    .label = Salvestatud paroolid
-    .value = Salvestatud paroolid
-browser-data-canary-16 =
-    .label = Salvestatud paroolid
-    .value = Salvestatud paroolid
-browser-data-firefox-16 =
-    .label = Salvestatud paroolid
-    .value = Salvestatud paroolid
-browser-data-360se-16 =
-    .label = Salvestatud paroolid
-    .value = Salvestatud paroolid
-browser-data-ie-32 =
-    .label = Lemmikud
-    .value = Lemmikud
-browser-data-edge-32 =
-    .label = Lemmikud
-    .value = Lemmikud
-browser-data-safari-32 =
-    .label = Järjehoidjad
-    .value = Järjehoidjad
-browser-data-chrome-32 =
-    .label = Järjehoidjad
-    .value = Järjehoidjad
-browser-data-canary-32 =
-    .label = Järjehoidjad
-    .value = Järjehoidjad
-browser-data-360se-32 =
-    .label = Järjehoidjad
-    .value = Järjehoidjad
-browser-data-ie-64 =
-    .label = Muud andmed
-    .value = Muud andmed
-browser-data-edge-64 =
-    .label = Muud andmed
-    .value = Muud andmed
-browser-data-safari-64 =
-    .label = Muud andmed
-    .value = Muud andmed
-browser-data-chrome-64 =
-    .label = Muud andmed
-    .value = Muud andmed
-browser-data-canary-64 =
-    .label = Muud andmed
-    .value = Muud andmed
-browser-data-firefox-other-64 =
-    .label = Muud andmed
-    .value = Muud andmed
-browser-data-360se-64 =
-    .label = Muud andmed
-    .value = Muud andmed
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Aknad ja kaardid
+browser-data-session-label =
     .value = Aknad ja kaardid
