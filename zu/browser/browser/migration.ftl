@@ -51,109 +51,16 @@ source-name-chrome = I-Google Chrome
 source-name-firefox = i-Mozilla Firefox
 imported-safari-reading-list = Uhlu lokufunda (kusukela ku-Safari)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Izinketho ze-i-nthanethi
-    .value = Izinketho ze-i-nthanethi
-browser-data-edge-1 =
-    .label = Izilungiselelo
-    .value = Izilungiselelo
-browser-data-safari-1 =
-    .label = Okuthandwayo
-    .value = Okuthandwayo
-browser-data-chrome-1 =
-    .label = Okuthandwayo
-    .value = Okuthandwayo
-browser-data-canary-1 =
-    .label = Okuthandwayo
-    .value = Okuthandwayo
-browser-data-ie-2 =
-    .label = Amakhukhi
-    .value = Amakhukhi
-browser-data-safari-2 =
-    .label = Amakhukhi
-    .value = Amakhukhi
-browser-data-chrome-2 =
-    .label = Amakhukhi
-    .value = Amakhukhi
-browser-data-canary-2 =
-    .label = Amakhukhi
-    .value = Amakhukhi
-browser-data-firefox-2 =
-    .label = Amakhukhi
-    .value = Amakhukhi
-browser-data-ie-4 =
-    .label = Umlando wokudlulisa amehlo
-    .value = Umlando wokudlulisa amehlo
-browser-data-safari-4 =
-    .label = Umlando wokudlulisa amehlo
-    .value = Umlando wokudlulisa amehlo
-browser-data-chrome-4 =
-    .label = Umlando wokudlulisa amehlo
-    .value = Umlando wokudlulisa amehlo
-browser-data-canary-4 =
-    .label = Umlando wokudlulisa amehlo
-    .value = Umlando wokudlulisa amehlo
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Umlando wokudlulisa amehlo namabhukhimakhi
-    .value = Umlando wokudlulisa amehlo namabhukhimakhi
-browser-data-ie-8 =
-    .label = Umlando ogcinwe kwifomu
-    .value = Umlando ogcinwe kwifomu
-browser-data-safari-8 =
-    .label = Umlando ogcinwe kwifomu
-    .value = Umlando ogcinwe kwifomu
-browser-data-chrome-8 =
-    .label = Umlando ogcinwe kwifomu
-    .value = Umlando ogcinwe kwifomu
-browser-data-canary-8 =
-    .label = Umlando ogcinwe kwifomu
-    .value = Umlando ogcinwe kwifomu
-browser-data-firefox-8 =
-    .label = Umlando ogcinwe kwifomu
-    .value = Umlando ogcinwe kwifomu
-browser-data-ie-16 =
-    .label = Amaphasiwedi agciniwe
-    .value = Amaphasiwedi agciniwe
-browser-data-safari-16 =
-    .label = Amaphasiwedi agciniwe
-    .value = Amaphasiwedi agciniwe
-browser-data-chrome-16 =
-    .label = Amaphasiwedi agciniwe
-    .value = Amaphasiwedi agciniwe
-browser-data-canary-16 =
-    .label = Amaphasiwedi agciniwe
-    .value = Amaphasiwedi agciniwe
-browser-data-firefox-16 =
-    .label = Amaphasiwedi agciniwe
-    .value = Amaphasiwedi agciniwe
-browser-data-safari-32 =
-    .label = Izimpawu zokubekisa
-    .value = Izimpawu zokubekisa
-browser-data-chrome-32 =
-    .label = Amabhukhimakhi
-    .value = Amabhukhimakhi
-browser-data-canary-32 =
-    .label = Amabhukhimakhi
-    .value = Amabhukhimakhi
-browser-data-ie-64 =
-    .label = Enye idatha
-    .value = Enye idatha
-browser-data-safari-64 =
-    .label = Enye idatha
-    .value = Enye idatha
-browser-data-chrome-64 =
-    .label = Enye idatha
-    .value = Enye idatha
-browser-data-canary-64 =
-    .label = Enye idatha
-    .value = Enye idatha
-browser-data-firefox-other-64 =
-    .label = Enye idatha
-    .value = Enye idatha
-browser-data-firefox-128 =
-    .label = Amawindi namamaki
-    .value = Amawindi namamaki
