@@ -77,151 +77,16 @@ source-name-360se = 360 Pelayar Selamat
 imported-safari-reading-list = Senarai Membaca (Dari Safari)
 imported-edge-reading-list = Senarai Membaca (Dari Safari)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Pilihan Internet
-    .value = Pilihan Internet
-browser-data-edge-1 =
-    .label = Tetapan
-    .value = Tetapan
-browser-data-safari-1 =
-    .label = Keutamaan
-    .value = Keutamaan
-browser-data-chrome-1 =
-    .label = Keutamaan
-    .value = Keutamaan
-browser-data-canary-1 =
-    .label = Keutamaan
-    .value = Keutamaan
-browser-data-360se-1 =
-    .label = Keutamaan
-    .value = Keutamaan
-browser-data-ie-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-edge-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-safari-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-chrome-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-canary-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-firefox-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-360se-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-ie-4 =
-    .label = Sejarah Pelayaran
-    .value = Sejarah Pelayaran
-browser-data-edge-4 =
-    .label = Sejarah Pelayaran
-    .value = Sejarah Pelayaran
-browser-data-safari-4 =
-    .label = Sejarah Pelayaran
-    .value = Sejarah Pelayaran
-browser-data-chrome-4 =
-    .label = Sejarah Pelayaran
-    .value = Sejarah Pelayaran
-browser-data-canary-4 =
-    .label = Sejarah Pelayaran
-    .value = Sejarah Pelayaran
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Sejarah Pelayaran dan Tandabuku
-    .value = Sejarah Pelayaran dan Tandabuku
-browser-data-360se-4 =
-    .label = Sejarah Pelayaran
-    .value = Sejarah Pelayaran
-browser-data-ie-8 =
-    .label = Sejarah Borang Disimpan
-    .value = Sejarah Borang Disimpan
-browser-data-edge-8 =
-    .label = Sejarah Borang Disimpan
-    .value = Sejarah Borang Disimpan
-browser-data-safari-8 =
-    .label = Sejarah Borang Disimpan
-    .value = Sejarah Borang Disimpan
-browser-data-chrome-8 =
-    .label = Sejarah Borang Disimpan
-    .value = Sejarah Borang Disimpan
-browser-data-canary-8 =
-    .label = Sejarah Borang Disimpan
-    .value = Sejarah Borang Disimpan
-browser-data-firefox-8 =
-    .label = Sejarah Borang Disimpan
-    .value = Sejarah Borang Disimpan
-browser-data-360se-8 =
-    .label = Sejarah Borang Disimpan
-    .value = Sejarah Borang Disimpan
-browser-data-ie-16 =
-    .label = Kata laluan Disimpan
-    .value = Kata laluan Disimpan
-browser-data-edge-16 =
-    .label = Kata laluan Disimpan
-    .value = Kata laluan Disimpan
-browser-data-safari-16 =
-    .label = Kata laluan Disimpan
-    .value = Kata laluan Disimpan
-browser-data-chrome-16 =
-    .label = Kata laluan Disimpan
-    .value = Kata laluan Disimpan
-browser-data-canary-16 =
-    .label = Kata laluan Disimpan
-    .value = Kata laluan Disimpan
-browser-data-firefox-16 =
-    .label = Kata laluan Disimpan
-    .value = Kata laluan Disimpan
-browser-data-360se-16 =
-    .label = Kata laluan Disimpan
-    .value = Kata laluan Disimpan
-browser-data-ie-32 =
-    .label = Kegemaran
-    .value = Kegemaran
-browser-data-edge-32 =
-    .label = Kegemaran
-    .value = Kegemaran
-browser-data-safari-32 =
-    .label = Tandabuku
-    .value = Tandabuku
-browser-data-chrome-32 =
-    .label = Tandabuku
-    .value = Tandabuku
-browser-data-canary-32 =
-    .label = Tandabuku
-    .value = Tandabuku
-browser-data-360se-32 =
-    .label = Tandabuku
-    .value = Tandabuku
-browser-data-ie-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-edge-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-safari-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-chrome-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-canary-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-firefox-other-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-360se-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-firefox-128 =
-    .label = Tetingkap dan Tab
-    .value = Tetingkap dan Tab
