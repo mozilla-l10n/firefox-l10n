@@ -51,109 +51,16 @@ source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
 imported-safari-reading-list = Lelokelelo la go bala (go tšwa Safari)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Dikgetho tša inthanete
-    .value = Dikgetho tša inthanete
-browser-data-edge-1 =
-    .label = Dipeakanyo
-    .value = Dipeakanyo
-browser-data-safari-1 =
-    .label = Dikganyogo
-    .value = Dikganyogo
-browser-data-chrome-1 =
-    .label = Dikganyogwa
-    .value = Dikganyogwa
-browser-data-canary-1 =
-    .label = Dikganyogwa
-    .value = Dikganyogwa
-browser-data-ie-2 =
-    .label = Dikhukhi
-    .value = Dikhukhi
-browser-data-safari-2 =
-    .label = Dikhukhi
-    .value = Dikhukhi
-browser-data-chrome-2 =
-    .label = Dikhukhi
-    .value = Dikhukhi
-browser-data-canary-2 =
-    .label = Dikhukhi
-    .value = Dikhukhi
-browser-data-firefox-2 =
-    .label = Dikhukhi
-    .value = Dikhukhi
-browser-data-ie-4 =
-    .label = Histori ya go praosa
-    .value = Histori ya go praosa
-browser-data-safari-4 =
-    .label = Histori ya go praosa
-    .value = Histori ya go praosa
-browser-data-chrome-4 =
-    .label = Histori ya go praosa
-    .value = Histori ya go praosa
-browser-data-canary-4 =
-    .label = Histori ya go praosa
-    .value = Histori ya go praosa
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Histori ya go praosa le dipukutshwayo
-    .value = Histori ya go praosa le dipukutshwayo
-browser-data-ie-8 =
-    .label = Histori ya foromo ye e bolokilwego
-    .value = Histori ya foromo ye e bolokilwego
-browser-data-safari-8 =
-    .label = Histori ya foromo ye e bolokilwego
-    .value = Histori ya foromo ye e bolokilwego
-browser-data-chrome-8 =
-    .label = Histori ya foromo ye e bolokilwego
-    .value = Histori ya foromo ye e bolokilwego
-browser-data-canary-8 =
-    .label = Histori ya foromo ye e bolokilwego
-    .value = Histori ya foromo ye e bolokilwego
-browser-data-firefox-8 =
-    .label = Histori ya foromo ye e bolokilwego
-    .value = Histori ya foromo ye e bolokilwego
-browser-data-ie-16 =
-    .label = Mantšuphetišo ao a bolokilwego
-    .value = Mantšuphetišo ao a bolokilwego
-browser-data-safari-16 =
-    .label = Mantšuphetišo ao a bolokilwego
-    .value = Mantšuphetišo ao a bolokilwego
-browser-data-chrome-16 =
-    .label = Mantšuphetišo ao a bolokilwego
-    .value = Mantšuphetišo ao a bolokilwego
-browser-data-canary-16 =
-    .label = Mantšuphetišo ao a bolokilwego
-    .value = Mantšuphetišo ao a bolokilwego
-browser-data-firefox-16 =
-    .label = Mantšuphetišo ao a bolokilwego
-    .value = Mantšuphetišo ao a bolokilwego
-browser-data-safari-32 =
-    .label = Dipukutshwayo
-    .value = Dipukutshwayo
-browser-data-chrome-32 =
-    .label = Dipukutshwayo
-    .value = Dipukutshwayo
-browser-data-canary-32 =
-    .label = Dipukutshwayo
-    .value = Dipukutshwayo
-browser-data-ie-64 =
-    .label = Tsebišo e nngwe
-    .value = Tsebišo e nngwe
-browser-data-safari-64 =
-    .label = Tsebišo e nngwe
-    .value = Tsebišo e nngwe
-browser-data-chrome-64 =
-    .label = Tsebišo e nngwe
-    .value = Tsebišo e nngwe
-browser-data-canary-64 =
-    .label = Tsebišo e nngwe
-    .value = Tsebišo e nngwe
-browser-data-firefox-other-64 =
-    .label = Tsebišo e nngwe
-    .value = Tsebišo e nngwe
-browser-data-firefox-128 =
-    .label = Mafasetere le dithepo
-    .value = Mafasetere le dithepo
