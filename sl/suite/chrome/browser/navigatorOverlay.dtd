@@ -47,5 +47,8 @@ left instead of right. -->
 
 
 
+<!ENTITY cookieCookieManager.label "Upravitelj piškotkov">
+<!ENTITY cookieImageManager.label "Upravitelj slik">
+<!ENTITY popupsManager.label "Upravitelj pojavnih oken">
 
 
