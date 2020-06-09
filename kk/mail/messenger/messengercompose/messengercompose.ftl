@@ -10,6 +10,21 @@ remove-address-row-type = { $type } өрісін өшіру
 pill-action-edit =
     .label = Адресті түзету
     .accesskey = е
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value =
+        { $count ->
+            [1] { $count } салыным
+           *[other] { $count } салыным
+        }
+    .accesskey = м
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] { $count } салыным
+           *[other] { $count } салыным
+        }
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
