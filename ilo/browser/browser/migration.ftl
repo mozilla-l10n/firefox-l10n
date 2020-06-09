@@ -19,76 +19,20 @@ import-close-source-browser = Pamnekanyo ket nakarikep ti pinili a panglayag sak
 imported-bookmarks-source = Manipud { $source }
 source-name-firefox = Mozilla Firefox
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Opsion ti Internet
-    .value = Opsion ti Internet
-browser-data-edge-1 =
-    .label = Pakaitudo
-    .value = Pakaitudo
-browser-data-safari-1 =
-    .label = Pagdumdumaan
-    .value = Pagdumdumaan
-browser-data-chrome-1 =
-    .label = Pagdumdumaan
-    .value = Pagdumdumaan
-browser-data-canary-1 =
-    .label = Pagdumdumaan
-    .value = Pagdumdumaan
-browser-data-ie-8 =
-    .label = Naidulin a Pakasaritaan ti Pormulario
-    .value = Naidulin a Pakasaritaan ti Pormulario
-browser-data-safari-8 =
-    .label = Naidulin a Pakasaritaan ti Pormulario
-    .value = Naidulin a Pakasaritaan ti Pormulario
-browser-data-chrome-8 =
-    .label = Naidulin a Pakasaritaan ti Pormulario
-    .value = Naidulin a Pakasaritaan ti Pormulario
-browser-data-canary-8 =
-    .label = Naidulin a Pakasaritaan ti Pormulario
-    .value = Naidulin a Pakasaritaan ti Pormulario
-browser-data-firefox-8 =
-    .label = Naidulin a Pakasaritaan ti Pormulario
-    .value = Naidulin a Pakasaritaan ti Pormulario
-browser-data-ie-16 =
-    .label = Naidulin a Kontrasenias
-    .value = Naidulin a Kontrasenias
-browser-data-safari-16 =
-    .label = Naidulin a Kontrasenias
-    .value = Naidulin a Kontrasenias
-browser-data-chrome-16 =
-    .label = Naidulin a Kontrasenias
-    .value = Naidulin a Kontrasenias
-browser-data-canary-16 =
-    .label = Naidulin a Kontrasenias
-    .value = Naidulin a Kontrasenias
-browser-data-firefox-16 =
-    .label = Naidulin a Kontrasenias
-    .value = Naidulin a Kontrasenias
-browser-data-safari-32 =
-    .label = Pannanda
-    .value = Pannanda
-browser-data-chrome-32 =
-    .label = Pannanda
-    .value = Pannanda
-browser-data-canary-32 =
-    .label = Pannanda
-    .value = Pannanda
-browser-data-ie-64 =
-    .label = Dadduma a Datos
-    .value = Dadduma a Datos
-browser-data-safari-64 =
-    .label = Dadduma a Datos
-    .value = Dadduma a Datos
-browser-data-chrome-64 =
-    .label = Dadduma a Datos
-    .value = Dadduma a Datos
-browser-data-canary-64 =
-    .label = Dadduma a Datos
-    .value = Dadduma a Datos
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Tawa ken Etiketa
+browser-data-session-label =
     .value = Tawa ken Etiketa
