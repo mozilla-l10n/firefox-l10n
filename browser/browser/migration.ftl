@@ -84,151 +84,16 @@ source-name-360se = 360 sikker nettleser.
 imported-safari-reading-list = Leseliste (Fra Safari)
 imported-edge-reading-list = Leseliste (fra Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internett-innstillinger
-    .value = Internett-innstillinger
-browser-data-edge-1 =
-    .label = Innstillinger
-    .value = Innstillinger
-browser-data-safari-1 =
-    .label = Innstillinger
-    .value = Innstillinger
-browser-data-chrome-1 =
-    .label = Innstillinger
-    .value = Innstillinger
-browser-data-canary-1 =
-    .label = Innstillinger
-    .value = Innstillinger
-browser-data-360se-1 =
-    .label = Innstillinger
-    .value = Innstillinger
-browser-data-ie-2 =
-    .label = Infokapsler
-    .value = Infokapsler
-browser-data-edge-2 =
-    .label = Infokapsler
-    .value = Infokapsler
-browser-data-safari-2 =
-    .label = Infokapsler
-    .value = Infokapsler
-browser-data-chrome-2 =
-    .label = Infokapsler
-    .value = Infokapsler
-browser-data-canary-2 =
-    .label = Infokapsler
-    .value = Infokapsler
-browser-data-firefox-2 =
-    .label = Infokapsler
-    .value = Infokapsler
-browser-data-360se-2 =
-    .label = Infokapsler
-    .value = Infokapsler
-browser-data-ie-4 =
-    .label = Nettleserhistorikk
-    .value = Nettleserhistorikk
-browser-data-edge-4 =
-    .label = Nettleserhistorikk
-    .value = Nettleserhistorikk
-browser-data-safari-4 =
-    .label = Nettleserhistorikk
-    .value = Nettleserhistorikk
-browser-data-chrome-4 =
-    .label = Nettleserhistorikk
-    .value = Nettleserhistorikk
-browser-data-canary-4 =
-    .label = Nettleserhistorikk
-    .value = Nettleserhistorikk
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Nettleserhistorikk og bokmerker
-    .value = Nettleserhistorikk og bokmerker
-browser-data-360se-4 =
-    .label = Nettleserhistorikk
-    .value = Nettleserhistorikk
-browser-data-ie-8 =
-    .label = Skjemahistorikk
-    .value = Skjemahistorikk
-browser-data-edge-8 =
-    .label = Skjemahistorikk
-    .value = Skjemahistorikk
-browser-data-safari-8 =
-    .label = Skjemahistorikk
-    .value = Skjemahistorikk
-browser-data-chrome-8 =
-    .label = Skjemahistorikk
-    .value = Skjemahistorikk
-browser-data-canary-8 =
-    .label = Skjemahistorikk
-    .value = Skjemahistorikk
-browser-data-firefox-8 =
-    .label = Skjemahistorikk
-    .value = Skjemahistorikk
-browser-data-360se-8 =
-    .label = Skjemahistorikk
-    .value = Skjemahistorikk
-browser-data-ie-16 =
-    .label = Lagrede passord
-    .value = Lagrede passord
-browser-data-edge-16 =
-    .label = Saved Passwords
-    .value = Saved Passwords
-browser-data-safari-16 =
-    .label = Lagrede passord
-    .value = Lagrede passord
-browser-data-chrome-16 =
-    .label = Lagrede passord
-    .value = Lagrede passord
-browser-data-canary-16 =
-    .label = Lagrede passord
-    .value = Lagrede passord
-browser-data-firefox-16 =
-    .label = Lagrede passord
-    .value = Lagrede passord
-browser-data-360se-16 =
-    .label = Lagret passord
-    .value = Lagret passord
-browser-data-ie-32 =
-    .label = Favoritter
-    .value = Favoritter
-browser-data-edge-32 =
-    .label = Favoritter
-    .value = Favoritter
-browser-data-safari-32 =
-    .label = Bokmerker
-    .value = Bokmerker
-browser-data-chrome-32 =
-    .label = Bokmerker
-    .value = Bokmerker
-browser-data-canary-32 =
-    .label = Bokmerker
-    .value = Bokmerker
-browser-data-360se-32 =
-    .label = Bokmerker
-    .value = Bokmerker
-browser-data-ie-64 =
-    .label = Andre data
-    .value = Andre data
-browser-data-edge-64 =
-    .label = Andre data
-    .value = Andre data
-browser-data-safari-64 =
-    .label = Andre data
-    .value = Andre data
-browser-data-chrome-64 =
-    .label = Andre data
-    .value = Andre data
-browser-data-canary-64 =
-    .label = Andre data
-    .value = Andre data
-browser-data-firefox-other-64 =
-    .label = Andre data
-    .value = Andre data
-browser-data-360se-64 =
-    .label = Andre data
-    .value = Andre data
-browser-data-firefox-128 =
-    .label = Vinduer og faner
-    .value = Vinduer og faner
