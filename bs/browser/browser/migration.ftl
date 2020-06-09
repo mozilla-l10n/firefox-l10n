@@ -69,151 +69,20 @@ source-name-360se = 360 sigurni browser
 imported-safari-reading-list = Lista za čitanje (iz Safarija)
 imported-edge-reading-list = Lista za čitanje (iz Edge-a)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internet opcije
-    .value = Internet opcije
-browser-data-edge-1 =
-    .label = Postavke
-    .value = Postavke
-browser-data-safari-1 =
-    .label = Postavke
-    .value = Postavke
-browser-data-chrome-1 =
-    .label = Postavke
-    .value = Postavke
-browser-data-canary-1 =
-    .label = Postavke
-    .value = Postavke
-browser-data-360se-1 =
-    .label = Postavke
-    .value = Postavke
-browser-data-ie-2 =
-    .label = Kolačići
-    .value = Kolačići
-browser-data-edge-2 =
-    .label = Kolačići
-    .value = Kolačići
-browser-data-safari-2 =
-    .label = Kolačići
-    .value = Kolačići
-browser-data-chrome-2 =
-    .label = Kolačići
-    .value = Kolačići
-browser-data-canary-2 =
-    .label = Kolačići
-    .value = Kolačići
-browser-data-firefox-2 =
-    .label = Kolačići
-    .value = Kolačići
-browser-data-360se-2 =
-    .label = Kolačići
-    .value = Kolačići
-browser-data-ie-4 =
-    .label = Historija surfanja
-    .value = Historija surfanja
-browser-data-edge-4 =
-    .label = Historija surfanja
-    .value = Historija surfanja
-browser-data-safari-4 =
-    .label = Historija surfanja
-    .value = Historija surfanja
-browser-data-chrome-4 =
-    .label = Historija surfanja
-    .value = Historija surfanja
-browser-data-canary-4 =
-    .label = Historija surfanja
-    .value = Historija surfanja
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Historija surfanja i zabilješke
-    .value = Historija surfanja i zabilješke
-browser-data-360se-4 =
-    .label = Historija surfanja
-    .value = Historija surfanja
-browser-data-ie-8 =
-    .label = Historija spašenih formi
-    .value = Historija spašenih formi
-browser-data-edge-8 =
-    .label = Historija spašenih formi
-    .value = Historija spašenih formi
-browser-data-safari-8 =
-    .label = Historija spašenih formi
-    .value = Historija spašenih formi
-browser-data-chrome-8 =
-    .label = Historija spašenih formi
-    .value = Historija spašenih formi
-browser-data-canary-8 =
-    .label = Historija spašenih formi
-    .value = Historija spašenih formi
-browser-data-firefox-8 =
-    .label = Historija spašenih formi
-    .value = Historija spašenih formi
-browser-data-360se-8 =
-    .label = Historija spašenih formi
-    .value = Historija spašenih formi
-browser-data-ie-16 =
-    .label = Spašene lozinke
-    .value = Spašene lozinke
-browser-data-edge-16 =
-    .label = Spašene lozinke
-    .value = Spašene lozinke
-browser-data-safari-16 =
-    .label = Spašene lozinke
-    .value = Spašene lozinke
-browser-data-chrome-16 =
-    .label = Spašene lozinke
-    .value = Spašene lozinke
-browser-data-canary-16 =
-    .label = Spašene lozinke
-    .value = Spašene lozinke
-browser-data-firefox-16 =
-    .label = Spašene lozinke
-    .value = Spašene lozinke
-browser-data-360se-16 =
-    .label = Spašene lozinke
-    .value = Spašene lozinke
-browser-data-ie-32 =
-    .label = Favoriti
-    .value = Favoriti
-browser-data-edge-32 =
-    .label = Favoriti
-    .value = Favoriti
-browser-data-safari-32 =
-    .label = Zabilješke
-    .value = Zabilješke
-browser-data-chrome-32 =
-    .label = Zabilješke
-    .value = Zabilješke
-browser-data-canary-32 =
-    .label = Zabilješke
-    .value = Zabilješke
-browser-data-360se-32 =
-    .label = Zabilješke
-    .value = Zabilješke
-browser-data-ie-64 =
-    .label = Ostali podaci
-    .value = Ostali podaci
-browser-data-edge-64 =
-    .label = Ostali podaci
-    .value = Ostali podaci
-browser-data-safari-64 =
-    .label = Ostali podaci
-    .value = Ostali podaci
-browser-data-chrome-64 =
-    .label = Ostali podaci
-    .value = Ostali podaci
-browser-data-canary-64 =
-    .label = Ostali podaci
-    .value = Ostali podaci
-browser-data-firefox-other-64 =
-    .label = Ostali podaci
-    .value = Ostali podaci
-browser-data-360se-64 =
-    .label = Ostali podaci
-    .value = Ostali podaci
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Prozori i tabovi
+browser-data-session-label =
     .value = Prozori i tabovi
