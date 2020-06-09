@@ -97,3 +97,7 @@ imported-edge-reading-list = Lista de leitura (do Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Janelas e separadores
+browser-data-session-label =
+    .value = Janelas e separadores
