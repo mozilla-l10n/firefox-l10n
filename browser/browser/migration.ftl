@@ -97,3 +97,7 @@ imported-edge-reading-list = 閱讀清單（來自 Edge）
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = 視窗與分頁
+browser-data-session-label =
+    .value = 視窗與分頁
