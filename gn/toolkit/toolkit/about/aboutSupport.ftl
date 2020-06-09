@@ -116,6 +116,9 @@ sandbox-sys-call-number = Ñehenói pumbyrýpe
 sandbox-sys-call-args = Je'ekuaaite
 safe-mode-title = Eipuru teko jerovia
 restart-in-safe-mode-label = Moĩmbaha oguepyréva moñepyrũjey…
+clear-startup-cache-title = Emohenda kache ñepyrũha ñembogue
+clear-startup-cache-label = Embogue kache ñepyrũha…
+startup-cache-dialog-title = Embogue kache ñepyrũha
 restart-button-label = Ñepyrũjey
 
 ## Media titles
