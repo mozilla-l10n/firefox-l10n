@@ -119,6 +119,11 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguminten
 safe-mode-title = Probearje de feilige modus
 restart-in-safe-mode-label = Werstart mei útskeakele add-ons…
+clear-startup-cache-title = Opstartbuffer probearje te wiskjen
+clear-startup-cache-label = Opstartbuffer wiskje…
+startup-cache-dialog-title = Opstartbuffer wiskje
+startup-cache-dialog-body = Start { -brand-short-name } opnij om de opstartbuffer te wiskjen. Dit wiziget jo ynstellingen net en smyt gjin oan { -brand-short-name } tafoege útwreidingen fuort.
+restart-button-label = Opnij starte
 
 ## Media titles
 
