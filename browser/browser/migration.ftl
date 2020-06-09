@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Daftar Bacaan (Dari Safari)
 imported-edge-reading-list = Daftar Bacaan (Dari Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Pengaturan Internet
-    .value = Pengaturan Internet
-browser-data-edge-1 =
-    .label = Setelan
-    .value = Setelan
-browser-data-safari-1 =
-    .label = Pengaturan
-    .value = Pengaturan
-browser-data-chrome-1 =
-    .label = Preferensi
-    .value = Preferensi
-browser-data-canary-1 =
-    .label = Preferensi
-    .value = Preferensi
-browser-data-360se-1 =
-    .label = Pengaturan
-    .value = Pengaturan
-browser-data-ie-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-edge-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-safari-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-chrome-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-canary-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-firefox-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-360se-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-ie-4 =
-    .label = Riwayat Jelajah Web
-    .value = Riwayat Jelajah Web
-browser-data-edge-4 =
-    .label = Riwayat Jelajah
-    .value = Riwayat Jelajah
-browser-data-safari-4 =
-    .label = Riwayat Jelajah Web
-    .value = Riwayat Jelajah Web
-browser-data-chrome-4 =
-    .label = Riwayat Peramban
-    .value = Riwayat Peramban
-browser-data-canary-4 =
-    .label = Riwayat Peramban
-    .value = Riwayat Peramban
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Riwayat Peramban dan Markah
-    .value = Riwayat Peramban dan Markah
-browser-data-360se-4 =
-    .label = Riwayat Jelajah Web
-    .value = Riwayat Jelajah Web
-browser-data-ie-8 =
-    .label = Riwayat Form Tersimpan
-    .value = Riwayat Form Tersimpan
-browser-data-edge-8 =
-    .label = Riwayat Formulir Tersimpan
-    .value = Riwayat Formulir Tersimpan
-browser-data-safari-8 =
-    .label = Riwayat Form Tersimpan
-    .value = Riwayat Form Tersimpan
-browser-data-chrome-8 =
-    .label = Riwayat Form Simpanan
-    .value = Riwayat Form Simpanan
-browser-data-canary-8 =
-    .label = Riwayat Form Simpanan
-    .value = Riwayat Form Simpanan
-browser-data-firefox-8 =
-    .label = Riwayat Form Simpanan
-    .value = Riwayat Form Simpanan
-browser-data-360se-8 =
-    .label = Riwayat Formulir Tersimpan
-    .value = Riwayat Formulir Tersimpan
-browser-data-ie-16 =
-    .label = Sandi Tersimpan
-    .value = Sandi Tersimpan
-browser-data-edge-16 =
-    .label = Sandi Tersimpan
-    .value = Sandi Tersimpan
-browser-data-safari-16 =
-    .label = Sandi Tersimpan
-    .value = Sandi Tersimpan
-browser-data-chrome-16 =
-    .label = Sandi Tersimpan
-    .value = Sandi Tersimpan
-browser-data-canary-16 =
-    .label = Sandi Tersimpan
-    .value = Sandi Tersimpan
-browser-data-firefox-16 =
-    .label = Sandi Tersimpan
-    .value = Sandi Tersimpan
-browser-data-360se-16 =
-    .label = Sandi Tersimpan
-    .value = Sandi Tersimpan
-browser-data-ie-32 =
-    .label = Favorit
-    .value = Favorit
-browser-data-edge-32 =
-    .label = Favorit
-    .value = Favorit
-browser-data-safari-32 =
-    .label = Bookmark
-    .value = Bookmark
-browser-data-chrome-32 =
-    .label = Bookmark
-    .value = Bookmark
-browser-data-canary-32 =
-    .label = Bookmark
-    .value = Bookmark
-browser-data-360se-32 =
-    .label = Markah
-    .value = Markah
-browser-data-ie-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-edge-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-safari-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-chrome-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-canary-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-firefox-other-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-360se-64 =
-    .label = Data Lain
-    .value = Data Lain
-browser-data-firefox-128 =
-    .label = Jendela dan Tab
-    .value = Jendela dan Tab
