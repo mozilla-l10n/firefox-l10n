@@ -69,151 +69,16 @@ source-name-360se = 360 സെക്യുവര്‍ ബ്രൌസര്‍
 imported-safari-reading-list = വായനയ്ക്കുള്ള പട്ടിക (സഫാരിയില്‍ നിന്നും)
 imported-edge-reading-list = വായനയ്ക്കുള്ള പട്ടിക (എഡ്ജില്‍ നിന്നും)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = ഇന്റര്‍നെറ്റ്‌ ഓപ്ഷനുകള്‍
-    .value = ഇന്റര്‍നെറ്റ്‌ ഓപ്ഷനുകള്‍
-browser-data-edge-1 =
-    .label = സജ്ജീകരണങ്ങള്‍
-    .value = സജ്ജീകരണങ്ങള്‍
-browser-data-safari-1 =
-    .label = മുന്‍ഗണനകള്‍
-    .value = മുന്‍ഗണനകള്‍
-browser-data-chrome-1 =
-    .label = മുന്‍ഗണനകള്‍
-    .value = മുന്‍ഗണനകള്‍
-browser-data-canary-1 =
-    .label = മുന്‍ഗണനകള്‍
-    .value = മുന്‍ഗണനകള്‍
-browser-data-360se-1 =
-    .label = മുന്‍ഗണനകള്‍
-    .value = മുന്‍ഗണനകള്‍
-browser-data-ie-2 =
-    .label = കുക്കികള്‍
-    .value = കുക്കികള്‍
-browser-data-edge-2 =
-    .label = കുക്കികള്‍
-    .value = കുക്കികള്‍
-browser-data-safari-2 =
-    .label = കുക്കികള്‍
-    .value = കുക്കികള്‍
-browser-data-chrome-2 =
-    .label = കുക്കികള്‍
-    .value = കുക്കികള്‍
-browser-data-canary-2 =
-    .label = കുക്കികള്‍
-    .value = കുക്കികള്‍
-browser-data-firefox-2 =
-    .label = കുക്കികള്‍
-    .value = കുക്കികള്‍
-browser-data-360se-2 =
-    .label = കുക്കികള്‍
-    .value = കുക്കികള്‍
-browser-data-ie-4 =
-    .label = തിരയല്‍ ചരിത്രം
-    .value = തിരയല്‍ ചരിത്രം
-browser-data-edge-4 =
-    .label = ബ്രൗസിങ്ങ് ചരിത്രം
-    .value = ബ്രൗസിങ്ങ് ചരിത്രം
-browser-data-safari-4 =
-    .label = തിരയല്‍ ചരിത്രം
-    .value = തിരയല്‍ ചരിത്രം
-browser-data-chrome-4 =
-    .label = ബ്രൌസ് ചെയ്ത നാള്‍വഴി
-    .value = ബ്രൌസ് ചെയ്ത നാള്‍വഴി
-browser-data-canary-4 =
-    .label = ബ്രൌസ് ചെയ്ത നാള്‍വഴി
-    .value = ബ്രൌസ് ചെയ്ത നാള്‍വഴി
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = വെബ് നാള്‍വഴിയും അടയാളക്കുറിപ്പുകളും
-    .value = വെബ് നാള്‍വഴിയും അടയാളക്കുറിപ്പുകളും
-browser-data-360se-4 =
-    .label = ബ്രൗസിങ്ങ് ചരിത്രം
-    .value = ബ്രൗസിങ്ങ് ചരിത്രം
-browser-data-ie-8 =
-    .label = സൂക്ഷിച്ചിരിക്കുന്ന ഫോറം ചരിത്രം
-    .value = സൂക്ഷിച്ചിരിക്കുന്ന ഫോറം ചരിത്രം
-browser-data-edge-8 =
-    .label = സൂക്ഷിച്ചിരിക്കുന്ന ഫോറം ചരിത്രം
-    .value = സൂക്ഷിച്ചിരിക്കുന്ന ഫോറം ചരിത്രം
-browser-data-safari-8 =
-    .label = സൂക്ഷിച്ചിരിക്കുന്ന ഫോറം ചരിത്രം
-    .value = സൂക്ഷിച്ചിരിക്കുന്ന ഫോറം ചരിത്രം
-browser-data-chrome-8 =
-    .label = സൂക്ഷിച്ച നാള്‍വഴി
-    .value = സൂക്ഷിച്ച നാള്‍വഴി
-browser-data-canary-8 =
-    .label = സൂക്ഷിച്ച നാള്‍വഴി
-    .value = സൂക്ഷിച്ച നാള്‍വഴി
-browser-data-firefox-8 =
-    .label = സൂക്ഷിച്ച നാള്‍വഴി
-    .value = സൂക്ഷിച്ച നാള്‍വഴി
-browser-data-360se-8 =
-    .label = സൂക്ഷിച്ചിരിക്കുന്ന ഫോറം ചരിത്രം
-    .value = സൂക്ഷിച്ചിരിക്കുന്ന ഫോറം ചരിത്രം
-browser-data-ie-16 =
-    .label = സൂക്ഷിച്ചിരിക്കുന്ന പസ്സ്‌വേര്‍ഡുകള്‍
-    .value = സൂക്ഷിച്ചിരിക്കുന്ന പസ്സ്‌വേര്‍ഡുകള്‍
-browser-data-edge-16 =
-    .label = സൂക്ഷിച്ചിരിക്കുന്ന പസ്സ്‌വേര്‍ഡുകള്‍
-    .value = സൂക്ഷിച്ചിരിക്കുന്ന പസ്സ്‌വേര്‍ഡുകള്‍
-browser-data-safari-16 =
-    .label = സൂക്ഷിച്ചിരിക്കുന്ന പസ്സ്‌വേര്‍ഡുകള്‍
-    .value = സൂക്ഷിച്ചിരിക്കുന്ന പസ്സ്‌വേര്‍ഡുകള്‍
-browser-data-chrome-16 =
-    .label = സൂക്ഷിച്ച രഹസ്യവാക്കുകള്‍
-    .value = സൂക്ഷിച്ച രഹസ്യവാക്കുകള്‍
-browser-data-canary-16 =
-    .label = സൂക്ഷിച്ച രഹസ്യവാക്കുകള്‍
-    .value = സൂക്ഷിച്ച രഹസ്യവാക്കുകള്‍
-browser-data-firefox-16 =
-    .label = സൂക്ഷിച്ച രഹസ്യവാക്കുകള്‍
-    .value = സൂക്ഷിച്ച രഹസ്യവാക്കുകള്‍
-browser-data-360se-16 =
-    .label = സൂക്ഷിച്ചിരിക്കുന്ന പസ്സ്‌വേര്‍ഡുകള്‍
-    .value = സൂക്ഷിച്ചിരിക്കുന്ന പസ്സ്‌വേര്‍ഡുകള്‍
-browser-data-ie-32 =
-    .label = പ്രിയപ്പെട്ടവ
-    .value = പ്രിയപ്പെട്ടവ
-browser-data-edge-32 =
-    .label = പ്രിയപ്പെട്ടവ
-    .value = പ്രിയപ്പെട്ടവ
-browser-data-safari-32 =
-    .label = അടയാളങ്ങള്‍
-    .value = അടയാളങ്ങള്‍
-browser-data-chrome-32 =
-    .label = അടയാളക്കുറിപ്പുകള്‍
-    .value = അടയാളക്കുറിപ്പുകള്‍
-browser-data-canary-32 =
-    .label = അടയാളക്കുറിപ്പുകള്‍
-    .value = അടയാളക്കുറിപ്പുകള്‍
-browser-data-360se-32 =
-    .label = അടയാളങ്ങള്‍
-    .value = അടയാളങ്ങള്‍
-browser-data-ie-64 =
-    .label = മറ്റു വിവരങ്ങള്‍
-    .value = മറ്റു വിവരങ്ങള്‍
-browser-data-edge-64 =
-    .label = മറ്റു വിവരങ്ങള്‍
-    .value = മറ്റു വിവരങ്ങള്‍
-browser-data-safari-64 =
-    .label = മറ്റു വിവരങ്ങള്‍
-    .value = മറ്റു വിവരങ്ങള്‍
-browser-data-chrome-64 =
-    .label = മറ്റു് ഡേറ്റാ
-    .value = മറ്റു് ഡേറ്റാ
-browser-data-canary-64 =
-    .label = മറ്റു് ഡേറ്റാ
-    .value = മറ്റു് ഡേറ്റാ
-browser-data-firefox-other-64 =
-    .label = മറ്റു വിവരങ്ങള്‍
-    .value = മറ്റു വിവരങ്ങള്‍
-browser-data-360se-64 =
-    .label = മറ്റു വിവരങ്ങള്‍
-    .value = മറ്റു വിവരങ്ങള്‍
-browser-data-firefox-128 =
-    .label = ടാബുകളും ജാലകങ്ങളും
-    .value = ടാബുകളും ജാലകങ്ങളും
