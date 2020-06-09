@@ -36,46 +36,16 @@ imported-bookmarks-source = Ku { $source }
 source-name-ie = Internet Explorer
 source-name-safari = Safari
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Tindlela tekukhetsa ku-inthanethi
-    .value = Tindlela tekukhetsa ku-inthanethi
-browser-data-safari-1 =
-    .label = Lokunconotako
-    .value = Lokunconotako
-browser-data-ie-2 =
-    .label = Emakukisi
-    .value = Emakukisi
-browser-data-safari-2 =
-    .label = Emakukisi
-    .value = Emakukisi
-browser-data-ie-4 =
-    .label = Tfunguluta umlandvo
-    .value = Tfunguluta umlandvo
-browser-data-safari-4 =
-    .label = Tfunguluta umlandvo
-    .value = Tfunguluta umlandvo
-browser-data-ie-8 =
-    .label = Luhlobo lwemlandvo loluseviw
-    .value = Luhlobo lwemlandvo loluseviw
-browser-data-safari-8 =
-    .label = Luhlobo lwemlandvo loluseviw
-    .value = Luhlobo lwemlandvo loluseviw
-browser-data-ie-16 =
-    .label = Libitophawu leliseviwe
-    .value = Libitophawu leliseviwe
-browser-data-safari-16 =
-    .label = Libitophawu leliseviwe
-    .value = Libitophawu leliseviwe
-browser-data-safari-32 =
-    .label = Tibekisi
-    .value = Tibekisi
-browser-data-ie-64 =
-    .label = Lenye idatha
-    .value = Lenye idatha
-browser-data-safari-64 =
-    .label = Lenye idatha
-    .value = Lenye idatha
