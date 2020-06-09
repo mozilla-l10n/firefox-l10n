@@ -84,151 +84,16 @@ source-name-360se = 360 Iminig aɣelsan
 imported-safari-reading-list = Tabdart n tɣuṛi (seg Safari)
 imported-edge-reading-list = Tabdart n tɣuṛi (seg Safari)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Iɣewwaṛen Intenet
-    .value = Iɣewwaṛen Intenet
-browser-data-edge-1 =
-    .label = Iɣewwaṛen
-    .value = Iɣewwaṛen
-browser-data-safari-1 =
-    .label = Ismenyifen
-    .value = Ismenyifen
-browser-data-chrome-1 =
-    .label = Ismenyifen
-    .value = Ismenyifen
-browser-data-canary-1 =
-    .label = Ismenyifen
-    .value = Ismenyifen
-browser-data-360se-1 =
-    .label = Ismenyifen
-    .value = Ismenyifen
-browser-data-ie-2 =
-    .label = Inagan n tuqqna
-    .value = Inagan n tuqqna
-browser-data-edge-2 =
-    .label = Inagan n tuqqna
-    .value = Inagan n tuqqna
-browser-data-safari-2 =
-    .label = Inagan n tuqqna
-    .value = Inagan n tuqqna
-browser-data-chrome-2 =
-    .label = Inagan n tuqqna
-    .value = Inagan n tuqqna
-browser-data-canary-2 =
-    .label = Inagan n tuqqna
-    .value = Inagan n tuqqna
-browser-data-firefox-2 =
-    .label = Inagan n tuqqna
-    .value = Inagan n tuqqna
-browser-data-360se-2 =
-    .label = Inagan n tuqqna
-    .value = Inagan n tuqqna
-browser-data-ie-4 =
-    .label = Azray n tunigin
-    .value = Azray n tunigin
-browser-data-edge-4 =
-    .label = Azray n tunigin
-    .value = Azray n tunigin
-browser-data-safari-4 =
-    .label = Azray n tunigin
-    .value = Azray n tunigin
-browser-data-chrome-4 =
-    .label = Azray n tunigin
-    .value = Azray n tunigin
-browser-data-canary-4 =
-    .label = Azray n tunigin
-    .value = Azray n tunigin
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Azray n tunigin d tecraḍ n isebtar
-    .value = Azray n tunigin d tecraḍ n isebtar
-browser-data-360se-4 =
-    .label = Azray n tunigin
-    .value = Azray n tunigin
-browser-data-ie-8 =
-    .label = Yettwakles seg umazray
-    .value = Yettwakles seg umazray
-browser-data-edge-8 =
-    .label = Amzaray n tferkit yettwakelsen
-    .value = Amzaray n tferkit yettwakelsen
-browser-data-safari-8 =
-    .label = Isefka n tferkit ttwakelsen
-    .value = Isefka n tferkit ttwakelsen
-browser-data-chrome-8 =
-    .label = Amzaray n tferkit yettwakelsen
-    .value = Amzaray n tferkit yettwakelsen
-browser-data-canary-8 =
-    .label = Amzaray n tferkit yettwakelsen
-    .value = Amzaray n tferkit yettwakelsen
-browser-data-firefox-8 =
-    .label = Amzaray n tferkit yettwakelsen
-    .value = Amzaray n tferkit yettwakelsen
-browser-data-360se-8 =
-    .label = Amzaray n tferkit yettwakelsen
-    .value = Amzaray n tferkit yettwakelsen
-browser-data-ie-16 =
-    .label = Awalen uffiren yettwakelsen
-    .value = Awalen uffiren yettwakelsen
-browser-data-edge-16 =
-    .label = Awalen uffiren yettwakelsen
-    .value = Awalen uffiren yettwakelsen
-browser-data-safari-16 =
-    .label = Awalen uffiren yettwakelsen
-    .value = Awalen uffiren yettwakelsen
-browser-data-chrome-16 =
-    .label = Awalen uffiren yettwakelsen
-    .value = Awalen uffiren yettwakelsen
-browser-data-canary-16 =
-    .label = Awalen uffiren yettwakelsen
-    .value = Awalen uffiren yettwakelsen
-browser-data-firefox-16 =
-    .label = Awalen uffiren yettwakelsen
-    .value = Awalen uffiren yettwakelsen
-browser-data-360se-16 =
-    .label = Awalen uffiren yettwakelsen
-    .value = Awalen uffiren yettwakelsen
-browser-data-ie-32 =
-    .label = Ismenyifen
-    .value = Ismenyifen
-browser-data-edge-32 =
-    .label = Ismenyifen
-    .value = Ismenyifen
-browser-data-safari-32 =
-    .label = Isɣalen
-    .value = Isɣalen
-browser-data-chrome-32 =
-    .label = Isɣalen
-    .value = Isɣalen
-browser-data-canary-32 =
-    .label = Isɣalen
-    .value = Isɣalen
-browser-data-360se-32 =
-    .label = Isɣalen
-    .value = Isɣalen
-browser-data-ie-64 =
-    .label = Isefka-nniḍen
-    .value = Isefka-nniḍen
-browser-data-edge-64 =
-    .label = Isefka-nniḍen
-    .value = Isefka-nniḍen
-browser-data-safari-64 =
-    .label = Isefka-nniḍen
-    .value = Isefka-nniḍen
-browser-data-chrome-64 =
-    .label = Isefka-nniḍen
-    .value = Isefka-nniḍen
-browser-data-canary-64 =
-    .label = Isefka-nniḍen
-    .value = Isefka-nniḍen
-browser-data-firefox-other-64 =
-    .label = Isefka-nniḍen
-    .value = Isefka-nniḍen
-browser-data-360se-64 =
-    .label = Isefka-nniḍen
-    .value = Isefka-nniḍen
-browser-data-firefox-128 =
-    .label = Isfuyla d yiccaren
-    .value = Isfuyla d yiccaren
