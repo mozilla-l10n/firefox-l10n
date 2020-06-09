@@ -77,151 +77,16 @@ source-name-360se = 360 सुरक्षित ब्राउझर
 imported-safari-reading-list = सूची वाचत आहे (सफारीपासून)
 imported-edge-reading-list = सूची वाचत आहे (Edge मधून)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = इंटरनेट पर्याय
-    .value = इंटरनेट पर्याय
-browser-data-edge-1 =
-    .label = सेटिंग
-    .value = सेटिंग
-browser-data-safari-1 =
-    .label = प्राधान्यक्रम
-    .value = प्राधान्यक्रम
-browser-data-chrome-1 =
-    .label = प्राधान्यक्रम
-    .value = प्राधान्यक्रम
-browser-data-canary-1 =
-    .label = प्राधान्यक्रम
-    .value = प्राधान्यक्रम
-browser-data-360se-1 =
-    .label = प्राधान्यक्रम
-    .value = प्राधान्यक्रम
-browser-data-ie-2 =
-    .label = कूकिज
-    .value = कूकिज
-browser-data-edge-2 =
-    .label = कूकिज
-    .value = कूकिज
-browser-data-safari-2 =
-    .label = कूकिज
-    .value = कूकिज
-browser-data-chrome-2 =
-    .label = कूकिज
-    .value = कूकिज
-browser-data-canary-2 =
-    .label = कूकिज
-    .value = कूकिज
-browser-data-firefox-2 =
-    .label = कूकिज
-    .value = कूकिज
-browser-data-360se-2 =
-    .label = कूकिज
-    .value = कूकिज
-browser-data-ie-4 =
-    .label = इतिहास संचार
-    .value = इतिहास संचार
-browser-data-edge-4 =
-    .label = इतिहास संचार
-    .value = इतिहास संचार
-browser-data-safari-4 =
-    .label = इतिहास संचार
-    .value = इतिहास संचार
-browser-data-chrome-4 =
-    .label = ब्राउजिंग इतिहास
-    .value = ब्राउजिंग इतिहास
-browser-data-canary-4 =
-    .label = ब्राउजिंग इतिहास
-    .value = ब्राउजिंग इतिहास
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = इतिहास व वाचनखूणांचे संचारन
-    .value = इतिहास व वाचनखूणांचे संचारन
-browser-data-360se-4 =
-    .label = इतिहास संचार
-    .value = इतिहास संचार
-browser-data-ie-8 =
-    .label = प्रपत्र इतिहास साठवा
-    .value = प्रपत्र इतिहास साठवा
-browser-data-edge-8 =
-    .label = साठवलेला फॉर्म इतिहास
-    .value = साठवलेला फॉर्म इतिहास
-browser-data-safari-8 =
-    .label = प्रपत्र इतिहास साठवा
-    .value = प्रपत्र इतिहास साठवा
-browser-data-chrome-8 =
-    .label = इतिहासातून साठवले
-    .value = इतिहासातून साठवले
-browser-data-canary-8 =
-    .label = इतिहासातून साठवले
-    .value = इतिहासातून साठवले
-browser-data-firefox-8 =
-    .label = इतिहासातून साठवलेले
-    .value = इतिहासातून साठवलेले
-browser-data-360se-8 =
-    .label = साठवलेला फॉर्म इतिहास
-    .value = साठवलेला फॉर्म इतिहास
-browser-data-ie-16 =
-    .label = साठवलेले पासवर्ड
-    .value = साठवलेले पासवर्ड
-browser-data-edge-16 =
-    .label = साठवलेले पासवर्ड
-    .value = साठवलेले पासवर्ड
-browser-data-safari-16 =
-    .label = साठवलेले पासवर्ड
-    .value = साठवलेले पासवर्ड
-browser-data-chrome-16 =
-    .label = साठवलेले पासवर्ड
-    .value = साठवलेले पासवर्ड
-browser-data-canary-16 =
-    .label = साठवलेले पासवर्ड
-    .value = साठवलेले पासवर्ड
-browser-data-firefox-16 =
-    .label = साठवलेले पासवर्ड
-    .value = साठवलेले पासवर्ड
-browser-data-360se-16 =
-    .label = साठवलेले पासवर्ड
-    .value = साठवलेले पासवर्ड
-browser-data-ie-32 =
-    .label = पसंतीचे
-    .value = पसंतीचे
-browser-data-edge-32 =
-    .label = पसंतीचे
-    .value = पसंतीचे
-browser-data-safari-32 =
-    .label = वाचनखूणा
-    .value = वाचनखूणा
-browser-data-chrome-32 =
-    .label = वाचनखूणा
-    .value = वाचनखूणा
-browser-data-canary-32 =
-    .label = वाचनखूणा
-    .value = वाचनखूणा
-browser-data-360se-32 =
-    .label = वाचनखूणा
-    .value = वाचनखूणा
-browser-data-ie-64 =
-    .label = इतर माहिती
-    .value = इतर माहिती
-browser-data-edge-64 =
-    .label = इतर माहिती
-    .value = इतर माहिती
-browser-data-safari-64 =
-    .label = इतर माहिती
-    .value = इतर माहिती
-browser-data-chrome-64 =
-    .label = इतर डाटा
-    .value = इतर डाटा
-browser-data-canary-64 =
-    .label = इतर डाटा
-    .value = इतर डाटा
-browser-data-firefox-other-64 =
-    .label = इतर माहिती
-    .value = इतर माहिती
-browser-data-360se-64 =
-    .label = इतर माहिती
-    .value = इतर माहिती
-browser-data-firefox-128 =
-    .label = चौकट व टॅब
-    .value = चौकट व टॅब
