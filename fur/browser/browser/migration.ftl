@@ -46,82 +46,20 @@ source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-firefox = Mozilla Firefox
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Opzions di Internet
-    .value = Opzions di Internet
-browser-data-edge-1 =
-    .label = Impostazions
-    .value = Impostazions
-browser-data-safari-1 =
-    .label = Preferencis
-    .value = Preferencis
-browser-data-chrome-1 =
-    .label = Preferencis
-    .value = Preferencis
-browser-data-canary-1 =
-    .label = Preferencis
-    .value = Preferencis
-browser-data-ie-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-safari-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-chrome-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-canary-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-firefox-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-ie-4 =
-    .label = Cronologjie de navigazion
-    .value = Cronologjie de navigazion
-browser-data-safari-4 =
-    .label = Cronologjie de navigazion
-    .value = Cronologjie de navigazion
-browser-data-ie-8 =
-    .label = Informazions salvadis dai modui
-    .value = Informazions salvadis dai modui
-browser-data-safari-8 =
-    .label = Informazions salvadis dai modui
-    .value = Informazions salvadis dai modui
-browser-data-ie-16 =
-    .label = Passwords salvadis
-    .value = Passwords salvadis
-browser-data-safari-16 =
-    .label = Passwords salvadis
-    .value = Passwords salvadis
-browser-data-safari-32 =
-    .label = Segnelibris
-    .value = Segnelibris
-browser-data-chrome-32 =
-    .label = Segnelibris
-    .value = Segnelibris
-browser-data-canary-32 =
-    .label = Segnelibris
-    .value = Segnelibris
-browser-data-ie-64 =
-    .label = Altris dâts
-    .value = Altris dâts
-browser-data-safari-64 =
-    .label = Altris dâts
-    .value = Altris dâts
-browser-data-chrome-64 =
-    .label = Altris dâts
-    .value = Altris dâts
-browser-data-canary-64 =
-    .label = Altris dâts
-    .value = Altris dâts
-browser-data-firefox-other-64 =
-    .label = Altris dâts
-    .value = Altris dâts
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Barcons e lengutis
+browser-data-session-label =
     .value = Barcons e lengutis
