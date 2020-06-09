@@ -51,109 +51,16 @@ source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
 imported-safari-reading-list = ତାଲିକା ପଢ଼ୁଅଛି (ସଫାରିରୁ)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = ଇଣ୍ଟରନେଟ ବିକଳ୍ପଗୁଡ଼ିକ
-    .value = ଇଣ୍ଟରନେଟ ବିକଳ୍ପଗୁଡ଼ିକ
-browser-data-edge-1 =
-    .label = ସଂରଚନା
-    .value = ସଂରଚନା
-browser-data-safari-1 =
-    .label = ପସନ୍ଦ
-    .value = ପସନ୍ଦ
-browser-data-chrome-1 =
-    .label = ପସନ୍ଦ
-    .value = ପସନ୍ଦ
-browser-data-canary-1 =
-    .label = ପସନ୍ଦ
-    .value = ପସନ୍ଦ
-browser-data-ie-2 =
-    .label = କୁକିଗୁଡ଼ିକ
-    .value = କୁକିଗୁଡ଼ିକ
-browser-data-safari-2 =
-    .label = କୁକିଗୁଡ଼ିକ
-    .value = କୁକିଗୁଡ଼ିକ
-browser-data-chrome-2 =
-    .label = କୁକି
-    .value = କୁକି
-browser-data-canary-2 =
-    .label = କୁକି
-    .value = କୁକି
-browser-data-firefox-2 =
-    .label = କୁକି
-    .value = କୁକି
-browser-data-ie-4 =
-    .label = ବ୍ରାଉଜିଙ୍ଗ ଇତିହାସ
-    .value = ବ୍ରାଉଜିଙ୍ଗ ଇତିହାସ
-browser-data-safari-4 =
-    .label = ବ୍ରାଉଜିଙ୍ଗ ଇତିହାସ
-    .value = ବ୍ରାଉଜିଙ୍ଗ ଇତିହାସ
-browser-data-chrome-4 =
-    .label = ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ
-    .value = ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ
-browser-data-canary-4 =
-    .label = ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ
-    .value = ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ ଏବଂ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
-    .value = ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ ଏବଂ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
-browser-data-ie-8 =
-    .label = ସଂରକ୍ଷିତ ଫର୍ମ ଇତିହାସ
-    .value = ସଂରକ୍ଷିତ ଫର୍ମ ଇତିହାସ
-browser-data-safari-8 =
-    .label = ସଂରକ୍ଷିତ ଫର୍ମ ଇତିହାସ
-    .value = ସଂରକ୍ଷିତ ଫର୍ମ ଇତିହାସ
-browser-data-chrome-8 =
-    .label = ପୁରୁଣା ତଥ୍ୟରୁ ସଂରକ୍ଷିତ
-    .value = ପୁରୁଣା ତଥ୍ୟରୁ ସଂରକ୍ଷିତ
-browser-data-canary-8 =
-    .label = ପୁରୁଣା ତଥ୍ୟରୁ ସଂରକ୍ଷିତ
-    .value = ପୁରୁଣା ତଥ୍ୟରୁ ସଂରକ୍ଷିତ
-browser-data-firefox-8 =
-    .label = ପୁରୁଣା ତଥ୍ୟରୁ ସଂରକ୍ଷିତ
-    .value = ପୁରୁଣା ତଥ୍ୟରୁ ସଂରକ୍ଷିତ
-browser-data-ie-16 =
-    .label = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-    .value = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-browser-data-safari-16 =
-    .label = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-    .value = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-browser-data-chrome-16 =
-    .label = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-    .value = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-browser-data-canary-16 =
-    .label = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-    .value = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-browser-data-firefox-16 =
-    .label = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-    .value = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକ
-browser-data-safari-32 =
-    .label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
-    .value = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
-browser-data-chrome-32 =
-    .label = ଚିହ୍ନିତ ସ୍ଥାନ
-    .value = ଚିହ୍ନିତ ସ୍ଥାନ
-browser-data-canary-32 =
-    .label = ଚିହ୍ନିତ ସ୍ଥାନ
-    .value = ଚିହ୍ନିତ ସ୍ଥାନ
-browser-data-ie-64 =
-    .label = ଅନ୍ୟ ତଥ୍ୟ
-    .value = ଅନ୍ୟ ତଥ୍ୟ
-browser-data-safari-64 =
-    .label = ଅନ୍ୟ ତଥ୍ୟ
-    .value = ଅନ୍ୟ ତଥ୍ୟ
-browser-data-chrome-64 =
-    .label = ଅନ୍ୟାନ୍ୟ ତଥ୍ୟ
-    .value = ଅନ୍ୟାନ୍ୟ ତଥ୍ୟ
-browser-data-canary-64 =
-    .label = ଅନ୍ୟାନ୍ୟ ତଥ୍ୟ
-    .value = ଅନ୍ୟାନ୍ୟ ତଥ୍ୟ
-browser-data-firefox-other-64 =
-    .label = ଅନ୍ୟାନ୍ୟ ତଥ୍ୟ
-    .value = ଅନ୍ୟାନ୍ୟ ତଥ୍ୟ
-browser-data-firefox-128 =
-    .label = ୱିଣ୍ଡୋ ଏବଂ ଟ୍ୟାବଗୁଡ଼ିକ
-    .value = ୱିଣ୍ଡୋ ଏବଂ ଟ୍ୟାବଗୁଡ଼ିକ
