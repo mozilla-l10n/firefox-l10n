@@ -97,6 +97,52 @@ imported-edge-reading-list = Moñe'ẽrã rysýi (Edge Guive)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Kookie
+browser-data-cookies-label =
+    .value = Kookie
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Kundaha rembiasakue ha techaukaha
+           *[other] Kundaha rembiasakue
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Kundaha rembiasakue ha techaukaha
+           *[other] Kundaha rembiasakue
+        }
+browser-data-formdata-checkbox =
+    .label = Myanyhẽha ñongatupyre rembiasakue
+browser-data-formdata-label =
+    .value = Myanyhẽha ñongatupyre rembiasakue
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Tembiapo ñepyrũ ha ñe’ẽñemi ñongatupyre
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Tembiapo ñepyrũ ha ñe’ẽñemi ñongatupyre
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Hayhuvéva
+            [edge] Hayhuvéva
+           *[other] Techaukahakuéra
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Hayhuvéva
+            [edge] Hayhuvéva
+           *[other] Techaukahakuéra
+        }
+browser-data-otherdata-checkbox =
+    .label = Ambue mba’ekuaarã
+browser-data-otherdata-label =
+    .label = Ambue mba’ekuaarã
 browser-data-session-checkbox =
     .label = Ovetã ha tendayke
 browser-data-session-label =
