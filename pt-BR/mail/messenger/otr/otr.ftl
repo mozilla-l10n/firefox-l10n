@@ -13,7 +13,18 @@ msgevent-connection_ended = { $name } já fechou a conexão criptografada com vo
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Ocorreu um erro ao preparar uma conversa privativa com { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Você está recebendo suas próprias mensagens OTR. Você está tentando conversar consigo mesmo, ou alguém está refletindo suas mensagens de volta para você.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = A última mensagem para { $name } foi reenviada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = A mensagem criptografada recebida de { $name } é ilegível, pois você não está em uma comunicação privativa no momento.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = Você recebeu uma mensagem criptografada ilegível de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Você recebeu uma mensagem de dados malformada de { $name }.
 error-enc = Ocorreu um erro ao criptografar a mensagem.
