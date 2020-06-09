@@ -97,3 +97,7 @@ imported-edge-reading-list = 구독 목록 (Edge로부터)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = 창과 탭
+browser-data-session-label =
+    .value = 창과 탭
