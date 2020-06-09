@@ -84,151 +84,16 @@ source-name-360se = 360 biztonságos böngésző
 imported-safari-reading-list = Olvasási lista (a Safariból)
 imported-edge-reading-list = Olvasási lista (az Edge-ből)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internet-beállítások
-    .value = Internet-beállítások
-browser-data-edge-1 =
-    .label = Beállítások
-    .value = Beállítások
-browser-data-safari-1 =
-    .label = Beállítások
-    .value = Beállítások
-browser-data-chrome-1 =
-    .label = Beállítások
-    .value = Beállítások
-browser-data-canary-1 =
-    .label = Beállítások
-    .value = Beállítások
-browser-data-360se-1 =
-    .label = Beállítások
-    .value = Beállítások
-browser-data-ie-2 =
-    .label = Sütik
-    .value = Sütik
-browser-data-edge-2 =
-    .label = Sütik
-    .value = Sütik
-browser-data-safari-2 =
-    .label = Sütik
-    .value = Sütik
-browser-data-chrome-2 =
-    .label = Sütik
-    .value = Sütik
-browser-data-canary-2 =
-    .label = Sütik
-    .value = Sütik
-browser-data-firefox-2 =
-    .label = Sütik
-    .value = Sütik
-browser-data-360se-2 =
-    .label = Sütik
-    .value = Sütik
-browser-data-ie-4 =
-    .label = Böngészési előzmények
-    .value = Böngészési előzmények
-browser-data-edge-4 =
-    .label = Böngészési előzmények
-    .value = Böngészési előzmények
-browser-data-safari-4 =
-    .label = Böngészési előzmények
-    .value = Böngészési előzmények
-browser-data-chrome-4 =
-    .label = Böngészési előzmények
-    .value = Böngészési előzmények
-browser-data-canary-4 =
-    .label = Böngészési előzmények
-    .value = Böngészési előzmények
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = A böngészés előzményei és könyvjelzők
-    .value = A böngészés előzményei és könyvjelzők
-browser-data-360se-4 =
-    .label = Böngészési előzmények
-    .value = Böngészési előzmények
-browser-data-ie-8 =
-    .label = Mentett űrlapadatok
-    .value = Mentett űrlapadatok
-browser-data-edge-8 =
-    .label = Mentett űrlapadatok
-    .value = Mentett űrlapadatok
-browser-data-safari-8 =
-    .label = Mentett űrlapadatok
-    .value = Mentett űrlapadatok
-browser-data-chrome-8 =
-    .label = Mentett űrlapadatok
-    .value = Mentett űrlapadatok
-browser-data-canary-8 =
-    .label = Mentett űrlapadatok
-    .value = Mentett űrlapadatok
-browser-data-firefox-8 =
-    .label = Mentett űrlapadatok
-    .value = Mentett űrlapadatok
-browser-data-360se-8 =
-    .label = Mentett űrlapadatok
-    .value = Mentett űrlapadatok
-browser-data-ie-16 =
-    .label = Mentett jelszavak
-    .value = Mentett jelszavak
-browser-data-edge-16 =
-    .label = Mentett jelszavak
-    .value = Mentett jelszavak
-browser-data-safari-16 =
-    .label = Mentett jelszavak
-    .value = Mentett jelszavak
-browser-data-chrome-16 =
-    .label = Mentett jelszavak
-    .value = Mentett jelszavak
-browser-data-canary-16 =
-    .label = Mentett jelszavak
-    .value = Mentett jelszavak
-browser-data-firefox-16 =
-    .label = Mentett jelszavak
-    .value = Mentett jelszavak
-browser-data-360se-16 =
-    .label = Mentett jelszavak
-    .value = Mentett jelszavak
-browser-data-ie-32 =
-    .label = Kedvencek
-    .value = Kedvencek
-browser-data-edge-32 =
-    .label = Kedvencek
-    .value = Kedvencek
-browser-data-safari-32 =
-    .label = Könyvjelzők
-    .value = Könyvjelzők
-browser-data-chrome-32 =
-    .label = Könyvjelzők
-    .value = Könyvjelzők
-browser-data-canary-32 =
-    .label = Könyvjelzők
-    .value = Könyvjelzők
-browser-data-360se-32 =
-    .label = Könyvjelzők
-    .value = Könyvjelzők
-browser-data-ie-64 =
-    .label = További adatok
-    .value = További adatok
-browser-data-edge-64 =
-    .label = További adatok
-    .value = További adatok
-browser-data-safari-64 =
-    .label = További adatok
-    .value = További adatok
-browser-data-chrome-64 =
-    .label = További adatok
-    .value = További adatok
-browser-data-canary-64 =
-    .label = További adatok
-    .value = További adatok
-browser-data-firefox-other-64 =
-    .label = További adatok
-    .value = További adatok
-browser-data-360se-64 =
-    .label = További adatok
-    .value = További adatok
-browser-data-firefox-128 =
-    .label = Ablakok és lapok
-    .value = Ablakok és lapok
