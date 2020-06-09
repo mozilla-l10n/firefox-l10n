@@ -234,6 +234,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bilde-i-bilde ikon
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Vern på ein augneblink
+cfr-whatsnew-protections-cta-link = Vis tryggingsoversyn
 cfr-whatsnew-protections-icon-alt = Skjoldikon
 
 ## Better PDF message

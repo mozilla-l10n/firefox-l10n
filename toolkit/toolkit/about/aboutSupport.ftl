@@ -119,6 +119,7 @@ restart-in-safe-mode-label = Start på nytt utan tillegg…
 clear-startup-cache-title = Prøv å tøme oppstart-snøgglageret
 clear-startup-cache-label = Tøm oppstart-snøgglageret…
 startup-cache-dialog-title = Tøm oppstart-snøgglageret
+restart-button-label = Start på nytt
 
 ## Media titles
 
