@@ -77,151 +77,16 @@ source-name-360se = متصفح ٣٦٠ الآمن
 imported-safari-reading-list = قائمة القراءة (من سفاري)
 imported-edge-reading-list = قائمة القراءة (من إدج)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = خيارات الإنترنت
-    .value = خيارات الإنترنت
-browser-data-edge-1 =
-    .label = الإعدادات
-    .value = الإعدادات
-browser-data-safari-1 =
-    .label = التفضيلات
-    .value = التفضيلات
-browser-data-chrome-1 =
-    .label = التفضيلات
-    .value = التفضيلات
-browser-data-canary-1 =
-    .label = التفضيلات
-    .value = التفضيلات
-browser-data-360se-1 =
-    .label = التفضيلات
-    .value = التفضيلات
-browser-data-ie-2 =
-    .label = الكعكات
-    .value = الكعكات
-browser-data-edge-2 =
-    .label = الكعكات
-    .value = الكعكات
-browser-data-safari-2 =
-    .label = الكعكات
-    .value = الكعكات
-browser-data-chrome-2 =
-    .label = الكعكات
-    .value = الكعكات
-browser-data-canary-2 =
-    .label = الكعكات
-    .value = الكعكات
-browser-data-firefox-2 =
-    .label = الكعكات
-    .value = الكعكات
-browser-data-360se-2 =
-    .label = الكعكات
-    .value = الكعكات
-browser-data-ie-4 =
-    .label = تأريخ التصفح
-    .value = تأريخ التصفح
-browser-data-edge-4 =
-    .label = تأريخ التصفح
-    .value = تأريخ التصفح
-browser-data-safari-4 =
-    .label = تأريخ التصفح
-    .value = تأريخ التصفح
-browser-data-chrome-4 =
-    .label = تأريخ التصفح
-    .value = تأريخ التصفح
-browser-data-canary-4 =
-    .label = تأريخ التصفح
-    .value = تأريخ التصفح
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = تأريخ التصفح والعلامات
-    .value = تأريخ التصفح والعلامات
-browser-data-360se-4 =
-    .label = تأريخ التصفح
-    .value = تأريخ التصفح
-browser-data-ie-8 =
-    .label = تأريخ الاستمارات المحفوظة
-    .value = تأريخ الاستمارات المحفوظة
-browser-data-edge-8 =
-    .label = تأريخ الاستمارات المحفوظة
-    .value = تأريخ الاستمارات المحفوظة
-browser-data-safari-8 =
-    .label = تأريخ الاستمارات المحفوظة
-    .value = تأريخ الاستمارات المحفوظة
-browser-data-chrome-8 =
-    .label = تأريخ الاستمارات المحفوظة
-    .value = تأريخ الاستمارات المحفوظة
-browser-data-canary-8 =
-    .label = تأريخ الاستمارات المحفوظة
-    .value = تأريخ الاستمارات المحفوظة
-browser-data-firefox-8 =
-    .label = تأريخ الاستمارات المحفوظة
-    .value = تأريخ الاستمارات المحفوظة
-browser-data-360se-8 =
-    .label = تأريخ الاستمارات المحفوظة
-    .value = تأريخ الاستمارات المحفوظة
-browser-data-ie-16 =
-    .label = كلمات السر المحفوظة
-    .value = كلمات السر المحفوظة
-browser-data-edge-16 =
-    .label = كلمات السر المحفوظة
-    .value = كلمات السر المحفوظة
-browser-data-safari-16 =
-    .label = كلمات السر المحفوظة
-    .value = كلمات السر المحفوظة
-browser-data-chrome-16 =
-    .label = كلمات السر المحفوظة
-    .value = كلمات السر المحفوظة
-browser-data-canary-16 =
-    .label = كلمات السر المحفوظة
-    .value = كلمات السر المحفوظة
-browser-data-firefox-16 =
-    .label = كلمات السر المحفوظة
-    .value = كلمات السر المحفوظة
-browser-data-360se-16 =
-    .label = كلمات السر المحفوظة
-    .value = كلمات السر المحفوظة
-browser-data-ie-32 =
-    .label = المفضّلة
-    .value = المفضّلة
-browser-data-edge-32 =
-    .label = المفضّلة
-    .value = المفضّلة
-browser-data-safari-32 =
-    .label = العلامات
-    .value = العلامات
-browser-data-chrome-32 =
-    .label = العلامات
-    .value = العلامات
-browser-data-canary-32 =
-    .label = العلامات
-    .value = العلامات
-browser-data-360se-32 =
-    .label = العلامات
-    .value = العلامات
-browser-data-ie-64 =
-    .label = بيانات أخرى
-    .value = بيانات أخرى
-browser-data-edge-64 =
-    .label = بيانات أخرى
-    .value = بيانات أخرى
-browser-data-safari-64 =
-    .label = بيانات أخرى
-    .value = بيانات أخرى
-browser-data-chrome-64 =
-    .label = بيانات أخرى
-    .value = بيانات أخرى
-browser-data-canary-64 =
-    .label = بيانات أخرى
-    .value = بيانات أخرى
-browser-data-firefox-other-64 =
-    .label = بيانات أخرى
-    .value = بيانات أخرى
-browser-data-360se-64 =
-    .label = بيانات أخرى
-    .value = بيانات أخرى
-browser-data-firefox-128 =
-    .label = النوافذ و الألسنة
-    .value = النوافذ و الألسنة
