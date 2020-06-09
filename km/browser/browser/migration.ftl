@@ -82,3 +82,7 @@ imported-edge-reading-list = បញ្ជី​អំណាន (ពី​​ Edg
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = បង្អួច និង​ផ្ទាំង
+browser-data-session-label =
+    .value = បង្អួច និង​ផ្ទាំង
