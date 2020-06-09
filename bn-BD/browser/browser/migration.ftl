@@ -90,3 +90,7 @@ imported-edge-reading-list = তালিকা পড়া হচ্ছে (Edge 
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = উইন্ডো এবং ট্যাব
+browser-data-session-label =
+    .value = উইন্ডো এবং ট্যাব
