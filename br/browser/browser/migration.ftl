@@ -78,151 +78,20 @@ source-name-360se = Merdeer diogel 360
 imported-safari-reading-list = Roll al lennadurioù (diouzh Safari)
 imported-edge-reading-list = Roll al lennadurioù (diouzh Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Dibarzhioù Internet
-    .value = Dibarzhioù Internet
-browser-data-edge-1 =
-    .label = Arventennoù
-    .value = Arventennoù
-browser-data-safari-1 =
-    .label = Gwellvezioù
-    .value = Gwellvezioù
-browser-data-chrome-1 =
-    .label = Gwellvezioù
-    .value = Gwellvezioù
-browser-data-canary-1 =
-    .label = Gwellvezioù
-    .value = Gwellvezioù
-browser-data-360se-1 =
-    .label = Gwellvezioù
-    .value = Gwellvezioù
-browser-data-ie-2 =
-    .label = Toupinoù
-    .value = Toupinoù
-browser-data-edge-2 =
-    .label = Toupinoù
-    .value = Toupinoù
-browser-data-safari-2 =
-    .label = Toupinoù
-    .value = Toupinoù
-browser-data-chrome-2 =
-    .label = Toupinoù
-    .value = Toupinoù
-browser-data-canary-2 =
-    .label = Toupinoù
-    .value = Toupinoù
-browser-data-firefox-2 =
-    .label = Toupinoù
-    .value = Toupinoù
-browser-data-360se-2 =
-    .label = Toupinoù
-    .value = Toupinoù
-browser-data-ie-4 =
-    .label = Roll al lec'hiennoù bet gweladennet
-    .value = Roll al lec'hiennoù bet gweladennet
-browser-data-edge-4 =
-    .label = Roll al lec'hiennoù bet gweladennet
-    .value = Roll al lec'hiennoù bet gweladennet
-browser-data-safari-4 =
-    .label = Roll al lec'hiennoù bet gweladennet
-    .value = Roll al lec'hiennoù bet gweladennet
-browser-data-chrome-4 =
-    .label = Roll al lec'hiennoù bet gweladennet
-    .value = Roll al lec'hiennoù bet gweladennet
-browser-data-canary-4 =
-    .label = Roll al lec'hiennoù bet gweladennet
-    .value = Roll al lec'hiennoù bet gweladennet
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Roll al lec'hiennoù bet gweladennet ha sinedoù
-    .value = Roll al lec'hiennoù bet gweladennet ha sinedoù
-browser-data-360se-4 =
-    .label = Roll al lec'hiennoù bet gweladennet
-    .value = Roll al lec'hiennoù bet gweladennet
-browser-data-ie-8 =
-    .label = Istor ar furmskrid enrollet
-    .value = Istor ar furmskrid enrollet
-browser-data-edge-8 =
-    .label = Istor ar furmskrid enrollet
-    .value = Istor ar furmskrid enrollet
-browser-data-safari-8 =
-    .label = Istor ar furmskrid enrollet
-    .value = Istor ar furmskrid enrollet
-browser-data-chrome-8 =
-    .label = Istor ar furmskrid enrollet
-    .value = Istor ar furmskrid enrollet
-browser-data-canary-8 =
-    .label = Istor ar furmskrid enrollet
-    .value = Istor ar furmskrid enrollet
-browser-data-firefox-8 =
-    .label = Istor ar furmskrid enrollet
-    .value = Istor ar furmskrid enrollet
-browser-data-360se-8 =
-    .label = Istor ar furmskridoù enrollet
-    .value = Istor ar furmskridoù enrollet
-browser-data-ie-16 =
-    .label = Gerioù-tremen enrollet
-    .value = Gerioù-tremen enrollet
-browser-data-edge-16 =
-    .label = Gerioù-tremen enrollet
-    .value = Gerioù-tremen enrollet
-browser-data-safari-16 =
-    .label = Gerioù-tremen enrollet
-    .value = Gerioù-tremen enrollet
-browser-data-chrome-16 =
-    .label = Gerioù-tremen enrollet
-    .value = Gerioù-tremen enrollet
-browser-data-canary-16 =
-    .label = Gerioù-tremen enrollet
-    .value = Gerioù-tremen enrollet
-browser-data-firefox-16 =
-    .label = Gerioù-tremen enrollet
-    .value = Gerioù-tremen enrollet
-browser-data-360se-16 =
-    .label = Gerioù-tremen enrollet
-    .value = Gerioù-tremen enrollet
-browser-data-ie-32 =
-    .label = Ma re well ganin
-    .value = Ma re well ganin
-browser-data-edge-32 =
-    .label = Ma re well ganin
-    .value = Ma re well ganin
-browser-data-safari-32 =
-    .label = Sinedoù
-    .value = Sinedoù
-browser-data-chrome-32 =
-    .label = Sinedoù
-    .value = Sinedoù
-browser-data-canary-32 =
-    .label = Sinedoù
-    .value = Sinedoù
-browser-data-360se-32 =
-    .label = Sinedoù
-    .value = Sinedoù
-browser-data-ie-64 =
-    .label = Roadennoù all
-    .value = Roadennoù all
-browser-data-edge-64 =
-    .label = Roadennoù all
-    .value = Roadennoù all
-browser-data-safari-64 =
-    .label = Roadennoù all
-    .value = Roadennoù all
-browser-data-chrome-64 =
-    .label = Roadennoù all
-    .value = Roadennoù all
-browser-data-canary-64 =
-    .label = Roadennoù all
-    .value = Roadennoù all
-browser-data-firefox-other-64 =
-    .label = Roadennoù all
-    .value = Roadennoù all
-browser-data-360se-64 =
-    .label = Roadennoù all
-    .value = Roadennoù all
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Prenestroù hag ivinelloù
+browser-data-session-label =
     .value = Prenestroù hag ivinelloù
