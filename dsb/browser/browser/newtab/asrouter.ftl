@@ -243,6 +243,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
 
 cfr-whatsnew-protections-header = Šćity na jadno póglědnjenje
 cfr-whatsnew-protections-cta-link = Pśeglěd šćitow pokazaś
+cfr-whatsnew-protections-icon-alt = Šćitowy symbol
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Lěpše PDF-dožywjenje
