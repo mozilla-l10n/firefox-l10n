@@ -97,3 +97,7 @@ imported-edge-reading-list = Cytańska lisćina (z Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Wokna a rejtariki
+browser-data-session-label =
+    .value = Wokna a rejtariki
