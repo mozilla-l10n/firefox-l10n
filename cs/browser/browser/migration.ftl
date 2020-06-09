@@ -97,3 +97,7 @@ imported-edge-reading-list = Seznam ke čtení (z Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Okna a panely
+browser-data-session-label =
+    .value = Okna a panely
