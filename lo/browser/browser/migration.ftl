@@ -77,151 +77,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = ລາຍການອ່ານ (ຈາກ Safari)
 imported-edge-reading-list = ລາຍການອ່ານ (ຈາກ Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = ຕົວເລືອກອິນເຕີເນັດ
-    .value = ຕົວເລືອກອິນເຕີເນັດ
-browser-data-edge-1 =
-    .label = ການຕັ້ງຄ່າ
-    .value = ການຕັ້ງຄ່າ
-browser-data-safari-1 =
-    .label = ການຕັ້ງຄ່າ
-    .value = ການຕັ້ງຄ່າ
-browser-data-chrome-1 =
-    .label = ການຕັ້ງຄ່າ
-    .value = ການຕັ້ງຄ່າ
-browser-data-canary-1 =
-    .label = ການຕັ້ງຄ່າ
-    .value = ການຕັ້ງຄ່າ
-browser-data-360se-1 =
-    .label = ການຕັ້ງຄ່າ
-    .value = ການຕັ້ງຄ່າ
-browser-data-ie-2 =
-    .label = ຄຸກກີ້
-    .value = ຄຸກກີ້
-browser-data-edge-2 =
-    .label = ຄຸກກີ້
-    .value = ຄຸກກີ້
-browser-data-safari-2 =
-    .label = ຄຸກກີ້
-    .value = ຄຸກກີ້
-browser-data-chrome-2 =
-    .label = ຄຸກກີ້
-    .value = ຄຸກກີ້
-browser-data-canary-2 =
-    .label = ຄຸກກີ້
-    .value = ຄຸກກີ້
-browser-data-firefox-2 =
-    .label = ຄຸກກີ້
-    .value = ຄຸກກີ້
-browser-data-360se-2 =
-    .label = ຄຸກກີ້
-    .value = ຄຸກກີ້
-browser-data-ie-4 =
-    .label = ປະຫວັດການທ່ອງເວັບ
-    .value = ປະຫວັດການທ່ອງເວັບ
-browser-data-edge-4 =
-    .label = ປະຫວັດການທ່ອງເວັບ
-    .value = ປະຫວັດການທ່ອງເວັບ
-browser-data-safari-4 =
-    .label = ປະຫວັດການທ່ອງເວັບ
-    .value = ປະຫວັດການທ່ອງເວັບ
-browser-data-chrome-4 =
-    .label = ປະຫວັດການທ່ອງເວັບ
-    .value = ປະຫວັດການທ່ອງເວັບ
-browser-data-canary-4 =
-    .label = ປະຫວັດການທ່ອງເວັບ
-    .value = ປະຫວັດການທ່ອງເວັບ
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ປະຫວັດການທ່ອງເວັບ ແລະ ບຸກມາກ
-    .value = ປະຫວັດການທ່ອງເວັບ ແລະ ບຸກມາກ
-browser-data-360se-4 =
-    .label = ປະຫວັດການທ່ອງເວັບ
-    .value = ປະຫວັດການທ່ອງເວັບ
-browser-data-ie-8 =
-    .label = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-    .value = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-browser-data-edge-8 =
-    .label = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-    .value = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-browser-data-safari-8 =
-    .label = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-    .value = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-browser-data-chrome-8 =
-    .label = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-    .value = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-browser-data-canary-8 =
-    .label = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-    .value = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-browser-data-firefox-8 =
-    .label = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-    .value = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-browser-data-360se-8 =
-    .label = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-    .value = ປະຫວັດແບບຟອມທີ່ບັນທຶກໄວ້
-browser-data-ie-16 =
-    .label = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-    .value = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-browser-data-edge-16 =
-    .label = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-    .value = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-browser-data-safari-16 =
-    .label = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-    .value = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-browser-data-chrome-16 =
-    .label = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-    .value = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-browser-data-canary-16 =
-    .label = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-    .value = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-browser-data-firefox-16 =
-    .label = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-    .value = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-browser-data-360se-16 =
-    .label = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-    .value = ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-browser-data-ie-32 =
-    .label = ລາຍການທີ່ມັກ
-    .value = ລາຍການທີ່ມັກ
-browser-data-edge-32 =
-    .label = ລາຍການທີ່ມັກ
-    .value = ລາຍການທີ່ມັກ
-browser-data-safari-32 =
-    .label = ບຸກມາກ
-    .value = ບຸກມາກ
-browser-data-chrome-32 =
-    .label = ບຸກມາກ
-    .value = ບຸກມາກ
-browser-data-canary-32 =
-    .label = ບຸກມາກ
-    .value = ບຸກມາກ
-browser-data-360se-32 =
-    .label = ບຸກມາກ
-    .value = ບຸກມາກ
-browser-data-ie-64 =
-    .label = ຂໍ້ມູນອື່ນໆ
-    .value = ຂໍ້ມູນອື່ນໆ
-browser-data-edge-64 =
-    .label = ຂໍ້ມູນອື່ນໆ
-    .value = ຂໍ້ມູນອື່ນໆ
-browser-data-safari-64 =
-    .label = ຂໍ້ມູນອື່ນໆ
-    .value = ຂໍ້ມູນອື່ນໆ
-browser-data-chrome-64 =
-    .label = ຂໍ້ມູນອື່ນໆ
-    .value = ຂໍ້ມູນອື່ນໆ
-browser-data-canary-64 =
-    .label = ຂໍ້ມູນອື່ນໆ
-    .value = ຂໍ້ມູນອື່ນໆ
-browser-data-firefox-other-64 =
-    .label = ຂໍ້ມູນອື່ນໆ
-    .value = ຂໍ້ມູນອື່ນໆ
-browser-data-360se-64 =
-    .label = ຂໍ້ມູນອື່ນໆ
-    .value = ຂໍ້ມູນອື່ນໆ
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = ວີນໂດ ແລະ ແທັບ
+browser-data-session-label =
     .value = ວີນໂດ ແລະ ແທັບ
