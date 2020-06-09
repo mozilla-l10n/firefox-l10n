@@ -117,6 +117,32 @@ browser-data-formdata-checkbox =
     .label = Histórico de formulários salvo
 browser-data-formdata-label =
     .value = Histórico de formulários salvo
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Contas e senhas salvas
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Contas e senhas salvas
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favoritos
+            [edge] Favoritos
+           *[other] Favoritos
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favoritos
+            [edge] Favoritos
+           *[other] Favoritos
+        }
+browser-data-otherdata-checkbox =
+    .label = Outros dados
+browser-data-otherdata-label =
+    .label = Outros dados
 browser-data-session-checkbox =
     .label = Janelas e abas
 browser-data-session-label =
