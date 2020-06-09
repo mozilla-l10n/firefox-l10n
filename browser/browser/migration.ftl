@@ -84,151 +84,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Zoznam na prečítanie (zo Safari)
 imported-edge-reading-list = Zoznam na prečítanie (z Microsoft Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Možnosti internetu
-    .value = Možnosti internetu
-browser-data-edge-1 =
-    .label = Nastavenia
-    .value = Nastavenia
-browser-data-safari-1 =
-    .label = Nastavenia
-    .value = Nastavenia
-browser-data-chrome-1 =
-    .label = Nastavenia
-    .value = Nastavenia
-browser-data-canary-1 =
-    .label = Nastavenia
-    .value = Nastavenia
-browser-data-360se-1 =
-    .label = Nastavenia
-    .value = Nastavenia
-browser-data-ie-2 =
-    .label = Súbory cookies
-    .value = Súbory cookies
-browser-data-edge-2 =
-    .label = Súbory cookies
-    .value = Súbory cookies
-browser-data-safari-2 =
-    .label = Súbory cookies
-    .value = Súbory cookies
-browser-data-chrome-2 =
-    .label = Súbory cookies
-    .value = Súbory cookies
-browser-data-canary-2 =
-    .label = Súbory cookies
-    .value = Súbory cookies
-browser-data-firefox-2 =
-    .label = Súbory cookies
-    .value = Súbory cookies
-browser-data-360se-2 =
-    .label = Súbory cookies
-    .value = Súbory cookies
-browser-data-ie-4 =
-    .label = História prehliadania
-    .value = História prehliadania
-browser-data-edge-4 =
-    .label = História prehliadania
-    .value = História prehliadania
-browser-data-safari-4 =
-    .label = História prehliadania
-    .value = História prehliadania
-browser-data-chrome-4 =
-    .label = História prehliadania
-    .value = História prehliadania
-browser-data-canary-4 =
-    .label = História prehliadania
-    .value = História prehliadania
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = História prehliadania a záložky
-    .value = História prehliadania a záložky
-browser-data-360se-4 =
-    .label = História prehliadania
-    .value = História prehliadania
-browser-data-ie-8 =
-    .label = Údaje zadané do formulárov
-    .value = Údaje zadané do formulárov
-browser-data-edge-8 =
-    .label = Údaje zadané do formulárov
-    .value = Údaje zadané do formulárov
-browser-data-safari-8 =
-    .label = Údaje zadané do formulárov
-    .value = Údaje zadané do formulárov
-browser-data-chrome-8 =
-    .label = Údaje zadané do formulárov
-    .value = Údaje zadané do formulárov
-browser-data-canary-8 =
-    .label = Údaje zadané do formulárov
-    .value = Údaje zadané do formulárov
-browser-data-firefox-8 =
-    .label = Údaje zadané do formulárov
-    .value = Údaje zadané do formulárov
-browser-data-360se-8 =
-    .label = Údaje zadané do formulárov
-    .value = Údaje zadané do formulárov
-browser-data-ie-16 =
-    .label = Uložené heslá
-    .value = Uložené heslá
-browser-data-edge-16 =
-    .label = Uložené heslá
-    .value = Uložené heslá
-browser-data-safari-16 =
-    .label = Uložené heslá
-    .value = Uložené heslá
-browser-data-chrome-16 =
-    .label = Uložené heslá
-    .value = Uložené heslá
-browser-data-canary-16 =
-    .label = Uložené heslá
-    .value = Uložené heslá
-browser-data-firefox-16 =
-    .label = Uložené heslá
-    .value = Uložené heslá
-browser-data-360se-16 =
-    .label = Uložené heslá
-    .value = Uložené heslá
-browser-data-ie-32 =
-    .label = Obľúbené položky
-    .value = Obľúbené položky
-browser-data-edge-32 =
-    .label = Obľúbené položky
-    .value = Obľúbené položky
-browser-data-safari-32 =
-    .label = Záložky
-    .value = Záložky
-browser-data-chrome-32 =
-    .label = Záložky
-    .value = Záložky
-browser-data-canary-32 =
-    .label = Záložky
-    .value = Záložky
-browser-data-360se-32 =
-    .label = Záložky
-    .value = Záložky
-browser-data-ie-64 =
-    .label = Iné údaje
-    .value = Iné údaje
-browser-data-edge-64 =
-    .label = Iné údaje
-    .value = Iné údaje
-browser-data-safari-64 =
-    .label = Iné údaje
-    .value = Iné údaje
-browser-data-chrome-64 =
-    .label = Iné údaje
-    .value = Iné údaje
-browser-data-canary-64 =
-    .label = Iné údaje
-    .value = Iné údaje
-browser-data-firefox-other-64 =
-    .label = Iné údaje
-    .value = Iné údaje
-browser-data-360se-64 =
-    .label = Iné údaje
-    .value = Iné údaje
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Okná a karty
+browser-data-session-label =
     .value = Okná a karty
