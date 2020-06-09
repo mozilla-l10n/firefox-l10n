@@ -78,151 +78,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Oxuma siyahısı (Safaridən)
 imported-edge-reading-list = Oxuma siyahısı (Edge-dən)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = İnternet seçimləri
-    .value = İnternet seçimləri
-browser-data-edge-1 =
-    .label = Tənzimləmələr
-    .value = Tənzimləmələr
-browser-data-safari-1 =
-    .label = Nizamlamalar
-    .value = Nizamlamalar
-browser-data-chrome-1 =
-    .label = Nizamlamalar
-    .value = Nizamlamalar
-browser-data-canary-1 =
-    .label = Nizamlamalar
-    .value = Nizamlamalar
-browser-data-360se-1 =
-    .label = Nizamlamalar
-    .value = Nizamlamalar
-browser-data-ie-2 =
-    .label = Çərəzlər
-    .value = Çərəzlər
-browser-data-edge-2 =
-    .label = Çərəzlər
-    .value = Çərəzlər
-browser-data-safari-2 =
-    .label = Çərəzlər
-    .value = Çərəzlər
-browser-data-chrome-2 =
-    .label = Çərəzlər
-    .value = Çərəzlər
-browser-data-canary-2 =
-    .label = Çərəzlər
-    .value = Çərəzlər
-browser-data-firefox-2 =
-    .label = Çərəzlər
-    .value = Çərəzlər
-browser-data-360se-2 =
-    .label = Çərəzlər
-    .value = Çərəzlər
-browser-data-ie-4 =
-    .label = Səyahət Tarixçəsi
-    .value = Səyahət Tarixçəsi
-browser-data-edge-4 =
-    .label = Səyahət Tarixçəsi
-    .value = Səyahət Tarixçəsi
-browser-data-safari-4 =
-    .label = Səyahət Tarixçəsi
-    .value = Səyahət Tarixçəsi
-browser-data-chrome-4 =
-    .label = Səyahət Tarixçəsi
-    .value = Səyahət Tarixçəsi
-browser-data-canary-4 =
-    .label = Səyahət Tarixçəsi
-    .value = Səyahət Tarixçəsi
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Səyahət Tarixçəsi və Əlfəcinlər
-    .value = Səyahət Tarixçəsi və Əlfəcinlər
-browser-data-360se-4 =
-    .label = Səyahət Tarixçəsi
-    .value = Səyahət Tarixçəsi
-browser-data-ie-8 =
-    .label = Yadda saxlanmış forma tarixçəsi
-    .value = Yadda saxlanmış forma tarixçəsi
-browser-data-edge-8 =
-    .label = Saxlanmış Forma Tarixçəsi
-    .value = Saxlanmış Forma Tarixçəsi
-browser-data-safari-8 =
-    .label = Yadda saxlanmış forma tarixçəsi
-    .value = Yadda saxlanmış forma tarixçəsi
-browser-data-chrome-8 =
-    .label = Yadda saxlanmış forma tarixçəsi
-    .value = Yadda saxlanmış forma tarixçəsi
-browser-data-canary-8 =
-    .label = Yadda saxlanmış forma tarixçəsi
-    .value = Yadda saxlanmış forma tarixçəsi
-browser-data-firefox-8 =
-    .label = Yadda saxlanmış forma tarixçəsi
-    .value = Yadda saxlanmış forma tarixçəsi
-browser-data-360se-8 =
-    .label = Saxlanmış forma tarixçəsi
-    .value = Saxlanmış forma tarixçəsi
-browser-data-ie-16 =
-    .label = Saxlanılmış Parollar
-    .value = Saxlanılmış Parollar
-browser-data-edge-16 =
-    .label = Saxlanılmış Parollar
-    .value = Saxlanılmış Parollar
-browser-data-safari-16 =
-    .label = Saxlanılmış Parollar
-    .value = Saxlanılmış Parollar
-browser-data-chrome-16 =
-    .label = Saxlanılmış Parollar
-    .value = Saxlanılmış Parollar
-browser-data-canary-16 =
-    .label = Saxlanılmış Parollar
-    .value = Saxlanılmış Parollar
-browser-data-firefox-16 =
-    .label = Saxlanılmış Parollar
-    .value = Saxlanılmış Parollar
-browser-data-360se-16 =
-    .label = Saxlanılmış Parollar
-    .value = Saxlanılmış Parollar
-browser-data-ie-32 =
-    .label = Sevimlilər
-    .value = Sevimlilər
-browser-data-edge-32 =
-    .label = Sevimlilər
-    .value = Sevimlilər
-browser-data-safari-32 =
-    .label = Əlfəcinlər
-    .value = Əlfəcinlər
-browser-data-chrome-32 =
-    .label = Əlfəcinlər
-    .value = Əlfəcinlər
-browser-data-canary-32 =
-    .label = Əlfəcinlər
-    .value = Əlfəcinlər
-browser-data-360se-32 =
-    .label = Əlfəcinlər
-    .value = Əlfəcinlər
-browser-data-ie-64 =
-    .label = Digər məlumatlar
-    .value = Digər məlumatlar
-browser-data-edge-64 =
-    .label = Digər Məlumatlar
-    .value = Digər Məlumatlar
-browser-data-safari-64 =
-    .label = Digər məlumatlar
-    .value = Digər məlumatlar
-browser-data-chrome-64 =
-    .label = Digər məlumatlar
-    .value = Digər məlumatlar
-browser-data-canary-64 =
-    .label = Digər məlumatlar
-    .value = Digər məlumatlar
-browser-data-firefox-other-64 =
-    .label = Digər Məlumatlar
-    .value = Digər Məlumatlar
-browser-data-360se-64 =
-    .label = Digər məlumatlar
-    .value = Digər məlumatlar
-browser-data-firefox-128 =
-    .label = Pəncərələr və vərəqlər
-    .value = Pəncərələr və vərəqlər
