@@ -19,5 +19,5 @@ all-tabs-menu-new-user-context =
 all-tabs-menu-hidden-tabs =
     .label = Թաքնուած ներդիրներ
 all-tabs-menu-manage-user-context =
-    .label = Կառաւարել պարունակները
+    .label = Կառավարել պարունակները
     .accesskey = O
