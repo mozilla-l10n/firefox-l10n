@@ -97,3 +97,7 @@ imported-edge-reading-list = Skaitinių sąrašas (iš „Edge“)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Langai ir kortelės
+browser-data-session-label =
+    .value = Langai ir kortelės
