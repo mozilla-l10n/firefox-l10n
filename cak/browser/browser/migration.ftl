@@ -84,151 +84,20 @@ source-name-360se = 360 Ütz chi K'amaya'l
 imported-safari-reading-list = Rucholajem taq sik'inem (richin ri Safari)
 imported-edge-reading-list = Rucholajem taq sik'inem (richin Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Taq rucha'oj K'amaya'l
-    .value = Taq rucha'oj K'amaya'l
-browser-data-edge-1 =
-    .label = Nuk’ulem
-    .value = Nuk’ulem
-browser-data-safari-1 =
-    .label = Taq cha'oj
-    .value = Taq cha'oj
-browser-data-chrome-1 =
-    .label = Taq cha'oj
-    .value = Taq cha'oj
-browser-data-canary-1 =
-    .label = Taq cha'oj
-    .value = Taq cha'oj
-browser-data-360se-1 =
-    .label = Taq ajowab'äl
-    .value = Taq ajowab'äl
-browser-data-ie-2 =
-    .label = Taq kaxlanwey
-    .value = Taq kaxlanwey
-browser-data-edge-2 =
-    .label = Taq kaxlanwey
-    .value = Taq kaxlanwey
-browser-data-safari-2 =
-    .label = Taq kaxlanwey
-    .value = Taq kaxlanwey
-browser-data-chrome-2 =
-    .label = Taq kaxlanwey
-    .value = Taq kaxlanwey
-browser-data-canary-2 =
-    .label = Taq kaxlanwey
-    .value = Taq kaxlanwey
-browser-data-firefox-2 =
-    .label = Taq kaxlanwey
-    .value = Taq kaxlanwey
-browser-data-360se-2 =
-    .label = Taq kaxlanwey
-    .value = Taq kaxlanwey
-browser-data-ie-4 =
-    .label = Runatab'al okem pa k'amaya'l
-    .value = Runatab'al okem pa k'amaya'l
-browser-data-edge-4 =
-    .label = Runatab'al okem pa k'amaya'l
-    .value = Runatab'al okem pa k'amaya'l
-browser-data-safari-4 =
-    .label = Runatab'al okem pa k'amaya'l
-    .value = Runatab'al okem pa k'amaya'l
-browser-data-chrome-4 =
-    .label = Runatab'al okem pa k'amaya'l
-    .value = Runatab'al okem pa k'amaya'l
-browser-data-canary-4 =
-    .label = Runatab'al okem pa k'amaya'l
-    .value = Runatab'al okem pa k'amaya'l
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Kinatab'al okem pa k'amaya'l chuqa' taq yaketal
-    .value = Kinatab'al okem pa k'amaya'l chuqa' taq yaketal
-browser-data-360se-4 =
-    .label = Runatab'al okem pa k'amaya'l
-    .value = Runatab'al okem pa k'amaya'l
-browser-data-ie-8 =
-    .label = Kinatab'al taq nojwuj, ri eyakon
-    .value = Kinatab'al taq nojwuj, ri eyakon
-browser-data-edge-8 =
-    .label = Kinatab'al taq nojwuj, ri eyakon
-    .value = Kinatab'al taq nojwuj, ri eyakon
-browser-data-safari-8 =
-    .label = Kinatab'al taq nojwuj, ri eyakon
-    .value = Kinatab'al taq nojwuj, ri eyakon
-browser-data-chrome-8 =
-    .label = Kinatab'al taq nojwuj, ri eyakon
-    .value = Kinatab'al taq nojwuj, ri eyakon
-browser-data-canary-8 =
-    .label = Kinatab'al taq nojwuj, ri eyakon
-    .value = Kinatab'al taq nojwuj, ri eyakon
-browser-data-firefox-8 =
-    .label = Kinatab'al taq nojwuj, ri eyakon
-    .value = Kinatab'al taq nojwuj, ri eyakon
-browser-data-360se-8 =
-    .label = Kinatab'al taq nojwuj, ri eyakon
-    .value = Kinatab'al taq nojwuj, ri eyakon
-browser-data-ie-16 =
-    .label = Yakäl ewan taq tzij
-    .value = Yakäl ewan taq tzij
-browser-data-edge-16 =
-    .label = Yakäl ewan taq tzij
-    .value = Yakäl ewan taq tzij
-browser-data-safari-16 =
-    .label = Yakäl ewan taq tzij
-    .value = Yakäl ewan taq tzij
-browser-data-chrome-16 =
-    .label = Yakäl ewan taq tzij
-    .value = Yakäl ewan taq tzij
-browser-data-canary-16 =
-    .label = Yakäl ewan taq tzij
-    .value = Yakäl ewan taq tzij
-browser-data-firefox-16 =
-    .label = Yakäl ewan taq tzij
-    .value = Yakäl ewan taq tzij
-browser-data-360se-16 =
-    .label = Yakäl ewan taq tzij
-    .value = Yakäl ewan taq tzij
-browser-data-ie-32 =
-    .label = Taq ajowab'äl
-    .value = Taq ajowab'äl
-browser-data-edge-32 =
-    .label = Taq ajowab'äl
-    .value = Taq ajowab'äl
-browser-data-safari-32 =
-    .label = Taq retal
-    .value = Taq retal
-browser-data-chrome-32 =
-    .label = Taq retal
-    .value = Taq retal
-browser-data-canary-32 =
-    .label = Taq retal
-    .value = Taq retal
-browser-data-360se-32 =
-    .label = Yaketal
-    .value = Yaketal
-browser-data-ie-64 =
-    .label = Juley chik taq tzij
-    .value = Juley chik taq tzij
-browser-data-edge-64 =
-    .label = Juley chik taq tzij
-    .value = Juley chik taq tzij
-browser-data-safari-64 =
-    .label = Juley chik taq tzij
-    .value = Juley chik taq tzij
-browser-data-chrome-64 =
-    .label = Juley chik taq tzij
-    .value = Juley chik taq tzij
-browser-data-canary-64 =
-    .label = Juley chik taq tzij
-    .value = Juley chik taq tzij
-browser-data-firefox-other-64 =
-    .label = Juley chik taq tzij
-    .value = Juley chik taq tzij
-browser-data-360se-64 =
-    .label = Juley chik taq tzij
-    .value = Juley chik taq tzij
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Taq ruwäch chuqa' taq ruwi'
+browser-data-session-label =
     .value = Taq ruwäch chuqa' taq ruwi'
