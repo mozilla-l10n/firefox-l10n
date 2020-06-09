@@ -84,151 +84,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Legolisto (de Safari)
 imported-edge-reading-list = Legolisto (de Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Interretaj elektebloj
-    .value = Interretaj elektebloj
-browser-data-edge-1 =
-    .label = Preferoj
-    .value = Preferoj
-browser-data-safari-1 =
-    .label = Preferoj
-    .value = Preferoj
-browser-data-chrome-1 =
-    .label = Preferoj
-    .value = Preferoj
-browser-data-canary-1 =
-    .label = Preferoj
-    .value = Preferoj
-browser-data-360se-1 =
-    .label = Preferoj
-    .value = Preferoj
-browser-data-ie-2 =
-    .label = Kuketoj
-    .value = Kuketoj
-browser-data-edge-2 =
-    .label = Kuketoj
-    .value = Kuketoj
-browser-data-safari-2 =
-    .label = Kuketoj
-    .value = Kuketoj
-browser-data-chrome-2 =
-    .label = Kuketoj
-    .value = Kuketoj
-browser-data-canary-2 =
-    .label = Kuketoj
-    .value = Kuketoj
-browser-data-firefox-2 =
-    .label = Kuketoj
-    .value = Kuketoj
-browser-data-360se-2 =
-    .label = Kuketoj
-    .value = Kuketoj
-browser-data-ie-4 =
-    .label = Historio de retumo
-    .value = Historio de retumo
-browser-data-edge-4 =
-    .label = Historio de retumo
-    .value = Historio de retumo
-browser-data-safari-4 =
-    .label = Historio de retumo
-    .value = Historio de retumo
-browser-data-chrome-4 =
-    .label = Historio de retumo
-    .value = Historio de retumo
-browser-data-canary-4 =
-    .label = Historio de retumo
-    .value = Historio de retumo
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Legosignoj kaj historio de retumo
-    .value = Legosignoj kaj historio de retumo
-browser-data-360se-4 =
-    .label = Historio de retumo
-    .value = Historio de retumo
-browser-data-ie-8 =
-    .label = Konservita historio de formularoj
-    .value = Konservita historio de formularoj
-browser-data-edge-8 =
-    .label = Konservita historio de formularoj
-    .value = Konservita historio de formularoj
-browser-data-safari-8 =
-    .label = Konservita historio de formularoj
-    .value = Konservita historio de formularoj
-browser-data-chrome-8 =
-    .label = Konservita historio de formularoj
-    .value = Konservita historio de formularoj
-browser-data-canary-8 =
-    .label = Konservita historio de formularoj
-    .value = Konservita historio de formularoj
-browser-data-firefox-8 =
-    .label = Konservita historio de formularoj
-    .value = Konservita historio de formularoj
-browser-data-360se-8 =
-    .label = Konservita historio de formularoj
-    .value = Konservita historio de formularoj
-browser-data-ie-16 =
-    .label = Konservitaj pasvortoj
-    .value = Konservitaj pasvortoj
-browser-data-edge-16 =
-    .label = Konservitaj pasvortoj
-    .value = Konservitaj pasvortoj
-browser-data-safari-16 =
-    .label = Konservitaj pasvortoj
-    .value = Konservitaj pasvortoj
-browser-data-chrome-16 =
-    .label = Konservitaj pasvortoj
-    .value = Konservitaj pasvortoj
-browser-data-canary-16 =
-    .label = Konservitaj pasvortoj
-    .value = Konservitaj pasvortoj
-browser-data-firefox-16 =
-    .label = Konservitaj pasvortoj
-    .value = Konservitaj pasvortoj
-browser-data-360se-16 =
-    .label = Konservitaj pasvortoj
-    .value = Konservitaj pasvortoj
-browser-data-ie-32 =
-    .label = Plej ŝatataj
-    .value = Plej ŝatataj
-browser-data-edge-32 =
-    .label = Legosignoj
-    .value = Legosignoj
-browser-data-safari-32 =
-    .label = Legosignoj
-    .value = Legosignoj
-browser-data-chrome-32 =
-    .label = Legosignoj
-    .value = Legosignoj
-browser-data-canary-32 =
-    .label = Legosignoj
-    .value = Legosignoj
-browser-data-360se-32 =
-    .label = Legosignoj
-    .value = Legosignoj
-browser-data-ie-64 =
-    .label = Aliaj datumoj
-    .value = Aliaj datumoj
-browser-data-edge-64 =
-    .label = Aliaj datumoj
-    .value = Aliaj datumoj
-browser-data-safari-64 =
-    .label = Aliaj datumoj
-    .value = Aliaj datumoj
-browser-data-chrome-64 =
-    .label = Aliaj datumoj
-    .value = Aliaj datumoj
-browser-data-canary-64 =
-    .label = Aliaj datumoj
-    .value = Aliaj datumoj
-browser-data-firefox-other-64 =
-    .label = Aliaj datumoj
-    .value = Aliaj datumoj
-browser-data-360se-64 =
-    .label = Aliaj datumoj
-    .value = Aliaj datumoj
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Fenestroj kaj langetoj
+browser-data-session-label =
     .value = Fenestroj kaj langetoj
