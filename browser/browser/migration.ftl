@@ -90,3 +90,7 @@ imported-edge-reading-list = قائمة القراءة (من إدج)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = النوافذ و الألسنة
+browser-data-session-label =
+    .value = النوافذ و الألسنة
