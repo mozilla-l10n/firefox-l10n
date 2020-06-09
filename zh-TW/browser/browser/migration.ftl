@@ -97,6 +97,52 @@ imported-edge-reading-list = 閱讀清單（來自 Edge）
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookie
+browser-data-cookies-label =
+    .value = Cookie
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] 瀏覽紀錄與書籤
+           *[other] 瀏覽紀錄
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] 瀏覽紀錄與書籤
+           *[other] 瀏覽紀錄
+        }
+browser-data-formdata-checkbox =
+    .label = 已存表單記錄
+browser-data-formdata-label =
+    .value = 已存表單記錄
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = 登入資訊與密碼
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = 登入資訊與密碼
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] 我的最愛
+            [edge] 我的最愛
+           *[other] 書籤
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] 我的最愛
+            [edge] 我的最愛
+           *[other] 書籤
+        }
+browser-data-otherdata-checkbox =
+    .label = 其他資料
+browser-data-otherdata-label =
+    .label = 其他資料
 browser-data-session-checkbox =
     .label = 視窗與分頁
 browser-data-session-label =
