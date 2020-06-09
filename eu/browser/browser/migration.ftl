@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Irakurketa-zerrenda (Safari-tik)
 imported-edge-reading-list = Irakurketa-zerrenda (Edge-tik)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internet-aukerak
-    .value = Internet-aukerak
-browser-data-edge-1 =
-    .label = Ezarpenak
-    .value = Ezarpenak
-browser-data-safari-1 =
-    .label = Hobespenak
-    .value = Hobespenak
-browser-data-chrome-1 =
-    .label = Hobespenak
-    .value = Hobespenak
-browser-data-canary-1 =
-    .label = Hobespenak
-    .value = Hobespenak
-browser-data-360se-1 =
-    .label = Hobespenak
-    .value = Hobespenak
-browser-data-ie-2 =
-    .label = Cookieak
-    .value = Cookieak
-browser-data-edge-2 =
-    .label = Cookieak
-    .value = Cookieak
-browser-data-safari-2 =
-    .label = Cookieak
-    .value = Cookieak
-browser-data-chrome-2 =
-    .label = Cookieak
-    .value = Cookieak
-browser-data-canary-2 =
-    .label = Cookieak
-    .value = Cookieak
-browser-data-firefox-2 =
-    .label = Cookieak
-    .value = Cookieak
-browser-data-360se-2 =
-    .label = Cookieak
-    .value = Cookieak
-browser-data-ie-4 =
-    .label = Arakatze-historia
-    .value = Arakatze-historia
-browser-data-edge-4 =
-    .label = Arakatze-historia
-    .value = Arakatze-historia
-browser-data-safari-4 =
-    .label = Arakatze-historia
-    .value = Arakatze-historia
-browser-data-chrome-4 =
-    .label = Arakatze-historia
-    .value = Arakatze-historia
-browser-data-canary-4 =
-    .label = Arakatze-historia
-    .value = Arakatze-historia
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Arakatze-historia eta laster-markak
-    .value = Arakatze-historia eta laster-markak
-browser-data-360se-4 =
-    .label = Arakatze-historia
-    .value = Arakatze-historia
-browser-data-ie-8 =
-    .label = Gordetako inprimakien historia
-    .value = Gordetako inprimakien historia
-browser-data-edge-8 =
-    .label = Gordetako inprimakien historia
-    .value = Gordetako inprimakien historia
-browser-data-safari-8 =
-    .label = Gordetako inprimakien historia
-    .value = Gordetako inprimakien historia
-browser-data-chrome-8 =
-    .label = Gordetako inprimakien historia
-    .value = Gordetako inprimakien historia
-browser-data-canary-8 =
-    .label = Gordetako inprimakien historia
-    .value = Gordetako inprimakien historia
-browser-data-firefox-8 =
-    .label = Gordetako inprimakien historia
-    .value = Gordetako inprimakien historia
-browser-data-360se-8 =
-    .label = Gordetako inprimakien historia
-    .value = Gordetako inprimakien historia
-browser-data-ie-16 =
-    .label = Gordetako pasahitzak
-    .value = Gordetako pasahitzak
-browser-data-edge-16 =
-    .label = Gordetako pasahitzak
-    .value = Gordetako pasahitzak
-browser-data-safari-16 =
-    .label = Gordetako pasahitzak
-    .value = Gordetako pasahitzak
-browser-data-chrome-16 =
-    .label = Gordetako pasahitzak
-    .value = Gordetako pasahitzak
-browser-data-canary-16 =
-    .label = Gordetako pasahitzak
-    .value = Gordetako pasahitzak
-browser-data-firefox-16 =
-    .label = Gordetako pasahitzak
-    .value = Gordetako pasahitzak
-browser-data-360se-16 =
-    .label = Gordetako pasahitzak
-    .value = Gordetako pasahitzak
-browser-data-ie-32 =
-    .label = Gogokoak
-    .value = Gogokoak
-browser-data-edge-32 =
-    .label = Gogokoak
-    .value = Gogokoak
-browser-data-safari-32 =
-    .label = Laster-markak
-    .value = Laster-markak
-browser-data-chrome-32 =
-    .label = Laster-markak
-    .value = Laster-markak
-browser-data-canary-32 =
-    .label = Laster-markak
-    .value = Laster-markak
-browser-data-360se-32 =
-    .label = Laster-markak
-    .value = Laster-markak
-browser-data-ie-64 =
-    .label = Bestelako datuak
-    .value = Bestelako datuak
-browser-data-edge-64 =
-    .label = Bestelako datuak
-    .value = Bestelako datuak
-browser-data-safari-64 =
-    .label = Bestelako datuak
-    .value = Bestelako datuak
-browser-data-chrome-64 =
-    .label = Bestelako datuak
-    .value = Bestelako datuak
-browser-data-canary-64 =
-    .label = Bestelako datuak
-    .value = Bestelako datuak
-browser-data-firefox-other-64 =
-    .label = Bestelako datuak
-    .value = Bestelako datuak
-browser-data-360se-64 =
-    .label = Bestelako datuak
-    .value = Bestelako datuak
-browser-data-firefox-128 =
-    .label = Leihoak eta fitxak
-    .value = Leihoak eta fitxak
