@@ -77,151 +77,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = ဖတ်ရှုစာရင်း (Safari မှ)
 imported-edge-reading-list = ဖတ်နေဆဲ စာရင်း (Edge မှ)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = အင်တာနက်ဆိုင်ရာရွေးချယ်စရာများ
-    .value = အင်တာနက်ဆိုင်ရာရွေးချယ်စရာများ
-browser-data-edge-1 =
-    .label = အပြင်အဆင်များ
-    .value = အပြင်အဆင်များ
-browser-data-safari-1 =
-    .label = နှစ်သက်ရာအပြင်အဆင်များ
-    .value = နှစ်သက်ရာအပြင်အဆင်များ
-browser-data-chrome-1 =
-    .label = နှစ်သက်ရာအပြင်အဆင်များ
-    .value = နှစ်သက်ရာအပြင်အဆင်များ
-browser-data-canary-1 =
-    .label = နှစ်သက်ရာအပြင်အဆင်များ
-    .value = နှစ်သက်ရာအပြင်အဆင်များ
-browser-data-360se-1 =
-    .label = အပြင်အဆင်များ
-    .value = အပြင်အဆင်များ
-browser-data-ie-2 =
-    .label = ကွတ်ကီးများ
-    .value = ကွတ်ကီးများ
-browser-data-edge-2 =
-    .label = ကွတ်ကီးများ
-    .value = ကွတ်ကီးများ
-browser-data-safari-2 =
-    .label = ကွတ်ကီးများ
-    .value = ကွတ်ကီးများ
-browser-data-chrome-2 =
-    .label = ကွတ်ကီးများ
-    .value = ကွတ်ကီးများ
-browser-data-canary-2 =
-    .label = ကွတ်ကီးများ
-    .value = ကွတ်ကီးများ
-browser-data-firefox-2 =
-    .label = ကွတ်ကီးများ
-    .value = ကွတ်ကီးများ
-browser-data-360se-2 =
-    .label = ကွတ်ကီးများ
-    .value = ကွတ်ကီးများ
-browser-data-ie-4 =
-    .label = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-    .value = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-browser-data-edge-4 =
-    .label = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-    .value = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-browser-data-safari-4 =
-    .label = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-    .value = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-browser-data-chrome-4 =
-    .label = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-    .value = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-browser-data-canary-4 =
-    .label = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-    .value = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ကြည့်ရှုမှုမှတ်တမ်းနှင့် စာမှတ်များ
-    .value = ကြည့်ရှုမှုမှတ်တမ်းနှင့် စာမှတ်များ
-browser-data-360se-4 =
-    .label = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-    .value = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
-browser-data-ie-8 =
-    .label = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-    .value = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-browser-data-edge-8 =
-    .label = သိမ်းထားသည့် ပုံစံဖြည့် မှတ်တမ်း
-    .value = သိမ်းထားသည့် ပုံစံဖြည့် မှတ်တမ်း
-browser-data-safari-8 =
-    .label = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-    .value = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-browser-data-chrome-8 =
-    .label = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-    .value = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-browser-data-canary-8 =
-    .label = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-    .value = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-browser-data-firefox-8 =
-    .label = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-    .value = သိမ်းထားသည့် ဖောင်ဖြည့်မှတ်တမ်း
-browser-data-360se-8 =
-    .label = သိမ်းထားသည့် ပုံစံဖြည့် မှတ်တမ်း
-    .value = သိမ်းထားသည့် ပုံစံဖြည့် မှတ်တမ်း
-browser-data-ie-16 =
-    .label = သိမ်းထားသည့် စကားဝှက်များ
-    .value = သိမ်းထားသည့် စကားဝှက်များ
-browser-data-edge-16 =
-    .label = သိမ်းထားသည့် စကားဝှက်များ
-    .value = သိမ်းထားသည့် စကားဝှက်များ
-browser-data-safari-16 =
-    .label = သိမ်းထားသည့် စကားဝှက်များ
-    .value = သိမ်းထားသည့် စကားဝှက်များ
-browser-data-chrome-16 =
-    .label = သိမ်းထားသည့် စကားဝှက်များ
-    .value = သိမ်းထားသည့် စကားဝှက်များ
-browser-data-canary-16 =
-    .label = သိမ်းထားသည့် စကားဝှက်များ
-    .value = သိမ်းထားသည့် စကားဝှက်များ
-browser-data-firefox-16 =
-    .label = သိမ်းထားသည့် စကားဝှက်များ
-    .value = သိမ်းထားသည့် စကားဝှက်များ
-browser-data-360se-16 =
-    .label = သိမ်းထားသည့် စကားဝှက်များ
-    .value = သိမ်းထားသည့် စကားဝှက်များ
-browser-data-ie-32 =
-    .label = စိတ်ကြိုက်များ
-    .value = စိတ်ကြိုက်များ
-browser-data-edge-32 =
-    .label = နှစ်သက်ရာများ
-    .value = နှစ်သက်ရာများ
-browser-data-safari-32 =
-    .label = စာမှတ်များ
-    .value = စာမှတ်များ
-browser-data-chrome-32 =
-    .label = စာမှတ်များ
-    .value = စာမှတ်များ
-browser-data-canary-32 =
-    .label = စာမှတ်များ
-    .value = စာမှတ်များ
-browser-data-360se-32 =
-    .label = စာမှတ်များ
-    .value = စာမှတ်များ
-browser-data-ie-64 =
-    .label = အခြား အချက်အလက်ကြမ်း
-    .value = အခြား အချက်အလက်ကြမ်း
-browser-data-edge-64 =
-    .label = အခြား အချက်အလက်
-    .value = အခြား အချက်အလက်
-browser-data-safari-64 =
-    .label = အခြား အချက်အလက်ကြမ်း
-    .value = အခြား အချက်အလက်ကြမ်း
-browser-data-chrome-64 =
-    .label = အခြား အချက်အလက်ကြမ်း
-    .value = အခြား အချက်အလက်ကြမ်း
-browser-data-canary-64 =
-    .label = အခြား အချက်အလက်ကြမ်း
-    .value = အခြား အချက်အလက်ကြမ်း
-browser-data-firefox-other-64 =
-    .label = အခြား အချက်အလက်များ
-    .value = အခြား အချက်အလက်များ
-browser-data-360se-64 =
-    .label = အခြား အချက်အလက်
-    .value = အခြား အချက်အလက်
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = ၀င်းဒိုးနှင့် တပ်ဗ်များ
+browser-data-session-label =
     .value = ၀င်းဒိုးနှင့် တပ်ဗ်များ
