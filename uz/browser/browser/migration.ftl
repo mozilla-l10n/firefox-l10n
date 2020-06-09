@@ -75,151 +75,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Roʻyxat ("Safari"dan) oʻqilmoqda
 imported-edge-reading-list = O‘qish ro‘yxati (Edge brauzeridan)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internet moslamalari
-    .value = Internet moslamalari
-browser-data-edge-1 =
-    .label = Sozlamalar
-    .value = Sozlamalar
-browser-data-safari-1 =
-    .label = Moslamalar
-    .value = Moslamalar
-browser-data-chrome-1 =
-    .label = Moslamalar
-    .value = Moslamalar
-browser-data-canary-1 =
-    .label = Moslamalar
-    .value = Moslamalar
-browser-data-360se-1 =
-    .label = Parametrlar
-    .value = Parametrlar
-browser-data-ie-2 =
-    .label = Kukilar
-    .value = Kukilar
-browser-data-edge-2 =
-    .label = Kukilar
-    .value = Kukilar
-browser-data-safari-2 =
-    .label = Kukilar
-    .value = Kukilar
-browser-data-chrome-2 =
-    .label = Kukilar
-    .value = Kukilar
-browser-data-canary-2 =
-    .label = Kukilar
-    .value = Kukilar
-browser-data-firefox-2 =
-    .label = Kukilar
-    .value = Kukilar
-browser-data-360se-2 =
-    .label = Kukilar
-    .value = Kukilar
-browser-data-ie-4 =
-    .label = Koʻrish tarixi
-    .value = Koʻrish tarixi
-browser-data-edge-4 =
-    .label = Koʻrish tarixi
-    .value = Koʻrish tarixi
-browser-data-safari-4 =
-    .label = Koʻrish tarixi
-    .value = Koʻrish tarixi
-browser-data-chrome-4 =
-    .label = Koʻrish tarixi
-    .value = Koʻrish tarixi
-browser-data-canary-4 =
-    .label = Koʻrish tarixi
-    .value = Koʻrish tarixi
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Tarix va xatchoʻplarni koʻrish
-    .value = Tarix va xatchoʻplarni koʻrish
-browser-data-360se-4 =
-    .label = Koʻrish tarixi
-    .value = Koʻrish tarixi
-browser-data-ie-8 =
-    .label = Tarix shakli saqlangan
-    .value = Tarix shakli saqlangan
-browser-data-edge-8 =
-    .label = Saqlangan shakllar tarixi
-    .value = Saqlangan shakllar tarixi
-browser-data-safari-8 =
-    .label = Tarix shakli saqlangan
-    .value = Tarix shakli saqlangan
-browser-data-chrome-8 =
-    .label = Tarix shakli saqlangan
-    .value = Tarix shakli saqlangan
-browser-data-canary-8 =
-    .label = Tarix shakli saqlangan
-    .value = Tarix shakli saqlangan
-browser-data-firefox-8 =
-    .label = Tarix shakli saqlangan
-    .value = Tarix shakli saqlangan
-browser-data-360se-8 =
-    .label = Saqlangan shakllar tarixi
-    .value = Saqlangan shakllar tarixi
-browser-data-ie-16 =
-    .label = Saqlangan parollar
-    .value = Saqlangan parollar
-browser-data-edge-16 =
-    .label = Saqlangan parollar
-    .value = Saqlangan parollar
-browser-data-safari-16 =
-    .label = Saqlangan parollar
-    .value = Saqlangan parollar
-browser-data-chrome-16 =
-    .label = Saqlangan parollar
-    .value = Saqlangan parollar
-browser-data-canary-16 =
-    .label = Saqlangan parollar
-    .value = Saqlangan parollar
-browser-data-firefox-16 =
-    .label = Saqlangan parollar
-    .value = Saqlangan parollar
-browser-data-360se-16 =
-    .label = Saqlangan parollar
-    .value = Saqlangan parollar
-browser-data-ie-32 =
-    .label = Sevimlilar
-    .value = Sevimlilar
-browser-data-edge-32 =
-    .label = Sevimlilar
-    .value = Sevimlilar
-browser-data-safari-32 =
-    .label = Xatchoʻplar
-    .value = Xatchoʻplar
-browser-data-chrome-32 =
-    .label = Xatchoʻplar
-    .value = Xatchoʻplar
-browser-data-canary-32 =
-    .label = Xatchoʻplar
-    .value = Xatchoʻplar
-browser-data-360se-32 =
-    .label = Xatchoʻplar
-    .value = Xatchoʻplar
-browser-data-ie-64 =
-    .label = Boshqa ma`lumotlar
-    .value = Boshqa ma`lumotlar
-browser-data-edge-64 =
-    .label = Boshqa ma’lumotlar
-    .value = Boshqa ma’lumotlar
-browser-data-safari-64 =
-    .label = Boshqa ma`lumotlar
-    .value = Boshqa ma`lumotlar
-browser-data-chrome-64 =
-    .label = Boshqa ma`lumotlar
-    .value = Boshqa ma`lumotlar
-browser-data-canary-64 =
-    .label = Boshqa ma`lumotlar
-    .value = Boshqa ma`lumotlar
-browser-data-firefox-other-64 =
-    .label = Boshqa ma’lumotlar
-    .value = Boshqa ma’lumotlar
-browser-data-360se-64 =
-    .label = Boshqa ma’lumotlar
-    .value = Boshqa ma’lumotlar
-browser-data-firefox-128 =
-    .label = Oynalar va varaqlar
-    .value = Oynalar va varaqlar
