@@ -37,6 +37,8 @@ etp-card-title = Tapykueho mo’ãha mbotuichapyre
 etp-card-content = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
 protection-report-webpage-title = Ñemo’ãha renda
 protection-report-page-content-title = Ñemo’ãha renda
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } omo’ãkuaa ne ñemigua heta pa’ũme eikundaha aja. Kóva ha’e momichĩmbyre umi ñemo’ã rehegua, oikehápe avei umi tembipuru eñangarekokuaa hag̃ua ne tekorosã ñandutípe.
 protection-report-settings-link = Eñangareko ne ñemigua ha tekorosã ñembohekóre
 etp-card-title-always = Ñemo’ã tapykuehoha iporãvéva rovake: Hendy tapia
 etp-card-title-custom-not-blocking = Ñemo’ã tapykuehoha iporãvéva rovake: Ogue
