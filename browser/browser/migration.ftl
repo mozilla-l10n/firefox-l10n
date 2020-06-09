@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Lista de lectura (de Safari)
 imported-edge-reading-list = Lista de lectura (de Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Opcions d'internet
-    .value = Opcions d'internet
-browser-data-edge-1 =
-    .label = Paramètres
-    .value = Paramètres
-browser-data-safari-1 =
-    .label = Preferéncias
-    .value = Preferéncias
-browser-data-chrome-1 =
-    .label = Preferéncias
-    .value = Preferéncias
-browser-data-canary-1 =
-    .label = Preferéncias
-    .value = Preferéncias
-browser-data-360se-1 =
-    .label = Preferéncias
-    .value = Preferéncias
-browser-data-ie-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-edge-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-safari-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-chrome-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-canary-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-firefox-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-360se-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-ie-4 =
-    .label = Istoric de navegacion
-    .value = Istoric de navegacion
-browser-data-edge-4 =
-    .label = Istoric de navegacion
-    .value = Istoric de navegacion
-browser-data-safari-4 =
-    .label = Istoric de navegacion
-    .value = Istoric de navegacion
-browser-data-chrome-4 =
-    .label = Istoric de navegacion
-    .value = Istoric de navegacion
-browser-data-canary-4 =
-    .label = Istoric de navegacion
-    .value = Istoric de navegacion
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Istoric e marcapaginas
-    .value = Istoric e marcapaginas
-browser-data-360se-4 =
-    .label = Istoric de navegacion
-    .value = Istoric de navegacion
-browser-data-ie-8 =
-    .label = Donadas de formularis enregistradas
-    .value = Donadas de formularis enregistradas
-browser-data-edge-8 =
-    .label = Donadas de formularis enregistradas
-    .value = Donadas de formularis enregistradas
-browser-data-safari-8 =
-    .label = Donadas de formularis enregistradas
-    .value = Donadas de formularis enregistradas
-browser-data-chrome-8 =
-    .label = Donadas de formularis enregistradas
-    .value = Donadas de formularis enregistradas
-browser-data-canary-8 =
-    .label = Donadas de formularis enregistradas
-    .value = Donadas de formularis enregistradas
-browser-data-firefox-8 =
-    .label = Donadas de formularis enregistradas
-    .value = Donadas de formularis enregistradas
-browser-data-360se-8 =
-    .label = Donadas de formularis enregistradas
-    .value = Donadas de formularis enregistradas
-browser-data-ie-16 =
-    .label = Senhals enregistrats
-    .value = Senhals enregistrats
-browser-data-edge-16 =
-    .label = Senhals enregistrats
-    .value = Senhals enregistrats
-browser-data-safari-16 =
-    .label = Senhals enregistrats
-    .value = Senhals enregistrats
-browser-data-chrome-16 =
-    .label = Senhals enregistrats
-    .value = Senhals enregistrats
-browser-data-canary-16 =
-    .label = Senhals enregistrats
-    .value = Senhals enregistrats
-browser-data-firefox-16 =
-    .label = Senhals enregistrats
-    .value = Senhals enregistrats
-browser-data-360se-16 =
-    .label = Senhals enregistrats
-    .value = Senhals enregistrats
-browser-data-ie-32 =
-    .label = Favorits
-    .value = Favorits
-browser-data-edge-32 =
-    .label = Favorits
-    .value = Favorits
-browser-data-safari-32 =
-    .label = Marcapaginas
-    .value = Marcapaginas
-browser-data-chrome-32 =
-    .label = Favorits
-    .value = Favorits
-browser-data-canary-32 =
-    .label = Favorits
-    .value = Favorits
-browser-data-360se-32 =
-    .label = Marcapaginas
-    .value = Marcapaginas
-browser-data-ie-64 =
-    .label = Autras donadas
-    .value = Autras donadas
-browser-data-edge-64 =
-    .label = Autras donadas
-    .value = Autras donadas
-browser-data-safari-64 =
-    .label = Autras donadas
-    .value = Autras donadas
-browser-data-chrome-64 =
-    .label = Autras donadas
-    .value = Autras donadas
-browser-data-canary-64 =
-    .label = Autras donadas
-    .value = Autras donadas
-browser-data-firefox-other-64 =
-    .label = Autras donadas
-    .value = Autras donadas
-browser-data-360se-64 =
-    .label = Autras donadas
-    .value = Autras donadas
-browser-data-firefox-128 =
-    .label = Fenèstras e onglets
-    .value = Fenèstras e onglets
