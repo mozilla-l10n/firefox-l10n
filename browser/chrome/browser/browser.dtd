@@ -39,7 +39,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "링크를 기기로 보내기">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  undoCloseTab.label                 "닫은 탭 다시 열기">
+<!ENTITY  undoCloseTab.label                 "탭 닫기 취소">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  hiddenTabs.label                   "숨겨진 탭">
 
