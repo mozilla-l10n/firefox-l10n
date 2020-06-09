@@ -64,3 +64,7 @@ imported-safari-reading-list = Uhlu lokufunda (kusukela ku-Safari)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Amawindi namamaki
+browser-data-session-label =
+    .value = Amawindi namamaki
