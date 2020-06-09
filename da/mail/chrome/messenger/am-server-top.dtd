@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Meddelelsesopbevaring">
 <!ENTITY securitySettings.label "Sikkerhedsindstillinger">
 <!ENTITY serverSettings.label "Serverindstillinger">
@@ -15,6 +13,11 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Standard:">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
 <!ENTITY biffStart.label "Kontroller for nye meddelelser hvert">
 <!ENTITY biffStart.accesskey "o">
 <!ENTITY biffEnd.label "minut">
@@ -39,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Hent automatisk alle nye meddelelser">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Dit loginnavn">
 <!ENTITY deleteMessagePrefix.label "Når jeg sletter en meddelelse:">
 <!ENTITY modelMoveToTrash.label "Flyt den til mappen Papirkurv">
 <!ENTITY modelMoveToTrash.accesskey "i">
@@ -47,29 +49,38 @@
 <!ENTITY modelMarkDeleted.accesskey "m">
 <!ENTITY modelDeleteImmediately.label "Fjern den øjeblikkeligt">
 <!ENTITY modelDeleteImmediately.accesskey "j">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Ryd op i (optimer) Indbakke ved afslutning">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Tøm Papirkurv ved afslutning">
 <!ENTITY emptyTrashOnExit.accesskey "T">
 <!ENTITY loginAtStartup.label "Kontroller for nye meddelelser ved opstart">
 <!ENTITY loginAtStartup.accesskey "K">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+    of messages between them
+-->
 <!ENTITY maxMessagesStart.label "Spørg mig før hentning af mere end">
 <!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "meddelelser">
 <!ENTITY alwaysAuthenticate.label "Kræv altid godkendelse ved tilslutning til denne server">
 <!ENTITY alwaysAuthenticate.accesskey "æ">
 <!ENTITY newsrcFilePath.label "newsrc fil:">
-<!ENTITY localPath.label "Lokal mappe:">
+<!ENTITY newsrcPicker.label "Vælg newsrc fil">
+<!ENTITY newsrcFilePath1.label "News.rc-fil:">
+<!ENTITY newsrcPicker1.label "Vælg News.rc-fil">
 <!ENTITY abbreviate.label "Vis nyhedsgruppenavne i mappeoversigten som:">
 <!ENTITY abbreviateOn.label "Fulde navne (fx &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Forkortede navne (fx &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Avanceret…">
-<!ENTITY serverDefaultCharset2.label "Standardtegnkodning:">
 <!ENTITY advancedButton.accesskey "A">
+<!ENTITY serverDefaultCharset2.label "Standardtegnkodning:">
+<!ENTITY localPath.label "Lokal mappe:">
+<!ENTITY localPath1.label "Lokal mappe:">
 <!ENTITY localFolderPicker.label "Vælg lokal mappe">
 <!ENTITY browseFolder.label "Gennemse…">
 <!ENTITY browseFolder.accesskey "G">
-<!ENTITY newsrcPicker.label "Vælg newsrc fil">
 <!ENTITY browseNewsrc.label "Gennemse…">
 <!ENTITY browseNewsrc.accesskey "e">
 
