@@ -82,3 +82,7 @@ imported-edge-reading-list = വായനയ്ക്കുള്ള പട്�
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = ടാബുകളും ജാലകങ്ങളും
+browser-data-session-label =
+    .value = ടാബുകളും ജാലകങ്ങളും
