@@ -91,3 +91,7 @@ imported-edge-reading-list = Oxuma siyahısı (Edge-dən)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Pəncərələr və vərəqlər
+browser-data-session-label =
+    .value = Pəncərələr və vərəqlər
