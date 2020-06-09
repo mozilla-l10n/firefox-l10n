@@ -7,14 +7,6 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Fjern feltet { $type }
-#   $type (String) - the type of the addressing row
-#   $count (Number) - the number of address pills currently present in the addressing row
-address-input-type =
-    { $count ->
-        [0] Tomt inputfelt { $type }
-        [one] Inputfelt { $type } med én adresse
-       *[other] Inputfelt { $type } med { $count } adresser
-    }
 pill-action-edit =
     .label = Rediger adresse
     .accesskey = R
@@ -27,3 +19,12 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Flyt til Skjult kopi til (Bcc)
     .accesskey = B
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value =
+        { $count ->
+            [1] { $count } vedhæftet fil
+            [one] { $count } vedhæftet fil
+           *[other] { $count } vedhæftede filer
+        }
+    .accesskey = æ
