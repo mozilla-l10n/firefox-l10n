@@ -30,3 +30,6 @@ carddav-remember-password =
     .accesskey = H
 carddav-loading = Undersøker konfigurasjonen…
 carddav-connection-error = Tilkoblingsfeil.
+carddav-none-found = Fant ingen adressebøker å legge til for den angitte kontoen.
+carddav-already-added = Alle adressebøker for den angitte kontoen er allerede lagt til.
+carddav-available-books = Tilgjengelige adressebøker:
