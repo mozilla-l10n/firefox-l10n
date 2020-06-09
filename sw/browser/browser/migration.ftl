@@ -51,106 +51,16 @@ source-name-chrome = Google Chrome
 source-name-firefox = Mozilla Firefox
 imported-safari-reading-list = Orodha ya Kusoma (Kutoka Safari)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Chaguo za Mtandao
-    .value = Chaguo za Mtandao
-browser-data-edge-1 =
-    .label = Mipangilio
-    .value = Mipangilio
-browser-data-safari-1 =
-    .label = Mapendeleo
-    .value = Mapendeleo
-browser-data-chrome-1 =
-    .label = Mapendeleo
-    .value = Mapendeleo
-browser-data-canary-1 =
-    .label = Mapendeleo
-    .value = Mapendeleo
-browser-data-ie-2 =
-    .label = Vidakuzi
-    .value = Vidakuzi
-browser-data-safari-2 =
-    .label = Vidakuzi
-    .value = Vidakuzi
-browser-data-chrome-2 =
-    .label = Vidakuzi
-    .value = Vidakuzi
-browser-data-canary-2 =
-    .label = Vidakuzi
-    .value = Vidakuzi
-browser-data-firefox-2 =
-    .label = Vidakuzi
-    .value = Vidakuzi
-browser-data-ie-4 =
-    .label = Historia ya Kuvinjari
-    .value = Historia ya Kuvinjari
-browser-data-safari-4 =
-    .label = Historia ya Kuvinjari
-    .value = Historia ya Kuvinjari
-browser-data-chrome-4 =
-    .label = Historia ya Kuvinjari
-    .value = Historia ya Kuvinjari
-browser-data-canary-4 =
-    .label = Historia ya Kuvinjari
-    .value = Historia ya Kuvinjari
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Historia ya Kuvinjari na Alamisho
-    .value = Historia ya Kuvinjari na Alamisho
-browser-data-ie-8 =
-    .label = Historia ya Fomu Iliyohifadhiwa
-    .value = Historia ya Fomu Iliyohifadhiwa
-browser-data-safari-8 =
-    .label = Historia ya Fomu Iliyohifadhiwa
-    .value = Historia ya Fomu Iliyohifadhiwa
-browser-data-chrome-8 =
-    .label = Historia ya Fomu Iliyohifadhiwa
-    .value = Historia ya Fomu Iliyohifadhiwa
-browser-data-canary-8 =
-    .label = Historia ya Fomu Iliyohifadhiwa
-    .value = Historia ya Fomu Iliyohifadhiwa
-browser-data-firefox-8 =
-    .label = Historia ya Fomu Iliyohifadhiwa
-    .value = Historia ya Fomu Iliyohifadhiwa
-browser-data-ie-16 =
-    .label = Maneno ya siri Yaliyohifadhiwa
-    .value = Maneno ya siri Yaliyohifadhiwa
-browser-data-safari-16 =
-    .label = Maneno ya siri Yaliyohifadhiwa
-    .value = Maneno ya siri Yaliyohifadhiwa
-browser-data-chrome-16 =
-    .label = Maneno ya siri Yaliyohifadhiwa
-    .value = Maneno ya siri Yaliyohifadhiwa
-browser-data-canary-16 =
-    .label = Maneno ya siri Yaliyohifadhiwa
-    .value = Maneno ya siri Yaliyohifadhiwa
-browser-data-firefox-16 =
-    .label = Maneno ya siri Yaliyohifadhiwa
-    .value = Maneno ya siri Yaliyohifadhiwa
-browser-data-safari-32 =
-    .label = Alamisho
-    .value = Alamisho
-browser-data-chrome-32 =
-    .label = Alamisho
-    .value = Alamisho
-browser-data-canary-32 =
-    .label = Alamisho
-    .value = Alamisho
-browser-data-ie-64 =
-    .label = Data Nyingine
-    .value = Data Nyingine
-browser-data-safari-64 =
-    .label = Data Nyingine
-    .value = Data Nyingine
-browser-data-chrome-64 =
-    .label = Data Nyingine
-    .value = Data Nyingine
-browser-data-canary-64 =
-    .label = Data Nyingine
-    .value = Data Nyingine
-browser-data-firefox-128 =
-    .label = Dirisha na Vichupo
-    .value = Dirisha na Vichupo
