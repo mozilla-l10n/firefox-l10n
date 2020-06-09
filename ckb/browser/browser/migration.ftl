@@ -84,151 +84,20 @@ source-name-360se = وێبگەڕی پارێزراوی ٣٦٠
 imported-safari-reading-list = لیستی خوێندنەوە (لە safari ەوە)
 imported-edge-reading-list = لیستی خوێندنەوە (لە Edge ەوە)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = هەڵبژاردکەانی ئینتەرنێت
-    .value = هەڵبژاردکەانی ئینتەرنێت
-browser-data-edge-1 =
-    .label = ڕێکخستنەکان
-    .value = ڕێکخستنەکان
-browser-data-safari-1 =
-    .label = هەڵبژاردنەکان
-    .value = هەڵبژاردنەکان
-browser-data-chrome-1 =
-    .label = هەڵبژاردنەکان
-    .value = هەڵبژاردنەکان
-browser-data-canary-1 =
-    .label = هەڵبژاردنەکان
-    .value = هەڵبژاردنەکان
-browser-data-360se-1 =
-    .label = هەڵبژاردنەکان
-    .value = هەڵبژاردنەکان
-browser-data-ie-2 =
-    .label = شەکرۆکە
-    .value = شەکرۆکە
-browser-data-edge-2 =
-    .label = شەکرۆکە
-    .value = شەکرۆکە
-browser-data-safari-2 =
-    .label = شەکرۆکە
-    .value = شەکرۆکە
-browser-data-chrome-2 =
-    .label = شەکرۆکە
-    .value = شەکرۆکە
-browser-data-canary-2 =
-    .label = شەکرۆکە
-    .value = شەکرۆکە
-browser-data-firefox-2 =
-    .label = شەکرۆکە
-    .value = شەکرۆکە
-browser-data-360se-2 =
-    .label = شەکرۆکە
-    .value = شەکرۆکە
-browser-data-ie-4 =
-    .label = مێژووی وێبگەڕی
-    .value = مێژووی وێبگەڕی
-browser-data-edge-4 =
-    .label = مێژووی وێبگەڕی
-    .value = مێژووی وێبگەڕی
-browser-data-safari-4 =
-    .label = مێژووی وێبگەڕی
-    .value = مێژووی وێبگەڕی
-browser-data-chrome-4 =
-    .label = مێژووی وێبگەڕی
-    .value = مێژووی وێبگەڕی
-browser-data-canary-4 =
-    .label = مێژووی وێبگەڕی
-    .value = مێژووی وێبگەڕی
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = مێژووی وێبگەڕی و دڵخوازەکان
-    .value = مێژووی وێبگەڕی و دڵخوازەکان
-browser-data-360se-4 =
-    .label = مێژووی وێبگەڕی
-    .value = مێژووی وێبگەڕی
-browser-data-ie-8 =
-    .label = هەڵگیراوە لە مێژووی کارەوە
-    .value = هەڵگیراوە لە مێژووی کارەوە
-browser-data-edge-8 =
-    .label = هەڵگیراوە لە مێژووی کارەوە
-    .value = هەڵگیراوە لە مێژووی کارەوە
-browser-data-safari-8 =
-    .label = هەڵگیراوە لە مێژووی کارەوە
-    .value = هەڵگیراوە لە مێژووی کارەوە
-browser-data-chrome-8 =
-    .label = هەڵگیراوە لە مێژووی کارەوە
-    .value = هەڵگیراوە لە مێژووی کارەوە
-browser-data-canary-8 =
-    .label = هەڵگیراوە لە مێژووی کارەوە
-    .value = هەڵگیراوە لە مێژووی کارەوە
-browser-data-firefox-8 =
-    .label = هەڵگیراوە لە مێژووی کارەوە
-    .value = هەڵگیراوە لە مێژووی کارەوە
-browser-data-360se-8 =
-    .label = هەڵگیراوە لە مێژووی کارەوە
-    .value = هەڵگیراوە لە مێژووی کارەوە
-browser-data-ie-16 =
-    .label = وشەی تێپەڕی پاشەکەوت کراو
-    .value = وشەی تێپەڕی پاشەکەوت کراو
-browser-data-edge-16 =
-    .label = وشەی تێپەڕی پاشەکەوت کراو
-    .value = وشەی تێپەڕی پاشەکەوت کراو
-browser-data-safari-16 =
-    .label = وشەی تێپەڕی پاشەکەوت کراو
-    .value = وشەی تێپەڕی پاشەکەوت کراو
-browser-data-chrome-16 =
-    .label = وشەی تێپەڕی پاشەکەوت کراو
-    .value = وشەی تێپەڕی پاشەکەوت کراو
-browser-data-canary-16 =
-    .label = وشەی تێپەڕی پاشەکەوت کراو
-    .value = وشەی تێپەڕی پاشەکەوت کراو
-browser-data-firefox-16 =
-    .label = وشەی تێپەڕی پاشەکەوت کراو
-    .value = وشەی تێپەڕی پاشەکەوت کراو
-browser-data-360se-16 =
-    .label = وشەی تێپەڕی پاشەکەوت کراو
-    .value = وشەی تێپەڕی پاشەکەوت کراو
-browser-data-ie-32 =
-    .label = دڵخوازەکان
-    .value = دڵخوازەکان
-browser-data-edge-32 =
-    .label = دڵخوازەکان
-    .value = دڵخوازەکان
-browser-data-safari-32 =
-    .label = دڵخوازەکان
-    .value = دڵخوازەکان
-browser-data-chrome-32 =
-    .label = دڵخوازەکان
-    .value = دڵخوازەکان
-browser-data-canary-32 =
-    .label = دڵخوازەکان
-    .value = دڵخوازەکان
-browser-data-360se-32 =
-    .label = دڵخوازەکان
-    .value = دڵخوازەکان
-browser-data-ie-64 =
-    .label = زانیاری تر
-    .value = زانیاری تر
-browser-data-edge-64 =
-    .label = زانیاری تر
-    .value = زانیاری تر
-browser-data-safari-64 =
-    .label = زانیاری تر
-    .value = زانیاری تر
-browser-data-chrome-64 =
-    .label = زانیاری تر
-    .value = زانیاری تر
-browser-data-canary-64 =
-    .label = زانیاری تر
-    .value = زانیاری تر
-browser-data-firefox-other-64 =
-    .label = زانیاری تر
-    .value = زانیاری تر
-browser-data-360se-64 =
-    .label = زانیاری تر
-    .value = زانیاری تر
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = پەنجەرەکان و بازدەرەکان
+browser-data-session-label =
     .value = پەنجەرەکان و بازدەرەکان
