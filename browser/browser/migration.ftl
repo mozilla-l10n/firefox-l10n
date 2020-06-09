@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Okuma Listesi (Safari’den)
 imported-edge-reading-list = Okuma Listesi (Edge’den)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = İnternet seçenekleri
-    .value = İnternet seçenekleri
-browser-data-edge-1 =
-    .label = Ayarlar
-    .value = Ayarlar
-browser-data-safari-1 =
-    .label = Tercihler
-    .value = Tercihler
-browser-data-chrome-1 =
-    .label = Tercihler
-    .value = Tercihler
-browser-data-canary-1 =
-    .label = Tercihler
-    .value = Tercihler
-browser-data-360se-1 =
-    .label = Tercihler
-    .value = Tercihler
-browser-data-ie-2 =
-    .label = Çerezler
-    .value = Çerezler
-browser-data-edge-2 =
-    .label = Çerezler
-    .value = Çerezler
-browser-data-safari-2 =
-    .label = Çerezler
-    .value = Çerezler
-browser-data-chrome-2 =
-    .label = Çerezler
-    .value = Çerezler
-browser-data-canary-2 =
-    .label = Çerezler
-    .value = Çerezler
-browser-data-firefox-2 =
-    .label = Çerezler
-    .value = Çerezler
-browser-data-360se-2 =
-    .label = Çerezler
-    .value = Çerezler
-browser-data-ie-4 =
-    .label = Tarayıcı geçmişi
-    .value = Tarayıcı geçmişi
-browser-data-edge-4 =
-    .label = Tarayıcı geçmişi
-    .value = Tarayıcı geçmişi
-browser-data-safari-4 =
-    .label = Tarayıcı geçmişi
-    .value = Tarayıcı geçmişi
-browser-data-chrome-4 =
-    .label = Gezinti geçmişi
-    .value = Gezinti geçmişi
-browser-data-canary-4 =
-    .label = Gezinti geçmişi
-    .value = Gezinti geçmişi
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Gezinti geçmişi ve yer imleri
-    .value = Gezinti geçmişi ve yer imleri
-browser-data-360se-4 =
-    .label = Tarayıcı geçmişi
-    .value = Tarayıcı geçmişi
-browser-data-ie-8 =
-    .label = Kayıtlı form geçmişi
-    .value = Kayıtlı form geçmişi
-browser-data-edge-8 =
-    .label = Kayıtlı form geçmişi
-    .value = Kayıtlı form geçmişi
-browser-data-safari-8 =
-    .label = Kayıtlı form geçmişi
-    .value = Kayıtlı form geçmişi
-browser-data-chrome-8 =
-    .label = Kayıtlı form geçmişi
-    .value = Kayıtlı form geçmişi
-browser-data-canary-8 =
-    .label = Kayıtlı form geçmişi
-    .value = Kayıtlı form geçmişi
-browser-data-firefox-8 =
-    .label = Kayıtlı form geçmişi
-    .value = Kayıtlı form geçmişi
-browser-data-360se-8 =
-    .label = Kayıtlı form geçmişi
-    .value = Kayıtlı form geçmişi
-browser-data-ie-16 =
-    .label = Kayıtlı parolalar
-    .value = Kayıtlı parolalar
-browser-data-edge-16 =
-    .label = Kayıtlı parolalar
-    .value = Kayıtlı parolalar
-browser-data-safari-16 =
-    .label = Kayıtlı parolalar
-    .value = Kayıtlı parolalar
-browser-data-chrome-16 =
-    .label = Kayıtlı parolalar
-    .value = Kayıtlı parolalar
-browser-data-canary-16 =
-    .label = Kayıtlı parolalar
-    .value = Kayıtlı parolalar
-browser-data-firefox-16 =
-    .label = Kayıtlı parolalar
-    .value = Kayıtlı parolalar
-browser-data-360se-16 =
-    .label = Kayıtlı parolalar
-    .value = Kayıtlı parolalar
-browser-data-ie-32 =
-    .label = Sık kullanılanlar
-    .value = Sık kullanılanlar
-browser-data-edge-32 =
-    .label = Sık kullanılanlar
-    .value = Sık kullanılanlar
-browser-data-safari-32 =
-    .label = Yer imleri
-    .value = Yer imleri
-browser-data-chrome-32 =
-    .label = Yer işaretleri
-    .value = Yer işaretleri
-browser-data-canary-32 =
-    .label = Yer işaretleri
-    .value = Yer işaretleri
-browser-data-360se-32 =
-    .label = Yer imleri
-    .value = Yer imleri
-browser-data-ie-64 =
-    .label = Diğer veriler
-    .value = Diğer veriler
-browser-data-edge-64 =
-    .label = Diğer veriler
-    .value = Diğer veriler
-browser-data-safari-64 =
-    .label = Diğer veriler
-    .value = Diğer veriler
-browser-data-chrome-64 =
-    .label = Diğer veriler
-    .value = Diğer veriler
-browser-data-canary-64 =
-    .label = Diğer veriler
-    .value = Diğer veriler
-browser-data-firefox-other-64 =
-    .label = Diğer veriler
-    .value = Diğer veriler
-browser-data-360se-64 =
-    .label = Diğer veriler
-    .value = Diğer veriler
-browser-data-firefox-128 =
-    .label = Pencereler ve sekmeler
-    .value = Pencereler ve sekmeler
