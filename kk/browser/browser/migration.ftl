@@ -97,6 +97,52 @@ imported-edge-reading-list = Оқу тізімі (Edge ішінен)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookie файлдары
+browser-data-cookies-label =
+    .value = Cookie файлдары
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Шолу тарихы мен бетбелгілер
+           *[other] Шолу тарихы
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Шолу тарихы мен бетбелгілер
+           *[other] Шолу тарихы
+        }
+browser-data-formdata-checkbox =
+    .label = Сақталған формалар тарихы
+browser-data-formdata-label =
+    .value = Сақталған формалар тарихы
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Сақталған логиндер мен парольдер
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Сақталған логиндер мен парольдер
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Таңдамалылар
+            [edge] Таңдамалылар
+           *[other] Бетбелгілер
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Таңдамалылар
+            [edge] Таңдамалылар
+           *[other] Бетбелгілер
+        }
+browser-data-otherdata-checkbox =
+    .label = Басқа деректер
+browser-data-otherdata-label =
+    .label = Басқа деректер
 browser-data-session-checkbox =
     .label = Терезелер мен беттер
 browser-data-session-label =
