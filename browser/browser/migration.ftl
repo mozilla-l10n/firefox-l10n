@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = 구독 목록 (Safari로부터)
 imported-edge-reading-list = 구독 목록 (Edge로부터)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = 인터넷 옵션
-    .value = 인터넷 옵션
-browser-data-edge-1 =
-    .label = 설정
-    .value = 설정
-browser-data-safari-1 =
-    .label = 기본 설정
-    .value = 기본 설정
-browser-data-chrome-1 =
-    .label = 설정
-    .value = 설정
-browser-data-canary-1 =
-    .label = 설정
-    .value = 설정
-browser-data-360se-1 =
-    .label = 설정
-    .value = 설정
-browser-data-ie-2 =
-    .label = 쿠키
-    .value = 쿠키
-browser-data-edge-2 =
-    .label = 쿠키
-    .value = 쿠키
-browser-data-safari-2 =
-    .label = 쿠키
-    .value = 쿠키
-browser-data-chrome-2 =
-    .label = 쿠키
-    .value = 쿠키
-browser-data-canary-2 =
-    .label = 쿠키
-    .value = 쿠키
-browser-data-firefox-2 =
-    .label = 쿠키
-    .value = 쿠키
-browser-data-360se-2 =
-    .label = 쿠키
-    .value = 쿠키
-browser-data-ie-4 =
-    .label = 방문 기록
-    .value = 방문 기록
-browser-data-edge-4 =
-    .label = 방문 기록
-    .value = 방문 기록
-browser-data-safari-4 =
-    .label = 방문 기록
-    .value = 방문 기록
-browser-data-chrome-4 =
-    .label = 방문 기록
-    .value = 방문 기록
-browser-data-canary-4 =
-    .label = 방문 기록
-    .value = 방문 기록
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = 방문 기록 및 북마크
-    .value = 방문 기록 및 북마크
-browser-data-360se-4 =
-    .label = 방문 기록
-    .value = 방문 기록
-browser-data-ie-8 =
-    .label = 저장된 양식 기록
-    .value = 저장된 양식 기록
-browser-data-edge-8 =
-    .label = 저장된 양식 기록
-    .value = 저장된 양식 기록
-browser-data-safari-8 =
-    .label = 저장된 양식 기록
-    .value = 저장된 양식 기록
-browser-data-chrome-8 =
-    .label = 저장된 양식 기록
-    .value = 저장된 양식 기록
-browser-data-canary-8 =
-    .label = 저장된 양식 기록
-    .value = 저장된 양식 기록
-browser-data-firefox-8 =
-    .label = 저장된 양식 기록
-    .value = 저장된 양식 기록
-browser-data-360se-8 =
-    .label = 저장된 양식 기록
-    .value = 저장된 양식 기록
-browser-data-ie-16 =
-    .label = 저장된 비밀번호
-    .value = 저장된 비밀번호
-browser-data-edge-16 =
-    .label = 저장된 비밀번호
-    .value = 저장된 비밀번호
-browser-data-safari-16 =
-    .label = 저장된 비밀번호
-    .value = 저장된 비밀번호
-browser-data-chrome-16 =
-    .label = 저장된 비밀번호
-    .value = 저장된 비밀번호
-browser-data-canary-16 =
-    .label = 저장된 비밀번호
-    .value = 저장된 비밀번호
-browser-data-firefox-16 =
-    .label = 저장된 비밀번호
-    .value = 저장된 비밀번호
-browser-data-360se-16 =
-    .label = 저장된 비밀번호
-    .value = 저장된 비밀번호
-browser-data-ie-32 =
-    .label = 즐겨찾기
-    .value = 즐겨찾기
-browser-data-edge-32 =
-    .label = 즐겨찾기
-    .value = 즐겨찾기
-browser-data-safari-32 =
-    .label = 북마크
-    .value = 북마크
-browser-data-chrome-32 =
-    .label = 북마크
-    .value = 북마크
-browser-data-canary-32 =
-    .label = 북마크
-    .value = 북마크
-browser-data-360se-32 =
-    .label = 북마크
-    .value = 북마크
-browser-data-ie-64 =
-    .label = 기타 데이터
-    .value = 기타 데이터
-browser-data-edge-64 =
-    .label = 기타 데이터
-    .value = 기타 데이터
-browser-data-safari-64 =
-    .label = 기타 데이터
-    .value = 기타 데이터
-browser-data-chrome-64 =
-    .label = 기타 데이터
-    .value = 기타 데이터
-browser-data-canary-64 =
-    .label = 기타 데이터
-    .value = 기타 데이터
-browser-data-firefox-other-64 =
-    .label = 기타 데이터
-    .value = 기타 데이터
-browser-data-360se-64 =
-    .label = 기타 데이터
-    .value = 기타 데이터
-browser-data-firefox-128 =
-    .label = 창과 탭
-    .value = 창과 탭
