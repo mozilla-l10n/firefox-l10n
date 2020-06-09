@@ -45,88 +45,16 @@ source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Piléhan Internèt
-    .value = Piléhan Internèt
-browser-data-edge-1 =
-    .label = Peuatoe
-    .value = Peuatoe
-browser-data-ie-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-edge-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-safari-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-chrome-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-canary-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-firefox-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-360se-2 =
-    .label = Kuki
-    .value = Kuki
-browser-data-ie-4 =
-    .label = Riwayat Peuhah Wèb
-    .value = Riwayat Peuhah Wèb
-browser-data-edge-4 =
-    .label = Riwayat Peuhah Wèb
-    .value = Riwayat Peuhah Wèb
-browser-data-safari-4 =
-    .label = Riwayat Peuhah Wèb
-    .value = Riwayat Peuhah Wèb
-browser-data-chrome-4 =
-    .label = Riwayat Peuhah Wèb
-    .value = Riwayat Peuhah Wèb
-browser-data-canary-4 =
-    .label = Riwayat Peuhah Wèb
-    .value = Riwayat Peuhah Wèb
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Riwayat Peuhah Wèb ngön Peutanda
-    .value = Riwayat Peuhah Wèb ngön Peutanda
-browser-data-360se-4 =
-    .label = Riwayat Peuhah Wèb
-    .value = Riwayat Peuhah Wèb
-browser-data-safari-32 =
-    .label = Peutanda
-    .value = Peutanda
-browser-data-chrome-32 =
-    .label = Peutanda
-    .value = Peutanda
-browser-data-canary-32 =
-    .label = Peutanda
-    .value = Peutanda
-browser-data-360se-32 =
-    .label = Peutanda
-    .value = Peutanda
-browser-data-ie-64 =
-    .label = Data Laen
-    .value = Data Laen
-browser-data-edge-64 =
-    .label = Data Laen
-    .value = Data Laen
-browser-data-safari-64 =
-    .label = Data Laen
-    .value = Data Laen
-browser-data-chrome-64 =
-    .label = Data Laen
-    .value = Data Laen
-browser-data-canary-64 =
-    .label = Data Laen
-    .value = Data Laen
-browser-data-firefox-other-64 =
-    .label = Data Laen
-    .value = Data Laen
-browser-data-360se-64 =
-    .label = Data Laen
-    .value = Data Laen
