@@ -183,8 +183,8 @@ containers-remove-alert-title = ¿Eipe’a ko guerekoha?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Eipe'áramo ko'ág̃a guerekoha, tendayke guerekoha { $count } oñembotýta. ¿Embotyse añetehápe ko guerekoha?
-       *[other] Embotýramo ko guerekoha ko'ág̃a, umi tendayke guerekoha { $count } oñembotýta. ¿Embotyse añetehápe ko guerekoha?
+        [one] Eipe’áramo ko’ág̃a guerekoha, tendayke guerekoha { $count } oñembotýta. ¿Embotyse añetehápe ko guerekoha?
+       *[other] Embotýramo ko guerekoha ko’ág̃a, umi tendayke guerekoha { $count } oñembotýta. ¿Embotyse añetehápe ko guerekoha?
     }
 containers-remove-ok-button = Eipe’a ko guerekoha
 containers-remove-cancel-button = Aníke eipe’a ko guerekoha
@@ -576,7 +576,7 @@ search-restore-default =
     .label = Embojevy ijypykuéva ha jehekaha mongu’eha
     .accesskey = D
 search-remove-engine =
-    .label = Pe'a
+    .label = Pe’a
     .accesskey = R
 search-find-more-link = Ejuhu hetave hekaha mongu’eha
 # This warning is displayed when the chosen keyword is already in use

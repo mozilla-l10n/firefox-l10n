@@ -151,7 +151,7 @@ detail-rating =
 addon-restart-now =
     .label = Emoñepyrũjey ko'ág̃a
 disabled-unsigned-heading =
-    .value = Heta moimbaha ojepe'aitéma
+    .value = Heta moimbaha ojepe’aitéma
 disabled-unsigned-description = Ko'ã moĩmbaha ndojehechajeýi ojepuru hag̃uáicha { -brand-short-name }-pe. Ikatu<label data-l10n-name="find-addons">Myengoviarã juhu</label> térã ejerure mboguatahárape ojehechajey hag̃ua.
 disabled-unsigned-learn-more = Eikuaave oreñeha'ã rehegua ikatu hag̃uáicha roipytyvõ peime hag̃ua jeikekatúpe.
 disabled-unsigned-devinfo = Umi mboguatahára oipotáva moimbaha jehechapyréva ikatu omoñe'ẽve ohóvo ko <label data-l10n-name="learn-more">popeguáva</label>.
@@ -373,7 +373,7 @@ report-addon-button = Momarandu
 remove-addon-button = Mboguete
 # The link will always be shown after the other text.
 remove-addon-disabled-button = Ndaikatúi emboguete <a data-l10n-name="link">¿Mba’ére?</a>
-disable-addon-button = Pe'a
+disable-addon-button = Pe’a
 enable-addon-button = Mbojuruja
 expand-addon-button = Jeporavorãve
 # This is used for the toggle on the extension card, it's a checkbox and this
@@ -389,7 +389,7 @@ details-addon-button = Mba'emimi
 release-notes-addon-button = Jehaipy rehegua
 permissions-addon-button = Moneĩ
 addons-enabled-heading = Mbojurujapyre
-addons-disabled-heading = Pe'apyre
+addons-disabled-heading = Pe’apyre
 extension-enabled-heading = Myandypyre
 extension-disabled-heading = Ojepuruve'ỹva
 theme-enabled-heading = Myandypyre
@@ -416,7 +416,7 @@ five-star-rating =
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
-addon-name-disabled = { $name } (jepe'apyre)
+addon-name-disabled = { $name } (jepe’apyre)
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received

@@ -300,7 +300,7 @@ startup-cache-ignore-disk-cache = Ehejarei Disco Kache
 startup-cache-found-disk-cache-on-init = Ojejuhu disco kache Init-pe
 startup-cache-wrote-to-disk-cache = Ehai Disco Kachépe
 launcher-process-status-0 = Jurujapyre
-launcher-process-status-1 = Ojepe'apyre ojavy rupi
+launcher-process-status-1 = Ojepe’apyre ojavy rupi
 launcher-process-status-2 = Mbaretépe jepe’apyre
 launcher-process-status-unknown = Tekotee ojekuaa’ỹva
 # Variables

@@ -13,7 +13,7 @@ advanced-tab =
 format-group-label =
     .value = Ysaja
 orientation-label =
-    .value = Jehesape'a:
+    .value = Jehesape’a:
 portrait =
     .label = Oñembo'ýva
     .accesskey = P
@@ -103,7 +103,6 @@ print-window =
     .title = Oñembokuatiahína
 print-complete =
     .value = Ñembokuatia opáma.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
