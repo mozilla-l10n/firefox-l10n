@@ -83,151 +83,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = لیست خواندن (از اپل سفری)
 imported-edge-reading-list = لیست مطالعه (از Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = گزینه‌های اینترنت
-    .value = گزینه‌های اینترنت
-browser-data-edge-1 =
-    .label = تنظیمات
-    .value = تنظیمات
-browser-data-safari-1 =
-    .label = ترجیحات
-    .value = ترجیحات
-browser-data-chrome-1 =
-    .label = ترجیحات
-    .value = ترجیحات
-browser-data-canary-1 =
-    .label = ترجیحات
-    .value = ترجیحات
-browser-data-360se-1 =
-    .label = ترجیحات
-    .value = ترجیحات
-browser-data-ie-2 =
-    .label = کوکی‌ها
-    .value = کوکی‌ها
-browser-data-edge-2 =
-    .label = کوکی‌ها
-    .value = کوکی‌ها
-browser-data-safari-2 =
-    .label = کوکی‌ها
-    .value = کوکی‌ها
-browser-data-chrome-2 =
-    .label = کوکی‌ها
-    .value = کوکی‌ها
-browser-data-canary-2 =
-    .label = کوکی‌ها
-    .value = کوکی‌ها
-browser-data-firefox-2 =
-    .label = کوکی‌ها
-    .value = کوکی‌ها
-browser-data-360se-2 =
-    .label = کوکی‌ها
-    .value = کوکی‌ها
-browser-data-ie-4 =
-    .label = تاریخچهٔ مرور
-    .value = تاریخچهٔ مرور
-browser-data-edge-4 =
-    .label = تاریخچهٔ مرور
-    .value = تاریخچهٔ مرور
-browser-data-safari-4 =
-    .label = تاریخچهٔ مرور
-    .value = تاریخچهٔ مرور
-browser-data-chrome-4 =
-    .label = تاریخچهٔ مرور
-    .value = تاریخچهٔ مرور
-browser-data-canary-4 =
-    .label = تاریخچهٔ مرور
-    .value = تاریخچهٔ مرور
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = تاریخچهٔ مرورها و نشانک‌ها
-    .value = تاریخچهٔ مرورها و نشانک‌ها
-browser-data-360se-4 =
-    .label = تاریخچهٔ مرور
-    .value = تاریخچهٔ مرور
-browser-data-ie-8 =
-    .label = تاریخچهٔ فرم‌های ذخیره‌شده
-    .value = تاریخچهٔ فرم‌های ذخیره‌شده
-browser-data-edge-8 =
-    .label = تاریخچهٔ فرم‌های ذخیره شده
-    .value = تاریخچهٔ فرم‌های ذخیره شده
-browser-data-safari-8 =
-    .label = تاریخچهٔ فرم‌های ذخیره‌شده
-    .value = تاریخچهٔ فرم‌های ذخیره‌شده
-browser-data-chrome-8 =
-    .label = تاریخچهٔ فرم‌های ذخیره‌ شده
-    .value = تاریخچهٔ فرم‌های ذخیره‌ شده
-browser-data-canary-8 =
-    .label = تاریخچهٔ فرم‌های ذخیره‌ شده
-    .value = تاریخچهٔ فرم‌های ذخیره‌ شده
-browser-data-firefox-8 =
-    .label = تاریخچهٔ فرم‌های ذخیره‌ شده
-    .value = تاریخچهٔ فرم‌های ذخیره‌ شده
-browser-data-360se-8 =
-    .label = تاریخچهٔ فرم‌های ذخیره‌شده
-    .value = تاریخچهٔ فرم‌های ذخیره‌شده
-browser-data-ie-16 =
-    .label = گذرواژه‌های ذخیره شده
-    .value = گذرواژه‌های ذخیره شده
-browser-data-edge-16 =
-    .label = گذرواژه‌های ذخیره شده
-    .value = گذرواژه‌های ذخیره شده
-browser-data-safari-16 =
-    .label = گذرواژه‌های ذخیره شده
-    .value = گذرواژه‌های ذخیره شده
-browser-data-chrome-16 =
-    .label = گذرواژه‌های ذخیره شده
-    .value = گذرواژه‌های ذخیره شده
-browser-data-canary-16 =
-    .label = گذرواژه‌های ذخیره شده
-    .value = گذرواژه‌های ذخیره شده
-browser-data-firefox-16 =
-    .label = گذرواژه‌های ذخیره شده
-    .value = گذرواژه‌های ذخیره شده
-browser-data-360se-16 =
-    .label = گذرواژه‌های ذخیره شده
-    .value = گذرواژه‌های ذخیره شده
-browser-data-ie-32 =
-    .label = صفحات محبوب
-    .value = صفحات محبوب
-browser-data-edge-32 =
-    .label = صفحات محبوب
-    .value = صفحات محبوب
-browser-data-safari-32 =
-    .label = نشانک‌ها
-    .value = نشانک‌ها
-browser-data-chrome-32 =
-    .label = نشانک‌ها
-    .value = نشانک‌ها
-browser-data-canary-32 =
-    .label = نشانک‌ها
-    .value = نشانک‌ها
-browser-data-360se-32 =
-    .label = نشانک‌ها
-    .value = نشانک‌ها
-browser-data-ie-64 =
-    .label = دیگر اطلاعات
-    .value = دیگر اطلاعات
-browser-data-edge-64 =
-    .label = اطلاعات دیگر
-    .value = اطلاعات دیگر
-browser-data-safari-64 =
-    .label = دیگر اطلاعات
-    .value = دیگر اطلاعات
-browser-data-chrome-64 =
-    .label = اطلاعات دیگر
-    .value = اطلاعات دیگر
-browser-data-canary-64 =
-    .label = اطلاعات دیگر
-    .value = اطلاعات دیگر
-browser-data-firefox-other-64 =
-    .label = دیگر داده ها
-    .value = دیگر داده ها
-browser-data-360se-64 =
-    .label = دیگر اطلاعات
-    .value = دیگر اطلاعات
-browser-data-firefox-128 =
-    .label = پنجره‌ها و سربرگ ها
-    .value = پنجره‌ها و سربرگ ها
