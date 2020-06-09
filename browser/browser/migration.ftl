@@ -42,49 +42,16 @@ imported-bookmarks-source = Ho tswa ho { $source }
 source-name-ie = Internet Explorer
 source-name-safari = Safari
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Dikgetho tsa Inthanete
-    .value = Dikgetho tsa Inthanete
-browser-data-safari-1 =
-    .label = Boikgethelo
-    .value = Boikgethelo
-browser-data-ie-2 =
-    .label = Dikhukhi
-    .value = Dikhukhi
-browser-data-safari-2 =
-    .label = Dikhukhi
-    .value = Dikhukhi
-browser-data-ie-4 =
-    .label = Histori ya ho Lekola
-    .value = Histori ya ho Lekola
-browser-data-safari-4 =
-    .label = Histori ya ho Lekola
-    .value = Histori ya ho Lekola
-browser-data-ie-8 =
-    .label = Histori ya Foromo e Bolokilweng
-    .value = Histori ya Foromo e Bolokilweng
-browser-data-safari-8 =
-    .label = Histori ya Foromo e Bolokilweng
-    .value = Histori ya Foromo e Bolokilweng
-browser-data-ie-16 =
-    .label = Diphasewete tse Bolokilweng
-    .value = Diphasewete tse Bolokilweng
-browser-data-safari-16 =
-    .label = Diphasewete tse Bolokilweng
-    .value = Diphasewete tse Bolokilweng
-browser-data-ie-32 =
-    .label = Dithatohatsi
-    .value = Dithatohatsi
-browser-data-safari-32 =
-    .label = Ditshwayabuka
-    .value = Ditshwayabuka
-browser-data-ie-64 =
-    .label = Data e Nngwe
-    .value = Data e Nngwe
-browser-data-safari-64 =
-    .label = Data e Nngwe
-    .value = Data e Nngwe
