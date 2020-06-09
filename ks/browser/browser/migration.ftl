@@ -50,109 +50,20 @@ source-name-chrome = گوگل كروم
 source-name-firefox = موزیلا فایرفاکس
 imported-safari-reading-list = پرَئن وۄل فہرست (سفاری منزئ)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = انٹرنیٹ آپنشس
-    .value = انٹرنیٹ آپنشس
-browser-data-edge-1 =
-    .label = سیٹینگس
-    .value = سیٹینگس
-browser-data-safari-1 =
-    .label = ترجیح
-    .value = ترجیح
-browser-data-chrome-1 =
-    .label = ترجیح
-    .value = ترجیح
-browser-data-canary-1 =
-    .label = ترجیح
-    .value = ترجیح
-browser-data-ie-2 =
-    .label = كوكیز
-    .value = كوكیز
-browser-data-safari-2 =
-    .label = كوكیز
-    .value = كوكیز
-browser-data-chrome-2 =
-    .label = كوكیز
-    .value = كوكیز
-browser-data-canary-2 =
-    .label = كوكیز
-    .value = كوكیز
-browser-data-firefox-2 =
-    .label = كوكیز
-    .value = كوكیز
-browser-data-ie-4 =
-    .label = براوزِنگ تٲریخ
-    .value = براوزِنگ تٲریخ
-browser-data-safari-4 =
-    .label = براوزِنگ تٲریخ
-    .value = براوزِنگ تٲریخ
-browser-data-chrome-4 =
-    .label = براوزِنگ تٲریخ
-    .value = براوزِنگ تٲریخ
-browser-data-canary-4 =
-    .label = براوزِنگ تٲریخ
-    .value = براوزِنگ تٲریخ
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = برازِنگ تٲریخ تئ نشان زَد
-    .value = برازِنگ تٲریخ تئ نشان زَد
-browser-data-ie-8 =
-    .label = تٲریخ فارم  محفوظ  كرمُت
-    .value = تٲریخ فارم  محفوظ  كرمُت
-browser-data-safari-8 =
-    .label = تٲریخ فارم  محفوظ  كرمُت
-    .value = تٲریخ فارم  محفوظ  كرمُت
-browser-data-chrome-8 =
-    .label = تٲریخ فارم  محفوظ  كرمُت
-    .value = تٲریخ فارم  محفوظ  كرمُت
-browser-data-canary-8 =
-    .label = تٲریخ فارم  محفوظ  كرمُت
-    .value = تٲریخ فارم  محفوظ  كرمُت
-browser-data-firefox-8 =
-    .label = تٲریخ فارم  محفوظ  كرمُت
-    .value = تٲریخ فارم  محفوظ  كرمُت
-browser-data-ie-16 =
-    .label = محفوظ كرمئت خوفیئ لفظ
-    .value = محفوظ كرمئت خوفیئ لفظ
-browser-data-safari-16 =
-    .label = محفوظ كرمئت خوفیئ لفظ
-    .value = محفوظ كرمئت خوفیئ لفظ
-browser-data-chrome-16 =
-    .label = محفوظ كرمئت خوفیئ لفظ
-    .value = محفوظ كرمئت خوفیئ لفظ
-browser-data-canary-16 =
-    .label = محفوظ كرمئت خوفیئ لفظ
-    .value = محفوظ كرمئت خوفیئ لفظ
-browser-data-firefox-16 =
-    .label = محفوظ كرمئت خوفیئ لفظ
-    .value = محفوظ كرمئت خوفیئ لفظ
-browser-data-safari-32 =
-    .label = نشان زَد
-    .value = نشان زَد
-browser-data-chrome-32 =
-    .label = نشان زَد
-    .value = نشان زَد
-browser-data-canary-32 =
-    .label = نشان زَد
-    .value = نشان زَد
-browser-data-ie-64 =
-    .label = دیگر ڈاٹا
-    .value = دیگر ڈاٹا
-browser-data-safari-64 =
-    .label = دیگر ڈاٹا
-    .value = دیگر ڈاٹا
-browser-data-chrome-64 =
-    .label = دیگر ڈاٹا
-    .value = دیگر ڈاٹا
-browser-data-canary-64 =
-    .label = دیگر ڈاٹا
-    .value = دیگر ڈاٹا
-browser-data-firefox-other-64 =
-    .label = دیگر ڈاٹا
-    .value = دیگر ڈاٹا
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = وِنڈوز تئ ٹیبس
+browser-data-session-label =
     .value = وِنڈوز تئ ٹیبس
