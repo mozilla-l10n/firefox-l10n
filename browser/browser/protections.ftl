@@ -164,9 +164,19 @@ password-warning =
         [one] senhal salvat pòt aver estat divulgat via una pèrda de donadas. Cambiatz aqueste senhal per mai de seguretat en linha. <a data-l10n-name="lockwise-link">Veire los senhals salvats</a>
        *[other] senhals salvats pòdon aver estats divulgats via una pèrda de donadas. Cambiatz aquestes senhals per mai de seguretat en linha. <a data-l10n-name="lockwise-link">Veire los senhals salvats</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] senhal divulgats demest totas las pèrdas de donadas pas regladas
+       *[other] senhals divulgats demest totas las pèrdas de donadas pas regladas
+    }
 monitor-no-breaches-title = Bona novèla !
 monitor-view-report-link = Veire lo rapòrt
     .title = Resòlver las divulgacions sus { -monitor-brand-short-name }
+monitor-manage-breaches-link = Gerir las divulgacions
+    .title = Gerir las divulgacions sus { -monitor-brand-short-name }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% acabat

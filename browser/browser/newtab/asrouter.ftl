@@ -235,8 +235,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = icòna vidèos incrustada
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Proteccion en una ulhada
 cfr-whatsnew-protections-cta-link = Veire la taula de bòrd de las proteccions
 cfr-whatsnew-protections-icon-alt = Icòna d’escut
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-body = Los documents se dobrisson ara dirèctament dins { -brand-short-name }, per contunhar vòstre trabalh fòra distraccion.

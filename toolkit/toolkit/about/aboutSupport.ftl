@@ -116,6 +116,7 @@ sandbox-sys-call-number = Crida del sistèma
 sandbox-sys-call-args = Arguments
 safe-mode-title = Ensajar en mòde securizat
 restart-in-safe-mode-label = Reaviar amb los moduls desactivats…
+clear-startup-cache-title = Ensajatz de netejar lo cache d’aviada
 clear-startup-cache-label = Escafar lo cache a l’aviada…
 startup-cache-dialog-title = Escafar lo cache a l’aviada
 restart-button-label = Reaviar
