@@ -49,6 +49,7 @@
 
 <!ENTITY folderProps.name.label                  "Nombre:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Color del ícono:">
 <!ENTITY folderProps.location.label              "Ubicación:">
 <!ENTITY folderProps.location.accesskey          "L">
 
@@ -56,6 +57,7 @@
 <!ENTITY privileges.button.label                 "Privilegios…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Tienes los siguientes permisos:">
+<!ENTITY folderOtherUsers.label                  "Otros con acceso a esta carpeta:">
 <!ENTITY folderType.label                        "Tipo de carpeta:">
 
 <!ENTITY folderQuotaTab.label                    "Cuota">

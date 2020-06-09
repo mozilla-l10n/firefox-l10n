@@ -13,6 +13,16 @@
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Usar este certificado para encriptar &amp; desencriptar los mensajes enviados hacia ti:">
 
+<!ENTITY e2eLearnMore.label "Saber más">
+
+
+<!ENTITY e2eTechPref.description "Tecnología de cifrado preferida:">
+
+<!ENTITY doNotEncrypt.label "No habilitar el cifrado por defecto">
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Requerir cifrado por defecto">
+<!ENTITY requireEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert2.message "Certificado personal para encriptado:">
 <!ENTITY digitalSign.certificate.button "Seleccionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Limpiar">
@@ -23,6 +33,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Firma digital">
 <!ENTITY signMessage.label "Mensajes firmados digitalmente (predeterminado)">
+<!ENTITY signMessage2.label "Agregar mi firma digital por defecto">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Usar este certificado para firmar digitalmente los mensajes que envíes:">
 
@@ -31,6 +42,22 @@
 <!ENTITY manageCerts2.accesskey "M">
 <!ENTITY manageDevices.label "Dispositivos de seguridad">
 <!ENTITY manageDevices.accesskey "y">
+
+<!ENTITY signingCert2.message "Certificado personal para firma digital:">
+
+<!ENTITY sendingDefaults.label "Configuración predeterminada para envío de mensajes">
+
+<!ENTITY technologyAutomatic.label "Seleccionar automáticamente según las claves o certificados disponibles">
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Administrar certificados S/MIME">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.accesskey "y">
+
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Administrar llaves OpenPGP">
+<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seleccionar certificado">
