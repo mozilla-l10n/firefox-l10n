@@ -64,3 +64,7 @@ imported-safari-reading-list = Limu jàng (dale ko ci Safari )
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Palanteer yi ak koñ yi
+browser-data-session-label =
+    .value = Palanteer yi ak koñ yi
