@@ -77,151 +77,16 @@ source-name-360se = 360 సురక్షిత విహారిణి
 imported-safari-reading-list = జాబితాను చదువుతోంది (సఫారీ నుండి)
 imported-edge-reading-list = చదవాల్సిన జాబితా (ఎడ్జ్ నుండి)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = అంతర్జాలము ఎంపికలు
-    .value = అంతర్జాలము ఎంపికలు
-browser-data-edge-1 =
-    .label = అమరికలు
-    .value = అమరికలు
-browser-data-safari-1 =
-    .label = అభిరుచులు
-    .value = అభిరుచులు
-browser-data-chrome-1 =
-    .label = అభిరుచులు
-    .value = అభిరుచులు
-browser-data-canary-1 =
-    .label = అభిరుచులు
-    .value = అభిరుచులు
-browser-data-360se-1 =
-    .label = అభిరుచులు
-    .value = అభిరుచులు
-browser-data-ie-2 =
-    .label = కుకీలు
-    .value = కుకీలు
-browser-data-edge-2 =
-    .label = కుకీలు
-    .value = కుకీలు
-browser-data-safari-2 =
-    .label = కుకీలు
-    .value = కుకీలు
-browser-data-chrome-2 =
-    .label = కుకీలు
-    .value = కుకీలు
-browser-data-canary-2 =
-    .label = కుకీలు
-    .value = కుకీలు
-browser-data-firefox-2 =
-    .label = కుకీలు
-    .value = కుకీలు
-browser-data-360se-2 =
-    .label = కుకీలు
-    .value = కుకీలు
-browser-data-ie-4 =
-    .label = అన్వేషించిన చరిత్ర
-    .value = అన్వేషించిన చరిత్ర
-browser-data-edge-4 =
-    .label = విహరణ చరిత్ర
-    .value = విహరణ చరిత్ర
-browser-data-safari-4 =
-    .label = అన్వేషించిన చరిత్ర
-    .value = అన్వేషించిన చరిత్ర
-browser-data-chrome-4 =
-    .label = అన్వేషించిన చరిత్ర
-    .value = అన్వేషించిన చరిత్ర
-browser-data-canary-4 =
-    .label = అన్వేషించిన చరిత్ర
-    .value = అన్వేషించిన చరిత్ర
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = విహారణ చరిత్ర, ఇష్టాంశాలు
-    .value = విహారణ చరిత్ర, ఇష్టాంశాలు
-browser-data-360se-4 =
-    .label = విహరణ చరిత్ర
-    .value = విహరణ చరిత్ర
-browser-data-ie-8 =
-    .label = చరిత్ర నుండి భద్రపరచు
-    .value = చరిత్ర నుండి భద్రపరచు
-browser-data-edge-8 =
-    .label = చరిత్ర నుండి భద్రపరచినది
-    .value = చరిత్ర నుండి భద్రపరచినది
-browser-data-safari-8 =
-    .label = భద్రపరిచిన ఫార్మ్ చరిత్ర
-    .value = భద్రపరిచిన ఫార్మ్ చరిత్ర
-browser-data-chrome-8 =
-    .label = భద్రపరిచిన ఫార్మ్ చరిత్ర
-    .value = భద్రపరిచిన ఫార్మ్ చరిత్ర
-browser-data-canary-8 =
-    .label = భద్రపరిచిన ఫార్మ్ చరిత్ర
-    .value = భద్రపరిచిన ఫార్మ్ చరిత్ర
-browser-data-firefox-8 =
-    .label = భద్రపరిచిన ఫార్మ్ చరిత్ర
-    .value = భద్రపరిచిన ఫార్మ్ చరిత్ర
-browser-data-360se-8 =
-    .label = చరిత్ర నుండి భద్రపరచినది
-    .value = చరిత్ర నుండి భద్రపరచినది
-browser-data-ie-16 =
-    .label = భద్రపరచిన సంకేతపదాలు
-    .value = భద్రపరచిన సంకేతపదాలు
-browser-data-edge-16 =
-    .label = భద్రపరచిన సంకేతపదాలు
-    .value = భద్రపరచిన సంకేతపదాలు
-browser-data-safari-16 =
-    .label = భద్రపరచిన సంకేతపదాలు
-    .value = భద్రపరచిన సంకేతపదాలు
-browser-data-chrome-16 =
-    .label = భద్రపరచిన సంకేతపదాలు
-    .value = భద్రపరచిన సంకేతపదాలు
-browser-data-canary-16 =
-    .label = భద్రపరచిన సంకేతపదాలు
-    .value = భద్రపరచిన సంకేతపదాలు
-browser-data-firefox-16 =
-    .label = భద్రపరచిన సంకేతపదాలు
-    .value = భద్రపరచిన సంకేతపదాలు
-browser-data-360se-16 =
-    .label = భద్రపరచిన సంకేతపదాలు
-    .value = భద్రపరచిన సంకేతపదాలు
-browser-data-ie-32 =
-    .label = ఇష్టాలు
-    .value = ఇష్టాలు
-browser-data-edge-32 =
-    .label = ఇష్టాలు
-    .value = ఇష్టాలు
-browser-data-safari-32 =
-    .label = ఇష్టాంశాలు
-    .value = ఇష్టాంశాలు
-browser-data-chrome-32 =
-    .label = ఇష్టాంశాలు
-    .value = ఇష్టాంశాలు
-browser-data-canary-32 =
-    .label = ఇష్టాంశాలు
-    .value = ఇష్టాంశాలు
-browser-data-360se-32 =
-    .label = ఇష్టాంశాలు
-    .value = ఇష్టాంశాలు
-browser-data-ie-64 =
-    .label = ఇతర డాటా
-    .value = ఇతర డాటా
-browser-data-edge-64 =
-    .label = ఇతర డాటా
-    .value = ఇతర డాటా
-browser-data-safari-64 =
-    .label = ఇతర డాటా
-    .value = ఇతర డాటా
-browser-data-chrome-64 =
-    .label = ఇతర డాటా
-    .value = ఇతర డాటా
-browser-data-canary-64 =
-    .label = ఇతర డాటా
-    .value = ఇతర డాటా
-browser-data-firefox-other-64 =
-    .label = ఇతర డాటా
-    .value = ఇతర డాటా
-browser-data-360se-64 =
-    .label = ఇతర డాటా
-    .value = ఇతర డాటా
-browser-data-firefox-128 =
-    .label = విండోలు, ట్యాబులు
-    .value = విండోలు, ట్యాబులు
