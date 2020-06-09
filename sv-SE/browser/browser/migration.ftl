@@ -104,14 +104,14 @@ browser-data-cookies-label =
 browser-data-history-checkbox =
     .label =
         { $browser ->
-            [firefox] Webbläsarhistorik och Bokmärken
-           *[other] Webbläsarhistorik
+            [firefox] Webbhistorik och bokmärken
+           *[other] Webbhistorik
         }
 browser-data-history-label =
     .value =
         { $browser ->
-            [firefox] Webbläsarhistorik och Bokmärken
-           *[other] Webbläsarhistorik
+            [firefox] Webbhistorik och bokmärken
+           *[other] Webbhistorik
         }
 browser-data-formdata-checkbox =
     .label = Sparad formulärdata
