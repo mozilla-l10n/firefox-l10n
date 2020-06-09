@@ -77,151 +77,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = lista de letue (Da Safari)
 imported-edge-reading-list = lista de letue (da Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Preferense de internet
-    .value = Preferense de internet
-browser-data-edge-1 =
-    .label = Preferense
-    .value = Preferense
-browser-data-safari-1 =
-    .label = Preferense
-    .value = Preferense
-browser-data-chrome-1 =
-    .label = Preferense
-    .value = Preferense
-browser-data-canary-1 =
-    .label = Preferense
-    .value = Preferense
-browser-data-360se-1 =
-    .label = Preferense
-    .value = Preferense
-browser-data-ie-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-edge-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-safari-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-chrome-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-canary-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-firefox-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-360se-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-ie-4 =
-    .label = Stöia da navegaçion
-    .value = Stöia da navegaçion
-browser-data-edge-4 =
-    .label = Stöia da navegaçion
-    .value = Stöia da navegaçion
-browser-data-safari-4 =
-    .label = Stöia da navegaçion
-    .value = Stöia da navegaçion
-browser-data-chrome-4 =
-    .label = Stöia da navegaçion
-    .value = Stöia da navegaçion
-browser-data-canary-4 =
-    .label = Stöia da navegaçion
-    .value = Stöia da navegaçion
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Stöia da navegaçion e Segnalibbri
-    .value = Stöia da navegaçion e Segnalibbri
-browser-data-360se-4 =
-    .label = Stöia da navegaçion
-    .value = Stöia da navegaçion
-browser-data-ie-8 =
-    .label = Sarvou da stöia
-    .value = Sarvou da stöia
-browser-data-edge-8 =
-    .label = Sarvou da stöia
-    .value = Sarvou da stöia
-browser-data-safari-8 =
-    .label = Sarvou da stöia
-    .value = Sarvou da stöia
-browser-data-chrome-8 =
-    .label = Sarvou da stöia
-    .value = Sarvou da stöia
-browser-data-canary-8 =
-    .label = Sarvou da stöia
-    .value = Sarvou da stöia
-browser-data-firefox-8 =
-    .label = Sarvou da stöia
-    .value = Sarvou da stöia
-browser-data-360se-8 =
-    .label = Sarvou da stöia
-    .value = Sarvou da stöia
-browser-data-ie-16 =
-    .label = Paròlle segrete sarvæ
-    .value = Paròlle segrete sarvæ
-browser-data-edge-16 =
-    .label = Paròlle segrete sarvæ
-    .value = Paròlle segrete sarvæ
-browser-data-safari-16 =
-    .label = Paròlle segrete sarvæ
-    .value = Paròlle segrete sarvæ
-browser-data-chrome-16 =
-    .label = Paròlle segrete sarvæ
-    .value = Paròlle segrete sarvæ
-browser-data-canary-16 =
-    .label = Paròlle segrete sarvæ
-    .value = Paròlle segrete sarvæ
-browser-data-firefox-16 =
-    .label = Paròlle segrete sarvæ
-    .value = Paròlle segrete sarvæ
-browser-data-360se-16 =
-    .label = Paròlle segrete sarvæ
-    .value = Paròlle segrete sarvæ
-browser-data-ie-32 =
-    .label = Segnalibbri
-    .value = Segnalibbri
-browser-data-edge-32 =
-    .label = Segnalibbri
-    .value = Segnalibbri
-browser-data-safari-32 =
-    .label = Segnalibbri
-    .value = Segnalibbri
-browser-data-chrome-32 =
-    .label = Segnalibbri
-    .value = Segnalibbri
-browser-data-canary-32 =
-    .label = Segnalibbri
-    .value = Segnalibbri
-browser-data-360se-32 =
-    .label = Segnalibbri
-    .value = Segnalibbri
-browser-data-ie-64 =
-    .label = Atri dæti
-    .value = Atri dæti
-browser-data-edge-64 =
-    .label = Atri dæti
-    .value = Atri dæti
-browser-data-safari-64 =
-    .label = Atri dæti
-    .value = Atri dæti
-browser-data-chrome-64 =
-    .label = Atri dæti
-    .value = Atri dæti
-browser-data-canary-64 =
-    .label = Atri dæti
-    .value = Atri dæti
-browser-data-firefox-other-64 =
-    .label = Atri dæti
-    .value = Atri dæti
-browser-data-360se-64 =
-    .label = Atri dæti
-    .value = Atri dæti
-browser-data-firefox-128 =
-    .label = Barcoin e feuggi
-    .value = Barcoin e feuggi
