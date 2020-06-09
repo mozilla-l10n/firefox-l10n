@@ -67,7 +67,7 @@ fonts-langgroup-thai =
 fonts-langgroup-tibetan =
     .label = Tibetano
 fonts-langgroup-canadian =
-    .label = Ñe'ẽpehẽ pe'a joajupyréva Canadá pegua
+    .label = Ñe’ẽpehẽ pe’a joajupyréva Canadá pegua
 fonts-langgroup-other =
     .label = Otros sistemas de escrituraAmbue jehai apopyvusu
 

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-panic-button-open-new-window = Eipe'a ovetã pyahu nandíva
+panic-button-open-new-window = Eipe’a ovetã pyahu nandíva
 panic-button-undo-warning = Ko tembiapo ndaikatúi emboguevi.
 panic-button-forget-button =
     .label = Eguereko hag̃ua!
