@@ -43,52 +43,16 @@ source-name-ie = Internet Explorer
 source-name-safari = Safari
 source-name-firefox = Mozilla Firefox
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Интернэт сонголтууд
-    .value = Интернэт сонголтууд
-browser-data-edge-1 =
-    .label = Тохиргоо
-    .value = Тохиргоо
-browser-data-safari-1 =
-    .label = Тохируулга
-    .value = Тохируулга
-browser-data-ie-2 =
-    .label = Күүки
-    .value = Күүки
-browser-data-safari-2 =
-    .label = Күүки
-    .value = Күүки
-browser-data-ie-4 =
-    .label = Хөтөлсөн түүх
-    .value = Хөтөлсөн түүх
-browser-data-safari-4 =
-    .label = Хөтөлсөн түүх
-    .value = Хөтөлсөн түүх
-browser-data-ie-8 =
-    .label = Түүхээс хадгалсан
-    .value = Түүхээс хадгалсан
-browser-data-safari-8 =
-    .label = Түүхээс хадгалсан
-    .value = Түүхээс хадгалсан
-browser-data-ie-16 =
-    .label = Хадгалагдсан нууц үг
-    .value = Хадгалагдсан нууц үг
-browser-data-safari-16 =
-    .label = Хадгалагдсан нууц үг
-    .value = Хадгалагдсан нууц үг
-browser-data-safari-32 =
-    .label = Хаягнууд
-    .value = Хаягнууд
-browser-data-ie-64 =
-    .label = Бусад өгөгдлүүд
-    .value = Бусад өгөгдлүүд
-browser-data-safari-64 =
-    .label = Бусад өгөгдлүүд
-    .value = Бусад өгөгдлүүд
-browser-data-firefox-128 =
-    .label = Цонх болон самбарууд
-    .value = Цонх болон самбарууд
