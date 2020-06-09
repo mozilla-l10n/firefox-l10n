@@ -97,3 +97,7 @@ imported-edge-reading-list = Elenco di lettura (da Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Finestre e schede
+browser-data-session-label =
+    .value = Finestre e schede
