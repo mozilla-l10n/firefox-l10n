@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Käyttöoikeudet…">
 <!ENTITY privileges.button.accesskey             "K">
 <!ENTITY permissionsDesc.label                   "Sinulla on seuraavat käyttöoikeudet:">
+<!ENTITY folderOtherUsers.label                  "Muut, joilla on pääsy tähän kansioon:">
 <!ENTITY folderType.label                        "Kansion tyyppi:">
 
 <!ENTITY folderQuotaTab.label                    "Kiintiö">
