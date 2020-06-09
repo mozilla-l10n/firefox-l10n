@@ -35,46 +35,16 @@ import-done-description = Ibintu Bikurikira Byazanwe nta Kibazo:
 imported-bookmarks-source = Kuva kuri { $source }:
 source-name-firefox = Mozilla Firefox
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Amahitamo ya Interineti
-    .value = Amahitamo ya Interineti
-browser-data-safari-1 =
-    .label = Ibyatoranyijwe
-    .value = Ibyatoranyijwe
-browser-data-ie-2 =
-    .label = Dosiyenyibutsa
-    .value = Dosiyenyibutsa
-browser-data-safari-2 =
-    .label = Dosiyenyibutsa
-    .value = Dosiyenyibutsa
-browser-data-ie-4 =
-    .label = Amateka y'Ishakisha
-    .value = Amateka y'Ishakisha
-browser-data-safari-4 =
-    .label = Amateka y'Ishakisha
-    .value = Amateka y'Ishakisha
-browser-data-ie-8 =
-    .label = Ifishi y'urutonde yabitswe
-    .value = Ifishi y'urutonde yabitswe
-browser-data-safari-8 =
-    .label = Ifishi y'urutonde yabitswe
-    .value = Ifishi y'urutonde yabitswe
-browser-data-ie-16 =
-    .label = Amagambobanga yabitswe
-    .value = Amagambobanga yabitswe
-browser-data-safari-16 =
-    .label = Amagambobanga yabitswe
-    .value = Amagambobanga yabitswe
-browser-data-safari-32 =
-    .label = Ibirango
-    .value = Ibirango
-browser-data-ie-64 =
-    .label = Ikindi kigize
-    .value = Ikindi kigize
-browser-data-safari-64 =
-    .label = Ikindi kigize
-    .value = Ikindi kigize
