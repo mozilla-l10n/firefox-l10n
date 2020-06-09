@@ -97,6 +97,10 @@ imported-edge-reading-list = Leseliste (von Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
 browser-data-session-checkbox =
     .label = Fenster und Tabs
 browser-data-session-label =
