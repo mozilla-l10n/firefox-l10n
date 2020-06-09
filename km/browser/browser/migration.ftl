@@ -69,151 +69,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = បញ្ជី​អំណាន (ពី Safari)
 imported-edge-reading-list = បញ្ជី​អំណាន (ពី​​ Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = ជម្រើស​អ៊ីនធឺណិត
-    .value = ជម្រើស​អ៊ីនធឺណិត
-browser-data-edge-1 =
-    .label = ការ​កំណត់
-    .value = ការ​កំណត់
-browser-data-safari-1 =
-    .label = ចំណូលចិត្ត
-    .value = ចំណូលចិត្ត
-browser-data-chrome-1 =
-    .label = ចំណូលចិត្ត
-    .value = ចំណូលចិត្ត
-browser-data-canary-1 =
-    .label = ចំណូលចិត្ត
-    .value = ចំណូលចិត្ត
-browser-data-360se-1 =
-    .label = ចំណូលចិត្ត
-    .value = ចំណូលចិត្ត
-browser-data-ie-2 =
-    .label = ​ខូគី
-    .value = ​ខូគី
-browser-data-edge-2 =
-    .label = ​ខូគី
-    .value = ​ខូគី
-browser-data-safari-2 =
-    .label = ​ខូគី
-    .value = ​ខូគី
-browser-data-chrome-2 =
-    .label = ខូគី
-    .value = ខូគី
-browser-data-canary-2 =
-    .label = ខូគី
-    .value = ខូគី
-browser-data-firefox-2 =
-    .label = ខូគី
-    .value = ខូគី
-browser-data-360se-2 =
-    .label = ​ខូគី
-    .value = ​ខូគី
-browser-data-ie-4 =
-    .label = ​ប្រវត្តិ​រក​មើល
-    .value = ​ប្រវត្តិ​រក​មើល
-browser-data-edge-4 =
-    .label = ​ប្រវត្តិ​រក​មើល​
-    .value = ​ប្រវត្តិ​រក​មើល​
-browser-data-safari-4 =
-    .label = ​ប្រវត្តិ​រក​មើល
-    .value = ​ប្រវត្តិ​រក​មើល
-browser-data-chrome-4 =
-    .label = ​ប្រវត្តិ​រក​មើល
-    .value = ​ប្រវត្តិ​រក​មើល
-browser-data-canary-4 =
-    .label = ​ប្រវត្តិ​រក​មើល
-    .value = ​ប្រវត្តិ​រក​មើល
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = ប្រវត្តិ​នៃ​ការ​រុករក និង​ចំណាំ
-    .value = ប្រវត្តិ​នៃ​ការ​រុករក និង​ចំណាំ
-browser-data-360se-4 =
-    .label = ​ប្រវត្តិ​រក​មើល
-    .value = ​ប្រវត្តិ​រក​មើល
-browser-data-ie-8 =
-    .label = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-    .value = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-browser-data-edge-8 =
-    .label = ប្រវត្តិ​ទម្រង់​បាន​រក្សាទុក
-    .value = ប្រវត្តិ​ទម្រង់​បាន​រក្សាទុក
-browser-data-safari-8 =
-    .label = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-    .value = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-browser-data-chrome-8 =
-    .label = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-    .value = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-browser-data-canary-8 =
-    .label = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-    .value = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-browser-data-firefox-8 =
-    .label = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-    .value = ប្រវត្តិ​សំណុំ​បែបបទ​ដែល​បាន​រក្សាទុក
-browser-data-360se-8 =
-    .label = ប្រវត្តិ​ទម្រង់​បាន​រក្សាទុក
-    .value = ប្រវត្តិ​ទម្រង់​បាន​រក្សាទុក
-browser-data-ie-16 =
-    .label = បាន​រក្សា​ទុក​ពាក្យ​សម្ងាត់​
-    .value = បាន​រក្សា​ទុក​ពាក្យ​សម្ងាត់​
-browser-data-edge-16 =
-    .label = ពាក្យ​សម្ងាត់​បាន​រក្សាទុក
-    .value = ពាក្យ​សម្ងាត់​បាន​រក្សាទុក
-browser-data-safari-16 =
-    .label = បាន​រក្សា​ទុក​ពាក្យ​សម្ងាត់​
-    .value = បាន​រក្សា​ទុក​ពាក្យ​សម្ងាត់​
-browser-data-chrome-16 =
-    .label = ​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក
-    .value = ​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក
-browser-data-canary-16 =
-    .label = ​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក
-    .value = ​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក
-browser-data-firefox-16 =
-    .label = ​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក
-    .value = ​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក
-browser-data-360se-16 =
-    .label = ពាក្យ​សម្ងាត់​បាន​រក្សាទុក
-    .value = ពាក្យ​សម្ងាត់​បាន​រក្សាទុក
-browser-data-ie-32 =
-    .label = សំណព្វ
-    .value = សំណព្វ
-browser-data-edge-32 =
-    .label = សំណព្វ
-    .value = សំណព្វ
-browser-data-safari-32 =
-    .label = ចំណាំ
-    .value = ចំណាំ
-browser-data-chrome-32 =
-    .label = ចំណាំ
-    .value = ចំណាំ
-browser-data-canary-32 =
-    .label = ចំណាំ
-    .value = ចំណាំ
-browser-data-360se-32 =
-    .label = ចំណាំ
-    .value = ចំណាំ
-browser-data-ie-64 =
-    .label = ទិន្នន័យ​ផ្សេងទៀត
-    .value = ទិន្នន័យ​ផ្សេងទៀត
-browser-data-edge-64 =
-    .label = ទិន្នន័យ​ផ្សេង
-    .value = ទិន្នន័យ​ផ្សេង
-browser-data-safari-64 =
-    .label = ទិន្នន័យ​ផ្សេងទៀត
-    .value = ទិន្នន័យ​ផ្សេងទៀត
-browser-data-chrome-64 =
-    .label = ទិន្នន័យ​ផ្សេងទៀត
-    .value = ទិន្នន័យ​ផ្សេងទៀត
-browser-data-canary-64 =
-    .label = ទិន្នន័យ​ផ្សេងទៀត
-    .value = ទិន្នន័យ​ផ្សេងទៀត
-browser-data-firefox-other-64 =
-    .label = ទិន្នន័យ​ផ្សេង
-    .value = ទិន្នន័យ​ផ្សេង
-browser-data-360se-64 =
-    .label = ទិន្នន័យ​ផ្សេង
-    .value = ទិន្នន័យ​ផ្សេង
-browser-data-firefox-128 =
-    .label = បង្អួច និង​ផ្ទាំង
-    .value = បង្អួច និង​ផ្ទាំង
