@@ -64,3 +64,7 @@ imported-safari-reading-list = पाड़हाव सुची   (साफ�
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = विंडो आर टैब को
+browser-data-session-label =
+    .value = विंडो आर टैब को
