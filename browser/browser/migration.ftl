@@ -84,151 +84,20 @@ source-name-360se = 360 安全浏览器
 imported-safari-reading-list = 阅读列表（来自 Safari）
 imported-edge-reading-list = 阅读列表（来自 Edge）
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = 互联网选项
-    .value = 互联网选项
-browser-data-edge-1 =
-    .label = 设置
-    .value = 设置
-browser-data-safari-1 =
-    .label = 首选项
-    .value = 首选项
-browser-data-chrome-1 =
-    .label = 首选项
-    .value = 首选项
-browser-data-canary-1 =
-    .label = 首选项
-    .value = 首选项
-browser-data-360se-1 =
-    .label = 首选项
-    .value = 首选项
-browser-data-ie-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-edge-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-safari-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-chrome-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-canary-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-firefox-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-360se-2 =
-    .label = Cookie
-    .value = Cookie
-browser-data-ie-4 =
-    .label = 浏览历史
-    .value = 浏览历史
-browser-data-edge-4 =
-    .label = 浏览历史
-    .value = 浏览历史
-browser-data-safari-4 =
-    .label = 浏览历史
-    .value = 浏览历史
-browser-data-chrome-4 =
-    .label = 浏览历史
-    .value = 浏览历史
-browser-data-canary-4 =
-    .label = 浏览历史
-    .value = 浏览历史
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = 浏览历史和书签
-    .value = 浏览历史和书签
-browser-data-360se-4 =
-    .label = 浏览历史
-    .value = 浏览历史
-browser-data-ie-8 =
-    .label = 已保存的表单记录
-    .value = 已保存的表单记录
-browser-data-edge-8 =
-    .label = 已保存的表单记录
-    .value = 已保存的表单记录
-browser-data-safari-8 =
-    .label = 已保存的表单记录
-    .value = 已保存的表单记录
-browser-data-chrome-8 =
-    .label = 已保存的表单记录
-    .value = 已保存的表单记录
-browser-data-canary-8 =
-    .label = 已保存的表单记录
-    .value = 已保存的表单记录
-browser-data-firefox-8 =
-    .label = 已保存的表单记录
-    .value = 已保存的表单记录
-browser-data-360se-8 =
-    .label = 已保存的表单记录
-    .value = 已保存的表单记录
-browser-data-ie-16 =
-    .label = 已保存的密码
-    .value = 已保存的密码
-browser-data-edge-16 =
-    .label = 已保存的密码
-    .value = 已保存的密码
-browser-data-safari-16 =
-    .label = 已保存的密码
-    .value = 已保存的密码
-browser-data-chrome-16 =
-    .label = 已保存的密码
-    .value = 已保存的密码
-browser-data-canary-16 =
-    .label = 已保存的密码
-    .value = 已保存的密码
-browser-data-firefox-16 =
-    .label = 已保存的密码
-    .value = 已保存的密码
-browser-data-360se-16 =
-    .label = 已保存的密码
-    .value = 已保存的密码
-browser-data-ie-32 =
-    .label = 收藏夹
-    .value = 收藏夹
-browser-data-edge-32 =
-    .label = 收藏夹
-    .value = 收藏夹
-browser-data-safari-32 =
-    .label = 书签
-    .value = 书签
-browser-data-chrome-32 =
-    .label = 书签
-    .value = 书签
-browser-data-canary-32 =
-    .label = 书签
-    .value = 书签
-browser-data-360se-32 =
-    .label = 书签
-    .value = 书签
-browser-data-ie-64 =
-    .label = 其他数据
-    .value = 其他数据
-browser-data-edge-64 =
-    .label = 其他数据
-    .value = 其他数据
-browser-data-safari-64 =
-    .label = 其他数据
-    .value = 其他数据
-browser-data-chrome-64 =
-    .label = 其他数据
-    .value = 其他数据
-browser-data-canary-64 =
-    .label = 其他数据
-    .value = 其他数据
-browser-data-firefox-other-64 =
-    .label = 其他数据
-    .value = 其他数据
-browser-data-360se-64 =
-    .label = 其他数据
-    .value = 其他数据
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = 窗口和标签页
+browser-data-session-label =
     .value = 窗口和标签页
