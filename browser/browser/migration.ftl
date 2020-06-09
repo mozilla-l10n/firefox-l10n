@@ -90,3 +90,7 @@ imported-edge-reading-list = చదవాల్సిన జాబితా (ఎ
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = విండోలు, ట్యాబులు
+browser-data-session-label =
+    .value = విండోలు, ట్యాబులు
