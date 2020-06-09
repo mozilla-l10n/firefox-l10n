@@ -113,6 +113,36 @@ browser-data-history-label =
             [firefox] Historial de navegación y marcadores
            *[other] Historial de navegación
         }
+browser-data-formdata-checkbox =
+    .label = Historial de formularios guardados
+browser-data-formdata-label =
+    .value = Historial de formularios guardados
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Inicios de sesión y contraseñas guardados
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Inicios de sesión y contraseñas guardados
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Marcadores
+            [edge] Marcadores
+           *[other] Marcadores
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Marcadores
+            [edge] Marcadores
+           *[other] Marcadores
+        }
+browser-data-otherdata-checkbox =
+    .label = Otros datos
+browser-data-otherdata-label =
+    .label = Otros datos
 browser-data-session-checkbox =
     .label = Ventanas y pestañas
 browser-data-session-label =
