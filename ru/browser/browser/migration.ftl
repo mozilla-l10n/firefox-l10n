@@ -84,151 +84,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Список для чтения (из Safari)
 imported-edge-reading-list = Список для чтения (из Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Настройки Интернета
-    .value = Настройки Интернета
-browser-data-edge-1 =
-    .label = Параметры
-    .value = Параметры
-browser-data-safari-1 =
-    .label = Настройки
-    .value = Настройки
-browser-data-chrome-1 =
-    .label = Настройки
-    .value = Настройки
-browser-data-canary-1 =
-    .label = Настройки
-    .value = Настройки
-browser-data-360se-1 =
-    .label = Настройки
-    .value = Настройки
-browser-data-ie-2 =
-    .label = Куки
-    .value = Куки
-browser-data-edge-2 =
-    .label = Куки
-    .value = Куки
-browser-data-safari-2 =
-    .label = Куки
-    .value = Куки
-browser-data-chrome-2 =
-    .label = Куки
-    .value = Куки
-browser-data-canary-2 =
-    .label = Куки
-    .value = Куки
-browser-data-firefox-2 =
-    .label = Куки
-    .value = Куки
-browser-data-360se-2 =
-    .label = Куки
-    .value = Куки
-browser-data-ie-4 =
-    .label = Журнал посещений
-    .value = Журнал посещений
-browser-data-edge-4 =
-    .label = Журнал посещений
-    .value = Журнал посещений
-browser-data-safari-4 =
-    .label = Журнал посещений
-    .value = Журнал посещений
-browser-data-chrome-4 =
-    .label = Журнал посещений
-    .value = Журнал посещений
-browser-data-canary-4 =
-    .label = Журнал посещений
-    .value = Журнал посещений
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Журнал посещений и закладки
-    .value = Журнал посещений и закладки
-browser-data-360se-4 =
-    .label = Журнал посещений
-    .value = Журнал посещений
-browser-data-ie-8 =
-    .label = Журнал сохранённых форм
-    .value = Журнал сохранённых форм
-browser-data-edge-8 =
-    .label = Журнал сохранённых форм
-    .value = Журнал сохранённых форм
-browser-data-safari-8 =
-    .label = Журнал сохранённых форм
-    .value = Журнал сохранённых форм
-browser-data-chrome-8 =
-    .label = Журнал сохранённых форм
-    .value = Журнал сохранённых форм
-browser-data-canary-8 =
-    .label = Журнал сохранённых форм
-    .value = Журнал сохранённых форм
-browser-data-firefox-8 =
-    .label = Журнал сохранённых форм
-    .value = Журнал сохранённых форм
-browser-data-360se-8 =
-    .label = Журнал сохранённых форм
-    .value = Журнал сохранённых форм
-browser-data-ie-16 =
-    .label = Сохранённые пароли
-    .value = Сохранённые пароли
-browser-data-edge-16 =
-    .label = Сохранённые пароли
-    .value = Сохранённые пароли
-browser-data-safari-16 =
-    .label = Сохранённые пароли
-    .value = Сохранённые пароли
-browser-data-chrome-16 =
-    .label = Сохранённые пароли
-    .value = Сохранённые пароли
-browser-data-canary-16 =
-    .label = Сохранённые пароли
-    .value = Сохранённые пароли
-browser-data-firefox-16 =
-    .label = Сохранённые пароли
-    .value = Сохранённые пароли
-browser-data-360se-16 =
-    .label = Сохранённые пароли
-    .value = Сохранённые пароли
-browser-data-ie-32 =
-    .label = Избранное
-    .value = Избранное
-browser-data-edge-32 =
-    .label = Избранное
-    .value = Избранное
-browser-data-safari-32 =
-    .label = Закладки
-    .value = Закладки
-browser-data-chrome-32 =
-    .label = Закладки
-    .value = Закладки
-browser-data-canary-32 =
-    .label = Закладки
-    .value = Закладки
-browser-data-360se-32 =
-    .label = Закладки
-    .value = Закладки
-browser-data-ie-64 =
-    .label = Другие данные
-    .value = Другие данные
-browser-data-edge-64 =
-    .label = Другие данные
-    .value = Другие данные
-browser-data-safari-64 =
-    .label = Другие данные
-    .value = Другие данные
-browser-data-chrome-64 =
-    .label = Другие данные
-    .value = Другие данные
-browser-data-canary-64 =
-    .label = Другие данные
-    .value = Другие данные
-browser-data-firefox-other-64 =
-    .label = Другие данные
-    .value = Другие данные
-browser-data-360se-64 =
-    .label = Другие данные
-    .value = Другие данные
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Окна и вкладки
+browser-data-session-label =
     .value = Окна и вкладки
