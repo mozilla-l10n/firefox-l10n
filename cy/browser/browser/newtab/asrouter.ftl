@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Profi hwn: Pinio Tab
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pam ydw i'n gweld hyn
-
 cfr-doorhanger-extension-cancel-button = Nid Nawr
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Ychwanegu Nawr
     .accesskey = Y
 cfr-doorhanger-pintab-ok-button = Pinio'r Tab
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Gosodiadau Argymell Rheoli
     .accesskey = R
-
 cfr-doorhanger-extension-never-show-recommendation = Peidio Dangos yr Argymhelliad i Mi
     .accesskey = P
-
 cfr-doorhanger-extension-learn-more-link = Dysgu rhagor
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = gan { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Argymhelliad
-
 cfr-doorhanger-extension-notification2 = Argymhelliad
     .tooltiptext = Argymhelliad Estyniad
     .a11y-announcement = Mae argymhelliad estyniad ar gael
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Argymhelliad
@@ -76,7 +67,6 @@ cfr-doorhanger-extension-total-users =
         [many] { $total } defnyddiwr
        *[other] { $total } defnyddiwr
     }
-
 cfr-doorhanger-pintab-description = Cael mynediad hawdd i'ch hoff wefannau. Cadwch wefannau ar agor mewn tab (hyd yn oed pan yn ailgychwyn).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -84,10 +74,8 @@ cfr-doorhanger-pintab-description = Cael mynediad hawdd i'ch hoff wefannau. Cadw
 cfr-doorhanger-pintab-step1 = <b>Clic de</ b> ar y tab rydych am ei binio.
 cfr-doorhanger-pintab-step2 = Dewis <b>Pinio Tab</ b> o'r ddewislen.
 cfr-doorhanger-pintab-step3 = Os fydd gan y wefan ddiweddariad, gwelwch ddot glas ar eich tab wedi'i binio.
-
 cfr-doorhanger-pintab-animation-pause = Oedi
 cfr-doorhanger-pintab-animation-resume = Ailgychwyn
-
 
 ## Firefox Accounts Message
 
@@ -109,26 +97,20 @@ cfr-protections-panel-link-text = Dysgu rhagor
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nodwedd newydd:
-
 cfr-whatsnew-button =
     .label = Beth sy'n Newydd
     .tooltiptext = Beth sy'n Newydd
-
 cfr-whatsnew-panel-header = Beth sy'n Newydd
-
 cfr-whatsnew-release-notes-link-text = Darllenwch y nodiadau rhyddhau
-
 cfr-whatsnew-fx70-title = Mae { -brand-short-name } nawr yn ymladd yn galetach dros eich preifatrwydd
 cfr-whatsnew-fx70-body =
     Mae'r diweddariad diweddaraf yn gwella'r nodwedd Diogelu rhag Tracio ac yn ei wneud
     haws nag erioed i greu cyfrineiriau diogel ar gyfer pob gwefan.
-
 cfr-whatsnew-tracking-protect-title = Diogelwch eich hun rhag tracwyr
 cfr-whatsnew-tracking-protect-body =
     Mae { -brand-short-name } yn rhwystro llawer o dracwyr cymdeithasol a thraws-gwefan cyffredin sy'n 
     dilyn yr hyn rydych chi'n ei wneud ar-lein.
 cfr-whatsnew-tracking-protect-link-text = Gweld Eich Adroddiad
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -143,11 +125,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Ers { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Gweld yr Adroddiad
-
 cfr-whatsnew-lockwise-backup-title = Gwnewch gopi wrth gefn o'ch cyfrineiriau
 cfr-whatsnew-lockwise-backup-body = Nawr cynhyrchwch gyfrineiriau diogel y gallwch gael mynediad atyn nhw lle bynnag fyddwch yn mewngofnodi.
 cfr-whatsnew-lockwise-backup-link-text = Cychwyn creu copïau wrth gefn
-
 cfr-whatsnew-lockwise-take-title = Ewch â'ch cyfrineiriau gyda chi
 cfr-whatsnew-lockwise-take-body =
     Mae'r ap symudol { -lockwise-brand-short-name } yn caniatáu i chi gael mynediad diogel i'ch
@@ -187,7 +167,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Bysbrintwyr wedi'u rhwystro
     }
 cfr-whatsnew-fingerprinter-counter-body = Mae { -brand-shorter-name } yn rhwystro llawer o fysbrintwyr sy'n casglu manylion am eich dyfais a'ch gweithredoedd yn gyfrinachol i greu proffil hysbysebu ohonoch chi.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Bysbrintwyr
 cfr-whatsnew-fingerprinter-counter-body-alt = Gall { -brand-shorter-name } rwystro bysbrintwyr sy'n casglu manylion am eich dyfais a'ch gweithredoedd yn gyfrinachol i greu proffil hysbysebu ohonoch chi.
@@ -273,3 +252,14 @@ cfr-whatsnew-passwords-icon-alt = Eicon allwedd cyfrinair bregus
 cfr-whatsnew-pip-fullscreen-header = Cymerwch llun-mewn-llun sgrin lawn
 cfr-whatsnew-pip-fullscreen-body = Pan fyddwch yn gosod fideo i mewn i ffenestr sy'n arnofio, gallwch nawr glicio ddwywaith ar y ffenestr honno i droi'n sgrin lawn.
 cfr-whatsnew-pip-fullscreen-icon-alt = Eicon llun mewn llun
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = Cipolwg ar ddiogelwch
+cfr-whatsnew-protections-body = Mae'r Bwrdd Gwaith Diogelwch yn cynnwys adroddiadau cryno am dor-data a rheoli cyfrineiriau. Nawr gallwch chi olrhain faint o dor-data rydych chi wedi'u datrys, a gweld a allai unrhyw un o'ch cyfrineiriau sydd wedi'u cadw fod wedi bod yn agored i dor-data.
+cfr-whatsnew-protections-cta-link = Gweld y Bwrdd Gwaith Diogelwch
+cfr-whatsnew-protections-icon-alt = Eicon tarian
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Gwell profiad PDF

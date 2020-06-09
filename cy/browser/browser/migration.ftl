@@ -121,6 +121,28 @@ browser-data-formdata-label =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
     .label = Mewngofnodion a Chyfrineiriau wedi'u Cadw
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Mewngofnodion a Chyfrineiriau wedi'u Cadw
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Ffefrynnau
+            [edge] Ffefrynnau
+           *[other] Nodau Tudalen
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Ffefrynnau
+            [edge] Ffefrynnau
+           *[other] Nodau Tudalen
+        }
+browser-data-otherdata-checkbox =
+    .label = Data Arall
+browser-data-otherdata-label =
+    .label = Data Arall
 browser-data-session-checkbox =
     .label = Ffenestri a Thabiau
 browser-data-session-label =
