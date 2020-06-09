@@ -12,6 +12,11 @@
 <!ENTITY alwaysEncryptMessage.label "Altid (deaktiver afsendelse med mindre alle modtagere har et certifikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "d">
 <!ENTITY encryptionCert.message "Brug dette certifikat til kryptering og dekryptering af meddelelser:">
+
+<!ENTITY e2eTitle.label "End to end-kryptering">
+
+
+
 <!ENTITY digitalSign.certificate.button "Vælg…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Ryd">
@@ -31,7 +36,14 @@
 <!ENTITY manageDevices.label "Håndter sikkerhedsenheder">
 <!ENTITY manageDevices.accesskey "h">
 
+
+
+
+
+
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Vælg certifikat">
 <!ENTITY certPicker.info  "Certifikat:">
 <!ENTITY certPicker.detailsLabel "Detaljer for det valgte certifikat:">
+

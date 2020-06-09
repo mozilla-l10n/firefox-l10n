@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Kontoindstillinger">
 <!ENTITY accountName.label "Kontonavn:">
 <!ENTITY accountName.accesskey "a">
@@ -13,6 +15,7 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "Mailadresse:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.accesskey "V">
 <!ENTITY replyTo.label "Svaradresse:">
 <!ENTITY replyTo.accesskey "r">
 <!ENTITY replyTo.placeholder "Modtagere vil svare til denne anden adresse">
