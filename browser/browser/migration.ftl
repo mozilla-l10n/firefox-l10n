@@ -69,151 +69,16 @@ source-name-360se = Brabhsálaí Slán 360
 imported-safari-reading-list = Liosta Léitheoireachta (ó Safari)
 imported-edge-reading-list = Liosta Léitheoireachta (ó Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Roghanna Idirlín
-    .value = Roghanna Idirlín
-browser-data-edge-1 =
-    .label = Socruithe
-    .value = Socruithe
-browser-data-safari-1 =
-    .label = Sainroghanna
-    .value = Sainroghanna
-browser-data-chrome-1 =
-    .label = Sainroghanna
-    .value = Sainroghanna
-browser-data-canary-1 =
-    .label = Sainroghanna
-    .value = Sainroghanna
-browser-data-360se-1 =
-    .label = Sainroghanna
-    .value = Sainroghanna
-browser-data-ie-2 =
-    .label = Fianáin
-    .value = Fianáin
-browser-data-edge-2 =
-    .label = Fianáin
-    .value = Fianáin
-browser-data-safari-2 =
-    .label = Fianáin
-    .value = Fianáin
-browser-data-chrome-2 =
-    .label = Fianáin
-    .value = Fianáin
-browser-data-canary-2 =
-    .label = Fianáin
-    .value = Fianáin
-browser-data-firefox-2 =
-    .label = Fianáin
-    .value = Fianáin
-browser-data-360se-2 =
-    .label = Fianáin
-    .value = Fianáin
-browser-data-ie-4 =
-    .label = Stair Bhrabhsála
-    .value = Stair Bhrabhsála
-browser-data-edge-4 =
-    .label = Stair Bhrabhsála
-    .value = Stair Bhrabhsála
-browser-data-safari-4 =
-    .label = Stair Bhrabhsála
-    .value = Stair Bhrabhsála
-browser-data-chrome-4 =
-    .label = Stair Bhrabhsála
-    .value = Stair Bhrabhsála
-browser-data-canary-4 =
-    .label = Stair Bhrabhsála
-    .value = Stair Bhrabhsála
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Stair Bhrabhsála agus Leabharmharcanna
-    .value = Stair Bhrabhsála agus Leabharmharcanna
-browser-data-360se-4 =
-    .label = Stair Bhrabhsála
-    .value = Stair Bhrabhsála
-browser-data-ie-8 =
-    .label = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-    .value = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-browser-data-edge-8 =
-    .label = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-    .value = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-browser-data-safari-8 =
-    .label = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-    .value = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-browser-data-chrome-8 =
-    .label = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-    .value = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-browser-data-canary-8 =
-    .label = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-    .value = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-browser-data-firefox-8 =
-    .label = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-    .value = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-browser-data-360se-8 =
-    .label = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-    .value = Stair na Faisnéise Sábháilte ó Fhoirmeacha
-browser-data-ie-16 =
-    .label = Focail Fhaire a sábháladh
-    .value = Focail Fhaire a sábháladh
-browser-data-edge-16 =
-    .label = Focail Fhaire a Sábháladh
-    .value = Focail Fhaire a Sábháladh
-browser-data-safari-16 =
-    .label = Focail Fhaire a sábháladh
-    .value = Focail Fhaire a sábháladh
-browser-data-chrome-16 =
-    .label = Focail Fhaire a sábháladh
-    .value = Focail Fhaire a sábháladh
-browser-data-canary-16 =
-    .label = Focail Fhaire a sábháladh
-    .value = Focail Fhaire a sábháladh
-browser-data-firefox-16 =
-    .label = Focail Fhaire a sábháladh
-    .value = Focail Fhaire a sábháladh
-browser-data-360se-16 =
-    .label = Focail Fhaire a sábháladh
-    .value = Focail Fhaire a sábháladh
-browser-data-ie-32 =
-    .label = Ceanáin
-    .value = Ceanáin
-browser-data-edge-32 =
-    .label = Ceanáin
-    .value = Ceanáin
-browser-data-safari-32 =
-    .label = Leabharmharcanna
-    .value = Leabharmharcanna
-browser-data-chrome-32 =
-    .label = Leabharmharcanna
-    .value = Leabharmharcanna
-browser-data-canary-32 =
-    .label = Leabharmharcanna
-    .value = Leabharmharcanna
-browser-data-360se-32 =
-    .label = Leabharmharcanna
-    .value = Leabharmharcanna
-browser-data-ie-64 =
-    .label = Sonraí Eile
-    .value = Sonraí Eile
-browser-data-edge-64 =
-    .label = Sonraí Eile
-    .value = Sonraí Eile
-browser-data-safari-64 =
-    .label = Sonraí Eile
-    .value = Sonraí Eile
-browser-data-chrome-64 =
-    .label = Sonraí Eile
-    .value = Sonraí Eile
-browser-data-canary-64 =
-    .label = Sonraí Eile
-    .value = Sonraí Eile
-browser-data-firefox-other-64 =
-    .label = Sonraí Eile
-    .value = Sonraí Eile
-browser-data-360se-64 =
-    .label = Sonraí Eile
-    .value = Sonraí Eile
-browser-data-firefox-128 =
-    .label = Fuinneoga agus Cluaisíní
-    .value = Fuinneoga agus Cluaisíní
