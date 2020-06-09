@@ -84,151 +84,20 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Llista de lectura (del Safari)
 imported-edge-reading-list = Llista de lectura (de l'Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Opcions d'Internet
-    .value = Opcions d'Internet
-browser-data-edge-1 =
-    .label = Paràmetres
-    .value = Paràmetres
-browser-data-safari-1 =
-    .label = Preferències
-    .value = Preferències
-browser-data-chrome-1 =
-    .label = Preferències
-    .value = Preferències
-browser-data-canary-1 =
-    .label = Preferències
-    .value = Preferències
-browser-data-360se-1 =
-    .label = Preferències
-    .value = Preferències
-browser-data-ie-2 =
-    .label = Galetes
-    .value = Galetes
-browser-data-edge-2 =
-    .label = Galetes
-    .value = Galetes
-browser-data-safari-2 =
-    .label = Galetes
-    .value = Galetes
-browser-data-chrome-2 =
-    .label = Galetes
-    .value = Galetes
-browser-data-canary-2 =
-    .label = Galetes
-    .value = Galetes
-browser-data-firefox-2 =
-    .label = Galetes
-    .value = Galetes
-browser-data-360se-2 =
-    .label = Galetes
-    .value = Galetes
-browser-data-ie-4 =
-    .label = Historial de navegació
-    .value = Historial de navegació
-browser-data-edge-4 =
-    .label = Historial de navegació
-    .value = Historial de navegació
-browser-data-safari-4 =
-    .label = Historial de navegació
-    .value = Historial de navegació
-browser-data-chrome-4 =
-    .label = Historial de navegació
-    .value = Historial de navegació
-browser-data-canary-4 =
-    .label = Historial de navegació
-    .value = Historial de navegació
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Historial de navegació i adreces d'interés
-    .value = Historial de navegació i adreces d'interés
-browser-data-360se-4 =
-    .label = Historial de navegació
-    .value = Historial de navegació
-browser-data-ie-8 =
-    .label = Historial de formularis guardats
-    .value = Historial de formularis guardats
-browser-data-edge-8 =
-    .label = Historial de formularis guardats
-    .value = Historial de formularis guardats
-browser-data-safari-8 =
-    .label = Historial de formularis guardats
-    .value = Historial de formularis guardats
-browser-data-chrome-8 =
-    .label = Historial de formularis guardats
-    .value = Historial de formularis guardats
-browser-data-canary-8 =
-    .label = Historial de formularis guardats
-    .value = Historial de formularis guardats
-browser-data-firefox-8 =
-    .label = Historial de formularis guardats
-    .value = Historial de formularis guardats
-browser-data-360se-8 =
-    .label = Historial de formularis guardats
-    .value = Historial de formularis guardats
-browser-data-ie-16 =
-    .label = Contrasenyes guardades
-    .value = Contrasenyes guardades
-browser-data-edge-16 =
-    .label = Contrasenyes guardades
-    .value = Contrasenyes guardades
-browser-data-safari-16 =
-    .label = Contrasenyes guardades
-    .value = Contrasenyes guardades
-browser-data-chrome-16 =
-    .label = Contrasenyes guardades
-    .value = Contrasenyes guardades
-browser-data-canary-16 =
-    .label = Contrasenyes guardades
-    .value = Contrasenyes guardades
-browser-data-firefox-16 =
-    .label = Contrasenyes guardades
-    .value = Contrasenyes guardades
-browser-data-360se-16 =
-    .label = Contrasenyes guardades
-    .value = Contrasenyes guardades
-browser-data-ie-32 =
-    .label = Preferits
-    .value = Preferits
-browser-data-edge-32 =
-    .label = Preferits
-    .value = Preferits
-browser-data-safari-32 =
-    .label = Adreces d'interés
-    .value = Adreces d'interés
-browser-data-chrome-32 =
-    .label = Adreces d'interés
-    .value = Adreces d'interés
-browser-data-canary-32 =
-    .label = Adreces d'interés
-    .value = Adreces d'interés
-browser-data-360se-32 =
-    .label = Adreces d'interés
-    .value = Adreces d'interés
-browser-data-ie-64 =
-    .label = Altres dades
-    .value = Altres dades
-browser-data-edge-64 =
-    .label = Altres dades
-    .value = Altres dades
-browser-data-safari-64 =
-    .label = Altres dades
-    .value = Altres dades
-browser-data-chrome-64 =
-    .label = Altres dades
-    .value = Altres dades
-browser-data-canary-64 =
-    .label = Altres dades
-    .value = Altres dades
-browser-data-firefox-other-64 =
-    .label = Altres dades
-    .value = Altres dades
-browser-data-360se-64 =
-    .label = Altres dades
-    .value = Altres dades
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Finestres i pestanyes
+browser-data-session-label =
     .value = Finestres i pestanyes
