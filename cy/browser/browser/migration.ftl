@@ -97,3 +97,7 @@ imported-edge-reading-list = Rhestr Darllen (O Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-session-checkbox =
+    .label = Ffenestri a Thabiau
+browser-data-session-label =
+    .value = Ffenestri a Thabiau
