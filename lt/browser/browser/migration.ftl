@@ -84,151 +84,16 @@ source-name-360se = „360 Secure Browser“
 imported-safari-reading-list = Skaitinių sąrašas (iš „Safari“)
 imported-edge-reading-list = Skaitinių sąrašas (iš „Edge“)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Interneto nuostatos
-    .value = Interneto nuostatos
-browser-data-edge-1 =
-    .label = Nuostatos
-    .value = Nuostatos
-browser-data-safari-1 =
-    .label = Nuostatos
-    .value = Nuostatos
-browser-data-chrome-1 =
-    .label = Nuostatos
-    .value = Nuostatos
-browser-data-canary-1 =
-    .label = Nuostatos
-    .value = Nuostatos
-browser-data-360se-1 =
-    .label = Nuostatos
-    .value = Nuostatos
-browser-data-ie-2 =
-    .label = Slapukai
-    .value = Slapukai
-browser-data-edge-2 =
-    .label = Slapukai
-    .value = Slapukai
-browser-data-safari-2 =
-    .label = Slapukai
-    .value = Slapukai
-browser-data-chrome-2 =
-    .label = Slapukai
-    .value = Slapukai
-browser-data-canary-2 =
-    .label = Slapukai
-    .value = Slapukai
-browser-data-firefox-2 =
-    .label = Slapukai
-    .value = Slapukai
-browser-data-360se-2 =
-    .label = Slapukai
-    .value = Slapukai
-browser-data-ie-4 =
-    .label = Naršymo retrospektyva
-    .value = Naršymo retrospektyva
-browser-data-edge-4 =
-    .label = Naršymo žurnalas
-    .value = Naršymo žurnalas
-browser-data-safari-4 =
-    .label = Naršymo žurnalas
-    .value = Naršymo žurnalas
-browser-data-chrome-4 =
-    .label = Naršymo istorija
-    .value = Naršymo istorija
-browser-data-canary-4 =
-    .label = Naršymo istorija
-    .value = Naršymo istorija
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Naršymo žurnalas ir adresynas
-    .value = Naršymo žurnalas ir adresynas
-browser-data-360se-4 =
-    .label = Naršymo žurnalas
-    .value = Naršymo žurnalas
-browser-data-ie-8 =
-    .label = Įrašyti formų duomenys
-    .value = Įrašyti formų duomenys
-browser-data-edge-8 =
-    .label = Įrašyti formų duomenys
-    .value = Įrašyti formų duomenys
-browser-data-safari-8 =
-    .label = Įrašyti formų duomenys
-    .value = Įrašyti formų duomenys
-browser-data-chrome-8 =
-    .label = Įrašyti formų duomenys
-    .value = Įrašyti formų duomenys
-browser-data-canary-8 =
-    .label = Įrašyti formų duomenys
-    .value = Įrašyti formų duomenys
-browser-data-firefox-8 =
-    .label = Įrašyti formų duomenys
-    .value = Įrašyti formų duomenys
-browser-data-360se-8 =
-    .label = Įrašyti formų duomenys
-    .value = Įrašyti formų duomenys
-browser-data-ie-16 =
-    .label = Įrašyti slaptažodžiai
-    .value = Įrašyti slaptažodžiai
-browser-data-edge-16 =
-    .label = Įrašyti slaptažodžiai
-    .value = Įrašyti slaptažodžiai
-browser-data-safari-16 =
-    .label = Įrašyti slaptažodžiai
-    .value = Įrašyti slaptažodžiai
-browser-data-chrome-16 =
-    .label = Įrašyti slaptažodžiai
-    .value = Įrašyti slaptažodžiai
-browser-data-canary-16 =
-    .label = Įrašyti slaptažodžiai
-    .value = Įrašyti slaptažodžiai
-browser-data-firefox-16 =
-    .label = Įrašyti slaptažodžiai
-    .value = Įrašyti slaptažodžiai
-browser-data-360se-16 =
-    .label = Įrašyti slaptažodžiai
-    .value = Įrašyti slaptažodžiai
-browser-data-ie-32 =
-    .label = Adresynas
-    .value = Adresynas
-browser-data-edge-32 =
-    .label = Adresynas
-    .value = Adresynas
-browser-data-safari-32 =
-    .label = Adresynas
-    .value = Adresynas
-browser-data-chrome-32 =
-    .label = Žymės
-    .value = Žymės
-browser-data-canary-32 =
-    .label = Žymės
-    .value = Žymės
-browser-data-360se-32 =
-    .label = Adresynas
-    .value = Adresynas
-browser-data-ie-64 =
-    .label = Kiti duomenys
-    .value = Kiti duomenys
-browser-data-edge-64 =
-    .label = Kiti duomenys
-    .value = Kiti duomenys
-browser-data-safari-64 =
-    .label = Kiti duomenys
-    .value = Kiti duomenys
-browser-data-chrome-64 =
-    .label = Kiti duomenys
-    .value = Kiti duomenys
-browser-data-canary-64 =
-    .label = Kiti duomenys
-    .value = Kiti duomenys
-browser-data-firefox-other-64 =
-    .label = Kiti duomenys
-    .value = Kiti duomenys
-browser-data-360se-64 =
-    .label = Kiti duomenys
-    .value = Kiti duomenys
-browser-data-firefox-128 =
-    .label = Langai ir kortelės
-    .value = Langai ir kortelės
