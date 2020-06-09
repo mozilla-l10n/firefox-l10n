@@ -229,6 +229,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Tignit n tugna-deg-tugna
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Ammesten deg teṛmect n tiṭ
 cfr-whatsnew-protections-cta-link = Wali tafelwit n usenqed
 
 ## Better PDF message
