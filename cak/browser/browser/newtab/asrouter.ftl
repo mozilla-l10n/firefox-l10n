@@ -238,6 +238,9 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ruwachib'al Picture-in-picture
 cfr-whatsnew-protections-header = Taq chajinïk wakami
 cfr-whatsnew-protections-body = Ri rupas chajinïk eruk'wan ko'öl taq kitzijol kitz'ilanem tzij chuqa' kinuk'samajixik ewan taq tzij. Wakami yatikïr natz'ët jarupe' taq tz'ilanem xesol richin natz'ët we jun chi ke ri ewan taq atzij ayakon xtz'iläx pa jun tz'ilanem tzij.
 cfr-whatsnew-protections-cta-link = Titz'et Kipas Chajinïk
+cfr-whatsnew-protections-icon-alt = Ruwachib'al Pokob'
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Jeb'ël etamab'äl chi rij PDF
+cfr-whatsnew-better-pdf-body = Wakami ri aj PDF taq wuj jumul yejaq pa { -brand-short-name }, akuchi' k'o apon pan aq'a' ronojel ri asamaj.
