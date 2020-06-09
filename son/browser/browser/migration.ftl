@@ -69,151 +69,20 @@ source-name-360se = 360 Ceecikaw saajante
 imported-safari-reading-list = Cawhaya maašeede (Safari ra)
 imported-edge-reading-list = Cawhaya maašeede (From Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Interneti suubarey
-    .value = Interneti suubarey
-browser-data-edge-1 =
-    .label = Kayandiyaney
-    .value = Kayandiyaney
-browser-data-safari-1 =
-    .label = Ibaayey
-    .value = Ibaayey
-browser-data-chrome-1 =
-    .label = Ibaayey
-    .value = Ibaayey
-browser-data-canary-1 =
-    .label = Ibaayey
-    .value = Ibaayey
-browser-data-360se-1 =
-    .label = Ibaayey
-    .value = Ibaayey
-browser-data-ie-2 =
-    .label = Aleewawey
-    .value = Aleewawey
-browser-data-edge-2 =
-    .label = Aleewawey
-    .value = Aleewawey
-browser-data-safari-2 =
-    .label = Aleewawey
-    .value = Aleewawey
-browser-data-chrome-2 =
-    .label = Aleewawey
-    .value = Aleewawey
-browser-data-canary-2 =
-    .label = Aleewawey
-    .value = Aleewawey
-browser-data-firefox-2 =
-    .label = Aleewawey
-    .value = Aleewawey
-browser-data-360se-2 =
-    .label = Aleewawey
-    .value = Aleewawey
-browser-data-ie-4 =
-    .label = Ceeciyan taariki
-    .value = Ceeciyan taariki
-browser-data-edge-4 =
-    .label = Ceeciyan taariki
-    .value = Ceeciyan taariki
-browser-data-safari-4 =
-    .label = Ceeciyan taariki
-    .value = Ceeciyan taariki
-browser-data-chrome-4 =
-    .label = Ceeciyan taariki
-    .value = Ceeciyan taariki
-browser-data-canary-4 =
-    .label = Ceeciyan taariki
-    .value = Ceeciyan taariki
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Naarumi taariki nda doo-šilbawey
-    .value = Naarumi taariki nda doo-šilbawey
-browser-data-360se-4 =
-    .label = Ceeciyan taariki
-    .value = Ceeciyan taariki
-browser-data-ie-8 =
-    .label = Takari gaabunte taariki
-    .value = Takari gaabunte taariki
-browser-data-edge-8 =
-    .label = Takari gaabunte taariki
-    .value = Takari gaabunte taariki
-browser-data-safari-8 =
-    .label = Takari gaabunte taariki
-    .value = Takari gaabunte taariki
-browser-data-chrome-8 =
-    .label = Takari gaabunte taariki
-    .value = Takari gaabunte taariki
-browser-data-canary-8 =
-    .label = Takari gaabunte taariki
-    .value = Takari gaabunte taariki
-browser-data-firefox-8 =
-    .label = Takari gaabunte taariki
-    .value = Takari gaabunte taariki
-browser-data-360se-8 =
-    .label = Takari gaabunte taariki
-    .value = Takari gaabunte taariki
-browser-data-ie-16 =
-    .label = Šennikufal gaabuntey
-    .value = Šennikufal gaabuntey
-browser-data-edge-16 =
-    .label = Šennikufal gaabuntey
-    .value = Šennikufal gaabuntey
-browser-data-safari-16 =
-    .label = Šennikufal gaabuntey
-    .value = Šennikufal gaabuntey
-browser-data-chrome-16 =
-    .label = Šennikufal gaabuntey
-    .value = Šennikufal gaabuntey
-browser-data-canary-16 =
-    .label = Šennikufal gaabuntey
-    .value = Šennikufal gaabuntey
-browser-data-firefox-16 =
-    .label = Šennikufal gaabuntey
-    .value = Šennikufal gaabuntey
-browser-data-360se-16 =
-    .label = Šennikufal gaabuntey
-    .value = Šennikufal gaabuntey
-browser-data-ie-32 =
-    .label = Kaasey
-    .value = Kaasey
-browser-data-edge-32 =
-    .label = Kaasey
-    .value = Kaasey
-browser-data-safari-32 =
-    .label = Doo-šilbawey
-    .value = Doo-šilbawey
-browser-data-chrome-32 =
-    .label = Doo-šilbawey
-    .value = Doo-šilbawey
-browser-data-canary-32 =
-    .label = Doo-šilbawey
-    .value = Doo-šilbawey
-browser-data-360se-32 =
-    .label = Doo-šilbawey
-    .value = Doo-šilbawey
-browser-data-ie-64 =
-    .label = Bayhaya taney
-    .value = Bayhaya taney
-browser-data-edge-64 =
-    .label = Bayhaya taney
-    .value = Bayhaya taney
-browser-data-safari-64 =
-    .label = Bayhaya taney
-    .value = Bayhaya taney
-browser-data-chrome-64 =
-    .label = Bayhaya taney
-    .value = Bayhaya taney
-browser-data-canary-64 =
-    .label = Bayhaya taney
-    .value = Bayhaya taney
-browser-data-firefox-other-64 =
-    .label = Bayhaya taney
-    .value = Bayhaya taney
-browser-data-360se-64 =
-    .label = Bayhaya taney
-    .value = Bayhaya taney
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Zanfuney nda kanjey
+browser-data-session-label =
     .value = Zanfuney nda kanjey
