@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Lêslist (út Safari)
 imported-edge-reading-list = Lêslist (út Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Ynternetopsjes
-    .value = Ynternetopsjes
-browser-data-edge-1 =
-    .label = Ynstellingen
-    .value = Ynstellingen
-browser-data-safari-1 =
-    .label = Foarkarren
-    .value = Foarkarren
-browser-data-chrome-1 =
-    .label = Foarkarren
-    .value = Foarkarren
-browser-data-canary-1 =
-    .label = Foarkarren
-    .value = Foarkarren
-browser-data-360se-1 =
-    .label = Foarkarren
-    .value = Foarkarren
-browser-data-ie-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-edge-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-safari-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-chrome-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-canary-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-firefox-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-360se-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-ie-4 =
-    .label = Skiednis
-    .value = Skiednis
-browser-data-edge-4 =
-    .label = Skiednis
-    .value = Skiednis
-browser-data-safari-4 =
-    .label = Skiednis
-    .value = Skiednis
-browser-data-chrome-4 =
-    .label = Skiednis
-    .value = Skiednis
-browser-data-canary-4 =
-    .label = Skiednis
-    .value = Skiednis
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Skiednis en blêdwizers
-    .value = Skiednis en blêdwizers
-browser-data-360se-4 =
-    .label = Skiednis
-    .value = Skiednis
-browser-data-ie-8 =
-    .label = Bewarre formulierskiednis
-    .value = Bewarre formulierskiednis
-browser-data-edge-8 =
-    .label = Bewarre formulierskiednis
-    .value = Bewarre formulierskiednis
-browser-data-safari-8 =
-    .label = Bewarre formulierskiednis
-    .value = Bewarre formulierskiednis
-browser-data-chrome-8 =
-    .label = Bewarre formulierskiednis
-    .value = Bewarre formulierskiednis
-browser-data-canary-8 =
-    .label = Bewarre formulierskiednis
-    .value = Bewarre formulierskiednis
-browser-data-firefox-8 =
-    .label = Bewarre formulierskiednis
-    .value = Bewarre formulierskiednis
-browser-data-360se-8 =
-    .label = Bewarre formulierskiednis
-    .value = Bewarre formulierskiednis
-browser-data-ie-16 =
-    .label = Bewarre wachtwurden
-    .value = Bewarre wachtwurden
-browser-data-edge-16 =
-    .label = Bewarre wachtwurden
-    .value = Bewarre wachtwurden
-browser-data-safari-16 =
-    .label = Bewarre wachtwurden
-    .value = Bewarre wachtwurden
-browser-data-chrome-16 =
-    .label = Bewarre wachtwurden
-    .value = Bewarre wachtwurden
-browser-data-canary-16 =
-    .label = Bewarre wachtwurden
-    .value = Bewarre wachtwurden
-browser-data-firefox-16 =
-    .label = Bewarre wachtwurden
-    .value = Bewarre wachtwurden
-browser-data-360se-16 =
-    .label = Bewarre wachtwurden
-    .value = Bewarre wachtwurden
-browser-data-ie-32 =
-    .label = Favorieten
-    .value = Favorieten
-browser-data-edge-32 =
-    .label = Favorieten
-    .value = Favorieten
-browser-data-safari-32 =
-    .label = Blêdwizers
-    .value = Blêdwizers
-browser-data-chrome-32 =
-    .label = Blêdwizers
-    .value = Blêdwizers
-browser-data-canary-32 =
-    .label = Blêdwizers
-    .value = Blêdwizers
-browser-data-360se-32 =
-    .label = Blêdwizers
-    .value = Blêdwizers
-browser-data-ie-64 =
-    .label = Oare gegevens
-    .value = Oare gegevens
-browser-data-edge-64 =
-    .label = Oare gegevens
-    .value = Oare gegevens
-browser-data-safari-64 =
-    .label = Oare gegevens
-    .value = Oare gegevens
-browser-data-chrome-64 =
-    .label = Oare gegevens
-    .value = Oare gegevens
-browser-data-canary-64 =
-    .label = Oare gegevens
-    .value = Oare gegevens
-browser-data-firefox-other-64 =
-    .label = Oare gegevens
-    .value = Oare gegevens
-browser-data-360se-64 =
-    .label = Oare gegevens
-    .value = Oare gegevens
-browser-data-firefox-128 =
-    .label = Finsters en ljepblêden
-    .value = Finsters en ljepblêden
