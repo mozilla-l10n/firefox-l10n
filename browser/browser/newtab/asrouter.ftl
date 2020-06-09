@@ -235,6 +235,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bilde-i-bilde ikon
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Vern på ein augneblink
+cfr-whatsnew-protections-body = Tryggingsoversikta inneheld samandragsrapportar om datalekkasjar og passordhandtering. Du kan no spore kor mange datalekkasjar du har løyst, og sjå om nokon av dei lagra passorda dine kan ha blitt eksponerte i ein datalekkasje.
 cfr-whatsnew-protections-cta-link = Vis tryggingsoversyn
 cfr-whatsnew-protections-icon-alt = Skjoldikon
 
