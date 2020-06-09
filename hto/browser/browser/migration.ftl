@@ -61,151 +61,16 @@ source-name-360se = 360 Ñúe makara
 imported-safari-reading-list = Fakádua raɨe kuejina (de Safari)
 imported-edge-reading-list = Fakádua raɨe kuejina (de Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internetn nɨzeyena
-    .value = Internetn nɨzeyena
-browser-data-edge-1 =
-    .label = Abɨdo fɨnoka
-    .value = Abɨdo fɨnoka
-browser-data-safari-1 =
-    .label = Kúe gaɨga
-    .value = Kúe gaɨga
-browser-data-chrome-1 =
-    .label = Kúe gaɨga
-    .value = Kúe gaɨga
-browser-data-canary-1 =
-    .label = Kúe gaɨga
-    .value = Kúe gaɨga
-browser-data-360se-1 =
-    .label = Kúe gaɨga
-    .value = Kúe gaɨga
-browser-data-ie-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-edge-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-safari-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-chrome-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-canary-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-firefox-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-360se-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-ie-4 =
-    .label = Jagaɨ makara
-    .value = Jagaɨ makara
-browser-data-edge-4 =
-    .label = Jagaɨ makara
-    .value = Jagaɨ makara
-browser-data-safari-4 =
-    .label = Jagaɨ makara
-    .value = Jagaɨ makara
-browser-data-chrome-4 =
-    .label = Jagaɨ makara
-    .value = Jagaɨ makara
-browser-data-canary-4 =
-    .label = Jagaɨ makara
-    .value = Jagaɨ makara
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Jagaɨ makara rɨgɨnoa dɨga
-    .value = Jagaɨ makara rɨgɨnoa dɨga
-browser-data-360se-4 =
-    .label = Jagaɨ makara
-    .value = Jagaɨ makara
-browser-data-ie-8 =
-    .label = Jagaɨ makara kúega íe ja ñúe jonega
-    .value = Jagaɨ makara kúega íe ja ñúe jonega
-browser-data-edge-8 =
-    .label = Jagaɨ makara kúega íe ja ñúe jonega
-    .value = Jagaɨ makara kúega íe ja ñúe jonega
-browser-data-safari-8 =
-    .label = Jagaɨ makara kúega íe ja ñúe jonega
-    .value = Jagaɨ makara kúega íe ja ñúe jonega
-browser-data-chrome-8 =
-    .label = Jagaɨ makara kúega íe ja ñúe jonega
-    .value = Jagaɨ makara kúega íe ja ñúe jonega
-browser-data-canary-8 =
-    .label = Jagaɨ makara kúega íe ja ñúe jonega
-    .value = Jagaɨ makara kúega íe ja ñúe jonega
-browser-data-firefox-8 =
-    .label = Jagaɨ makara kúega íe ja ñúe jonega
-    .value = Jagaɨ makara kúega íe ja ñúe jonega
-browser-data-360se-8 =
-    .label = Jagaɨ makara kúega íe ja ñúe jonega
-    .value = Jagaɨ makara kúega íe ja ñúe jonega
-browser-data-ie-16 =
-    .label = Fákara ráa ñúe jónega
-    .value = Fákara ráa ñúe jónega
-browser-data-edge-16 =
-    .label = Fákara ráa ñúe jónega
-    .value = Fákara ráa ñúe jónega
-browser-data-safari-16 =
-    .label = Fákara ráa ñúe jónega
-    .value = Fákara ráa ñúe jónega
-browser-data-chrome-16 =
-    .label = Fákara ráa ñúe jónega
-    .value = Fákara ráa ñúe jónega
-browser-data-canary-16 =
-    .label = Fákara ráa ñúe jónega
-    .value = Fákara ráa ñúe jónega
-browser-data-firefox-16 =
-    .label = Fákara ráa ñúe jónega
-    .value = Fákara ráa ñúe jónega
-browser-data-360se-16 =
-    .label = Fákara ráa ñúe jónega
-    .value = Fákara ráa ñúe jónega
-browser-data-ie-32 =
-    .label = Gaɨga
-    .value = Gaɨga
-browser-data-edge-32 =
-    .label = Gaɨga
-    .value = Gaɨga
-browser-data-safari-32 =
-    .label = Rɨgɨnoa
-    .value = Rɨgɨnoa
-browser-data-chrome-32 =
-    .label = Rɨgɨnoa
-    .value = Rɨgɨnoa
-browser-data-canary-32 =
-    .label = Rɨgɨnoa
-    .value = Rɨgɨnoa
-browser-data-360se-32 =
-    .label = Rɨgɨnoa
-    .value = Rɨgɨnoa
-browser-data-ie-64 =
-    .label = Jɨaɨe ráanɨ
-    .value = Jɨaɨe ráanɨ
-browser-data-edge-64 =
-    .label = Jɨaɨe ráanɨ
-    .value = Jɨaɨe ráanɨ
-browser-data-safari-64 =
-    .label = Jɨaɨe ráanɨ
-    .value = Jɨaɨe ráanɨ
-browser-data-chrome-64 =
-    .label = Jɨaɨe ráanɨ
-    .value = Jɨaɨe ráanɨ
-browser-data-canary-64 =
-    .label = Jɨaɨe ráanɨ
-    .value = Jɨaɨe ráanɨ
-browser-data-firefox-other-64 =
-    .label = Jɨaɨe ráanɨ
-    .value = Jɨaɨe ráanɨ
-browser-data-360se-64 =
-    .label = Jɨaɨe ráanɨ
-    .value = Jɨaɨe ráanɨ
-browser-data-firefox-128 =
-    .label = Éroirafo úitɨraɨ dɨga
-    .value = Éroirafo úitɨraɨ dɨga
