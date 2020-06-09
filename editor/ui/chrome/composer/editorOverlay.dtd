@@ -326,12 +326,15 @@
 <!ENTITY boldToolbarCmd.tooltip "Krepko">
 <!ENTITY italic.label "Ležeče">
 <!ENTITY italicToolbarCmd.tooltip "Ležeče">
+<!ENTITY underline.label "Podčrtano">
 <!ENTITY underlineToolbarCmd.tooltip "Podčrtano">
 <!ENTITY bullets.label "Seznamske točke">
 <!ENTITY bulletListToolbarCmd.tooltip "Vstavi ali odstrani seznam s seznamskimi točkami">
 <!ENTITY numbers.label "Številke">
 <!ENTITY numberListToolbarCmd.tooltip "Vstavi ali odstrani oštevilčen seznam">
+<!ENTITY outdent.label "Zamik levo">
 <!ENTITY outdentToolbarCmd.tooltip "Zamakni besedilo levo">
+<!ENTITY indent.label "Zamik desno">
 <!ENTITY indentToolbarCmd.tooltip "Zamakni besedilo desno">
 <!ENTITY AlignPopupButton.label "Poravnava">
 <!ENTITY AlignPopupButton.tooltip "Izberite poravnavo besedila">
