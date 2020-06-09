@@ -97,6 +97,30 @@ imported-edge-reading-list = Rhestr Darllen (O Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cwcis
+browser-data-cookies-label =
+    .value = Cwcis
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Hanes Pori a Nodau Tudalen
+           *[other] Hanes Pori
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Hanes Pori a Nodau Tudalen
+           *[other] Hanes Pori
+        }
+browser-data-formdata-checkbox =
+    .label = Hanes Ffurflenni wedi'u Cadw
+browser-data-formdata-label =
+    .value = Hanes Ffurflenni wedi'u Cadw
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Mewngofnodion a Chyfrineiriau wedi'u Cadw
 browser-data-session-checkbox =
     .label = Ffenestri a Thabiau
 browser-data-session-label =
