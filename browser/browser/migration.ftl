@@ -97,6 +97,40 @@ imported-edge-reading-list = Läslista (från Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Kakor
+browser-data-cookies-label =
+    .value = Kakor
+browser-data-formdata-checkbox =
+    .label = Sparad formulärdata
+browser-data-formdata-label =
+    .value = Sparad formulärdata
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Sparade inloggningar och lösenord
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Sparade inloggningar och lösenord
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favoriter
+            [edge] Favoriter
+           *[other] Bokmärken
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favoriter
+            [edge] Favoriter
+           *[other] Bokmärken
+        }
+browser-data-otherdata-checkbox =
+    .label = Annan data
+browser-data-otherdata-label =
+    .label = Annan data
 browser-data-session-checkbox =
     .label = Fönster och flikar
 browser-data-session-label =
