@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Listă de lectură (din Safari)
 imported-edge-reading-list = Listă de lectură (din Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Opțiuni pentru internet
-    .value = Opțiuni pentru internet
-browser-data-edge-1 =
-    .label = Setări
-    .value = Setări
-browser-data-safari-1 =
-    .label = Preferințe
-    .value = Preferințe
-browser-data-chrome-1 =
-    .label = Preferințe
-    .value = Preferințe
-browser-data-canary-1 =
-    .label = Preferințe
-    .value = Preferințe
-browser-data-360se-1 =
-    .label = Preferințe
-    .value = Preferințe
-browser-data-ie-2 =
-    .label = Cookie-uri
-    .value = Cookie-uri
-browser-data-edge-2 =
-    .label = Cookie-uri
-    .value = Cookie-uri
-browser-data-safari-2 =
-    .label = Cookie-uri
-    .value = Cookie-uri
-browser-data-chrome-2 =
-    .label = Cookie-urile
-    .value = Cookie-urile
-browser-data-canary-2 =
-    .label = Cookie-urile
-    .value = Cookie-urile
-browser-data-firefox-2 =
-    .label = Cookie-uri
-    .value = Cookie-uri
-browser-data-360se-2 =
-    .label = Cookie-uri
-    .value = Cookie-uri
-browser-data-ie-4 =
-    .label = Istoric de navigare
-    .value = Istoric de navigare
-browser-data-edge-4 =
-    .label = Istoric de navigare
-    .value = Istoric de navigare
-browser-data-safari-4 =
-    .label = Istoric de navigare
-    .value = Istoric de navigare
-browser-data-chrome-4 =
-    .label = Istoricul navigării
-    .value = Istoricul navigării
-browser-data-canary-4 =
-    .label = Istoricul navigării
-    .value = Istoricul navigării
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Istoricul navigării și marcajele
-    .value = Istoricul navigării și marcajele
-browser-data-360se-4 =
-    .label = Istoric de navigare
-    .value = Istoric de navigare
-browser-data-ie-8 =
-    .label = Formulare salvate
-    .value = Formulare salvate
-browser-data-edge-8 =
-    .label = Formulare salvate
-    .value = Formulare salvate
-browser-data-safari-8 =
-    .label = Formulare salvate
-    .value = Formulare salvate
-browser-data-chrome-8 =
-    .label = Formulare salvate
-    .value = Formulare salvate
-browser-data-canary-8 =
-    .label = Formulare salvate
-    .value = Formulare salvate
-browser-data-firefox-8 =
-    .label = Formulare salvate
-    .value = Formulare salvate
-browser-data-360se-8 =
-    .label = Formulare salvate
-    .value = Formulare salvate
-browser-data-ie-16 =
-    .label = Parole salvate
-    .value = Parole salvate
-browser-data-edge-16 =
-    .label = Parole salvate
-    .value = Parole salvate
-browser-data-safari-16 =
-    .label = Parole salvate
-    .value = Parole salvate
-browser-data-chrome-16 =
-    .label = Parolele salvate
-    .value = Parolele salvate
-browser-data-canary-16 =
-    .label = Parolele salvate
-    .value = Parolele salvate
-browser-data-firefox-16 =
-    .label = Parole salvate
-    .value = Parole salvate
-browser-data-360se-16 =
-    .label = Parole salvate
-    .value = Parole salvate
-browser-data-ie-32 =
-    .label = Favorite
-    .value = Favorite
-browser-data-edge-32 =
-    .label = Favorite
-    .value = Favorite
-browser-data-safari-32 =
-    .label = Marcaje
-    .value = Marcaje
-browser-data-chrome-32 =
-    .label = Marcaje
-    .value = Marcaje
-browser-data-canary-32 =
-    .label = Marcaje
-    .value = Marcaje
-browser-data-360se-32 =
-    .label = Marcaje
-    .value = Marcaje
-browser-data-ie-64 =
-    .label = Alte date
-    .value = Alte date
-browser-data-edge-64 =
-    .label = Alte date
-    .value = Alte date
-browser-data-safari-64 =
-    .label = Alte date
-    .value = Alte date
-browser-data-chrome-64 =
-    .label = Alte date
-    .value = Alte date
-browser-data-canary-64 =
-    .label = Alte date
-    .value = Alte date
-browser-data-firefox-other-64 =
-    .label = Alte date
-    .value = Alte date
-browser-data-360se-64 =
-    .label = Alte date
-    .value = Alte date
-browser-data-firefox-128 =
-    .label = Ferestre și file
-    .value = Ferestre și file
