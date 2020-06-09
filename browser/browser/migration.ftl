@@ -84,151 +84,16 @@ source-name-360se = 360 Secure Browser
 imported-safari-reading-list = Lista de leitura (do Safari)
 imported-edge-reading-list = Lista de leitura (do Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Opções da internet
-    .value = Opções da internet
-browser-data-edge-1 =
-    .label = Configurações
-    .value = Configurações
-browser-data-safari-1 =
-    .label = Preferências
-    .value = Preferências
-browser-data-chrome-1 =
-    .label = Preferências
-    .value = Preferências
-browser-data-canary-1 =
-    .label = Preferências
-    .value = Preferências
-browser-data-360se-1 =
-    .label = Preferências
-    .value = Preferências
-browser-data-ie-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-edge-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-safari-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-chrome-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-canary-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-firefox-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-360se-2 =
-    .label = Cookies
-    .value = Cookies
-browser-data-ie-4 =
-    .label = Histórico de navegação
-    .value = Histórico de navegação
-browser-data-edge-4 =
-    .label = Histórico de navegação
-    .value = Histórico de navegação
-browser-data-safari-4 =
-    .label = Histórico de navegação
-    .value = Histórico de navegação
-browser-data-chrome-4 =
-    .label = Histórico de navegação
-    .value = Histórico de navegação
-browser-data-canary-4 =
-    .label = Histórico de navegação
-    .value = Histórico de navegação
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Histórico de navegação e favoritos
-    .value = Histórico de navegação e favoritos
-browser-data-360se-4 =
-    .label = Histórico de navegação
-    .value = Histórico de navegação
-browser-data-ie-8 =
-    .label = Histórico de formulários salvo
-    .value = Histórico de formulários salvo
-browser-data-edge-8 =
-    .label = Histórico de formulários salvo
-    .value = Histórico de formulários salvo
-browser-data-safari-8 =
-    .label = Histórico de formulários salvo
-    .value = Histórico de formulários salvo
-browser-data-chrome-8 =
-    .label = Histórico de formulários salvo
-    .value = Histórico de formulários salvo
-browser-data-canary-8 =
-    .label = Histórico de formulários salvo
-    .value = Histórico de formulários salvo
-browser-data-firefox-8 =
-    .label = Histórico de formulários salvo
-    .value = Histórico de formulários salvo
-browser-data-360se-8 =
-    .label = Histórico de formulários salvo
-    .value = Histórico de formulários salvo
-browser-data-ie-16 =
-    .label = Senhas salvas
-    .value = Senhas salvas
-browser-data-edge-16 =
-    .label = Senhas salvas
-    .value = Senhas salvas
-browser-data-safari-16 =
-    .label = Senhas salvas
-    .value = Senhas salvas
-browser-data-chrome-16 =
-    .label = Senhas salvas
-    .value = Senhas salvas
-browser-data-canary-16 =
-    .label = Senhas salvas
-    .value = Senhas salvas
-browser-data-firefox-16 =
-    .label = Senhas salvas
-    .value = Senhas salvas
-browser-data-360se-16 =
-    .label = Senhas salvas
-    .value = Senhas salvas
-browser-data-ie-32 =
-    .label = Favoritos
-    .value = Favoritos
-browser-data-edge-32 =
-    .label = Favoritos
-    .value = Favoritos
-browser-data-safari-32 =
-    .label = Favoritos
-    .value = Favoritos
-browser-data-chrome-32 =
-    .label = Favoritos
-    .value = Favoritos
-browser-data-canary-32 =
-    .label = Favoritos
-    .value = Favoritos
-browser-data-360se-32 =
-    .label = Favoritos
-    .value = Favoritos
-browser-data-ie-64 =
-    .label = Outros dados
-    .value = Outros dados
-browser-data-edge-64 =
-    .label = Outros dados
-    .value = Outros dados
-browser-data-safari-64 =
-    .label = Outros dados
-    .value = Outros dados
-browser-data-chrome-64 =
-    .label = Outros dados
-    .value = Outros dados
-browser-data-canary-64 =
-    .label = Outros dados
-    .value = Outros dados
-browser-data-firefox-other-64 =
-    .label = Outros dados
-    .value = Outros dados
-browser-data-360se-64 =
-    .label = Outros dados
-    .value = Outros dados
-browser-data-firefox-128 =
-    .label = Janelas e abas
-    .value = Janelas e abas
