@@ -101,6 +101,22 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Histórico de navegação e marcadores
+           *[other] Histórico de navegação
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Histórico de navegação e marcadores
+           *[other] Histórico de navegação
+        }
+browser-data-formdata-checkbox =
+    .label = Histórico de formulários guardados
+browser-data-formdata-label =
+    .value = Histórico de formulários guardados
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -109,6 +125,24 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Credenciais e palavras-passe guardadas
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favoritos
+            [edge] Favoritos
+           *[other] Marcadores
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favoritos
+            [edge] Favoritos
+           *[other] Marcadores
+        }
+browser-data-otherdata-checkbox =
+    .label = Outros dados
+browser-data-otherdata-label =
+    .label = Outros dados
 browser-data-session-checkbox =
     .label = Janelas e separadores
 browser-data-session-label =
