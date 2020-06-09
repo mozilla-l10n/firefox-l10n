@@ -114,9 +114,9 @@ browser-data-history-label =
            *[other] Nettleserhistorikk
         }
 browser-data-formdata-checkbox =
-    .label = Skjemahistorikk
+    .label = Lagret skjemahistorikk
 browser-data-formdata-label =
-    .value = Skjemahistorikk
+    .value = Lagret skjemahistorikk
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
