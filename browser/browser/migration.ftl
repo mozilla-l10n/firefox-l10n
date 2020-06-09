@@ -42,49 +42,16 @@ imported-bookmarks-source = Kusukela { $source }
 source-name-ie = Internet Explorer
 source-name-safari = Safari
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Ikhetho le-Internet
-    .value = Ikhetho le-Internet
-browser-data-safari-1 =
-    .label = Okukhethako
-    .value = Okukhethako
-browser-data-ie-2 =
-    .label = Isisetjenziswa
-    .value = Isisetjenziswa
-browser-data-safari-2 =
-    .label = Isisetjenziswa
-    .value = Isisetjenziswa
-browser-data-ie-4 =
-    .label = Umlando Wokufunafuna
-    .value = Umlando Wokufunafuna
-browser-data-safari-4 =
-    .label = Umlando Wokufunafuna
-    .value = Umlando Wokufunafuna
-browser-data-ie-8 =
-    .label = Kubulungwe Kubulungwe kusukela Kumlando
-    .value = Kubulungwe Kubulungwe kusukela Kumlando
-browser-data-safari-8 =
-    .label = Kubulungwe Kubulungwe kusukela Kumlando
-    .value = Kubulungwe Kubulungwe kusukela Kumlando
-browser-data-ie-16 =
-    .label = Iinomboro Zokungena Ezibulungiweko
-    .value = Iinomboro Zokungena Ezibulungiweko
-browser-data-safari-16 =
-    .label = Iinomboro Zokungena Ezibulungiweko
-    .value = Iinomboro Zokungena Ezibulungiweko
-browser-data-ie-32 =
-    .label = Okuthandekako
-    .value = Okuthandekako
-browser-data-safari-32 =
-    .label = Amatshwayo Weencwadi
-    .value = Amatshwayo Weencwadi
-browser-data-ie-64 =
-    .label = Eminye imininingwana
-    .value = Eminye imininingwana
-browser-data-safari-64 =
-    .label = Eminye imininingwana
-    .value = Eminye imininingwana
