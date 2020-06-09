@@ -97,6 +97,52 @@ imported-edge-reading-list = Cytańska lisćina (z Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookieje
+browser-data-cookies-label =
+    .value = Cookieje
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Pśeglědowańska historija a cytańske znamjenja
+           *[other] Pśeglědowańska historija
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Pśeglědowańska historija cytańske znamjenja
+           *[other] Pśeglědowańska historija
+        }
+browser-data-formdata-checkbox =
+    .label = Skłaźona formularna historija
+browser-data-formdata-label =
+    .value = Skłaźona formularna historija
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Skłaźone pśizjawjenja a gronidła
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Skłaźone pśizjawjenja a gronidła
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Fawority
+            [edge] Fawority
+           *[other] Cytańske znamjenja
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Fawority
+            [edge] Fawority
+           *[other] Cytańske znamjenja
+        }
+browser-data-otherdata-checkbox =
+    .label = Druge daty
+browser-data-otherdata-label =
+    .label = Druge daty
 browser-data-session-checkbox =
     .label = Wokna a rejtariki
 browser-data-session-label =

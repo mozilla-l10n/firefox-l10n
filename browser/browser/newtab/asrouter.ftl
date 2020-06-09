@@ -238,3 +238,11 @@ cfr-whatsnew-passwords-icon-alt = Symbol kluca zranliwego gronidła
 cfr-whatsnew-pip-fullscreen-header = Połnu wobrazowku wobraz-we-wobrazu wužywaś
 cfr-whatsnew-pip-fullscreen-body = Gaž wideo do znošujucego se wokna tkajośo, móžośo dwójcy na to wokno kliknuś, aby se jo w połnej wobrazowce woglědał.
 cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = Šćity na jadno póglědnjenje
+cfr-whatsnew-protections-cta-link = Pśeglěd šćitow pokazaś
+
+## Better PDF message
+
