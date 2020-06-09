@@ -77,151 +77,20 @@ source-name-360se = 360 layeny ma tye ki ber bedo
 imported-safari-reading-list = Kwano nying (Ki i Safari)
 imported-edge-reading-list = Jami akwana (Ki i Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Gin ayera me Intanet
-    .value = Gin ayera me Intanet
-browser-data-edge-1 =
-    .label = Ter
-    .value = Ter
-browser-data-safari-1 =
-    .label = Ter
-    .value = Ter
-browser-data-chrome-1 =
-    .label = Ter
-    .value = Ter
-browser-data-canary-1 =
-    .label = Ter
-    .value = Ter
-browser-data-360se-1 =
-    .label = Ter
-    .value = Ter
-browser-data-ie-2 =
-    .label = Angija
-    .value = Angija
-browser-data-edge-2 =
-    .label = Angija
-    .value = Angija
-browser-data-safari-2 =
-    .label = Angija
-    .value = Angija
-browser-data-chrome-2 =
-    .label = Angija
-    .value = Angija
-browser-data-canary-2 =
-    .label = Angija
-    .value = Angija
-browser-data-firefox-2 =
-    .label = Angija
-    .value = Angija
-browser-data-360se-2 =
-    .label = Angija
-    .value = Angija
-browser-data-ie-4 =
-    .label = Gin mukato me yeny
-    .value = Gin mukato me yeny
-browser-data-edge-4 =
-    .label = Gin mukato me yeny
-    .value = Gin mukato me yeny
-browser-data-safari-4 =
-    .label = Gin mukato me yeny
-    .value = Gin mukato me yeny
-browser-data-chrome-4 =
-    .label = Gin mukato me yeny
-    .value = Gin mukato me yeny
-browser-data-canary-4 =
-    .label = Gin mukato me yeny
-    .value = Gin mukato me yeny
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Gin mukato me yeny kacel ki Alama me buk
-    .value = Gin mukato me yeny kacel ki Alama me buk
-browser-data-360se-4 =
-    .label = Gin mukato me yeny
-    .value = Gin mukato me yeny
-browser-data-ie-8 =
-    .label = Kigwoko ki i Gin mukato
-    .value = Kigwoko ki i Gin mukato
-browser-data-edge-8 =
-    .label = Kigwoko ki i Gin mukato
-    .value = Kigwoko ki i Gin mukato
-browser-data-safari-8 =
-    .label = Kigwoko ki i Gin mukato
-    .value = Kigwoko ki i Gin mukato
-browser-data-chrome-8 =
-    .label = Kigwoko ki i Gin mukato
-    .value = Kigwoko ki i Gin mukato
-browser-data-canary-8 =
-    .label = Kigwoko ki i Gin mukato
-    .value = Kigwoko ki i Gin mukato
-browser-data-firefox-8 =
-    .label = Kigwoko ki i Gin mukato
-    .value = Kigwoko ki i Gin mukato
-browser-data-360se-8 =
-    .label = Kigwoko ki i Gin mukato
-    .value = Kigwoko ki i Gin mukato
-browser-data-ie-16 =
-    .label = Mung me donyo ma kigwoko
-    .value = Mung me donyo ma kigwoko
-browser-data-edge-16 =
-    .label = Mung me donyo ma kigwoko
-    .value = Mung me donyo ma kigwoko
-browser-data-safari-16 =
-    .label = Mung me donyo ma kigwoko
-    .value = Mung me donyo ma kigwoko
-browser-data-chrome-16 =
-    .label = Mung me donyo ma kigwoko
-    .value = Mung me donyo ma kigwoko
-browser-data-canary-16 =
-    .label = Mung me donyo ma kigwoko
-    .value = Mung me donyo ma kigwoko
-browser-data-firefox-16 =
-    .label = Mung me donyo ma kigwoko
-    .value = Mung me donyo ma kigwoko
-browser-data-360se-16 =
-    .label = Mung me donyo ma kigwoko
-    .value = Mung me donyo ma kigwoko
-browser-data-ie-32 =
-    .label = Ma imaro loyo
-    .value = Ma imaro loyo
-browser-data-edge-32 =
-    .label = Ma imaro loyo
-    .value = Ma imaro loyo
-browser-data-safari-32 =
-    .label = Alama buk
-    .value = Alama buk
-browser-data-chrome-32 =
-    .label = Alama buk
-    .value = Alama buk
-browser-data-canary-32 =
-    .label = Alama buk
-    .value = Alama buk
-browser-data-360se-32 =
-    .label = Alama buk
-    .value = Alama buk
-browser-data-ie-64 =
-    .label = Tic mukene
-    .value = Tic mukene
-browser-data-edge-64 =
-    .label = Data mukene
-    .value = Data mukene
-browser-data-safari-64 =
-    .label = Tic mukene
-    .value = Tic mukene
-browser-data-chrome-64 =
-    .label = Tic mukene
-    .value = Tic mukene
-browser-data-canary-64 =
-    .label = Tic mukene
-    .value = Tic mukene
-browser-data-firefox-other-64 =
-    .label = Tic mukene
-    .value = Tic mukene
-browser-data-360se-64 =
-    .label = Data mukene
-    .value = Data mukene
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Dirica ki dirica matino
+browser-data-session-label =
     .value = Dirica ki dirica matino
