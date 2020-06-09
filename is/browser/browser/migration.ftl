@@ -77,151 +77,20 @@ source-name-360se = 360 Öruggur vafri
 imported-safari-reading-list = Leslisti (Frá Safari)
 imported-edge-reading-list = Leslisti (Frá Edge)
 
-# Import Sources
-# Note: When adding an import source for profile reset, add the string name to
-# resetProfile.js if it should be listed in the reset dialog.
+## Browser data types
+## All of these strings get a $browser variable passed in.
+## You can use the browser variable to differentiate the name of items,
+## which may have different labels in different browsers.
+## The supported values for the $browser variable are:
+## 360se
+## chrome
+## edge
+## firefox
+## safari
+## The various beta and development versions of edge and chrome all get
+## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-ie-1 =
-    .label = Internet stillingar
-    .value = Internet stillingar
-browser-data-edge-1 =
-    .label = Stillingar
-    .value = Stillingar
-browser-data-safari-1 =
-    .label = Valkostir
-    .value = Valkostir
-browser-data-chrome-1 =
-    .label = Valkostir
-    .value = Valkostir
-browser-data-canary-1 =
-    .label = Valkostir
-    .value = Valkostir
-browser-data-360se-1 =
-    .label = Valkostir
-    .value = Valkostir
-browser-data-ie-2 =
-    .label = Smákökur
-    .value = Smákökur
-browser-data-edge-2 =
-    .label = Smákökur
-    .value = Smákökur
-browser-data-safari-2 =
-    .label = Smákökur
-    .value = Smákökur
-browser-data-chrome-2 =
-    .label = Smákökur
-    .value = Smákökur
-browser-data-canary-2 =
-    .label = Smákökur
-    .value = Smákökur
-browser-data-firefox-2 =
-    .label = Smákökur
-    .value = Smákökur
-browser-data-360se-2 =
-    .label = Smákökur
-    .value = Smákökur
-browser-data-ie-4 =
-    .label = Ferill vafra
-    .value = Ferill vafra
-browser-data-edge-4 =
-    .label = Ferill vafra
-    .value = Ferill vafra
-browser-data-safari-4 =
-    .label = Ferill vafra
-    .value = Ferill vafra
-browser-data-chrome-4 =
-    .label = Ferill vafra
-    .value = Ferill vafra
-browser-data-canary-4 =
-    .label = Ferill vafra
-    .value = Ferill vafra
-browser-data-firefox-history-and-bookmarks-4 =
-    .label = Skoða feril og bókamerki
-    .value = Skoða feril og bókamerki
-browser-data-360se-4 =
-    .label = Ferill vafra
-    .value = Ferill vafra
-browser-data-ie-8 =
-    .label = Vistaðir eyðublaða ferlar
-    .value = Vistaðir eyðublaða ferlar
-browser-data-edge-8 =
-    .label = Vistaðir eyðublaða ferlar
-    .value = Vistaðir eyðublaða ferlar
-browser-data-safari-8 =
-    .label = Vistaðir eyðublaða ferlar
-    .value = Vistaðir eyðublaða ferlar
-browser-data-chrome-8 =
-    .label = Vistaðir eyðublaða ferlar
-    .value = Vistaðir eyðublaða ferlar
-browser-data-canary-8 =
-    .label = Vistaðir eyðublaða ferlar
-    .value = Vistaðir eyðublaða ferlar
-browser-data-firefox-8 =
-    .label = Vistaðir eyðublaða ferlar
-    .value = Vistaðir eyðublaða ferlar
-browser-data-360se-8 =
-    .label = Vistaðir eyðublaða ferlar
-    .value = Vistaðir eyðublaða ferlar
-browser-data-ie-16 =
-    .label = Vistuð lykilorð
-    .value = Vistuð lykilorð
-browser-data-edge-16 =
-    .label = Vistuð lykilorð
-    .value = Vistuð lykilorð
-browser-data-safari-16 =
-    .label = Vistuð lykilorð
-    .value = Vistuð lykilorð
-browser-data-chrome-16 =
-    .label = Vistuð lykilorð
-    .value = Vistuð lykilorð
-browser-data-canary-16 =
-    .label = Vistuð lykilorð
-    .value = Vistuð lykilorð
-browser-data-firefox-16 =
-    .label = Vistuð lykilorð
-    .value = Vistuð lykilorð
-browser-data-360se-16 =
-    .label = Vistuð lykilorð
-    .value = Vistuð lykilorð
-browser-data-ie-32 =
-    .label = Uppáhald
-    .value = Uppáhald
-browser-data-edge-32 =
-    .label = Uppáhald
-    .value = Uppáhald
-browser-data-safari-32 =
-    .label = Bókamerki
-    .value = Bókamerki
-browser-data-chrome-32 =
-    .label = Bókamerki
-    .value = Bókamerki
-browser-data-canary-32 =
-    .label = Bókamerki
-    .value = Bókamerki
-browser-data-360se-32 =
-    .label = Bókamerki
-    .value = Bókamerki
-browser-data-ie-64 =
-    .label = Önnur gögn
-    .value = Önnur gögn
-browser-data-edge-64 =
-    .label = Önnur gögn
-    .value = Önnur gögn
-browser-data-safari-64 =
-    .label = Önnur gögn
-    .value = Önnur gögn
-browser-data-chrome-64 =
-    .label = Önnur gögn
-    .value = Önnur gögn
-browser-data-canary-64 =
-    .label = Önnur gögn
-    .value = Önnur gögn
-browser-data-firefox-other-64 =
-    .label = Önnur gögn
-    .value = Önnur gögn
-browser-data-360se-64 =
-    .label = Önnur gögn
-    .value = Önnur gögn
-browser-data-firefox-128 =
+browser-data-session-checkbox =
     .label = Gluggar og flipar
+browser-data-session-label =
     .value = Gluggar og flipar
