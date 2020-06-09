@@ -57,7 +57,6 @@ rcwn-avg-long = Nïm Junamilal
 rcwn-std-dev-long = Nïm Rutzalenik pa Rub'eyal
 rcwn-cache-slow = Eqal rutaqoya'l jumejyak
 rcwn-cache-not-slow = Man Eqal ta rutaqoya'l jumejyak
-
 about-networking-title = Chi rij ri rokisaxik ri b'ey
 about-networking-http = HTTP
 about-networking-sockets = Chuq'b'äl
@@ -80,6 +79,7 @@ about-networking-family = Ach'alalri'ïl
 about-networking-trr = TRR
 about-networking-addresses = Ochochib'äl
 about-networking-expires = Nik'is (Taq xil ch'utiramaj)
+about-networking-originAttributesSuffix = Ruk'u'x Jech'ojri'ïl
 about-networking-messages-sent = Taq rutzijol etaqon
 about-networking-messages-received = Taq rutzijol ek'ulun
 about-networking-bytes-sent = Taq wayt etaqon
