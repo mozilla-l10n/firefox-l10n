@@ -129,6 +129,9 @@ about-logins-copy-password-os-auth-dialog-message-win = Parolanızı kopyalamak 
 about-logins-copy-password-os-auth-dialog-message-macosx = kayıtlı parolayı kopyalama
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Hesaplarınızı dışa aktarmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = kayıtlı hesapları ve parolaları dışa aktarma
 
 ## Master Password notification
 
@@ -164,6 +167,7 @@ about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 about-logins-confirm-remove-dialog-confirm-button = Kaldır
 about-logins-confirm-export-dialog-title = Hesapları ve parolaları dışa aktarma
+about-logins-confirm-export-dialog-message = Parolalarınız okunabilir metin olarak kaydedilecek (örn. KotuP@r0la), yani dışa aktarılan dosyayı açabilen herkes parolalarınızı görebilecektir.
 about-logins-confirm-export-dialog-confirm-button = Dışa aktar…
 confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
 confirm-discard-changes-dialog-message = Kaydedilmemiş değişikliklerin tümü kaybolacak.
