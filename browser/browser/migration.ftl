@@ -94,6 +94,52 @@ imported-edge-reading-list = רשימת קריאה (מ־Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = עוגיות
+browser-data-cookies-label =
+    .value = עוגיות
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] היסטוריית גלישה וסימניות
+           *[other] היסטוריית גלישה
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] היסטוריית גלישה וסימניות
+           *[other] היסטוריית גלישה
+        }
+browser-data-formdata-checkbox =
+    .label = היסטוריית טפסים שמורים
+browser-data-formdata-label =
+    .value = היסטוריית טפסים שמורים
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = כניסות וססמאות שמורות
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = כניסות וססמאות שמורות
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] מועדפים
+            [edge] מועדפים
+           *[other] סימניות
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] מועדפים
+            [edge] מועדפים
+           *[other] סימניות
+        }
+browser-data-otherdata-checkbox =
+    .label = נתונים אחרים
+browser-data-otherdata-label =
+    .label = נתונים אחרים
 browser-data-session-checkbox =
     .label = חלונות ולשוניות
 browser-data-session-label =
