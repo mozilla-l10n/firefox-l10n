@@ -4,4 +4,5 @@
 
 account-encryption =
     .label = Criptografia de ponta a ponta
+account-otr-label = Troca de mensagens com criptografia (OTR)
 otr-encryption-title = Criptografia verificada
