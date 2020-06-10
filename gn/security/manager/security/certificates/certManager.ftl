@@ -15,6 +15,7 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Moakãhára
 certmgr-mine = Oguereko mboajepyréva ko'ã atyguasúpe omoha'eñóva
+certmgr-remembered = Ko’ã mboajepyréva ojepuru ojehecha hag̃ua ñanduti rendápe
 certmgr-people = Eguereko mboajepyréva marandurendápe oikuaaporãva ko'ã tapicha
 certmgr-servers = Eguereko mboajepyréva marandurendápe oikuaaporãva ko'ã mohendahavusúpe
 certmgr-ca = Oguereko mboajepyréva marandurendápe omoha'eñóva ko'ã moakãhára mboajehára
