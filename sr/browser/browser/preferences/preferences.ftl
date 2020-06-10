@@ -287,6 +287,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Користи { $app-name } (подразумевано)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Користите macOS подразумевану апликацију
+            [windows] Користите Windows подразумевану апликацију
+           *[other] Користите системску подразумевану апликацију
+        }
 applications-use-other =
     .label = Користи друго…
 applications-select-helper = Избор помоћног програма
@@ -496,6 +503,7 @@ home-prefs-topsites-description = Сајтови које највише пос�
 home-prefs-recommended-by-header =
     .label = Предложио { $provider }
 home-prefs-recommended-by-description = Одличан садржај из целог света, персонализован за вас
+home-prefs-recommended-by-description-update = Истакнути садржај са интернета, који обезбеђује { $provider }
 
 ##
 
