@@ -49,6 +49,7 @@
 
 <!ENTITY folderProps.name.label                  "Navn:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Ikonfarve:">
 <!ENTITY folderProps.color.accesskey             "I">
 <!ENTITY folderProps.reset.tooltip               "Gendan standardfarve">
 <!ENTITY folderProps.location.label              "Placering:">
@@ -58,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Rettigheder…">
 <!ENTITY privileges.button.accesskey             "R">
 <!ENTITY permissionsDesc.label                   "Du har følgende tilladelser:">
+<!ENTITY folderOtherUsers.label                  "Andre med adgang til denne mappe:">
 <!ENTITY folderType.label                        "Mappetype:">
 
 <!ENTITY folderQuotaTab.label                    "Kvote">
