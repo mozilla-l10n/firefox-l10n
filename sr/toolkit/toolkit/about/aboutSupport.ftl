@@ -119,6 +119,9 @@ sandbox-sys-call-number = Системски позив
 sandbox-sys-call-args = Аргументи
 safe-mode-title = Покушај безбедни режим
 restart-in-safe-mode-label = Рестартуј са онемогућеним додацима…
+clear-startup-cache-title = Покушајте да избришете предмеморију покретања
+clear-startup-cache-label = Избриши предмеморију покретања…
+startup-cache-dialog-title = Избриши предмеморију покретања
 
 ## Media titles
 
