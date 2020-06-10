@@ -119,6 +119,11 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Essayez en mode sans échec
 restart-in-safe-mode-label = Redémarrer avec les modules désactivés…
+clear-startup-cache-title = Essayez de vider le cache de démarrage
+clear-startup-cache-label = Vider le cache de démarrage…
+startup-cache-dialog-title = Vider le cache de démarrage
+startup-cache-dialog-body = Redémarrez { -brand-short-name } pour vider le cache de démarrage. Cela ne modifiera pas vos paramètres ni ne supprimera les extensions que vous avez ajoutées à { -brand-short-name }.
+restart-button-label = Redémarrer
 
 ## Media titles
 
