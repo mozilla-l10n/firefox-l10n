@@ -101,6 +101,18 @@ browser-data-cookies-checkbox =
     .label = Evästeet
 browser-data-cookies-label =
     .value = Evästeet
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Sivuhistoria ja kirjanmerkit
+           *[other] Sivuhistoria
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Sivuhistoria ja kirjanmerkit
+           *[other] Sivuhistoria
+        }
 browser-data-formdata-checkbox =
     .label = Tallennetut lomaketiedot
 browser-data-formdata-label =
