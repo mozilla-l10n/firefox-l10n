@@ -4,6 +4,8 @@
 
 account-encryption =
     .label = Chiffrement de bout en bout
+account-otr-label = Messagerie Off-the-Record (OTR)
+account-otr-description = { -brand-short-name } prend en charge le chiffrement de bout en bout des conversations en tête-à-tête. Cela empêche ainsi des tiers d’intercepter une conversation. Le chiffrement de bout en bout ne peut être utilisé que lorsque l’autre personne utilise également un logiciel prenant en charge OTR.
 otr-encryption-title = Chiffrement vérifié
 otr-encryption-caption = Pour permettre aux autres de vérifier votre identité dans les discussions en ligne OTR, partagez votre empreinte OTR personnelle en utilisant un canal de communication extérieur (hors bande).
 otr-fingerprint-label = Votre empreinte :
