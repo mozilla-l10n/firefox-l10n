@@ -32,6 +32,7 @@ menu =
     .title = เปิดเมนู
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = นำเข้าจากเบราว์เซอร์อื่น…
+about-logins-menu-menuitem-export-logins = ส่งออกข้อมูลการเข้าสู่ระบบ ...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ตัวเลือก
@@ -159,6 +160,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ลบการเข้าสู่ระบบนี้?
 confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
 about-logins-confirm-remove-dialog-confirm-button = ลบ
+about-logins-confirm-export-dialog-confirm-button = ส่งออก…
 confirm-discard-changes-dialog-title = ละทิ้งการเปลี่ยนแปลงที่ยังไม่ได้บันทึก?
 confirm-discard-changes-dialog-message = การเปลี่ยนแปลงที่ยังไม่ได้บันทึกทั้งหมดจะสูญหาย
 confirm-discard-changes-dialog-confirm-button = ละทิ้ง
@@ -194,3 +196,14 @@ about-logins-error-message-default = เกิดข้อผิดพลาด�
 
 ## Login Export Dialog
 
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = ส่งออก
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] ไฟล์ CSV
+       *[other] ไฟล์ CSV
+    }
