@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Smiley">
 <!ENTITY insertSmiley.accesskey "S">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Tutup Mulut">
 <!ENTITY smiley16Cmd.accesskey "T">
 <!ENTITY smiley16Cmd.tooltip "Masukkan muka tutup mulut">
-<!ENTITY SmileButton.tooltip "Masukkan smiley">
-
+<!ENTITY SmileButton.label "Masukkan Smiley">
+<!ENTITY SmileButton.tooltip "Masukkan wajah tersenyum">
