@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "b">
 <!ENTITY newAddressBookCmd.label                        "Imedlis n tensa…">
 <!ENTITY newAddressBookCmd.accesskey                    "m">
+<!ENTITY newCardDAVBookCmd.label                        "Imedlis n tensa CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Akaram LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Izen">
