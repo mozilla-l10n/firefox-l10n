@@ -149,6 +149,8 @@ password-warning =
        *[other] Info masuk tersimpan mungkin telah terekspos dalam pelanggaran data. Ubah kata sandi ini untuk keamanan daring yang lebih baik. <a data-l10n-name="lockwise-link">Lihat Info Masuk yang Disimpan</a>
     }
 monitor-no-breaches-title = Kabar baik!
+monitor-view-report-link = Lihat Laporan
+    .title = Atasi pelanggaran pada { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
