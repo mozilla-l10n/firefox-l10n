@@ -425,6 +425,7 @@
 <!ENTITY deleteButton.label "Apagar">
 <!ENTITY undeleteButton.label "Restaurar">
 <!ENTITY markButton.label "Marcar">
+<!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar">
 <!ENTITY junkButton.label "Lixo eletrónico">
 <!ENTITY notJunkButton.label "Não é lixo eletrónico">
@@ -448,6 +449,7 @@
 <!ENTITY deleteButton.tooltip "Apagar pasta ou mensagem selecionada">
 <!ENTITY undeleteButton.tooltip "Restaurar mensagem selecionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
+<!ENTITY printButton.tooltip "Imprimir esta mensagem">
 <!ENTITY stopButton.tooltip "Parar descarga em curso">
 <!ENTITY throbber.tooltip "Ir para a página inicial do &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ir para a página inicial do &brandShortName;">
