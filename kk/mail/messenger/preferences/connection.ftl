@@ -4,6 +4,15 @@
 
 connection-dns-over-https-url-resolver = Провайдерді қолдану
     .accesskey = й
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Бастапқы)
+    .tooltiptext = HTTPS арқылы DNS шешу кезінде бастапқы URL қолдану
+connection-dns-over-https-url-custom =
+    .label = Таңдауыңызша
+    .accesskey = д
+    .tooltiptext = HTTPS арқылы DNS шешу үшін өзіңіздің URL-ын енгізіңіз
 connection-dns-over-https-custom-label = Таңдауыңызша
 connection-dialog-window =
     .title = Байланыс баптаулары
