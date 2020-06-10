@@ -36,6 +36,9 @@ msgevent-rcvdmsg_unencrypted = { $name } контактінен алынған �
 msgevent-rcvdmsg_unrecognized = Сіз { $name } контактінен танылмайтын OTR хабарламасын алдыңыз.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } контакті басқа сессияға арналған хабарламаны жіберген. Сіз бірнеше жерден кірсеңіз, хабарламаны басқа сессия алғаны мүмкін.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = { $name } контактімен жеке сөйлесу басталды.
 # Variables:
 #   $name (String) - the screen name of a chat contact person

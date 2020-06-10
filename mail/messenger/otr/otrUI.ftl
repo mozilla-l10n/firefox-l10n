@@ -26,6 +26,12 @@ alert-refresh = { $name } контактімен шифрленген сөйле
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = { $name } контактімен шифрленген сөйлесу аяқталды.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = { $name } контактінің жеке басы әлі расталмаған. Сөйлесулерді жасырын тыңдау оңай емес, бірақ біреу тырысса, оны тыңдай алады. Бұл контактінің жеке басын растау арқылы бақылауға жол бермеңіз.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } сізге танылмайтын компьютерден хабарласуда. Сөйлесулерді жасырын тыңдау оңай емес, бірақ біреу тырысса, оны тыңдай алады. Бұл контактінің жеке басын растау арқылы бақылауға жол бермеңіз.
 state-not_private = Ағымдағы сөйлесу жеке емес.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
