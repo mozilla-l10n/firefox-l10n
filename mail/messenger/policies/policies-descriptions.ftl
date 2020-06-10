@@ -64,6 +64,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op spesifike websites 
 policy-LocalFileLinks = Spesifike websites tastean te keppeljen nei lokale bestannen.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) yn- of útskeakelje.
 policy-OfferToSaveLogins = De ynstelling foar it tastean dat { -brand-short-name } oanbiede mei bewarre oanmeldingen en wachtwurden te ûnthâlden ôftwinge. Sawol de wearde true as false wurdt akseptearre.
+policy-OfferToSaveLoginsDefault = De standertwearde ynstelle foar it tastean dat { -brand-short-name } oanbiede mei bewarre oanmeldingen en wachtwurden te ûnthâlden ôftwingje. Sawol de wearde true as false wurdt akseptearre.
 policy-OverrideFirstRunPage = De side foar earste kear útfiere ferfange. Stel dizze beliedsrigel yn op leech as jo de belutsene side útskeakelje wolle.
 policy-OverridePostUpdatePage = De side ‘Wat is der nij’ nei in fernijing ferfange. Stel dizze beliedsrigel yn op leech as jo de belutsene side útskeakelje wolle.
 policy-PasswordManagerEnabled = Bewarjen fan wachtwurden yn de wachtwurdbehearder ynskeakelje.
