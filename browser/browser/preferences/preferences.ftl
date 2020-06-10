@@ -506,6 +506,7 @@ home-prefs-topsites-description = Sydła, kotrež najhusćišo wopytujeće
 home-prefs-recommended-by-header =
     .label = Wot { $provider } doporučeny
 home-prefs-recommended-by-description = Wulkotny wobsah z cyłeho weba, wubrany specielnje za was
+home-prefs-recommended-by-description-update = Wurjadny wobsah z cyłeho weba, wubrany wot { $provider }
 
 ##
 

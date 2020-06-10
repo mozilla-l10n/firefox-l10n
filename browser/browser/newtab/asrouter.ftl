@@ -249,3 +249,4 @@ cfr-whatsnew-protections-icon-alt = Tarčowy symbol
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Lěpše PDF-dožiwjenje
+cfr-whatsnew-better-pdf-body = PDF-dokumenty so nětko direktnje w { -brand-short-name } wočinjeja, bjeztoho zo byšće dyrbjał dźěłowy wotběh přetorhnyć.
