@@ -241,6 +241,11 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Слика-у-слици иконица
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Заштита на први поглед
+cfr-whatsnew-protections-body = Контролна табла заштите укључује сажетке извештаја о цурењу података и управљању лозинком. Сада можете пратити број решених цурења и видети да ли је и нека од ваших сачуваних лозинки била изложена цурењу података.
+cfr-whatsnew-protections-cta-link = Погледај контролну таблу заштите
+cfr-whatsnew-protections-icon-alt = Иконица штита
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Боље PDF искуство
+cfr-whatsnew-better-pdf-body = PDF документи се сада отварају директно у { -brand-short-name }-у, олакшавајући ток рада.
