@@ -4,7 +4,6 @@
 
 <!-- extracted from am-main.xul -->
 
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Тіркелгі баптаулары">
@@ -16,6 +15,8 @@
 <!ENTITY name.accesskey "ы">
 <!ENTITY email.label "Эл. пошта адресі:">
 <!ENTITY email.accesskey "Э">
+<!ENTITY catchAll.label "Жеткізу тақырыптамалары сәйкес болған кезде, мына жеке мәліметтерден жауап беру:">
+<!ENTITY catchAll.accesskey "д">
 <!ENTITY replyTo.label "Жауап беру адресі:">
 <!ENTITY replyTo.accesskey "Ж">
 <!ENTITY replyTo.placeholder "Алушылар бұл басқа адреске жауап береді">
@@ -38,8 +39,8 @@
 
 <!ENTITY manageIdentities.label "Жеке мәліметтерді басқару…">
 <!ENTITY manageIdentities.accesskey "б">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Шығыс сервер (SMTP):">
 <!ENTITY smtpName.accesskey "ы">
 <!ENTITY smtpDefaultServer.label "Негізгі серверді қолдану">

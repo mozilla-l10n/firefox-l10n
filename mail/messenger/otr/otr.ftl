@@ -9,6 +9,9 @@ msgevent-encryption_required_part2 = Жеке сөйлесуді бастау т
 msgevent-encryption_error = Хабарламаңызды шифрлеу кезінде қате орын алды. Хабарлама жіберілмеді.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-connection_ended = { $name } контакті сізбен ашылған шифрленген байланысты жапқан, Сіздің байқаусыздан шифрленбеген хабарламаны жіберуге жол бермеу үшін, хабарлама жіберілмеді. Шифрленген сөйлесуді аяқтаңыз, немесе оны қайта бастаңыз.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = { $name } контактімен жеке сөйлесуді баптау кезінде қате орын алды.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-msg_reflected = Сіз өзіңіздің OTR хабарлармаларыңызды алып отырсыз. Сіз өз-өзіңізбен сөйлесуге тырысып жатырсыз немесе біреу сіздің хабарламаларыңызды сізге қайтарып жатыр.
@@ -24,6 +27,14 @@ msgevent-rcvdmsg_unreadable = Сіз { $name } контактінен оқылм
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_malformed = Сіз { $name } контактінен деректер пішімі қате болып тұрған хабарламаны алдыңыз.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = { $name } контактінен синхрондау (Heartbeat) хабарламасы алынды.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = { $name } контактіне синхрондау (Heartbeat) хабарламасы жіберілді.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-rcvdmsg_general_err = Сөйлесуіңізді OTR көмегімен қорғау талабын жасау кезінде күтпеген қате орын алды.
 # Variables:
