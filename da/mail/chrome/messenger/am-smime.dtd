@@ -14,9 +14,19 @@
 <!ENTITY encryptionCert.message "Brug dette certifikat til kryptering og dekryptering af meddelelser:">
 
 <!ENTITY e2eTitle.label "End to end-kryptering">
+<!ENTITY e2eIntro.description "For at sende krypterede eller digitalt underskrevne meddelelser, skal du konfigurere en krypteringsteknologi, enten OpenPGP eller S/MIME.">
+<!ENTITY e2eLearnMore.label "Læs mere">
 
+<!ENTITY e2eeReqWarning.description "Hvis du vil bruge kryptering, har brug for alle modtageres offentlige nøgler eller certifikater for at sende en meddelelse.">
 
+<!ENTITY e2eSigning.description "Med en digital signatur kan modtagerne kontrollere, at meddelelsen kommer fra dig, og at indholdet ikke er blevet ændret.">
+<!ENTITY e2eTechPref.description "Foretrukken krypteringsteknologi:">
 
+<!ENTITY doNotEncrypt.label "Anvend ikke kryptering som standard">
+<!ENTITY doNotEncrypt.accesskey "I">
+<!ENTITY requireEncryptMessage.label "Anvend kryptering som standard">
+<!ENTITY requireEncryptMessage.accesskey "A">
+<!ENTITY encryptionCert2.message "Personligt certifikat til kryptering:">
 <!ENTITY digitalSign.certificate.button "Vælg…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Ryd">
@@ -27,6 +37,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "y">
 <!ENTITY signingGroupTitle.label "Digital signatur">
 <!ENTITY signMessage.label "Signer meddelelser digitalt (standard)">
+<!ENTITY signMessage2.label "Tilføj min digitale signatur som standard">
 <!ENTITY signMessage.accesskey "S">
 <!ENTITY signingCert.message "Brug dette certifikat til at signere meddelelser:">
 
@@ -37,8 +48,14 @@
 <!ENTITY manageDevices.accesskey "h">
 
 
+<!ENTITY sendingDefaults.label "Standardindstillinger for afsendelse af meddelelser">
 
+<!ENTITY technologyAutomatic.label "Vælg automatisk ud fra tilgængelige nøgler eller certifikater">
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Håndter S/MIME-certifikater">
+<!ENTITY manageCerts3.accesskey "H">
+<!ENTITY manageDevices2.label "S/MIME-sikkerhedsenheder">
 
 
 
