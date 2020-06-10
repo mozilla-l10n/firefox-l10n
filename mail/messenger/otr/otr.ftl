@@ -51,6 +51,19 @@ context-gone_secure_private = Privat samtale med { $name } startet.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_unverified = Krypteret, men ikke-bekræftet samtale med { $name } startet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Opdaterede den krypterede samtale med { $name }.
+error-enc = Der opstod en fejl under kryptering af meddelelsen.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Du sendte krypterede data til { $name }, som ikke forventede det.
+error-unreadable = Du sendte en ulæselig krypteret meddelelse.
+error-malformed = Du sendte en ugyldig datameddelelse.
+resent = [gensendt]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } har afsluttet sin krypterede samtale med dig; du bør gøre det samme.
 # Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
 # Make sure that this string does NOT contain any numbers, e.g. like "3".
 # Variables:
