@@ -4,3 +4,5 @@
 
 finger-yes = Ittwasenqeḍ
 finger-no = Ur yettwasenqed ara
+finger-subset-title = Kkes idsilen umḍinen
+finger-remove-all-title = Kkes akk idsilen umḍinen
