@@ -78,6 +78,8 @@ monitor-sign-up = Գրանցուեք խախտումների մասին ահազ�
 auto-scan = Այսաւր ինքնուրույն պատկերահանուել է։
 monitor-breaches-tooltip =
     .title = Դիտէք տուեալների արտահոսքի տեղեկատուութիւնը { -monitor-brand-short-name }- ով
+monitor-passwords-tooltip =
+    .title = Դիտէք բացայայտուած գաղտնաբառերը { -monitor-brand-short-name }-ով
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
