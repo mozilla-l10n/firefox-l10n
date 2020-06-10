@@ -349,7 +349,7 @@ applications-use-app-default =
     .label = Použít { $app-name } (výchozí)
 applications-use-os-default =
     .label =
-        Použít výchozí aplikaci
+        Použít výchozí aplikaci 
         { PLATFORM() ->
             [macos] systému macOS
             [windows] systému Windows
@@ -958,7 +958,7 @@ forms-master-pw-fips-desc = Neúspěšná změna hesla
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Pro nastavení hlavního hesla prosím zadejte své přihlašovací údaje Windows. Ty slouží jako ochrana a zabezpečení vašich účtů.
+master-password-os-auth-dialog-message-win = Pro nastavení hlavního hesla prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -1065,6 +1065,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Spravovat oprávnění…
     .accesskey = S
+sitedata-cookies-exceptions =
+    .label = Výjimky…
+    .accesskey = k
 
 ## Privacy Section - Address Bar
 
@@ -1079,6 +1082,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Otevřené panely
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = Top stránky
+    .accesskey = T
 addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 
 ## Privacy Section - Content Blocking
@@ -1138,7 +1144,7 @@ content-blocking-fingerprinters = Vytváření otisku prohlížeče
 content-blocking-warning-title = Pozor!
 content-blocking-warning-description = Blokování obsahu může omezit fungování některých stránek. Pro stránky, kterým důvěřujete, ho můžete snadno vypnout.
 content-blocking-learn-how = Jak na to?
-content-blocking-and-isolating-etp-warning-description = Blokování sledujícího obsahu a izolace cookies může ovlivnit fungování některých stránek. Pro zobrazení veškerého obsahu obnovte stránku s povolenými sledovacími prvky.
+content-blocking-and-isolating-etp-warning-description = Blokování sledujícího obsahu a izolace cookies může ovlivnit fungování některých stránek. Pro zobrazení veškerého obsahu znovu načtěte stránku s povolenými sledovacími prvky.
 content-blocking-warning-learn-how = Jak na to
 content-blocking-reload-description = Aby se změny projevily, načtěte znovu své panely.
 content-blocking-reload-tabs-button =
@@ -1175,8 +1181,8 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Spravovat výjimky…
-    .accesskey = p
+    .label = Výjimky…
+    .accesskey = k
 
 ## Privacy Section - Permissions
 
