@@ -71,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Skriftstørrelse">
 <!ENTITY FontSizeSelect.tooltip "Vælg skriftstørrelse">
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "M">
@@ -181,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Egenskaber for liste…">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "Afsnit">
 <!ENTITY ParagraphSelect.tooltip "Vælg et afsnitsformat">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Alm. tekst">
