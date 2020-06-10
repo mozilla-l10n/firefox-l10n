@@ -6,3 +6,4 @@ connection-window =
     .title = Маңызды жаңалықтар
 continue-button =
     .label = Жалғастыру
+main-text = Бұл { -brand-short-name } орнатуының жаңа профилі бар. Ол эл. пошта деректері, парольдер, пайдаланушы баптаулары және адрестік кітапшаларды бұл компьютердегі басқа { -brand-product-name } орнатуларымен бөліспейді (соның ішінде { -brand-product-name }, { -brand-product-name } Beta және { -brand-product-name } Daily).
