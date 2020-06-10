@@ -17,11 +17,23 @@ finger-verify = Растау
 finger-verify-accessKey = р
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = OTR баспасын қосу
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = { $name } контактімен шифрленген сөйлесуді бастау талабы жасалуда.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = { $name } контактімен шифрленген сөйлесуді жаңарту талабы жасалуда.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = { $name } контактімен шифрленген сөйлесу аяқталды.
 state-not_private = Ағымдағы сөйлесу жеке емес.
 state-not_private-label = Қауіпсіз емес
 state-unverified-label = Расталмаған
 state-private-label = Жеке
 state-finished-label = Аяқталған
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } контакті жеке басыңызды растауды сұрады.
 verify-title = Контактініздің жеке басын растау
 error-title = Қате
 success-title = Өтпелі шифрлеу
