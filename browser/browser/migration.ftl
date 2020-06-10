@@ -97,6 +97,20 @@ imported-edge-reading-list = Daftar Bacaan (Dari Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Kuki
+browser-data-cookies-label =
+    .value = Kuki
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Riwayat Jelajah dan Markah
+           *[other] Riwayat Jelajah
+        }
+browser-data-otherdata-checkbox =
+    .label = Data Lain
+browser-data-otherdata-label =
+    .label = Data Lain
 browser-data-session-checkbox =
     .label = Jendela dan Tab
 browser-data-session-label =
