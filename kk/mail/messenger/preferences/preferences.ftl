@@ -96,7 +96,14 @@ addons-button = Кеңейтімдер мен тақырыптар
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Басты парольді жасау үшін өзіңізді растаңыз.
+# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Басты парольді жасау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = басты парольді жасау
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
