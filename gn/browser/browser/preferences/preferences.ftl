@@ -401,7 +401,7 @@ performance-allow-hw-accel =
     .accesskey = r
 performance-limit-content-process-option = Tetepy ha tembe’y mba’eapo
     .accesskey = l
-performance-limit-content-process-enabled-desc = Umi taperekogua tetepy mbohetapy ikatu omopu'ã apopyre oipurúvo heta tendayke, hákatu avei oipurúta hetave mandu'arenda.
+performance-limit-content-process-enabled-desc = Umi taperekogua tetepy mbohetapy ikatu omopu’ã apopyre oipurúvo heta tendayke, hákatu avei oipurúta hetave mandu’arenda.
 performance-limit-content-process-blocked-desc = Pe mba’eapo papapy moambue retepy ikatu oiko mba’eapoita { -brand-short-name } ndive añónte. <a data-l10n-name="learn-more">Eikuaa mba’éichapa ehechajeýta mba’eapoita ijuruja jave</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -565,7 +565,7 @@ search-show-suggestions-private-windows =
     .label = Ehechauka jehekaha Windows ñemiguávape
 suggestions-addressbar-settings = Emoambue jerohoryvéva kundaha rembiasakuépe g̃uarã, techaukaha ha tendayke jepururã.
 suggestions-addressbar-settings-generic = Emoambue erohoryvéva ambue ñe’ãporãpe g̃uarã kundaharape rendápe
-search-suggestions-cant-show = Jeheka je'epyréva ndojekuaamo'ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu'a tembiasakuére.
+search-suggestions-cant-show = Jeheka je’epyréva ndojekuaamo’ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu’a tembiasakuére.
 search-one-click-header = Jehekaha mongu’eha jekutu peteĩva
 search-one-click-desc = Eiporavo hekaha mongu’eha mbojopyrukuaa ojekuaáva kundaharape ha jehekaha renda guýpe eñepyrũvo emoinge pe ñe’ẽ ñemigua.
 search-choose-engine-column =
@@ -831,12 +831,12 @@ history-header = Tembiasakue
 history-remember-label = { -brand-short-name } ikatútapa
     .accesskey = w
 history-remember-option-all =
-    .label = Tembiasakuére ñemandu'a
+    .label = Tembiasakuére ñemandu’a
 history-remember-option-never =
-    .label = Ani nemandu'a tembiasakuére
+    .label = Ani nemandu’a tembiasakuére
 history-remember-option-custom =
     .label = Eiporu peteĩ ñemboheko mba’etéva tembiasakuépe g̃uarã
-history-remember-description = { -brand-short-name } imandu'áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
+history-remember-description = { -brand-short-name } imandu’áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
 history-dontremember-description = { -brand-short-name } oipurujeýta ñemboheko kundaha ñemiguáva, ha noñongatumo’ãi mba’ekuaarã tembiasakuéva oikundahávo ñandutípe.
 history-private-browsing-permanent =
     .label = Kundaha ñemi jepuru tapia
