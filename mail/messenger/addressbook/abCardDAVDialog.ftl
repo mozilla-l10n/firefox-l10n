@@ -7,6 +7,7 @@ carddav-window =
 carddav-dialog =
     .buttonlabelaccept = Жалғастыру
     .buttonaccesskeyaccept = с
+carddav-experimental-warning = CardDAV адрестік кітапшаларын қолдау мүмкіндігі сынамалы түрде және деректеріңізді зақымдауы мүмкін. Өз тәуекеліңізге қолданыңыз.
 carddav-provider-label =
     .value = CardDAV провайдері:
     .accesskey = п
