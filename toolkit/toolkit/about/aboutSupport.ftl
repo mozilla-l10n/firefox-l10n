@@ -122,6 +122,8 @@ restart-in-safe-mode-label = Рестартуј са онемогућеним д
 clear-startup-cache-title = Покушајте да избришете предмеморију покретања
 clear-startup-cache-label = Избриши предмеморију покретања…
 startup-cache-dialog-title = Избриши предмеморију покретања
+startup-cache-dialog-body = Поново покрените { -brand-short-name } да бисте избрисали предмеморију покретања. Ово неће променити подешавања или уклонити проширења која сте додали у { -brand-short-name }.
+restart-button-label = Поново покрени
 
 ## Media titles
 
