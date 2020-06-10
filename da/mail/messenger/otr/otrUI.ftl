@@ -39,3 +39,14 @@ verify-request = { $name } anmodede om bekræftelse af din identitet.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 afterauth-private = Du har bekræftet { $name }s identitet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = { $name }s identitet er ikke bekræftet.
+error-title = Fejl
+success-title = End to end-kryptering
+fail-title = Kunne ikke bekræfte
+waiting-title = Bekræftelsesanmodning sendt
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Generering af privat OTR-nøgle mislykkedes: { $error }
