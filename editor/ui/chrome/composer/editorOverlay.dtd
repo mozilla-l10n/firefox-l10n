@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Skrifttype">
 <!ENTITY FontFaceSelect.tooltip "Vælg en skrifttype">
 <!ENTITY fontfaceMenu.label "Skrifttype">
 <!ENTITY fontfaceMenu.accesskey "S">
@@ -304,6 +305,7 @@
 <!ENTITY linkToolbarCmd.tooltip "Indsæt nyt link eller rediger egenskaberne for det markerede link">
 <!ENTITY anchorToolbarCmd.label "Linkmål">
 <!ENTITY anchorToolbarCmd.tooltip "Indsæt nyt linkmål eller rediger det markerede linkmåls egenskaber">
+<!ENTITY colorButtons.title "Farver">
 <!ENTITY TextColorButton.tooltip "Vælg tekstfarve">
 <!ENTITY BackgroundColorButton.tooltip "Vælg baggrundsfarve">
 <!ENTITY throbber.tooltip "Gå til &vendorShortName;s webside">
