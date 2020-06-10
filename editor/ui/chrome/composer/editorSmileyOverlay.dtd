@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Ansigt">
 <!ENTITY insertSmiley.accesskey "A">
+
 <!ENTITY smiley1Cmd.label "Smil">
 <!ENTITY smiley1Cmd.accesskey "S">
 <!ENTITY smiley1Cmd.tooltip "Indsæt smil">
@@ -52,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Lukket med syv segl">
 <!ENTITY smiley16Cmd.accesskey "m">
 <!ENTITY smiley16Cmd.tooltip "Indsæt lukket med syv segl">
+<!ENTITY SmileButton.label "Indsæt smiley">
 <!ENTITY SmileButton.tooltip "Indsæt smiley">
