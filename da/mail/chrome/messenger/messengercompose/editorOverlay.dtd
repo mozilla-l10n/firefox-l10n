@@ -206,7 +206,7 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Lag">
-<!ENTITY layerSendToBack.tooltip "Flyt bagud">
+<!ENTITY layerSendToBack.tooltip "Placer bagerst">
 <!ENTITY layerBringToFront.tooltip "Flyt frem">
 
 <!ENTITY increaseIndent.label "Forøg indrykning">
@@ -294,6 +294,8 @@
 <!ENTITY findToolbarCmd.tooltip "Søg tekst på siden">
 <!ENTITY spellToolbarCmd.label "Stavekontrol">
 <!ENTITY spellToolbarCmd.tooltip "Stavekontrol af markering eller hele siden">
+
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Billede">
 <!ENTITY imageToolbarCmd.tooltip "Indsæt nyt billede eller rediger det markerede billedes egenskaber">
 <!ENTITY hruleToolbarCmd.label "Vandret linje">
