@@ -126,6 +126,11 @@ about-logins-copy-password-os-auth-dialog-message-win = Để sao chép mật kh
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = sao chép mật khẩu đã lưu
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Để xuất ra thông tin đăng nhập của bạn, hãy nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo mật tài khoản của bạn.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = xuất thông tin đăng nhập và mật khẩu
 
 ## Master Password notification
 

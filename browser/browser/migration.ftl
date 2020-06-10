@@ -97,6 +97,48 @@ imported-edge-reading-list = Đang đọc danh sách (từ Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookie
+browser-data-cookies-label =
+    .value = Cookie
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Lịch sử duyệt web và trang đánh dấu
+           *[other] Lịch sử duyệt web
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Lịch sử duyệt web và trang đánh dấu
+           *[other] Lịch sử duyệt web
+        }
+browser-data-formdata-checkbox =
+    .label = Lịch sử biểu mẫu đã lưu
+browser-data-formdata-label =
+    .value = Lịch sử biểu mẫu đã lưu
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Thông tin đăng nhập và mật khẩu đã lưu
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Thông tin đăng nhập và mật khẩu đã lưu
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Trang ưa thích
+            [edge] Trang ưa thích
+           *[other] Trang đánh dấu
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Trang ưa thích
+            [edge] Trang ưa thích
+           *[other] Trang đánh dấu
+        }
 browser-data-session-checkbox =
     .label = Cửa Sổ và Thẻ
 browser-data-session-label =
