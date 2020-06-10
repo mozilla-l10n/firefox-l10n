@@ -864,9 +864,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded2 "Marandu remondóva ko kuatiaroguépe ikatu ohecha ambue tapicha (ñe'ẽñemíramo, ñe'ẽmondo, kuatia'atã ñemurã ha ambue).">
 <!ENTITY identity.description.customRoot "Mozilla nomoneĩri ko mboajepyre me’ẽhápe. Ikatu oñembojuaju apopyvusu oku’éva térã ñangarekoha rupive.">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Ñemo'ã myandy">
+<!ENTITY identity.enableMixedContentBlocking.label "Ñemo’ã myandy">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "Emonge ñemo'ã sapy'aite">
+<!ENTITY identity.disableMixedContentBlocking.label "Emonge ñemo’ã sapy’aite">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Kuaave">
 
