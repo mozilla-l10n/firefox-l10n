@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Privilegis…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Ti has ils suandants permess:">
+<!ENTITY folderOtherUsers.label                  "Autras persunas cun access a quest ordinatur:">
 <!ENTITY folderType.label                        "Tip dad ordinatur:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
