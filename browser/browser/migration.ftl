@@ -97,6 +97,52 @@ imported-edge-reading-list = Olvasási lista (az Edge-ből)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Sütik
+browser-data-cookies-label =
+    .value = Sütik
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Böngészési előzmények és könyvjelzők
+           *[other] Böngészési előzmények
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Böngészési előzmények és könyvjelzők
+           *[other] Böngészési előzmények
+        }
+browser-data-formdata-checkbox =
+    .label = Mentett űrlapadatok
+browser-data-formdata-label =
+    .value = Mentett űrlapadatok
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Mentett bejelentkezések és jelszavak
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Mentett bejelentkezések és jelszavak
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Kedvencek
+            [edge] Kedvencek
+           *[other] Könyvjelzők
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Kedvencek
+            [edge] Kedvencek
+           *[other] Könyvjelzők
+        }
+browser-data-otherdata-checkbox =
+    .label = További adatok
+browser-data-otherdata-label =
+    .label = További adatok
 browser-data-session-checkbox =
     .label = Ablakok és lapok
 browser-data-session-label =

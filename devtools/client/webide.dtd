@@ -86,7 +86,7 @@
 <!ENTITY details_error_header "hibák">
 <!ENTITY details_description "Leírás">
 <!ENTITY details_location "Hely">
-<!ENTITY details_manifestURL "App azonosító">
+<!ENTITY details_manifestURL "Alkalmazásazonosító">
 <!ENTITY details_removeProject_button "Projekt eltávolítása">
 
 <!-- New App -->
