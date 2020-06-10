@@ -145,6 +145,8 @@ onboarding-facebook-container-title = Поставите границе с Faceb
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } држи ваш профил одвојеним од свега осталог и на тај начин отежава Facebook-у да вас бомбардује рекламама.
 onboarding-facebook-container-button = Додајте проширење
 onboarding-import-browser-settings-title = Увезите ваше обележиваче, лозинке и више
+onboarding-import-browser-settings-text = Слободно истражите — понесите са собом Chrome странице и подешавања.
+onboarding-import-browser-settings-button = Увезите Chrome податке
 
 ## Message strings belonging to the Return to AMO flow
 
