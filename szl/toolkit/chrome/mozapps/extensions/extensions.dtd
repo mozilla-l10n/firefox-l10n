@@ -65,6 +65,9 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Ladowanie…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Przi ladowaniu informacyji ô wydaniu pokozoł sie feler.">
 
+<!ENTITY addon.createdBy.label                "Ôd">
 
+<!ENTITY settings.path.button.label           "Przeglōndej…">
 
 <!-- addon actions -->
+<!ENTITY setting.learnmore "Przewiydz sie wiyncyj…">
