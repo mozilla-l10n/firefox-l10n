@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Próbálja ki ezt: Lap rögzítése
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miért látom ezt
-
 cfr-doorhanger-extension-cancel-button = Most nem
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Hozzáadás most
     .accesskey = a
 cfr-doorhanger-pintab-ok-button = Lap rögzítése
     .accesskey = r
-
 cfr-doorhanger-extension-manage-settings-button = Ajánlási beállítások kezelése
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Ne mutassa ezt az ajánlást
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = További tudnivalók
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = szerző: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Javaslat
-
 cfr-doorhanger-extension-notification2 = Javaslat
     .tooltiptext = Kiegészítőjavaslat
     .a11y-announcement = Kiegészítőjavaslat érhető el
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Javaslat
@@ -68,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } felhasználó
        *[other] { $total } felhasználó
     }
-
 cfr-doorhanger-pintab-description = Kapjon könnyű hozzáférést a leggyakrabban használt webhelyekhez. Tartsa nyitva a webhelyeket egy lapon (akkor is, ha újraindítja a böngészőt).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -76,10 +66,8 @@ cfr-doorhanger-pintab-description = Kapjon könnyű hozzáférést a leggyakrabb
 cfr-doorhanger-pintab-step1 = <b>Kattintson a jobb egérgombbal</b> a rögzítendő lapra.
 cfr-doorhanger-pintab-step2 = Válassza a <b>Lap rögzítése</b> lehetőséget a menüből.
 cfr-doorhanger-pintab-step3 = Ha a webhely frissült, akkor egy kék pont jelenik meg a rögzített lapon.
-
 cfr-doorhanger-pintab-animation-pause = Szünet
 cfr-doorhanger-pintab-animation-resume = Folytatás
-
 
 ## Firefox Accounts Message
 
@@ -101,26 +89,20 @@ cfr-protections-panel-link-text = További tudnivalók
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Új funkciók:
-
 cfr-whatsnew-button =
     .label = Újdonságok
     .tooltiptext = Újdonságok
-
 cfr-whatsnew-panel-header = Újdonságok
-
 cfr-whatsnew-release-notes-link-text = Olvassa el a kiadási megjegyzéseket
-
 cfr-whatsnew-fx70-title = A { -brand-short-name } mostantól még keményebben küzd az adatvédelemért
 cfr-whatsnew-fx70-body =
     A legújabb frissítés továbbfejleszti a Követésvédelem funkciót, és könnyebbé
     teszi a biztonságos jelszavak létrehozását, mint valaha, minden oldalon.
-
 cfr-whatsnew-tracking-protect-title = Védje magát a nyomkövetőktől
 cfr-whatsnew-tracking-protect-body =
     A { -brand-short-name } számos közismert közösségi média és weboldalak közti
     nyomkövetőt blokkol, melyek követik Önt online.
 cfr-whatsnew-tracking-protect-link-text = Tekintse meg a jelentését
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -131,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } óta
 cfr-whatsnew-tracking-blocked-link-text = Jelentés megtekintése
-
 cfr-whatsnew-lockwise-backup-title = Készítsen biztonsági másolatot a jelszavairól
 cfr-whatsnew-lockwise-backup-body = Állítson elő biztonságos jelszavakat, amelyeket elérhet, bárhol is jelentkezzen be.
 cfr-whatsnew-lockwise-backup-link-text = Kapcsolja be a biztonsági mentéseket
-
 cfr-whatsnew-lockwise-take-title = Vigye magával a jelszavait
 cfr-whatsnew-lockwise-take-body = A { -lockwise-brand-short-name } mobilalkalmazással bárhol biztonságosan hozzáférhet a jelszavaihoz.
 cfr-whatsnew-lockwise-take-link-text = Alkalmazás beszerzése
@@ -169,7 +149,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Ujjlenyomat-készítők blokkolva
     }
 cfr-whatsnew-fingerprinter-counter-body = A { -brand-shorter-name } számos ujjlenyomat-készítőt blokkol, amelyek titokban információt gyűjtenek az eszközéről és a műveleteiről, hogy hirdetési profilt építsenek Önről.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Ujjlenyomat-készítők
 cfr-whatsnew-fingerprinter-counter-body-alt = A { -brand-shorter-name } képes blokkolni az ujjlenyomat-készítőket, amelyek titokban információt gyűjtenek az eszközéről és a műveleteiről, hogy hirdetési profilt építsenek Önről.
@@ -251,3 +230,14 @@ cfr-whatsnew-passwords-icon-alt = Sebezhető jelszó kulcs ikonja
 cfr-whatsnew-pip-fullscreen-header = Tegye teljes képernyőre a kép a képben funkciót
 cfr-whatsnew-pip-fullscreen-body = Ha egy videót lebegő ablakba tesz, akkor most már dupla kattintással teljes képernyőjűvé teheti az ablakot.
 cfr-whatsnew-pip-fullscreen-icon-alt = Kép a képben ikon
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = A védelmekről röviden
+cfr-whatsnew-protections-cta-link = Védelmi vezérlőpult megtekintése
+cfr-whatsnew-protections-icon-alt = Pajzs ikon
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Jobb PDF-élmény
+cfr-whatsnew-better-pdf-body = A PDF-dokumentumok már közvetlenül a { -brand-short-name }ban nyílnak meg, így a munkafolyamata egyszerű maradhat.
