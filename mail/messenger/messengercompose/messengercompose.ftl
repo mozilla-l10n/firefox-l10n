@@ -7,9 +7,25 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = { $type } өрісін өшіру
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: түзету үшін Enter, өшіру үшін Delete басыңыз.
+       *[other] { $email }, { $count } ішінен 1: түзету үшін Enter, өшіру үшін Delete басыңыз.
+    }
 pill-action-edit =
     .label = Адресті түзету
     .accesskey = е
+pill-action-move-to =
+    .label = Кімге өрісіне жылжыту
+    .accesskey = к
+pill-action-move-cc =
+    .label = Көшірме өрісіне жылжыту
+    .accesskey = ш
+pill-action-move-bcc =
+    .label = Жасырын көшірме өрісіне жылжыту
+    .accesskey = ы
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
