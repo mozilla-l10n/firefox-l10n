@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Додајте проширење
 onboarding-import-browser-settings-title = Увезите ваше обележиваче, лозинке и више
 onboarding-import-browser-settings-text = Слободно истражите — понесите са собом Chrome странице и подешавања.
 onboarding-import-browser-settings-button = Увезите Chrome податке
+onboarding-personal-data-promise-title = Дизајниран за приватност
+onboarding-personal-data-promise-text = { -brand-product-name } поштује ваше податке тако што их прикупља мање, штити их и даје до знања на који начин их користи.
+onboarding-personal-data-promise-button = Прочитајте наше обећање
 
 ## Message strings belonging to the Return to AMO flow
 
