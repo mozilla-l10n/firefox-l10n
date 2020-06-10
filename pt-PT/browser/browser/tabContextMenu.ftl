@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Reabrir separador fechado
     .accesskey = b
+tab-context-close-multiple-tabs =
+    .label = Fechar múltiplos separadores
+    .accesskey = m
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir separador fechado
+            [one] Reabrir separador fechado
+           *[other] Reabrir separadores fechados
+        }
+    .accesskey = b
 close-tab =
     .label = Fechar separador
     .accesskey = c
