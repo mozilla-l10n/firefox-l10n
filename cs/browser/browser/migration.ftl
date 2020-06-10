@@ -97,6 +97,106 @@ imported-edge-reading-list = Seznam ke čtení (z Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Cookies
+            [chrome] Soubory cookie
+            [edge] Soubory cookie
+            [safari] Cookies
+           *[other] Cookies
+        }
+browser-data-cookies-label =
+    .value =
+        { $browser ->
+            [firefox] Cookies
+            [chrome] Soubory cookie
+            [edge] Soubory cookie
+            [safari] Cookies
+           *[other] Cookies
+        }
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Historie a záložky
+            [chrome] Historie
+            [edge] Historie
+            [safari] Historie
+           *[other] Historie
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Historie a záložky
+            [chrome] Historie
+            [edge] Historie
+            [safari] Historie
+           *[other] Historie
+        }
+browser-data-formdata-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Uložené formuláře
+            [chrome] Uložené formuláře
+            [edge] Vyplňování formulářů
+            [safari] Vyplňování formulářů
+           *[other] Uložené formuláře
+        }
+browser-data-formdata-label =
+    .value =
+        { $browser ->
+            [firefox] Uložené formuláře
+            [chrome] Uložené formuláře
+            [edge] Vyplňování formulářů
+            [safari] Vyplňování formulářů
+           *[other] Uložené formuláře
+        }
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Uložené přihlašovací údaje a hesla
+            [chrome] Uložená hesla
+            [edge] Uložená hesla
+            [safari] Hesla
+           *[other] Uložené přihlašovací údaje a hesla
+        }
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value =
+        { $browser ->
+            [firefox] Uložené přihlašovací údaje a hesla
+            [chrome] Uložená hesla
+            [edge] Uložená hesla
+            [safari] Hesla
+           *[other] Uložené přihlašovací údaje a hesla
+        }
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Záložky
+            [chrome] Záložky
+            [edge] Oblíbené položky
+            [ie] Oblíbené
+            [safari] Záložky a oblíbené
+           *[other] Záložky
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [firefox] Záložky
+            [chrome] Záložky
+            [edge] Oblíbené položky
+            [ie] Oblíbené
+            [safari] Záložky a oblíbené
+           *[other] Záložky
+        }
+browser-data-otherdata-checkbox =
+    .label = Ostatní data
+browser-data-otherdata-label =
+    .label = Ostatní data
 browser-data-session-checkbox =
     .label = Okna a panely
 browser-data-session-label =
