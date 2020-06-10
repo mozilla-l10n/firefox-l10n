@@ -9,7 +9,31 @@ msgevent-encryption_required_part2 = Жеке сөйлесуді бастау т
 msgevent-encryption_error = Хабарламаңызды шифрлеу кезінде қате орын алды. Хабарлама жіберілмеді.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-setup_error = { $name } контактімен жеке сөйлесуді баптау кезінде қате орын алды.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Сіз өзіңіздің OTR хабарлармаларыңызды алып отырсыз. Сіз өз-өзіңізбен сөйлесуге тырысып жатырсыз немесе біреу сіздің хабарламаларыңызды сізге қайтарып жатыр.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = { $name } үшін соңғы хабарлама қайта жіберілді.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = { $name } контактінен алынған шифрленген хабарламаны оқу мүмкін емес, өйткені сіз қазір қауіпсіз түрде байланысқан жоқсыз.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = Сіз { $name } контактінен оқылмайтын шифрленген хабарламаны алдыңыз.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Сіз { $name } контактінен деректер пішімі қате болып тұрған хабарламаны алдыңыз.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Сөйлесуіңізді OTR көмегімен қорғау талабын жасау кезінде күтпеген қате орын алды.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = { $name } контактінен алынған келесі хабарлама шифрленбеген: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Сіз { $name } контактінен танылмайтын OTR хабарламасын алдыңыз.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = { $name } контактімен жеке сөйлесу басталды.
