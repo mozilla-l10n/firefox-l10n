@@ -8,11 +8,15 @@ auth-cancel = Бас тарту
 auth-cancelAccessKey = с
 finger-verify = Растау
 finger-verify-accessKey = р
+# Do not translate 'OTR' (name of an encryption protocol)
+buddycontextmenu-label = OTR баспасын қосу
+state-not_private = Ағымдағы сөйлесу жеке емес.
 state-not_private-label = Қауіпсіз емес
 state-unverified-label = Расталмаған
 state-private-label = Жеке
 state-finished-label = Аяқталған
 error-title = Қате
+success-title = Өтпелі шифрлеу
 fail-title = Растау мүмкін емес
 waiting-title = Растау сұранымы жіберілді
 # Do not translate 'OTR' (name of an encryption protocol)
