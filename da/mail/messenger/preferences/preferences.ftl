@@ -42,6 +42,22 @@ privacy-main-header = Privatliv
 privacy-passwords-header = Adgangskoder
 privacy-junk-header = Spam
 privacy-data-collection-header = Dataindsamling og -brug
+collection-header = Indsamling og brug af data i { -brand-short-name }
+collection-description = Vi stræber efter at give dig mulighed for selv at vælge og indsamler kun, hvad vi har brug for til at forbedre { -brand-short-name } for alle. Vi spørger altid om din tilladelse, før vi modtager personlig information.
+collection-privacy-notice = Privatlivspolitik
+collection-health-report-telemetry-disabled = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og data om brug. Alle tidligere data vil blive slettet indenfor 30 dage.
+collection-health-report-telemetry-disabled-link = Læs mere
+collection-health-report =
+    .label = Tillad at { -brand-short-name } indsender tekniske data og data om brug til { -vendor-short-name }
+    .accesskey = i
+collection-health-report-link = Læs mere
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
+collection-backlogged-crash-reports =
+    .label = Tillad at { -brand-short-name } sender ophobede fejlrapporter på dine vegne
+    .accesskey = f
+collection-backlogged-crash-reports-link = Læs mere
 privacy-security-header = Sikkerhed
 privacy-scam-detection-title = Svindelmails
 privacy-anti-virus-title = Antivirus
@@ -76,6 +92,17 @@ addons-button = Udvidelser og temaer
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Bekræft din identitet for at oprette en hovedadgangskode.
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at oprette en hovedadgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = oprette en hovedadgangskode
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
