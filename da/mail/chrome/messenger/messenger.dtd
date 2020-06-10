@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Søg i meddelelser…">
 <!ENTITY searchMailCmd.accesskey "S">
 <!ENTITY searchMailCmd.key "ø">
+<!ENTITY glodaSearchCmd.label "Global søgning…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Søg i adresser…">
 <!ENTITY searchAddressesCmd.accesskey "ø">
 
@@ -730,6 +732,8 @@
 <!ENTITY idColumn.label "Modtagelsesorden">
 <!ENTITY attachmentColumn.label "Vedhæftede filer">
 
+<!ENTITY deleteColumn.label "Slet">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vælg hvilke kolonner der skal vises">
 <!ENTITY selectColumn.tooltip "Marker/afmarker alle meddelelser">
@@ -753,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Sorter efter placering">
 <!ENTITY idColumn2.tooltip "Sorter efter modtagelsesorden">
 <!ENTITY attachmentColumn2.tooltip "Sorter efter vedhæftede filer">
+
+<!ENTITY deleteColumn.tooltip "Slet en meddelelse">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Ny meddelelse fra skabelon">
