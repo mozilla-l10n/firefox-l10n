@@ -32,10 +32,29 @@ finger-unseen = De identiteit fan { $name } is noch net ferifiearre. Ienfâldich
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } nimt kontakt mei jo op fan in ûnbekende kompjûter ôf. Ienfâldich ôflústerjen is net mooglik, mar mei wat muoite kin ien meilústerje. Foarkom ôflústerjen troch de identiteit fan it kontakt te ferifiearjen.
+state-not_private = It aktuele petear is net privee.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = It aktuele petear is fersifere mar net privee, omdat de identiteit fan { $name } noch net ferifiearre is.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = De identiteit fan { $name } is ferifiearre. It aktuele petear is fersifere en privee.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } hat syn/har fersifere konversaasje mei jo beëinige; jo moatte itselde dwaan.
 state-not_private-label = Unfeilich
 state-unverified-label = Net ferifiearre
 state-private-label = Privee
 state-finished-label = Foltôge
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } hat om ferifikaasje fan jo identiteit frege.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Jo hawwe de identiteit fan { $name } ferifiearre.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = De identiteit fan { $name } is net ferifiearre.
 verify-title = De identiteit fan jo kontakt ferifiearje
 error-title = Flater
 success-title = End-to-end-fersifering
