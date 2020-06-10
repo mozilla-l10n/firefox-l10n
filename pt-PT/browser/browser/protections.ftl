@@ -190,6 +190,8 @@ monitor-breaches-unresolved-description =
     as suas informações, pode marcar as violações de dados como resolvidas.
 monitor-manage-breaches-link = Gerir violações de dados
     .title = Gerir violações de dados no { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Muito bem! Resolveu todas as violações de dados conhecidas.
+monitor-breaches-resolved-description = Iremos informá-lo se o seu e-mail aparecer em novas violações de dados.
 monitor-partial-breaches-motivation-title-start = Ótimo começo!
 
 ## The title attribute is used to display the type of protection.
