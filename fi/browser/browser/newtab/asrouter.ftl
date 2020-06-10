@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Kokeile tätä: Kiinnitä välilehti
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miksi näen tämän
-
 cfr-doorhanger-extension-cancel-button = Ei nyt
     .accesskey = E
-
 cfr-doorhanger-extension-ok-button = Lisää nyt
     .accesskey = L
 cfr-doorhanger-pintab-ok-button = Kiinnitä tämä välilehti
     .accesskey = ä
-
 cfr-doorhanger-extension-manage-settings-button = Hallitse suositteluasetuksia
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Älä näytä tätä suositusta minulle
     .accesskey = n
-
 cfr-doorhanger-extension-learn-more-link = Lue lisää
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = tekijältä { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suositus
-
 cfr-doorhanger-extension-notification2 = Suositus
     .tooltiptext = Laajennussuositus
     .a11y-announcement = Laajennussuositus saatavilla
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Suositus
@@ -68,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } käyttäjä
        *[other] { $total } käyttäjää
     }
-
 cfr-doorhanger-pintab-description = Nopea pääsy suosikkisivustoillesi. Pidä sivustot avoinna välilehdissä jopa uudelleenkäynnistysten välillä.
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -76,10 +66,8 @@ cfr-doorhanger-pintab-description = Nopea pääsy suosikkisivustoillesi. Pidä s
 cfr-doorhanger-pintab-step1 = <b>Napsauta hiiren oikealla</b> välilehteä, jonka haluat kiinnittää.
 cfr-doorhanger-pintab-step2 = Valitse <b>Kiinnitä välilehti</b> valikosta.
 cfr-doorhanger-pintab-step3 = Jos sivustolla on tapahtunut päivitys, näet sinisen pisteen kiinnitetyssä välilehdessä.
-
 cfr-doorhanger-pintab-animation-pause = Tauko
 cfr-doorhanger-pintab-animation-resume = Jatka
-
 
 ## Firefox Accounts Message
 
@@ -101,26 +89,20 @@ cfr-protections-panel-link-text = Lue lisää
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Uusi ominaisuus:
-
 cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
-
 cfr-whatsnew-panel-header = Mitä uutta
-
 cfr-whatsnew-release-notes-link-text = Lue julkaisutiedote
-
 cfr-whatsnew-fx70-title = { -brand-short-name } taistelee nyt entistä lujemmin yksityisyytesi puolesta
 cfr-whatsnew-fx70-body =
     Viimeisin päivitys parantaa seurannan suojausta ja tekee entistä
     helpommaksi luoda turvallisen salasanan jokaiselle sivustolle.
-
 cfr-whatsnew-tracking-protect-title = Suojaa itsesi seuraimilta
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } estää monet yleisimmistä sosiaalisen median ja sivustorajat
     ylittävistä seuraimista, jotka seuraavat tekemisiäsi verkossa.
 cfr-whatsnew-tracking-protect-link-text = Näytä raportti
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -131,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } lähtien
 cfr-whatsnew-tracking-blocked-link-text = Näytä raportti
-
 cfr-whatsnew-lockwise-backup-title = Varmuuskopioi salasanasi
 cfr-whatsnew-lockwise-backup-body = Luo turvallisia salasanoja ja käytä niitä mistä hyvänsä kirjaudut sisään.
 cfr-whatsnew-lockwise-backup-link-text = Ota varmuuskopiot käyttöön
-
 cfr-whatsnew-lockwise-take-title = Ota salasanat mukaasi
 cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name }-mobiilisovellus mahdollistaa salasanojesi
@@ -171,7 +151,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Yksilöijiä estetty
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } estää monia yksilöijiä, jotka keräävät salaa tietoja laitteestasi ja toiminnastasi profiloidakseen sinua mainostustarkoituksiin.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Yksilöijät
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } voi estää yksilöijiä, jotka keräävät salaa tietoja laitteestasi ja toiminnastasi profiloidakseen sinua mainostustarkoituksiin.
@@ -252,3 +231,12 @@ cfr-whatsnew-passwords-icon-alt = Vaarantuneen salasanan avainkuvake
 cfr-whatsnew-pip-fullscreen-header = Vie kuva kuvassa -näkymä koko näytölle
 cfr-whatsnew-pip-fullscreen-body = Kun ponnahdutat videon kelluvaan ikkunaan, voit nyt kaksoisnapsauttaa kyseistä ikkunaa siirtyäksesi koko näytön tilaan.
 cfr-whatsnew-pip-fullscreen-icon-alt = Kuva kuvassa -kuvake
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-cta-link = Näytä suojausten yhteenveto
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Parempi PDF-kokemus
+cfr-whatsnew-better-pdf-body = PDF-tiedostot avautuvat nyt suoraan { -brand-short-name(case: "inessive") }, mikä saattaa helpottaa työskentelyäsi.
