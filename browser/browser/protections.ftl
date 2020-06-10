@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] pèrdas de donadas an divulgat vòstras informacions
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] divulgacion de donadas coneguda marcada coma resolvuda
+       *[other] divulgacions de donadas conegudas marcadas coma resolvuda
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -173,16 +181,21 @@ info-exposed-passwords-resolved =
        *[other] senhals divulgats demest totas las pèrdas de donadas pas regladas
     }
 monitor-no-breaches-title = Bona novèla !
+monitor-no-breaches-description = Sembla que sètz pas concernit per cap de divulgacion. Se per cas càmbia vos avisarem.
 monitor-view-report-link = Veire lo rapòrt
     .title = Resòlver las divulgacions sus { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Reglatz vòstras divulgacions de donadas
 monitor-manage-breaches-link = Gerir las divulgacions
     .title = Gerir las divulgacions sus { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Crane ! Avètz regladas totas las divulgacions de donadas conegudas.
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% acabat
 monitor-partial-breaches-motivation-title-start = Bona debuta !
 monitor-partial-breaches-motivation-title-middle = Gardatz lo ritme !
 monitor-partial-breaches-motivation-title-end = Gaireben terminat ! Anem !
+monitor-resolve-breaches-link = Resòlver vòstras divulgacions de donadas
+    .title = Resòlver vòstras divulgacions de donadas sus { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
