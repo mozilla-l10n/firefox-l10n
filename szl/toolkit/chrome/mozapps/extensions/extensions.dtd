@@ -38,14 +38,32 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "PRZEDOWNIŌNE">
+<!ENTITY addon.privateBrowsing.label          "PRZIZWOLŌNE WE PRYWATNYCH ÔKNACH">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(zastawiōne)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
+<!ENTITY addon.update.postfix                 "(aktualizacyjo)">
+<!ENTITY addon.undoAction.label               "Cofnij">
+<!ENTITY addon.undoAction.tooltip             "Cofnij ta akcyjo">
+<!ENTITY addon.undoRemove.label               "Cofnij">
+<!ENTITY addon.undoRemove.tooltip             "Ôstow te rozszyrzynie zainstalowane">
 
+<!ENTITY addon.install.label                  "Instaluj">
+<!ENTITY addon.install.tooltip                "Instaluj te rozszyrzynie">
+<!ENTITY addon.updateNow.label                "Aktualizuj teroz">
+<!ENTITY addon.updateNow.tooltip              "Instaluj aktualizacyjo tego rozszyrzynio">
+<!ENTITY addon.includeUpdate.label            "Przidej do instalowanio">
+<!ENTITY addon.updateAvailable.label          "Dostympno je aktualizacyjo">
+<!ENTITY addon.checkingForUpdates.label       "Badanie za aktualizacyjami…">
+<!ENTITY addon.releaseNotes.label             "Informacyje ô wydaniu:">
+<!ENTITY addon.loadingReleaseNotes.label      "Ladowanie…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Przi ladowaniu informacyji ô wydaniu pokozoł sie feler.">
 
 
 
