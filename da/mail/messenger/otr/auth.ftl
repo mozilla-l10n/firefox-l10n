@@ -15,6 +15,7 @@ auth-your-fp-value = Fingeraftryk for dig, { $own_name }:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Fingeraftryk for { $their_name }
 auth-help = Når du bekræfter en kontakts identitet, hjælper du med at sikre, at samtalen virkelig er privat, hvilket gør det meget vanskeligt for en tredjepart at lytte med på eller manipulere samtalen.
+auth-helpTitle = Hjælp til bekræftelse
 auth-questionReceived = Her er det spørgsmål, som din kontaktperson stiller:
 auth-yes =
     .label = Ja
@@ -30,3 +31,9 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-how = Hvordan vil du bekræfte din kontakts identitet?
+auth-qaInstruction = Tænk på et spørgsmål, som kun dig og din kontaktperson kender svaret på. Indtast spørgsmålet og svaret, og vent derefter på, at din kontaktperson indtaster svaret. Hvis svarene ikke stemmer overens, kan den kommunikationskanal, du bruger, være overvåget.
+auth-secretInstruction = Tænk på en hemmelighed, kun du og din kontaktperson kender til. Brug ikke den samme internetforbindelse til at udveksle hemmeligheden. Indtast hemmeligheden, og vent derefter på din kontaktperson indtaster den. Hvis hemmelighederne ikke stemmer overens, kan den kommunikationskanal, du bruger, være overvåget.
+auth-question = Indtast en spørgsmål:
+auth-answer = Indtast svaret (forskel på store og små bogstaver):
+auth-secret = Indtast hemmeligheden:
