@@ -43,3 +43,5 @@
 <!ENTITY removeSearchEngine.label         "Allontanar">
 <!ENTITY removeSearchEngine.accesskey     "o">
 
+<!ENTITY minimizeToTray.label             "Sche &brandShortName; è minimà, al spustar en la trav da notificaziuns">
+<!ENTITY minimizeToTray.accesskey         "m">

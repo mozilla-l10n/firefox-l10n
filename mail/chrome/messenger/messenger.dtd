@@ -732,6 +732,7 @@
 <!ENTITY idColumn.label "Successiun dad entrada">
 <!ENTITY attachmentColumn.label "Agiuntas">
 
+<!ENTITY deleteColumn.label "Stizzar">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Tscherner las colonnas che duain vegnir mussadas">
@@ -757,6 +758,7 @@
 <!ENTITY idColumn2.tooltip "Zavrar tenor successiun da retschavida">
 <!ENTITY attachmentColumn2.tooltip "Zavrar tenor agiuntas">
 
+<!ENTITY deleteColumn.tooltip "Stizzar in messadi">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nov messadi cun agid dad in model">
