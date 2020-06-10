@@ -43,3 +43,6 @@ attachment-bucket-count =
            *[other] Ticeqqufin yeddan { $count }
         }
     .accesskey = m
+#   { attachment-bucket-count.accesskey } - Do not localize this message.
+key-toggle-attachment-pane =
+    .key = { attachment-bucket-count.accesskey }
