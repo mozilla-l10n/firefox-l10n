@@ -40,7 +40,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree "Ehenói yvyra">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Omomba’e JavaScript rembiapo kundaha peguáva ohasa hetave aravo ñongatuete aja.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Tembiaporãme’ẽ">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ehechauka mamoitépa pe mandu'arenda oñemoĩ ñongatuete oiko aja.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ehechauka mamoitépa pe mandu’arenda oñemoĩ ñongatuete oiko aja.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS ta'ãnga rendy">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Ehechauka JavaScript ñehenói heta pe ñongatuete aja.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Ta'ãnga rendy mboheraite">
@@ -103,8 +103,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
-<!ENTITY performanceUI.enableMemory             "Mandu'arenda tuichaitereíva">
-<!ENTITY performanceUI.enableMemory.tooltiptext "Mandu'arenda jepuru jehaipy, ñembohape aja.">
+<!ENTITY performanceUI.enableMemory             "Mandu’arenda tuichaitereíva">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Mandu’arenda jepuru jehaipy, ñembohape aja.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
