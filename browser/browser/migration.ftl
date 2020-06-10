@@ -107,6 +107,20 @@ browser-data-history-label =
             [firefox] Riwayat Jelajah dan Markah
            *[other] Riwayat Jelajah
         }
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favorit
+            [edge] Favorit
+           *[other] Markah
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favorit
+            [edge] Favorit
+           *[other] Markah
+        }
 browser-data-otherdata-checkbox =
     .label = Data Lain
 browser-data-otherdata-label =
