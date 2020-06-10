@@ -235,6 +235,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Kuva kuvassa -kuvake
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-cta-link = Näytä suojausten yhteenveto
+cfr-whatsnew-protections-icon-alt = Kilpikuvake
 
 ## Better PDF message
 
