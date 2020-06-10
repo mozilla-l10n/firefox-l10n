@@ -31,6 +31,7 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-manualInstruction = Kontakt din påtænkte samtalepartner via en anden godkendt kanal, fx en OpenPGP-underskrevet mail eller over telefonen. Du skal fortælle hinanden jeres fingeraftryk (et fingeraftryk er en kontrolsum, der identificerer en krypteringsnøgle). Hvis fingeraftrykket stemmer overens, skal du markere herunder, at du har verificeret fingeraftrykket.
 auth-how = Hvordan vil du bekræfte din kontakts identitet?
 auth-qaInstruction = Tænk på et spørgsmål, som kun dig og din kontaktperson kender svaret på. Indtast spørgsmålet og svaret, og vent derefter på, at din kontaktperson indtaster svaret. Hvis svarene ikke stemmer overens, kan den kommunikationskanal, du bruger, være overvåget.
 auth-secretInstruction = Tænk på en hemmelighed, kun du og din kontaktperson kender til. Brug ikke den samme internetforbindelse til at udveksle hemmeligheden. Indtast hemmeligheden, og vent derefter på din kontaktperson indtaster den. Hvis hemmelighederne ikke stemmer overens, kan den kommunikationskanal, du bruger, være overvåget.
