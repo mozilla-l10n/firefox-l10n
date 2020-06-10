@@ -57,3 +57,13 @@ context-gone_secure_unverified = Fersifere, mar net-ferifiearre petear mei { $na
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = It fersifere petear mei { $name } is mei sukses fernijd.
+error-enc = Der is in flater bard by it fersiferjen fan it berjocht.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Jo hawwe fersifere gegevens ferstjoerd nei { $name }, dy't dit net ferwachtte.
+error-unreadable = Jo hawwe in net lêsber fersifere berjocht ferstjoerd.
+error-malformed = Jo hawwe in ûnjildich gegevensberjocht ferstjoerd.
+resent = [opnij ferstjoerd]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } hat syn/har fersifere konversaasje mei jo beëinige; jo moatte itselde dwaan.
