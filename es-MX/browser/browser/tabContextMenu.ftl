@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = Deshacer el cierre de la última pestaña
     .accesskey = h
+tab-context-close-multiple-tabs =
+    .label = Cerrar varias pestañas
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Deshacer cerrar pestaña
+           *[other] Deshacer cerrar pestañas
+        }
+    .accesskey = U
 close-tab =
     .label = Cerrar pestaña
     .accesskey = C
