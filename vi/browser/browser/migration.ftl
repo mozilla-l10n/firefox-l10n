@@ -139,6 +139,10 @@ browser-data-bookmarks-label =
             [edge] Trang ưa thích
            *[other] Trang đánh dấu
         }
+browser-data-otherdata-checkbox =
+    .label = Dữ liệu khác
+browser-data-otherdata-label =
+    .label = Dữ liệu khác
 browser-data-session-checkbox =
     .label = Cửa Sổ và Thẻ
 browser-data-session-label =
