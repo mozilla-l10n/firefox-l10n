@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  intro2.label                "Ôbrane do ôdewrzynio:">
+<!ENTITY  from.label                  "ze:">
+<!ENTITY  actionQuestion.label        "Co &brandShortName; mo zrobić z tym zbiorym?">
+
+<!ENTITY  openWith.label              "Ôdewrzij ze">
+<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  other.label                 "Inkszo aplikacyjo…">
+
+<!ENTITY  saveFile.label              "Spamiyntej zbiōr">
+<!ENTITY  saveFile.accesskey          "s">
+
+<!ENTITY  rememberChoice.label        "Rōb tak ôd teroz autōmatycznie ze wszyskimi takimi plikami.">
+<!ENTITY  rememberChoice.accesskey    "a">
+
+<!ENTITY  whichIs.label              "co je zbiorym typu:">
+
+<!ENTITY  chooseHandlerMac.label      "Ôbier…">
+<!ENTITY  chooseHandlerMac.accesskey  "O">
+<!ENTITY  chooseHandler.label         "Przeglōndej…">
+<!ENTITY  chooseHandler.accesskey     "P">
+
+<!ENTITY  unknownPromptText.label     "Chcesz spamiyntać tyn zbiōr?">
