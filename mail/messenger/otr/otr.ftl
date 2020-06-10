@@ -67,3 +67,8 @@ resent = [opnij ferstjoerd]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } hat syn/har fersifere konversaasje mei jo beëinige; jo moatte itselde dwaan.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } hat om in Off-the-record (OTR-)fersifere petear frege. Jo beskikke echter net oer de ynstekker om dat te stypjen. Sjoch https://en.wikipedia.org/wiki/Off-the-Record_Messaging foar mear ynformaasje.
