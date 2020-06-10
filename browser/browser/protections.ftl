@@ -188,12 +188,22 @@ monitor-breaches-unresolved-title = Reglatz vòstras divulgacions de donadas
 monitor-manage-breaches-link = Gerir las divulgacions
     .title = Gerir las divulgacions sus { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Crane ! Avètz regladas totas las divulgacions de donadas conegudas.
+monitor-breaches-resolved-description = Se vòstra adreça electronica apareis  dins una pèrda novèla de donadas, vos avisarem.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } pèrda sus { $numBreaches } marcada coma resolguda
+       *[other] { $numBreachesResolved } pèrdas sus { $numBreaches } marcadas coma resolgudas
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% acabat
 monitor-partial-breaches-motivation-title-start = Bona debuta !
 monitor-partial-breaches-motivation-title-middle = Gardatz lo ritme !
 monitor-partial-breaches-motivation-title-end = Gaireben terminat ! Anem !
+monitor-partial-breaches-motivation-description = Reglatz la rèsta de las pèrdas de donadas sus { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Resòlver vòstras divulgacions de donadas
     .title = Resòlver vòstras divulgacions de donadas sus { -monitor-brand-short-name }
 
