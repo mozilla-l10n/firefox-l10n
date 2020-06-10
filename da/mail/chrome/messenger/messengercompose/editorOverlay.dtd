@@ -207,7 +207,7 @@
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Lag">
 <!ENTITY layerSendToBack.tooltip "Placer bagerst">
-<!ENTITY layerBringToFront.tooltip "Flyt frem">
+<!ENTITY layerBringToFront.tooltip "Placer forrest">
 
 <!ENTITY increaseIndent.label "Forøg indrykning">
 <!ENTITY increaseIndent.accesskey "i">
