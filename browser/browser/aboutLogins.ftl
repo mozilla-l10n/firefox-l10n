@@ -43,6 +43,19 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } pe iPhone e iPad
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } acesso
+       *[other] { $count } acessi
+    }
+login-list-sort-label-text = Ordina pe:
+login-list-name-option = Nommi (A-Z)
+login-list-name-reverse-option = Nommi (Z-A)
+about-logins-login-list-alerts-option = Alarmi
+login-list-last-changed-option = Urtimo cangiamento
+login-list-last-used-option = Urtima vòtta
+login-list-intro-title = Nisciun acesso trovou
+about-logins-login-list-empty-search-title = Nisciun acesso trovou
 login-list-item-title-new-login = Nuovo login
 login-list-item-subtitle-missing-username = (nisciun nomme utente)
 about-logins-list-item-breach-icon =
