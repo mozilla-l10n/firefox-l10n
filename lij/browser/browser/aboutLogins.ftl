@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,14 +18,28 @@ login-app-promo-android =
     .alt = Piggitelo in sce Google Play
 login-app-promo-apple =
     .alt = Descarega da l'App Store
-
 login-filter =
     .placeholder = Çerca inti login
-
 create-login-button = Crea neuvo login
+fxaccounts-sign-in-button = Intra in { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Gestisci conto
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Arvi menû
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Inportâ da un atro navegatô…
+about-logins-menu-menuitem-export-logins = Espòrta acessi…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Preferense
+       *[other] Inpostaçioin
+    }
+about-logins-menu-menuitem-help = Agiutto
+menu-menuitem-android-app = { -lockwise-brand-short-name } pe Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } pe iPhone e iPad
 
 ## Login List
 
@@ -52,9 +67,11 @@ login-item-time-used = Urtimo uzo: { DATETIME($timeUsed, day: "numeric", month: 
 
 ## OS Authentication dialog
 
+
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -78,13 +95,13 @@ enable-password-sync-preferences-button =
 confirmation-dialog-cancel-button = Anulla
 confirmation-dialog-dismiss-button =
     .title = Anulla
-
 confirm-delete-dialog-message = St'açion a no peu ese anula.
 
 ## Breach Alert notification
 
 
 ## Vulnerable Password notification
+
 
 ## Error Messages
 
