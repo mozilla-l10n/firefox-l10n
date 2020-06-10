@@ -27,6 +27,15 @@ alert-refresh = { $name } контактімен шифрленген сөйле
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = { $name } контактімен шифрленген сөйлесу аяқталды.
 state-not_private = Ағымдағы сөйлесу жеке емес.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Ағымдағы сөйлесу шифрленген, бірақ жеке емес, өйткені { $name } контактінің жеке басы әлі расталмаған.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = { $name } контактінің жеке басы расталған. Ағымдағы сөйлесу шифрленген және жеке болып табылады.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } сізбен шифрленген сөйлесуді аяқтады; сіз де солай жасауыңыз керек.
 state-not_private-label = Қауіпсіз емес
 state-unverified-label = Расталмаған
 state-private-label = Жеке
@@ -34,6 +43,12 @@ state-finished-label = Аяқталған
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 verify-request = { $name } контакті жеке басыңызды растауды сұрады.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Сіз { $name } контактінің жеке басын растадыңыз.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = { $name } контактінің жеке басы расталмаған.
 verify-title = Контактініздің жеке басын растау
 error-title = Қате
 success-title = Өтпелі шифрлеу
