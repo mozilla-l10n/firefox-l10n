@@ -29,4 +29,6 @@ carddav-remember-password =
     .accesskey = m
 carddav-loading = Anadi n twila…
 carddav-connection-error = Igguma ad yeqqen
-carddav-none-found = Ulac imedlisen n tansa yettwafen ara yernun ɣer umiḍan i d-yettwabedren.
+carddav-none-found = Ulac imedlisen n tansa yettwafen ara yettwarnun ɣer umiḍan i d-yettwabedren.
+carddav-already-added = Akk imdlisen n tansa ttwarnan yakan ɣer umiḍan i d-yettwabedren.
+carddav-available-books = Imedlisen n tansa i yellan:
