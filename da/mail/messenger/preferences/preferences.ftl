@@ -156,6 +156,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Vis ikon i systembakken
     .accesskey = k
+mail-system-sound-label =
+    .label = Standard systemlyd ved modtagelse af ny mail
+    .accesskey = y
 mail-custom-sound-label =
     .label = Anvend følgende lydfil
     .accesskey = n
@@ -666,6 +669,29 @@ chat-variant-label =
 chat-header-label =
     .label = Vis hoved
     .accesskey = H
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Søg i indstillinger
+           *[other] Søg i indstillinger
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Søgeresultater
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Beklager! Der er ingen resultater for "<span data-l10n-name="query"></span>" i Indstillingerne.
+       *[other] Beklager! Der er ingen resultater for "<span data-l10n-name="query"></span>" i Indstillingerne.
+    }
+search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til { -brand-short-name }</a>
