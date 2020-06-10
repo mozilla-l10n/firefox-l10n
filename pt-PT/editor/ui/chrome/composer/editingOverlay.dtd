@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Abrir um ficheiro local">
 <!ENTITY saveToolbarCmd.tooltip "Guardar ficheiro para uma localização remota">
 <!ENTITY publishToolbarCmd.tooltip "Enviar ficheiro para uma localização remota">
+<!ENTITY printToolbarCmd.label "Imprimir">
+<!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
