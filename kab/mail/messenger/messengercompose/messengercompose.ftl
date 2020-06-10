@@ -43,6 +43,14 @@ attachment-bucket-count =
            *[other] Ticeqqufin yeddan { $count }
         }
     .accesskey = m
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] Taceqquft yeddan { $count }
+            [one] Taceqquft yeddan { $count }
+           *[other] Taceqqufin yeddan { $count }
+        }
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
