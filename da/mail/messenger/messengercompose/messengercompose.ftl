@@ -28,6 +28,13 @@ attachment-bucket-count =
            *[other] { $count } vedhæftede filer
         }
     .accesskey = æ
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] { $count } vedhæftet fil
+           *[other] { $count } vedhæftede filer
+        }
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
