@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Písmo">
 <!ENTITY FontFaceSelect.tooltip "Výběr písma">
 <!ENTITY fontfaceMenu.label "Písmo">
 <!ENTITY fontfaceMenu.accesskey "P">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "c">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Velikost písma">
 <!ENTITY FontSizeSelect.tooltip "Výběr velikosti písma">
 <!ENTITY decreaseFontSize.label "Menší">
 <!ENTITY decreaseFontSize.accesskey "n">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Vlastnosti seznamu…">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "Odstavec">
 <!ENTITY ParagraphSelect.tooltip "Výběr stylu odstavce">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Tělo">
@@ -206,7 +209,9 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Vrstva">
+<!ENTITY decreaseZIndex.label "Přenést do pozadí">
 <!ENTITY layerSendToBack.tooltip "Přenést do pozadí">
+<!ENTITY increaseZIndex.label "Přenést do popředí">
 <!ENTITY layerBringToFront.tooltip "Přenést do popředí">
 
 <!ENTITY increaseIndent.label "Zvětšit odsazení">
@@ -304,28 +309,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Vytvoří nový odkaz, nebo upraví označený">
 <!ENTITY anchorToolbarCmd.label "Kotva">
 <!ENTITY anchorToolbarCmd.tooltip "Vloží novou kotvu, nebo upraví označenou">
+<!ENTITY colorButtons.title "Barvy">
 <!ENTITY TextColorButton.tooltip "Vybere barvu textu">
 <!ENTITY BackgroundColorButton.tooltip "Vybere barvu pozadí">
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Přejde na domovskou stránku aplikace &brandShortName;">
+<!ENTITY HighlightColorButton.label "Zvýrazňovač">
 <!ENTITY HighlightColorButton.tooltip "Vybere barvu pro barevné zvýrazňování">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Velikost písma">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nastavit velikost písma">
+<!ENTITY smaller.label "Menší">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Zmenší velikost písma">
+<!ENTITY larger.label "Větší">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Zvětší velikost písma">
+<!ENTITY bold.label "Tučné">
 <!ENTITY boldToolbarCmd.tooltip "Tučné">
+<!ENTITY italic.label "Kurzíva">
 <!ENTITY italicToolbarCmd.tooltip "Kurzíva">
+<!ENTITY underline.label "Podtržené">
 <!ENTITY underlineToolbarCmd.tooltip "Podtržené">
+<!ENTITY bullets.label "Odrážky">
 <!ENTITY bulletListToolbarCmd.tooltip "Přidá či odstraní odrážky">
+<!ENTITY numbers.label "Číslování">
 <!ENTITY numberListToolbarCmd.tooltip "Přidá či odstraní číslování">
+<!ENTITY outdent.label "Zmenšit odsazení">
 <!ENTITY outdentToolbarCmd.tooltip "Odsadí text (posune vlevo)">
+<!ENTITY indent.label "Zvětšit odsazení">
 <!ENTITY indentToolbarCmd.tooltip "Odsadí text (vpravo)">
+<!ENTITY AlignPopupButton.label "Zarovnání">
 <!ENTITY AlignPopupButton.tooltip "Zarovná text">
+<!ENTITY InsertPopupButton.label "Vložit">
 <!ENTITY InsertPopupButton.tooltip "Vloží odkaz, kotvu, obrázek, vodorovnou linku nebo tabulku">
+<!ENTITY alignLeftButton.label "Zarovnání doleva">
 <!ENTITY alignLeftButton.tooltip "Zarovná text k levému okraji">
+<!ENTITY alignCenterButton.label "Zarovnání na střed">
 <!ENTITY alignCenterButton.tooltip "Zarovná text na střed">
+<!ENTITY alignRightButton.label "Zarovnání doprava">
 <!ENTITY alignRightButton.tooltip "Zarovná text k pravému okraji">
+<!ENTITY alignJustifyButton.label "Zarovnání do bloku">
 <!ENTITY alignJustifyButton.tooltip "Zarovná text do bloku">
 
 <!-- Structure Toolbar Context Menu items -->
