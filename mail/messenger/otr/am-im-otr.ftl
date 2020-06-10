@@ -4,9 +4,16 @@
 
 account-encryption =
     .label = Ende-til-ende-kryptering
+account-otr-label = Off-the-Record melding (OTR)
+otr-fingerprint-label = Ditt fingeravtrykk:
+view-fingerprint-button =
+    .label = Behandle fingeravtrykk for kontakter
+    .accesskey = f
 otr-settings-title = OTR-innstillinger
 otr-log =
     .label = Inkluder OTR-krypterte meldinger i samtalelogger
 otr-requireEncryption =
     .label = Krev ende-til-ende-kryptering for en-til-en-samtaler
+otr-verifyNudge =
+    .label = Påminn meg alltid på å bekrefte en ubekreftet kontakt
 otr-notYetAvailable = ikke tilgjengelig enda
