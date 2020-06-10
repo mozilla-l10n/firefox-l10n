@@ -4,6 +4,7 @@
 
 connection-dns-over-https-url-resolver = Провайдерді қолдану
     .accesskey = й
+connection-dns-over-https-custom-label = Таңдауыңызша
 connection-dialog-window =
     .title = Байланыс баптаулары
     .style =

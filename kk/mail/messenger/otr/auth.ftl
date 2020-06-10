@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $their_name (String) - the screen name of a chat contact
+auth-their-fp-value = { $their_name } үшін баспа:
+auth-helpTitle = Растау бойынша анықтама
 auth-questionReceived = Бұл сіздің контакті қойған сұрақ:
 auth-yes =
     .label = Иә

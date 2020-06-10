@@ -3,5 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 otr-encryption-title = Расталған шифрлеу
+otr-fingerprint-label = Сіздің баспаңыз:
+view-fingerprint-button =
+    .label = Контакттардың баспаларын басқару
+    .accesskey = п
 otr-settings-title = OTR баптаулары
 otr-notYetAvailable = әлі қолжетімсіз
