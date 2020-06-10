@@ -178,10 +178,8 @@ was trying to connect. -->
 <p>Pokud jste připojení do firemní sítě nebo používáte antivirový program, můžete se obrátit na oddělení technické podpory. Také můžete o problému informovat správce webu.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Datum ve vašem počítači je nastaveno na <span id='wrongSystemTime_systemDate2'/>. Zkontrolujte prosím v systémovém nastavení, že máte nastavené správné datum, čas a časové pásmo a obnovte tuto stránku.</p>
-<p>Pokud máte vše nastavené správně, je pravděpodobně špatně nastaven web <span class='hostname'/> a tento problém bohužel nemůžete vyřešit. V tom případě můžete o tomto problému informovat správce webu.</p>
-">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Datum ve vašem počítači je nastaveno na <span id='wrongSystemTime_systemDate2'/>. Zkontrolujte prosím v systémovém nastavení, že máte nastavené správné datum, čas a časové pásmo a znovu načtěte tuto stránku.</p>
+<p>Pokud máte vše nastavené správně, je pravděpodobně špatně nastaven web <span class='hostname'/> a tento problém bohužel nemůžete vyřešit. V tom případě můžete o tomto problému informovat správce webu.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Příčina tohoto problému je pravděpodobně na straně serveru a vy ji bohužel nemůžete odstranit. Můžete o tomto problému informovat správce webu.</p>
@@ -246,7 +244,7 @@ za chvíli.</li>
 
 <!ENTITY clockSkewError.title "Hodiny ve vašem počítači jsou špatně nastavené">
 
-<!ENTITY clockSkewError.longDesc "Datum ve vašem počítači je nesprávně nastaveno na <span id='wrongSystemTime_systemDate1'/>, což brání aplikaci &brandShortName; v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <span class='hostname'></span> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a obnovte tuto stránku.">
+<!ENTITY clockSkewError.longDesc "Datum ve vašem počítači je nesprávně nastaveno na <span id='wrongSystemTime_systemDate1'/>, což brání aplikaci &brandShortName; v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <span class='hostname'></span> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.">
 
 <!ENTITY prefReset.longDesc "Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?">
 <!ENTITY prefReset.label "Obnovit výchozí nastavení">
