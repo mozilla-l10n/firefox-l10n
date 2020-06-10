@@ -134,16 +134,16 @@ left instead of right. -->
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "As imagens deste website nunca serão transferidas.">
 
-<!ENTITY popupsMessageChangeTitle.label "Permissões dos popups alteradas">
+<!ENTITY popupsMessageChangeTitle.label "Permissões dos pop-ups alteradas">
 <!ENTITY popupAllowCmd.label "Permitir janelas pop-up deste site">
 <!ENTITY popupAllowCmd.accesskey "a">
-<!ENTITY popupAllowMsg.label "Os popups deste website serão sempre mostrados.">
-<!ENTITY popupDefaultCmd.label "Utilizar permissões de popups predefinidas">
+<!ENTITY popupAllowMsg.label "Os pop-ups deste site serão sempre mostrados.">
+<!ENTITY popupDefaultCmd.label "Utilizar as permissões de pop-ups predefinidas">
 <!ENTITY popupDefaultCmd.accesskey "U">
-<!ENTITY popupDefaultMsg.label "Os popups deste website serão mostrados com base nas definições predefinidas.">
-<!ENTITY popupBlockCmd.label "Bloquear popups deste website">
+<!ENTITY popupDefaultMsg.label "Os pop-ups deste site serão mostrados com base nas definições predefinidas.">
+<!ENTITY popupBlockCmd.label "Bloquear pop-ups deste site">
 <!ENTITY popupBlockCmd.accesskey "B">
-<!ENTITY popupBlockMsg.label "Os popups deste website não serão mostrados.">
+<!ENTITY popupBlockMsg.label "Os pop-ups deste site não serão mostrados.">
 <!ENTITY popupsManage.label "Gerir janelas pop-up">
 <!ENTITY popupsManage.accesskey "G">
 
