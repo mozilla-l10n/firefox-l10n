@@ -15,6 +15,7 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "Mailadresse:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Svar fra denne identitet, når leveringsheadere matcher:">
 <!ENTITY catchAll.accesskey "V">
 <!ENTITY replyTo.label "Svaradresse:">
 <!ENTITY replyTo.accesskey "r">
