@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = Stáhnout z Google Play
 login-app-promo-apple =
     .alt = Stáhnout na App Store
-
 login-filter =
     .placeholder = Hledat přihlašovací údaje
-
 create-login-button = Nové přihlašovací údaje
-
 fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
 fxaccounts-sign-in-button = Použít { -sync-brand-short-name(case: "acc") }
 fxaccounts-avatar-button =
@@ -34,6 +32,7 @@ menu =
     .title = Otevřít nabídku
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importovat z jiného prohlížeče…
+about-logins-menu-menuitem-export-logins = Exportovat přihlašovací údaje…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -135,13 +134,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro úpravu přihlašovací
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upravit uložené přihlašovací údaje
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pro zobrazení hesla prosím zadejte své přihlašovací údaje Windows. Ty slouží jako ochrana a zabezpečení vašich účtů.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = zobrazit uložené heslo
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pro zkopírování hesla prosím zadejte své přihlašovací údaje Windows. Ty slouží jako ochrana a zabezpečení vašich účtů.
 # This message can be seen when attempting to copy a password in about:logins
@@ -183,11 +180,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Zrušit
 confirmation-dialog-dismiss-button =
     .title = Zrušit
-
 about-logins-confirm-remove-dialog-title = Odstranit tyto přihlašovací údaje?
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
 about-logins-confirm-remove-dialog-confirm-button = Odstranit
-
+about-logins-confirm-export-dialog-title = Export přihlašovacích údajů
+about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitelné podobě (např. Šp4tnéH3sl0) a kdokoliv otevře exportovaný soubor, bude si je moci přečíst.
+about-logins-confirm-export-dialog-confirm-button = Exportovat…
 confirm-discard-changes-dialog-title = Zahodit neuložené změny?
 confirm-discard-changes-dialog-message = Všechny neuložené změny budou ztraceny.
 confirm-discard-changes-dialog-confirm-button = Zahodit
@@ -218,10 +216,14 @@ about-logins-vulnerable-alert-learn-more-link = Zjistit více
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Přihlašovací údaje pro { $loginTitle } se stejným uživatelským jménem už existují. <a data-l10n-name="duplicate-link">Chcete zobrazit stávající údaje?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Při ukládání hesla nastala chyba.
 
-
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Exportovat hesla do souboru
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Exportovat
