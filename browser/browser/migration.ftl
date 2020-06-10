@@ -97,6 +97,40 @@ imported-edge-reading-list = Lukulista (Edgestä)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Evästeet
+browser-data-cookies-label =
+    .value = Evästeet
+browser-data-formdata-checkbox =
+    .label = Tallennetut lomaketiedot
+browser-data-formdata-label =
+    .value = Tallennetut lomaketiedot
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Tallennetut käyttäjätunnukset ja salasanat
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Tallennetut käyttäjätunnukset ja salasanat
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Suosikit
+            [edge] Suosikit
+           *[other] Kirjanmerkit
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Suosikit
+            [edge] Suosikit
+           *[other] Kirjanmerkit
+        }
+browser-data-otherdata-checkbox =
+    .label = Muut tiedot
+browser-data-otherdata-label =
+    .label = Muut tiedot
 browser-data-session-checkbox =
     .label = Ikkunat ja välilehdet
 browser-data-session-label =
