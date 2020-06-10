@@ -234,6 +234,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Kép a képben ikon
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = A védelmekről röviden
+cfr-whatsnew-protections-body = A Védelmi vezérlőpult összefoglaló jelentéseket tartalmaz az adatsértésekről és a jelszókezelésről. Most már nyomon tudja követni, hogy hány adatsértés történt, és megnézheti, hogy a mentett jelszavai megjelentek-e egy adatsértésben.
 cfr-whatsnew-protections-cta-link = Védelmi vezérlőpult megtekintése
 cfr-whatsnew-protections-icon-alt = Pajzs ikon
 
