@@ -278,6 +278,7 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } mostrarà p
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = Partejatz { -brand-short-name }. Qualqu’un mai pòt veire quand cambiatz d’onglet.
+sharing-warning-screen = Sètz a partejar vòstre ecran. D’autras personas pòdon vire quand cambiatz d’onglet.
 sharing-warning-proceed-to-tab =
     .label = Passar a l’onglet
 sharing-warning-disable-for-session =

@@ -241,4 +241,5 @@ cfr-whatsnew-protections-icon-alt = Icòna d’escut
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Melhora experiéncia PDF
 cfr-whatsnew-better-pdf-body = Los documents se dobrisson ara dirèctament dins { -brand-short-name }, per contunhar vòstre trabalh fòra distraccion.
