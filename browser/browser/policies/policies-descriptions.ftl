@@ -73,7 +73,7 @@ policy-LegacyProfiles = Funksje om in ôfsûnderlik profyl foar elke ynstallaasj
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Standertynstelling foar ferâldere SameSite-cookiegedrach ynskeakelje.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op spesifike websites tebekgean nei ferâludere SameSite-gedrach foar cookies.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op spesifike websites tebekgean nei ferâldere SameSite-gedrach foar cookies.
 
 ##
 
