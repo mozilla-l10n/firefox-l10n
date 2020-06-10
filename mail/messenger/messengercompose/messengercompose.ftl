@@ -23,7 +23,6 @@ pill-action-move-bcc =
 attachment-bucket-count =
     .value =
         { $count ->
-            [1] { $count } vedhæftet fil
             [one] { $count } vedhæftet fil
            *[other] { $count } vedhæftede filer
         }
