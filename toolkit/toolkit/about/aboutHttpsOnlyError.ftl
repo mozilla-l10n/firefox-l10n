@@ -6,4 +6,7 @@ about-httpsonly-insecure-title = Ligação segura Indisponível
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-insecure-explanation-unavailable = Está a navegar no modo apenas HTTPS e não está disponível nenhuma versão segura HTTPS de <em>{ $websiteUrl }</em>.
+about-httpsonly-insecure-explanation-reasons = O mais provável é que o site não forneça suporte ao HTTPS, mas também é possível que um invasor esteja a bloquear a versão HTTPS.
+about-httpsonly-insecure-explanation-exception = Embora o risco para a segurança seja baixo, se decidir visitar a versão HTTP do site, não introduza informações confidenciais, como palavras-passe, e-mails ou detalhes de cartão de crédito.
 about-httpsonly-button-make-exception = Aceitar o risco e continuar para o site
+about-httpsonly-button-go-back = Retroceder
