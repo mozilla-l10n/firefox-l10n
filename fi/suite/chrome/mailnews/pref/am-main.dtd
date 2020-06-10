@@ -13,6 +13,8 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "Sähköpostiosoite:">
 <!ENTITY email.accesskey "e">
+<!ENTITY catchAll.label "Välitystietojen täsmätessä käytä vastauksessa tätä käyttäjätietoa:">
+<!ENTITY catchAll.accesskey "k">
 <!ENTITY replyTo.label "Vastausosoite:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "Vastaanottajat vastaavat tähän osoitteeseen">
