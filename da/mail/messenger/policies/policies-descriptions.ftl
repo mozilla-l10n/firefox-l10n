@@ -21,12 +21,16 @@ policy-BlockAboutSupport = Bloker adgang til about:support.
 policy-CaptivePortal = Slå understøttelse af captive portal til eller fra.
 policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
+policy-DisabledCiphers = Deaktiver ciphers.
 policy-DefaultDownloadDirectory = Indstil standard-mappe for hentede filer.
 policy-DisableAppUpdate = Tillad ikke opdateringer af { -brand-short-name }.
+policy-DisableDefaultClientAgent = Tillad ikke at standardklient-agenten foretager handlinger. Fungerer kun på Windows; andre platforme har ikke agenten.
 policy-DisableDeveloperTools = Bloker adgang til Udviklerværktøj.
 policy-DisableFeedbackCommands = Deaktiver kommandoer til at indsende feedback fra menuen Hjælp (Indsend feedback og Anmeld vildledende websted).
 policy-DisableForgetButton = Bloker adgang til knappen Glem.
+policy-DisableFormHistory = Husk ikke formular- og søgehistorik.
 policy-DisableMasterPasswordCreation = En hovedadgangskode kan ikke oprettes, hvis sat til true.
+policy-DisablePasswordReveal = Tillad ikke adgangskoder at blive vist i gemte logins.
 policy-DisableProfileImport = Deaktiver menu-kommandoen til at importere data fra et andet program.
 policy-DisableSafeMode = Deaktiver funktionen til at genstarte i fejlsikret tilstand. NB: Deaktivering af Shift-tasten for at starte i fejlsikret tilstand kan i Windows kun ske via Gruppepolitik.
 policy-DisableSecurityBypass = Deaktiver brugerens mulighed for at omgå bestemte sikkerhedsadvarsler.
@@ -46,6 +50,12 @@ policy-ExtensionSettings = Håndter alle aspekter af udvidelsesinstallationer.
 policy-ExtensionUpdate = Slå automatisk opdatering af udvidelser til eller fra.
 policy-HardwareAcceleration = False slår hardware-acceleration fra.
 policy-InstallAddonsPermission = Tillad bestemte websteder at installere tilføjelser.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+
+##
+
 policy-LocalFileLinks = Tillad specifikke websteder at linke til lokale filer.
 policy-NetworkPrediction = Slå network prediction (DNS prefetching) til eller fra.
 policy-OfferToSaveLogins = Indstil om { -brand-short-name } skal tilbyde at huske gemte logins og adgangskoder. Både true og false accepteres.
