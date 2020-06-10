@@ -28,3 +28,9 @@ attachment-bucket-count =
            *[other] { $count } vedhæftede filer
         }
     .accesskey = æ
+#   { attachment-bucket-count.accesskey } - Do not localize this message.
+key-toggle-attachment-pane =
+    .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = Kvittering
+    .tooltiptext = Bed om en kvittering for modtagelse af denne meddelelse
