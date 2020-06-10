@@ -210,7 +210,9 @@
 <!-- Layer toolbar items -->
 <!ENTITY absolutePosition.label "Posicionamiento">
 <!ENTITY layer.tooltip "Capa">
+<!ENTITY decreaseZIndex.label "Enviar atrás">
 <!ENTITY layerSendToBack.tooltip "Enviar al fondo">
+<!ENTITY increaseZIndex.label "Traer al frente">
 <!ENTITY layerBringToFront.tooltip "Traer al frente">
 
 <!ENTITY increaseIndent.label "Incrementar sangrado">
