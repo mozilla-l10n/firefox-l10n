@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Cudeschet d'adressas…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
+<!ENTITY newCardDAVBookCmd.label                        "Cudeschet d'adressas CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Ordinatur LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Messadi">

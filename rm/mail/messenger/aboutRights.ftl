@@ -5,8 +5,14 @@
 rights-title = Davart tes dretgs
 rights-intro = { -brand-full-name } è ina software libra cun in code avert, creada d'ina communitad da millis persunas da tut il mund. I dat in pèr chaussas che ti stuessas savair:
 rights-intro-point-1 = { -brand-short-name } è disponibel tenor las cundiziuns da la <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Quai munta che ti pos utilisar, copiar e dar vinavant { -brand-short-name } ad auters. Ti dastgas era midar il code da funtauna da { -brand-short-name } ed al adattar a tes basegns. La Mozilla Public License ta dat era il dretg da distribuir tia versiun modifitgada.
+rights-intro-point-2 =
+    Mozilla na ta conceda nagins dretgs e naginas licenzas per las marcas
+    da la Mozilla Foundation u dad in'autra partida; quai vala era senza limitaziun
+    per il num ed il logo da Thunderbird. Ulteriuras infurmaziuns davart las marcas
+    chatt'ins <a data-l10n-name="mozilla-trademarks-link">qua</a>.
 rights-intro-point-3 = Tschertas funcziuns da { -brand-short-name }, sco las annunzias da collaps, ta porschan la pussaivladad da dar in resun a { -vendor-short-name }. Cun la decisiun da trametter il resun lubeschas ti a { -vendor-short-name } dad utilisar il resun per meglierar ses products, da publitgar il resun sin sias paginas d'internet e da distribuir il resun.
 rights-intro-point-4 = Co che nus utilisain tias infurmaziuns persunalas ed ils resuns che ti tramettas a { -vendor-short-name } entras { -brand-short-name } è descrit en las <a data-l10n-name="mozilla-privacy-policy-link">Directivas per la protecziun da datas da { -brand-short-name }</a>.
+rights-intro-point-4-unbranded = Tut las directivas areguard la protecziun da datas che concernan quest product duessan esser enumeradas qua.
 rights-intro-point-5 = Tschertas funcziuns da { -brand-short-name } utiliseschan servetschs d'infurmaziun a basan dal web. Nus na pudain betg garantir che quellas èn 100% correctas e senza sbagls. Ulteriurs detagls, inclus las infurmaziuns co deactivar las funcziuns che utiliseschan quests servetschs pos ti chattar en las <a data-l10n-name="mozilla-service-terms-link">cundiziuns da servetsch</a>.
 rights-intro-point-5-unbranded = Sche quest product cuntegna servetschs da web, duessan tut las cundiziuns da servetsch valaivlas per il(s) servetsch(s) esser colliadas cun il champ <a data-l10n-name="mozilla-website-services-link">Servetschs da websites</a>.
 rights-intro-point-6 = Per far ir tscherts tips da cuntegn da video telechargia { -brand-short-name } moduls da terzas partidas per decriptar il cuntegn.
