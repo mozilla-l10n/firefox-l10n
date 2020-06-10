@@ -10,3 +10,5 @@ start-tooltip =
     .tooltiptext = { start-text }
 end-label =
     .label = Шифрленген сөйлесуді аяқтау
+auth-label =
+    .label = Контактініздің жеке басын растау
