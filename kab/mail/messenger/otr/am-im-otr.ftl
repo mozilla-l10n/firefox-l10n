@@ -4,6 +4,7 @@
 
 account-encryption =
     .label = Awgelhen seg yixef ɣer wayeḍ
+otr-encryption-title = Yettusenqed uwgelhen
 otr-fingerprint-label = Adsil-inek/inem umḍin:
 otr-settings-title = Iɣewwaren OTR
 otr-notYetAvailable = Ulac akka tura
