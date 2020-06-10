@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Lefs serrads">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Inserir ina fatscha cun lefs serrads">
+<!ENTITY SmileButton.label "Inserir in emoticon">
 <!ENTITY SmileButton.tooltip "Inserir in fatscha surrienta">
-

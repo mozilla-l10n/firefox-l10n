@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Scrittira">
 <!ENTITY FontFaceSelect.tooltip "Tscherner ina scrittira">
 <!ENTITY fontfaceMenu.label "Scrittira">
 <!ENTITY fontfaceMenu.accesskey "S">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Grondezza da scrittira">
 <!ENTITY FontSizeSelect.tooltip "Tscherna la grondezza da scrittira">
 <!ENTITY decreaseFontSize.label "Pli pitschen">
 <!ENTITY decreaseFontSize.accesskey "p">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Caracteristicas da la glista…">
 <!ENTITY listPropsCmd.accesskey "C">
 
+<!ENTITY ParagraphSelect.title "Paragraf">
 <!ENTITY ParagraphSelect.tooltip "Tscherna in format da paragraf">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Text normal">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Alingiar en bloc">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Posiziunament">
 <!ENTITY layer.tooltip "Stresa">
+<!ENTITY decreaseZIndex.label "Metter en il fund davos">
 <!ENTITY layerSendToBack.tooltip "Metter en il fund davos">
+<!ENTITY increaseZIndex.label "Trair en il fund davant">
 <!ENTITY layerBringToFront.tooltip "Trair en il fund davant">
 
 <!ENTITY increaseIndent.label "Augmentar l'incisiun">
@@ -304,27 +310,45 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserir ina nova colliaziun u modifitgar las caracteristicas da la colliaziun selecziunada">
 <!ENTITY anchorToolbarCmd.label "Ancra">
 <!ENTITY anchorToolbarCmd.tooltip "Inserir ina nova ancra cun num u modifitgar las caracteristicas da l'ancra selecziunada">
+<!ENTITY colorButtons.title "Colurs">
 <!ENTITY TextColorButton.tooltip "Tscherner ina colur per il text">
 <!ENTITY BackgroundColorButton.tooltip "Tscherner ina colur per il fund davos">
 <!ENTITY throbber.tooltip "Visitar la pagina d'internet da &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Visitar la pagina iniziala da &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Tscherner ina colur per text relevà">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Grondezza da scrittira">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Definir la grondezza da scrittira">
+<!ENTITY smaller.label "Pli pitschen">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Empitschnir la grondezza da scrittira">
+<!ENTITY larger.label "Pli grond">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Engrondir la grondezza da scrittira">
+<!ENTITY bold.label "Grass">
 <!ENTITY boldToolbarCmd.tooltip "Grass">
+<!ENTITY italic.label "Cursiv">
 <!ENTITY italicToolbarCmd.tooltip "Cursiv">
+<!ENTITY underline.label "Suttastritgà">
 <!ENTITY underlineToolbarCmd.tooltip "Suttastritgà">
+<!ENTITY bullets.label "Simbols d'enumeraziun">
 <!ENTITY bulletListToolbarCmd.tooltip "Applitgar u allontanar la &quot;glista betg numerada&quot;">
+<!ENTITY numbers.label "Numeraziun">
 <!ENTITY numberListToolbarCmd.tooltip "Applitgar u allontanar la &quot;glista numerada&quot;">
+<!ENTITY outdent.label "Stuschar anora">
 <!ENTITY outdentToolbarCmd.tooltip "Diminuir l'incisiun da text (stumplar a sanestra)">
+<!ENTITY indent.label "Stuschar anen">
 <!ENTITY indentToolbarCmd.tooltip "Augmentar l'incisiun da text (stumplar a dretga)">
+<!ENTITY AlignPopupButton.label "Alingiament">
 <!ENTITY AlignPopupButton.tooltip "Definir l'alingiament dal text">
+<!ENTITY InsertPopupButton.label "Inserir">
 <!ENTITY InsertPopupButton.tooltip "Inserir ina colliaziun, in'ancra, ina grafica, ina lingia orizontala u ina tabella">
+<!ENTITY alignLeftButton.label "Alingiar a sanestra">
 <!ENTITY alignLeftButton.tooltip "Alingiar il text a l'ur sanester">
+<!ENTITY alignCenterButton.label "Alingiar centrà">
 <!ENTITY alignCenterButton.tooltip "Centrar il text">
+<!ENTITY alignRightButton.label "Alingiar a dretga">
 <!ENTITY alignRightButton.tooltip "Alingiar il text a l'ur dretg">
+<!ENTITY alignJustifyButton.label "Alingiar en bloc">
 <!ENTITY alignJustifyButton.tooltip "Alingiar il text a l'ur sanester ed a l'ur dretg">
 
 <!-- Structure Toolbar Context Menu items -->
