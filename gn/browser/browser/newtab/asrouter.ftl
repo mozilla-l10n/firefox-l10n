@@ -231,9 +231,11 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Peteĩva ta’ãnga ra’ãnga’i
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Ñemo’ã ma’ẽ rehegua
+cfr-whatsnew-protections-body = Pe ñemo’ã ra’ãngarupa omoinge marandu mbykymíva mba’ekuaarã ñembyai reheguápe ha ñe’ẽñemi ñangarekóre. Ko’ág̃a ikatu ehapykueho mboy ñembyaípa emoĩporã ha ehecha ñe’ẽñemi ñongatupyre ikatupara’e ombyai mba’ekuaarãme.
 cfr-whatsnew-protections-cta-link = Ehecha ñe’ẽñemi ra’ãngarupa
 cfr-whatsnew-protections-icon-alt = Jokoha ra’ãngachu’i
 
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Tembiapo porãve PDF-pe
+cfr-whatsnew-better-pdf-body = Kuatiakuéra PDF ko’ág̃a ijurujáma { -brand-short-name }-pe, péicha oreko hembiapo opavave ohupyty hag̃uáicha.
