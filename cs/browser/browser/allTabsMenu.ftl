@@ -4,17 +4,21 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Obnovit zavřený panel
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Obnovit zavřený panel
+            [one] Obnovit zavřený panel
+            [few] Obnovit zavřené panely
+           *[other] Obnovit zavřené panely
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Najít panel
-
 all-tabs-menu-new-user-context =
     .label = Nový kontejnerový panel
-
 all-tabs-menu-hidden-tabs =
     .label = Skryté panely
-
 all-tabs-menu-manage-user-context =
     .label = Správa kontejnerů
     .accesskey = k

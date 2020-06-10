@@ -56,6 +56,18 @@ move-to-new-window =
 undo-close-tab =
     .label = Obnovit zavřený panel
     .accesskey = t
+tab-context-close-multiple-tabs =
+    .label = Zavřít několik panelů
+    .accesskey = k
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Obnovit zavřený panel
+            [one] Obnovit zavřený panel
+            [few] Obnovit zavřené panely
+           *[other] Obnovit zavřené panely
+        }
+    .accesskey = t
 close-tab =
     .label = Zavřít panel
     .accesskey = Z

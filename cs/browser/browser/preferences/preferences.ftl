@@ -623,6 +623,7 @@ home-prefs-topsites-description = Nejnavštěvovanější stránky
 home-prefs-recommended-by-header =
     .label = Doporučení ze služby { $provider }
 home-prefs-recommended-by-description = Skvělý obsah z celého webu, vybraný speciálně pro vás
+home-prefs-recommended-by-description-update = Výjimečný obsah z celého internetu, vybraný službou { $provider }
 
 ##
 
@@ -698,6 +699,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Našeptávat vyhledávání také v anonymních oknech
 suggestions-addressbar-settings = Nastavit našeptávání z historie prohlížení, záložek a otevřených panelů
+suggestions-addressbar-settings-generic = Změnit předvolby našeptávání v adresním řádku
 search-suggestions-cant-show =
     Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }

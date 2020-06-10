@@ -259,6 +259,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona obrazu v obraze
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Ochrana soukromí na dosah ruky
+cfr-whatsnew-protections-body = Přehled ochrany soukromí obsahuje souhrnné informace o únicích dat a správě vašich hesel. Snad také zjistíte, následky kolika úniků dat už jste vyřešili, nebo jestli mohly být vaše přihlašovací údaje součástí nějakého nového úniku dat.
 cfr-whatsnew-protections-cta-link = Zobrazit přehled ochrany soukromí
 cfr-whatsnew-protections-icon-alt = Ikona štítu
 
