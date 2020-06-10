@@ -208,10 +208,12 @@
 <!ENTITY alignJustify.tooltip "Lige marginer">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Placering">
 <!ENTITY layer.tooltip "Lag">
 <!ENTITY decreaseZIndex.label "Placer bagerst">
 <!ENTITY layerSendToBack.tooltip "Placer bagerst">
-<!ENTITY layerBringToFront.tooltip "Flyt frem">
+<!ENTITY increaseZIndex.label "Placer forrest">
+<!ENTITY layerBringToFront.tooltip "Placer forrest">
 
 <!ENTITY increaseIndent.label "Forøg indrykning">
 <!ENTITY increaseIndent.accesskey "i">
@@ -313,6 +315,7 @@
 <!ENTITY BackgroundColorButton.tooltip "Vælg baggrundsfarve">
 <!ENTITY throbber.tooltip "Gå til &vendorShortName;s webside">
 <!ENTITY throbber.tooltip2 "Gå til &brandShortName;s webside">
+<!ENTITY HighlightColorButton.label "Overstregningspen">
 <!ENTITY HighlightColorButton.tooltip "Vælg farve for fremhævet tekst">
 
 <!-- Editor toolbar -->
@@ -328,7 +331,9 @@
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
 <!ENTITY underline.label "Understreg">
 <!ENTITY underlineToolbarCmd.tooltip "Understreg">
+<!ENTITY bullets.label "Punkttegn">
 <!ENTITY bulletListToolbarCmd.tooltip "Opret eller fjern uordnet liste">
+<!ENTITY numbers.label "Nummerering">
 <!ENTITY numberListToolbarCmd.tooltip "Opret eller fjern ordnet liste">
 <!ENTITY outdentToolbarCmd.tooltip "Afindryk tekst (ryk til venstre)">
 <!ENTITY indentToolbarCmd.tooltip "Indryk tekst (ryk til højre)">
