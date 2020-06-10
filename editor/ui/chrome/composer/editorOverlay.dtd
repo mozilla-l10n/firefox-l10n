@@ -335,7 +335,9 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Opret eller fjern uordnet liste">
 <!ENTITY numbers.label "Nummerering">
 <!ENTITY numberListToolbarCmd.tooltip "Opret eller fjern ordnet liste">
+<!ENTITY outdent.label "Ryk ud">
 <!ENTITY outdentToolbarCmd.tooltip "Afindryk tekst (ryk til venstre)">
+<!ENTITY indent.label "Ryk ind">
 <!ENTITY indentToolbarCmd.tooltip "Indryk tekst (ryk til højre)">
 <!ENTITY AlignPopupButton.label "Justering">
 <!ENTITY AlignPopupButton.tooltip "Vælg tekstjustering">
