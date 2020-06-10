@@ -76,6 +76,8 @@ monitor-header-content-no-account = Ստուգեք { -monitor-brand-name }՝իմ
 monitor-header-content-signed-in = { -monitor-brand-name }-ը զգուշացնում է Ձեզ, եթե Ձեր տեղեկութիւնները բախուել են հայտնի խախտման հետ։
 monitor-sign-up = Գրանցուեք խախտումների մասին ահազանգների համար
 auto-scan = Այսաւր ինքնուրույն պատկերահանուել է։
+monitor-breaches-tooltip =
+    .title = Դիտէք տուեալների արտահոսքի տեղեկատուութիւնը { -monitor-brand-short-name }- ով
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
