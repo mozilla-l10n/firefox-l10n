@@ -4,7 +4,6 @@
 
 <!-- extracted from am-main.xul -->
 
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Definições da conta">
@@ -16,6 +15,7 @@
 <!ENTITY name.accesskey "O">
 <!ENTITY email.label "Endereço de e-mail:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Resposta desta identidade quando os cabeçalhos de entrega correspondem:">
 <!ENTITY replyTo.label "Endereço de resposta:">
 <!ENTITY replyTo.accesskey "r">
 <!ENTITY replyTo.placeholder "Os destinatários respondem para este outro endereço">
@@ -38,8 +38,8 @@
 
 <!ENTITY manageIdentities.label "Gerir identidades...">
 <!ENTITY manageIdentities.accesskey "i">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Servidor de envio (SMTP):">
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "Usar servidor predefinido">

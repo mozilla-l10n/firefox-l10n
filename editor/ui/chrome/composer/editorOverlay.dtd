@@ -335,9 +335,9 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou remover lista com marcas">
 <!ENTITY numbers.label "Números">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar ou remover lista numerada">
-<!ENTITY outdent.label "Superar">
+<!ENTITY outdent.label "Recuar">
 <!ENTITY outdentToolbarCmd.tooltip "Recuar texto (mover para a esquerda)">
-<!ENTITY indent.label "Recuar">
+<!ENTITY indent.label "Avançar">
 <!ENTITY indentToolbarCmd.tooltip "Avançar texto (mover para a direita)">
 <!ENTITY AlignPopupButton.label "Alinhamento">
 <!ENTITY AlignPopupButton.tooltip "Escolha o alinhamento do texto">
