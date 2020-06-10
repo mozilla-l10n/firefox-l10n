@@ -209,7 +209,8 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Lag">
-<!ENTITY layerSendToBack.tooltip "Flyt bagud">
+<!ENTITY decreaseZIndex.label "Placer bagerst">
+<!ENTITY layerSendToBack.tooltip "Placer bagerst">
 <!ENTITY layerBringToFront.tooltip "Flyt frem">
 
 <!ENTITY increaseIndent.label "Forøg indrykning">
