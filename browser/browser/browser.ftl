@@ -266,10 +266,15 @@ popup-select-microphone =
     .value = Mikrofon untuk dibagikan:
     .accesskey = M
 popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan dibagikan.
+popup-screen-sharing-not-now =
+    .label = Jangan Sekarang
+    .accesskey = W
 
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-screen = Anda membagikan seluruh layar Anda. Orang lain dapat melihat saat Anda beralih ke tab baru.
+sharing-warning-proceed-to-tab =
+    .label = Lanjutkan ke Tab
 
 ## DevTools F12 popup
 
