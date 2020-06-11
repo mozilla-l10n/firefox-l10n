@@ -4,3 +4,4 @@
 
 auth-cancel = Sefsex
 auth-cancelAccessKey = C
+auth-fail = D awezɣi ad nsenqed timagit n unermas-inek/inem.
