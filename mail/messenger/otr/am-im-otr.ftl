@@ -7,6 +7,7 @@ account-encryption =
 account-otr-label = Troca de mensagens com criptografia (OTR)
 account-otr-description = O { -brand-short-name } suporta criptografia de ponta a ponta em conversas individuais. Isso impede que terceiros escutem uma conversa. A criptografia de ponta a ponta só pode ser usada quando a outra pessoa também usa um software que suporta OTR.
 otr-encryption-title = Criptografia verificada
+otr-encryption-caption = Para permitir que outras pessoas verifiquem sua identidade em conversas OTR, compartilhe sua própria impressão digital OTR usando um canal de comunicação externo.
 otr-fingerprint-label = Sua impressão digital:
 view-fingerprint-button =
     .label = Gerenciar impressões digitais de contatos
