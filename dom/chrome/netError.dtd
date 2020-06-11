@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>브라우저가 제공된 주소에 대한 호스트 서버 주소를 찾을 수 없습니다.</p><ul><li>도메인을 입력할 때 실수하지 않으셨습니까? (예를 들어, <q><strong>www</strong>.mozilla.org</q> 대신 <q><strong>ww</strong>.mozilla.org</q>을 입력한 것과 같은 실수)</li><li>이 도메인 주소가 존재한다고 확신합니까?  등록기간이 만료되었을 수 있습니다.</li><li>다른 사이트에도 연결할 수 없습니까?  네트워크 연결 상태와 DNS 서버 설정을 확인해 보세요.</li><li>사용자 컴퓨터나 네트워크가 방화벽이나 프록시로 보호되고 있지 않습니까?  잘못된 설정은 웹 연결을 막을 수 있습니다.</li></ul>">
 
 <!ENTITY fileNotFound.title "파일을 찾을 수 없음">
-<!ENTITY fileNotFound.longDesc "<ul><li>해당 항목의 이름이 바뀌거나, 이동되거나, 재배치되지는 않았습니까?</li><li>주소 상에 철자, 대소문자 구분을 비롯한 오타가 없습니까?</li><li>해당 요청 항목에 대한 충분한 접근 권한을 가지고 있습니까?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>항목이 이름 변경, 삭제 또는 재배치되지는 않았습니까?</li><li>주소에 철자, 대문자 또는 기타 입력 오류가 있습니까?</li><li>요청한 항목에 대한 충분한 접근 권한을 가지고 있습니까?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "파일 접근이 거부됨">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>삭제 또는 이동되었거나 파일 권한이 접근을 막고 있습니다.</li></ul>">
