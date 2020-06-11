@@ -120,6 +120,11 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Parametry
 safe-mode-title = Tryb awaryjny
 restart-in-safe-mode-label = Uruchom ponownie z wyłączonymi dodatkami…
+clear-startup-cache-title = Spróbuj wyczyścić pamięć podręczną uruchamiania
+clear-startup-cache-label = Wyczyść pamięć podręczną uruchamiania…
+startup-cache-dialog-title = Wyczyść pamięć podręczną uruchamiania
+startup-cache-dialog-body = Uruchom program { -brand-short-name } ponownie, aby wyczyścić pamięć podręczną uruchamiania. Nie spowoduje to zmiany ustawień ani usunięcia rozszerzeń dodanych do programu.
+restart-button-label = Uruchom ponownie
 
 ## Media titles
 
