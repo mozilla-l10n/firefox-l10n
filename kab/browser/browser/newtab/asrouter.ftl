@@ -230,6 +230,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Tignit n tugna-deg-tugna
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Ammesten deg teṛmect n tiṭ
+cfr-whatsnew-protections-body = Tafelwit n usenqed n ummesten tegber-d agzul n y ineqqisen ɣef trewliwin n yisefka d usefrek n wawalen uffiren. Tzemreḍ tura ad ḍefreḍ acḥal n trewliwin i tseɣtaḍ, rnu a twaliḍ ma yella yiwen seg wawalen-inek/inem uffiren yettwaskelsen iban-d deg trewliwin n yisefka.
 cfr-whatsnew-protections-cta-link = Wali tafelwit n usenqed
 cfr-whatsnew-protections-icon-alt = Tignit Shield
 
