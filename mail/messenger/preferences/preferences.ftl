@@ -43,7 +43,9 @@ privacy-passwords-header = Senhas
 privacy-junk-header = Spam
 privacy-data-collection-header = Coleta e uso de dados
 collection-header = Coleta e uso de dados pelo { -brand-short-name }
+collection-description = Nos esforçamos para proporcionar escolhas e coletar somente o necessário para melhorar e fornecer o { -brand-short-name } para todos. Sempre pedimos permissão antes de receber informações pessoais.
 collection-privacy-notice = Aviso de privacidade
+collection-health-report-telemetry-disabled = Você não está mais permitindo que a { -vendor-short-name } capture dados técnicos e de interação. Todos os dados coletados anteriormente serão apagados em até 30 dias.
 collection-health-report-telemetry-disabled-link = Saiba mais
 collection-health-report =
     .label = Permitir que o { -brand-short-name } envie dados técnicos e de interação para a { -vendor-short-name }
@@ -685,10 +687,17 @@ search-input-box =
     .style = width: 15.4em
     .placeholder =
         { PLATFORM() ->
-            [windows] Procurar nas Opções
-           *[other] Procurar nas Preferências
+            [windows] Procurar nas opções
+           *[other] Procurar nas preferências
         }
 
 ## Preferences UI Search Results
 
 search-results-header = Resultados da pesquisa
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Desculpe, “<span data-l10n-name="query"></span>” não foi encontrado nas opções.
+       *[other] Desculpe, “<span data-l10n-name="query"></span>” não foi encontrado nas preferências.
+    }
+search-results-help-link = Precisa de ajuda? Visite o <a data-l10n-name="url">suporte do { -brand-short-name }</a>
