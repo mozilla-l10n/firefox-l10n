@@ -37,8 +37,8 @@
 <!ENTITY fileNotFound.title "파일을 찾을 수 없음">
 
 <!ENTITY fileNotFound.longDesc "<ul>
-  <li>파일 이름의 대소문자를 비롯한 오타가 없는지 확인해 보세요.</li>
-  <li>이동되었거나, 이름이 변경되었거나, 삭제된 파일을 보려고 하는 것은 아닌지 확인해 보세요.</li>
+  <li>파일 이름에 대문자 또는 기타 입력 오류가 있는지 확인해 보세요.</li>
+  <li>파일이 이동, 이름 변경 또는 삭제되었는지 확인해 보세요.</li>
 </ul>">
 
 <!ENTITY fileAccessDenied.title "파일 접근이 거부됨">
