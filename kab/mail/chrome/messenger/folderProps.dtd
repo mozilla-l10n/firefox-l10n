@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Tiseglutin…">
 <!ENTITY privileges.button.accesskey             "g">
 <!ENTITY permissionsDesc.label                   "Ɣur-k tisirag-agi:">
+<!ENTITY folderOtherUsers.label                  "Imdanen-nniḍen yesεan azref ad kecmen ɣer ukaram-a:">
 <!ENTITY folderType.label                        "Tawsit n ukaram:">
 
 <!ENTITY folderQuotaTab.label                    "Amur">
