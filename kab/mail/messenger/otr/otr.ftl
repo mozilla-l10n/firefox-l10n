@@ -4,10 +4,20 @@
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-rcvdmsg_unreadable = Tremseḍ-d izen awgelhan ur nettwaɣra ara seg { $name }.
+msgevent-rcvdmsg_unreadable = Tremseḍ-d izen yettwagelhen ur nettwaɣra ara seg { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_malformed = Tremseḍ-d izen n yisefka ur nemsil ara akken iwata seg{ $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Tella-d tuccḍa iɣef ur nebni ara mi ara nettaεraḍ ad neḥrez adiwenni-inek/inem s useqdec n OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = Izen i d-iteddun i d-yermes { $name } ur iwgelhen ara: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Tremseḍ-d izen OTR d arussin seg { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Yebda udiwenni uslig d { $name }.
