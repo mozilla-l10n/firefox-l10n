@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+otr-finger =
+    .buttonlabelaccept = Mdel
+    .title = Udsil umḍin OTR tettwasenqed yakan
 finger-screenName =
     .label = Anermis
 finger-verified =
