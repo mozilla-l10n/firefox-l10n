@@ -14,7 +14,7 @@
 <!ENTITY removeDataChat.accesskey     "m">
 <!ENTITY removeDataLocalAccount.desc  "Supprime du disque local tous les messages et les filtres associés à ce compte. Cette action n’affecte pas certains messages qui resteront sur le serveur. N’effectuez pas cette action si vous prévoyez d’archiver les données locales ou de les réutiliser plus tard dans &brandShortName;.">
 <!ENTITY removeDataServerAccount.desc "Supprime du disque local tous les messages, les dossiers et les filtres associés à ce compte. Les messages et les dossiers seront conservés sur le serveur.">
-<!ENTITY removeDataChatAccount.desc   "Supprime du disque local tous les enregistrements de conversations associés à ce compte.">
+<!ENTITY removeDataChatAccount.desc   "Supprime du disque local tous les historiques de conversations associés à ce compte.">
 <!ENTITY showData.label               "Afficher les données de localisation">
 <!ENTITY showData.accesskey           "A">
 <!ENTITY progressPending              "Supprimer les données sélectionnées…">
