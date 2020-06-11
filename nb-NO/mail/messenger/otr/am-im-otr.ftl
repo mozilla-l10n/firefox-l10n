@@ -6,6 +6,7 @@ account-encryption =
     .label = Ende-til-ende-kryptering
 account-otr-label = Off-the-Record melding (OTR)
 otr-encryption-title = Bekreftet kryptering
+otr-encryption-caption = For å gjøre det mulig for andre å bekrefte identiteten din i OTR-nettprat, kan du dele ditt eget OTR-fingeravtrykk ved hjelp av en ekstern (out-of-band) kommunikasjonskanal.
 otr-fingerprint-label = Ditt fingeravtrykk:
 view-fingerprint-button =
     .label = Behandle fingeravtrykk for kontakter
