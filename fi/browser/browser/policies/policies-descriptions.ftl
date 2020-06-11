@@ -63,6 +63,7 @@ policy-ExtensionSettings = Hallitse kaikkia laajennusten asennukseen liittyviä 
 policy-ExtensionUpdate = Ota käyttöön tai poista käytöstä laajennusten automaattipäivitykset.
 policy-FirefoxHome = Muokkaa Firefox-aloitussivun asetuksia.
 policy-FlashPlugin = Salli tai estä Flash-liitännäisen käyttö.
+policy-Handlers = Määritä oletussovelluskäsittelijät.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Aseta ja valinnaisesti lukitse aloitussivu.
