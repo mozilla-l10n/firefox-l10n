@@ -1,0 +1,50 @@
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+
+<!ENTITY  copy.label             "Kopiraj">
+<!ENTITY  selectall.label        "Izberi vse">
+
+<!ENTITY  generalTab            "Splošno">
+<!ENTITY  generalSize           "Velikost:">
+<!ENTITY  generalModified       "Spremenjeno:">
+<!ENTITY  generalMetaName       "Ime">
+<!ENTITY  generalSecurityDetails           "Podrobnosti">
+
+<!ENTITY  formName              "Ime">
+<!ENTITY  formFields            "Polja:">
+<!ENTITY  formLabel             "Oznaka">
+
+<!ENTITY  linksTab              "Povezave">
+<!ENTITY  linkName              "Ime">
+
+<!ENTITY  mediaAlt              "Nadomestno besedilo:">
+<!ENTITY  mediaAltHeader        "Nadomestno besedilo">
+<!ENTITY  mediaType             "Vrsta">
+<!ENTITY  mediaSize             "Velikost">
+<!ENTITY  mediaTitle            "Naslov:">
+<!ENTITY  mediaLongdesc         "Dolg opis:">
+<!ENTITY  mediaSaveAs           "Shrani kot …">
+
+
+<!ENTITY  permTab               "Dovoljenja">
+<!ENTITY  permUseDefault        "Uporabi privzeto">
+<!ENTITY  permAskAlways         "Vedno vprašaj">
+<!ENTITY  permAllow             "Dovoli">
+<!ENTITY  permissionsFor        "Dovoljenja za:">
+<!ENTITY  permImage             "Naloži slike">
+
+<!ENTITY  securityTab           "Varnost">
+<!ENTITY  securityView.certView "Preglej digitalno potrdilo">
+
+
+<!ENTITY  securityView.identity.owner    "Lastnik:">
+
+<!ENTITY  securityView.identity.validity "Poteče:">
+
+<!ENTITY  securityView.privacy.header                   "Zasebnost in zgodovina">
+
