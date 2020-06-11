@@ -903,6 +903,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Hallitse oikeuksia…
     .accesskey = o
+sitedata-cookies-exceptions =
+    .label = Hallitse poikkeuksia…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 

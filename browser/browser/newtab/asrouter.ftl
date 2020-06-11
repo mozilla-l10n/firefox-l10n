@@ -235,6 +235,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Kuva kuvassa -kuvake
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Suojausten yhteenveto
+cfr-whatsnew-protections-body = Suojausten yhteenveto sisältää yhteenvetoraportit tietovuodoista ja salasanojen hallinnasta. Voit nyt katsoa, kuinka monta tietovuotoa olet selvittänyt ja onko tallentamiasi salasanoja vuotanut tietovuodossa.
 cfr-whatsnew-protections-cta-link = Näytä suojausten yhteenveto
 cfr-whatsnew-protections-icon-alt = Kilpikuvake
 
