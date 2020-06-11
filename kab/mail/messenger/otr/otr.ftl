@@ -4,6 +4,9 @@
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-msg_resent = Izen aneggaru yettwazen tikkelt-nniḍen i { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Tremseḍ-d izen yettwagelhen ur nettwaɣra ara seg { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person

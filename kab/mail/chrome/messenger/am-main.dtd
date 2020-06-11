@@ -15,6 +15,7 @@
 <!ENTITY name.accesskey "s">
 <!ENTITY email.label "Tansa Imayl:">
 <!ENTITY email.accesskey "n">
+<!ENTITY catchAll.label "Azen-d tiririt si tmagit-a ma yili iqerra n usiweḍ mṣadan:">
 <!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Err-i tensa:">
 <!ENTITY replyTo.accesskey "n">
