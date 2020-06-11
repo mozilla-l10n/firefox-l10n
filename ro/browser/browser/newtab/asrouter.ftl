@@ -234,6 +234,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Pictogramă de imagine-în-imagine
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-cta-link = Vezi tabloul de bord privind protecțiile
 
 ## Better PDF message
 
