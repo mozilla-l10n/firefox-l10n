@@ -186,6 +186,13 @@ monitor-manage-breaches-link = Hallitse vuotoja
 monitor-breaches-resolved-title = Hienoa! Olet selvittänyt kaikki tunnetut tietovuodot.
 monitor-breaches-resolved-description = Jos sähköpostiosoitteesi ilmenee uusissa vuodoissa, ilmoitamme siitä sinulle.
 # Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] Tietovuodoista { $numBreachesResolved }/{ $numBreaches } on merkitty selvitetyksi
+    }
+# Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % valmiina
 monitor-partial-breaches-motivation-title-start = Hieno alku!
