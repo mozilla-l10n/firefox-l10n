@@ -97,10 +97,10 @@ imported-edge-reading-list = Læseliste (fra Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
-browser-data-session-checkbox =
-    .label = Vinduer og faneblade
-browser-data-session-label =
-    .value = Vinduer og faneblade
+browser-data-cookies-checkbox =
+  .label = Cookies
+browser-data-cookies-label =
+  .value = Cookies
 
 browser-data-history-checkbox =
   .label = { $browser ->

@@ -103,6 +103,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Slå remote debugging til
 options-enable-remote-tooltip =
     .title = Tillader at Udviklerværktøj kan debugge eksterne Firefox-instanser som fx Firefox OS
+
+options-enable-remote-tooltip2 =
+    .title = Tillader at fjern-debugge denne instans af browseren.
+
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Aktiver service workers over HTTP (når værktøjerne er åbnet)
 options-enable-service-workers-http-tooltip =
