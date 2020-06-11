@@ -116,6 +116,9 @@ sandbox-sys-call-number = Sistem çağrısı
 sandbox-sys-call-args = Parametreler
 safe-mode-title = Güvenli kipi deneyin
 restart-in-safe-mode-label = Eklentileri devre dışı bırakıp yeniden başlat…
+clear-startup-cache-title = Başlangıç önbelleğini temizlemeyi deneyin
+clear-startup-cache-label = Başlangıç önbelleğini temizle…
+startup-cache-dialog-title = Başlangıç önbelleğini temizle
 
 ## Media titles
 

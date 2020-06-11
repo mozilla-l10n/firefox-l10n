@@ -185,6 +185,7 @@ monitor-no-breaches-description = Bilinen veri ihlallerinde yer almıyorsunuz. B
 monitor-view-report-link = Raporu görüntüle
     .title = { -monitor-brand-short-name }'de ihlalleri çözün
 monitor-breaches-unresolved-title = İhlallerinizi çözün
+monitor-breaches-unresolved-description = İhlal ayrıntılarını inceleyip bilgilerinizi korumak için gereken adımları attıktan sonra ihlalleri "çözüldü" olarak işaretleyebilirsiniz.
 monitor-manage-breaches-link = İhlalleri yönet
     .title = İhlalleri { -monitor-brand-short-name }’de yönetin
 monitor-breaches-resolved-title = Güzel! Bilinen tüm ihlalleri çözdünüz.
