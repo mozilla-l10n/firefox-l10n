@@ -61,18 +61,25 @@ policy-LegacyProfiles = Deactivar la funcziun che pretenda in profil separà per
 policy-LocalFileLinks = Permetter a websites specificas dad utilisar colliaziuns a datotecas localas.
 policy-NetworkPrediction = Activar u deactivar «network prediction» (prelectura DNS).
 policy-OfferToSaveLogins = Applitgar ils parameters che permettan a { -brand-short-name } da memorisar infurmaziuns d'annunzia. Omaduas valurs, «true» e «false», èn validas.
+policy-OfferToSaveLoginsDefault = Definir la valur da standard per permetter a { -brand-short-name } da proponer da memorisar infurmaziuns d'annunzia. Omaduas valurs, «true» e «false», èn validas.
 policy-OverrideFirstRunPage = Surscriver la pagina che vegn mussada suenter avair avià l'emprima giada. Definir questa directiva cun ina valur vida per deactivar la pagina.
 policy-OverridePostUpdatePage = Surscriver la pagina «Novaziuns» che vegn mussada suenter actualisaziuns. Definir questa directiva cun ina valur vida per impedir che la pagina vegnia mussada.
+policy-PasswordManagerEnabled = Activar la memorisaziun da pleds-clav en l'administraziun da pleds-clav.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Deactivar u configurar PDF.js, il lectur per PDFs integrà en { -brand-short-name }.
+policy-Permissions2 = Configurar permissiuns per camera, microfon, posiziun, notificaziuns e la reproducziun automatica.
 policy-Preferences = Definir e fixar la valur per ina subgruppa da preferenzas.
 policy-PromptForDownloadLocation = Dumandar nua memorisar datotecas cun telechargiar.
 policy-Proxy = Configurar ils parameters da proxy.
 policy-RequestedLocales = Definir, en la successiun da preferenza, la glista da las linguas («locales») dumandadas da l'applicaziun.
 policy-SanitizeOnShutdown2 = Stizzar las datas da navigaziun cun terminar.
 policy-SearchEngines = Configurar ils parameters da maschinas da tschertgar. Questa directiva è mo disponibla en la versiun Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Activar u deactivar propostas da tschertga.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installar moduls PKCS #11.
 policy-SSLVersionMax = Definir la versiun maximala da SSL.
 policy-SSLVersionMin = Definir la versiun minimala da SSL.
 policy-SupportMenu = Agiuntar in element da menu persunalisà en il menu d'agid.
+policy-UserMessaging = Betg mussar tscherts messadis a l'utilisader.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir l'access a tschertas websites. Consultar la documentaziun per ulteriuras infurmaziuns davart il format.
