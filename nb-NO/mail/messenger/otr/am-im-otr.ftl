@@ -5,6 +5,7 @@
 account-encryption =
     .label = Ende-til-ende-kryptering
 account-otr-label = Off-the-Record melding (OTR)
+otr-encryption-title = Bekreftet kryptering
 otr-fingerprint-label = Ditt fingeravtrykk:
 view-fingerprint-button =
     .label = Behandle fingeravtrykk for kontakter
