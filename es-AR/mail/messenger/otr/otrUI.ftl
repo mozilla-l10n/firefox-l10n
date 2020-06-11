@@ -17,3 +17,19 @@ finger-verify = Verificar
 finger-verify-accessKey = V
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Agregar huella digital OTR
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = Intentando iniciar una conversación cifrada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = Intentando actualizar la conversación cifrada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = La conversación encriptada con { $name } se terminó.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = La identidad de { $name } todavía no se verificó. Las escuchas casuales no son posibles, pero con algún esfuerzo alguien podría estar escuchando. Evite la vigilancia verificando la identidad de este contacto.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } se está contactando desde una computadora no reconocida. Las escuchas casuales no son posibles, pero con algún esfuerzo alguien podría estar escuchando. Evite la vigilancia verificando la identidad de este contacto.
+state-not_private = La conversación actual no es privada.
