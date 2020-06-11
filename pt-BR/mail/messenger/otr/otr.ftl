@@ -27,6 +27,14 @@ msgevent-rcvdmsg_unreadable = Você recebeu uma mensagem criptografada ilegível
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_malformed = Você recebeu uma mensagem de dados malformada de { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Pulsação recebida de { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Pulsação enviada para { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-rcvdmsg_general_err = Ocorreu um erro inesperado ao tentar proteger sua conversa usando OTR.
 # Variables:

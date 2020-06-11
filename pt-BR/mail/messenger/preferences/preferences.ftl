@@ -45,7 +45,16 @@ privacy-data-collection-header = Coleta e uso de dados
 collection-header = Coleta e uso de dados pelo { -brand-short-name }
 collection-privacy-notice = Aviso de privacidade
 collection-health-report-telemetry-disabled-link = Saiba mais
+collection-health-report =
+    .label = Permitir que o { -brand-short-name } envie dados técnicos e de interação para a { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Saiba mais
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = O relatório de dados está desativado nesta configuração
+collection-backlogged-crash-reports =
+    .label = Permitir que o { -brand-short-name } envie relatos de travamento em seu nome
+    .accesskey = v
 collection-backlogged-crash-reports-link = Saiba mais
 privacy-security-header = Segurança
 privacy-scam-detection-title = Detecção de fraudes
@@ -151,6 +160,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Exibir ícone na bandeja
     .accesskey = n
+mail-system-sound-label =
+    .label = Som padrão do sistema para novas mensagens
+    .accesskey = m
 mail-custom-sound-label =
     .label = Usar este arquivo de som:
     .accesskey = U
@@ -661,6 +673,21 @@ chat-variant-label =
 chat-header-label =
     .label = Exibir cabeçalho
     .accesskey = C
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Procurar nas Opções
+           *[other] Procurar nas Preferências
+        }
 
 ## Preferences UI Search Results
 
