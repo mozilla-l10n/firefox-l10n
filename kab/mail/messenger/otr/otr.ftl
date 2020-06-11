@@ -4,6 +4,12 @@
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = Tremseḍ-d izen awgelhan ur nettwaɣra ara seg { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Tremseḍ-d izen n yisefka ur nemsil ara akken iwata seg{ $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Yebda udiwenni uslig d { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
