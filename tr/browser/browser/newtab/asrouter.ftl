@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Bunu deneyin: Sekme sabitleme
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bunu neden görüyorum?
-
 cfr-doorhanger-extension-cancel-button = Daha sonra
     .accesskey = D
-
 cfr-doorhanger-extension-ok-button = Hemen ekle
     .accesskey = H
 cfr-doorhanger-pintab-ok-button = Bu sekmeyi sabitle
     .accesskey = s
-
 cfr-doorhanger-extension-manage-settings-button = Öneri ayarlarını yönet
     .accesskey = Ö
-
 cfr-doorhanger-extension-never-show-recommendation = Bana bu öneriyi gösterme
     .accesskey = B
-
 cfr-doorhanger-extension-learn-more-link = Daha fazla bilgi al
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = geliştiren: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Öneri
-
 cfr-doorhanger-extension-notification2 = Öneri
     .tooltiptext = Eklenti önerisi
     .a11y-announcement = Eklenti öneriniz var
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Öneri
@@ -68,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } kullanıcı
        *[other] { $total } kullanıcı
     }
-
 cfr-doorhanger-pintab-description = En çok kullandığınız sitelere kolayca ulaşın. Siteleri sabit bir sekmede açık tutabilirsiniz (tarayıcınızı yeniden başlatsanız bile).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -76,10 +66,8 @@ cfr-doorhanger-pintab-description = En çok kullandığınız sitelere kolayca u
 cfr-doorhanger-pintab-step1 = Sabitlemek istediğiniz sekmeye <b>sağ tıklayın</b>.
 cfr-doorhanger-pintab-step2 = Menüden <b>Sekmeyi sabitle</b>’yi seçin.
 cfr-doorhanger-pintab-step3 = Sitede bir güncelleme olursa sabit sekmenizde mavi bir nokta göreceksiniz.
-
 cfr-doorhanger-pintab-animation-pause = Duraklat
 cfr-doorhanger-pintab-animation-resume = Devam et
-
 
 ## Firefox Accounts Message
 
@@ -101,22 +89,16 @@ cfr-protections-panel-link-text = Daha fazla bilgi alın
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Yeni özellik:
-
 cfr-whatsnew-button =
     .label = Yeni neler var?
     .tooltiptext = Yeni neler var?
-
 cfr-whatsnew-panel-header = Yeni neler var?
-
 cfr-whatsnew-release-notes-link-text = Sürüm notlarını okuyun
-
 cfr-whatsnew-fx70-title = { -brand-short-name } artık gizliliğiniz için daha sıkı çalışıyor
 cfr-whatsnew-fx70-body = Bu güncellemede İzlenme Koruması özelliğini geliştirdik ve sitelere kaydolurken güvenli parola üretmeyi daha da kolaylaştırdık.
-
 cfr-whatsnew-tracking-protect-title = Kendinizi takipçilerden koruyun
 cfr-whatsnew-tracking-protect-body = { -brand-short-name }, internette yaptıklarınızı izleyen çoğu sosyal medya takipçisini ve siteler arası takipçiyi engeller.
 cfr-whatsnew-tracking-protect-link-text = Raporunuzu görün
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -127,11 +109,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } tarihinden beri
 cfr-whatsnew-tracking-blocked-link-text = Raporu görüntüle
-
 cfr-whatsnew-lockwise-backup-title = Parolalarınızı yedekleyin
 cfr-whatsnew-lockwise-backup-body = Giriş yaptığınız her yerden ulaşabileceğiniz, güvenli parolalar oluşturun.
 cfr-whatsnew-lockwise-backup-link-text = Yedeklemeyi aç
-
 cfr-whatsnew-lockwise-take-title = Parolalarınızı yanınızda taşıyın
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mobil uygulaması, yedeklediğiniz parolalara her yerden güvenle ulaşmanızı sağlar.
 cfr-whatsnew-lockwise-take-link-text = Uygulamayı indir
@@ -165,7 +145,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Engellenen parmak izi toplayıcı
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }, reklamcılara özel profilinizi çıkarmak için cihazınız ve eylemleriniz hakkında gizlice bilgi toplayan birçok parmak izi toplayıcıyı engelliyor.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Parmak izi toplayıcılar
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name }, reklamcılara özel profilinizi çıkarmak için cihazınız ve eylemleriniz hakkında gizlice bilgi toplayan parmak izi toplayıcıları engelleyebilir.
@@ -247,3 +226,11 @@ cfr-whatsnew-passwords-icon-alt = Güvensiz parola anahtar simgesi
 cfr-whatsnew-pip-fullscreen-header = Görüntü içinde görüntüyü tam ekrana taşıyın
 cfr-whatsnew-pip-fullscreen-body = Görüntü içinde görüntü modunda açtığınız videolara çift tıklayarak onları tam ekran yapabilirsiniz.
 cfr-whatsnew-pip-fullscreen-icon-alt = Görüntü içinde görüntü simgesi
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-icon-alt = Kalkan simgesi
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Daha iyi PDF deneyimi

@@ -97,6 +97,52 @@ imported-edge-reading-list = Okuma Listesi (Edge’den)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Çerezler
+browser-data-cookies-label =
+    .value = Çerezler
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Gezinti geçmişi ve yer imleri
+           *[other] Gezinti geçmişi
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Gezinti geçmişi ve yer imleri
+           *[other] Gezinti geçmişi
+        }
+browser-data-formdata-checkbox =
+    .label = Kayıtlı form geçmişi
+browser-data-formdata-label =
+    .value = Kayıtlı form geçmişi
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Kayıtlı hesaplar ve parolalar
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Kayıtlı hesaplar ve parolalar
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Sık kullanılanlar
+            [edge] Sık kullanılanlar
+           *[other] Yer imleri
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Sık kullanılanlar
+            [edge] Sık kullanılanlar
+           *[other] Yer imleri
+        }
+browser-data-otherdata-checkbox =
+    .label = Diğer veriler
+browser-data-otherdata-label =
+    .label = Diğer veriler
 browser-data-session-checkbox =
     .label = Pencereler ve sekmeler
 browser-data-session-label =

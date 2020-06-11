@@ -500,6 +500,7 @@ home-prefs-topsites-description = En çok ziyaret ettiğiniz siteler
 home-prefs-recommended-by-header =
     .label = { $provider } öneriyor
 home-prefs-recommended-by-description = İnternetin her yanından sizin için seçtiğimiz kaliteli içerikler
+home-prefs-recommended-by-description-update = { $provider } tarafından seçilen harika içerikler
 
 ##
 
