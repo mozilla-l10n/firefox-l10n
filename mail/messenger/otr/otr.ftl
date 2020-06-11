@@ -16,6 +16,9 @@ msgevent-msg_resent = Den siste meldingen til { $name } ble sendt på nytt.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Du mottok en uleselig kryptert melding fra { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Du mottok en ugyldig datamelding fra { $name }.
 # A Heartbeat is a technical message used to keep a connection alive.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
