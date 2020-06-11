@@ -272,9 +272,12 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Nunca permitir
     .accesskey = N
+popup-silence-notifications-checkbox = Deshabilitar notificaciones de { -brand-short-name } mientras se comparte
+popup-silence-notifications-checkbox-warning = { -brand-short-name } no mostrará notificaciones mientras se está compartiendo.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Estás compartiendo { -brand-short-name }. Otras personas pueden ver cuando pasas a una pestaña nueva.
 sharing-warning-screen = Estás compartiendo toda tu pantalla. Otras personas pueden ver cuando cambias a una pestaña nueva.
 sharing-warning-proceed-to-tab =
     .label = Ir a la pestaña
