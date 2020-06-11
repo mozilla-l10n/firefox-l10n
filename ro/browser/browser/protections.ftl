@@ -78,6 +78,24 @@ lockwise-passwords-stored =
         [few] parole stocate în siguranță <a data-l10n-name="lockwise-how-it-works">Cum funcționează</a>
        *[other] de parole stocate în siguranță <a data-l10n-name="lockwise-how-it-works">Cum funcționează</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 parolă este posibil să fi fost expusă într-o încălcare a securității datelor.
+        [few] { $count } parole este posibil să fi fost expuse într-o încălcare a securității datelor.
+       *[other] { $count } de parole este posibil să fi fost expuse într-o încălcare a securității datelor.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 parolă stocată în siguranță.
+        [few] Parolele tale sunt stocate în siguranță.
+       *[other] Parolele tale sunt stocate în siguranță.
+    }
 turn-on-sync = Activează { -sync-brand-short-name }...
     .title = Mergi la preferințele de sincronizare
 manage-connected-devices = Gestionează dispozitivele…
@@ -94,7 +112,11 @@ monitor-link = Cum funcționează
 monitor-header-content-no-account = Verifică { -monitor-brand-name } pentru a vedea dacă faci parte dintr-o încălcare cunoscută a securității datelor și pentru a obține alerte despre încălcările noi.
 monitor-header-content-signed-in = { -monitor-brand-name } te avertizează dacă informațiile tale apar într-o încălcare cunoscută a securității datelor.
 monitor-sign-up = Înregistrează-te pentru alerte privind încălcările securității datelor
+monitor-sign-up-link = Înregistrează-te pentru alerte privind încălcările securității datelor
+    .title = Înregistrează-te pentru alerte privind încălcările securității datelor pe { -monitor-brand-name }
 auto-scan = Scanat automat astăzi
+monitor-breaches-tooltip =
+    .title = Vezi încălcările securității datelor pe { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
