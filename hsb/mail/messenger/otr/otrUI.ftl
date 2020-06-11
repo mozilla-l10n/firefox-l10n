@@ -22,6 +22,9 @@ state-private-label = Priwatny
 state-finished-label = Dokónčene
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+verify-request = { $name } je wo přepruwowanje wašeje identity prosył.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 afterauth-private = Sće identitu { $name } přepruwował.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -31,3 +34,8 @@ error-title = Zmylk
 success-title = Zaklučowanje wot kónca do kónca
 successThem-title = Identitu wašeho kontakta přepruwować
 fail-title = Přepruwowanje móžne njeje
+waiting-title = Wokrućenske naprašowanje je so pósłało
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Wutworjenje priwatneho OTR-kluca je so nimokuliło: { $error }
