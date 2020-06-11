@@ -27,4 +27,9 @@ context-gone_secure_private = Yebda udiwenni uslig d { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_unverified = Yebda udiwenni awgelhan maca { $name } ur yettwasenqed ara.
-error-unreadable = Tuzneḍ izen awgelhan ur nettwaɣra ara.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Tuzneḍ isefka iwgelhanen i { $name }, ur ten-yeṛǧi ara.
+error-unreadable = Tenremseḍ izen awgelhan ur nettwaɣra ara.
+error-malformed = Tenremseḍ izen n yisefka ur nemsil ara akken iwata.
+resent = [azen tikkelt-nniḍen]
