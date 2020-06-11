@@ -32,6 +32,7 @@ auth-questionAndAnswer-label =
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
 auth-how = Como você quer verificar a identidade do seu contato?
+auth-qaInstruction = Pense numa pergunta cuja resposta seja conhecida apenas por você e seu contato. Digite a pergunta e a resposta e aguarde o contato digitar a mesma resposta. Se as respostas não combinarem, o canal de comunicação que você está usando pode estar sob vigilância.
 auth-question = Digite uma pergunta:
 auth-answer = Digite a resposta (diferencia maiúsculas de minúsculas):
 auth-secret = Digite o segredo:
