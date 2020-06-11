@@ -58,6 +58,8 @@ protections-panel-not-found-label = Nedepistate deloc
 
 protections-panel-settings-label = Setări pentru protecție
 protections-panel-showreport-label = Afișează raportul
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Tablou de bord privind protecțiile
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
