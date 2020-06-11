@@ -12,4 +12,9 @@
 <!ENTITY window.title "Sztartła starszo wersyjo aplikacyje Firefox">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "Skuli użycio starszyj wersyje Firefoxa mogōm sie popsować zokłodki i historyjo przeglōndanio, co sōm spamiyntane w profilu, co już funguje. Coby chrōnić swoje dane, zrychtuj nowy profil esktra do tyj instalacyje aplikacyje &brandShortName;.">
+<!ENTITY window.sync "Skuli użycio starszyj wersyje Firefoxa mogōm sie popsować zokłodki i historyjo przeglōndanio, co sōm spamiyntane w profilu, co już funguje. Coby chrōnić swoje dane, zrychtuj nowy profil esktra do tyj instalacyje aplikacyje &brandShortName;. Zawdy idzie użyć &syncBrand.fxAccount.label;, coby synchrōnizować zokłodki i historyjo przeglōndanio miyndzy profilami.">
 
+<!ENTITY window.create "Zrychtuj nowy profil">
+<!ENTITY window.quit-win "Skōńcz">
+<!ENTITY window.quit-nonwin "Skōńcz">
