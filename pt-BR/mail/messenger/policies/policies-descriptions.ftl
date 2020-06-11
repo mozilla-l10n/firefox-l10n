@@ -56,6 +56,8 @@ policy-LegacyProfiles = Desativar o recurso de impor um perfil separado para cad
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Ativar a configuração padrão de comportamento legado do atributo SameSite de cookie.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reverter para o comportamento legado do atributo SameSite de cookies em sites especificados.
 
 ##
 
