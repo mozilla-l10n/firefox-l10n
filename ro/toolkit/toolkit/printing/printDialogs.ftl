@@ -58,7 +58,7 @@ margin-right =
 margin-right-invisible =
     .value = Dreapta:
 header-footer-label =
-    .value = Antete și subsoluri
+    .value = Anteturi și subsoluri
 hf-left-label =
     .value = Stânga:
 hf-center-label =
@@ -103,7 +103,6 @@ print-window =
     .title = Tipărire
 print-complete =
     .value = Tipărire încheiată.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
