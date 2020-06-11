@@ -3,5 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-handleinternally =
-    .label = Åbn med -brand-short-name }
+    .label = Åbn med { -brand-short-name }
     .accesskey = e
