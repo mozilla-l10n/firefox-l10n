@@ -120,6 +120,12 @@ sandbox-sys-call-args = Argumenter
 safe-mode-title = Prøv fejlsikret tilstand
 restart-in-safe-mode-label = Genstart med tilføjelser deaktiveret…
 
+clear-startup-cache-title = Prøv at rydde opstarts-cachen
+clear-startup-cache-label = Ryd opstarts-cachen…
+startup-cache-dialog-title = Ryd opstarts-cachen
+startup-cache-dialog-body = Genstart { -brand-short-name } for at rydde opstarts-cachen.i Dette ændrer hverken dine indstillinger eller fjerner tilføjelser, du har installeret til { -brand-short-name }.
+restart-button-label = Genstart
+
 ## Media titles
 
 audio-backend = Audio-backend

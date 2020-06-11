@@ -101,3 +101,51 @@ browser-data-session-checkbox =
     .label = Vinduer og faneblade
 browser-data-session-label =
     .value = Vinduer og faneblade
+
+browser-data-history-checkbox =
+  .label = { $browser ->
+     [firefox] Browserhistorik og bogmærker
+    *[other] Browserhistorik
+  }
+browser-data-history-label =
+  .value = { $browser ->
+     [firefox] Browserhistorik og bogmærker
+    *[other] Browserhistorik
+  }
+
+browser-data-formdata-checkbox =
+  .label = Gemt formularhistorik
+browser-data-formdata-label =
+  .value = Gemt formularhistorik
+
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+  .label = Gemte logins og adgangskoder
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+  .value = Gemte logins og adgangskoder
+
+browser-data-bookmarks-checkbox =
+  .label = { $browser ->
+     [ie] Favoritter
+     [edge] Favoritter
+    *[other] Bogmærker
+  }
+browser-data-bookmarks-label =
+  .value = { $browser ->
+     [ie] Favoritter
+     [edge] Favoritter
+    *[other] Bogmærker
+  }
+  
+browser-data-otherdata-checkbox =
+  .label = Andre data
+browser-data-otherdata-label =
+  .label = Andre data
+
+browser-data-session-checkbox =
+  .label = Vinduer og faneblade
+browser-data-session-label =
+  .value = Vinduer og faneblade

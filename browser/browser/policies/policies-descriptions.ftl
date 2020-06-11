@@ -128,6 +128,8 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbage til foræl
 
 policy-LocalFileLinks = Tillad specifikke websteder at linke til lokale filer.
 
+policy-MasterPassword = Kræv eller deaktiver brug af hovedadgangsnøgle.
+
 policy-NetworkPrediction = Slå network prediction (DNS prefetching) til eller fra.
 
 policy-NewTabPage = Slå siden Nyt faneblad til eller fra.

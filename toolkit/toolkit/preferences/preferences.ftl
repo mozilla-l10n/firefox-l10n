@@ -22,6 +22,7 @@ set-password-new-password = Indtast ny adgangskode:
 set-password-reenter-password = Genindtast ny adgangskode:
 set-password-meter = Kvalitetsmåler for adgangskode
 set-password-meter-loading = Indlæser
+master-password-admin = Din administrator kræver, at du har indstillet en hovedadgangsnøgle for at kunne gemme adgangskoder.
 master-password-description = En hovedadgangskode benyttes til at beskytte følsom information såsom adgangskoder til websteder. Hvis du opretter en hovedadgangskode vil du blive bedt om at indtaste den én gang pr. session, når { -brand-short-name } henter gemt information beskyttet af adgangskoden.
 master-password-warning = Vær sikker på at du husker hovedadgangskoden. Hvis du glemmer den, vil du ikke være stand til at få adgang til de informationer, der er beskyttet af den.
 remove-password =
