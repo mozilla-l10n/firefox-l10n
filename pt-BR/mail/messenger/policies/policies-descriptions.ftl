@@ -42,6 +42,8 @@ policy-DontCheckDefaultClient = Desativar verificação de cliente padrão ao in
 policy-DownloadDirectory = Definir e bloquear o diretório de download.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ativar ou desativar o bloqueio de conteúdo e opcionalmente o bloquear.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Ativar ou desativar Extensões de Mídias Criptografadas e, opcionalmente, bloquear.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -50,6 +52,7 @@ policy-ExtensionSettings = Gerencia todos os aspectos de instalação de extens�
 policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
 policy-HardwareAcceleration = Se for false, desativar aceleração de hardware.
 policy-InstallAddonsPermission = Permitir que certos sites instalem extensões.
+policy-LegacyProfiles = Desativar o recurso de impor um perfil separado para cada instalação.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
@@ -59,14 +62,20 @@ policy-InstallAddonsPermission = Permitir que certos sites instalem extensões.
 policy-LocalFileLinks = Permitir que sites específicos tenham link para arquivos locais.
 policy-NetworkPrediction = Ativar ou desativar predição de rede (DNS prefetching).
 policy-OfferToSaveLogins = Impor as configurações para permitir que o { -brand-short-name } ofereça memorizar contas de acesso e senhas salvas. Tanto "true" como "false" são valores aceitos.
+policy-OfferToSaveLoginsDefault = Definir o valor padrão para permitir que o { -brand-short-name } ofereça memorizar contas e senhas salvas. Ambos os valores true e false são aceitos.
 policy-OverrideFirstRunPage = Substituir a página de primeira execução. Defina esta política como vazio se quiser desativar a página de primeira execução.
 policy-OverridePostUpdatePage = Substituir a página “Novidades” exibida após uma atualização. Defina esta política como vazio se quiser desativar a exibição de uma página após atualizações.
+policy-PasswordManagerEnabled = Ativar salvamento de senhas no gerenciador de senhas.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Desativar ou configurar PDF.js, o visor de PDF integrado no { -brand-short-name }.
+policy-Permissions2 = Configurar permissões de câmera, microfone, localização, notificações e reprodução automática.
 policy-Preferences = Definir e bloquear o valor de um subconjunto de preferências.
 policy-PromptForDownloadLocation = Perguntar onde salvar arquivos ao baixar.
 policy-Proxy = Configurar definições de proxy.
 policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicação por ordem de preferência.
 policy-SanitizeOnShutdown2 = Limpar dados de navegação ao sair.
 policy-SearchEngines = Definir configurações de mecanismos de pesquisa. Esta política está disponível somente na versão Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Ativar ou desativar sugestões de pesquisa.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Definir a versão máxima de SSL.
