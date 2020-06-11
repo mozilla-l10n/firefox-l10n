@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "u">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Ruwäch tz'ib'">
 <!ENTITY FontFaceSelect.tooltip "Tacha' jun ruwäch tz'ib'">
 <!ENTITY fontfaceMenu.label "Ruwäch tz'ib'">
 <!ENTITY fontfaceMenu.accesskey "t">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Runimilem Tz'ib'">
 <!ENTITY FontSizeSelect.tooltip "Tacha' jun runimilem ruwäch tz'ib'">
 <!ENTITY decreaseFontSize.label "Ko'öl">
 <!ENTITY decreaseFontSize.accesskey "l">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Kicholb'al taq Ichinil…">
 <!ENTITY listPropsCmd.accesskey "o">
 
+<!ENTITY ParagraphSelect.title "Pajtzij">
 <!ENTITY ParagraphSelect.tooltip "Ticha' jun rub'anikil q'aptzij">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Ruch'akulal Rucholajem Tz'ib'">
@@ -206,7 +209,9 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Ruwa">
+<!ENTITY decreaseZIndex.label "Titaq Chupam">
 <!ENTITY layerSendToBack.tooltip "Titaq Chupam">
+<!ENTITY increaseZIndex.label "Tik'am pe chuwa">
 <!ENTITY layerBringToFront.tooltip "Tik'am pe chuwa">
 
 <!ENTITY increaseIndent.label "Runimirisaxik Ruchi' Cholaj">
@@ -304,27 +309,44 @@
 <!ENTITY linkToolbarCmd.tooltip "Tich'ik k'ak'a' ximonel o tinuk' taq richinil ri ximonel cha'on">
 <!ENTITY anchorToolbarCmd.label "Xukuxüb'">
 <!ENTITY anchorToolbarCmd.tooltip "Tich'ik k'ak'a' xukuxüb' b'ina'am o tinuk' taq richinil ri xukuxüb' b'ina'am cha'on">
+<!ENTITY colorButtons.title "Taq b'onil">
 <!ENTITY TextColorButton.tooltip "Ticha' rub'onil ri rucholajem tzij">
 <!ENTITY BackgroundColorButton.tooltip "Ticha' rub'onil ri rupam">
 <!ENTITY throbber.tooltip "Tib'e pa ri &vendorShortName; rutikirib'al ruxaq">
 <!ENTITY throbber.tooltip2 "Tib'e pa ri &brandShortName; rutikirib'al ruxaq">
+<!ENTITY HighlightColorButton.label "Tz'etöy">
 <!ENTITY HighlightColorButton.tooltip "Ticha' niya' retal rub'onil rucholajem tzij">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Runimilem Tz'ib'">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Tijikib'äx runimilem tz'ib'">
+<!ENTITY smaller.label "Ko'öl">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ko'öl runimilem ruwäch tz'ib'">
+<!ENTITY larger.label "Nïm">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Nïm runimilem ruwäch tz'ib'">
+<!ENTITY bold.label "Q'eqatz'ib'">
 <!ENTITY boldToolbarCmd.tooltip "Q'eqatz'ib'">
+<!ENTITY italic.label "Q'e'etz'ib'">
 <!ENTITY italicToolbarCmd.tooltip "Q'e'etz'ib'">
+<!ENTITY underline.label "Juxül">
 <!ENTITY underlineToolbarCmd.tooltip "Juxül">
+<!ENTITY bullets.label "Taq Weqoj">
 <!ENTITY bulletListToolbarCmd.tooltip "Tijikib'äx o tiyuj ri cholajem rik'in wachin">
+<!ENTITY numbers.label "Taq ajilab'äl">
 <!ENTITY numberListToolbarCmd.tooltip "Tijikib'äx o tiyuj ri cholajem ya'on rajilab'al">
+<!ENTITY outdent.label "Tiyuj ruchi' cholaj">
 <!ENTITY outdentToolbarCmd.tooltip "Rucholajem tzij ruchi' cholaj (tisilöx pan xokon)">
+<!ENTITY indent.label "Tiya' ruchi' cholaj">
 <!ENTITY indentToolbarCmd.tooltip "Ruchi' cholaj rucholajem tzij (tisilöx pan ajkiq'a')">
+<!ENTITY AlignPopupButton.label "Cholajem">
 <!ENTITY AlignPopupButton.tooltip "Ticha' runuk'ik rucholajem tzij">
+<!ENTITY InsertPopupButton.label "Tich'ap">
 <!ENTITY InsertPopupButton.tooltip "Tich'ik jun Ximonel, Xukuxüb', Wachib'äl, Kotz'ojuch' o Kemon Kajtz'ik">
+<!ENTITY alignLeftButton.label "Ticholajïx pa Xokon">
 <!ENTITY alignLeftButton.tooltip "Tichol ri rucholajem tzij pa xokon ruchi'">
+<!ENTITY alignCenterButton.label "Ticholajïx pa Nik'aj">
 <!ENTITY alignCenterButton.tooltip "Tichol ri rucholajem tzij pa nik'aj">
+<!ENTITY alignRightButton.label "Ticholajïx pan Ajkiq'a'">
 <!ENTITY alignRightButton.tooltip "Tichol ri rucholajem tzij pan ajkiq'a' ruchi'">
 <!ENTITY alignJustifyButton.tooltip "Tichol ri rucholajem tzij pan ajkiq'a' chuqa' xokon ruchi'">
 

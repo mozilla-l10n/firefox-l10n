@@ -13,6 +13,10 @@
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Tokisäx re iqitzijib'äl re' richin newäx kisik'ixik &amp; netamäx kisik'ixik ri taq rutzijol yetaq pe chi re:">
 
+<!ENTITY e2eLearnMore.label "Tetamäx ch'aqa' chik">
+
+
+
 <!ENTITY digitalSign.certificate.button "Ticha'…">
 <!ENTITY digitalSign.certificate.accesskey "c">
 <!ENTITY digitalSign.certificate_clear.button "Tijosq'ïx">
@@ -31,6 +35,12 @@
 <!ENTITY manageCerts2.accesskey "K">
 <!ENTITY manageDevices.label "Taq Okisaxel richin Jikomal">
 <!ENTITY manageDevices.accesskey "m">
+
+
+
+
+
+
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Ticha' Ruwujil B'i'aj">

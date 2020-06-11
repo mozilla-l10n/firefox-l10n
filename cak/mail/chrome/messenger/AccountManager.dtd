@@ -8,6 +8,8 @@
 
 <!ENTITY accountManagerTitle.label "Kinuk'ulem Rub'i' Taqoya'l">
 
+<!ENTITY  accountManagerCloseButton.label "Titz'apïx">
+
 <!ENTITY accountActionsButton.label "Kisamaj Rub'i' Taqoya'l">
 <!ENTITY accountActionsButton.accesskey "T">
 <!ENTITY addMailAccountButton.label "Titz'aqatisäx Mail Rub'i' Taqoya'l…">

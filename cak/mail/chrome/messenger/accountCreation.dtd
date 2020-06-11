@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (näj taq yakwuj)">
 <!ENTITY pop3Long.label                  "POP3 (tiyake' taqoya'l pan akematz'ib')">
 
+<!ENTITY manualConfigTable.summary       "Kinuk'ulem k'uxasamaj">
 <!ENTITY incoming.label                  "Tajin nok:">
 <!ENTITY incomingColumn.label            "Ja nok">
 <!ENTITY outgoing.label                  "Tajin nel:">

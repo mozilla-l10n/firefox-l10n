@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Ruyakb'alil Tzijol">
 <!ENTITY securitySettings.label "Kijikomal Nuk'ulem">
 <!ENTITY serverSettings.label "Kinuk'ulem K'uxasamaj">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "B'ey:">
 <!ENTITY port.accesskey "B">
 <!ENTITY serverPortDefault.label "K'o wi:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "T">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Tik'utüx pe chwe chi rij niqasäx ch'aqa' chik">
 <!ENTITY maxMessagesStart.accesskey "w">
@@ -77,6 +75,7 @@
 <!ENTITY advancedButton.accesskey "x">
 <!ENTITY serverDefaultCharset2.label "Runuk'ik Rucholajem Tzij e K'o wi:">
 <!ENTITY localPath.label "Aj wawe' cholb'äl:">
+<!ENTITY localPath1.label "Aj wawe' Cholb'äl:">
 <!ENTITY localFolderPicker.label "Ticha' Aj Wawe' Cholb'äl">
 <!ENTITY browseFolder.label "Tokik'amayin…">
 <!ENTITY browseFolder.accesskey "o">

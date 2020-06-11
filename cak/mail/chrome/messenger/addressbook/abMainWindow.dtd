@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "y">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Kecha' taq che'el richin nik'ut">
 <!ENTITY newContactButton.tooltip                       "Titz'uk jun k'ak'a' kitz'ib'awuj rochochib'al rub'i' achib'il">
 <!ENTITY newlistButton.tooltip                          "Tinuk' jun k'ak'a' cholb'äl">
 <!ENTITY editPropertiesButton.tooltip                   "Tinuk' ri ch'akulal cha'on">

@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "Taq ajowab'äl">
 <!ENTITY preferencesCmdUnix.accesskey     "w">
 
+<!ENTITY customizeCmd.label "Tichinäx">
+<!ENTITY customizeCmd.accesskey "c">
+
 <!ENTITY viewMenu.label          "Titz'et">
 <!ENTITY viewMenu.accesskey        "t">
 <!ENTITY viewToolbarsMenu.label        "Taq cholsamajib'äl">

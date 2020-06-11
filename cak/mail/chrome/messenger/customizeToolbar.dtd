@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Titz'aqatisäx K'ak'a' Kik'ajtz'ik Samajib'äl">
 <!ENTITY showTitlebar.label       "Tik'ut Rukajtz'ik B'i'aj">
 <!ENTITY extraDragSpace.label     "Titz'aqatisäx Tiqirirëx Kojol">
+<!ENTITY showTitlebar2.label      "Rub'i' molsamaj">
+<!ENTITY extraDragSpace2.label    "Tiqirirëx Kojol">
 <!ENTITY saveChanges.label        "Xk'is">
 <!ENTITY undoChanges.label        "Ketzolïx ri taq jaloj">

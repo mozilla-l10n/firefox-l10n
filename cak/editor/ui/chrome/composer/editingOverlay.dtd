@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Tijaq jun aj wawe' yakb'äl">
 <!ENTITY saveToolbarCmd.tooltip "Tiyak ri yakb'äl pa jun aj wawe' k'ojlib'äl">
 <!ENTITY publishToolbarCmd.tooltip "Tijotob'äx yakb'äl pa jun näj k'ojlib'äl">
+<!ENTITY printToolbarCmd.label "Titz'ajb'äx">
+<!ENTITY printToolbarCmd.tooltip "Titz'ajb'äx re ruxaq re'">
