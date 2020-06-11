@@ -4,6 +4,11 @@
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-encryption_required_part1 = Sće spytał, { $name } njezaklučowanu powěsć słać. Po prawidle njezaklučowane powěsće dowolene njejsu.
+msgevent-encryption_required_part2 = Pospytuje so, priwatnu rozmołwu započeć. Waša powěsć so znowa pósćele, hdyž so priwatna rozmołwa započina.
+msgevent-encryption_error = Při zaklučowanju wašeje powěsće je zmylk nastał. Powěsć njeje so pósłała.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = Poslednja powěsć na { $name } je so znowa pósłała.
 # A Heartbeat is a technical message used to keep a connection alive.
 # Variables:
