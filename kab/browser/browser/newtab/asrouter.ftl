@@ -236,3 +236,4 @@ cfr-whatsnew-protections-icon-alt = Tignit Shield
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Tirmit ifazen n PDF
+cfr-whatsnew-better-pdf-body = Imesliyen PDF ttaldayen-d tura srid deg { -brand-short-name }, eǧǧ tiddin n leqdic-ik ɣef wafus.
