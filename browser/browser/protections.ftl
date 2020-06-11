@@ -44,6 +44,7 @@ protection-report-page-summary-default = { -brand-short-name } suojaa yksityisyy
 protection-report-settings-link = Hallitse tietosuojan ja turvallisuuden asetuksia
 etp-card-title-always = Tehostettu seurannan suojaus: Aina päällä
 etp-card-title-custom-not-blocking = Tehostettu seurannan suojaus: POIS PÄÄLTÄ
+etp-card-content-description = { -brand-short-name } estää automaattisesti yrityksiä seuraamasta sinua salaa ympäri verkkoa.
 protection-report-etp-card-content-custom-not-blocking = Kaikki suojaukset ovat pois päältä. Valitse estettävät seuraimet { -brand-short-name }-suojausasetuksista.
 protection-report-manage-protections = Hallitse asetuksia
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
