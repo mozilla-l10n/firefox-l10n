@@ -69,7 +69,7 @@ import-close-source-browser = Przed przejściem dalej proszę upewnić się, że
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Z programu { $source }
+imported-bookmarks-source = Z programu { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -81,8 +81,8 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure
-imported-safari-reading-list = Lista Czytelnia (z Safari)
-imported-edge-reading-list = Do przeczytania (z Edge)
+imported-safari-reading-list = Lista Czytelnia (z Safari)
+imported-edge-reading-list = Do przeczytania (z Edge)
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -97,6 +97,52 @@ imported-edge-reading-list = Do przeczytania (z Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Ciasteczka
+browser-data-cookies-label =
+    .value = Ciasteczka
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Historia przeglądania i zakładki
+           *[other] Historia przeglądania
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Historia przeglądania i zakładki
+           *[other] Historia przeglądania
+        }
+browser-data-formdata-checkbox =
+    .label = Zapamiętane dane formularzy
+browser-data-formdata-label =
+    .value = Zapamiętane dane formularzy
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Zachowane dane logowania i hasła
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Zachowane dane logowania i hasła
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Ulubione
+            [edge] Ulubione
+           *[other] Zakładki
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Ulubione
+            [edge] Ulubione
+           *[other] Zakładki
+        }
+browser-data-otherdata-checkbox =
+    .label = Inne dane
+browser-data-otherdata-label =
+    .label = Inne dane
 browser-data-session-checkbox =
     .label = Okna i karty
 browser-data-session-label =
