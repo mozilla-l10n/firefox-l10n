@@ -7,6 +7,7 @@ carddav-window =
 carddav-dialog =
     .buttonlabelaccept = Kemmel
     .buttonaccesskeyaccept = C
+carddav-experimental-warning = Asefrek n umedlis n tansa CardDAV d armitan yerna yezmer ad isexṣer isefka-inek/inem i lebda. Muqel ma ad t-tesxedmeḍ akka.
 carddav-provider-label =
     .value = Asaǧǧaw CardDAV:
     .accesskey = p
