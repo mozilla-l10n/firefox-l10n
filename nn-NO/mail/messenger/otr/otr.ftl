@@ -5,6 +5,8 @@
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-encryption_required_part1 = Du prøvde å sende ei ukryptert melding til { $name }. Som ein policy er ukrypterte meldingar ikkje tillatne.
+msgevent-encryption_required_part2 = Forsøker å starte ein privat samtale. Meldinga di blir sendt på nytt når den private samtalen startar.
+msgevent-encryption_error = Det oppstod ein feil under kryptering av meldinga. Meldingen vart ikkje sendt.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Det oppstod ein feil under innstillinga av ein privat samtale med { $name }.
