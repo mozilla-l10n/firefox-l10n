@@ -7,6 +7,7 @@
 <!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->
+<!ENTITY enter.accesskey "E">
 <!ENTITY chooseFile.label "Vel fil…">
 <!ENTITY chooseFile.accesskey "V">
 <!ENTITY newPrivate.label "Nytt privat vindauge">

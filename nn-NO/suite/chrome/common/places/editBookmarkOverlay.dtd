@@ -5,7 +5,13 @@
 <!ENTITY editBookmarkOverlay.name.label                      "Namn:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Adresse:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "RSS-kjeldeadresse:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Sideplassering:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mappe:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Vis alle bokmerkemapper">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Gøym">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etikettar:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
