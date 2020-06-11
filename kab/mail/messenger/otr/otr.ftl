@@ -30,6 +30,6 @@ context-gone_secure_unverified = Yebda udiwenni awgelhan maca { $name } ur yettw
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Tuzneḍ isefka iwgelhanen i { $name }, ur ten-yeṛǧi ara.
-error-unreadable = Tenremseḍ izen awgelhan ur nettwaɣra ara.
-error-malformed = Tenremseḍ izen n yisefka ur nemsil ara akken iwata.
+error-unreadable = Tuzned izen awgelhan ur nettwaɣra ara.
+error-malformed = Tuzneḍ izen n yisefka ur nemsil ara akken iwata.
 resent = [azen tikkelt-nniḍen]

@@ -13,3 +13,10 @@ finger-verify = Senqed
 finger-verify-accessKey = V
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Rnu adsil umḍin OTR
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = Adiwenni awgelhan d { $name } yekfa.
+state-not_private = Adiwenni amiran mačči d uslig.
+state-not_private-label = Araɣelsan
+state-unverified-label = Ur yettwasenqed ara
+state-private-label = Uslig
