@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Protecții pentru confidențialitate
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Mergi la raportul de protecție a vieții private
+appmenuitem-protection-dashboard-title = Tablou de bord privind protecțiile
 appmenuitem-customize-mode =
     .label = Personalizează…
 
