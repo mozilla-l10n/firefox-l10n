@@ -51,3 +51,24 @@ msgevent-rcvdmsg_for_other_instance = { $name } envió un mensaje destinado a un
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Se inició una conversación privada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Se inició una conversación cifrada pero no verificada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Actualizó con éxito la conversación cifrada con { $name }.
+error-enc = Se produjo un error al cifrar el mensaje.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Envió datos cifrados a { $name }, que no lo esperaba.
+error-unreadable = Transmitió un mensaje cifrado ilegible.
+error-malformed = Transmitió un mensaje de datos con formato incorrecto.
+resent = [reenviado]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } terminó la conversación cifrada con usted; debería hacer lo mismo.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } solicitó una conversación cifrada fuera del registro (OTR). Sin embargo, no tiene un complemento para admitir eso. Consulte https://en.wikipedia.org/wiki/Off-the-Record_Messaging para obtener más información.
