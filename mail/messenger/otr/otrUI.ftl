@@ -42,10 +42,10 @@ state-private = L’identité de { $name } a été vérifiée. La conversation e
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } a mis fin à sa conversation chiffrée avec vous ; vous devriez faire de même.
-state-not_private-label = Non sécurisée
-state-unverified-label = Non vérifiée
-state-private-label = Privée
-state-finished-label = Terminée
+state-not_private-label = Non sécurisé
+state-unverified-label = Non vérifié
+state-private-label = Privé
+state-finished-label = Terminé
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 verify-request = { $name } a demandé la vérification de votre identité.
