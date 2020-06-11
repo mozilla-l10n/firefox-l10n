@@ -167,10 +167,20 @@ password-warning =
         [one] Tallennettu kirjautumistieto saattaa olla paljastunut tietovuodossa. Vaihda tämä salasana parantaaksesi tietoturvaasi verkossa. <a data-l10n-name="lockwise-link">Näytä tallennetut kirjautumistiedot</a>
        *[other] Tallennettuja kirjautumistietoja saattaa olla paljastunut tietovuodossa. Vaihda nämä salasanat parantaaksesi tietoturvaasi verkossa. <a data-l10n-name="lockwise-link">Näytä tallennetut kirjautumistiedot</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Salasana paljastunut selvittämättömissä vuodoissa
+       *[other] Salasanaa paljastunut selvittämättömissä vuodoissa
+    }
 monitor-no-breaches-title = Hyviä uutisia!
+monitor-no-breaches-description = Ei tunnettuja tietovuotoja. Saat tiedon, jos tilanne muuttuu.
 monitor-view-report-link = Näytä raportti
     .title = Selvitä vuodot { -monitor-brand-short-name }-palvelussa
 monitor-breaches-unresolved-title = Selvitä tietovuodot
+monitor-breaches-unresolved-description = Voit merkitä tietovuodon selvitetyksi, kun olet katsonut vuodon tiedot ja tehnyt tarvittavan tietojesi suojaamiseksi.
 monitor-manage-breaches-link = Hallitse vuotoja
     .title = Hallitse vuotoja { -monitor-brand-short-name }-palvelussa
 monitor-breaches-resolved-title = Hienoa! Olet selvittänyt kaikki tunnetut tietovuodot.
@@ -181,6 +191,7 @@ monitor-partial-breaches-percentage = { $percentageResolved } % valmiina
 monitor-partial-breaches-motivation-title-start = Hieno alku!
 monitor-partial-breaches-motivation-title-middle = Jatka samoin!
 monitor-partial-breaches-motivation-title-end = Melkein valmista! Jatka samoin.
+monitor-partial-breaches-motivation-description = Selvitä loput vuodoista { -monitor-brand-short-name }-palvelussa.
 monitor-resolve-breaches-link = Selvitä vuodot
     .title = Selvitä vuodot { -monitor-brand-short-name }-palvelussa
 
