@@ -154,6 +154,9 @@ password-warning =
         [few] seturi de date de autentificare salvate este posibil să fi fost expuse într-o încălcare a securității datelor. Schimbă aceste parole pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
        *[other] de seturi de date de autentificare salvate este posibil să fi fost expuse într-o încălcare a securității datelor. Schimbă aceste parole pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
     }
+monitor-no-breaches-title = Vești bune!
+monitor-view-report-link = Vezi raportul
+    .title = Rezolvă încălcările securității datelor pe { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
