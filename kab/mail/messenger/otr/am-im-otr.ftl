@@ -10,4 +10,6 @@ view-fingerprint-button =
     .label = Sefrek idsilen umḍinen n yinermisen
     .accesskey = F
 otr-settings-title = Iɣewwaren OTR
+otr-log =
+    .label = Rnu iznan iwgelhnen OTR deg yiɣmisen n udiwenni
 otr-notYetAvailable = Ulac akka tura
