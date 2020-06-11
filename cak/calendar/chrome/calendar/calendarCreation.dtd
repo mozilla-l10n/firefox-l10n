@@ -16,3 +16,19 @@
 
 <!ENTITY finishpage.shortdescription  "Xtz'uk ri Cholb'äl Q'ij" >
 <!ENTITY finishpage.longdescription   "Xtz'uk ri acholb'al q'ij." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Juley chik">
+
+<!ENTITY buttons.create.label "Titz'uk Cholb'äl Q'ij">
+<!ENTITY buttons.create.accesskey "j">
+
+
+
+<!ENTITY buttons.subscribe.label "Tz'ib'anïk b'i'aj">
+
+<!ENTITY location.label "K'ojlib'äl:">
+
+
