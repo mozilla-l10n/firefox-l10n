@@ -254,3 +254,15 @@ cfr-whatsnew-passwords-icon-alt = Ikon for usikker adgangskode
 cfr-whatsnew-pip-fullscreen-header = Brug billede-i-billede i fuld skærm
 cfr-whatsnew-pip-fullscreen-body = Når du får vist en video i et flydende vindue kan du nu dobbeltklikke på vinduet for at få det vist i fuld skærm.
 cfr-whatsnew-pip-fullscreen-icon-alt = Ikon for billede-i-billede
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = Overblik over, hvordan du er beskyttet
+cfr-whatsnew-protections-body = Oversigten over beskyttelse inkluderer sammendrag af rapporter om datalæk og håndtering af adgangskoder. Du kan se, hvor mange datalæk du har løst - og om nogle af dine gemte adgangskoder er blevet ramt af et datalæk.
+cfr-whatsnew-protections-cta-link = Se oversigt over beskyttelse
+cfr-whatsnew-protections-icon-alt = Skjold-ikon
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Bedre visning af PDF-dokumenter
+cfr-whatsnew-better-pdf-body = PDF-dokumenter åbnes nu direkte i { -brand-short-name }, så du har dem lige ved hånden.

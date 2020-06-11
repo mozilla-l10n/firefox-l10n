@@ -8,6 +8,9 @@ certmgr-title =
 certmgr-tab-mine =
     .label = Dine certifikater
 
+certmgr-tab-remembered =
+    .label = Beslutninger om godkendelse
+
 certmgr-tab-people =
     .label = Personer
 
@@ -18,6 +21,7 @@ certmgr-tab-ca =
     .label = Autoriteter
 
 certmgr-mine = Du har certifikater fra disse organisationer, der identificerer dig
+certmgr-remembered = Disse certifikater bruges til at identificere dig overfor websteder
 certmgr-people = Du har certifikater liggende, der identificerer disse personer
 certmgr-servers = Du har certifikater liggende, der identificerer disse servere
 certmgr-ca = Du har certifikater liggende, der identificerer disse certifikatautoriteter
@@ -73,6 +77,9 @@ certmgr-edit-cert-trust-email =
 certmgr-delete-cert =
     .title = Slet certifikat
     .style = width: 48em; height: 24em;
+
+certmgr-cert-host =
+    .label = Vært
 
 certmgr-cert-name =
     .label = Certifikatnavn
