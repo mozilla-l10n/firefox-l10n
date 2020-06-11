@@ -32,3 +32,25 @@ msgevent-log_heartbeat_rcvd = Heartbeat motteke frå { $name }.
 msgevent-log_heartbeat_sent = Heartbeat sendt til { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-rcvdmsg_general_err = Det oppstod ein uventa feil under freistnaden på å beskytte samtalen din ved å bruke OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = Følgjande melding frå { $name } vart ikkje kryptert: { $msg }
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Privat samtale med { $name } startet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Kryptert, men ikkje-stadfesta samtale med { $name } starta.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Oppdaterte den krypterte samtalen med { $name }.
+error-enc = Ein feil oppstod under kryptering av meldinga.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Du sende krypterte data til { $name }, som ikkje forventa det.
+error-unreadable = Du sende ei uleseleg kryptert melding.
+resent = [sendt på nytt]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } har avslutta den krypterte samtalen med deg; du bør gjere det same.

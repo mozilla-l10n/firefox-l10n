@@ -14,6 +14,9 @@ finger-verify = Stadfest
 finger-verify-accessKey = S
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Legg til OTR-fingeravtrykk
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = Freistar å starte ein kryptert samtale med { $name }.
 state-not_private-label = Utrygg
 state-unverified-label = Ikkje stadfesta
 state-private-label = Privat
