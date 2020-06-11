@@ -48,3 +48,6 @@ error-enc = En feil oppstod under kryptering av meldingen.
 error-not_priv = Du sendte krypterte data til { $name }, som ikke forventet det.
 error-unreadable = Du sendte en uleselig kryptert melding.
 resent = [sendt på nytt]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } har avsluttet den krypterte samtalen med deg; du bør gjøre det samme.
