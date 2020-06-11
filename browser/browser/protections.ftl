@@ -37,6 +37,10 @@ etp-card-title = Tehostettu seurannan suojaus
 etp-card-content = Seuraimet seuraavat sinua verkossa ja keräävät tietoja selaustapoihisi ja kiinnostuksen kohteisiisi liittyen. { -brand-short-name } estää monet näistä seuraimista ja muita haitallisia komentosarjoja.
 protection-report-webpage-title = Suojausten yhteenveto
 protection-report-page-content-title = Suojausten yhteenveto
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } voi suojata yksityisyyttäsi kulisseissa, kun selaat verkkoa. Tämä on yhteenveto näistä suojauksista, joihin kuuluu työkaluja, joiden avulla voit hallita turvallisuuttasi verkossa.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } suojaa yksityisyyttäsi kulisseissa, kun selaat verkkoa. Tämä on henkilökohtainen yhteenveto näistä suojauksista, joihin kuuluu työkaluja, joiden avulla voit hallita turvallisuuttasi verkossa.
 protection-report-settings-link = Hallitse tietosuojan ja turvallisuuden asetuksia
 etp-card-title-always = Tehostettu seurannan suojaus: Aina päällä
 etp-card-title-custom-not-blocking = Tehostettu seurannan suojaus: POIS PÄÄLTÄ
@@ -190,7 +194,7 @@ monitor-breaches-resolved-description = Jos sähköpostiosoitteesi ilmenee uusis
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
 monitor-partial-breaches-title =
     { $numBreaches ->
-       *[other] Tietovuodoista { $numBreachesResolved }/{ $numBreaches } on merkitty selvitetyksi
+       *[other] { $numBreachesResolved }/{ $numBreaches } tietovuotoa on merkitty selvitetyksi
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
