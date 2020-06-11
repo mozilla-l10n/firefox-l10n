@@ -27,3 +27,18 @@ msgevent-log_heartbeat_rcvd = Heartbeat mottatt fra { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log_heartbeat_sent = Heartbeat sendt til { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Det oppstod en uventet feil under forsøk på å beskytte samtalen din ved å bruke OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = Følgende melding mottatt fra { $name } ble ikke kryptert: { $msg }
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Privat samtale med { $name } startet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Kryptert, men ubekreftet samtale med { $name } startet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Oppdaterte den krypterte samtalen med { $name }.
