@@ -4,6 +4,7 @@
 
 account-encryption =
     .label = Awgelhen seg yixef ɣer wayeḍ
+account-otr-description = { -brand-short-name } isefrak awgelhen seg yixef ɣer yixef n yidiwenniyen seg wa ɣer wa. Ayagi ur yettaǧǧa ara wiyaḍ ad slen i udiwenni. Awgelhen seg yixef ɣer yixef ur yettuseqdac ara ala ma yili amdan-nni-nniḍen iseqdac aseɣẓan i yessefraken OTR.
 otr-encryption-title = Yettusenqed uwgelhen
 otr-fingerprint-label = Adsil-inek/inem umḍin:
 view-fingerprint-button =
