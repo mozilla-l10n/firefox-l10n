@@ -22,7 +22,7 @@ buddycontextmenu-label = Dodaj odcisk OTR
 alert-start = Próba rozpoczęcia zaszyfrowanej rozmowy z użytkownikiem { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-alert-refresh = Próba rozpoczęcia odświeżenia rozmowy z użytkownikiem { $name }.
+alert-refresh = Próba odświeżenia zaszyfrowanej rozmowy z użytkownikiem { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Zaszyfrowana rozmowa z użytkownikiem { $name } zakończyła się.
