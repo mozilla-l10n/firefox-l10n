@@ -47,6 +47,7 @@ error-enc = En feil oppstod under kryptering av meldingen.
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Du sendte krypterte data til { $name }, som ikke forventet det.
 error-unreadable = Du sendte en uleselig kryptert melding.
+error-malformed = Du sendte en feilformatert datamelding.
 resent = [sendt på nytt]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
