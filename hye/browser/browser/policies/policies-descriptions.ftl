@@ -84,6 +84,8 @@ policy-OfferToSaveLoginsDefault = Սահմանեք լռելեայն արժէքը
 policy-OverrideFirstRunPage = Անցկացրեք առաջին գործարկման էջը։ Այս քաղաքականութիւնը դատարկեք, եթե ցանկանում եք անջատել առաջին գործարկման էջը։
 policy-OverridePostUpdatePage = Հետեւեք «Ի՞նչն է նոր» էջի թարմացումից։ Եթե ցանկանում եք անջատել  թարմացումը՝ դատարկեք այս քաղաքականութիւնը։
 policy-PasswordManagerEnabled = Միացրեք գաղտնաբառերի պահպանումը գաղտնաբառի կառաւարում։
+# PDF.js and PDF should not be translated
+policy-PDFjs = Անջատել կամ կազմաձեւել PDF.js-ը, ներկառուցուած PDF դիտարկիչը { -brand-short-name }-ում:
 policy-PopupBlocking = Թոյլատրել որոշ կայքերին լռելեայն ցուցադրել թռուցիկներ։
 policy-Preferences = Սահմանեք եւ կողպէք արժէքը նախապատուութիւնների ենթաբազմութեան համար։
 policy-PromptForDownloadLocation = Ներբեռնելու ժամանակ հարցրեք, թե որտեղ պահել նիշքերը։
