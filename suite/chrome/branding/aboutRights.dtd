@@ -36,7 +36,9 @@
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4b "tenestevilkåra">
+<!ENTITY rights.intro-point4c ".">
 
+<!ENTITY rights.webservices-header "&brandFullName; informasjonstenester">
 
 <!-- Note that this paragraph references entities from extensions.dtd,
      preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
@@ -45,6 +47,7 @@
 <!-- intro paragraph for branded builds -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights3.webservices-b "her">
+<!ENTITY rights3.webservices-c ". Andre funksjonar og tenester kan slåast på eller av i programinnstillingane.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Utvidingstenester: ">
