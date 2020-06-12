@@ -5,66 +5,50 @@
 permissions-window =
     .title = Բացառումներ
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Կայքի հասցեն
     .accesskey = d
-
 permissions-block =
     .label = Արգելել
     .accesskey = Ա
-
 permissions-session =
     .label = Թոյլատրել աշխատաշրջանում
     .accesskey = ա
-
 permissions-allow =
     .label = Թոյլատրել
     .accesskey = Թ
-
 permissions-site-name =
     .label = Կայք
-
 permissions-status =
     .label = Կարգավիճակը
-
 permissions-remove =
     .label = Հեռացնել կայքը
     .accesskey = R
-
 permissions-remove-all =
     .label = Հեռացնել բոլոր կայքերը
     .accesskey = e
-
 permissions-button-cancel =
     .label = Չեղարկել
     .accesskey = Չ
-
 permissions-button-ok =
     .label = Պահել փոփոխութիւնները
     .accesskey = Պ
-
 permissions-autoplay-menu = Սկզբնադիր բոլոր կայքերի համար.
-
 permissions-searchbox =
     .placeholder = Որոնել կայք
-
 permissions-capabilities-autoplay-allow =
     .label = Թոյլատրել Ձայն եւ Տեսանիւթ
 permissions-capabilities-autoplay-block =
     .label = Կողպել ձայնը
 permissions-capabilities-autoplay-blockall =
     .label = Կողպել Ձայնը եւ Տեսանիւթը
-
 permissions-capabilities-allow =
     .label = Թոյլատրել
 permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
-
 permissions-capabilities-listitem-allow =
     .value = Թոյլատրել
 permissions-capabilities-listitem-block =
@@ -83,7 +67,6 @@ permissions-exceptions-content-blocking-window =
     .title = Բացառութիւններ՝ բովանդակութեան արգելափակում
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Դուք անջատել եք բովանդակութեան արգելափակումը այս կայքերի համար:
-
 permissions-exceptions-etp-window =
     .title = Բացառութիւններ հետագծման պաշտապանութիւնը կատարելագործելու համար։
     .style = { permissions-window.style }
@@ -156,6 +139,9 @@ permissions-site-location-disable-desc = Սա կկանխի ցանկում չնշ
 permissions-site-xr-window =
     .title = Կարգաւորումներ - թուացեալ իրականութեան թոյլտուութիւններ
     .style = { permissions-window.style }
+permissions-site-xr-desc = Հետեւեալ կայքերը ցանկանում են գործածել Ձեր թուացեալ իրականութեան սարքերը: Կարող էք նշել, թե որ կայքերի համար են հասանելի Ձեր սարքերը: Կարող էք նաեւ արգելափակել Ձեր թուացեալ իրականութեան սարքերն աւգտագործելու նոր հարցումները։
+permissions-site-xr-disable-label =
+    .label = Արգելափակել Ձեր թուացեալ իրականութեան սարքերն աւգտագործելու նոր հարցումները։
 
 ## Site Permissions - Camera
 
