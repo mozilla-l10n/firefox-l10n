@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Συγχρονισμένες καρτέλες
 synced-tabs-sidebar-noclients-subtitle = Θέλετε να δείτε τις καρτέλες σας από άλλες συσκευές εδώ;
 synced-tabs-sidebar-notsignedin = Συνδεθείτε για να δείτε μια λίστα καρτελών από τις άλλες συσκευές σας.
+synced-tabs-sidebar-intro = Δείτε μια λίστα με καρτέλες από τις άλλες σας συσκευές.
 synced-tabs-sidebar-unverified = Ο λογαριασμός σας πρέπει να επαληθευτεί.
 synced-tabs-sidebar-notabs = Δεν υπάρχουν ανοικτές καρτέλες
 synced-tabs-sidebar-openprefs = Ανοίξτε τις προτιμήσεις του { -sync-brand-short-name }
