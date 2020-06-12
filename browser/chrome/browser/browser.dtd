@@ -169,10 +169,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Λογαριασμός">
 <!ENTITY fxa.menu.settings.label "Ρυθμίσεις">
 <!ENTITY fxa.menu.accountSettings.label "Ρυθμίσεις λογαριασμού">
+<!ENTITY fxa.menu.manageAccount2.label "Διαχείριση λογαριασμού">
 <!ENTITY fxa.menu.signOut.label "Αποσύνδεση…">
+<!ENTITY fxa.menu.setupSync.label "Ρύθμιση &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Στείλτε άμεσα μια καρτέλα σε κάθε συσκευή που έχετε συνδεθεί.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -284,6 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Έχετε χορηγήσει πρόσθετα δικαιώματα σε αυτή την ιστοσελίδα.">
 
 
 <!ENTITY searchItem.title             "Αναζήτηση">
@@ -440,6 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Άνοιγμα προτιμήσεων συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα με καρτέλες από τις άλλες σας συσκευές.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Δείτε μια λίστα με καρτέλες από τις άλλες σας συσκευές.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ο λογαριασμός σας πρέπει να επαληθευτεί.">
 <!ENTITY appMenuRemoteTabs.signin.label "Σύνδεση στο Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Σύνδεση στο &syncBrand.shortName.label;…">
