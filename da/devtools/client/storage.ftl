@@ -5,7 +5,7 @@
 ### These strings are used inside the Storage Inspector.
 
 # Hint shown when the selected storage host does not contain any data
-storage-table-empty-text = Ingen tilgængelige data for den valgte vært
+storage-table-empty-text = Der er ingen data for den valgte vært
 
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cookies
