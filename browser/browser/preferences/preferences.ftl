@@ -563,6 +563,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Shfaq sugjerime kërkimesh në Dritare Private
 suggestions-addressbar-settings = Ndryshoni parapëlqime për historik shfletimesh, faqerojtës, dhe sugjerime skedash
+suggestions-addressbar-settings-generic = Ndryshoni parapëlqime për sugjerimet të tjera shtylle adresash
 search-suggestions-cant-show = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 search-one-click-header = Motorë kërkimesh me një klikim
 search-one-click-desc = Zgjidhni motorë alternativë kërkimesh që duken nën shtyllën e adresave dhe shtyllën e kërkimeve, kur filloni të jepni një fjalëkyç.
@@ -827,7 +828,7 @@ history-header = Historik
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }-i
-    .accesskey = d
+    .accesskey = F
 history-remember-option-all =
     .label = Do ta mbajë mend historikun
 history-remember-option-never =
