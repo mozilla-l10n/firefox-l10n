@@ -24,6 +24,7 @@ policy-Cookies = Tillat eller nekt nettstadar å lagre infokapslar.
 policy-DisabledCiphers = Slå av krypteringsmetodar.
 policy-DefaultDownloadDirectory = Vel standardmappe for nedlastingar.
 policy-DisableAppUpdate = Hindre at { -brand-short-name } vert oppdatert.
+policy-DisableDefaultClientAgent = HIndre standardklientagenten frå å gjere noko. Gjeld berre Windows; andre plattformer har ikkje agenten.
 policy-DisableDeveloperTools = Blokker tilgang til utviklarverktøya.
 policy-DisableFeedbackCommands = Deaktiver kommandoar for å sende tilbakemelding frå Hjelp-menyen (Gje tilbakemelding og Rapporter villeiande nettstad).
 policy-DisableForgetButton = Hindre tilgang til knappen Gløym.
