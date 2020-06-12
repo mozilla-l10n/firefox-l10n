@@ -21,7 +21,7 @@
 <!ENTITY spellUndoAddToDictionary.accesskey "ë">
 <!ENTITY spellCheckToggle.label "Kontroll Drejtshkrimi">
 <!ENTITY spellCheckToggle.accesskey "D">
-<!ENTITY spellNoSuggestions.label "(Pa Këshillime Drejtshkrimi)">
+<!ENTITY spellNoSuggestions.label "(Pa Sugjerime Drejtshkrimi)">
 <!ENTITY spellDictionaries.label "Gjuhë">
 <!ENTITY spellDictionaries.accesskey "G">
 
