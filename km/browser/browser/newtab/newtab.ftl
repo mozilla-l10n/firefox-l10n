@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ស្វែងរក
     .aria-label = ស្វែងរក
-
 newtab-search-box-search-the-web-text = ស្វែងរក​បណ្ដាញ
 newtab-search-box-search-the-web-input =
     .placeholder = ស្វែងរក​បណ្ដាញ
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = កែសម្រួលសាយកំ�
 newtab-topsites-title-label = ចំណង​ជើង
 newtab-topsites-title-input =
     .placeholder = បញ្ចូលចំណងជើង
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = វាយបញ្ចូល ឬបិទភ្ជាប់ URL
 newtab-topsites-url-validation = ត្រូវការ URL ដែលត្រឹមត្រូវ
-
 newtab-topsites-image-url-label = URL រូបភាពផ្ទាល់ខ្លួន
 newtab-topsites-use-image-link = ប្រើ​ប្រាស់​រូបភាព​ផ្ទាល់ខ្លួន...
 newtab-topsites-image-validation = មិន​អាច​ផ្ទុក​រូបភាព​បាន​ទេ។ សាកល្បង URL ផ្សេង។
@@ -47,8 +44,6 @@ newtab-topsites-delete-history-button = លុប​ពី​ប្រវត្�
 newtab-topsites-save-button = រក្សាទុក
 newtab-topsites-preview-button = មើល​សាកល្បង
 newtab-topsites-add-button = បន្ថែម
-
-## Top Sites - Delete history confirmation dialog. 
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -62,7 +57,12 @@ newtab-confirm-delete-history-p2 = សកម្មភាពនេះមិនអ
 newtab-menu-section-tooltip =
     .title = បើក​ម៉ឺនុយ
     .aria-label = បើក​ម៉ឺនុយ
-
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = បើក​ម៉ឺនុយ
+    .aria-label = បើកម៉ឺនុយបរិបទសម្រាប់ { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = កែសម្រួលសាយនេះ
@@ -83,6 +83,7 @@ newtab-menu-archive-pocket = ទុកក្នុងប័ណ្ណសារក
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -90,19 +91,22 @@ newtab-menu-remove-bookmark = លុប​ចំណាំ​ចេញ
 # Bookmark is a verb here.
 newtab-menu-bookmark = ចំណាំ
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = ចម្លង​តំណ​ទាញ​យក
 newtab-menu-go-to-download-page = ទៅ​កាន់​ទំព័រ​ទាញ​យក
+newtab-menu-remove-download = យក​ចេញពី​ប្រវត្តិ
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] បង្ហាញក្នុង Finder
+       *[other] បើក​ថត​ដែល​ផ្ទុក
+    }
 newtab-menu-open-file = បើកឯកសារ
 
 ## Card Labels: These labels are associated to pages to give
@@ -114,9 +118,6 @@ newtab-label-bookmarked = បាន​ចំណាំ
 newtab-label-recommended = និន្នាការ
 newtab-label-saved = បានរក្សាទុកទៅ { -pocket-brand-name }
 newtab-label-download = បានទាញយក
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -134,6 +135,7 @@ newtab-section-menu-privacy-notice = ការជូនដំណឹង​អំ�
 
 ## Section aria-labels
 
+
 ## Section Headers.
 
 newtab-section-header-topsites = វិបសាយ​លើ​គេ
@@ -145,19 +147,20 @@ newtab-section-header-pocket = បានណែនាំដោយ { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ចាប់ផ្តើមការរុករក ហើយយើងនឹងបង្ហាញអត្ថបទ វីដេអូ និងទំព័រដ៏អស្ចារ្យផ្សេងទៀតដែលអ្នកបានមើល ឬបានចំណាំនៅទីនេះ។
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = អ្នកបានអានរឿងទាំងអស់ហើយ។ ពិនិត្យ​រឿង​ដែល​ពេញនិយមបំផុត​ឡើងវិញ​​ពី { $provider }។ មិនអាចរង់ចាំ? ជ្រើសរើសប្រធានបទកំពុងពេញនិយម ដើម្បីស្វែងរករឿងដ៏អស្ចារ្យនៅ​លើ​អ៊ីនធឺណិត។
 
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ប្រធានបទកំពុងពេញនិយម៖
+newtab-pocket-more-recommendations = ការណែនាំច្រើនទៀត
+newtab-pocket-cta-button = ទាញយក { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
