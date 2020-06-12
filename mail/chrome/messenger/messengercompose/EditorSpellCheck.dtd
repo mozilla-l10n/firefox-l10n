@@ -10,7 +10,7 @@
 <!ENTITY wordEditField.accessKey "e">
 <!ENTITY checkwordButton.label "Kontrollo Fjalët">
 <!ENTITY checkwordButton.accessKey "K">
-<!ENTITY suggestions.label "Këshillime:">
+<!ENTITY suggestions.label "Sugjerime:">
 <!ENTITY suggestions.accessKey "i">
 <!ENTITY ignoreButton.label "Shpërfille">
 <!ENTITY ignoreButton.accessKey "S">
