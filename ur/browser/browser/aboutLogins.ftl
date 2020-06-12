@@ -71,7 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = اپنے محفوظ شدہ لاگ ان ڈھونڈ رہے ہیں؟ { -sync-brand-short-name } مرتب کریں۔
-about-logins-login-intro-heading-logged-in = کوئی ہمہ وقت ساز  لاگ ان نہیں ملا۔
+about-logins-login-intro-heading-logged-in = کوئی سینکڈ لاگ ان نہیں ملا۔
 login-intro-description = اگر آپ نے اپنے لاگ انز { -brand-product-name } کو کسی دوسرے آلے پر محفوظ کیاہوا ہے تو، انہیں یہاں حاصل کرنے کا طریقہ یوں ہے:
 login-intro-instruction-fxa = وہ آلہ جہاں آپ کے لاگ انز محفوظ ہیں ان پر اپنا { -fxaccount-brand-name } بنائیں یا سائن ان کریں
 about-logins-intro-import = اگر آپ کے لاگ انز کسی دوسرے براؤزر میں محفوظ ہیں تو ، آپ <a data-l10n-name="import-link"> ان کو { -lockwise-brand-short-name }</a> میں درآمد کرسکتے ہیں
@@ -91,7 +91,7 @@ login-item-copy-username-button-text = نقل کریں
 login-item-copied-username-button-text = نقل شدہ!
 login-item-password-label = پاس ورڈ
 login-item-password-reveal-checkbox =
-    .aria-label = پاس ورڈ  دکھائیں
+    .aria-label = پاس ورڈ دکھائیں
 login-item-copy-password-button-text = نقل کریں
 login-item-copied-password-button-text = نقل شدہ!
 login-item-save-changes-button = تبدیلیاں محفوظ کریں
@@ -147,13 +147,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = اس لاگ ان کو ہٹائیں؟
 confirm-delete-dialog-message = یہ عمل کلعدم نہیں ہو سکتا۔
 about-logins-confirm-remove-dialog-confirm-button = ہٹائیں
-confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ضائع کریں؟
+confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ہٹاییں؟
 confirm-discard-changes-dialog-message = سبھی غیر محفوظ شدہ تبدیلیاں ختم ہوجائیں گی۔
 confirm-discard-changes-dialog-confirm-button = رد کريں
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = ویب سائٹ کی خلاف ورزی
+about-logins-breach-alert-title = ویب سائٹ بریچ
 breach-alert-text = اس ویب سائٹ سے پاس ورڈز لیک یا چوری ہوگئے تھے جب سے آپ نے لاگ ان کی تفصیلات کو آخری بار اپ ڈیٹ کیا تھا۔ اپنے اکاؤنٹ کی حفاظت کے لئے اپنا پاس ورڈ تبدیل کریں۔
 about-logins-breach-alert-date = یہخلافورزی { DATETIME($date, day: "numeric", month: "long", year: "numeric") } ہوئی ہے
 # Variables:
