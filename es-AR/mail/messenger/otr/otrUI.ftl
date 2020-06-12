@@ -33,3 +33,35 @@ finger-unseen = La identidad de { $name } todavía no se verificó. Las escuchas
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } se está contactando desde una computadora no reconocida. Las escuchas casuales no son posibles, pero con algún esfuerzo alguien podría estar escuchando. Evite la vigilancia verificando la identidad de este contacto.
 state-not_private = La conversación actual no es privada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = La conversación actual está cifrada pero no es privada, ya que la identidad de { $name } todavía no se verificó.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Se verificó la identidad de { $name }. La conversación actual es cifrada y privada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } terminó la conversación cifrada con usted; Debería hacer lo mismo.
+state-not_private-label = Inseguro
+state-unverified-label = Sin verificar
+state-private-label = Privado
+state-finished-label = Terminado
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } le solicitó verificar su identidad.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Verificó la identidad de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = No se verificó la identidad de { $name }
+verify-title = Verifiquela identidad de su contacto
+error-title = Error
+success-title = Cifrado de punta a punta
+successThem-title = Verifique la identidad de su contacto
+fail-title = No se puede verificar
+waiting-title = Se envió la solicitud de verificación.
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Error al generar la clave privada OTR: { $error }
