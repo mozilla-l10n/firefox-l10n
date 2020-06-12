@@ -303,7 +303,7 @@
 <!ENTITY smiley16Cmd.label "Gojëkyçur">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "Nuk u Gjetën Këshillime">
+<!ENTITY spellCheckNoSuggestions.label "Nuk u Gjetën Sugjerime">
 <!ENTITY spellCheckIgnoreWord.label "Shpërfille Fjalën">
 <!ENTITY spellCheckIgnoreWord.accesskey "S">
 <!ENTITY spellCheckAddToDictionary.label "Shtoje në Fjalor">
