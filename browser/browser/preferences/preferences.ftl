@@ -5,7 +5,7 @@
 do-not-track-description = Dërgojuni sajteve një sinjal “Mos Më Gjurmo” se nuk doni të ndiqeni
 do-not-track-learn-more = Mësoni më tepër
 do-not-track-option-default-content-blocking-known =
-    .label = Vetëm kur { -brand-short-name } është rregulluar të bllokojë gjurmues të njohur
+    .label = Vetëm kur { -brand-short-name }-i është rregulluar të bllokojë gjurmues të njohur
 do-not-track-option-always =
     .label = Përherë
 pref-page =
@@ -781,11 +781,11 @@ forms-exceptions =
     .label = Përjashtime…
     .accesskey = a
 forms-generate-passwords =
-    .label = Sugjeroni dhe prodhoni fjalëkalime të fuqishëm
+    .label = Sugjero dhe prodho fjalëkalime të fuqishëm
     .accesskey = S
 forms-breach-alerts =
     .label = Shfaq sinjalizime rreth fjalëkalimesh për sajte të cenuar
-    .accesskey = S
+    .accesskey = f
 forms-breach-alerts-learn-more-link = Mësoni më tepër
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -796,7 +796,7 @@ forms-saved-logins =
     .accesskey = K
 forms-master-pw-use =
     .label = Përdor fjalëkalim të përgjithshëm
-    .accesskey = P
+    .accesskey = o
 forms-master-pw-change =
     .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
     .accesskey = F
@@ -865,7 +865,7 @@ sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe
 sitedata-total-size = Cookie-t, të dhënat tuaja të sajteve dhe fshehtina përdorin deri sot { $value } { $unit } hapësirë disku.
 sitedata-learn-more = Mësoni më tepër
 sitedata-delete-on-close =
-    .label = Fshi cookies dhe të dhëna sajti kur mbyllet { -brand-short-name }-i
+    .label = Fshi cookies dhe të dhëna sajti, kur mbyllet { -brand-short-name }-i
     .accesskey = F
 sitedata-delete-on-close-private-browsing = Nën mënyrën shfletim i përhershëm privat, cookie-t dhe të dhënat e sajtit do të spastrohen përherë, kur mbyllet { -brand-short-name }-i.
 sitedata-allow-cookies-option =
@@ -970,11 +970,11 @@ content-blocking-all-windows-trackers = Gjurmues të njohur në krejt dritaret
 content-blocking-all-windows-tracking-content = Gjurmim lënde në krejt dritaret
 content-blocking-all-third-party-cookies = Krejt cookie-t prej palësh të treta
 content-blocking-cryptominers = Nxjerrës kriptomonedhash
-content-blocking-fingerprinters = Krijues shenja gishtash
+content-blocking-fingerprinters = Krijues shenjash gishtash
 content-blocking-warning-title = Kini mendjen!
 content-blocking-warning-description = Bllokimi i lëndës mund të dëmtojë funksionimin e disa sajteve. Është e lehtë të çaktivizoni bllokimin për sajte të cilëve u zini besë.
 content-blocking-learn-how = Mësoni se si
-content-blocking-and-isolating-etp-warning-description = Bllokimi i gjurmuesve dhe izolimi i cookie-ve mund të ndikojë në funksionimin e disa sajteve. Për të lejuar krejt lëndën, ringarkoni një faqe me gjurmues.
+content-blocking-and-isolating-etp-warning-description = Bllokimi i gjurmuesve dhe izolimi i cookie-ve mund të ndikojë në funksionimin e disa sajteve. Për të lejuar krejt lëndën, ringarkojeni faqen tok me gjurmuesit.
 content-blocking-warning-learn-how = Mësoni se si
 content-blocking-reload-description = Do t’ju duhet të ringarkoni skedat tuaja që të zbatohen këto ndryshime.
 content-blocking-reload-tabs-button =
@@ -1005,7 +1005,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Krijues shenja gishtash
+    .label = Krijues shenjash gishtash
     .accesskey = K
 
 ## Privacy Section - Tracking
