@@ -41,6 +41,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  undoCloseTab.label                 "មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង">
 <!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  hiddenTabs.label                   "ផ្ទាំងដែលលាក់">
 
 <!ENTITY  listAllTabs.label      "រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
@@ -84,7 +85,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "ប្រភព​ទំព័រ">
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -95,8 +95,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "ព័ត៌មាន​ទំព័រ">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "កម្មវិធីបំបាត់កំហុសប្លង់">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "ផ្ទាំង​ឆ្លុះ">
 <!ENTITY mirrorTabCmd.accesskey "m">
@@ -119,9 +119,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "បើក​ចំណូលចិត្ត &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "ភ្ជាប់​ទៅ &syncBrand.shortName.label; ឡើងវិញ">
 <!ENTITY fxaUnverified.label "ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក">
-
-
- <!-- } is above this key on many keyboards -->
 
 
 <!ENTITY fullScreenMinimize.tooltip "បង្រួម​អប្បបរមា">
@@ -151,7 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
- <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -186,7 +183,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "ចំណាំ">
 <!ENTITY bookmarksMenu.accesskey "B">
-
 <!ENTITY bookmarkThisPageCmd.label "ចំណាំ​ទំព័រ​នេះ">
 <!ENTITY editThisBookmarkCmd.label "កែ​សម្រួល​ចំណាំ​នេះ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -242,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "គ្រប់គ្រង​ការ​ប្រើប្រាស់​កម្មវិធី DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "បើក​ផ្ទាំង MIDI">
 
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "អ្នក​បាន​បិទ​កាមេរ៉ា​របស់​អ្នក​សម្រាប់​វិបសាយ​នេះ។">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "អ្នក​បាន​បិទ​មីក្រូហ្វូន​របស់​អ្នក​សម្រាប់​វិបសាយ​នេះ។">
 <!ENTITY urlbar.screenBlocked.tooltip            "អ្នក​បាន​បិទ​វិបសាយ​នេះ​ពី​ការ​ចែករំលែក​អេក្រង់​របស់​អ្នក។">
@@ -252,15 +247,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "អ្នក​បាន​ទប់ស្កាត់​ផ្ទាំង​លេចឡើង​សម្រាប់​គេហទំព័រ​នេះ។">
 <!ENTITY urlbar.canvasBlocked.tooltip            "អ្នក​បាន​ទប់ស្កាត់​ការដកទិន្នន័យ​កម្មវិធីកែ​រូបភាព​សម្រាប់​គេហទំព័រ​នេះ។">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "អ្នក​បានរារាំង​គេហទំព័រ​នេះ​មិន​ឲ្យ​​ប្រើកម្មវិធីជំនួយ Adobe Flash ។">
-
+<!ENTITY urlbar.midiBlocked.tooltip              "អ្នក​បាន​ទប់ស្កាត់ការចូលប្រើ MIDI សម្រាប់គេហទំព័រ​នេះ។">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "បង្ហាញ​ប្រវត្តិ">
+
 
 
 <!ENTITY searchItem.title             "ស្វែងរក">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "ដើម">
+<!ENTITY homeButton.defaultPage.tooltip "ទំព័រ​ដើម &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "ចំណាំ">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -313,7 +310,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ឯកសារ">
 <!ENTITY fileMenu.accesskey       "F">
-
 <!ENTITY newUserContext.label             "ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ថ្មី">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.accesskey      "O">
@@ -377,7 +373,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "ស្ដារ​សម័យ​មុន">
 
 <!ENTITY showAllHistoryCmd2.label "បង្ហាញ​ប្រវត្តិ​ទាំងអស់">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "បង្ហាញ​ប្រវត្តិ​ទាំងអស់">
@@ -419,7 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "បន្ថែម​ទៅ​របារ​ឧបករណ៍">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "បន្ថែម​ទៅ​ម៉ឺនុយ Overflow">
@@ -589,11 +584,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "តំណ​អ៊ីមែល…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "រក្សា​ទុក​ទំព័រជា...">
 <!ENTITY savePageCmd.accesskey        "A">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "រក្សា​ទុកស៊ុម​ជា...">
@@ -698,20 +696,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "​ពង្រីក">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "​បង្រួម">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "កំណត់​ឡើង​វិញ">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -735,7 +730,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "បិទ">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -778,6 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "ធ្វើ​រួច">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
@@ -788,13 +783,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "ការ​តភ្ជាប់">
 <!ENTITY identity.connectionSecure "ការ​តភ្ជាប់​ដែលមាន​សុវត្ថិភាព">
 <!ENTITY identity.connectionNotSecure "ការតភ្ជាប់​ពុំ​មាន​សុវត្ថិភាព">
-
 <!ENTITY identity.connectionFile "ទំព័រ​នេះ​ត្រូវ​បាន​រក្សាទុក​នៅ​ក្នុង​កុំព្យូទ័រ​របស់​អ្នក។">
 <!ENTITY identity.connectionVerified2 "អ្នក​ត្រូវ​បាន​តភ្ជាប់​​ដោយ​សុវត្ថិភាព​ទៅ​វេបសាយ​នេះ ដែល​ជា​​របស់​៖">
 <!ENTITY identity.connectionInternal "នេះគឺជាទំព័រ &brandShortName; ដែល​មាន​សុវត្ថិភាព">
 <!ENTITY identity.extensionPage "ទំព័រ​នេះ​បាន​ផ្ទុក​ចេញពី​កម្មវិធី​ផ្នែក​បន្ថែម។">
 <!ENTITY identity.insecureLoginForms2 "ការ​ចូល​ទាំង​ឡាយ​ដែល​បាន​បញ្ចូល​ក្នុង​ទំព័រ​នេះ​អាច​ត្រូវ​បាន​គេ​សម្របសម្រួល​។ ​">
-
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; បាន​​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព។">
@@ -825,33 +818,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "ព័ត៌មាន​បន្ថែម">
 
+<!ENTITY identity.clearSiteData "សម្អាតឃូគីនិងទិន្នន័យគេហទំព័រ…">
 
 <!ENTITY identity.permissions "ការ​អនុញ្ញាត">
-
 <!ENTITY identity.permissionsEmpty "អ្នក​មិន​បាន​ផ្ដល់​សិទ្ធិ​អនុញ្ញាត​ពិសេស​ណា​មួយ​​ដល់​តំបន់បណ្ដាញ​នេះ​ទេ។">
 <!ENTITY identity.permissionsReloadHint "អ្នក​ប្រហែល​ត្រូវ​ផ្ទុក​ទំព័រ​ឡើងវិញ​ ដើម្បី​ឲ្យ​ការ​ផ្លាស់ប្ដូរអនុវត្ត។">
-
-
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -890,11 +861,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
 <!ENTITY contentBlocking.breakageReportView.learnMore "ស្វែង​យល់​បន្ថែម">
-
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ផ្ញើ​របាយការណ៍">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "បោះបង់">
 
@@ -932,7 +899,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "ផ្ទាំងថ្មីរបស់អ្នកត្រូវបានប្តូរ។">
 <!ENTITY newTabControlled.keepButton.label "រក្សា​ការ​ផ្លាស់ប្ដូរ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-
 
 
 <!ENTITY tabHideControlled.disableButton.label "បិទ​ផ្នែក​បន្ថែម">
