@@ -9,6 +9,7 @@ forward = Εμπρός
 reload = Ανανέωση
 home = Αρχική
 fullscreen = Πλήρης οθόνη
+touchbar-fullscreen-exit = Έξοδος από πλήρη οθόνη
 find = Εύρεση
 new-tab = Νέα καρτέλα
 add-bookmark = Προσθήκη σελιδοδείκτη
@@ -19,7 +20,6 @@ open-location = Αναζήτηση ή εισαγωγή διεύθυνσης
 share = Κοινή χρήση
 close-window = Κλείσιμο παραθύρου
 open-sidebar = Πλευρικές γραμμές
-
 # This string describes shortcuts for search.
 search-popover = Συντομεύσεις αναζήτησης
 # Describes searches limited to a specific scope
@@ -34,6 +34,5 @@ search-opentabs = Ανοικτές καρτέλες
 search-tags = Ετικέτες
 search-titles = Τίτλοι
 
-
-
 ##
+
