@@ -204,6 +204,7 @@ monitor-partial-breaches-percentage = %{ $percentageResolved } tamamlandı
 monitor-partial-breaches-motivation-title-start = İyi başladınız!
 monitor-partial-breaches-motivation-title-middle = Aynen böyle devam!
 monitor-partial-breaches-motivation-title-end = Bitmek üzere! Aynen böyle devam.
+monitor-partial-breaches-motivation-description = Geri kalan ihallerinizi { -monitor-brand-short-name }’de çözün.
 monitor-resolve-breaches-link = İhlalleri çöz
     .title = İhlalleri { -monitor-brand-short-name }’de çözün
 
