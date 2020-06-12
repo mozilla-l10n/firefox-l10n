@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Shkronja
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Shkronja për
     .accesskey = S
-
 fonts-langgroup-arabic =
     .label = Arabe
 fonts-langgroup-armenian =
@@ -30,7 +28,7 @@ fonts-langgroup-cyrillic =
 fonts-langgroup-devanagari =
     .label = Devanagari
 fonts-langgroup-ethiopic =
-    .label = Etiopiane
+    .label = Etiopase
 fonts-langgroup-georgian =
     .label = Gjeorgjiane
 fonts-langgroup-el =
@@ -77,33 +75,24 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionale
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Madhësi
     .accesskey = d
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Madhësi
     .accesskey = h
-
 fonts-minsize = Madhësi shkronjash minimum
     .accesskey = u
-
 fonts-minsize-none =
     .label = Asnjë
-
 fonts-allow-own =
     .label = Lejoji faqet të përdorin shkronja të vetat, në vend se përzgjedhjen tuaj më sipër
     .accesskey = L
@@ -115,10 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Kodim Teksti për Lëndë të Dikurshme
 fonts-languages-fallback-desc = Ky kodim teksti përdoret për lëndë të dikurshme për të cilën nuk ka kodim të deklaruar.
-
 fonts-languages-fallback-label = Kodim Teksti Kur S’deklarohet
     .accesskey = K
-
 fonts-languages-fallback-name-auto =
     .label = Parazgjedhje për Vendoren e Tanishme
 fonts-languages-fallback-name-arabic =
@@ -151,7 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameze
 fonts-languages-fallback-name-other =
     .label = Të tjera (përfshi Europiane Perëndimore)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
