@@ -116,14 +116,19 @@ cfr-whatsnew-tracking-blocked-link-text = Προβολή αναφοράς
 cfr-whatsnew-lockwise-backup-title = Δημιουργήστε αντίγραφα ασφαλείας των κωδικών πρόσβασής σας
 cfr-whatsnew-lockwise-backup-link-text = Ενεργοποίηση των αντιγράφων ασφαλείας
 cfr-whatsnew-lockwise-take-title = Πάρτε τους κωδικούς σας μαζί σας
+cfr-whatsnew-lockwise-take-body =
+    Η εφαρμογή { -lockwise-brand-short-name } για κινητές συσκευές σας επιτρέπει ασφαλή πρόσβαση
+    στα αντίγραφα ασφαλείας των κωδικών πρόσβασης σας από οπουδήποτε.
 cfr-whatsnew-lockwise-take-link-text = Λήψη εφαρμογής
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Πληκτρολογήστε λιγότερο, βρείτε περισσότερα με τη γραμμή διευθύνσεων
 cfr-whatsnew-searchbar-icon-alt-text = Εικονίδιο μεγεθυντικού φακού
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Παρακολουθήστε βίντεο κατά την περιήγηση
 cfr-whatsnew-pip-cta = Μάθε περισσότερα
 
 ## Permission Prompt
