@@ -37,6 +37,10 @@ etp-card-title = Ενισχυμένη προστασία από καταγραφ
 etp-card-content = Οι ιχνηλάτες σάς ακολουθούν στο διαδίκτυο για να συλλέξουν πληροφορίες σχετικά με τις συνήθειες και τα ενδιαφέροντά σας. Το { -brand-short-name } αποκλείει πολλούς από αυτούς τους ιχνηλάτες και άλλα κακόβουλα σενάρια.
 protection-report-webpage-title = Πίνακας προστασίας
 protection-report-page-content-title = Πίνακας προστασίας
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = Το { -brand-short-name } μπορεί να προστατεύει το απόρρητό σας στο παρασκήνιο, ενώ περιηγείστε. Ορίστε μια εξατομικευμένη περίληψη αυτών των μεθόδων προστασίας, καθώς και τα εργαλεία για να αποκτήσετε τον έλεγχο της διαδικτυακής σας ασφάλειας.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = Το { -brand-short-name } προστατεύει το απόρρητό σας στο παρασκήνιο, ενώ περιηγείστε. Ορίστε μια εξατομικευμένη περίληψη αυτών των μεθόδων προστασίας, καθώς και τα εργαλεία για να αποκτήσετε τον έλεγχο της διαδικτυακής σας ασφάλειας.
 protection-report-settings-link = Διαχειριστείτε τις ρυθμίσεις απορρήτου και ασφάλειας σας
 etp-card-title-always = Ενισχυμένη προστασία από καταγραφή: Πάντα ενεργή
 etp-card-title-custom-not-blocking = Ενισχυμένη προστασία από καταγραφή: Ανενεργή
@@ -46,18 +50,62 @@ protection-report-manage-protections = Διαχείριση ρυθμίσεων
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Σήμερα
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Ένα γράφημα με το συνολικό αριθμό κάθε τύπου ιχνηλάτη που έχει αποκλειστεί αυτή την εβδομάδα.
 social-tab-title = Ιχνηλάτες κοινωνικών δικτύων
+social-tab-contant = Τα κοινωνικά δίκτυα τοποθετούν ιχνηλάτες σε άλλες ιστοσελίδες για να παρακολουθούν ό,τι κάνετε και βλέπετε στο διαδίκτυο. Αυτό επιτρέπει στις εταιρείες κοινωνικών μέσων να μάθουν περισσότερα για εσάς πέρα από αυτά που κοινοποιείτε στα προφίλ κοινωνικών μέσων.<a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
+cookie-tab-title = Cookies ιχνηλάτησης μεταξύ ιστοσελίδων
+cookie-tab-content = Αυτά τα cookies σας ακολουθούν από ιστοσελίδα σε ιστοσελίδα για να συλλέξουν δεδομένα για ό,τι κάνετε στο διαδίκτυο. Δημιουργούνται από τρίτους, όπως διαφημιστές και εταιρείες ανάλυσης. Η φραγή cookies ιχνηλάτησης μεταξύ ιστοσελίδων μειώνει τον αριθμό των διαφημίσεων που σας παρακολουθούν. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
 tracker-tab-title = Περιεχόμενο καταγραφής
+tracker-tab-description = Οι ιστοσελίδες ενδέχεται να φορτώνουν εξωτερικές διαφημίσεις, βίντεο και άλλο περιεχόμενο με κώδικα καταγραφής. Η φραγή περιεχομένου καταγραφής μπορεί να συμβάλλει στην ταχύτερη φόρτωση των ιστοσελίδων, αλλά ορισμένα κουμπιά, φόρμες και πεδία σύνδεσης ενδέχεται να μην λειτουργούν. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
 fingerprinter-tab-title = Fingerprinters
+fingerprinter-tab-content = Τα fingerprinters συλλέγουν ρυθμίσεις από το πρόγραμμα περιήγησης και τον υπολογιστή σας για να δημιουργήσει ένα προφίλ για εσάς. Με τη χρήση αυτού του ψηφιακού αποτυπώματος, μπορούν να σας παρακολουθούν σε διάφορες ιστοσελίδες. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
 cryptominer-tab-title = Cryptominers
+cryptominer-tab-content = Τα cryptominers χρησιμοποιούν την υπολογιστική ισχύ του συστήματός σας για να εξορύξουν κρυπτονομίσματα. Τα σενάρια εξόρυξης κρυπτονομισμάτων εξαντλούν την μπαταρία σας, επιβραδύνουν τον υπολογιστή σας, ενώ ενδέχεται να δείτε αυξημένες χρεώσεις στο λογαριασμό τους ρεύματος. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
+protections-close-button2 =
+    .aria-label = Κλείσιμο
+    .title = Κλείσιμο
+mobile-app-title = Φραγή ιχνηλατών διαφημίσεων σε περισσότερες συσκευές
+mobile-app-card-content = Χρησιμοποιήστε το πρόγραμμα περιήγησης για κινητές συσκευές με ενσωματωμένη προστασία από την καταγραφή διαφημίσεων.
+mobile-app-links = Πρόγραμμα περιήγησης { -brand-product-name } για <a data-l10n-name="android-mobile-inline-link">Android</a> και <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+lockwise-title = Δεν θα ξεχάσετε ποτέ ξανά κωδικό πρόσβασης
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Διαχείριση κωδικών πρόσβασης
+lockwise-header-content = Το { -lockwise-brand-name } αποθηκεύει με ασφάλεια τους κωδικούς πρόσβασης στο πρόγραμμα περιήγησής σας.
+lockwise-header-content-logged-in = Αποθηκεύστε και συγχρονίστε με ασφάλεια τους κωδικούς πρόσβασής σας σε όλες τις συσκευές σας.
 protection-report-view-logins-button = Προβολή συνδέσεων
     .title = Μετάβαση στις αποθηκευμένες συνδέσεις
 protection-report-save-passwords-button = Αποθήκευση κωδικών πρόσβασης
     .title = Αποθήκευση κωδικών πρόσβασης στο { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Διαχείριση κωδικών πρόσβασης
     .title = Διαχείριση κωδικών πρόσβασης στο { -lockwise-brand-short-name }
+lockwise-mobile-app-title = Πάρτε τους κωδικούς πρόσβασής σας παντού
+lockwise-no-logins-card-content = Χρησιμοποιήστε τους αποθηκευμένους κωδικούς πρόσβασης του { -brand-short-name } σε όλες τις συσκευές.
 lockwise-app-links = { -lockwise-brand-name } για <a data-l10n-name="lockwise-android-inline-link">Android</a> και <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Ο κωδικός πρόσβασης αποθηκεύτηκε με ασφάλεια <a data-l10n-name="lockwise-how-it-works">Πώς λειτουργεί</a>
+       *[other] Οι κωδικοί πρόσβασης αποθηκεύτηκαν με ασφάλεια <a data-l10n-name="lockwise-how-it-works">Πώς λειτουργεί</a>
+    }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 κωδικός πρόσβασης ενδέχεται να έχει εκτεθεί σε παραβίαση δεδομένων.
+       *[other] { $count } κωδικοί πρόσβασης ενδέχεται να έχουν εκτεθεί σε παραβίαση δεδομένων.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 κωδικός πρόσβασης αποθηκεύτηκε με ασφάλεια.
+       *[other] Οι κωδικοί πρόσβασής σας αποθηκεύτηκαν με ασφάλεια.
+    }
 lockwise-how-it-works-link = Πώς λειτουργεί
 turn-on-sync = Ενεργοποίηση { -sync-brand-short-name }…
     .title = Μετάβαση στις προτιμήσεις συγχρονισμού
@@ -90,6 +138,22 @@ info-monitored-emails =
     { $count ->
         [one] Διεύθυνση email υπό εποπτεία
        *[other] Διευθύνσεις email υπό εποπτεία
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Οι πληροφορίες σας έχουν εκτεθεί σε γνωστή παραβίαση δεδομένων
+       *[other] Οι πληροφορίες σας έχουν εκτεθεί σε γνωστές παραβιάσεις δεδομένων
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Γνωστή παραβίαση δεδομένων επισημάνθηκε ως επιλυμένη
+       *[other] Γνωστές παραβιάσεις δεδομένων επισημάνθηκαν ως επιλυμένες
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
