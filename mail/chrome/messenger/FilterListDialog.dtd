@@ -16,7 +16,7 @@
 <!ENTITY reorderTopButton "Shpjere në Krye">
 <!ENTITY reorderTopButton.accessKey "k">
 <!ENTITY reorderTopButton.toolTip "Risistemojeni filtrin që të ekzekutohet përpara krejt të tjerëve">
-<!ENTITY reorderUpButton.label "Shpjere Sipër">
+<!ENTITY reorderUpButton.label "Ngrije">
 <!ENTITY reorderUpButton.accesskey "S">
 <!ENTITY reorderDownButton.label "Shpjere Poshtë">
 <!ENTITY reorderDownButton.accesskey "o">

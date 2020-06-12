@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "e">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Kuadrat Bashkëngjitjesh">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "n">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.accesskey "K">
@@ -119,9 +112,9 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Rirenditni Bashkëngjitje">
 <!ENTITY moveAttachmentTopPanelBtn.label "Shpjere në Krye">
-<!ENTITY moveAttachmentUpPanelBtn.label "Shpjere Sipër">
+<!ENTITY moveAttachmentUpPanelBtn.label "Ngrije">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Lëvizi bashkë">
-<!ENTITY moveAttachmentDownPanelBtn.label "Zbrite Poshtë">
+<!ENTITY moveAttachmentDownPanelBtn.label "Ule">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Shpjere në Fund">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):

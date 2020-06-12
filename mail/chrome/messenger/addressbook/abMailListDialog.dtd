@@ -17,6 +17,5 @@
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Shtypni adresa email për t&apos;i shtuar te lista e postimeve:">
 <!ENTITY AddressTitle.accesskey         "m">
-<!ENTITY UpButton.label                 "Shpjere Sipër">
+<!ENTITY UpButton.label                 "Ngrije">
 <!ENTITY DownButton.label               "Zbrit">
-

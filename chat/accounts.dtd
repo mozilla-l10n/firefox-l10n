@@ -29,7 +29,7 @@
 <!ENTITY account.edit.label           "Veti">
 <!ENTITY account.edit.accesskey       "V">
 <!ENTITY account.moveup.label         "Shpjere sipër">
-<!ENTITY account.movedown.label       "Zbrite poshtë">
+<!ENTITY account.movedown.label       "Ule">
 <!ENTITY account.cancelReconnection.label         "Anuloje rilidhjen">
 <!ENTITY account.cancelReconnection.accesskey     "A">
 <!ENTITY account.copyDebugLog.label     "Kopjo Regjistër Diagnostikimi">
