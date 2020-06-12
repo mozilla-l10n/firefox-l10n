@@ -40,8 +40,8 @@ app-basics-update-channel = Κανάλι ενημερώσεων
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Ενημέρωση καταλόγου
-       *[other] Ενημέρωση φακέλου
+        [linux] Κατάλογος ενημέρωσης
+       *[other] Φάκελος ενημέρωσης
     }
 app-basics-update-history = Ιστορικό ενημερώσεων
 app-basics-show-update-history = Προβολή ιστορικού ενημερώσεων
