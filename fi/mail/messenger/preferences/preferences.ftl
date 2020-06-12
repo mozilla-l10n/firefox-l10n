@@ -42,6 +42,22 @@ privacy-main-header = Yksityisyys
 privacy-passwords-header = Salasanat
 privacy-junk-header = Roska
 privacy-data-collection-header = Tietojen keruu ja käyttö
+collection-header = { -brand-short-name }in tietojen keräys ja käyttö
+collection-description = Pyrimme antamaan sinulle vapauden valita ja keräämme vain tietoja, joita tarvitsemme voidaksemme tarjota { -brand-short-name }in kaikille ja parantaa sitä. Kysymme aina lupaa ennen kuin vastaanotamme henkilötietoja.
+collection-privacy-notice = Tietosuojakäytäntö
+collection-health-report-telemetry-disabled = Et enää salli { -vendor-short-name }in vastaanottaa teknisiä ja käyttötilastoja. Kaikki aikaisemmat tiedot poistetaan 30 päivän kuluessa.
+collection-health-report-telemetry-disabled-link = Lue lisää
+collection-health-report =
+    .label = Salli, että { -brand-short-name } lähettää teknisiä ja käyttötilastoja { -vendor-short-name }lle
+    .accesskey = a
+collection-health-report-link = Lue lisää
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa
+collection-backlogged-crash-reports =
+    .label = Salli, että { -brand-short-name } lähettää lähettämättömät kaatumisilmoitukset puolestasi
+    .accesskey = a
+collection-backlogged-crash-reports-link = Lue lisää
 privacy-security-header = Turvallisuus
 privacy-scam-detection-title = Huijausten havaitseminen
 privacy-anti-virus-title = Virustorjunta
@@ -146,6 +162,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Näytä ilmoitusalueen kuvake
     .accesskey = i
+mail-system-sound-label =
+    .label = Järjestelmän oletusääni uudelle sähköpostille
+    .accesskey = J
 mail-custom-sound-label =
     .label = Käytä seuraavaa äänitiedostoa
     .accesskey = K
@@ -656,6 +675,29 @@ chat-variant-label =
 chat-header-label =
     .label = Näytä otsikko
     .accesskey = O
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Etsi asetuksista
+           *[other] Etsi asetuksista
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Hakutulokset
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Pahoittelut! Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
+       *[other] Pahoittelut! Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Tarvitsetko apua? Vieraile <a data-l10n-name="url">{ -brand-short-name }-tuessa</a>
