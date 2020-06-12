@@ -31,7 +31,7 @@ certificate-viewer-exponent = Eksponent
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grup Shkëmbimi Kyçesh
 certificate-viewer-key-id = ID Kyçi
-certificate-viewer-key-size = Madhësia Kyçi
+certificate-viewer-key-size = Madhësi Kyçi
 certificate-viewer-location = Vendndodhje
 certificate-viewer-logid = ID Regjistri
 certificate-viewer-method = Metodë
@@ -67,7 +67,7 @@ certificate-viewer-public-key-info = Të dhëna Kyçi Publik
 certificate-viewer-miscellaneous = Të ndryshme
 certificate-viewer-fingerprints = Shenja gishtash
 certificate-viewer-basic-constraints = Kufizime Elementare
-certificate-viewer-key-usages = Përdorime Kyçe
+certificate-viewer-key-usages = Përdorime Kyçi
 certificate-viewer-extended-key-usages = Përdorime të Zgjeruara Kyçi
 certificate-viewer-subject-key-id = ID Kyçi Subjekti
 certificate-viewer-authority-key-id = ID Kyçi Autoriteti
@@ -75,7 +75,6 @@ certificate-viewer-authority-info-aia = Të dhëna Autoriteti (AIA)
 certificate-viewer-certificate-policies = Rregulla Dëshmish
 certificate-viewer-embedded-scts = SCT-ra të Trupëzuara
 certificate-viewer-crl-endpoints = Pikëmbarime CRL
-
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Shkarkoje
@@ -95,7 +94,6 @@ certificate-viewer-download-pem = PEM (dëshmi)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (zinxhir)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Këtij zgjerimi i është vënë shenjë si kritik, që do të thotë se klientët duhet ta hedhin tej dëshminë, nëse nuk e kuptojnë.
