@@ -71,6 +71,7 @@ lockwise-connected-device-status =
     }
 monitor-title = Προσέξτε για διαρροές δεδομένων
 monitor-link = Πώς λειτουργεί
+monitor-header-content-no-account = Ελέγξτε το { -monitor-brand-name } για να δείτε αν έχετε επηρεαστεί από γνωστή παραβίαση δεδομένων και λάβετε ειδοποιήσεις σχετικά με νέες παραβιάσεις.
 monitor-header-content-signed-in = Το { -monitor-brand-name } σας προειδοποιεί αν οι πληροφορίες σας έχουν εμφανιστεί σε παραβίαση δεδομένων.
 monitor-sign-up = Εγγραφή για ειδοποιήσεις παραβιάσεων
 monitor-sign-up-link = Εγγραφή για ειδοποιήσεις παραβιάσεων
