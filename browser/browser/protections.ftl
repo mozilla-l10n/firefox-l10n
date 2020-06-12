@@ -2,6 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] Το { -brand-short-name } απέκλεισε { $count } ιχνηλάτη την προηγούμενη εβδομάδα
+       *[other] Το { -brand-short-name } απέκλεισε { $count } ιχνηλάτες την προηγούμενη εβδομάδα
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> ιχνηλάτης αποκλείστηκε από τις { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> ιχνηλάτες αποκλείστηκαν από τις { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = Το { -brand-short-name } συνεχίζει να αποκλείει τους ιχνηλάτες στα ιδιωτικά παράθυρα, αλλά δεν διατηρείται αρχείο καταγραφής των αποκλεισμένων στοιχείων.
 protection-report-page-title = Προστασία απορρήτου
 protection-report-content-title = Προστασία απορρήτου
 etp-card-title = Ενισχυμένη προστασία από καταγραφή
@@ -46,6 +64,11 @@ monitor-breaches-unresolved-title = Επίλυση παραβιάσεων
 monitor-manage-breaches-link = Διαχείριση παραβιάσεων
     .title = Διαχείριση παραβιάσεων στο { -monitor-brand-short-name }
 monitor-partial-breaches-motivation-title-start = Τέλεια αρχή!
+monitor-partial-breaches-motivation-title-middle = Συνεχίστε!
+monitor-partial-breaches-motivation-title-end = Σχεδόν τελειώσατε! Συνεχίστε.
+monitor-partial-breaches-motivation-description = Επιλύστε τις υπόλοιπες παραβιάσεις σας στο { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Επίλυση παραβιάσεων
+    .title = Επίλυση παραβιάσεων στο { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -60,6 +83,20 @@ bar-tooltip-social =
         { $count ->
             [one] { $count } ιχνηλάτης κοινωνικών δικτύων ({ $percentage }%)
            *[other] { $count } ιχνηλάτες κοινωνικών δικτύων { $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cookies ιχνηλάτησης μεταξύ ιστοσελίδων
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie ιχνηλάτησης μεταξύ ιστοσελίδων ({ $percentage }%)
+           *[other] { $count } cookies ιχνηλάτησης μεταξύ ιστοσελίδων ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Περιεχόμενο καταγραφής
+    .aria-label =
+        { $count ->
+            [one] { $count } περιεχόμενο καταγραφής ({ $percentage }%)
+           *[other] { $count } περιεχόμενα καταγραφής ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
     .title = Fingerprinters
