@@ -500,6 +500,7 @@ home-prefs-topsites-description = Οι ιστοσελίδες που επισκ�
 home-prefs-recommended-by-header =
     .label = Προτάσεις του { $provider }
 home-prefs-recommended-by-description = Εξαιρετικό περιεχόμενο από το διαδίκτυο, εξατομικευμένο για εσάς
+home-prefs-recommended-by-description-update = Εξαιρετικό περιεχόμενο από όλο το διαδίκτυο, με την επιμέλεια του { $provider }
 
 ##
 
@@ -541,7 +542,12 @@ search-bar-shown =
 search-engine-default-header = Προεπιλεγμένη μηχανή αναζήτησης
 search-engine-default-desc = Επιλέξτε την προεπιλεγμένη μηχανή αναζήτησης για χρήση στη γραμμή διευθύνσεων και στη γραμμή αναζήτησης.
 search-engine-default-desc-2 = Αυτή είναι η προεπιλεγμένη μηχανή αναζήτησης στη γραμμή διευθύνσεων και τη γραμμή αναζήτησης. Μπορείτε να την αλλάξετε ανά πάσα στιγμή.
+search-engine-default-private-desc-2 = Επιλέξτε μια διαφορετική προεπιλεγμένη μηχανή αναζήτησης μόνο για ιδιωτικά παράθυρα
+search-separate-default-engine =
+    .label = Χρήση αυτής της μηχανής αναζήτησης σε ιδιωτικά παράθυρα
+    .accesskey = Χ
 search-suggestions-header = Προτάσεις αναζήτησης
+search-suggestions-desc = Επιλέξτε πώς εμφανίζονται οι προτάσεις από τις μηχανές αναζήτησης.
 search-suggestions-option =
     .label = Παροχή προτάσεων αναζήτησης
     .accesskey = Π
@@ -594,6 +600,9 @@ containers-header = Θεματικές καρτέλες
 containers-add-button =
     .label = Προσθήκη νέας θεματικής ενότητας
     .accesskey = Π
+containers-new-tab-check =
+    .label = Επιλέξτε κατηγορία για κάθε νέα καρτέλα
+    .accesskey = Ε
 containers-preferences-button =
     .label = Προτιμήσεις
 containers-remove-button =
@@ -662,6 +671,7 @@ prefs-syncing-off = Συγχρονισμός: ΑΝΕΝΕΡΓΟΣ
 prefs-sync-setup =
     .label = Ρύθμιση { -sync-brand-short-name }…
     .accesskey = Ρ
+prefs-sync-offer-setup-label = Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις προτιμήσεις σας με όλες τις συσκευές σας.
 prefs-sync-now =
     .labelnotsyncing = Συγχρονισμός τώρα
     .accesskeynotsyncing = Τ
@@ -775,6 +785,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Πρόταση και δημιουργία ισχυρών κωδικών πρόσβασης
     .accesskey = ρ
+forms-breach-alerts =
+    .label = Εμφάνιση ειδοποιήσεων για κωδικούς πρόσβασης από παραβιασμένες ιστοσελίδες
+    .accesskey = μ
 forms-breach-alerts-learn-more-link = Μάθετε περισσότερα
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -794,6 +807,13 @@ forms-master-pw-fips-desc = Αποτυχία αλλαγής κωδικού
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Για να δημιουργήσετε κύριο κωδικό πρόσβασής σας, εισάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = δημιουργήσει κύριο κωδικό πρόσβασης
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -862,6 +882,12 @@ sitedata-block-desc = Αποκλεισμένος τύπος
     .accesskey = τ
 sitedata-option-block-trackers =
     .label = Ιχνηλάτες τρίτων
+sitedata-option-block-cross-site-trackers =
+    .label = Ιχνηλάτες μεταξύ ιστοσελίδων
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Ιχνηλάτες μεταξύ ιστοσελίδων και κοινωνικών μέσων
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Cookies ιχνηλάτησης και κοινωνικών μέσω μεταξύ ιστοσελίδων και απομόνωση των υπόλοιπων
 sitedata-option-block-unvisited =
     .label = Cookies από ιστοσελίδες που δεν έχετε επισκεφθεί
 sitedata-option-block-all-third-party =

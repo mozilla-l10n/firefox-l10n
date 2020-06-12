@@ -78,8 +78,11 @@ onboarding-benefit-privacy-title = Πραγματική ιδιωτικότητα
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Όλα όσα κάνουμε τιμούν την υπόσχεση μας σχετικά με τα προσωπικά δεδομένα: Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Πάρτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης, το ιστορικό σας και πολλά άλλα σε κάθε συσκευή με { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Λάβετε ειδοποίηση όταν διαρρεύσουν τα προσωπικά στοιχεία σας.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Διαχειριστείτε κωδικούς πρόσβασης που είναι ασφαλείς και φορητοί.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -142,6 +145,7 @@ onboarding-facebook-container-title = Θέστε όρια με το Facebook
 onboarding-facebook-container-text2 = Το { -facebook-container-brand-name } διατηρεί ξεχωριστά το προφίλ σας από όλα τα άλλα, εμποδίζοντας τις στοχευμένες διαφημίσεις του Facebook.
 onboarding-facebook-container-button = Προσθήκη επέκτασης
 onboarding-import-browser-settings-title = Εισάγετε τους σελιδοδείκτες, τους κωδικούς πρόσβασης σας και άλλα
+onboarding-import-browser-settings-text = Ξεκινήστε αμέσως—εισάγετε εύκολα τις ιστοσελίδες και τις ρυθμίσεις του Chrome.
 onboarding-import-browser-settings-button = Εισαγωγή δεδομένων Chrome
 onboarding-personal-data-promise-title = Ιδιωτικό εκ κατασκευής
 onboarding-personal-data-promise-text = Το { -brand-product-name } αντιμετωπίζει τα δεδομένα σας με σεβασμό, συλλέγοντας όσο το δυνατό λιγότερα, προστατεύοντάς τα και είναι ξεκάθαρο πώς τα χρησιμοποιούμε.
