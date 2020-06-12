@@ -123,7 +123,7 @@ startup-header = Nisje
 separate-profile-mode =
     .label = Lejojeni { -brand-short-name }-in dhe Firefox-in të xhirojnë në të njëjtën kohë
 use-firefox-sync = Ndihmëz: Kjo përdor profile ndaras. Për ndarje të dhënash mes tyre përdorni { -sync-brand-short-name }-n.
-get-started-not-logged-in = Hyni te { -sync-brand-short-name }…
+get-started-not-logged-in = Hyni te { -sync-brand-short-name }-u…
 get-started-configured = Hap parapëlqimet mbi { -sync-brand-short-name }
 always-check-default =
     .label = Kontrollo përherë për të parë nëse { -brand-short-name }-i është shfletuesi parazgjedhje
@@ -622,7 +622,7 @@ sync-signedout-account-signin =
     .label = Hyni…
     .accesskey = y
 sync-signedout-account-signin2 =
-    .label = Hyni te { -sync-brand-short-name }…
+    .label = Hyni te { -sync-brand-short-name }-u…
     .accesskey = H
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon

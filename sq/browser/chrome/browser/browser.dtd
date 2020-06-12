@@ -793,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.accesskey "S">
 <!ENTITY pageStyleNoStyle.label "Pa Stil">
 <!ENTITY pageStyleNoStyle.accesskey "P">
-<!ENTITY pageStylePersistentOnly.label "Stil Bazik Faqeje">
+<!ENTITY pageStylePersistentOnly.label "Stil Elementar Faqeje">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 
 <!ENTITY allowPopups.accesskey "L">
