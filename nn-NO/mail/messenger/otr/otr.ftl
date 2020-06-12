@@ -13,9 +13,14 @@ msgevent-connection_ended = { $name } har allereie late att det krypterte samban
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Det oppstod ein feil under innstillinga av ein privat samtale med { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Du får dine eigne OTR-meldingarn. Anten prøver du å snkke med deg sjølv, eller så er det nokon som sender meldingane dine tilbake til deg.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = Den siste meldinga til { $name } vart sendt på nytt.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = Den krypterte meldinga som kom frå { $name } kan ikkje lesast fordi du no ikkje kommuniserer privat.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Du fekk ei uleseleg kryptert melding frå { $name }.
@@ -36,6 +41,10 @@ msgevent-rcvdmsg_general_err = Det oppstod ein uventa feil under freistnaden på
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
 msgevent-rcvdmsg_unencrypted = Følgjande melding frå { $name } vart ikkje kryptert: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Du fekk ei ukjend OTR-melding frå { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Privat samtale med { $name } startet.
@@ -50,6 +59,7 @@ error-enc = Ein feil oppstod under kryptering av meldinga.
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Du sende krypterte data til { $name }, som ikkje forventa det.
 error-unreadable = Du sende ei uleseleg kryptert melding.
+error-malformed = Du sende ei feilformattert datamelding.
 resent = [sendt på nytt]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
