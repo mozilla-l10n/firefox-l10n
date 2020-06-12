@@ -507,7 +507,7 @@ home-prefs-recommended-by-learn-more = Si funksionon
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Histori të Sponsorizuara
 home-prefs-highlights-header =
-    .label = Highlights
+    .label = Në Pah
 home-prefs-highlights-description = Një përzgjedhje të sajteve që keni ruajtur ose vizituar
 home-prefs-highlights-option-visited-pages =
     .label = Faqe të Vizituara
@@ -548,10 +548,10 @@ search-separate-default-engine =
 search-suggestions-header = Kërkoni Për Sugjerime
 search-suggestions-desc = Zgjidhini si shfaqen sugjerimet nga motorë kërkimesh.
 search-suggestions-option =
-    .label = Ofro këshillime kërkimesh
+    .label = Ofro sugjerime kërkimi
     .accesskey = O
 search-show-suggestions-url-bar-option =
-    .label = Shfaq këshillime kërkimi te përfundimet për shtyllë vendesh
+    .label = Shfaq sugjerime kërkimi te përfundimet në shtyllë adresash
     .accesskey = q
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -563,9 +563,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Shfaq sugjerime kërkimesh në Dritare Private
 suggestions-addressbar-settings = Ndryshoni parapëlqime për historik shfletimesh, faqerojtës, dhe sugjerime skedash
-search-suggestions-cant-show = Këshillimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
+search-suggestions-cant-show = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 search-one-click-header = Motorë kërkimesh me një klikim
-search-one-click-desc = Zgjidhni motorë alternativë kërkimesh që duket nën shtyllën e adresave dhe shtyllën e kërkimeve kur filloni të jepni një fjalëkyç.
+search-one-click-desc = Zgjidhni motorë alternativë kërkimesh që duken nën shtyllën e adresave dhe shtyllën e kërkimeve, kur filloni të jepni një fjalëkyç.
 search-choose-engine-column =
     .label = Motor Kërkimesh
 search-choose-keyword-column =
@@ -915,14 +915,14 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Skeda të hapura
     .accesskey = S
-addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi këshillime motorësh kërkimi
+addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga motorë kërkimi
 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bllokim Lënde
 content-blocking-section-description = Mbroni privatësinë tuaj teksa shfletoni. Bllokoni lëndë të padukshme që gjurmon sajtet që vizitoni dhe që krijojnë një profil tuajin. Bllokimi i një pjese të kësaj lënde mund të sjellë ngarkim më të shpejtë të faqeve.
 content-blocking-enhanced-tracking-protection = Mbrojtje e Thelluar Nga Gjurmimi
-content-blocking-section-top-level-description = Gjurmuesit ju ndjekin nëpër internet për të grumbulluar të dhëna rreth zakoneve dhe interesave tuaja të shfletimit. { -brand-short-name } bllokon mjaft prej këtyre gjurmuesve dhe programtheve të tjerë dashakeqë.
+content-blocking-section-top-level-description = Gjurmuesit ju ndjekin nëpër internet për të grumbulluar të dhëna rreth zakoneve dhe interesave tuaja të shfletimit. { -brand-short-name }-i bllokon mjaft prej këtyre gjurmuesve dhe programtheve të tjerë dashakeqë.
 content-blocking-learn-more = Mësoni më tepër
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -946,18 +946,18 @@ content-blocking-third-party-cookies = Cookies gjurmimi nga palë të treta
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Standard
+    .label = Standarde
     .accesskey = S
 enhanced-tracking-protection-setting-strict =
-    .label = Strikt
+    .label = Strikte
     .accesskey = i
 enhanced-tracking-protection-setting-custom =
-    .label = Vetjak
+    .label = Vetjake
     .accesskey = V
 
 ##
 
-content-blocking-etp-standard-desc = I baraspeshuar për mbrojtje dhe funksionim. Faqet do të ngarkohen normalisht.
+content-blocking-etp-standard-desc = E baraspeshuar për mbrojtje dhe funksionim. Faqet do të ngarkohen normalisht.
 content-blocking-etp-strict-desc = Mbrojtje më e fortë, por mund të shkaktojë mosfunksionim për disa sajte apo lëndë.
 content-blocking-etp-custom-desc = Zgjidhni cilët gjurmues dhe programthe të bllokohen.
 content-blocking-private-windows = Lëndë gjurmimi në Dritare Private

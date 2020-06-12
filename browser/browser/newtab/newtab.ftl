@@ -157,7 +157,7 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Sajte Kryesues
-newtab-section-header-highlights = Highlights
+newtab-section-header-highlights = Në Pah
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Rekomanduar nga { $provider }
