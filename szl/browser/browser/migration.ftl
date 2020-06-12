@@ -97,6 +97,52 @@ imported-edge-reading-list = Wykoz do czytanio (z Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Historyjo przeglōndanio i zokłodki
+           *[other] Historyjo przeglōndanio
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Historyjo przeglōndanio i zokłodki
+           *[other] Historyjo przeglōndanio
+        }
+browser-data-formdata-checkbox =
+    .label = Spamiyntane formulary
+browser-data-formdata-label =
+    .value = Spamiyntane formulary
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Spamiyntane dane logowanio i hasła
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Spamiyntane dane logowanio i hasła
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Ôblubiōne
+            [edge] Ôblubiōne
+           *[other] Zokłodki
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Ôblubiōne
+            [edge] Ôblubiōne
+           *[other] Zokłodki
+        }
+browser-data-otherdata-checkbox =
+    .label = Inksze dane
+browser-data-otherdata-label =
+    .label = Inksze dane
 browser-data-session-checkbox =
     .label = Ôkna i karty
 browser-data-session-label =
