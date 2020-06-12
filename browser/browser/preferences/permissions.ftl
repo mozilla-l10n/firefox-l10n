@@ -5,57 +5,43 @@
 permissions-window =
     .title = ករណី​លើកលែង
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = អាសយដ្ឋាន​គេហទំព័រ
     .accesskey = d
-
 permissions-block =
     .label = ទប់ស្កាត់
     .accesskey = ទ
-
 permissions-session =
     .label = អនុញ្ញាត​សម្រាប់​សម័យ
     .accesskey = ត
-
 permissions-allow =
     .label = អនុញ្ញាត
     .accesskey = ត
-
 permissions-site-name =
     .label = គេហទំព័រ
-
 permissions-status =
     .label = ស្ថានភាព
-
 permissions-remove =
     .label = លុប​គេហទំព័រ
     .accesskey = R
-
 permissions-remove-all =
     .label = លុប​គេហទំព័រ​ទាំងអស់
     .accesskey = e
-
 permissions-button-cancel =
     .label = បោះបង់
     .accesskey = C
-
 permissions-button-ok =
     .label = រក្សាទុក​ការ​ផ្លាស់ប្ដូរ
     .accesskey = S
-
 permissions-searchbox =
     .placeholder = ស្វែងរក​គេហទំព័រ
-
 permissions-capabilities-allow =
     .label = អនុញ្ញាត
 permissions-capabilities-block =
     .label = ទប់ស្កាត់
 permissions-capabilities-prompt =
     .label = សួរ​ជានិច្ច
-
 permissions-capabilities-listitem-allow =
     .value = អនុញ្ញាត
 permissions-capabilities-listitem-block =
@@ -79,6 +65,7 @@ permissions-exceptions-content-blocking-window =
 permissions-exceptions-cookie-window =
     .title = ករណី​លើកលែង - ខូឃី និង​ទិន្នន័យ​គេហទំព័រ
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​តែងតែ ឬ​មិន​ដែល​អនុញ្ញាត​ឲ្យ​ប្រើ​ខូគី​និងទិន្នន័យសាយទាំងនេះ ។  វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​គ្រប់គ្រង បន្ទាប់មក​ចុច​ទប់ស្កាត់ អនុញ្ញាត​សម្រាប់​សម័យ ឬ​អនុញ្ញាត ។
 
 ## Exceptions - Pop-ups
 
@@ -103,8 +90,12 @@ permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជា�
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window2 =
+    .title = ករណីលើកលែង - ការលេងស្វ័យប្រវត្តិ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -127,6 +118,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = វា​នឹងរារាំងគេហទំព័រ​ដែលមិនមានក្នុងបញ្ជីខាងលើនេះមិនឲ្យស្នើសុំការអនុញ្ញាតដើម្បីចូលប្រើទីតាំងរបស់អ្នក។ ការទប់ស្កាត់ការចូលប្រើទីតាំងរបស់អ្នកអាចធ្វើឲ្យលក្ខណៈពិសេសនៃតំបន់បណ្ដាញមួយចំនួនមិនអាចប្រើបាន។
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
