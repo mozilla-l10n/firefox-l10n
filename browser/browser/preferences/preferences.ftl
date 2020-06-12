@@ -232,6 +232,10 @@ translate-attribution = Μεταφράσεις από <img data-l10n-name="logo"
 translate-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = ξ
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Χρησιμοποιήστε τις ρυθμίσεις του συστήματος σας για το “{ $localeName }” για μορφοποίηση ημερομηνίας, ώρας, αριθμών και μετρήσεων.
 check-user-spelling =
     .label = Έλεγχος ορθογραφίας κατά την πληκτρολόγηση
     .accesskey = π
@@ -280,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Χρήση εφαρμογής "{ $app-name }" (προεπιλογή)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Χρήση προεπιλεγμένης εφαρμογής macOS
+            [windows] Χρήση προεπιλεγμένης εφαρμογής Windows
+           *[other] Χρήση προεπιλεγμένης εφαρμογής συστήματος
+        }
 applications-use-other =
     .label = Χρήση άλλης…
 applications-select-helper = Επιλογή βοηθητικής εφαρμογής
@@ -547,6 +558,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Εμφάνιση προτάσεων αναζήτησης σε ιδιωτικά παράθυρα
 suggestions-addressbar-settings = Αλλαγή προτιμήσεων για προτάσεις ιστορικού περιήγησης, σελιδοδεικτών και καρτελών
+suggestions-addressbar-settings-generic = Αλλαγή προτιμήσεων για άλλες προτάσεις στη γραμμή διευθύνσεων
 search-suggestions-cant-show = Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το { -brand-short-name } ώστε να μην διατηρεί ποτέ το ιστορικό.
 search-one-click-header = Μηχανές αναζήτησης με ένα κλικ
 search-one-click-desc = Επιλέξτε τις εναλλακτικές μηχανές αναζήτησης που εμφανίζονται κάτω από τη γραμμή διευθύνσεων και τη γραμμή αναζήτησης όταν αρχίσετε να πληκτρολογείτε μια λέξη-κλειδί.
@@ -931,6 +943,8 @@ content-blocking-etp-standard-desc = Ισορροπία μεταξύ προστ�
 content-blocking-etp-strict-desc = Ισχυρότερη προστασία, αλλά πιθανή δυσλειτουργία μερικών ιστοσελίδων ή περιεχομένου.
 content-blocking-etp-custom-desc = Επιλέξτε ιχνηλάτες και σενάρια για αποκλεισμό.
 content-blocking-private-windows = Περιεχόμενο καταγραφής σε ιδιωτικά παράθυρα
+content-blocking-cross-site-tracking-cookies = Cookies ιχνηλάτησης μεταξύ ιστοσελίδων
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies ιχνηλάτησης μεταξύ ιστοσελίδων και απομόνωση των υπόλοιπων
 content-blocking-social-media-trackers = Ιχνηλάτες κοινωνικών δικτύων
 content-blocking-all-cookies = Όλα τα cookies
 content-blocking-unvisited-cookies = Cookies από ιστοσελίδες που δεν έχετε επισκεφθεί
@@ -942,6 +956,7 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Προσοχή!
 content-blocking-warning-description = Η φραγή περιεχομένου μπορεί να προκαλέσει δυσλειτουργία σε ορισμένες ιστοσελίδες. Μπορείτε εύκολα να απενεργοποιήσετε τη φραγή σε ιστοσελίδες που εμπιστεύεστε.
 content-blocking-learn-how = Μάθετε πώς
+content-blocking-and-isolating-etp-warning-description = Η φραγή ιχνηλατών και η απομόνωση cookies μπορούν να επηρεάσουν τη λειτουργικότητα ορισμένων ιστοσελίδων. Φορτώστε εκ νέου μια σελίδα με ιχνηλάτες για να φορτώσετε όλο το περιεχόμενο.
 content-blocking-warning-learn-how = Μάθετε πώς
 content-blocking-reload-description = Θα πρέπει να φορτώσετε ξανά τις καρτέλες σας για εφαρμογή των αλλαγών αυτών.
 content-blocking-reload-tabs-button =
@@ -1040,6 +1055,7 @@ permissions-a11y-privacy-link = Μάθετε περισσότερα
 collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
 collection-description = Αγωνιζόμαστε για να σάς παρέχουμε επιλογές και συλλέγουμε μόνο αυτά που χρειαζόμαστε, ώστε να παρέχουμε και να βελτιώσουμε το { -brand-short-name } για όλους. Ζητούμε πάντα την άδεια πριν λάβουμε προσωπικές πληροφορίες.
 collection-privacy-notice = Σημείωση απορρήτου
+collection-health-report-telemetry-disabled = Δεν επιτρέπεται πλέον στο { -vendor-short-name } η συλλογή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης. Όλα τα προηγούμενα δεδομένα θα διαγραφούν μέσα σε 30 ημέρες.
 collection-health-report-telemetry-disabled-link = Μάθετε περισσότερα
 collection-health-report =
     .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή τεχνικών και διαδραστικών δεδομένων στη { -vendor-short-name }
