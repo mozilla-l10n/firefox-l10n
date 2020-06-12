@@ -5,66 +5,50 @@
 permissions-window =
     .title = Përjashtime
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresë e sajtit
     .accesskey = d
-
 permissions-block =
     .label = Bllokoje
     .accesskey = B
-
 permissions-session =
     .label = Lejoje për Sesionin
     .accesskey = S
-
 permissions-allow =
     .label = Lejoje
     .accesskey = L
-
 permissions-site-name =
     .label = Sajt
-
 permissions-status =
     .label = Gjendje
-
 permissions-remove =
     .label = Hiqe Sajtin
     .accesskey = H
-
 permissions-remove-all =
     .label = Hiqi Krejt Sajtet
     .accesskey = k
-
 permissions-button-cancel =
     .label = Anuloje
     .accesskey = A
-
 permissions-button-ok =
     .label = Ruaji Ndryshimet
     .accesskey = R
-
 permissions-autoplay-menu = Parazgjedhje për krejt sajtet:
-
 permissions-searchbox =
     .placeholder = Kërko Në Sajte
-
 permissions-capabilities-autoplay-allow =
     .label = Lejo Audio dhe Video
 permissions-capabilities-autoplay-block =
     .label = Blloko Audion
 permissions-capabilities-autoplay-blockall =
     .label = Blloko Audio dhe Video
-
 permissions-capabilities-allow =
     .label = Lejoje
 permissions-capabilities-block =
     .label = Bllokoje
 permissions-capabilities-prompt =
     .label = Pyet Përherë
-
 permissions-capabilities-listitem-allow =
     .value = Lejoje
 permissions-capabilities-listitem-block =
@@ -83,7 +67,6 @@ permissions-exceptions-content-blocking-window =
     .title = Përjashtime - Bllokim Lënde
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = E keni çaktivizuar bllokimin e lëndës në këto sajte.
-
 permissions-exceptions-etp-window =
     .title = Përjashtime për Mbrojtje të Thelluar Nga Gjurmimet
     .style = { permissions-window.style }
@@ -156,7 +139,7 @@ permissions-site-location-disable-desc = Kjo do të pengojë çfarëdo sajti jo 
 permissions-site-xr-window =
     .title = Rregullime - Leje Realiteti Virtual
     .style = { permissions-window.style }
-permissions-site-xr-desc = Sajtet vijues kanë kërkuar të hyjnë në pajisje tuajat për realitet virtual. Mund të specifikoni cilët sajte lejohen të hyjnë pajisjet tuaja të realitetit virtual. Mundeni edhe të bllokoni kërkesa të reja për hyrje në pajisjet tuaja të realitetit virtual.
+permissions-site-xr-desc = Sajtet vijues kanë kërkuar të hyjnë në pajisje tuajat për realitet virtual. Mund të specifikoni cilët sajte lejohen të hyjnë në pajisjet tuaja të realitetit virtual. Mundeni edhe të bllokoni kërkesa të reja për hyrje në pajisjet tuaja të realitetit virtual.
 permissions-site-xr-disable-label =
     .label = Blloko kërkesa të reja për hyrje në pajisjet tuaja të realitetit virtual
 permissions-site-xr-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje të hyjë në pajisje tuaja të realitetit virtual. Bllokimi i hyrjes në pajisjet tuaja të realitetit virtual mund të prishë punimin e ca anëve të sajtit.
