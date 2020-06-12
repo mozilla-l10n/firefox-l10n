@@ -31,3 +31,5 @@ carddav-remember-password =
 carddav-loading = A analisar configuração…
 carddav-connection-error = A ligação falhou.
 carddav-none-found = Não foi encontrado nenhum livro de endereços para adicionar a conta especificada.
+carddav-already-added = Todos os livros de endereços da conta especificada já foram adicionados.
+carddav-available-books = Livros de endereços disponíveis:
