@@ -2,15 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = កូដកំហុស៖ { $error }
 psmerr-ssl-disabled = មិន​អាច​តភ្ជាប់​សុវត្ថិភាព​បាន​ទេ ពីព្រោះ​ពិធីការ​​របស់ SSL ត្រូវ​បាន​បិទ ។
 psmerr-ssl2-disabled = មិន​អាច​តភ្ជាប់​ដោយ​សុវត្ថិភាព​បាន​ទេ ពីព្រោះ​ប្រើ​​តំបន់​បណ្ដាញ​ចាស់​ជាង កំណែ​របស់​ពិធីការ​របស់ SSL គ្មាន​សុវត្ថិភាព​ឡើយ ។
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     អ្នក​បាន​ទទួល​វិញ្ញាបនបត្រ​មិន​ត្រឹមត្រូវ ។ សូម​ទាក់ទង​អ្នក​គ្រប់គ្រង​ម៉ាស៊ីន​បម្រើ ឬ​អ៊ីមែល​ដោយ​ផ្ញើ​នូវ​ព័ត៌មាន​ដូច​ខាងក្រោម​ដល់​ពួកគេ ៖
     
      វិញ្ញាបនបត្រ​របស់​អ្នក​មាន​លេខ​សម្គាល់​ដូច​គ្នា​នឹង​វិញ្ញាបនបត្រ​មួយ​ផ្សេងទៀត​ដែល​បាន​ចេញ​ដោយ​ប្រភព​វិញ្ញាបនបត្រ ។ សូម​ទទួល​យក​វិញ្ញាបនបត្រ​ថ្មី​ដែល​មាន​នូវ​លេខ​សម្គាល់​តែមួយ ។
-
 ssl-error-export-only-server = មិន​អាច​​ទាក់ទង​​ដោយ​សុវត្ថិភាព​បាន​ទេ ។  ម៉ាស៊ីន​ដូច​គ្នា​មិន​គាំទ្រ​ការ​អ៊ិនគ្រីប​កម្រិត​ខ្ពស់​ឡើយ ។​
 ssl-error-us-only-server = មិន​អាច​ទាក់ទង​ដោយ​សុវត្ថិភាព​បាន​ទេ ។  ម៉ាស៊ីន​ដូចគ្នា​ទាមទារ​ការ​អ៊ិនគ្រីប​កម្រិត​ខ្ពស់​ដែល​មិន​ត្រូវ​បាន​គាំទ្រ ។
 ssl-error-no-cypher-overlap = មិន​អាច​ទាក់ទង​ជាមួយ​ម៉ាស៊ីន​ដូច​គ្នា​ដោយ​សុវត្ថិភាព​បាន​ទេ ៖ គ្មាន​ក្បួន​ដោះស្រាយ​ការ​អ៊ិនគ្រីប​ទូទៅ​ឡើយ ។
@@ -142,6 +143,11 @@ ssl-error-next-protocol-no-callback = បាន​បើក​ផ្នែក​
 ssl-error-next-protocol-no-protocol = ម៉ាស៊ីន​មេ​មិន​គាំទ្រ​ពិធីការ​ដែល​ម៉ាស៊ីន​កូន​ផ្សាយ​នៅ​ក្នុង​ផ្នែក​បន្ថែម ALPN ទេ។
 ssl-error-inappropriate-fallback-alert = ម៉ាស៊ីន​មេ​បាន​បដិសេធ​ការ​ស្វាគមន៍ ព្រោះ​ម៉ាស៊ីន​កូន​បាន​បន្ទាប​កំណែ TLS ឲ្យ​ទាប​ជាង​កំណែ​ដែល​ម៉ាស៊ីន​មេ​គាំទ្រ។
 ssl-error-weak-server-cert-key = វិញ្ញាបនបត្រ​ម៉ាស៊ីន​មេ​បាន​ដាក់​បញ្ចូល​លេខ​កូដ​សាធារណៈ​ដែល​ខ្សោយ​ពេក។
+ssl-error-rx-short-dtls-read = មិនមានបន្ទប់គ្រប់គ្រាន់សម្រាប់អង្គចងចាំ DTLS។
+ssl-error-no-supported-signature-algorithm = គ្មានក្បួនដោះស្រាយហត្ថលេខា TLS ដែលបានគាំទ្រត្រូវបានតំឡើង។
+ssl-error-unsupported-signature-algorithm = Peer បានប្រើការបន្សំក្បួនដោះស្រាយហត្ថលេខានិងហាដែលមិនគាំទ្រ។
+ssl-error-missing-extended-master-secret = Peer បានព្យាយាមបន្តដោយគ្មានផ្នែកបន្ថែម extended_master_secret ដែលត្រឹមត្រូវ។
+ssl-error-unexpected-extended-master-secret = Peer បានព្យាយាមបន្តដោយមានផ្នែកបន្ថែម extended_master_secret ដែលមិនបានរំពឹងទុក។
 sec-error-io = កំហុស I/O បាន​កើតឡើង​អំឡុង​ពេល​ផ្ទៀងផ្ទាត់​ភាព​ត្រឹមត្រូវ​សុវត្ថិភាព ។
 sec-error-library-failure = បរាជ័យ​បណ្ណាល័យ​សុវត្ថិភាព ។
 sec-error-bad-data = បណ្ណាល័យ​សុវត្ថិភាព ៖ បាន​ទទួល​ទិន្នន័យ​​ដែល​ខូច ។
@@ -328,3 +334,4 @@ mozilla-pkix-error-not-yet-valid-issuer-certificate = វិញ្ញាបន�
 mozilla-pkix-error-signature-algorithm-mismatch = វិធីសាស្ត្រ​ហត្ថលេខា​នៅ​ក្នុង​​ប្រឡោះ​ហត្ថលេខា​នៃ​វិញ្ញាបនបត្រ​មិន​ត្រូវគ្នា​នឹង​វិធីសាស្ត្រ​នៅ​ក្នុង​ប្រឡោះ signatureAlgorithm ទេ។
 mozilla-pkix-error-ocsp-response-for-cert-missing = ការ​ឆ្លើយតប OCSP មិន​មាន​បញ្ចូល​ស្ថានភាព​សម្រាប់​វិញ្ញាបនបត្រ​​ដែល​​កំពុង​ត្រូវ​បាន​បញ្ជាក់។
 mozilla-pkix-error-validity-too-long = ម៉ាស៊ីន​មេ​ប្រាប់​ថា​វិញ្ញាបនបត្រ​​ដែល​ត្រឹមត្រូវ​វែង​ពេក។
+mozilla-pkix-error-required-tls-feature-missing = បាត់លក្ខណៈពិសេស TLS ដែលត្រូវការ។
