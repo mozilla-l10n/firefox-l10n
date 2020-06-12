@@ -17,3 +17,11 @@ crashes-unsubmitted-label = Niyposłane raporty z awaryje
 id-heading = ID zgłoszynio
 date-crashed-heading = Data awaryje
 submit-crash-button-label = Poślij
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Niy podarziło sie
+crashes-submitted-label = Posłane raporty z awaryje
+date-submitted-heading = Data posłanio
+view-crash-button-label = Pokoż
+no-reports-label = Żodne raporty z awaryje niy były posłane.
+no-config-label = Ta aplikacyjo niy była nasztalowano, coby pokazować raporty z awaryje. Trza nasztalować preferyncyjo <code>breakpad.reportURL</code>.
