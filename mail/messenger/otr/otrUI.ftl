@@ -23,6 +23,45 @@ alert-start = Próba rozpoczęcia zaszyfrowanej rozmowy z użytkownikiem { $nam
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-refresh = Próba rozpoczęcia odświeżenia rozmowy z użytkownikiem { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = Zaszyfrowana rozmowa z użytkownikiem { $name } zakończyła się.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = Tożsamość użytkownika { $name } nie została jeszcze zweryfikowana. Przypadkowe podsłuchy nie są możliwe, ale przy pewnym wysiłku ktoś może podsłuchiwać. Zapobiegnij inwigilacji, weryfikując tożsamość tego kontaktu.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } kontaktuje się z Tobą z nierozpoznanego komputera. Przypadkowe podsłuchy nie są możliwe, ale przy pewnym wysiłku ktoś może podsłuchiwać. Zapobiegnij inwigilacji, weryfikując tożsamość tego kontaktu.
+state-not_private = Obecna rozmowa nie jest prywatna.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Obecna rozmowa jest zaszyfrowana, ale nie jest prywatna, ponieważ tożsamość użytkownika { $name } nie została jeszcze zweryfikowana.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Tożsamość użytkownika { $name } została zweryfikowana. Obecna rozmowa jest zaszyfrowana i prywatna.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = Użytkownik { $name } zakończył zaszyfrowaną rozmowę z Tobą, należy zrobić to samo.
+state-not_private-label = Niezabezpieczony
+state-unverified-label = Niezweryfikowany
+state-private-label = Prywatny
+state-finished-label = Zakończony
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } prosi o weryfikację Twojej tożsamości.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Zweryfikowano tożsamość użytkownika { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = Tożsamość użytkownika { $name } nie została zweryfikowana.
+verify-title = Zweryfikuj tożsamość kontaktu
 error-title = Błąd
 success-title = Szyfrowanie „end-to-end”
+successThem-title = Zweryfikuj tożsamość kontaktu
 fail-title = Nie można zweryfikować
+waiting-title = Wysłano prośbę o weryfikację
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Utworzenie klucza prywatnego OTR się nie powiodło: { $error }
