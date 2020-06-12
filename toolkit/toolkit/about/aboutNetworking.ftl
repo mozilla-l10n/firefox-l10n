@@ -57,7 +57,6 @@ rcwn-avg-long = Μεγάλος μέσος όρος
 rcwn-std-dev-long = Μακρά τυπική απόκλιση
 rcwn-cache-slow = Αργή μέτρηση cache
 rcwn-cache-not-slow = Η cache δεν μετρά αργά
-
 about-networking-title = Σχετικά με τη δικτύωση
 about-networking-http = HTTP
 about-networking-sockets = Υποδοχές
@@ -80,6 +79,7 @@ about-networking-family = Οικογένεια
 about-networking-trr = TRR
 about-networking-addresses = Διευθύνσεις
 about-networking-expires = Λήγει (δευτερόλεπτα)
+about-networking-originAttributesSuffix = Κλειδί απομόνωσης
 about-networking-messages-sent = Απεσταλμένα μηνύματα
 about-networking-messages-received = Ληφθέντα μηνύματα
 about-networking-bytes-sent = Απεσταλμένα byte
