@@ -37,6 +37,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Όλοι οι ιχνηλά�
 
 ##
 
+protections-panel-no-trackers-found = Δεν εντοπίστηκαν ιχνηλάτες γνωστοί στο { -brand-short-name } σε αυτή τη σελίδα.
 protections-panel-content-blocking-tracking-protection = Περιεχόμενο καταγραφής
 protections-panel-content-blocking-socialblock = Ιχνηλάτες κοινωνικών δικτύων
 protections-panel-content-blocking-cryptominers-label = Cryptominers
@@ -74,6 +75,7 @@ protections-panel-site-not-working-view-send-report = Αποστολή αναφ�
 
 ##
 
+protections-panel-cross-site-tracking-cookies = Αυτά τα cookies σας ακολουθούν από ιστοσελίδα σε ιστοσελίδα για να συλλέξουν δεδομένα σχετικά με το τι κάνετε στο διαδίκτυο. Δημιουργούνται από τρίτους, όπως διαφημιστές και εταιρείες ανάλυσης.
 protections-panel-content-blocking-manage-settings =
     .label = Διαχείριση ρυθμίσεων προστασίας
     .accesskey = Δ
