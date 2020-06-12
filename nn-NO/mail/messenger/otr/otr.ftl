@@ -47,6 +47,9 @@ msgevent-rcvdmsg_unencrypted = Følgjande melding frå { $name } vart ikkje kryp
 msgevent-rcvdmsg_unrecognized = Du fekk ei ukjend OTR-melding frå { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } har sendt ei melding som er meint for ei anna økt. Dersom du er innlogga fleire gongar kan ei anna økt ha fått medldinga.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Privat samtale med { $name } startet.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
