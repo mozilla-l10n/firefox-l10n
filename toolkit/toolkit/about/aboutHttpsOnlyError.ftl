@@ -4,5 +4,6 @@
 
 about-httpsonly-insecure-title = Güvenli bağlantı kullanılamıyor
 about-httpsonly-insecure-explanation-reasons = Büyük olasılıkla web sitesi HTTPS desteği sunmuyor ama bir saldırganın HTTPS sürümünü engellemiş olması da mümkündür.
+about-httpsonly-insecure-explanation-exception = Güvenlik riski düşük olsa da, bu sitenin HTTP sürümünü ziyaret etmeye karar verirseniz parola, e-posta veya kredi kartı gibi hassas bilgilerinizi girmemelisiniz.
 about-httpsonly-button-make-exception = Riski kabul ederek siteye git
 about-httpsonly-button-go-back = Geri dön
