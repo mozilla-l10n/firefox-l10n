@@ -94,7 +94,14 @@ cfr-whatsnew-button =
     .tooltiptext = Τι νέο υπάρχει
 cfr-whatsnew-panel-header = Τι νέο υπάρχει
 cfr-whatsnew-release-notes-link-text = Διαβάστε τις σημειώσεις έκδοσης
+cfr-whatsnew-fx70-title = Το { -brand-short-name } μάχεται σκληρά για το απόρρητό σας
+cfr-whatsnew-fx70-body =
+    Η τελευταία ενημέρωση βελτιώνει την προστασία από καταγραφή και κάνει τη
+    δημιουργία ασφαλών κωδικών πρόσβασης πιο εύκολη από ποτέ για κάθε ιστοσελίδα.
 cfr-whatsnew-tracking-protect-title = Προστατεύστε τον εαυτό σας από ιχνηλάτες
+cfr-whatsnew-tracking-protect-body =
+    Το { -brand-short-name } αποκλείει πολλούς κοινούς ιχνηλάτες κοινωνικών δικτύων και μεταξύ ιστοσελίδων που
+    παρακολοθούν τη δραστηριότητά σας στο διαδίκτυο.
 cfr-whatsnew-tracking-protect-link-text = Προβολή της αναφοράς σας
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -179,10 +186,13 @@ cfr-doorhanger-milestone-ok-button = Προβολή όλων
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Δημιουργήστε εύκολα ασφαλείς κωδικούς πρόσβασης
 cfr-whatsnew-lockwise-icon-alt = εικονίδιο { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Λάβετε ειδοποιήσεις για ευάλωτους κωδικούς πρόσβασης
+cfr-whatsnew-passwords-icon-alt = Εικονίδιο ευάλωτου κωδικού πρόσβασης
 
 ## Picture-in-Picture fullscreen message
 
@@ -197,3 +207,4 @@ cfr-whatsnew-protections-icon-alt = Εικονίδιο ασπίδας
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Καλύτερη εμπειρία PDF
+cfr-whatsnew-better-pdf-body = Τα έγγραφα PDF πλέον ανοίγουν απευθείας στο { -brand-short-name } για ακόμα πιο βολική εργασία.
