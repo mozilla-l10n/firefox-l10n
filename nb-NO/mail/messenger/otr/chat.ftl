@@ -11,4 +11,4 @@ start-tooltip =
 end-label =
     .label = Avslutt den krypterte samtalen
 auth-label =
-    .label = Bekreft kontaktens identitet
+    .label = Bekreft identiteten til kontakten din
