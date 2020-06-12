@@ -9,12 +9,18 @@ graph-week-summary =
         [one] Անցած շաբաթուայ ընթացքում { -brand-short-name }- ը արգելափակել է { $count } հետագծողներ
        *[other] Անցած շաբաթների ընթացքում { -brand-short-name }--արգելափակել է { $count } հետագծողներ
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } շարունակում է արգելափակել հետախուզիչներին մասնաւոր Windows-ում, բայց չի պահպանում այն, թե ինչն է արգելափակուած:
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Այս շաբաթ արգելափակուած { -brand-short-name } որոնումների հետագծերը
 protection-report-page-title = Գաղտնիութեան պաշտպանութիւն
 protection-report-content-title = Գաղտնիութեան պաշտպանութիւն
 etp-card-title = Ընդլայնուած Հետագծման Պաշտպանութիւն
 etp-card-content = Հետագծողները Ձեզ հետեւում են առցանց՝ ձեր զննման սովորույթների եւ հետաքրքրութիւնների վերաբերեալ տեղեկատուութիւն հաւաքելու համար: { -brand-short-name } ֊ը արգելափակում է  նման հետագծումներ եւ այլ չարամիտ գրութիւններ:
+protection-report-webpage-title = Պաշտպանութեան կառավահան
+protection-report-page-content-title = Պաշտպանութեան կառավահան
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } կարող է տեսադաշտից պաշտպանել Ձեր գաղտնիութիւնը զննարկման համար։ Ահաւասաիկ, պաշտպանուածութիւնների անհատականացուած ամփոփագիրն է, ներառեալ գործիքները`Ձեր առցանց անվտանգութիւնը վերահսկելու համար:
 etp-card-title-always = Ընդլայնուած Յետագծման Պաշտպանութիւն. Միշտ միացած
 etp-card-title-custom-not-blocking = Ընդլայնուած Յետագծման Պաշտպանութիւն։ Անջատուած
 protection-report-etp-card-content-custom-not-blocking = Ներկայումս բոլոր պաշտպանութիւններն անջատուած են։Ընտրեք, թե որ հետագծողներինէ արգելափակել՝ Ձեր { -brand-short-name } ֊ի գաղտնիութեան կարգաւորումներից։
@@ -22,6 +28,8 @@ protection-report-manage-protections = Փոխել կարգաւորումները
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Այսաւր
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Նկար, որը պարունակում է այս շաբաթուայ ընթացքում արգելափակուած իւրաքանչիւր հետախուզիչի ընդհանուր թիւը։
 social-tab-title = Ընդհանուր միջաւայրի հետեւումներ
 social-tab-contant = Սոցցանցերը հետապնդում են Ձեզ այլ կայքերում, Ձեր գործողութիւնները իմանալու համար։ Սա թոյլատրում է սոցմեդիայի կազմակերպութիւններին իմանալ աւելին Ձեր մասին ըստ Ձեր կիսումների Ձեր սոցմեդիայ հաշիւներում։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
 cookie-tab-title = Միջակայքի հետեւող նշոցիկներ
@@ -30,6 +38,10 @@ tracker-tab-title = Հետագծող բովանդակութիւն
 tracker-tab-description = Կայքերը կարող են բեռնել արտաքին գովազդ եւ այլ բովանդակութիւն հետապնդուող կոդով։ Հետապնդուող բովանդակութեան արգելափակումը կարող է աւգնել կայքերին աւելի արագ բեռնուել, բայց որոշ կոճակներ ձեւեր եւ մուտքային դաշտեր կարող են չաշխատել։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
 fingerprinter-tab-title = Մատնահետքեր
 cryptominer-tab-title = Գաղտնազերծիչներ
+protections-close-button2 =
+    .aria-label = Փակել
+    .title = Փակել
+mobile-app-title = Արգելափակել գովազդային հետախուզիչներին այլ սարքերում
 lockwise-title = Այլեւս երբէք չմոռանալ գաղտնաբառը
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Գաղտնաբառերի կառավարում
