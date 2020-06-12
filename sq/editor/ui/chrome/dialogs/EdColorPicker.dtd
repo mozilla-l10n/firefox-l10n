@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Ngjyrë">
 <!ENTITY lastPickedColor.label "Ngjyrë e marrë së fundi">
 <!ENTITY lastPickedColor.accessKey "N">
-<!ENTITY setColor1.label "Klikoni mbi një ngjyrë ose">
-<!ENTITY setColor2.label "jepni një varg HTML ngjyre">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Zgjidhni një ngjyrë:">
 <!ENTITY chooseColor2.label "Jepni një varg HTML ngjyre">
 <!ENTITY chooseColor2.accessKey "H">
@@ -15,7 +12,7 @@
 <!ENTITY default.label "Parazgjedhje">
 <!ENTITY default.accessKey "P">
 <!ENTITY palette.label "Paletë:">
-<!ENTITY standardPalette.label "Standard">
+<!ENTITY standardPalette.label "Standarde">
 <!ENTITY webPalette.label "Tërë ngjyrat web">
 <!ENTITY background.label "Sfond për:">
 <!ENTITY background.accessKey "S">
