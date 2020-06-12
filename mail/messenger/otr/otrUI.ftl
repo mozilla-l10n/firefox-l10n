@@ -26,6 +26,15 @@ alert-refresh = Prøver å oppdatere den krypterte samtalen med { $name }.
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Den krypterade samtalen med { $name } vart avslutta.
 state-not_private = Denne samtalen er ikkje kryptert.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Denne samtalen er krypteret, men ikkje privat, då { $name }s identitet enno ikkje er stadfesta.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Identiteten for { $name } er stadfesta. Denne samtalen er kryptert privat.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } har avslutta kryptert samtale med deg; du bør gjere det same.
 state-not_private-label = Utrygg
 state-unverified-label = Ikkje stadfesta
 state-private-label = Privat
@@ -44,3 +53,7 @@ error-title = Feil
 successThem-title = Stadfest identiteten til kontakten din
 fail-title = Klarte ikkje å stadfeste
 waiting-title = Stadfestingsførespurnad er sendt
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Generering av OTR-privatnøkkel var mislykka: { $error }
