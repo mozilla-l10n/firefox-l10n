@@ -252,6 +252,8 @@ browser-window-minimize-button =
     .tooltiptext = Ελαχιστοποίηση
 browser-window-maximize-button =
     .tooltiptext = Μεγιστοποίηση
+browser-window-restore-down-button =
+    .tooltiptext = Επαναφορά κάτω
 browser-window-close-button =
     .tooltiptext = Κλείσιμο
 
@@ -276,6 +278,7 @@ popup-silence-notifications-checkbox-warning = Το { -brand-short-name } δεν
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = Μοιράζεστε το { -brand-short-name }. Άλλα άτομα μπορούν να δουν όταν μεταβείτε σε μια νέα καρτέλα.
+sharing-warning-screen = Μοιράζεστε ολόκληρη την οθόνη σας. Οι άλλοι χρήστες μπορούν να δουν ότι κάνετε εναλλαγή σε νέα καρτέλα.
 sharing-warning-proceed-to-tab =
     .label = Συνέχεια στην καρτέλα
 sharing-warning-disable-for-session =
@@ -283,6 +286,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Για να χρησιμοποιήσετε τη συντόμευση F12, ανοίξτε πρώτα τα DevTools μέσω του μενού προγραμματιστών ιστού.
 
 ## URL Bar
 
