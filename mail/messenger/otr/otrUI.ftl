@@ -4,6 +4,8 @@
 
 start-label = Start en kryptert samtale
 refresh-label = Oppdater den krypterte samtalen
+auth-label = Bekreft identiteten til kontakten din
+reauth-label = Bekreft identiteten til kontakten din på nytt
 auth-cancel = Avbryt
 auth-cancelAccessKey = A
 finger-verify = Bekreft
