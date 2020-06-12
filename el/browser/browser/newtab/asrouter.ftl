@@ -186,3 +186,11 @@ cfr-whatsnew-lockwise-icon-alt = εικονίδιο { -lockwise-brand-short-name
 
 ## Picture-in-Picture fullscreen message
 
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-icon-alt = Εικονίδιο ασπίδας
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Καλύτερη εμπειρία PDF

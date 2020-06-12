@@ -97,6 +97,44 @@ imported-edge-reading-list = Λίστα ανάγνωσης (Από Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Ιστορικό περιήγησης και σελιδοδείκτες
+           *[other] Ιστορικό περιήγησης
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Ιστορικό περιήγησης και σελιδοδείκτες
+           *[other] Ιστορικό περιήγησης
+        }
+browser-data-formdata-checkbox =
+    .label = Ιστορικό αποθηκευμένων φορμών
+browser-data-formdata-label =
+    .value = Ιστορικό αποθηκευμένων φορμών
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Αγαπημένα
+            [edge] Αγαπημένα
+           *[other] Σελιδοδείκτες
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Αγαπημένα
+            [edge] Αγαπημένα
+           *[other] Σελιδοδείκτες
+        }
+browser-data-otherdata-checkbox =
+    .label = Άλλα δεδομένα
+browser-data-otherdata-label =
+    .label = Άλλα δεδομένα
 browser-data-session-checkbox =
     .label = Παράθυρα και καρτέλες
 browser-data-session-label =
