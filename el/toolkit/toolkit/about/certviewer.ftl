@@ -19,13 +19,26 @@ certificate-viewer-email-address = Διεύθυνση email
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Πιστοποιητικό για { $firstCertName }
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Χώρα εταιρείας
 certificate-viewer-country = Χώρα
+certificate-viewer-curve = Καμπύλη
+certificate-viewer-distribution-point = Σημείο διανομής
 certificate-viewer-dns-name = Όνομα DNS
+certificate-viewer-ip-address = Διεύθυνση IP
+certificate-viewer-other-name = Άλλο όνομα
+certificate-viewer-exponent = Εκθέτης
 certificate-viewer-id = ID
+certificate-viewer-key-exchange-group = Ομάδα ανταλλαγής κλειδιών
 certificate-viewer-key-id = ID κλειδιού
 certificate-viewer-key-size = Μέγεθος κλειδιού
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Περιοχή εταιρείας
+certificate-viewer-locality = Περιοχή
 certificate-viewer-location = Τοποθεσία
+certificate-viewer-logid = ID καταγραφής
 certificate-viewer-method = Μέθοδος
+certificate-viewer-modulus = Μέτρο
 certificate-viewer-name = Όνομα
 certificate-viewer-not-after = Όχι μετά
 certificate-viewer-not-before = Όχι πριν
@@ -39,6 +52,8 @@ certificate-viewer-qualifier = Προσδιοριστικό
 certificate-viewer-qualifiers = Προσδιοριστικά
 certificate-viewer-required = Απαιτείται
 certificate-viewer-unsupported = &lt;δεν υποστηρίζεται&gt;
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Πολιτεία/περιφέρεια εταιρείας
 certificate-viewer-state-province = Πολιτεία/περιφέρεια
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
