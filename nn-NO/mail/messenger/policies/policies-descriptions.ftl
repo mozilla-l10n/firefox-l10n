@@ -55,6 +55,8 @@ policy-LegacyProfiles = Slå av funksjonen som tvingar fram ein separat profil f
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Slå på standard-innstilling for forelda SameSite-oppførsel.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbake til forelda SameSite-oppførsel for infokapslar på bestemte nettstadar.
 
 ##
 
@@ -63,6 +65,10 @@ policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-pre
 policy-OfferToSaveLogins = Tving innstillinga til å tillate { -brand-short-name } å kunne kome i hug lagra innloggingar og passord. Både true- og falseverdiar er godkjende.
 policy-OverrideFirstRunPage = Erstatt sida som vert vist ved første oppstart. La policyen vere tom, viss sida ved første oppstart skal deaktiverast.
 policy-OverridePostUpdatePage = Byt ut «Kva er nytt»-sida som vert vist etter ei oppdatering. La policyen stå tom viss sida etter ei oppdatering skal deaktiverast.
+policy-PasswordManagerEnabled = Tillat at brukaren kan lagre passord i passord-handteraren.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Slå av eller konfigurer PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }.
+policy-Permissions2 = Konfigurer løyve for kamera, mikrofon, posisjon, varsel og automatisk avspeling.
 policy-Preferences = Still inn og lås verdien for ei delmengde av innstillingar.
 policy-PromptForDownloadLocation = Spør kvar nedlasta filer skal lagrast.
 policy-Proxy = Konfigurer proxy-innstillingar.
