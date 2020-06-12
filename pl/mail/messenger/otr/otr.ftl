@@ -45,3 +45,30 @@ msgevent-rcvdmsg_unencrypted = Ta wiadomość odebrana od użytkownika { $name }
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unrecognized = Odebrano nierozpoznaną wiadomość OTR od użytkownika { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = Użytkownik { $name } wysłał wiadomość przeznaczoną dla innej sesji. Jeśli zalogowano się wielokrotnie, to inna sesja mogła odebrać tę wiadomość.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Rozpoczęto prywatną rozmowę z użytkownikiem { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Rozpoczęto zaszyfrowaną, ale niezweryfikowaną rozmowę z użytkownikiem { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Pomyślnie odświeżono zaszyfrowaną rozmowę z użytkowaniem { $name }.
+error-enc = Wystąpił błąd podczas szyfrowania wiadomości.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Wysłano zaszyfrowane dane do użytkownika { $name }, który się tego nie spodziewał.
+error-unreadable = Przesłano nieczytelną zaszyfrowaną wiadomość.
+error-malformed = Przesłano wiadomość ze zniekształconymi danymi.
+resent = [wyślij ponownie]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = Użytkownik { $name } zakończył zaszyfrowaną rozmowę z Tobą, należy zrobić to samo.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } prosi o rozmowę zaszyfrowaną za pomocą OTR (Off-the-Record Messaging). Nie zainstalowano potrzebnej do tego wtyczki. https://pl.wikipedia.org/wiki/Off-the-record_messaging zawiera więcej informacji.
