@@ -229,6 +229,10 @@ translate-attribution = Թարգմանել է՝ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Բացառութիւններ…
     .accesskey = ա
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Աւգտագործէք Ձեր գործառնական համակարգի { $localeName }–ի կարգաւորումները եւ հաստատէք ամսաթուերը, ժամերը, թուերը եւ չափման միաւորները:
 check-user-spelling =
     .label = Տեքստ մուտքագրելիս ստուգել ուղղագրութիւնը
     .accesskey = մ
