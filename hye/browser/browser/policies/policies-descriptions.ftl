@@ -102,5 +102,6 @@ policy-SecurityDevices = Տեղադրել PKCS #11 մոդուլները։
 policy-SSLVersionMax = Սահմանել SSL-ի առաւելագոյն տարբերակը։
 policy-SSLVersionMin = Սահմանել SSL-ի նուազագոյն տարբերակը։
 policy-SupportMenu = Աւելացնել անհատական աջակցութեան ընտրացանկ աւգնութեան ընտրացանկում։
+policy-UserMessaging = Չցուցադրել աւգտատիրոջը որոշ հաղորդագրութիւններ:
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Այցելելիս արգելափակել կայքերը։ Տեսեք փաստաթղթերը` ձեւաչափում մանրամասների համար։
