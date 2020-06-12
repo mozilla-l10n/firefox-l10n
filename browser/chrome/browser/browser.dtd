@@ -597,7 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Ringarkoje Kuadrin">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Shihni Burim Përzgjedhjeje">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label      "Shihni Burim Faqeje">
 <!ENTITY viewPageSourceCmd.accesskey  "u">
 <!ENTITY viewFrameSourceCmd.label     "Shihni Burim Kuadri">
