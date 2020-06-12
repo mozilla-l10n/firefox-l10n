@@ -5,66 +5,50 @@
 permissions-window =
     .title = Εξαιρέσεις
     .style = width: 47em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Διεύθυνση ιστοσελίδας
     .accesskey = ι
-
 permissions-block =
     .label = Φραγή
     .accesskey = Φ
-
 permissions-session =
     .label = Αποδοχή για αυτή τη συνεδρία
     .accesskey = σ
-
 permissions-allow =
     .label = Αποδοχή
     .accesskey = Α
-
 permissions-site-name =
     .label = Ιστοσελίδα
-
 permissions-status =
     .label = Κατάσταση
-
 permissions-remove =
     .label = Αφαίρεση ιστοσελίδας
     .accesskey = φ
-
 permissions-remove-all =
     .label = Αφαίρεση όλων των ιστοσελίδων
     .accesskey = λ
-
 permissions-button-cancel =
     .label = Ακύρωση
     .accesskey = Κ
-
 permissions-button-ok =
     .label = Αποθήκευση αλλαγών
     .accesskey = Π
-
 permissions-autoplay-menu = Προεπιλογή για όλες τις ιστοσελίδες:
-
 permissions-searchbox =
     .placeholder = Αναζήτηση ιστοσελίδας
-
 permissions-capabilities-autoplay-allow =
     .label = Αποδοχή ήχου και βίντεο
 permissions-capabilities-autoplay-block =
     .label = Φραγή ήχου
 permissions-capabilities-autoplay-blockall =
     .label = Φραγή ήχου και βίντεο
-
 permissions-capabilities-allow =
     .label = Αποδοχή
 permissions-capabilities-block =
     .label = Φραγή
 permissions-capabilities-prompt =
     .label = Πάντα ερώτηση
-
 permissions-capabilities-listitem-allow =
     .value = Αποδοχή
 permissions-capabilities-listitem-block =
@@ -83,7 +67,6 @@ permissions-exceptions-content-blocking-window =
     .title = Εξαιρέσεις - Φραγή περιεχομένου
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Έχετε απενεργοποιήσει τη φραγή περιεχομένου σε αυτές τις ιστοσελίδες.
-
 permissions-exceptions-etp-window =
     .title = Εξαιρέσεις για τη βελτιωμένη προστασία από καταγραφή
     .style = { permissions-window.style }
@@ -156,6 +139,10 @@ permissions-site-location-disable-desc = Αυτό θα εμποδίσει όλε
 permissions-site-xr-window =
     .title = Ρυθμίσεις - Άδειες εικονικής πραγματικότητας
     .style = { permissions-window.style }
+permissions-site-xr-desc = Οι ακόλουθες ιστοσελίδες έχουν αιτηθεί πρόσβαση στις συσκευές εικονικής πραγματικότητάς σας. Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η πρόσβαση στις συσκευές εικονικής πραγματικότητάς σας. Μπορείτε επίσης να αποκλείσετε νέα αιτήματα για πρόσβαση στις συσκευές εικονικής πραγματικότητάς σας.
+permissions-site-xr-disable-label =
+    .label = Αποκλεισμός νέων αιτημάτων για πρόσβαση στις συσκευές εικονικής πραγματικότητάς σας
+permissions-site-xr-disable-desc = Αυτό θα εμποδίσει όλες τις ιστοσελίδες που δεν αναγράφονται παραπάνω να αιτηθούν άδεια για πρόσβαση στις συσκευές εικονικής πραγματικότητάς σας. Η φραγή πρόσβασης στις συσκευές εικονικής πραγματικότητάς σας πιθανόν να διακόψει ορισμένες λειτουργίες των ιστοσελίδων.
 
 ## Site Permissions - Camera
 

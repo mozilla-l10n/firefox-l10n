@@ -117,6 +117,14 @@ browser-data-formdata-checkbox =
     .label = Ιστορικό αποθηκευμένων φορμών
 browser-data-formdata-label =
     .value = Ιστορικό αποθηκευμένων φορμών
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
