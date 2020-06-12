@@ -68,16 +68,21 @@ policy-OfferToSaveLoginsDefault = Establecer el valor predeterminado para permit
 policy-OverrideFirstRunPage = Anular la página de inicio. Establezca la política de página en blanco si quiere deshabilitar la página de inicio.
 policy-OverridePostUpdatePage = Anular la página "Novedades" posterior a la actualización. Establezca la política de página en blanco si quiere deshabilitar la página posterior a la actualización.
 policy-PasswordManagerEnabled = Habilitar guardar contraseñas en el administrador de contraseñas.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Deshabilitar o configurar PDF.js, el visor de PDF incorporado en { -brand-short-name }.
+policy-Permissions2 = Configurar permisos para cámara, micrófono, ubicación, notificaciones y reproducción automática.
 policy-Preferences = Establezca y bloquee el valor para un subconjunto de preferencias.
 policy-PromptForDownloadLocation = Preguntar dónde guardar los archivos al descargar.
 policy-Proxy = Configurar opciones de proxy.
 policy-RequestedLocales = Establezca la lista de localizaciones solicitadas para la aplicación ordenadas por preferencia.
 policy-SanitizeOnShutdown2 = Borrar datos de navegación al cerrar.
 policy-SearchEngines = Configure los ajustes del buscador. Esta política solo está disponible en la versión Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Habilitar o deshabilitar las sugerencias de búsqueda.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
 policy-SupportMenu = Agregue un elemento de menú de ayuda personalizado al menú de ayuda.
+policy-UserMessaging = No mostrar ciertos mensajes al usuario.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear la visita a sitios web. Consulte la documentación para obtener más detalles sobre el formato.
