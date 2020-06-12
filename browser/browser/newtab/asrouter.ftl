@@ -224,7 +224,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 画中画图标
 
 ## Protections Dashboard message
 
-cfr-whatsnew-protections-header = 保护信息一目了然
+cfr-whatsnew-protections-header = 保护信息，一目了然
 cfr-whatsnew-protections-body = 保护信息面板包含有关数据外泄和密码管理的摘要报告。现在，您可以跟踪已处理的外泄事件数量，并检查是否有任何存放的密码已遭泄露。
 cfr-whatsnew-protections-cta-link = 查看保护信息面板
 cfr-whatsnew-protections-icon-alt = 盾牌图标
