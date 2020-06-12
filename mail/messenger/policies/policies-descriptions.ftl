@@ -64,6 +64,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbake til foreld
 policy-LocalFileLinks = Tillat at bestemte nettstadar koplar til lokale filer.
 policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-prefetch).
 policy-OfferToSaveLogins = Tving innstillinga til å tillate { -brand-short-name } å kunne kome i hug lagra innloggingar og passord. Både true- og falseverdiar er godkjende.
+policy-OfferToSaveLoginsDefault = Vel om { -brand-short-name } skal tilby å hugse innloggingar og passord. Veltrue, dersom { -brand-short-name } skal tilby å hugse innloggingar og passord, elles vel false.
 policy-OverrideFirstRunPage = Erstatt sida som vert vist ved første oppstart. La policyen vere tom, viss sida ved første oppstart skal deaktiverast.
 policy-OverridePostUpdatePage = Byt ut «Kva er nytt»-sida som vert vist etter ei oppdatering. La policyen stå tom viss sida etter ei oppdatering skal deaktiverast.
 policy-PasswordManagerEnabled = Tillat at brukaren kan lagre passord i passord-handteraren.
