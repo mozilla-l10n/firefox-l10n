@@ -12,7 +12,7 @@ about-logins-page-title = Inekcam & wawalen uffiren
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Awi awalen uffiren anda teddiḍ
+login-app-promo-title = Awi awalen-ik/um uffiren anda teddiḍ
 login-app-promo-subtitle = Zdem asnas n baṭel { -lockwise-brand-name }
 login-app-promo-android =
     .alt = Yella di Google Play
