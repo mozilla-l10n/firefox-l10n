@@ -236,3 +236,4 @@ cfr-whatsnew-protections-icon-alt = Icone escudo
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Melior experientia PDF
+cfr-whatsnew-better-pdf-body = Le documentos PDF ora aperi directemente in { -brand-short-name }, sin molestar tu fluxo de labor.
