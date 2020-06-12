@@ -53,6 +53,7 @@
 <!ENTITY rights.addons-a "Utvidingstenester: ">
 <!ENTITY rights.addons-term1 "Opne programinnstillingane">
 <!ENTITY rights.addons-term2 "Vel &smart.label;-panelet i &advance.label;-kategorien">
+<!ENTITY rights.addons-term4 "Tillegstenestene er slått av no">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Trygg nettlesing: ">

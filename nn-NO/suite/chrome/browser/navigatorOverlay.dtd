@@ -16,6 +16,12 @@
 <!ENTITY closeOtherTabs.label "Lat att andre faner">
 <!ENTITY closeOtherTabs.accesskey "a">
 
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Lat att faner til høgre">
+<!ENTITY  closeTabsToTheEnd.accesskey "h">
+
 <!ENTITY uploadFile.label "Last opp fil…">
 <!ENTITY uploadFile.accesskey "F">
 
@@ -56,10 +62,16 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Gå">
 <!ENTITY goMenu.accesskey "G">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Heim">
 <!ENTITY goHomeCmd.accesskey "H">
 <!ENTITY historyCmd.label "Historikk">
 <!ENTITY historyCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Nyleg attlatne faner">
 <!ENTITY recentTabs.accesskey "N">
@@ -120,6 +132,7 @@
 <!ENTITY cookieImagesDefaultMsg.label "Bilde frå denne nettstaden vil bli lasta ned basert på standardinnstillingar.">
 <!ENTITY cookieBlockImagesCmd.label "Blokker bilde frå denne nettstaden">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesMsg.label "Bilde frå denne nettstaden vil aldri lastast ned.">
 
 <!ENTITY popupAllowCmd.label "Tillat sprettoppvindauge frå denne nettsida">
 <!ENTITY popupAllowCmd.accesskey "T">
@@ -139,3 +152,4 @@
 
 <!ENTITY clearPrivateDataCmd.label "Slett private data…">
 <!ENTITY clearPrivateDataCmd.accesskey "S">
+
