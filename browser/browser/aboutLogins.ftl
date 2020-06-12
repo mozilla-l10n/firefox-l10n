@@ -44,6 +44,8 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } για iPhone και i
 
 ## Login List
 
+login-list =
+    .aria-label = Αντιστοιχίες συνδέσεων στην αναζήτηση
 login-list-count =
     { $count ->
         [one] { $count } σύνδεση
