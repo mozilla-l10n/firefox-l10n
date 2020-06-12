@@ -235,6 +235,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikōna ôbrazu w ôbrazie
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Wejzdrzynie na ôchrōna
+cfr-whatsnew-protections-body = Na panelu ôchrōny sōm pozbiyrane raporty ô wyciekach danych i regiyrowaniu hasłami. Idzie teroz zaglōndać, wiela wyciekōw danych je rozwiōnzanych, abo jeźli je ryzyko, iże jakie spamiyntane hasła mogły wyciyknōnć.
+cfr-whatsnew-protections-cta-link = Pokoż panel ôchrōny
 cfr-whatsnew-protections-icon-alt = Ikōna ôsłōny
 
 ## Better PDF message
