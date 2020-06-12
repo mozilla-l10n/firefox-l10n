@@ -7,3 +7,41 @@
 msgevent-encryption_required_part1 = Podjęto próbę wysłania niezaszyfrowanej wiadomości do użytkownika { $name }. Zgodnie z zasadami niezaszyfrowane wiadomości nie są dozwolone.
 msgevent-encryption_required_part2 = Próba rozpoczęcia prywatnej rozmowy. Twoja wiadomość zostanie ponownie wysłana po rozpoczęciu prywatnej rozmowy.
 msgevent-encryption_error = Wystąpił błąd podczas szyfrowania wiadomości. Wiadomość nie została wysłana.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-connection_ended = Użytkownik { $name } zamknął już zaszyfrowane połączenie z Tobą. Aby uniknąć przypadkowego wysłania wiadomości bez szyfrowania, Twoja wiadomość nie została wysłana. Zakończ zaszyfrowaną rozmowę lub rozpocznij ją ponownie.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-setup_error = Wystąpił błąd podczas konfigurowania prywatnej rozmowy z użytkownikiem { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Odbierasz własne wiadomości OTR. Albo próbujesz mówić do siebie, albo ktoś odbija Twoje wiadomości z powrotem do Ciebie.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg_resent = Ostatnia wiadomość do użytkownika { $name } została wysłana ponownie.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = Zaszyfrowana wiadomość odebrana od użytkownika { $name } jest nieczytelna, ponieważ obecna komunikacja nie jest prywatna.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = Odebrano nieczytelną zaszyfrowaną wiadomość od użytkownika { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Odebrano wiadomość ze zniekształconymi danymi od użytkownika { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Odebrano sygnał od użytkownika { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Wysłano sygnał do użytkownika { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Wystąpił nieoczekiwany błąd podczas próby ochrony rozmowy za pomocą OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = Ta wiadomość odebrana od użytkownika { $name } nie była zaszyfrowana: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Odebrano nierozpoznaną wiadomość OTR od użytkownika { $name }.
