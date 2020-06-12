@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Kërko
     .aria-label = Kërko
-
 newtab-search-box-search-the-web-text = Kërkoni në Web
 newtab-search-box-search-the-web-input =
     .placeholder = Kërkoni në Web
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Përpunoni Sajtin Kryesues
 newtab-topsites-title-label = Titull
 newtab-topsites-title-input =
     .placeholder = Jepni një titull
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Shtypni ose hidhni një URL
 newtab-topsites-url-validation = Lypset URL e vlefshme
-
 newtab-topsites-image-url-label = URL Figure Vetjake
 newtab-topsites-use-image-link = Përdorni një figurë vetjake…
 newtab-topsites-image-validation = Dështoi ngarkimi i figurës. Provoni një URL tjetër.
@@ -60,12 +57,10 @@ newtab-confirm-delete-history-p2 = Ky veprim s’mund të zhbëhet.
 newtab-menu-section-tooltip =
     .title = Hapni menunë
     .aria-label = Hapni menunë
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Hiqe
     .aria-label = Hiqe
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -133,7 +128,6 @@ newtab-label-removed-bookmark = Faqerojtësi u hoq
 newtab-label-recommended = Në modë
 newtab-label-saved = Ruajtur te { -pocket-brand-name }
 newtab-label-download = Të shkarkuara
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -149,8 +143,8 @@ newtab-section-menu-manage-section = Administroni Ndarjen
 newtab-section-menu-manage-webext = Administroni Zgjerimin
 newtab-section-menu-add-topsite = Shtoni Sajt Kryesues
 newtab-section-menu-add-search-engine = Shtoni Motor Kërkimesh
-newtab-section-menu-move-up = Shpjere Sipër
-newtab-section-menu-move-down = Zbrite
+newtab-section-menu-move-up = Ngrije
+newtab-section-menu-move-down = Ule
 newtab-section-menu-privacy-notice = Shënim Mbi Privatësinë
 
 ## Section aria-labels
@@ -171,12 +165,10 @@ newtab-section-header-pocket = Rekomanduar nga { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Filloni shfletimin, dhe do t'ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqerojtur këtu kohët e fundit.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Gjithë ç’kish, e dini. Rikontrolloni më vonë për më tepër histori nga { $provider }. S’pritni dot? Përzgjidhni një temë popullore që të gjenden në internet më tepër histori të goditura.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
