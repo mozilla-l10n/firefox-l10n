@@ -246,6 +246,11 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បើកដំណើរការ​​កម្មវិធី​បន្ថែម
     .accesskey = R
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = រាយការណ៍​អំពី​វេបសាយ​បញ្ឆោត…
+    .accesskey = D
 menu-help-not-deceptive =
     .label = នេះ​មិនមែន​ជា​វេបសាយ​បញ្ឆោត​ទេ…
     .accesskey = d
