@@ -24,7 +24,7 @@ create-login-button = نیا لاگ ان بنائیں
 fxaccounts-sign-in-text = اپنے پاسورڈ  دوسرے آلات پر حاصل کریں
 fxaccounts-sign-in-button = { -sync-brand-short-name } میں  سائن ان کریں
 fxaccounts-avatar-button =
-    .title = اکاؤنٹ کا منظم کریں
+    .title = اکاؤنٹ کو  منظم کریں
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -64,7 +64,7 @@ login-list-item-title-new-login = نیا لاگ ان
 login-list-item-subtitle-new-login = لاگ ان کی سندیں درج کریں۔
 login-list-item-subtitle-missing-username = (صارف نام کا نہیں)
 about-logins-list-item-breach-icon =
-    .title = خلاف ورزی کرنے والی ویب سائٹیں
+    .title = بریچڈ ویب سائٹیں
 about-logins-list-item-vulnerable-password-icon =
     .title = کمزور پاسورڈ
 

@@ -64,7 +64,7 @@ deniedPortAccess-title = یہ پتہ رسٹرکٹڈ ہے
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = ہمم۔ ہمیں وہ سائٹ ڈھونڈنے میں دشواری ہو رہی ہے۔
-fileNotFound-title = فائل نہیں ملی
+fileNotFound-title = فائل نہیں ملا
 fileAccessDenied-title = فائل تک رسائی مسترد کردی گئی ہے
 generic-title = اف
 captivePortal-title = نیٹ ورک میں لاگ ان کریں
@@ -92,7 +92,7 @@ sslv3Used-title = حفاظتی طور پر جڑنے میں ناکام
 inadequateSecurityError-title = آپکا کنکشن ناقابل بھروسا ہے
 blockedByPolicy-title = بلاک شدہ صفحہ
 clockSkewError-title = آپ کے کمپیوٹر کی گھڑی غلط ہے
-networkProtocolError-title = نیٹ ورک پروٹوکول کی خرابی
-nssBadCert-title = انتباہ: اآگے ممکنہ سیکیورٹی کا خطرہ او سکتا ہے
+networkProtocolError-title = نیٹ ورک پروٹوکول ایرر
+nssBadCert-title = انتباہ: اآگے ممکنہ سیکیورٹی کا خطرہ ہو سکتا ہے
 nssBadCert-sts-title = رابطہ قائم نہیں ھوا: امکانی حفاظتی مسئلہ
 certerror-mitm-title = سافٹ ویئر { -brand-short-name } کو سائٹ  سے منسلک ہونے سے محفوظ طریقے سے روک رہا ہے

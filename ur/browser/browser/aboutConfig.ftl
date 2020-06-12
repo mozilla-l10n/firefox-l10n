@@ -7,9 +7,7 @@ about-config-warning-title = ختروں سے بچیں!
 about-config-warning-text = ان اعلی درجے کی سیٹنگز کو تبدیل کرنے سے اس ایپلیکیشن کی استحکام، سیکورٹی اور کارکردگی کو نقصان پہنچا سکتا ہے. اگر آپ اس بات کا یقین کر رہے ہیں تو آپ کو صرف جاری رکھنا چاہئے.
 about-config-warning-checkbox = مجھے دوبارہ پریشان کرو، براہ کرم!
 about-config-warning-button = مینے خطرہ قبول کیا
-
 about-config2-title = اعلی درجے کی تشکیلات
-
 about-config-search-input =
     .placeholder = تلاش کریں
 
@@ -24,20 +22,16 @@ about-config-intro-warning-button = خطرے کو قبول کریں اور جا�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = ان ترجیحات کو تبدیل کرنے سے { -brand-short-name } کی کارکردگی یا سلامتی متاثر ہوسکتی ہے۔
-
 about-config-page-title = اعلی درجے کی ترجیحات
-
 about-config-search-input1 =
     .placeholder = ترجیحات  کا نام تلاش کریں
 about-config-show-all = تمام دکھائیں
-
 about-config-pref-add = شامل کریں
 about-config-pref-toggle = ٹوگل کریں
 about-config-pref-edit = تدوین کریں
 about-config-pref-save = محفوظ کریں
 about-config-pref-reset = پھر سیٹ کریں
 about-config-pref-delete = حذف کریں
-
 about-config-pref-add-button =
     .title = شامل کریں
 about-config-pref-toggle-button =
@@ -47,15 +41,15 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = محفوظ کریں
 about-config-pref-reset-button =
-    .title = پھر سیٹ کریں
+    .title = ری سیٹ کریں
 about-config-pref-delete-button =
     .title = حذف کریں
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
-about-config-pref-add-type-boolean = بولیائی
+about-config-pref-add-type-boolean = بولین
 about-config-pref-add-type-number = نمبر
-about-config-pref-add-type-string = اسٹرنگ
+about-config-pref-add-type-string = سٹرنگ
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
