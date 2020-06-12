@@ -20,12 +20,28 @@ graph-total-tracker-summary =
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = Το { -brand-short-name } συνεχίζει να αποκλείει τους ιχνηλάτες στα ιδιωτικά παράθυρα, αλλά δεν διατηρείται αρχείο καταγραφής των αποκλεισμένων στοιχείων.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Αποκλεισμένοι ιχνηλάτες του { -brand-short-name } αυτή την εβδομάδα
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Το επίπεδο προστασίας έχει οριστεί σε <b>Τυπικό</b>
+    .title = Μετάβαση στις ρυθμίσεις απορρήτου
+protection-report-header-details-strict = Το επίπεδο προστασίας έχει οριστεί σε <b>Αυστηρό</b>
+    .title = Μετάβαση στις ρυθμίσεις απορρήτου
+protection-report-header-details-custom = Το επίπεδο προστασίας έχει οριστεί σε <b>Προσαρμοσμένο</b>
+    .title = Μετάβαση στις ρυθμίσεις απορρήτου
 protection-report-page-title = Προστασία απορρήτου
 protection-report-content-title = Προστασία απορρήτου
 etp-card-title = Ενισχυμένη προστασία από καταγραφή
 etp-card-content = Οι ιχνηλάτες σάς ακολουθούν στο διαδίκτυο για να συλλέξουν πληροφορίες σχετικά με τις συνήθειες και τα ενδιαφέροντά σας. Το { -brand-short-name } αποκλείει πολλούς από αυτούς τους ιχνηλάτες και άλλα κακόβουλα σενάρια.
 protection-report-webpage-title = Πίνακας προστασίας
 protection-report-page-content-title = Πίνακας προστασίας
+protection-report-settings-link = Διαχειριστείτε τις ρυθμίσεις απορρήτου και ασφάλειας σας
+etp-card-title-always = Ενισχυμένη προστασία από καταγραφή: Πάντα ενεργή
+etp-card-title-custom-not-blocking = Ενισχυμένη προστασία από καταγραφή: Ανενεργή
+etp-card-content-description = Το { -brand-short-name } σταματά αυτόματα τις εταιρείες που σας παρακολουθούν κρυφά στο διαδίκτυο.
+protection-report-etp-card-content-custom-not-blocking = Όλες οι μέθοδοι προστασίας είναι ανενεργές. Επιλέξτε ποιοι ιχνηλάτες θα αποκλείονται από τις ρυθμίσεις προστασίας του { -brand-short-name }.
 protection-report-manage-protections = Διαχείριση ρυθμίσεων
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -56,13 +72,46 @@ lockwise-connected-device-status =
 monitor-title = Προσέξτε για διαρροές δεδομένων
 monitor-link = Πώς λειτουργεί
 monitor-sign-up = Εγγραφή για ειδοποιήσεις παραβιάσεων
+monitor-sign-up-link = Εγγραφή για ειδοποιήσεις παραβιάσεων
+    .title = Εγγραφή για ειδοποιήσεις παραβιάσεων στο { -monitor-brand-name }
 auto-scan = Έγινε αυτόματη σάρωση σήμερα
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Διεύθυνση email υπό εποπτεία
+       *[other] Διευθύνσεις email υπό εποπτεία
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Εκτεθειμένος κωδικός πρόσβασης σε μη επιλυμένες παραβιάσεις
+       *[other] Εκτεθειμένοι κωδικοί πρόσβασης σε μη επιλυμένες παραβιάσεις
+    }
 monitor-no-breaches-title = Καλά νέα!
+monitor-no-breaches-description = Δεν έχετε γνωστές παραβιάσεις. Αν αλλάξει αυτό, θα σας ενημερώσουμε.
 monitor-view-report-link = Προβολή αναφοράς
     .title = Επίλυση παραβιάσεων στο { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Επίλυση παραβιάσεων
+monitor-breaches-unresolved-description = Αφού ελέγξετε τις λεπτομέρειες παραβίασης και λάβετε μέτρα για την προστασία των πληροφοριών σας, μπορείτε να επισημάνετε τις παραβιάσεις ως επιλυμένες.
 monitor-manage-breaches-link = Διαχείριση παραβιάσεων
     .title = Διαχείριση παραβιάσεων στο { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Ωραία! Επιλύσατε όλες τις γνωστές παραβιάσεις.
+monitor-breaches-resolved-description = Αν το email σας εμφανιστεί σε νέες παραβιάσεις, θα σας ενημερώσουμε.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } από { $numBreaches } παραβίαση επισημάνθηκε ως επιλυμένη
+       *[other] { $numBreachesResolved }από { $numBreaches } παραβιάσεις επισημάνθηκαν ως επιλυμένες
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% ολοκλήρωση
 monitor-partial-breaches-motivation-title-start = Τέλεια αρχή!
 monitor-partial-breaches-motivation-title-middle = Συνεχίστε!
 monitor-partial-breaches-motivation-title-end = Σχεδόν τελειώσατε! Συνεχίστε.
