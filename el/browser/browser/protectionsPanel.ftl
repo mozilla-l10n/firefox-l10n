@@ -33,6 +33,7 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Γιατί;
+protections-panel-not-blocking-why-etp-on-tooltip = Ο αποκλεισμός αυτών θα μπορούσε να καταστρέψει τα στοιχεία μερικών ιστοσελίδων. Χωρίς τους ιχνηλάτες, μερικά κουμπιά, φόρμες και πεδία σύνδεσης ενδέχεται να μην λειτουργούν.
 protections-panel-not-blocking-why-etp-off-tooltip = Όλοι οι ιχνηλάτες σε αυτή την ιστοσελίδα έχουν φορτωθεί επειδή η προστασία είναι ανενεργή.
 
 ##
@@ -76,11 +77,14 @@ protections-panel-site-not-working-view-send-report = Αποστολή αναφ�
 ##
 
 protections-panel-cross-site-tracking-cookies = Αυτά τα cookies σας ακολουθούν από ιστοσελίδα σε ιστοσελίδα για να συλλέξουν δεδομένα σχετικά με το τι κάνετε στο διαδίκτυο. Δημιουργούνται από τρίτους, όπως διαφημιστές και εταιρείες ανάλυσης.
+protections-panel-cryptominers = Τα cryptominers χρησιμοποιούν την υπολογιστική ισχύ του συστήματός σας για να εξορύξουν κρυπτονομίσματα. Τα σενάρια εξόρυξης κρυπτονομισμάτων εξαντλούν την μπαταρία σας, επιβραδύνουν τον υπολογιστή σας, ενώ ενδέχεται να δείτε αυξημένες χρεώσεις στο λογαριασμό τους ρεύματος.
+protections-panel-fingerprinters = Τα fingerprinters συλλέγουν ρυθμίσεις από το πρόγραμμα περιήγησης και τον υπολογιστή σας για να δημιουργήσει ένα προφίλ για εσάς. Με τη χρήση αυτού του ψηφιακού αποτυπώματος, μπορούν να σας παρακολουθούν σε διάφορες ιστοσελίδες.
 protections-panel-content-blocking-manage-settings =
     .label = Διαχείριση ρυθμίσεων προστασίας
     .accesskey = Δ
 protections-panel-content-blocking-breakage-report-view =
     .title = Αναφορά κατεστραμμένης ιστοσελίδας
+protections-panel-content-blocking-breakage-report-view-description = Ο αποκλεισμός ορισμένων ιχνηλατών μπορεί να προκαλέσει προβλήματα με ορισμένες ιστοσελίδες. Όταν αναφέρετε τέτοια προβλήματα, συμβάλλετε στη βελτίωση του { -brand-short-name } για όλους. Με την αποστολή της αναφοράς, θα αποσταλεί ένα URL, καθώς και πληροφορίες για τις ρυθμίσεις του προγράμματος περιήγησής σας στη Mozilla. <label data-l10n-name="learn-more">Μάθετε περισσότερα</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
