@@ -71,10 +71,17 @@ lockwise-connected-device-status =
     }
 monitor-title = Προσέξτε για διαρροές δεδομένων
 monitor-link = Πώς λειτουργεί
+monitor-header-content-signed-in = Το { -monitor-brand-name } σας προειδοποιεί αν οι πληροφορίες σας έχουν εμφανιστεί σε παραβίαση δεδομένων.
 monitor-sign-up = Εγγραφή για ειδοποιήσεις παραβιάσεων
 monitor-sign-up-link = Εγγραφή για ειδοποιήσεις παραβιάσεων
     .title = Εγγραφή για ειδοποιήσεις παραβιάσεων στο { -monitor-brand-name }
 auto-scan = Έγινε αυτόματη σάρωση σήμερα
+monitor-emails-tooltip =
+    .title = Προβολή διευθύνσεων email υπό εποπτεία στο { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Προβολή γνωστών παραβιάσεων δεδομένων στο { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Προβολή εκτεθειμένων κωδικών πρόσβασης στο { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
