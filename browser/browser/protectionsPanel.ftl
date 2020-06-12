@@ -33,6 +33,7 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Γιατί;
+protections-panel-not-blocking-why-etp-off-tooltip = Όλοι οι ιχνηλάτες σε αυτή την ιστοσελίδα έχουν φορτωθεί επειδή η προστασία είναι ανενεργή.
 
 ##
 
