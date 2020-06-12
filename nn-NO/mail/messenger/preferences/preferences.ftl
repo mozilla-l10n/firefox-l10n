@@ -43,6 +43,7 @@ privacy-passwords-header = Passord
 privacy-junk-header = Uønskt
 privacy-data-collection-header = Datainnsamling og bruk
 collection-header = { -brand-short-name } datainnsamling og bruk
+collection-description = Vi strevar alltid etter å gje deg val og samlar berre inn det vi treng for å forbetre { -brand-short-name } for alle. Vi ber alltid om løyve før vi tar imot personlege opplysningar.
 collection-privacy-notice = Personvernerklæring
 collection-health-report-telemetry-disabled = Du tillèt ikkje lenger at{ -vendor-short-name } samlar inn tekniske data og brukardata. Alle tidlegare data vil bli sletta innan 30 dagar.
 collection-health-report-telemetry-disabled-link = Les meir
