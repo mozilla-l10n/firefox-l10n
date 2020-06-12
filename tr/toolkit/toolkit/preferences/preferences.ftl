@@ -4,21 +4,17 @@
 
 password-not-set =
     .value = (ayarlanmadı)
-
 failed-pw-change = Ana parola değiştirilemedi.
 incorrect-pw = Ana parolanızı doğru şekilde girmediniz. Lütfen tekrar deneyin.
 pw-change-ok = Ana parola başarılı bir şekilde değiştirildi.
-
 pw-empty-warning = Kayıtlı web ve e-posta parolalarınız, form verileriniz ve kişisel anahtarlarınız korunmayacaktır.
 pw-erased-ok = Ana parolanızı sildiniz. { pw-empty-warning }
 pw-not-wanted = Uyarı! Ana parola kullanmamaya karar verdiniz. { pw-empty-warning }
-
 pw-change2empty-in-fips-mode = Şu anda FIPS kipindesiniz. FIPS için boş olmayan bir ana parola gerekli.
 pw-change-success-title = Parola değiştirme başarılı
 pw-change-failed-title = Parola değiştirme başarısız
 pw-remove-button =
     .label = Kaldır
-
 set-password =
     .title = Ana parolayı değiştir
 set-password-old-password = Şu anki parola:
@@ -26,9 +22,9 @@ set-password-new-password = Yeni parola:
 set-password-reenter-password = Yeni parola (tekrar):
 set-password-meter = Parola kalite ölçümü
 set-password-meter-loading = Yükleniyor
+master-password-admin = Yöneticiniz, parolaları kaydetmek için bir ana parola belirlemenizi şart koşuyor.
 master-password-description = Ana parola ile diğer parolalarınızı koruyabilirsiniz. Ana parola oluşturmanız durumunda { -brand-short-name } her oturumda kayıtlı bilgilere ulaşmak istediğinde size ana parolayı soracaktır.
 master-password-warning = Lütfen ana parolanızı unutmayacağınızdan emin olun. Ana parolanızı unutursanız, ana parolayla korunan hiçbir bilgiye erişemezsiniz.
-
 remove-password =
     .title = Ana parolayı kaldır
 remove-info =

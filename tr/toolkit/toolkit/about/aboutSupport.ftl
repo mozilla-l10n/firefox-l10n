@@ -119,6 +119,7 @@ restart-in-safe-mode-label = Eklentileri devre dışı bırakıp yeniden başlat
 clear-startup-cache-title = Başlangıç önbelleğini temizlemeyi deneyin
 clear-startup-cache-label = Başlangıç önbelleğini temizle…
 startup-cache-dialog-title = Başlangıç önbelleğini temizle
+restart-button-label = Yeniden başlat
 
 ## Media titles
 
