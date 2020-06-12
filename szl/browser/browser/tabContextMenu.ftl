@@ -56,6 +56,18 @@ move-to-new-window =
 undo-close-tab =
     .label = Wrōć zawarto karta
     .accesskey = W
+tab-context-close-multiple-tabs =
+    .label = Ôbier mocka kart
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Wrōć zawarte karty
+            [one] Wrōć zawarto karta
+            [few] Wrōć zawarte karty
+           *[many] Wrōć zawarte karty
+        }
+    .accesskey = W
 close-tab =
     .label = Zawrzij karta
     .accesskey = Z

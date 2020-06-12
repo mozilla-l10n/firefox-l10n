@@ -20,21 +20,27 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Wrōć zawarto karta
     .accesskey = W
-
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Wrōć zawarte karty
+            [one] Wrōć zawarto karta
+            [few] Wrōć zawarte karty
+           *[many] Wrōć zawarte karty
+        }
+    .accesskey = W
 toolbar-context-menu-manage-extension =
     .label = Regiyruj rozszyrzyniym
     .accesskey = G
 toolbar-context-menu-remove-extension =
     .label = Wyciep rozszyrzynie
     .accesskey = I
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Dej znać ô rozszyrzyniu
     .accesskey = d
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
