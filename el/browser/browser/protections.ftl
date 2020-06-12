@@ -156,6 +156,23 @@ info-known-breaches-resolved =
        *[other] Γνωστές παραβιάσεις δεδομένων επισημάνθηκαν ως επιλυμένες
     }
 # This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Ο κωδικός πρόσβασης εκτέθηκε σε όλες τις παραβιάσεις
+       *[other] Οι κωδικοί πρόσβασης εκτέθηκαν σε όλες τις παραβιάσεις
+    }
+full-report-link = Προβολή πλήρους αναφοράς στο <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Η αποθηκευμένη σύνδεση ενδέχεται να έχει εκτεθεί σε παραβίαση δεδομένων. Αλλάξτε αυτό τον κωδικό πρόσβασης για περισσότερη ασφάλεια στο διαδίκτυο. <a data-l10n-name="lockwise-link">Προβολή αποθηκευμένων συνδέσεων</a>
+       *[other] Οι αποθηκευμένες συνδέσεις ενδέχεται να έχουν εκτεθεί σε παραβίαση δεδομένων. Αλλάξτε αυτούς τους κωδικούς πρόσβασης για περισσότερη ασφάλεια στο διαδίκτυο. <a data-l10n-name="lockwise-link">Προβολή αποθηκευμένων συνδέσεων</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
 info-exposed-passwords-resolved =
