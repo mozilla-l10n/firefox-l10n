@@ -364,6 +364,14 @@ update-pref-write-failure-title = Գրեք ձախողում
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Անհնար է պահպանել նախապատուութիւնները: Հնարավոր չէ գրել ֆայլում. { $path }
 update-setting-write-failure-title = Սխալ է պահպանում թարմացման նախընտրութիւնները
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name }-ում խնդիրներ առաջացան, եւ այս փոփոխութիւնը չպահպանուեց: Յիշէք, որ թարմացման այս նախընտրութեան հաստատման համար հարկաւոր է թոյլատրել գրառել ստորեւ նիշքում: Դուք կամ համակարգավարը կարող էք շտկել սխալը, եթե Ագտատերերի խմբին լիարժէք վերահսկողութիւն տաք այս նիշքին:
+    
+    Չհաջողուեց գրել նիշքի վրայ. { $path }
 update-in-progress-title = Արդիացուում է
 update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
 update-in-progress-ok-button = &Հրաժարուել
