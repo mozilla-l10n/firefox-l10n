@@ -72,6 +72,7 @@ policy-LegacyProfiles = Անջատեք առանձնահատկութիւնը, ո�
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Միացնել SameSite նշոցիկի վարքի սկզբնադիր կարգաբերումը
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Վերադառնալ նշոցիկների SameSite աւանդական կարգավիճակին նշուած կայքերի համար:
 
 ##
 
