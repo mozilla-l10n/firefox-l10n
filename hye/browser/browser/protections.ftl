@@ -42,6 +42,8 @@ protections-close-button2 =
     .aria-label = Փակել
     .title = Փակել
 mobile-app-title = Արգելափակել գովազդային հետախուզիչներին այլ սարքերում
+mobile-app-card-content = Աւգտագործել գովազդային հետախուզիչների դէմ ներկառուցուած պաշտպանութեամբ բջջային դիտարկիչը։
+mobile-app-links = { -brand-product-name } Դիտարկիչ <a data-l10n-name="android-mobile-inline-link">Android</a>֊ի եւ <a data-l10n-name="ios-mobile-inline-link">iOS</a>- համար
 lockwise-title = Այլեւս երբէք չմոռանալ գաղտնաբառը
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Գաղտնաբառերի կառավարում
@@ -63,6 +65,13 @@ lockwise-passwords-stored =
     { $count ->
         [one] Անւտանգ պահուած գաղտնաբառ <a data-l10n-name="lockwise-how-it-works"> Ինչպէս է այն աշխատում </a>
        *[other] Անւտանգ պահուած գաղտնաբառերը <a data-l10n-name="lockwise-how-it-works"> Ինչպէս է այն աշխատում </a>
+    }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 գաղտնաբառը կարող էմ տուժել տուեալների արտահոսքից:
+       *[other] { $count } հնարաւոր է, որոշ գաղտնաբառեր ենթարկուել են տուեալների արտահոսքի:
     }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
@@ -90,6 +99,8 @@ monitor-header-content-no-account = Ստուգեք { -monitor-brand-name }՝իմ
 monitor-header-content-signed-in = { -monitor-brand-name }-ը զգուշացնում է Ձեզ, եթե Ձեր տեղեկութիւնները բախուել են հայտնի խախտման հետ։
 monitor-sign-up = Գրանցուեք խախտումների մասին ահազանգների համար
 auto-scan = Այսաւր ինքնուրույն պատկերահանուել է։
+monitor-emails-tooltip =
+    .title = Դիտել դիտարկուած ել.փոստի հասցէները { -monitor-brand-short-name }-ով
 monitor-breaches-tooltip =
     .title = Դիտէք տուեալների արտահոսքի տեղեկատուութիւնը { -monitor-brand-short-name }- ով
 monitor-passwords-tooltip =
