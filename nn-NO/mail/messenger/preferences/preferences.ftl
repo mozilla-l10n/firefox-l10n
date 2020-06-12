@@ -44,6 +44,7 @@ privacy-junk-header = Uønskt
 privacy-data-collection-header = Datainnsamling og bruk
 collection-header = { -brand-short-name } datainnsamling og bruk
 collection-privacy-notice = Personvernerklæring
+collection-health-report-telemetry-disabled = Du tillèt ikkje lenger at{ -vendor-short-name } samlar inn tekniske data og brukardata. Alle tidlegare data vil bli sletta innan 30 dagar.
 collection-health-report-telemetry-disabled-link = Les meir
 collection-health-report =
     .label = Tillat { -brand-short-name } å sende tekniske data og data for bruk til { -vendor-short-name }
