@@ -15,6 +15,8 @@ protection-report-page-title = Գաղտնիութեան պաշտպանութիւ
 protection-report-content-title = Գաղտնիութեան պաշտպանութիւն
 etp-card-title = Ընդլայնուած Հետագծման Պաշտպանութիւն
 etp-card-content = Հետագծողները Ձեզ հետեւում են առցանց՝ ձեր զննման սովորույթների եւ հետաքրքրութիւնների վերաբերեալ տեղեկատուութիւն հաւաքելու համար: { -brand-short-name } ֊ը արգելափակում է  նման հետագծումներ եւ այլ չարամիտ գրութիւններ:
+etp-card-title-always = Ընդլայնուած Յետագծման Պաշտպանութիւն. Միշտ միացած
+etp-card-title-custom-not-blocking = Ընդլայնուած Յետագծման Պաշտպանութիւն։ Անջատուած
 protection-report-etp-card-content-custom-not-blocking = Ներկայումս բոլոր պաշտպանութիւններն անջատուած են։Ընտրեք, թե որ հետագծողներինէ արգելափակել՝ Ձեր { -brand-short-name } ֊ի գաղտնիութեան կարգաւորումներից։
 protection-report-manage-protections = Փոխել կարգաւորումները
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
