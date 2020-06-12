@@ -277,6 +277,8 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name }, paylaşım
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = { -brand-short-name } tarayıcınızı paylaşıyorsunuz. Yeni bir sekmeye geçerseniz diğer kullanıcılar bunu görebilir.
+sharing-warning-screen = Tüm ekranınızı paylaşıyorsunuz. Yeni bir sekmeye geçerseniz diğer kullanıcılar bunu görebilir.
 sharing-warning-proceed-to-tab =
     .label = Sekmeye devam et
 sharing-warning-disable-for-session =
