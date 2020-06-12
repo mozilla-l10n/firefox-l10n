@@ -167,7 +167,7 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
-<!ENTITY options.screenshot.audio.label      "Prodho tingull shkrepje të kamerës">
+<!ENTITY options.screenshot.audio.label      "Prodho tingull shkrepjeje të kamerës">
 <!ENTITY options.screenshot.audio.tooltip    "Aktivizon tingullin e kamerës kur bëhen foto ekrani">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
