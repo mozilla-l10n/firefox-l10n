@@ -27,7 +27,9 @@ policy-DisableAppUpdate = Hindre at { -brand-short-name } oppdateres.
 policy-DisableDeveloperTools = Blokker tilgang til utviklerverktøyene.
 policy-DisableFeedbackCommands = Deaktiver kommandoer for å sende tilbakemelding fra Hjelp-menyen (Gi tilbakemelding og Rapporter villedende nettsted).
 policy-DisableForgetButton = Forhindre tilgang til knappen Glem.
+policy-DisableFormHistory = Ikke lagre søke- og skjemahistorikk.
 policy-DisableMasterPasswordCreation = Om aktiv, kan ikke et hovedpassord lages.
+policy-DisablePasswordReveal = Ikke la passord bli avslørt for lagrede innlogginger.
 policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data fra et annet program.
 policy-DisableSafeMode = Deaktiver funksjonen for å starte på nytt i sikker modus. NB: Deaktivering av tasten skift for å starte sikker modus kan kun gjennomføres i Windows via gruppepolicy.
 policy-DisableSecurityBypass = Forhindre brukerens mulighet til å omgå visse sikkerhetsadvarsler.
@@ -39,6 +41,8 @@ policy-DontCheckDefaultClient = Deaktiver sjekk om standard-klient ved oppstart.
 policy-DownloadDirectory = Angi og lås netlastingskatalogen.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innholdsblokkering med mulighet til å låse valget.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Slå på eller av Encrypted Media Extension. Brukeren kan eventuelt hindres i å endre innstillingen.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -47,6 +51,7 @@ policy-ExtensionSettings = Håndter alle aspekter av utvidelsesinstallasjon.
 policy-ExtensionUpdate = Slå på eller slå av automatisk utvidelsesoppdateringer.
 policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
+policy-LegacyProfiles = Slå av funksjonen som påtvinger en egen profil for hver installasjon.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
