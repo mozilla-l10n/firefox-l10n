@@ -41,6 +41,13 @@ msgevent-rcvdmsg_general_err = Det oppstod en uventet feil under forsøk på å 
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
 msgevent-rcvdmsg_unencrypted = Følgende melding mottatt fra { $name } ble ikke kryptert: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Du mottok en ugyldig OTR-melding fra { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } har sendt en melding som er ment for en annen økt. Hvis du er logget inn flere ganger, kan en annen økt ha mottatt meldingen.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Privat samtale med { $name } startet.

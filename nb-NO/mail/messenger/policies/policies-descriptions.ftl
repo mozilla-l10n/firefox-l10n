@@ -24,6 +24,7 @@ policy-Cookies = Tillat eller nekt nettsteder å lagre infokapsler.
 policy-DisabledCiphers = Deaktiver krypteringsmetoder.
 policy-DefaultDownloadDirectory = Velg standardmappe for nedlastinger.
 policy-DisableAppUpdate = Hindre at { -brand-short-name } oppdateres.
+policy-DisableDefaultClientAgent = Hindre standardklient-agenten fra å gjøre noen handlinger. Gjelder bare for Windows; andre plattformer har ikke agenten.
 policy-DisableDeveloperTools = Blokker tilgang til utviklerverktøyene.
 policy-DisableFeedbackCommands = Deaktiver kommandoer for å sende tilbakemelding fra Hjelp-menyen (Gi tilbakemelding og Rapporter villedende nettsted).
 policy-DisableForgetButton = Forhindre tilgang til knappen Glem.
@@ -55,16 +56,21 @@ policy-LegacyProfiles = Slå av funksjonen som påtvinger en egen profil for hve
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Slå på standard innstilling for foreldet SameSite-oppførsel for infokapsler.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbake til foreldet SameSite-oppførsel for infokapsler på spesifiserte nettsteder.
 
 ##
 
 policy-LocalFileLinks = Tillat at bestemte nettsteder kobler til lokale filer.
 policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-prefetch).
 policy-OfferToSaveLogins = Tving innstillingen til å tillate { -brand-short-name } å kunne huske lagret innlogginger og passord. Både true- og falseverdier er godkjent.
+policy-OfferToSaveLoginsDefault = Angi standardverdien for å tillate { -brand-short-name } å kunne huske lagret innlogginger og passord. Både true- og falseverdier er godkjent.
 policy-OverrideFirstRunPage = Erstatt siden som vises ved første oppstart. La policyen være tom, hvis siden ved første oppstart skal deaktiveres.
 policy-OverridePostUpdatePage = Bytt ut «Hva er nytt»-siden som blir vist etter en oppdatering. La policyen stå tom hvis sida etter oppdatering skal deaktiveres.
+policy-PasswordManagerEnabled = Slå på lagring av passord til passordbehandleren.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiver eller konfigurer PDF.js, det innebygde PDF-visningsprogrammet i { -brand-short-name }.
+policy-Permissions2 = Konfigurer tillatelser for kamera, mikrofon, plassering og auto-avspilling.
 policy-Preferences = Still inn og lås verdien for en undergruppe av innstillingene.
 policy-PromptForDownloadLocation = Spør hvor du skal lagre filer når du laster ned.
 policy-Proxy = Konfigurer proxy-innstillinger.
