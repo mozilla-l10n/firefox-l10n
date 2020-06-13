@@ -43,3 +43,5 @@
 <!ENTITY removeSearchEngine.label         "Αφαίρεση">
 <!ENTITY removeSearchEngine.accesskey     "ρ">
 
+<!ENTITY minimizeToTray.label             "Όταν το &brandShortName; ελαχιστοποιείται, να γίνεται μετακίνηση στη γραμμή εργασιών">
+<!ENTITY minimizeToTray.accesskey         "μ">
