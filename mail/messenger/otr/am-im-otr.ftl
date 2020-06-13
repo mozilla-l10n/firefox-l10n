@@ -17,3 +17,6 @@ otr-log =
     .label = Përfshi në regjistra bisedash mesazhe OTR të fshehtëzuar
 otr-requireEncryption =
     .label = Kërko doemos fshehtëzim skaj-më-skaj për biseda tek-për-tek
+otr-verifyNudge =
+    .label = Kujtomë përherë të verifikoj një kontakt të paverifikuar
+otr-notYetAvailable = ende jo gati
