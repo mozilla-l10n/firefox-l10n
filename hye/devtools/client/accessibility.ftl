@@ -49,3 +49,5 @@ accessibility-keyboard-issue-semantics = Կիզակէտային բաղադրիչ
 accessibility-keyboard-issue-tabindex = Խուսափէք զրոյից մեծ արժէք վերագրել<code>tabindex-ի</code>֊ին։ <a>Իմանալ աւելին</a>
 accessibility-keyboard-issue-action = Փոխգործուն բաղադրիչները պէտք է հնարաւոր լինի գործարկել՝ աւգտագործելով ստեղնաշարը։ <a>Իմանալ աւելին</a>
 accessibility-keyboard-issue-focusable = Փոխգործուն բաղադրիչները պէտք է լինեն կիզակէտային։ <a>Իմանալ աւելին</a>
+accessibility-keyboard-issue-focus-visible = Կիզակէտային բաղադրիչը կարող է չունենալ կենտրոնացման ոճ։ <a>Իմանալ աւելին</a>
+accessibility-keyboard-issue-mouse-only = Հպուող բաղադրիչները պէտք է լինեն կենտրոնացուած եւ պէտք է ունենան փոխգործուն իմաստաբանութիւն։<a>Իմանալ աւելին</a>
