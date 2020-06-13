@@ -26,9 +26,9 @@
 <!ENTITY newVirtualFolderCmd.accesskey "θ">
 <!ENTITY newOtherAccountsCmd.label "Άλλοι λογαριασμοί…">
 <!ENTITY newOtherAccountsCmd.accesskey "λ">
-<!ENTITY newCreateEmailAccountCmd.label "Απόκτηση νέου λογαριασμού e-mail…">
+<!ENTITY newCreateEmailAccountCmd.label "Απόκτηση νέου λογαριασμού email…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "γ">
-<!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός e-mail…">
+<!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός email…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "Υ">
 <!ENTITY newIMAccountCmd.label "Λογαριασμός συνομιλίας…">
 <!ENTITY newIMAccountCmd.accesskey "σ">
@@ -694,7 +694,7 @@
 <!ENTITY folderContextSettings2.accesskey "θ">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Το όνομα ή το e-mail περιέχει:">
+<!ENTITY SearchNameOrEmail.label "Το όνομα ή το email περιέχει:">
 <!ENTITY SearchNameOrEmail.accesskey "ν">
 
 <!-- Gloda Search Bar -->
@@ -916,7 +916,7 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "δ">
 <!ENTITY SendMessageTo.label "Σύνταξη μηνύματος προς">
 <!ENTITY SendMessageTo.accesskey "Σ">
-<!ENTITY CopyEmailAddress.label "Αντιγραφή διεύθυνσης e-mail">
+<!ENTITY CopyEmailAddress.label "Αντιγραφή διεύθυνσης email">
 <!ENTITY CopyEmailAddress.accesskey "γ">
 <!ENTITY CopyNameAndEmailAddress.label "Αντιγραφή ονόματος και διεύθυνσης email">
 <!ENTITY CopyNameAndEmailAddress.accesskey "ο">

@@ -194,7 +194,7 @@ config-editor-button =
 return-receipts-description = Καθορίστε τον τρόπο διαχείρισης των βεβαιώσεων ανάγνωσης από το { -brand-short-name }
 return-receipts-button =
     .label = Αποδεικτικά ανάγνωσης…
-    .accesskey = Β
+    .accesskey = τ
 update-app-legend = Ενημερώσεις { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
