@@ -15,3 +15,11 @@ buddycontextmenu-label = Legg til OTR-fingeravtrykk
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-start = Forsøker å starte en kryptert samtale med { $name }.
+state-not_private-label = Utrygg
+state-unverified-label = Ubekreftet
+state-private-label = Privat
+state-finished-label = Fullført
+error-title = Feil
+success-title = Ende-til-ende-kryptering
+successThem-title = Bekreft identiteten til kontakten din
+fail-title = Klarte ikke å bekrefte
