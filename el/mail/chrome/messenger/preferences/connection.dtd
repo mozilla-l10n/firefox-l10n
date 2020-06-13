@@ -3,25 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Ρυθμίσεις σύνδεσης">
-<!ENTITY  window.width                  "49em">
+<!ENTITY  window.width                  "51em">
 <!ENTITY  window.macWidth               "44em">
 
-<!ENTITY  proxyTitle.label              "Ρύθμιση διαμεσολαβητών για την πρόσβαση στο διαδίκτυο">
-<!ENTITY  noProxyTypeRadio.label        "Χωρίς διαμεσολαβητή">
+<!ENTITY  proxyTitle.label              "Ρύθμιση διακομιστών μεσολάβησης για πρόσβαση στο διαδίκτυο">
+<!ENTITY  noProxyTypeRadio.label        "Χωρίς διακομιστή μεσολάβησης">
 <!ENTITY  noProxyTypeRadio.accesskey    "ω">
-<!ENTITY  systemTypeRadio.label         "Χρήση ρυθμίσεων διαμεσολαβητή συστήματος">
+<!ENTITY  systemTypeRadio.label         "Χρήση ρυθμίσεων διακομιστή μεσολάβησης συστήματος">
 <!ENTITY  systemTypeRadio.accesskey     "σ">
-<!ENTITY  WPADTypeRadio.label           "Αυτόματος εντοπισμός ρυθμίσεων διαμεσολαβητή για αυτό το δίκτυο">
+<!ENTITY  WPADTypeRadio.label           "Αυτόματος εντοπισμός ρυθμίσεων διακομιστή μεσολάβησης για αυτό το δίκτυο">
 <!ENTITY  WPADTypeRadio.accesskey       "υ">
-<!ENTITY  manualTypeRadio.label         "Χειροκίνητη ρύθμιση διαμεσολαβητή:">
+<!ENTITY  manualTypeRadio.label         "Χειροκίνητη ρύθμιση διακομιστή μεσολάβησης:">
 <!ENTITY  manualTypeRadio.accesskey     "Χ">
-<!ENTITY  autoTypeRadio.label           "URL αυτόματης ρύθμισης διαμεσολαβητή:">
+<!ENTITY  autoTypeRadio.label           "URL αυτόματης ρύθμισης διακομιστή μεσολάβησης:">
 <!ENTITY  autoTypeRadio.accesskey       "υ">
 <!ENTITY  reload.label                  "Ανανέωση">
 <!ENTITY  reload.accesskey              "ν">
-<!ENTITY  http.label                    "Διαμεσολαβητής HTTP:">
+<!ENTITY  http.label                    "Διακομιστής μεσολάβησης HTTP:">
 <!ENTITY  http.accesskey                "h">
-<!ENTITY  ssl.label                     "Διαμεσολαβητής SSL:">
+<!ENTITY  ssl.label                     "Διακομιστής μεσολάβησης SSL:">
 <!ENTITY  ssl.accesskey                 "s">
 <!ENTITY  https.label                   "Διακομιστής μεσολάβησης HTTPS:">
 <!ENTITY  https.accesskey               "S">
@@ -37,21 +37,21 @@
 <!ENTITY  SSLport.accesskey             "ρ">
 <!ENTITY  SOCKSport.label               "Θύρα:">
 <!ENTITY  SOCKSport.accesskey           "α">
-<!ENTITY  noproxy.label                 "Χωρίς διαμεσολαβητή για:">
+<!ENTITY  noproxy.label                 "Χωρίς διακομιστή μεσολάβησης για:">
 <!ENTITY  noproxy.accesskey             "Χ">
-<!ENTITY  noproxyExplain.label          "Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Χρήση αυτού του διαμεσολαβητή για όλα τα πρωτόκολλα">
+<!ENTITY  noproxyExplain.label          "Παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Χρήση αυτού του διακομιστή μεσολάβησης για όλα τα πρωτόκολλα">
 <!ENTITY  shareproxy.accesskey          "δ">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label    "Συνδέσεις στο localhost, 127.0.0.1 και ::1 δεν περνούν ποτέ μέσω διαμεσολαβητή.">
-<!ENTITY  proxyHttpSharing.label        "Χρησιμοποιήστε επίσης αυτό το διακομιστή μεσολάβησης για το HTTPS">
-<!ENTITY  proxyHttpSharing.accesskey    "x">
+<!ENTITY  noproxyLocalhostDesc.label    "Συνδέσεις στο localhost, το 127.0.0.1 και το ::1 δεν προωθούνται ποτέ μέσω διακομιστή μεσολάβησης.">
+<!ENTITY  proxyHttpSharing.label        "Να χρησιμοποιείται επίσης και για HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "χ">
 <!ENTITY  autologinproxy.label          "Να μην ζητείται έλεγχος ταυτοποίησης αν είναι αποθηκευμένος ο κωδικός πρόσβασης">
 <!ENTITY  autologinproxy.accesskey      "α">
 <!ENTITY  autologinproxy.tooltip        "Αυτή η επιλογή κάνει κρυφά την ταυτοποίησή σας σε διαμεσολαβητές, όταν έχετε αποθηκευμένα τα διαπιστευτήριά τους. Θα ειδοποιηθείτε αν αποτύχει η ταυτοποίηση.">
-<!ENTITY  socksRemoteDNS.label          "Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5">
+<!ENTITY  socksRemoteDNS.label          "Διακομιστής μεσολάβησης DNS κατά τη χρήση SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Ενεργοποίηση DNS αντί HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "γ">

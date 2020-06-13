@@ -33,8 +33,8 @@
 
 <!ENTITY spellCheck.label                     "Ορθογραφικός έλεγχος πριν την αποστολή">
 <!ENTITY spellCheck.accesskey                 "θ">
-<!ENTITY spellCheckInline.label               "Ορθογραφικός ελέγχος κατά την πληκτρολόγηση">
-<!ENTITY spellCheckInline1.accesskey          "υ">
+<!ENTITY spellCheckInline.label               "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση">
+<!ENTITY spellCheckInline1.accesskey          "θ">
 <!ENTITY languagePopup.label                  "Γλώσσα:">
 <!ENTITY languagePopup.accessKey              "λ">
 <!ENTITY downloadDictionaries.label           "Λήψη περισσότερων λεξικών">
