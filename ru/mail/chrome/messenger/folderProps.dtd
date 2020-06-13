@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Привилегии…">
 <!ENTITY privileges.button.accesskey             "и">
 <!ENTITY permissionsDesc.label                   "У вас есть следующие права:">
+<!ENTITY folderOtherUsers.label                  "Другие с доступом к этой папке:">
 <!ENTITY folderType.label                        "Тип папки:">
 
 <!ENTITY folderQuotaTab.label                    "Квота">
