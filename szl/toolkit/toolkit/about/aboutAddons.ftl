@@ -340,6 +340,19 @@ header-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Rozszyrzynia i motywy sōm choby aplikacyje do przeglōndarki. Ś nimi poradzisz 
+    brōnić hasła, pobiyrać filmy, znojdować ôferty, szperować wrazidlate reklamy, 
+    zmiyniać wyglōnd przeglōndarki i moc wiyncyj. Te małe programy sōm 
+    czynsto rychtowane ôd inkszych firmōw. Sam mosz ôbiōr rozszyrzyń
+    <a data-l10n-name="learn-more-trigger">rykōmyndowanych</a> ôd aplikacyje { -brand-product-name }
+    za niyôbyczajne bezpieczyństwo, sprowność i funkcjōnalność.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Niykere z tych rykōmyndacyji sōm spersōnalizowane. Bazujōm na inkszych rozszyrzyniach, co mosz zainstalowane, preferyncyjach profilōw i statystykach używanio.
+discopane-notice-learn-more = Przewiydz sie wiyncyj
+privacy-policy = Polityka prywatności
 
 ## Add-on actions
 
