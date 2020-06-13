@@ -13,9 +13,14 @@ msgevent-connection_ended = { $name } har allerede lukket den krypterte forbinde
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Det oppstod en feil under forsøket på å starte en privat samtale med { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Du får dine egne OTR-meldinger. Du prøver enten å snakke med deg selv, eller så er det noen som sender meldingene dine tilbake til deg.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = Den siste meldingen til { $name } ble sendt på nytt.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = Den krypterte meldingen mottatt fra { $name } er uleselig, siden du for øyeblikket ikke kommuniserer privat.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Du mottok en uleselig kryptert melding fra { $name }.
