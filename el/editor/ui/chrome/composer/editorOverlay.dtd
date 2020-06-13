@@ -141,7 +141,7 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Απομάκρυνση αγκυρών με όνομα">
+<!ENTITY formatRemoveNamedAnchors.label "Αφαίρεση αγκυρών με όνομα">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ρ">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
@@ -355,7 +355,7 @@
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Επιλογή">
 <!ENTITY structSelect.accesskey     "λ">
-<!ENTITY structRemoveTag.label      "Απομάκρυνση ετικέτας">
+<!ENTITY structRemoveTag.label      "Αφαίρεση ετικέτας">
 <!ENTITY structRemoveTag.accesskey  "ρ">
 <!ENTITY structChangeTag.label      "Αλλαγή ετικέτας">
 <!ENTITY structChangeTag.accesskey  "κ">
@@ -365,7 +365,7 @@
 <!ENTITY insertTOC.accesskey      "ι">
 <!ENTITY updateTOC.label          "Ενημέρωση">
 <!ENTITY updateTOC.accesskey      "ν">
-<!ENTITY removeTOC.label          "Απομάκρυνση">
+<!ENTITY removeTOC.label          "Αφαίρεση">
 <!ENTITY removeTOC.accesskey      "ρ">
 <!ENTITY tocMenu.label            "Πίνακας περιεχομένων…">
 <!ENTITY tocMenu.accesskey        "Π">

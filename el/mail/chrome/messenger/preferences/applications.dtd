@@ -29,7 +29,7 @@
 <!ENTITY addCloudFileAccount1.accesskey   "Π">
 <!ENTITY addCloudFileAccount.description  "Προσθήκη νέας υπηρεσίας αποθηκευτικού χώρου Filelink">
 <!ENTITY removeCloudFileAccount.label     "Αφαίρεση">
-<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY removeCloudFileAccount.accesskey "φ">
 <!ENTITY findCloudFileProviders.label     "Εύρεση περισσότερων παρόχων…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Πρόταση για κοινή χρήση αρχείων, μεγαλύτερων από">

@@ -607,7 +607,7 @@
 <!ENTITY addressBookButton.tooltip "Μετάβαση στο ευρετήριο διευθύνσεων">
 <!ENTITY chatButton.tooltip "Εμφάνιση της καρτέλας Συνομιλίας">
 <!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
-<!ENTITY compactButton.tooltip "Απομάκρυνση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
+<!ENTITY compactButton.tooltip "Αφαίρεση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
 <!ENTITY appmenuButton1.tooltip "Προβολή του μενού του &brandShortName;">
 <!ENTITY addonsButton.tooltip "Διαχείριση των προσθέτων σας">
 

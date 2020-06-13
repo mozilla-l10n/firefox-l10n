@@ -7,9 +7,9 @@
 <!ENTITY cookiesonsystem.label             "Τα ακόλουθα cookies είναι αποθηκευμένα στον υπολογιστή σας:">
 <!ENTITY cookiename.label                  "Όνομα Cookie">
 <!ENTITY cookiedomain.label                "Σελίδα">
-<!ENTITY button.removecookie.label         "Απομάκρυνση Cookie">
+<!ENTITY button.removecookie.label         "Αφαίρεση cookie">
 <!ENTITY button.removecookie.accesskey     "ρ">
-<!ENTITY button.removeallcookies.label     "Απομάκρυνση όλων των Cookies">
+<!ENTITY button.removeallcookies.label     "Αφαίρεση όλων των cookies">
 <!ENTITY button.removeallcookies.accesskey "λ">
 
 <!ENTITY props.name.label                  "Όνομα:">

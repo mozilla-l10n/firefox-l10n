@@ -43,7 +43,7 @@
 <!ENTITY button.verifyFeed.accesskey "Ε">
 <!ENTITY button.updateFeed.label     "Ενημέρωση">
 <!ENTITY button.updateFeed.accesskey "Ε">
-<!ENTITY button.removeFeed.label     "Απομάκρυνση">
+<!ENTITY button.removeFeed.label     "Αφαίρεση">
 <!ENTITY button.removeFeed.accesskey "ρ">
 <!ENTITY button.importOPML.label     "Εισαγωγή">
 <!ENTITY button.importOPML.accesskey "ι">

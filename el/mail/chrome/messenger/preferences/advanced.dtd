@@ -111,9 +111,9 @@
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Όταν ένας διακομιστής ζητά ένα πιστοποιητικό:">
-<!ENTITY certs.auto                      "Να επιλέγεται ένα αυτόματα">
+<!ENTITY certs.auto                      "Αυτόματη επιλογή">
 <!ENTITY certs.auto.accesskey            "λ">
-<!ENTITY certs.ask                       "Να γίνεται ερώτηση κάθε φορά">
+<!ENTITY certs.ask                       "Ερώτηση κάθε φορά">
 <!ENTITY certs.ask.accesskey             "γ">
 <!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
 <!ENTITY enableOCSP.accesskey            "δ">
@@ -123,7 +123,7 @@
 <!ENTITY viewSecurityDevices.label "Συσκευές ασφαλείας">
 <!ENTITY viewSecurityDevices.accesskey "υ">
 
-<!ENTITY manageCertificates2.label "Διαχείριση Πιστοποιητικών…">
+<!ENTITY manageCertificates2.label "Διαχείριση πιστοποιητικών…">
 <!ENTITY manageCertificates2.accesskey "Δ">
 <!ENTITY viewSecurityDevices2.label "Συσκευές ασφαλείας…">
 <!ENTITY viewSecurityDevices2.accesskey "Σ">
