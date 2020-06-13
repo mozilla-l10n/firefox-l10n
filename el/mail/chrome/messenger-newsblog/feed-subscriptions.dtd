@@ -30,11 +30,11 @@
 <!ENTITY quickMode.label             "Εμφάνιση σύνοψης άρθρου αντί για φόρτωση της ιστοσελίδας">
 <!ENTITY quickMode.accesskey         "φ">
 
-<!ENTITY autotagEnable.label         "Αυτόματη δημιουργία ετικετών από ονόματα &lt;κατηγορίας&gt; ροών">
-<!ENTITY autotagEnable.accesskey     "c">
-<!ENTITY autotagUsePrefix.label      "Να μπει στις ετικέτες το πρόθεμα:">
-<!ENTITY autotagUsePrefix.accesskey  "P">
-<!ENTITY autoTagPrefix.placeholder   "Εισαγωγή προθέματος ετικέτας">
+<!ENTITY autotagEnable.label         "Αυτόματη δημιουργία ετικετών από ονόματα &lt;κατηγοριών&gt; ροής">
+<!ENTITY autotagEnable.accesskey     "τ">
+<!ENTITY autotagUsePrefix.label      "Προσθήκη προθέματος στις ετικέτες:">
+<!ENTITY autotagUsePrefix.accesskey  "π">
+<!ENTITY autoTagPrefix.placeholder   "Εισάγετε πρόθεμα">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Προσθήκη">
