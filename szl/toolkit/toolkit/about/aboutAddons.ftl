@@ -353,12 +353,114 @@ discopane-intro =
 discopane-notice-recommendations = Niykere z tych rykōmyndacyji sōm spersōnalizowane. Bazujōm na inkszych rozszyrzyniach, co mosz zainstalowane, preferyncyjach profilōw i statystykach używanio.
 discopane-notice-learn-more = Przewiydz sie wiyncyj
 privacy-policy = Polityka prywatności
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = Ôd: <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Używocze: { $dailyUsers }
+install-extension-button = Przidej do aplikacyje { -brand-product-name }
+install-theme-button = Instaluj motyw
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Regiyruj
+find-more-addons = Znojdź wiyncyj rozszyrzyń
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Wiyncyj ôpcyjōw
 
 ## Add-on actions
 
+report-addon-button = Dej znać
+remove-addon-button = Wyciep
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Niy idzie wyciepnōnć. <a data-l10n-name="link">Po jakimu?</a>
+disable-addon-button = Zastow
+enable-addon-button = Załōncz
+expand-addon-button = Wiyncyj ôpcyjōw
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Załōncz
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Ôpcyje
+       *[other] Preferyncyje
+    }
+details-addon-button = Informacyje…
+release-notes-addon-button = Informacyje ô wydaniu:
+permissions-addon-button = Zgody
+addons-enabled-heading = Załōnczōne
+addons-disabled-heading = Zastawiōne
+extension-enabled-heading = Załōnczōne
+extension-disabled-heading = Zastawiōne
+theme-enabled-heading = Załōnczōne
+theme-disabled-heading = Zastawiōne
+plugin-enabled-heading = Załōnczōne
+plugin-disabled-heading = Zastawiōne
+dictionary-enabled-heading = Załōnczōne
+dictionary-disabled-heading = Zastawiōne
+locale-enabled-heading = Załōnczōne
+locale-disabled-heading = Zastawiōne
+ask-to-activate-button = Pytej sie, jeźli idzie aktywować
+always-activate-button = Zawdy aktywuj
+never-activate-button = Żodyn roz niy aktywuj
+addon-detail-author-label = Autōr
+addon-detail-version-label = Wersyjo
+addon-detail-last-updated-label = Ôstatnio aktualizowane
+addon-detail-homepage-label = Dōmowo strōna
+addon-detail-rating-label = Ôcyna
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Ôcyna: { NUMBER($rating, maximumFractionDigits: 1) } ze 5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (zastawiōne)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } recynzyjo
+        [few] { $numberOfReviews } recynzyje
+       *[many] { $numberOfReviews } recynzyjōw
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Rozszyrzynie <span data-l10n-name="addon-name">{ $addon }</span> je wyciepniynte.
+pending-uninstall-undo-button = Cofnij
+addon-detail-updates-label = Przizwōl na autōmatyczne aktualizacyje
+addon-detail-updates-radio-default = Bazowe sztalōnki
+addon-detail-updates-radio-on = Załōnczōne
+addon-detail-updates-radio-off = Wyłōnczōne
+addon-detail-update-check-label = Badnij za aktualizacyjami
+install-update-button = Aktualizuj
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Przizwolōne w prywatnych ôknach
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Przizwolōne w prywatnych ôknach
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Jak dosz zgoda, to rozszyrzynie bydzie mieć dostymp do twojij aktywności w internecie bez czas prywatnego przeglōndanio. <a data-l10n-name="learn-more">Przewiydz sie wiyncyj</a>
+addon-detail-private-browsing-allow = Przizwōl
+addon-detail-private-browsing-disallow = Niy zwolej
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Rykōmyndowane
+    .alt = Rykōmyndowane
 
 ## Page headings
 
