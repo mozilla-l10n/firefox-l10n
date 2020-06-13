@@ -4,7 +4,10 @@
 
 account-encryption =
     .label = Сквозное шифрование
+account-otr-label = Off-the-Record Messaging (OTR)
+account-otr-description = { -brand-short-name } поддерживает сквозное шифрование разговоров один на один. Это предотвращает прослушивание разговоров третьими лицами. Сквозное шифрование может использоваться только тогда, когда собеседник также использует программное обеспечение, поддерживающее OTR.
 otr-encryption-title = Проверенное шифрование
+otr-encryption-caption = Чтобы другие смогли подтвердить вашу личность в OTR-чатах, поделитесь своим собственным отпечатком OTR с помощью другого канала связи (за пределами текущего соединения).
 otr-fingerprint-label = Ваш отпечаток:
 view-fingerprint-button =
     .label = Управление отпечатками контактов
@@ -12,6 +15,8 @@ view-fingerprint-button =
 otr-settings-title = Настройки OTR
 otr-log =
     .label = Включать зашифрованные сообщения OTR в журналы разговоров
+otr-requireEncryption =
+    .label = Требовать сквозного шифрования для разговоров один на один
 otr-verifyNudge =
     .label = Всегда напоминать мне о проверке непроверенного контакта
 otr-notYetAvailable = пока недоступно
