@@ -23,7 +23,7 @@
 <!ENTITY radioNotSend.accesskey "χ">
 <!ENTITY radioAskUnsent.label "Ερώτηση">
 <!ENTITY radioAskUnsent.accesskey "σ">
-<!ENTITY textGoingOffline "Λήψη μηνυμάτων για εργασία χωρίς σύνδεση κατά την αποσύνδεση;">
+<!ENTITY textGoingOffline "Λήψη μηνυμάτων για εργασία εκτός σύνδεσης κατά την αποσύνδεση;">
 <!ENTITY radioAutoDownload.label "Ναι">
 <!ENTITY radioAutoDownload.accesskey "Ν">
 <!ENTITY radioNotDownload.label "Όχι">
