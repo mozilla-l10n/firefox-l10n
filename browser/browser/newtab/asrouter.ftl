@@ -157,15 +157,25 @@ cfr-doorhanger-socialtracking-dont-show-again = এনেকুৱা বাৰ�
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = সকলো চাওঁক
+    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = সহজে সুৰক্ষিত পাছৱৰ্ড সৃষ্টি কৰক
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } আইকন
 
 ## Vulnerable Passwords message
 
 
 ## Picture-in-Picture fullscreen message
+
+
+## Protections Dashboard message
+
+
+## Better PDF message
 

@@ -112,6 +112,7 @@ newtab-menu-open-file = ফাইল খোলক
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = পৰিদৰ্শিত
 newtab-label-bookmarked = বুকমাৰ্ক কৰা হ'ল
 newtab-label-removed-bookmark = বুকমাৰ্ক আঁতৰোৱা হ'ল
 newtab-label-recommended = ট্ৰেণ্ডিং
@@ -121,12 +122,31 @@ newtab-label-download = ডাউনল'ড কৰিছে
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = শাখা আঁতৰাওক
+newtab-section-menu-collapse-section = শাখা জপাওঁক
+newtab-section-menu-expand-section = শাখা বহলাওঁক
+newtab-section-menu-manage-section = শাখা পৰিচালনা কৰক
+newtab-section-menu-manage-webext = এক্সটেনশ্যন পৰিচালনা
+newtab-section-menu-add-topsite = শীৰ্ষ ছাইট যোগ কৰক
+newtab-section-menu-add-search-engine = ছাৰ্চ ইঞ্জিন যোগ কৰক
+newtab-section-menu-move-up = ওপৰলৈ নিয়ক
+newtab-section-menu-move-down = তললৈ নিয়ক
+newtab-section-menu-privacy-notice = গোপনিয়তা জাননী
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = শাখা জপাওঁক
+newtab-section-expand-section-label =
+    .aria-label = শাখা বহলাওঁক
 
 ## Section Headers.
 
+newtab-section-header-topsites = শীৰ্ষ ছাইটসমূহ
+newtab-section-header-highlights = হাইলাইটসমূহ
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider }-ৰ দ্বাৰা পৰামৰ্শিত
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 

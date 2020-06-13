@@ -64,6 +64,14 @@ imported-safari-reading-list = পঢ়াৰ তালিকা (Safari ৰ প�
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = কুকিজ
+browser-data-cookies-label =
+    .value = কুকিজ
+browser-data-otherdata-checkbox =
+    .label = অন্য ডেটা
+browser-data-otherdata-label =
+    .label = অন্য ডেটা
 browser-data-session-checkbox =
     .label = উইন্ডো আৰু টেববোৰ
 browser-data-session-label =
