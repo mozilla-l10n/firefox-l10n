@@ -107,6 +107,8 @@ about-debugging-setup-usb-status-updating = Թարմացուում է…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Միացրէք մշակողի ցանկը Ձեր Android սարքում։
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Միացնել USB վրիպազերծումը Android-ի Մշակման Ցանկում։
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Միացնել USB կարգաբերումը Firefox- ում Android սարքի վրայ:
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Միացրեք Android սարքը Ձեր համակարգչին։
@@ -131,6 +133,14 @@ about-debugging-network-locations-host-input-label = Հանգոյց
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Հեռացնել
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Անվաւեր խնամորդ “{ $host-value }”։ Ակնկալուող ձեւաչափը “hostname:portnumber”֊ն է։
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Խնամորդ՝ “{ $host-value }” ֊ն արդէն գրանցուած է
 
 # Runtime Page strings
 
