@@ -125,6 +125,24 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Сохранённые логины и пароли
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Избранное
+            [edge] Избранное
+           *[other] Закладки
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Избранное
+            [edge] Избранное
+           *[other] Закладки
+        }
+browser-data-otherdata-checkbox =
+    .label = Другие данные
+browser-data-otherdata-label =
+    .label = Другие данные
 browser-data-session-checkbox =
     .label = Окна и вкладки
 browser-data-session-label =
