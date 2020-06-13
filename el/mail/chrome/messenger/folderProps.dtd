@@ -51,6 +51,7 @@
 <!ENTITY folderProps.name.accesskey              "ν">
 <!ENTITY folderProps.color.label                 "Χρώμα εικονιδίου:">
 <!ENTITY folderProps.color.accesskey             "Χ">
+<!ENTITY folderProps.reset.tooltip               "Επαναφορά προεπιλεγμένου χρώματος">
 <!ENTITY folderProps.location.label              "Τοποθεσία">
 <!ENTITY folderProps.location.accesskey          "θ">
 
@@ -58,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Προνόμια...">
 <!ENTITY privileges.button.accesskey             "ν">
 <!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα προνόμια:">
+<!ENTITY folderOtherUsers.label                  "Άλλα άτομα με πρόσβαση σε αυτό το φάκελο:">
 <!ENTITY folderType.label                        "Τύπος φακέλου:">
 
 <!ENTITY folderQuotaTab.label                    "Όριο">

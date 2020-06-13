@@ -210,7 +210,9 @@
 <!-- Layer toolbar items -->
 <!ENTITY absolutePosition.label "Τοποθέτηση">
 <!ENTITY layer.tooltip "Επίπεδο">
+<!ENTITY decreaseZIndex.label "Μεταφορά πίσω">
 <!ENTITY layerSendToBack.tooltip "Μεταφορά πίσω">
+<!ENTITY increaseZIndex.label "Μεταφορά μπροστά">
 <!ENTITY layerBringToFront.tooltip "Μεταφορά μπροστά">
 
 <!ENTITY increaseIndent.label "Αύξηση εσοχής">
@@ -313,12 +315,15 @@
 <!ENTITY BackgroundColorButton.tooltip "Επιλογή χρώματος παρασκηνίου">
 <!ENTITY throbber.tooltip "Μετάβαση στην αρχική σελίδα της &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Μεταβείτε στην αρχική σελίδα του &brandShortName;">
+<!ENTITY HighlightColorButton.label "Επισήμαναση">
 <!ENTITY HighlightColorButton.tooltip "Επιλογή χρώματος επισήμανσης κειμένου">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSize.label "Μέγεθος γραμματοσειράς">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ορισμός μεγέθους γραμματοσειράς">
+<!ENTITY smaller.label "Μικρότερο">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Μικρότερο μέγεθος γραμματοσειράς">
+<!ENTITY larger.label "Μεγαλύτερο">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Μεγαλύτερο μέγεθος γραμματοσειράς">
 <!ENTITY bold.label "Έντονα">
 <!ENTITY boldToolbarCmd.tooltip "Έντονα">

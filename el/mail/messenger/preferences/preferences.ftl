@@ -42,6 +42,11 @@ privacy-main-header = Απόρρητο
 privacy-passwords-header = Κωδικοί πρόσβασης
 privacy-junk-header = Ανεπιθύμητα
 privacy-data-collection-header = Συλλογή και χρήση δεδομένων
+collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
+collection-privacy-notice = Σημείωση απορρήτου
+collection-health-report-telemetry-disabled-link = Μάθετε περισσότερα
+collection-health-report-link = Μάθετε περισσότερα
+collection-backlogged-crash-reports-link = Μάθετε περισσότερα
 privacy-security-header = Ασφάλεια
 privacy-scam-detection-title = Ανίχνευση απάτης
 privacy-anti-virus-title = Προστασία από ιούς
@@ -79,6 +84,8 @@ addons-button = Επεκτάσεις & Θέματα
 
 ## OS Authentication dialog
 
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
