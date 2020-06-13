@@ -37,8 +37,8 @@ protection-report-page-title = Защита приватности
 protection-report-content-title = Защита приватности
 etp-card-title = Улучшенная защита от отслеживания
 etp-card-content = Трекеры отслеживают вас в Интернете, чтобы собирать информацию о ваших привычках и интересах. { -brand-short-name } блокирует многие из этих трекеров и других вредоносных скриптов.
-protection-report-webpage-title = Панель защиты
-protection-report-page-content-title = Панель защиты
+protection-report-webpage-title = Панель состояния защиты
+protection-report-page-content-title = Панель состояния защиты
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } может незаметно защищать вашу приватность во время пребывания в Интернете. Это персонализированная сводка состояния защиты, включая средства контроля вашей безопасности в Интернете.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.

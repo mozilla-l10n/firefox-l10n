@@ -237,8 +237,11 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Значок «Картинка в кар
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Быстрый обзор состояния защиты
-cfr-whatsnew-protections-cta-link = Посмотреть панель защиты
+cfr-whatsnew-protections-body = Панель состояния защиты содержит сводные отчеты об утечках данных и управлении паролями. Теперь вы можете отслеживать, со сколькими утечками данных вы разобрались, и видеть, были ли какие-либо из ваших сохранённых паролей затронуты утечками данных.
+cfr-whatsnew-protections-cta-link = Посмотреть панель состояния защиты
 cfr-whatsnew-protections-icon-alt = Значок щита
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Улучшена работа с PDF
+cfr-whatsnew-better-pdf-body = Документы PDF теперь можно открывать прямо в { -brand-short-name }, что ускоряет доступ к ним во время работы.
