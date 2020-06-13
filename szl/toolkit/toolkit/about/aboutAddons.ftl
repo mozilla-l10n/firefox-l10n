@@ -78,6 +78,13 @@ cmd-contribute =
     .label = Spōmogej
     .accesskey = S
     .tooltiptext = Spōmogej robota nad tym rozszyrzyniym
+discover-title = Co to sōm rozszyrzynia?
+discover-description = Rozszyrzynia to aplikacyje, z kerymi idzie spersōnalizować aplikacyjo { -brand-short-name } nowymi funkcyjami abo wyglōndym. Sprōbuj snadniyjszego poska na rancie, pōwiadōmiyń ô pogodzie abo graficznego motywu, kere przipasujōm aplikacyjo { -brand-short-name } do ciebie.
+discover-footer = Jak mosz połōnczynie z internetym, ta strōna pokoże trocha nojlepszych i nojpopularniejszych rozszyrzyń do sprōbowanio.
+detail-version =
+    .label = Wersyjo
+detail-last-updated =
+    .label = Ôstatnio aktualizowane
 
 ## These are global warnings
 
