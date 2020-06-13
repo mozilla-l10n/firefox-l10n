@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label        "E-mail">
+<!ENTITY emailSectionHdr.label        "Email">
 <!ENTITY readMsgsLink.label           "Ανάγνωση μηνυμάτων">
 <!ENTITY composeMsgLink.label         "Σύνταξη νέου μηνύματος">
 
