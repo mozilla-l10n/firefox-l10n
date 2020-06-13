@@ -80,7 +80,7 @@
 <!ENTITY localPath1.label "Τοπικός φάκελος:">
 <!ENTITY localFolderPicker.label "Επιλογή τοπικού καταλόγου">
 <!ENTITY browseFolder.label "Περιήγηση…">
-<!ENTITY browseFolder.accesskey "ξ">
+<!ENTITY browseFolder.accesskey "γ">
 <!ENTITY browseNewsrc.label "Περιήγηση…">
 <!ENTITY browseNewsrc.accesskey "Ε">
 
