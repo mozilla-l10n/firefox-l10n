@@ -45,6 +45,7 @@ privacy-data-collection-header = Συλλογή και χρήση δεδομέν
 collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
 collection-description = Προσπαθούμε να παρέχουμε επιλογές και να συλλέγουμε μόνο τα απαραίτητα, ώστε να προσφέρουμε και να βελτιώνουμε το { -brand-short-name } για όλους. Ζητούμε πάντα άδεια πριν λάβουμε προσωπικές πληροφορίες.
 collection-privacy-notice = Σημείωση απορρήτου
+collection-health-report-telemetry-disabled = Δεν επιτρέπεται πλέον στη { -vendor-short-name } η συλλογή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης. Όλα τα προηγούμενα δεδομένα θα διαγραφούν μέσα σε 30 ημέρες.
 collection-health-report-telemetry-disabled-link = Μάθετε περισσότερα
 collection-health-report =
     .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή τεχνικών και διαδραστικών δεδομένων στη { -vendor-short-name }
@@ -94,6 +95,15 @@ addons-button = Επεκτάσεις & Θέματα
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Επαληθεύστε την ταυτότητά σας για δημιουργία κύριου κωδικού πρόσβασης.
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Για να δημιουργήσετε κύριο κωδικό πρόσβασης, εισάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = δημιουργήσει κύριο κωδικό πρόσβασης
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -120,6 +130,9 @@ add-search-engine =
 remove-search-engine =
     .label = Αφαίρεση
     .accesskey = ρ
+minimize-to-tray-label =
+    .label = Όταν το { -brand-short-name } ελαχιστοποιείται, να γίνεται μετακίνηση στη γραμμή εργασιών
+    .accesskey = ε
 new-message-arrival = Όταν φθάνουν νέα μηνύματα:
 mail-play-sound-label =
     .label =
