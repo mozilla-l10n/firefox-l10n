@@ -153,6 +153,16 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Niykere rozszyrzynia sōm zastawiōne
 disabled-unsigned-description = Te rozszyrzynia niy były weryfikowane do używanio w aplikacyji { -brand-short-name }. Idzie <label data-l10n-name="find-addons">znojś jaki erzac</label> abo dać znać wydowcy, coby je zweryfikowoł.
+disabled-unsigned-learn-more = Przewiydz sie wiyncyj, jak starōmy sie ô twoje bezpieczyństwo w necu.
+disabled-unsigned-devinfo = Wydowcy, co chcōm mieć sweryfikowane swoje rozszyrzynia, mogōm poczytać nasza <label data-l10n-name="learn-more">insztrukcyjo</label>.
+plugin-deprecation-description = Czegoś sam chybio? Niykere rozszyrzynia już niy sōm ôbsugowane ôd aplikacyje { -brand-short-name }. <label data-l10n-name="learn-more">Przewiydz sie wiyncyj.</label>
+legacy-warning-show-legacy = Pokoż przedowniōne rozszyrzynia
+legacy-extensions =
+    .value = Przedowniōne rozszyrzynia
+legacy-extensions-description = Te rozszyrzynia niy trzimały aktualnych sztandardōw aplikacyje { -brand-short-name }, tōż my je zastawiyli. <label data-l10n-name="legacy-learn-more">Przewiydz sie wiyncyj ô zmianach w rozszyrzyniach</label>
+private-browsing-description2 =
+    { -brand-short-name } zmiynio to, jak rozszyrzynia fugujōm bez czas prywatnego przeglōndanio. Żodne nowe rozszyrzynie, kere przidosz do aplikacyje { -brand-short-name }, bazowo niy bydzie fungować w prywatnych ôknach. Podwiela na to niy przizwolisz we sztalōnkach, rozszyrzynie niy bydzie fungować bez czas prywatnego przeglōndanio, ani niy bydzie mieć dostympu do twojij aktywności w necu. Zmiyniylimy to, coby prywatne przeglōndanie durch było prywatne.
+    <label data-l10n-name="private-browsing-learn-more">Przewiydz sie, jak regiyrować sztalōnkami rozszyrzyń</label>
 
 ## These are global warnings
 
