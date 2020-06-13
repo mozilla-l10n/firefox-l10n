@@ -30,4 +30,6 @@ carddav-remember-password =
     .accesskey = μ
 carddav-loading = Αναζήτηση ρυθμίσεων…
 carddav-connection-error = Αποτυχία σύνδεσης.
+carddav-none-found = Δεν βρέθηκαν ευρετήρια διευθύνσεων για προσθήκη για το συγκεκριμένο λογαριασμό.
+carddav-already-added = Όλα τα ευρετήρια διευθύνσεων για το συγκεκριμένο λογαριασμό έχουν ήδη προστεθεί.
 carddav-available-books = Διαθέσιμα βιβλία διευθύνσεων:

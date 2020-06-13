@@ -5,4 +5,9 @@
 account-encryption =
     .label = Κρυπτογράφηση από άκρο σε άκρο
 account-otr-label = Μηνύματα εκτός εγγραφής (OTR)
+otr-encryption-title = Επαληθευμένη κρυπτογράφηση
+otr-fingerprint-label = Το αποτύπωμά σας:
+view-fingerprint-button =
+    .label = Διαχείριση αποτυπωμάτων των επαφών
+    .accesskey = π
 otr-settings-title = Ρυθμίσεις OTR
