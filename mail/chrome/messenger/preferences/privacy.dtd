@@ -27,7 +27,7 @@
 <!ENTITY keepUntil.accesskey "δ">
 <!ENTITY expire.label "να λήξουν">
 <!ENTITY close.label "το κλείσιμο του &brandShortName;">
-<!ENTITY askEachTime.label "να γίνεται ερώτηση κάθε φορά">
+<!ENTITY askEachTime.label "ερώτηση κάθε φορά">
 <!ENTITY cookieExceptions.label "Εξαιρέσεις…">
 <!ENTITY cookieExceptions.accesskey "Ε">
 <!ENTITY showCookies.label "Εμφάνιση cookies…">

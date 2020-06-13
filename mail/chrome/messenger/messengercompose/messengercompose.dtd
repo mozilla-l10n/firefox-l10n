@@ -324,7 +324,7 @@
 <!ENTITY openAttachment.accesskey "γ">
 <!ENTITY delete.label "Διαγραφή">
 <!ENTITY delete.accesskey "Δ">
-<!ENTITY removeAttachment.label "Απομάκρυνση συνημμένου">
+<!ENTITY removeAttachment.label "Αφαίρεση συνημμένου">
 <!ENTITY removeAttachment.accesskey "ρ">
 <!ENTITY renameAttachment.label "Μετονομασία…">
 <!ENTITY renameAttachment.accesskey "τ">

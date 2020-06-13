@@ -5,7 +5,6 @@
 app-manager-window-dialog =
     .title = Λεπτομέρειες εφαρμογής
     .style = width: 35em; min-height: 23em;
-
 remove-app-button =
-    .label = Απομάκρυνση
+    .label = Αφαίρεση
     .accesskey = ρ

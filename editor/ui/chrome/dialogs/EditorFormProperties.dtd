@@ -17,5 +17,5 @@
 <!ENTITY FormTarget.label "Πλαίσιο στόχου:">
 <!ENTITY FormTarget.accesskey "χ">
 
-<!ENTITY RemoveForm.label "Απομάκρυνση φόρμας">
+<!ENTITY RemoveForm.label "Αφαίρεση φόρμας">
 <!ENTITY RemoveForm.accesskey "π">
