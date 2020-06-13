@@ -163,12 +163,80 @@ legacy-extensions-description = Te rozszyrzynia niy trzimały aktualnych sztanda
 private-browsing-description2 =
     { -brand-short-name } zmiynio to, jak rozszyrzynia fugujōm bez czas prywatnego przeglōndanio. Żodne nowe rozszyrzynie, kere przidosz do aplikacyje { -brand-short-name }, bazowo niy bydzie fungować w prywatnych ôknach. Podwiela na to niy przizwolisz we sztalōnkach, rozszyrzynie niy bydzie fungować bez czas prywatnego przeglōndanio, ani niy bydzie mieć dostympu do twojij aktywności w necu. Zmiyniylimy to, coby prywatne przeglōndanie durch było prywatne.
     <label data-l10n-name="private-browsing-learn-more">Przewiydz sie, jak regiyrować sztalōnkami rozszyrzyń</label>
+extensions-view-discopane =
+    .name = Rykōmyndowane
+    .tooltiptext = { extensions-view-discopane.name }
+extensions-view-recent-updates =
+    .name = Ôstatnie aktualizacyje
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Dostympne aktualizacyje
+    .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Rykōmyndowane
+addon-category-discover-title =
+    .title = Rykōmyndowane
+addon-category-extension = Rozszyrzynia
+addon-category-extension-title =
+    .title = Rozszyrzynia
+addon-category-theme = Motywy
+addon-category-theme-title =
+    .title = Motywy
+addon-category-plugin = Rozszyrzynia plugin
+addon-category-plugin-title =
+    .title = Rozszyrzynia plugin
+addon-category-dictionary = Dykcjōnorze
+addon-category-dictionary-title =
+    .title = Dykcjōnorze
+addon-category-locale = Godki
+addon-category-locale-title =
+    .title = Godki
+addon-category-available-updates = Dostympne aktualizacyje
+addon-category-available-updates-title =
+    .title = Dostympne aktualizacyje
+addon-category-recent-updates = Ôstatnie aktualizacyje
+addon-category-recent-updates-title =
+    .title = Ôstatnie aktualizacyje
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Wszyskie rozszyrzynia sōm zastawiōne ôd trybu bezpieczyństwa.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Badanie kōmpatybilności rozszyrzyń je zastawiōne. Możesz mieć niykōmpatybilne rozszyrzynia.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Załōncz
+    .tooltiptext = Załōncz badanie kōmpatybilności rozszyrzyń
+extensions-warning-update-security-label =
+    .value = Badanie bezpieczyństwa aktualizacyji rozszyrzyń je zastawiōne. Aplikacyjo może być napadniynto z pōmocōm aktualizacyji.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Załōncz
+    .tooltiptext = Załōncz badanie bezpieczyństwa aktualizacyje rozszyrzyń
+extensions-warning-safe-mode = Wszyskie rozszyrzynia sōm zastawiōne ôd trybu bezpieczyństwa.
+extensions-warning-check-compatibility = Badanie kōmpatybilności rozszyrzyń je zastawiōne. Możesz mieć niykōmpatybilne rozszyrzynia.
+extensions-warning-check-compatibility-button = Załōncz
+    .title = Załōncz badanie kōmpatybilności rozszyrzyń
+extensions-warning-update-security = Badanie bezpieczyństwa aktualizacyji rozszyrzyń je zastawiōne. Aplikacyjo może być napadniynto z pōmocōm aktualizacyji.
+extensions-warning-update-security-button = Załōncz
+    .title = Załōncz badanie bezpieczyństwa aktualizacyje rozszyrzyń
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Badnij za aktualizacyjami
+    .accesskey = B
+extensions-updates-view-updates =
+    .label = Pokoż ôstatnie aktualizacyje
+    .accesskey = P
+addon-updates-check-for-updates = Badnij za aktualizacyjami
+    .accesskey = B
+addon-updates-view-updates = Pokoż ôstatnie aktualizacyje
+    .accesskey = P
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
