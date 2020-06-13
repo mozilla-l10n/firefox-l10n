@@ -75,9 +75,9 @@ cmd-install-addon =
     .label = Instaluj
     .accesskey = I
 cmd-contribute =
-    .label = Spōmogej
+    .label = Spōmōż
     .accesskey = S
-    .tooltiptext = Spōmogej robota nad tym rozszyrzyniym
+    .tooltiptext = Spōmōż robota nad tym rozszyrzyniym
 discover-title = Co to sōm rozszyrzynia?
 discover-description = Rozszyrzynia to aplikacyje, z kerymi idzie spersōnalizować aplikacyjo { -brand-short-name } nowymi funkcyjami abo wyglōndym. Sprōbuj snadniyjszego poska na rancie, pōwiadōmiyń ô pogodzie abo graficznego motywu, kere przipasujōm aplikacyjo { -brand-short-name } do ciebie.
 discover-footer = Jak mosz połōnczynie z internetym, ta strōna pokoże trocha nojlepszych i nojpopularniejszych rozszyrzyń do sprōbowanio.
@@ -85,6 +85,28 @@ detail-version =
     .label = Wersyjo
 detail-last-updated =
     .label = Ôstatnio aktualizowane
+detail-contributions-description = Wydowca tego rozszyrzynio pyto, jeźli spōmożesz jego robota małym płatym.
+detail-contributions-button = Spōmōż
+    .title = Spōmōż robota nad tym rozszyrzyniym
+    .accesskey = S
+detail-update-type =
+    .value = Autōmatyczne aktualizacyje
+detail-update-default =
+    .label = Bazowe
+    .tooltiptext = Autōmatycznie instaluj aktualizacyje, ino jak tak je bazowo nasztalowane
+detail-update-automatic =
+    .label = Załōnczōne
+    .tooltiptext = Autōmatycznie instaluj aktualizacyje
+detail-update-manual =
+    .label = Wyłōnczōne
+    .tooltiptext = Niy aktualizuj autōmatycznie rozszyrzyń
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Przizwōl fungować w prywatnych ôknach
+detail-private-browsing-description2 = Jak dosz zgoda, to rozszyrzynie bydzie mieć dostymp do twojij aktywności w internecie bez czas prywatnego przeglōndanio. <label data-l10n-name="detail-private-browsing-learn-more">Przewiydz sie wiyncyj</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Niy przizwolōne w prywatnych ôknach
+detail-private-disallowed-description = Te rozszyrzynie niy funguje bez czas prywatnego przeglōndanio. <label data-l10n-name="detail-private-browsing-learn-more">Przewiydz sie wiyncyj</label>
 
 ## These are global warnings
 
