@@ -309,7 +309,7 @@ choose-folder-label =
     .accesskey =
         { PLATFORM() ->
             [macos] π
-           *[other] ξ
+           *[other] γ
         }
 always-ask-label =
     .label = Πάντα ερώτηση για την τοποθεσία αποθήκευσης

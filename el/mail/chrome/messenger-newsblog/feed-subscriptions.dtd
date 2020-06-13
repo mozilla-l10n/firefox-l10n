@@ -16,7 +16,7 @@
 <!ENTITY validateText.label          "Έλεγχος επαλήθευσης και ανάκτηση έγκυρου url.">
 
 <!ENTITY feedFolder.label            "Αποθήκευση άρθρων σε:">
-<!ENTITY feedFolder.accesskey        "S">
+<!ENTITY feedFolder.accesskey        "Α">
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Έλεγχος για νέα άρθρα κάθε ">
@@ -27,8 +27,8 @@
 <!ENTITY biffDays.accesskey          "η">
 <!ENTITY recommendedUnits.label      "Ο εκδότης προτείνει:">
 
-<!ENTITY quickMode.label             "Εμφάνιση της σύνοψης του άρθρου αντί για φόρτωση της ιστοσελίδας">
-<!ENTITY quickMode.accesskey         "h">
+<!ENTITY quickMode.label             "Εμφάνιση σύνοψης άρθρου αντί για φόρτωση της ιστοσελίδας">
+<!ENTITY quickMode.accesskey         "φ">
 
 <!ENTITY autotagEnable.label         "Αυτόματη δημιουργία ετικετών από ονόματα &lt;κατηγορίας&gt; ροών">
 <!ENTITY autotagEnable.accesskey     "c">

@@ -6,7 +6,7 @@
 <!ENTITY securitySettings.label "Ρυθμίσεις ασφαλείας">
 <!ENTITY serverSettings.label "Ρυθμίσεις">
 <!ENTITY serverType.label "Είδος διακομιστή:">
-<!ENTITY serverName.label "Όνομα διακομιστή :">
+<!ENTITY serverName.label "Όνομα διακομιστή:">
 <!ENTITY serverName.accesskey "δ">
 <!ENTITY userName.label "Όνομα χρήστη:">
 <!ENTITY userName.accesskey "ν">
@@ -82,7 +82,7 @@
 <!ENTITY browseFolder.label "Περιήγηση…">
 <!ENTITY browseFolder.accesskey "γ">
 <!ENTITY browseNewsrc.label "Περιήγηση…">
-<!ENTITY browseNewsrc.accesskey "Ε">
+<!ENTITY browseNewsrc.accesskey "ε">
 
 <!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY accountSettingsDesc.label "Το παρακάτω είναι ειδικός λογαριασμός. Δεν υπάρχουν ταυτότητες που να έχουν συσχετιστεί με αυτόν.">
