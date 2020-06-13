@@ -32,11 +32,23 @@ finger-unseen = Личность { $name } ещё не была подтверж
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } связывается с вами с неизвестного компьютера. Случайное прослушивание невозможно, но с определенными усилиями кто-то может прослушивать ваш разговор. Предотвратите прослушивание, проверив личность этого контакта.
-state-not_private = Текущий разговор не является частным.
+state-not_private = Текущий разговор не является конфиденциальным.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Текущий разговор зашифрован, но не является конфиденциальным, так как личность { $name } ещё не подтверждена.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Личность { $name } была подтверждена. Текущий разговор зашифрован и конфиденциален.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } закончил с вами зашифрованный разговор; вам следует сделать то же самое.
 state-not_private-label = Небезопасно
 state-unverified-label = Неподтверждено
-state-private-label = Приватно
+state-private-label = Конфиденциально
 state-finished-label = Завершено
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } запросил подтверждение вашей личности.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 afterauth-private = Вы подтвердили личность { $name }.
