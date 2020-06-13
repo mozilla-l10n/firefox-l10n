@@ -282,7 +282,7 @@ sharing-warning-screen = Sie teilen Ihren gesamten Bildschirm. Andere Personen k
 sharing-warning-proceed-to-tab =
     .label = Weiter zum Tab
 sharing-warning-disable-for-session =
-    .label = Deaktivieren Sie den Freigabeschutz für diese Sitzung
+    .label = Freigabeschutz für diese Sitzung deaktivieren
 
 ## DevTools F12 popup
 
