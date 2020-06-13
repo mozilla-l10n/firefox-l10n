@@ -5,15 +5,15 @@
 <!ENTITY propertiesMenu.label               "Ιδιότητες">
 <!ENTITY propertiesMenu.accesskey           "ι">
 <!ENTITY propertiesCmd.key                  "ι">
-<!ENTITY abPropertiesMenu.label             "Ιδιότητες Βιβλίου Διευθύνσεων">
+<!ENTITY abPropertiesMenu.label             "Ιδιότητες ευρετηρίου διευθύνσεων">
 <!ENTITY abPropertiesMenu.accesskey         "ι">
 <!ENTITY contactPropertiesMenu.label        "Ιδιότητες Επαφής">
 <!ENTITY contactPropertiesMenu.accesskey    "ι">
 <!ENTITY mailingListPropertiesMenu.label    "Ιδιότητες Λίστας Ταχυδρομείου">
 <!ENTITY mailingListPropertiesMenu.accesskey "ι">
 
-<!ENTITY abContextMenuButton.tooltip        "Προβολή μενού περιεχομένου βιβλίου διευθύνσεων">
-<!ENTITY addressbookPicker.label            "Βιβλίο διευθύνσεων:">
+<!ENTITY abContextMenuButton.tooltip        "Προβολή μενού επιλογών ευρετηρίου διευθύνσεων">
+<!ENTITY addressbookPicker.label            "Ευρετήριο διευθύνσεων:">
 <!ENTITY addressbookPicker.accesskey        "υ">
 <!ENTITY searchContacts.label               "Αναζήτηση Επαφών:">
 <!ENTITY searchContacts.accesskey           "ν">
