@@ -19,7 +19,7 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "δ">
 <!ENTITY  idleTime                      "λεπτά αδράνειας">
 
-<!ENTITY  andSetStatusToAway.label      "και να ορίζεται η κατάσταση μου σε Μακρυά με αυτό το μήνυμα κατάστασης:">
+<!ENTITY  andSetStatusToAway.label      'και να ορίζεται η κατάστασή μου σε "Εκτός υπολογιστή" με το εξής μήνυμα:'>
 <!ENTITY  andSetStatusToAway.accesskey  "υ">
 
 <!ENTITY  sendTyping.label              "Αποστολή ειδοποιήσεων πληκτρολόγησης στις συνομιλίες">

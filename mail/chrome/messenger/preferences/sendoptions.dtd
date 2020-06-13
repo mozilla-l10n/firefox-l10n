@@ -15,9 +15,9 @@
 <!ENTITY sendHTML.accesskey           "σ">
 <!ENTITY sendBoth.label               "Αποστολή και σε HTML και σε απλό κείμενο">
 <!ENTITY sendBoth.accesskey           "κ">
-<!ENTITY override.label               "Σημείωση: Χρήση του ευρετηρίου διευθύνσεων για τον καθορισμό προτιμώμενης μορφής κειμένου για τους παραλήπτες.">
+<!ENTITY override.label               "Σημείωση: Καθορίστε την προτιμώμενη μορφή κειμένου για κάθε παραλήπτη από το ευρετήριο διευθύνσεων.">
 
-<!ENTITY domaindesc.label             "Όταν στέλνετε ένα μήνυμα σε μια διεύθυνση που ανήκει τους παρακάτω τομείς,  ο &brandShortName; επιλέγει αυτόματα τη σωστή μορφοποίηση για τον ανάλογο τομέα. ">
+<!ENTITY domaindesc.label             "Όταν στέλνετε μήνυμα σε μια διεύθυνση με ένα από τα παρακάτω ονόματα τομέων, το &brandShortName; στέλνει αυτόματα το μήνυμα στη σωστή μορφή.">
 <!ENTITY HTMLTab.label                "Τομείς HTML">
 <!ENTITY HTMLTab.accesskey            "τ">
 <!ENTITY PlainTextTab.label           "Τομείς απλού κειμένου">
