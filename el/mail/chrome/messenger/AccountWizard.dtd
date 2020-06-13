@@ -36,7 +36,7 @@
 <!ENTITY fullnameLabel.label "Το όνομά σας:">
 <!ENTITY fullnameLabel.accesskey "τ">
 
-<!ENTITY emailLabel.label "Διεύθυνση email:">
+<!ENTITY emailLabel.label "Διεύθυνση e-mail:">
 <!ENTITY emailLabel.accesskey "θ">
 
 <!-- Entities for Incoming Server page -->
