@@ -700,4 +700,4 @@ search-results-empty-message =
         [windows] Beklagar! Det er ingen resultat i innstillingar for «<span data-l10n-name="query"></span>».
        *[other] Beklagar! Det er ingen resultat i innstillingar for «<span data-l10n-name="query"></span>».
     }
-search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } support</a>
+search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } brukarstøtte</a>
