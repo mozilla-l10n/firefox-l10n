@@ -183,9 +183,23 @@ password-warning =
         [few] Захаваныя лагіны могуць быць раскрыты пры ўцечцы дадзеных. Змяніце гэтыя паролі для лепшай бяспекі ў сеціве. <a data-l10n-name="lockwise-link">Паглядзець захаваныя лагіны</a>
        *[many] Захаваныя лагіны могуць быць раскрыты пры ўцечцы дадзеных. Змяніце гэтыя паролі для лепшай бяспекі ў сеціве. <a data-l10n-name="lockwise-link">Паглядзець захаваныя лагіны</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Пароль выяўлены ў нявырашаных уцечках
+        [few] Паролі выяўлены ў нявырашаных уцечках
+       *[many] Пароляў выяўлена ў нявырашаных уцечках
+    }
 monitor-no-breaches-title = Добрыя навіны!
+monitor-no-breaches-description = У вас няма вядомых уцечак дадзеных. Калі гэта зменіцца, мы вам паведамім.
 monitor-view-report-link = Паглядзець справаздачу
     .title = Вырашыць праблемы, звязаныя з уцечкамі звестак, на { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Вырашыце свае ўцечкі
+monitor-breaches-unresolved-description = Прааналізаваўшы падрабязнасці уцечкі і прыняўшы меры па абароне сваёй інфармацыі, вы можаце адзначыць уцечкі як вырашаныя.
+monitor-manage-breaches-link = Кіраваць уцечкамі дадзеных
+    .title = Кіраваць уцечкамі дадзеных на { -monitor-brand-short-name }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } завершана
