@@ -82,7 +82,7 @@
 <!ENTITY manual-edit.label               "Χειροκίνητη ρύθμιση">
 <!ENTITY manual-edit.accesskey           "ρ">
 <!ENTITY manual-config.label             "Χειροκίνητη ρύθμιση…">
-<!ENTITY manual-config.accesskey         "M">
+<!ENTITY manual-config.accesskey         "Χ">
 <!ENTITY open-provisioner.label          "Απόκτηση νέας διεύθυνσης e-mail…">
 <!ENTITY open-provisioner.accesskey      "α">
 
