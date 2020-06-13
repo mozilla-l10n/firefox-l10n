@@ -43,9 +43,19 @@ privacy-passwords-header = Κωδικοί πρόσβασης
 privacy-junk-header = Ανεπιθύμητα
 privacy-data-collection-header = Συλλογή και χρήση δεδομένων
 collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
+collection-description = Προσπαθούμε να παρέχουμε επιλογές και να συλλέγουμε μόνο τα απαραίτητα, ώστε να προσφέρουμε και να βελτιώνουμε το { -brand-short-name } για όλους. Ζητούμε πάντα άδεια πριν λάβουμε προσωπικές πληροφορίες.
 collection-privacy-notice = Σημείωση απορρήτου
 collection-health-report-telemetry-disabled-link = Μάθετε περισσότερα
+collection-health-report =
+    .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή τεχνικών και διαδραστικών δεδομένων στη { -vendor-short-name }
+    .accesskey = ρ
 collection-health-report-link = Μάθετε περισσότερα
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση
+collection-backlogged-crash-reports =
+    .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή αναφορών σφαλμάτων που εκκρεμούν εκ μέρους σας
+    .accesskey = π
 collection-backlogged-crash-reports-link = Μάθετε περισσότερα
 privacy-security-header = Ασφάλεια
 privacy-scam-detection-title = Ανίχνευση απάτης
