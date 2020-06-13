@@ -242,9 +242,11 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Šćity na jadno póglědnjenje
+cfr-whatsnew-protections-body = Pśeglěd šćitow zespominujuce rozpšawy wó datowych źěrach a zastojanju gronidłow. Móžośo něnto slědowaś, wjele źěrow sćo rozwězał a wiźeś, lěc jadno abo wěcej gronidłow jo było datowej źěrje wustajone.
 cfr-whatsnew-protections-cta-link = Pśeglěd šćitow pokazaś
 cfr-whatsnew-protections-icon-alt = Šćitowy symbol
 
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Lěpše PDF-dožywjenje
+cfr-whatsnew-better-pdf-body = PDF-dokumenty se něnto direktnje w { -brand-short-name } wócynjaju, bźeztogo aby musył źěłowy wótběg pśetergnuś.
