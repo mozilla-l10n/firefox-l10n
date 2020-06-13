@@ -17,7 +17,12 @@
 <!ENTITY e2eLearnMore.label "Μάθετε περισσότερα">
 
 
+<!ENTITY e2eTechPref.description "Προτιμώμενη τεχνολογία κρυπτογράφησης:">
 
+<!ENTITY doNotEncrypt.label "Να μην είναι ενεργή η κρυπτογράφηση από προεπιλογή">
+<!ENTITY doNotEncrypt.accesskey "Ν">
+<!ENTITY requireEncryptMessage.label "Απαίτηση κρυπτογράφησης από προεπιλογή">
+<!ENTITY requireEncryptMessage.accesskey "φ">
 <!ENTITY encryptionCert2.message "Προσωπικό πιστοποιητικό για κρυπτογράφηση:">
 <!ENTITY digitalSign.certificate.button "Επιλογή…">
 <!ENTITY digitalSign.certificate.accesskey "Ε">
@@ -29,6 +34,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "φ">
 <!ENTITY signingGroupTitle.label "Ψηφιακή υπογραφή">
 <!ENTITY signMessage.label "Ψηφιακή υπογραφή μηνυμάτων (από προεπιλογή)">
+<!ENTITY signMessage2.label "Προσθήκη ψηφιακής υπογραφής από προεπιλογή">
 <!ENTITY signMessage.accesskey "Ψ">
 <!ENTITY signingCert.message "Χρήση του εξής πιστοποιητικού για ψηφιακή υπογραφή απεσταλμένων μηνυμάτων:">
 
@@ -40,7 +46,9 @@
 
 <!ENTITY signingCert2.message "Προσωπικό πιστοποιητικό για ψηφιακή υπογραφή:">
 
+<!ENTITY sendingDefaults.label "Προεπιλεγμένες ρυθμίσεις για αποστολή μηνυμάτων">
 
+<!ENTITY technologyAutomatic.label "Αυτόματη επιλογή βάσει διαθέσιμων κλειδιών ή πιστοποιητικών">
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Διαχείριση πιστοποιητικών S/MIME">
