@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 offline-dialog-window =
-    .title = Ρυθμίσεις εργασίας χωρίς σύνδεση
+    .title = Ρυθμίσεις εκτός σύνδεσης
 autodetect-online-label =
     .label = Αυτόματος εντοπισμός κατάστασης δικτύου
     .accesskey = ν

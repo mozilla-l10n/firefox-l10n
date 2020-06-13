@@ -85,9 +85,9 @@
 <!ENTITY showSettings.accesskey        "Θ">
 <!ENTITY proxiesConfigure.label        "Ρύθμιση του τρόπου σύνδεσης του &brandShortName; στο διαδίκτυο">
 <!ENTITY connectionsInfo.caption       "Σύνδεση">
-<!ENTITY offlineInfo.caption           "Εργασία χωρίς σύνδεση">
+<!ENTITY offlineInfo.caption           "Εκτός σύνδεσης">
 <!ENTITY offlineInfo.label             "Ρυθμίσεις εργασίας χωρίς σύνδεση">
-<!ENTITY showOffline.label             "Χωρίς σύνδεση…">
+<!ENTITY showOffline.label             "Εκτός σύνδεσης…">
 <!ENTITY showOffline.accesskey         "Χ">
 
 <!ENTITY Diskspace                       "Χώρος δίσκου">
@@ -104,7 +104,7 @@
 <!ENTITY useCacheBefore.label            "Χρήση μέχρι">
 <!ENTITY useCacheBefore.accesskey        "μ">
 <!ENTITY useCacheAfter.label             "MB χώρου για την προσωρινή μνήμη">
-<!ENTITY overrideSmartCacheSize.label    "Παράκαμψη αυτόματης διαχείρισης cache">
+<!ENTITY overrideSmartCacheSize.label    "Παράκαμψη αυτόματης διαχείρισης προσωρινής μνήμης">
 <!ENTITY overrideSmartCacheSize.accesskey "ψ">
 <!ENTITY clearCacheNow.label             "Εκκαθάριση τώρα">
 <!ENTITY clearCacheNow.accesskey         "θ">
