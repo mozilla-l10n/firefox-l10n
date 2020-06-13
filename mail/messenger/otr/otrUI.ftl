@@ -38,4 +38,4 @@ waiting-title = Wokrućenske naprašowanje je so pósłało
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure
-otr-genkey-failed = Wutworjenje priwatneho OTR-kluca je so nimokuliło: { $error }
+otr-genkey-failed = Wutworjenje priwatneho OTR-kluča je so nimokuliło: { $error }
