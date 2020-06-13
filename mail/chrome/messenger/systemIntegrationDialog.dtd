@@ -8,7 +8,7 @@
 <!ENTITY cancelIntegration2.label  "Άκυρο">
 <!ENTITY defaultClient.intro  "Χρήση του &brandShortName; ως την προεπιλεγμένη εφαρμογή για:">
 
-<!ENTITY email.label "E-Mail">
+<!ENTITY email.label "Email">
 <!ENTITY newsgroups.label "Ομάδες συζητήσεων">
 <!ENTITY feeds.label "Ροές ειδήσεων">
 

@@ -17,7 +17,7 @@
 <!ENTITY addressbookPicker.accesskey        "υ">
 <!ENTITY searchContacts.label               "Αναζήτηση επαφών:">
 <!ENTITY searchContacts.accesskey           "ν">
-<!ENTITY SearchNameOrEmail.label            "Όνομα ή e-mail">
+<!ENTITY SearchNameOrEmail.label            "Όνομα ή email">
 
 <!ENTITY addtoToFieldMenu.label             "Προσθήκη στο πεδίο Προς">
 <!ENTITY addtoToFieldMenu.accesskey         "Π">

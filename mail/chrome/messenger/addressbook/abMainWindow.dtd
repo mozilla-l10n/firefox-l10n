@@ -178,7 +178,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.tooltip                          "Διαγραφή επιλεγμένου αντικειμένου">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Όνομα ή e-mail">
+<!ENTITY SearchNameOrEmail.label                        "Όνομα ή email">
 <!ENTITY SearchNameOrEmail.accesskey                    "ν">
 <!ENTITY advancedButton.tooltip                         "Προχωρημένη αναζήτηση διεύθυνσης">
 <!ENTITY quickSearchCmd.key                             "k">
@@ -189,7 +189,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.accesskey                             "β">
 <!ENTITY GeneratedName.label                            "Όνομα">
 <!ENTITY GeneratedName.accesskey                        "ν">
-<!ENTITY PrimaryEmail.label                             "E-mail">
+<!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "ε">
 <!ENTITY ChatName.label                                 "Όνομα συνομιλίας">
 <!ENTITY ChatName.accesskey                             "σ">
@@ -197,7 +197,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "ρ">
 <!ENTITY NickName.label                                 "Ψευδώνυμο">
 <!ENTITY NickName.accesskey                             "δ">
-<!ENTITY SecondEmail.label                              "Επιπρόσθετο e-mail">
+<!ENTITY SecondEmail.label                              "Επιπρόσθετο email">
 <!ENTITY SecondEmail.accesskey                          "υ">
 <!ENTITY Department.label                               "Τμήμα">
 <!ENTITY Department.accesskey                           "μ">

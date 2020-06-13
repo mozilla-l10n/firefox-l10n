@@ -10,7 +10,7 @@
 
 <!ENTITY signer.name "Υπογράφηκε από:">
 <!ENTITY recipient.name "Κρυπτογραφήθηκε για:">
-<!ENTITY email.address "Διεύθυνση e-mail:">
+<!ENTITY email.address "Διεύθυνση email:">
 <!ENTITY issuer.name "Πιστοποιητικό εκδόθηκε από:">
 
 <!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->

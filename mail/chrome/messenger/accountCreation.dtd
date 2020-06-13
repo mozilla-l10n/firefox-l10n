@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Ρύθμιση υπάρχοντος λογαριασμού e-mail">
+<!ENTITY autoconfigWizard2.title         "Ρύθμιση υπάρχοντος λογαριασμού email">
 
-<!ENTITY emailWizard.title               "Ρύθμιση της υπάρχουσας διεύθυνσης e-mail">
-<!ENTITY emailWizard.caption             "Χρήση της τρέχουσας διεύθυνσης e-mail">
+<!ENTITY emailWizard.title               "Ρύθμιση της υπάρχουσας διεύθυνσης email">
+<!ENTITY emailWizard.caption             "Χρήση της τρέχουσας διεύθυνσης email">
 <!ENTITY name.label                      "Το όνομά σας:">
 <!ENTITY name.accesskey                  "ν">
 <!ENTITY name.placeholder                "Όνομα Επίθετο">
 <!ENTITY fullname.placeholder            "Το πλήρες όνομά σας">
 <!ENTITY name.text                       "Το όνομά σας, όπως θα εμφανίζεται σε τρίτους">
 <!ENTITY name.error                      "Παρακαλούμε εισάγετε το όνομά σας">
-<!ENTITY email.label                     "Διεύθυνση e-mail:">
+<!ENTITY email.label                     "Διεύθυνση email:">
 <!ENTITY email.accesskey                 "ε">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
-<!ENTITY email3.placeholder              "Η διεύθυνση e-mail σας">
-<!ENTITY email.text                      "Η υπάρχουσα διεύθυνση e-mail σας">
-<!ENTITY email.error                     "Μη έγκυρη διεύθυνση e-mail">
+<!ENTITY email3.placeholder              "Η διεύθυνση email σας">
+<!ENTITY email.text                      "Η υπάρχουσα διεύθυνση email σας">
+<!ENTITY email.error                     "Μη έγκυρη διεύθυνση email">
 <!ENTITY password.label                  "Κωδικός πρόσβασης:">
 <!ENTITY password.accesskey              "δ">
 <!ENTITY password.placeholder            "Κωδικός πρόσβασης">
@@ -35,7 +35,7 @@
 
 <!ENTITY protocol.label                  "Πρωτόκολλο:">
 <!ENTITY imapLong.label                  "IMAP (απομακρυσμένοι φάκελοι)">
-<!ENTITY pop3Long.label                  "POP3 (διατήρηση των e-mails στον υπολογιστή σας)">
+<!ENTITY pop3Long.label                  "POP3 (διατήρηση των email στον υπολογιστή σας)">
 
 <!ENTITY manualConfigTable.summary       "Ρυθμίσεις διακομιστή">
 <!ENTITY incoming.label                  "Εισερχόμενα:">
@@ -83,7 +83,7 @@
 <!ENTITY manual-edit.accesskey           "ρ">
 <!ENTITY manual-config.label             "Χειροκίνητη ρύθμιση…">
 <!ENTITY manual-config.accesskey         "Χ">
-<!ENTITY open-provisioner.label          "Απόκτηση νέας διεύθυνσης e-mail…">
+<!ENTITY open-provisioner.label          "Απόκτηση νέας διεύθυνσης email…">
 <!ENTITY open-provisioner.accesskey      "α">
 
 
