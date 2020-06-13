@@ -37,10 +37,10 @@
 <!ENTITY newIMContactCmd.label "Επαφή συνομιλίας…">
 <!ENTITY newIMContactCmd.accesskey "σ">
 <!ENTITY  newMessageCmd2.key "N">
-<!ENTITY  newMessageCmd.key "Μ">
+<!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Μήνυμα">
 <!ENTITY  newMessageCmd.accesskey "μ">
-<!ENTITY  newContactCmd.label "Επαφή Βιβλίου Διευθύνσεων…">
+<!ENTITY  newContactCmd.label "Επαφή ευρετηρίου διευθύνσεων…">
 <!ENTITY  newContactCmd.accesskey "Ε">
 <!ENTITY openMenuCmd.label "Άνοιγμα">
 <!ENTITY openMenuCmd.accesskey "Ά">
@@ -59,9 +59,9 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "λ">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Τον τρέχοντα λογαριασμό">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "Τ">
-<!ENTITY getNextNMsgCmd2.label "Λήψη Επόμενων Μηνυμάτων Συζητήσεων">
-<!ENTITY getNextNMsgCmd2.accesskey "ζ">
-<!ENTITY sendUnsentCmd.label "Αποστολή εκκρεμών εξερχομένων μηνυμάτων">
+<!ENTITY getNextNMsgCmd2.label "Λήψη νέων μηνυμάτων ειδήσεων">
+<!ENTITY getNextNMsgCmd2.accesskey "ω">
+<!ENTITY sendUnsentCmd.label "Αποστολή μη απεσταλμένων μηνυμάτων">
 <!ENTITY sendUnsentCmd.accesskey "π">
 <!ENTITY subscribeCmd.label "Συνδρομή…">
 <!ENTITY subscribeCmd.accesskey "δ">
@@ -72,9 +72,9 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Σύμπτυξη φακέλων">
 <!ENTITY compactFolders.accesskey "φ">
-<!ENTITY emptyTrashCmd.label "Άδειασμα του κάδου απορριμμάτων">
+<!ENTITY emptyTrashCmd.label "Άδειασμα απορριμμάτων">
 <!ENTITY emptyTrashCmd.accesskey "δ">
-<!ENTITY offlineMenu.label "Εκτός σύνδεσης">
+<!ENTITY offlineMenu.label "Λειτουργία εκτός σύνδεσης">
 <!ENTITY offlineMenu.accesskey "κ">
 <!ENTITY offlineGoOfflineCmd.label "Εργασία εκτός σύνδεσης">
 <!ENTITY offlineGoOfflineCmd.accesskey "ρ">
@@ -120,7 +120,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "γ">
 <!ENTITY folderPropsCmd2.label "Ιδιότητες">
 <!ENTITY folderPropsFolderCmd2.label "Ιδιότητες φακέλου">
-<!ENTITY folderPropsNewsgroupCmd2.label "Ιδιότητες ομάδας συζήτησης">
+<!ENTITY folderPropsNewsgroupCmd2.label "Ιδιότητες ομάδας ειδήσεων">
 <!ENTITY folderPropsCmd.accesskey "δ">
 <!ENTITY undoDeleteMsgCmd.label "Αναίρεση διαγραφής μηνύματος">
 <!ENTITY redoDeleteMsgCmd.label "Επανάληψη διαγραφής μηνύματος">
