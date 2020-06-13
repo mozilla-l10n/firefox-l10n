@@ -56,6 +56,9 @@ cert-error-details-hsts-label = Фарсіраванае абароненае з
 cert-error-details-key-pinning-label = Прывязка адкрытага ключа HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Ланцужок сертыфіката:
 open-in-new-window-for-csp-or-xfo-error = Адкрыць сайт у новым акне
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Каб захаваць вашу бяспеку, { $hostname } не дазволіць { -brand-short-name } паказаць старонку, калі яна ўбудавана ў іншы сайт. Каб убачыць гэтую старонку, трэба адкрыць яе ў новым акне.
 
 ## Messages used for certificate error titles
 
@@ -86,6 +89,7 @@ unknownSocketType-title = Нечаканы адказ сервера
 nssFailure2-title = Няўдача бяспечнага злучэння
 cspBlocked-title = Заблакавана палітыкай бяспекі змесціва
 xfoBlocked-title = Заблакавана палітыкай X-Frame-Options
+csp-xfo-error-title = { -brand-short-name } не можа адкрыць гэту старонку
 corruptedContentError-title = Памылка пашкоджанага змесціва
 remoteXUL-title = Аддалены XUL
 sslv3Used-title = Немагчыма злучыцца бяспечна
