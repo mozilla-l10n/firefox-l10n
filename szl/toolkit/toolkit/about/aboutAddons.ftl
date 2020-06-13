@@ -311,6 +311,32 @@ shortcuts-browserAction = Aktywuj rozszyrzynie
 shortcuts-browserAction2 = Aktywuj knefel na posku z noczyniami
 shortcuts-pageAction = Aktywuj akcyjo strōny
 shortcuts-sidebarAction = Przełōncz posek na rancie
+shortcuts-modifier-mac = Przizwōl na Ctrl, Alt, abo ⌘
+shortcuts-modifier-other = Przizwōl na Ctrl abo Alt
+shortcuts-invalid = Felerno kōmbinacyjo knefli
+shortcuts-letter = Wkludź litera
+shortcuts-system = Niy idzie nadpisać skrōtu z aplikacyje { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Stuplowany skrōt
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } je używane za skrōt wiyncyj jak w jednym przipadku. Skuli stuplowanych skrōtōw mogōm sie pokozać felery fungowanio.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Już je używany ôd rozszyrzynio { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Pokoż { $numberToShow } wiyncyj
+        [few] Pokoż { $numberToShow } wiyncyj
+       *[many] Pokoż { $numberToShow } wiyncyj
+    }
+shortcuts-card-collapse-button = Pokoż mynij
+go-back-button =
+    .tooltiptext = Nazod
+header-back-button =
+    .title = Nazod
 
 ## Recommended add-ons page
 
