@@ -22,7 +22,13 @@ buddycontextmenu-label = Legg til OTR-fingeravtrykk
 alert-start = Forsøker å starte en kryptert samtale med { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+alert-refresh = Prøver å oppdatere den krypterte samtalen med { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Den krypterte samtalen med { $name } ble avsluttet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = Identiteten til { $name } er ikke bekreftet ennå. Tilfeldig avlytting er ikke mulig, men med en viss innsats kan enkelte avlytte. Forhindre overvåking ved å verifisere identiteten til kontakten.
 state-not_private = Den nåværende samtalen er ikke privat.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
