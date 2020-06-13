@@ -243,7 +243,7 @@ about-debugging-tmp-extension-temporary-id = Այս ցանցային ընդլա�
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
-    .label = ՏեղորոշչիՅայտարարագիր
+    .label = Տեղորոշչի Յայտարարագիր
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
@@ -278,6 +278,10 @@ about-debugging-worker-action-unregister = Ապագրանցել
 about-debugging-worker-fetch-listening =
     .label = Դուրս բերում
     .value = Դուրս բերման իրադարձութիւնների լսում
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Դուրսբերում
+    .value = Դուրսբերման գործընթացին հետեւող չկայ
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Աշխատեցում
