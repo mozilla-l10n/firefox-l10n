@@ -23,6 +23,11 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-area = Աւգտագործել <code>այլ </code> յատկորոշիչը պիտակաւորելու համար <div>տարածք</div> տարրերը, որոնք ունեն <span>href</span> յատկորոշիչ։ <a>Իմանալ աւելին</a>
+accessibility-text-label-issue-dialog = Երկխաւսութիւնները պէտք է լինէն պիտակուած։ <a>Իմանալ աւելին</a>
+accessibility-text-label-issue-document-title = Փաստաթղթերը պէտք է ունենան <code>Վերնագիր</code>։ <a>Իմանալ աւելին</a>
+accessibility-text-label-issue-embed = Ներկառուցուած բովանդակութիւնը պէտք է լինի պիտակուած։ <a>Իմանալ աւելին</a>
+accessibility-text-label-issue-figure = Թուանշանները ընտրովի խորագրերի հետ պէտք է լինէն պիտակուած։<a>Իմանալ աւելին</a>
+accessibility-text-label-issue-fieldset = <code>դաշտիսահմանման</code> բաղադրիչները պէտք է լինեն պիտակուած։ <a>Իմանալ աւելին</a>
 accessibility-text-label-issue-frame = <code>շրջանակի</code> բաղադրիչները պէտք է լինէն պիտակաւորուած։ <a>Իմանալ աւելին</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
