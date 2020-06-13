@@ -31,6 +31,7 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-how = Hvordan vil du bekrefte identiteten til kontakten din?
 auth-question = Skriv inn et spørsmål:
 auth-answer = Skriv inn svaret (skill mellom små og store bokstaver)
 auth-secret = Skriv inn hemmeligheten:
