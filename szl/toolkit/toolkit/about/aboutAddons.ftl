@@ -107,6 +107,52 @@ detail-private-browsing-description2 = Jak dosz zgoda, to rozszyrzynie bydzie mi
 # cannot be overridden by the user.
 detail-private-disallowed-label = Niy przizwolōne w prywatnych ôknach
 detail-private-disallowed-description = Te rozszyrzynie niy funguje bez czas prywatnego przeglōndanio. <label data-l10n-name="detail-private-browsing-learn-more">Przewiydz sie wiyncyj</label>
+detail-private-disallowed-description2 = Te rozszyrzynie niy funguje bez czas prywatnego przeglōndanio. <a data-l10n-name="learn-more">Przewiydz sie wiyncyj</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Potrzebuje dostympu do prywatnych ôkiyn
+detail-private-required-description = Te rozszyrzynie mo dostymp do twojij aktywności w internecie bez czas prywatnego przeglōndanio. <label data-l10n-name="detail-private-browsing-learn-more">Przewiydz sie wiyncyj</label>
+detail-private-required-description2 = Te rozszyrzynie mo dostymp do twojij aktywności w internecie bez czas prywatnego przeglōndanio. <a data-l10n-name="learn-more">Przewiydz sie wiyncyj</a>
+detail-private-browsing-on =
+    .label = Przizwōl
+    .tooltiptext = Załōncz bez czas prywatnego przeglōndanio
+detail-private-browsing-off =
+    .label = Niy zwolej
+    .tooltiptext = Wyłōncz bez czas prywatnego przeglōndanio
+detail-home =
+    .label = Dōmowo strōna
+detail-home-value =
+    .value = { detail-home.label }
+detail-repository =
+    .label = Profil rozszyrzynio
+detail-repository-value =
+    .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Badnij za aktualizacyjami
+    .accesskey = B
+    .tooltiptext = Badnij za aktualizacyjami do tego rozszyrzynia
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Ôpcyje
+           *[other] Preferyncyje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Zmiyń ôpcyje tego rozszyrzynia
+           *[other] Zmiyń preferyncyje tego rozszyrzynia
+        }
+detail-rating =
+    .value = Ôcyna
+addon-restart-now =
+    .label = Resztartnij teroz
+disabled-unsigned-heading =
+    .value = Niykere rozszyrzynia sōm zastawiōne
+disabled-unsigned-description = Te rozszyrzynia niy były weryfikowane do używanio w aplikacyji { -brand-short-name }. Idzie <label data-l10n-name="find-addons">znojś jaki erzac</label> abo dać znać wydowcy, coby je zweryfikowoł.
 
 ## These are global warnings
 
