@@ -5,7 +5,7 @@
 <!ENTITY autoconfigWizard2.title         "Ρύθμιση υπάρχοντος λογαριασμού e-mail">
 
 <!ENTITY emailWizard.title               "Ρύθμιση της υπάρχουσας διεύθυνσης e-mail">
-<!ENTITY emailWizard.caption             "Χρήση της τρέχουσας διεύθυνσης email">
+<!ENTITY emailWizard.caption             "Χρήση της τρέχουσας διεύθυνσης e-mail">
 <!ENTITY name.label                      "Το όνομά σας:">
 <!ENTITY name.accesskey                  "ν">
 <!ENTITY name.placeholder                "Όνομα Επίθετο">
@@ -16,9 +16,9 @@
 <!ENTITY email.accesskey                 "ε">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
-<!ENTITY email3.placeholder              "Η διεύθυνση email σας">
+<!ENTITY email3.placeholder              "Η διεύθυνση e-mail σας">
 <!ENTITY email.text                      "Η υπάρχουσα διεύθυνση e-mail σας">
-<!ENTITY email.error                     "Μη έγκυρη διεύθυνση email">
+<!ENTITY email.error                     "Μη έγκυρη διεύθυνση e-mail">
 <!ENTITY password.label                  "Κωδικός πρόσβασης:">
 <!ENTITY password.accesskey              "δ">
 <!ENTITY password.placeholder            "Κωδικός πρόσβασης">
@@ -81,9 +81,9 @@
 <!ENTITY half-manual-test.accesskey      "ξ">
 <!ENTITY manual-edit.label               "Χειροκίνητη ρύθμιση">
 <!ENTITY manual-edit.accesskey           "ρ">
-<!ENTITY manual-config.label             "Ρύθμιση με χειροκίνητο τρόπο…">
+<!ENTITY manual-config.label             "Χειροκίνητη ρύθμιση…">
 <!ENTITY manual-config.accesskey         "M">
-<!ENTITY open-provisioner.label          "Απόκτηση νέας διεύθυνσης email…">
+<!ENTITY open-provisioner.label          "Απόκτηση νέας διεύθυνσης e-mail…">
 <!ENTITY open-provisioner.accesskey      "α">
 
 

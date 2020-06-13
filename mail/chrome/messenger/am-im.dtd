@@ -7,7 +7,7 @@
 <!ENTITY account.general               "Γενικά">
 <!ENTITY account.advanced              "Επιλογές για προχωρημένους">
 <!ENTITY account.name                  "Όνομα χρήστη:">
-<!ENTITY account.password              "Συνθηματικό:">
+<!ENTITY account.password              "Κωδικός πρόσβασης:">
 <!ENTITY account.alias                 "Ψευδώνυμο:">
 <!ENTITY account.newMailNotification   "Ειδοποίηση για νέα email">
 <!ENTITY account.autojoin              "Κανάλια με αυτόματη σύνδεση:">
