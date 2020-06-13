@@ -39,8 +39,8 @@ sentence. -->
 <!ENTITY  chatSound.label                     "Αναπαραγωγή ήχου">
 <!ENTITY  play.label                          "Αναπαραγωγή">
 <!ENTITY  play.accesskey                      "Α">
-<!ENTITY  systemSound.label                   "Προεπιλεγμένος ήχος συστήματος για νέο email">
-<!ENTITY  systemSound.accesskey               "ρ">
+<!ENTITY  systemSound.label                   "Προεπιλεγμένος ήχος συστήματος για νέα email">
+<!ENTITY  systemSound.accesskey               "Π">
 <!ENTITY  customsound.label                   "Χρήση του ακόλουθου αρχείου ήχου">
 <!ENTITY  customsound.accesskey               "χ">
 <!ENTITY  browse.label                        "Περιήγηση…">

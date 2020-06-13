@@ -8,7 +8,7 @@
 <!ENTITY editContactName.label "Όνομα:">
 <!ENTITY editContactName.accesskey "ν">
 
-<!ENTITY editContactEmail.label "E-mail:">
+<!ENTITY editContactEmail.label "Email:">
 <!ENTITY editContactEmail.accesskey "Δ">
 
 <!ENTITY editContactAddressBook.label "Ευρετήριο διευθύνσεων:">
