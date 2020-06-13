@@ -4,7 +4,7 @@
 
 <!ENTITY converterDialog.title "Μετατροπέας Τύπου Αποθήκευσης Μηνύματος">
 <!ENTITY converterDialog.continueButton "Συνέχεια">
-<!ENTITY converterDialog.cancelButton "Άκυρο">
+<!ENTITY converterDialog.cancelButton "Ακύρωση">
 <!ENTITY converterDialog.finishButton "Τέλος">
 <!ENTITY converterDialog.complete "Η μετατροπή ολοκληρώθηκε. Το &brandShortName; θα επανεκκινηθεί.">
 <!ENTITY converterDialog.error "Η μετατροπή απέτυχε.">
