@@ -8,13 +8,13 @@ system-integration-dialog =
     .buttonlabelaccept = Ορισμός ως προεπιλογή
     .buttonlabelcancel = Παράλειψη ενσωμάτωσης
     .buttonlabelcancel2 = Άκυρο
-default-client-intro = Χρήση του { -brand-short-name } ως την προεπιλεγμένη εφαρμογή για:
+default-client-intro = Ορισμός του { -brand-short-name } ως προεπιλογής για:
 unset-default-tooltip = Δεν είναι δυνατή η ακύρωση ορισμού του { -brand-short-name } ως προκαθορισμένου προγράμματος μέσα από το { -brand-short-name }. Για να ορίσετε άλλη εφαρμογή ως προεπιλογή πρέπει να χρησιμοποιήσετε το διάλογο της «Ορισμός ως προεπιλογή».
 checkbox-email-label =
     .label = Email
     .tooltiptext = { unset-default-tooltip }
 checkbox-newsgroups-label =
-    .label = Ομάδες συζητήσεων
+    .label = Ομάδες ειδήσεων
     .tooltiptext = { unset-default-tooltip }
 checkbox-feeds-label =
     .label = Ροές ειδήσεων
@@ -28,7 +28,7 @@ system-search-engine-name =
        *[other] { "" }
     }
 system-search-integration-label =
-    .label = Να επιτρέπεται στο { system-search-engine-name } η αναζήτηση μηνυμάτων
+    .label = Να επιτρέπεται στην { system-search-engine-name } η αναζήτηση μηνυμάτων
     .accesskey = ε
 check-on-startup-label =
     .label = Να γίνεται πάντα έλεγχος κατά την εκκίνηση του { -brand-short-name }

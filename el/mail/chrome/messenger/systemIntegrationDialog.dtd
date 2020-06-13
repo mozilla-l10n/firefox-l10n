@@ -6,10 +6,10 @@
 <!ENTITY acceptIntegration.label  "Ορισμός ως προεπιλογή">
 <!ENTITY cancelIntegration.label  "Παράλειψη ενσωμάτωσης">
 <!ENTITY cancelIntegration2.label  "Ακύρωση">
-<!ENTITY defaultClient.intro  "Χρήση του &brandShortName; ως την προεπιλεγμένη εφαρμογή για:">
+<!ENTITY defaultClient.intro  "Ορισμός του &brandShortName; ως προεπιλογής για:">
 
 <!ENTITY email.label "Email">
-<!ENTITY newsgroups.label "Ομάδες συζητήσεων">
+<!ENTITY newsgroups.label "Ομάδες ειδήσεων">
 <!ENTITY feeds.label "Ροές ειδήσεων">
 
 <!ENTITY unsetDefault.tooltip "Δεν είναι δυνατή η ακύρωση ορισμού του &brandShortName; ως προκαθορισμένου προγράμματος μέσα από το &brandShortName;. Για να ορίσετε άλλη εφαρμογή ως προεπιλογή πρέπει να χρησιμοποιήσετε το διάλογο της «Ορισμός ως προεπιλογή».">
@@ -17,5 +17,5 @@
 <!ENTITY checkOnStartup.label "Να γίνεται πάντα έλεγχος κατά την εκκίνηση του &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "γ">
 
-<!ENTITY searchIntegration.label "Να επιτρέπεται στο &searchIntegration.engineName; η αναζήτηση μηνυμάτων">
+<!ENTITY searchIntegration.label "Να επιτρέπεται στην &searchIntegration.engineName; η αναζήτηση μηνυμάτων">
 <!ENTITY searchIntegration.accesskey "ε">

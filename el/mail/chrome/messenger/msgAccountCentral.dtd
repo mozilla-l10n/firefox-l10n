@@ -6,7 +6,7 @@
 <!ENTITY readMsgsLink.label           "Ανάγνωση μηνυμάτων">
 <!ENTITY composeMsgLink.label         "Σύνταξη νέου μηνύματος">
 
-<!ENTITY newsSectionHdr.label         "Ομάδες συζητήσεων">
+<!ENTITY newsSectionHdr.label         "Ομάδες ειδήσεων">
 <!ENTITY subscribeNewsLink.label      "Διαχείριση ομάδων συζήτησης">
 
 <!ENTITY feedsSectionHdr.label        "Ροές ειδήσεων">
