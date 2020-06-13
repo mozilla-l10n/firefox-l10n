@@ -162,7 +162,7 @@ info-known-breaches-resolved =
     { $count ->
         [one] Вядомая ўцечка дадзеных пазначана як вырашаная
         [few] Вядомыя ўцечкі дадзеных адзначаны як вырашаныя
-       *[many] Вядомых уцечак дадзеных адзначана як вырашаных
+       *[many] Вядомых уцечак дадзеных адзначана як вырашаныя
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
@@ -200,6 +200,17 @@ monitor-breaches-unresolved-title = Вырашыце свае ўцечкі
 monitor-breaches-unresolved-description = Прааналізаваўшы падрабязнасці уцечкі і прыняўшы меры па абароне сваёй інфармацыі, вы можаце адзначыць уцечкі як вырашаныя.
 monitor-manage-breaches-link = Кіраваць уцечкамі дадзеных
     .title = Кіраваць уцечкамі дадзеных на { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Нядрэнна! Вы вырашылі ўсе вядомыя ўцечкі дадзеных.
+monitor-breaches-resolved-description = Калі ваш адрас пошты з'явіцца ў любых новых уцечках, мы паведамім вам.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } з { $numBreaches } уцечак пазначана як вырашаная
+        [few] { $numBreachesResolved } з { $numBreaches } уцечак пазначаны як вырашаныя
+       *[many] { $numBreachesResolved } з { $numBreaches } уцечак пазначана як вырашаныя
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } завершана
