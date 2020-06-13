@@ -18,7 +18,7 @@
 <!ENTITY alwaysAsk.label              "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">
 <!ENTITY alwaysAsk.accesskey          "Π">
 <!ENTITY chooseFolderWin.label        "Περιήγηση…">
-<!ENTITY chooseFolderWin.accesskey    "ξ">
+<!ENTITY chooseFolderWin.accesskey    "ρ">
 <!ENTITY chooseFolderMac.label        "Επιλογή…">
 <!ENTITY chooseFolderMac.accesskey    "π">
 

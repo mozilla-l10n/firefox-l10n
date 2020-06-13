@@ -24,7 +24,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Ταυτότητα">
-<!ENTITY identityDesc.label "Κάθε λογαριασμός έχει μια ταυτότητα, η οποία αποτελείται από πληροφορίες που σάς ταυτοποιούν στους παραλήπτες των μηνυμάτων σας.">
+<!ENTITY identityDesc.label "Κάθε λογαριασμός έχει μια ταυτότητα, η οποία αποτελείται από πληροφορίες που σας ταυτοποιούν στους παραλήπτες των μηνυμάτων σας.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Εισάγετε το όνομα που θέλετε να εμφανίζεται στο πεδίο &quot;Από&quot; των εξερχομένων μηνυμάτων σας.">
