@@ -4,7 +4,6 @@
 
 page-title = Информация для решения проблем
 page-subtitle = Эта страница содержит техническую информацию, которая может быть полезна, когда вы пытаетесь решить проблему. Если вы ищете ответы на типичные вопросы о { -brand-short-name }, обратитесь на наш <a data-l10n-name="support-link">веб-сайт поддержки</a>.
-
 crashes-title = Сообщения о падениях
 crashes-id = Идентификатор сообщения
 crashes-send-date = Дата отправки
@@ -115,8 +114,13 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Тип процесса
 sandbox-sys-call-number = Системный вызов
 sandbox-sys-call-args = Параметры
-safe-mode-title = Попробовать безопасный режим
+safe-mode-title = Попробуйте безопасный режим
 restart-in-safe-mode-label = Перезапустить с отключёнными дополнениями…
+clear-startup-cache-title = Попробуйте очистить кэш запуска
+clear-startup-cache-label = Очистить кэш запуска…
+startup-cache-dialog-title = Очистка кэша запуска
+startup-cache-dialog-body = Перезапустите { -brand-short-name }, чтобы очистить кэш запуска. Это не изменит ваши настройки и не удалит расширения, которые вы добавили в { -brand-short-name }.
+restart-button-label = Перезапустить
 
 ## Media titles
 
@@ -124,7 +128,6 @@ audio-backend = Звуковая подсистема
 max-audio-channels = Максимальное число каналов
 channel-layout = Предпочтительный формат каналов
 sample-rate = Предпочтительная частота дискретизации
-
 roundtrip-latency = Круговая задержка (стандартное отклонение)
 media-title = Медиа
 media-output-devices-title = Устройства вывода
@@ -177,7 +180,6 @@ report-crash-for-days =
         [few] Сообщения о падениях за последние { $days } дня
        *[many] Сообщения о падениях за последние { $days } дней
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -186,7 +188,6 @@ crashes-time-minutes =
         [few] { $minutes } минуты назад
        *[many] { $minutes } минут назад
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -195,7 +196,6 @@ crashes-time-hours =
         [few] { $hours } часа назад
        *[many] { $hours } часов назад
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -204,7 +204,6 @@ crashes-time-days =
         [few] { $days } дня назад
        *[many] { $days } дней назад
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -213,7 +212,6 @@ pending-reports =
         [few] Все сообщения о падениях (включая { $reports } ожидающих отправки сообщения в заданном диапазоне времени)
        *[many] Все сообщения о падениях (включая { $reports } ожидающих отправки сообщений в заданном диапазоне времени)
     }
-
 raw-data-copied = Необработанные данные скопированы в буфер обмена
 text-copied = Текст скопирован в буфер обмена
 
@@ -226,11 +224,9 @@ blocked-mismatched-version = Заблокировано из-за несовпа
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Заблокировано для вашей версии драйвера видеокарты. Попробуйте обновить ваш драйвер видеокарты до версии { $driverVersion } или более новой.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметры ClearType
-
 compositing = Композитинг
 hardware-h264 = Аппаратное декодирование H264
 main-thread-no-omtc = главный поток, без OMTC
@@ -245,7 +241,6 @@ virtual-monitor-disp = Виртуальный монитор
 
 found = Найден
 missing = Отсутствует
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Описание
@@ -269,23 +264,18 @@ webgl2-version = WebGL 2 - Версия драйвера
 webgl2-driver-extensions = WebGL 2 - Расширения драйвера
 webgl2-extensions = WebGL 2 - Расширения
 blocklisted-bug = Заблокировано из-за известных проблем
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = проблема { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Заблокировано; код ошибки { $failureCode }
-
 d3d11layers-crash-guard = Композитор D3D11
 d3d11video-crash-guard = Видеодекодер D3D11
 d3d9video-crash-buard = Видеодекодер D3D9
 d3d9video-crash-guard = Видеодекодер D3D9
 glcontext-crash-guard = OpenGL
-
 wmfvpxvideo-crash-guard = Видеодекодер WMF VPX
-
 reset-on-next-restart = Сбросить при следующем перезапуске
 gpu-process-kill-button = Завершить процесс видеокарты
 gpu-device-reset = Сбросить устройство
@@ -295,10 +285,8 @@ content-uses-tiling = Использует тайлинг (контент)
 off-main-thread-paint-enabled = Прорисовка вне основного потока активирована
 off-main-thread-paint-worker-count = Число воркеров отрисовки вне основного потока
 target-frame-rate = Целевая частота кадров
-
 min-lib-versions = Ожидаемая минимальная версия
 loaded-lib-versions = Используемая версия
-
 has-seccomp-bpf = Seccomp-BPF (Фильтрация системных вызовов)
 has-seccomp-tsync = Синхронизация потока Seccomp
 has-user-namespaces = Пользовательские пространства имён
@@ -311,18 +299,15 @@ sandbox-proc-type-content = контент
 sandbox-proc-type-file = содержимое файла
 sandbox-proc-type-media-plugin = медиаплагин
 sandbox-proc-type-data-decoder = декодер данных
-
 startup-cache-title = Кэш запуска
 startup-cache-disk-cache-path = Путь к дисковому кэшу
 startup-cache-ignore-disk-cache = Игнорировать дисковый кэш
 startup-cache-found-disk-cache-on-init = При инициализации обнаружен дисковый кэш
 startup-cache-wrote-to-disk-cache = Записано в дисковый кэш
-
 launcher-process-status-0 = Включён
 launcher-process-status-1 = Отключён из-за сбоя
 launcher-process-status-2 = Принудительно отключён
 launcher-process-status-unknown = Статус неизвестен
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -335,7 +320,6 @@ multi-process-status-6 = Отключены неподдерживаемым с�
 multi-process-status-7 = Отключены дополнениями
 multi-process-status-8 = Принудительно отключены
 multi-process-status-unknown = Статус неизвестнен
-
 async-pan-zoom = Асинхронное панорамирование/зум
 apz-none = нет
 wheel-enabled = включён ввод колесиком
@@ -343,7 +327,6 @@ touch-enabled = сенсорный ввод включён
 drag-enabled = перетаскивание полосы прокрутки включено
 keyboard-enabled = клавиатура включена
 autoscroll-enabled = автопрокрутка включена
-
 zooming-enabled = плавное масштабирование жестами включено
 
 ## Variables
