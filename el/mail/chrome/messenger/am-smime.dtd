@@ -17,6 +17,7 @@
 
 
 
+<!ENTITY encryptionCert2.message "Προσωπικό πιστοποιητικό για κρυπτογράφηση:">
 <!ENTITY digitalSign.certificate.button "Επιλογή…">
 <!ENTITY digitalSign.certificate.accesskey "Ε">
 <!ENTITY digitalSign.certificate_clear.button "Απαλοιφή">
@@ -36,6 +37,7 @@
 <!ENTITY manageDevices.label "Συσκευές ασφαλείας">
 <!ENTITY manageDevices.accesskey "υ">
 
+<!ENTITY signingCert2.message "Προσωπικό πιστοποιητικό για ψηφιακή υπογραφή:">
 
 
 
