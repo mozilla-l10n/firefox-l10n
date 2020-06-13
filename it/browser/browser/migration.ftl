@@ -50,9 +50,14 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Non è stato trovato alcun programma contenente segnalibri, cronologie o password.
+import-source-page-title = Importa impostazioni e dati
+import-items-page-title = Oggetti da importare
 import-items-description = Selezionare gli oggetti da importare:
+import-migrating-page-title = Importazione…
 import-migrating-description = I seguenti oggetti stanno per essere importati…
+import-select-profile-page-title = Seleziona un profilo
 import-select-profile-description = Sono disponibili i seguenti profili da importare:
+import-done-page-title = Importazione completata
 import-done-description = I seguenti oggetti sono stati correttamente importati:
 import-close-source-browser = Assicurarsi che il browser selezionato sia chiuso prima di procedere.
 # Displays which browser the bookmarks are being imported from
