@@ -241,6 +241,11 @@ addon-updates-view-updates = Pokoż ôstatnie aktualizacyje
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Autōmatycznie aktualizuj rozszyrzynia
+    .accesskey = A
+addon-updates-update-addons-automatically = Autōmatycznie aktualizuj rozszyrzynia
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -248,15 +253,64 @@ addon-updates-view-updates = Pokoż ôstatnie aktualizacyje
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Nastow wszyskie rozszyrzynia na autōmatyczno aktualizacyjo
+    .accesskey = N
+extensions-updates-reset-updates-to-manual =
+    .label = Nastow wszyskie rozszyrzynia na rynczno aktualizacyjo
+    .accesskey = N
+addon-updates-reset-updates-to-automatic = Nastow wszyskie rozszyrzynia na autōmatyczno aktualizacyjo
+    .accesskey = N
+addon-updates-reset-updates-to-manual = Nastow wszyskie rozszyrzynia na rynczno aktualizacyjo
+    .accesskey = N
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Aktualizacyjo rozszyrzyń
+extensions-updates-installed =
+    .value = Rozszyrzynia sōm zaktualizowane.
+extensions-updates-downloaded =
+    .value = Aktualizacyje rozszyrzyń sōm pobrane.
+extensions-updates-restart =
+    .label = Resztartnij, coby dokōńczyć instalacyjo.
+extensions-updates-none-found =
+    .value = Żodne aktualizacyje niy sōm znodniynte
+extensions-updates-manual-updates-found =
+    .label = Pokoż dostympne aktualizacyje
+extensions-updates-update-selected =
+    .label = Instaluj aktualizacyje
+    .tooltiptext = Instaluj aktualizacyje z tego wykazu
+addon-updates-updating = Aktualizacyjo rozszyrzyń
+addon-updates-installed = Rozszyrzynia sōm zaktualizowane.
+addon-updates-none-found = Żodne aktualizacyje niy sōm znodniynte
+addon-updates-manual-updates-found = Pokoż dostympne aktualizacyje
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Zainstaluj rozszyrzynie ze zbioru…
+    .accesskey = I
+addon-install-from-file-dialog-title = Ôbier rozszyrzynie do zainstalowanio
+addon-install-from-file-filter-name = Rozszyrzynia
+addon-open-about-debugging = Debuguj rozszyrzynia
+    .accesskey = b
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Regiyruj skrōtami do rozszyrzyń
+    .accesskey = R
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Regiyruj skrōtami do rozszyrzyń
+    .accesskey = R
+shortcuts-no-addons = Niy mosz załōnczōnych żodnych rozszyrzyń.
+shortcuts-no-commands = Te rozszyrzynia niy majōm skrōtōw:
+shortcuts-input =
+    .placeholder = Wkludź skrōt
+shortcuts-browserAction = Aktywuj rozszyrzynie
+shortcuts-browserAction2 = Aktywuj knefel na posku z noczyniami
+shortcuts-pageAction = Aktywuj akcyjo strōny
+shortcuts-sidebarAction = Przełōncz posek na rancie
 
 ## Recommended add-ons page
 
