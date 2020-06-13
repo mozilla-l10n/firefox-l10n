@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label         "Αρχική σελίδα του &brandShortName;">
+<!ENTITY messengerStartPage.label         "Αρχική σελίδα &brandShortName;">
 <!ENTITY enableStartPage.label            "Κατά την εκκίνηση του &brandShortName;, να εμφανίζεται η αρχική σελίδα στην περιοχή μηνυμάτων">
 <!ENTITY enableStartPage.accesskey        "τ">
 <!ENTITY location.label                   "Τοποθεσία:">

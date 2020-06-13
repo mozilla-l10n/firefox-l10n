@@ -15,7 +15,7 @@
 <!ENTITY abContextMenuButton.tooltip        "Προβολή μενού επιλογών ευρετηρίου διευθύνσεων">
 <!ENTITY addressbookPicker.label            "Ευρετήριο διευθύνσεων:">
 <!ENTITY addressbookPicker.accesskey        "υ">
-<!ENTITY searchContacts.label               "Αναζήτηση Επαφών:">
+<!ENTITY searchContacts.label               "Αναζήτηση επαφών:">
 <!ENTITY searchContacts.accesskey           "ν">
 <!ENTITY SearchNameOrEmail.label            "Όνομα ή e-mail">
 
