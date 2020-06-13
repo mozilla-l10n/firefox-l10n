@@ -177,7 +177,15 @@ password-warning =
 monitor-no-breaches-title = Добрыя навіны!
 monitor-view-report-link = Паглядзець справаздачу
     .title = Вырашыць праблемы, звязаныя з уцечкамі звестак, на { -monitor-brand-short-name }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved } завершана
 monitor-partial-breaches-motivation-title-start = Выдатны пачатак!
+monitor-partial-breaches-motivation-title-middle = Так трымаць!
+monitor-partial-breaches-motivation-title-end = Амаль гатова! Так трымаць.
+monitor-partial-breaches-motivation-description = Развяжыце рэшту сваіх уцечак дадзеных на { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Вырашыць уцечкі
+    .title = Вырашыць уцечкі на { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
