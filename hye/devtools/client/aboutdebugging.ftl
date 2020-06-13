@@ -170,6 +170,10 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = Հատկագրի կատարումը
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Ձեր դիտարկիչի կարգաբերումը համատեղելի չէ Service Workers֊ի հետ։ <a>Իմանալ աւելին</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -236,6 +240,10 @@ about-debugging-tmp-extension-remove-button = Հեռացնել
 about-debugging-tmp-extension-install-message = Ընտրէք manifest.json նիշը կամ .xpi/.zip պահոցը
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = Այս ցանցային ընդլայնումն ունի ժամանակաւոր նոյնացուցիչ։ <a>Իմանալ աւելին</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = ՏեղորոշչիՅայտարարագիր
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
