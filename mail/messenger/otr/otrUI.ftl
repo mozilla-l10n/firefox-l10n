@@ -29,6 +29,9 @@ alert-gone_insecure = Den krypterte samtalen med { $name } ble avsluttet.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-unseen = Identiteten til { $name } er ikke bekreftet ennå. Tilfeldig avlytting er ikke mulig, men med en viss innsats kan enkelte avlytte. Forhindre overvåking ved å verifisere identiteten til kontakten.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } kontakter deg fra en ukjent datamaskin. Tilfeldig avlytting er ikke mulig, men med en viss innsats kan enkelte avlytte. Forhindre overvåking ved å verifisere identiteten til kontakten.
 state-not_private = Den nåværende samtalen er ikke privat.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
