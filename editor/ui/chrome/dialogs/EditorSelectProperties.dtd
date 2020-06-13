@@ -40,7 +40,7 @@
 <!ENTITY AddOption.accesskey "θ">
 <!ENTITY AddOptGroup.label "Προσθήκη ομάδας">
 <!ENTITY AddOptGroup.accesskey "μ">
-<!ENTITY RemoveElement.label "Απομάκρυνση">
+<!ENTITY RemoveElement.label "Αφαίρεση">
 <!ENTITY RemoveElement.accesskey "ρ">
 <!ENTITY MoveElementUp.label "Μετάβαση πάνω">
 <!ENTITY MoveElementUp.accesskey "π">

@@ -11,7 +11,7 @@
 <!ENTITY EditLegendText.accesskey "ξ">
 <!ENTITY LegendAlign.label "Στοίχιση λεζάντας:">
 <!ENTITY LegendAlign.accesskey "τ">
-<!ENTITY AlignDefault.label "Προεπιλεγμένο">
+<!ENTITY AlignDefault.label "Προεπιλογή">
 <!ENTITY AlignLeft.label "Αριστερά">
 <!ENTITY AlignCenter.label "Μέσο">
 <!ENTITY AlignRight.label "Δεξιά">
