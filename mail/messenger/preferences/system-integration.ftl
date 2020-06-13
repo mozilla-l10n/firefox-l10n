@@ -31,5 +31,5 @@ system-search-integration-label =
     .label = Να επιτρέπεται στην { system-search-engine-name } η αναζήτηση μηνυμάτων
     .accesskey = ε
 check-on-startup-label =
-    .label = Να γίνεται πάντα έλεγχος κατά την εκκίνηση του { -brand-short-name }
-    .accesskey = γ
+    .label = Πάντα έλεγχος κατά την εκκίνηση του { -brand-short-name }
+    .accesskey = Π
