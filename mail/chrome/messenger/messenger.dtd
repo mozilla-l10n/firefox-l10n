@@ -443,7 +443,7 @@
 <!ENTITY openMessageWindowCmd.label "Открыть">
 <!ENTITY openMessageWindowCmd.accesskey "О">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openInConversationCmd.label "Открыть в чате">
+<!ENTITY openInConversationCmd.label "Открыть в разговоре">
 <!ENTITY openInConversationCmd.accesskey "а">
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Вложения">
@@ -546,7 +546,7 @@
 <!ENTITY forwardButton.label "Переслать">
 <!ENTITY fileButton.label "Поместить">
 <!ENTITY archiveButton.label "Архивировать">
-<!ENTITY openConversationButton.label "Чат">
+<!ENTITY openConversationButton.label "Разговор">
 <!ENTITY nextButton.label "Следующее">
 <!ENTITY nextButtonToolbarItem.label "Следующее непрочитанное">
 <!ENTITY nextMsgButton.label "Следующее">
@@ -589,8 +589,8 @@
 <!ENTITY forwardAsAttachment.tooltip "Переслать выбранное сообщение как вложение">
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
 <!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
-<!ENTITY openConversationButton.tooltip "Показать чат для выделенного сообщения">
-<!ENTITY openMsgConversationButton.tooltip "Показать чат для выделенного сообщения">
+<!ENTITY openConversationButton.tooltip "Показать разговор для выделенного сообщения">
+<!ENTITY openMsgConversationButton.tooltip "Показать разговор для выделенного сообщения">
 <!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
 <!ENTITY nextMsgButton.tooltip "Перейти к следующему сообщению">
 <!ENTITY previousButton.tooltip "Перейти к предыдущему непрочитанному сообщению">
@@ -770,7 +770,7 @@
      enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Открыть в новой вкладке">
 <!ENTITY contextOpenNewTab.accesskey "к">
-<!ENTITY contextOpenConversation.label "Открыть в чате">
+<!ENTITY contextOpenConversation.label "Открыть в разговоре">
 <!ENTITY contextOpenConversation.accesskey "ы">
 <!ENTITY contextOpenContainingFolder.label "Открыть в содержащей папке">
 <!ENTITY contextOpenContainingFolder.accesskey "ы">

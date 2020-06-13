@@ -6,9 +6,9 @@
 <!ENTITY offlineContactsHeader.label   "Отключённые контакты">
 <!ENTITY conversationsHeader.label     "Разговоры">
 <!ENTITY searchResultConversation.label "Результат поиска">
-<!ENTITY chat.noConv.title             "Чаты будут показаны здесь.">
-<!ENTITY chat.noConv.description       "Для начала чата используйте список контактов в левой панели.">
-<!ENTITY chat.noPreviousConv.description       "В данный момент &brandShortName; не хранит никаких предыдущих чатов с этим контактом.">
+<!ENTITY chat.noConv.title             "Разговоры будут показаны здесь.">
+<!ENTITY chat.noConv.description       "Для начала разговора используйте список контактов в левой панели.">
+<!ENTITY chat.noPreviousConv.description       "В данный момент &brandShortName; не хранит никаких предыдущих разговоров с этим контактом.">
 <!ENTITY chat.noAccount.title             "Учетные записи чата отсутствуют.">
 <!ENTITY chat.noAccount.description       "Позвольте &brandShortName; провести вас через процесс создания учётной записи чата.">
 <!ENTITY chat.accountWizard.button       "Начать">
@@ -17,20 +17,20 @@
 <!ENTITY chat.showAccountManager.button       "Показать статус чата">
 
 <!ENTITY chat.participants             "Участники:">
-<!ENTITY chat.previousConversations    "Предыдущие чаты:">
-<!ENTITY chat.ongoingConversation      "Текущий чат">
+<!ENTITY chat.previousConversations    "Предыдущие разговоры:">
+<!ENTITY chat.ongoingConversation      "Текущий разговор">
 
-<!ENTITY openConversationCmd.label     "Начать чат">
+<!ENTITY openConversationCmd.label     "Начать разговор">
 <!ENTITY openConversationCmd.accesskey "ч">
-<!ENTITY closeConversationCmd.label    "Закрыть чат">
+<!ENTITY closeConversationCmd.label    "Закрыть разговор">
 <!ENTITY closeConversationCmd.accesskey "а">
 <!ENTITY aliasCmd.label                "Переименовать">
 <!ENTITY aliasCmd.accesskey            "м">
 <!ENTITY deleteCmd.label               "Удалить">
 <!ENTITY deleteCmd.accesskey           "д">
 
-<!ENTITY openConversationButton.tooltip  "Начать чат">
-<!ENTITY closeConversationButton.tooltip "Закрыть чат">
+<!ENTITY openConversationButton.tooltip  "Начать разговор">
+<!ENTITY closeConversationButton.tooltip "Закрыть разговор">
 
 <!ENTITY addBuddyButton.label          "Добавить собеседника">
 <!ENTITY joinChatButton.label          "Присоединиться к чату">

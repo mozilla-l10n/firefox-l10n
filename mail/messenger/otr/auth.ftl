@@ -14,6 +14,7 @@ auth-your-fp-value = Отпечаток для вас, { $own_name }:
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Отпечаток для { $their_name }:
+auth-help = Подтверждение личности контакта помогает гарантировать, что разговор действительно является конфиденциальным, что делает очень трудным для третьей стороны подслушивать или манипулировать разговором.
 auth-helpTitle = Помощь в подтверждении
 auth-questionReceived = Это вопрос, заданный вашим контактом:
 auth-yes =

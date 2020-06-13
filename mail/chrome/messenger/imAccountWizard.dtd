@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Уведомлять о новой почте">
 <!ENTITY accountAliasGroupbox.caption "Локальный псевдоним">
 <!ENTITY accountAliasField.label      "Псевдоним:">
-<!ENTITY accountAliasInfo.label       "Он будет отображаться только при чатах с вашими собеседниками, другие контакты не смогут его видеть.">
+<!ENTITY accountAliasInfo.label       "Он будет отображаться только при разговорах с вашими собеседниками, другие контакты не смогут его видеть.">
 <!ENTITY accountProxySettings.caption "Настройки прокси">
 <!ENTITY accountProxySettings.change.label     "Изменить…">
 <!ENTITY accountProxySettings.change.accessKey "м">
