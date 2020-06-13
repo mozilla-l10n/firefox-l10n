@@ -32,6 +32,7 @@ auth-questionAndAnswer-label =
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
 auth-how = Hvordan vil du bekrefte identiteten til kontakten din?
+auth-qaInstruction = Tenk på et spørsmål som kun du og kontaktpersonen din kjenner svaret på. Skriv inn spørsmålet og svaret, og vent deretter på at kontaktpersonen din skal angi svaret. Hvis svarene ikke stemmer, kan kommunikasjonskanalen du bruker være under overvåking.
 auth-question = Skriv inn et spørsmål:
 auth-answer = Skriv inn svaret (skill mellom små og store bokstaver)
 auth-secret = Skriv inn hemmeligheten:

@@ -12,6 +12,9 @@ msgevent-encryption_error = Det oppstod en feil under kryptering av meldingen. M
 msgevent-connection_ended = { $name } har allerede lukket den krypterte forbindelsen til deg. For å unngå at du ved en feil sender en melding uten kryptering, ble ikke meldingen sendt. Avslutt den krypterte samtalen, eller start den på nytt.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-setup_error = Det oppstod en feil under forsøket på å starte en privat samtale med { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = Den siste meldingen til { $name } ble sendt på nytt.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
