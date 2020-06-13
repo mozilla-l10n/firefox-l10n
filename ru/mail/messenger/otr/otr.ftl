@@ -27,3 +27,40 @@ msgevent-rcvdmsg_unreadable = Вы получили нечитаемое заш�
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_malformed = Вы получили искаженное сообщение с данными от { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Техническое сообщение Heartbeat получено от { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Техническое сообщение Heartbeat отправлено { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = При попытке защитить ваш разговор с помощью OTR произошла непредвиденная ошибка.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = Следующее сообщение, полученное от { $name }, не было зашифровано: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Вы получили нераспознанное сообщение OTR от { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = Сообщение, отправленное { $name }, предназначалось для другого сеанса. Если вы вошли в систему несколько раз, сообщение могло быть получено в другом сеансе.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Начался конфиденциальный разговор с { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Начался зашифрованный разговор с неподтверждённым { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Успешно обновлен зашифрованный разговор с { $name }.
+error-enc = При шифровании сообщения произошла ошибка.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Вы отправили зашифрованные данные в адрес { $name }, который этого не ожидал.
+error-unreadable = Вы передали нечитаемое зашифрованное сообщение.
+error-malformed = Вы передали искаженное сообщение с данными.
+resent = [повторнопослано]
