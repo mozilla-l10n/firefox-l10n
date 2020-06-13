@@ -97,6 +97,34 @@ imported-edge-reading-list = Список для чтения (из Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Куки
+browser-data-cookies-label =
+    .value = Куки
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Журнал посещений и закладки
+           *[other] Журнал посещений
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Журнал посещений и закладки
+           *[other] Журнал посещений
+        }
+browser-data-formdata-checkbox =
+    .label = Журнал сохранённых форм
+browser-data-formdata-label =
+    .value = Журнал сохранённых форм
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Сохранённые логины и пароли
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Сохранённые логины и пароли
 browser-data-session-checkbox =
     .label = Окна и вкладки
 browser-data-session-label =
