@@ -52,3 +52,8 @@ resent = [sendt på nytt]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } har avsluttet den krypterte samtalen med deg; du bør gjøre det samme.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } har bedt om en Off-the-Record (OTR)-kryptert samtale. Du har imidlertid ikke et programtillegg som støtter det. Se https://en.wikipedia.org/wiki/Off-the-Record_Messaging for mer informasjon.
