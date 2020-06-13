@@ -147,13 +147,13 @@
 <!ENTITY messagePaneLayoutStyle.accesskey "Δ">
 <!ENTITY messagePaneClassic.label "Κλασσική προβολή">
 <!ENTITY messagePaneClassic.accesskey "Κ">
-<!ENTITY messagePaneWide.label "Προβολή σε πλάτος">
-<!ENTITY messagePaneWide.accesskey "Π">
+<!ENTITY messagePaneWide.label "Ευρεία προβολή">
+<!ENTITY messagePaneWide.accesskey "Ε">
 <!ENTITY messagePaneVertical.label "Κάθετη προβολή">
 <!ENTITY messagePaneVertical.accesskey "θ">
-<!ENTITY showFolderPaneCmd.label "Πλαίσιο φακέλων">
+<!ENTITY showFolderPaneCmd.label "Προβολή φακέλων">
 <!ENTITY showFolderPaneCmd.accesskey "φ">
-<!ENTITY showFolderPaneColsCmd.label "Στήλες στο Πλαίσιο Φακέλων">
+<!ENTITY showFolderPaneColsCmd.label "Στήλες προβολής φακέλων">
 <!ENTITY showFolderPaneColsCmd.accesskey "Φ">
 <!ENTITY showMessageCmd.label "Περιοχή μηνύματος">
 <!ENTITY showMessageCmd.accesskey "μ">
