@@ -50,19 +50,9 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Non è stato trovato alcun programma contenente segnalibri, cronologie o password.
-import-source =
-    .label = Importa impostazioni e dati
-import-items-title =
-    .label = Oggetti da importare
 import-items-description = Selezionare gli oggetti da importare:
-import-migrating-title =
-    .label = Importazione…
 import-migrating-description = I seguenti oggetti stanno per essere importati…
-import-select-profile-title =
-    .label = Seleziona un profilo
 import-select-profile-description = Sono disponibili i seguenti profili da importare:
-import-done-title =
-    .label = Importazione completata
 import-done-description = I seguenti oggetti sono stati correttamente importati:
 import-close-source-browser = Assicurarsi che il browser selezionato sia chiuso prima di procedere.
 # Displays which browser the bookmarks are being imported from
@@ -98,53 +88,51 @@ imported-edge-reading-list = Elenco di lettura (da Edge)
 ## normalized to just "edge" and "chrome" for these strings.
 
 browser-data-cookies-checkbox =
-  .label = Cookie
+    .label = Cookie
 browser-data-cookies-label =
-  .value = Cookie
-
+    .value = Cookie
 browser-data-history-checkbox =
-  .label = { $browser ->
-     [firefox] Cronologia di navigazione e segnalibri
-    *[other] Cronologia di navigazione
-  }
+    .label =
+        { $browser ->
+            [firefox] Cronologia di navigazione e segnalibri
+           *[other] Cronologia di navigazione
+        }
 browser-data-history-label =
-  .value = { $browser ->
-     [firefox] Cronologia di navigazione e segnalibri
-    *[other] Cronologia di navigazione
-  }
-
+    .value =
+        { $browser ->
+            [firefox] Cronologia di navigazione e segnalibri
+           *[other] Cronologia di navigazione
+        }
 browser-data-formdata-checkbox =
-  .label = Dati salvati nei moduli
+    .label = Dati salvati nei moduli
 browser-data-formdata-label =
-  .value = Dati salvati nei moduli
-
+    .value = Dati salvati nei moduli
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
-  .label = Credenziali e password salvate
+    .label = Credenziali e password salvate
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
-  .value = Credenziali e password salvate
-
+    .value = Credenziali e password salvate
 browser-data-bookmarks-checkbox =
-  .label = { $browser ->
-     [ie] Preferiti
-     [edge] Preferiti
-    *[other] Segnalibri
-  }
+    .label =
+        { $browser ->
+            [ie] Preferiti
+            [edge] Preferiti
+           *[other] Segnalibri
+        }
 browser-data-bookmarks-label =
-  .value = { $browser ->
-     [ie] Preferiti
-     [edge] Preferiti
-    *[other] Segnalibri
-  }
-
+    .value =
+        { $browser ->
+            [ie] Preferiti
+            [edge] Preferiti
+           *[other] Segnalibri
+        }
 browser-data-otherdata-checkbox =
-  .label = Altri dati
+    .label = Altri dati
 browser-data-otherdata-label =
-  .label = Altri dati
-
+    .label = Altri dati
 browser-data-session-checkbox =
     .label = Finestre e schede
 browser-data-session-label =
