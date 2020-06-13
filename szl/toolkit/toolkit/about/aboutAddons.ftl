@@ -461,6 +461,34 @@ addon-detail-private-browsing-disallow = Niy zwolej
 addon-badge-recommended =
     .title = Rykōmyndowane
     .alt = Rykōmyndowane
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } rykōmynduje ino rozszyrzynia, co trzimiōm sie naszych sztandardōw bezpieczyństwa i fungowanio
+    .aria-label = { addon-badge-recommended2.title }
+available-updates-heading = Dostympne aktualizacyje
+recent-updates-heading = Ôstatnie aktualizacyje
+release-notes-loading = Ladowanie…
+release-notes-error = Przi ladowaniu informacyji ô wydaniu pokozoł sie feler.
+addon-permissions-empty = Te rozszyrzynie niy potrzebuje żodnyj zgody
+recommended-extensions-heading = Rykōmyndowane rozszyrzynia
+recommended-themes-heading = Rykōmyndowane motywy
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Mosz grajfka do tworzynio? <a data-l10n-name="link">Zrychtuj swōj włosny motyw z Firefox Color.</a>
 
 ## Page headings
 
+extension-heading = Regiyruj rozszyrzyniami
+theme-heading = Regiyruj motywami
+plugin-heading = Regiyruj rozszyrzyniami plugin
+dictionary-heading = Regiyruj dykcjōnorzami
+locale-heading = Regiyruj godkami
+updates-heading = Regiyruj aktualizacyjami
+discover-heading = Nastow se aplikacyjo { -brand-short-name }
+shortcuts-heading = Regiyruj skrōtami do rozszyrzyń
+default-heading-search-label = Znojdź wiyncyj rozszyrzyń
+addons-heading-search-input =
+    .placeholder = Szukej na addons.mozilla.org
+addon-page-options-button =
+    .title = Noczynia do wszyskich rozszyrzyń
