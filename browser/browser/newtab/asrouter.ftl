@@ -236,6 +236,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Значок «Картинка в кар
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Быстрый обзор состояния защиты
 cfr-whatsnew-protections-cta-link = Посмотреть панель защиты
 cfr-whatsnew-protections-icon-alt = Значок щита
 
