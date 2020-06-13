@@ -64,3 +64,11 @@ error-not_priv = Вы отправили зашифрованные данные
 error-unreadable = Вы передали нечитаемое зашифрованное сообщение.
 error-malformed = Вы передали искаженное сообщение с данными.
 resent = [повторнопослано]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } закончил с вами зашифрованный разговор; вам следует сделать то же самое.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } запросил зашифрованный разговор Off-the-Record (OTR). Однако для поддержки этого у вас нет плагина. Для получения дополнительной информации прочтите https://ru.wikipedia.org/wiki/Off-the-Record_Messaging
