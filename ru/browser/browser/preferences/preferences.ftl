@@ -31,8 +31,8 @@ search-input-box =
     .style = width: 15.4em
     .placeholder =
         { PLATFORM() ->
-            [windows] Найти в настройках
-           *[other] Найти в настройках
+            [windows] Найти в Настройках
+           *[other] Найти в Настройках
         }
 managed-notice = Этим браузером управляет ваша организация.
 pane-general-title = Основные
