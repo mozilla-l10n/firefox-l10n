@@ -14,6 +14,7 @@ auth-your-fp-value = Porstowy wotćišć za was, { $own_name }:
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Porstowy wotćišć za { $their_name }:
+auth-help = Přepruwowanje kontaktneje identity pomha zarućić, zo rozmołwa je woprawdźe priwatna, štož třećim poćežuje, rozmołwu wotposkować abo manipulować.
 auth-helpTitle = Přepruwowanska pomoc
 auth-questionReceived = To je prašenje, kotrež je waš kontakt stajił:
 auth-yes =
