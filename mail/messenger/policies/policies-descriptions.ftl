@@ -24,6 +24,7 @@ policy-Cookies = Permetter u scumandar a websites da definir cookies.
 policy-DisabledCiphers = Deactivar la cifraziun.
 policy-DefaultDownloadDirectory = Definir l'ordinatur da standard per telechargiadas.
 policy-DisableAppUpdate = Impedir che { -brand-short-name } vegnia actualisà.
+policy-DisableDefaultClientAgent = Impedir ch'il client predefinì «default client agent» exequeschia x ina acziun. Funcziuna mo sin Windows; autras plattafurmas n'han betg l'agent.
 policy-DisableDeveloperTools = Bloccar l'access als utensils per sviluppaders.
 policy-DisableFeedbackCommands = Deactivar ils cumonds per trametter resuns en il menu d'agid (Trametter in resun e Rapportar ina pagina che engiona).
 policy-DisableForgetButton = Impedir l'access al buttun Emblidar.
@@ -55,6 +56,8 @@ policy-LegacyProfiles = Deactivar la funcziun che pretenda in profil separà per
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Activar tenor standard il parameter da cumportament tradiziunal SameSite per ils cookies.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revegnir al cumportament tradiziunal SameSite per ils cookies da tschertas websites specificas.
 
 ##
 
