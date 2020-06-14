@@ -9,17 +9,17 @@
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
 <!ENTITY day.1.Ddd "Toq'" >
-<!ENTITY day.1.Ddd.accesskey "S">
+<!ENTITY day.1.Ddd.accesskey "T">
 <!ENTITY day.2.Ddd "Luq'" >
-<!ENTITY day.2.Ddd.accesskey "M">
+<!ENTITY day.2.Ddd.accesskey "L">
 <!ENTITY day.3.Ddd "Maq'" >
-<!ENTITY day.3.Ddd.accesskey "T">
+<!ENTITY day.3.Ddd.accesskey "M">
 <!ENTITY day.4.Ddd "Miq'" >
-<!ENTITY day.4.Ddd.accesskey "W">
+<!ENTITY day.4.Ddd.accesskey "M">
 <!ENTITY day.5.Ddd "Juq'" >
-<!ENTITY day.5.Ddd.accesskey "h">
+<!ENTITY day.5.Ddd.accesskey "J">
 <!ENTITY day.6.Ddd "Wiq'" >
-<!ENTITY day.6.Ddd.accesskey "F">
+<!ENTITY day.6.Ddd.accesskey "W">
 <!ENTITY day.7.Ddd "Saq'" >
 <!ENTITY day.7.Ddd.accesskey "a">
 

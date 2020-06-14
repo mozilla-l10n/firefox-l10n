@@ -6,7 +6,7 @@
 <!ENTITY reminder.add.label                                "Titz'aqatisäx">
 <!ENTITY reminder.add.accesskey                            "A">
 <!ENTITY reminder.remove.label                             "Tiyuj">
-<!ENTITY reminder.remove.accesskey                         "R">
+<!ENTITY reminder.remove.accesskey                         "y">
 
 <!ENTITY reminder.reminderDetails.label                    "Rutzijol wachinel">
 <!ENTITY reminder.action.label                             "Tacha' jun B'eyal chi re ri Tzijol">

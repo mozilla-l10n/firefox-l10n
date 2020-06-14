@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Titz'uk jun k'ak'a' samaj" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Taq samaj" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Kek'ut etz'aqatisan Samaj">
 
 <!ENTITY calendar.today.button.label          "Wakami">
@@ -45,23 +46,23 @@
 
 
 <!ENTITY calendar.nextday.label                 "Jun chik Q'ij" >
-<!ENTITY calendar.prevday.label                 "Ruwa Q'ij" >
+<!ENTITY calendar.prevday.label                 "Jun Kan Q'ij" >
 <!ENTITY calendar.nextday.accesskey             "x" >
-<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.prevday.accesskey             "K" >
 <!ENTITY calendar.nextweek.label                "Jun Chik Apo Wuqq'ij" >
-<!ENTITY calendar.prevweek.label                "Jun kan Wuqq'ij" >
-<!ENTITY calendar.nextweek.accesskey            "x" >
-<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.prevweek.label                "Jun Kan Wuqq'ij" >
+<!ENTITY calendar.nextweek.accesskey            "h" >
+<!ENTITY calendar.prevweek.accesskey            "k" >
 <!ENTITY calendar.nextmonth.label               "Ri Jun Chik Ik'" >
-<!ENTITY calendar.prevmonth.label               "Jun kan Ik'" >
-<!ENTITY calendar.nextmonth.accesskey           "x" >
-<!ENTITY calendar.prevmonth.accesskey           "s" >
+<!ENTITY calendar.prevmonth.label               "Jun Kan Ik'" >
+<!ENTITY calendar.nextmonth.accesskey           "h" >
+<!ENTITY calendar.prevmonth.accesskey           "K" >
 
 
 <!ENTITY calendar.newevent.button.label         "K'ak'a' Molojri'ïl" >
 <!ENTITY calendar.newtask.button.label          "K'ak'a' Samaj" >
 <!ENTITY calendar.print.button.label            "Titz'ajb'äx" >
-<!ENTITY calendar.print.button.accesskey        "P">
+<!ENTITY calendar.print.button.accesskey        "b">
 
 <!ENTITY calendar.day.button.label              "Q'ij" >
 <!ENTITY calendar.week.button.label             "Wuqq'ij" >
@@ -74,9 +75,9 @@
 
 <!ENTITY calendar.task.filter.title.label           "Tik'ut pe">
 <!ENTITY calendar.task.filter.all.label             "Ronojel">
-<!ENTITY calendar.task.filter.all.accesskey         "A">
+<!ENTITY calendar.task.filter.all.accesskey         "R">
 <!ENTITY calendar.task.filter.today.label           "Wakami">
-<!ENTITY calendar.task.filter.today.accesskey       "T">
+<!ENTITY calendar.task.filter.today.accesskey       "W">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
@@ -103,7 +104,6 @@
 <!ENTITY calendar.context.cutevent.label              "Tiqupïx">
 <!ENTITY calendar.context.copyevent.label             "Tiwachib'ëx">
 <!ENTITY calendar.context.pasteevent.label            "Titz'ajb'äx">
-
 
 
 
