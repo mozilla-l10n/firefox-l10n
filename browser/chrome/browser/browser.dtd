@@ -253,7 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Hapni kuadratin e mesazhit të instalimit të shtesës">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Administroni leje përftimesh nga kanavaca">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Hapni panelin për depozitim jashtë linje">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Hapni panelin e mesazhit Ruaje fjalëkalimin">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Hapni panel mesazhi ruajtje fjalëkalimi">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administroni përdorim shtojcash">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ndryshoni zgjedhjen për nëse mund të merrni njoftime nga sajti apo jo">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Depozitoni të dhëna në Depozitë të Qëndrueshme">
