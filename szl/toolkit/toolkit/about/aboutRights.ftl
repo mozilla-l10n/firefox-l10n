@@ -93,3 +93,21 @@ rights-webservices-term-4 =
     Po twojij strōnie je cołke ryzyko ôbiyranio usug do swojich celōw, a tyż jejich jakości i sprowności.
     Niykere ôrdōnkowe systymy niy przizwolajōm na takie ôdkozanie abo ôbgraniczynie 
     bazowych porynczyń, beztōż ta informacyjo może sie ciebie niy tykać.</strong>
+rights-webservices-term-5 =
+    <strong>Ôkrōm przipadkōw wymoganych ôd ôrdōnku, ôrganizacyjo { -vendor-short-name } 
+    i jeji spōłpracowniki, posiedziciele licyncyjōw i partnery niy sōm ôdpowiedzialni
+    za żodne - niycylowe, szpecjalne, przipadkowe, ani wyjōntkowe szkody,
+    co by sie brały ze użycio aplikacyje { -brand-short-name } i jeji usug, abo by były ś niōm zwiōnzane. 
+    Cołko ôdpowiedzialność przi tych warunkach niy ma wiynkszo jak 500$ (piyńcet amerykańskich dolarōw)
+    Niykere ôrdōnkowe systymy niy przizwolajōm na takie ôdkazowanie abo ôbgraniczanie wertu szkody,
+    beztōż ta informacyjo może sie ciebie niy tykać.</strong>
+rights-webservices-term-6 =
+    { -vendor-short-name } może roz za czas po samości aktualizować te warunki.
+    Te warunki niy śmiōm być zmiyniane abo ôdkazowane bez pisymnyj
+    zgody ôd ôrganizacyje { -vendor-short-name }.
+rights-webservices-term-7 =
+    Te warunki zdo sie rozpatrować podug ôdrōnku stanu Kalifornijo (USA)
+    krōm kōnfliktu ôrdōnkowych uzdań. Jak jaki kōnsek tych warunkōw pokoże sie
+    za felerny abo niy do wkludzynio, wszyskie inksze ôstowajōm we pełnyj płatności.
+    Jak by sie pokozoł kōnflikt miyndzy przłożōnōm wersyjōm tych warunkōw a jejich
+    angelskim ôrginałym, we wercie bydzie angelsko wersyjo.
