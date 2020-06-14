@@ -70,3 +70,12 @@ rights-webservices-unbranded =
     Tukej winiyn być pokozany przeglōnd usug strōn skuplowanych z tym produktym,
     a w nim insztrukcyje, jak je zastawiać.
 rights-webservices-term-unbranded = Wszyskie warunki usugi płatne do tego produktu winny być sam wystawiōne.
+rights-webservices-term-1 =
+    Ôrganizacyjo { -vendor-short-name } i jej spōłpracowniki, posiedziciele licyncyjōw i partnery
+    robiōm przi wystowianiu nojakuratniyjszych i nojaktualniyjszych usug. Niy mogymy ale
+    zagwarantować, że informacyje z tych usug bydōm wszechstrōnne i bez żodnych felerōw.
+    Bez przikłod usuga prywatnego przeglōndanio może niy poznać jakich ryzykownych strōn
+    abo felernie poznać jako bezpieczno strōna za niybezpieczno. A w usudze poznowanio placu
+    wszyskie informacyje ô placu, co dostowōmy ôd ôperatorōw usugi, sōm ino przibliżōne,
+    ani my, ani ôperatory usugi niy poradzymy zagwarantować akuratności danych ô placu.
+rights-webservices-term-2 = { -vendor-short-name } może ze samości skōńczyć abo zmiynić używanie Usug.
