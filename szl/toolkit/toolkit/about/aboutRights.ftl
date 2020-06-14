@@ -49,3 +49,16 @@ rights-webservices =
     ta funkcyjo abo usuga. Insztrukcyje, coby to zrobić do kożdyj funkcyji abo usugi
     idzie znojść <a data-l10n-name="mozilla-disable-service-link">tukej</a>. Inksze
     funkcyje i usugi idzie zastawić w preferyncyjach aplikacyji.
+rights-safebrowsing =
+    <strong>Bezpieczne przeglōndanie: </strong>Niy doradzōmy wyłōnczynio funkcyje 
+    bezpiecznego przeglōndanio, bo skuli tego możesz nawiydzić niybezpieczne strōny.
+    Jak chcesz blank zastawić ta funkcyjo, postympuj podug tych krokōw:
+rights-safebrowsing-term-1 = Ôdewrzij preferyncyje aplikacyje
+rights-safebrowsing-term-2 = Ôbier panel Bapieczyństwo
+rights-safebrowsing-term-3 = Ôdznocz ôpcyjo „{ enableSafeBrowsing-label }”
+enableSafeBrowsing-label = Szperuj niybezpieczno i ôszydno zawartość
+rights-safebrowsing-term-4 = Bezpieczne przeglōndanie je zaroz wyłōnczōne
+rights-locationawarebrowsing =
+    <strong>Przeglōndanie z poznowaniym placu: </strong> to je funkcyjo, co zawdy 
+    potrzebuje twojij zgody, coby fungować. Żodyn roz informacyjo ô placu niy bydzie 
+    posyłano bez twojij zgody. Jak chcesz blank zastawić ta funkcyjo, postympuj podug tych krokōw:
