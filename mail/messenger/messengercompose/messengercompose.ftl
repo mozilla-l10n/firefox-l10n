@@ -7,6 +7,21 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Fjern feltet { $type }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } med én adresse, brug venstre piletast for at flytte fokus til den.
+       *[other] { $type } med { $count } adresser, brug venstre piletast for at flytte fokus til dem.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: tryk på Enter-tasten for at redigere, Tryk på Slet-tasten for at fjerne.
+       *[other] { $email }, 1 af { $count }: tryk på Enter-tasten for at redigere, Tryk på Slet-tasten for at fjerne.
+    }
 pill-action-edit =
     .label = Rediger adresse
     .accesskey = R

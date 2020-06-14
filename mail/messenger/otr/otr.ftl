@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-encryption_required_part1 = Du forsøgte at sende en ukrypteret meddelelse til { $name }. Ukrypterede meddelelser ikke tilladt.
 msgevent-encryption_required_part2 = Forsøger at starte en privat samtale. Din meddelelse sendes igen, når den private samtale starter.
 msgevent-encryption_error = Der opstod en fejl under kryptering af din meddelelse. Meddelelsen blev ikke sendt.
 # Variables:
