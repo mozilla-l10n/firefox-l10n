@@ -117,6 +117,32 @@ browser-data-formdata-checkbox =
     .label = Datas da formulars memorisadas
 browser-data-formdata-label =
     .value = Datas da formulars memorisadas
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Infurmaziuns d'annunzia e pleds-clav memorisads
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Infurmaziuns d'annunzia e pleds-clav memorisads
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Segnapaginas
+            [edge] Segnapaginas
+           *[other] Segnapaginas
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Segnapaginas
+            [edge] Segnapaginas
+           *[other] Segnapaginas
+        }
+browser-data-otherdata-checkbox =
+    .label = Autras datas
+browser-data-otherdata-label =
+    .label = Autras datas
 browser-data-session-checkbox =
     .label = Fanestras e tabs
 browser-data-session-label =

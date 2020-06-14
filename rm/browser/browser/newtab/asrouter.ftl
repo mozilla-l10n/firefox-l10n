@@ -229,6 +229,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icona da maletg-en-maletg
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Las mesiras da protecziun en in sguard
 
 ## Better PDF message
 
