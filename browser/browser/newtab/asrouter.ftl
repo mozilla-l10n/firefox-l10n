@@ -235,9 +235,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bild-im-Bild-Symbol
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Schutzmaßnahmen auf einen Blick
+cfr-whatsnew-protections-body = Die Schutzmaßnahmen-Übersicht fasst Informationen über Datenlecks und die Passwortverwaltung zusammen. Sie können jetzt sehen, wie viele Probleme aus Datenlecks Sie behoben haben und ob einige Ihrer Passwörter in Datenlecks offengelegt wurden.
 cfr-whatsnew-protections-cta-link = Schutzmaßnahmen-Übersicht anzeigen
 cfr-whatsnew-protections-icon-alt = Schild-Symbol
 
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Besseres PDF-Erlebnis
+cfr-whatsnew-better-pdf-body = PDF-Dokumente werden jetzt direkt in { -brand-short-name } geöffnet, damit Sie ohne ein Wechseln der Anwendung weiterarbeiten können.
