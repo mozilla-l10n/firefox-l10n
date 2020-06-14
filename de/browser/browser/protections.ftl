@@ -95,7 +95,7 @@ lockwise-passwords-stored =
 lockwise-scanned-text-breached-logins =
     { $count ->
         [one] Ein Passwort wurde möglicherweise bei einem Datenleck offengelegt.
-       *[other] { $count } Passwörter wurden möglicherweise bei einem Datenleck offengelegt.
+       *[other] { $count } Passwörter wurden möglicherweise durch Datenlecks offengelegt.
     }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
@@ -152,8 +152,8 @@ info-known-breaches-found =
 # to your localization, because it would result in the number showing twice.
 info-known-breaches-resolved =
     { $count ->
-        [one] Bekanntes Datenlecks als erledigt markiert
-       *[other] Bekannte Datenlecks als erledigt markiert
+        [one] bekanntes Datenlecks als erledigt markiert
+       *[other] bekannte Datenlecks als erledigt markiert
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
@@ -195,8 +195,8 @@ monitor-breaches-resolved-description = Wenn Ihre E-Mail-Adresse in neuen Datenl
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
 monitor-partial-breaches-title =
     { $numBreaches ->
-        [one] { $numBreachesResolved } von { $numBreaches } Datenlecks als erledigt markiert
-       *[other] { $numBreachesResolved } von { $numBreaches } Datenleck als erledigt markiert
+        [one] { $numBreachesResolved } von { $numBreaches } Datenleck als erledigt markiert
+       *[other] { $numBreachesResolved } von { $numBreaches } Datenlecks als erledigt markiert
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
