@@ -38,3 +38,25 @@ pill-action-move-bcc =
     .label = Verschieben zu Bcc
     .accesskey = B
 
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value = { $count ->
+        [1]      { $count } Anhang
+        *[other] { $count } Anhänge
+    }
+    .accesskey = g
+
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext = { $count ->
+        [1]      { $count } Anhang
+        *[other] { $count } Anhänge
+    }
+
+#   { attachment-bucket-count.accesskey } - Do not localize this message.
+key-toggle-attachment-pane =
+    .key = { attachment-bucket-count.accesskey }
+
+button-return-receipt =
+    .label = Empfangsbestätigung
+    .tooltiptext = Eine Empfangsbestätigung für diese Nachricht anfordern

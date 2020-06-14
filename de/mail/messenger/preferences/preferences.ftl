@@ -67,6 +67,28 @@ privacy-junk-header = Junk
 
 privacy-data-collection-header = Datenerfassung und -übermittlung
 
+collection-header = Datenerhebung durch { -brand-short-name } und deren Verwendung
+
+collection-description = Wir lassen Ihnen die Wahl, ob Sie uns Daten senden, und sammeln nur die Daten, welche erforderlich sind, um { -brand-short-name } für jeden anbieten und verbessern zu können. Wir fragen immer um Ihre Erlaubnis, bevor wir persönliche Daten senden.
+collection-privacy-notice = Datenschutzhinweis
+
+collection-health-report-telemetry-disabled = Sie gestatten { -vendor-short-name } nicht mehr, technische und Interaktionsdaten zu erfassen. Alle bisherigen Daten werden innerhalb von 30 Tagen gelöscht.
+collection-health-report-telemetry-disabled-link = Weitere Informationen
+
+collection-health-report =
+    .label = { -brand-short-name } erlauben, Daten zu technischen Details und Interaktionen an { -vendor-short-name } zu senden
+    .accesskey = t
+collection-health-report-link = Weitere Informationen
+
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Datenübermittlung ist für diese Build-Konfiguration deaktiviert
+
+collection-backlogged-crash-reports =
+    .label = Nicht gesendete Absturzberichte automatisch von { -brand-short-name } senden lassen
+    .accesskey = g
+collection-backlogged-crash-reports-link = Weitere Informationen
+
 privacy-security-header = Sicherheit
 
 privacy-scam-detection-title = Betrugsversuche
@@ -201,6 +223,9 @@ tray-icon-label =
     .label = Im Infobereich anzeigen
     .accesskey = n
 
+mail-system-sound-label =
+    .label = Systemklang für neue Nachrichten
+    .accesskey = y
 mail-custom-sound-label =
     .label = Benutzerdefinierter Klang
     .accesskey = e
@@ -261,7 +286,7 @@ config-editor-button =
     .label = Konfiguration bearbeiten…
     .accesskey = K
 
-return-receipts-description = Den Umgang mit Empfangsbestätigungen (MDN) regeln:
+return-receipts-description = Den Umgang mit Empfangsbestätigungen (MDN) in { -brand-short-name } festlegen:
 return-receipts-button =
     .label = Empfangsbestätigungen…
     .accesskey = E
@@ -858,5 +883,29 @@ chat-header-label =
     .label = Kopfzeilen anzeigen
     .accesskey = K
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder = { PLATFORM() ->
+        [windows] In Einstellungen suchen
+        *[other] In Einstellungen suchen
+    }
+
 ## Preferences UI Search Results
 
+search-results-header = Suchergebnisse
+
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message = { PLATFORM() ->
+    [windows] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
+    *[other] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
+}
+
+search-results-help-link = Benötigen Sie Hilfe? Dann besuchen Sie die <a data-l10n-name="url">Hilfeseite für { -brand-short-name }</a>.
