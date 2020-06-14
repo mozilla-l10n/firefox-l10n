@@ -41,3 +41,11 @@ rights-intro-point-6 =
     Coby puścić niykere zorty zawartości video, { -brand-short-name }
     pobiyro moduły deszyfrowanio tyj zawartości ôd inkszych firmōw.
 rights-webservices-header = Informacyje usugi z neca aplikacyje { -brand-full-name }
+rights-webservices =
+    { -brand-full-name } używo informacyjnych usug z neca („Usug“), coby fungowały
+    niykere funkcyje z tyj binarnyj wersyje aplikacyje { -brand-short-name } 
+    podug prawideł pokozanych niżyj. Jak niy chcesz używać jednyj abo
+    wiyncyj usug abo niy dowosz zgody na take prawidła, to możesz zastawić 
+    ta funkcyjo abo usuga. Insztrukcyje, coby to zrobić do kożdyj funkcyji abo usugi
+    idzie znojść <a data-l10n-name="mozilla-disable-service-link">tukej</a>. Inksze
+    funkcyje i usugi idzie zastawić w preferyncyjach aplikacyji.
