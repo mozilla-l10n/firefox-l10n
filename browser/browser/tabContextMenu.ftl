@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = เลิกทำการปิดแท็บ
     .accesskey = ด
+tab-context-close-multiple-tabs =
+    .label = ปิดหลายแท็บ
+    .accesskey = ล
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] เรียกคืนแท็บที่เพิ่งปิด
+           *[other] เรียกคืนแท็บที่เพิ่งปิด
+        }
+    .accesskey = ร
 close-tab =
     .label = ปิดแท็บ
     .accesskey = ป
