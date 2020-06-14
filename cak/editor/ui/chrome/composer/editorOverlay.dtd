@@ -283,7 +283,7 @@
 <!ENTITY tableSplitCell.label "Tijach Ch'utikajtz'ik">
 <!ENTITY tableSplitCell.accesskey "C">
 <!ENTITY convertToTable.label "Tinuk' Cha'on Kemon Kajtz'ik">
-<!ENTITY convertToTable.accesskey "r">
+<!ENTITY convertToTable.accesskey "n">
 <!ENTITY tableProperties.label "Taq Richinil Kemon Kajtz'ik…">
 <!ENTITY tableProperties.accesskey "i">
 

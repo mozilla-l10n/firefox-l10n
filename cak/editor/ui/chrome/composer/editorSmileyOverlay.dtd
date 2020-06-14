@@ -7,7 +7,7 @@
 <!ENTITY insertSmiley.accesskey "T">
 
 <!ENTITY smiley1Cmd.label "Tze'enïk">
-<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.accesskey "T">
 <!ENTITY smiley1Cmd.tooltip "Tich'ik jun tze'n ruwäch">
 <!ENTITY smiley2Cmd.label "B'is">
 <!ENTITY smiley2Cmd.accesskey "B">
@@ -55,4 +55,3 @@
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Tich'ik jun chi'aj-e-tz'apäl paläj">
 <!ENTITY SmileButton.tooltip "Tich'ik jun tze'n paläj">
-

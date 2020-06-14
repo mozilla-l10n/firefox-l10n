@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Nuk'unel"> 
+<!ENTITY editorWindow.titlemodifier "Nuk'unel">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
@@ -36,7 +36,7 @@
 <!ENTITY grid.label "K'ojlib'äl k'ïy kajtz'ik">
 <!ENTITY grid.accesskey "j">
 <!ENTITY pageProperties.label "Rub'i' Ruxaq chuqa' taq Ichinil…">
-<!ENTITY pageProperties.accesskey "g">
+<!ENTITY pageProperties.accesskey "x">
 
 <!-- Tools menu items -->
 <!ENTITY validateCmd.label "Jikib'anem HTML">

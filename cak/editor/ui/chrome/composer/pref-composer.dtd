@@ -4,6 +4,8 @@
 
 <!-- extracted from content/pref-composer.xul -->
 
+<!-- extracted from content/pref-composer.xhtml -->
+
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
@@ -13,7 +15,7 @@
 <!ENTITY  documentsInMenu.accesskey     "k">
 <!ENTITY  savingFiles.title             "Toq Ye'ayäk o Nataluj Kitzijol taq Ruxaq">
 <!ENTITY  preserveExisting.label        "Tiyak ri qitzij ruxe'el b'anikil">
-<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.accesskey    "y">
 <!ENTITY  preserveExisting.tooltip      "Keyak ri taq ropinïk cholaj chuqa' ri nab'ey rub'anikil ruxaq">
 <!ENTITY  saveAssociatedFiles.label     "Keyak taq wachib'äl chuqa' ch'aqa' chik taq yakb'äl kiximon ki' toq yeyak taq ruxaq">
 <!ENTITY  saveAssociatedFiles.accesskey "K">
