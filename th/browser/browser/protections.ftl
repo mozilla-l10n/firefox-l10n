@@ -136,6 +136,13 @@ info-known-breaches-found =
        *[other] การรั่วไหลของข้อมูลที่เรารู้เกิดขึ้นที่ได้เปิดเผยข้อมูลของคุณ
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+       *[other] ข้อมูลที่รั่วไหลที่พบถูกทำเครื่องหมายว่าแก้ไขแล้ว
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -150,8 +157,26 @@ password-warning =
     { $count ->
        *[other] การเข้าสู่ระบบที่บันทึกไว้อาจถูกเปิดเผยในข้อมูลที่รั่วไหล เปลี่ยนรหัสผ่านนี้เพื่อความปลอดภัยออนไลน์ที่ดีกว่า <a data-l10n-name="lockwise-link">ดูการเข้าสู่ระบบที่บันทึกไว้</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+       *[other] รหัสผ่านที่ถูกเปิดเผยในข้อมูลที่รั่วไหลที่ยังไม่ถูกแก้ไข
+    }
 monitor-no-breaches-title = ข่าวดี!
+monitor-no-breaches-description = คุณไม่มีการรั่วไหลที่พบ หากมีการเปลี่ยนแปลง เราจะแจ้งให้คุณทราบ
+monitor-view-report-link = ดูรายงาน
+    .title = แก้ไขการรั่วไหลบน { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = แก้ไขการรั่วไหลของคุณ
+monitor-manage-breaches-link = จัดการการรั่วไหล
+    .title = จัดการการรั่วไหลบน { -monitor-brand-short-name }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% เสร็จสมบูรณ์
 monitor-partial-breaches-motivation-title-start = เริ่มต้นใช้งาน!
+monitor-resolve-breaches-link = แก้ไขการรั่วไหล
+    .title = แก้ไขการรั่วไหลบน { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
