@@ -44,7 +44,7 @@ protection-report-page-summary-default = { -brand-short-name } schützt Ihre Pri
 protection-report-settings-link = Datenschutz- und Sicherheitseinstellungen verwalten
 etp-card-title-always = Verbesserter Tracking-Schutz: Immer an
 etp-card-title-custom-not-blocking = Verbesserter Tracking-Schutz: AUS
-etp-card-content-description = { -brand-short-name } verhindert automatisch, dass Unternehmen Ihnen heimlich im Internet folgen.
+etp-card-content-description = { -brand-short-name } verhindert automatisch, dass Unternehmen heimlich Ihre Aktivitäten im Internet verfolgen.
 protection-report-etp-card-content-custom-not-blocking = Derzeit sind alle Schutzmaßnahmen deaktiviert. Die zu blockierenden Elemente zur Aktivitätenverfolgung können in den Schutzmaßnahmen-Einstellungen von { -brand-short-name } festgelegt werden.
 protection-report-manage-protections = Einstellungen verwalten
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
