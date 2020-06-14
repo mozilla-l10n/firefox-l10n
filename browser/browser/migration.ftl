@@ -97,6 +97,26 @@ imported-edge-reading-list = Glista da lectura (dad Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Cronologia da navigaziun e segnapaginas
+           *[other] Cronologia da navigaziun
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Cronologia da navigaziun e segnapaginas
+           *[other] Cronologia da navigaziun
+        }
+browser-data-formdata-checkbox =
+    .label = Datas da formulars memorisadas
+browser-data-formdata-label =
+    .value = Datas da formulars memorisadas
 browser-data-session-checkbox =
     .label = Fanestras e tabs
 browser-data-session-label =
