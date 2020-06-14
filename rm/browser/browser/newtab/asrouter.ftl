@@ -230,6 +230,11 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icona da maletg-en-maletg
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Las mesiras da protecziun en in sguard
+cfr-whatsnew-protections-body = La survista da las protecziuns includa infurmaziuns davart sperditas da datas e l'administraziun da pleds-clav. Ti pos ussa persequitar quants problems en connex cun sperditas da datas che ti has schlià e vesair sche ti has anc pleds-clav memorisads ch'èn pertutgads da sperditas da datas.
+cfr-whatsnew-protections-cta-link = Mussar la survista da las protecziuns
+cfr-whatsnew-protections-icon-alt = Icona dal scut
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Meglra experientscha en connex cun PDFs
+cfr-whatsnew-better-pdf-body = PDFs vegnan ussa averts direct en { -brand-short-name } per betg cumplitgar tes process da lavur.
