@@ -18,3 +18,6 @@ features-responsive-desc = Փորձարկել կայքերը Ձեր դիտարկ
 features-visual-editing-title = Տեսողական խմբագրում
 features-visual-editing-desc = Բարեհնչիւն շարժապատկերներ, հաւասարեցում եւ լիցք: <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Արդիւնաւէտութիւն
+features-performance-desc = Բացել թոյլ տեղերը, պարզեցնել գործընթացները, կատարելագործել արդիւնաւէտութիւնը։<a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-memory-title = Յիշողութիւն
+features-memory-desc = Գտէք յիշողութեան արտահոսքը եւ նուազեցրէք սարքի աւգտագործումը տուեալ յաւելուածի կողմից։ <a data-l10n-name="learn-more">{ features-learn-more }</a>
