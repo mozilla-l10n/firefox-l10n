@@ -97,6 +97,26 @@ imported-edge-reading-list = รายการอ่าน (จาก Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = คุกกี้
+browser-data-cookies-label =
+    .value = คุกกี้
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] ประวัติการเรียกดูและที่คั่นหน้า
+           *[other] ประวัติการเรียกดู
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] ประวัติการเรียกดูและที่คั่นหน้า
+           *[other] ประวัติการเรียกดู
+        }
+browser-data-formdata-checkbox =
+    .label = ประวัติแบบฟอร์มที่บันทึกไว้
+browser-data-formdata-label =
+    .value = ประวัติแบบฟอร์มที่บันทึกไว้
 browser-data-session-checkbox =
     .label = หน้าต่างและแท็บ
 browser-data-session-label =
