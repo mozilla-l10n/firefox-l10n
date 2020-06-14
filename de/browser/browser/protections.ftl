@@ -38,9 +38,9 @@ etp-card-content = Skripte zur Aktivitätenverfolgung (Online-Tracker) folgen Ih
 protection-report-webpage-title = Schutzmaßnahmen-Übersicht
 protection-report-page-content-title = Schutzmaßnahmen-Übersicht
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
-protection-report-page-summary = { -brand-short-name } kann Ihre Privatsphäre während Sie im Internet surfen im Hintergrund schützen. Dies ist eine personalisierte Zusammenfassung dieser Schutzmaßnahmen und enthält auch Funktionen, mit denen Sie die Kontrolle über Ihre Online-Sicherheit übernehmen können.
+protection-report-page-summary = { -brand-short-name } kann Ihre Privatsphäre im Hintergrund schützen, während Sie im Internet surfen. Dies ist eine personalisierte Zusammenfassung dieser Schutzmaßnahmen und enthält auch Funktionen, mit denen Sie die Kontrolle über Ihre Online-Sicherheit übernehmen können.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = { -brand-short-name } schützt Ihre Privatsphäre während Sie im Internet surfen im Hintergrund. Dies ist eine personalisierte Zusammenfassung dieser Schutzmaßnahmen und enthält auch Funktionen, mit denen Sie die Kontrolle über Ihre Online-Sicherheit übernehmen können.
+protection-report-page-summary-default = { -brand-short-name } schützt Ihre Privatsphäre im Hintergrund, während Sie im Internet surfen. Dies ist eine personalisierte Zusammenfassung dieser Schutzmaßnahmen und enthält auch Funktionen, mit denen Sie die Kontrolle über Ihre Online-Sicherheit übernehmen können.
 protection-report-settings-link = Datenschutz- und Sicherheitseinstellungen verwalten
 etp-card-title-always = Verbesserter Tracking-Schutz: Immer an
 etp-card-title-custom-not-blocking = Verbesserter Tracking-Schutz: AUS
