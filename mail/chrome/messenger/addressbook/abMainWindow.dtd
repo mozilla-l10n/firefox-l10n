@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "ร">
 <!ENTITY newAddressBookCmd.label                        "สมุดรายชื่อ…">
 <!ENTITY newAddressBookCmd.accesskey                    "ส">
+<!ENTITY newCardDAVBookCmd.label                        "สมุดรายชื่อ CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "ไดเรกทอรี LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "ด">
 <!ENTITY newMessageCmd.label                            "ข้อความ">

@@ -13,9 +13,11 @@
 <!ENTITY alwaysEncryptMessage.accesskey "ต">
 <!ENTITY encryptionCert.message "ใช้ใบรับรองนี้เพื่อเข้าและถอดรหัสข้อความที่ถูกส่งถึงคุณ:">
 
+<!ENTITY e2eTitle.label "การเข้ารหัสแบบครอบคลุม">
 <!ENTITY e2eLearnMore.label "เรียนรู้เพิ่มเติม">
 
 
+<!ENTITY e2eTechPref.description "เทคโนโลยีการเข้ารหัสที่ต้องการ:">
 
 <!ENTITY digitalSign.certificate.button "เลือก…">
 <!ENTITY digitalSign.certificate.accesskey "ล">
@@ -27,6 +29,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "า">
 <!ENTITY signingGroupTitle.label "ลายเซ็นดิจิทัล">
 <!ENTITY signMessage.label "ลงลายเซ็นข้อความแบบดิจิทัล (ตามค่าเริ่มต้น)">
+<!ENTITY signMessage2.label "เพิ่มลายเซ็นดิจิทัลของฉันตามค่าเริ่มต้น">
 <!ENTITY signMessage.accesskey "ซ">
 <!ENTITY signingCert.message "ใช้ใบรับรองนี้เพื่อลงลายเซ็นข้อความที่คุณส่งแบบดิจิทัล:">
 
@@ -36,13 +39,22 @@
 <!ENTITY manageDevices.label "อุปกรณ์ความปลอดภัย">
 <!ENTITY manageDevices.accesskey "ภ">
 
+<!ENTITY signingCert2.message "ใบรับรองส่วนตัวสำหรับการลงลายเซ็นแบบดิจิทัล:">
 
 
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "จัดการใบรับรอง S/MIME">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "อุปกรณ์ความปลอดภัย S/MIME">
+<!ENTITY manageDevices2.accesskey "ภ">
 
+<!ENTITY technologySMIME.label "ต้องการ S/MIME">
+<!ENTITY technologyOpenPGP.label "ต้องการ OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
 <!ENTITY manageKeys.label "จัดการกุญแจ OpenPGP">
+<!ENTITY manageKeys.accesskey "ค">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "เลือกใบรับรอง">
