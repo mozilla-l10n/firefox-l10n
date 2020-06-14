@@ -27,3 +27,16 @@ rights-intro-point-4 =
     <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }¶
     Prawidłach prywatności</a>.
 rights-intro-point-4-unbranded = Wszyskie płatne prawidła prywatności do tego produktu winny być sam wystawiane.
+rights-intro-point-5 =
+    Niykere funkcyje aplikacyje { -brand-short-name } używajōm informacyjnych 
+    usug z neca, my ale niy gwarantujymy, iże ône sōm na 100% akuratne i bez
+    żodnych felerōw. Wiyncyj informacyji, a ś nimi tyż to, jak idzie zastawić
+    funkcyje, co używajōm tych usug, znojdziesz we
+    <a data-l10n-name="mozilla-service-terms-link">warunkach usugi</a>.
+rights-intro-point-5-unbranded =
+    Jak tyn produkt mo wkludzōne usugi z neca, linki do wszyskich 
+    płatnych warunkōw używanio tych usug winny być we sekcyji 
+    <a data-l10n-name="mozilla-website-services-link"> Usugi z neca</a>.
+rights-intro-point-6 =
+    Coby puścić niykere zorty zawartości video, { -brand-short-name }
+    pobiyro moduły deszyfrowanio tyj zawartości ôd inkszych firmōw.
