@@ -16,3 +16,5 @@ features-storage-desc = Աւելացնել, փոփոխել եւ հեռացնել
 features-responsive-title = Հարմարեցում սարքի էկրանին։
 features-responsive-desc = Փորձարկել կայքերը Ձեր դիտարկիչում նմանեցուած սարքերի վրայ։ <a data-l10n-name="Իմանալ աւելին">{ features-learn-more }</a>
 features-visual-editing-title = Տեսողական խմբագրում
+features-visual-editing-desc = Բարեհնչիւն շարժապատկերներ, հաւասարեցում եւ լիցք: <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-performance-title = Արդիւնաւէտութիւն
