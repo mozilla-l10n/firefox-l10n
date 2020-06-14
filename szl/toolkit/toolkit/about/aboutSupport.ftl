@@ -66,6 +66,19 @@ app-basics-multi-process-support = Multiprocesowe ôkna
 app-basics-remote-processes-count = Zdalne procesy
 app-basics-enterprise-policies = Prawidła ôd ôrganizacyje
 app-basics-location-service-key-google = Klucz usugi Google Location Service
+app-basics-safebrowsing-key-google = Klucz usugi Google Safebrowsing
+app-basics-key-mozilla = Klucz Mozilla Location Service
+app-basics-safe-mode = Tryb bezpieczyństwa
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Pokoż we Finderze
+        [windows] Ôdewrzij katalog
+       *[other] Ôdewrzij
+    }
+modified-key-prefs-title = Ważne pozmiyniane preferyncyje
+modified-prefs-name = Miano
+modified-prefs-value = Wert
+user-js-title = Preferyncyje user.js
 
 ## Media titles
 
