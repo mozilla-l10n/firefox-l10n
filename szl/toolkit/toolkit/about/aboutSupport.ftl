@@ -82,6 +82,28 @@ user-js-title = Preferyncyje user.js
 user-js-description = Katalog z profilym mo <a data-l10n-name="user-js-link">zbiōr user.js</a>, w kerym sōm preferyncyje, co ich niy zrychtowała aplikacyjo { -brand-short-name }.
 locked-key-prefs-title = Ważne zadymkniynte preferyncyje
 locked-prefs-name = Miano
+locked-prefs-value = Wert
+graphics-title = Grafika
+graphics-features-title = Funkcyje
+graphics-diagnostics-title = Diagnostyka
+graphics-failure-log-title = Protokōł felerōw
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Protokōł uzdań
+graphics-crash-guards-title = Zastawiōne funkcyje Crash Guard
+graphics-workarounds-title = Rozwiōnzania
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protokōł ôkiyn
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Strzodowisko biōrka
+place-database-title = Baza danych Places
+place-database-integrity = Integralność
+place-database-verify-integrity = Badej integralność
+js-title = JavaScript
+js-incremental-gc = Inkrementalny GC
+a11y-title = Dostympność
+a11y-activated = Aktywowano
+a11y-force-disabled = Zastow dostympność
 
 ## Media titles
 
