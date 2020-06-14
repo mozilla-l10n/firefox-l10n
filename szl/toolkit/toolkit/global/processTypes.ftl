@@ -15,3 +15,16 @@ process-type-privilegedmozilla = Uprziwilejowano zawartość ôd Mozille
 process-type-extension = Rozszyrzynie
 # process used to open file:// URLs
 process-type-file = Lokalny zbiōr
+# process used to isolate webpages that requested special
+# permission to allocate large amounts of memory
+process-type-weblargeallocation = Wielko alokacyjo pamiyńci
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = Izolowano necowo zawartość
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
+# process used to perform network operations
+process-type-socket = Socket
+# process preallocated; may change to other types
+process-type-prealloc = Prealokowane
