@@ -57,7 +57,6 @@ rcwn-avg-long = ค่าเฉลี่ยแบบยาว
 rcwn-std-dev-long = ค่าเบี่ยงเบนมาตรฐานแบบยาว
 rcwn-cache-slow = จำนวนแคชที่หน่วงเวลา
 rcwn-cache-not-slow = จำนวนแคชที่ไม่ได้หน่วงเวลา
-
 about-networking-title = เกี่ยวกับเครือข่าย
 about-networking-http = HTTP
 about-networking-sockets = ซ็อกเก็ต
@@ -80,6 +79,7 @@ about-networking-family = กลุ่ม
 about-networking-trr = TRR
 about-networking-addresses = ที่อยู่
 about-networking-expires = หมดอายุ (วินาที)
+about-networking-originAttributesSuffix = คีย์การแยก
 about-networking-messages-sent = ข้อความที่ส่ง
 about-networking-messages-received = ข้อความที่รับ
 about-networking-bytes-sent = จำนวนไบต์ที่ส่ง
