@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = สปอนเซอร์ของเราแ
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = เสร็จสิ้น
+newtab-privacy-modal-button-manage = จัดการการตั้งค่าเนื้อหาที่ได้รับการสนับสนุน
 newtab-privacy-modal-header = ความเป็นส่วนตัวของคุณสำคัญ
 newtab-privacy-modal-paragraph-2 =
     นอกเหนือจากการนำเสนอเรื่องราวที่น่าสนใจ เรายังแสดงให้คุณเห็นเนื้อหาที่เกี่ยวข้อง
