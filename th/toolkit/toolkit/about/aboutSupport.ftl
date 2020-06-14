@@ -116,9 +116,9 @@ sandbox-sys-call-number = การเรียกของระบบ
 sandbox-sys-call-args = อาร์กิวเมนต์
 safe-mode-title = ลองใช้โหมดปลอดภัย
 restart-in-safe-mode-label = เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…
-clear-startup-cache-title = ลองล้างแคชเมื่อเริ่มโปรแกรม
-clear-startup-cache-label = ล้างแคชเมื่อเริ่มโปรแกรม…
-startup-cache-dialog-title = ล้างแคชเมื่อเริ่มโปรแกรม
+clear-startup-cache-title = ลองล้างแคชเมื่อเริ่มการทำงาน
+clear-startup-cache-label = ล้างแคชเมื่อเริ่มการทำงาน…
+startup-cache-dialog-title = ล้างแคชเมื่อเริ่มการทำงาน
 
 ## Media titles
 
