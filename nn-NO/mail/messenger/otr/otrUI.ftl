@@ -28,7 +28,7 @@ alert-refresh = Prøver å oppdatere den krypterte samtalen med { $name }.
 alert-gone_insecure = Den krypterade samtalen med { $name } vart avslutta.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-finger-unseen = Identiteten til { $name } er ikkje stadfesta enno. Tilfeldig avlytting er ikkje mogleg, men med ein viss innsats kan enkelte avlytte. Hindre overvaking ved å identifisere identiteten til kontakten.
+finger-unseen = Identiteten til { $name } er ikkje stadfesta enno. Tilfeldig avlytting er ikkje mogleg, men med ein viss innsats kan enkelte avlytte. Hindre overvaking ved å stadfeste identiteten til kontakten.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } kontaktar deg frå ei ukjend datamaskin. Tillfeldig avlytting er ikkje mogleg, men med ein viss innsats kan enkelte avlytte. HIndre overvaking ved å stadfeste identiteten til kontakten.
