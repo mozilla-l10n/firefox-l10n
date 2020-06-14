@@ -15,3 +15,15 @@ rights-intro-point-2 =
     Mozilla Foundation ani inkszych firmōw, a w tym do miana ani loga Firefox.
     Wiyncyj informacyji ô towarowych znakach idzie znojść
     <a data-l10n-name="mozilla-trademarks-link">tukej</a>.
+rights-intro-point-3 =
+    Niykere funkcyje aplikacyje { -brand-short-name }, bez przikłod Posyłanie raportōw z awaryje,
+    dowajōm ci posłać ôpinijo do ôrganizacyje { -vendor-short-name }. Jak uzdosz se
+    posłać ôpinijo, to dowosz ôrganizacyji { -vendor-short-name } zgoda, coby użyła
+    jij do polepszanio swojich produktōw, wystowianio tyj ôpinije na swojich strōnach
+    i do jij szyrzynio.
+rights-intro-point-4 =
+    To, jak używōmy twojich prywatnych danych i ôpiniji posłanych do ôrganizacyji
+    { -vendor-short-name } bez aplikacyjo { -brand-short-name }, ôpisujymy we
+    <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }¶
+    Prawidłach prywatności</a>.
+rights-intro-point-4-unbranded = Wszyskie płatne prawidła prywatności do tego produktu winny być sam wystawiane.
