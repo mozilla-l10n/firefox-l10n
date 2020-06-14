@@ -4,3 +4,7 @@
 
 features-learn-more = Իմանալ աւելին
 features-inspector-title = Հսկիչ
+features-inspector-desc = Ստուգել եւ բարեաւել այլագիրը կատարեալ կէտայնութեամբ շարակարգեր կառուցելու համար։
+features-console-title = Հրամանային տող
+features-console-desc = Հետեւել CSS֊ի, JavaScript֊ի, ինչպէս նաեւ անվտանգութեան եւ ցանցի խնդիրներին։
+features-debugger-title = Վրիպազերծիչ
