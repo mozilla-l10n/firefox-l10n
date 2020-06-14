@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Kalender
+calendar-title-reminder = Erinnerungen
+calendar-title-category = Kategorien
+
 dateformat-label =
     .value = Datums-Textformat:
     .accesskey = D
@@ -33,6 +37,10 @@ day-7-name =
 show-weeknumber-label =
     .label = Wochennummer in Ansichten und Miniaturkalender anzeigen
     .accesskey = W
+
+workdays-label =
+    .value = Tage der Arbeitswoche:
+
 day-1-checkbox =
     .label = So
     .accesskey = S
@@ -54,6 +62,7 @@ day-6-checkbox =
 day-7-checkbox =
     .label = Sa
     .accesskey = a
+
 dayweek-legend = Tages- und Wochenansichten
 visible-hours-label =
     .value = Anzeigen:
@@ -102,6 +111,11 @@ soon-label =
     .value = Der Bereich "Demnächst" zeigt:
     .accesskey = m
 event-task-legend = Termine und Aufgaben
+
+default-length-label =
+    .value = Standarddauer von Terminen und Aufgaben:
+    .accesskey = d
+
 task-start-label =
     .value = Beginn:
 task-start-1-label =
