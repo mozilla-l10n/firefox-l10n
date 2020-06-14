@@ -61,3 +61,7 @@ success-title = Encriptação ponto a ponto
 successThem-title = Confirmar a identidade do seu contacto
 fail-title = Não foi possível confirmar
 waiting-title = Pedido de confirmação enviado
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Não foi possível gerar a chave OTR privada: { $error }
