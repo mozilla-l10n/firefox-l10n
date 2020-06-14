@@ -4,6 +4,7 @@
 
 account-encryption =
     .label = End to end-kryptering
+account-otr-label = Off the Record-chats (OTR)
 account-otr-description = { -brand-short-name } understøtter end to end-kryptering af en til en-samtaler. Dette forhindrer tredjeparter i at smuglytte til en samtale. End to end-kryptering kan kun bruges, når den anden person også bruger software, der understøtter OTR.
 otr-encryption-title = Bekræftet kryptering
 otr-encryption-caption = For at gøre det muligt for andre at bekræfte din identitet i OTR-chats, skal du dele dit eget OTR-fingeraftryk ved hjælp af en ekstern kommunikationskanal.

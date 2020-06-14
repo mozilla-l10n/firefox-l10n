@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "F">
 <!ENTITY removeSearchEngine.label         "Fjern">
 <!ENTITY removeSearchEngine.accesskey     "r">
+
+<!ENTITY minimizeToTray.label             "Flyt &brandShortName; til systembakken ved minimering">
+<!ENTITY minimizeToTray.accesskey         "m">
