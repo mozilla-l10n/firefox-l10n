@@ -47,7 +47,25 @@ app-basics-update-dir =
 app-basics-update-history = Historyjo aktualizacyje
 app-basics-show-update-history = Pokoż historyjo aktualizacyjōw
 # Represents the path to the binary used to start the application.
-app-basics-binary = Binarny zbi€r aplikacyje
+app-basics-binary = Binarny zbiōr aplikacyje
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Plac na profil
+       *[other] Katalog na profil
+    }
+app-basics-enabled-plugins = Załōnczōne profile
+app-basics-build-config = Sztalōnki zestawiynio
+app-basics-user-agent = Idyntyfikatōr używocza
+app-basics-os = Ôperacyjny systym
+app-basics-memory-use = Użycie pamiynci
+app-basics-performance = Sprowność
+app-basics-service-workers = Zaregistrowane Service Workers
+app-basics-profiles = Profile
+app-basics-launcher-process-status = Proces sztartowanio
+app-basics-multi-process-support = Multiprocesowe ôkna
+app-basics-remote-processes-count = Zdalne procesy
+app-basics-enterprise-policies = Prawidła ôd ôrganizacyje
+app-basics-location-service-key-google = Klucz usugi Google Location Service
 
 ## Media titles
 
