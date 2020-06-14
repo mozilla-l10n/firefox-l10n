@@ -98,7 +98,7 @@ policy-RequestedLocales = Sprachen für die Anwendungsoberfläche in bevorzugter
 policy-SanitizeOnShutdown2 = Navigationsdaten beim Beenden löschen
 policy-SearchBar = Standardposition der Suchleiste setzen. Der Benutzer darf sie weiterhin anpassen.
 policy-SearchEngines = Suchmaschineneinstellungen anpassen. Diese Richtlinie ist nur für Versionen des Extended Support Release (ESR) verfügbar.
-policy-SearchSuggestEnabled = Suchvoschläge aktivieren oder deaktivieren
+policy-SearchSuggestEnabled = Suchvorschläge aktivieren oder deaktivieren
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS#11-Module installieren
 policy-SSLVersionMax = Höchste zu verwendende SSL-Version festlegen
