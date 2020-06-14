@@ -13,3 +13,54 @@ msgevent-connection_ended = { $name } já fechou a ligação encriptada que tinh
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Ocorreu um erro ao configurar uma conversa privada com { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Está a receber as suas próprias mensagens OTR. Está a tentar falar sozinho ou alguém está a repetir as suas mensagens para si.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg_resent = A última mensagem para { $name } foi reenviada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = A mensagem encriptada recebida de { $name } é ilegível pois, neste momento, você não está a comunicar de modo privado.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = Recebeu uma mensagem encriptada ilegível de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Recebeu uma mensagem de dados mal codificada de { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Pulsação recebida de { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Pulsação enviada para { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Ocorreu um erro inesperado ao tentar proteger a sua conversa utilizando o OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = A seguinte mensagem, recebida de { $name }, não foi encriptada: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Recebeu uma mensagem OTR irreconhecível de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } enviou uma mensagem destinada a uma sessão diferente. Se tiver iniciado sessão várias vezes, a mensagem pode ter sido recebida noutra sessão.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = A conversa privada com { $name } foi iniciada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = A conversa privada, mas não confirmada, com { $name } foi iniciada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Renovou com sucesso a conversa encriptada com { $name }.
+error-enc = Ocorreu um erro ao encriptar a mensagem.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Enviou dados encriptados para { $name }, que não estava à esperava dos mesmos.
+error-unreadable = Transmitiu uma mensagem encriptada ilegível.
+error-malformed = Transmitiu uma mensagem de dados mal codificada.
+resent = [reenviar]
