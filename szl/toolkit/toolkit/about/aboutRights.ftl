@@ -79,3 +79,10 @@ rights-webservices-term-1 =
     wszyskie informacyje ô placu, co dostowōmy ôd ôperatorōw usugi, sōm ino przibliżōne,
     ani my, ani ôperatory usugi niy poradzymy zagwarantować akuratności danych ô placu.
 rights-webservices-term-2 = { -vendor-short-name } może ze samości skōńczyć abo zmiynić używanie Usug.
+rights-webservices-term-3 =
+    Korzystej swobodnie z tych usug w tyj wersyji aplikacyje { -brand-short-name },
+    do czego prawa porynczo ci { -vendor-short-name }. { -vendor-short-name } i wystowcy
+    licyncyji zastrzegajōm se wszyskie inksze prawa zwiōnzane z tymi usugami.
+    Te warunki niy majōm ôbgraniczać żodnych prow gwarantowanych w licyncyjach
+    programōw z ôtwartym źdrzōdłym, kere tykajōm sie aplikacyje { -brand-short-name }
+    abo analogicznych wersyji źdrzōdłowego kodu aplikacyji { -brand-short-name }.
