@@ -116,6 +116,11 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Probar modo seguro
 restart-in-safe-mode-label = Reiniciar con complementos desactivados…
+clear-startup-cache-title = Intentar limpiar la caché de inicio
+clear-startup-cache-label = Limpiar caché de inicio…
+startup-cache-dialog-title = Limpiar caché de inicio
+startup-cache-dialog-body = Reinicie { -brand-short-name } para limpiar la caché de inicio. Esto no cambiará su configuración ni elimina las extensiones que haya agregado a { -brand-short-name }.
+restart-button-label = Reiniciar
 
 ## Media titles
 
