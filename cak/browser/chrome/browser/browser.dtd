@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backCmd.accesskey            "C">
 <!ENTITY backButton.tooltip           "Titzolïx jun ruxaq">
 <!ENTITY forwardCmd.label             "Jun chik">
-<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardCmd.accesskey         "J">
 <!ENTITY forwardButton.tooltip        "Jun chik ruxaq">
 <!ENTITY backForwardButtonMenu.tooltip "Tapitz'a' ruka'n ruwi' ri ch'oy, taqirirej pa xulan richin natz'ët ri natab'äl">
 <!ENTITY backForwardButtonMenuMac.tooltip "Taqirirej richin niq'alajin pe ri natab'äl">
@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.label             "K'ak'a' k'ojlib'äl ruwi'">
 <!ENTITY newUserContext.accesskey         "w">
 <!ENTITY manageUserContext.label          "Kenuk'samajïx K'wayöl">
-<!ENTITY manageUserContext.accesskey      "O">
+<!ENTITY manageUserContext.accesskey      "w">
 
 <!ENTITY newNavigatorCmd.label        "K'ak'a' tzuwäch">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -622,7 +622,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Ticha' achi'el richin rupam ch'atal…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "T">
 <!ENTITY bookmarkPageCmd2.label       "Titz'aqatisäx Re Ruxaq Re' Pa Taq Yaketal">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkPageCmd2.accesskey   "e">
 <!ENTITY bookmarkThisLinkCmd.label      "Titzaqatisäx re jun ximonel re' pa taq yaketal">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "x">
 <!ENTITY bookmarkThisFrameCmd.label      "Titz'aqatisäx re ruchi' kajtz'ik re' pa taq etal">
@@ -830,7 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Xk'achoj">
 <!ENTITY editBookmark.showForNewBookmarks.label       "Tik'ut k'exob'äl toq niyak">
-<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "k">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
