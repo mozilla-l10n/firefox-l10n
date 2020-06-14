@@ -9,5 +9,5 @@ unknowncontenttype-handleinternally =
             [feminine] v { -brand-short-name(case: "loc") }
             [neuter] v { -brand-short-name(case: "loc") }
            *[other] v aplikaci { -brand-short-name }
-        }.
+        }
     .accesskey = e
