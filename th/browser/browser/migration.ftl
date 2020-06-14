@@ -117,6 +117,14 @@ browser-data-formdata-checkbox =
     .label = ประวัติแบบฟอร์มที่บันทึกไว้
 browser-data-formdata-label =
     .value = ประวัติแบบฟอร์มที่บันทึกไว้
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = ข้อมูลการเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = ข้อมูลการเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
 browser-data-session-checkbox =
     .label = หน้าต่างและแท็บ
 browser-data-session-label =
