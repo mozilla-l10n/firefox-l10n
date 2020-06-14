@@ -64,3 +64,11 @@ error-not_priv = Enviou dados encriptados para { $name }, que não estava à esp
 error-unreadable = Transmitiu uma mensagem encriptada ilegível.
 error-malformed = Transmitiu uma mensagem de dados mal codificada.
 resent = [reenviar]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } terminou a conversa encriptada consigo; você deve fazer o mesmo.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } solicitou uma conversa encriptada Off-the-Record (OTR). No entanto, você não tem um plugin que suporte isto. Consulte https://en.wikipedia.org/wiki/Off-the-Record_Messaging para obter mais informações.
