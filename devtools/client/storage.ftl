@@ -22,3 +22,6 @@ storage-table-type-indexeddb-hint = Праглядайце і выдаляйце
 # Hint shown when the cache storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cache_Storage
 storage-table-type-cache-hint = Праглядайце і выдаляйце запісы сховішча кэша, выбраўшы сховішча. <a data-l10n-name="learn-more-link">Падрабязней</a>
+# Hint shown when the extension storage type is selected. Clicking the link will open
+# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
+storage-table-type-extensionstorage-hint = Праглядайце і рэдагуйце сховішча пашырэнняў, выбраўшы хост. <a data-l10n-name="learn-more-link">Падрабязней</a>
