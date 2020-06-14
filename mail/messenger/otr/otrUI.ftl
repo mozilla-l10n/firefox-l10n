@@ -32,7 +32,7 @@ finger-unseen = Identiteten til { $name } er ikkje stadfesta enno. Tilfeldig avl
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } kontaktar deg frå ei ukjend datamaskin. Tillfeldig avlytting er ikkje mogleg, men med ein viss innsats kan enkelte avlytte. HIndre overvaking ved å stadfeste identiteten til kontakten.
-state-not_private = Denne samtalen er ikkje kryptert.
+state-not_private = Denne samtalen er ikkje privat.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = Denne samtalen er krypteret, men ikkje privat, då { $name }s identitet enno ikkje er stadfesta.
