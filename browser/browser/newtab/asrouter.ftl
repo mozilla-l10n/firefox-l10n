@@ -236,6 +236,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = icòna vidèos incrustada
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Proteccion en una ulhada
+cfr-whatsnew-protections-body = La teula de bòrd de las proteccions conten los rapòrts resumits tocant las divulgacions de donadas e la gestion dels senhals. D’ara endavant seguir lo nombre de divulgacions qu’avètz resolgudas e veire s’un de vòstres senhals salvats pòt aver èsser exposat a una pèrd de donadas.
 cfr-whatsnew-protections-cta-link = Veire la taula de bòrd de las proteccions
 cfr-whatsnew-protections-icon-alt = Icòna d’escut
 

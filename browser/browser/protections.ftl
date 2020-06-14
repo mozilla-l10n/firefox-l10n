@@ -185,6 +185,7 @@ monitor-no-breaches-description = Sembla que sètz pas concernit per cap de divu
 monitor-view-report-link = Veire lo rapòrt
     .title = Resòlver las divulgacions sus { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Reglatz vòstras divulgacions de donadas
+monitor-breaches-unresolved-description = Aprèp aver repassat los detalhs de las pèrdas de donadas e pres las accions per protegir vòstras informacions, podètz marcar las divulgacions coma regladas.
 monitor-manage-breaches-link = Gerir las divulgacions
     .title = Gerir las divulgacions sus { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Crane ! Avètz regladas totas las divulgacions de donadas conegudas.
