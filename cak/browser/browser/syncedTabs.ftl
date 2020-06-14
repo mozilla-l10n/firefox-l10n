@@ -39,6 +39,6 @@ synced-tabs-context-manage-devices =
     .accesskey = O
 synced-tabs-context-sync-now =
     .label = Tixim Wakami
-    .accesskey = R
+    .accesskey = x
 fxa-sign-in = Tok pa { -sync-brand-short-name }
 turn-on-sync = Titzij { -sync-brand-short-name }
