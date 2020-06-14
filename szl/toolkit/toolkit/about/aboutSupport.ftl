@@ -34,6 +34,20 @@ processes-count = Wielość
 app-basics-title = Nojważniejsze informacyje
 app-basics-name = Miano
 app-basics-version = Wersyjo
+app-basics-build-id = ID zestawiynio
+app-basics-distribution-id = ID dystrybucyje
+app-basics-update-channel = Kanał aktualizacyje
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Plac na aktualizacyjo
+       *[other] Katalog na aktualizacyjo
+    }
+app-basics-update-history = Historyjo aktualizacyje
+app-basics-show-update-history = Pokoż historyjo aktualizacyjōw
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binarny zbi€r aplikacyje
 
 ## Media titles
 
