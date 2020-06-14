@@ -79,6 +79,9 @@ modified-key-prefs-title = Ważne pozmiyniane preferyncyje
 modified-prefs-name = Miano
 modified-prefs-value = Wert
 user-js-title = Preferyncyje user.js
+user-js-description = Katalog z profilym mo <a data-l10n-name="user-js-link">zbiōr user.js</a>, w kerym sōm preferyncyje, co ich niy zrychtowała aplikacyjo { -brand-short-name }.
+locked-key-prefs-title = Ważne zadymkniynte preferyncyje
+locked-prefs-name = Miano
 
 ## Media titles
 
