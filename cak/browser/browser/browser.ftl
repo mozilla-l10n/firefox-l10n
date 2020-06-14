@@ -190,7 +190,7 @@ search-one-offs-context-set-as-default-private =
 
 bookmark-panel-show-editor-checkbox =
     .label = Tik'ut k'exob'äl toq niyak
-    .accesskey = S
+    .accesskey = k
 bookmark-panel-done-button =
     .label = Xk'achoj
 # Width of the bookmark panel.

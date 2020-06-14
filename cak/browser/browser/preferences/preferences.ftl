@@ -855,7 +855,7 @@ history-clear-on-close-settings =
     .accesskey = N
 history-clear-button =
     .label = Tiyuj el ri Natab'äl…
-    .accesskey = s
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
@@ -1036,11 +1036,11 @@ permissions-xr-settings =
 permissions-camera = Elesäy wachib'äl
 permissions-camera-settings =
     .label = Taq nuk'ulem…
-    .accesskey = w
+    .accesskey = m
 permissions-microphone = Q'asäy ch'ab'äl
 permissions-microphone-settings =
     .label = Taq nuk'ulem…
-    .accesskey = c
+    .accesskey = m
 permissions-notification = Taq rutzijol
 permissions-notification-settings =
     .label = Taq nuk'ulem…
@@ -1125,7 +1125,7 @@ certs-header = Taq ruwujil b'i'aj
 certs-personal-label = Toq jun ruk'u'x samaj nuk'utuj pe ri ruwujil ab'i'
 certs-select-auto-option =
     .label = Pa ruyonil ticha' jun
-    .accesskey = S
+    .accesskey = c
 certs-select-ask-option =
     .label = Junelïk tik'utüx pe
     .accesskey = J

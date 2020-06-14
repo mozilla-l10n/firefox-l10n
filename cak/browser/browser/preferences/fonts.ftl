@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Ruwäch tz'ib'
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Ruwäch tz'ib' richin:
     .accesskey = R
-
 fonts-langgroup-arabic =
     .label = aj Arabia
 fonts-langgroup-armenian =
@@ -77,33 +75,24 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Junamil
     .accesskey = J
-
 fonts-default-serif =
     .label = Seriw
 fonts-default-sans-serif =
     .label = Sans-serif
-
 fonts-proportional-size = Nimilem
-    .accesskey = T
-
+    .accesskey = l
 fonts-serif = Seriw
     .accesskey = S
-
 fonts-sans-serif = Majun-seriw
     .accesskey = n
-
 fonts-monospace = Rujukojol cholaj
     .accesskey = R
-
 fonts-monospace-size = Nimilem
-    .accesskey = a
-
+    .accesskey = e
 fonts-minsize = Ko'öl runimilem tz'ib'
     .accesskey = o
-
 fonts-minsize-none =
     .label = Majun
-
 fonts-allow-own =
     .label = Tiya' q'ij chi ke ri taq ruxaq tikicha' ri ruwäch kitz'ib', pa ruk'exel ri jun rucha'oj kan
     .accesskey = T
@@ -115,10 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Rucholajil ruwäch tzij richin rupam sipan kan
 fonts-languages-fallback-desc = Re rucholajil rucholajem tz'ib' nokisäx richin ojer rupam, ri man nuya' ta rutzijol ri rucholajil.
-
 fonts-languages-fallback-label = Rucholajil rucholajem tzij, ri kan k'o wi
     .accesskey = R
-
 fonts-languages-fallback-name-auto =
     .label = Ri jikib'an kan richin ri ch'ab'äl re re'
 fonts-languages-fallback-name-arabic =
@@ -151,7 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = aj BYETNAM
 fonts-languages-fallback-name-other =
     .label = Ch'aqa' chik (incl. aj Europa occidental)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

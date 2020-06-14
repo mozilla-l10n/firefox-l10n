@@ -17,20 +17,18 @@ places-open-window =
 places-open-private-window =
     .label = Tijaq pa jun k'ak'a' ichinan tzuwäch
     .accesskey = i
-
 places-new-bookmark =
     .label = K'ak'a' yaketal…
     .accesskey = y
 places-new-folder-contextmenu =
-    .label = K'ak'a' yakwuj…
-    .accesskey = F
+    .label = K'ak'a' Yakwuj…
+    .accesskey = Y
 places-new-folder =
     .label = K'ak'a' yakwuj…
     .accesskey = w
 places-new-separator =
     .label = K'ak'a'  jachöy
     .accesskey = j
-
 places-view =
     .label = Titz'et
     .accesskey = t
@@ -49,18 +47,16 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Chi rajilab'al q'ij chuqa' ruxaq k'amaya'l
     .accesskey = x
-
 places-history-search =
     .placeholder = Tikanöx ri natab'äl
 places-bookmarks-search =
     .placeholder = Kekanöx taq yaketal
-
 places-delete-domain-data =
     .label = Timestäx re ruxaq k'amaya'l re'
     .accesskey = m
 places-sortby-name =
-    .label = Tinuk' chi b'i'aj
-    .accesskey = r
+    .label = Tinuk' Chi B'i'aj
+    .accesskey = n
 places-properties =
     .label = Taq ch'akulal
     .accesskey = a

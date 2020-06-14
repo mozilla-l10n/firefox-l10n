@@ -20,4 +20,4 @@ all-tabs-menu-hidden-tabs =
     .label = Ewan taq Ruwi'
 all-tabs-menu-manage-user-context =
     .label = Kenuk'samajïx K'wayöl
-    .accesskey = O
+    .accesskey = w
