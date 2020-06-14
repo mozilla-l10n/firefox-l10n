@@ -51,6 +51,13 @@ collection-health-report =
     .label = Permitir ao { -brand-short-name } enviar dados técnicos e de interação para a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saber mais
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = A partilha de dados está desativada para a configuração desta compilação
+collection-backlogged-crash-reports =
+    .label = Permitir ao { -brand-short-name } enviar relatórios de falha pendentes em seu nome
+    .accesskey = t
+collection-backlogged-crash-reports-link = Saber mais
 privacy-security-header = Segurança
 privacy-scam-detection-title = Deteção de fraude
 privacy-anti-virus-title = Antivírus
@@ -155,6 +162,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Mostrar ícone na bandeja
     .accesskey = e
+mail-system-sound-label =
+    .label = Som pré-definido para novo correio
+    .accesskey = d
 mail-custom-sound-label =
     .label = Utilizar este ficheiro
     .accesskey = U
@@ -665,6 +675,29 @@ chat-variant-label =
 chat-header-label =
     .label = Mostrar cabeçalho
     .accesskey = C
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 23em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Pesquisar nas Opções
+           *[other] Pesquisar nas Preferências
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Resultados da pesquisa
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Desculpe! Não existem resultados nas Opções para “<span data-l10n-name="query"></span>”.
+       *[other] Desculpe! Não existem resultados nas Preferências para “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Precisa de ajuda? Visite o <a data-l10n-name="url">Apoio do { -brand-short-name }</a>
