@@ -8,3 +8,7 @@ features-inspector-desc = Ստուգել եւ բարեաւել այլագիրը 
 features-console-title = Հրամանային տող
 features-console-desc = Հետեւել CSS֊ի, JavaScript֊ի, ինչպէս նաեւ անվտանգութեան եւ ցանցի խնդիրներին։
 features-debugger-title = Վրիպազերծիչ
+features-debugger-desc = JavaScript֊ի հզաւր վրիպազերծիչ Ձեր նախընտրած կաղապարի աջակցութեան համար։ <a data-l10n-name="իմանալ աւելին">{ features-learn-more }</a>
+features-network-title = Ցանց
+features-network-desc = Վերահսկել ցանցային հարցումները, որոնք կարող են դանդաղեցնել կամ արգելափակել Ձեր կայքը։
+features-storage-title = Պահոց
