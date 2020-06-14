@@ -103,7 +103,7 @@ lockwise-scanned-text-breached-logins =
 # $count (Number) - Number of passwords stored in Lockwise.
 lockwise-scanned-text-no-breached-logins =
     { $count ->
-        [one] 1 Passwort sicher gespeichert-.
+        [one] 1 Passwort sicher gespeichert.
        *[other] Ihre Passwörter werden sicher gespeichert.
     }
 lockwise-how-it-works-link = Wie es funktioniert
