@@ -26,7 +26,7 @@ rights-intro-point-4 =
     { -vendor-short-name } bez aplikacyjo { -brand-short-name }, ôpisujymy we
     <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }¶
     Prawidłach prywatności</a>.
-rights-intro-point-4-unbranded = Wszyskie płatne prawidła prywatności do tego produktu winny być sam wystawiane.
+rights-intro-point-4-unbranded = Wszyskie płatne prawidła prywatności do tego produktu winny być sam wystawiōne.
 rights-intro-point-5 =
     Niykere funkcyje aplikacyje { -brand-short-name } używajōm informacyjnych 
     usug z neca, my ale niy gwarantujymy, iże ône sōm na 100% akuratne i bez
@@ -63,3 +63,10 @@ rights-locationawarebrowsing =
     potrzebuje twojij zgody, coby fungować. Żodyn roz informacyjo ô placu niy bydzie 
     posyłano bez twojij zgody. Jak chcesz blank zastawić ta funkcyjo, postympuj podug tych krokōw:
 rights-locationawarebrowsing-term-1 = Do poska adresy wkludź <code>about:config</code>
+rights-locationawarebrowsing-term-2 = Dej szukać „geo.enabled“
+rights-locationawarebrowsing-term-3 = Kliknij dwa razy na preferyncyje „geo.enabled”
+rights-locationawarebrowsing-term-4 = Przeglōndanie z poznowaniym placu je zaroz wyłōnczōne
+rights-webservices-unbranded =
+    Tukej winiyn być pokozany przeglōnd usug strōn skuplowanych z tym produktym,
+    a w nim insztrukcyje, jak je zastawiać.
+rights-webservices-term-unbranded = Wszyskie warunki usugi płatne do tego produktu winny być sam wystawiōne.
