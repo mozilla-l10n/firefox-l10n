@@ -40,3 +40,4 @@ rights-intro-point-5-unbranded =
 rights-intro-point-6 =
     Coby puścić niykere zorty zawartości video, { -brand-short-name }
     pobiyro moduły deszyfrowanio tyj zawartości ôd inkszych firmōw.
+rights-webservices-header = Informacyje usugi z neca aplikacyje { -brand-full-name }
