@@ -19,3 +19,15 @@ findbar-highlight-all2 =
            *[other] o
         }
     .tooltiptext = Ôbznocz wszyskie pokozania sie tyj frazy
+findbar-case-sensitive =
+    .label = Poznowej srogość liter
+    .accesskey = L
+    .tooltiptext = Szukej ze zważowaniym na srogość liter
+findbar-match-diacritics =
+    .label = Poznowej diakrytyki
+    .accesskey = i
+    .tooltiptext = Poznowej rōżnica miyndzy bazowymi literami a takimi z diakrytykami (bez przikłod przi szukaniu hasła "wroc" niy bydzie znojdniynte słowo "wrōć")
+findbar-entire-word =
+    .label = Cołke słowa
+    .accesskey = C
+    .tooltiptext = Szukej ino cołkich słōw
