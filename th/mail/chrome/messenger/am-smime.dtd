@@ -19,6 +19,7 @@
 
 <!ENTITY e2eTechPref.description "เทคโนโลยีการเข้ารหัสที่ต้องการ:">
 
+<!ENTITY encryptionCert2.message "ใบรับรองส่วนตัวสำหรับการเข้ารหัส:">
 <!ENTITY digitalSign.certificate.button "เลือก…">
 <!ENTITY digitalSign.certificate.accesskey "ล">
 <!ENTITY digitalSign.certificate_clear.button "ล้าง">
@@ -61,3 +62,6 @@
 <!ENTITY certPicker.info  "ใบรับรอง:">
 <!ENTITY certPicker.detailsLabel "รายละเอียดของใบรับรองที่เลือก:">
 
+<!ENTITY openpgpKey.message "คีย์ส่วนตัวสำหรับการเข้ารหัสและการลงลายเซ็นดิจิทัล:">
+<!ENTITY openpgpKey.button "ตั้งค่าคีย์ส่วนตัว…">
+<!ENTITY openpgpKey.accesskey "ว">
