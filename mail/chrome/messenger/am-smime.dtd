@@ -4,7 +4,7 @@
 
 <!ENTITY securityTitle.label "Sikkerhed">
 <!ENTITY securityTab.label "Sikkerhed">
-<!ENTITY securityHeading.label "For at sende eller modtage krypterede meddelelser, skal du angive både et certifikat til at underskrive med og et certifikat til at kryptere med.">
+<!ENTITY securityHeading.label "For at sende eller modtage underskrevne eller krypterede meddelelser, skal du angive både et certifikat til at underskrive med og et certifikat til at kryptere med.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Standardindstilling for kryptering når du sender meddelelserne:">
 <!ENTITY neverEncrypt.label "Aldrig (brug ikke kryptering)">
@@ -73,4 +73,5 @@
 <!ENTITY certPicker.detailsLabel "Detaljer for det valgte certifikat:">
 
 <!ENTITY openpgpKey.message "Personlig nøgle til kryptering og digital signering:">
+<!ENTITY openpgpKey.button "Angiv personlig nøgle…">
 <!ENTITY openpgpKey.accesskey "o">
