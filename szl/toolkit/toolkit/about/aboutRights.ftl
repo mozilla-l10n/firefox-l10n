@@ -86,3 +86,10 @@ rights-webservices-term-3 =
     Te warunki niy majōm ôbgraniczać żodnych prow gwarantowanych w licyncyjach
     programōw z ôtwartym źdrzōdłym, kere tykajōm sie aplikacyje { -brand-short-name }
     abo analogicznych wersyji źdrzōdłowego kodu aplikacyji { -brand-short-name }.
+rights-webservices-term-4 =
+    <strong>Usugi sōm wystowiane "tak ja sōm". Ôrganizacyjo { -vendor-short-name } 
+    i jeji spōłpracowniki, posiedziciele licyncyjōw i partnery ôdkozujōm wszyskie porynczynia, 
+    dane ôfyn abo dōmyślnie, iże te usugi idzie zbyć i pasujōm ône do cylu, w jakim ich używosz. 
+    Po twojij strōnie je cołke ryzyko ôbiyranio usug do swojich celōw, a tyż jejich jakości i sprowności.
+    Niykere ôrdōnkowe systymy niy przizwolajōm na takie ôdkozanie abo ôbgraniczynie 
+    bazowych porynczyń, beztōż ta informacyjo może sie ciebie niy tykać.</strong>
