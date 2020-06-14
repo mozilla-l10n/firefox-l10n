@@ -128,6 +128,7 @@ audio-backend = Ameslaw ɣer deffir
 max-audio-channels = Amḍan afellay n ibuda
 channel-layout = Taneɣruft n udabu i tebɣiḍ
 sample-rate = Afmiḍi n imedyaten i tebɣiḍ
+roundtrip-latency = Akud n ugani s tirza d tuɣalin (Amgared tizeɣt)
 media-title = Allalen n teγwalt
 media-output-devices-title = Ibenkan n tuffɣa
 media-input-devices-title = Ibenkan n n unekcum
