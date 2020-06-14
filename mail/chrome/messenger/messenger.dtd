@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "ค้นหาข้อความ…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "การค้นหาส่วนกลาง…">
+<!ENTITY glodaSearchCmd.accesskey "า">
 <!ENTITY searchAddressesCmd.label "ค้นหาที่อยู่…">
 <!ENTITY searchAddressesCmd.accesskey "ค">
 
@@ -730,6 +732,7 @@
 <!ENTITY idColumn.label "ลำดับที่ได้รับ">
 <!ENTITY attachmentColumn.label "ไฟล์แนบ">
 
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "เลือกคอลัมน์ที่จะแสดง">
 <!ENTITY selectColumn.tooltip "สลับการเลือกข้อความทั้งหมด">
@@ -753,6 +756,7 @@
 <!ENTITY locationColumn2.tooltip "เรียงตามตำแหน่งที่ตั้ง">
 <!ENTITY idColumn2.tooltip "เรียงตามลำดับที่ได้รับ">
 <!ENTITY attachmentColumn2.tooltip "เรียงตามไฟล์แนบ">
+
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "ข้อความใหม่จากแม่แบบ">
