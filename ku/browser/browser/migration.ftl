@@ -26,19 +26,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = Tu bernameyeke ku bijare, mêjû an jî nasnav di xwe de dihewîne nehat dîtin
-import-source =
-    .label = Mîheng û daneyan veguhêzîne hundir
-import-items-title =
-    .label = Hêmayên ku dê bi hundir ve veguhêzin
+import-source-page-title = Mîheng û daneyan veguhêzîne hundir
+import-items-page-title = Hêmayên ku dê bi hundir ve veguhêzin
 import-items-description = Hêmana ku dê bi hundir ve veguhêze hilbijêre:
-import-migrating-title =
-    .label = Bi hundir ve tê veguhestin...
+import-migrating-page-title = Bi hundir ve tê veguhestin...
 import-migrating-description = Hêmayên li jêr, bi awayekî serkeftî bi hundir ve hatin veguhestin...
-import-select-profile-title =
-    .label = Profîlê Hilbijêre
+import-select-profile-page-title = Profîlê Hilbijêre
 import-select-profile-description = Profîlên li jêr, ji bo veguhestinê amade ne:
-import-done-title =
-    .label = Veguhestina bi hundir ve bidawî bû
+import-done-page-title = Veguhestina bi hundir ve bidawî bû
 import-done-description = Hêmanên li jêr bi awayekî serkeftî bi hundir ve hatin veguhestin:
 # Displays which browser the bookmarks are being imported from
 #
