@@ -20,19 +20,13 @@ import-from-safari =
     .label = Safari
     .accesskey = S
 no-migration-sources = Хаяг, зорчсон түүх эсвэл нууц үг агуулсан програм олдсонгүй.
-import-source =
-    .label = Тохиргоо ба өгөгдөл импортлох
-import-items-title =
-    .label = Импортлох зүйлс
+import-source-page-title = Тохиргоо ба өгөгдөл импортлох
+import-items-page-title = Импортлох зүйлс
 import-items-description = Алиныг нь импортлохоо сонго:
-import-migrating-title =
-    .label = Импортолж байна…
 import-migrating-description = Дараах зүйлс импортлогдож байна…
-import-select-profile-title =
-    .label = Хувийн орчинг сонго
+import-select-profile-page-title = Хувийн орчинг сонго
 import-select-profile-description = Уг байрлалаас дараах зүйлсийг импортлох боломжтой байна:
-import-done-title =
-    .label = Импортлолт гүйцлээ
+import-done-page-title = Импортлолт гүйцлээ
 import-done-description = Дараах зүйлс амжилттай импортлогдлоо:
 # Displays which browser the bookmarks are being imported from
 #
