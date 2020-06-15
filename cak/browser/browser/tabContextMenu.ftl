@@ -16,7 +16,7 @@ duplicate-tabs =
     .accesskey = K
 close-tabs-to-the-end =
     .label = Ketz'apïx taq Ruwi' pan Ajkiq'a'
-    .accesskey = A
+    .accesskey = i
 close-other-tabs =
     .label = Ketz'apïx ri ch'aqa' chik taq ruwi'
     .accesskey = K
@@ -66,13 +66,13 @@ tab-context-undo-close-tabs =
             [one] Titzolïx Nitz'apïx Ruwi'
            *[other] Titzolïx Yetz'apïx Kiwi'
         }
-    .accesskey = z
+    .accesskey = T
 close-tab =
     .label = Titz'apïx ruwi’
     .accesskey = T
 close-tabs =
     .label = Ketz'apïx taq Ruwi'
-    .accesskey = S
+    .accesskey = K
 move-tabs =
     .label = Kesilöx taq Ruwi'
     .accesskey = x

@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Tisamajib'ëx chik">
 <!ENTITY reloadCmd.accesskey          "c">
 <!ENTITY stopCmd.label                "Tiq'at">
-<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.accesskey            "T">
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Tib'e pa JAY richin ri rucholob'al taq ochochib'äl">
