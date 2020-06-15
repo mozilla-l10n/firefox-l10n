@@ -57,11 +57,11 @@ rcwn-avg-long = Доўгае сярэдняе
 rcwn-std-dev-long = Доўгае сярэднеквадратычнае адхіленне
 rcwn-cache-slow = Лік маруднага кэша
 rcwn-cache-not-slow = Лік не-маруднага кэша
-
 about-networking-title = Пра сетку
 about-networking-http = HTTP
 about-networking-sockets = Сокеты
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Ачысціць кэш DNS
 about-networking-dns-suffix = DNS-суфікс
 about-networking-websockets = Сеціўныя сокеты
 about-networking-refresh = Паднавіць
