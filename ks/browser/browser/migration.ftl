@@ -25,19 +25,14 @@ import-from-chrome =
 import-from-firefox =
     .label = فائرفاکس
     .accesskey = x
-import-source =
-    .label = سیٹینگس تئ  ڈاٹا پیٹھئ كریو درآمد
-import-items-title =
-    .label = درآمد  كرنئ خٲطرئ چیز
+import-source-page-title = سیٹینگس تئ  ڈاٹا پیٹھئ كریو درآمد
+import-items-page-title = درآمد  كرنئ خٲطرئ چیز
 import-items-description = درآمد  كرن وٲل آئٹمس  ژٲریو :
-import-migrating-title =
-    .label = درآمدکران…
+import-migrating-page-title = درآمدکران…
 import-migrating-description = مندرجہ ذیل چیز چھئ حالس یوان درآمد  كرنئ…
-import-select-profile-title =
-    .label = پروفائل  ژعریو
+import-select-profile-page-title = پروفائل  ژعریو
 import-select-profile-description = مندرجہ ذیل پروفائلس  چھئ یت۪ی پیٹھئ درآمد  كرنئ خٲطرئ  دستیاب :
-import-done-title =
-    .label = درآمدمکمل
+import-done-page-title = درآمدمکمل
 import-done-description = مندرجہ ذیل چیز آی  کامیٲبی سان  درآمد كرنئ :
 # Displays which browser the bookmarks are being imported from
 #
