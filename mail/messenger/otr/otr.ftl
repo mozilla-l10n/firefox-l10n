@@ -9,22 +9,53 @@ msgevent-encryption_required_part2 = Γίνεται προσπάθεια ένα�
 msgevent-encryption_error = Προέκυψε σφάλμα κατά την κρυπτογράφηση του μηνύματός σας. Το μήνυμα δεν απεστάλη.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-connection_ended = Ο/Η { $name } έχει ήδη κλείσει την κρυπτογραφημένη σύνδεση με εσάς. Για να μην στείλετε κατά λάθος κάποιο μήνυμα χωρίς κρυπτογράφηση, το μήνυμά σας δεν απεστάλη. Παρακαλούμε τερματίστε την κρυπτογραφημένη συνομιλία σας, ή επανεκκινήστε την.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Προέκυψε σφάλμα κατά τη δημιουργία ιδιωτικής συνομιλίας με τον/την { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Λαμβάνετε τα δικά σας μηνύματα OTR. Είτε προσπαθείτε να μιλήσετε με τον εαυτό σας, είτε κάποιος αντανακλά τα μηνύματά σας πίσω σε εσάς.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = Το τελευταίο μήνυμα προς τον/την { $name } απεστάλη ξανά.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = Το κρυπτογραφημένο μήνυμα που ελήφθη από τον/την { $name } δεν είναι αναγνώσιμο, καθώς δεν έχετε ιδιωτική επικοινωνία.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Λάβατε ένα μη αναγνώσιμο, κρυπτογραφημένο μήνυμα από τον/την { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_malformed = Λάβατε ένα μήνυμα δεδομένων με λανθασμένη μορφή από τον/την { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Ελήφθη heartbeat από τον/την { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Απεστάλη heartbeat στον/στην { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Ξεκίνησε η ιδιωτική συνομιλία με τον/την { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Ξεκίνησε κρυπτογραφημένη, αλλά μη επαληθευμένη συνομιλία με τον/την { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Έγινε επιτυχώς ανανέωση της κρυπτογραφημένης συνομιλίας με τον/την { $name }.
 error-enc = Παρουσιάστηκε σφάλμα κατά την κρυπτογράφηση του μηνύματος.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Στείλατε κρυπτογραφημένα δεδομένα στον/στην { $name }, που δεν τα περίμενε.
 error-unreadable = Μεταδώσατε ένα μη αναγνώσιμο, κρυπτογραφημένο μήνυμα.
 error-malformed = Μεταδώσατε ένα μήνυμα δεδομένων με λανθασμένη μορφή.
+resent = [απεστάλη ξανά]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = Ο/Η { $name } έληξε την κρυπτογραφημένη συνομιλία μαζί σας· πρέπει να κάνετε το ίδιο.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = Ο/Η { $name } έχει ζητήσει μια κρυπτογραφημένη συζήτηση εκτός καταγραφής (OTR). Ωστόσο, δεν έχετε άρθρωμα για να το υποστηρίξει αυτό. Δείτε το https://en.wikipedia.org/wiki/Off-the-Record_Messaging για περισσότερες πληροφορίες.
