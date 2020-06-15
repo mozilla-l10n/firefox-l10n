@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Zhbëje Mbylljen e Skedës
     .accesskey = Z
+tab-context-close-multiple-tabs =
+    .label = Mbyll Skeda të Shumta
+    .accesskey = u
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zhbëje Mbylljen e Skedës
+            [one] Zhbëje Mbylljen e Skedës
+           *[other] Zhbëje Mbylljen e Skedave
+        }
+    .accesskey = Z
 close-tab =
     .label = Mbylleni Skedën
     .accesskey = M
