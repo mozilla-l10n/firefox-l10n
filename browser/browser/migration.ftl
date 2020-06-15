@@ -44,9 +44,14 @@ import-from-360se =
     .label = 360 Öruggur vafri
     .accesskey = 3
 no-migration-sources = Engin forrit fundust sem gætu innihaldið bókamerki, ferill eða lykilorð.
+import-source-page-title = Flytja inn stillingar og gögn
+import-items-page-title = Hlutir til að flytja inn
 import-items-description = Veldu hvaða hluti þú vilt flytja inn:
+import-migrating-page-title = Flyt inn…
 import-migrating-description = Verið er að flytja inn eftirfarandi hluti…
+import-select-profile-page-title = Veldu notanda
 import-select-profile-description = Hægt er að flytja eftirfarandi notendur inn frá:
+import-done-page-title = Innflutningi lokið
 import-done-description = Eftirfarandi hluti tókst að flytja inn:
 import-close-source-browser = Gakktu úr skugga um að valinn vafri sé lokaður áður en haldið er áfram.
 # Displays which browser the bookmarks are being imported from
