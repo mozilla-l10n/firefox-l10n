@@ -229,8 +229,11 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikon gambar-dalam-gambar
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Sekilas tentang perlindungan
+cfr-whatsnew-protections-body = Dasbor Perlindungan mencakup ringkasan laporan tentang pelanggaran data dan manajemen kata sandi. Anda sekarang dapat melacak berapa banyak pelanggaran yang Anda selesaikan, dan melihat apakah ada kata sandi Anda yang tersimpan mungkin terekspos dalam pelanggaran data.
+cfr-whatsnew-protections-cta-link = Tampilkan Dasbor Perlindungan
 cfr-whatsnew-protections-icon-alt = Ikon perisai
 
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Pengalaman PDF yang lebih baik
+cfr-whatsnew-better-pdf-body = Dokumen PDF kini dapat dibuka langsung di { -brand-short-name }, membuat alur kerja Anda menjadi mudah.

@@ -37,8 +37,12 @@ protection-report-webpage-title = Dasbor Perlindungan
 protection-report-page-content-title = Dasbor Perlindungan
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } dapat melindungi privasi Anda di balik layar ketika Anda menjelajah. Ini adalah ringkasan perlindungan tersebut yang dipersonalisasi, termasuk alat untuk mengendalikan keamanan daring Anda.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } melindungi privasi Anda di balik layar ketika Anda menjelajah. Ini adalah ringkasan dari perlindungan tersebut yang dipersonalisasi, termasuk peralatan untuk mengendalikan keamanan daring Anda.
+protection-report-settings-link = Kelola pengaturan privasi dan keamanan Anda.
 etp-card-title-always = Perlindungan Pelacakan yang Ditingkatkan: Selalu Aktif
 etp-card-title-custom-not-blocking = Perlindungan Pelacakan yang Ditingkatkan: NONAKTIF
+etp-card-content-description = { -brand-short-name } secara otomatis menghentikan perusahaan untuk secara rahasia mengikuti Anda di web.
 protection-report-etp-card-content-custom-not-blocking = Semua pengamanan saat ini nonaktif. Pilih pelacak yang akan diblokir dengan mengelola pengaturan perlindungan { -brand-short-name } Anda.
 protection-report-manage-protections = Kelola Pengaturan
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -112,6 +116,8 @@ monitor-link = Cara kerja
 monitor-header-content-no-account = Periksa { -monitor-brand-name } untuk melihat apakah Anda terkena dampak pembobolan data, dan dapatkan peringatan tentang pembobolan terbaru.
 monitor-header-content-signed-in = { -monitor-brand-name } memperingatkan Anda jika info tentang Anda muncul dalam pembobolan yang diketahui.
 monitor-sign-up = Daftar untuk Peringatan Pembobolan
+monitor-sign-up-link = Daftar untuk Peringatan Pembobolan
+    .title = Daftar untuk peringatan pembobolan pada { -monitor-brand-name }
 auto-scan = Secara otomatis dipindai hari ini
 monitor-emails-tooltip =
     .title = Lihat alamat surel terpantau di { -monitor-brand-short-name }
@@ -134,6 +140,13 @@ info-known-breaches-found =
        *[other] Pelanggaran data yang dikenal telah mengekspos informasi Anda
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+       *[other] Pelanggaran data yang dikenal ditandai sebagai teratasi
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -148,9 +161,39 @@ password-warning =
     { $count ->
        *[other] Info masuk tersimpan mungkin telah terekspos dalam pelanggaran data. Ubah kata sandi ini untuk keamanan daring yang lebih baik. <a data-l10n-name="lockwise-link">Lihat Info Masuk yang Disimpan</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+       *[other] Kata sandi telah terpapar dalam pelanggaran yang belum teratasi
+    }
 monitor-no-breaches-title = Kabar baik!
+monitor-no-breaches-description = Anda tidak memiliki pelanggaran yang diketahui. Jika hal itu berubah, kami akan memberi tahu Anda.
 monitor-view-report-link = Lihat Laporan
     .title = Atasi pelanggaran pada { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Atasi pelanggaran Anda
+monitor-breaches-unresolved-description = Setelah meninjau rincian pelanggaran dan mengambil langkah-langkah untuk melindungi informasi Anda, Anda dapat menandai pelanggaran yang telah diselesaikan.
+monitor-manage-breaches-link = Kelola Pelanggaran
+    .title = Kelola pelanggaran pada { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Bagus! Anda telah menyelesaikan semua pelanggaran yang diketahui.
+monitor-breaches-resolved-description = Jika surel Anda muncul dalam pelanggaran baru, kami akan memberi tahu Anda.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } dari { $numBreaches } pelanggaran yang ditandai sebagai teratasi
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% selesai
+monitor-partial-breaches-motivation-title-start = Permulaan yang bagus!
+monitor-partial-breaches-motivation-title-middle = Teruskan!
+monitor-partial-breaches-motivation-title-end = Hampir selesai! Teruskan.
+monitor-partial-breaches-motivation-description = Selesaikan pelanggaran yang tersisa di { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Atasi Pelanggaran
+    .title = Atasi Pelanggaran pada { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

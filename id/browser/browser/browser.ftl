@@ -269,12 +269,20 @@ popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan diba
 popup-screen-sharing-not-now =
     .label = Jangan Sekarang
     .accesskey = W
+popup-screen-sharing-never =
+    .label = Jangan Pernah Izinkan
+    .accesskey = N
+popup-silence-notifications-checkbox = Nonaktifkan pemberitahuan dari { -brand-short-name } ketika berbagi
+popup-silence-notifications-checkbox-warning = { -brand-short-name } tidak akan menampilkan pemberitahuan saat Anda berbagi.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Anda membagikan { -brand-short-name }. Orang lain dapat melihat saat Anda beralih ke tab baru.
 sharing-warning-screen = Anda membagikan seluruh layar Anda. Orang lain dapat melihat saat Anda beralih ke tab baru.
 sharing-warning-proceed-to-tab =
     .label = Lanjutkan ke Tab
+sharing-warning-disable-for-session =
+    .label = Nonaktifkan perlindungan berbagi untuk sesi ini.
 
 ## DevTools F12 popup
 
