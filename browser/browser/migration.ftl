@@ -50,9 +50,14 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Nebyl nalezen žádný program, který by obsahoval záložky, historii nebo uložená hesla.
+import-source-page-title = Import nastavení a údajů
+import-items-page-title = Importované položky
 import-items-description = Zvolte položky, které chcete importovat:
+import-migrating-page-title = Probíhá import…
 import-migrating-description = Teď jsou importovány následující položky…
+import-select-profile-page-title = Volba profilu
 import-select-profile-description = Importovat je možné z následujících profilů:
+import-done-page-title = Import byl dokončen
 import-done-description = Následující položky byly úspěšně importovány:
 import-close-source-browser = Před pokračováním se prosím ujistěte, že je vybraný prohlížeč zavřený.
 # Displays which browser the bookmarks are being imported from
