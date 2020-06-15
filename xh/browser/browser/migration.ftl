@@ -38,6 +38,7 @@ import-from-360se =
     .label = I-360 ibhrawuza ekhuselekileyo
     .accesskey = 3
 no-migration-sources = Akukho ziprogram ziqulethe iibhukhmakhi, imbali okanye iingcombolo zepasiwedi zifumanekayo.
+import-source-page-title = Ngenisa iiSethingi neNgcombolo
 import-items-page-title = Amanqaku afanele Ukuthathwa Ngaphandle
 import-items-description = Khetha ukuba ngawaphi amanqaku anokuthathwa ngaphandle:
 import-migrating-page-title = Kuthathwa ngaphandle…
