@@ -23,7 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-search-engine-header = Titz'aqatisäx kanob'äl
+newtab-topsites-add-search-engine-header = Titz'aqatisäx Kanob'äl
 newtab-topsites-add-topsites-header = K'ak'a' Utziläj Ruxaq K'amaya'l
 newtab-topsites-edit-topsites-header = Tinuk' re Utziläj Ruxaq K'amaya'l re'
 newtab-topsites-title-label = B'i'aj
@@ -150,7 +150,7 @@ newtab-section-menu-expand-section = Tirik' Peraj
 newtab-section-menu-manage-section = Tinuk'samajïx Peraj
 newtab-section-menu-manage-webext = Tinuk'samajïx K'amal
 newtab-section-menu-add-topsite = Titz'aqatisäx K'ïy Ruwinaq Ruxaq K'amaya'l
-newtab-section-menu-add-search-engine = Titz'aqatisäx kanob'äl
+newtab-section-menu-add-search-engine = Titz'aqatisäx Kanob'äl
 newtab-section-menu-move-up = Tijotob'äx
 newtab-section-menu-move-down = Tiqasäx qa
 newtab-section-menu-privacy-notice = Ichinan na'oj
