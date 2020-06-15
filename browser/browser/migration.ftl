@@ -53,6 +53,7 @@ no-migration-sources = Klarte ikkje å finne program som inneheld bokmerke, hist
 import-source-page-title = Importer innstillingar og data
 import-items-page-title = Element som skal importerast
 import-items-description = Vel kva for element som skal importerast:
+import-migrating-page-title = Importerer…
 import-migrating-description = Følgjande element vert no importerte…
 import-select-profile-page-title = Vel profil
 import-select-profile-description = Du kan importere frå følgjande profilar:
