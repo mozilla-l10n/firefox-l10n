@@ -30,6 +30,12 @@ about-debugging-sidebar-usb-enabled = USB activado
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
 about-debugging-sidebar-usb-disabled = USB desactivado.
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = Yi'ɨ
+# Connection status (disconnected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-disconnected = Ntu yi'ɨ
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = Ntu nnani'i ka̱a̱.
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = kivɨ
@@ -133,7 +139,7 @@ about-debugging-extension-uuid =
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
-    .label = Nuu iñinɨ
+    .label = Nuu iñinu
 # Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
