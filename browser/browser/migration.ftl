@@ -51,6 +51,7 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = Không tìm thấy chương trình nào chứa dấu trang, lịch sử, hoặc dữ liệu mật khẩu.
 import-source-page-title = Nhập các Thiết lập và Dữ liệu từ
+import-items-page-title = Các mục cần nhập
 import-items-description = Chọn các mục để nhập:
 import-migrating-page-title = Đang nhập…
 import-migrating-description = Các mục sau đang được nhập…
