@@ -54,7 +54,9 @@ import-source-page-title = Nhập các Thiết lập và Dữ liệu từ
 import-items-description = Chọn các mục để nhập:
 import-migrating-page-title = Đang nhập…
 import-migrating-description = Các mục sau đang được nhập…
+import-select-profile-page-title = Chọn Hồ Sơ
 import-select-profile-description = Các hồ sơ có thể nhập được từ:
+import-done-page-title = Nhập Xong
 import-done-description = Các mục sau đã được nhập thành công:
 import-close-source-browser = Vui lòng chắc chắn trình duyệt được chọn đã đóng truớc khi tiếp tục.
 # Displays which browser the bookmarks are being imported from
