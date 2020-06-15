@@ -8,9 +8,23 @@ calendar-ics-file-window =
 calendar-ics-file-dialog =
   .buttonlabelaccept = 読み込む
 
+calendar-ics-file-window-2 =
+  .title = カレンダーの予定と ToDo を読み込む
+
+calendar-ics-file-dialog-import-event-button-label = 予定を読み込む
+calendar-ics-file-dialog-import-task-button-label = ToDo を読み込む
+
+calendar-ics-file-dialog-2 =
+  .buttonlabelaccept = すべて読み込む
+
 calendar-ics-file-accept-button-ok-label = OK
 
 # $fileName (string) - The name of the file.
 calendar-ics-file-dialog-message = "{ $fileName }" ファイルを読み込みますか？
+
+calendar-ics-file-dialog-message-2 = ファイルから読み込む:
+calendar-ics-file-dialog-calendar-menu-label = カレンダーに読み込む:
 calendar-ics-file-import-success = 読み込みが完了しました。
 calendar-ics-file-import-error = エラーが発生したため読み込みに失敗しました。
+
+calendar-ics-file-dialog-no-calendars = 予定または ToDo を読み込みできるカレンダーがありません。
