@@ -57,6 +57,7 @@ import-migrating-page-title = Importieren…
 import-migrating-description = Folgende Daten werden momentan importiert:
 import-select-profile-page-title = Profil wählen
 import-select-profile-description = Es stehen folgende Profile zum Import zur Verfügung:
+import-done-page-title = Importieren abgeschlossen
 import-done-description = Folgende Daten wurden erfolgreich importiert:
 import-close-source-browser = Bitte überprüfen Sie vor dem Fortfahren, dass der gewählte Browser beendet ist.
 # Displays which browser the bookmarks are being imported from
