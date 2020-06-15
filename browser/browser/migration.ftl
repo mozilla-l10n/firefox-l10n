@@ -44,6 +44,7 @@ import-from-360se =
     .label = 360 సురక్షిత విహారిణి
     .accesskey = 3
 no-migration-sources = ఇష్టాంశములు, చరిత్ర లేదా సంకేతపద డాటాను కలిగివున్న ప్రొగ్రాము కనుగొనబడలేదు.
+import-items-page-title = దిగుమతి కావడానికి అంశములు
 import-items-description = ఏయే అంశాలు దిగుమతి కావాలో ఎంచుకోండి:
 import-migrating-page-title = దిగుమతవుతున్నది...
 import-migrating-description = ఈ క్రింది అంశములు ప్రస్తుతం దిగుమతవుతున్నవి...
