@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Restaurar il tab serrà
     .accesskey = R
+tab-context-close-multiple-tabs =
+    .label = Serrar plirs tabs
+    .accesskey = r
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Restaurar tabs serrads
+            [one] Restaurar il tab serrà
+           *[other] Restaurar ils tabs serrads
+        }
+    .accesskey = u
 close-tab =
     .label = Serrar il tab
     .accesskey = r

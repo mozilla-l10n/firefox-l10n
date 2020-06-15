@@ -20,21 +20,26 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Revocar il serrar dil tab
     .accesskey = r
-
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Restaurar tabs serrads
+            [one] Restaurar il tab serrà
+           *[other] Restaurar ils tabs serrads
+        }
+    .accesskey = u
 toolbar-context-menu-manage-extension =
     .label = Administrar l'extensiun
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Allontanar l'extensiun
     .accesskey = a
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Rapportar l'extensiun
     .accesskey = u
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
