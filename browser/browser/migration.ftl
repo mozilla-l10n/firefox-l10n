@@ -44,9 +44,14 @@ import-from-360se =
     .label = 360 சுழற்சியில் பாதுகாப்பான உலாவி
     .accesskey = 3
 no-migration-sources = புத்தகக்குறிகள், வரலாறு அல்லது கடவுச்சொல் தரவு போன்றவற்றைக் கொண்ட நிரல்களை காண முடியவில்லை.
+import-source-page-title = இறக்குதல் அமைவுகள் மற்றும் தரவு
+import-items-page-title = இறக்க வேண்டிய உருப்படிகள்
 import-items-description = எந்த உருப்படிகளை இறக்க வேண்டும் என தேர்ந்தெடுக்கவும்:
+import-migrating-page-title = இறக்குகிறது…
 import-migrating-description = பின்வரும் உருப்படிகள் தற்போது இறக்கப்பட வேண்டும்…
+import-select-profile-page-title = விவரக்குறிப்பை தேர்ந்தெடு
 import-select-profile-description = பின்வரும் விவரக்குறிப்புகள் இறக்க தயாராக உள்ளன:
+import-done-page-title = இறக்குதல் முடிவு
 import-done-description = பின்வரும் உருப்படிகள் வெற்றிகரமாக இறக்கப்பட்டது:
 import-close-source-browser = தொடரும் முன் தேர்ந்தெடுக்கப்பட்ட உலாவி மூடப்பட்டுள்ளதா என உறுதிப்படுத்து.
 # Displays which browser the bookmarks are being imported from
