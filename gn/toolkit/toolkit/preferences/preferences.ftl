@@ -22,6 +22,7 @@ set-password-new-password = Ñe'ëñemi pyahu moinge:
 set-password-reenter-password = Ñe'ẽñemi moneĩ:
 set-password-meter = Ñe'ẽñemi rekoporã ra'ãha
 set-password-meter-loading = Oñemyenyhẽhína
+master-password-admin = Ne ñangarekohára oikotevẽ oreko mbohekópe ñe’ẽñemi ha’etéva eñongatu hag̃ua umi ñe’ẽñemi.
 master-password-description = Peteĩ ñe'ẽñemi ha'etéva oipuru omo'ã hag̃ua marandu mbarete tenda ñe'ẽñemi rehegua. Emoheñóivo peteĩ ñe'ẽñemi ha'etéva, ojeruréta ndéve emoinge peteĩ jey opa tembiapópe { -brand-short-name } oguerujey vove pe marandu ñongatupyre ñe'ẽñemi omo'ãva pegua.
 master-password-warning = Eñeha’ãke nemandu’a pe ñe’ẽñemi ha’etéva emoĩva’ekuére. Nderesaráiramo ne’ẽñemi ha’etévagui, ndaikatumo’ãi eike mba’eveichagua marandu omo’ãva ha’épe.
 remove-password =
