@@ -210,8 +210,20 @@ monitor-view-report-link = Prikaži poročilo
     .title = Razrešite kraje v { -monitor-brand-short-name }ju
 monitor-breaches-unresolved-title = Razrešite svoje kraje
 monitor-breaches-unresolved-description = Po pregledu podrobnosti o kraji podatkov in izvedbi ukrepov za zaščito vaših podatkov, lahko kraje podatkov označite kot razrešene.
+monitor-manage-breaches-link = Upravljajte kraje
+    .title = Upravljajte kraje v { -monitor-brand-short-name }ju
 monitor-breaches-resolved-title = Super! Razrešili ste vse znane kraje.
 monitor-breaches-resolved-description = Če se bo vaš e-poštni naslov pojavil v novih krajah, vas bomo obvestili.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } od { $numBreaches } kraj podatkov je bila označena kot razrešena
+        [two] { $numBreachesResolved } od { $numBreaches } kraj podatkov sta bili označeni kot razrešeni
+        [few] { $numBreachesResolved } od { $numBreaches } kraj podatkov so bile označene kot razrešene
+       *[other] { $numBreachesResolved } od { $numBreaches } kraj podatkov je bilo označenih kot razrešenih
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% dokončano
