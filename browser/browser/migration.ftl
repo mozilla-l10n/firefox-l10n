@@ -50,9 +50,14 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Hittade inget program som innehåller bokmärken, historik eller lösenord.
+import-source-page-title = Importera inställningar och data
+import-items-page-title = Poster att importera
 import-items-description = Välj poster att importera:
+import-migrating-page-title = Importerar…
 import-migrating-description = Följande poster importeras för närvarande…
+import-select-profile-page-title = Välj profil
 import-select-profile-description = Följande profiler är tillgängliga att importera från:
+import-done-page-title = Import slutförd
 import-done-description = Följande poster har importerats:
 import-close-source-browser = Kontrollera att den valda webbläsaren är stängd innan du fortsätter.
 # Displays which browser the bookmarks are being imported from
