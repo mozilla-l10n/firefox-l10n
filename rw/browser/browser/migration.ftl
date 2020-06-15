@@ -14,6 +14,7 @@ import-from-nothing =
     .label = Ntihagire icyo uzana
     .accesskey = i
 no-migration-sources = Nta porogaramu zirimo utumenyetso nyobora, ibijyana n'ijambobanga n'amateka zabonetse.
+import-source-page-title = Kuzana Amagenamiterere n'Ibyatanzwe
 import-items-page-title = Ibintu Bigomba Kuzanwa
 import-items-description = Guhitamo Ibigize byi Kuvana Hanze:
 import-migrating-page-title = Irimo Kuzana...
