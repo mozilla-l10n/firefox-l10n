@@ -20,19 +20,14 @@ import-from-safari =
     .label = Safari
     .accesskey = S
 no-migration-sources = No programs that contain bookmarks, history or password data could be found.
-import-source =
-    .label = Import Settings and Data
-import-items-title =
-    .label = Zwiteṅwa zwa u ṱunḓa
+import-source-page-title = Import Settings and Data
+import-items-page-title = Zwiteṅwa zwa u ṱunḓa
 import-items-description = Nangani uri ndi zwifhio zwiteṅwa zwa u ṱunḓa:
-import-migrating-title =
-    .label = U Ṱunḓa...
+import-migrating-page-title = U Ṱunḓa...
 import-migrating-description = Zwiteṅwa zwitevhelaho zwi khou ṱunḓwa zwa zwino...
-import-select-profile-title =
-    .label = Nangani Mbonwasia
+import-select-profile-page-title = Nangani Mbonwasia
 import-select-profile-description = Mbonwasia dzi tevhelaho dzi hone uri dzi nga ṱunḓiwa u bva kha:
-import-done-title =
-    .label = U ṱunḓa ho Fhela
+import-done-page-title = U ṱunḓa ho Fhela
 import-done-description = Zwiteṅwa zwi tevhelaho zwo ṱunḓiwa zwavhuḓi:
 # Displays which browser the bookmarks are being imported from
 #
