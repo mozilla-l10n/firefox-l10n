@@ -26,19 +26,14 @@ import-from-firefox =
     .label = फायरफोक्स
     .accesskey = x
 no-migration-sources = जाहान प्रोग्राम बाङ ओका रे पुथी चिनहा़ को मेनाक् आ हिता़ल आर बाङ दानाङ साबाद डाटा बाय ञाम दाड़ेयाक् .
-import-source =
-    .label = साजाव को आर डाटा आ़गु .
-import-items-title =
-    .label = आ़गु ला़गित् जिनिस को.
+import-source-page-title = साजाव को आर डाटा आ़गु .
+import-items-page-title = आ़गु ला़गित् जिनिस को.
 import-items-description = बाछाव मे ओका जिनिस को आ़गुय ला़गित्:
-import-migrating-title =
-    .label = आ़गुयेत् आ…
+import-migrating-page-title = आ़गुयेत् आ…
 import-migrating-description = नोवा जिनिस को दो नितोक् आ़गु ला़गित् …
-import-select-profile-title =
-    .label = प्रोफाइल बाछाव मे
+import-select-profile-page-title = प्रोफाइल बाछाव मे
 import-select-profile-description = नोवा फ्रोफाइय को दो आ़गु ला़गित् ञामोक् आ खोन :
-import-done-title =
-    .label = आ़गु पुरा़व एना
+import-done-page-title = आ़गु पुरा़व एना
 import-done-description = नोवा जिनिस को बेस लेकाते आ़गु लेन ताहेना:
 # Displays which browser the bookmarks are being imported from
 #
