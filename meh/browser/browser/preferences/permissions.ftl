@@ -5,66 +5,50 @@
 permissions-window =
     .title = Nuu tetiñu tutu nnatava
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Da nuu Web
     .accesskey = D
-
 permissions-block =
     .label = Kasɨ
     .accesskey = K
-
 permissions-session =
     .label = Kuvi nuu sesión ya´a
     .accesskey = s
-
 permissions-allow =
     .label = Kuvi
     .accesskey = K
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Sna nuu Web
     .accesskey = S
-
 permissions-remove-all =
     .label = Sna kuaiyo nuu Web
     .accesskey = S
-
 permissions-button-cancel =
     .label = Nkuvi-ka
     .accesskey = N
-
 permissions-button-ok =
     .label = Chuva´a nsama
     .accesskey = C
-
 permissions-autoplay-menu = Kua vají nuu kuaiyo nuu web:
-
 permissions-searchbox =
     .placeholder = Nánuku nuu Web
-
 permissions-capabilities-autoplay-allow =
     .label = Kuvi koo nasun ji tutu kana
 permissions-capabilities-autoplay-block =
     .label = Kasɨ audio
 permissions-capabilities-autoplay-blockall =
     .label = Kasɨ audio ji video
-
 permissions-capabilities-allow =
     .label = Kuvi
 permissions-capabilities-block =
     .label = Kasɨ
 permissions-capabilities-prompt =
     .label = Ntaka ichi katu´un
-
 permissions-capabilities-listitem-allow =
     .value = Kuvi
 permissions-capabilities-listitem-block =
@@ -125,6 +109,10 @@ permissions-site-notification-disable-label =
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Ke'i - Permisos nuu iñinu ntañu'u
+    .style = { permissions-window.style }
+permissions-site-location-desc = Da nuu web ya´a kuvi kuni nuu iñinu ntañu'u. Kuvi kachinu ne´i da web kuvi kuni nuu iñinu ntañu'u. Suni kuvi kasɨnɨ solicitudes jíía kuvi kuni nuu iñinu ntañu'u.
 permissions-site-location-disable-label =
     .label = Kasɨ solicitudes jíía jikatu´un nuu iñɨ noo´o
 

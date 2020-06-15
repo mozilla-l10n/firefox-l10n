@@ -96,6 +96,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Nate tuku sesión yata
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Kachi sa kene nuu ka̱a̱ nánuku
 disable-extension =
     .label = Xita extensión
 tabs-group-header = Pestañas
@@ -199,6 +201,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Ni´i { $app-name } (predeterminado)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Ni'i ka̱a̱ a vaji nuu macOS
+            [windows] Ni'i ka̱a̱ a vaji nuu Windows
+           *[other] Ni'i ka̱a̱ a vaji nuu sistema
+        }
 applications-use-other =
     .label = Ni´i inka...
 applications-select-helper = Kaji iin ka̱a̱ auxiliar
@@ -222,6 +231,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Ni´i { $plugin-name } (nuu { -brand-short-name })
+applications-open-inapp =
+    .label = Síne nuu { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -233,12 +244,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -738,6 +753,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Síne pestañaS
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = Da sitio vii
+    .accesskey = T
 addressbar-suggestions-settings = Sama preferencias nuu sugerencias ka̱a̱ nánuku
 
 ## Privacy Section - Content Blocking
