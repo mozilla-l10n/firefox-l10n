@@ -39,10 +39,13 @@ protections-panel-not-blocking-label = Kuvi
 
 ##
 
+protections-panel-showreport-label = Kune´ya reporte
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Campos de inicio de sesión
 protections-panel-site-not-working-view-issue-list-forms = Formularios
 protections-panel-site-not-working-view-issue-list-payments = Da nchuna
 protections-panel-site-not-working-view-issue-list-comments = Da tu'un

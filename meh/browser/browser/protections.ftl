@@ -45,6 +45,9 @@ turn-on-sync = Activar { -sync-brand-short-name }...
 manage-connected-devices = …Tetiñu da ka̱a̱…
 monitor-link = Naja satiñu
 monitor-no-breaches-title = Tu'un va'a!
+monitor-partial-breaches-motivation-title-start = ¡Va'a nkajie'enu!
+monitor-partial-breaches-motivation-title-middle = ¡Kaka sukuan!
+monitor-partial-breaches-motivation-title-end = ¡Sani nɨ'ɨo! Kaka sukuan.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

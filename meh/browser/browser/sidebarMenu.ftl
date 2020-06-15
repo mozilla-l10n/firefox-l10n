@@ -4,7 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = A ta´a ini noo´o
-
 sidebar-menu-history =
     .label = Sɨ´ɨ
-
+sidebar-menu-close =
+    .label = Kasɨ barra kuá´á

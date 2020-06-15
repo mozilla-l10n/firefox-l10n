@@ -8,3 +8,6 @@ safeb-blocked-unwanted-page-title = Nuu ya'a sa̱naan yɨ´ɨ ka̱a̱ kuvi sá'�
 safeb-blocked-harmful-page-title = Nuu ya´a sa̱naan yɨ´ɨ yu´u malware
 safeb-palm-accept-label = Kaka ichi yata
 safeb-palm-see-details-label = Kune´ya nakuvi
+safeb-palm-notdeceptive =
+    .label = Ya´a ntu kuvi iin nuu kantu´un…
+    .accesskey = d
