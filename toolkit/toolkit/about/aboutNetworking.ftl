@@ -61,6 +61,7 @@ about-networking-title = Желі туралы
 about-networking-http = HTTP
 about-networking-sockets = Сокеттер
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = DNS кэшін тазарту
 about-networking-dns-suffix = DNS жұрнағы
 about-networking-websockets = WebSockets
 about-networking-refresh = Жаңарту
