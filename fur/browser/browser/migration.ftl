@@ -23,19 +23,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = No son stâts cjatâts programs che a contegnin segnelibris, dâts de cronologjie o passwords.
-import-source =
-    .label = Impuarte impostazions e dâts di
-import-items-title =
-    .label = Elements di impuartâ
+import-source-page-title = Impuarte impostazions e dâts di
+import-items-page-title = Elements di impuartâ
 import-items-description = Sielç cuâi elements impuartâ:
-import-migrating-title =
-    .label = Daûr a impuartâ…
+import-migrating-page-title = Daûr a impuartâ…
 import-migrating-description = I elements ca sot a son daûr a jessi impuartâts…
-import-select-profile-title =
-    .label = Sielç un profîl
+import-select-profile-page-title = Sielç un profîl
 import-select-profile-description = I profîi ca sot a son disponibii par jessi la sorzint de impuartazion:
-import-done-title =
-    .label = Impuartazion completade
+import-done-page-title = Impuartazion completade
 import-done-description = I elements ca sot a son stâts impuartâts cun sucès:
 # Displays which browser the bookmarks are being imported from
 #
