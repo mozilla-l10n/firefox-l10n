@@ -186,6 +186,9 @@ about-debugging-browser-version-too-old = Το συνδεδεμένο πρόγρ
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Η καρτέλα "Αποσφαλμάτωση" ενδέχεται να μην λειτουργεί με το συνδεδεμένο πρόγραμμα περιήγησης. Παρακαλούμε χρησιμοποιήστε το Firefox { $runtimeVersion } αν πρέπει να χρησιμοποιήσετε την αποσφαλμάτωση με αυτό το πρόγραμμα περιήγησης.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Αυτή η έκδοση του Firefox δεν μπορεί να χρησιμοποιηθεί για εντοπισμό σφαλμάτων στο Firefox για Android (68). Προτείνουμε να εγκαταστήσετε το Firefox για Android Nightly στο τηλέφωνό σας για δοκιμή. <a>Περισσότερες λεπτομέρειες</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
@@ -263,6 +266,12 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Έναρξη
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Το push του service worker είναι ανενεργό αυτή τη στιγμή για το { -brand-shorter-name } πολλαπλών διεργασιών
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = Έναρξη
     .disabledTitle = Η έναρξη του service worker έχει απενεργοποιηθεί για την πολλαπλή διεργασία { -brand-shorter-name }
@@ -290,6 +299,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Υπηρεσία Push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Η επιθεώρηση του service worker είναι απενεργοποιημένη αυτή τη στιγμή για το { -brand-shorter-name } πολλαπλών διεργασιών
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Η καρτέλα δεν έχει φορτωθεί πλήρως και δεν μπορεί να επιθεωρηθεί
@@ -299,6 +311,11 @@ about-debugging-main-process-name = Κύρια διεργασία
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Κύρια διαδικασία για το πρόγραμμα περιήγησης προορισμού
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Εργαλειοθήκη πολλαπλών διεργασιών
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Κύρια διεργασία και διεργασίες περιεχομένου για το πρόγραμμα περιήγησης προορισμού
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Κλείσιμο μηνύματος
