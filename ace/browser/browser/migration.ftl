@@ -32,6 +32,7 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+import-select-profile-page-title = Piléh Profil
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-safari = Safari
