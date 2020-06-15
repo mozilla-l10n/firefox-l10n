@@ -266,9 +266,23 @@ popup-select-microphone =
     .value = Mikrofon për ndarje me të tjerët:
     .accesskey = M
 popup-all-windows-shared = Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.
+popup-screen-sharing-not-now =
+    .label = Jo Tani
+    .accesskey = J
+popup-screen-sharing-never =
+    .label = Mos e Lejo Kurrë
+    .accesskey = K
+popup-silence-notifications-checkbox = Çaktivizo njoftime nga { -brand-short-name }-i, ndërkohë që bëhet ndarje me të tjerë
+popup-silence-notifications-checkbox-warning = { -brand-short-name }-i s’do të shfaqë njoftime, kur jeni duke ndarë gjëra me të tjerë.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Jeni duke ndarë { -brand-short-name }-in me të tjerë. Persona të tjerë mund ta shohin, kur kaloni te një skedë e re.
+sharing-warning-screen = Po ndani me të tjerë krejt ekranin. Persona të tjerë mund ta shohin, kur kaloni te një skedë e re.
+sharing-warning-proceed-to-tab =
+    .label = Kalo te Skeda
+sharing-warning-disable-for-session =
+    .label = Çaktivizo mbrojtje ndarjeje për këtë sesion
 
 ## DevTools F12 popup
 

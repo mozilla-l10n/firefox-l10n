@@ -58,6 +58,8 @@ protections-panel-not-found-label = S'u Pikas Ndonjë
 
 protections-panel-settings-label = Rregullime Mbrojtjeje
 protections-panel-showreport-label = Shfaqe Raportin
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Pult Mbrojtjesh
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
