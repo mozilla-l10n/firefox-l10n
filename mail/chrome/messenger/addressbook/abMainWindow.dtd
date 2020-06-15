@@ -123,7 +123,7 @@ because displayed names don't have the comma in between. -->
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Εργαλεία">
 <!ENTITY tasksMenu.accesskey                            "γ">
-<!ENTITY messengerCmd.label                             "Αλληλογραφία &amp; ομάδες ειδήσεων">
+<!ENTITY messengerCmd.label                             "Αλληλογραφία &amp; ομάδες συζήτησης">
 <!ENTITY messengerCmd.accesskey                         "λ">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY addressBookCmd.label                           "Ευρετήριο διευθύνσεων">
