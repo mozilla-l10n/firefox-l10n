@@ -27,7 +27,7 @@ sentence. -->
 
 <!ENTITY  chatNotifications.label             "Toq ye'apon taq rutzijol chawe:">
 <!ENTITY  desktopChatNotifications.label      "Tik'ut jun rutzijol:">
-<!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  desktopChatNotifications.accesskey  "r">
 <!ENTITY  completeNotification.label          "rik'in rub'i' taqonel chuqa' nab'ey rutzub'al tzijol">
 <!ENTITY  buddyInfoOnly.label                 "xa xe rik'in rub'i' taqonel">
 <!ENTITY  dummyNotification.label             "majun chik etamab'äl">
@@ -35,7 +35,7 @@ sentence. -->
 <!ENTITY  getAttention.accesskey              "T">
 <!ENTITY  getAttentionMac.label               "Tisilöx ruwachib'al dock">
 <!ENTITY  getAttentionMac.accesskey           "o">
-<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.accesskey                 "k">
 <!ENTITY  chatSound.label                     "Titzij jun k'oxom">
 <!ENTITY  play.label                          "Titzij">
 <!ENTITY  play.accesskey                      "T">

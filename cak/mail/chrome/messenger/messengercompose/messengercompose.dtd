@@ -46,10 +46,10 @@
 <!ENTITY saveAsTemplateCmd.accesskey "K">
 <!ENTITY sendNowCmd.label "Titaq Wakami">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendNowCmd.accesskey "q">
 <!ENTITY sendLaterCmd.label "Titaq Na">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY sendLaterCmd.accesskey "t">
 <!ENTITY printSetupCmd.label "Tinuk'samajïx ruxaq…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">

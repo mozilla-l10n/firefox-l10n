@@ -19,7 +19,7 @@
 <!ENTITY workOffline.label "Tisamäj rik'in chupun okem toq xtuk'ïs ruqasaxik chuqa'/o rukomonik">
 <!ENTITY workOffline.accesskey "T">
 <!ENTITY selectButton.label "Ticha'…">
-<!ENTITY selectButton.accesskey "E">
+<!ENTITY selectButton.accesskey "a">
 <!ENTITY MsgSelectDesc.label "Kecha' ri taq ruyakwuj taqotz'ib' chuqa' kimolaj tzijol richin ye'okisäx pa chupun okem.">
 <!ENTITY MsgSelectInd.label "Tiqasäx">
 <!ENTITY MsgSelectItems.label "Taq Yakwuj chuqa' Kimolaj Tzijol">
