@@ -50,6 +50,7 @@
 <!ENTITY folderProps.name.label                  "İsim:">
 <!ENTITY folderProps.name.accesskey              "s">
 <!ENTITY folderProps.color.label                 "Simge rengi:">
+<!ENTITY folderProps.color.accesskey             "n">
 <!ENTITY folderProps.reset.tooltip               "Varsayılan rengi geri yükle">
 <!ENTITY folderProps.location.label              "Konum:">
 <!ENTITY folderProps.location.accesskey          "m">
@@ -58,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Öncelikli haklar…">
 <!ENTITY privileges.button.accesskey             "h">
 <!ENTITY permissionsDesc.label                   "Aşağıdaki izinlere sahipsiniz:">
+<!ENTITY folderOtherUsers.label                  "Bu klasöre erişimi olan diğerleri:">
 <!ENTITY folderType.label                        "Dizin türü:">
 
 <!ENTITY folderQuotaTab.label                    "Kota">
