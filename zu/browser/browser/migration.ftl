@@ -26,19 +26,14 @@ import-from-firefox =
     .label = I-Firefox
     .accesskey = x
 no-migration-sources = Azikho izinhlelo eziqukethi izimpawu, umlando noma idatha yephasiedi ezingatholakala.
-import-source =
-    .label = Yamukela Ukuhlelwa Nokwaziswa Kuvela
-import-items-title =
-    .label = Izinto zokwamukelwa
+import-source-page-title = Yamukela Ukuhlelwa Nokwaziswa Kuvela
+import-items-page-title = Izinto zokwamukelwa
 import-items-description = Khetha ukuthi iziphi izinto ozozamukela:
-import-migrating-title =
-    .label = Iyamukela…
+import-migrating-page-title = Iyamukela…
 import-migrating-description = Lokhu okulandelayo kuyamukelwa manje…
-import-select-profile-title =
-    .label = Khetha Ingxenye Yohlaka
+import-select-profile-page-title = Khetha Ingxenye Yohlaka
 import-select-profile-description = La maprofayili alandelayo akhona ukuthi wamukele okuvela kuwo:
-import-done-title =
-    .label = Ukwamukela Sekuphelile
+import-done-page-title = Ukwamukela Sekuphelile
 import-done-description = Lezi zinto ezilandelayo zamukelwe ngempumelelo:
 # Displays which browser the bookmarks are being imported from
 #
