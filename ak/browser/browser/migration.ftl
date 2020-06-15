@@ -26,19 +26,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = Enhu dwumadi biara a ɛwɔ mbukmaak, abakɔsɛm anaa ehintasɛmfua deta bi.
-import-source =
-    .label = Twe nhyehyɛe ne deta
-import-items-title =
-    .label = Ndeɛma a yɛbɛtwe
+import-source-page-title = Twe nhyehyɛe ne deta
+import-items-page-title = Ndeɛma a yɛbɛtwe
 import-items-description = Paw ndeɛma a wobɛtwe:
-import-migrating-title =
-    .label = Rekra aba…
+import-migrating-page-title = Rekra aba…
 import-migrating-description = Rekra ndeɛma a edi so yi aba…
-import-select-profile-title =
-    .label = Paw profael
+import-select-profile-page-title = Paw profael
 import-select-profile-description = Kwan da aprofael yi ho sɛ wobɛkra wɔn aba:
-import-done-title =
-    .label = Atwe awie
+import-done-page-title = Atwe awie
 import-done-description = Etumi atwe ndeɛma ndiso yi nkonimmu:
 # Displays which browser the bookmarks are being imported from
 #
