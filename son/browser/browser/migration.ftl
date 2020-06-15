@@ -38,9 +38,14 @@ import-from-360se =
     .label = 360 Ceecikaw saajante
     .accesskey = 3
 no-migration-sources = Porogaramey kul ši kaŋ goo nda doo-šilbayyaŋ, taariki wala šennikufal kaŋ ga duwandi.
+import-source-page-title = Cendi ka zaa kayandiyaney nda bayhayey
+import-items-page-title = Hayiizey kaŋ ga cendi ka zaandi
 import-items-description = Suuba hayiizey kaŋ ga cendi ka zaandi:
+import-migrating-page-title = Cendi ga zaandi…
 import-migrating-description = Hayiizey wey goo ma cenda ka zaandi…
+import-select-profile-page-title = Alhal suuba
 import-select-profile-description = Alhaaley wey goo no cendi ka zaa ne se:
+import-done-page-title = Cendi ka zaayan timme
 import-done-description = Hayiizey wey n' ka bere ka ben:
 import-close-source-browser = Soobay ka ceecikaw suubantaa daabu jina ka koy jine.
 # Displays which browser the bookmarks are being imported from
