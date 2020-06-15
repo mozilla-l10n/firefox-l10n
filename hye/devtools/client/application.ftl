@@ -94,6 +94,9 @@ manifest-loaded-error = Յայտարարագիրը բեռնելիս՝ սխալ �
 manifest-loaded-devtools-error = Firefox DevTools֊ի սխալ
 # Text displayed when the page has no manifest available
 manifest-non-existing = Յայտարարագիր չի յայտնաբերուել։
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Յայտարարագիրը ներառուած է Տուեալների URL-ում։
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = Նպատակը՝<code>{ $purpose }</code>
