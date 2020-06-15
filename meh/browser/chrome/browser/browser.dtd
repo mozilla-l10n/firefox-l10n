@@ -860,7 +860,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY newTabControlled.header.message "Pestaña jíía nsama">
+<!ENTITY newTabControlled.keepButton.label "Kino da nsama">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.label "Xita extensión">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.keepButton.accesskey "K">
