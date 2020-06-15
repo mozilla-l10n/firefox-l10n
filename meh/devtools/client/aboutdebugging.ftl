@@ -120,5 +120,48 @@ about-debugging-tmp-extension-remove-button = Xita
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Kaji archivo manifest.json a xíín .xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Ya'a WebExtension kumi iin ID temporal. <a>Kutu'va jííe ya'a</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = URL manifiesto
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = UUID interno
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Nuu iñinɨ
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ID de extensión
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Kajie'e
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Anular el registro
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Teso´o eventos fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Ntu teso´o eventos fetch
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = En ejecución
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Detenido
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Registrando
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Alcance
