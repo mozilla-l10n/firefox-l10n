@@ -92,6 +92,8 @@ manifest-loaded-error = Յայտարարագիրը բեռնելիս՝ սխալ �
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
 manifest-loaded-devtools-error = Firefox DevTools֊ի սխալ
+# Text displayed when the page has no manifest available
+manifest-non-existing = Յայտարարագիր չի յայտնաբերուել։
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = Նպատակը՝<code>{ $purpose }</code>
