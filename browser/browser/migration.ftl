@@ -50,6 +50,7 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Ei löydetty ohjelmia, joista voitaisiin hakea kirjanmerkkejä, sivuhistoriaa tai salasanoja.
+import-source-page-title = Asetusten ja tietojen tuonti ohjelmasta
 import-items-page-title = Tuotavat tiedot
 import-items-description = Valitse tuotavat tiedot:
 import-migrating-page-title = Tuodaan…
