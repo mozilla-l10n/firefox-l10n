@@ -15,6 +15,13 @@ address-input-type-aria-label =
         [one] Tek adresli { $type } satırına odaklanmak için sol ok tuşunu kullanın.
        *[other] { $count } adresli { $type } satırlarına odaklanmak için sol ok tuşunu kullanın.
     }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: Düzenlemek için Enter'a, silmek için Delete'e basın.
+       *[other] { $email }, 1/{ $count }: Düzenlemek için Enter'a, silmek için Delete'e basın.
+    }
 pill-action-edit =
     .label = Adresi düzenle
     .accesskey = d
@@ -47,3 +54,6 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = Alındı onayı
+    .tooltiptext = Bu ileti için alındı onayı iste

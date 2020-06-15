@@ -14,6 +14,5 @@ accounts-conn-security = Bağlantı güvenliği
 accounts-auth-method = Yetkilendirme yöntemi
 accounts-default = Varsayılan mı?
 identity-name = Kimlik
-
 send-via-email = E-posta ile gönder
-
+app-basics-telemetry = Telemetri verileri
