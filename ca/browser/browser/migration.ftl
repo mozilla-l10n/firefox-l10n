@@ -50,6 +50,7 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = No s'ha trobat cap programa que contingui adreces d'interès, o dades d'historial o contrasenyes.
+import-source-page-title = Importació dels paràmetres i de les dades
 import-items-page-title = Elements per importar
 import-items-description = Seleccioneu quins elements voleu importar:
 import-migrating-page-title = S'està important…
