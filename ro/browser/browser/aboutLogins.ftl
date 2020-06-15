@@ -32,6 +32,7 @@ menu =
     .title = Deschide meniul
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importă din alt browser…
+about-logins-menu-menuitem-export-logins = Exportă date de autentificare…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opțiuni
@@ -155,6 +156,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
+about-logins-confirm-export-dialog-title = Exportă autentificări și parole
+about-logins-confirm-export-dialog-confirm-button = Exportă…
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
 confirm-discard-changes-dialog-message = Toate modificările nesalvate vor fi pierdute.
 confirm-discard-changes-dialog-confirm-button = Înlătură
@@ -190,3 +193,10 @@ about-logins-error-message-default = A apărut o eroare la încercarea de salvar
 
 ## Login Export Dialog
 
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Document CSV
+       *[other] Fișier CSV
+    }
