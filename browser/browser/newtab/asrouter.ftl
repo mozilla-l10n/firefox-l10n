@@ -229,6 +229,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikonë foto-në foto
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Mbrojtje përmbledhtasi
+cfr-whatsnew-protections-body = Pulti i Mbrojtjeve përfshin raporte përmbledhëse rreth cenimesh të dhënash dhe administrimi fjalëkalimesh. Tani mund të ndiqni se sa cenime keni zgjidhur, dhe të shihni nëse ndonjë nga fjalëkalimet tuaj të ruajtur është ekspozuar në një cenim të dhënash.
+cfr-whatsnew-protections-cta-link = Shihni Pult Mbrojtjesh
+cfr-whatsnew-protections-icon-alt = Ikona mburojë
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Punim më i mirë me PDF-të
+cfr-whatsnew-better-pdf-body = Dokumentet PDF tani hapen drejt e në { -brand-short-name }, duke e lehtësuar rrjedhën tuaj të punës.
