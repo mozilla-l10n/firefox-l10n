@@ -233,7 +233,7 @@ menu-tools-layout-debugger =
 menu-window-menu =
     .label = Window
 menu-window-bring-all-to-front =
-    .label = Ruk'amik chuwäch ronojel
+    .label = Tik'am pe Ronojel Chuwa
 
 ## Help Menu
 
