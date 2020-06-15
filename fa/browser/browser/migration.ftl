@@ -50,9 +50,14 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = برنامه‌ای که شامل اطلاعات نشانک‌ها، تاریخچه یا گذرواژه‌ها باشد یافت نشد.
+import-source-page-title = وارد کردن تنظیمات و داده‌ها
+import-items-page-title = مواردی که وارد شوند
 import-items-description = مواردی را که می‌خواهید وارد شوند انتخاب کنید:
+import-migrating-page-title = در حال وارد کردن…
 import-migrating-description = موارد زیر در حال وارد شدن هستند…
+import-select-profile-page-title = انتخاب مجموعهٔ تنظیمات
 import-select-profile-description = مجموعه تنظیمات زیر برای وارد کردن موجودند:
+import-done-page-title = اطلاعات وارد شد
 import-done-description = موارد زیر با موفقیت وارد شدند:
 import-close-source-browser = لطفا قبل از ادامه دادن مطمئن شوید که مرورگر انتخاب شده بسته باشد.
 # Displays which browser the bookmarks are being imported from
