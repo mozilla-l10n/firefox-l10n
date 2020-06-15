@@ -216,7 +216,7 @@ menu-tools-page-info =
 menu-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Elektebloj
+            [windows] Preferoj
            *[other] Preferoj
         }
     .accesskey =
