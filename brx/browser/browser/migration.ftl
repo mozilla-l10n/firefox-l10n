@@ -29,19 +29,14 @@ import-from-firefox =
     .label = फायारफक्स
     .accesskey = x
 no-migration-sources = बुकमार्क, जारिमिन एबा पासवार्ड डाटा थानाय जेबो डाटा मोनाखै।
-import-source =
-    .label = सेटिं आरो डाटाखौ लाबो
-import-items-title =
-    .label = लाबोबो थाखाय आइटेमफोर
+import-source-page-title = सेटिं आरो डाटाखौ लाबो
+import-items-page-title = लाबोबो थाखाय आइटेमफोर
 import-items-description = लाबोनांगौ आइटेमफोरखौ सायख:
-import-migrating-title =
-    .label = लाबो गासिनो दङ...
+import-migrating-page-title = लाबो गासिनो दङ...
 import-migrating-description = गाहायनि आइटेमफोरखौ दा लाबोनाय जागासिनो दङ...
-import-select-profile-title =
-    .label = प्रफाइल सायख
+import-select-profile-page-title = प्रफाइल सायख
 import-select-profile-description = ..निफ्राय गाहायनि प्रफाइलफोरखौ लाबोनो थाखाय मोननो हाथाव:
-import-done-title =
-    .label = लाबोनाया जोबबाय
+import-done-page-title = लाबोनाया जोबबाय
 import-done-description = गाहायनि आइटेमफोरखौ जाफुंसारै लाबोबाय:
 # Displays which browser the bookmarks are being imported from
 #
