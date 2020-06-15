@@ -52,6 +52,7 @@ import-items-page-title = פריטים לייבוא
 import-items-description = נא לבחור אילו פריטים לייבא:
 import-migrating-page-title = מתבצע ייבוא…
 import-migrating-description = הפריטים הבאים מיובאים כעת...
+import-select-profile-page-title = בחירת פרופיל
 import-select-profile-description = ניתן לייבא מהפרופילים הבאים:
 import-done-page-title = הייבוא הושלם
 import-done-description = הפריטים הבאים יובאו בהצלחה:
