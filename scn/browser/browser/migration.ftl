@@ -36,6 +36,7 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = Nun potti truvari nuḍḍu prugramma ca cc'àvi dati di nzingalibbri, cronuluggìa o chiavi.
 import-source-page-title = Pigghia mpustazziuna e dati
+import-items-page-title = Cosi di pigghiari
 import-items-description = Scegghi quali cosi pigghiari:
 import-migrating-page-title = Staju mpurtannu…
 import-migrating-description = Staju mpurtannu sti cosi…
