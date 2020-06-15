@@ -714,7 +714,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Estilo de página">
 <!ENTITY pageStyleMenu.accesskey "E">
+<!ENTITY pageStyleNoStyle.label "Naxita">
 <!ENTITY pageStyleNoStyle.accesskey "D">
+<!ENTITY pageStylePersistentOnly.label "Básico">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY allowPopups.accesskey "p">
@@ -724,10 +726,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
+<!ENTITY bidiSwitchPageDirectionItem.label        "Sama orientación página ya´a">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Sama orientación tu'un">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "o">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY findOnCmd.label     "Nánuku nuu página ya´a…">
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Nánuku tuku">
@@ -736,21 +741,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY spellAddDictionaries.label "Tee diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
+<!ENTITY editBookmark.done.label                     "Xinɨ´ɨ">
+<!ENTITY editBookmark.showForNewBookmarks.label       "Xituvi editor saa chuva´a">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Seguridad nuu ya´a">
 
+<!ENTITY identity.connection "Conexión">
+<!ENTITY identity.connectionSecure "Conexión vatu">
+<!ENTITY identity.connectionNotSecure "Conexión ntu va´a.">
+<!ENTITY identity.connectionFile "Página ya´a nchuva´a nuu ka̱a̱ tee nɨnuu noo´o.">
+<!ENTITY identity.connectionInternal "Página ya'a iyo &brandShortName; vatu.">
+<!ENTITY identity.extensionPage "Nuu ya´a nakivɨ tuku ji iin extensión.">
+<!ENTITY identity.insecureLoginForms2 "Da nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.">
+<!ENTITY identity.customRoot "Conexión verificada ji iin vetiñu taji certificados je Mozilla ntu nakuni.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "{ -brand-short-name } nñasɨ yaku ka̱a̱ nuu ya´a jiee ntu tuvi vatu.">
+<!ENTITY identity.passiveLoaded "Sava página ya´a ntu iyo vatu (kua daa tutu nátava).">
+<!ENTITY identity.activeLoaded "Nnakasɨnɨ a kumi noo´o nuu página ya´a.">
+<!ENTITY identity.weakEncryption "Nuu ya´a ni´i encriptación ntu nakui.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Conexión noo´o ntu íyo yu´u. Tu´un chu´un íchinu sana kutuvi nuu inka ñivɨ (contraseñas, mensajes, da tutu xu´un, etc.).">
+<!ENTITY identity.description.insecureLoginForms "Tu´un nuu kajie´e sesión chu´unu nuu página ya´a ntu íyo va´a je kuvi sakui´inadama.">
 
 <!ENTITY identity.enableMixedContentBlocking.accesskey "H">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
@@ -771,7 +794,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "Kajie'e sesión ji &syncBrand.shortName.label;...">
 <!ENTITY syncSignIn.accesskey         "Y">
+<!ENTITY syncSyncNowItem.label        "Sincronizar ntañu´u">
+<!ENTITY syncSyncNowItemSyncing.label "Sincronizando...">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Nakɨvu tuku nuu &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -833,6 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 
+<!ENTITY newTabControlled.header.message "Pestaña jíía nsama">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
