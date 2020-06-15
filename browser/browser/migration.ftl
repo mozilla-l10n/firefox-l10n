@@ -55,6 +55,7 @@ import-items-page-title = Éléments à importer
 import-items-description = Sélectionnez les éléments à importer :
 import-migrating-page-title = Importation…
 import-migrating-description = Les éléments suivants sont en cours d’importation…
+import-select-profile-page-title = Sélectionner un profil
 import-select-profile-description = Les profils suivants sont disponibles à l’importation :
 import-done-page-title = Importation terminée
 import-done-description = Les éléments suivants ont été importés avec succès :
