@@ -26,19 +26,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = Ttewali pulogulamu ezirina obulabe, ebyafayo oba akasumulizzo ka wiinoenyiza ku labikwa.
-import-source =
-    .label = Leeta Etegeka ne Bwiino
-import-items-title =
-    .label = Ebyokuleta okuva Ewalala
+import-source-page-title = Leeta Etegeka ne Bwiino
+import-items-page-title = Ebyokuleta okuva Ewalala
 import-items-description = Londako ebinaletebwa:
-import-migrating-title =
-    .label = Okuleeta…
+import-migrating-page-title = Okuleeta…
 import-migrating-description = Obuntu obundirira kakano bunjjirwa ewalala…
-import-select-profile-title =
-    .label = Londako Ebikwataiko
+import-select-profile-page-title = Londako Ebikwataiko
 import-select-profile-description = Ebiwandiiko ebindirira webiri leeta okuva:
-import-done-title =
-    .label = Leetera Ddala
+import-done-page-title = Leetera Ddala
 import-done-description = Obuntu obundirira bya siswe kuva ewalala burugi:
 # Displays which browser the bookmarks are being imported from
 #
