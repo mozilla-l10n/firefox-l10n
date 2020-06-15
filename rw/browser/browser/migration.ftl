@@ -14,19 +14,13 @@ import-from-nothing =
     .label = Ntihagire icyo uzana
     .accesskey = i
 no-migration-sources = Nta porogaramu zirimo utumenyetso nyobora, ibijyana n'ijambobanga n'amateka zabonetse.
-import-source =
-    .label = Kuzana Amagenamiterere n'Ibyatanzwe
-import-items-title =
-    .label = Ibintu Bigomba Kuzanwa
+import-items-page-title = Ibintu Bigomba Kuzanwa
 import-items-description = Guhitamo Ibigize byi Kuvana Hanze:
-import-migrating-title =
-    .label = Irimo Kuzana...
+import-migrating-page-title = Irimo Kuzana...
 import-migrating-description = Ibintu Bikurikira Birimo Kuzanwa...
-import-select-profile-title =
-    .label = Guhitamo Ikijyana
+import-select-profile-page-title = Guhitamo Ikijyana
 import-select-profile-description = Ibijyana Bikurikira Biriho Kugira ngo Bizanwe Bivuye mu:
-import-done-title =
-    .label = Kuzana Byarangiye
+import-done-page-title = Kuzana Byarangiye
 import-done-description = Ibintu Bikurikira Byazanwe nta Kibazo:
 # Displays which browser the bookmarks are being imported from
 #
