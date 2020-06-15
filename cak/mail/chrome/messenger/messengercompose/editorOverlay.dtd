@@ -278,7 +278,7 @@
 <!ENTITY tableSplitCell.label "Tijach Ch'utikajtz'ik">
 <!ENTITY tableSplitCell.accesskey "C">
 <!ENTITY convertToTable.label "Tinuk' Cha'on Kemon Kajtz'ik">
-<!ENTITY convertToTable.accesskey "r">
+<!ENTITY convertToTable.accesskey "K">
 <!ENTITY tableProperties.label "Taq Richinil Kemon Kajtz'ik…">
 <!ENTITY tableProperties.accesskey "i">
 
@@ -295,6 +295,7 @@
 <!ENTITY spellToolbarCmd.label "Cholotz'ib'">
 <!ENTITY spellToolbarCmd.tooltip "Tinik'ox rutz'ib'axik cha'oj o chijun ri ruxaq">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Wachib'äl">
 <!ENTITY imageToolbarCmd.tooltip "Tich'ik k'ak'a' wachib'äl o tinuk' taq richinil ri wachib'äl cha'on">
 <!ENTITY hruleToolbarCmd.label "H.Line">

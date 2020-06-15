@@ -19,13 +19,13 @@
 <!ENTITY docDirList.accesskey         "R">
 <!ENTITY docDirList.tooltip           "Ticha' o tiz'ib'äx rub'i' ri näj achcholb'äl richin re ruxaq re'">
 <!ENTITY publishImgCheckbox.label     "Ketz'aqatisäx taq wachib'äl chuqa' ch'aqa' chik taq yakb'äl">
-<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.accesskey "h">
 <!ENTITY publishImgCheckbox.tooltip   "Titalüx kitzijol taq wachib'äl chuqa' ch'aqa' chik taq yakb'äl ya'on ketal ruma re ruxaq re'">
 <!ENTITY sameLocationRadio.label      "Tokisäx ri k'ojlib'äl achi'el richin ri ruxaq">
 <!ENTITY sameLocationRadio.accesskey  "o">
 <!ENTITY sameLocationRadio.tooltip    "Titalüx kitzijol taq yakb'äl pa ri junam ruk'ojlib'al rik'in ri ruxaq">
 <!ENTITY useSubdirRadio.label         "Tokisäx ri rachcholb'al re ruxaq k'amaya'l re':">
-<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.accesskey     "c">
 <!ENTITY useSubdirRadio.tooltip       "Titalüx kitzijol ri taq yakb'äl richin ri näj achcholb'äl cha'on">
 <!ENTITY otherDirList.tooltip         "Ticha' chuqa' titz'ib'äx rub'i' ri näj achcholb'äl, akuchi' xtitalüx kitzijol ri taq yakb'äl">
 <!ENTITY pageTitle.label              "Rub'i' Ruxaq:">

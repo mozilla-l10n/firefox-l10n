@@ -28,7 +28,7 @@
 <!ENTITY useHtml.label                        "Ketz'ib'äx taq tzijol pa HTML b'anikil">
 <!ENTITY useHtml.accesskey                    "K">
 <!ENTITY autoQuote.label                      "Tisik'ïx chik pa ruyonil ri nab'ey rutzijol toq nitzolïx tzij">
-<!ENTITY autoQuote.accesskey                  "m">
+<!ENTITY autoQuote.accesskey                  "r">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Toq noyöx,">
 <!ENTITY quoting.accesskey                    "n">

@@ -85,7 +85,7 @@
 <!ENTITY downloadStarredCmd.label "Kek'ul taq Tzijol K'o Kiq'ij">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Titz'ajb'äx…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "b">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
 <!ENTITY printPreviewCmd.accesskey "b">
@@ -235,7 +235,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Taq Tzijonem Etz'eton rik'in man Esik'in ta taq Rutzijol">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "E">
 <!ENTITY ignoredThreadsCmd.label "Kerepüx Ch'ab'enïk">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY ignoredThreadsCmd.accesskey "C">
 
 <!ENTITY headersMenu.label "Taq jub'i'aj">
 <!ENTITY headersMenu.accesskey "j">
@@ -326,7 +326,7 @@
 <!ENTITY prevStarredMsgCmd.label "Rutzijol Ya'on Ruq'ij">
 <!ENTITY prevStarredMsgCmd.accesskey "Y">
 <!ENTITY folderMenu.label "Yakwuj">
-<!ENTITY folderMenu.accesskey "O">
+<!ENTITY folderMenu.accesskey "Y">
 <!ENTITY goRecentlyClosedTabs.label "Taq Ruwi' k'a b'a' Ketz'apïx">
 <!ENTITY goRecentlyClosedTabs.accesskey "k">
 <!ENTITY startPageCmd.label "Ruxaq Tikirib'äl">
@@ -728,6 +728,7 @@
 <!ENTITY idColumn.label "Kicholajem K'uluj">
 <!ENTITY attachmentColumn.label "Taq taqoj">
 
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Kecha' taq che'el richin nik'ut">
 <!ENTITY selectColumn.tooltip "Tik'exlöx yecha' ronojel taq rutzijol">
@@ -751,6 +752,7 @@
 <!ENTITY locationColumn2.tooltip "Tinuk' chi k'ojlib'äl">
 <!ENTITY idColumn2.tooltip "Ticholajïx chi k'ulun">
 <!ENTITY attachmentColumn2.tooltip "Tinuk' chi taqoj">
+
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "K'ak'a' Rutzijol pa Kaxawäch">
@@ -929,7 +931,7 @@
 <!ENTITY saveLinkAsCmd.label "Tiyak Ximonel Achi'el…">
 <!ENTITY saveLinkAsCmd.accesskey "l">
 <!ENTITY saveImageAsCmd.label "Tiyak Wachib'äl Achi'el…">
-<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY saveImageAsCmd.accesskey "y">
 <!ENTITY copyLinkCmd.label "Tiwachib'ëx Ruk'ojlib'al Ximonel">
 <!ENTITY copyLinkCmd.accesskey "X">
 <!ENTITY copyImageAllCmd.label "Tiwachib'ëx Wachib'äl">
@@ -972,3 +974,4 @@
 <!ENTITY writeNewMessageDock.label      "Titz'ib'äx K'ak'a' Tzijol">
 <!ENTITY openAddressBookDock.label      "Tijaq Kiwujil Ochochib'äl">
 
+<!-- Content tab Navigation buttons -->

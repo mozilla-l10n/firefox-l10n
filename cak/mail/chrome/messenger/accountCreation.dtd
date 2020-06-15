@@ -110,7 +110,7 @@
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
 <!ENTITY changeSettings.label            "Kejal taq Nuk'ulem">
-<!ENTITY changeSettings.accesskey        "S">
+<!ENTITY changeSettings.accesskey        "K">
 
 <!ENTITY contactYourProvider.description "&brandShortName; nuya' q'ij chawe nak'ül ataqoya'l akuchi' nawokisaj ri anuk'ulem. Po k'o ta chi yatzijon rik'in ri anuk'samajel o aya'öl ataqoya'l chi kij ri improper taq okem. Ke'atz'eta' ri taq Thunderbird FAQ richin nawetamaj ch'aqa' chik.">
 

@@ -58,4 +58,4 @@
 <!ENTITY quitApplicationCmdUnix.accesskey  "T">
 
 <!ENTITY quitApplicationCmdMac.label  "Tel pa &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "Q">
+<!ENTITY quitApplicationCmdMac.accesskey  "T">

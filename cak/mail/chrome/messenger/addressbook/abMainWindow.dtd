@@ -36,7 +36,7 @@
 <!ENTITY printPreviewAddressBook.label                  "Nab'ey Rutz'etik ri Kitz'ib'awuj Ochochib'äl">
 <!ENTITY printPreviewAddressBook.accesskey              "K">
 <!ENTITY printContactCmd.label                          "Titz'ajb'äx Rub'i' Achib'il…">
-<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.accesskey                      "z">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Titz'ajb'äx Kitz'ib'awuj Ochochib'äl…">
 <!ENTITY printAddressBook.accesskey                     "O">
@@ -212,9 +212,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY WorkPhone.label                                "Royonib'al Samaj">
 <!ENTITY WorkPhone.accesskey                            "S">
 <!ENTITY sortAscending.label                            "Nijote'">
-<!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortAscending.accesskey                        "N">
 <!ENTITY sortDescending.label                           "Niqa">
-<!ENTITY sortDescending.accesskey                       "D">
+<!ENTITY sortDescending.accesskey                       "q">
 <!ENTITY _PhoneticName.label                            "Q'ajatz'ib' B'i'aj">
 <!ENTITY _PhoneticName.accesskey                        "a">
 

@@ -35,7 +35,7 @@
 
 <!ENTITY folderSynchronizationTab.label          "Ximojri'ïl">
 <!ENTITY folderCheckForNewMessages2.label         "Toq yekanöx k'ak'a' taq rutzijol re rub'i' taqoya'l re', junelïk tinik'öx re yakwuj re'">
-<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+<!ENTITY folderCheckForNewMessages2.accesskey     "n">
 
 <!ENTITY offlineFolder.check.label               "Tichach re yajwuj re' richin nokisäx toq majun okem">
 <!ENTITY offlineFolder.check.accesskey           "T">

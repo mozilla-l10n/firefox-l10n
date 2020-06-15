@@ -17,7 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Rub'i' rutaqoya'l tzijol">
 <!ENTITY accountTypeNews.accesskey "z">
-
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
 <!ENTITY accountTypeMovemail.accesskey "U">
@@ -67,7 +66,7 @@
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Tatz'ib'aj rub'i' ri ruk'uxasamaj atzijol (NNTP) (achi'el, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "K'uxasamaj Tzijol:">
-<!ENTITY newsServerLabel.accesskey "R">
+<!ENTITY newsServerLabel.accesskey "s">
 
 <!-- Entities for Outgoing Server page -->
 

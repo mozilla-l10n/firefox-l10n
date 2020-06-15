@@ -3,14 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
-languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
-"&brandShortName;" below.
--->
-
-<!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
 Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
@@ -24,7 +16,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importMail.label         "Taqoya'l">
 <!ENTITY importMail.accesskey     "T">
 <!ENTITY importFeeds.label        "Tz'ib'anïk B'i'aj pa taq Q'asab'äl">
-<!ENTITY importFeeds.accesskey    "d">
+<!ENTITY importFeeds.accesskey    "B">
 <!ENTITY importAddressbook.label  "Kiwujil taq Ochochib'äl">
 <!ENTITY importAddressbook.accesskey "O">
 <!ENTITY importSettings.label     "Taq nuk'ulem">
@@ -43,7 +35,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY selectDescription.label  "Tacha' ri ruwäch chi yakb'äl nawajo' najïk' el:">
 <!ENTITY selectDescriptionB.label "Ticha' jun rub'i' taqoya'l k'o wi o titz'uk jun k'ak'a' rub'i' taqoya'l:">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescription.accesskey "n">
 <!ENTITY acctName.label           "B'i'aj:">
 <!ENTITY acctName.accesskey       "B">
 <!ENTITY noModulesFound.label     "Majun chokoy o yakb'äl k'o richin yejik' el taq tzij.">
