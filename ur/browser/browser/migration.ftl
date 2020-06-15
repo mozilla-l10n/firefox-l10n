@@ -92,6 +92,10 @@ imported-edge-reading-list = فہرست پڑھ رہا ہے (عیدج سے)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-otherdata-checkbox =
+    .label = دیگر ڈیٹا
+browser-data-otherdata-label =
+    .label = دیگر ڈیٹا
 browser-data-session-checkbox =
     .label = دریچے اور ٹیب
 browser-data-session-label =
