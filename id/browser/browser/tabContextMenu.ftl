@@ -56,6 +56,16 @@ move-to-new-window =
 undo-close-tab =
     .label = Urungkan Menutup Tab
     .accesskey = g
+tab-context-close-multiple-tabs =
+    .label = Tutup Semua Tab
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Urungkan Tutup Tab
+           *[other] Urungkan Menutup Tab
+        }
+    .accesskey = U
 close-tab =
     .label = Tutup Tab
     .accesskey = u
