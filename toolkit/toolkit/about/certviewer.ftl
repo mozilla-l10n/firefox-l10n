@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Otoritas Sertifikat
 certificate-viewer-cipher-suite = Cipher Suite
 certificate-viewer-common-name = Nama Umum
 certificate-viewer-email-address = Alamat Email
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Sertifikat untuk { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Negara Perusahaan
 certificate-viewer-country = Negara
@@ -29,6 +32,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grup Pertukaran Kunci
 certificate-viewer-key-id = ID Kunci
 certificate-viewer-key-size = Ukuran Kunci
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Lokalitas Perusahaan
 certificate-viewer-locality = Daerah
 certificate-viewer-location = Lokasi
 certificate-viewer-logid = ID Log
@@ -76,7 +81,6 @@ certificate-viewer-authority-info-aia = Info Otoritas (AIA)
 certificate-viewer-certificate-policies = Kebijakan Sertifikat
 certificate-viewer-embedded-scts = SCT Tersemat
 certificate-viewer-crl-endpoints = Titik Akhir CRL
-
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Unduh
@@ -96,7 +100,16 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Ekstensi ini telah ditandai sebagai kritis, artinya klien harus menolak sertifikat jika mereka tidak memahaminya.
+certificate-viewer-export = Ekspor
+    .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Sertifikat Anda
+certificate-viewer-tab-people = Perseorangan
+certificate-viewer-tab-servers = Peladen
+certificate-viewer-tab-ca = Otoritas
 certificate-viewer-tab-unkonwn = Tidak dikenal
