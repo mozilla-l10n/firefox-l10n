@@ -56,11 +56,11 @@ rcwn-avg-long = ממוצע ארוך
 rcwn-std-dev-long = סטיית תקן ארוכה
 rcwn-cache-slow = ספירת אטיות במטמון
 rcwn-cache-not-slow = ספירת חוסר אטיות במטמון
-
 about-networking-title = מידע על רכיב התקשורת
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = ניקוי מטמון DNS
 about-networking-dns-suffix = סיומת DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = רענון
