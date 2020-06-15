@@ -55,6 +55,7 @@ import-items-page-title = Elemente pentru importare
 import-items-description = Selectează care elemente să se importe:
 import-migrating-page-title = Se importă…
 import-migrating-description = Următoarele elemente se importă în prezent…
+import-select-profile-page-title = Selectează profilul
 import-select-profile-description = Următoarele profiluri sunt disponibile pentru a se importa din acestea:
 import-done-page-title = Importare încheiată
 import-done-description = Următoarele elemente au fost importate cu succes:
