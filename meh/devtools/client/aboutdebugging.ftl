@@ -52,6 +52,9 @@ about-debugging-sidebar-item-connected-label = Yi'ɨ
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Netu ka̱a̱ nánuku...
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Ntu yi'ɨ
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName }{ $deviceName }
@@ -74,6 +77,8 @@ about-debugging-refresh-usb-devices-button = Naxi'ña da ka̱a̱
 
 # Title of the Setup page.
 about-debugging-setup-title = Ke'i
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Ke'i método conexión ji a kuvinu sá´á depurar remotamente tu dispositivo.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Chu'un iin ka̱a̱
 # USB section of the Setup page
@@ -92,6 +97,12 @@ about-debugging-setup-usb-status-disabled = Xita
 about-debugging-setup-usb-status-updating = Actualizando...
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Tee menú desarrollador nu ka̱a̱ Android
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Habilitar depuración USB en el menú de desarrollador de Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Habilitar depuración USB en Firefox en el dispositivo Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Chu'un dispositivo Android nu equipo noo´o.
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
