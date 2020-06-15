@@ -108,6 +108,18 @@ browser-data-history-label =
             [firefox] Browserverlauf und Lesezeichen
            *[other] Browserverlauf
         }
+browser-data-formdata-checkbox =
+    .label = Gespeicherte Formulardaten
+browser-data-formdata-label =
+    .value = Gespeicherte Formulardaten
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Gespeicherte Zugangsdaten und Passwörter
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Gespeicherte Zugangsdaten und Passwörter
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
