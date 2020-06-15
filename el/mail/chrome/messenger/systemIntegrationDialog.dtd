@@ -9,7 +9,7 @@
 <!ENTITY defaultClient.intro  "Ορισμός του &brandShortName; ως προεπιλογής για:">
 
 <!ENTITY email.label "Email">
-<!ENTITY newsgroups.label "Ομάδες ειδήσεων">
+<!ENTITY newsgroups.label "Ομάδες συζήτησης">
 <!ENTITY feeds.label "Ροές ειδήσεων">
 
 <!ENTITY unsetDefault.tooltip "Δεν είναι δυνατή η ακύρωση ορισμού του &brandShortName; ως προκαθορισμένου προγράμματος μέσα από το &brandShortName;. Για να ορίσετε άλλη εφαρμογή ως προεπιλογή πρέπει να χρησιμοποιήσετε το διάλογο της «Ορισμός ως προεπιλογή».">
