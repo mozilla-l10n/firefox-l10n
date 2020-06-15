@@ -26,19 +26,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = ଚିହ୍ନିତ ସ୍ଥାନ, ଇତିହାସ କିମ୍ବା ପ୍ରବେଶ ସଂକେତ ତଥ୍ୟ ଧାରଣ କରିଥିବା କୌଣସି ପ୍ରଗ୍ରାମ ମିଳୁନାହିଁ.
-import-source =
-    .label = ବିନ୍ୟାସ ଏବଂ ତଥ୍ୟ ଆମଦାନୀ କରନ୍ତୁ
-import-items-title =
-    .label = ଆମଦାନୀ କରିବାକୁ ଥିବା ବସ୍ତୁ
+import-source-page-title = ବିନ୍ୟାସ ଏବଂ ତଥ୍ୟ ଆମଦାନୀ କରନ୍ତୁ
+import-items-page-title = ଆମଦାନୀ କରିବାକୁ ଥିବା ବସ୍ତୁ
 import-items-description = କେଉଁ ବସ୍ତୁକୁ ଆମଦାନୀ କରିବାକୁ ହେବ ଚୟନ କରନ୍ତୁ:
-import-migrating-title =
-    .label = ଆମଦାନୀ କରୁଅଛି…
+import-migrating-page-title = ଆମଦାନୀ କରୁଅଛି…
 import-migrating-description = ନିମ୍ନଲିଖିତ ବସ୍ତୁଗୁଡ଼ିକ ବର୍ତ୍ତମାନ ଆମଦାନୀ ହେଉଅଛି…
-import-select-profile-title =
-    .label = ରୂପରେଖ ଚୟନକରନ୍ତୁ
+import-select-profile-page-title = ରୂପରେଖ ଚୟନକରନ୍ତୁ
 import-select-profile-description = ନିମ୍ନଲିଖିତ ରୂପରେଖଗୁଡ଼ିକ ଆମଦାନୀ କରିବାକୁ ଉପଲବ୍ଧ:
-import-done-title =
-    .label = ଆମଦାନୀ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା
+import-done-page-title = ଆମଦାନୀ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା
 import-done-description = ନିମ୍ନଲିଖିତ ବସ୍ତୁଗୁଡ଼ିକ ସଫଳତାରସହିତ ଆମଦାନୀ ହୋଇସାରିଛି:
 # Displays which browser the bookmarks are being imported from
 #
