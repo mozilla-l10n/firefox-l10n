@@ -51,6 +51,7 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = Walang mahanap na application na naglalaman ng bookmark, history o password data.
 import-source-page-title = Mag-import ng mga Setting at Data
+import-items-page-title = Mga item na Iimport
 import-items-description = Pumili kung aling item ang i-import:
 import-migrating-description = Ang mga sumusunod na mga bagay ay kasalukuyang inaangkat
 import-select-profile-description = Ang mga sumusunod na mga profile ay pweden i-import mula sa:
