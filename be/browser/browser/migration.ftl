@@ -52,8 +52,11 @@ import-from-360se =
 no-migration-sources = Не знойдзены ніякія праграмы, якія б утрымлівалі закладкі, гісторыю або паролі.
 import-source-page-title = Імпарт налад і дадзеных
 import-items-description = Выберыце, якія элементы трэба імпартаваць:
+import-migrating-page-title = Імпарт…
 import-migrating-description = Наступныя адзінкі зараз імпартуюцца…
+import-select-profile-page-title = Выбар Профілю
 import-select-profile-description = Наступныя профілі даступныя для імпарту з:
+import-done-page-title = Імпарт Выкананы
 import-done-description = Наступныя адзінкі паспяхова імпартаваны:
 import-close-source-browser = Калі ласка, упэўніцеся перад працягам, што выбраны браўзер закрыты.
 # Displays which browser the bookmarks are being imported from
