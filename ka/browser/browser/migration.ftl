@@ -50,10 +50,14 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = სანიშნების, ისტორიის ან პაროლის მონაცემთა შემცველი პროგრამები ვერ მოიძებნა.
+import-source-page-title = პარამეტრებისა და მონაცემთა გადმოტანა
 import-items-page-title = გადმოსატანი მონაცემები
 import-items-description = მიუთითეთ გადმოსატანი მონაცემები:
+import-migrating-page-title = გადმოტანა…
 import-migrating-description = გადმოვა შემდეგი მონაცემები…
+import-select-profile-page-title = პროფილის არჩევა
 import-select-profile-description = შემდეგი პროფილები ხელმისაწვდომია გადმოსატანად ბრაუზერიდან:
+import-done-page-title = გადმოტანა დასრულდა
 import-done-description = გადმოტანილია შემდეგი მონაცემები:
 import-close-source-browser = სანამ განაგრძობთ დარწმუნდით, რომ არჩეული ბრაუზერი დახურულია.
 # Displays which browser the bookmarks are being imported from
