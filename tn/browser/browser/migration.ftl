@@ -16,17 +16,13 @@ import-from-ie =
 import-from-nothing =
     .label = Se tlise sepe teng
     .accesskey = S
-import-items-title =
-    .label = Dilwana tse di tlisiwang teng
+import-items-page-title = Dilwana tse di tlisiwang teng
 import-items-description = Tlhopha gore ke dilwana dife tse di tla tlisiwang teng:
-import-migrating-title =
-    .label = E tlisa teng…
+import-migrating-page-title = E tlisa teng…
 import-migrating-description = Dilwana tse di latelang di tlisiwa teng ga jaana…
-import-select-profile-title =
-    .label = Tlhopha Porofaele
+import-select-profile-page-title = Tlhopha Porofaele
 import-select-profile-description = Diporofaele tse di latelang di gona go ka tlisiwa teng go tswa:
-import-done-title =
-    .label = Tlisoteng e Feditswe
+import-done-page-title = Tlisoteng e Feditswe
 import-done-description = Dilwana tse di latelang di tlisitswe teng ka katlego:
 # Displays which browser the bookmarks are being imported from
 #
