@@ -566,23 +566,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Chu´un íchi enlace...">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY savePageCmd.label            "Chuva´a kua…">
 <!ENTITY savePageCmd.accesskey        "G">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Chuva´a marco kua…">
 <!ENTITY saveFrameCmd.accesskey       "G">
+<!ENTITY printFrameCmd.label          "Natava marco...">
 <!ENTITY printFrameCmd.accesskey      "p">
+<!ENTITY saveLinkCmd.label            "Chuva´a vínculo kua...">
 <!ENTITY saveLinkCmd.accesskey        "G">
 <!ENTITY saveImageCmd.label           "Chuva´a tutu nátava kua…">
 <!ENTITY saveImageCmd.accesskey       "u">
+<!ENTITY saveVideoCmd.label           "Chuva´a nátava káná kua...">
 <!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Chuva´a nasun kua...">
 <!ENTITY saveAudioCmd.accesskey       "G">
 <!ENTITY emailImageCmd.label          "Chu´un ichi tutu nátava…">
 <!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Chu'un íchi tutu kana…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Chu´un íchi nasun nuu correo...">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Activar ka̱a̱ chunta´an ya´a">
 <!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Chiyu´u complemento">
 <!ENTITY hidePluginCmd.accesskey      "O">
+<!ENTITY copyLinkCmd.label            "Tɨɨn nuu enlace">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
@@ -591,46 +602,67 @@ context menu items are mutually exclusive. -->
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Tɨɨn tutu nátava">
 <!ENTITY copyImageContentsCmd.accesskey  "C">
+<!ENTITY copyVideoURLCmd.label        "Tɨɨn nuu tutu kana">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Tɨɨn nuu nasun">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.label           "Tɨɨn correo electrónico">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "e">
+<!ENTITY thisFrameMenu.label              "Marco ya´a">
 <!ENTITY thisFrameMenu.accesskey          "m">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "Kajie´e">
 <!ENTITY mediaPlay.accesskey         "R">
+<!ENTITY mediaPause.label            "Siankuiñɨ">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Silenciar">
 <!ENTITY mediaMute.accesskey         "S">
+<!ENTITY mediaUnmute.label           "Teso´o">
 <!ENTITY mediaUnmute.accesskey       "E">
+<!ENTITY mediaPlaybackRate2.label     "Velocidad de reproducción">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "Kue (0.5 ×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "L">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Ñama (1.25 )">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "Ñama (1.5 × )">
 <!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Ñamaka (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "Ichika">
 <!ENTITY mediaLoop.accesskey         "R">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "Xitúvi controles">
 <!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label     "Chiyu´u controles">
 <!ENTITY mediaHideControls.accesskey "c">
+<!ENTITY videoFullScreen.label       "Pantalla ka'nu">
 <!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoSaveImage.label        "Chuva´a captura kua...">
 <!ENTITY videoSaveImage.accesskey    "G">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Xituvi estadísticas">
 <!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Chiyu'u estadísticas">
 <!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
@@ -639,11 +671,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY fullZoomEnlargeCmd.label       "Sá´á ka´nu">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.label        "Sá´á luli">
 <!ENTITY fullZoomReduceCmd.accesskey    "R">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -653,11 +687,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
+<!ENTITY fullZoomToggleCmd.label        "Sama tu´un">
 <!ENTITY fullZoomToggleCmd.accesskey    "S">
 
+<!ENTITY fullZoom.label                 "Naja ka'nu">
 <!ENTITY fullZoom.accesskey             "T">
 
+<!ENTITY sidebarCloseButton.tooltip     "Kasɨ barra kuá´á">
+<!ENTITY sidebarMenuClose.label         "Kasɨ barra kuá´á">
 
+<!ENTITY quitApplicationCmdWin2.label       "Kene">
 <!ENTITY quitApplicationCmdWin2.accesskey   "S">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Kene &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
@@ -673,6 +712,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY toggleMuteCmd.key              "M">
 
+<!ENTITY pageStyleMenu.label "Estilo de página">
 <!ENTITY pageStyleMenu.accesskey "E">
 <!ENTITY pageStyleNoStyle.accesskey "D">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
