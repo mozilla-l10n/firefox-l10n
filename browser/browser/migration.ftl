@@ -57,6 +57,7 @@ import-migrating-page-title = Importerer …
 import-migrating-description = Følgende elementer blir nå importert …
 import-select-profile-page-title = Velg profil
 import-select-profile-description = Du kan importere fra følgende profiler:
+import-done-page-title = Import er fullført
 import-done-description = Følgende elementer er importert:
 import-close-source-browser = Kontroller at den valgte nettleseren er lukket før du fortsetter.
 # Displays which browser the bookmarks are being imported from
