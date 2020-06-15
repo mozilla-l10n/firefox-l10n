@@ -207,13 +207,13 @@ colors-settings =
     .label = Culori…
     .accesskey = C
 # Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Focalizare
+preferences-zoom-header = Zoom
 preferences-default-zoom = Focalizare implicită
     .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
-    .label = Focalizare doar pe text
+    .label = Zoom doar pe text
     .accesskey = t
 language-header = Limbă
 choose-language-description = Alege limba în care preferi să vezi paginile
