@@ -51,6 +51,7 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = Не знойдзены ніякія праграмы, якія б утрымлівалі закладкі, гісторыю або паролі.
 import-source-page-title = Імпарт налад і дадзеных
+import-items-page-title = Элементы для імпарту
 import-items-description = Выберыце, якія элементы трэба імпартаваць:
 import-migrating-page-title = Імпарт…
 import-migrating-description = Наступныя адзінкі зараз імпартуюцца…
