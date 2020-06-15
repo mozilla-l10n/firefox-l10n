@@ -26,19 +26,14 @@ import-from-firefox =
     .label = फायरफॉक्स
     .accesskey = फ
 no-migration-sources = बूकमार्क्स, इतिहास वो पाकवर्ड डेटा आशिल्ले कार्यक्रम मेळू ना.
-import-source =
-    .label = स्थापितां आनि  म्हायती आयात करात
-import-items-title =
-    .label = आयात करपाच्या वस्ती
+import-source-page-title = स्थापितां आनि  म्हायती आयात करात
+import-items-page-title = आयात करपाच्या वस्ती
 import-items-description = खंयच्यो वस्ती आयात करपाच्यो ते थारायात:
-import-migrating-title =
-    .label = आयात करता...
+import-migrating-page-title = आयात करता...
 import-migrating-description = सकयल दिल्ल्यो वस्तींची आयात सुरु आसा ...
-import-select-profile-title =
-    .label = प्रोफाइल निवडात
+import-select-profile-page-title = प्रोफाइल निवडात
 import-select-profile-description = हांगा आयात करपाखातीर सकयल दिल्ली  प्रोफाइल्स उपलब्द आसात:
-import-done-title =
-    .label = आयात पुराय
+import-done-page-title = आयात पुराय
 import-done-description = मुखावेल्या वस्तींची आयात सफळ जाली:
 # Displays which browser the bookmarks are being imported from
 #
