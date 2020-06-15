@@ -8,9 +8,23 @@ calendar-ics-file-window =
 calendar-ics-file-dialog =
   .buttonlabelaccept = インポート
 
+calendar-ics-file-window-2 =
+  .title = カレンダーの予定と ToDo をインポート
+
+calendar-ics-file-dialog-import-event-button-label = 予定をインポート
+calendar-ics-file-dialog-import-task-button-label = ToDo をインポート
+
+calendar-ics-file-dialog-2 =
+  .buttonlabelaccept = すべてインポート
+
 calendar-ics-file-accept-button-ok-label = OK
 
 # $fileName (string) - The name of the file.
 calendar-ics-file-dialog-message = "{ $fileName }" ファイルをインポートしますか？
+
+calendar-ics-file-dialog-message-2 = ファイルからインポート:
+calendar-ics-file-dialog-calendar-menu-label = カレンダーにインポート:
 calendar-ics-file-import-success = インポートが完了しました。
 calendar-ics-file-import-error = エラーが発生したためインポートに失敗しました。
+
+calendar-ics-file-dialog-no-calendars = 予定または ToDo をインポートできるカレンダーがありません。
