@@ -287,7 +287,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afișează istoricul">
 
-
 <!ENTITY urlbar.permissionsGranted.tooltip       "Ai acordat permisiuni suplimentare acestui site web.">
 
 
@@ -349,7 +348,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fișier">
 <!ENTITY fileMenu.accesskey       "F">
-
 <!ENTITY newUserContext.label             "Filă container nouă">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Gestionează containerele">
@@ -461,7 +459,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "Adaugă în bara de instrumente">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Adaugă în meniul excedentar">
@@ -635,6 +633,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Salvează în Pocket">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Salvează pagina în Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Salvează linkul în Pocket">
@@ -764,10 +764,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Focalizare doar pe text">
+<!ENTITY fullZoomToggleCmd.label        "Zoom doar pe text">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 
-<!ENTITY fullZoom.label                 "Focalizare">
+<!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Închide bara laterală">
@@ -938,7 +938,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Raportează probleme">
 <!ENTITY contentBlocking.breakageReportView2.description "Blocarea de conținut poate produce probleme pe unele site-uri web. Prin raportarea problemelor vei ajuta la îmbunătățirea &brandShortName; pentru toți. (Va trimite la Mozilla un URL și informații despre setările browserului.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Află mai multe">
-
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-ul">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ce probleme ai întâmpinat? (Opțional)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Trimite raportul">
@@ -991,7 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "O extensie a schimbat ce vezi ca pagină de start. Poți restaura setările dacă nu vrei această modificare.">
-
 <!ENTITY homepageControlled.header.message "Pagina ta de start s-a schimbat.">
 <!ENTITY homepageControlled.keepButton.label "Păstrează modificările">
 <!ENTITY homepageControlled.keepButton.accesskey "K">

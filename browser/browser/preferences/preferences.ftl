@@ -208,7 +208,7 @@ colors-settings =
     .accesskey = C
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
-preferences-default-zoom = Focalizare implicită
+preferences-default-zoom = Zoom implicit
     .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
@@ -554,6 +554,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Afișează sugestii de căutare în ferestrele private
 suggestions-addressbar-settings = Modifică preferințele pentru istoricul de navigare, marcaje și sugestii cu privire la file
+suggestions-addressbar-settings-generic = Schimbă preferințele pentru alte sugestii în bara de adrese
 search-suggestions-cant-show = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 search-one-click-header = Motoare de căutare la un clic distanță
 search-one-click-desc = Alege motoarele de căutare alternative care apar sub bara de adresă și bara de căutare atunci când începi să introduci un cuvânt cheie.
@@ -904,6 +905,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = File deschise
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = Site-uri de top
+    .accesskey = T
 addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoarelor de căutare…
 
 ## Privacy Section - Content Blocking
