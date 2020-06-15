@@ -44,6 +44,7 @@ import-from-360se =
     .label = 360 নিরাপদ ব্রাউজার
     .accesskey = 3
 no-migration-sources = বুকমার্ক, ইতিহাস অথবা পাসওয়ার্ড ধারণকারী কোনো প্রোগ্রাম পাওয়া যায়নি।
+import-source-page-title = সেটিং ও তথ্য ইমপোর্ট করুন
 import-items-page-title = ইমপোর্ট করা হবে
 import-items-description = ইমপোর্ট করার জন্য আইটেম নির্বাচন:
 import-migrating-page-title = ইমপোর্ট করা হচ্ছে...
