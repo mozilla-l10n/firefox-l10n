@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Sponsor kami & privasi Anda
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Selesai
+newtab-privacy-modal-button-manage = Kelola pengaturan konten sponsor
 newtab-privacy-modal-header = Privasi Anda penting.
 newtab-privacy-modal-paragraph-2 = Selain menampilkan berbagai kisah menawan, kami juga menampilkan konten yang relevan, yang telah diperiksa dari sponsor tertentu, untuk Anda. Yakinlah, <strong>data penjelajahan Anda tidak pernah meninggalkan { -brand-product-name } Anda</strong> — kami dan sponsor kami tidak melihatnya.
 newtab-privacy-modal-link = Pelajari cara privasi bekerja di tab baru

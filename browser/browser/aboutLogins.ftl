@@ -166,6 +166,7 @@ about-logins-confirm-remove-dialog-title = Hapus info masuk ini?
 confirm-delete-dialog-message = Tindakan ini tidak dapat diurungkan.
 about-logins-confirm-remove-dialog-confirm-button = Hapus
 about-logins-confirm-export-dialog-title = Ekspor log masuk dan sandi
+about-logins-confirm-export-dialog-message = Kata sandi Anda akan disimpan sebagai teks biasa yang bisa dibaca (contoh: BadP@ssw0rd) sehingga siapapun dapat membuka berkas yang Anda ekspor dan membacanya.
 about-logins-confirm-export-dialog-confirm-button = Ekspor…
 confirm-discard-changes-dialog-title = Buang perubahan yang belum disimpan?
 confirm-discard-changes-dialog-message = Semua perubahan yang belum disimpan akan hilang.
@@ -202,6 +203,8 @@ about-logins-error-message-default = Terjadi kesalahan saat mencoba menyimpan ka
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Ekspor Berkas Log masuk:
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
