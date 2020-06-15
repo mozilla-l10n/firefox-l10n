@@ -51,6 +51,7 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = 找不到存有书签、历史记录或密码数据的浏览器。
 import-source-page-title = 导入设置及数据
+import-items-page-title = 要导入的项目
 import-items-description = 请选择要导入的项目：
 import-migrating-page-title = 正在导入…
 import-migrating-description = 正在导入下列项目…
