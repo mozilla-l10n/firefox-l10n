@@ -9,12 +9,30 @@ reauth-label = Επαληθεύστε ξανά την ταυτότητα της 
 auth-cancel = Ακύρωση
 auth-cancelAccessKey = Α
 auth-error = Προέκυψε σφάλμα κατά την επαλήθευση της ταυτότητας της επαφής σας.
+auth-success = Η επαλήθευση της ταυτότητας της επαφής σας ολοκληρώθηκε με επιτυχία.
+auth-successThem = Η επαφή σας επαλήθευσε με επιτυχία την ταυτότητά σας. Μπορείτε να επαληθεύσετε και εσείς την ταυτότητα του συνομιλητή, κάνοντας τη δική σας ερώτηση.
 auth-fail = Αποτυχία επαλήθευσης της ταυτότητας της επαφής σας.
+auth-waiting = Αναμονή για ολοκλήρωση επαλήθευσης από την επαφή…
 finger-verify = Επαλήθευση
 finger-verify-accessKey = Ε
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Προσθήκη δακτυλικού αποτυπώματος OTR
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = Απόπειρα έναρξης κρυπτογραφημένης συνομιλίας με τον/την { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = Απόπειρα ανανέωσης κρυπτογραφημένης συνομιλίας με τον/την { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = Η κρυπτογραφημένη συνομιλία με τον/την { $name } έληξε.
 state-not_private = Η τρέχουσα συνομιλία δεν είναι ιδιωτική.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Η ταυτότητα του/της { $name } έχει επαληθευτεί. Η τρέχουσα συνομιλία είναι κρυπτογραφημένη και ιδιωτική.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = Ο/Η { $name } έληξε την κρυπτογραφημένη συνομιλία μαζί σας· πρέπει να κάνετε το ίδιο.
 state-not_private-label = Επισφαλής
 state-unverified-label = Μη επαληθευμένη
 state-private-label = Ιδιωτική

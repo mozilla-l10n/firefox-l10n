@@ -35,6 +35,19 @@ msgevent-log_heartbeat_rcvd = Ελήφθη heartbeat από τον/την { $nam
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log_heartbeat_sent = Απεστάλη heartbeat στον/στην { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Προέκυψε απρόσμενο σφάλμα κατά την προσπάθεια προστασίας της συνομιλίας σας με OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = Το ακόλουθο μήνυμα που ελήφθη από τον/την { $name } δεν κρυπτογραφήθηκε: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Λάβατε ένα μη αναγνωρισμένο μήνυμα OTR από τον/την { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = Ο/Η { $name } έχει αποστείλει μήνυμα που προορίζεται για διαφορετική συνεδρία. Αν έχετε συνδεθεί πολλαπλές φορές, μια άλλη συνεδρία ίσως έχει λάβει το μήνυμα.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Ξεκίνησε η ιδιωτική συνομιλία με τον/την { $name }.
