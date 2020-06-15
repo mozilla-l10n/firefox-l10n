@@ -57,11 +57,11 @@ rcwn-avg-long = Dołhi přerězk
 rcwn-std-dev-long = Dołhe standardne wotchilenje
 rcwn-cache-slow = Pomałe ličenje pufrować
 rcwn-cache-not-slow = Pomałe ličenje njepufrować
-
 about-networking-title = Wo syćowych zwiskach
 about-networking-http = HTTP
 about-networking-sockets = Sokety
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = DNS-pufrowak wuprózdnić
 about-networking-dns-suffix = DNS-sufiks
 about-networking-websockets = Websokety
 about-networking-refresh = Aktualizować
