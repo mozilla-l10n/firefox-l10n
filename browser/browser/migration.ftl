@@ -47,6 +47,7 @@ no-migration-sources = Nisciunn-a aplicaçion che a contegne di segnalibbri, st�
 import-source-page-title = Inportaçion de preferense e dæti
 import-items-page-title = Ògetti da inportâ
 import-items-description = Seleçionn-a i ògetti da inporta:
+import-migrating-page-title = Inpòrto…
 import-migrating-description = Sti ògetti son li pe ese inportæ…
 import-select-profile-page-title = Seleçionn-a profî
 import-select-profile-description = Sti profî se peuan inportâ da:
