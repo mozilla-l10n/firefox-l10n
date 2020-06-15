@@ -32,9 +32,13 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Ñúe makara
     .accesskey = 3
+import-items-page-title = Ráanɨaɨ atɨyena
 import-items-description = Nɨze nana ranɨaɨ átɨyena:
+import-migrating-page-title = Atɨatɨka...
 import-migrating-description = Bíe ráanɨaɨ já átɨka...
+import-select-profile-page-title = Nɨze náama mamekɨ
 import-select-profile-description = Náama mamekɨ atɨrede:
+import-done-page-title = Átɨka já fúite
 import-done-description = Bíe ráanɨaɨ ñue atɨka:
 import-close-source-browser = Éroiri ñúe. makara nɨzeka ɨbaire makayena abɨdo:
 # Displays which browser the bookmarks are being imported from
