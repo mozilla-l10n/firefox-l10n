@@ -140,6 +140,15 @@ info-known-breaches-found =
        *[other] de încălcări cunoscute ale securității datelor ți-au expus informațiile
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] încălcare cunoscută a securității datelor marcată ca rezolvată
+        [few] încălcări cunoscute a securității datelor marcate ca rezolvate
+       *[other] de încălcări cunoscute a securității datelor marcate ca rezolvate
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -157,6 +166,15 @@ password-warning =
         [one] set de date de autentificare salvat este posibil să fi fost expus într-o încălcare a securității datelor. Schimbă această parolă pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
         [few] seturi de date de autentificare salvate este posibil să fi fost expuse într-o încălcare a securității datelor. Schimbă aceste parole pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
        *[other] de seturi de date de autentificare salvate este posibil să fi fost expuse într-o încălcare a securității datelor. Schimbă aceste parole pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] parolă expusă în încălcări nerezolvate
+        [few] parole expuse în încălcări nerezolvate
+       *[other] de parole expuse în încălcări nerezolvate
     }
 monitor-no-breaches-title = Vești bune!
 monitor-view-report-link = Vezi raportul
