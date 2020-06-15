@@ -56,6 +56,19 @@ move-to-new-window =
 undo-close-tab =
     .label = Ponovno odpri zavihek
     .accesskey = h
+tab-context-close-multiple-tabs =
+    .label = Zapri več zavihkov
+    .accesskey = č
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ponovno odpri zavihek
+            [one] Ponovno odpri zavihek
+            [two] Ponovno odpri zavihka
+            [few] Ponovno odpri zavihke
+           *[other] Ponovno odpri zavihke
+        }
+    .accesskey = h
 close-tab =
     .label = Zapri zavihek
     .accesskey = Z

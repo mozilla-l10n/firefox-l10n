@@ -279,6 +279,8 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } med deljenj
 
 sharing-warning-window = Delite { -brand-short-name }. Drugi ljudje lahko vidijo, ko preklopite na nov zavihek.
 sharing-warning-screen = Delite celoten zaslon. Drugi ljudje lahko vidijo, ko preklopite na nov zavihek.
+sharing-warning-proceed-to-tab =
+    .label = Nadaljuj na zavihek
 
 ## DevTools F12 popup
 

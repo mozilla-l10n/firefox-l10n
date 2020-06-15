@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Naši pokrovitelji in vaša zasebnost
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Končaj
+newtab-privacy-modal-button-manage = Upravljaj nastavitve sponzorirane vsebine
 newtab-privacy-modal-header = Vaša zasebnost je pomembna.
 newtab-privacy-modal-paragraph-2 =
     Poleg zanimivih zgodb vam pokažemo tudi ustrezne, skrbno izbrane vsebine
