@@ -57,3 +57,12 @@ serviceworker-worker-status-registering = Գրանցում
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = Պէտք է գրանցել Ծառայութիւն Մատուցողին այստեղ ստուգելու համար։ <a>Իմանալ աւելին</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Եթե սոյն էջը ունի Սպասարկիչ, փորձէք հետեւեալը
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Որոնել սխալներ վահանակում։ <a>Բացել վահանակը</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Ստուգէք Ձեր Սպասարկիչի գրանցման քայլերը եւ գտէք բացառութիւնները։<a>֊ը Բացել վրիպազերծիչը</a>։
