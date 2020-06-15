@@ -20,21 +20,28 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Ponovno odpri zavihek
     .accesskey = H
-
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ponovno odpri zavihek
+            [one] Ponovno odpri zavihek
+            [two] Ponovno odpri zavihka
+            [few] Ponovno odpri zavihke
+           *[other] Ponovno odpri zavihke
+        }
+    .accesskey = P
 toolbar-context-menu-manage-extension =
     .label = Upravljaj razširitev
     .accesskey = U
 toolbar-context-menu-remove-extension =
     .label = Odstrani razširitev
     .accesskey = r
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Prijavi razširitev
     .accesskey = j
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
