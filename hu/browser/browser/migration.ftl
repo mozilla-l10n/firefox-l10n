@@ -53,6 +53,7 @@ no-migration-sources = Nem található olyan program, amely könyvjelzőket, el�
 import-source-page-title = Beállítások és adatok importálása
 import-items-page-title = Importálandó elemek
 import-items-description = Válassza ki az importálni kívánt elemeket:
+import-migrating-page-title = Importálás…
 import-migrating-description = A következő elemek importálása folyik…
 import-select-profile-page-title = Profil kiválasztása
 import-select-profile-description = A következő profilokból lehet importálni:
