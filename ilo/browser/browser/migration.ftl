@@ -4,13 +4,10 @@
 
 migration-wizard =
     .title = Bagnos ti Panangyangkat
-import-items-title =
-    .label = Mayangkatto a Banag
+import-items-page-title = Mayangkatto a Banag
 import-items-description = Pilien ti banag a mayangkat:
-import-select-profile-title =
-    .label = Pilien ti Profile
-import-done-title =
-    .label = Nalpas ti Panagyangkat
+import-select-profile-page-title = Pilien ti Profile
+import-done-page-title = Nalpas ti Panagyangkat
 import-close-source-browser = Pamnekanyo ket nakarikep ti pinili a panglayag sakbaykayo agtuloy.
 # Displays which browser the bookmarks are being imported from
 #
