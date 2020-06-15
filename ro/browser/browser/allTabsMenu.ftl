@@ -4,17 +4,21 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Anulează închiderea filei
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Anulează închiderea filei
+            [one] Anulează închiderea filei
+            [few] Anulează închiderea filelor
+           *[other] Anulează închiderea filelor
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Caută în file
-
 all-tabs-menu-new-user-context =
     .label = Filă container nouă
-
 all-tabs-menu-hidden-tabs =
     .label = File ascunse
-
 all-tabs-menu-manage-user-context =
     .label = Gestionează containerele
     .accesskey = O
