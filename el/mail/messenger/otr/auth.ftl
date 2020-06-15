@@ -14,6 +14,7 @@ auth-your-fp-value = Αποτύπωμα για εσάς, { $own_name }:
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Αποτύπωμα για τον/την { $their_name }:
+auth-help = Η επαλήθευση ταυτότητας της επαφής σας βοηθά να διασφαλίσετε ότι η συνομιλία είναι πραγματικά ιδιωτική, κάνοντας πολύ δύσκολη την υποκλοπή ή τη μεταχείριση της συζήτησής σας από τρίτους.
 auth-helpTitle = Βοήθεια επαλήθευσης
 auth-questionReceived = Αυτή είναι η ερώτηση που έθεσε η επαφή σας:
 auth-yes =
