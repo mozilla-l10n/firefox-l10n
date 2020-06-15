@@ -8,15 +8,11 @@ import-from-bookmarks = Lieszeechen importéiere vun:
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-import-items-title =
-    .label = Elementer fir z'importéieren
-import-migrating-title =
-    .label = Importéieren…
+import-items-page-title = Elementer fir z'importéieren
+import-migrating-page-title = Importéieren…
 import-migrating-description = Dës Elementer ginn elo importéiert…
-import-select-profile-title =
-    .label = Profil eraussichen
-import-done-title =
-    .label = Import ofgeschloss
+import-select-profile-page-title = Profil eraussichen
+import-done-page-title = Import ofgeschloss
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
