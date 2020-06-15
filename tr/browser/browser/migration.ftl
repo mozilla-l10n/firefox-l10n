@@ -55,6 +55,7 @@ import-items-page-title = İçe aktarılacak öğeler
 import-items-description = İçe aktarılacak öğeleri seçin:
 import-migrating-page-title = İçe aktarılıyor…
 import-migrating-description = Aşağıdaki öğeler şu anda içe aktarılıyor…
+import-select-profile-page-title = Profil seçin
 import-select-profile-description = Aşağıdaki profiller buradan içe aktarılabilir:
 import-done-page-title = İçe aktarma tamamlandı
 import-done-description = Aşağıdaki öğeler başarıyla içe aktarıldı:
