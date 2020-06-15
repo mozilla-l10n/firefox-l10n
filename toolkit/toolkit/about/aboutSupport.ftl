@@ -121,6 +121,8 @@ safe-mode-title = Poskusite varni način
 restart-in-safe-mode-label = Ponovno zaženi z onemogočenimi dodatki …
 clear-startup-cache-title = Poskusite počistiti predpomnilnik zagona
 clear-startup-cache-label = Počisti predpomnilnik zagona …
+startup-cache-dialog-title = Počistite predpomnilnik zagona
+startup-cache-dialog-body = Ponovno zaženite { -brand-short-name }, da počistite predpomnilnik zagona. To ne bo spremenilo vaših nastavitev ali odstranilo razširitev, ki ste jih dodali v { -brand-short-name }.
 restart-button-label = Ponovno zaženi
 
 ## Media titles
