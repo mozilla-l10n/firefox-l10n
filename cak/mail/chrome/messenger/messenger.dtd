@@ -953,7 +953,7 @@
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Ch'utinarisaxïk">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Tik'am pe Ronojel Chuwäch">
+<!ENTITY bringAllToFront.label "Tik'am pe Ronojel Chuwa">
 <!ENTITY zoomWindow.label "Sum">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->

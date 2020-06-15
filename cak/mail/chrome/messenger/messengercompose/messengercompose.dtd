@@ -221,7 +221,7 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Ch'utinarisaxïk">
-<!ENTITY bringAllToFront.label "Tik'am pe Ronojel Chuwäch">
+<!ENTITY bringAllToFront.label "Tik'am pe Ronojel Chuwa">
 <!ENTITY zoomWindow.label "Sum">
 <!ENTITY windowMenu.label "Window">
 
