@@ -5,6 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Kapat
     .title = Daha önce görülen OTR parmak izleri
+finger-intro = Önceki uçtan uca şifrelenmiş görüşmelerin OTR anahtar parmak izleri.
 finger-screenName =
     .label = Kişi
 finger-verified =

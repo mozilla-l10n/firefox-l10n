@@ -7,3 +7,6 @@ account-encryption =
 otr-encryption-title = Doğrulanmış Şifreleme
 otr-fingerprint-label = Parmak iziniz:
 otr-settings-title = OTR Ayarları
+otr-verifyNudge =
+    .label = Doğrulanmamış kişileri doğrulamamı her zaman hatırlat
+otr-notYetAvailable = henüz mevcut değil
