@@ -50,6 +50,7 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = ブックマーク、履歴やパスワードなどの読み込む設定やデータを持つアプリケーションが見つかりませんでした。
+import-source-page-title = 設定とデータのを読み込む
 import-items-page-title = 読み込む項目
 import-items-description = 読み込む項目を選択してください:
 import-migrating-page-title = 読み込んでいます...
