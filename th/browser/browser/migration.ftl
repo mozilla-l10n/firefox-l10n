@@ -53,6 +53,7 @@ no-migration-sources = ไม่พบโปรแกรมที่มีข้
 import-items-description = เลือกรายการที่จะนำเข้า:
 import-migrating-page-title = กำลังนำเข้า…
 import-migrating-description = รายการดังต่อไปนี้กำลังถูกนำเข้า…
+import-select-profile-page-title = เลือกโปรไฟล์
 import-select-profile-description = โปรไฟล์ดังต่อไปนี้พร้อมที่จะนำเข้า:
 import-done-page-title = การนำเข้าเสร็จสมบูรณ์
 import-done-description = รายการดังต่อไปนี้ถูกนำเข้าได้สำเร็จ:
