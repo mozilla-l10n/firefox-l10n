@@ -57,11 +57,11 @@ rcwn-avg-long = 긴 평균
 rcwn-std-dev-long = 긴 표준 편차
 rcwn-cache-slow = 느린 캐시 횟수
 rcwn-cache-not-slow = 느리지 않은 캐시 횟수
-
 about-networking-title = 네트워크 정보
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = DNS 캐시 삭제
 about-networking-dns-suffix = DNS 접미사
 about-networking-websockets = WebSockets
 about-networking-refresh = 새로 고침
