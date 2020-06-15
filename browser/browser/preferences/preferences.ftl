@@ -886,6 +886,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Fastizaders tranter websites
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Fastizaders tranter websites e da raits socialas
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Fastizaders interpaginals e fastizaders da medias socialas ed isolar ils cookies restants
 sitedata-option-block-unvisited =
     .label = Cookies da websites betg visitadas
 sitedata-option-block-all-third-party =
@@ -901,6 +903,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Administrar las permissiuns…
     .accesskey = p
+sitedata-cookies-exceptions =
+    .label = Administrar las excepziuns…
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
@@ -915,6 +920,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Tabs averts
     .accesskey = b
+addressbar-locbar-topsites-option =
+    .label = Paginas preferidas
+    .accesskey = P
 addressbar-suggestions-settings = Midar las preferenzas per propostas da maschinas da tschertgar
 
 ## Privacy Section - Content Blocking
@@ -962,6 +970,7 @@ content-blocking-etp-strict-desc = Ina protecziun pli severa, ma po avair per co
 content-blocking-etp-custom-desc = Tscherna ils fastizaders ed ils scripts che duain vegnir bloccads.
 content-blocking-private-windows = Cuntegn che fastizescha en fanestras privatas
 content-blocking-cross-site-tracking-cookies = Cookies che fastizeschan tranter websites
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies che fastizeschan tranter paginas ed isolar ils cookies restants
 content-blocking-social-media-trackers = Fastizaders da raits socialas
 content-blocking-all-cookies = Tut ils cookies
 content-blocking-unvisited-cookies = Cookies da websites betg visitadas
