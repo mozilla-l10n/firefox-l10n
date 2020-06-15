@@ -55,6 +55,7 @@ import-items-page-title = Itens a importar
 import-items-description = Selecione os itens a importar:
 import-migrating-page-title = A importar…
 import-migrating-description = Os seguintes itens estão atualmente a ser importados…
+import-select-profile-page-title = Selecionar perfil
 import-select-profile-description = Os seguintes perfis estão disponíveis para importação de:
 import-done-page-title = Importação concluída
 import-done-description = Os seguintes itens foram importados com sucesso:
