@@ -44,6 +44,7 @@ import-from-360se =
     .label = 360 ಸುರಕ್ಷಿತ ವೀಕ್ಷಕ
     .accesskey = 3
 no-migration-sources = ಬುಕ್‍ಮಾರ್ಕುಗಳನ್ನು, ಇತಿಹಾಸ, ಅಥವ ಗುಪ್ತಪದವನ್ನು ಹೊಂದಿರುವ ಯಾವುದೆ ಪ್ರೊಗ್ರಾಂ ಕಂಡು ಬಂದಿಲ್ಲ.
+import-source-page-title = ಸಿದ್ಧತೆಗಳನ್ನು ಹಾಗು ಮಾಹಿತಿಯನ್ನು ಆಮದು ಮಾಡಿಕೊ
 import-items-page-title = ಆಮದು ಮಾಡಿಕೊಳ್ಳಲು ಅಂಶಗಳು
 import-items-description = ಯಾವ ಅಂಶಗಳನ್ನು ಆಮದು ಮಾಡಬೇಕೆಂದು ಆರಿಸಿ:
 import-migrating-page-title = ಆಮದು ಮಾಡಲಾಗುತ್ತಿದೆ...
