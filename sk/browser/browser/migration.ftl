@@ -53,6 +53,7 @@ no-migration-sources = Nebol nájdený žiadny program, ktorý by obsahoval zál
 import-items-description = Vyberte položky, ktoré chcete importovať:
 import-migrating-description = Práve sa importujú tieto položky…
 import-select-profile-description = Importovať možno tieto profily:
+import-done-page-title = Import bol dokončený
 import-done-description = Úspešne boli importované tieto položky:
 import-close-source-browser = Pred pokračovaním sa uistite, že vybraný prehliadač nie je spustený.
 # Displays which browser the bookmarks are being imported from
