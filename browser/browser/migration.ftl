@@ -50,9 +50,14 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Žane programy namakane, kotrež zapołožki, historiju abo hesła wobsahuja.
+import-source-page-title = Daty a nastajenja importować
+import-items-page-title = Objekty za importowanje
 import-items-description = Wubjerće objekty za importowanje:
+import-migrating-page-title = Importuje so…
 import-migrating-description = Slědowace objekty so runje importuja…
+import-select-profile-page-title = Profil wubrać
 import-select-profile-description = Slědowace profile steja k dispoziciji za importowanje z:
+import-done-page-title = Importowanje dokónčene
 import-done-description = Slědowace objekty su so z wuspěchom importowali:
 import-close-source-browser = Prošu zawěsćće, zo wubrany wobhladowak je začinjeny, prjedy hač pokročujeće.
 # Displays which browser the bookmarks are being imported from
