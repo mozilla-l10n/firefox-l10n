@@ -78,7 +78,7 @@ manifest-item-identity = Ինքնութիւն
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = Ներկայացում
 # Header for the Icon section of Manifest inspection displayed in the application panel.
-manifest-item-icons = Պատկերներ
+manifest-item-icons = Պատկերակներ
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
 manifest-loaded-devtools-error = Firefox DevTools֊ի սխալ
@@ -88,8 +88,27 @@ manifest-icon-purpose = Նպատակը՝<code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
-    .alt = Պատկեր
+    .alt = Պատկերակ
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest. `$sizes` is a user-dependent string that has been parsed as a
 # space-separated list of `<width>x<height>` sizes or the keyword `any`.
-manifest-icon-img-title = Պատկեր չափսերով․{ $sizes }
+manifest-icon-img-title = Պատկերակ՝ չափսերով․{ $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Անորոշ չափսով պատկերակ
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Manifest-ի պատկերակ
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Սպասարկիչներ
+    .alt = Սպասարկիչների պատկերակ
+    .title = Սպասարկիչներ
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Զգուշացման պատկերակ
+    .title = Զգուշացում
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Սխալի պատկերակ
+    .title = Սխալ
