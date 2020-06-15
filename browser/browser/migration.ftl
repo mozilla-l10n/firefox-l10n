@@ -54,6 +54,7 @@ import-source-page-title = Importar dados e configurações
 import-items-description = Selecione que itens importar:
 import-migrating-page-title = Importando…
 import-migrating-description = Estes itens estão sendo importados…
+import-select-profile-page-title = Selecionar perfil
 import-select-profile-description = Estes perfis estão disponíveis para importação:
 import-done-page-title = Importação concluída
 import-done-description = Estes itens foram importados com êxito:
