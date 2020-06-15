@@ -53,6 +53,7 @@ no-migration-sources = Methu canfod unrhyw rhaglenni sy'n cynnwys nodau tudalen,
 import-source-page-title = Gosodiadau Mewnforio a Data
 import-items-page-title = Eitemau i'w Mewnforio
 import-items-description = Dewis eitemau i'w mewnforio:
+import-migrating-page-title = Mewnforio…
 import-migrating-description = Mae'r eitemau canlynol yn cael eu mewnforio…
 import-select-profile-page-title = Dewis Proffil
 import-select-profile-description = Mae'r proffiliau canlynol ar gael i'w mewnforio o:
