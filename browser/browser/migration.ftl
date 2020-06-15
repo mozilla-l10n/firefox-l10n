@@ -55,6 +55,7 @@ import-items-page-title = 要匯入的項目
 import-items-description = 選取要匯入的項目:
 import-migrating-page-title = 匯入中…
 import-migrating-description = 正在匯入下列項目…
+import-select-profile-page-title = 選取設定檔
 import-select-profile-description = 可匯入下列設定檔的內容:
 import-done-page-title = 匯入完成
 import-done-description = 成功匯入下列項目:
