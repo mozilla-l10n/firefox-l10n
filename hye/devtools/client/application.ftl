@@ -66,3 +66,30 @@ serviceworker-empty-suggestions-console = Որոնել սխալներ վահան
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
 serviceworker-empty-suggestions-debugger = Ստուգէք Ձեր Սպասարկիչի գրանցման քայլերը եւ գտէք բացառութիւնները։<a>֊ը Բացել վրիպազերծիչը</a>։
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Ստուգել Սպասարկիչներին այլ տիրոյթներից։ <a>Բացել about:debugging</a>
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Manifest յաւելուած
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Սխալներ եւ Զգուշացումներ
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Ինքնութիւն
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Ներկայացում
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Պատկերներ
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools֊ի սխալ
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Նպատակը՝<code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Պատկեր
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Պատկեր չափսերով․{ $sizes }
