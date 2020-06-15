@@ -78,6 +78,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ponastavi zastarelo ve
 ##
 
 policy-LocalFileLinks = Določenim spletnim stranem dovoli povezovanje na krajevne datoteke.
+policy-MasterPassword = Zahtevaj ali prepreči uporabo glavnega gesla.
 policy-NetworkPrediction = Omogoči ali onemogoči napovedovanje omrežja (vnaprejšnje pridobivanje DNS).
 policy-NewTabPage = Omogoči ali onemogoči stran novega zavihka.
 policy-NoDefaultBookmarks = Onemogoči ustvarjanje privzetih zaznamkov, vključenih v { -brand-short-name }, in Pametnih zaznamkov (Najbolj obiskano, Nedavne oznake). Opomba: ta pravilnik je uveljavljen, samo če je nastavljen pred prvo uporabo profila.

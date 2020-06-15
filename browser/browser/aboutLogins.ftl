@@ -129,6 +129,8 @@ about-logins-copy-password-os-auth-dialog-message-win = Če želite kopirati ges
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopiraj shranjeno geslo
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Pred izvozom prijav vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
 
 ## Master Password notification
 
@@ -163,6 +165,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
+about-logins-confirm-export-dialog-message = Vaša gesla bodo shranjena kot berljivo besedilo (npr. Sl@boG3slo), zato bodo vidna vsakomur, ki bo lahko odprl izvoženo datoteko.
 about-logins-confirm-export-dialog-confirm-button = Izvozi …
 confirm-discard-changes-dialog-title = Zavržem neshranjene spremembe?
 confirm-discard-changes-dialog-message = Vse neshranjene spremembe bodo izgubljene.
@@ -199,6 +202,11 @@ about-logins-error-message-default = Med poskusom shranjevanja tega gesla se je 
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Izvozi datoteko s prijavami
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = prijave.csv
 about-logins-export-file-picker-export-button = Izvozi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
