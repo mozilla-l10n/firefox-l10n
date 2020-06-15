@@ -269,6 +269,8 @@ popup-screen-sharing-not-now =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Kaka nuu sukua
 
 ## DevTools F12 popup
 

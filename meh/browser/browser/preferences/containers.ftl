@@ -5,10 +5,13 @@
 containers-window-new =
     .title = Tee iin jíía contenedor
     .style = width: 45em
-
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } Preferencias del contenedor
+    .style = width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,26 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Sivɨ{ -containers-labels-style }
     .accesskey = S
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Chu´un iin sivɨ contenedor
-
 containers-icon-label = Icon
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Teku
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Nsa´a
     .accesskey = N
-
 containers-color-blue =
     .label = Teku lee
 containers-color-turquoise =
@@ -55,7 +52,6 @@ containers-color-pink =
     .label = Lukun
 containers-color-purple =
     .label = Li´i
-
 containers-icon-fence =
     .label = Kura
 containers-icon-fingerprint =

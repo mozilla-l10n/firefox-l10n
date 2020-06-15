@@ -117,6 +117,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Xituvi kuaiyo da nxinuun
     .accesskey = s
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Detalles nxinuun
 downloads-clear-downloads-button =
     .label = Xina da nxinuu
     .tooltiptext = Xina kuaiyo, da ntu nkuni xinuun je ntu nkuvi xinuun
@@ -124,3 +128,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Na íyo kue'eka nxinuun.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Ntu nxinuun ni'i nuu sesión ya'a.

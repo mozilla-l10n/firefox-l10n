@@ -32,6 +32,7 @@ menu =
     .title = Síne menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Nake'ema ji inka ka̱a̱ nánuku
+about-logins-menu-menuitem-export-logins = Kuiso da nuu kajie'e sesión...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Kaji
