@@ -43,6 +43,7 @@
 <!ENTITY signingCert2.message "Dijital imza için kişisel sertifika:">
 
 
+<!ENTITY technologyAutomatic.label "Kullanılabilir anahtarlara veya sertifikalara göre otomatik olarak seç">
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "S/MIME sertifikalarını yönet">
@@ -55,6 +56,7 @@
 
 <!ENTITY openpgpKeys.label "OpenPGP">
 <!ENTITY manageKeys.label "OpenPGP anahtarlarını yönet">
+<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Sertifika seçin">
