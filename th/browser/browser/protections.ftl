@@ -71,8 +71,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = การจัดการรหัสผ่าน
 lockwise-header-content = { -lockwise-brand-name } เก็บรหัสผ่านของคุณอย่างปลอดภัยในเบราว์เซอร์ของคุณ
 lockwise-header-content-logged-in = เก็บและซิงค์รหัสผ่านของคุณกับอุปกรณ์ทั้งหมดอย่างปลอดภัย
-protection-report-view-logins-button = ดูการเข้าสู่ระบบ
-    .title = ไปยังการเข้าสู่ระบบที่บันทึกไว้
+protection-report-view-logins-button = ดูข้อมูลการเข้าสู่ระบบ
+    .title = ไปยังข้อมูลการเข้าสู่ระบบที่บันทึกไว้
 protection-report-save-passwords-button = บันทึกรหัสผ่าน
     .title = บันทึกรหัสผ่านบน { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = จัดการรหัสผ่าน
@@ -159,7 +159,7 @@ full-report-link = ดูรายงานฉบับเต็ม <a data-l10n
 # your localization, because it would result in the number showing twice.
 password-warning =
     { $count ->
-       *[other] การเข้าสู่ระบบที่บันทึกไว้อาจถูกเปิดเผยในข้อมูลที่รั่วไหล เปลี่ยนรหัสผ่านนี้เพื่อความปลอดภัยออนไลน์ที่ดีกว่า <a data-l10n-name="lockwise-link">ดูการเข้าสู่ระบบที่บันทึกไว้</a>
+       *[other] ข้อมูลการเข้าสู่ระบบที่บันทึกไว้อาจถูกเปิดเผยในข้อมูลที่รั่วไหล เปลี่ยนรหัสผ่านนี้เพื่อความปลอดภัยออนไลน์ที่ดีกว่า <a data-l10n-name="lockwise-link">ดูข้อมูลการเข้าสู่ระบบที่บันทึกไว้</a>
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
