@@ -16,17 +16,13 @@ import-from-ie =
 import-from-nothing =
     .label = Ungangenisi lutfo
     .accesskey = U
-import-items-title =
-    .label = Emaphuzu ekungeniswa
+import-items-page-title = Emaphuzu ekungeniswa
 import-items-description = Khetsa kutsi ngumaphi emaphuzu langangeniswa:
-import-migrating-title =
-    .label = Kungenisa…
+import-migrating-page-title = Kungenisa…
 import-migrating-description = Lamaphuzu lalandzelako angeniswa nyalo…
-import-select-profile-title =
-    .label = Khetsa Iphrofayili
+import-select-profile-page-title = Khetsa Iphrofayili
 import-select-profile-description = Lamaphrofayili laandzelako akhona kuze angeniswe ku:
-import-done-title =
-    .label = Kungenisa kuphelele
+import-done-page-title = Kungenisa kuphelele
 import-done-description = Lamaphuzu lalandzelako angeniswe ngemphumelelo:
 # Displays which browser the bookmarks are being imported from
 #
