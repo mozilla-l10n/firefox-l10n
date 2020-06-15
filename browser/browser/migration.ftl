@@ -50,6 +50,7 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Der blev ikke fundet nogen programmer, der indeholder bogmærker, historik eller adgangskoder.
+import-source-page-title = Importer indstillinger og data
 import-items-page-title = Objekter som skal importeres
 import-items-description = Vælg hvilke objekter, der skal importeres:
 import-migrating-page-title = Importerer…
