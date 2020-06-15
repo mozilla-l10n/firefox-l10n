@@ -44,6 +44,7 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Non se atoparon programas que conteñan marcadores, historiais ou contrasinais.
+import-source-page-title = Importar configuración e datos
 import-items-page-title = Elementos para importar
 import-items-description = Escolla os elementos que quere importar:
 import-migrating-page-title = Importando…
