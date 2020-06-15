@@ -53,8 +53,11 @@ no-migration-sources = Ndojejuhúi tembiaporape oguerekóva techaukaha, tembiasa
 import-source-page-title = Mba’epytyvõrã ha mba’ekuaarã jegueru
 import-items-page-title = Mba’epuru ojeguerútava
 import-items-description = Eiporavo mba’epuru reguerútava:
+import-migrating-page-title = Jegueruhína…
 import-migrating-description = Ojegueruhína ko’ã mba’epuru…
+import-select-profile-page-title = Rechaukaha jeporavo
 import-select-profile-description = Ikatu regueru mba’ekuaarã ko’ã rechaukahakuéragui:
+import-done-page-title = Jeguerupaite
 import-done-description = Ko’ã mba’epuru ojeguerupa porã:
 import-close-source-browser = Ikatúpiko, ehechaporãke kundaha poravopyre oñembotýpara’e reku’e mboyvejey.
 # Displays which browser the bookmarks are being imported from
