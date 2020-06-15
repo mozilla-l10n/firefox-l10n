@@ -51,6 +51,7 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = Não foi encontrado nenhum programa com informações de favoritos, histórico ou senhas.
 import-source-page-title = Importar dados e configurações
+import-items-page-title = Itens a importar
 import-items-description = Selecione que itens importar:
 import-migrating-page-title = Importando…
 import-migrating-description = Estes itens estão sendo importados…
