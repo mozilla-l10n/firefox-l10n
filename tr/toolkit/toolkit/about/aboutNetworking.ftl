@@ -57,11 +57,11 @@ rcwn-avg-long = Uzun ortalama
 rcwn-std-dev-long = Uzun standart sapma
 rcwn-cache-slow = Yavaş önbellek sayısı
 rcwn-cache-not-slow = Yavaş olmayan önbellek sayısı
-
 about-networking-title = Ağ hakkında
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = DNS önbelleğini temizle
 about-networking-dns-suffix = DNS soneki
 about-networking-websockets = WebSockets
 about-networking-refresh = Yenile
