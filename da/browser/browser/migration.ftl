@@ -50,19 +50,12 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Der blev ikke fundet nogen programmer, der indeholder bogmærker, historik eller adgangskoder.
-import-source =
-    .label = Importer indstillinger og data
-import-items-title =
-    .label = Objekter som skal importeres
+import-items-page-title = Objekter som skal importeres
 import-items-description = Vælg hvilke objekter, der skal importeres:
-import-migrating-title =
-    .label = Importerer…
+import-migrating-page-title = Importerer…
 import-migrating-description = Følgende objekter er igang med at blive importeret…
-import-select-profile-title =
-    .label = Vælg profil
+import-select-profile-page-title = Vælg profil
 import-select-profile-description = Følgende profiler kan importeres:
-import-done-title =
-    .label = Import fuldført
 import-done-description = Følgende elementer blev importeret korrekt:
 import-close-source-browser = Tjek om den valgte browser er lukket, før du fortsætter.
 # Displays which browser the bookmarks are being imported from
@@ -98,54 +91,52 @@ imported-edge-reading-list = Læseliste (fra Edge)
 ## normalized to just "edge" and "chrome" for these strings.
 
 browser-data-cookies-checkbox =
-  .label = Cookies
+    .label = Cookies
 browser-data-cookies-label =
-  .value = Cookies
-
+    .value = Cookies
 browser-data-history-checkbox =
-  .label = { $browser ->
-     [firefox] Browserhistorik og bogmærker
-    *[other] Browserhistorik
-  }
+    .label =
+        { $browser ->
+            [firefox] Browserhistorik og bogmærker
+           *[other] Browserhistorik
+        }
 browser-data-history-label =
-  .value = { $browser ->
-     [firefox] Browserhistorik og bogmærker
-    *[other] Browserhistorik
-  }
-
+    .value =
+        { $browser ->
+            [firefox] Browserhistorik og bogmærker
+           *[other] Browserhistorik
+        }
 browser-data-formdata-checkbox =
-  .label = Gemt formularhistorik
+    .label = Gemt formularhistorik
 browser-data-formdata-label =
-  .value = Gemt formularhistorik
-
+    .value = Gemt formularhistorik
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
-  .label = Gemte logins og adgangskoder
+    .label = Gemte logins og adgangskoder
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
-  .value = Gemte logins og adgangskoder
-
+    .value = Gemte logins og adgangskoder
 browser-data-bookmarks-checkbox =
-  .label = { $browser ->
-     [ie] Favoritter
-     [edge] Favoritter
-    *[other] Bogmærker
-  }
+    .label =
+        { $browser ->
+            [ie] Favoritter
+            [edge] Favoritter
+           *[other] Bogmærker
+        }
 browser-data-bookmarks-label =
-  .value = { $browser ->
-     [ie] Favoritter
-     [edge] Favoritter
-    *[other] Bogmærker
-  }
-  
+    .value =
+        { $browser ->
+            [ie] Favoritter
+            [edge] Favoritter
+           *[other] Bogmærker
+        }
 browser-data-otherdata-checkbox =
-  .label = Andre data
+    .label = Andre data
 browser-data-otherdata-label =
-  .label = Andre data
-
+    .label = Andre data
 browser-data-session-checkbox =
-  .label = Vinduer og faneblade
+    .label = Vinduer og faneblade
 browser-data-session-label =
-  .value = Vinduer og faneblade
+    .value = Vinduer og faneblade
