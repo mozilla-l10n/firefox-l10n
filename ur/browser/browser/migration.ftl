@@ -51,6 +51,7 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = کوئی بھی بک مارکوں، سابقات یا پاس ورڈ کوائف کا حامل پروگرام نہیں ملا۔
 import-source-page-title = سیٹنگز اور کوائف درآمد کریں
+import-items-page-title = درآمد کرنے کی اشیا
 import-items-description = درآمد کرنے کے لیے اشیا منتخب کریں:
 import-migrating-page-title = درآمد کر رہے ہے...
 import-migrating-description = مندرجہ ذیل اشیا اس وقت درآمد ہو رہے ہیں۔۔۔
