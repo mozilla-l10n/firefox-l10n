@@ -26,7 +26,16 @@ alert-refresh = Απόπειρα ανανέωσης κρυπτογραφημέν
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Η κρυπτογραφημένη συνομιλία με τον/την { $name } έληξε.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = Η ταυτότητα του/της { $name } δεν έχει επαληθευτεί ακόμα. Δεν είναι δυνατή η συνήθης υποκλοπή, αλλά με λίγη προσπάθεια κάποιος μπορεί να εισβάλλει. Αποτρέψτε την παρακολούθηση επαληθεύοντας την ταυτότητα αυτής της επαφής.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = Ο/Η { $name } επικοινωνεί μαζί σας από μη αναγνωρισμένο υπολογιστή. Δεν είναι δυνατή η συνήθης υποκλοπή, αλλά με λίγη προσπάθεια κάποιος μπορεί να εισβάλλει. Αποτρέψτε την παρακολούθηση επαληθεύοντας την ταυτότητα αυτής της επαφής.
 state-not_private = Η τρέχουσα συνομιλία δεν είναι ιδιωτική.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Η τρέχουσα συνομιλία είναι κρυπτογραφημένη αλλά όχι ιδιωτική, καθώς η ταυτότητα του/της { $name } δεν έχει επαληθευτεί ακόμη.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = Η ταυτότητα του/της { $name } έχει επαληθευτεί. Η τρέχουσα συνομιλία είναι κρυπτογραφημένη και ιδιωτική.
