@@ -26,19 +26,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = Amul benn xeltéef bu ëmb ay mandarga xët, jaar jaar walla baatu jàll bu ñu aar.
-import-source =
-    .label = Fat parameetar yi ak rootaan yi
-import-items-title =
-    .label = Mbir yu ñu wara fat
+import-source-page-title = Fat parameetar yi ak rootaan yi
+import-items-page-title = Mbir yu ñu wara fat
 import-items-description = Fal mbir yi ñu wara fat :
-import-migrating-title =
-    .label = Fat mi…
+import-migrating-page-title = Fat mi…
 import-migrating-description = Mbir yile ngiy fatu…
-import-select-profile-title =
-    .label = Fal benn jëmmalin
+import-select-profile-page-title = Fal benn jëmmalin
 import-select-profile-description = Jëmmalin yii feex nañu ngir fatu :
-import-done-title =
-    .label = Fat mi jeex na
+import-done-page-title = Fat mi jeex na
 import-done-description = Mbir yile fatu nañu ak ndam :
 # Displays which browser the bookmarks are being imported from
 #
