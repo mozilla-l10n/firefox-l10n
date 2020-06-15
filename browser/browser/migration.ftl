@@ -50,6 +50,7 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = ブックマーク、履歴やパスワードなどのインポートする設定やデータを持つプログラムが見つかりませんでした。
+import-source-page-title = 設定とデータののインポート
 import-items-page-title = インポートする項目
 import-items-description = インポートする項目を選択してください:
 import-migrating-page-title = インポートしています...
