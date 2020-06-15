@@ -51,8 +51,10 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = ไม่พบโปรแกรมที่มีข้อมูลที่คั่นหน้า, ประวัติ หรือรหัสผ่าน
 import-items-description = เลือกรายการที่จะนำเข้า:
+import-migrating-page-title = กำลังนำเข้า…
 import-migrating-description = รายการดังต่อไปนี้กำลังถูกนำเข้า…
 import-select-profile-description = โปรไฟล์ดังต่อไปนี้พร้อมที่จะนำเข้า:
+import-done-page-title = การนำเข้าเสร็จสมบูรณ์
 import-done-description = รายการดังต่อไปนี้ถูกนำเข้าได้สำเร็จ:
 import-close-source-browser = โปรดแน่ใจว่าเบราว์เซอร์ที่เลือกถูกปิดแล้วก่อนดำเนินการต่อ
 # Displays which browser the bookmarks are being imported from
