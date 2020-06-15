@@ -71,6 +71,9 @@ serviceworker-empty-suggestions-debugger = Ստուգէք Ձեր Սպասարկ�
 serviceworker-empty-suggestions-aboutdebugging = Ստուգել Սպասարկիչներին այլ տիրոյթներից։ <a>Բացել about:debugging</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest յաւելուած
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Այստեղ ստուգելու համար պէտք է աւելացնել վեբ յաւելուածի յայտարարագիր։ <a>Իմանալ աւելին</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Սխալներ եւ Զգուշացումներ
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -79,6 +82,13 @@ manifest-item-identity = Ինքնութիւն
 manifest-item-presentation = Ներկայացում
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Պատկերակներ
+# Text displayed while we are loading the manifest file
+manifest-loading = Յայտարարագրի բեռնում…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Յայտարարագիրը բեռնուած է։
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Յայտարարագիրը բեռնելիս՝ սխալ արձանագրուեց
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
 manifest-loaded-devtools-error = Firefox DevTools֊ի սխալ
