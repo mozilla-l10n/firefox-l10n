@@ -38,11 +38,14 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Nun pudieron alcontrase programes que contuvieran marcadores, historial o datos de contraseñes.
+import-source-page-title = Importar axustes y datos
 import-items-page-title = Elementos a importar
 import-items-description = Esbilla qué elementos importar:
 import-migrating-page-title = Importando…
 import-migrating-description = Anguaño tán importándose los elementos de darréu…
+import-select-profile-page-title = Esbillar perfil
 import-select-profile-description = Los perfiles de darréu tán disponibles pa importar dende:
+import-done-page-title = Importación completada
 import-done-description = Importáronse con ésitu los elementos de darréu:
 import-close-source-browser = Asegúrate que'l restolador esbilláu ta zarráu enantes de siguir, por favor.
 # Displays which browser the bookmarks are being imported from
