@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Fonto de paĝo">
 <!ENTITY pageSourceCmd.accesskey "p">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informo pri paĝo">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Erarserĉilo de aranĝo">
 <!ENTITY ldbCmd.accesskey "a">
@@ -126,9 +124,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Malfermi preferojn de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Rekonekti al &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Konfirmi vian konton">
-
-
-<!-- } is above this key on many keyboards -->
 
 
 <!ENTITY fullScreenMinimize.tooltip "Malplejgrandigi">
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Legosignoj">
 <!ENTITY bookmarksMenu.accesskey "L">
-
 <!ENTITY bookmarkThisPageCmd.label "Aldoni legosignon por tiu ĉi paĝo">
 <!ENTITY editThisBookmarkCmd.label "Redakti tiun ĉi legosignon">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Halti">
 <!ENTITY stopCmd.accesskey            "H">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Iri al la adreso en la retadresa strio">
@@ -293,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
-
 
 <!ENTITY urlbar.permissionsGranted.tooltip       "Vi aldonis permesojn al tiu ĉi retejo.">
 
@@ -356,7 +348,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Dosiero">
 <!ENTITY fileMenu.accesskey       "o">
-
 <!ENTITY newUserContext.label             "Nova inga langeto">
 <!ENTITY newUserContext.accesskey         "e">
 <!ENTITY manageUserContext.label          "Administri ingojn">
@@ -391,7 +382,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Elekti ĉion">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "E">
-<!ENTITY preferencesCmd2.label       "Elektebloj">
+<!ENTITY preferencesCmd2.label       "Preferoj">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferoj">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
@@ -422,7 +413,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Daŭrigi antaŭan seancon">
 
 <!ENTITY showAllHistoryCmd2.label "Montri tutan historion">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Montri tutan historion">
@@ -469,7 +459,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "Aldoni al ilarstrio">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Aldoni al ekstra menuo">
@@ -514,7 +504,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Konsileto:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Ricevu helpon por trovi aferojn! Serĉu &#x1F50E; apud la serĉaj sugestoj.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Ŝanĝi elekteblojn…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Ŝanĝi preferojn…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "e">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Ŝanĝi preferojn…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "p">
@@ -603,7 +593,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "e">
 <!ENTITY showOnlyThisFrameCmd.label     "Montri nur tiun ĉi kadron">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Reŝargi kadron">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -644,6 +633,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Konservi en Pocket">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Konservi paĝon en Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Konservi ligilon en Pocket">
@@ -656,7 +647,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "K">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Konservi kadron kiel…">
 <!ENTITY saveFrameCmd.accesskey       "K">
@@ -760,20 +750,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Pligrandigi">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "P">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Malpligrandigi">
 <!ENTITY fullZoomReduceCmd.accesskey    "M">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Rekomenci">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -797,7 +784,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Fermi">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "F">
 
@@ -815,7 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Modifi la preferojn de la blokilo de ŝprucfenestroj…">
-<!ENTITY editPopupSettings.label "Modifi la elekteblojn de la blokilo de ŝprucfenestroj…">
+<!ENTITY editPopupSettings.label "Modifi la preferojn de la blokilo de ŝprucfenestroj…">
 <!ENTITY editPopupSettings.accesskey "M">
 <!ENTITY dontShowMessage.accesskey "N">
 
@@ -823,7 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Ŝanĝi tekstodirekton">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "a">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Serĉi en tiu ĉi paĝo…">
@@ -853,7 +838,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Konekto">
 <!ENTITY identity.connectionSecure "Sekura konekto">
 <!ENTITY identity.connectionNotSecure "Nesekura konekto">
-
 <!ENTITY identity.connectionFile "Tiu ĉi paĝo estas konservita en via komputilo.">
 <!ENTITY identity.connectionVerified2 "Vi estas sekure konektita al tiu ĉi retejo, kies posedanto estas:">
 <!ENTITY identity.connectionInternal "Tiu ĉi estas sekura paĝo de &brandShortName;.">
@@ -894,7 +878,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Viŝi kuketojn kaj retejajn datumojn…">
 
 <!ENTITY identity.permissions "Permesoj">
-
 <!ENTITY identity.permissionsEmpty "Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.">
 <!ENTITY identity.permissionsReloadHint "Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.">
 <!ENTITY identity.permissionsPreferences.tooltip "Malfermi preferojn de permesoj">
@@ -955,7 +938,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
 <!ENTITY contentBlocking.breakageReportView2.description "La blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpos nin plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos al Mozilla retadreson kaj informojn pri la agordoj de via retumilo.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pli da informo">
-
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Retadreso">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kiujn problemojn vi havis? (nedeviga)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Sendi raporton">
@@ -1008,7 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "e">
 
 <!ENTITY homepageControlled.message "Etendaĵo ŝanĝis vian ĉefpaĝon. Vi povas restarigi viajn agordojn se vi ne akceptas tiun ŝanĝon.">
-
 <!ENTITY homepageControlled.header.message "Via ĉefpaĝo ŝanĝiĝis.">
 <!ENTITY homepageControlled.keepButton.label "Gardi ŝanĝojn">
 <!ENTITY homepageControlled.keepButton.accesskey "G">

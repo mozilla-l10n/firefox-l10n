@@ -7,7 +7,7 @@ print-setup =
 custom-prompt-title = Personecigita…
 custom-prompt-prompt = Tajpu vian personecigitan tekston por kaptitolo aŭ subtitolo
 basic-tab =
-    .label = Formato kaj elektebloj
+    .label = Formato kaj preferoj
 advanced-tab =
     .label = Marĝenoj kaj paĝokapo/paĝopiedo
 format-group-label =
@@ -29,7 +29,7 @@ shrink-to-fit =
     .label = Adapti grandon al la larĝo de la paĝo
     .accesskey = A
 options-group-label =
-    .value = Elektebloj
+    .value = Preferoj
 print-bg =
     .label = Presi fonon (kolorojn kaj bildojn)
     .accesskey = F
@@ -103,7 +103,6 @@ print-window =
     .title = Presado
 print-complete =
     .value = La presado finiĝis.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

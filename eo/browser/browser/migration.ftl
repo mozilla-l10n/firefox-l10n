@@ -6,7 +6,7 @@ migration-wizard =
     .title = Asistanto de importado
 import-from =
     { PLATFORM() ->
-        [windows] Importi elekteblojn, legosignojn, historion, pasvortojn kaj aliajn datumojn el:
+        [windows] Importi preferojn, legosignojn, historion, pasvortojn kaj aliajn datumojn el:
        *[other] Importi preferojn, legosignojn, historion, pasvortojn kaj aliajn datumojn el:
     }
 import-from-bookmarks = Importi legosignojn el:

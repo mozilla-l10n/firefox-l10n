@@ -25,7 +25,7 @@
 <!ENTITY saveButton.tooltip         "Konservi tiun ĉi stilfolion en dosiero">
 <!ENTITY saveButton.accesskey       "K">
 
-<!ENTITY optionsButton.tooltip      "Elektebloj de redaktilo de stilfolioj">
+<!ENTITY optionsButton.tooltip      "Preferoj de redaktilo de stilfolioj">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->

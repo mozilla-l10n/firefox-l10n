@@ -57,7 +57,6 @@ rcwn-avg-long = Longa mezumo
 rcwn-std-dev-long = Longa norma devio
 rcwn-cache-slow = Nombro de malrapida staplaj aliroj
 rcwn-cache-not-slow = Nombro de ne malrapidaj staplaj aliroj
-
 about-networking-title = Pri retkonektado
 about-networking-http = HTTP
 about-networking-sockets = Konektingo
@@ -80,6 +79,7 @@ about-networking-family = Familio
 about-networking-trr = TRR
 about-networking-addresses = Adresoj
 about-networking-expires = Senvalidiĝo (sekundoj)
+about-networking-originAttributesSuffix = Izola ŝlosilo
 about-networking-messages-sent = Senditaj mesaĝoj
 about-networking-messages-received = Ricevitaj mesaĝoj
 about-networking-bytes-sent = Oktetoj senditaj
