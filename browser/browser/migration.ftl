@@ -26,19 +26,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = X
 no-migration-sources = To nie dô programów z jaczéch bë sã dało zaimpòrtowac załóżczi, historiã czë parole.
-import-source =
-    .label = Impòrtëjë nastawë i pòdôwczi
-import-items-title =
-    .label = Impòrtowóné elementë
+import-source-page-title = Impòrtëjë nastawë i pòdôwczi
+import-items-page-title = Impòrtowóné elementë
 import-items-description = Wëbierzë elementë do impòrtowaniô
-import-migrating-title =
-    .label = Impòrtëjë…
+import-migrating-page-title = Impòrtëjë…
 import-migrating-description = Nôslédné elementë są impòrtowóne…
-import-select-profile-title =
-    .label = Wëbierzë profil
+import-select-profile-page-title = Wëbierzë profil
 import-select-profile-description = Nôslédné profile dô sã impòrtowac:
-import-done-title =
-    .label = Impòrtowanié je zakùńczóné
+import-done-page-title = Impòrtowanié je zakùńczóné
 import-done-description = Nôslédné elementë są ùdało zaimpòrtowóné:
 # Displays which browser the bookmarks are being imported from
 #
