@@ -96,6 +96,36 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Browserverlauf und Lesezeichen
+           *[other] Browserverlauf
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Browserverlauf und Lesezeichen
+           *[other] Browserverlauf
+        }
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favoriten
+            [edge] Favoriten
+           *[other] Lesezeichen
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favoriten
+            [edge] Favoriten
+           *[other] Lesezeichen
+        }
+browser-data-otherdata-checkbox =
+    .label = Sonstige Daten
+browser-data-otherdata-label =
+    .label = Sonstige Daten
 browser-data-session-checkbox =
     .label = Fenster und Tabs
 browser-data-session-label =
