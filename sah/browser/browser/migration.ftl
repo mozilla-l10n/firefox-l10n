@@ -26,19 +26,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = Кыбытык-бэлиэлээх, сурунааллаах уонна киирии тыллардаах биир да програамма көстүбэтэ.
-import-source =
-    .label = Туруоруулары уонна дааннайдары көһөрөн ылыы
-import-items-title =
-    .label = Ылыллар эбийиэктэр
+import-source-page-title = Туруоруулары уонна дааннайдары көһөрөн ылыы
+import-items-page-title = Ылыллар эбийиэктэр
 import-items-description = Киллэриллэр эбийиэктэри тал:
-import-migrating-title =
-    .label = Импортааһын...
+import-migrating-page-title = Импортааһын...
 import-migrating-description = Билигин бу эбийиэктэр импортана тураллар...
-import-select-profile-title =
-    .label = Профили талыы
+import-select-profile-page-title = Профили талыы
 import-select-profile-description = Маннык профиллэртэн импорт оҥоһуллуон сөп:
-import-done-title =
-    .label = Толору оҥоһулунна
+import-done-page-title = Толору оҥоһулунна
 import-done-description = Бу эбийиэктэр импортаннылар:
 # Displays which browser the bookmarks are being imported from
 #
