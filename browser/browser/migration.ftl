@@ -20,19 +20,14 @@ import-from-safari =
     .label = Safari
     .accesskey = S
 no-migration-sources = No programs that contain bookmarks, history or password data could be found.
-import-source =
-    .label = Import Settings and Data
-import-items-title =
-    .label = Iinhloko ekufanele zingeniswe ngaphakathi
+import-source-page-title = Import Settings and Data
+import-items-page-title = Iinhloko ekufanele zingeniswe ngaphakathi
 import-items-description = Khetha bona kufanele kungeniswe iinhloko ziphi ngaphakathi:
-import-migrating-title =
-    .label = Ingenisa ngaphakathi...
+import-migrating-page-title = Ingenisa ngaphakathi...
 import-migrating-description = Iinhloko ezilandelako kwagadesi zingeniswa ngaphakathi...
-import-select-profile-title =
-    .label = Khetha Iphrofayili
+import-select-profile-page-title = Khetha Iphrofayili
 import-select-profile-description = Amaphrofayili alandelako akhona ukungeniswa ngaphakathi kusukela ku:
-import-done-title =
-    .label = Ukungenisa Ngaphakathi Kuphelile
+import-done-page-title = Ukungenisa Ngaphakathi Kuphelile
 import-done-description = Iinhloko ezilandelako kuphumelele ukuzingenisa ngaphakathi:
 # Displays which browser the bookmarks are being imported from
 #
