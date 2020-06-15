@@ -594,6 +594,12 @@ search-keyword-warning-bookmark = Изабрали сте кључну реч к
 ## Containers Section
 
 containers-back-link = « Иди назад
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Назаад на Опције
+           *[other] Назад на Подешавања
+        }
 containers-header = Контејнер језичци
 containers-add-button =
     .label = Додај нови контејнер
