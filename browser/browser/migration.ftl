@@ -50,9 +50,14 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Ezin izan da laster-markak, historia edo pasahitz daturik duen programarik aurkitu.
+import-source-page-title = Inportatu ezarpenak eta datuak
+import-items-page-title = Inportatu beharrekoak
 import-items-description = Aukeratu inportatu beharrekoak:
+import-migrating-page-title = Inportatzen…
 import-migrating-description = Ondorengo osagaiak inportatzen…
+import-select-profile-page-title = Hautatu profila
 import-select-profile-description = Inportatzeko honako profil hauek daude eskuragarri:
+import-done-page-title = Inportazioa burutu da
 import-done-description = Hurrengo osagaiak ondo inportatu dira:
 import-close-source-browser = Ziurtatu hautatutako nagitzailea itxita dagoela jarraitu aurretik.
 # Displays which browser the bookmarks are being imported from
