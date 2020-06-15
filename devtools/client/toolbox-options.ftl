@@ -104,7 +104,7 @@ options-enable-remote-label = Aktifkan pendebugan jarak jauh
 options-enable-remote-tooltip =
     .title = Mengaktifkan opsi ini akan memungkinkan pengembang untuk mendebug salinan jarak jauh misalnya Firefox OS
 options-enable-remote-tooltip2 =
-    .title = Mengaktifkan opsi ini akan memungkinkan untuk debug instance peramban ini dari jarak jauh
+    .title = Mengaktifkan opsi ini akan memungkinkan untuk mendebug instans peramban ini dari jarak jauh
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Aktifkan Service Worker lewat HTTP (saat kotak alat terbuka)
 options-enable-service-workers-http-tooltip =

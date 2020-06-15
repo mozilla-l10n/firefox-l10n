@@ -32,7 +32,7 @@ menu =
     .title = Buka menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Impor dari Peramban Lain…
-about-logins-menu-menuitem-export-logins = Ekspor Log Masuk…
+about-logins-menu-menuitem-export-logins = Ekspor Info Masuk…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Pengaturan
@@ -127,10 +127,10 @@ about-logins-copy-password-os-auth-dialog-message-win = Untuk menyalin kata sand
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = menyalin kata sandi tersimpan.
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Untuk mengekspor log masuk Anda, silakan masukkan kredensial log masuk Windows Anda. Ini akan membantu mengamankan akun Anda.
+about-logins-export-password-os-auth-dialog-message-win = Untuk mengekspor info masuk Anda, silakan masukkan kredensial info masuk Windows Anda. Ini akan membantu mengamankan akun Anda.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = ekspor log masuk dan sandi tersimpan
+about-logins-export-password-os-auth-dialog-message-macosx = mengekspor info masuk dan sandi tersimpan
 
 ## Master Password notification
 
@@ -165,7 +165,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Hapus info masuk ini?
 confirm-delete-dialog-message = Tindakan ini tidak dapat diurungkan.
 about-logins-confirm-remove-dialog-confirm-button = Hapus
-about-logins-confirm-export-dialog-title = Ekspor log masuk dan sandi
+about-logins-confirm-export-dialog-title = Ekspor info masuk dan sandi
 about-logins-confirm-export-dialog-message = Kata sandi Anda akan disimpan sebagai teks biasa yang bisa dibaca (contoh: P@sw0rd) sehingga siapa pun yang dapat membuka berkas yang Anda ekspor akan bisa membacanya.
 about-logins-confirm-export-dialog-confirm-button = Ekspor…
 confirm-discard-changes-dialog-title = Buang perubahan yang belum disimpan?
@@ -204,7 +204,7 @@ about-logins-error-message-default = Terjadi kesalahan saat mencoba menyimpan ka
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Ekspor Berkas Log masuk:
+about-logins-export-file-picker-title = Ekspor Berkas Info Masuk
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
