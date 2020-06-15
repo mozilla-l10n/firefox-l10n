@@ -27,7 +27,25 @@ serviceworker-worker-debug = Վրիպազերծել
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Մեկնարկ
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Վրիպազերծել
+    .title = Կարող է վրիպազերծել միայն Ծառայութիւն Մատուցողներին, եթե multi e 10s-ը անջատուած է։
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Մեկնարկ
+    .title = Կարող է գործարկել միայն Ծառայութիւն Մատուցողներին, եթե multi e10s-ը անջատուած է։
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+serviceworker-worker-updated = Թարմացուած <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = Աղբիւր
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = Վիճակ
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Service Worker status. A running service worker is registered, currently executed, can
+# be debugged and stopped.
+serviceworker-worker-status-running = Ընթացքի մէջ
