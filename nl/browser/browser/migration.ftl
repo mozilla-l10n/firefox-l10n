@@ -50,10 +50,14 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Er zijn geen programma’s gevonden die bladwijzers, geschiedenis of wachtwoorden bevatten.
+import-source-page-title = Instellingen en gegevens importeren
+import-items-page-title = Te importeren items
 import-items-description = Selecteer de te importeren items:
 import-migrating-page-title = Importeren…
 import-migrating-description = De volgende items worden momenteel geïmporteerd…
+import-select-profile-page-title = Profiel selecteren
 import-select-profile-description = De volgende profielen zijn beschikbaar om uit te importeren:
+import-done-page-title = Importeren voltooid
 import-done-description = De volgende items zijn met succes geïmporteerd:
 import-close-source-browser = Zorg ervoor dat de geselecteerde browser is gesloten voordat u verdergaat.
 # Displays which browser the bookmarks are being imported from
