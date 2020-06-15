@@ -22,6 +22,7 @@ set-password-new-password = Jepni fjalëkalimin e ri:
 set-password-reenter-password = Rijepeni fjalëkalimin:
 set-password-meter = Matës cilësie fjalëkalimesh
 set-password-meter-loading = Po ngarkohet
+master-password-admin = Që të mund të ruhen fjalëkalime, përgjegjësi juaj kërkon që të keni doemos të caktuar një Fjalëkalim të Përgjithshëm.
 master-password-description = Fjalëkalimi i Përgjithshëm përdoret për të mbrojtur të dhëna me zarar, p.sh., fjalëkalime sajtesh.  Nëse krijoni një Fjalëkalim të Përgjithshëm, do t'ju kërkohet ta jepni atë një herë për çdo sesion, sa herë që { -brand-short-name }-i merr të dhënat e ruajtura të mbrojtura me fjalëkalim.
 master-password-warning = Ju lutemi, sigurohuni që e mbani mend Fjalëkalimin e Përgjithshëm që caktuat.  Nëse harroni Fjalëkalimin tuaj të Përgjithshëm, nuk do të jeni më në gjendje të kini të dhëna të mbrojtura me të.
 remove-password =
