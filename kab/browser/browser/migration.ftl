@@ -51,6 +51,7 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = Ulac aseɣẓan i igebren ticraḍ n yisebtar, azray, neɣ awalen uffiren ikelsen.
 import-source-page-title = Aktar n iɣewwaṛen d isefka
+import-items-page-title = Iferdisen ara yettwaketren
 import-items-description = Fren iferdisen ara yettwaketren:
 import-migrating-page-title = Aktar…
 import-migrating-description = Iferdisen-a la d-ttwaktaren akka tura…
