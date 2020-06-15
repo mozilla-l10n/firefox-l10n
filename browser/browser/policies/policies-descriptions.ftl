@@ -78,6 +78,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Veraltetes Cookie-Verh
 ##
 
 policy-LocalFileLinks = Festgelegten Websites Zugriff auf lokale Dateien erlauben
+policy-MasterPassword = Benutzung eines Master-Passworts erfordern oder verhindern
 policy-NetworkPrediction = Spekulative DNS-Abfragen für noch nicht angeforderte Ressourcen ("DNS-Prefetching") aktivieren oder deaktivieren
 policy-NewTabPage = Startseite für neue Tabs aktivieren oder deaktivieren
 policy-NoDefaultBookmarks = Standardlesezeichen von { -brand-short-name } und Intelligente Lesezeichenordner ("Meistbesucht", "Kürzlich verwendete Schlagwörter") nicht erstellen. Hinweis: Diese Richtlinie findet nur Anwendung, wenn sie vor dem ersten Ausführen des Profils aktiv wurde.
