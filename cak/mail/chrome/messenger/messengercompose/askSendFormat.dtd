@@ -5,7 +5,6 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "HTML Ruk'utunïk Taqoya'l">
 
-<!ENTITY recipient.label "">
 
 <!ENTITY question.label "¿La kan nawajo' nak'ëx ri rutzijol rik'in jun cholan tzij majun rub'anikil o nitaq pa HTML jantäq?">
 
