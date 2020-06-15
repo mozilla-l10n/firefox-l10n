@@ -38,9 +38,14 @@ import-from-360se =
     .label = Brabhsálaí Slán 360
     .accesskey = 3
 no-migration-sources = Níorbh fhéidir ríomhchláir ina bhfuil leabharmharcanna, stair nó sonraí focal faire a aimsiú.
+import-source-page-title = Iompórtáil Socruithe agus Sonraí
+import-items-page-title = Rudaí le hIompórtáil
 import-items-description = Roghnaigh na rudaí le hiompórtáil:
+import-migrating-page-title = Á nIompórtáil…
 import-migrating-description = Tá na rudaí seo á n-iompórtáil faoi láthair…
+import-select-profile-page-title = Roghnaigh Próifíl
 import-select-profile-description = Próifílí le fáil ónar féidir a iompórtáil:
+import-done-page-title = Iompórtáil curtha i gcrích
 import-done-description = Iompórtáladh na rudaí seo go rathúil:
 import-close-source-browser = Bí cinnte go bhfuil an brabhsálaí a roghnaigh tú dúnta sula leanfaidh tú ar aghaidh.
 # Displays which browser the bookmarks are being imported from
