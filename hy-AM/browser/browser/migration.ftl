@@ -55,6 +55,7 @@ import-items-description = Ընտրեք, թե ինչ պետք է ներմուծ�
 import-migrating-page-title = Ներմուծվում է…
 import-migrating-description = Հետևյալ բաղադրիչները ներմուծվում են…
 import-select-profile-description = Կարող եք ներմուծել հետևյալ հաշիվներից՝
+import-done-page-title = Ներմուծումն ավարտվեց
 import-done-description = Հետևյալ բաղադրիչները հաջողությամբ ներմուծվեցին՝
 import-close-source-browser = Շարունակելուց առաջ խնդրում ենք համոզվել, որ ընտրված դիտարկիչը փակ է:
 # Displays which browser the bookmarks are being imported from
