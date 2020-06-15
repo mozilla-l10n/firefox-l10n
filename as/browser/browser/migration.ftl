@@ -26,19 +26,13 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = পত্ৰচিহ্ন, ইতিহাস বা পাছৱৰ্ডৰ তথ্য থকা কোনো এপ্লিকেচন পোৱা ন'গ'ল।
-import-source =
-    .label = পছন্দ আৰু তথ্য ইমপোৰ্ট কৰক
-import-items-title =
-    .label = ইমপোৰ্ট কৰিব লগা বস্তু
+import-source-page-title = পছন্দ আৰু তথ্য ইমপোৰ্ট কৰক
+import-items-page-title = ইমপোৰ্ট কৰিব লগা বস্তু
 import-items-description = ইমপোৰ্ট কৰিব লগা বস্তু বাছক:
-import-migrating-title =
-    .label = ইমপোৰ্ট কৰা হৈছে...
+import-migrating-page-title = ইমপোৰ্ট কৰা হৈছে...
 import-migrating-description = নিম্নলিখিত বস্তু বৰ্ত্তমানে ইমপোৰ্ট কৰা হৈছে...
-import-select-profile-title =
-    .label = আলেখ্য বাছক
 import-select-profile-description = ৰ পৰা নিম্নলিখিত আলেখ্য ইমপোৰ্ট কৰিবলৈ পোৱা যায়:
-import-done-title =
-    .label = ইমপোৰ্ট সম্পূৰ্ণ হ'ল
+import-done-page-title = ইমপোৰ্ট সম্পূৰ্ণ হ'ল
 import-done-description = নিম্নলিখিত বস্তু সফলভাবে ইমপোৰ্ট কৰা হ'ল:
 # Displays which browser the bookmarks are being imported from
 #
