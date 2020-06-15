@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 saved-logins =
-    .title = การเข้าสู่ระบบที่บันทึกไว้
+    .title = ข้อมูลการเข้าสู่ระบบที่บันทึกไว้
 window-close =
     .key = w
 focus-search-shortcut =
@@ -54,15 +54,14 @@ import =
 close-button =
     .label = ปิด
     .accesskey = ป
-
 show-passwords =
     .label = แสดงรหัสผ่าน
     .accesskey = ส
 hide-passwords =
     .label = ซ่อนรหัสผ่าน
     .accesskey = ร
-logins-description-all = การเข้าสู่ระบบสำหรับไซต์ดังต่อไปนี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ
-logins-description-filtered = การเข้าสู่ระบบดังต่อไปนี้ตรงกับที่คุณค้นหา:
+logins-description-all = ข้อมูลการเข้าสู่ระบบสำหรับไซต์ดังต่อไปนี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ
+logins-description-filtered = ข้อมูลการเข้าสู่ระบบดังต่อไปนี้ตรงกับการค้นหาของคุณ:
 remove-all =
     .label = เอาทั้งหมดออก
     .accesskey = ท
