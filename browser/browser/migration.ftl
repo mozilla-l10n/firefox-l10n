@@ -26,19 +26,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = Ga go na mananeo ao a hweditšwego a nago le dipukutshwayo, histori goba tsebišo ya mantšuphetišo.
-import-source =
-    .label = Amogela dipeakanyo le tsebišo
-import-items-title =
-    .label = Dilo tše di tlago amogelwa
+import-source-page-title = Amogela dipeakanyo le tsebišo
+import-items-page-title = Dilo tše di tlago amogelwa
 import-items-description = Kgetha dilo tšeo di tla amogelwago:
-import-migrating-title =
-    .label = Amogela…
+import-migrating-page-title = Amogela…
 import-migrating-description = Dilo tše di latelago di gare di a amogelwa…
-import-select-profile-title =
-    .label = Kgetha profaele
+import-select-profile-page-title = Kgetha profaele
 import-select-profile-description = Diprofaele tše di latelago di gona go ka amogelwa go tšwa go:
-import-done-title =
-    .label = Kamogelo e phethilwe
+import-done-page-title = Kamogelo e phethilwe
 import-done-description = Dilo tše di latelago di amogetšwe ka katlego:
 # Displays which browser the bookmarks are being imported from
 #
