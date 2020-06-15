@@ -50,6 +50,7 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Није пронађен ниједан програм који садржи забелешке, историјат или лозинке.
+import-source-page-title = Увези подешавања и податке
 import-items-page-title = Ставке за увоз
 import-items-description = Изаберите ставке за увоз:
 import-migrating-page-title = Увоз…
