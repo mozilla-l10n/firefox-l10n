@@ -26,19 +26,14 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 no-migration-sources = Hakuna programu zilizo na alamisho, historia au data ya nenosiri zimepatikana.
-import-source =
-    .label = Leta Mipangilio na Data
-import-items-title =
-    .label = Vipengee vya Kuleta
+import-source-page-title = Leta Mipangilio na Data
+import-items-page-title = Vipengee vya Kuleta
 import-items-description = Chagua ni vipengee vipi utaleta:
-import-migrating-title =
-    .label = Inaleta…
+import-migrating-page-title = Inaleta…
 import-migrating-description = Vipengee vifuatavyo kwa sasa vinaletwa…
-import-select-profile-title =
-    .label = Chagua Maelezo Mafupi
+import-select-profile-page-title = Chagua Maelezo Mafupi
 import-select-profile-description = Maelezo mafupi yafuatayo yanapatikana kuletwa kutoka kwa:
-import-done-title =
-    .label = Kuleta Kumekamilika
+import-done-page-title = Kuleta Kumekamilika
 import-done-description = Vipengee vifuatavyo vimefanikiwa kuletwa:
 # Displays which browser the bookmarks are being imported from
 #
