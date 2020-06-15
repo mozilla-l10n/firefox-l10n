@@ -104,6 +104,25 @@ js-incremental-gc = Inkrementalny GC
 a11y-title = Dostympność
 a11y-activated = Aktywowano
 a11y-force-disabled = Zastow dostympność
+a11y-handler-used = Użyto je ôbsuga dostympności
+library-version-title = Wersyje bibliotyk
+copy-text-to-clipboard-label = Kopiuj tekst do kamerlika
+copy-raw-data-to-clipboard-label = Kopiuj surowe dane do kamerlika
+sandbox-title = Sandbox
+sandbox-sys-call-log-title = Ôdciepane systymowe wołania
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Sekund tymu
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Typ procesu
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Parametry
+safe-mode-title = Sprōbuj trybu bezpieczyństwa
+restart-in-safe-mode-label = Resztartuj z wyłōnczōnymi rozszyrzyniami…
+clear-startup-cache-title = Sprōbuj wypucować podrynczno pamiyńć sztartowanio
+clear-startup-cache-label = Wypucuj podrynczno pamiyńć sztartowanio…
+startup-cache-dialog-title = Wypucuj podrynczno pamiyńć sztartowanio
+restart-button-label = Resztartnij
 
 ## Media titles
 
