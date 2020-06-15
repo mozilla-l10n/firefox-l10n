@@ -459,7 +459,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Nánuku consulta">
 
+<!ENTITY contentSearchSubmit.tooltip  "Chu'un íchi a nánuku">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
@@ -469,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Nánuku:">
 <!ENTITY searchWith.label             " ji:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
@@ -488,49 +491,78 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Sama naja nánuku">
+<!ENTITY changeSearchSettings.tooltip "Sama naja nánuku">
 
+<!ENTITY searchInNewTab.label         "Nánuku nuu iin sukua jíía">
 <!ENTITY searchInNewTab.accesskey     "p">
+<!ENTITY searchSetAsDefault.label     "Tee ka̱a̱ nánuku kua vaji">
 <!ENTITY searchSetAsDefault.accesskey "p">
 
+<!ENTITY openLinkCmdInTab.label       "Síne enlace nuu iin sukua jíía">
 
 <!ENTITY openLinkCmdInTab.accesskey   "p">
+<!ENTITY openLinkCmd.label            "Sikune enlace nuu ventana jíía">
 <!ENTITY openLinkCmd.accesskey        "v">
+<!ENTITY openLinkInPrivateWindowCmd.label "Síne enlace nuu ventana jíía yu´u">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Síne enlace">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
+<!ENTITY openFrameCmdInTab.label      "Síne marco nuu iin pestaña jíía">
 <!ENTITY openFrameCmdInTab.accesskey  "t">
+<!ENTITY openFrameCmd.label           "Síne marco nuu iin ventana jíía">
 <!ENTITY openFrameCmd.accesskey       "e">
+<!ENTITY openLinkCmdInContainerTab.label "Síne enlace nuu a jíía sukua contenedora">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
+<!ENTITY showOnlyThisFrameCmd.label     "Kune´ya ntu xini marco ya´a">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Nachu'un tuku marco">
 <!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Kune´ya tu´un nee yata ya´a nkaji">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Kune´ya tu´un nee yata página ya´a">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "Kune´ya tu´un nee yata marco ya´a">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "Kune´ya tu´un página ya´a">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
+<!ENTITY viewFrameInfoCmd.label       "Kune´ya tu´un marco ya´a">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY reloadImageCmd.label         "Nachu'un tuku tutu nátava">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Túvi tutu nátava">
 <!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewImageInfoCmd.label       "Kune´ya información tutu natava">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageDescCmd.label       "Kune'ya descripción">
 <!ENTITY viewImageDescCmd.accesskey   "d">
+<!ENTITY viewVideoCmd.label           "Kune´ya tutu kana">
 <!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewBGImageCmd.label         "Kune´ya imagen yata">
 <!ENTITY viewBGImageCmd.accesskey     "f">
+<!ENTITY setDesktopBackgroundCmd.label      "Tee kua fondo escritorio....">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
+<!ENTITY bookmarkPageCmd2.label       "Tee página ya´a nuu marcadores">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "Tee enlace ya´a nuu marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
+<!ENTITY bookmarkThisFrameCmd.label      "Tee marco ya´a nuu marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
+<!ENTITY pageAction.copyLink.label    "Tɨɨn enlacae">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Chuva´a nuu Pocket">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.label        "Chuva´a página nuu Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Chuva´a enlace nuu Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Kune'ya lista Pocket">
 
 <!ENTITY emailPageCmd.label           "Chu´un íchi enlace...">
 <!ENTITY emailPageCmd.accesskey       "E">
