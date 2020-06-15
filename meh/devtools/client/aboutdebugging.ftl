@@ -165,3 +165,27 @@ about-debugging-worker-status-registering = Registrando
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Alcance
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Servicio Push
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Proceso principal
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Proceso principal del navegador de destino
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Caja de herramientas multiproceso
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Proceso principal y procesos de contenido para el navegador de destino
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Nakasɨ mensaje
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detalles del error
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detalles del aviso
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detalles
