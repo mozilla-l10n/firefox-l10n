@@ -500,6 +500,7 @@ home-prefs-topsites-description = Sajtet që vizitoni më tepër
 home-prefs-recommended-by-header =
     .label = Rekomanduar nga { $provider }
 home-prefs-recommended-by-description = Lëndë e bukur nga anembanë internetit, personalizuar për ju
+home-prefs-recommended-by-description-update = Lëndë e jashtëzakonshme nga anembanë intereti, nën përkujdesjen e { $provider }
 
 ##
 
@@ -902,6 +903,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Administroni Lejet
     .accesskey = A
+sitedata-cookies-exceptions =
+    .label = Administroni Përjashtime…
+    .accesskey = A
 
 ## Privacy Section - Address Bar
 
@@ -916,6 +920,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Skeda të hapura
     .accesskey = S
+addressbar-locbar-topsites-option =
+    .label = Sajte Kryesues
+    .accesskey = K
 addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga motorë kërkimi
 
 ## Privacy Section - Content Blocking

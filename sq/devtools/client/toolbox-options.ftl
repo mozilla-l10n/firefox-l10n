@@ -103,6 +103,8 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Aktivizoni diagnostikim të largët
 options-enable-remote-tooltip =
     .title = Aktivizimi i kësaj mundësie do t'u lejojë mjeteve të zhvilluesit të diagnostikojnë një instancë të largët, fjala vjen Firefox OS
+options-enable-remote-tooltip2 =
+    .title = Aktivizimi i kësaj mundësie do të lejojë diagnostikimin së largëti të kësaj instance shfletuesi
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Aktivizoni Service Workers përmes HTTP-je (kur grupi i mjeteve është hapur)
 options-enable-service-workers-http-tooltip =
