@@ -26,10 +26,8 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-import-select-profile-title =
-    .label = Seleccionar perfil
-import-done-title =
-    .label = N'tsinu n'dakian
+import-select-profile-page-title = Seleccionar perfil
+import-done-page-title = N'tsinu n'dakian
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
