@@ -5,3 +5,4 @@
 otr-encryption-title = Potrjeno šifriranje
 otr-fingerprint-label = Vaš prstni odtis:
 otr-settings-title = Nastavitve OTR
+otr-notYetAvailable = še ni na voljo
