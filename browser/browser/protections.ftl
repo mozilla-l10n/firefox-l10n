@@ -179,6 +179,19 @@ info-exposed-passwords-resolved =
 monitor-no-breaches-title = Vești bune!
 monitor-view-report-link = Vezi raportul
     .title = Rezolvă încălcările securității datelor pe { -monitor-brand-short-name }
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } din { $numBreaches } încălcări marcate ca rezolvate
+        [few] { $numBreachesResolved } din { $numBreaches } încălcări marcate ca rezolvate
+       *[other] { $numBreachesResolved } din { $numBreaches } de încălcări marcate ca rezolvate
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% terminat
+monitor-partial-breaches-motivation-title-start = Grozav început!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
