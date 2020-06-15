@@ -206,3 +206,14 @@ about-logins-error-message-default = Ndodhi një gabim teksa provohej të ruhej 
 
 # Title of the file picker dialog
 about-logins-export-file-picker-title = Eksportoni Kartelë Kredencialesh Hyrjesh
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Eksporto
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument CSV
+       *[other] Kartelë CVS
+    }
