@@ -49,7 +49,7 @@
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Micșorează">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "Resetează focalizarea">
+<!ENTITY viewMenu_resetzoom_label "Resetează zoomul">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Deschide aplicația">
