@@ -129,6 +129,9 @@ about-logins-copy-password-os-auth-dialog-message-win = Ձեր մուտքանո�
 about-logins-copy-password-os-auth-dialog-message-macosx = պատճէնել պահպանուած գաղտնաբառը
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Ձեր մուտքանունը խմբագրելու համար գրանցէք Windows մուտքագրման Ձեր տուեալները: Այս ընթացակարգն աւգնում է պահպանել ձեր հաշիւների անվտանգութիւնը:
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = արտահանել պահպանուած մուտքանուններն ու գաղտնաբառերը
 
 ## Master Password notification
 
@@ -164,6 +167,8 @@ about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտք�
 confirm-delete-dialog-message = Այս գործողութիւնը չի կարող ետարկուել։
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանուններն ու գաղտնաբառերը
+about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կը պահպանուեն որպէս ընթեռնելի գրոյթ (աւրինակ՝ BadP@ssw0rd) եւ ովքեր կարող են բացել ձեր նիշքերը, կը տեսնեն գաղտնաբառերը։
+about-logins-confirm-export-dialog-confirm-button = Արտահանել
 confirm-discard-changes-dialog-title = Անտեսե՞լ չպահպանուած փոփոխութիւնները։
 confirm-discard-changes-dialog-message = Բոլոր չպահպանուած փոփոխութիւնները կը կորչեն։
 confirm-discard-changes-dialog-confirm-button = Անտեսել
