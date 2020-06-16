@@ -31,11 +31,11 @@ pill-action-move-to =
     .accesskey = A
 
 pill-action-move-cc =
-    .label = Verschieben zu Cc
+    .label = Verschieben zu Kopie (CC)
     .accesskey = C
 
 pill-action-move-bcc =
-    .label = Verschieben zu Bcc
+    .label = Verschieben zu Blindkopie (BCC)
     .accesskey = B
 
 #   $count (Number) - the number of attachments in the attachment bucket

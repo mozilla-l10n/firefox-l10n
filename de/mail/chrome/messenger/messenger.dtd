@@ -984,5 +984,5 @@
 <!ENTITY openAddressBookDock.label      "Adressbuch öffnen">
 
 <!-- Content tab Navigation buttons -->
-<!ENTITY browseBackButton.tooltip    "Eine Seite vor">
-<!ENTITY browseForwardButton.tooltip "Eine Seite zurück">
+<!ENTITY browseBackButton.tooltip    "Eine Seite zurück">
+<!ENTITY browseForwardButton.tooltip "Eine Seite vor">

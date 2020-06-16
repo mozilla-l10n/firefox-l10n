@@ -66,7 +66,7 @@ remove-all =
 remove-all-shown =
     .label = Alle angezeigten entfernen
     .accesskey = g
-remove-all-passwords-prompt = Sollen tatsächlich alle gespeicherten Passwörter gelöscht werden?
+remove-all-passwords-prompt = Sollen wirklich alle gespeicherten Passwörter gelöscht werden?
 remove-all-passwords-title = Alle Passwörter löschen
 no-master-password-prompt = Sollen Ihre Passwörter wirklich angezeigt werden?
 

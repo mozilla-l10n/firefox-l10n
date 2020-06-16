@@ -55,7 +55,7 @@ composition-attachments-header = Anhänge
 
 composition-spelling-title = Rechtschreibung
 
-compose-html-style-title = HTML-Stil
+compose-html-style-title = HTML-Optionen
 
 composition-addressing-header = Adressieren
 
@@ -749,10 +749,10 @@ phishing-label =
     .label = Nachrichten auf Betrugsversuche (Phishing) untersuchen
     .accesskey = N
 
-antivirus-description = { -brand-short-name } kann es Anti-Virus-Software ermöglichen, eingehende Nachrichten zu überprüfen und eventuell in Quarantäne zu stellen (oder zu löschen), bevor diese im Posteingang gespeichert werden. Dies kann bei POP-Konten vor Datenverlust schützen, benötigt aber mehr Zeit.
+antivirus-description = { -brand-short-name } kann es Antivirus-Software ermöglichen, eingehende Nachrichten zu überprüfen und eventuell in Quarantäne zu stellen (oder zu löschen), bevor diese im Posteingang gespeichert werden. Dies kann bei POP-Konten vor Datenverlust schützen, benötigt aber mehr Zeit.
 
 antivirus-label =
-    .label = Anti-Virus-Software ermöglichen, eingehende Nachrichten unter Quarantäne zu stellen
+    .label = Antivirus-Software ermöglichen, eingehende Nachrichten unter Quarantäne zu stellen
     .accesskey = A
 
 certificate-description = Wenn eine Website nach dem persönlichen Sicherheitszertifikat verlangt:
