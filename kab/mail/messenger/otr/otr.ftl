@@ -12,7 +12,15 @@ msgevent-encryption_error = Tella-d tuccḍa deg uwgelhen n yizen-inek/inem. Ize
 msgevent-connection_ended = { $name } yeḥbes yakan tuqqna tawgelhent yid-k/m. I wakken ur tettazneḍ ara izen war awgelhen mebla ma tfaqqed, izen-inek/inem ur yettwazenara. Ma ulac aɣilif, seḥbes adiwenni-inek/inem awgelhen neɣ senker-it.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-setup_error = Tella-d tuccḍa lawan n usebded n udiwenni uslig d { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg_reflected = Aql-ak/akem tremseḍ-d iznan-iknek/inem OTR. Tettaεraḍeḍ ad temmeslayeḍ d yiman-in/im, neq yella win i d-yettarran iznan-ik/im.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = Izen aneggaru yettwazen tikkelt-nniḍen i { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_not_private = Izen awgelhen i d-yettwaṭṭfen sɣur { $name } ur yettwaɣra ara, acku ur tettmeslayeḍ ara akka tura s wudem uslig.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Tremseḍ-d izen yettwagelhen ur nettwaɣra ara seg { $name }.
