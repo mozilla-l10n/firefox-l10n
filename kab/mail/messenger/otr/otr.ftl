@@ -39,13 +39,23 @@ msgevent-rcvdmsg_unencrypted = Izen i d-iteddun i d-yermes { $name } ur iwgelhen
 msgevent-rcvdmsg_unrecognized = Tremseḍ-d izen OTR d arussin seg { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } iceggeε-d izen ɣer tɣimit tayeḍ. Ma yella tkecmeḍ acḥal n tikkal, tiɣimit-nniḍen tezmer ad d-termes izen-nni.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Yebda udiwenni uslig d { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_unverified = Yebda udiwenni awgelhan maca { $name } ur yettwasenqed ara.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+context-still_secure = Asmirten n udiwenni awgelhen d { $name } yedda akken iwata.
+error-enc = Tella-d tuccḍa lawan n uwgelhen n yizen.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 error-not_priv = Tuzneḍ isefka iwgelhanen i { $name }, ur ten-yeṛǧi ara.
 error-unreadable = Tuzned izen awgelhan ur nettwaɣra ara.
 error-malformed = Tuzneḍ izen n yisefka ur nemsil ara akken iwata.
 resent = [azen tikkelt-nniḍen]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } yeḥbes adiwenni awgelhen yid-k/m; ilaq ad txedmeḍ am netta.
