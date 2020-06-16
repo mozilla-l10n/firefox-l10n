@@ -92,6 +92,52 @@ imported-edge-reading-list = Legolisto (de Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Kuketoj
+browser-data-cookies-label =
+    .value = Kuketoj
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Historio de retumo kaj legosignoj
+           *[other] Historio de retumo
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Historio de retumo kaj legosignoj
+           *[other] Historio de retumo
+        }
+browser-data-formdata-checkbox =
+    .label = Historio de formularoj konservita
+browser-data-formdata-label =
+    .value = Historio de formularoj konservita
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Legitimiloj kaj pasvortoj konservitaj
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Legitimiloj kaj pasvortoj konservitaj
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Legosignoj
+            [edge] Legosignoj
+           *[other] Legosignoj
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Legosignoj
+            [edge] Legosignoj
+           *[other] Legosignoj
+        }
+browser-data-otherdata-checkbox =
+    .label = Aliaj datumoj
+browser-data-otherdata-label =
+    .label = Aliaj datumoj
 browser-data-session-checkbox =
     .label = Fenestroj kaj langetoj
 browser-data-session-label =
