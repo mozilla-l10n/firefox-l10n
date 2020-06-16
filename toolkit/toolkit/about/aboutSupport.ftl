@@ -7,7 +7,6 @@ page-subtitle =
     Questa pagina cuntegna infurmaziuns tecnicas che pudessan esser nizzaivlas,
     sche ti emprovas da schliar in problem. Sche ti tschertgas respostas a dumondas
     frequentas davart { -brand-short-name }, visita per plaschair nossa <a data-l10n-name="support-link">pagina d'agid</a>.
-
 crashes-title = Annunzias da collaps
 crashes-id = ID dal rapport
 crashes-send-date = Tramess
@@ -120,6 +119,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Empruvar il modus segirà
 restart-in-safe-mode-label = Reaviar cun supplements deactivads…
+restart-button-label = Reaviar
 
 ## Media titles
 
@@ -127,7 +127,6 @@ audio-backend = Backend dad audio
 max-audio-channels = Maximum da chanals
 channel-layout = Modus da chanals preferì
 sample-rate = Frequenza da scannar preferida
-
 media-title = Multimedia
 media-output-devices-title = Apparats da sortida
 media-input-devices-title = Apparats d'entrada
@@ -178,7 +177,6 @@ report-crash-for-days =
         [one] Annunzias da collaps da l'ultim di
        *[other] Annunzias da collaps dals ultims { $days } dis
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -186,7 +184,6 @@ crashes-time-minutes =
         [one] Avant { $minutes } minuta
        *[other] Avant { $minutes } minutas
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -194,7 +191,6 @@ crashes-time-hours =
         [one] Avant { $hours } ura
        *[other] Avant { $hours } uras
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -202,7 +198,6 @@ crashes-time-days =
         [one] Avant { $days } di
        *[other] Avant { $days } dis
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -210,7 +205,6 @@ pending-reports =
         [one] Tut ils rapports da collaps (inclus { $reports } collaps pendent en la perioda definida)
        *[other] Tut ils rapports da collaps (inclus { $reports } collaps pendents en la perioda definida)
     }
-
 raw-data-copied = Copià las datas bruttas en l'archiv provisoric
 text-copied = Copià il text en l'archiv provisoric
 
@@ -223,11 +217,9 @@ blocked-mismatched-version = Bloccà causa indicaziuns divergentas areguard la v
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloccà per tia versiun dal driver da grafica. Emprova dad actualisar tes driver a la versiun { $driverVersion } u pli nov.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parameters da ClearType
-
 compositing = Compositing
 hardware-h264 = Decodaziun H264 cun hardware
 main-thread-no-omtc = thread principal, nagin OMTC
@@ -242,7 +234,6 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Chattà
 missing = Betg chattà
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripziun
@@ -266,23 +257,18 @@ webgl2-version = Driver WebGL 2 - Versiun
 webgl2-driver-extensions = Driver WebGL 2 - Extensiuns
 webgl2-extensions = WebGL 2 - Extensiuns
 blocklisted-bug = Sin la glista naira pervia da problems enconuschents
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Sin la glista naira; numer da sbagl { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = Decodader da video D3D11
 d3d9video-crash-buard = Decodader da video D3D9
 d3d9video-crash-guard = Decodader da video D3D9
 glcontext-crash-guard = OpenGL
-
 wmfvpxvideo-crash-guard = WMF VPX Video Decoder
-
 reset-on-next-restart = Redefinir cun reaviar la proxima giada
 gpu-process-kill-button = Terminar il process da la GPU
 gpu-device-reset = Reinizialisaziun da l'apparat
@@ -292,10 +278,8 @@ content-uses-tiling = Utilisescha plattinas (cuntegn)
 off-main-thread-paint-enabled = Activà painting ordaifer il thread principal
 off-main-thread-paint-worker-count = Dumber da workers da painting ordaifer il thread principal
 target-frame-rate = Finamira per frequenza da maletgs
-
 min-lib-versions = Versiun minimala spetgada
 loaded-lib-versions = Versiun utilisada
-
 has-seccomp-bpf = Seccomp-BPF (Filtrar cloms dal sistem)
 has-seccomp-tsync = Sincronisaziun Seccomp Thread
 has-user-namespaces = Spazis da num da l'utilisader
@@ -308,17 +292,14 @@ sandbox-proc-type-content = cuntegn
 sandbox-proc-type-file = cuntegn da la datoteca
 sandbox-proc-type-media-plugin = plugin per medias
 sandbox-proc-type-data-decoder = decoder da datas
-
 startup-cache-title = Cache da l'aviar
 startup-cache-disk-cache-path = Ordinatur dal cache sin il disc dir
 startup-cache-ignore-disk-cache = Ignorar il cache sin il disc dir
 startup-cache-found-disk-cache-on-init = Chattà il cache sin il disc durant l'inizialisaziun
-
 launcher-process-status-0 = Activà
 launcher-process-status-1 = Deactivà pervia dad errurs
 launcher-process-status-2 = Deactivà cun forza
 launcher-process-status-unknown = Status nunenconuschent
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -331,7 +312,6 @@ multi-process-status-6 = Deactivà dad ina metoda incumpatibla d'endatar text
 multi-process-status-7 = Deactivà da supplements
 multi-process-status-8 = Deactivà cun forza
 multi-process-status-unknown = Status nunenconuschent
-
 async-pan-zoom = Zoom asincron
 apz-none = nagin
 wheel-enabled = input da la rodina activà
