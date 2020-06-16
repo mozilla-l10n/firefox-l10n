@@ -24,6 +24,7 @@ policy-Cookies = Sireg neɣ gdel asbadu n yinagan n tuqqna i yisebtar.
 policy-DisabledCiphers = Sens allalen n uwgelhen.
 policy-DefaultDownloadDirectory = Ad yesbadu akaram n usider s wudem amezwer.
 policy-DisableAppUpdate = Sewḥel { -brand-short-name } seg uleqqem.
+policy-DisableDefaultClientAgent = Ad isewḥel imeggi n umsaɣ s wudem amezwer akken ur itegg ara kra. Ad yeddu kan deg Windows; inagrawen-nniḍen ur sɛin ara imeggi-a.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer yifecka n tneflit.
 policy-DisableFeedbackCommands = Ssens tiludna akken ad aɣ-d-tazneḍ tikti-ik seg wumuɣ n tallelt ( Azen-d tikti temleḍ-aɣ-d ismal ur nemɛin ara).
 policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n yisefka.

@@ -679,4 +679,10 @@ chat-header-label =
 ## Preferences UI Search Results
 
 search-results-header = Igmaḍ n unadi
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Nesḥassef! Ulac igmaḍ deg textiṛiyin i "<span data-l10n-name="query"></span>"
+       *[other] Nesḥassef! Ulac igmaḍ deg yismenyifen i "<span data-l10n-name="query"></span>"
+    }
 search-results-help-link = Tesriḍ tallelt? Rzu γer <a data-l10n-name="url">{ -brand-short-name } Tallelt</a>
