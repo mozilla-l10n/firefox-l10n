@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Autoritad da certificaziun
 certificate-viewer-cipher-suite = Cipher Suite
 certificate-viewer-common-name = Num frequent
 certificate-viewer-email-address = Adressa dad e-mail:
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Certificat per { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Pajais da registraziun
 certificate-viewer-country = Pajais
@@ -29,6 +32,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Gruppa da barat da clavs
 certificate-viewer-key-id = ID da clav
 certificate-viewer-key-size = Dimensiun da la clav
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Sedia
 certificate-viewer-locality = Localitad
 certificate-viewer-location = Posiziun
 certificate-viewer-logid = ID dal log
@@ -76,7 +81,6 @@ certificate-viewer-authority-info-aia = Infurmaziuns davart l'autoritad (AIA)
 certificate-viewer-certificate-policies = Reglas dal certificat
 certificate-viewer-embedded-scts = SCTs integrads
 certificate-viewer-crl-endpoints = CRL Endpoints
-
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Telechargiar
@@ -96,7 +100,9 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
-
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Questa extensiun è vegnida marcada sco critica. Quai vul dir che clients ston refusar il certificat sch'els n'al chapeschan betg.
 certificate-viewer-export = Exportar
     .download = { $fileName }.pem
 

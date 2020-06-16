@@ -119,6 +119,10 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Empruvar il modus segirà
 restart-in-safe-mode-label = Reaviar cun supplements deactivads…
+clear-startup-cache-title = Emprova da svidar il cache da l'aviar
+clear-startup-cache-label = Svidar il cache da l'aviar…
+startup-cache-dialog-title = Svidar il cache da l'aviar
+startup-cache-dialog-body = Reaviescha { -brand-short-name } per svidar il cache da l'aviar. Quai na mida betg tes parameters e n'allontanescha naginas extensiuns che ti has agiuntà a { -brand-short-name }.
 restart-button-label = Reaviar
 
 ## Media titles
@@ -127,6 +131,7 @@ audio-backend = Backend dad audio
 max-audio-channels = Maximum da chanals
 channel-layout = Modus da chanals preferì
 sample-rate = Frequenza da scannar preferida
+roundtrip-latency = Latenza da l'ir e turnar (deviaziun da standard)
 media-title = Multimedia
 media-output-devices-title = Apparats da sortida
 media-input-devices-title = Apparats d'entrada
@@ -296,6 +301,7 @@ startup-cache-title = Cache da l'aviar
 startup-cache-disk-cache-path = Ordinatur dal cache sin il disc dir
 startup-cache-ignore-disk-cache = Ignorar il cache sin il disc dir
 startup-cache-found-disk-cache-on-init = Chattà il cache sin il disc durant l'inizialisaziun
+startup-cache-wrote-to-disk-cache = Scrit en il cache dal disc
 launcher-process-status-0 = Activà
 launcher-process-status-1 = Deactivà pervia dad errurs
 launcher-process-status-2 = Deactivà cun forza
@@ -319,6 +325,7 @@ touch-enabled = input tactil activà
 drag-enabled = trav da defilar per tutgar activada
 keyboard-enabled = tastatura activada
 autoscroll-enabled = scrollar automatic activà
+zooming-enabled = activà il pinch-zoom fluid
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
