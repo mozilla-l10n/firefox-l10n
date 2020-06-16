@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY wizard.title             "Δημιουργία νέου ημερολογίου" >
-<!ENTITY wizard.label             "Δημιουργήστε νέο ημερολόγιο" >
+<!ENTITY wizard.label             "Δημιουργία νέου ημερολογίου" >
 <!ENTITY wizard.description       "Τοποθεσία του ημερολογίου σας" >
 
 <!ENTITY initialpage.description    "Το ημερολόγιό σας μπορεί να αποθηκευτεί στον υπολογιστή σας ή σε κάποιο διακομιστή ώστε να έχετε πρόσβαση σε αυτό από μακριά ή να το μοιράζεστε με τους φίλους σας και τους συνεργάτες σας." >
@@ -15,7 +15,7 @@
 <!ENTITY locationpage.username.label      "Όνομα χρήστη:" >
 <!ENTITY locationpage.password.label      "Συνθηματικό:" >
 
-<!ENTITY custompage.shortdescription  "Προσαρμογή του ημερολογίου σας" >
+<!ENTITY custompage.shortdescription  "Προσαρμόστε το ημερολόγιό σας" >
 <!ENTITY custompage.longdescription   "Μπορείτε να δώσετε στο ημερολόγιο σας ένα ψευδώνυμο και να χρωματίσετε τα γεγονότα από αυτό το ημερολόγιο." >
 
 <!ENTITY finishpage.shortdescription  "Το ημερολόγιο δημιουργήθηκε" >

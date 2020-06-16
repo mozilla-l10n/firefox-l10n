@@ -173,7 +173,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "γ">
 <!ENTITY calendar.context.pasteevent.label            "Επικόλληση">
 <!ENTITY calendar.context.pasteevent.accesskey        "λ">
-<!ENTITY calendar.context.button.label                "Παράθυρο ημέρας">
+<!ENTITY calendar.context.button.label                "Προβολή ημέρας">
 <!ENTITY calendar.context.button.accesskey            "θ">
 
 <!ENTITY calendar.context.attendance.menu.label                 "Συμμετοχή">
