@@ -4,7 +4,6 @@
 
 page-title = Thông tin gỡ rối vấn đề
 page-subtitle = Trang này chứa thông tin kĩ thuật có thể có ích khi bạn đang cố giải quyết một vấn đề. Nếu bạn đang tìm câu trả lời cho các câu hỏi thông thường về { -brand-short-name }, hãy xem <a data-l10n-name="support-link">trang web hỗ trợ</a> của chúng tôi.
-
 crashes-title = Trình báo cáo lỗi
 crashes-id = ID báo cáo
 crashes-send-date = Đã gửi
@@ -117,6 +116,11 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Tham số
 safe-mode-title = Thử dùng chế độ an toàn
 restart-in-safe-mode-label = Khởi động lại và vô hiệu hóa các tiện ích…
+clear-startup-cache-title = Hãy thử xóa bộ nhớ đệm khởi động
+clear-startup-cache-label = Xóa bộ nhớ đệm khởi động…
+startup-cache-dialog-title = Xóa bộ nhớ đệm khởi động
+startup-cache-dialog-body = Khởi động lại { -brand-short-name } để xóa bộ nhớ đệm khởi động. Điều này sẽ không thay đổi cài đặt của bạn hoặc xóa các tiện ích mở rộng mà bạn đã thêm vào { -brand-short-name }.
+restart-button-label = Khởi động lại
 
 ## Media titles
 
@@ -124,7 +128,6 @@ audio-backend = Âm thanh đầu cuối
 max-audio-channels = Kênh tối đa
 channel-layout = Bố cục kênh ưu tiên
 sample-rate = Tỷ lệ mẫu ưu tiên
-
 media-title = Đa phương tiện
 media-output-devices-title = Các thiết bị đầu ra
 media-input-devices-title = Thiết bị đầu vào
@@ -171,23 +174,18 @@ remote-debugging-url = URL
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = Báo cáo lỗi trong { $days } ngày gần đây
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } phút trước
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours } giờ trước
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days } ngày trước
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = Tất cả các báo cáo lỗi (bao gồm cả { $reports } báo cáo chưa gửi trong khoảng thời gian đã cho)
-
 raw-data-copied = Dữ liệu thô đã được sao chép vào bảng tạm
 text-copied = Văn bản đã được sao chép vào bảng tạm
 
@@ -200,11 +198,9 @@ blocked-mismatched-version = Bị chặn đối với phiên bản trình điề
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bị chặn đối với phiên bản trình điều khiển đồ họa của bạn. Hãy thử cập nhật trình điều khiển đồ họa lên phiên bản { $driverVersion } hoặc mới hơn.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Tham số ClearType
-
 compositing = Cách tổng hợp
 hardware-h264 = Giải mã phần cứng H264
 main-thread-no-omtc = chủ đề chính, không có OMTC
@@ -219,7 +215,6 @@ virtual-monitor-disp = Màn hình ảo
 
 found = Đã tìm thấy
 missing = Còn thiếu
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Mô tả
@@ -243,23 +238,18 @@ webgl2-version = Phiên bản trình điều khiển WebGL 2
 webgl2-driver-extensions = Tiện ích mở rộng trình điều khiển WebGL 2
 webgl2-extensions = Tiện ích mở rộng WebGL 2
 blocklisted-bug = Danh sách chặn do các vấn đề đã biết
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = lỗi { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Danh sách chặn; mã lỗi { $failureCode }
-
 d3d11layers-crash-guard = Bộ soạn nhạc D3D11
 d3d11video-crash-guard = Bộ giải mã video D3D11
 d3d9video-crash-buard = Bộ giải mã video D3D9
 d3d9video-crash-guard = Bộ giải mã video D3D9
 glcontext-crash-guard = OpenGL
-
 wmfvpxvideo-crash-guard = Bộ giải mã video WMF VPX
-
 reset-on-next-restart = Đặt lại vào lần khởi động lại tiếp theo
 gpu-process-kill-button = Buộc dừng quá trình GPU
 gpu-device-reset = Đặt lại thiết bị
@@ -269,10 +259,8 @@ content-uses-tiling = Sử dụng ốp lát (Nội dung)
 off-main-thread-paint-enabled = Off Main Thread Painting được kích hoạt
 off-main-thread-paint-worker-count = Bộ đếm Off Main Thread Painting Worker
 target-frame-rate = Tỷ lệ khung mục tiêu
-
 min-lib-versions = Phiên bản tối thiểu dự kiến
 loaded-lib-versions = Phiên bản đang dùng
-
 has-seccomp-bpf = Seccomp-BPF (Lọc cuộc gọi hệ thống)
 has-seccomp-tsync = Đồng bộ hóa chủ đề Seccomp
 has-user-namespaces = User Namespaces
@@ -285,18 +273,15 @@ sandbox-proc-type-content = nội dung
 sandbox-proc-type-file = nội dung tập tin
 sandbox-proc-type-media-plugin = phần bổ trợ phương tiện
 sandbox-proc-type-data-decoder = bộ giải mã dữ liệu
-
 startup-cache-title = Bộ nhớ đệm khởi động
 startup-cache-disk-cache-path = Đường dẫn bộ nhớ đệm trên đĩa
 startup-cache-ignore-disk-cache = Bỏ qua bộ nhớ đệm trên đĩa
 startup-cache-found-disk-cache-on-init = Tìm thấy bộ nhớ đệm trên đĩa khi khởi tạo
 startup-cache-wrote-to-disk-cache = Ghi vào bộ nhớ đệm trên đĩa
-
 launcher-process-status-0 = Đã bật
 launcher-process-status-1 = Vô hiệu hóa do thất bại
 launcher-process-status-2 = Bắt buộc vô hiệu hóa
 launcher-process-status-unknown = Tình trạng không xác định
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -309,7 +294,6 @@ multi-process-status-6 = Vô hiệu hóa bởi nhập văn bản không được
 multi-process-status-7 = Vô hiệu hóa bởi các tiện ích
 multi-process-status-8 = Bắt buộc vô hiệu hóa
 multi-process-status-unknown = Tình trạng không xác định
-
 async-pan-zoom = Pan/Zoom không đồng bộ
 apz-none = không có
 wheel-enabled = con lăn đã bật
@@ -317,7 +301,6 @@ touch-enabled = cảm ứng đã bật
 drag-enabled = thanh cuộn kéo đã bật
 keyboard-enabled = bàn phím đã bật
 autoscroll-enabled = tự động cuộn đã bật
-
 zooming-enabled = pinch-zoom mượt được kích hoạt
 
 ## Variables

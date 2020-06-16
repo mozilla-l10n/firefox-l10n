@@ -57,11 +57,11 @@ rcwn-avg-long = Trung bình dài
 rcwn-std-dev-long = Độ lệch chuẩn dài
 rcwn-cache-slow = Bộ đếm bộ nhớ đệm chậm
 rcwn-cache-not-slow = Bộ đếm bộ nhớ đệm không chậm
-
 about-networking-title = Về thông tin mạng
 about-networking-http = HTTP
 about-networking-sockets = Socket
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Xóa bộ nhớ đệm DNS
 about-networking-dns-suffix = Hậu tố DNS
 about-networking-websockets = WebSocket
 about-networking-refresh = Cập nhật
