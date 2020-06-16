@@ -63,6 +63,7 @@ policy-ExtensionSettings = Administra todos los aspectos de la instalación de e
 policy-ExtensionUpdate = Habilitar o deshabilitar actualizaciones automáticas de extensiones.
 policy-FirefoxHome = Configura Firefox Home.
 policy-FlashPlugin = Permitir o denegar el uso del complemento Flash.
+policy-Handlers = Configurar gestores de aplicación predeterminados.
 policy-HardwareAcceleration = Si es "false", desactivar aceleración de hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y opcionalmente bloquear la página de inicio.
@@ -77,6 +78,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Volver al comportamien
 ##
 
 policy-LocalFileLinks = Permitir a sitios web específicos para enlazar a archivos locales.
+policy-MasterPassword = Requerir o  bloquear el uso de una contraseña maestra.
 policy-NetworkPrediction = Habilitar o deshabilitar predicción de red (búsqueda previa de DNS).
 policy-NewTabPage = Habilitar o deshabilitar la página Nueva pestaña.
 policy-NoDefaultBookmarks = Deshabilitar la creación de los marcadores predeterminados incluidos con { -brand-short-name }, y los marcadores inteligentes (etiquetas más visitadas y recientes). Nota: esta política solo es efectiva si se usa antes de la primera ejecución del perfil.
