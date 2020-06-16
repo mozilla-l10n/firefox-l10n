@@ -99,7 +99,7 @@ week-6-label =
 previous-weeks-label =
     .value = Προηγούμενες εβδομάδες προς εμφάνιση:
     .accesskey = γ
-todaypane-legend = Παράθυρο ημέρας
+todaypane-legend = Προβολή ημέρας
 # Note: "Upcoming" is the name of a section and the translation must match the
 # translation of that section name (calendar.upcoming.button.label). Also,
 # it should be upper case (as a proper name) if the target language permits.
