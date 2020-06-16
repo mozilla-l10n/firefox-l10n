@@ -122,13 +122,42 @@ restart-in-safe-mode-label = Resztartuj z wyłōnczōnymi rozszyrzyniami…
 clear-startup-cache-title = Sprōbuj wypucować podrynczno pamiyńć sztartowanio
 clear-startup-cache-label = Wypucuj podrynczno pamiyńć sztartowanio…
 startup-cache-dialog-title = Wypucuj podrynczno pamiyńć sztartowanio
+startup-cache-dialog-body = Resztartnij aplikacyjo { -brand-short-name }, coby wypucować podrynczno pamiyńć sztartowanio. Zniy zmiyni to twojich sztalōnkōw ani niy skasuje rozszyrzyń, co je mosz przidane do aplikacyje { -brand-short-name }.
 restart-button-label = Resztartnij
 
 ## Media titles
 
+audio-backend = Audio Backend
+max-audio-channels = Maksymalno wielość kanałōw
+channel-layout = Preferowane rozłożynie kanałōw
+sample-rate = Preferowano frekwencyjo prōbkowanio
+roundtrip-latency = Zniyskorzynie tam a nazod (standardowe ôdchylynie)
+media-title = Mydia
+media-output-devices-title = Wychodne masziny
+media-input-devices-title = Wchodne masziny
+media-device-name = Miano
+media-device-group = Grupa
+media-device-vendor = Wystowca
+media-device-state = Sztatus
+media-device-preferred = Preferowane
+media-device-format = Format
+media-device-channels = Kanały
+media-device-latency = Zniyskorzynie
+media-capabilities-title = Możności mydiōw
+# List all the entries of the database.
+media-capabilities-enumerate = Wystow baza danych
 
 ##
 
+intl-title = Internacjonalizacyjo i lokalizacyjo
+intl-app-title = Sztalōnki aplikacyje
+intl-locales-requested = Proszōne godki
+intl-locales-available = Dostympne godki
+intl-locales-supported = Godki aplikacyje
+intl-locales-default = Bazowo godka
+intl-os-title = Ôperacyjny systym
+intl-os-prefs-system-locales = Godki systymu
+intl-regional-prefs = Regiōnalne preferyncyje
 
 ## Remote Debugging
 ##
@@ -139,9 +168,28 @@ restart-button-label = Resztartnij
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Zdalne debugowanie (protokōł Chromium)
+remote-debugging-accepting-connections = Przizwolo na połōnczynia
+remote-debugging-url = URL
 
 ##
 
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Raporty z awaryje z ôstatnigo { $days } dnia
+        [few] Raporty z awaryje z ôstatnich { $days } dni
+       *[many] Raporty z awaryje z ôstatnich { $days } dni
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } minuta tymu
+        [few] { $minutes } minuty tymu
+       *[many] { $minutes } minut tymu
+    }
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
