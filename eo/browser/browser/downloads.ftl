@@ -36,6 +36,12 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Montri en dosierserĉilo
     .accesskey = M
+downloads-cmd-use-system-default =
+    .label = Malfermi per norma sistema programo
+    .accesskey = M
+downloads-cmd-always-use-system-default =
+    .label = Ĉiam malfermi per norma sistema programo
+    .accesskey = n
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->

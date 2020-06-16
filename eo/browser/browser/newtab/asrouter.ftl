@@ -235,6 +235,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Emblemo de bildo en bildo.
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Superrigardo de protektoj
+cfr-whatsnew-protections-body = La panelo de protektoj inkluzivas resumajn raportojn pri datumfuĝoj kaj administro de pasvortoj. Vi nun povas sevki la kvanton de solvitaj datumfuĝoj kaj vidi ĉu iu ajn el viaj konservitaj pasvortoj povus esti elmetita de datumfuĝo.
 cfr-whatsnew-protections-cta-link = Vidi panelon de protektoj
 cfr-whatsnew-protections-icon-alt = Emblemo de ŝildo
 
