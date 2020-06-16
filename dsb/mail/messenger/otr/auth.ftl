@@ -14,6 +14,7 @@ auth-your-fp-value = Palcowy wótśišć za was, { $own_name }:
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Palcowy wótśišć za { $their_name }:
+auth-help = Pśeglědowanje kontaktneje identity pomaga zawěsćiś, až rozgrono jo napšawdu priwatne, což tśeśim póśěžujo, rozgrono wótsłuchowaś abo manipulěrowaś.
 auth-helpTitle = Pśespytowańska pomoc
 auth-questionReceived = To jo pšašanje, kótarež jo waš kontakt stajił:
 auth-yes =
