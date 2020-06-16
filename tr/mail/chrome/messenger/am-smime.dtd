@@ -74,4 +74,4 @@
 
 <!ENTITY openpgpKey.message "Şifreleme ve dijital imzalama için kişisel anahtar:">
 <!ENTITY openpgpKey.button "Kişisel anahtarı ayarla…">
-<!ENTITY openpgpKey.accesskey "o">
+<!ENTITY openpgpKey.accesskey "a">
