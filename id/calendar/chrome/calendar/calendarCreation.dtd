@@ -42,7 +42,10 @@
 <!ENTITY location.label "Lokasi:">
 <!ENTITY location.placeholder "URL atau nama host dari server kalender">
 
+<!ENTITY network.nocredentials.label "Lokasi ini tidak memerlukan pengenal">
 <!ENTITY network.loading.description "Mohon tunggu sembari menemukan kalender.">
 <!ENTITY network.notfound.description "Kalender tidak ditemukan di lokasi ini. Mohon periksa pengaturan Anda.">
+<!ENTITY network.authfail.description "Pengenal yang telah Anda masukkan tidak diterima. Silakan periksa pengaturan Anda.">
 
 <!ENTITY network.subscribe.single.description "Pilih kalender yang ingin Anda langgani.">
+<!ENTITY network.subscribe.multiple.description "Berbagai tipe kalender tersedia untuk lokasi ini. Silakan memilih tipe kalender, lalu tandai kalender yang ingin Anda ikuti.">
