@@ -73,11 +73,26 @@
 
 <!ENTITY normalSize.label             "Նորմալ չափ">
 <!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
+<!ENTITY editMenu.label               "Խմբագրել">
+<!ENTITY editMenu.accesskey           "E">
 
+<!ENTITY run.label                    "Գործարկում">
+<!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "r">
 
+<!ENTITY inspect.label                "Հսկել">
+<!ENTITY inspect.accesskey            "R">
+<!ENTITY inspect.key                  "i">
 
+<!ENTITY display.label                "Ցուցադրել">
+<!ENTITY display.accesskey            "D">
+<!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "Տպել">
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "Տ">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -85,8 +100,12 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
+<!ENTITY environmentMenu.label        "Միջավայր">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
+<!ENTITY contentContext.label         "Բովանդակութիւն">
+<!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -95,16 +114,24 @@
   -  was called "Chrome".
   -->
 <!ENTITY browserContext.label         "Դիտարկիչ">
+<!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
+<!ENTITY helpMenu.label               "Աւգնութիւն">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Աւգնութիւն">
+<!ENTITY helpMenuWin.accesskey        "H">
 
+<!ENTITY documentationLink.label      "Խմբագրիչի աւգնութիւնը MDN-ում">
+<!ENTITY documentationLink.accesskey  "D">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+<!ENTITY resetContext2.label          "Վերակայել փոփոխականները">
 
 
 
