@@ -17,6 +17,12 @@ buddycontextmenu-label = Rnu adsil umḍin OTR
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Adiwenni awgelhan d { $name } yekfa.
 state-not_private = Adiwenni amiran mačči d uslig.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Adiwenni-a amiran d awgelhen maca mačči d uslig, acku timagit n { $name } mazal ur yettusenqed ara.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Timagit n { $name } tettwasenqed. Adiwenni amiran d awgelhen, d uslig.
 state-not_private-label = Araɣelsan
 state-unverified-label = Ur yettwasenqed ara
 state-private-label = Uslig
