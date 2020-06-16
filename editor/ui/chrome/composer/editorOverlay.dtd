@@ -211,6 +211,7 @@
 <!ENTITY layer.tooltip "Shtresë">
 <!ENTITY decreaseZIndex.label "Shpjere Prapa">
 <!ENTITY layerSendToBack.tooltip "Shpjereni Prapa">
+<!ENTITY increaseZIndex.label "Bjere Përpara">
 <!ENTITY layerBringToFront.tooltip "Bjereni Përpara">
 
 <!ENTITY increaseIndent.label "Rrit Hapësirë Kryeradhe">
@@ -308,28 +309,45 @@
 <!ENTITY linkToolbarCmd.tooltip "Futni lidhje të re ose përpunoni vetitë e lidhjes së përzgjedhur">
 <!ENTITY anchorToolbarCmd.label "Spirancë">
 <!ENTITY anchorToolbarCmd.tooltip "Futni spirancë të re të emërtuar ose përpunoni vetitë e spirancës së përzgjedhur">
+<!ENTITY colorButtons.title "Ngjyra">
 <!ENTITY TextColorButton.tooltip "Zgjidhni ngjyrë për tekstin">
 <!ENTITY BackgroundColorButton.tooltip "Zgjidhni ngjyrë për sfondin">
 <!ENTITY throbber.tooltip "Shko tek kreu i &vendorShortName;-it">
 <!ENTITY throbber.tooltip2 "Shko te kreu i &brandShortName;-it">
+<!ENTITY HighlightColorButton.label "Theksues">
 <!ENTITY HighlightColorButton.tooltip "Zgjidhni ngjyrë theksimi teksti">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Madhësi Shkronjash">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Caktoni madhësi shkronjash">
+<!ENTITY smaller.label "Më të vogla">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Madhësi më e vogël shkronjash">
+<!ENTITY larger.label "Më të mëdha">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Madhësi më e madhe shkronjash">
+<!ENTITY bold.label "Të trasha">
 <!ENTITY boldToolbarCmd.tooltip "të Trasha">
+<!ENTITY italic.label "Të pjerrëta">
 <!ENTITY italicToolbarCmd.tooltip "Të pjerrëta">
+<!ENTITY underline.label "Të nënvijëzuara">
 <!ENTITY underlineToolbarCmd.tooltip "Të nënvijëzuara">
 <!ENTITY bulletListToolbarCmd.tooltip "Vendosni ose hiqni listë me shenjë">
+<!ENTITY numbers.label "Numra">
 <!ENTITY numberListToolbarCmd.tooltip "Vendosni ose hiqni listë me numra">
+<!ENTITY outdent.label "Së jashtmi">
 <!ENTITY outdentToolbarCmd.tooltip "Tekst jashtazi (zhvendose majtas)">
+<!ENTITY indent.label "Së brendshmi">
 <!ENTITY indentToolbarCmd.tooltip "Tekst brendazi (zhvendose djathtas)">
+<!ENTITY AlignPopupButton.label "Drejtim">
 <!ENTITY AlignPopupButton.tooltip "Zgjidhni drejtim teksti">
+<!ENTITY InsertPopupButton.label "Fute">
 <!ENTITY InsertPopupButton.tooltip "Futni një Lidhje, Spirancë, Figurë, Vijë Horizontale, ose Tabelë">
+<!ENTITY alignLeftButton.label "Vendose Majtas">
 <!ENTITY alignLeftButton.tooltip "Vendoseni tekstin përgjatë mënjanash majtas">
+<!ENTITY alignCenterButton.label "Vendose në Qendër">
 <!ENTITY alignCenterButton.tooltip "Vendoseni tekstin në qendër">
+<!ENTITY alignRightButton.label "Vendose Djathtas">
 <!ENTITY alignRightButton.tooltip "Vendoseni tekstin përgjatë mënjanash djathtas">
+<!ENTITY alignJustifyButton.label "Drejtim i Përligjur">
 <!ENTITY alignJustifyButton.tooltip "Vendoseni tekstin përgjatë mënjanash majtas dhe djathtas">
 
 <!-- Structure Toolbar Context Menu items -->
