@@ -148,11 +148,17 @@
 <!ENTITY wifi_auth_header "Սպասառուի նոյնացում">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Վերջնակէտը, որին միանում էք, լրացուցիչ տեղեկութեան կարիք ունի միացումը վաւերացնելու  համար։ Խնդրում ենք տեսածրել QR ծածկագիրը, որն ուղարկուել է ձեր միւս սարքին։:">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "QR ծածկագրի հարցում չկայ:">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "ՈՒնէ՞ք QR ծածկագրի հարցում">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Եթե QR ծածկագիրը տեսածրելու փոխարէն ձեր սարքը պահանջում  հետքանշիչ, ապա ձեր միւս սարքում գրէք հետեւեալ արժէքը">
+<!ENTITY wifi_auth_qr_size_note "Եթե QR ծածկագիրը փոքր է կապակցումը յաջողութեամբ հաստատելու համար,  խոշորացրէք կամ մեծացրէք պատուհանը:">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Հրամանի մատեանների նախափաթեթաւորում">
