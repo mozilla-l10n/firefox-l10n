@@ -57,11 +57,11 @@ rcwn-avg-long = Lang gemiddelde
 rcwn-std-dev-long = Lange standertdeviaasje
 rcwn-cache-slow = Oantal trage buffers
 rcwn-cache-not-slow = Oantal net-trage buffers
-
 about-networking-title = Oer netwurken
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = DNS-buffer wiskje
 about-networking-dns-suffix = DNS-efterfoegsel
 about-networking-websockets = WebSockets
 about-networking-refresh = Opnij lade
