@@ -7,6 +7,7 @@ account-encryption =
 account-otr-label = Kayıt Dışı Mesajlaşma (OTR)
 account-otr-description = { -brand-short-name }, bire bir görüşmelerde uçtan uca şifrelemeyi destekler. Bu sayede üçüncü şahıslar görüşmenizi dinleyemez. Uçtan uca şifrelemeyi kullanabilmek için görüştüğünüz kişinin de OTR'yi destekleyen bir yazılım kullanması gerekir.
 otr-encryption-title = Doğrulanmış Şifreleme
+otr-encryption-caption = OTR görüşmelerinde kimliğinizin doğrulanabilmesi için, OTR parmak izinizi farklı bir iletişim kanalı üzerinden paylaşın.
 otr-fingerprint-label = Parmak iziniz:
 view-fingerprint-button =
     .label = Kişilerin parmak izlerini yönet
