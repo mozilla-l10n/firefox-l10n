@@ -303,6 +303,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Gamitin ang { $plugin-name } (sa { -brand-short-name })
+applications-open-inapp =
+    .label = Buksan sa { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
