@@ -128,6 +128,7 @@ audio-backend = Sonsistemo
 max-audio-channels = Maksimuma nombro de kanaloj
 channel-layout = Preferata aranĝo de kanaloj
 sample-rate = Preferata specimena frekvenco
+roundtrip-latency = Tien-reena tempo (norma devio)
 media-title = Aŭdvidaĵo
 media-output-devices-title = Eligaj aparatoj
 media-input-devices-title = Enigaj aparatoj
