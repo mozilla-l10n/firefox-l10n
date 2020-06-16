@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Bilah Alat Kalender">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "Bilah Alat Tugas">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sinkronkan">
 <!ENTITY lightning.toolbar.delete.label "Hapus">
@@ -42,3 +44,5 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Tampilkan Menu &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "P">

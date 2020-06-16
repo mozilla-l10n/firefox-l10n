@@ -44,26 +44,32 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Email:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Lebih suka penjadwalan surel sisi klien">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Untuk saat ini, Anda hanya dapat mengaktifkan ini setelah mengatur kalender dalam dialog propertinya jika server kalender menangani penjadwalan.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Opsi ini hanya tersedia jika server kalender menangani penjadwalan. Mengaktifkannya akan memungkinkan untuk kembali ke penjadwalan berbasis surel standar alih-alih melepaskannya pada server.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Terima">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Terima undangan acara">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Terima semua">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Menerima undangan acara untuk semua kejadian terkait">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Tambah">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Tambahkan acara ke kalender">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Tolak">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Tolak undangan acara">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Tolak semua">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Menolak undangan acara untuk semua kejadian terkait">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Tolak">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Menolak proposal balasan">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Hapus">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Hapus dari kalender">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detail…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Tampilkan detail acara">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalender">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Lebih lanjut">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik untuk menampilkan lebih banyak pilihan">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Konfirmasi ulang">

@@ -9,6 +9,7 @@
 
 <!ENTITY pref.categories.new.title "Kategori Baru">
 <!ENTITY pref.categories.newButton.label "Baru…">
+<!ENTITY pref.categories.newButton.accesskey "N">
 <!ENTITY pref.categories.edit.title "Edit Kategori">
 <!ENTITY pref.categories.editButton.label "Ubah…">
 <!ENTITY pref.categories.editButton.accesskey "U">
