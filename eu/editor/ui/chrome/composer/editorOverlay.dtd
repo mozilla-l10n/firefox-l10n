@@ -329,16 +329,27 @@
 <!ENTITY boldToolbarCmd.tooltip "Lodia">
 <!ENTITY italic.label "Etzana">
 <!ENTITY italicToolbarCmd.tooltip "Etzana">
+<!ENTITY underline.label "Azpimarratua">
 <!ENTITY underlineToolbarCmd.tooltip "Azpimarratua">
+<!ENTITY bullets.label "Buletak">
 <!ENTITY bulletListToolbarCmd.tooltip "Bullet-dun lista aplikatu edo ezabatu">
+<!ENTITY numbers.label "Zenbakiak">
 <!ENTITY numberListToolbarCmd.tooltip "Zenbatutako lista aplikatu edo ezabatu">
+<!ENTITY outdent.label "Kendu koska">
 <!ENTITY outdentToolbarCmd.tooltip "Testua ezkerrera mugitu">
+<!ENTITY indent.label "koska jarri">
 <!ENTITY indentToolbarCmd.tooltip "Testua eskuinera mugitu">
+<!ENTITY AlignPopupButton.label "Lerrokatzea">
 <!ENTITY AlignPopupButton.tooltip "Testuaren lerrokatzea hautatu">
+<!ENTITY InsertPopupButton.label "Txertatu">
 <!ENTITY InsertPopupButton.tooltip "Lotura, aingura, irudia, lerro horizontala edo taula txertatu">
+<!ENTITY alignLeftButton.label "Lerrokatu ezkerrera">
 <!ENTITY alignLeftButton.tooltip "Testua ezkerreko ertzean zehar lerrokatu">
+<!ENTITY alignCenterButton.label "Lerrokatu erdira">
 <!ENTITY alignCenterButton.tooltip "Testua erdiratuta lerrokatu">
+<!ENTITY alignRightButton.label "Lerrokatu eskuinera">
 <!ENTITY alignRightButton.tooltip "Testua eskuineko ertzean zehar lerrokatu">
+<!ENTITY alignJustifyButton.label "Lerrokatu justifikatuta">
 <!ENTITY alignJustifyButton.tooltip "Lerrokatu testua ezker eta eskuineko marjinetan zehar">
 
 <!-- Structure Toolbar Context Menu items -->
