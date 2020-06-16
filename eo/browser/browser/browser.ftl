@@ -272,9 +272,17 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Neniam permesi
     .accesskey = N
+popup-silence-notifications-checkbox = Malaktivigi sciigojn de { -brand-short-name } dum divido
+popup-silence-notifications-checkbox-warning = { -brand-short-name } ne montros sciigojn dum vi dividas.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Vi dividas { -brand-short-name }. Aliaj personoj povas vidi kiam vi iras al alia langeto.
+sharing-warning-screen = Vi dividis vian tutan ekranon. Aliaj personoj povas vidi kiam vi iras al alia langeto.
+sharing-warning-proceed-to-tab =
+    .label = Daŭrigi al langeto
+sharing-warning-disable-for-session =
+    .label = Malaktivigi la protekton de divido por tiu ĉi seanco
 
 ## DevTools F12 popup
 

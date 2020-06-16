@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Konsileto: alpingli tiun ĉi langeton
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kial mi vidas tion ĉi?
-
 cfr-doorhanger-extension-cancel-button = Poste
     .accesskey = P
-
 cfr-doorhanger-extension-ok-button = Aldoni nun
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Alpingli tiun ĉi langeton
     .accesskey = p
-
 cfr-doorhanger-extension-manage-settings-button = Administri agordojn de rekomendoj
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Ne montri al mi tiun ĉi rekomendon
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Pli da informo
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendo
-
 cfr-doorhanger-extension-notification2 = Rekomendo
     .tooltiptext = Rekomendo pri etendaĵo
     .a11y-announcement = Havebla rekomendo pri etendaĵo
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendo
@@ -68,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } uzanto
        *[other] { $total } uzantoj
     }
-
 cfr-doorhanger-pintab-description = Facila aliro al viaj plej uzataj retejoj. Teni retejojn malfermitaj en langeto (eĉ kiam vi restartigas).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -76,10 +66,8 @@ cfr-doorhanger-pintab-description = Facila aliro al viaj plej uzataj retejoj. Te
 cfr-doorhanger-pintab-step1 = <b>Dekstre alklaku</b> por alpingli la langeton.
 cfr-doorhanger-pintab-step2 = Elektu <b>Alpingli langeton</b> el la menuo.
 cfr-doorhanger-pintab-step3 = Se la retejo aktualiĝos, vi vidos bluan punkton sur la alpinglita langeto.
-
 cfr-doorhanger-pintab-animation-pause = Paŭzigi
 cfr-doorhanger-pintab-animation-resume = Daŭrigi
-
 
 ## Firefox Accounts Message
 
@@ -101,26 +89,20 @@ cfr-protections-panel-link-text = Pli da informo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova trajto:
-
 cfr-whatsnew-button =
     .label = Novaĵoj
     .tooltiptext = Novaĵoj
-
 cfr-whatsnew-panel-header = Novaĵoj
-
 cfr-whatsnew-release-notes-link-text = Legi la notojn pri liverado
-
 cfr-whatsnew-fx70-title = { -brand-short-name } luktas pli forte por via privateco
 cfr-whatsnew-fx70-body =
     La lasta ĝisdatigo plibonigas la protekton kontraŭ spurado kaj faciligas la
     kreadon de sekuraj pasvortoj por ĉiu retejo.
-
 cfr-whatsnew-tracking-protect-title = Protektu vin kontraŭ spuriloj
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } blokas plurajn oftajn sociajn kaj interretejajn spurilojn,
     kiuj sekvas vian retumon.
 cfr-whatsnew-tracking-protect-link-text = Vidi vian raporton
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -131,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = ekde { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vidi raporton
-
 cfr-whatsnew-lockwise-backup-title = Sekurkopii viajn pasvortojn
 cfr-whatsnew-lockwise-backup-body = Nun kreu sekurajn pasvortojn, kiujn vi povas aliri ĉie, kie vi konektiĝas.
 cfr-whatsnew-lockwise-backup-link-text = Ŝalti sekurkopiojn
-
 cfr-whatsnew-lockwise-take-title = Kunportu viajn pasvortojn
 cfr-whatsnew-lockwise-take-body =
     La poŝaparata programo { -lockwise-brand-short-name } permesas al vi sekure aliri viajn
@@ -171,7 +151,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Blokitaj identigiloj de ciferecaj spuroj
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokas plurajn identigilojn de ciferecaj spuroj, kiuj sekrete kolektas informon pri via aparato kaj agoj por krei reklaman profilon pri vi.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Identigiloj de ciferecaj spuroj
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } povas bloki plurajn identigilojn de ciferecaj spuroj, kiuj sekrete kolektas informon pri via aparato kaj agoj por krei reklaman profilon pri vi.
@@ -252,3 +231,12 @@ cfr-whatsnew-passwords-icon-alt = Emblemo de sendefenda pasvorto
 cfr-whatsnew-pip-fullscreen-header = Iri el la eta al la granda ekrano
 cfr-whatsnew-pip-fullscreen-body = Kiam vi ŝprucigas filmeton en ŝvebantan fenestron, vi povas nun duoble alklaki tiun fenestro por vidi ĝin plenekrane.
 cfr-whatsnew-pip-fullscreen-icon-alt = Emblemo de bildo en bildo.
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = Superrigardo de protektoj
+cfr-whatsnew-protections-icon-alt = Emblemo de ŝildo
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Pli bona sperto kun PDF
