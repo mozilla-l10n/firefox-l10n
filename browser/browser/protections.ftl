@@ -182,6 +182,8 @@ info-exposed-passwords-resolved =
     }
 monitor-no-breaches-title = ¡Buenas noticias!
 monitor-no-breaches-description = No tienes filtraciones conocidas. Si esto cambia, te lo haremos saber.
+monitor-view-report-link = Ver reporte
+    .title = Resuelve las filtraciones en { -monitor-brand-short-name }
 monitor-partial-breaches-motivation-title-start = ¡Gran inicio!
 monitor-partial-breaches-motivation-title-middle = ¡Sigue así!
 monitor-partial-breaches-motivation-title-end = ¡Casi terminamos! Sigue así.
