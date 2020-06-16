@@ -21,6 +21,15 @@ state-not_private-label = Araɣelsan
 state-unverified-label = Ur yettwasenqed ara
 state-private-label = Uslig
 state-finished-label = Yekfa
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } isuter-d asenqed n tmagit-ik/im.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Tesneqdeḍ timagit n { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = Timagit n { $name } ur yettusenqed ara.
 verify-title = Senqed timagit n unermas-inek/inem
 error-title = Tuccḍa
 success-title = Awgelhen seg yixef ɣer wayeḍ
