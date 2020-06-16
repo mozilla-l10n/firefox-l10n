@@ -39,8 +39,12 @@ protection-report-webpage-title = Panelo de protektoj
 protection-report-page-content-title = Panelo de protektoj
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } povas malantaŭ la scenejo protekti vian privatecon dum vi retumas. Tio ĉi estas personecigita resumo de tiuj protektoj, kaj inkluzivas la ilojn por regi vian sekurecon en la reto.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = Malantaŭ la scenejo { -brand-short-name } protektas vian privatecon dum vi retumas. Tio ĉi estas personecigita resumo de tiuj protektoj, kaj inkluzivas la ilojn por regi vian sekurecon en la reto.
+protection-report-settings-link = Administri vian privatecajn kaj sekurecajn agordojn
 etp-card-title-always = Plibonigita protekto kontraŭ spurado: ĉiam ŝaltita
 etp-card-title-custom-not-blocking = Plibonigita protekto kontraŭ spurado: MALŜALTITA
+etp-card-content-description = { -brand-short-name } aŭtomate evitas ke entreprenoj sekrete sekvu vin tra la reto.
 protection-report-etp-card-content-custom-not-blocking = Ĉiuj protektoj estas nun malŝaltitaj. Elektu la spurilojn, kiujn vi volas bloki, per administrado de la agordoj pri protekto de { -brand-short-name }.
 protection-report-manage-protections = Administri agordojn
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
