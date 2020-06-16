@@ -32,5 +32,6 @@ auth-questionAndAnswer-label =
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
 auth-how = Amek i tebɣiḍ ad tesneqdeḍ timagit n unermas-inek/inem?
+auth-qaInstruction = Xemmem ɣer usteqsi iwumi tiririt ad tt-yissin kan unermas-ik/im d kečč/kemm. Sekcem asteqsi d tririt-i, syen ṛǧu anermas-ik/im ad isekcem tiririt. Ma yella tiririyin ur mṣadant ara, yezmer lḥal abadu n teywalt i tseqdaceḍ ha-t-an yettuεass.
 auth-question = Sekcem asteqsi:
 auth-secret = Sekcem tabaḍnit:
