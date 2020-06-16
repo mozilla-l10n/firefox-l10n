@@ -131,6 +131,7 @@ audio-backend = Zvočno zaledje
 max-audio-channels = Največje število kanalov
 channel-layout = Prednostna razporeditev kanalov
 sample-rate = Prednostna hitrost vzorčenja
+roundtrip-latency = Zakasnitev povratnega potovanja (standardni odklon)
 media-title = Predstavnost
 media-output-devices-title = Izhodne naprave
 media-input-devices-title = Vhodne naprave
