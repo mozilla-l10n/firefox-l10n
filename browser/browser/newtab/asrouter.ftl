@@ -235,8 +235,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Emblemo de bildo en bildo.
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Superrigardo de protektoj
+cfr-whatsnew-protections-cta-link = Vidi panelon de protektoj
 cfr-whatsnew-protections-icon-alt = Emblemo de ŝildo
 
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Pli bona sperto kun PDF
+cfr-whatsnew-better-pdf-body = Dokumentoj PDF malfermiĝas nun rekte en { -brand-short-name }, kio helpas teni viajn aferojn ĉemane.
