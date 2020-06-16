@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "z">
 <!ENTITY newAddressBookCmd.label                        "Helbide-liburua…">
 <!ENTITY newAddressBookCmd.accesskey                    "l">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV helbide-liburua…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP direktorioa…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Mezua">
