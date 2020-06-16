@@ -108,6 +108,10 @@ browser-data-history-label =
             [firefox] Zgodovino brskanja in zaznamke
            *[other] Zgodovino brskanja
         }
+browser-data-formdata-checkbox =
+    .label = Shranjene obrazce
+browser-data-formdata-label =
+    .value = Shranjene obrazce
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -130,6 +134,10 @@ browser-data-bookmarks-label =
             [edge] Priljubljene
            *[other] Zaznamke
         }
+browser-data-otherdata-checkbox =
+    .label = Druge podatke
+browser-data-otherdata-label =
+    .label = Druge podatke
 browser-data-session-checkbox =
     .label = Okna in zavihki
 browser-data-session-label =
