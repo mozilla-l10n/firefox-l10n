@@ -57,8 +57,8 @@ undo-close-tab =
     .label = Urungkan Menutup Tab
     .accesskey = g
 tab-context-close-multiple-tabs =
-    .label = Tutup Semua Tab
-    .accesskey = M
+    .label = Tutup Banyak Tab
+    .accesskey = T
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
