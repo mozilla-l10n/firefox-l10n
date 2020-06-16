@@ -8,6 +8,9 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
+# This string is used so that the window has a title in tools that enumerate/look for window
+# titles. It is not normally visible anywhere.
+webrtc-indicator-title = { -brand-short-name } - Indicador de compartición
 webrtc-sharing-window = Estás compartiendo otra ventana de aplicación.
 webrtc-sharing-browser-window = Estás compartiendo { -brand-short-name }.
 webrtc-sharing-screen = Estás compartiendo toda tu pantalla.
