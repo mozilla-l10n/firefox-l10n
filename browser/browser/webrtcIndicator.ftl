@@ -8,4 +8,16 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
+# This string is used so that the window has a title in tools that enumerate/look for window
+# titles. It is not normally visible anywhere.
+webrtc-indicator-title = { -brand-short-name } - Indikator Berbagi
+webrtc-sharing-window = Anda membagikan jendela aplikasi lain.
+webrtc-sharing-browser-window = Anda membagikan { -brand-short-name }.
+webrtc-sharing-screen = Anda membagikan seluruh layar Anda.
 webrtc-stop-sharing-button = Berhenti Berbagi
+webrtc-microphone-button =
+    .title = Mikrofon Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
+webrtc-camera-button =
+    .title = Kamera Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
+webrtc-minimize =
+    .title = Minimalkan indikator

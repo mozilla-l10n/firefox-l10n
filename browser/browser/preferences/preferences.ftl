@@ -889,7 +889,7 @@ sitedata-cookies-permissions =
     .accesskey = K
 sitedata-cookies-exceptions =
     .label = Kelola Pengecualian…
-    .accesskey = x
+    .accesskey = K
 
 ## Privacy Section - Address Bar
 
