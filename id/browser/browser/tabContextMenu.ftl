@@ -62,7 +62,7 @@ tab-context-close-multiple-tabs =
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Urungkan Tutup Tab
+            [1] Urungkan Menutup Tab
            *[other] Urungkan Menutup Tab
         }
     .accesskey = U

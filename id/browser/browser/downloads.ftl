@@ -37,11 +37,11 @@ downloads-cmd-show-menuitem-mac =
     .label = Tampilkan di Finder
     .accesskey = F
 downloads-cmd-use-system-default =
-    .label = Buka di System Viewer
-    .accesskey = V
+    .label = Buka di Penampil Sistem
+    .accesskey = S
 downloads-cmd-always-use-system-default =
-    .label = Selalu Buka di System Viewer
-    .accesskey = w
+    .label = Selalu Buka di Penampil Sistem
+    .accesskey = S
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->

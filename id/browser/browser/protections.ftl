@@ -42,7 +42,7 @@ protection-report-page-summary-default = { -brand-short-name } melindungi privas
 protection-report-settings-link = Kelola pengaturan privasi dan keamanan Anda.
 etp-card-title-always = Perlindungan Pelacakan yang Ditingkatkan: Selalu Aktif
 etp-card-title-custom-not-blocking = Perlindungan Pelacakan yang Ditingkatkan: NONAKTIF
-etp-card-content-description = { -brand-short-name } secara otomatis menghentikan perusahaan untuk secara rahasia mengikuti Anda di web.
+etp-card-content-description = { -brand-short-name } secara otomatis menghentikan perusahaan yang mengikuti Anda di web secara rahasia.
 protection-report-etp-card-content-custom-not-blocking = Semua pengamanan saat ini nonaktif. Pilih pelacak yang akan diblokir dengan mengelola pengaturan perlindungan { -brand-short-name } Anda.
 protection-report-manage-protections = Kelola Pengaturan
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
