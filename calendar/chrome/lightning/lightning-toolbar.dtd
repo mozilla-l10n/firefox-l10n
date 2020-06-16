@@ -8,6 +8,7 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sinkronkan">
+<!ENTITY lightning.toolbar.sync.tooltip "Muat ulang kalender dan sinkronkan perubahan">
 <!ENTITY lightning.toolbar.delete.label "Hapus">
 <!ENTITY lightning.toolbar.delete.tooltip "Hapus acara atau tugas terpilih">
 <!ENTITY lightning.toolbar.edit.label "Edit">
@@ -44,5 +45,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Tampilkan Menu &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Panel Kalender">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
+<!ENTITY lightning.toolbar.calendarpane.label        "Tampilkan Panel Kalender">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "P">
