@@ -154,12 +154,21 @@
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Նուագարկել խցիկի փակման ձայնը">
+<!ENTITY options.screenshot.audio.tooltip    "Միացնում է տեսախցիկի ձայնը էկրանը նկարելիս">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "Ցուցադրել Gecko հարթակի տուեալները">
+<!ENTITY options.showPlatformData.tooltip  "Եթե միացնեք այս ընտրանքը, ապա JavaScript-ի Յատկագրի զեկոյցները կը ներառուեն
+ Gecko հարթակի նշանները">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
+<!ENTITY options.sourceeditor.label                     "Խմբագրի նախըտրանքներ">
+<!ENTITY options.sourceeditor.detectindentation.label   "Յայտնաբերել պատնեշը">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Կռահել բացթողումները ըստ աղբիւրի բովանդակութեան">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Ինքնաշխատ փակագծեր">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Ինքնաշխատ տեղադրել փակման փակագծերը">
