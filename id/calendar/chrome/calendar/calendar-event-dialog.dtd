@@ -405,6 +405,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Simpan dan Tutup">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Simpan perubahan dan tutup jendela tanpa mengubah status keikutsertaan dan mengirim tanggapan">
 <!ENTITY summary.dialog.accept.label            "Terima">
 <!ENTITY summary.dialog.accept.tooltiptext      "Menerima undangan">
 <!ENTITY summary.dialog.tentative.label         "Tentatif">
@@ -412,4 +413,6 @@
 <!ENTITY summary.dialog.decline.label           "Tolak">
 <!ENTITY summary.dialog.decline.tooltiptext     "Menolak undangan">
 <!ENTITY summary.dialog.dontsend.label          "Jangan kirim tanggapan">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Ubah status keikutsertaan tanpa mengirim balasan kepada penyelenggara dan tutup jendela">
 <!ENTITY summary.dialog.send.label              "Kirim tanggapan sekarang">
+<!ENTITY summary.dialog.send.tooltiptext        "Kirimkan tanggapan pada penyelenggara  dan tutup jendela">
