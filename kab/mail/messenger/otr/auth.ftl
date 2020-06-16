@@ -14,6 +14,7 @@ auth-your-fp-value = Adsil umḍin i kečč/kemm, { $own_name }:
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Adsil umḍin i { $their_name }:
+auth-help = Asenqed n timagit n unermas yettεawan ad tḍemneḍ adiwenni ad yili s tidet d uslig, ayen i isiwεiṛen i wis tlata ad yeḍfer neɣ ad yesxuntec adiwenni.
 auth-helpTitle = Tallalt n usenqed
 auth-questionReceived = D wagi i d asteqsi i d-yettunefken sɣur anermis-inek(inem):
 auth-yes =
