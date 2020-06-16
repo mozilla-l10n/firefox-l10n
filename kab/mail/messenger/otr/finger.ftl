@@ -5,6 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Mdel
     .title = Udsil umḍin OTR tettwasenqed yakan
+finger-intro = Idsilen umḍinen n tsura OTR n yidiwenniyen yezrin iwgelhanen seg yixef ɣer wayeḍ.
 finger-screenName =
     .label = Anermis
 finger-verified =
