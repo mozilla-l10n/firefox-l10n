@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Addrbook.label                        "Kontakty">
+<!ENTITY Addrbook.accesskey                    "K">
 <!ENTITY GeneratedName.label                   "Jméno">
 <!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "E-mail">
@@ -32,6 +33,7 @@
 <!ENTITY ScreenName.label                      "Zobrazované jméno">
 <!ENTITY ScreenName.accesskey                  "r">
 <!ENTITY ChatName.label                        "Jméno v chatu">
+<!ENTITY ChatName.accesskey                    "c">
 <!ENTITY sortAscending.label                   "Vzestupně">
 <!ENTITY sortAscending.accesskey               "V">
 <!ENTITY sortDescending.label                  "Sestupně">
