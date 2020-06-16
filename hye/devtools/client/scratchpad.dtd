@@ -132,14 +132,24 @@
   -  to reset/clear the global object of the environment where the code executes.
   -->
 <!ENTITY resetContext2.label          "Վերակայել փոփոխականները">
+<!ENTITY resetContext2.accesskey      "T">
 
+<!ENTITY reloadAndRun.label           "Վերաբացել եւ գործարկել">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
+<!ENTITY executeMenu.label            "Կատարել">
+<!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
+<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
+<!ENTITY evalFunction.label "Փորձարկել ընթացիկ գործառոյթը">
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">
