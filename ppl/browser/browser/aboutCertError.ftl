@@ -6,7 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } kipia se teyek tajpialis taejekulamat.
 cert-error-mitm-intro = Se tzawalamat kineltia itukayu iwan se taejekulamat, ne kimakat ne taejekulis takamet.
-cert-error-mitm-mozilla = { -brand-short-name } nemi ipanpa ne inte-tapiwiliani Mozilla, ne kitekimaka se taejekulis tiankiskal. Ne tiankiskal kipalewia ma ne taejekulis takamet kitajpiakan ne kalakini.
+cert-error-mitm-mozilla = { -brand-short-name } ijtuk ka ipanpa ne inte-tapiwiliani Mozilla, ne kitekimaka se taejekulis tiankiskal. Ne tiankiskal kipalewia ma ne taejekulis takamet kitajpiakan ne kalakini.
 
 ## Messages used for certificate error titles
 
