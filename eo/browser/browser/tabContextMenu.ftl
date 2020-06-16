@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Malfari fermadon de langeto
     .accesskey = M
+tab-context-close-multiple-tabs =
+    .label = Fermi plurajn langetojn
+    .accesskey = F
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Malfari fermadon de langetoj
+            [one] Malfari fermadon de langeto
+           *[other] Malfari fermadon de langetoj
+        }
+    .accesskey = M
 close-tab =
     .label = Fermi langeton
     .accesskey = o
