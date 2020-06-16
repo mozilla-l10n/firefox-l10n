@@ -272,10 +272,17 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Արգելել
     .accesskey = N
-popup-silence-notifications-checkbox = Անջատել { -brand-short-name }֊ից ծանուցումները, եթե այն հասանելի է այլ կողմերի
+popup-silence-notifications-checkbox = Անջատել { -brand-short-name }֊ից ծանուցումները համաւգտագործման ընթացքում
+popup-silence-notifications-checkbox-warning = { -brand-short-name }֊ից ծանուցումներ չեն ցուցադրուի համաւգտագործման ընթացքում
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Դուք համաւգտագործում էք { -brand-short-name }։ Նոր ներդիր բացելիս այն տեսանելի կը լինի այլոց։
+sharing-warning-screen = Դուք համաւգտագործում էք ամբողջ էկրանը։ Նոր ներդիր բացելիս այն տեսանելի կը լինի այլոց։
+sharing-warning-proceed-to-tab =
+    .label = Անցնել Ներդիրին
+sharing-warning-disable-for-session =
+    .label = Անջատել համաւգտագործման պաշտպանութիւնը այս աշխատաշրջանի ընթացքում
 
 ## DevTools F12 popup
 
