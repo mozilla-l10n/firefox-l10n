@@ -190,14 +190,94 @@ crashes-time-minutes =
         [few] { $minutes } minuty tymu
        *[many] { $minutes } minut tymu
     }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $minutes } godzina tymu
+        [few] { $minutes } godziny tymu
+       *[many] { $minutes } godzin tymu
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $minutes } dziyń tymu
+        [few] { $minutes } dni tymu
+       *[many] { $minutes } dni tymu
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Wszyskie raporty z awaryje (ze { $reports }, co czeko z tego czasu)
+        [few] Wszyskie raporty z awaryje (ze { $reports }, co czekajōm z tego czasu)
+       *[many] Wszyskie raporty z awaryje (ze { $reports }, co czekajōm z tego czasu)
+    }
+raw-data-copied = Surowe dane skopiowane do kamerlika
+text-copied = Tekst je skopiowany do kamerlika
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = Zaszperowane skuli wersyje twojigo sterownika grafiki.
+blocked-gfx-card = Zaszperowane do twojij graficznyj karty skuli niyrozwiōnzanych problymōw ze sterownikiym.
+blocked-os-version = Zaszperowane skuli wersyje twojigo ôperacyjnego systymu.
+blocked-mismatched-version = Zaszperowane skuli niyskłodności registra i DLL wersyje twojigo sterownika grafiki.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = Zaszperowane skuli wersyje twojigo sterownika grafiki. Sprōbuj go zaktualizować do wersyje { $driverVersion } abo nowszyj.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = Parametry ClearType
+compositing = Compositing
+hardware-h264 = Hardwarowe dekodowanie H264
+main-thread-no-omtc = głōwny wōntek, żodne OMTC
+yes = Ja
+no = Niy
+unknown = Niypoznane
+virtual-monitor-disp = Pokozanie wirtualnego mōnitora
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Znodniynty
+missing = Chybio
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
+gpu-description = Ôpis
+gpu-vendor-id = ID ôd wydowcy
+gpu-device-id = ID ôd masziny
+gpu-subsys-id = ID ôd subsystymu
+gpu-drivers = Sterowniki
+gpu-ram = RAM
+gpu-driver-vendor = Wydowca sterownika
+gpu-driver-version = Wersyjo sterownika
+gpu-driver-date = Data sterownika
+gpu-active = Aktywny
+webgl1-wsiinfo = Informacyje ô sterowniku WebGL 1 WSI
+webgl1-renderer = Renderer sterownika WebGL 1
+webgl1-version = Wersyjo sterownika WebGL 1
+webgl1-driver-extensions = Rozszyrzynia sterownika WebGL 1
+webgl1-extensions = Rozszyrzynia WebGL 1
+webgl2-wsiinfo = Informacyje ô sterowniku WebGL 2 WSI
+webgl2-renderer = Renderer sterownika WebGL 2
+webgl2-version = Wersyjo sterownika WebGL 2
+webgl2-driver-extensions = Rozszyrzynia sterownika WebGL 2
+webgl2-extensions = Rozszyrzynia WebGL 2
+blocklisted-bug = Zaszperowane skuli poznanych problymōw
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = bug { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Zaszperowane; kod felera { $failureCode }
+d3d11layers-crash-guard = D3D11 Compositor
+d3d11video-crash-guard = D3D11 Video dekoder
+d3d9video-crash-buard = D3D9 Video dekoder
+d3d9video-crash-guard = D3D9 Video dekoder
+glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX Video dekoder
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
