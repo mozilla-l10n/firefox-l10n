@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Aurpegiera">
 <!ENTITY insertSmiley.accesskey "A">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Ezpainak-itsatsita">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Txertatu ezpainak itsatsita dituen aurpegia">
+<!ENTITY SmileButton.label "Txertatu aurpegiera">
 <!ENTITY SmileButton.tooltip "Txertatu aurpegi irrifartsua">
-
