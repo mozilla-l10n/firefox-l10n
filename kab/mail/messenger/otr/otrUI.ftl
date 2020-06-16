@@ -26,6 +26,12 @@ alert-refresh = Aneεruḍ n usmiren n udiwenni awgelhen d { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Adiwenni awgelhan d { $name } yekfa.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = Timagit n { $name } mazal ur tettwasenqed ara. Asmuzget aralɣawi ur yezmir ara ad d-yili, maca s cwiṭ n lǧehd yella win ara as-yeslen. Sewḥel yal taεessast s usenqed n unermas-a.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } inermes-ik-ikem)-id seg uselkim ur nettwassen ara. Asmuzget aralɣawi ur yezmir ara ad d-yili, maca s cwiṭ n lǧehd yella win ara as-yeslen. Sewḥel yal taεessast s usenqed n unermas-a.
 state-not_private = Adiwenni amiran mačči d uslig.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
