@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Emër:">
 <!ENTITY folderProps.name.accesskey              "E">
+<!ENTITY folderProps.color.label                 "Ngjyrë Ikonash:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Rikthe ngjyrën parazgjedhje">
 <!ENTITY folderProps.location.label              "Vendndodhje:">
 <!ENTITY folderProps.location.accesskey          "V">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Privilegje…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Keni lejet vijuese:">
+<!ENTITY folderOtherUsers.label                  "Të tjerë me hyrje në këtë dosje:">
 <!ENTITY folderType.label                        "Lloj Dosjeje:">
 
 <!ENTITY folderQuotaTab.label                    "Kuota">
