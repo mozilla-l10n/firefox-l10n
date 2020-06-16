@@ -64,12 +64,14 @@
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Tolak semua">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Menolak undangan acara untuk semua kejadian terkait">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Tolak">
-<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Menolak proposal balasan">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Menolak proposal tandingan">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Hapus">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Hapus dari kalender">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detail…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Tampilkan detail acara">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Jangan tunjukkan pesan ini pada saya">
 <!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalender">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Menuju tab kalender">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Lebih lanjut">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik untuk menampilkan lebih banyak pilihan">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Konfirmasi ulang">
@@ -77,6 +79,7 @@
 <!ENTITY lightning.imipbar.btnReschedule.label                              "Jadwal Ulang">
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Jadwal ulang acara">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Simpan salinan">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Simpan salinan acara ke kalender secara terpisah dari balasan ke penyelenggara. Daftar peserta akan dihapus.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentatif">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Terima undangan acara secara tentatif">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tentatif seluruhnya">
@@ -90,6 +93,7 @@
 <!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Kirimkan tanggapan untuk seluruh seri kepada penyelenggara">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Jangan kirim tanggapan">
 <!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Ubah status partisipasi Anda tanpa mengirimkan tanggapan kepada penyelenggara">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Ubah status keikutsertaan Anda untuk seri ini tanpa mengirim tanggapan pada penyelenggara">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
