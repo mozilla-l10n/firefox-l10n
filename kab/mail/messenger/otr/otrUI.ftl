@@ -10,11 +10,19 @@ auth-cancel = Sefsex
 auth-cancelAccessKey = C
 auth-error = Tella-d tuccḍa lawan n usenqed n tmagit n unermas-ik/im.
 auth-success = Asenqed n tmagit n unermas-ik/im yedda akken iwata.
+auth-successThem = Anermas-ik/im isenqed akken ilaq timagit-ik/im. Tzemreḍ ula d kečč(kemm) ad tesneqdeḍ timagit-nsen s tikci n usteqsi-inek-inem).
 auth-fail = D awezɣi ad nsenqed timagit n unermas-inek/inem.
+auth-waiting = Aṛaǧu sya ara isali unermas asenqed…
 finger-verify = Senqed
 finger-verify-accessKey = V
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Rnu adsil umḍin OTR
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = Aneεruḍ n usenker n udiwenni awgelhen d { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = Aneεruḍ n usmiren n udiwenni awgelhen d { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Adiwenni awgelhan d { $name } yekfa.
