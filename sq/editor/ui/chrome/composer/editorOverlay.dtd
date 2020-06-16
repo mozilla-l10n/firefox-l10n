@@ -331,6 +331,7 @@
 <!ENTITY italicToolbarCmd.tooltip "Të pjerrëta">
 <!ENTITY underline.label "Të nënvijëzuara">
 <!ENTITY underlineToolbarCmd.tooltip "Të nënvijëzuara">
+<!ENTITY bullets.label "Me pika">
 <!ENTITY bulletListToolbarCmd.tooltip "Vendosni ose hiqni listë me shenjë">
 <!ENTITY numbers.label "Numra">
 <!ENTITY numberListToolbarCmd.tooltip "Vendosni ose hiqni listë me numra">

@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Hapni një kartelë vendore">
 <!ENTITY saveToolbarCmd.tooltip "Ruajeni kartelën në një vend në kompjuter">
 <!ENTITY publishToolbarCmd.tooltip "Ngarkojeni kartelën në një vendndodhje të largët">
+<!ENTITY printToolbarCmd.label "Shtype">
+<!ENTITY printToolbarCmd.tooltip "Shtypeni këtë faqe">
