@@ -108,6 +108,10 @@ browser-data-history-label =
             [firefox] ब्राउज़िंग इतिहास और बुकमार्क
            *[other] ब्राउज़िंग इतिहास
         }
+browser-data-formdata-checkbox =
+    .label = इतिहास से सहेजा गया
+browser-data-formdata-label =
+    .value = इतिहास से सहेजा गया
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
