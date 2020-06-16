@@ -230,8 +230,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Biểu tượng hình trong hình
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Bảo vệ trong nháy mắt
+cfr-whatsnew-protections-body = Bảng điều khiển bảo vệ bao gồm các báo cáo tóm tắt về rò rỉ dữ liệu và quản lý mật khẩu. Bây giờ bạn có thể theo dõi có bao nhiêu rò rỉ mà bạn đã giải quyết và xem liệu bất kỳ mật khẩu đã lưu nào của bạn có thể bị lộ trong một rò rỉ dữ liệu hay không.
+cfr-whatsnew-protections-cta-link = Xem bảng điều khiển bảo vệ
 cfr-whatsnew-protections-icon-alt = Biểu tượng khiên
 
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Trải nghiệm PDF tốt hơn
+cfr-whatsnew-better-pdf-body = Tài liệu PDF hiện mở trực tiếp bằng { -brand-short-name }, giữ cho công việc của bạn trong tầm tay dễ dàng.
