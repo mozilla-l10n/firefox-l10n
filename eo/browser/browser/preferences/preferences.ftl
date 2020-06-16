@@ -903,6 +903,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Administri permesojn…
     .accesskey = A
+sitedata-cookies-exceptions =
+    .label = Administri esceptojn…
+    .accesskey = e
 
 ## Privacy Section - Address Bar
 
@@ -917,6 +920,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = malfermitaj langetoj
     .accesskey = m
+addressbar-locbar-topsites-option =
+    .label = Plej vizititaj
+    .accesskey = v
 addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 
 ## Privacy Section - Content Blocking

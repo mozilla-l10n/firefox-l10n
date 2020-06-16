@@ -61,6 +61,7 @@ about-networking-title = Pri retkonektado
 about-networking-http = HTTP
 about-networking-sockets = Konektingo
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Viŝi staplon DNS
 about-networking-dns-suffix = Sufikso DNS
 about-networking-websockets = Teksaĵaj konektingoj
 about-networking-refresh = Refreŝigi
