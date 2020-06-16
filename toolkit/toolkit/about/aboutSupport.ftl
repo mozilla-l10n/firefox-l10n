@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informacions de depanatge
-page-subtitle = Aquesta pagina conten d'informacions tecnicas que poirián èsser utilasquand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions correntas sus { -brand-short-name }, consultatz nòstre <a data-l10n-name="support-link">site Web d'assisténcia</a>.
+page-subtitle = Aquesta pagina conten d'informacions tecnicas que poirián èsser utilas quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions correntas sus { -brand-short-name }, consultatz nòstre <a data-l10n-name="support-link">site Web d'assisténcia</a>.
 crashes-title = Rapòrts de plantatge
 crashes-id = Identificant del rapòrt
 crashes-send-date = Data de mandadís
@@ -28,7 +28,7 @@ processes-title = Processús distants
 processes-type = Tipe
 processes-count = Nombre
 app-basics-title = Application Basics
-app-basics-name = Nome
+app-basics-name = Nom
 app-basics-version = Version
 app-basics-build-id = Identificant de compilacion
 app-basics-distribution-id = ID de distribucion
