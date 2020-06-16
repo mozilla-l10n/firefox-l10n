@@ -45,3 +45,30 @@ msgevent-rcvdmsg_unencrypted = Mesazhi vijues i marrë prej { $name } s’qe fsh
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unrecognized = Morët nga { $name } një mesazh OTR të panjohur.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } ka dërguar një mesazh të menduar për një sesion tjetër. Nëse keni bërë hyrjen një numër herësh, mesazhin mund ta ketë marrë një sesion tjetër.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Nisi bisedë private me { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Nisi bisedë private me { $name }, e fshehtëzuar, por e paverifikuar.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = U rifreskua me sukses biseda e fshehtëzuar me { $name }.
+error-enc = Ndodhi një gabim teksa fshehtëzohej mesazhi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Dërguat të dhëna të fshehtëzuara te { $name }, që nuk priste të tilla.
+error-unreadable = Transmetuat një mesazh të fshehtëzuar të palexueshëm.
+error-malformed = Transmetuat një mesazh me të dhëna të keqformuara.
+resent = [ridërguar]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name }e ka përfunduar bisedën e fshehtëzuar me ju; po këtë duhet të bëni edhe ju.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } ka kërkuar një bisedë të fshehtëzuar, Off-the-Record (OTR). Por ju s’keni një shtojcë që ta mbulojë këtë. Për më tepër të dhëna, shihni te https://en.wikipedia.org/wiki/Off-the-Record_Messaging.
