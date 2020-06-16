@@ -4,17 +4,20 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Malfari fermadon de langeto
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Malfermi fermadon de langeto
+            [one] Malfermi fermadon de langeto
+           *[other] Malfermi fermadon de langetoj
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Serĉi langetojn
-
 all-tabs-menu-new-user-context =
     .label = Nova inga langeto
-
 all-tabs-menu-hidden-tabs =
     .label = Kaŝitaj langetoj
-
 all-tabs-menu-manage-user-context =
     .label = Administri ingojn
     .accesskey = i
