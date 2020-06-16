@@ -57,11 +57,11 @@ rcwn-avg-long = Talemmast ɣezzifet
 rcwn-std-dev-long = Amgared tizeɣt muqren
 rcwn-cache-slow = Amḍan n tuffirt ẓẓayen
 rcwn-cache-not-slow = Amdan n tuffirt ur nelli ẓẓayet
-
 about-networking-title = Talɣut ɣef uẓeṭṭa
 about-networking-http = HTTP
 about-networking-sockets = Igrudmawen
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Sfeḍ tuffirt DNS
 about-networking-dns-suffix = Uḍfiṛ DNS
 about-networking-websockets = Igrudam n tuqqna
 about-networking-refresh = Smiren
