@@ -33,42 +33,55 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.label "Սկզբնադիր գոյնի միաւոր">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.accesskey "U">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.authored "Ինչպէս բնաւրինակում">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hex "Hex">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
+<!ENTITY options.defaultColorUnit.name "Գոյնի անունը">
 
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh  "* Միայն ընթացիկ շրջանը, վերաբացում է էջը">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableChrome.label5    "Միացնել chrome դիտարկիչը եւ յաւելել վրիպազերծման գործիքատուփերը">
+<!ENTITY options.enableChrome.tooltip3  "Այս ընտրանքի միացումը կը թոյլատրի դիտարկիչի համատեքստում աւգտագործել տարբեր ծրագրային գործիքներ (via Tools > Web Developer > Browser Toolbox) եւ յաւելումների կառավարչից վրիպազերծել յաւելումները">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableRemote.label3    "Դարձնել հեռակառավարուող կարգաբերումը">
+<!ENTITY options.enableRemote.tooltip2  "Այս ընտրանքի միացումը թոյլ կտայ ծրագրային գործիքներին հեռակայ կարգաբերել Firefox-ի նմուշը, ինչպիսին Firefox ԳՀ֊ն է">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
+<!ENTITY options.disableJavaScript.label     "Անջատել JavaScript-­ը *">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
@@ -111,27 +124,36 @@
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Վրիպազերծիչ">
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
+<!ENTITY options.sourceMaps.label      "Միացնել աղբիւրի քարտէզները">
+<!ENTITY options.sourceMaps.tooltip1   "Եթե միացնեք այս ընտրանքը աղբիւրները կը տեղորոշուեն գործիքներում։">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
+<!ENTITY options.styleeditor.label            "Ոճի խմբագրիչ">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "CSS-ի ինքնալրացում">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Երբ դուք գրում եք CSS յատկութիւնները, արժէքները և ընտրիչները Style Editor-ում ինքնալցուում են">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Էկրանի պատկերի աշխատակերպ">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 <!ENTITY options.screenshot.clipboard.label      "Էկրանի հանոյթը պահել գզրոցում։">
+<!ENTITY options.screenshot.clipboard.tooltip    "Պահպանում է անմիջականօրէն սեղմատախտակի էկրանահանում">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Նուագարկել խցիկի փակման ձայնը">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
