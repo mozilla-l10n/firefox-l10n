@@ -23,6 +23,9 @@ state-unverified = Adiwenni-a amiran d awgelhen maca mačči d uslig, acku timag
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = Timagit n { $name } tettwasenqed. Adiwenni amiran d awgelhen, d uslig.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } yeḥbes adiwenni awgelhen yid-k/m; ilaq ad txedmeḍ am netta.
 state-not_private-label = Araɣelsan
 state-unverified-label = Ur yettwasenqed ara
 state-private-label = Uslig
