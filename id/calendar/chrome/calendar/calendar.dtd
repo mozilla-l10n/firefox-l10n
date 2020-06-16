@@ -206,9 +206,13 @@
 <!ENTITY calendar.context.attendance.all.tentative.label        "Diterima secara tentatif">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "o">
 <!ENTITY calendar.context.attendance.all.declined.label         "Ditolak">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Diwakilkan">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Masih memerlukan tindakan">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "Dalam proses">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
 <!ENTITY calendar.context.attendance.all.completed.label        "Selesai">
 
 <!-- Task Context Menu -->
@@ -265,13 +269,16 @@
 <!ENTITY calendar.context.findcalendar.label           "Cari Kalender…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
 <!ENTITY calendar.context.deleteserver2.label          "Hapus Kalender…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "D">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Hapus Kalender…">
+<!ENTITY calendar.context.removeserver.accesskey       "R">
 <!ENTITY calendar.context.unsubscribeserver.label      "Berhenti Berlangganan Kalender…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "U">
 <!ENTITY calendar.context.synccalendars.label          "Sinkronkan Kalender">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Terbitkan Kalender…">
@@ -283,13 +290,17 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "h">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "H">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "O">
 <!ENTITY calendar.context.showall.label                "Tampilkan Semua Kalender">
+<!ENTITY calendar.context.showall.accesskey            "A">
 
 <!ENTITY calendar.context.convertmenu.label              "Konversikan Ke">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">

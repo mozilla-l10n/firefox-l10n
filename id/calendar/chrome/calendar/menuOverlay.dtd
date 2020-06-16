@@ -21,11 +21,13 @@
 <!ENTITY calendar.deletecalendar.label          "Hapus Kalender Terpilih…">
 <!ENTITY calendar.deletecalendar.accesskey      "H">
 <!ENTITY calendar.unsubscribecalendar.label     "Berhenti Berlangganan Kalender Terpilih…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "U">
 
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
 <!ENTITY calendar.removecalendar.label          "Hapus Kalender yang Dipilih…">
+<!ENTITY calendar.removecalendar.accesskey      "R">
 
 
 <!ENTITY calendar.menu.customize.label          "Suka-suka…">
@@ -33,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Cari Acara">
 <!ENTITY showUnifinderCmd.accesskey             "a">
+<!ENTITY showUnifinderCmd.tooltip               "Alihkan panel temukan acara">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Tampilkan Tugas di Kalender">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
@@ -44,3 +47,4 @@
 <!ENTITY showCurrentView.accesskey              "T">
 
 <!ENTITY calendar.properties.label              "Properti Kalender…">
+<!ENTITY calendar.properties.accesskey          "a">
