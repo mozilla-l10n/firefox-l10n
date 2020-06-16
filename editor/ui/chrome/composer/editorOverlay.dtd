@@ -208,6 +208,7 @@
 <!ENTITY alignJustify.tooltip "Drejtim i Përligjur">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Pozicionim">
 <!ENTITY layer.tooltip "Shtresë">
 <!ENTITY decreaseZIndex.label "Shpjere Prapa">
 <!ENTITY layerSendToBack.tooltip "Shpjereni Prapa">
