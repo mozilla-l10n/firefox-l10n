@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "P">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Shkronja">
 <!ENTITY FontFaceSelect.tooltip "Zgjidhni shkronja">
 <!ENTITY fontfaceMenu.label "Shkronja">
 <!ENTITY fontfaceMenu.accesskey "S">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Madhësi Shkronjash">
 <!ENTITY FontSizeSelect.tooltip "Zgjidhni madhësi shkronjash">
 <!ENTITY decreaseFontSize.label "Më të vogla">
 <!ENTITY decreaseFontSize.accesskey "v">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Veti Liste…">
 <!ENTITY listPropsCmd.accesskey "V">
 
+<!ENTITY ParagraphSelect.title "Paragraf">
 <!ENTITY ParagraphSelect.tooltip "Zgjidhni format paragrafi">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Teksti">
@@ -206,6 +209,7 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Shtresë">
+<!ENTITY decreaseZIndex.label "Shpjere Prapa">
 <!ENTITY layerSendToBack.tooltip "Shpjereni Prapa">
 <!ENTITY layerBringToFront.tooltip "Bjereni Përpara">
 
