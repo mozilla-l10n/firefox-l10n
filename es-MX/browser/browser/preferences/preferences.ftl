@@ -564,6 +564,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mostrar sugerencias de búsqueda en ventanas privadas
 suggestions-addressbar-settings = Cambiar preferencias para el historial de navegación, marcadores y sugerencias de pestañas
+suggestions-addressbar-settings-generic = Cambia las preferencias para otras sugerencias de la barra de direcciones
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque has configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Buscadores con un clic
 search-one-click-desc = Elegir los motores de búsqueda alternativos que aparecen debajo de la barra de direcciones y en la barra de búsqueda cuando comienzas a escribir una palabra.
@@ -919,6 +920,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Abrir pestañas
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = Sitios frecuentes
+    .accesskey = t
 addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias del motor de navegación
 
 ## Privacy Section - Content Blocking

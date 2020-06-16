@@ -39,6 +39,8 @@ protection-report-webpage-title = Panel de protecciones
 protection-report-page-content-title = Panel de protecciones
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } puede proteger tu privacidad entre bastidores mientras navegas. Este es un resumen personalizado de esas protecciones, incluidas las herramientas para tomar el control de tu seguridad en línea.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } protege tu privacidad tras bambalinas mientras navegas. Este es un resumen personalizado de estas protecciones, incluyendo herramientas para tomar el control de tu vida en línea.
 protection-report-settings-link = Administrar tu configuración de privacidad y seguridad
 etp-card-title-always = Protección contra rastreo mejorada: siempre activa
 etp-card-title-custom-not-blocking = Protección contra rastreo mejorada: desactivada
@@ -120,6 +122,8 @@ monitor-link = Cómo funciona
 monitor-header-content-no-account = Revisa { -monitor-brand-name } para ver si has sido parte de una violación de datos conocida y recibir alertas sobre nuevas violaciones.
 monitor-header-content-signed-in = { -monitor-brand-name } te avisa si tu información apareció en una violación de datos conocida.
 monitor-sign-up = Regístrate para recibir alertas de filtraciones
+monitor-sign-up-link = Suscribirse a las alertas de filtraciones
+    .title = Suscribirse a las alertas de filtraciones en { -monitor-brand-name }
 auto-scan = Analizado automáticamente hoy
 monitor-emails-tooltip =
     .title = Ver las direcciones de correo electrónico supervisadas en { -monitor-brand-short-name }
@@ -144,6 +148,14 @@ info-known-breaches-found =
        *[other] violaciones de datos conocidas que expusieron tu información
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Filtración de datos conocida marcada como resuelta
+       *[other] Filtraciones de datos conocidas marcadas como resueltas
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -160,7 +172,16 @@ password-warning =
         [one] Inicio de sesión guardado puede estar expuesto en una filtración de datos. Cambiar esta contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
        *[other] Inicios de sesión guardados pueden estar expuestos en una filtración de datos. Cambiar estas contraseñas para mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Contraseña expuesta en filtraciones no resueltas
+       *[other] Contraseñas expuestas en filtraciones no resueltas
+    }
 monitor-no-breaches-title = ¡Buenas noticias!
+monitor-no-breaches-description = No tienes filtraciones conocidas. Si esto cambia, te lo haremos saber.
 monitor-partial-breaches-motivation-title-start = ¡Gran inicio!
 monitor-partial-breaches-motivation-title-middle = ¡Sigue así!
 monitor-partial-breaches-motivation-title-end = ¡Casi terminamos! Sigue así.
