@@ -192,6 +192,7 @@ monitor-partial-breaches-title =
     { $numBreachesResolved ->
         [0] Žádný
         [one] Jeden
+        [few] { $numBreachesResolved }
        *[other] { $numBreachesResolved }
     } { $numBreaches ->
         [one] z jednoho úniku
@@ -200,6 +201,7 @@ monitor-partial-breaches-title =
     } { $numBreachesResolved ->
         [0] jste neoznačili jako vyřešený
         [one] jste označili jako vyřešený
+        [few] jste označili jako vyřešené
        *[other] jste označili jako vyřešené
     }
 # Variables:
