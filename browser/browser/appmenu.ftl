@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Mbrojtje Privatësie
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Shkoni te raporti juaj mbi privatësinë
+appmenuitem-protection-dashboard-title = Pult Mbrojtjesh
 appmenuitem-customize-mode =
     .label = Përshtateni…
 
@@ -26,3 +27,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ç’ka të Re
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Njoftomëni për veçori të reja
+    .accesskey = N
