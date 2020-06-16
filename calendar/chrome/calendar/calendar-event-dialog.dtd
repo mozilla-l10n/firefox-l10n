@@ -34,9 +34,12 @@
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label                "Beri tahu peserta">
+<!ENTITY event.attendees.notify.accesskey            "f">
 <!ENTITY event.attendees.notifyundisclosed.label     "Undangan terpisah untuk masing-masing peserta">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Opsi ini mengirimkan satu surel undangan per peserta. Tiap undangan hanya berisi penerima bersangkutan sehingga identitas peserta lainnya tidak ditampilkan.">
 <!ENTITY event.attendees.disallowcounter.label       "Larang penghitung">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Menunjukkan bahwa Anda tidak akan menerima proposal tandingan">
 
 <!-- Keyboard Shortcuts -->
@@ -75,6 +78,7 @@
    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Simpan">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
@@ -83,6 +87,7 @@
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Simpan dan Tutup">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "m">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Hapus…">
 <!ENTITY  event.menu.item.delete.accesskey                "H">
@@ -184,8 +189,10 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Terapkan proposal">
+<!ENTITY counter.button.proposal.accesskey                "p">
 <!ENTITY counter.button.proposal.tooltip2                 "Kolom acara akan diisi menggunakan nilai dari proposal bandingan, hanya menyimpan dengan atau tanpa perubahan tambahan akan memberi tahu semua peserta terkait">
 <!ENTITY counter.button.original.label                    "Terapkan data asli">
+<!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip2                 "Kolom akan diatur ke nilai dari acara asal, sebelum proposal tandingan dibuat.">
 
 <!-- Main page -->
@@ -207,6 +214,7 @@
 <!ENTITY task.from.label                                  "Mulai:" >
 <!ENTITY task.from.accesskey                              "M">
 <!ENTITY event.to.label                                   "Akhir:" >
+<!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.to.label                                    "Jatuh Tempo:" >
 <!ENTITY task.to.accesskey                                "o">
 <!ENTITY task.status.label                                "Status:" >
@@ -214,6 +222,7 @@
 <!ENTITY event.repeat.label                               "Perulangan:" >
 <!ENTITY event.repeat.accesskey                           "r">
 <!ENTITY event.until.label                                "Sampai:">
+<!ENTITY event.until.accesskey                            "B">
 <!ENTITY event.reminder.label                             "Alarm:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Deskripsi:" >
@@ -231,6 +240,7 @@
 <!ENTITY event.attachments.popup.removeAll.label          "Hapus Semua" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
 <!ENTITY event.attachments.popup.attachPage.label         "Lampirkan Laman Web…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
 <!ENTITY event.url.label                                  "Tautan Terkait:" >
 <!ENTITY event.priority2.label                            "Prioritas:">
 

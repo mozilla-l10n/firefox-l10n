@@ -20,6 +20,7 @@
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
 <!ENTITY pref.showalarmbox "Tampilkan kotak alarm">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
+<!ENTITY pref.missedalarms2 "Tampilkan pengingat yang terlewat untuk kalender yang dapat ditulis">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Default Alarm">
 <!ENTITY pref.defalarm4events.label "Pengaturan alarm default untuk acara:">
@@ -33,3 +34,5 @@
 <!ENTITY pref.defalarmlen4todos.label "Waktu alarm mati default sebelum tugas:">
 <!ENTITY pref.defalarmlen4todos.accesskey "g">
 
+<!ENTITY pref.defaultsnoozelength.label "Panjang Tunda Standar:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">

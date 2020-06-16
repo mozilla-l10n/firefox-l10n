@@ -8,13 +8,18 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Umum">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Tampilan Harian dan Mingguan">
 <!ENTITY pref.calendar.view.multiweekview.caption "Tampilan Multiminggu">
 <!ENTITY pref.calendar.view.workweek.caption "Minggu Kerja">
 
 <!ENTITY pref.weekstarts.label "Mulai hari kerja pada:">
 <!ENTITY pref.weekstarts.accesskey "p">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Tampilkan jumlah minggu dalam tampilan dan minimonth">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Sertakan hari berikut untuk hari kerja:">
+
+<!ENTITY pref.workweekDays.label "Hari kerja:">
 
 <!ENTITY pref.calendar.view.daystart.label "Hari dimulai pada:">
 <!ENTITY pref.calendar.view.daystart.accesskey "H">
@@ -36,3 +41,4 @@
 <!ENTITY pref.numberofweeks.5 "5 minggu">
 <!ENTITY pref.numberofweeks.6 "6 minggu">
 <!ENTITY pref.showlocation.label "Tampilkan lokasi">
+<!ENTITY pref.showlocation.accesskey "L">
