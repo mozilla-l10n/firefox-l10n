@@ -768,7 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Conexión verificada ji iin vetiñu taji certificados je Mozilla ntu nakuni.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "{ -brand-short-name } nñasɨ yaku ka̱a̱ nuu ya´a jiee ntu tuvi vatu.">
+<!ENTITY identity.activeBlocked "&brandShortName; nñasɨ yaku ka̱a̱ nuu ya´a jiee ntu tuvi vatu.">
 <!ENTITY identity.passiveLoaded "Sava página ya´a ntu iyo vatu (kua daa tutu nátava).">
 <!ENTITY identity.activeLoaded "Nnakasɨnɨ a kumi noo´o nuu página ya´a.">
 <!ENTITY identity.weakEncryption "Nuu ya´a ni´i encriptación ntu nakui.">
