@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Kalender
+calendar-title-reminder = Pengingat
+calendar-title-category = Kategori
 dateformat-label =
     .value = Format Tanggal:
     .accesskey = t
@@ -30,6 +33,8 @@ day-6-name =
     .label = Jumat
 day-7-name =
     .label = Sabtu
+workdays-label =
+    .value = Hari kerja:
 day-1-checkbox =
     .label = Min
     .accesskey = M
