@@ -65,7 +65,7 @@ login-list-item-title-new-login = Նոր մուտքանուն
 login-list-item-subtitle-new-login = Մուտքագրէք Ձեր մուտքանուան տուեալները
 login-list-item-subtitle-missing-username = (աւգտանուն չկայ)
 about-logins-list-item-breach-icon =
-    .title = Խախտուած կայք
+    .title = Վտանգուած կայք
 about-logins-list-item-vulnerable-password-icon =
     .title = Խոցելի գաղտնաբառ
 
@@ -90,13 +90,13 @@ login-item-origin =
 login-item-username-label = Աւգտանուն
 about-logins-login-item-username =
     .placeholder = (աւգտանուն չկայ)
-login-item-copy-username-button-text = Պատճէնել
-login-item-copied-username-button-text = Պատճէնուած
+login-item-copy-username-button-text = Պատճենել
+login-item-copied-username-button-text = Պատճենուած
 login-item-password-label = Գաղտնաբառ
 login-item-password-reveal-checkbox =
     .aria-label = Ցոյց տալ գաղտնաբառը
-login-item-copy-password-button-text = Պատճէնել
-login-item-copied-password-button-text = Պատճէնուած
+login-item-copy-password-button-text = Պատճենել
+login-item-copied-password-button-text = Պատճենուած
 login-item-save-changes-button = Պահպանել փոփոխութիւնները
 login-item-save-new-button = Պահպանել
 login-item-cancel-button = Չեղարկել
@@ -163,6 +163,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողութիւնը չի կարող ետարկուել։
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
+about-logins-confirm-export-dialog-title = Արտահանել մուտքանուններն ու գաղտնաբառերը
 confirm-discard-changes-dialog-title = Անտեսե՞լ չպահպանուած փոփոխութիւնները։
 confirm-discard-changes-dialog-message = Բոլոր չպահպանուած փոփոխութիւնները կը կորչեն։
 confirm-discard-changes-dialog-confirm-button = Անտեսել
@@ -198,3 +199,16 @@ about-logins-error-message-default = Գաղտնաբառի պահպանման ժ�
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Արտահանել Մուտքանունների նիշք
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = գրանցումներ.csv
+about-logins-export-file-picker-export-button = Արտահանել
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Փաստաթուղթ
+       *[other] CSV Նիշք
+    }
