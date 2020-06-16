@@ -57,11 +57,11 @@ rcwn-avg-long = Langt gjennomsnitt
 rcwn-std-dev-long = Langt standardavvik
 rcwn-cache-slow = Tal på langsam cache
 rcwn-cache-not-slow = Tal på ikkje-langsam cache
-
 about-networking-title = Om nettverk
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Tøm DNS-snøggglager
 about-networking-dns-suffix = DNS-suffiks
 about-networking-websockets = WebSockets
 about-networking-refresh = Oppdater
