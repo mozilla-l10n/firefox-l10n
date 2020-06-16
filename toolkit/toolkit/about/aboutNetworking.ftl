@@ -57,11 +57,11 @@ rcwn-avg-long = Dolgo povprečje
 rcwn-std-dev-long = Dolg standardni odklon
 rcwn-cache-slow = Število počasnih delovanj diska
 rcwn-cache-not-slow = Število hitrih delovanj diska
-
 about-networking-title = O omrežjih
 about-networking-http = HTTP
 about-networking-sockets = Vtičnice
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Počisti predpomnilnik DNS
 about-networking-dns-suffix = Pripona DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Osveži
