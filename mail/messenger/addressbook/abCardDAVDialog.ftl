@@ -31,3 +31,5 @@ carddav-remember-password =
 carddav-loading = Konfigurazioa bilatzen…
 carddav-connection-error = Huts konektatzerakoan.
 carddav-none-found = Ez da helbide-libururik aurkitu gehitzeko zehaztutako kontuan.
+carddav-already-added = Zehaztutako kontuko helbide-liburu guztiak gehitu dira.
+carddav-available-books = Helbide-liburu eskuragarriak
