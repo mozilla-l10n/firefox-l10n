@@ -96,12 +96,30 @@ browser-data-cookies-checkbox =
     .label = Kuki
 browser-data-cookies-label =
     .value = Kuki
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Riwayat Jelajah dan Markah
+           *[other] Riwayat Jelajah
+        }
 browser-data-history-label =
     .value =
         { $browser ->
             [firefox] Riwayat Jelajah dan Markah
            *[other] Riwayat Jelajah
         }
+browser-data-formdata-checkbox =
+    .label = Riwayat Formulir Tersimpan
+browser-data-formdata-label =
+    .value = Riwayat Formulir Tersimpan
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Riwayat Info Masuk dan Sandi
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Riwayat Info Masuk dan Sandi
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
