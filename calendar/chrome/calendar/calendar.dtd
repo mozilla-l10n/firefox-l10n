@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "สร้างงานใหม่" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "งาน" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "แสดงงานที่เสร็จสมบูรณ์">
 
 <!ENTITY calendar.today.button.label          "วันนี้">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "แสดงการเตือนความจำ">
 <!ENTITY calendarproperties.cache3.label                   "การสนับสนุนออฟไลน์">
 <!ENTITY calendarproperties.enabled.label                  "เปิดปฏิทินนี้">
+<!ENTITY calendarproperties.enabled2.label                 "เปิดใช้ปฏิทินนี้">
 <!ENTITY calendarproperties.forceDisabled.label            "ไม่พบผู้ให้บริการสำหรับปฏิทินนี้ สิ่งนี้มักจะเกิดขึ้นหากคุณปิดใช้งานหรือถอนการติดตั้งส่วนเสริมบางตัว">
 <!ENTITY calendarproperties.unsubscribe.label              "เลิกบอกรับ">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "ล">
