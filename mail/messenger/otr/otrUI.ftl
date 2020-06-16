@@ -10,3 +10,19 @@ auth-cancel = Utzi
 auth-cancelAccessKey = U
 auth-error = Errorea izan da zure kontaktuaren identitatea egiaztatzerakoan.
 auth-success = Zure kontaktuen identitatearen egiaztapena ondo burutu da.
+auth-successThem = Zure kontaktuak zure identitatea ondo egiaztatu du. Beharbada zuk bere identitatea egiaztatu nahi izango duzu zure galdera eginaz.
+auth-fail = Zure kontaktuaren identitatea egiaztatzeak huts egin du.
+auth-waiting = Kontaktuaren zain egiaztapena burutzeko…
+finger-verify = Egiaztatu
+finger-verify-accessKey = E
+# Do not translate 'OTR' (name of an encryption protocol)
+buddycontextmenu-label = Gehitu OTR hatz-marka
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = { $name }(e)kin zifratutako elkarrizketa abiarazten.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = { $name }(e)kin zifratutako elkarrizketa freskatzen.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = { $name }(e)kin zifratutako elkarrizketa amaitu da.
