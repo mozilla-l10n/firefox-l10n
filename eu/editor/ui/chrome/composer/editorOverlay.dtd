@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Letra-tipoa">
 <!ENTITY FontFaceSelect.tooltip "Aukeratu letra-tipoa">
 <!ENTITY fontfaceMenu.label "Letra-tipoa">
 <!ENTITY fontfaceMenu.accesskey "t">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Letra-tamaina">
 <!ENTITY FontSizeSelect.tooltip "Aukeratu letra-tipoaren tamaina">
 <!ENTITY decreaseFontSize.label "Txikiagoa">
 <!ENTITY decreaseFontSize.accesskey "x">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Zerrendaren propietateak…">
 <!ENTITY listPropsCmd.accesskey "Z">
 
+<!ENTITY ParagraphSelect.title "Paragrafoa">
 <!ENTITY ParagraphSelect.tooltip "Aukeratu paragrafoaren formatua">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Gorputzaren testua">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Lerrokatu justifikatuta">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Kokalekua...">
 <!ENTITY layer.tooltip "Maila">
+<!ENTITY decreaseZIndex.label "Bidali atzera">
 <!ENTITY layerSendToBack.tooltip "Bidali atzera">
+<!ENTITY increaseZIndex.label "Ekarri aurrera">
 <!ENTITY layerBringToFront.tooltip "Ekarri aurrera">
 
 <!ENTITY increaseIndent.label "Handitu koska">
@@ -304,17 +310,24 @@
 <!ENTITY linkToolbarCmd.tooltip "Txertatu lotura berria edo aldatu hautatutako loturaren propietateak">
 <!ENTITY anchorToolbarCmd.label "Aingura">
 <!ENTITY anchorToolbarCmd.tooltip "Txertatu izendun aingura berria edo aldatu hautatutako ainguraren propietateak">
+<!ENTITY colorButtons.title "Koloreak">
 <!ENTITY TextColorButton.tooltip "Aukeratu testuaren kolorea">
 <!ENTITY BackgroundColorButton.tooltip "Aukeratu atzeko planoko kolorea">
 <!ENTITY throbber.tooltip "Joan &vendorShortName;(r)en hasiera-orrira">
 <!ENTITY throbber.tooltip2 "Joan &brandShortName;(r)en hasiera-orrira">
+<!ENTITY HighlightColorButton.label "Nabarmengailua">
 <!ENTITY HighlightColorButton.tooltip "Aukeratu testuaren nabarmentze-kolorea">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Letra-tamaina">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ezarri letra-tipo tamaina">
+<!ENTITY smaller.label "Txikiagoa">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Letra tamaina txikiagoa">
+<!ENTITY larger.label "Handiagoa">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Letra tamaina handiagoa">
+<!ENTITY bold.label "Lodia">
 <!ENTITY boldToolbarCmd.tooltip "Lodia">
+<!ENTITY italic.label "Etzana">
 <!ENTITY italicToolbarCmd.tooltip "Etzana">
 <!ENTITY underlineToolbarCmd.tooltip "Azpimarratua">
 <!ENTITY bulletListToolbarCmd.tooltip "Bullet-dun lista aplikatu edo ezabatu">
