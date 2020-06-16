@@ -57,11 +57,11 @@ rcwn-avg-long = Longa mejana
 rcwn-std-dev-long = Long escart tipe
 rcwn-cache-slow = Comptador d'escondedor lent
 rcwn-cache-not-slow = Comptador d'escondedor non lent
-
 about-networking-title = Informacions ret
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Escafar escondedor DNS
 about-networking-dns-suffix = Sufix DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Refrescar
