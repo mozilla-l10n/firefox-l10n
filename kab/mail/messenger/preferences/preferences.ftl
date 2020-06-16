@@ -47,6 +47,9 @@ collection-description = Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen 
 collection-privacy-notice = Tasertit n tbaḍnit
 collection-health-report-telemetry-disabled = Ur tezgiḍ teǧǧiḍ { -vendor-short-name } ad d-yelqeḍ isefka itiknikanen akked wid n temyigawt. Meṛṛa isefka yezrin ad ttwakksen deg 30 n wussan.
 collection-health-report-telemetry-disabled-link = Issin ugar
+collection-health-report =
+    .label = Sireg { -brand-short-name } ad yazen isefka itiknikanen ɣer { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Issin ugar
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -675,3 +678,5 @@ chat-header-label =
 
 ## Preferences UI Search Results
 
+search-results-header = Igmaḍ n unadi
+search-results-help-link = Tesriḍ tallelt? Rzu γer <a data-l10n-name="url">{ -brand-short-name } Tallelt</a>

@@ -27,7 +27,9 @@ policy-DisableAppUpdate = Sewḥel { -brand-short-name } seg uleqqem.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer yifecka n tneflit.
 policy-DisableFeedbackCommands = Ssens tiludna akken ad aɣ-d-tazneḍ tikti-ik seg wumuɣ n tallelt ( Azen-d tikti temleḍ-aɣ-d ismal ur nemɛin ara).
 policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n yisefka.
+policy-DisableFormHistory = Ur ḥerrez ara azray n unadi d tferkit.
 policy-DisableMasterPasswordCreation = Ma d tidet, awal uffir agejdan ur yezmir ara ad yettwarnu.
+policy-DisablePasswordReveal = Ur ttaǧǧa ara awalen uffiren ad d-banen deg yinekcam yettwaskelsen.
 policy-DisableProfileImport = Sens taladna n wumuɣ akken ad tketreḍ isefka seg usnas-nniḍen.
 policy-DisableSafeMode = Sens tamahilt akken ad talseḍ asenker deg uskar aɣelsan. Tamawt: tasarut Shift i unekcum ɣer uskar aɣelsan tezmer kan ad yettwasens deg Windows s useqdec n tsertit n ugraw.
 policy-DisableSecurityBypass = Sewḥel aseqdec akken ur iɣelli ara deg kra n wuguren n tɣellist.
@@ -39,6 +41,8 @@ policy-DontCheckDefaultClient = Sens asenqed amezwer i umsaɣ deg tnekra.
 policy-DownloadDirectory = Sbadu tṣekkreḍ akaram n usider.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur tṣekkreḍ-t ma tebɣiḍ.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Rmed neɣ sens isiɣzaf n wallalen n teywalt yettwawgelhen rnu sekkeṛ-it ma tebɣiḍ.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -47,15 +51,19 @@ policy-ExtensionSettings = Sefrek akk timeẓra n usbeddi n yisiɣzaf.
 policy-ExtensionUpdate = Rmed neɣ sens ileqman n usiɣzef s wudem awurman.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 policy-InstallAddonsPermission = Sireg asebeddi n yizegrar i kra n yismal web.
+policy-LegacyProfiles = Sens tamahilt i ihettmen aseqdec n umaɣnu yemgaraden i yal asebeddi.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Sermed iɣewwaren n tikli uzwir n yinagan n tuqqna SameSite aqdim.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Uɣal ɣer tikli taqdimt n SameSite i yinigan n tuqqna deg yismal i d-yettunefken.
 
 ##
 
 policy-LocalFileLinks = Sireg ismal usdiden ad cudden ɣer yifuyla idiganen.
 policy-NetworkPrediction = Rmed neɣ sens tifin n yiẓeḍwa (taɣuri tuzwirt DNS)
 policy-OfferToSaveLogins = Snes aɣewwaṛ akken ad tsirgeḍ { -brand-short-name } iwakken ad yecfu ɣef yinekcam d wawalen uffiren yettwakelsen. S wazalen iṣeḥḥan s wid iɣelḍen ad ttwaqeblen akk.
+policy-OfferToSaveLoginsDefault = Sbadu ma yella, swudem amezwer, { -brand-short-name } yessefk ad yecfu i unekcum akked wawalen uffiren. Azal tru akked false ad ttwaqeblen.
 policy-OverrideFirstRunPage = Beddel asebter amezwaru n uskar. Sbadu tasertit d tilemt ma tebɣiḍ ad tessenseḍ asebter amezwaru n uskar.
 policy-OverridePostUpdatePage = Beddel asebter "Acu-t amaynut" seld aleqqem. sbadu tasertit d tilemt ma tebɣiḍ ad tessenseḍ  asebter n uleqqem.
 policy-PasswordManagerEnabled = Rmed asekles n wawalen uffiren deg umsefrak n wawalen uffiren.

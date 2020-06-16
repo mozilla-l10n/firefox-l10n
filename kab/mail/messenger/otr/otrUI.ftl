@@ -21,6 +21,7 @@ state-not_private-label = Araɣelsan
 state-unverified-label = Ur yettwasenqed ara
 state-private-label = Uslig
 state-finished-label = Yekfa
+verify-title = Senqed timagit n unermas-inek/inem
 error-title = Tuccḍa
 success-title = Awgelhen seg yixef ɣer wayeḍ
 successThem-title = Senqed timagit n unermas-inek/inem
