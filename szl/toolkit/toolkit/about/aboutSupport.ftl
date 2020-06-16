@@ -307,6 +307,19 @@ startup-cache-disk-cache-path = Cesta ku podryncznyj pamiynci na dysku
 startup-cache-ignore-disk-cache = Ignoruj pamiynć podrynczno na dysku
 launcher-process-status-0 = Załōnczōny
 launcher-process-status-1 = Zastawiōny skuli awaryje
+launcher-process-status-2 = Zastawiōny skuli przikazu
+launcher-process-status-unknown = Niypoznany status
+# Variables
+# $remoteWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Załōnczōny ôd używocza
+multi-process-status-1 = Bazowo załōnczōny
+multi-process-status-2 = Zastawiuny
+multi-process-status-7 = Zastawiōne skuli rozszyrzyń
+multi-process-status-8 = Zastawiōny skuli przikazu
+multi-process-status-unknown = Niypoznany status
+apz-none = żodne
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -314,3 +327,6 @@ launcher-process-status-1 = Zastawiōny skuli awaryje
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Niyaktywne
+policies-active = Aktywne
+policies-error = Feler
