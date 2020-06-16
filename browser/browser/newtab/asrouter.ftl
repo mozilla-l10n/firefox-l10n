@@ -236,6 +236,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
 
 cfr-whatsnew-protections-header = Protecciones a la vista
 cfr-whatsnew-protections-body = El Panel de protecciones incluye informes resumidos sobre filtraciones de datos y administración de contraseñas. Ahora puedes realizar un seguimiento de cuántas filtraciones se resolvieron y ver si alguna de tus contraseñas guardadas pudo estar expuesta en una filtración de datos.
+cfr-whatsnew-protections-cta-link = Ver panel de protecciones
+cfr-whatsnew-protections-icon-alt = Icono de escudo
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Mejor experiencia con PDF
+cfr-whatsnew-better-pdf-body = Los documentos PDF ahora se abren directamente en { -brand-short-name }, manteniendo su flujo de trabajo al alcance de la mano.
