@@ -29,7 +29,13 @@ graph-total-tracker-summary =
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } nadále blokuje sledovací prvky v anonymních oknech, ale neukládá si informace, co bylo zablokováno.
 # Weekly summary of the graph when the graph is empty in Private Mode
-graph-week-summary-private-window = Sledovací prvky zablokované tento týden
+graph-week-summary-private-window =
+    Sledovací prvky, které { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } během tohoto týdne zablokoval
+        [feminine] { -brand-short-name } během tohoto týdne zablokovala
+        [neuter] { -brand-short-name } během tohoto týdne zablokovalo
+       *[other] aplikace { -brand-short-name } během tohoto týdne zablokovala
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -115,6 +121,7 @@ lockwise-scanned-text-breached-logins =
 lockwise-scanned-text-no-breached-logins =
     { $count ->
         [one] Vaše heslo je bezpečně uloženo.
+        [few] Vaše hesla jsou bezpečně uložena.
        *[other] Vaše hesla jsou bezpečně uložena.
     }
 lockwise-how-it-works-link = Jak to funguje

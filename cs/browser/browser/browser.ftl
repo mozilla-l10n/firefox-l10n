@@ -290,6 +290,12 @@ popup-select-microphone =
     .value = Sdílet mikrofon:
     .accesskey = m
 popup-all-windows-shared = Budou sdílena všechna viditelná okna na vaší obrazovce.
+popup-screen-sharing-not-now =
+    .label = Teď ne
+    .accesskey = n
+popup-screen-sharing-never =
+    .label = Nikdy nepovolovat
+    .accesskey = N
 popup-silence-notifications-checkbox = Nezobrazovat oznámení od { -brand-short-name(case: "gen") } během sdílení
 popup-silence-notifications-checkbox-warning = { -brand-short-name } nebude během sdílení zobrazovat žádná oznámení.
 
