@@ -9,6 +9,9 @@ msgevent-encryption_required_part2 = Aneεruḍ n usenker n udiwenni uslig. Izen
 msgevent-encryption_error = Tella-d tuccḍa deg uwgelhen n yizen-inek/inem. Izen ur yettwazen ara.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-connection_ended = { $name } yeḥbes yakan tuqqna tawgelhent yid-k/m. I wakken ur tettazneḍ ara izen war awgelhen mebla ma tfaqqed, izen-inek/inem ur yettwazenara. Ma ulac aɣilif, seḥbes adiwenni-inek/inem awgelhen neɣ senker-it.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = Izen aneggaru yettwazen tikkelt-nniḍen i { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
