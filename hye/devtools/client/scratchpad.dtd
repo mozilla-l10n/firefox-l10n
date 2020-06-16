@@ -20,22 +20,59 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Խմբագրիչ">
 
+<!ENTITY fileMenu.label               "Նիշք">
+<!ENTITY fileMenu.accesskey           "F">
 
+<!ENTITY newWindowCmd.label           "Նոր պատուհան">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
 
+<!ENTITY openFileCmd.label            "Բացել Նիշը…">
+<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.commandkey       "o">
 
+<!ENTITY openRecentMenu.label         "Բացել նախորդը">
+<!ENTITY openRecentMenu.accesskey     "R">
 
+<!ENTITY revertCmd.label              "Վերադարձնել…">
+<!ENTITY revertCmd.accesskey          "t">
 
+<!ENTITY saveFileCmd.label            "Պահպանել">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
 
+<!ENTITY saveFileAsCmd.label          "Պահպանել որպէս…">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
+<!ENTITY closeCmd.label               "Փակել">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "C">
 
+<!ENTITY viewMenu.label               "Տեսք">
+<!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "Ցուցադրել տողի համարները">
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "Տողադարձել">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "Գունանշել յետին տարածքը">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
- <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.label             "Մեծ տառատեսակ">
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
+<!ENTITY smallerFont.label            "Փոքր տառատեսակ">
+<!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.commandkey       "-">
 
+<!ENTITY normalSize.label             "Նորմալ չափ">
+<!ENTITY normalSize.accesskey         "N">
 
 
 
