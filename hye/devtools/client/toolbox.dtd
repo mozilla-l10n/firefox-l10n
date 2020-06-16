@@ -175,3 +175,9 @@
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Կռահել բացթողումները ըստ աղբիւրի բովանդակութեան">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Ինքնաշխատ փակագծեր">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Ինքնաշխատ տեղադրել փակման փակագծերը">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Ներդիրի նիշքի փոխարէն աւգտագործել բացատներ">
+<!ENTITY options.sourceeditor.tabsize.label             "Ներդիրի չափը">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "Ստեղների զուգորդութիւն">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Ակզբնադիր">

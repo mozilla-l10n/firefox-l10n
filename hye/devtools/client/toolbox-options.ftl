@@ -8,6 +8,17 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Սկզբնադիր Մշակողի գործիքներ
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Չի աջակցուում ընթացիկ գործիքներում
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Յաւելումների կողմից տեղակայուած Մշակողի գործիքներ։
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Առկայ գործիքատուփի կոճակներ
 
 ## Inspector section
 
