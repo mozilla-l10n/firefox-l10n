@@ -117,6 +117,10 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumente
 safe-mode-title = Provoni Mënyrën e Parrezik
 restart-in-safe-mode-label = Riniseni me Shtesat të Çaktivizuara…
+clear-startup-cache-title = Provoni spastrimin e fshehtinës së nisjes
+clear-startup-cache-label = Spastroni fshehtinë nisjeje…
+startup-cache-dialog-title = Spastroni fshehtinë nisjeje
+startup-cache-dialog-body = Që të spastrohet fshehtina e nisjes, rinisni { -brand-short-name }-in. Kjo nuk do të ndryshojë rregullimet tuaja apo të heqë zgjerime që keni shtuar te { -brand-short-name }-i.
 restart-button-label = Rinise
 
 ## Media titles
@@ -125,6 +129,7 @@ audio-backend = Mekanizëm Audio
 max-audio-channels = Kanale Maksimum
 channel-layout = Skemë e Parapëlqyer Për Kanalin
 sample-rate = Shpejtësi e Parapëlqyer Kampionizimesh
+roundtrip-latency = Vonesë vajtje-ardhje (shmangie standard)
 media-title = Media
 media-output-devices-title = Pajisje Dalje
 media-input-devices-title = Pajisje Dhëniesh
