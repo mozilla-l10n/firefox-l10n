@@ -59,3 +59,8 @@ resent = [azen tikkelt-nniḍen]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } yeḥbes adiwenni awgelhen yid-k/m; ilaq ad txedmeḍ am netta.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } isuter-d adiwenni awgelhen Off-the-Record (OTR). Maca, ur tesεiḍ ara azegrir akken ad t-tesferkeḍ. Wali https://en.wikipedia.org/wiki/Off-the-Record_Messaging i wugar n telɣut.

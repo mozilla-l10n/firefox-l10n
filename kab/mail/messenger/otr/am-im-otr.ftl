@@ -4,6 +4,7 @@
 
 account-encryption =
     .label = Awgelhen seg yixef ɣer wayeḍ
+account-otr-label = Tirawt Off-the-Record (OTR)
 account-otr-description = { -brand-short-name } isefrak awgelhen seg yixef ɣer yixef n yidiwenniyen gar sin. Ayagi ur yettaǧǧa ara wiyaḍ ad slen i udiwenni. Awgelhen seg yixef ɣer yixef ur yettuseqdac ara ala ma yili amdan-nni-nniḍen iseqdac aseɣẓan i yessefraken OTR.
 otr-encryption-title = Yettusenqed uwgelhen
 otr-encryption-caption = Akken ad teǧǧeḍ wiyaḍ ad sneqden timagit-inek/inem deg yidiwenniyen OTR, bḍu udsil-inek/inem umḍin OTRs useqdec n ubadu n teywalt n beṛṛa (beṛṛa n uzawag).

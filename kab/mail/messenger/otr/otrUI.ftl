@@ -55,3 +55,7 @@ success-title = Awgelhen seg yixef ɣer wayeḍ
 successThem-title = Senqed timagit n unermas-inek/inem
 fail-title = Asenqed d awezɣi
 waiting-title = Asuter n usenqed yettwazen
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Asirew n tsarut tusligt OTR ur yeddi ara: { $error }
