@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Libër Adresash…">
 <!ENTITY newAddressBookCmd.accesskey                    "A">
+<!ENTITY newCardDAVBookCmd.label                        "Libër Adresash CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Drejtori LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Mesazh">

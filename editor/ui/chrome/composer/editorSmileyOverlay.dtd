@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Gojëkyçur">
 <!ENTITY smiley16Cmd.accesskey "Ç">
 <!ENTITY smiley16Cmd.tooltip "Futni një fytyrë buzëqepur">
+<!ENTITY SmileButton.label "Futni Emotikon">
 <!ENTITY SmileButton.tooltip "Futni një emotikon">

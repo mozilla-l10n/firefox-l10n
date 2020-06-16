@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Depozitim Mesazhesh">
 <!ENTITY securitySettings.label "Rregullime Sigurie">
 <!ENTITY serverSettings.label "Rregullime Shërbyesi">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Portë:">
 <!ENTITY port.accesskey "o">
 <!ENTITY serverPortDefault.label "Parazgjedhje:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "S">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Pyetmë para se të shkarkosh më shumë se">
 <!ENTITY maxMessagesStart.accesskey "P">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "k">
 <!ENTITY newsrcFilePath.label "kartelë newsrc:">
 <!ENTITY newsrcPicker.label "Përzgjidhni Kartelë newsrc">
+<!ENTITY newsrcFilePath1.label "Kartelë News.rc:">
+<!ENTITY newsrcPicker1.label "Përzgjidhni Kartelë News.rc">
 <!ENTITY abbreviate.label "Trego emra grupe lajmesh tek pjesa Dosje Poste si:">
 <!ENTITY abbreviateOn.label "Emra të plotë (Për shembull, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Emra të shkurtuar (Për shembull, 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "m">
 <!ENTITY serverDefaultCharset2.label "Kodim Parazgjedhje Tekstesh:">
 <!ENTITY localPath.label "Drejtori vendore:">
+<!ENTITY localPath1.label "Drejtori Vendore:">
 <!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
 <!ENTITY browseFolder.label "Shfletoni…">
 <!ENTITY browseFolder.accesskey "S">
