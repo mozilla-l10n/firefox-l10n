@@ -147,6 +147,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = اس لاگ ان کو ہٹائیں؟
 confirm-delete-dialog-message = یہ عمل کلعدم نہیں ہو سکتا۔
 about-logins-confirm-remove-dialog-confirm-button = ہٹائیں
+about-logins-confirm-export-dialog-confirm-button = برآمد کریں…
 confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ہٹاییں؟
 confirm-discard-changes-dialog-message = سبھی غیر محفوظ شدہ تبدیلیاں ختم ہوجائیں گی۔
 confirm-discard-changes-dialog-confirm-button = رد کريں
