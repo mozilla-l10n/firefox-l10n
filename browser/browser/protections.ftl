@@ -122,6 +122,8 @@ monitor-link = Kiel funkcias tio
 monitor-header-content-no-account = Kontrolu { -monitor-brand-name } por vidi ĉu vi estis viktimo de konata datumfuĝo kaj ricevu atentigojn pri novaj datumfuĝoj.
 monitor-header-content-signed-in = { -monitor-brand-name } avertas vin se viaj informoj aperas en konata datumfuĝo.
 monitor-sign-up = Abonu la atentigojn pri datumfuĝoj
+monitor-sign-up-link = Aboni la atentigojn pri datumfuĝoj
+    .title = Aboni la atentigojn pri datumfuĝoj en { -monitor-brand-name }
 auto-scan = Aŭtomate kontrolitaj hodiaŭ
 monitor-emails-tooltip =
     .title = Vidi prizorgatajn retpoŝtajn adresojn en { -monitor-brand-short-name }
@@ -146,6 +148,14 @@ info-known-breaches-found =
        *[other] konataj datumfuĝoj elmetis viajn informojn
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Konata datumfuĝo markita kiel solvita
+       *[other] Konataj datumfuĝoj markitaj kiel solvitaj
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -162,7 +172,19 @@ password-warning =
         [one] Konservita legitimilo estis eble elmetita de datumfuĝo. Ŝanĝu tiun ĉi pasvorton por pli bona sekureco reta. <a data-l10n-name="lockwise-link">Vidi konservitajn legitimiloj</a>
        *[other] Konservitaj legitimiloj estis eble elmetitaj de datumfuĝo. Ŝanĝu tiujn ĉi pasvortojn por pli bona sekureco reta. <a data-l10n-name="lockwise-link">Vidi konservitajn legitimiloj</a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Pasvorto elmetita en ne solvitaj datumfuĝoj
+       *[other] Pasvortoj elmetitaj en ne solvitaj datumfuĝoj
+    }
 monitor-no-breaches-title = Bonaj novaĵoj!
+monitor-no-breaches-description = Vi ne aperas en iu ajn konata datumfuĝo. Se tio ŝanĝiĝas, ni sciigos vin pri tio.
+monitor-view-report-link = Vidi raporton
+    .title = Solvi datumfuĝojn en { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Solvu viajn datumfuĝojn
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
