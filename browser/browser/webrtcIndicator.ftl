@@ -11,3 +11,4 @@
 webrtc-sharing-window = Trenutno delite drugo okno aplikacije.
 webrtc-sharing-browser-window = Trenutno delite { -brand-short-name }.
 webrtc-sharing-screen = Trenutno delite svoj celoten zaslon
+webrtc-stop-sharing-button = Končaj deljenje
