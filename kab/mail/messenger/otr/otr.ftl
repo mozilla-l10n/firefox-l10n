@@ -4,6 +4,11 @@
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-encryption_required_part1 = Tεerḍeḍ ad tazneḍ izen ur iwgelhen ara i { $name }. S umata, iznan ur iwgelhen ara, ur ttusirgen ara.
+msgevent-encryption_required_part2 = Aneεruḍ n usenker n udiwenni uslig. Izen-inek/inem ad yettwazen tikkelt tis snat mi ara yebdu udiwenni uslig.
+msgevent-encryption_error = Tella-d tuccḍa deg uwgelhen n yizen-inek/inem. Izen ur yettwazen ara.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = Izen aneggaru yettwazen tikkelt-nniḍen i { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
