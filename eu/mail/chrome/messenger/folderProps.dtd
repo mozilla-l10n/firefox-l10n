@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Izena:">
 <!ENTITY folderProps.name.accesskey              "I">
+<!ENTITY folderProps.color.label                 "Ikono kolorea:">
+<!ENTITY folderProps.color.accesskey             "k">
+<!ENTITY folderProps.reset.tooltip               "Berrezarri kolore lehenetsia">
 <!ENTITY folderProps.location.label              "Kokalekua:">
 <!ENTITY folderProps.location.accesskey          "l">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Pribilegioak…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Hurrengo baimenak dituzu:">
+<!ENTITY folderOtherUsers.label                  "Karpetara honetara sarrera duten beste batzuk:">
 <!ENTITY folderType.label                        "Karpeta mota:">
 
 <!ENTITY folderQuotaTab.label                    "Kuota">
