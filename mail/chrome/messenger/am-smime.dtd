@@ -14,11 +14,19 @@
 <!ENTITY encryptionCert.message "Bana gönderilen iletileri şifrelemek ve çözmek için bu sertifikayı kullan:">
 
 <!ENTITY e2eTitle.label "Uçtan uca şifreleme">
+<!ENTITY e2eIntro.description "Şifrelenmiş veya dijital olarak imzalanmış iletiler göndermek için OpenPGP veya S/MIME gibi bir şifreleme teknolojisini yapılandırmanız gerekir.">
 <!ENTITY e2eLearnMore.label "Daha fazla bilgi al">
 
+<!ENTITY e2eEnc.description "Uçtan uca şifreleme olmazsa iletilerinizin içeriği kolayca e-posta sağlayıcınız ve başkaları tarafından gözetlenebilir.">
+<!ENTITY e2eeReqWarning.description "Şifrelemeyi zorunlu tutarsanız ileti göndermek için her alıcının ortak anahtarına veya sertifikasına sahip olmanız gerekir.">
 
+<!ENTITY e2eSigning.description "Dijital imza, alıcıların iletinin sizin tarafınızdan gönderildiğini ve içeriğin değiştirilmediğini doğrulamasını sağlar.">
 <!ENTITY e2eTechPref.description "Tercih edilen şifreleme teknolojisi:">
 
+<!ENTITY doNotEncrypt.label "Şifrelemeyi varsayılan olarak etkinleştirme">
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Şifrelemeyi varsayılan olarak zorunlu tut">
+<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Şifreleme için kişisel sertifika:">
 <!ENTITY digitalSign.certificate.button "Seç…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -42,6 +50,7 @@
 
 <!ENTITY signingCert2.message "Dijital imza için kişisel sertifika:">
 
+<!ENTITY sendingDefaults.label "Varsayılan ileti gönderme ayarları">
 
 <!ENTITY technologyAutomatic.label "Kullanılabilir anahtarlara veya sertifikalara göre otomatik olarak seç">
 

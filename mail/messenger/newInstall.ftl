@@ -6,3 +6,4 @@ connection-window =
     .title = Önemli Bir Haber
 continue-button =
     .label = Devam et
+main-text = Bu { -brand-short-name } kurulumunun yeni bir profili var. Bu profildeki e-posta verileriniz, kullanıcı tercihleriniz ve adres defterleriniz bu bilgisayardaki diğer { -brand-product-name } kurulumlarıyla ({ -brand-product-name }, { -brand-product-name } Beta ve { -brand-product-name } Daily dahil) paylaşılmıyor.
