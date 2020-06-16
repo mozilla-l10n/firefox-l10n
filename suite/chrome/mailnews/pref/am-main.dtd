@@ -13,6 +13,7 @@
 <!ENTITY name.accesskey "j">
 <!ENTITY email.label "E-mailová adresa:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Odpovědět z této identity, když se záhlaví dodání shoduje:">
 <!ENTITY replyTo.label "Adresa pro odpověď:">
 <!ENTITY replyTo.accesskey "d">
 <!ENTITY replyTo.placeholder "Příjemci budou odpovídat na tuto adresu">

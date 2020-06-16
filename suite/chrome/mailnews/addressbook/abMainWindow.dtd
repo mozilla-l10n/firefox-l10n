@@ -12,6 +12,7 @@
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Kontakt…">
 <!ENTITY newContact.accesskey                           "K">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Skupina…">
 <!ENTITY newListCmd.accesskey                           "S">
 <!ENTITY newAddressBookCmd.label                        "Kontakty…">
@@ -84,6 +85,7 @@
 <!ENTITY newimButton.label                              "Zpráva přes IM">
 <!ENTITY newimButton.accesskey                          "I">
 <!ENTITY printButton.label                              "Tisk">
+<!ENTITY printButton.accesskey                          "T">
 <!ENTITY searchNameAndEmail.placeholder                 "Hledat jméno a e-mail">
 <!ENTITY searchBox.title                                "Hledat">
 

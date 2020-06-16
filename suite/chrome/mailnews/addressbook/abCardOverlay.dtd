@@ -33,6 +33,7 @@
 <!ENTITY DisplayName.accesskey          "n">
 <!ENTITY preferDisplayName.label        "Vždy upřednostnit zobrazované jméno před hlavičkou zprávy">
 <!ENTITY preferDisplayName.accesskey    "u">
+<!ENTITY preferDisplayName2.accesskey   "u">
 <!ENTITY NickName.label                 "Přezdívka:">
 <!ENTITY NickName.accesskey             "e">
 
