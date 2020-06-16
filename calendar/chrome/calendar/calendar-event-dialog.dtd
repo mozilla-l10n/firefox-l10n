@@ -36,6 +36,8 @@
 <!ENTITY event.attendees.notify.label                "Beri tahu peserta">
 <!ENTITY event.attendees.notifyundisclosed.label     "Undangan terpisah untuk masing-masing peserta">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Opsi ini mengirimkan satu surel undangan per peserta. Tiap undangan hanya berisi penerima bersangkutan sehingga identitas peserta lainnya tidak ditampilkan.">
+<!ENTITY event.attendees.disallowcounter.label       "Larang penghitung">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Menunjukkan bahwa Anda tidak akan menerima proposal tandingan">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "l">
@@ -181,7 +183,10 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Terapkan proposal">
+<!ENTITY counter.button.proposal.tooltip2                 "Kolom acara akan diisi menggunakan nilai dari proposal bandingan, hanya menyimpan dengan atau tanpa perubahan tambahan akan memberi tahu semua peserta terkait">
 <!ENTITY counter.button.original.label                    "Terapkan data asli">
+<!ENTITY counter.button.original.tooltip2                 "Kolom akan diatur ke nilai dari acara asal, sebelum proposal tandingan dibuat.">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Judul:" >
@@ -201,6 +206,7 @@
 <!ENTITY event.from.accesskey                             "M">
 <!ENTITY task.from.label                                  "Mulai:" >
 <!ENTITY task.from.accesskey                              "M">
+<!ENTITY event.to.label                                   "Akhir:" >
 <!ENTITY task.to.label                                    "Jatuh Tempo:" >
 <!ENTITY task.to.accesskey                                "o">
 <!ENTITY task.status.label                                "Status:" >
@@ -332,6 +338,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Jumat" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Sabtu" >
 <!ENTITY event.recurrence.pattern.yearly.day.label           "hari" >
+<!ENTITY event.recurrence.of.label                           "dari" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Januari" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Februari" >
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Maret" >
