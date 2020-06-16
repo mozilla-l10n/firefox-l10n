@@ -92,6 +92,52 @@ imported-edge-reading-list = Listë Leximesh (Prej Edge-it)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Historik Shfletimi dhe Faqerojtës
+           *[other] Historik Shfletimi
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Historik Shfletimi dhe Faqerojtës
+           *[other] Historik Shfletimi
+        }
+browser-data-formdata-checkbox =
+    .label = Historik Formularësh të Ruajtur
+browser-data-formdata-label =
+    .value = Historik Formularësh të Ruajtur
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Kredenciale Hyrjesh dhe Fjalëkalime të Ruajtur
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Kredenciale Hyrjesh dhe Fjalëkalime të Ruajtur
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Të parapëlqyer
+            [edge] Të parapëlqyer
+           *[other] Faqerojtës
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Të parapëlqyer
+            [edge] Të parapëlqyer
+           *[other] Faqerojtës
+        }
+browser-data-otherdata-checkbox =
+    .label = Të dhëna të Tjera
+browser-data-otherdata-label =
+    .label = Të dhëna të Tjera
 browser-data-session-checkbox =
     .label = Dritare dhe Skeda
 browser-data-session-label =
