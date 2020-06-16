@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Mezuen biltegiratzea">
 <!ENTITY securitySettings.label "Segurtasun-ezarpenak">
 <!ENTITY serverSettings.label "Zerbitzariaren ezarpenak">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Ataka:">
 <!ENTITY port.accesskey "A">
 <!ENTITY serverPortDefault.label "Lehenetsia:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "E">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Galdetu niri">
 <!ENTITY maxMessagesStart.accesskey "e">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "b">
 <!ENTITY newsrcFilePath.label "newsrc fitxategia:">
 <!ENTITY newsrcPicker.label "Aukeratu newsrc fitxategia">
+<!ENTITY newsrcFilePath1.label "News.rc fitxategia:">
+<!ENTITY newsrcPicker1.label "Aukeratu News.rc fitxategia">
 <!ENTITY abbreviate.label "Erakutsi honela berri-taldeen izenak posta-karpetaren panelean:">
 <!ENTITY abbreviateOn.label "Izen osoak (adibidez, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Izen laburtuak (adibidez, 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "u">
 <!ENTITY serverDefaultCharset2.label "Testu kodeketa lehenetsia:">
 <!ENTITY localPath.label "Direktorio lokala:">
+<!ENTITY localPath1.label "Direktorio lokala:">
 <!ENTITY localFolderPicker.label "Hautatu direktorio lokala">
 <!ENTITY browseFolder.label "Arakatu…">
 <!ENTITY browseFolder.accesskey "A">
