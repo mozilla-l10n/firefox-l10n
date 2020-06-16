@@ -185,6 +185,28 @@ monitor-no-breaches-description = Vi ne aperas en iu ajn konata datumfuĝo. Se t
 monitor-view-report-link = Vidi raporton
     .title = Solvi datumfuĝojn en { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Solvu viajn datumfuĝojn
+monitor-breaches-unresolved-description = Post revizio de la datumfuĝaj detaloj kaj farinte ion por protekti viajn informojn, vi povas marki datumfuĝojn kiel solvitajn.
+monitor-manage-breaches-link = Administri datumfuĝoj
+    .title = Administri datumfuĝoj en { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Tre bone! Vi solvis ĉiujn konatajn datumfuĝojn.
+monitor-breaches-resolved-description = Se via retadreso aperas en nova datumfuĝo, ni sciigos vin pri tio.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } el { $numBreaches } datumfuĝo markitaj kiel solvita
+       *[other] { $numBreachesResolved } el { $numBreaches } datumfuĝoj markitaj kiel solvitaj
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% finita
+monitor-partial-breaches-motivation-title-start = Bona komenco!
+monitor-partial-breaches-motivation-title-middle = Daŭrigu tiel!
+monitor-partial-breaches-motivation-title-end = Preskaŭ finita! Ne ĉesu.
+monitor-partial-breaches-motivation-description = Solvu viajn ceterajn datumfuĝoj en { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Solvi datumfuĝoj
+    .title = Solvi datumfuĝoj en { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
