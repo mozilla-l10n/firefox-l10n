@@ -61,3 +61,7 @@ success-title = Muturretik muturrerako enkriptatzea
 successThem-title = Egiaztatu zure kontaktuaren identitatea
 fail-title = Ezin da egiaztatu
 waiting-title = Egiaztapen eskaria bidalita
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = OTR giltza pribatua sortzean huts egin du: { $error }
