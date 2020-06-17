@@ -7,6 +7,8 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
+<!ENTITY windowTitle2.label "Simpan dan Ubah Teks Pengodean Karakter">
 <!ENTITY documentTitleTitle.label "Judul Laman">
 <!ENTITY documentCharsetTitle2.label "Pengodean Teks">
+<!ENTITY documentCharsetDesc2.label "Pilih pengkodean teks yang ingin Anda simpan di sebuah dokumen:">
 <!ENTITY documentExportToText.label "Ekspor Menjadi Teks">

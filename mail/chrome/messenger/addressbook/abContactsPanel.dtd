@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY propertiesMenu.label               "Properti">
+<!ENTITY abPropertiesMenu.label             "Properti Buku Alamat">
 <!ENTITY contactPropertiesMenu.label        "Properti Kontak">
 
 <!ENTITY abContextMenuButton.tooltip        "Tampilkan Menu Konteks Buku Alamat">
@@ -19,7 +20,13 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Hapus">
 <!ENTITY deleteAddrBookCard.accesskey       "H">
+<!ENTITY propertiesContext.label            "Properti">
+<!ENTITY abPropertiesContext.label          "Properti">
+<!ENTITY editContactContext.label           "Sunting Kontak">
+<!ENTITY editMailingListContext.label       "Sunting Daftar">
 
+<!ENTITY newContactAbContext.label          "Kontak Baru">
+<!ENTITY newListAbContext.label             "Daftar Baru">
 
 <!ENTITY toButton.label                     "Tambahkan ke Kepada:">
 <!ENTITY toButton.accesskey                 "a">
