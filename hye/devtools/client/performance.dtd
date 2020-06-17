@@ -84,6 +84,7 @@
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableAllocations             "Գրանցել յատկացումները">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Գրանցել յիշողութեան բաշխուածութիւնը գործունէութեան ընթացքում։">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
