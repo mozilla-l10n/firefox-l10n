@@ -21,7 +21,7 @@
 <!ENTITY whitelistHeader.accesskey "G">
 
 <!ENTITY ispHeadersWarning.label "Bunu etkinleştirirseniz &brandShortName; bu harici sınıflandırıcı tarafından işaretlenen iletileri gereksiz kabul edecektir.">
-<!ENTITY ispHeaders.label "Şu gereksiz posta üstbilgilerine güven: ">
+<!ENTITY ispHeaders.label "Şu gereksiz posta üst bilgilerine güven:">
 <!ENTITY ispHeaders.accesskey "t">
 
 <!ENTITY junkClassification.label "Seçim">
