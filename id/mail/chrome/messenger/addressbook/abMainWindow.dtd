@@ -121,6 +121,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Ekspor…">
 <!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY preferencesCmd2.label                          "Opsi">
 <!ENTITY preferencesCmdUnix.label                       "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey                   "P">
 
@@ -129,6 +130,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label                            "Daftar Baru">
 <!ENTITY newlistButton.accesskey                        "D">
+<!ENTITY editPropertiesButton.label                     "Sunting">
+<!ENTITY propertiesContext.label                        "Properti">
+<!ENTITY abPropertiesContext.label                      "Properti">
+<!ENTITY editContactContext.label                       "Sunting Kontak">
+<!ENTITY editMailingListContext.label                   "Sunting Daftar">
 <!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Tulis">
 <!ENTITY newmsgButton.accesskey                         "T">
@@ -142,6 +148,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Buat data kenalan baru">
 <!ENTITY newlistButton.tooltip                          "Buat daftar alamat baru">
 <!ENTITY editPropertiesButton.tooltip                   "Ubah item terpilih">
+<!ENTITY editAbPropertiesButton.tooltip                 "Sunting properti dari buku alamat yang dipilih">
+<!ENTITY editContactPropertiesButton.tooltip            "Sunting kontak terpilih">
 <!ENTITY newmsgButton.tooltip                           "Kirim email">
 <!ENTITY newIM.tooltip                                  "Kirim pesan instan atau chatting">
 <!ENTITY deleteButton2.tooltip                          "Hapus item terpilih">
@@ -154,6 +162,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Cari Cepat">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Buku Alamat">
 <!ENTITY GeneratedName.label                            "Nama">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">
