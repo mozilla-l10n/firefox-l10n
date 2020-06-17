@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Buka berkas lokal">
 <!ENTITY saveToolbarCmd.tooltip "Simpan berkas ke lokasi lokal">
 <!ENTITY publishToolbarCmd.tooltip "Unggah berkas ke lokasi terpisah">
+<!ENTITY printToolbarCmd.label "Cetak">
+<!ENTITY printToolbarCmd.tooltip "Cetak laman ini">
