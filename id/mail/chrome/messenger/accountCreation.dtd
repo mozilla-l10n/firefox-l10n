@@ -12,12 +12,15 @@
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Alamat surel yang ada">
 <!ENTITY password.label                  "Sandi:">
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.placeholder            "Sandi">
 <!ENTITY password.text                   "Opsional, akan digunakan untuk memvalidasi nama pengguna">
 <!ENTITY rememberPassword.label          "Ingat sandi">
 <!ENTITY rememberPassword.accesskey      "I">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
 <!ENTITY imapLong.label                  "IMAP (folder daring)">
 <!ENTITY pop3Long.label                  "POP3 (simpan email di komputer Anda)">
@@ -30,7 +33,8 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autentikasi">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP">
+<!ENTITY pop3.label                      "POP">
+<!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Deteksi otomatis">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -38,6 +42,8 @@
 <!ENTITY noEncryption.label              "Tanpa">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
+
+<!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 
 <!ENTITY advancedSetup.label             "Konfigurasi lanjut">
 <!ENTITY advancedSetup.accesskey         "a">
@@ -48,7 +54,7 @@
 <!ENTITY stop.label                      "Stop">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Uji ulang">
@@ -56,6 +62,8 @@
 <!ENTITY manual-edit.label               "Konfigurasi manual">
 <!ENTITY manual-edit.accesskey           "m">
 <!ENTITY open-provisioner.label          "Dapatkan alamat surel baru…">
+
+
 
 
 <!ENTITY warning.label                   "Peringatan!">
