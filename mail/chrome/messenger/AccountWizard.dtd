@@ -17,7 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Haber grubu hesabı">
 <!ENTITY accountTypeNews.accesskey "H">
-
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
 <!ENTITY accountTypeMovemail.accesskey "U">
@@ -121,7 +120,7 @@
 <!ENTITY newsServerNamePrefix.label "Haber Sunucusu Adı (NNTP):">
 <!ENTITY downloadOnLogin.label "İletileri şimdi indir">
 <!ENTITY downloadOnLogin.accesskey "d">
-<!ENTITY deferStorageDesc.label "Bu hesaba ait e-postaları kendi dizininde saklamak istiyorsanız bu kutuyu işaretlemeyin. Böylece bu hesap bir üst seviye hesap olarak görünecektir. Aksi takdirde, Yerel Dizinler Kürsel Gelen Kutusu hesabının parçası olacak.">
+<!ENTITY deferStorageDesc.label "Bu hesaba ait e-postaları kendi dizininde saklamak istiyorsanız bu kutuyu işaretlemeyin. Böylece bu hesap üst seviye hesap olarak görünecektir. Aksi takdirde Yerel Dizinler Küresel Gelen Kutusu hesabının parçası olacaktır.">
 <!ENTITY deferStorage.label "Küresel Gelen Kutusu'nu kullan (postalar Yerel Dizinler'de depolanır)">
 <!ENTITY deferStorage.accesskey "K">
 <!ENTITY clickFinish.label "Bu ayarları kaydederek Hesap Sihirbazı'ndan çıkmak için Bitir'e tıklayın.">
