@@ -185,6 +185,15 @@ monitor-manage-breaches-link = ਸੰਨ੍ਹਾਂ ਦਾ ਬੰਦੋਬਸ�
     .title = { -monitor-brand-short-name } ਰਾਹੀਂ ਸੰਨ੍ਹਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 monitor-breaches-resolved-title = ਵਧੀਆ! ਤੁਸੀਂ ਸਾਰੇ ਜਾਣੀਆਂ-ਪਛਾਣੀਆਂ ਸੰਨ੍ਹਾਂ ਨੂੰ ਹੱਲ ਕਰ ਚੁੱਕੇ ਹੋ।
 monitor-breaches-resolved-description = ਜੇ ਤੁਹਾਡਾ ਈਮੇਲ ਕਿਸੇ ਨਵੀਂ ਲੱਗੀ ਸੰਨ੍ਹ ਵਿੱਚ ਦਿਖਾਈ ਦਿੱਤੀ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਦੱਸਾਂਗੇ।
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% ਪੂਰਾ
+monitor-partial-breaches-motivation-title-start = ਬਹੁਤ ਵਧੀਆ ਸ਼ੁਰੂਆਤ!
+monitor-partial-breaches-motivation-title-middle = ਇੰਝ ਹੀ ਰੱਖੋ!
+monitor-partial-breaches-motivation-title-end = ਲਗਭਗ ਹੋ ਗਿਆ! ਇੰਝ ਹੀ ਰੱਖੋ।
+monitor-partial-breaches-motivation-description = ਆਪਣੇ ਬਾਕੀ ਰਹਿੰਦੀਆਂ ਸੰਨ੍ਹਾਂ ਨੂੰ { -monitor-brand-short-name } ਰਾਹੀਂ ਹੱਲ ਕਰੋ।
+monitor-resolve-breaches-link = ਲੱਗੀਆਂ ਸੰਨ੍ਹਾਂ ਨੂੰ ਹੱਲ ਕਰੋ
+    .title = { -monitor-brand-short-name } ਰਾਹੀਂ ਲੱਗੀਆਂ ਸੰਨ੍ਹਾਂ ਨੂੰ ਹੱਲ ਕਰੋ
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
