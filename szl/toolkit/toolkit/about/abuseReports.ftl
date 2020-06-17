@@ -76,3 +76,21 @@ abuse-report-broken-reason-theme = Niy funguje abo psuje wyglōnd przeglōndarki
 abuse-report-broken-reason-extension-v2 = Niy funguje, psuje strōny abo spōmalo aplikacyjo { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Niy funguje abo psuje wyglōnd przeglōndarki
 abuse-report-broken-example = Przikłod: Funkcyje fungujōm pōmału, ciynżko ich użyć, abo blank niy fungujōm; kōnski strōny niy ladujōm sie abo dziwnie wyglōndajōm.
+abuse-report-broken-suggestions-extension =
+    Zdowo sie, iże mosz znodniynty feler. Krōm posłanio sam raportu, nojlepsze do rozwiōnzanio 
+    problymu je dać ô nim znać do autorōw rozszyrzynio.
+    <a data-l10n-name="support-link">Nawiydź srōna ôd rozszyrzynio</a>, coby znojść dane ôd autorōw.
+abuse-report-broken-suggestions-theme =
+    Zdowo sie, iże mosz znodniynty feler. Krōm posłanio sam raportu, nojlepsze do rozwiōnzanio 
+    problymu je dać ô nim znać do autorōw motywu.
+    <a data-l10n-name="support-link">Nawiydź srōna ôd motywu</a>, coby znojść dane ôd autorōw.
+abuse-report-policy-reason = Zawartość z niynowiściōm, gwołtym, abo czym niylegalnym
+abuse-report-policy-reason-v2 = Mo zawartość z niynowiściōm, gwołtym, abo czym niylegalnym
+abuse-report-policy-suggestions =
+    Pozōr: Raporty ô problymach z autorskimi prawami trza posyłać inaczyj.
+    <a data-l10n-name="report-infringement-link">Użyj tych insztrukcyji</a>, 
+    coby dać znać ô problymie.
+abuse-report-unwanted-reason = To je niychciane rozszyrzynie i niy umia go skasować
+abuse-report-unwanted-reason-v2 = To je niychciane rozszyrzynie i niy umia go skasować
+abuse-report-unwanted-example = Przikłod: Aplikacyjo je zainstalowała bez mojij zgody
+abuse-report-other-reason = Co inkszego
