@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "S">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Fon">
 <!ENTITY FontFaceSelect.tooltip "Pilih Huruf">
 <!ENTITY fontfaceMenu.label "Font">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Ukuran Fon">
 <!ENTITY FontSizeSelect.tooltip "Pilih ukuran huruf">
 <!ENTITY decreaseFontSize.label "Lebih Kecil">
 <!ENTITY decreaseFontSize.accesskey "K">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Properti Daftar…">
 <!ENTITY listPropsCmd.accesskey "D">
 
+<!ENTITY ParagraphSelect.title "Paragraf">
 <!ENTITY ParagraphSelect.tooltip "Pilih format paragraf">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Teks Isi">
@@ -307,16 +310,25 @@
 <!ENTITY TextColorButton.tooltip "Pilih warna untuk teks">
 <!ENTITY BackgroundColorButton.tooltip "Pilih warna untuk latar belakang">
 <!ENTITY throbber.tooltip "Buka laman untuk &vendorShortName;">
+<!ENTITY HighlightColorButton.label "Penyorot">
 <!ENTITY HighlightColorButton.tooltip "Pilih warna penyorot teks">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Ukuran Fon">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Atur ukuran font">
+<!ENTITY smaller.label "Lebih kecil">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ukuran huruf lebih kecil">
+<!ENTITY larger.label "Lebih besar">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Ukuran huruf lebih besar">
+<!ENTITY bold.label "Tebal">
 <!ENTITY boldToolbarCmd.tooltip "Tebal">
+<!ENTITY italic.label "Miring">
 <!ENTITY italicToolbarCmd.tooltip "Miring">
+<!ENTITY underline.label "Garis bawah">
 <!ENTITY underlineToolbarCmd.tooltip "Garis bawah">
+<!ENTITY bullets.label "Butir">
 <!ENTITY bulletListToolbarCmd.tooltip "Terapkan atau hapus daftar berbutir">
+<!ENTITY numbers.label "Angka">
 <!ENTITY numberListToolbarCmd.tooltip "Terapkan atau hapus daftar bernomor">
 <!ENTITY outdentToolbarCmd.tooltip "Turunkan indentasi teks (mundur ke kiri)">
 <!ENTITY indentToolbarCmd.tooltip "Naikkan indentasi teks (maju ke kanan)">
