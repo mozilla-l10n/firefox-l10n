@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = ਬੰਦ ਕੀਤੀ ਟੈਬ ਨੂੰ ਵਾਪਸ ਖੋਲ੍ਹੋ
     .accesskey = U
+tab-context-close-multiple-tabs =
+    .label = ਕਈ ਟੈਬਾਂ ਬੰਦ ਕਰੋ
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਲਵੋ
+            [one] ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਲਵੋ
+           *[other] ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਵਾਪਸ ਲਵੋ
+        }
+    .accesskey = U
 close-tab =
     .label = ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
     .accesskey = c
