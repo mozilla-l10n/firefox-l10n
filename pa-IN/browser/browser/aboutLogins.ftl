@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,12 +18,9 @@ login-app-promo-android =
     .alt = ਇਸ ਨੂੰ Google Play ਤੋਂ ਲਵੋ
 login-app-promo-apple =
     .alt = ਐਪ ਸਟੋਰ ਤੋਂ ਡਾਊਨਲੋਡ ਕਰੋ
-
 login-filter =
     .placeholder = ਲਾਗਇਨ ਖੋਜੋ
-
 create-login-button = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
-
 fxaccounts-sign-in-text = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਪਾਸਵਰਡ ਲਵੋ
 fxaccounts-sign-in-button = { -sync-brand-short-name } ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ
 fxaccounts-avatar-button =
@@ -34,6 +32,7 @@ menu =
     .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = …ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬਰਾਮਦ ਕਰੋ
+about-logins-menu-menuitem-export-logins = …ਲਾਗਇਨ ਐਕਸਪੋਰਟ ਕਰੋ
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ਚੋਣਾਂ
@@ -118,18 +117,21 @@ about-logins-edit-login-os-auth-dialog-message-win = ਆਪਣੇ ਲਾਗਇ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ਸੰਭਾਲੇ ਲਾਗਇਨ ਨੂੰ ਸੋਧੋ
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ਆਪਣੇ ਪਾਸਵਰਡ ਵੇਖਣ ਲਈ ਆਪਣੇ ਵਿੰਡੋਜ਼ ਸਨਦ ਦਿਓ। ਇਹ ਤੁਹਾਡੇ ਖਾਤਿਆਂ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਬਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਉਘਾੜੋ
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = ਆਪਣੇ ਪਾਸਵਰਡ ਕਾਪੀ ਕਰਨ ਲਈ ਆਪਣੇ ਵਿੰਡੋਜ਼ ਸਨਦ ਦਿਓ। ਇਹ ਤੁਹਾਡੇ ਖਾਤਿਆਂ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਬਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰੋ
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = ਆਪਣੇ ਲਾਗਇਨ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰਨ ਲਈ ਆਪਣੇ ਵਿੰਡੋਜ਼ ਸਨਦ ਦਿਓ। ਇਹ ਤੁਹਾਡੇ ਖਾਤਿਆਂ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਬਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = ਸੰਭਾਲੇ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 
 ## Master Password notification
 
@@ -161,11 +163,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = ਰੱਦ ਕਰੋ
 confirmation-dialog-dismiss-button =
     .title = ਰੱਦ ਕਰੋ
-
 about-logins-confirm-remove-dialog-title = ਇਹ ਲਾਗਇਨ ਹਟਾਉਣਾ ਹੈ?
 confirm-delete-dialog-message = ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ ਹੈ।
 about-logins-confirm-remove-dialog-confirm-button = ਹਟਾਓ
-
+about-logins-confirm-export-dialog-title = ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਐਕਸਪੋਰਟ ਕਰੋ
+about-logins-confirm-export-dialog-message = ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਪੜ੍ਹਨਯੋਗ ਲਿਖਤ ਵਜੋਂ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ (ਜਿਵੇਂ, BadP@ssw0rd), ਤਾਂ ਕਰਕੇ ਐਕਸਪੋਰਟ ਕੀਤੀ ਫਾਇਲ ਖੋਲ੍ਹ ਸਕਣ ਵਾਲਾ ਕੋਈ ਵੀ ਉਨ੍ਹਾਂ ਨੂੰ ਵੇਖ ਸਕਦਾ ਹੈ।
+about-logins-confirm-export-dialog-confirm-button = …ਐਕਸਪੋਰਟ ਕਰੋ
 confirm-discard-changes-dialog-title = ਨਾ-ਸੰਭਾਲੀਆਂ ਤਬਦੀਲੀਆਂ ਖ਼ਾਰਜ ਕਰਨੀਆਂ ਹਨ?
 confirm-discard-changes-dialog-message = ਸਾਰੀਆਂ ਨਾ-ਸੰਭਾਲੀਆਂ ਤਬਦੀਲੀਆਂ ਗੁਆਚ ਜਾਣਗੀਆਂ।
 confirm-discard-changes-dialog-confirm-button = ਖ਼ਾਰਜ ਕਰੋ
@@ -196,10 +199,21 @@ about-logins-vulnerable-alert-learn-more-link = ਹੋਰ ਜਾਣੋ
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = ਉਸ ਉਪਭੋਗਤਾ ਨਾਮ ਨਾਲ { $loginTitle } ਲਈ ਐਂਟਰੀ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ । <a data-l10n-name="duplicate-link"> ਮੌਜੂਦਾ ਐਂਟਰੀ ਤੇ ਜਾਓ? </a>
-
 # This is a generic error message.
 about-logins-error-message-default = ਇਸ ਪਾਸਵਰਡ ਨੂੰ ਸੰਭਾਲਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਵਾਪਰੀ ਹੈ।
 
-
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = ਲਾਗਇਨ ਵਾਲੀ ਫਾਇਲ ਐਕਸਪੋਰਟ ਕਰੋ
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = ਐਕਸਪੋਰਟ ਕਰੋ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV ਡੌਕੂਮੈਂਟ
+       *[other] CSV ਫਾਇਲ
+    }
