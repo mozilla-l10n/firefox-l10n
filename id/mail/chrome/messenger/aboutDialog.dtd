@@ -16,14 +16,17 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
+<!ENTITY warningDesc.version        "&brandShortName; bersifat eksperimental dan mungkin tidak stabil.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " adalah sebuah ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "komunitas global">
+<!ENTITY community.exp.end          "bekerja sama untuk menjaga Web tetap terbuka, bagi publik, dan dapat diakses oleh semua orang.">
 
 <!ENTITY community.start2           "&brandShortName; didesain oleh ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
@@ -31,12 +34,14 @@
 <!ENTITY community.middle2          ", sebuah ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komunitas global">
+<!ENTITY community.end3             "bekerja sama untuk menjaga Web tetap terbuka, bagi publik, dan dapat diakses oleh semua orang.">
 
 <!ENTITY helpus.start               "Ingin membantu? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Berikan sumbangan">
 <!ENTITY helpus.middle              " atau ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.thunderbird.net/get-involved/. -->
+<!ENTITY helpus.getInvolvedLink     "mari ikut berperan!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Catatan rilis">
@@ -82,6 +87,7 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.start    "Anda tidak dapat melakukan pemutakhiran selanjutnya pada sistem ini. ">
 <!ENTITY update.unsupported.linkText "Pelajari lebih lanjut">
 <!ENTITY update.unsupported.end      "">
 
@@ -93,6 +99,7 @@
 <!ENTITY update.downloading.start   "Mengunduh versi baru — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "Menerapkan pemutakhiran…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
