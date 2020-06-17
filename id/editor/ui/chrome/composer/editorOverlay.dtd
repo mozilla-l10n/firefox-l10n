@@ -92,6 +92,7 @@
 <!ENTITY size-largeCmd.accesskey "L">
 <!ENTITY size-extraLargeCmd.label "Sangat Besar">
 <!ENTITY size-extraLargeCmd.accesskey "x">
+<!ENTITY size-hugeCmd.label "Sangat Besar">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Gaya Teks">
