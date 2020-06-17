@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Buku Alamat">
+<!ENTITY blankResultsPaneMessage.label                  "Buku alamat ini menampilkan kontak hanya setelah pencarian">
 <!ENTITY localResultsOnlyMessage.label                  "Kontak dari buku alamat jarak jauh tidak ditampilkan hingga Anda mencarinya">
 
 <!-- File Menu -->
@@ -74,6 +75,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY contactPropertiesMenu.label                    "Properti Kontak">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Tampilan">

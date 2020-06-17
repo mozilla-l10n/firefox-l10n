@@ -15,6 +15,7 @@
 <!ENTITY addMailAccountButton.accesskey "E">
 <!ENTITY addIMAccountButton.label "Tambahkan Akun Ngobrol…">
 <!ENTITY addIMAccountButton.accesskey "N">
+<!ENTITY addFeedAccountButton.label "Tambahkan Akun Feed…">
 <!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Tambahkan Akun Lainnya…">
 <!ENTITY addOtherAccountButton.accesskey "L">
@@ -35,3 +36,4 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY accountManager.size "width: 105ch; height: 55em;">
+<!ENTITY accountTree.width "width: 32ch;">
