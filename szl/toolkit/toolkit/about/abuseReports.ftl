@@ -37,9 +37,26 @@ abuse-report-submit-button = Poślij
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Raport ô rozszyrzyniu <span data-l10n-name="addon-name">{ $addon-name }</span> je pociepany.
+abuse-report-messagebar-submitting = Posyłanie raportu ô rozszyrzyniu  <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Dziynkujymy za posłanie raportu. Chcesz skasować rozszyrzynie <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Dziynkujymy za posłanie raportu.
+abuse-report-messagebar-removed-extension = Dziynkujymy za posłanie raportu. Rozszyrzynie <span data-l10n-name="addon-name">{ $addon-name }</span> je skasowane.
+abuse-report-messagebar-removed-theme = Dziynkujymy za posłanie raportu. Motyw <span data-l10n-name="addon-name">{ $addon-name }</span> je skasowany.
+abuse-report-messagebar-error = Przi posyłaniu raportu ô <span data-l10n-name="addon-name">{ $addon-name }</span> pokozoł sie feler.
+abuse-report-messagebar-error-recent-submit = Raport ô rozszyrzyniu <span data-l10n-name="addon-name">{ $addon-name }</span> niy ma posłany, bo niydowno bōł posłany inkszy raport.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Ja, skasuj
+abuse-report-messagebar-action-keep-extension = Niy, ôstow
+abuse-report-messagebar-action-remove-theme = Ja, skasuj
+abuse-report-messagebar-action-keep-theme = Niy, ôstow
+abuse-report-messagebar-action-retry = Sprōbuj zaś
+abuse-report-messagebar-action-cancel = Pociep
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Psuje mōj kōmputer i dane
+abuse-report-damage-reason-v2 = Popsuł mōj kōmputer abo dane
+abuse-report-damage-example = Przikłod: wkludziōł sorōńske programy abo ukrod dane
