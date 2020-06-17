@@ -6,14 +6,11 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ। { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = ਗ਼ਲਤੀ ਕੋਡ: { $error }
-
 psmerr-ssl-disabled = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਕਿਉਂਕਿ SSL ਪਰੋਟੋਕਾਲ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ।
 psmerr-ssl2-disabled = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਕਿਉਂਕਿ ਸਾਇਟ SSL ਪਰੋਟੋਕਾਲ ਦਾ ਪੁਰਾਣਾ, ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ ਵਰਜਨ ਵਰਤ ਰਹੀ ਹੈ।
-
 ssl-error-export-only-server = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਰਚਨਾ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਪੀਅਰ ਹਾਈ-ਗਰੇਡ ਇੰਕ੍ਰਿਪਸ਼ਨ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।
 ssl-error-us-only-server = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਪੀਅਰ ਲਈ ਹਾਈ-ਗਰੇਡ ਇੰਕ੍ਰਿਪਸ਼ਨ ਦੀ ਲੋੜ ਹੈ, ਜੋ ਕਿ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।
 ssl-error-no-cypher-overlap = ਪੀਅਰ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕੀਤਾ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ: ਕੋਈ ਸਾਂਝਾ ਇੰਕ੍ਰਿਪਸ਼ਣ ਐਲਗੋਰਥਿਮ ਨਹੀਂ ਹੈ।
@@ -140,6 +137,9 @@ ssl-error-rx-unexpected-cert-status = SSL ਨੂੰ ਅਣਜਾਣ ਸਰਟੀ
 ssl-error-unsupported-hash-algorithm = TLS ਪੀਅਰ ਵਲੋਂ ਗ਼ੈਰ-ਸਹਾਇਕ ਹੈਸ਼ ਐਲਗੋਰਿਥਮ ਵਰਤਿਆ।
 ssl-error-digest-failure = ਡੀਜ਼ਿਟ ਫੰਕਸ਼ਨ ਫੇਲ੍ਹ ਹੈ।
 ssl-error-incorrect-signature-algorithm = ਡਿਜ਼ਟਲ-ਸਾਈਨ ਕੀਤੇ ਭਾਗ ਵਲੋਂ ਗਲਤ ਦਸਤਖਟ ਐਲਗੋਰਿਥਮ ਦਿੱਤਾ ਗਿਆ।
+ssl-error-weak-server-cert-key = ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਅਜਿਹੀ ਪਬਲਿਕ ਕੁੰਜੀ ਹੈ, ਜੋ ਬਹੁਤ ਕਮਜ਼ੋਰ ਹੈ।
+ssl-error-rx-short-dtls-read = DTLS ਰਿਕਾਰਡ ਲਈ ਬਫ਼ਰ ਵਿੱਚ ਕਾਫ਼ੀ ਜਗ੍ਹਾ ਨਹੀਂ ਹੈ।
+ssl-error-no-supported-signature-algorithm = ਕੋਈ ਵੀ ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ TLS ਦਸਤਖ਼ਤ ਐਲਗੋਰਿਥਮ ਸੰਰਚਿਤ ਨਹੀਂ ਹੈ।
 sec-error-io = ਸੁਰੱਖਿਆ ਅਥੋਰਾਈਜੇਸ਼ਨ ਦੌਰਾਨ ਇੱਕ I/O ਗਲਤੀ ਆਈ ਹੈ।
 sec-error-library-failure = ਸੁਰੱਖਿਆ ਲਾਇਬਰੇਰੀ ਫੇਲ੍ਹ ਹੈ।
 sec-error-bad-data = ਸੁਰੱਖਿਆ ਲਾਇਬਰੇਰੀ: ਖਰਾਬ ਡਾਟਾ ਮਿਲਿਆ।
@@ -280,6 +280,7 @@ sec-error-not-initialized = NSS ਸ਼ੁਰੂ ਨਹੀਂ ਹੈ।
 sec-error-token-not-logged-in = ਓਪਰੇਸ਼ਨ ਫੇਲ੍ਹ ਹੋਇਆ, ਕਿਉਂਕਿ PKCS#11 ਟੋਕਨ ਲਾਗਇਨ ਨਹੀਂ ਹੈ।
 sec-error-ocsp-responder-cert-invalid = OCSP ਰਸਪੋਡਰ ਦਾ ਸੰਰਚਿਤ ਸਰਟੀਫਿਕੇਟ ਅਵੈਧ ਹੈ।
 sec-error-ocsp-bad-signature = OCSP ਜਵਾਬ ਵਿੱਚ ਗਲਤ ਦਸਤਖਤ ਹਨ।
+sec-error-out-of-search-limits = ਸਰਟੀਫਿਕੇਟ ਵੈਧਤਾ ਖੋਜ ਖੋਜ ਹੱਦਾਂ ਤੋਂ ਬਾਹਰ ਹੈ
 sec-error-invalid-policy-mapping = ਪਾਲਸੀ ਮੈਪਿੰਗ ਵਿੱਚ ਕੋਈ ਵੀ ਪਾਲਸੀ ਹੈ
 sec-error-bad-http-response = ਸਰਵਰ ਨੇ ਗਲਤ HTTP ਜਵਾਬ ਵਾਪਿਸ ਭੇਜਿਆ
 sec-error-bad-ldap-response = ਸਰਵਰ ਨੇ ਗਲਤ LDAP ਜਵਾਬ ਵਾਪਿਸ ਭੇਜਿਆ
@@ -297,3 +298,4 @@ mozilla-pkix-error-v1-cert-used-as-ca = An X.509 version 1 certificate that is n
 mozilla-pkix-error-not-yet-valid-certificate = ਸਰਵਰ ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਹਾਲੇ ਜਾਇਜ਼ ਨਹੀਂ ਹੈ।
 mozilla-pkix-error-not-yet-valid-issuer-certificate = ਸਰਟੀਫਿਕੇਟ, ਜੋ ਕਿ ਹਾਲੇ ਜਾਇਜ਼ ਨਹੀਂ ਹੈ, ਨੂੰ ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਜਾਰੀ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ।
 mozilla-pkix-error-required-tls-feature-missing = ਇੱਕ ਲੋੜੀਂਦੀ TLS ਵਿਸ਼ੇਸ਼ਤਾ ਗੁੰਮ ਹੈ।
+mozilla-pkix-error-self-signed-cert = ਸਰਟੀਫਿਕੇਟ ਉੱਤੇ ਖੁਦ ਦੇ ਦਸਤਖਤ ਕੀਤੇ ਜਾਣ ਕਰਕੇ ਸਰਟੀਫਿਕੇਟ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਹੈ।
