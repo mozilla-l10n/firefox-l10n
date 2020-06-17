@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ
 appmenuitem-protection-report-tooltip =
     .tooltiptext = ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਰਿਪੋਰਟ ‘ਤੇ ਜਾਓ
+appmenuitem-protection-dashboard-title = ਸੁਰੱਖਿਆ ਡੈਸ਼ਬੋਰਡ
 appmenuitem-customize-mode =
     .label = …ਪਸੰਦ
 
@@ -26,3 +27,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ਨਵਾਂ ਕੀ ਹੈ
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = ਨਵੇਂ ਫ਼ੀਚਰਾਂ ਬਾਰੇ ਸੂਚਿਤ ਕਰੋ
+    .accesskey = f
