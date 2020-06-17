@@ -326,14 +326,18 @@ multi-process-status-8 = Zastawiōny skuli przikazu
 multi-process-status-unknown = Niypoznany status
 async-pan-zoom = Asynchrōniczno panorama/zwiynkszanie
 apz-none = żodne
-wheel-enabled = Wkludzanie kōłkiym myszki je załōnczōne
-touch-enabled = Wkludzanie tykaniym je załōnczōne
-drag-enabled = Przeciōnganie poska przewijanio je załōnczōne
+wheel-enabled = wkludzanie kōłkiym myszki je załōnczōne
+touch-enabled = wkludzanie tykaniym je załōnczōne
+drag-enabled = przeciōnganie poska przekryncanio je załōnczōne
 keyboard-enabled = tastatura je załōnczōno
+autoscroll-enabled = autōmatyczne przekryncanie je załōnczōne
+zooming-enabled = płynne powiynkszanie gestym je załōnczōne
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = asynchrōniczne wkludzanie kōłkiym myszki je zastawiōne skuli niyôbsugowanyj preferyncyje: { $preferenceKey }
+touch-warning = asynchrōniczne wkludzanie tykaniym je zastawiōne skuli niyôbsugowanyj preferyncyje: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
