@@ -61,6 +61,7 @@ about-networking-title = Chi rij ri rokisaxik ri b'ey
 about-networking-http = HTTP
 about-networking-sockets = Chuq'b'äl
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Tijosq'ïx DNS Jumejyak
 about-networking-dns-suffix = DNS rij tzij
 about-networking-websockets = WebSockets
 about-networking-refresh = Titzolïx
