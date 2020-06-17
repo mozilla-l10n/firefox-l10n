@@ -57,11 +57,11 @@ rcwn-avg-long = Grande moyenne
 rcwn-std-dev-long = Grand écart-type
 rcwn-cache-slow = Nombre de fois où le cache est lent
 rcwn-cache-not-slow = Nombre de fois où le cache est rapide
-
 about-networking-title = Informations réseau
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Vider le cache DNS
 about-networking-dns-suffix = Suffixe DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Actualiser
