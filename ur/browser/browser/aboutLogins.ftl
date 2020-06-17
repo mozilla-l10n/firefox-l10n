@@ -76,6 +76,7 @@ about-logins-login-intro-heading-logged-in = کوئی سینکڈ لاگ ان ن�
 login-intro-description = اگر آپ نے اپنے لاگ انز { -brand-product-name } کو کسی دوسرے آلے پر محفوظ کیاہوا ہے تو، انہیں یہاں حاصل کرنے کا طریقہ یوں ہے:
 login-intro-instruction-fxa = وہ آلہ جہاں آپ کے لاگ انز محفوظ ہیں ان پر اپنا { -fxaccount-brand-name } بنائیں یا سائن ان کریں
 login-intro-instruction-fxa-settings = یقینی بنائیں کہ آپ نے { -sync-brand-short-name } کے سیٹنگز میں لاگ انس کے چیک باکس کو منتخب کیا ہے
+about-logins-intro-instruction-help = مزید مدد کے لئے <a data-l10n-name="help-link">{ -lockwise-brand-short-name } معاونت</a> پر جائیں
 about-logins-intro-import = اگر آپ کے لاگ انز کسی دوسرے براؤزر میں محفوظ ہیں تو ، آپ <a data-l10n-name="import-link"> ان کو { -lockwise-brand-short-name }</a> میں درآمد کرسکتے ہیں
 
 ## Login
