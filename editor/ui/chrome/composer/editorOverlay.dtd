@@ -29,6 +29,7 @@
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd2.label "Tautan…">
 <!ENTITY insertLinkCmd2.accesskey "T">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Penanda Bernama…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Gambar…">
@@ -81,9 +82,16 @@
 
 <!ENTITY fontSizeMenu.label "Ukuran">
 <!ENTITY fontSizeMenu.accesskey "U">
+<!ENTITY size-tinyCmd.label "Mungil">
+<!ENTITY size-tinyCmd.accesskey "T">
 <!ENTITY size-smallCmd.label "Kecil">
+<!ENTITY size-smallCmd.accesskey "S">
 <!ENTITY size-mediumCmd.label "Sedang">
+<!ENTITY size-mediumCmd.accesskey "M">
 <!ENTITY size-largeCmd.label "Besar">
+<!ENTITY size-largeCmd.accesskey "L">
+<!ENTITY size-extraLargeCmd.label "Sangat Besar">
+<!ENTITY size-extraLargeCmd.accesskey "x">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Gaya Teks">
