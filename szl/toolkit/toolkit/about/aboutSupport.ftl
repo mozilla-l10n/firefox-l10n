@@ -105,6 +105,7 @@ a11y-title = Dostympność
 a11y-activated = Aktywowano
 a11y-force-disabled = Zastow dostympność
 a11y-handler-used = Użyto je ôbsuga dostympności
+a11y-instantiator = Usuga do dostympności
 library-version-title = Wersyje bibliotyk
 copy-text-to-clipboard-label = Kopiuj tekst do kamerlika
 copy-raw-data-to-clipboard-label = Kopiuj surowe dane do kamerlika
@@ -305,6 +306,8 @@ sandbox-proc-type-data-decoder = dekoder danych
 startup-cache-title = Podrynczno pamiynć sztartowanio
 startup-cache-disk-cache-path = Cesta ku podryncznyj pamiynci na dysku
 startup-cache-ignore-disk-cache = Ignoruj pamiynć podrynczno na dysku
+startup-cache-found-disk-cache-on-init = Podrynczno pamiyńć na dysku je znaleziōno przi inicjacyji
+startup-cache-wrote-to-disk-cache = Zapisane do podryncznyj pamiynci
 launcher-process-status-0 = Załōnczōny
 launcher-process-status-1 = Zastawiōny skuli awaryje
 launcher-process-status-2 = Zastawiōny skuli przikazu
@@ -316,10 +319,17 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Załōnczōny ôd używocza
 multi-process-status-1 = Bazowo załōnczōny
 multi-process-status-2 = Zastawiuny
+multi-process-status-4 = Zastawiōne ôd noczyń dostympu
+multi-process-status-6 = Zastawiōne skuli niyôbsugowanego wkludzanio tekstu
 multi-process-status-7 = Zastawiōne skuli rozszyrzyń
 multi-process-status-8 = Zastawiōny skuli przikazu
 multi-process-status-unknown = Niypoznany status
+async-pan-zoom = Asynchrōniczno panorama/zwiynkszanie
 apz-none = żodne
+wheel-enabled = Wkludzanie kōłkiym myszki je załōnczōne
+touch-enabled = Wkludzanie tykaniym je załōnczōne
+drag-enabled = Przeciōnganie poska przewijanio je załōnczōne
+keyboard-enabled = tastatura je załōnczōno
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
