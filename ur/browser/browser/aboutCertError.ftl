@@ -86,6 +86,7 @@ unknownSocketType-title = سرور کی طرف سے غیر متوقع جواب
 nssFailure2-title = قابل بھروسا کنکشن ناکام ہو گیا ہے
 cspBlocked-title = مواد سیکیورٹی پالسی کے تحت بلاک
 xfoBlocked-title = ایکس-فریم آپشنز پالیسی کے ذریعہ روکیں
+csp-xfo-error-title = { -brand-short-name } اس صفہ کو نہیں کھول سکتا
 corruptedContentError-title = خراب مواد نقص
 remoteXUL-title = بعید XUL
 sslv3Used-title = حفاظتی طور پر جڑنے میں ناکام

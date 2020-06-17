@@ -32,6 +32,7 @@ menu =
     .title = مینیو کھولیں
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = دوسرے براؤزر سے درآمد کریں…
+about-logins-menu-menuitem-export-logins = لاگ انس برآمد کریں…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] اختیارات
