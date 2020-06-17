@@ -37,8 +37,17 @@ inactive-css-property-is-impossible-to-override-in-visited = <strong>․այցե
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
-inactive-css-not-grid-or-flex-container-fix = Փորձեք աւելացնել <strong>ցուցադրել․ցանցը</strong> կամ <strong>ցուցադրել։սնուցիչը</strong>։ { learn-more }
-inactive-css-not-grid-or-flex-item-fix = Փորձեք աւելացնել <strong>ցուցադրել․ցանցը</strong>, <strong>ցուցադրել․սնուցիչը</strong>, <strong>ցուցադրել․ներտողային֊ցանցը</strong> կամ <strong>ցուցադրել․ներտողային֊սնուցիչը</strong>։ { learn-more }
+inactive-css-not-grid-or-flex-container-fix = Փորձէք աւելացնել <strong>ցուցադրել․ցանցը</strong> կամ <strong>ցուցադրել։սնուցիչը</strong>։ { learn-more }
+inactive-css-not-grid-or-flex-item-fix = Փորձէք աւելացնել <strong>ցուցադրել․ցանցը</strong>, <strong>ցուցադրել․սնուցիչը</strong>, <strong>ցուցադրել․ներտողային֊ցանցը</strong> կամ <strong>ցուցադրել․ներտողային֊սնուցիչը</strong>։ { learn-more }
 inactive-css-not-grid-item-fix = Փորձէք տարրի վերադասին աւելացնել <strong>ցուցադրել․ցանցը</strong> կամ <strong>ցուցադրել․ներտողային֊ցանցը</strong>։ { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Փորձէք աւելացնել կամ <strong>ցուցադրել․ցանցը</strong>, <strong>ցուցադրել․սնուցիչը</strong> կամ<strong>սիւնեակներ․2</strong>։{ learn-more }
 inactive-css-not-grid-or-flex-item-fix-2 = Փորձէք աւելացնել <strong>ցուցադրել․ցանցը</strong>, <strong>ցուցադրել․սնուցիչը</strong>, <strong>ցուցադրել․ներտողային-ցանցը</strong> կամ <strong>ցուցադրել․ներտողային-սնուցիչը</strong>։ { learn-more }
+inactive-css-not-grid-item-fix-2 = Փորձէք բաղադրիչների վերադասում աւելացնել <strong>ցուցադրել ցանց</stronըg> կամ <strong>ցուցադրել․ներտողային֊ցանցը</strong>։ { learn-more }
+inactive-css-not-grid-container-fix = Փորձէք աւելացնել <strong>ցուցադրել․ցանցը</strong> կամ <strong>ցուցադրել․ներտողային-ցանցը</strong>։ { learn-more }
+inactive-css-not-flex-item-fix = Փորձէք տարրի վերադասում աւելացնել <strong>ցուցադրել․սնուցիչը</strong> կամ <strong>ցուցադրել․ներտողային-սնուցիչը</strong>։ { learn-more }
+inactive-css-not-flex-item-fix-2 = Փորձէք բաղադրիչների վերադասում աւելացնել <strong>ցուցադրել․սնուցիչը</strong> կամ <strong>ցուցադրել․ներտողային-սնուցիչը</strong>։ { learn-more }
+inactive-css-not-flex-container-fix = Փորձէք աւելացնել <strong>ցուցադրել․սնուցիչը</strong> կամ <strong>ցուցադրել․ներտողային֊սնուցիչը</strong>։ { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Փորձէք աւելացնել <strong>ցուցադրել․ներտող</strong> կամ <strong>ցուցադրել․աղիւսակի֊վանդակը</strong>։ { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Փորձէք աւելացնել <strong>ցուցադրել․ներտողային-արգելափակումը</strong> կամ <strong>ցուցադրել․արգելափակումը</strong>։ { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Փորձէք աւելացնել <strong>ցուցադրել․ներտողային-արգելափակումը</strong>։ { learn-more }
+inactive-css-not-display-block-on-floated-fix = Փորձէք հեռացնել <strong>լողանցումը</strong> կամ աւելացնել <strong>ցուցադրման․արգելափակումը</strong>։ { learn-more }
