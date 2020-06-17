@@ -37,7 +37,7 @@
 <!ENTITY pref.default_task_offset_start.label "Հարաբերական է սկիզբին">
 <!ENTITY pref.default_task_offset_next_hour.label "Հարաբերական է հաջորդ ժամին">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "Այսօրվա փեղկ">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Իրադարձություններ">
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,

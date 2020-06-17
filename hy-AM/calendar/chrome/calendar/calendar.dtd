@@ -59,7 +59,7 @@
 <!ENTITY calendar.unifinder.close.tooltip                  "Փակել իրադարձությունների որոնումը և իրադարձությունների ցուցակը">
 
 <!ENTITY calendar.today.button.tooltip          "Գնալ դեպի այսօր" >
-<!ENTITY calendar.todaypane.button.tooltip      "Ցուցադրել այսօրվա փեղկը" >
+<!ENTITY calendar.todaypane.button.tooltip      "Ցուցադրել օրվա իրադարձությունը" >
 
 <!ENTITY calendar.day.button.tooltip            "Փոխել օրվա դիտմանը" >
 <!ENTITY calendar.week.button.tooltip           "Փոխել շաբաթվա դիտմանը" >
@@ -173,7 +173,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Դնել">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "Այսօրվա փեղկ">
+<!ENTITY calendar.context.button.label                "Իրադարձություններ">
 <!ENTITY calendar.context.button.accesskey            "T">
 
 <!ENTITY calendar.context.attendance.menu.label                 "Մասնակցություն">
