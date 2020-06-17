@@ -50,6 +50,14 @@ options-stylesheet-autocompletion-label = CSS-ի ինքնալրացում
 
 # The heading
 options-sourceeditor-label = Խմբագրի նախըտրանքներ
+options-sourceeditor-tabsize-label = Ներդիրի չափը
+options-sourceeditor-keybinding-default-label = Սկզբնադիր
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Լրացուցիչ կարգաւորումներ
+options-disable-javascript-tooltip =
+    .title = Այս ընտրանքը կանջատի JavaScript-ը տուեալ ներդիրի համար: Եթե ներդիրը կամ գործիքները փակ են, ապա այս ընտրանքը կմոռացուի:
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Միացնել հեռակառավարուող վրիպազերծումը
