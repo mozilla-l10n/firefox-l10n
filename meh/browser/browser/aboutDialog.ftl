@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } nánuku a jíía ink
 update-manual = Naxi´ñao a jíía iyo nuu<label data-l10n-name="manual-link"/>
 update-unsupported = Nkuvika naxi´ñá ka̱a̱ ya´a. <label data-l10n-name="unsupported-link">Kutu´va jiee ya´a</label>
 update-restarting = Nakajie´e...
-channel-description = Ni´inu nasun da naxi´ña<label data-l10n-name="current-channel"></label>.
+channel-description = Ni´inu nasun da naxi´ña <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } ya´a vii iin a jíía je kuvi nkotiñu.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> iin <label data-l10n-name="community-exp-creditsLink">ñuu ñu´un</label> ké´io saa koo ka̱a̱ nántu´un ne jika, nuu kuaiyo da noo´o.
 community-2 = { -brand-short-name } nsá´á <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, iin <label data-l10n-name="community-creditsLink">ñuu ñu´un</label> ké´io saa koo ka̱a̱ nántu´un ne jika, nuu kuaiyo da noo´o.
