@@ -93,6 +93,7 @@
 <!ENTITY size-extraLargeCmd.label "Sangat Besar">
 <!ENTITY size-extraLargeCmd.accesskey "x">
 <!ENTITY size-hugeCmd.label "Sangat Besar">
+<!ENTITY size-hugeCmd.accesskey "H">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Gaya Teks">
@@ -137,6 +138,7 @@
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "y">
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Hapus Penanda Bernama">
 <!ENTITY formatRemoveNamedAnchors.accesskey "H">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
@@ -308,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Pilih warna penyorot teks">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Atur ukuran font">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ukuran huruf lebih kecil">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Ukuran huruf lebih besar">
 <!ENTITY boldToolbarCmd.tooltip "Tebal">

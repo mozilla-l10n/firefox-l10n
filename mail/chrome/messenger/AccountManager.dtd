@@ -4,10 +4,10 @@
 
 <!-- extracted from AccountManager.xul -->
 
-
 <!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "Pengaturan Akun">
+
 
 <!ENTITY accountActionsButton.label "Tambah Akun…">
 <!ENTITY accountActionsButton.accesskey "T">
@@ -15,8 +15,7 @@
 <!ENTITY addMailAccountButton.accesskey "E">
 <!ENTITY addIMAccountButton.label "Tambahkan Akun Ngobrol…">
 <!ENTITY addIMAccountButton.accesskey "N">
-
-
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Tambahkan Akun Lainnya…">
 <!ENTITY addOtherAccountButton.accesskey "L">
 <!ENTITY setDefaultButton.label "Atur sebagai Default">
@@ -25,6 +24,8 @@
 <!ENTITY removeButton.accesskey "H">
 
 <!-- AccountManager.xul -->
+
+<!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
@@ -33,8 +34,4 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-
-<!-- AccountManager.xhtml -->
-<!-- AccountManager.xhtml -->
 <!ENTITY accountManager.size "width: 105ch; height: 55em;">
-
