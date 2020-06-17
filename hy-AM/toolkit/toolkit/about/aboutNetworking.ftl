@@ -61,6 +61,7 @@ about-networking-title = Ցանցի մասին
 about-networking-http = HTTP
 about-networking-sockets = Բնիկներ
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Մաքրել DNS շտեմը
 about-networking-dns-suffix = DNS վերջածանց
 about-networking-websockets = ՎեբԲնիկներ
 about-networking-refresh = Թարմացնել
