@@ -98,6 +98,7 @@
 <!ENTITY selectMenu.label "Pilih">
 <!ENTITY selectMenu.accesskey "P">
 <!ENTITY all.label "Semua">
+<!ENTITY all.accesskey "A">
 <!ENTITY selectThreadCmd.label "Utas">
 <!ENTITY selectThreadCmd.accesskey "U">
 <!ENTITY selectThreadCmd.key "a">
@@ -542,7 +543,6 @@
 <!ENTITY compactButton.tooltip "Buang pesan yang dihapus pada folder terpilih">
 <!ENTITY appmenuButton1.tooltip "Tampilkan Menu &brandShortName;">
 
-
 <!-- Toolbar Button Popup -->
 
 <!-- Remote Content Button Popup -->
@@ -643,6 +643,7 @@
 <!ENTITY idColumn.label "Urutan Diterima">
 <!ENTITY attachmentColumn.label "Lampiran">
 
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Pilih kolom yang ditampilkan">
 <!ENTITY threadColumn2.tooltip "Tampilkan utas pesan">
@@ -660,6 +661,7 @@
 <!ENTITY starredColumn2.tooltip "Urut berdasarkan bintang">
 <!ENTITY locationColumn2.tooltip "Urut berdasarkan lokasi">
 <!ENTITY attachmentColumn2.tooltip "Urut berdasarkan lampiran">
+
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Pesan Baru dari Templat">
@@ -861,3 +863,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY writeNewMessageDock.label      "Tulis Pesan Baru">
 
+<!-- Content tab Navigation buttons -->

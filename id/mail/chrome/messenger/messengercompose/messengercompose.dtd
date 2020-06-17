@@ -29,10 +29,12 @@
 <!ENTITY attachVCardCmd.label "Kartu Pribadi (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "Ingatkan Saya Nanti">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Tutup">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "T">
 <!ENTITY saveCmd.label "Simpan">
+<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Simpan sebagai">
 <!ENTITY saveAsCmd.accesskey "a">
@@ -84,18 +86,15 @@
 <!ENTITY renameAttachmentCmd.label "Ganti nama Lampiran…">
 <!ENTITY renameAttachmentCmd.accesskey "G">
 <!ENTITY reorderAttachmentsCmd.label "Susun Lampiran…">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY selectAllCmd.label "Pilih Semua">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Cari…">
+<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Cari dan Ganti…">
+<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Cari Lagi">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -161,6 +160,7 @@
 <!ENTITY dsnMenu.label "Peringatan Status Pengiriman">
 <!ENTITY dsnMenu.accesskey "P">
 <!ENTITY deliveryFormatMenu.label "Format Pengiriman">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Deteksi Otomatis">
 <!ENTITY autoFormatCmd.accesskey "O">
 <!ENTITY plainTextFormatCmd.label "Teks Polos">
@@ -198,6 +198,9 @@
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Setelan Akun">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 
@@ -235,6 +238,8 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Dari:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Kepada:">
 <!ENTITY ccAddr.label "Cc:">
@@ -252,7 +257,7 @@
      bar). -->
 <!ENTITY attachments.accesskey "L">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Masukkan gambar smiley">
 <!ENTITY smiley1Cmd.label "Tersenyum">
 <!ENTITY smiley2Cmd.label "Kerut">
@@ -326,9 +331,9 @@
 <!ENTITY addressesSidebarTitle.label "Kenalan">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.accesskey "A">
 
 <!-- Accessibility name for the document -->
 <!ENTITY aria.message.bodyName "Badan pesan">
 
 <!-- Status Bar -->
-
