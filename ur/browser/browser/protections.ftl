@@ -41,11 +41,13 @@ mobile-app-title = مزید آلات میں اشتہار ٹریکروں کو م�
 mobile-app-card-content = اشتہار سے باخبر رہنے کے خلاف بلٹ ان تحفظ کے ساتھ موبائل براؤزر کا استعمال کریں۔
 lockwise-title = دوبارہ کبھی پاس ورڈ مت بھولیے
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = پاس ورڈ مینجمنٹ
 lockwise-header-content-logged-in = اپنے تمام آلات پر پاسورڈ محفوظ طریقے سے محفوظ اور سنک کریں۔
 protection-report-view-logins-button = لاگ ان دیکھیں
     .title = محفوظ شدہ لاگ ان دیکھیں
 lockwise-mobile-app-title = اپنے پاس ورڈ ہر جگہ لے جاٴییں
 lockwise-no-logins-card-content = کسی بھی ڈیوائس پر { -brand-short-name } میں محفوظ کردہ پاس ورڈ استعمال کریں۔
+lockwise-how-it-works-link = یہ کیسے کام کرتا ہے
 turn-on-sync = { -sync-brand-short-name } چالو کریں
     .title = سنک ترجیحات  پر جائے
 manage-connected-devices = آلات… کو بندرست کریں
