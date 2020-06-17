@@ -8,6 +8,7 @@
 
 <!ENTITY accountManagerTitle.label "Pengaturan Akun">
 
+<!ENTITY  accountManagerCloseButton.label "Tutup">
 
 <!ENTITY accountActionsButton.label "Tambah Akun…">
 <!ENTITY accountActionsButton.accesskey "T">
