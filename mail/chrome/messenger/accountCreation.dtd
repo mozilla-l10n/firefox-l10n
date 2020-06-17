@@ -7,18 +7,23 @@
 <!ENTITY name.label                      "Nama Anda:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Nama Lengkap">
+<!ENTITY fullname.placeholder            "Nama lengkap Anda">
 <!ENTITY name.text                       "Nama Anda, untuk ditampilkan">
+<!ENTITY name.error                      "Masukkan nama Anda.">
 <!ENTITY email.label                     "Alamat email:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Alamat surel Anda">
 <!ENTITY email.text                      "Alamat surel yang ada">
+<!ENTITY email.error                     "Alamat surel tidak valid.">
 <!ENTITY password.label                  "Sandi:">
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.placeholder            "Sandi">
 <!ENTITY password.text                   "Opsional, akan digunakan untuk memvalidasi nama pengguna">
 <!ENTITY rememberPassword.label          "Ingat sandi">
 <!ENTITY rememberPassword.accesskey      "I">
+<!ENTITY usernameEx.label                "Info masuk Anda">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
