@@ -7,7 +7,7 @@
 <!ENTITY identitiesListAdd.accesskey  "E">
 <!ENTITY identitiesListEdit.label "Düzenle…">
 <!ENTITY identitiesListEdit.accesskey "e">
-<!ENTITY identitiesListDefault.label "Varsayılan olarak ata">
+<!ENTITY identitiesListDefault.label "Varsayılan yap">
 <!ENTITY identitiesListDefault.accesskey "V">
 <!ENTITY identitiesListDelete.label "Sil">
 <!ENTITY identitiesListDelete.accesskey "S">

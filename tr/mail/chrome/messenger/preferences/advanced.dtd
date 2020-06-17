@@ -9,7 +9,7 @@
 <!ENTITY itemCertificates.label  "Sertifikalar">
 
 <!-- General Settings -->
-<!ENTITY enableGlodaSearch.label       "Küresel aramayı ve dizin oluşturmayı etkinleştir">
+<!ENTITY enableGlodaSearch.label       "Global aramayı ve dizin oluşturmayı etkinleştir">
 <!ENTITY enableGlodaSearch.accesskey   "o">
 <!ENTITY dateTimeFormatting.label      "Tarih ve saat biçimi">
 <!ENTITY languageSelector.label        "Dil">
