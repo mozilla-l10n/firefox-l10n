@@ -57,11 +57,11 @@ rcwn-avg-long = Promedio largo
 rcwn-std-dev-long = Desviación estándar larga
 rcwn-cache-slow = Contador de caché lento
 rcwn-cache-not-slow = Contador de caché no lento
-
 about-networking-title = Acerca de Redes
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Limpiar caché de DNS
 about-networking-dns-suffix = Sufijo DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Refrescar
