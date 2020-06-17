@@ -14,3 +14,10 @@ auth-your-fp-value = Hatz-marka zuretzat, { $own_name }:
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Hatz-marka { $own_name }(e)ntzat:
+auth-help = Kontaktuen identitatea egiaztatzeak zure elkarrizketa benetan pribatua dela ziur egoten laguntzen dizu, oso zaila eginez hirugarrenei entzutea edo elkarrizketa manipulatzea.
+auth-helpTitle = Egiaztapen laguntza
+auth-questionReceived = Hau da zure kontaktuak eginiko galdera:
+auth-yes =
+    .label = Bai
+auth-no =
+    .label = Ez
