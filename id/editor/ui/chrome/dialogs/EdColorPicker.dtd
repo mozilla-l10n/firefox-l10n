@@ -6,6 +6,7 @@
 <!ENTITY lastPickedColor.label "Warna terakhir yang diambil">
 <!ENTITY lastPickedColor.accessKey "t">
 <!ENTITY chooseColor1.label "Pilih warna:">
+<!ENTITY chooseColor2.label "Masukkan string warna HTML">
 <!ENTITY setColorExample.label "(contoh: &quot;#0000ff&quot; atau &quot;blue&quot;):">
 <!ENTITY default.label "Default">
 <!ENTITY default.accessKey "D">

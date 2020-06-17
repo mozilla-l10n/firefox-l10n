@@ -332,11 +332,16 @@
 <!ENTITY numberListToolbarCmd.tooltip "Terapkan atau hapus daftar bernomor">
 <!ENTITY outdentToolbarCmd.tooltip "Turunkan indentasi teks (mundur ke kiri)">
 <!ENTITY indentToolbarCmd.tooltip "Naikkan indentasi teks (maju ke kanan)">
+<!ENTITY AlignPopupButton.label "Rata">
 <!ENTITY AlignPopupButton.tooltip "Pilih jenis rata paragraf">
 <!ENTITY InsertPopupButton.tooltip "Sisipkan Tautan, Penanda, Gambar, Garis Mendatar, atau Tabel">
+<!ENTITY alignLeftButton.label "Rata Kiri">
 <!ENTITY alignLeftButton.tooltip "Buat rata kiri pada margin kiri">
+<!ENTITY alignCenterButton.label "Rata Tengah">
 <!ENTITY alignCenterButton.tooltip "Buat teks rata tengah">
+<!ENTITY alignRightButton.label "Rata Kanan">
 <!ENTITY alignRightButton.tooltip "Buat teks rata kanan pada margin kanan">
+<!ENTITY alignJustifyButton.label "Rata Kiri-Kanan">
 <!ENTITY alignJustifyButton.tooltip "Buat teks rata pada margin kiri dan kanan">
 
 <!-- Structure Toolbar Context Menu items -->
