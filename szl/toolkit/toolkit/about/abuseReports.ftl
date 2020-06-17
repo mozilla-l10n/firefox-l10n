@@ -20,9 +20,16 @@ abuse-report-learnmore =
 abuse-report-submit-description = Ôpisz problym (niy trza)
 abuse-report-textarea =
     .placeholder = Snadnij pochytōmy problym, jak nōm ôpiszesz, ô co sie rozchodzi. Dziynkujymy za pōmoc w polepszaniu internetu.
+abuse-report-submit-note =
+    Pozōr: Niy dowej żodnych ôsobistych informacyji (bez przikłod miana, emailowyj adresy, nōmeru telefōnu, pocztowyj adresy).
+    { -vendor-short-name } spamiyntuje wszyskie raporty na zawdy.
 
 ## Panel buttons.
 
+abuse-report-cancel-button = Pociep
+abuse-report-next-button = Dalij
+abuse-report-goback-button = Nazod
+abuse-report-submit-button = Poślij
 
 ## Message bars descriptions.
 
