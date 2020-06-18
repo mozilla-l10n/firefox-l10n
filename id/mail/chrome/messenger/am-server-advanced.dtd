@@ -22,6 +22,8 @@
 <!ENTITY otherUsersNamespace.accesskey "L">
 <!ENTITY overrideNamespaces.label "Izinkan server untuk mengganti namespace ini">
 <!ENTITY overrideNamespaces.accesskey "I">
+<!ENTITY pop3DeferringDesc.label "Saat mengunduh surel dari server akun ini, gunakan folder berikut untuk menyimpan pesan baru:">
+<!ENTITY accountInbox.label "Kotak masuk untuk akun ini">
 <!ENTITY deferToServer.label "Kotak masuk untuk akun yang lain">
 <!ENTITY deferToServer.accesskey "l">
 <!ENTITY deferGetNewMail.label "Sertakan server ini saat mengunduh email baru">

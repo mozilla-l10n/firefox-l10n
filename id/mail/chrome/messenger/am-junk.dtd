@@ -16,6 +16,7 @@
 <!ENTITY purge1.accesskey "l">
 <!ENTITY purge2.label "hari">
 
+<!ENTITY whitelistHeader.label "Jangan secara otomatis menandai surel sebagai sampah jika pengirimnya berada di:">
 
 <!ENTITY ispHeaders.label "Percayai header email junk yang dikirim oleh: ">
 <!ENTITY ispHeaders.accesskey "P">
