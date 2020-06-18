@@ -24,6 +24,9 @@ msgevent-rcvdmsg_not_private = Zaklučowana powěsć wot { $name } je nječitajo
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_unreadable = Sće nječitajomnu powěsć wot { $name } přijał.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = Sće wot { $name } wobškodźene daty dóstał.
 # A Heartbeat is a technical message used to keep a connection alive.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -32,14 +35,30 @@ msgevent-log_heartbeat_rcvd = Zwiskzdźerženska zdźělenka přijata wot { $nam
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log_heartbeat_sent = Zwiskzdźerženska zdźělenka pósłana do { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Njewočakowany zmylk je nastał, mjeztym sće spytał, wašu rozmołwu z pomocu OTR škitać.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
 msgevent-rcvdmsg_unencrypted = Slědowaca powěsć wot { $name } njebě zaklučowana: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Sće wot { $name } njespóznatu OTR-powěsć dóstał.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } je powěsć pósłał, kotraž bě za druhe posedźenje myslena. Jeli sće so wjackróć přizjewił, je snano druhe posedźenje powěsć dóstało.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Priwatna konwersacija z { $name } je so započała.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_unverified = Zaklučowana, ale njewobkrućena konwersacija z { $name } je so započała.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Zaklučowana rozmołwa z { $name } je so wuspěšnje wobnowiła.
+error-enc = Při zaklučowanju powěsće je zmylk nastał.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Sće { $name } zaklučowane daty pósłał, kotrež wón njeje wočakował.
 resent = [znowa pósłany]
