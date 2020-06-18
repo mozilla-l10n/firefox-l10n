@@ -26,6 +26,8 @@ learn-more = <span data-l10n-name="link">अधिक जानें</span>
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> या <strong>display:flex</strong> को जोड़ने की कोशिश करें। { learn-more }
+inactive-css-not-grid-or-flex-item-fix = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> या <strong>display:inline-flex</strong> को जोड़ने की कोशिश करें। { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong>, या <strong>columns:2</strong> जोड़ने की कोशिश करें। { learn-more }
 inactive-css-not-grid-or-flex-item-fix-2 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, या <strong>display:inline-flex</strong> जोड़ने की कोशिश करें। { learn-more }
 inactive-css-not-grid-container-fix = <strong>display:grid</strong> या <strong>display:inline-grid</strong> जोड़ने की कोशिश करें। { learn-more }
@@ -33,3 +35,5 @@ inactive-css-not-flex-container-fix = <strong>display:flex</strong> या <stro
 inactive-css-not-inline-or-tablecell-fix = <strong>display:inline</strong> या <strong>display:table-cell</strong> जोड़ने की कोशिश करें। { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = <strong>display:inline-block</strong> या <strong>display:block</strong> जोड़ने की कोशिश करें। { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong> जोड़ने की कोशिश करें। { learn-more }
+inactive-css-not-display-block-on-floated-fix = <strong>float</strong> को हटाने या <strong>display:block</strong> को जोड़ने की कोशिश करें। { learn-more }
+inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> को जोड़ने की कोशिश करें। { learn-more }
