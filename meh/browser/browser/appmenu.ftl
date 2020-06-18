@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Protecciones de privacidad
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Kua´an nuu reporte privacidad noo´o
+appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-customize-mode =
     .label = Sá´á vii
 

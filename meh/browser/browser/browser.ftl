@@ -266,6 +266,9 @@ popup-select-microphone =
 popup-screen-sharing-not-now =
     .label = Nkuvi ntañu´u
     .accesskey = W
+popup-screen-sharing-never =
+    .label = Nkua'a ni'i íchi
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
