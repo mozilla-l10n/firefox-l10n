@@ -19,6 +19,8 @@ options-select-additional-tools-label = Յաւելումների կողմից տ
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Առկայ գործիքատուփի կոճակներ
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Թեմաներ
 
 ## Inspector section
 
@@ -50,6 +52,8 @@ options-stylesheet-autocompletion-label = CSS-ի ինքնալրացում
 
 # The heading
 options-sourceeditor-label = Խմբագրի նախըտրանքներ
+options-sourceeditor-detectindentation-tooltip =
+    .title = Գուշակել նորատողութիւնը ըստ աղբիւրի բովանդակութեան
 options-sourceeditor-tabsize-label = Ներդիրի չափը
 options-sourceeditor-keybinding-default-label = Սկզբնադիր
 

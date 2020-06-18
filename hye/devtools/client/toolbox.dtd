@@ -119,12 +119,17 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   "Աւգտագործել «Մշակողի  տիպ» զննարկիչի թեման">
+<!ENTITY options.usedeveditiontheme.tooltip "Փոխանջատում է«Մշակողի տիպ»  զննարկչի թեման։">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "Վեբ Կառավարակէտ">
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "Միացնել ժամադրոշմները">
+<!ENTITY options.timestampMessages.tooltip    "Եթե միացնեք այս ընտրանքը, հրամանները եւ Վեբ Վահանակում արտածուածը կը ցուցադրեն ժամանակադրոշմ">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
