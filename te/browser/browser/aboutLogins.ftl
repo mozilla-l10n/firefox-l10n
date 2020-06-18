@@ -15,6 +15,8 @@ about-logins-page-title = ప్రవేశాలు & సంకేతపదా
 login-filter =
     .placeholder = ప్రవేశాలలో వెతకండి
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
+fxaccounts-sign-in-text = మీ సంకేతపదాలను ఇతర పరికరాల్లో పొందండి
+fxaccounts-sign-in-button = { -sync-brand-short-name } లోనికి ప్రవేశించండి
 fxaccounts-avatar-button =
     .title = ఖాతా నిర్వహించు
 
