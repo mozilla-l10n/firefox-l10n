@@ -174,9 +174,16 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = పూర్తయింది
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 24em
 
 ## Identity Panel
 
+identity-connection-not-secure = అనుసంధానం సురక్షితం కాదు
+identity-connection-secure = సురక్షిత అనుసంధానం
 identity-connection-internal = ఇది సురక్షిత { -brand-short-name } పేజీ.
 identity-connection-file = ఈ పేజీ మీ కంప్యూటర్లో భద్రమయివుంటుంది.
 identity-extension-page = ఈ పేజీ ఒక పొడగింత నుండి తెరవబడింది.

@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = సిఫార్సు చేయబడిన పొడగింత
+cfr-doorhanger-feature-heading = సిఫార్సు చేసిన సౌలభ్యం
 cfr-doorhanger-pintab-heading = ఇది ప్రయత్నించండి: ట్యాబును పిన్ చెయ్యడం
 
 ##
@@ -73,7 +74,10 @@ cfr-whatsnew-button =
     .label = కొత్తవి ఏమిటి
     .tooltiptext = కొత్తవి ఏమిటి
 cfr-whatsnew-panel-header = కొత్తవి ఏమిటి
+cfr-whatsnew-release-notes-link-text = విడుదల గమనికలను చదవండి
+cfr-whatsnew-tracking-protect-link-text = మీ నివేదికను చూడండి
 cfr-whatsnew-tracking-blocked-link-text = నివేదికను చూడండి
+cfr-whatsnew-lockwise-take-link-text = అనువర్తనాన్ని పొందండి
 
 ## Search Bar
 
@@ -127,4 +131,10 @@ cfr-doorhanger-milestone-ok-button = అన్నింటినీ చూడం
 
 
 ## Picture-in-Picture fullscreen message
+
+
+## Protections Dashboard message
+
+
+## Better PDF message
 
