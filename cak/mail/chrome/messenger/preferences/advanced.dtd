@@ -29,7 +29,7 @@
 <!ENTITY systemIntegration.label       "Q'inoj Tunuj">
 <!ENTITY alwaysCheckDefault.label      "Junelïk tinik'öx we ri &brandShortName; ja ri' ri ruwinaqil taqoya'l k'o wi toq nitikirisäx">
 <!ENTITY alwaysCheckDefault.accesskey  "J">
-<!ENTITY searchIntegration.label       "Tiya' q'ij chi re &searchIntegration.engineName; richin yerukanoj taq tzijol">
+<!ENTITY searchIntegration.label       "Tiya' q'ij chi re &searchIntegration.engineName; chi yerukanoj taq tzijol">
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkDefaultsNow.label        "Tinik'öx Wakami…">
 <!ENTITY checkDefaultsNow.accesskey    "W">
