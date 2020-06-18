@@ -127,7 +127,7 @@ newtab-menu-open-file = Tijaq Yakb'äl
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Tz'eton
-newtab-label-bookmarked = Yakon retal
+newtab-label-bookmarked = Yaketan
 newtab-label-removed-bookmark = Yaketal elesan el
 newtab-label-recommended = Rujawaxik
 newtab-label-saved = Yakon pa { -pocket-brand-name }

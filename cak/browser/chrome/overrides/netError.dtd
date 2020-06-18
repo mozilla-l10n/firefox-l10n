@@ -177,7 +177,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nrokisaj k'ak'a' samaj richin jikomal, ri e ojer chuqa' man k'ayew ta yeq'eleb'ëx. Jun q'eleb'enel chanin nuya' rutzijol ri etamab'äl, ri nina'ojïx chi echajin. Ri runuk'samajel ruxaq k'amaya'l k'o chi nutz'ët nab'ey ri ruk'u'x samaj chuwäch nitikïr nutz'ët ri ruxaq k'amaya'l.</p><p>Runimatz'ib' sachoj: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicy.title "Q'aton Ruxaq">
+<!ENTITY blockedByPolicy.title "Xq'at Ruxaq">
 
 <!ENTITY certerror.mitm.title "Software Nuq'äch chi ri &brandShortName; Ütz tok pa re Ruxaq K'amaya'l Re'">
 
