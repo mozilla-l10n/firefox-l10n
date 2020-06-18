@@ -64,7 +64,7 @@ tab-context-undo-close-tabs =
         { $tabCount ->
             [1] Titzolïx Nitz'apïx Ruwi'
             [one] Titzolïx Nitz'apïx Ruwi'
-           *[other] Titzolïx Yetz'apïx Kiwi'
+           *[other] Titzolïx Yetz'apïx Taq Ruwi'
         }
     .accesskey = T
 close-tab =

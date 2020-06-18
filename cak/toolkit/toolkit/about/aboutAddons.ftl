@@ -63,7 +63,7 @@ cmd-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] c
-           *[other] T
+           *[other] a
         }
 cmd-enable-theme =
     .label = Tokisäx wachinel
@@ -138,7 +138,7 @@ detail-show-preferences =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] T
+            [windows] c
            *[other] a
         }
     .tooltiptext =

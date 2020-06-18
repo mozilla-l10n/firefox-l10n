@@ -217,7 +217,7 @@ menu-preferences =
     .label =
         { PLATFORM() ->
             [windows] Taq cha'oj
-           *[other] Taq Ajowanel
+           *[other] Taq ajowab'äl
         }
     .accesskey =
         { PLATFORM() ->
