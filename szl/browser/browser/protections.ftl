@@ -68,6 +68,13 @@ protections-close-button2 =
     .aria-label = Zawrzij
     .title = Zawrzij
 mobile-app-title = Szperuj śledzōnce reklamy na roztōmajtych maszinach
+mobile-app-card-content = Używej mobilniokowyj przeglōndarki ze wbudowanōm ôchrōnōm ôd śledzōncych reklam.
+mobile-app-links = Przeglōndarka { -brand-product-name } na <a data-l10n-name="android-mobile-inline-link">Android</a> i <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+lockwise-title = Już żodyn roz niy zapōmnij hasła
+lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Regiyrowanie hasłami
+lockwise-header-content = { -lockwise-brand-name } bezpiecznie schranio twoje hasła w przeglōndarce.
+lockwise-header-content-logged-in = Bezpiecznie schranio i synchrōnizuje hasła na wszyskich twojich maszinach.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
