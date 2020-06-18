@@ -280,6 +280,12 @@ sharing-warning-proceed-to-tab =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Nánuku a xíín chu´un iin nuu
+urlbar-placeholder =
+    .placeholder = Nánuku a xíín chu´un iin nuu
+urlbar-permissions-granted =
+    .tooltiptext = Nña'anu permiso nuu web ya´a
 urlbar-switch-to-tab =
     .value = Sama su̱ku̱a:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
