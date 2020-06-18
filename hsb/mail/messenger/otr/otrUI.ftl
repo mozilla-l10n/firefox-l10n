@@ -10,14 +10,32 @@ auth-cancel = Přetorhnyć
 auth-cancelAccessKey = P
 auth-error = Při přepruwowanju identity wašeho kontakta je zmylk nastał.
 auth-success = Přepruwowanje identity wašeho kontakta je so wuspěšnje dokónčiło.
+auth-successThem = Waš kontakt je wuspěšnje wašu identitu přepruwował. Chceće snano jeho identitu runje tak přepruwować, stajće tuž swoje prašenje.
+auth-fail = Přepruwowanje identity wašeho kontakta je so nimokuliło.
+auth-waiting = Čaka so, doniž kontakt přepruwowanje njedokónča…
 finger-verify = Přepruwować
 finger-verify-accessKey = P
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Porstowy wotćišć OTR přidać
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+alert-start = Pospytuje so, zaklučowanu rozmołwu z { $name } započeć.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = Pospytuje so, zaklučowanu rozmołwu z { $name } wobnowić.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Zaklučowana konwersacija z { $name } je so skónčiła.
 state-not_private = Aktualna konwersacija priwatna njeje.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Aktualna rozmołwa je zaklučowana ale nic priwatna, dokelž identita kontakta { $name } njeje so přepruwowała.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Identita kontakta { $name } je so přepruwowała. Aktualna rozmołwa je zaklučowana a priwatna.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } je swoju zaklučowanu rozmołwu z wami skónčił; wy měł to tež činić.
 state-not_private-label = Njewěsty
 state-unverified-label = Njewobkrućeny
 state-private-label = Priwatny
