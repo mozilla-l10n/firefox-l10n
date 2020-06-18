@@ -91,7 +91,7 @@
 <!ENTITY  event.menu.edit.select.all.accesskey            "A">
 
 <!ENTITY  event.menu.view.label                           "Titz'et">
-<!ENTITY  event.menu.view.accesskey                       "V">
+<!ENTITY  event.menu.view.accesskey                       "t">
 <!ENTITY  event.menu.view.toolbars.label                  "Taq cholsamajib'äl">
 <!ENTITY  event.menu.view.toolbars.accesskey              "T">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Tichinäx…">

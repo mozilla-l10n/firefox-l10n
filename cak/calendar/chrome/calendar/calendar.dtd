@@ -47,7 +47,7 @@
 
 <!ENTITY calendar.nextday.label                 "Jun chik Q'ij" >
 <!ENTITY calendar.prevday.label                 "Jun Kan Q'ij" >
-<!ENTITY calendar.nextday.accesskey             "x" >
+<!ENTITY calendar.nextday.accesskey             "u" >
 <!ENTITY calendar.prevday.accesskey             "K" >
 <!ENTITY calendar.nextweek.label                "Jun Chik Apo Wuqq'ij" >
 <!ENTITY calendar.prevweek.label                "Jun Kan Wuqq'ij" >
