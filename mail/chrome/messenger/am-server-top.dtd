@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Penyimpanan Pesan">
 <!ENTITY securitySettings.label "Pengaturan Keamanan">
 <!ENTITY serverSettings.label "Pengaturan Server">
@@ -23,6 +21,7 @@
 <!ENTITY biffStart.label "Periksa pesan baru setiap ">
 <!ENTITY biffStart.accesskey "P">
 <!ENTITY biffEnd.label "menit">
+<!ENTITY useIdleNotifications.label "Izinkan pemberitahuan server segera saat pesan baru tiba">
 <!ENTITY connectionSecurity.label "Keamanan sambungan:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Tidak ada">
@@ -73,6 +72,7 @@
 <!ENTITY abbreviateOff.label "Singkatan (Contohnya, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Khusus…">
 <!ENTITY advancedButton.accesskey "K">
+<!ENTITY serverDefaultCharset2.label "Pengodean Teks Standar:">
 <!ENTITY localPath.label "Direktori lokal:">
 <!ENTITY localFolderPicker.label "Pilih Direktori Lokal">
 <!ENTITY browseFolder.label "Telusuri…">
