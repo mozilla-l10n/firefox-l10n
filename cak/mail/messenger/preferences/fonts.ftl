@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = K'o wi ({ $name })
 fonts-label-default-unnamed =
     .label = K'o wi
-
 fonts-encoding-dialog-title =
     .title = Kiwäch Tz'ib' & Ewan taq Sik'inem
-
 fonts-language-legend =
     .value = Ruwäch tz'ib' richin:
     .accesskey = t
-
 fonts-proportional-label =
     .value = Junamil:
     .accesskey = J
@@ -49,13 +45,13 @@ font-language-group-thai =
 font-language-group-hebrew =
     .label = Hebrew
 font-language-group-arabic =
-    .label = Arabic
+    .label = Aj Arabia
 font-language-group-devanagari =
     .label = Devanagari
 font-language-group-tamil =
     .label = Tamil
 font-language-group-armenian =
-    .label = Armenyan
+    .label = Armeni'o' ch'ab'äl
 font-language-group-bengali =
     .label = Bengali
 font-language-group-canadian =
@@ -89,45 +85,35 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
-
 default-font-sans-serif =
     .label = Sans-serif
-
 font-size-label =
     .value = Nimilem:
     .accesskey = e
-
 font-size-monospace-label =
     .value = Nimilem:
     .accesskey = i
-
 font-serif-label =
     .value = Serif:
     .accesskey = S
-
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
-
 font-monospace-label =
     .value = Rujukojol cholaj:
     .accesskey = R
-
 font-min-size-label =
     .value = Ko'öl runimilem tz'ib':
     .accesskey = n
-
 min-size-none =
     .label = Majun
 
 ## Fonts in message
 
 font-control-legend = Ruwäch Tz'ib' Nichajïx
-
 use-document-fonts-checkbox =
     .label = Tiya' q'ij chi ri taq rutzijol yekokisaj juley chik taq tz'ib'
     .accesskey = a
-
 use-fixed-width-plain-checkbox =
     .label = Tokisäx nïm ruwäch tz'ib' pa kitzijol li'an cholan tzij
     .accesskey = x
@@ -135,17 +121,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Rucholajil rucholajem tzij
-
 text-encoding-description = Tijikib'äx ri kicholajil cholan tzij e k'o wi richin nitaq chuqa' nik'ul taqoya'l
-
 font-outgoing-email-label =
     .value = Elem Taqoya'l:
     .accesskey = e
-
 font-incoming-email-label =
     .value = Okem Taqoya'l:
     .accesskey = O
-
 default-font-reply-checkbox =
     .label = Tokisäx pa tzolin taq tzij ri kicholajil cholan tzij k'o wi toq tikirel
     .accesskey = k

@@ -100,7 +100,7 @@
 <!ENTITY update.downloading.start   "Tajin niqasäx k'exoj ruwäch — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Rokisaxik k'exoj ruwäch…">
+<!ENTITY update.applying            "Nokisäx k'exoj…">
 <!ENTITY update.restarting          "Nitikirisäx…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
