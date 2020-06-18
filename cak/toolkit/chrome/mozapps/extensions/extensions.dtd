@@ -10,7 +10,7 @@
 
 <!ENTITY cmd.askToActivate.label              "Tik'utüx richin nitzij">
 <!ENTITY cmd.askToActivate.tooltip            "Tik'utüx pe richin toq xtokisäx re tz'aqat re'">
-<!ENTITY cmd.alwaysActivate.label             "Junelïk tzijïl">
+<!ENTITY cmd.alwaysActivate.label             "Junelïk Tzijïl">
 <!ENTITY cmd.alwaysActivate.tooltip           "Junelïk tokisäx re tz'aqat re'">
 <!ENTITY cmd.neverActivate.label              "Majub'ey titzij">
 <!ENTITY cmd.neverActivate.tooltip            "Majub'ey tokisäx re tz'aqat re'">
@@ -69,4 +69,5 @@
 
 <!ENTITY settings.path.button.label           "Tinik'öx…">
 
+<!-- addon actions -->
 <!ENTITY setting.learnmore "Tetamäx ch'aqa' chik…">
