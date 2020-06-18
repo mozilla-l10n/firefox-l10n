@@ -61,6 +61,13 @@ cookie-tab-content = Te cookies śledzōm cie miyndzy strōnami, coby zbiyrać d
 tracker-tab-title = Śledzōnco zawartość
 tracker-tab-description = Strōny mogōm ladować zewnyntrzne reklamy, filmy i inkszo zawartość ze śledzōncym kodym. Skuli zaszperowanio śledzōncych elymyntōw strōny mogōm sie gibcyj ladować, ale niykere knefle, formulary i pola logowanio mogōm już niy fungować. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
 fingerprinter-tab-title = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
+fingerprinter-tab-content = Elymynty, co zbiyrajōm nasztalowania przeglōndarki i kōmputra, coby zrychtować twōj profil. Skuli takigo cyfrowego ôdciska palca mogōm iś za tobōm miyndzy roztōmajtymi strōnami. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
+cryptominer-tab-title = Elymynty, co fedrujōm kryptopiniōndze
+cryptominer-tab-content = Elymynty, co używajōm siyły rachowanio twojigo kōmputra, coby fedrować wirtualne piniōndze. Takie skrypty rozfolowujōm bateryjo, spōmalajōm kōmputer i mogōm zwiynkszyć płaty za sztrōm. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
+protections-close-button2 =
+    .aria-label = Zawrzij
+    .title = Zawrzij
+mobile-app-title = Szperuj śledzōnce reklamy na roztōmajtych maszinach
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
