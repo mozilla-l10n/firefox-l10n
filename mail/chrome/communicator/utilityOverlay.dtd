@@ -36,6 +36,8 @@
 <!ENTITY preferencesCmdUnix.label       "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
 
+<!ENTITY customizeCmd.label "Ubahsuai">
+
 <!ENTITY viewMenu.label          "Tampilan">
 <!ENTITY viewMenu.accesskey        "T">
 <!ENTITY viewToolbarsMenu.label        "Bilah Alat">

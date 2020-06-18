@@ -36,6 +36,9 @@
 <!ENTITY hostname.label                  "Nama host server">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Server:">
+<!ENTITY portRow.label                   "Port:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Autentikasi">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP">
@@ -69,6 +72,7 @@
 <!ENTITY open-provisioner.label          "Dapatkan alamat surel baru…">
 
 
+<!ENTITY get-help.label                  "Dapatkan Bantuan">
 
 
 <!ENTITY warning.label                   "Peringatan!">
