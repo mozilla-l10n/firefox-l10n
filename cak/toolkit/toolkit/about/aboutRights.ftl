@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-rights-title = Tawetamaj kiwäch ri taq ach'ojib'al
+rights-title = Chi rij Ach'ojib'al
 rights-intro = { -brand-full-name } jun jamäl chuqa' jaqäl b'itz'ib' kema', ri nuk'un kuma ach'ala'il chijun ri ruwach'ulew. Ja re' ri jujun taq na'oj k'atzinel nawetamaj:
 rights-intro-point-1 = { -brand-short-name } wachel rik'in re taq rojqanem ri <a data-l10n-name="mozilla-public-license-link">Ruwinaqilal ya'öl q'ij Mozilla</a>. Rere' nrajo' nub'ij chi ütz nawokisaj, nawachib'ej chuqa' nataluj ri { -brand-short-name } chi ke ch'aqa' chik.  Chuqa' ütz najalwachij ri ruxe' nimatz'ib' ri { -brand-short-name } achike na rub'eyal rajowaxik chawe. Ri ya'öl ruq'ij winaqilal ri Mozilla chuqa' nuya' pan ach'ojib'al chi ye'ataluj ri taq ruwäch ye'ak'ëx.
 rights-intro-point-2 = Man niya' ta ri taq ch'ojib'äl kichin ri taq rajawal o taq ya'öl q'ij ri e retal rub'i' eruq'alajisan ri Mozilla Moloj o xa b'a achike jun chik peraj, ri chuqa' k'o chupam ri rub'i' o ruwachib'al rub'i' ri Firefox. Ch'aqa' chik etamab'äl chi kij ri taq retal b'i'aj tikirel nawïl pa <a data-l10n-name="mozilla-trademarks-link">wawe'</a>.
