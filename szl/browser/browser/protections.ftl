@@ -75,6 +75,56 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Regiyrowanie hasłami
 lockwise-header-content = { -lockwise-brand-name } bezpiecznie schranio twoje hasła w przeglōndarce.
 lockwise-header-content-logged-in = Bezpiecznie schranio i synchrōnizuje hasła na wszyskich twojich maszinach.
+protection-report-view-logins-button = Pokoż dane logowania
+    .title = Idź do spamiyntanych danch logowanio
+protection-report-save-passwords-button = Spamiyntej hasła
+    .title = Spamiyntej hasła na { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Regiyruj hasłami
+    .title = Regiyruj haslami na { -lockwise-brand-short-name }
+lockwise-mobile-app-title = Weź swoje hasła wszyńdzie
+lockwise-no-logins-card-content = Używej haseł spamiyntanych w { -brand-short-name(case: "loc") } na kożdyj maszinie.
+lockwise-app-links = { -lockwise-brand-name } na <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Bezpieczne schranianie hasła <a data-l10n-name="lockwise-how-it-works">Jak to fumguje</a>
+        [few] Bezpieczne schranianie haseł <a data-l10n-name="lockwise-how-it-works">Jak to fumguje</a>
+       *[many] Bezpieczne schranianie haseł <a data-l10n-name="lockwise-how-it-works">Jak to fumguje</a>
+    }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 hasło mogło być wyzdradzōne przi wycieku danych.
+        [few] { $count } hasła mogły być wyzdradzōne przi wycieku danych.
+       *[many] { $count } haseł mogło być wyzdradzōnych przi wycieku danych.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 hasło je bezpiecznie schrōniōne.
+        [few] Twoje hasła sōm bezpiecznie schrōniōne.
+       *[many] Twoje hasła sōm bezpiecznie schrōniōne.
+    }
+lockwise-how-it-works-link = Jak to funguje
+turn-on-sync = Załōncz { -sync-brand-short-name }…
+    .title = Idź do preferyncyji sychrōnizacyje
+manage-connected-devices = Regiyruj maszinami…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Połōnczōne z { $count } maszinōm
+        [few] Połōnczōne z { $count } maszinami
+       *[many] Połōnczōne z { $count } maszinami
+    }
+monitor-title = Dej pozōr na wycieki danych
+monitor-link = Jak to funguje
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
