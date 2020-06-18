@@ -4,6 +4,7 @@
 
 about-telemetry-archive-ping-header = Ping
 about-telemetry-option-group-today = Ki̱vɨ̱ vitá
+about-telemetry-option-group-yesterday = Ki̱vɨ̱ iku
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-show-in-Firefox-json-viewer = Síne nuu JSON
