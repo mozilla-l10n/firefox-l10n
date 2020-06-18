@@ -7,9 +7,7 @@ about-config-warning-title = Upozorenje!
 about-config-warning-text = Mijenjanje ovih naprednih postavki može biti štetno za stabilnost, sigurnost i učinak ovog programa. Nastavi samo ako znaš što radiš.
 about-config-warning-checkbox = Upozoravaj me ponovo!
 about-config-warning-button = Prihvaćam rizik
-
 about-config2-title = Napredne postavke
-
 about-config-search-input =
     .placeholder = Traži
 
@@ -24,20 +22,16 @@ about-config-intro-warning-button = Prihvati rizik i nastavi
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Mijenjanje ovih postavki može utjecati na perfomanse ili sigurnost programa { -brand-short-name }.
-
 about-config-page-title = Napredne postavke
-
 about-config-search-input1 =
     .placeholder = Traži ime postavke
 about-config-show-all = Prikaži sve
-
 about-config-pref-add = Dodaj
 about-config-pref-toggle = Promijeni
 about-config-pref-edit = Uredi
 about-config-pref-save = Spremi
 about-config-pref-reset = Poništi
 about-config-pref-delete = Obriši
-
 about-config-pref-add-button =
     .title = Dodaj
 about-config-pref-toggle-button =
@@ -65,6 +59,6 @@ about-config-pref-add-type-string = Znakovni niz
 ##   $value (String): The full value of the preference.
 
 about-config-pref-accessible-value-default =
-    .aria-label = { $value } (standardno)
+    .aria-label = { $value } (zadano)
 about-config-pref-accessible-value-custom =
     .aria-label = { $value } (prilagođeno)

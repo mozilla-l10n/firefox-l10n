@@ -4,7 +4,6 @@
 
 about-private-browsing-learn-more = Saznaj više o <a data-l10n-name="learn-more">privatnom pregledavanju</a>.
 about-private-browsing-info-visited = posjećene stranica
-
 privatebrowsingpage-open-private-window-label = Otvori privatni prozor
     .accesskey = p
 about-private-browsing-info-notsaved = Kada pregledavaš u privatnom prozoru, { -brand-short-name } <strong>ne sprema</strong>:
@@ -27,12 +26,11 @@ about-private-browsing-not-private = Trenutačno nisi u privatnom prozoru.
 content-blocking-title = Blokiranje sadržaja
 content-blocking-description = Neke web stranice koriste skripte za praćenje koje nadgledaju tvoju aktivnost diljem Interneta. U privatnom načinu, { -brand-short-name } blokiranje sadržaja automatski blokira mnoge skripte za praćenje koje bi mogle prikupljati informacije o tvom pregledavanju.
 about-private-browsing-info-description = { -brand-short-name } čisti tvoju povijest pretraživanja i pregledavanja kad izađeš iz aplikacije ili kad zatvoriš sve kartice i prozore privatnog pregledavanja. Ovo te ne čini anonimnim prema web-stranicama ili tvom pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržiš privatnim ono što radiš na internetu od ostalih osoba koje koriste ovo računalo.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } je tvoj standardni pretraživač u privatnim prozorima
+about-private-browsing-search-banner-title = { $engineName } je tvoj zadani pretraživač u privatnim prozorima
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Za odabir jedne druge tražilice, idi na <a data-l10n-name="link-options">Mogućnosti</a>
