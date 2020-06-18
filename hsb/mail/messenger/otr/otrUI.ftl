@@ -26,6 +26,12 @@ alert-refresh = Pospytuje so, zaklučowanu rozmołwu z { $name } wobnowić.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Zaklučowana konwersacija z { $name } je so skónčiła.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = Identita kontakta { $name } hišće njeje so přepruwowała. Připadne wotposkowanje móžne njeje, ale z trochu prócu móhł něchtó sobu słuchać. Přeprujće identitu kontakta, zo byšće dohladowanju zadźěwał.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } was wot njespóznateho ličaka kontaktuje. Připadne wotposkowanje móžne njeje, ale z trochu prócu móhł něchtó sobu słuchać. Přeprujće identitu kontakta, zo byšće dohladowanju zadźěwał.
 state-not_private = Aktualna konwersacija priwatna njeje.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
