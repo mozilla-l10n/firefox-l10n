@@ -9,7 +9,7 @@ fonts-window-close =
 
 ## Font groups by language
 
-fonts-langgroup-header = Ruwäch tz'ib' richin:
+fonts-langgroup-header = Ruwäch tz'ib' richin
     .accesskey = R
 fonts-langgroup-arabic =
     .label = aj Arabia
