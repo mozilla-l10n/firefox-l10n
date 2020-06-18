@@ -268,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksSubview.label             "A ta´a ini noo´o">
 <!ENTITY bookmarksMenuButton2.label         "A ta´a ini noo´o Menu">
 <!ENTITY bookmarksMenuButton.other.label    "Inka a ta´a ini noo´o">
-<!ENTITY searchBookmarks.label              "Nánuku A ta´a ini noo´o">
+<!ENTITY searchBookmarks.label              "Nánuku a ta´a ini noo´o">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
