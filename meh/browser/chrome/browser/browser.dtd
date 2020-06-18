@@ -337,6 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.label       "Kaji">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.accesskey     "f">
+<!ENTITY logins.label                           "Da nuu kajie´e sesión ji contraseñas">
 
 <!ENTITY clearRecentHistory.label               "Xinó a nnánukunu ntañu´u…">
 
@@ -372,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.hideSidebar.label "Chiyu'u barra kuá´á historial">
 <!ENTITY appMenuHelp.label "Chinei">
 
+<!ENTITY appMenuRemoteTabs.label "Da sukua íyi sincronizadas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ntu nune pestañas">
@@ -792,6 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "Da sukua íyi sincronizadas">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

@@ -122,6 +122,9 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = Xituvi contraseña 
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Tɨɨ contraseña nchuva'a
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = Kuiso da nuu kajie'e sesión ji contraseñas nchuva'a
 
 ## Master Password notification
 

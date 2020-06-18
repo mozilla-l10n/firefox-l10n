@@ -154,8 +154,8 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Da ta'an ini nuu
-newtab-section-header-highlights = Destacados
+newtab-section-header-topsites = Da sitio vii
+newtab-section-header-highlights = A xinañu'u
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = A kachi { $provider }

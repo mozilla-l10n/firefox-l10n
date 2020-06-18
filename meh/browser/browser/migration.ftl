@@ -56,3 +56,11 @@ source-name-360se = 360 Secure Browser
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Da nuu kajie´e sesión ji contraseñas nchuva'a
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Da nuu kajie´e sesión ji contraseñas nchuva'a
