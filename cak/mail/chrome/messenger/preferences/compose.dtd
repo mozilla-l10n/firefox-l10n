@@ -57,7 +57,7 @@
 <!ENTITY editDirectories.label                 "Kenuk' taq Soltzij…">
 <!ENTITY editDirectories.accesskey             "K">
 <!ENTITY showAsDefault.label                   "Rucholb'al tikirib'äl k'o wi pa ri rutzuwäch kitz'ib'awuj ochochib'äl:">
-<!ENTITY showAsDefault.accesskey               "D">
+<!ENTITY showAsDefault.accesskey               "b">
 <!ENTITY showAsDefaultLast.label               "Ruk'isib'äl cholb'äl okisan">
 
 <!ENTITY sendOptionsDescription.label          "Tib'an runuk'ulem runa'oj rub'anikil cholan tzij">

@@ -107,8 +107,8 @@ mail-play-sound-label =
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] m
-           *[other] m
+            [macos] o
+           *[other] o
         }
 mail-play-button =
     .label = Titzij
