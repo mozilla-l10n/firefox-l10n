@@ -7,8 +7,8 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
-#define bookmarks_title Taq retal
-#define bookmarks_heading Yaketal
+#define bookmarks_title Taq yaketal
+#define bookmarks_heading Taq yaketal
 
 #define bookmarks_toolbarfolder Rukajtz'ik taq samajib'äl pa ri ruyakwuj taq yaketal
 #define bookmarks_toolbarfolder_description Ke'atz'aqatisaj ri taq yaketal pa re yakwuj re' richin ye'atz'ët pa ri rukajtz'ik taq samajib'äl richin taq yaketal
