@@ -294,7 +294,7 @@ addon-updates-manual-updates-found = Ketz'et ri taq k'exoj e k'o
 addon-install-from-file = Tiyak ri tz'aqat rik'in ri yakb'äl…
     .accesskey = T
 addon-install-from-file-dialog-title = Ticha' re tz'aqat re' richin niyak qa
-addon-install-from-file-filter-name = Taq tz’aqat
+addon-install-from-file-filter-name = Taq tz'aqat
 addon-open-about-debugging = Kechojmirisäx taq tz'aqat
     .accesskey = c
 
