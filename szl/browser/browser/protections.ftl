@@ -39,6 +39,19 @@ etp-card-title = Polepszōno ôchrōna ôd śledzynio
 etp-card-content = Śledzōnce elymynty cichtujōm za tobōm w internecie i zbiyrajōm informacyje ô tym, jak przeglōndosz i co je do ciebie ciekawe. { -brand-short-name } szperuje mocka ś nich i inksze ôszydne skrypty.
 protection-report-webpage-title = Przeglōnd ôchrōny
 protection-report-page-content-title = Przeglōnd ôchrōny
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } poradzi wachować twojij prywatności po cichu, jak przeglōndosz internet. Znojdziesz sam spersōnalizowany przeglōnd tyj ôchrōny, z noczyniami, coby weznōnć kōntrola nad swojim bezpieczyństwym w necu.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } wachuje twojij prywatności po cichu, jak przeglōndosz internet. Znojdziesz sam spersōnalizowany przeglōnd tyj ôchrōny, z noczyniami, coby weznōnć kōntrola nad swojim bezpieczyństwym w necu.
+protection-report-settings-link = Regiyruj swojōm prywatnościōm i sztalōnkami bezpieczyństwa
+etp-card-title-always = Polepszōno ôchrōna ôd śledzynio: Zawdy załōnczōno
+etp-card-title-custom-not-blocking = Polepszōno ôchrōna ôd śledzynio: wyłōnczōno
+etp-card-content-description = { -brand-short-name } autōmatycznie niy dowo firmōm tajymnie śledzić cie w necu.
+protection-report-etp-card-content-custom-not-blocking = Cołko ôchrōna je teroz wyłōnczōno . Wsztalōnkach ôchrōny ôd aplikacyje { -brand-short-name } ôbier, jakie śledzōnce elymynty szperować.
+protection-report-manage-protections = Regiyruj sztalōnkami
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = Dzisio
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
