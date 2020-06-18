@@ -212,7 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Titz'apïx Tzuwäch">
 <!ENTITY closeWindow.accesskey "w">
 
-<!ENTITY bookmarksMenu.label "Yaketal">
+<!ENTITY bookmarksMenu.label "Taq yaketal">
 <!ENTITY bookmarksMenu.accesskey "y">
 <!ENTITY bookmarkThisPageCmd.label "Titz'aqatisäx re ruxaq re' pa taq yaketal">
 <!ENTITY editThisBookmarkCmd.label "Tinuk' re yaketal re'">
@@ -297,10 +297,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Tikirib'äl">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Rutikirib'al Ruxaq">
 
-<!ENTITY bookmarksButton.label          "Yaketal">
+<!ENTITY bookmarksButton.label          "Taq yaketal">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksSubview.label             "Yaketal">
+<!ENTITY bookmarksSubview.label             "Taq yaketal">
 <!ENTITY bookmarksMenuButton2.label         "Kik'utsamaj Yaketal">
 <!ENTITY bookmarksMenuButton.other.label    "Ch'aqa' chik taq Yaketal">
 <!ENTITY bookmarksMenuButton.mobile.label   "Taq ruyaketal oyonib'äl">

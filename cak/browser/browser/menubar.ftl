@@ -86,7 +86,7 @@ menu-view-sidebar =
     .label = Chuchi' Cholab'äl
     .accesskey = C
 menu-view-bookmarks =
-    .label = Yaketal
+    .label = Taq yaketal
 menu-view-history-button =
     .label = Natab'äl
 menu-view-synced-tabs-sidebar =
@@ -164,7 +164,7 @@ menu-history-undo-window-menu =
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = Yaketal
+    .label = Taq yaketal
     .accesskey = y
 menu-bookmarks-show-all =
     .label = Kek'ut konojel ri taq yaketal

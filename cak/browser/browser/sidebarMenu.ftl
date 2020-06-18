@@ -3,13 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sidebar-menu-bookmarks =
-    .label = Yaketal
-
+    .label = Taq yaketal
 sidebar-menu-history =
     .label = Natab'äl
-
 sidebar-menu-synced-tabs =
     .label = Ximon taq ruwi'
-
 sidebar-menu-close =
     .label = Titz'apïx ajxikin
