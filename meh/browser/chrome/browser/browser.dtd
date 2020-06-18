@@ -392,6 +392,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Kajie´e sesión ji Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Kajie'e sesión ji &syncBrand.shortName.label;...">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Tetiñu da ka̱a̱…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Kune'ya sukua sincronizadas nu barra kuá´á">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Chiyu´u barra kuá´á da sukua íyo sincronizadas">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Chu´un inka ka̱a̱">
 
 
@@ -796,6 +798,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Da sukua íyi sincronizadas">
 
+<!ENTITY syncedTabs.sidebar.label              "Da sukua íyi sincronizadas">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
