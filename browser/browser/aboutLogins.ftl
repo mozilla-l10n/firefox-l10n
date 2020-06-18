@@ -20,6 +20,8 @@ fxaccounts-avatar-button =
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = మెనూని తెరవండి
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ఎంపికలు
@@ -29,6 +31,8 @@ about-logins-menu-menuitem-help = సహాయం
 
 ## Login List
 
+login-list =
+    .aria-label = వెతుకులాటకు సరిపోయే ప్రవేశాలు
 login-list-count =
     { $count ->
         [one] { $count } ప్రవేశం
@@ -53,6 +57,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Login
 
+login-item-new-login-title = కొత్త ప్రవేశాన్ని సృష్టించు
+login-item-edit-button = మార్చు
 about-logins-login-item-remove-button = తొలగించు
 login-item-origin-label = వెబ్‌సైటు చిరునామా
 login-item-origin =
@@ -70,6 +76,9 @@ login-item-copied-password-button-text = కాపీ అయ్యింది!
 login-item-save-changes-button = మార్పులను భద్రపరుచు
 login-item-save-new-button = భద్రపరుచు
 login-item-cancel-button = రద్దుచేయి
+login-item-time-changed = చివరి మార్పు: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = సృష్టితం: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = చివరి వాడుక: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
@@ -100,6 +109,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
+confirm-discard-changes-dialog-confirm-button = విస్మరించు
 
 ## Breach Alert notification
 
