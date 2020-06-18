@@ -301,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Taq yaketal">
-<!ENTITY bookmarksMenuButton2.label         "Kik'utsamaj Yaketal">
+<!ENTITY bookmarksMenuButton2.label         "Kik'utsamaj taq Yaketal">
 <!ENTITY bookmarksMenuButton.other.label    "Ch'aqa' chik taq Yaketal">
 <!ENTITY bookmarksMenuButton.mobile.label   "Taq ruyaketal oyonib'äl">
 <!ENTITY viewBookmarksSidebar2.label        "Titz'et ri ajxikin kipas taq yaketal">
