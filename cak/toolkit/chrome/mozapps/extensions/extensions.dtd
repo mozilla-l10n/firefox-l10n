@@ -8,7 +8,7 @@
 <!ENTITY cmd.disableAddon.label               "Tichup">
 <!ENTITY cmd.disableAddon.accesskey           "T">
 
-<!ENTITY cmd.askToActivate.label              "Tik'utüx richin nitzij">
+<!ENTITY cmd.askToActivate.label              "Tik'utüx chi Nitzij">
 <!ENTITY cmd.askToActivate.tooltip            "Tik'utüx pe richin toq xtokisäx re tz'aqat re'">
 <!ENTITY cmd.alwaysActivate.label             "Junelïk Tzijïl">
 <!ENTITY cmd.alwaysActivate.tooltip           "Junelïk tokisäx re tz'aqat re'">
