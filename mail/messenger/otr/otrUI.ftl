@@ -8,6 +8,8 @@ auth-label = Identitu wašeho kontakta přepruwować
 reauth-label = Identitu wašeho kontakta znowa přepruwować
 auth-cancel = Přetorhnyć
 auth-cancelAccessKey = P
+auth-error = Při přepruwowanju identity wašeho kontakta je zmylk nastał.
+auth-success = Přepruwowanje identity wašeho kontakta je so wuspěšnje dokónčiło.
 finger-verify = Přepruwować
 finger-verify-accessKey = P
 # Do not translate 'OTR' (name of an encryption protocol)

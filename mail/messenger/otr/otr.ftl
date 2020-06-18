@@ -61,4 +61,14 @@ error-enc = Při zaklučowanju powěsće je zmylk nastał.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Sće { $name } zaklučowane daty pósłał, kotrež wón njeje wočakował.
+error-unreadable = Sće nječitajomnu zaklučowanu powěsć sposrědkował.
+error-malformed = Sće powěsć z wobškodźenymi datami sposrědkował.
 resent = [znowa pósłany]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } je swoju zaklučowanu rozmołwu z wami skónčił; wy měł to tež činić.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } je wo přez OTR zaklučowanu rozmołwu prosył. Nimaće wšak žadyn tykač, kotryž to podpěruje. Hlejće https://de.wikipedia.org/wiki/Off-the-Record_Messaging za dalše informacije.
