@@ -208,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Rata Kiri-Kanan">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Pemosisian">
 <!ENTITY layer.tooltip "Layer">
+<!ENTITY decreaseZIndex.label "Pindahkan ke Belakang">
 <!ENTITY layerSendToBack.tooltip "Pindahkan ke Belakang">
+<!ENTITY increaseZIndex.label "Pindahkan ke Depan">
 <!ENTITY layerBringToFront.tooltip "Pindahkan ke Depan">
 
 <!ENTITY increaseIndent.label "Tambah Indentasi">
@@ -307,9 +310,11 @@
 <!ENTITY linkToolbarCmd.tooltip "Sisip Tautan baru atau sunting properti tautan terpilih">
 <!ENTITY anchorToolbarCmd.label "Penanda Bernama">
 <!ENTITY anchorToolbarCmd.tooltip "Sisipkan penanda bernama baru atau sunting properti penanda bernama terpilih">
+<!ENTITY colorButtons.title "Warna">
 <!ENTITY TextColorButton.tooltip "Pilih warna untuk teks">
 <!ENTITY BackgroundColorButton.tooltip "Pilih warna untuk latar belakang">
 <!ENTITY throbber.tooltip "Buka laman untuk &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Buka laman beranda &brandShortName;">
 <!ENTITY HighlightColorButton.label "Penyorot">
 <!ENTITY HighlightColorButton.tooltip "Pilih warna penyorot teks">
 
@@ -330,10 +335,13 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Terapkan atau hapus daftar berbutir">
 <!ENTITY numbers.label "Angka">
 <!ENTITY numberListToolbarCmd.tooltip "Terapkan atau hapus daftar bernomor">
+<!ENTITY outdent.label "Indentasi Luar">
 <!ENTITY outdentToolbarCmd.tooltip "Turunkan indentasi teks (mundur ke kiri)">
+<!ENTITY indent.label "Indentasi">
 <!ENTITY indentToolbarCmd.tooltip "Naikkan indentasi teks (maju ke kanan)">
 <!ENTITY AlignPopupButton.label "Rata">
 <!ENTITY AlignPopupButton.tooltip "Pilih jenis rata paragraf">
+<!ENTITY InsertPopupButton.label "Sisipkan">
 <!ENTITY InsertPopupButton.tooltip "Sisipkan Tautan, Penanda, Gambar, Garis Mendatar, atau Tabel">
 <!ENTITY alignLeftButton.label "Rata Kiri">
 <!ENTITY alignLeftButton.tooltip "Buat rata kiri pada margin kiri">
