@@ -239,6 +239,9 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona slike-u-slici
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Zaštita na prvi pogled
+cfr-whatsnew-protections-body = Nadzorna ploča zaštite sadrži sažeta izvješća o curenju podataka i upravljanju lozinkama. Sada možeš pratiti koliko je curenja riješeno i vidjeti ako su neke od tvojih lozinka izložene u curenju podataka.
+cfr-whatsnew-protections-cta-link = Prikaži nadzornu ploču zaštite
+cfr-whatsnew-protections-icon-alt = Ikona štita
 
 ## Better PDF message
 
