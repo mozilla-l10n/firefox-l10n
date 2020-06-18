@@ -13,7 +13,9 @@
 
 
 
+
 <!ENTITY saveButton.label           "Chuva´a">
+<!ENTITY saveButton.accesskey       "G">
 
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
