@@ -509,7 +509,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "T">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Taq Rusamajib'al Nuk'unel">
+<!ENTITY devtoolsMenu.label "Taq Rusamajib'al B'anonel">
 <!ENTITY devtoolsMenu.accesskey "e">
 <!ENTITY devToolboxCmd.label "Rukajtz'ik B'anonel">
 <!ENTITY devToolboxCmd.accesskey "R">

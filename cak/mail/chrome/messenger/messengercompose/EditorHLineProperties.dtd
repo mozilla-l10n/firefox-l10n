@@ -6,7 +6,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Kichinil Kotz'öl Juch'">
 
-<!ENTITY dimensionsBox.label "Runimilem">
+<!ENTITY dimensionsBox.label "Taq runimilem">
 <!ENTITY heightEditField.label "Raqän:">
 <!ENTITY heightEditField.accessKey "G">
 <!ENTITY widthEditField.label "Ruwa:">
