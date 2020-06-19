@@ -229,6 +229,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bideoa beste leiho batean eginbideko ikon
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Babesak laburrean
 cfr-whatsnew-protections-icon-alt = Babesaren ikonoa
 
 ## Better PDF message
