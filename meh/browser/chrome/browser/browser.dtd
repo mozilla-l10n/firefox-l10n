@@ -546,7 +546,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.label           "Kune´ya tutu kana">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Kune´ya imagen yata">
-<!ENTITY viewBGImageCmd.accesskey     "f">
+<!ENTITY viewBGImageCmd.accesskey     "F">
 <!ENTITY setDesktopBackgroundCmd.label      "Tee kua fondo escritorio....">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Tee página ya´a nuu marcadores">

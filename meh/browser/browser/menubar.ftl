@@ -271,4 +271,4 @@ menu-help-report-deceptive-site =
     .accesskey = K
 menu-help-not-deceptive =
     .label = Ya´a ntu kuvi iin nuu kantu´un…
-    .accesskey = d
+    .accesskey = D
