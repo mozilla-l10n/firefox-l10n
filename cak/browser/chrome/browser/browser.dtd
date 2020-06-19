@@ -676,9 +676,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "i">
-<!ENTITY copyImageCmd.label           "Ruwachib'exik rub'ey wachib'äl">
+<!ENTITY copyImageCmd.label           "Tiwachib'ëx Rub'ey Wachib'äl">
 <!ENTITY copyImageCmd.accesskey       "i">
-<!ENTITY copyImageContentsCmd.label   "Ruwachib'exik wachib'äl">
+<!ENTITY copyImageContentsCmd.label   "Tiwachib'ëx Wachib'äl">
 <!ENTITY copyImageContentsCmd.accesskey  "R">
 <!ENTITY copyVideoURLCmd.label        "Ruwachib'exik rub'ey silowachib'äl">
 <!ENTITY copyVideoURLCmd.accesskey    "w">

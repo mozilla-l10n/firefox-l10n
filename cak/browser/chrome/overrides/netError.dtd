@@ -145,7 +145,7 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xusamajib'ej ruxaq k'amaya'l pa rub'eyal re' ruma ruchajin jun runa'oj rujikomal rupam, ri man nuya' ta q'ij.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Sachoj ruma itzel rupam">
+<!ENTITY corruptedContentErrorv2.title "Sachoj Ruma Itzel Rupam">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; xuq'ät rusamajixik re ruxaq re' pa re rub'eyal re'. ruma chi ri ruxaq rojqan ri X-Frame-Options na'ojil, ri man nuya' taq 'ij chi re.</p>">
 

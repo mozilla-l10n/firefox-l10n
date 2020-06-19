@@ -31,7 +31,7 @@
 <!ENTITY cmd.retry.label                  "Titojtob'ëx chik">
 <!ENTITY cmd.goToDownloadPage.label       "Tib'e pa ri ruxaq akuchi' niqasäx">
 <!ENTITY cmd.goToDownloadPage.accesskey   "T">
-<!ENTITY cmd.copyDownloadLink.label       "Tiwachib'ëx ri rub'ey richin niqasäx">
+<!ENTITY cmd.copyDownloadLink.label       "Tiwachib'ëx Ruximonel Qasanïk">
 <!ENTITY cmd.copyDownloadLink.accesskey   "r">
 <!ENTITY cmd.removeFromHistory.label      "Tiyuj el chupam ri natab'äl">
 <!ENTITY cmd.removeFromHistory.accesskey  "y">
