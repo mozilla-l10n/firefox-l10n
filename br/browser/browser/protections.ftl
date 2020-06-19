@@ -50,6 +50,7 @@ protection-report-page-summary-default = { -brand-short-name } a warez ho puhez 
 protection-report-settings-link = Merañ hoc’h arventennoù prevezded ha surentez
 etp-card-title-always = Gwarez heuliañ araokaet : bepred gweredekaet
 etp-card-title-custom-not-blocking = Gwarez heuliañ araokaet : DIWEREDEKAET
+etp-card-content-description = { -brand-short-name } a vir ouzh an embregerezhioù, en un doare emgefreek, d'ho heuliañ war ar web dre-guzh.
 protection-report-etp-card-content-custom-not-blocking = Diweredekaet eo an holl warezioù. Dibabit pe heulier a fell deoc'h stankañ en ur verañ hoc'h arventennoù buhez prevez { -brand-short-name }.
 protection-report-manage-protections = Merañ an arventennoù
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -74,10 +75,15 @@ mobile-app-title = Stankañ an heulierien bruderezh war meur a ardivink
 mobile-app-links = { -brand-product-name } Merdeer evit <a data-l10n-name="android-mobile-inline-link">Android</a> ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Na zisoñjit biken ken ur ger-tremen
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Merañ ar gerioù-tremen
 lockwise-header-content = { -lockwise-brand-name } a zalc'h diogelet ho kerioù-tremen en ho merdeer.
 lockwise-header-content-logged-in = Kadavit ha goubredit ho kerioù-tremen etre ho holl drevnadoù en un doare diogel.
 protection-report-view-logins-button = Gwelout an titouroù kennaskañ
     .title = Monr d'an titouroù kennaskañ enrollet
+protection-report-save-passwords-button = Enrollañ ar gerioù-tremen
+    .title = Enrollañ ar gerioù-tremen e-barzh { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Merañ ar gerioù-tremen
+    .title = Merañ ar gerioù-tremen e-barzh{ -lockwise-brand-short-name }
 lockwise-mobile-app-title = Tapit ho kerioù-tremen ganeoc'h e pep lec'h
 lockwise-no-logins-card-content = Implijit ar gerioù-tremen enrollet e { -brand-short-name } war kement trevnad.
 lockwise-app-links = { -lockwise-brand-name } evit <a data-l10n-name="lockwise-android-inline-link">Android</a> hag <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
