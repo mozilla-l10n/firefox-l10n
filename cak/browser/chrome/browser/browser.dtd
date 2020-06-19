@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "o">
 <!ENTITY logins.label                           "Kitikirisaxik molojri'ïl chuqa' Ewan taq Tzij">
 
-<!ENTITY clearRecentHistory.label               "Tiyuj ri k'ak'a' natab'äl…">
+<!ENTITY clearRecentHistory.label               "Tiyuj K'ak'a' Natab'äl…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "p">
 
@@ -417,7 +417,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tik'ut pe ronojel ri natab'äl">
-<!ENTITY appMenuHistory.clearRecent.label "Tiyuj ri k'ak'a' natab'äl…">
+<!ENTITY appMenuHistory.clearRecent.label "Tiyuj K'ak'a' Natab'äl…">
 <!ENTITY appMenuHistory.restoreSession.label "Titzolin pa ri molojri'ïl xik'o">
 <!ENTITY appMenuHistory.viewSidebar.label "Titz'et runatab'al Sidebar">
 <!ENTITY appMenuHistory.hideSidebar.label "Tewäx Runatab'al Sidebar">
