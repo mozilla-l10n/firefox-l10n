@@ -19,7 +19,7 @@
 <!ENTITY spellAddToDictionary.accesskey "a">
 <!ENTITY spellUndoAddToDictionary.label "Titzolïx chi rij Titz'aqatisäx pa soltzij">
 <!ENTITY spellUndoAddToDictionary.accesskey "t">
-<!ENTITY spellCheckToggle.label "Tinik'öx rutz'ib'axik">
+<!ENTITY spellCheckToggle.label "Tinik'öx Rutz'ib'axik">
 <!ENTITY spellCheckToggle.accesskey "t">
 <!ENTITY spellNoSuggestions.label "(Majun taq kichilab'exik tz'ib'anïk)">
 <!ENTITY spellDictionaries.label "Taq ch'ab'äl">

@@ -693,7 +693,7 @@ sync-currently-syncing-prefs =
        *[other] Taq ajowab'äl
     }
 sync-change-options =
-    .label = Tijal...
+    .label = Tijal…
     .accesskey = j
 
 ## The "Choose what to sync" dialog.
@@ -800,8 +800,8 @@ forms-master-pw-use =
     .label = Tokisäx ri nimaläj ewan tzij
     .accesskey = T
 forms-master-pw-change =
-    .label = Tik'ex nimaläj ewan tzij…
-    .accesskey = n
+    .label = Tijal Ajtij Ewan Tzij…
+    .accesskey = A
 forms-master-pw-fips-title = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun nimaläj ewan tzij, ri man kowöl ta.
 forms-master-pw-fips-desc = Sachoj toq nijal ri ewan tzij
 

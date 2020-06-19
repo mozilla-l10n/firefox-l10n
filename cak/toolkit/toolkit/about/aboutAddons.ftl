@@ -19,7 +19,7 @@ list-empty-available-updates =
 list-empty-recent-updates =
     .value = Majun k'ak'a' k'exoj ab'anon chi ke ri taq tz'aqat
 list-empty-find-updates =
-    .label = Kekanöx taq jaloj
+    .label = Kenik'öx Taq K'exoj
 list-empty-button =
     .label = Tetamäx ch'aqa' chik chi kij ri taq tz'aqat
 install-addon-from-file =
@@ -127,9 +127,9 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = Kekanöx taq k'exoj
-    .accesskey = t
-    .tooltiptext = Kekanöx taq kik'exoj re taq tz'aqat re'
+    .label = Kenik'öx taq K'exoj
+    .accesskey = o
+    .tooltiptext = Kenik'öx kik'exoj re taq tz'aqat re'
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -231,12 +231,12 @@ extensions-warning-update-security-button = Titzij
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
-    .label = Kekanöx taq k'exoj
+    .label = Kenik'öx taq K'exoj
     .accesskey = K
 extensions-updates-view-updates =
     .label = Ketz'et k'ak'a' taq k'exoj
     .accesskey = K
-addon-updates-check-for-updates = Kekanöx taq k'exoj
+addon-updates-check-for-updates = Kenik'öx taq K'exoj
     .accesskey = K
 addon-updates-view-updates = Ketz'et k'ak'a' taq k'exoj
     .accesskey = K
@@ -442,7 +442,7 @@ addon-detail-updates-label = Tiya' q'ij chi ke ri Kiyonil k'exoj
 addon-detail-updates-radio-default = K'o wi
 addon-detail-updates-radio-on = Titzij
 addon-detail-updates-radio-off = Tichup
-addon-detail-update-check-label = Kekanöx taq k'exoj
+addon-detail-update-check-label = Kenik'öx taq K'exoj
 install-update-button = Tik'ex
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
