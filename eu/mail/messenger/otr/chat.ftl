@@ -10,3 +10,5 @@ start-tooltip =
     .tooltiptext = { start-text }
 end-label =
     .label = Amaitu elkarrizketa zifratua
+auth-label =
+    .label = Egiaztatu zure kontaktuaren identitatea
