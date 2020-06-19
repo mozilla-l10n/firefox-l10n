@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Súkromné prehliadanie)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Súkromné prehliadanie)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Súkromné prehliadanie)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Súkromné prehliadanie)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -138,12 +136,10 @@ urlbar-midi-blocked =
     .tooltiptext = Tejto stránke ste zakázali prístup k MIDI.
 urlbar-install-blocked =
     .tooltiptext = Tejto stránke ste zakázali inštaláciu doplnkov.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Umožní upraviť túto záložku ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -174,14 +170,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Vyhľadať pomocou:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Zmeniť nastavenia vyhľadávania
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Zmeniť nastavenia vyhľadávania
-
 search-one-offs-context-open-new-tab =
     .label = Vyhľadať na novej karte
     .accesskey = h
@@ -197,10 +191,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Pri ukladaní zobrazovať editor
     .accesskey = u
-
 bookmark-panel-done-button =
     .label = Hotovo
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -272,9 +264,16 @@ popup-select-microphone =
     .value = Zdieľať mikrofón:
     .accesskey = m
 popup-all-windows-shared = Všetky okná viditeľné na vašej obrazovke budú zdieľané.
+popup-screen-sharing-not-now =
+    .label = Teraz nie
+    .accesskey = n
+popup-screen-sharing-never =
+    .label = Nikdy nepovoliť
+    .accesskey = i
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-screen = Zdieľate celú svoju obrazovku. Ostatní ľudia uvidia obsah každej karty, ktorú otvoríte.
 
 ## DevTools F12 popup
 
@@ -291,11 +290,9 @@ urlbar-permissions-granted =
     .tooltiptext = Tejto stránke ste udelili dodatočné povolenia.
 urlbar-switch-to-tab =
     .value = Prejsť na kartu:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Rozšírenie:
-
 urlbar-go-button =
     .tooltiptext = Prejsť na adresu zadanú v paneli s adresou
 urlbar-page-action-button =

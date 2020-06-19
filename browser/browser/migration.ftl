@@ -92,6 +92,52 @@ imported-edge-reading-list = Zoznam na prečítanie (z Microsoft Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] História prehliadania a záložky
+           *[other] História prehliadania
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] História prehliadania a záložky
+           *[other] História prehliadania
+        }
+browser-data-formdata-checkbox =
+    .label = Údaje zadané do formulárov
+browser-data-formdata-label =
+    .value = Údaje zadané do formulárov
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Uložené prihlasovacie údaje
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Uložené prihlasovacie údaje
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Obľúbené položky
+            [edge] Obľúbené položky
+           *[other] Záložky
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Obľúbené položky
+            [edge] Obľúbené položky
+           *[other] Záložky
+        }
+browser-data-otherdata-checkbox =
+    .label = Iné údaje
+browser-data-otherdata-label =
+    .label = Iné údaje
 browser-data-session-checkbox =
     .label = Okná a karty
 browser-data-session-label =

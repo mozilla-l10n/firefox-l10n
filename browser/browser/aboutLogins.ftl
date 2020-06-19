@@ -122,6 +122,9 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = zobraziť uložené
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skopírovať uložené heslo
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = exportovať uložené prihlasovacie údaje
 
 ## Master Password notification
 
@@ -196,4 +199,14 @@ about-logins-error-message-default = Pri pokuse o uloženie tohto hesla nastala 
 
 # Title of the file picker dialog
 about-logins-export-file-picker-title = Exportovať súbor s prihlasovacími údajmi
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
 about-logins-export-file-picker-export-button = Exportovať
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument CSV
+       *[other] Súbor CSV
+    }

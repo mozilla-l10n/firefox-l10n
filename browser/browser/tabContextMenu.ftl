@@ -56,6 +56,18 @@ move-to-new-window =
 undo-close-tab =
     .label = Obnoviť zatvorenú kartu
     .accesskey = a
+tab-context-close-multiple-tabs =
+    .label = Zavrieť viaceré karty
+    .accesskey = Z
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Obnoviť zatvorenú kartu
+            [one] Obnoviť zatvorenú kartu
+            [few] Obnoviť zatvorené karty
+           *[other] Obnoviť zatvorené karty
+        }
+    .accesskey = O
 close-tab =
     .label = Zavrieť kartu
     .accesskey = Z
