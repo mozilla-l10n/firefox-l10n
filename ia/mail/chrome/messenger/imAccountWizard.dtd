@@ -4,6 +4,7 @@
 
 <!ENTITY windowTitle.label            "Assistente de chat">
 
+<!ENTITY accountProtocolTitle.label   "Rete chat">
 <!ENTITY accountProtocolField.label   "Rete:">
 <!ENTITY accountProtocolGetMore.label "Reciper plus...">
 
