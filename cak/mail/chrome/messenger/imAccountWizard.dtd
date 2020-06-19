@@ -24,7 +24,7 @@
 <!ENTITY accountAliasField.label      "Tz'ukun b'i'aj:">
 <!ENTITY accountAliasInfo.label       "Re re' xa xe xkewachin pa ri taq ach'abenik toq xkach'o, man xtikitz'ët ta ri näj kib'i' achib'il.">
 <!ENTITY accountProxySettings.caption "Proxi taq Nuk'ulem">
-<!ENTITY accountProxySettings.change.label     "Tijalwachïx…">
+<!ENTITY accountProxySettings.change.label     "Tijal…">
 <!ENTITY accountProxySettings.change.accessKey "j">
 
 <!ENTITY accountSummaryTitle.label   "Ch'utitzijol">

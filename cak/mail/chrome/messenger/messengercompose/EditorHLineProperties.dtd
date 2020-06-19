@@ -15,7 +15,7 @@
 <!ENTITY alignmentBox.label "Cholajem">
 <!ENTITY leftRadio.label "Xokon">
 <!ENTITY leftRadio.accessKey "X">
-<!ENTITY centerRadio.label "Nik'aj">
+<!ENTITY centerRadio.label "Pa nik'aj">
 <!ENTITY centerRadio.accessKey "N">
 <!ENTITY rightRadio.label "Ajkiq'a'">
 <!ENTITY rightRadio.accessKey "A">
