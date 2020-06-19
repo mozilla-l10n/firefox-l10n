@@ -263,15 +263,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Nñasɨnɨ nchuva´a nuu sitio web ya´a.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Nasɨ da pop-ups nuu sitio web ya´a.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Nñasɨnɨ nkajie´e kata nasun nuu web ya´a.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Noo´o nakasɨ tava datos canvas nuu sitio ya´a.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Noo´o nakasɨ nuu sitio ya´a ni´i plugin Adobe Flash.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Nñasɨnɨ acceso MIDI nuu web ya´a.">
+<!ENTITY urlbar.installBlocked.tooltip           "Nñasɨnɨ nchu´un ka̱a̱ chunta´an nuu web ya´a.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kutuvi sɨ´ɨ">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Nña'anu da inka permisos nuu web ya´a.">
 
 
 <!ENTITY searchItem.title             "Nánuku">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Nuu kajie´e">
+<!ENTITY homeButton.defaultPage.tooltip "Página nu kajie´e &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "A ta´a ini noo´o">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -279,6 +285,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksSubview.label             "A ta´a ini noo´o">
 <!ENTITY bookmarksMenuButton2.label         "A ta´a ini noo´o Menu">
 <!ENTITY bookmarksMenuButton.other.label    "Inka a ta´a ini noo´o">
+<!ENTITY bookmarksMenuButton.mobile.label   "A ta´a ini noo´o móviles">
+<!ENTITY viewBookmarksSidebar2.label        "Síne barra kuá´á marcadores">
+<!ENTITY hideBookmarksSidebar.label         "Chiyu'u barra kuá´á marcadores">
+<!ENTITY viewBookmarksToolbar.label         "Kune'ya barra a ta´a ini noo´o">
+<!ENTITY hideBookmarksToolbar.label         "Chiyu'u barra a ta´a ini noo´o">
 <!ENTITY searchBookmarks.label              "Nánuku a ta´a ini noo´o">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
@@ -400,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Síne prefrencias Sync">
 <!ENTITY appMenuRemoteTabs.signin.label "Kajie´e sesión ji Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Kajie'e sesión ji &syncBrand.shortName.label;...">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Tetiñu da ka̱a̱…">
@@ -420,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Q">
+<!ENTITY customizeMenu.addMoreItems.label "Tee kue'eka elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
