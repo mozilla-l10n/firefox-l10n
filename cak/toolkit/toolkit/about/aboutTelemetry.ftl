@@ -109,7 +109,7 @@ about-telemetry-current-data-sidebar = tzij k'o wakami
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ronojel
 # button label to copy the histogram
-about-telemetry-histogram-copy = Wachib'exïk
+about-telemetry-histogram-copy = Tiwachib'ëx
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Eqal taq b'ab' SQL pa ri nïm b'ätz'
 about-telemetry-slow-sql-other = Eqal taq b'ab' SQL pa taq achib'il b'ätz'

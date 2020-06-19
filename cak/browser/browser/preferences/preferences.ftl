@@ -859,7 +859,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Taq Kaxlanwey chuqa' Rutzij K'amaya'l
+sitedata-header = Taq Kuki chuqa' Rutzij Ruxaq
 sitedata-total-size-calculating = Tajin nipaj kinimilem taq rutzij chuqa' rujumejyak ruxaq k'amaya'l…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
