@@ -31,6 +31,7 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-how = Nola nahi duzu egiaztatu zure kontaktuaren identitatea?
 auth-question = Idatzi galdera:
 auth-answer = Idatzi erantzuna (letra larriak berezituz)
 auth-secret = Idatzi sekretua:
