@@ -6,7 +6,7 @@ navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
             [macos] Staka saa kutuvi nuu historial
-           *[other] Kuxin secundario a xiin staka kutuvi historial
+           *[other] Kuaxin secundario a xiin staka kutuvi historial
         }
 
 ## Back
