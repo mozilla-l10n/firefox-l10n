@@ -13,6 +13,10 @@
 <!ENTITY alwaysEncryptMessage.accesskey "З">
 <!ENTITY encryptionCert.message "При шифроване и дешифроване на писма, изпратени до вас, се използва този сертификат:">
 
+<!ENTITY e2eLearnMore.label "Научете повече">
+
+
+
 <!ENTITY digitalSign.certificate.button "Избор…">
 <!ENTITY digitalSign.certificate.accesskey "И">
 <!ENTITY digitalSign.certificate_clear.button "Изчистване">
@@ -31,6 +35,12 @@
 <!ENTITY manageCerts2.accesskey "У">
 <!ENTITY manageDevices.label "Защитни устройства">
 <!ENTITY manageDevices.accesskey "щ">
+
+
+
+
+
+
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Избор на сертификат">
