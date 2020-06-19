@@ -118,7 +118,7 @@ about-telemetry-slow-sql-average = Runik'ajal q'ijul (nik'q'ij)
 about-telemetry-slow-sql-statement = B'ab'
 # these strings are used in the “Add-on Details” section
 about-telemetry-addon-table-id = Nimaläj rub'i' tz'aqat
-about-telemetry-addon-table-details = Kib'anikil
+about-telemetry-addon-table-details = Taq b'anikil
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Ya'öl { $addonProvider }

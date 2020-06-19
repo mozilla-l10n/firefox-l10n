@@ -391,7 +391,7 @@ preferences-addon-button =
         [windows] Taq cha'oj
        *[other] Taq ajowab'äl
     }
-details-addon-button = Kib'anikil
+details-addon-button = Taq b'anikil
 release-notes-addon-button = Ruch'utitzijol re ruwäch re'
 permissions-addon-button = Taq ya'oj q'ij
 addons-enabled-heading = Tzijon
