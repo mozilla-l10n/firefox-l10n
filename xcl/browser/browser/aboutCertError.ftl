@@ -14,3 +14,4 @@ fileAccessDenied-title = Հասանելիութիւն նշին ժխտեալ է:
 netInterrupt-title = Կապն խզեցաւ:
 notCached-title = Ժամկիտանց փաստաթուղթ
 netReset-title = Կապն վերագործարկեցաւ
+blockedByPolicy-title = Արգելափակեալ երես
