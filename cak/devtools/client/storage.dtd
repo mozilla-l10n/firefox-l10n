@@ -8,7 +8,7 @@
 <!ENTITY searchBox.placeholder         "Kechayüx taq ch'akulal">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
-<!ENTITY storage.popupMenu.deleteAllLabel "Tiyuj el ronojel">
+<!ENTITY storage.popupMenu.deleteAllLabel "Tiyuj Ronojel">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
 <!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Tiyuj Ronojel Kikaxlanwey Molojri'ïl">
