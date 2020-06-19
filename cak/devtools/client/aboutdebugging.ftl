@@ -320,7 +320,7 @@ about-debugging-multiprocess-toolbox-description = Nïm Tajinïk chuqa'  Rutajin
 about-debugging-message-close-icon =
     .alt = Titz'apïx rutzijol
 # Label text used for the error details of message component.
-about-debugging-message-details-label-error = Rub'anikil sachoj
+about-debugging-message-details-label-error = Kisachoj taq b'anikil
 # Label text used for the warning details of message component.
 about-debugging-message-details-label-warning = Rub'anikil k'ayewal
 # Label text used for default state of details of message component.

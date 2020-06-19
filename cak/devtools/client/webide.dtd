@@ -38,9 +38,8 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Taq rajowaxïk okisaxel">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "o">
-<!ENTITY runtimeMenu_showSettings_label "Runuk'ulem okisaxel">
+<!ENTITY runtimeMenu_showSettings_label "Runuk'ulem Okisab'äl">
 <!ENTITY runtimeMenu_showSettings_accesskey "R">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Rub'eyal nisamäj">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "r">
 
@@ -136,7 +135,7 @@
 <!ENTITY devicepreference_addnew "Titz'aqatisäx jun k'ak'a' ajowaxïk">
 
 <!-- Device Settings -->
-<!ENTITY devicesetting_title "Runuk'ulem okisaxel">
+<!ENTITY devicesetting_title "Runuk'ulem Okisab'äl">
 <!ENTITY devicesetting_search "Kinuk'ulem taq kanoxïk">
 <!ENTITY devicesetting_newname "Rub'i' k'ak'a' nuk'ulem">
 <!ENTITY devicesetting_newtext "Tinuk'ub'ëx retal">
