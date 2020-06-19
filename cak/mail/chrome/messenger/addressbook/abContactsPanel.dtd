@@ -7,7 +7,7 @@
 <!ENTITY propertiesCmd.key                  "i">
 <!ENTITY abPropertiesMenu.label             "Kichinil Kiwujil taq Ochochib'äl">
 <!ENTITY abPropertiesMenu.accesskey         "i">
-<!ENTITY contactPropertiesMenu.label        "Taq Richinil Rub'i' Achib'il">
+<!ENTITY contactPropertiesMenu.label        "Kichinil Rub'i' Achib'il">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
 <!ENTITY mailingListPropertiesMenu.label    "Taq Richinil Rucholajem taqoya'l">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">

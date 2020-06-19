@@ -36,6 +36,6 @@
 <!ENTITY account.copyDebugLog.accesskey "w">
 <!ENTITY account.showDebugLog.label     "Titz'et ri Etamab'äl richin Nichojmïx">
 <!ENTITY account.showDebugLog.accesskey "t">
-<!ENTITY account.connecting           "Tajin nok…">
+<!ENTITY account.connecting           "Nok…">
 <!ENTITY account.disconnecting        "Tajin nichup…">
 <!ENTITY account.disconnected         "Man okinäq ta">
