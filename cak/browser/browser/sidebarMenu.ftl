@@ -9,4 +9,4 @@ sidebar-menu-history =
 sidebar-menu-synced-tabs =
     .label = Ximon taq ruwi'
 sidebar-menu-close =
-    .label = Titz'apïx ajxikin
+    .label = Titz'apïx Ajxikin

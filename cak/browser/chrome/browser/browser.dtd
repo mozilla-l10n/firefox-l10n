@@ -771,8 +771,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Runimilem">
 <!ENTITY fullZoom.accesskey             "R">
 
-<!ENTITY sidebarCloseButton.tooltip     "Titz'apïx ajxikin kajtz'ik">
-<!ENTITY sidebarMenuClose.label         "Titz'apïx ajxikin">
+<!ENTITY sidebarCloseButton.tooltip     "Titz'apïx ajxikin">
+<!ENTITY sidebarMenuClose.label         "Titz'apïx Ajxikin">
 
 <!ENTITY quitApplicationCmdWin2.label       "Tel">
 <!ENTITY quitApplicationCmdWin2.accesskey   "e">

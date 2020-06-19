@@ -15,8 +15,8 @@ duplicate-tabs =
     .label = Kekamulüx taq Ruwi'
     .accesskey = K
 close-tabs-to-the-end =
-    .label = Ketz'apïx taq Ruwi' pan Ajkiq'a'
-    .accesskey = i
+    .label = Ketz'apïx Ruwi' pan Ajkiq'a'
+    .accesskey = j
 close-other-tabs =
     .label = Ketz'apïx ri ch'aqa' chik taq ruwi'
     .accesskey = K
@@ -64,14 +64,14 @@ tab-context-undo-close-tabs =
         { $tabCount ->
             [1] Titzolïx Nitz'apïx Ruwi'
             [one] Titzolïx Nitz'apïx Ruwi'
-           *[other] Titzolïx Yetz'apïx Taq Ruwi'
+           *[other] Titzolïx Yetz'apïx Ruwi'
         }
     .accesskey = T
 close-tab =
     .label = Titz'apïx ruwi’
     .accesskey = T
 close-tabs =
-    .label = Ketz'apïx taq Ruwi'
+    .label = Ketz'apïx Ruwi'
     .accesskey = K
 move-tabs =
     .label = Kesilöx taq Ruwi'
