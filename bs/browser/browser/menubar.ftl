@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Štampaj…
     .accesskey = p
+menu-file-import-from-another-browser =
+    .label = Uvoz iz drugog browsera…
+    .accesskey = I
 menu-file-go-offline =
     .label = Radi offline
     .accesskey = R
@@ -97,6 +100,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Umanji
     .accesskey = U
+menu-view-full-zoom-actual-size =
+    .label = Stvarna veličina
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = Uvećaj samo tekst
     .accesskey = t
@@ -229,6 +235,9 @@ menu-help-product =
 menu-help-show-tour =
     .label = { -brand-shorter-name } vodič
     .accesskey = o
+menu-help-import-from-another-browser =
+    .label = Uvoz iz drugog browsera…
+    .accesskey = I
 menu-help-keyboard-shortcuts =
     .label = Shortcuti na tastaturi
     .accesskey = o
@@ -245,8 +254,7 @@ menu-help-safe-mode-with-addons =
     .label = Restartuj sa omogućenim add-onima
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Prijavi obmanjujuću stranicu…
     .accesskey = o
