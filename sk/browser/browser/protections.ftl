@@ -39,6 +39,10 @@ etp-card-title = Rozšírená ochrana pred sledovaním
 etp-card-content = Sledovacie prvky zbierajú informácie o tom, čo na internete robíte. { -brand-short-name } blokuje množstvo takýchto prvkov a ďalších škodlivých skriptov.
 protection-report-webpage-title = Nástenka ochrany súkromia
 protection-report-page-content-title = Nástenka ochrany súkromia
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } chráni vaše súkromie počas prehliadania. Toto je prehľad ochranných nástrojov, s ktorými máte kontrolu nad svojou online bezpečnosťou.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } chráni vaše súkromie počas prehliadania. Toto je prehľad ochranných nástrojov, s ktorými máte kontrolu nad svojou online bezpečnosťou.
 etp-card-title-always = Rozšírená ochrana pred sledovaním: vždy zapnutá
 etp-card-title-custom-not-blocking = Rozšírená ochrana pred sledovaním: VYPNUTÁ
 protection-report-etp-card-content-custom-not-blocking = Všetky prvky ochrany sú v tejto chvíli vypnuté. V nastaveniach aplikácie { -brand-short-name } vyberte, ktoré sledovacie prvky chcete blokovať.
@@ -66,6 +70,7 @@ mobile-app-card-content = Používajte mobilný prehliadač so vstavanou ochrano
 mobile-app-links = Prehliadač { -brand-product-name } pre <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Už žiadne zabudnuté heslá
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Správa hesiel
 lockwise-header-content = { -lockwise-brand-name } bezpečne uchováva vaše heslá vo vašom prehliadači.
 lockwise-header-content-logged-in = Ukladajte a synchronizujte heslá bezpečne naprieč svojimi zariadeniami.
 protection-report-view-logins-button = Zobraziť prihlasovacie údaje
@@ -145,6 +150,8 @@ password-warning =
     }
 monitor-no-breaches-title = Dobré správy!
 monitor-breaches-unresolved-description = Po preskúmaní podrobností o úniku a prijatí opatrení na ochranu vašich osobných údajov môžete označiť úniky ako vyriešené.
+monitor-partial-breaches-motivation-title-start = Skvelý začiatok
+monitor-partial-breaches-motivation-title-middle = Len tak ďalej
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
