@@ -17,6 +17,8 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> ka̱a̱ nita noo´o nnasɨ nee { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> ka̱a̱ nita noo´o nnasɨ nee { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+protection-report-webpage-title = Panel de protecciones
+protection-report-page-content-title = Panel de protecciones
 protection-report-manage-protections = Tetiñu nuu kei´i
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -30,7 +32,9 @@ protections-close-button2 =
     .title = Nakasɨ
 lockwise-title = Nna ininu íchika contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Nu tetiñu da contraseñas
 lockwise-header-content = { -lockwise-brand-name } chuva'a vatu da contraseña nuu ka̱a̱ nánuku.
+lockwise-header-content-logged-in = Chuva'a je sa sincronizar contraseñas nu ntaka da ka̱a̱ kumi noo'o.
 protection-report-view-logins-button = Kune'ya credenciales
     .title = Kɨ'ɨo nuu kajie´e sesión nchuva´a
 protection-report-save-passwords-button = Chuva'a contraseñas
@@ -45,6 +49,11 @@ turn-on-sync = Activar { -sync-brand-short-name }...
 manage-connected-devices = …Tetiñu da ka̱a̱…
 monitor-link = Naja satiñu
 monitor-no-breaches-title = Tu'un va'a!
+monitor-view-report-link = Kune´ya reporte
+    .title = Nasá´á da filtraciones { -monitor-brand-short-name }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved } % nsá´á
 monitor-partial-breaches-motivation-title-start = ¡Va'a nkajie'enu!
 monitor-partial-breaches-motivation-title-middle = ¡Kaka sukuan!
 monitor-partial-breaches-motivation-title-end = ¡Sani nɨ'ɨo! Kaka sukuan.

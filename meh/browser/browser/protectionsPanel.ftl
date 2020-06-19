@@ -40,6 +40,8 @@ protections-panel-not-blocking-label = Kuvi
 ##
 
 protections-panel-showreport-label = Kune´ya reporte
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Panel de protección
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

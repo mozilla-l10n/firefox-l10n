@@ -200,9 +200,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "A ta´a ini noo´o">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Tee página ya´a nuu a ta´an ini noo´o">
+<!ENTITY editThisBookmarkCmd.label "Sama marcador ya´a">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
+<!ENTITY addCurPagesCmd.label "Tee da pestañas nune...">
 
+<!ENTITY showAllBookmarks2.label "Xituvi kuaiyo a ta´a ini noo´o">
 <!ENTITY recentBookmarks.label "A ta´a ini noo´o skuata ntee">
 <!ENTITY otherBookmarksCmd.label "Inka a ta´a ini noo´o">
 <!ENTITY mobileBookmarksCmd.label "A ta´a ini noo´o móviles">
@@ -221,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 
+<!ENTITY goEndCap.tooltip             "Kaka nu barra nuu.">
 
 <!ENTITY printButton.label            "Nátava">
 <!ENTITY printButton.tooltip          "Natava página ya´a">
@@ -252,6 +256,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Síne panel MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ka̱a̱ natava nasɨ nuu sitio web ya´a.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Microfono noo´o nasɨ nuu  web ya´a.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Nuu web ya´a nasɨ je nkuvi kua´a pantalla.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Nasɨ información nuu iñɨ noo´o nuu web ya´a.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Nasɨ da notificaciones nuu sitio web ya´a.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Nñasɨnɨ nchuva´a nuu sitio web ya´a.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Nasɨ da pop-ups nuu sitio web ya´a.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Nñasɨnɨ nkajie´e kata nasun nuu web ya´a.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kutuvi sɨ´ɨ">
 
