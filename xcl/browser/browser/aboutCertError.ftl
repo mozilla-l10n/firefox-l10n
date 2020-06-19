@@ -6,3 +6,5 @@
 ## Messages used for certificate error titles
 
 deniedPortAccess-title = Այս հասցէ արգելափակեալ է:
+fileNotFound-title = Նիշն գտեալ չէ:
+fileAccessDenied-title = Հասանելիութիւն նշին ժխտեալ է:
