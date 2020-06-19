@@ -22,7 +22,7 @@
 <!ENTITY account.autoSignOn.accesskey "t">
 <!ENTITY account.connect.label        "Tokisäx">
 <!ENTITY account.connect.accesskey    "o">
-<!ENTITY account.disconnect.label     "Tichuq">
+<!ENTITY account.disconnect.label     "Tichup">
 <!ENTITY account.disconnect.accesskey "i">
 <!ENTITY account.delete.label         "Tiyuj">
 <!ENTITY account.delete.accesskey     "y">
@@ -37,5 +37,5 @@
 <!ENTITY account.showDebugLog.label     "Titz'et ri Etamab'äl richin Nichojmïx">
 <!ENTITY account.showDebugLog.accesskey "t">
 <!ENTITY account.connecting           "Nok…">
-<!ENTITY account.disconnecting        "Tajin nichup…">
+<!ENTITY account.disconnecting        "Nichup…">
 <!ENTITY account.disconnected         "Man okinäq ta">
