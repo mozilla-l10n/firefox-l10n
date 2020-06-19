@@ -38,7 +38,7 @@
 <!ENTITY cmd.backup.accesskey           "T">
 <!ENTITY cmd.restore2.label             "Titzolïx ruk'ojlem">
 <!ENTITY cmd.restore2.accesskey         "T">
-<!ENTITY cmd.restoreFromFile.label      "Ticha' yamb'äl…">
+<!ENTITY cmd.restoreFromFile.label      "Ticha' Yakb'äl…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
 <!ENTITY cmd.deleteDomainData.label     "Timestäx re ruxaq k'amaya'l re'">

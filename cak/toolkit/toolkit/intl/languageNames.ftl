@@ -208,5 +208,5 @@ language-name-yi = Judio
 language-name-yo = Yoruba
 language-name-za = Zhuang
 language-name-zam = Myawatlan Sapotek
-language-name-zh = Chino
+language-name-zh = Chino ch'ab'äl
 language-name-zu = Zulu
