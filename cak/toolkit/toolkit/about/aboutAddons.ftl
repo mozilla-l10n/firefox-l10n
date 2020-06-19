@@ -46,7 +46,7 @@ show-unsigned-extensions-button =
 show-all-extensions-button =
     .label = Kek'ut pe konojel ri taq ruk'amal
 debug-addons =
-    .label = Kechojmirisäx taq tz'aqat
+    .label = Kechojmirisäx taq Tz'aqat
     .accesskey = c
 cmd-show-details =
     .label = Kek'ut pe ch'aqa' chik rutzijol
@@ -295,7 +295,7 @@ addon-install-from-file = Tiyak ri tz'aqat rik'in ri yakb'äl…
     .accesskey = T
 addon-install-from-file-dialog-title = Ticha' re tz'aqat re' richin niyak qa
 addon-install-from-file-filter-name = Taq tz'aqat
-addon-open-about-debugging = Kechojmirisäx taq tz'aqat
+addon-open-about-debugging = Kechojmirisäx taq Tz'aqat
     .accesskey = c
 
 ## Extension shortcut management

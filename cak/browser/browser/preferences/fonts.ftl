@@ -141,6 +141,6 @@ fonts-languages-fallback-name-other =
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Ruk'amon wi pe ({ $name })
+    .label = K'o wi ({ $name })
 fonts-label-default-unnamed =
     .label = K'o wi
