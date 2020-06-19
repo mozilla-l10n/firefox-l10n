@@ -242,7 +242,7 @@ identity-disable-mixed-content-blocking =
     .accesskey = D
 identity-enable-mixed-content-blocking =
     .label = Tee protección
-    .accesskey = h
+    .accesskey = H
 identity-more-info-link-text =
     .label = Kue´eka tu´un
 
@@ -265,7 +265,7 @@ popup-select-microphone =
     .accesskey = M
 popup-screen-sharing-not-now =
     .label = Nkuvi ntañu´u
-    .accesskey = W
+    .accesskey = n
 popup-screen-sharing-never =
     .label = Nkua'a ni'i íchi
     .accesskey = N
