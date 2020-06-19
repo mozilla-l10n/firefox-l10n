@@ -145,7 +145,7 @@ newtab-label-sponsored-by = Xto' rub'anikil ruma { $sponsor }
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Tiyuj Tanaj
-newtab-section-menu-collapse-section = Tiwulüx Peraj
+newtab-section-menu-collapse-section = Tich'utinarisäx Peraj
 newtab-section-menu-expand-section = Tirik' Peraj
 newtab-section-menu-manage-section = Tinuk'samajïx Peraj
 newtab-section-menu-manage-webext = Tinuk'samajïx K'amal
@@ -158,7 +158,7 @@ newtab-section-menu-privacy-notice = Ichinan na'oj
 ## Section aria-labels
 
 newtab-section-collapse-section-label =
-    .aria-label = Tik'ol Peraj
+    .aria-label = Tich'utinarisäx Peraj
 newtab-section-expand-section-label =
     .aria-label = Tirik' Peraj
 

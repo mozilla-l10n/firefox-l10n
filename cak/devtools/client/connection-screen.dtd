@@ -7,13 +7,12 @@
   - in the Web Developer menu.
   - -->
 
-
 <!ENTITY title      "Tokisäx">
 <!ENTITY header     "Tokisäx rik'in ri näj okisaxel">
 <!ENTITY host       "Ruk'u'x Samaj:">
 <!ENTITY port       "B'ey:">
 <!ENTITY connect    "Tichuq apo">
-<!ENTITY connecting "Tajin nok…">
+<!ENTITY connecting "Nok…">
 <!ENTITY availableAddons "Wachel näj taq tz'aqat:">
 <!ENTITY availableTabs "Taq näj ruwi' eq'aläj:">
 <!ENTITY availableProcesses "Näj tajin e tzijïl:">
@@ -21,10 +20,10 @@
 <!ENTITY errorTimeout "Sachoj: xk'is ri ximoj.">
 <!ENTITY errorRefused "Sachoj: xxutüx ri ximoj.">
 <!ENTITY errorUnexpected "Man oyob'en ta re sachoj.">
+
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
 <!ENTITY remoteHelp "Ri nuk'unel taq rusamajib'al Firefox tikirel yekipararej näj okisaxela' (Firefox richin Android chuqa' Firefox OS, pa tz'etb'äl). Tatz'eta' chi tzijïl ri cha'oj ‘Näj pararenïk’ pa ri näj okisaxel. Richin ch'aqa' chik etamab'äl tatz'eta' ri ">
 <!ENTITY remoteDocumentation "yaköl wuj">
 <!ENTITY remoteHelpSuffix ".">
