@@ -197,7 +197,7 @@
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.title.label "B'i'aj:">
 <!ENTITY calendar.print.layout.label "Wachib'enïk:">
-<!ENTITY calendar.print.currentView2.label "Rutzub'al wakami">
+<!ENTITY calendar.print.currentView2.label "Rutzub'al Wakami">
 <!ENTITY calendar.print.events.label "Taq Molojri'ïl">
 <!ENTITY calendar.print.from.label "Richin:">
 <!ENTITY calendar.print.to.label "Chi re:">
