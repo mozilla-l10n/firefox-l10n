@@ -4,18 +4,32 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-
 <!ENTITY menu_securityEncryptRequire.label "Шифроване на писмото">
+
+<!ENTITY menu_securityDoNotEncrypt.label "Без шифроване">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "з">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "Ш">
+<!ENTITY menu_securityEncryptRequire2.label "Изискване за шифроване">
+<!ENTITY menu_securityEncryptRequire.accesskey "ш">
 
 <!ENTITY menu_securitySign.label "Цифрово подписване на писмото">
 <!ENTITY menu_securitySign.accesskey "Ц">
+
+<!ENTITY menu_securityAttachMyKey.label "Прикачане на публичния ми ключ">
+<!ENTITY menu_securityAttachMyKey.accesskey "п">
+
+<!ENTITY menu_securityTech.label "Технология на шифроване">
+<!ENTITY menu_securityTech.accesskey "т">
+
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Подробности за защитата">
 <!ENTITY menu_securityStatus.accesskey "б">

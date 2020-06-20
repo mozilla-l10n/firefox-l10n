@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Отваряне на файл от твърдия диск">
 <!ENTITY saveToolbarCmd.tooltip "Запазване на файла на твърдия диск">
 <!ENTITY publishToolbarCmd.tooltip "Качаване на файл на отдалечен адрес">
+<!ENTITY printToolbarCmd.label "Отпечатване">
+<!ENTITY printToolbarCmd.tooltip "Отпечатване на страницата">
