@@ -443,6 +443,8 @@
 <!ENTITY openMessageWindowCmd.label "Отваряне на писмо">
 <!ENTITY openMessageWindowCmd.accesskey "я">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openInConversationCmd.label "Преглед на разговора">
+<!ENTITY openInConversationCmd.accesskey "е">
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Прикачени файлове">
 <!ENTITY openAttachmentListCmd.accesskey "ф">
@@ -588,6 +590,7 @@
 <!ENTITY fileButton.tooltip "Запазване като файл">
 <!ENTITY archiveButton.tooltip "Архивиране на избраните съобщения">
 <!ENTITY openConversationButton.tooltip "Показване на разговора на избраното съобщение">
+<!ENTITY openMsgConversationButton.tooltip "Показване на разговора на избраното съобщение">
 <!ENTITY nextButton.tooltip "Напред към следващото непрочетено писмо">
 <!ENTITY nextMsgButton.tooltip "Напред към следващото непрочетено писмо">
 <!ENTITY previousButton.tooltip "Назад към предишното непрочетено писмо">
@@ -707,6 +710,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Запазване на търсенето като папка…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Избиране на съобщения">
 <!ENTITY threadColumn.label "Дискусия">
 <!ENTITY fromColumn.label "Подател">
 <!ENTITY recipientColumn.label "Получател">
@@ -732,6 +736,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Избиране на видими колони">
+<!ENTITY selectColumn.tooltip "Превключва избирането на всички съобщения">
 <!ENTITY threadColumn2.tooltip "Показване на нишките на съобщенията">
 <!ENTITY fromColumn2.tooltip "Сортиране по подател">
 <!ENTITY recipientColumn2.tooltip "Сортиране по получател">
