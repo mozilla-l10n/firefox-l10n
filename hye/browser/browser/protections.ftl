@@ -29,10 +29,12 @@ protection-report-header-details-standard = Պաշտպանութեան <b>Ստա
     .title = Գաղտնիութեան կարգաբերումներ
 protection-report-header-details-strict = Պաշտպանութեան <b>Խիստ</b>մակարդակ
     .title = Գաղտնիութեան կարգաբերումներ
+protection-report-header-details-custom = Պաշտպանութեան <b>Ընտրովի</b>մակարդակ
+    .title = Գաղտնիութեան կարգաբերումներ
 protection-report-page-title = Գաղտնիութեան պաշտպանութիւն
 protection-report-content-title = Գաղտնիութեան պաշտպանութիւն
-etp-card-title = Ընդլայնուած Հետագծման Պաշտպանութիւն
-etp-card-content = Հետագծողները Ձեզ հետեւում են առցանց՝ ձեր զննման սովորույթների եւ հետաքրքրութիւնների վերաբերեալ տեղեկատուութիւն հաւաքելու համար: { -brand-short-name } ֊ը արգելափակում է  նման հետագծումներ եւ այլ չարամիտ գրութիւններ:
+etp-card-title = Ընդլայնուած Հետապնդման Պաշտպանութիւն
+etp-card-content = Լրտեսները Ձեզ հետեւում են առցանց՝ ձեր զննման սովորոյթների եւ հետաքրքրութիւնների վերաբերեալ տեղեկատուութիւն հաւաքելու համար: { -brand-short-name } ֊ը արգելափակում է այս լրտեսներին եւ այլ վտանգաւոր գրութիւններ:
 protection-report-webpage-title = Պաշտպանութեան կառավահան
 protection-report-page-content-title = Պաշտպանութեան կառավահան
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
