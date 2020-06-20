@@ -15,7 +15,7 @@ about-config-search-input =
 
 about-config-intro-warning-title = بەردەوام بە وریایەوە
 about-config-intro-warning-text = گۆڕینی ئەم هەڵبژاردنانە پێشکەوتووانە لەوانەیە کاربکاتە سەر توانای کار و پاراستنی { -brand-short-name }.
-about-config-intro-warning-checkbox = ئاگادارم کەرەوە کاتێک دەمەوێت بچمە ناو هەڵبژاردنەکانەوە
+about-config-intro-warning-checkbox = ئاگادارم کەرەوە کاتێک دەمەوێت بچمە ناو لەپێشینەکان
 about-config-intro-warning-button = مەترسیەکە وەردەگرم و بەردەوام بە
 
 ##
