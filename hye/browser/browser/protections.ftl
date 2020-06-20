@@ -148,6 +148,14 @@ info-known-breaches-found =
        *[other] Յայտնի տուեալների խախտումները բացայայտեցին Ձեր տեղեկատուութիւնը
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Յայտնի արտահոսք՝ կարգաւորուած
+       *[other] Յայտնի արտահոսք՝ կարգաւորուած
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -197,6 +205,8 @@ monitor-partial-breaches-motivation-title-start = Հրաշալի՜ մեկնար�
 monitor-partial-breaches-motivation-title-middle = Շարունակի՜ր նոյն կերպ։
 monitor-partial-breaches-motivation-title-end = Գրեթե աւարտում ենք։ Շարունակէք։
 monitor-partial-breaches-motivation-description = Մնացած արտահոսքերը կարգաւորել { -monitor-brand-short-name }֊ում։
+monitor-resolve-breaches-link = Կարգաւորել արտահոսքերը
+    .title = Կարգաւորել արտահոսքերը { -monitor-brand-short-name }֊ում
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -206,34 +216,32 @@ monitor-partial-breaches-motivation-description = Մնացած արտահոսք�
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Սոց մեդիայի հետեւումներ
+    .title = Սոցցանցերի լրտեսներ
     .aria-label =
         { $count ->
-            [one] { $count } սոց մեդիայի հետեւում ({ $percentage }%)
-           *[other] { $count } սոց մեդիայի հետեւումներ ({ $percentage }%)
+            [one] { $count } սոցցանցի լրտես ({ $percentage }%)
+           *[other] { $count } սոցցանցի լրտես ({ $percentage }%)
         }
 bar-tooltip-cookie =
-    .title = Միջակայքի հետեւման նշոցիկներ
+    .title = Միջ կայքային լրտեսային նշոցիկներ
     .aria-label =
         { $count ->
-            [one] { $count } միջակայքի հետեւման նշոցիկ ({ $percentage }%)
-           *[other] { $count } միջակայքի հետեւման նշոցիկներ ({ $percentage }%)
+            [one] { $count } միջ կայքային լրտեսային նշոցիկ ({ $percentage }%)
+           *[other] { $count } միջ կայքային լրտեսային նշոցիկներ ({ $percentage }%)
         }
 bar-tooltip-tracker =
-    .title = Հետեւող բովանդակութիւն
+    .title = Լրտեսական բովանդակութիւն
     .aria-label =
         { $count ->
-            [one] { $count }հետեւող բովանդակութիւն ({ $percentage }%)
-           *[other] { $count }հետեւող բովանդակութիւն ({ $percentage }%)
+            [one] { $count } լրտեսական բովանդակութիւն ({ $percentage }%)
+           *[other] { $count } լրտեսական բովանդակութիւն ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
     .title = Մատնահետքեր
     .aria-label =
         { $count ->
-            [one] { $count }Մատնահետք ({ $percentage }%)
-           *[other]
-                	
-                { $count }Մատնահետքեր ({ $percentage }%)
+            [one] { $count } մատնահետք ({ $percentage }%)
+           *[other] { $count } մատնահետքեր ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Գաղտնազերծիչներ
