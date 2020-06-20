@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Основни">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Дневен и седмичен изглед">
 <!ENTITY pref.calendar.view.multiweekview.caption "Многоседмичен изглед">
 <!ENTITY pref.calendar.view.workweek.caption "Работна седмица">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Показване номера на седмицата в изгледите и минимесеца">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "с">
 <!ENTITY pref.daysoff.label "Включи тези дни в работната седмица">
+
+<!ENTITY pref.workweekDays.label "Работни дни:">
 
 <!ENTITY pref.calendar.view.daystart.label "Денят започва в:">
 <!ENTITY pref.calendar.view.daystart.accesskey "Д">
@@ -37,3 +40,5 @@
 <!ENTITY pref.numberofweeks.4 "4 седмици">
 <!ENTITY pref.numberofweeks.5 "5 седмици">
 <!ENTITY pref.numberofweeks.6 "6 седмици">
+<!ENTITY pref.showlocation.label "Показване на местоположението">
+<!ENTITY pref.showlocation.accesskey "l">
