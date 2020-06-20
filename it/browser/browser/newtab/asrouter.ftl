@@ -212,6 +212,8 @@ cfr-protections-panel-link-text = Ulteriori informazioni
 cfr-doorhanger-milestone-heading = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti dal { $date }.
 cfr-doorhanger-milestone-ok-button = Visualizza tutto
   .accesskey = V
+cfr-doorhanger-milestone-close-button = Chiudi
+  .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
