@@ -18,8 +18,10 @@ error-short-desc-text = ئێمە هاتوین تۆ ببەین بۆ ئاشتی و
 error-long-desc2 = رۆبۆتەکان شتی وایان بینیوە ئێوەی خەڵك باوەر ناکەن.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = ڕۆبۆتەکان هاوڕێ پلاستیکەکانی ئێوەن کە هەموو کەسێک حەزدەکات بەشدار بێت لەگەڵیان.
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = ڕۆبۆتەکان روخسارێکی کانزایی رەونەق داریان هەیە کە نابێت گازیان لێبگیرێت.
 # TV: Battlestar Galactica (2004 series). From the opening text.
-error-trailer-desc-text = هەروەها پلانیان هەیە ئەوان
+error-trailer-desc-text = وە ئەوان پلانیان هەیە.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 error-try-again = دووبارە هەوڵ بدەرەوە
     .label2 = تکایە پەنجە بەم دوگمەیە مەنێرەوە جارێ تر.
