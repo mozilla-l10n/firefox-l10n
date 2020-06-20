@@ -177,6 +177,11 @@ monitor-no-breaches-description = Յայտնի արտահոսքեր չկան։ �
 monitor-view-report-link = Դիտել հաշուետուութիւնը
     .title = Կարգաւորել արտահոսքերը { -monitor-brand-short-name }֊ի միջոցով
 monitor-breaches-unresolved-title = Կարգաւորել արտահոսքերը։
+monitor-breaches-unresolved-description = Արտահոսքի մանրամասներն ուսումնասիրելուց եւ պաշտպանական քայլեր ձեռնարկելուց յետոյ կարող էք խնդիրն համարել կարգաւորուած։
+monitor-manage-breaches-link = Կարգաւորել արտահոսքերը
+    .title = Կարգաւորել արտահոսքերը { -monitor-brand-short-name }֊ում
+monitor-breaches-resolved-title = Հրաշալի՜։ բոլոր յայտնի արտահոսքերը կարգաւորուած են։
+monitor-breaches-resolved-description = Եթե Ձեր ել․հասցէն յայտնուի որեւէ նոր արտահոսքում, կը տեղեկացնենք։
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
