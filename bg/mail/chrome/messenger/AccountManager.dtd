@@ -8,6 +8,8 @@
 
 <!ENTITY accountManagerTitle.label "Настройки на регистрация">
 
+<!ENTITY  accountManagerCloseButton.label "Затваряне">
+
 <!ENTITY accountActionsButton.label "Действия по регистрацията">
 <!ENTITY accountActionsButton.accesskey "р">
 <!ENTITY addMailAccountButton.label "Добавяне на пощенска регистрация…">

@@ -7,22 +7,29 @@
 <!ENTITY name.label                      "Вашето име:">
 <!ENTITY name.accesskey                  "и">
 <!ENTITY name.placeholder                "Име Фамилия">
+<!ENTITY fullname.placeholder            "Вашето цяло име">
 <!ENTITY name.text                       "Вашето име, както ще го видят другите">
+<!ENTITY name.error                      "Моля, въведете името си">
 <!ENTITY email.label                     "Адрес на ел. поща:">
 <!ENTITY email.accesskey                 "Е">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Вашият адрес на ел. поща">
 <!ENTITY email.text                      "Вашият съществуващ адрес на ел. поща">
+<!ENTITY email.error                     "Недействителен адрес на ел. поща">
 <!ENTITY password.label                  "Парола:">
 <!ENTITY password.accesskey              "П">
 <!ENTITY password.placeholder            "Парола">
 <!ENTITY password.text                   "По избор, ще се използва само за проверка на името">
 <!ENTITY rememberPassword.label          "Запомняне на паролата">
 <!ENTITY rememberPassword.accesskey      "а">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
 <!ENTITY imapLong.label                  "IMAP (отдалечени папки)">
 <!ENTITY pop3Long.label                  "POP3 (съхраняване пощата на компютъра)">
 
+<!ENTITY manualConfigTable.summary       "Настройки на сървъра">
 <!ENTITY incoming.label                  "Входящ:">
 <!ENTITY outgoing.label                  "Изходящ:">
 <!ENTITY username.label                  "Потребителско име:">
@@ -31,7 +38,8 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Удостоверяване">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
+<!ENTITY pop3.label                      "POP3">
+<!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Автоустановяване">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -39,6 +47,8 @@
 <!ENTITY noEncryption.label              "Без">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
+
+<!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 
 <!ENTITY advancedSetup.label             "Още настройки">
 <!ENTITY advancedSetup.accesskey         "О">
@@ -49,7 +59,7 @@
 <!ENTITY stop.label                      "Стоп">
 <!ENTITY stop.accesskey                  "С">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Тест отново">
@@ -58,6 +68,8 @@
 <!ENTITY manual-edit.accesskey           "Р">
 <!ENTITY open-provisioner.label          "Получете нов адрес на ел. поща…">
 <!ENTITY open-provisioner.accesskey      "а">
+
+
 
 
 <!ENTITY warning.label                   "Внимание!">
