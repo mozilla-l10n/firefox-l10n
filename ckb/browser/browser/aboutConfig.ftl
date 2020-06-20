@@ -4,6 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = دراگۆنەکان لێرەن!
+about-config-warning-text = گۆڕینی ئەم رێکخستنە پێشکەوتووە دەکرێت زیانبەخش بێت بۆ جێگیری، ئاسایش، وە کارکردنی ئەم نەرمە کاڵایە. تۆ پێویستە بەردەوام بیت تەنها ئەوکاتەی کە دەزانی چی دەکەیت.
 about-config-warning-checkbox = بێزارم کە دووبارە، تکایە!
 about-config-warning-button = بە مەترسیەکە ڕازیم
 about-config2-title = ڕێکخستنی پێشکەوتوو
