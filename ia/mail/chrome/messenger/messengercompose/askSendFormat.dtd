@@ -6,6 +6,8 @@
 
 
 
+<!ENTITY htmlOnly.label "Inviar solo in HTML">
+<!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Inviar">
 <!ENTITY send.accesskey "I">
