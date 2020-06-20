@@ -26,7 +26,10 @@
 <!ENTITY password.toggle                 "Показва или скрива паролата">
 <!ENTITY rememberPassword.label          "Запомняне на паролата">
 <!ENTITY rememberPassword.accesskey      "а">
+<!ENTITY usernameEx.label                "Потребителско име:">
+<!ENTITY usernameEx.accesskey            "и">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "YOURDOMAIN\yourusername">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
 <!ENTITY protocol.label                  "Протокол:">
@@ -34,8 +37,10 @@
 <!ENTITY pop3Long.label                  "POP3 (съхраняване пощата на компютъра)">
 
 <!ENTITY manualConfigTable.summary       "Настройки на сървъра">
-<!ENTITY incoming.label                  "Входящ:">
-<!ENTITY outgoing.label                  "Изходящ:">
+<!ENTITY incoming.label                  "Входяща:">
+<!ENTITY incomingColumn.label            "Входяща">
+<!ENTITY outgoing.label                  "Изходяща:">
+<!ENTITY outgoingColumn.label            "Изходяща">
 <!ENTITY username.label                  "Потребителско име:">
 <!ENTITY hostname.label                  "Име на сървъра">
 <!ENTITY port.label                      "Порт">
@@ -106,11 +111,9 @@
 <!ENTITY changeSettings.label            "Промяна на настройките">
 <!ENTITY changeSettings.accesskey        "н">
 
-<!ENTITY contactYourProvider.description "&brandShortName; ви дава възможност да получите ващата поща с помощта на дадените настройки. Въпреки това се свържете с вашия администратор или доставчик относно тези неправилни връзки. За повече информация вижте ЧЗВ на Thunderbird.">
 
 <!ENTITY insecureServer.tooltip.title    "Внимание! Това е незащитен сървър.">
 <!ENTITY insecureServer.tooltip.details  "Щракнете на кръгчето за подробности.">
 
-<!ENTITY insecureUnencrypted.description "Вашата поща и удостоверяването се изпращат нешифровани, поради което паролата ви и писмото могат лесно да бъдат прочетени от други хора. &brandShortName; ще ви отвори пощата, но вие трябва да се свържете с вашия доставчик на пощенска услуга, за да конфигурира сървъра за защитена връзка.">
 <!ENTITY insecureSelfSigned.description  "Сървърът използва недоверен сертификат и поради това не можете да бъдете сигурни за връзка между &brandShortName; и вашия сървър. &brandShortName; ще ви позволи да си получите пощата, но вие наистина трябва да поискате от вашия доставчик да конфигурира сървъра с доверен сертификат.">
 <!ENTITY secureServer.description        "Поздравления! Това е защитен сървър.">
