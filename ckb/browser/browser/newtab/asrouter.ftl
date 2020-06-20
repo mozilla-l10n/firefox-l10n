@@ -30,7 +30,7 @@ cfr-doorhanger-extension-learn-more-link = زیاتر بزانە
 cfr-doorhanger-extension-author = لە لایەن { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
-cfr-doorhanger-extension-notification = پێشنیارکراو
+cfr-doorhanger-extension-notification = پێشنیازکراو
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -69,7 +69,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
-cfr-protections-panel-header = بگەڕێ بێ ئەوەی چاودێریبکرێیت
+cfr-protections-panel-header = بگەڕێ بێئەوەی چاودێری بکرێیت
 cfr-protections-panel-body = زانیارییەکانت بپارێزە. { -brand-short-name } دەتپارێزێت لە زۆرێک لەو پەیگرانەی کە شوێنپێت هەڵ دەگرن لە سەرهێڵ.
 cfr-protections-panel-link-text = زیاتر بزانە
 
@@ -93,8 +93,8 @@ cfr-whatsnew-tracking-protect-link-text = ڕاپۆرت پیشان بدە
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-        [one] چاودێریکەر بلۆک کرا
-       *[other] چاودێریکەر بلۆک کرا
+        [one] شوینپێ هەڵگر بلۆک کرا
+       *[other] شوینپێ هەڵگر بلۆک کرا
     }
 cfr-whatsnew-tracking-blocked-subtitle = لە { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ڕاپۆرت پیشان بدە
