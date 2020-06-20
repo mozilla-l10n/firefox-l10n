@@ -32,6 +32,7 @@ menu =
     .title = Отваря менюто
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Внасяне от друг мрежов четец…
+about-logins-menu-menuitem-export-logins = Изнасяне на регистрации…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Настройки
@@ -154,6 +155,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Изтриване на регистрацията?
 confirm-delete-dialog-message = Действието е необратимо.
 about-logins-confirm-remove-dialog-confirm-button = Премахване
+about-logins-confirm-export-dialog-title = Изнасяне на регистрации и пароли
+about-logins-confirm-export-dialog-confirm-button = Изнасяне…
 confirm-discard-changes-dialog-title = Отказвате се от промените?
 confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отхвърляне
