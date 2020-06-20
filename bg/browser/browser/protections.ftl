@@ -117,9 +117,13 @@ lockwise-connected-device-status =
         [one] Свързано { $count } устройство
        *[other] Свързани { $count } устройства
     }
-monitor-title = Бъдете известени при кражба на данни
+monitor-title = Получавайте известия при кражба на данни
 monitor-link = Как работи
+monitor-header-content-no-account = Проверете { -monitor-brand-name }, за да видите дали сте били жертва на кражба на данни и получете известие за нови нарушения.
+monitor-header-content-signed-in = { -monitor-brand-name } ви предупреждава ако ваша информация се появи в известните списъци с крадени данни.
 monitor-sign-up = Регистрирайте се за сигнали при пробив
+monitor-sign-up-link = Регистриране за известие при пробив
+    .title = Регистрирайте се за получаване на известие от { -monitor-brand-name } при нов пробив
 auto-scan = Днес е извършена автоматична проверка
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
