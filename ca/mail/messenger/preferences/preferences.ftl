@@ -41,12 +41,30 @@ privacy-main-header = Privadesa
 privacy-passwords-header = Contrasenyes
 privacy-junk-header = Correu brossa
 privacy-data-collection-header = Ús i recollida de dades
+collection-header = Ús i recollida de dades i del { -brand-short-name }
+collection-description = Ens esforcem per oferir-vos opcions i recollir només allò que necessitem per proporcionar i millorar el { -brand-short-name } per a tothom. Sempre demanem permís abans de rebre informació personal.
+collection-privacy-notice = Avís de privadesa
+collection-health-report-telemetry-disabled = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
+collection-health-report-telemetry-disabled-link = Més informació
+collection-health-report =
+    .label = Permet que el { -brand-short-name } enviï dades tècniques i d'interacció a { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Més informació
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
+collection-backlogged-crash-reports =
+    .label = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament
+    .accesskey = f
+collection-backlogged-crash-reports-link = Més informació
 privacy-security-header = Seguretat
+privacy-scam-detection-title = Detecció de missatges fraudulents
 privacy-anti-virus-title = Antivirus
 privacy-certificates-title = Certificats
 chat-pane-header = Xat
 chat-status-title = Estat
 chat-notifications-title = Notificacions
+chat-pane-styling-header = Estil
 choose-messenger-language-description = Trieu les llengües en què voleu veure els menús, els missatges i les notificacions del { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Defineix alternatives…
@@ -76,6 +94,17 @@ addons-button = Extensions i temes
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Verifiqueu la vostra identitat per crear una contrasenya mestra.
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Per crear una contrasenya mestra, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = crear una contrasenya mestra
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
@@ -637,6 +666,21 @@ chat-variant-label =
 chat-header-label =
     .label = Mostra la capçalera
     .accesskey = M
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Cerca en les opcions
+           *[other] Cerca en les preferències
+        }
 
 ## Preferences UI Search Results
 
