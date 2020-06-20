@@ -19,9 +19,9 @@ cfr-doorhanger-extension-ok-button = ئێستا زیادی بکە
     .accesskey = ز
 cfr-doorhanger-pintab-ok-button = ئەم بازدەرە جێگیر بکە
     .accesskey = ج
-cfr-doorhanger-extension-manage-settings-button = بەڕێوەبردنی ڕێکخستنەکانی پێشنیارکراو
+cfr-doorhanger-extension-manage-settings-button = بەڕێوەبردنی ڕێکخستنی پێشنیازکراوەکان
     .accesskey = ب
-cfr-doorhanger-extension-never-show-recommendation = ئەم پێشنیارکراوەم پیشان مەدە
+cfr-doorhanger-extension-never-show-recommendation = ئەوەم بۆ پێشنیاز مەکە
     .accesskey = پ
 cfr-doorhanger-extension-learn-more-link = زیاتر بزانە
 # This string is used on a new line below the add-on name
@@ -70,6 +70,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = بگەڕێ بێ ئەوەی چاودێریبکرێیت
+cfr-protections-panel-body = زانیارییەکانت بپارێزە. { -brand-short-name } دەتپارێزێت لە زۆرێک لەو پەیگرانەی کە شوێنپێت هەڵ دەگرن لە سەرهێڵ.
 cfr-protections-panel-link-text = زیاتر بزانە
 
 ## What's New toolbar button and panel
@@ -83,6 +84,9 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = چی نوێ هەیە
 cfr-whatsnew-release-notes-link-text = سەرنجەکانی وەشان بخوێنەوە
 cfr-whatsnew-fx70-title = { -brand-short-name } ئێستا هەوڵی زیادتر دەدات بۆ پاراستنی زانیارییەکانت
+cfr-whatsnew-fx70-body = وەشانی تازە تایبەتمەندیی پاراستن لە جێپێ هەڵگرتن بەهێزتر دەکا و ئاسانکاری دەکات بۆ دانانی تێپەڕەوشەی پارێزراو بۆ هەموو ماڵپەڕێک.
+cfr-whatsnew-tracking-protect-title = خۆت بپارێزە لە جێپێ هەڵگرەکان
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } زۆر لەو جێپێ هەڵگرە کۆمەڵایەتییانە بلۆک دەکات کە چاودێری کارەکانت دەکەن لەسەر هێڵ و لەنێوان ماڵپەڕەکاندا دەیگوازنەوە.
 cfr-whatsnew-tracking-protect-link-text = ڕاپۆرت پیشان بدە
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
