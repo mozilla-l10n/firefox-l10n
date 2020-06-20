@@ -8,7 +8,7 @@
 appmenuitem-protection-report-title = Защита на лични данни
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Прегледайте доклада за личните данни
-appmenuitem-protection-dashboard-title = Табло със защитите
+appmenuitem-protection-dashboard-title = Табло със защити
 appmenuitem-customize-mode =
     .label = Персонализиране…
 
