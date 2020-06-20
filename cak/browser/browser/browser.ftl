@@ -192,7 +192,7 @@ bookmark-panel-show-editor-checkbox =
     .label = Tik'ut k'exob'äl toq niyak
     .accesskey = k
 bookmark-panel-done-button =
-    .label = Xk'achoj
+    .label = Xk'is
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.

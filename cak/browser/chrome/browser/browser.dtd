@@ -828,7 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Xk'achoj">
+<!ENTITY editBookmark.done.label                     "Xk'is">
 <!ENTITY editBookmark.showForNewBookmarks.label       "Tik'ut k'exob'äl toq niyak">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "k">
 

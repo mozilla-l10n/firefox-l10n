@@ -31,7 +31,7 @@
 <!ENTITY netInterrupt.title "Xq'at ri kiq'axik taq tzij">
 <!ENTITY netInterrupt.longDesc "<p>Ütz xok pa k'amaya'l ri okik'amaya'l, xa xe chi xq'at ri okem toq tajin niq'axäx ri etamab'äl.  Tatojtob'ej chik.</p><ul><li>¿La man yatikïr ta yatok pa ch'aqa' chik taq ruxaq k'amaya'l? Tanik'oj ri rokem ruk'amab'ey ri akematz'ib'.</li><li>¿La k'a nuya' k'ayewal? Tak'ulub'ej ri runuk'unel ak'amab'ey o ri ya'öl k'amaya'l richin nawïl ato'ik richin rusamajixik.</li></ul>">
 
-<!ENTITY notCached.title "Xk'is ruq'ijul ri wuj">
+<!ENTITY notCached.title "Xk'is Ruq'ijul ri Wuj">
 <!ENTITY notCached.longDesc "<p>Ri wuj nik'utüx, man k'o ta pa ri rukache' okik'amaya'l.</p><ul><li>Richin nichajin, ri okik'amaya'l; man nuk'utuj ta chik pa ruyonil chajin tan wuj, ri k'o taq awetamab'al chupam.</li><li>Tapitz'a' qa Titojtob'ëx chik richin nak'utuj chik el ri ruwujil ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun okem">

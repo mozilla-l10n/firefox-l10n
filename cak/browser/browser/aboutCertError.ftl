@@ -75,7 +75,7 @@ captivePortal-title = Tok pa k'amab'ey
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Man ütz ta niwachin ri ochochib'äl ri'.
 netInterrupt-title = Xq'at ri okem
-notCached-title = Xk'is ruq'ijul ri wuj
+notCached-title = Xk'is Ruq'ijul ri Wuj
 netOffline-title = Pa rub'eyal majun okem
 contentEncodingError-title = Sachoj pa rucholajil rupam
 unsafeContentType-title = Itzel ruwäch chi yakb'äl
