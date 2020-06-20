@@ -21,28 +21,23 @@ onboarding-button-label-get-started = Въведение
 onboarding-welcome-header = Добре дошли във { -brand-short-name }
 onboarding-welcome-body = Разполагате с четеца.<br/>Запознайте се с останалото от { -brand-product-name }
 onboarding-welcome-learn-more = Научете повече за ползите.
-
 onboarding-join-form-header = Присъединете се към { -brand-product-name }
 onboarding-welcome-modal-get-body = Разполагате с четеца.<br/>Сега се възползвайте максимално от { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Презаредете защитата на поверителността си.
 onboarding-welcome-modal-privacy-body = Разполагате с четеца. Нека подобрим поверителността.
 onboarding-welcome-modal-family-learn-more = Научете повече за семейството от продукти на { -brand-product-name }.
 onboarding-welcome-form-header = Започнете оттук
-
 onboarding-join-form-body = За начало въведете адреса на своята ел. поща.
 onboarding-join-form-email =
     .placeholder = Въведете електронен адрес
 onboarding-join-form-email-error = Необходим е валиден адрес на ел. поща
 onboarding-join-form-legal = Продължавайки, вие се съгласявате с <a data-l10n-name="terms">условията на услугата</a> и <a data-l10n-name="privacy">политиката за лични данни</a>.
 onboarding-join-form-continue = Продължаване
-
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Имате профил?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Впишете се
-
 onboarding-start-browsing-button-label = Започнете да разглеждате
-
 onboarding-cards-dismiss =
     .title = Отхвърляне
     .aria-label = Отхвърляне
@@ -57,10 +52,8 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Вземете { -brand-product-name } с вас
 onboarding-sync-welcome-content = Вземете своите отметки, история, пароли и всички други настройки на всички ваши устройства.
 onboarding-sync-welcome-learn-more-link = Научете повече за Firefox Accounts
-
 onboarding-sync-form-input =
     .placeholder = адрес на електронна поща
-
 onboarding-sync-form-continue-button = Продължаване
 onboarding-sync-form-skip-login-button = Пропускане
 
@@ -69,34 +62,25 @@ onboarding-sync-form-skip-login-button = Пропускане
 onboarding-sync-form-header = Въведете своята ел. поща,
 onboarding-sync-form-sub-header = за да продължите към { -sync-brand-name }
 
-
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
 onboarding-benefit-products-title = Полезни продукти
-
 onboarding-benefit-knowledge-title = Практически знания
 onboarding-benefit-knowledge-text = Научете всичко, което трябва да знаете, за да сте в безопасност онлайн.
-
 onboarding-benefit-privacy-title = Истинска поверителност
-
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Всичко, което правим зачита нашето обещание за личните данни: Взимаме по-малко, Пазим го зорко. Без тайни.
-
-
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Вземете вашите отметки, пароли, история и всичко друго навсякъде, където използвате { -brand-product-name }.
-
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Бъдете информирани, когато личните ви данни са изтекли неправомерно в интернет.
-
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Управлявайте пароли, които са защитени и преносими.
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -107,69 +91,52 @@ onboarding-benefit-lockwise-text = Управлявайте пароли, кои
 
 onboarding-private-browsing-title = Поверително разглеждане
 onboarding-private-browsing-text = Разглеждайте необезпокоявани. Поверителното разглеждане с ограничаване на съдържанието спира проследяванията, които ви следват из мрежата.
-
 onboarding-screenshots-title = Снимки на екрана
 onboarding-screenshots-text = Създавайте, запазвайте и споделяйте снимки на екрана без да напускате { -brand-short-name }. Уловете на част от екрана или цялата страница докато разглеждате. След това запазете снимката на екрана в Мрежата за по-лесен достъп и споделяне.
-
 onboarding-addons-title = Добавки
 onboarding-addons-text = Добавете още възможности към { -brand-short-name }, за да работи по-усърдно за вас. От сравняване на цени и проверка на времето до избиране на потребителска тема.
-
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Разглеждайте по-бързо, по-удобно и безопасно с разширения като Ghostery, което спира досадните реклами.
-
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Регистрирайте { -fxaccount-brand-name } и синхронизирайте отметки, пароли и отворени раздели навсякъде където използвате { -brand-short-name }.
-
 onboarding-tracking-protection-title2 = Защита от проследяване
 onboarding-tracking-protection-text2 = { -brand-short-name } помага да спрете уебсайтовете да ви следят онлайн, като затруднява и рекламите да ви досаждат в мрежата.
 onboarding-tracking-protection-button2 = Как работи
-
 onboarding-data-sync-title = Вземете своите настройки със себе си
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Синхронизирайте своите отметки, пароли и други навсякъде, където използвате { -brand-product-name }.
 onboarding-data-sync-button2 = Вписване в { -sync-brand-short-name }
-
 onboarding-firefox-monitor-title = Бъдете уведомени при пробив на данни
 onboarding-firefox-monitor-button = Регистриране за сигнали
-
 onboarding-browse-privately-title = Разглеждайте поверително
 onboarding-browse-privately-button = Отваряне на поверителен прозорец
-
 onboarding-firefox-send-title = Дръжте споделените си файлове лични
 onboarding-firefox-send-text2 = Качете файловете си в { -send-brand-name }, за да ги споделите с шифроване от край до край и препратка, която изтича автоматично.
 onboarding-firefox-send-button = Опитайте { -send-brand-name }
-
 onboarding-mobile-phone-title = Изтеглете { -brand-product-name } на телефона си
 onboarding-mobile-phone-text = Изтеглете { -brand-product-name } за iOS или Android и синхронизирайте данни между устройствата си.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Изтеглете мобилен четец
-
 onboarding-send-tabs-title = Незабавно си изпращайте раздели
 onboarding-send-tabs-button = Започнете да изпращате раздели
-
 onboarding-pocket-anywhere-title = Четете и слушайте навсякъде
 onboarding-pocket-anywhere-button = Опитайте { -pocket-brand-name }
-
 onboarding-lockwise-passwords-title = Вземете паролите си навсякъде
 onboarding-lockwise-passwords-button2 = Вземете приложението
-
 onboarding-lockwise-strong-passwords-title = Създавайте и съхранявайте силни пароли
 onboarding-lockwise-strong-passwords-button = Управление на регистрации
-
 onboarding-facebook-container-title = Сложете ограда на Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } държи профила ви отделен от всичко останало, което затруднява Facebook да ви показва целеви реклами.
 onboarding-facebook-container-button = Добавяне на разширението
-
-
 onboarding-import-browser-settings-title = Внесете вашите отметки, пароли и др.
 onboarding-import-browser-settings-button = Внасяне на данни от Chrome
+onboarding-personal-data-promise-button = Прочетете нашето обещание
 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Страхотно е че имате { -brand-short-name }
-
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
