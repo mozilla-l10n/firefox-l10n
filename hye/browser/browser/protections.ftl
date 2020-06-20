@@ -195,6 +195,8 @@ monitor-partial-breaches-title =
 monitor-partial-breaches-percentage = { $percentageResolved }% կատարուած
 monitor-partial-breaches-motivation-title-start = Հրաշալի՜ մեկնարկ
 monitor-partial-breaches-motivation-title-middle = Շարունակի՜ր նոյն կերպ։
+monitor-partial-breaches-motivation-title-end = Գրեթե աւարտում ենք։ Շարունակէք։
+monitor-partial-breaches-motivation-description = Մնացած արտահոսքերը կարգաւորել { -monitor-brand-short-name }֊ում։
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
