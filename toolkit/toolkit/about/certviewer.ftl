@@ -60,7 +60,7 @@ certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = სერიული ნომერი
 certificate-viewer-signature-algorithm = ხელმოწერის ალგორითმი
 certificate-viewer-signature-scheme = ხელმოწერის სქემა
-certificate-viewer-timestamp = დროის აღნიშვნა
+certificate-viewer-timestamp = დროის ნიშნული
 certificate-viewer-value = მნიშვნელობა
 certificate-viewer-version = ვერსია
 certificate-viewer-business-category = ბიზნესის კატეგორია
@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = უფლებამოსილი მ
 certificate-viewer-certificate-policies = სერთიფიკატის პირობები
 certificate-viewer-embedded-scts = ჩაშენებული SCT- ები
 certificate-viewer-crl-endpoints = CRL-ს მომწოდებლები
-
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ჩამოტვირთვა
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (სერტიფიკატი)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ჯაჭვი)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = ეს გაფართოება მიჩნეულია გადამწვეტად, რაც ნიშნავს, რომ კლიენტებმა უნდა უარყონ სერტიფიკატი, თუ მათთვის გაუგებარია.
