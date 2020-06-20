@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Един месец назад" >
 <!ENTITY onemonthforward.tooltip "Един месец напред" >
+<!ENTITY oneyearbackward.tooltip "Една година назад" >
+<!ENTITY oneyearforward.tooltip "Една година напред" >
 <!ENTITY showToday.tooltip "Отваряне на днешния ден">
 <!ENTITY onedayforward.tooltip "Един ден напред">
 <!ENTITY onedaybackward.tooltip "Един ден назад">
