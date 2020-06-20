@@ -26,6 +26,7 @@ pane-calendar-title = Calendari
 category-calendar =
     .tooltiptext = Calendari
 general-language-and-appearance-header = Llengua i aparença
+general-incoming-mail-header = Correu d'entrada
 general-files-and-attachment-header = Fitxers i adjuncions
 general-tags-header = Etiquetes
 general-reading-and-display-header = Lectura i visualització
@@ -129,6 +130,9 @@ add-search-engine =
 remove-search-engine =
     .label = Elimina
     .accesskey = E
+minimize-to-tray-label =
+    .label = En minimitzar el { -brand-short-name }, mou-lo a la safata
+    .accesskey = m
 new-message-arrival = Quan arribin missatges nous:
 mail-play-sound-label =
     .label =
@@ -158,6 +162,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Mostra una icona de safata
     .accesskey = t
+mail-system-sound-label =
+    .label = So del sistema per defecte per al correu nou
+    .accesskey = d
 mail-custom-sound-label =
     .label = Utilitza el fitxer de so següent
     .accesskey = U
@@ -371,6 +378,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Tanca la finestra o la pestanya de missatges quan se suprimeixi o es mogui
     .accesskey = T
+display-name-label =
+    .value = Nom a mostrar:
 condensed-addresses-label =
     .label = Ensenya només el nom a mostrar de la gent que estigui a la meva llibreta d'adreces
     .accesskey = n
@@ -684,3 +693,11 @@ search-input-box =
 
 ## Preferences UI Search Results
 
+search-results-header = Resultats de la cerca
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] No s'ha trobat «<span data-l10n-name="query"></span>» a les opcions.
+       *[other] No s'ha trobat «<span data-l10n-name="query"></span>» a les preferències.
+    }
+search-results-help-link = Necessiteu ajuda? Visiteu l'<a data-l10n-name="url">assistència del { -brand-short-name }</a>
