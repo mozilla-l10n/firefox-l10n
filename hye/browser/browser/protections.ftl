@@ -6,8 +6,17 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-        [one] Անցած շաբաթուայ ընթացքում { -brand-short-name }- ը արգելափակել է { $count } հետագծողներ
-       *[other] Անցած շաբաթների ընթացքում { -brand-short-name }--արգելափակել է { $count } հետագծողներ
+        [one] Անցած շաբաթուայ ընթացքում { -brand-short-name }- ը արգելափակել է { $count } լրտես
+       *[other] Անցած շաբաթների ընթացքում { -brand-short-name }--արգելափակել է { $count } լրտես
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b>լրտեսն արգելափակուել է սկսած{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }֊ից
+       *[other] <b>{ $count }</b> լրտեսն արգելափակուել է սկսած{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } շարունակում է արգելափակել հետախուզիչներին մասնաւոր Windows-ում, բայց չի պահպանում այն, թե ինչն է արգելափակուած:
