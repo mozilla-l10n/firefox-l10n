@@ -39,9 +39,13 @@ protection-report-webpage-title = Պաշտպանութեան կառավահան
 protection-report-page-content-title = Պաշտպանութեան կառավահան
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } կարող է տեսադաշտից պաշտպանել Ձեր գաղտնիութիւնը զննարկման համար։ Ահաւասաիկ, պաշտպանուածութիւնների անհատականացուած ամփոփագիրն է, ներառեալ գործիքները`Ձեր առցանց անվտանգութիւնը վերահսկելու համար:
-etp-card-title-always = Ընդլայնուած Յետագծման Պաշտպանութիւն. Միշտ միացած
-etp-card-title-custom-not-blocking = Ընդլայնուած Յետագծման Պաշտպանութիւն։ Անջատուած
-protection-report-etp-card-content-custom-not-blocking = Ներկայումս բոլոր պաշտպանութիւններն անջատուած են։Ընտրեք, թե որ հետագծողներինէ արգելափակել՝ Ձեր { -brand-short-name } ֊ի գաղտնիութեան կարգաւորումներից։
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } պաշտպանում է ձեր գաղտնիութիւնը համացանցում գտնուելու ընթացքում։ Սա անհատական պաշտպանութեան ամփոփումն է, որը ներառում է ձեր առցանց անվտանգութիւնը կարգաւորող գործիքները։
+protection-report-settings-link = Վերահսկէք ձեր գաղտնիութեան եւ անվտանգութեան կարգաւորումները
+etp-card-title-always = Լրտեսումից Ընդլայնուած Պաշտպանութիւն. Միշտ միացած
+etp-card-title-custom-not-blocking = Լրտեսումից Ընդլայնուած Պաշտպանութիւն։ Անջատուած
+etp-card-content-description = { -brand-short-name } ինքնաբար արգելում է ընկերութիւններին հետեւել ձեզ առցանց աշխատելիս։
+protection-report-etp-card-content-custom-not-blocking = Ներկայումս բոլոր պաշտպանութիւններն անջատուած են։ Ձեր { -brand-short-name } ֊ի գաղտնիութեան կարգաւորումներից ընտրել, թե որ լրտեսներին պէտք է արգելափակել։
 protection-report-manage-protections = Փոխել կարգաւորումները
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
