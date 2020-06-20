@@ -425,3 +425,4 @@
 <!ENTITY summary.dialog.dontsend.label          "Без изпращане на отговор">
 <!ENTITY summary.dialog.dontsend.tooltiptext    "Променя вида на участието ви без да изпраща отговор на организатора и затваря прозореца">
 <!ENTITY summary.dialog.send.label              "Изпращане на отговор">
+<!ENTITY summary.dialog.send.tooltiptext        "Изпраща отговор на организатора и затваря прозореца">

@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Основни настройки" >
+
 <!ENTITY pref.dateformat.label "Текстов формат на датата:" >
 <!ENTITY pref.dateformat.accesskey "Т">
 <!ENTITY pref.dateformat.long "Дълъг" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Стандартна продължителност:" >
 <!ENTITY pref.default_event_length.accesskey "С">
 
+<!ENTITY pref.default_event_task_length.label "Стандартна продължителност на събитие или задача">
+<!ENTITY pref.default_event_task_length.accesskey "п">
+
 <!ENTITY pref.default_task_none.label "Няма">
 <!ENTITY pref.default_task_start_of_day.label "Начало на деня">
 <!ENTITY pref.default_task_end_of_day.label "Край на деня">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Относително следващия час">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Дневен график">
-<!ENTITY pref.soondays.label "Следващият раздел показва:">
-<!ENTITY pref.soondays.accesskey "л">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
