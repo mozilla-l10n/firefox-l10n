@@ -728,9 +728,10 @@
 <!ENTITY idColumn.label "Ред на получаване">
 <!ENTITY attachmentColumn.label "Прикачени файлове">
 
+<!ENTITY deleteColumn.label "Изтриване">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Избиране на видимите колони">
+<!ENTITY columnChooser2.tooltip "Избиране на видими колони">
 <!ENTITY threadColumn2.tooltip "Показване на нишките на съобщенията">
 <!ENTITY fromColumn2.tooltip "Сортиране по подател">
 <!ENTITY recipientColumn2.tooltip "Сортиране по получател">
@@ -752,6 +753,7 @@
 <!ENTITY idColumn2.tooltip "Сортиране по реда на получаване">
 <!ENTITY attachmentColumn2.tooltip "Сортиране по притурки">
 
+<!ENTITY deleteColumn.tooltip "Изтриване на съобщение">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Съобщение от шаблон">
@@ -974,3 +976,5 @@
 <!ENTITY openAddressBookDock.label      "Отваряне на адресник">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Връщане една страница назад">
+<!ENTITY browseForwardButton.tooltip "Отиване една страница напред">
