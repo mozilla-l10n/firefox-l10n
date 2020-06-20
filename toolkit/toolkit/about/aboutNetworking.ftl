@@ -57,11 +57,11 @@ rcwn-avg-long = გრძელი საშუალო
 rcwn-std-dev-long = გრძელი სტანდარტული გადახრა
 rcwn-cache-slow = კეშის დაყოვნების რაოდენობა
 rcwn-cache-not-slow = კეშის დაუყოვნებლობის რაოდენობა
-
 about-networking-title = ქსელის შესახებ
 about-networking-http = HTTP
 about-networking-sockets = სოკეტები:
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = DNS-კეშის გასუფთავება
 about-networking-dns-suffix = DNS-ბოლოსართი
 about-networking-websockets = WebSockets
 about-networking-refresh = გაახლება
