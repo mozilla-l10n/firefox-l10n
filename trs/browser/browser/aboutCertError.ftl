@@ -86,6 +86,7 @@ unknownSocketType-title = Se 'ngo nuguan' hue'ê nariki servidor
 nssFailure2-title = Gire' conexión hia
 cspBlocked-title = 'Ngo narán aga' na riña sitiô na yi'ì sa mà riñaj
 xfoBlocked-title = Ganarán riñaj ‘iaj nuguan’ gu’nàj X-Frame-Options
+csp-xfo-error-title = { -brand-short-name } Na'ue nāyi'nïn pajinâ nan
 corruptedContentError-title = Gire'ej dadin' sa nun riñan hua a'nan'
 remoteXUL-title = XUL nagi'iaj mun'ûn'
 sslv3Used-title = Si ga'ue guida'a hue'e man
