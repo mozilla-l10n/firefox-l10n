@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "щ">
 <!ENTITY newAddressBookCmd.label                        "Адресник…">
 <!ENTITY newAddressBookCmd.accesskey                    "А">
+<!ENTITY newCardDAVBookCmd.label                        "Адресник на CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "д">
 <!ENTITY newLDAPDirectoryCmd.label                      "Директория в LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "Д">
 <!ENTITY newMessageCmd.label                            "Писмо">
@@ -164,6 +166,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "з">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Избиране на видими колони">
 <!ENTITY newContactButton.tooltip                       "Създава нова визитка в адресника">
 <!ENTITY newlistButton.tooltip                          "Създава нов списък">
 <!ENTITY editPropertiesButton.tooltip                   "Редактиране на избрания елемент">
