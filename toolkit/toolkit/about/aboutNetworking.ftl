@@ -57,11 +57,11 @@ rcwn-avg-long = Долгое среднее
 rcwn-std-dev-long = Долгое стандартное отклонение
 rcwn-cache-slow = Счётчик медленного кэша
 rcwn-cache-not-slow = Счётчик не медленного кэша
-
 about-networking-title = О сети
 about-networking-http = HTTP
 about-networking-sockets = Сокеты
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Очистить кэш DNS
 about-networking-dns-suffix = DNS-суффикс
 about-networking-websockets = Веб-сокеты
 about-networking-refresh = Обновить
