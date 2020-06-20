@@ -43,3 +43,4 @@
 <!ENTITY removeSearchEngine.label         "Elimina">
 <!ENTITY removeSearchEngine.accesskey     "E">
 
+<!ENTITY minimizeToTray.label             "En minimitzar el &brandShortName;, mou-lo a la safata">

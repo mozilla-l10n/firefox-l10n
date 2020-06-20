@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Lectura">
 <!ENTITY display.caption                  "Visualització">
+<!ENTITY displayName.label                "Nom a mostrar:">
 <!ENTITY showCondensedAddresses.label     "Ensenya només el nom a mostrar de la gent que estigui a la meva llibreta d'adreces">
 <!ENTITY showCondensedAddresses.accesskey "n">
 
