@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "п">
 <!ENTITY  newContactCmd.label "Контакт от адресника…">
 <!ENTITY  newContactCmd.accesskey "к">
+<!ENTITY openMenuCmd.label "Отваряне">
+<!ENTITY openMenuCmd.accesskey "о">
 <!ENTITY openMessageFileCmd.label "Отваряне на запазено писмо…">
 <!ENTITY openMessageFileCmd.accesskey "О">
 <!ENTITY saveAsMenu.label "Запазване като">
@@ -287,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Търсене на писма…">
 <!ENTITY searchMailCmd.accesskey "е">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Всеобщо търсене">
+<!ENTITY glodaSearchCmd.accesskey "т">
 <!ENTITY searchAddressesCmd.label "Търсене на адреси…">
 <!ENTITY searchAddressesCmd.accesskey "с">
 
@@ -439,6 +443,7 @@
 <!ENTITY openMessageWindowCmd.label "Отваряне на писмо">
 <!ENTITY openMessageWindowCmd.accesskey "я">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Прикачени файлове">
 <!ENTITY openAttachmentListCmd.accesskey "ф">
 <!ENTITY openFeedMessage1.label "При отваряне на съобщения от емисия">
@@ -723,6 +728,7 @@
 <!ENTITY idColumn.label "Ред на получаване">
 <!ENTITY attachmentColumn.label "Прикачени файлове">
 
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Избиране на видимите колони">
 <!ENTITY threadColumn2.tooltip "Показване на нишките на съобщенията">
@@ -745,6 +751,7 @@
 <!ENTITY locationColumn2.tooltip "Сортиране по местоположение">
 <!ENTITY idColumn2.tooltip "Сортиране по реда на получаване">
 <!ENTITY attachmentColumn2.tooltip "Сортиране по притурки">
+
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Съобщение от шаблон">
@@ -966,3 +973,4 @@
 <!ENTITY writeNewMessageDock.label      "Писане на писмо">
 <!ENTITY openAddressBookDock.label      "Отваряне на адресник">
 
+<!-- Content tab Navigation buttons -->
