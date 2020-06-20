@@ -60,7 +60,7 @@ onboarding-sync-form-skip-login-button = Tixakalüx re jun ruxak re'
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
-onboarding-sync-form-header = Tatz'ib'aj ri ataqoya'l
+onboarding-sync-form-header = Tatz'ib'aj ataqoya'l
 onboarding-sync-form-sub-header = richin yatok pa { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and

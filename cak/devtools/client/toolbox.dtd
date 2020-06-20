@@ -142,7 +142,7 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
-<!ENTITY options.sourceMaps.label      "Titzij kitzub'al xe'el ">
+<!ENTITY options.sourceMaps.label      "Titzij Rusetul Xe'el">
 <!ENTITY options.sourceMaps.tooltip1   "We natzïj re cha'oj xe'el re' xke'atzu' pa ri taq samajib'äl.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the

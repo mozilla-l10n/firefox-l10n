@@ -87,5 +87,5 @@ connection-dns-over-https-url-item-default =
 connection-dns-over-https-url-custom =
     .label = Ichinan
     .accesskey = I
-    .tooltiptext = Tatz'ib'aj ri ajowanel URL richin nisol DNS chi rij HTTPS
+    .tooltiptext = Tatz'ib'aj ri URL nawajo' richin nisol DNS chi rij HTTPS
 connection-dns-over-https-custom-label = Ichinan

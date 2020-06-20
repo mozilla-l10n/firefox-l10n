@@ -110,7 +110,7 @@ options-enable-service-workers-http-label = Titzij ri samajela' pa samaj rik'in 
 options-enable-service-workers-http-tooltip =
     .title = Toq nitzij re cha'oj re' xtuya' q'ij chi yesamäj ri Samajela' pa samaj rik'in HTTP pa ronojel ri taq ruwi' erujaqon ri kikaxa taq samajib'äl.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Titzij kitzub'al xe'el
+options-source-maps-label = Titzij Rusetul Xe'el
 options-source-maps-tooltip =
     .title = We natzïj re cha'oj xe'el re' xke'atzu' pa ri taq samajib'äl.
 # The message shown for settings that trigger page reload
