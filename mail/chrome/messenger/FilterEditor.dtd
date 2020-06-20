@@ -27,6 +27,7 @@
 <!ENTITY contextOutgoing.accesskey "И">
 <!ENTITY contextArchive.label "Архивиране">
 <!ENTITY contextArchive.accesskey "А">
+<!ENTITY contextPeriodic.accesskey "е">
 
 <!ENTITY filterActionDesc.label "Изпълняват се следните действия:">
 <!ENTITY filterActionDesc.accesskey "л">

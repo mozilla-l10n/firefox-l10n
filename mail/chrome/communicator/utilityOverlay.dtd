@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey     "Н">
 
+<!ENTITY customizeCmd.label "Външен вид">
+<!ENTITY customizeCmd.accesskey "в">
+
 <!ENTITY viewMenu.label          "Изглед">
 <!ENTITY viewMenu.accesskey        "И">
 <!ENTITY viewToolbarsMenu.label        "Ленти с инструменти">
