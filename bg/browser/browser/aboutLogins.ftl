@@ -156,6 +156,7 @@ about-logins-confirm-remove-dialog-title = Изтриване на регист�
 confirm-delete-dialog-message = Действието е необратимо.
 about-logins-confirm-remove-dialog-confirm-button = Премахване
 about-logins-confirm-export-dialog-title = Изнасяне на регистрации и пароли
+about-logins-confirm-export-dialog-message = Вашите пароли ще бъдат запазени като четим текст (например Лош@Пар0ла), така че всеки, който има достъп до изнесения файл ще може да ги види.
 about-logins-confirm-export-dialog-confirm-button = Изнасяне…
 confirm-discard-changes-dialog-title = Отказвате се от промените?
 confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
@@ -191,7 +192,16 @@ about-logins-error-message-default = Възникна грешка при опи
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Изнасяне на регистрации
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
 about-logins-export-file-picker-export-button = Изнасяне
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Документ на CSV
+       *[other] Файл на CSV
+    }
