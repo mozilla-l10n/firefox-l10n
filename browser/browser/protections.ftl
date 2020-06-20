@@ -37,6 +37,13 @@ etp-card-title = Разширена защита от проследяване
 etp-card-content = Проследяванията ви следват онлайн, за да събират информация за навиците и интересите ви при разглеждане. { -brand-short-name } спира много от тях, както и други злонамерени скриптове.
 protection-report-webpage-title = Табло със защити
 protection-report-page-content-title = Табло със защити
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } може защитава вашата неприкосновеност без да разбирате докато вие разглеждате. Това е обобщение на тази защита, включително и инструментите за поемане на контрола върху сигурността си в мрежата.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } защитава вашата неприкосновеност без да разбирате докато вие разглеждате. Това е обобщение на тази защита, включително и инструментите за поемане на контрола върху сигурността си в мрежата.
+protection-report-settings-link = Настройки за поверителност и сигурност
+etp-card-title-always = Разширена защита от проследяване – винаги включена
+etp-card-title-custom-not-blocking = Разширена защита от проследяване – изключена
 protection-report-etp-card-content-custom-not-blocking = В момента всички защити са изключени. Изберете кои проследявания да бъдат спирани от настройките на защита на { -brand-short-name }.
 protection-report-manage-protections = Настройки
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -59,10 +66,13 @@ mobile-app-card-content = Използвайте мобилния четец с 
 mobile-app-links = { -brand-product-name } четец за <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Никога не забравяйте отново парола
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Управление на пароли
 lockwise-header-content = { -lockwise-brand-name } сигурно съхранява вашите пароли в четеца.
 lockwise-header-content-logged-in = Сигурно съхранявайте и синхронизирайте паролите си между всичките си устройства.
 protection-report-view-logins-button = Преглед на регистрациите
     .title = Отваря запазените регистрации
+protection-report-manage-passwords-button = Управляване на пароли
+    .title = Управляване на паролите в { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Вземете паролите си навсякъде
 lockwise-no-logins-card-content = Използвайте паролите, запазени в { -brand-short-name } от всяко устройство.
 lockwise-app-links = { -lockwise-brand-name } за <a data-l10n-name="lockwise-android-inline-link">Android</a> и <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -73,6 +83,15 @@ lockwise-passwords-stored =
     { $count ->
         [one] Паролата е съхранена сигурно <a data-l10n-name="lockwise-how-it-works">Как работи</a>
        *[other] Паролите се съхраняват сигурно <a data-l10n-name="lockwise-how-it-works">Как работи</a>
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] Вашата парола се съхранява защитено.
+       *[other] Вашите пароли се съхраняват защитено.
     }
 turn-on-sync = Включване на { -sync-brand-short-name }…
     .title = Отваря настройките на синхронизиране
