@@ -17,7 +17,9 @@
 <!ENTITY highestPriorityCmd.label "Tertinggi">
 
 <!ENTITY contextDesc.label "Terapkan filter ketika:">
+<!ENTITY contextIncomingMail.label "Mendapatkan Surel Baru:">
 <!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.label "Jalankan Secara Manual">
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextOutgoing.label "Setelah Mengirim">
 <!ENTITY contextOutgoing.accesskey "S">
@@ -47,6 +49,8 @@
 <!ENTITY watchThread.label "Monitor Utas">
 <!ENTITY stopExecution.label "Hentikan Proses Pemfilteran">
 
+<!ENTITY addAction.tooltip "Tambahkan tindakan baru">
+<!ENTITY removeAction.tooltip "Hapus tindakan ini">
 
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
@@ -54,3 +58,4 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTargetFlexValue "4">

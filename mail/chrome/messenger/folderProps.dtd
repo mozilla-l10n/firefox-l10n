@@ -59,6 +59,7 @@
 <!ENTITY folderQuotaUsage.label                  "Penggunaan:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 
+<!ENTITY numberOfMessages.label                  "Jumlah pesan:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "tidak diketahui">
 <!ENTITY sizeOnDisk.label                        "Ukuran pada diska:">

@@ -13,6 +13,7 @@
 <!ENTITY deleteButton.label "Hapus">
 <!ENTITY deleteButton.accesskey "H">
 <!ENTITY reorderTopButton "Pindahkan ke Atas">
+<!ENTITY reorderTopButton.toolTip "Atur ulang filter agar dijalankan sebelum yang lainnya">
 <!ENTITY reorderUpButton.label "Naikkan">
 <!ENTITY reorderUpButton.accesskey "N">
 <!ENTITY reorderDownButton.label "Turunkan">
