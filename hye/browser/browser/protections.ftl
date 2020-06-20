@@ -19,9 +19,16 @@ graph-total-tracker-summary =
        *[other] <b>{ $count }</b> լրտեսն արգելափակուել է սկսած{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } շարունակում է արգելափակել հետախուզիչներին մասնաւոր Windows-ում, բայց չի պահպանում այն, թե ինչն է արգելափակուած:
+graph-private-window = { -brand-short-name } շարունակում է արգելափակել լրտեսներին մասնաւոր Windows-ում, բայց չի գրանցում արգելափակուած տեղեկութիւնը:
 # Weekly summary of the graph when the graph is empty in Private Mode
-graph-week-summary-private-window = Այս շաբաթ արգելափակուած { -brand-short-name } որոնումների հետագծերը
+graph-week-summary-private-window = Այս շաբաթ { -brand-short-name } ֊ի կողմից արգելափակուած լրտեսները։
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Պաշտպանութեան <b>Ստանդարտ</b>մակարդակ
+    .title = Գաղտնիութեան կարգաբերումներ
+protection-report-header-details-strict = Պաշտպանութեան <b>Խիստ</b>մակարդակ
+    .title = Գաղտնիութեան կարգաբերումներ
 protection-report-page-title = Գաղտնիութեան պաշտպանութիւն
 protection-report-content-title = Գաղտնիութեան պաշտպանութիւն
 etp-card-title = Ընդլայնուած Հետագծման Պաշտպանութիւն
