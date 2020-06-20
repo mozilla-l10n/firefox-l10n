@@ -5,20 +5,13 @@
 sync-disconnect-dialog =
     .title = ¿La nichup ri { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
-
-sync-disconnect-heading = ¿La nawajo' ye'ayüj el chuqa' ri taq rutzij okik'amaya'l pa re kematz'ib' re'? Estape' xke'ayüj el ri { -sync-brand-name } taq atzij k'a e yakäl na pa ri rub'i' ataqoya'l. 
-
+sync-disconnect-heading = ¿La nawajo' ye'ayüj el chuqa' ri taq rutzij okik'amaya'l pa re kematz'ib' re'? Estape' xke'ayüj el ri { -sync-brand-name } taq atzij k'a e yakäl na pa ri rub'i' ataqoya'l.
 sync-disconnect-remove-sync-caption = Tiyuj { -sync-brand-name } Tzij
-
 sync-disconnect-remove-sync-data = Taq yaketal, natab'äl, ewan taq tzij, ch'aqa' chik.
-
 sync-disconnect-remove-other-caption = Keyuj Ch'aqa' Chik Ichinan Taq Tzij
-
 sync-disconnect-remove-other-data = Taq kaxlanwäy, jumejyak, chupül okem pa ri taq rutzij ajk'amaya'l ruxaq, ch'aqa' chik.
-
 # Shown while the disconnect is in progress
-sync-disconnect-disconnecting = Nichup...
-
+sync-disconnect-disconnecting = Nichup…
 sync-disconnect-cancel =
     .label = Tiq'at
     .accesskey = q
@@ -31,7 +24,6 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Tichup & Tiyuj
     .accesskey = y
-
 sync-disconnect-confirm-disconnect =
     .label = Xa xe Tichup
     .accesskey = h

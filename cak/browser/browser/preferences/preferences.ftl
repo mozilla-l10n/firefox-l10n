@@ -643,7 +643,7 @@ sync-mobile-promo = Taqasaj Firefox richin <img data-l10n-name="android-icon"/> 
 sync-profile-picture =
     .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
 sync-disconnect =
-    .label = Tichup…
+    .label = Nichup…
     .accesskey = c
 sync-sign-out =
     .label = Titz'apïx Molojri'ïl…
@@ -703,7 +703,7 @@ sync-choose-what-to-sync-dialog =
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Keyak Jaloj
     .buttonaccesskeyaccept = y
-    .buttonlabelextra2 = Tichup…
+    .buttonlabelextra2 = Nichup…
     .buttonaccesskeyextra2 = c
 sync-engine-bookmarks =
     .label = Taq yaketal
