@@ -155,7 +155,7 @@ enable-password-sync-preferences-button =
         }
     .accesskey = t
 about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Mani nab'än chik pe re k'utunïk re' chwe
+    .label = Mani nik'utüx chik pe chwe
     .accesskey = M
 
 ## Dialogs

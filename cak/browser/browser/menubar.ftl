@@ -59,8 +59,8 @@ menu-file-go-offline =
 ## Edit Menu
 
 menu-edit =
-    .label = K'exob'äl
-    .accesskey = e
+    .label = Nuk'b'äl
+    .accesskey = N
 menu-edit-find-on =
     .label = Tikanöx pa Re Ruxaq Re'…
     .accesskey = R
@@ -68,8 +68,8 @@ menu-edit-find-again =
     .label = Tikanöx Chik
     .accesskey = k
 menu-edit-bidi-switch-text-direction =
-    .label = Rujalik rub'eyal ri tz'ib'
-    .accesskey = r
+    .label = Tijal Rub'eyal ri Tz'ib'
+    .accesskey = j
 
 ## View Menu
 
