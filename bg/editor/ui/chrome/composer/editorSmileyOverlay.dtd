@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Стиснати устни">
 <!ENTITY smiley16Cmd.accesskey "С">
 <!ENTITY smiley16Cmd.tooltip "Вмъкване на лице със стиснати устни">
+<!ENTITY SmileButton.label "Вмъкване на физиономия">
 <!ENTITY SmileButton.tooltip "Вмъкване на физиономии">
-
