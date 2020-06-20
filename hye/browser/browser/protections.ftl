@@ -182,6 +182,19 @@ monitor-manage-breaches-link = Կարգաւորել արտահոսքերը
     .title = Կարգաւորել արտահոսքերը { -monitor-brand-short-name }֊ում
 monitor-breaches-resolved-title = Հրաշալի՜։ բոլոր յայտնի արտահոսքերը կարգաւորուած են։
 monitor-breaches-resolved-description = Եթե Ձեր ել․հասցէն յայտնուի որեւէ նոր արտահոսքում, կը տեղեկացնենք։
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreaches }արտահոսքից { $numBreachesResolved }֊ը կարգաւորուեց
+       *[other] { $numBreaches }արտահոսքից { $numBreachesResolved }֊ը կարգաւորուեց
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% կատարուած
+monitor-partial-breaches-motivation-title-start = Հրաշալի՜ մեկնարկ
+monitor-partial-breaches-motivation-title-middle = Շարունակի՜ր նոյն կերպ։
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
