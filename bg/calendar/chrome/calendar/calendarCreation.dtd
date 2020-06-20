@@ -20,3 +20,15 @@
 
 <!ENTITY finishpage.shortdescription  "Календарът е създаден" >
 <!ENTITY finishpage.longdescription   "Календарът е създаден." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+
+
+
+
+<!ENTITY location.label "Местоположение:">
+
+
