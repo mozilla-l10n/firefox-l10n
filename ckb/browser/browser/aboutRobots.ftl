@@ -12,6 +12,12 @@
 page-title = گۆرت! کلاتو بارادانیکتۆ!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = بەخێربێن مرۆڤەکان!
+# Movie: The Day The Earth Stood Still. Spoken by Klaatu.
+error-short-desc-text = ئێمە هاتوین تۆ ببەین بۆ ئاشتی و خراپی ئێوەمان ناوێت!
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = رۆبۆتەکان شتی وایان بینیوە ئێوەی خەڵك باوەر ناکەن.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = ڕۆبۆتەکان هاوڕێ پلاستیکەکانی ئێوەن کە هەموو کەسێک حەزدەکات بەشدار بێت لەگەڵیان.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = هەروەها پلانیان هەیە ئەوان
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
