@@ -122,7 +122,9 @@ monitor-link = Ինչպէս է դա աշխատում
 monitor-header-content-no-account = Ստուգեք { -monitor-brand-name }՝իմանալու համար, թե արդեւք դուք եղել եք հայտնի տուեալների խախտման մաս, եւ ահազանգեր ստացեք նոր խախտումների մասին։
 monitor-header-content-signed-in = { -monitor-brand-name }-ը զգուշացնում է Ձեզ, եթե Ձեր տեղեկութիւնները բախուել են հայտնի խախտման հետ։
 monitor-sign-up = Գրանցուեք խախտումների մասին ահազանգների համար
-auto-scan = Այսաւր ինքնուրույն պատկերահանուել է։
+monitor-sign-up-link = Գրանցուել Արտահոսքի մասին Ահանզանգերի համար
+    .title = Գրանցուել Արտահոսքի մասին Ահանզանգերի համար { -monitor-brand-name }֊ում
+auto-scan = Այսաւր ինքնաբար պատկերահանուել է։
 monitor-emails-tooltip =
     .title = Դիտել դիտարկուած ել.փոստի հասցէները { -monitor-brand-short-name }-ով
 monitor-breaches-tooltip =
@@ -162,6 +164,19 @@ password-warning =
         [one] Պահպանուած մուտքերը կարող են ենթարկուել տուեալների խախտման: Փոխեք այս գաղտնաբառերը առցանց աւելի լաւ անվտանգութեան համար: <a data-l10n-name="lockwise-link"> Դիտեք պահուած մուտքերը </a>
        *[other] Պահպանուած մուտքերը կարող են ենթարկուել տուեալների խախտման: Փոխեք այս գաղտնաբառերը առցանց աւելի լաւ անվտանգության համար: <a data-l10n-name="lockwise-link"> Դիտեք պահուած մուտքերը </a>
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Գաղտնաբառը բացայայտուել է անլուծելի արտահոսքի հետեւեանքով
+       *[other] Գաղտնաբառը բացայայտուել է անլուծելի արտահոսքի հետեւեանքով
+    }
+monitor-no-breaches-title = Բարի լուր
+monitor-no-breaches-description = Յայտնի արտահոսքեր չկան։ Փոփոխութիւնների դէպքում կը տեղեկացնենք։
+monitor-view-report-link = Դիտել հաշուետուութիւնը
+    .title = Կարգաւորել արտահոսքերը { -monitor-brand-short-name }֊ի միջոցով
+monitor-breaches-unresolved-title = Կարգաւորել արտահոսքերը։
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
