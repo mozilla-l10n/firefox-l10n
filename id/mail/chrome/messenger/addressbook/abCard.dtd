@@ -31,6 +31,7 @@
 <!ENTITY PhoneticField2.label           "Fonetis:">
 <!ENTITY DisplayName.label              "Tampilan:">
 <!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "Selalu pilih nama tampilan daripada nama pada header pesan">
 <!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Alias:">
 <!ENTITY NickName.accesskey             "N">
@@ -39,6 +40,7 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Surel Tambahan:">
 <!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "Memilih menerima pesan dalam format:">
 <!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Teks Biasa">
 <!ENTITY HTML.label                     "HTML">
@@ -129,6 +131,7 @@
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Panggilan IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
@@ -142,6 +145,7 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Di Web">
 <!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Tempel atau ketik alamat web sebuah foto">
 <!ENTITY UpdatePhoto.label              "Pemutakhiran">
 <!ENTITY UpdatePhoto.accesskey          "u">
 <!ENTITY PhotoDropTarget.label          "Seret foto baru ke sini">

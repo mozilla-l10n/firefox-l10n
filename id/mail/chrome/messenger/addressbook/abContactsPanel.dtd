@@ -9,6 +9,7 @@
 <!ENTITY abPropertiesMenu.accesskey         "i">
 <!ENTITY contactPropertiesMenu.label        "Properti Kontak">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Properti Milis">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY abContextMenuButton.tooltip        "Tampilkan Menu Konteks Buku Alamat">
