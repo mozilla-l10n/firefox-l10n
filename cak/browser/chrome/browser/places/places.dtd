@@ -76,7 +76,7 @@
 <!ENTITY col.mostrecentvisit.label "Ruk'isib'äl Tz'etoj">
 <!ENTITY col.visitcount.label    "Jarupe' taq tz'etoj">
 <!ENTITY col.dateadded.label     "Tz'aqatisan">
-<!ENTITY col.lastmodified.label  "Ruk'isib'äl k'exoj">
+<!ENTITY col.lastmodified.label  "Ruk'isib'äl K'exoj">
 
 <!ENTITY historySearch.placeholder  "Tikanöx ri natab'äl">
 <!ENTITY bookmarksSearch.placeholder  "Kekanöx taq yaketal">
