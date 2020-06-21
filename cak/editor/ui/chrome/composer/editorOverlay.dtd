@@ -240,7 +240,7 @@
 <!ENTITY tableDeleteMenu2.accesskey "y">
 
 <!-- Insert SubMenu -->
-<!ENTITY tableInsertMenu.label "Tich'ik">
+<!ENTITY tableInsertMenu.label "Tich'ap">
 <!ENTITY tableInsertMenu.accesskey "h">
 <!ENTITY tableTable.label "Kemoj kajtz'ik">
 <!ENTITY tableTable.accesskey "a">
@@ -359,7 +359,7 @@
 <!ENTITY structChangeTag.accesskey  "j">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label          "Tich'ik">
+<!ENTITY insertTOC.label          "Tich'ap">
 <!ENTITY insertTOC.accesskey      "i">
 <!ENTITY updateTOC.label          "Tik'ex">
 <!ENTITY updateTOC.accesskey      "k">

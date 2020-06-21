@@ -72,7 +72,7 @@
 <!ENTITY otherActionsPrint1.accesskey "z">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Kek'ut taq Kitz'etoj Tz'aqatisan pa Rutikirib'al">
+<!ENTITY startExpandedCmd.label    "Pa Rutikirib'al Kek'ut Kipas Tz'aqatisan taq Tzij">
 <!ENTITY startExpandedCmd.accesskey    "K">
 
 <!-- Attachment context menu items -->
