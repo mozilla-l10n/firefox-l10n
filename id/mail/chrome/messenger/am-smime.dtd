@@ -50,6 +50,8 @@
 
 <!ENTITY technologyAutomatic.label "Pilih secara otomatis berdasarkan kunci atau sertifikat yang tersedia">
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Kelola Sertifikat S/MIME">
 <!ENTITY manageCerts3.accesskey "M">
 <!ENTITY manageDevices2.accesskey "y">
 
