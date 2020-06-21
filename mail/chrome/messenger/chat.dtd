@@ -6,7 +6,7 @@
 <!ENTITY offlineContactsHeader.label   "Офлайнові контакти">
 <!ENTITY conversationsHeader.label     "Розмови">
 <!ENTITY searchResultConversation.label "Результати пошуку">
-<!ENTITY chat.noConv.title             "Розмови будуть показані тут.">
+<!ENTITY chat.noConv.title             "Тут з'являтимуться розмови.">
 <!ENTITY chat.noConv.description       "Скористайтесь списком контактів ліворуч щоб почати розмову.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; наразі не має жодних попередніх розмов з цим контактом.">
 <!ENTITY chat.noAccount.title             "Ви ще не налаштували чатових облікових записів.">
