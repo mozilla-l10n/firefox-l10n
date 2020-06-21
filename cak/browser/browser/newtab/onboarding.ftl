@@ -12,7 +12,7 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-learn-more = Tetamäx ch'aqa' chik
+onboarding-button-label-learn-more = Tetamäx Ch'aqa' Chik
 onboarding-button-label-try-now = Tatojtob'ej Wakami
 onboarding-button-label-get-started = Titikirisäx
 
