@@ -24,6 +24,7 @@
 <!ENTITY rememberPassword.label          "Ingat sandi">
 <!ENTITY rememberPassword.accesskey      "I">
 <!ENTITY usernameEx.label                "Info masuk Anda">
+<!ENTITY usernameEx.accesskey            "l">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
@@ -69,10 +70,13 @@
 <!ENTITY half-manual-test.accesskey      "l">
 <!ENTITY manual-edit.label               "Konfigurasi manual">
 <!ENTITY manual-edit.accesskey           "m">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Dapatkan alamat surel baru…">
+<!ENTITY open-provisioner.accesskey      "g">
 
 
 <!ENTITY get-help.label                  "Dapatkan Bantuan">
+<!ENTITY get-help.accesskey              "H">
 
 
 <!ENTITY warning.label                   "Peringatan!">
