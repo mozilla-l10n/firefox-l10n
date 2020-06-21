@@ -4,7 +4,6 @@
 
 <!-- extracted from am-addressing.xul -->
 
-
 <!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label          "Susun &amp; Alamat">
@@ -22,7 +21,6 @@
 
 <!-- am-addressing.xul -->
 
-
 <!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Susun">
@@ -31,6 +29,8 @@
 <!ENTITY useHtml.accesskey                    "s">
 <!ENTITY autoQuote.label                      "Otomatis menyertakan kutipan dari pesan asli ketika membuat balasan">
 <!ENTITY autoQuote.accesskey                  "O">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "letakkan balasan saya di atas kutipan">
 <!ENTITY belowQuote.label                     "letakkan balasan saya setelah kutipan">
 <!ENTITY selectAndQuote.label                 "pilih kutipan">
@@ -43,6 +43,6 @@
 <!ENTITY includeSigOnForward.label            "Sertakan tanda tangan saya pada pesan yang diteruskan">
 <!ENTITY includeSigOnForward.accesskey        "u">
 
+<!ENTITY globalComposingPrefs.accesskey       "G">
 
-
-
+<!ENTITY globalAddressingPrefs.accesskey      "P">
