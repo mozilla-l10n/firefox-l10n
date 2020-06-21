@@ -134,7 +134,7 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Ketzij taq retal q'ijul">
-<!ENTITY options.timestampMessages.tooltip    "We natzïj re cha'oj re', ri taq choloj chuqa' elem pa ri Ajk'amaya'l temeb'äl xtuk'üt pe jun retal q'ijul">
+<!ENTITY options.timestampMessages.tooltip    "We natzïj re cha'oj re', ri taq choloj chuqa' ri nilitäj pa ri Ajk'amaya'l temeb'äl xtuk'üt pe jun retal q'ijul">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
