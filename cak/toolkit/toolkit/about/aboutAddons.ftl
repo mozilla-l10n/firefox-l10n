@@ -119,7 +119,7 @@ detail-private-browsing-off =
     .label = Man Tiya' Q'ij
     .tooltiptext = Tichup pa Ichinan Okem pa K'amaya'l
 detail-home =
-    .label = Ruxaq tikirib'äl
+    .label = Tikirib'äl ruxaq
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -412,7 +412,7 @@ never-activate-button = Majub'ey Titzij
 addon-detail-author-label = B'anel
 addon-detail-version-label = Ruwäch
 addon-detail-last-updated-label = Ruk'isib'äl K'exoj
-addon-detail-homepage-label = Ruxaq tikirib'äl
+addon-detail-homepage-label = Tikirib'äl ruxaq
 addon-detail-rating-label = Kejqalem
 # The average rating that the add-on has received.
 # Variables:
