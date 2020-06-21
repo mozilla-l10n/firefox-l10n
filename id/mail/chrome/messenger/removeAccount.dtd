@@ -3,7 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialogTitle                  "Hapus Akun dan Data">
+<!ENTITY removeButton.label           "Hapus">
+<!ENTITY removeButton.accesskey       "R">
 <!ENTITY removeAccount.label          "Hapus informasi akun">
+<!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeAccount.desc           "Hanya menghapuspengetahuan dan &brandShortName;'s akun ini. Tidak memengaruhi akun itu sendiri di server.">
 <!ENTITY removeData.label             "Hapus data pesan">
+<!ENTITY removeData.accesskey         "d">
 <!ENTITY removeDataChat.label         "Hapus data percakapan">
+<!ENTITY removeDataChat.accesskey     "d">
+<!ENTITY removeDataLocalAccount.desc  "Hapus semua pesan, folder dan filter yang dikaitkan dengan akun ini dari disk lokal Anda. Hal ini tidak memengaruhi beberapa pesan yang mungkin masih tersimpan di server. Jangan memilih ini jika Anda berencana mengarsipkan data lokal atau menggunakannya kembali di &brandShortName; nanti.">
 <!ENTITY showData.label               "Tampilkan data lokasi">
