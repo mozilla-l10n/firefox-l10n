@@ -280,11 +280,11 @@ about-debugging-worker-action-unregister = Tiyuj ri tz'ib'axïk
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = Fetch
-    .value = Nak'axäx richin yekanöx taq molojri'ïl
+    .value = Ye'ak'axäx fetch taq nimaq'ij
 # Displayed for service workers in runtime pages that do not listen to Fetch events.
 about-debugging-worker-fetch-not-listening =
     .label = Fetch
-    .value = Man ke'ak'axäx fetch taq molojri'ïl
+    .value = Man Ye'ak'axäx ta fetch taq nimaq'ij
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Rub'anik
