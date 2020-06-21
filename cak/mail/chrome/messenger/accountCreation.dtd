@@ -39,7 +39,7 @@
 
 <!ENTITY manualConfigTable.summary       "Kinuk'ulem k'uxasamaj">
 <!ENTITY incoming.label                  "Tajin nok:">
-<!ENTITY incomingColumn.label            "Ja nok">
+<!ENTITY incomingColumn.label            "Nok">
 <!ENTITY outgoing.label                  "Tajin nel:">
 <!ENTITY outgoingColumn.label            "Ja nel">
 <!ENTITY username.label                  "Rub'i' winäq:">
