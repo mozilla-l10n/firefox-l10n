@@ -79,6 +79,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "Գրառման յիշողութիւն">
 <!ENTITY performanceUI.enableMemory.tooltiptext "Գրանցում է յիշողութեան սպառումը գործունէութեան ընթացքում։">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
