@@ -131,6 +131,71 @@ monitor-sign-up = Dej se posyłać powiadōmiynia ô wyciekach danych
 monitor-sign-up-link = Dej se posyłać powiadōmiynia ô wyciekach danych
     .title = Dej se posyłać powiadōmiynia ô wyciekach danych ôd { -monitor-brand-name }
 auto-scan = Autōmatycznie przeskanowane: dzisio
+monitor-emails-tooltip =
+    .title = Pokoż mōnitorowane emailowe adresy w usudze { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Pokoż poznane wycieki danych w usudze { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Pokoż wyzdradzōne hasła w usudze { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Emailowo adresa je mōnitorowano
+        [few] Emailowe adresy sōm mōnitorowane
+       *[many] Emailowych adresōw je mōnitorowanych
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Poznany wyciyk danych wyzdradziōł twoje dane
+        [few] Poznane wycieki danych wyzdradziły twoje dane
+       *[many] Poznanych wyciekōw danych wyzdradziło twoje dane
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Poznany wyciyk danych je ôcechowany za rozwiōnzany
+        [few] Poznane wycieki danych sōm ôcechowane za rozwiōnzane
+       *[many] Poznanych wyciekōw danych je ôcechowanych za rozwiōnzane
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Hasło je wyzdradzōne we wszyskich wyciekach
+        [few] Hasła sōm wyzdradzōne we wszyskich wyciekach
+       *[many] Hasłeł je wyzdradzōnych we wszyskich wyciekach
+    }
+full-report-link = Pokoł pōłny raport we <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Spamiyntane dane logowanio mogły być wyzdradzōne we wycieku danych. Do lepszego bezpieczyństwa zmiyń te hasło. <a data-l10n-name="lockwise-link">Pokoż spamiyntane dane logowanio</a>
+        [few] Spamiyntane dane logowanio mogły być wyzdradzōne we wycieku danych. Do lepszego bezpieczyństwa zmiyń te hasła. <a data-l10n-name="lockwise-link">Pokoż spamiyntane dane logowanio</a>
+       *[many] Spamiyntanych danych logowanio mogło być wyzdradzōnych we wycieku danych. Do lepszego bezpieczyństwa zmiyń te hasła. <a data-l10n-name="lockwise-link">Pokoż spamiyntane dane logowanio</a>
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Wyzdradzone hasło w niyrozwiōnzanych wyciekach danych
+        [few] Wyzdradzone hasła w niyrozwiōnzanych wyciekach danych
+       *[many] Wyzdradzonych hasłeł w niyrozwiōnzanych wyciekach danych
+    }
+monitor-no-breaches-title = Dobre nowiny!
+monitor-no-breaches-description = Niy mosz żodnych poznanych wyciekōw danych. Jakby co sie zmiyniyło, to dōmy ci znać.
+monitor-view-report-link = Pokoż raport
+    .title = Rozwiōnż wycieki danych we { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
