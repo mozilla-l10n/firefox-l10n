@@ -5,16 +5,20 @@
 <!ENTITY toField4.label "Untuk">
 <!ENTITY fromField4.label "Dari">
 <!ENTITY senderField4.label "Pengirim">
+<!ENTITY author.label "Pembuat">
 <!ENTITY organizationField4.label "Organisasi">
 <!ENTITY replyToField4.label "Balas ke">
 
 <!ENTITY subjectField4.label "Subjek">
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Newsgroups">
+<!ENTITY followupToField4.label "Tindaklanjut ke:">
 <!ENTITY tagsHdr4.label "Tag">
 <!ENTITY dateField4.label "Tanggal">
 <!ENTITY userAgentField4.label "Agen pengguna">
 <!ENTITY referencesField4.label "Referensi">
+<!ENTITY messageIdField4.label "ID Pesan">
 <!ENTITY originalWebsite4.label "Situs web">
 
 <!ENTITY hdrArchiveButton1.label "Arsipkan">
@@ -87,6 +91,7 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Buka berkas terlampir">
+
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Simpan">

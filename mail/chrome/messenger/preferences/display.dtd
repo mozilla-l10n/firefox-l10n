@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Format">
 <!ENTITY itemTags.label                   "Tag">
+<!ENTITY itemAdvanced.label               "Tingkat Lanjut">
 
 <!ENTITY style.label                      "Gaya:">
 <!ENTITY style.accesskey                  "y">
@@ -27,11 +28,14 @@
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Tag dapat digunakan untuk mengelompokkan dan memprioritaskan pesan.">
 <!ENTITY newTagButton.label        "Baru…">
+<!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Sunting…">
+<!ENTITY editTagButton1.accesskey  "E">
 <!ENTITY removeTagButton.label     "Hapus">
 <!ENTITY removeTagButton.accesskey "H">
 
 <!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Huruf &amp; Warna">
 <!ENTITY defaultFont.label       "Huruf default:">
 <!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Ukuran:">

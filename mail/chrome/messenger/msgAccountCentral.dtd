@@ -13,12 +13,11 @@
 <!ENTITY subscribeFeeds.label         "Kelola langganan">
 
 <!ENTITY chat.label                   "Ngobrol">
-
+<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Akun">
 <!ENTITY subscribeImapFolders.label   "Kelola langganan folder">
 <!ENTITY settingsLink.label           "Tampilkan pengaturan akun ini">
-
 
 <!ENTITY advFeaturesSectionHdr.label  "Fitur Canggih">
 <!ENTITY searchMsgsLink.label         "Cari pesan">
