@@ -4,6 +4,8 @@
 
 <!ENTITY autoconfigWizard2.title         "Atur Akun Email yang Sudah Ada">
 
+<!ENTITY emailWizard.title               "Atur Akun Surel yang Sudah Ada">
+<!ENTITY emailWizard.caption             "Gunakan alamat surel Anda">
 <!ENTITY name.label                      "Nama Anda:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Nama Lengkap">
@@ -21,6 +23,7 @@
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.placeholder            "Sandi">
 <!ENTITY password.text                   "Opsional, akan digunakan untuk memvalidasi nama pengguna">
+<!ENTITY password.toggle                 "Tampilkan/Sembunyikan sandi">
 <!ENTITY rememberPassword.label          "Ingat sandi">
 <!ENTITY rememberPassword.accesskey      "I">
 <!ENTITY usernameEx.label                "Info masuk Anda">
@@ -28,11 +31,15 @@
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
+<!ENTITY protocol.label                  "Protokol:">
 <!ENTITY imapLong.label                  "IMAP (folder daring)">
 <!ENTITY pop3Long.label                  "POP3 (simpan email di komputer Anda)">
 
+<!ENTITY manualConfigTable.summary       "Pengaturan server">
 <!ENTITY incoming.label                  "Terima:">
+<!ENTITY incomingColumn.label            "Masuk">
 <!ENTITY outgoing.label                  "Keluar:">
+<!ENTITY outgoingColumn.label            "Keluar">
 <!ENTITY username.label                  "Nama pengguna:">
 <!ENTITY hostname.label                  "Nama host server">
 <!ENTITY port.label                      "Port">
@@ -44,6 +51,7 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP">
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange.label                  "Ubah">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Deteksi otomatis">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -53,6 +61,7 @@
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "Bertukar server:">
 
 <!ENTITY advancedSetup.label             "Konfigurasi lanjut">
 <!ENTITY advancedSetup.accesskey         "a">
