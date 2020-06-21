@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+head-title = Մշակողի գործիքների մասին
+enable-title = Միացնել Firefox-ի հռչակագրի գործիքները
+enable-inspect-element-title = Միացնել Firefox-ի հռչակագրի գործիքները ստուգուածն աւգտագործելու համար
+enable-inspect-element-message = Ուսումնասիրել եւ խմբագրել HTML֊ն ու CSS֊ը մշակողի գործիքների հսկիչով։
+newsletter-email-placeholder =
+    .placeholder = Ել֊փոստ
+newsletter-privacy-label = Համաձայն եմ կիսուել իմ տեղեկութիւններով Mozila-ի հետ՝ համաձայն այս քաղաքականութեան։
+newsletter-subscribe-button = Բաժանորդագրուել
+newsletter-thanks-title = Շնորհակալութիւն
 features-learn-more = Իմանալ աւելին
 features-inspector-title = Հսկիչ
 features-inspector-desc = Ստուգել եւ բարեաւել այլագիրը կատարեալ կէտայնութեամբ շարակարգեր կառուցելու համար: <a data-l10n-name="learn-more">{ features-learn-more }</a>
