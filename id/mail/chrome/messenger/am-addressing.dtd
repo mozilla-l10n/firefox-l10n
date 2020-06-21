@@ -30,6 +30,7 @@
 <!ENTITY autoQuote.label                      "Otomatis menyertakan kutipan dari pesan asli ketika membuat balasan">
 <!ENTITY autoQuote.accesskey                  "O">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Saat mengutip,">
 <!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "letakkan balasan saya di atas kutipan">
 <!ENTITY belowQuote.label                     "letakkan balasan saya setelah kutipan">
@@ -43,6 +44,7 @@
 <!ENTITY includeSigOnForward.label            "Sertakan tanda tangan saya pada pesan yang diteruskan">
 <!ENTITY includeSigOnForward.accesskey        "u">
 
+<!ENTITY globalComposingPrefs.label           "Preferensi Penulisan Global...">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
 <!ENTITY globalAddressingPrefs.accesskey      "P">

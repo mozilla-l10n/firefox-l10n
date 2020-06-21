@@ -23,5 +23,6 @@
 <!ENTITY ispHeaders.accesskey "P">
 
 <!ENTITY junkClassification.label "Pilihan">
+<!ENTITY junkActions.label "Tujuan dan Retensi">
 
 <!ENTITY globalJunkPrefs.accesskey "G">

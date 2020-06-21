@@ -13,11 +13,17 @@
 <!ENTITY alwaysEncryptMessage.accesskey "w">
 <!ENTITY encryptionCert.message "Gunakan sertifikat berikut untuk mengenkripsi &amp; mendekripsi pesan yang dikirim kepada Anda:">
 
+<!ENTITY e2eTitle.label "Enkripsi Ujung-ke-Ujung">
+<!ENTITY e2eLearnMore.label "Pelajari lebih lanjut">
 
 
+<!ENTITY e2eTechPref.description "Teknologi enkripsi yang dipilih:">
 
+<!ENTITY doNotEncrypt.label "Jangan aktifkan enkripsi secara tetap">
 <!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Membutuhkan enkripsi secara tetap">
 <!ENTITY requireEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert2.message "Sertifikat pribadi untuk enkripsi:">
 <!ENTITY digitalSign.certificate.button "Pilih…">
 <!ENTITY digitalSign.certificate.accesskey "P">
 <!ENTITY digitalSign.certificate_clear.button "Bersihkan">
