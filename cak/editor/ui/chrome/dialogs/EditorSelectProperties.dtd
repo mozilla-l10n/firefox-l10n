@@ -17,7 +17,7 @@
 <!ENTITY SelectTabIndex.accesskey "R">
 
 <!ENTITY OptGroup.label "Cha'oj Molaj">
-<!ENTITY OptGroupLabel.label "Etal:">
+<!ENTITY OptGroupLabel.label "Yaketal:">
 <!ENTITY OptGroupLabel.accesskey "E">
 <!ENTITY OptGroupDisabled.label "Chupun">
 <!ENTITY OptGroupDisabled.accesskey "C">
