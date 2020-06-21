@@ -13,17 +13,21 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+<!ENTITY performanceUI.bufferStatusTooltip "Հաշուետէրը պահում է նմուշները շրջանաձեւ պահնակում, իսկ պահնակը հասնում է ձայնագրութեան սահմանին, նոր նմուշները սկսում են վերագրել նմուշները ձայնագրութեան սկզբում:">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Միացնել բազմագործուն Firefox -ը նախընտրանքներում` ձայնագրման տուեալներն իրական ժամանակում մատուցելու համար:">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY performanceUI.bufferStatusFull "Պահնակը լցուած է: Այժմ հին նմուշները վերագրուում են:">
 
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Այս պահին հաշւի ձայնագրելն անհասանելի է։ Խնդրում ենք փակել որոնման բոլոր պատուհանները եւ փորձել կրկին։">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -31,9 +35,14 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.waterfall "Ջրվէժ">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Ցոյց է տալիս այն գործողութիւնները, որոնք դիտարկիչը կատարում է ձայնագրման ընթացքում, որոնք յաջորդաբար նկարագրուած են որպէս ջրվէժ։">
+<!ENTITY performanceUI.toolbar.js-calltree "Կանչել ծառը">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Գունանշել JavaScript գործառոյթները, որտեղ դիտարկիչը ծախսել է առաւելագոյն ժամանակը։">
 <!ENTITY performanceUI.toolbar.memory-calltree "Բաշխումներ">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ցուցադրում է, որտեղ է յիշողութիւն է բաշխուել ձայնագրութեան ընթացքում։">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame աղիւսակը">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Յատկացումների Flame աղիւսակ">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
