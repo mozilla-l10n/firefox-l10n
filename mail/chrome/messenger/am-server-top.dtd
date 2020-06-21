@@ -75,6 +75,7 @@
 <!ENTITY advancedButton.accesskey "K">
 <!ENTITY serverDefaultCharset2.label "Pengodean Teks Standar:">
 <!ENTITY localPath.label "Direktori lokal:">
+<!ENTITY localPath1.label "Direktori Lokal:">
 <!ENTITY localFolderPicker.label "Pilih Direktori Lokal">
 <!ENTITY browseFolder.label "Telusuri…">
 <!ENTITY browseFolder.accesskey "T">
@@ -83,6 +84,7 @@
 
 <!ENTITY accountTitle.label "Setelan Akun">
 <!ENTITY accountSettingsDesc.label "Akun berikut merupakan akun khusus. Tidak ada identitas yang terkait dengan akun ini.">
+<!ENTITY storeType.label "Jenis Penyimpangan Pesan:">
 <!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "Berkas per folder (mbox)">
 <!ENTITY maildirStore.label "Berkas per pesan (maildir)">

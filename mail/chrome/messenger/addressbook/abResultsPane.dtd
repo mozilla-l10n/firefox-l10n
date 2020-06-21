@@ -32,5 +32,7 @@
 <!ENTITY WorkPhone.accesskey                   "W">
 <!ENTITY ChatName.label                        "Nama Obrolan">
 <!ENTITY ChatName.accesskey                    "C">
+<!ENTITY sortAscending.label                   "Naik">
 <!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "Turun">
 <!ENTITY sortDescending.accesskey              "D">
