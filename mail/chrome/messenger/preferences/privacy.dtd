@@ -3,17 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Mail Content -->
+<!ENTITY captionMailContent.label "Konten Surel">
 
 <!ENTITY acceptRemoteContent.label "Izinkan konten jarak jauh dalam pesan">
+<!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "Pengecualian…">
 <!ENTITY acceptRemoteContentInfo.label "Pelajari lebih lanjut tentang isu privasi konten jarak jauh">
 
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Konten Web">
 
+<!ENTITY keepHistory.label "Ingat situs dan tautan yang saya kunjungi">
+<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Terima kuki dari situs web">
 <!ENTITY acceptThirdParty.pre.label "Terima kuki pihak ketiga:">
 <!ENTITY acceptThirdParty.always.label "Selalu">
+<!ENTITY acceptThirdParty.never.label "Jangan Pernah">
+<!ENTITY keepUntil.label "Simpan sampai:">
+<!ENTITY askEachTime.label "selalu tanyakan">
 <!ENTITY cookieExceptions.label "Kekecualian…">
 <!ENTITY showCookies.label "Tampilkan Kuki…">
+
+<!ENTITY dntTrackingNotOkay.label2 "Beritahu situs bahwa saya tidak ingin dilacak">
+<!ENTITY doNotTrackInfo.label "Pelajari selengkapnya tentang Do Not Track">
 
