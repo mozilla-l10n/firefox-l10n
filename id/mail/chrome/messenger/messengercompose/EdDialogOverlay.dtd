@@ -12,5 +12,6 @@
 <!ENTITY makeUrlRelative.label "URL relatif terhadap lokasi laman">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Untuk merubah URL relatif menjadi absolut atau sebaliknya, Anda harus menyimpan laman terlebih dahulu.">
-<!-- Shared by Link and Image dialogs -->
 
+<!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.accessKey "w">
