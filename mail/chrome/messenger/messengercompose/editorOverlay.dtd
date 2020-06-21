@@ -29,6 +29,7 @@
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd2.label "Tautan…">
 <!ENTITY insertLinkCmd2.accesskey "T">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Penanda Bernama…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Gambar…">
@@ -81,9 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Ukuran">
 <!ENTITY fontSizeMenu.accesskey "U">
+<!ENTITY size-tinyCmd.label "Mungil">
+<!ENTITY size-tinyCmd.accesskey "T">
 <!ENTITY size-smallCmd.label "Kecil">
+<!ENTITY size-smallCmd.accesskey "S">
 <!ENTITY size-mediumCmd.label "Sedang">
+<!ENTITY size-mediumCmd.accesskey "M">
 <!ENTITY size-largeCmd.label "Besar">
+<!ENTITY size-largeCmd.accesskey "L">
+<!ENTITY size-extraLargeCmd.label "Sangat Besar">
+<!ENTITY size-extraLargeCmd.accesskey "x">
+<!ENTITY size-hugeCmd.label "Sangat Besar">
+<!ENTITY size-hugeCmd.accesskey "H">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Gaya Teks">
@@ -128,6 +138,7 @@
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "y">
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Hapus Penanda Bernama">
 <!ENTITY formatRemoveNamedAnchors.accesskey "H">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
@@ -284,6 +295,7 @@
 <!ENTITY spellToolbarCmd.label "Periksa Ejaan">
 <!ENTITY spellToolbarCmd.tooltip "Periksa Ejaan saat mengetik atau seluruh laman">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Gambar">
 <!ENTITY imageToolbarCmd.tooltip "Sisipkan gambar baru atau sunting properti gambar yang dipilih">
 <!ENTITY hruleToolbarCmd.label "G.Mendatar">
