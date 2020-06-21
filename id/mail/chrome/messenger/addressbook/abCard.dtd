@@ -51,7 +51,7 @@
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Faksimile:">
 <!ENTITY FaxNumber.accesskey            "x">
-<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.label              "Penyeranta:">
 <!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Seluler:">
 <!ENTITY CellularNumber.accesskey       "b">
