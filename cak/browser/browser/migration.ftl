@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard =
-    .title = Ruto'onel k'amoj
+    .title = Ruto'onel K'amoj
 import-from =
     { PLATFORM() ->
         [windows] Kejik' taq cha'oj, taq yaketal, natab'äl, ewan taq tzij chuqa' juley chik taq rutzij:
@@ -53,7 +53,7 @@ no-migration-sources = Man tikirel ta xe'ilitäj taq cholkema' ri k'o taq yaketa
 import-source-page-title = Kek'am runuk'ulem chuqa' taq tzij
 import-items-page-title = Taq ruch'akulal xkek'am
 import-items-description = Ke'acha' achike taq ruch'akulal xekek'am:
-import-migrating-page-title = Tajin nik'am…
+import-migrating-page-title = Nik'am…
 import-migrating-description = Tajin nik'am re taq ruch'akulal re'…
 import-select-profile-page-title = Tichax rub'anikil
 import-select-profile-description = Tikirel yek'am taq tzij chi kikojol re taq rub'anikil re':

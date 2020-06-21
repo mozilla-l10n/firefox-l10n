@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Ruto'onel k'amoj">
+<!ENTITY migrationWizard.title          "Ruto'onel K'amoj">
 
 <!ENTITY importFrom.label               "Kejik' taq cha'oj, taq yaketal, natab'äl, ewan taq tzij chuqa' juley chik taq rutzij:">
 <!ENTITY importFromUnix.label           "Kejik' taq cha'oj, taq yaketal, natab'äl, ewan taq tzij chuqa' juley chik taq rutzij:">
@@ -42,7 +42,7 @@
 <!ENTITY importItems.title              "Taq ruch'akulal xkek'am">
 <!ENTITY importItems.label              "Ke'acha' achike taq ruch'akulal xekek'am:">
 
-<!ENTITY migrating.title                "Tajin nik'am…">
+<!ENTITY migrating.title                "Nik'am…">
 <!ENTITY migrating.label                "Tajin nik'am re taq ruch'akulal re'…">
 
 <!ENTITY selectProfile.title            "Tichax rub'anikil">
