@@ -90,7 +90,7 @@ newtab-menu-show-privacy-info = ਸਾਡੇ ਸਪਾਂਸਰ ਅਤੇ ਤੁ
 
 newtab-privacy-modal-button-done = ਸਮਾਪਤ
 newtab-privacy-modal-button-manage = ਸਪੌਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਦੇ ਇੰਤਜ਼ਾਮ ਲਈ ਸੈਟਿੰਗਾਂ
-newtab-privacy-modal-header = ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਮਹੱਤਵ ਰੱਖਦੀ ਹੈ।
+newtab-privacy-modal-header = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਮਹੱਤਵ ਰੱਖਦੀ ਹੈ।
 newtab-privacy-modal-link = ਸਿੱਖੋ ਕਿ ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਪਰਦੇਦਾਰੀ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ।
 
 ##
