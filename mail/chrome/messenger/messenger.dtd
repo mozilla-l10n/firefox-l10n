@@ -344,6 +344,7 @@
 <!ENTITY forwardAsMenu.accesskey "r">
 <!ENTITY forwardAsAttachmentCmd.label "Lampiran">
 <!ENTITY editAsNewMsgCmd.label "Sunting sebagai Pesan Baru">
+<!ENTITY editDraftMsgCmd.label "Sunting Rancangan Pesan">
 <!ENTITY editTemplateMsgCmd.label "Sunting Templat">
 <!ENTITY newMsgFromTemplateCmd.label "Pesan Baru dari Templat">
 <!-- do not change "VK_RETURN" -->
@@ -438,9 +439,11 @@
 <!ENTITY imStatus.unavailable        "Tidak tersedia">
 <!ENTITY imStatus.offline            "Luring">
 <!ENTITY imStatus.showAccounts       "Tampilkan Akun…">
+<!ENTITY joinChatCmd.label "Gabung ke Obrolan…">
 <!ENTITY savedFiles.label "Berkas Tersimpan">
 <!ENTITY savedFiles.accesskey "s">
 <!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Penyaringan Pesan">
 <!ENTITY filtersApply.label "Jalankan Pemfilter Pesan pada Folder">
 <!ENTITY filtersApply.accesskey "J">
 <!ENTITY filtersApplyToSelection.label "Jalankan Filter pada Pesan Terpilih">
@@ -478,6 +481,7 @@
 <!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "Ambil Pesan">
 <!ENTITY newMsgButton.label "Tulis">
 <!ENTITY replyButton.label "Balas">
 <!ENTITY replyAllButton.label "Balas ke Semua">
@@ -545,6 +549,7 @@
 <!ENTITY appmenuButton1.tooltip "Tampilkan Menu &brandShortName;">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsAttachment.label "Teruskan Sebagai Lampiran">
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Tampilkan konten jarak jauh dalam pesan ini">
@@ -552,6 +557,7 @@
 <!ENTITY editRemoteContentSettingsUnix.label "Sunting pilihan konten jarak jauh……">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Abaikan peringatan untuk pesan ini">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Pesan Baru">
@@ -653,6 +659,7 @@
 <!ENTITY subjectColumn2.tooltip "Urut berdasarkan subjek">
 <!ENTITY dateColumn2.tooltip "Urut berdasarkan tanggal">
 <!ENTITY priorityColumn2.tooltip "Urut berdasarkan prioritas">
+<!ENTITY tagsColumn2.tooltip "Urut berdasarkan tag">
 <!ENTITY accountColumn2.tooltip "Urut berdasarkan akun">
 <!ENTITY statusColumn2.tooltip "Urut berdasarkan status">
 <!ENTITY sizeColumn2.tooltip "Urut berdasarkan ukuran">
@@ -677,6 +684,8 @@
 <!ENTITY contextOpenConversation.label "Buka Pesan dalam Mode Percakapan">
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Sunting sebagai Pesan Baru">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Sunting Rancangan Pesan">
 <!ENTITY contextEditTemplate.label "Sunting Templat">
 <!ENTITY contextArchive.label "Arsipkan">
 <!ENTITY contextArchive.accesskey "A">
@@ -778,6 +787,7 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "Cari #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
@@ -863,5 +873,6 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY writeNewMessageDock.label      "Tulis Pesan Baru">
+<!ENTITY openAddressBookDock.label      "Buka Buku Alamat">
 
 <!-- Content tab Navigation buttons -->
