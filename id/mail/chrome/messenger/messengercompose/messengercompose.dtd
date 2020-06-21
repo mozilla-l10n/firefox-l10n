@@ -110,6 +110,11 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Tata Ulang Lampiran">
+<!ENTITY moveAttachmentTopPanelBtn.label "Pindahkan ke Atas">
+<!ENTITY moveAttachmentUpPanelBtn.label "Naikkan">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Pindahkan bersama">
+<!ENTITY moveAttachmentDownPanelBtn.label "Turunkan">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Pindahkan ke Dasar">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -119,6 +124,8 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Urutkan Pilihan: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Urutkan Pilihan: Z - A">
 <!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
@@ -246,6 +253,7 @@
 <!ENTITY fromAddr.label "Dari:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Kepada:">
 <!ENTITY ccAddr.label "Cc:">
