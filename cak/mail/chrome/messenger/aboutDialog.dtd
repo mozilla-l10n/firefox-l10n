@@ -48,7 +48,7 @@
 <!ENTITY releaseNotes.link          "Ruch'utitzijol re ruwäch re'">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Na'oj chi rij ya'öl q’ij">
+<!ENTITY bottomLinks.license        "Rutzijol Ya'öl Q'ij">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Kich'ojib'al K'isib'äl-Okisanel">
