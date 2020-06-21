@@ -50,6 +50,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Akun Terpilih">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "T">
+<!ENTITY getNextNMsgCmd2.label "Ambil Pesan Berita Selanjutnya">
 <!ENTITY sendUnsentCmd.label "Kirim Pesan yang Belum Terkirim">
 <!ENTITY sendUnsentCmd.accesskey "r">
 <!ENTITY subscribeCmd.label "Berlangganan…">

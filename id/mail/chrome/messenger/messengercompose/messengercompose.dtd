@@ -200,6 +200,7 @@
 <!ENTITY accountManagerCmd2.label "Setelan Akun">
 <!ENTITY accountManagerCmd2.accesskey "S">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Pilihan">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey "P">
@@ -331,6 +332,7 @@
 <!ENTITY addressesSidebarTitle.label "Kenalan">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Menyesuaikan Dari Alamat...">
 <!ENTITY customizeFromAddress.accesskey "A">
 
 <!-- Accessibility name for the document -->
