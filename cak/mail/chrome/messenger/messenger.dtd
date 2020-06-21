@@ -360,7 +360,7 @@
 <!ENTITY forwardMsgCmd.label "Jun chik">
 <!ENTITY forwardMsgCmd.accesskey "J">
 <!ENTITY forwardMsgCmd.key "l">
-<!ENTITY forwardAsMenu.label "Jun chik Achi'el">
+<!ENTITY forwardAsMenu.label "Titaq chik Achi'el">
 <!ENTITY forwardAsMenu.accesskey "c">
 <!ENTITY forwardAsInline.label "Pa k'amab'ey">
 <!ENTITY forwardAsInline.accesskey "P">
@@ -785,7 +785,7 @@
 <!ENTITY contextReplyList.accesskey "C">
 <!ENTITY contextForward.label "Jun chik">
 <!ENTITY contextForward.accesskey "J">
-<!ENTITY contextForwardAsMenu.label "Jun chik Achi'el">
+<!ENTITY contextForwardAsMenu.label "Titaq chik Achi'el">
 <!ENTITY contextForwardAsMenu.accesskey "e">
 <!ENTITY contextForwardAsInline.label "Pa k'amab'ey">
 <!ENTITY contextForwardAsInline.accesskey "P">
