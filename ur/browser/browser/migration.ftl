@@ -96,6 +96,44 @@ browser-data-cookies-checkbox =
     .label = کوکیز
 browser-data-cookies-label =
     .value = کوکیز
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] براؤزنگ کی تاریخ اور بک مارک
+           *[other] براؤزنگ کی تاریخ
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] براؤزنگ کی تاریخ اور بک مارک
+           *[other] براؤزنگ کی تاریخ
+        }
+browser-data-formdata-checkbox =
+    .label = فارم کی تاریخ محفوظ کی گئی
+browser-data-formdata-label =
+    .value = فارم کی تاریخ محفوظ کی گئی
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = لاگ انز اور پاس ورڈز محفوظ کیے گئے
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = لاگ انز اور پاس ورڈز محفوظ کیے گئے
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] پسندیدہ
+            [edge] پسندیدہ
+           *[other] بک مارک
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] پسندیدہ
+            [edge] پسندیدہ
+           *[other] بک مارک
+        }
 browser-data-otherdata-checkbox =
     .label = دیگر ڈیٹا
 browser-data-otherdata-label =
