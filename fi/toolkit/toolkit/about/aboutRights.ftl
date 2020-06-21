@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rights-title = Tietoa oikeuksistasi
-rights-intro = { -brand-full-name } on ilmainen, avoimen lähdekoodin ohjelmisto, jonka tekijäyhteisö koostuu tuhansista ympäri maailmaa asuvista ihmisistä. Seuraavat seikat on hyvä tietää:
+rights-intro = { -brand-full-name } on ilmainen, avoimen lähdekoodin ohjelmisto. Sen tekijäyhteisö koostuu tuhansista ihmisistä, jotka asuvat ympäri maailmaa. Seuraavat seikat on hyvä tietää:
 rights-intro-point-1 = { -brand-short-name } on annettu sinulle <a data-l10n-name="mozilla-public-license-link">Mozillan julkisen lisenssin (Mozilla Public License)</a> ehdoilla. Lisenssissä annetaan sinulle oikeus käyttää, kopioida ja levittää { -brand-short-name }ia. Sinulla on myös halutessasi oikeus muokata ja muuttaa { -brand-short-name }in lähdekoodia omien tarpeittesi mukaisesti. Mozillan julkinen lisenssi antaa sinulle myös oikeuden levittää näitä muokkaamiasi versioita.
 rights-intro-point-2 = Sinulle ei anneta minkään muotoisia tavaramerkki- tai lisenssioikeuksia Mozilla-säätiön tai muun tahon tavaramerkkeihin, joihin lukeutuu Firefox-nimi ja -logo. Voit lukea tarkempia lisätietoja tavaramerkeistä <a data-l10n-name="mozilla-trademarks-link">täältä</a>.
 rights-intro-point-3 = Jotkin { -brand-short-name }in ominaisuudet, kuten kaatumisen raportointi, antavat mahdollisuuden lähettää palautetta { -vendor-short-name }lle. Lähettämällä palautetta annat { -vendor-short-name }lle luvan käyttää lähetettyjä tietoja parantamaan tuotetta, julkaisemaan lähetetyn palautteen verkkosivuilla ja jakelemaan lähetettyjä palautetietoja.
