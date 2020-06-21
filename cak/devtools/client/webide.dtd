@@ -64,7 +64,7 @@
 <!-- reload app -->
 <!ENTITY key_play "R">
 <!-- show toolbox -->
-<!ENTITY key_toggleToolbox "VK_F2">
+<!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">

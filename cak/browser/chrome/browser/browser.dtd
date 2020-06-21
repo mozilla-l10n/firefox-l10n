@@ -43,7 +43,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.accesskey             "T">
 <!ENTITY  hiddenTabs.label                   "Ewan taq Ruwi'">
 
-<!ENTITY  listAllTabs.label      "Kik'utik konojel ri taq ruwi' kajtz'ïk">
+<!ENTITY  listAllTabs.label      "Kecholajïx ronojel taq ruwi'">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Kekanöx taq Ruwi'">
