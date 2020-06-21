@@ -185,7 +185,7 @@
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Tawila' ri ruchi' cholaj ri k'o ruq'ij chupam ruxe'el">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Tutz'apij ri' ruyon ri q'inijuch'">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Tich'ap pa ruyonil tz'apin taq q'inijuch'">
-<!ENTITY options.sourceeditor.expandtab.label           "Ruchi' cholaj nrokisab'ej taq kojol ">
+<!ENTITY options.sourceeditor.expandtab.label           "Ruchi' cholaj nrokisab'ej taq kojol">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Ke'okisäx taq kojol pa ruk'exel ri rutz'ib' alk'utu'">
 <!ENTITY options.sourceeditor.tabsize.label             "Runimilem ruwi'">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "R">
