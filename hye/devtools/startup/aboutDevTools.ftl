@@ -8,7 +8,6 @@ enable-inspect-element-title = Միացնել Firefox-ի հռչակագրի գո
 enable-inspect-element-message = Ուսումնասիրել եւ խմբագրել HTML֊ն ու CSS֊ը մշակողի գործիքների հսկիչով։
 newsletter-email-placeholder =
     .placeholder = Ել֊փոստ
-newsletter-privacy-label = Համաձայն եմ կիսուել իմ տեղեկութիւններով Mozila-ի հետ՝ համաձայն այս քաղաքականութեան։
 newsletter-subscribe-button = Բաժանորդագրուել
 newsletter-thanks-title = Շնորհակալութիւն
 features-learn-more = Իմանալ աւելին
