@@ -25,6 +25,7 @@
 <!ENTITY contextOutgoing.accesskey "S">
 <!ENTITY contextArchive.label "Mengarsipkan">
 <!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Lakukan aksi berikut:">
 <!ENTITY filterActionDesc.accesskey "L">
@@ -58,4 +59,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
