@@ -236,3 +236,35 @@ bar-tooltip-social =
             [few] { $count } śledzōnce elymynty ({ $percentage }%)
            *[many] { $count } śledzōncych elymyntōw ({ $percentage }%)
         }
+bar-tooltip-cookie =
+    .title = Cookies elymyntōw, co śledzōm miyndzy strōnami
+    .aria-label =
+        { $count ->
+            [one] { $count } cookies elymyntōw, co śledzōm miyndzy strōnami ({ $percentage }%)
+            [few] { $count } cookies elymyntōw, co śledzōm miyndzy strōnami ({ $percentage }%)
+           *[many] { $count } cookies elymyntōw, co śledzōm miyndzy strōnami ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Śledzōnco zawartość
+    .aria-label =
+        { $count ->
+            [one] { $count } śledzōnco zawartość ({ $percentage }%)
+            [few] { $count } śledzōnce zawartości ({ $percentage }%)
+           *[many] { $count } śledzōncych zawartości ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
+    .aria-label =
+        { $count ->
+            [one] { $count } elymynt, co rychtuje ôdcisk ôd przeglōndarki ({ $percentage }%)
+            [few] { $count } elymynty, co rychtujōm ôdcisk ôd przeglōndarki ({ $percentage }%)
+           *[many] { $count } elymyntōw, co rychtujōm ôdcisk ôd przeglōndarki ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Elymynty, co fedrujōm kryptopiniōndze
+    .aria-label =
+        { $count ->
+            [one] { $count } elymynt, co fedruje kryptopiniōndze ({ $percentage }%)
+            [few] { $count } elymynty, co fedrujōm kryptopiniōndze ({ $percentage }%)
+           *[many] { $count } elymyntōw, co fedrujōm kryptopiniōndze ({ $percentage }%)
+        }
