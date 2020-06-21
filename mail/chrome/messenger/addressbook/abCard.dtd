@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Contact.tab                     "Kontak">
+<!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Nama">
 
 <!-- LOCALIZATION NOTE:
@@ -18,10 +19,17 @@
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.accesskey           "L">
 <!ENTITY PhoneticField1.label           "Fonetis:">
 <!ENTITY PhoneticField2.label           "Fonetis:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY NickName.accesskey             "N">
 
 <!ENTITY PrimaryEmail.label             "Surel:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tidak diketahui">
 <!ENTITY chatName.label                 "Nama Obrolan:">
