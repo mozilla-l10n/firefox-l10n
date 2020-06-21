@@ -27,7 +27,7 @@ warningDesc-version = { -brand-short-name } choj ok nitojtob'ëx, rik’in jub'a
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> jun <label data-l10n-name="community-exp-creditsLink">chijun ach'ala'il</label> yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k'amaya'l.
 community-2 = { -brand-short-name } wachib'en ruma <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, jun <label data-l10n-name="community-creditsLink">chijun ach'ala'il</label> yojsamäj junam richin jantape' jaqäl chuqa' okel nisamajïx ri k’amaya'l.
 helpus = ¿La nawajo' yato'on? <label data-l10n-name="helpus-donateLink">Taya' jun sipanïk</label> o <label data-l10n-name="helpus-getInvolvedLink">¡kato'on!</label>
-bottomLinks-license = Na'oj chi rij ya'öl q’ij
+bottomLinks-license = Rutzijol Ya'öl Q'ij
 bottomLinks-rights = Kich'ojib'al K'isib'äl-Okisanel
 bottomLinks-privacy = Runa'ojil ichinanem
 # Example of resulting string: 66.0.1 (64-bit)
