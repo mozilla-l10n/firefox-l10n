@@ -127,6 +127,17 @@ browser-data-bookmarks-checkbox =
             [edge] รายการโปรด
            *[other] ที่คั่นหน้า
         }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] รายการโปรด
+            [edge] รายการโปรด
+           *[other] ที่คั่นหน้า
+        }
+browser-data-otherdata-checkbox =
+    .label = ข้อมูลอื่น ๆ
+browser-data-otherdata-label =
+    .label = ข้อมูลอื่น ๆ
 browser-data-session-checkbox =
     .label = หน้าต่างและแท็บ
 browser-data-session-label =
