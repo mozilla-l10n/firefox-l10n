@@ -19,3 +19,9 @@ storage-table-type-sessionstorage-hint = ดูและแก้ไขที่
 # Hint shown when the IndexedDB storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/IndexedDB
 storage-table-type-indexeddb-hint = ดูและลบรายการ IndexedDB โดยเลือกฐานข้อมูล <a data-l10n-name="learn-more-link">เรียนรู้เพิ่มเติม</a>
+# Hint shown when the cache storage type is selected. Clicking the link will open
+# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cache_Storage
+storage-table-type-cache-hint = ดูและลบรายการที่เก็บแคชโดยเลือกที่เก็บ <a data-l10n-name="learn-more-link">เรียนรู้เพิ่มเติม</a>
+# Hint shown when the extension storage type is selected. Clicking the link will open
+# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
+storage-table-type-extensionstorage-hint = ดูและแก้ไขที่เก็บส่วนขยายโดยเลือกโฮสต์ <a data-l10n-name="learn-more-link">เรียนรู้เพิ่มเติม</a>
