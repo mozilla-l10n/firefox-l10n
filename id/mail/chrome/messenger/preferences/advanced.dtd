@@ -13,6 +13,7 @@
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY dateTimeFormatting.label      "Format Waktu dan Tanggal">
 <!ENTITY languageSelector.label        "Bahasa">
+<!ENTITY allowHWAccel.label            "Gunakan akselerasi perangkat keras jika tersedia">
 
 
 <!ENTITY systemIntegration.label       "Integrasi dengan Sistem">
@@ -49,8 +50,11 @@
  -->
 <!ENTITY updateApp.version.pre           "Versi ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAuto.label                "Otomatis pasang pemutakhiran (disarankan: meningkatkan keamanan)">
+<!ENTITY updateCheck.label               "Periksa pemutakhiran, biarkan saya memilih apakah akan dipasang atau tidak">
 <!ENTITY updateHistory.label             "Tampilkan Riwayat Pemutakhiran">
 
+<!ENTITY useService.label                "Gunakan layanan latar belakang untuk memasang pemutakhiran">
 
 
 <!-- Networking and Disk Space -->

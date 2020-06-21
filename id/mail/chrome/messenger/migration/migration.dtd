@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Impor Pengaturan, Pengaturan Akun, Buku Alamat, Filter, dan data Lainnya dari:">
 <!ENTITY importFromNonWin.label         "Impor Pengaturan, Pengaturan Akun, Buku Alamat, Filter, dan data Lainnya dari:">
+<!ENTITY importSourceNotFound.label     "Tidak ada aplikasi untuk darimana mengimpor data yang ditemukan.">
 
 <!ENTITY importFromNothing.label        "Jangan impor apa pun">
 <!ENTITY importFromNothing.accesskey    "J">

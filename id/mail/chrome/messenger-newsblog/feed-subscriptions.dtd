@@ -4,6 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Langganan Feed">
+<!ENTITY learnMore.label             "Pelajari lebih lanjut tentang Feed">
 
 <!ENTITY feedTitle.label             "Judul:">
 <!ENTITY feedTitle.accesskey         "J">
@@ -17,6 +18,7 @@
 <!ENTITY feedFolder.accesskey        "S">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Periksa artikel baru setiap ">
 <!ENTITY biffMinutes.label           "menit">
 <!ENTITY biffDays.label              "hari">
 <!ENTITY recommendedUnits.label      "Rekomendasi Penerbit:">
