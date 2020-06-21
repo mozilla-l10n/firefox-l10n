@@ -113,7 +113,12 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
+<!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY PhotoFile.label                "Di Komputer ini">
+<!ENTITY PhotoFile.accesskey            "n">
 <!ENTITY BrowsePhoto.label              "Jelajahi">
+<!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Di Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY UpdatePhoto.accesskey          "u">
 <!ENTITY PhotoDropTarget.label          "Seret foto baru ke sini">
