@@ -196,6 +196,30 @@ monitor-no-breaches-title = Dobre nowiny!
 monitor-no-breaches-description = Niy mosz żodnych poznanych wyciekōw danych. Jakby co sie zmiyniyło, to dōmy ci znać.
 monitor-view-report-link = Pokoż raport
     .title = Rozwiōnż wycieki danych we { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Rozwiōnż swoje wycieki danych
+monitor-breaches-unresolved-description = Po ôbadaniu informacyji ô wycieku danych i zaczniyńciu ôchrōny twojich danych, możesz ôcechować wycieki za rozwiōnzane.
+monitor-manage-breaches-link = Regiyruj wyciekami danych
+    .title = Regiyruj wyciekami danych we { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Wszyskie poznane wycieki danych sōm rozwiōnzane.
+monitor-breaches-resolved-description = Jak twōj email pokoże sie przi jakich nowych wyciekach, to dōmy ci znać.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } ze { $numBreaches } wyciekōw je ôcechowany za rozwiōnzany
+        [few] { $numBreachesResolved } ze { $numBreaches } wyciekōw sōm ôcechowane za rozwiōnzane
+       *[many] { $numBreachesResolved } ze { $numBreaches } wyciekōw je ôcechowanych za rozwiōnzane
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% je fertich
+monitor-partial-breaches-motivation-title-start = Dobry poczōntek!
+monitor-partial-breaches-motivation-title-middle = Ino tak dalij!
+monitor-partial-breaches-motivation-title-end = Mało wiela fertich! Ino tak dalij.
+monitor-partial-breaches-motivation-description = Rozwiōnż inksze swoje wycieki danych we usudze { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Rozwiōnż wycieki danych
+    .title = Rozwiōnż wycieki danych we usudze { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -204,3 +228,11 @@ monitor-view-report-link = Pokoż raport
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Elymynty śledzōnce ôd społecznościowych serwisōw
+    .aria-label =
+        { $count ->
+            [one] { $count } śledzōncy elymynt ({ $percentage }%)
+            [few] { $count } śledzōnce elymynty ({ $percentage }%)
+           *[many] { $count } śledzōncych elymyntōw ({ $percentage }%)
+        }
