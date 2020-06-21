@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from EdReplace.xul -->
-
 
 <!-- extracted from EdReplace.xhtml -->
 
@@ -26,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Ganti Semua">
 <!ENTITY replaceAllButton.accesskey "S">
 <!ENTITY closeButton.label "Tutup">
+<!ENTITY closeButton.accesskey "C">
