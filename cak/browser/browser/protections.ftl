@@ -58,7 +58,7 @@ cookie-tab-title = Kikuki Rojqanela' Xoch'in taq Ruxaq
 cookie-tab-content = Re taq kuki re' yatkojqaj pa taq ruxaq richin nikimöl awetamab'al chi rij ri nab'än pa k'amab'ey. Yekiya' kajk'ayij aj rox winäq achi'el eltzijob'äl moloj chuqa' ch'ob'onela' tzij. Ri ruq'atik k'ïy ruxaq nuqasaj jarupe' taq eltzijol yatkojqaj xab'akuchi' yab'e'. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
 tracker-tab-title = Rojqanem Rupam
 tracker-tab-description = Ri ajk'amaya'l ruxaq yetikïr yekijotob'a' taq eltzijol, taq silowäch chuqa' jun chik rupam kik'wan rub'itz'ib' ojqanem. Toq yeq'at kojqanem rupam, nito'on chi anin yesamäj ri taq ruxaq, xa xe chi jujun taq pitz'ib'äl, taq nojwuj chuqa' taq k'ojlib'äl rik'in jub'a' man ütz ta yesamäj. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
-fingerprinter-tab-title = B'anöy ruwi' q'ab'aj
+fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Ri b'anöy ruwi' q'ab'aj nikimöl taq runuk'ulem awokik'amaya'l chuqa' akematz'ib' richin nikitz'ük jun ruwäch ab'i'. Toq nikokisaj re retal ruwi' q'ab'aj, yetikïr yatkitzeqelib'ej pa jalajoj taq ajk'amaya'l ruxaq. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
 cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Ri ajkriptom nikokisaj ruchuq'a' ruq'inoj akematz'ib' richin rub'anik kematz'ib'il pwäq. Ri taq skrip ye'okisäx chi kipam, nikokisaj ri awateriya', eqal nikib'än chi re ri akematz'ib' chuqa' nikijotob'a' rajil ruwujil asaqil. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
@@ -237,11 +237,11 @@ bar-tooltip-tracker =
            *[other] { $count } rojqanem rupam({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Ketal ruwi' q'ab'aj
+    .title = Fingerprinters
     .aria-label =
         { $count ->
-            [one] { $count } retal ruwi' q'ab'aj ({ $percentage }%)
-           *[other] { $count } Ketal ruwi' q'ab'aj ({ $percentage }%)
+            [one] { $count } Fingerprinter ({ $percentage }%)
+           *[other] { $count } fingerprinters ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Cryptominers
