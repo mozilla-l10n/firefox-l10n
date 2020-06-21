@@ -20,8 +20,10 @@
 
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
+<!ENTITY helpFeedbackPage.label "Kirim Masukan...">
 <!ENTITY helpFeedbackPage.accesskey "S">
 
+<!ENTITY helpShowTour2.label "Tur &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey "o">
 
 <!ENTITY helpGetInvolvedPage.accesskey "I">
