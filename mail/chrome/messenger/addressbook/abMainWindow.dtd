@@ -77,8 +77,10 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Properti">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Properti Buku Alamat">
 <!ENTITY abPropertiesMenu.accesskey                     "i">
 <!ENTITY contactPropertiesMenu.label                    "Properti Kontak">
 <!ENTITY contactPropertiesMenu.accesskey                "i">
@@ -122,6 +124,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Email &amp; Newsgroup">
 <!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Buku Alamat">
 <!ENTITY addressBookCmd.accesskey                       "a">
 <!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Cari Alamat…">
@@ -197,7 +200,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY JobTitle.accesskey                             "P">
 <!ENTITY CellularNumber.label                           "Handphone">
 <!ENTITY CellularNumber.accesskey                       "H">
-<!ENTITY PagerNumber.label                              "Pager">
+<!ENTITY PagerNumber.label                              "Penyeranta">
 <!ENTITY PagerNumber.accesskey                          "P">
 <!ENTITY FaxNumber.label                                "Fax">
 <!ENTITY FaxNumber.accesskey                            "F">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Warna dan Latar Belakang Laman">
 <!ENTITY pageColors.label "Warna Laman">
 <!ENTITY defaultColorsRadio.label "Warna default pemirsa/pembaca (tidak mengatur warna untuk laman)">
@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Gambar Latar Belakang:">
 <!ENTITY backgroundImage.accessKey "G">
 <!ENTITY backgroundImage.tooltip "Gunakan berkas gambar untuk latar belakang laman Anda">
+<!ENTITY backgroundImage.shortenedDataURI "URl data disingkat (menyalin akan menempatkan URI lengkap pada papan klip)">
