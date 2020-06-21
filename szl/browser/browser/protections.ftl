@@ -125,6 +125,12 @@ lockwise-connected-device-status =
     }
 monitor-title = Dej pozōr na wycieki danych
 monitor-link = Jak to funguje
+monitor-header-content-no-account = Badnij na { -monitor-brand-name }, jeźli niy wyciekły twoje dane, i dostowej powiadōmiynia ô nowych wyciekach.
+monitor-header-content-signed-in = { -monitor-brand-name } dowo ci znać, jeźli twoje dane pokozały sie w poznanym wycieku danych.
+monitor-sign-up = Dej se posyłać powiadōmiynia ô wyciekach danych
+monitor-sign-up-link = Dej se posyłać powiadōmiynia ô wyciekach danych
+    .title = Dej se posyłać powiadōmiynia ô wyciekach danych ôd { -monitor-brand-name }
+auto-scan = Autōmatycznie przeskanowane: dzisio
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
