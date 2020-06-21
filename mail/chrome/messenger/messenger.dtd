@@ -545,7 +545,7 @@
 <!ENTITY replyListButton.label "Përgjigjuni te Lista">
 <!ENTITY forwardButton.label "Përcille">
 <!ENTITY fileButton.label "Kartelë">
-<!ENTITY archiveButton.label "Arkiv">
+<!ENTITY archiveButton.label "Arkivoje">
 <!ENTITY openConversationButton.label "Bisedë">
 <!ENTITY nextButton.label "Pasuesi">
 <!ENTITY nextButtonToolbarItem.label "I palexuari Pasues">

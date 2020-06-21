@@ -22,7 +22,7 @@
 <!ENTITY inReplyToField4.label "Në përgjigje të ">
 <!ENTITY originalWebsite4.label "Sajt ">
 
-<!ENTITY hdrArchiveButton1.label "Arkiv">
+<!ENTITY hdrArchiveButton1.label "Arkivoje">
 <!ENTITY hdrArchiveButton1.tooltip "Arkivojeni këtë mesazh">
 <!ENTITY hdrOpenConversationButton1.label "Bisedë">
 <!ENTITY hdrOpenConversationButton1.tooltip "Shfaq bisedën e këtij mesazhi">
