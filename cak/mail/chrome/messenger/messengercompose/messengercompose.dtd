@@ -274,7 +274,7 @@
 <!ENTITY attachmentBucketCloseButton.tooltip "Tewäx ri rupas taqoj">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
-<!ENTITY SmileButton.tooltip "Tich'ik jun tze'n paläj">
+<!ENTITY SmileButton.tooltip "Tich'ap jun tze'n paläj">
 <!ENTITY smiley1Cmd.label "Tze'enïk">
 <!ENTITY smiley2Cmd.label "B'is">
 <!ENTITY smiley3Cmd.label "Win">
