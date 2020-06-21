@@ -18,6 +18,7 @@
 <!ENTITY newListCmd.accesskey                           "M">
 <!ENTITY newAddressBookCmd.label                        "Buku Alamat…">
 <!ENTITY newAddressBookCmd.accesskey                    "B">
+<!ENTITY newCardDAVBookCmd.label                        "Buku Alamat CardDAV…">
 <!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Direktori LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -84,6 +85,7 @@
 <!ENTITY abPropertiesMenu.accesskey                     "i">
 <!ENTITY contactPropertiesMenu.label                    "Properti Kontak">
 <!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Properti Milis">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
@@ -143,6 +145,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label                            "Daftar Baru">
 <!ENTITY newlistButton.accesskey                        "D">
+<!ENTITY showAsDefault.label                            "Direktori startup tetap">
 <!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Sunting">
 <!ENTITY propertiesContext.label                        "Properti">
@@ -163,11 +166,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "H">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Pilih kolom untuk ditampilkan">
 <!ENTITY newContactButton.tooltip                       "Buat data kenalan baru">
 <!ENTITY newlistButton.tooltip                          "Buat daftar alamat baru">
 <!ENTITY editPropertiesButton.tooltip                   "Ubah item terpilih">
 <!ENTITY editAbPropertiesButton.tooltip                 "Sunting properti dari buku alamat yang dipilih">
 <!ENTITY editContactPropertiesButton.tooltip            "Sunting kontak terpilih">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Sunting milis yang dipilih">
 <!ENTITY newmsgButton.tooltip                           "Kirim email">
 <!ENTITY newIM.tooltip                                  "Kirim pesan instan atau chatting">
 <!ENTITY deleteButton2.tooltip                          "Hapus item terpilih">
