@@ -29,3 +29,5 @@
 <!ENTITY WorkPhone.accesskey                   "W">
 <!ENTITY ChatName.label                        "Nama Obrolan">
 <!ENTITY ChatName.accesskey                    "C">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.accesskey              "D">

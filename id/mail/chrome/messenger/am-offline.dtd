@@ -5,6 +5,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Untuk menghemat ruang disk, jangan unduh:">
 <!ENTITY doNotDownloadNntp.label "Untuk menghemat ruang disk, jangan unduh pesan untuk penggunaan luring:">
 <!ENTITY doNotDownloadImap.label "Untuk menghemat ruang disk, pengunduhan pesan dari server dan penyimpanan luring salinan lokal dapat diatur berdasarkan umur atau besar pesan.">
+<!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY offlineNotDownload.label "Pesan lebih besar dari">
 <!ENTITY offlineNotDownload.accesskey "P">
 <!ENTITY autosyncNotDownload.label "Jangan unduh pesan yang lebih besar dari">

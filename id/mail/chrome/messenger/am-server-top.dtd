@@ -22,6 +22,7 @@
 <!ENTITY biffStart.accesskey "P">
 <!ENTITY biffEnd.label "menit">
 <!ENTITY useIdleNotifications.label "Izinkan pemberitahuan server segera saat pesan baru tiba">
+<!ENTITY useIdleNotifications.accesskey "w">
 <!ENTITY connectionSecurity.label "Keamanan sambungan:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Tidak ada">
@@ -82,5 +83,6 @@
 
 <!ENTITY accountTitle.label "Setelan Akun">
 <!ENTITY accountSettingsDesc.label "Akun berikut merupakan akun khusus. Tidak ada identitas yang terkait dengan akun ini.">
+<!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "Berkas per folder (mbox)">
 <!ENTITY maildirStore.label "Berkas per pesan (maildir)">

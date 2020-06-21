@@ -8,6 +8,7 @@
 <!ENTITY identitiesListEdit.label "Ubah…">
 <!ENTITY identitiesListEdit.accesskey "U">
 <!ENTITY identitiesListDefault.label "Setel Baku">
+<!ENTITY identitiesListDefault.accesskey "S">
 <!ENTITY identitiesListDelete.label "Hapus">
 <!ENTITY identitiesListDelete.accesskey "H">
 <!ENTITY identitiesListClose.label "Tutup">
