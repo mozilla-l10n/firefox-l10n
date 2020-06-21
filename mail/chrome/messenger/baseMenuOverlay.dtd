@@ -9,8 +9,21 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Bantuan">
 <!ENTITY helpMenuWin.accesskey "n">
+<!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY helpTroubleshootingInfo.label     "Informasi Pemecahan Masalah…">
 <!ENTITY helpTroubleshootingInfo.accesskey "m">
 <!ENTITY helpSafeMode.label     "Mulai Ulang dengan Pengaya Dinonaktifkan…">
 <!ENTITY helpSafeMode.accesskey "n">
+<!ENTITY helpSafeMode.stop.accesskey "R">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelpMac.commandkey "?">
 
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpFeedbackPage.accesskey "S">
+
+<!ENTITY helpShowTour2.accesskey "o">
+
+<!ENTITY helpGetInvolvedPage.accesskey "I">
+
+<!ENTITY helpDonationsPage.accesskey "M">

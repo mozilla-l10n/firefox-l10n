@@ -41,11 +41,14 @@
 
 
 <!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.accesskey "y">
 
 
+<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Pilih Sertifikat">
 <!ENTITY certPicker.info  "Sertifikat:">
 <!ENTITY certPicker.detailsLabel "Detail sertifikat yang dipilih:">
 
+<!ENTITY openpgpKey.accesskey "o">
