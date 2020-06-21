@@ -15,33 +15,48 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Pertama:">
 <!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "Terakhir:">
 <!ENTITY NameField2.accesskey           "L">
 <!ENTITY PhoneticField1.label           "Fonetis:">
 <!ENTITY PhoneticField2.label           "Fonetis:">
+<!ENTITY DisplayName.label              "Tampilan:">
 <!ENTITY DisplayName.accesskey          "D">
 <!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY NickName.label                 "Alias:">
 <!ENTITY NickName.accesskey             "N">
 
 <!ENTITY PrimaryEmail.label             "Surel:">
 <!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Surel Tambahan:">
 <!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PlainText.label                "Teks Biasa">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tidak diketahui">
 <!ENTITY chatName.label                 "Nama Obrolan:">
 
+<!ENTITY WorkPhone.label                "Kantor:">
 <!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY HomePhone.label                "Rumah:">
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Faksimile:">
 <!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY CellularNumber.label           "Seluler:">
 <!ENTITY CellularNumber.accesskey       "b">
 
+<!ENTITY Home.tab                       "Pribadi">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Alamat:">
 <!ENTITY HomeAddress.accesskey          "a">
@@ -57,10 +72,15 @@
 <!ENTITY HomeCountry.accesskey          "n">
 <!ENTITY HomeWebPage.label              "Laman Web:">
 <!ENTITY HomeWebPage.accesskey          "">
+<!ENTITY Birthday.label                 "Ulang Tahun:">
 <!ENTITY Birthday.accesskey             "B">
+<!ENTITY Month.placeholder              "Bulan">
+<!ENTITY Day.placeholder                "Hari">
 <!ENTITY Year.placeholder               "Tahun">
+<!ENTITY Age.label                      "Usia:">
 <!ENTITY Age.placeholder                "Usia">
 
+<!ENTITY Work.tab                       "Kantor">
 <!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "Judul:">
 <!ENTITY JobTitle.accesskey             "i">
@@ -113,12 +133,15 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
+<!ENTITY GenericPhoto.label             "Foto Generik">
 <!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Asali">
 <!ENTITY PhotoFile.label                "Di Komputer ini">
 <!ENTITY PhotoFile.accesskey            "n">
 <!ENTITY BrowsePhoto.label              "Jelajahi">
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Di Web">
 <!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY UpdatePhoto.label              "Pemutakhiran">
 <!ENTITY UpdatePhoto.accesskey          "u">
 <!ENTITY PhotoDropTarget.label          "Seret foto baru ke sini">
