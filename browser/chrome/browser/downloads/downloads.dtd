@@ -35,7 +35,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "п">
 <!ENTITY cmd.removeFromHistory.label      "Удалить из истории">
 <!ENTITY cmd.removeFromHistory.accesskey  "л">
-<!ENTITY cmd.clearList2.label             "Очистить панель Предпросмотра">
+<!ENTITY cmd.clearList2.label             "Очистить панель предпросмотра">
 <!ENTITY cmd.clearList2.accesskey         "ч">
 <!ENTITY cmd.clearDownloads.label         "Очистить загрузки">
 <!ENTITY cmd.clearDownloads.accesskey     "и">
