@@ -101,8 +101,6 @@ options-enable-chrome-tooltip =
     .title = Attivando questa opzione è possibile utilizzare diversi strumenti di sviluppo direttamente sul browser (da Strumenti > Sviluppo web > Cassetta degli attrezzi browser) ed effettuare il debug dei componenti aggiuntivi
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Attiva debug remoto
-options-enable-remote-tooltip =
-    .title = Attivando questa opzione è possibile utilizzare gli strumenti di sviluppo per effettuare il debug su istanze remote come Firefox OS
 options-enable-remote-tooltip2 =
     .title = Attivando questa opzione è possibile effettuare il debug remoto di questa istanza del browser
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
