@@ -158,3 +158,4 @@
 <!ENTITY PhotoURL.placeholder           "粘贴或者输入照片的网址">
 <!ENTITY UpdatePhoto.label              "下次更新日期之前">
 <!ENTITY UpdatePhoto.accesskey          "U">
+<!ENTITY PhotoDropTarget.label          "将新照片拖到此处">
