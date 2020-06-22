@@ -210,6 +210,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Προβολή όλων
     .accesskey = Π
+cfr-doorhanger-milestone-close-button = Κλείσιμο
+    .accesskey = Κ
 
 ## What’s New Panel Content for Firefox 76
 
