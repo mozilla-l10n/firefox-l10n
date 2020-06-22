@@ -204,6 +204,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vider toto
     .accesskey = t
+cfr-doorhanger-milestone-close-button = Clauder
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
