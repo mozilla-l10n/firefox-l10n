@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } Experiment
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiment
 pane-experimental-subtitle = Fortsätt med försiktighet
+pane-experimental-description = Att ändra avancerade konfigurationsinställningar kan påverka { -brand-short-name }s prestanda eller säkerhet.
 help-button-label = Support { -brand-short-name }
 addons-button-label = Utökningar & Teman
 focus-search =
