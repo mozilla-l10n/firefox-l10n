@@ -206,6 +206,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Xem tất cả
     .accesskey = S
+cfr-doorhanger-milestone-close-button = Đóng
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
