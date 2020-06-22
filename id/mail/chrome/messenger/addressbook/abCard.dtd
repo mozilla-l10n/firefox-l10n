@@ -107,9 +107,13 @@
 
 <!ENTITY Other.tab                      "Lainnya">
 <!ENTITY Other.accesskey                "h">
+<!ENTITY Custom1.label                  "Lain-lain 1:">
 <!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Lain-lain 2:">
 <!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Lain-lain 3:">
 <!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Lain-lain 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Catatan:">
 <!ENTITY Notes.accesskey                "N">
@@ -130,6 +134,7 @@
 <!ENTITY MSN2.accesskey                 "N">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "ID Jabber:">
 <!ENTITY XMPP.accesskey                 "J">
 <!ENTITY IRC.label                      "Panggilan IRC:">
 <!ENTITY IRC.accesskey                  "R">
