@@ -42,4 +42,6 @@
 <!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; puede facilitar a los antivirus que revisen el correo electrónico antes de ser guardados localmente.">
+<!ENTITY antiVirus.label      "Permitir a los antivirus poner en cuarentena mensajes individualmente">
 <!ENTITY antiVirus.accesskey  "A">

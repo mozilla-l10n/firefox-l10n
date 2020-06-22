@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Contacto de la libreta de direcciones…">
 <!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Abrir">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado...">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Guardar como">
@@ -287,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Buscar mensajes…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Búsqueda global…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Buscar direcciones…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
@@ -728,6 +732,8 @@
 <!ENTITY idColumn.label "Orden de recibido">
 <!ENTITY attachmentColumn.label "Adjuntos">
 
+<!ENTITY deleteColumn.label "Eliminar">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Seleccionar columnas para mostrar">
 <!ENTITY selectColumn.tooltip "Alternar seleccionar todos los mensajes">
@@ -751,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Ordenar por ubicación">
 <!ENTITY idColumn2.tooltip "Ordenar por orden de recepción">
 <!ENTITY attachmentColumn2.tooltip "Ordenar por adjuntos">
+
+<!ENTITY deleteColumn.tooltip "Eliminar un mensaje">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nuevo mensaje desde plantilla">
@@ -972,3 +980,6 @@
 <!ENTITY writeNewMessageDock.label      "Escribir nuevo mensaje">
 <!ENTITY openAddressBookDock.label      "Abrir libreta de direcciones">
 
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Regresar una página">
+<!ENTITY browseForwardButton.tooltip "Adelantar una página">

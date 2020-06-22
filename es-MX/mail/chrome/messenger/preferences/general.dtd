@@ -43,3 +43,5 @@
 <!ENTITY removeSearchEngine.label         "Eliminar">
 <!ENTITY removeSearchEngine.accesskey     "v">
 
+<!ENTITY minimizeToTray.label             "Cuando &brandShortName; está minimizado, muévelo a la bandeja">
+<!ENTITY minimizeToTray.accesskey         "m">
