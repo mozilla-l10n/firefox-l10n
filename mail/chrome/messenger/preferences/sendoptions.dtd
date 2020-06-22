@@ -15,7 +15,15 @@
 <!ENTITY sendHTML.accesskey           "S">
 <!ENTITY sendBoth.label               "Enviar el mensaje en los dos formatos (texto plano y HTML)">
 <!ENTITY sendBoth.accesskey           "e">
+<!ENTITY override.label               "Nota: Usa la libreta de direcciones para especificar los formatos preferidos de tus contactos.">
 
+<!ENTITY domaindesc.label             "Cuando envíes un correo a una dirección con uno de los dominios listados debajo, &brandShortName; enviará el mensaje automáticamente en el formato correcto.">
+<!ENTITY HTMLTab.label                "Dominios HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Dominios de texto plano">
+<!ENTITY PlainTextTab.accesskey       "P">
+<!ENTITY AddHtmlDomain.label          "Agregar…">
+<!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.label           "Agregar…">
 <!ENTITY AddPlainText.accesskey       "A">
 <!ENTITY DeleteHtmlDomain.label       "Eliminar">
