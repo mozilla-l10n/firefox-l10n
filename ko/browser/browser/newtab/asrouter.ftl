@@ -200,6 +200,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = 모두 보기
     .accesskey = S
+cfr-doorhanger-milestone-close-button = 닫기
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
