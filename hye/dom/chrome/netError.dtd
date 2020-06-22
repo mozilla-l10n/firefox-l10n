@@ -29,7 +29,14 @@
 <!ENTITY netOffline.title "Ցանցից դուրս աշխատակերպ">
 
 
+<!ENTITY unsafeContentType.title "Անապահով նիշի տեսակ">
+<!ENTITY unsafeContentType.longDesc "¶
+<ul>¶
+ · <li>Խնդրանաւք կապ հաստատէք այս կայքի սեփականատէրերի հետ խնդրի մասին տեղեակ պահելու համար: </li>¶
+</ul>">
 
+<!ENTITY netReset.title "Կապն ընդհատուեց">
+<!ENTITY netReset.longDesc "<p>Կապը հաստատելիս ցանցային կապակցումն ընդհատուեց: Խնդրանաւք կրկին փորձէք:</p>">
 
 
 
