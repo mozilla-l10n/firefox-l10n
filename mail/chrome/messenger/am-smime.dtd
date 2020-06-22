@@ -13,9 +13,14 @@
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Usar este certificado para encriptar &amp; desencriptar los mensajes enviados hacia ti:">
 
+<!ENTITY e2eTitle.label "Encriptado de punta a punta">
+<!ENTITY e2eIntro.description "Para enviar mensajes encriptados o firmados digitalmente, debes configurar una tecnología de encriptamiento, ya sea OpenPGP o S/MIME.">
 <!ENTITY e2eLearnMore.label "Saber más">
 
+<!ENTITY e2eEnc.description "Sin encriptamiento de punta a punta, el contenido de los mensajes se expone fácilmente a tu proveedor de correo electrónico y a la vigilancia masiva.">
+<!ENTITY e2eeReqWarning.description "Si necesitas encriptamiento, para enviar un mensaje debes tener la clave pública o el certificado de cada destinatario.">
 
+<!ENTITY e2eSigning.description "Una firma digital permite a los destinatarios verificar que el mensaje fue enviado por ti y que el contenido no cambió.">
 <!ENTITY e2eTechPref.description "Tecnología de cifrado preferida:">
 
 <!ENTITY doNotEncrypt.label "No habilitar el cifrado por defecto">
@@ -52,8 +57,11 @@
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Administrar certificados S/MIME">
 <!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "Dispositivos de seguridad S/MIME">
 <!ENTITY manageDevices2.accesskey "y">
 
+<!ENTITY technologySMIME.label "Preferir S/MIME">
+<!ENTITY technologyOpenPGP.label "Preferir OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
 <!ENTITY manageKeys.label "Administrar llaves OpenPGP">
@@ -64,3 +72,6 @@
 <!ENTITY certPicker.info  "Certificado:">
 <!ENTITY certPicker.detailsLabel "Detalles del certificado seleccionado:">
 
+<!ENTITY openpgpKey.message "Clave personal para encriptación y firma digital:">
+<!ENTITY openpgpKey.button "Establecer clave personal…">
+<!ENTITY openpgpKey.accesskey "o">
