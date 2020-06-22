@@ -217,6 +217,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Wšykne pokazaś
     .accesskey = k
+cfr-doorhanger-milestone-close-button = Zacyniś
+    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
