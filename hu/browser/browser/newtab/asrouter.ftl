@@ -209,6 +209,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Összes megjelenítése
     .accesskey = m
+cfr-doorhanger-milestone-close-button = Bezárás
+    .accesskey = B
 
 ## What’s New Panel Content for Firefox 76
 
