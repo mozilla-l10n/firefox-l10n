@@ -158,3 +158,4 @@
 <!ENTITY PhotoURL.placeholder           "Klistra in eller skriv in webbadressen till en bild">
 <!ENTITY UpdatePhoto.label              "Uppdatera">
 <!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY PhotoDropTarget.label          "Dra en ny bild hit">
