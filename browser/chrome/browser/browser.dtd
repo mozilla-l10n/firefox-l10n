@@ -338,7 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "θ">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Εργαλεία προγραμματιστή">
+<!ENTITY webDeveloperMenu.label       "Προγραμματισμός ιστού">
 <!ENTITY webDeveloperMenu.accesskey   "Π">
 
 <!ENTITY inspectContextMenu.label     "Επιθεώρηση στοιχείου">
