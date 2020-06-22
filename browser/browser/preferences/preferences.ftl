@@ -50,6 +50,7 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-subtitle = Agissètz amb prudéncia
 help-button-label = Assisténcia de { -brand-short-name }
 addons-button-label = Extensions e tèmas
 focus-search =
