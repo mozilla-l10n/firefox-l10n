@@ -211,6 +211,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Alle anzeigen
     .accesskey = A
+cfr-doorhanger-milestone-close-button = Schließen
+    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
