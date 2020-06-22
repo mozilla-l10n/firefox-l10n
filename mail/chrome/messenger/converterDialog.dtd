@@ -4,5 +4,6 @@
 
 <!ENTITY converterDialog.continueButton "Lanjutkan">
 <!ENTITY converterDialog.cancelButton "Batal">
+<!ENTITY converterDialog.finishButton "Selesai">
 <!ENTITY converterDialog.error "Konversi gagal.">
 
