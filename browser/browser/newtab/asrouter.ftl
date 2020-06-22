@@ -184,6 +184,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = צפייה בהכל
     .accesskey = צ
+cfr-doorhanger-milestone-close-button = סגירה
+    .accesskey = ס
 
 ## What’s New Panel Content for Firefox 76
 
