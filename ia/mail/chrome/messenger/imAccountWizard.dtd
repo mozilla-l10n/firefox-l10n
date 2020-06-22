@@ -25,3 +25,4 @@
 <!ENTITY accountProxySettings.change.accessKey "C">
 
 <!ENTITY accountSummaryTitle.label   "Summario">
+<!ENTITY accountSummary.connectNow.label "Connecter se ora a iste conto.">
