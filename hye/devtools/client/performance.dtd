@@ -96,6 +96,7 @@
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 <!ENTITY performanceUI.flattenTreeRecursion             "Հարթեցնել ծառի կրկնարկումը">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Ուղղել կրկնարկումը, երբ ստուգուում են գործառոյթները։">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory

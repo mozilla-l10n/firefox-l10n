@@ -94,23 +94,28 @@
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 <!ENTITY options.enableServiceWorkersHTTP.label     "Միացնել Սպասարկիչների աշխատանքը HTTP-ի նկատմամբ (երբ գործիքատուփը բաց է)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Այս ընտրանքը կը գործունացնի service workers֊ին HTTP-ի նկատմամբ այն բոլոր ներդիրների համար, որոնք ունեն բաց գործիքատուփ։">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "Սկզբնադիր մշակողի գործիքներ">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+<!ENTITY options.selectAdditionalTools.label  "Մշակողի գործիքները տեղակայուած յաւելումների կողմից">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
+<!ENTITY options.selectEnabledToolboxButtons.label     "Հասանելի գործիքատուփի կոճակներ">
 
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+<!ENTITY options.toolNotSupported.label  "* Չի աջակցուում ընթացիկ գործիքներում">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
@@ -181,6 +186,7 @@
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Կռահել բացթողումները ըստ աղբիւրի բովանդակութեան">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Ինքնաշխատ փակագծեր">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Ինքնաշխատ տեղադրել փակման փակագծերը">
+<!ENTITY options.sourceeditor.expandtab.label           "Ծածկոյթ՝ աւգտագործելով բացատ">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Ներդիրի նիշքի փոխարէն աւգտագործել բացատներ">
 <!ENTITY options.sourceeditor.tabsize.label             "Ներդիրի չափը">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
