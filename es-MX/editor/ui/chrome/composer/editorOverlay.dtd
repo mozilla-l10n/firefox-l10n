@@ -335,6 +335,7 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar o eliminar lista de viñeta">
 <!ENTITY numbers.label "Números">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar o eliminar lista enumerada">
+<!ENTITY outdent.label "Sacar viñeta">
 <!ENTITY outdentToolbarCmd.tooltip "Sangría (mover a la izquierda)">
 <!ENTITY indent.label "Agrear sangría">
 <!ENTITY indentToolbarCmd.tooltip "Sangría (mover a la derecha)">

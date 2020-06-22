@@ -16,5 +16,6 @@
 <!ENTITY showTitlebar.label       "Mostrar barra de título">
 <!ENTITY extraDragSpace.label     "Agregar espacio de arrastre">
 <!ENTITY showTitlebar2.label      "Barra de título">
+<!ENTITY extraDragSpace2.label    "Espacio de arrastre">
 <!ENTITY saveChanges.label        "Hecho">
 <!ENTITY undoChanges.label        "Deshacer cambios">
