@@ -203,6 +203,8 @@ cfr-doorhanger-cryptominers-description = Le respect de votre vie privée est im
 cfr-doorhanger-milestone-heading = { -brand-short-name } a bloqué plus de <b>{ $blockedCount }</b> traqueurs depuis { $date }.
 cfr-doorhanger-milestone-ok-button = Tout afficher
     .accesskey = T
+cfr-doorhanger-milestone-close-button = Fermer
+    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 
