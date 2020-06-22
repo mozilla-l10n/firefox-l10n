@@ -499,7 +499,6 @@ home-prefs-topsites-description = I siti più visitati
 
 home-prefs-recommended-by-header =
     .label = Consigliati da { $provider }
-home-prefs-recommended-by-description = Contenuti interessanti da tutto il Web, personalizzati per te.
 home-prefs-recommended-by-description-update = Contenuti eccezionali da tutto il Web, a cura di { $provider }
 ##
 
@@ -562,7 +561,6 @@ search-show-suggestions-above-history-option =
     .label = Visualizza suggerimenti di ricerca prima della cronologia nei risultati della barra degli indirizzi
 search-show-suggestions-private-windows =
     .label = Visualizza suggerimenti di ricerca nelle finestre anonime
-suggestions-addressbar-settings = Modifica le impostazioni dei suggerimenti per cronologia di navigazione, segnalibri e schede
 suggestions-addressbar-settings-generic = Modifica le impostazioni per altri tipi di suggerimenti nella barra degli indirizzi
 search-suggestions-cant-show = I suggerimenti di ricerca non verranno visualizzati tra i risultati della barra degli indirizzi in quanto { -brand-short-name } è configurato per non salvare la cronologia.
 search-one-click-header = Motori di ricerca in un clic

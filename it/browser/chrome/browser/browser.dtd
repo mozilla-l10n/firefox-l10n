@@ -169,7 +169,6 @@
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip "Gestisci la traduzione della pagina">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip "Gestisci l’utilizzo del software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip "Apri pannello MIDI">
-<!ENTITY urlbar.permissionsGranted.tooltip "Sono stati concessi permessi aggiuntivi a questo sito web.">
 <!ENTITY urlbar.cameraBlocked.tooltip "La fotocamera è bloccata per questo sito web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip "Il microfono è bloccato per questo sito web.">
 <!ENTITY urlbar.screenBlocked.tooltip "La condivisione dello schermo è bloccata per questo sito web.">
