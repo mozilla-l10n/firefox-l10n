@@ -47,6 +47,7 @@
 
 <!ENTITY folderProps.name.label                  "Nama:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Warna Ikon:">
 <!ENTITY folderProps.color.accesskey             "I">
 <!ENTITY folderProps.location.label              "Lokasi:">
 <!ENTITY folderProps.location.accesskey          "L">
@@ -55,6 +56,7 @@
 <!ENTITY privileges.button.label                 "Hak akses…">
 <!ENTITY privileges.button.accesskey             "H">
 <!ENTITY permissionsDesc.label                   "Anda mempunyai hak akses berikut:">
+<!ENTITY folderOtherUsers.label                  "Orang lain dengan akses ke folder ini:">
 <!ENTITY folderType.label                        "Jenis Folder:">
 
 <!ENTITY folderQuotaTab.label                    "Kuota">
