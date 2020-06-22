@@ -158,3 +158,4 @@
 <!ENTITY PhotoURL.placeholder           "Lim eller skriv inn nettadressen til et foto">
 <!ENTITY UpdatePhoto.label              "Oppdater">
 <!ENTITY UpdatePhoto.accesskey          "O">
+<!ENTITY PhotoDropTarget.label          "Dra og slipp nytt bilde her">
