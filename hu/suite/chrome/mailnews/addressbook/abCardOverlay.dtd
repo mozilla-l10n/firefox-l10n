@@ -158,3 +158,4 @@
 <!ENTITY PhotoURL.placeholder           "Illessze be vagy írja be a fotó internet-címét">
 <!ENTITY UpdatePhoto.label              "Frissítés">
 <!ENTITY UpdatePhoto.accesskey          "F">
+<!ENTITY PhotoDropTarget.label          "Húzzon új fényképet ide">
