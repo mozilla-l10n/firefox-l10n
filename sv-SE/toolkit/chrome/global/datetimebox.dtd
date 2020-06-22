@@ -20,7 +20,7 @@
 
 <!-- Placeholders for input type=date -->
 
-<!ENTITY date.year.placeholder "yyyy">
+<!ENTITY date.year.placeholder "åååå">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
 
