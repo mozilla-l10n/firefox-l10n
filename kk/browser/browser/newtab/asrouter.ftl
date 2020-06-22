@@ -206,6 +206,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Барлығын қарау
     .accesskey = р
+cfr-doorhanger-milestone-close-button = Жабу
+    .accesskey = Ж
 
 ## What’s New Panel Content for Firefox 76
 
