@@ -53,9 +53,14 @@
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Kelola Sertifikat S/MIME">
 <!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "Perangkat Keamanan S/MIME">
 <!ENTITY manageDevices2.accesskey "y">
 
+<!ENTITY technologySMIME.label "Memilih S/MIME">
+<!ENTITY technologyOpenPGP.label "Memilih OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Kelola Kunci OpenPGP">
 <!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
@@ -63,4 +68,6 @@
 <!ENTITY certPicker.info  "Sertifikat:">
 <!ENTITY certPicker.detailsLabel "Detail sertifikat yang dipilih:">
 
+<!ENTITY openpgpKey.message "Kunci pribadi untuk enkripsi dan penandatanganan digital:">
+<!ENTITY openpgpKey.button "Tetapkan Kunci Pribadi ...">
 <!ENTITY openpgpKey.accesskey "o">
