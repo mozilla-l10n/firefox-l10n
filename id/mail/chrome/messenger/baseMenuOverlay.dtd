@@ -15,10 +15,15 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "m">
 <!ENTITY helpSafeMode.label     "Mulai Ulang dengan Pengaya Dinonaktifkan…">
 <!ENTITY helpSafeMode.accesskey "n">
+<!ENTITY helpSafeMode.stop.label     "Mulai Ulang dengan Pengaya Diaktifkan">
 <!ENTITY helpSafeMode.stop.accesskey "R">
+<!ENTITY productHelp.label "Bantuan &brandShorterName;">
 <!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
+<!ENTITY helpKeyboardShortcuts.label "Pintasan Papan Ketik">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpFeedbackPage.label "Kirim Masukan...">
@@ -27,6 +32,8 @@
 <!ENTITY helpShowTour2.label "Tur &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey "o">
 
+<!ENTITY helpGetInvolvedPage.label "Mari Terlibat">
 <!ENTITY helpGetInvolvedPage.accesskey "I">
 
+<!ENTITY helpDonationsPage.label "Berdonasi">
 <!ENTITY helpDonationsPage.accesskey "M">
