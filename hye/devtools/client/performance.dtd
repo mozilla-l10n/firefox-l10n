@@ -58,6 +58,7 @@
 <!ENTITY performanceUI.table.function                 "Գործառոյթ">
 <!ENTITY performanceUI.table.function.tooltip         "Նմուշառուած գործառոյթի անուանումը եւ աղբիւրը:">
 <!ENTITY performanceUI.table.totalAlloc               "Ընդհանուր նմուշի բաշխումներ">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Այս տիրոյթում եւ կանչերի մէջ գրանցուած բաշխումների քանակը։">
 <!ENTITY performanceUI.table.selfAlloc                "Ինքնանմուշառուած յատկացումներ">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "Այս վայրում նմուշառուած առարկաների յատկացումների քանակը․">
 
@@ -72,22 +73,29 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "Հակադարձ զանգի ծառ">
+<!ENTITY performanceUI.invertTree.tooltiptext "Կանչի ծառի շրջադարձը ցոյց է տալիս յատկագրուած կանչի ուղիները՝ սկսած ամենաերիտասարդ շրջանակներից եւ ընդլայնուում է դէպի աւելի հին շրջանակներ։">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "Փոխատեղել Flame աղիւսակը">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Flame աղիւսակի շրջադարձը ցոյց է տալիս յատկագրուած կանչի ուղիները՝ սկսած ամենաերիտասարդ շրջանակներից եւ ընդլայնուում է դէպի աւելի հին շրջանակներ։">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+<!ENTITY performanceUI.showPlatformData             "Ցուցադրել Gecko հարթակի տուեալները">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Հարթակի տուեալների ցուցադրումը թոյլատրում է JavaScript Profiler֊ի զեկոյցներին ներառել Gecko հարթակի խորհրդանիշներ։">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
+<!ENTITY performanceUI.showJITOptimizations             "Ցուցադրել JIT լաւարկումները">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Ցուցադրել JIT լաւարկման տուեալները, որոնք գրանցուած են JavaScript֊ի իւրաքանչիւր շրջանակում․">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
+<!ENTITY performanceUI.flattenTreeRecursion             "Հարթեցնել ծառի կրկնարկումը">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
