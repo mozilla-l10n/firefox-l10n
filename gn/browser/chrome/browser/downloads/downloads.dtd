@@ -28,7 +28,7 @@
 <!ENTITY cmd.showMac.label                "Ehechauka Finder-pe">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.showDownloads.label          "Ñemboguejykuéra Ñongatuha Hechauka">
-<!ENTITY cmd.retry.label                  "Eñeha'ã jey">
+<!ENTITY cmd.retry.label                  "Mboguevi">
 <!ENTITY cmd.goToDownloadPage.label       "Kuatiarogue Omboguejývape Jeho ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "J">
 <!ENTITY cmd.copyDownloadLink.label       "Ñemboguejy rape mbohasarã">
@@ -77,7 +77,7 @@
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
-<!ENTITY retryDownload.label              "Eha'ãjey ñemboguejy">
+<!ENTITY retryDownload.label              "Eha’ãjey ñemboguejy">
 
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
