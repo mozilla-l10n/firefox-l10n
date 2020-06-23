@@ -450,7 +450,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Ximojri'ïl">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Tatz'ib'aj ab'i' pa &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Tokisäx pa &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Kenuk'samajïx taq okisaxel…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Kenuk'samajïx Okisab'äl…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ketz'et ximïl taq ruwi' pa ajxikin kajtz'ik">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Tewüx Ximïl taq Ruwi' pan Ajxikin Kajtz'ik">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Tokisäx Jun Chik Okisaxel">
