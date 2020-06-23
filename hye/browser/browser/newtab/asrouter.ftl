@@ -7,19 +7,19 @@
 
 cfr-doorhanger-extension-heading = Երաշխաւորուած ընդլայնում
 cfr-doorhanger-feature-heading = Առաջարկուող յատկութիւն
-cfr-doorhanger-pintab-heading = Փորձեք սա. Ամրացնել ներդիրը
+cfr-doorhanger-pintab-heading = Փորձէք սա. ամրացնել ներդիրը
 
 ##
 
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = Ինչու եմ ես սա տեսնում
+    .tooltiptext = Ինչո՞ւ եմ ես սա տեսնում
 cfr-doorhanger-extension-cancel-button = Ոչ հիմա
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Աւելացնել հիմա
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Ամրացնել այս ներդիրը
     .accesskey = P
-cfr-doorhanger-extension-manage-settings-button = Կառաւարել երաշխաւորուող կարգաւորումները
+cfr-doorhanger-extension-manage-settings-button = Կառավարել երաշխաւորուող կարգաւորումները
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = Չցուցադրել ինձ այս երաշխաւորութիւնները
     .accesskey = S
