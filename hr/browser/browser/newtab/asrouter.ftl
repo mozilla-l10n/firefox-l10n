@@ -214,6 +214,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vidi sve
     .accesskey = s
+cfr-doorhanger-milestone-close-button = Zatvori
+    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
@@ -245,3 +247,5 @@ cfr-whatsnew-protections-icon-alt = Ikona štita
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Bolje PDF iskustvo
+cfr-whatsnew-better-pdf-body = PDF dokumenti se sada otvaraju izravno u { -brand-short-name }, što olakšava rad.
