@@ -577,7 +577,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.label     "Tiya' achi'el ruk'amon wi pe chi kanob'äl">
 <!ENTITY searchSetAsDefault.accesskey "r">
 
-<!ENTITY openLinkCmdInTab.label       "Tijaq ximonel pa jun k'ak'a' ruwi'">
+<!ENTITY openLinkCmdInTab.label       "Tijaq Ximonel pa K'ak'a' Ruwi'">
 
 <!ENTITY openLinkCmdInTab.accesskey   "r">
 <!ENTITY openLinkCmd.label            "Tijaq ximonel tzij pa jun k'ak'a' Tzuwäch">

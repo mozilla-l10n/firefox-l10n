@@ -4,8 +4,8 @@
 
 about-private-browsing-learn-more = Tetamäx ch'aqa' chik chi rij <a data-l10n-name="learn-more">Ichinan okem pa k'amaya'l</a>.
 about-private-browsing-info-visited = taq ruxaq etz'eton
-privatebrowsingpage-open-private-window-label = Tijaq jun ichinan tzuwäch
-    .accesskey = i
+privatebrowsingpage-open-private-window-label = Tijaq jun Ichinan Tzuwäch
+    .accesskey = I
 about-private-browsing-info-notsaved = Toq yatok pa jun ichinan tzuwäch, { -brand-short-name } <strong>man tuyäk</strong>:
 about-private-browsing-search-placeholder = Tikanöx pan Ajk'amaya'l
 about-private-browsing-info-bookmarks = taq yaketal

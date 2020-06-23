@@ -48,9 +48,9 @@
 <!ENTITY cmd.open.accesskey              "T">
 <!ENTITY cmd.open_window.label           "Tijaq pa jun k'ak'a' tzuwach">
 <!ENTITY cmd.open_window.accesskey       "k">
-<!ENTITY cmd.open_private_window.label     "Tijaq pa jun k'ak'a' ichinan tzuwäch">
+<!ENTITY cmd.open_private_window.label     "Tijaq pa jun K'ak'a' Ichinan Tzuwäch">
 <!ENTITY cmd.open_private_window.accesskey "i">
-<!ENTITY cmd.open_tab.label              "Tijaq jun k'ak'a' ruwi'">
+<!ENTITY cmd.open_tab.label              "Tijaq pa jun K'ak'a' Ruwi'">
 <!ENTITY cmd.open_tab.accesskey          "k">
 <!ENTITY cmd.open_all_in_tabs.label      "Tiqaj Ronojel rik'in taq Ruwi'">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "T">

@@ -22,6 +22,6 @@ styleeditor-editor-textbox =
 styleeditor-no-stylesheet = Re ruxaq re' man k'o ta rub'anikil ruxaq.
 styleeditor-no-stylesheet-tip = ¿Rik'in jub'a' narayib'ej<a data-l10n-name="append-new-stylesheet">titz'aqatisäx jun k'ak'a' taq rub'anikil ruxaq</a>?
 styleeditor-open-link-new-tab =
-    .label = Tijaq ri ximonel pa jun k'ak'a' ruwi'
+    .label = Tijaq Ximonel pa K'ak'a' Ruwi'
 styleeditor-copy-url =
     .label = Tiwachib'ëx URL
