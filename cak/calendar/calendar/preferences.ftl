@@ -84,4 +84,4 @@ reminder-browse-sound-label =
 alarm-on-label =
     .label = Titzij
 alarm-off-label =
-    .label = Tichup
+    .label = Chupül
