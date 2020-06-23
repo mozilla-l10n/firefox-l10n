@@ -206,6 +206,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Hechapa
     .accesskey = H
+cfr-doorhanger-milestone-close-button = Mboty
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
