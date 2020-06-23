@@ -19,3 +19,4 @@ calendar-ics-file-dialog-message-2 = Importar ab file:
 calendar-ics-file-dialog-calendar-menu-label = Importar in le agenda:
 calendar-ics-file-import-success = Importate con successo
 calendar-ics-file-import-error = Un error occurreva e le importation falleva.
+calendar-ics-file-dialog-no-calendars = Il non ha alcun agenda susceptibile de importar eventos o activitates.
