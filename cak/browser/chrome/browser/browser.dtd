@@ -48,7 +48,7 @@ same accesskey but will never be visible at the same time. -->
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Kekanöx taq Ruwi'">
 
-<!ENTITY tabCmd.label "K'ak'a' ruwi'">
+<!ENTITY tabCmd.label "K'ak'a' Ruwi'">
 <!ENTITY tabCmd.accesskey "r">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only

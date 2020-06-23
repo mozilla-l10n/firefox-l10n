@@ -41,7 +41,7 @@ certificate-viewer-method = B'eyal
 certificate-viewer-modulus = Tanaj
 certificate-viewer-name = B'i'aj
 certificate-viewer-not-after = Man Chi Rij Ta
-certificate-viewer-not-before = Man Chuwa ta
+certificate-viewer-not-before = Man Chuwa Ta
 certificate-viewer-organization = Moloj
 certificate-viewer-organizational-unit = Ruq'a' Moloj
 certificate-viewer-policy = Na'ojil
@@ -81,8 +81,7 @@ certificate-viewer-authority-info-aia = Retamab'al Taqonel (AIA)
 certificate-viewer-certificate-policies = Taq Kina'ojil Ruwujil B'i'aj
 certificate-viewer-embedded-scts = Ronojel SCTs
 certificate-viewer-crl-endpoints = CRL K'isib'äl k'ojlemal
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Tiqasäx
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Re k'amal re' xya' retal achi'el chi k'ayew rik'in, ri nuq'ajuj chi ri ruwinaq k'o chi nikixutuj ri wujil we man niq'ax ta pa kiwi'.

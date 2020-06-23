@@ -5,7 +5,7 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
-newtab-page-title = K'ak'a' ruwi'
+newtab-page-title = K'ak'a' Ruwi'
 newtab-settings-button =
     .title = Tawichinaj ri ruxaq richin K'ak'a' Ruwi'
 
