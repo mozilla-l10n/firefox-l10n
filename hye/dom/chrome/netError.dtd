@@ -16,6 +16,7 @@
 
 <!ENTITY fileNotFound.title "Նիշը չի գտնուել">
 
+<!ENTITY fileAccessDenied.title "Հասանելութիւնը նիշքին մերժուած է">
 
 <!ENTITY generic.title "Անհնար է Հարցումն Աւարտել">
 <!ENTITY generic.longDesc "<p>Այս խնդրի կամ սխալի մասին յաւելեալ տեղեկութիւններ առայժմ առկայ չեն:</p>">
@@ -24,9 +25,12 @@
 <!ENTITY malformedURI.longDesc "<p>Մուտքագրուած հասցէն վաւեր ձեւաչափ չունի: Խնդրում ենք ստուգել հասցէավահանակի առկայ սխալները եւ կրկին փորձել:</p>">
 
 <!ENTITY netInterrupt.title "Տուեալների Փոխանցումն Ընդհատուեց">
+<!ENTITY netInterrupt.longDesc "<p>Զննարկիչը յաջողութեամբ կապուել էր, սակայն տուեալների փոխանցման ընթացքում կապը կտրուեց: Նորից փորձէք։</p><ul><li> Եթե  չէք կարողանում այլ կաքեր եւս դիտել, ստուգէք ցանցային կապը։ </li><li>Կրկի՞ն խնդիրների եք հանդիպում: Աւգնութեան համար դիմէք ցանցավարին  կամ Ինտերնետ մատակարարին:</li></ul>">
 
+<!ENTITY notCached.title "Փաստաթուղթը ժամկէտանց է։">
+<!ENTITY notCached.longDesc "<p>Պահանջուող փաստաթուղթը հասանելի չէ դիտարկիչի պահոցում:</p><ul><li>Անվտանգութեան նկատառումներով դիտարկիչը կրկնակի հարցում չի անում կարեւոր փաստաթղթերին:</li><li>Սեղմէք Կրկին փորձել՝ վերահայցելու փաստաթութը կայքից:</li></ul>">
 
-<!ENTITY netOffline.title "Ցանցից դուրս աշխատակերպ">
+<!ENTITY netOffline.title "Անցանց աշխատակերպ">
 
 
 <!ENTITY unsafeContentType.title "Անապահով նիշի տեսակ">
@@ -60,7 +64,10 @@
 
 
 
+<!ENTITY inadequateSecurityError.title "Կապակցումն անվտանգ չէ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY blockedByPolicy.title "Արգելափակուած էջ">
 
+<!ENTITY networkProtocolError.title "Ցանցի հաղորդակարգի սխալ">
