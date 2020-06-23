@@ -6,10 +6,16 @@ head-title = Մշակողի գործիքների մասին
 enable-title = Միացնել Firefox-ի հռչակագրի գործիքները
 enable-inspect-element-title = Միացնել Firefox-ի հռչակագրի գործիքները ստուգուածն աւգտագործելու համար
 enable-inspect-element-message = Ուսումնասիրել եւ խմբագրել HTML֊ն ու CSS֊ը մշակողի գործիքների հսկիչով։
+enable-enable-button = Միացնել Մշակողի Գործիքները
+enable-close-button = Փակել այս ներդիրը
+welcome-title = Բարի գալուստ Firefox-ի Մշակողի Գործիքներ։
+newsletter-title = Mozilla-ի Մշակողի Լրագիր
+newsletter-message = Ստացեք մշակողից նորութիւններ, խորհուրդներ եւ աղբիւրներ, որոնք կուղարկուեն ուղիղ Ձեր փոստին։
 newsletter-email-placeholder =
     .placeholder = Ել֊փոստ
 newsletter-subscribe-button = Բաժանորդագրուել
 newsletter-thanks-title = Շնորհակալութիւն
+footer-learn-more-link = Իմանալ աւելին
 features-learn-more = Իմանալ աւելին
 features-inspector-title = Հսկիչ
 features-inspector-desc = Ստուգել եւ բարեաւել այլագիրը կատարեալ կէտայնութեամբ շարակարգեր կառուցելու համար: <a data-l10n-name="learn-more">{ features-learn-more }</a>
