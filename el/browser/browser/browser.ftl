@@ -143,7 +143,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Προσθήκη στους σελιδοδείκτες ({ $shortcut })
+    .tooltiptext = Δημιουργία σελιδοδείκτη για αυτή τη σελίδα ({ $shortcut })
 
 ## Page Action Context Menu
 
