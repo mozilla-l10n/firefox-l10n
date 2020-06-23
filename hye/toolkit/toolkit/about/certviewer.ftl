@@ -16,12 +16,17 @@ certificate-viewer-certificate-authority = Հաւաստագրման մարմին
 certificate-viewer-cipher-suite = Ծածկագրի հաւաքակազմ
 certificate-viewer-common-name = Սովորական անուն
 certificate-viewer-email-address = էլ․փոստի հասցեն
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = { $firstCertName } ֊ի համար վկայագիր
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Երկրի գրանցում
 certificate-viewer-country = Երկիր
 certificate-viewer-curve = Կոր
 certificate-viewer-distribution-point = Բաշխման կէտ
 certificate-viewer-dns-name = DNS Անուն
+certificate-viewer-ip-address = IP հասցէ
+certificate-viewer-other-name = Այլ անուն
 certificate-viewer-exponent = Ցուցիչ
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Ստեղնի փոխանակման խումբ
@@ -44,6 +49,7 @@ certificate-viewer-purposes = Նպատակներ
 certificate-viewer-qualifier = Որակաւորիչ
 certificate-viewer-qualifiers = Որակաւորիչներ
 certificate-viewer-required = Պարտադիր
+certificate-viewer-unsupported = &lt;չաջակցուած&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Նահանգի/գավառի գրանցում
 certificate-viewer-state-province = Նահանգ/գավառ
@@ -73,8 +79,7 @@ certificate-viewer-authority-info-aia = Հեղինակային տեղեկատւ�
 certificate-viewer-certificate-policies = Հաւաստագրի դրոյթները
 certificate-viewer-embedded-scts = Ներկառուցուած SCTs
 certificate-viewer-crl-endpoints = CRL֊ի վերջնակէտերը
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Ներբեռնել
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -93,6 +98,13 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = Արտածել
+    .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Ձեր վկայագրերը
+certificate-viewer-tab-people = Մարդիկ
+certificate-viewer-tab-servers = Սպասարկիչներ
+certificate-viewer-tab-ca = Վկայագրման կենտրոններ
+certificate-viewer-tab-unkonwn = Անյայտ
