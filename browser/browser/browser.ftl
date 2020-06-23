@@ -266,6 +266,12 @@ popup-select-microphone =
     .value = Mikrofon za dijeljenje:
     .accesskey = M
 popup-all-windows-shared = Svi vidljivi prozori na tvom ekranu će se dijeliti.
+popup-screen-sharing-not-now =
+    .label = Ne sada
+    .accesskey = s
+popup-screen-sharing-never =
+    .label = Ne dozvoli nikada
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 

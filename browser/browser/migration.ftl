@@ -92,6 +92,34 @@ imported-edge-reading-list = Popis čitanja (sa Edgea)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Kolačići
+browser-data-cookies-label =
+    .value = Kolačići
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Povijest pregledavanja i zabilješke
+           *[other] Povijest pregledavanja
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Povijest pregledavanja i zabilješke
+           *[other] Povijest pregledavanja
+        }
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Spremljene prijave i lozinke
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Spremljene prijave i lozinke
+browser-data-otherdata-checkbox =
+    .label = Ostali podaci
+browser-data-otherdata-label =
+    .label = Ostali podaci
 browser-data-session-checkbox =
     .label = Prozori i kartice
 browser-data-session-label =
