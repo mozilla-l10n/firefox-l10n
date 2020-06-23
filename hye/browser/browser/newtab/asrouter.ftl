@@ -231,6 +231,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Նկար-նկարում պատկերակ
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Հայեացք պաշտպանական համակարգին
+cfr-whatsnew-protections-body = Պաշտպանական վահանակում կան տուեալների արտահոսքի եւ գաղտնաբառերի կառավարման մասին գրանցումներ։ Կարող էք հետեւել արտահոսքերի քանակին, եւ ստուգել, արդեաւք որեւէ գաղտնաբառ վտանգուել է տուեալների արտահոսքի պատճառով։
+cfr-whatsnew-protections-cta-link = Դիտել Պաշտպանական վահանակը
+cfr-whatsnew-protections-icon-alt = Վահան
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = PDF֊ի յաջողուած աւգտագործում
