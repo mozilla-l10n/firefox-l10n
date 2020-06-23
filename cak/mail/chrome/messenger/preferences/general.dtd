@@ -5,7 +5,7 @@
 <!ENTITY messengerStartPage.label         "&brandShortName; Rutikirib'al Ruxaq">
 <!ENTITY enableStartPage.label            "Toq nitikirisäx &brandShortName; tik'ut ri Tikirib'äl Ruxaq pa ruk'ojlemal tzijol">
 <!ENTITY enableStartPage.accesskey        "T">
-<!ENTITY location.label                   "K'ojlib'äl:">
+<!ENTITY location.label                   "Ochochib'al:">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Titzolïx ri K'o wi">
 <!ENTITY useDefault.accesskey             "T">
