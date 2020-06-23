@@ -50,7 +50,7 @@
 <!ENTITY folderProps.name.label                  "B'i'aj:">
 <!ENTITY folderProps.name.accesskey              "B">
 <!ENTITY folderProps.location.label              "Ochochib'al:">
-<!ENTITY folderProps.location.accesskey          "K">
+<!ENTITY folderProps.location.accesskey          "O">
 
 <!ENTITY folderSharingTab.label                  "Tajin nikomonïx">
 <!ENTITY privileges.button.label                 "Ya'on kiq'ij…">
