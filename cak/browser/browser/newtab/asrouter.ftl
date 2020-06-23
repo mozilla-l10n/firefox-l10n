@@ -211,6 +211,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Titzet Ronojel
     .accesskey = t
+cfr-doorhanger-milestone-close-button = Titz'apïx
+    .accesskey = t
 
 ## What’s New Panel Content for Firefox 76
 
