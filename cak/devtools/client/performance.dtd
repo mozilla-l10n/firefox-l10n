@@ -31,7 +31,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
-<!ENTITY performanceUI.loadingNotice "Tajin nusamajib'ej…">
+<!ENTITY performanceUI.loadingNotice "Nisamäj…">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->

@@ -361,7 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "t">
 
 <!ENTITY editMenu.label         "Nuk'b'äl">
-<!ENTITY editMenu.accesskey       "e">
+<!ENTITY editMenu.accesskey       "N">
 <!ENTITY undoCmd.label            "Titzolïx">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "t">
@@ -387,7 +387,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "c">
 <!ENTITY preferencesCmdUnix.label       "Taq Ajowanel">
 <!ENTITY preferencesCmdUnix.accesskey     "o">
-<!ENTITY logins.label                           "Kitikirisaxik molojri'ïl chuqa' Ewan taq Tzij">
+<!ENTITY logins.label                           "Kitikirisaxik Molojri'ïl chuqa' Ewan taq Tzij">
 
 <!ENTITY clearRecentHistory.label               "Tiyuj K'ak'a' Natab'äl…">
 
@@ -679,7 +679,7 @@ context menu items are mutually exclusive. -->
 <!ENTITY copyImageCmd.label           "Tiwachib'ëx Rub'ey Wachib'äl">
 <!ENTITY copyImageCmd.accesskey       "i">
 <!ENTITY copyImageContentsCmd.label   "Tiwachib'ëx Wachib'äl">
-<!ENTITY copyImageContentsCmd.accesskey  "R">
+<!ENTITY copyImageContentsCmd.accesskey  "w">
 <!ENTITY copyVideoURLCmd.label        "Ruwachib'exik rub'ey silowachib'äl">
 <!ENTITY copyVideoURLCmd.accesskey    "w">
 <!ENTITY copyAudioURLCmd.label        "Ruwachib'exik rub'ey q'ojom">

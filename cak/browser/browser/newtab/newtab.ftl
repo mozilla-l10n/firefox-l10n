@@ -183,7 +183,7 @@ newtab-empty-section-topstories = Xaq'i'. Katzolin chik pe richin ye'ak'ül ri u
 newtab-discovery-empty-section-topstories-header = ¡Awojqan ronojel!
 newtab-discovery-empty-section-topstories-content = K'a xkatzolin pe richin ch'aqa' chik taq b'anob'äl.
 newtab-discovery-empty-section-topstories-try-again-button = Titojtob'ëx Chik
-newtab-discovery-empty-section-topstories-loading = Nisamajib'ëx...
+newtab-discovery-empty-section-topstories-loading = Nisamäj…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡Uy! B'ama nisamajïx re peraj re', jub'a' chik xrajo'.
 
