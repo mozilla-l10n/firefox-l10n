@@ -20,9 +20,9 @@ protections-popup-footer-protection-label-standard = Ստանդարտ
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = Հետապնդումից ընդլայնված պաշտպանության մասին լրացուցիչ տեղեկություններ
-protections-panel-etp-on-header = Ընդլայնված պաշտպանությունը հետապնդումից ՄԻԱՑՎԱԾ է այս կայքում
-protections-panel-etp-off-header = Ընդլայնված պաշտպանությունը հետապնդումից ԱՆՋԱՏՎԱԾ է այս կայքում
+    .aria-label = Հետագծումից ընդլայնված պաշտպանության մասին լրացուցիչ տեղեկություններ
+protections-panel-etp-on-header = Ընդլայնված պաշտպանությունը հետագծումից ՄԻԱՑՎԱԾ է այս կայքում
+protections-panel-etp-off-header = Ընդլայնված պաշտպանությունը հետագծումից ԱՆՋԱՏՎԱԾ է այս կայքում
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Կայքը չի՞ աշխատում:
 # The heading/title of the sub-panel view
@@ -38,7 +38,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Այս կայքի բոլո�
 
 ##
 
-protections-panel-no-trackers-found = Ոչ մի հայտնի հետապնդումներ { -brand-short-name } չեն հայտնաբերվել այս էջում։
+protections-panel-no-trackers-found = { -brand-short-name }-ին հայտնի ոչ մի հայտնի հետագծիչներ չեն հայտնաբերվել այս էջում։
 protections-panel-content-blocking-tracking-protection = Հետևող բովանդակություն
 protections-panel-content-blocking-socialblock = Սոց մեդիայի հետևումներ
 protections-panel-content-blocking-cryptominers-label = Ծպտյալ արժույթներ
