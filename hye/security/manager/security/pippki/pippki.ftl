@@ -44,9 +44,23 @@ download-cert-view-text = Ոսումնասիրել ԱՀ վկայագիրը
 client-auth-window =
     .title = Աւգտատիրոջ նոյնացման հարցում
 client-auth-site-description = Այս կայքը պահանջում է, որ դուք ձեր վկայագիրը ներկայացնէք.
+client-auth-choose-cert = Ընտրէք թուային ինքնութիւնը ներկայացնող վկայագիրը.
+client-auth-cert-details = Ընտրուած վկայագրի մանրամասները.
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Նշէք վկայագրի կրկնաւրինակի գաղտնաբառը
+set-password-message = Վկայագրի կրկնաւրինակի համար նշուող գաղտնաբառը պաշտպանում է ստեղծուող կրկնաւրինակը: Կրկնաւրինակումը շարունակելու համար պէտք է գաղտնաբառ նշէք:
+set-password-backup-pw =
+    .value = Վկայագրի կրկնաւրինակի գաղտնաբառը․
+set-password-repeat-backup-pw =
+    .value = Վկայագրի կրկնաւրինակի գաղտնաբառը (կրկին).
+set-password-reminder = Կարեւոր է. Եթե մոռանաք ձեր վկայագրի կրկնաւրինակի գաղտնաբառը. չէք կարողանայ այս կրկնաւրինակն աւգտագործել: Խնդրանաւք, գրի առէք այն եւ ապահով տեղում պահէք:
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Պահպանուած  նոյնականացման նշան
+protected-auth-msg = Խնդրում ենք վաւերացնել կոդանշանը։ Իսկութեան կերպը կախուած է կոդանշանի տեսակից։
+protected-auth-token = Կոդանշան
