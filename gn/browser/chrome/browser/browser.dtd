@@ -101,7 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Kuatiarogue rehegua marandu">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Moha'ãnga mopotĩha">
+<!ENTITY ldbCmd.label "Moha’ãnga mopotĩha">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Tendayke rechaha">
 <!ENTITY mirrorTabCmd.accesskey "M">
@@ -710,7 +710,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Mbegue (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "M">
-<!ENTITY mediaPlaybackRate100x2.label "Ha'etéva">
+<!ENTITY mediaPlaybackRate100x2.label "Ha’etéva">
 <!ENTITY mediaPlaybackRate100x2.accesskey "H">
 <!ENTITY mediaPlaybackRate125x2.label "Pya'e (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "P">
