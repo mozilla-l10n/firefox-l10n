@@ -55,6 +55,7 @@
 <!ENTITY performanceUI.table.selfPercentage           "Ինքնարժէքը">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Ժամային տոկոսը, որ ծախսուել է միայն այս գործառոյթի ընթացքում։">
 <!ENTITY performanceUI.table.samples                  "Նմուշներ">
+<!ENTITY performanceUI.table.samples.tooltip          "Այս գործառոյթի դարսում յայտուելու քանակը գրանցման պահին։">
 <!ENTITY performanceUI.table.function                 "Գործառոյթ">
 <!ENTITY performanceUI.table.function.tooltip         "Նմուշառուած գործառոյթի անուանումը եւ աղբիւրը:">
 <!ENTITY performanceUI.table.totalAlloc               "Ընդհանուր նմուշի բաշխումներ">

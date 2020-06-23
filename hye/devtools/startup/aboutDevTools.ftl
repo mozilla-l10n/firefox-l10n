@@ -6,6 +6,10 @@ head-title = Մշակողի գործիքների մասին
 enable-title = Միացնել Firefox-ի հռչակագրի գործիքները
 enable-inspect-element-title = Միացնել Firefox-ի հռչակագրի գործիքները ստուգուածն աւգտագործելու համար
 enable-inspect-element-message = Ուսումնասիրել եւ խմբագրել HTML֊ն ու CSS֊ը մշակողի գործիքների հսկիչով։
+enable-key-shortcut-message = Դուք գործարկեցիք Մշակողի Գործիքների դիւրանցումը։ Եթե դա սխալ էր, կարող էք փակել այս ներդիրը։
+enable-menu-message = Կատարելագործեք Ձեր կայքի HTML֊ը, CSS֊ն ու JavaScript֊ը  Տեսուչի եւ վրիպազերծողի գործիքներով։
+enable-common-message = Firefox-ի Մշակողի Գործիքները լռելեայն անջատուած են՝ Ձեզ Ձեր զննարկչում աւելի մեծ վերահսկողութիւն տալու համար։
+enable-learn-more-link = Իմանալ աւելին  Մշակողի Գործիքների մասին
 enable-enable-button = Միացնել Մշակողի Գործիքները
 enable-close-button = Փակել այս ներդիրը
 welcome-title = Բարի գալուստ Firefox-ի Մշակողի Գործիքներ։
@@ -13,8 +17,11 @@ newsletter-title = Mozilla-ի Մշակողի Լրագիր
 newsletter-message = Ստացեք մշակողից նորութիւններ, խորհուրդներ եւ աղբիւրներ, որոնք կուղարկուեն ուղիղ Ձեր փոստին։
 newsletter-email-placeholder =
     .placeholder = Ել֊փոստ
+newsletter-privacy-label = Համաձայն եմ կիսուել իմ տեղեկութիւններով Mozila-ի հետ՝ համաձայն <a data-l10n-name="privacy-policy">Privacy Policy</a> քաղաքականութեան։
 newsletter-subscribe-button = Բաժանորդագրուել
 newsletter-thanks-title = Շնորհակալութիւն
+footer-title = Firefox Մշակողի թողարկում
+footer-message = Փնտրում եք ոչ միա՞յն մշակողի գործիքներ։ Ստուգեք Firefox զննարկիչը, որը յատուկ կառուցուած է մշակողների եւ ժամանակակից գործավարութիւնների համար։
 footer-learn-more-link = Իմանալ աւելին
 features-learn-more = Իմանալ աւելին
 features-inspector-title = Հսկիչ
@@ -35,3 +42,11 @@ features-performance-title = Արդիւնաւէտութիւն
 features-performance-desc = Բացել թոյլ տեղերը, պարզեցնել գործընթացները, կատարելագործել արդիւնաւէտութիւնը։<a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Յիշողութիւն
 features-memory-desc = Գտէք յիշողութեան արտահոսքը եւ նուազեցրէք սարքի աւգտագործումը տուեալ յաւելուածի կողմից։ <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Բաժանորդագրման դիմումը ձախողուեց ({{ $errorDescription }})։
+newsletter-error-unknown = Անսպասելի սխալ է տեղի ունեցել։
+newsletter-error-timeout = Բաժանորդագրման դիմումն աւարտուել է։
+# Variables:
+#   $shortcut (String) - The keyboard shortcut used for the tool
+welcome-message = Դուք յաջողութեամբ միացրել եք Մշակողի Գործիքները։ Սկսելու համար ուսումնասիրէք Վեբ Մշակողի ցանկը կամ բացէք գործիքները { $shortcut }-ով։
