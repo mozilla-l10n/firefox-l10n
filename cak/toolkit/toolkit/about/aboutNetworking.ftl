@@ -5,7 +5,7 @@
 title = Chi rij ri rokisaxik ri b'ey
 warning = Rere' yalan soltojtob'enel. Man tokisäx we man tajin achib'ilan jun nimawinäq richin nitz'eton apo.
 show-next-time-checkbox = Junelïk tik'ut pe re jun retal k'ayewal re'.
-ok = Ütz
+ok = ÜTZ
 http = HTTP
 sockets = Chuq'b'äl
 dns = DNS
