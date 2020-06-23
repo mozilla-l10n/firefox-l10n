@@ -52,7 +52,7 @@
 <!ENTITY cmd.open_private_window.accesskey "i">
 <!ENTITY cmd.open_tab.label              "Tijaq jun k'ak'a' ruwi'">
 <!ENTITY cmd.open_tab.accesskey          "k">
-<!ENTITY cmd.open_all_in_tabs.label      "Tiqaj ronojel rik'in ruwi'">
+<!ENTITY cmd.open_all_in_tabs.label      "Tiqaj Ronojel rik'in taq Ruwi'">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "T">
 
 <!ENTITY cmd.properties.label      "Taq ch'akulal">

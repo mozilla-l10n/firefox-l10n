@@ -29,7 +29,7 @@
 <!ENTITY newWindowCmd.accesskey       "K">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Tijaq yakb'äl…">
+<!ENTITY openFileCmd.label            "Tijaq Yakb'äl…">
 <!ENTITY openFileCmd.accesskey        "T">
 <!ENTITY openFileCmd.commandkey       "o">
 

@@ -98,7 +98,7 @@ detail-update-automatic =
     .label = Titzij
     .tooltiptext = Kiyonïl keyak ri taq k'exoj
 detail-update-manual =
-    .label = Tichup
+    .label = Chupül
     .tooltiptext = Man keyak pa kiyonil ri taq k'exoj
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Kesamajïx pa Ichinan Tzuwäch
@@ -441,7 +441,7 @@ pending-uninstall-undo-button = Titzolïx
 addon-detail-updates-label = Tiya' q'ij chi ke ri Kiyonil k'exoj
 addon-detail-updates-radio-default = K'o wi
 addon-detail-updates-radio-on = Titzij
-addon-detail-updates-radio-off = Tichup
+addon-detail-updates-radio-off = Chupül
 addon-detail-update-check-label = Kenik'öx taq K'exoj
 install-update-button = Tik'ex
 # This is the tooltip text for the private browsing badge in about:addons. The

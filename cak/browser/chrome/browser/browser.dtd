@@ -55,7 +55,7 @@ in "Search through tabs". -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Tijaq ri k'ojlemal…">
-<!ENTITY openFileCmd.label "Tijaq yakb'äl…">
+<!ENTITY openFileCmd.label "Tijaq Yakb'äl…">
 <!ENTITY openFileCmd.accesskey "T">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Tinuk'samajïx ruxaq…">
@@ -882,7 +882,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.">
 <!ENTITY identity.permissionsReloadHint "Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.">
 <!ENTITY identity.permissionsPreferences.tooltip "Kejaq Taq Rajowaxik Ya'oj Q'ij">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Tijaq Rajowab'al Ruq'atik Rupam">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Kejaq taq Rajowab'al Ruq'atik Rupam">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
