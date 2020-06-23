@@ -6,20 +6,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname }-ի հետ կապակցման ժամանակ տեղի է ունեցել սխալ։ { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Սխալի կոդ՝ { $error }
-
 psmerr-ssl-disabled = Չի ստացուում անվտանգ կապ հաստատել, քանի որ SSL հաղորդակարգը անջատուած է։
 psmerr-ssl2-disabled = Չստացուեց հաստատել անվտանգ կապ, քանի որ կայքը աւգտագործում է հին, ոչ անվտանգ SSL հաղորդակարգ։
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Դուք ստացել եք սխալ վկայագիր։ Կապուեք սպասարկիչի կառաւարիչի հետ կամ նամակ գրէք նրան եւ ուղարկէք հետեւեալ տեղեկութիւնները.
     
     Ձեր վկայագիրը պարունակում է միեւնոյն սերիական համարը, ինչ մեկ այլ վկայագիր՝ տրուած վկայագրման նոյն կենտրոնի կողմից։ Խնդրում ենք ստանալ նոր վկայագիր՝ իր բացառիկ համարով։
-
 ssl-error-export-only-server = Անհնար է ապահովել անուտանգ տեղեկութեան փոխանցում։ Հանգոյցը չի ապահովում բարձրաստիճան գաղտնագրում։
 ssl-error-us-only-server = Անհնար է ապահովել անվտանգ տեղեկութեան փոխանցում։ Հանգոյցը պահանջում է բարձրաստիճան գաղտնագրում, որը ապահովուած չէ։
 ssl-error-no-cypher-overlap = Չի ստացուում անվտանգ տեղեկութեան փոխանակում հանգոյցի հետ։ Չկա ընդհանուր գաղտնագրման հաշուեկարգ(եր)։
@@ -135,14 +131,14 @@ ssl-error-unsafe-negotiation = Հանգոյցը փորձեց ձեռք սեղմե
 ssl-error-rx-unexpected-uncompressed-record = SSL-ը ստացել է անսպասելի չխտացուած հաղորդակարգ։
 ssl-error-weak-server-ephemeral-dh-key = SSL-ը ստացել է Diffie-Hellman-ի անցողիկ թոյլ բանալի՝ սպասարկիչների բանալիների փոխանակման երկխոսութեան ժամանակ։
 ssl-error-next-protocol-data-invalid = SSL-ը ստացել է NPN ընդլայնման անվաւեր տուեալներ։
-ssl-error-feature-not-supported-for-ssl2 = SSL հնարաւորութիւնը չի աջակցում SSL 2.0 կապակցումներ։
-ssl-error-feature-not-supported-for-servers = SSL հնարաւորութիւնը չի աջակցուում սպասարկիչների համար։
-ssl-error-feature-not-supported-for-clients = SSL հնարաւորութիւնը չի աջակցուում ծրագրի համար։
+ssl-error-feature-not-supported-for-ssl2 = SSL գործառոյթը չի գործում SSL 2.0 կապակցումների համար։
+ssl-error-feature-not-supported-for-servers = SSL գործառոյթը չի գործում սպասարկիչների համար։
+ssl-error-feature-not-supported-for-clients = SSL գործառոյթը չի գործում սպասարկիչների համար։
 ssl-error-invalid-version-range = SSL տարբերակի կարգը անվաւեր է։
 ssl-error-cipher-disallowed-for-version = SSL-ը նշուած ծածկագրի համար թոյլատրուած չէ ընտրուած հաղորդակարգի տարբերակի համար։
 ssl-error-rx-malformed-hello-verify-request = SSL-ը ստացաւ կապի միացման վնասուած Hello Verify Request handshake հարցում
 ssl-error-rx-unexpected-hello-verify-request = SSL-ը ստացաւ անսպասելի Hello Verify Request handshake հաղորդագրութիւն։
-ssl-error-feature-not-supported-for-version = SSL յուրահատկութիւնը չի աջակցուում հաղորդակարգի տարբերակի համար։
+ssl-error-feature-not-supported-for-version = SSL գործառոյթը չի գործում հաղորդակարգի տարբերակի համար։
 ssl-error-rx-unexpected-cert-status = SSL-ը անսպասելիաւրէն ստացաւ Certificate Status handshake հաղորդագրութիւն։
 ssl-error-unsupported-hash-algorithm = Չաջակցուող պատահական տուեալների հաշուեկարգ, որը աւգտագործուում է TLS peer-ի կողմից։
 ssl-error-digest-failure = Digest գործառոյթի սխալ։
