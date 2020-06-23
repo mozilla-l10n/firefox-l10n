@@ -4,17 +4,21 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Poništi zatvaranje kartice
-
+all-tabs-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Poništi zatvaranje kartice
+            [one] Poništi zatvaranje kartice
+            [few] Poništi zatvaranje kartica
+           *[other] Poništi zatvaranje kartica
+        }
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Pretraži kartice
-
 all-tabs-menu-new-user-context =
     .label = Nova kontejnerska kartica
-
 all-tabs-menu-hidden-tabs =
     .label = Skrivene kartice
-
 all-tabs-menu-manage-user-context =
     .label = Upravljaj kontejnerima
     .accesskey = s
