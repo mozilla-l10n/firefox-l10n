@@ -156,7 +156,7 @@
 
 <!-- Calendar Alarm Dialog -->
 
-<!ENTITY calendar.alarm.location.label              "K'ojlib'äl:" >
+<!ENTITY calendar.alarm.location.label              "Ochochib'al:" >
 <!ENTITY calendar.alarm.details.label               "Kib'anikil…" >
 
 <!ENTITY calendar.alarm.dismiss.label               "Tichup ruwäch" >
@@ -182,7 +182,7 @@
 <!ENTITY calendarproperties.color.label                    "B'onil:">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.format.label                   "B'anikil:">
-<!ENTITY calendarproperties.location.label                 "K'ojlib'äl:">
+<!ENTITY calendarproperties.location.label                 "Ochochib'al:">
 <!ENTITY calendarproperties.name.label                     "B'i'aj:">
 <!ENTITY calendarproperties.readonly.label                 "Xa xe Sik'inïk">
 <!ENTITY calendarproperties.unsubscribe.label              "Tiq'at rutz'ib'axik b'i'aj">

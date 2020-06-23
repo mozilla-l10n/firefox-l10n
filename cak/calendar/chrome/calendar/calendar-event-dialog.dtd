@@ -130,7 +130,7 @@
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "B'i'aj:" >
-<!ENTITY event.location.label                             "K'ojlib'äl:" >
+<!ENTITY event.location.label                             "Ochochib'al:" >
 <!ENTITY event.categories.label                           "Ruwäch:">
 <!ENTITY event.calendar.label                             "Cholb'äl q'ij:" >
 <!ENTITY event.calendar.accesskey                         "C">
