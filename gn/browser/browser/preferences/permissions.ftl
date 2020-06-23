@@ -84,7 +84,7 @@ permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte 
 permissions-exceptions-popup-window =
     .title = Tenda ñemoneĩmbyre - Ovetã apysẽ
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu reike ovetã apysẽme. Ehai kundaharape ha’etéva tenda remoneĩséva ha ejopy Ñemoneĩ.
+permissions-exceptions-popup-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu reike ovetã apysẽme. Ehai kundaharape ha’etéva tenda remoneĩsévape ha ejopy Ñemoneĩ.
 
 ## Exceptions - Saved Logins
 
@@ -98,7 +98,7 @@ permissions-exceptions-saved-logins-desc = Tembiapo ñepyrũ ko’ã ñanduti re
 permissions-exceptions-addons-window =
     .title = Tenda ñemoneĩmbyre - Moimbaha ñemohenda
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu remohenda moimbaha. Ehai kundaharape ha’etéva tenda remoneĩséva ha ejopy Moneĩ.
+permissions-exceptions-addons-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu remohenda moĩmbaha. Ehai kundaharape ha’etéva tenda remoneĩséva ha ejopy Moneĩ.
 
 ## Exceptions - Autoplay Media
 

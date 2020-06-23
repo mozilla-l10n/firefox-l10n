@@ -131,10 +131,10 @@ use-firefox-sync = Ñe’ẽkuaa: Kóva oipuru rechaukaha ipa’ũva. Oipuru { -
 get-started-not-logged-in = Eñemboheguapy { -sync-brand-short-name }…
 get-started-configured = Eike { -sync-brand-short-name } eguerohoryvévape
 always-check-default =
-    .label = Ehecha tapia ha'épa { -brand-short-name } kundaha ypykuéva
+    .label = Ehecha tapia ha’épa { -brand-short-name } kundaha ypykuéva
     .accesskey = y
 is-default = { -brand-short-name } ko'ág̃a nde hekaha ypykuéva
-is-not-default = { -brand-short-name } ndaha'éi kundahára ypykuéva
+is-not-default = { -brand-short-name } ndaha’éi kundahára ypykuéva
 set-as-my-default-browser =
     .label = Ejapo chugui yjypykuéva…
     .accesskey = D
@@ -1084,7 +1084,7 @@ permissions-a11y-privacy-link = Kuaave
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Ñembyaty ha mba’ekuaarã jepuru
-collection-description = Roñeha’ã mbarete rome’ẽ hag̃ua jeporavorã ha rombyaty roikotevẽva rome’ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Rojerure tapia ñemoneĩ marandu og̃uahẽ mboyve oréve.
+collection-description = Roñeha’ãmbaite rome’ẽ hag̃ua jeporavorã ha rombyaty roikotevẽva rome’ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Rojerure tapia ñemoneĩ marandu og̃uahẽ mboyve oréve.
 collection-privacy-notice = Marandu Ñemigua
 collection-health-report-telemetry-disabled = Nomoneĩvéima { -vendor-short-name } ojapyhývo mba’ekuaarã aporekogua ha oñondiveguáva. Opaite mba’ekuaarã itujavéva oguéta 30 ára ohasávo.
 collection-health-report-telemetry-disabled-link = Kuaave

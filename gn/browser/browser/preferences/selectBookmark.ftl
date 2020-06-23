@@ -5,5 +5,4 @@
 select-bookmark-window =
     .title = Kuatiarogue ñepyrũha jeporavo
     .style = width: 32em;
-
-select-bookmark-desc = Eiporavo peteĩ techaukaha ha'e hag̃ua nde kuatiarogue ñepyrũha. Eiporavóramo peteĩ ñongatuha, pateĩteĩva techaukaha ñongatuha pegua eikéta peteĩ tendayképe.
+select-bookmark-desc = Eiporavo techaukaha ha’e hag̃ua kuatiarogue ñepyrũha. Eiporavórõ ñongatuha, peteĩteĩva techaukaha ñongatuhápe eikéta tendayképe.
