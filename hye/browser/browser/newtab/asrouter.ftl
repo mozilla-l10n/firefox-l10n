@@ -56,8 +56,8 @@ cfr-doorhanger-extension-rating =
 #   $total (Number) - The total number of users using the add-on
 cfr-doorhanger-extension-total-users =
     { $total ->
-        [one] { $total } աւգտուող
-       *[other] { $total } աւգտուողներ
+        [one] { $total } աւգտատէր
+       *[other] { $total } աւգտատէրեր
     }
 cfr-doorhanger-pintab-description = Մատչեք առաւել շատ աւգտագործուող կայքերը։ Պահեք կայքերը բացուած ներդիրում, եթե անգամ վերագործարկում եք։
 
