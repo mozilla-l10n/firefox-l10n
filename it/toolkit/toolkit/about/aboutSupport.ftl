@@ -60,6 +60,9 @@ show-dir-label =
         [windows] Apri cartella
        *[other] Apri percorso
     }
+experimental-features-title = Funzioni sperimentali
+experimental-features-name = Nome
+experimental-features-value = Valore
 modified-key-prefs-title = Preferenze importanti modificate
 modified-prefs-name = Nome
 modified-prefs-value = Valore
