@@ -136,16 +136,16 @@ monitor-passwords-tooltip =
 # your localization, because it would result in the number showing twice.
 info-monitored-emails =
     { $count ->
-        [one] Διεύθυνση email υπό εποπτεία
-       *[other] Διευθύνσεις email υπό εποπτεία
+        [one] διεύθυνση email υπό εποπτεία
+       *[other] διευθύνσεις email υπό εποπτεία
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] Οι πληροφορίες σας έχουν εκτεθεί σε γνωστή παραβίαση δεδομένων
-       *[other] Οι πληροφορίες σας έχουν εκτεθεί σε γνωστές παραβιάσεις δεδομένων
+        [one] γνωστή παραβίαση δεδομένων έχει εκθέσει τις πληροφορίες σας
+       *[other] γνωστές παραβιάσεις δεδομένων έχουν εκθέσει τις πληροφορίες σας
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
@@ -160,8 +160,8 @@ info-known-breaches-resolved =
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-        [one] Ο κωδικός πρόσβασης εκτέθηκε σε όλες τις παραβιάσεις
-       *[other] Οι κωδικοί πρόσβασης εκτέθηκαν σε όλες τις παραβιάσεις
+        [one] κωδικός πρόσβασης έχει εκτεθεί σε όλες τις παραβιάσεις
+       *[other] κωδικοί πρόσβασης έχουν εκτεθεί σε όλες τις παραβιάσεις
     }
 full-report-link = Προβολή πλήρους αναφοράς στο <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number

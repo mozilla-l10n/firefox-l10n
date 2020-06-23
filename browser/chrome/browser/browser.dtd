@@ -450,7 +450,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signintosync.label "Σύνδεση στο &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Ενεργοποίηση &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Προβολή συγχρονισμένων καρτελών">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Απόκρυψη πλευρικής γραμμής συγχρονισμένων καρτελών">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Σύνδεση άλλης συσκευής">
 

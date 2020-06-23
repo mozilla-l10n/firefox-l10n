@@ -51,7 +51,7 @@ login-list-count =
         [one] { $count } σύνδεση
        *[other] { $count } συνδέσεις
     }
-login-list-sort-label-text = Ταξινόμηση κατά:
+login-list-sort-label-text = Ταξινόμηση:
 login-list-name-option = Όνομα (Α-Ω)
 login-list-name-reverse-option = Όνομα (Ω-Α)
 about-logins-login-list-alerts-option = Ειδοποιήσεις
