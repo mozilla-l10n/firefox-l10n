@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
 <!ENTITY bookmarksMenu.accesskey "Σ">
-<!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
+<!ENTITY bookmarkThisPageCmd.label "Δημιουργία σελιδοδείκτη">
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία σελιδοδείκτη">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -620,7 +620,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "β">
 <!ENTITY setDesktopBackgroundCmd.label      "Ορισμός ως ταπετσαρία…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "τ">
-<!ENTITY bookmarkPageCmd2.label       "Προσθήκη στους σελιδοδείκτες">
+<!ENTITY bookmarkPageCmd2.label       "Δημιουργία σελιδοδείκτη">
 <!ENTITY bookmarkPageCmd2.accesskey   "θ">
 <!ENTITY bookmarkThisLinkCmd.label      "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "δ">

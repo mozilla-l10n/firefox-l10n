@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Απόκρυψη">
 <!ENTITY editBookmarkOverlay.tags.label                      "Ετικέτες:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "τ">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Διαχωρισμός ετικετών με κόμματα">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Διαχωρίστε τις ετικέτες με κόμματα">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Λέξη-κλειδί:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "κ">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Προβολή όλων των ετικετών">
