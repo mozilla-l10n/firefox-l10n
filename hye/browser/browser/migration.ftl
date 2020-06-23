@@ -92,6 +92,52 @@ imported-edge-reading-list = Ընթերցացուցակ (Edge-ից)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Նշոցիկներ
+browser-data-cookies-label =
+    .value = Նշոցիկներ
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Զննարկման պատմութիւն եւ Էջանիշք
+           *[other] Զննարկման պատմութիւն
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Զննարկման պատմութիւն եւ Էջանիշք
+           *[other] Զննարկման պատմութիւն
+        }
+browser-data-formdata-checkbox =
+    .label = Պահուած յիշողութիւնից
+browser-data-formdata-label =
+    .value = Պահուած յիշողութիւնից
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Պահուած մուտքեր եւ գաղտնաբառեր
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Պահուած մուտքեր եւ գաղտնաբառեր
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Նախընտրութիւնք
+            [edge] Նախընտրութիւնք
+           *[other] Էջանիշք
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Նախընտրութիւնք
+            [edge] Նախընտրութիւնք
+           *[other] Էջանիշք
+        }
+browser-data-otherdata-checkbox =
+    .label = Այլ տուեալներ
+browser-data-otherdata-label =
+    .label = Այլ տուեալներ
 browser-data-session-checkbox =
     .label = Պատուհաններ եւ ներդիրներ
 browser-data-session-label =
