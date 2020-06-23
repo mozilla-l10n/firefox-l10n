@@ -213,6 +213,7 @@ cfr-doorhanger-milestone-close-button = Փակել
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Հեշտութեամբ ստեղծէք պաշտպանուած գաղտնաբառ
+cfr-whatsnew-lockwise-body = Իւրաքանչիւր հաշւի համար եզակի ապահով գաղտնաբառ ստեղծելը դժուար է։ Ընտրէք գաղտնաբառի դաշտը եւ ստացէք { -brand-shorter-name }֊ի ստեղծուած գաղտնաբառը։
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ֊ի պատկերակ
 
 ## Vulnerable Passwords message
@@ -229,6 +230,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Նկար-նկարում պատկերակ
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Հայեացք պաշտպանական համակարգին
 
 ## Better PDF message
 
