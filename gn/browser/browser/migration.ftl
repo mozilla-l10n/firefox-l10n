@@ -76,8 +76,8 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
-imported-safari-reading-list = Moñe'ẽ rysýi (Safari rehegua)
-imported-edge-reading-list = Moñe'ẽrã rysýi (Edge Guive)
+imported-safari-reading-list = Moñe’ẽ rysýi (Safari rehegua)
+imported-edge-reading-list = Moñe’ẽrã rysýi (Edge Guive)
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
