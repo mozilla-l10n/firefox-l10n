@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Palaqinem Wichin)">
 
-<!ENTITY appmenu.tooltip                     "Tijaq ri k'utüy samaj">
+<!ENTITY appmenu.tooltip                     "Tijaq k'utsamaj">
 <!ENTITY navbarOverflow.label                "Ch'aqa' chik Samajib'äl…">
 
 <!-- Tab context menu -->

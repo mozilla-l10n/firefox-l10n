@@ -55,8 +55,8 @@ newtab-confirm-delete-history-p2 = Man yatikïr ta najäl re b'anïk re'.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Tijaq k'utüy samaj
-    .aria-label = Tijaq k'utüy samaj
+    .title = Tijaq k'utsamaj
+    .aria-label = Tijaq k'utsamaj
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Tiyuj
@@ -65,7 +65,7 @@ newtab-dismiss-button-tooltip =
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Tijaq k'utüy samaj
+    .title = Tijaq k'utsamaj
     .aria-label = Tijar ri ruk'utsamaj k'ojlem richin { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =

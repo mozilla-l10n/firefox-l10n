@@ -46,7 +46,7 @@
 
 <!ENTITY cmd.open.label                  "Tijaq">
 <!ENTITY cmd.open.accesskey              "T">
-<!ENTITY cmd.open_window.label           "Tijaq pa jun k'ak'a' tzuwach">
+<!ENTITY cmd.open_window.label           "Tijaq pa jun K'ak'a' Tzuwäch">
 <!ENTITY cmd.open_window.accesskey       "k">
 <!ENTITY cmd.open_private_window.label     "Tijaq pa jun K'ak'a' Ichinan Tzuwäch">
 <!ENTITY cmd.open_private_window.accesskey "i">

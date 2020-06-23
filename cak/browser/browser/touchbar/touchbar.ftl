@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Strings in this file are used to localize button titles displayed on the 
+# Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
 back = Chi rij
 forward = Jun chik
@@ -20,7 +20,6 @@ open-location = Tikanöx o titz'ib'äx ri ochochib'äl
 share = Tikomonïx
 close-window = Titz'apïx Tzuwäch
 open-sidebar = Ruchi' Cholab'äl
-
 # This string describes shortcuts for search.
 search-popover = Kekanöx ruq'a' okem
 # Describes searches limited to a specific scope
@@ -31,7 +30,7 @@ search-search-in = Tikanöx pa:
 
 search-bookmarks = Taq yaketal
 search-history = Natab'äl
-search-opentabs = Kejaq taq ruwi'
+search-opentabs = Kejaq Ruwi'
 search-tags = Taq etal
 search-titles = Taq b'i'aj
 
