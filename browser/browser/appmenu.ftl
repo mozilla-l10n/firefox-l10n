@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = Download aggiornamento di { -brand-shorter-name } in corso
 appmenuitem-protection-dashboard-title = Pannello protezioni
 appmenuitem-customize-mode =
     .label = Personalizza…
