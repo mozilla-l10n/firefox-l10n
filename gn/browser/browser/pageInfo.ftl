@@ -126,11 +126,11 @@ not-set-date = Moha’eñopyre’ỹva
 media-img = Ta´ãnga
 media-bg-img = Tugua
 media-border-img = Tembe’y
-media-list-img = Ta'ãngamirĩ
+media-list-img = Ta’ãngamirĩ
 media-cursor = Hekaha
 media-object = Mba’e
 media-embed = Jupapo
-media-link = Ta'ãnga'i
+media-link = Ta’ãnga’i
 media-input = Jeikeha
 media-video = Ta´ãngamyi
 media-audio = Hendupyrã
@@ -145,7 +145,7 @@ general-strict-mode =
 security-no-owner = Ko ñanduti renda nomomarandúi ijára rehegua.
 page-info-security-no-owner =
     .value = Ko ñanduti renda nomomarandúi ijára rehegua.
-media-select-folder = Eiporavo peteĩ ñongatuha ta'ãngakuéra rendarã
+media-select-folder = Eiporavo peteĩ ñongatuha ta’ãngakuéra rendarã
 media-unknown-not-cached =
     .value = Ojekuaa’ỹva (ndaha’éi kachépe)
 permissions-use-default =
@@ -189,15 +189,15 @@ properties-general-size =
 media-animated-image-type =
     .value =
         { $frames ->
-            [one] { $type } Ta'anga (kyre'ỹ, { $frames } kora)
-           *[other] { $type } Ta'anga (kyre'ỹ, { $frames } korakuéra)
+            [one] { $type } Ta’ãnga (kyre’ỹ, { $frames } kora)
+           *[other] { $type } Ta’ãnga (kyre’ỹ, { $frames } korakuéra)
         }
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
-    .value = Ta'ãnga { $type }
+    .value = Ta’ãnga { $type }
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -223,7 +223,7 @@ media-file-size = { $size } KB
 # Variables:
 #   $website (string) - The website name
 media-block-image =
-    .label = Ta'ãnga { $website } rehegua jejoko
+    .label = Ta’ãnga { $website } rehegua jejoko
     .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box

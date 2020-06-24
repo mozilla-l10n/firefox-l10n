@@ -56,7 +56,7 @@ urlbar-services-notification-anchor =
 urlbar-web-notification-anchor =
     .tooltiptext = Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.
 urlbar-midi-notification-anchor =
-    .tooltiptext = Eike ta'ãngarupa MIDI pe
+    .tooltiptext = Eike ta’ãngarupa MIDI pe
 urlbar-eme-notification-anchor =
     .tooltiptext = Eñangareko DRM software jepuru rehe
 urlbar-web-authn-anchor =
@@ -119,7 +119,7 @@ urlbar-xr-blocked =
 urlbar-web-notifications-blocked =
     .tooltiptext = Ejokóma ñemomarandu ko ñanduti rendápe g̃uarã.
 urlbar-camera-blocked =
-    .tooltiptext = Ejokóma ne ta'ãngamýi ko ñanduti rendápe g̃uarã.
+    .tooltiptext = Ejokóma ne ta’ãngamýi ko ñanduti rendápe g̃uarã.
 urlbar-microphone-blocked =
     .tooltiptext = Ejokóma ne ñe’ẽatãha ko ñanduti rendápe g̃uarã.
 urlbar-screen-blocked =
@@ -260,7 +260,7 @@ browser-window-close-button =
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
-    .value = Ta'angamýi hetápe guarãva:
+    .value = Ta’angamýi hetápe guarãva:
     .accesskey = C
 popup-select-microphone =
     .value = Ñe’ẽatãha hetápe g̃uarãva:
