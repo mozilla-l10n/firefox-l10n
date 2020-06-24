@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-desktop-background-window =
-    .title = Ta’anga Rechahápe g̃uarã ñemoĩ
+    .title = Ta’ãnga Rechahápe g̃uarã ñemoĩ
 set-desktop-background-accept =
-    .label = Ta'anga Rechahápe g̃uarã ñemoĩ
+    .label = Ta’ãnga Rechahápe g̃uarã ñemoĩ
 open-desktop-prefs =
     .label = Eike mba’erechaha erohoryvévape
 set-background-preview-unavailable = Jehecha ypy oiko’ỹva
