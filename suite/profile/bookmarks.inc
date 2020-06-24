@@ -11,6 +11,7 @@
 
 # LOCALIZATION NOTE (seamonkey):
 # link title for https://www.seamonkey-project.org/ (in the personal toolbar)
+#define seamonkey SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_long):
 # link title for https://www.seamonkey-project.org/ (in normal bookmarks)
@@ -32,9 +33,11 @@
 
 # LOCALIZATION NOTE (seamonkey_plugins):
 # link title for https://addons.thunderbird.net/en-US/seamonkey/plugins
+#define seamonkey_plugins Vtičniki za SeaMonkey
 
 # LOCALIZATION NOTE (mozdev):
 # link title for http://www.mozdev.org/
+#define mozdev mozdev.org
 
 # LOCALIZATION NOTE (mozdev_seamonkey):
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
@@ -42,6 +45,7 @@
 
 # LOCALIZATION NOTE (seamonkey_community):
 # link title for https://www.seamonkey-project.org/community
+#define seamonkey_community Skupnost SeaMonkey
 
 # LOCALIZATION NOTE (mozillazine):
 # link title for http://www.mozillazine.org/

@@ -4,6 +4,7 @@
 
 <!ENTITY newMessageCmd.label             "Sporočilo">
 
+<!ENTITY newContactCmd.label             "Stik ...">
 
 <!ENTITY sendPage.label                  "Pošlji stran …">
 
