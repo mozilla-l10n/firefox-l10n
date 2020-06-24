@@ -31,12 +31,12 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesPresented "Mba'era'ãnga jehechaukapyre">
 <!ENTITY stats.framesPainted "Mba'era'ãnga jehechaukapyréva">
 
-<!ENTITY error.aborted "Ojejoko ta'ãngamýi ñemyenyhẽ.">
-<!ENTITY error.network "Ta'ãndamýi ñemboheta ojejokóma ñanduti jejavy rupi.">
-<!ENTITY error.decode "Ndaikatúi emboheta ta'ãngamýi pe marandurenda imarã rupi.">
-<!ENTITY error.srcNotSupported "Ysaja térã MIME ta'ãngamýi rehegua noñemoneĩri.">
-<!ENTITY error.noSource2 "Ndojejuhúi mba'eveichagua ta'ãngamýi oguerekóva ysaja térã peteĩva MIME ojokupytýva.">
-<!ENTITY error.generic "Pe ta'ãngamýi ñemboheta ndoikomo'ãi peteĩ jejavy jeikuaa'ỹva rupi.">
+<!ENTITY error.aborted "Ojejoko ta’ãngamýi ñemyenyhẽ.">
+<!ENTITY error.network "Ta’ãndamýi ñemboheta ojejokóma ñanduti jejavy rupi.">
+<!ENTITY error.decode "Ndaikatúi emboheta ta’ãngamýi pe marandurenda imarã rupi.">
+<!ENTITY error.srcNotSupported "Ysaja térã MIME ta’ãngamýi rehegua noñemoneĩri.">
+<!ENTITY error.noSource2 "Ndojejuhúi mba’eveichagua ta’ãngamýi oguerekóva ysaja térã peteĩva MIME ojokupytýva.">
+<!ENTITY error.generic "Pe ta’ãngamýi ñemboheta ndoikomo’ãi peteĩ jejavy jeikuaa’ỹva rupi.">
 
 <!ENTITY status.pictureInPicture "Ko ta’angamýi oñembohetahína Picture-in-Picture rekópe.">
 

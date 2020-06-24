@@ -119,4 +119,4 @@ options-context-triggers-page-refresh = * Tembiapo ag̃agua añónte, emyenyhẽ
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Mba’ekuaarã jehechauka Gecko rehegua
 options-show-platform-data-tooltip =
-    .title = Remyandývo poravopyrã marandu ñehesa'ỹijoha JavaScript omoingéta ta'ãnga'i Gecko rehegua
+    .title = Remyandývo poravopyrã marandu ñehesa’ỹijoha JavaScript omoingéta ta’ãnga'i Gecko rehegua

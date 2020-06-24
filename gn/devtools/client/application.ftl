@@ -121,9 +121,9 @@ sidebar-item-service-workers = Mba’apohára mba’epytyvõrãguáva
     .title = Mba’apohára mba’epytyvõrãguáva
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
-    .alt = Ta'ãngachu'i kyhyjerã
+    .alt = Ta’ãngachu'i kyhyjerã
     .title = Kyhyjerã
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
-    .alt = Ta'ãngachu'i javygua
+    .alt = Ta’ãngachu’i javygua
     .title = Javy

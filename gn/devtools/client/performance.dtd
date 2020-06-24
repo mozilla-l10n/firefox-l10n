@@ -41,9 +41,9 @@
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Omomba’e JavaScript rembiapo kundaha peguáva ohasa hetave aravo ñongatuete aja.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Tembiaporãme’ẽ">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ehechauka mamoitépa pe mandu’arenda oñemoĩ ñongatuete oiko aja.">
-<!ENTITY performanceUI.toolbar.js-flamegraph "JS ta'ãnga rendy">
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS ta’ãnga rendy">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Ehechauka JavaScript ñehenói heta pe ñongatuete aja.">
-<!ENTITY performanceUI.toolbar.memory-flamegraph "Ta'ãnga rendy mboheraite">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Ta’ãnga rendy mboheraite">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -79,7 +79,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
-<!ENTITY performanceUI.invertFlameGraph             "Ta'ãnga rendy mbojere">
+<!ENTITY performanceUI.invertFlameGraph             "Ta’ãnga rendy mbojere">
 <!ENTITY performanceUI.invertFlameGraph.tooltiptext "Embojerévo pe mba’erendy ohechauka ñehenói rape ñembohapepyre umi kora ipyahuvéva guive ha péicha oñembotuichave umi kora itujavéva.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
@@ -116,7 +116,7 @@
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 <!ENTITY performanceUI.enableFramerate             "Mba’era’ãnga ñongatu aravo’ivépe">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Ta'ãngakuéra jehaipy aravo'ive jave, oñembohape aja.">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Ta’ãngakuéra jehaipy aravo’ive jave, oñembohape aja.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
