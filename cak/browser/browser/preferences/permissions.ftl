@@ -59,7 +59,7 @@ permissions-capabilities-listitem-allow-session =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Man okel ta ri Rub'i' Rochochib'al K'uxasamaj
-permissions-invalid-uri-label = Tatz'ib'aj ri ütz rub'i' ruk'u'x samaj
+permissions-invalid-uri-label = Tatz'ib'aj ri okel rub'i' ruk'uxasamaj
 
 ## Exceptions - Tracking Protection
 

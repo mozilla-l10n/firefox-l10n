@@ -808,7 +808,7 @@ forms-master-pw-change =
     .label = Tijal Ajtij Ewan Tzij…
     .accesskey = A
 forms-master-pw-fips-title = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun nimaläj ewan tzij, ri man kowöl ta.
-forms-master-pw-fips-desc = Sachoj toq nijal ri ewan tzij
+forms-master-pw-fips-desc = Xsach toq Nijal ri Ewan Tzij
 
 ## OS Authentication dialog
 
