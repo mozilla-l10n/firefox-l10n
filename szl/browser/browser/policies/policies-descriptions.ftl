@@ -19,6 +19,8 @@ policy-BlockAboutConfig = Szperowanie dostympu do strōny about:config.
 policy-BlockAboutProfiles = Szperowanie dostympu do strōny about:profiles.
 policy-BlockAboutSupport = Szperowanie dostympu do strōny about:support.
 policy-Bookmarks = Rychtowanie zokłodek na posku zokłodek, w myni zokłodek, abo we ôbranym katalogu.
+policy-CaptivePortal = Załōnczynie abo zastawiynie ôbsugi portalu captive.
+policy-CertificatesDescription = Przidowanie certyfikatōw abo używanie wbudowanych certyfikatōw.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
