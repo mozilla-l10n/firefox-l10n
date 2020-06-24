@@ -272,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Eñangareko DRM software jepuru rehe">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Eike ta’ãngarupa MIDI pe">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Ejokóma ne ta'ãngamýi ko ñanduti rendápe g̃uarã.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Ejokóma ne ta’ãngamýi ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ejokóma ne ñe'ẽatãha ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba’erechaha.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ejokóma marandu ejuhukuaa hag̃ua ko ñanduti renda.">
@@ -396,7 +396,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewToolbarsMenu.label       "Tembiporu renda">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
-<!ENTITY viewSidebarMenu.label "Ta'ãngarupa yke">
+<!ENTITY viewSidebarMenu.label "Ta’ãngarupa yke">
 <!ENTITY viewSidebarMenu.accesskey "e">
 
 <!ENTITY viewCustomizeToolbar.label       "Ñemomba’e…">
@@ -614,7 +614,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Myesakãha jehecha">
 <!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "Ta'ãngamýi jehecha">
+<!ENTITY viewVideoCmd.label           "Ta’ãngamýi jehecha">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Mba’era’ãnga huguapegua jehecha">
 <!ENTITY viewBGImageCmd.accesskey     "w">
@@ -656,13 +656,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "Mba’era’ãnga ñongatu pyahu…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "Ta'ãngamýi ñongatu pyahu…">
+<!ENTITY saveVideoCmd.label           "Ta’ãngamýi ñongatu pyahu…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Mba’epu ñongatu pyahu…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "Mba’era'ãnga mondo…">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Ta'ãngamýi mondo…">
+<!ENTITY emailVideoCmd.label          "Ta’ãngamýi mondo…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Mba’epu mondo…">
 <!ENTITY emailAudioCmd.accesskey      "a">
@@ -679,7 +679,7 @@ context menu items are mutually exclusive. -->
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Mba’era’ãnga mbohasarã">
 <!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "Ta'ãngamýi rape mbohasarã">
+<!ENTITY copyVideoURLCmd.label        "Ta’ãngamýi rape mbohasarã">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Mba’epu rape mbohasarã">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
@@ -770,8 +770,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Tuichakue">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY sidebarCloseButton.tooltip     "Ta'ãngarupa yke mboty">
-<!ENTITY sidebarMenuClose.label         "Ta'ãngarupa yke mboty">
+<!ENTITY sidebarCloseButton.tooltip     "Ta’ãngarupa yke mboty">
+<!ENTITY sidebarMenuClose.label         "Ta’ãngarupa yke mboty">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ñesẽ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Toñemi-ijeheguirei">
 
-<!ENTITY getUserMedia.selectCamera.label "Ta'angamýi hetápe guarãva:">
+<!ENTITY getUserMedia.selectCamera.label "Ta’angamýi hetápe guarãva:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Ñe'ẽatãha hetápe g̃uarãva:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
