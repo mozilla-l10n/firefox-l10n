@@ -50,7 +50,7 @@
 <!ENTITY sendLaterCmd.label "Titaq Na">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Tinuk'samajïx ruxaq…">
+<!ENTITY printSetupCmd.label "Tib'an Runuk'ulem Ruxaq…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
 <!ENTITY printPreviewCmd.accesskey "b">

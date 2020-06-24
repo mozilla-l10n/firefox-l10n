@@ -29,7 +29,7 @@
 <!ENTITY closeCmd.label                                 "Titz'apïx">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "t">
-<!ENTITY printSetupCmd.label                            "Tinuk'samajïx Ruxaq…">
+<!ENTITY printSetupCmd.label                            "Tib'an Runuk'ulem Ruxaq…">
 <!ENTITY printSetupCmd.accesskey                        "m">
 <!ENTITY printPreviewContactCmd.label                   "Nab'ey Rutz'etik Rub'i' Achib'il">
 <!ENTITY printPreviewContactCmd.accesskey               "b">

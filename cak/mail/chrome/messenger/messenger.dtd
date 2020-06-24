@@ -89,7 +89,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
 <!ENTITY printPreviewCmd.accesskey "b">
-<!ENTITY printSetupCmd.label "Tinuk'samajïx Ruxaq…">
+<!ENTITY printSetupCmd.label "Tib'an Runuk'ulem Ruxaq…">
 <!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
