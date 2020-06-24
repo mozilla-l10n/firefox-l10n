@@ -65,7 +65,7 @@ certificate-viewer-value = Tepykue
 certificate-viewer-version = Peteĩchagua
 certificate-viewer-business-category = Ñemuha jehechaukaha
 certificate-viewer-subject-name = Téma réra
-certificate-viewer-issuer-name = Me'ẽhára réra
+certificate-viewer-issuer-name = Me’ẽhára réra
 certificate-viewer-validity = Oikóva
 certificate-viewer-subject-alt-names = Téma réra mokõiha
 certificate-viewer-public-key-info = Marandu ñemiguáva
@@ -81,8 +81,7 @@ certificate-viewer-authority-info-aia = Mburuvicha marandu (AIA)
 certificate-viewer-certificate-policies = Jerohoryvéva purureko
 certificate-viewer-embedded-scts = Ojehe’áva SCTs
 certificate-viewer-crl-endpoints = CRL kyta paha
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Mboguejy
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (juajuha)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Ko jepysokue oñemongurusúma ivaikuaávaramo, he’iséva puruhára omboykeva’erã mboajepyre noikumbýiramo.

@@ -121,7 +121,7 @@ about-telemetry-addon-table-id = ID moĩmbaha rehegua
 about-telemetry-addon-table-details = Mba'emimi
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
-about-telemetry-addon-provider = Me'ẽhára { $addonProvider }
+about-telemetry-addon-provider = Me’ẽhára { $addonProvider }
 about-telemetry-keys-header = Mba'etee
 about-telemetry-names-header = Téra
 about-telemetry-values-header = Tepykue
