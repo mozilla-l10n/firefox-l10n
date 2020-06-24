@@ -147,7 +147,7 @@ detail-show-preferences =
            *[other] Emoambue jerohoryvéva ko moĩmbaha rehegua
         }
 detail-rating =
-    .value = Ñehepyme'ẽ
+    .value = Ñehepyme’ẽ
 addon-restart-now =
     .label = Emoñepyrũjey ko'ág̃a
 disabled-unsigned-heading =

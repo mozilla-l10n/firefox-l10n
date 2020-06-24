@@ -14,7 +14,7 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "Emoheñói ñepyrũ hag̃ua nemba'ete, ejopy Upeigua.">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "Emoheñoirõ heta mba'ete ikatu eikuaa héra rupi. Ikatu eipuru pe téra ome'ẽva kóva térã eiporavo ndete voi.">
+<!ENTITY profileCreationIntro.text      "Emoheñóirõ heta mba’ete ikatu eikuaa héra rupi. Ikatu avei eipuru pe téra ome’ẽva kóva térã eiporavo ndete voi.">
 <!ENTITY profilePrompt.label            "Emoinge mba'etee pyahu réra:">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "Neñembohekopyahu puruhára, jerohoryvéva ha ambue mba'ekuaarã puruhára rehegua oñeñongatúta amo:">
