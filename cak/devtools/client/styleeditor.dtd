@@ -49,7 +49,7 @@
 
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
-<!ENTITY openLinkNewTab.label     "Tijaq ri ximonel pa jun k'ak'a' ruwi'">
+<!ENTITY openLinkNewTab.label     "Tijaq Ximonel pa K'ak'a' Ruwi'">
 
 <!-- LOCALIZATION NOTE (copyUrl.label): This is the text for the
      context menu item that copies a stylesheet's URL -->
