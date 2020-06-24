@@ -9,7 +9,7 @@ msgevent-encryption_required_part2 = Pospytuje so, priwatnu rozmołwu započeć.
 msgevent-encryption_error = Při zaklučowanju wašeje powěsće je zmylk nastał. Powěsć njeje so pósłała.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-connection_ended = { $name } je hižo jeho zaklučowany zwisk z wami začinił. Zo byšće wobešoł, zo zmylnje powěsć bjez zaklučowanja sćeleće, njeje so waša powěsć pósłała. Prošu skónčće swoju zaklučowanu rozmołwu abo startujće ju znowa.
+msgevent-connection_ended = { $name } je hižo swój zaklučowany zwisk z wami začinił. Zo byšće wobešoł, zo zmylnje powěsć bjez zaklučowanja sćeleće, njeje so waša powěsć pósłała. Prošu skónčće swoju zaklučowanu rozmołwu abo startujće ju znowa.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup_error = Při zarjadowanju priwatneje rozmołwy z { $name } je zmylk nastał.
@@ -36,7 +36,7 @@ msgevent-log_heartbeat_rcvd = Zwiskzdźerženska zdźělenka přijata wot { $nam
 #   $name (String) - the screen name of a chat contact person
 msgevent-log_heartbeat_sent = Zwiskzdźerženska zdźělenka pósłana do { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
-msgevent-rcvdmsg_general_err = Njewočakowany zmylk je nastał, mjeztym sće spytał, wašu rozmołwu z pomocu OTR škitać.
+msgevent-rcvdmsg_general_err = Njewočakowany zmylk je nastał, mjeztym zo sće spytał, wašu rozmołwu z pomocu OTR škitać.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
