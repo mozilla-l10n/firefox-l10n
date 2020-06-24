@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Apañuái oñemyenyhẽvo kuatiarogue">
-<!ENTITY retry.label "Eha'ãjey">
+<!ENTITY retry.label "Eha’ãjey">
 <!ENTITY returnToPreviousPage.label "Eguevi">
 <!ENTITY returnToPreviousPage1.label "Eguevi (mboajepyre)">
 <!ENTITY advanced2.label "Opapotáva…">
@@ -51,7 +51,7 @@
 
 <!ENTITY malformedURI.pageTitle "URL ndoikóiva">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Ko kundaharape ha'ete ku ndoikóiva.">
+<!ENTITY malformedURI.title1 "Hmm. Ko kundaharape ha’ete ku ndoikóiva.">
 
 <!ENTITY netInterrupt.title "Pe jeike ojejokóma">
 
@@ -59,7 +59,7 @@
 
 <!ENTITY notCached.title "Kuatia oikove'ỹmava">
 
-<!ENTITY notCached.longDesc "<p>Kuatia jerurepyre noĩvéima ojepuru hag̃uáicha kache &brandShortName;-pe.</p><ul><li>Kyhyje tekorosãrãramo, &brandShortName; ndojeruremo’ãvéima ijehegui kuatiakuéra takate’ỹha.</li><li>Eikutu Ñeha'ãjey ejerure jey hag̃ua pe kuatia ñanduti renda pegua.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Kuatia jerurepyre noĩvéima ojepuru hag̃uáicha kache &brandShortName;-pe.</p><ul><li>Kyhyje tekorosãrãramo, &brandShortName; ndojeruremo’ãvéima ijehegui kuatiakuéra takate’ỹha.</li><li>Eikutu Ñeha’ãjey ejerure jey hag̃ua pe kuatia ñanduti renda pegua.</li></ul>">
 
 <!ENTITY netOffline.title "Jeikekatu'ỹre">
 
@@ -100,7 +100,7 @@
     kookie ñeg̃uahẽ.</li>
 </ul>">
 
-<!ENTITY unknownSocketType.title "Mbohovái eha'ãrõ'ỹva mohendahavusúgui">
+<!ENTITY unknownSocketType.title "Mbohovái eha’ãrõ’ỹva mohendahavusúgui">
 
 <!ENTITY unknownSocketType.longDesc "<ul>
   <li>Ehechajey nde apopyvusu oguerekópa ñangarekoha imba’eteéva
