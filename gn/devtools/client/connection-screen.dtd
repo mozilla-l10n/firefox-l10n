@@ -19,7 +19,7 @@
 <!ENTITY connectionError "Javy:">
 <!ENTITY errorTimeout "Javy: joajuha hi'aravopa.">
 <!ENTITY errorRefused "Javy: joajuha ndoikói.">
-<!ENTITY errorUnexpected "Javy ñeha'arõ'ỹva.">
+<!ENTITY errorUnexpected "Javy ñeha’arõ’ỹva.">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
