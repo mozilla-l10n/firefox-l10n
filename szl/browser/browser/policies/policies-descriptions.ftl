@@ -13,6 +13,12 @@
 policy-3rdparty = Nastawiynie prawideł,  do kerych rozszyrzynia WebExtensions majōm dostymp be chrome.storage.managed.
 policy-AppAutoUpdate = Załōnczynie abo wyłōnczynie autōmatycznych aktualizacyji aplikacyje.
 policy-AppUpdateURL = Nastawiynie włosnego URL do aktualizowanio aplikacyje.
+policy-Authentication = Kōnfiguracyjo integrowanyj autyntyfikacyje do strōn, co jōm ôbsugujōm.
+policy-BlockAboutAddons = Szperowanie dostympu do menedżera rozszyrzyń (about:addons).
+policy-BlockAboutConfig = Szperowanie dostympu do strōny about:config.
+policy-BlockAboutProfiles = Szperowanie dostympu do strōny about:profiles.
+policy-BlockAboutSupport = Szperowanie dostympu do strōny about:support.
+policy-Bookmarks = Rychtowanie zokłodek na posku zokłodek, w myni zokłodek, abo we ôbranym katalogu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
