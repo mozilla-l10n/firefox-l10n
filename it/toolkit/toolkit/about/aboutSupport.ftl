@@ -14,6 +14,9 @@ extensions-name = Nome
 extensions-enabled = Attiva
 extensions-version = Versione
 extensions-id = ID
+support-addons-name = Nome
+support-addons-version = Versione
+support-addons-id = ID
 security-software-title = Software di sicurezza
 security-software-type = Tipo
 security-software-name = Nome
@@ -158,6 +161,7 @@ intl-regional-prefs = Impostazioni internazionali
 remote-debugging-title = Debug remoto (protocollo Chromium)
 remote-debugging-accepting-connections = Connessioni accettate
 remote-debugging-url = URL
+
 ##
 
 # Variables
