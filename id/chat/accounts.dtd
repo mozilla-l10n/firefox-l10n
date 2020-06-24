@@ -14,28 +14,28 @@
 <!ENTITY accountManager.close.label          "Tutup">
 <!ENTITY accountManager.close.accesskey      "u">
 <!-- This should match account.commandkey in instantbird.dtd -->
-<!ENTITY accountManager.close.commandkey     "t">
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Belum ada akun yang disiapkan">
-<!ENTITY accountManager.noAccount.description "Klik pada tombol &accountManager.newAccount.label; agar &brandShortName; memandu Anda melalui proses menatanya.">
+<!ENTITY accountManager.noAccount.description "Klik pada tombol &accountManager.newAccount.label; agar &brandShortName; memandu Anda melalui proses persiapannya.">
 <!ENTITY account.autoSignOn.label     "Masuk saat mulai">
-<!ENTITY account.autoSignOn.accesskey "p">
+<!ENTITY account.autoSignOn.accesskey "m">
 <!ENTITY account.connect.label        "Sambungkan">
-<!ENTITY account.connect.accesskey    "o">
-<!ENTITY account.disconnect.label     "Putus">
-<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.connect.accesskey    "s">
+<!ENTITY account.disconnect.label     "Putuskan">
+<!ENTITY account.disconnect.accesskey "p">
 <!ENTITY account.delete.label         "Hapus">
-<!ENTITY account.delete.accesskey     "S">
-<!ENTITY account.edit.label           "Keterangan">
+<!ENTITY account.delete.accesskey     "H">
+<!ENTITY account.edit.label           "Properti">
 <!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Geser ke atas">
 <!ENTITY account.movedown.label       "Geser ke bawah">
 <!ENTITY account.cancelReconnection.label         "Batalkan koneksi ulang">
-<!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.cancelReconnection.accesskey     "b">
 <!ENTITY account.copyDebugLog.label     "Salin Log Debug">
 <!ENTITY account.copyDebugLog.accesskey "e">
 <!ENTITY account.showDebugLog.label     "Tampilkan Log Debug">
-<!ENTITY account.showDebugLog.accesskey "H">
+<!ENTITY account.showDebugLog.accesskey "T">
 <!ENTITY account.connecting           "Menyambungkan…">
-<!ENTITY account.disconnecting        "Memutus…">
-<!ENTITY account.disconnected         "Tidak Terhubung">
+<!ENTITY account.disconnecting        "Memutuskan…">
+<!ENTITY account.disconnected         "Tidak Tersambung">
