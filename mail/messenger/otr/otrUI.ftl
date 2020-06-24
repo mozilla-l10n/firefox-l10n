@@ -8,6 +8,10 @@ auth-label = Identitu wašogo kontakta pśespytowaś
 reauth-label = Identitu wašogo kontakta znowego pśespytowaś
 auth-cancel = Pśetergnuś
 auth-cancelAccessKey = P
+auth-error = Pśi pśglědowanju identity wašogo kontakta jo zmólka nastała.
+auth-success = Pśeglědowanje identity wašogo kontakta jo se wuspěšnje dokóńcyło.
+auth-successThem = Waš kontakt jo wuspěšnje pśeglědał wašu identitu. Cośo snaź jogo identitu rowno tak pśeglědowaś, stajśo pótakem swójo pšašanje.
+auth-fail = Pśeglědowanje identity wašogo kontakta njejo se raźiło.
 finger-verify = Pśespytowaś
 finger-verify-accessKey = P
 # Do not translate 'OTR' (name of an encryption protocol)
