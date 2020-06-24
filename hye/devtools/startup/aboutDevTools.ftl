@@ -44,7 +44,7 @@ features-memory-title = Յիշողութիւն
 features-memory-desc = Գտէք յիշողութեան արտահոսքը եւ նուազեցրէք սարքի աւգտագործումը տուեալ յաւելուածի կողմից։ <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
 #   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
-newsletter-error-common = Բաժանորդագրման դիմումը ձախողուեց ({{ $errorDescription }})։
+newsletter-error-common = Բաժանորդագրման դիմումը ձախողուեց ({ $errorDescription })։
 newsletter-error-unknown = Անսպասելի սխալ է տեղի ունեցել։
 newsletter-error-timeout = Բաժանորդագրման դիմումն աւարտուել է։
 # Variables:
