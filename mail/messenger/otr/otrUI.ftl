@@ -33,6 +33,15 @@ finger-unseen = Identita kontakta { $name } hyšći njejo se pśeglědała. Pśi
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } was wót njespóznatego licadła kontaktěrujo. Pśipadne wótsłuchanje njejo móžne, ale z tšochu procu mógał něchten sobu słuchaś. Pśeglědajśo identitu kontakta, aby doglědowanjeju zajźował.
 state-not_private = Aktualna konwersacija njejo priwatna.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Aktualne rozgrono jo skoděrowane ale nic priwatne, dokulaž identita kontakta { $name } njejo se pśeglědała.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Identita kontakta { $name } jo se pśeglědała. Aktualne rozgrono jo skoděrowane a priwatne.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } jo skóńcył swójo skoděrowane rozgrono z wami; wy měł to teke cyniś.
 state-not_private-label = Njewěsty
 state-unverified-label = Njewobkšuśony
 state-private-label = Priwatny
