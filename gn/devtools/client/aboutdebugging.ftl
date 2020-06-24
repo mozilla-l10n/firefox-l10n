@@ -71,7 +71,7 @@ about-debugging-sidebar-support = Mopotĩha pytyvõha
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
-    .alt = Pytyvõrã ra'ãngachu'i
+    .alt = Pytyvõrã ra’ãngachu’i
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Embohekopyahu mba’e’oka
