@@ -71,7 +71,7 @@ protections-panel-site-not-working-view-issue-list-login-fields = Tembiapo ñepy
 protections-panel-site-not-working-view-issue-list-forms = Myañyhẽha
 protections-panel-site-not-working-view-issue-list-payments = Jehepume’ẽ
 protections-panel-site-not-working-view-issue-list-comments = Je'erei
-protections-panel-site-not-working-view-issue-list-videos = Ta'ãngamýi
+protections-panel-site-not-working-view-issue-list-videos = Ta’ãngamýi
 protections-panel-site-not-working-view-send-report = Emondo marandu’i
 
 ##
