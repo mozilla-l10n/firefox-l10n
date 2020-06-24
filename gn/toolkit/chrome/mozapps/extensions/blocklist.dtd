@@ -7,7 +7,7 @@
 <!ENTITY blocklist.summary           "&brandShortName; omoha'eñóma ko'ã moimbaha ojekuaaha apañuãi tekopyta ha tekorosã moñepyrũhárarõ:">
 <!ENTITY blocklist.softblocked       "Neñemo'ãrã, ikatueténte emoñepyrũjey ko'ã moĩmbaha oñemongepyréva ndive.">
 <!ENTITY blocklist.hardblocked       "Ko’ã moimbaha oguereko ijehe apañuãi tekoku’e térã tekorosã reheguáva, ha upéva rehe oñembotyetéma, hákatu oikotevẽ oñemoñepyrũjey oguepaitekuaa hag̃uáicha.">
-<!ENTITY blocklist.softandhard       "Umi moĩmbaha oguerekóva ijehe apañuãi tekopyta térã tekorosã reheguáva oñembotýma. Umi ambuéva sa'ive ikatu omoapañuãi, hákatu oñemombe'u ndéve emoñepyrũjeykuaaha hendivekuéra oñemonge jave.">
+<!ENTITY blocklist.softandhard       "Umi moĩmbaha oguerekóva ijehe apañuãi tekopyta térã tekorosã reheguáva oñembotýma. Umi ambuéva sa’ive ikatu omoapañuãi, hákatu oñemombe’u ndéve emoñepyrũjeykuaaha hendivekuéra oñemonge jave.">
 <!ENTITY blocklist.moreinfo          "Maranduve">
 
 <!ENTITY blocklist.accept.label      "&brandShortName; moñepyrũjey">

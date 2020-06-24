@@ -42,9 +42,9 @@
 <!ENTITY translation.showTranslation.button     "Ñe'ẽ'asa jehechauka">
 
 <!ENTITY translation.errorTranslating.label     "Oiko jejavy oñemoñe'ẽ'asávo ko kuatiarogue.">
-<!ENTITY translation.tryAgain.button            "Eha'ãjey">
+<!ENTITY translation.tryAgain.button            "Eha’ãjey">
 
-<!ENTITY translation.serviceUnavailable.label   "Ñe'ẽasa ndaikatúi ojejapo ko'ág̃aite. Ikatúpa reñeha'ã jey ág̃amie.">
+<!ENTITY translation.serviceUnavailable.label   "Ñe’ẽasa ndaikatúi ojejapo ko’ág̃aite. Ikatúpa reñeha’ã jey ág̃amie.">
 
 <!ENTITY translation.options.menu               "Jeporavorã">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
