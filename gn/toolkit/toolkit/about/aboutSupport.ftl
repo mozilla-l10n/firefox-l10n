@@ -79,7 +79,7 @@ user-js-description = Nemba'ete ñongatuha oguereko peteĩ <a data-l10n-name="us
 locked-key-prefs-title = Jerohoryvéva tuichamba'éva mbotypyre
 locked-prefs-name = Téra
 locked-prefs-value = Hepykue
-graphics-title = Ta'ãnga
+graphics-title = Ta’ãnga
 graphics-features-title = Reheguáva
 graphics-diagnostics-title = Jehechakuaaite
 graphics-failure-log-title = Ndaipóri jehaipy
@@ -212,13 +212,13 @@ text-copied = Moñe'ẽrã oñembohasáma kuatiajokohápe
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
-blocked-driver = Ojejokóva peteĩchaguápe g̃uarã ta'ãnga ñangarekohárape.
+blocked-driver = Ojejokóva peteĩchaguápe g̃uarã ta’ãnga ñangarekohárape.
 blocked-gfx-card = Ojejoko ikuatia'atã ha'ãngávape g̃uarã oguereko rupi apañuãi ñangarekoha omoĩporã'ỹva.
 blocked-os-version = Ojejokóva peteĩchaguápe g̃uarã nde apopyvusu oku’éva pegua.
 blocked-mismatched-version = Ojoko ha'ãnga ñangarekoha peteĩchagua oĩporã'ỹva jehaipy ha DLL pa'ũme.
 # Variables
 # $driverVersion - The graphics driver version string
-try-newer-driver = Ojejokóva peteĩchaguápe g̃uarã ta'ãnga ñangarekohárape. Eñeha'ã embohekopyahu pe ta'ãnga ñangarekohára { $driverVersion } ichaguáva térã ipyahuvévape.
+try-newer-driver = Ojejokóva peteĩchagua ta’ãngápe ñangarekohárape. Eñeha’ã embohekopyahu ta’ãnga ñangarekohára { $driverVersion } ichaguáva térã ipyahuvéva.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType ra'ãhaite
@@ -266,11 +266,11 @@ bug-link = javy { $bugNumber }
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Tysýi vai; ayvu jejavy { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = D3D11 Ta'ãngamýi Mbopapapy'oha
-d3d9video-crash-buard = D3D9 Ta'ãngamýi Mbopapapy'oha
-d3d9video-crash-guard = D3D9 Ta'ãngamýi Mbopapapy'oha
+d3d11video-crash-guard = D3D11 Ta’ãngamýi Mbopapapy’oha
+d3d9video-crash-buard = D3D9 Ta’ãngamýi Mbopapapy’oha
+d3d9video-crash-guard = D3D9 Ta’ãngamýi Mbopapapy’oha
 glcontext-crash-guard = OpenGL
-wmfvpxvideo-crash-guard = Ta'ãngamýi Mbopapapy'oha WMF VPX
+wmfvpxvideo-crash-guard = Ta’ãngamýi Mbopapapy’oha WMF VPX
 reset-on-next-restart = Embojevy moñepyrũjey uperire
 gpu-process-kill-button = GPU raperekogua mohu'ã
 gpu-device-reset = Emoñepyrũjey mba’e’oka
