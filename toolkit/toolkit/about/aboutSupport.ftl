@@ -16,6 +16,7 @@ extensions-version = ಆವೃತ್ತಿ
 extensions-id = ID
 support-addons-name = ಹೆಸರು
 support-addons-version = ಆವೃತ್ತಿ
+support-addons-id = ID
 features-title = { -brand-short-name } ವೈಶಿಷ್ಟ್ಯತೆಗಳು
 features-name = ಹೆಸರು
 features-version = ಆವೃತ್ತಿ
