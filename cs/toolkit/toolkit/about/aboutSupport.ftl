@@ -24,6 +24,7 @@ extensions-version = Verze
 extensions-id = ID
 support-addons-name = Název
 support-addons-version = Verze
+support-addons-id = ID
 security-software-title = Bezpečnostní software
 security-software-type = Typ
 security-software-name = Název
