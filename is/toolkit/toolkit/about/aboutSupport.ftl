@@ -4,7 +4,6 @@
 
 page-title = Upplýsingar fyrir úrræðaleit
 page-subtitle =   Þessi síða inniheldur tæknilegar upplýsingar sem gætu verið hjálplegar ef þú ert að reyna að leysa eitthvað vandamál. Ef þú ert að leita að svörum við algengum spurningum um { -brand-short-name }, athugaðu þá <a data-l10n-name="support-link">hjálparvefsvæðið okkar</a>.
-
 crashes-title = Hrunskýrslur
 crashes-id = Skýrslu auðkenni
 crashes-send-date = Sent
@@ -15,6 +14,9 @@ extensions-name = Nafn
 extensions-enabled = Virk
 extensions-version = Útgáfa
 extensions-id = Auðkenni
+support-addons-name = Nafn
+support-addons-version = Útgáfa
+support-addons-id = Auðkenni
 security-software-title = Öryggishugbúnaður
 security-software-type = Tegund
 security-software-name = Nafn
@@ -110,7 +112,6 @@ audio-backend = Hljóðkerfi
 max-audio-channels = Hámarksfjöldi rása
 channel-layout = Preferred Channel Layout
 sample-rate = Preferred Sample Rate
-
 media-title = Gögn
 media-output-devices-title = Útakstæki
 media-input-devices-title = Inntakstæki
@@ -145,6 +146,7 @@ intl-regional-prefs = Svæðisstillingar
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
@@ -154,7 +156,6 @@ report-crash-for-days =
         [one] Hrunskýrslur fyrir seinasta { $days } dag
        *[other] Hrunskýrslur fyrir seinustu { $days } daga
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -162,7 +163,6 @@ crashes-time-minutes =
         [one] { $minutes } mínútu síðan
        *[other] { $minutes } mínútum síðan
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -170,7 +170,6 @@ crashes-time-hours =
         [one] { $hours } klukkustund síðan
        *[other] { $hours } klukkustundum síðan
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -178,7 +177,6 @@ crashes-time-days =
         [one] { $days } degi síðan
        *[other] { $days } dögum síðan
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -186,7 +184,6 @@ pending-reports =
         [one] Allar hrunskýrslur (einnig { $reports } hrunskýrsla í vinnslu á gefnum tíma)
        *[other] Allar hrunskýrslur (einnig { $reports } hrunskýrslur í vinnslu á gefnum tíma)
     }
-
 raw-data-copied = Hrá gögn afrituð á klemmuspjald
 text-copied = Texti afritaður á klemmuspjald
 
@@ -199,11 +196,9 @@ blocked-mismatched-version = Útgáfumismunur á milli stýrisrkáar og DLL sem 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Lokað á fyrir þína útgáfu af skjárekli. Reyndu að uppfæra skjárekil yfir í útgáfu { $driverVersion } eða nýrri.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType breytur
-
 compositing = Samsetning
 hardware-h264 = H264 kóðun í vélbúnaði
 main-thread-no-omtc = aðalþráður, ekkert OMTC
@@ -218,7 +213,6 @@ virtual-monitor-disp = Sýndarskjár
 
 found = Fannst
 missing = Vantar
-
 gpu-process-pid = GPUVinnslaPid
 gpu-process = GPUVinnsla
 gpu-description = Lýsing
@@ -241,21 +235,17 @@ webgl2-version = WebGL 2 útgáfa rekils
 webgl2-driver-extensions = WebGL 2 reklaviðbætur
 webgl2-extensions = WebGL 2 viðbætur
 blocklisted-bug = Á svörtum lista vegna þekktra vandamál
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = villa { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Á svörtum lista; villukóði { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Vídeó afkóðari
 d3d9video-crash-buard = D3D9 Vídeó afkóðari
 d3d9video-crash-guard = D3D9 Vídeó afkóðari
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Endurstilla í næstu endurræsingu
 gpu-process-kill-button = Stöðva GPU ferli
 gpu-device-reset = Endurstilla tæki
@@ -265,10 +255,8 @@ content-uses-tiling = Notar flísar (innihald)
 off-main-thread-paint-enabled = Litun fyrir utan aðalþráð virkt
 off-main-thread-paint-worker-count = Fjöldi vinnsluþráða fyrir litun fyrir utan aðalþráð
 target-frame-rate = Markhraði ramma
-
 min-lib-versions = Bjóst við lágmarksútgáfu
 loaded-lib-versions = Útgáfa í notkun
-
 has-seccomp-bpf = Seccomp-BPF (System Call sía)
 has-seccomp-tsync = Seccomp Þráða samstilling
 has-user-namespaces = Nafnarými notanda
@@ -281,12 +269,10 @@ sandbox-proc-type-content = innihald
 sandbox-proc-type-file = innihald skráar
 sandbox-proc-type-media-plugin = miðils tengiforrit
 sandbox-proc-type-data-decoder = gagnaafkóðari
-
 launcher-process-status-0 = Virkt
 launcher-process-status-1 = Óvirkt vegna óhapps
 launcher-process-status-2 = Gert óvirkt með valdi
 launcher-process-status-unknown = Óþekkt staða
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -299,7 +285,6 @@ multi-process-status-6 = Gert óvirkt vegna texta inntaks sem er ekki með stuð
 multi-process-status-7 = Gert óvirkt af viðbótum
 multi-process-status-8 = Gert óvirkt með valdi
 multi-process-status-unknown = Óþekkt staða
-
 async-pan-zoom = Ósamstillt Færa/Þysja
 apz-none = ekkert
 wheel-enabled = músa skrunhjól virkt
