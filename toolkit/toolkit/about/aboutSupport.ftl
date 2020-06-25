@@ -16,6 +16,7 @@ extensions-version = সংস্করণ
 extensions-id = ID
 support-addons-name = নাম
 support-addons-version = সংস্করণ
+support-addons-id = ID
 security-software-title = নিরাপত্তার সফটওয়্যার
 security-software-type = ধরণ
 security-software-name = নাম
