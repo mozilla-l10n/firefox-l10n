@@ -255,6 +255,7 @@ cfr-whatsnew-better-pdf-body = PDF-dokumenty so nětko direktnje w { -brand-shor
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Waša priwatnosć je wažna. { -brand-short-name } nětko, hdyžkuli je móžno, partnerskej słužbje waše DNS-naprašowanja wěsće přenošuje, zo by was škitał, mjeztym zo přehladujeće.
 cfr-doorhanger-doh-header = Wjace wěstych zaklučowanych DNS-pytanjow
 cfr-doorhanger-doh-primary-button = W porjadku, sym zrozumił
     .accesskey = r
