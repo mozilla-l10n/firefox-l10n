@@ -16,6 +16,7 @@ extensions-version = Verseja
 extensions-id = ID
 support-addons-name = Nūsaukums
 support-addons-version = Verseja
+support-addons-id = ID
 security-software-title = Drūšeibas programmatura
 security-software-type = Tips
 security-software-name = Nūsaukums
