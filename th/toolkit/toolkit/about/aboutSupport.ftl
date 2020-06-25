@@ -16,6 +16,7 @@ extensions-version = รุ่น
 extensions-id = ID
 support-addons-name = ชื่อ
 support-addons-version = รุ่น
+support-addons-id = ID
 security-software-title = ซอฟต์แวร์ความปลอดภัย
 security-software-type = ชนิด
 security-software-name = ชื่อ
