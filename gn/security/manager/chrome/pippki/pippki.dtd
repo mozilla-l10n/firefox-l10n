@@ -5,9 +5,9 @@
 <!-- Values for changepassword.xhtml -->
 <!ENTITY setPassword.title  "Ñe'ẽñemi ha'etéva moambue">
 <!ENTITY setPassword.tokenName.label "Mba'e'oka tekorosãrã">
-<!ENTITY setPassword.oldPassword.label "Ñe'ëñemi agagua:">
-<!ENTITY setPassword.newPassword.label "Ñe'ëñemi pyahu:">
-<!ENTITY setPassword.reenterPassword.label "Ñe'ëñemi pyahu: (ñemoneï):">
+<!ENTITY setPassword.oldPassword.label "Ñe’ẽñemi ag̃agua:">
+<!ENTITY setPassword.newPassword.label "Ñe’ẽñemi pyahu:">
+<!ENTITY setPassword.reenterPassword.label "Ñe’ẽñemi pyahu: (ñemoneĩ):">
 <!ENTITY setPassword.meter.label "Ñe'ẽñemi rekoporã ra'ãha">
 
 <!-- Values for resetpassword.xhtml -->

@@ -11,9 +11,9 @@ change-password-window =
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Mba'e'oka tekorosãrã: { $tokenName }
-change-password-old = Ñe'ëñemi agagua:
-change-password-new = Ñe'ëñemi pyahu:
-change-password-reenter = Ñe'ëñemi pyahu: (ñemoneï):
+change-password-old = Ñe’ẽñemi ag̃agua:
+change-password-new = Ñe’ẽñemi pyahu:
+change-password-reenter = Ñe’ẽñemi pyahu: (ñemoneĩ):
 
 ## Reset Password dialog
 
