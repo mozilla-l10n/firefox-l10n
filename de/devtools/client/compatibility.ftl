@@ -5,6 +5,8 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-selected-element-header = Ausgewähltes Element
+compatibility-all-elements-header = Alle Probleme
 
 ## Message used as labels for the type of issue
 
@@ -35,3 +37,6 @@ compatibility-issue-occurrences =
         [one] { $number } Vorkommen
        *[other] { $number } Vorkommen
     }
+compatibility-no-issues-found = Keine Kompatibilitätsprobleme gefunden.
+compatibility-close-settings-button =
+    .title = Einstellungen schließen
