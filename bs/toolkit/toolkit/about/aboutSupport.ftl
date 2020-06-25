@@ -4,7 +4,6 @@
 
 page-title = Informacije za rješavanje problema
 page-subtitle = Ova stranica sadrži tehničke informacije koje vam mogu biti korisne kada pokušavate riješiti problem. Ukoliko tražite odgovore na često postavljena pitanja o { -brand-short-name }u, posjetite našu <a data-l10n-name="support-link">web stranicu za podršku</a>.
-
 crashes-title = Izvještaji o rušenju
 crashes-id = Izvještaj broj
 crashes-send-date = Poslano
@@ -15,6 +14,7 @@ extensions-name = Naziv
 extensions-enabled = Omogućen
 extensions-version = Verzija
 extensions-id = ID
+support-addons-id = ID
 security-software-title = Sigurnosni softver
 security-software-type = Tip
 security-software-name = Naziv
@@ -121,7 +121,6 @@ audio-backend = Audio Backend
 max-audio-channels = Max kanala
 channel-layout = Željeni raspored kanala
 sample-rate = Željeni sample rate
-
 media-title = Medij
 media-output-devices-title = Izlazni uređaji
 media-input-devices-title = Ulazni uređaji
@@ -137,8 +136,6 @@ media-device-latency = Kašnjenje
 media-capabilities-title = Mogućnosti medija
 # List all the entries of the database.
 media-capabilities-enumerate = Enumeriraj bazu podataka
-
-
 
 ##
 
@@ -165,8 +162,6 @@ remote-debugging-title = Udaljeno debagiranje (Chromium protokol)
 remote-debugging-accepting-connections = Prihvatanje veza
 remote-debugging-url = URL
 
-
-
 ##
 
 # Variables
@@ -177,7 +172,6 @@ report-crash-for-days =
         [few] Izvještaji o rušenju za proteklih { $days } dana
        *[other] Izvještaji o rušenju za proteklih { $days } dana
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -186,7 +180,6 @@ crashes-time-minutes =
         [few] Prije { $minutes } minuta
        *[other] Prije { $minutes } minuta
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -195,7 +188,6 @@ crashes-time-hours =
         [few] Prije { $hours } sati
        *[other] Prije { $hours } sati
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -204,7 +196,6 @@ crashes-time-days =
         [few] Prije { $days } dana
        *[other] Prije { $days } dana
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -213,7 +204,6 @@ pending-reports =
         [few] Svi izvještaji o rušenju (uključujući { $reports } neriješena rušenja u datom periodu)
        *[other] Svi izvještaji o rušenju (uključujući { $reports } neriješena rušenja u datom periodu)
     }
-
 raw-data-copied = Sirovi podaci kopirani na clipboard
 text-copied = Tekst kopiran na clipboard
 
@@ -226,11 +216,9 @@ blocked-mismatched-version = Blokiran jer se verzije drajvera vaše grafičke ka
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokirano za vašu verziju grafičkog drajvera. Pokušajte nadograditi vaš grafički drajvera na verziju { $driverVersion } ili noviju.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parametri
-
 compositing = Sastavljanje
 hardware-h264 = Hardversko H264 dekodiranje
 main-thread-no-omtc = glavna nit, bez OMTC
@@ -245,7 +233,6 @@ virtual-monitor-disp = Virtualni monitor
 
 found = Pronađeno
 missing = Nedostaje
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUPproces
 gpu-description = Opis
@@ -269,21 +256,17 @@ webgl2-version = WebGL 2 Driver verzija
 webgl2-driver-extensions = WebGL 2 Driver ekstenzije
 webgl2-extensions = WebGL 2 ekstenzije
 blocklisted-bug = Blokiran zbog poznatih problema
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokiran; kod neuspjeha { $failureCode }
-
 d3d11layers-crash-guard = D3D11 kompozitor
 d3d11video-crash-guard = D3D11 Video dekoder
 d3d9video-crash-buard = D3D9 Video dekoder
 d3d9video-crash-guard = D3D9 Video dekoder
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Resetuj vrijednosti kod sljedećeg restarta
 gpu-process-kill-button = Okončaj GPU procese
 gpu-device-reset = Reset uređaja
@@ -293,10 +276,8 @@ content-uses-tiling = Koristi tiling (sadržaj)
 off-main-thread-paint-enabled = Off Main Thread Painting omogućen
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker brojač
 target-frame-rate = Ciljni Frame Rate
-
 min-lib-versions = Očekivana minimalna verzija
 loaded-lib-versions = Verzija u upotrebi
-
 has-seccomp-bpf = Seccomp-BPF (filtriranje sistemskih poziva)
 has-seccomp-tsync = Seccomp Thread sinhronizacija
 has-user-namespaces = Korisnički namespace-i
@@ -309,12 +290,10 @@ sandbox-proc-type-content = sadržaj
 sandbox-proc-type-file = sadržaj fajla
 sandbox-proc-type-media-plugin = medijski plugin
 sandbox-proc-type-data-decoder = dekoder podataka
-
 launcher-process-status-0 = Omogućeno
 launcher-process-status-1 = Onemogućeno zbog kvara
 launcher-process-status-2 = Prisilno onemogućeno
 launcher-process-status-unknown = Nepoznat status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -327,7 +306,6 @@ multi-process-status-6 = Onemogućio nepodržani unos teksta
 multi-process-status-7 = Onemogućili add-oni
 multi-process-status-8 = Prisilno onemogućeno
 multi-process-status-unknown = Nepoznat status
-
 async-pan-zoom = Asinhrono pomicanje/uvećanje
 apz-none = ništa
 wheel-enabled = omogućen ulaz točkićem
