@@ -119,6 +119,7 @@ restart-in-safe-mode-label = เริ่มการทำงานใหม่
 clear-startup-cache-title = ลองล้างแคชเมื่อเริ่มการทำงาน
 clear-startup-cache-label = ล้างแคชเมื่อเริ่มการทำงาน…
 startup-cache-dialog-title = ล้างแคชเมื่อเริ่มการทำงาน
+restart-button-label = เริ่มการทำงานใหม่
 
 ## Media titles
 
