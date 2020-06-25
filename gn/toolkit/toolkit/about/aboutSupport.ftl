@@ -14,7 +14,10 @@ extensions-name = Téra
 extensions-enabled = Myandypyre
 extensions-version = Peteĩchagua
 extensions-id = ID
+support-addons-title = Moĩmbaha
 support-addons-name = Téra
+support-addons-type = Peteĩchagua
+support-addons-enabled = Myandypyre
 support-addons-version = Peteĩchagua
 support-addons-id = ID
 security-software-title = Tekorosãrã rembiaporape
@@ -74,6 +77,8 @@ show-dir-label =
         [windows] Ñongatuha ijurujáva
        *[other] Marandurenda'atýpe jeike
     }
+experimental-features-name = Téra
+experimental-features-value = Tepykue
 modified-key-prefs-title = Jerohoryvéva tuichamba'éva moambuepyre
 modified-prefs-name = Téra
 modified-prefs-value = Hepykue

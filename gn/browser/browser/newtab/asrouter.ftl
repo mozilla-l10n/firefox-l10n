@@ -241,3 +241,11 @@ cfr-whatsnew-protections-icon-alt = Jokoha ra’ãngachu’i
 
 cfr-whatsnew-better-pdf-header = Tembiapo porãve PDF-pe
 cfr-whatsnew-better-pdf-body = Kuatiakuéra PDF ko’ág̃a ijurujáma { -brand-short-name }-pe, péicha oreko hembiapo opavave ohupyty hag̃uáicha.
+
+## DOH Message
+
+cfr-doorhanger-doh-header = Jehekapy DNS hekorosã ha ipapapýva
+cfr-doorhanger-doh-primary-button = OK, Aikumbýma
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Pe’a
+    .accesskey = D
