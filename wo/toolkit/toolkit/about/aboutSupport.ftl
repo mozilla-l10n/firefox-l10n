@@ -7,7 +7,6 @@ page-subtitle =
     Xët wii dafa ëmb xibaari xarala yu la man a amal njariñ soo nekkee di jéem a
     saafara ag jafe-jafe. Soo bëggee ay tontu ci laaj yees gën di def
     ñeel { -brand-short-name }, xoolal sunu <a data-l10n-name="support-link">dalu jàpple</a>.
-
 crashes-title = Xibaari Taxaw
 crashes-id = ID bu xibaar bi
 crashes-send-date = Yónnees
@@ -18,6 +17,7 @@ extensions-name = Tur
 extensions-enabled = Doxalees
 extensions-version = Sumb
 extensions-id = ID
+support-addons-id = ID
 features-title = Soloy { -brand-short-name }
 features-name = Tur
 features-version = Sumb
@@ -98,7 +98,6 @@ audio-backend = Ndéggatu ginaaw bi
 max-audio-channels = Gën-gee-bari yoon
 channel-layout = Anamu yoon wi nga taamu
 sample-rate = Fréquence d’échantillonnage préférée
-
 media-title = Xibaarukaay
 media-output-devices-title = Jumtukaayu génn
 media-input-devices-title = Jumtukaayu dugg
@@ -114,6 +113,7 @@ media-device-latency = Yeexaay
 
 ##
 
+
 ## Remote Debugging
 ##
 ## The Firefox remote protocol provides low-level debugging interfaces
@@ -123,20 +123,18 @@ media-device-latency = Yeexaay
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } simili ci ginnaaw
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours } waxtu ci ginnaaw
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days } fan ci ginnaaw
-
 raw-data-copied = Xibaar yi ñu duppi ci dencandikaayu kayit bi
 text-copied = Mbind mi ñu duppi ci dencandikaayu kayit bi
 
@@ -149,11 +147,9 @@ blocked-mismatched-version = Bloqué pour la version de votre pilote graphique c
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Boloke sa sumb dawalkat garafik. Jéemal yeesal ci sumb { $driverVersion } walla bu gënë bees sa dawalkat.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parameetaru ClearType
-
 compositing = Tëgg
 hardware-h264 = Décodage matériel H264
 main-thread-no-omtc = Fil d’exécution principal, pas d’OMTC
@@ -166,7 +162,6 @@ no = Déet
 
 found = Gisees
 missing = Wuute
-
 gpu-description = Faramfàcce
 gpu-vendor-id = ID jaaykat bi
 gpu-device-id = ID Jumtukaay bi
@@ -187,28 +182,22 @@ webgl2-version = Sumbu Doxalukaay WebGL 2
 webgl2-driver-extensions = Lawali Doxalukaay WebGL 2
 webgl2-extensions = Lawali WebGL 2
 blocklisted-bug = Duggalees cib limu ñiñ téye ndax jafe-jafe yees xam
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bogue { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Mis sur liste de blocage ; code d’erreur { $failureCode }
-
 d3d11layers-crash-guard = Compositeur D3D11
 d3d11video-crash-guard = Décodeur vidéo D3D11
 d3d9video-crash-buard = Décodeur vidéo D3D9
 d3d9video-crash-guard = Décodeur vidéo D3D9
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Dooraat soo fay-taalaatee
 gpu-process-kill-button = Taxawal jëfiin gu GPU
 gpu-device-reset-button = Door tàmbaliwaatug jumtukaay bi
-
 min-lib-versions = Gën-gi-tuuti sumb bees yaakaar
 loaded-lib-versions = Sumb bi ñuy jëfandikoo
-
 has-seccomp-bpf = Seccomp-BPF (Filtrage des appels système)
 has-seccomp-tsync = Synchronisation du fil d’exécution Seccomp
 has-user-namespaces = Barabu turub jëfandikukat
@@ -219,7 +208,6 @@ content-sandbox-level = Niveau du bac à sable pour les processus de contenu
 effective-content-sandbox-level = Niveau effectif du bac à sable pour les processus de contenu
 sandbox-proc-type-content = ëmbéef
 sandbox-proc-type-media-plugin = lawal gu xibaarukaay
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -232,7 +220,6 @@ multi-process-status-6 = Anamu dugaliinu mbind gees nangul moo ko doxadil
 multi-process-status-7 = Lawal yee ko doxadil
 multi-process-status-8 = Doxadilees ak doole
 multi-process-status-unknown = Nekkiin gees xamul
-
 async-pan-zoom = Zoom/Panoramique asynchrones
 apz-none = lenn
 wheel-enabled = entrée molette activée
