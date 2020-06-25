@@ -4,7 +4,6 @@
 
 page-title = Kwedo bal me Ngec
 page-subtitle = Pot buk man tye ki ngec matek me tic cing ma pire twero bedo tek ka itye ka temo cobo peko. Ka ce itye kamoyo pi lagam me lapeny ma ngene ikom { -brand-short-name }, rot <a data-l10n-name="support-link">support web site</a>.
-
 crashes-title = Ripot me poto
 crashes-id = Cwal ngec me ID
 crashes-send-date = Kicwalo
@@ -15,6 +14,9 @@ extensions-name = Nying
 extensions-enabled = Matyero
 extensions-version = Cik
 extensions-id = ID
+support-addons-name = Nying
+support-addons-version = Cik
+support-addons-id = ID
 security-software-name = Nying
 features-title = Jami me { -brand-short-name }
 features-name = Nying
@@ -97,6 +99,7 @@ intl-locales-default = Leb makwongo
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
@@ -106,7 +109,6 @@ report-crash-for-days =
         [one] Ripot me poto pi nino { $days } mukato
        *[other] Ripot me poto pi nino { $days } mukato
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -114,7 +116,6 @@ crashes-time-minutes =
         [one] dakika { $minutes } angec
        *[other] dakika { $minutes } angec
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -122,7 +123,6 @@ crashes-time-hours =
         [one] cawa { $hours } angec
        *[other] cawa { $hours } angec
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -130,7 +130,6 @@ crashes-time-days =
         [one] nino { $days }angec
        *[other] nino { $days } angec
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -138,7 +137,6 @@ pending-reports =
         [one] Ripot me poto weng (medo ki poto { $reports } mapud tye i wang cawa ma kimiyo)
        *[other] Ripot me poto weng (medo ki poto { $reports } mapud tye i wang cawa ma kimiyo)
     }
-
 raw-data-copied = Kiloko data ma numu i bao coc
 text-copied = Kiloko coc i bao me coc
 
@@ -151,11 +149,9 @@ blocked-mismatched-version = Kigengo woko pi kit pa deriba me cal mamegi mape rw
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Gigengo woko pi kit ladwor cal mamegi. Tem keto ngec manyen iye ladwor cal mamegi i cik { $driverVersion } onyo manyen ne.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Paramita
-
 yes = Eyo
 no = Pe
 
@@ -165,7 +161,6 @@ no = Pe
 
 found = Kinongo
 missing = Pe tye
-
 gpu-description = Lok ikome
 gpu-vendor-id = ID pa Lacat
 gpu-device-id = ID me Jami tic
@@ -175,23 +170,18 @@ gpu-driver-version = Cik pa Deribwa
 gpu-driver-date = Nino dwe pa Deribwa
 gpu-active = Tye katic
 blocklisted-bug = Kigengo pi peki ma ki ngeyo
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bal { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Kigengo woko; kod me poto { $failureCode }
-
 d3d11video-crash-guard = Lagony Vidio D3D11
 d3d9video-crash-buard = Lagony Vidio D3D9
 d3d9video-crash-guard = Lagony Vidio D3D9
 glcontext-crash-guard = OpenGL
-
 min-lib-versions = Cik me gwoko cik mamite
 loaded-lib-versions = Gutye ka tic ki cik
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = Namespace pa lutic
@@ -199,7 +189,6 @@ has-privileged-user-namespaces = Namespace pa lutic pi twero me tic
 can-sandbox-content = Poko kin gin manonge iye program
 can-sandbox-media = Poko kin larwak me adyere
 sandbox-proc-type-content = jami
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -212,7 +201,6 @@ multi-process-status-6 = Coc ma pe kicwako aye ojuko
 multi-process-status-7 = Med-ikome aye ojuko
 multi-process-status-8 = Ki juko tektek
 multi-process-status-unknown = Tye ne pe ngene
-
 async-pan-zoom = Pan/Zoom mape time la kacel
 apz-none = pe tye
 wheel-enabled = kicako ket me wheel
