@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Šćit priwatnosći
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = K wašej rozpšawje priwatnosći pśejś
+appmenuitem-update-banner =
+    .label-update-downloading = Aktualizaciju { -brand-shorter-name } ześěgnuś
 appmenuitem-protection-dashboard-title = Pśeglěd šćitow
 appmenuitem-customize-mode =
     .label = Pśiměriś…
