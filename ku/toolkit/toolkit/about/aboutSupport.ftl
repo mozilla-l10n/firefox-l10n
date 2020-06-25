@@ -4,12 +4,13 @@
 
 page-title = Agahiyên Tamîrkirinê
 page-subtitle = Ev rûpel ji bo dema ku tu pirsgirêkekê çareser bikî ji te re bibe alîkar, agahiyên teknîkî dihewîne. Eger li bersiva PPP yên { -brand-short-name } digerî, li <a data-l10n-name="support-link">malpera desteka webê</a> binêre.
-
 crashes-id = ID'a Raporkirinê
 extensions-title = Pêvek
 extensions-name = Nav
 extensions-enabled = Çalak
 extensions-version = Guherto
+support-addons-name = Nav
+support-addons-version = Guherto
 app-basics-title = Bingehên Sepanê
 app-basics-name = Nav
 app-basics-version = Guherto
@@ -23,7 +24,9 @@ a11y-title = Gihîştin
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -34,7 +37,9 @@ a11y-title = Gihîştin
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
+
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -45,7 +50,6 @@ a11y-title = Gihîştin
 
 gpu-driver-version = Guhertoya Ajokarê
 gpu-driver-date = Dîroka Ajokarê
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
