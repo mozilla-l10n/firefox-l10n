@@ -109,7 +109,7 @@ newtab-menu-bookmark = Yaketal
 
 newtab-menu-copy-download-link = Tiwachib'ëx Ruximonel Qasanïk
 newtab-menu-go-to-download-page = Tib'e pa Ruxaq Qasanïk
-newtab-menu-remove-download = Tiyuj el pa Natab'äl
+newtab-menu-remove-download = Tiyuj pa Natab'äl
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file

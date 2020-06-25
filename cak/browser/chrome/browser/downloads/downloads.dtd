@@ -33,7 +33,7 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "T">
 <!ENTITY cmd.copyDownloadLink.label       "Tiwachib'ëx Ruximonel Qasanïk">
 <!ENTITY cmd.copyDownloadLink.accesskey   "r">
-<!ENTITY cmd.removeFromHistory.label      "Tiyuj el chupam ri natab'äl">
+<!ENTITY cmd.removeFromHistory.label      "Tiyuj Pa Natab'äl">
 <!ENTITY cmd.removeFromHistory.accesskey  "y">
 <!ENTITY cmd.clearList2.label             "Tiyuj nab'ey tz'ub'al pas">
 <!ENTITY cmd.clearList2.accesskey         "y">
