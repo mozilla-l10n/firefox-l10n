@@ -66,7 +66,7 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã emyandy hag̃ua koichagua.
 feature-disable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã emboguete hag̃ua koichagua.
-should-restart-title = Ñepyrüjey { -brand-short-name }
+should-restart-title = Ñepyrũjey { -brand-short-name }
 should-restart-ok = Emoñepyrũjey { -brand-short-name } ko'ág̃a
 cancel-no-restart-button = Heja
 restart-later = Emoñepyrũjey ag̃ave
