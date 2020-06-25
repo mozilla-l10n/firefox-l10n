@@ -193,6 +193,8 @@ cfr-doorhanger-cryptominers-heading = { -brand-short-name } نے اس صفحے �
 
 cfr-doorhanger-milestone-ok-button = تمام دیکھیں
     .accesskey = س
+cfr-doorhanger-milestone-close-button = بند کریں
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
