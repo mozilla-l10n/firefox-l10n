@@ -26,6 +26,18 @@ compatibility-feedback-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Ñemboheko
+compatibility-target-browsers-header = Kundahára g̃uahẽha
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } ñesẽrei
+       *[other] { $number } ñesẽreikuéra
+    }
+compatibility-no-issues-found = Ndaipóri apañuãi jokupytygua.
+compatibility-close-settings-button =
+    .title = Embogue ñemboheko
