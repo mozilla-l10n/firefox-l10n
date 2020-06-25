@@ -16,6 +16,7 @@ extensions-version = Phiên bản
 extensions-id = ID
 support-addons-name = Tên
 support-addons-version = Phiên bản
+support-addons-id = ID
 security-software-title = Phần mềm bảo mật
 security-software-type = Kiểu
 security-software-name = Tên
