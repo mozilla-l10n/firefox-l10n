@@ -19,6 +19,7 @@ extensions-version = Версія
 extensions-id = ID
 support-addons-name = Назва
 support-addons-version = Версія
+support-addons-id = ID
 security-software-title = Праграмы для бяспекі
 security-software-type = Тып
 security-software-name = Назва
