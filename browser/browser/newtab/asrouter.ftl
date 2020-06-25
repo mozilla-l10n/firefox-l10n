@@ -245,3 +245,12 @@ cfr-whatsnew-protections-icon-alt = Skjoldikon
 
 cfr-whatsnew-better-pdf-header = Bedre PDF-opplevelse
 cfr-whatsnew-better-pdf-body = PDF-dokumenter åpnes nå direkte i { -brand-short-name }, og holder arbeidsflyten innen samme program.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Ditt personvern betyr noe. { -brand-short-name } ruter nå dine DNS-forespørsler sikkert når det er mulig, til en partnertjeneste for å beskytte deg mens du surfer.
+cfr-doorhanger-doh-header = Sikker og kryptert DNS-oppslag
+cfr-doorhanger-doh-primary-button = OK, jeg skjønner
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Slå av
+    .accesskey = S

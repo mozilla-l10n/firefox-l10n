@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Personvernbeskyttelser
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Gå til personvernrapporten
+appmenuitem-update-banner =
+    .label-update-downloading = Last ned { -brand-shorter-name }-oppdatering
 appmenuitem-protection-dashboard-title = Sikkerhetsoversikt
 appmenuitem-customize-mode =
     .label = Tilpass …
