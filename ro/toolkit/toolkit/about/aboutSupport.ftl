@@ -17,6 +17,7 @@ extensions-name = Nume
 extensions-enabled = Activat
 extensions-version = Versiune
 extensions-id = ID
+support-addons-name = Nume
 security-software-title = Program de securitate
 security-software-type = Tip
 security-software-name = Nume
