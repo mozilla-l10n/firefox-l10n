@@ -8,7 +8,6 @@ password-quality-meter = Retanel rutzil ri ewan tzij
 
 change-password-window =
     .title = Tijal ajtij ewan tzij
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Okisaxel richin jikomal: { $tokenName }
@@ -22,7 +21,7 @@ reset-password-window =
     .title = Titzolïx ri ajtij ewan tzij
     .style = width: 40em
 reset-password-button-label =
-    .label = Titikirisäx chik
+    .label = Titzolïx
 reset-password-text = We natzolij ri ajtzij ewan atzij, xkeyujtäj el ri ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri ajtij ewan atzij?
 
 ## Downloading cert dialog

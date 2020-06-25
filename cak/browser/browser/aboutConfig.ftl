@@ -30,7 +30,7 @@ about-config-pref-add = Titz'aqatisäx
 about-config-pref-toggle = Tik'exlöx
 about-config-pref-edit = Tinuk'
 about-config-pref-save = Tiyak
-about-config-pref-reset = Titzolïx pe
+about-config-pref-reset = Titzolïx
 about-config-pref-delete = Tiyuj
 about-config-pref-add-button =
     .title = Titz'aqatisäx
@@ -41,7 +41,7 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = Tiyak
 about-config-pref-reset-button =
-    .title = Titzolïx pe
+    .title = Titzolïx
 about-config-pref-delete-button =
     .title = Tiyuj
 
