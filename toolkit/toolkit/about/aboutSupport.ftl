@@ -18,6 +18,7 @@ extensions-enabled = බලැති (Enabled)
 extensions-version = නිකුතුව
 extensions-id = ID
 support-addons-name = නම
+support-addons-version = නිකුතුව
 security-software-title = ආරක්ෂක මෘදුකාංග
 security-software-type = වර්ගය
 security-software-name = නම
