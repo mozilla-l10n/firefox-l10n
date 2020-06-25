@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Taɣellist n tbaḍnit
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Ddu ɣer uneqqis ɣef ummesten n tudert-ik tabadnit.
+appmenuitem-update-banner =
+    .label-update-downloading = Asider n lqem { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Ammesten n tfelwit n usenqed
 appmenuitem-customize-mode =
     .label = Sagen…
