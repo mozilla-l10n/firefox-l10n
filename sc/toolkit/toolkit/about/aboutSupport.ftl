@@ -5,6 +5,7 @@
 extensions-title = Agiuntas
 extensions-name = Nùmene
 extensions-enabled = Ativadu
+support-addons-name = Nùmene
 features-name = Nùmene
 app-basics-name = Nùmene
 modified-prefs-name = Nùmene
@@ -13,7 +14,9 @@ graphics-features-title = Caraterìsticas
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -23,6 +26,7 @@ graphics-features-title = Caraterìsticas
 ## and for subscribing to browser-internal events.
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
+
 
 ##
 
@@ -38,7 +42,6 @@ no = Nono
 ## not found.
 
 gpu-description = Descritzione
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
