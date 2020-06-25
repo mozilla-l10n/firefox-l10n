@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-encryption_required_part1 = Vous avez tenté d’envoyer un message non chiffré à { $name }. Les messages non chiffrés ne sont pas autorisés par votre configuration.
 msgevent-encryption_required_part2 = Tentative de démarrer une conversation privée. Votre message sera renvoyé au début de la conversation privée.
 msgevent-encryption_error = Une erreur s’est produite lors du chiffrement de votre message. Le message n’a pas été envoyé.
 # Variables:
