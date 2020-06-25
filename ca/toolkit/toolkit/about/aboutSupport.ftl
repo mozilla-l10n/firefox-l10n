@@ -4,7 +4,6 @@
 
 page-title = Informació de resolució de problemes
 page-subtitle = Aquesta pàgina conté informació tècnica que pot ser útil quan proveu de resoldre un problema. Si cerqueu respostes per a preguntes freqüents del { -brand-short-name }, visiteu el nostre <a data-l10n-name="support-link">lloc web d'assistència</a>.
-
 crashes-title = Informes de fallada
 crashes-id = Identificador de l'informe
 crashes-send-date = Data d'enviament
@@ -15,6 +14,9 @@ extensions-name = Nom
 extensions-enabled = Habilitada
 extensions-version = Versió
 extensions-id = ID
+support-addons-name = Nom
+support-addons-version = Versió
+support-addons-id = ID
 security-software-title = Programari de seguretat
 security-software-type = Tipus
 security-software-name = Nom
@@ -121,7 +123,6 @@ audio-backend = Sistema de fons d'àudio
 max-audio-channels = Nombre màxim de canals
 channel-layout = Disposició de canals preferida
 sample-rate = Freqüència de mostratge preferida
-
 media-title = Multimèdia
 media-output-devices-title = Dispositius de sortida
 media-input-devices-title = Dispositius d'entrada
@@ -135,8 +136,6 @@ media-device-channels = Canals
 media-device-rate = Freqüència
 media-device-latency = Latència
 media-capabilities-title = Capacitats multimèdia
-
-
 
 ##
 
@@ -161,8 +160,6 @@ intl-regional-prefs = Preferències regionals
 
 remote-debugging-url = URL
 
-
-
 ##
 
 # Variables
@@ -172,7 +169,6 @@ report-crash-for-days =
         [one] Informes de fallada de l'últim dia
        *[other] Informes de fallada dels últims { $days } dies
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -180,7 +176,6 @@ crashes-time-minutes =
         [one] Fa un minut
        *[other] Fa { $minutes } minuts
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -188,7 +183,6 @@ crashes-time-hours =
         [one] Fa una hora
        *[other] Fa { $hours } hores
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -196,7 +190,6 @@ crashes-time-days =
         [one] Fa un dia
        *[other] Fa { $days } dies
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -204,7 +197,6 @@ pending-reports =
         [one] Tots els informes de fallada (inclosa { $reports } fallada pendent dins el període de temps indicat)
        *[other] Tots els informes de fallada (incloses { $reports } fallades pendents dins el període de temps indicat)
     }
-
 raw-data-copied = Les dades sense processar s'han copiat al porta-retalls
 text-copied = S'ha copiat el text al porta-retalls
 
@@ -217,11 +209,9 @@ blocked-mismatched-version = Blocat per què no coincideixen les versions del co
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocat pel controlador gràfic. Proveu d'actualitzar-lo a la versió { $driverVersion } o posterior.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paràmetres ClearType
-
 compositing = Composició
 hardware-h264 = Descodificació H264 per maquinari
 main-thread-no-omtc = fil principal, sense OMTC
@@ -236,7 +226,6 @@ virtual-monitor-disp = Pantalla de monitor virtual
 
 found = S'ha trobat
 missing = Falta
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripció
@@ -252,27 +241,21 @@ gpu-active = Activa
 webgl1-extensions = Extensions WebGL 1
 webgl2-extensions = Extensions WebGL 2
 blocklisted-bug = És a la llista de bloquejos per problemes coneguts
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = error { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = És a la llista de bloquejos; codi d'error { $failureCode }
-
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de vídeo D3D11
 d3d9video-crash-buard = Descodificador de vídeo D3D9
 d3d9video-crash-guard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Reinicialitza als valors per defecte en el proper reinici
 gpu-process-kill-button = Finalitza el procés de GPU
-
 min-lib-versions = Versió mínima esperada
 loaded-lib-versions = Versió en ús
-
 has-seccomp-bpf = Seccomp-BPF (filtratge de crides del sistema)
 has-seccomp-tsync = Sincronització de fils Seccomp
 has-user-namespaces = Espais de noms de l'usuari
@@ -283,10 +266,8 @@ content-sandbox-level = Nivell de l'entorn de proves de processos de contingut
 effective-content-sandbox-level = Nivell de l'entorn de proves de processos de contingut efectiu
 sandbox-proc-type-content = contingut
 sandbox-proc-type-media-plugin = connector multimèdia
-
 launcher-process-status-0 = Activat
 launcher-process-status-1 = Desactivat a causa d'un error
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -299,7 +280,6 @@ multi-process-status-6 = Inhabilitat perquè l'entrada de text és incompatible
 multi-process-status-7 = Inhabilitat per part dels complements
 multi-process-status-8 = Inhabilitat de forma forçada
 multi-process-status-unknown = Estat desconegut
-
 async-pan-zoom = Pan/Zoom asíncrons
 apz-none = cap
 wheel-enabled = entrada amb roda activada
