@@ -14,6 +14,7 @@ extensions-name = Adı
 extensions-enabled = Etkin mi?
 extensions-version = Sürüm
 extensions-id = Kimlik
+support-addons-id = Kimlik
 security-software-title = Güvenlik yazılımları
 security-software-type = Türü
 security-software-name = Adı
