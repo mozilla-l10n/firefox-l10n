@@ -30,6 +30,13 @@ compatibility-target-browsers-header = 目标浏览器
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+       *[other] 遇到 { $number } 个
+    }
 compatibility-no-issues-found = 未发现兼容性问题。
 compatibility-close-settings-button =
     .title = 关闭设置
