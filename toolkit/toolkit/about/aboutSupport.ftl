@@ -4,11 +4,12 @@
 
 page-title = Tshedimošo ya go rarolla mathata
 page-subtitle = Letlakala le le na le tshedimošo ya setegniki yeo e ka bago le mohola ge o leka go rarolla bothata. Ge e ba o nyaka dikarabo tša dipotšišo tše tlwaelegilego ka ga { -brand-short-name }, lebelela wepesaete ya rena ya  <a data-l10n-name="support-link"> ya thekgo</a>.
-
 extensions-title = Dikoketšo
 extensions-name = Leina
 extensions-enabled = Kgontšha
 extensions-version = Tokollo
+support-addons-name = Leina
+support-addons-version = Tokollo
 app-basics-title = Metheo ya tirišo
 app-basics-name = Leina
 app-basics-version = Tokollo
@@ -38,7 +39,9 @@ copy-raw-data-to-clipboard-label = Kopiša tsebišo e sa tswakwago go lenaneo-po
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -48,6 +51,7 @@ copy-raw-data-to-clipboard-label = Kopiša tsebišo e sa tswakwago go lenaneo-po
 ## and for subscribing to browser-internal events.
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
+
 
 ##
 
@@ -62,7 +66,6 @@ blocked-os-version = E thibetšwe bakeng sa tokollo ya gago ya tshepedišo ya ti
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = E thibetšwe go mootledi wa gago wa diswantšho. Leka go mpshafatša mootledi wa gago wa diswantšho gore e be tokollo ya { $driverVersion } goba e mpsha.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Dipharametara tša ClearType
@@ -75,10 +78,8 @@ gpu-vendor-id = ID ya morekiši
 gpu-device-id = ID ya sedirišwa
 gpu-driver-version = Tokollo ya mootledi
 gpu-driver-date = Letšatšikgwedi la mootledi
-
 min-lib-versions = Tokollo e nyenyane e letetšwego
 loaded-lib-versions = Tokollo e dirišwago
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
