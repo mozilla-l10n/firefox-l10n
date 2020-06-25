@@ -16,6 +16,7 @@ extensions-version = Peteĩchagua
 extensions-id = ID
 support-addons-name = Téra
 support-addons-version = Peteĩchagua
+support-addons-id = ID
 security-software-title = Tekorosãrã rembiaporape
 security-software-type = Peteĩchagua
 security-software-name = Téra
