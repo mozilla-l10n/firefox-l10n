@@ -4,13 +4,14 @@
 
 page-title = Maelezo ya Usuluhishaji
 page-subtitle = Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia kuhusu { -brand-short-name }, kagua kiungo chetu <a data-l10n-name="support-link">wavuti wa usaidizi</a>.
-
 crashes-id = Kitambulishi Ripoti
 crashes-send-date = Imewasilishwa
 extensions-title = Viendelezi
 extensions-name = Jina
 extensions-enabled = Imewezeshwa
 extensions-version = Toleo
+support-addons-name = Jina
+support-addons-version = Toleo
 app-basics-title = Misingi ya Programu
 app-basics-name = Jina
 app-basics-version = Toleo
@@ -39,7 +40,9 @@ copy-raw-data-to-clipboard-label = Nakili data ghafi kwa ubao
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -49,6 +52,7 @@ copy-raw-data-to-clipboard-label = Nakili data ghafi kwa ubao
 ## and for subscribing to browser-internal events.
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
+
 
 ##
 
@@ -63,7 +67,6 @@ blocked-os-version = Imezuiliowa kwa toleo la mfumo wako wa uendeshaji.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Imezuiliwa kwenye viendeshaji vya sanaa. Jaribu kusasaisha viendelezi vyako vya sanaa kwa toleo { $driverVersion } au mpya zaidi.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Ondoa Aina ya Paramita
@@ -76,10 +79,8 @@ gpu-vendor-id = Kitambulishi cha Muuzaji
 gpu-device-id = ID ya Kifaa
 gpu-driver-version = Toleo la Kiendelezi
 gpu-driver-date = Tarehe ya Kiendelezi
-
 min-lib-versions = Toleo la chini lililotarajiwa
 loaded-lib-versions = Toleo linalotumika
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
