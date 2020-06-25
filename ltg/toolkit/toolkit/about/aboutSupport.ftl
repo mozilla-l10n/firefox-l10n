@@ -4,7 +4,6 @@
 
 page-title = Problemu nūvieršonys informaceja
 page-subtitle = Itei lopa satur tehnisku informaceju, kas var byut nūdereiga, raugūt nūvierst problemu. Nui meklejit atbiļdis iz vīnkuoršym vaicuojumym par { -brand-short-name }, apsaverit myusu <a data-l10n-name="support-link">pabolsta sātys lopu</a>.
-
 crashes-title = Avarejis ziņuojumi
 crashes-id = Ziņuojuma ID
 crashes-send-date = Nūsyuteits
@@ -15,6 +14,8 @@ extensions-name = Nūsaukums
 extensions-enabled = Īslāgts
 extensions-version = Verseja
 extensions-id = ID
+support-addons-name = Nūsaukums
+support-addons-version = Verseja
 security-software-title = Drūšeibas programmatura
 security-software-type = Tips
 security-software-name = Nūsaukums
@@ -103,7 +104,6 @@ audio-backend = Skanis Backend
 max-audio-channels = Max Channels
 channel-layout = Preferred Channel Layout
 sample-rate = Preferred Sample Rate
-
 media-title = Multimedejis
 media-output-devices-title = Izvades īrīces
 media-input-devices-title = Īvodes īrīces
@@ -138,6 +138,7 @@ intl-regional-prefs = Reģionalī īstatiejumi
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
@@ -148,7 +149,6 @@ report-crash-for-days =
         [one] Piedejū { $days } dīnu avarejis ziņuojumi
        *[other] Piedejū { $days } dīnu avarejis ziņuojumi
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -157,7 +157,6 @@ crashes-time-minutes =
         [one] pyrms { $minutes } mynotom
        *[other] pyrms { $minutes } mynotom
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -166,7 +165,6 @@ crashes-time-hours =
         [one] pyrms { $hours } stunžom
        *[other] pyrms { $hours } stunžom
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -175,7 +173,6 @@ crashes-time-days =
         [one] pyrms { $days } dīnys
        *[other] pyrms { $days } dīnom
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -184,7 +181,6 @@ pending-reports =
         [one] Vysi avarejis ziņuojumi (īskaitūt { $reports } nanūsyuteitus avarejis zinuojumus nūruodeitajā laika intervalā)
        *[other] Vysi avarejis ziņuojumi (īskaitūt { $reports } nanūsyuteitus avarejis zinuojumus nūruodeitajā laika intervalā)
     }
-
 raw-data-copied = Dati nūkopeiti atmiņā
 text-copied = Teksts nūkopeits atmiņā
 
@@ -197,11 +193,9 @@ blocked-mismatched-version = Blocked for your graphics driver version mismatch b
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokeits jiusu videokartei. Raugit atjaunynuot videokartes draiveri iz verseju { $driverVersion } voi jaunuoku.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametri
-
 compositing = Compositing
 hardware-h264 = Aparaturys H264 kodeišona
 main-thread-no-omtc = main thread, no OMTC
@@ -214,7 +208,6 @@ no = Nā
 
 found = Atrosts
 missing = Tryukst
-
 gpu-description = Aproksts
 gpu-vendor-id = Ražuotuoja ID
 gpu-device-id = Īrīces ID
@@ -235,21 +228,17 @@ webgl2-version = WebGL 2 draivera verseja
 webgl2-driver-extensions = WebGL 2 draivera palošynuojumi
 webgl2-extensions = WebGL 2 palošynuojumi
 blocklisted-bug = Blocklisted due to known issues
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = klaida { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokeits; klaidys kods { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Reset on Next Restart
 gpu-process-kill-button = Puortraukt GPU procesu
 gpu-device-reset-button = Trigger Device Reset
@@ -257,10 +246,8 @@ uses-tiling = Izmontoj grupiešonu
 content-uses-tiling = Izmontoj viersrakstōšōnu Tiling (saturs)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Na golvanajā pavedīnī zeimejušū Workers skaits
-
 min-lib-versions = Gaideituo minimaluo verseja
 loaded-lib-versions = Izmontuotuo verseja
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp pavedīni sinhronizeišona
 has-user-namespaces = Lītuotuoju vuordtelpys
@@ -272,7 +259,6 @@ effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = saturs
 sandbox-proc-type-file = faila saturs
 sandbox-proc-type-media-plugin = multivides spraudnis
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -285,7 +271,6 @@ multi-process-status-6 = Deaktiveits naatbaļsteita teksta īvodes dieļ
 multi-process-status-7 = Papyldynuojumu deaktiveits
 multi-process-status-8 = Deaktiveits pīspīdu kuortā
 multi-process-status-unknown = Nazynuoms statuss
-
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = nav
 wheel-enabled = wheel input enabled
