@@ -16,6 +16,7 @@ extensions-version = Verscion
 extensions-id = ID
 support-addons-name = Nomme
 support-addons-version = Verscion
+support-addons-id = ID
 security-software-title = Software de Seguessa
 security-software-type = Tipo
 security-software-name = Nomme
