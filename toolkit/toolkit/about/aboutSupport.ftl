@@ -4,7 +4,6 @@
 
 page-title = Inligting vir probleemoplossing
 page-subtitle = Hierdie bladsy bevat tegniese inligting wat nuttig kan wees wanneer u 'n probleem probeer oplos. Indien u soek vir antwoorde op algemene vrae oor { -brand-short-name }, besoek gerus ons <a data-l10n-name="support-link">steunwerf</a>.
-
 crashes-title = Omvalverslae
 crashes-id = Verslag-ID
 crashes-send-date = Ingedien
@@ -15,6 +14,8 @@ extensions-name = Naam
 extensions-enabled = Geaktiveer
 extensions-version = Weergawe
 extensions-id = ID
+support-addons-name = Naam
+support-addons-version = Weergawe
 features-name = Naam
 features-version = Weergawe
 features-id = ID
@@ -68,7 +69,9 @@ restart-in-safe-mode-label = Herbegin met byvoegings gedeaktiveer…
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -79,6 +82,7 @@ restart-in-safe-mode-label = Herbegin met byvoegings gedeaktiveer…
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
@@ -88,7 +92,6 @@ report-crash-for-days =
         [one] Omvalverslae vir die afgelope { $days } dag
        *[other] Omvalverslae vir die afgelope { $days } dae
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -96,7 +99,6 @@ crashes-time-minutes =
         [one] { $minutes } minuut gelede
        *[other] { $minutes } minute gelede
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -104,7 +106,6 @@ crashes-time-hours =
         [one] { $hours } uur gelede
        *[other] { $hours } ure gelede
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -112,7 +113,6 @@ crashes-time-days =
         [one] { $days } dag gelede
        *[other] { $days } dae gelede
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -120,7 +120,6 @@ pending-reports =
         [one] Alle omvalverslae (insluitend { $reports } uitstaande omval in die gegewe tydperk)
        *[other] Alle omvalverslae (insluitend { $reports } uitstaande omvalle in die gegewe tydperk)
     }
-
 raw-data-copied = Rou data na die knipbord gekopieer
 text-copied = Teks na die knipbord gekopieer
 
@@ -132,7 +131,6 @@ blocked-os-version = Geblokkeer vir die weergawe van die bedryfstelsel.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Geblokkeer vir die weergawe van die grafikadrywer. Werk die grafikadrywer by na weergawe { $driverVersion } of jonger.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parameters
@@ -145,19 +143,14 @@ gpu-vendor-id = Verkoper-ID
 gpu-device-id = Toestel-ID
 gpu-driver-version = Drywer-weergawe
 gpu-driver-date = Drywer-datum
-
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Stel terug met volgende herbegin
-
 min-lib-versions = Verwagte minimumweergawe
 loaded-lib-versions = Weergawe wat gebruik word
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = Asinkroniese pan/zoem
 
 ## Variables
