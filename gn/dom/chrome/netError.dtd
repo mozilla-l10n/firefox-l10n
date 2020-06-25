@@ -41,7 +41,9 @@
 <!ENTITY contentEncodingError.longDesc "<p>Ko kuatiarogue eñeha’ãva ehecha ndojehechaukakuaái ndaikatúi rupi ojehechajey añeteguávapa mba’ekuaarã õguahẽva.</p><ul><li>Eñe’ẽ ñanduti renda jára ndive emombe’u hag̃ua chupekuéra ko apañuãi guasu rehegua.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Koichagua marandurenda hekorosã'ỹva">
-<!ENTITY unsafeContentType.longDesc "<ul>  <li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>Eñe’ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi.</li>
+</ul>">
 
 <!ENTITY netReset.title "Jeike osóva">
 <!ENTITY netReset.longDesc "<p>Pe joajuha ñanduti ndivegua ojejoko sapy'a ojeheka aja jey pe jeikekatu. Eha'ã jey.</p>">
@@ -83,7 +85,7 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Kuatiarogue eñeha’ãva ehecha ndojehechaukakuaái ojejuhu rupi peteĩ jejavy mba’ekuaarã ñembohasakuévo.</p><ul><li>Eñe’ẽ umi ñanduti renda jára ndive emombe’u hag̃ua chupekuéra ko apañuãi rehegua.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL okaygua">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi rehegua.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Eñe’ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi rehegua.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Nde jeike ndahekokatúi">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
