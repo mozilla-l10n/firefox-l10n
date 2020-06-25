@@ -14,6 +14,7 @@ extensions-name = Naziv
 extensions-enabled = Omogućen
 extensions-version = Verzija
 extensions-id = ID
+support-addons-name = Naziv
 support-addons-version = Verzija
 support-addons-id = ID
 security-software-title = Sigurnosni softver
