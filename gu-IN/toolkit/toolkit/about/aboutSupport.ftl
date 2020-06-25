@@ -4,7 +4,6 @@
 
 page-title = મુશ્કેલીનિવારણ જાણકારી
 page-subtitle = આ પાનું ટૅકનિકલ જાણકારીને સમાવે છે કે જે ઉપયોગી થઇ શકે છે જ્યારે તમે સમસ્યાનો ઉકેલ લાવવાનો પ્રયત્ન કરી રહ્યા હોય. જો તમે { -brand-short-name } વિશે સામાન્ય પ્રશ્ર્નોનાં જવાબો જોઇ રહ્યા હોય, અમારી <a data-l10n-name="support-link">આધાર વેબ સાઇટ</a> ને ચકાસો.
-
 crashes-title = ભંગાણ અહેવાલો
 crashes-id = અહેવાલ ઓળખ
 crashes-send-date = જમા થયેલ
@@ -15,6 +14,9 @@ extensions-name = નામ
 extensions-enabled = સક્રિય થયેલ
 extensions-version = આવૃત્તિ
 extensions-id = ID
+support-addons-name = નામ
+support-addons-version = આવૃત્તિ
+support-addons-id = ID
 security-software-title = સુરક્ષા સૉફ્ટવેર
 security-software-type = પ્રકાર
 security-software-name = નામ
@@ -110,7 +112,6 @@ audio-backend = ઑડિઓ બેકએન્ડ
 max-audio-channels = મહત્તમ ચૅનલ્સ
 channel-layout = મનપસંદ ચેનલ લેઆઉટ
 sample-rate = મનપસંદ નમૂના દર
-
 media-title = મીડિયા
 media-output-devices-title = આઉટપુટ ઉપકરણો
 media-input-devices-title = ઇનપુટ ઉપકરણો
@@ -145,6 +146,7 @@ intl-regional-prefs = ક્ષેત્રીય પસંદગીઓ
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
@@ -154,7 +156,6 @@ report-crash-for-days =
         [one] છેલ્લા { $days } દિવસનો ભંગાણ અહેવાલ
        *[other] છેલ્લા { $days } દિવસોના ભંગાણ અહેવાલો
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -162,7 +163,6 @@ crashes-time-minutes =
         [one] { $minutes } મિનિટ અગાઉ
        *[other] { $minutes } મિનિટો અગાઉ
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -170,7 +170,6 @@ crashes-time-hours =
         [one] { $hours } કલાક અગાઉ
        *[other] { $hours } કલાકો અગાઉ
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -178,7 +177,6 @@ crashes-time-days =
         [one] { $days } દિવસ અગાઉ
        *[other] { $days } દિવસો અગાઉ
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -186,7 +184,6 @@ pending-reports =
         [one] બધા ભંગાણ અહેવાલો (આપેલી સમય મર્યાદામાં { $reports } બાકી ભંગાણને સમાવીને)
        *[other] બધા ભંગાણ અહેવાલો (આપેલી સમય મર્યાદામાં { $reports } બાકી ભંગાણોને સમાવીને)
     }
-
 raw-data-copied = ક્લિપબોર્ડમાં નકલ થયેલ કાચી માહિતી
 text-copied = ક્લિપબોર્ડમાં નકલ થયેલ લખાણ
 
@@ -199,11 +196,9 @@ blocked-mismatched-version = રજિસ્ટ્રી અને DLL વચ્
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = તમારી ગ્રાફિક્સ ડ્રાઇવર આવૃત્તિ માટે બ્લોક થયેલ છે. આવૃત્તિ { $driverVersion } અથવા નવા માટે તમારા ગ્રાફિક્સ ડ્રાઇવરને સુધારવાનો પ્રયત્ન કરો.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType પરિમાણો
-
 compositing = સંમિશ્રણ
 hardware-h264 = હાર્ડવેર H264 ડિકોડિંગ
 main-thread-no-omtc = મુખ્ય થ્રેડ, કોઈ OMTC નથી
@@ -218,7 +213,6 @@ virtual-monitor-disp = વર્ચ્યુઅલ મોનિટર ડિસ�
 
 found = મળ્યું
 missing = અનુપલબ્ધ
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = વર્ણન
@@ -241,21 +235,17 @@ webgl2-version = WebGL 2 ડ્રાઈવર સંસ્કરણ
 webgl2-driver-extensions = WebGL 2 ડ્રાઈવર એક્સ્ટેન્શન્સ
 webgl2-extensions = WebGL 2 એક્સ્ટેન્શન્સ
 blocklisted-bug = જાણીતા મુદ્દાઓના કારણે અવરોધિત સૂચિ માં છે
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = ભૂલ { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = અવરોધિત સૂચિ કરેલ; નિષ્ફળતા કોડ { $failureCode }
-
 d3d11layers-crash-guard = D3D11 કંપોઝિટર
 d3d11video-crash-guard = D3D11 વિડીયો ડિકોડર
 d3d9video-crash-buard = D3D9 વિડીયો ડીકોડર
 d3d9video-crash-guard = D3D9 વિડીયો ડીકોડર
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = આગલું પુનઃપ્રારંભ કરો પર ફરીથી સેટ કરો
 gpu-process-kill-button = GPU પ્રક્રિયા સમાપ્ત કરો
 gpu-device-reset = ઉપકરણ ફરીથી સેટ કરો
@@ -265,10 +255,8 @@ content-uses-tiling = ટાઇલિંગનો ઉપયોગ (સામગ�
 off-main-thread-paint-enabled = બંધ મુખ્ય થ્રેડ પેઈન્ટીંગ સક્ષમ
 off-main-thread-paint-worker-count = મુખ્ય થ્રેડ પેઈન્ટીંગ કામદાર ગણક બંધ
 target-frame-rate = લક્ષ્ય ફ્રેમ દર
-
 min-lib-versions = ઇચ્છિત ન્યૂનત્તમ આવૃત્તિ
 loaded-lib-versions = વપરાશમાં આવૃત્તિ
-
 has-seccomp-bpf = Seccomp-BPF (સિસ્ટમ કૉલ ફિલ્ટરિંગ)
 has-seccomp-tsync = Seccomp થ્રેડ સુમેળ
 has-user-namespaces = વપરાશકર્તા નામસ્થળ
@@ -281,12 +269,10 @@ sandbox-proc-type-content = સામગ્રી
 sandbox-proc-type-file = ફાઇલ સામગ્રી
 sandbox-proc-type-media-plugin = મીડિયા પ્લગઇન
 sandbox-proc-type-data-decoder = માહિતી ડીકોડર
-
 launcher-process-status-0 = સક્રિય
 launcher-process-status-1 = નિષ્ફળતાને કારણે નિષ્ક્રિય
 launcher-process-status-2 = બળજબરીથી અક્ષમ
 launcher-process-status-unknown = અજ્ઞાત સ્થિતિ
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -299,7 +285,6 @@ multi-process-status-6 = અસમર્થિત ટેક્સ્ટ ઇન�
 multi-process-status-7 = એડ-ઑન્સ દ્વારા અક્ષમ
 multi-process-status-8 = બળજબરીથી અક્ષમ
 multi-process-status-unknown = અજ્ઞાત સ્થિતિ
-
 async-pan-zoom = અસુમેળ પૈન/Zoom
 apz-none = કંઈ નહીં
 wheel-enabled = વ્હીલ ઇનપુટ સક્ષમ
