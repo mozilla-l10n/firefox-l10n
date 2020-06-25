@@ -129,6 +129,7 @@ onboarding-send-tabs-text = ‏Send Tabs משתף באופן מיידי דפים
 # tab's context menu.
 onboarding-send-tabs-text2 = שיתוף פשוט של דפים בין המכשירים שלך מבלי להעתיק את הקישורים או לעזוב את הדפדפן.
 onboarding-send-tabs-button = התחלת שימוש ב־Send Tabs
+onboarding-pocket-anywhere-text2 = ניתן לשמור את התכנים המועדפים עליך באופן לא מקוון עם { -pocket-brand-name } ולקרוא, לשמוע ולצפות בהם מתי שנוח לך.
 onboarding-pocket-anywhere-button = לנסות את { -pocket-brand-name }
 onboarding-lockwise-passwords-title = לקחת את הססמאות שלך לכל מקום
 onboarding-lockwise-passwords-button2 = הורדת היישומון
