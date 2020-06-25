@@ -219,3 +219,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = پکچر-ان-پکچر آئیکن
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = بہتر پی ڈی ایف کا تجربہ
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = ٹھیک ہے مجھے سمجھ آگئی ہے
+    .accesskey = O
