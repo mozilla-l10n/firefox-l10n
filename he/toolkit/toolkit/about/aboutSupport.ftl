@@ -17,6 +17,7 @@ extensions-name = שם
 extensions-enabled = מאופשר
 extensions-version = גרסה
 extensions-id = מזהה
+support-addons-name = שם
 support-addons-version = גרסה
 support-addons-id = מזהה
 security-software-title = תוכנת אבטחה
