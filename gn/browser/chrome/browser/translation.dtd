@@ -13,11 +13,11 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 <!ENTITY translation.thisPageIsIn.label         "Ko kuatiarogue oĩ amo">
-<!ENTITY translation.translateThisPage.label    "¿Ko kuatiarogue ñe'ẽ'asa?">
-<!ENTITY translation.translate.button           "Ñe'ẽasa">
+<!ENTITY translation.translateThisPage.label    "¿Ko kuatiarogue ñe’ẽ’asa?">
+<!ENTITY translation.translate.button           "Ñe’ẽasa">
 <!ENTITY translation.notNow.button              "Ani ko'ág̃a">
 
-<!ENTITY translation.translatingContent.label   "Emoñe'ẽ'asa kuatiarogue ryepy pegua…">
+<!ENTITY translation.translatingContent.label   "Emoñe’ẽ’asa kuatiarogue ryepy pegua…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -34,17 +34,17 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-<!ENTITY translation.translatedFrom.label       "Ko kuatiarogue oñemoñe'ẽasa gui">
+<!ENTITY translation.translatedFrom.label       "Ko kuatiarogue oñemoñe’ẽaságui">
 <!ENTITY translation.translatedTo.label         "a">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Teñoiha jehechauka">
-<!ENTITY translation.showTranslation.button     "Ñe'ẽ'asa jehechauka">
+<!ENTITY translation.showTranslation.button     "Ñe’ẽ’asa jehechauka">
 
-<!ENTITY translation.errorTranslating.label     "Oiko jejavy oñemoñe'ẽ'asávo ko kuatiarogue.">
+<!ENTITY translation.errorTranslating.label     "Oiko jejavy oñemoñe’ẽ’asávo ko kuatiarogue.">
 <!ENTITY translation.tryAgain.button            "Eha’ãjey">
 
-<!ENTITY translation.serviceUnavailable.label   "Ñe’ẽasa ndaikatúi ojejapo ko’ág̃aite. Ikatúpa reñeha’ã jey ág̃amie.">
+<!ENTITY translation.serviceUnavailable.label   "Ñe’ẽasa ndaikatúi ojejapo ko’ág̃aite. Ikatúpa reñeha’ã jey ag̃amie.">
 
 <!ENTITY translation.options.menu               "Jeporavorã">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -54,7 +54,7 @@
   -->
 <!ENTITY translation.options.neverForSite.label "Araka’eve ani emo’ñe’ẽasa ko tenda">
 <!ENTITY translation.options.neverForSite.accesskey "e">
-<!ENTITY translation.options.preferences.label  "Ñe'ẽasa jerohoryvéva">
+<!ENTITY translation.options.preferences.label  "Ñe’ẽasa jerohoryvéva">
 <!ENTITY translation.options.preferences.accesskey "T">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -62,7 +62,7 @@
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
-<!ENTITY translation.options.attribution.beforeLogo "Omoñe'ẽasaha">
+<!ENTITY translation.options.attribution.beforeLogo "Omoñe’ẽasaha">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
