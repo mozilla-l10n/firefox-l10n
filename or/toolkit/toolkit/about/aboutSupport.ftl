@@ -16,6 +16,7 @@ extensions-version = ସଂସ୍କରଣ
 extensions-id = ID
 support-addons-name = ନାମ
 support-addons-version = ସଂସ୍କରଣ
+support-addons-id = ID
 app-basics-title = ପ୍ରୟୋଗ ମୌଳିକ
 app-basics-name = ନାମ
 app-basics-version = ସଂସ୍କରଣ
