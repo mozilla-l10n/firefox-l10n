@@ -14,7 +14,10 @@ extensions-name = Isem
 extensions-enabled = Yettwarmed
 extensions-version = Lqem
 extensions-id = Asulay
+support-addons-title = Izegrar
 support-addons-name = Isem
+support-addons-type = Anaw
+support-addons-enabled = Irmed
 support-addons-version = Lqem
 support-addons-id = Asulay
 security-software-title = Aseγzan n taγlist
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Ldi akaram
        *[other] Ldi akaram
     }
+experimental-features-title = Timahihilin tirmitanin
+experimental-features-name = Isem
+experimental-features-value = Azal
 modified-key-prefs-title = Ismenyifen ixataren ittusniflen
 modified-prefs-name = Isem
 modified-prefs-value = Azal
