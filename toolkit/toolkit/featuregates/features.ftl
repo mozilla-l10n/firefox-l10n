@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+experimental-features-css-masonry-description = Engedélyezi a kísérleti CSS Masonry Layout funkció támogatását. A funkció magas szintű leírásához lásd a <a data-l10n-name="explainer">magyarázót</a>. Visszajelzés küldéséhez szóljon hozzá <a data-l10n-name="w3c-issue">ehhez a GitHub jegyhez</a> vagy <a data-l10n-name="bug">ehhez a hibajegyhez</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
