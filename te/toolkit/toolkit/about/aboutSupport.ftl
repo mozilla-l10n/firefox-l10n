@@ -14,6 +14,7 @@ extensions-name = పేరు
 extensions-enabled = చేతనం
 extensions-version = వెర్షను
 extensions-id = ID
+support-addons-name = పేరు
 support-addons-id = ID
 security-software-title = భద్రతా సాఫ్ట్‌వేరు
 security-software-type = రకం
