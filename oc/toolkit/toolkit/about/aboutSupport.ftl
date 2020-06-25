@@ -14,6 +14,7 @@ extensions-name = Nom
 extensions-enabled = Activat
 extensions-version = Version
 extensions-id = ID
+support-addons-id = ID
 security-software-title = Logicial de seguretat
 security-software-type = Tipe
 security-software-name = Nom
