@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ट्रबलशूट करपाक माहिती
-
 crashes-title = क्रॅश अहवाल
 crashes-id = अहवाल ID
 crashes-send-date = सादर केला
@@ -14,6 +13,9 @@ extensions-name = नाव
 extensions-enabled = सक्षम
 extensions-version = आवृत्ती
 extensions-id = ID
+support-addons-name = नाव
+support-addons-version = आवृत्ती
+support-addons-id = ID
 app-basics-title = अनुप्रयोगाचे मुळावें
 app-basics-name = नाव
 app-basics-version = आवृत्ती
@@ -50,7 +52,9 @@ sandbox-title = सँडबॉक्स
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -61,6 +65,7 @@ sandbox-title = सँडबॉक्स
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
@@ -70,7 +75,6 @@ report-crash-for-days =
         [one] निमण्या { $days } दिसाखातीर क्रॅश अहवाल
        *[other] निमण्या { $days } दिसांखातीर क्रॅश अहवाल
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -78,7 +82,6 @@ crashes-time-minutes =
         [one] { $minutes } मिनीट पयली
        *[other] { $minutes } मिनटां पयली
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -86,7 +89,6 @@ crashes-time-hours =
         [one] { $hours } वर पयली
        *[other] { $hours } वरां पयली
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -94,7 +96,6 @@ crashes-time-days =
         [one] { $days } दिस पयली
        *[other] { $days } दिंस पयली
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -102,7 +103,6 @@ pending-reports =
         [one] सगळे क्रॅश अहवाल (दिल्ल्या वेळाच्या व्याप्तीन { $reports } उरिल्ल्या क्रॅशासंयत)
        *[other] सगळे क्रॅश अहवाल (दिल्ल्या वेळाच्या व्याप्तीन { $reports } उरिल्ल्या क्रॅशांसंयत)
     }
-
 raw-data-copied = रॉ डेटाची क्लिपबोर्डार प्रत करात
 text-copied = मजकूराची क्लिपबोर्डार प्रत करात
 
@@ -114,7 +114,6 @@ blocked-os-version = तुमच्या ऑपरेटिंग सिस्
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = तुमच्या ग्राफिक्स ड्रायव्हर आवृत्तेखातीर आडयला. तुमचो ग्राफिक्स ड्रायव्हर { $driverVersion } आवृत्ती वो नव्या आवृत्तेन सुदारपाचो यत्न करात.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = क्लियर टायप परिमाणां
@@ -128,14 +127,11 @@ gpu-device-id = उपकरण ID
 gpu-subsys-id = Subsys ID
 gpu-driver-version = ड्रायव्हर आवृत्ती
 gpu-driver-date = ड्रायव्हर तारिक
-
 min-lib-versions = अपेक्षित किमान आवृत्ती
 loaded-lib-versions = वापरातली आवृत्ती
-
 has-seccomp-bpf = Seccomp-BPF (व्यवस्था कॉल फिल्टरींग)
 can-sandbox-content = आशय प्रक्रिया सँडबॉक्सिंग
 can-sandbox-media = मिडीया प्लगईन सँडबॉक्सिंग
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
