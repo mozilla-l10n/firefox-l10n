@@ -147,7 +147,7 @@ detail-show-preferences =
            *[other] Kejal ri taq rajowaxik re tz'aqat re'
         }
 detail-rating =
-    .value = Kijachik
+    .value = Kejqalem
 addon-restart-now =
     .label = Titzij chik wakami
 disabled-unsigned-heading =
@@ -170,7 +170,7 @@ extensions-view-discopane =
     .name = Taq chilab'enïk
     .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
-    .name = K'ak'a' taq k'exoj
+    .name = K'ak'a' taq K'exoj
     .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
     .name = Taq K'exoj K'o
@@ -196,9 +196,9 @@ addon-category-locale-title =
 addon-category-available-updates = Taq K'exoj K'o
 addon-category-available-updates-title =
     .title = Taq K'exoj K'o
-addon-category-recent-updates = K'ak'a' taq k'exoj
+addon-category-recent-updates = K'ak'a' taq K'exoj
 addon-category-recent-updates-title =
-    .title = K'ak'a' taq k'exoj
+    .title = K'ak'a' taq K'exoj
 
 ## These are global warnings
 

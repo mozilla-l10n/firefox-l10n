@@ -58,5 +58,5 @@ places-sortby-name =
     .label = Tinuk' Chi B'i'aj
     .accesskey = n
 places-properties =
-    .label = Taq ch'akulal
-    .accesskey = a
+    .label = Taq ichinil
+    .accesskey = i

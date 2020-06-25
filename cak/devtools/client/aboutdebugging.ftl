@@ -210,7 +210,7 @@ about-debugging-connection-prompt-enable-button = Titzij ri tz'etöy okem
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Tichup ri tz'etöy okem
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title2 = B'i'aj wachib'äl
+about-debugging-profiler-dialog-title2 = Wachinel B'i'aj
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -298,7 +298,7 @@ about-debugging-worker-scope =
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
-    .label = Samaj richin Taqoj
+    .label = Push Samaj
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title = Chupül ri runik'oxik Service Worker richin k'ïy tajinïk { -brand-shorter-name }

@@ -122,7 +122,7 @@ about-telemetry-addon-table-details = Taq b'anikil
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Ya'öl { $addonProvider }
-about-telemetry-keys-header = Ch'akulal
+about-telemetry-keys-header = Ichinil
 about-telemetry-names-header = B'i'aj
 about-telemetry-values-header = Retal
 # Variables:

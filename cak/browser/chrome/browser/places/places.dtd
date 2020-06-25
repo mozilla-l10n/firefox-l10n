@@ -55,7 +55,7 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Tiqaj Ronojel rik'in taq Ruwi'">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "T">
 
-<!ENTITY cmd.properties.label      "Taq ch'akulal">
+<!ENTITY cmd.properties.label      "Taq ichinil">
 <!ENTITY cmd.properties.accesskey  "a">
 
 <!ENTITY cmd.sortby_name.label              "Tinuk' chi b'i'aj">
