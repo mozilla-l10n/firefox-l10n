@@ -158,3 +158,4 @@
 <!ENTITY PhotoURL.placeholder           "Liitä tai kirjoita valokuvan osoite">
 <!ENTITY UpdatePhoto.label              "Päivitä">
 <!ENTITY UpdatePhoto.accesskey          "ä">
+<!ENTITY PhotoDropTarget.label          "Vedä uusi valokuva tähän">
