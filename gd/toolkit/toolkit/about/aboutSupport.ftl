@@ -16,6 +16,7 @@ extensions-version = Tionndadh
 extensions-id = ID
 support-addons-name = Ainm
 support-addons-version = Tionndadh
+support-addons-id = ID
 security-software-title = Bathar-bog tèarainteachd
 security-software-type = Seòrsa
 security-software-name = Ainm
