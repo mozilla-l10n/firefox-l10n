@@ -12,7 +12,7 @@
 <!ENTITY closeTabCmd2.accesskey "T">
 <!ENTITY closeOtherTabsCmd2.label "Ketz'apïx ri ch'aqa' chik taq ruwi'">
 <!ENTITY closeOtherTabsCmd2.accesskey "x">
-<!ENTITY recentlyClosedTabsCmd.label "Taq Ruwi' K'a B'a' Ketz'apïx">
+<!ENTITY recentlyClosedTabsCmd.label "Taq Ruwi' k'a b'a' Ketz'apïx">
 <!ENTITY recentlyClosedTabsCmd.accesskey "K">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
