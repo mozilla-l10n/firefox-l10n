@@ -4,7 +4,6 @@
 
 page-title = সমস্যাসমাধান সংক্রান্ত তথ্য
 page-subtitle = এই পাতাটিতে প্রযুক্তিগত তথ্য উপস্থিত রয়েছে যা অাপনার একটি সমস্যা সমাধান করতে উপযোগী হতে পারে। যদি আপনি সাধারণ প্রশ্নের উত্তর খুজছেন { -brand-short-name }, দেখুন আমাদের <a data-l10n-name="support-link">সাপোর্ট ওয়েবসাইট</a>।
-
 crashes-title = বিপর্যয়ের রিপোর্ট
 crashes-id = ID রিপোর্ট দায়ের করুন
 crashes-send-date = প্রেরিত
@@ -15,6 +14,7 @@ extensions-name = নাম
 extensions-enabled = সক্রিয়
 extensions-version = সংস্করণ
 extensions-id = ID
+support-addons-id = ID
 app-basics-title = অ্যাপ্লিকেশনের মৌলিক তথ্য
 app-basics-name = নাম
 app-basics-version = সংস্করণ
@@ -81,6 +81,7 @@ audio-backend = অডিও ব্যাকেন্ড
 
 ##
 
+
 ## Remote Debugging
 ##
 ## The Firefox remote protocol provides low-level debugging interfaces
@@ -89,6 +90,7 @@ audio-backend = অডিও ব্যাকেন্ড
 ## and for subscribing to browser-internal events.
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
+
 
 ##
 
@@ -99,7 +101,6 @@ report-crash-for-days =
         [one] সর্বশেষ { $days } দিনের জন্য ক্র্যাশ প্রতিবেদনগুলি
        *[other] শেষ { $days } দিনের জন্য ক্র্যাশ প্রতিবেদন
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -107,7 +108,6 @@ crashes-time-minutes =
         [one] { $minutes } মিনিট অাগে
        *[other] { $minutes } মিনিট অাগে
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -115,7 +115,6 @@ crashes-time-hours =
         [one] { $hours } ঘন্টা অাগে
        *[other] { $hours } ঘন্টা অাগে
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -123,7 +122,6 @@ crashes-time-days =
         [one] { $days } দিন অাগে
        *[other] { $days } দিন অাগে
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -131,7 +129,6 @@ pending-reports =
         [one] সমস্ত ক্র্যাশ প্রতিবেদন (দেওয়া সময় সীমার মধ্যে { $reports } মুলতুবি ক্র্যাশ সহ)
        *[other] সমস্ত ক্র্যাশ প্রতিবেদন (দেওয়া সময় সীমার মধ্যে { $reports } মুলতুবি ক্র্যাশ সহ)
     }
-
 raw-data-copied = কাঁচা তথ্য ক্লিপবোর্ডে কপি করা হয়েছে
 text-copied = টেক্সট ক্লিপবোর্ডে কপি করা হয়েছে
 
@@ -144,11 +141,9 @@ blocked-mismatched-version = রেজিস্ট্রি এবং DLL এর
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = গ্রাফিক্স ড্রাইভারের সংস্করণের জন্য প্রতিরোধ করা হয়েছে। গ্রাফিক্স ড্রাইভারকে { $driverVersion } অথবা ঊর্ধ্বতন সংস্করণে আপডেট করুন।
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType পরামিতি
-
 compositing = কম্পোজিটিং
 hardware-h264 = হার্ডওয়ার H264 ডিকোডিং
 main-thread-no-omtc = আসল থ্রেড, কোনো OMTC নয়
@@ -170,27 +165,21 @@ gpu-driver-date = ড্রাইভারের তারিখ
 gpu-active = সক্রিয়
 webgl2-renderer = WebGL রেন্ডারার
 blocklisted-bug = জানা ইস্যুর জন্য ব্লক করা হয়েছে
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = বাগ { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ব্লকের তালিকায় ফেলা হয়েছে; ব্যর্থ কোড { $failureCode }
-
 d3d11layers-crash-guard = D3D11 কম্পোজিটর
 d3d11video-crash-guard = D3D11 ভিডিও ডেকোডার
 d3d9video-crash-buard = D3D9 ভিডিও ডিকোডার
 d3d9video-crash-guard = D3D9 ভিডিও ডিকোডার
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = পরবর্তী পুনরারম্ভরে রিসেট করুন
 gpu-process-kill-button = GPU প্রক্রিয়া বন্ধ করুন
-
 min-lib-versions = প্রত্যাশিত সর্বনিম্ন সংস্করণ
 loaded-lib-versions = ব্যবহৃত সংস্করণ
-
 has-seccomp-bpf = Seccomp-BPF (সিস্টেম কল ফিল্টারিং)
 has-seccomp-tsync = সিকম্প থ্রেড সিংক্রোনাইজেশন
 has-user-namespaces = ইউজার নেমস্পেস
@@ -198,7 +187,6 @@ has-privileged-user-namespaces = সুবিধাভোগী প্রক্�
 can-sandbox-content = কন্টেন্ট প্রসেস স্যান্ডবক্সিং
 can-sandbox-media = মিডিয়া প্লাগইন স্যান্ডবক্সিং
 content-sandbox-level = কন্টেন্ট প্রসেস স্যান্ডবক্সিং লেভেল
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -211,7 +199,6 @@ multi-process-status-6 = অসমর্থিত টেক্সট ইনপ�
 multi-process-status-7 = অ্যাড-অন দ্বারা অক্ষমিত
 multi-process-status-8 = জোর করে অক্ষম করা হয়েছে
 multi-process-status-unknown = অজানা অবস্থা
-
 async-pan-zoom = অ্যাসিংক্রোনাস প্যান/Zoom
 apz-none = কোনোটাই না
 wheel-enabled = হুইল ইনপুট সক্রিয়
