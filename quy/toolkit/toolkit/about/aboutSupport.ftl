@@ -4,7 +4,6 @@
 
 page-title = Willakuy sasachakuykuna allipachinapaq
 page-subtitle = Kay qatiqatirapipiqa  chanin willakuykunan kan sasachakuypi yanapasunaykipaq .hinakaq tapukuykunapaq kutichiyninta munaspaqa { -brand-short-name }nisqamanta  haykuy ñuqaykupa <a data-l10n-name="support-link">nisqaman yanapaq llikachasqa ukuman </a>nisqapi.
-
 crashes-title = Pantaykunata taripaspa willaq
 crashes-id = ID nisqa willaymanta.
 crashes-send-date = Apachisqa
@@ -15,6 +14,8 @@ extensions-name = Suti
 extensions-enabled = Kichasqa.
 extensions-version = Imaninan
 extensions-id = ID
+support-addons-name = Suti
+support-addons-version = Imaninan
 app-basics-title = Ruwaypaq lIikachakusqan churana
 app-basics-name = Suti
 app-basics-version = Imaninan
@@ -94,7 +95,6 @@ report-crash-for-days =
         [one] Tkupaypa pantayninkunapa willakuy # huk punchay
        *[other] pantaykunaq tukupayninkuna # huk punchaykunapi.
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -102,7 +102,6 @@ crashes-time-minutes =
         [one] #Huk pisi tuymipi
        *[other] # huk pisi tuymichakuypi.
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -110,7 +109,6 @@ crashes-time-hours =
         [one] # huk tuymipi
        *[other] # huk tuymichakuykunapi
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -118,11 +116,9 @@ crashes-time-days =
         [one] # huk punchay
        *[other] # huk punchaykuna
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = Llapallan panatay willakuykuna ({ $reports } nisqawan huk suyaq pantay tuymichaypa chawpinpi nisqapi untapaspa ) Llapallan panatay willakuykuna ({ $reports } nisqawan huk suyaq pantay tuymichaypa chawpinpi nisqapi untapaspa )
-
 raw-data-copied = Lliw hanku  imanisqakuna qupallchanaman tiqrapasqa
 text-copied = Qillqasqa patara qupaallchapanaman  tiqasqa
 
@@ -135,11 +131,9 @@ blocked-mismatched-version = Tatisqan uqniray imaninan qawapakuq siqiykipi DLL.n
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Imaninan tukuyrikuq siqikunapi wisqasqa. kaqmanta wisqasqa siqikunata kunanyachispa  { $driverVersion } nisqaman  otaq aswan kaqmanpas.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Type nisqapa ayqichiy tukupaynin
-
 compositing = Compositing nisqa
 hardware-h264 = Hardware H264 Decoding nisqa
 main-thread-no-omtc = main thread, no OMTC nisqa
@@ -160,33 +154,26 @@ gpu-driver-version = Imaninanpa tukuyrikuq
 gpu-driver-date = Tukuyrikuqpaima punchay kasqan
 gpu-active = Utqaq, kichaq,
 blocklisted-bug = Blocklisted due to known issues nisqa
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber } nisqa
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; failure code { $failureCode } nisqa
-
 d3d11layers-crash-guard = D3D11 Compositor nisqa
 d3d11video-crash-guard = D3D11 nisqapi tawqachaq qawanapata
 d3d9video-crash-buard = D3D9 nisqapi tawqachaq pata
 d3d9video-crash-guard = D3D9 nisqapi tawqachaq pata
 glcontext-crash-guard = GL nisqa kichasqa
-
 reset-on-next-restart = Kaqmanta qatiq qallariy
-
 min-lib-versions = suyasqa pisi imaninan
 loaded-lib-versions = Ruwasqanpi ima ninan
-
 has-seccomp-bpf = Seccomp-BPF nisqapi imakaq waqyanakuna  lluqsiqa
 has-seccomp-tsync = Seccomp nisqapi qaytu tupanachina
 has-user-namespaces = Haykuqpasutin
 has-privileged-user-namespaces = Haykuqpasutin qatiqati payllapaqkuna
 can-sandbox-content = Aqopatapi qatiqati imakaqkunapaq
 can-sandbox-media = Aqopatapi qawanaq aysapakuqkuna.
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -199,7 +186,6 @@ multi-process-status-6 = Manataqyachiq patarata  yaykunanpi sikisqa
 multi-process-status-7 = Tupanasqakunaq sikisqa
 multi-process-status-8 = Disabled forcibly nisqa
 multi-process-status-unknown = Manariqsisqa kasqan
-
 async-pan-zoom = Encuadro/zoom asíncrono nisqa
 apz-none = mayqinpas
 wheel-enabled = Hukuchaq kuyuyninpa haykunan kichasqa
