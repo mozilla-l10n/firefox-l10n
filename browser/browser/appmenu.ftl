@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Жекелікті қорғау
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Жекелік есептемесіне өту
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } жаңартуын жүктеп алу
 appmenuitem-protection-dashboard-title = Қорғаныс панелі
 appmenuitem-customize-mode =
     .label = Баптау…

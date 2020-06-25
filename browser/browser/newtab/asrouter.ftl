@@ -241,3 +241,12 @@ cfr-whatsnew-protections-icon-alt = Қалқан таңбашасы
 
 cfr-whatsnew-better-pdf-header = PDF-пен жақсырақ жұмыс
 cfr-whatsnew-better-pdf-body = PDF құжаттары енді тікелей { -brand-short-name } ішінде ашылып, жұмыс үрдісіңізді жеңілдетеді.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Сіздің жекелігіңіз маңызды. { -brand-short-name } енді шолу кезінде сізді қорғау үшін DNS сұранымдарыңызды мүмкін болған кезде серіктес қызметі арқылы қауіпсіз түрде бағыттайды.
+cfr-doorhanger-doh-header = Одан әрі қауіпсіз, шифрленген DNS іздеулері
+cfr-doorhanger-doh-primary-button = Жақсы, түсіндім
+    .accesskey = а
+cfr-doorhanger-doh-secondary-button = Сөндіру
+    .accesskey = д
