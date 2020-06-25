@@ -16,6 +16,7 @@ extensions-version = Weergawe
 extensions-id = ID
 support-addons-name = Naam
 support-addons-version = Weergawe
+support-addons-id = ID
 features-name = Naam
 features-version = Weergawe
 features-id = ID
