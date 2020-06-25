@@ -16,6 +16,7 @@ extensions-version = Ruwäch
 extensions-id = ID
 support-addons-name = B'i'aj
 support-addons-version = Ruwäch
+support-addons-id = ID
 security-software-title = Software de seguridad
 security-software-type = Ruwäch
 security-software-name = B'i'aj
