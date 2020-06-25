@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = زانیاری گەڕان بۆ کیشەکان
-
 crashes-title = ڕاپۆرتی داخستنی لەناکاو
 crashes-id = ناسنامەی ڕاپۆرت
 crashes-send-date = نێردرا
@@ -14,6 +13,9 @@ extensions-name = ناو
 extensions-enabled = چالاکە
 extensions-version = وەشان
 extensions-id = ناسنامە
+support-addons-name = ناو
+support-addons-version = وەشان
+support-addons-id = ناسنامە
 security-software-title = نەرمەکاڵای پاراستن
 security-software-type = جۆر
 security-software-name = ناو
