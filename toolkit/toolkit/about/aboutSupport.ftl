@@ -16,6 +16,7 @@ extensions-version = പതിപ്പു്
 extensions-id = ഐഡി
 support-addons-name = പേരു്
 support-addons-version = പതിപ്പു്
+support-addons-id = ഐഡി
 features-title = { -brand-short-name } സവിശേഷതകൾ
 features-name = പേര്
 features-version = പതിപ്പ്
