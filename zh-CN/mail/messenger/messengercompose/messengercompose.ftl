@@ -8,6 +8,9 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = 移除 { $type } 字段
 #   $type (String) - the type of the addressing row
+remove-address-row-type-label =
+    .tooltiptext = 移除 { $type } 字段
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
