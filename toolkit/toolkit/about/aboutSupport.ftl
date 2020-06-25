@@ -14,7 +14,10 @@ extensions-name = Név
 extensions-enabled = Engedélyezve
 extensions-version = Verzió
 extensions-id = Azonosító
+support-addons-title = Kiegészítők
 support-addons-name = Név
+support-addons-type = Típus
+support-addons-enabled = Engedélyezve
 support-addons-version = Verzió
 support-addons-id = Azonosító
 security-software-title = Biztonsági szoftver
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Mappa megnyitása
        *[other] Könyvtár megnyitása
     }
+experimental-features-title = Kísérleti funkciók
+experimental-features-name = Név
+experimental-features-value = Érték
 modified-key-prefs-title = Fontos, módosított beállítások
 modified-prefs-name = Név
 modified-prefs-value = Érték
