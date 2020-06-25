@@ -252,3 +252,10 @@ cfr-whatsnew-protections-icon-alt = Tarčowy symbol
 
 cfr-whatsnew-better-pdf-header = Lěpše PDF-dožiwjenje
 cfr-whatsnew-better-pdf-body = PDF-dokumenty so nětko direktnje w { -brand-short-name } wočinjeja, bjeztoho zo byšće dyrbjał dźěłowy wotběh přetorhnyć.
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = W porjadku, sym zrozumił
+    .accesskey = r
+cfr-doorhanger-doh-secondary-button = Znjemóžnić
+    .accesskey = Z
