@@ -4,7 +4,6 @@
 
 page-title = Informacija problemų sprendimui
 page-subtitle = Šiame tinklalapyje rasite visą techninę informaciją, kuri gali praversti sprendžiant su „{ -brand-short-name }“ iškilusias problemas. Jei ieškote atsakymų į dažniausius klausimus apie šią programą, apsilankykite <a data-l10n-name="support-link">pagalbos svetainėje</a>.
-
 crashes-title = Strigčių pranešimai
 crashes-id = Pranešimo ID
 crashes-send-date = Pranešimo data
@@ -15,6 +14,9 @@ extensions-name = Pavadinimas
 extensions-enabled = Įjungtas
 extensions-version = Laida
 extensions-id = ID
+support-addons-name = Pavadinimas
+support-addons-version = Laida
+support-addons-id = ID
 security-software-title = Saugumo programos
 security-software-type = Tipas
 security-software-name = Pavadinimas
@@ -124,7 +126,6 @@ audio-backend = Garso posistemė
 max-audio-channels = Daugiausiai kanalų
 channel-layout = Pageidautinas kanalų išdėstymas
 sample-rate = Pageidautinas atkūrimo dažnis
-
 media-title = Laikmenos
 media-output-devices-title = Išvedimo įrenginiai
 media-input-devices-title = Įvedimo įrenginiai
@@ -176,7 +177,6 @@ report-crash-for-days =
         [few] Pastarųjų { $days } dienų strigčių pranešimai
        *[other] Pastarųjų { $days } dienų strigčių pranešimai
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -185,7 +185,6 @@ crashes-time-minutes =
         [few] Prieš { $minutes } minutes
        *[other] Prieš { $minutes } minučių
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -194,7 +193,6 @@ crashes-time-hours =
         [few] Prieš { $hours } valandas
        *[other] Prieš { $hours } valandų
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -203,7 +201,6 @@ crashes-time-days =
         [few] Prieš { $days } dienas
        *[other] Prieš { $days } dienų
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -212,7 +209,6 @@ pending-reports =
         [few] Visi strigčių pranešimai (taip pat { $reports } neišsiųsti pranešimai iš nurodyto laiko intervalo)
        *[other] Visi strigčių pranešimai (taip pat { $reports } neišsiųstų pranešimų iš nurodyto laiko intervalo)
     }
-
 raw-data-copied = Neapdoroti duomenys nukopijuoti į iškarpinę
 text-copied = Tekstas nukopijuotas į iškarpinę
 
@@ -225,11 +221,9 @@ blocked-mismatched-version = Užblokuota dėl jūsų vaizdo tvarkyklės versijos
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Užblokuota dėl vaizdo plokštės tvarkyklių. Pabandykite atnaujinti tvarkykles iki { $driverVersion } ar naujesnės laidos.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = „ClearType“ parametrai
-
 compositing = Komponavimas
 hardware-h264 = Aparatinis „H264“ iškodavimas
 main-thread-no-omtc = pagrindinė gija, be OMTC
@@ -244,7 +238,6 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Rastas
 missing = Trūkstamas
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Aprašymas
@@ -268,23 +261,18 @@ webgl2-version = „WebGL 2“ tvarkyklės versija
 webgl2-driver-extensions = „WebGL 2“ tvarkyklės plėtiniai
 webgl2-extensions = „WebGL 2“ plėtiniai
 blocklisted-bug = Užblokuota dėl žinomų problemų
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = klaida Nr. { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Užblokuota; gedimo kodas { $failureCode }
-
 d3d11layers-crash-guard = D3D11 rinkėjo gija
 d3d11video-crash-guard = D3D11 vaizdo iškoduotuvas
 d3d9video-crash-buard = D3D9 vaizdo iškoduotuvas
 d3d9video-crash-guard = D3D9 vaizdo iškoduotuvas
 glcontext-crash-guard = OpenGL
-
 wmfvpxvideo-crash-guard = WMF VPX vaizdo iškoduotuvas
-
 reset-on-next-restart = Atstatyti kito paleidimo metu
 gpu-process-kill-button = Sustabdyti GPU procesą
 gpu-device-reset = Įrenginio atstatymas
@@ -294,10 +282,8 @@ content-uses-tiling = Naudoja išdėstymą išklotine (turinys)
 off-main-thread-paint-enabled = Piešimas ne pagrindinėje gijoje įjungtas
 off-main-thread-paint-worker-count = Piešimo ne pagrindinėje gijoje scenarijų kiekis
 target-frame-rate = Tikslinis kadrų dažnis
-
 min-lib-versions = Minimali priimtina versija
 loaded-lib-versions = Naudojama versija
-
 has-seccomp-bpf = „Seccomp-BPF“ (kreipimųsi į sistemą filtravimas)
 has-seccomp-tsync = „Seccomp“ gijų sinchronizavimas
 has-user-namespaces = Naudotojo vardų erdvės
@@ -310,18 +296,15 @@ sandbox-proc-type-content = turinys
 sandbox-proc-type-file = failo turinys
 sandbox-proc-type-media-plugin = medijos įskiepis
 sandbox-proc-type-data-decoder = duomenų iškoduotuvas
-
 startup-cache-title = Paleisties podėlis
 startup-cache-disk-cache-path = Disko podėlio kelias
 startup-cache-ignore-disk-cache = Ignoruoti disko podėlį
 startup-cache-found-disk-cache-on-init = Rastas disko podėlis įkėlimo metu
 startup-cache-wrote-to-disk-cache = Įrašyta į disko podėlį
-
 launcher-process-status-0 = Įjungta
 launcher-process-status-1 = Išjungta dėl gedimo
 launcher-process-status-2 = Išjungta priverstinai
 launcher-process-status-unknown = Būsena nežinoma
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -334,7 +317,6 @@ multi-process-status-6 = Išjungta dėl nepalaikomos tekstinės įvesties
 multi-process-status-7 = Išjungta dėl priedų
 multi-process-status-8 = Išjungta priverstinai
 multi-process-status-unknown = Nežinoma būsena
-
 async-pan-zoom = Asinchroninis apžvelgimas/priartinimas
 apz-none = nėra
 wheel-enabled = įjungta įvestis ratuku
@@ -342,7 +324,6 @@ touch-enabled = įjungta įvestis lietimu
 drag-enabled = slankjuostės tempimas įjungtas
 keyboard-enabled = klaviatūra įjungta
 autoscroll-enabled = automatinis slinkimas įjungtas
-
 zooming-enabled = įjungtas tolygus artinimas suimant
 
 ## Variables
