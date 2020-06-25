@@ -16,6 +16,7 @@ extensions-version = பதிப்பு
 extensions-id = ID
 support-addons-name = பெயர்
 support-addons-version = பதிப்பு
+support-addons-id = ID
 features-title = { -brand-short-name } அம்சங்கள்
 features-name = பெயர்
 features-version = பதிப்பு
