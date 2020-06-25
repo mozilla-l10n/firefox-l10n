@@ -16,6 +16,7 @@ extensions-version = Imaninan
 extensions-id = ID
 support-addons-name = Suti
 support-addons-version = Imaninan
+support-addons-id = ID
 app-basics-title = Ruwaypaq lIikachakusqan churana
 app-basics-name = Suti
 app-basics-version = Imaninan
