@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = 隐私保护
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = 前往您的隐私报告
+appmenuitem-update-banner =
+    .label-update-downloading = 正在下载 { -brand-shorter-name } 更新
 appmenuitem-protection-dashboard-title = 保护信息面板
 appmenuitem-customize-mode =
     .label = 定制…
