@@ -14,7 +14,10 @@ extensions-name = Mjeno
 extensions-enabled = Zmóžnjeny
 extensions-version = Wersija
 extensions-id = ID
+support-addons-title = Přidatki
 support-addons-name = Mjeno
+support-addons-type = Typ
+support-addons-enabled = Zmóžnjeny
 support-addons-version = Wersija
 support-addons-id = ID
 security-software-title = Wěstotna softwara
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Rjadowak wočinić
        *[other] Zapis wočinić
     }
+experimental-features-title = Eksperimentelne funkcije
+experimental-features-name = Mjeno
+experimental-features-value = Hódnota
 modified-key-prefs-title = Wažne změnjene nastajenja
 modified-prefs-name = Mjeno
 modified-prefs-value = Hódnota
