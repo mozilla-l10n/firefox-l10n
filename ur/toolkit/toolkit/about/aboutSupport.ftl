@@ -16,6 +16,7 @@ extensions-version = ورژن
 extensions-id = ID
 support-addons-name = نام
 support-addons-version = ورژن
+support-addons-id = ID
 security-software-title = سلامتی سافٹ ویئر
 security-software-type = قسم
 security-software-name = نام
