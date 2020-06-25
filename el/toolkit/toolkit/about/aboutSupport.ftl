@@ -19,6 +19,7 @@ extensions-version = Έκδοση
 extensions-id = ID
 support-addons-name = Όνομα
 support-addons-version = Έκδοση
+support-addons-id = ID
 security-software-title = Λογισμικό ασφαλείας
 security-software-type = Τύπος
 security-software-name = Όνομα
