@@ -7,12 +7,14 @@ page-subtitle =
     Na strona zamikô w se techniczną  wëdowiédzô, chtërna mòże sã przëdac czej chcesz
     rozwiązac problemë. Żlë szëkôcz òdpowiescë dlô tipicznëch pëtaniów
     ò { -brand-short-name }. Sprôwdzë naszą <a data-l10n-name="support-link"> stronë wspiarcô</a>.
-
 extensions-title = Roszerzenia
 extensions-name = Miono
 extensions-enabled = Włączoné
 extensions-version = Wersjô
 extensions-id = Numer ID
+support-addons-name = Miono
+support-addons-version = Wersjô
+support-addons-id = Numer ID
 app-basics-title = Pòdstawë aplikacje
 app-basics-name = Miono
 app-basics-version = Wersjô
@@ -44,7 +46,9 @@ copy-raw-data-to-clipboard-label = Kòpérëjë zamkłosc do tacnika
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -54,6 +58,7 @@ copy-raw-data-to-clipboard-label = Kòpérëjë zamkłosc do tacnika
 ## and for subscribing to browser-internal events.
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
+
 
 ##
 
@@ -68,7 +73,6 @@ blocked-os-version = Niedostãpny dlô wersji Twòjégò systemù.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Niedostãpny dlô wersji Twòji kartë graficzny. Spróbùje zaktualnic do wersji { $driverVersion } abò nowszi.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametrë ClearType
@@ -79,7 +83,6 @@ clear-type-parameters = Parametrë ClearType
 
 min-lib-versions = Brëkùje minimaliny wersji
 loaded-lib-versions = Wersjô w ùżëcym
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
