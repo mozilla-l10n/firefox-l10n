@@ -16,6 +16,7 @@ extensions-version = Bersyon
 extensions-id = ID
 support-addons-name = Pangalan
 support-addons-version = Bersyon
+support-addons-id = ID
 security-software-title = Security Software
 security-software-type = Uri
 security-software-name = Pangalan
