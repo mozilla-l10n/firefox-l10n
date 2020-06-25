@@ -17,7 +17,10 @@ extensions-name = 名稱
 extensions-enabled = 已啟用
 extensions-version = 版本
 extensions-id = ID
+support-addons-title = 附加元件
 support-addons-name = 名稱
+support-addons-type = 類型
+support-addons-enabled = 已啟用
 support-addons-version = 版本
 support-addons-id = ID
 security-software-title = 安全軟體
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] 開啟資料夾
        *[other] 開啟資料夾
     }
+experimental-features-title = 實驗功能
+experimental-features-name = 名稱
+experimental-features-value = 值
 modified-key-prefs-title = 修改過的重要偏好設定
 modified-prefs-name = 名稱
 modified-prefs-value = 值
