@@ -38,7 +38,7 @@
 <!ENTITY filenameExample.label        "achi'el: &quot;mypage.html&quot;">
 <!ENTITY setDefaultButton.label       "Tichap achi'el ri e K'o wi">
 <!ENTITY setDefaultButton.accesskey   "K">
-<!ENTITY removeButton.label           "Tiyuj el Ruxaq K'amaya'l">
+<!ENTITY removeButton.label           "Tiyuj Ruxaq K'amaya'l">
 <!ENTITY removeButton.accesskey       "y">
 
 <!-- Settings Tab Panel -->
