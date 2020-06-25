@@ -14,6 +14,7 @@ extensions-version = Yoga rafue
 extensions-id = ID
 support-addons-name = Mamékɨ
 support-addons-version = Yoga rafue
+support-addons-id = ID
 app-basics-name = Mamékɨ:
 app-basics-version = Yoga rafue
 app-basics-enabled-plugins = Plugins bónoka
