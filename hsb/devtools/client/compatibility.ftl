@@ -40,6 +40,6 @@ compatibility-issue-occurrences =
         [few] { $number } wustupowanja
        *[other] { $number } wustupowanjow
     }
-compatibility-no-issues-found = Žane problemy konpatibelnosće namakane.
+compatibility-no-issues-found = Žane problemy kompatibelnosće namakane.
 compatibility-close-settings-button =
     .title = Nastajenja začinić
