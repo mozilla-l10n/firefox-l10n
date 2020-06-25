@@ -16,6 +16,7 @@ extensions-version = النسخة
 extensions-id = المعرّف
 support-addons-name = الاسم
 support-addons-version = النسخة
+support-addons-id = المعرّف
 security-software-title = برمجيات الحماية
 security-software-type = النوع
 security-software-name = الاسم
