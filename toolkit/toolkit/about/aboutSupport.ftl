@@ -7,12 +7,14 @@ page-subtitle =
     Оваа страна содржи технички информации кои може да Ви послужат кога се
     обидувате да решите некој проблем. Ако барате одговори на често поставувани прашања
     за { -brand-short-name }, појдете на нашиот <a data-l10n-name="support-link">веб сајт за поддршка</a>.
-
 extensions-title = Проширувања
 extensions-name = Име
 extensions-enabled = Вклучен
 extensions-version = Верзија
 extensions-id = ID
+support-addons-name = Име
+support-addons-version = Верзија
+support-addons-id = ID
 app-basics-title = Основи за апликацијата
 app-basics-name = Име
 app-basics-version = Верзија
@@ -42,7 +44,9 @@ copy-raw-data-to-clipboard-label = Копирај ги сировите пода
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -52,6 +56,7 @@ copy-raw-data-to-clipboard-label = Копирај ги сировите пода
 ## and for subscribing to browser-internal events.
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
+
 
 ##
 
@@ -68,7 +73,6 @@ blocked-os-version = Блокирано за верзијата на опера�
 try-newer-driver =
     Блокирано за верзијата на графичкиот драјвер. Пробајте да го надградите
     на верзија { $driverVersion } или понова.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметри за ClearType
@@ -79,13 +83,11 @@ clear-type-parameters = Параметри за ClearType
 
 min-lib-versions = Очекувана минимална верзија
 loaded-lib-versions = Верзија во употреба
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-4 = Оневозможено од алатките за пристапност
-
 drag-enabled = влечење на лизгач овозможено
 
 ## Variables
