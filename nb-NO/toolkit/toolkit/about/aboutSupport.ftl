@@ -14,7 +14,10 @@ extensions-name = Navn
 extensions-enabled = Påslått
 extensions-version = Versjon
 extensions-id = ID
+support-addons-title = Tillegg
 support-addons-name = Navn
+support-addons-type = Type
+support-addons-enabled = Påslått
 support-addons-version = Versjon
 support-addons-id = ID
 security-software-title = Sikkerhetsprogramvare
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Åpne mappe
        *[other] Åpne mappe
     }
+experimental-features-title = Eksperimentelle funksjoner
+experimental-features-name = Navn
+experimental-features-value = Verdi
 modified-key-prefs-title = Viktige endrede innstillinger
 modified-prefs-name = Navn
 modified-prefs-value = Verdi
