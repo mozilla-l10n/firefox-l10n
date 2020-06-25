@@ -17,7 +17,10 @@ extensions-name = 名称
 extensions-enabled = 启用
 extensions-version = 版本
 extensions-id = ID
+support-addons-title = 附加组件
 support-addons-name = 名称
+support-addons-type = 类型
+support-addons-enabled = 已启用
 support-addons-version = 版本
 support-addons-id = ID
 security-software-title = 安全软件
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] 打开文件夹
        *[other] 打开目录
     }
+experimental-features-title = 实验性功能
+experimental-features-name = 名称
+experimental-features-value = 值
 modified-key-prefs-title = 修改过的重要首选项
 modified-prefs-name = 名称
 modified-prefs-value = 值
