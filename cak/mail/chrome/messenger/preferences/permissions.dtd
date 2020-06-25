@@ -9,7 +9,7 @@
 <!ENTITY treehead.status.label        "B'anikil">
 <!ENTITY removepermission.label       "Tiyuj Ruxaq K'amaya'l">
 <!ENTITY removepermission.accesskey   "y">
-<!ENTITY removeallpermissions.label   "Keyuj Konojel ri taq Ruxaq K'amaya'l">
+<!ENTITY removeallpermissions.label   "Keyuj Ronojel ri Ruxaq K'amaya'l">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Rochochib'al ri ajk'amaya'l ruxaq:">
 <!ENTITY address.accesskey            "c">

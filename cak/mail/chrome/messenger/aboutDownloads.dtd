@@ -15,7 +15,7 @@
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Tijaq">
 <!ENTITY cmd.open.accesskey                        "j">
-<!ENTITY cmd.removeFromHistory.label               "Tiyuj el Pa Natab'äl">
+<!ENTITY cmd.removeFromHistory.label               "Tiyuj Pa Natab'äl">
 <!ENTITY cmd.removeFromHistory.accesskey           "u">
 <!ENTITY cmd.clearList.label                       "Tijosq'ïx Cholb'äl">
 <!ENTITY cmd.clearList.accesskey                   "j">
