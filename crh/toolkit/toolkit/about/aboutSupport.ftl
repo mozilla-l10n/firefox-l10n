@@ -7,7 +7,6 @@ page-subtitle =
     Bu saife bir meseleni çezmege tırışqanıñızda faydalı olabilecek tehnik malümatnı
     ihtiva ete. { -brand-short-name } aqqındaki adetiy suallerge cevaplar qıdırsañız,
     <a data-l10n-name="support-link">destek ağ-saytımız</a>nı teşkeriñiz.
-
 crashes-title = Çöküş Maruzaları
 crashes-id = Maruza Kimligi
 crashes-send-date = Teslim Etilgen
@@ -18,6 +17,9 @@ extensions-name = İsim
 extensions-enabled = Qabilleştirilgen
 extensions-version = Sürüm
 extensions-id = Kimlik
+support-addons-name = İsim
+support-addons-version = Sürüm
+support-addons-id = Kimlik
 security-software-title = Emniyet Yazılımı
 security-software-type = Tür
 security-software-name = İsim
@@ -107,7 +109,6 @@ audio-backend = Audio Arqa-ucu
 max-audio-channels = Azamiy Kanallar
 channel-layout = Tercihli Kanal Tizilimi
 sample-rate = Tercihli Numune Nisbeti
-
 media-title = Vasat
 media-output-devices-title = Çıqtı Cihazları
 media-input-devices-title = Kirdi Cihazları
@@ -142,6 +143,7 @@ intl-regional-prefs = Region Tercihleri
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
@@ -151,7 +153,6 @@ report-crash-for-days =
         [one] Soñki { $days } Kün içün Çöküş Maruzaları
        *[other] Soñki { $days } Kün içün Çöküş Maruzaları
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -159,7 +160,6 @@ crashes-time-minutes =
         [one] { $minutes } daqqa evvel
        *[other] { $minutes } daqqa evvel
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -167,7 +167,6 @@ crashes-time-hours =
         [one] { $hours } saat evvel
        *[other] { $hours } saat evvel
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -175,7 +174,6 @@ crashes-time-days =
         [one] { $days } kün evvel
        *[other] { $days } kün evvel
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -183,7 +181,6 @@ pending-reports =
         [one] Episi Çöküş Maruzaları (berilgen zaman menzilindeki { $reports } beklegen çöküş dahil)
        *[other] Episi Çöküş Maruzaları (berilgen zaman menzilindeki { $reports } beklegen çöküş dahil)
     }
-
 raw-data-copied = Çiy veriler tüyreme-tahtasına kopiyalanğan
 text-copied = Metin tüyreme-tahtasına kopiyalanğan
 
@@ -196,11 +193,9 @@ blocked-mismatched-version = Sicil ile DLL arasındaki grafik sürücisi sürüm
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Grafikler sürücisi sürümiñiz içün bloklanğan. Grafikler sürüciñizni { $driverVersion } sürümine yaki daa yañısına yañartuvnı deñeñiz.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parametreleri
-
 compositing = Bileşikleme
 hardware-h264 = Donanım H264 Dekodlaması
 main-thread-no-omtc = ana yip, OMTC yoq
@@ -215,7 +210,6 @@ virtual-monitor-disp = Virtual Monitor Ekranı
 
 found = Tapılğan
 missing = Eksik
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Tasvir
@@ -238,21 +232,17 @@ webgl2-version = WebGL 2 Sürüci Sürümi
 webgl2-driver-extensions = WebGL 2 Sürüci Uzantıları
 webgl2-extensions = WebGL 2 Uzantıları
 blocklisted-bug = Malüm meselelerden dolayı bloklistelengen
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = illet { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Bloklistelengen; muvaffaqiyetsizlik kodu { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Bileşikleyici
 d3d11video-crash-guard = D3D11 Video Dekodlayıcı
 d3d9video-crash-buard = D3D9 Video Dekodlayıcı
 d3d9video-crash-guard = D3D9 Video Dekodlayıcı
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Soñraki Kene Başlatma üzerine Sıfırla
 gpu-process-kill-button = GPU Sürecini Soñlandır
 gpu-device-reset = Cihaz Sıfırlaması
@@ -262,10 +252,8 @@ content-uses-tiling = Fayanslamanı Qullanır (Muhteva)
 off-main-thread-paint-enabled = Baş Yip Tışı Boyama Qabilleştirilgen
 off-main-thread-paint-worker-count = Ana Yip Tışı Boyayıcı İşçi Sayısı
 target-frame-rate = Hedef Qare Sür'atı
-
 min-lib-versions = Beklengen asğariy sürüm
 loaded-lib-versions = Qullanımdaki sürüm
-
 has-seccomp-bpf = Seccomp-BPF (Sistem Çağırımı Süzgüçlemesi)
 has-seccomp-tsync = Seccomp Yip Eşzamanlılaması
 has-user-namespaces = Qullanıcı Adfezaları
@@ -277,12 +265,10 @@ effective-content-sandbox-level = Effektiv Muhteva Süreci Qum-qutusı Seviyesi
 sandbox-proc-type-content = muhteva
 sandbox-proc-type-file = dosye muhtevası
 sandbox-proc-type-media-plugin = vasat plagini
-
 launcher-process-status-0 = Qabilleştirilgen
 launcher-process-status-1 = Muvaffaqiyetsizlikten dolayı naqabilleştirilgen
 launcher-process-status-2 = Cebren naqabilleştirilgen
 launcher-process-status-unknown = Namalüm status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -295,7 +281,6 @@ multi-process-status-6 = Desteklenmegen metin kirdisi tarafından naqabilleştir
 multi-process-status-7 = Eklentiler tarafından naqabilleştirilgen
 multi-process-status-8 = Cebren naqabilleştirilgen
 multi-process-status-unknown = Namalüm status
-
 async-pan-zoom = Eşzamansız Taydır/Miqyasla
 apz-none = yoq
 wheel-enabled = köpçek kirdisi qabilleştirilgen
