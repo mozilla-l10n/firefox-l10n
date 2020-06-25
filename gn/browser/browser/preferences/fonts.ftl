@@ -102,12 +102,12 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Moñe'ẽrã mbopapapy tetepy rejapyrépe g̃uarã
+fonts-languages-fallback-header = Moñe’ẽrã mbopapapy tetepy rejapyrépe g̃uarã
 fonts-languages-fallback-desc = Ko moñe’ẽrã mbopapapy ojepuru pe tetepy rejapyrépe g̃uarã nomombe’úiva imbopapapy.
-fonts-languages-fallback-label = Ñembopapapy moñe'ẽrã guerujeýva rehegua
+fonts-languages-fallback-label = Ñembopapapy moñe’ẽrã guerujeýva rehegua
     .accesskey = T
 fonts-languages-fallback-name-auto =
-    .label = Yjypykuéva ñe'ẽ ag̃aguape g̃uarã
+    .label = Yjypykuéva ñe’ẽ ag̃aguápe g̃uarã
 fonts-languages-fallback-name-arabic =
     .label = Árabe
 fonts-languages-fallback-name-baltic =
