@@ -14,7 +14,10 @@ extensions-name = Namn
 extensions-enabled = Aktiverad
 extensions-version = Version
 extensions-id = ID
+support-addons-title = Tillägg
 support-addons-name = Namn
+support-addons-type = Typ
+support-addons-enabled = Aktiverad
 support-addons-version = Version
 support-addons-id = ID
 security-software-title = Säkerhetsprogram
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Öppna mapp
        *[other] Öppna katalog
     }
+experimental-features-title = Experimentella funktioner
+experimental-features-name = Namn
+experimental-features-value = Värde
 modified-key-prefs-title = Viktiga ändrade inställningar
 modified-prefs-name = Namn
 modified-prefs-value = Värde
