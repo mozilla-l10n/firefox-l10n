@@ -18,6 +18,7 @@ extensions-enabled = ਚਾਲੂ ਹੈ
 extensions-version = ਵਰਜ਼ਨ
 extensions-id = ID
 support-addons-name = ਨਾਂ
+support-addons-version = ਵਰਜ਼ਨ
 support-addons-id = ID
 security-software-title = ਸੁਰੱਖਿਆ ਸਾਫਟਵੇਅਰ
 security-software-type = ਕਿਸਮ
