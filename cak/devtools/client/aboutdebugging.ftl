@@ -291,7 +291,7 @@ about-debugging-worker-status-running = Rub'anik
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Pab'an
 # Displayed for service workers in runtime pages that are registering.
-about-debugging-worker-status-registering = Nitz'ib'äx
+about-debugging-worker-status-registering = Nitz'ib'äx b'i'aj
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Akuchi' napon

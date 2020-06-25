@@ -157,7 +157,7 @@ menu-history-restore-last-session =
 menu-history-hidden-tabs =
     .label = Ewan taq Ruwi'
 menu-history-undo-menu =
-    .label = Taq ruwi' k'a b'a' etz'apin
+    .label = Taq Ruwi' k'a b'a' Ketz'apïx
 menu-history-undo-window-menu =
     .label = Taq k'ajtz'ib' k'a b'a' etz'apin
 
