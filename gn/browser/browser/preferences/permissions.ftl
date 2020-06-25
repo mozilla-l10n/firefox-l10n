@@ -157,7 +157,7 @@ permissions-site-camera-disable-desc = Kóva omboykéta ñanduti renda noĩriva 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
-    .title = Ñangareko - Ñe'ẽmbotuichaha Jepuru
+    .title = Ñangareko - Ñe’ẽmbotuichaha Jepuru
     .style = { permissions-window.style }
 permissions-site-microphone-desc = Ko’ã ñanduti renda ojerure ikatúpa oike ñe’ẽ’atãhápe. Ikatu emyesakã mab’e ñanduti rendápa oguereko ñemoneĩ oipurúvo ñe’ẽ’atãha. Avéi ikatu ejoko mba’ejerure pyahu oikeséva ñe’ẽ’atãhápe rehegua.
 permissions-site-microphone-disable-label =

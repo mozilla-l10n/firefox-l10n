@@ -22,19 +22,6 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } ojoko gueteri  tapykuehoha ovetã megua, hákatu noñongatúi pe jokopyre rapykuere.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Tapykuehoha { -brand-short-name } ojejokóva ko arapokõindýpe
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Ñemo’ã oñembohape <b>Estándar</b>-pe
-    .title = Eho ñemigua moĩporãme
-protection-report-header-details-strict = Ñemo’ã oñembohape <b>Estricto</b>-pe
-    .title = Eho ñemigua moĩporãme
-protection-report-header-details-custom = Ñemo’ã oñembohape <b>Personalizado</b>
-    .title = Eho ñemigua moĩporãme
-protection-report-page-title = Ñemigua ñemo’ã
-protection-report-content-title = Ñemigua mo’ãha
-etp-card-title = Tapykueho mo’ãha mbotuichapyre
-etp-card-content = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
 protection-report-webpage-title = Ñemo’ãha renda
 protection-report-page-content-title = Ñemo’ãha renda
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -69,27 +56,16 @@ mobile-app-title = Ejoko ñemurã rapykuehoha hetave mba’e’okápe
 mobile-app-card-content = Eipuru kundahára oku’éva ñemo’ã ijeheguáva ndive ñemurã rapykuehoha rovake.
 mobile-app-links = Pe kundahára { -brand-product-name } <a data-l10n-name="android-mobile-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Ñe’ẽñemi ñeñangareko
 lockwise-header-content = { -lockwise-brand-name } ombyaty iñe’ẽñemi ikundahápe tekorosãme.
 lockwise-header-content-logged-in = Embyaty ha embojuehe ne ñe’ẽñemi opaite ne mba’e’okápe tekorosãme.
-protection-report-view-logins-button = Ehecha tembiapo ñepyrũ
-    .title = Eho jeikeha ñongatupyrépe
-protection-report-save-passwords-button = Eñongatu Ñe'ẽñemi
-    .title = Eñongatu Ñe'ẽñemi { -lockwise-brand-short-name }-pe
+protection-report-save-passwords-button = Eñongatu Ñe’ẽñemi
+    .title = Eñongatu Ñe’ẽñemi { -lockwise-brand-short-name }-pe
 protection-report-manage-passwords-button = Eñangareko Ñe’ẽñemíre
     .title = Eñangareko Ñe’ẽñemíre { -lockwise-brand-short-name }-pe
 lockwise-mobile-app-title = Egueraha ne ñe’ẽñemi opa hendápe
 lockwise-no-logins-card-content = Eipuru ñe’ẽñemi eñongatupyre { -brand-short-name } oimeraẽva mba’e’okápe.
 lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
-       *[other] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
-    }
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -109,19 +85,10 @@ lockwise-scanned-text-no-breached-logins =
 lockwise-how-it-works-link = Mba’éicha omba’apo
 turn-on-sync = Emyandy { -sync-brand-short-name }...
     .title = Eho ñembojuehe erohoryvévape
-manage-connected-devices = Mba’e’oka ñangarekoha…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Oike mba’e’okápe { $count } ndive
-       *[other] Oike mba’e’okuérape { $count } ndive
-    }
 monitor-title = Ema’ẽag̃uíke mba’ekuaarã ñembyaíre
 monitor-link = Mba’éichapa omba’apo
 monitor-header-content-no-account = Ehecha { -monitor-brand-name } eikuaa hag̃ua oĩpara’e mba’ekuaarã kuaapýva ñembyaípe ha oñembou hag̃ua ndéve kyhyjyrã mba’evai rehegua.
 monitor-header-content-signed-in = { -monitor-brand-name } ne nemongyhyje ne marandu’i oĩ haguére mba’ekuaarã ñembyai kuaapývape.
-monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
 monitor-sign-up-link = Eñemboheraguapy ñembogua kyhyjerãme
     .title = Eñemboheraguapy ñembogua kyhyjerãme { -monitor-brand-name } rupi
 auto-scan = Ijehegui ohechajey ko árape
@@ -162,15 +129,6 @@ info-exposed-passwords-found =
     { $count ->
         [one] Ñe’ẽñemi ojehecháva heta ñemboguaha rupive
        *[other] Ñe’ẽñemi ojehecháva heta ñemboguaha rupive
-    }
-full-report-link = Ehechapa marandu’i <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> rehegua
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
-       *[other] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count

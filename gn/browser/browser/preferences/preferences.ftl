@@ -217,8 +217,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Emoañete moñe’ẽrã año
     .accesskey = t
-language-header = Ñe'ẽ
-choose-language-description = Eipoiravo pe ñe'ẽ erohoryvéva ehechauka hag̃ua ñanduti kuatiarogue
+language-header = Ñe’ẽ
+choose-language-description = Eipoiravo pe ñe’ẽ erohoryvéva ehechauka hag̃ua ñanduti kuatiarogue
 choose-button =
     .label = Poravo…
     .accesskey = o
@@ -229,11 +229,11 @@ manage-browser-languages-button =
 confirm-browser-language-change-description = Emoñepyrũjey { -brand-short-name } oñemboheko hag̃ua ko’ã moambuepyre
 confirm-browser-language-change-button = Mohembiapo ha ñepyrũjey
 translate-web-pages =
-    .label = Ñanduti retepy ñe'ẽasa
+    .label = Ñanduti retepy ñe’ẽasa
     .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
-translate-attribution = Ñe'ẽasaha <img data-l10n-name="logo"/>
+translate-attribution = Ñe’ẽasaha <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Oĩ'ỹva…
     .accesskey = ĩ
@@ -429,7 +429,7 @@ browsing-use-cursor-navigation =
     .label = Eipuru tapia tairenda hu'ykuéra aikundaha kuatiaroguépe
     .accesskey = c
 browsing-search-on-start-typing =
-    .label = Eheka moñe'ẽrã ehaikuévo
+    .label = Eheka moñe’ẽrã ehaikuévo
     .accesskey = x
 browsing-picture-in-picture-toggle-enabled =
     .label = Embojuruja ta’ãngamýi ñangarekoha picture-in-picture
@@ -550,13 +550,13 @@ search-engine-default-private-desc-2 = Emoĩ jeheka mongu’eha ypyguáramo ovet
 search-separate-default-engine =
     .label = Eipuru ko jehekaha mongu’eha ovetã ñemíme.
     .accesskey = U
-search-suggestions-header = Ñe'ẽporã jehekarã
-search-suggestions-desc = Eiporavo mba’éichapa osẽta ñe'ẽporã jehekaha mongu’eha.
+search-suggestions-header = Ñe’ẽporã jehekarã
+search-suggestions-desc = Eiporavo mba’éichapa osẽta ñe’ẽporã jehekaha mongu’eha.
 search-suggestions-option =
-    .label = Ehechauka ñe'ẽreka joguaha
+    .label = Ehechauka ñe’ẽreka joguaha
     .accesskey = s
 search-show-suggestions-url-bar-option =
-    .label = Ehechauka ñe'ẽreka joguaha kundaharape ha avei jejuhu hague rendápe
+    .label = Ehechauka ñe’ẽreka joguaha kundaharape ha avei jejuhu hague rendápe
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -564,7 +564,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Tojechauka kundaharape rendápe ñe'ẽreka joguaha tembiasakue mboyve
+    .label = Tojechauka kundaharape rendápe ñe’ẽreka joguaha tembiasakue mboyve
 search-show-suggestions-private-windows =
     .label = Ehechauka jehekaha Windows ñemiguávape
 suggestions-addressbar-settings-generic = Emoambue erohoryvéva ambue ñe’ãporãpe g̃uarã kundaharape rendápe
@@ -800,13 +800,13 @@ forms-saved-logins =
     .label = Emoñepyrũ tembiapo ñongatupyre…
     .accesskey = L
 forms-master-pw-use =
-    .label = Ñe'ẽñemiguasu puru
+    .label = Ñe’ẽñemiguasu puru
     .accesskey = U
 forms-master-pw-change =
-    .label = Ñe'ẽñemiguasu moambue...
+    .label = Ñe’ẽñemiguasu moambue…
     .accesskey = M
-forms-master-pw-fips-title = Ko'ag̃aite oĩhína FIPS rekópe. FIPS oikotevẽ ñe'ẽñemiete inandi'ỹva.
-forms-master-pw-fips-desc = Ñe'ẽñemi moambue jejavy
+forms-master-pw-fips-title = Ko’ag̃aite oĩhína FIPS rekópe. FIPS oikotevẽ ñe’ẽñemiete inandi’ỹva.
+forms-master-pw-fips-desc = Ñe’ẽñemi moambue jejavy
 
 ## OS Authentication dialog
 
@@ -913,7 +913,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Kundaharape renda
-addressbar-suggest = Eipurúramo kundaharape renda, eñemoñe'ẽ
+addressbar-suggest = Eipurúramo kundaharape renda, eñemoñe’ẽ
 addressbar-locbar-history-option =
     .label = Kundaha rembiasakue
     .accesskey = h
@@ -1040,7 +1040,7 @@ permissions-camera = Cámara
 permissions-camera-settings =
     .label = Ñangareko…
     .accesskey = t
-permissions-microphone = Ñe'ẽmbotuichaha
+permissions-microphone = Ñe’ẽmbotuichaha
 permissions-microphone-settings =
     .label = Ñangareko…
     .accesskey = t

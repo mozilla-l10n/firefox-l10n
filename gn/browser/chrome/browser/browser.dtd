@@ -239,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Epyta">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "Kundaharape renda URL-pe jeho">
 
 <!ENTITY printButton.label            "Mbokuatia">
@@ -247,33 +246,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ehecha marandu ko tenda pegua">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Eike ñe'ẽmondo rupápe">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Eike ñe’ẽmondo rupápe">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Tendaite jerurepy rupa ijurujáva">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Embojuruja ñemboheta ijeheguíva ra’angarupa">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Eike ñe'ẽmondo moĩmbaha ñemohenda ra'ãngarupápe">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Eike ñe’ẽmondo moĩmbaha ñemohenda ra’ãngarupápe">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Ñangareko Moñeĩ Oñeguehohẽ hag̃ua Canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Eguereko ñangarekoha rekaha. Eikutu Esc eguereko jey hag̃ua pe ñangarekoha.">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Eike ñe'ẽmondo rupa ñe'ẽñemi ñongatuhápe">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Eike ñe’ẽmondo rupa ñe’ẽñemi ñongatuhápe">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Mba’ejoajurã jepuru ñangareko">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mba’ekuaarã ñembyaty, ñembyaty hi’arekuaávape">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Kundahára oĩ ñangarekoha okayguáva poguýpe">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Eike pe ñanduti mboajeha rupápe">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Embojuruja kundaha rembiapo ñemoneĩ rupa">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Eñangareko moherakuã nerovetã térã mba’erechaha ko tenda ndive">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Eipuruhína neñe'atãha ko tenda ndive">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Eipuruhína neñe’atãha ko tenda ndive">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Eñangareko moherakuã nerovetã térã mba’erechaha ko tenda ndive">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Eike ñe'ẽmondo ñemohenda ra'ãngarupápe">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Emoñe'ẽasa ko kuatiarogue">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Eñangareko kuatiarogue ñe'ẽasa rehe">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Eike ñe’ẽmondo ñemohenda ra’ãngarupápe">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Emoñe’ẽasa ko kuatiarogue">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Eñangareko kuatiarogue ñe’ẽasa rehe">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Eñangareko DRM software jepuru rehe">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Eike ta’ãngarupa MIDI pe">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ejokóma ne ta’ãngamýi ko ñanduti rendápe g̃uarã.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Ejokóma ne ñe'ẽatãha ko ñanduti rendápe g̃uarã.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Ejokóma ne ñe’ẽatãha ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba’erechaha.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ejokóma marandu ejuhukuaa hag̃ua ko ñanduti renda.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ejokóma ñemomarandu ko ñanduti rendápe g̃uarã.">
@@ -286,9 +284,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Ejokóma tembipuru’i ñemohenda ko ñandutípe g̃uarã.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tembiasakue jehechauka">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Oñeme’ẽ ko ñanduti rendápe ñemoneĩ jo’a.">
-
 
 <!ENTITY searchItem.title             "Heka">
 
@@ -398,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Ta’ãngarupa yke">
 <!ENTITY viewSidebarMenu.accesskey "e">
-
 <!ENTITY viewCustomizeToolbar.label       "Ñemomba’e…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
@@ -493,8 +487,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Hetave">
 
 <!ENTITY openCmd.commandkey           "l">
-
-<!ENTITY urlbar.placeholder2          "Ñe'ẽreka ýrõ kundaharape">
+<!ENTITY urlbar.placeholder2          "Ñe’ẽreka ýrõ kundaharape">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Jepysokue:">
@@ -764,7 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Moñe'ẽrã año mongakuaa">
+<!ENTITY fullZoomToggleCmd.label        "Moñe’ẽrã año mongakuaa">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 
 <!ENTITY fullZoom.label                 "Tuichakue">
@@ -807,7 +800,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Kuatiarogue kundaharape moambue">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Kundaharape moñe'ẽrã moambue">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Kundaharape moñe’ẽrã moambue">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
@@ -820,7 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Ñe'ẽryru mbojoapy…">
+<!ENTITY spellAddDictionaries.label "Ñe’ẽryru mbojoapy…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
@@ -852,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Ko kuatiarogue oipuru ñangarekoha ikangýva.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Nde jeike ko tendápe naiñemíri. Marandu remondóva ikatu ohecha ambue tapicha (ñe'ẽñemíramo, ñe'ẽmondo, kuatia'atã ñemurã ha ambue).">
+<!ENTITY identity.description.insecure "Nde jeike ko tendápe naiñemíri. Marandu remondóva ikatu ohecha ambue tapicha (ñe’ẽñemíramo, ñe’ẽmondo, kuatia’atã ñemurã ha ambue).">
 <!ENTITY identity.description.insecureLoginForms "Pe marandu tembiapo ñepyrũ pegua emoingéva ko kuatiaroguépe nahekorosãi ha ikatu noĩporãmbái.">
 <!ENTITY identity.description.weakCipher "Nde jeike ko ñanduti rendápe oipuru ñangarekoha ikangýva ha naiñemíri.">
 <!ENTITY identity.description.weakCipher2 "Ambue tapichakuéra ikatu ohecha nemarandu térã omoambue ñanduti kuatiarogue reko.">
@@ -861,7 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (mba’era’ãngáramo).">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; ojokóramo jepe heta retepy, oĩ gueteri tetepy kuatiaroguépe ndaijegueroviapáiva (mba’era’ãngáramo).">
 <!ENTITY identity.description.activeLoaded "Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (guiõramo) ha nde jeike pype naiñemíri.">
-<!ENTITY identity.description.activeLoaded2 "Marandu remondóva ko kuatiaroguépe ikatu ohecha ambue tapicha (ñe'ẽñemíramo, ñe'ẽmondo, kuatia'atã ñemurã ha ambue).">
+<!ENTITY identity.description.activeLoaded2 "Marandu remondóva ko kuatiaroguépe ikatu ohecha ambue tapicha (ñe’ẽñemíramo, ñe’ẽmondo, kuatia’atã ñemurã ha ambue).">
 <!ENTITY identity.description.customRoot "Mozilla nomoneĩri ko mboajepyre me’ẽhápe. Ikatu oñembojuaju apopyvusu oku’éva térã ñangarekoha rupive.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ñemo’ã myandy">
@@ -908,7 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.label "Ta’angamýi hetápe guarãva:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Ñe'ẽatãha hetápe g̃uarãva:">
+<!ENTITY getUserMedia.selectMicrophone.label "Ñe’ẽatãha hetápe g̃uarãva:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Tenda’i mba’epu oñemosarambíta.">
 <!ENTITY getUserMedia.allWindowsShared.message "Oñemosarambíta opaite ovetã ojehecháva mba’erechahápe.">
