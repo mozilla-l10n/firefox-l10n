@@ -103,6 +103,7 @@ onboarding-ghostery-text = גלישה מהירה, חכמה או בטוחה יו�
 onboarding-fxa-title = סנכרון
 onboarding-fxa-text = הירשמו ל־{ -fxaccount-brand-name } וסנכרנו את הסימניות, הססמאות והלשוניות הפתוחות בכל מקום שבו תשתמשו ב־{ -brand-short-name }.
 onboarding-tracking-protection-title2 = הגנה מפני מעקב
+onboarding-tracking-protection-text2 = { -brand-short-name } מסייע למנוע מאתרים לעקוב אחריך ברשת, ומקשה על מודעות לעקוב אחריך ברחבי האינטרנט.
 onboarding-tracking-protection-button2 = איך זה עובד
 onboarding-data-sync-title = ההגדרות שלך הולכות אתך
 # "Sync" is short for synchronize.
@@ -114,6 +115,7 @@ onboarding-firefox-monitor-button = הרשמה להתרעות
 onboarding-browse-privately-title = גלישה בפרטיות
 onboarding-browse-privately-text = גלישה פרטית מנקה את היסטוריית החיפוש והגלישה שלך כדי לשמור עליה בסוד מכל מי שמשתמש במחשב שלך.
 onboarding-browse-privately-button = פתיחת חלון פרטי
+onboarding-firefox-send-text2 = ניתן להעלות את הקבצים שלך אל { -send-brand-name } כדי לשתף אותם עם הצפנה מקצה לקצה וקישור שפג באופן אוטומטי.
 onboarding-firefox-send-button = לנסות את { -send-brand-name }
 onboarding-mobile-phone-title = קבלת { -brand-product-name } לטלפון שלך
 onboarding-mobile-phone-text = ניתן להוריד את { -brand-product-name } עבור iOS או Android ולסנכרן את הנתונים שלך בין מכשירים.
