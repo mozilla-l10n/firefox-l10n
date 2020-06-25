@@ -16,6 +16,7 @@ extensions-version = Տարբերակ
 extensions-id = Նոյնացուցիչ
 support-addons-name = Անուն
 support-addons-version = Տարբերակ
+support-addons-id = Նոյնացուցիչ
 security-software-title = Անվտանգութեան ծրագրաշար
 security-software-type = Տեսակ
 security-software-name = Անուն
