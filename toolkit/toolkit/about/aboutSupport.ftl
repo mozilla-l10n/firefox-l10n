@@ -14,6 +14,7 @@ extensions-name = სახელი
 extensions-enabled = ჩართულია
 extensions-version = ვერსია
 extensions-id = ID
+support-addons-id = ID
 security-software-title = უსაფრთხოების დაცვის პროგრამა
 security-software-type = სახეობა
 security-software-name = სახელი
