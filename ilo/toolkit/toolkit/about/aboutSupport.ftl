@@ -5,6 +5,8 @@
 crashes-id = ID ti Danon
 extensions-name = Nagan
 extensions-version = Bersion
+support-addons-name = Nagan
+support-addons-version = Bersion
 app-basics-title = Kangrunaan a Kapanunotan
 app-basics-name = Nagan
 app-basics-version = Bersion
@@ -15,7 +17,9 @@ a11y-title = Aksesibilidad
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -26,7 +30,9 @@ a11y-title = Aksesibilidad
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
+
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -42,7 +48,6 @@ try-newer-driver = Linapdan agsipud iti bersion ti grapiko a driver. Padasenyo n
 ## not found.
 
 gpu-device-id = ID ti aparato
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
