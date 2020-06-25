@@ -238,3 +238,10 @@ cfr-whatsnew-protections-icon-alt = Icône de bouclier
 
 cfr-whatsnew-better-pdf-header = Meilleure expérience PDF
 cfr-whatsnew-better-pdf-body = Les documents PDF s’ouvrent maintenant directement dans { -brand-short-name }, gardant vos outils de travail à portée de main.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Le respect de votre vie privée est important. Désormais, et lorsque cela est possible, { -brand-short-name } envoie vos requêtes DNS de manière sécurisée vers un service fourni par un partenaire pour vous protéger pendant votre navigation.
+cfr-doorhanger-doh-header = Des requêtes DNS chiffrées et plus sûres
+cfr-doorhanger-doh-secondary-button = Désactiver
+    .accesskey = D
