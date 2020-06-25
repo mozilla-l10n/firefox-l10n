@@ -249,7 +249,7 @@ cfr-whatsnew-better-pdf-body = PDF-dokumenter åpnes nå direkte i { -brand-shor
 ## DOH Message
 
 cfr-doorhanger-doh-body = Ditt personvern betyr noe. { -brand-short-name } ruter nå dine DNS-forespørsler sikkert når det er mulig, til en tjeneste levert av en partner, for å beskytte deg mens du surfer.
-cfr-doorhanger-doh-header = Sikker og kryptert DNS-oppslag
+cfr-doorhanger-doh-header = Sikrere, krypterte DNS-oppslag
 cfr-doorhanger-doh-primary-button = OK, jeg skjønner
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Slå av

@@ -6,7 +6,7 @@
 ## App Menu
 
 appmenuitem-update-banner =
-    .label-update-downloading = Last ned { -brand-shorter-name }-oppdatering
+    .label-update-downloading = Laster ned { -brand-shorter-name }-oppdatering
 appmenuitem-protection-dashboard-title = Sikkerhetsoversikt
 appmenuitem-customize-mode =
     .label = Tilpass …
