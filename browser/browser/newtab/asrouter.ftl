@@ -214,3 +214,12 @@ cfr-whatsnew-protections-icon-alt = סמל מגן
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = חוויית PDF טובה יותר
+
+## DOH Message
+
+cfr-doorhanger-doh-body = הפרטיות שלך חשובה. { -brand-short-name } מעביר כעת את בקשות ה־DNS שלך, כאשר ניתן, לשירות שותף כדי להגן עליך בזמן הגלישה.
+cfr-doorhanger-doh-header = חיפושי DNS מוצפנים ומאובטחים יותר
+cfr-doorhanger-doh-primary-button = בסדר, הבנתי
+    .accesskey = ב
+cfr-doorhanger-doh-secondary-button = השבתה
+    .accesskey = ה

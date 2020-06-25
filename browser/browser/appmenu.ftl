@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = הגנות פרטיות
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = מעבר לדוח הפרטיות שלך
+appmenuitem-update-banner =
+    .label-update-downloading = בתהליך הורדת עדכון ל־{ -brand-shorter-name }
 appmenuitem-protection-dashboard-title = לוח הגנות
 appmenuitem-customize-mode =
     .label = התאמה אישית…
