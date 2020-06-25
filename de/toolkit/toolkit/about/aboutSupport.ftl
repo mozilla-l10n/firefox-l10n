@@ -18,6 +18,7 @@ extensions-enabled = Aktiviert
 extensions-version = Version
 extensions-id = ID
 support-addons-name = Name
+support-addons-enabled = Aktiviert
 support-addons-version = Version
 support-addons-id = ID
 security-software-title = Sicherheitssoftware
@@ -77,6 +78,9 @@ show-dir-label =
         [windows] Ordner öffnen
        *[other] Ordner öffnen
     }
+experimental-features-title = Experimentelle Funktionen
+experimental-features-name = Name
+experimental-features-value = Wert
 modified-key-prefs-title = Wichtige modifizierte Einstellungen
 modified-prefs-name = Name
 modified-prefs-value = Wert
