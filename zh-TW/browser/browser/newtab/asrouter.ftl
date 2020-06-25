@@ -235,3 +235,12 @@ cfr-whatsnew-protections-icon-alt = 盾牌圖示
 
 cfr-whatsnew-better-pdf-header = 更好的 PDF 閱讀體驗
 cfr-whatsnew-better-pdf-body = 現在可以直接在 { -brand-short-name } 直接開啟 PDF 文件，更輕鬆完成工作。
+
+## DOH Message
+
+cfr-doorhanger-doh-body = 您的隱私權相當重要。現在起，{ -brand-short-name } 會在您上網時，盡可能透過夥伴所提供的服務安全地進行 DNS 查詢，以保護您的隱私。
+cfr-doorhanger-doh-header = 更安全、加密的 DNS 查詢
+cfr-doorhanger-doh-primary-button = 好，知道了
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = 停用
+    .accesskey = D
