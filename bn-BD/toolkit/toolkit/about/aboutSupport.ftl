@@ -4,7 +4,6 @@
 
 page-title = সমস্যার সমাধান সংক্রান্ত তথ্য
 page-subtitle = এ পাতায় প্রযুক্তিগত তথ্য আছে যা সমস্যা সমাধানের সময় আপনার জন্য উপকারী হতে পারে। আপনি যদি { -brand-short-name } সম্পর্কিত কোনো সাধারণ প্রশ্নের উত্তর খুঁজতে থাকেন তবে, আমাদের <a data-l10n-name="support-link"> সাপোর্ট ওয়েব সাইট পরীক্ষা করে দেখেন</a>।
-
 crashes-title = ক্র্যাশ প্রতিবেদন
 crashes-id = প্রতিবেদন আইডি
 crashes-send-date = প্রেরিত
@@ -15,6 +14,8 @@ extensions-name = নাম
 extensions-enabled = সক্রিয়
 extensions-version = সংস্করণ
 extensions-id = ID
+support-addons-name = নাম
+support-addons-version = সংস্করণ
 security-software-title = নিরাপত্তার সফটওয়্যার
 security-software-type = ধরণ
 security-software-name = নাম
@@ -103,7 +104,6 @@ audio-backend = অডিও ব্যাক-এন্ড
 max-audio-channels = ম্যাক্স চ্যানেল
 channel-layout = পছন্দের চ্যানেল লেআউট
 sample-rate = পছন্দের নমুনা হার
-
 media-title = মিডিয়া
 media-output-devices-title = আউটপুট ডিভাইস
 media-input-devices-title = ইনপুট ডিভাইস
@@ -138,6 +138,7 @@ intl-regional-prefs = আঞ্চলিক পছন্দসমূহ
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
@@ -147,7 +148,6 @@ report-crash-for-days =
         [one] সর্বশেষ { $days } দিনের ক্র্যাশ রিপোর্ট
        *[other] সর্বশেষ { $days } দিনের ক্র্যাশ রিপোর্ট
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -155,7 +155,6 @@ crashes-time-minutes =
         [one] { $minutes } মিনিট পূর্বে
        *[other] { $minutes } মিনিট পূর্বে
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -163,7 +162,6 @@ crashes-time-hours =
         [one] { $hours } ঘন্টা পূর্বে
        *[other] { $hours } ঘন্টা পূর্বে
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -171,7 +169,6 @@ crashes-time-days =
         [one] { $days } দিন পূর্বে
        *[other] { $days } দিন পূর্বে
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -179,7 +176,6 @@ pending-reports =
         [one] সকল ক্র্যাশ রিপোর্ট (প্রদান করা সময়ের মধ্যে { $reports } টি অমীমাংসিত ক্র্যাশ সহ)
        *[other] সকল ক্র্যাশ রিপোর্ট (প্রদান করা সময়ের মধ্যে { $reports } টি অমীমাংসিত ক্র্যাশ সহ)
     }
-
 raw-data-copied = অবিন্যস্ত ডাটা ক্লিপবোর্ডে অনুলিপি করা হয়েছে
 text-copied = টেক্সট ক্লিপবোর্ডে অনুলিপি করা হয়েছে
 
@@ -192,11 +188,9 @@ blocked-mismatched-version = রেজিস্ট্রি এবং DLL এর
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = আপনার গ্রাফিক্স ড্রাইভার সংস্করণের জন্য ব্লক করুন। সংস্করণের { $driverVersion } অথবা আরও নতুন সংস্করণে আপনার গ্রাফিক্স ড্রাইভার হালনাগাদ করার চেষ্টা করুন।
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType স্থিতিমাপসমূহ
-
 compositing = কম্পোজিটিং
 hardware-h264 = H264 হার্ডওয়্যার ডিকোডিং
 main-thread-no-omtc = মূল থ্রেড, OMTC নাই
@@ -210,7 +204,6 @@ unknown = অজানা
 
 found = পাওয়া গেছে
 missing = নিখোঁজ
-
 gpu-description = বিবরণ
 gpu-vendor-id = ভেন্ডর ID
 gpu-device-id = ডিভাইস ID
@@ -231,31 +224,25 @@ webgl2-version = WebGL 2 ড্রাইভার সংষ্করণ
 webgl2-driver-extensions = WebGL 2 ড্রাইভার এক্সটেনসন
 webgl2-extensions = WebGL 2 এক্সটেনশন
 blocklisted-bug = জ্ঞাত সমস্যার কারণে ব্লকতালিকাভুক্ত
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = বাগ { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ব্লকতালিকাভুক্ত; ব্যর্থ কোড { $failureCode }
-
 d3d11layers-crash-guard = D3D11 কম্পোজিটর
 d3d11video-crash-guard = D3D11 ভিডিও ডিকোডার
 d3d9video-crash-buard = D3D9 ভিডিও ডিকোডার
 d3d9video-crash-guard = D3D9 ভিডিও ডিকোডার
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = পুনরায় শুরু করার সময় রিসেট করুন
 gpu-process-kill-button = GPU প্রক্রিয়া বন্ধ করুন
 gpu-device-reset-button = ট্রিগার ডিভাইস রিসেট
 uses-tiling = Tiling ব্যবহার করে
 off-main-thread-paint-enabled = অফ মেইন থ্রেড পেইন্টিং সক্রিয়
 off-main-thread-paint-worker-count = Main Thread Painting Worker Count বন্ধ
-
 min-lib-versions = প্রত্যাশিত সর্বনিম্ন সংস্করণ
 loaded-lib-versions = ব্যবহৃত সংস্করণ
-
 has-seccomp-bpf = Seccomp-BPF (সিস্টেম কল ফিল্টারিং)
 has-seccomp-tsync = সিকম্প থ্রেড সিংক্রোনাইজেশন
 has-user-namespaces = ব্যবহারকারী নামস্থান
@@ -267,7 +254,6 @@ effective-content-sandbox-level = ইফেক্টিভ কন্টেন্
 sandbox-proc-type-content = কন্টেন্ট
 sandbox-proc-type-file = ফাইল কনটেন্ট
 sandbox-proc-type-media-plugin = মিডিয়া প্লাগইন
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -280,7 +266,6 @@ multi-process-status-6 = অসমর্থিত টেক্সট ইনপ�
 multi-process-status-7 = অ্যান্ড-অন দ্বারা নিষ্ক্রিয় হয়েছে
 multi-process-status-8 = বলপূর্বক নিষ্ক্রিয় করা হয়েছে
 multi-process-status-unknown = অজানা অবস্থা
-
 async-pan-zoom = অ্যাসিংক্রোনাস প্যান/জুম
 apz-none = কোনোটি নয়
 wheel-enabled = চাকা নিবেশ সক্ষম
