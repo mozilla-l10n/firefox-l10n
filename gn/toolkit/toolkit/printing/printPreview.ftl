@@ -49,7 +49,7 @@ printpreview-percentage-value =
     .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
-    .tooltiptext = Kuatiarogue peteïha
+    .tooltiptext = Kuatiarogue peteĩha
 printpreview-previousarrow =
     .label = { $arrow }
     .tooltiptext = Kuatiarogue mboyvegua
@@ -59,4 +59,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Kuatiarogue paha
-
