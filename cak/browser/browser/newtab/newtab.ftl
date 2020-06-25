@@ -153,7 +153,7 @@ newtab-section-menu-add-topsite = Titz'aqatisäx K'ïy Ruwinaq Ruxaq K'amaya'l
 newtab-section-menu-add-search-engine = Titz'aqatisäx Kanob'äl
 newtab-section-menu-move-up = Tijotob'äx
 newtab-section-menu-move-down = Tiqasäx qa
-newtab-section-menu-privacy-notice = Ichinan na'oj
+newtab-section-menu-privacy-notice = Ichinan Na'oj
 
 ## Section aria-labels
 

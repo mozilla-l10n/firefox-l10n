@@ -765,7 +765,7 @@ sync-connect-another-device = Tokisäx jun chik okisaxel
 sync-manage-devices = Kenuk'samajïx taq okisaxel
 sync-fxa-begin-pairing = Tichojmirisäx jun okisaxel
 sync-tos-link = Ketal Samaj
-sync-fxa-privacy-notice = Ichinan na'oj
+sync-fxa-privacy-notice = Ichinan Na'oj
 
 ## Privacy Section
 
@@ -1085,7 +1085,7 @@ permissions-a11y-privacy-link = Tetamäx ch'aqa' chik
 
 collection-header = { -brand-short-name } Kimolik chuqa' Kokisaxik taq Tzij
 collection-description = Niqatïj qaq'ij richin yeqasüj taq cha'oj chawe chuqa' yeqamöl xa xe ri niqajo' niqaq'axaj chawe chuqa' ri niqutzilaj { -brand-short-name } kichin konojel. Junelïk naqak'utuj qij chuwäch niqak'ül ri awetamab'al.
-collection-privacy-notice = Rutzijol Ichinanem
+collection-privacy-notice = Ichinan Na'oj
 collection-health-report-telemetry-disabled = Man nuya' ta chik q'ij chi ri { -vendor-short-name } yeruchäp samajel chuqa' k'exonel taq tzij. Konojel ri taq tzij xkeyujtäj pa 30 q'ij.
 collection-health-report-telemetry-disabled-link = Tetamäx ch'aqa' chik
 collection-health-report =

@@ -29,7 +29,7 @@ community-2 = { -brand-short-name } wachib'en ruma <label data-l10n-name="commun
 helpus = ¿La nawajo' yato'on? <label data-l10n-name="helpus-donateLink">Taya' jun sipanïk</label> o <label data-l10n-name="helpus-getInvolvedLink">¡kato'on!</label>
 bottomLinks-license = Rutzijol Ya'öl Q'ij
 bottomLinks-rights = Kich'ojib'al K'isib'äl-Okisanel
-bottomLinks-privacy = Runa'ojil ichinanem
+bottomLinks-privacy = Ichinan Na'oj
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

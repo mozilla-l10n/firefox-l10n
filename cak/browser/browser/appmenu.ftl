@@ -5,7 +5,7 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Richinanem Chajinem
+appmenuitem-protection-report-title = Ichinan Chajinem
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tatz'eta' ri ichinan rutzijol
 appmenuitem-protection-dashboard-title = Rupas taq Chajinïk

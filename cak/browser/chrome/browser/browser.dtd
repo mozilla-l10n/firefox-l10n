@@ -60,7 +60,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Tinuk'samajïx ruxaq…">
 <!ENTITY printSetupCmd.accesskey "n">
-<!ENTITY printPreviewCmd.label "Nab'ey tz'etoj">
+<!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
 <!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Titz'ajb'äx…">
 <!ENTITY printCmd.accesskey "T">

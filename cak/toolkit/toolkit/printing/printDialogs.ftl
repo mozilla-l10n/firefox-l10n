@@ -92,7 +92,7 @@ hf-page-and-total =
 hf-custom =
     .label = Ichinan…
 print-preview-window =
-    .title = Nab'ey tz'etoj
+    .title = Nab'ey Tz'etoj
 print-title =
     .value = B'i'aj:
 print-preparing =
@@ -103,7 +103,6 @@ print-window =
     .title = Tajin nitz'ajb'äx
 print-complete =
     .value = Xtz'aqät ri rutz'ajik.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
