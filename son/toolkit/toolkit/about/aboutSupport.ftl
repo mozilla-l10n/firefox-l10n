@@ -16,6 +16,7 @@ extensions-version = Dumi
 extensions-id = ID
 support-addons-name = Maa
 support-addons-version = Dumi
+support-addons-id = ID
 features-title = { -brand-short-name } alhaaley
 features-name = Maa
 features-version = Dumi
