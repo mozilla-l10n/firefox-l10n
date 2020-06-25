@@ -14,7 +14,10 @@ extensions-name = Mě
 extensions-enabled = Zmóžnjony
 extensions-version = Wersija
 extensions-id = ID
+support-addons-title = Dodanki
 support-addons-name = Mě
+support-addons-type = Typ
+support-addons-enabled = Zmóžnjony
 support-addons-version = Wersija
 support-addons-id = ID
 security-software-title = Wěstotna software
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Zarědnik wócyniś
        *[other] Zarědnik wócyniś
     }
+experimental-features-title = Eksperimentelne funkcije
+experimental-features-name = Mě
+experimental-features-value = Gódnota
 modified-key-prefs-title = Wažne změnjone nastajenja
 modified-prefs-name = Mě
 modified-prefs-value = Gódnota
