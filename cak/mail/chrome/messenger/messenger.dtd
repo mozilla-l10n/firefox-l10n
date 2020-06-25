@@ -546,7 +546,7 @@
 <!ENTITY nextButton.label "Jun chik">
 <!ENTITY nextButtonToolbarItem.label "Jun chik Man Sik'in Ta">
 <!ENTITY nextMsgButton.label "Jun chik">
-<!ENTITY previousButton.label "Chuwäch">
+<!ENTITY previousButton.label "Jun kan">
 <!ENTITY previousButtonToolbarItem.label "Chuwäch Man Sik'in Ta">
 <!ENTITY previousMsgButton.label "Chuwäch">
 <!ENTITY backButton1.label "Chi rij">
@@ -815,7 +815,7 @@
 <!ENTITY contextSaveAs.accesskey "y">
 <!ENTITY contextPrint.label "Titz'ajb'äx…">
 <!ENTITY contextPrint.accesskey "t">
-<!ENTITY contextPrintPreview.label "Nab'ey tz'etoj">
+<!ENTITY contextPrintPreview.label "Nab'ey Tz'etoj">
 <!ENTITY contextPrintPreview.accesskey "b">
 
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):

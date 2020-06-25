@@ -42,7 +42,7 @@
 <!ENTITY cellSelectColumn.label           "Tem">
 <!ENTITY cellSelectNext.label             "Jun chik">
 <!ENTITY cellSelectNext.accessKey         "c">
-<!ENTITY cellSelectPrevious.label         "Chuwa">
+<!ENTITY cellSelectPrevious.label         "Jun kan">
 <!ENTITY cellSelectPrevious.accessKey     "C">
 <!ENTITY applyBeforeChange.label          "Xkeb'anatäj ri taq jaloj e'oyob'en chuwäch xtijal ri cha'oj.">
 <!ENTITY cellContentAlignment.label       "Rucholajem Rupam">
