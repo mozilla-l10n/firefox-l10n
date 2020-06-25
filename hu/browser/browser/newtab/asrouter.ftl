@@ -244,3 +244,12 @@ cfr-whatsnew-protections-icon-alt = Pajzs ikon
 
 cfr-whatsnew-better-pdf-header = Jobb PDF-élmény
 cfr-whatsnew-better-pdf-body = A PDF-dokumentumok már közvetlenül a { -brand-short-name }ban nyílnak meg, így a munkafolyamata egyszerű maradhat.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Számít az adatvédelem. A { -brand-short-name }, amikor csak lehet, biztonságosan továbbítja a DNS-kéréseit egy partnerszolgáltatóhoz, hogy megvédje Önt, miközben böngészik.
+cfr-doorhanger-doh-header = Biztonságosabb, titkosított DNS-keresések
+cfr-doorhanger-doh-primary-button = Rendben, értem
+    .accesskey = R
+cfr-doorhanger-doh-secondary-button = Letiltás
+    .accesskey = t

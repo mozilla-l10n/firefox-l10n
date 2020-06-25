@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Adatvédelem
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Ugrás az adatvédelmi jelentéséhez
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name }-frissítés letöltése
 appmenuitem-protection-dashboard-title = Védelmi vezérlőpult
 appmenuitem-customize-mode =
     .label = Testreszabás…
