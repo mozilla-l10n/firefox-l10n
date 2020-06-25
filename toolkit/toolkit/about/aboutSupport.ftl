@@ -19,6 +19,7 @@ extensions-version = නිකුතුව
 extensions-id = ID
 support-addons-name = නම
 support-addons-version = නිකුතුව
+support-addons-id = ID
 security-software-title = ආරක්ෂක මෘදුකාංග
 security-software-type = වර්ගය
 security-software-name = නම
