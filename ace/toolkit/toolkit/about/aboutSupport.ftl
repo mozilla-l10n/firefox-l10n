@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 extensions-name = Nan
+support-addons-name = Nan
 security-software-name = Nan
 features-name = Nan
 app-basics-name = Nan
@@ -15,6 +16,7 @@ media-device-name = Nan
 
 ##
 
+
 ## Remote Debugging
 ##
 ## The Firefox remote protocol provides low-level debugging interfaces
@@ -24,7 +26,9 @@ media-device-name = Nan
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
+
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -36,7 +40,6 @@ unknown = Hana Jituri
 ## not found.
 
 glcontext-crash-guard = OpenGL
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
