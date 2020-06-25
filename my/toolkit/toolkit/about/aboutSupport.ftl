@@ -16,6 +16,7 @@ extensions-version = မူအဆင့်
 extensions-id = အိုင်ဒီ
 support-addons-name = အမည်
 support-addons-version = မူအဆင့်
+support-addons-id = အိုင်ဒီ
 features-title = { -brand-short-name } တွင် ပါဝင်သော လုပ်ဆောင်ချက်များ
 features-name = အမည်
 features-version = ဗားရှင်း
