@@ -99,6 +99,8 @@ graphics-crash-guards-title = תכונות מנוטרלות של מגן הקרי
 graphics-workarounds-title = מעקפים
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = פרוטוקול חלון
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = סביבת שולחן עבודה
 place-database-title = מסד נתוני מיקום
 place-database-integrity = תקינות
 place-database-verify-integrity = וידוא תקינות
@@ -279,6 +281,7 @@ can-sandbox-media = ארגז חול לתוספים חיצוניים עבור מ�
 sandbox-proc-type-content = תוכן
 sandbox-proc-type-file = תוכן קובץ
 sandbox-proc-type-media-plugin = תוסף מדיה
+startup-cache-title = מטמון הפעלה
 startup-cache-disk-cache-path = נתיב מטמון הכונן
 startup-cache-ignore-disk-cache = התעלמות ממטמון הכונן
 startup-cache-wrote-to-disk-cache = נכתב למטמון הכונן
