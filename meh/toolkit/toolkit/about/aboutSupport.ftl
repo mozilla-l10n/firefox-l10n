@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 extensions-id = ID
+support-addons-id = ID
 features-id = ID
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -18,7 +21,9 @@ features-id = ID
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
+
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
