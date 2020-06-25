@@ -16,6 +16,7 @@ extensions-version = نسخه
 extensions-id = شناسه
 support-addons-name = نام
 support-addons-version = نسخه
+support-addons-id = شناسه
 security-software-title = نرم‌افزار امنیتی
 security-software-type = نوع
 security-software-name = نام
