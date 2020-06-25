@@ -4,7 +4,6 @@
 
 page-title = Nfurmazziuna p'arrisòrbiri prubblemi
 page-subtitle = Sta pàggina cunteni nfurmazziuna tècnichi ca ti ponnu èssiri utili quannu stai pruvannu ad arrisòrbiri quarchi prubblema. Si stai circannu i risposti ê dumanni cchiù friquenti supra a { -brand-short-name }, cuntrolla u nostru <a data-l10n-name="support-link">situ dû supportu</a>.
-
 crashes-title = Signalazziuna di blocchi
 crashes-id = ID signalazziuni
 crashes-send-date = Mannata
@@ -15,6 +14,9 @@ extensions-name = Nomu
 extensions-enabled = Abbilitata
 extensions-version = Virsiuni
 extensions-id = ID
+support-addons-name = Nomu
+support-addons-version = Virsiuni
+support-addons-id = ID
 security-software-title = Prugrammi di sicurizza
 security-software-type = Tipu
 security-software-name = Nomu
@@ -47,10 +49,8 @@ restart-in-safe-mode-label = Riabbìa cu l'agghiuncitini disabbilitati…
 ## Media titles
 
 
-
-
-
 ##
+
 
 ## Remote Debugging
 ##
@@ -62,10 +62,8 @@ restart-in-safe-mode-label = Riabbìa cu l'agghiuncitini disabbilitati…
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 
-
-
-
 ##
+
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
