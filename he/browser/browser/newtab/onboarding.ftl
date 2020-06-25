@@ -19,6 +19,9 @@ onboarding-button-label-get-started = תחילת עבודה
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = ברוכים הבאים אל { -brand-short-name }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = ברוכים הבאים אל <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = הדפדפן כבר בידיך.<br/>עכשיו נציג את שאר { -brand-product-name }.
 onboarding-welcome-learn-more = מידע נוסף על היתרונות.
 onboarding-join-form-header = הצטרפות אל { -brand-product-name }
@@ -117,6 +120,9 @@ onboarding-mobile-phone-text = ניתן להוריד את { -brand-product-name 
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = הורדת דפדפן לנייד
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = ‏Send Tabs משתף באופן מיידי דפים בין המכשירים שלך מבלי להעתיק, להדביק או לעזוב את הדפדפן.
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = שיתוף פשוט של דפים בין המכשירים שלך מבלי להעתיק את הקישורים או לעזוב את הדפדפן.
