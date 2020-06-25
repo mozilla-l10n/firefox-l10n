@@ -4,12 +4,13 @@
 
 page-title = Hawyi ho infɔmehyɛn
 page-subtitle = Krataafa yi wɔ infɔmehyɛn bi a ebɛhia sɛwo pɛsɛ wo siesie ɔhaw bi a. Sɛ wopɛ nyiano ma nsɛmbisa bi a ɛfa { -brand-short-name } ho a, hwɛ yɛ mmoa seat yi <a data-l10n-name="support-link"> </a>.
-
 crashes-id = Bɔ ahyɛnsode ho amane
 extensions-title = Ntrɛtrɛmu
 extensions-name = Din
 extensions-enabled = Ekenyan
 extensions-version = Vɛɛhyen
+support-addons-name = Din
+support-addons-version = Vɛɛhyen
 app-basics-title = Aplekehyɛn mfitiase
 app-basics-name = Din
 app-basics-version = Vɛɛhyen
@@ -35,7 +36,9 @@ library-version-title = Nwomasiebea Vɛɛhyennom
 
 ## Media titles
 
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -45,6 +48,7 @@ library-version-title = Nwomasiebea Vɛɛhyennom
 ## and for subscribing to browser-internal events.
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
+
 
 ##
 
@@ -58,7 +62,6 @@ blocked-os-version = Esiw ama wo ɔperetin sestɛm vɛɛhyen no.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Eniso-ade drɔba no esiw. Bɔ mbɔden to wo eniso-ade drɔba so kɔ vɛɛhyen { $driverVersion } anaa foforo.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType mparamita
@@ -71,10 +74,8 @@ gpu-vendor-id = Adetɔnfo ID
 gpu-device-id = Efidie ID
 gpu-driver-version = Drɔba Vɛɛhyen
 gpu-driver-date = Drɔba Afeda
-
 min-lib-versions = Vɛɛhyen ketewabi a wɔhwɛ anim
 loaded-lib-versions = Vɛɛhyen a wɔreyɛ ho adwuma
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
