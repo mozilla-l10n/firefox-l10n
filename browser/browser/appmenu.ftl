@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Προστασία απορρήτου
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Μεταβείτε στην αναφορά απορρήτου σας
+appmenuitem-update-banner =
+    .label-update-downloading = Λήψη της ενημέρωσης του { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Πίνακας προστασίας
 appmenuitem-customize-mode =
     .label = Προσαρμογή…
