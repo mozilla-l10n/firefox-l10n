@@ -19,6 +19,7 @@ extensions-version = Издање
 extensions-id = ID
 support-addons-name = Назив
 support-addons-version = Издање
+support-addons-id = ID
 security-software-title = Безбедносни софтвер
 security-software-type = Тип
 security-software-name = Име
