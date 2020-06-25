@@ -19,6 +19,7 @@ extensions-version = Versi
 extensions-id = ID
 support-addons-name = Nama
 support-addons-version = Versi
+support-addons-id = ID
 security-software-title = Perisian Keselamatan
 security-software-type = Jenis
 security-software-name = Nama
