@@ -4,7 +4,6 @@
 
 page-title = Problēmu novēršanas informācija
 page-subtitle = Šī lapa satur tehnisku informāciju, kas var būt noderīga, mēģinot novērst problēmu. Ja meklējat atbildes uz vienkāršiem jautājumiem par { -brand-short-name }, aplūkojiet mūsu <a data-l10n-name="support-link">atbalsta mājas lapu</a>.
-
 crashes-title = Avārijas ziņojumi
 crashes-id = Ziņojuma ID
 crashes-send-date = Nosūtīts
@@ -15,6 +14,9 @@ extensions-name = Nosaukums
 extensions-enabled = Ieslēgts
 extensions-version = Versija
 extensions-id = ID
+support-addons-name = Nosaukums
+support-addons-version = Versija
+support-addons-id = ID
 security-software-title = Drošības programmatūra
 security-software-type = Tips
 security-software-name = Nosaukums
@@ -103,7 +105,6 @@ audio-backend = Skaņas Backend
 max-audio-channels = Maksimālie kanāli
 channel-layout = Vēlamais kanālu izkārtojums
 sample-rate = Vēlamais kadra ātrums
-
 media-title = Multimēdijas
 media-output-devices-title = Izvades ierīces
 media-input-devices-title = Ievades ierīces
@@ -138,6 +139,7 @@ intl-regional-prefs = Reģiona iesatījumi
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
 
 # Variables
@@ -148,7 +150,6 @@ report-crash-for-days =
         [one] Pēdējo { $days } dienu avārijas ziņojumi
        *[other] Pēdējo { $days } dienu avārijas ziņojumi
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -157,7 +158,6 @@ crashes-time-minutes =
         [one] pirms { $minutes } minūtēm
        *[other] pirms { $minutes } minūtēm
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -166,7 +166,6 @@ crashes-time-hours =
         [one] pirms { $hours } stundām
        *[other] pirms { $hours } stundām
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -175,7 +174,6 @@ crashes-time-days =
         [one] pirms { $days } dienas
        *[other] pirms { $days } dienām
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -184,7 +182,6 @@ pending-reports =
         [one] Visi avārijas ziņojumi (ieskaitot { $reports } nenosūtītus avārijas ziņojumus norādītajā laika intervālā)
        *[other] Visi avārijas ziņojumi (ieskaitot { $reports } nenosūtītus avārijas ziņojumus norādītajā laika intervālā)
     }
-
 raw-data-copied = Dati nokopēti atmiņā
 text-copied = Teksts nokopēts atmiņā
 
@@ -197,11 +194,9 @@ blocked-mismatched-version = Bloķēts jūsu grafiskā draivera versijas atšķi
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloķēts jūsu videokartei. Mēģiniet atjaunināt videokartes draiveri uz versiju { $driverVersion } vai jaunāku.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametri
-
 compositing = Kompozicionēšana
 hardware-h264 = Aparatūras H264 kodēšana
 main-thread-no-omtc = galvenais pavediens, nav OMTC
@@ -214,7 +209,6 @@ no = Nē
 
 found = Atrasts
 missing = Trūkst
-
 gpu-description = Apraksts
 gpu-vendor-id = Ražotāja ID
 gpu-device-id = Ierīces ID
@@ -235,21 +229,17 @@ webgl2-version = WebGL 2 draivera versija
 webgl2-driver-extensions = WebGL 2 draivera paplašinājumi
 webgl2-extensions = WebGL 2 paplašinājumi
 blocklisted-bug = Bloķēts zināmu kļūdu dēļ
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = kļūda { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Bloķēts; kļūdas kods { $failureCode }
-
 d3d11layers-crash-guard = D3D11 kompozitors
 d3d11video-crash-guard = D3D11 Video dekoderis
 d3d9video-crash-buard = D3D11 Video dekoderis
 d3d9video-crash-guard = D3D11 Video dekoderis
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Atjaunot nākamajā pārstartēšanā
 gpu-process-kill-button = Pārtraukt GPU procesu
 gpu-device-reset-button = Izraisīt ierīces atiestatīšanu
@@ -257,10 +247,8 @@ uses-tiling = Izmanto grupēšanu
 content-uses-tiling = Izmanto virsrakstošanu (saturs)
 off-main-thread-paint-enabled = Aktivēta zīmēšana ne galvenajā pavedienā
 off-main-thread-paint-worker-count = Ne galvenajā pavedienā zīmējošo darbinieku skaits
-
 min-lib-versions = Gaidītā minimālā versija
 loaded-lib-versions = Izmantotā versija
-
 has-seccomp-bpf = Seccomp-BPF (Sistēmas izsaukumu filtrešana)
 has-seccomp-tsync = Seccomp pavedienu sinhronizēšana
 has-user-namespaces = Lietotāju vārdtelpas
@@ -272,7 +260,6 @@ effective-content-sandbox-level = Efektīvs satura procesa ierobežošanas līme
 sandbox-proc-type-content = saturs
 sandbox-proc-type-file = faila saturs
 sandbox-proc-type-media-plugin = multivides spraudnis
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -285,7 +272,6 @@ multi-process-status-6 = Deaktivēts neatbalstīta teksta ievades dēļ
 multi-process-status-7 = Papildinājumu deaktivēts
 multi-process-status-8 = Deaktivēts piespiedu kārtā
 multi-process-status-unknown = Nezināms statuss
-
 async-pan-zoom = Asinhronā pietuvināšana/palielināšana
 apz-none = nav
 wheel-enabled = ripas ievade aktivēta
