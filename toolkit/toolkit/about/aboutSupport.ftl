@@ -19,6 +19,7 @@ extensions-version = Različica
 extensions-id = ID
 support-addons-name = Ime
 support-addons-version = Različica
+support-addons-id = ID
 security-software-title = Varnostna programska oprema
 security-software-type = Vrsta
 security-software-name = Ime
