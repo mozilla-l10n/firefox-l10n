@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Protectiones del vita private
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Visitar tu reporto de vita private
+appmenuitem-update-banner =
+    .label-update-downloading = Discargamento in curso del actualisation de { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Pannello del protectiones
 appmenuitem-customize-mode =
     .label = Personalisar…

@@ -17,7 +17,10 @@ extensions-name = Nomine
 extensions-enabled = Activate
 extensions-version = Version
 extensions-id = ID
+support-addons-title = Additivos
 support-addons-name = Nomine
+support-addons-type = Typo
+support-addons-enabled = Activate
 support-addons-version = Version
 support-addons-id = ID
 security-software-title = Software de securitate
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] Aperir le dossier
        *[other] Aperir le directorio
     }
+experimental-features-title = Functionalitates experimental
+experimental-features-name = Nomine
+experimental-features-value = Valor
 modified-key-prefs-title = Preferentias importante modificate
 modified-prefs-name = Nomine
 modified-prefs-value = Valor
