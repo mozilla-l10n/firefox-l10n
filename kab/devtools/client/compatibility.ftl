@@ -38,5 +38,6 @@ compatibility-issue-occurrences =
         [one] { $number } timeḍriwt
        *[other] { $number } timeḍriwin
     }
+compatibility-no-issues-found = Ulac uguren n mṣada yettwafen.
 compatibility-close-settings-button =
     .title = Mdel iɣewwaren
