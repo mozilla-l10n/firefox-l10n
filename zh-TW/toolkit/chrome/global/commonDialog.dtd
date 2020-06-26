@@ -7,9 +7,8 @@
 
 <!ENTITY editfield0.label "使用者名稱:"> 
 <!ENTITY editfield1.label "密碼:"> 
-<!ENTITY checkbox.label   "檢查"> 
+<!ENTITY checkbox.label   "勾選"> 
 <!ENTITY copyCmd.label    "複製">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "全選">
 <!ENTITY selectAllCmd.accesskey "A">
-
