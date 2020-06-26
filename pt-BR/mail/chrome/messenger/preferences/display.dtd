@@ -50,7 +50,7 @@
 <!ENTITY reading.caption                  "Leitura">
 <!ENTITY display.caption                  "Exibição">
 <!ENTITY displayName.label                "Nome de exibição:">
-<!ENTITY showCondensedAddresses.label     "Para pessoas em meus contatos, exibir somente o nome">
+<!ENTITY showCondensedAddresses.label     "Exibir somente o nome de pessoas em meu catálogo de endereços">
 <!ENTITY showCondensedAddresses.accesskey "P">
 
 <!ENTITY autoMarkAsRead.label             "Marcar automaticamente mensagens como lidas">

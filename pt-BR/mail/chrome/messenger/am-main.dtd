@@ -20,7 +20,7 @@
 <!ENTITY replyTo.label "Responder ao endereço:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "Os destinatários responderão para este outro endereço">
-<!ENTITY organization.label "Empresa:">
+<!ENTITY organization.label "Organização:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Texto da assinatura:">
 <!ENTITY signatureText.accesskey "x">
