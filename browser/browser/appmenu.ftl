@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Proteccion de la vida privada
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Veire lo rapòrt de vòstra vida privada
+appmenuitem-update-banner =
+    .label-update-downloading = Telecargament de la mesa a jorn de { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Taula de bòrd de las proteccions
 appmenuitem-customize-mode =
     .label = Personalizar…

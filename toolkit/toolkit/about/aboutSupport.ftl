@@ -14,7 +14,10 @@ extensions-name = Nom
 extensions-enabled = Activat
 extensions-version = Version
 extensions-id = ID
+support-addons-title = Moduls complementaris
 support-addons-name = Nom
+support-addons-type = Tipe
+support-addons-enabled = Activat
 support-addons-version = Version
 support-addons-id = ID
 security-software-title = Logicial de seguretat
@@ -74,6 +77,8 @@ show-dir-label =
         [windows] Dobrir lo dossièr
        *[other] Dobrir lo dossièr correspondent
     }
+experimental-features-name = Nom
+experimental-features-value = Valor
 modified-key-prefs-title = Preferéncias modificadas importantas
 modified-prefs-name = Nom
 modified-prefs-value = Valor
