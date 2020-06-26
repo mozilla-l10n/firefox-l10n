@@ -47,4 +47,5 @@
 <!ENTITY globalComposingPrefs.label           "Preferensi Penulisan Global...">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
+<!ENTITY globalAddressingPrefs.label          "Preferensi Penulisan Alamat Global...">
 <!ENTITY globalAddressingPrefs.accesskey      "P">

@@ -15,6 +15,7 @@
 <!ENTITY name.accesskey "a">
 <!ENTITY email.label "Alamat Email:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Balas dari identitas ini saat tajuk pengiriman cocok:">
 <!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Alamat Balasan:">
 <!ENTITY replyTo.accesskey "B">
