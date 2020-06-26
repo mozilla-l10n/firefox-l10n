@@ -32,7 +32,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "문제 해결 정보…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "의견 보내기…">
+<!ENTITY helpFeedbackPage.label      "사용자 의견 보내기…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; 둘러보기">

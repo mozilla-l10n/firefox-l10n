@@ -15,6 +15,9 @@ compatibility-all-elements-header = 모든 문제
 compatibility-settings-button-label = 설정
 compatibility-settings-button-title =
     .title = 설정
+compatibility-feedback-button-label = 사용자 의견
+compatibility-feedback-button-title =
+    .title = 사용자 의견
 
 ## Messages used as headers in settings pane
 
