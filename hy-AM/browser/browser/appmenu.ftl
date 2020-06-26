@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Պաշտպանության զեկույց
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Անցնել գաղտնիության զեկույցին
+appmenuitem-update-banner =
+    .label-update-downloading = Ներբեռնել { -brand-shorter-name }-ի թարմացումը
 appmenuitem-protection-dashboard-title = Պաշտպանության վահանակ
 appmenuitem-customize-mode =
     .label = Հարմարեցնել…
