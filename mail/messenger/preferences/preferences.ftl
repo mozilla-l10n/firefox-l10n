@@ -142,7 +142,7 @@ mail-play-sound-label =
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] к
+            [macos] з
            *[other] з
         }
 mail-play-button =
