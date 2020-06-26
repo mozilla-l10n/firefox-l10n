@@ -25,4 +25,5 @@
 <!ENTITY junkClassification.label "Pilihan">
 <!ENTITY junkActions.label "Tujuan dan Retensi">
 
+<!ENTITY globalJunkPrefs.label "Preferensi Pengaturan Sampah Global...">
 <!ENTITY globalJunkPrefs.accesskey "G">
