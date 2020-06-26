@@ -68,7 +68,7 @@ policy-HardwareAcceleration = 若為 false，就會關閉硬體加速。
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = 設定或鎖定首頁。
 policy-InstallAddonsPermission = 允許某些網站安裝附加元件。
-policy-LegacyProfiles = 停用「於每一套安裝使用不同設定檔」的功能
+policy-LegacyProfiles = 停用「於每一套安裝使用不同設定檔」的功能。
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
