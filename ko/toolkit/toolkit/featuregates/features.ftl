@@ -4,6 +4,10 @@
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-masonry =
+    .label = CSS Masonry 레이아웃
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu =
     .label = WebGPU
 experimental-features-web-gpu-description = 웹에서 그래픽 및 컴퓨팅을 위한 실험적 API
