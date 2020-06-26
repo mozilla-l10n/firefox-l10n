@@ -6,7 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
-experimental-features-css-masonry-description = Zmóžnja pódpěru za eksperimentelnu funkciju CSS Masonry Layout. Glejśo <a data-l10n-name="explainer">rozkładowak</a> za  dobre wopisanje toś teje funkcije. Aby komentary zawóstajił, komentěrujśo pšosym w <a data-l10n-name="w3c-issue">toś tym GitHub issue</a> abo <a data-l10n-name="bug">toś tej zmólkowej rozpšawje</a>.
+experimental-features-css-masonry-description = Zmóžnja pódpěru za eksperimentelnu funkciju CSS Masonry Layout. Glejśo <a data-l10n-name="explainer">wujasnjeński bok</a> za  dobre wopisanje toś teje funkcije. Aby komentary zawóstajił, komentěrujśo pšosym w <a data-l10n-name="w3c-issue">toś tym GitHub issue</a> abo <a data-l10n-name="bug">toś tej zmólkowej rozpšawje</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
