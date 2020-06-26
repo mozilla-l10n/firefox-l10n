@@ -381,8 +381,8 @@ close-move-delete =
 display-name-label =
     .value = Nome de exibição:
 condensed-addresses-label =
-    .label = Para pessoas em meus contatos, exibir somente o nome
-    .accesskey = P
+    .label = Exibir somente o nome de pessoas em meu catálogo de endereços
+    .accesskey = s
 
 ## Compose Tab
 
