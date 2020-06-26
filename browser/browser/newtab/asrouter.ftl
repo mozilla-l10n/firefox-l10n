@@ -205,6 +205,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Tümünü göster
     .accesskey = T
+cfr-doorhanger-milestone-close-button = Kapat
+    .accesskey = K
 
 ## What’s New Panel Content for Firefox 76
 
@@ -238,3 +240,10 @@ cfr-whatsnew-protections-icon-alt = Kalkan simgesi
 
 cfr-whatsnew-better-pdf-header = Daha iyi PDF deneyimi
 cfr-whatsnew-better-pdf-body = PDF belgeleri artık doğrudan { -brand-short-name } içinde açılıyor, böylece işleriniz kolaylaşıyor.
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = Tamam
+    .accesskey = m
+cfr-doorhanger-doh-secondary-button = Devre dışı bırak
+    .accesskey = D
