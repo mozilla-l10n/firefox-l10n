@@ -42,6 +42,13 @@ policy-DisablePrivateBrowsing = Zastawianie prywatnego przeglōndanio.
 policy-DisableProfileImport = Zastawianie możności importowanio danych z inkszyj przeglōndarki.
 policy-DisableProfileRefresh = Zastawianie knefla do ôdświyżanio aplikacyje { -brand-short-name } na strōnie about:support.
 policy-DisableSafeMode = Zastawianie ôpcyji resztartu w trybie bezpieczyństwa. Pozōr: załōnczynie trybu bezpieczyństwa kneflym Shift idzie zastawić w Windowsie ino bez Group Policy.
+policy-DisableSecurityBypass = Zakazowanie używoczowi ôbmijanio niykerych upozorniyń bezpieczyństwa.
+policy-DisableSetAsDesktopBackground = Zastawianie przikazu w myni, coby nastawić ôbrozek za zadek biōrka.
+policy-DisableSystemAddonUpdate = Zakazowanie przeglōndarce instalacyje i aktualizacyje systymowych rozszyrzyń.
+policy-DisableTelemetry = Wyłōnczanie telemetryje.
+policy-DisplayBookmarksToolbar = Bazowe pokazowanie poska zokłodek.
+policy-DisplayMenuBar = Bazowe pokazowanie poska myni.
+policy-DNSOverHTTPS = Nastawianie DNS bez HTTPS.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
