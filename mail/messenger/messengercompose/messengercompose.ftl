@@ -48,8 +48,8 @@ attachment-bucket-count =
 attachments-placeholder-tooltip =
     .tooltiptext =
         { $count ->
-            [1] { $count } 個附件
-           *[other] 沒有附件
+            [0] 沒有附件
+           *[other] { $count } 個附件
         }
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =

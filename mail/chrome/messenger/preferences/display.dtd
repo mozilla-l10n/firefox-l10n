@@ -63,7 +63,7 @@
 <!ENTITY markAsReadDelay.label            "在顯示">
 <!ENTITY markAsReadDelay.accesskey        "d">
 <!ENTITY secondsLabel.label               "秒之後">
-<!ENTITY openMsgIn.label                  "開啟郵件於: ">
+<!ENTITY openMsgIn.label                  "開啟郵件於:">
 <!ENTITY openMsgInNewTab.label            "新分頁">
 <!ENTITY openMsgInNewTab.accesskey        "t">
 <!ENTITY reuseExpRadio0.label             "新視窗">
