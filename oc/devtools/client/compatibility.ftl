@@ -10,6 +10,9 @@ compatibility-all-elements-header = Totes los problèmas
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-deprecated = (obsolèt)
+compatibility-issue-experimental = (experimental)
+compatibility-issue-deprecated-experimental = (obsolèt, experimental)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -23,6 +26,18 @@ compatibility-feedback-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Paramètres
+compatibility-target-browsers-header = Navegadors ciblas
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } occuréncia
+       *[other] { $number } occuréncias
+    }
+compatibility-no-issues-found = Cap de problèma de compatibilitat pas trobat.
+compatibility-close-settings-button =
+    .title = Tampar los paramètres
