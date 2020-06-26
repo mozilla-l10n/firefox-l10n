@@ -243,6 +243,8 @@ cfr-whatsnew-better-pdf-body = Imesliyen PDF ttaldayen-d tura srid deg { -brand-
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Aqader n tudert-ik tabaḍnit yeεna-aɣ. { -brand-short-name } yettawi akka tura s wudem aɣelsan isutar-ik.im DNS a melmi i as-tettunefk tegnit ɣer uqeddac amendid akken ad tettummestneḍ mi ara tettinigeḍ.
+cfr-doorhanger-doh-header = Inadiyen DNS s wugar n tɣellist d uwgelhen
 cfr-doorhanger-doh-primary-button = IH awi-t-id
     .accesskey = o
 cfr-doorhanger-doh-secondary-button = Sens
