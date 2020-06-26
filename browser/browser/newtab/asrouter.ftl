@@ -266,3 +266,12 @@ cfr-whatsnew-protections-icon-alt = Eicon tarian
 
 cfr-whatsnew-better-pdf-header = Gwell profiad PDF
 cfr-whatsnew-better-pdf-body = Mae dogfennau PDF nawr yn agor yn uniongyrchol yn { -brand-short-name }, gan gadw'ch llif gwaith o fewn cyrraedd.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Mae eich preifatrwydd yn bwysig. Mae { -brand-short-name } bellach yn cyfeirio eich ceisiadau DNS yn ddiogel pryd bynnag y bo modd at wasanaeth partner i'ch diogelu wrth i chi bori.
+cfr-doorhanger-doh-header = Chwilio DNS mwy diogel, wedi'u hamgryptio
+cfr-doorhanger-doh-primary-button = Iawn, Wedi deall!
+    .accesskey = I
+cfr-doorhanger-doh-secondary-button = Analluogi
+    .accesskey = A
