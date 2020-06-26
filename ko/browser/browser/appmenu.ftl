@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = 개인 정보 보호
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = 개인 정보 보호 보고서로 이동
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } 업데이트 다운로드 중
 appmenuitem-protection-dashboard-title = 보호 대시보드
 appmenuitem-customize-mode =
     .label = 사용자 지정…
