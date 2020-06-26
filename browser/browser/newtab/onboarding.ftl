@@ -95,7 +95,7 @@ onboarding-benefit-lockwise-text = Կառավարեք գաղտնաբառերը, 
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Գաղտնի դիտարկում
-onboarding-private-browsing-text = Ինքներդ դիտարկեք: Գաղտնի դիտարկում՝ վեբում ձեզ հետևող առցանց հետագծիչների բովանդակության արգելափակմամբ:
+onboarding-private-browsing-text = Ինքներդ դիտարկեք: Գաղտնի դիտարկում՝ համացանցում ձեզ հետևող առցանց հետագծիչների բովանդակության արգելափակմամբ:
 onboarding-screenshots-title = Էկրանի կորզում
 onboarding-screenshots-text = Ստացեք, պահպանեք և համօգտագործեք էկրանի հանույթները՝ առանց { -brand-short-name }-ը լքելու: Կորզեք էջի մի մասը կամ այն ամբողջութայմբ: Ապա պահպանեք վեբում՝ ավելի հեշտ մատչելու և համօգտագործելու համար:
 onboarding-addons-title = Հավելումներ
