@@ -21,6 +21,10 @@ policy-BlockAboutSupport = Szperowanie dostympu do strōny about:support.
 policy-Bookmarks = Rychtowanie zokłodek na posku zokłodek, w myni zokłodek, abo we ôbranym katalogu.
 policy-CaptivePortal = Załōnczynie abo zastawiynie ôbsugi portalu captive.
 policy-CertificatesDescription = Przidowanie certyfikatōw abo używanie wbudowanych certyfikatōw.
+policy-Cookies = Przizwōl abo zakoż strōnōm nastawiać cookies.
+policy-DisabledCiphers = Zastawianie szyfrōw.
+policy-DefaultDownloadDirectory = Sztalowanie bazowego katalogu pobiyranio.
+policy-DisableAppUpdate = Zakazowanie aktualizacyji przeglōndarki.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
