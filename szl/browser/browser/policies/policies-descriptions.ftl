@@ -30,6 +30,18 @@ policy-DisableDefaultBrowserAgent = Zakazowanie agyntowi bazowyj przeglōndarki 
 policy-DisableDeveloperTools = Szperowanie dostympu do noczyń deweloperōw.
 policy-DisableFeedbackCommands = Zastawianie przikazōw posyłanio ôpiniji z myni Pōmocy (ôpcyje Poślij ôpinijo i Dej znać ô ôszydnyj strōnie).
 policy-DisableFirefoxAccounts = Zastawianie usug, co używajōm { -fxaccount-brand-name(case: "gen", capitalization: "lower") }, w tym synchrōnizacyje.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Zastawianie funkcyji Firefox Screenshots.
+policy-DisableFirefoxStudies = Zakazowanie aplikacyji { -brand-short-name } kludzić podszukōnki.
+policy-DisableForgetButton = Zakazowanie dostympu do knefla "Przepōmnij".
+policy-DisableFormHistory = Wyłōnczanie spamiyntowanio historyje szukanio i formularōw.
+policy-DisableMasterPasswordCreation = Jak to je aktywne, to niy idzie zrychtować głōwnego hasła.
+policy-DisablePasswordReveal = Zakazowanie pokazowanio haseł we spamiyntanych danych logowanio.
+policy-DisablePocket = Zastawianie funkcyje spamiyntowanio strōn w usudze Pocket.
+policy-DisablePrivateBrowsing = Zastawianie prywatnego przeglōndanio.
+policy-DisableProfileImport = Zastawianie możności importowanio danych z inkszyj przeglōndarki.
+policy-DisableProfileRefresh = Zastawianie knefla do ôdświyżanio aplikacyje { -brand-short-name } na strōnie about:support.
+policy-DisableSafeMode = Zastawianie ôpcyji resztartu w trybie bezpieczyństwa. Pozōr: załōnczynie trybu bezpieczyństwa kneflym Shift idzie zastawić w Windowsie ino bez Group Policy.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
