@@ -50,6 +50,8 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-subtitle = Dikkatli olun
+pane-experimental-description = Gelişmiş yapılandırma tercihlerini değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
 help-button-label = { -brand-short-name } desteği
 addons-button-label = Eklentiler ve temalar
 focus-search =
@@ -499,7 +501,6 @@ home-prefs-topsites-description = En çok ziyaret ettiğiniz siteler
 
 home-prefs-recommended-by-header =
     .label = { $provider } öneriyor
-home-prefs-recommended-by-description = İnternetin her yanından sizin için seçtiğimiz kaliteli içerikler
 home-prefs-recommended-by-description-update = { $provider } tarafından seçilen harika içerikler
 
 ##
@@ -563,7 +564,6 @@ search-show-suggestions-above-history-option =
     .label = Adres çubuğu sonuçlarında arama önerilerini gezinti geçmişinden önce göster
 search-show-suggestions-private-windows =
     .label = Gizli pencerelerde arama önerilerini göster
-suggestions-addressbar-settings = Gezinti geçmişi, yer imleri ve sekme önerileri tercihlerini değiştirin
 suggestions-addressbar-settings-generic = Diğer adres çubuğu önerileri için tercihleri değiştir
 search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 search-one-click-header = Tek tıklamalı arama motorları
