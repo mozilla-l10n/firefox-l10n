@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry 레이아웃
+experimental-features-css-masonry-description = 실험적인 CSS Masonry 레이아웃 기능 사용. 기능에 대한 자세한 내용은 <a data-l10n-name="explainer">설명자</a>를 참조하세요. 피드백을 하시려면, <a data-l10n-name="w3c-issue">이 GitHub 문제</a> 또는 <a data-l10n-name="bug">이 버그</a>에 의견을 보내주세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
