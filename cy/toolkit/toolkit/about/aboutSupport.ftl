@@ -14,7 +14,10 @@ extensions-name = Enw
 extensions-enabled = Galluogwyd
 extensions-version = Fersiwn
 extensions-id = ID
+support-addons-title = Ychwanegion
 support-addons-name = Enw
+support-addons-type = Math
+support-addons-enabled = Galluogwyd
 support-addons-version = Fersiwn
 support-addons-id = ID
 security-software-title = Meddalwedd Diogelwch
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Agor Ffolder
        *[other] Agor Cyfeiriadur
     }
+experimental-features-title = Nodweddion Arbrofol
+experimental-features-name = Enw
+experimental-features-value = Gwerth
 modified-key-prefs-title = Dewisiadau Pwysig wedi eu Newid
 modified-prefs-name = Enw
 modified-prefs-value = Gwerth
