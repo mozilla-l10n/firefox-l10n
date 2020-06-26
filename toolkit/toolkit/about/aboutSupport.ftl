@@ -14,7 +14,10 @@ extensions-name = Անուն
 extensions-enabled = Միացված է
 extensions-version = Տարբերակ
 extensions-id = ID
+support-addons-title = Հավելումներ
 support-addons-name = Անուն
+support-addons-type = Տեսակ
+support-addons-enabled = Միացված
 support-addons-version = Տարբերակ
 support-addons-id = ID
 security-software-title = Անվտանգության ծրագրաշար
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Բացել թղթապանակը
        *[other] Բացել թղթապանակը
     }
+experimental-features-title = Փորձարարական հատկություններ
+experimental-features-name = Անուն
+experimental-features-value = Արժեք
 modified-key-prefs-title = Փոփոխված կարևոր կարգավորումներ
 modified-prefs-name = Անուն
 modified-prefs-value = Արժեքը

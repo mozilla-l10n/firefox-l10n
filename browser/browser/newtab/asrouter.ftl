@@ -242,3 +242,12 @@ cfr-whatsnew-protections-icon-alt = Վահանի պատկերակը
 
 cfr-whatsnew-better-pdf-header = Ավելի լավ PDF փորձառություն
 cfr-whatsnew-better-pdf-body = PDF փաստաթղթերն այժմ բացվում են ուղղակիորեն { -brand-short-name }-ում, պահպանելով ձեր աշխատահոսքը հասանելիության պայմաններում:
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Ձեր գաղտնիությունը կարևոր է: { -brand-short-name }-ն այժմ ապահով կերպով ուղարկում է ձեր DNS հարցումները, երբ դա հնարավոր է, գործընկեր ծառայությանը՝ զններկելիս Ձեզ պաշտպանվելու համար:
+cfr-doorhanger-doh-header = Ավելի անվտանգ, գաղտնագրված DNS որոնումներ
+cfr-doorhanger-doh-primary-button = Լավ, հասկացա
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Անջատել
+    .accesskey = D
