@@ -492,7 +492,6 @@ home-prefs-topsites-description = 가장 많이 방문한 사이트
 
 home-prefs-recommended-by-header =
     .label = { $provider } 추천
-home-prefs-recommended-by-description = 여러분에게 맞춰진 웹에서 제공되는 훌륭한 콘텐츠
 home-prefs-recommended-by-description-update = { $provider }에 의해 큐레이션된 웹의 뛰어난 콘텐츠
 
 ##
@@ -552,7 +551,6 @@ search-show-suggestions-above-history-option =
     .label = 주소 표시줄 결과의 방문 기록 앞에 검색 제안 표시
 search-show-suggestions-private-windows =
     .label = 사생활 보호 창에 검색 제안 표시
-suggestions-addressbar-settings = 방문 기록, 북마크 및 탭 제안에 대한 설정 변경
 suggestions-addressbar-settings-generic = 다른 주소 표시줄 제안에 대한 설정 변경
 search-suggestions-cant-show = 기록을 기억하지 않도록 { -brand-short-name }를 구성했기 때문에 검색 제안이 주소창 결과에 표시되지 않습니다.
 search-one-click-header = 원클릭 검색 엔진
@@ -917,7 +915,7 @@ addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 콘텐츠 차단
-content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하세요. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드 될 수 있습니다.
+content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하세요. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드될 수 있습니다.
 content-blocking-enhanced-tracking-protection = 향상된 추적 방지 기능
 content-blocking-section-top-level-description = 추적기는 온라인에서 사용자를 따라다니며 탐색 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
 content-blocking-learn-more = 더 알아보기

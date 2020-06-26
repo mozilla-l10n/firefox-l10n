@@ -39,7 +39,7 @@ about-telemetry-captured-stacks-section = 스택 캡처
 about-telemetry-late-writes-section = 최종 작성
 about-telemetry-raw-payload-section = 원시 페이로드
 about-telemetry-raw = 원시 JSON
-about-telemetry-full-sql-warning = 참고: 느린 SQL 디버깅이 활성화 되어 있습니다. 전체 SQL 문자열이 아래에 표시 될 수 있지만 Telemetry에 제출되지는 않습니다.
+about-telemetry-full-sql-warning = 참고: 느린 SQL 디버깅이 활성화 되어 있습니다. 전체 SQL 문자열이 아래에 표시될 수 있지만 Telemetry에 제출되지는 않습니다.
 about-telemetry-fetch-stack-symbols = 스택에 대한 함수 이름 가져오기
 about-telemetry-hide-stack-symbols = 원시 스택 데이터 보기
 # Selects the correct release version
