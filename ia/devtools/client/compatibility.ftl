@@ -30,6 +30,14 @@ compatibility-target-browsers-header = Navigatores objectivo
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } occurrentia
+       *[other] { $number } occurrentias
+    }
 compatibility-no-issues-found = Nulle problema de compatibilitate trovate.
 compatibility-close-settings-button =
     .title = Clauder le parametros
