@@ -235,3 +235,12 @@ cfr-whatsnew-protections-icon-alt = 방패 아이콘
 
 cfr-whatsnew-better-pdf-header = 더 나은 PDF 경험
 cfr-whatsnew-better-pdf-body = 이제 PDF 문서가 { -brand-short-name }에서 직접 열리므로 워크플로에 쉽게 접근할 수 있습니다.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = 개인 정보 보호가 중요합니다. { -brand-short-name }는 탐색하는 동안 사용자를 보호하기 위해 가능하면 사용자의 DNS 요청을 파트너 서비스로 안전하게 라우팅합니다.
+cfr-doorhanger-doh-header = 더 안전하고, 암호화된 DNS 조회
+cfr-doorhanger-doh-primary-button = 확인
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = 사용 안 함
+    .accesskey = D
