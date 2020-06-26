@@ -14,7 +14,10 @@ extensions-name = 이름
 extensions-enabled = 사용
 extensions-version = 버전
 extensions-id = ID
+support-addons-title = 부가 기능
 support-addons-name = 이름
+support-addons-type = 유형
+support-addons-enabled = 사용함
 support-addons-version = 버전
 support-addons-id = ID
 security-software-title = 보안 소프트웨어
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] 폴더 열기
        *[other] 디렉터리 열기
     }
+experimental-features-title = 실험적인 기능
+experimental-features-name = 이름
+experimental-features-value = 값
 modified-key-prefs-title = 중요한 변경된 환경 설정
 modified-prefs-name = 이름
 modified-prefs-value = 값

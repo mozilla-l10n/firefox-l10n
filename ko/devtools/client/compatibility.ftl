@@ -5,10 +5,14 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-selected-element-header = 선택된 요소
 compatibility-all-elements-header = 모든 문제
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-deprecated = (더 이상 사용되지 않음)
+compatibility-issue-experimental = (실험적)
+compatibility-issue-deprecated-experimental = (더 이상 사용되지 않음, 실험적)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -21,6 +25,18 @@ compatibility-feedback-button-title =
 
 ## Messages used as headers in settings pane
 
+compatibility-settings-header = 설정
+compatibility-target-browsers-header = 대상 브라우저
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+       *[other] { $number }회
+    }
+compatibility-no-issues-found = 호환성 문제 없음.
+compatibility-close-settings-button =
+    .title = 설정 닫기
