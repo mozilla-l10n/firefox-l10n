@@ -11,7 +11,9 @@ experimental-features-css-masonry-description = Rmed asefrek n tmahilt tarmitant
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
     .label = WebGPU
+experimental-features-web-gpu-description = API tarmitant i unuḍaf d usiḍen ɣef web
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-avif =
     .label = AVIF
+experimental-features-avif-description = Tallalt tarmitant i AVIF: amasal n ufaylu n tugna AV1
