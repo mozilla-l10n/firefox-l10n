@@ -22,6 +22,7 @@
 <!ENTITY contextManual.label "Jalankan Secara Manual">
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Saring sebelum Pengklasifikasian Sampah">
+<!ENTITY contextAfterCls.label "Saring setelah Pengklasifikasian Sampah">
 <!ENTITY contextOutgoing.label "Setelah Mengirim">
 <!ENTITY contextOutgoing.accesskey "S">
 <!ENTITY contextArchive.label "Mengarsipkan">
@@ -31,6 +32,7 @@
 <!ENTITY filterActionDesc.label "Lakukan aksi berikut:">
 <!ENTITY filterActionDesc.accesskey "L">
 
+<!ENTITY filterActionOrderWarning.label "Catatan: Tindakan penyaringan akan dijalankan dalam urutan yang berbeda.">
 <!ENTITY filterActionOrder.label "Lihat pesanan eksekusi">
 
 <!-- New Style Filter Rule Actions -->
