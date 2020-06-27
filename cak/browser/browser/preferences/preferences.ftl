@@ -504,7 +504,6 @@ home-prefs-topsites-description = Taq ruxaq yalan ye'atz'ët
 
 home-prefs-recommended-by-header =
     .label = Chilab'en ruma { $provider }
-home-prefs-recommended-by-description = Nïm rupam chijun ri ajk'amaya'l, ichinan awuma rat
 home-prefs-recommended-by-description-update = Man relik ta chi rupam chijun ri ajk'amaya'l, to'on ruma { $provider }
 
 ##
@@ -568,7 +567,6 @@ search-show-suggestions-above-history-option =
     .label = Kek'ut pe taq chilab'enïk nab'ey chuwäch ri natab'äl pa ri xe'ilitäj pa ri kikajtz'ik taq ochochib'äl
 search-show-suggestions-private-windows =
     .label = Kek'ut pe taq kichilab'exik kanoxik pa Ichinan taq Tzuwäch
-suggestions-addressbar-settings = Kejal taq rajowaxik runatab'al okem pa k'amaya'l, taq yaketal chuqa' kichilab'exik taq ruwi'
 suggestions-addressbar-settings-generic = Kek'ex ri taq kajowab'al ch'aqa' chik taq kichilab'enik kikajtz'ik ochochib'äl
 search-suggestions-cant-show = Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri { -brand-short-name } richin majub'ey tunataj ri anatab'al.
 search-one-click-header = Samajel taq kanob'äl rik'in jupitz'oj
@@ -609,7 +607,7 @@ containers-new-tab-check =
     .label = Ticha jun ruk'wayöl ri k'ak'a' ruwi'
     .accesskey = T
 containers-preferences-button =
-    .label = Taq cha'oj
+    .label = Taq ajowab'äl
 containers-remove-button =
     .label = Tiyuj
 

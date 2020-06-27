@@ -239,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Tiq'at">
 <!ENTITY stopCmd.accesskey            "T">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "Tib'e pa JAY richin ri rucholob'al taq ochochib'äl">
 
 <!ENTITY printButton.label            "Titz'ajb'äx">
@@ -257,7 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Tinuk'samajïx rokisaxik nak'ab'äl">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tijalwachïx we yatikïr ye'ak'ül taq rutzijol re ruxaq k'amaya'l re'">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Keyak taq tzij pa Jutaqil Yakoj">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Tijaq ri Ajk'amaya'l Juxunem pas">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Tijaq ri kipas kiya'oj q'ij taq rusamaj okem pa k'amaya'l">
@@ -287,9 +285,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 ">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Xaya' ruwi' ya'oj q'ij chi re re ajk'amaya'l ruxaq re'.">
-
 
 <!ENTITY searchItem.title             "Tikanöx">
 
@@ -385,7 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "r">
 <!ENTITY preferencesCmd2.label       "Taq cha'oj">
 <!ENTITY preferencesCmd2.accesskey     "c">
-<!ENTITY preferencesCmdUnix.label       "Taq Ajowanel">
+<!ENTITY preferencesCmdUnix.label       "Taq ajowab'äl">
 <!ENTITY preferencesCmdUnix.accesskey     "o">
 <!ENTITY logins.label                           "Kitikirisaxik Molojri'ïl chuqa' Ewan taq Tzij">
 
@@ -399,7 +394,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "i">
 <!ENTITY viewSidebarMenu.label "Chuchi' Cholab'äl">
 <!ENTITY viewSidebarMenu.accesskey "C">
-
 <!ENTITY viewCustomizeToolbar.label       "Tichinäx…">
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 
@@ -494,7 +488,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Ch'aqa' chik">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "Tikanöx chuqa' titz'ib'äx ri ochochib'äl">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->

@@ -26,7 +26,7 @@ config-focus-search-2 =
 ## These strings are used for column headers
 
 config-pref-column =
-    .label = Rub'i' ajowab'äl
+    .label = Rub'i' Ajowab'äl
 config-lock-column =
     .label = Amaq'
 config-type-column =
