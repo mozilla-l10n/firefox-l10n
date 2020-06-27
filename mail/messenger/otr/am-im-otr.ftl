@@ -4,3 +4,18 @@
 
 account-encryption =
     .label = 종단간 암호화
+account-otr-description = { -brand-short-name }는 일대일 대화의 종단 간 암호화를 지원합니다. 이를 통해 제 3자가 대화를 도청 할 수 없습니다. 종단 간 암호화는 상대방이 OTR을 지원하는 소프트웨어를 사용하는 경우에만 사용할 수 있습니다.
+otr-encryption-title = 확인 된 암호화
+otr-encryption-caption = 다른 사람이 OTR 채팅에서 사용자의 신원을 확인할 수 있도록하려면 외부(대역 외) 통신 채널을 사용하여 자신의 OTR 지문을 공유하십시오.
+otr-fingerprint-label = 내 지문:
+view-fingerprint-button =
+    .label = 연락처 지문 관리
+    .accesskey = F
+otr-settings-title = OTR 설정
+otr-log =
+    .label = 대화 로그에 OTR 암호화 메시지 포함
+otr-requireEncryption =
+    .label = 일대일 대화를 위해 종단 간 암호화 필요
+otr-verifyNudge =
+    .label = 확인되지 않은 연락처를 확인하도록 항상 알림
+otr-notYetAvailable = 아직 사용할 수 없음
