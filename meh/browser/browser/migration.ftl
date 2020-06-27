@@ -8,6 +8,15 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge Legacy
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
+import-from-nothing =
+    .label = Nkuiso ni'in
+    .accesskey = N
 import-from-safari =
     .label = Safari
     .accesskey = S
@@ -32,8 +41,15 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+import-select-profile-page-title = Kaji perfil
+# Displays which browser the bookmarks are being imported from
+#
+# Variables:
+#   $source (String): The browser the user has chosen to import bookmarks from.
+imported-bookmarks-source = De { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
@@ -52,10 +68,15 @@ source-name-360se = 360 Secure Browser
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -64,3 +85,11 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Da nuu kajie´e sesión ji contraseñas nchuva'a
+browser-data-otherdata-checkbox =
+    .label = Inka datos
+browser-data-otherdata-label =
+    .label = Inka datos
+browser-data-session-checkbox =
+    .label = Ventanas ji sukua
+browser-data-session-label =
+    .value = Ventanas ji pestañas

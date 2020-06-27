@@ -180,6 +180,8 @@ cfr-doorhanger-cryptominers-heading = { -brand-short-name } nnakasɨ  iin cripto
 
 cfr-doorhanger-milestone-ok-button = Kune´ya kuaíyo
     .accesskey = K
+cfr-doorhanger-milestone-close-button = Nakasɨ
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -207,3 +209,8 @@ cfr-whatsnew-protections-icon-alt = Icono de escudo
 
 ## Better PDF message
 
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = OK, Kaka!
+    .accesskey = O
