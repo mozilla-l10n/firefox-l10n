@@ -17,6 +17,7 @@
 <!ENTITY e2eIntro.description "Untuk mengirim pesan terenkripsi atau bertanda tangan digital, Anda perlu mengkonfigurasi teknologi enkripsi, baik OpenPGP maupun S/MIME.">
 <!ENTITY e2eLearnMore.label "Pelajari lebih lanjut">
 
+<!ENTITY e2eEnc.description "Tanpa enkripsi ujung-ke-ujung, isi pesan mudah terpapar ke penyedia surel Anda dan pelacakan massal.">
 
 <!ENTITY e2eTechPref.description "Teknologi enkripsi yang dipilih:">
 
