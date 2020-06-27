@@ -251,3 +251,12 @@ cfr-whatsnew-protections-icon-alt = Піктограма щита
 
 cfr-whatsnew-better-pdf-header = Краща робота з PDF
 cfr-whatsnew-better-pdf-body = PDF-документи тепер відкриваються безпосередньо в { -brand-short-name }, забезпечуючи швидкий доступ під час роботи.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Ваша приватність має значення. { -brand-short-name } тепер надійно спрямовує ваші DNS-запити, коли це можливо, до партнерського сервісу, щоб захистити вас під час перегляду.
+cfr-doorhanger-doh-header = Безпечніша, зашифрована перевірка DNS
+cfr-doorhanger-doh-primary-button = Гаразд, зрозуміло
+    .accesskey = Г
+cfr-doorhanger-doh-secondary-button = Вимкнути
+    .accesskey = В

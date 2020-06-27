@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Захист приватності
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Перейти до свого звіту про приватність
+appmenuitem-update-banner =
+    .label-update-downloading = Завантажується оновлення { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Панель стану захисту
 appmenuitem-customize-mode =
     .label = Пристосування…
