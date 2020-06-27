@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Pengaturan Pesan Junk">
+<!ENTITY trainingDescription.label "Jika diaktifkan, Anda harus terlebih dahulu melatih &brandShortName; untuk mengidentifikasi surel sampah dengan menggunakan tombol bilah Junk untuk menandai pesan sebagai sampah atau bukan. Anda perlu mengidentifikasi baik pesan sampah maupun bukan. Setelah itu &brandShortName; akan dapat menandai sampah secara otomatis.">
 <!ENTITY level.label "Gunakan kendali surel sampah yang adaptif untuk akun ini">
 <!ENTITY level.accesskey "a">
 
