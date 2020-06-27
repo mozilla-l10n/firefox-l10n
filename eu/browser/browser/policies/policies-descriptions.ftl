@@ -78,6 +78,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Leheneratu SameSite po
 ##
 
 policy-LocalFileLinks = Baimendu gune zehatzei fitxategi lokalen loturak egitea.
+policy-MasterPassword = Behartu edo eragotzi pasahitz nagusia erabiltzea.
 policy-NetworkPrediction = Gaitu edo desgaitu sarearen iragarpena (DNS aurre-eskuratzea).
 policy-NewTabPage = Gaitu edo desgaitu fitxa berriaren orria.
 policy-NoDefaultBookmarks = Desgaitu { -brand-short-name }(r)ekin datozen laster-marka lehenetsiak eta dinamikoak sortzea (gehien bisitatutakoak, azken etiketak). Oharra: profila lehenengo aldiz erabili aurretik ezartzen bada bakarrik du eragina politika honek.
