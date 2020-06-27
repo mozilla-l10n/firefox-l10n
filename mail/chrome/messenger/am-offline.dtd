@@ -7,6 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Untuk menghemat ruang disk, pengunduhan pesan dari server dan penyimpanan luring salinan lokal dapat diatur berdasarkan umur atau besar pesan.">
 <!ENTITY allFoldersOffline2.label "Simpan pesan di semua folder untuk akun ini di komputer ini">
 <!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Catatan: Mengubah ini memengaruhi semua folder di akun ini. Untuk mengatur folder individual, gunakan tombol Advanced…">
 <!ENTITY offlineNotDownload.label "Pesan lebih besar dari">
 <!ENTITY offlineNotDownload.accesskey "P">
 <!ENTITY autosyncNotDownload.label "Jangan unduh pesan yang lebih besar dari">

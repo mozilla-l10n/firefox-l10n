@@ -19,6 +19,7 @@
 <!ENTITY whitelistHeader.label "Jangan secara otomatis menandai surel sebagai sampah jika pengirimnya berada di:">
 <!ENTITY whitelistHeader.accesskey "D">
 
+<!ENTITY ispHeadersWarning.label "Jika diaktifkan, &brandShortName; akan secara otomatis menganggap pesan yang ditandai oleh pengelompokan eksternal ini sebagai sampah.">
 <!ENTITY ispHeaders.label "Percayai header email junk yang dikirim oleh: ">
 <!ENTITY ispHeaders.accesskey "P">
 
