@@ -239,3 +239,10 @@ cfr-whatsnew-protections-icon-alt = ไอคอนโล่
 
 cfr-whatsnew-better-pdf-header = ประสบการณ์ PDF ที่ดีขึ้น
 cfr-whatsnew-better-pdf-body = ตอนนี้คุณสามารถเปิดเอกสาร PDF ได้โดยตรงใน { -brand-short-name } ช่วยให้คุณทำงานได้อย่างง่ายดาย
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = ตกลง เข้าใจแล้ว
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = ปิดใช้งาน
+    .accesskey = D
