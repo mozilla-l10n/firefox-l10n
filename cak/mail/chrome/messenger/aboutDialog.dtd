@@ -27,7 +27,7 @@
 <!ENTITY community.exp.middle       " jun ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "chijun ach'ala'il">
-<!ENTITY community.exp.end          " yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k'amaya'l.">
+<!ENTITY community.exp.end          "yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k'amaya'l.">
 
 <!ENTITY community.start2           "&brandShortName; wachib'en ruma ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
@@ -35,7 +35,7 @@
 <!ENTITY community.middle2          ", jun ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "chijun ach'ala'il">
-<!ENTITY community.end3             " yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k'amaya'l.">
+<!ENTITY community.end3             "yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k'amaya'l.">
 
 <!ENTITY helpus.start               "¿La nawajo' yato'on? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
