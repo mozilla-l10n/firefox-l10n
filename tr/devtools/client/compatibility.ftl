@@ -10,17 +10,34 @@ compatibility-all-elements-header = Tüm sorunlar
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-deprecated = (kullanımdan kaldırıldı)
 compatibility-issue-experimental = (deneysel)
+compatibility-issue-deprecated-experimental = (kullanımdan kaldırıldı, deneysel)
 
 ## Messages used as labels and titles for buttons in the footer
 
 compatibility-settings-button-label = Ayarlar
 compatibility-settings-button-title =
     .title = Ayarlar
+compatibility-feedback-button-label = Geri bildirim
+compatibility-feedback-button-title =
+    .title = Geri bildirim
 
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Ayarlar
+compatibility-target-browsers-header = Hedef tarayıcılar
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } tekrar
+       *[other] { $number } tekrar
+    }
+compatibility-no-issues-found = Uyumluluk sorunu bulunamadı.
+compatibility-close-settings-button =
+    .title = Ayarları kapat

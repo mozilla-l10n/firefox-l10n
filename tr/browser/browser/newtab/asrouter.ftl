@@ -243,6 +243,8 @@ cfr-whatsnew-better-pdf-body = PDF belgeleri artık doğrudan { -brand-short-nam
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Gizliliğiniz bizim için önemli. Web’de gezinirken gizliliğinizi korumak için { -brand-short-name } artık DNS isteklerinizi mümkün olduğunca iş ortaklarımıza yönlendiriyor.
+cfr-doorhanger-doh-header = Daha güvenli, şifrelenmiş DNS sorguları
 cfr-doorhanger-doh-primary-button = Tamam
     .accesskey = m
 cfr-doorhanger-doh-secondary-button = Devre dışı bırak
