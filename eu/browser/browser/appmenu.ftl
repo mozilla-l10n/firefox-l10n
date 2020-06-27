@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Pribatutasun-babesak
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Joan zure pribatutasun-txostenera
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } eguneraketa deskargatzen
 appmenuitem-protection-dashboard-title = Babesen panela
 appmenuitem-customize-mode =
     .label = Pertsonalizatu…
