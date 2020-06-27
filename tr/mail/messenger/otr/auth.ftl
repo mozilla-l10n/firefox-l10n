@@ -7,7 +7,7 @@ otr-auth =
     .buttonlabelaccept = Doğrula
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-auth-title = { $name } adı kişinin kimliğini doğrula
+auth-title = { $name } adlı kişinin kimliğini doğrula
 # Variables:
 #   $own_name (String) - the user's own screen name
 auth-your-fp-value = { $own_name } için parmak izi:
@@ -15,6 +15,7 @@ auth-your-fp-value = { $own_name } için parmak izi:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = { $their_name } için parmak izi:
 auth-helpTitle = Doğrulama yardımı
+auth-questionReceived = Karşı tarafın sorduğu soru:
 auth-yes =
     .label = Evet
 auth-no =
@@ -22,6 +23,7 @@ auth-no =
 auth-verified = Bunun gerçekten doğru parmak izi olduğunu doğruladım.
 auth-manualVerification = Elle parmak izi doğrulaması
 auth-questionAndAnswer = Soru ve cevap
+auth-sharedSecret = Ortak sır
 auth-manualVerification-label =
     .label = { auth-manualVerification }
 auth-questionAndAnswer-label =
@@ -31,3 +33,4 @@ auth-sharedSecret-label =
 auth-how = Kişinin kimliğini nasıl doğrulamak istersiniz?
 auth-question = Bir soru girin:
 auth-answer = Cevabı girin (büyük-küçük harfe duyarlı):
+auth-secret = Sırrı girin:
