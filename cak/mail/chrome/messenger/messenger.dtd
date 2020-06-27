@@ -654,7 +654,7 @@
 <!ENTITY folderContextPauseAllUpdates.label "Keq'at Ronojel K'exoj">
 <!ENTITY folderContextPauseUpdates.label "Keq'at K'exoj">
 <!ENTITY folderContextPauseUpdates.accesskey "K">
-<!ENTITY folderContextOpenInNewWindow.label "Tijaq pa jun K'ak'a' Tzuwäch">
+<!ENTITY folderContextOpenInNewWindow.label "Tijaq pa K'ak'a' Tzuwäch">
 <!ENTITY folderContextOpenInNewWindow.accesskey "j">
 <!ENTITY folderContextOpenNewTab.label "Tijaq pa jun K'ak'a' Ruwi'">
 <!ENTITY folderContextOpenNewTab.accesskey "R">

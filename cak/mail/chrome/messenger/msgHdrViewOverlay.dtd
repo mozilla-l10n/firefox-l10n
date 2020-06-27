@@ -56,7 +56,7 @@
 <!ENTITY otherActionsButton.tooltip "Ch'aqa' chik taq b'anoj">
 <!ENTITY otherActionsOpenConversation1.label "Tijaq pa Tzijonem">
 <!ENTITY otherActionsOpenConversation1.accesskey "z">
-<!ENTITY otherActionsOpenInNewWindow1.label "Tijaq pa jun K'ak'a' Tzuwäch">
+<!ENTITY otherActionsOpenInNewWindow1.label "Tijaq pa K'ak'a' Tzuwäch">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
 <!ENTITY otherActionsOpenInNewTab1.label "Tijaq pa K'ak'a' Ruwi'">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "R">
