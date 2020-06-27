@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+experimental-features-css-masonry-description = Activa le assistentia al functionalitate de mappa Masonry CSS experimental. Vider le <a data-l10n-name="explicator">explainer</a> pro un alte nivello de description del functionalitate. Pro fornir commentarios, per favor commenta in <a data-l10n-name="w3c-issue">iste problema de GitHub</a> o <a data-l10n-name="error">iste error</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
