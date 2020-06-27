@@ -306,7 +306,7 @@
 <!ENTITY nextUnreadThread.label "Tzijonem Man Sik'in ta">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
-<!ENTITY prevMenu.label "Chuwäch">
+<!ENTITY prevMenu.label "Jun kan">
 <!ENTITY prevMenu.accesskey "C">
 <!ENTITY prevMsgCmd.label "Tzijol">
 <!ENTITY prevMsgCmd.accesskey "T">
@@ -548,7 +548,7 @@
 <!ENTITY nextMsgButton.label "Jun chik">
 <!ENTITY previousButton.label "Jun kan">
 <!ENTITY previousButtonToolbarItem.label "Chuwäch Man Sik'in Ta">
-<!ENTITY previousMsgButton.label "Chuwäch">
+<!ENTITY previousMsgButton.label "Jun kan">
 <!ENTITY backButton1.label "Chi rij">
 <!ENTITY goForwardButton1.label "Jun chik">
 <!ENTITY deleteItem.title "Tiyuj">
