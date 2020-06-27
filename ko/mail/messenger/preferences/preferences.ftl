@@ -42,6 +42,22 @@ privacy-main-header = 개인 정보
 privacy-passwords-header = 비밀번호
 privacy-junk-header = 스팸
 privacy-data-collection-header = 데이터 수집 및 사용
+collection-header = { -brand-short-name } 데이터 수집과 사용
+collection-description = { -brand-short-name }를 모두를 위해 제공하고 개선하기 위해서 필요한 것만 수집하고 선택권을 제공하기 위해 노력합니다. 개인 정보를 전송하기 전에 항상 허가여부를 묻습니다.
+collection-privacy-notice = 개인정보 고지
+collection-health-report-telemetry-disabled = { -vendor-short-name }에서 더 이상 기술 및 상호 작용 데이터를 캡처할 수 없습니다. 모든 과거 데이터는 30일 이내에 삭제됩니다.
+collection-health-report-telemetry-disabled-link = 더 알아보기
+collection-health-report =
+    .label = { -brand-short-name }가 기술과 상호 작용 정보를 { -vendor-short-name }에 전송하도록 허용
+    .accesskey = r
+collection-health-report-link = 더 알아보기
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = 이 빌드 구성에서는 데이터 리포팅을 하지 않음
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name }가 사용자를 대신해서 백로그 충돌 보고서를 보낼 수 있게 함
+    .accesskey = c
+collection-backlogged-crash-reports-link = 더 알아보기
 privacy-security-header = 보안
 privacy-scam-detection-title = 사기 탐지
 privacy-anti-virus-title = 바이러스 방지 프로그램
@@ -99,7 +115,7 @@ focus-search-shortcut-alt =
     .key = k
 general-legend = { -brand-short-name } 시작 페이지
 start-page-label =
-    .label = 프로그램 시작시 메시지 창에 시작 페이지 출력
+    .label = { -brand-short-name }가 시작될 때 메시지 영역에 시작 페이지 표시
     .accesskey = W
 location-label =
     .value = 주소:
@@ -146,6 +162,9 @@ customize-alert-label =
 tray-icon-label =
     .label = 트레이 아이콘 보이기
     .accesskey = t
+mail-system-sound-label =
+    .label = 새 메일에 대한 기본 시스템 소리
+    .accesskey = D
 mail-custom-sound-label =
     .label = 사용자 정의
     .accesskey = U
@@ -195,7 +214,7 @@ search-integration-label =
 config-editor-button =
     .label = 설정 편집…
     .accesskey = C
-return-receipts-description = 수신 확인 메시지 설정
+return-receipts-description = { -brand-short-name }가 반송 메시지 처리를 결정함
 return-receipts-button =
     .label = 수신 확인…
     .accesskey = R
@@ -656,6 +675,29 @@ chat-variant-label =
 chat-header-label =
     .label = 헤더 보기
     .accesskey = H
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] 설정에서 찾기
+           *[other] 설정에서 찾기
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = 검색 결과
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] 죄송합니다! “<span data-l10n-name="query"></span>”설정에 대한 결과가 없습니다.
+       *[other] 죄송합니다! “<span data-l10n-name="query"></span>”설정에 대한 결과가 없습니다.
+    }
+search-results-help-link = 도움이 필요하세요? <a data-l10n-name="url">{ -brand-short-name } 지원</a>에 방문하세요.
