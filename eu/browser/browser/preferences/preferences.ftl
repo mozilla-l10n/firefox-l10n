@@ -50,6 +50,11 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = { -brand-short-name } esperimentuak
+category-experimental =
+    .tooltiptext = { -brand-short-name } esperimentuak
+pane-experimental-subtitle = Kontuz jarraitu
+pane-experimental-description = Konfigurazio-hobespen aurreratuak aldatzeak { -brand-short-name }(r)en errendimendu edo segurtasunean eragin lezake.
 help-button-label = { -brand-short-name } laguntza
 addons-button-label = Hedapenak eta itxurak
 focus-search =
@@ -499,7 +504,6 @@ home-prefs-topsites-description = Gehien bisitatzen dituzun guneak
 
 home-prefs-recommended-by-header =
     .label = { $provider } hornitzaileak gomendatuta
-home-prefs-recommended-by-description = Webeko eduki baliotsua, zuretzat pertsonalizatuta
 home-prefs-recommended-by-description-update = Webeko aparteko edukia, { $provider } hornitzaileak bilduta
 
 ##
@@ -563,7 +567,6 @@ search-show-suggestions-above-history-option =
     .label = Helbide-barrako emaitzetan, erakutsi bilaketa-gomendioak nabigatze-historiaren aurretik
 search-show-suggestions-private-windows =
     .label = Erakutsi bilaketa-iradokizunak leiho pribatuetan
-suggestions-addressbar-settings = Aldatu nabigatze-historia, laster-marka eta fitxen iradokizunen hobespenak
 suggestions-addressbar-settings-generic = Aldatu hobespenak bilaketa-motorren bestelako iradokizunetarako
 search-suggestions-cant-show = Bilaketa-iradokizunak ez dira helbide-barran erakutsiko { -brand-short-name }(e)k historia inoiz ez gogoratzeko konfiguratu duzulako.
 search-one-click-header = Klik bakarreko bilaketa-motorrak

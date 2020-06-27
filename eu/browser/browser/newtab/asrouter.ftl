@@ -205,6 +205,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Ikusi guztiak
     .accesskey = I
+cfr-doorhanger-milestone-close-button = Itxi
+    .accesskey = x
 
 ## What’s New Panel Content for Firefox 76
 
@@ -236,3 +238,10 @@ cfr-whatsnew-protections-icon-alt = Babesaren ikonoa
 
 cfr-whatsnew-better-pdf-header = PDF esperientzia hobetua
 cfr-whatsnew-better-pdf-body = PDF dokumentuak orain zuzenean { -brand-short-name }(e)n irekitzen dira, zure lan egiteko modua erraztuz.
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = Ados, ulertuta
+    .accesskey = A
+cfr-doorhanger-doh-secondary-button = Desgaitu
+    .accesskey = D
