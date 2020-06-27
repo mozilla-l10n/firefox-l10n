@@ -242,6 +242,7 @@ cfr-whatsnew-better-pdf-body = Le documentos PDF ora aperi directemente in { -br
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Tu confidentialitate es importante. { -brand-short-name } ora adressa con securitate tu requestas de DNS quandocunque possibile a un servicio partner pro proteger te durante tu navigation.
 cfr-doorhanger-doh-header = Recercas DNS plus secur e ciphrate
 cfr-doorhanger-doh-primary-button = De accordo
     .accesskey = a
