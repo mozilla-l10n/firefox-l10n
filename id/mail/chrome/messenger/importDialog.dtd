@@ -15,6 +15,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "S">
 <!ENTITY importMail.label         "Email">
 <!ENTITY importMail.accesskey     "m">
+<!ENTITY importFeeds.label        "Langganan Umpan">
 <!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Buku Alamat">
 <!ENTITY importAddressbook.accesskey "B">
