@@ -16,6 +16,7 @@ extensions-version = Sürüm
 extensions-id = Kimlik
 support-addons-title = Eklentiler
 support-addons-name = Adı
+support-addons-type = Tür
 support-addons-enabled = Etkin
 support-addons-version = Sürüm
 support-addons-id = Kimlik
@@ -77,6 +78,8 @@ show-dir-label =
        *[other] Dizini aç
     }
 experimental-features-title = Deneysel özellikler
+experimental-features-name = Adı
+experimental-features-value = Değer
 modified-key-prefs-title = Değiştirilmiş önemli tercihler
 modified-prefs-name = Adı
 modified-prefs-value = Değer
