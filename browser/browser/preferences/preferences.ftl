@@ -55,6 +55,7 @@ pane-experimental-title = Esperimenti di { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperimenti di { -brand-short-name }
 pane-experimental-subtitle = Procedere con cautela
+pane-experimental-search-results-header = Esperimenti di { -brand-short-name }: procedere con cautela
 pane-experimental-description = La modifica delle impostazioni avanzate di configurazione può compromettere le prestazioni e la sicurezza di { -brand-short-name }.
 help-button-label = Supporto per { -brand-short-name }
 addons-button-label = Estensioni e temi
