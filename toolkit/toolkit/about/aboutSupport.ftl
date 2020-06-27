@@ -17,7 +17,10 @@ extensions-name = Name
 extensions-enabled = Enabled
 extensions-version = Version
 extensions-id = ID
+support-addons-title = Add-ons
 support-addons-name = Name
+support-addons-type = Type
+support-addons-enabled = Enabled
 support-addons-version = Version
 support-addons-id = ID
 security-software-title = Security Software
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] Open Folder
        *[other] Open Directory
     }
+experimental-features-title = Experimental Features
+experimental-features-name = Name
+experimental-features-value = Value
 modified-key-prefs-title = Important Modified Preferences
 modified-prefs-name = Name
 modified-prefs-value = Value
