@@ -293,5 +293,7 @@ urlbar-extension =
     .value = Extension:
 urlbar-go-button =
     .tooltiptext = Kaka nu barra nuu.
+urlbar-page-action-button =
+    .tooltiptext = Acciones de la página
 urlbar-pocket-button =
     .tooltiptext = Chuva´a nuu { -pocket-brand-name }
