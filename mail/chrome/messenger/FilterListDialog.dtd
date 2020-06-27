@@ -22,6 +22,7 @@
 <!ENTITY reorderDownButton.accesskey "T">
 <!ENTITY reorderBottomButton "Pindahkan ke Bawah">
 <!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Susun ulang filter sehingga dijalankan setelah semua yang lain">
 <!ENTITY filterHeader.label "Filter yang aktif akan dijalankan secara otomatis sesuai urutan di bawah ini.">
 <!ENTITY filtersForPrefix.label "Filter untuk:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -36,3 +37,4 @@
 <!ENTITY helpButton.label "Bantuan">
 <!ENTITY helpButton.accesskey "B">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Pencarian filter berdasarkan nama ...">
