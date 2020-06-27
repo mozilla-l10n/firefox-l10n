@@ -253,3 +253,12 @@ cfr-whatsnew-protections-icon-alt = Ikona tarczy
 
 cfr-whatsnew-better-pdf-header = Lepsza obsługa plików PDF
 cfr-whatsnew-better-pdf-body = Dokumenty PDF są teraz otwierane bezpośrednio w przeglądarce { -brand-short-name }, ułatwiając z nimi pracę.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Twoja prywatność jest ważna. { -brand-short-name } teraz bezpiecznie przekierowuje Twoje żądania DNS do usługi partnerskiej, aby chronić Cię w czasie przeglądania Internetu.
+cfr-doorhanger-doh-header = Bezpieczniejsze, zaszyfrowane wyszukiwania DNS
+cfr-doorhanger-doh-primary-button = OK
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Wyłącz
+    .accesskey = W
