@@ -12,3 +12,6 @@ error-enc = İleti şifrelenirken bir hata oluştu.
 error-unreadable = Okunamayan bir şifrelenmiş ileti gönderdiniz.
 error-malformed = Hatalı oluşturulmuş bir veri iletisi gönderdiniz.
 resent = [yeniden gönderildi]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } sizinle şifrelenmiş görüşmeyi sonlandırdı. Siz de aynısını yapmalısınız.

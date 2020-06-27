@@ -8,11 +8,30 @@ auth-label = Kişinin kimliğini doğrula
 reauth-label = Kişinin kimliğini yeniden doğrula
 auth-cancel = İptal
 auth-cancelAccessKey = İ
+auth-error = Kişinin kimliği doğrulanırken bir hata oluştu.
+auth-success = Kişinin kimliğinin doğrulanması başarıyla tamamlandı.
+auth-fail = Kişinin kimliği doğrulanamadı.
+auth-waiting = Kişinin doğrulamayı tamamlaması bekleniyor…
 finger-verify = Doğrula
 finger-verify-accessKey = D
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = OTR parmak izi ekle
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = { $name } adlı kişiyle şifrelenmiş görüşme başlatılıyor.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = { $name } adlı kişiyle şifrelenmiş görüşme sona erdi.
 state-not_private = Bu görüşme gizli değil.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = { $name } kişisinin kimliği henüz doğrulanmadığından geçerli ileti dizisi şifrelenmiş ancak gizli değil.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = { $name } kişisinin kimliği doğrulandı. Geçerli görüşme artık şifrelenmiş ve gizlidir.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } sizinle şifrelenmiş görüşmeyi sonlandırdı. Siz de aynısını yapmalısınız.
 state-not_private-label = Güvensiz
 state-unverified-label = Doğrulanmamış
 state-private-label = Özel

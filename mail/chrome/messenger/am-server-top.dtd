@@ -38,7 +38,7 @@
 <!ENTITY deleteByAgeFromServer.label "En fazla">
 <!ENTITY deleteByAgeFromServer.accesskey "E">
 <!ENTITY daysEnd.label "gün">
-<!ENTITY deleteOnServer2.label "E-postaları bilgisayarımdan sildiğimde sunucudan da sil">
+<!ENTITY deleteOnServer2.label "Ben silene kadar">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Yeni e-postaları otomatik indir">
 <!ENTITY downloadOnBiff.accesskey "p">
