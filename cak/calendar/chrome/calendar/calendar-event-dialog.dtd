@@ -70,7 +70,7 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Tiyuj…">
 <!ENTITY  event.menu.item.delete.accesskey                "y">
-<!ENTITY  event.menu.item.page.setup.label                "Runuk'ulem ruxaq">
+<!ENTITY  event.menu.item.page.setup.label                "Runuk'ulem Ruxaq">
 <!ENTITY  event.menu.item.page.setup.accesskey            "u">
 <!ENTITY  event.menu.item.print.label                     "Titz'ajb'äx">
 <!ENTITY  event.menu.item.print.accesskey                 "b">
