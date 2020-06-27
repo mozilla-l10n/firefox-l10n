@@ -121,7 +121,7 @@
 <!ENTITY folderPropsNewsgroupCmd2.label "Kichinil Kimolaj Tzijol">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Titzolïx Tiyuj Rutzijol">
-<!ENTITY redoDeleteMsgCmd.label "Tib'an chik Tiyuj Rutzijol">
+<!ENTITY redoDeleteMsgCmd.label "Tikamulüx chik Tiyuj Rutzijol">
 <!ENTITY undoMoveMsgCmd.label "Titzolïx Tisilöx Rutzijol">
 <!ENTITY redoMoveMsgCmd.label "Tib'an chik Tisilöx Rutzijol">
 <!ENTITY undoCopyMsgCmd.label "Titzolïx Tiwachib'ëx Rutzijol">
