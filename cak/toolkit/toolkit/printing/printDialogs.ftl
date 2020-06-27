@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 print-setup =
-    .title = Runuk'ulem ruxaq
+    .title = Runuk'ulem Ruxaq
 custom-prompt-title = Ichinan…
 custom-prompt-prompt = Tatz'ib'aj ri ichinan rucholajem tzij richin ri rujub'i'aj/kamulun tzij
 basic-tab =
