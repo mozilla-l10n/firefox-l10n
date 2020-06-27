@@ -18,6 +18,7 @@
 <!ENTITY e2eLearnMore.label "Pelajari lebih lanjut">
 
 <!ENTITY e2eEnc.description "Tanpa enkripsi ujung-ke-ujung, isi pesan mudah terpapar ke penyedia surel Anda dan pelacakan massal.">
+<!ENTITY e2eeReqWarning.description "Jika Anda memerlukan enkripsi, untuk mengirim pesan Anda harus memiliki kunci publik atau sertifikat dari setiap penerima.">
 
 <!ENTITY e2eTechPref.description "Teknologi enkripsi yang dipilih:">
 
