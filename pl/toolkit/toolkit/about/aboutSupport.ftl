@@ -18,7 +18,10 @@ extensions-name = Nazwa
 extensions-enabled = Włączone
 extensions-version = Wersja
 extensions-id = ID
+support-addons-title = Dodatki
 support-addons-name = Nazwa
+support-addons-type = Typ
+support-addons-enabled = Włączone
 support-addons-version = Wersja
 support-addons-id = ID
 security-software-title = Oprogramowanie zabezpieczające
@@ -78,6 +81,9 @@ show-dir-label =
         [windows] Otwórz folder
        *[other] Otwórz katalog
     }
+experimental-features-title = Funkcje eksperymentalne
+experimental-features-name = Nazwa
+experimental-features-value = Wartość
 modified-key-prefs-title = Ważne zmodyfikowane ustawienia
 modified-prefs-name = Nazwa
 modified-prefs-value = Wartość
