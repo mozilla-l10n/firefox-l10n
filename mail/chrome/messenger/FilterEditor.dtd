@@ -21,6 +21,7 @@
 <!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "Jalankan Secara Manual">
 <!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Saring sebelum Pengklasifikasian Sampah">
 <!ENTITY contextOutgoing.label "Setelah Mengirim">
 <!ENTITY contextOutgoing.accesskey "S">
 <!ENTITY contextArchive.label "Mengarsipkan">
