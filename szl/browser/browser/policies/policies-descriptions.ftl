@@ -49,6 +49,10 @@ policy-DisableTelemetry = Wyłōnczanie telemetryje.
 policy-DisplayBookmarksToolbar = Bazowe pokazowanie poska zokłodek.
 policy-DisplayMenuBar = Bazowe pokazowanie poska myni.
 policy-DNSOverHTTPS = Nastawianie DNS bez HTTPS.
+policy-DontCheckDefaultBrowser = Zastawianie badanio bazowyj przeglōndarki przi sztarcie.
+policy-DownloadDirectory = Nastawianie i szperowanie katalogu pobiyranio.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Załōnczanie abo zastawianie szperowanio zawartości i ôpcjōnalnie szperowanie jego użycio.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
