@@ -211,6 +211,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = ყველას ნახვა
     .accesskey = ნ
+cfr-doorhanger-milestone-close-button = დახურვა
+    .accesskey = ხ
 
 ## What’s New Panel Content for Firefox 76
 
@@ -248,3 +250,8 @@ cfr-whatsnew-better-pdf-body = PDF-დოკუმენტებს ახლ�
 ## DOH Message
 
 cfr-doorhanger-doh-body = თქვენი პირადულობა უმნიშვნელოვანესია. { -brand-short-name } ახლა უკვე უსაფრთხოდ გადაამისამართებს თქვენს DNS-მოთხოვნებს, როცა კი შესაძლებელი იქნება, პარტნიორი მომსახურების მეშვეობით, რომ გვერდების მონახულებისას მუდამ დაცული იყოთ.
+cfr-doorhanger-doh-header = მეტად უსაფრთხო, დაშიფრული DNS-გარდაქმნები
+cfr-doorhanger-doh-primary-button = კარგი, გასაგებია
+    .accesskey = კ
+cfr-doorhanger-doh-secondary-button = გამორთვა
+    .accesskey = გ
