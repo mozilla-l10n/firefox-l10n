@@ -263,15 +263,15 @@ about-debugging-extension-id =
 # to a service worker.
 # Notes, this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
-about-debugging-worker-action-push = Tinim
+about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Titikirisäx
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.
 # Note this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
-about-debugging-worker-action-push2 = Tinim
-    .disabledTitle = Chupül ri runimik Service Worker pa k'ïy tajinïk { -brand-shorter-name }
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Chupül ri Service Worker push pa k'ïy tajinïk { -brand-shorter-name }
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = Titikirisäx
     .disabledTitle = Chupül ri rutikirib'al Service Worker richin k'ïy tajinïk { -brand-shorter-name }
