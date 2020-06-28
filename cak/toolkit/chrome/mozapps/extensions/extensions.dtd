@@ -16,7 +16,7 @@
 <!ENTITY cmd.neverActivate.tooltip            "Majub'ey tokisäx re tz'aqat re'">
 <!ENTITY cmd.stateMenu.tooltip                "Tijal toq re tz'aqat re' tzijïl">
 
-<!ENTITY cmd.uninstallAddon.label             "Telesäx">
+<!ENTITY cmd.uninstallAddon.label             "Tiyuj">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
 <!ENTITY cmd.showPreferencesWin.label         "Taq cha'oj">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kejal ri taq rucha'oj re tz'aqat re'">

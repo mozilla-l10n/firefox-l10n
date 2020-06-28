@@ -579,8 +579,8 @@ search-restore-default =
     .label = Ketzolïx ri kisamajel kanob'äl ruk'amon wi pe
     .accesskey = r
 search-remove-engine =
-    .label = Telesäx
-    .accesskey = s
+    .label = Tiyuj
+    .accesskey = y
 search-find-more-link = Kekanöx ch'aqa' chik kik'u'x taq kanob'äl
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
