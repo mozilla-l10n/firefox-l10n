@@ -53,7 +53,7 @@ category-sync2 =
 pane-experimental-title = { -brand-short-name } 實驗
 category-experimental =
     .tooltiptext = { -brand-short-name } 實驗
-pane-experimental-subtitle = 我發誓，我一定會小心的！
+pane-experimental-subtitle = 調整設定前請務必小心！
 pane-experimental-description = 調整進階設定，可能會影響 { -brand-short-name } 的效能或安全性。
 help-button-label = { -brand-short-name } 技術支援
 addons-button-label = 擴充套件與佈景主題
@@ -492,7 +492,6 @@ home-prefs-topsites-description = 最常造訪的網站
 
 home-prefs-recommended-by-header =
     .label = { $provider } 推薦
-home-prefs-recommended-by-description = 網路上的各種超棒內容，為您量身打造
 home-prefs-recommended-by-description-update = 由 { $provider } 整理提供的網路精選內容
 
 ##
@@ -552,7 +551,6 @@ search-show-suggestions-above-history-option =
     .label = 在網址列顯示的結果中，將搜尋建議放在瀏覽紀錄前面
 search-show-suggestions-private-windows =
     .label = 於隱私瀏覽視窗中顯示搜尋建議
-suggestions-addressbar-settings = 更改上網紀錄、書籤、分頁建議的相關偏好設定
 suggestions-addressbar-settings-generic = 修改其他網址列建議偏好設定
 search-suggestions-cant-show = 由於您已經設定 { -brand-short-name } 不要記住瀏覽紀錄，網址列中將不會顯示建議搜尋結果。
 search-one-click-header = 快捷搜尋引擎清單
