@@ -46,4 +46,5 @@
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Autyntyzacyjo chrōniōnego tokyna">
+<!ENTITY protectedAuth.msg "Autyntyzuj sie do tokyna. Metoda autyntyzacyje znoleży ôd typu twojigo tokyna.">
 <!ENTITY protectedAuth.tokenName.label "Tokyn:">
