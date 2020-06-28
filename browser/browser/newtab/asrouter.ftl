@@ -244,3 +244,7 @@ cfr-whatsnew-protections-icon-alt = ფარის ნიშანი
 
 cfr-whatsnew-better-pdf-header = PDF-თან მოხერხებული მუშაობა
 cfr-whatsnew-better-pdf-body = PDF-დოკუმენტებს ახლა უკვე პირდაპირ გახსნის { -brand-short-name }, საჭირო მასალები კიდევ უფრო ახლოს გექნებათ.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = თქვენი პირადულობა უმნიშვნელოვანესია. { -brand-short-name } ახლა უკვე უსაფრთხოდ გადაამისამართებს თქვენს DNS-მოთხოვნებს, როცა კი შესაძლებელი იქნება, პარტნიორი მომსახურების მეშვეობით, რომ გვერდების მონახულებისას მუდამ დაცული იყოთ.
