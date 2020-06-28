@@ -54,6 +54,5 @@
 <!ENTITY smiley16Cmd.label "Ngậm tăm">
 <!ENTITY smiley16Cmd.accesskey "N">
 <!ENTITY smiley16Cmd.tooltip "Chèn một khuôn mặt ngậm tăm">
+<!ENTITY SmileButton.label "Chèn biểu tượng">
 <!ENTITY SmileButton.tooltip "Chèn mặt cười">
-
-

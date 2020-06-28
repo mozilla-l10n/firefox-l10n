@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "D">
 <!ENTITY newAddressBookCmd.label                        "Sổ địa chỉ…">
 <!ENTITY newAddressBookCmd.accesskey                    "S">
+<!ENTITY newCardDAVBookCmd.label                        "Sổ địa chỉ CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Thư mục LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newMessageCmd.label                            "Thư">
