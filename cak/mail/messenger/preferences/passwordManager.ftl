@@ -60,13 +60,13 @@ hide-passwords =
 logins-description-all = Ri kitikirib'al moloj re taq ajya'öl re' yeyak pan akematz'ib'
 logins-description-filtered = Re jujun kitikirib'al molojri'ïl re', nikik'äm ki' rik'in ri nakanoj:
 remove-all =
-    .label = Keyuj Konojel
-    .accesskey = o
+    .label = Keyuj Ronojel
+    .accesskey = R
 remove-all-shown =
     .label = Keyuj Ronojel Ek'utun pe
     .accesskey = R
-remove-all-passwords-prompt = ¿At jikïl chi nawajo' ye'ayüj el konojel ri ewan taq tzij?
-remove-all-passwords-title = Keyuj konojel ri ewan taq tzij
+remove-all-passwords-prompt = ¿At jikïl chi nawajo' ye'ayüj ronojel ri ewan taq tzij?
+remove-all-passwords-title = Keyuj ronojel ri ewan taq tzij
 no-master-password-prompt = ¿La at jikïl chi nawajo' ye'ak'üt pe ri ewan taq atzij?
 
 ## OS Authentication dialog
