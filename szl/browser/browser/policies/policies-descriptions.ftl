@@ -53,6 +53,22 @@ policy-DontCheckDefaultBrowser = Zastawianie badanio bazowyj przeglōndarki przi
 policy-DownloadDirectory = Nastawianie i szperowanie katalogu pobiyranio.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Załōnczanie abo zastawianie szperowanio zawartości i ôpcjōnalnie szperowanie jego użycio.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Załōnczanie abo zastawianie Encrypted Media Extensions i ôpcjōnalnie szperowanie ich użycio.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instalacyjo, ôdinstalacyjo abo szperowanie rozszyrzyń. Ôpcyjo instalacyje biere za parametry adresy URL abo cesty. Ôdinsztalacyjo i szperowanie bierōm ID rozszyrzyń.
+policy-ExtensionSettings = Regiyruj wszyskimi aspektami instalacyje rozszyrzyń.
+policy-ExtensionUpdate = Załōnczynie abo wyłōnczynie autōmatycznych aktualizacyji rozszyrzyń.
+policy-FirefoxHome = Nastawianie Firefox Home.
+policy-FlashPlugin = Zgoda abo zakoz używanio rozszyrzynio Flash.
+policy-Handlers = Nastawianie bazowych aplikacyji do ôbsugi typōw zbiorōw.
+policy-HardwareAcceleration = Wert "false" wyłōnczo hardwarowo akceleracyjo.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Nastawianie i ôpcjōnalnie szperowanie dōmowyj strōny.
+policy-InstallAddonsPermission = Zgoda na instalowanie rozszyrzyń z niykerych strōn.
+policy-LegacyProfiles = Zastawianie ôpcyji, co wymogo ôsobnigo profilu do kożdyj instalacyje.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
