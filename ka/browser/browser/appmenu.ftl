@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = პირადულობის დაცვა
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = პირადულობის ანგარიშზე გადასვლა
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } განახლების ჩამოტვირთვა
 appmenuitem-protection-dashboard-title = დაცვის მაჩვენებლები
 appmenuitem-customize-mode =
     .label = მორგება…
