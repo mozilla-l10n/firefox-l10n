@@ -1,17 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ప్రవేశాలు & సంకేతపదాలు
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = మీ సంకేతపదాలను ఎక్కడికైనా తీసుకెళ్ళండి
+login-app-promo-android =
+    .alt = దీన్ని గూగుల్ ప్లే నుండి పొందండి
 login-filter =
     .placeholder = ప్రవేశాలలో వెతకండి
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
@@ -120,6 +118,9 @@ about-logins-breach-alert-learn-more-link = ఇంకా తెలుసుక�
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = బలహీనమైన సంకేతపదం
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname }కు వెళ్ళండి
 about-logins-vulnerable-alert-learn-more-link = ఇంకా తెలుసుకోండి
 
 ## Error Messages
