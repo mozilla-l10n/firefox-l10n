@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Values for changepassword.xhtml -->
+<!ENTITY setPassword.title  "Zmiyń głōwne hasło">
+<!ENTITY setPassword.tokenName.label "Maszina bezpieczyństwa">
+<!ENTITY setPassword.oldPassword.label "Aktualne hasło:">
+<!ENTITY setPassword.newPassword.label "Nowe hasło:">
+<!ENTITY setPassword.reenterPassword.label "Nowe hasło (jeszcze roz):">
+<!ENTITY setPassword.meter.label "Meter jakości hasła">
+
+<!-- Values for resetpassword.xhtml -->
+<!ENTITY resetPasswordButtonLabel "Wynuluj">
+<!ENTITY resetPassword.title  "Wynuluj głōwne hasło">
+<!ENTITY resetPassword.text  "Jak wynulujesz swoje głōwne hasło, to przepōmnōm sie wszyskie poschraniane hasła, dane formularōw, ôsobiste certyfikaty i prywatne klucze. Na zicher chcesz wynulować swoje głōwne hasło?">
+
+<!-- Downloading a cert -->
+<!ENTITY downloadCert.title "Pobiyranie certyfikatu">
+<!ENTITY downloadCert.message1 "Prziszła prośba, coby wierzić nowymu wystowcy certyfikatōw (CA).">
+<!ENTITY downloadCert.trustSSL "Wiyrz tymu CA przi poznowaniu strōn.">
+<!ENTITY downloadCert.trustEmail "Wiyrz tymu CA przi poznowaniu używoczy poczty.">
+
+<!-- Strings for the SSL client auth ask dialog -->
+
+
+
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!-- Strings for protectedAuth dialog -->

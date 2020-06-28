@@ -76,3 +76,7 @@ policy-LegacySameSiteCookieBehaviorEnabled = Załōnczanie bazowego sztalōnku z
 
 ##
 
+policy-LocalFileLinks = Zgoda, coby niykere strōny linkowały do lokalnych zbiorōw.
+policy-MasterPassword = Żōndanie abo zakoz używanio głōwnego hasła.
+policy-NetworkPrediction = Załōnczanie abo zastawianie wstympnego wczytowanio DNS.
+policy-NewTabPage = Załōnczanie abo zastawianie strōny nowyj karty.
