@@ -115,10 +115,10 @@ search-results-header = Kết quả tìm kiếm
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Xin lỗi! Không có kết quả trong phần tủy chọn cho “<span data-l10n-name="query"></span>”.
-       *[other] Xin lỗi! Không có kết quả trong phần tủy chỉnh cho “<span data-l10n-name="query"></span>”.
+        [windows] Xin lỗi! Không có kết quả trong phần Tùy chọn cho “<span data-l10n-name="query"></span>”.
+       *[other] Xin lỗi! Không có kết quả trong phần Tùy chỉnh cho “<span data-l10n-name="query"></span>”.
     }
-search-results-help-link = Cần trợ giúp? Đi tới <a data-l10n-name="url">Hỗ trợ từ { -brand-short-name }</a>
+search-results-help-link = Cần trợ giúp? Đi đến <a data-l10n-name="url">Hỗ trợ { -brand-short-name }</a>
 
 ## General Section
 
@@ -492,7 +492,6 @@ home-prefs-topsites-description = Những trang bạn truy cập nhiều nhất
 
 home-prefs-recommended-by-header =
     .label = Được đề xuất bởi { $provider }
-home-prefs-recommended-by-description = Nội dung tuyệt vời từ trên web, được cá nhân hóa cho bạn
 home-prefs-recommended-by-description-update = Nội dung đặc biệt trên web, được quản lý bởi { $provider }
 
 ##
@@ -552,7 +551,6 @@ search-show-suggestions-above-history-option =
     .label = Hiện những gợi ý tìm kiếm phía trước lịch sử duyệt web trong kết quả thanh địa chỉ
 search-show-suggestions-private-windows =
     .label = Hiển thị đề xuất tìm kiếm trong cửa sổ riêng tư
-suggestions-addressbar-settings = Thay đổi tùy chọn cho lịch sử duyệt web, dấu trang và đề xuất thẻ
 suggestions-addressbar-settings-generic = Thay đổi tùy chọn cho các đề xuất trên thanh địa chỉ khác
 search-suggestions-cant-show = Gợi ý tìm kiếm sẽ không được hiện ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
 search-one-click-header = Công cụ tìm kiếm với một lần nhấn

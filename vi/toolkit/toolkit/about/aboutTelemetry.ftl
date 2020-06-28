@@ -15,7 +15,7 @@ about-telemetry-option-group-yesterday = Hôm qua
 about-telemetry-option-group-older = Cũ hơn
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
-about-telemetry-page-title = Dữ liệu Telemetry
+about-telemetry-page-title = Dữ liệu từ xa
 about-telemetry-current-store = Cửa hàng hiện tại:
 about-telemetry-more-information = Tìm kiếm thêm thông tin?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Tài liệu dữ liệu Firefox</a> chứa các hướng dẫn về cách làm việc với các công cụ dữ liệu của chúng tôi.
