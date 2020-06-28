@@ -6,9 +6,9 @@
 
 <!-- extracted from content/viewSource.xhtml -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
@@ -50,10 +50,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY viewMenu.label           "Tz'etob'äl">
 <!ENTITY viewMenu.accesskey       "T">
-<!ENTITY reloadCmd.label "Tisamajib'ëx chik">
+<!ENTITY reloadCmd.label "Tisamajïx chik">
 <!ENTITY reloadCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Kenuk' Yuquyäq Cholaj"> 
+<!ENTITY menu_wrapLongLines.title "Kenuk' Yuquyäq Cholaj">
 <!ENTITY menu_wrapLongLines.accesskey "K">
 <!ENTITY menu_highlightSyntax.label "Tiya' Retal ri Cholb'ab'">
 <!ENTITY menu_highlightSyntax.accesskey "R">
@@ -86,4 +86,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "X">
 <!ENTITY copyEmailCmd.label "Tiwachib'ëx Rochochib'al Taqoya'l">
 <!ENTITY copyEmailCmd.accesskey "T">
-

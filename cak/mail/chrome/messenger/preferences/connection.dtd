@@ -17,7 +17,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "r">
 <!ENTITY  autoTypeRadio.label           "URL richin runuk'ulem pa ruyonil ri proxi:">
 <!ENTITY  autoTypeRadio.accesskey       "y">
-<!ENTITY  reload.label                  "Tisamajib'ëx chik">
+<!ENTITY  reload.label                  "Tisamajïx chik">
 <!ENTITY  reload.accesskey              "j">
 <!ENTITY  http.label                    "HTTP Proxi:">
 <!ENTITY  http.accesskey                "h">
@@ -43,7 +43,7 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Taq okem pa localhost, 127.0.0.1, chuqa' ::1 majub'ey nik'o pa proxi.">
+<!ENTITY  noproxyLocalhostDesc.label    "Taq okem pa localhost, 127.0.0.1, chuqa' ::1 majub'ey nik'o pa proxi.">
 <!ENTITY  autologinproxy.label          "Mani tik'utüx rujikib'axik we yakon ri ewan tzij">
 <!ENTITY  autologinproxy.accesskey      "j">
 <!ENTITY  autologinproxy.tooltip        "Re jun cha'oj re' nuya' awetal eqal chi kiwäch ri taq proxi toq e'ayakon kan taq awujil kichin rije'. Xakasik'ïx we ri ruya'ik awetal nisach.">
