@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Tìm kiếm thư…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Tìm kiếm tổng quát…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Tìm kiếm địa chỉ…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
@@ -730,8 +732,11 @@
 <!ENTITY idColumn.label "Thứ tự nhận được">
 <!ENTITY attachmentColumn.label "Đính kèm">
 
+<!ENTITY deleteColumn.label "Xóa">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Chọn các cột để hiển thị">
+<!ENTITY selectColumn.tooltip "Chuyển đổi chọn tất cả các tin nhắn">
 <!ENTITY threadColumn2.tooltip "Hiển thị chủ đề thư">
 <!ENTITY fromColumn2.tooltip "Sắp xếp theo người gửi">
 <!ENTITY recipientColumn2.tooltip "Sắp xếp theo người nhận">
@@ -752,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Sắp xếp theo địa chỉ">
 <!ENTITY idColumn2.tooltip "Sắp xếp theo thứ tự nhận được">
 <!ENTITY attachmentColumn2.tooltip "Sắp xếp theo đính kèm">
+
+<!ENTITY deleteColumn.tooltip "Xóa tin nhắn">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Thư mới từ mẫu">
