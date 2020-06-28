@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Ôchrōna prywatności
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Ôtwōrz report prywatności
+appmenuitem-update-banner =
+    .label-update-downloading = Pobiyranie aktualizacyje aplikacyje { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Przeglōnd ôchrōny
 appmenuitem-customize-mode =
     .label = Przipasuj…

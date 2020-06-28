@@ -245,3 +245,12 @@ cfr-whatsnew-protections-icon-alt = Ikōna ôsłōny
 
 cfr-whatsnew-better-pdf-header = Lepszo ôbsuga dokumyntōw PDF
 cfr-whatsnew-better-pdf-body = Dokumynty PDF ôtwiyrajōm sie teroz dyrekt w aplikacyji { -brand-short-name }, coby robota szła snadnie.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Twoja prywatność je we wercie. Teroz, jak ino idzie, { -brand-short-name } bezpiecznie keruje twoje prośby DNS do partnerskij usugi, coby chrōnić cie, jak przeglōndosz internet.
+cfr-doorhanger-doh-header = Bezpieczniyjsze, zaszyfrowane szukania DNS
+cfr-doorhanger-doh-primary-button = OK
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Zastow
+    .accesskey = Z
