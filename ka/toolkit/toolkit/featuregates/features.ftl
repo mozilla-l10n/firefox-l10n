@@ -16,3 +16,4 @@ experimental-features-web-gpu-description = საცდელი API გრა�
 # by various online articles and is technical in nature.
 experimental-features-avif =
     .label = AVIF
+experimental-features-avif-description = საცდელი მხარდაჭერა სურათის სახის ფაილისთვის AVIF: AV1
