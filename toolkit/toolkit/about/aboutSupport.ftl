@@ -14,7 +14,10 @@ extensions-name = სახელი
 extensions-enabled = ჩართულია
 extensions-version = ვერსია
 extensions-id = ID
+support-addons-title = დამატებები
 support-addons-name = სახელი
+support-addons-type = სახეობა
+support-addons-enabled = ჩართულია
 support-addons-version = ვერსია
 support-addons-id = ID
 security-software-title = უსაფრთხოების დაცვის პროგრამა
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] საქაღალდის გახსნა
        *[other] დირექტორიის გახსნა
     }
+experimental-features-title = საცდელი შესაძლებლობები
+experimental-features-name = სახელი
+experimental-features-value = მნიშვნელობა
 modified-key-prefs-title = ჩასწორებული მნიშვნელოვანი პარამეტრები
 modified-prefs-name = სახელი
 modified-prefs-value = მნიშვნელობა
