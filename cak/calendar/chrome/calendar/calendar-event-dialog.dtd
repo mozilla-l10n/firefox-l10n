@@ -143,7 +143,7 @@
 <!ENTITY event.attachments.url.label                      "Ajk'amaya'l Ruxaq…">
 <!ENTITY event.attachments.popup.remove.label             "Tiyuj" >
 <!ENTITY event.attachments.popup.open.label               "Tijaq" >
-<!ENTITY event.attachments.popup.removeAll.label          "Keyuj Konojel" >
+<!ENTITY event.attachments.popup.removeAll.label          "Keyuj Ronojel" >
 <!ENTITY event.priority2.label                            "Ya'on ruq'ij:">
 
 <!ENTITY event.reminder.custom.label                      "Ichinan…" >
