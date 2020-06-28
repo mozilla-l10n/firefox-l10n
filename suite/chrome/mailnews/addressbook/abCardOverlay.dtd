@@ -136,3 +136,4 @@
 <!ENTITY PhotoURL.placeholder "Pegue o escriba la dirección web de una foto">
 <!ENTITY UpdatePhoto.label "Actualizar">
 <!ENTITY UpdatePhoto.accesskey "A">
+<!ENTITY PhotoDropTarget.label "Arrastre una nueva foto aquí">
