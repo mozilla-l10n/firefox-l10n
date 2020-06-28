@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = Rejqaxik ruwi' kajtz'ïk
-    .accesskey = R
+    .label = Tisamajïx chik Ruwi'
+    .accesskey = T
 select-all-tabs =
     .label = Kecha' Ronojel taq Ruwi'
     .accesskey = K
@@ -21,7 +21,7 @@ close-other-tabs =
     .label = Ketz'apïx ri ch'aqa' chik taq ruwi'
     .accesskey = K
 reload-tabs =
-    .label = Kesamajib'ëx taq Ruwi'
+    .label = Kesamajïx chik taq Ruwi'
     .accesskey = K
 pin-tab =
     .label = Rujikib'axik ruwi' kajtz'ïk

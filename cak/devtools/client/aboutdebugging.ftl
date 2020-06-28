@@ -232,7 +232,7 @@ about-debugging-tmp-extension-install-button = Tisamajib'ëx Jumej Tz'aqat…
 about-debugging-tmp-extension-install-error = Xwachin jun sachoj toq niyak ri jumej tz'aqat.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
-about-debugging-tmp-extension-reload-button = Tisamajib'ëx chik
+about-debugging-tmp-extension-reload-button = Tisamajïx chik
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Tiyuj

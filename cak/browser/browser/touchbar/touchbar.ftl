@@ -6,7 +6,7 @@
 # MacBook Touch Bar.
 back = Chi rij
 forward = Jun chik
-reload = Tisamajib'ëx chik
+reload = Tisamajïx chik
 home = Tikirib'äl
 fullscreen = Chijun ruwa
 touchbar-fullscreen-exit = Tel pa Chijun Ruwa

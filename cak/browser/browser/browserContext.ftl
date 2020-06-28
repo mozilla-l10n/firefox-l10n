@@ -34,8 +34,8 @@ toolbar-button-forward =
 ## Reload
 
 main-context-menu-reload =
-    .aria-label = Tisamajib'ëx chik
-    .accesskey = R
+    .aria-label = Tisamajïx chik
+    .accesskey = s
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 

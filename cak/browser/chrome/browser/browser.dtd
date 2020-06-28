@@ -234,7 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "Jun chik ruxaq">
 <!ENTITY backForwardButtonMenu.tooltip "Tapitz'a' ruka'n ruwi' ri ch'oy, taqirirej pa xulan richin natz'ët ri natab'äl">
 <!ENTITY backForwardButtonMenuMac.tooltip "Taqirirej richin niq'alajin pe ri natab'äl">
-<!ENTITY reloadCmd.label              "Tisamajib'ëx chik">
+<!ENTITY reloadCmd.label              "Tisamajïx chik">
 <!ENTITY reloadCmd.accesskey          "c">
 <!ENTITY stopCmd.label                "Tiq'at">
 <!ENTITY stopCmd.accesskey            "T">
