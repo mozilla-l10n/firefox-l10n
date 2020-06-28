@@ -77,6 +77,7 @@ show-dir-label =
         [windows] Dobrir lo dossièr
        *[other] Dobrir lo dossièr correspondent
     }
+experimental-features-title = Foncions experimentalas
 experimental-features-name = Nom
 experimental-features-value = Valor
 modified-key-prefs-title = Preferéncias modificadas importantas
