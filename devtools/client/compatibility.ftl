@@ -8,13 +8,18 @@
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-deprecated = (föråldrad)
 compatibility-issue-experimental = (experimentell)
+compatibility-issue-deprecated-experimental = (föråldrad, experimentell)
 
 ## Messages used as labels and titles for buttons in the footer
 
 compatibility-settings-button-label = Inställningar
 compatibility-settings-button-title =
     .title = Inställningar
+compatibility-feedback-button-label = Återkoppling
+compatibility-feedback-button-title =
+    .title = Återkoppling
 
 ## Messages used as headers in settings pane
 
@@ -22,3 +27,12 @@ compatibility-settings-header = Inställningar
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } händelse
+       *[other] { $number } händelser
+    }
+compatibility-no-issues-found = Inga kompatibilitetsproblem hittades.
