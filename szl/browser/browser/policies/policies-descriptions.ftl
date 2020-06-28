@@ -72,6 +72,7 @@ policy-LegacyProfiles = Zastawianie ôpcyji, co wymogo ôsobnigo profilu do koż
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Załōnczanie bazowego sztalōnku zachowanio przedowniōnych cookies SameSite.
 
 ##
 
