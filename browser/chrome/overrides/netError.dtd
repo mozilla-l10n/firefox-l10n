@@ -140,7 +140,7 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Lỗi nội dung không toàn vẹn">
+<!ENTITY corruptedContentErrorv2.title "Lỗi nội dung bị hỏng">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; đã ngăn trang này tải trong ngữ cảnh này vì trang có chính sách X-Frame-Options mà nó không cho phép.</p>">
 
