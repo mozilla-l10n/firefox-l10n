@@ -392,7 +392,7 @@ preferences-addon-button =
        *[other] Taq ajowab'äl
     }
 details-addon-button = Taq b'anikil
-release-notes-addon-button = Ruch'utitzijol re ruwäch re'
+release-notes-addon-button = Ruch'utitzijol Ruwäch
 permissions-addon-button = Taq ya'oj q'ij
 addons-enabled-heading = Tzijon
 addons-disabled-heading = Chupun
