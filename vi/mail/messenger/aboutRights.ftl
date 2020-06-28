@@ -5,8 +5,14 @@
 rights-title = Về quyền lợi của bạn
 rights-intro = { -brand-full-name } là phần mềm tự do mã nguồn mở, được xây dựng bởi một cộng đồng gồm hàng nghìn người trên khắp thế giới. Có vài điều mà bạn nên biết:
 rights-intro-point-1 = { -brand-short-name } cung cấp cho bạn theo điều khoản của <a data-l10n-name="mozilla-public-license-link">giấy phép công cộng Mozilla</a>. Điều này có nghĩa là bạn có thể sử dụng, sao chép và phân phối { -brand-short-name } đến người khác. Bạn cũng được hoan nghênh trong việc chỉnh sửa mã nguồn của { -brand-short-name } cho phù hợp với nhu cầu của mình. Giấy phép công cộng Mozilla cũng cho bạn quyền phân phối phiên bản được chỉnh sửa đó.
+rights-intro-point-2 =
+    Bạn không được cấp bất kỳ quyền hoặc giấy phép nhãn hiệu nào cho các
+    nhãn hiệu của tổ chức Mozilla hoặc bất kỳ bên nào, bao gồm nhưng không
+    giới hạn tên hoặc logo Thunderbird. Thông tin bổ sung về nhãn hiệu có thể
+    được tìm thấy <a data-l10n-name="mozilla-trademarks-link">tại đây</a>.
 rights-intro-point-3 = Một số tính năng trong { -brand-short-name }, như Trình Báo Cáo Lỗi, cho bạn tùy chọn cung cấp phản hồi tới { -vendor-short-name }. Bằng việc chọn gửi phản hồi, bạn cho { -vendor-short-name } quyền sử dụng phản hồi đó để cải tiến sản phẩm, công bố phản hồi trên trang web, và phân phối phản hồi.
 rights-intro-point-4 = Cách chúng tôi dùng thông tin cá nhân của bạn và phản hồi được gửi tới { -vendor-short-name } thông qua { -brand-short-name } được mô tả trong <a data-l10n-name="mozilla-privacy-policy-link">chính sách riêng tư { -brand-short-name }</a>.
+rights-intro-point-4-unbranded = Bất kì chính sách riêng tư thích hợp nào cho sản phẩm này sẽ được liệt kê tại đây.
 rights-intro-point-5 = Một số tính năng { -brand-short-name } sử dụng dịch vụ thông tin dựa trên web, tuy nhiên, chúng tôi không thể đảm bảo chúng chính xác 100% hoặc không có lỗi. Chi tiết hơn, bao gồm thông tin về cách vô hiệu hóa tính năng dùng những dịch vụ này, có thể được tìm thấy trong <a data-l10n-name="mozilla-service-terms-link">điều khoản dịch vụ</a>.
 rights-intro-point-5-unbranded = Nếu sản phẩm này kết hợp các dịch vụ web, bất kì điều khoản dịch vụ thích hợp nào cho (các) dịch vụ cần phải được liên kết với <a data-l10n-name="mozilla-website-services-link">Các Dịch Vụ Đối Với Trang Web</a>.
 rights-intro-point-6 = Để có thể phát một số loại nội dung video, { -brand-short-name } cần tải xuống một số mô đun giải mã nội dung từ một bên thứ ba.
