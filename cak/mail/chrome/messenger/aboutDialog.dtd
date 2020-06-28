@@ -45,7 +45,7 @@
 <!ENTITY helpus.getInvolvedLink     "¡kato'on!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Ruch'utitzijol re ruwäch re'">
+<!ENTITY releaseNotes.link          "Ruch'utitzijol ruwäch">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Rutzijol Ya'öl Q'ij">
