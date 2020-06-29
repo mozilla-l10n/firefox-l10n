@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = Nastawiynie prawideł,  do kerych rozszyrzynia WebExtensions majōm dostymp be chrome.storage.managed.
+policy-3rdparty = Nastawiynie prawideł,  do kerych rozszyrzynia WebExtensions majōm dostymp bez chrome.storage.managed.
 policy-AppAutoUpdate = Załōnczynie abo wyłōnczynie autōmatycznych aktualizacyji aplikacyje.
 policy-AppUpdateURL = Nastawiynie włosnego URL do aktualizowanio aplikacyje.
 policy-Authentication = Kōnfiguracyjo integrowanyj autyntyfikacyje do strōn, co jōm ôbsugujōm.
@@ -97,3 +97,13 @@ policy-Proxy = Sztalowanie proxy.
 policy-RequestedLocales = Sztalowanie wykazu proszōnych godek do aplikacyje, we ôbranyj raji.
 policy-SanitizeOnShutdown2 = Pucowanie danych nawigacyje przi wyłōnczaniu.
 policy-SearchBar = Nastawianie bazowego placu ôd poska szukanio. Używocz durch poradzi se go przekłodać.
+policy-SearchEngines = Sztalowanie wyszukowarki. Te prawidło je dostympne ino do wersyje ESR (Extended Support Release).
+policy-SearchSuggestEnabled = Załōnczanie abo zastawianie doradōw szukanio.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instalacyjo modułōw PKCS #11.
+policy-SSLVersionMax = Nastawianie maksymalnyj wersyje SSL.
+policy-SSLVersionMin = Nastawianie minimalnyj wersyje SSL.
+policy-SupportMenu = Przidowanie włosnego elymyntu spōmożki do myni pōmocy.
+policy-UserMessaging = Wyłōnczanie pokazowanio używoczowi niykerych wiadōmości.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Szperowanie nawiydzanio strōn. Wejrzij do dokumyntacyje za detajlami ô tym formacie.
