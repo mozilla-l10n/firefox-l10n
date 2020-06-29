@@ -15,5 +15,6 @@ about-httpsonly-title = ‏{ -brand-short-name } איתר חולשת אבטחה 
 about-httpsonly-explanation-unavailable = בחרת לגלוש במצב ״HTTPS בלבד״, אבל גרסת HTTPS מאובטחת של <em>{ $websiteUrl }</em> אינה זמינה.
 about-httpsonly-explanation-question = מה יכול לגרום לזה?
 about-httpsonly-explanation-nosupport = סביר להניח שהאתר פשוט אינו תומך ב־HTTPS.
+about-httpsonly-explanation-risk = יתכן שיש גם גורם זדוני בתמונה. אם החלטת לבקר באתר, עדיף לך לא למלא מידע רגיש כגון ססמאות, כתובות דוא״ל או פרטי כרטיסי אשראי.
 about-httpsonly-button-accept-and-continue = קבלת הסיכון והמשך
 about-httpsonly-button-go-back = חזרה
