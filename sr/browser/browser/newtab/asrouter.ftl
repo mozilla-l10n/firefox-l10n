@@ -254,3 +254,9 @@ cfr-whatsnew-better-pdf-body = PDF документи се сада отвара
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Ваша приватност је битна. { -brand-short-name } сада безбедно усмерава ваше DNS захтеве, кад год је то могуће, до партнерског сервиса како би вас заштитио док прегледате.
+cfr-doorhanger-doh-header = Још сигурнији, шифровани DNS упити
+cfr-doorhanger-doh-primary-button = У реду, разумем
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Онемогући
+    .accesskey = D
