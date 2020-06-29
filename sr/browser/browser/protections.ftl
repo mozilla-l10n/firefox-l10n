@@ -49,9 +49,33 @@ tracker-tab-title = Садржај који прати
 tracker-tab-description = Веб странице могу да учитају огласе, видео записе и други садржај који садржи код за праћење. Блокирање овог садржаја може убрзати учитавање страница, али неки тастери, обрасци или поља за пријаву можда неће радити. <a data-l10n-name="learn-more-link">Сазнајте више</a>
 fingerprinter-tab-title = Хватачи отиска
 fingerprinter-tab-content = Хватачи отисака прикупљају подешавања вашег прегледача и рачунара како би створили ваш профил. Помоћу овог дигиталног отиска прста вас могу пратити преко различитих веб страница. <a data-l10n-name="learn-more-link">Сазнајте више</a>
+cryptominer-tab-title = Крипто-рудари
+cryptominer-tab-content = Крипто-рудари користе енергију вашег рачунара за ископавање дигиталне валуте. На тај начин троше енергију рачунара, успоравају перформансе система и повећавају ваш рачун за струју. <a data-l10n-name="learn-more-link">Сазнајте више</a>
+protections-close-button2 =
+    .aria-label = Затвори
+    .title = Затвори
+mobile-app-title = Блокирајте огласе која вас прате на више уређаја
+mobile-app-card-content = Користите мобилни прегледач са уграђеном заштитом од рекламног праћења.
+mobile-app-links = { -brand-product-name } прегледач за <a data-l10n-name="android-mobile-inline-link">Андроид</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Немојте поново заборавити лозинку
+lockwise-title-logged-in2 = Менаџер лозинки
 lockwise-header-content = { -lockwise-brand-name } безбедно чува ваше лозинке у вашем прегледачу.
 lockwise-header-content-logged-in = Безбедно чувајте и синхронизујте ваше лозинке на свим вашим уређајима.
+protection-report-save-passwords-button = Сачувај лозинке
+    .title = Сачувај лозинке у { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Управљај лозинкама
+    .title = Управљај лозинкама уз { -lockwise-brand-short-name }
+lockwise-mobile-app-title = Понесите ваше лозинке свугде
+lockwise-no-logins-card-content = Користите лозинке сачуване у { -brand-short-name }-у на било којем уређају.
+lockwise-app-links = { -lockwise-brand-name } за <a data-l10n-name="lockwise-android-inline-link">Андроид</a> и <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 лозинка је можда угрожена услед цурења података
+        [few] { $count } лозинке су можда угрожене услед цурења података
+       *[other] { $count } лозинки је можда угрожено услед цурења података
+    }
 turn-on-sync = Укључите { -sync-brand-short-name }…
     .title = Отворите подешавања синхронизовања
 auto-scan = Аутоматски скенирано данас
