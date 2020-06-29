@@ -84,3 +84,16 @@ policy-NoDefaultBookmarks = Zastawianie rychtowanio bazowych zokłodek skuplowan
 policy-OfferToSaveLogins = Przikoz sztalōnka, co dowo aplikacyji { -brand-short-name } pytać ô pamiyntanie spamiyntanych haseł i danych logowanio. Idzie użyć wertōw true i false.
 policy-OfferToSaveLoginsDefault = Sztalowanie bazowego wertu, co dowo aplikacyji { -brand-short-name } pytać ô pamiyntanie spamiyntanych haseł i danych logowanio. Idzie użyć wertōw true i false.
 policy-OverrideFirstRunPage = Nadpisowanie strōny piyrszego sztartniyńcio. Nastow te prawidło na prōżne, jak chcesz wyłōnczyć strōna piyrszego sztartniyńcio.
+policy-OverridePostUpdatePage = Nadpisowanie strōny "Co je nowego", co pokazuje sie po aktualizacyji. Nastow te prawidło na prōżne, jak chcesz wyłōnczyć ta strōna.
+policy-PasswordManagerEnabled = Załōnczanie spamiyntowanio haseł do mynedżera haseł.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Zastawianie abo sztalowanie PDF.js (wbudowanyj przeglōndarki PDFōw we aplikacyji { -brand-short-name }).
+policy-Permissions2 = Sztalowanie zgodōw do kamery, mikrofōnu, placu, pōwiadōmiyń i autōmatycznego puszczanio.
+policy-PictureInPicture = Załōnczanie abo zastawianie funkcyje Obroz w ôbrazie.
+policy-PopupBlocking = Zgoda, coby niykere strōny bazowo pokazowały wyskakujōnce ôkna.
+policy-Preferences = Nastawianie i szperowanie wertu do podzbioru preferyncyji.
+policy-PromptForDownloadLocation = Pytanie, jak spamiyntować zbiory przi pobiyraniu.
+policy-Proxy = Sztalowanie proxy.
+policy-RequestedLocales = Sztalowanie wykazu proszōnych godek do aplikacyje, we ôbranyj raji.
+policy-SanitizeOnShutdown2 = Pucowanie danych nawigacyje przi wyłōnczaniu.
+policy-SearchBar = Nastawianie bazowego placu ôd poska szukanio. Używocz durch poradzi se go przekłodać.
