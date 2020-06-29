@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } 實驗
 category-experimental =
     .tooltiptext = { -brand-short-name } 實驗
 pane-experimental-subtitle = 調整設定前請務必小心！
+pane-experimental-search-results-header = { -brand-short-name } 實驗功能: 調整設定前請務必小心！
 pane-experimental-description = 調整進階設定，可能會影響 { -brand-short-name } 的效能或安全性。
 help-button-label = { -brand-short-name } 技術支援
 addons-button-label = 擴充套件與佈景主題
