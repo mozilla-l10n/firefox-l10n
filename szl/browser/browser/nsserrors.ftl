@@ -6,20 +6,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Pokozoł sie feler przi łōnczyniu z { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kod felera
-
 psmerr-ssl-disabled = Niy idzie sie bezpiecznie połōńczyć, bo protokōł SSL je zastawiōny.
 psmerr-ssl2-disabled = Niy idzie sie bezpiecznie połōnczyć, bo strōna używo starszyj, przedownionyj wersyje protokołu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Prziszoł felerny certyfikat. Skōntaktuj sie ze administratorym serwera abo wystowcōm certyfikatu i przekoż ta informacyjo:
     
     Twōj certyfikat mo taki sōm nōmer seryje jak inkszy certyfikat, co je wystawiōny ôd wystowcy certyfikatōw. Trza dostać nowy certyfikat, co bydzie mieć unikatowy nōmer seryje.
-
 ssl-error-export-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer niy ôbsuguje szyfrowanio wysokigo poziōmu.
 ssl-error-us-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer potrzebuje szyfrowanio wysokigo poziōmu, co niy ma ôbsugiwane.
 ssl-error-no-cypher-overlap = Niy idzie sie bezpiecznie kōmunikować z partnerym: chybio spōlnych algorytmōw szyfrowanio.
@@ -75,3 +71,13 @@ ssl-error-rx-unexpected-handshake = SSL dostoł niyspodziywany rekord Handshake.
 ssl-error-rx-unexpected-application-data = SSL dostoł niyspodziywany rekord Application Data.
 ssl-error-rx-unknown-record-type = SSL dostoł rekord z niypoznanym typym zawartości.
 ssl-error-rx-unknown-handshake = SSL dostoł witajōnco wiadōmość z niypoznanym typym wiadōmości.
+ssl-error-rx-unknown-alert = SSL dostoł alarmowy rekord z niypoznanym typym zawartości.
+ssl-error-close-notify-alert = Partner protokołu SSL zawar te połōnczynie.
+ssl-error-handshake-unexpected-alert = Partner protokołu SSL niy ôczekowoł na inicjacyjno wiadōmość, kero dostoł.
+ssl-error-decompression-failure-alert = Partner protokołu SSL niy poradziōł zdekōmpresować rekordu SSL, kery dostoł.
+ssl-error-handshake-failure-alert = Partner protokołu SSL niy poradziōł wynegocjować akceptowalnego zbioru parametrōw bezpieczyństwa.
+ssl-error-illegal-parameter-alert = Partner protokołu SSL ôdciepoł inicjacyjno wiadōmość skuli niyakceptowanyj zawartości.
+ssl-error-unsupported-cert-alert = Partner protokołu SSL niy ôbsuguje typu certyfikatu, kery dostoł.
+ssl-error-certificate-unknown-alert = Partner protokołu SSL mioł jaki niypoznany problym z certyfikatym, kery dostoł.
+ssl-error-generate-random-failure = Pokozoł sie feler w generatorze losowych liczb SSL.
+ssl-error-sign-hashes-failure = Niy idzie elektrōnicznie podpisać danych, co sōm potrzebne do zweryfikowanio twojigo certyfikatu,
