@@ -14,15 +14,15 @@ cfr-doorhanger-pintab-heading = Пробајте ово: закачи језич
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зашто видим ово
 cfr-doorhanger-extension-cancel-button = Не сада
-    .accesskey = Н
+    .accesskey = N
 cfr-doorhanger-extension-ok-button = Додај сада
-    .accesskey = Д
+    .accesskey = A
 cfr-doorhanger-pintab-ok-button = Закачи овај језичак
-    .accesskey = З
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Управљај препорукама
-    .accesskey = У
+    .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = Не приказуј ми ову препоруку
-    .accesskey = Н
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Сазнајте више
 # This string is used on a new line below the add-on name
 # Variables:
@@ -164,14 +164,14 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } може �
 cfr-doorhanger-sync-bookmarks-header = Добијте ову забелешку на свом телефону
 cfr-doorhanger-sync-bookmarks-body = Синхронизујте забелешке, лозинке, историју и друго на свим уређајима који су пријављени у { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Укључите { -sync-brand-short-name }
-    .accesskey = т
+    .accesskey = T
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Немојте поново изгубити лозинку
 cfr-doorhanger-sync-logins-body = Безбедно чувајте и синхронизујте ваше лозинке на свим вашим уређајима.
 cfr-doorhanger-sync-logins-ok-button = Укључите { -sync-brand-short-name }
-    .accesskey = т
+    .accesskey = T
 
 ## Send Tab
 
@@ -179,21 +179,21 @@ cfr-doorhanger-send-tab-header = Читајте ово у покрету
 cfr-doorhanger-send-tab-recipe-header = Понесите овај рецепт у кухињу
 cfr-doorhanger-send-tab-body = Слање језичка олакшава дељење веза између вашег телефона и било којих уређаја пријављених у { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Испробајте слање језичака
-    .accesskey = И
+    .accesskey = T
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Делите овај PDF безбедно
 cfr-doorhanger-firefox-send-body = Користите шифровање с-краја-на-крај и везе које ће аутоматски нестати након употребе како бисте обезбедили сигурност осетљивих датотека.
 cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name }
-    .accesskey = И
+    .accesskey = T
 
 ## Social Tracking Protection
 
 cfr-doorhanger-socialtracking-ok-button = Погледај заштите
-    .accesskey = П
+    .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Затвори
-    .accesskey = З
+    .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = Немој ми више показивати овакве поруке
     .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } је блокирао друштвену мрежу да вас прати овде
@@ -215,7 +215,7 @@ cfr-doorhanger-milestone-heading =
        *[other] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
     }
 cfr-doorhanger-milestone-ok-button = Погледај све
-    .accesskey = П
+    .accesskey = S
 cfr-doorhanger-milestone-close-button = Затвори
     .accesskey = C
 
