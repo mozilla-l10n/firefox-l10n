@@ -54,7 +54,6 @@ import =
 close-button =
     .label = 닫기
     .accesskey = C
-
 show-passwords =
     .label = 비밀번호 표시
     .accesskey = P
@@ -73,4 +72,4 @@ remove-all-passwords-prompt = 비밀번호를 모두 삭제하시겠습니까?
 remove-all-passwords-title = 모든 비밀번호 삭제
 no-master-password-prompt = 정말로 비밀번호를 보이게 하시겠습니까?
 auto-fill-logins-and-passwords =
-    .label = 로그인 및 비밀번호 자동완성
+    .label = 로그인 및 비밀번호 자동 채우기
