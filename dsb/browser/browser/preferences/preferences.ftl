@@ -54,6 +54,7 @@ pane-experimental-title = Eksperimenty { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimenty { -brand-short-name }
 pane-experimental-subtitle = Z glědanim pókšacowaś
+pane-experimental-search-results-header = Eksperimenty { -brand-short-name }: pókšacujśo z glědanim
 pane-experimental-description = Gaž nastajenja rozšyrjoneje konfiguracije změnijośo, móžo to wugbaśe abo wěstotu { -brand-short-name } wobwliwowaś.
 help-button-label = Pomoc { -brand-short-name }
 addons-button-label = Rozšyrjenja a drastwy
@@ -510,7 +511,6 @@ home-prefs-topsites-description = Sedła, ku kótarymž se nejcesćej woglědujo
 
 home-prefs-recommended-by-header =
     .label = Wót { $provider } dopórucony
-home-prefs-recommended-by-description = Wjelicne wopśimjeśe z cełego weba, wubrane specielnje za was
 home-prefs-recommended-by-description-update = Wurědne wopśimjeśe z cełego weba, wubrane wót { $provider }
 
 ##
@@ -576,7 +576,6 @@ search-show-suggestions-above-history-option =
     .label = Pytańske naraźenja pśed pśeglědowańskeju historiju we wuslědkach adresowego póla pokazaś
 search-show-suggestions-private-windows =
     .label = Pytańske naraźenja w priwatnych woknach pokazaś
-suggestions-addressbar-settings = Wubjeŕśo nastajenja za pśeglědowańsku historiju, cytańske znamjenja a rejtarikowe naraźenja
 suggestions-addressbar-settings-generic = Nastajenja za druge naraźenja adresowego póla změniś
 search-suggestions-cant-show = Pytańske naraźenja njebudu se we wuslědkach adresowego póla pokazaś, dokulaž sćo { -brand-short-name } tak konfigurěrował, až njespomnjejo se nigda historiju.
 search-one-click-header = Pytnice z jadnym kliknjenim
