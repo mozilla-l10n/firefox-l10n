@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Ichinan Chajinem
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Tatz'eta' ri ichinan rutzijol
+appmenuitem-update-banner =
+    .label-update-downloading = Niqasäx ruk'exoj { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Rupas taq Chajinïk
 appmenuitem-customize-mode =
     .label = Tichinäx…

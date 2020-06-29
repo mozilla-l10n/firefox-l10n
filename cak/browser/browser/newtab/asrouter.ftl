@@ -246,3 +246,10 @@ cfr-whatsnew-protections-icon-alt = Ruwachib'al Pokob'
 
 cfr-whatsnew-better-pdf-header = Jeb'ël etamab'äl chi rij PDF
 cfr-whatsnew-better-pdf-body = Wakami ri aj PDF taq wuj jumul yejaq pa { -brand-short-name }, akuchi' k'o apon pan aq'a' ronojel ri asamaj.
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = ÜTZ, Wetaman chik
+    .accesskey = T
+cfr-doorhanger-doh-secondary-button = Tichup
+    .accesskey = h

@@ -287,7 +287,7 @@ about-debugging-worker-fetch-not-listening =
     .value = Man Ye'ak'axäx ta fetch taq nimaq'ij
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
-about-debugging-worker-status-running = Rub'anik
+about-debugging-worker-status-running = Nib'an
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Pab'an
 # Displayed for service workers in runtime pages that are registering.
