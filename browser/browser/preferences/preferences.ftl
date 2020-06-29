@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } 实验
 category-experimental =
     .tooltiptext = { -brand-short-name } 实验
 pane-experimental-subtitle = 三思而后行
+pane-experimental-search-results-header = { -brand-short-name } 实验：三思而后行
 pane-experimental-description = 更改高级配置的首选项可能会影响 { -brand-short-name } 的性能和安全性。
 help-button-label = { -brand-short-name } 帮助
 addons-button-label = 扩展和主题
@@ -500,7 +501,6 @@ home-prefs-topsites-description = 您经常访问的网站
 
 home-prefs-recommended-by-header =
     .label = { $provider } 推荐
-home-prefs-recommended-by-description = 来自网络的精彩内容，为您量身打造
 home-prefs-recommended-by-description-update = 由 { $provider } 整理提供的网络精选内容
 
 ##
@@ -560,7 +560,6 @@ search-show-suggestions-above-history-option =
     .label = 在地址栏显示的结果中，将搜索建议显示在浏览历史上方
 search-show-suggestions-private-windows =
     .label = 在隐私窗口中显示搜索建议
-suggestions-addressbar-settings = 更改浏览记录、书签、标签页建议的首选项
 suggestions-addressbar-settings-generic = 更改其他地址栏建议首选项
 search-suggestions-cant-show = 由于您已经设置 { -brand-short-name } 不要记住浏览历史，地址栏中将不会显示搜索建议。
 search-one-click-header = 快捷搜索引擎列表
