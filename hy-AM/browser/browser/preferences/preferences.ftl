@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } Փորձեր
 category-experimental =
     .tooltiptext = { -brand-short-name } Փորձեր
 pane-experimental-subtitle = Շարունակեք զգուշորեն
+pane-experimental-search-results-header = { -brand-short-name }-ի փորձեր. զգուշությամբ շարունակեք
 pane-experimental-description = Նախապատվությունների ընդլայնված կազմաձևի փոփոխումը կարող է ազդել { -brand-short-name }-ի արդյունավետության կամ անվտանգության վրա:
 help-button-label = { -brand-short-name }-ի աջակցում
 addons-button-label = Ընդլայնումներ և Ոճեր
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Ամենաշատ այցելած կայքեր
 
 home-prefs-recommended-by-header =
     .label = Առաջարկվում է { $provider }
-home-prefs-recommended-by-description = Հիանալի բովանդակություն համացանցից, անձնավորված ձեզ համար
 home-prefs-recommended-by-description-update = Բացառիկ բովանդակություն ամբողջ ցանցից, { $provider }-ի կողմից
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքների ամենավերևում
 search-show-suggestions-private-windows =
     .label = Ցույց տալ որոնման առաջարկները մասնավոր պատուհանում
-suggestions-addressbar-settings = Փոխեք նախապատվությունները թերթելու պատմությունը, էջանիշները և ներդիրի առաջարկները
 suggestions-addressbar-settings-generic = Փոխել նախապատվությունները հասցեի գոտու այլ առաջարկների համար
 search-suggestions-cant-show = Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմությունը։
 search-one-click-header = Մեկ սեղմամբ որոնիչներ
