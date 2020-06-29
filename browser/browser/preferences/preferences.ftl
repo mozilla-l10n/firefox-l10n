@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } kísérletek
 category-experimental =
     .tooltiptext = { -brand-short-name } kísérletek
 pane-experimental-subtitle = Óvatosan haladjon tovább
+pane-experimental-search-results-header = { -brand-short-name }-kísérletek: Óvatosan menjen tovább
 pane-experimental-description = A speciális beállítások megváltoztatása befolyásolhatja a { -brand-short-name } teljesítményét vagy biztonságát.
 help-button-label = { -brand-short-name } támogatás
 addons-button-label = Kiegészítők és témák
@@ -504,7 +505,6 @@ home-prefs-topsites-description = A leggyakrabban látogatott oldalak
 
 home-prefs-recommended-by-header =
     .label = A(z) { $provider } ajánlásával
-home-prefs-recommended-by-description = Nagyszerű tartalom szerte a webről, személyre szabva
 home-prefs-recommended-by-description-update = Kivételes tartalom szerte az internetről, a { $provider } válogatásában
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Keresési javaslatok megjelenítése a böngészési előzmények előtt a címsor találatai között
 search-show-suggestions-private-windows =
     .label = Keresési javaslatok megjelenítése a privát ablakokban
-suggestions-addressbar-settings = Böngészési előzmények, könyvjelzők és lapjavaslatok beállításainak módosítása
 suggestions-addressbar-settings-generic = Címsávjavaslatok beállításainak módosítása
 search-suggestions-cant-show = A keresési javaslatok nem jelennek meg a címsáv találatai között, mert a { -brand-short-name } nem jegyzi meg az előzményeket.
 search-one-click-header = Egy kattintásos keresőszolgáltatások
