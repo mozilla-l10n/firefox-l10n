@@ -152,7 +152,7 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
-<!ENTITY options.stylesheetAutocompletion.label      "CSS 자동완성">
+<!ENTITY options.stylesheetAutocompletion.label      "CSS 자동 완성">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "스타일 편집기에서 입력하는 대로 CSS 속성, 값 및 선택자를 자동으로 완성합니다">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
