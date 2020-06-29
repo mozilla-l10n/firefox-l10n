@@ -54,6 +54,7 @@ pane-experimental-title = Arbrofion { -brand-short-name }
 category-experimental =
     .tooltiptext = Arbrofion { -brand-short-name }
 pane-experimental-subtitle = Gofal!
+pane-experimental-search-results-header = Arbrofion { -brand-short-name }: Byddwch yn Ofalus
 pane-experimental-description = Gall newid dewisiadau ffurfweddiad uwch effeithio ar berfformiad neu ddiogelwch { -brand-short-name }.
 help-button-label = Cefnogaeth { -brand-short-name }
 addons-button-label = Estyniadau a Themâu
@@ -516,7 +517,6 @@ home-prefs-topsites-description = Y gwefannau rydych yn ymweld â nhw amlaf
 
 home-prefs-recommended-by-header =
     .label = Argymhellwyd gan { $provider }
-home-prefs-recommended-by-description = Cynnwys gwych o ar draws y we, wedi ei ddewis yn arbennig i chi
 home-prefs-recommended-by-description-update = Cynnwys eithriadol o bob rhan o'r we, wedi'i guradu gan { $provider }
 
 ##
@@ -584,7 +584,6 @@ search-show-suggestions-above-history-option =
     .label = Dangos awgrymiadau chwilio o flaen hanes yng nghanlyniadau'r bar cyfeiriadau
 search-show-suggestions-private-windows =
     .label = Dangos awgrymiadau chwilio mewn Ffenestri Preifat
-suggestions-addressbar-settings = Newid dewisiadau ar gyfer hanes pori, nodau tudalen ac awgrymiadau tabiau
 suggestions-addressbar-settings-generic = Newid dewisiadau awgrymiadau eraill y bar cyfeiriad
 search-suggestions-cant-show = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
 search-one-click-header = Peiriannau Chwilio Un Clic
