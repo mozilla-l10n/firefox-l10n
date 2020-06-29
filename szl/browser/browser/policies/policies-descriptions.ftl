@@ -80,3 +80,7 @@ policy-LocalFileLinks = Zgoda, coby niykere strōny linkowały do lokalnych zbio
 policy-MasterPassword = Żōndanie abo zakoz używanio głōwnego hasła.
 policy-NetworkPrediction = Załōnczanie abo zastawianie wstympnego wczytowanio DNS.
 policy-NewTabPage = Załōnczanie abo zastawianie strōny nowyj karty.
+policy-NoDefaultBookmarks = Zastawianie rychtowanio bazowych zokłodek skuplowanych z aplikacyjōm { -brand-short-name } a szprytnych zokłodek (Nojwiyncyj nawiydzane, Niydowne etykety). Pozōr: te pravidło funguje ino, jak go użyjesz przed piyrszym sztartniyńciym profilu.
+policy-OfferToSaveLogins = Przikoz sztalōnka, co dowo aplikacyji { -brand-short-name } pytać ô pamiyntanie spamiyntanych haseł i danych logowanio. Idzie użyć wertōw true i false.
+policy-OfferToSaveLoginsDefault = Sztalowanie bazowego wertu, co dowo aplikacyji { -brand-short-name } pytać ô pamiyntanie spamiyntanych haseł i danych logowanio. Idzie użyć wertōw true i false.
+policy-OverrideFirstRunPage = Nadpisowanie strōny piyrszego sztartniyńcio. Nastow te prawidło na prōżne, jak chcesz wyłōnczyć strōna piyrszego sztartniyńcio.
