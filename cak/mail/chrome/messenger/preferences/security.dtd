@@ -21,7 +21,7 @@
 <!ENTITY enableAdaptiveJunkLogging.accesskey "T">
 <!ENTITY openJunkLog.label "Tik'ut pe tz'ib'anïk">
 <!ENTITY openJunkLog.accesskey "T">
-<!ENTITY resetTrainingData.label "Tiyuj Tojtob'enïk">
+<!ENTITY resetTrainingData.label "Titzolïx Tojtob'enïk">
 <!ENTITY resetTrainingData.accesskey "T">
 
 <!-- Phishing Detector -->
@@ -45,4 +45,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; nitikïr yeruto' ri chapöy chikopil chi tikinik'oj ri taqoya'l chuwäch yeyak qa.">
 <!ENTITY antiVirus.label      "Tiya' q'ij chi ke ri chapöy chikopil kekiya' pa kawinaqinem chi jujun taq rutzijol">
 <!ENTITY antiVirus.accesskey  "T">
-
