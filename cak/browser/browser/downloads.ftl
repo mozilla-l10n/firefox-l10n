@@ -22,7 +22,7 @@ downloads-cmd-pause =
     .label = Rupab'axik
     .accesskey = R
 downloads-cmd-resume =
-    .label = Tisamajïx chik qa
+    .label = Titikïr chik el
     .accesskey = T
 downloads-cmd-cancel =
     .tooltiptext = Tiq'at
@@ -115,7 +115,7 @@ downloads-open-file =
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
-    .value = Titojtob'ëx chik qasanïk
+    .value = Titojtob'ëx chik Niqasäx
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =

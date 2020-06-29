@@ -153,7 +153,7 @@ menu-history-clear-recent-history =
 menu-history-synced-tabs =
     .label = Ximon taq ruwi'
 menu-history-restore-last-session =
-    .label = Titzolin pa ri molojri'ïl xik'o
+    .label = Titzolin ri Jun Kan Molojri'ïl
 menu-history-hidden-tabs =
     .label = Ewan taq Ruwi'
 menu-history-undo-menu =
@@ -262,7 +262,7 @@ menu-help-safe-mode-without-addons =
     .label = Titikirisäx chik kik'in ri chupül taq tz'aqat…
     .accesskey = T
 menu-help-safe-mode-with-addons =
-    .label = Titikirisäx chik rik'in ri tzijïl taq tz'aqat
+    .label = Titikirisäx chik rik'in Tzijïl taq Tz'aqat
     .accesskey = T
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.

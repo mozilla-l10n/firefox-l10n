@@ -15,7 +15,7 @@
 
 <!ENTITY cmd.pause.label                  "Rupab'axik">
 <!ENTITY cmd.pause.accesskey              "R">
-<!ENTITY cmd.resume.label                 "Tisamajïx chik qa">
+<!ENTITY cmd.resume.label                 "Titikïr chik el">
 <!ENTITY cmd.resume.accesskey             "T">
 <!ENTITY cmd.cancel.label                 "Tiq'at">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
@@ -77,7 +77,7 @@
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
-<!ENTITY retryDownload.label              "Titojtob'ëx chik qasanïk">
+<!ENTITY retryDownload.label              "Titojtob'ëx chik Niqasäx">
 
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,

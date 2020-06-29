@@ -66,7 +66,7 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } k'o chi nitikirisäx chik richin nitzijtäj re jun rub'anikil re'.
 feature-disable-requires-restart = { -brand-short-name } k'o chi nitikirisäx chik richin nichup re rub'anikil re'.
-should-restart-title = Titikirisäx chik ri { -brand-short-name }
+should-restart-title = Titikirisäx chik { -brand-short-name }
 should-restart-ok = Titikirisäx chik { -brand-short-name } wakami
 cancel-no-restart-button = Tiq'at
 restart-later = Titikirisäx pa jun Mej
@@ -139,7 +139,7 @@ set-as-my-default-browser =
     .label = Tib'an chi K'o wi…
     .accesskey = K
 startup-restore-previous-session =
-    .label = Titzolin pa ri molojri'ïl xik'o
+    .label = Titzolin ri jun kan molojri'ïl
     .accesskey = m
 startup-restore-warn-on-quit =
     .label = Tiya' rutzijol toq yatel pa okik'amaya'l

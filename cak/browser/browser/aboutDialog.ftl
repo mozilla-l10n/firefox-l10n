@@ -21,7 +21,7 @@ update-noUpdatesFound = { -brand-short-name } jalon chik
 update-otherInstanceHandlingUpdates = { -brand-short-name } tajin nik'ex pa jun chik molaj
 update-manual = Wachel taq k'exoj ruwäch pa <label data-l10n-name="manual-link"/>
 update-unsupported = Man tikirel ta chik nab'an taq k'exoj pa re q'inoj re'. <label data-l10n-name="unsupported-link">Tetamäx ch'aqa' chik</label>
-update-restarting = Tajin nitikirisäx chik…
+update-restarting = Nitikirisäx…
 channel-description = Tajin nawokisaj ri q'axab'äl <label data-l10n-name="current-channel"></label> kiq'axab'al taq k'exoj ruwäch.
 warningDesc-version = { -brand-short-name } choj ok nitojtob'ëx, rik’in jub'a' man pa rub'eyal ta.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> jun <label data-l10n-name="community-exp-creditsLink">chijun ach'ala'il</label> yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k'amaya'l.

@@ -405,7 +405,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Taq Ruwi' k'a b'a' Ketz'apïx">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Taq k'ajtz'ib' k'a b'a' etz'apin">
-<!ENTITY historyRestoreLastSession.label "Titzolin pa ri molojri'ïl xik'o">
+<!ENTITY historyRestoreLastSession.label "Titzolin ri Jun Kan Molojri'ïl">
 
 <!ENTITY showAllHistoryCmd2.label "Tik'ut pe ronojel ri natab'äl">
 <!ENTITY showAllHistoryCmd.commandkey "H">
