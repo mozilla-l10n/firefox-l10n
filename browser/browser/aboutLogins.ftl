@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Пријаве и лозинке
@@ -138,8 +133,8 @@ about-logins-export-password-os-auth-dialog-message-macosx = извезите с
 
 master-password-notification-message = Унесите своју главну лозинку да бисте видели сачуване пријаве и лозинке
 master-password-reload-button =
-    .label = Пријави ме
-    .accesskey = р
+    .label = Пријава
+    .accesskey = L
 
 ## Password Sync notification
 
@@ -154,10 +149,10 @@ enable-password-sync-preferences-button =
             [windows] Посетите { -sync-brand-short-name } опције
            *[other] Посетите { -sync-brand-short-name } подешавања
         }
-    .accesskey = П
+    .accesskey = V
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Не питај ме поново
-    .accesskey = Н
+    .accesskey = D
 
 ## Dialogs
 

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-all-tabs-menu-undo-close-tab =
-    .label = Врати затворен језичак
 all-tabs-menu-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -21,4 +19,4 @@ all-tabs-menu-hidden-tabs =
     .label = Сакривени језичци
 all-tabs-menu-manage-user-context =
     .label = Управљај контејнерима
-    .accesskey = У
+    .accesskey = o

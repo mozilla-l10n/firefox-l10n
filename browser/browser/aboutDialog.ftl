@@ -10,7 +10,7 @@ update-checkForUpdatesButton =
     .accesskey = C
 update-updateButton =
     .label = Поново покрени да се { -brand-shorter-name } ажурира
-    .accesskey = к
+    .accesskey = R
 update-checkingForUpdates = Провера надоградњи…
 update-downloading = <img data-l10n-name="icon"/>Преузимам надоградњу — <label data-l10n-name="download-status"/>
 update-applying = Примењујем надоградњу…

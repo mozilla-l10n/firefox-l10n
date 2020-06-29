@@ -4,9 +4,8 @@
 
 about-private-browsing-learn-more = Сазнајте више о <a data-l10n-name="learn-more">приватном прегледању</a>.
 about-private-browsing-info-visited = посећене странице
-
 privatebrowsingpage-open-private-window-label = Отвори приватан прозор
-    .accesskey = п
+    .accesskey = P
 about-private-browsing-info-notsaved = Кад прегледавате у приватном прозору, { -brand-short-name } <strong>неће сачувати</strong>:
 about-private-browsing-search-placeholder = Претражи веб
 about-private-browsing-info-bookmarks = забелешке
@@ -27,7 +26,6 @@ about-private-browsing-not-private = Тренутно нисте у прозор
 content-blocking-title = Блокирање садржаја
 content-blocking-description = Неки веб сајтови користе пратиоце који могу надгледати ваше активности на интернету. У приватним прозорима, { -brand-short-name } блокер садржаја аутоматски блокира многе пратиоце који прикупљају информације о вашим интернет активностима.
 about-private-browsing-info-description = { -brand-short-name } чисти вашу историју претраживања и прегледања када затворите програм или када затворите све приватне језичке и прозоре. Иако вас ово не чини анонимним вашем интернет провајдеру или на веб сајтовима, ово вам олакшава да сакријете ваше радње на вебу од других корисника овог рачунара.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
