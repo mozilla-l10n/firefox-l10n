@@ -481,7 +481,7 @@
 <!ENTITY imStatus.showAccounts       "Kek'ut Kib'i' Taqoya'l…">
 <!ENTITY joinChatCmd.label "Tatunu' awi' pa Chat…">
 <!ENTITY joinChatCmd.accesskey "t">
-<!ENTITY savedFiles.label "Xeyak taq Yakb'äl">
+<!ENTITY savedFiles.label "Xeyak Yakb'äl">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Kichayub'al Tzijol">
