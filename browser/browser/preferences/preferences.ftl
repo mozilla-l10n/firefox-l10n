@@ -54,6 +54,7 @@ pane-experimental-title = Πειράματα του { -brand-short-name }
 category-experimental =
     .tooltiptext = Πειράματα του { -brand-short-name }
 pane-experimental-subtitle = Συνεχίστε με προσοχή
+pane-experimental-search-results-header = Πειράματα { -brand-short-name }: Συνεχίστε με προσοχή
 pane-experimental-description = Η αλλαγή παραμέτρων των σύνθετων προτιμήσεων μπορεί να επηρεάσει την απόδοση ή την ασφάλεια του { -brand-short-name }.
 help-button-label = Υποστήριξη { -brand-short-name }
 addons-button-label = Επεκτάσεις & θέματα
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Οι ιστοσελίδες που επισκ�
 
 home-prefs-recommended-by-header =
     .label = Προτάσεις του { $provider }
-home-prefs-recommended-by-description = Εξαιρετικό περιεχόμενο από το διαδίκτυο, εξατομικευμένο για εσάς
 home-prefs-recommended-by-description-update = Εξαιρετικό περιεχόμενο από όλο το διαδίκτυο, με την επιμέλεια του { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Εμφάνιση προτάσεων αναζήτησης πριν το ιστορικό περιήγησης στα αποτελέσματα γραμμής διευθύνσεων
 search-show-suggestions-private-windows =
     .label = Εμφάνιση προτάσεων αναζήτησης σε ιδιωτικά παράθυρα
-suggestions-addressbar-settings = Αλλαγή προτιμήσεων για προτάσεις ιστορικού περιήγησης, σελιδοδεικτών και καρτελών
 suggestions-addressbar-settings-generic = Αλλαγή προτιμήσεων για άλλες προτάσεις στη γραμμή διευθύνσεων
 search-suggestions-cant-show = Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το { -brand-short-name } ώστε να μην διατηρεί ποτέ το ιστορικό.
 search-one-click-header = Μηχανές αναζήτησης με ένα κλικ
