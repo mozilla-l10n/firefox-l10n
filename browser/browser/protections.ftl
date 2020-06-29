@@ -35,9 +35,12 @@ etp-card-title-always = Побољшана заштита од праћења: �
 etp-card-title-custom-not-blocking = Побољшана заштита од праћења: ИСКЉУЧЕНА
 etp-card-content-description = { -brand-short-name } аутоматски спречава компаније да вас потајно прате на мрежи.
 protection-report-etp-card-content-custom-not-blocking = Све заштите су тренутно искључене. Изаберите које пратиоце желите блокирати управљајући { -brand-short-name } подешавањима заштите.
+protection-report-manage-protections = Управљај подешавањима
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Данас
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Графикон који садржи укупан број сваке врсте пратилаца блокираних ове седмице.
 social-tab-title = Пратиоци с друштвених мрежа
 tracker-tab-title = Садржај који прати
 lockwise-title = Немојте поново заборавити лозинку
