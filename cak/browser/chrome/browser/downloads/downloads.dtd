@@ -47,7 +47,7 @@
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
-<!ENTITY cmd.removeFile.label             "Telesäx el ri yakb'äl">
+<!ENTITY cmd.removeFile.label             "Tiyuj Yakb'äl">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose

@@ -149,7 +149,7 @@ detail-show-preferences =
 detail-rating =
     .value = Kejqalem
 addon-restart-now =
-    .label = Titzij chik wakami
+    .label = Titikirisäx chik wakami
 disabled-unsigned-heading =
     .value = Jujun taq tz'aqat xechup
 disabled-unsigned-description = Re taq tz'aqat re' man xenik'öx ta richin ye'okisáx pa { -brand-short-name }. Tatikïr <label data-l10n-name="find-addons">Ke'ilitäj taq jalwachinïk</label> tik'utüx chi re ri nuk'unel chi kerunik'oj.

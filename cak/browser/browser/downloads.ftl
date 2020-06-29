@@ -87,9 +87,9 @@ downloads-cmd-unblock =
     .accesskey = a
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
-    .tooltiptext = Telesäx el ri yakb'äl
+    .tooltiptext = Tiyuj Yakb'äl
 downloads-cmd-remove-file-panel =
-    .aria-label = Telesäx el ri yakb'äl
+    .aria-label = Tiyuj Yakb'äl
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.

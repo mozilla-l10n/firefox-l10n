@@ -69,7 +69,7 @@ feature-disable-requires-restart = { -brand-short-name } k'o chi nitikirisäx ch
 should-restart-title = Titikirisäx chik ri { -brand-short-name }
 should-restart-ok = Titikirisäx chik { -brand-short-name } wakami
 cancel-no-restart-button = Tiq'at
-restart-later = Titikirisäx pa jun mej
+restart-later = Titikirisäx pa jun Mej
 
 ## Extension Control Notifications
 ##

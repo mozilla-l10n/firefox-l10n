@@ -864,7 +864,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "t">
 <!ENTITY identity.learnMore "Tetamäx Ch'aqa' Chik">
 
-<!ENTITY identity.removeCertException.label "Telesäx el ri man ja ta jun">
+<!ENTITY identity.removeCertException.label "Tiyuj Man Relik Ta">
 <!ENTITY identity.removeCertException.accesskey "T">
 
 <!ENTITY identity.moreInfoLinkText2 "Ch'aqa' chik rutzijol">

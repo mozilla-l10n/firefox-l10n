@@ -22,19 +22,6 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } k'a yeruq'atala' rojqanela' Ichinan Tzuwäch, po man yeruyäk ri kitz'ib'axik ri xeq'at.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Ojqanela' { -brand-short-name } xeq'at re wuqq'ij re'
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Ri Rupalem Chajinem nijikib'äx pa <b>Junamil</b>
-    .title = Jät pa Runuk'ulem Ichinanem
-protection-report-header-details-strict = Ri Rupalem Chajinem nijikib'äx pa <b>K'a'alri'ïl</b>
-    .title = Jät pa Runuk'ulem Ichinanem
-protection-report-header-details-custom = Ri Rupalem Chajinem nijikib'äx pan <b>Ichinan</b>
-    .title = Jät pa Runuk'ulem Ichinanem
-protection-report-page-title = Ichinan Chajinem
-protection-report-content-title = Ichinan Chajinem
-etp-card-title = Utzirisan Chajinïk chuwäch Ojqanem
-etp-card-content = Ri ojqanela' yatkojqaj pa k'amab'ey richin nikimöl ri awetamab'al chi rij ri ye'ab'än chuqa' ri niqa chawäch nakanoj. { -brand-short-name } ke'aq'ata' k'ïy chi ke ri taq ojqanela' ri' chuqa' ch'aqa' chik tz'ilanel taq skrip.
 protection-report-webpage-title = Rupas taq Chajinïk
 protection-report-page-content-title = Rupas taq Chajinïk
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -69,12 +56,9 @@ mobile-app-title = Keq'at ri rojqanela' eltzijol pa ch'aqa' okisab'äl
 mobile-app-card-content = Tokisäx ri oyonib'äl okik'amaya'l rik'in ri kemon chajinïk chuwäch ri retal eltzijol.
 mobile-app-links = { -brand-product-name } Okik'amaya'l richin <a data-l10n-name="android-mobile-inline-link">Android</a> chuqa' <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Man tamestaj chik jun ewan tzij
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Runuk'samajel Ewan Tzij
 lockwise-header-content = { -lockwise-brand-name } ütz ke'ayaka' ri ewan taq atzij pan awokik'amaya'l.
 lockwise-header-content-logged-in = Ütz ke'ayaka' ri ewan taq atzij chuqa' ake'axima' pa ronojel awokisab'al.
-protection-report-view-logins-button = Titzet Tikirib'äl Molojri'ïl
-    .title = Keb'etz'et Yakon taq Tikirib'äl Molojri'ïl
 protection-report-save-passwords-button = Keyak Ewan taq Tzij
     .title = Keyak Ewan taq Tzij pa { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Kenuk'samajïx Ewan taq Tzij
@@ -82,14 +66,6 @@ protection-report-manage-passwords-button = Kenuk'samajïx Ewan taq Tzij
 lockwise-mobile-app-title = Xab'akuchi' ke'ak'waj ri ewan taq atzij
 lockwise-no-logins-card-content = Tawokisaj ewan taq tzij eyakon pa { -brand-short-name } pa xab'achike okisab'äl.
 lockwise-app-links = { -lockwise-brand-name } richin <a data-l10n-name="lockwise-android-inline-link">Android</a> chuqa' <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Ütz yakon ri ewan tzij <a data-l10n-name="lockwise-how-it-works">Achike rub'eyal yesamäj</a>
-       *[other] Ütz eyakon ri ewan taq tzij <a data-l10n-name="lockwise-how-it-works">Achike rub'eyal yesamäj</a>
-    }
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -109,19 +85,10 @@ lockwise-scanned-text-no-breached-logins =
 lockwise-how-it-works-link = Achike rub'eyal nisamäj
 turn-on-sync = Titzij { -sync-brand-short-name }...
     .title = B'enam pa kajowab'al ximoj
-manage-connected-devices = Kenuk'samajïx okisab'äl…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Tokisäx rik'in { $count } okisab'äl
-       *[other] Tokisäx rik'in { $count } taq okisab'äl
-    }
 monitor-title = Taya' retal ri kitz'ilanem taq tzij
 monitor-link = Achike rub'eyal nisamäj
 monitor-header-content-no-account = Tanik'oj { -monitor-brand-name } richin natz'ët we xatz'iläx pa jun tz'ilanem tzij etaman ruwäch chuqa' tak'ulu' rutzijol k'ayewal chi kij k'ak'a' taq tz'ilanem.
 monitor-header-content-signed-in = { -monitor-brand-name } nuya' rutzijol chawe toq ri awetamab'al k'o pa jun rutz'ilanem tzij etaman ruwäch.
-monitor-sign-up = Tatz'ib'aj awi' richin Ye'ak'ül Kitzijol K'ayewal
 monitor-sign-up-link = Tatz'ib'aj awi' richin Ye'ak'ül Kitzijol K'ayewal
     .title = Tatz'ib'aj awi' richin Ye'ak'ül Kitzijol K'ayewal pa { -monitor-brand-name }
 auto-scan = Ruyonil nitz'ajwachib'ëx wakami
@@ -163,15 +130,6 @@ info-exposed-passwords-found =
         [one] Ewan tzij k'utun pa ronojel taq tz'ilanem
        *[other] Ewan taq tzij ek'utun pa ronojel taq tz'ilanem
     }
-full-report-link = Titz'et chijun rutzijol pa <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Tikirib'äl molojri'ïl tikirel k'utun pa tz'ilanem taq tzij. Tijal re ewan tzij richin ajikomal pa k'amab'ey. <a data-l10n-name="lockwise-link">Ketz'et tikirib'äl taq molojri'ïl</a>
-       *[other] Tikirib'äl taq molojri'ïl tikirel ek'utun pa tz'ilanem taq tzij. Kejal re ewan taq tzij richin ajikomal pa k'amab'ey. <a data-l10n-name="lockwise-link"> Ketz'et tikirib'äl taq molojri'ïl eyakon</a>
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -206,7 +164,7 @@ monitor-partial-breaches-motivation-title-middle = ¡Ke ri' tab'ana'!
 monitor-partial-breaches-motivation-title-end = ¡Nik'is yan! Ke ri' tab'ana'.
 monitor-partial-breaches-motivation-description = Ke'asolo' ri ch'aqa' chik taq tz'ilanem pa { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Kesol taq Tz'ilanem
-    .title = Kesol taq Tz'ilanem pa { -monitor-brand-short-name }
+    .title = Kesol taq tz'ilanem pa { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
