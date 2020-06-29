@@ -76,8 +76,23 @@ lockwise-scanned-text-breached-logins =
         [few] { $count } лозинке су можда угрожене услед цурења података
        *[other] { $count } лозинки је можда угрожено услед цурења података
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] Ваша лозинка се сигурно чува.
+        [few] Ваше лозинке се сигурно чувају.
+       *[other] Ваших лозинки се сигурно чува.
+    }
+lockwise-how-it-works-link = Како функционише
 turn-on-sync = Укључите { -sync-brand-short-name }…
     .title = Отворите подешавања синхронизовања
+monitor-title = Припазите на цурење података
+monitor-link = Како функционише
+monitor-header-content-no-account = Уз { -monitor-brand-name } проверите да ли сте били део познатог цурења података и добијајте обавештења о новим цурењима.
+monitor-header-content-signed-in = { -monitor-brand-name } вас упозорава ако су се ваши подаци појавили у познатом цурењу података.
 auto-scan = Аутоматски скенирано данас
 
 ## The title attribute is used to display the type of protection.
