@@ -15,5 +15,6 @@ about-httpsonly-title = { -brand-short-name }가 잠재적 보안 문제를 발�
 about-httpsonly-explanation-unavailable = HTTPS 전용 모드로 탐색 중이며, <em>{ $websiteUrl }</em>의 보안 HTTPS 버전을 사용할 수 없습니다.
 about-httpsonly-explanation-question = 이 문제의 원인은 무엇입니까?
 about-httpsonly-explanation-nosupport = 아마도 웹 사이트는 단순히 HTTPS를 지원하지 않습니다.
+about-httpsonly-explanation-risk = 공격자가 연루되었을 가능성도 있습니다. 웹 사이트를 방문하기로 결정한 경우, 비밀번호, 이메일 또는 신용 카드 세부 정보와 같은 민감한 정보는 입력하지 않아야 합니다.
 about-httpsonly-button-accept-and-continue = 위험을 감수하고 계속 진행
 about-httpsonly-button-go-back = 뒤로 가기
