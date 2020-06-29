@@ -13,4 +13,8 @@ about-httpsonly-title = { -brand-short-name } a détecté un problème de sécur
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable = Vous naviguez en mode HTTPS uniquement, mais aucune version HTTPS sécurisée de <em>{ $websiteUrl }</em> n’est disponible.
+about-httpsonly-explanation-question = Quelle peut en être la cause ?
+about-httpsonly-explanation-nosupport = Très probablement, le site web ne prend tout simplement pas en charge HTTPS.
+about-httpsonly-explanation-risk = Il est également possible qu’un malfaiteur soit impliqué. Si vous décidez de visiter ce site web, il vaut mieux éviter de saisir des informations sensibles comme des mots de passe, des adresses électroniques ou des informations de cartes bancaires.
+about-httpsonly-button-accept-and-continue = Accepter le risque et poursuivre
 about-httpsonly-button-go-back = Retour

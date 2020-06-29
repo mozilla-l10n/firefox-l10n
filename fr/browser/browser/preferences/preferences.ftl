@@ -54,6 +54,7 @@ pane-experimental-title = Expériences de { -brand-short-name }
 category-experimental =
     .tooltiptext = Expériences de { -brand-short-name }
 pane-experimental-subtitle = Agissez avec précaution
+pane-experimental-search-results-header = Expériences de { -brand-short-name } : gardez l’œil ouvert
 pane-experimental-description = Modifier les préférences de configuration avancées peut affecter les performances et la sécurité de { -brand-short-name }.
 help-button-label = Assistance de { -brand-short-name }
 addons-button-label = Extensions et thèmes
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Les sites que vous visitez le plus
 
 home-prefs-recommended-by-header =
     .label = Recommandations par { $provider }
-home-prefs-recommended-by-description = Du contenu intéressant en provenance du Web, personnalisé pour vous
 home-prefs-recommended-by-description-update = Contenu exceptionnel déniché sur le Web par { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Afficher les suggestions de recherche avant l’historique de navigation dans les résultats de la barre d’adresse
 search-show-suggestions-private-windows =
     .label = Afficher les suggestions de recherche dans les fenêtres de navigation privée
-suggestions-addressbar-settings = Modifier les préférences pour les suggestions de l’historique de navigation, des marque-pages et des onglets
 suggestions-addressbar-settings-generic = Modifier les préférences pour les suggestions de la barre d’adresse
 search-suggestions-cant-show = Les suggestions de recherche ne seront pas affichées parmi les résultats de la barre d’adresse car vous avez configuré { -brand-short-name } de façon à ce qu’il ne conserve jamais l’historique.
 search-one-click-header = Moteurs de recherche accessibles en un clic
