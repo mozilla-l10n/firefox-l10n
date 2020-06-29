@@ -27,6 +27,14 @@ msgevent-rcvdmsg_unreadable = Tremseḍ-d izen yettwagelhen ur nettwaɣra ara se
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_malformed = Tremseḍ-d izen n yisefka ur nemsil ara akken iwata seg{ $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = Izen Heartbeat i d-yettwaremsen seg { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Izen Heartbeat i yettwaznen ɣer{ $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-rcvdmsg_general_err = Tella-d tuccḍa iɣef ur nebni ara mi ara nettaεraḍ ad neḥrez adiwenni-inek/inem s useqdec n OTR.
 # Variables:
