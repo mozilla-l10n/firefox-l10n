@@ -109,6 +109,36 @@ browser-data-history-label =
             [firefox] Историја прегледања и обележивачи
            *[other] Историја прегледања
         }
+browser-data-formdata-checkbox =
+    .label = Сачувани формулари
+browser-data-formdata-label =
+    .value = Сачувани формулари
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Сачуване пријаве и лозинке
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Сачуване пријаве и лозинке
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Омиљено
+            [edge] Омиљено
+           *[other] Обележивачи
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Омиљено
+            [edge] Омиљено
+           *[other] Обележивачи
+        }
+browser-data-otherdata-checkbox =
+    .label = Остали подаци
+browser-data-otherdata-label =
+    .label = Остали подаци
 browser-data-session-checkbox =
     .label = Прозори и језичци
 browser-data-session-label =

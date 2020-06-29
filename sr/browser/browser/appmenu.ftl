@@ -30,4 +30,4 @@ whatsnew-panel-header = Шта је ново
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
     .label = Обавести о новим функцијама
-    .accesskey = ф
+    .accesskey = f
