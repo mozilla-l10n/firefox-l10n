@@ -6,20 +6,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Дошло је до грешке при повезивању на { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код грешке: { $error }
-
 psmerr-ssl-disabled = Није могуће безбедно повезивање јер је протокол SSL искључен.
 psmerr-ssl2-disabled = Није могуће безбедно се повезати јер сајт користи старије, небезбедно издање SSL протокола.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Примили сте неисправан сертификат. Обавестите администратора сервера или надлежне о следећем:
     
     Ваш сертификат садржи исти серијски број као још неки сертификат издат од стране сертификационог тела. Набавите нови сертификат са јединственим серијским бројем.
-
 ssl-error-export-only-server = Није могућа безбедна комуникација. Удаљени рачунар не подржава шифровање високе категорије.
 ssl-error-us-only-server = Није могућа безбедна комуникација. Удаљени рачунар захтева шифровање високе категорије које није подржано.
 ssl-error-no-cypher-overlap = Није могуће безбедна комуникација са удаљеним рачунаром: Нема заједничких алгоритама за шифровање.
@@ -39,7 +35,7 @@ ssl-error-bad-cert-alert = Удаљени рачунар са SSL не може 
 ssl-error-revoked-cert-alert = Удаљени рачунар са SSL је одбио сертификат јер је опозван.
 ssl-error-expired-cert-alert = Удаљени рачунар са SSL је одбио сертификат јер је истекао.
 ssl-error-ssl-disabled = Није могуће повезати се: SSL је искључен.
-ssl-error-fortezza-pqg = НИје могуће повезати се: удаљени рачунар са SSL се налази у другом FORTEZZA домену.
+ssl-error-fortezza-pqg = Није могуће повезати се: удаљени рачунар са SSL се налази у другом FORTEZZA домену.
 ssl-error-unknown-cipher-suite = Тражен је непознат пакет шифара за SSL.
 ssl-error-no-ciphers-supported = Ниједан пакет шифара није присутан нити укључен у овај програм.
 ssl-error-bad-block-padding = SSL је примио запис са лошом попуном блока (padding).
