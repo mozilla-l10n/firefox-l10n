@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name }-eksperiment
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiment
 pane-experimental-subtitle = Fortsett med forsiktighet
+pane-experimental-search-results-header = { -brand-short-name }-eksperimenter: Fortsett med forsiktighet
 pane-experimental-description = Endrer du avanserte konfigurasjonsinnstillinger kan det påvirke ytelse eller sikkerhet i { -brand-short-name }.
 help-button-label = { -brand-short-name } brukerstøtte
 addons-button-label = Utvidelser og tema
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Mest besøkte nettsteder
 
 home-prefs-recommended-by-header =
     .label = Anbefalt av { $provider }
-home-prefs-recommended-by-description = Bra innhold fra hele nettet, tilpasset for deg
 home-prefs-recommended-by-description-update = Enestående innhold fra hele nettet, satt sammen av { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Vis søkeforslag før nettleserhistorikk i adressefeltsresultatene
 search-show-suggestions-private-windows =
     .label = Vis søkeforslag i private vindu
-suggestions-addressbar-settings = Endre innstillinger for nettleserhistorikk, bokmerker og faneforslag
 suggestions-addressbar-settings-generic = Endre innstillinger for andre adresselinjeforslag
 search-suggestions-cant-show = Søkeforslag vil ikke vises i adresselinjeresultatene fordi du har konfigurert { -brand-short-name } til å aldri huske historikk.
 search-one-click-header = Ettklikks søkemotorer
