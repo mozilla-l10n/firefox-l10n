@@ -637,7 +637,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Titaq ximonel tzij…">
 <!ENTITY emailPageCmd.accesskey       "T">
-<!ENTITY savePageCmd.label            "Tiyak ruxaq achi'el…">
+<!ENTITY savePageCmd.label            "Tiyak Ruxaq Achi'el…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "p">
@@ -646,9 +646,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "R">
 <!ENTITY printFrameCmd.label          "Titz'ajb'äx ruchi'…">
 <!ENTITY printFrameCmd.accesskey      "T">
-<!ENTITY saveLinkCmd.label            "Tiyak ximon tzij achi'el…">
+<!ENTITY saveLinkCmd.label            "Tiyak Ximonel Achi'el…">
 <!ENTITY saveLinkCmd.accesskey        "o">
-<!ENTITY saveImageCmd.label           "Ruyakik wachib'äl achi'el…">
+<!ENTITY saveImageCmd.label           "Tiyak Wachib'äl Achi'el…">
 <!ENTITY saveImageCmd.accesskey       "y">
 <!ENTITY saveVideoCmd.label           "Tiyak silowachib'äl achi'el…">
 <!ENTITY saveVideoCmd.accesskey       "s">
