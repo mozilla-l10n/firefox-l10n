@@ -5,10 +5,12 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-selected-element-header = Επιλεγμένο στοιχείο
 compatibility-all-elements-header = Όλα τα ζητήματα
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-experimental = (πειραματικό)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -33,5 +35,6 @@ compatibility-issue-occurrences =
         [one] { $number } εμφάνιση
        *[other] { $number } εμφανίσεις
     }
+compatibility-no-issues-found = Δεν βρέθηκαν ζητήματα συμβατότητας
 compatibility-close-settings-button =
     .title = Κλείσιμο ρυθμίσεων

@@ -9,4 +9,6 @@ about-httpsonly-insecure-explanation-unavailable = Είστε σε λειτου�
 about-httpsonly-insecure-explanation-reasons = Πιθανότατα, η ιστοσελίδα δεν υποστηρίζει HTTPS, αλλά είναι επίσης πιθανό ότι ένας εισβολέας αποκλείει την έκδοση HTTPS.
 about-httpsonly-insecure-explanation-exception = Ενώ ο κίνδυνος ασφαλείας είναι μικρός, αν αποφασίσετε να επισκεφθείτε την έκδοση HTTP της ιστοσελίδας, δεν θα πρέπει να καταχωρήσετε ευαίσθητες πληροφορίες, όπως κωδικούς πρόσβασης, emails ή στοιχεία πιστωτικών καρτών.
 about-httpsonly-button-make-exception = Αποδοχή κινδύνου και συνέχεια στην ιστοσελίδα
+about-httpsonly-explanation-question = Τι μπορεί να το προκαλεί αυτό;
+about-httpsonly-button-accept-and-continue = Αποδοχή κινδύνου και συνέχεια
 about-httpsonly-button-go-back = Επιστροφή
