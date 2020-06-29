@@ -9,4 +9,7 @@ about-httpsonly-insecure-explanation-unavailable = Tettinigeḍ deg uskar HTTPS 
 about-httpsonly-insecure-explanation-reasons = Ahat, asmel web ur isefrak ara HTTPS, maca yezmer lḥal amaker ad isewḥel lqem HTTPS.
 about-httpsonly-insecure-explanation-exception = Γas akken ugur n tɣellist yenqes aṭas, ma yella tenwiḍ ad terzuḍ ɣer lqem HTTP n usmel web, ur ilaq ara ad teskecmeḍ kra seg talɣut tabaḍnit am wawalen uffiren, imaylen neɣ ttfaṣil n tkarḍa n usellek.
 about-httpsonly-button-make-exception = Qbel ugur syen kemmel ɣef usmel
+about-httpsonly-title = { -brand-short-name } Yufa-d yezmer ad yili wugur n tɣellist
+about-httpsonly-explanation-question = D acu i d-yeglan s wugur-a?
+about-httpsonly-button-accept-and-continue = Qbel ugur, tkemmleḍ
 about-httpsonly-button-go-back = Uɣal ɣer deffir
