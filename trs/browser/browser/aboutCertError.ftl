@@ -56,6 +56,9 @@ cert-error-details-hsts-label = Yitïnj hauw ga'anj ma riña HTTP ahī: { $hasHS
 cert-error-details-key-pinning-label = Gachrun' klave HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Daj niko' dugui' sertifikadô:
 open-in-new-window-for-csp-or-xfo-error = Na’nīn sitio riña a’ngô bentanâ nākàa
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Da’ dūgumij sò’, { $hostname } sī gâ’nïnj { -brand-short-name } da’ nāyi’nïn pâjina sisī a’ngô sitio nâ’nïnj man. Da’ gā’ue gīni’iājt pajinâ nan nī da’uît nā’nïnt man riña a’ngô bendtanâ nākàa.
 
 ## Messages used for certificate error titles
 
@@ -84,8 +87,6 @@ proxyResolveFailure-title = Na'ue nari'ìj proxy ma
 redirectLoop-title = Nitaj si 'iaj redireksionando hue'ê pajinâ nan
 unknownSocketType-title = Se 'ngo nuguan' hue'ê nariki servidor
 nssFailure2-title = Gire' conexión hia
-cspBlocked-title = 'Ngo narán aga' na riña sitiô na yi'ì sa mà riñaj
-xfoBlocked-title = Ganarán riñaj ‘iaj nuguan’ gu’nàj X-Frame-Options
 csp-xfo-error-title = { -brand-short-name } Na'ue nāyi'nïn pajinâ nan
 corruptedContentError-title = Gire'ej dadin' sa nun riñan hua a'nan'
 remoteXUL-title = XUL nagi'iaj mun'ûn'

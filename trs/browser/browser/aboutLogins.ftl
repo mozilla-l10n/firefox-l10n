@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Nej riña gayi'ì' sesiûn & nej da'nga' huìi
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = Nadunij riña Google Play
 login-app-promo-apple =
     .alt = Naduni' asîj riña App Store
-
 login-filter =
     .placeholder = Nana'uì' nej riña gayi'ì sesiûn
-
 create-login-button = Giri 'ngo riña gayi'ì sesiûn nakàa
-
 fxaccounts-sign-in-text = Giri da'ngā huìi da' garasunt riña a'ngo aga'aj
 fxaccounts-sign-in-button = Gatu riña { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -34,6 +27,7 @@ menu =
     .title = Na'nïn' menû
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Asìj riña a'ngô nabegadôr duguachînt ga'naj…
+about-logins-menu-menuitem-export-logins = Dūguachîn nej riña gayì’ìt sēsiûn…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Nej sa huaa
@@ -55,6 +49,7 @@ login-list-count =
 login-list-sort-label-text = Nagi'aj chre' da':
 login-list-name-option = Si yugui (A-Z)
 login-list-name-reverse-option = Si yugui (Z-A)
+about-logins-login-list-alerts-option = Gā gūdadû
 login-list-last-changed-option = Sa nagi'iât ne' rukù ni'inj
 login-list-last-used-option = Sa garajsun rukù nï't
 login-list-intro-title = Nu nari'ij riña gayi'ī sesiôn
@@ -66,6 +61,8 @@ login-list-item-subtitle-new-login = Gacrun dánt riña gayi'ìt sesiûn
 login-list-item-subtitle-missing-username = (nitaj si yugui usuario hua)
 about-logins-list-item-breach-icon =
     .title = Gi'iaj yi'ì si riña sitiô nan
+about-logins-list-item-vulnerable-password-icon =
+    .title = Nitāj si ran hua da’nga’ huìi
 
 ## Introduction screen
 
@@ -104,9 +101,12 @@ login-item-time-used = Diû rukù garâj sunt man: { DATETIME($timeUsed, day: "n
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -138,11 +138,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Duyichin'
 confirmation-dialog-dismiss-button =
     .title = Duyichin'
-
 about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 about-logins-confirm-remove-dialog-confirm-button = Guxūn
-
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
 confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
 confirm-discard-changes-dialog-confirm-button = Dunâj man
@@ -153,6 +151,7 @@ breach-alert-text = Gi'iaj tu nej si da'nga' huì hua 'iát nga nagi'iaj nakàt 
 
 ## Vulnerable Password notification
 
+
 ## Error Messages
 
 # This is an error message that appears when a user attempts to save
@@ -160,10 +159,8 @@ breach-alert-text = Gi'iaj tu nej si da'nga' huì hua 'iát nga nagi'iaj nakàt 
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ngà hua 'ngo nuguan' hua dàdanj riña { $loginTitle } dàj rû' hua sa gachrûnt. <a data-l10n-name="duplicate-link">Gatut ni'iajt riña nuguan' dan anj</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Hua 'ngo sa gire' ngà gahuin ruhuât na'nïnj sà' da'nga' huì nan.
-
 
 ## Login Export Dialog
 
