@@ -15,6 +15,6 @@ about-httpsonly-title = Mae { -brand-short-name } wedi canfod Mater Diogelwch Po
 about-httpsonly-explanation-unavailable = Rydych yn pori yn y modd HTTPS-Only Mode, ac nid oes fersiwn HTTPS ddiogel o <em>{ $websiteUrl }</em> ar gael.
 about-httpsonly-explanation-question = Beth allai fod yn achosi hyn?
 about-httpsonly-explanation-nosupport = Yn fwyaf tebygol, nid yw'r wefan yn cefnogi HTTPS.
-about-httpsonly-explanation-risk = Mae hefyd yn bosibl bod ymosodwr yn ei gylch. Os penderfynwch ymweld â'r wefan, peidiwch â rhannu unrhyw fanylion sensitif fel cyfrineiriau, e-byst, neu fanylion cardiau credyd.
+about-httpsonly-explanation-risk = Mae hefyd yn bosibl bod ymosodwr yn ceisio ymyrryd. Os penderfynwch ymweld â'r wefan, peidiwch â rhannu unrhyw fanylion sensitif fel cyfrineiriau, e-byst, neu fanylion cardiau credyd.
 about-httpsonly-button-accept-and-continue = Derbyn y Perygl a Pharhau
 about-httpsonly-button-go-back = Mynd Nôl
