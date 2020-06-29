@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY adaptiveJunkLog.title "Log Surat Sampah Adaptif">
+<!ENTITY adaptiveJunkLogInfo.label "Log kegiatan kontrol surel sampah adaptif.">
 <!ENTITY clearLog.label "Bersihkan Log">
 <!ENTITY clearLog.accesskey "B">
 <!ENTITY closeLog.label "Tutup">
