@@ -9,4 +9,5 @@ about-httpsonly-insecure-explanation-unavailable = Du surfar endast i HTTPS-läg
 about-httpsonly-insecure-explanation-reasons = Webbplatsen stöder troligtvis inte HTTPS, men det är också möjligt att en angripare blockerar HTTPS-versionen.
 about-httpsonly-insecure-explanation-exception = Även om säkerhetsrisken är låg, om du väljer att besöka HTTP-versionen av webbplatsen, bör du inte ange någon känslig information som lösenord, e-post eller kreditkortsuppgifter.
 about-httpsonly-button-make-exception = Acceptera risken och fortsätt till webbplatsen
+about-httpsonly-button-accept-and-continue = Acceptera risken och fortsätt
 about-httpsonly-button-go-back = Gå tillbaka
