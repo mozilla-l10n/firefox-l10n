@@ -20,10 +20,10 @@ downloads-panel-list =
     .style = width: 74ch
 downloads-cmd-pause =
     .label = Паузирај
-    .accesskey = П
+    .accesskey = P
 downloads-cmd-resume =
     .label = Настави
-    .accesskey = Н
+    .accesskey = R
 downloads-cmd-cancel =
     .tooltiptext = Откажи
 downloads-cmd-cancel-panel =
@@ -31,11 +31,11 @@ downloads-cmd-cancel-panel =
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Отвори фасциклу са преузетим садржајем
-    .accesskey = П
+    .accesskey = F
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Прикажи у Finder-у
-    .accesskey = П
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = Отворите у системском прегледачу
     .accesskey = V
@@ -68,23 +68,23 @@ downloads-cmd-retry-panel =
     .aria-label = Покушај поново
 downloads-cmd-go-to-download-page =
     .label = Иди на станицу за преузимања
-    .accesskey = И
+    .accesskey = G
 downloads-cmd-copy-download-link =
-    .label = Копирај везу на пријем
-    .accesskey = К
+    .label = Копирај везу за преузимање
+    .accesskey = L
 downloads-cmd-remove-from-history =
-    .label = Уклони из историјата
-    .accesskey = У
+    .label = Уклони из историје
+    .accesskey = e
 downloads-cmd-clear-list =
     .label = Обриши панел за преглед
-    .accesskey = г
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Обриши преузимања
-    .accesskey = р
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Дозволи преузимање
-    .accesskey = Д
+    .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Уклони датотеку
@@ -125,7 +125,7 @@ downloads-cancel-download =
 # the panel at all.
 downloads-history =
     .label = Прикажи сва преузимања
-    .accesskey = П
+    .accesskey = S
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =

@@ -7,19 +7,19 @@
 
 menu-file =
     .label = Датотека
-    .accesskey = Д
+    .accesskey = F
 menu-file-new-tab =
     .label = Нови језичак
-    .accesskey = ј
+    .accesskey = T
 menu-file-new-container-tab =
     .label = Нови контејнер
-    .accesskey = ј
+    .accesskey = b
 menu-file-new-window =
     .label = Нови прозор
-    .accesskey = Н
+    .accesskey = N
 menu-file-new-private-window =
     .label = Нови приватан прозор
-    .accesskey = п
+    .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -27,64 +27,64 @@ menu-file-open-location =
     .label = Отвори локацију…
 menu-file-open-file =
     .label = Отвори датотеку…
-    .accesskey = д
+    .accesskey = O
 menu-file-close =
     .label = Затвори
-    .accesskey = З
+    .accesskey = C
 menu-file-close-window =
     .label = Затвори прозор
-    .accesskey = З
+    .accesskey = d
 menu-file-save-page =
     .label = Сачувај страницу као…
-    .accesskey = С
+    .accesskey = A
 menu-file-email-link =
     .label = Веза е-поште…
-    .accesskey = е
+    .accesskey = E
 menu-file-print-setup =
     .label = Подеси страницу…
-    .accesskey = у
+    .accesskey = u
 menu-file-print-preview =
     .label = Преглед пре штампе
-    .accesskey = т
+    .accesskey = v
 menu-file-print =
     .label = Штампај…
-    .accesskey = Ш
+    .accesskey = P
 menu-file-import-from-another-browser =
     .label = Увези из другог прегледача…
-    .accesskey = У
+    .accesskey = I
 menu-file-go-offline =
     .label = Рад ван мреже
-    .accesskey = м
+    .accesskey = k
 
 ## Edit Menu
 
 menu-edit =
     .label = Уређивање
-    .accesskey = У
+    .accesskey = E
 menu-edit-find-on =
     .label = Нађи на овој страници…
-    .accesskey = Н
+    .accesskey = F
 menu-edit-find-again =
     .label = Нађи поново
-    .accesskey = п
+    .accesskey = g
 menu-edit-bidi-switch-text-direction =
     .label = Промени усмерење текста
-    .accesskey = т
+    .accesskey = w
 
 ## View Menu
 
 menu-view =
     .label = Преглед
-    .accesskey = г
+    .accesskey = V
 menu-view-toolbars-menu =
     .label = Алатне траке
-    .accesskey = А
+    .accesskey = T
 menu-view-customize-toolbar =
     .label = Прилагоди…
-    .accesskey = ш
+    .accesskey = C
 menu-view-sidebar =
-    .label = Бочна палета
-    .accesskey = Б
+    .label = Бочна трака
+    .accesskey = e
 menu-view-bookmarks =
     .label = Забелешке
 menu-view-history-button =
@@ -93,59 +93,59 @@ menu-view-synced-tabs-sidebar =
     .label = Синхронизовани језичци
 menu-view-full-zoom =
     .label = Увећај
-    .accesskey = У
+    .accesskey = Z
 menu-view-full-zoom-enlarge =
     .label = Увеличај
-    .accesskey = У
+    .accesskey = I
 menu-view-full-zoom-reduce =
     .label = Умањи
-    .accesskey = м
+    .accesskey = O
 menu-view-full-zoom-actual-size =
     .label = Стварна величина
-    .accesskey = С
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = Увећај само текст
-    .accesskey = т
+    .accesskey = T
 menu-view-page-style-menu =
     .label = Стил странице
-    .accesskey = С
+    .accesskey = y
 menu-view-page-style-no-style =
     .label = Без стила
-    .accesskey = Б
+    .accesskey = n
 menu-view-page-basic-style =
     .label = Основни стил странице
-    .accesskey = О
+    .accesskey = B
 menu-view-charset =
     .label = Кодирање текста
-    .accesskey = К
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
 menu-view-enter-full-screen =
     .label = Користи цео екран
-    .accesskey = К
+    .accesskey = F
 menu-view-exit-full-screen =
     .label = Изађи из приказа преко целог екрана
-    .accesskey = К
+    .accesskey = F
 menu-view-full-screen =
     .label = Користи цео екран
-    .accesskey = ц
+    .accesskey = F
 
 ##
 
 menu-view-show-all-tabs =
     .label = Прикажи све језичке
-    .accesskey = П
+    .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = Промени усмерење странице
-    .accesskey = с
+    .accesskey = D
 
 ## History Menu
 
 menu-history =
     .label = Историјат
-    .accesskey = И
+    .accesskey = s
 menu-history-show-all-history =
     .label = Преглед целог историјата
 menu-history-clear-recent-history =
@@ -165,7 +165,7 @@ menu-history-undo-window-menu =
 
 menu-bookmarks-menu =
     .label = Забелешке
-    .accesskey = З
+    .accesskey = B
 menu-bookmarks-show-all =
     .label = Прикажи све забелешке
 menu-bookmark-this-page =
@@ -185,48 +185,48 @@ menu-bookmarks-mobile =
 
 menu-tools =
     .label = Алатке
-    .accesskey = А
+    .accesskey = T
 menu-tools-downloads =
     .label = Преузимања
-    .accesskey = П
+    .accesskey = D
 menu-tools-addons =
     .label = Додаци
-    .accesskey = Д
+    .accesskey = A
 menu-tools-fxa-sign-in =
     .label = Пријавите се у { -brand-product-name }…
-    .accesskey = и
+    .accesskey = g
 menu-tools-turn-on-sync =
     .label = Укључите { -sync-brand-short-name }…
-    .accesskey = у
+    .accesskey = n
 menu-tools-sync-now =
     .label = Синхронизуј сада
-    .accesskey = С
+    .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Поново се повежите на { -brand-product-name }…
-    .accesskey = н
+    .accesskey = R
 menu-tools-web-developer =
     .label = Програмер
-    .accesskey = г
+    .accesskey = W
 menu-tools-page-source =
     .label = Изворни код странице
-    .accesskey = И
+    .accesskey = o
 menu-tools-page-info =
     .label = Подаци о страници
-    .accesskey = с
+    .accesskey = I
 menu-preferences =
     .label =
         { PLATFORM() ->
             [windows] Поставке
-           *[other] Поставке
+           *[other] Подешавања
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] о
-           *[other] П
+            [windows] O
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Исправљач грешака у распореду
-    .accesskey = р
+    .accesskey = L
 
 ## Window Menu
 
@@ -239,7 +239,7 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = Помоћ
-    .accesskey = П
+    .accesskey = H
 menu-help-product =
     .label = Помоћ за { -brand-shorter-name }
     .accesskey = П
