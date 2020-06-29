@@ -28,7 +28,7 @@
 <!ENTITY filtersForPrefix.accesskey "T">
 <!ENTITY viewLogButton.label "Tichayüx Tz'ib'anïk">
 <!ENTITY viewLogButton.accesskey "T">
-<!ENTITY runFilters.label "Tisamajib'ëx Wakami">
+<!ENTITY runFilters.label "Tib'an Wakami">
 <!ENTITY runFilters.accesskey "T">
 <!ENTITY stopFilters.label "Tiq'at">
 <!ENTITY stopFilters.accesskey "q">
@@ -36,8 +36,5 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "To'ïk">
 <!ENTITY helpButton.accesskey "T">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Taq chayub'äl richin nikanöx chi b'i'aj…">
-
-
-
