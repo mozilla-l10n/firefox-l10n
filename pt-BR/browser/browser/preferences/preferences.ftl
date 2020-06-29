@@ -54,6 +54,7 @@ pane-experimental-title = Experimentos do { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos do { -brand-short-name }
 pane-experimental-subtitle = Prossiga com cautela
+pane-experimental-search-results-header = Experimentos no { -brand-short-name }: Prossiga com cautela
 pane-experimental-description = Alterar preferências de configuração avançadas pode afetar o desempenho ou a segurança do { -brand-short-name }.
 help-button-label = Suporte { -brand-short-name }
 addons-button-label = Extensões e Temas
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Os sites que você mais visita
 
 home-prefs-recommended-by-header =
     .label = Recomendado pelo { $provider }
-home-prefs-recommended-by-description = Os melhores conteúdos disponíveis na Web, personalizados pra você
 home-prefs-recommended-by-description-update = Conteúdo excepcional da web afora, curadoria de { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Mostrar sugestões de pesquisa antes do histórico de navegação nos resultados da barra de endereços
 search-show-suggestions-private-windows =
     .label = Mostrar sugestões de pesquisa em janelas privativas
-suggestions-addressbar-settings = Alterar preferências de sugestões de histórico de navegação, favoritos e abas
 suggestions-addressbar-settings-generic = Alterar preferências de outras sugestões da barra de endereços
 search-suggestions-cant-show = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca memorizar o histórico.
 search-one-click-header = Mecanismos de pesquisa em um clique
