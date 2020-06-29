@@ -88,6 +88,7 @@ imported-edge-reading-list = Rucholajem taq sik'inem (richin Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
@@ -109,9 +110,9 @@ browser-data-history-label =
            *[other] Runatab'al Okem pa K'amaya'l
         }
 browser-data-formdata-checkbox =
-    .label = Yakon Kinatab'al taq Nojwuj
+    .label = Xyak Runojwuj Natab'äl
 browser-data-formdata-label =
-    .value = Yakon Kinatab'al taq Nojwuj
+    .value = Xyak Runojwuj Natab'äl
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
