@@ -311,6 +311,7 @@
 <!ENTITY HighlightColorButton.tooltip "Pilih warna penyorot teks">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Tetapkan ukuran font">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ukuran huruf lebih kecil">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Ukuran huruf lebih besar">
 <!ENTITY boldToolbarCmd.tooltip "Tebal">
