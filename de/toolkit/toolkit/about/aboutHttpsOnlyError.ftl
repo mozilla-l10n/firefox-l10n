@@ -11,5 +11,6 @@ about-httpsonly-insecure-explanation-exception = Das Sicherheitsrisiko der HTTP-
 about-httpsonly-button-make-exception = Risiko akzeptieren und Seite aufrufen
 about-httpsonly-explanation-question = Was könnte die Ursache sein?
 about-httpsonly-explanation-nosupport = Höchstwahrscheinlich unterstützt die Website HTTPS einfach nicht.
+about-httpsonly-explanation-risk = Es ist auch möglich, dass ein Angreifer beteiligt ist. Falls Sie sich dafür entscheiden, die Website aufzurufen, sollten Sie nicht sensible Informationen wie Passwörter, E-Mail-Adressen oder Kreditkartendaten in diese eingeben.
 about-httpsonly-button-accept-and-continue = Risiko akzeptieren und fortfahren
 about-httpsonly-button-go-back = Zurück
