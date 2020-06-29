@@ -280,7 +280,7 @@ applications-action-column =
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } yakb'äl
 applications-action-save =
-    .label = Tiyak yakb'äl
+    .label = Tiyak Yakb'äl
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -705,7 +705,7 @@ sync-choose-what-to-sync-dialog =
     .title = Tacha' Achike Naxïm
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Keyak Jaloj
-    .buttonaccesskeyaccept = y
+    .buttonaccesskeyaccept = K
     .buttonlabelextra2 = Nichup…
     .buttonaccesskeyextra2 = c
 sync-engine-bookmarks =

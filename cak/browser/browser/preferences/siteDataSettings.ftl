@@ -28,7 +28,7 @@ site-data-button-cancel =
     .label = Tiq'at
     .accesskey = T
 site-data-button-save =
-    .label = Keyak taq jaloj
+    .label = Keyak Jaloj
     .accesskey = y
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)

@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Kitikirisaxik molojri'ïl & Ewan taq Tzij
@@ -97,7 +92,7 @@ login-item-password-reveal-checkbox =
     .aria-label = Tik'ut ri ewan tzij
 login-item-copy-password-button-text = Tiwachib'ëx
 login-item-copied-password-button-text = ¡Xwachib'ëx!
-login-item-save-changes-button = Keyak taq Jaloj
+login-item-save-changes-button = Keyak Jaloj
 login-item-save-new-button = Tiyak
 login-item-cancel-button = Tiq'at
 login-item-time-changed = Ruk'isib'äl jaloj: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
