@@ -88,6 +88,7 @@
 <!ENTITY reorderAttachmentsCmd.label "Susun Lampiran…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Panel Lampiran">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
 <!ENTITY toggleAttachmentPaneCmd.key "M">
 <!ENTITY selectAllCmd.label "Pilih Semua">
