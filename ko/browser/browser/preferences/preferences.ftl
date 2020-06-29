@@ -778,7 +778,7 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = 더 알아보기
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = 로그인과 비밀번호 자동완성
+    .label = 로그인과 비밀번호 자동 채우기
     .accesskey = i
 forms-saved-logins =
     .label = 저장된 로그인…
