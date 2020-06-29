@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } Experiment
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiment
 pane-experimental-subtitle = Fortsätt med försiktighet
+pane-experimental-search-results-header = { -brand-short-name } Experiment: Fortsätt med försiktighet
 pane-experimental-description = Att ändra avancerade konfigurationsinställningar kan påverka { -brand-short-name }s prestanda eller säkerhet.
 help-button-label = Support { -brand-short-name }
 addons-button-label = Utökningar & Teman
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Sidorna du besöker mest
 
 home-prefs-recommended-by-header =
     .label = Rekommenderas av { $provider }
-home-prefs-recommended-by-description = Bra innehåll från hela webben, anpassat för dig
 home-prefs-recommended-by-description-update = Exceptionellt innehåll från hela internet, sammanställt av { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Visa sökförslag före surfhistoriken i adressfältets resultat
 search-show-suggestions-private-windows =
     .label = Visa sökförslag i privata fönster
-suggestions-addressbar-settings = Ändra inställningar för surfhistorik, bokmärken och flikförslag
 suggestions-addressbar-settings-generic = Ändra inställningar för andra förslag i adressfältet
 search-suggestions-cant-show = Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat { -brand-short-name } att aldrig spara historik.
 search-one-click-header = Sökfältets sökmotorer
