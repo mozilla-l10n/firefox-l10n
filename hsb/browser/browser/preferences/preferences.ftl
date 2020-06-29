@@ -54,6 +54,7 @@ pane-experimental-title = Eksperimenty { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimenty { -brand-short-name }
 pane-experimental-subtitle = Pokročujće z kedźbliwosću
+pane-experimental-search-results-header = Eksperimenty { -brand-short-name }: pokročujće z kedźbliwosću
 pane-experimental-description = Hdyž nastajenja rozšěrjeneje konfiguracije změniće, móže to wukon abo wěstotu { -brand-short-name } wobwliwować.
 help-button-label = Pomoc { -brand-short-name }
 addons-button-label = Rozšěrjenja a drasty
@@ -510,7 +511,6 @@ home-prefs-topsites-description = Sydła, kotrež najhusćišo wopytujeće
 
 home-prefs-recommended-by-header =
     .label = Wot { $provider } doporučeny
-home-prefs-recommended-by-description = Wulkotny wobsah z cyłeho weba, wubrany specielnje za was
 home-prefs-recommended-by-description-update = Wurjadny wobsah z cyłeho weba, wubrany wot { $provider }
 
 ##
@@ -576,7 +576,6 @@ search-show-suggestions-above-history-option =
     .label = Pytanske namjety před přehladowanskej historiju we wuslědkach adresoweho pola pokazać
 search-show-suggestions-private-windows =
     .label = Pytanske namjety w priwatnych woknach pokazać
-suggestions-addressbar-settings = Wubjerće nastajenja za přehladowansku historiju, zapołožki a rajtarkowe namjety
 suggestions-addressbar-settings-generic = Nastajenja za druhe namjety adresoweho pola změnić
 search-suggestions-cant-show = Pytanske namjety njebudu so we wuslědkach adresoweho pola pokazać, dokelž sće { -brand-short-name } tak konfigurował, zo sej ženje historiju njespomjatkuje.
 search-one-click-header = Pytawy z jednym kliknjenjom
