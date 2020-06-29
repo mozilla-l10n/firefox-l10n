@@ -69,16 +69,16 @@ connection-proxy-reload =
     .accesskey = e
 connection-proxy-autologin =
     .label = Не питај за аутентификацију ако је лозинка сачувана
-    .accesskey = Н
+    .accesskey = i
     .tooltip = Ова опција потврђује веродостојност проксија када имате сачуване акредитиве за њих. Приказаће се порука ако је аутентификација неуспешна.
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS када се користи SOCKS v5
     .accesskey = D
 connection-dns-over-https =
     .label = Омогући DNS путем HTTPS
-    .accesskey = О
+    .accesskey = b
 connection-dns-over-https-url-resolver = Користи достављача
-    .accesskey = т
+    .accesskey = P
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
@@ -86,6 +86,6 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Користите подразумевани URL за разрешавање DNS-а преко HTTPS-а
 connection-dns-over-https-url-custom =
     .label = Прилагођено
-    .accesskey = П
+    .accesskey = C
     .tooltiptext = Унесите жељену адресу за разрешавање DNS-a преко HTTPS-а
 connection-dns-over-https-custom-label = Прилагођено
