@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Приватно прегледање)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Приватно прегледање)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Приватно прегледање)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Приватно прегледање)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -138,12 +136,10 @@ urlbar-midi-blocked =
     .tooltiptext = Блокирали сте MIDI приступ за овај веб сајт.
 urlbar-install-blocked =
     .tooltiptext = Зауставили сте инсталацију додатка за ову веб локацију.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Уреди ову забелешку ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -164,43 +160,39 @@ page-action-remove-extension =
 
 full-screen-autohide =
     .label = Сакриј алатне траке
-    .accesskey = С
+    .accesskey = H
 full-screen-exit =
     .label = Обустави приказ преко целог екрана
-    .accesskey = ц
+    .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
 
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Овај пут потражи користећи:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Промени поставке претраге
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Промени поставке претраге
-
 search-one-offs-context-open-new-tab =
     .label = Претражи у новом језичку
-    .accesskey = ј
+    .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Постави као подразумевани претраживач
-    .accesskey = т
+    .accesskey = D
 search-one-offs-context-set-as-default-private =
-    .label = Поставите као подразумевани претраживач за приватни Windows
-    .accesskey = П
+    .label = Постави као подразумевани претраживач за приватни Windows
+    .accesskey = P
 
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Прикажи уређивач приликом чувања
-    .accesskey = П
-
+    .accesskey = S
 bookmark-panel-done-button =
     .label = Готово
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -232,7 +224,7 @@ identity-ev-owner-label = Сертификат издан за:
 identity-description-custom-root = Mozilla не препознаје издавача овог сертификата. Можда је додат из вашег оперативног система или од стране администратора. <label data-l10n-name="link">Сазнајте више</label>
 identity-remove-cert-exception =
     .label = Уклони изузетак
-    .accesskey = и
+    .accesskey = R
 identity-description-insecure = Веза до овог сајта није приватна. Информације које шаљете могу бити прочитане од стране других (као што су лозинке, поруке, кредитне картице, итд.).
 identity-description-insecure-login-forms = Информације за пријаву које сте унели на овој страницу нису сигурне и могу бити угрожене.
 identity-description-weak-cipher-intro = Веза до овог сајта користи слабо шифровање и није приватна.
@@ -247,10 +239,10 @@ identity-learn-more =
     .value = Сазнајте више
 identity-disable-mixed-content-blocking =
     .label = Онемогући заштиту за сада
-    .accesskey = н
+    .accesskey = D
 identity-enable-mixed-content-blocking =
     .label = Омогући заштиту
-    .accesskey = О
+    .accesskey = E
 identity-more-info-link-text =
     .label = Више информација
 
@@ -269,20 +261,17 @@ browser-window-close-button =
 
 popup-select-camera =
     .value = Камера за дељење:
-    .accesskey = К
+    .accesskey = C
 popup-select-microphone =
     .value = Микрофон за дељење:
-    .accesskey = М
+    .accesskey = M
 popup-all-windows-shared = Сви видљиви прозори на екрану ће бити подељени.
-
 popup-screen-sharing-not-now =
     .label = Не сада
-    .accesskey = с
-
+    .accesskey = w
 popup-screen-sharing-never =
     .label = Немој никада
-    .accesskey = Н
-
+    .accesskey = N
 popup-silence-notifications-checkbox = Онемогућите обавештења од { -brand-short-name }-а током дељења
 popup-silence-notifications-checkbox-warning = { -brand-short-name } неће приказивати обавештења док делите.
 
@@ -299,7 +288,6 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Да бисте користили пречицу F12, прво отворите DevTools преко Web Developer менија.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -312,11 +300,9 @@ urlbar-permissions-granted =
     .tooltiptext = Дали сте овој страници додатне дозволе.
 urlbar-switch-to-tab =
     .value = Премести на језичак:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Екстензија:
-
 urlbar-go-button =
     .tooltiptext = Приказ адресе уписане у траку за адресе
 urlbar-page-action-button =
