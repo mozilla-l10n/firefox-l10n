@@ -13,7 +13,7 @@
 
 <!ENTITY  filter.placeholder          "Tikanöx">
 
-<!ENTITY saveTo.label                 "Keyak taq yakb'äl pa">
+<!ENTITY saveTo.label                 "Keyak yakb'äl pa">
 <!ENTITY saveTo.accesskey             "y">
 <!ENTITY alwaysAsk.label              "Jantape' tik'utüx pe chwe akuchi' yeyak wi kan ri taq yakb'äl">
 <!ENTITY alwaysAsk.accesskey          "J">

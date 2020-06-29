@@ -282,7 +282,7 @@ action-column-label =
     .label = B'anoj
     .accesskey = B
 save-to-label =
-    .label = Keyak taq yakb'äl pa
+    .label = Keyak yakb'äl pa
     .accesskey = y
 choose-folder-label =
     .label =
@@ -636,6 +636,9 @@ chat-variant-label =
 chat-header-label =
     .label = Tik'ut Jub'i'aj
     .accesskey = J
+
+## Preferences UI Search Results
+
 
 ## Preferences UI Search Results
 
