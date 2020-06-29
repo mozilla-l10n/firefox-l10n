@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Осы сөздердің мәтіннен келесі табылуын іздеу
 findbar-previous =
     .tooltiptext = Осы сөздердің мәтіннен алдыңғы табылуын іздеу
-
 findbar-find-button-close =
     .tooltiptext = Іздеу панелін жабу
-
 findbar-highlight-all2 =
     .label = Барлығын түспен ерекшелеу
     .accesskey =
@@ -21,17 +19,14 @@ findbar-highlight-all2 =
            *[other] а
         }
     .tooltiptext = Сөз тіркесінің барлық кездесулерін түспен ерекшелеу
-
 findbar-case-sensitive =
     .label = Регистрді ескеру
     .accesskey = и
     .tooltiptext = Регистрді ескеріп іздеу
-
 findbar-match-diacritics =
-    .label = Диакритиканы ескерту
+    .label = Диакритиканы ескеру
     .accesskey = и
     .tooltiptext = Акценті бар әріптер және олардың базалық әріптер арасындағы айырмашылықты ескеріп іздеу (мысалы, "resume" сөзі ізделген кезде, "résumé" табылмайды)
-
 findbar-entire-word =
     .label = Сөздер толығымен
     .accesskey = т
