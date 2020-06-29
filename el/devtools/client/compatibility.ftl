@@ -10,7 +10,9 @@ compatibility-all-elements-header = Όλα τα ζητήματα
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-deprecated = (παρωχημένο)
 compatibility-issue-experimental = (πειραματικό)
+compatibility-issue-deprecated-experimental = (παρωχημένο, πειραματικό)
 
 ## Messages used as labels and titles for buttons in the footer
 
