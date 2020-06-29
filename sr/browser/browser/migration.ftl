@@ -88,10 +88,27 @@ imported-edge-reading-list = Листа за читање (из Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Колачићи
+browser-data-cookies-label =
+    .value = Колачићи
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Историја прегледања и обележивачи
+           *[other] Историја прегледања
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Историја прегледања и обележивачи
+           *[other] Историја прегледања
+        }
 browser-data-session-checkbox =
     .label = Прозори и језичци
 browser-data-session-label =
