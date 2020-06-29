@@ -14,7 +14,10 @@ extensions-name = B'i'aj
 extensions-enabled = Tzijon
 extensions-version = Ruwäch
 extensions-id = ID
+support-addons-title = Taq tz'aqat
 support-addons-name = B'i'aj
+support-addons-type = Ruwäch
+support-addons-enabled = Tzijon
 support-addons-version = Ruwäch
 support-addons-id = ID
 security-software-title = Software de seguridad
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Tijaq yakwuj
        *[other] Tijaq ri cholb'äl
     }
+experimental-features-title = Soltojtob'enel taq Rub'anikil
+experimental-features-name = B'i'aj
+experimental-features-value = Retal
 modified-key-prefs-title = K'exon nimaläj taq ajowanïk
 modified-prefs-name = B'i'aj
 modified-prefs-value = Retal

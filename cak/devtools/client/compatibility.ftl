@@ -18,10 +18,16 @@ compatibility-issue-deprecated-experimental = (ojer, tojtob'äl)
 
 compatibility-settings-button-label = Taq runuk'ulem
 compatibility-settings-button-title =
-    .title = Taq nuk'ulem
+    .title = Taq runuk'ulem
+compatibility-feedback-button-label = Ya'oj na'oj
+compatibility-feedback-button-title =
+    .title = Ya'oj na'oj
 
 ## Messages used as headers in settings pane
 
+compatibility-settings-header = Taq runuk'ulem
 
 ##
 
+compatibility-close-settings-button =
+    .title = Ketz'apïx taq runuk'ulem
