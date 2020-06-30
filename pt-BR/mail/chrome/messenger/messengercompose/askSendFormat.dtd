@@ -5,9 +5,9 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "Mensagem com formatação">
 
-<!ENTITY recipient.label "Esta mensagem contém formatação. Alguns dos destinatários podem não conseguir abrí-la corretamente.">
+<!ENTITY recipient.label "Alguns dos destinatários não estão listados como sendo capazes de receber email em HTML.">
 
-<!ENTITY question.label "Deseja efetuar alguma conversão?">
+<!ENTITY question.label "Quer converter a mensagem para texto sem formatação, ou enviar em HTML mesmo?">
 
 <!ENTITY plainTextAndHtml.label "Enviar junto uma versão sem formatação">
 <!ENTITY plainTextAndHtml.accesskey "n">
