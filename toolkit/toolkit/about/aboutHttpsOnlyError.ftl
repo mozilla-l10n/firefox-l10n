@@ -13,6 +13,7 @@ about-httpsonly-title = { -brand-short-name } 检测到潜在的安全问题
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable = 您正在以纯 HTTPS 模式浏览，但 <em>{ $websiteUrl }</em> 无法提供安全的 HTTPS 版本。
+about-httpsonly-explanation-question = 可能是什么原因造成的？
 about-httpsonly-explanation-nosupport = 该网站很可能根本不支持 HTTPS。
 about-httpsonly-button-accept-and-continue = 接受风险并继续
 about-httpsonly-button-go-back = 返回
