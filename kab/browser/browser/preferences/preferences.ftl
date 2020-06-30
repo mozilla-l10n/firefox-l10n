@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } Tirma
 category-experimental =
     .tooltiptext = { -brand-short-name } Tirma
 pane-experimental-subtitle = Kemmel, maca ɣur-k.
+pane-experimental-search-results-header = { -brand-short-name } Tirma: ddu kan s leεqel
 pane-experimental-description = Abeddel n yismenyifen n twila leqqayen zemren ad ḥazen tamlellit neɣ taɣellist n { -brand-short-name }.
 help-button-label = { -brand-short-name } Tallelt
 addons-button-label = Isiɣzaf akked yisental
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Ismal i tettwaliḍ aṭas
 
 home-prefs-recommended-by-header =
     .label = Iwelleh-it-id { $provider }
-home-prefs-recommended-by-description = Agbur meqqren seg umaḍal, yettwag i kečč
 home-prefs-recommended-by-description-update = Agbur yelhan i yettwafen deg Web sɣur { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Sken-d asumer n unadi uqbel azraynn tunigin deg ugemmuḍ deg ufeggag n tansa
 search-show-suggestions-private-windows =
     .label = Sken isumar n unadi deg isfuyla n tunigin tusligin
-suggestions-addressbar-settings = Beddel ismenyifen i uzray n tunigin, ticraḍ n yisebtar akked isumar n yiccaren
 suggestions-addressbar-settings-generic = Snifel ismenyifen i yisumar n ufeggag n tansa
 search-suggestions-cant-show = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara azray.
 search-one-click-header = Imseddayen n unadi ara tkecmeḍ s yiwen n usiti
