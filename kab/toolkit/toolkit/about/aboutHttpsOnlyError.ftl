@@ -10,6 +10,10 @@ about-httpsonly-insecure-explanation-reasons = Ahat, asmel web ur isefrak ara HT
 about-httpsonly-insecure-explanation-exception = Γas akken ugur n tɣellist yenqes aṭas, ma yella tenwiḍ ad terzuḍ ɣer lqem HTTP n usmel web, ur ilaq ara ad teskecmeḍ kra seg talɣut tabaḍnit am wawalen uffiren, imaylen neɣ ttfaṣil n tkarḍa n usellek.
 about-httpsonly-button-make-exception = Qbel ugur syen kemmel ɣef usmel
 about-httpsonly-title = { -brand-short-name } Yufa-d yezmer ad yili wugur n tɣellist
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable = Tettinigeḍ deg uskar HTTPS kan, yerna lqem n HTTPS aɣelsan n <em>{ $websiteUrl }</em> ulac-it.
 about-httpsonly-explanation-question = D acu i d-yeglan s wugur-a?
+about-httpsonly-explanation-nosupport = Ahat, asmel web ur isefrak ara s sshala HTTPS.
 about-httpsonly-button-accept-and-continue = Qbel ugur, tkemmleḍ
 about-httpsonly-button-go-back = Uɣal ɣer deffir
