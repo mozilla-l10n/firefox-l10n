@@ -15,6 +15,8 @@
 <!ENTITY name.accesskey "i">
 <!ENTITY email.label "E-naslov:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Odgovori s te identitete, ko glave dostave vsebujejo:">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "E-naslov za odgovor:">
 <!ENTITY replyTo.accesskey "d">
 <!ENTITY replyTo.placeholder "Odgovori prejemnikov bodo šli na ta drugi naslov">
