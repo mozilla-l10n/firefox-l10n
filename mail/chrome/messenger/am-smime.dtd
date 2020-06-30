@@ -13,6 +13,7 @@
 <!ENTITY alwaysEncryptMessage.accesskey "Z">
 <!ENTITY encryptionCert.message "Uporabi to potrdilo za šifriranje in odšifriranje vam poslanih sporočil:">
 
+<!ENTITY e2eIntro.description "Za pošiljanje šifriranih ali digitalno podpisanih sporočil morate nastaviti tehnologijo šifriranja, bodisi OpenPGP bodisi S/MIME.">
 <!ENTITY e2eLearnMore.label "Več o tem">
 
 

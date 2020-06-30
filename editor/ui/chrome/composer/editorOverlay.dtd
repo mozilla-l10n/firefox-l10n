@@ -320,7 +320,9 @@
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSize.label "Velikost pisave">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nastavite velikost pisave">
+<!ENTITY smaller.label "Manjše">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manjša velikost pisave">
+<!ENTITY larger.label "Večje">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Večja velikost pisave">
 <!ENTITY bold.label "Krepko">
 <!ENTITY boldToolbarCmd.tooltip "Krepko">
