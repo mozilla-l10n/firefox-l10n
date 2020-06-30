@@ -208,6 +208,7 @@
 <!ENTITY alignJustify.tooltip "Zarovnať obojstranne">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Umiestnenie">
 <!ENTITY layer.tooltip "Vrstva">
 <!ENTITY decreaseZIndex.label "Preniesť dozadu">
 <!ENTITY layerSendToBack.tooltip "Preniesť dozadu">
