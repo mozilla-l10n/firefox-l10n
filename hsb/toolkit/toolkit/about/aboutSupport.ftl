@@ -277,7 +277,7 @@ webgl2-renderer = WebGL 2 - rysowak ćěrjaka
 webgl2-version = WebGL 2 - wersija ćěrjaka
 webgl2-driver-extensions = WebGL 2 - rozšěrjenja ćěrjaka
 webgl2-extensions = WebGL 2 - rozšěrjenja
-blocklisted-bug = W blokowanskej lisćinje znatych problemow dla
+blocklisted-bug = W blokowanskej lisćinje znatych problemow dla&nbsp;
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = programowy zmylk { $bugNumber }
