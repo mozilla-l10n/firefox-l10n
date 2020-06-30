@@ -138,6 +138,21 @@ info-exposed-passwords-found =
         [few] Лозинке су изложене у цурењу података
        *[other] Лозинки је изложено у цурењу података
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Лозинка је изложена међу нерешеним цурењима података
+        [few] Лозинке су изложене међу нерешеним цурењима података
+       *[other] Лозинки је изложено међу нерешеним цурењима података
+    }
+monitor-no-breaches-title = Добре вести!
+monitor-no-breaches-description = Не појављујете се у познатим цурењима података. Ако се то промени, обавестићемо вас.
+monitor-view-report-link = Погледајте извештај
+    .title = Решите цурења података уз { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Решите ваша цурења података
+monitor-breaches-unresolved-description = Након што прегледате детаље о цурењу и предузмете кораке за заштиту ваших података, пропусте можете означити као решене.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
