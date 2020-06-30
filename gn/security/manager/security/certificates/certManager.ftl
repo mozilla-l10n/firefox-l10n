@@ -125,13 +125,13 @@ exception-mgr-cert-status-view-cert =
 exception-mgr-permanent =
     .label = Eñongatu ko oĩ'ỹva tapiaite g̃uarãva
     .accesskey = P
-pk11-bad-password = Pe ñe'ẽñemi emoingéva ndoikói.
-pkcs12-decode-err = Jejavy embopapapy'okuévo pe marandurenda. Térã oĩhína PKCS #12 ysajápe, térã hekovai, térã pe ñe'ẽñemi oñeme'ẽmbyre ndoikói.
+pk11-bad-password = Pe ñe’ẽñemi emoingéva ndoikói.
+pkcs12-decode-err = Jejavy embopapapy’okuévo pe marandurenda. Térã oĩhína PKCS #12 ysajápe, térã hekovai, térã pe ñe’ẽñemi oñeme’ẽmbyre ndoikói.
 pkcs12-unknown-err-restore = Oiko jejavy ojekuaa'ỹva eguerujeysévo PKCS #12 marandurenda.
 pkcs12-unknown-err-backup = Oiko jejavy ojekuaa'ỹva eñongatuguykuévo marandurenda PKCS #12.
 pkcs12-unknown-err = Pe PKCS #12 rembiapo ndoikói ndojekuaái mba'éicha rupípa.
 pkcs12-info-no-smartcard-backup = Ndaikatúi eñongatuguy kuatia mboajepyre oñemboúva mba'e'oka rekorosãrãgui ha'éva kuatia'atã katupyrýva.
-pkcs12-dup-data = Pe mbojepyréva ha ñe'ẽ ñemiguáva oĩmavoi mba'e'oka rekorosãrãme.
+pkcs12-dup-data = Pe mbojepyréva ha ñe’ẽ ñemiguáva oĩmavoi mba’e’oka rekorosãrãme.
 
 ## PKCS#12 file dialogs
 
@@ -168,7 +168,7 @@ delete-ca-cert-impact = Emboguetéramo, térã nderejeroviavéiramo mboajepyrév
 delete-email-cert-title =
     .title = Ñanduti veve mboajepyréva mboguete
 delete-email-cert-confirm = Añetehápe emboguetese umi ñanduti veve mboajepyréva ko'ã tapicha mba'éva?
-delete-email-cert-impact = Emboguéramo ñanduti veve mboajepyréva peteĩ ava mba'éva, ndaikatumo'ãvéima emondo ñe'ẽveve papapýva pe tapichápe.
+delete-email-cert-impact = Emboguéramo ñanduti veve mboajepyréva peteĩ ava mba’éva, ndaikatumo’ãvéima emondo ñe’ẽveve papapýva tapichápe.
 # Used for semi-uniquely representing a cert.
 #
 # Variables:

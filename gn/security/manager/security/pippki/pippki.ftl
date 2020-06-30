@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-quality-meter = Ñe'ẽñemi rekoporã ra'ãha
+password-quality-meter = Ñe’ẽñemi rekoporã ra’ãha
 
 ## Change Password dialog
 
 change-password-window =
-    .title = Ñe'ẽñemi ha'etéva moambue
+    .title = Ñe’ẽñemi ha’etéva moambue
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Mba'e'oka tekorosãrã: { $tokenName }
@@ -18,7 +18,7 @@ change-password-reenter = Ñe’ẽñemi pyahu: (ñemoneĩ):
 ## Reset Password dialog
 
 reset-password-window =
-    .title = Ñe'ẽñemi ha'etéva jeguerujey
+    .title = Ñe’ẽñemi ha’etéva jeguerujey
     .style = width: 40em
 reset-password-button-label =
     .label = Mbojevyjey
@@ -50,13 +50,13 @@ client-auth-cert-details = Mboajepyréva poravopyre mba'emimi:
 ## Set password (p12) dialog
 
 set-password-window =
-    .title = Eiporavo peteĩ ñe'ẽñemi pytyvõrãva mboajepyrévape g̃uarã
+    .title = Eiporavo peteĩ ñe’ẽñemi pytyvõrãva mboajepyrévape g̃uarã
 set-password-message = Mboajepyre ykekoha ñe’ẽñemi emoĩva ko’ápe omo'ãta pe marandurenda ykekoháva emoheñói potaitévape. Emoĩva’erã ko ñe’ẽñemi eguerekokuaa hag̃uáicha pe monguatiapy ykekoháva.
 set-password-backup-pw =
-    .value = Ñe'ẽñemi pytyvõrãva mboajepyréva mba'éva:
+    .value = Ñe’ẽñemi pytyvõrãva mboajepyréva mba’éva:
 set-password-repeat-backup-pw =
-    .value = Ñe'ẽñemi pytyvõrãva mboajepyréva mba'éva (moneĩ):
-set-password-reminder = Mba'eguasúva: nderesaráiramo ñe'ẽñemi pytyvõrãvagui mboajepyréva mba'éva, ndaikatumo'ãi emboguevi ko monguatia pytyvõrãva ag̃amieve. Eñongatu peteĩ tenda hekorosãvape.
+    .value = Ñe’ẽñemi pytyvõrãva mboajepyréva mba’éva (moneĩ):
+set-password-reminder = Mba’eguasúva: nderesaráiramo ñe’ẽñemi pytyvõrãvagui mboajepyréva mba’éva, ndaikatumo’ãi emboguevi monguatia pytyvõrãva ag̃ave. Eñongatu tenda hekorosãvape.
 
 ## Protected Auth dialog
 

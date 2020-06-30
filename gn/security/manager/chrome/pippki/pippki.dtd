@@ -34,14 +34,14 @@
 <!ENTITY pkcs12.setpassword.message  "Mboajepyre ykekoha ñe’ẽñemi emoĩva ko’ápe omo’ãta marandurenda ykekoháva emoheñói potaitévape. Emoĩva’erã ko ñe’ẽñemi eguerekokuaa hag̃uáicha pe monguatiapy ykekoháva.">
 <!ENTITY pkcs12.setpassword.label1 "Ñe’ẽñemi pytyvõrãva mboajepyréva mba’éva:">
 <!ENTITY pkcs12.setpassword.label2 "Ñe’ẽñemi pytyvõrãva mboajepyréva mba’éva (moneĩ):">
-<!ENTITY pkcs12.setpassword.reminder "Mba'eguasúva: nderesaráiramo ñe'ẽñemi pytyvõrãvagui mboajepyréva mba'éva, ndaikatumo'ãi emboguevi ko monguatia pytyvõrãva ag̃amieve. Eñongatu peteĩ tenda hekorosãvape.">
+<!ENTITY pkcs12.setpassword.reminder "Mba’eguasúva: nderesaráirõ ñe’ẽñemi pytyvõrãvagui mboajepyréva mba’éva, ndaikatumo’ãi emboguevi monguatia pytyvõrãva ag̃ave.  Eñongatu tenda hekorosãvape.">
 
 <!ENTITY chooseToken.title  "Ñomongeta mba'e jeporavorãva rehe">
 <!ENTITY chooseToken.message1 "Eiporavo peteĩ mba'e.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "Ejapohína peteĩ ñe'ẽñemi ñemiguáva">
-<!ENTITY createCertInfo.msg1 "Ñe'ẽñemi okakuaáva ñemoheñói… Kóva ikatu hi'are heta aravo'i….">
+<!ENTITY createCertInfo.title "Ejapohína peteĩ ñe’ẽñemi ñemiguáva">
+<!ENTITY createCertInfo.msg1 "Ñe’ẽñemi okakuaáva ñemoheñói… Kóva ikatu hi’are heta aravo'i…">
 <!ENTITY createCertInfo.msg2 "Eha'arõ...">
 
 <!-- Strings for protectedAuth dialog -->
