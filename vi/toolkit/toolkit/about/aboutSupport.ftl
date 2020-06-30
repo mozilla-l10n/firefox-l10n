@@ -106,8 +106,8 @@ a11y-force-disabled = Ngăn các tùy chọn về trợ năng
 a11y-handler-used = Xử lý truy cập được sử dụng
 a11y-instantiator = Trợ năng truy cập
 library-version-title = Phiên bản thư viện
-copy-text-to-clipboard-label = Sao chép văn bản vào clipboard
-copy-raw-data-to-clipboard-label = Sao chép dữ liệu thô vào clipboard
+copy-text-to-clipboard-label = Sao chép văn bản vào bộ nhớ tạm
+copy-raw-data-to-clipboard-label = Sao chép dữ liệu thô vào bộ nhớ tạm
 sandbox-title = Hộp cát
 sandbox-sys-call-log-title = System Call bị từ chối
 sandbox-sys-call-index = #
@@ -189,8 +189,8 @@ crashes-time-days = { $days } ngày trước
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = Tất cả các báo cáo lỗi (bao gồm cả { $reports } báo cáo chưa gửi trong khoảng thời gian đã cho)
-raw-data-copied = Dữ liệu thô đã được sao chép vào bảng tạm
-text-copied = Văn bản đã được sao chép vào bảng tạm
+raw-data-copied = Đã sao chép dữ liệu thô vào bộ nhớ tạm
+text-copied = Đã sao chép văn bản vào bộ nhớ tạm
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 

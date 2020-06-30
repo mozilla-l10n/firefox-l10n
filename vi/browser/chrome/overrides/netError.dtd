@@ -164,7 +164,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle2  "Cảnh báo: Rủi ro bảo mật tiềm ẩn">
 <!ENTITY certerror.sts.pagetitle  "Không kết nối: Sự cố bảo mật tiềm ẩn">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> có chính sách bảo mật được gọi là HTTP Strict Transport Security (HSTS), có nghĩa là &brandShortName; chỉ có thể kết nối với nó một cách an toàn. Bạn không thể thêm ngoại lệ để truy cập trang web này.">
-<!ENTITY certerror.copyToClipboard.label "Sao chép văn bản vào clipboard">
+<!ENTITY certerror.copyToClipboard.label "Sao chép văn bản vào bộ nhớ tạm">
 
 <!ENTITY inadequateSecurityError.title "Kết nối của bạn không an toàn">
 
