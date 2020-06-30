@@ -244,6 +244,7 @@ cfr-whatsnew-better-pdf-body = Kuatiakuéra PDF ko’ág̃a ijurujáma { -brand-
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Ne ñemigua tuichamba’e. { -brand-short-name } ombohape tekorosãme umi ne mba’ejerure DNS ikatu vove peteĩ mba’epuru oñembyatýva nemo’ã hag̃ua eikundaha aja.
 cfr-doorhanger-doh-header = Jehekapy DNS hekorosã ha ipapapýva
 cfr-doorhanger-doh-primary-button = OK, Aikumbýma
     .accesskey = O

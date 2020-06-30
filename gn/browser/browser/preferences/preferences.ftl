@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } Mba’epyahu
 category-experimental =
     .tooltiptext = { -brand-short-name } Mba’epyahu
 pane-experimental-subtitle = Ejapóke mbeguekatu
+pane-experimental-search-results-header = { -brand-short-name } Mba’epyahu: Ejapo mbeguekatu
 pane-experimental-description = Iñambuévo umi eguerohoryvéva ñemboheko ombyaikuaa { -brand-short-name } rembiapokue ýrõ hekorosã.
 help-button-label = { -brand-short-name } mombytaha
 addons-button-label = Jepysokue ha téma

@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Ñemiguáva ñemo’ã
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Tereho ne marandu’i ñemiguápe
+appmenuitem-update-banner =
+    .label-update-downloading = Emboguejy { -brand-shorter-name } mbohekopyahu
 appmenuitem-protection-dashboard-title = Ñemo’ãha renda
 appmenuitem-customize-mode =
     .label = Ñemomba’e…
