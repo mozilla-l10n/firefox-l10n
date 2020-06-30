@@ -125,6 +125,11 @@ about-logins-copy-password-os-auth-dialog-message-win = Evit eilañ ho ker-treme
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = eilañ ar ger-tremen enrollet
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Evit ezporzhiañ ho titouroù kennaskañ, enankit ho titouroù Windows. Sikour a ra da wareziñ diogelroez ho kontoù.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = ezporzhiañ an titouroù kennaskañ enrollet
 
 ## Master Password notification
 
@@ -159,6 +164,9 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Dilemel an titour kennaskañ-mañ?
 confirm-delete-dialog-message = N'haller ket dizober kement-se.
 about-logins-confirm-remove-dialog-confirm-button = Dilemel
+about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
+about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c'hallo bezañ lennet gant an holl a c'hall digeriñ ar restr ezporzhiet.
+about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…
 confirm-discard-changes-dialog-title = Dilezel ar c'hemmoù n'int ket bet enrollet?
 confirm-discard-changes-dialog-message = An holl c'hemmoù n'int ket bet enrollet a vo kollet.
 confirm-discard-changes-dialog-confirm-button = Dilezel
@@ -194,3 +202,16 @@ about-logins-error-message-default = Degouezhet ez eus bet ur fazi en ur glask e
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Ezporzhiañ ar restr titouroù kennaskañ
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Ezporzhiañ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Teul CSV
+       *[other] Restr CSV
+    }
