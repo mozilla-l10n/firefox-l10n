@@ -26,4 +26,4 @@ editmenu-delete =
     .accesskey = y
 editmenu-select-all =
     .label = Ticha' Ronojel
-    .accesskey = a
+    .accesskey = R
