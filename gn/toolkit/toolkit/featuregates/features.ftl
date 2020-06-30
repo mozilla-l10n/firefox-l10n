@@ -10,7 +10,9 @@ experimental-features-css-masonry =
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
     .label = WebGPU
+experimental-features-web-gpu-description = API oñeha’ãramóva ta’ãnga ha tembipurupyahu ñandutípe g̃uarã
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-avif =
     .label = AVIF
+experimental-features-avif-description = Pytyvõ oñeha’ãramóva AVIF peg̃uarã: ta’ãnga AV1 marandurenda ysaja

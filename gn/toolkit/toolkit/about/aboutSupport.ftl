@@ -77,6 +77,7 @@ show-dir-label =
         [windows] Ñongatuha ijurujáva
        *[other] Marandurenda'atýpe jeike
     }
+experimental-features-title = Tembiapoite oñeha’ãramóva
 experimental-features-name = Téra
 experimental-features-value = Tepykue
 modified-key-prefs-title = Jerohoryvéva tuichamba'éva moambuepyre
