@@ -62,8 +62,8 @@
 <!ENTITY addon.updateAvailable.label          "업데이트 사용 가능">
 <!ENTITY addon.checkingForUpdates.label       "업데이트 확인…">
 <!ENTITY addon.releaseNotes.label             "출시 정보:">
-<!ENTITY addon.loadingReleaseNotes.label      "읽는 중…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "죄송합니다. 출시 정보를 읽어오는 중에 오류가 발생했습니다.">
+<!ENTITY addon.loadingReleaseNotes.label      "로드 중…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "죄송합니다. 출시 정보를 불러오는 중에 오류가 발생했습니다.">
 
 <!ENTITY addon.createdBy.label                "- ">
 
