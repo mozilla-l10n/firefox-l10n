@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name }-experimenten
 category-experimental =
     .tooltiptext = { -brand-short-name }-experimenten
 pane-experimental-subtitle = Ga voorzichtig verder
+pane-experimental-search-results-header = { -brand-short-name }-experimenten: voorzichtigheid geadviseerd
 pane-experimental-description = Het wijzigen van geavanceerde configuratievoorkeuren kan de prestaties of veiligheid van { -brand-short-name } beïnvloeden.
 help-button-label = { -brand-short-name } Support
 addons-button-label = Extensies & Thema’s
@@ -504,7 +505,6 @@ home-prefs-topsites-description = De websites die u het vaakst bezoekt
 
 home-prefs-recommended-by-header =
     .label = Aanbevolen door { $provider }
-home-prefs-recommended-by-description = Geweldige inhoud van het web, gepersonaliseerd voor u
 home-prefs-recommended-by-description-update = Uitzonderlijke inhoud van het hele internet, samengesteld door { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Zoeksuggesties boven browsergeschiedenis tonen in adresbalkresultaten
 search-show-suggestions-private-windows =
     .label = Zoeksuggesties weergeven in privévensters
-suggestions-addressbar-settings = Voorkeuren voor navigatiegeschiedenis, bladwijzers en tabbladsuggesties wijzigen
 suggestions-addressbar-settings-generic = Voorkeuren voor overige adresbalksuggesties wijzigen
 search-suggestions-cant-show = Zoeksuggesties worden niet in locatiebalkresultaten getoond, omdat u { -brand-short-name } hebt geconfigureerd om nooit geschiedenis te onthouden.
 search-one-click-header = Eén-klik-zoekmachines
