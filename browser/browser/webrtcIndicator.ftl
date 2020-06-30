@@ -11,3 +11,13 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - индикатор дељења
+webrtc-sharing-window = Делите прозор друге апликације.
+webrtc-sharing-browser-window = Делите { -brand-short-name }.
+webrtc-sharing-screen = Делите цео ваш екран.
+webrtc-stop-sharing-button = Заустави дељење
+webrtc-microphone-button =
+    .title = Микрофон се дели. Кликните да контролишете дељење.
+webrtc-camera-button =
+    .title = Камера се дели. Кликните да контролишете дељење.
+webrtc-minimize =
+    .title = Смањи индикатор
