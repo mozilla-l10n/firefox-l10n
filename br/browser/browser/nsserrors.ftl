@@ -6,20 +6,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Degouezhet ez eus bet ur fazi e-pad ma oa o kennaskañ ouzh { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Boneg fazi: { $error }
-
-psmerr-ssl-disabled = N'haller ket kennaskañ diarvar rak diweredekaet eo bet ar c'homenad SSL.
-psmerr-ssl2-disabled = N'haller ket kennaskañ diarvar rak ur c'homenad mod SSL kozh hag arvarus a arver al lec'hienn.
-
+psmerr-ssl-disabled = Ne c'haller ket kennaskañ diarvar rak diweredekaet eo bet ar c'homenad SSL.
+psmerr-ssl2-disabled = Ne c'haller ket kennaskañ diarvar rak ur c'homenad mod SSL kozh hag arvarus a arver al lec'hienn.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Degemeret hoc'h eus un testeni didalvoudek.  Kit e darempred gant ardoer an dafariad pe kaser ar postel ha roit dezho an titouroù da heul : 
     
     An hevelep steudriñv eget hini un testeni all skignet gant an aotrouniezh testeniañ zo e-barzh ho testeni. Mar plij, kit da gerc'hat un testeni gant ur steudriñv nevez dibar.
-
 ssl-error-export-only-server = N'haller ket kehentiñ diarvar. N'eo ket skoret an enrinegañ a live uhel gant ho par.
 ssl-error-us-only-server = N'haller ket kehentiñ gant un doare diarvar. Azgoulenn a ra ar par ul live enrinegañ uhel n'eo ket skoret.
 ssl-error-no-cypher-overlap = N'haller ket kehentiñ diarvar gant ar par : n'eus kendreol(ioù) enrinegañ ebet.
@@ -38,8 +34,8 @@ ssl-error-bad-mac-alert = Danevellet ez eus bet ur rineg dilesa eus ur gemennade
 ssl-error-bad-cert-alert = Ar par SSL n'eo ket evit gwiriañ ho testeni.
 ssl-error-revoked-cert-alert = Distaolet eo bet ho testeni gant SSL evel ma oa tennet kuit.
 ssl-error-expired-cert-alert = Distaolet eo bet ho testeni gant ar par SSL evel ma oa diamzeret.
-ssl-error-ssl-disabled = N'haller ket kennaskañ : diweredekaet eo SSL.
-ssl-error-fortezza-pqg = N'haller ket kennaskañ : emañ par SSL en un domani FORTEZZA all.
+ssl-error-ssl-disabled = Ne c'haller ket kennaskañ : diweredekaet eo SSL.
+ssl-error-fortezza-pqg = Ne c'haller ket kennaskañ : emañ par SSL en un domani FORTEZZA all.
 ssl-error-unknown-cipher-suite = Azgoulennet ez eus bet un hedad sifroù SSL dianav.
 ssl-error-no-ciphers-supported = N'eus hedad sifroù ebet bezant ha gweredekaet er goulev-mañ.
 ssl-error-bad-block-padding = Degemeret ez eus bet gant SSL ur varilhadenn gant ul leuniadur fall eus ur bloc'had.

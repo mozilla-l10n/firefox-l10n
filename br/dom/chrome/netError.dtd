@@ -7,7 +7,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "N'haller ket kennaskañ">
+<!ENTITY connectionFailure.title "Ne c'haller ket kennaskañ">
 <!ENTITY connectionFailure.longDesc "<p>Al lec'hienn a hañval bezañ talvoudek, koulskoude n'eo ket ar merdeer evit kennaskañ.</p><ul><li>Ha dihegerz e vefe al lec'hienn evit un nebeud amzer ? Klaskit en-dro diwezhatoc'h.</li><li>N'oc'h ket gouest da verdeiñ war lec'hiennoù all ? Gwiriit kennaskañ hoc'h urzhiataer ouzh ar rouedad.</li><li>Gwaredet eo hoc'h urzhiataer pe ho rouedad gant un tanvoger pe ur proksi ? Arventennoù direizh a rouestl ar merdeiñ marteze.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Dindan strishadurioù emañ ar porzh-mañ">

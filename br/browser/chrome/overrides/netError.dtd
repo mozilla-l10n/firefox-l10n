@@ -14,7 +14,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "N'haller ket kennaskañ">
+<!ENTITY connectionFailure.title "Ne c'haller ket kennaskañ">
 
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
@@ -24,15 +24,13 @@
 
 <!ENTITY dnsNotFound.pageTitle "Dafariad ebet kavet">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmmm. Diaes eo deomp kavout al lec'hienn-mañ.">
-<!ENTITY dnsNotFound.longDesc1 "
-<strong>M'eo reizh ar chomlec'h-mañ, amañ 'zo tri zra all a c'hallfec'h klask ober:</strong>
+<!ENTITY dnsNotFound.title1 "Hum. Diaes eo deomp kavout al lec'hienn-mañ.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Mard eo reizh ar chomlec'h-mañ, ez eus amañ tri zra all a c'hallfec'h klask ober:</strong>
 <ul>
   <li>Klaskit adarre diwezhatoc'h.</li>
   <li>Gwiriit ho kennaskañ kenrouedadel.</li>
   <li>M'emaoc'h kennasket met a-drek d'ur voger-dan, gwiriit hag en deus &brandShortName; an aotre da haeziñ ouzh ar Web.</li>
-</ul>
-">
+</ul>">
 
 <!ENTITY fileNotFound.title "Restr dianav ">
 
@@ -158,7 +156,7 @@ was trying to connect. -->
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "N'haller ket kennaskañ outi ent diarvar">
+<!ENTITY sslv3Used.title "Ne c'haller ket kennaskañ outi ent diarvar">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
