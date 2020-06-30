@@ -15,11 +15,11 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Tikanöx
     .aria-label = Tikanöx
-newtab-search-box-search-the-web-text = Tikanöx pa Ajk'amaya'l
+newtab-search-box-search-the-web-text = Tikanöx pan Ajk'amaya'l
 newtab-search-box-search-the-web-input =
-    .placeholder = Tikanöx pa Ajk'amaya'l
-    .title = Tikanöx pa Ajk'amaya'l
-    .aria-label = Tikanöx pa Ajk'amaya'l
+    .placeholder = Tikanöx pan Ajk'amaya'l
+    .title = Tikanöx pan Ajk'amaya'l
+    .aria-label = Tikanöx pan Ajk'amaya'l
 
 ## Top Sites - General form dialog.
 
