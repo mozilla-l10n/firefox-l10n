@@ -154,7 +154,7 @@ disabled-unsigned-heading =
     .value = Heta moimbaha ojepe’aitéma
 disabled-unsigned-description = Ko'ã moĩmbaha ndojehechajeýi ojepuru hag̃uáicha { -brand-short-name }-pe. Ikatu<label data-l10n-name="find-addons">Myengoviarã juhu</label> térã ejerure mboguatahárape ojehechajey hag̃ua.
 disabled-unsigned-learn-more = Eikuaave oreñeha'ã rehegua ikatu hag̃uáicha roipytyvõ peime hag̃ua jeikekatúpe.
-disabled-unsigned-devinfo = Umi mboguatahára oipotáva moimbaha jehechapyréva ikatu omoñe'ẽve ohóvo ko <label data-l10n-name="learn-more">popeguáva</label>.
+disabled-unsigned-devinfo = Umi mboguatahára oipotáva moimbaha jehechapyréva ikatu omoñe’ẽve ohóvo ko <label data-l10n-name="learn-more">popeguáva</label>.
 plugin-deprecation-description = Oĩpa nderejuhúiva? Sapy'ánte oĩ mba'ejoajurã ndaikatuvéima ojepuru { -brand-short-name } ndive. <label data-l10n-name="learn-more">Jeikuaave.</label>
 legacy-warning-show-legacy = Opaite mba'ejoapyrã jehecha
 legacy-extensions =
@@ -186,12 +186,12 @@ addon-category-theme-title =
 addon-category-plugin = Mba'ejoajurã
 addon-category-plugin-title =
     .title = Mba'ejoajurã
-addon-category-dictionary = Ñe'ẽryru
+addon-category-dictionary = Ñe’ẽryru
 addon-category-dictionary-title =
-    .title = Ñe'ẽryru
-addon-category-locale = Ñe'ẽita
+    .title = Ñe’ẽryru
+addon-category-locale = Ñe’ẽita
 addon-category-locale-title =
-    .title = Ñe'ẽita
+    .title = Ñe’ẽita
 addon-category-available-updates = Ñembohekopyahu eipurukuaáva
 addon-category-available-updates-title =
     .title = Ñembohekopyahu eipurukuaáva

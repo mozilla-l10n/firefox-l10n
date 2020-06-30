@@ -112,7 +112,7 @@ a11y-force-disabled = Jeikekuaa jejoko
 a11y-handler-used = Handler ipurupyréva
 a11y-instantiator = Techapyrã jeikekuaa rehegua
 library-version-title = Arandukaty peteĩchagua
-copy-text-to-clipboard-label = Moñe'ẽrã mbohasa kuatiajokohápe
+copy-text-to-clipboard-label = Moñe’ẽrã mbohasa kuatiajokohápe
 copy-raw-data-to-clipboard-label = mba'ekuaarã hi'akýva mbohasa kuatiajokohápe
 sandbox-title = Sandbox
 sandbox-sys-call-log-title = Ñehenói apopyvusu guive oike'ỹva
@@ -158,12 +158,12 @@ media-capabilities-enumerate = Embopapapy mba’ekuaarã guapyha
 
 intl-title = Mongakuaa & ñemohenda
 intl-app-title = Tembipuru’i ñemboheko
-intl-locales-requested = Ñe'ẽnguéra jerurepyre
-intl-locales-available = Ñe'ẽnguéra ojepurukuaáva
+intl-locales-requested = Ñe’ẽnguéra jerurepyre
+intl-locales-available = Ñe’ẽnguéra ojepurukuaáva
 intl-locales-supported = Ñe’ẽnguéra tembipuru’i rehegua
-intl-locales-default = Ñe'ẽnguéra ijypykuéva
+intl-locales-default = Ñe’ẽnguéra ijypykuéva
 intl-os-title = Apopyvusu oku’éva
-intl-os-prefs-system-locales = Ñe'ẽnguéra apopyvusu rehegua
+intl-os-prefs-system-locales = Ñe’ẽnguéra apopyvusu rehegua
 intl-regional-prefs = Jerohoryvéva tendaguáva
 
 ## Remote Debugging
@@ -217,7 +217,7 @@ pending-reports =
        *[other] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha'ãrõva pe pa'ũ aravo je'epyréva)
     }
 raw-data-copied = Mba'ekuaarã hi'akýva ohasáva kuatiajokohápe
-text-copied = Moñe'ẽrã oñembohasáma kuatiajokohápe
+text-copied = Moñe’ẽrã oñembohasáma kuatiajokohápe
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 

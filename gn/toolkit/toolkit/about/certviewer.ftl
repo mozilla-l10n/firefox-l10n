@@ -30,8 +30,8 @@ certificate-viewer-other-name = Ambue Téra
 certificate-viewer-exponent = Ñe’ẽhára
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Ñe’ẽñemi moambueha aty
-certificate-viewer-key-id = ID ñe'ẽñemi
-certificate-viewer-key-size = Ñe'ẽñemi tuichakue
+certificate-viewer-key-id = ID ñe’ẽñemi
+certificate-viewer-key-size = Ñe’ẽñemi tuichakue
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-locality = Inc. Tendaite
 certificate-viewer-locality = Tenda
