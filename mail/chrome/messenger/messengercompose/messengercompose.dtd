@@ -174,8 +174,8 @@
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY deliveryFormatMenu.label "Formato de entrega">
 <!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Selecionar automaticamente">
-<!ENTITY autoFormatCmd.accesskey "S">
+<!ENTITY autoFormatCmd.label "Detectar automaticamente">
+<!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Sem formatação">
 <!ENTITY plainTextFormatCmd.accesskey "e">
 <!ENTITY htmlFormatCmd.label "Formatação HTML">
@@ -197,8 +197,8 @@
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "Altíssima">
 <!ENTITY highestPriorityCmd.accesskey "s">
-<!ENTITY fileCarbonCopyCmd.label "Guardar uma cópia em">
-<!ENTITY fileCarbonCopyCmd.accesskey "G">
+<!ENTITY fileCarbonCopyCmd.label "Enviar uma cópia para">
+<!ENTITY fileCarbonCopyCmd.accesskey "r">
 <!ENTITY fileHereMenu.label "(Nesta pasta)">
 
 <!-- Tools Menu -->
@@ -210,7 +210,7 @@
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "b">
-<!ENTITY accountManagerCmd2.label "Configurações de contas">
+<!ENTITY accountManagerCmd2.label "Configurações da conta">
 <!ENTITY accountManagerCmd2.accesskey "s">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
 <!ENTITY preferencesCmd2.label "Opções">
@@ -221,12 +221,12 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizar">
-<!ENTITY bringAllToFront.label "Trazer Todas para Frente">
+<!ENTITY bringAllToFront.label "Trazer tudo para frente">
 <!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Janela">
 
 <!-- Mail Toolbar -->
-<!ENTITY sendButton.label "Enviar agora">
+<!ENTITY sendButton.label "Enviar">
 <!ENTITY quoteButton.label "Citar">
 <!ENTITY addressButton.label "Contatos">
 <!ENTITY attachButton.label "Anexar">
@@ -245,7 +245,7 @@
 <!ENTITY cutButton.tooltip              "Recortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Colar">
-<!ENTITY printButton.tooltip "Imprimir a mensagem">
+<!ENTITY printButton.tooltip "Imprimir esta mensagem">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
