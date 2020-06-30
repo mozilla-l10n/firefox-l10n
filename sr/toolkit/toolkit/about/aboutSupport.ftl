@@ -17,7 +17,10 @@ extensions-name = Назив
 extensions-enabled = Укључен
 extensions-version = Издање
 extensions-id = ID
+support-addons-title = Додаци
 support-addons-name = Назив
+support-addons-type = Тип
+support-addons-enabled = Омогућено
 support-addons-version = Издање
 support-addons-id = ID
 security-software-title = Безбедносни софтвер
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] Отвори фасциклу
        *[other] Отвори фасциклу
     }
+experimental-features-title = Експерименталне функције
+experimental-features-name = Назив
+experimental-features-value = Вредност
 modified-key-prefs-title = Важне измењене поставке
 modified-prefs-name = Назив
 modified-prefs-value = Вредност
