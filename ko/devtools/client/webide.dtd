@@ -92,7 +92,7 @@
 <!-- New App -->
 <!ENTITY newAppWindowTitle "새 앱">
 <!ENTITY newAppHeader "템플릿 선택">
-<!ENTITY newAppLoadingTemplate "템플릿을 읽어들이는 중…">
+<!ENTITY newAppLoadingTemplate "템플릿 로드 중…">
 <!ENTITY newAppProjectName "프로젝트 이름:">
 
 
