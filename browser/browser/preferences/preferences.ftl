@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } Тәжірибелері
 category-experimental =
     .tooltiptext = { -brand-short-name } Тәжірибелері
 pane-experimental-subtitle = Абайлап жалғастырыңыз
+pane-experimental-search-results-header = { -brand-short-name } тәжірибелері: Абайлап жалғастырыңыз
 pane-experimental-description = Кеңейтілген баптауларды өзгерту { -brand-short-name } өнімділік немесе қауіпсіздігіне әсерін тигізуі мүмкін.
 help-button-label = { -brand-short-name } қолдауы
 addons-button-label = Кеңейтулер және темалар
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Сіз жиі шолатын сайттар
 
 home-prefs-recommended-by-header =
     .label = Ұсынушы { $provider }
-home-prefs-recommended-by-description = Бүкіл Интернеттен алынған тамаша контент, талғамыңызға сай таңдалған
 home-prefs-recommended-by-description-update = Интернеттен қызық материалдар, { $provider } жинаған
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Адрестік жолақ нәтижелерінде іздеу ұсыныстарын шолу тарихының алдында көрсету
 search-show-suggestions-private-windows =
     .label = Іздеу жүйелерінің ұсыныстарын жекелік терезелерінде көрсету
-suggestions-addressbar-settings = Шолу тарихы, бетбелгілер және беттер ұсыныстары үшін баптауларды өзгерту
 suggestions-addressbar-settings-generic = Адрестік жолақ үшін басқа ұсыныстар баптауларын өзгерту
 search-suggestions-cant-show = Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз { -brand-short-name } өнімін тарихты есте сақтамайтындай етіп баптадыңыз.
 search-one-click-header = Бірлік шертумен іздеу қызметтері
