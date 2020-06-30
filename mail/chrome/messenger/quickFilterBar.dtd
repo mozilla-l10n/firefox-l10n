@@ -34,6 +34,8 @@
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
+         "Alternar la barra de filtro rápido">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -84,26 +86,36 @@
      include messages from contacts in one of the user's non-remote address
      books.
      -->
+<!ENTITY quickFilterBar.inaddrbook.tooltip
+         "Mostrar solo mensajes de personas en tu libreta de direcciones">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+<!ENTITY quickFilterBar.tags.label
+         "Etiquetas">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+<!ENTITY quickFilterBar.tags.tooltip
+         "Mostrar solo mensajes con etiquetas">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
+<!ENTITY quickFilterBar.attachment.label
+         "Adjunto">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
+<!ENTITY quickFilterBar.attachment.tooltip
+         "Mostrar solo mensajes con archivos adjuntos">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -119,6 +131,8 @@
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
+<!ENTITY quickFilterBar.resultsLabel.none
+         "Sin resultados">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
@@ -160,6 +174,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.label "Cualquiera de">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
@@ -193,34 +208,45 @@
      tag sub-bar wants as much space as possible.  (Overflow is handled by an
      arrow scroll box.)
      -->
+<!ENTITY quickFilterBar.textFilter.explanation.label
+         "Filtrar mensajes por:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.sender.label
+         "Remitente">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.recipients.label
+         "Destinatarios">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.subject.label
+         "Asunto">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.body.label
+         "Contenido">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch
+         "Continuar esta búsqueda en todas las carpetas">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
-
