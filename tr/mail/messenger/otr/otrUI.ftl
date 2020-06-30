@@ -21,6 +21,9 @@ buddycontextmenu-label = OTR parmak izi ekle
 alert-start = { $name } adlı kişiyle şifrelenmiş görüşme başlatılıyor.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+alert-refresh = { $name } adlı kişiyle şifrelenmiş görüşme yenileniyor.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = { $name } adlı kişiyle şifrelenmiş görüşme sona erdi.
 state-not_private = Bu görüşme gizli değil.
 # Variables:

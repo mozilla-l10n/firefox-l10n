@@ -14,6 +14,7 @@ auth-your-fp-value = { $own_name } için parmak izi:
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = { $their_name } için parmak izi:
+auth-help = Bir kişinin kimliğini doğrulamak, görüşmenin gerçekten özel olmasını sağlar ve üçüncü bir kişinin konuşmayı gizlice dinlemesini veya manipüle etmesini çok zorlaştırır.
 auth-helpTitle = Doğrulama yardımı
 auth-questionReceived = Karşı tarafın sorduğu soru:
 auth-yes =
