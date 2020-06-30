@@ -28,7 +28,7 @@
 <!ENTITY retentionKeepAll.accesskey "e">
 <!ENTITY retentionKeepRecent.label "Dileu pob un heblaw'r mwyaf diweddar">
 <!ENTITY retentionKeepRecent.accesskey "i">
-<!ENTITY retentionApplyToFlagged.label "Cadw negeseuon serennog bob amser">
+<!ENTITY retentionApplyToFlagged.label "Cadw negeseuon serennog bob tro">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 <!ENTITY nntpRemoveMsgBody.label "Tynnu corff neges mwy na">
 <!ENTITY nntpRemoveMsgBody.accesskey "c">
