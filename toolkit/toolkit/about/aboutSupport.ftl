@@ -14,7 +14,10 @@ extensions-name = Имя
 extensions-enabled = Включено
 extensions-version = Версия
 extensions-id = ID
+support-addons-title = Дополнения
 support-addons-name = Имя
+support-addons-type = Тип
+support-addons-enabled = Включено
 support-addons-version = Версия
 support-addons-id = ID
 security-software-title = Программы обеспечения безопасности
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Открыть папку
        *[other] Открыть каталог
     }
+experimental-features-title = Экспериментальные возможности
+experimental-features-name = Название
+experimental-features-value = Значение
 modified-key-prefs-title = Важные изменённые настройки
 modified-prefs-name = Имя
 modified-prefs-value = Значение

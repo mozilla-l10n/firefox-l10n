@@ -247,3 +247,10 @@ cfr-whatsnew-protections-icon-alt = Значок щита
 
 cfr-whatsnew-better-pdf-header = Улучшена работа с PDF
 cfr-whatsnew-better-pdf-body = Документы PDF теперь можно открывать прямо в { -brand-short-name }, что ускоряет доступ к ним во время работы.
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = OK, понятно
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Отключить
+    .accesskey = ю
