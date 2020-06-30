@@ -34,4 +34,4 @@ text-action-select-all =
     .label = Ticha' Ronojel
     .accesskey = R
 text-action-select-all-shortcut =
-    .key = R
+    .key = A
