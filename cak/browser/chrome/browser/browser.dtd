@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksSidebar.label         "Tewüx ri Ajxikin Kipas taq Yaketal">
 <!ENTITY viewBookmarksToolbar.label         "Titz'et rukatz'ik taq yaketal">
 <!ENTITY hideBookmarksToolbar.label         "Tewüx ri Kikajtz'ik taq Yaketal">
-<!ENTITY searchBookmarks.label              "Kekanöx taq yaketal">
+<!ENTITY searchBookmarks.label              "Kekanöx Yaketal">
 <!ENTITY bookmarkingTools.label             "Taq kisamajib'al ri yakoj etal">
 <!ENTITY addBookmarksMenu.label             "Titz'aqatisäx Kik'utsamaj taq Yaketal pa Molsamajib'äl">
 <!ENTITY removeBookmarksMenu.label          "Tiyuj el Kik'utsamaj taq Yaketal pa Molsamajib'äl">
