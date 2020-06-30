@@ -59,6 +59,15 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Затвори вишеструке језичке
     .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Врати затворене језичке
+            [one] Врати затворен језичак
+            [few] Врати затворена језичка
+           *[other] Врати затворених језичака
+        }
+    .accesskey = U
 close-tab =
     .label = Затвори језичак
     .accesskey = ч
