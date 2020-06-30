@@ -33,7 +33,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
-<!ENTITY options.defaultColorUnit.label "Sa'y joja imarãva">
+<!ENTITY options.defaultColorUnit.label "Sa’y joja imarãva">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
@@ -59,7 +59,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
-<!ENTITY options.defaultColorUnit.name "Sa'ykuéra réra">
+<!ENTITY options.defaultColorUnit.name "Sa’ykuéra réra">
 
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
@@ -175,7 +175,7 @@
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Mba’ekuaarã jehechauka Gecko rehegua">
-<!ENTITY options.showPlatformData.tooltip  "Remyandývo poravopyrã marandu ñehesa’ỹijoha JavaScript omoingéta ta’ãnga’i Gecko rehegua">
+<!ENTITY options.showPlatformData.tooltip  "Remyandývo poravopyrã marandu ñehesa’ỹijoha JavaScript omoingéta ta’ãnga’i Gecko platafórmape">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->

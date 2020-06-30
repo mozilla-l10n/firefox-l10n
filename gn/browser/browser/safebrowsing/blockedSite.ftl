@@ -12,7 +12,7 @@ safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ojoko togue oimo�
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ojoko ñandutirogue oimo’ãgui kóva oiméne omohendase tembipuru’i ivaíva mohendahápe, umíva rupive omonda térã omboguekuaa nemba’éva (techapyrã ta’ãnga rerekóva, ñe’ẽñemi, marandu ha viru kuatiatã reipurúva).
 safeb-palm-advisory-desc = Marandu omog̃uahẽva <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Guevi
-safeb-palm-see-details-label = Sa'ikue chauka
+safeb-palm-see-details-label = Sa’ikue chauka
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandu ha’eha <a data-l10n-name='error_desc_link'>tenda oporombotavyséva</a>. Emomarandukuaa <a data-l10n-name='report_detection'>ojejavyha</a> ýrõ <a data-l10n-name='ignore_warning_link'>epena’ỹkuaa kóvare</a> ha eike ko tenda iñag̃ave’ỹvape.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandu ha’eha <a data-l10n-name='error_desc_link'>tenda oporombotavyséva</a>. Emomarandukuaa <a data-l10n-name='report_detection'>ojejavyhague</a>.
 safeb-blocked-phishing-page-learn-more = Eikuaave tenda oporombotavyséva rehegua ha avei physing rehegua ko’ápe <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Eikuaave mba’éichapa { -brand-short-name } nemo’ã Physing ha Malware-gui ko’ápe <a data-l10n-name='firefox_support'>support.mozilla.org</a>.

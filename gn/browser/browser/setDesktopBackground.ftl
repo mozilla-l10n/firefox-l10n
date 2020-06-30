@@ -15,7 +15,7 @@ set-background-preview-unavailable = Jehecha ypy oiko’ỹva
 # Desktop Background settings page.
 set-background-span =
     .label = Span
-set-background-color = Sa'y:
+set-background-color = Sa’y:
 set-background-position = Tendaite:
 set-background-tile =
     .label = Verapy

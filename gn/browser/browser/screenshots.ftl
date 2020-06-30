@@ -4,7 +4,7 @@
 
 screenshots-context-menu = Ejapo mba’erechaha japyhypy
 screenshots-my-shots-button = Che japyhypy
-screenshots-instructions = Embosyryry térã eikutu kuatiaroguépe embasa'y hag̃ua peteĩ tendaguasu. Ejopy ESC eheja hag̃ua.
+screenshots-instructions = Embosyryry térã eikutu kuatiaroguépe embasa’y hag̃ua tendaguasu. Ejopy ESC eheja hag̃ua.
 screenshots-cancel-button = Heja
 screenshots-save-visible-button = Ñongatu hechapy
 screenshots-save-page-button = Kuatiarogue tuichavéva ñongatu

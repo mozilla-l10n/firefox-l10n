@@ -198,7 +198,7 @@ containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Ñe’ẽ ha Mba’ejeguarã
-fonts-and-colors-header = Taity ha sa'ykuéra
+fonts-and-colors-header = Taity ha sa’ykuéra
 default-font = Teñoiha ijypykuéva:
     .accesskey = D
 default-font-size = Tuichakue:
@@ -207,7 +207,7 @@ advanced-fonts =
     .label = Opanungáva…
     .accesskey = A
 colors-settings =
-    .label = Sa'y…
+    .label = Sa’y…
     .accesskey = C
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Moañete

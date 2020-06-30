@@ -37,12 +37,12 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
-options-default-color-unit-label = Sa'y joja imarãva
+options-default-color-unit-label = Sa’y joja imarãva
 options-default-color-unit-authored = Apoháraramo
 options-default-color-unit-hex = Mba’evai
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
-options-default-color-unit-name = Sa'ykuéra réra
+options-default-color-unit-name = Sa’ykuéra réra
 
 ## Style Editor section
 
@@ -101,8 +101,6 @@ options-enable-chrome-tooltip =
     .title = Emyandývo ko poravorã eipurukuaáta hetaiterei tembipuru mboguataháva pe kundaha jereguáva (tembipuru rupi > Web Developer > Browser Toolbox) ha moimbaha mopotĩhápe moimbaha Ñangarekoha guive
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ñemopotĩ okayguáva myandy
-options-enable-remote-tooltip =
-    .title = Emyandývo ko poravopyrã omoneĩta mboguatahára tembiporukuérape omopotĩvo mba’e okaygua Firefox mab’éva, Firefox OS ichagua
 options-enable-remote-tooltip2 =
     .title = Emyandývo ko poravorã omoneĩta ndéve emopotĩvo ko kundahára reko oka guive
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
@@ -119,4 +117,4 @@ options-context-triggers-page-refresh = * Tembiapo ag̃agua añónte, emyenyhẽ
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Mba’ekuaarã jehechauka Gecko rehegua
 options-show-platform-data-tooltip =
-    .title = Remyandývo poravopyrã marandu ñehesa’ỹijoha JavaScript omoingéta ta’ãnga'i Gecko rehegua
+    .title = Remyandývo poravopyrã marandu ñehesa’ỹijoha JavaScript omoingéta ta’ãnga'i Gecko platafórmape

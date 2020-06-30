@@ -150,6 +150,6 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
-<!ENTITY evalFunction.label "Tembiapoite ag̃agua ñehesa'ỹijo">
+<!ENTITY evalFunction.label "Tembiapoite ag̃agua ñehesa’ỹijo">
 <!ENTITY evalFunction.accesskey "T">
 <!ENTITY evalFunction.key "e">
