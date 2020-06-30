@@ -10,7 +10,7 @@
 <!ENTITY pasteCmd.accesskey "E">
 <!ENTITY undoCmd.label "Mboguevi">
 <!ENTITY undoCmd.accesskey "M">
-<!ENTITY selectAllCmd.label "Mbosa'ypa">
+<!ENTITY selectAllCmd.label "Mbosa’ypa">
 <!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY deleteCmd.label "Embogue">
 <!ENTITY deleteCmd.accesskey "E">

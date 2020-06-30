@@ -21,7 +21,7 @@
 <!ENTITY pasteCmd.accesskey        "M">
 <!ENTITY deleteCmd.label           "Mboguete">
 <!ENTITY deleteCmd.accesskey       "M">
-<!ENTITY selectAllCmd.label        "Embosa'ypa">
+<!ENTITY selectAllCmd.label        "Embosa’ypa">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "s">
 
