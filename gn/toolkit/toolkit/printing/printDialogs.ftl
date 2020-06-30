@@ -5,7 +5,7 @@
 print-setup =
     .title = Kuatiarogue ñembohekopyahu
 custom-prompt-title = Ñemomba'epyre…
-custom-prompt-prompt = Emoinge nemoñe'ẽrã mba'etéva myakãha/pýva
+custom-prompt-prompt = Emoinge nemoñe’ẽrã mba’etéva myakãha/pýva
 basic-tab =
     .label = Ysaja ha poravopyrã
 advanced-tab =
