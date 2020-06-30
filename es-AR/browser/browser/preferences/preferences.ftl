@@ -54,6 +54,7 @@ pane-experimental-title = Experimentos { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos { -brand-short-name }
 pane-experimental-subtitle = Proceder con precaución
+pane-experimental-search-results-header = { -brand-short-name } Experimentos: proceder con precaución
 pane-experimental-description = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
 help-button-label = Soporte de { -brand-short-name }
 addons-button-label = Extensiones y temas
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Los sitios que más visita
 
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
-home-prefs-recommended-by-description = El mejor contenido de toda la web, personalizado para usted
 home-prefs-recommended-by-description-update = Contenido excepcional de toda la web  por patrocinado por { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Mostrar sugerencias de búsqueda antes que el historial en los resultados de la barra de direcciones
 search-show-suggestions-private-windows =
     .label = Mostrar sugerencias de búsqueda en pestañas privadas
-suggestions-addressbar-settings = Cambiar las preferencias para el historial de navegación, marcadores y sugerencias de pestañas
 suggestions-addressbar-settings-generic = Cambiar preferencias para otras sugerencias de la barra de direcciones
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Buscadores con un clic
