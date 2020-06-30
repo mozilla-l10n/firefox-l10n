@@ -5,66 +5,50 @@
 permissions-window =
     .title = Nemedennoù
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Chomlec'h al lec'hienn
     .accesskey = C
-
 permissions-block =
     .label = Herzel
     .accesskey = H
-
 permissions-session =
     .label = Aotren evit an estez
     .accesskey = A
-
 permissions-allow =
     .label = Aotren
     .accesskey = A
-
 permissions-site-name =
     .label = Lec'hienn
-
 permissions-status =
     .label = Stad
-
 permissions-remove =
     .label = Lemel kuit al lec'hienn
     .accesskey = L
-
 permissions-remove-all =
     .label = Lemel kuit an holl lec'hiennoù
     .accesskey = h
-
 permissions-button-cancel =
     .label = Nullañ
     .accesskey = N
-
 permissions-button-ok =
     .label = Enrollañ ar c'hemmoù
     .accesskey = E
-
 permissions-autoplay-menu = Dre ziouer evit an holl lec'hiennoù:
-
 permissions-searchbox =
     .placeholder = Klask lec'hiennoù
-
 permissions-capabilities-autoplay-allow =
     .label = Aotren aodio ha video
 permissions-capabilities-autoplay-block =
     .label = Stankañ an aodio
 permissions-capabilities-autoplay-blockall =
     .label = Stankañ an aodio ha video
-
 permissions-capabilities-allow =
     .label = Aotren
 permissions-capabilities-block =
     .label = Herzel
 permissions-capabilities-prompt =
     .label = Goulenn bewech
-
 permissions-capabilities-listitem-allow =
     .value = Aotren
 permissions-capabilities-listitem-block =
@@ -83,7 +67,6 @@ permissions-exceptions-content-blocking-window =
     .title = Nemedennoù - stankadur endalc'had
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Diweredekaet ho peus ar stankadur endalc'had war al lec'hiennoù-mañ.
-
 permissions-exceptions-etp-window =
     .title = Nemedennoù evit ar gwarez heuliañ araokaet.
     .style = { permissions-window.style }
@@ -174,9 +157,9 @@ permissions-site-camera-disable-desc = Herzel a raio al lec'hiennoù ha n'int ke
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
-    .title = Arventennoù - Aotreoù ar mikrofon
+    .title = Arventennoù - Aotreoù ar glevell
     .style = { permissions-window.style }
-permissions-site-microphone-desc = Al lec'hiennoù da heul o deus goulennet haeziñ ho mikro. Gallout a rit despizañ pe lec'hienn a zo aotreet da haeziñ ho mikro. Gallout a rit ivez stankañ goulennoù nevez a c'houlenn haeziñ ho mikro.
+permissions-site-microphone-desc = Al lec'hiennoù da heul o deus goulennet haeziñ ho mikro. Gallout a rit despizañ pe lec'hienn a zo aotreet da haeziñ ho mikro. Gallout a rit ivez stankañ goulennoù nevez a c'houlenn haeziñ ho klevell.
 permissions-site-microphone-disable-label =
-    .label = Stankañ ar goulennoù nevez haeziñ ho mikro
-permissions-site-microphone-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h haeziñ ho mikro. Kement-se a c'hall terriñ keweriusterioù 'zo el lec'hiennoù.
+    .label = Stankañ ar goulennoù nevez haeziñ ho klevell
+permissions-site-microphone-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h haeziñ ho klevell. Kement-se a c'hall terriñ keweriusterioù 'zo el lec'hiennoù.
