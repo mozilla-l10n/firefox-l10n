@@ -172,7 +172,7 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Visualização compacta">
 <!ENTITY compactVersion.accesskey "c">
-<!ENTITY folderPaneBar.label "Barra de Ferramentas do Painel de Pastas">
+<!ENTITY folderPaneBar.label "Barra de ferramentas do painel de pastas">
 <!ENTITY folderPaneBar.accesskey "F">
 
 <!-- Sort Menu -->
@@ -224,27 +224,27 @@
 <!ENTITY threads.accesskey "T">
 <!ENTITY allMsgsCmd.label "Todos">
 <!ENTITY allMsgsCmd.accesskey "T">
-<!ENTITY expandAllThreadsCmd.label "Abrir todos">
-<!ENTITY expandAllThreadsCmd.accesskey "A">
+<!ENTITY expandAllThreadsCmd.label "Expandir todos os tópicos">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Fechar todos">
-<!ENTITY collapseAllThreadsCmd.accesskey "F">
+<!ENTITY collapseAllThreadsCmd.label "Recolher todos os tópicos">
+<!ENTITY collapseAllThreadsCmd.accesskey "R">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Não lidas">
 <!ENTITY unreadMsgsCmd.accesskey "N">
-<!ENTITY threadsWithUnreadCmd.label "Com não lidas">
-<!ENTITY threadsWithUnreadCmd.accesskey "C">
+<!ENTITY threadsWithUnreadCmd.label "Tópicos com não lidas">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Monitorados com não lidas">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "M">
-<!ENTITY ignoredThreadsCmd.label "Ignorados">
-<!ENTITY ignoredThreadsCmd.accesskey "I">
+<!ENTITY ignoredThreadsCmd.label "Tópicos ignorados">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "Cabeçalhos">
 <!ENTITY headersMenu.accesskey "h">
 <!ENTITY headersAllCmd.label "Todos">
 <!ENTITY headersAllCmd.accesskey "T">
-<!ENTITY headersNormalCmd.label "Mais usados">
-<!ENTITY headersNormalCmd.accesskey "M">
+<!ENTITY headersNormalCmd.label "Normal">
+<!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Formatação da mensagem como">
 <!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "HTML original">
@@ -291,7 +291,7 @@
 <!ENTITY searchMailCmd.key "F">
 <!ENTITY glodaSearchCmd.label "Pesquisa global…">
 <!ENTITY glodaSearchCmd.accesskey "G">
-<!ENTITY searchAddressesCmd.label "Pesquisar catálogo…">
+<!ENTITY searchAddressesCmd.label "Pesquisar endereços…">
 <!ENTITY searchAddressesCmd.accesskey "e">
 
 <!-- Go Menu -->
@@ -331,8 +331,8 @@
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Pasta">
 <!ENTITY folderMenu.accesskey "P">
-<!ENTITY goRecentlyClosedTabs.label "Reabrir aba">
-<!ENTITY goRecentlyClosedTabs.accesskey "b">
+<!ENTITY goRecentlyClosedTabs.label "Abas fechadas recentemente">
+<!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Página inicial">
 <!ENTITY startPageCmd.accesskey "c">
 
@@ -351,14 +351,14 @@
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "R">
-<!ENTITY replySenderCmd.label "Responder ao remetente">
+<!ENTITY replySenderCmd.label "Responder só ao remetente">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd2.label "Responder ao grupo">
 <!ENTITY replyNewsgroupCmd2.accesskey "p">
-<!ENTITY replyToAllMsgCmd.label "Re: Todos">
+<!ENTITY replyToAllMsgCmd.label "Responder a todos">
 <!ENTITY replyToAllMsgCmd.accesskey "T">
 <!ENTITY replyToAllMsgCmd.key "R">
-<!ENTITY replyToListMsgCmd.label "Re: Lista">
+<!ENTITY replyToListMsgCmd.label "Responder à lista">
 <!ENTITY replyToListMsgCmd.accesskey "s">
 <!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Encaminhar">
@@ -379,7 +379,7 @@
 <!ENTITY editTemplateMsgCmd.accesskey "M">
 <!ENTITY newMsgFromTemplateCmd.label "Nova mensagem do modelo">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
-<!ENTITY createFilter.label "Criar filtro para o remetente…">
+<!ENTITY createFilter.label "Criar filtro a partir da mensagem…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Mover para">
 <!ENTITY moveMsgToMenu.accesskey "M">
@@ -389,7 +389,7 @@
 <!ENTITY copyMessageLocation.accesskey "m">
 <!ENTITY copyMsgToMenu.label "Copiar para">
 <!ENTITY copyMsgToMenu.accesskey "p">
-<!ENTITY moveToFolderAgain.label "Mover de novo">
+<!ENTITY moveToFolderAgain.label "Mover novamente">
 <!ENTITY moveToFolderAgain.accesskey "M">
 <!ENTITY moveToFolderAgainCmd.key "M">
 <!ENTITY killThreadMenu.label "Ignorar tópico">
@@ -452,7 +452,7 @@
 <!ENTITY openFeedMessage1.accesskey "b">
 <!ENTITY openFeedWebPage.label "Abrir como página web">
 <!ENTITY openFeedWebPage.accesskey "p">
-<!ENTITY openFeedSummary.label "Abrir resumo">
+<!ENTITY openFeedSummary.label "Abrir como resumo">
 <!ENTITY openFeedSummary.accesskey "r">
 <!ENTITY openFeedWebPageInMP.label "Alternar entre página web e resumo no painel de mensagens">
 <!ENTITY openFeedWebPageInMP.accesskey "A">
@@ -502,9 +502,9 @@
 <!ENTITY deleteJunk.accesskey "x">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY clearRecentHistory.label "Limpar dados de navegação…">
+<!ENTITY clearRecentHistory.label "Limpar histórico recente…">
 <!ENTITY clearRecentHistory.accesskey "L">
-<!ENTITY accountManagerCmd2.label "Configurações de conta">
+<!ENTITY accountManagerCmd2.label "Configurações da conta">
 <!ENTITY accountManagerCmd2.accesskey "s">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
@@ -513,7 +513,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Ferramentas de desenvolvedor">
+<!ENTITY devtoolsMenu.label "Ferramentas de desenvolvimento">
 <!ENTITY devtoolsMenu.accesskey "o">
 <!ENTITY devToolboxCmd.label "Caixa de ferramentas do desenvolvedor">
 <!ENTITY devToolboxCmd.accesskey "T">
