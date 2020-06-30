@@ -183,3 +183,43 @@ monitor-resolve-breaches-link = Решите цурења података
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Пратиоци с друштвених мрежа
+    .aria-label =
+        { $count ->
+            [one] { $count } пратилац с друштвених мрежа ({ $percentage }%)
+            [few] { $count } пратиоца с друштвених мрежа ({ $percentage }%)
+           *[other] { $count } пратилаца с друштвених мрежа ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Вишестранични колачићи-пратиоци
+    .aria-label =
+        { $count ->
+            [one] { $count } вишестранични колачић-пратилац ({ $percentage }%)
+            [few] { $count } вишестранична колачића-пратиоца ({ $percentage }%)
+           *[other] { $count } вишестраничних колачића-пратилаца ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Садржај који се користи за праћење
+    .aria-label =
+        { $count ->
+            [one] { $count } садржај који се користи за праћење ({ $percentage }%)
+            [few] { $count } садржаја која се користе за праћење ({ $percentage }%)
+           *[other] { $count } садржаја који се користи за праћење ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Хватачи отиска
+    .aria-label =
+        { $count ->
+            [one] { $count } хватач отиска ({ $percentage }%)
+            [few] { $count } хватача отисака ({ $percentage }%)
+           *[other] { $count } хватача отисака ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Крипто-рудари
+    .aria-label =
+        { $count ->
+            [one] { $count } крипто-рудар ({ $percentage }%)
+            [few] { $count } крипто-рудара ({ $percentage }%)
+           *[other] { $count } крипто-рудара ({ $percentage }%)
+        }
