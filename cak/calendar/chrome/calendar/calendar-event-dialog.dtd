@@ -87,7 +87,7 @@
 <!ENTITY  event.menu.edit.copy.accesskey                  "C">
 <!ENTITY  event.menu.edit.paste.label                     "Titz'ajb'äx">
 <!ENTITY  event.menu.edit.paste.accesskey                 "b">
-<!ENTITY  event.menu.edit.select.all.label                "Ticha' ronojel">
+<!ENTITY  event.menu.edit.select.all.label                "Ticha' Ronojel">
 <!ENTITY  event.menu.edit.select.all.accesskey            "A">
 
 <!ENTITY  event.menu.view.label                           "Titz'et">
