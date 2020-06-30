@@ -181,3 +181,7 @@ language-name-te = Telugu
 language-name-tg = Tadżycko
 language-name-th = Tajlandyjsko
 language-name-ti = Tigrinia
+language-name-tig = Tigre
+language-name-tk = Turkmyńsko
+language-name-tl = Tagalsko
+language-name-tlh = Klingōńsko
