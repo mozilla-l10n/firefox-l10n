@@ -16,6 +16,12 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge (handelvoù kozh)
+    .accesskey = M
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = B
 import-from-nothing =
     .label = Na enporzhiañ tra ebet
     .accesskey = N
@@ -82,10 +88,21 @@ imported-edge-reading-list = Roll al lennadurioù (diouzh Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Toupinoù
+browser-data-cookies-label =
+    .value = Toupinoù
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Roll istor merdeiñ ha sinedoù
+           *[other] Roll istor merdeiñ
+        }
 browser-data-session-checkbox =
     .label = Prenestroù hag ivinelloù
 browser-data-session-label =

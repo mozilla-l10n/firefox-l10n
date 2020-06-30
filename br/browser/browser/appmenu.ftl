@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Gwarez ar vuhez prevez
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Mont d'ho tanevell war ar vuhez prevez
+appmenuitem-update-banner =
+    .label-update-downloading = O pellgargañ hizivadenn { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Taolenn-stur ar gwarezioù
 appmenuitem-customize-mode =
     .label = Personelaat…
