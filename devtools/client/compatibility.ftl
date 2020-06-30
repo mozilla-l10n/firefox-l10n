@@ -35,9 +35,9 @@ compatibility-target-browsers-header = Целевые браузеры
 #   $number (Number) - The number of nodes where the issue occurred
 compatibility-issue-occurrences =
     { $number ->
-        [one] проблема
-        [few] проблемы
-       *[many] проблем
+        [one] { $number } проблема
+        [few] { $number } проблемы
+       *[many] { $number } проблем
     }
 compatibility-no-issues-found = Проблем с совместимостью не найдено.
 compatibility-close-settings-button =
