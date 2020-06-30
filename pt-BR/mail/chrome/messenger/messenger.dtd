@@ -70,7 +70,7 @@
 <!ENTITY renameFolder.label "Renomear pasta…">
 <!ENTITY renameFolder.accesskey "m">
 <!ENTITY renameFolder.key "VK_F2">
-<!ENTITY compactFolders.label "Condensar pastas">
+<!ENTITY compactFolders.label "Compactar pastas">
 <!ENTITY compactFolders.accesskey "o">
 <!ENTITY emptyTrashCmd.label "Esvaziar lixeira">
 <!ENTITY emptyTrashCmd.accesskey "x">
