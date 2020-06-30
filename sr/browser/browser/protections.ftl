@@ -153,6 +153,25 @@ monitor-view-report-link = Погледајте извештај
     .title = Решите цурења података уз { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Решите ваша цурења података
 monitor-breaches-unresolved-description = Након што прегледате детаље о цурењу и предузмете кораке за заштиту ваших података, пропусте можете означити као решене.
+monitor-manage-breaches-link = Управљајте цурењима података
+    .title = Управљајте цурењима података уз { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Супер! Решили сте сва позната цурења података.
+monitor-breaches-resolved-description = Ако се ваша адреса е-поште нађе у новом цурењуу података, обавестићемо вас.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } од { $numBreaches } пропуста је означен као решен
+        [few] { $numBreachesResolved } од { $numBreaches } је пропуста су означена као решена
+       *[other] { $numBreachesResolved } од { $numBreaches } пропуста је означено као решено
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% завршено
+monitor-partial-breaches-motivation-title-start = Супер за почетак!
+monitor-partial-breaches-motivation-title-middle = Наставите тако!
+monitor-partial-breaches-motivation-title-end = Скоро па готово! Наставите тако.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
