@@ -93,7 +93,51 @@ monitor-title = Припазите на цурење података
 monitor-link = Како функционише
 monitor-header-content-no-account = Уз { -monitor-brand-name } проверите да ли сте били део познатог цурења података и добијајте обавештења о новим цурењима.
 monitor-header-content-signed-in = { -monitor-brand-name } вас упозорава ако су се ваши подаци појавили у познатом цурењу података.
+monitor-sign-up-link = Региструјте се за упозорења о цурењу података
+    .title = Региструјте се на { -monitor-brand-name } за упозорења о цурењу података
 auto-scan = Аутоматски скенирано данас
+monitor-emails-tooltip =
+    .title = Погледајте надгледане адресе е-поште на { -monitor-brand-short-name }-у
+monitor-breaches-tooltip =
+    .title = Погледајте позната цурења података на { -monitor-brand-short-name }-у
+monitor-passwords-tooltip =
+    .title = Погледајте изложене лозинке на { -monitor-brand-short-name }-у
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Адреса е-поште се надгледа
+        [few] Адресе е-поште се надгледају
+       *[other] Адреса е-поште се надгледа
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Познато цурење података је изложило ваше информације
+        [few] Позната цурења података су исложила ваше информације
+       *[other] Познатих цурења података је изложило ваше информације
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Познато цурење података је означено као решено
+        [few] Позната цурења података су означена као решена
+       *[other] Познатих цурења података је означено као решено
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Лозинка је изложена у цурењу података
+        [few] Лозинке су изложене у цурењу података
+       *[other] Лозинки је изложено у цурењу података
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
