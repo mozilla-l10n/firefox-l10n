@@ -546,8 +546,8 @@ certificate-button =
     .label = Kenuk'samajiïx Kiwujil B'i'aj…
     .accesskey = K
 security-devices-button =
-    .label = Kokisaxel taq Jikomal…
-    .accesskey = K
+    .label = Taq Rokisab'al Jikomal…
+    .accesskey = R
 
 ## Chat Tab
 
