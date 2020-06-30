@@ -15,5 +15,6 @@ about-httpsonly-title = { -brand-short-name } 检测到潜在的安全问题
 about-httpsonly-explanation-unavailable = 您正在以纯 HTTPS 模式浏览，但 <em>{ $websiteUrl }</em> 无法提供安全的 HTTPS 版本。
 about-httpsonly-explanation-question = 可能是什么原因造成的？
 about-httpsonly-explanation-nosupport = 该网站很可能根本不支持 HTTPS。
+about-httpsonly-explanation-risk = 也可能是有人正企图攻击您。若您还是决定访问此网站的 HTTP 版本，就不该在网站中输入密码、邮箱或信用卡等敏感信息。
 about-httpsonly-button-accept-and-continue = 接受风险并继续
 about-httpsonly-button-go-back = 返回
