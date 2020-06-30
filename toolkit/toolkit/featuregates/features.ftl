@@ -4,9 +4,14 @@
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-masonry =
+    .label = CSS Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu =
     .label = WebGPU
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-avif =
     .label = AVIF
+experimental-features-avif-description = Deneysel AVIF desteği: AV1 Görüntü Dosyası Biçimi
