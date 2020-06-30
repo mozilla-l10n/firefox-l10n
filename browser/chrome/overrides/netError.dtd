@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "페이지 로딩 문제">
+<!ENTITY loadError.label "페이지 로드 문제">
 <!ENTITY retry.label "다시 시도">
 <!ENTITY returnToPreviousPage.label "뒤로">
 <!ENTITY returnToPreviousPage1.label "뒤로 (권장)">
@@ -190,7 +190,7 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의한 차단">
 
-<!ENTITY cspBlocked.longDesc "<p>이 페이지는 콘텐츠 보안 정책에서 허락하지 않는 방법으로 로딩되어 &brandShortName;가 차단했습니다.</p>">
+<!ENTITY cspBlocked.longDesc "<p>이 페이지는 콘텐츠 보안 정책에서 허락하지 않는 방법으로 로드되어 &brandShortName;가 차단했습니다.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "손상된 콘텐츠 오류">
 
