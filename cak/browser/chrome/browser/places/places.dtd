@@ -78,7 +78,7 @@
 <!ENTITY col.dateadded.label     "Tz'aqatisan">
 <!ENTITY col.lastmodified.label  "Ruk'isib'äl K'exoj">
 
-<!ENTITY historySearch.placeholder  "Tikanöx ri natab'äl">
+<!ENTITY historySearch.placeholder  "Tikanöx natab'äl">
 <!ENTITY bookmarksSearch.placeholder  "Kekanöx yaketal">
 
 <!ENTITY cmd.find.key  "f">

@@ -291,9 +291,9 @@ enable-devtools-popup-description = Richin nokisäx ri F12 chojokem, nab'ey taja
 ## URL Bar
 
 urlbar-default-placeholder =
-    .defaultPlaceholder = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
+    .defaultPlaceholder = Tikanöx o titz'ib'äx ochochib'äl
 urlbar-placeholder =
-    .placeholder = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
+    .placeholder = Tikanöx o titz'ib'äx ochochib'äl
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk
 urlbar-permissions-granted =
