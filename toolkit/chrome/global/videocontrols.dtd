@@ -31,7 +31,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesPresented "제시된 프레임">
 <!ENTITY stats.framesPainted "색상 프레임">
 
-<!ENTITY error.aborted "동영상의 읽기를 중지했습니다.">
+<!ENTITY error.aborted "동영상 로드가 중지되었습니다.">
 <!ENTITY error.network "네트워크 오류로 인해 동영상 재생이 중단되었습니다.">
 <!ENTITY error.decode "파일이 깨져서 동영상을 재생할 수 없습니다.">
 <!ENTITY error.srcNotSupported "동영상 형식 또는 MIME 유형을 지원하지 않습니다.">
