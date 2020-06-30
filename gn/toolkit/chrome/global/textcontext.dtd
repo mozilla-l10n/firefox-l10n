@@ -15,23 +15,23 @@
 <!ENTITY deleteCmd.label "Embogue">
 <!ENTITY deleteCmd.accesskey "E">
 
-<!ENTITY spellAddToDictionary.label "Ñe'ẽryrúre mbojuapy">
+<!ENTITY spellAddToDictionary.label "Ñe’ẽryrúre mbojuapy">
 <!ENTITY spellAddToDictionary.accesskey "o">
-<!ENTITY spellUndoAddToDictionary.label "Emboguevi ñe'ẽryrúre mbojoapy">
+<!ENTITY spellUndoAddToDictionary.label "Emboguevi ñe’ẽryrúre mbojoapy">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Jehai jehechajey">
 <!ENTITY spellCheckToggle.accesskey "g">
-<!ENTITY spellNoSuggestions.label "(Ndaipóri ñe'ẽporã haingatu rehegua)">
-<!ENTITY spellDictionaries.label "Ñe'ẽita">
+<!ENTITY spellNoSuggestions.label "(Ndaipóri ñe’ẽporã haingatu rehegua)">
+<!ENTITY spellDictionaries.label "Ñe’ẽita">
 <!ENTITY spellDictionaries.accesskey "L">
 
 <!ENTITY searchTextBox.clear.label "Mopotĩ">
 
 <!ENTITY fillLoginMenu.label          "Emonyhẽ jeikeha">
 <!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "Emyenyhẽ ñe'ẽñemi">
+<!ENTITY fillPasswordMenu.label       "Emyenyhẽ ñe’ẽñemi">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Emoĩ puruhára réra">
 <!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(Ndaipóri ñe'ẽporã tembiapo ñepyrũ rehegua)">
+<!ENTITY noLoginSuggestions.label     "(Ndaipóri ñe’ẽporã tembiapo ñepyrũ rehegua)">
 <!ENTITY viewSavedLogins.label        "Tenda ñepyrũ ñongatupyréva jehecha">
