@@ -120,6 +120,9 @@ onboarding-mobile-phone-text = Изтеглете { -brand-product-name } за i
 # browser.
 onboarding-mobile-phone-button = Изтеглете мобилен четец
 onboarding-send-tabs-title = Незабавно си изпращайте раздели
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Лесно споделяйте страници между устройствата си, без да се налага да копирате препратки или да напускате четеца.
 onboarding-send-tabs-button = Започнете да изпращате раздели
 onboarding-pocket-anywhere-title = Четете и слушайте навсякъде
 onboarding-pocket-anywhere-button = Опитайте { -pocket-brand-name }
