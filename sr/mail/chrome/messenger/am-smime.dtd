@@ -22,6 +22,10 @@
 
 <!ENTITY e2eTechPref.description "Пожељни начин шифровања:">
 
+<!ENTITY doNotEncrypt.label "Не омогућавај шифровање подразумевано">
+<!ENTITY doNotEncrypt.accesskey "Н">
+<!ENTITY requireEncryptMessage.label "Захтевај шифровање подразумевано">
+<!ENTITY requireEncryptMessage.accesskey "у">
 <!ENTITY digitalSign.certificate.button "Изабери…">
 <!ENTITY digitalSign.certificate.accesskey "И">
 <!ENTITY digitalSign.certificate_clear.button "Очисти">
