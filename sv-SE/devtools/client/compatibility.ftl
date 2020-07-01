@@ -37,3 +37,5 @@ compatibility-issue-occurrences =
        *[other] { $number } händelser
     }
 compatibility-no-issues-found = Inga kompatibilitetsproblem hittades.
+compatibility-close-settings-button =
+    .title = Stäng inställningarna
