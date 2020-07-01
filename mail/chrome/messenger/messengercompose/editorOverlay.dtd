@@ -4,25 +4,12 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY saveCmd.key "S">
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Поставяне неформатирано">
 <!ENTITY pasteNoFormatting.accesskey "ф">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Поставяне като">
-<!ENTITY pasteAs.accesskey "к">
 <!ENTITY pasteAsQuotationCmd.label "Поставяне като цитат">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Търсене…">
-<!ENTITY findReplaceCmd.label "Търсене и замяна…">
-<!ENTITY enableInlineSpellChecker.label "Проверка на правописа при въвеждане">
-<!ENTITY enableInlineSpellChecker.accesskey "П">
-<!ENTITY checkSpellingCmd2.label "Проверка на правописа…">
-<!ENTITY checkSpellingCmd2.accesskey "в">
-<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Вмъкване">
@@ -184,9 +171,6 @@
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Основен текст">
 <!ENTITY bodyTextCmd.accesskey "т">
-<!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Разширени свойства">
-<!ENTITY advancedPropertiesCmd.accesskey "ш">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Подравняване">
@@ -203,11 +187,6 @@
 <!ENTITY alignJustify.label "Двустранно">
 <!ENTITY alignJustify.accesskey "у">
 <!ENTITY alignJustify.tooltip "Двустранно подравняване">
-
-<!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Слой">
-<!ENTITY layerSendToBack.tooltip "На заден план">
-<!ENTITY layerBringToFront.tooltip "На преден план">
 
 <!ENTITY increaseIndent.label "Увеличаване на отстъпа">
 <!ENTITY increaseIndent.accesskey "У">
@@ -282,19 +261,6 @@
 <!ENTITY tableProperties.label "Свойства на таблицата…">
 <!ENTITY tableProperties.accesskey "й">
 
-<!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Лента с менюта">
-<!ENTITY formatToolbar.tooltip "Лента с инструменти за форматиране">
-<!ENTITY cutToolbarCmd.tooltip "Изрязване">
-<!ENTITY copyToolbarCmd.tooltip "Копиране">
-<!ENTITY pasteToolbarCmd.tooltip "Поставяне">
-<!ENTITY printToolbarCmd.label "Отпечатване">
-<!ENTITY printToolbarCmd.tooltip "Отпечатване на страницата">
-<!ENTITY findToolbarCmd.label "Търсене">
-<!ENTITY findToolbarCmd.tooltip "Търсене на текст в страницата">
-<!ENTITY spellToolbarCmd.label "Правопис">
-<!ENTITY spellToolbarCmd.tooltip "Проверка на правописа на маркирания текст или цялата страница">
-
 <!ENTITY imageToolbarCmd.label "Изображение">
 <!ENTITY imageToolbarCmd.tooltip "Вмъкване на ново изображение или редактиране свойствата на избраното изображение">
 <!ENTITY hruleToolbarCmd.label "Хор. линия">
@@ -307,8 +273,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Вмъкване на нова именувана котва или редактиране свойствата на избраната котва">
 <!ENTITY TextColorButton.tooltip "Изберете цвят на текста">
 <!ENTITY BackgroundColorButton.tooltip "Изберете цвят за фона">
-<!ENTITY throbber.tooltip2 "Към страницата на &brandShortName;">
-<!ENTITY HighlightColorButton.tooltip "Изберете цвят на откроения текст">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Задаване размер на шрифта">
@@ -327,14 +291,6 @@
 <!ENTITY alignCenterButton.tooltip "Подравняване в средата">
 <!ENTITY alignRightButton.tooltip "Подравняване на текста към дясната граница">
 <!ENTITY alignJustifyButton.tooltip "Подравняване на текста към лявата и дясната граница">
-
-<!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Избиране">
-<!ENTITY structSelect.accesskey     "И">
-<!ENTITY structRemoveTag.label      "Премахване на етикет">
-<!ENTITY structRemoveTag.accesskey  "м">
-<!ENTITY structChangeTag.label      "Промяна на етикет">
-<!ENTITY structChangeTag.accesskey  "я">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Вмъкване">
