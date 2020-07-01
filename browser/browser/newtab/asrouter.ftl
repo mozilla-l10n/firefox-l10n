@@ -95,6 +95,9 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Какво е новото
 cfr-whatsnew-release-notes-link-text = Прочетете бележките към изданието
 cfr-whatsnew-fx70-title = { -brand-short-name } вече се бори по-отдадено за вашата поверителност
+cfr-whatsnew-fx70-body =
+    Последното издание подобрява способността за защита от проследяване.
+    Вече е по-лесно да създавате с нея сигурни пароли за всеки сайт.
 cfr-whatsnew-tracking-protect-title = Защитете се от проследяване
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } блокира много социални мрежи и уебсайтове, 
@@ -120,6 +123,7 @@ cfr-whatsnew-lockwise-take-link-text = Вземете приложението
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Въвеждайте по-малко, улеснете се с адресната лента
+cfr-whatsnew-searchbar-body-topsites = Сега просто изберете адресната лента и полето ще се разшири с препратки към вашите предпочитани сайтове.
 cfr-whatsnew-searchbar-icon-alt-text = Увеличаваща лупа
 
 ## Picture-in-Picture
@@ -173,6 +177,7 @@ cfr-doorhanger-send-tab-ok-button = Опитайте Send Tab
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Споделете този PDF безопасно
+cfr-doorhanger-firefox-send-body = Пазете чувствителните си документи от любопитни очи с шифроване от край до край и препратка, която изчезва, когато сте готови.
 cfr-doorhanger-firefox-send-ok-button = Изпробвайте { -send-brand-name }
     .accesskey = И
 
@@ -200,16 +205,23 @@ cfr-doorhanger-milestone-ok-button = Показване на всички
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Лесно създавайте сигурни пароли
+cfr-whatsnew-lockwise-icon-alt = Пиктограма на { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Получавайте сигнали за уязвими пароли
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-icon-alt = Икона за картина в картината
 
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-icon-alt = Пиктограма на щит
 
 ## Better PDF message
+
+
+## DOH Message
 
