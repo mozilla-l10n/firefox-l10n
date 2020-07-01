@@ -246,3 +246,11 @@ cfr-whatsnew-protections-icon-alt = Sköldikon
 
 cfr-whatsnew-better-pdf-header = Bättre PDF-upplevelse
 cfr-whatsnew-better-pdf-body = PDF-dokument öppnas nu direkt i { -brand-short-name } och håller ditt arbetsflöde inom räckhåll.
+
+## DOH Message
+
+cfr-doorhanger-doh-header = Säkrare, krypterade DNS-uppslag
+cfr-doorhanger-doh-primary-button = Ok, jag förstår
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Inaktivera
+    .accesskey = I
