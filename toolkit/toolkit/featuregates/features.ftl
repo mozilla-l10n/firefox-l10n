@@ -14,3 +14,4 @@ experimental-features-web-gpu =
 # by various online articles and is technical in nature.
 experimental-features-avif =
     .label = AVIF
+experimental-features-avif-description = Kokeellinen AVIF-tuki: AV1-kuvatiedostomuoto
