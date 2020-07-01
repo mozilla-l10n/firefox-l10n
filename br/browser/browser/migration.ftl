@@ -103,6 +103,42 @@ browser-data-history-checkbox =
             [firefox] Roll istor merdeiñ ha sinedoù
            *[other] Roll istor merdeiñ
         }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Roll istor merdeiñ ha sineoù
+           *[other] Roll istor merdeiñ
+        }
+browser-data-formdata-checkbox =
+    .label = Roll istor ar furmskridoù enrollet
+browser-data-formdata-label =
+    .value = Roll istor ar furmskridoù enrollet
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Titouroù kennaskañ enrollet
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Titouroù kennaskañ enrollet
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Sinedoù
+            [edge] Sinedoù
+           *[other] Sinedoù
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Sinedoù
+            [edge] Sinedoù
+           *[other] Sinedoù
+        }
+browser-data-otherdata-checkbox =
+    .label = Roadennoù all
+browser-data-otherdata-label =
+    .label = Roadennoù all
 browser-data-session-checkbox =
     .label = Prenestroù hag ivinelloù
 browser-data-session-label =
