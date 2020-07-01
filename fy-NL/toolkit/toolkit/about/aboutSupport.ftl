@@ -17,7 +17,10 @@ extensions-name = Namme
 extensions-enabled = Ynskeakele
 extensions-version = Ferzje
 extensions-id = ID
+support-addons-title = Add-ons
 support-addons-name = Namme
+support-addons-type = Type
+support-addons-enabled = Ynskeakele
 support-addons-version = Ferzje
 support-addons-id = ID
 security-software-title = Befeiligingssoftware
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] Map iepenje
        *[other] Map iepenje
     }
+experimental-features-title = Eksperimintele funksjes
+experimental-features-name = Namme
+experimental-features-value = Wearde
 modified-key-prefs-title = Wichtige oanpaste foarkarren
 modified-prefs-name = Namme
 modified-prefs-value = Wearde
