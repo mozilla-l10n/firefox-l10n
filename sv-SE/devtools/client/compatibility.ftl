@@ -6,6 +6,7 @@
 ## Messages used as headers in the main pane
 
 compatibility-selected-element-header = Valt element
+compatibility-all-elements-header = Alla problem
 
 ## Message used as labels for the type of issue
 
@@ -25,6 +26,7 @@ compatibility-feedback-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Inställningar
+compatibility-target-browsers-header = Målwebbläsare
 
 ##
 
