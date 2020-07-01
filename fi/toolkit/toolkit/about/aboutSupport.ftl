@@ -17,7 +17,10 @@ extensions-name = Nimi
 extensions-enabled = Käytössä
 extensions-version = Versio
 extensions-id = ID
+support-addons-title = Lisäosat
 support-addons-name = Nimi
+support-addons-type = Tyyppi
+support-addons-enabled = Käytössä
 support-addons-version = Versio
 support-addons-id = ID
 security-software-title = Tietoturvaohjelmat
@@ -73,6 +76,9 @@ show-dir-label =
         [windows] Avaa kansio
        *[other] Avaa kansio
     }
+experimental-features-title = Kokeelliset ominaisuudet
+experimental-features-name = Nimi
+experimental-features-value = Arvo
 modified-key-prefs-title = Tärkeät muutetut asetukset
 modified-prefs-name = Nimi
 modified-prefs-value = Arvo
