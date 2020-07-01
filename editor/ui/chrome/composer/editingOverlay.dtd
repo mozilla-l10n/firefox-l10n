@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Отвори локалну датотеку">
 <!ENTITY saveToolbarCmd.tooltip "Сачувај датотеку у локално место">
 <!ENTITY publishToolbarCmd.tooltip "Отпреми датотеку у удаљено место">
+<!ENTITY printToolbarCmd.label "Штампај">
+<!ENTITY printToolbarCmd.tooltip "Штампај ову страницу">
