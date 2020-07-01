@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Ћутање">
 <!ENTITY smiley16Cmd.accesskey "т">
 <!ENTITY smiley16Cmd.tooltip "Убаците смајлија који ћути">
+<!ENTITY SmileButton.label "Убаци смајли">
 <!ENTITY SmileButton.tooltip "Убаците смајлија">
-

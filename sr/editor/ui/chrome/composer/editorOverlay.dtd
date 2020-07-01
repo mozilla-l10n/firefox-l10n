@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "и">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Фонт">
 <!ENTITY FontFaceSelect.tooltip "Изабери фонт">
 <!ENTITY fontfaceMenu.label "Фонт">
 <!ENTITY fontfaceMenu.accesskey "Ф">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "К">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Величина фонта">
 <!ENTITY FontSizeSelect.tooltip "Изабери величину фонта">
 <!ENTITY decreaseFontSize.label "Мања">
 <!ENTITY decreaseFontSize.accesskey "М">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Својства списка…">
 <!ENTITY listPropsCmd.accesskey "В">
 
+<!ENTITY ParagraphSelect.title "Пасус">
 <!ENTITY ParagraphSelect.tooltip "Изаберите формат пасуса">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Текст тела">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Поравнај обострано">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Положај">
 <!ENTITY layer.tooltip "Слој">
+<!ENTITY decreaseZIndex.label "Пошаљи у залеђину">
 <!ENTITY layerSendToBack.tooltip "Пошаљи у залеђину">
+<!ENTITY increaseZIndex.label "Врати у прочеље">
 <!ENTITY layerBringToFront.tooltip "Врати у прочеље">
 
 <!ENTITY increaseIndent.label "Повећај увлачење">
@@ -304,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Убаци нову везу или уреди својства изабране везе">
 <!ENTITY anchorToolbarCmd.label "Сидро">
 <!ENTITY anchorToolbarCmd.tooltip "Убаци ново именовано сидро или уреди својства изабраног сидра">
+<!ENTITY colorButtons.title "Боје">
 <!ENTITY TextColorButton.tooltip "Изаберите боју текста">
 <!ENTITY BackgroundColorButton.tooltip "Изаберите боју позадине">
 <!ENTITY throbber.tooltip "Идите на матичну страницу од &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Идите на &brandShortName; почетну страницу">
+<!ENTITY HighlightColorButton.label "Истицање">
 <!ENTITY HighlightColorButton.tooltip "Изаберите боју означавања текста">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Величина фонта">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Постави величину фонта">
+<!ENTITY smaller.label "Мање">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Мања боја фонта">
+<!ENTITY larger.label "Веће">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Већа боја фонта">
+<!ENTITY bold.label "Подебљано">
 <!ENTITY boldToolbarCmd.tooltip "Подебљано">
+<!ENTITY italic.label "Искошено">
 <!ENTITY italicToolbarCmd.tooltip "Искошено">
+<!ENTITY underline.label "Подвучено">
 <!ENTITY underlineToolbarCmd.tooltip "Подвучено">
+<!ENTITY bullets.label "Тачкасти списак">
 <!ENTITY bulletListToolbarCmd.tooltip "Примени или уклони набројани списак">
+<!ENTITY numbers.label "Набројани списак">
 <!ENTITY numberListToolbarCmd.tooltip "Примени или уклони списак означен бројевима">
+<!ENTITY outdent.label "Одвлачење">
 <!ENTITY outdentToolbarCmd.tooltip "Привуци текст (помери улево)">
+<!ENTITY indent.label "Увлачење">
 <!ENTITY indentToolbarCmd.tooltip "Увуци текст (помери удесно)">
+<!ENTITY AlignPopupButton.label "Поравнање">
 <!ENTITY AlignPopupButton.tooltip "Изаберите поравнање текста">
+<!ENTITY InsertPopupButton.label "Убаци">
 <!ENTITY InsertPopupButton.tooltip "Убаците везу, сидро, слику, водоравну линију или табелу">
+<!ENTITY alignLeftButton.label "Поравнај лево">
 <!ENTITY alignLeftButton.tooltip "Поравнај текст уз леву маргину">
+<!ENTITY alignCenterButton.label "Поравнај по средини">
 <!ENTITY alignCenterButton.tooltip "Поравнај текст по средини">
+<!ENTITY alignRightButton.label "Поравнај десно">
 <!ENTITY alignRightButton.tooltip "Поравнај текст уз десну маргину">
+<!ENTITY alignJustifyButton.label "Поравнај обострано">
 <!ENTITY alignJustifyButton.tooltip "Поравнај текст уз леве и десне маргине">
 
 <!-- Structure Toolbar Context Menu items -->
