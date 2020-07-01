@@ -157,6 +157,8 @@ was trying to connect. -->
 
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
 
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата в този контекст, защото тя има политика, която забранява X-Frame-Options.</p>">
+
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърляне на данните.</p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Продължаване въпреки риска">
