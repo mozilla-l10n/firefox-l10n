@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } Experiments
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiments
 pane-experimental-subtitle = Proceed with Caution
+pane-experimental-search-results-header = { -brand-short-name } Experiments: Proceed with Caution
 pane-experimental-description = Changing advanced configuration preferences can impact { -brand-short-name } performance or security.
 help-button-label = { -brand-short-name } Support
 addons-button-label = Extensions & Themes
@@ -504,7 +505,6 @@ home-prefs-topsites-description = The sites you visit most
 
 home-prefs-recommended-by-header =
     .label = Recommended by { $provider }
-home-prefs-recommended-by-description = Great content from around the web, personalised for you
 home-prefs-recommended-by-description-update = Exceptional content from across the web, curated by { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Show search suggestions ahead of browsing history in address bar results
 search-show-suggestions-private-windows =
     .label = Show search suggestions in Private Windows
-suggestions-addressbar-settings = Change preferences for browsing history, bookmarks, and tab suggestions
 suggestions-addressbar-settings-generic = Change preferences for other address bar suggestions
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 search-one-click-header = One-Click Search Engines
