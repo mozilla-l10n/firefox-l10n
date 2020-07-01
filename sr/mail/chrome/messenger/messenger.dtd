@@ -731,6 +731,8 @@
 <!ENTITY idColumn.label "Редослед пријема">
 <!ENTITY attachmentColumn.label "Прилози">
 
+<!ENTITY deleteColumn.label "Обриши">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Изаберите које колоне треба приказати">
 <!ENTITY selectColumn.tooltip "Изаберите/поништите све поруке">
@@ -754,6 +756,8 @@
 <!ENTITY locationColumn2.tooltip "Поређај по месту">
 <!ENTITY idColumn2.tooltip "Поређај по редоследу пријема">
 <!ENTITY attachmentColumn2.tooltip "Поређај по прилозима">
+
+<!ENTITY deleteColumn.tooltip "Обриши поруку">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Нова порука из шаблона">
