@@ -17,7 +17,10 @@ extensions-name = Ime
 extensions-enabled = Vključeno
 extensions-version = Različica
 extensions-id = ID
+support-addons-title = Dodatki
 support-addons-name = Ime
+support-addons-type = Vrsta
+support-addons-enabled = Omogočen
 support-addons-version = Različica
 support-addons-id = ID
 security-software-title = Varnostna programska oprema
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] Odpri mapo
        *[other] Odpri mapo
     }
+experimental-features-title = Poskusne zmožnosti
+experimental-features-name = Ime
+experimental-features-value = Vrednost
 modified-key-prefs-title = Pomembne spremenjene nastavitve
 modified-prefs-name = Ime
 modified-prefs-value = Vrednost

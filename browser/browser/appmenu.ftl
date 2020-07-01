@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Zaščite zasebnosti
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Pojdi na poročilo o zasebnosti
+appmenuitem-update-banner =
+    .label-update-downloading = Prenašanje posodobitve za { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Nadzorna plošča zaščit
 appmenuitem-customize-mode =
     .label = Prilagodi …
