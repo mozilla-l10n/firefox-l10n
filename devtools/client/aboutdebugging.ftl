@@ -47,7 +47,7 @@ about-debugging-sidebar-item-connect-button-connection-failed = Не вдало�
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = З'єднання все ще очікується. Перевірте повідомлення в цільовому браузері
 # Text displayed as connection error in sidebar item when the connection has timed out.
-about-debugging-sidebar-item-connect-button-connection-timeout = Час очікування з’єднання закінчився
+about-debugging-sidebar-item-connect-button-connection-timeout = Перевищено термін очікування з’єднання
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Під'єднано
