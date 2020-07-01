@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Намиране на следващо съвпадение на фразата
 findbar-previous =
     .tooltiptext = Намиране на предишно съвпадение на фразата
+
 findbar-find-button-close =
     .tooltiptext = Затваряне на лентата за търсене
+
 findbar-highlight-all2 =
     .label = Открояване на всички
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] в
         }
     .tooltiptext = Открояване на всички съвпадения на фразата
+
 findbar-case-sensitive =
     .label = Съвпадение на регистъра
     .accesskey = р
     .tooltiptext = Търсене със съвпадение на регистъра на буквите
+
 findbar-match-diacritics =
     .label = Без производни букви
     .accesskey = п
     .tooltiptext = Не се показват производни букви с ударение и други знаци
+
 findbar-entire-word =
     .label = Цели думи
     .accesskey = д

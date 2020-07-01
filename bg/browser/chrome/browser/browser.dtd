@@ -287,9 +287,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показване на историята">
 
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Дали сте допълнителни права на страницата.">
-
-
 <!ENTITY searchItem.title             "Търсене">
 
 <!-- Toolbar items -->
