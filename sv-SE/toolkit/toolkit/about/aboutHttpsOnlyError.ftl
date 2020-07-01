@@ -10,6 +10,11 @@ about-httpsonly-insecure-explanation-reasons = Webbplatsen stöder troligtvis in
 about-httpsonly-insecure-explanation-exception = Även om säkerhetsrisken är låg, om du väljer att besöka HTTP-versionen av webbplatsen, bör du inte ange någon känslig information som lösenord, e-post eller kreditkortsuppgifter.
 about-httpsonly-button-make-exception = Acceptera risken och fortsätt till webbplatsen
 about-httpsonly-title = { -brand-short-name } Upptäckte ett potentiellt säkerhetsproblem
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable = Du surfar i endast HTTPS-läge och en säker HTTPS-version av <em>{ $websiteUrl }</em> är inte tillgänglig.
 about-httpsonly-explanation-question = Vad kan orsaka detta?
+about-httpsonly-explanation-nosupport = Troligtvis stöder webbplatsen helt enkelt inte HTTPS.
+about-httpsonly-explanation-risk = Det är också möjligt att en angripare är involverad. Om du väljer att besöka webbplatsen bör du inte ange någon känslig information som lösenord, e-post eller kreditkortsuppgifter.
 about-httpsonly-button-accept-and-continue = Acceptera risken och fortsätt
 about-httpsonly-button-go-back = Gå tillbaka
