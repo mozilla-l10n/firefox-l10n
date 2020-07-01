@@ -18,7 +18,7 @@
 
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Звернення до даної адреси заборонено">
+<!ENTITY deniedPortAccess.title "Звернення до цієї адреси заборонено">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
