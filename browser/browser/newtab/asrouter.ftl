@@ -250,6 +250,8 @@ cfr-whatsnew-better-pdf-body = Документы PDF теперь можно о
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Ваша приватность имеет значение. Теперь, если это возможно, { -brand-short-name } безопасно перенаправляет ваши DNS-запросы в партнёрскую службу, чтобы защитить вас во время Интернет-сёрфинга.
+cfr-doorhanger-doh-header = Более безопасный, зашифрованный поиск адресов сайтов в DNS
 cfr-doorhanger-doh-primary-button = OK, понятно
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Отключить
