@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "л">
 <!ENTITY newAddressBookCmd.label                        "Именик…">
 <!ENTITY newAddressBookCmd.accesskey                    "И">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV именик…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP директоријум…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Порука">
