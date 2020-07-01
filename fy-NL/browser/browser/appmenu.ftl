@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Privacybeskermingen
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Gean nei jo privacyrapport
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name }-fernijing wurdt download
 appmenuitem-protection-dashboard-title = Befeiligingsdashboerd
 appmenuitem-customize-mode =
     .label = Oanpasse…

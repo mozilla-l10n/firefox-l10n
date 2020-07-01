@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name }-eksperiminten
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiminten
 pane-experimental-subtitle = Gean foarsichtich troch
+pane-experimental-search-results-header = { -brand-short-name }-eksperiminten: foarsichtichheid advisearre
 pane-experimental-description = It wizigjen fan avansearre konfiguraasjefoarkarren kin de prestaasjes of feilichheid fan { -brand-short-name } beynfloedzje.
 help-button-label = { -brand-short-name }-stipe
 addons-button-label = Utwreidingen & Tema’s
@@ -504,7 +505,6 @@ home-prefs-topsites-description = De troch jo meast besochte websites
 
 home-prefs-recommended-by-header =
     .label = Oanrekommandearre troch { $provider }
-home-prefs-recommended-by-description = Bjusterbaarlike ynhâld fan it ynternet, oanpast foar jo
 home-prefs-recommended-by-description-update = Utsûnderlike ynhâld fan it hiele ynternet, gearstald troch { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Syksuggestjes boppe browserskiednis toane yn adresbalkeresultaten
 search-show-suggestions-private-windows =
     .label = Syksuggestjes werjaan yn priveefinsters
-suggestions-addressbar-settings = Foarkarren foar navigaasjeskiednis, blêdwizers en ljepblêdfoarstellen wizigje
 suggestions-addressbar-settings-generic = Foarkarren foar oare adresbalksuggestjes wizigje
 search-suggestions-cant-show = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
 search-one-click-header = Ien-klik-sykmasinen

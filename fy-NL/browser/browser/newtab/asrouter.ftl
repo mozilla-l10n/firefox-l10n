@@ -246,3 +246,12 @@ cfr-whatsnew-protections-icon-alt = Skildpiktogram
 
 cfr-whatsnew-better-pdf-header = Bettere PDF-ûnderfining
 cfr-whatsnew-better-pdf-body = PDF-dokuminten wurde no streekrjocht iepene yn { -brand-short-name }, wêrtroch jo wurk deunby bliuwt.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Jo privacy is wichtich. { -brand-short-name } liedt no wêr mooglik jo DNS-fersiken feilich nei in partnerservice om jo te beskermjen wylst jo sneupe.
+cfr-doorhanger-doh-header = Feiligere, fersifere DNS-lookups
+cfr-doorhanger-doh-primary-button = OK, begrepen
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Utskeakelje
+    .accesskey = U
