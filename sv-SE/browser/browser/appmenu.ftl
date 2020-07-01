@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Integritetsskydd
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Gå till din integritetsrapport
+appmenuitem-update-banner =
+    .label-update-downloading = Hämtar { -brand-shorter-name } uppdatering
 appmenuitem-protection-dashboard-title = Säkerhetsöversikt
 appmenuitem-customize-mode =
     .label = Anpassa…
