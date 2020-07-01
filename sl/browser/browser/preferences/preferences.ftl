@@ -50,6 +50,12 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = { -brand-short-name }ovi poskusi
+category-experimental =
+    .tooltiptext = { -brand-short-name }ovi poskusi
+pane-experimental-subtitle = Nadaljujte previdno
+pane-experimental-search-results-header = { -brand-short-name }ovi poskusi: nadaljujte previdno
+pane-experimental-description = Spreminjanje naprednih nastavitev lahko vpliva na delovanje ali varnost { -brand-short-name }a.
 help-button-label = Podpora za { -brand-short-name }
 addons-button-label = Razširitve in teme
 focus-search =
@@ -505,7 +511,6 @@ home-prefs-topsites-description = Strani, ki jih največkrat obiščete
 
 home-prefs-recommended-by-header =
     .label = Priporoča { $provider }
-home-prefs-recommended-by-description = Odlična vsebina iz celega spleta, prilagojena vašemu okusu
 home-prefs-recommended-by-description-update = Izjemna vsebina z vsega spleta, ki jo izbira { $provider }
 
 ##
@@ -571,7 +576,6 @@ search-show-suggestions-above-history-option =
     .label = Med rezultati naslovne vrstice prikaži predloge iskanja pred zgodovino brskanja
 search-show-suggestions-private-windows =
     .label = Prikazuj predloge iskanja v zasebnih oknih
-suggestions-addressbar-settings = Spremeni nastavitve za zgodovino brskanja, zaznamke in predloge zavihkov
 suggestions-addressbar-settings-generic = Spremeni nastavitve drugih predlogov naslovne vrstice
 search-suggestions-cant-show = Predlogi iskanja v vrstici z naslovom ne bodo prikazani, ker ste { -brand-short-name } nastavili tako, da si nikoli ne zapomni zgodovine.
 search-one-click-header = Iskalniki, dostopni z enim klikom
