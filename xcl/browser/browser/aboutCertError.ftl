@@ -4,7 +4,7 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } ի կիր առնուլ անվտանգութեան ոչ ճիշտ վկայագիր:
+cert-error-intro = { $hostname } ի գործ ածէ զանվաւեր անվտանգութեան վկայագիր:
 
 ## Messages used for certificate error titles
 
