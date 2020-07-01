@@ -63,7 +63,7 @@ csp-xfo-blocked-long-desc = Щоб захистити вашу безпеку, {
 ## Messages used for certificate error titles
 
 connectionFailure-title = Не вдалося з'єднатися
-deniedPortAccess-title = Звернення до даної адреси заборонено
+deniedPortAccess-title = Звернення до цієї адреси заборонено
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Гм. Ніяк не вдається знайти цей сайт.
