@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = গোপনীয়তা সুৰক্ষা
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = আপোনাৰ গোপনীয়তা প্ৰতিবেদনলৈ যাওঁক
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } আপডেট কৰি থকা হৈছে
 appmenuitem-protection-dashboard-title = সুৰক্ষা ডেশ্বব'ৰ্ড
 appmenuitem-customize-mode =
     .label = স্বনিৰ্বাচন…
