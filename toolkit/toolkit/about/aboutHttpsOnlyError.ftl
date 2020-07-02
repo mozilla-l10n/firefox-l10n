@@ -11,5 +11,6 @@ about-httpsonly-insecure-explanation-exception = Malgrat que lo risc de segureta
 about-httpsonly-button-make-exception = Acceptar lo risc e contunhar sul site
 about-httpsonly-explanation-question = Qué poiriá èsser la causa ?
 about-httpsonly-explanation-nosupport = Fòrt probablament lo site web pren simplament pas en carga lo HTTPS.
+about-httpsonly-explanation-risk = Es tanben possible qu’un malfactor siá implicat, se decidissètz de visitar lo site web, val mai evitar de dintrar d’informacions sensiblas coma de senhals, adreças electronicas o de cartas bancàrias.
 about-httpsonly-button-accept-and-continue = Acceptar lo risc e contunhar
 about-httpsonly-button-go-back = Tornar
