@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "a">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Panneau des pièces jointes">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "j">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "j">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.accesskey "T">
@@ -264,7 +257,6 @@
 <!ENTITY headersSpace2.style "width: 11em;">
 <!ENTITY extraRecipients.tooltip "Autres types de champs d’adressage">
 <!ENTITY fromAddr2.label "De">
-<!ENTITY fromAddr.accesskey "x">
 <!ENTITY toAddr.label "Pour :">
 <!ENTITY ccAddr.label "Copie à :">
 <!ENTITY bccAddr.label "Copie cachée à :">
