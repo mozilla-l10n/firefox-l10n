@@ -81,7 +81,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Surf utan å bli følgd
-cfr-protections-panel-body = Behald dine data for deg sjølv. { -brand-short-name } beskyttar deg mot mange av dei vanlegaste sporfølgjarane som følgjer det du gjer på nettet.
+cfr-protections-panel-body = Behald dine data for deg sjølv. { -brand-short-name } beskyttar deg mot mange av dei vanlegaste sporarane som følgjer det du gjer på nettet.
 cfr-protections-panel-link-text = Les meir
 
 ## What's New toolbar button and panel
@@ -98,9 +98,9 @@ cfr-whatsnew-fx70-title = { -brand-short-name } jobbar no endå meir for personv
 cfr-whatsnew-fx70-body =
     Den siste oppdateringa forbetrar sporingsbesvernfunksjonen og gjer det
     enklare enn nokon gong å lage sikre passord for kvar nettstad.
-cfr-whatsnew-tracking-protect-title = Beskytt deg mot sporfølgjarar
+cfr-whatsnew-tracking-protect-title = Beskytt deg mot sporarar
 cfr-whatsnew-tracking-protect-body =
-    { -brand-short-name } blokkerer mange vanlege sporfølgjarar frå sosiale medium og sporing på tvers av nettstadar som
+    { -brand-short-name } blokkerer mange vanlege sporarar frå sosiale medium og sporing på tvers av nettstadar som
     følgjer det du gjer på nettet.
 cfr-whatsnew-tracking-protect-link-text = Vis rapporten din
 # This string is displayed before a large numeral that indicates the total
@@ -193,7 +193,7 @@ cfr-doorhanger-socialtracking-close-button = Lat att
 cfr-doorhanger-socialtracking-dont-show-again = Ikkje vis meg meldingar som dette igjen
     .accesskey = I
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } hindra eit sosialt nettverk frå å spore deg her
-cfr-doorhanger-socialtracking-description = Personvernet ditt betyr noko. { -brand-short-name } blokkerer no vanlege sporfølgjarar frå sosiale medium, og avgrensar kor mykje data dei kan samle inn om kva du gjer på nettet.
+cfr-doorhanger-socialtracking-description = Personvernet ditt betyr noko. { -brand-short-name } blokkerer no vanlege sporarar frå sosiale medium, og avgrensar kor mykje data dei kan samle inn om kva du gjer på nettet.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokkerte ein fingerprinter på denne sida
 cfr-doorhanger-fingerprinters-description = Personvernet ditt betyr noko. { -brand-short-name } blokkerer no fingerprinters, som samlar inn delar av unikt identifiserbar informasjon om eininga di for å spore deg.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokkerte ein kryptominar på denne sida
@@ -206,7 +206,7 @@ cfr-doorhanger-cryptominers-description = Personvernet ditt betyr noko. { -brand
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
-       *[other] { -brand-short-name } har blokkert over <b>{ $blockedCount }</b> sporfølgjarar sidan { $date }!
+       *[other] { -brand-short-name } har blokkert over <b>{ $blockedCount }</b> sporarar sidan { $date }!
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = s

@@ -95,7 +95,7 @@ onboarding-benefit-lockwise-text = Handter passord som er verna og flyttbare.
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privat nettlesing
-onboarding-private-browsing-text = Surf sjølv. Privat nettlesing med innhaldsblokkering blokkerer online-sporfølgjarar som følgjer etter deg på nettet.
+onboarding-private-browsing-text = Surf sjølv. Privat nettlesing med innhaldsblokkering blokkerer online-sporarar som følgjer etter deg på nettet.
 onboarding-screenshots-title = Skjermbilde
 onboarding-screenshots-text = Ta, lagre og del skjermbilde - utan å forlate { -brand-short-name }. Ta skjermbilde av eit område eller ei heil side medan du surfar. Deretter lagrar du dei på nettet for enkel tilgang og deling.
 onboarding-addons-title = Tillegg
