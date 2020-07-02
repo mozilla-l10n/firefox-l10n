@@ -108,8 +108,8 @@ cfr-whatsnew-tracking-protect-link-text = Vis rapporten din
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-        [one] Sporfølgjar blokkert
-       *[other] Sporfølgjar blokkert
+        [one] Sporar blokkert
+       *[other] Sporar blokkert
     }
 cfr-whatsnew-tracking-blocked-subtitle = Sidan { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vis rapport

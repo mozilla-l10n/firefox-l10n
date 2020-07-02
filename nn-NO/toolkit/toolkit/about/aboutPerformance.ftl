@@ -23,7 +23,7 @@ preloaded-tab = Førehandslasta: { $title }
 
 type-tab = Fane
 type-subframe = Underfane
-type-tracker = Sporfølgjar
+type-tracker = Sporar
 type-addon = Tillegg
 type-browser = Nettlesar
 type-worker = Worker
@@ -54,7 +54,6 @@ close-tab =
     .title = Lat att fane
 show-addon =
     .title = Vis i tilleggshandteraren
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
