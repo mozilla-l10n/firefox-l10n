@@ -8,4 +8,9 @@
 
 <!ENTITY learnMore "অধিক জানক…">
 
+<!ENTITY learnMoreNoEllipsis "অধিক জানক">
 
+<!ENTITY defaultButton.label "ঠিক!">
+<!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "অধিক কাৰ্য্য">
