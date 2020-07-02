@@ -122,6 +122,11 @@ about-logins-copy-password-os-auth-dialog-message-win = Da’ gūxūnt nī nāch
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Gūxūn nī nāchrūn a’ngô hiūj da’nga’ huì nū sà’ ‘iát
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Da’ gā’nïnt gan'ānj riña gayi’ìt sēsiûn, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = Gā\'nïnj gan\'ānj nej riña gayi\'ìt sēsiûn nī nej da\'nga\' huìi nū sà’ ‘iát
 
 ## Master Password notification
 
@@ -166,6 +171,7 @@ breach-alert-text = Gi'iaj tu nej si da'nga' huì hua 'iát nga nagi'iaj nakàt 
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-learn-more-link = Gāhuin chrūn doj
 
 ## Error Messages
 
