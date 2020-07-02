@@ -4,7 +4,6 @@
 
 about-private-browsing-learn-more = Tudjon meg többet a <a data-l10n-name="learn-more">Privát böngészésről</a>.
 about-private-browsing-info-visited = meglátogatott oldalakat
-
 privatebrowsingpage-open-private-window-label = Privát ablak megnyitása
     .accesskey = P
 about-private-browsing-info-notsaved = Amikor privát ablakban böngészik, a { -brand-short-name } <strong>nem menti</strong> a:
@@ -26,8 +25,7 @@ about-private-browsing =
 about-private-browsing-not-private = Jelenleg nem privát ablakot használ.
 content-blocking-title = Tartalomblokkolás
 content-blocking-description = Néhány weboldala követőket használ, hogy kövesse a tevékenységét az interneten. A privát ablakokban a { -brand-short-name } tartalomblokkolás automatikusan blokkol számos követőt, melyek információkat gyűjtenek a böngészési tevékenységéről.
-about-private-browsing-info-description = A { -brand-short-name } törli a keresési és böngészési előzményeit, ha kilép az alkalmazásból, vagy bezárja az összes privát böngészi lapot és ablakot. Ugyan ez nem teszi névtelenné a weboldalak vagy a szolgáltatója felé, könnyebbé teszi, hogy bizalmasan kezelje az online tevékenységét, és más ne tudjon róla, aki ezt a számítógépet használja.
-
+about-private-browsing-info-description = A { -brand-short-name } törli a keresési és böngészési előzményeit, ha kilép az alkalmazásból, vagy bezárja az összes privát böngészési lapot és ablakot. Ugyan ez nem teszi névtelenné a weboldalak vagy a szolgáltatója felé, könnyebbé teszi, hogy bizalmasan kezelje az online tevékenységét, és más ne tudjon róla, aki ezt a számítógépet használja.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
