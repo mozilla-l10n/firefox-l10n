@@ -69,7 +69,7 @@ deniedPortAccess-title = Bu adrese erişim kısıtlanmış
 dnsNotFound-title = Aradığınız siteyi bulamıyoruz.
 fileNotFound-title = Dosya bulunamadı
 fileAccessDenied-title = Dosyaya erişim reddedildi
-generic-title = Hoppalaaa.
+generic-title = Hata oluştu.
 captivePortal-title = Ağa giriş yap
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -87,8 +87,6 @@ proxyResolveFailure-title = Vekil sunucu bulunamadı
 redirectLoop-title = Sayfa doğru bir şekilde yönlendirilmiyor
 unknownSocketType-title = Sunucudan beklenmeyen yanıt
 nssFailure2-title = Güvenli bağlantı kurulamadı
-cspBlocked-title = İçerik güvenliği ilkesi uyarınca engellendi
-xfoBlocked-title = X-Frame-Options ilkesi tarafından engellendi
 csp-xfo-error-title = { -brand-short-name } bu sayfayı açamıyor
 corruptedContentError-title = Hasarlı içerik hatası
 remoteXUL-title = Uzak XUL

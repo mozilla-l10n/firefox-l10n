@@ -45,7 +45,7 @@
 </ul>
 ">
 
-<!ENTITY generic.title "Hoppalaaa.">
+<!ENTITY generic.title "Hata oluştu.">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.</p>">
 
@@ -152,9 +152,9 @@ was trying to connect. -->
 ">
 
 <!ENTITY sharedLongDesc "<ul>
-  <li>Site geçici olarak kapalı, çok meşgul veya engellenmiş olabilir. Biraz bekleyip yeniden deneyin.</li>
+  <li>Site geçici olarak kapalı veya çok meşgul olabilir. Biraz bekleyip yeniden deneyin.</li>
   <li>Hiçbir sayfayı açamıyorsanız bilgisayarınızın ağ bağlantısını kontrol edin.</li>
-  <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu ile korunuyorsa &brandShortName; uygulamasının Web’e erişim izni olduğundan emin olun.</li> </ul>">
+  <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu ile korunuyorsa &brandShortName; uygulamasının web’e erişim izni olduğundan emin olun.</li> </ul>">
 
 <!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 

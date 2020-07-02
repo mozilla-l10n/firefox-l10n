@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } deneyleri
 category-experimental =
     .tooltiptext = { -brand-short-name } deneyleri
 pane-experimental-subtitle = Dikkatli olun
+pane-experimental-search-results-header = { -brand-short-name } deneyleri: dikkatli olun
 pane-experimental-description = Gelişmiş yapılandırma tercihlerini değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
 help-button-label = { -brand-short-name } desteği
 addons-button-label = Eklentiler ve temalar

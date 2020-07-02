@@ -10,6 +10,7 @@ experimental-features-css-masonry =
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
     .label = WebGPU
+experimental-features-web-gpu-description = Web üzerinde grafikler ve bilgi işlem için deneysel API
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-avif =
