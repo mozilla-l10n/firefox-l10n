@@ -33,4 +33,5 @@
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "ব্যৱহাৰকাৰীনাম ভৰাওঁক">
 <!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(লগিনৰ কোনো পৰামৰ্শ নাই)">
 <!ENTITY viewSavedLogins.label        "সাঁচি থোৱা লগিনসমূহ চাওঁক">
