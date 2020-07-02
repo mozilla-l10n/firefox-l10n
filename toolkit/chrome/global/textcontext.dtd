@@ -27,10 +27,10 @@
 
 <!ENTITY searchTextBox.clear.label "আতৰাওক">
 
-
-
-
-
-
-
-
+<!ENTITY fillLoginMenu.label          "লগিন ভৰাওঁক">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "পাছৱৰ্ড ভৰাওঁক">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "ব্যৱহাৰকাৰীনাম ভৰাওঁক">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY viewSavedLogins.label        "সাঁচি থোৱা লগিনসমূহ চাওঁক">
