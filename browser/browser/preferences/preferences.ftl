@@ -891,7 +891,7 @@ sitedata-option-block-cross-site-trackers =
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Sporing på tvers av nettstadar og sosiale media-sporarar
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
-    .label = Sporfølgjarar på tvers av nettstadar og sosiale medium, og isolering av attståande infokapslar
+    .label = Sporarar på tvers av nettstadar og sosiale medium, og isolering av attståande infokapslar
 sitedata-option-block-unvisited =
     .label = Infokapslar frå ubesøkte nettsider
 sitedata-option-block-all-third-party =
@@ -934,7 +934,7 @@ addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 content-blocking-header = Innhaldsblokkering
 content-blocking-section-description = Ta vare på personvernet ditt når du surfar. Blokker usynleg innhald som sporar sidene du besøkjer og profilerer deg. Blokkering av noko av dette innhaldet kan gjere sider raskare å laste.
 content-blocking-enhanced-tracking-protection = Utvida sporingsvern
-content-blocking-section-top-level-description = Sporfølgjarar følgjer deg rundt på nettet for å samle informasjon om surfevanane og interessene dine. { -brand-short-name } blokkerer mange av desse sporarane og andre vondsinna skript.
+content-blocking-section-top-level-description = Sporarar følgjer deg rundt på nettet for å samle informasjon om surfevanane og interessene dine. { -brand-short-name } blokkerer mange av desse sporarane og andre vondsinna skript.
 content-blocking-learn-more = Les meir
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -993,7 +993,7 @@ content-blocking-reload-tabs-button =
     .label = Oppdater alle faner
     .accesskey = O
 content-blocking-trackers-label =
-    .label = Sporfølgjarar
+    .label = Sporarar
     .accesskey = S
 content-blocking-tracking-content-label =
     .label = Sporingsinnhald

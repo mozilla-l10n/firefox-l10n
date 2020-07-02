@@ -21,7 +21,7 @@ graph-total-tracker-summary =
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } fortset å  blokkere sporarar i private vindauge, men held ikkje oversikt over kva som vart blokkert.
 # Weekly summary of the graph when the graph is empty in Private Mode
-graph-week-summary-private-window = Sporfølgjarar { -brand-short-name } blokkerte denne veka
+graph-week-summary-private-window = Sporarar { -brand-short-name } blokkerte denne veka
 protection-report-webpage-title = Tryggingspanel
 protection-report-page-content-title = Tryggingspanel
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
