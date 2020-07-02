@@ -10,6 +10,10 @@ about-httpsonly-insecure-explanation-reasons = Büyük olasılıkla web sitesi H
 about-httpsonly-insecure-explanation-exception = Güvenlik riski düşük olsa da, bu sitenin HTTP sürümünü ziyaret etmeye karar verirseniz parola, e-posta veya kredi kartı gibi hassas bilgilerinizi girmemelisiniz.
 about-httpsonly-button-make-exception = Riski kabul ederek siteye git
 about-httpsonly-title = { -brand-short-name } olası bir güvenlik sorunu tespit etti
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable = Yalnızca HTTPS modunu kullanıyorsunuz ve <em>{ $websiteUrl }</em> sitesinin güvenli bir HTTPS sürümü mevcut değil.
 about-httpsonly-explanation-question = Buna ne sebep olabilir?
+about-httpsonly-explanation-nosupport = Büyük olasılıkla bu web sitesi HTTPS’i desteklemiyor.
 about-httpsonly-button-accept-and-continue = Riski kabul ederek devam et
 about-httpsonly-button-go-back = Geri dön
