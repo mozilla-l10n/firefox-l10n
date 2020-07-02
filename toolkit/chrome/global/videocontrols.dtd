@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY playButton.playLabel "চলাওক">
-<!ENTITY playButton.pauseLabel "ৰখক">
-<!ENTITY muteButton.muteLabel "মৌন কৰক">
-<!ENTITY muteButton.unmuteLabel "অমৌন কৰক">
-<!ENTITY fullscreenButton.enterfullscreenlabel "পূৰ্ণ পৰ্দা">
-<!ENTITY fullscreenButton.exitfullscreenlabel "পূৰ্ণ পৰ্দা প্ৰস্থান কৰক">
-<!ENTITY castingButton.castingLabel "পৰ্দালৈ কাস্ট কৰক">
+<!ENTITY playButton.playLabel "চলাওঁক">
+<!ENTITY playButton.pauseLabel "ৰখাওঁক">
+<!ENTITY muteButton.muteLabel "শব্দহীন কৰক">
+<!ENTITY muteButton.unmuteLabel "শব্দ চালু কৰক">
+<!ENTITY fullscreenButton.enterfullscreenlabel "পূৰ্ণ স্ক্ৰীণ">
+<!ENTITY fullscreenButton.exitfullscreenlabel "পূৰ্ণ স্ক্ৰীণৰ পৰা ওলাওঁক">
+<!ENTITY castingButton.castingLabel "স্ক্ৰীণত কাষ্ট কৰক">
 <!ENTITY closedCaption.off "বন্ধ">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
@@ -45,7 +45,7 @@ media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
-<!ENTITY scrubberScale.nameFormat "#1, #2 ৰ হৈ গ'ল">
+<!ENTITY scrubberScale.nameFormat "#2ৰ ভিতৰত #1 অতিবাহিত">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
