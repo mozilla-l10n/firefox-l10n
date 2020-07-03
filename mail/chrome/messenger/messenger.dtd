@@ -48,7 +48,7 @@
 <!ENTITY openMessageFileCmd.accesskey "b">
 <!ENTITY saveAsMenu.label "Salvar como">
 <!ENTITY saveAsMenu.accesskey "a">
-<!ENTITY saveAsFileCmd.label "Arquivo…">
+<!ENTITY saveAsFileCmd.label "Arquivo">
 <!ENTITY saveAsFileCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
