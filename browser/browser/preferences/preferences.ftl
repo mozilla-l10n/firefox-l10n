@@ -54,6 +54,7 @@ pane-experimental-title = Experiências do { -brand-short-name }
 category-experimental =
     .tooltiptext = Experiências do { -brand-short-name }
 pane-experimental-subtitle = Avançar com cuidado
+pane-experimental-search-results-header = Experiências { -brand-short-name }: Prosseguir com cuidado
 pane-experimental-description = Alterar as preferências avançadas de configuração pode interferir com o desempenho ou segurança do { -brand-short-name }.
 help-button-label = Apoio do { -brand-short-name }
 addons-button-label = Extensões e temas
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Os sites que mais visita
 
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
-home-prefs-recommended-by-description = Ótimo conteúdo de toda a web, personalizado para si
 home-prefs-recommended-by-description-update = Excelente conteúdo de toda a Internet, selecionado por { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Mostrar sugestões de pesquisa à frente do histórico de navegação nos resultados da barra de endereço
 search-show-suggestions-private-windows =
     .label = Mostrar sugestões de pesquisa em janelas privadas
-suggestions-addressbar-settings = Alterar as preferências para o histórico de navegação, marcadores, e sugestões de separadores
 suggestions-addressbar-settings-generic = Alterar preferências para outras sugestões da barra de endereços
 search-suggestions-cant-show = Sugestões de pesquisa não serão apresentadas nos resultados da barra de localização porque configurou o { -brand-short-name } para nunca memorizar histórico.
 search-one-click-header = Motores de pesquisa de um clique
