@@ -239,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Зупинити">
 <!ENTITY stopCmd.accesskey            "З">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "Перейти за адресою з панелі адреси">
 
 <!ENTITY printButton.label            "Друкувати">
@@ -257,9 +256,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Керувати використанням плагінів">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Налаштувати отримання сповіщень від сайту">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Зберігати дані в постійному сховищі">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер знаходиться під віддаленим керуванням">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Відкрити панель веб-авторизації">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Відкрити панель веб автентифікації">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Відкрити панель дозволів активності перегляду">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Керувати доступом сайту до ваших камери та/або мікрофону">
@@ -286,9 +284,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Ви заблокували встановлення додатка з цього вебсайту.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показати історію">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ви надали цьому вебсайту додаткові дозволи.">
-
 
 <!ENTITY searchItem.title             "Пошук">
 
@@ -398,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "П">
 <!ENTITY viewSidebarMenu.label "Бічна панель">
 <!ENTITY viewSidebarMenu.accesskey "ч">
-
 <!ENTITY viewCustomizeToolbar.label       "Пристосування…">
 <!ENTITY viewCustomizeToolbar.accesskey     "П">
 
@@ -493,7 +487,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Більше">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "Введіть пошуковий запит чи адресу">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->

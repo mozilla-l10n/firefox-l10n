@@ -148,7 +148,7 @@
 <!ENTITY wifi_auth_header "Ідентифікація клієнта">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Точка доступу, до якої ви підключаєтесь, потребує додаткову інформацію для перевірки цього з’єднання. Будь ласка, відскануйте QR-код внизу через запит на вашому іншому пристрої.">
+<!ENTITY wifi_auth_scan_request "Кінцева точка, до якої ви підключаєтесь, потребує додаткову інформацію для автентифікації цього з’єднання.  Скануйте QR-код внизу через запит на вашому іншому пристрої.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Немає запиту від QR-сканера?">
@@ -157,7 +157,7 @@
 <!ENTITY wifi_auth_yes_scanner "Маєте запит від QR-сканера?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "Якщо замість сканування QR-коду ваш пристрій вимагає токен, скопіюйте будь ласка значення внизу в інший пристрій:">
+<!ENTITY wifi_auth_token_request "Якщо замість сканування QR-коду ваш пристрій вимагає токен, скопіюйте значення внизу в інший пристрій:">
 <!ENTITY wifi_auth_qr_size_note "Якщо QR-код виглядає занадто дрібним для успішного встановлення з'єднання, спробуйте збільшити масштаб або розмір вікна.">
 
 <!-- Logs panel -->

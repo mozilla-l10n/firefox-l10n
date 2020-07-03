@@ -45,6 +45,6 @@
 <!ENTITY createCertInfo.msg2 "Зачекайте будь ласка…">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Захищена перевірка жетоном">
-<!ENTITY protectedAuth.msg "Будь ласка, засвідчіть жетон. Метод засвідчення залежить від типу вашого жетону.">
+<!ENTITY protectedAuth.title "Захищена автентифікація з використанням токена">
+<!ENTITY protectedAuth.msg "Виконайте автентифікацію з використанням токена. Метод автентифікації залежить від типу вашого токена.">
 <!ENTITY protectedAuth.tokenName.label "Жетон:">
