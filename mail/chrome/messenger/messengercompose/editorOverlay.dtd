@@ -308,6 +308,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Sisipkan penanda bernama baru atau sunting properti penanda bernama terpilih">
 <!ENTITY TextColorButton.tooltip "Pilih warna untuk teks">
 <!ENTITY BackgroundColorButton.tooltip "Pilih warna untuk latar belakang">
+<!ENTITY throbber.tooltip2 "Buka &brandShortName; beranda">
 <!ENTITY HighlightColorButton.tooltip "Pilih warna penyorot teks">
 
 <!-- Editor toolbar -->
