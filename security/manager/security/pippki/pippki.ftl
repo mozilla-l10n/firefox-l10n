@@ -8,7 +8,6 @@ password-quality-meter = Рівень якості пароля
 
 change-password-window =
     .title = Зміна головного пароля
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Пристрій захисту: { $tokenName }
@@ -62,6 +61,6 @@ set-password-reminder = Увага: якщо ви забудете ваш пар
 ## Protected Auth dialog
 
 protected-auth-window =
-    .title = Захищена перевірка жетоном
-protected-auth-msg = Будь ласка, засвідчіть жетон. Метод засвідчення залежить від типу вашого жетону.
+    .title = Захищена автентифікація з використанням токена
+protected-auth-msg = Виконайте автентифікацію з використанням токена. Метод автентифікації залежить від типу вашого токена.
 protected-auth-token = Жетон:
