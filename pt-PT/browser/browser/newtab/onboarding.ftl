@@ -19,6 +19,9 @@ onboarding-button-label-get-started = Começar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Bem-vindo(a) ao { -brand-short-name }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Bem-vindo ao <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Já tem o navegador.<br/>Conheça o resto do { -brand-product-name }.
 onboarding-welcome-learn-more = Saiba mais acerca dos benefícios.
 onboarding-join-form-header = Junte-se ao { -brand-product-name }
