@@ -36,13 +36,13 @@ safe-mode-description-details =
        *[other] aplikace { -brand-short-name }
     } nemusí fungovat jako nyní.
 refresh-profile-instead =
-    Můžete také obnovit nastavení { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } a začít znova.
-# Shown on the safe mode dialog after multiple startup crashes. 
+    Také můžete od hledání příčin potíží upustit a { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } obnovit do výchozího nastavení.
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } byl při startu neočekávaně ukončen
