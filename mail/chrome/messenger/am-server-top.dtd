@@ -64,7 +64,7 @@
 <!ENTITY maxMessagesStart.accesskey "П">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "листів">
-<!ENTITY alwaysAuthenticate.label "Завжди проводити аутентифікацію при підключенні до цього сервера">
+<!ENTITY alwaysAuthenticate.label "Завжди вимагати автентифікацію при з'єднанні з цим сервером">
 <!ENTITY alwaysAuthenticate.accesskey "З">
 <!ENTITY newsrcFilePath.label "файл newsrc:">
 <!ENTITY newsrcPicker.label "Вибрати файл newsrc">

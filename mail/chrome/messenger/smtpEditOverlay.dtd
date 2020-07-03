@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY settings.caption "Налаштування">
-<!ENTITY security.caption "Безпека і аутентифікація">
+<!ENTITY security.caption "Безпека та автентифікація">
 <!ENTITY serverName.label "Назва сервера:">
 <!ENTITY serverName.accesskey "Н">
 <!ENTITY serverDescription.label "Опис:">
