@@ -257,6 +257,7 @@
 <!ENTITY headersSpace2.style "width: 11em;">
 <!ENTITY extraRecipients.tooltip "Autres types de champs d’adressage">
 <!ENTITY fromAddr2.label "De">
+<!ENTITY fromAddr.accesskey "e">
 <!ENTITY toAddr.label "Pour :">
 <!ENTITY ccAddr.label "Copie à :">
 <!ENTITY bccAddr.label "Copie cachée à :">
