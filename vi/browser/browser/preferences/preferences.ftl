@@ -54,6 +54,7 @@ pane-experimental-title = Thử nghiệm { -brand-short-name }
 category-experimental =
     .tooltiptext = Thử nghiệm { -brand-short-name }
 pane-experimental-subtitle = Tiến hành thận trọng
+pane-experimental-search-results-header = Thử nghiệm { -brand-short-name }: Tiến hành thận trọng
 pane-experimental-description = Thay đổi tùy chọn cấu hình nâng cao có thể ảnh hưởng đến hiệu suất hoặc bảo mật { -brand-short-name }.
 help-button-label = Hỗ trợ { -brand-short-name }
 addons-button-label = Tiện ích mở rộng & chủ đề

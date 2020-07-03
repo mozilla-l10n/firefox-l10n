@@ -14,7 +14,10 @@ extensions-name = Tên
 extensions-enabled = Đã bật
 extensions-version = Phiên bản
 extensions-id = ID
+support-addons-title = Tiện ích
 support-addons-name = Tên
+support-addons-type = Kiểu
+support-addons-enabled = Đã bật
 support-addons-version = Phiên bản
 support-addons-id = ID
 security-software-title = Phần mềm bảo mật
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Mở thư mục
        *[other] Mở thư mục
     }
+experimental-features-title = Các tính năng thử nghiệm
+experimental-features-name = Tên
+experimental-features-value = Giá trị
 modified-key-prefs-title = Các tùy chọn quan trọng đã được sửa đổi
 modified-prefs-name = Tên
 modified-prefs-value = Giá trị
