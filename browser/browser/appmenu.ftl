@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Bảo vệ quyền riêng tư
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Đi đến báo cáo bảo mật của bạn
+appmenuitem-update-banner =
+    .label-update-downloading = Đang tải xuống bản cập nhật { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Bảng điều khiển bảo vệ
 appmenuitem-customize-mode =
     .label = Tùy biến…

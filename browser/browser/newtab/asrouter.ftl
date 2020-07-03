@@ -241,3 +241,12 @@ cfr-whatsnew-protections-icon-alt = Biểu tượng khiên
 
 cfr-whatsnew-better-pdf-header = Trải nghiệm PDF tốt hơn
 cfr-whatsnew-better-pdf-body = Tài liệu PDF hiện mở trực tiếp bằng { -brand-short-name }, giữ cho công việc của bạn trong tầm tay dễ dàng.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Vấn đề riêng tư của bạn. { -brand-short-name } bây giờ định tuyến an toàn các yêu cầu DNS của bạn bất cứ khi nào có thể đến dịch vụ đối tác để bảo vệ bạn trong khi bạn duyệt.
+cfr-doorhanger-doh-header = Truy vấn DNS được mã hóa, an toàn hơn
+cfr-doorhanger-doh-primary-button = OK, đã hiểu
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Vô hiệu hóa
+    .accesskey = D
