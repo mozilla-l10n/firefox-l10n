@@ -58,6 +58,9 @@ show-dir-label =
         [windows] సంచయాన్ని తెరువు
        *[other] నిఘంటువు తెరువు
     }
+experimental-features-title = ప్రయోగాత్మక సౌలభ్యాలు
+experimental-features-name = పేరు
+experimental-features-value = విలువ
 modified-key-prefs-title = సవరించిన అభిరుచులలో ముఖ్యమైనవి
 modified-prefs-name = పేరు
 modified-prefs-value = విలువ
