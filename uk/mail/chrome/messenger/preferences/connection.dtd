@@ -50,7 +50,7 @@
 <!ENTITY  proxyHttpSharing.accesskey    "Т">
 <!ENTITY  autologinproxy.label          "Не запитувати про автентифікацію, якщо пароль вже збережено">
 <!ENTITY  autologinproxy.accesskey      "Н">
-<!ENTITY  autologinproxy.tooltip        "Якщо у вас є збережені дані для входу, ця опція проведе вашу авторизацію на проксі без запитів. При невдалій авторизації ви отримаєте запит.">
+<!ENTITY  autologinproxy.tooltip        "Якщо у вас є збережені облікові дані, ця опція виконає автентифікацію на проксі без запитів. При невдалій автентифікації ви отримаєте запит.">
 <!ENTITY  socksRemoteDNS.label          "Проксі DNS при використанні SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "к">
 <!ENTITY  dnsOverHttps.label            "Увімкнути DNS через HTTPS">
