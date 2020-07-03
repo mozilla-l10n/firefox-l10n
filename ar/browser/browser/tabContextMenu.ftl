@@ -56,6 +56,21 @@ move-to-new-window =
 undo-close-tab =
     .label = أعِد فتح اللسان
     .accesskey = د
+tab-context-close-multiple-tabs =
+    .label = أغلِق أكثر من لسان
+    .accesskey = ك
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] أعِد فتح اللسان
+            [zero] أعِد فتح الألسنة
+            [one] أعِد فتح اللسان
+            [two] أعِد فتح اللسانين
+            [few] أعِد فتح الألسنة
+            [many] أعِد فتح الألسنة
+           *[other] أعِد فتح الألسنة
+        }
+    .accesskey = ع
 close-tab =
     .label = أغلِق اللسان
     .accesskey = غ
