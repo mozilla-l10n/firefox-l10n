@@ -44,10 +44,12 @@
 <!ENTITY fontOptions.accesskey   "C">
 <!ENTITY fontOptions.label       "Canggih…">
 <!ENTITY colorButton.label       "Warna…">
+<!ENTITY colorButton.accesskey   "C">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Baca">
 <!ENTITY display.caption                  "Tampilan">
+<!ENTITY displayName.label                "Nama tampilan">
 <!ENTITY showCondensedAddresses.label     "Hanya tampilkan nama tampilan untuk orang yang ada pada buku alamat saya.">
 <!ENTITY showCondensedAddresses.accesskey "p">
 

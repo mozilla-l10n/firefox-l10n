@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- for SearchDialog.xul -->
+<!-- for SearchDialog.xhtml -->
 <!ENTITY searchHeading.label         "Cari pesan dari:">
 <!ENTITY searchHeading.accesskey     "p">
 <!ENTITY searchSubfolders.label      "Cari subfolder">
@@ -14,15 +14,18 @@
 <!ENTITY openButton.label            "Buka">
 <!ENTITY openButton.accesskey        "B">
 <!ENTITY deleteButton.label          "Hapus">
+<!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "Cari Pesan">
 <!ENTITY results.label               "Hasil">
+<!ENTITY moveButton.label            "Pindahkan Ke">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Buka dalam Folder">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Simpan sebagai Folder Pencarian">
 <!ENTITY saveAsVFButton.accesskey    "F">
 
-<!-- for ABSearchDialog.xul -->
+<!-- for ABSearchDialog.xhtml -->
 <!ENTITY abSearchHeading.label       "Cari di:">
 <!ENTITY abSearchHeading.accesskey   "C">
 <!ENTITY propertiesButton.label      "Properti">
@@ -30,5 +33,5 @@
 <!ENTITY composeButton.label         "Tulis">
 <!ENTITY composeButton.accesskey     "T">
 <!ENTITY deleteCardButton.label      "Hapus">
+<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Pencarian Canggih Daftar Alamat">
-
