@@ -612,6 +612,7 @@
 <!ENTITY addonsButton.tooltip "Mengelola pengaya Anda">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Maju Segaris">
 <!ENTITY buttonMenuForwardAsAttachment.label "Teruskan Sebagai Lampiran">
 
 <!-- Remote Content Button Popup -->
@@ -655,6 +656,7 @@
 <!ENTITY folderContextGetMessages.accesskey "A">
 <!ENTITY folderContextMarkAllFoldersRead.label "Tandai Semua Folder Dibaca">
 <!ENTITY folderContextPauseAllUpdates.label "Jeda untuk Semua Pembaruan">
+<!ENTITY folderContextPauseUpdates.label "Jeda untuk Pembaruan">
 <!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Buka di Jendela Baru">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
@@ -734,7 +736,9 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Pilih kolom yang ditampilkan">
+<!ENTITY selectColumn.tooltip "Alihkan pilih semua pesan">
 <!ENTITY threadColumn2.tooltip "Tampilkan utas pesan">
+<!ENTITY fromColumn2.tooltip "Urutkan berdasarkan dari">
 <!ENTITY recipientColumn2.tooltip "Urut berdasarkan penerima">
 <!ENTITY correspondentColumn2.tooltip "Urut berdasarkan koresponden">
 <!ENTITY subjectColumn2.tooltip "Urut berdasarkan subjek">
@@ -744,13 +748,17 @@
 <!ENTITY accountColumn2.tooltip "Urut berdasarkan akun">
 <!ENTITY statusColumn2.tooltip "Urut berdasarkan status">
 <!ENTITY sizeColumn2.tooltip "Urut berdasarkan ukuran">
+<!ENTITY junkStatusColumn2.tooltip "Urutkan berdasarkan status sampah">
 <!ENTITY unreadColumn2.tooltip "Jumlah pesan yang belum dibaca di utas">
 <!ENTITY totalColumn2.tooltip "Jumlah total pesan dalam utas">
+<!ENTITY readColumn2.tooltip "Sortir menurut dibaca">
 <!ENTITY receivedColumn2.tooltip "Urut berdasarkan tanggal diterima">
 <!ENTITY starredColumn2.tooltip "Urut berdasarkan bintang">
 <!ENTITY locationColumn2.tooltip "Urut berdasarkan lokasi">
+<!ENTITY idColumn2.tooltip "Urutkan berdasarkan pesanan diterima">
 <!ENTITY attachmentColumn2.tooltip "Urut berdasarkan lampiran">
 
+<!ENTITY deleteColumn.tooltip "Hapus sebuah pesan">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Pesan Baru dari Templat">
@@ -764,6 +772,7 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Buka Pesan dalam Mode Percakapan">
 <!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Buka Pesan di Foldernya">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Sunting sebagai Pesan Baru">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
@@ -783,16 +792,24 @@
 <!ENTITY contextForward.label "Teruskan">
 <!ENTITY contextForward.accesskey "T">
 <!ENTITY contextForwardAsMenu.label "Teruskan Sebagai">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "Lampiran">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
 <!ENTITY contextMultiForwardAsAttachment.label "Teruskan sebagai Lampiran">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Pindahkan Ke">
 <!ENTITY contextMoveMsgMenu.accesskey "P">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Terbaru">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "r">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Salin Ke">
 <!ENTITY contextCopyMsgMenu.accesskey "S">
 <!ENTITY contextKillThreadMenu.label "Abaikan Utas">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
+<!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Abaikan Subutas">
+<!ENTITY contextWatchThreadMenu.label "Tonton Thread">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
