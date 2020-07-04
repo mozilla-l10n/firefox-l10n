@@ -84,7 +84,7 @@ font-language-group-tibetan =
 ## Default font type
 
 default-font-serif =
-    .label = Serif
+    .label = Seriw
 default-font-sans-serif =
     .label = Sans Serif
 font-size-label =

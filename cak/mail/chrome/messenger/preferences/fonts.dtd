@@ -58,7 +58,7 @@
 <!ENTITY minSize.none                             "Majun">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSerif.label               "Seriw">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!-- fonts in message -->
