@@ -33,15 +33,20 @@ sentence. -->
 <!ENTITY  chatSound.label                     "Mainkan suara">
 <!ENTITY  play.label                          "Mainkan">
 <!ENTITY  play.accesskey                      "M">
+<!ENTITY  systemSound.accesskey               "D">
 <!ENTITY  customsound.label                   "Gunakan berkas suara berikut">
 <!ENTITY  customsound.accesskey               "u">
 <!ENTITY  browse.label                        "Jelajahi…">
+<!ENTITY  browse.accesskey                    "B">
 
 <!ENTITY messageStylePreview.label         "Pratinjau:">
 <!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleDarkTheme.label       "Gelap">
 <!ENTITY messageStyleSimpleTheme.label     "Sederhana">
 <!ENTITY messageStyleDefaultTheme.label    "Baku">
 <!ENTITY messageStyleVariant.label         "Varian:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.accesskey  "H">
 <!ENTITY messageStyleNoPreview.title       "Pratinjau tidak tersedia">

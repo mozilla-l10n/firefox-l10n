@@ -17,14 +17,16 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Huruf:">
 <!ENTITY font.accesskey                       "H">
+<!ENTITY fontSize.label                       "Ukuran:">
+<!ENTITY fontSize.accesskey                   "z">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Warna Teks:">
 <!ENTITY fontColor.accesskey                  "W">
 <!ENTITY bgColor.label                        "Warna Latar Belakang:">
 <!ENTITY bgColor.accesskey                    "W">
 <!ENTITY restoreHTMLDefaults.label            "Kembalikan Nilai Default">
 <!ENTITY restoreHTMLDefaults.accesskey        "K">
-
-
+<!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "Periksa ejaan sebelum mengirim">
 <!ENTITY spellCheck.accesskey                 "e">
@@ -51,6 +53,7 @@
 <!ENTITY directoriesNone.label                 "Tidak ada">
 <!ENTITY editDirectories.label                 "Ubah Direktori…">
 <!ENTITY editDirectories.accesskey             "e">
+<!ENTITY showAsDefault.accesskey               "S">
 
 <!ENTITY sendOptionsDescription.label          "Atur pemformatan teks">
 <!ENTITY sendOptions.label                     "Pengaturan Pengiriman…">

@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "Warna">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overridePageColors.accesskey    "O">
 
 <!ENTITY  overridePageColors.always.label "Selalu">
 <!ENTITY  overridePageColors.never.label  "Jangan Pernah">
@@ -14,8 +17,12 @@
 <!ENTITY  backgroundColor.label           "Latar Belakang:">
 <!ENTITY  backgroundColor.accesskey       "L">
 <!ENTITY  useSystemColors.label           "Gunakan warna dari sistem">
+<!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Garis bawahi tautan">
+<!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "Warna Tautan">
 <!ENTITY  linkColor.label                 "Tautan yang Belum Dikunjungi:">
+<!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Tautan yang Pernah Dikunjungi:">
+<!ENTITY  visitedLinkColor.accesskey      "V">
