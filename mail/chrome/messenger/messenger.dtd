@@ -632,7 +632,9 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Pesan Baru">
+<!ENTITY appmenuNewContactCmd.label "Kontak Buku Alamat...">
 <!ENTITY appmenuEditMenu.label "Sunting">
+<!ENTITY appmenuToolbarLayout.label "Tata Letak Bilah Alat...">
 <!ENTITY appmenuSelectThread.label "Pilih Utas">
 <!ENTITY appmenuSelectFlagged.label "Pilih Pesan Berbintang">
 
@@ -640,6 +642,7 @@
 <!ENTITY addNewTag.label "Tag baru…">
 <!ENTITY addNewTag.accesskey "T">
 <!ENTITY manageTags.label "Kelola Tag…">
+<!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nama">
