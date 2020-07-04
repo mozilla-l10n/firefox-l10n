@@ -307,7 +307,7 @@
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Jun kan">
-<!ENTITY prevMenu.accesskey "C">
+<!ENTITY prevMenu.accesskey "k">
 <!ENTITY prevMsgCmd.label "Tzijol">
 <!ENTITY prevMsgCmd.accesskey "T">
 <!ENTITY prevMsgCmd.key "b">
