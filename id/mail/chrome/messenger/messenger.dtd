@@ -612,7 +612,7 @@
 <!ENTITY addonsButton.tooltip "Mengelola pengaya Anda">
 
 <!-- Toolbar Button Popup -->
-<!ENTITY buttonMenuForwardAsInline.label "Maju Segaris">
+<!ENTITY buttonMenuForwardAsInline.label "Maju Sebaris">
 <!ENTITY buttonMenuForwardAsAttachment.label "Teruskan Sebagai Lampiran">
 
 <!-- Remote Content Button Popup -->
@@ -793,6 +793,7 @@
 <!ENTITY contextForward.accesskey "T">
 <!ENTITY contextForwardAsMenu.label "Teruskan Sebagai">
 <!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Sebaris">
 <!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "Lampiran">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
@@ -802,6 +803,7 @@
 <!ENTITY contextMoveMsgMenu.accesskey "P">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Terbaru">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "r">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favorit">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Salin Ke">
 <!ENTITY contextCopyMsgMenu.accesskey "S">
@@ -907,6 +909,7 @@
 <!ENTITY AddDirectlyToAddressBook.label "Tambahkan ke Buku Alamat">
 <!ENTITY AddDirectlyToAddressBook.accesskey "a">
 <!ENTITY EditContact1.label "Sunting Kontak">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Tampilkan Kenalan">
 <!ENTITY ViewContact.accesskey "k">
 <!ENTITY SubscribeToNewsgroup.label "Berlangganan Newsgroup ini">
@@ -916,6 +919,7 @@
 <!ENTITY CopyEmailAddress.label "Salin Alamat Email">
 <!ENTITY CopyEmailAddress.accesskey "S">
 <!ENTITY CopyNameAndEmailAddress.label "Salin Nama dan Alamat Surel">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Salin Nama Newsgroup">
 <!ENTITY CopyNewsgroupName.accesskey "n">
 <!ENTITY CopyNewsgroupURL.label "Salin URL Newsgroup">
