@@ -14,7 +14,11 @@
 <!ENTITY dateTimeFormatting.label      "Format Waktu dan Tanggal">
 <!ENTITY languageSelector.label        "Bahasa">
 <!ENTITY allowHWAccel.label            "Gunakan akselerasi perangkat keras jika tersedia">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.accesskey           "T">
 
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.accesskey  "m">
 
 <!ENTITY systemIntegration.label       "Integrasi dengan Sistem">
 <!ENTITY alwaysCheckDefault.label      "Periksa apakah &brandShortName; adalah pembaca email default ketika memulai">
@@ -22,6 +26,7 @@
 <!ENTITY searchIntegration.label       "Izinkan &searchIntegration.engineName; untuk pencarian pesan">
 <!ENTITY searchIntegration.accesskey   "p">
 <!ENTITY checkDefaultsNow.label        "Periksa Sekarang…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Konfigurasi Canggih">
 <!ENTITY configEdit.label              "Penyunting Konfigurasi…">
 <!ENTITY configEdit.accesskey          "g">
@@ -32,8 +37,10 @@
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetri">
 <!ENTITY enableTelemetry.label           "Aktifkan Telemetri">
+<!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Pelajari Lebih Lanjut">
 
+<!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">
 
 <!-- Update -->
@@ -51,10 +58,14 @@
 <!ENTITY updateApp.version.pre           "Versi ">
 <!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Otomatis pasang pemutakhiran (disarankan: meningkatkan keamanan)">
+<!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Periksa pemutakhiran, biarkan saya memilih apakah akan dipasang atau tidak">
+<!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateHistory.label             "Tampilkan Riwayat Pemutakhiran">
+<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Gunakan layanan latar belakang untuk memasang pemutakhiran">
+<!ENTITY useService.accesskey            "b">
 
 
 <!-- Networking and Disk Space -->
@@ -68,6 +79,7 @@
 <!ENTITY showOffline.accesskey         "L">
 
 <!ENTITY Diskspace                       "Ruang Disk">
+<!ENTITY offlineCompactFolders.accesskey "a">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -78,6 +90,7 @@
 <!ENTITY useCacheBefore.label            "Gunakan harddisk untuk tembolok hingga">
 <!ENTITY useCacheBefore.accesskey        "h">
 <!ENTITY useCacheAfter.label             "MB">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Bersihkan Sekarang">
 <!ENTITY clearCacheNow.accesskey         "g">
 
@@ -86,8 +99,13 @@
 <!ENTITY certs.auto                      "Pilih satu secara otomatis">
 <!ENTITY certs.auto.accesskey            "P">
 <!ENTITY certs.ask                       "Tanyakan selalu">
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY manageCertificates.label "Kelola Sertifikat">
+<!ENTITY manageCertificates.accesskey "M">
 <!ENTITY viewSecurityDevices.label "Perangkat Keamanan">
 <!ENTITY viewSecurityDevices.accesskey "k">
 
+<!ENTITY manageCertificates2.accesskey "M">
+<!ENTITY viewSecurityDevices2.accesskey "D">
