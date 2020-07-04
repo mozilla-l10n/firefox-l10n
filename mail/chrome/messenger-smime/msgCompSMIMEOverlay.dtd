@@ -23,6 +23,7 @@
 <!ENTITY menu_securityAttachMyKey.label "Lampirkan Kunci Publik Saya">
 <!ENTITY menu_securityAttachMyKey.accesskey "A">
 
+<!ENTITY menu_securityTech.label "Teknologi Enkripsi">
 <!ENTITY menu_securityTech.accesskey "T">
 
 <!ENTITY menu_techPGP.label "OpenPGP">
