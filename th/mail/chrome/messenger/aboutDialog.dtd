@@ -100,7 +100,7 @@
 <!ENTITY update.downloading.start   "กำลังดาวน์โหลดการอัปเดต — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "กำลังใช้การอัปเดต…">
+<!ENTITY update.applying            "กำลังติดตั้งการอัปเดต…">
 <!ENTITY update.restarting          "กำลังเริ่มการทำงานใหม่…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
