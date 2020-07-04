@@ -12,3 +12,5 @@
 <!ENTITY window.title "Anda telah meluncurkan versi &brandProductName; yang lebih lama">
 
 
+<!ENTITY window.quit-win "Keluar">
+<!ENTITY window.quit-nonwin "Berhenti">
