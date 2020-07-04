@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window =
-    .title = Rucha'ik tikirib'äl ruxaq
+    .title = Ticha' Tikirib'äl Ruxaq
     .style = width: 32em;
-
 select-bookmark-desc = Tacha' jun yaketal richin ok rutikirib'al ruxaq a k'amaya'l. We nacha' jun yakwuj, chi kijujunal ri taq yaketal e k'o chupam ri yakwuj xkejaqatäj pa jun ruwi'.

@@ -157,7 +157,7 @@ about-debugging-runtime-tabs =
     .name = Taq ruwi'
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Samajela' pa Samaj
+    .name = Service Workers
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
     .name = Komonin Samajela'

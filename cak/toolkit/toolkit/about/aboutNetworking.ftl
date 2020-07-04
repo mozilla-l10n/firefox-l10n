@@ -35,7 +35,7 @@ log-tutorial = Tatz'eta' <a data-l10n-name="logging">HTTP Tajin nitz'ib'äx</a> 
 current-log-file = Wakami titz'ib'äx yakb'äl:
 current-log-modules = Wakami ketz'ib'äx taq juperaj:
 set-log-file = Tijikib'äx nitz'ib'äx yakb'äl
-set-log-modules = Tijikib'äx yetz'ib'äx taq juperaj
+set-log-modules = Tijikib'äx Yetz'ib'äx taq Juperaj
 start-logging = Titikirisäx tajin nitz'ib'äx
 stop-logging = Titanab'äx tajin nitz'ib'äx
 dns-lookup = Rukanoxik DNS
@@ -90,7 +90,7 @@ about-networking-log-tutorial = Tatz'eta' <a data-l10n-name="logging">HTTP Tajin
 about-networking-current-log-file = Wakami titz'ib'äx yakb'äl:
 about-networking-current-log-modules = Wakami ketz'ib'äx taq juperaj:
 about-networking-set-log-file = Tijikib'äx nitz'ib'äx yakb'äl
-about-networking-set-log-modules = Tijikib'äx yetz'ib'äx taq juperaj
+about-networking-set-log-modules = Tijikib'äx Yetz'ib'äx taq Juperaj
 about-networking-start-logging = Titikirisäx tajin nitz'ib'äx
 about-networking-stop-logging = Titanab'äx tajin nitz'ib'äx
 about-networking-dns-lookup = Rukanoxik DNS
