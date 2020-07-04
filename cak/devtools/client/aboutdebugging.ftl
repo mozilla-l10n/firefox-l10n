@@ -160,7 +160,7 @@ about-debugging-runtime-service-workers =
     .name = Service Workers
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = Komonin Samajela'
+    .name = Komonin Workers
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = Ch'aqa' chik Samajela'

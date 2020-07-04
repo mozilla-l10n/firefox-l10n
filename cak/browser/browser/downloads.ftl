@@ -34,8 +34,8 @@ downloads-cmd-show-menuitem =
     .accesskey = T
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
-    .label = Tik'ut pe pan ilonel
-    .accesskey = i
+    .label = Tik'ut Pa Finder
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = Tijaq pa ri Rutz'etöy Q'inoj
     .accesskey = t
