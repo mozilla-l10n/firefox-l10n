@@ -18,6 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Akun">
 <!ENTITY subscribeImapFolders.label   "Kelola langganan folder">
 <!ENTITY settingsLink.label           "Tampilkan pengaturan akun ini">
+<!ENTITY setupNewAcct.label           "Siapkan akun:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Fitur Canggih">
 <!ENTITY searchMsgsLink.label         "Cari pesan">

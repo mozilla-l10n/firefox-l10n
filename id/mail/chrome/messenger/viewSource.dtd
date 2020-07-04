@@ -14,6 +14,7 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Sumber dari: ">
 
+<!ENTITY editMenu.label "Sunting">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY fileMenu.label "Berkas">
 <!ENTITY fileMenu.accesskey "F">
@@ -74,6 +75,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY backCmd.label "Kembali">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY forwardCmd.label "Teruskan">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "Salin Lokasi Tautan">
+<!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "Salin Alamat Surel">
+<!ENTITY copyEmailCmd.accesskey "E">
