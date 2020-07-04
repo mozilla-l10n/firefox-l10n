@@ -209,3 +209,4 @@ region-name-sc = Seszele
 region-name-sd = Sudan
 region-name-se = Szwecyjo
 region-name-sg = Singapur
+region-name-sh = Wyspa Świytyj Helyny, Wyspa Wniebowstōmpiynio i Tristan da Cunha
