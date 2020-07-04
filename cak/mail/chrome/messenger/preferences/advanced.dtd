@@ -72,7 +72,7 @@
 <!ENTITY updateAuto.accesskey            "r">
 <!ENTITY updateCheck.label               "Kenik'öx ri taq k'exoj, xa xe chi tiya' q'ij chwe we ninwajo' chi yenyäk">
 <!ENTITY updateCheck.accesskey           "K">
-<!ENTITY updateHistory.label             "Tik'ut pe ri Kinatab'al taq K'exoj">
+<!ENTITY updateHistory.label             "Tik'ut Kinatab'al taq K'exoj">
 <!ENTITY updateHistory.accesskey         "x">
 
 <!ENTITY useService.label                "Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj">
