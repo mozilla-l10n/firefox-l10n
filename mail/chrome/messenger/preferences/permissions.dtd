@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Pengecualian">
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Situs">
 <!ENTITY treehead.status.label        "Status">
@@ -14,10 +15,13 @@
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blokir">
 <!ENTITY block.accesskey              "B">
+<!ENTITY session.accesskey            "n">
 <!ENTITY allow.label                  "Izinkan">
 <!ENTITY allow.accesskey              "I">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Batalkan">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Simpan Perubahan">
+<!ENTITY button.ok.accesskey          "S">
 

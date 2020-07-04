@@ -8,6 +8,8 @@
 <!ENTITY  language.accesskey                      "H">
 
 <!ENTITY  size.label                              "Ukuran:">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Proporsional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -44,9 +46,11 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Matematika">
+<!ENTITY  font.langGroup.odia                     "Bahasa Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Bahasa Tibet">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ukuran huruf terkecil:">
 <!ENTITY minSize.accesskey                        "k">
@@ -69,3 +73,4 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Email Masuk:">
 <!ENTITY viewDefaultCharsetList.accesskey  "i">
+<!ENTITY replyInDefaultCharset3.accesskey "h">

@@ -6,5 +6,8 @@
 <!ENTITY window.macWidth                       "35em">
 
 <!ENTITY bounceSystemDockIcon.label            "Animasikan ikon aplikasi saat pesan baru tiba">
+<!ENTITY bounceSystemDockIcon.accesskey        "i">
 <!ENTITY newMessagesCountDock.label            "Hitungan pesan baru">
+<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "u">
 <!ENTITY dockIconBadge.label                   "Lencana ikon aplikasi">
