@@ -18,6 +18,7 @@
 <!ENTITY bigger.label                     "Lebih Besar">
 <!ENTITY smaller.label                    "Lebih kecil">
 <!ENTITY quotedTextColor.label            "Warna:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Pesan Teks Polos">
 <!ENTITY displayText.label                "Saat menampilkan kutipan dalam pesan dalam format teks polos gunakan:">
 
