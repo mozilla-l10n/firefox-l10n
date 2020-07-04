@@ -17,7 +17,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Tijal toq re tz'aqat re' tzijïl">
 
 <!ENTITY cmd.uninstallAddon.label             "Tiyuj">
-<!ENTITY cmd.uninstallAddon.accesskey         "s">
+<!ENTITY cmd.uninstallAddon.accesskey         "y">
 <!ENTITY cmd.showPreferencesWin.label         "Taq cha'oj">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kejal ri taq rucha'oj re tz'aqat re'">
 <!ENTITY cmd.showPreferencesUnix.label        "Taq ajowab'äl">

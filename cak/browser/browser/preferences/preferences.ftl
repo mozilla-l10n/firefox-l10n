@@ -298,7 +298,7 @@ applications-use-os-default =
         }
 applications-use-other =
     .label = Tokisäx jun chik…
-applications-select-helper = Tacha' jun achib'il chi chokoy
+applications-select-helper = Tacha' To'onel Chokoy
 applications-manage-app =
     .label = Taq kib'anikil chokoy…
 applications-always-ask =
