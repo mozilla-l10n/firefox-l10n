@@ -14,4 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Untuk merubah URL relatif menjadi absolut atau sebaliknya, Anda harus menyimpan laman terlebih dahulu.">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.label "Masukkan lokasi laman web, file lokal, atau pilih Penanda Bernama atau Penajuk dari menu konteks bidang:">
 <!ENTITY LinkURLEditField2.accessKey "w">

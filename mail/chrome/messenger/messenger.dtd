@@ -976,7 +976,10 @@
 <!ENTITY showAllAppsCmdMac.label        "Tampilkan Semua">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Opsi Ikon Aplikasi...">
 <!ENTITY writeNewMessageDock.label      "Tulis Pesan Baru">
 <!ENTITY openAddressBookDock.label      "Buka Buku Alamat">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Mundur satu laman">
+<!ENTITY browseForwardButton.tooltip "Maju satu laman">
