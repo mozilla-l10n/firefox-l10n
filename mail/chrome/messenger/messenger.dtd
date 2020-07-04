@@ -653,6 +653,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Ambil Pesan">
 <!ENTITY folderContextGetMessages.accesskey "A">
+<!ENTITY folderContextMarkAllFoldersRead.label "Tandai Semua Folder Dibaca">
+<!ENTITY folderContextPauseAllUpdates.label "Jeda untuk Semua Pembaruan">
 <!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Buka di Jendela Baru">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
