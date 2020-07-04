@@ -19,13 +19,18 @@
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Periksa artikel baru setiap ">
+<!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "menit">
+<!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "hari">
+<!ENTITY biffDays.accesskey          "d">
 <!ENTITY recommendedUnits.label      "Rekomendasi Penerbit:">
 
 <!ENTITY quickMode.label             "Tampilkan ringkasan artikel, jangan memuat laman webnya">
 <!ENTITY quickMode.accesskey         "r">
 
+<!ENTITY autotagEnable.accesskey     "o">
+<!ENTITY autotagUsePrefix.accesskey  "P">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Tambah">
