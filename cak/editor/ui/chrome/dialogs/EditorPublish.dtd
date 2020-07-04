@@ -36,7 +36,7 @@
 <!ENTITY filename.accesskey           "y">
 <!ENTITY filename.tooltip             "Titz'ib'äx jun rub'i' re yakb'äl re', chuqa' '.html' richin jun ruxaq ajk'amaya'l">
 <!ENTITY filenameExample.label        "achi'el: &quot;mypage.html&quot;">
-<!ENTITY setDefaultButton.label       "Tichap achi'el ri e K'o wi">
+<!ENTITY setDefaultButton.label       "Tichap achi'el ri K'o wi">
 <!ENTITY setDefaultButton.accesskey   "K">
 <!ENTITY removeButton.label           "Tiyuj Ruxaq K'amaya'l">
 <!ENTITY removeButton.accesskey       "y">

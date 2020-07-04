@@ -97,7 +97,7 @@
 
 <!ENTITY detachedAttachmentFolder.show.label        "Tijaq K'wayöl Yakwuj">
 <!ENTITY detachedAttachmentFolder.show.accesskey    "Y">
-<!ENTITY detachedAttachmentFolder.showMac.label     "Tik'ut pe Pan Ilonel">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Tik'ut Pa Finder">
 <!ENTITY detachedAttachmentFolder.showMac.accesskey "I">
 
 <!-- Attachment toolbar items -->
