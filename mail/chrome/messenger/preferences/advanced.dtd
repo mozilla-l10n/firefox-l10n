@@ -57,6 +57,7 @@
  -->
 <!ENTITY updateApp.version.pre           "Versi ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Izinkan &brandShortName; untuk">
 <!ENTITY updateAuto.label                "Otomatis pasang pemutakhiran (disarankan: meningkatkan keamanan)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Periksa pemutakhiran, biarkan saya memilih apakah akan dipasang atau tidak">
