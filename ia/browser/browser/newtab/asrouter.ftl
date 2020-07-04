@@ -232,7 +232,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icone imagine-in-imagine
 
 cfr-whatsnew-protections-header = Protectiones al prime colpo de oculos
 cfr-whatsnew-protections-body = Le Pannello de controlo protectiones include  reportos summari re gestion de violationes de datos e contrasignos. Tu pote ora traciar quante violationes tu ha resolvite e vider si tote tu contrasignos salvate ha forsan essite exponite in un violation de datos.
-cfr-whatsnew-protections-cta-link = Vider annello de protectiones
+cfr-whatsnew-protections-cta-link = Vider pannello de protectiones
 cfr-whatsnew-protections-icon-alt = Icone escudo
 
 ## Better PDF message
