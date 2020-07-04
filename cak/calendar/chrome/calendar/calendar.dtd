@@ -73,7 +73,7 @@
 
 <!ENTITY calendar.list.header.label                 "Cholb'äl q'ij">
 
-<!ENTITY calendar.task.filter.title.label           "Tik'ut pe">
+<!ENTITY calendar.task.filter.title.label           "Tik'ut">
 <!ENTITY calendar.task.filter.all.label             "Ronojel">
 <!ENTITY calendar.task.filter.all.accesskey         "R">
 <!ENTITY calendar.task.filter.today.label           "Wakami">
