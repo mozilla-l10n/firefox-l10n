@@ -47,7 +47,7 @@ app-basics-update-dir =
        *[other] Rumolb'al K'exoj
     }
 app-basics-update-history = Kinatab'al taq k'exoj ruwäch
-app-basics-show-update-history = Tik'ut pe ri kinatab'al taq k'exoj ruwäch
+app-basics-show-update-history = Tik'ut Kinatab'al taq K'exoj
 # Represents the path to the binary used to start the application.
 app-basics-binary = Ruwinari Chokoy
 app-basics-profile-dir =

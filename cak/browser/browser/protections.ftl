@@ -39,7 +39,7 @@ protection-report-manage-protections = Tinuk'samajïx Runuk'ulem
 graph-today = Wakami
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Wachib'äl nuk'üt ronojel ri kajilab'al kiwäch ojqanela' eq'aton re wuqq'ij re'.
-social-tab-title = Kojqanela' aj Winäq taq K'amab'ey
+social-tab-title = Kojqanela' aj Winäq K'amab'ey
 social-tab-contant = Ri aj winäq taq k'amab'ey yekiya' taq ojqanela' pa ch'aqa' chik taq ajk'amaya'l ruxaq richin nikojqaj ri nasamajij, natz'ët chuqa' natzu' pan k'amab'ey. Ri nuya' q'ij chi ke ri ajk'ayij taq moloj richin aj winäq k'amab'ey, niketamaj chawij, man xa xe ta ri nakomonij pa ri ruwäch ab'i' richin aj winäq k'amab'ey. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
 cookie-tab-title = Kikuki Rojqanela' Xoch'in taq Ruxaq
 cookie-tab-content = Re taq kuki re' yatkojqaj pa taq ruxaq richin nikimöl awetamab'al chi rij ri nab'än pa k'amab'ey. Yekiya' kajk'ayij aj rox winäq achi'el eltzijob'äl moloj chuqa' ch'ob'onela' tzij. Ri ruq'atik k'ïy ruxaq nuqasaj jarupe' taq eltzijol yatkojqaj xab'akuchi' yab'e'. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
@@ -174,11 +174,11 @@ monitor-resolve-breaches-link = Kesol taq Tz'ilanem
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Ojqanela' aj Winäq K'amab'ey
+    .title = Kojqanela' aj Winäq K'amab'ey
     .aria-label =
         { $count ->
-            [one] { $count } ojqanel aj winäq k'amab'ey ({ $percentage }%)
-           *[other] { $count } ojqanela' aj winäq k'amab'ey ({ $percentage }%)
+            [one] { $count } rojqanel aj winäq k'amab'ey ({ $percentage }%)
+           *[other] { $count } kojqanela' aj winäq k'amab'ey ({ $percentage }%)
         }
 bar-tooltip-cookie =
     .title = Kikuki Rojqanela' Xoch'in taq Ruxaq

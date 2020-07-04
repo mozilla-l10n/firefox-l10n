@@ -827,7 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label "Rujikomal ri Ruxaq K'amaya'l">
+<!ENTITY identity.securityView.label "Ruchajixik Ruxaq K'amaya'l">
 
 <!ENTITY identity.connection "Okem">
 <!ENTITY identity.connectionSecure "Ütz Okem">

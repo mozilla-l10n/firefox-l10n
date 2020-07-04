@@ -19,7 +19,7 @@ reader-view = Rutz'etoj Sik'inem
 open-location = Tikanöx o titz'ib'äx ri ochochib'äl
 share = Tikomonïx
 close-window = Titz'apïx Tzuwäch
-open-sidebar = Ruchi' Cholab'äl
+open-sidebar = Taq ajxikin
 # This string describes shortcuts for search.
 search-popover = Kekanöx ruq'a' okem
 # Describes searches limited to a specific scope
