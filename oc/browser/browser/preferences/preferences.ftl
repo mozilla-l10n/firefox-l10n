@@ -50,7 +50,11 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Experiéncias de { -brand-short-name }
+category-experimental =
+    .tooltiptext = Experiéncias de { -brand-short-name }
 pane-experimental-subtitle = Agissètz amb prudéncia
+pane-experimental-search-results-header = Experiéncias de { -brand-short-name } : siatz atentiu
 help-button-label = Assisténcia de { -brand-short-name }
 addons-button-label = Extensions e tèmas
 focus-search =
@@ -500,7 +504,6 @@ home-prefs-topsites-description = Los sites que visitatz mai sovent
 
 home-prefs-recommended-by-header =
     .label = Recomandat per { $provider }
-home-prefs-recommended-by-description = De contengut interessant de tot lo web, personalizat per vos
 home-prefs-recommended-by-description-update = Contengut excepcional de pertot del web, seleccionat per { $provider }
 
 ##
@@ -564,7 +567,6 @@ search-show-suggestions-above-history-option =
     .label = Mostrar las suggestions avant l’istoric dins la barra d’adreça
 search-show-suggestions-private-windows =
     .label = Mostrar las suggestions de recèrca en navegacion privada
-suggestions-addressbar-settings = Modificar las preferéncias per las suggestions d’istoric de navegacion, dels marcapaginas e dels onglets
 suggestions-addressbar-settings-generic = Cambiar las preferéncias per las suggestions de la barra d’adreça
 search-suggestions-cant-show = Recercar las suggestions que son pas afichadas dins los resultats de la barra d'adreça qu'avètz configurat { -brand-short-name } per pas jamai servar l'istoric.
 search-one-click-header = Motor de recèrca en un clic
