@@ -71,6 +71,7 @@
 <!ENTITY otherActionsPrint1.accesskey "C">
 
 <!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Buka">
@@ -92,6 +93,8 @@
 
 <!ENTITY openAttachment.tooltip "Buka berkas terlampir">
 
+<!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Simpan">
