@@ -54,6 +54,7 @@ pane-experimental-title = Eksperymenty przeglądarki { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperymenty przeglądarki { -brand-short-name }
 pane-experimental-subtitle = Zachowaj ostrożność
+pane-experimental-search-results-header = Eksperymenty przeglądarki { -brand-short-name }: zachowaj ostrożność
 pane-experimental-description = Modyfikacja zaawansowanych preferencji może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
 help-button-label = Wsparcie programu { -brand-short-name }
 addons-button-label = Dodatki i motywy
@@ -507,7 +508,6 @@ home-prefs-topsites-description = Najczęściej odwiedzane strony.
 
 home-prefs-recommended-by-header =
     .label = Polecane przez { $provider }
-home-prefs-recommended-by-description = Świetne rzeczy z całego Internetu, wybrane specjalnie dla Ciebie
 home-prefs-recommended-by-description-update = Wyjątkowe rzeczy z całego Internetu, wybrane przez { $provider }
 
 ##
@@ -572,7 +572,6 @@ search-show-suggestions-above-history-option =
     .label = Podpowiedzi wyszukiwania nad historią przeglądania w wynikach paska adresu
 search-show-suggestions-private-windows =
     .label = Podpowiedzi wyszukiwania w prywatnych oknach
-suggestions-addressbar-settings = Zmień preferencje podpowiedzi z historii przeglądania, zakładek i kart
 suggestions-addressbar-settings-generic = Zmień preferencje innych podpowiedzi w pasku adresu
 search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
 search-one-click-header = Dodatkowe wyszukiwarki
