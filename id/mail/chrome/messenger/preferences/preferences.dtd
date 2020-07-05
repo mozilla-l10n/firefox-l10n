@@ -19,10 +19,12 @@
 <!ENTITY paneAttachments.title    "Lampiran">
 <!ENTITY panePrivacy.title        "Privasi">
 <!ENTITY paneSecurity.title       "Keamanan">
+<!ENTITY panePrivacySecurity.title "Privasi &amp; Keamanan">
 <!ENTITY paneLightning.title      "Kalender">
 <!ENTITY paneAdvanced.title       "Canggih">
 <!ENTITY paneAccount.title        "Akun">
 
+<!ENTITY addonsButton.label       "Ekstensi &amp; Tema">
 
 <!ENTITY okButton.title           "Oke">
 <!ENTITY okButton.accesskey       "O">

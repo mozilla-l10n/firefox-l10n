@@ -15,6 +15,7 @@
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blokir">
 <!ENTITY block.accesskey              "B">
+<!ENTITY session.label                "Izinkan untuk Sesi">
 <!ENTITY session.accesskey            "n">
 <!ENTITY allow.label                  "Izinkan">
 <!ENTITY allow.accesskey              "I">
