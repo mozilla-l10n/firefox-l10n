@@ -54,6 +54,7 @@ pane-experimental-title = Эксперыменты { -brand-short-name }
 category-experimental =
     .tooltiptext = Эксперыменты { -brand-short-name }
 pane-experimental-subtitle = Працягвайце з асцярожнасцю
+pane-experimental-search-results-header = Эксперыменты { -brand-short-name }: працягвайце з асцярожнасцю
 pane-experimental-description = Змена пашыраных налад канфігурацыі можа паўплываць на прадукцыйнасць і бяспеку { -brand-short-name }.
 help-button-label = Падтрымка { -brand-short-name }
 addons-button-label = Пашырэнні & Тэмы
@@ -507,7 +508,6 @@ home-prefs-topsites-description = Сайты, якія вы наведваеце
 
 home-prefs-recommended-by-header =
     .label = Рэкамендавана { $provider }
-home-prefs-recommended-by-description = Выдатнае змесціва з усяго інтэрнэту, выбранае спецыяльна для вас
 home-prefs-recommended-by-description-update = Выключнае змесціва з усяго інтэрнэту, падабранае { $provider }
 
 ##
@@ -572,7 +572,6 @@ search-show-suggestions-above-history-option =
     .label = Адлюстроўваць пошукавыя прапановы перад гісторыяй вэб-аглядання пры выкарыстанні адраснага радка
 search-show-suggestions-private-windows =
     .label = Паказваць пошукавыя прапановы ў прыватных вокнах
-suggestions-addressbar-settings = Змяніць перавагі для гісторыі прагляду, закладак і прапаноў картак
 suggestions-addressbar-settings-generic = Змяніць налады для іншых падказак у адрасным радку
 search-suggestions-cant-show = Пошукавыя прапановы у панэлі адрасу паказвацца не будуць, бо вы наладзілі { -brand-short-name } ніколі не запамінаць гісторыю.
 search-one-click-header = Пашукавікі ў адну пстрычку
