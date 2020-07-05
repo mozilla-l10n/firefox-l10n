@@ -9,6 +9,10 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "&sidebarName; 目前有的面板:">
 <!ENTITY sidebar.customize.current.accesskey    "T">
+
+<!ENTITY sidebar.customize.title                "自訂側邊欄">
+<!ENTITY sidebar.customize.current2.label       "側邊欄中的分頁:">
+<!ENTITY sidebar.customize.current2.accesskey   "T">
 <!ENTITY sidebar.customize.customize.label      "自訂面板…">
 <!ENTITY sidebar.customize.customize.accesskey  "C">
 <!ENTITY sidebar.customize.remove.label         "移除">
@@ -25,4 +29,3 @@
 <!ENTITY sidebar.customize.down.accesskey       "D">
 <!ENTITY sidebar.more.label                     "更多面板…">
 <!ENTITY sidebar.more.accesskey                 "F">
-
