@@ -31,6 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Korea">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
 <!ENTITY  font.langGroup.el                       "Yunani">
+<!ENTITY  font.langGroup.other                    "Sistem Aksara Lainnya">
 <!ENTITY  font.langGroup.thai                     "Thailand">
 <!ENTITY  font.langGroup.hebrew                   "Ibrani">
 <!ENTITY  font.langGroup.arabic                   "Arab">
@@ -70,7 +71,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Email Keluar:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle2.label            "Pengodean Teks">
+<!ENTITY composingDescription2.label      "Atur penyandian teks asal untuk mengirim dan menerima surel">
 
 <!ENTITY viewDefaultCharsetList.label     "Email Masuk:">
 <!ENTITY viewDefaultCharsetList.accesskey  "i">
+<!ENTITY replyInDefaultCharset3.label     "Jika memungkinkan, gunakan pengodean teks asal di balasan">
 <!ENTITY replyInDefaultCharset3.accesskey "h">
