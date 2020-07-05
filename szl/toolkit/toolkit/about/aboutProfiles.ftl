@@ -12,3 +12,31 @@ profiles-conflict = Inkszo kopia aplikacyje { -brand-product-name } wkludziyła 
 profiles-flush-fail-title = Zmiany niy sōm spamiyntane
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Niyspodziywany feler niy doł spamiyntać twoijich zmian.
+profiles-flush-restart-button = Resztartnij { -brand-short-name }
+# Variables:
+#   $name (String) - Name of the profile
+profiles-name = Profil: { $name }
+profiles-is-default = Bazowy profil
+profiles-rootdir = Korczowy katalog
+# localDir is used to show the directory corresponding to
+# the main profile directory that exists for the purpose of storing data on the
+# local filesystem, including cache files or other data files that may not
+# represent critical user data. (e.g., this directory may not be included as
+# part of a backup scheme.)
+# In case localDir and rootDir are equal, localDir is not shown.
+profiles-localdir = Lokalny katalog
+profiles-current-profile = Tyn profil je używany i niy idzie go skasować.
+profiles-in-use-profile = Tego profilu używo inkszo aplikacyjo i niy idzie go skasować.
+profiles-rename = Przemianuj
+profiles-remove = Skasuj
+profiles-set-as-default = Nastow za bazowy profil
+profiles-launch-profile = Sztartnij profil w nowym ôknie przeglōndarki
+profiles-cannot-set-as-default-title = Niy idzie nastawić za bazowy
+profiles-cannot-set-as-default-message = Niy idzie zmiynić bazowego profilu aplikacyje { -brand-short-name }.
+profiles-yes = ja
+profiles-no = niy
+profiles-rename-profile-title = Przemianuj profil
+# Variables:
+#   $name (String) - Name of the profile
+profiles-rename-profile = Przemianuj profil { $name }
+profiles-invalid-profile-name-title = Złe miano profilu
