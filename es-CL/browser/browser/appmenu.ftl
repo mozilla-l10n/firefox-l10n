@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Protecciones de privacidad
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Revisa tu reporte de privacidad
+appmenuitem-update-banner =
+    .label-update-downloading = Bajar actualización de { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-customize-mode =
     .label = Personalizar…

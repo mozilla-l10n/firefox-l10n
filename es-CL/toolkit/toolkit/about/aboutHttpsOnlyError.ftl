@@ -9,4 +9,6 @@ about-httpsonly-insecure-explanation-unavailable = Estás navegando en el modo d
 about-httpsonly-insecure-explanation-reasons = Lo más probable es que el sitio web no soporte HTTPS, pero también es posible que un atacante esté bloqueando la versión HTTPS.
 about-httpsonly-insecure-explanation-exception = Aunque el riesgo de seguridad es bajo, si decides visitar la versión HTTP del sitio web, no debieras ingresar ninguna información confidencial como contraseñas, correos electrónicos o detalles de tarjetas de crédito.
 about-httpsonly-button-make-exception = Aceptar el riesgo y continuar al sitio
+about-httpsonly-explanation-question = ¿Qué podría estar causando esto?
+about-httpsonly-button-accept-and-continue = Aceptar el riesgo y continuar
 about-httpsonly-button-go-back = Retroceder

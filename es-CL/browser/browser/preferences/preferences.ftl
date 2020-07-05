@@ -50,6 +50,12 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Experimentos de { -brand-short-name }
+category-experimental =
+    .tooltiptext = Experimentos de { -brand-short-name }
+pane-experimental-subtitle = Proceder con precaución
+pane-experimental-search-results-header = Experimentos de { -brand-short-name }: proceder con precaución
+pane-experimental-description = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
 help-button-label = Soporte de { -brand-short-name }
 addons-button-label = Extensiones y temas
 focus-search =
@@ -499,7 +505,6 @@ home-prefs-topsites-description = Los sitios que más visitas
 
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
-home-prefs-recommended-by-description = El mejor contenido de toda la web, seleccionado para ti
 home-prefs-recommended-by-description-update = Contenido excepcional de toda la web, revisado por { $provider }
 
 ##
@@ -563,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones
 search-show-suggestions-private-windows =
     .label = Mostrar sugerencias de búsqueda en ventanas privadas
-suggestions-addressbar-settings = Cambia las preferencias para las sugerencias del historial de navegación, marcadores y pestañas
 suggestions-addressbar-settings-generic = Cambia las preferencias para otras sugerencias de la barra de direcciones
 search-suggestions-cant-show = Las sugerencias de búsqueda no serán mostradas en la barra de direcciones porque configuraste { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Motores de búsqueda rápida
