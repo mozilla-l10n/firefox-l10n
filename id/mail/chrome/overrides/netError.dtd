@@ -110,3 +110,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Laman Diblokir">
 
 <!ENTITY networkProtocolError.title "Protokol Jaringan Bermasalah">
+<!ENTITY networkProtocolError.longDesc "<p>Laman yang Anda coba lihat tidak dapat ditampilkan karena ada kesalahan dalam protokol jaringan yang tedeteksi.</p><ul><li>Silakan kontak pemilik website untuk menginformasikan masalah ini.</li></ul>">
