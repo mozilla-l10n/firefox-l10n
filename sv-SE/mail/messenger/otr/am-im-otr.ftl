@@ -17,6 +17,10 @@ otr-log =
     .label = Inkludera OTR-krypterade meddelanden i konversationsloggar
 otr-requireEncryption =
     .label = Kräv end-to-end-kryptering för en-till-en-konversationer
+otr-require-encryption-info =
+    När du kräver end-to-end-kryptering, meddelanden i en-till-en-konversationer
+    kommer inte att skickas om de inte kan krypteras. Mottagna okrypterade meddelanden
+    visas inte som en del av den vanliga konversationen och loggas inte heller.
 otr-verifyNudge =
     .label = Påminn mig alltid om att verifiera en overifierad kontakt
 otr-notYetAvailable = inte tillgänglig än
