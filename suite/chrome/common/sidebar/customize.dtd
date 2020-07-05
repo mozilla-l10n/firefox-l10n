@@ -9,6 +9,10 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Pestañas en &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "t">
+
+<!ENTITY sidebar.customize.title                "Personalizar barra lateral">
+<!ENTITY sidebar.customize.current2.label       "Pestañas en la barra lateral:">
+<!ENTITY sidebar.customize.current2.accesskey   "T">
 <!ENTITY sidebar.customize.customize.label      "Personalizar pestaña…">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
 <!ENTITY sidebar.customize.remove.label         "Eliminar">
