@@ -5,6 +5,7 @@
 <!ENTITY biffAll.label                 "Aktifkan pembaruan untuk semua umpan">
 <!ENTITY biffAll.accesskey             "E">
 
+<!ENTITY newFeedSettings.label         "Pengaturan Asal untuk Umpan Baru">
 
 <!ENTITY manageSubscriptions.label     "Kelola Langganan…">
 <!ENTITY manageSubscriptions.accesskey "K">
