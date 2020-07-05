@@ -17,3 +17,12 @@ experimental-features-web-gpu-description = 웹에서 그래픽 및 컴퓨팅을
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = AVIF (AV1 Image File Format)에 대한 실험적 지원
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookies: SameSite=lax가 기본값
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Cookies: SameSite=none은 secure 속성 필요
+experimental-features-cookie-samesite-none-requires-secure-description = “sameSite=none” 속성을 가진 쿠키에는 secure 속성이 필요합니다. 이 기능에는“Cookies: SameSite=lax가 기본값”이 필요합니다.
