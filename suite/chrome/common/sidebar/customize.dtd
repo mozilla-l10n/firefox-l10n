@@ -9,6 +9,10 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "&sidebarName; 中的标签页：">
 <!ENTITY sidebar.customize.current.accesskey    "T">
+
+<!ENTITY sidebar.customize.title                "自定义侧栏">
+<!ENTITY sidebar.customize.current2.label       "侧栏中的标签页：">
+<!ENTITY sidebar.customize.current2.accesskey   "T">
 <!ENTITY sidebar.customize.customize.label      "自定义选项">
 <!ENTITY sidebar.customize.customize.accesskey  "C">
 <!ENTITY sidebar.customize.remove.label         "删除">
