@@ -17,3 +17,13 @@ experimental-features-web-gpu-description = Eksperymentalne API do grafiki i pr
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperymentalna obsługa AVIF: formatu obrazów AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Ciasteczka: „sameSite=lax” jest domyślne
+experimental-features-cookie-samesite-lax-by-default-description = Domyślnie traktuje ciasteczka jako „sameSite=lax”, jeśli nie określono żadnego atrybutu „sameSite”. Deweloperzy muszą wyrazić zgodę na obecne status quo nieograniczonego użytkowania, bezpośrednio ustawiając „sameSite=none”.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Ciasteczka: „sameSite=none” wymaga atrybutu bezpieczeństwa
+experimental-features-cookie-samesite-none-requires-secure-description = Ciasteczka z atrybutem „sameSite=none” wymagają atrybutu bezpieczeństwa. Ta funkcja wymaga włączenia „Ciasteczka: »sameSite=lax« jest domyślne”.
