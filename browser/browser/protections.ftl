@@ -110,6 +110,14 @@ info-exposed-passwords-found =
     }
 monitor-no-breaches-title = Bones notícies!
 monitor-no-breaches-description = No apareixeu en cap filtració coneguda. Si això canvia, us avisarem.
+monitor-view-report-link = Vegeu l'informe
+    .title = Resoleu les filtracions amb el { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Resoleu les filtracions
+monitor-breaches-unresolved-description = Després de revisar els detalls de la filtració i haver adoptat mesures per protegir la vostra informació, podeu marcar les filtracions com a resoltes.
+monitor-manage-breaches-link = Gestiona les filtracions
+    .title = Gestiona les filtracions en el { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Molt bé! Heu resolt totes les filtracions conegudes.
+monitor-partial-breaches-motivation-title-start = Bon començament!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
