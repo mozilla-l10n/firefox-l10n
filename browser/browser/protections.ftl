@@ -24,6 +24,7 @@ graph-private-window = En les finestres privades, el { -brand-short-name } segue
 graph-week-summary-private-window = Elements de seguiments que el { -brand-short-name } ha blocat aquesta setmana
 protection-report-webpage-title = Tauler de proteccions
 protection-report-page-content-title = Tauler de proteccions
+protection-report-settings-link = Gestiona els paràmetres de privadesa i seguretat
 etp-card-title-always = Protecció contra el seguiment millorada: Sempre activada
 etp-card-title-custom-not-blocking = Protecció contra el seguiment millorada: DESACTIVADA
 protection-report-etp-card-content-custom-not-blocking = Actualment totes les proteccions estan desactivades. Trieu quins elements de seguiment voleu blocar en els paràmetres de protecció del { -brand-short-name }.
@@ -83,7 +84,11 @@ monitor-title = Tingueu controlades les filtracions de dades
 monitor-link = Com funciona
 monitor-header-content-no-account = Visiteu el { -monitor-brand-name } per veure si hi ha alguna filtració de dades coneguda que us hagi afectat i obteniu alertes de noves filtracions.
 monitor-header-content-signed-in = El { -monitor-brand-name } us avisa si la vostra informació ha aparegut en alguna filtració de dades coneguda.
+monitor-sign-up-link = Subscriviu-vos per rebre alertes de filtracions
+    .title = Subscriviu-vos per rebre alertes de filtracions en el { -monitor-brand-name }
 auto-scan = S'ha comprovat avui automàticament
+monitor-emails-tooltip =
+    .title = Vegeu les adreces electròniques supervisades en el { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -101,12 +106,28 @@ info-known-breaches-found =
        *[other] filtracions de dades conegudes han exposat informació vostra
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] filtració de dades coneguda marcada com a resolta
+       *[other] filtracions de dades conegudes marcades com a resoltes
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
         [one] contrasenya exposada entre totes les filtracions
        *[other] contrasenyes exposades entre totes les filtracions
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] contrasenya exposada en filtracions no resoltes
+       *[other] contrasenyes exposades en filtracions no resoltes
     }
 monitor-no-breaches-title = Bones notícies!
 monitor-no-breaches-description = No apareixeu en cap filtració coneguda. Si això canvia, us avisarem.
@@ -118,6 +139,11 @@ monitor-manage-breaches-link = Gestiona les filtracions
     .title = Gestiona les filtracions en el { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Molt bé! Heu resolt totes les filtracions conegudes.
 monitor-partial-breaches-motivation-title-start = Bon començament!
+monitor-partial-breaches-motivation-title-middle = Seguiu així!
+monitor-partial-breaches-motivation-title-end = Gairebé heu acabat! Seguiu així.
+monitor-partial-breaches-motivation-description = Resoleu la resta de les filtracions en el { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Resoleu les filtracions
+    .title = Resoleu les filtracions amb el { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
