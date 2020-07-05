@@ -30,6 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Tambakan layanan penyimpanan Filelink">
 <!ENTITY removeCloudFileAccount.label     "Hapus">
 <!ENTITY removeCloudFileAccount.accesskey "H">
+<!ENTITY findCloudFileProviders.label     "Temukan lebih banyak penyedia...">
 
 <!ENTITY enableCloudFileAccountOffer.label "Menawarkan untuk berbagi berkas dengan ukuran lebih dari">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

@@ -25,29 +25,40 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Kirimkan pemberitahuan sedang mengetik dalam percakapan">
 <!ENTITY  sendTyping.accesskey          "t">
 
+<!ENTITY  chatNotifications.label             "Ketika pesan diarahkan pada Anda tiba:">
 <!ENTITY  desktopChatNotifications.label      "Tampilkan notifikasi:">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "dengan pratinjau nama dan pesan pengirim">
+<!ENTITY  buddyInfoOnly.label                 "hanya dengan nama pengirim">
 <!ENTITY  dummyNotification.label             "tanpa informasi apa pun">
+<!ENTITY  getAttention.label                  "Jalankan item bilah tugas">
 <!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "Animasikan ikon dok">
 <!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Mainkan suara">
 <!ENTITY  play.label                          "Mainkan">
 <!ENTITY  play.accesskey                      "M">
+<!ENTITY  systemSound.label                   "Suara default dari sistem untuk surel baru">
 <!ENTITY  systemSound.accesskey               "D">
 <!ENTITY  customsound.label                   "Gunakan berkas suara berikut">
 <!ENTITY  customsound.accesskey               "u">
 <!ENTITY  browse.label                        "Jelajahi…">
 <!ENTITY  browse.accesskey                    "B">
 
+<!ENTITY messageStyleTab.title             "Gaya Pesan">
 <!ENTITY messageStylePreview.label         "Pratinjau:">
 <!ENTITY messageStyleTheme.label           "Tema:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Gelembung">
 <!ENTITY messageStyleDarkTheme.label       "Gelap">
+<!ENTITY messageStylePaperSheetsTheme.label "Lembar Kertas">
 <!ENTITY messageStyleSimpleTheme.label     "Sederhana">
 <!ENTITY messageStyleDefaultTheme.label    "Baku">
 <!ENTITY messageStyleVariant.label         "Varian:">
 <!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Tampilkan Tajuk">
 <!ENTITY messageStyleShowHeader.accesskey  "H">
 <!ENTITY messageStyleNoPreview.title       "Pratinjau tidak tersedia">
+<!ENTITY messageStyleNoPreview.description "Tema ini tidak valid atau saat ini tidak tersedia (pengaya dinonaktifkan, mode aman, ...).">
