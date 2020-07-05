@@ -7,11 +7,11 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.title.label          "Personalizar &sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Abas visualizadas no &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "v">
+<!ENTITY sidebar.customize.current.label        "Abas no &sidebarName;:">
+<!ENTITY sidebar.customize.current.accesskey    "A">
 
-<!ENTITY sidebar.customize.title                "Personalizar barra lateral">
-<!ENTITY sidebar.customize.current2.label       "Abas na barra lateral:">
+<!ENTITY sidebar.customize.title                "Personalizar painel lateral">
+<!ENTITY sidebar.customize.current2.label       "Abas no painel lateral:">
 <!ENTITY sidebar.customize.current2.accesskey   "A">
 <!ENTITY sidebar.customize.customize.label      "Personalizar aba...">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
@@ -21,7 +21,7 @@
 <!ENTITY sidebar.customize.additional.accesskey "v">
 <!ENTITY sidebar.customize.add.label            "Adicionar">
 <!ENTITY sidebar.customize.add.accesskey        "A">
-<!ENTITY sidebar.customize.preview.label        "Visualizar...">
+<!ENTITY sidebar.customize.preview.label        "Visualizar…">
 <!ENTITY sidebar.customize.preview.accesskey    "V">
 <!ENTITY sidebar.customize.up.label             "Para cima">
 <!ENTITY sidebar.customize.up.accesskey         "c">
