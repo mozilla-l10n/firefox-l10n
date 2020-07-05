@@ -12,6 +12,10 @@
 
 policy-3rdparty = Tetapkan kebijakan yang dapat diakses WebExtensions melalui chrome.storage.managed.
 policy-AppAutoUpdate = Mengaktifkan atau menonaktifkan pembaruan aplikasi otomatis.
+policy-DisabledCiphers = Nonaktifkan ciphers.
+policy-DefaultDownloadDirectory = Tetapkan direktori unduhan asal.
+policy-DisableAppUpdate = Cegah { -brand-short-name } dari pembaruan.
+policy-DisableTelemetry = Nonaktifkan Telemetry.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 

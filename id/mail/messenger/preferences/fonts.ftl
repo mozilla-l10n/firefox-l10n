@@ -4,6 +4,8 @@
 
 fonts-window-close =
     .key = w
+fonts-label-default-unnamed =
+    .label = Asali
 fonts-encoding-dialog-title =
     .title = Huruf & Pengodean
 fonts-language-legend =
@@ -32,6 +34,8 @@ font-language-group-cyrillic =
     .label = Cyrillic
 font-language-group-el =
     .label = Yunani
+font-language-group-other =
+    .label = Sistem Aksara Lainnya
 font-language-group-thai =
     .label = Thailand
 font-language-group-hebrew =
@@ -70,6 +74,8 @@ font-language-group-kannada =
     .label = Kannada
 font-language-group-sinhala =
     .label = Sinhala
+font-language-group-tibetan =
+    .label = Bahasa Tibet
 
 ## Default font type
 
@@ -77,6 +83,12 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Tanpa Serif
+font-size-label =
+    .value = Ukuran:
+    .accesskey = e
+font-size-monospace-label =
+    .value = Ukuran:
+    .accesskey = i
 font-serif-label =
     .value = Serif:
     .accesskey = S
@@ -104,6 +116,7 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
+text-encoding-legend = Pengodean Teks
 font-outgoing-email-label =
     .value = Email Keluar:
     .accesskey = u

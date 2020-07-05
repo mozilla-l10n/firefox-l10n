@@ -12,3 +12,6 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-question = Ajukan pertanyaan:
+auth-answer = Masukkan jawabannya (peka huruf besar kecil):
+auth-secret = Masukkan rahasia:
