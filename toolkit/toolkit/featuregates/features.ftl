@@ -17,3 +17,12 @@ experimental-features-web-gpu-description = Kísérleti API grafikához és szá
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Kísérleti AVIF-támogatás: AV1 képfájlformátum
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookies: SameSite=lax by default
+experimental-features-cookie-samesite-lax-by-default-description = A sütik „sameSite=lax” beállítás szerinti kezelése, ha nincs megadva „sameSite” attribútum. A fejlesztőknek kifejezetten kérniük kell a jelenlegi korlátlan használatot a „sameSite=none” megadásával.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Cookies: SameSite=none requires secure attribute

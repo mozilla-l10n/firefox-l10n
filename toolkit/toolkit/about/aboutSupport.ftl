@@ -272,6 +272,9 @@ blocklisted-bug = Ismert problémák miatt blokkolva
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = { $bugNumber } számú hiba
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Ismert problémák miatt blokkolva: <a data-l10n-name="bug-link">{ $bugNumber }. hiba</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokkolva, hibakód: { $failureCode }
 d3d11layers-crash-guard = D3D11 kompozitáló
