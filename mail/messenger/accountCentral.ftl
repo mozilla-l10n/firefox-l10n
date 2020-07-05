@@ -29,6 +29,7 @@ newsgroups-label = Newsgroup
 import-title = Impor dari Program Lainnya
 import-label = Impor
     .aria-label = Impor data dari program lainnya
+about-donation = berdonasi
 explore-link = Jelajahi Fitur
 support-link = Dukungan
 involved-link = Mari Berperan
