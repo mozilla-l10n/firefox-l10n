@@ -22,8 +22,11 @@
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Selalu">
 <!ENTITY acceptThirdParty.never.label "Jangan Pernah">
+<!ENTITY acceptThirdParty.visited.label "Dari yang dikunjungi">
 <!ENTITY keepUntil.label "Simpan sampai:">
 <!ENTITY keepUntil.accesskey "K">
+<!ENTITY expire.label "telah kedaluwarsa">
+<!ENTITY close.label "Saya menutup &brandShortName;">
 <!ENTITY askEachTime.label "selalu tanyakan">
 <!ENTITY cookieExceptions.label "Kekecualian…">
 <!ENTITY cookieExceptions.accesskey "E">
@@ -34,5 +37,6 @@
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Pelajari selengkapnya tentang Do Not Track">
 
+<!ENTITY doNotTrackCheck.label 'Kirim sinyal "Jangan Lacak" ke berbagai situs web yang menyatakan Anda tidak ingin dilacak'>
 <!ENTITY doNotTrackCheck.accesskey "n">
 <!ENTITY doNotTrackLearnMore.label "Pelajari lebih lanjut">
