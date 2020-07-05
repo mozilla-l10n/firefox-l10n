@@ -21,7 +21,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Palavra-chave:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "P">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Mostrar todas as etiquetas">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Carregar este favorito no painel">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Carregar este favorito no painel lateral">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "a">
 <!ENTITY editBookmarkOverlay.choose.label                    "Escolher…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nova pasta">
