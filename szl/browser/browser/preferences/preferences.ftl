@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } - Eksperymynty
 category-experimental =
     .tooltiptext = { -brand-short-name } - Eksperymynty
 pane-experimental-subtitle = Pozōr!
+pane-experimental-search-results-header = { -brand-short-name } - Eksperymynta: Dej pozōr
 pane-experimental-description = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
 help-button-label = { -brand-short-name } - spōmōżka
 addons-button-label = Rozszyrzynia i motywy
@@ -509,7 +510,6 @@ home-prefs-topsites-description = Strōny, co je nojczyńścij nawiydzosz
 
 home-prefs-recommended-by-header =
     .label = Rykōmyndowane ôd { $provider }
-home-prefs-recommended-by-description = Super zawartość z cołkigo internetu zebrano ekstra do ciebie
 home-prefs-recommended-by-description-update = Niyôbyczajno zawartość z cołkigo internetu, ôbrano ôd { $provider }
 
 ##
@@ -574,7 +574,6 @@ search-show-suggestions-above-history-option =
     .label = Pokazuj dorady szukanio wyżyj jak historyjo przeglōndanio we wynikach poska z adresōm
 search-show-suggestions-private-windows =
     .label = Pokazuj dorady szukanio we prywatnych ôknach
-suggestions-addressbar-settings = Zmiyń nasztalowania doradōw ze przeglōndanio, zokłodek i kart.
 suggestions-addressbar-settings-generic = Zmiyń preferyncyje doradōw we posku adresy
 search-suggestions-cant-show = Dorady szukanio niy bydōm sie pokazować we posku z adresōm, bo mosz nasztalowane, coby { -brand-short-name } niy spamiyntowoł historyji.
 search-one-click-header = Wyszukowarki z jednym klikniyńciym
