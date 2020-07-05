@@ -9,4 +9,4 @@
 # Variables:
 #  $host - the hostname that is initiating the request
 #  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong>(이)가 <strong>{ $scheme }</strong> 링크를 열려고 합니다.
+handler-dialog-host = <strong>{ $host }</strong>이(가) <strong>{ $scheme }</strong> 링크를 열려고 합니다.
