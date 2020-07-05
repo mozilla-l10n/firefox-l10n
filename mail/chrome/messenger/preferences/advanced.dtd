@@ -91,7 +91,9 @@
 <!ENTITY showOffline.accesskey         "L">
 
 <!ENTITY Diskspace                       "Ruang Disk">
+<!ENTITY offlineCompactFolders.label     "Padatkan semua folder saat akan disimpan">
 <!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "Total MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -102,6 +104,7 @@
 <!ENTITY useCacheBefore.label            "Gunakan harddisk untuk tembolok hingga">
 <!ENTITY useCacheBefore.accesskey        "h">
 <!ENTITY useCacheAfter.label             "MB">
+<!ENTITY overrideSmartCacheSize.label    "Gunakan pengaturan tembolok manual">
 <!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Bersihkan Sekarang">
 <!ENTITY clearCacheNow.accesskey         "g">
@@ -112,6 +115,7 @@
 <!ENTITY certs.auto.accesskey            "P">
 <!ENTITY certs.ask                       "Tanyakan selalu">
 <!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Kueri server penjawab OCSP untuk mengonfirmasikan validitas sertifikat">
 <!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY manageCertificates.label "Kelola Sertifikat">
@@ -119,5 +123,7 @@
 <!ENTITY viewSecurityDevices.label "Perangkat Keamanan">
 <!ENTITY viewSecurityDevices.accesskey "k">
 
+<!ENTITY manageCertificates2.label "Kelola Sertifikat...">
 <!ENTITY manageCertificates2.accesskey "M">
+<!ENTITY viewSecurityDevices2.label "Peranti Keamanan…">
 <!ENTITY viewSecurityDevices2.accesskey "D">
