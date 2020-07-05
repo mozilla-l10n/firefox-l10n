@@ -678,7 +678,7 @@ prefs-sync-offer-setup-label = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', 
 prefs-sync-now =
     .labelnotsyncing = Tixim Wakami
     .accesskeynotsyncing = W
-    .labelsyncing = Nixim...
+    .labelsyncing = Nixim…
 
 ## The list of things currently syncing.
 

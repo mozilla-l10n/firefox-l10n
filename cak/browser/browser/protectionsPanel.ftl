@@ -10,7 +10,7 @@ protections-panel-sitefixedsendreport-label = ¿La nuk'un ri ruxaq? Titaq rutzij
 ## Enhanced Tracking Protection.
 
 protections-popup-footer-protection-label-strict = Nimaläj
-    .label = Choj
+    .label = Nimaläj
 protections-popup-footer-protection-label-custom = Ichinan
     .label = Ichinan
 protections-popup-footer-protection-label-standard = Pa rub'eyal
@@ -57,7 +57,6 @@ protections-panel-not-found-label = Man Xilitäj Ta
 ##
 
 protections-panel-settings-label = Runuk'ulem Ojqanem
-protections-panel-showreport-label = Tik'ut Rutzijol
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Rupas taq Chajinïk
 

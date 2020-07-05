@@ -801,7 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Rujalik rub'eyal re ruxaq re'">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "r">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Rujalik rub'eyal ri tz'ib'">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Tijal Rub'eyal ri Tz'ib'">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
