@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = புகுபதிகைககளும் கடவுச்சொற்களும்
@@ -12,14 +8,14 @@ about-logins-page-title = புகுபதிகைககளும் கட�
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = உங்கள் கடவுச்சொற்களை உங்களுடன் எடுத்துச் செல்லுங்கள்
+login-app-promo-subtitle = இலவசமாக { -lockwise-brand-name } செயிலியைப் பெறுக
 login-app-promo-android =
     .alt = Google Play இல் பெற
-
+login-app-promo-apple =
+    .alt = செயலி கடையிலிந்து பதிவிறக்குக
 login-filter =
     .placeholder = புகுபதிகைகளைத் தேடு
-
 create-login-button = புதிய புகுபதிகையை உருவாக்கு
-
 fxaccounts-sign-in-text = உங்கள் கடவுச்சொற்களை மற்ற சாதனங்களில் பெறுங்கள்
 fxaccounts-sign-in-button = { -sync-brand-short-name } உள்நுழைக
 fxaccounts-avatar-button =
@@ -88,9 +84,11 @@ login-item-time-used = கடைசியாகப் பயனில் இர�
 
 ## OS Authentication dialog
 
+
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -114,9 +112,7 @@ enable-password-sync-preferences-button =
 confirmation-dialog-cancel-button = இரத்து
 confirmation-dialog-dismiss-button =
     .title = இரத்து
-
 confirm-delete-dialog-message = இச்செயலை மீட்க முடியாது.
-
 confirm-discard-changes-dialog-title = சேமிக்காத மாற்றங்களை நிராகரிக்கவா?
 confirm-discard-changes-dialog-message = சேமிக்கப்படாத அனைத்து மாற்றங்களும் இழக்கப்படும்.
 confirm-discard-changes-dialog-confirm-button = நிராகரி
@@ -126,6 +122,7 @@ confirm-discard-changes-dialog-confirm-button = நிராகரி
 breach-alert-text = உங்கள் உள்நுழைவு விவரங்களைக் கடைசியாகப் புதுப்பித்ததிலிருந்து இந்த வலைத்தளத்திலிருந்து கடவுச்சொற்கள் கசிந்தன அல்லது திருடப்பட்டன. உங்கள் கணக்கைப் பாதுகாக்க கடவுச்சொல்லை மாற்றவும்.
 
 ## Vulnerable Password notification
+
 
 ## Error Messages
 
