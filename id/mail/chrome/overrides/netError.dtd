@@ -82,6 +82,8 @@
 <!ENTITY cspBlocked.title "Diblokir oleh Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalangi laman ini untuk dimuat karena laman memiliki kebijakan keamanan konten yang melarang hal tersebut.</p>">
 
+<!ENTITY xfoBlocked.title "Diblokir oleh Kebijakan Opsi-X-Frame">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; mencegah laman ini memuat dalam konteks ini karena laman memiliki kebijakan Opsi-X-Frame yang melarangnya.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Galat Konten Rusak">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang Anda coba lihat tidak dapat ditampilkan karena kesalahan pada transmisi data telah terdeteksi.</p><ul><li>Mohon hubungi pemilik situs untuk menginformasikan masalah tersebut.</li></ul>">
@@ -105,5 +107,6 @@ functionality specific to thunderbird. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi yang telah usang dan rentan terhadap serangan. Penyerang dapat dengan mudah membongkar informasi yang Anda pikir aman. Administrator situs perlu memperbaiki server sebelum Anda mengunjungi situs tersebut.</p><p>Kode kesalahan:NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Laman Diblokir">
 
 <!ENTITY networkProtocolError.title "Protokol Jaringan Bermasalah">
