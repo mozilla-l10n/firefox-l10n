@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Phông chữ">
 <!ENTITY FontFaceSelect.tooltip "Chọn phông chữ">
 <!ENTITY fontfaceMenu.label "Phông chữ">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Cỡ chữ">
 <!ENTITY FontSizeSelect.tooltip "Chọn cỡ chữ">
 <!ENTITY decreaseFontSize.label "Nhỏ hơn">
 <!ENTITY decreaseFontSize.accesskey "r">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Danh sách thuộc tính…">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "Đoạn văn bản">
 <!ENTITY ParagraphSelect.tooltip "Chọn một định dạng đoạn văn">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Nội dung">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Căn hai bên">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Định vị">
 <!ENTITY layer.tooltip "Lớp">
+<!ENTITY decreaseZIndex.label "Đưa ra sau">
 <!ENTITY layerSendToBack.tooltip "Đưa ra sau">
+<!ENTITY increaseZIndex.label "Đưa ra trước">
 <!ENTITY layerBringToFront.tooltip "Đưa ra trước">
 
 <!ENTITY increaseIndent.label "Tăng lề">
@@ -304,28 +310,45 @@
 <!ENTITY linkToolbarCmd.tooltip "Chèn liên kết mới hoặc chỉnh sửa thuộc tính của liên kết đã chọn">
 <!ENTITY anchorToolbarCmd.label "Mỏ neo">
 <!ENTITY anchorToolbarCmd.tooltip "Chèn neo mới hoặc chỉnh sửa thuộc tính của neo được chọn">
+<!ENTITY colorButtons.title "Màu">
 <!ENTITY TextColorButton.tooltip "Chọn màu chữ">
 <!ENTITY BackgroundColorButton.tooltip "Chọn màu nền">
 <!ENTITY throbber.tooltip "Mở trang chủ &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Truy cập trang chủ &brandShortName;">
+<!ENTITY HighlightColorButton.label "Công cụ tô sáng">
 <!ENTITY HighlightColorButton.tooltip "Chọn màu tô đậm văn bản">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Cỡ chữ">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Đặt cỡ chữ">
+<!ENTITY smaller.label "Nhỏ hơn">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Cỡ chữ nhỏ hơn">
+<!ENTITY larger.label "Lớn hơn">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Cỡ chữ lớn hơn">
+<!ENTITY bold.label "Đậm">
 <!ENTITY boldToolbarCmd.tooltip "Đậm">
+<!ENTITY italic.label "Nghiêng">
 <!ENTITY italicToolbarCmd.tooltip "Nghiêng">
+<!ENTITY underline.label "Gạch dưới">
 <!ENTITY underlineToolbarCmd.tooltip "Gạch dưới">
+<!ENTITY bullets.label "Dấu tròn đầu dòng">
 <!ENTITY bulletListToolbarCmd.tooltip "Áp dụng hoặc xóa danh sách bullet">
+<!ENTITY numbers.label "Số">
 <!ENTITY numberListToolbarCmd.tooltip "Áp dụng hoặc xóa danh sách số">
+<!ENTITY outdent.label "Thụt lề">
 <!ENTITY outdentToolbarCmd.tooltip "Giảm lề văn bản (chuyển trái)">
+<!ENTITY indent.label "Tăng lề">
 <!ENTITY indentToolbarCmd.tooltip "Tăng lề văn bản (chuyển phải)">
+<!ENTITY AlignPopupButton.label "Căn chỉnh">
 <!ENTITY AlignPopupButton.tooltip "Chọn cách căn văn bản">
+<!ENTITY InsertPopupButton.label "Chèn">
 <!ENTITY InsertPopupButton.tooltip "Chèn một liên kết, neo, hình ảnh, đường ngang hoặc bảng">
+<!ENTITY alignLeftButton.label "Căn trái">
 <!ENTITY alignLeftButton.tooltip "Căn theo lề trái">
+<!ENTITY alignCenterButton.label "Căn giữa">
 <!ENTITY alignCenterButton.tooltip "Căn vào giữa">
+<!ENTITY alignRightButton.label "Căn phải">
 <!ENTITY alignRightButton.tooltip "Căn theo lề phải">
+<!ENTITY alignJustifyButton.label "Căn hai bên">
 <!ENTITY alignJustifyButton.tooltip "Căn theo hai bên lề">
 
 <!-- Structure Toolbar Context Menu items -->

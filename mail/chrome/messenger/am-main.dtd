@@ -15,6 +15,7 @@
 <!ENTITY name.accesskey "B">
 <!ENTITY email.label "Địa chỉ Email:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Địa chỉ Trả-lời-tới:">
 <!ENTITY replyTo.accesskey "a">
 <!ENTITY replyTo.placeholder "Người nhận sẽ trả lời địa chỉ khác này">
