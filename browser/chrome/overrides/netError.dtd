@@ -74,15 +74,13 @@
 
 <!ENTITY notCached.title "Документ застарів">
 
-<!ENTITY notCached.longDesc "<p>Вказаний документ більше недоступний у кеші &brandShortName;.</p><ul><li>З міркувань безпеки, &brandShortName; не перезавантажує чутливі документи автоматично.</li><li>Клацніть «Спробувати знову» щоб перезавантажити документ з сайта.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Вказаний документ більше недоступний у кеші &brandShortName;.</p><ul><li>З міркувань безпеки, &brandShortName; не перезавантажує вразливі документи автоматично.</li><li>Клацніть Спробувати знову, щоб перезавантажити документ з вебсайту.</li></ul>">
 
 <!ENTITY netOffline.title "Автономний режим">
 
-<!ENTITY netOffline.longDesc2 "
-<ul>
+<!ENTITY netOffline.longDesc2 "<ul>
   <li>Натисніть «Спробувати знову» щоб перемкнутись в онлайновий режим і перезавантажити сторінку.</li>
-</ul>
-">
+</ul>">
 
 <!ENTITY contentEncodingError.title "Помилка кодування вмісту">
 
