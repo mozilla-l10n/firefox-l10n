@@ -21,6 +21,7 @@ experimental-features-avif-description = AVIF (AV1 Image File Format)에 대한 
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-lax-by-default =
     .label = Cookies: SameSite=lax가 기본값
+experimental-features-cookie-samesite-lax-by-default-description = 쿠키에 “sameSite” 속성이 지정되지 않은 경우 “sameSite=lax”를 기본값으로 간주합니다. 무제한 사용시에는 개발자는 “sameSite=none”을 명확하게 명시해야 합니다.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
