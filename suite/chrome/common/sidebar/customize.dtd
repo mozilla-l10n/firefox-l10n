@@ -9,6 +9,10 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Abas visualizadas no &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "v">
+
+<!ENTITY sidebar.customize.title                "Personalizar barra lateral">
+<!ENTITY sidebar.customize.current2.label       "Abas na barra lateral:">
+<!ENTITY sidebar.customize.current2.accesskey   "A">
 <!ENTITY sidebar.customize.customize.label      "Personalizar aba...">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
 <!ENTITY sidebar.customize.remove.label         "Remover">
