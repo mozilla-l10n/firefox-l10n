@@ -7,6 +7,7 @@ carddav-window =
 carddav-dialog =
     .buttonlabelaccept = Lanjutkan
     .buttonaccesskeyaccept = L
+carddav-experimental-warning = Dukungan buku alamat CardDAV bersifat eksperimental dan dapat merusak data Anda secara permanen. Gunakan dengan risiko Anda sendiri.
 carddav-provider-label =
     .value = Penyedia CardDAV:
     .accesskey = P

@@ -5,6 +5,11 @@
 
 # Addressing widget
 
+#   $type (String) - the type of the addressing row
+remove-address-row-type = Hapus bidang { $type }
+#   $type (String) - the type of the addressing row
+remove-address-row-type-label =
+    .tooltiptext = Hapus bidang { $type }
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
