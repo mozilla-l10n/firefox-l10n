@@ -592,7 +592,7 @@ search-find-more-link = Знайти інші засоби пошуку
 search-keyword-warning-title = Це скорочення вже використовується
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = Ви вибрали скорочення, котре вже використовує «{ $name }». Будь ласка, вкажіть інше.
+search-keyword-warning-engine = Ви вибрали скорочення, яке вже використовується “{ $name }”. Будь ласка, вкажіть інше.
 search-keyword-warning-bookmark = Ви вибрали скорочення, котре вже використовується закладкою. Будь ласка, вкажіть інше.
 
 ## Containers Section
