@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } ცდები
 category-experimental =
     .tooltiptext = { -brand-short-name } ცდები
 pane-experimental-subtitle = განაგრძეთ სიფრთხილით
+pane-experimental-search-results-header = { -brand-short-name } ცდები: განაგრძეთ სიფრთხილით
 pane-experimental-description = გაფართოებული პარამეტრების შეცვლით, შესაძლოა დაზიანდეს { -brand-short-name } წარმადობის ან უსაფრთხოების კუთხით.
 help-button-label = { -brand-short-name } დახმარება
 addons-button-label = გაფართოებები და თემები
