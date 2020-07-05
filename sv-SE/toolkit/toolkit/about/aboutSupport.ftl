@@ -272,6 +272,9 @@ blocklisted-bug = Svartlistad på grund av kända problem
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bugg { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Blockerad på grund av kända problem: <a data-l10n-name="bug-link">bugg { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Svartlistad; felkod { $failureCode }
 d3d11layers-crash-guard = D3D11 Kompositör
