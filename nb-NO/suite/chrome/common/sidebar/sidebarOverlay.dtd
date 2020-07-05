@@ -6,7 +6,7 @@
 <!ENTITY sidebar.reload.label           "Oppdater">
 <!ENTITY sidebar.reload.accesskey       "O">
 <!ENTITY sidebar.picker.label           "Faner">
-<!ENTITY sidebar.customize.label        "Endre innhold …">
+<!ENTITY sidebar.customize.label        "Tilpass sidestolpe…">
 <!ENTITY sidebar.customize.accesskey    "n">
 <!ENTITY sidebar.hide.label             "Skjul fane">
 <!ENTITY sidebar.hide.accesskey         "S">
