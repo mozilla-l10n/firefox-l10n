@@ -21,6 +21,7 @@ experimental-features-avif-description = Eksperimentell støtte for AVIF: AV1 bi
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-lax-by-default =
     .label = Cookies: SameSite=lax by default
+experimental-features-cookie-samesite-lax-by-default-description = Behandle infokapsler som «sameSite=lax» som standard hvis ingen «sameSite»-attributt er spesifisert. Utviklere må eksplisitt bruke «sameSite=none» for å gjenopprette den nåværende operasjonen som ikke gir noen begrensning i bruken.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
