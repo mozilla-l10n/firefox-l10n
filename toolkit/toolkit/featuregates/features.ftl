@@ -17,3 +17,11 @@ experimental-features-web-gpu-description = საცდელი API გრა�
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = საცდელი მხარდაჭერა სურათის სახის ფაილისთვის AVIF: AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookies: SameSite=lax by default
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Cookies: SameSite=none requires secure attribute
