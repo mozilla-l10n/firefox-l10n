@@ -210,15 +210,22 @@ cfr-doorhanger-milestone-close-button = Tanca
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-icon-alt = Icona del { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Rebeu alertes sobre contrasenyes vulnerables
+cfr-whatsnew-passwords-icon-alt = Icona de clau de contrasenya vulnerable
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = La imatge sobre imatge, ara a pantalla completa
+cfr-whatsnew-pip-fullscreen-icon-alt = Icona d'Imatge sobre imatge
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Totes les proteccions d'un cop d'ull
+cfr-whatsnew-protections-body = El Tauler de proteccions inclou un resum de les filtracions de dades i gestió de contrasenyes. Ara podeu fer el seguiment de les filtracions que heu resolt i comprovar si alguna de les vostres contrasenyes desades podrien haver estat exposades en una filtració de dades.
 cfr-whatsnew-protections-cta-link = Mostra el tauler de proteccions
 cfr-whatsnew-protections-icon-alt = Icona d'escut
 
@@ -229,6 +236,7 @@ cfr-whatsnew-better-pdf-body = Ara els documents PDF s'obren directament en el {
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = La vostra privadesa és important. Ara el { -brand-short-name } encamina de forma segura les vostres sol·licituds DNS, sempre que sigui possible, a un servei associat per protegir-vos mentre navegueu.
 cfr-doorhanger-doh-primary-button = Entesos
     .accesskey = o
 cfr-doorhanger-doh-secondary-button = Inhabilita
