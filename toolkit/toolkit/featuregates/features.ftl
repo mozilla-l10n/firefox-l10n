@@ -26,3 +26,4 @@ experimental-features-cookie-samesite-lax-by-default-description = A sütik „s
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookies: SameSite=none requires secure attribute
+experimental-features-cookie-samesite-none-requires-secure-description = A „sameSite=none” attribútummal rendelkező sütikhez szükséges a secure attribútum. A funkcióhoz szükséges a „Cookies: SameSite=lax by default”.
