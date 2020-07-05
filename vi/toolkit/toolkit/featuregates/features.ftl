@@ -17,3 +17,13 @@ experimental-features-web-gpu-description = API thử nghiệm cho đồ họa v
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Hỗ trợ thử nghiệm cho AVIF: Định dạng tập tin hình ảnh AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookie: SameSite=lax theo mặc định
+experimental-features-cookie-samesite-lax-by-default-description = Xử lý cookie như “sameSite=lax” theo mặc định nếu không có thuộc tính “sameSite” được chỉ định. Các nhà phát triển phải chọn tham gia vào hiện trạng sử dụng không hạn chế bằng cách xác nhận rõ ràng “sameSite=none”.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Cookie: SameSite=none yêu cầu thuộc tính bảo mật
+experimental-features-cookie-samesite-none-requires-secure-description = Cookie với thuộc tính “sameSite=none” yêu cầu thuộc tính bảo mật. Tính năng này yêu cầu “Cookie: SameSite=lax theo mặc định”.
