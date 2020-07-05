@@ -21,7 +21,9 @@ experimental-features-avif-description = საცდელი მხარდ�
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-lax-by-default =
     .label = Cookies: SameSite=lax by default
+experimental-features-cookie-samesite-lax-by-default-description = განესაზღვროს ფუნთუშებს “sameSite=lax” ნაგულისხმევად, თუ “sameSite” თვისება მითითებულია. შემმუშავებლებმა უნდა გაითვალისწინონ შეუზღუდავი გამოყენების არსებული მდგომარეობა, მკაფიო განაცხადით “sameSite=none”.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookies: SameSite=none requires secure attribute
+experimental-features-cookie-samesite-none-requires-secure-description = ფუნთუშები თვისებით “sameSite=none” საჭიროებს დაცულ თვისებას. ამ შესაძლებლობის წინაპირობაა “Cookies: SameSite=lax by default”.
