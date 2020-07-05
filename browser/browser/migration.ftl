@@ -121,6 +121,24 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Inicis de sessió i contrasenyes desats
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favorits
+            [edge] Favorits
+           *[other] Adreces d'interès
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favorits
+            [edge] Favorits
+           *[other] Adreces d'interès
+        }
+browser-data-otherdata-checkbox =
+    .label = Altres dades
+browser-data-otherdata-label =
+    .label = Altres dades
 browser-data-session-checkbox =
     .label = Finestres i pestanyes
 browser-data-session-label =
