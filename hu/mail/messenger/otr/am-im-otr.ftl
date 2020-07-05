@@ -17,6 +17,10 @@ otr-log =
     .label = Vegye fel az OTR-titkosított üzeneteket a beszélgetési naplókba
 otr-requireEncryption =
     .label = Végpontok közötti titkosítás megkövetelése a négyszemközti beszélgetésekhez
+otr-require-encryption-info =
+    Ha megköveteli a végpontok közötti titkosítást, akkor a négyszemközti beszélgetések
+    üzeneteit csak akkor lehet elküldeni, ha titkosíthatók. A megkapott titkosítatlan
+    üzenetek nem jelennek meg a szokásos beszélgetés részeként, és nem lesznek naplózva.
 otr-verifyNudge =
     .label = Mindig emlékeztessen az ellenőrizetlen partnerek ellenőrzésére
 otr-notYetAvailable = még nem érhető el
