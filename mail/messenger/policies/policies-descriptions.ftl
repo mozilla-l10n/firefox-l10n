@@ -22,3 +22,4 @@ policy-DisableTelemetry = Nonaktifkan Telemetry.
 
 ##
 
+policy-PromptForDownloadLocation = Tanyakan di mana berkas disimpan saat mengunduh.
