@@ -272,6 +272,9 @@ blocklisted-bug = დამატებულია შეზღუდულთ�
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = შეცდომა { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = შეზღუდულთა სიაშია, შემდეგი მიზეზის გამო: <a data-l10n-name="bug-link">ხარვეზი { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = დამატებულია შეზღუდულთა სიაში; შეცდომის კოდი { $failureCode }
 d3d11layers-crash-guard = ასოთამწყობი D3D11
