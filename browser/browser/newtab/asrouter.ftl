@@ -119,6 +119,7 @@ cfr-whatsnew-lockwise-take-link-text = Baixa l'aplicació
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Escriviu menys i trobeu més amb la barra d'adreces
+cfr-whatsnew-searchbar-body-topsites = Ara, podeu seleccionar la barra d'adreces i es desplegarà un quadre amb enllaços als vostres llocs principals.
 cfr-whatsnew-searchbar-icon-alt-text = Icona de lupa
 
 ## Picture-in-Picture
@@ -211,11 +212,14 @@ cfr-doorhanger-milestone-close-button = Tanca
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Creeu contrasenyes segures fàcilment
+cfr-whatsnew-lockwise-body = És complicat pensar en contrasenyes úniques i segures per a cada compte. Quan creeu una contrasenya, seleccioneu el camp de contrasenya per utilitzar una contrasenya segura generada pel { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = Icona del { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Rebeu alertes sobre contrasenyes vulnerables
+cfr-whatsnew-passwords-body = Els furoners saben que la gent reutilitza les mateixes contrasenyes. Si heu utilitzat la mateixa contrasenya en diversos llocs i un d'aquests llocs ha aparegut en alguna filtració de dades, veureu una alerta en el { -lockwise-brand-short-name } perquè canvieu la contrasenya d'aquests llocs.
 cfr-whatsnew-passwords-icon-alt = Icona de clau de contrasenya vulnerable
 
 ## Picture-in-Picture fullscreen message
