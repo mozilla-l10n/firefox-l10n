@@ -6,7 +6,7 @@
 ## App Menu
 
 appmenuitem-update-banner =
-    .label-update-downloading = Hämtar { -brand-shorter-name } uppdatering
+    .label-update-downloading = Hämtar uppdateringen av { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Säkerhetsöversikt
 appmenuitem-customize-mode =
     .label = Anpassa…

@@ -5,7 +5,7 @@
 
 ## Messages used as headers in the main pane
 
-compatibility-selected-element-header = Valt element
+compatibility-selected-element-header = Markerade element
 compatibility-all-elements-header = Alla problem
 
 ## Message used as labels for the type of issue
