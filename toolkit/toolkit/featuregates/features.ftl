@@ -17,3 +17,7 @@ experimental-features-web-gpu-description = 對網路圖形與運算的實驗性
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = 對 AVIF（AV1 圖片檔案格式）的實驗性支援
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookies: SameSite=lax by default
