@@ -21,3 +21,9 @@ experimental-features-avif-description = 對 AVIF（AV1 圖片檔案格式）的
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-lax-by-default =
     .label = Cookies: SameSite=lax by default
+experimental-features-cookie-samesite-lax-by-default-description = 若未指定「sameSite」就將 Cookie 預設設定為「sameSite=lax」。開發者必須明確指定「sameSite=none」才能維持現有行為，不受限制使用 Cookie。
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Cookies: SameSite=none requires secure attribute
+experimental-features-cookie-samesite-none-requires-secure-description = 使用「sameSite=none」屬性設定的 Cookie 必須再加上 secure 屬性。必須先開啟「Cookies: SameSite=lax by default」才能開啟此功能。
