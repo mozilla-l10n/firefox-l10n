@@ -119,6 +119,7 @@ cfr-whatsnew-lockwise-take-link-text = Baixa l'aplicació
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Escriviu menys i trobeu més amb la barra d'adreces
+cfr-whatsnew-searchbar-icon-alt-text = Icona de lupa
 
 ## Picture-in-Picture
 
@@ -220,6 +221,7 @@ cfr-whatsnew-passwords-icon-alt = Icona de clau de contrasenya vulnerable
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = La imatge sobre imatge, ara a pantalla completa
+cfr-whatsnew-pip-fullscreen-body = Quan obriu un vídeo en una finestra flotant, ara podeu fer doble clic a la finestra per canviar-lo a pantalla completa.
 cfr-whatsnew-pip-fullscreen-icon-alt = Icona d'Imatge sobre imatge
 
 ## Protections Dashboard message
@@ -237,6 +239,7 @@ cfr-whatsnew-better-pdf-body = Ara els documents PDF s'obren directament en el {
 ## DOH Message
 
 cfr-doorhanger-doh-body = La vostra privadesa és important. Ara el { -brand-short-name } encamina de forma segura les vostres sol·licituds DNS, sempre que sigui possible, a un servei associat per protegir-vos mentre navegueu.
+cfr-doorhanger-doh-header = Consultes DNS més segures i xifrades
 cfr-doorhanger-doh-primary-button = Entesos
     .accesskey = o
 cfr-doorhanger-doh-secondary-button = Inhabilita
