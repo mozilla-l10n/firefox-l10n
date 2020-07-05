@@ -25,3 +25,4 @@ experimental-features-cookie-samesite-lax-by-default =
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookies: SameSite=none requires secure attribute
+experimental-features-cookie-samesite-none-requires-secure-description = Infokapsler med «sameSite=none»-attributt krever secure-attributt. Denne funksjonen krever «Cookies: SameSite=lax by default».
