@@ -4,6 +4,7 @@
 
 <!ENTITY dialog.title                 "Pengaturan Pengiriman">
 <!ENTITY sendMail.title               "Format Teks">
+<!ENTITY autoDowngrade.label          "Kirim pesan sebagai teks biasa jika memungkinkan">
 <!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Saat mengirim pesan dalam format HTML dan salah satu penerima atau lebih tidak didaftar mempunyai kemampuan menerima format HTML:">
 <!ENTITY askMe.label                  "Tanyakan saya">
