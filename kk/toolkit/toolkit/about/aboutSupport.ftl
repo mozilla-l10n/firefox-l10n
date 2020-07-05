@@ -272,6 +272,9 @@ blocklisted-bug = Белгілі осалдылықтар салдарынан �
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = ақаулық { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Белгілі мәселелерге байланысты бұғатталған: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Блоктізіміде; қателік коды { $failureCode }
 d3d11layers-crash-guard = D3D11 араластырушысы
