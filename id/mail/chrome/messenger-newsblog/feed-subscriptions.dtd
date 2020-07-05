@@ -11,6 +11,7 @@
 
 <!ENTITY feedLocation.label          "URL Feed:">
 <!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation2.placeholder   "Masukkan url umpan yang valid">
 <!ENTITY locationValidate.label      "Validasi">
 <!ENTITY validateText.label          "Memeriksa validasi dan mengambil URL yang valid.">
 
@@ -29,8 +30,11 @@
 <!ENTITY quickMode.label             "Tampilkan ringkasan artikel, jangan memuat laman webnya">
 <!ENTITY quickMode.accesskey         "r">
 
+<!ENTITY autotagEnable.label         "Secara otomatis membuat tag dari umpan &lt; kategori &gt; nama">
 <!ENTITY autotagEnable.accesskey     "o">
+<!ENTITY autotagUsePrefix.label      "Tag awalan dengan:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Masukkan awalan tag">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Tambah">
@@ -45,6 +49,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Ekspor">
 <!ENTITY button.exportOPML.accesskey "E">
+<!ENTITY button.exportOPML.tooltip   "Ekspor Umpan dengan struktur folder; ctrl klik atau ctrl enter untuk mengekspor Umpan sebagai daftar">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Tutup">

@@ -15,9 +15,15 @@
 <!ENTITY languageSelector.label        "Bahasa">
 <!ENTITY allowHWAccel.label            "Gunakan akselerasi perangkat keras jika tersedia">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Jenis Toko Pesan untuk akun baru:">
 <!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore2.label              "File per folder (mbox)">
+<!ENTITY maildirStore.label            "File per pesan (maildir)">
 
+<!ENTITY scrolling.label               "Pengguliran">
+<!ENTITY useAutoScroll.label           "Gunakan pengguliran otomatis">
 <!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Gunakan pengguliran mulus">
 <!ENTITY useSmoothScrolling.accesskey  "m">
 
 <!ENTITY systemIntegration.label       "Integrasi dengan Sistem">
@@ -36,10 +42,14 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetri">
+<!ENTITY telemetryDesc.label             "Membagikan data kinerja, penggunaan, perangkat keras dan penyesuaian tentang klien surel Anda dengan &vendorShortName; untuk membantu kami membuat &brandShortName; lebih baik">
 <!ENTITY enableTelemetry.label           "Aktifkan Telemetri">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Pelajari Lebih Lanjut">
 
+<!ENTITY crashReporterSection.label      "Pelapor Kerusakan">
+<!ENTITY crashReporterDesc.label         "&brandShortName; mengirimkan laporan kerusakan untuk membantu &vendorShortName; buat klien surel Anda lebih stabil dan aman">
+<!ENTITY enableCrashReporter.label       "Aktifkan Pelapor Kerusakan">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">
 
@@ -68,6 +78,7 @@
 <!ENTITY useService.label                "Gunakan layanan latar belakang untuk memasang pemutakhiran">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY updateCrossUserSettingWarning.description "Pengaturan ini akan berlaku untuk semua akun Windows dan &brandShortName; profil menggunakan pemasangan &brandShortName;. ini">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Pengaturan…">

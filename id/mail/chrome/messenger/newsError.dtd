@@ -12,9 +12,11 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
+<!ENTITY articleNotFound.desc "Server newsgroup melaporkan bahwa tidak dapat menemukan artikel.">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
+<!ENTITY serverResponded.title "Server newsgroup merespons:">
 
 <!-- LOCALIZATION NOTE (articleExpired.title): A string explaining that the
      article may have expired. -->
