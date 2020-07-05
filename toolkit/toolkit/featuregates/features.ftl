@@ -17,3 +17,11 @@ experimental-features-web-gpu-description = Eksperimentelny API za grafiku a př
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperimentelna podpěra za AVIF: wobrazowy format AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Placki: SameSite=lax po standardźe
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Placki: SameSite=none atribut secure trjeba
