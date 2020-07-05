@@ -282,6 +282,9 @@ blocklisted-bug = W blokowanskej lisćinje znatych problemow dla
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = programowy zmylk { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = W blokowanskej lisćinje znatych problemow dla: <a data-l10n-name="bug-link">programowy zmylk { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = W blokowanskej lisćinje; zmylkowy kod { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
