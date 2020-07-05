@@ -251,6 +251,9 @@ blocklisted-bug = Danh sách chặn do các vấn đề đã biết
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = lỗi { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Bị chặn trong danh sách do các sự cố đã biết: <a data-l10n-name="bug-link">mã lỗi { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Danh sách chặn; mã lỗi { $failureCode }
 d3d11layers-crash-guard = Bộ soạn nhạc D3D11
