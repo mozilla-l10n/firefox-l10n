@@ -5,11 +5,15 @@
 <!-- extracted from ./customize.xul -->
 
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Endre sidestolpen">
+<!ENTITY sidebar.customize.title.label          "Tilpass &sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Faner i sidestolpen:">
+<!ENTITY sidebar.customize.current.label        "Faner i &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "F">
-<!ENTITY sidebar.customize.customize.label      "Endre fane …">
+
+<!ENTITY sidebar.customize.title                "Tilpass sidestolpe">
+<!ENTITY sidebar.customize.current2.label       "Faner i sidestolpe:">
+<!ENTITY sidebar.customize.current2.accesskey   "F">
+<!ENTITY sidebar.customize.customize.label      "Tilpass fane…">
 <!ENTITY sidebar.customize.customize.accesskey  "E">
 <!ENTITY sidebar.customize.remove.label         "Fjern">
 <!ENTITY sidebar.customize.remove.accesskey     "R">
