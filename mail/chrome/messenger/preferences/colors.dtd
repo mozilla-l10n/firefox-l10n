@@ -6,9 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overridePageColors.label        "Ganti warna yang ditentukan oleh konten dengan pilihan saya di atas:">
 <!ENTITY  overridePageColors.accesskey    "O">
 
 <!ENTITY  overridePageColors.always.label "Selalu">
+<!ENTITY  overridePageColors.auto.label   "Hanya dengan tema Kontras Tinggi">
 <!ENTITY  overridePageColors.never.label  "Jangan Pernah">
 
 <!ENTITY  color                           "Teks dan Latar Belakang">
