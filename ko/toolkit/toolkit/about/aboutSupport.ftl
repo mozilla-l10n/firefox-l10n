@@ -247,10 +247,13 @@ webgl2-renderer = WebGL2 드라이버 랜더러
 webgl2-version = WebGL 2 드라이버 버전
 webgl2-driver-extensions = WebGL 2 드라이버 확장 기능
 webgl2-extensions = WebGL 2 확장 기능
-blocklisted-bug = 알려진 문제로 차단된 목록
+blocklisted-bug = 알려진 문제로 인해 차단됨
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = 버그 { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = 알려진 문제로 인해 차단됨: <a data-l10n-name="bug-link">버그 { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = 차단됨; 실패 코드 { $failureCode }
