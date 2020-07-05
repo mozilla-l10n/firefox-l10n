@@ -50,6 +50,12 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Experiments del { -brand-short-name }
+category-experimental =
+    .tooltiptext = Experiments del { -brand-short-name }
+pane-experimental-subtitle = Aneu amb compte
+pane-experimental-search-results-header = Experiments del { -brand-short-name }: Aneu amb compte
+pane-experimental-description = La modificació de les preferències avançades de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
 help-button-label = Assistència del { -brand-short-name }
 addons-button-label = Extensions i temes
 focus-search =
@@ -499,7 +505,6 @@ home-prefs-topsites-description = Els llocs que visiteu més sovint
 
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
-home-prefs-recommended-by-description = El contingut més interessant de tot el web, personalitzat per a vós
 home-prefs-recommended-by-description-update = Contingut excepcional d'arreu del web, seleccionat per { $provider }
 
 ##
@@ -563,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = En els resultats de la barra d'adreces, mostra els suggeriments de cerca abans de l'historial de navegació
 search-show-suggestions-private-windows =
     .label = Mostra suggeriments de cerca en les finestres privades
-suggestions-addressbar-settings = Canvieu les preferències dels suggeriments de l'historial de navegació, de les adreces d'interès i de les pestanyes
 suggestions-addressbar-settings-generic = Canvia les preferències d'altres suggeriments de la barra d'adreces
 search-suggestions-cant-show = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recordi mai l'historial.
 search-one-click-header = Motors de cerca amb un sol clic
