@@ -281,6 +281,9 @@ blocklisted-bug = Zablokowano z powodu znanych problemów
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = zgłoszenie { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Zablokowano z powodu znanych problemów: <a data-l10n-name="bug-link">zgłoszenie { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zablokowano. Kod błędu: { $failureCode }
 d3d11layers-crash-guard = Kompozytor D3D11
