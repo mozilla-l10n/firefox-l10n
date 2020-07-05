@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Inicis de sessió i contrasenyes
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = Disponible a Google Play
 login-app-promo-apple =
     .alt = Baixeu-lo de l'App Store
-
 login-filter =
     .placeholder = Cerca els inicis de sessió
-
 create-login-button = Crea un inici de sessió
-
 fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
 fxaccounts-sign-in-button = Inicia la sessió al { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -34,6 +27,7 @@ menu =
     .title = Obre el menú
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importa d'un altre navegador…
+about-logins-menu-menuitem-export-logins = Exporta els inicis de sessió…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -118,18 +112,21 @@ about-logins-edit-login-os-auth-dialog-message-win = Per editar l'inici de sessi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar l'inici de sessió desat
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Per veure la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostrar la contrasenya desada
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Per copiar la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contrasenya desada
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Per exportar els inicis de sessió, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = exportar els inicis de sessió i les contrasenyes desats
 
 ## Master Password notification
 
@@ -161,11 +158,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancel·la
 confirmation-dialog-dismiss-button =
     .title = Cancel·la
-
 about-logins-confirm-remove-dialog-title = Voleu eliminar aquest inici de sessió?
 confirm-delete-dialog-message = Aquesta acció no es pot desfer.
 about-logins-confirm-remove-dialog-confirm-button = Elimina
-
+about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contrasenyes
+about-logins-confirm-export-dialog-message = Les contrasenyes es desaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que pugui obrir el fitxer exportat les podrà veure.
+about-logins-confirm-export-dialog-confirm-button = Exporta…
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
 confirm-discard-changes-dialog-message = Es perdran tots els canvis que no hàgiu desat.
 confirm-discard-changes-dialog-confirm-button = Descarta
@@ -196,10 +194,21 @@ about-logins-vulnerable-alert-learn-more-link = Més informació
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ja existeix una entrada per a { $loginTitle } amb aquest nom d'usuari. <a data-l10n-name="duplicate-link">Voleu anar a l'entrada existent?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = S'ha produït un error en intentar desar aquesta contrasenya.
 
-
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Exporta el fitxer d'inicis de sessió
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = inicis_sessio.csv
+about-logins-export-file-picker-export-button = Exporta
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Document CSV
+       *[other] Fitxer CSV
+    }
