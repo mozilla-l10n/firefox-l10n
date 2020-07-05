@@ -43,4 +43,5 @@
 <!ENTITY removeSearchEngine.label         "Hapus">
 <!ENTITY removeSearchEngine.accesskey     "v">
 
+<!ENTITY minimizeToTray.label             "Kapan &brandShortName; diminimalkan, pindahkan ke baki">
 <!ENTITY minimizeToTray.accesskey         "m">

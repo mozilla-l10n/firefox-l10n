@@ -4,9 +4,12 @@
 
 <!ENTITY offlineDialog.title "Pengaturan Luring">
 
+<!ENTITY checkAutoDetect.label "Secara otomatis mengikuti keadaan daring yang terdeteksi">
 <!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Status manual saat memulai:">
 <!ENTITY radioRememberPrevState.label "Ingat Status Mode Daring Sebelumnya">
 <!ENTITY radioRememberPrevState.accesskey "I">
+<!ENTITY radioAskState.label "Tanya saya untuk keadaan daring">
 <!ENTITY radioAskState.accesskey "k">
 <!ENTITY radioAlwaysOnlineState.label "Selalu mulai dalam mode daring">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
