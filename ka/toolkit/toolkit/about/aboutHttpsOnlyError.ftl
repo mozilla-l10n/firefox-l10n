@@ -16,4 +16,5 @@ about-httpsonly-explanation-unavailable = თქვენ მხოლოდ-HTT
 about-httpsonly-explanation-question = რისი ბრალია?
 about-httpsonly-explanation-nosupport = უმეტესად იმის, რომ საიტს უბრალოდ არ აქვს HTTPS.
 about-httpsonly-explanation-risk = არც ისაა გამორიცხული, ვინმე შემტევის ხელი ერიოს. თუ გადაწყვეტთ ეწვიოთ ამ საიტს, აჯობებს არ შეიყვანოთ მნიშვნელოვანი მონაცემები, პაროლები, ელფოსტა ან საკრედიტო ბარათის კოდები.
+about-httpsonly-button-accept-and-continue = საფრთხის გაცნობიერება და გაგრძელება
 about-httpsonly-button-go-back = უკან დაბრუნება
