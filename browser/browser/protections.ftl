@@ -53,9 +53,30 @@ lockwise-title = No oblideu mai més cap contrasenya
 lockwise-title-logged-in2 = Gestió de contrasenyes
 lockwise-header-content = { -lockwise-brand-name } emmagatzema les contrasenyes de forma segura en el vostre navegador.
 lockwise-header-content-logged-in = Deseu i sincronitzeu les contrasenyes de forma segura en tots els vostres dispositius.
+protection-report-save-passwords-button = Desa les contrasenyes
+    .title = Desa les contrasenyes en el { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Gestiona les contrasenyes
+    .title = Gestiona les contrasenyes en el { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Accediu a les vostres contrasenyes des de qualsevol lloc
 lockwise-no-logins-card-content = Utilitzeu en qualsevol dispositiu les contrasenyes desades en el { -brand-short-name }.
 lockwise-app-links = { -lockwise-brand-name } per a l'<a data-l10n-name="lockwise-android-inline-link">Android</a> i l'<a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 contrasenya pot haver estat exposada en una filtració de dades.
+       *[other] { $count } contrasenyes poden haver estat exposades en una filtració de dades.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 contrasenya emmagatzemada de forma segura.
+       *[other] Les vostres contrasenyes s'emmagatzemen de forma segura.
+    }
+lockwise-how-it-works-link = Com funciona
 turn-on-sync = Activa el { -sync-brand-short-name }…
     .title = Vés a les preferències de sincronització
 monitor-title = Tingueu controlades les filtracions de dades
@@ -87,6 +108,8 @@ info-exposed-passwords-found =
         [one] contrasenya exposada entre totes les filtracions
        *[other] contrasenyes exposades entre totes les filtracions
     }
+monitor-no-breaches-title = Bones notícies!
+monitor-no-breaches-description = No apareixeu en cap filtració coneguda. Si això canvia, us avisarem.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
