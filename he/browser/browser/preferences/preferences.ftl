@@ -54,6 +54,7 @@ pane-experimental-title = ניסויים של { -brand-short-name }
 category-experimental =
     .tooltiptext = ניסויים של { -brand-short-name }
 pane-experimental-subtitle = נא להמשיך בזהירות
+pane-experimental-search-results-header = ניסויים של { -brand-short-name }: נא להמשיך בזהירות
 pane-experimental-description = שינוי העדפות התצורה המתקדמות עשוי להשפיע על הביצועים או אבטחה של { -brand-short-name }.
 help-button-label = תמיכה ב־{ -brand-short-name }
 addons-button-label = הרחבות וערכות נושא
@@ -504,7 +505,6 @@ home-prefs-topsites-description = האתרים בהם ביקרת הכי הרבה
 
 home-prefs-recommended-by-header =
     .label = מומלץ על־ידי { $provider }
-home-prefs-recommended-by-description = תוכן נהדר מכל רחבי הרשת, בהתאמה אישית להעדפותיך
 
 ##
 
@@ -567,7 +567,6 @@ search-show-suggestions-above-history-option =
     .label = הצגת הצעות חיפוש לפני היסטוריית הגלישה בתוצאות שורת הכתובת
 search-show-suggestions-private-windows =
     .label = הצגת הצעות חיפוש בחלונות פרטיים
-suggestions-addressbar-settings = שינוי העדפות עבור היסטוריית גלישה, סימניות והצעות לשוניות
 suggestions-addressbar-settings-generic = שינוי העדפות עבור הצעות אחרות של שורת הכתובת
 search-suggestions-cant-show = הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־{ -brand-short-name } לעולם לא לזכור היסטוריה.
 search-one-click-header = מנועי חיפוש בלחיצה אחת
