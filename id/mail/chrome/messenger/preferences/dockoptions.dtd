@@ -9,5 +9,8 @@
 <!ENTITY bounceSystemDockIcon.accesskey        "i">
 <!ENTITY newMessagesCountDock.label            "Hitungan pesan baru">
 <!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.label      "Jumlah pesan yang belum dibaca">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "u">
 <!ENTITY dockIconBadge.label                   "Lencana ikon aplikasi">
+<!ENTITY dockIconShow.label                    "Lencana ikon aplikasi dengan:">
+<!ENTITY directNotificationSettings.label      "Anda bisa menonaktifkan lencana pada panel Notifikasi di Preferensi Sistem.">

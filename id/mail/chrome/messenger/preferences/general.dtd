@@ -10,6 +10,8 @@
 <!ENTITY useDefault.label                 "Kembalikan Nilai Default">
 <!ENTITY useDefault.accesskey             "K">
 
+<!ENTITY changeDockIconOptions.label      "Ubah preferensi untuk ikon aplikasi">
+<!ENTITY dockOptions.label                "Opsi Ikon Aplikasi...">
 <!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Saat pesan baru datang:">
@@ -19,9 +21,11 @@
 <!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Tampilkan peringatan">
 <!ENTITY showAnimatedAlert.accesskey      "g">
+<!ENTITY notificationAlertSettings2.label "Lansiran dan suara asal dapat dinonaktifkan pada panel Notifikasi di Preferensi Sistem.">
 <!ENTITY customizeMailAlert.label         "Pengaturan…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
+<!ENTITY showTrayIcon.label               "Tampilkan ikon baki">
 <!ENTITY showTrayIcon.accesskey           "t">
 
 <!ENTITY play.label                       "Mainkan">
@@ -34,6 +38,7 @@
 <!ENTITY browse.accesskey                 "T">
 
 <!ENTITY defaultSearchEngine.label        "Mesin Pencari Baku">
+<!ENTITY addSearchEngine.label            "Tambah dari file">
 <!ENTITY addSearchEngine.accesskey        "A">
 <!ENTITY removeSearchEngine.label         "Hapus">
 <!ENTITY removeSearchEngine.accesskey     "v">

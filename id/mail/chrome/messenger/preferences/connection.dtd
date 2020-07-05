@@ -45,8 +45,14 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
+<!ENTITY  noproxyLocalhostDesc.label    "Koneksi ke localhost, 127.0.0.1, dan ::1 tidak pernah diproksi.">
+<!ENTITY  proxyHttpSharing.label        "Juga gunakan proksi ini untuk HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "x">
+<!ENTITY  autologinproxy.label          "Jangan meminta otentikasi jika sandi disimpan">
 <!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "Opsi ini secara diam-diam mengotentikasi Anda ke proksi saat Anda telah menyimpan kredensial untuknya. Anda akan diminta jika otentikasi gagal.">
 <!ENTITY  socksRemoteDNS.label          "DNS proxy saat menggunakan SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  dnsOverHttps.label            "Aktifkan DNS lewat HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "b">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Gunakan URL asal untuk menyelesaikan DNS lewat HTTPS">
