@@ -65,3 +65,27 @@ config-reset =
 config-new =
     .label = Nowy sztalōnek
     .accesskey = w
+config-string =
+    .label = Lyńcuch
+    .accesskey = L
+config-integer =
+    .label = Integer
+    .accesskey = I
+config-boolean =
+    .label = Boolean
+    .accesskey = B
+config-default = bazowy
+config-modified = zmiyniōny
+config-locked = zaszperowany
+config-property-string = lyńcuch
+config-property-int = integer
+config-property-bool = boolean
+config-new-prompt = Wkludź miano nowyj preferyncyje
+config-nan-title = Zły wert
+config-nan-text = Wkludzōny tekst to niy ma nōmer.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Nowy sztalōnek typu { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Wkludź wert sztalōnku typu { $type }
