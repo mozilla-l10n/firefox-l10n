@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Privatumo apsaugos
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Eiti į jūsų privatumo ataskaitą
+appmenuitem-update-banner =
+    .label-update-downloading = Atsiunčiamas „{ -brand-shorter-name };“ naujinimas
 appmenuitem-protection-dashboard-title = Apsaugos skydelis
 appmenuitem-customize-mode =
     .label = Tvarkyti…
