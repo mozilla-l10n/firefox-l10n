@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "ს">
 <!ENTITY newAddressBookCmd.label                        "წიგნაკი…">
 <!ENTITY newAddressBookCmd.accesskey                    "წ">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV წიგნაკი…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP საქაღალდე…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "ქ">
 <!ENTITY newMessageCmd.label                            "წერილი">
