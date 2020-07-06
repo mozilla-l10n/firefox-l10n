@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- File menu items -->
 
+<!-- File menu items -->
 <!ENTITY openFileCmd.label "Otvori datoteku…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -24,15 +24,17 @@
 <!ENTITY publishAsCmd.accesskey "k">
 <!ENTITY fileRevert.label "Vrati">
 <!ENTITY fileRevert.accesskey "t">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY publishSettings.label "Postavke objave stranice…">
 <!ENTITY publishSettings.accesskey "b">
-<!-- Toolbar buttons/items -->
 
+<!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Novo">
 <!ENTITY newToolbarCmd.tooltip "Stvori novu Composer stranicu">
 <!ENTITY openToolbarCmd.label "Otvori">
 <!ENTITY openToolbarCmd.tooltip "Otvori lokalnu datoteku">
 <!ENTITY saveToolbarCmd.tooltip "Spremi datoteku na lokalnu lokaciju">
 <!ENTITY publishToolbarCmd.tooltip "Pošalji datoteku na udaljenu lokaciju">
+<!ENTITY printToolbarCmd.label "Ispiši">
+<!ENTITY printToolbarCmd.tooltip "Ispiši ovu stranicu">
