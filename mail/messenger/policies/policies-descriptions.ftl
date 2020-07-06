@@ -64,4 +64,12 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Kembali ke perilaku Sa
 policy-LocalFileLinks = Izinkan situs web tertentu untuk bertaut dengan berkas lokal.
 policy-NetworkPrediction = Aktifkan atau nonaktifkan prediksi jaringan (DNS prefetching).
 policy-OfferToSaveLogins = Paksa setelan untuk mengizinkan { -brand-short-name } untuk menawarkan agar mengingat info masuk dan sandi yang disimpan. Nilai benar dan salah diterima.
+policy-OfferToSaveLoginsDefault = Setel nilai tetap untuk mengizinkan { -brand-short-name } supaya menawarkan agar mengingat info masuk dan sandi yang disimpan. Nilai benar dan salah diterima.
+policy-OverrideFirstRunPage = Timpa laman yang dijalankan pertama. Setel kebijakan ini menjadi kosong jika Anda ingin menonaktifkan laman yang dijalankan pertama.
+policy-OverridePostUpdatePage = Timpa laman "Yang Baru" yang tampil setelah pembaruan. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman setelah pembaruan.
+policy-PasswordManagerEnabled = Aktifkan penyimpanan sandi melalui manajer sandi.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Nonaktifkan atau atur konfigurasi PDF.js, penampil PDF bawaan di { -brand-short-name }.
+policy-Permissions2 = Atur izin untuk kamera, mikrofon, lokasi, notifikasi, dan putar-otomatis.
+policy-Preferences = Tetapkan dan kunci nilai untuk subset preferensi.
 policy-PromptForDownloadLocation = Tanyakan di mana berkas disimpan saat mengunduh.
