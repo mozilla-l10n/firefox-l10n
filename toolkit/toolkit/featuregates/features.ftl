@@ -17,3 +17,13 @@ experimental-features-web-gpu-description = Eksperimintele API foar ôfbyldingen
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperimintele stipe foar AVIF: AV1 Image File-opmaak
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookies: SameSite=lax by default
+experimental-features-cookie-samesite-lax-by-default-description = Cookies standert as ‘sameSite=lax’ behannelje as der gjin attribút foar ‘sameSite’ spesifisearre is. Untwikkelers moatte de aktuele status quo fan ûnbeheind gebrûk bewust ynstelle troch eksplisyt ‘sameSite=none’ fêst te lizzen.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Cookies: SameSite=none requires secure attribute
+experimental-features-cookie-samesite-none-requires-secure-description = Foar cookies mei attribút ‘sameSite=none’ is it feilige attribút fereaske. Dizze funksje fereasket ‘Cookies: SameSite=lax by default’.
