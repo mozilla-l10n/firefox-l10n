@@ -390,7 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Tz'etob'äl">
 <!ENTITY viewMenu.accesskey       "T">
-<!ENTITY viewToolbarsMenu.label       "Cholsamajib'äl">
+<!ENTITY viewToolbarsMenu.label       "Taq cholsamajib'äl">
 <!ENTITY viewToolbarsMenu.accesskey     "i">
 <!ENTITY viewSidebarMenu.label "Chuchi' Cholab'äl">
 <!ENTITY viewSidebarMenu.accesskey "C">
