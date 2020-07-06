@@ -330,15 +330,25 @@
 <!ENTITY italicToolbarCmd.tooltip "Kurziv">
 <!ENTITY underline.label "Podcrtano">
 <!ENTITY underlineToolbarCmd.tooltip "Podvučeno">
+<!ENTITY bullets.label "Oznake nabrajanja">
 <!ENTITY bulletListToolbarCmd.tooltip "Primjeni ili ukloni grafičke oznake">
+<!ENTITY numbers.label "Brojevi">
 <!ENTITY numberListToolbarCmd.tooltip "Primjeni ili ukloni numeričke oznake">
+<!ENTITY outdent.label "Izvučeno">
 <!ENTITY outdentToolbarCmd.tooltip "Izvučen tekst (pomakni lijevo)">
+<!ENTITY indent.label "Uvučeno">
 <!ENTITY indentToolbarCmd.tooltip "Uvučen tekst (pomakni desno)">
+<!ENTITY AlignPopupButton.label "Poravnanje">
 <!ENTITY AlignPopupButton.tooltip "Odaberi poravnanje teksta">
+<!ENTITY InsertPopupButton.label "Umetni">
 <!ENTITY InsertPopupButton.tooltip "Umetni poveznicu, sidro, sliku, vodoravnu liniju ili tablicu">
+<!ENTITY alignLeftButton.label "Poravnaj lijevo">
 <!ENTITY alignLeftButton.tooltip "Poravnaj tekst uz lijevu marginu">
+<!ENTITY alignCenterButton.label "Centriraj">
 <!ENTITY alignCenterButton.tooltip "Centriraj tekst">
+<!ENTITY alignRightButton.label "Poravnaj desno">
 <!ENTITY alignRightButton.tooltip "Poravnaj tekst uz desnu marginu">
+<!ENTITY alignJustifyButton.label "Poravnaj obostrano">
 <!ENTITY alignJustifyButton.tooltip "Poravnaj tekst uz lijevu i desnu marginu">
 
 <!-- Structure Toolbar Context Menu items -->

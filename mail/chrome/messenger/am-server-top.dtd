@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
-
 
 <!ENTITY messageStorage.label "Spremnik poruka">
 <!ENTITY securitySettings.label "Postavke sigurnosti">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Zadano:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "j">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Upitaj me prije preuzimanja više od">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "v">
 <!ENTITY newsrcFilePath.label "newsrc datoteka:">
 <!ENTITY newsrcPicker.label "Odaberi newsrc datoteku">
+<!ENTITY newsrcFilePath1.label "News.rc datoteka:">
+<!ENTITY newsrcPicker1.label "Odaberi News.rc datoteku">
 <!ENTITY abbreviate.label "Prikaži imena interesnih grupa u oknu pošte kao:">
 <!ENTITY abbreviateOn.label "Cijela imena (na primjer, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skraćena imena (na primjer, 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "r">
 <!ENTITY serverDefaultCharset2.label "Zadana kôdna stranica:">
 <!ENTITY localPath.label "Lokalna mapa:">
+<!ENTITY localPath1.label "Lokalna mapa:">
 <!ENTITY localFolderPicker.label "Odaberi lokalnu mapu">
 <!ENTITY browseFolder.label "Odaberi…">
 <!ENTITY browseFolder.accesskey "b">

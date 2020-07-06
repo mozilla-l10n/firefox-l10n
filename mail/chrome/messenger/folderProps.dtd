@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Naziv:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Boja ikone:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Vrati standardnu boju">
 <!ENTITY folderProps.location.label              "Lokacija:">
 <!ENTITY folderProps.location.accesskey          "L">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Povlastice…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Imate sljedeće dozvole:">
+<!ENTITY folderOtherUsers.label                  "Ostali s pristupom na ovu mapu:">
 <!ENTITY folderType.label                        "Vrsta mape:">
 
 <!ENTITY folderQuotaTab.label                    "Kvota">
