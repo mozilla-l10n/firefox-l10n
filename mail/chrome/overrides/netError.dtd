@@ -71,7 +71,7 @@
 
 <!ENTITY nssFailure2.title "Sambungan Aman Gagal">
 <!ENTITY nssFailure2.longDesc2 "<ul>
-  <li>Laman yang Anda coba lihat tidak bisa ditampilkan karena autentikasi data yang diterima tidak dapat diverifikasi.</li>
+  <li>Laman yang Anda coba lihat tidak bisa ditampilkan karena otentikasi data yang diterima tidak dapat diverifikasi.</li>
   <li>Mohon menghubungi pemilik situs untuk menginformasikan masalah ini.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sambungan Aman Gagal">
