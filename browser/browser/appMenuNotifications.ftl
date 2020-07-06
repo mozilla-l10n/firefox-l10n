@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Nye udvidelser, du føjer til { -brand-shorter-name } virker kun i private vinduer, hvis du tillader dette i indstillingerne.
 appmenu-addon-private-browsing-learn-more = Læs mere om at håndtere indstillinger for udvidelser.
+    
 appmenu-new-tab-controlled =
     .label = Nyt faneblad er ændret
     .buttonlabel = Behold ændringen

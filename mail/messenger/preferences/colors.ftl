@@ -9,32 +9,44 @@ colors-dialog-window =
             [macos] width: 47em !important
            *[other] width: 47em !important
         }
+
 colors-dialog-legend = Tekst og baggrund
+
 text-color-label =
     .value = Tekst:
     .accesskey = T
+
 background-color-label =
     .value = Baggrund:
     .accesskey = B
+
 use-system-colors =
     .label = Anvend systemfarver
     .accesskey = s
+
 colors-link-legend = Linkfarver
+
 link-color-label =
     .value = Ubesøgte links:
     .accesskey = U
+
 visited-link-color-label =
     .value = Besøgte links:
     .accesskey = e
+
 underline-link-checkbox =
     .label = Understreg links
     .accesskey = n
+
 override-color-label =
     .value = Tilsidesæt de angivne farver i indholdet og brug i stedet mine valg ovenfor:
     .accesskey = i
+
 override-color-always =
     .label = Altid
+
 override-color-auto =
     .label = Kun ved temaer med høj kontrast
+
 override-color-never =
     .label = Aldrig

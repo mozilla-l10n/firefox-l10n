@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Jeg lover at være forsigtig!
 config-about-warning-checkbox =
     .label = Vis mig denne advarsel næste gang
+
 config-search-prefs =
     .value = Søg:
     .accesskey = s
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopier
     .accesskey = K
+
 config-copy-name =
     .label = Kopier navn
     .accesskey = n
+
 config-copy-value =
     .label = Kopier værdi
     .accesskey = o
+
 config-modify =
     .label = Rediger
     .accesskey = R
+
 config-toggle =
     .label = Skift
     .accesskey = S
+
 config-reset =
     .label = Nulstil
     .accesskey = u
+
 config-new =
     .label = Ny nøgle
     .accesskey = N
+
 config-string =
     .label = Streng
     .accesskey = S
+
 config-integer =
     .label = Heltal
     .accesskey = H
+
 config-boolean =
     .label = Boolsk værdi
     .accesskey = B
+
 config-default = standard
 config-modified = ændret
 config-locked = låst
+
 config-property-string = streng
 config-property-int = heltal
 config-property-bool = boolsk
+
 config-new-prompt = Skriv indstillingens navn
+
 config-nan-title = Ugyldig værdi
 config-nan-text = Værdien, du indtastede, er ikke et nummer.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Ny { $type } værdi
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Skriv { $type } værdi

@@ -11,4 +11,5 @@ about-httpsonly-insecure-explanation-reasons = Sandsynligvis understøtter webst
 about-httpsonly-insecure-explanation-exception = Sikkerhedsrisikoen er lav, men hvis du beslutter at fortsætte til HTTP-versionen af webstedet, så bør du ikke indtaste følsomme oplysninger som adgangskoder, mailadresser eller data om betalingskort.
 
 about-httpsonly-button-make-exception = Accepter risikoen og fortsæt til webstedet
+
 about-httpsonly-button-go-back = Gå tilbage

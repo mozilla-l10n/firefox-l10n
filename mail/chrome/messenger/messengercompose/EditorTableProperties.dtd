@@ -35,6 +35,7 @@
 <!ENTITY tableCaptionRight.label "Til højre for tabellen">
 <!ENTITY tableCaptionNone.label "Ingen">
 <!ENTITY tableInheritColor.label "(Dæk ikke sidens baggrundsfarve)">
+
 <!ENTITY cellSelection.label "Det valgte">
 <!ENTITY cellSelectCell.label "Celle">
 <!ENTITY cellSelectRow.label "Række">
@@ -63,6 +64,7 @@
 <!ENTITY cellAlignJustify.label "Lige margen">
 <!ENTITY cellInheritColor.label "(Dæk ikke tabellens baggrundsfarve)">
 <!ENTITY cellUseCheckboxHelp.label "Brug afkrydsningsfelter til at bestemme hvilke egenskaber der gælder alle markerede celler">
+
 <!ENTITY size.label "Størrelse:">
 <!ENTITY pixels.label "pixler">
 <!ENTITY backgroundColor.label "Baggrundsfarve">

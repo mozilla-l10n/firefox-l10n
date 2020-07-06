@@ -19,6 +19,13 @@
 <!ENTITY searchContacts.accesskey           "e">
 <!ENTITY SearchNameOrEmail.label            "Navn eller mail">
 
+<!ENTITY addtoToFieldMenu.label             "Tilføj i feltet Til">
+<!ENTITY addtoToFieldMenu.accesskey         "T">
+<!ENTITY addtoCcFieldMenu.label             "Tilføj i feltet Kopi til">
+<!ENTITY addtoCcFieldMenu.accesskey         "o">
+<!ENTITY addtoBccFieldMenu.label            "Tilføj i feltet Skjult kopi til">
+<!ENTITY addtoBccFieldMenu.accesskey        "k">
+
 <!ENTITY deleteAddrBookCard.label           "Slet">
 <!ENTITY deleteAddrBookCard.accesskey       "S">
 <!ENTITY propertiesContext.label            "Egenskaber">
@@ -29,12 +36,6 @@
 <!ENTITY editContactContext.accesskey       "R">
 <!ENTITY editMailingListContext.label       "Rediger liste">
 <!ENTITY editMailingListContext.accesskey   "R">
-<!ENTITY addtoToFieldMenu.label             "Tilføj i feltet Til">
-<!ENTITY addtoToFieldMenu.accesskey         "T">
-<!ENTITY addtoCcFieldMenu.label             "Tilføj i feltet Kopi til">
-<!ENTITY addtoCcFieldMenu.accesskey         "o">
-<!ENTITY addtoBccFieldMenu.label            "Tilføj i feltet Skjult kopi til">
-<!ENTITY addtoBccFieldMenu.accesskey        "k">
 
 <!ENTITY newContactAbContext.label          "Ny kontakt">
 <!ENTITY newContactAbContext.accesskey      "K">

@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Safe Browsing-logmoduler
 url-classifier-debug-modules = Nuværende logmoduler
 url-classifier-debug-sbjs-modules = Safe Browsing-JS-log
 url-classifier-debug-file = Nuværende logfil
+
 url-classifier-trigger-update = Udløs opdatering
 url-classifier-not-available = Ikke tilgængelig
 url-classifier-disable-sbjs-log = Deaktiver Safe Browsing-JS-log

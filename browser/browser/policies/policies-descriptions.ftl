@@ -126,6 +126,8 @@ policy-LegacySameSiteCookieBehaviorEnabled = Aktiver standard-indstilling for fo
 
 policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbage til forældet SameSite-opførsel for cookies på bestemte websteder.
 
+##
+
 policy-LocalFileLinks = Tillad specifikke websteder at linke til lokale filer.
 
 policy-MasterPassword = Kræv eller deaktiver brug af hovedadgangskode.
@@ -142,12 +144,12 @@ policy-OfferToSaveLoginsDefault = Vælg om { -brand-short-name } skal tilbyde at
 
 policy-OverrideFirstRunPage = Erstat siden, der vises ved første opstart. Lad politikken være tom, hvis siden ved første opstart skal deaktiveres. 
 
+policy-OverridePostUpdatePage = Erstat siden Nyheder, der vises efter opdatering. Lad politikken være tom, hvis siden efter opdatering skal deaktiveres. 
+
 policy-PasswordManagerEnabled = Tillad at brugeren kan gemme adgangskoder i Adgangskode-håndteringen.
 
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiver eller konfigurer PDF.js, den indbyggede PDF-læser i { -brand-short-name }.
-
-policy-OverridePostUpdatePage = Erstat siden Nyheder, der vises efter opdatering. Lad politikken være tom, hvis siden efter opdatering skal deaktiveres. 
 
 policy-Permissions2 = Indstil tilladelser for kamera, mikrofon, position, beskeder og automatisk afspilning.
 

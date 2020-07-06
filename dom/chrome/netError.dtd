@@ -7,6 +7,8 @@
 
 <!-- Specifikke fejl-beskeder -->
 
+<!-- Specific error messages -->
+
 <!ENTITY connectionFailure.title "Kunne ikke skabe forbindelse">
 <!ENTITY connectionFailure.longDesc "<p>Browseren var ikke i stand til at skabe forbindelse til det angivne websted. Dette kan skyldes:</p><ul><li>At webstedet midlertidigt er nede. Prøv igen senere</li><li>At der er problemer med din internetforbindelse. Kontrollèr, om du kan besøge andre websteder.</li><li>At din computer beskyttes af en forkert opsat firewall eller proxy. Kontrollèr dine indstillinger for firewall og proxy.</li></ul>">
 

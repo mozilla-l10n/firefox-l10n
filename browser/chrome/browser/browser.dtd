@@ -165,8 +165,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Log ind på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Aktiver &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Konto">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tjenester">
+<!ENTITY fxa.menu.account.label "Konto">
 <!ENTITY fxa.menu.settings.label "Indstillinger">
 <!ENTITY fxa.menu.accountSettings.label "Konto-indstillinger">
 <!ENTITY fxa.menu.manageAccount2.label "Håndter konto">
@@ -286,8 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Du har blokeret installering af tilføjelser for dette websted.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Du har givet dette websted yderligere tilladelser.">
 
 
 <!ENTITY searchItem.title             "Søgefelt">
@@ -967,6 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Luk">
 

@@ -160,3 +160,4 @@ icon-warning =
 icon-error =
   .alt = Fejl-ikon
   .title = Fejl
+

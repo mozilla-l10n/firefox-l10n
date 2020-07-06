@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "For at spare diskplads, hentes følgende ikke:">
 <!ENTITY doNotDownloadNntp.label "For at spare plads, hent ikke til offline-brug:">
 <!ENTITY doNotDownloadImap.label "Du kan spare plads ved at begrænse hentning af meddelelser til offline-brug ud fra alder eller størrelse.">
-<!ENTITY allFoldersOffline.label "Behold denne kontos meddelelser på denne computer">
-<!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY allFoldersOffline2.label "Behold meddelelser i alle mapper for denne konto på denne computer">
 <!ENTITY allFoldersOffline2.accesskey "B">
 <!ENTITY allFoldersOfflineNote.label "Obs: Dette påvirker alle mapper for denne konto. Brug knappen 'Avanceret …' for at vælge individuelle mapper.">
