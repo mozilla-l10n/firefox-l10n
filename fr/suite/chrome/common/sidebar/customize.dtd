@@ -9,6 +9,10 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Les panneaux de la barre latérale :">
 <!ENTITY sidebar.customize.current.accesskey    "t">
+
+<!ENTITY sidebar.customize.title                "Personnaliser la barre latérale">
+<!ENTITY sidebar.customize.current2.label       "Onglets dans la barre latérale :">
+<!ENTITY sidebar.customize.current2.accesskey   "t">
 <!ENTITY sidebar.customize.customize.label      "Personnaliser les panneaux…">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
 <!ENTITY sidebar.customize.remove.label         "Supprimer">
