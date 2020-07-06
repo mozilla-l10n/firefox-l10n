@@ -68,7 +68,7 @@ policy-HardwareAcceleration = თუ უარყოფილია, აპა�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = დაყენება და დამატებით მთავარი გვერდის ჩაკეტვა.
 policy-InstallAddonsPermission = ცალკეული ვებსაიტებისთვის დამატებების ჩადგმის დაშვება.
-policy-LegacyProfiles = თითოეული დაყენებისას, ცალ-ცალკე პროფილების იძულებითი შექმნის გამორთვა
+policy-LegacyProfiles = თითოეული დაყენებისას, ცალ-ცალკე პროფილების იძულებითი შექმნის გამორთვა.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
