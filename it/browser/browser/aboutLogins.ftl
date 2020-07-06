@@ -26,6 +26,7 @@ menu =
     .title = Apri menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importa da un altro browser…
+about-logins-menu-menuitem-import-from-a-file = Importa da file…
 about-logins-menu-menuitem-export-logins = Esporta credenziali…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -62,12 +63,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name } o importale.
 about-logins-login-intro-heading-logged-in = Credenziali sincronizzate non trovate.
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
 login-intro-instruction-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali
 login-intro-instruction-fxa-settings = Assicurati che la casella “Credenziali” sia selezionata nelle impostazioni di { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visita il <a data-l10n-name="help-link">supporto per { -lockwise-brand-short-name }</a> per ulteriori informazioni
 about-logins-intro-import = Se le credenziali sono salvate in un altro browser, è possibile <a data-l10n-name="import-link">importarle in { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Se le credenziali sono salvate al di fuori di { -brand-product-name }, è possibile <a data-l10n-name="import-browser-link">importarle da un altro browser</a> o <a data-l10n-name="import-file-link">da un file</a>
 
 ## Login
 
@@ -210,6 +213,19 @@ about-logins-export-file-picker-export-button = Esporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+  { PLATFORM() ->
+      [macos] Documento CSV
+     *[other] File CSV
+  }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importazione credenziali da file
+about-logins-import-file-picker-import-button = Importa
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
   { PLATFORM() ->
       [macos] Documento CSV
      *[other] File CSV
