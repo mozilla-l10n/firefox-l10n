@@ -21,7 +21,7 @@ experimental-features-avif-description = Eksperimentelna podpěra za AVIF: wobra
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-lax-by-default =
     .label = Placki: SameSite=lax po standardźe
-experimental-features-cookie-samesite-lax-by-default-description = Wobchadźejće placki jako „sameSite=lax“ po standardźe, jeli atribut „sameSite“ podaty njeje. Wulwiwrajo dyrbija eksplicitnje „sameSite=none“ nastajić, zo bychu aktualnemu statusej quo njewobmjezowaneho wužiwanja přihłosowali.
+experimental-features-cookie-samesite-lax-by-default-description = Wobchadźejće z plackam jako „sameSite=lax“ po standardźe, jeli atribut „sameSite“ podaty njeje. Wuwiwarjo dyrbja eksplicitnje „sameSite=none“ nastajić, zo bychu aktualnemu statusej quo njewobmjezowaneho wužiwanja přihłosowali.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
