@@ -25,3 +25,4 @@ experimental-features-cookie-samesite-lax-by-default =
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Placki: SameSite=none atribut secure trjeba
+experimental-features-cookie-samesite-none-requires-secure-description = Placki z atributom “sameSite=none” sej atribut secure wužaduja. Tuta funkcija sej po standardźe „Placki: SameSite=lax“ wužaduje.
