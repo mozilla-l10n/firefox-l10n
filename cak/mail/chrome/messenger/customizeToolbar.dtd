@@ -6,10 +6,10 @@
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Yatikïr natz'aqatisaj o ye'awelesaj el taq ch'akulal rik'in ye'aqirirej pa kikajtzik samajib'äl.">
 <!ENTITY show.label               "Tik'ut pe:">
-<!ENTITY iconsAndText.label       "Taq Wachib'äl chuqa' Cholan Tzij">
+<!ENTITY iconsAndText.label       "Taq Wachib'äl chuqa' Tz'ib'atzij">
 <!ENTITY icons.label              "Taq wachib'äl">
-<!ENTITY text.label               "Cholan tzij">
-<!ENTITY iconsBesideText.label    "Taq wachib'äl chuqa' Cholan Tzij">
+<!ENTITY text.label               "Tz'ib'atzij">
+<!ENTITY iconsBesideText.label    "Taq wachib'äl chuchi' Tz'ib'atzij">
 <!ENTITY useSmallIcons.label      "Ke'okisäx Koköj Wachib'äl">
 <!ENTITY restoreDefaultSet.label  "Ketzolïx ri E K'o wi">
 <!ENTITY addNewToolbar.label      "Titz'aqatisäx K'ak'a' Kik'ajtz'ik Samajib'äl">
