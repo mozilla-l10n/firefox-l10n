@@ -9,6 +9,10 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Tabbladen in &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "T">
+
+<!ENTITY sidebar.customize.title                "Zijbalk aanpassen">
+<!ENTITY sidebar.customize.current2.label       "Tabbladen in zijbalk:">
+<!ENTITY sidebar.customize.current2.accesskey   "T">
 <!ENTITY sidebar.customize.customize.label      "Tabblad aanpassen…">
 <!ENTITY sidebar.customize.customize.accesskey  "n">
 <!ENTITY sidebar.customize.remove.label         "Verwijderen">
