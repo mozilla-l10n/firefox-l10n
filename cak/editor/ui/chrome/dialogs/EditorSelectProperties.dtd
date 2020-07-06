@@ -13,7 +13,7 @@
 <!ENTITY SelectMultiple.accesskey "J">
 <!ENTITY SelectDisabled.label "Chupun">
 <!ENTITY SelectDisabled.accesskey "C">
-<!ENTITY SelectTabIndex.label "Rucholajem Ruwi' Cholaj:">
+<!ENTITY SelectTabIndex.label "Rucholajem Ruwi':">
 <!ENTITY SelectTabIndex.accesskey "R">
 
 <!ENTITY OptGroup.label "Cha'oj Molaj">

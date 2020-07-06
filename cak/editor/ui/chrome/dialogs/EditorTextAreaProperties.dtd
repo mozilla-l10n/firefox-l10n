@@ -16,7 +16,7 @@
 <!ENTITY TextAreaReadOnly.accessKey "X">
 <!ENTITY TextAreaDisabled.label "Chupun">
 <!ENTITY TextAreaDisabled.accessKey "C">
-<!ENTITY TextAreaTabIndex.label "Rucholajem Ruwi' Cholaj:">
+<!ENTITY TextAreaTabIndex.label "Rucholajem Ruwi':">
 <!ENTITY TextAreaTabIndex.accessKey "R">
 <!ENTITY TextAreaAccessKey.label "Rupitz'b'al Okem:">
 <!ENTITY TextAreaAccessKey.accessKey "R">
