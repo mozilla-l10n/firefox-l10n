@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Indstillinger for arkivering">
 <!ENTITY archiveGranularityPrefix.label "Når meddelelser arkiveres, skal de anbrings i:">
 <!ENTITY archiveFlat.label "En enkelt mappe">

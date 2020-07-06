@@ -32,9 +32,9 @@
 <!ENTITY cmd.goToDownloadPage.label       "Gå til siden, filen blev hentet fra">
 <!ENTITY cmd.goToDownloadPage.accesskey   "t">
 <!ENTITY cmd.copyDownloadLink.label       "Kopier linkadresse">
+<!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Fjern fra historik">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.clearList2.label              "Ryd liste">
 <!ENTITY cmd.clearList2.accesskey          "R">
 <!ENTITY cmd.clearDownloads.label         "Ryd filhentninger">

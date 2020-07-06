@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Søg
     .aria-label = Søg
+
 newtab-search-box-search-the-web-text = Søg på internettet
 newtab-search-box-search-the-web-input =
     .placeholder = Søg på internettet
@@ -116,6 +117,9 @@ newtab-menu-bookmark = Bogmærk
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopier linkadresse
 newtab-menu-go-to-download-page = Gå til siden, filen blev hentet fra
 newtab-menu-remove-download = Fjern fra historik
@@ -153,6 +157,9 @@ newtab-label-sponsored = { $sponsorOrSource } · Sponsoreret
 newtab-label-sponsored-by = Sponsoreret af { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Fjern afsnit

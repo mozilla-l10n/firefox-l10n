@@ -15,19 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Genstart med tilføjelser deaktiveret…">
 <!ENTITY helpSafeMode.accesskey "G">
-<!ENTITY releaseCmd2.label "Udgivelsesnoter">
-<!ENTITY releaseCmd2.accesskey "U">
-<!ENTITY whatsNewCmd.label "Hvad er nyt">
-<!ENTITY whatsNewCmd.accesskey "v">
-<!ENTITY openHelp.label "Emner i Hjælp">
-<!ENTITY openHelp.accesskey "H">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Hjælp til &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "Om &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "O">
 <!ENTITY helpSafeMode.stop.label     "Genstart med tilføjelser aktiveret">
 <!ENTITY helpSafeMode.stop.accesskey "G">
 <!ENTITY productHelp.label "Hjælp til &brandShortName;">

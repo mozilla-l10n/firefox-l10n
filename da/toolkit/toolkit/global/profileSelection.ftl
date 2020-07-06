@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Vælg din brugerprofil
+
 profile-selection-button-accept =
     .label = Start { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Afslut
+
 profile-selection-new-button =
     .label = Opret profil…
     .accesskey = O
+
 profile-selection-rename-button =
     .label = Omdøb profil…
     .accesskey = d
+
 profile-selection-delete-button =
     .label = Slet profil…
     .accesskey = S
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } opbevarer information om dine indstillinger og andre brugerobjekter i din brugerprofil.
+
 profile-manager-work-offline =
     .label = Arbejd offline
     .accesskey = A
+
 profile-manager-use-selected =
     .label = Brug den valgte profil uden at spørge ved opstart
     .accesskey = B

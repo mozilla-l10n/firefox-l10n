@@ -53,8 +53,8 @@
 <!ENTITY performanceUI.table.selfDuration.tooltip     "Mængde af tid tilbragt udelukkende i denne funktion.">
 <!ENTITY performanceUI.table.totalPercentage "Total omkostning">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "Procentdel tid tilbragt i denne funktion og de funktioner, den kalder.">
-<!ENTITY performanceUI.table.selfPercentage.tooltip   "Procentdel tid tilbragt udelukkende i denne funktion.">
 <!ENTITY performanceUI.table.selfPercentage  "Egen omkostning">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Procentdel tid tilbragt udelukkende i denne funktion.">
 <!ENTITY performanceUI.table.samples         "Prøver">
 <!ENTITY performanceUI.table.samples.tooltip          "Antal gange denne funktion var på stakken, når ydelsesværktøjet udtog prøver.">
 <!ENTITY performanceUI.table.function        "Funktion">

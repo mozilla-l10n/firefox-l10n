@@ -34,8 +34,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Når de er blevet importeret, kan du få adgang til dem i &brandShortName;.">
 
 <!ENTITY selectDescription.label "Vælg den type fil, du ønsker at importere:">
-<!ENTITY selectDescription.accesskey "V">
 <!ENTITY selectDescriptionB.label "Vælg en eksisterende konto eller opret en ny konto:">
+<!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Navn:">
 <!ENTITY acctName.accesskey       "N">
 <!ENTITY noModulesFound.label     "Kunne ikke finde et program eller en fil til at importere data fra.">

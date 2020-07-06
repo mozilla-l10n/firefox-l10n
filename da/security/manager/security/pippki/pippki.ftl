@@ -8,6 +8,7 @@ password-quality-meter = Kvalitetsmåler for adgangskode
 
 change-password-window =
     .title = Skift hovedadgangskode
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sikkerhedsenhed: { $tokenName }

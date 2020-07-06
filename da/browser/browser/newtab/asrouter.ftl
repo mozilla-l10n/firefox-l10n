@@ -266,3 +266,6 @@ cfr-whatsnew-protections-icon-alt = Skjold-ikon
 
 cfr-whatsnew-better-pdf-header = Bedre visning af PDF-dokumenter
 cfr-whatsnew-better-pdf-body = PDF-dokumenter åbnes nu direkte i { -brand-short-name }, så du har dem lige ved hånden.
+
+## DOH Message
+

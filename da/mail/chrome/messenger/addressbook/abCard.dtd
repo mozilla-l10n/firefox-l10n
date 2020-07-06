@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Fødselsdato:">
 <!ENTITY Birthday.accesskey             "ø">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Måned">
 <!ENTITY Day.placeholder                "Dag">
 <!ENTITY Year.placeholder               "År">
-<!ENTITY Or.value                       "eller">
 <!ENTITY Age.label                      "Alder:">
 <!ENTITY Age.placeholder                "Alder">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Arbejde">
 <!ENTITY Work.accesskey                 "b">

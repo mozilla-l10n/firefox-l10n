@@ -19,4 +19,6 @@ otr-requireEncryption =
     .label = Kræv end to end-kryptering ved en til en-samtaler
 otr-verifyNudge =
     .label = Mind mig altid om at bekræfte en ubekræftet kontakt
+
 otr-notYetAvailable = endnu ikke tilgængelig
+

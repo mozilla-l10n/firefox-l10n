@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Definer meddelelse om ny mail
+
 customize-alert-description = Vælg hvilke felter der vises i boksen:
+
 preview-text-checkbox =
     .label = Udsnit af meddelelsen
     .accesskey = U
+
 subject-checkbox =
     .label = Emne
     .accesskey = E
+
 sender-checkbox =
     .label = Afsender
     .accesskey = A
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Vis meddelelse om nye meddelelser i
     .accesskey = V
+
 open-time-label-after =
     .value = sekunder

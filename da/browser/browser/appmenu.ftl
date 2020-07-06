@@ -5,10 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Privatlivs-beskyttelse
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Vis rapport om beskyttelse af dit privatliv
-
 appmenuitem-protection-dashboard-title = Oversigt over beskyttelse
 appmenuitem-customize-mode =
     .label = Tilpas…

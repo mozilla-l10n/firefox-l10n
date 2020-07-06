@@ -15,6 +15,7 @@
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "Importer…">
+
 <!ENTITY importButton.tooltip       "Importer og tilføj et eksisterende style sheet til dokumentet">
 <!ENTITY importButton.accesskey     "I">
 

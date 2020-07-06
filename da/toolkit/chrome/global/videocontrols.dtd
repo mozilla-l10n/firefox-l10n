@@ -56,3 +56,4 @@ unknown duration video, #1 would be "5:00" and string which is surrounded by <sp
 would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+

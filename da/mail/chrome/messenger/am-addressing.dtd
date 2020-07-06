@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Komposition &amp; adressering">
 <!ENTITY addressingGroupTitle.label "Adressering">
 <!ENTITY addressingText.label      "Ved opslag af adresser:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Nye meddelelser">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Skriv meddelelser i HTML-format">
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "Citer altid den originale meddelelse i svar">
 <!ENTITY autoQuote.accesskey                  "C">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "og">
-<!ENTITY then.accesskey                       "o">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Når der citeres,">
 <!ENTITY quoting.accesskey                    "N">

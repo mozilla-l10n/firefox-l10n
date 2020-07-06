@@ -1,8 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Om &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; er eksperimentel og kan være ustabil.">
-<!ENTITY aboutPage.telemetryStart               " Programmet sender automatisk information om ydelse, hardware, brug og tilpasninger tilbage til ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;,">
-<!ENTITY aboutPage.telemetryEnd                 " hvilket hjælper med at forbedre &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Søg efter opdateringer »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Søger efter opdatering…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ingen opdatering fundet">

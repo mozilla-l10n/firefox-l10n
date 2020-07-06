@@ -14,5 +14,7 @@ accounts-conn-security = Forbindelsessikkerhed
 accounts-auth-method = Godkendelsesmetode
 accounts-default = Som standard?
 identity-name = Identitet
+
 send-via-email = Send som mail
+
 app-basics-telemetry = Telemetry-data

@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Tilføj en ny Filelink-tjeneste">
 <!ENTITY removeCloudFileAccount.label     "Fjern">
 <!ENTITY removeCloudFileAccount.accesskey "F">
-<!ENTITY authRequired.description         "Du skal godkende for at kunne se indstillingerne til denne tjeneste.">
-<!ENTITY authRequired.button.label        "Godkend">
-<!ENTITY authRequired.button.accesskey    "G">
 
 <!ENTITY findCloudFileProviders.label     "Find flere udbydere…">
 

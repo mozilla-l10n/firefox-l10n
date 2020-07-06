@@ -13,6 +13,7 @@ enable-common-message = Udviklerværktøj i Firefox er som standard slået fra f
 enable-learn-more-link = Læs mere om Udviklerværktøj
 enable-enable-button = Aktiver Udviklerværktøj
 enable-close-button = Luk dette faneblad
+
 welcome-title = Velkommen til Udviklerværktøj i Firefox
 newsletter-title = Mozillas nyhedsbrev til udviklere
 newsletter-message = Få relevante nyheder, smarte tricks og baggrundsviden direkte i din indbakke (på engelsk)
@@ -22,9 +23,11 @@ newsletter-privacy-label = Jeg accepterer, at Mozilla håndterer mine informatio
 newsletter-subscribe-button = Abonner
 newsletter-thanks-title = Tak!
 newsletter-thanks-message = Hvis du ikke tidligere har bekræftet et abonnement på et Mozilla-relateret nyhedsbrev, skal du muligvis gøre det nu. Tjek din indbakke eller dit spamfilter for at se, om du har fået en mail fra os
+
 footer-title = Firefox Developer Edition
 footer-message = Vil du have mere end Udviklerværktøj? Så skulle du tage at kigge på Firefox Developer Edition - en browser skræddersyet til udviklere og moderne arbejdsgange.
 footer-learn-more-link = Læs mere
+
 features-learn-more = Læs mere
 features-inspector-title = Inspektør
 features-inspector-desc = Inspicer og tilpas din kode indtil hver eneste pixel er perfekt. <a data-l10n-name="learn-more">{ features-learn-more }</a>

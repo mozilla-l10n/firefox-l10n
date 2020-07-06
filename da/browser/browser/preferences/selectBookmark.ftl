@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Sæt startside
     .style = width: 32em;
+
 select-bookmark-desc = Vælg et bogmærke som din startside. Hvis du vælger en mappe vil bogmærkerne i den mappe blive åbnet i faneblade.
