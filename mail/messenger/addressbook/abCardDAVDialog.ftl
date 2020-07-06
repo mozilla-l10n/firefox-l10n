@@ -7,3 +7,4 @@ carddav-window =
 carddav-dialog =
     .buttonlabelaccept = განაგრძეთ
     .buttonaccesskeyaccept = გ
+carddav-experimental-warning = CardDAV წიგნაკის მხარდაჭერა საცდელია და შეიძლება სამუდამოდ გააფუჭოს თქვენი მონაცემები. გამოყენების ზიანზე, პასუხისმგებელი თავად იქნებით.
