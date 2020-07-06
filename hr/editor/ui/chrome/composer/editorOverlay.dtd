@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Font">
 <!ENTITY FontFaceSelect.tooltip "Odaberi font">
 <!ENTITY fontfaceMenu.label "Font">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Veličina fonta">
 <!ENTITY FontSizeSelect.tooltip "Odaberi veličinu fonta">
 <!ENTITY decreaseFontSize.label "Manji">
 <!ENTITY decreaseFontSize.accesskey "M">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Postavke popisa…">
 <!ENTITY listPropsCmd.accesskey "s">
 
+<!ENTITY ParagraphSelect.title "Odlomak">
 <!ENTITY ParagraphSelect.tooltip "Odaberite oblik paragrafa">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Glavni tekst">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Poravnaj obostrano">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Smještanje">
 <!ENTITY layer.tooltip "Sloj">
+<!ENTITY decreaseZIndex.label "Pošalji u pozadinu">
 <!ENTITY layerSendToBack.tooltip "Sloj prema natrag">
+<!ENTITY increaseZIndex.label "Postavi naprijed">
 <!ENTITY layerBringToFront.tooltip "Sloj prema naprijed">
 
 <!ENTITY increaseIndent.label "Povećaj uvlaku">
@@ -304,18 +310,25 @@
 <!ENTITY linkToolbarCmd.tooltip "Umetni novu poveznicu ili uredi postavke odabrane poveznice">
 <!ENTITY anchorToolbarCmd.label "Sidro">
 <!ENTITY anchorToolbarCmd.tooltip "Umetni novo sidro ili uredi postavke odabranog sidra">
+<!ENTITY colorButtons.title "Boje">
 <!ENTITY TextColorButton.tooltip "Odaberi boju za tekst">
 <!ENTITY BackgroundColorButton.tooltip "Odaberi boju za pozadinu">
 <!ENTITY throbber.tooltip "Idi na &vendorShortName; naslovnu stranicu">
-<!ENTITY throbber.tooltip2 "Idi na &brandShortName; naslovnu stranicu">
+<!ENTITY HighlightColorButton.label "Isticanje">
 <!ENTITY HighlightColorButton.tooltip "Odaberi boju za označavanje teksta">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Veličina fonta">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Postavi veličinu fonta">
+<!ENTITY smaller.label "Manji">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manja veličina fonta">
+<!ENTITY larger.label "Veći">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Veća veličina fonta">
+<!ENTITY bold.label "Podebljano">
 <!ENTITY boldToolbarCmd.tooltip "Podebljano">
+<!ENTITY italic.label "Kurziv">
 <!ENTITY italicToolbarCmd.tooltip "Kurziv">
+<!ENTITY underline.label "Podcrtano">
 <!ENTITY underlineToolbarCmd.tooltip "Podvučeno">
 <!ENTITY bulletListToolbarCmd.tooltip "Primjeni ili ukloni grafičke oznake">
 <!ENTITY numberListToolbarCmd.tooltip "Primjeni ili ukloni numeričke oznake">
