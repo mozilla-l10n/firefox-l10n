@@ -25,14 +25,14 @@
 
 <!ENTITY sidebar.no-panels.state     "O painel lateral está vazio.">
 <!ENTITY sidebar.no-panels.add       'Você pode adicionar abas clicando no botão "Abas" acima.'>
-<!ENTITY sidebar.no-panels.hide      'Se você quiser ocultar o Painel totalmente, clique no menu Exibir, Ferramentas e selecione Painel.'>
+<!ENTITY sidebar.no-panels.hide      'Se quiser ocultar totalmente o painel lateral, clique no menu "Exibir" acima e selecione "Painel lateral" no submenu "Exibir/Ocultar".'>
 <!ENTITY sidebar.sbDirectory.label   "Diretório do painel lateral…">
 
-<!ENTITY sidebar.pagenotfound.label  "Esta aba não está disponível neste momento">
-<!ENTITY sidebar.close.tooltip       "Fechar painel">
-<!ENTITY sidebar.open.tooltip        "Abrir Painel">
+<!ENTITY sidebar.pagenotfound.label  "Esta aba não está disponível agora.">
+<!ENTITY sidebar.close.tooltip       "Fechar painel lateral">
+<!ENTITY sidebar.open.tooltip        "Abrir painel lateral">
 
 <!ENTITY sidebar.search.label         "Pesquisar">
 <!ENTITY sidebar.client-bookmarks.label     "Favoritos">
 <!ENTITY sidebar.client-history.label       "Histórico">
-<!ENTITY sidebar.client-addressbook.label   "Catálogo de Endereços">
+<!ENTITY sidebar.client-addressbook.label   "Catálogo de endereços">
