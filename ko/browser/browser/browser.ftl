@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (사생활 보호 모드)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (사생활 보호 모드)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (사생활 보호 모드)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (사생활 보호 모드)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -138,12 +136,10 @@ urlbar-midi-blocked =
     .tooltiptext = 이 사이트의 MIDI 접근을 차단하였습니다.
 urlbar-install-blocked =
     .tooltiptext = 이 사이트의 부가 기능 설치를 차단했습니다.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = 북마크 편집 ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -174,14 +170,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = 이번에 사용할 검색 엔진:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = 검색 설정 변경
 search-one-offs-change-settings-compact-button =
     .tooltiptext = 검색 설정 변경
-
 search-one-offs-context-open-new-tab =
     .label = 새 탭에 검색
     .accesskey = T
@@ -197,10 +191,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = 저장할 때 편집기 표시
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = 완료
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -217,7 +209,7 @@ identity-extension-page = 이 페이지는 확장 기능으로부터 로드되�
 identity-active-blocked = { -brand-short-name }가 안전하지 않은 페이지의 일부를 차단했습니다.
 identity-custom-root = Mozilla에서 인식하지 못하는 인증서 발급자가 연결을 확인했습니다.
 identity-passive-loaded = 페이지의 일부(이미지 등)가 안전하지 않습니다.
-identity-active-loaded = 이 페이지에서 보호를 비활성화 하셨습니다.
+identity-active-loaded = 이 페이지에서 보호를 비활성화하셨습니다.
 identity-weak-encryption = 이 페이지는 약한 암호화를 사용합니다.
 identity-insecure-login-forms = 이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.
 identity-permissions =
@@ -274,15 +266,12 @@ popup-select-microphone =
     .value = 공유할 마이크:
     .accesskey = M
 popup-all-windows-shared = 화면에 표시되어 있는 모든 창을 공유합니다.
-
 popup-screen-sharing-not-now =
     .label = 나중에
     .accesskey = w
-
 popup-screen-sharing-never =
     .label = 허용 안 함
     .accesskey = N
-
 popup-silence-notifications-checkbox = 공유하는 동안 { -brand-short-name }에서 알림을 사용 안 함
 popup-silence-notifications-checkbox-warning = { -brand-short-name }는 공유하는 동안 알림을 표시하지 않습니다.
 
@@ -299,7 +288,6 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = F12 단축키를 사용하려면, 먼저 웹 개발자 메뉴를 통해 DevTools를 여세요.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -312,11 +300,9 @@ urlbar-permissions-granted =
     .tooltiptext = 이 웹 사이트에 추가 권한을 부여했습니다.
 urlbar-switch-to-tab =
     .value = 탭 전환:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 확장 기능:
-
 urlbar-go-button =
     .tooltiptext = 주소 표시줄의 주소로 이동
 urlbar-page-action-button =
