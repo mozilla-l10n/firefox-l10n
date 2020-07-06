@@ -12,6 +12,7 @@
 
 <!ENTITY sidebar.customize.title                "Anpassa sidofält">
 <!ENTITY sidebar.customize.current2.label       "Flikar i sidofält:">
+<!ENTITY sidebar.customize.current2.accesskey   "F">
 <!ENTITY sidebar.customize.customize.label      "Anpassa flik…">
 <!ENTITY sidebar.customize.customize.accesskey  "A">
 <!ENTITY sidebar.customize.remove.label         "Ta bort">
