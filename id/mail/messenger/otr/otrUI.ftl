@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+start-label = Mulai percakapan terenkripsi
+refresh-label = Muat ulang percakapan terenkripsi
+auth-label = Verifikasi identitas kontak Anda
+reauth-label = Verifikasikan kembali identitas kontak Anda
 auth-cancel = Batal
 auth-cancelAccessKey = C
 finger-verify = Verifikasi
