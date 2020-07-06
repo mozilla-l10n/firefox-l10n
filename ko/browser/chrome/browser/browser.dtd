@@ -383,7 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY logins.label                           "로그인과 비밀번호">
 
-<!ENTITY clearRecentHistory.label               "최근 기록 삭제…">
+<!ENTITY clearRecentHistory.label               "최근 기록 지우기…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -410,7 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "모든 기록 보기">
-<!ENTITY appMenuHistory.clearRecent.label "최근 기록 삭제…">
+<!ENTITY appMenuHistory.clearRecent.label "최근 기록 지우기…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
 <!ENTITY appMenuHistory.viewSidebar.label "기록 탐색창 보기">
 <!ENTITY appMenuHistory.hideSidebar.label "기록 탐색창 숨기기">
@@ -868,7 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "자세한 정보">
 
-<!ENTITY identity.clearSiteData "쿠키 및 사이트 데이터 삭제…">
+<!ENTITY identity.clearSiteData "쿠키 및 사이트 데이터 지우기…">
 
 <!ENTITY identity.permissions "권한">
 <!ENTITY identity.permissionsEmpty "이 사이트를 특별한 권한으로 승인하지 않았습니다.">
@@ -964,7 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "닫기">
 
-<!ENTITY panicButton.thankyou.msg1                "최근 기록이 삭제되었습니다.">
+<!ENTITY panicButton.thankyou.msg1                "최근 기록이 지워졌습니다.">
 <!ENTITY panicButton.thankyou.msg2                "안전한 탐색!">
 <!ENTITY panicButton.thankyou.buttonlabel         "감사합니다!">
 
