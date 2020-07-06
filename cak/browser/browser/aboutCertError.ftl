@@ -63,7 +63,7 @@ csp-xfo-blocked-long-desc = Richin nichajïx ri ajikomal, man xtuya' ta q'ij ri 
 ## Messages used for certificate error titles
 
 connectionFailure-title = Man tikirel ta nok
-deniedPortAccess-title = Re ochochib'äl re' q'aton rusamaj
+deniedPortAccess-title = Q'aton re ochochib'äl re'
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. K'o qak'ayewal richin niqïl ri ruxaq k'amaya'l.
