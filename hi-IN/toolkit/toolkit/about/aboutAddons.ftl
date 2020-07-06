@@ -367,6 +367,10 @@ release-notes-loading = लोड हो रहा है…
 
 extension-heading = अपने एक्सटेंशन प्रबंधित करें
 theme-heading = अपने थीम प्रबंधित करें
+plugin-heading = अपने प्लगिन प्रबंधित करें
+dictionary-heading = अपने शब्दकोश प्रबंधित करें
+locale-heading = अपनी भाषाएं प्रबंधित करें
+updates-heading = अपने अपडेट प्रबंधित करें
 addons-heading-search-input =
     .placeholder = addons.mozilla.org खोजें
 addon-page-options-button =
