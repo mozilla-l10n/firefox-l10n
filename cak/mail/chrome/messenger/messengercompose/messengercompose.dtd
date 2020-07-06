@@ -90,6 +90,10 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Rupas Taqoj">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "q">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "h">
 <!ENTITY selectAllCmd.label "Ticha' Ronojel">
 <!ENTITY selectAllCmd.accesskey "r">
@@ -360,4 +364,4 @@
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Ruch'ab'äl chojmirisanel tz'ib'anikilal">
-<!ENTITY encodingStatusPanel.tooltip "Rucholajil rucholajem tzij">
+<!ENTITY encodingStatusPanel.tooltip "Rucholajil tz'ib'atzij">

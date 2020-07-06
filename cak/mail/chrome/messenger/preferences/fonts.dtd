@@ -32,7 +32,7 @@
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
 <!ENTITY  font.langGroup.el                       "Greek">
 <!ENTITY  font.langGroup.other                    "Ch'aqa' chik Kitz'ib'anik Qinoj">
-<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.thai                     "Taylanes">
 <!ENTITY  font.langGroup.hebrew                   "Hebrew">
 <!ENTITY  font.langGroup.arabic                   "Aj Arabia">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
@@ -71,7 +71,7 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Elem Taqoya'l:">
 <!ENTITY sendDefaultCharset.accesskey     "e">
-<!ENTITY languagesTitle2.label            "Rucholajil rucholajem tzij">
+<!ENTITY languagesTitle2.label            "Rucholajil Tz'ib'atzij">
 <!ENTITY composingDescription2.label      "Tijikib'äx ri kicholajil cholan tzij e k'o wi richin nitaq chuqa' nik'ul taqoya'l">
 
 <!ENTITY viewDefaultCharsetList.label     "Okem Taqoya'l:">

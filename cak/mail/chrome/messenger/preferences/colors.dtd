@@ -13,9 +13,9 @@
 <!ENTITY  overridePageColors.auto.label   "Xa xe q'equ'm taq chumal kichin taq ruwachinel">
 <!ENTITY  overridePageColors.never.label  "Majub'ey">
 
-<!ENTITY  color                           "Rucholajem tzij chuqa' rupam">
-<!ENTITY  textColor.label                 "Rucholajem tzij:">
-<!ENTITY  textColor.accesskey             "R">
+<!ENTITY  color                           "Tz'ib'atzij chuqa' Rupam">
+<!ENTITY  textColor.label                 "Tz'ib'atzij:">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Rupam:">
 <!ENTITY  backgroundColor.accesskey       "R">
 <!ENTITY  useSystemColors.label           "Ke'okisäx ri taq rub'onil q'inoj">

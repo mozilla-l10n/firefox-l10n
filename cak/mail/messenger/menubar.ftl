@@ -6,5 +6,5 @@
 ## View Menu
 
 menu-view-charset =
-    .label = Rucholajil Rucholajem Tzij
+    .label = Rucholajil Tz'ib'atzij
     .accesskey = c

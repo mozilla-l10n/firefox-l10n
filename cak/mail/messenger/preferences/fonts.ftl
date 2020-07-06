@@ -41,7 +41,7 @@ font-language-group-el =
 font-language-group-other =
     .label = Ch'aqa' chik Kitz'ib'anik Qinoj
 font-language-group-thai =
-    .label = Thai
+    .label = Taylanes
 font-language-group-hebrew =
     .label = Hebrew
 font-language-group-arabic =
@@ -120,7 +120,7 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
-text-encoding-legend = Rucholajil rucholajem tzij
+text-encoding-legend = Rucholajil Tz'ib'atzij
 text-encoding-description = Tijikib'äx ri kicholajil cholan tzij e k'o wi richin nitaq chuqa' nik'ul taqoya'l
 font-outgoing-email-label =
     .value = Elem Taqoya'l:
