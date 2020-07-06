@@ -26,7 +26,7 @@
 <!ENTITY account.disconnect.accesskey "i">
 <!ENTITY account.delete.label         "Obriši">
 <!ENTITY account.delete.accesskey     "b">
-<!ENTITY account.edit.label           "Postavke">
+<!ENTITY account.edit.label           "Svojstva">
 <!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Pomakni gore">
 <!ENTITY account.movedown.label       "Pomakni dolje">
