@@ -275,6 +275,9 @@ blocklisted-bug = Geblokkeerd vanwege bekende problemen
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Geblokkeerd vanwege bekende problemen: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Op blokkeerlijst; foutcode { $failureCode }
 d3d11layers-crash-guard = D3D11-compositor
