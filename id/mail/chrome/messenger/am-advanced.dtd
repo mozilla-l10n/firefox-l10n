@@ -27,4 +27,4 @@
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Nama Pengguna: ">
 <!ENTITY connectionSecurity.label "Keamanan Sambungan: ">
-<!ENTITY authMethod.label   "Metode autentikasi: ">
+<!ENTITY authMethod.label   "Metode otentikasi:">
