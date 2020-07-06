@@ -116,7 +116,7 @@ menu-view-page-basic-style =
     .label = Rutzub'al ruk'u'x ruxaq
     .accesskey = R
 menu-view-charset =
-    .label = Rucholajil rucholajem tzij
+    .label = Rucholajil Tz'ib'atzij
     .accesskey = c
 
 ## These should match what Safari and other Apple applications
