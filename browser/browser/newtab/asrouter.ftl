@@ -129,6 +129,7 @@ cfr-whatsnew-pip-cta = מידע נוסף
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = פחות חלונות קופצים מעצבנים
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } מונע מעתה באופן אוטומטי מאתרים לבקש לשלוח לך הודעות קופצות.
 cfr-whatsnew-permission-prompt-cta = מידע נוסף
 
 ## Fingerprinter Counter
