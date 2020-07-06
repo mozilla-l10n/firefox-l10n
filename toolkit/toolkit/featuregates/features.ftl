@@ -17,3 +17,7 @@ experimental-features-web-gpu-description = Eksperimentelny API za grafiku a pś
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = óksperimentelna podpěra za AVIF: wobrazowy format AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookies: SameSite=lax by default
