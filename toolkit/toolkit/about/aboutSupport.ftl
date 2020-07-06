@@ -125,10 +125,10 @@ sandbox-sys-call-number = 시스템 콜
 sandbox-sys-call-args = 인자
 safe-mode-title = 안전 모드 시도
 restart-in-safe-mode-label = 부가 기능을 끄고 다시 시작…
-clear-startup-cache-title = 시작 캐시 삭제 시도
-clear-startup-cache-label = 시작 캐시 삭제…
-startup-cache-dialog-title = 시작 캐시 삭제
-startup-cache-dialog-body = 시작 캐시를 삭제하려면 { -brand-short-name }를 다시 시작하세요. 설정이 변경되거나 { -brand-short-name }에 추가한 확장 기능이 제거되지는 않습니다.
+clear-startup-cache-title = 시작 캐시 지우기 시도
+clear-startup-cache-label = 시작 캐시 지우기…
+startup-cache-dialog-title = 시작 캐시 지우기
+startup-cache-dialog-body = 시작 캐시를 지우려면 { -brand-short-name }를 다시 시작하세요. 설정이 변경되거나 { -brand-short-name }에 추가한 확장 기능이 제거되지는 않습니다.
 restart-button-label = 다시 시작
 
 ## Media titles
@@ -195,7 +195,7 @@ crashes-time-hours = { $hours }시간 전
 crashes-time-days = { $days }일 전
 # Variables
 # $reports (integer) - Number of pending reports
-pending-reports = 모든 충돌 보고서(기간안에 있는 { $reports }개의 보류된 충돌 보고서 포함)
+pending-reports = 모든 충돌 보고서 (주어진 시간 범위에 있는 { $reports }개의 보류중인 충돌 포함)
 raw-data-copied = 원시 데이터를 클립보드에 복사함
 text-copied = 문자열을 클립보드에 복사함
 

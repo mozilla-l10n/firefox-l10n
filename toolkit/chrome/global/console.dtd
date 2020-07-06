@@ -16,7 +16,7 @@
 <!ENTITY warnings.accesskey "W">
 <!ENTITY messages.label     "메시지">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label        "삭제">
+<!ENTITY clear.label        "지우기">
 <!ENTITY clear.accesskey    "C">
 <!ENTITY codeEval.label     "코드:">
 <!ENTITY codeEval.accesskey "o">
