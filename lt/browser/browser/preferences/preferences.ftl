@@ -50,6 +50,12 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = „{ -brand-short-name }“ eksperimentai
+category-experimental =
+    .tooltiptext = „{ -brand-short-name }“ eksperimentai
+pane-experimental-subtitle = Elkitės atsargiai
+pane-experimental-search-results-header = „{ -brand-short-name }“ eksperimentai: elkitės atsargiai
+pane-experimental-description = Išplėstinių nuostatų keitimas gali paveikti „{ -brand-short-name }“ veikimą arba saugumą.
 help-button-label = „{ -brand-short-name }“ pagalba
 addons-button-label = Priedai ir grafiniai apvalkalai
 focus-search =
@@ -502,7 +508,6 @@ home-prefs-topsites-description = Dažniausiai lankomos svetainės
 
 home-prefs-recommended-by-header =
     .label = Rekomendavo „{ $provider }“
-home-prefs-recommended-by-description = Puikus turinys iš viso saityno, parinktas specialiai jums
 home-prefs-recommended-by-description-update = Išskirtinis turinys iš viso interneto, atrinktas „{ $provider }“
 
 ##
@@ -567,7 +572,6 @@ search-show-suggestions-above-history-option =
     .label = Rodyti paieškos žodžių siūlymus virš naršymo žurnalo, matomus adreso juostos rezultatuose
 search-show-suggestions-private-windows =
     .label = Rodyti paieškos žodžių siūlymus privačiojo naršymo languose.
-suggestions-addressbar-settings = Keiskite naršymo žurnalo, adresyno, ir kortelių siūlymų nuostatas
 suggestions-addressbar-settings-generic = Keisti kitų adreso juostos siūlymų nuostatas
 search-suggestions-cant-show = Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „{ -brand-short-name }“ niekada nevestų žurnalo.
 search-one-click-header = Ieškyklės vienu spustelėjimu
