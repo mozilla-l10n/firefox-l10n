@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY settings.caption "Pengaturan">
-<!ENTITY security.caption "Keamanan dan Autentikasi">
+<!ENTITY security.caption "Keamanan dan Otentikasi">
 <!ENTITY serverName.label "Nama Server:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY serverDescription.label "Keterangan:">
@@ -20,5 +20,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server SMTP">
 <!ENTITY serverPortDefault.label "Default:">
-<!ENTITY authMethod.label "Metode autentikasi:">
+<!ENTITY authMethod.label "Metode otentikasi:">
 <!ENTITY authMethod.accesskey "i">
