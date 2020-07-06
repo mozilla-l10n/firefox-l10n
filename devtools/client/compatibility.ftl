@@ -26,6 +26,7 @@ compatibility-feedback-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Ajustes
+compatibility-target-browsers-header = Navegadores objetivo
 
 ##
 
