@@ -6,20 +6,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname }에 연결하는 동안 오류가 발생했습니다. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = 오류 코드: { $error }
-
 psmerr-ssl-disabled = SSL 프로토콜을 사용할 수 없어서 보안 연결을 할 수 없습니다.
 psmerr-ssl2-disabled = 보안에 취약한 오래된 SSL 프로토콜을 사용하고 있어서 보안 연결을 할 수 없습니다.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     유효하지 않은 인증서를 받았습니다. 서버 관리자등에게 연락해서 다음 정보를 제공하세요:
     
     인증서에 인증 기관에서 발급한 다른 인증서와 같은 일련 번호가 있습니다. 고유한 일련 번호를 가진 새 인증서를 받으세요.
-
 ssl-error-export-only-server = 안전하게 통신을 할 수 없습니다. 상대방이 높은 등급의 암호화를 지원하지 않습니다.
 ssl-error-us-only-server = 안전하게 통신을 할 수 없습니다. 상대방이 지원하지 않는 높은 등급의 암호화를 요청합니다.
 ssl-error-no-cypher-overlap = 상대방과 안전하게 통신을 할 수 없음: 일반 암호화 알고리듬이 없습니다.
@@ -40,7 +36,7 @@ ssl-error-revoked-cert-alert = SSL 상대 측에서 폐기된 인증서를 거�
 ssl-error-expired-cert-alert = SSL 상대 측에서만료된 인증서를 거절했습니다.
 ssl-error-ssl-disabled = 연결할 수 없음: SSL을 사용할 수 없습니다.
 ssl-error-fortezza-pqg = 연결할 수 없음: SSL 상대 측에서 다른 FORTEZZA 도메인에 속해있습니다.
-ssl-error-unknown-cipher-suite = 알 수 없는 SSL 통합 암호화 솔루션 패키지를 요청 했습니다.
+ssl-error-unknown-cipher-suite = 알 수 없는 SSL 통합 암호화 솔루션 패키지를 요청했습니다.
 ssl-error-no-ciphers-supported = 이 프로그램에는 사용 가능한 통합 암호화 솔루션 패키지가 없습니다.
 ssl-error-bad-block-padding = SSL이 손상된 블럭 패딩이 들어있는 레코드를 받았습니다.
 ssl-error-rx-record-too-long = SSL이 허용 가능한 최대 길이를 넘은 레코드를 받았습니다.
@@ -95,8 +91,8 @@ ssl-error-md5-digest-failure = MD5 요약 함수가 실패했습니다.
 ssl-error-sha-digest-failure = SHA-1 요약 함수가 실패했습니다.
 ssl-error-mac-computation-failure = MAC 연산이 실패했습니다.
 ssl-error-sym-key-context-failure = 대칭키 내용 생성에 실패했습니다.
-ssl-error-sym-key-unwrap-failure = 클라이언트 키 교환 메시지에서 대칭키를 꺼내는데 실패 했습니다.
-ssl-error-pub-key-size-limit-exceeded = SSL 서버가 수출용 통합 암호화 솔루션 패키지에 국내용 공개키를 사용하려다 실패 했습니다.
+ssl-error-sym-key-unwrap-failure = 클라이언트 키 교환 메시지에서 대칭키를 꺼내는데 실패했습니다.
+ssl-error-pub-key-size-limit-exceeded = SSL 서버가 수출용 통합 암호화 솔루션 패키지에 국내용 공개키를 사용하려다 실패했습니다.
 ssl-error-iv-param-failure = PKCS #11 코드가 IV를 매개변수로 번역하는데 실패했습니다.
 ssl-error-init-cipher-suite-failure = 선택한 통합 암호화 솔루션 패키지 초기화에 실패했습니다.
 ssl-error-session-key-gen-failure = 클라이언트가 SSL 세션에 사용할 키 생성에 실패했습니다.
@@ -147,7 +143,7 @@ ssl-error-rx-unexpected-cert-status = SSL이 예상되지 않은 Certificate Sta
 ssl-error-unsupported-hash-algorithm = TLS 상대방이 지원되지 않는 해시 알고리즘을 사용했습니다.
 ssl-error-digest-failure = 다이제스트 기능이 실패하였습니다.
 ssl-error-incorrect-signature-algorithm = 전자 서명 요소에 맞지 않는 서명 알고리즘이 표시되었습니다.
-ssl-error-next-protocol-no-callback = 다음 프로토콜 협상 확장이 활성화 되었지만 필요로 하기 전에 콜백이 삭제되었습니다.
+ssl-error-next-protocol-no-callback = 다음 프로토콜 협상 확장이 활성화 되었지만 필요로 하기 전에 콜백이 지워졌습니다.
 ssl-error-next-protocol-no-protocol = 클라이언트가 ALPN 확장에 명시한 프로토콜을 서버가 지원하지 않습니다.
 ssl-error-inappropriate-fallback-alert = 클라이언트가 서버가 지원하는 버전보다 낮은 버전으로 TLS 버전을 낮춰서 핸드쉐이크가 거부되었습니다.
 ssl-error-weak-server-cert-key = 서버 인증이 너무 약한 공개키를 포함하고 있습니다.

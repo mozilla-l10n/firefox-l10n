@@ -163,7 +163,7 @@ legacy-extensions-description = 이 확장 기능들은 현재 { -brand-short-na
 private-browsing-description2 =
     { -brand-short-name }가 사생활 보호 모드에서 확장 기능이 작동하는 방식을 바꾸고 있습니다.
     { -brand-short-name }에 추가되는 모든 새 확장 기능은 기본적으로 사생활 보호 창에서 실행되지 않습니다. 만약 사용자가 설정에서 허용하지 않는다면, 확장 기능은 사생활 보호 모드에서 작동하지 않으며, 사용자 온라인 활동에 접근할 수 없습니다.
-    사용자의 사생활 보호 모드를 비공개로 유지 하기 위해 이렇게 변경 했습니다.
+    사용자의 사생활 보호 모드를 비공개로 유지 하기 위해 이렇게 변경했습니다.
     <label data-l10n-name="private-browsing-learn-more">확장 기능 설정 관리 방법 알아보기</label>
 extensions-view-discopane =
     .name = 추천
