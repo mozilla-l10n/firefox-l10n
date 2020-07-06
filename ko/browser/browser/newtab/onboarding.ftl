@@ -117,7 +117,7 @@ onboarding-firefox-monitor-text = { -monitor-brand-name }는 데이터 유출 �
 onboarding-firefox-monitor-text2 = { -monitor-brand-name }는 데이터 유출 사건에 사용자의 이메일이 있는지를 모니터링하고 새 데이터 유출 사건에 있으면 사용자에게 알려 줍니다.
 onboarding-firefox-monitor-button = 알림 가입 신청
 onboarding-browse-privately-title = 사생활 보호 모드
-onboarding-browse-privately-text = 사생활 보호 모드는 검색 및 방문 기록을 삭제하므로 컴퓨터를 사용하는 다른 사람들로부터 비밀을 유지할 수 있습니다.
+onboarding-browse-privately-text = 사생활 보호 모드는 검색 및 방문 기록을 지우므로 컴퓨터를 사용하는 다른 사람들로부터 비밀을 유지할 수 있습니다.
 onboarding-browse-privately-button = 사생활 보호 창 열기
 onboarding-firefox-send-title = 공유 파일 보호
 onboarding-firefox-send-text2 = 파일을 { -send-brand-name }에 업로드하여 종단 간 암호화와 자동으로 만료되는 링크로 공유하세요.
@@ -156,7 +156,7 @@ onboarding-personal-data-promise-button = 우리의 약속을 읽으세요
 
 ## Message strings belonging to the Return to AMO flow
 
-return-to-amo-sub-header = 좋습니다. { -brand-short-name }를 설치 했네요.
+return-to-amo-sub-header = 좋습니다. { -brand-short-name }를 설치했네요.
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
