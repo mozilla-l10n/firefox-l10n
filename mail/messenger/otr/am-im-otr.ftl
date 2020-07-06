@@ -6,3 +6,4 @@ account-encryption =
     .label = Enkripsi Ujung ke Ujung
 account-otr-label = Pesan Tanpa Rekaman (OTR)
 account-otr-description = { -brand-short-name } mendukung enkripsi ujung-ke-ujung dari percakapan satu-lawan-satu. Ini mencegah pihak ketiga menguping pembicaraan. Enkripsi ujung-ke-ujung hanya dapat digunakan ketika orang lain juga menggunakan perangkat lunak yang mendukung OTR.
+otr-encryption-title = Enkripsi Terverifikasi
