@@ -88,10 +88,13 @@ imported-edge-reading-list = Listahan ng Babasahin (Mula sa Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Mga cookie
 browser-data-cookies-label =
     .value = Cookies
 browser-data-session-checkbox =

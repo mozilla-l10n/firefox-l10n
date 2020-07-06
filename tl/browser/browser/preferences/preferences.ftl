@@ -488,7 +488,6 @@ home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
 
 home-prefs-recommended-by-header =
     .label = Inirekomenda ni { $provider }
-home-prefs-recommended-by-description = Magagandang mga content na galing sa web, inakma para sa iyo.
 
 ##
 
@@ -550,7 +549,6 @@ search-show-suggestions-above-history-option =
     .label = Unahing ipakita ang mga mungkahi sa paghahanap bago ang kasaysayan ng pag-browse sa mga resulta sa address bar
 search-show-suggestions-private-windows =
     .label = Magpakita ng mga mungkahi sa paghahanap sa mga Private Window
-suggestions-addressbar-settings = Piliin ang mga kagustuhan para sa kasaysayan ng pag-browse, mga bookmark, at mga tab suggestion
 search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
 search-one-click-header = Mga One-Click Search Engine
 search-one-click-desc = Piliin ang mga alternatibong search engine na lalabas sa ibaba ng address bar at search bar kapag nagsimula kang magpasok ng isang keyword.
@@ -901,6 +899,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Mga nakabukas na tab
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = Pangunahing mga site.
+    .accesskey = P
 addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga mungkahi ng search engine
 
 ## Privacy Section - Content Blocking

@@ -5,9 +5,7 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Mga Privacy Protection
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Pumunta sa iyong privacy report
+appmenuitem-protection-dashboard-title = Mga Proteksyon sa Dashboard
 appmenuitem-customize-mode =
     .label = I-customize...
 

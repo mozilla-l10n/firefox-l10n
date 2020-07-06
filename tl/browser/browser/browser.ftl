@@ -275,6 +275,8 @@ popup-screen-sharing-never =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Magpatuloy sa Tab
 
 ## DevTools F12 popup
 
