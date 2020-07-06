@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Man tikirel ta nok">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Re jun ochochib'äl re' q'aton rusamaj">
+<!ENTITY deniedPortAccess.title "Q'aton re ochochib'äl re'">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Man xilitäj ta ri k'uxasamaj">

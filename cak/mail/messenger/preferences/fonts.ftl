@@ -79,7 +79,7 @@ font-language-group-kannada =
 font-language-group-sinhala =
     .label = Sinhala
 font-language-group-tibetan =
-    .label = Tibetan
+    .label = Tibetano'
 
 ## Default font type
 
