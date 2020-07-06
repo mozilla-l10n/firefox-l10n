@@ -239,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "중지">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "주소 표시줄의 주소로 이동">
 
 <!ENTITY printButton.label            "인쇄">
@@ -257,7 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "플러그인 사용 관리">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "사이트의 알림을 받을지 여부 변경">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "영구 저장소에 데이터를 저장">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "브라우저가 원격 제어중">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "웹 인증 패널 열기">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "탐색 활동 권한 패널 열기">
@@ -286,9 +284,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "이 사이트의 부가 기능 설치를 차단했습니다.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "기록 보기">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "이 웹 사이트에 추가 권한을 부여했습니다.">
-
 
 <!ENTITY searchItem.title             "검색">
 
@@ -398,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "탐색창">
 <!ENTITY viewSidebarMenu.accesskey "e">
-
 <!ENTITY viewCustomizeToolbar.label       "사용자 지정…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
@@ -493,7 +487,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "기타 도구">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "검색어 또는 주소 입력">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -848,7 +841,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;가 안전하지 않은 페이지의 일부를 차단했습니다.">
 <!ENTITY identity.passiveLoaded "페이지의 일부(이미지 등)가 안전하지 않습니다.">
-<!ENTITY identity.activeLoaded "이 페이지에서 보호를 비활성화 하셨습니다.">
+<!ENTITY identity.activeLoaded "이 페이지에서 보호를 비활성화하셨습니다.">
 <!ENTITY identity.weakEncryption "이 페이지는 약한 암호화를 사용합니다.">
 
 <!-- Strings for connection state warnings in the subview. -->
