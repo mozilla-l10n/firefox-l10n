@@ -108,7 +108,7 @@ onboarding-fxa-text = Registrera dig för ett { -fxaccount-brand-name } och synk
 onboarding-tracking-protection-title2 = Skydd från spårning
 onboarding-tracking-protection-text2 = { -brand-short-name } hjälper till att stoppa webbplatser från att spåra dig online, vilket gör det svårare för annonser att följa dig på webben.
 onboarding-tracking-protection-button2 = Hur det fungerar
-onboarding-data-sync-title = Ta dina inställningar med dig
+onboarding-data-sync-title = Ta med dig dina inställningar
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Synkronisera dina bokmärken, lösenord och mer överallt där du använder { -brand-product-name }.
 onboarding-data-sync-button2 = Logga in på { -sync-brand-short-name }
@@ -127,7 +127,7 @@ onboarding-mobile-phone-text = Hämta { -brand-product-name } för iOS eller And
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Hämta mobil webbläsare
-onboarding-send-tabs-title = Skicka snabb flikar till dig själv
+onboarding-send-tabs-title = Skicka snabbt flikar till dig själv
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs delar direkt sidor mellan dina enheter utan att behöva kopiera, klistra in eller lämna webbläsaren.
