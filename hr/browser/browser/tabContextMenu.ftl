@@ -56,6 +56,15 @@ move-to-new-window =
 undo-close-tab =
     .label = Poništi zatvaranje kartice
     .accesskey = P
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Poništi zatvaranje kartice
+            [one] Poništi zatvaranje kartice
+            [few] Poništi zatvaranje kartice
+           *[other] Poništi zatvaranje kartica
+        }
+    .accesskey = n
 close-tab =
     .label = Zatvori karticu
     .accesskey = c
