@@ -17,6 +17,10 @@ otr-log =
     .label = Zaklučowane OTR-powěsće do rozmołwnych protokolow přiwzać
 otr-requireEncryption =
     .label = Zaklučowanje wot kónca do kónca za rozmołwy mjez dwěmaj wosobomaj požadać
+otr-require-encryption-info =
+    Jeli zaklučowanje kónc do kónca je trěbne, so powěsće w rozmołwach mjez dwěmaj wosobomaj
+    njepósćelu, chibazo su zaklučowane. Přijate njezaklučowane powěsće
+    so jako dźěl normalneje rozmołwy njepokazaja ani njeprotokoluja.
 otr-verifyNudge =
     .label = Mje přeco na to dopomnić, njepřepruwowany kontakt přepruwować
 otr-notYetAvailable = hišće k dispoziciji njeje
