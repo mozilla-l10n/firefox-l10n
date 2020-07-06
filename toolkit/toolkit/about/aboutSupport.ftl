@@ -57,6 +57,7 @@ show-dir-label =
         [windows] फ़ोल्डर खोलें
        *[other] खुली निर्देशिका
     }
+experimental-features-name = नाम
 modified-key-prefs-title = महत्वपूर्ण रूपांतरित वरीयताएँ
 modified-prefs-name = नाम
 modified-prefs-value = मान
