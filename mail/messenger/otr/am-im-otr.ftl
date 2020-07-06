@@ -17,6 +17,10 @@ otr-log =
     .label = Skoděrowane OTR-powěsći do rozgronowych protokolow pśiwześ
 otr-requireEncryption =
     .label = Koděrowanje wót kóńca do kóńca za rozgrona mjazy dwěma wósoboma pominaś
+otr-require-encryption-info =
+    Jolic koděrowanje kóńc do kóńca jo trjebne, se powěsći w rozgronach mjazy dwěma wósoboma
+    njepósćelu, snaźkuli su skoděrowane. Dóstane njeskoděrowane powěsći
+    se ako źěl normalnego rozgrona njepokaže daniž njeprotokolěruju.
 otr-verifyNudge =
     .label = Mě pśecej na to dopomniś, njepśeglědany kontakt pśeglědowaś
 otr-notYetAvailable = njejo hyšći k dispoziciji
