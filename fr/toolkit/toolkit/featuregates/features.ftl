@@ -17,3 +17,8 @@ experimental-features-web-gpu-description = API expérimentale pour le graphisme
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Prise en charge expérimentale pour le format d’image AVIF : AV1 Image File Format
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookies : SameSite=lax par défaut
+experimental-features-cookie-samesite-lax-by-default-description = Traite les cookies comme « sameSite=lax » par défaut si l’attribut « sameSite » n’est pas spécifié. Les développeurs doivent choisir le status quo actuel d’utilisation sans restriction en définissant explicitement « sameSite=none ».
