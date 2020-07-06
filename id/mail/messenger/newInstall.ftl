@@ -6,3 +6,4 @@ connection-window =
     .title = Berita Penting
 continue-button =
     .label = Lanjut
+main-text = Pemasangan { -brand-short-name } ini memiliki profil baru. Aplikasi ini tidak membagikan data surel, sandi, preferensi pengguna, dan buku alamat dengan pemasangan { -brand-product-name } lainnya (termasuk { -brand-product-name }, { -brand-product-name } Beta, dan { -brand-product-name } Setiap hari) di komputer ini.
