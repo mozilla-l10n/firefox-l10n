@@ -14,9 +14,13 @@ remove-address-row-type-label =
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
-        [0] { $type }
-        [one] { $type } dengan satu alamat, gunakan panah kiri untuk memfokuskan.
        *[other] { $type } dengan { $count } alamat, gunakan panah kiri untuk memfokuskan.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+       *[other] { $email }, 1 dari { $count }: tekan Enter untuk mengedit, Delete untuk menghapus.
     }
 pill-action-edit =
     .label = Edit Alamat
@@ -34,7 +38,6 @@ pill-action-move-bcc =
 attachment-bucket-count =
     .value =
         { $count ->
-            [1] { $count } Lampiran
            *[other] { $count } Lampiran
         }
     .accesskey = m
@@ -42,7 +45,6 @@ attachment-bucket-count =
 attachments-placeholder-tooltip =
     .tooltiptext =
         { $count ->
-            [1] { $count } Lampiran
            *[other] { $count } Lampiran
         }
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
