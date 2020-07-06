@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = 데이터 지우기
     .style = width: 35em
-clear-site-data-description = { -brand-short-name }에 저장된 모든 쿠키와 사이트 데이터를 삭제하면 웹 사이트에서 로그아웃되고 오프라인 웹 콘텐츠가 삭제될 수 있습니다. 캐시 데이터를 지우는 것은 로그인에 영향을 미치지 않습니다.
+clear-site-data-description = { -brand-short-name }에 저장된 모든 쿠키와 사이트 데이터를 지우면 웹 사이트에서 로그아웃되고 오프라인 웹 콘텐츠가 삭제될 수 있습니다. 캐시 데이터를 지우는 것은 로그인에 영향을 미치지 않습니다.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
