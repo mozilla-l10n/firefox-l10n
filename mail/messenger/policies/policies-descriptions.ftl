@@ -73,3 +73,16 @@ policy-PDFjs = Nonaktifkan atau atur konfigurasi PDF.js, penampil PDF bawaan di 
 policy-Permissions2 = Atur izin untuk kamera, mikrofon, lokasi, notifikasi, dan putar-otomatis.
 policy-Preferences = Tetapkan dan kunci nilai untuk subset preferensi.
 policy-PromptForDownloadLocation = Tanyakan di mana berkas disimpan saat mengunduh.
+policy-Proxy = Atur setelan proksi.
+policy-RequestedLocales = Atur daftar kode pelokalan yang diminta untuk aplikasi sesuai urutan.
+policy-SanitizeOnShutdown2 = Bersihkan data navigasi saat dimatikan
+policy-SearchEngines = Konfigurasikan setelan mesin pencari. Kebijakan ini hanya tersedia dalam versi Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Aktifkan atau nonaktifkan saran pencarian.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Pasang modul PKCS#11.
+policy-SSLVersionMax = Tetapkan versi SSL maksimum.
+policy-SSLVersionMin = Tetapkan versi SSL minimum.
+policy-SupportMenu = Tambahkan item menu dukungan khusus pada menu bantuan.
+policy-UserMessaging = Jangan tampilkan pesan tertentu kepada pengguna.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.
