@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Smješko">
 <!ENTITY insertSmiley.accesskey "S">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Neću ništa reći">
 <!ENTITY smiley16Cmd.accesskey "r">
 <!ENTITY smiley16Cmd.tooltip "Umetni neću ništa reći">
+<!ENTITY SmileButton.label "Umetni smiley">
 <!ENTITY SmileButton.tooltip "Umetni smješka">
-
