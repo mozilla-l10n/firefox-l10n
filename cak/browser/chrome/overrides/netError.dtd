@@ -87,7 +87,7 @@
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Rik'in jub'a' rajowaxik nayäk qa jun chik kema' richin nijaqatäj re ochochib'äl re'.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Ri proxy ruk'u'x samaj tajin yerutzolij ri taq okem">
+<!ENTITY proxyConnectFailure.title "Ja ri proxy k'uxasamaj nixutun ri okem">
 
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Tanik'oj chi ri runuk'ulem proxi ja ri' ri ütz.</li> <li>Katoyon rik'in ri runuk'samajel k'amab'ey richin nanik'oj chi ri ruk'u'x samaj proxi tajin nisamäj.</li> </ul>">
 

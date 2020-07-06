@@ -49,7 +49,7 @@ newtab-topsites-add-button = Titz'aqatisäx
 
 newtab-confirm-delete-history-p1 = ¿La kan nawajo ye'ayüj el ronojel ri kib'eyal re taq ruxaq re' chi kikojol ri anatab'al?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = Man yatikïr ta najäl re b'anïk re'.
+newtab-confirm-delete-history-p2 = Man tikirel ta nitzolïx re b'anïk.
 
 ## Context Menu - Action Tooltips.
 

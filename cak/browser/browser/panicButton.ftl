@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Tijaq jun k'ak'a' tzuwäch
-panic-button-undo-warning = Man tikirel ta xtitzolïx re samaj re'.
+panic-button-undo-warning = Man tikirel ta nitzolïx re b'anïk.
 panic-button-forget-button =
     .label = ¡Tamestaj!
 
