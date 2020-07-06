@@ -21,3 +21,9 @@ experimental-features-avif-description = óksperimentelna podpěra za AVIF: wobr
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-lax-by-default =
     .label = Cookies: SameSite=lax by default
+experimental-features-cookie-samesite-lax-by-default-description = Wobchadajśo z cookiejami ako „sameSite=lax“ pó standarźe, jolic atribut „sameSite“ njejo pódany. Wuwijarje muse eksplicitnje „sameSite=none“ nastajiś, aby aktualnemu statusoju quo njewobgranicowanego wužywanja pśigłosowali.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Cookieje: SameSite=none atribut secure trjeba
+experimental-features-cookie-samesite-none-requires-secure-description = Cookieje z atributom “sameSite=none” se atribut secure pominaju. Toś ta funkcija se pó standarźe „Cookieje: SameSite=lax“ pomina.
