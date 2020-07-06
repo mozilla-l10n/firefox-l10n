@@ -377,7 +377,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "모두 선택">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "A">
-<!ENTITY preferencesCmd2.label       "설정…">
+<!ENTITY preferencesCmd2.label       "설정">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "환경 설정">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
