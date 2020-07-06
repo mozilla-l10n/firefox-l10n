@@ -95,7 +95,7 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Ri proxi k'uxasamaj tajin yerutzolij ri taq okem">
+<!ENTITY proxyConnectFailure.title "Ja ri proxy k'uxasamaj nixutun ri okem">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Tanik'oj chi ri runuk'ulem proxi ja ri' ri ütz.</li>
