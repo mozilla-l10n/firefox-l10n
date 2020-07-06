@@ -9,6 +9,12 @@ about-httpsonly-insecure-explanation-unavailable = Estás navegando en el modo d
 about-httpsonly-insecure-explanation-reasons = Lo más probable es que el sitio web no soporte HTTPS, pero también es posible que un atacante esté bloqueando la versión HTTPS.
 about-httpsonly-insecure-explanation-exception = Aunque el riesgo de seguridad es bajo, si decides visitar la versión HTTP del sitio web, no debieras ingresar ninguna información confidencial como contraseñas, correos electrónicos o detalles de tarjetas de crédito.
 about-httpsonly-button-make-exception = Aceptar el riesgo y continuar al sitio
+about-httpsonly-title = { -brand-short-name } detectó un potencial problema de seguridad
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable = Estás navegando en el modo solo HTTPS, y una versión HTTPS segura de <em>{ $websiteUrl }</em> no está disponible.
 about-httpsonly-explanation-question = ¿Qué podría estar causando esto?
+about-httpsonly-explanation-nosupport = Lo más probable es que el sitio web simplemente no sea compatible con HTTPS.
+about-httpsonly-explanation-risk = También es posible que un atacante esté involucrado. Si decides visitar el sitio web, no debes ingresar información confidencial como contraseñas, correos o detalles de tarjetas de crédito.
 about-httpsonly-button-accept-and-continue = Aceptar el riesgo y continuar
 about-httpsonly-button-go-back = Retroceder
