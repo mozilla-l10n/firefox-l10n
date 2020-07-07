@@ -121,6 +121,7 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Pengodean Teks
+text-encoding-description = Atur penyandian teks asal untuk mengirim dan menerima surel
 font-outgoing-email-label =
     .value = Email Keluar:
     .accesskey = u
