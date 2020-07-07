@@ -101,6 +101,8 @@ master-password-os-auth-dialog-message-win = Untuk membuat Sandi Utama, masukkan
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = membuat Sandi Utama
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
@@ -119,6 +121,12 @@ restore-default-label =
     .label = Kembalikan Nilai Default
     .accesskey = K
 default-search-engine = Mesin Pencari Baku
+add-search-engine =
+    .label = Tambahkan dari file
+    .accesskey = A
+remove-search-engine =
+    .label = Hapus
+    .accesskey = v
 new-message-arrival = Saat pesan baru datang:
 mail-play-button =
     .label = Mainkan
