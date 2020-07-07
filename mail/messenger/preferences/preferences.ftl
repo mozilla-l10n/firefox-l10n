@@ -518,6 +518,11 @@ keep-ask =
 cookies-button =
     .label = Tampilkan Kuki…
     .accesskey = S
+do-not-track-label =
+    .label = Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak
+    .accesskey = n
+learn-button =
+    .label = Pelajari lebih lanjut
 passwords-description = { -brand-short-name } dapat menyimpan informasi sandi untuk semua akun Anda sehingga Anda tidak perlu mengetikkan ulang informasi log-masuk Anda berkali-kali.
 passwords-button =
     .label = Sandi Tersimpan…
@@ -563,6 +568,18 @@ certificate-description = Ketika server meminta sertifikat pribadi saya:
 certificate-auto =
     .label = Pilih satu secara otomatis
     .accesskey = P
+certificate-ask =
+    .label = Tanyakan setiap saat
+    .accesskey = A
+ocsp-label =
+    .label = Kueri server penjawab OCSP untuk mengonfirmasikan validitas sertifikat
+    .accesskey = Q
+certificate-button =
+    .label = Kelola Sertifikat...
+    .accesskey = M
+security-devices-button =
+    .label = Peranti Keamanan…
+    .accesskey = D
 
 ## Chat Tab
 
@@ -593,23 +610,89 @@ away-message-label =
 send-typing-label =
     .label = Kirimkan pemberitahuan sedang mengetik dalam percakapan
     .accesskey = t
+notification-label = Ketika pesan yang diarahkan pada Anda tiba:
+show-notification-label =
+    .label = Tampilkan notifikasi:
+    .accesskey = c
+notification-all =
+    .label = dengan pratinjau nama dan pesan pengirim
+notification-name =
+    .label = hanya dengan nama pengirim
+notification-empty =
+    .label = tanpa informasi apa pun
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animasikan ikon dok
+           *[other] Jalankan item bilah tugas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
+chat-play-sound-label =
+    .label = Mainkan sebuah suara
+    .accesskey = d
 chat-play-button =
     .label = Mainkan
     .accesskey = M
+chat-system-sound-label =
+    .label = Suara tetap dari sistem untuk surel baru
+    .accesskey = D
 chat-custom-sound-label =
     .label = Gunakan berkas suara berikut
     .accesskey = u
+chat-browse-sound-button =
+    .label = Telusuri…
+    .accesskey = B
+theme-label =
+    .value = Tema:
+    .accesskey = T
 style-thunderbird =
     .label = Thunderbird
+style-bubbles =
+    .label = Gelembung
 style-dark =
     .label = Gelap
+style-paper =
+    .label = Lembar Kertas
 style-simple =
     .label = Sederhana
 preview-label = Pratinjau:
 no-preview-label = Pratinjau tidak tersedia
+no-preview-description = Tema ini tidak valid atau saat ini tidak tersedia (pengaya dinonaktifkan, mode aman, ...).
+chat-variant-label =
+    .value = Varian:
+    .accesskey = V
+chat-header-label =
+    .label = Tampilkan Tajuk
+    .accesskey = H
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Temukan di Opsi
+           *[other] Temukan di Preferensi
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Hasil Pencarian
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
+       *[other] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
+    }
 search-results-help-link = Perlu bantuan? Kunjungi <a data-l10n-name="url"> { -brand-short-name } Dukungan</a>
 
 ## Preferences UI Search Results
