@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Ochrana súkromia
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Prejsť na prehľad ochrany súkromia
+appmenuitem-update-banner =
+    .label-update-downloading = Preberá sa aktualizácia aplikácie { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Nástenka ochrany súkromia
 appmenuitem-customize-mode =
     .label = Prispôsobiť…

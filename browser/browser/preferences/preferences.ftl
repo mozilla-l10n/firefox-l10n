@@ -50,6 +50,11 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Experimenty aplikácie { -brand-short-name }
+category-experimental =
+    .tooltiptext = Experimenty aplikácie { -brand-short-name }
+pane-experimental-subtitle = Buďte obozretní
+pane-experimental-description = Zmeny v pokročilej konfigurácii môžu ovplyvniť výkon a bezpečnosť aplikácie { -brand-short-name }.
 help-button-label = Podpora aplikácie { -brand-short-name }
 addons-button-label = Rozšírenia a témy vzhľadu
 focus-search =
@@ -491,7 +496,6 @@ home-prefs-topsites-description = Najnavštevovanejšie stránky
 
 home-prefs-recommended-by-header =
     .label = Odporúča { $provider }
-home-prefs-recommended-by-description = Skvelý obsah z celého webu, vybraný špeciálne pre vás
 
 ##
 
@@ -555,7 +559,7 @@ search-show-suggestions-above-history-option =
     .label = Zobrazovať návrhy vyhľadávania v paneli s adresou pred históriou prehliadania
 search-show-suggestions-private-windows =
     .label = Zobrazovať návrhy vyhľadávania v súkromnom prehliadaní
-suggestions-addressbar-settings = Zmeniť nastavenia návrhov vyhľadávania z histórie prehliadania, záložiek a kariet
+suggestions-addressbar-settings-generic = Zmeniť nastavenia návrhov v paneli s adresou
 search-suggestions-cant-show = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name } nastavili tak, aby si nepamätal históriu.
 search-one-click-header = Vyhľadávacie moduly na jedno kliknutie
 search-one-click-desc = Vyberte ďalšie vyhľadávacie moduly, ktoré sa zobrazia v ponuke panela s adresou a vyhľadávacieho panela.
