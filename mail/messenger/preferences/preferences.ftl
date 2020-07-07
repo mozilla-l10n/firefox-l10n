@@ -53,6 +53,9 @@ collection-health-report-link = Pelajari lebih lanjut
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi jasad ini
+collection-backlogged-crash-reports =
+    .label = Izinkan { -brand-short-name } mengirim setumpuk laporan kerusakan atas nama Anda
+    .accesskey = c
 collection-backlogged-crash-reports-link = Pelajari lebih lanjut
 privacy-security-header = Keamanan
 privacy-scam-detection-title = Deteksi Penipuan
@@ -63,8 +66,24 @@ chat-status-title = Status
 chat-notifications-title = Notifikasi
 chat-pane-styling-header = Penentuan Gaya
 choose-messenger-language-description = Pilih bahasa tampilan menu, pesan, dan notifikasi dari { -brand-short-name }.
+manage-messenger-languages-button =
+    .label = Tetapkan Alternatif...
+    .accesskey = l
+confirm-messenger-language-change-description = Mulai ulang { -brand-short-name } untuk menerapkan perubahan
 confirm-messenger-language-change-button = Terapkan dan Mulai Ulang
 update-pref-write-failure-title = Kegagalan Penulisan
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Gagal menyimpan preferensi. Tidak dapat menulis ke file: { $path }
+update-setting-write-failure-title = Gagal menyimpan preferensi Pemutakhiran
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } mengalami kesalahan dan tidak menyimpan perubahan ini. Perhatikan bahwa pengaturan preferensi pembaruan ini memerlukan izin untuk menulis ke file di bawah ini. Anda atau administrator sistem mungkin dapat menyelesaikan kesalahan dengan memberikan kontrol penuh pada grup Pengguna atas file ini.
+    
+    Tidak dapat menulis ke file: { $path }
 update-in-progress-title = Sedang Memperbarui
 update-in-progress-message = Apakah Anda ingin { -brand-short-name } melanjutkan pembaruan ini?
 update-in-progress-ok-button = &Hapus Perubahan
@@ -75,6 +94,8 @@ addons-button = Ekstensi & Tema
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Untuk membuat Sandi Utama, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 
 ## General Tab
 
