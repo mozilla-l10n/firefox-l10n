@@ -117,6 +117,6 @@
 <!ENTITY insecureServer.tooltip.title    "Peringatan! Server ini tidak aman.">
 <!ENTITY insecureServer.tooltip.details  "Klik pada lingkaran untuk detail lebih lanjut.">
 
-<!ENTITY insecureUnencrypted.description "Surel dan otentikasi Anda akan dikirim tanpa enkripsi sehingga sandi (dan pesan Anda) dapat dibaca pihak lain dengan mudah.&brandShortName; akan tetap mengambil email Anda, tetapi sebaiknya Anda memberitahukan penyedia layanan surel Anda untuk mengkonfigurasi servernya dengan menggunakan sambungan yang aman.">
+<!ENTITY insecureUnencrypted.description "Surel dan otentikasi Anda akan dikirim tanpa enkripsi sehingga sandi (dan pesan Anda) dapat dibaca pihak lain dengan mudah. &brandShortName; akan tetap mengambil email Anda, tetapi sebaiknya Anda memberitahukan penyedia layanan surel Anda untuk mengkonfigurasi servernya agar dapat menggunakan sambungan yang aman.">
 <!ENTITY insecureSelfSigned.description  "Server menggunakan sertifikat yang tidak dapat dipercaya, sehingga tidak dapat dipastikan adanya pihak yang mencuri dengan trafik data antara &brandShortName; dan server Anda. &brandShortName;  akan tetap mengambil email Anda, tetapi sebaiknya Anda memberitahukan penyedia layanan email Anda untuk mengkonfigurasi servernya dengan menggunakan sertifikat yang dapat dipercaya.">
 <!ENTITY secureServer.description        "Selamat! Server ini aman.">
