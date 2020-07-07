@@ -50,6 +50,9 @@ collection-health-report =
     .label = Izinkan { -brand-short-name } mengirim data teknis dan interaksi ke { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Pelajari lebih lanjut
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi jasad ini
 collection-backlogged-crash-reports-link = Pelajari lebih lanjut
 privacy-security-header = Keamanan
 privacy-scam-detection-title = Deteksi Penipuan
