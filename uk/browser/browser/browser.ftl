@@ -286,7 +286,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Щоб використовувати F12, спочатку відкрийте DevTools через меню веб-розробки.
+enable-devtools-popup-description = Щоб використовувати F12, спочатку відкрийте DevTools через меню Веб розробка.
 
 ## URL Bar
 
