@@ -4,9 +4,16 @@
 
 offline-dialog-window =
     .title = Pengaturan Luring
+autodetect-online-label =
+    .label = Secara otomatis mengikuti keadaan daring yang terdeteksi
+    .accesskey = d
+startup-label = Status manual saat memulai:
 status-radio-remember =
     .label = Ingat Status Mode Daring Sebelumnya
     .accesskey = I
+status-radio-ask =
+    .label = Tanya saya untuk keadaan daring
+    .accesskey = k
 status-radio-always-online =
     .label = Selalu mulai dalam mode daring
     .accesskey = l

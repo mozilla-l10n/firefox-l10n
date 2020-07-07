@@ -128,3 +128,6 @@ font-outgoing-email-label =
 font-incoming-email-label =
     .value = Email Masuk:
     .accesskey = i
+default-font-reply-checkbox =
+    .label = Jika memungkinkan, gunakan pengodean teks asal di balasan
+    .accesskey = h
