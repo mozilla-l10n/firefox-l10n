@@ -34,5 +34,7 @@ override-color-label =
     .accesskey = O
 override-color-always =
     .label = Selalu
+override-color-auto =
+    .label = Hanya dengan tema Kontras Tinggi
 override-color-never =
     .label = Jangan Pernah
