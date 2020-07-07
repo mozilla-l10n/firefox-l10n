@@ -25,6 +25,9 @@ fxaccounts-avatar-button =
 
 menu =
     .title = பட்டியைத் திற
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = மற்றொரு உலாவியிலிருந்து இறக்குமதி செய்க…
+about-logins-menu-menuitem-export-logins = உள்நுழைவுகளை ஏற்றுமதிச்செய் …
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] விருப்பங்கள்
@@ -45,6 +48,8 @@ login-list-count =
     }
 login-list-sort-label-text = வரிசைப்படுத்து:
 login-list-name-option = பெயர் (அ-ஃ)
+login-list-name-reverse-option = பெயர் (ஃ-அ)
+about-logins-login-list-alerts-option = விழிப்பூட்டல்
 login-list-last-changed-option = கடைசியாக மாற்ற‌ப்பட்டது:
 login-list-last-used-option = இறுதியாக பயன்படுத்தியது
 login-list-intro-title = உள்நுழைவுகள் ஏதுமில்லை
@@ -106,26 +111,45 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } விருப்பங்களைப் பார்
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = மீண்டும் கேட்காதே
+    .accesskey = D
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = இரத்து
 confirmation-dialog-dismiss-button =
     .title = இரத்து
+about-logins-confirm-remove-dialog-title = இந்த உள்நுழைவை நீக்கவா?
 confirm-delete-dialog-message = இச்செயலை மீட்க முடியாது.
+about-logins-confirm-remove-dialog-confirm-button = நீக்கு
+about-logins-confirm-export-dialog-title = உள்நுழைவுகளையும் கடவுச்சொற்களையும் ஏற்றுமதி செய்
+about-logins-confirm-export-dialog-confirm-button = ஏற்றுமதி...
 confirm-discard-changes-dialog-title = சேமிக்காத மாற்றங்களை நிராகரிக்கவா?
 confirm-discard-changes-dialog-message = சேமிக்கப்படாத அனைத்து மாற்றங்களும் இழக்கப்படும்.
 confirm-discard-changes-dialog-confirm-button = நிராகரி
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = வலைத்தள அத்மீறல்
 breach-alert-text = உங்கள் உள்நுழைவு விவரங்களைக் கடைசியாகப் புதுப்பித்ததிலிருந்து இந்த வலைத்தளத்திலிருந்து கடவுச்சொற்கள் கசிந்தன அல்லது திருடப்பட்டன. உங்கள் கணக்கைப் பாதுகாக்க கடவுச்சொல்லை மாற்றவும்.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } தளத்திற்குச் செல்க
+about-logins-breach-alert-learn-more-link = மேலும் அறிக
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = பாதிப்பிற்குள்ளாகும் கடவுச்சொல்
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $name } தளத்திற்குச் செல்க
+about-logins-vulnerable-alert-learn-more-link = மேலும் அறிக
 
 ## Error Messages
 
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = உள்நுழைவுகளுள்ள கோப்பை ஏற்றுமதிச் செய்
