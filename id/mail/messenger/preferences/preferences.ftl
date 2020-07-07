@@ -11,15 +11,21 @@ preferences-title =
            *[other] Pengaturan
         }
 pane-general-title = Umum
+category-general =
+    .tooltiptext = { pane-general-title }
 pane-compose-title = Penyusunan
 category-compose =
     .tooltiptext = Penyusunan
+pane-privacy-title = Privasi & Keamanan
+category-privacy =
+    .tooltiptext = Privasi & Keamanan
 pane-chat-title = Ngobrol
 category-chat =
     .tooltiptext = Ngobrol
 pane-calendar-title = Kalender
 category-calendar =
     .tooltiptext = Kalender
+general-language-and-appearance-header = Bahasa & Tampilan
 general-tags-header = Tag
 general-reading-and-display-header = Membaca & Tampilan
 general-updates-header = Pemutakhiran
@@ -430,6 +436,7 @@ no-preview-label = Pratinjau tidak tersedia
 
 ## Preferences UI Search Results
 
+search-results-help-link = Perlu bantuan? Kunjungi <a data-l10n-name="url"> { -brand-short-name } Dukungan</a>
 
 ## Preferences UI Search Results
 
