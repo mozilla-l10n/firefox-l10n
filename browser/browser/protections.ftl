@@ -88,7 +88,9 @@ monitor-sign-up-link = Subscriviu-vos per rebre alertes de filtracions
     .title = Subscriviu-vos per rebre alertes de filtracions en el { -monitor-brand-name }
 auto-scan = S'ha comprovat avui automàticament
 monitor-emails-tooltip =
-    .title = Vegeu les adreces electròniques supervisades en el { -monitor-brand-short-name }
+    .title = Mostra les adreces electròniques supervisades en el { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Mostra les filtracions de dades conegudes en el { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -132,7 +134,7 @@ info-exposed-passwords-resolved =
 monitor-no-breaches-title = Bones notícies!
 monitor-no-breaches-description = No apareixeu en cap filtració coneguda. Si això canvia, us avisarem.
 monitor-view-report-link = Vegeu l'informe
-    .title = Resoleu les filtracions amb el { -monitor-brand-short-name }
+    .title = Resol les filtracions amb el { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Resoleu les filtracions
 monitor-breaches-unresolved-description = Després de revisar els detalls de la filtració i haver adoptat mesures per protegir la vostra informació, podeu marcar les filtracions com a resoltes.
 monitor-manage-breaches-link = Gestiona les filtracions
@@ -142,8 +144,8 @@ monitor-partial-breaches-motivation-title-start = Bon començament!
 monitor-partial-breaches-motivation-title-middle = Seguiu així!
 monitor-partial-breaches-motivation-title-end = Gairebé heu acabat! Seguiu així.
 monitor-partial-breaches-motivation-description = Resoleu la resta de les filtracions en el { -monitor-brand-short-name }.
-monitor-resolve-breaches-link = Resoleu les filtracions
-    .title = Resoleu les filtracions amb el { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Resol les filtracions
+    .title = Resol les filtracions amb el { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
