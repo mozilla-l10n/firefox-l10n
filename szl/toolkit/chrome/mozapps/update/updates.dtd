@@ -7,9 +7,27 @@
 <!ENTITY  updateCheck.label               "Szukanie za nowszymi wersyjami aplikacyje &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Żodne aktualizacyje niy sōm znodniynte">
+<!ENTITY  noupdatesautoenabled.intro      "Niy ma żodnych dostympnych aktualizacyji. &brandShortName; bydzie
+roz za kedy szukoł za aktualizacyjami.">
+<!ENTITY  noupdatesautodisabled.intro     "Niy ma żodnych dostympnych aktualizacyji. Niyskorzij badnij za nimi, abo załōncz
+                                           autōmatyczne badanie za aktualizacyjami aplikacyje &brandShortName;.">
 
+<!ENTITY  manualUpdate.title              "Niy idzie zaktualizować">
+<!ENTITY  manualUpdate.desc               "Dostympno je doradzano aktualizacyjo bezpieczyństwa i sztabilności, ale niy mosz
+systymowych praw, coby jōm zainstalować. Dej znać administratorowi
+swojigo systymu, abo sprōbuj zaś z kōnta, co mo zgoda instalować
+software na tym kōmputrze.">
+<!ENTITY  manualUpdate.space.desc         "Dostympno je doradzano aktualizacyjo bezpieczyństwa i sztabilności, ale niy mosz
+za tela placu, coby jōm zainstalować.">
+<!ENTITY  manualUpdateGetMsg.label        "Zawdy możesz pobrać nojnowszo wersyjo aplikacyje &brandShortName; na:">
 
+<!ENTITY  unsupported.title               "Systym niy ma ôbsugowany">
+<!ENTITY  unsupported.label               "Twōj &brandShortName; je przedowniōny, ale nojnowszo werysjo niy ma
+ôbsugowano na twojim systymie. Zaktualizuj swōj systym, a potym sprōbuj zaś.
+Te powiadōmiynie już ci sie niy pokoże, ale możesz">
+<!ENTITY  unsupportedLink.label           "przewiedzieć sie wiyncyj.">
 
+<!ENTITY  clickHere.label                 "Pokoż wiyncyj informacyji ô tyj aktualizacyji">
 
 
 
