@@ -62,5 +62,5 @@ set-password-reminder = Mba’eguasúva: nderesaráiramo ñe’ẽñemi pytyvõr
 
 protected-auth-window =
     .title = Jehechaukaha omo'ãva token
-protected-auth-msg = Ejehechaukáke pe token ndive. Pe jehechauka ra'ãha oñondive pe token mba'echaguaitépa.
+protected-auth-msg = Ejehechaukáke pe token ndive. Pe jehechauka ra’ãha oñondive pe token mba’echaguaitépa.
 protected-auth-token = Hecharãnte:

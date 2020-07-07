@@ -46,5 +46,5 @@
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Jehechaukaha omo'ãva token">
-<!ENTITY protectedAuth.msg "Ejehechaukáke pe token ndive. Pe jehechauka ra'ãha oñondive pe token mba'echaguaitépa.">
+<!ENTITY protectedAuth.msg "Ejehechaukáke pe token ndive. Pe jehechauka ra’ãha oñondive pe token mba’echaguaitépa.">
 <!ENTITY protectedAuth.tokenName.label "Hecharãnte:">
