@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Інструменти розробника Firefox можуть зневаджувати віддалені пристрої (Firefox для Android і Firefox OS, наприклад). Переконайтесь, що ви ввімкнули параметр «Віддалене зневадження» на віддаленому пристрої. Детальніше описано в">
+<!ENTITY remoteHelp "Інструменти розробника Firefox можуть зневаджувати віддалені пристрої (наприклад, Firefox для Android і Firefox OS). Переконайтеся, що ви увімкнули параметр ‘Віддалене зневадження’ на віддаленому пристрої. Докладніше описано в">
 <!ENTITY remoteDocumentation "документації">
 <!ENTITY remoteHelpSuffix ".">
 
