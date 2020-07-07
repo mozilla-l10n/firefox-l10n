@@ -127,16 +127,37 @@ add-search-engine =
 remove-search-engine =
     .label = Hapus
     .accesskey = v
+minimize-to-tray-label =
+    .label = Saat { -brand-short-name } diminimalkan, pindahkan ke baki
+    .accesskey = m
 new-message-arrival = Saat pesan baru datang:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Mainkan suara berikut ini:
+           *[other] Mainkan sebuah suara
+        }
+    .accesskey = d
 mail-play-button =
     .label = Mainkan
     .accesskey = M
+change-dock-icon = Ubah preferensi untuk ikon aplikasi
+app-icon-options =
+    .label = Opsi Ikon Aplikasi...
+    .accesskey = n
+notification-settings = Lansiran dan suara asal dapat dinonaktifkan pada panel Notifikasi di Preferensi Sistem.
 animated-alert-label =
     .label = Tampilkan peringatan
     .accesskey = g
 customize-alert-label =
     .label = Pengaturan…
     .accesskey = P
+tray-icon-label =
+    .label = Tampilkan ikon baki
+    .accesskey = t
+mail-system-sound-label =
+    .label = Suara default dari sistem untuk surel baru
+    .accesskey = d
 mail-custom-sound-label =
     .label = Gunakan berkas suara berikut
     .accesskey = u
@@ -148,10 +169,30 @@ enable-gloda-search-label =
     .accesskey = i
 datetime-formatting-legend = Format Waktu dan Tanggal
 language-selector-legend = Bahasa
+allow-hw-accel =
+    .label = Gunakan akselerasi perangkat keras jika tersedia
+    .accesskey = h
+store-type-label =
+    .value = Jenis Penyimpanan Pesan untuk akun baru:
+    .accesskey = T
+mbox-store-label =
+    .label = Berkas per folder (mbox)
+maildir-store-label =
+    .label = File per pesan (maildir)
+scrolling-legend = Pengguliran
+autoscroll-label =
+    .label = Gunakan pengguliran otomatis
+    .accesskey = U
+smooth-scrolling-label =
+    .label = Gunakan pengguliran mulus
+    .accesskey = m
 system-integration-legend = Integrasi dengan Sistem
 always-check-default =
     .label = Periksa apakah { -brand-short-name } adalah pembaca email default ketika memulai
     .accesskey = l
+check-default-button =
+    .label = Periksa Sekarang…
+    .accesskey = N
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 search-engine-name =
@@ -174,6 +215,20 @@ update-app-legend = Pemutakhiran { -brand-short-name }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Versi { $version }
+allow-description = Izinkan { -brand-short-name } untuk
+automatic-updates-label =
+    .label = Otomatis pasang pemutakhiran (disarankan: untuk keamanan lebih baik)
+    .accesskey = A
+check-updates-label =
+    .label = Periksa pemutakhiran, tapi biarkan saya memilih untuk memasang atau tidak
+    .accesskey = C
+update-history-button =
+    .label = Tampilkan Riwayat Pemutakhiran
+    .accesskey = p
+use-service =
+    .label = Gunakan layanan latar belakang untuk memasang pemutakhiran
+    .accesskey = b
+cross-user-udpate-warning = Pengaturan ini akan berlaku untuk semua akun Windows dan profil { -brand-short-name } yang menggunakan pemasangan { -brand-short-name } ini.
 networking-legend = Sambungan
 proxy-config-description = Atur cara { -brand-short-name } tersambung ke Internet
 network-settings-button =
@@ -185,6 +240,11 @@ offline-settings-button =
     .label = Luring…
     .accesskey = L
 diskspace-legend = Ruang Disk
+offline-compact-folder =
+    .label = Padatkan semua folder saat akan disimpan
+    .accesskey = a
+compact-folder-size =
+    .value = Total MB
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
@@ -197,9 +257,13 @@ use-cache-after = MB
 
 ##
 
+smart-cache-label =
+    .label = Gunakan pengaturan tembolok manual
+    .accesskey = v
 clear-cache-button =
     .label = Bersihkan Sekarang
     .accesskey = g
+fonts-legend = Huruf & Warna
 default-font-label =
     .value = Huruf default:
     .accesskey = d
@@ -208,6 +272,9 @@ default-size-label =
     .accesskey = U
 font-options-button =
     .label = Canggih…
+    .accesskey = C
+color-options-button =
+    .label = Warna…
     .accesskey = C
 display-width-legend = Pesan Teks Polos
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
@@ -235,6 +302,9 @@ bigger-size-item =
     .label = Lebih Besar
 smaller-size-item =
     .label = Lebih kecil
+quoted-text-color =
+    .label = Warna:
+    .accesskey = o
 search-input =
     .placeholder = Cari
 type-column-label =
@@ -261,6 +331,12 @@ always-ask-label =
     .label = Tanyakan selalu tempat menyimpan berkas
     .accesskey = T
 display-tags-text = Tag dapat digunakan untuk mengelompokkan dan memprioritaskan pesan.
+new-tag-button =
+    .label = Baru…
+    .accesskey = N
+edit-tag-button =
+    .label = Sunting…
+    .accesskey = E
 delete-tag-button =
     .label = Hapus
     .accesskey = H
@@ -295,6 +371,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Tutup jendela/tab pesan saat memindahkan atau menghapus
     .accesskey = T
+display-name-label =
+    .value = Nama tampilan:
 condensed-addresses-label =
     .label = Hanya tampilkan nama tampilan untuk orang yang ada pada buku alamat saya.
     .accesskey = p
