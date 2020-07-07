@@ -35,7 +35,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "m">
 <!ENTITY cmd.removeFromHistory.label      "Emboguete tembiasakuégui ">
 <!ENTITY cmd.removeFromHistory.accesskey  "m">
-<!ENTITY cmd.clearList2.label             "Embogue jeike hague ra'ãngarupa">
+<!ENTITY cmd.clearList2.label             "Embogue jeike hague ra’ãngarupa">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Mboguejypyre mopotĩ">
 <!ENTITY cmd.clearDownloads.accesskey     "M">

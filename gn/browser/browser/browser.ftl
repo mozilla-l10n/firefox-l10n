@@ -52,7 +52,7 @@ urlbar-identity-button =
 ## Tooltips for images appearing in the address bar
 
 urlbar-services-notification-anchor =
-    .tooltiptext = Eike ñe’ẽmondo ñemohenda ra'ãngarupápe
+    .tooltiptext = Eike ñe’ẽmondo ñemohenda ra’ãngarupápe
 urlbar-web-notification-anchor =
     .tooltiptext = Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.
 urlbar-midi-notification-anchor =
@@ -231,7 +231,7 @@ identity-description-weak-cipher-intro = Nde jeike ko ñanduti rendápe oipuru �
 identity-description-weak-cipher-risk = Ambue tapichakuéra ikatu ohecha nemarandu térã omoambue ñanduti kuatiarogue reko.
 identity-description-active-blocked = { -brand-short-name } ojokóma ko kuatiarogue pehẽ ijerovia’ỹha. <label data-l10n-name="link">Kuaave</label>
 identity-description-passive-loaded = Nde jeike naiñemíri ha nemarandu remoingéva ko tendápe ikatu ohecha ambue tapicha.
-identity-description-passive-loaded-insecure = Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (mba’era'ãngáramo). <label data-l10n-name="link">Kuaave</label>
+identity-description-passive-loaded-insecure = Ñanduti renda oguereko hetepy ndaijeroviapáiva (mba’era’ãngáramo). <label data-l10n-name="link">Kuaave</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } ojokóramo jepe heta retepy, oĩ gueteri tetepy kuatiaroguépe ndaijegueroviapáiva (mba’era’ãngáramo). <label data-l10n-name="link">Kuaave</label>
 identity-description-active-loaded = Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (guiõramo) ha nde jeike pype naiñemíri.
 identity-description-active-loaded-insecure = Marandu remondóva ko kuatiaroguépe ikatu ohecha ambue tapicha (ñe’ẽñemíramo, ñe’ẽmondo, kuatia’atã ñemurã ha ambue).

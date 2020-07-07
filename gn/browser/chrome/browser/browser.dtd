@@ -298,7 +298,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Techaukaha Rysýi">
 <!ENTITY bookmarksMenuButton.other.label    "Ambue Techaukahakuéra">
 <!ENTITY bookmarksMenuButton.mobile.label   "Pumbyry Rechaukaha">
-<!ENTITY viewBookmarksSidebar2.label        "Techaukaha ra'ãngarupa yke recha">
+<!ENTITY viewBookmarksSidebar2.label        "Techaukaha ra’ãngarupa yke recha">
 <!ENTITY hideBookmarksSidebar.label         "Eñomi Techaukaha Renda Yke">
 <!ENTITY viewBookmarksToolbar.label         "Techaukaha renda jehecha">
 <!ENTITY hideBookmarksToolbar.label         "Eñomi Techaukaha Rembipuru Renda">
@@ -653,7 +653,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Mba’epu ñongatu pyahu…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Mba’era'ãnga mondo…">
+<!ENTITY emailImageCmd.label          "Mba’era’ãnga mondo…">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Ta’ãngamýi mondo…">
 <!ENTITY emailVideoCmd.accesskey      "a">
