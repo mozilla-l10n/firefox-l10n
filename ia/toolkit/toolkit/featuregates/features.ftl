@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+experimental-features-css-masonry-description = Activa le assistentia al functionalitate de mappa Masonry CSS experimental. Vide le <a data-l10n-name="explainer">explainer</a> pro un alte nivello de description del functionalitate. Pro fornir commentarios, per favor commenta in <a data-l10n-name="w3c-issue">iste problema de GitHub</a> o <a data-l10n-name="error">iste error</a>
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
@@ -16,3 +17,8 @@ experimental-features-web-gpu-description = API experimental pro graphica e elab
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Supporto experimental pro AVIF, le formato de file imagine AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookie: SameSite=lax predefinite
+experimental-features-cookie-samesite-lax-by-default-description = Tractar cookies como “sameSite=lax” predefinite si nulle attributo “sameSite” es specificate. Le disveloppatores debe a eliger le actual stato quo de utilisation sin restrictiones per definir explicitemente “sameSite=none”.

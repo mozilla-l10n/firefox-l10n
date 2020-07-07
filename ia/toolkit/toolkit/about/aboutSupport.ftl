@@ -275,6 +275,9 @@ blocklisted-bug = Inserite in le lista del blocates per problemas note
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = error { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Inserite in lista del blocadas per note problemas: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Inserite in le lista del blocates: codice de error { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
