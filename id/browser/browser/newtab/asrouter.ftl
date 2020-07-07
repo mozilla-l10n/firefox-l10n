@@ -239,3 +239,12 @@ cfr-whatsnew-protections-icon-alt = Ikon perisai
 
 cfr-whatsnew-better-pdf-header = Pengalaman PDF yang lebih baik
 cfr-whatsnew-better-pdf-body = Dokumen PDF kini dapat dibuka langsung di { -brand-short-name }, membuat alur kerja Anda menjadi mudah.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Privasi Anda penting. { -brand-short-name } sekarang dengan aman merutekan permintaan DNS Anda bila memungkinkan ke layanan mitra untuk melindungi saat Anda menjelajah.
+cfr-doorhanger-doh-header = Pencarian DNS yang lebih aman dan terenkripsi
+cfr-doorhanger-doh-primary-button = Oke, Beres
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Nonaktifkan
+    .accesskey = D
