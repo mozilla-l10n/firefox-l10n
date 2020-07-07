@@ -17,3 +17,8 @@ experimental-features-web-gpu-description = API arbrofol ar gyfer graffeg a chyf
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Cefnogaeth arbrofol i AVIF: Fformat Ffeil Delwedd AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cwcis: SameSite = lax yn ragosodedig
+experimental-features-cookie-samesite-lax-by-default-description = Trin cwcis fel “sameSite = lax” yn ragosodedig os nad oes priodoledd “sameSite” wedi'i nodi. Rhaid i ddatblygwyr ddewis y cyflwr cyfredol o ddefnydd anghyfyngedig trwy ddewis yn benodol “sameSite = none”.
