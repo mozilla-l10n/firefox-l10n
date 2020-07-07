@@ -4,6 +4,9 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Աստ զգուշացարո՛ւք։
+about-config-warning-button = Ես ընդունիմ զվտանգ
+about-config-search-input =
+    .placeholder = Խնդրել
 
 ## These strings appear on the warning you see when first visiting about:config.
 
