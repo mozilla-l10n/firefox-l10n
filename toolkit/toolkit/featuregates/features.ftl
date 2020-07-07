@@ -20,5 +20,10 @@ experimental-features-avif-description = Cefnogaeth arbrofol i AVIF: Fformat Ffe
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-lax-by-default =
-    .label = Cwcis: SameSite = lax yn ragosodedig
+    .label = Cookies: SameSite=lax by default
 experimental-features-cookie-samesite-lax-by-default-description = Trin cwcis fel “sameSite = lax” yn ragosodedig os nad oes priodoledd “sameSite” wedi'i nodi. Rhaid i ddatblygwyr ddewis y cyflwr cyfredol o ddefnydd anghyfyngedig trwy ddewis yn benodol “sameSite = none”.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Cookies: SameSite=none requires secure attribute
+experimental-features-cookie-samesite-none-requires-secure-description = Mae cwcis â phriodoledd “sameSite=none” angen y briodoledd ddiogel. Mae'r nodwedd hon yn gofyn am “Cookies: SameSite=lax by default”.
