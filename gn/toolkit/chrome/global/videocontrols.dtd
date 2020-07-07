@@ -26,10 +26,10 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.activityEnded "Opámava">
 <!ENTITY stats.activitySeeking "(ohekahína)">
 <!ENTITY stats.volume "Mbopuha">
-<!ENTITY stats.framesParsed "Mba'era'ãnga oĩmbapyréva">
-<!ENTITY stats.framesDecoded "Mba'era'ãnga papapy'óva">
-<!ENTITY stats.framesPresented "Mba'era'ãnga jehechaukapyre">
-<!ENTITY stats.framesPainted "Mba'era'ãnga jehechaukapyréva">
+<!ENTITY stats.framesParsed "Mba’era’ãnga oĩmbapyréva">
+<!ENTITY stats.framesDecoded "Mba’era’ãnga papapy’óva">
+<!ENTITY stats.framesPresented "Mba’era’ãnga jehechaukapyre">
+<!ENTITY stats.framesPainted "Mba’era’ãnga jehechaukapyréva">
 
 <!ENTITY error.aborted "Ojejoko ta’ãngamýi ñemyenyhẽ.">
 <!ENTITY error.network "Ta’ãndamýi ñemboheta ojejokóma ñanduti jejavy rupi.">

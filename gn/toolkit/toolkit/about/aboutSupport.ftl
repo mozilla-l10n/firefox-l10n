@@ -230,7 +230,7 @@ blocked-mismatched-version = Ojoko ha'ãnga ñangarekoha peteĩchagua oĩporã'�
 try-newer-driver = Ojejokóva peteĩchagua ta’ãngápe ñangarekohárape. Eñeha’ã embohekopyahu ta’ãnga ñangarekohára { $driverVersion } ichaguáva térã ipyahuvéva.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
-clear-type-parameters = ClearType ra'ãhaite
+clear-type-parameters = ClearType ra’ãhaite
 compositing = Hetepyete
 hardware-h264 = Hardware H264 Papapy'o
 main-thread-no-omtc = inimbo ha'etéva, OMTC ỹre

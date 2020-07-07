@@ -33,9 +33,9 @@ bytes-received = Bytes japyhypyre
 logging = Hasapy
 log-tutorial = Eporandu <a data-l10n-name="logging">HTTP Logging</a> eikuaaséramo mba'éichapa eipurúta ko tembipuru.
 current-log-file = Marandurenda rembiasakue rehegua:
-current-log-modules = Jehaipy ra'ãha rehegua:
+current-log-modules = Jehaipy ra’ãha rehegua:
 set-log-file = Emopyenda marandurenda jehaipy
-set-log-modules = Emopyenda jehaipy ra'ãha
+set-log-modules = Emopyenda jehaipy ra’ãha
 start-logging = Ta’ãha moñepyrũ
 stop-logging = Ta’ãha jejoko
 dns-lookup = DNS jeheka
@@ -88,9 +88,9 @@ about-networking-bytes-received = Bytes japyhypyre
 about-networking-logging = Hasapy
 about-networking-log-tutorial = Eporandu <a data-l10n-name="logging">HTTP Logging</a> eikuaaséramo mba'éichapa eipurúta ko tembipuru.
 about-networking-current-log-file = Marandurenda rembiasakue rehegua:
-about-networking-current-log-modules = Jehaipy ra'ãha rehegua:
+about-networking-current-log-modules = Jehaipy ra’ãha rehegua:
 about-networking-set-log-file = Emopyenda marandurenda jehaipy
-about-networking-set-log-modules = Emopyenda jehaipy ra'ãha
+about-networking-set-log-modules = Emopyenda jehaipy ra’ãha
 about-networking-start-logging = Ta’ãha moñepyrũ
 about-networking-stop-logging = Ta’ãha jejoko
 about-networking-dns-lookup = DNS jeheka
