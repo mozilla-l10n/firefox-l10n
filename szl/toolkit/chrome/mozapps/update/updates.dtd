@@ -58,7 +58,18 @@ tyn link i pobieresz nojnowszo wersyjo:">
 Badnij, jeźli mosz nojnowszo wersyjo aplikacyje &brandShortName; ze:">
                                            
 <!ENTITY  finishedPage.title              "Aktualizacyjo je fertich, coby jōm instalować">
+<!ENTITY  finishedPage.text               "Aktualizacyjo bydzie instalowano przi nastympnym sztarcie aplikacyje &brandShortName;.
+                                           Możesz zaroz resztartnōnć aplikacyjo &brandShortName;, abo dalij robić i resztartnōnć niyskorzij.">
 
+<!ENTITY  finishedBackgroundPage.text     "Aktualizacyjo, co polepszo bezpieczyństwo i stabilność aplikacyje &brandShortName;
+je pobrano i fertich, coby jōm zainstalować.">
+<!ENTITY  finishedBackground.name         "Aktualizacyjo:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Aktualizacyjo bydzie instalowano przi nastympnym sztarcie aplikacyje &brandShortName;.
+                                           Możesz zaroz resztartnōnć aplikacyjo &brandShortName;, abo dalij robić i resztartnōnć niyskorzij.">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.moreElevated "Ta aktualizacyjo potrzebuje praw ôd administratora. Bydzie zainstalowano przi
+                                           nastympnym sztarcie aplikacyje &brandShortName;. Możesz jōm
+zaroz resztartnōnć, robić dalij i resztartnōnć niyskorzij, abo ôdciepać
+ta aktualizacyjo.">
 
