@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Yksityisyyden suojaukset
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Siirry yksityisyysraporttiin
+appmenuitem-update-banner =
+    .label-update-downloading = Ladataan { -brand-shorter-name }-päivitystä
 appmenuitem-protection-dashboard-title = Suojausten yhteenveto
 appmenuitem-customize-mode =
     .label = Muokkaa…
