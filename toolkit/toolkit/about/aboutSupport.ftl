@@ -14,7 +14,10 @@ extensions-name = Nama
 extensions-enabled = Aktif
 extensions-version = Versi
 extensions-id = ID
+support-addons-title = Pengaya
 support-addons-name = Nama
+support-addons-type = Tipe
+support-addons-enabled = Diaktifkan
 support-addons-version = Versi
 support-addons-id = ID
 security-software-title = Perangkat Lunak Keamanan
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Buka Folder
        *[other] Buka Direktori
     }
+experimental-features-title = Fitur Eksperimental
+experimental-features-name = Nama
+experimental-features-value = Nilai
 modified-key-prefs-title = Pengaturan Penting yang Diubah
 modified-prefs-name = Nama
 modified-prefs-value = Nilai
@@ -245,6 +251,9 @@ blocklisted-bug = Dicekal karena alasan yang diketahui
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Dicekal karena masalah yang diketahui: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Dicekal: kode kegagalan { $failureCode }
