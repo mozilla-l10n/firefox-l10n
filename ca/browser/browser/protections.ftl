@@ -91,6 +91,8 @@ monitor-emails-tooltip =
     .title = Mostra les adreces electròniques supervisades en el { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Mostra les filtracions de dades conegudes en el { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Mostra les contrasenyes exposades en el { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -140,6 +142,17 @@ monitor-breaches-unresolved-description = Després de revisar els detalls de la 
 monitor-manage-breaches-link = Gestiona les filtracions
     .title = Gestiona les filtracions en el { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Molt bé! Heu resolt totes les filtracions conegudes.
+monitor-breaches-resolved-description = Si la vostra adreça electrònica apareix en una filtració nova, us ho farem saber.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } de { $numBreaches } filtracions marcades com a resoltes
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% completat
 monitor-partial-breaches-motivation-title-start = Bon començament!
 monitor-partial-breaches-motivation-title-middle = Seguiu així!
 monitor-partial-breaches-motivation-title-end = Gairebé heu acabat! Seguiu així.
