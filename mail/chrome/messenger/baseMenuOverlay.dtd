@@ -17,7 +17,7 @@
 <!ENTITY helpSafeMode.accesskey "n">
 <!ENTITY helpSafeMode.stop.label     "Mulai Ulang dengan Pengaya Diaktifkan">
 <!ENTITY helpSafeMode.stop.accesskey "R">
-<!ENTITY productHelp.label "Bantuan &brandShorterName;">
+<!ENTITY productHelp.label "Bantuan &brandShortName;">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
