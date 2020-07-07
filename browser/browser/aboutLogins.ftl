@@ -53,6 +53,7 @@ about-logins-login-list-alerts-option = விழிப்பூட்டல்
 login-list-last-changed-option = கடைசியாக மாற்ற‌ப்பட்டது:
 login-list-last-used-option = இறுதியாக பயன்படுத்தியது
 login-list-intro-title = உள்நுழைவுகள் ஏதுமில்லை
+login-list-intro-description = கடவுச்சொல்லை { -brand-product-name } என்பதில் சேமிக்கும் பொருட்டு, இங்கே காட்டும்
 about-logins-login-list-empty-search-title = உள்நுழைவுகள் ஏதுமில்லை
 about-logins-login-list-empty-search-description = உங்கள் தேடலுடன் பொருந்தக்கூடிய முடிவுகள் எதுவும் இல்லை.
 login-list-item-title-new-login = புதிய உள்நுழைவு
@@ -153,3 +154,14 @@ about-logins-vulnerable-alert-learn-more-link = மேலும் அறிக
 
 # Title of the file picker dialog
 about-logins-export-file-picker-title = உள்நுழைவுகளுள்ள கோப்பை ஏற்றுமதிச் செய்
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = உ்ள்நுழைவுகள்.csv
+about-logins-export-file-picker-export-button = ஏற்றுமதி
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV ஆவணம்
+       *[other] CSV கோப்பு
+    }
