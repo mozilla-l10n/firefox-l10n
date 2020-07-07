@@ -333,7 +333,7 @@ shortcuts-card-expand-button =
         [one] Ehechave { $numberToShow }
        *[other] Ehechave { $numberToShow }
     }
-shortcuts-card-collapse-button = Ehechauka'ive
+shortcuts-card-collapse-button = Ehechauka’ive
 go-back-button =
     .tooltiptext = Guevijey
 header-back-button =
@@ -402,7 +402,7 @@ locale-enabled-heading = Myandypyre
 locale-disabled-heading = Ojepuruve'ỹva
 ask-to-activate-button = Eporandu emyandy hag̃ua
 always-activate-button = Emyandy tapia
-never-activate-button = Ani emyandy araka'eve
+never-activate-button = Ani emyandy araka’eve
 addon-detail-author-label = Apohára
 addon-detail-version-label = Peteĩchagua
 addon-detail-last-updated-label = Mbohekopyahu paha

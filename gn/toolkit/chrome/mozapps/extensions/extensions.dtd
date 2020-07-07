@@ -12,8 +12,8 @@
 <!ENTITY cmd.askToActivate.tooltip            "Eporandu eipurúta jave ko moĩmbaha">
 <!ENTITY cmd.alwaysActivate.label             "Emyendy tapia">
 <!ENTITY cmd.alwaysActivate.tooltip           "Eipuru tapiaite ko moĩmbaha">
-<!ENTITY cmd.neverActivate.label              "Ani emyandy araka'eve">
-<!ENTITY cmd.neverActivate.tooltip            "Aníke eipuru araka'eve ko moimbaha">
+<!ENTITY cmd.neverActivate.label              "Ani emyandy araka’eve">
+<!ENTITY cmd.neverActivate.tooltip            "Aníke eipuru araka’eve ko moĩmbaha">
 <!ENTITY cmd.stateMenu.tooltip                "Emoambue ojeipuru vove ko moimbaha">
 
 <!ENTITY cmd.uninstallAddon.label             "Mboguete">
@@ -69,4 +69,5 @@
 
 <!ENTITY settings.path.button.label           "Poravo…">
 
+<!-- addon actions -->
 <!ENTITY setting.learnmore "Kuaave…">

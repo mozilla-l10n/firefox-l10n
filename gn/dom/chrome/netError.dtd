@@ -61,7 +61,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Ko kundahára oñemboheko oipuru hag̃ua peteĩ mohendahavusu proxy, hákatu ndojejuhúi pe mohendahavusu proxy?</p><ul><li>Oĩporã proxy ñemboheko kundahára rehegua? Ehechajey pe ñemboheko ha eha'ãjey.</li><li>Pe mohendaha ojoajuhína peteĩ ñanduti oikóva rehe?</li><li>Oguereko gueteri apañuãi? Eporandu ne ñanduti ñangarekohára térã ñanduti me'ẽhára ndive pytyvõrã aporekoguáva.</li></ul>">
 
 <!ENTITY redirectLoop.title "Avakua jeguerahajey">
-<!ENTITY redirectLoop.longDesc "<p>Pe kundahára opytáma oguerujeysehápe pe mba’epuru jerurepyréva. Pe tenda oguerahajeýta nde jerurepyre peteĩ ysaja araka'eve noĩmbamo’ãiva rehegua.</p><ul><li>Eguerekópa mboguehápe térã jokohápe umi kookie oikotevẽ añetéva ko tenda.</li><li><em>NOTE</em>: Emboajérõ umi kookie tenda pegua nomyatyrõi apañuãi, ikatuhína apañuãi mohendahavusu ñemboheko ha ndaha’éi ne mohendaha rehegua.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Kundahára opytáma oguerujeysehápe mba’epuru jerurepyréva. Tenda oguerahajeýta nde jerurepyre ysaja araka’eve noĩmbamo’ãiva rehegua.</p><ul><li>Erekópa mboguehápe térã jokohápe kookie oikotevẽ añetéva ko tenda.</li><li><em>NOTE</em>: Emboajérõ kookie tenda pegua nomyatyrõi apañuãi, ikatu apañuãi mohendahavusu ñemboheko ha ndaha’éi ne mohendaha rehegua.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Ñembohovái vai">
 <!ENTITY unknownSocketType.longDesc "<p>Pe tenda ombohovái ñanduti mba’ejerure oñeha’ãrõ'ỹre ha pe kundahára ndaikatuvéima oku’ejey.</p>">
