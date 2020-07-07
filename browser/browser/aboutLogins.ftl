@@ -144,7 +144,7 @@ about-logins-breach-alert-learn-more-link = மேலும் அறிக
 about-logins-vulnerable-alert-title = பாதிப்பிற்குள்ளாகும் கடவுச்சொல்
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
-about-logins-vulnerable-alert-link = { $name } தளத்திற்குச் செல்க
+about-logins-vulnerable-alert-link = { $hostname } தளத்திற்குச் செல்க
 about-logins-vulnerable-alert-learn-more-link = மேலும் அறிக
 
 ## Error Messages
