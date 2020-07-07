@@ -108,7 +108,7 @@ options-enable-service-workers-http-label = Mba’epytyvõrã mba’apohára moh
 options-enable-service-workers-http-tooltip =
     .title = Emyandývo ko poravopyrã omoneĩta mba’apoharakuéra mba’epytyvõrãva HTTP rupi opavave tenda’ípe g̃uarã oguerekóva tembipuru ryru ijurujáva.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Embojuruja yvyra'ãnga ypýva
+options-source-maps-label = Embojuruja yvyra’ãnga ypýva
 options-source-maps-tooltip =
     .title = Embojurujáramo ko poravopyrã, teñoiha ijehecháta tembipurúpe.
 # The message shown for settings that trigger page reload

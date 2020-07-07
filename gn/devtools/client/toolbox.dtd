@@ -142,7 +142,7 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
-<!ENTITY options.sourceMaps.label      "Embojuruja yvyra'ãnga ypýva">
+<!ENTITY options.sourceMaps.label      "Embojuruja yvyra’ãnga ypýva">
 <!ENTITY options.sourceMaps.tooltip1   "Embojurujáramo ko poravopyrã, teñoiha ijehecháta tembipurúpe.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the

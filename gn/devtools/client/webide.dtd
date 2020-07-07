@@ -154,7 +154,7 @@
 <!ENTITY wifi_auth_no_scanner "Ndorekói QR resa’ỹijoha">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Erekópa moñondiveha QR ra'ãnga'i">
+<!ENTITY wifi_auth_yes_scanner "Erekópa moñondiveha QR ra’ãnga’i">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ambue mba’e’oka ojerurérõ peteĩ token omoha’ãngarãngue QR ayvu, emonguatiajey hepykue ambue mba’e’oka guy rupi:">
