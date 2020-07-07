@@ -39,4 +39,4 @@ compatibility-issue-occurrences =
     }
 compatibility-no-issues-found = Tidak ditemukan masalah kompatibilitas.
 compatibility-close-settings-button =
-    .title = Tutup pengaturan
+    .title = Pengaturan tertutup
