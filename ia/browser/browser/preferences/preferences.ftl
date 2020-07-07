@@ -54,6 +54,7 @@ pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
 pane-experimental-subtitle = Proceder con cautela
+pane-experimental-search-results-header = Experimentos { -brand-short-name }: continuar con attention
 pane-experimental-description = Cambiar le preferentias avantiate de configuration pote haber impacto sur le prestationes e le securitate de { -brand-short-name }.
 help-button-label = Assistentia de { -brand-short-name }
 addons-button-label = Extensiones e themas
@@ -504,7 +505,6 @@ home-prefs-topsites-description = Le sitos que tu visita le plus
 
 home-prefs-recommended-by-header =
     .label = Recommendate per { $provider }
-home-prefs-recommended-by-description = Grande contento ex tote le Web, personalisate pro te
 home-prefs-recommended-by-description-update = Contentos exceptional de tote le Web, curate per { $provider }
 
 ##
@@ -568,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Monstrar le suggestiones de recerca ante le chronologia de navigation in le resultatos del barra de adresse
 search-show-suggestions-private-windows =
     .label = Monstrar suggestiones de recerca in fenestras private
-suggestions-addressbar-settings = Cambiar preferentias pro suggestiones a base de chronologia, marcapaginas e schedas
 suggestions-addressbar-settings-generic = Cambiar preferentias pro altere suggestiones in le barra de adresse
 search-suggestions-cant-show = Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate { -brand-short-name } pro non memorisar jammais le chronologia.
 search-one-click-header = Motores de recerca a un sol clic
