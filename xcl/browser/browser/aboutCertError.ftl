@@ -5,7 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ի գործ ածէ զանվաւեր անվտանգութեան վկայագիր:
-cert-error-mitm-intro = Կայք հաստատեն զինքնութիւն իւրեանց ի ձեռն վկայագրաց, որք թողարկին ի հաւաստագրող ատենից։
+cert-error-mitm-intro = Կայք հաստատեն զինքնութիւն իւրեանց ի ձեռն վկայագրաց, որք սահմանին ի հաւաստագրող ատենից։
 
 ## Messages used for certificate error titles
 
