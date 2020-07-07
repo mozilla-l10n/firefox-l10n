@@ -4,6 +4,10 @@
 
 fonts-window-close =
     .key = w
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Baku ({ $name })
 fonts-label-default-unnamed =
     .label = Asali
 fonts-encoding-dialog-title =
