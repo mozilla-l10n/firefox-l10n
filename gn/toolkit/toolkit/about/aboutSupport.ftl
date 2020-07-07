@@ -43,7 +43,7 @@ app-basics-update-channel = Ñembohekopyahu mbohapeha
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Embohekopyahu Marandurenda'aty
+        [linux] Embohekopyahu Marandurenda’aty
        *[other] Ñembohekopyahu Ñongatuha
     }
 app-basics-update-history = Ñembohekopyahu rembiasakue
@@ -75,7 +75,7 @@ show-dir-label =
     { PLATFORM() ->
         [macos] Finder-pe jehechauka
         [windows] Ñongatuha ijurujáva
-       *[other] Marandurenda'atýpe jeike
+       *[other] Marandurenda’atýpe jeike
     }
 experimental-features-title = Tembiapoite oñeha’ãramóva
 experimental-features-name = Téra

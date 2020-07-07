@@ -17,14 +17,14 @@ profiles-flush-restart-button = Emoñepyrũjey { -brand-short-name }
 #   $name (String) - Name of the profile
 profiles-name = Mba'ete: { $name }
 profiles-is-default = Mba'ete Ijypykuéva
-profiles-rootdir = Tapo Marandurenda'aty
+profiles-rootdir = Tapo Marandurenda’aty
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
 # represent critical user data. (e.g., this directory may not be included as
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
-profiles-localdir = Marandurenda'aty Pypeguáva
+profiles-localdir = Marandurenda’aty pypeguáva
 profiles-current-profile = Kóvaniko peteĩ mba'ete ojepurúvahína ha upévare ndaikatumo'ãi oñemboguete.
 profiles-in-use-profile = Ko mba’ete ojepuruhína ambue tembipuru’ípe ha ndaikatúi oñembogue.
 profiles-rename = Ñemboherajey
@@ -58,5 +58,5 @@ profiles-opendir =
     { PLATFORM() ->
         [macos] Finder-pe Jehechauka
         [windows] Ñongatuha ijurujáva
-       *[other] Marandurenda'atýpe Jeike
+       *[other] Marandurenda’atýpe Jeike
     }
