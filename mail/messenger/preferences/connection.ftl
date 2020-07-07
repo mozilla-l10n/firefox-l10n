@@ -2,6 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-dns-over-https-url-resolver = Gunakan Penyedia
+    .accesskey = r
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Baku)
+    .tooltiptext = Gunakan URL baku untuk menetapkan DNS atas HTTPS
+connection-dns-over-https-url-custom =
+    .label = Ubahsuai
+    .accesskey = C
+    .tooltiptext = Masukkan URL pilihan Anda untuk menetapkan DNS atas HTTPS
+connection-dns-over-https-custom-label = Ubahsuai
+connection-dialog-window =
+    .title = Connection Settings
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Atur Proxy untuk Mengakses Internet
 proxy-type-no =
     .label = Tanpa proxy
@@ -21,6 +40,9 @@ proxy-http-label =
 http-port-label =
     .value = Port:
     .accesskey = P
+proxy-http-sharing =
+    .label = Juga gunakan proksi ini untuk HTTPS
+    .accesskey = x
 proxy-https-label =
     .value = HTTPS Proxy:
     .accesskey = S
@@ -49,3 +71,9 @@ no-proxy-label =
     .value = Tidak Perlu Proxy untuk:
     .accesskey = x
 no-proxy-example = Contoh: .mozilla.org, .net.id, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = Koneksi ke localhost, 127.0.0.1, dan ::1 tidak pernah diproksi.
+proxy-password-prompt =
+    .label = Jangan tanyakan otentikasi jika sandinya disimpan
+    .accesskey = i
+    .tooltiptext = Pilihan ini diam-diam mengotentikasi Anda ke proksi bila Anda sudah menyimpan kredensialnya. Anda akan diberi tahu jika otentikasi gagal.
