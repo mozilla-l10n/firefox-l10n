@@ -65,6 +65,8 @@ remove-all =
 remove-all-shown =
     .label = Hapus Semua Yang Muncul
     .accesskey = A
+remove-all-passwords-prompt = Yakin akan menghapus semua sandi?
+remove-all-passwords-title = Hapus seluruh sandi
 
 ## OS Authentication dialog
 
