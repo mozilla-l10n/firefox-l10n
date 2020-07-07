@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Perlindungan Privasi
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Buka laporan privasi Anda
+appmenuitem-update-banner =
+    .label-update-downloading = Mengunduh pembaruan { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Dasbor Perlindungan
 appmenuitem-customize-mode =
     .label = Ubahsuai…
