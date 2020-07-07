@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Веб-розробка">
+<!ENTITY webDeveloperMenu.label       "Веб розробка">
 <!ENTITY webDeveloperMenu.accesskey   "В">
 
 <!ENTITY inspectContextMenu.label     "Дослідити елемент">
