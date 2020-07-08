@@ -20,10 +20,10 @@ experimental-features-avif-description = Experimentellt stöd för AVIF: AV1 Bil
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-lax-by-default =
-    .label = Kakor: SameSite=lax som standard
+    .label = Cookies: SameSite=lax by default
 experimental-features-cookie-samesite-lax-by-default-description = Behandla kakor som "sameSite=lax" som standard om inget "sameSite"-attribut är specificerat. Utvecklare måste välja aktuell status för obegränsad användning genom att uttryckligen hävda “sameSite=none”.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
-    .label = Kakor: SameSite=none kräver säkert attribut
+    .label = Cookies: SameSite=none requires secure attribute
 experimental-features-cookie-samesite-none-requires-secure-description = Kakor med "sameSite=none"-attribut kräver det säkra attributet. Denna funktion kräver “Kakor: SameSite=lax som standard”.
