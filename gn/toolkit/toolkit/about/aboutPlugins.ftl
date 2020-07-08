@@ -25,8 +25,8 @@ version-dd = <span data-l10n-name="version">Apopy:</span> { $version }
 
 state-dd-enabled = <span data-l10n-name="state">Tekotee:</span> Ijurujámava
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Tekotee:</span> Ijurujámava ({ $blockListState })
-state-dd-Disabled = <span data-l10n-name="state">Tekotee:</span> Ojeiporuve'ỹva
-state-dd-Disabled-block-list-state = <span data-l10n-name="state">Tekotee:</span> Ojeiporuve'ỹva ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Tekotee:</span> Ojeiporuve’ỹva
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Tekotee:</span> Ojeiporuve’ỹva ({ $blockListState })
 mime-type-label = MIME peteĩchagua:
 description-label = Moha'ãnga
 suffixes-label = Ñe’ẽpehẽ mboyvegua
