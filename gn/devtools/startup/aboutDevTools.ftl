@@ -47,7 +47,7 @@ features-memory-desc = Ejuhu mandu’arenda kañymby ha eguerekóta tembipuru’
 # Variables:
 #   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
 newsletter-error-common = Ne mba’e jerure ojavy ({ $errorDescription }).
-newsletter-error-unknown = Oiko jejavy ñeha'arõ'ỹva
+newsletter-error-unknown = Oiko jejavy ñeha’arõ’ỹva
 newsletter-error-timeout = Opáma ndehegui aravo eñemboheraguapy hag̃ua.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
