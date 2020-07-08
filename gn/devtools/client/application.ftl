@@ -112,9 +112,9 @@ manifest-icon-img-title = Ta’ãngachu’i tuichakue ndive: { $sizes }
 # manifest, in case there's no icon size specified by the user
 manifest-icon-img-title-no-sizes = Ta’ãngachu’i tuichakue oje’e’ỹva
 # Sidebar navigation item for Manifest sidebar item section
-sidebar-item-manifest = Je'epyre
-    .alt = Je'epyre ra'ãnga
-    .title = Je'epyre
+sidebar-item-manifest = Je’epyre
+    .alt = Je’epyre ra’ãnga
+    .title = Je’epyre
 # Sidebar navigation item for Service Workers sidebar item section
 sidebar-item-service-workers = Mba’apohára mba’epytyvõrãguáva
     .alt = Mba’apohára mba’epytyvõrãguáva ra’ãnga

@@ -18,7 +18,7 @@ findbar-highlight-all2 =
             [macos] l
            *[other] a
         }
-    .tooltiptext = Ehachayka opaite je'pyre
+    .tooltiptext = Ehachayka opaite je’pyre
 findbar-case-sensitive =
     .label = Ejesareko tai tuicháva/michĩva rehe
     .accesskey = c

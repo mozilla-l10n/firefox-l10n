@@ -57,7 +57,6 @@ protections-panel-not-found-label = Ndaipóri juhupyre
 ##
 
 protections-panel-settings-label = Ñemo’ã ñemboheko
-protections-panel-showreport-label = Ehechauka marandu’i
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Ñemo’ãha rupa
 
@@ -70,7 +69,7 @@ protections-panel-site-not-working-view-header = Eipe’a umi ñemo’ãha nemoa
 protections-panel-site-not-working-view-issue-list-login-fields = Tembiapo ñepyrũ rekoha
 protections-panel-site-not-working-view-issue-list-forms = Myañyhẽha
 protections-panel-site-not-working-view-issue-list-payments = Jehepume’ẽ
-protections-panel-site-not-working-view-issue-list-comments = Je'erei
+protections-panel-site-not-working-view-issue-list-comments = Je’erei
 protections-panel-site-not-working-view-issue-list-videos = Ta’ãngamýi
 protections-panel-site-not-working-view-send-report = Emondo marandu’i
 

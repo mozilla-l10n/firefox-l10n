@@ -448,7 +448,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Emokañy tenda yke tendayke mbojuehepyrére">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Embojoaju Ambue Mba’e’oka">
 
-<!ENTITY appMenuRecentHighlights.label "Aje'i Ojehecharamoitéva">
+<!ENTITY appMenuRecentHighlights.label "Aje’i Ojehecharamoitéva">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tembipuru rendáre mbojoapy">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
