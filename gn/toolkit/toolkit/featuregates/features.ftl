@@ -24,3 +24,4 @@ experimental-features-cookie-samesite-lax-by-default =
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Kookie: SameSite=none oikotevẽ tekome’ẽ hekorosãva
+experimental-features-cookie-samesite-none-requires-secure-description = Umi kookie “sameSite=none” rekome’ẽ ndive oikotevẽ tekome’ẽ hekorosãva. Ko tembiapoite oikotevẽ “Kookie: SameSite = lax ijypyguáva”.
