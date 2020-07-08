@@ -6,7 +6,7 @@
 <!ENTITY  checking.title                  "새 업데이트 확인">
 <!ENTITY  updateCheck.label               "&brandShortName; 새 버전 찾기…">
 
-<!ENTITY  noupdatesfound.title            "새 업데이트 없음">
+<!ENTITY  noupdatesfound.title            "업데이트 없음">
 <!ENTITY  noupdatesautoenabled.intro      "현재 업데이트가 없습니다. &brandShortName;는 주기적으로 업데이트를 확인하고 있습니다.">
 <!ENTITY  noupdatesautodisabled.intro     "현재 업데이트가 없습니다. 다시 확인 하거나 &brandShortName;가 자동 업데이트 확인을 하도록 설정하세요.">
 
