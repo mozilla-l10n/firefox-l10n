@@ -12,7 +12,7 @@ about-httpsonly-button-make-exception = Ota riski ja jatka sivustolle
 about-httpsonly-title = { -brand-short-name } havaitsi mahdollisen tietoturvaongelman
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable = Selataan vain HTTPS -tilassa ja sivuston <em>{ $websiteUrl }</em> suojattu HTTPS-versio ei ole käytettävissä.
+about-httpsonly-explanation-unavailable = Selaaminen on vain HTTPS -tilassa ja sivuston <em>{ $websiteUrl }</em> suojattu HTTPS-versio ei ole käytettävissä.
 about-httpsonly-explanation-question = Mistä tämä johtuu?
 about-httpsonly-explanation-nosupport = Todennäköisesti sivusto ei tue HTTPS:ää.
 about-httpsonly-explanation-risk = On myös mahdollista, että takana on hyökkääjä. Jos päätät vierailla sivustolla, sivustolle ei pitäisi kirjoittaa arkaluonteisia tietoja, kuten salasanoja, sähköpostiosoitteita tai luottokorttitietoja.
