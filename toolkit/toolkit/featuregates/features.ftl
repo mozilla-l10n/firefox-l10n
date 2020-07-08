@@ -31,3 +31,9 @@ experimental-features-cookie-samesite-lax-by-default-description = Gestisci i co
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookie: Attributo secure obbligatorio per SameSite=none
 experimental-features-cookie-samesite-none-requires-secure-description = Rendi l’attributo “secure” obbligatorio per i cookie con “sameSite=none”. Per utilizzare questa funzione è necessario attivare la funzione “Cookie: SameSite=lax predefinito”.
+
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = Cache di avvio per about:home
+experimental-features-abouthome-startup-cache-description = Attiva cache per la pagina about:home che viene caricata automaticamente all’avvio del browser. Lo scopo di questa cache è migliorare le prestazioni di avvio.
