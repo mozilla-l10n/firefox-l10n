@@ -78,8 +78,7 @@ certificate-viewer-authority-info-aia = Podaci certifikacijskog tijela (AIA)
 certificate-viewer-certificate-policies = Pravila certifikata
 certificate-viewer-embedded-scts = Ugrađeni SCT-ovi
 certificate-viewer-crl-endpoints = Krajnje točke CRL-a
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Preuzmi
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -101,6 +100,8 @@ certificate-viewer-download-pem-chain = PEM (lanac)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Tvoji certifikati
 certificate-viewer-tab-people = Osobe
 certificate-viewer-tab-servers = Poslužitelji
+certificate-viewer-tab-ca = Certifikacijska tijela
 certificate-viewer-tab-unkonwn = Nepoznato
