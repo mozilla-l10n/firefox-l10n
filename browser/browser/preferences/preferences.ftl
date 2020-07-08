@@ -50,7 +50,11 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = { -brand-short-name }-kokeilut
+category-experimental =
+    .tooltiptext = { -brand-short-name }-kokeilut
 pane-experimental-subtitle = Jatka varoen
+pane-experimental-search-results-header = { -brand-short-name }-kokeilut: jatka varoen
 pane-experimental-description = Lisäasetusten muuttaminen voi vaikuttaa { -brand-short-name }in suorituskykyyn tai tietoturvaan.
 help-button-label = { -brand-short-name }-tuki
 addons-button-label = Laajennukset ja teemat
@@ -501,7 +505,6 @@ home-prefs-topsites-description = Useimmin vierailemasi sivustot
 
 home-prefs-recommended-by-header =
     .label = Suositukset lähteestä { $provider }
-home-prefs-recommended-by-description = Hyvää sisältöä kaikkialta verkosta, juuri sinulle
 home-prefs-recommended-by-description-update = Poikkeuksellista sisältöä ympäri internetiä, valikoijana { $provider }
 
 ##
@@ -565,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Näytä hakuehdotukset osoitepalkin tuloksissa ennen selaushistoriaa
 search-show-suggestions-private-windows =
     .label = Näytä hakuehdotukset yksityisissä ikkunoissa
-suggestions-addressbar-settings = Muuta selaushistorian, kirjanmerkkien ja välilehtien ehdotusten asetuksia
 suggestions-addressbar-settings-generic = Muuta osoitepalkin muiden ehdotusten asetuksia
 search-suggestions-cant-show = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet valinnut, että { -brand-short-name } ei muista historiaa.
 search-one-click-header = Hakukoneet pikavalikossa
