@@ -271,6 +271,9 @@ blocklisted-bug = Estolistalla tunnettujen ongelmien takia
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = vika { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Estolistalla tunnetuista ongelmista johtuen: <a data-l10n-name="bug-link">vika { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Estolistalla; virhekoodi { $failureCode }
 d3d11layers-crash-guard = D3D11-koostaminen
