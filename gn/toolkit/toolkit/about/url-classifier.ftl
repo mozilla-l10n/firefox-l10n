@@ -48,6 +48,6 @@ url-classifier-enabled = Myandypyre
 url-classifier-disabled = Oĩmbaporã'ỹva
 url-classifier-updating = Hekopyahuhína
 url-classifier-cannot-update = ndaikatúi embohekopyahu
-url-classifier-success = po'aite
+url-classifier-success = po’aite
 url-classifier-update-error = ojavy ñembohekopyahu ({ $error })
 url-classifier-download-error = ojavy ñemboguejy ({ $error })

@@ -20,11 +20,11 @@
 <!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Emboguete mba'ete…">
 <!ENTITY            deleteButton.accesskey "D">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; oñongatu marandu ñembohekopyahu rehegua, jerororyvéva ha ambue mba'epuru puruhára imba'eteépe.">
 
-<!ENTITY            offlineState.label    "Jeikekatu'ỹme mba'apo">
+<!ENTITY            offlineState.label    "Jeikekatu’ỹme mba’apo">
 <!ENTITY            offlineState.accesskey "o">
 
 <!ENTITY            useSelected.label       "Eipuru mba'ete poravopyre ejerure'ỹre ñepyrũha">

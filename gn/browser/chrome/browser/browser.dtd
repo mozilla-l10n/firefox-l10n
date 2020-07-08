@@ -830,7 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Jeike">
 <!ENTITY identity.connectionSecure "Jeikekatu">
-<!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
+<!ENTITY identity.connectionNotSecure "Jeikekatu’ỹre">
 <!ENTITY identity.connectionFile "Ko kuatiarogue oñeñongatu mohendahápe.">
 <!ENTITY identity.connectionVerified2 "Eikehína tekorosãme ko tendápe, mba’eteépe:">
 <!ENTITY identity.connectionInternal "Kóva &brandShortName; jeroviáva; kuatiarogue.">
