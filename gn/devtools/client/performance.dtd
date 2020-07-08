@@ -35,7 +35,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
-<!ENTITY performanceUI.toolbar.waterfall "Yje'a">
+<!ENTITY performanceUI.toolbar.waterfall "Yje’a">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Ehechauka opaichagua tembiapo pe kundaha ojapóva ñongatuete aja, omohendáva ojuapykueripa ysyry ho'aramoguáicha.">
 <!ENTITY performanceUI.toolbar.js-calltree "Ehenói yvyra">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Omomba’e JavaScript rembiapo kundaha peguáva ohasa hetave aravo ñongatuete aja.">
@@ -60,9 +60,9 @@
 <!ENTITY performanceUI.table.function                 "Tembiapoite">
 <!ENTITY performanceUI.table.function.tooltip         "Téra ha teñoiha renda tembiapoite jehechaukapyréva.">
 <!ENTITY performanceUI.table.totalAlloc               "Opaite jeporavopyre oñemoingéva pe jehechaukahápe">
-<!ENTITY performanceUI.table.totalAlloc.tooltip       "Pe papapy je’epyre mba’e jehechaukapýva ko tenda pegua ha ñehenói japyhypyrépe.">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Papapy je’epyre mba’e jehechaukapýva ko tenda pegua ha ñehenói japyhypyrépe.">
 <!ENTITY performanceUI.table.selfAlloc                "Mboherapy jehechaukajeheguíva">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Pe papapy je'epyre mba’e jehechaukapýva ko tendápe.">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "Pe papapy je’epyre mba’e jehechaukapýva ko tendápe.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
