@@ -11,7 +11,7 @@ login-app-promo-title = మీ సంకేతపదాలను ఎక్కడ
 login-app-promo-android =
     .alt = దీన్ని గూగుల్ ప్లే నుండి పొందండి
 login-filter =
-    .placeholder = ప్రవేశాలలో వెతకండి
+    .placeholder = ప్రవేశాలను వెతకండి
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
 fxaccounts-sign-in-text = మీ సంకేతపదాలను ఇతర పరికరాల్లో పొందండి
 fxaccounts-sign-in-button = { -sync-brand-short-name } లోనికి ప్రవేశించండి
@@ -97,6 +97,13 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name } ఎంపికలను చూడండి
+           *[other] { -sync-brand-short-name } అభిరుచులను చూడండి
+        }
+    .accesskey = V
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = నన్ను మళ్లీ అడగవద్దు
     .accesskey = D
@@ -107,8 +114,10 @@ confirmation-dialog-cancel-button = రద్దుచేయి
 confirmation-dialog-dismiss-button =
     .title = రద్దుచేయి
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
+confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
+confirm-discard-changes-dialog-message = భద్రపరచని మార్పులన్నీ కోల్పోతారు.
 confirm-discard-changes-dialog-confirm-button = విస్మరించు
 
 ## Breach Alert notification
