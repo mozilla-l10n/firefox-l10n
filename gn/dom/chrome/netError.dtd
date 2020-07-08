@@ -73,7 +73,7 @@
 <!ENTITY nssBadCert.longDesc2 "<ul><li>Kóva ikatu oiko peteĩ apañuãi mohendahavusu mbohekorãma, ikatu avei peteĩva oñeha'ã oikese ne mohendahavusúpe.</li><li>Eikéramo ko ne mohendahavusúpe apañuãi'ỹre ymave, pe jejavy ikatu sapy'aguánteva, ha eikatútama, eñeha'ã eikejey ag̃amieve.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Térã ikatu embojoapy oĩ'ỹva…">
-<!ENTITY securityOverride.warningContent "<p>Ani embojoapy peteĩ oĩ'ỹva eipurúramo ñanduti ejeroviaguasu'ỹha térã ndereipokuaáiramo ehecha peteĩ jesarekorã ko mohendahavusu rehegua.</p> <p>Embojoapyséramo gueteri pe oĩ'ỹva ko tendápe g̃uarã, ikatu ejapo iñemboheko opátamava ipapapývape.</p>">
+<!ENTITY securityOverride.warningContent "<p>Ani embojoapy peteĩ oĩ’ỹva eipurúramo ñanduti ejeroviaguasu’ỹha térã ndereipokuaáiramo ehecha peteĩ jesarekorã ko mohendahavusu rehegua.</p> <p>Embojoapyséramo gueteri pe oĩ’ỹva ko tendápe g̃uarã, ikatu ejapo iñemboheko opátamava ipapapývape.</p>">
 
 <!ENTITY cspBlocked.title "Ojejoko tetepy rekorosãrã purureko rupi">
 <!ENTITY cspBlocked.longDesc "<p>Pe kundaha ojoko ko kuatiaroguégui oñemyenyhẽvo kóicha kuatiarogue oguereko rupi peteĩ tapereko jeroviaha tetepy rehegua nomoneĩriva.</p>">
