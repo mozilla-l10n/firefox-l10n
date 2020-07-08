@@ -95,7 +95,7 @@ graphics-failure-log-title = Ndaipóri jehaipy
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Jehaipy ñemboaje
-graphics-crash-guards-title = Hesegua ojokóva Apopyvusu je'a Ñangarekoha
+graphics-crash-guards-title = Hesegua ojokóva Apopyvusu je’a Ñangarekoha
 graphics-workarounds-title = Ñemyatyrõ sapy'agua
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Ovetã raperekoite
@@ -122,7 +122,7 @@ sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Mba'eapo peteĩchagua
 sandbox-sys-call-number = Ñehenói pumbyrýpe
-sandbox-sys-call-args = Je'ekuaaite
+sandbox-sys-call-args = Je’ekuaaite
 safe-mode-title = Eipuru teko jerovia
 restart-in-safe-mode-label = Moĩmbaha oguepyréva moñepyrũjey…
 clear-startup-cache-title = Emohenda kache ñepyrũha ñembogue
@@ -213,8 +213,8 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha'ãrõva pe pa'ũ aravo je'epyréva)
-       *[other] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha'ãrõva pe pa'ũ aravo je'epyréva)
+        [one] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha’ãrõva pe pa’ũ aravo je’epyréva)
+       *[other] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha’ãrõva pe pa’ũ aravo je’epyréva)
     }
 raw-data-copied = Mba’ekuaarã hi’akýva ohasáva kuatiajokohápe
 text-copied = Moñe’ẽrã oñembohasáma kuatiajokohápe
@@ -222,9 +222,9 @@ text-copied = Moñe’ẽrã oñembohasáma kuatiajokohápe
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Ojejokóva peteĩchaguápe g̃uarã ta’ãnga ñangarekohárape.
-blocked-gfx-card = Ojejoko ikuatia'atã ha'ãngávape g̃uarã oguereko rupi apañuãi ñangarekoha omoĩporã'ỹva.
+blocked-gfx-card = Ojejoko ikuatia’atã ha'ãngávape g̃uarã oguereko rupi apañuãi ñangarekoha omoĩporã’ỹva.
 blocked-os-version = Ojejokóva peteĩchaguápe g̃uarã nde apopyvusu oku’éva pegua.
-blocked-mismatched-version = Ojoko ha'ãnga ñangarekoha peteĩchagua oĩporã'ỹva jehaipy ha DLL pa'ũme.
+blocked-mismatched-version = Ojoko ha’ãnga ñangarekoha peteĩchagua oĩporã’ỹva jehaipy ha DLL pa’ũme.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Ojejokóva peteĩchagua ta’ãngápe ñangarekohárape. Eñeha’ã embohekopyahu ta’ãnga ñangarekohára { $driverVersion } ichaguáva térã ipyahuvéva.
@@ -318,7 +318,7 @@ launcher-process-status-unknown = Tekotee ojekuaa’ỹva
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Puruhára myandypyre
 multi-process-status-1 = Myendypyre ijypykue rupi
-multi-process-status-2 = Oĩmbaporã'ỹva
+multi-process-status-2 = Oĩmbaporã’ỹva
 multi-process-status-4 = Oguémava tembirpuru jeikekuaahágui
 multi-process-status-6 = Oñemomba’apo’ỹva oreko rupi jehai ndojehaiva’erãi
 multi-process-status-7 = Oñemomba’apo’ỹ moĩmbaha rupive

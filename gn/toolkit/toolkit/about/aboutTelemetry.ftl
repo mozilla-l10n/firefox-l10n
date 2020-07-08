@@ -33,13 +33,13 @@ about-telemetry-histograms-section = Histograma
 about-telemetry-keyed-histogram-section = Histograma ñemiguáva
 about-telemetry-events-section = Tembiaporã
 about-telemetry-simple-measurements-section = Ha'ãha hypy'ũ'ỹva
-about-telemetry-slow-sql-section = Je'etepyre SQL imbegue
+about-telemetry-slow-sql-section = Je’etepyre SQL imbegue
 about-telemetry-addon-details-section = Moimbaha mba'emimi
 about-telemetry-captured-stacks-section = Japyhypyre mbojo'a
 about-telemetry-late-writes-section = Jehaipy mbotapykuéva
 about-telemetry-raw-payload-section = Hetepy ojehecha'ỹva gueteri
 about-telemetry-raw = Raw JSON
-about-telemetry-full-sql-warning = HAIPYRE'I: SQL ñemopotĩ imbeguéva hendýma. Ikatu ohechauka joajuha opaichagua SQL rehegua hákatu noñemondomo'ãi Telemetry-pe.
+about-telemetry-full-sql-warning = HAIPYRE’I: SQL ñemopotĩ imbeguéva hendýma. Ikatu ohechauka joajuha opaichagua SQL rehegua hákatu noñemondomo’ãi Telemetry-pe.
 about-telemetry-fetch-stack-symbols = Eguerujey tembiapoite réra jepytaite ojo'áva rehegua
 about-telemetry-hide-stack-symbols = Ehechauka mba'ekuaarã mbojo'áva oĩmba'ỹva
 # Selects the correct release version
@@ -111,11 +111,11 @@ about-telemetry-telemetry-ping-type-all = opavave
 # button label to copy the histogram
 about-telemetry-histogram-copy = Emomokõi
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = Je'etepyre SQL imbeguéva pe tembiapoitépe
-about-telemetry-slow-sql-other = Je'etepyre SQL imbeguéva pe tembiapo mokõiguávape
+about-telemetry-slow-sql-main = Je’etepyre SQL imbeguéva pe tembiapoitépe
+about-telemetry-slow-sql-other = Je’etepyre SQL imbeguéva pe tembiapo mokõiguávape
 about-telemetry-slow-sql-hits = Jejapoporã
 about-telemetry-slow-sql-average = Aravo ohasáva (ms)
-about-telemetry-slow-sql-statement = Je'etepyre
+about-telemetry-slow-sql-statement = Je’etepyre
 # these strings are used in the “Add-on Details” section
 about-telemetry-addon-table-id = ID moĩmbaha rehegua
 about-telemetry-addon-table-details = Mba'emimi
