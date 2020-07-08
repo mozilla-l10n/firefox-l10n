@@ -41,7 +41,7 @@
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Ejapohína peteĩ ñe’ẽñemi ñemiguáva">
-<!ENTITY createCertInfo.msg1 "Ñe’ẽñemi okakuaáva ñemoheñói… Kóva ikatu hi’are heta aravo'i…">
+<!ENTITY createCertInfo.msg1 "Ñe’ẽñemi okakuaáva ñemoheñói… Kóva ikatu hi’are heta aravo’i…">
 <!ENTITY createCertInfo.msg2 "Eha'arõ...">
 
 <!-- Strings for protectedAuth dialog -->

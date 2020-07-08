@@ -13,7 +13,7 @@ panic-button-forget-button =
 
 panic-main-timeframe-desc = Eñembyesarái ahasava’ekuégui:
 panic-button-5min =
-    .label = Po aravo'i
+    .label = Po aravo’i
 panic-button-2hr =
     .label = Mokõi aravo
 panic-button-day =
