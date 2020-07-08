@@ -13,9 +13,9 @@
 <!-- Field labels for input type=time -->
 
 <!ENTITY time.hour.label "Aravo">
-<!ENTITY time.minute.label "Aravo'i">
-<!ENTITY time.second.label "Aravo'ive">
-<!ENTITY time.millisecond.label "Aravo'ieteve">
+<!ENTITY time.minute.label "Aravo’i">
+<!ENTITY time.second.label "Aravo’ive">
+<!ENTITY time.millisecond.label "Aravo’ieteve">
 <!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->

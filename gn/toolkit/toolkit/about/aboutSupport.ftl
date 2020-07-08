@@ -192,8 +192,8 @@ report-crash-for-days =
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
-        [one] ojapóma { $minutes } aravo'i
-       *[other] ojapóma { $minutes } aravo'i
+        [one] ojapóma { $minutes } aravo’i
+       *[other] ojapóma { $minutes } aravo’i
     }
 # Variables
 # $hours (integer) - Number of hours since crash
