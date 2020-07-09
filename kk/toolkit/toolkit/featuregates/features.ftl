@@ -27,3 +27,8 @@ experimental-features-cookie-samesite-lax-by-default-description = Егер "sam
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookie файлдары: SameSite=none secure атрибутын талап етеді
 experimental-features-cookie-samesite-none-requires-secure-description = "sameSite=none" атрибуты бар cookie файлдары secure атрибутын талап етеді. Бұл мүмкіндік, үнсіз келісім бойынша, "Cookies: SameSite=lax" талап етеді.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home іске қосылу кэші
+experimental-features-abouthome-startup-cache-description = Іске қосылғанда, автоматты түрде жүктелетін about:home құжаты үшін кэш. Кэштің мақсаты - іске қосылу өнімділігін жақсарту.

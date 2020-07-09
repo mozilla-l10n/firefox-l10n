@@ -250,3 +250,9 @@ cfr-doorhanger-doh-primary-button = Жақсы, түсіндім
     .accesskey = а
 cfr-doorhanger-doh-secondary-button = Сөндіру
     .accesskey = д
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Жасырын бақылау техникасынан автоматты қорғаныс
+cfr-whatsnew-clear-cookies-body = Кейбір трекерлер сізді cookie файлдарын құпия түрде орнататын басқа веб-сайттарға бағыттайды. { -brand-short-name } енді бұл cookie файлдарын автоматты түрде тазартады, сондықтан олар сізді бақылай алмайды.
+cfr-whatsnew-clear-cookies-image-alt = Cookie файлы блокталған кескін
