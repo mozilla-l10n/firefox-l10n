@@ -249,3 +249,7 @@ cfr-doorhanger-doh-primary-button = IH awi-t-id
     .accesskey = o
 cfr-doorhanger-doh-secondary-button = Sens
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Ammesten awurman mgal tiḥila n uḍfar yettkellixen
