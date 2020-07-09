@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Identifiants et mots de passe
@@ -32,6 +27,7 @@ menu =
     .title = Ouvrir le menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importer depuis un autre navigateur…
+about-logins-menu-menuitem-import-from-a-file = Importer depuis un fichier…
 about-logins-menu-menuitem-export-logins = Exporter les identifiants…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -213,6 +209,17 @@ about-logins-export-file-picker-export-button = Exporter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Document CSV
+       *[other] Fichier CSV
+    }
+
+## Login Import Dialog
+
+about-logins-import-file-picker-import-button = Importer
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Document CSV
        *[other] Fichier CSV
