@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Bejelentkezések és jelszavak
@@ -32,6 +27,7 @@ menu =
     .title = Menü megnyitása
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importálás egy másik böngészőből…
+about-logins-menu-menuitem-import-from-a-file = Importálás fájlból…
 about-logins-menu-menuitem-export-logins = Bejelentkezések exportálása…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -72,12 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = A mentett bejelentkezéseit keresi? Állítsa be a { -sync-brand-short-name }-t.
+about-logins-login-intro-heading-logged-out = A mentett bejelentkezéseit keresi? Állítsa be a { -sync-brand-short-name }-et vagy importálja őket.
 about-logins-login-intro-heading-logged-in = Nem található szinkronizált bejelentkezés.
 login-intro-description = Ha egy másik eszközön mentette a bejelentkezéseit a { -brand-product-name }ban, akkor így érheti el őket itt:
 login-intro-instruction-fxa = Hozzon létre egyet, vagy jelentkezzen be a { -fxaccount-brand-name }jába azon az eszközön, amelyen a bejelentkezéseit menti
 login-intro-instruction-fxa-settings = Győződjön meg róla, hogy bejelölte a Bejelentkezések választómezőt a { -sync-brand-short-name } beállításokban
 about-logins-intro-instruction-help = További segítéségért keresse fel a <a data-l10n-name="help-link">{ -lockwise-brand-short-name } támogatást</a>
 about-logins-intro-import = Ha bejelentkezéseit egy másik böngészőben mentette el, <a data-l10n-name="import-link">importálhatja azokat a { -lockwise-brand-short-name }-ba</a>
+about-logins-intro-import2 = Ha a bejelentkezéseit a { -brand-product-name }on kívül mentette, akkor <a data-l10n-name="import-browser-link">importálhatja őket egy másik böngészőből</a> vagy <a data-l10n-name="import-file-link">egy fájlból</a>
 
 ## Login
 
@@ -213,6 +211,19 @@ about-logins-export-file-picker-export-button = Exportálás
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-dokumentum
+       *[other] CSV-fájl
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Bejelentkezéseket tartalmazó fájl importálása
+about-logins-import-file-picker-import-button = Importálás
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-dokumentum
        *[other] CSV-fájl
