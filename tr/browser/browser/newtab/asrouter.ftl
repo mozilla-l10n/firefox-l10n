@@ -249,3 +249,9 @@ cfr-doorhanger-doh-primary-button = Tamam
     .accesskey = m
 cfr-doorhanger-doh-secondary-button = Devre dışı bırak
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Sinsi izleme taktiklerinden otomatik koruma
+cfr-whatsnew-clear-cookies-body = Bazı takipçiler sizi bilgisayarınıza gizlice çerez yerleştiren web sitelerine yönlendirir. { -brand-short-name } artık bu çerezleri otomatik olarak temizliyor, böylece takip edilemiyorsunuz.
+cfr-whatsnew-clear-cookies-image-alt = Çerez engellendi çizimi
