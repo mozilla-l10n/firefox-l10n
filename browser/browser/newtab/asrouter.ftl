@@ -260,3 +260,9 @@ cfr-doorhanger-doh-primary-button = У реду, разумем
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Онемогући
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Аутоматска заштита од подмуклих тактика праћења
+cfr-whatsnew-clear-cookies-body = Неки пратиоци вас преусмеравају на друге странице које тајно постављају колачиће. { -brand-short-name } сада аутоматски брише ове колачиће тако да вас не прате.
+cfr-whatsnew-clear-cookies-image-alt = Колачић је блокирао илустрацију
