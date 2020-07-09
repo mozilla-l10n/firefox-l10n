@@ -17,6 +17,10 @@ otr-log =
     .label = Rnu iznan iwgelhnen OTR deg yiɣmisen n udiwenni
 otr-requireEncryption =
     .label = Creḍ awgelhen seg yixef ɣer yixef i yidiwenniyen gar sin
+otr-require-encryption-info =
+    Mi ara tsutreḍ awgelhen seg yixef er yixef, iznan deg yidiwenniyen usligen
+    ur ttwaznen ara alamma zemren ad ttwawgelhen. Armas n yiznan war awgelhen
+    ur d-ttwaskanen ara deg udiwenni amagnu yerna ur ttwaseklasen ara.
 otr-verifyNudge =
     .label = Smektay-iyi-d yal tikkelt ɣef usenqed n unermas ur nettwasenqed ara
 otr-notYetAvailable = Ulac akka tura
