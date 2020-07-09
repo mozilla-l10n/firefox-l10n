@@ -31,3 +31,4 @@ experimental-features-cookie-samesite-none-requires-secure-description = “same
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home 시작 캐시
+experimental-features-abouthome-startup-cache-description = 시작시 기본적으로 로드되는 초기 about:home 문서에 대한 캐시입니다. 캐시의 목적은 시작 성능을 향상시키는 것입니다.
