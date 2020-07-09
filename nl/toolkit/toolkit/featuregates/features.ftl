@@ -27,3 +27,8 @@ experimental-features-cookie-samesite-lax-by-default-description = Cookies stand
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookies: SameSite=none requires secure attribute
 experimental-features-cookie-samesite-none-requires-secure-description = Voor cookies met attribuut ‘sameSite=none’ is het veilige attribuut vereist. Deze functie vereist ‘Cookies: SameSite=lax by default’.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = Opstartbuffer about:home
+experimental-features-abouthome-startup-cache-description = Een opstartbuffer voor het initiële about:home-document wordt bij opstarten standaard geladen. Het doel van deze buffer is het verbeteren van de opstartprestaties.
