@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Inekcam & wawalen uffiren
@@ -215,5 +210,18 @@ about-logins-export-file-picker-export-button = Kter
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Isemli CSV
+       *[other] Afaylu CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Afaylu n ukter n yinekcam
+about-logins-import-file-picker-import-button = Kter
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Asemli CSV
        *[other] Afaylu CSV
     }
