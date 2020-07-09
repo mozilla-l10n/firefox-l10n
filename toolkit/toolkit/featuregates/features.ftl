@@ -27,3 +27,8 @@ experimental-features-cookie-samesite-lax-by-default-description = Behandla kako
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookies: SameSite=none requires secure attribute
 experimental-features-cookie-samesite-none-requires-secure-description = Kakor med "sameSite=none"-attribut kräver det säkra attributet. Denna funktion kräver “Kakor: SameSite=lax som standard”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home startcache
+experimental-features-abouthome-startup-cache-description = En cache för startdokumentet about:home som laddas som standard vid start. Syftet med cachen är att förbättra startprestanda.
