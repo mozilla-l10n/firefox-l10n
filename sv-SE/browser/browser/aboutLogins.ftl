@@ -75,6 +75,7 @@ login-intro-instruction-fxa = Skapa eller logga in på ditt { -fxaccount-brand-n
 login-intro-instruction-fxa-settings = Se till att du har markerat kryssrutan för inloggningar i { -sync-brand-short-name } inställningar
 about-logins-intro-instruction-help = Besök <a data-l10n-name="help-link">{ -lockwise-brand-short-name } support</a> för mer hjälp
 about-logins-intro-import = Om dina inloggningar finns sparade i en annan webbläsare kan du <a data-l10n-name="import-link">importera dem till { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Om dina inloggningar sparas utanför { -brand-product-name } kan du  <a data-l10n-name="import-browser-link">importera dem från en annan webbläsare</a> eller <a data-l10n-name="import-file-link">från en fil</a>
 
 ## Login
 
@@ -224,6 +225,6 @@ about-logins-import-file-picker-import-button = Importera
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
-        [macos] CSV Dokument
-       *[other] CSV Fil
+        [macos] CSV-dokument
+       *[other] CSV-fil
     }

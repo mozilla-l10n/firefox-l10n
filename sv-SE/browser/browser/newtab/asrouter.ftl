@@ -255,3 +255,9 @@ cfr-doorhanger-doh-primary-button = Ok, jag förstår
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Inaktivera
     .accesskey = I
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Automatiskt skydd mot lömsk spårningstaktik
+cfr-whatsnew-clear-cookies-body = Vissa spårare omdirigerar dig till andra webbplatser som i hemlighet ställer in kakor. { -brand-short-name } rensar nu automatiskt de kakorna så att du inte kan följas.
+cfr-whatsnew-clear-cookies-image-alt = Kaka blockerade illustration
