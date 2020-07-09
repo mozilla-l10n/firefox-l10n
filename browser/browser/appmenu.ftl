@@ -5,12 +5,15 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Proteçioin in sciâ privacy
 appmenuitem-customize-mode =
     .label = Personalizza…
 
 ## Zoom Controls
 
+appmenuitem-zoom-enlarge =
+    .label = Aomenta zoom
+appmenuitem-zoom-reduce =
+    .label = Riduci zoom
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 

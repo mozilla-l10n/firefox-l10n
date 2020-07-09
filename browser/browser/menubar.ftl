@@ -189,6 +189,12 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Conponenti azonti
     .accesskey = a
+menu-tools-fxa-sign-in =
+    .label = Acedi a { -brand-product-name }…
+    .accesskey = A
+menu-tools-turn-on-sync =
+    .label = Ativa { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-sync-now =
     .label = Scincronizza òua
     .accesskey = S
@@ -234,6 +240,9 @@ menu-help-product =
 menu-help-show-tour =
     .label = Vixita guidâ de { -brand-shorter-name }
     .accesskey = o
+menu-help-import-from-another-browser =
+    .label = Inportâ da 'n atro navegatô…
+    .accesskey = d
 menu-help-keyboard-shortcuts =
     .label = Scorsaieu da tastea
     .accesskey = S
@@ -250,8 +259,7 @@ menu-help-safe-mode-with-addons =
     .label = Arvi torna co-i conponente azonti ativæ
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Segnala scito mascarson…
     .accesskey = R

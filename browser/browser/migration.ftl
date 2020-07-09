@@ -16,6 +16,12 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge Legacy
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = B
 import-from-nothing =
     .label = No inportâ ninte
     .accesskey = N
@@ -61,6 +67,7 @@ import-close-source-browser = Aseguase che o navegatô seleçionou o segge serou
 imported-bookmarks-source = Da { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
@@ -81,10 +88,33 @@ imported-edge-reading-list = lista de letue (da Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookie
+browser-data-cookies-label =
+    .value = Cookie
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Segnalibbri
+            [edge] Segnalibbri
+           *[other] Segnalibbri
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Segnalibbri
+            [edge] Segnalibbri
+           *[other] Segnalibbri
+        }
+browser-data-otherdata-checkbox =
+    .label = Atri dæti
+browser-data-otherdata-label =
+    .label = Atri dæti
 browser-data-session-checkbox =
     .label = Barcoin e feuggi
 browser-data-session-label =

@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navegaçion priva)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navegaçion priva)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navegaçion priva)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navegaçion priva)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -93,6 +91,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sarva dæti inta memöia persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Arvi o panello de instalaçion conponente azonto
+urlbar-search-tips-confirm = Va ben, ò capio
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Conseggi:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -100,6 +104,7 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Scrivi de meno, treuva de ciù: Çerca { $engineName } inta teu bara di indirissi.
+urlbar-search-tips-redirect-2 = Iniçia a çercâ chi pe vedde i conseggi da { $engineName } e da stöia da navegaçion.
 
 ##
 
@@ -123,12 +128,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Ti æ blocòu l'estaçion dæti canvas pe sto scito.
 urlbar-midi-blocked =
     .tooltiptext = Ti æ blocòu l'acesso MIDI pe sto scito.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Cangia sto segnalibbro ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -142,6 +145,8 @@ page-action-manage-extension =
     .label = Gestisci estenscioin…
 page-action-remove-from-urlbar =
     .label = Leva da-a bara di indirissi
+page-action-remove-extension =
+    .label = Scancella estenscion
 
 ## Auto-hide Context Menu
 
@@ -154,13 +159,15 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Sta vòtta çerca con:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Inpostaçioin da riçerca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cangia inpostaçioin de riçerca
-
 search-one-offs-context-open-new-tab =
     .label = Çerca inte neuvo feuggio
     .accesskey = n
@@ -173,10 +180,8 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Fanni vedde l'editô quande sarvo
     .accesskey = F
-
 bookmark-panel-done-button =
     .label = Fæto
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -202,6 +207,7 @@ identity-permissions-empty = Nisciun permisso speciale asociou a sto scito.
 identity-clear-site-data =
     .label = Scancella cookie e dæti di sciti…
 identity-connection-not-secure-security-view = Ti no ê conesso in mòddo seguo a sto scito.
+identity-ev-owner-label = Certificati publicou da:
 identity-remove-cert-exception =
     .label = Scancella Eceçion
     .accesskey = S
@@ -230,6 +236,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Riduci
+browser-window-restore-down-button =
+    .tooltiptext = Repiggia zù
 browser-window-close-button =
     .tooltiptext = Særa
 
@@ -242,9 +250,17 @@ popup-select-microphone =
     .value = Micròfono da condividde:
     .accesskey = M
 popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi.
+popup-screen-sharing-not-now =
+    .label = Oua No
+    .accesskey = O
+popup-screen-sharing-never =
+    .label = No permette mai
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Vanni a-o feuggio
 
 ## DevTools F12 popup
 
@@ -259,11 +275,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Navegatô in contròllo remòtto
 urlbar-switch-to-tab =
     .value = Vanni a-o feuggio:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estenscioin:
-
 urlbar-go-button =
     .tooltiptext = Vanni a l'indirisso in sciâ bara di indirissi
 urlbar-page-action-button =
