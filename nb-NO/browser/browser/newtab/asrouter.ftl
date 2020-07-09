@@ -254,3 +254,7 @@ cfr-doorhanger-doh-primary-button = OK, jeg skjønner
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Slå av
     .accesskey = S
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-body = Noen sporere viderekobler deg til andre nettsteder som i hemmelighet setter infokapsler. { -brand-short-name } fjerner nå automatisk infokapslene slik at du ikke kan bli sporet.

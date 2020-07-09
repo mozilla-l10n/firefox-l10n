@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Innlogginger og passord
@@ -32,6 +27,7 @@ menu =
     .title = Åpne meny
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importer fra en annen nettleser…
+about-logins-menu-menuitem-import-from-a-file = Importer fra en fil…
 about-logins-menu-menuitem-export-logins = Eksporter innlogginger…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -72,12 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name } eller importer dem.
 about-logins-login-intro-heading-logged-in = Ingen synkroniserte innlogginger funnet.
 login-intro-description = Slik kan du få dine { -brand-product-name } innlogginger hit, om du har lagret de på en annen enhet
 login-intro-instruction-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
 login-intro-instruction-fxa-settings = Forsikre deg om at du har markert avkryssingsboksen for innlogginger i { -sync-brand-short-name }-innstillingene
 about-logins-intro-instruction-help = Gå til <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> for mer hjelp
 about-logins-intro-import = Hvis innloggingene dine er lagret i en annen nettleser, kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Hvis innloggingene dine er lagret utenfor { -brand-product-name }, kan du <a data-l10n-name="import-browser-link">importere dem fra en annen nettleser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
 
 ## Login
 
@@ -213,6 +211,19 @@ about-logins-export-file-picker-export-button = Eksporter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-dokument
+       *[other] CSV-fil
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importer fil med innlogginger
+about-logins-import-file-picker-import-button = Importer
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-dokument
        *[other] CSV-fil
