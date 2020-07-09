@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = محافظ‌های حریم‌خصوصی
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = به گزارش حریم‌خصوصی خود بروید
+appmenuitem-update-banner =
+    .label-update-downloading = در حال بارگیری به‌روز رسانی { -brand-shorter-name }
 appmenuitem-customize-mode =
     .label = سفارشی‌سازی…
 
