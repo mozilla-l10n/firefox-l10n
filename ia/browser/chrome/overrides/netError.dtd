@@ -252,7 +252,7 @@ was trying to connect. -->
 <!ENTITY networkProtocolError.title "Error de protocollo de rete">
 
 <!ENTITY enableTls10.longDesc "Iste sito web pote non supportar le protocollo TLS 1.2, le version minime que &brandShortName; supporta. Activar TLS 1.0 e TLS 1.1 poterea permitter que iste connexion succede.">
-<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 sera permanentemente disactivate in un futuro version.">
+<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 essera permanentemente disactivate in un version futur.">
 <!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque un error ha essite detegite in le protocollo de rete.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
