@@ -209,6 +209,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = סמל תמונה בתוך תמונה
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = הגנות במבט חטוף
 cfr-whatsnew-protections-cta-link = הצגת לוח ההגנות
 cfr-whatsnew-protections-icon-alt = סמל מגן
 

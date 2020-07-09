@@ -256,6 +256,9 @@ blocklisted-bug = הוכנס לרשימה שחורה עקב בעיות ידוע�
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = באג { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = נחסם עקב בעיות ידועות: <a data-l10n-name="bug-link">תקלה { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = הוכנס לרשימה השחורה, קוד כישלון { $failureCode }
 d3d11video-crash-guard = מפענח הווידאו D3D11
