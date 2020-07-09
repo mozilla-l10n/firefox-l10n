@@ -16,3 +16,8 @@ experimental-features-web-gpu-description = מנשק API ניסיוני עבור
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = תמיכה ניסיונית עבור AVIF: תבנית קובץ תמונה AV1
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = מטמון הפעלה של about:home
+experimental-features-abouthome-startup-cache-description = מטמון עבור המסמך about:home הראשוני שנטען כברירת מחדל בעת ההפעלה. מטרת המטמון היא לשפר את ביצועי ההפעלה.

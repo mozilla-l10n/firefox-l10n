@@ -224,3 +224,8 @@ cfr-doorhanger-doh-primary-button = בסדר, הבנתי
     .accesskey = ב
 cfr-doorhanger-doh-secondary-button = השבתה
     .accesskey = ה
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = הגנה אוטומטית מפני תכסיסי מעקב
+cfr-whatsnew-clear-cookies-body = ישנם רכיבי מעקב המפנים אותך לאתרים אחרים המגדירים עוגיות בחשאי. { -brand-short-name } כעת מנקה באופן אוטומטי את העוגיות האלו כך שלא יהיה ניתן לעקוב אחריך.
