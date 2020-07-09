@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Info Masuk dan Kata Sandi
@@ -32,6 +27,7 @@ menu =
     .title = Buka menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Impor dari Peramban Lain…
+about-logins-menu-menuitem-import-from-a-file = Impor dari Berkas…
 about-logins-menu-menuitem-export-logins = Ekspor Info Masuk…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -71,12 +67,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Mencari info masuk Anda yang tersimpan? Siapkan { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Mencari info masuk Anda yang tersimpan? Siapkan { -sync-brand-short-name } atau impor saja.
 about-logins-login-intro-heading-logged-in = Info masuk yang disinkronkan tidak ditemukan.
 login-intro-description = Jika Anda menyimpan info masuk Anda di { -brand-product-name } pada perangkat lain, berikut cara mendapatkannya di sini:
 login-intro-instruction-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda pada perangkat tempat info masuk Anda tersimpan
 login-intro-instruction-fxa-settings = Pastikan Anda telah memilih kotak centang Info Masuk pada Pengaturan { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kunjungi <a data-l10n-name="help-link">Bantuan { -lockwise-brand-short-name }</a> untuk bantuan lebih lanjut
 about-logins-intro-import = Jika info masuk Anda tersimpan dalam peramban lain, Anda dapat <a data-l10n-name="import-link">mengimpor data tersebut ke { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Jika info masuk Anda tersimpan di luar { -brand-product-name }, Anda bisa <a data-l10n-name="import-browser-link">mengimpornya dari peramban lain</a> atau <a data-l10n-name="import-file-link">mengimpornya dari berkas</a>.
 
 ## Login
 
@@ -212,6 +210,19 @@ about-logins-export-file-picker-export-button = Ekspor
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumen CSV
+       *[other] Berkas CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Impor Berkas Info Masuk
+about-logins-import-file-picker-import-button = Impor
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokumen CSV
        *[other] Berkas CSV

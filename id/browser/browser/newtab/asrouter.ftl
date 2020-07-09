@@ -248,3 +248,9 @@ cfr-doorhanger-doh-primary-button = Oke, Beres
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Nonaktifkan
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Perlindungan otomatis dari taktik pelacakan licik
+cfr-whatsnew-clear-cookies-body = Beberapa pelacak mengarahkan Anda ke situs web lain yang secara diam-diam mengatur kuki. Kini { -brand-short-name } menghapus kuki tersebut secara otomatis sehingga Anda tidak dapat diikuti.
+cfr-whatsnew-clear-cookies-image-alt = Ilustrasi kuki yang diblokir
