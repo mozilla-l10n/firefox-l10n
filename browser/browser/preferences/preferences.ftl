@@ -241,7 +241,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Tarihleri, saatleri, sayıları ve ölçüleri biçimlendirmek için “{ $localeName }” işletim sistemi ayarlarımı kullan
+    .label = Tarihler, saatler, sayılar ve ölçüleri biçimlendirmek için “{ $localeName }” işletim sistemi ayarlarımı kullan
 check-user-spelling =
     .label = Yazarken yazım denetimi yap
     .accesskey = t
