@@ -55,6 +55,7 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = زنجیره گواهی:
+open-in-new-window-for-csp-or-xfo-error = گشودن پایگاه در پنجرهٔ جدید
 
 ## Messages used for certificate error titles
 
@@ -83,6 +84,7 @@ proxyResolveFailure-title = کارگزار پیشکار پیدا نشد
 redirectLoop-title = این صفحه درست تغییر مسیر نمی‌دهد
 unknownSocketType-title = جواب غیرمنتظره از کارگزار
 nssFailure2-title = برقراری اتصال ایمن شکست خورد
+csp-xfo-error-title = ‫{ -brand-short-name } نمی‌تواند این صفحه را بگشاید
 corruptedContentError-title = خطای خرابی محتوا
 remoteXUL-title = XUL راه دور
 sslv3Used-title = قادر به برقراری اتصال امن نمیباشد
