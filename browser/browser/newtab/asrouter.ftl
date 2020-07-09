@@ -275,3 +275,9 @@ cfr-doorhanger-doh-primary-button = Iawn, Wedi deall!
     .accesskey = I
 cfr-doorhanger-doh-secondary-button = Analluogi
     .accesskey = A
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Diogelwch awtomatig rhag tactegau tracio slei
+cfr-whatsnew-clear-cookies-body = Mae rhai tracwyr yn eich ailgyfeirio i wefannau eraill sy'n gosod cwcis yn gyfrinachol. Mae { -brand-short-name } bellach yn clirio'r cwcis hynny yn awtomatig fel nad oes modd eich dilyn.
+cfr-whatsnew-clear-cookies-image-alt = Llun wedi'i rwystro gan gwci

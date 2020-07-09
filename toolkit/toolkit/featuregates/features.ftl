@@ -27,3 +27,8 @@ experimental-features-cookie-samesite-lax-by-default-description = Trin cwcis fe
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookies: SameSite=none requires secure attribute
 experimental-features-cookie-samesite-none-requires-secure-description = Mae cwcis â phriodoledd “sameSite=none” angen y briodoledd ddiogel. Mae'r nodwedd hon yn gofyn am “Cookies: SameSite=lax by default”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home storfa cychwyn
+experimental-features-abouthome-startup-cache-description = Storfa ar gyfer y ddogfen gychwynnol about:home sy'n cael ei llwytho yn ragosodedig wrth gychwyn. Pwrpas y storfa yw gwella perfformiad cychwyn.
