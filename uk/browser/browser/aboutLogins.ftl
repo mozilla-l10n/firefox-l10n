@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Паролі
@@ -32,6 +27,7 @@ menu =
     .title = Відкрити меню
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Імпорт даних з іншого браузера…
+about-logins-menu-menuitem-import-from-a-file = Імпортувати з файлу…
 about-logins-menu-menuitem-export-logins = Експортувати паролі…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -73,12 +69,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Шукаєте свої збережені паролі? Налаштуйте { -sync-brand-short-name(case: "acc") }.
+about-logins-login-intro-heading-logged-out = Шукаєте свої збережені паролі? Налаштуйте { -sync-brand-short-name } для їхнього імпорту.
 about-logins-login-intro-heading-logged-in = Не знайдено синхронізованих паролів.
 login-intro-description = Якщо ви зберегли паролі в { -brand-product-name } на іншому пристрої, ось як отримати їх тут:
 login-intro-instruction-fxa = Зареєструйтеся чи увійдіть до свого { -fxaccount-brand-name(case: "gen") } на пристрої, де збережено ваші паролі
 login-intro-instruction-fxa-settings = Переконайтеся, що встановлено прапорець на Паролі в Налаштуваннях { -sync-brand-short-name(case: "dat") }
 about-logins-intro-instruction-help = Відвідайте <a data-l10n-name="help-link">Підтримку { -lockwise-brand-short-name }</a> для отримання допомоги
 about-logins-intro-import = Якщо ваші паролі збережено в іншому браузері, ви можете <a data-l10n-name="import-link">імпортувати їх в { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Якщо ваші паролі зберігаються не в { -brand-product-name }, ви можете <a data-l10n-name="import-browser-link">імпортувати їх з іншого браузера</a> або <a data-l10n-name="import-file-link">з файлу</a>
 
 ## Login
 
@@ -214,6 +212,19 @@ about-logins-export-file-picker-export-button = Експорт
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Документ CSV
+       *[other] Файл CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Імпорт паролів з файлу
+about-logins-import-file-picker-import-button = Імпортувати
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Документ CSV
        *[other] Файл CSV

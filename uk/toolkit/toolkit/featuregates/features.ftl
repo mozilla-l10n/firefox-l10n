@@ -27,3 +27,8 @@ experimental-features-cookie-samesite-lax-by-default-description = Розгля�
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Куки: SameSite=none потребує захищеного атрибута
 experimental-features-cookie-samesite-none-requires-secure-description = Куки з атрибутом “sameSite=none” потребують захищеного атрибута. Ця функція вимагає типово “Куки: SameSite=lax типово”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = Кеш запуску about:home
+experimental-features-abouthome-startup-cache-description = Кешування початкового вмісту about:home, який типово завантажується під час запуску. Метою кешування є пришвидшення запуску.
