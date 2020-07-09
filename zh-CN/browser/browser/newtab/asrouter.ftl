@@ -248,3 +248,5 @@ cfr-doorhanger-doh-secondary-button = 禁用
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = 自动保护，拒绝跟踪
+cfr-whatsnew-clear-cookies-body = 有些跟踪器会偷偷将您重定向至设置 Cookie 进行跟踪的网站。{ -brand-short-name } 现在起，会自动清除这些 Cookie 让您不被跟踪。
+cfr-whatsnew-clear-cookies-image-alt = 拦截 Cookie 图示
