@@ -148,11 +148,11 @@ cfr-whatsnew-fingerprinter-counter-header =
     [one] Fingerprinter bloccato
    *[other] Fingerprinter bloccati
   }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blocca molti fingerprinter che, in segreto, raccolgono informazioni sul tuo dispositivo e sulle tue azioni online. Questi dati vengono utilizzati per creare un tuo profilo e mostrarti pubblicità mirate.
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blocca molti fingerprinter che, di nascosto, raccolgono informazioni sul tuo dispositivo e sulle tue azioni online. Questi dati vengono utilizzati per creare un tuo profilo e mostrarti pubblicità mirate.
 
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinter
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } può bloccare i fingerprinter che, in segreto, raccolgono informazioni sul tuo dispositivo e sulle tue azioni online. Questi dati vengono utilizzati per creare un tuo profilo e mostrarti pubblicità mirate.
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } può bloccare i fingerprinter che, di nascosto, raccolgono informazioni sul tuo dispositivo e sulle tue azioni online. Questi dati vengono utilizzati per creare un tuo profilo e mostrarti pubblicità mirate.
 
 ## Bookmark Sync
 
