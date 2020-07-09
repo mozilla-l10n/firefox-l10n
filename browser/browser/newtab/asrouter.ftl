@@ -244,3 +244,7 @@ cfr-doorhanger-doh-primary-button = 好，知道了
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = 禁用
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = 自动保护，拒绝跟踪
