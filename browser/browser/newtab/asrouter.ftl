@@ -254,3 +254,7 @@ cfr-doorhanger-doh-primary-button = Òc, plan comprés
     .accesskey = c
 cfr-doorhanger-doh-secondary-button = Desactivar
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-image-alt = Illustracion d’un cookie blocat
