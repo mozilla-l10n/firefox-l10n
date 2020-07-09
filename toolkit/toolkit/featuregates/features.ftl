@@ -27,3 +27,8 @@ experimental-features-cookie-samesite-lax-by-default-description = A sütik „s
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookies: SameSite=none requires secure attribute
 experimental-features-cookie-samesite-none-requires-secure-description = A „sameSite=none” attribútummal rendelkező sütikhez szükséges a secure attribútum. A funkcióhoz szükséges a „Cookies: SameSite=lax by default”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home indítási gyorsítótár
+experimental-features-abouthome-startup-cache-description = Gyorsítótár a kezdeti about:home dokumentumhoz, amely alapértelmezés szerint betöltődik indításkor. A gyorsítótár célja az indítási teljesítmény javítása.

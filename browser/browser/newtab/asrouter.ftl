@@ -253,3 +253,9 @@ cfr-doorhanger-doh-primary-button = Rendben, értem
     .accesskey = R
 cfr-doorhanger-doh-secondary-button = Letiltás
     .accesskey = t
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Automatikus védelem az alattomos követési taktikákkal szemben
+cfr-whatsnew-clear-cookies-body = Egyes nyomkövetők más weboldalakra irányítják át, melyek titokban sütiket állítanak be. A { -brand-short-name } most már automatikusa törli ezeket a sütiket, így nem tudják követni Önt.
+cfr-whatsnew-clear-cookies-image-alt = Sütiblokkolási illusztráció
