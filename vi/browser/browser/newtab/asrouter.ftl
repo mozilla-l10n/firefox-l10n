@@ -250,3 +250,9 @@ cfr-doorhanger-doh-primary-button = OK, đã hiểu
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Vô hiệu hóa
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Bảo vệ tự động, không có theo dõi ẩn
+cfr-whatsnew-clear-cookies-body = Một số trình theo dõi chuyển hướng bạn đến các trang web khác bí mật đặt cookie. { -brand-short-name } bây giờ sẽ tự động xóa các cookie đó để bạn không thể bị theo dõi.
+cfr-whatsnew-clear-cookies-image-alt = Minh họa về cookie bị chặn

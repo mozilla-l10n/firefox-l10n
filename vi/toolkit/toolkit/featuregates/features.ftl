@@ -27,3 +27,8 @@ experimental-features-cookie-samesite-lax-by-default-description = Xử lý cook
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookie: SameSite=none yêu cầu thuộc tính bảo mật
 experimental-features-cookie-samesite-none-requires-secure-description = Cookie với thuộc tính “sameSite=none” yêu cầu thuộc tính bảo mật. Tính năng này yêu cầu “Cookie: SameSite=lax theo mặc định”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = Bộ nhớ đệm tự chạy của about:home
+experimental-features-abouthome-startup-cache-description = Một bộ nhớ đệm cho tài liệu about:home được tải theo mặc định khi khởi động. Mục đích của bộ nhớ đệm là cải thiện hiệu suất khởi động.
