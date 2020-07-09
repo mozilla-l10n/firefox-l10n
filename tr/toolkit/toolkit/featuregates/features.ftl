@@ -24,3 +24,7 @@ experimental-features-cookie-samesite-lax-by-default =
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookies: SameSite=none requires secure attribute
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home başlangıç önbelleği
