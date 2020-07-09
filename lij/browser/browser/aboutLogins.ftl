@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Login e Poule segrete
@@ -66,9 +61,13 @@ about-logins-list-item-breach-icon =
 
 ## Login
 
+about-logins-login-item-username =
+    .placeholder = (nisciun nomme utente)
 login-item-copy-username-button-text = Còpia
 login-item-copied-username-button-text = Copiou!
 login-item-password-label = Poula segreta
+login-item-password-reveal-checkbox =
+    .aria-label = Mostra poula segreta
 login-item-copy-password-button-text = Còpia
 login-item-copied-password-button-text = Copiou!
 login-item-save-changes-button = Sarva cangiamenti
@@ -80,6 +79,7 @@ login-item-time-used = Urtimo uzo: { DATETIME($timeUsed, day: "numeric", month: 
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -102,22 +102,40 @@ enable-password-sync-preferences-button =
            *[other] Arvi e preferense de { -sync-brand-short-name }
         }
     .accesskey = A
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = No domandalo ciù
+    .accesskey = N
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Anulla
 confirmation-dialog-dismiss-button =
     .title = Anulla
+about-logins-confirm-remove-dialog-title = Scancelâ st'acesso?
 confirm-delete-dialog-message = St'açion a no peu ese anula.
+about-logins-confirm-remove-dialog-confirm-button = Scancella
+about-logins-confirm-export-dialog-title = Espòrta acessi e poule segrete
+about-logins-confirm-export-dialog-confirm-button = Espòrta…
+confirm-discard-changes-dialog-confirm-button = Ignòra
 
 ## Breach Alert notification
 
 
 ## Vulnerable Password notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Vànni a { $hostname }
 
 ## Error Messages
 
 
 ## Login Export Dialog
 
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento CSV
+       *[other] Schedaio CSV
+    }
