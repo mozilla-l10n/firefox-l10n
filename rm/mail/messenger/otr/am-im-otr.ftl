@@ -17,6 +17,10 @@ otr-log =
     .label = Includer messadis criptads OTR en la cronologia da las conversaziuns
 otr-requireEncryption =
     .label = Pretender in criptadi fin-a-fin per conversaziuns dad in ad in
+otr-require-encryption-info =
+    Sch'ina criptaziun da fin-a-fin vegn pretendida, na vegnan messadis en conversaziuns
+    in-ad-in betg tramess sch'els na pon betg vegnir criptads. Messadis retschavids betg criptads
+    na vegnan betg mussads sco part da la conversaziun regulara e n'era betg protocollads.
 otr-verifyNudge =
     .label = Adina ma regurdar da verifitgar in contact betg verifitgà
 otr-notYetAvailable = anc betg disponibel
