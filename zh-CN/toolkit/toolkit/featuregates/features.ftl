@@ -27,3 +27,8 @@ experimental-features-cookie-samesite-lax-by-default-description = 若未指定 
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Cookie: SameSite=none［需设置 Secure 属性］
 experimental-features-cookie-samesite-none-requires-secure-description = 属性为“sameSite=none”的 Cookie 需设置 Secure 属性。此特性依赖于“Cookie: SameSite=lax [默认]”。
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home 启动缓存
+experimental-features-abouthome-startup-cache-description = 缓存启动时默认加载的 about:home 初始文件，以提高启动性能。
