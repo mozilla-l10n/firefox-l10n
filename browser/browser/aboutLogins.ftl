@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Inloggningar & lösenord
@@ -32,6 +27,7 @@ menu =
     .title = Öppna meny
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importera från en annan webbläsare…
+about-logins-menu-menuitem-import-from-a-file = Importera från en fil…
 about-logins-menu-menuitem-export-logins = Exportera inloggningar...
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -72,6 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Letar du efter dina sparade inloggningar? Konfigurera{ -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Letar du efter dina sparade inloggningar? Konfigurera { -sync-brand-short-name } eller importera dem.
 about-logins-login-intro-heading-logged-in = Inga synkroniserade inloggningar hittades.
 login-intro-description = Om du sparat dina inloggningar i { -brand-product-name } på en annan enhet, så här får du dem hit:
 login-intro-instruction-fxa = Skapa eller logga in på ditt { -fxaccount-brand-name } på enheten där dina inloggningar sparades
@@ -216,4 +213,17 @@ about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-dokument
        *[other] CSV-fil
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importera inloggningsfil
+about-logins-import-file-picker-import-button = Importera
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Dokument
+       *[other] CSV Fil
     }
