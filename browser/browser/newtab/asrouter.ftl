@@ -247,4 +247,6 @@ cfr-doorhanger-doh-secondary-button = 사용 안 함
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = 교활한 추적 전술로부터 자동 보호
 cfr-whatsnew-clear-cookies-body = 일부 추적기는 몰래 쿠키를 설정하는 다른 웹 사이트로 사용자를 리디렉션합니다. 이제 { -brand-short-name }는 이런 쿠키를 자동으로 지우므로 사용자를 따라다닐 수 없습니다.
+cfr-whatsnew-clear-cookies-image-alt = 쿠키 차단 그림
