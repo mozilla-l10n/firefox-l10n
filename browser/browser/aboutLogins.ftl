@@ -75,6 +75,7 @@ login-intro-instruction-fxa = Maak op het apparaat waarop uw aanmeldgegevens sta
 login-intro-instruction-fxa-settings = Zorg ervoor dat u het veld Aanmeldingen in de instellingen van { -sync-brand-short-name } hebt aangevinkt
 about-logins-intro-instruction-help = Bezoek <a data-l10n-name="help-link">Ondersteuning voor { -lockwise-brand-short-name }</a> voor meer hulp
 about-logins-intro-import = Als uw aanmeldingen in een andere browser worden opgeslagen, kunt u <a data-l10n-name="import-link">ze importeren in { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Als uw aanmeldingen buiten { -brand-product-name } zijn opgeslagen, dan kunt u ze importeren <a data-l10n-name="import-browser-link">vanuit een andere browser</a> of <a data-l10n-name = "import-file-link">vanuit een bestand</a>
 
 ## Login
 
