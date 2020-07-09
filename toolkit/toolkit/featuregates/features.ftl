@@ -16,3 +16,11 @@ experimental-features-web-gpu-description = Web üzerinde grafikler ve bilgi iş
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Deneysel AVIF desteği: AV1 Görüntü Dosyası Biçimi
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-lax-by-default =
+    .label = Cookies: SameSite=lax by default
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-none-requires-secure =
+    .label = Cookies: SameSite=none requires secure attribute
