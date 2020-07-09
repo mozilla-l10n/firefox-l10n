@@ -68,6 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Cercatz vòstres senhals salvats ? Configuratz { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Cercatz vòstres identificants enregistrats ? Configuratz { -sync-brand-short-name } o importatz-los.
 about-logins-login-intro-heading-logged-in = Cap d’identificant sincronizat pas trobat.
 login-intro-description = Se salvatz vòstres identificants dins { -brand-product-name } sus un autre periferics, vaquí cossí i accedir aquí :
 login-intro-instruction-fxa = Connectatz-vos o creatz un { -fxaccount-brand-name } ont son salvats los identificants.
