@@ -1,13 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = ورودها و گذرواژه‌ها
+about-logins-page-title = ورود ها و کلمات عبور
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = از Google Play دریافت کنید
 login-app-promo-apple =
     .alt = از App Store دریافت کنید
-
 login-filter =
     .placeholder = جست‌وجو در اطلاعات ورودها
-
 create-login-button = ایجاد کردن ورود جدید
-
 fxaccounts-sign-in-text = گذرواژه‌هایتان را دستگاه‌های دیگر خود همراه داشته باشید
 fxaccounts-sign-in-button = ورود به { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -113,11 +106,10 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ویرایش ورودهای ذخیره شده
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = کپی رمز عبور ذخیره شده
 
@@ -151,11 +143,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = انصراف
 confirmation-dialog-dismiss-button =
     .title = انصراف
-
 about-logins-confirm-remove-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
 about-logins-confirm-remove-dialog-confirm-button = حذف
-
 confirm-discard-changes-dialog-title = تغییرات ذخیره نشده نادیده گرفته شود؟
 confirm-discard-changes-dialog-message = تمام تغییرات ذخیره نشده از بین می‌روند.
 confirm-discard-changes-dialog-confirm-button = نادیده گرفتن
@@ -183,10 +173,11 @@ about-logins-vulnerable-alert-learn-more-link = بیشتر یاد بگیرید
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = یک ورودی برای { $loginTitle } با آن نام‌کاربری از قبل وجود دارد. <a data-l10n-name="duplicate-link">به ورودی فعلی برو؟</a>
-
 # This is a generic error message.
 about-logins-error-message-default = خطای هنگام ذخیره این گذرواژه رخ داد.
 
-
 ## Login Export Dialog
+
+
+## Login Import Dialog
 
