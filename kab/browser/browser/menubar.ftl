@@ -233,7 +233,7 @@ menu-tools-layout-debugger =
 menu-window-menu =
     .label = Asfaylu
 menu-window-bring-all-to-front =
-    .label = Awi-d Kullec ɣer Zdat
+    .label = Awi-d kullec ɣer sdat
 
 ## Help Menu
 
