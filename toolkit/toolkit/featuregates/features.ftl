@@ -27,3 +27,8 @@ experimental-features-cookie-samesite-lax-by-default-description = Perlakukan ku
 experimental-features-cookie-samesite-none-requires-secure =
     .label = Kuki: SameSite = tidak ada yang memerlukan atribut aman
 experimental-features-cookie-samesite-none-requires-secure-description = Kuki dengan atribut “sameSite = tidak ada” memerlukan atribut aman. Fitur ini memerlukan "Kuki: SameSite = lax secara tetap".
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = tembolok awal about:home
+experimental-features-abouthome-startup-cache-description = Tembolok untuk dokumen about:home awal yang dimuat secara baku pada saat memulai. Tujuan dari tembolok ini adalah untuk meningkatkan kinerja proses mulai.
