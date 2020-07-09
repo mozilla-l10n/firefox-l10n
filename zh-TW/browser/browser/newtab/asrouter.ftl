@@ -244,3 +244,9 @@ cfr-doorhanger-doh-primary-button = 好，知道了
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = 停用
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = 自動保護，不受隱蔽的手法追蹤
+cfr-whatsnew-clear-cookies-body = 有些網站會將您重新導向到偷偷設定 Cookie 進行追蹤的網站。{ -brand-short-name } 現在起，會自動清除這些 Cookie 讓您不被追蹤。
+cfr-whatsnew-clear-cookies-image-alt = 封鎖 Cookie 的插圖

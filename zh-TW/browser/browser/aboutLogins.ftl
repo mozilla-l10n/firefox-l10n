@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = 登入資訊與密碼
@@ -32,6 +27,7 @@ menu =
     .title = 開啟選單
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = 從另一套瀏覽器匯入…
+about-logins-menu-menuitem-import-from-a-file = 從檔案匯入…
 about-logins-menu-menuitem-export-logins = 匯出登入資訊…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -71,12 +67,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = 在找您儲存的登入資訊嗎？請設定 { -sync-brand-short-name }。
+about-logins-login-intro-heading-logged-out = 在找您儲存的登入資訊嗎？請設定 { -sync-brand-short-name } 或匯入。
 about-logins-login-intro-heading-logged-in = 找不到同步的登入資訊。
 login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand-product-name } 過，請參考下列步驟，即可在此裝置使用:
 login-intro-instruction-fxa = 在您儲存登入資訊的裝置，註冊或登入 { -fxaccount-brand-name }
 login-intro-instruction-fxa-settings = 確定在 { -sync-brand-short-name } 設定中勾選了「登入資訊」選取盒
 about-logins-intro-instruction-help = 若需協助，請到 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 技術支援站</a>
 about-logins-intro-import = 若登入資訊儲存在其他瀏覽器，您可以<a data-l10n-name="import-link">匯入到 { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = 若您的登入資訊並未儲存於 { -brand-product-name }，可以<a data-l10n-name="import-browser-link">從另一套瀏覽器</a>或<a data-l10n-name="import-file-link">檔案</a>匯入
 
 ## Login
 
@@ -212,6 +210,19 @@ about-logins-export-file-picker-export-button = 匯出
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV 文件
+       *[other] CSV 檔案
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = 匯入登入資訊檔案
+about-logins-import-file-picker-import-button = 匯入
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV 文件
        *[other] CSV 檔案
