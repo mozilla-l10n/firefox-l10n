@@ -1169,6 +1169,7 @@ space-alert-under-5gb-message = { -brand-short-name } håller på att få slut p
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-endast-läge
+httpsonly-description = HTTPS ger en säker, krypterad anslutning mellan { -brand-short-name } och de webbplatser du besöker. De flesta webbplatser stöder HTTPS och om endast HTTPS-läget är aktiverat kommer { -brand-short-name } att uppgradera alla anslutningar till HTTPS.
 httpsonly-learn-more = Läs mer
 httpsonly-radio-enabled =
     .label = Aktivera HTTPS-endast-läge i alla fönster

@@ -17,16 +17,14 @@ experimental-features-web-gpu-description = Experimentellt API för grafik och d
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Experimentellt stöd för AVIF: AV1 Bildfilformat
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax by default
-experimental-features-cookie-samesite-lax-by-default-description = Behandla kakor som "sameSite=lax" som standard om inget "sameSite"-attribut är specificerat. Utvecklare måste välja aktuell status för obegränsad användning genom att uttryckligen hävda “sameSite=none”.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requires secure attribute
-experimental-features-cookie-samesite-none-requires-secure-description = Kakor med "sameSite=none"-attribut kräver det säkra attributet. Denna funktion kräver “Kakor: SameSite=lax som standard”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Kakor: SameSite=Lax som standard
+experimental-features-cookie-samesite-lax-by-default2-description = Behandla kakor som "SameSite=Lax" som standard om inget "SameSite"-attribut är specificerat. Utvecklare måste välja aktuell status för obegränsad användning genom att uttryckligen hävda “SameSite=None”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Kakor: SameSite=None kräver säkert attribut
+experimental-features-cookie-samesite-none-requires-secure2-description = Kakor med "SameSite=None"-attribut kräver det säkra attributet. Denna funktion kräver “Kakor: SameSite=Lax som standard”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
