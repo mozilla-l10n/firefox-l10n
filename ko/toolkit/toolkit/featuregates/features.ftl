@@ -17,16 +17,14 @@ experimental-features-web-gpu-description = 웹에서 그래픽 및 컴퓨팅을
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = AVIF (AV1 Image File Format)에 대한 실험적 지원
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax가 기본값
-experimental-features-cookie-samesite-lax-by-default-description = 쿠키에 “sameSite” 속성이 지정되지 않은 경우 “sameSite=lax”를 기본값으로 간주합니다. 무제한 사용시에는 개발자는 “sameSite=none”을 명확하게 명시해야 합니다.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none은 secure 속성 필요
-experimental-features-cookie-samesite-none-requires-secure-description = “sameSite=none” 속성을 가진 쿠키에는 secure 속성이 필요합니다. 이 기능에는“Cookies: SameSite=lax가 기본값”이 필요합니다.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax가 기본값
+experimental-features-cookie-samesite-lax-by-default2-description = 쿠키에 “SameSite” 속성이 지정되지 않은 경우 “SameSite=Lax”를 기본값으로 간주합니다. 무제한 사용시에는 개발자는 “SameSite=None”을 명확하게 명시해야 합니다.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None은 secure 속성 필요
+experimental-features-cookie-samesite-none-requires-secure2-description = “SameSite=None” 속성을 가진 쿠키에는 secure 속성이 필요합니다. 이 기능에는 “Cookies: SameSite=Lax by default”가 기본값”이 필요합니다.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
