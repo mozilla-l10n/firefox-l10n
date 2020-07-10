@@ -29,6 +29,14 @@ cfr-doorhanger-extension-author = { $name } నుండి
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = సిఫార్సు
+cfr-doorhanger-extension-notification2 = సిఫార్సు
+    .tooltiptext = పొడగింత సిఫార్సు
+    .a11y-announcement = పొడగింత సిఫార్సు అందుబాటులో ఉంది
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = సిఫార్సు
+    .tooltiptext = సౌలభ్యపు సిఫార్సు
+    .a11y-announcement = సౌలభ్యపు సిఫార్సు అందుబాటులో ఉంది
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -137,4 +145,10 @@ cfr-doorhanger-milestone-ok-button = అన్నింటినీ చూడం
 
 
 ## Better PDF message
+
+
+## DOH Message
+
+
+## What's new: Cookies message
 
