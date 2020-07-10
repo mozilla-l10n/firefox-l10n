@@ -17,16 +17,13 @@ experimental-features-web-gpu-description = 對網路圖形與運算的實驗性
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = 對 AVIF（AV1 圖片檔案格式）的實驗性支援
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax by default
-experimental-features-cookie-samesite-lax-by-default-description = 若未指定「sameSite」就將 Cookie 預設設定為「sameSite=lax」。開發者必須明確指定「sameSite=none」才能維持現有行為，不受限制使用 Cookie。
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requires secure attribute
-experimental-features-cookie-samesite-none-requires-secure-description = 使用「sameSite=none」屬性設定的 Cookie 必須再加上 secure 屬性。必須先開啟「Cookies: SameSite=lax by default」才能開啟此功能。
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax by default
+experimental-features-cookie-samesite-lax-by-default2-description = 若未指定「SameSite」屬性，就將 Cookie 預設設定為「SameSite=lax」。開發者必須明確指定「SameSite=None」才能維持現有行為，不受限制使用 Cookie。
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None requires secure attribute
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
