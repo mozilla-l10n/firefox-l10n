@@ -265,4 +265,5 @@ cfr-doorhanger-doh-secondary-button = Znjemóžnić
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Awtomatiski škit před zachribjetnymi slědowanskimi taktikami
+cfr-whatsnew-clear-cookies-body = Někotre přesćěhowaki was k druhim websydłam dale sposrědkuja, kotrež skradźu placki stajeja. { -brand-short-name } nětko te placki awtomatisce haša, zo njeby móžno było, wam slědować.
 cfr-whatsnew-clear-cookies-image-alt = Ilustracija za zablokowany plack
