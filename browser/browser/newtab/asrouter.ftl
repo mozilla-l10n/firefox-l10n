@@ -242,6 +242,8 @@ cfr-whatsnew-better-pdf-body = Los documentos PDF agora s'ubren dreitament en { 
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = La tuya privacidat ye important. Agora lo { -brand-short-name } encamina de forma segura las tuyas solicitutz DNS, siempre que siga posible, a un servicio asociau pa protecher-te mientres navegas.
+cfr-doorhanger-doh-header = Consultas DNS mas seguras y cifradas
 cfr-doorhanger-doh-primary-button = Vale, entendiu
     .accesskey = V
 cfr-doorhanger-doh-secondary-button = Desactivar
@@ -249,4 +251,6 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Protección automatica contra tacticas de seguimiento enganyosas
+cfr-whatsnew-clear-cookies-body = Bell elemento de seguimiento te rediriche ta atras pachinas web que meten cookies secretament. { -brand-short-name } agora borra automaticament ixas cookies pa que no te puedan fer seguimiento.
 cfr-whatsnew-clear-cookies-image-alt = Illustracion d’una cookie blocau
