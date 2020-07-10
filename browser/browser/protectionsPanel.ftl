@@ -76,21 +76,22 @@ protections-panel-site-not-working-view-send-report = Ninviar un informe
 ##
 
 protections-panel-cross-site-tracking-cookies = Estas cookies te siguen de pachina en pachina pa recopilar información sobre la tuya vida en linia. Gosan estar las achencias de publicidat y d'analisi las que las configuran.
-protections-panel-cryptominers = Los criptomineros utilizan la potencia informatica d'o suyo sistema pa obtener diners dichitals. Los scripts de criptominería acotolan la batería d'o suyo ordinador, lo ralentizan y pueden aumentar lo suyo factura d'electricidat.
-protections-panel-fingerprinters = Los detectores de ditaladas recolectan la configuración d'o suyo navegador y lo suyo ordinador pa creyar un perfil de vusté. Usando este detector de ditalada pueden seguir-le a traviés de diferents puestos web.
-protections-panel-tracking-content = Los puestos web pueden cargar anuncios externos, videos y unatro tipo de conteniu gracias a un codigo de rastreyo. Si bloca lo conteniu de rastreyo, los puestos se cargarán mas rapido, pero puede que qualques botons y formularios deixen de funcionar.
+protections-panel-cryptominers = Los criptominers emplegan la potencia informatica d'o tuyo sistema pa obtener diners dichitals. Los scripts de criptominería acotolan la batería d'o tuyo ordinador, lo ralentizan y pueden aumentar la tuya factura d'electricidat.
+protections-panel-fingerprinters = Los detectores de ditaladas dichitals recolectan la configuración d'o tuyo navegador y lo tuyo ordinador pa crear lo tuyo perfil. Fende servir este detector de ditaladas seguir-te a traviés de diferents puestos web.
+protections-panel-tracking-content = Los puestos web pueden cargar anuncios externos, videos y unatro tipo de conteniu gracias a un codigo de seguimiento. Si blocas lo conteniu de seguimiento, los puestos se cargarán mas rapido, pero puede que qualques botons y formularios deixen de funcionar.
+protections-panel-social-media-trackers = Los retz socials plazan elementos de seguimiento en atros puestos web pa seguir lo que fas, lo que veyes y lo que miras en linia. Esto les permite a las companyías de medios socials de saber mas sobre tu, dillá d'o que compartes en os tuyos perfils de retz socials.
 protections-panel-content-blocking-manage-settings =
     .label = Chestionar los achustes de protección
     .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = Informar de problemas con un puesto
-protections-panel-content-blocking-breakage-report-view-description = Si bloca bells rastreadores, puede que qualques puestos deixen de funcionar. Si nos informa d'estes problemas, nos aduyará a amillorar { -brand-short-name }. En ninviar este informe, Mozilla recibirá una URL y información sobre la configuración d'o suyo navegador. <label data-l10n-name="learn-more">Saber mas</label>
+protections-panel-content-blocking-breakage-report-view-description = Si blocas bell elementos de seguimiento, puede que qualques puestos deixen de funcionar. Si nos informas d'estes problemas, nos aduyarás a amillorar { -brand-short-name }. En ninviar este informe, Mozilla recibirá una URL y información sobre la configuración d'o tuyo navegador. <label data-l10n-name="learn-more">Saber mas</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional: describa lo problema
+protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional: describe lo problema
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Opcional: describa lo problema
+    .aria-label = Opcional: describe lo problema
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Cancelar
 protections-panel-content-blocking-breakage-report-view-send-report =
