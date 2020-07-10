@@ -245,3 +245,15 @@ cfr-whatsnew-protections-icon-alt = Kilpikuvake
 
 cfr-whatsnew-better-pdf-header = Parempi PDF-kokemus
 cfr-whatsnew-better-pdf-body = PDF-tiedostot avautuvat nyt suoraan { -brand-short-name(case: "inessive") }, mikä saattaa helpottaa työskentelyäsi.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Yksityisyydelläsi on merkitystä. { -brand-short-name } reitittää nyt DNS-pyynnöt suojatusti, mikäli mahdollista, kumppanipalveluun suojellaksesi sinua, kun selaat verkkoa.
+cfr-doorhanger-doh-header = Turvallisemmat, salatut DNS-haut
+cfr-doorhanger-doh-primary-button = Selvä
+    .accesskey = S
+cfr-doorhanger-doh-secondary-button = Poista käytöstä
+    .accesskey = P
+
+## What's new: Cookies message
+
