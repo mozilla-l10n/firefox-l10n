@@ -1166,6 +1166,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = R
 space-alert-under-5gb-message = A { -brand-short-name } kezd kifogyni a lemezhelyből. A weboldalak tartalma nem feltétlenül jelenik meg helyesen. A lemezhasználat optimalizálásával a böngészés simábbá tehető, olvassa el a „További tudnivalókat”.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Csak HTTPS mód
+httpsonly-description = A HTTPS biztonságos, titkosított kapcsolatot biztosít a { -brand-short-name } és a meglátogatott webhelyek között. A legtöbb webhely támogatja a HTTPS-t, és ha a Csak HTTPS mód engedélyezve van, akkor a { -brand-short-name } HTTPS-re frissíti az összes kapcsolatot.
+httpsonly-learn-more = További tudnivalók
+httpsonly-radio-enabled =
+    .label = A Csak HTTPS mód engedélyezése az összes ablakban
+httpsonly-radio-enabled-pbm =
+    .label = A Csak HTTPS mód engedélyezése csak privát ablakokban
+httpsonly-radio-disabled =
+    .label = Ne engedélyezze a Csak HTTPS módot
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Asztal
