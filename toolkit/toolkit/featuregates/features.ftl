@@ -24,6 +24,7 @@ experimental-features-cookie-samesite-lax-by-default2-description = 若未指定
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=None requires secure attribute
+experimental-features-cookie-samesite-none-requires-secure2-description = 使用「SameSite=None」屬性設定的 Cookie 必須再加上 secure 屬性。必須先開啟「Cookies: SameSite=Lax by default」才能開啟此功能。
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
