@@ -1150,6 +1150,10 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } 的磁碟空間不足，網站內容可能無法正確顯示。請點擊「瞭解更多」清理磁碟空間，讓您有更好的瀏覽體驗。
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = 了解更多
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = 桌面
