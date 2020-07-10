@@ -24,6 +24,7 @@ experimental-features-cookie-samesite-lax-by-default2-description = Behandle inf
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Infokapsel: SameSite=None krever secure-attributt
+experimental-features-cookie-samesite-none-requires-secure2-description = Infokapsler med «SameSite=None»-attributt krever secure-attributt. Denne funksjonen krever «Infokapsel: SameSite=Lax som standard».
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =

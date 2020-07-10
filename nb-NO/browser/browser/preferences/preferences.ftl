@@ -1168,6 +1168,7 @@ space-alert-under-5gb-message = { -brand-short-name } er i ferd med å gå tom f
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Bare HTTPS-modus
 httpsonly-learn-more = Les mer
 
 ## The following strings are used in the Download section of settings
