@@ -23,7 +23,7 @@
 <!ENTITY scrolling.label               "Айналдыру">
 <!ENTITY useAutoScroll.label           "Автоматты айналдыруды қолдану">
 <!ENTITY useAutoScroll.accesskey       "в">
-<!ENTITY useSmoothScrolling.label      "Байсалды айналдыруды қолдану">
+<!ENTITY useSmoothScrolling.label      "Тегіс айналдыруды қолдану">
 <!ENTITY useSmoothScrolling.accesskey  "й">
 
 <!ENTITY systemIntegration.label       "Жүйелік интеграция">

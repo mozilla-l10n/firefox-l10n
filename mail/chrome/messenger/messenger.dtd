@@ -190,7 +190,7 @@
 <!ENTITY sortByPriorityCmd.accesskey "П">
 <!ENTITY sortBySizeCmd.label "Өлшемі">
 <!ENTITY sortBySizeCmd.accesskey "ш">
-<!ENTITY sortByStatusCmd.label "Күй-жайы">
+<!ENTITY sortByStatusCmd.label "Қалып-күйі">
 <!ENTITY sortByStatusCmd.accesskey "ж">
 <!ENTITY sortByTagsCmd.label "Тегтер">
 <!ENTITY sortByTagsCmd.accesskey "г">
@@ -513,7 +513,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "а">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Өндіруші саймандары">
+<!ENTITY devtoolsMenu.label "Әзірлеуші құралдары">
 <!ENTITY devtoolsMenu.accesskey "д">
 <!ENTITY devToolboxCmd.label "Өндірушінің саймандар панелі">
 <!ENTITY devToolboxCmd.accesskey "п">

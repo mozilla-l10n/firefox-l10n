@@ -41,7 +41,6 @@ composition-addressing-header = Адрестеу
 privacy-main-header = Жекелік
 privacy-passwords-header = Парольдер
 privacy-junk-header = Спам
-privacy-data-collection-header = Деректерді жинау және қолдану
 collection-header = { -brand-short-name } деректер жинауы және қолдануы
 collection-description = Біз сізге таңдауды қолыңызға беріп, тек әркім үшін { -brand-short-name } өнімін ұсыну және жақсарту мақсатында керек деректерді жинаймыз. Жеке ақпаратты алу алдында біз әрқашан рұқсатты сұраймыз.
 collection-privacy-notice = Жекелік ескертуі
@@ -95,8 +94,6 @@ addons-button = Кеңейтімдер мен тақырыптар
 
 ## OS Authentication dialog
 
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Басты парольді жасау үшін өзіңізді растаңыз.
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Басты парольді жасау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
 # This message can be seen by trying to add a Master Password.
@@ -191,7 +188,7 @@ autoscroll-label =
     .label = Автоматты айналдыруды қолдану
     .accesskey = в
 smooth-scrolling-label =
-    .label = Байсалды айналдыруды қолдану
+    .label = Тегіс айналдыруды қолдану
     .accesskey = й
 system-integration-legend = Жүйелік интеграция
 always-check-default =
@@ -701,3 +698,6 @@ search-results-empty-message =
        *[other] Кешіріңіз! Баптауларда "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
     }
 search-results-help-link = Көмек керек пе? <a data-l10n-name="url">{ -brand-short-name } қолдауы</a> шолыңыз
+
+## Preferences UI Search Results
+
