@@ -56,3 +56,4 @@ sslv3Used-title = సురక్షితంగా అనుసంధానం 
 inadequateSecurityError-title = మీ అనుసంధానం సురక్షితమైనది కాదు
 blockedByPolicy-title = నిరోధించిన పేజీ
 clockSkewError-title = మీ కంప్యూటర్ గడియారం తప్పు
+nssBadCert-sts-title = అనుసంధానం కాలేదు: సంభావ్య భద్రతా సమస్య
