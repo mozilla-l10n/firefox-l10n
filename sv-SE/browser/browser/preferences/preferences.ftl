@@ -1166,6 +1166,17 @@ space-alert-under-5gb-ok-button =
     .accesskey = k
 space-alert-under-5gb-message = { -brand-short-name } håller på att få slut på diskutrymme. Webbplatsens innehåll kanske inte visas korrekt. Besök “Läs mer” för att optimera din diskanvändning för en bättre webbupplevelse.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = HTTPS-endast-läge
+httpsonly-learn-more = Läs mer
+httpsonly-radio-enabled =
+    .label = Aktivera HTTPS-endast-läge i alla fönster
+httpsonly-radio-enabled-pbm =
+    .label = Aktivera endast HTTPS-läge i privata fönster endast
+httpsonly-radio-disabled =
+    .label = Aktivera inte HTTPS-endast-läge
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivbord
