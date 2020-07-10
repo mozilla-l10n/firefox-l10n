@@ -114,63 +114,63 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Navega mas rapido, de traza mas intelichent u segura, con extensions como Ghostery, que te permitan de blocar anuncios molestos.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
-onboarding-fxa-text = se Rechistre pa tener una { -fxaccount-brand-name } y sincronice los suyos marcadors, claus y pestanyas ubiertas allá an utilice { -brand-short-name }
-onboarding-tracking-protection-title2 = Protección contra rastreyo
-onboarding-tracking-protection-text2 = { -brand-short-name } le aduya a impedir que los puestos le rastreyen en linia, per lo que será mas dificil que la publicidat le siga mientres navega.
+onboarding-fxa-text = Rechistra-te pa tener una { -fxaccount-brand-name } y sincroniza los tuyos marcadors, claus y pestanyas ubiertas allá an que emplegues { -brand-short-name }
+onboarding-tracking-protection-title2 = Protección contra seguimiento
+onboarding-tracking-protection-text2 = { -brand-short-name } te aduya a privar que los puestos te fagan seguimiento en linia, per lo que será mas dificil que la publicidat te siga mientres navegas.
 onboarding-tracking-protection-button2 = Cómo funciona
-onboarding-data-sync-title = Leve los suyos achustes aconsigo
+onboarding-data-sync-title = Leva-te los tuyos achustes con tu
 # "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Sincronice los suyos marcadors, claus y muito mas an quiera que use { -brand-product-name }.
-onboarding-data-sync-button2 = Encetar sesión en { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Mantente a lo día sobre las filtracions de datos
+onboarding-data-sync-text2 = Sincroniza los suyos marcapachinas, claus y muito mas an quiera que uses { -brand-product-name }.
+onboarding-data-sync-button2 = Inisicar sesión en { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Mantiene-te a lo día sobre las filtracions de datos
 onboarding-firefox-monitor-text = { -monitor-brand-name } compreba si la tuya adreza de correu ha amaneixiu en una filtración de datos y te grita si torna a amaneixer.
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } controla si la suya adreza de correu amaneixió en una filtración de datos conoixida y le grita si amaneixe en una nueva filtración.
-onboarding-firefox-monitor-button = Suscríbase pa recibir alertas
-onboarding-browse-privately-title = Navegue de forma privada
-onboarding-browse-privately-text = La navegación privada elimina la tuya historial de busquedas y de navegación pa que dengún que use la tuya equipo tienga acceso a ells.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } controla si la tuya adreza de correu amaneixió en una filtración de datos conoixida y te grita si amaneixe en una nueva filtración.
+onboarding-firefox-monitor-button = Subscribe-te pa recibir alertas
+onboarding-browse-privately-title = Navega de forma privada
+onboarding-browse-privately-text = La navegación privada elimina lo tuyo historial de busquedas y de navegación pa que dengún que use lo tuya equipo tienga acceso a ell.
 onboarding-browse-privately-button = Ubrir una finestra privada
-onboarding-firefox-send-title = Mantienga privaus los suyos fichers compartius
-onboarding-firefox-send-text2 = Puye los suyos fichers a { -send-brand-name } pa compartir-los con zifrau de cabo a cabo y un vinclo que expira automaticament.
-onboarding-firefox-send-button = Prebe { -send-brand-name }
-onboarding-mobile-phone-title = Aconsiga { -brand-product-name } en o suyo telefono
-onboarding-mobile-phone-text = Descargue { -brand-product-name } pa iOS u Android y sincronice la suya información en totz los dispositivos.
+onboarding-firefox-send-title = Mantiene privaus los tuyos fichers compartius
+onboarding-firefox-send-text2 = Puya los tuyos fichers a { -send-brand-name } pa compartir-los con cifrau de cabo a cabo y un vinclo que expira automaticament.
+onboarding-firefox-send-button = Preba { -send-brand-name }
+onboarding-mobile-phone-title = Consigue { -brand-product-name } en o tuyo telefono
+onboarding-mobile-phone-text = Descarga { -brand-product-name } pa iOS u Android y sincroniza la tuya información en totz los dispositivos.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Descargar navegador mobil
-onboarding-send-tabs-title = se Ninvie las pestanyas instantaniament
+onboarding-send-tabs-title = Ninvia-te las pestanyas instantaniament
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Send Tabs comparte pachinas de forma instantania entre los suyos dispositivos sin copiar, apegar ni abandonar lo navegador.
+onboarding-send-tabs-text = Send Tabs comparte pachinas de forma instantania entre los tuyos dispositivos sin copiar, apegar ni abandonar lo navegador.
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text2 = Comparta facilment pachinas entre los suyos dispositivos sin haber de que copiar vinclos u salir d'o navegador.
+onboarding-send-tabs-text2 = Comparte facilment pachinas entre los tuyos dispositivos sin haber de copiar vinclos ni salir d'o navegador.
 onboarding-send-tabs-button = Empecipia a usar Send Tabs
-onboarding-pocket-anywhere-title = Lee y escuita sía an sía
-onboarding-pocket-anywhere-text2 = Alce lo suyo conteniu favorito sin connexión gracias a l'aplicación de { -pocket-brand-name } y lo leiga, l'escuite u lo veiga án y quán millor le convienga.
+onboarding-pocket-anywhere-title = Leye y escuita sías an que sías
+onboarding-pocket-anywhere-text2 = Alza lo tuyo conteniu favorito sin connexión gracias a l'aplicación de { -pocket-brand-name } y leye-lo, escuita-lo y mira-lo án que te convienga.
 onboarding-pocket-anywhere-button = Prebe { -pocket-brand-name }
-onboarding-lockwise-passwords-title = se Leve las suyas claus aconsigo a totas partes
+onboarding-lockwise-passwords-title = Leva-te las tuyas claus con tu a totas partes
 onboarding-lockwise-passwords-text2 = Mantienga seguras las claus que alza y enciete sesión facilment en as suyas cuentas con { -lockwise-brand-name }.
-onboarding-lockwise-passwords-button2 = Aconseguir l'aplicación
-onboarding-lockwise-strong-passwords-title = Creyar y almagazenar claus seguras
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } creya claus seguras en l'acto y las alza en un solo puesto.
-onboarding-lockwise-strong-passwords-button = Administrar las suyas credencials
-onboarding-facebook-container-title = Estableixca limites con Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } desepara la suya identidat de Facebook de tot o de demás, dificultando asinas que Facebook pueda amostrar-le publicidat personalizada.
-onboarding-facebook-container-button = Adhibir extensión
-onboarding-import-browser-settings-title = Importe los suyos marcadors, claus y mas
-onboarding-import-browser-settings-text = se Capuce de pleno: leve facilment los suyos puestos y configuracions de Chrome con vusté.
+onboarding-lockwise-passwords-button2 = Obtiene l'aplicación
+onboarding-lockwise-strong-passwords-title = Crear y almagazenar claus seguras
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crea claus seguras en l'acto y las alza en un solo puesto.
+onboarding-lockwise-strong-passwords-button = Administrar las tuyas credencials
+onboarding-facebook-container-title = Estableixe limites con Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } desepara la tuya identidat de Facebook de tot o de demás, dificultando asinas que Facebook pueda amostrar-le publicidat personalizada.
+onboarding-facebook-container-button = Anyadir extensión
+onboarding-import-browser-settings-title = Importa los tuyos marcadors, claus y mas
+onboarding-import-browser-settings-text = Capuza-te de tot: leva-te facilment con tu los tuyos puestos y configuracions de Chrome.
 onboarding-import-browser-settings-button = Importar datos de Chrome
 onboarding-personal-data-promise-title = Privau per disenyo
-onboarding-personal-data-promise-text = { -brand-product-name } tracta los suyos datos con respecto recopilando menos, protechendo-los y indicando clarament cómo los usamos.
-onboarding-personal-data-promise-button = Leiga la nuestra promesa
+onboarding-personal-data-promise-text = { -brand-product-name } tracta los tuyos datos con respecto recopilando menos, protechendo-los y indicando clarament cómo los usamos.
+onboarding-personal-data-promise-button = Leye la nuestra promesa
 
 ## Message strings belonging to the Return to AMO flow
 
-return-to-amo-sub-header = Bien! Ya tiene { -brand-short-name }
+return-to-amo-sub-header = Bien! Ya tiens { -brand-short-name }
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Agora obtienga <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-addon-header = Agora obtiene <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Anyadir la extensión
 return-to-amo-get-started-button = Prencipiar con { -brand-short-name }
