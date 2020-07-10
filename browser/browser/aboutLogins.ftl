@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ანგარიშები და პაროლები
@@ -32,6 +27,7 @@ menu =
     .title = მენიუს გახსნა
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = გადმოტანა სხვა ბრაუზერიდან…
+about-logins-menu-menuitem-import-from-a-file = ფაილიდან გადმოტანა…
 about-logins-menu-menuitem-export-logins = მონაცემების გატანა…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -72,12 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = ანგარიშის შენახულ მონაცემებს ეძებთ? გამართეთ { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = თქვენი ანგარიშების შენახულ მონაცემებს ეძებთ? გამართეთ { -sync-brand-short-name } ან გადმოიტანეთ.
 about-logins-login-intro-heading-logged-in = დასინქრონებული ანგარიშები ვერ მოიძებნა.
 login-intro-description = თუ თქვენს მონაცემებს { -brand-product-name } სხვა მოწყობილობაზე ინახავს, ნახეთ როგორ უნდა გადმოიტანოთ აქ:
 login-intro-instruction-fxa = შედით ან შექმენით { -fxaccount-brand-name } იმ მოწყობილობიდან, რომელზეც თქვენი ანგარიშები ინახება
 login-intro-instruction-fxa-settings = დარწმუნდით, რომ მონიშნული გაქვთ ანგარიშების უჯრა { -sync-brand-short-name(case: "gen") } პარამეტრებში
 about-logins-intro-instruction-help = იხილეთ <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-მხარდაჭერის</a> გვერდი, დახმარების მისაღებად
 about-logins-intro-import = თუ თქვენი ანგარიშების მონაცემებ, სხვა ბრაუზერში ინახება, შეგიძლიათ <a data-l10n-name="import-link">გადმოიტანოთ { -lockwise-brand-short-name }-ში</a>
+about-logins-intro-import2 = თუ თქვენი ანგარიში მონაცემებს { -brand-product-name } არ ინახავდა, შეგიძლიათ <a data-l10n-name="import-browser-link">გადმოიტანოთ სხვა ბრაუზერიდან</a> ან <a data-l10n-name="import-file-link">პირდაპირ ფაილიდან</a>
 
 ## Login
 
@@ -213,6 +211,19 @@ about-logins-export-file-picker-export-button = გატანა
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-დოკუმენტი
+       *[other] CSV-ფაილი
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = მონაცემების ფაილის გადმოტანა
+about-logins-import-file-picker-import-button = გადმოტანა
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-დოკუმენტი
        *[other] CSV-ფაილი
