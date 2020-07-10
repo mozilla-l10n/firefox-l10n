@@ -20,7 +20,7 @@ cfr-doorhanger-extension-ok-button = Anyadir agora
 cfr-doorhanger-pintab-ok-button = Fixar esta pestanya
     .accesskey = A
 cfr-doorhanger-extension-manage-settings-button = Administrar achustes de recomendacions
-    .accesskey = #m
+    .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = No amostrar-me esta recomendación
     .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Saber-ne mas
@@ -71,9 +71,9 @@ cfr-doorhanger-pintab-animation-resume = Continar
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = Sincronice los suyos marcadors sía an sía.
-cfr-doorhanger-bookmark-fxa-body = Buena troballa! Agora no se quede sin este marcador en os suyos dispositivos mobils. Empecipie con una { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-link-text = Sincronizando marcadors...
+cfr-doorhanger-bookmark-fxa-header = Sincronice los suyos marcapachinas sía an sía.
+cfr-doorhanger-bookmark-fxa-body = Buena troballa! Agora no se quede sin este marcapachinas en os suyos dispositivos mobils. Empecipie con una { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronizando marcapachinas...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Zarrar botón
     .title = Zarrar
@@ -81,7 +81,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Navegue sin que le sigan
-cfr-protections-panel-body = Alce los suyos datos nomás pa vusté. { -brand-short-name } le proteche de muitos d'os rastreadores mas comuns que espían lo que fa en linia.
+cfr-protections-panel-body = Alce los suyos datos nomás pa vusté. { -brand-short-name } le proteche de muitos d'os elementos de seguimiento mas comuns que espían lo que fa en linia.
 cfr-protections-panel-link-text = Saber mas
 
 ## What's New toolbar button and panel
@@ -95,11 +95,11 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Novedatz
 cfr-whatsnew-release-notes-link-text = Consulte las notas de lanzamiento
 cfr-whatsnew-fx70-title = Agora, { -brand-short-name } luita mas en pro d'a suya privacidat
-cfr-whatsnew-fx70-body = La zaguera actualización amillora la función de protección contra rastreyo y fa que sía mas facil que nunca la creyación de claus seguras pa cada puesto.
-cfr-whatsnew-tracking-protect-title = se Protecha d'os rastreadores
+cfr-whatsnew-fx70-body = La zaguera actualización millora la función de protección contra seguimiento y fa que sía mas facil que nunca la creación de claus seguras pa cada puesto.
+cfr-whatsnew-tracking-protect-title = Se protecha d'os elementos de seguimiento
 cfr-whatsnew-tracking-protect-body =
-    { -brand-short-name } bloca los rastreadores socials y entre puestos mas comuns que
-    le rastreyan mientres navega.
+    { -brand-short-name } bloca los elementos de seguimiento socials y entre puestos mas comuns que
+    le fan seguimiento mientres navega.
 cfr-whatsnew-tracking-protect-link-text = Veyer lo suyo informe
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -107,7 +107,7 @@ cfr-whatsnew-tracking-protect-link-text = Veyer lo suyo informe
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
         [one] Rastreador bloqueado
-       *[other] Rastreadores bloqueados
+       *[other] Elementos de seguimiento bloqueados
     }
 cfr-whatsnew-tracking-blocked-subtitle = Dende { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Veyer informe
@@ -126,9 +126,9 @@ cfr-whatsnew-searchbar-icon-alt-text = Icono de lupa
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-header = Veiga las suyas vídeos mientres navega
-cfr-whatsnew-pip-body = La función picture-in-picture amuestra lo vídeo en una finestra flotant pa que pueda veyer-lo mientres treballa en atras pestanyas.
-cfr-whatsnew-pip-cta = Saber mas
+cfr-whatsnew-pip-header = Veiga los suyos videos mientres navega
+cfr-whatsnew-pip-body = La función picture-in-picture amuestra lo video en una finestra flotant pa que pueda veyer-lo mientres treballa en atras pestanyas.
+cfr-whatsnew-pip-cta = Saber-ne mas
 
 ## Permission Prompt
 
@@ -143,18 +143,18 @@ cfr-whatsnew-permission-prompt-cta = Saber mas
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
-        [one] Detector de huellas digitales bloqueado
-       *[other] Detectores de huellas digitales bloqueados
+        [one] Detector de ditaladas dichitals blocau
+       *[other] Detectors de ditaladas dichitals blocaus
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } bloca muitos detectores de ditaladas (fingerprinters) que recopilan en secreto información sobre lo suyo dispositivo y accions, pa creyar un perfil suyo con fins publicitarias.
 # Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } puede blocar muitos detectores de ditaladas (fingerprinters) que recopilan en secreto información sobre lo suyo dispositivo y accions, pa creyar un perfil suyo con fins publicitarias.
+cfr-whatsnew-fingerprinter-counter-header-alt = Ditaladas dichitals
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } puede blocar muitos detectores de ditaladas dichitals (fingerprinters) que recopilan en secreto información sobre lo suyo dispositivo y accions, pa creyar un perfil suyo con fins publicitarias.
 
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-header = Obtener este marcador en o suyo telefono
-cfr-doorhanger-sync-bookmarks-body = Leve los suyos marcadors, claus, historial y mas a totas partes an enciete sesión en { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-header = Obtener este marcapachinas en o suyo telefono
+cfr-doorhanger-sync-bookmarks-body = Leve los suyos marcapachinas, claus, historial y mas a totas partes an enciete sesión en { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
     .accesskey = T
 
@@ -167,8 +167,8 @@ cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
 
 ## Send Tab
 
-cfr-doorhanger-send-tab-header = lo Leiga en qualsequier momento
-cfr-doorhanger-send-tab-recipe-header = se Leve esta receta a la cocina
+cfr-doorhanger-send-tab-header = Lo leiga en qualsequier momento
+cfr-doorhanger-send-tab-recipe-header = Se leve esta receta a la cocina
 cfr-doorhanger-send-tab-body = Send Tab le permite compartir este vinclo con o suyo telefono u con qualsequier dispositivo en o qual haiga encetau sesión con { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Prebar Send Tab
     .accesskey = T
@@ -188,10 +188,10 @@ cfr-doorhanger-socialtracking-close-button = Zarrar
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = No tornar a amostrar mensaches como este
     .accesskey = N
-cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió que un ret social le rastriase dica aquí
-cfr-doorhanger-socialtracking-description = La suya privacidat importa. Agora, { -brand-short-name } bloca los rastreadores de retz socials mas comuns, limitando la cantidat de datos que pueden recopilar sobre lo que fa en linia.
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blocó un detector de ditaladas en esta pachina
-cfr-doorhanger-fingerprinters-description = La suya privacidat ye important. { -brand-short-name } agora bloca los detectores de ditaladas, que recopilan piezas d'información que identifican de forma sola a lo suyo dispositivo pa poder rastriar-lo.
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió que un ret social le seguise dica aquí
+cfr-doorhanger-socialtracking-description = La suya privacidat importa. Agora, { -brand-short-name } bloca los elementos de seguimiento de retz socials mas comuns, limitando la cantidat de datos que pueden recopilar sobre lo que fa en linia.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blocó un detector de ditaladas dichitals en esta pachina
+cfr-doorhanger-fingerprinters-description = La suya privacidat ye important. { -brand-short-name } agora bloca los detectores de ditaladas, que recopilan piezas d'información que identifican de forma sola a lo suyo dispositivo pa poder seguir-lo.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } blocó un criptominero en esta pachina
 cfr-doorhanger-cryptominers-description = La suya privacidat ye important. { -brand-short-name } agora bloca los criptomineros, que utilizan la potencia informatica d'o suyo sistema pa extrayer diners dichitals.
 
@@ -202,7 +202,7 @@ cfr-doorhanger-cryptominers-description = La suya privacidat ye important. { -br
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
-       *[other] ¡{ -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> rastreadores desde { $date }!
+       *[other] ¡{ -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> elementos de seguimiento desde { $date }!
     }
 cfr-doorhanger-milestone-ok-button = Veyer tot
     .accesskey = V
@@ -242,6 +242,11 @@ cfr-whatsnew-better-pdf-body = Los documentos PDF agora s'ubren dreitament en { 
 
 ## DOH Message
 
+cfr-doorhanger-doh-primary-button = Vale, entendiu
+    .accesskey = V
+cfr-doorhanger-doh-secondary-button = Desactivar
+    .accesskey = D
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-image-alt = Illustracion d’una cookie blocau
