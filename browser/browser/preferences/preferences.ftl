@@ -55,6 +55,7 @@ category-experimental =
     .tooltiptext = Experiéncias de { -brand-short-name }
 pane-experimental-subtitle = Agissètz amb prudéncia
 pane-experimental-search-results-header = Experiéncias de { -brand-short-name } : siatz atentiu
+pane-experimental-description = Cambiar las configuracions avançadas pòt influenciar las performanças o la seguretat de { -brand-short-name }.
 help-button-label = Assisténcia de { -brand-short-name }
 addons-button-label = Extensions e tèmas
 focus-search =
@@ -1167,7 +1168,14 @@ space-alert-under-5gb-message = { -brand-short-name } a pas mai d'espaci disc. L
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Mòde HTTPS solament
 httpsonly-learn-more = Ne saber mai
+httpsonly-radio-enabled =
+    .label = Activar lo mòde HTTPS solament dins totas las fenèstras
+httpsonly-radio-enabled-pbm =
+    .label = Activar lo mòde HTTPS solament dins totas las fenèstras privadas
+httpsonly-radio-disabled =
+    .label = Activar pas lo mòde HTTS solament
 
 ## The following strings are used in the Download section of settings
 
