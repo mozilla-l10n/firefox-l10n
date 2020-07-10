@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] Lo { -brand-short-name } ha blocau { $count } elemento de seguimiento en a semana passada
+       *[other] Lo { -brand-short-name } ha blocau { $count }  elementos de seguimiento en a semana passada
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] S'ha blocau <b>{ $count }</b> elemento de seguimiento dende { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] S'ha blocau <b>{ $count }</b> elementos de seguimiento dende { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } sigue blocando elementos de seguimiento en finestras privadas, pero no mantiene un rechistro d'o que se blocó.
 # Weekly summary of the graph when the graph is empty in Private Mode
@@ -50,22 +66,54 @@ protection-report-manage-passwords-button = Administrar claus
 lockwise-mobile-app-title = Leve las suyas claus a totas partes
 lockwise-no-logins-card-content = Use claus alzadas en { -brand-short-name } en qualsequier dispositivo.
 lockwise-app-links = { -lockwise-brand-name } pa <a data-l10n-name="lockwise-android-inline-link">Android</a> y <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 clau puede haber estau exposada en una filtración de datos.
+       *[other] { $count } claus pueden haber estau exposadas en una filtración de datos.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 clau almagazenada de traza segura.
+       *[other] Las tuyas claus s'algamazenan de traza segura.
+    }
 lockwise-how-it-works-link = Cómo funciona
 turn-on-sync = Activar { -sync-brand-short-name }...
     .title = Ir a las preferencias de sincronización
 monitor-title = Buscar filtracions de datos
 monitor-link = Cómo funciona
-monitor-header-content-no-account = Consulte { -monitor-brand-name } pa veyer si los suyos datos amaneixen en una filtración de datos y reciba alertas sobre nuevas filtracions.
+monitor-header-content-no-account = Consulta { -monitor-brand-name } pa veyer si los tuyos datos amaneixen en garra filtración de datos y recibe alertas sobre nuevas filtracions.
 monitor-header-content-signed-in = { -monitor-brand-name } le advierte si la suya información ha amaneixiu en una filtración de datos conoixida.
 monitor-sign-up-link = Suscribir-se a las alertas de filtracions
     .title = Suscribir-se a las alertas de filtracions en { -monitor-brand-name }
-auto-scan = S'escanió automaticament hue
+auto-scan = S'ha escaniau hue automaticament
 monitor-emails-tooltip =
     .title = Veyer las adrezas de correu electronico supervisadas en { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Veyer filtracions de datos conoixidas en { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Veyer claus exposadas en { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] adreza electronica supervisada
+       *[other] adrezas electronicas supervisadas
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] filtración de datos conoixida ha exposau información tuya
+       *[other] filtracions de datos conoixidas han exposau información tuya
+    }
 monitor-no-breaches-title = Buenas noticias!
 monitor-no-breaches-description = No tiene filtracions conoixidas. Si ixo cambia, #le lo feremos saber.
 monitor-view-report-link = Veyer l'informe
@@ -93,3 +141,17 @@ monitor-resolve-breaches-link = Resolver filtracions
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-fingerprinter =
+    .title = Ditaladas dichitals
+    .aria-label =
+        { $count ->
+            [one] { $count } ditalada dichital ({ $percentage }%)
+           *[other] { $count } ditalada dichital ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Criptominers
+    .aria-label =
+        { $count ->
+            [one] { $count } Criptominero ({ $percentage }%)
+           *[other] { $count } Criptominers ({ $percentage }%)
+        }
