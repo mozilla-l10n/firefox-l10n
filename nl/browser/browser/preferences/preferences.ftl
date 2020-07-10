@@ -1166,6 +1166,10 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } heeft bijna geen schijfruimte meer. Inhoud van websites wordt mogelijk niet goed weergegeven. Bezoek ‘Meer info’ om uw schijfgebruik te optimaliseren voor betere prestaties.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Meer info
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Bureaublad
