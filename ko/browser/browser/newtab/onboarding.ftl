@@ -44,6 +44,16 @@ onboarding-start-browsing-button-label = 탐색 시작
 onboarding-cards-dismiss =
     .title = 닫기
     .aria-label = 닫기
+# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
+# This support welcome screen showing top sites imported from the user's default browser.
+# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
+onboarding-import-sites-info =
+    .title =
+        이 기기에서 이 사이트들을 찾았습니다.
+        사용자가 가져오도록 선택하지 않는 한,
+        { -brand-short-name }는 다른 브라우저로부터
+        데이터를 저장하거나 동기화하지 않습니다.
+    .aria-label = { onboarding-import-sites-info.title }
 
 ## Welcome full page string
 
