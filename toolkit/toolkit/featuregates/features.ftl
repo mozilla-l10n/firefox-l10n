@@ -29,3 +29,4 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Placki
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = startowy pufrowak about:cache
+experimental-features-abouthome-startup-cache-description = Pufrowak za spočatny dokument about:home, kotryž so po standardźe při startowanju začituje. Zaměr pufrowaka je, startowy wukon polěpšić.
