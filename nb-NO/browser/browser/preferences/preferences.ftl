@@ -1166,6 +1166,10 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } er i ferd med å gå tom for plass på disken. Det kan hende at innholdet på nettsiden ikke vises ordentlig. Gå til «Les mer» for å optimalisere diskbruken din for en bedre nettleseropplevelse.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Les mer
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord
