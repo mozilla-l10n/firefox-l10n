@@ -24,9 +24,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "Пернетақта жарлықтары">
 <!ENTITY helpKeyboardShortcuts.accesskey "е">
 
-<!ENTITY helpSafeMode.label       "Сөндірілген кеңейтулермен қайта қосу…">
+<!ENTITY helpSafeMode.label       "Сөндірілген қосымшалармен қайта қосу…">
 <!ENTITY helpSafeMode.accesskey   "р">
-<!ENTITY helpSafeMode.stop.label       "Сөндірілген кеңейтулермен қайта қосу">
+<!ENTITY helpSafeMode.stop.label       "Іске қосылған қосымшалармен қайта қосу">
 <!ENTITY helpSafeMode.stop.accesskey   "р">
 
 <!ENTITY helpTroubleshootingInfo.label      "Техникалық ақпарат">

@@ -1162,8 +1162,8 @@ space-alert-over-5gb-message =
        *[other] { -brand-short-name } үшін бос орын аяқталуда. Вебсайттар құрамасы дұрыс көрсетілмеуі мүмкін. Сіз сайттардың сақталған деректерін Баптаулар > Жекелік және қауіпсіздік > Cookies файлдары және сайттар деректері ішінде өшіре аласыз.
     }
 space-alert-under-5gb-ok-button =
-    .label = ОК, түсіндім
-    .accesskey = О
+    .label = Жақсы, түсіндім
+    .accesskey = а
 space-alert-under-5gb-message = { -brand-short-name } үшін бос орын аяқталуда. Вебсайттар құрамасы дұрыс көрсетілмеуі мүмкін. "Көбірек білу" сілтемесін ашып, интернетті ыңғайлы шолу үшін диск қолданылуын қалай баптау керек екенін білуіңізге болады.
 
 ## The following strings are used in the Download section of settings
