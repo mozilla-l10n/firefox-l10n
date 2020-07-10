@@ -21,7 +21,7 @@
 <!ENTITY email.error                     "Эл. пошта адресі қате">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "П">
-<!ENTITY password.placeholder            "Паролі">
+<!ENTITY password.placeholder            "Пароль">
 <!ENTITY password.text                   "Міндетті емес, тек пайдаланушы атын растау үшін керек">
 <!ENTITY password.toggle                 "Парольді көрсету/жасыру">
 <!ENTITY rememberPassword.label          "Парольді есте сақтау">
