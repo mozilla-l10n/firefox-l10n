@@ -114,6 +114,30 @@ info-known-breaches-found =
         [one] filtración de datos conoixida ha exposau información tuya
        *[other] filtracions de datos conoixidas han exposau información tuya
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] filtración de datos conoixida marcada como resuelta
+       *[other] filtracions de datos conoixidas marcadas como resueltas
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] clau exposada entre totas las filtracions
+       *[other] claus exposadas entre totas las filtracions
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] clau exposada en filtracions no resueltas
+       *[other] claus exposadas en filtracions no resueltas
+    }
 monitor-no-breaches-title = Buenas noticias!
 monitor-no-breaches-description = No tiene filtracions conoixidas. Si ixo cambia, #le lo feremos saber.
 monitor-view-report-link = Veyer l'informe
@@ -124,6 +148,15 @@ monitor-breaches-unresolved-description =
     la suya información, puede marcar las filtracions como resueltas.
 monitor-manage-breaches-link = Chestionar filtracions
     .title = Chestiona filtracions en { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Muit bien! Has resuelto totas las filtracions conoixidas.
+monitor-breaches-resolved-description = Si lo tuyo correu amaneix en qualsequier atra filtración, te'n faremos sabedor.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } de { $numBreaches } filtracions marcadas com a resueltas
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% completo
@@ -141,12 +174,33 @@ monitor-resolve-breaches-link = Resolver filtracions
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Elementos de seguimiento de retz socials
+    .aria-label =
+        { $count ->
+            [one] { $count } elemento de seguimiento de retz socials ({ $percentage }%)
+           *[other] { $count } elementos de seguimiento de retz socials ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cookies de seguimient entre webs
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie de seguimient entre webs ({ $percentage }%)
+           *[other] { $count } cookies de seguimient entre webs ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Conteniu que fa seguimiento
+    .aria-label =
+        { $count ->
+            [one] { $count } contenius que fa seguimiento ({ $percentage }%)
+           *[other] { $count } contenius que fa seguimiento ({ $percentage }%)
+        }
 bar-tooltip-fingerprinter =
     .title = Ditaladas dichitals
     .aria-label =
         { $count ->
             [one] { $count } ditalada dichital ({ $percentage }%)
-           *[other] { $count } ditalada dichital ({ $percentage }%)
+           *[other] { $count } ditaladas dichitals ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Criptominers
