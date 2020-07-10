@@ -17,16 +17,14 @@ experimental-features-web-gpu-description = Experimentele API voor afbeeldingen 
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Experimentele ondersteuning voor AVIF: AV1 Image File-opmaak
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax by default
-experimental-features-cookie-samesite-lax-by-default-description = Cookies standaard als ‘sameSite=lax’ behandelen als er geen attribuut voor ‘sameSite’ is gespecificeerd. Ontwikkelaars moeten de huidige status quo van onbeperkt gebruik bewust instellen door expliciet ‘sameSite=none’ vast te leggen.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requires secure attribute
-experimental-features-cookie-samesite-none-requires-secure-description = Voor cookies met attribuut ‘sameSite=none’ is het veilige attribuut vereist. Deze functie vereist ‘Cookies: SameSite=lax by default’.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax als standaard
+experimental-features-cookie-samesite-lax-by-default2-description = Cookies standaard als ‘SameSite=Lax’ behandelen als er geen attribuut voor ‘SameSite’ is gespecificeerd. Ontwikkelaars moeten de huidige status quo van onbeperkt gebruik bewust instellen door expliciet ‘SameSite=None’ vast te leggen.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None vereist een veilig attribuut
+experimental-features-cookie-samesite-none-requires-secure2-description = Voor cookies met attribuut ‘SameSite=None’ is het veilige attribuut vereist. Deze functie vereist ‘Cookies: SameSite=Lax als standaard’.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
