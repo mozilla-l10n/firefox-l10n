@@ -125,10 +125,10 @@ sandbox-sys-call-number = სისტემური გამოძახე�
 sandbox-sys-call-args = არგუმენტები
 safe-mode-title = სცადეთ უსაფრთხო რეჟიმი
 restart-in-safe-mode-label = ხელახლა გაშვება გამორთული დამატებებით...
-clear-startup-cache-title = გაშვების დროებითი მეხსიერების გასუფთავება
-clear-startup-cache-label = გაშვების დროებითი მეხსიერების გასუფთავება…
-startup-cache-dialog-title = გაშვების დროებითი მეხსიერების გასუფთავება
-startup-cache-dialog-body = ხელახლა ჩართეთ { -brand-short-name } რომ გასუფთავდეს გაშვების დროებითი მეხსიერება. ეს არ შეცვლის თქვენს პარამეტრებს და არ მოაცილებს გაფართოებებს, რომლებსაც იყენებს { -brand-short-name }.
+clear-startup-cache-title = სცადეთ გაშვების კეშის გასუფთავება
+clear-startup-cache-label = გაშვების კეშის გასუფთავება…
+startup-cache-dialog-title = გაშვების კეშის გასუფთავება
+startup-cache-dialog-body = ხელახლა ჩართეთ { -brand-short-name } რომ გასუფთავდეს გაშვების დროებითი მონაცემები. ეს არ შეცვლის თქვენს პარამეტრებს და არ მოაცილებს გაფართოებებს, რომლებსაც იყენებს { -brand-short-name }.
 restart-button-label = ხელახლა გაშვება
 
 ## Media titles
@@ -306,7 +306,7 @@ sandbox-proc-type-content = შიგთავსი
 sandbox-proc-type-file = ფაილის შიგთავსი
 sandbox-proc-type-media-plugin = მედიის მოდული
 sandbox-proc-type-data-decoder = მონაცემთა გამშიფრავი
-startup-cache-title = დროებითი საცავი გაშვებისთვის
+startup-cache-title = გაშვების კეში
 startup-cache-disk-cache-path = დისკის დროებითი საცავის მისამართი
 startup-cache-ignore-disk-cache = დისკის დროებითი საცავის უგულებელყოფა
 startup-cache-found-disk-cache-on-init = ნაპოვნია დისკის დროებითი საცავი Init-ზე
