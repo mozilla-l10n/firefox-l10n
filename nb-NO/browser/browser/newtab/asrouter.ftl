@@ -257,4 +257,6 @@ cfr-doorhanger-doh-secondary-button = Slå av
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Automatisk beskyttelse mot lure sporingsmetoder
 cfr-whatsnew-clear-cookies-body = Noen sporere viderekobler deg til andre nettsteder som i hemmelighet setter infokapsler. { -brand-short-name } fjerner nå automatisk infokapslene slik at du ikke kan bli sporet.
+cfr-whatsnew-clear-cookies-image-alt = Illustrasjon for blokkert infokapsel
