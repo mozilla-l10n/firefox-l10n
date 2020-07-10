@@ -17,16 +17,14 @@ experimental-features-web-gpu-description = API experimental para gráficos e co
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Suporte experimental para AVIF: formato de arquivo de imagem AV1
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax por padrão
-experimental-features-cookie-samesite-lax-by-default-description = Tratar cookies por padrão como “sameSite=lax”, se nenhum atributo “sameSite” for especificado. Desenvolvedores devem aceitar a situação atual de uso irrestrito, impondo explicitamente “sameSite=none”.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requer atributo seguro
-experimental-features-cookie-samesite-none-requires-secure-description = Cookies com atributo “sameSite=none” requerem o atributo seguro. Esse recurso requer “Cookies: SameSite=lax por padrão”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax por padrão
+experimental-features-cookie-samesite-lax-by-default2-description = Tratar cookies por padrão como "SameSite=Lax", se nenhum atributo "SameSite" for especificado. Os desenvolvedores devem aceitar o status quo atual de uso irrestrito, impondo explicitamente "SameSite=None".
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None requer atributo seguro
+experimental-features-cookie-samesite-none-requires-secure2-description = Cookies com o atributo "SameSite=None" requerem o atributo seguro. Esse recurso requer "Cookies: SameSite=Lax por padrão".
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
