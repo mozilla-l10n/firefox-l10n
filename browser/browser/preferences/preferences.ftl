@@ -1165,6 +1165,10 @@ space-alert-under-5gb-ok-button =
     .accesskey = O
 space-alert-under-5gb-message = { -brand-short-name } a pas mai d'espaci disc. Los contenguts del site web pòdon s'afichar pas coma cal. Clicatz « Ne saber mai » per optimizar l'utilizacion de vòstre disc per melhorar la navegacion.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Ne saber mai
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Burèu
