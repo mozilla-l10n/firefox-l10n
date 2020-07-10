@@ -22,15 +22,15 @@ experimental-features-avif-description = Supporto sperimentale per AVIF, il form
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookie: SameSite=lax predefinito
-experimental-features-cookie-samesite-lax-by-default-description = Gestisci i cookie come “sameSite=lax” per impostazione predefinita se non viene specificato alcun attributo “sameSite”. Gli sviluppatori devono utilizzare esplicitamente “sameSite=none” per ripristinare il funzionamento attuale che non prevede alcuna limitazione d’uso.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookie: SameSite=Lax predefinito
+experimental-features-cookie-samesite-lax-by-default2-description = Gestisci i cookie come “SameSite=lax” per impostazione predefinita se non viene specificato alcun attributo “SameSite”. Gli sviluppatori devono utilizzare esplicitamente “SameSite=None” per ripristinare il funzionamento attuale che non prevede alcuna limitazione d’uso.
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookie: Attributo secure obbligatorio per SameSite=none
-experimental-features-cookie-samesite-none-requires-secure-description = Rendi l’attributo “secure” obbligatorio per i cookie con “sameSite=none”. Per utilizzare questa funzione è necessario attivare la funzione “Cookie: SameSite=lax predefinito”.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookie: Attributo secure obbligatorio per SameSite=None
+experimental-features-cookie-samesite-none-requires-secure2-description = Rendi l’attributo “secure” obbligatorio per i cookie con “SameSite=None”. Per utilizzare questa funzione è necessario attivare la funzione “Cookie: SameSite=Lax predefinito”.
 
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
