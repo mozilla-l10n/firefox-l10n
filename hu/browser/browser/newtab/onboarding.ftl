@@ -44,6 +44,16 @@ onboarding-start-browsing-button-label = Böngészés megkezdése
 onboarding-cards-dismiss =
     .title = Elutasítás
     .aria-label = Elutasítás
+# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
+# This support welcome screen showing top sites imported from the user's default browser.
+# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
+onboarding-import-sites-info =
+    .title =
+        Ezek a webhelyek találhatók ezen az eszközön.
+        A { -brand-short-name } nem menti vagy szinkronizálja az
+        adatokat másik böngészőből, kivéve, ha úgy dönt,
+        hogy importálja azokat.
+    .aria-label = { onboarding-import-sites-info.title }
 
 ## Welcome full page string
 

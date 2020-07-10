@@ -17,16 +17,14 @@ experimental-features-web-gpu-description = Kísérleti API grafikához és szá
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Kísérleti AVIF-támogatás: AV1 képfájlformátum
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=lax by default
-experimental-features-cookie-samesite-lax-by-default-description = A sütik „sameSite=lax” beállítás szerinti kezelése, ha nincs megadva „sameSite” attribútum. A fejlesztőknek kifejezetten kérniük kell a jelenlegi korlátlan használatot a „sameSite=none” megadásával.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requires secure attribute
-experimental-features-cookie-samesite-none-requires-secure-description = A „sameSite=none” attribútummal rendelkező sütikhez szükséges a secure attribútum. A funkcióhoz szükséges a „Cookies: SameSite=lax by default”.
+experimental-features-cookie-samesite-lax-by-default2-description = A sütik „SameSite=Lax” beállítás szerinti kezelése, ha nincs megadva „SameSite” attribútum. A fejlesztőknek kifejezetten kérniük kell a jelenlegi korlátlan használatot a „SameSite=None” megadásával.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None requires secure attribute
+experimental-features-cookie-samesite-none-requires-secure2-description = A „SameSite=None” attribútummal rendelkező sütikhez szükséges a secure attribútum. A funkcióhoz szükséges a „Cookies: SameSite=Lax by default”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
