@@ -255,3 +255,9 @@ cfr-doorhanger-doh-primary-button = კარგი, გასაგებია
     .accesskey = კ
 cfr-doorhanger-doh-secondary-button = გამორთვა
     .accesskey = გ
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = თავისთავადი დაცვა თვალთვალის გაიძვერული საშუალებებისგან
+cfr-whatsnew-clear-cookies-body = ზოგიერთი მეთვალყურე გამისამართებთ სხვა საიტებზე, რომლებიც ფარულად აყენებს ფუნთუშებს. { -brand-short-name } ახლა უკვე ავტომატურად მოაცილებს ამ ფუნთუშებს, თვალი რომ ვერ გადევნონ.
+cfr-whatsnew-clear-cookies-image-alt = შეზღუდული ფუნთუშის ნიმუში
