@@ -255,3 +255,8 @@ cfr-doorhanger-doh-primary-button = Ok, verstanden
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Deaktivieren
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Automatischer Schutz vor hinterhältigen Tracking-Taktiken
+cfr-whatsnew-clear-cookies-image-alt = Illustration für blockierten Cookie
