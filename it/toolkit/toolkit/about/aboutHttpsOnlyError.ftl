@@ -7,11 +7,11 @@ about-httpsonly-title = { -brand-short-name } ha rilevato un potenziale rischio 
 
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-insecure-explanation-unavailable = Stai navigando in modalità “solo HTTPS” (HTTPS-Only) e non è disponibile una versione sicura HTTPS di <em>{ $websiteUrl }</em>.
+about-httpsonly-insecure-explanation-unavailable = Stai navigando in modalità solo HTTPS e non è disponibile una versione sicura HTTPS di <em>{ $websiteUrl }</em>.
 about-httpsonly-insecure-explanation-reasons = Molto probabilmente il sito non supporta HTTPS, ma potrebbe anche trattarsi di un attacco che blocca l’accesso alla versione HTTPS.
 about-httpsonly-insecure-explanation-exception = Anche se il rischio per la sicurezza è limitato, se decidi di visitare la versione HTTP del sito non inserire informazioni riservate come password, indirizzi email o dati delle carte di credito.
 
-about-httpsonly-explanation-unavailable = Stai navigando in modalità “solo HTTPS” (HTTPS-Only) e non è disponibile una versione sicura HTTPS di <em>{ $websiteUrl }</em>.
+about-httpsonly-explanation-unavailable = Stai navigando in modalità solo HTTPS e non è disponibile una versione sicura HTTPS di <em>{ $websiteUrl }</em>.
 about-httpsonly-explanation-question = Quale potrebbe essere la causa?
 about-httpsonly-explanation-nosupport = Molto probabilmente il sito non supporta HTTPS.
 about-httpsonly-explanation-risk = Potrebbe anche trattarsi di un tentativo di attacco. Se decidi di visitare il sito non inserire informazioni riservate come password, indirizzi email o dati delle carte di credito.
