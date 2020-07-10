@@ -33,7 +33,7 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "Ж">
 <!ENTITY cmd.copyDownloadLink.label       "Жүктеу сілтемесін көшіріп алу">
 <!ENTITY cmd.copyDownloadLink.accesskey   "к">
-<!ENTITY cmd.removeFromHistory.label      "Тарихтен өшіру">
+<!ENTITY cmd.removeFromHistory.label      "Тарихтан өшіру">
 <!ENTITY cmd.removeFromHistory.accesskey  "Т">
 <!ENTITY cmd.clearList2.label             "Алдын-ала қарау панелін тазарту">
 <!ENTITY cmd.clearList2.accesskey         "з">

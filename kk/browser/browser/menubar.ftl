@@ -259,10 +259,10 @@ menu-help-feedback-page =
     .label = Кері байланыс хабарламасын жіберу…
     .accesskey = е
 menu-help-safe-mode-without-addons =
-    .label = Сөндірілген кеңейтулермен қайта қосу…
+    .label = Сөндірілген қосымшалармен қайта қосу…
     .accesskey = р
 menu-help-safe-mode-with-addons =
-    .label = Сөндірілген кеңейтулермен қайта қосу
+    .label = Іске қосылған қосымшалармен қайта қосу
     .accesskey = р
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
