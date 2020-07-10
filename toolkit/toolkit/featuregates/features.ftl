@@ -17,13 +17,15 @@ experimental-features-web-gpu-description = Eksperimentelny API za grafiku a př
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperimentelna podpěra za AVIF: wobrazowy format AV1
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Placki: SameSite=lax po standardźe
-experimental-features-cookie-samesite-lax-by-default-description = Wobchadźejće z plackam jako „sameSite=lax“ po standardźe, jeli atribut „sameSite“ podaty njeje. Wuwiwarjo dyrbja eksplicitnje „sameSite=none“ nastajić, zo bychu aktualnemu statusej quo njewobmjezowaneho wužiwanja přihłosowali.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Placki: SameSite=none atribut secure trjeba
-experimental-features-cookie-samesite-none-requires-secure-description = Placki z atributom “sameSite=none” sej atribut secure wužaduja. Tuta funkcija sej po standardźe „Placki: SameSite=lax“ wužaduje.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Placki: SameSite=Lax po standardźe
+experimental-features-cookie-samesite-lax-by-default2-description = Wobchadźejće z plackam jako „SameSite=Lax“ po standardźe, jeli atribut „SameSite“ podaty njeje. Wuwiwarjo dyrbja eksplicitnje „SameSite=None“ nastajić, zo bychu aktualnemu statusej quo njewobmjezowaneho wužiwanja přihłosowali.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Placki: SameSite=None atribut secure trjeba
+experimental-features-cookie-samesite-none-requires-secure2-description = Placki z atributom “SameSite=None” sej atribut secure wužaduja. Tuta funkcija sej po standardźe „Placki: SameSite=Lax“ wužaduje.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = startowy pufrowak about:cache
