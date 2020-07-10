@@ -1174,6 +1174,11 @@ space-alert-under-5gb-ok-button =
     .accesskey = r
 space-alert-under-5gb-message = { -brand-short-name } hižo dosć składowanskeho ruma nima. Wobsah websydła so snano korektnje njezwobrazni. Móžeće na “Dalše informacije” kliknyć, zo byšće swój składowe wužiće za lěpše přehladowanske dožiwjenje opiměrował.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Modus jenož HTTPS
+httpsonly-learn-more = Dalše informacije
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
