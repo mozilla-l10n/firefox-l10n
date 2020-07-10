@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Տառատեսակներ
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Տառատեսակներ
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Արաբերէն
 fonts-langgroup-armenian =
@@ -77,33 +75,24 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Համամասնական
     .accesskey = P
-
 fonts-default-serif =
     .label = Յստակ
 fonts-default-sans-serif =
     .label = Յստակ գծիկաւոր
-
 fonts-proportional-size = Չափը
     .accesskey = z
-
 fonts-serif = Յստակ
     .accesskey = S
-
 fonts-sans-serif = Յստակ֊գծիկաւոր
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Չափը
     .accesskey = e
-
 fonts-minsize = Տառատեսակի նուազագոյն չափ
     .accesskey = o
-
 fonts-minsize-none =
     .label = Չկայ
-
 fonts-allow-own =
     .label = Էջերին թոյլատրել աւգտագործել իրենց սեփական տառատեսակները
     .accesskey = A
@@ -115,10 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Գրանշանի կոդաւորումը տարբերանշանի բովանդակութեան համար
 fonts-languages-fallback-desc = Գրանշանի կոդաւորումը աւգտագործուում է այն տարբերանշանի բովանդակութեան համար, որը չի կարողանում որոշել իր կոդաւորումը։
-
 fonts-languages-fallback-label = Գրոյթի պահեստային կոդաւորում
     .accesskey = T
-
 fonts-languages-fallback-name-auto =
     .label = Լռելեայն է ընթացիկ լեզուի համար
 fonts-languages-fallback-name-arabic =
@@ -151,7 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Վիետնամերէն
 fonts-languages-fallback-name-other =
     .label = Այլ (ներ. Արեւմտաեւրոպականը)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
