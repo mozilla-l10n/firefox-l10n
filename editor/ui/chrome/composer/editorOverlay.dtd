@@ -169,7 +169,7 @@
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Тізім">
 <!ENTITY formatlistMenu.accesskey "Т">
-<!ENTITY noneCmd.label "Ештеме">
+<!ENTITY noneCmd.label "Ешнәрсе">
 <!ENTITY noneCmd.accesskey "Е">
 <!ENTITY listBulletCmd.label "Маркерленген">
 <!ENTITY listBulletCmd.accesskey "к">
@@ -314,7 +314,6 @@
 <!ENTITY TextColorButton.tooltip "Мәтін үшін түсті таңдау">
 <!ENTITY BackgroundColorButton.tooltip "Фон үшін түсті таңдау">
 <!ENTITY throbber.tooltip "&vendorShortName; үй парағына өту">
-<!ENTITY throbber.tooltip2 "&brandShortName; үй парағына өту">
 <!ENTITY HighlightColorButton.label "Түспен ерекшелеу">
 <!ENTITY HighlightColorButton.tooltip "Мәтінді ерекшелеу түсін таңдау">
 

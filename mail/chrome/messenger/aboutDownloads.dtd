@@ -15,7 +15,7 @@
 <!ENTITY cmd.showMac.accesskey                     "ш">
 <!ENTITY cmd.open.label                            "Ашу">
 <!ENTITY cmd.open.accesskey                        "А">
-<!ENTITY cmd.removeFromHistory.label               "Тізімнен өшіру">
+<!ENTITY cmd.removeFromHistory.label               "Тарихтан өшіру">
 <!ENTITY cmd.removeFromHistory.accesskey           "ш">
 <!ENTITY cmd.clearList.label                       "Тізімді тазарту">
 <!ENTITY cmd.clearList.accesskey                   "м">

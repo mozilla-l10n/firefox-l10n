@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-
-<!ENTITY editorWindow.titlemodifier "Composer"> 
+<!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
 <!-- Toolbar-only items -->
-
-
 <!ENTITY compositionToolbar.tooltip "Құрастыру саймандары">
 <!ENTITY previewToolbarCmd.label "Шолу">
 <!ENTITY previewToolbarCmd.tooltip "Бұл парақты браузерде жүктеу">
-<!-- File menu items -->
 
+<!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Мәтінге экспорттау…">
 <!ENTITY exportToTextCmd.accesskey "к">
 <!ENTITY previewCmd.label "Парақты шолу">
 <!ENTITY previewCmd.accesskey "ш">
 <!ENTITY sendPageCmd.label "Парақты жіберу…">
 <!ENTITY sendPageCmd.accesskey "б">
-<!-- View menu items -->
 
+<!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Құрастыру саймандары">
 <!ENTITY compositionToolbarCmd.accesskey "р">
 <!ENTITY formattingToolbarCmd.label "Пішімдеу саймандар панелі">
 <!ENTITY formattingToolbarCmd.accesskey "П">
 <!ENTITY editmodeToolbarCmd.label "Түзету режимінің саймандар панелі">
 <!ENTITY editmodeToolbarCmd.accesskey "е">
-<!-- Format menu items -->
 
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Пішім">
 <!ENTITY formatMenu.accesskey "ш">
 <!ENTITY grid.label "Орналастыру торы">
 <!ENTITY grid.accesskey "т">
 <!ENTITY pageProperties.label "Бет атауы және қасиеттері… ">
 <!ENTITY pageProperties.accesskey "е">
-<!-- Tools menu items -->
 
+<!-- Tools menu items -->
 <!ENTITY validateCmd.label "HTML тексеру">
 <!ENTITY validateCmd.accesskey "т">
-<!-- Display Mode toolbar and View menu items -->
 
+<!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Қалыпты">
 <!ENTITY NormalMode.label "Қалыпты түзету режимі">
 <!ENTITY NormalMode.accesskey "л">
@@ -62,6 +62,6 @@
 <!ENTITY HTMLSourceMode.accesskey "а">
 <!ENTITY HTMLSourceMode.tooltip "Бастапқы HTML кодын түзету">
 <!ENTITY PreviewModeTab.label "Алдын-ала қарау">
-<!ENTITY PreviewMode.label "Карап-шығу">
+<!ENTITY PreviewMode.label "Алдын-ала қарау">
 <!ENTITY PreviewMode.accesskey "К">
 <!ENTITY PreviewMode.tooltip "WYSIWYG ретінде көрсету (браузерде сияқты)">
