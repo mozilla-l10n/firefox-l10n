@@ -21,3 +21,49 @@ msgevent-msg_resent = ბოლო შეტყობინება, ხელ�
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg_not_private = დაშიფრული შეტყობინება, რომელსაც გზავნის { $name } არ იკითხება, ვინაიდან ამჟამად არ იყენებთ პირად კავშირს.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unreadable = თქვენ მიიღეთ ამოუკითხავი დაშიფრული შეტყობინება, რომელსაც გიგზავნით { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_malformed = თქვენ მიიღეთ გაუმართავი მონაცემებით შეტყობინება, რომელსაც გიგზავნით { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_rcvd = თქვენ მიიღეთ Heartbeat, რომელსაც გიგზავნით { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log_heartbeat_sent = Heartbeat გაიგზავნა პირისთვის { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = მოულოდნელი შეცდომა, საუბრის OTR-ით დაცვისას.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = { $name } გიგზავნით მოცემულ შეტყობინებას, რომელიც დაუშიფრავია: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = თქვენ მიიღეთ ამოუცნობი OTR-შეტყობინება, რომელსაც გიგზავნით { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } გიგზავნით შეტყობინებას სხვა სეანსიდან. თუ შესული ხართ რამდენჯერმე, სხვა სეანსზე შეიძლება იყოს მიღებული ეს წერილი.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = პირადი საუბარი პირთან { $name }, წამოწყებულია.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = დაშიფრული, მაგრამ დაუმოწმებელი საუბარი პირთან { $name }, წამოწყებულია.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = დაშიფრული საუბარი წარმატებით განახლდა პირთან { $name }.
+error-enc = წარმოიქმნა შეცდომა, შეტყობინების დაშიფვრისას.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = { $name } მიიღებს თქვენ მიერ გაგზავნილ დაშიფრულ მონაცემებს, რომელთაც არ ელის.
+error-unreadable = თქვენ გადაგზავნეთ ამოუკითხავი დაშიფრული შეტყობინება.
+error-malformed = თქვენ გადაგზავნეთ შეტყობინება გაუმართავი მონაცემებით.
+resent = [კვლავ გაგზავნილი]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } პირმა დაასრულა დაშიფრული საუბარი თქვენთან; თქვენც იგივე უნდა გააკეთოთ.
