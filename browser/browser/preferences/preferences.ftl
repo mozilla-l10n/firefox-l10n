@@ -1158,6 +1158,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } 运行所需的磁盘空间不足。网站内容可能无法正常显示。点击“详细了解”了解如何优化您的磁盘空间，从而获得更好的浏览体验。
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = HTTPS-Only 模式
+httpsonly-description = HTTPS 可在 { -brand-short-name } 和您访问的网站之间提供安全、加密的连接。现今，大多数网站都支持 HTTPS，若选择启用 HTTPS-Only 模式，{ -brand-short-name } 将会升级所有连接为 HTTPS。
+httpsonly-learn-more = 详细了解
+httpsonly-radio-enabled =
+    .label = 在所有窗口启用 HTTPS-Only 模式
+httpsonly-radio-enabled-pbm =
+    .label = 仅在隐私窗口启用 HTTPS-Only 模式
+httpsonly-radio-disabled =
+    .label = 不启用 HTTPS-Only 模式
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = 桌面
