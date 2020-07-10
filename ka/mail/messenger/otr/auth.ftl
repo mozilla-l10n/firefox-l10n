@@ -14,12 +14,14 @@ auth-your-fp-value = ანაბეჭდი თქვენთვის, { $ow
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = ანაბეჭდი – { $their_name }:
+auth-help = დაკავშირებული პირის ვინაობის დამოწმება ადასტურებს, რომ საუბარი ნამდვილად პირადია, ეს ურთულებს გარეშე ხალხს, მიყურადებისა და ჩარევის შესაძლებლობას.
 auth-helpTitle = დახმარება დამოწმებაზე
 auth-questionReceived = კითხვა, რომელიც დაკავშირებულმა პირმა დასვა:
 auth-yes =
     .label = დიახ
 auth-no =
     .label = არა
+auth-verified = გადამოწმებულია, რომ ეს ნამდვილად სწორი ანაბეჭდია.
 auth-manualVerification = ანაბეჭდის ხელით დამოწმება
 auth-questionAndAnswer = კითხვა და პასუხი
 auth-sharedSecret = გაზიარებული საიდუმლო
