@@ -1153,6 +1153,7 @@ space-alert-under-5gb-message = { -brand-short-name } 디스크 용량이 부족
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS 전용 모드
+httpsonly-description = HTTPS는 { -brand-short-name }와 사용자가 방문한 웹 사이트 간에 안전한 암호화된 연결을 제공합니다. 대부분의 웹 사이트는 HTTPS를 지원하며, HTTPS 전용 모드를 사용하도록 설정한 경우 { -brand-short-name }는 모든 연결을 HTTPS로 업그레이드합니다.
 httpsonly-learn-more = 더 알아보기
 httpsonly-radio-enabled =
     .label = 모든 창에서 HTTPS 전용 모드 사용
