@@ -1178,6 +1178,12 @@ space-alert-under-5gb-message = { -brand-short-name } hižo dosć składowanskeh
 
 httpsonly-header = Modus jenož HTTPS
 httpsonly-learn-more = Dalše informacije
+httpsonly-radio-enabled =
+    .label = Modus Jenož-HTTPS we wšěch woknach zmóžnić
+httpsonly-radio-enabled-pbm =
+    .label = Modus Jenož-HTTPS jenož w priwatnych woknach zmóžnić
+httpsonly-radio-disabled =
+    .label = Modus Jenož-HTTPS njezmóžnić
 
 ## The following strings are used in the Download section of settings
 
