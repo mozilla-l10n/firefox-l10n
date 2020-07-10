@@ -68,6 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Vous recherchez vos identifiants enregistrés ? Configurez { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Vous recherchez vos identifiants enregistrés ? Configurez { -sync-brand-short-name } ou importez-les.
 about-logins-login-intro-heading-logged-in = Aucun identifiant synchronisé trouvé.
 login-intro-description = Si vous avez enregistré vos identifiants dans { -brand-product-name } sur un autre appareil, voici comment y accéder ici :
 login-intro-instruction-fxa = Connectez-vous ou créez un { -fxaccount-brand-name } sur l’appareil où vos identifiants sont enregistrés.
@@ -216,6 +217,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importer un fichier d’identifiants
 about-logins-import-file-picker-import-button = Importer
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
