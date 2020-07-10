@@ -503,7 +503,6 @@ home-prefs-topsites-description = Die von Ihnen am meisten besuchten Websites
 
 home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
-home-prefs-recommended-by-description = Tolle Inhalte aus dem ganzen Internet, für Sie personalisiert
 home-prefs-recommended-by-description-update = Besondere Inhalte aus dem ganzen Internet, ausgewählt von { $provider }
 
 ##
@@ -567,7 +566,6 @@ search-show-suggestions-above-history-option =
     .label = In Adressleiste Suchvorschläge vor Einträgen aus der Browser-Chronik anzeigen
 search-show-suggestions-private-windows =
     .label = Suchvorschläge in privaten Fenstern anzeigen
-suggestions-addressbar-settings = Einstellungen für Chronik, Lesezeichen und vorgeschlagene offene Tabs ändern
 suggestions-addressbar-settings-generic = Einstellungen für andere Vorschläge in der Adressleiste ändern
 search-suggestions-cant-show = Suchvorschläge werden nicht in der Adressleiste angezeigt, weil { -brand-short-name } angewiesen wurde, keine Chronik zu speichern.
 search-one-click-header = Ein-Klick-Suchmaschinen
@@ -1165,6 +1163,10 @@ space-alert-under-5gb-ok-button =
     .label = OK
     .accesskey = O
 space-alert-under-5gb-message = { -brand-short-name } verfügt über nur noch wenig freien Speicherplatz. Website-Inhalte werden vielleicht nicht richtig angezeigt. Besuchen Sie "Weitere Informationen", um die Speichernutzung für ein besseres Weberlebnis zu optimieren.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Weitere Informationen
 
 ## The following strings are used in the Download section of settings
 
