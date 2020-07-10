@@ -17,16 +17,13 @@ experimental-features-web-gpu-description = Eksperimentell API for grafikk og da
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperimentell støtte for AVIF: AV1 bildefilformat
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax by default
-experimental-features-cookie-samesite-lax-by-default-description = Behandle infokapsler som «sameSite=lax» som standard hvis ingen «sameSite»-attributt er spesifisert. Utviklere må eksplisitt bruke «sameSite=none» for å gjenopprette den nåværende status som ikke gir noen begrensning i bruken.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requires secure attribute
-experimental-features-cookie-samesite-none-requires-secure-description = Infokapsler med «sameSite=none»-attributt krever secure-attributt. Denne funksjonen krever «Cookies: SameSite=lax by default».
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Infokapsel: SameSite=Lax som standard
+experimental-features-cookie-samesite-lax-by-default2-description = Behandle infokapsler som «SameSite=Lax» som standard hvis ingen «SameSite»-attributt er spesifisert. Utviklere må eksplisitt bruke «SameSite=None» for å gjenopprette den nåværende status som ikke gir noen begrensning i bruken.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Infokapsel: SameSite=None krever secure-attributt
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
