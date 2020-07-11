@@ -262,3 +262,9 @@ cfr-doorhanger-doh-primary-button = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Wyłącz
     .accesskey = W
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Automatyczna ochrona przed podstępnymi metodami śledzenia
+cfr-whatsnew-clear-cookies-body = Niektóre elementy śledzące przekierowują Cię do innych witryn, które potajemnie ustawiają ciasteczka. { -brand-short-name } teraz automatycznie usuwa te ciasteczka, aby nie mogły za Tobą chodzić.
+cfr-whatsnew-clear-cookies-image-alt = Rysunek zablokowanego ciasteczka
