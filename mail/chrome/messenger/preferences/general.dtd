@@ -44,3 +44,4 @@
 <!ENTITY removeSearchEngine.accesskey     "У">
 
 <!ENTITY minimizeToTray.label             "Када је &brandShortName; умањен, пребаци га у системску касету">
+<!ENTITY minimizeToTray.accesskey         "м">
