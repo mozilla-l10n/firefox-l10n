@@ -163,6 +163,7 @@ delete-ssl-cert-confirm = Na zicher chcesz skasować te wyjōntki do certyfikatu
 delete-ssl-cert-impact = Jak skasujesz wyjōntek do certyfikatu serwera, to wrōcisz ajnfachowe procedury bezpieczyństwa do tego serwera i prośba, coby używoł dobrego certyfikatu.
 delete-ca-cert-title =
     .title = Skasuj abo przestōń wierzić certyfikatōm CA
+delete-ca-cert-confirm = Poszła prośba o skasowanie tych certyfikatōw CA. Do wbudowanych certyfikatōw ôbznoczo to, że niy bydziesz im wierzić, co mo taki sōm efekt. Na zicher chcesz je skasować abo przestać im wierzić?
 
 ## Cert Viewer
 
