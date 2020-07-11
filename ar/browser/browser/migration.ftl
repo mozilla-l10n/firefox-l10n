@@ -61,6 +61,7 @@ import-close-source-browser = من فضلك تأكد من أن المتصفح ا
 imported-bookmarks-source = من { $source }
 source-name-ie = إنترنت إكسبلورر
 source-name-edge = ميكروسوفت إدج
+source-name-edge-beta = ميكروسوفت إدج بيتا
 source-name-safari = سفاري
 source-name-canary = جوجل كروم كناري
 source-name-chrome = جوجل كروم
@@ -81,10 +82,57 @@ imported-edge-reading-list = قائمة القراءة (من إدج)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = الكعكات
+browser-data-cookies-label =
+    .value = الكعكات
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] تأريخ التصفح والعلامات
+           *[other] تأريخ التصفح
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] تأريخ التصفح والعلامات
+           *[other] تأريخ التصفح
+        }
+browser-data-formdata-checkbox =
+    .label = تأريخ الاستمارات المحفوظة
+browser-data-formdata-label =
+    .value = تأريخ الاستمارات المحفوظة
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = جلسات الولوج وكلمات السر المحفوظة
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = جلسات الولوج وكلمات السر المحفوظة
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] المفضّلة
+            [edge] المفضّلة
+           *[other] العلامات
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] المفضّلة
+            [edge] المفضّلة
+           *[other] العلامات
+        }
+browser-data-otherdata-checkbox =
+    .label = بيانات أخرى
+browser-data-otherdata-label =
+    .label = بيانات أخرى
 browser-data-session-checkbox =
     .label = النوافذ و الألسنة
 browser-data-session-label =
