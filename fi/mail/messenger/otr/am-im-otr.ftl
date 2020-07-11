@@ -18,7 +18,7 @@ otr-log =
 otr-requireEncryption =
     .label = Vaadi päästä päähän -salaus kahdenvälisille keskusteluille
 otr-require-encryption-info =
-    Kun vaaditaan päästä päähän-salausta, viestejä henkilökohtaisissa keskusteluissa
+    Kun vaaditaan päästä päähän -salausta, viestejä henkilökohtaisissa keskusteluissa
     ei lähetetä, ellei niitä voida salata. Saapuneita salaamattomia viestejä
     ei näytetä osana normaalia keskustelua, eikä niitä myöskään kirjata.
 otr-verifyNudge =
