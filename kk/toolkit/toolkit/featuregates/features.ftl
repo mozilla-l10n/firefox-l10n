@@ -17,16 +17,14 @@ experimental-features-web-gpu-description = Интернеттегі графи�
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = AVIF үшін эксперименталды қолдау: AV1 сурет файлының пішімі
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookie файлдары: Үнсіз келісім бойынша SameSite=lax
-experimental-features-cookie-samesite-lax-by-default-description = Егер "sameSite" атрибуты көрсетілмесе, cookie файлдарын "sameSite=lax" ретінде қарастыру. Әзірлеушілер ағымдағы шектелмеген қолдану жағдайына "sameSite=none" көрсету арқылы қосылуы керек.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookie файлдары: SameSite=none secure атрибутын талап етеді
-experimental-features-cookie-samesite-none-requires-secure-description = "sameSite=none" атрибуты бар cookie файлдары secure атрибутын талап етеді. Бұл мүмкіндік, үнсіз келісім бойынша, "Cookies: SameSite=lax" талап етеді.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookie файлдары: Үнсіз келісім бойынша SameSite=Lax
+experimental-features-cookie-samesite-lax-by-default2-description = Егер "SameSite" атрибуты көрсетілмесе, cookie файлдарын "SameSite=Lax" ретінде қарастыру. Әзірлеушілер ағымдағы шектелмеген қолдану жағдайына "SameSite=None" көрсету арқылы қосылуы керек.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookie файлдары: SameSite=None secure атрибутын талап етеді
+experimental-features-cookie-samesite-none-requires-secure2-description = "SameSite=None" атрибуты бар cookie файлдары secure атрибутын талап етеді. Бұл мүмкіндік, үнсіз келісім бойынша, "Cookies: SameSite=Lax " талап етеді.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
