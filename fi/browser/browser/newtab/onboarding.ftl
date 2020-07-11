@@ -18,7 +18,7 @@ onboarding-button-label-get-started = Aloita
 
 ## Welcome modal dialog strings
 
-onboarding-welcome-header = Tervetuloa, { -brand-short-name } tässä
+onboarding-welcome-header = Tässä { -brand-short-name }, tervetuloa
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Tässä <span data-l10n-name="zap">{ -brand-short-name }</span>, tervetuloa
