@@ -19,6 +19,9 @@ onboarding-button-label-get-started = Titikirisäx
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Ütz apetik pa <span data-l10n-name = "zap"> { -brand-short-name } </span>
 onboarding-welcome-body = K'o awik'in ri okik'amaya'l.<br/>Tawetamaj ri ch'aqa' chik taq { -brand-product-name }.
 onboarding-welcome-learn-more = Tawetamaj ch'aqa' chik pa ruwi' ri taq rutzil.
 onboarding-join-form-header = Tatunu' awi' rik'in { -brand-product-name }

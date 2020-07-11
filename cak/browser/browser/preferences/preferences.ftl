@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } taq Tojtob'äl
 category-experimental =
     .tooltiptext = { -brand-short-name } taq Tojtob'äl
 pane-experimental-subtitle = Tachajij awi' chi Rub'anik
+pane-experimental-search-results-header = { -brand-short-name } Taq tojtob'äl: Eqal Tab'ana'
 pane-experimental-description = Kejal ri q'axinäq taq rajowab'al nuk'ulem, nitikïr nutz'ila' rub'eyal nisamäj o ri rujikomal { -brand-short-name }.
 help-button-label = Ruto'ik { -brand-short-name } Temeb'äl
 addons-button-label = Taq k'amal & taq Wachinel
@@ -1164,6 +1165,17 @@ space-alert-under-5gb-ok-button =
     .label = ÜTZ, Wetaman chik
     .accesskey = T
 space-alert-under-5gb-message = { -brand-short-name } tajin majun rupam nikanaj kan pa rujolom. Rik'in jub'a' man ütz ta nik'ut pe ri rupam ruxaq k'amaya'l. Tab'etz'eta' “Tetamäx ch'aqa' chik” richin nutziläx toq nokisäx rujolom richin tik'asäs nawokisaj awetamab'al rik'in ri okem pa k'amaya'l.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = HTTPS-Only B'anikil
+httpsonly-learn-more = Tetamäx ch'aqa' chik
+httpsonly-radio-enabled =
+    .label = Titzij HTTPS-Only B'anikil chi jun taq tzuwäch
+httpsonly-radio-enabled-pbm =
+    .label = Titzij HTTPS-Only B'anikil xa xe pa jun ichinan taq tzuwäch
+httpsonly-radio-disabled =
+    .label = Man titzij HTTPS-Only B'anikil
 
 ## The following strings are used in the Download section of settings
 
