@@ -261,3 +261,7 @@ cfr-doorhanger-doh-primary-button = W pórěźe, som zrozměł
     .accesskey = r
 cfr-doorhanger-doh-secondary-button = Znjemóžniś
     .accesskey = Z
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-image-alt = Ilustracija za zablokěrowany cookie
