@@ -5,9 +5,9 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = تقرير حماية الخصوصية
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = انتقل إلى تقرير الخصوصية
+appmenuitem-update-banner =
+    .label-update-downloading = ينزّل تحديث { -brand-shorter-name }
+appmenuitem-protection-dashboard-title = لوحة الحمايات
 appmenuitem-customize-mode =
     .label = خصّص…
 
@@ -26,3 +26,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ما الجديد
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = أعلِمني بالميزات الجديدة
+    .accesskey = ع
