@@ -254,3 +254,7 @@ cfr-doorhanger-doh-primary-button = Perfecto, lo entiendo
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Deshabilitar
     .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Protección automática contra tácticas de rastreo furtivas
