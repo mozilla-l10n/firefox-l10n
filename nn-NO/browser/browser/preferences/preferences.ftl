@@ -1166,6 +1166,15 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } er i ferd med å gå tom for diskplass. Det kan vere at nettinnhaldet på sida ikkje vert vist korrekt. Gå til «Les meir» for å optimere diskbruken din for ei betre nettlesaroppleving.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Berre HTTPS-modus
+httpsonly-learn-more = Les meir
+httpsonly-radio-enabled =
+    .label = Slå på berre HTTPS-modus i alle vindauge
+httpsonly-radio-enabled-pbm =
+    .label = Slå på berre HTTPS-modus kun i private vindauge
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord

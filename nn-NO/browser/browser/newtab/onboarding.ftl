@@ -44,6 +44,16 @@ onboarding-start-browsing-button-label = Start nettlesing
 onboarding-cards-dismiss =
     .title = Avvis
     .aria-label = Avvis
+# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
+# This support welcome screen showing top sites imported from the user's default browser.
+# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
+onboarding-import-sites-info =
+    .title =
+        Desse nettstadane vart funne på denne eininga.
+        { -brand-short-name } lagrer eller synkroniserer
+        ikke data fra en annen nettleser med mindre du
+        velger å importer den.
+    .aria-label = { onboarding-import-sites-info.title }
 
 ## Welcome full page string
 
