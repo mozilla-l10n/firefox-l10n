@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ข้อมูลการเข้าสู่ระบบและรหัสผ่าน
@@ -216,3 +211,7 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] ไฟล์ CSV
        *[other] ไฟล์ CSV
     }
+
+## Login Import Dialog
+
+about-logins-import-file-picker-import-button = นำเข้า

@@ -25,6 +25,9 @@ compatibility-feedback-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = การตั้งค่า
+compatibility-target-browsers-header = เบราว์เซอร์เป้าหมาย
 
 ##
 
+compatibility-close-settings-button =
+    .title = ปิดการตั้งค่า
