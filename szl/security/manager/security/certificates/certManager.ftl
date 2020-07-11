@@ -131,19 +131,31 @@ pkcs12-unknown-err-restore = Wrōcynie zbioru PKCS #12 sie niy podarziło z niyp
 pkcs12-unknown-err-backup = Zrychtowanie ibrycznyj kopii PKCS #12 sie niy podarziło z niypoznanyj prziczyny.
 pkcs12-unknown-err = Ôperacyjo PKCS #12 sie niy podarziła z niypoznanyj prziczyny
 pkcs12-info-no-smartcard-backup = NIy idzie zrychtować ibrycznyj kopii certyfikatu ze hardwarowych maszin bezpieczyństwa (bez przikłod ze czipowyj karty).
+pkcs12-dup-data = Certyfikat i prywatny klucz już s€m na tyj maszinie bezpieczyństwa.
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = Miano zbioru do zrychtowanio ibrycznyj kopii
+file-browse-pkcs12-spec = Zbiory PKCS12
+choose-p12-restore-file-dialog = Zbiōr certyfikatu do importu
 
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Zbiory certyfikatōw
+import-ca-certs-prompt = Ôbier zbiōr ze certyfikatym CA, co mo być importniynty
+import-email-cert-prompt = Ôbier zbiōr ze emailym ôd kogoś, co mo być importniynty
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Certyfikat „{ $certName }” reprezentuje regiyrunek certyfikacyje.
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = Skasuj swoje certyfikaty
+delete-user-cert-confirm = Na zicher chcesz skasować te certyfikaty?
 
 ## Cert Viewer
 
