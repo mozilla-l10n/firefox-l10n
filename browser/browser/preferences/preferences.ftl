@@ -1173,6 +1173,10 @@ httpsonly-description = HTTPS { -brand-short-name } және сіз кіреті
 httpsonly-learn-more = Көбірек білу
 httpsonly-radio-enabled =
     .label = Барлық терезелерде тек-HTTPS режимін іске қосу
+httpsonly-radio-enabled-pbm =
+    .label = Тек-HTTPS режимін тек жекелік терезелерде іске қосу
+httpsonly-radio-disabled =
+    .label = Тек-HTTPS режимін іске қоспау
 
 ## The following strings are used in the Download section of settings
 
