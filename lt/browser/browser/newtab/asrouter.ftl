@@ -260,3 +260,9 @@ cfr-doorhanger-doh-primary-button = Gerai, supratau
     .accesskey = G
 cfr-doorhanger-doh-secondary-button = Išjungti
     .accesskey = I
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Automatinė apsauga nuo slaptų stebėjimo būdų
+cfr-whatsnew-clear-cookies-body = Kai kurie stebėjimo elementai nukreipia jus į kitas svetaines, kurios slaptai įrašo slapukus. „{ -brand-short-name }“ dabar automatiškai išvalo tokius slapukus, kad nebūtumėte sekami.
+cfr-whatsnew-clear-cookies-image-alt = Užblokuoto slapuko iliustracija
