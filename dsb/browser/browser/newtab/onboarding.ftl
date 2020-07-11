@@ -44,6 +44,16 @@ onboarding-start-browsing-button-label = Pśeglědowanje startowaś
 onboarding-cards-dismiss =
     .title = Zachyśiś
     .aria-label = Zachyśiś
+# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
+# This support welcome screen showing top sites imported from the user's default browser.
+# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
+onboarding-import-sites-info =
+    .title =
+        Toś te sedła su se namakali na toś tom rěźe.
+        { -brand-short-name } daty z
+        drugego wobglědowaka njeskładujo abo njesynchronizěrujo
+        snaźkuli je importěrujośo.
+    .aria-label = { onboarding-import-sites-info.title }
 
 ## Welcome full page string
 

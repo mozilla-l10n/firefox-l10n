@@ -1177,6 +1177,7 @@ space-alert-under-5gb-message = { -brand-short-name } njama wěcej dosć składo
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus Jano-HTTPS
+httpsonly-description = HTTPS wěsty, skoděrowany zwisk mjazy { -brand-short-name } a websedłami bitujo, ku kótarymž se woglědujośo. Nejwěcej websedłow HTTPS pódpěra, a jolic modus Jano-HTTPS jo zmóžnjony, { -brand-short-name } buźo wše zwiski na HTTPS aktualizěrowaś.
 httpsonly-learn-more = Dalšne informacije
 httpsonly-radio-enabled =
     .label = Modus Jano-HTTPS we wšych woknach zmóžniś
