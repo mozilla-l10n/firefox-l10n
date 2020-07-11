@@ -77,6 +77,7 @@ login-intro-instruction-fxa = Załožćo abo pśizjawśo se pla swójogo { -fxac
 login-intro-instruction-fxa-settings = Pśeznańśo se, až sćo wubrał kontrolny kašćik pśizjawjenjow w nastajenjach { -sync-brand-short-name }
 about-logins-intro-instruction-help = Woglědajśo se k <a data-l10n-name="help-link">pomocy { -lockwise-brand-short-name }</a> za wěcej pomocy
 about-logins-intro-import = Jolic waše pśizjawjenja su skłaźone w drugem wobglědowaku, móžośo <a data-l10n-name="import-link">je do { -lockwise-brand-short-name } importěrowaś</a>
+about-logins-intro-import2 = Jolic waše pśizjawjenja se zwenka { -brand-product-name } składuju, móžośo <a data-l10n-name="import-browser-link">je z drugego wobglědowaka importěrowaś</a>, abo <a data-l10n-name="import-file-link">z dataje</a>
 
 ## Login
 

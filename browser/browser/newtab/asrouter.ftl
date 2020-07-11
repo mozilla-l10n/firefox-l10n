@@ -264,4 +264,6 @@ cfr-doorhanger-doh-secondary-button = Znjemóžniś
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Awtomatiski šćit pśed zakśebjatnymi slědowańskimi taktikami
+cfr-whatsnew-clear-cookies-body = Někotare pśeslědowaki was k drugim websedłam dalej pósrědnjaju, kótarež kšajźu cookieje stajaju. { -brand-short-name } něnto te cookieje awtomatiski lašujo, až  njeby móžno było, wam slědowaś.
 cfr-whatsnew-clear-cookies-image-alt = Ilustracija za zablokěrowany cookie
