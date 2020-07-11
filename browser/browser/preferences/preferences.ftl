@@ -1158,6 +1158,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = ב
 space-alert-under-5gb-message = ל־{ -brand-short-name } אוזל שטח הדיסק. יתכן שנתוני אתרים לא יוצגו כשורה. ניתן לבקר בקישור של “מידע נוסף” כדי לייעל את אופן השימוש בדיסק לחוויית גלישה טובה יותר.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = מצב HTTPS בלבד
+httpsonly-description = ‏HTTPS מספק חיבור מאובטח ומוצפן בין { -brand-short-name } לבין האתרים שמבקרים בהם. רוב האתרים תומכים ב־HTTPS, ואם מצב HTTPS בלבד מופעל, { -brand-short-name } ישדרג את כל החיבורים ל־HTTPS.
+httpsonly-learn-more = מידע נוסף
+httpsonly-radio-enabled =
+    .label = הפעלת מצב HTTPS בלבד בכל החלונות
+httpsonly-radio-enabled-pbm =
+    .label = הפעלת מצב HTTPS בלבד אך ורק בחלונות פרטיים
+httpsonly-radio-disabled =
+    .label = לא להפעיל מצב HTTPS בלבד
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = שולחן עבודה
