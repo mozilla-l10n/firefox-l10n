@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Käyttäjätunnukset ja salasanat
@@ -207,5 +202,15 @@ about-logins-export-file-picker-export-button = Vie
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-dokumentti
+       *[other] CSV-tiedosto
+    }
+
+## Login Import Dialog
+
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-tiedosto
        *[other] CSV-tiedosto
     }
