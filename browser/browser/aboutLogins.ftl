@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Dane logowania i hasła
@@ -32,6 +27,7 @@ menu =
     .title = Otwórz menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importuj z innej przeglądarki…
+about-logins-menu-menuitem-import-from-a-file = Importuj z pliku…
 about-logins-menu-menuitem-export-logins = Eksportuj dane logowania…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -73,12 +69,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Szukasz swoich zachowanych haseł? Skonfiguruj { -sync-brand-short-name(case: "acc", capitalization: "lower") }.
+about-logins-login-intro-heading-logged-out = Szukasz swoich zachowanych haseł? Skonfiguruj { -sync-brand-short-name(case: "acc", capitalization: "lower") } lub je zaimportuj.
 about-logins-login-intro-heading-logged-in = Brak synchronizowanych danych logowania.
 login-intro-description = Aby przenieść tutaj dane logowania zachowane w przeglądarce { -brand-product-name } na innym urządzeniu:
 login-intro-instruction-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(case: "loc", capitalization: "lower") } na urządzeniu, w którym zachowano dane logowania
 login-intro-instruction-fxa-settings = Upewnij się, że opcja „Dane logowania” jest zaznaczona w ustawieniach { -sync-brand-short-name(case: "gen", capitalization: "lower") }
 about-logins-intro-instruction-help = <a data-l10n-name="help-link">Pomoc usługi { -lockwise-brand-short-name }</a> zawiera więcej informacji
 about-logins-intro-import = Jeśli dane logowania są zachowane w innej przeglądarce, możesz <a data-l10n-name="import-link">zaimportować je do usługi { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Jeśli dane logowania są zachowane poza przeglądarką { -brand-product-name }, możesz <a data-l10n-name="import-browser-link">zaimportować je z innej przeglądarki</a> lub <a data-l10n-name="import-file-link">z pliku</a>
 
 ## Login
 
@@ -214,6 +212,19 @@ about-logins-export-file-picker-export-button = Eksportuj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument CSV
+       *[other] Plik CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importuj plik z danymi logowania
+about-logins-import-file-picker-import-button = Importuj
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokument CSV
        *[other] Plik CSV
