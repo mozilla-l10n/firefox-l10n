@@ -57,11 +57,11 @@ rcwn-avg-long = Ilgas vidurkis
 rcwn-std-dev-long = Ilgas standartinis nuokrypis
 rcwn-cache-slow = Podėlio lėto kiekis
 rcwn-cache-not-slow = Podėlio ne lėto kiekis
-
 about-networking-title = Tinklo ryšiai
 about-networking-http = HTTP
 about-networking-sockets = Sujungimai
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Išvalyti DNS podėlį
 about-networking-dns-suffix = DNS prievardis
 about-networking-websockets = WebSockets
 about-networking-refresh = Atnaujinti
