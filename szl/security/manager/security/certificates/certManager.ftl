@@ -213,6 +213,13 @@ cert-not-verified-unknown = Niy szło zweryfikować tego certyfikatu z niypoznan
 
 add-exception-branded-warning = Prōbujesz zmiynić spusōb, jak { -brand-short-name } idyntyfikuje tyn serwer.
 add-exception-invalid-header = Ta strōna prōbuje sie zidyntyfikować złymi informacyjami.
+add-exception-domain-mismatch-short = Zły serwer
+add-exception-domain-mismatch-long = Tyn certyfikat je ôd inkszego serwera - zdowo sie, iże fto prōbuje udować ta strōna.
+add-exception-expired-short = Przedowniōne informacyje
+add-exception-expired-long = Tyn certyfikat aktualnie niy ma płatny. Mōg być stracōny abo ukradziōny i możno fto go używo, coby udować ta strōna.
+add-exception-unverified-or-bad-signature-short = Niypoznano tōżsamość
+add-exception-unverified-or-bad-signature-long = Tymu certyfikatowi niy idzie wierzić, bo niy bōł zweryfikowany ôd żodnego regiyrunku certyfikacyje z bezpiecznym podpisym.
+add-exception-valid-short = Płatny certyfikat
 
 ## Certificate export "Save as" and error dialogs
 
