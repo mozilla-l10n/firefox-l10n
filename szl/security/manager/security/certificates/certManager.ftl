@@ -164,9 +164,41 @@ delete-ssl-cert-impact = Jak skasujesz wyjōntek do certyfikatu serwera, to wrō
 delete-ca-cert-title =
     .title = Skasuj abo przestōń wierzić certyfikatōm CA
 delete-ca-cert-confirm = Poszła prośba o skasowanie tych certyfikatōw CA. Do wbudowanych certyfikatōw ôbznoczo to, że niy bydziesz im wierzić, co mo taki sōm efekt. Na zicher chcesz je skasować abo przestać im wierzić?
+delete-ca-cert-impact = Jak skasujesz abo przestaniesz wierzić certyfikatowi ôd regiyrōnku certyfikacyje (CA), to aplikacyjo niy bydzie już wierzić żodnym certyfikatōm ôd tego CA.
+delete-email-cert-title =
+    .title = Skasuj emailowe certyfikaty
+delete-email-cert-confirm = Na zicher chcesz skasować emailowe certyfikaty ôd tych ôsōb?
+delete-email-cert-impact = Jak skasujesz emailowy certyfikat ôd tyj ôsoby, to niy poradzisz już posyłać do nij szyfrowanych emailōw.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certyfikat z nōmerym seryje: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Podglōnd na certyfikat: “{ $certName }”
+not-present =
+    .value = <niy ma tajlōm certyfikatu>
+# Cert verification
+cert-verified = Tyn certyfikat je zweryfikowany do takigo użycio:
+# Add usage
+verify-ssl-client =
+    .value = Certyfikat SSL klijynta
+verify-ssl-server =
+    .value = Certyfikat SSL serwera
+verify-ssl-ca =
+    .value = Regiyrōnek certyfikacyje SSL
+verify-email-signer =
+    .value = Certyfikat do podpisowanio emaila
+verify-email-recip =
+    .value = Certyfikat do przijmujōncego email
 
 ## Add Security Exception dialog
 
