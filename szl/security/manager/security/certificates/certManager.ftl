@@ -156,6 +156,13 @@ edit-trust-ca = Certyfikat „{ $certName }” reprezentuje regiyrunek certyfika
 delete-user-cert-title =
     .title = Skasuj swoje certyfikaty
 delete-user-cert-confirm = Na zicher chcesz skasować te certyfikaty?
+delete-user-cert-impact = Jak skasujesz swoje certyfikaty, to niy pōdzie ich używać do idyntyfikacyje.
+delete-ssl-cert-title =
+    .title = Skasuj wyjōntki do certyfikatu serwera
+delete-ssl-cert-confirm = Na zicher chcesz skasować te wyjōntki do certyfikatu serwera?
+delete-ssl-cert-impact = Jak skasujesz wyjōntek do certyfikatu serwera, to wrōcisz ajnfachowe procedury bezpieczyństwa do tego serwera i prośba, coby używoł dobrego certyfikatu.
+delete-ca-cert-title =
+    .title = Skasuj abo przestōń wierzić certyfikatōm CA
 
 ## Cert Viewer
 
