@@ -17,16 +17,14 @@ experimental-features-web-gpu-description = Експериментальний A
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Експериментальна підтримка AVIF: Формат файлу зображення AV1
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Куки: SameSite=lax типово
-experimental-features-cookie-samesite-lax-by-default-description = Розглядати куки як “sameSite=lax” типово, якщо немає вказаного атрибута “sameSite”. Розробники повинні під'єднатися до поточного статусу без обмеженого використання, чітко стверджуючи “sameSite=none”.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Куки: SameSite=none потребує захищеного атрибута
-experimental-features-cookie-samesite-none-requires-secure-description = Куки з атрибутом “sameSite=none” потребують захищеного атрибута. Ця функція вимагає типово “Куки: SameSite=lax типово”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Куки: SameSite=Lax типово
+experimental-features-cookie-samesite-lax-by-default2-description = Розглядати куки як “SameSite=Lax” типово, якщо немає вказаного атрибута “SameSite”. Розробники повинні під'єднатися до поточного статусу без обмеженого використання, чітко стверджуючи “SameSite=None”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Куки: SameSite=None потребує захищеного атрибута
+experimental-features-cookie-samesite-none-requires-secure2-description = Куки з атрибутом “SameSite=None” потребують захищеного атрибута. Ця функція вимагає типово “Куки: SameSite=Lax типово”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =

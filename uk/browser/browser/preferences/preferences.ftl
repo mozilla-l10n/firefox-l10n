@@ -1170,6 +1170,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = Г
 space-alert-under-5gb-message = У { -brand-short-name } закінчується місце на диску. Вміст вебсайтів може показуватись неправильно. Натисніть “Докладніше”, щоб оптимізувати використання вашого диска для кращої роботи.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = HTTPS-режим
+httpsonly-description = HTTPS забезпечує захищене, зашифроване з'єднання між { -brand-short-name } та відвідуваними вебсайтами. Більшість вебсайтів підтримують HTTPS, тому якщо увімкнено HTTPS-режим, { -brand-short-name } перенаправлятиме усі з'єднання до HTTPS.
+httpsonly-learn-more = Докладніше
+httpsonly-radio-enabled =
+    .label = Увімкнути HTTPS-режим у всіх вікнах
+httpsonly-radio-enabled-pbm =
+    .label = Увімкнути HTTPS-режим лише у приватних вікнах
+httpsonly-radio-disabled =
+    .label = Не вмикати HTTPS-режим
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Робочий стіл
