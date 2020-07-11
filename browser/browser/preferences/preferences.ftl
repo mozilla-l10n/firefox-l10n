@@ -1174,6 +1174,8 @@ httpsonly-radio-enabled =
     .label = Slå på berre HTTPS-modus i alle vindauge
 httpsonly-radio-enabled-pbm =
     .label = Slå på berre HTTPS-modus kun i private vindauge
+httpsonly-radio-disabled =
+    .label = Ikkje slå på berre HTTPS-modus
 
 ## The following strings are used in the Download section of settings
 
