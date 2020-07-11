@@ -14,7 +14,10 @@ extensions-name = Pavadinimas
 extensions-enabled = Įjungtas
 extensions-version = Laida
 extensions-id = ID
+support-addons-title = Priedai
 support-addons-name = Pavadinimas
+support-addons-type = Tipas
+support-addons-enabled = Įjungtas
 support-addons-version = Laida
 support-addons-id = ID
 security-software-title = Saugumo programos
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Atverti aplanką
        *[other] Atverti aplanką
     }
+experimental-features-title = Eksperimentinės funkcijos
+experimental-features-name = Pavadinimas
+experimental-features-value = Reikšmė
 modified-key-prefs-title = Svarbios pakeistos nuostatos
 modified-prefs-name = Vardas
 modified-prefs-value = Reikšmė
