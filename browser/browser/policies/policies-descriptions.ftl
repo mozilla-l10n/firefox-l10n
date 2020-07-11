@@ -72,8 +72,8 @@ policy-LegacyProfiles = Wyłączenie funkcji wymuszającej oddzielny profil dla 
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
-policy-LegacySameSiteCookieBehaviorEnabled = Włączenie domyślnego ustawienia starego zachowania ciasteczek „sameSite”.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Wracanie do starego zachowania „sameSite” dla ciasteczek na podanych witrynach.
+policy-LegacySameSiteCookieBehaviorEnabled = Włączenie domyślnego ustawienia starego zachowania ciasteczek „SameSite”.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Wracanie do starego zachowania „SameSite” dla ciasteczek na podanych witrynach.
 
 ##
 
