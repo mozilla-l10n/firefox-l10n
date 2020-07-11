@@ -253,9 +253,20 @@ cfr-whatsnew-pip-fullscreen-icon-alt = أيقونة الڤديو المعترِ�
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-cta-link = اعرض لوحة معلومات الحماية
+cfr-whatsnew-protections-icon-alt = أيقونة الدرع
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = تجربة محسّنة لملفات PDF
+cfr-whatsnew-better-pdf-body = تفتح مستندات PDF الآن مباشرة في { -brand-short-name } مما يسهل أسلوب عملك.
 
 ## DOH Message
+
+cfr-doorhanger-doh-primary-button = حسنًا، فهمت
+    .accesskey = ح
+cfr-doorhanger-doh-secondary-button = عطّل
+    .accesskey = ط
+
+## What's new: Cookies message
 

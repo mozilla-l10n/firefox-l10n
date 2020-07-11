@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ابحث
     .aria-label = ابحث
-
 newtab-search-box-search-the-web-text = ابحث في الوِب
 newtab-search-box-search-the-web-input =
     .placeholder = ابحث في الوِب
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = حرّر الموقع الشائع
 newtab-topsites-title-label = العنوان
 newtab-topsites-title-input =
     .placeholder = أدخل عنوانًا
-
 newtab-topsites-url-label = المسار
 newtab-topsites-url-input =
     .placeholder = اكتب أو ألصق مسارًا
 newtab-topsites-url-validation = مطلوب مسار صالح
-
 newtab-topsites-image-url-label = مسار الصورة المخصصة
 newtab-topsites-use-image-link = استخدم صورة مخصصة…
 newtab-topsites-image-validation = فشل تحميل الصورة. جرّب مسارا آخر.
@@ -60,12 +57,10 @@ newtab-confirm-delete-history-p2 = لا يمكن التراجع عن هذا ال
 newtab-menu-section-tooltip =
     .title = افتح القائمة
     .aria-label = افتح القائمة
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = أزِل
     .aria-label = أزِل
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -89,6 +84,7 @@ newtab-menu-delete-history = احذف من التأريخ
 newtab-menu-save-to-pocket = احفظ في { -pocket-brand-name }
 newtab-menu-delete-pocket = احذف من { -pocket-brand-name }
 newtab-menu-archive-pocket = أرشِف في { -pocket-brand-name }
+newtab-menu-show-privacy-info = رُعاتنا الرسميّون وخصوصيّتك
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -131,6 +127,10 @@ newtab-label-removed-bookmark = أُزيلت العلامة
 newtab-label-recommended = مُتداول
 newtab-label-saved = حُفِظت في { -pocket-brand-name }
 newtab-label-download = نُزّل
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = برعاية { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -164,12 +164,10 @@ newtab-section-header-pocket = ينصح به { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ابدأ التصفح وسنعرض أمامك بعض المقالات والفيديوهات والمواقع الأخرى التي زرتها حديثا أو أضفتها إلى العلامات هنا.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = لا جديد. تحقق لاحقًا للحصول على مزيد من أهم الأخبار من { $provider }. لا يمكنك الانتظار؟ اختر موضوعًا شائعًا للعثور على المزيد من القصص الرائعة من جميع أنحاء الوِب.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
