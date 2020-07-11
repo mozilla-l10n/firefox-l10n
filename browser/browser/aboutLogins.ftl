@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Prisijungimai ir slaptažodžiai
@@ -32,6 +27,7 @@ menu =
     .title = Atverti meniu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importuoti iš kitos naršyklės…
+about-logins-menu-menuitem-import-from-a-file = Importuoti iš failo…
 about-logins-menu-menuitem-export-logins = Eksportuoti prisijungimus…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -73,12 +69,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Ieškote įrašytų prisijungimų? Naudokite „{ -sync-brand-short-name }“.
+about-logins-login-intro-heading-logged-out = Ieškote savo įrašytų prisijungimų? Naudokite „{ -sync-brand-short-name }“, arba importuokite juos.
 about-logins-login-intro-heading-logged-in = Nerasta sinchronizuotų prisijungimų.
 login-intro-description = Jeigu esate įrašę prisijungimus į „{ -brand-product-name }“ kitame įrenginyje, juos galite turėti čia:
 login-intro-instruction-fxa = Susikurkite arba prisijunkite prie savo „{ -fxaccount-brand-name }“ paskyros tame įrenginyje, kur yra prisijungimai.
 login-intro-instruction-fxa-settings = Įsitikinkite, kad „{ -sync-brand-short-name }“ nuostatose pažymėjote langelį „Prisijungimai“.
 about-logins-intro-instruction-help = Aplankę <a data-l10n-name="help-link">„{ -lockwise-brand-short-name }“ žinyną</a>, rasite daugiau informacijos
 about-logins-intro-import = Jeigu turite kitoje naršyklėje įrašytų prisijungimų, galite <a data-l10n-name="import-link">juos importuoti į „{ -lockwise-brand-short-name }“</a>
+about-logins-intro-import2 = Jei jūsų prisijungimai yra įrašyti kitur nei „{ -brand-product-name }“, galite <a data-l10n-name="import-browser-link">juos importuoti iš kitos naršyklės</a> arba <a data-l10n-name="import-file-link">iš failo</a>
 
 ## Login
 
@@ -216,5 +214,18 @@ about-logins-export-file-picker-export-button = Eksportuoti
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV dokumentas
+       *[other] CSV failas
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importuoti prisijungimų failą
+about-logins-import-file-picker-import-button = Importuoti
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV failas
        *[other] CSV failas
     }

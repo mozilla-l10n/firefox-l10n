@@ -1170,6 +1170,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = G
 space-alert-under-5gb-message = „{ -brand-short-name }“ tuoj pritrūks vietos diske. Svetainių turinys gali būti atvaizduojamas netinkamai. Spustelėkite „Sužinoti daugiau“, norėdami optimizuoti savo disko naudojimą efektyvesniam naršymui.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Tik HTTPS veiksena
+httpsonly-description = HTTPS užtikrina saugų, šifruotą ryšį tarp „{ -brand-short-name }“ ir jūsų lankomų svetainių. Dauguma svetainių palaiko HTTPS, ir jeigu yra įjungta tik HTTPS veiksena, tada „{ -brand-short-name }“ visiems susijungimams naudos HTTPS.
+httpsonly-learn-more = Sužinoti daugiau
+httpsonly-radio-enabled =
+    .label = Įjungti tik HTTPS veikseną visuose languose
+httpsonly-radio-enabled-pbm =
+    .label = Įjungti tik HTTPS veikseną privačiojo naršymo languose
+httpsonly-radio-disabled =
+    .label = Neįjungti tik HTTPS veiksenos
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Darbalaukis
