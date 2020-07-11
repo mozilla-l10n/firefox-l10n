@@ -30,3 +30,6 @@ carddav-remember-password =
     .accesskey = т
 carddav-loading = Тражим подешавање…
 carddav-connection-error = Неуспешно повезивање.
+carddav-none-found = Нисам нашао именике за додавање у наведени налог.
+carddav-already-added = Сви именици наведеног налога су већ додати.
+carddav-available-books = Доступни именици:
