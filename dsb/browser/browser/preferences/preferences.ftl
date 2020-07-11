@@ -1174,6 +1174,17 @@ space-alert-under-5gb-ok-button =
     .accesskey = z
 space-alert-under-5gb-message = { -brand-short-name } njama wěcej dosć składowańskego ruma. Wopśimjeśe websedła se snaź korektnje njezwobraznijo. Móžośo na “Dalšne informacije” kliknuś, aby swój składowe wužyśe za lěpše pśeglědowańske dožywjenje opiměrował.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Modus Jano-HTTPS
+httpsonly-learn-more = Dalšne informacije
+httpsonly-radio-enabled =
+    .label = Modus Jano-HTTPS we wšych woknach zmóžniś
+httpsonly-radio-enabled-pbm =
+    .label = Modus Jano-HTTPS jano w priwatnych woknach zmóžniś
+httpsonly-radio-disabled =
+    .label = Modus Jano-HTTPS njezmóžniś
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop

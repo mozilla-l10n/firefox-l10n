@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Pśizjawjenja a gronidła
@@ -32,6 +27,7 @@ menu =
     .title = Meni wócyniś
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Z drugego wobglědowaka importěrowaś…
+about-logins-menu-menuitem-import-from-a-file = Z dataje importěrowaś…
 about-logins-menu-menuitem-export-logins = Pśizjawjenja eksportěrowaś…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -74,6 +70,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Pytaśo swóje skłaźone pśizjawjenja? Konfigurěrujśo { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Pytaśo swóje skłaźone pśizjawjenja? Konfigurěrujśo { -sync-brand-short-name } abo importěrujśo je.
 about-logins-login-intro-heading-logged-in = Žedne synchronizěrowane pśizjawjenja namakane.
 login-intro-description = Jolic sćo składł swóje pśizjawjenja { -brand-product-name } na drugem rěźe, tak móžośo je sem pśinjasć:
 login-intro-instruction-fxa = Załožćo abo pśizjawśo se pla swójogo { -fxaccount-brand-name } na rěźe, źož waše pśizjawjenja su skłaźone
@@ -215,6 +212,19 @@ about-logins-export-file-picker-export-button = Eksportěrowaś
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-dokument
+       *[other] CSV-dataja
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Dataju pśizjawjenjow importěrowaś
+about-logins-import-file-picker-import-button = Importěrowaś
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-dokument
        *[other] CSV-dataja
