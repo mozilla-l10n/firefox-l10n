@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "账户设置">
 <!ENTITY fxa.menu.manageAccount2.label "管理账户">
 <!ENTITY fxa.menu.signOut.label "退出登录…">
-<!ENTITY fxa.menu.setupSync.label "设置 &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.setupSync.label "设置&syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -239,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "停止">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "转到地址栏中指向的网址">
 
 <!ENTITY printButton.label            "打印">
@@ -257,7 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "管理插件使用">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "更改您是否接收该网站发来的通知">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "在持久存储中存储数据">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "浏览器正被远程控制">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "打开 Web 认证面板">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "打开上网活动权限面板">
@@ -286,10 +284,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "您已阻止此网站安装附加组件。">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "显示历史">
-
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此站点更多权限。">
-
 
 <!ENTITY searchItem.title             "搜索">
 
@@ -349,7 +343,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "文件">
 <!ENTITY fileMenu.accesskey       "F">
-
 <!ENTITY newUserContext.label             "新建身份标签页">
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY manageUserContext.label          "管理身份">
@@ -400,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "侧栏">
 <!ENTITY viewSidebarMenu.accesskey "e">
-
 <!ENTITY viewCustomizeToolbar.label       "定制…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
@@ -461,7 +453,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "添加到工具栏">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "添加到折叠菜单">
@@ -495,7 +487,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "更多">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "搜索或输入网址">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -635,6 +626,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "保存到 Pocket">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "保存页面到 Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "保存链接到 Pocket">
@@ -938,7 +931,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "反馈故障">
 <!ENTITY contentBlocking.breakageReportView2.description "内容拦截可能导致某些网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。这将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
 <!ENTITY contentBlocking.breakageReportView.learnMore "详细了解">
-
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "网址">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到了什么问题？（可选）">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "发送反馈">
@@ -991,7 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "有扩展修改了您的主页。如果您不想做此更改，可以还原此设置。">
-
 <!ENTITY homepageControlled.header.message "您的主页已变更。">
 <!ENTITY homepageControlled.keepButton.label "保留更改">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
