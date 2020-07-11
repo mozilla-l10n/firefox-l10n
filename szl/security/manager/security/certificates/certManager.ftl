@@ -220,6 +220,15 @@ add-exception-expired-long = Tyn certyfikat aktualnie niy ma płatny. Mōg być 
 add-exception-unverified-or-bad-signature-short = Niypoznano tōżsamość
 add-exception-unverified-or-bad-signature-long = Tymu certyfikatowi niy idzie wierzić, bo niy bōł zweryfikowany ôd żodnego regiyrunku certyfikacyje z bezpiecznym podpisym.
 add-exception-valid-short = Płatny certyfikat
+add-exception-valid-long = Tyn serwer dowo płatne, zweryfikowane idyntyfikacyje.  Niy trza dować wyjōntku do tego serwera.
+add-exception-checking-short = Badanie imformacyji
+add-exception-checking-long = Prōba idyntyfikacyje tego serwera…
+add-exception-no-cert-short = Niy ma dostympnych żodnych informacyji
+add-exception-no-cert-long = Niy szło dostać sztatusu idyntyfikacyje do tego serwera.
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Spamiyntej certyfikat do pliku
+cert-format-base64 = Certyfikat X.509 (PEM)
+cert-format-base64-chain = Certyfikat X.509 ze lyńcuchym (PEM)
+cert-format-der = Certyfikat X.509 (DER)
