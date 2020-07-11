@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Овлашћења…">
 <!ENTITY privileges.button.accesskey             "О">
 <!ENTITY permissionsDesc.label                   "Имате следећа овлашћења:">
+<!ENTITY folderOtherUsers.label                  "Други са приступом овој фасцикли:">
 <!ENTITY folderType.label                        "Врста фасцикле:">
 
 <!ENTITY folderQuotaTab.label                    "Квота">

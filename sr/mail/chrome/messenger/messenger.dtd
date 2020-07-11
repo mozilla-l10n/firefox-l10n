@@ -290,6 +290,7 @@
 <!ENTITY searchMailCmd.accesskey "п">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY glodaSearchCmd.label "Општа претрага…">
+<!ENTITY glodaSearchCmd.accesskey "г">
 <!ENTITY searchAddressesCmd.label "Претражи адресе…">
 <!ENTITY searchAddressesCmd.accesskey "с">
 
