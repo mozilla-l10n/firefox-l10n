@@ -1170,6 +1170,14 @@ space-alert-under-5gb-ok-button =
     .accesskey = O
 space-alert-under-5gb-message = Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Tryb wyłącznie protokołu HTTPS
+httpsonly-description = Protokół HTTPS zapewnia zabezpieczone, zaszyfrowane połączenie między przeglądarką { -brand-short-name } a odwiedzanymi witrynami. Większość witryn obsługuje HTTPS, a jeśli tryb używania wyłączenie protokołu HTTPS jest włączony, to { -brand-short-name } przełączy wszystkie połączenia na HTTPS.
+httpsonly-learn-more = Więcej informacji
+httpsonly-radio-enabled =
+    .label = Tryb używania wyłącznie protokołu HTTPS we wszystkich oknach
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Pulpit
