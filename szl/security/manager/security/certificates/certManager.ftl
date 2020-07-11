@@ -212,6 +212,7 @@ cert-not-verified-unknown = Niy szło zweryfikować tego certyfikatu z niypoznan
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Prōbujesz zmiynić spusōb, jak { -brand-short-name } idyntyfikuje tyn serwer.
+add-exception-invalid-header = Ta strōna prōbuje sie zidyntyfikować złymi informacyjami.
 
 ## Certificate export "Save as" and error dialogs
 
