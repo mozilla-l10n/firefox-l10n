@@ -28,5 +28,5 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Placki
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = startowy pufrowak about:cache
+    .label = startowy pufrowak about:home
 experimental-features-abouthome-startup-cache-description = Pufrowak za spočatny dokument about:home, kotryž so po standardźe při startowanju začituje. Zaměr pufrowaka je, startowy wukon polěpšić.
