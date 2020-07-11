@@ -51,8 +51,8 @@ onboarding-import-sites-info =
     .title =
         Бұл сайттар осы құрылғыдан табылды.
         { -brand-short-name } деректерді басқа
-        another browser unless you choose to
-        import it.
+        браузерден деректерді сіз оларды
+        импорттағанша дейін синхрондамайды.
     .aria-label = { onboarding-import-sites-info.title }
 
 ## Welcome full page string
