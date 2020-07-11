@@ -220,3 +220,10 @@ about-logins-export-file-picker-csv-filter-title =
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Tijik' Ruyakb'al Tikirib'äl Molojri'ïl
 about-logins-import-file-picker-import-button = Tijik'
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Wuj
+       *[other] CSV Yakb'äl
+    }

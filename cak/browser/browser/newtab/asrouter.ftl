@@ -249,7 +249,13 @@ cfr-whatsnew-better-pdf-body = Wakami ri aj PDF taq wuj jumul yejaq pa { -brand-
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = K'o rejqalem ri awichinanem. { -brand-short-name } wakami nrojqaj rub'ey pa jikil rub'eyal ri DNS taq k'utuj, akuchi' k'o chi k'o jun achib'ilan samaj richin yatruchajij toq yatok pa k'amaya'l.
+cfr-doorhanger-doh-header = Kikanoxik jikïl chuqa' man etaman ta rusik'ixik taq DNS
 cfr-doorhanger-doh-primary-button = ÜTZ, Wetaman chik
     .accesskey = T
 cfr-doorhanger-doh-secondary-button = Tichup
     .accesskey = h
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Yonil taq chajinïk chuwäch q'olonel rub'eyal richin ojqanem
