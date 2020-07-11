@@ -732,6 +732,7 @@
 <!ENTITY idColumn.label "ลำดับที่ได้รับ">
 <!ENTITY attachmentColumn.label "ไฟล์แนบ">
 
+<!ENTITY deleteColumn.label "ลบ">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "เลือกคอลัมน์ที่จะแสดง">
@@ -757,6 +758,7 @@
 <!ENTITY idColumn2.tooltip "เรียงตามลำดับที่ได้รับ">
 <!ENTITY attachmentColumn2.tooltip "เรียงตามไฟล์แนบ">
 
+<!ENTITY deleteColumn.tooltip "ลบข้อความ">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "ข้อความใหม่จากแม่แบบ">
