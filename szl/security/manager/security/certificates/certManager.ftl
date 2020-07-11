@@ -232,3 +232,6 @@ save-cert-as = Spamiyntej certyfikat do pliku
 cert-format-base64 = Certyfikat X.509 (PEM)
 cert-format-base64-chain = Certyfikat X.509 ze lyńcuchym (PEM)
 cert-format-der = Certyfikat X.509 (DER)
+cert-format-pkcs7 = Certyfikat X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certyfikat X.509 ze lyńcuchym (PKCS#7)
+write-file-failure = Feler zbioru
