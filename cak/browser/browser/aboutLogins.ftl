@@ -27,6 +27,7 @@ menu =
     .title = Tijaq k'utsamaj
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Tijik' pa Jun Chik Okik'amaya'l…
+about-logins-menu-menuitem-import-from-a-file = Tijik' pa jun Yakb'äl…
 about-logins-menu-menuitem-export-logins = Tik'wäx el Tikirib'äl Molojri'ïl…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -67,6 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = ¿La ye'akanoj rutikirib'al taq amolojri'ïl e'ayakon kan? Tab'ana' runuk'ulem { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = ¿La ye'akanoj rutikirib'al taq amolojri'ïl e'ayakon kan? Tab'ana' runuk'ulem { -sync-brand-short-name } o Tijik' Wachinel.
 about-logins-login-intro-heading-logged-in = Majun ximon taq tikirib'äl molojri'ïl xe'ilitäj.
 login-intro-description = We xe'ayäk ri rutikirib'al amolojri'ïl pa { -brand-product-name } pa jun chik wi okisab'äl, wawe' nik'ut pe richin nak'ul wawe' chuqa':
 login-intro-instruction-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl
@@ -212,3 +214,9 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] Wuj CSV
        *[other] Yakb'äl CSV
     }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Tijik' Ruyakb'al Tikirib'äl Molojri'ïl
+about-logins-import-file-picker-import-button = Tijik'
