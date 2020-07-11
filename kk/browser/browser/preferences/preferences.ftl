@@ -1166,6 +1166,14 @@ space-alert-under-5gb-ok-button =
     .accesskey = а
 space-alert-under-5gb-message = { -brand-short-name } үшін бос орын аяқталуда. Вебсайттар құрамасы дұрыс көрсетілмеуі мүмкін. "Көбірек білу" сілтемесін ашып, интернетті ыңғайлы шолу үшін диск қолданылуын қалай баптау керек екенін білуіңізге болады.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Тек-HTTPS режимі
+httpsonly-description = HTTPS { -brand-short-name } және сіз кіретін веб-сайттар арасында қауіпсіз, шифрленген байланысты ұсынады. Веб-сайттардың көбі HTTPS қолдайды, тек-HTTPS режимі іске қосылған болса, { -brand-short-name } барлық байланыстарды HTTPS-ке дейін жаңартады.
+httpsonly-learn-more = Көбірек білу
+httpsonly-radio-enabled =
+    .label = Барлық терезелерде тек-HTTPS режимін іске қосу
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Жұмыс үстелі
