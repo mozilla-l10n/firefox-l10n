@@ -199,9 +199,19 @@ verify-email-signer =
     .value = Certyfikat do podpisowanio emaila
 verify-email-recip =
     .value = Certyfikat do przijmujōncego email
+# Cert verification
+cert-not-verified-cert-revoked = Niy szło zweryfikować tego certyfikatu, bo je ôdkozany.
+cert-not-verified-cert-expired = Niy szło zweryfikować tego certyfikatu, bo sie przedowniōł.
+cert-not-verified-cert-not-trusted = Niy szło zweryfikować tego certyfikatu, bo mu niy wierzisz.
+cert-not-verified-issuer-not-trusted = Niy szło zweryfikować tego certyfikatu, bo niy wierzisz jego wystowcy.
+cert-not-verified-issuer-unknown = Niy szło zweryfikować tego certyfikatu, bo jego wystowca niy ma poznany.
+cert-not-verified-ca-invalid = Niy szło zweryfikować tego certyfikatu, bo certyfikat CA niy ma dobry.
+cert-not-verified_algorithm-disabled = Niy szło zweryfikować tego certyfikatu, bo bōł podpisany algorytmym, co bōł zaszperowany, bo niy ma bezpieczny.
+cert-not-verified-unknown = Niy szło zweryfikować tego certyfikatu z niypoznanyj prziczyny.
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Prōbujesz zmiynić spusōb, jak { -brand-short-name } idyntyfikuje tyn serwer.
 
 ## Certificate export "Save as" and error dialogs
 
