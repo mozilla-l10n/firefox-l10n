@@ -9,6 +9,10 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Karty v paneli &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "K">
+
+<!ENTITY sidebar.customize.title                "Prispôsobiť bočný panel">
+<!ENTITY sidebar.customize.current2.label       "Karty v bočnom paneli:">
+<!ENTITY sidebar.customize.current2.accesskey   "K">
 <!ENTITY sidebar.customize.customize.label      "Prispôsobiť kartu…">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
 <!ENTITY sidebar.customize.remove.label         "Odstrániť">
