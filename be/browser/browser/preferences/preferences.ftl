@@ -1170,6 +1170,11 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = У { -brand-short-name } сканчаецца месца на дыску. Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Клікніце “Падрабязней”, каб аптымізаваць выкарыстанне вашага дыска для паляпшэння вэб-сёрфінгу.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Рэжым толькі HTTPS
+httpsonly-description = HTTPS забяспечвае бяспечнае зашыфраванае злучэнне паміж { -brand-short-name } і вэб-сайтамі, якія вы наведваеце. Большасць сайтаў падтрымліваюць HTTPS, і калі ўключаны рэжым толькі HTTPS, { -brand-short-name } пераключа ўсе злучэнні на HTTPS.
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Працоўны стол
