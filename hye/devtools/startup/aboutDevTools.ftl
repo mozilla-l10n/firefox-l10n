@@ -20,6 +20,7 @@ newsletter-email-placeholder =
 newsletter-privacy-label = Համաձայն եմ կիսուել իմ տեղեկութիւններով Mozila-ի հետ՝ համաձայն <a data-l10n-name="privacy-policy">Privacy Policy</a> քաղաքականութեան։
 newsletter-subscribe-button = Բաժանորդագրուել
 newsletter-thanks-title = Շնորհակալութիւն
+newsletter-thanks-message = Եթե նախկինում չէք բաժանորդագրուել Mozilla֊ի նորութիւններին, ապա կարող էք անել հիմայ։ Ստուգէք Ձեր մտից արկղը կամ աղբարկղը մեր նամակը գտնելու համար։
 footer-title = Firefox Մշակողի թողարկում
 footer-message = Փնտրում եք ոչ միա՞յն մշակողի գործիքներ։ Ստուգեք Firefox զննարկիչը, որը յատուկ կառուցուած է մշակողների եւ ժամանակակից գործավարութիւնների համար։
 footer-learn-more-link = Իմանալ աւելին
