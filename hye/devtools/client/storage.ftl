@@ -10,3 +10,12 @@ storage-table-empty-text = Ընտրուած հանգոյցի համար չկայ
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cookies
 storage-table-type-cookies-hint = Դիտել եւ խմբագրել նշոցիկները՝ ընտրելով հանգոյցը։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
+# Hint shown when the local storage type is selected. Clicking the link will open
+# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
+storage-table-type-localstorage-hint = Դիտել եւ խմբագրել տեղական պահոցը՝ ընտրելով հանգոյցը։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
+# Hint shown when the session storage type is selected. Clicking the link will open
+# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
+storage-table-type-sessionstorage-hint = Դիտել եւ խմբագրել աշխատաշրջանի պահոցը՝ ընտրելով հանգոյցը։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
+# Hint shown when the IndexedDB storage type is selected. Clicking the link will open
+# https://developer.mozilla.org/docs/Tools/Storage_Inspector/IndexedDB
+storage-table-type-indexeddb-hint = Դիտել եւ ջնջել IndexedDB մուտքերը՝ ընտրելով տուելաների շտեմարան։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
