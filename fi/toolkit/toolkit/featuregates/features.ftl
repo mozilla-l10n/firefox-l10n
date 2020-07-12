@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+experimental-features-css-masonry-description = Ottaa käyttöön tuen kokeelliselle CSS Masonry Layout -ominaisuudelle. Yleiskuvauksen ominaisuudesta saa englanniksi <a data-l10n-name="explainer">tästä selostuksesta</a>. Palautetta voi antaa englanniksi kommentoimalla <a data-l10n-name="w3c-issue">tähän GitHub-issueen</a> tai <a data-l10n-name="bug">tähän bugiraporttiin</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
@@ -24,3 +25,7 @@ experimental-features-cookie-samesite-lax-by-default2-description = Käsittele e
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Evästeet: SameSite=None vaatii secure-attribuutin
 experimental-features-cookie-samesite-none-requires-secure2-description = Attribuutin ”SameSite=None” sisältävät evästeet vaativat secure-attribuutin. Tämä ominaisuus vaatii ominaisuuden ”Evästeet: SameSite=Lax oletusarvoisesti”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home-sivun käynnistyksen välimuisti

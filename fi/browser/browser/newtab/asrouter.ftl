@@ -257,3 +257,6 @@ cfr-doorhanger-doh-secondary-button = Poista käytöstä
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Automaattinen suojaus ovelalta seurannalta
+cfr-whatsnew-clear-cookies-body = Jotkin seurantamenetelmät ohjaavat sinut uudelleen sivustoille, jotka asettavat evästeitä salaa. { -brand-short-name } poistaa nyt nuo evästeet automaattisesti, jotta sinua ei voida seurata.
+cfr-whatsnew-clear-cookies-image-alt = Kuvituskuva evästeen estämisestä
