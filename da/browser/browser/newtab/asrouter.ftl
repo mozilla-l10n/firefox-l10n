@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Anbefalet udvidelse
@@ -11,42 +12,33 @@ cfr-doorhanger-pintab-heading = Prøv: Fastgør faneblad
 ##
 
 cfr-doorhanger-extension-sumo-link =
-  .tooltiptext = Hvorfor får jeg vist dette?
-
+    .tooltiptext = Hvorfor får jeg vist dette?
 cfr-doorhanger-extension-cancel-button = Ikke nu
-  .accesskey = I
-
+    .accesskey = I
 cfr-doorhanger-extension-ok-button = Tilføj nu
-  .accesskey = T
+    .accesskey = T
 cfr-doorhanger-pintab-ok-button = Fastgør dette faneblad
-  .accesskey = F
-
+    .accesskey = F
 cfr-doorhanger-extension-manage-settings-button = Håndter indstillinger for anbefalinger
-  .accesskey = H
-
+    .accesskey = H
 cfr-doorhanger-extension-never-show-recommendation = Vis ikke denne anbefaling
-  .accesskey = V
-
+    .accesskey = V
 cfr-doorhanger-extension-learn-more-link = Læs mere
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = af { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Anbefaling
-
 cfr-doorhanger-extension-notification2 = Anbefaling
-  .tooltiptext = Anbefalet udvidelse
-  .a11y-announcement = Anbefalet udvidelse tilgængelig
-
+    .tooltiptext = Anbefalet udvidelse
+    .a11y-announcement = Anbefalet udvidelse tilgængelig
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Anbefaling
-  .tooltiptext = Anbefalet funktion
-  .a11y-announcement = Anbefalet funktion tilgængelig
+    .tooltiptext = Anbefalet funktion
+    .a11y-announcement = Anbefalet funktion tilgængelig
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -55,19 +47,18 @@ cfr-doorhanger-feature-notification = Anbefaling
 # Variables:
 #   $total (Number) - The rating of the add-on from 1 to 5
 cfr-doorhanger-extension-rating =
-  .tooltiptext =
-    { $total ->
-        [one] { $total } stjerne
-       *[other] { $total } stjerner
-    }
+    .tooltiptext =
+        { $total ->
+            [one] { $total } stjerne
+           *[other] { $total } stjerner
+        }
 # Variables:
 #   $total (Number) - The total number of users using the add-on
 cfr-doorhanger-extension-total-users =
-  { $total ->
-      [one] { $total } bruger
-     *[other] { $total } brugere
-  }
-
+    { $total ->
+        [one] { $total } bruger
+       *[other] { $total } brugere
+    }
 cfr-doorhanger-pintab-description = Få nem adgang til de websteder, du bruger mest. Dine fastgjorte faneblade er der stadig, når du genstarter.
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = Få nem adgang til de websteder, du bruger m
 cfr-doorhanger-pintab-step1 = <b>Højreklik</b> på det faneblad, du vil fastgøre.
 cfr-doorhanger-pintab-step2 = Vælg <b>Fastgør faneblad</b> i menuen.
 cfr-doorhanger-pintab-step3 = En blå prik på det fastgjorte faneblad viser, at webstedet er blevet opdateret.
-
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Fortsæt
-
 
 ## Firefox Accounts Message
 
@@ -86,8 +75,8 @@ cfr-doorhanger-bookmark-fxa-header = Synkroniser dine bogmærker overalt.
 cfr-doorhanger-bookmark-fxa-body = Vidste du, at du automatisk kan overføre nye bogmærker til din telefon eller tablet? Få en { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bogmærker nu…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
-  .aria-label = Luk-knap
-  .title = Luk
+    .aria-label = Luk-knap
+    .title = Luk
 
 ## Protections panel
 
@@ -100,54 +89,42 @@ cfr-protections-panel-link-text = Læs mere
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funktion:
-
 cfr-whatsnew-button =
-  .label = Nyheder
-  .tooltiptext = Nyheder
-
+    .label = Nyheder
+    .tooltiptext = Nyheder
 cfr-whatsnew-panel-header = Nyheder
-
 cfr-whatsnew-release-notes-link-text = Læs udgivelsesnoterne
-
 cfr-whatsnew-fx70-title = { -brand-short-name } kæmper nu hårdere for din ret til et privatliv
 cfr-whatsnew-fx70-body =
     Den nyeste version har forbedret funktionen Beskyttelse mod sporing og gør det
     nemmere end nogensinde før at lave sikre adgangskoder.
-
 cfr-whatsnew-tracking-protect-title = Beskyt dig selv mod at blive sporet på nettet
 cfr-whatsnew-tracking-protect-body =
-   { -brand-short-name } blokerer mange udbredte sporings-teknologier fra sociale netværk
-   og andre virksomheder, der følger med i, hvad du laver på nettet.
+    { -brand-short-name } blokerer mange udbredte sporings-teknologier fra sociale netværk
+    og andre virksomheder, der følger med i, hvad du laver på nettet.
 cfr-whatsnew-tracking-protect-link-text = Se din rapport
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
-  { $blockedCount ->
-    [one] sporings-mekanisme blokeret
-   *[other] sporings-mekanismer blokeret
-  }
-cfr-whatsnew-tracking-blocked-subtitle =
-   siden { DATETIME($earliestDate, month: "long", year: "numeric") }
+    { $blockedCount ->
+        [one] sporings-mekanisme blokeret
+       *[other] sporings-mekanismer blokeret
+    }
+cfr-whatsnew-tracking-blocked-subtitle = siden { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Se rapport
-
 cfr-whatsnew-lockwise-backup-title = Lav backup af dine adgangskoder
-cfr-whatsnew-lockwise-backup-body =
-   Og opret sikre adgangskoder, du har adgang til overalt, hvor du logger ind.
+cfr-whatsnew-lockwise-backup-body = Og opret sikre adgangskoder, du har adgang til overalt, hvor du logger ind.
 cfr-whatsnew-lockwise-backup-link-text = Slå backup til
-
 cfr-whatsnew-lockwise-take-title = Tag dine adgangskoder med dig
 cfr-whatsnew-lockwise-take-body =
-   Med apppen { -lockwise-brand-short-name } får du sikker adgang til dine adgangskoder,
-   uanset hvor du er.
+    Med apppen { -lockwise-brand-short-name } får du sikker adgang til dine adgangskoder,
+    uanset hvor du er.
 cfr-whatsnew-lockwise-take-link-text = Hent appen
 
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Skriv mindre, find mere med adressefeltet
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-topsites = Vælg adressefeltet, og en boks med links til dine mest besøgte websteder vil blive vist.
 cfr-whatsnew-searchbar-icon-alt-text = Forstørrelsesglas-ikon
 
@@ -169,12 +146,11 @@ cfr-whatsnew-permission-prompt-cta = Læs mere
 # number of tracking elements blocked. Don’t add $fingerprinterCount to your
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header =
-  { $fingerprinterCount ->
-    [one] Fingerprinter blokeret
-   *[other] Fingerprinters blokeret
-  }
+    { $fingerprinterCount ->
+        [one] Fingerprinter blokeret
+       *[other] Fingerprinters blokeret
+    }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokerer nu mange af de fingerprinters, der i det skjulte indsamler informationer om din enhed og dine handlinger med henblik på at skabe en markedsførings-profil på dig.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blokere fingerprinters, der i det skjulte indsamler informationer om din enhed og dine handlinger med henblik på at skabe en markedsførings-profil på dig.
@@ -184,14 +160,14 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan bloker
 cfr-doorhanger-sync-bookmarks-header = Få dette bogmærke på din telefon
 cfr-doorhanger-sync-bookmarks-body = Tag dine bogmærker, adgangskoder, din historik og meget mere med dig på alle dine enheder med { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Aktiver { -sync-brand-short-name }
-  .accesskey = A
+    .accesskey = A
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Mist aldrig en adgangskode igen
 cfr-doorhanger-sync-logins-body = Gem og synkroniser dine adgangskoder sikkert på alle dine enheder.
 cfr-doorhanger-sync-logins-ok-button = Aktiver { -sync-brand-short-name }
-  .accesskey = A
+    .accesskey = A
 
 ## Send Tab
 
@@ -199,25 +175,25 @@ cfr-doorhanger-send-tab-header = Læs på farten
 cfr-doorhanger-send-tab-recipe-header = Tag opskriften med ud i køkkenet
 cfr-doorhanger-send-tab-body = Med funktionen Send faneblade kan du hurtigt dele dette link med din telefon eller andre enheder med { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Prøv Send faneblade
-  .accesskey = P
+    .accesskey = P
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Del denne PDF-fil sikkert
 cfr-doorhanger-firefox-send-body = Hold dine fortrolige dokumenter sikre med stærk kryptering og et link, der automatisk udløber
 cfr-doorhanger-firefox-send-ok-button = Prøv { -send-brand-name }
-  .accesskey = P
+    .accesskey = P
 
 ## Social Tracking Protection
 
 cfr-doorhanger-socialtracking-ok-button = Se beskyttelse
-  .accesskey = b
+    .accesskey = b
 cfr-doorhanger-socialtracking-close-button = Luk
-  .accesskey = L
+    .accesskey = L
 cfr-doorhanger-socialtracking-dont-show-again = Vis mig ikke meddelelser som denne igen
-  .accesskey = V
+    .accesskey = V
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } forhindrede et socialt netværk i at spore dig på denne side
-cfr-doorhanger-socialtracking-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu de mest almindelige sporings-teknologier fra sociale medier for at begrænse, hvor meget data de kan indsamle om din adfærd på nettet. 
+cfr-doorhanger-socialtracking-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu de mest almindelige sporings-teknologier fra sociale medier for at begrænse, hvor meget data de kan indsamle om din adfærd på nettet.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokerede en fingerprinter på denne side
 cfr-doorhanger-fingerprinters-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu fingerprinters, der indsamler unikke informationer om din enhed for at spore dig.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokerede en cryptominer på denne side
@@ -229,13 +205,16 @@ cfr-doorhanger-cryptominers-description = Du har ret til et privatliv. { -brand-
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
-  { $blockedCount ->
-   *[other] { -brand-short-name } blokerede flere end <b>{ $blockedCount }</b> sporings-mekanismer siden { $date }!
-  }
+    { $blockedCount ->
+       *[other] { -brand-short-name } blokerede flere end <b>{ $blockedCount }</b> sporings-mekanismer siden { $date }!
+    }
 cfr-doorhanger-milestone-ok-button = Vis alle
-  .accesskey = V
+    .accesskey = V
+cfr-doorhanger-milestone-close-button = Luk
+    .accesskey = L
 
 ## What’s New Panel Content for Firefox 76
+
 
 ## Lockwise message
 
@@ -269,3 +248,12 @@ cfr-whatsnew-better-pdf-body = PDF-dokumenter åbnes nu direkte i { -brand-short
 
 ## DOH Message
 
+cfr-doorhanger-doh-header = Sikrere, krypterede DNS-opslag
+cfr-doorhanger-doh-primary-button = Ok, forstået
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Deaktiver
+    .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Automatisk beskyttelse mod listige sporings-taktikker
