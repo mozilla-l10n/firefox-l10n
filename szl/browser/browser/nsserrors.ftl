@@ -121,3 +121,5 @@ ssl-error-export-restriction-alert = Partner dowo znać, że negocjacyjo niy szt
 ssl-error-protocol-version-alert = Partner dowo znać ô niykōmpatybilnyj abo niyôbsugowanyj wersyji protokołu.
 ssl-error-insufficient-security-alert = Serwer potrzebuje bezpieczniyjszych szyfrōw  jak te, co ôbsuguje klijynt.
 ssl-error-internal-error-alert = Partner dowo znać, że pokozoł sie wewnyntrzny feler.
+ssl-error-user-canceled-alert = Partner pociepoł prziwitanie.
+ssl-error-no-renegotiation-alert = Partner niy dowo zgody na rynegocjacyjo parametrōw bezpieczyństwa SSL.
