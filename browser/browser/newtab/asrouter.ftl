@@ -257,3 +257,4 @@ cfr-doorhanger-doh-secondary-button = Deaktiver
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Automatisk beskyttelse mod listige sporings-taktikker
+cfr-whatsnew-clear-cookies-body = Nogle sporings-mekanismer omdirigerer dig til andre websteder, der gemmer hemmelige cookies. { -brand-short-name } sletter nu automatisk disse cookies, så du ikke kan spores.
