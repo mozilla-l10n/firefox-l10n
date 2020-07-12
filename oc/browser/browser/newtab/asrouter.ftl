@@ -257,4 +257,5 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Proteccion automatica contra las tacticas de seguiment enganairas
 cfr-whatsnew-clear-cookies-image-alt = Illustracion d’un cookie blocat

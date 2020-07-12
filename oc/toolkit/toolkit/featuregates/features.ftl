@@ -19,3 +19,11 @@ experimental-features-avif-description = Prisa en carga experimentala pel format
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies : SameSite=Lax per defaut
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies : SameSite=None requerís l’atribut secure
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = cache d’aviada about:home
+experimental-features-abouthome-startup-cache-description = Un cache pel document inicial about:home qu’es cargat cada aviada. La tòca del cache es de melhorar las performanças d’aviada.
