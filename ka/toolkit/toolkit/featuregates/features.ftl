@@ -17,16 +17,14 @@ experimental-features-web-gpu-description = საცდელი API გრა�
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = საცდელი მხარდაჭერა სურათის სახის ფაილისთვის AVIF: AV1
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax by default
-experimental-features-cookie-samesite-lax-by-default-description = განესაზღვროს ფუნთუშებს “sameSite=lax” ნაგულისხმევად, თუ “sameSite” თვისება მითითებულია. შემმუშავებლებმა უნდა გაითვალისწინონ შეუზღუდავი გამოყენების არსებული მდგომარეობა, მკაფიო განაცხადით “sameSite=none”.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requires secure attribute
-experimental-features-cookie-samesite-none-requires-secure-description = ფუნთუშები თვისებით “sameSite=none” საჭიროებს დაცულ თვისებას. ამ შესაძლებლობის წინაპირობაა “Cookies: SameSite=lax by default”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = ფუნთუშები: SameSite=Lax ნაგულისხმევად
+experimental-features-cookie-samesite-lax-by-default2-description = განესაზღვროს ფუნთუშებს „SameSite=Lax“ ნაგულისხმევად თუ არცერთი „SameSite” თვისება არაა მინიჭებული. შემმუშავებლებს თუ სურთ არსებული შეუზღუდავი გამოყენების შენარჩუნება, მკაცრად უნდა მიუთითონ „SameSite=None“.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = ფუნთუშები: SameSite=none საჭიროებს დაცულ თვისებას
+experimental-features-cookie-samesite-none-requires-secure2-description = ფუნთუშები თვისებით „SameSite=None“ საჭიროებს დაცულ თვისებას. ამ შესაძლებლობის წინაპირობაა „ფუნთუშები: SameSite=Lax ნაგულისხმევად”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
