@@ -15,3 +15,24 @@ enable-enable-button = Załōncz noczynia do deweloprōw
 enable-close-button = Zawrzij ta karta
 welcome-title = Witej we noczyniach do dewelorpōw ôd Firefoxa!
 newsletter-title = Newsletter do deweloprōw ôd Mozille
+newsletter-message = Dostowej nowiny, knify i źdrzōdła do deweloprōw drek do swojij krzinki.
+newsletter-email-placeholder =
+    .placeholder = Email
+newsletter-privacy-label = Dowōm zgoda, coby Mozilla robiyła z mojimi informacyjami podug tych <a data-l10n-name="privacy-policy">Prawideł ôchrōny prywatności</a>.
+newsletter-subscribe-button = Abōnuj
+newsletter-thanks-title = Dziynkujymy!
+newsletter-thanks-message = Jak niy mosz przituplowanego abōnowanio newslettera ôd Mozille, to możno trza bydzie to zrobić. Poszukej we swojij krzince abo miyndzy spamym za emailym ôd nos.
+footer-title = Firefox Developer Edition
+footer-message = Szukosz za czym wiyncyj jak ino za noczyniami do deweloprōw? Badnij na ta przeglōndarka Firefox, co je zbudowano ekstra do deweloprōw i modernego trybu roboty.
+footer-learn-more-link = Przewiydz sie wiyncyj
+features-learn-more = Przewiydz sie wiyncyj
+features-inspector-title = Inspektōr
+features-inspector-desc = Badej i polepszej kod, coby zbudować pikselowo doskonałe rozłożynia. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-console-title = Kōnsola
+features-console-desc = Śledź problymy ze CSS, JavaScript, bezpieczyństwym i necym. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-debugger-title = Debugger
+features-debugger-desc = Sprowny debugger JavaScript z ôbsugōm framework. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-network-title = Nec
+features-network-desc = Baden na prośby z neca, co mogōm spōmalić abo zaszperować twoja strōna. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-storage-title = Schranianie danych
+features-storage-desc = Przidowej, zmiyniej i kasuj elymynty z podryncznyj pamiynci, cookies, bazy danych i dane sesyji. <a data-l10n-name="learn-more">{ features-learn-more }</a>
