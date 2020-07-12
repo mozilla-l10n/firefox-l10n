@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "페이지 로드 문제">
 <!ENTITY retry.label "다시 시도">
-<!ENTITY returnToPreviousPage.label "뒤로">
-<!ENTITY returnToPreviousPage1.label "뒤로 (권장)">
+<!ENTITY returnToPreviousPage.label "뒤로 가기">
+<!ENTITY returnToPreviousPage1.label "뒤로 가기 (권장)">
 <!ENTITY advanced2.label "고급…">
 <!ENTITY viewCertificate.label "인증서 보기">
 

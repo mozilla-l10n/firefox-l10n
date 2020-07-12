@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 wizard-macos-button-back =
-    .label = 뒤로
+    .label = 뒤로 가기
     .accesskey = B
 wizard-linux-button-back =
     .label = 뒤로
@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < 뒤로
     .accesskey = B
-
 wizard-macos-button-next =
     .label = 다음
     .accesskey = C
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = 다음 >
     .accesskey = N
-
 wizard-macos-button-finish =
-    .label = 실행
+    .label = 완료
 wizard-linux-button-finish =
     .label = 완료
 wizard-win-button-finish =
     .label = 완료
-
 wizard-macos-button-cancel =
     .label = 취소
 wizard-linux-button-cancel =
