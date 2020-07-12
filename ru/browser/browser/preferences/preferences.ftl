@@ -1170,6 +1170,10 @@ space-alert-under-5gb-ok-button =
     .accesskey = я
 space-alert-under-5gb-message = У { -brand-short-name } заканчивается место на диске. Содержимое веб-сайтов может отображаться неправильно. Щёлкните «Подробнее», чтобы оптимизировать использование вашего диска для улучшения веб-сёрфинга.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Подробнее
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Рабочий стол
