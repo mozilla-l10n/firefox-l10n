@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
@@ -97,3 +103,13 @@ ssl-error-iv-param-failure = PKCS11 niy poradziōł przełożyć IV na parameter
 ssl-error-init-cipher-suite-failure = Feler inicjalizacyje ôbranego paketu szyfrōw.
 ssl-error-session-key-gen-failure = Klijynt niy poradziōł wygynyrować kluczy sesyje do sesyje SSL.
 ssl-error-no-server-key-for-alg = Serwer niy mo klucza do prōbowanego algorytmu wymiany kluczy.
+ssl-error-token-insertion-removal = Tokyn PKCS#11 bōł wrażōny abo wyciōngniynty, jak była kludzōno ôperacyjo.
+ssl-error-token-slot-not-found = Żodyn tokyn PKCS#11 do tyj ôperacyji niy bōł znodniynty.
+ssl-error-no-compression-overlap = Niy idzie sie bezpiecznie kōmunikować z partnerym: chybio spōlnych algorytmōw kōmpresyje.
+ssl-error-handshake-not-completed = Niy idzie zacznōnć drugigo prziwitanio SSL, podwiela akturalne prziwitanie sie niy skōńczy.
+ssl-error-bad-handshake-hash-value = Prziszły złe werty hash prziwitanio ôd partnera.
+ssl-error-cert-kea-mismatch = Prziszoł certyfikat, kerego niy idzie użyć ze ôbranym algorytmym wymiany kluczy.
+ssl-error-no-trusted-ssl-client-ca = Niy ma żodnych regiyrōnkōw certyfikacyje, kerym idzie wierzić przi autyntyzacyje klijynta SSL.
+ssl-error-session-not-found = Niy bōło znodniynte ID sesyje klijynta SSL w podrynczyj pamiynci sesyje serwera.
+ssl-error-decryption-failed-alert = Partner niy poradziōł ôdszyfrować dostanego protokołu SSL.
+ssl-error-record-overflow-alert = Partner dostoł dugszy protokōł SSL, jak zwōlōne.

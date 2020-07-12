@@ -36,3 +36,19 @@ features-network-title = Nec
 features-network-desc = Baden na prośby z neca, co mogōm spōmalić abo zaszperować twoja strōna. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Schranianie danych
 features-storage-desc = Przidowej, zmiyniej i kasuj elymynty z podryncznyj pamiynci, cookies, bazy danych i dane sesyji. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-responsive-title = Respōnsywny design
+features-responsive-desc = Testuj strōny na maszinach ymulowanych we przeglōndarce. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-visual-editing-title = Wizualno edycyjo
+features-visual-editing-desc = Nastow animacyje, przirōwnania i absztand.  <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-performance-title = Sprowność
+features-performance-desc = Ôdszperuj zawady, poleksz procesy, optymalizuj assety. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-memory-title = Pamiynć
+features-memory-desc = Znojdź wyciyki pamiynci i zrōb zwoja aplikacyjo za gibko i snadno. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Prośba ô abōnowanie sie niy podarziła ({ $errorDescription }).
+newsletter-error-unknown = Pokozoł sie niyôczekowany feler.
+newsletter-error-timeout = Czas ôczekowanio prośby je przestōmpiōny.
+# Variables:
+#   $shortcut (String) - The keyboard shortcut used for the tool
+welcome-message = Załōnczynie noczyń do deweloprōw sie podarziło! Coby zacznōnć, wejrzij na myni "Necowy deweloper" abo ôdewrzij noczynia ze { $shortcut }.
