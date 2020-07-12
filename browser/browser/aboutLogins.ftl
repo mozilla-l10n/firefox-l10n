@@ -68,6 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name } eller importer dine logins.
 about-logins-login-intro-heading-logged-in = Ingen synkroniserede logins fundet.
 login-intro-description = Hvis du har gemt dine logins i { -brand-product-name } på en anden enhed, så skal du gøre sådan for at anvende dem her også:
 login-intro-instruction-fxa = Opret eller log ind på din { -fxaccount-brand-name } på den enhed, hvor dine logins er gemt

@@ -59,11 +59,11 @@ rcwn-avg-long = Long Average
 rcwn-std-dev-long = Long Standard Deviation
 rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
-
 about-networking-title = Om netværk
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Ryd DNS-cache
 about-networking-dns-suffix = DNS-suffiks
 about-networking-websockets = WebSockets
 about-networking-refresh = Opdater
