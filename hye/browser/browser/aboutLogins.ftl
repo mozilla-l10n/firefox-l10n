@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Մուտքանուններ եւ գաղտնաբառեր
@@ -32,6 +27,7 @@ menu =
     .title = Բացել ցանկը
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Ներմուծել մեկ այլ զննարկիչից…
+about-logins-menu-menuitem-import-from-a-file = Ներմուծել նիշից…
 about-logins-menu-menuitem-export-logins = Դուրս բերել մուտքանունները
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -72,12 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Փնտրո՞ւմ էք Ձեր պահպանած մուտքանունները։ Տեղակայէք { -sync-brand-short-name }-ը։
+about-logins-login-intro-heading-logged-out = Փնտրում էք պահուած գրանցումնե՞րը։ Տեղադրէք { -sync-brand-short-name } կամ ներմուծէք։
 about-logins-login-intro-heading-logged-in = Համաժամեցուած մուտքանուններ չեն գտնուել։
 login-intro-description = Եթե պահպանել էք Ձեր մուտքանունները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպէս կարող էք ստանալ դրանք․
 login-intro-instruction-fxa = Ստեղծէք կամ մուտք գործէք { -fxaccount-brand-name } այն սարքում, որտեղ Ձեր մուտքանունները պահպանուած են
 login-intro-instruction-fxa-settings = Համոզվէք, որ ընտրել էք Ձեր Մուտքանունների նշատուփը { -sync-brand-short-name }-ի կարգաւորումներում։
 about-logins-intro-instruction-help = Լրացուցիչ օգնութեան համար այցելէք <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Աջակցել</a>։
 about-logins-intro-import = Եթե Ձեր մուտքանուններն այլ զննարկիչում են պահպանուած, դուք կարող էք <a data-l10n-name="import-link">դրանք ներածել { -lockwise-brand-short-name }</a>-ում
+about-logins-intro-import2 = Եթե ձեր գրանցումները պահուած են { -brand-product-name }֊ից դուրս, դուք կարող էք <a data-l10n-name="import-browser-link"> ներմուծել այլ դիտարկչից</a> կամ <a data-l10n-name="import-file-link">from a file</a>
 
 ## Login
 
@@ -216,4 +214,17 @@ about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV Փաստաթուղթ
        *[other] CSV Նիշք
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Ներմուծել Գրանցումների նիշը։
+about-logins-import-file-picker-import-button = Ներմուծել
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Փաստաթուղթ
+       *[other] CSV նիշ
     }
