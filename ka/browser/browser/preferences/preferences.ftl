@@ -1166,6 +1166,10 @@ space-alert-under-5gb-ok-button =
     .accesskey = კ
 space-alert-under-5gb-message = { -brand-short-name } იუწყება, რომ დისკზე ადგილი ეწურება. საიტების შიგთავსი, შეიძლება არ გამოჩნდეს სათანადოდ. “შეიტყვეთ მეტი”, თუ როგორ გამოათავისუფლოთ ადგილი დისკზე რომ გაუმჯობესდეს გვერდების მონახულების პროცესი.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = მხოლოდ-HTTPS რეჟიმი
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = სამუშაო ეკრანი
