@@ -19,3 +19,9 @@ storage-table-type-sessionstorage-hint = Դիտել եւ խմբագրել աշխ
 # Hint shown when the IndexedDB storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/IndexedDB
 storage-table-type-indexeddb-hint = Դիտել եւ ջնջել IndexedDB մուտքերը՝ ընտրելով տուելաների շտեմարան։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
+# Hint shown when the cache storage type is selected. Clicking the link will open
+# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cache_Storage
+storage-table-type-cache-hint = Դիտել եւ ջնջել յիշապահեստի մուտքերը՝ ընտրելով պահոց։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
+# Hint shown when the extension storage type is selected. Clicking the link will open
+# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
+storage-table-type-extensionstorage-hint = Դիտել եւ ջնջել ընդլայնման պահոցի մուտքերը՝ ընտրելով հանգոյց։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
