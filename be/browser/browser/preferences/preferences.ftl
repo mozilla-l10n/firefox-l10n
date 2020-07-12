@@ -1174,6 +1174,13 @@ space-alert-under-5gb-message = У { -brand-short-name } сканчаецца м
 
 httpsonly-header = Рэжым толькі HTTPS
 httpsonly-description = HTTPS забяспечвае бяспечнае зашыфраванае злучэнне паміж { -brand-short-name } і вэб-сайтамі, якія вы наведваеце. Большасць сайтаў падтрымліваюць HTTPS, і калі ўключаны рэжым толькі HTTPS, { -brand-short-name } пераключа ўсе злучэнні на HTTPS.
+httpsonly-learn-more = Даведацца больш
+httpsonly-radio-enabled =
+    .label = Уключыць рэжым толькі HTTPS ва ўсіх вокнах
+httpsonly-radio-enabled-pbm =
+    .label = Уключыць рэжым толькі HTTPS толькі ў прыватных вокнах
+httpsonly-radio-disabled =
+    .label = Не ўключаць рэжым толькі HTTPS
 
 ## The following strings are used in the Download section of settings
 
