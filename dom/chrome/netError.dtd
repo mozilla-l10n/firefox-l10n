@@ -59,7 +59,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Lo navegador es configurat per utilizar un servidor proxy mas lo servidor proxy es introbable.</p><ul><li>La configuracion proxy del navegador es corrècta ? Verificatz los paramètres e tornatz ensajar.</li><li>L'ordenador es connectat a la ret ?</li><li>Avètz encara de problèmas ? Consultatz vòstre administrator de ret o  vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redirect Loop">
-<!ENTITY redirectLoop.longDesc "<p>The browser has stopped trying to retrieve the requested item. The site is redirecting the request in a way that will never complete.</p><ul><li>Have you disabled or blocked cookies required by this site?</li><li><em>NOTE</em>: If accepting the site's cookies does not resolve the problem, it is likely a server configuration issue and not your computer.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Lo navegador a quitat d’esperar una responsa del site. Lo site crèa una redireccion d’un biais que fa qu’acabarà pas jamai.</p><ul><li>Avètz desactivat o blocat los cookies necessaris per aqueste site ?</li><li><em>NÒTA</em> : se lo problèma es pas resolgut en acceptant los cookies d’aqueste site, s’agís probablament d’un problèma de configuracion del servidor e non pas de vòstre ordenador.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Responsa inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "<p>Lo site a respondut a la requèsta de la ret d'una faiçon inesperada e lo navegador pòt pas contunhar.</p>">
