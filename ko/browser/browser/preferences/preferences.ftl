@@ -577,7 +577,7 @@ search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드
 
 ## Containers Section
 
-containers-back-link = « 뒤로가기
+containers-back-link = « 뒤로 가기
 containers-back-button =
     .aria-label =
         { PLATFORM() ->
