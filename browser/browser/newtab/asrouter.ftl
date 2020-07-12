@@ -260,3 +260,9 @@ cfr-doorhanger-doh-primary-button = OK, зразумела
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Адключыць
     .accesskey = А
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Аўтаматычная абарона ад падступнай тактыкі сачэння
+cfr-whatsnew-clear-cookies-body = Некаторыя трэкеры перанакіроўваюць вас на іншыя сайты, якія таемна ўсталёўваюць кукі. { -brand-short-name } зараз аўтаматычна ачышчае гэтыя кукі, каб за вамі не маглі сачыць.
+cfr-whatsnew-clear-cookies-image-alt = Прыклад блакавання кукаў
