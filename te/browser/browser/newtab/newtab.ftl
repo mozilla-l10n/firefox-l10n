@@ -116,6 +116,7 @@ newtab-menu-open-file = దస్త్రాన్ని తెరువు
 
 newtab-label-visited = సందర్శించారు
 newtab-label-bookmarked = ఇష్టాంశంగా గుర్తుపెట్టారు
+newtab-label-removed-bookmark = ఇష్టాంశం తొలగించబడింది
 newtab-label-recommended = ట్రెండింగ్
 newtab-label-saved = { -pocket-brand-name }లో భద్రపరచినది
 newtab-label-download = దింపుకున్నవి

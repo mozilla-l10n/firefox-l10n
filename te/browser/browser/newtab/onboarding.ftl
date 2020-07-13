@@ -59,6 +59,7 @@ onboarding-sync-form-header = ఈ ఈమెయిలును ఇవ్వండ
 ## description.
 
 onboarding-benefit-products-title = ఉపయోగకరమైన ఉత్పత్తులు
+onboarding-benefit-knowledge-title = ఆచరణాత్మక జ్ఞానం
 onboarding-benefit-privacy-title = నిజమైన గోప్యత
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 
