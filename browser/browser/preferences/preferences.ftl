@@ -825,7 +825,7 @@ master-password-os-auth-dialog-message-win = Če želite ustvariti glavno geslo,
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = ustvari glavno geslo
+master-password-os-auth-dialog-message-macosx = create a Master Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -1173,6 +1173,14 @@ space-alert-under-5gb-ok-button =
     .label = V redu, razumem
     .accesskey = V
 space-alert-under-5gb-message = Brskalniku { -brand-short-name } zmanjkuje prostora na disku. Strani se morda ne bodo prikazovale pravilno. Obiščite "Več o tem" za optimizacijo uporabe prostora na disku in boljšo izkušnjo brskanja po spletu.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Način "samo HTTPS"
+httpsonly-description = HTTPS zagotavlja varno, šifrirano povezavo med { -brand-short-name }om in spletnimi mesti, ki jih obiščete. Večina spletnih mest podpira HTTPS, in če je omogočen način "samo HTTPS", bo { -brand-short-name } nadgradil vse povezave na HTTPS.
+httpsonly-learn-more = Več o tem
+httpsonly-radio-enabled =
+    .label = Omogoči način "samo HTTPS" v vseh oknih
 
 ## The following strings are used in the Download section of settings
 
