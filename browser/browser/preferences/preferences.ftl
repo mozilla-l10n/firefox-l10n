@@ -1168,7 +1168,15 @@ space-alert-under-5gb-message = { -brand-short-name } heeft bijna geen schijfrui
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Alleen-HTTPS-modus
+httpsonly-description = HTTPS biedt een veilige, versleutelde verbinding tussen { -brand-short-name } en de door u bezochte websites. De meeste websites ondersteunen HTTPS en als de Alleen-HTTPS-modus is ingeschakeld, zal { -brand-short-name } alle verbindingen upgraden naar HTTPS.
 httpsonly-learn-more = Meer info
+httpsonly-radio-enabled =
+    .label = Alleen-HTTPS-modus in alle vensters inschakelen
+httpsonly-radio-enabled-pbm =
+    .label = Alleen-HTTPS-modus uitsluitend in privévensters inschakelen
+httpsonly-radio-disabled =
+    .label = Alleen-HTTPS-modus niet inschakelen
 
 ## The following strings are used in the Download section of settings
 
