@@ -1166,6 +1166,17 @@ space-alert-under-5gb-ok-button =
     .accesskey = A
 space-alert-under-5gb-message = { -brand-short-name } tarafından kulllanılabilen disk alanı azaldı. Site içerikleri düzgün görüntülenemeyebilir. Daha iyi bir gezinti deneyimi içi disk kullanımınızı iyileştirmek isterseniz “Daha fazla bilgi al” sayfasını ziyaret edin.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Yalnızca HTTPS modu
+httpsonly-learn-more = Daha fazla bilgi al
+httpsonly-radio-enabled =
+    .label = Yalnızca HTTPS modunu tüm pencerelerde etkinleştir
+httpsonly-radio-enabled-pbm =
+    .label = Yalnızca HTTPS modunu yalnızca gizli pencerelerde etkinleştir
+httpsonly-radio-disabled =
+    .label = Yalnızca HTTPS modunu etkinleştirme
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Masaüstü
