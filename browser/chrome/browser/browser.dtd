@@ -929,7 +929,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Звіт про проблему">
 <!ENTITY contentBlocking.breakageReportView.label "Звіт про проблему">
-<!ENTITY contentBlocking.breakageReportView2.description "Блокування вмісту може пошкодити роботу деяких вебсайтів. Коли ви звітуєте про проблеми, ви допомагаєте покращити &brandShortName;. (В Mozilla відправиться URL-адреса, а також інформація про налаштування вашого браузера.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Блокування вмісту може пошкодити роботу деяких вебсайтів. Коли ви звітуєте про проблеми, ви допомагаєте поліпшити &brandShortName;. (В Mozilla відправиться URL-адреса, а також інформація про налаштування вашого браузера.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Докладніше">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Які у вас виникли проблеми? (Необов'язково)">

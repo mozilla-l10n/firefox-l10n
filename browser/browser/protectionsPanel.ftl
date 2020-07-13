@@ -57,7 +57,6 @@ protections-panel-not-found-label = Не виявлено
 ##
 
 protections-panel-settings-label = Налаштування захисту
-protections-panel-showreport-label = Показати звіт
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Панель стану захисту
 
@@ -86,7 +85,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = К
 protections-panel-content-blocking-breakage-report-view =
     .title = Повідомити про пошкоджений сайт
-protections-panel-content-blocking-breakage-report-view-description = Блокування певних елементів стеження може призвести до проблем з деякими вебсайтами. Звіт про такі проблеми допомагає покращувати роботу { -brand-short-name }. При надсиланні цього звіту в Mozilla відправиться URL-адреса з інформацією про налаштування вашого браузера. <label data-l10n-name="learn-more">Докладніше</label>
+protections-panel-content-blocking-breakage-report-view-description = Блокування певних елементів стеження може призвести до проблем з деякими вебсайтами. Звіт про такі проблеми допомагає поліпшувати роботу { -brand-short-name }. При надсиланні цього звіту в Mozilla відправиться URL-адреса з інформацією про налаштування вашого браузера. <label data-l10n-name="learn-more">Докладніше</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
