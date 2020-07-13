@@ -142,6 +142,8 @@
 </ul>
 ">
 
+<!ENTITY certerror.longpagetitle2 "హెచ్చరిక: సంభావ్య భద్రతా ప్రమాదం ముందుంది">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -166,8 +168,8 @@ was trying to connect. -->
 
 <!ENTITY corruptedContentErrorv2.title "పాడైన విషయ దోషం">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>మీరు చూడడానికి ప్రయత్నిస్తూన్న పేజీ చూపించబడదు ఎందుకంటే డేటా బదలాయింపులో తప్పిదం గుర్తించబడింది.</p><ul><li>దయచేసి వెబ్‌సైటు యజమాలనుల సంప్రదించి ఈ సమస్యను వారికి తెలియజేయండి.</li></ul>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>మీరు చూడడానికి ప్రయత్నిస్తూన్న పేజీ చూపించబడదు ఎందుకంటే డేటా బదలాయింపులో తప్పిదం గుర్తించబడింది.</p><ul><li>దయచేసి వెబ్‌సైటు యజమాలనుల సంప్రదించి ఈ సమస్యను వారికి తెలియజేయండి.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "నష్టభయాన్ని అంగీకరించి ముందుకు కొనసాగండి">
 
@@ -196,8 +198,12 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "నిరోధించిన పేజీ">
 
 
+
 <!ENTITY clockSkewError.title "మీ కంప్యూటర్ గడియారం తప్పు">
+
 
 <!ENTITY prefReset.longDesc "ఇది మీ నెట్‌వర్కు భద్రతా అమరికల వల్ల అయివుండవచ్చనిపిస్తోంది. అప్రమేత అమరికలను పునరుద్ధరించమంటారా?">
 <!ENTITY prefReset.label "అప్రమేయ అమరికలను పునరుద్ధరించు">
+
+
 

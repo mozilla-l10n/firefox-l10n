@@ -10,6 +10,8 @@ about-logins-page-title = ప్రవేశాలు & సంకేతపదా
 login-app-promo-title = మీ సంకేతపదాలను ఎక్కడికైనా తీసుకెళ్ళండి
 login-app-promo-android =
     .alt = దీన్ని గూగుల్ ప్లే నుండి పొందండి
+login-app-promo-apple =
+    .alt = App Store నుండి దింపుకోండి
 login-filter =
     .placeholder = ప్రవేశాలను వెతకండి
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
@@ -138,3 +140,6 @@ about-logins-vulnerable-alert-learn-more-link = ఇంకా తెలుసు�
 ## Login Export Dialog
 
 about-logins-export-file-picker-export-button = ఎగుమతించు
+
+## Login Import Dialog
+
