@@ -41,7 +41,6 @@ composition-addressing-header = Адресація
 privacy-main-header = Приватність
 privacy-passwords-header = Паролі
 privacy-junk-header = Спам
-privacy-data-collection-header = Збір та використання даних
 collection-header = Збір та використання даних { -brand-short-name }
 collection-description = Ми прагнемо надати вам вибір і збирати лише дані, необхідні для роботи й вдосконалення { -brand-short-name }. Ми завжди запитуємо дозвіл перед отриманням особистої інформації.
 collection-privacy-notice = Повідомлення про приватність
@@ -95,8 +94,6 @@ addons-button = Розширення і теми
 
 ## OS Authentication dialog
 
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Підтвердьте права доступу, щоб створити головний пароль.
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Щоб створити головний пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen by trying to add a Master Password.
@@ -224,7 +221,7 @@ update-app-legend = Оновлення { -brand-short-name }
 update-app-version = Версія { $version }
 allow-description = Дозволити { -brand-short-name }
 automatic-updates-label =
-    .label = Автоматично встановлювати оновлення (рекомендовано: покращує безпеку)
+    .label = Автоматично встановлювати оновлення (рекомендовано: поліпшує безпеку)
     .accesskey = А
 check-updates-label =
     .label = Перевіряти наявність оновлень, але питати мене чи хочу я їх встановити
@@ -701,3 +698,6 @@ search-results-empty-message =
        *[other] Перепрошуємо! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Потрібна допомога? Відвідайте <a data-l10n-name="url">Підтримку { -brand-short-name }</a>
+
+## Preferences UI Search Results
+
