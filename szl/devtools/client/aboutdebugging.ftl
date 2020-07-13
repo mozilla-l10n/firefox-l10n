@@ -241,3 +241,87 @@ about-debugging-tmp-extension-remove-button = Skasuj
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Ôbier zbiōr manifest.json abo archiwum .xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Te rozszyrzynie WebExtension mo czasowe ID. <a>Przewiydz sie wiyncyj</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = URL manifesta
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = Wewnyntrzny UUID
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Plac
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ID rozszyrzynio
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Push
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Sztartnij
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Poślij push
+    .disabledTitle = Service Worker Push je aktualnie zastawiōne do aplikacyje { -brand-shorter-name } z ôbsugōm mocki procesōw
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Sztartnij
+    .disabledTitle = Sztart Service Worker je aktualnie zastawiōne do aplikacyje { -brand-shorter-name } z ôbsugōm mocki procesōw
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Wyregistruj
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Słucho za zdarzyniami fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Niy słucho za zdarzyniami fetch
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Robi
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Sztopniynty
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Registruje sie
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Zakres
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Usuga push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Badanie Serwise Workers je aktualnie zastawiōne do aplikacyje { -brand-shorter-name } z ôbsugōm mocki procesōw
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = Karta niy ma blank zaladowano, tōż niy idzie jij zbadać
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Głōwny proces
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Głōwny proces do cylowyj przeglōndarki
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Noczynia do mocki procesōw
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Głōwny proces i procesy zawartości do cylowyj przeglōndarki
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Zawrzij wiadōmość
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detajle felera
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detajle upozorniynia
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detajle
