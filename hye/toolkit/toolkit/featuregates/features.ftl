@@ -21,3 +21,4 @@ experimental-features-cookie-samesite-lax-by-default2 =
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = մեկնարկային յիշապահեստ about:home
+experimental-features-abouthome-startup-cache-description = Մեկնարկային about:home փաստաթղթի յիշապահեստը սկզբնադիր բեռնուում է մեկնարկին։ Յիշապահեստի նպատակն է աշխատասկզբի գործունակութեան բարելաւումը։
