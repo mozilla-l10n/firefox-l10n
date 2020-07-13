@@ -88,9 +88,88 @@ about-debugging-setup-this-firefox = Użyj <a>{ about-debugging-this-firefox-run
 about-debugging-setup-this-firefox2 = Użyj <a>{ about-debugging-this-firefox-runtime-name }</a> do debuggowanio rozszyrzyń i usug workerōw w tyj wersyji aplikacyje { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Prziłōncz maszina
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Jak to załōnczysz, to pobierōm sie i przidadzōm do aplikacyje { -brand-shorter-name } elymynty potrzebne do debuggowanio Androida.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Załōncz masziny USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Zastow masziny USB
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Aktualizacyjo…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Załōnczōne
+about-debugging-setup-usb-status-disabled = Wyłōnczōne
+about-debugging-setup-usb-status-updating = Aktualizacyjo…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Załōncz myni ôd dewelopra na swojij maszinie z Androidym.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Załōncz debuggowanie bez USB w myni ôd dewelopra Androida.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Załōncz debuggowanie bez USB we Firefoxie na maszinie z Androidym.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Prziłōncz maszina z Androidym do swojigo kōmputra.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Problymy z łōnczyniym z maszinōm bez USB? <a>Rozwiōnzowanie problymōw</a>
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Adresa neca
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Problymy z łōnczyniym bez adresa neca? <a>Rozwiōnzowanie problymōw</a>
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Przidej
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Niy było jeszcze przidanych żodnych adresōw neca.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Host
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Skasuj
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Niepłatny host „{ $host-value }”. Ôczekowany format to „miano-hosta:nōmer-portu”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Host „{ $host-value }” już je zaregistrowany
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Czasowe rozszyrzynia
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Rozszyrzynia
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Karty
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Shared Workers
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Inksze Workers
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Procesy
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Profilowanie sprowności
 
 # Debug Targets strings
 
