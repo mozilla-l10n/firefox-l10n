@@ -15,5 +15,6 @@ about-httpsonly-title = „{ -brand-short-name }“ aptiko galimą saugumo probl
 about-httpsonly-explanation-unavailable = Naršote tik HTTPS veiksenoje, o saugi <em>{ $websiteUrl }</em> HTTPS versija nėra pasiekiama.
 about-httpsonly-explanation-question = Kodėl taip yra?
 about-httpsonly-explanation-nosupport = Greičiausiai svetainė tiesiog nepaliko HTTPS.
+about-httpsonly-explanation-risk = Visgi yra galimybė, kad įsivėlęs piktavalis. Jeigu nuspręsite aplankyti svetainę, neveskite jokios slaptos informacijos, kaip kad slaptažodžiai, el pašto adresai, ar banko kortelių duomenys.
 about-httpsonly-button-accept-and-continue = Priimti riziką ir tęsti
 about-httpsonly-button-go-back = Eiti atgal
