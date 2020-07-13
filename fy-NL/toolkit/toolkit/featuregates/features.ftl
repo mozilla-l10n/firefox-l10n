@@ -17,13 +17,16 @@ experimental-features-web-gpu-description = Eksperimintele API foar ôfbyldingen
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperimintele stipe foar AVIF: AV1 Image File-opmaak
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax by default
-experimental-features-cookie-samesite-lax-by-default-description = Cookies standert as ‘sameSite=lax’ behannelje as der gjin attribút foar ‘sameSite’ spesifisearre is. Untwikkelers moatte de aktuele status quo fan ûnbeheind gebrûk bewust ynstelle troch eksplisyt ‘sameSite=none’ fêst te lizzen.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requires secure attribute
-experimental-features-cookie-samesite-none-requires-secure-description = Foar cookies mei attribút ‘sameSite=none’ is it feilige attribút fereaske. Dizze funksje fereasket ‘Cookies: SameSite=lax by default’.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax as standert
+experimental-features-cookie-samesite-lax-by-default2-description = Cookies standert as ‘SameSite=Lax’ behannelje as der gjin attribút foar ‘SameSite’ spesifisearre is. Untwikkelers moatte de aktuele status kwo fan ûnbeheind gebrûk bewust ynstelle troch eksplisyt ‘SameSite=None’ fêst te lizzen.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None fereasket in feilich attribút
+experimental-features-cookie-samesite-none-requires-secure2-description = Foar cookies mei attribút ‘SameSite=None’ is it feilige attribút fereaske. Dizze funksje fereasket ‘Cookies: SameSite=Lax as standert’.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = Opstartbuffer about:home
+experimental-features-abouthome-startup-cache-description = In opstartbuffer foar it inisjele about:home-dokumint wurdt by opstarten standert laden. It doel fan dizze buffer is it ferbetterjen fan de opstartprestaasjes.
