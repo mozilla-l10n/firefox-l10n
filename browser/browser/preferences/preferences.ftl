@@ -1166,6 +1166,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = k
 space-alert-under-5gb-message = { -brand-short-name } hat hast gjin skiifromte mear. Ynhâld fan websites wurdt mooglik net goed werjûn. Besykje ‘Mear ynfo’ om jo skiifgebrûk te optimalisearjen foar bettere prestaasjes.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Allinnich-HTTPS-modus
+httpsonly-description = HTTPS biedt in feilige, fersifere ferbining tusken { -brand-short-name } en de troch jo besochte websites. De measte websites stypje HTTPS en as de Allinnich-HTTPS-modus ynskeakele is, sil { -brand-short-name } alle ferbiningen fernije nei HTTPS.
+httpsonly-learn-more = Mear ynfo
+httpsonly-radio-enabled =
+    .label = Allinnich-HTTPS-modus yn alle finsters ynskeakelje
+httpsonly-radio-enabled-pbm =
+    .label = Allinnich-HTTPS-modus yn alle priveefinsters ynskeakelje
+httpsonly-radio-disabled =
+    .label = Allinnich-HTTPS-modus net ynskeakelje
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Búroblêd

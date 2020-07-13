@@ -255,3 +255,9 @@ cfr-doorhanger-doh-primary-button = OK, begrepen
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Utskeakelje
     .accesskey = U
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Automatyske beskerming tsjin stikeme folchtaktiken
+cfr-whatsnew-clear-cookies-body = Guon trackers liede jo troch nei oare websites dy't yn it geheim cookies pleatse. { -brand-short-name } wisket dy cookies no automatysk, sadat jo net folge wurde kin.
+cfr-whatsnew-clear-cookies-image-alt = Ofbylding Cookie blokkearre
