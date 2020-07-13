@@ -6,6 +6,7 @@
 ## Messages used as headers in the main pane
 
 compatibility-selected-element-header = Valgt element
+compatibility-all-elements-header = Alle problemer
 
 ## Message used as labels for the type of issue
 
@@ -29,6 +30,14 @@ compatibility-target-browsers-header = Mål-browsere
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } forekomst
+       *[other] { $number } forekomster
+    }
 compatibility-no-issues-found = Der blev ikke fundet problemer med kompatibilitet.
 compatibility-close-settings-button =
     .title = Luk indstillinger
