@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry-layout
+experimental-features-css-masonry-description = Aktiverer den eksperimentelle funktion med CSS Masonry-layout. Læs <a data-l10n-name="explainer">denne artikel</a> for at få et overblik over funktionen. Hvis du har feedback, så skriv gerne en kommentar på <a data-l10n-name="w3c-issue">dette issue på GitHub</a> eller på <a data-l10n-name="bug">denne bug</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
