@@ -125,6 +125,11 @@ sandbox-sys-call-number = Kreipimasis į sistemą
 sandbox-sys-call-args = Argumentai
 safe-mode-title = Išbandykite ribotąją veikseną
 restart-in-safe-mode-label = Perleisti išjungus priedus…
+clear-startup-cache-title = Pabandykite išvalyti paleisties podėlį
+clear-startup-cache-label = Valyti paleisties podėlį…
+startup-cache-dialog-title = Valyti paleisties podėlį
+startup-cache-dialog-body = Paleiskite „{ -brand-short-name }“ iš naujo, norėdami išvalyti paleisties podėlį. Tai neturės poveikio jūsų nuostatoms, ar į „{ -brand-short-name }“ įdiegtiems priedams.
+restart-button-label = Perleisti
 
 ## Media titles
 
@@ -132,6 +137,7 @@ audio-backend = Garso posistemė
 max-audio-channels = Daugiausiai kanalų
 channel-layout = Pageidautinas kanalų išdėstymas
 sample-rate = Pageidautinas atkūrimo dažnis
+roundtrip-latency = Abipusė delsa (standartinis nuokrypis)
 media-title = Laikmenos
 media-output-devices-title = Išvedimo įrenginiai
 media-input-devices-title = Įvedimo įrenginiai
@@ -270,6 +276,9 @@ blocklisted-bug = Užblokuota dėl žinomų problemų
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = klaida Nr. { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Užblokuota dėl žinomų problemų: <a data-l10n-name="bug-link">klaida { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Užblokuota; gedimo kodas { $failureCode }
