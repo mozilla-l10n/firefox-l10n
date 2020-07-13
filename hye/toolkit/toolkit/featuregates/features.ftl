@@ -6,14 +6,17 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry դասաւորութիւն
+experimental-features-css-masonry-description = Միացնում է փորձարարական CSS Masonry աջակցութիւնը։ Նայէք <a data-l10n-name="explainer"> մեկնաբանող </a>֊ն մանրամասն նկարագրութեան համար։ Գնահատելու համար խնդրում ենք մեկնաբանել a data-l10n-name="w3c-issue"> այս GitHub խնդիրը </a> կամ <a data-l10n-name="bug">այս զեկոյցում</a>։
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
     .label = WebGPU
+experimental-features-web-gpu-description = Փորձարարական API ցանցում գծագրերի եւ հաշուարկների համար
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-avif =
     .label = AVIF
+experimental-features-avif-description = Փորձարարական աջակցութիւն AVIF համար․ AV 1 նկար նիշի ձեւաչափ
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Նշոցիկներ․ SameSite=Lax սկզբնադիր
