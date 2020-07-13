@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Передавать сайтам сигнал “Не отслеживать”, означающий, чтобы вы не хотите быть отслеживаемыми
+do-not-track-description = Передавать сайтам сигнал «Не отслеживать», означающий, чтобы вы не хотите быть отслеживаемыми
 do-not-track-learn-more = Подробнее
 do-not-track-option-default-content-blocking-known =
     .label = Только когда { -brand-short-name } настроен на блокировку известных трекеров
@@ -1172,7 +1172,15 @@ space-alert-under-5gb-message = У { -brand-short-name } заканчивает�
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Режим «Только HTTPS»
+httpsonly-description = HTTPS обеспечивает безопасное и зашифрованное соединение между { -brand-short-name } и веб-сайтами, которые вы посещаете. Большинство веб-сайтов поддерживают HTTPS, и если включён режим «Только HTTPS», то { -brand-short-name } переведёт все подключения на HTTPS.
 httpsonly-learn-more = Подробнее
+httpsonly-radio-enabled =
+    .label = Включить режим «Только HTTPS» во всех окнах
+httpsonly-radio-enabled-pbm =
+    .label = Включить режим «Только HTTPS» только в приватных окнах
+httpsonly-radio-disabled =
+    .label = Не включать режим «Только HTTPS»
 
 ## The following strings are used in the Download section of settings
 

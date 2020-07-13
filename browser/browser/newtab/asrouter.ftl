@@ -260,3 +260,5 @@ cfr-doorhanger-doh-secondary-button = Отключить
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Автоматическая защита от различных трекеров.
+cfr-whatsnew-clear-cookies-body = Некоторые трекеры перенаправляют вас на другие сайты, которые тайно устанавливают куки. { -brand-short-name } теперь автоматически удаляет эти куки, чтобы за вами не следили.
+cfr-whatsnew-clear-cookies-image-alt = Иллюстрация заблокированной куки
