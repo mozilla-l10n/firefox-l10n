@@ -66,6 +66,8 @@ login-list-item-subtitle-new-login = أدخِل معلومات الولوج
 login-list-item-subtitle-missing-username = (لا اسم مستخدم)
 about-logins-list-item-breach-icon =
     .title = موقع مسرّب بياناته
+about-logins-list-item-vulnerable-password-icon =
+    .title = كلمة سر ضعيفة
 
 ## Introduction screen
 
@@ -185,6 +187,7 @@ about-logins-breach-alert-learn-more-link = اطّلع على المزيد
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = كلمة سر ضعيفة
 about-logins-vulnerable-alert-text2 = استعملت كلمة السر هذه في حساب آخر قد يكون تسرّب مع تسرّب بيانات أحد المواقع. بإعادة استعمال هذه المعلومات للولوج أنت تضع حساباتك كلها في خطر. غيّر كلمة السر.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
