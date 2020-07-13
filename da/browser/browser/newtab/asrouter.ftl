@@ -131,7 +131,7 @@ cfr-whatsnew-searchbar-icon-alt-text = Forstørrelsesglas-ikon
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Se videoer, mens du browser
-cfr-whatsnew-pip-body = Billede-i-billede viser video i et løsrevet vindue, så at du kan se videoer, mens du bruger andre faneblade
+cfr-whatsnew-pip-body = Billede-i-billede viser video i et løsrevet vindue, så du kan se videoer, mens du bruger andre faneblade.
 cfr-whatsnew-pip-cta = Læs mere
 
 ## Permission Prompt
