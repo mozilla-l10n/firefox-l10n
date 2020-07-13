@@ -170,6 +170,25 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = Profilowanie sprowności
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Ta kōnfiguracyjo przeglōndarki niy ma kōmpatybilno ze Service Workers. <a>Przewiydz sie wiyncyj</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Prziłōnczōno przeglōndarka mo starszo wersyjo  ({ $runtimeVersion }). Minimalno ôbsugowano werysjo to  ({ $minVersion }). To sōm niyôbsugowane sztalōnki, bez kere noczynia do deweloprōw mogōm niy fungować. Zaktualizuj prziłōnczōno przeglōndarka. <a>Rozwiōnzowanie problymōw</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Panel debuggera może niy fungować z prziłōnczōnōm przeglōndarkōm. Użyj Firefoxa { $runtimeVersion }, jak potrzebujesz użyć debuggera z tōm przeglōndarkōm.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Ta wersyjo Firefoxa niy umi debuggować Firefoxa na Androida (68). Zainstaluj lepij na swojim telefōnie aplikacyjo Firefox na Androida Nightly do testowanio.
 
 # Debug Targets strings
 
