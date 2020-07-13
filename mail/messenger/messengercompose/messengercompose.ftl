@@ -10,6 +10,15 @@ remove-address-row-type = Уклоните { $type } поље
 #   $type (String) - the type of the addressing row
 remove-address-row-type-label =
     .tooltiptext = Уклони поље { $type }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } врста са једном адресом, користите леву стрелицу за фокус.
+        [few] { $type } врста са { $count } адресе, користите леву стрелицу за фокус.
+       *[other] { $type } врста са { $count } адреса, користите леву стрелицу за фокус.
+    }
 pill-action-edit =
     .label = Уредите адресу
     .accesskey = е
