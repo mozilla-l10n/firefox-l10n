@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Prijave in gesla
@@ -32,6 +27,7 @@ menu =
     .title = Odpri meni
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Uvozi iz drugega brskalnika …
+about-logins-menu-menuitem-import-from-a-file = Uvozi iz datoteke …
 about-logins-menu-menuitem-export-logins = Izvozi prijave …
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -74,12 +70,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Iščete shranjene prijave? Nastavite { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Iščete shranjene prijave? Nastavite { -sync-brand-short-name } ali jih uvozite.
 about-logins-login-intro-heading-logged-in = Ni najdenih sinhroniziranih prijav.
 login-intro-description = Če ste svoje prijave shranili v { -brand-product-name } v drugi napravi, jih lahko prenesete sem, tako da:
 login-intro-instruction-fxa = Ustvarite { -fxaccount-brand-name } ali se prijavite na napravi, kjer so shranjene vaše prijave
 login-intro-instruction-fxa-settings = Prepričajte se, da ste v Nastavitvah { -sync-brand-short-name }a označili polje Prijave
 about-logins-intro-instruction-help = Za dodatno pomoč obiščite <a data-l10n-name="help-link">Podporo { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Če so vaše prijave shranjene v drugem brskalniku, jih lahko <a data-l10n-name="import-link">uvozite v { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Če so vaše prijave shranjene izven { -brand-product-name }a, jih lahko <a data-l10n-name="import-browser-link">uvozite iz drugega brskalnika</a> ali <a data-l10n-name="import-file-link">datoteke</a>
 
 ## Login
 
@@ -215,6 +213,19 @@ about-logins-export-file-picker-export-button = Izvozi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument CSV
+       *[other] Datoteka CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Uvozi datoteko s prijavami
+about-logins-import-file-picker-import-button = Uvozi
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokument CSV
        *[other] Datoteka CSV
