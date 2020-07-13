@@ -44,6 +44,16 @@ onboarding-start-browsing-button-label = Begjinne mei sneupen
 onboarding-cards-dismiss =
     .title = Fuortsmite
     .aria-label = Fuortsmite
+# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
+# This support welcome screen showing top sites imported from the user's default browser.
+# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
+onboarding-import-sites-info =
+    .title =
+        Dizze websites binne op dit apparaat fûn.
+        { -brand-short-name } bewarret of syngronisearret gjin gegevens fan
+        in oare browser, útsein jo derfoar kieze se te
+        ymportearjen.
+    .aria-label = { onboarding-import-sites-info.title }
 
 ## Welcome full page string
 
