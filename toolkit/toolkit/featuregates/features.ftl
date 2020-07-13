@@ -17,3 +17,10 @@ experimental-features-web-gpu-description = Экспериментальное A
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Экспериментальная поддержка для AVIF: Графического формата AV1
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Куки: SameSite = Lax по умолчанию
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Куки: SameSite = None требует атрибута защиты
+experimental-features-cookie-samesite-none-requires-secure2-description = Куки с атрибутом «SameSite = None» требуют атрибута защиты. Для работы этой функции необходимо включить «Куки: SameSite = Lax по умолчанию».
