@@ -23,8 +23,8 @@ experimental-features-cookie-samesite-lax-by-default2 =
 experimental-features-cookie-samesite-lax-by-default2-description = Рассматривать куки по умолчанию как «SameSite = Lax», если не указан атрибут «SameSite». Чтобы работать в режиме текущего статус-кво неограниченного использования, разработчики должны будут в явном виде указывать «SameSite = None».
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
-    .label = Куки: SameSite = None требует атрибута защиты
-experimental-features-cookie-samesite-none-requires-secure2-description = Куки с атрибутом «SameSite = None» требуют атрибута защиты. Для работы этой функции необходимо включить «Куки: SameSite = Lax по умолчанию».
+    .label = Куки: SameSite = None требует атрибута «secure»
+experimental-features-cookie-samesite-none-requires-secure2-description = Куки с атрибутом «SameSite = None» требуют атрибута «secure». Для работы этой функции необходимо включить «Куки: SameSite = Lax по умолчанию».
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
