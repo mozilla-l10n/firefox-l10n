@@ -253,3 +253,4 @@ cfr-doorhanger-doh-secondary-button = Sens
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Ammesten awurman mgal tiḥila n uḍfar yettkellixen
+cfr-whatsnew-clear-cookies-body = Kra n yineḍfaren ttwehhin-k/m ɣer kra n yismal web ideg llan inagan n tuqqna d uffiren. Tura, { -brand-short-name } iseffeḍ s wudem awurman inagan-agi n tuqqna akken ur ssawaḍen ara ad k-ḍefren.
