@@ -20,6 +20,11 @@ experimental-features-avif-description = Փորձարարական աջակցու
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Նշոցիկներ․ SameSite=Lax սկզբնադիր
+experimental-features-cookie-samesite-lax-by-default2-description = Նշոցիկները դիտարկէք որպէս «SameSite=Lax» լռելեայն, եթե որեւէ այլ «SameSite» յատկանիշ վերագրուած չէ։ Մշակողները պէտք է կարողանան աշխատել ընթացիկ անսահմանափակ կարգավիճակում՝ բացայայտօրէն սահմանելով «SameSite=None»։
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Նոշցիկներ․ SameSite=None պահանջում է անվտանգ յատկանիշ
+experimental-features-cookie-samesite-none-requires-secure2-description = «SameSite=None» նշոցիկները պահանջում են «secure» յատկանիշ։ Այս յատկանիշը պահանջում է «սկզբնադիր նշոցիկներ․ SameSite=Lax»։
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =

@@ -62,7 +62,10 @@
 
 
 
+<!ENTITY corruptedContentErrorv2.title "Բովանդակութիւնը վնասուած է">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ընթացիկ էջը չի կարող ցուցադրուել, քանզի տեղի է ունեցել փոխանցման սխալ։</p><ul><li> Կապ հաստատէք վեբ կայքի հեղինակների հետ խնդրի մասին հաղորդելու համար։</li></ul>">
 
+<!ENTITY remoteXUL.title "Հեռաւոր XUL">
 
 <!ENTITY inadequateSecurityError.title "Կապակցումն անվտանգ չէ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
