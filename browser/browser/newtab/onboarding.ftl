@@ -50,9 +50,9 @@ onboarding-cards-dismiss =
 onboarding-import-sites-info =
     .title =
         На этом устройстве были найдены следующие сайты.
-        { -brand-short-name } не будет сохранять или синхронизировать данные из
-        другого браузера, если только вы не решите
-        их импортировать.
+        { -brand-short-name } не будет сохранять или
+        синхронизировать данные из другого браузера,
+        если только вы не решите их импортировать.
     .aria-label = { onboarding-import-sites-info.title }
 
 ## Welcome full page string
