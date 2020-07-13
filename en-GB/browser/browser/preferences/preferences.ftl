@@ -1166,6 +1166,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } is running out of disk space. Web site contents may not display properly. Visit “Learn More” to optimise your disk usage for better browsing experience.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = HTTPS-Only Mode
+httpsonly-description = HTTPS provides a secure, encrypted connection between { -brand-short-name } and the web sites you visit. Most websites support HTTPS, and if HTTPS-Only Mode is enabled, then { -brand-short-name } will upgrade all connections to HTTPS.
+httpsonly-learn-more = Learn more
+httpsonly-radio-enabled =
+    .label = Enable HTTPS-Only Mode in all windows
+httpsonly-radio-enabled-pbm =
+    .label = Enable HTTPS-Only Mode in private windows only
+httpsonly-radio-disabled =
+    .label = Don’t enable HTTPS-Only Mode
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop

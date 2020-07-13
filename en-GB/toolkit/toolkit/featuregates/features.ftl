@@ -17,3 +17,16 @@ experimental-features-web-gpu-description = Experimental API for graphics and co
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Experimental support for AVIF: AV1 Image File Format
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax by default
+experimental-features-cookie-samesite-lax-by-default2-description = Treat cookies as “SameSite=Lax” by default if no “SameSite” attribute is specified. Developers must opt-in to the current status quo of unrestricted use by explicitly asserting “SameSite=None”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None requires secure attribute
+experimental-features-cookie-samesite-none-requires-secure2-description = Cookies with “SameSite=None” attribute require the secure attribute. This feature requires “Cookies: SameSite=Lax by default”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home startup cache
+experimental-features-abouthome-startup-cache-description = A cache for the initial about:home document that is loaded by default at startup. The purpose of the cache is to improve startup performance.
