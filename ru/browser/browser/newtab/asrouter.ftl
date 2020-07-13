@@ -256,3 +256,7 @@ cfr-doorhanger-doh-primary-button = OK, понятно
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Отключить
     .accesskey = ю
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Автоматическая защита от различных трекеров.
