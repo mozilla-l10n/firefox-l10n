@@ -66,11 +66,14 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ընթացիկ էջը չի կարող ցուցադրուել, քանզի տեղի է ունեցել փոխանցման սխալ։</p><ul><li> Կապ հաստատէք վեբ կայքի հեղինակների հետ խնդրի մասին հաղորդելու համար։</li></ul>">
 
 <!ENTITY remoteXUL.title "Հեռաւոր XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապ հաստատէք վեբ կայքի սեփականատէրերի հետ այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Կապակցումն անվտանգ չէ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> աւգտագործում է հնացած եւ յարձակումներից անպաշտպան միջոցներ։ Յարձակուողը կարող է հեշտութեամբ յայտնաբերել տեղեկութիւններ, որոնք ձեր կարծիքով ապահով են: Կայքի վարիչը պէտք է նախ ուղղի սպասարկիչը, որպէսզի կարողանաք այցելել կայք:</p><p>Սխալի կոդը՝ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Արգելափակուած էջ">
 
 <!ENTITY networkProtocolError.title "Ցանցի հաղորդակարգի սխալ">
+<!ENTITY networkProtocolError.longDesc "<p> Այն էջը, որը դուք փորձում էք դիտել, չի կարող ցուցադրուել, որովհետեւ սխալ է յայտնաբերուել ցանցային արձանագրութիւնում։</p><ul><li>Կապ հաստատէք կայքի սեփականատէրերի հետ այս խնդրի մասին տեղեկացնել համար: </li></ul>">
