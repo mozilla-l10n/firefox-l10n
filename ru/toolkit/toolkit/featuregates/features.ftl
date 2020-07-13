@@ -20,7 +20,13 @@ experimental-features-avif-description = Экспериментальная по
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Куки: SameSite = Lax по умолчанию
+experimental-features-cookie-samesite-lax-by-default2-description = Рассматривать куки по умолчанию как «SameSite = Lax», если не указан атрибут «SameSite». Чтобы работать в режиме текущего статус-кво неограниченного использования, разработчики должны будут в явном виде указывать «SameSite = None».
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Куки: SameSite = None требует атрибута защиты
 experimental-features-cookie-samesite-none-requires-secure2-description = Куки с атрибутом «SameSite = None» требуют атрибута защиты. Для работы этой функции необходимо включить «Куки: SameSite = Lax по умолчанию».
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = кэш запуска about:home
+experimental-features-abouthome-startup-cache-description = Кэш для изначального документа about:home, который загружается по умолчанию при запуске. Целью кеша является повышение скорости запуска.
