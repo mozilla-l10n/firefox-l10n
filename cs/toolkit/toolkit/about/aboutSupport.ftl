@@ -22,7 +22,10 @@ extensions-name = Název
 extensions-enabled = Povoleno
 extensions-version = Verze
 extensions-id = ID
+support-addons-title = Doplňky
 support-addons-name = Název
+support-addons-type = Typ
+support-addons-enabled = Povoleno
 support-addons-version = Verze
 support-addons-id = ID
 security-software-title = Bezpečnostní software
@@ -60,7 +63,7 @@ app-basics-binary = Binární soubor aplikace
 app-basics-profile-dir = Složka s profilem
 app-basics-enabled-plugins = Povolené zásuvné moduly
 app-basics-build-config = Nastavení sestavení
-app-basics-user-agent = Identifikace prohlížeče
+app-basics-user-agent = User agent
 app-basics-os = OS
 app-basics-memory-use = Spotřeba paměti
 app-basics-performance = Výkon
@@ -79,6 +82,9 @@ show-dir-label =
         [macos] Zobrazit ve Finderu
        *[other] Otevřít
     }
+experimental-features-title = Experimentální funkce
+experimental-features-name = Název
+experimental-features-value = Hodnota
 modified-key-prefs-title = Důležité změněné předvolby
 modified-prefs-name = Název
 modified-prefs-value = Hodnota
