@@ -50,7 +50,12 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Experimentos de { -brand-short-name }
+category-experimental =
+    .tooltiptext = Experimentos de { -brand-short-name }
 pane-experimental-subtitle = Continuar con precaución
+pane-experimental-search-results-header = Experimentos de { -brand-short-name }: Proceder con precaución
+pane-experimental-description = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
 help-button-label = { -brand-short-name } Asistencia
 addons-button-label = Extensiones y temas
 focus-search =
@@ -1164,7 +1169,12 @@ space-alert-under-5gb-message = { -brand-short-name } se está quedando sin espa
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo sólo-HTTPS
+httpsonly-description = HTTPS proporciona una conexión segura y cifrada entre { -brand-short-name } y los sitios web que visita. La mayoría de los sitios web admiten HTTPS, y si el modo sólo-HTTPS está habilitado, entonces { -brand-short-name } actualizará todas las conexiones a HTTPS.
 httpsonly-learn-more = Más información
+httpsonly-radio-enabled =
+    .label = Activar el modo sólo-HTTPS en todas las ventanas
+httpsonly-radio-enabled-pbm =
+    .label = Habilite el modo sólo-HTTPS solamente en ventanas privadas
 httpsonly-radio-disabled =
     .label = No habilitar el modo sólo-HTTPS
 
