@@ -14,7 +14,10 @@ extensions-name = Nombre
 extensions-enabled = Activada
 extensions-version = Versión
 extensions-id = ID
+support-addons-title = Complementos
 support-addons-name = Nombre
+support-addons-type = Tipo
+support-addons-enabled = Habilitado
 support-addons-version = Versión
 support-addons-id = ID
 security-software-title = Software de seguridad
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Abrir carpeta
        *[other] Abrir directorio
     }
+experimental-features-title = Funciones experimentales
+experimental-features-name = Nombre
+experimental-features-value = Valor
 modified-key-prefs-title = Preferencias importantes modificadas
 modified-prefs-name = Nombre
 modified-prefs-value = Valor
@@ -119,6 +125,11 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Probar modo seguro
 restart-in-safe-mode-label = Reiniciar con Complementos Deshabilitados…
+clear-startup-cache-title = Intentar limpiar la caché de inicio
+clear-startup-cache-label = Limpiar caché de inicio…
+startup-cache-dialog-title = Limpiar caché de inicio
+startup-cache-dialog-body = Reinicia { -brand-short-name } para limpiar la caché de inicio. Esto no cambiará tu configuración ni elimina las extensiones que has agregado a { -brand-short-name }.
+restart-button-label = Reiniciar
 
 ## Media titles
 
@@ -126,6 +137,7 @@ audio-backend = Backend de audio
 max-audio-channels = Número máximo de canales
 channel-layout = Formato de canal preferido
 sample-rate = Frecuencia de muestreo preferida
+roundtrip-latency = Latencia de ida y vuelta (desviación estándar)
 media-title = Multimedia
 media-output-devices-title = Dispositivos de salida
 media-input-devices-title = Dispositivos de entrada
@@ -259,6 +271,9 @@ blocklisted-bug = Bloqueado por problemas conocidos
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = En lista de bloqueo debido a problemas conocidos: <a data-l10n-name="bug-link">{ $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Bloqueado; código de falla { $failureCode }
