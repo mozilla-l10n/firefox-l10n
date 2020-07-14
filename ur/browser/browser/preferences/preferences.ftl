@@ -497,7 +497,6 @@ search-show-suggestions-url-bar-option =
     .accesskey = I
 search-show-suggestions-private-windows =
     .label = نجی ونڈوز میں تلاش کی تجاویز دکھائیں
-suggestions-addressbar-settings = براؤزنگ سابقات، بُک مارکس ، اور ٹیب تجاویز کیلئے ترجیحات تبدیل کریں
 search-suggestions-cant-show = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } سابقات کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
 search-one-click-header = ایک کلک تلاش انجن
 search-choose-engine-column =
@@ -1036,6 +1035,10 @@ space-alert-over-5gb-pref-button =
 space-alert-under-5gb-ok-button =
     .label = ٹھیک ہے مجھے سمجھ آگئی ہے
     .accesskey = K
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = اورجانیے
 
 ## The following strings are used in the Download section of settings
 
