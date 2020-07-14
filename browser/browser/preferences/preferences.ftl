@@ -1142,7 +1142,14 @@ space-alert-under-5gb-ok-button =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = ਸਿਰਫ਼-HTTPS ਮੋਡ
 httpsonly-learn-more = ਹੋਰ ਜਾਣੋ
+httpsonly-radio-enabled =
+    .label = ਸਾਰੀਆੰ ਵਿੰਡੋ ਵਿੱਚ ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਕਰੋ
+httpsonly-radio-enabled-pbm =
+    .label = ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਕਰੋ
+httpsonly-radio-disabled =
+    .label = ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਨਾ ਕਰੋ
 
 ## The following strings are used in the Download section of settings
 
