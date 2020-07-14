@@ -75,6 +75,7 @@ login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-nam
 login-intro-instruction-fxa-settings = Asegúrese de haber seleccionado la casilla de Inicios de sesión en los ajustes de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Consulte la <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Ayuda </a> para obtener más información
 about-logins-intro-import = Si sus inicios de sesión están guardados en otro navegador, puede <a data-l10n-name="import-link">importarlos en { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Si sus inicios de sesión se guardan fuera de { -brand-product-name }, puede <a data-l10n-name="import-browser-link">importarlos desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo </a>
 
 ## Login
 
@@ -220,3 +221,10 @@ about-logins-export-file-picker-csv-filter-title =
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importar archivo de inicio de sesión
 about-logins-import-file-picker-import-button = Importar
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento CSV
+       *[other] Archivo CSV
+    }
