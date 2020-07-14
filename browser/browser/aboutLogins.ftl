@@ -75,6 +75,7 @@ login-intro-instruction-fxa = Connectatz-vos o creatz un { -fxaccount-brand-name
 login-intro-instruction-fxa-settings = Asseguratz-vos qu’avètz seleccionat la casa dels identificants dins los paramètres de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Consultatz <a data-l10n-name="help-link">l’assiténcia de { -lockwise-brand-short-name } per d’ajudar</a>
 about-logins-intro-import = Se vòstres identificants son salvats dins un autre navegador, podètz <a data-l10n-name="import-link">los importar dins { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Se vòstres identificants de connexion e senhals son salvats al defòra de { -brand-product-name }, podètz <a data-l10n-name="import-browser-link">los importar d‘un autre navegador estant</a> o <a data-l10n-name="import-file-link"> a partir d’un fichièr</a>
 
 ## Login
 
