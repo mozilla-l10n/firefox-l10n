@@ -11,6 +11,7 @@
 <!ENTITY sidebar.customize.current.accesskey    "P">
 
 <!ENTITY sidebar.customize.title                "Přizpůsobit postranní lištu">
+<!ENTITY sidebar.customize.current2.label       "Panely v postranní liště:">
 <!ENTITY sidebar.customize.customize.label      "Přizpůsobit panel…">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
 <!ENTITY sidebar.customize.remove.label         "Odebrat">
