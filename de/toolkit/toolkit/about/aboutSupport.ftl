@@ -128,10 +128,10 @@ sandbox-sys-call-number = Systemaufruf
 sandbox-sys-call-args = Parameter
 safe-mode-title = Abgesicherten Modus probieren
 restart-in-safe-mode-label = Mit deaktivierten Add-ons neu starten…
-clear-startup-cache-title = Versuchen Sie, den Startcache zu löschen
-clear-startup-cache-label = Startcache löschen…
-startup-cache-dialog-title = Startcache löschen
-startup-cache-dialog-body = Starten Sie { -brand-short-name } neu, um den Startcache zu löschen. Dadurch werden Ihre Einstellungen nicht geändert oder Erweiterungen entfernt, die Sie zu { -brand-short-name } hinzugefügt haben.
+clear-startup-cache-title = Versuchen Sie, den Start-Cache zu löschen
+clear-startup-cache-label = Start-Cache löschen…
+startup-cache-dialog-title = Start-Cache löschen
+startup-cache-dialog-body = Starten Sie { -brand-short-name } neu, um den Start-Cache zu löschen. Dadurch werden weder Ihre Einstellungen nicht geändert noch die Erweiterungen entfernt, die Sie zu { -brand-short-name } hinzugefügt haben.
 restart-button-label = Neu starten
 
 ## Media titles
