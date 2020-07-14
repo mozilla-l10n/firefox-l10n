@@ -60,6 +60,13 @@ onboarding-import-sites-info =
     a meno che tu scelga di importarli.
   .aria-label = { onboarding-import-sites-info.title }
 
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+  .aria-label = Come iniziare: schermata { $current } di { $total }
+
 ## Welcome full page string
 
 onboarding-fullpage-welcome-subheader = Esploriamo insieme tutto ciò che puoi fare.
