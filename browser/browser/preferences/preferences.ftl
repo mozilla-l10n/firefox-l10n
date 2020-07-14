@@ -1169,7 +1169,7 @@ space-alert-under-5gb-message = { -brand-short-name } verfügt über nur noch we
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Nur-HTTPS-Modus
-httpsonly-description = HTTPS bietet eine sichere, verschlüsselte Verbindung zwischen { -brand-short-name } und den von Ihnen besuchten Websites. Die meisten Websites unterstützen HTTPS, und wenn der Nur-HTTPS-Modus aktiviert ist, wird { -brand-short-name } alle Verbindungen zu HTTPS aufrüsten.
+httpsonly-description = HTTPS bietet eine sichere, verschlüsselte Verbindung zwischen { -brand-short-name } und den von Ihnen besuchten Websites. Die meisten Websites unterstützen HTTPS und wenn der Nur-HTTPS-Modus aktiviert ist, wird { -brand-short-name } alle Verbindungen zu HTTPS aufrüsten.
 httpsonly-learn-more = Weitere Informationen
 httpsonly-radio-enabled =
     .label = Nur-HTTPS-Modus in allen Fenstern aktivieren
