@@ -26,8 +26,8 @@ fxaccounts-avatar-button =
 menu =
     .title = Menü öffnen
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Daten aus anderem Browser importieren…
-about-logins-menu-menuitem-import-from-a-file = Aus Datei importieren…
+about-logins-menu-menuitem-import-from-another-browser = Zugangsdaten importieren aus anderem Browser…
+about-logins-menu-menuitem-import-from-a-file = Zugangsdaten importieren aus Datei…
 about-logins-menu-menuitem-export-logins = Zugangsdaten exportieren…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -68,14 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Suchen Sie Ihre gespeicherten Zugangsdaten? Richten Sie { -sync-brand-short-name } ein.
-about-logins-login-intro-heading-logged-out = Suchen Sie Ihre gespeicherten Zugangsdaten? Richten Sie { -sync-brand-short-name } ein oder importieren Sie sie.
+about-logins-login-intro-heading-logged-out = Suchen Sie Ihre gespeicherten Zugangsdaten? Richten Sie { -sync-brand-short-name } ein oder importieren Sie diese.
 about-logins-login-intro-heading-logged-in = Keine synchronisierten Zugangsdaten gefunden.
 login-intro-description = Wenn Sie Ihre Zugangsdaten in { -brand-product-name } auf einem anderen Gerät gespeichert haben, können Sie diese hier abrufen:
 login-intro-instruction-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
 login-intro-instruction-fxa-settings = Überprüfen Sie, dass das Kontrollfeld "Zugangsdaten" in den { -sync-brand-short-name }-Einstellungen ausgewählt ist.
 about-logins-intro-instruction-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="help-link">Support-Seite für { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Wenn Ihre Zugangsdaten in einem anderen Browser gespeichert sind, können Sie diese in { -lockwise-brand-short-name } <a data-l10n-name="import-link">importieren</a>.
-about-logins-intro-import2 = Wenn Ihre Zugangsdaten außerhalb von { -brand-product-name } gespeichert sind, können Sie sie <a data-l10n-name="import-browser-link">aus einem anderen Browser</a> oder <a data-l10n-name="import-file-link">aus einer Datei importieren</a>
+about-logins-intro-import2 = Wenn Ihre Zugangsdaten außerhalb von { -brand-product-name } gespeichert sind, können Sie diese <a data-l10n-name="import-browser-link">aus einem anderen Browser</a> oder <a data-l10n-name="import-file-link">aus einer Datei</a> importieren.
 
 ## Login
 
@@ -219,7 +219,7 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Zugangsdaten-Datei importieren
+about-logins-import-file-picker-title = Zugangsdaten aus Datei importieren
 about-logins-import-file-picker-import-button = Importieren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
