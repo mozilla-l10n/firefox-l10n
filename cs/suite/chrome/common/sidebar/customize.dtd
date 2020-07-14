@@ -9,6 +9,8 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Panely v liště &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "P">
+
+<!ENTITY sidebar.customize.title                "Přizpůsobit postranní lištu">
 <!ENTITY sidebar.customize.customize.label      "Přizpůsobit panel…">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
 <!ENTITY sidebar.customize.remove.label         "Odebrat">
