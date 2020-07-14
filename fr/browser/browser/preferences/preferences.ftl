@@ -1166,6 +1166,17 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } n’a plus assez d’espace disque. Le contenu des sites web pourrait ne pas s’afficher correctement. Cliquez sur « En savoir plus » pour optimiser l’utilisation de votre disque et ainsi améliorer votre navigation.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Mode HTTPS uniquement
+httpsonly-learn-more = En savoir plus
+httpsonly-radio-enabled =
+    .label = Activer le mode HTTPS uniquement dans toutes les fenêtres
+httpsonly-radio-enabled-pbm =
+    .label = Activer le mode HTTPS uniquement dans les fenêtres privées seulement
+httpsonly-radio-disabled =
+    .label = Ne pas activer le mode HTTPS uniquement
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Bureau
