@@ -210,6 +210,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = ਸਾਰੇ ਵੇਖੋ
     .accesskey = S
+cfr-doorhanger-milestone-close-button = ਬੰਦ ਕਰੋ
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -243,3 +245,13 @@ cfr-whatsnew-protections-icon-alt = ਢਾਲ ਚਿੰਨ੍ਹ
 
 cfr-whatsnew-better-pdf-header = ਬੇਹਤਰ PDF ਤਜਰਬਾ
 cfr-whatsnew-better-pdf-body = ਆਪਣੇ ਕੰਮ ਨੂੰ ਨਿਰੰਤਰ ਜਾਰੀ ਰੱਖਦੇ ਹੋਏ ਹੁਣ PDF ਦਸਤਾਵੇਜ਼ { -brand-short-name } ਵਿੱਚ ਸਿੱਧਾ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ।
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = ਅਸਮਰੱਥ ਕਰੋ
+    .accesskey = D
+
+## What's new: Cookies message
+
