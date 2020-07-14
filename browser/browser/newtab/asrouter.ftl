@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Vyskúšajte pripnúť kartu
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Prečo sa mi toto zobrazuje
-
 cfr-doorhanger-extension-cancel-button = Teraz nie
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Pridať
     .accesskey = P
 cfr-doorhanger-pintab-ok-button = Pripnúť túto kartu
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Nastavenia odporúčania
     .accesskey = d
-
 cfr-doorhanger-extension-never-show-recommendation = Toto odporúčanie už nezobrazovať
     .accesskey = n
-
 cfr-doorhanger-extension-learn-more-link = Ďalšie informácie
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = od vývojára { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Odporúčanie
-
 cfr-doorhanger-extension-notification2 = Odporúčanie
     .tooltiptext = Odporúčanie rozšírenia
     .a11y-announcement = K dispozícii je odporúčané rozšírenie
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Odporúčanie
@@ -70,7 +61,6 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } používatelia
        *[other] { $total } používateľov
     }
-
 cfr-doorhanger-pintab-description = Majte svoje najpoužívanejšie stránky po ruke. Karty nezmiznú ani pri reštarte.
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -78,10 +68,8 @@ cfr-doorhanger-pintab-description = Majte svoje najpoužívanejšie stránky po 
 cfr-doorhanger-pintab-step1 = Ak chcete pripnúť kartu, kliknite na ňu <b>pravým tlačidlom</b>.
 cfr-doorhanger-pintab-step2 = V ponuke vyberte možnosť <b>pripnúť kartu</b>.
 cfr-doorhanger-pintab-step3 = Ak sa na stránke objaví niečo nové, uvidíte pri jej ikone modrú bodku.
-
 cfr-doorhanger-pintab-animation-pause = Pozastaviť
 cfr-doorhanger-pintab-animation-resume = Pokračovať
-
 
 ## Firefox Accounts Message
 
@@ -103,24 +91,18 @@ cfr-protections-panel-link-text = Ďalšie informácie
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nová funkcia:
-
 cfr-whatsnew-button =
     .label = Čo je nové
     .tooltiptext = Čo je nové
-
 cfr-whatsnew-panel-header = Čo je nové
-
 cfr-whatsnew-release-notes-link-text = Prečítajte si poznámky k vydaniu
-
 cfr-whatsnew-fx70-title = { -brand-short-name } tvrdo bojuje za vaše súkromie
 cfr-whatsnew-fx70-body =
     Najnovšia aktualizácia vylepšuje ochranu pred sledovaním a zjednodušuje 
     tvorbu bezpečných hesiel pre akúkoľvek stránku.
-
 cfr-whatsnew-tracking-protect-title = Chráňte sa pred sledovacími prvkami
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blokuje mnohé sledovacie prvky, ktoré monitorujú vašu aktivitu na internete.
 cfr-whatsnew-tracking-protect-link-text = Podrobnosti
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -132,11 +114,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Podrobnosti
-
 cfr-whatsnew-lockwise-backup-title = Zálohujte svoje heslá
 cfr-whatsnew-lockwise-backup-body = Vygenerujte si bezpečné heslá ku ktorým budete mať prístup bez ohľadu na to, odkiaľ sa budete prihlasovať.
 cfr-whatsnew-lockwise-backup-link-text = Zapnúť zálohovanie
-
 cfr-whatsnew-lockwise-take-title = Vezmite si svoje heslá so sebou
 cfr-whatsnew-lockwise-take-body = S mobilnou aplikáciou { -lockwise-brand-short-name } získate bezpečný prístup k vašim zálohovaným prihlasovacím údajom - a to kdekoľvek.
 cfr-whatsnew-lockwise-take-link-text = Prevziať aplikáciu
@@ -202,17 +182,40 @@ cfr-doorhanger-socialtracking-description = Na vašom súkromí záleží. { -br
 cfr-doorhanger-fingerprinters-heading = Aplikácia { -brand-short-name } zabránila vytvoreniu odtlačku prehliadača
 cfr-doorhanger-fingerprinters-description = Na vašom súkromí záleží. Aplikácia { -brand-short-name } odteraz blokuje tvorbu odtlačkov prehliadača, ktoré sa používajú na vaše sledovanie.
 cfr-doorhanger-cryptominers-heading = Aplikácia { -brand-short-name } zablokovala na tejto stránke ťažbu kryptomien
+cfr-doorhanger-cryptominers-description = Na vašom súkromí záleží. { -brand-short-name } odteraz blokuje ťažbu kryptomien, ktorá spotrebúva výkon vášho počítača na ťažbu digitálnej meny.
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = Zobraziť všetko
     .accesskey = v
+cfr-doorhanger-milestone-close-button = Zavrieť
+    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
+
 ## Lockwise message
+
+cfr-whatsnew-lockwise-icon-alt = Ikona { -lockwise-brand-short-name(case: "gen") }
 
 ## Vulnerable Passwords message
 
+
 ## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-icon-alt = Ikona obrazu v obraze
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-icon-alt = Ikona štítu
+
+## Better PDF message
+
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = OK, rozumiem
+    .accesskey = O
+
+## What's new: Cookies message
 

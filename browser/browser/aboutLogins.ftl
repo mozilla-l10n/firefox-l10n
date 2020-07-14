@@ -27,6 +27,7 @@ menu =
     .title = Otvoriť ponuku
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importovať z iného prehliadača…
+about-logins-menu-menuitem-import-from-a-file = Importovať zo súboru…
 about-logins-menu-menuitem-export-logins = Exportovať prihlasovacie údaje…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -68,6 +69,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name } alebo si ich importujte.
 about-logins-login-intro-heading-logged-in = Neboli nájdené žiadne synchronizované prihlasovacie údaje.
 login-intro-description = Ak ste si uložili prihlasovacie údaje do aplikácie { -brand-product-name } na inom zariadení, môžete ich získať takto:
 login-intro-instruction-fxa = Vytvorte si { -fxaccount-brand-name } alebo sa doň prihláste na zariadení, kde máte prihlasovacie údaje uložené
@@ -209,6 +211,19 @@ about-logins-export-file-picker-export-button = Exportovať
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument CSV
+       *[other] Súbor CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importovať súbor s prihlasovacími údajmi
+about-logins-import-file-picker-import-button = Importovať
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokument CSV
        *[other] Súbor CSV
