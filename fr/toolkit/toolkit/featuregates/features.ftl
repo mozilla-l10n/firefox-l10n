@@ -17,13 +17,11 @@ experimental-features-web-gpu-description = API expérimentale pour le graphisme
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Prise en charge expérimentale pour le format d’image AVIF : AV1 Image File Format
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies : SameSite=lax par défaut
-experimental-features-cookie-samesite-lax-by-default-description = Traite les cookies comme « sameSite=lax » par défaut si l’attribut « sameSite » n’est pas spécifié. Les développeurs doivent choisir le status quo actuel d’utilisation sans restriction en définissant explicitement « sameSite=none ».
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies : SameSite=none nécessite l’attribut secure
-experimental-features-cookie-samesite-none-requires-secure-description = Les cookies avec l’attribut « sameSite=none » doivent être munis de l’attribut secure. Cette fonctionnalité nécessite l’activation de « Cookies : SameSite=lax par défaut ».
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies : SameSite=Lax par défaut
+experimental-features-cookie-samesite-lax-by-default2-description = Traite les cookies comme « SameSite=Lax » par défaut si l’attribut « SameSite » n’est pas spécifié. Les développeurs doivent choisir le status quo actuel d’utilisation sans restriction en définissant explicitement « SameSite=None ».
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies : SameSite=None nécessite l’attribut secure
+experimental-features-cookie-samesite-none-requires-secure2-description = Les cookies avec l’attribut « SameSite=None » doivent être munis de l’attribut secure. Cette fonctionnalité nécessite l’activation de « Cookies : SameSite=Lax par défaut ».
