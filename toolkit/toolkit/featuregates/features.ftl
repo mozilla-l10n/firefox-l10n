@@ -17,13 +17,16 @@ experimental-features-web-gpu-description = API experimental para gráficos e in
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Soporte experimental para AVIF: formato de archivo de imagen AV1
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax por defecto
-experimental-features-cookie-samesite-lax-by-default-description = Trata las cookies como "sameSite=lax" por defecto si no se especifica el atributo "sameSite". Los desarrolladores deben optar por el status quo actual de uso sin restricciones al afirmar explícitamente "sameSite=none".
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requiere un atributo seguro
-experimental-features-cookie-samesite-none-requires-secure-description = Las cookies con el atributo "sameSite=none" requieren el atributo seguro. Esta función requiere "Cookies: SameSite=lax" por defecto.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax por defecto
+experimental-features-cookie-samesite-lax-by-default2-description = Trata las cookies como "SameSite=Lax" por defecto si no se especifica el atributo "SameSite". Los desarrolladores deben optar por el status quo actual de uso sin restricciones al afirmar explícitamente "SameSite=None".
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None requiere un atributo seguro
+experimental-features-cookie-samesite-none-requires-secure2-description = Las cookies con el atributo "SameSite=None" requieren el atributo seguro. Esta función requiere "Cookies: SameSite=Lax" por defecto.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = caché de inicio de about:home
+experimental-features-abouthome-startup-cache-description = Una caché para el documento inicial about:home que se carga de manera predeterminada al inicio. El propósito de la caché es mejorar el rendimiento de inicio.
