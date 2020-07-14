@@ -1166,6 +1166,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } se está quedando sin espacio en disco. Los contenidos de los sitios pueden no mostrarse correctamente. Visita "Aprender más" para optimizar tu uso de disco para una mejor experiencia de navegación.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Modo solo HTTPS
+httpsonly-description = HTTPS proporciona una conexión segura y cifrada entre { -brand-short-name } y los sitios web que visitas. La mayoría de los sitios web admiten HTTPS, y si el modo HTTPS-Only está habilitado, entonces { -brand-short-name } actualizará todas las conexiones a HTTPS.
+httpsonly-learn-more = Aprender más
+httpsonly-radio-enabled =
+    .label = Habilitar el modo solo HTTPS en todas las ventanas
+httpsonly-radio-enabled-pbm =
+    .label = Habilitar el modo solo HTTPS solo en ventanas privadas
+httpsonly-radio-disabled =
+    .label = No habilitar el modo solo HTTPS
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
