@@ -249,6 +249,7 @@ cfr-whatsnew-better-pdf-body = Los documents se dobrisson ara dirèctament dins 
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Vòstra vida privada es importanta. Ara { -brand-short-name } encamina de forma segura vòstras requèstas DNS tant coma se pòt via un servici partenari per vos protegir pendent la navegacion.
 cfr-doorhanger-doh-header = Requèstas DNS mai seguras e chifradas
 cfr-doorhanger-doh-primary-button = Òc, plan comprés
     .accesskey = c
