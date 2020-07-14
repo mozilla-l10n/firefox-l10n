@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਰਿਪੋਰਟ ‘ਤੇ ਜਾਓ
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 appmenuitem-protection-dashboard-title = ਸੁਰੱਖਿਆ ਡੈਸ਼ਬੋਰਡ
 appmenuitem-customize-mode =
     .label = …ਪਸੰਦ
