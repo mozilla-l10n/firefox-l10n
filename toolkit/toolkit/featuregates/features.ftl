@@ -11,7 +11,7 @@ experimental-features-css-masonry-description = Aktiviert die Unterstützung fü
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
     .label = WebGPU
-experimental-features-web-gpu-description = Experimentelle API für für grafischen Darstellungen und Berechnungen im Web
+experimental-features-web-gpu-description = Experimentelle API für grafische Darstellungen und Berechnungen im Web
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-avif =
