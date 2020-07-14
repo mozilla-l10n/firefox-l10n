@@ -50,6 +50,8 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-subtitle = Tady pozor!
+pane-experimental-description = Změny v pokročilé konfiguraci mohou negativně ovlivnit výkon a bezpečnost aplikace { -brand-short-name }.
 help-button-label =
     { -brand-short-name.gender ->
         [masculine] Nápověda { -brand-short-name(case: "gen") }
@@ -622,7 +624,6 @@ home-prefs-topsites-description = Nejnavštěvovanější stránky
 
 home-prefs-recommended-by-header =
     .label = Doporučení ze služby { $provider }
-home-prefs-recommended-by-description = Skvělý obsah z celého webu, vybraný speciálně pro vás
 home-prefs-recommended-by-description-update = Výjimečný obsah z celého internetu, vybraný službou { $provider }
 
 ##
@@ -698,7 +699,6 @@ search-show-suggestions-above-history-option =
     .label = Našeptávat vyhledávání v adresním řádku nad stránkami z historie prohlížení
 search-show-suggestions-private-windows =
     .label = Našeptávat vyhledávání také v anonymních oknech
-suggestions-addressbar-settings = Nastavit našeptávání z historie prohlížení, záložek a otevřených panelů
 suggestions-addressbar-settings-generic = Změnit předvolby našeptávání v adresním řádku
 search-suggestions-cant-show =
     Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name.gender ->
@@ -1388,6 +1388,10 @@ space-alert-under-5gb-message =
         [neuter] { -brand-short-name(case: "dat") }
        *[other] Aplikaci { -brand-short-name }
     } dochází místo na disku. Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Zjistit více
 
 ## The following strings are used in the Download section of settings
 

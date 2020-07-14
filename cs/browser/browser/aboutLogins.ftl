@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Přihlašovací údaje
@@ -32,6 +27,7 @@ menu =
     .title = Otevřít nabídku
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importovat z jiného prohlížeče…
+about-logins-menu-menuitem-import-from-a-file = Importovat ze souboru…
 about-logins-menu-menuitem-export-logins = Exportovat přihlašovací údaje…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -83,6 +79,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Hledáte své uložené přihlašovací údaje? Přihlaste se k { -sync-brand-short-name(case: "dat") }.
+about-logins-login-intro-heading-logged-out = Hledáte své uložené přihlašovací údaje? Přihlaste se k { -sync-brand-short-name(case: "dat") } nebo je naimportujte.
 about-logins-login-intro-heading-logged-in = Nenalezeny žádné synchronizované přihlašovací údaje.
 login-intro-description =
     Pokud jste si přihlašovací údaje uložili do { -brand-product-name.gender ->
@@ -94,7 +91,8 @@ login-intro-description =
 login-intro-instruction-fxa = Vytvořte nebo se přihlaste k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } na zařízení, kde máte přihlašovací údaje uložené
 login-intro-instruction-fxa-settings = V nastavení { -sync-brand-short-name(case: "gen") } na daném zařízení se ujistěte, že máte zapnutou synchronizaci přihlašovacích údajů
 about-logins-intro-instruction-help = Pro další pomoc navštivte <a data-l10n-name="help-link">nápovědu { -lockwise-brand-short-name(case: "gen") }</a>
-about-logins-intro-import = Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">importovat do { -lockwise-brand-short-name(case: "gen") }</a>
+about-logins-intro-import = Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do { -lockwise-brand-short-name(case: "gen") }</a>
+about-logins-intro-import2 = Pokud máte přihlašovací údaje uložené mimo { -brand-product-name(case: "acc") }, můžete je <a data-l10n-name="import-browser-link">naimportovat z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>
 
 ## Login
 
@@ -235,6 +233,19 @@ about-logins-export-file-picker-export-button = Exportovat
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument CSV
+       *[other] Soubor CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Import souboru s přihlašovacími údaji
+about-logins-import-file-picker-import-button = Importovat
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokument CSV
        *[other] Soubor CSV
