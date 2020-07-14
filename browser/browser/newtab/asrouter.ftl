@@ -249,8 +249,8 @@ cfr-whatsnew-better-pdf-body = PDF-Dokumente werden jetzt direkt in { -brand-sho
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = Ihre Privatsphäre ist uns wichtig. { -brand-short-name } leitet Ihre DNS-Anfragen jetzt nach Möglichkeit sicher an einen Partnerdienst weiter, um Sie beim Surfen zu schützen.
-cfr-doorhanger-doh-header = Sicherere, verschlüsselte DNS-Lookups
+cfr-doorhanger-doh-body = Ihre Privatsphäre ist uns wichtig. { -brand-short-name } leitet Ihre DNS-Anfragen jetzt falls möglich sicher an einen Partnerdienst weiter, um Sie beim Surfen zu schützen.
+cfr-doorhanger-doh-header = Sicherere, verschlüsselte DNS-Anfragen
 cfr-doorhanger-doh-primary-button = Ok, verstanden
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Deaktivieren
