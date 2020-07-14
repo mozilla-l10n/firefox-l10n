@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-calendar-ics-file-window =
-  .title = カレンダーの予定を読み込む
-
-calendar-ics-file-dialog =
-  .buttonlabelaccept = 読み込む
-
 calendar-ics-file-window-2 =
   .title = カレンダーの予定と ToDo を読み込む
 
@@ -18,9 +12,6 @@ calendar-ics-file-dialog-2 =
   .buttonlabelaccept = すべて読み込む
 
 calendar-ics-file-accept-button-ok-label = OK
-
-# $fileName (string) - The name of the file.
-calendar-ics-file-dialog-message = "{ $fileName }" ファイルを読み込みますか？
 
 calendar-ics-file-dialog-message-2 = ファイルから読み込む:
 calendar-ics-file-dialog-calendar-menu-label = カレンダーに読み込む:
