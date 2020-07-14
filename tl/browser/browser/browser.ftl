@@ -201,8 +201,8 @@ bookmark-panel =
 
 ## Identity Panel
 
-identity-connection-not-secure = Di Matibay na Koneksyon
-identity-connection-secure = Matibay na Koneksyon
+identity-connection-not-secure = Hindi ligtas ang koneksyon
+identity-connection-secure = Ligtas na koneksyon
 identity-connection-internal = Ito ay secure na { -brand-short-name } na pahina.
 identity-connection-file = Ang pahinang ito ay naka-imbak sa iyong computer.
 identity-extension-page = Ang pahinang ito ay nai-load mula sa isang extension.
