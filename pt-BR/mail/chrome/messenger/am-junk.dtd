@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkSettings.label "Antispam">
-<!ENTITY trainingDescription.label "Se ativado, primeiro você deve primeiro treinar o &brandShortName; a identificar mensagens indesejadas através do botão “Spam”. Você precisa identificar tanto as mensagens que são spam como as que não são. Depois disso, o &brandShortName; será capaz de identificar mensagens como spam automaticamente.">
+<!ENTITY junkSettings.label "Configurações de correio indesejado">
+<!ENTITY trainingDescription.label "Se estiver ativado, você deve, primeiramente, treinar o &brandShortName; para identificar às mensagens indesejadas utilizando o botão Indesejada na barra de ferramentas para marcar às mensagens como indesejadas ou não. Você precisa identificar tanto as mensagens que são indesejadas como as que não são. Depois disso, o &brandShortName; será capaz de marcar as indesejadas automaticamente.">
 <!ENTITY level.label "Ativar controles adaptativos de lixo eletrônico nesta conta">
 <!ENTITY level.accesskey "A">
 
