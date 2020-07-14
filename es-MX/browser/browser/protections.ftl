@@ -22,19 +22,6 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } sigue bloqueado rastreadores en ventanas privadas, pero no mantiene un registro de lo que se bloqueó.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Rastreadores que { -brand-short-name } bloqueó esta semana
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = El nivel de protección es <b>estándar</b>
-    .title = Ir a la configuración de privacidad
-protection-report-header-details-strict = El nivel de protección es <b>estricto</b>
-    .title = Ir a la configuración de privacidad
-protection-report-header-details-custom = El nivel de protección es <b>personalizado</b>
-    .title = Ir a la configuración de privacidad
-protection-report-page-title = Protecciones de privacidad
-protection-report-content-title = Protecciones de privacidad
-etp-card-title = Protección antirrastreo mejorada
-etp-card-content = Los rastreadores te van siguiendo para recopilar información sobre tus hábitos de navegación y tus intereses. { -brand-short-name } bloquea muchos rastreadores y otros scripts maliciosos.
 protection-report-webpage-title = Panel de protecciones
 protection-report-page-content-title = Panel de protecciones
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -69,12 +56,9 @@ mobile-app-title = Bloquear los rastreadores de anuncios en más dispositivos
 mobile-app-card-content = Usa el navegador móvil con protección integrada contra el rastreo de anuncios.
 mobile-app-links = El navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> y <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Que ya no se te olvide ninguna otra contraseña
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Administración de contraseñas
 lockwise-header-content = { -lockwise-brand-name } guarda de manera segura tus contraseñas en el navegador.
 lockwise-header-content-logged-in = Almacena y sincroniza tus contraseñas en todos tus dispositivos.
-protection-report-view-logins-button = Ver credenciales
-    .title = Ir a los inicios de sesión guardados
 protection-report-save-passwords-button = Guardar contraseñas
     .title = Guardar contraseñas en { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Administar contraseñas
@@ -82,14 +66,6 @@ protection-report-manage-passwords-button = Administar contraseñas
 lockwise-mobile-app-title = Lleva tus contraseñas a todos lados
 lockwise-no-logins-card-content = Usa contraseñas guardadas en { -brand-short-name } en cualquier dispositivo.
 lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> y <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Contraseña almacenada con seguridad <a data-l10n-name="lockwise-how-it-works">cómo funciona</a>
-       *[other] Contraseñas almacenadas con seguridad <a data-l10n-name="lockwise-how-it-works">cómo funciona</a>
-    }
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -109,19 +85,10 @@ lockwise-scanned-text-no-breached-logins =
 lockwise-how-it-works-link = Cómo funciona
 turn-on-sync = Activar { -sync-brand-short-name }…
     .title = Ir a las preferencias de sincronización
-manage-connected-devices = Administrar dispositivos…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Conectado a { $count } dispositivo
-       *[other] Conectado a { $count } dispositivos
-    }
 monitor-title = Mantente atento a las fugas de datos
 monitor-link = Cómo funciona
 monitor-header-content-no-account = Revisa { -monitor-brand-name } para ver si has sido parte de una violación de datos conocida y recibir alertas sobre nuevas violaciones.
 monitor-header-content-signed-in = { -monitor-brand-name } te avisa si tu información apareció en una violación de datos conocida.
-monitor-sign-up = Regístrate para recibir alertas de filtraciones
 monitor-sign-up-link = Suscribirse a las alertas de filtraciones
     .title = Suscribirse a las alertas de filtraciones en { -monitor-brand-name }
 auto-scan = Analizado automáticamente hoy
@@ -163,15 +130,6 @@ info-exposed-passwords-found =
         [one] contraseña expuesta a través de todas las filtraciones
        *[other] contraseñas expuestas a través de todas las filtraciones
     }
-full-report-link = Ver reporte completo en <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Inicio de sesión guardado puede estar expuesto en una filtración de datos. Cambiar esta contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
-       *[other] Inicios de sesión guardados pueden estar expuestos en una filtración de datos. Cambiar estas contraseñas para mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -184,9 +142,29 @@ monitor-no-breaches-title = ¡Buenas noticias!
 monitor-no-breaches-description = No tienes filtraciones conocidas. Si esto cambia, te lo haremos saber.
 monitor-view-report-link = Ver reporte
     .title = Resuelve las filtraciones en { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Resuelve tus filtraciones
+monitor-breaches-unresolved-description = Después de revisar los detalles de una filtración y tomar los pasos para proteger tu información, puedes marcar las filtraciones como resueltas.
+monitor-manage-breaches-link = Gestionar filtraciones
+    .title = Gestiona filtraciones en { -monitor-brand-short-name }
+monitor-breaches-resolved-title = ¡Genial! Has resuelto todas las filtraciones conocidas.
+monitor-breaches-resolved-description = Si tu correo aparece en cualquier filtración nueva, te lo haremos saber.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } de { $numBreaches } filtración marcada como resuelta
+       *[other] { $numBreachesResolved } de { $numBreaches } filtraciones marcadas como resueltas
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% completo
 monitor-partial-breaches-motivation-title-start = ¡Gran inicio!
 monitor-partial-breaches-motivation-title-middle = ¡Sigue así!
 monitor-partial-breaches-motivation-title-end = ¡Casi terminamos! Sigue así.
+monitor-partial-breaches-motivation-description = Resuelve el resto de tus filtraciones en { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Resolver filtraciones
+    .title = Resuelve filtraciones en { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
