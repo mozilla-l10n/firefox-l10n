@@ -272,6 +272,9 @@ blocklisted-bug = Plaçat dins la lista de blocatge per causa de donadas conegud
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = error { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Botat en lista negra a causa d’un problèma conegut : <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Plaçat dins la lista de blocatge; còde d'error { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
