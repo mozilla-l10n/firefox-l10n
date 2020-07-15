@@ -4,9 +4,7 @@
 
 about-config-warning-checkbox = తర్వాత కూడా నన్ను విసిగించు!
 about-config-warning-button = నేను నష్టభయాన్ని అంగీకరిస్తున్నాను
-
 about-config2-title = ఉన్నత స్వరూపణం
-
 about-config-search-input =
     .placeholder = వెతకండి
 
@@ -14,27 +12,22 @@ about-config-search-input =
 
 about-config-intro-warning-title = జాగ్రత్తతో ముందుకువెళ్ళండి
 
-
-
 ##
 
 about-config-page-title = ఉన్నత అభిరుచులు
-
 about-config-show-all = అన్నిటినీ చూపించు
-
 about-config-pref-add = చేర్చు
 about-config-pref-toggle = అటుదిటుచేయి
 about-config-pref-edit = సరిచేయి
 about-config-pref-save = భద్రపరుచు
 about-config-pref-reset = పునరుద్ధరించు
 about-config-pref-delete = తొలగించు
-
 about-config-pref-add-button =
     .title = చేర్చు
 about-config-pref-toggle-button =
     .title = అటుదిటుచేయి
 about-config-pref-edit-button =
-    .title = సరిచేయి
+    .title = మార్చు
 about-config-pref-save-button =
     .title = భద్రపరుచు
 about-config-pref-reset-button =
