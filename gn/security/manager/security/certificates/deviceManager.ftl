@@ -6,12 +6,12 @@
 ## Strings used for device manager
 
 devmgr =
-    .title = Mba'e'oka ñangarekohára
+    .title = Mba’e’oka ñangarekohára
     .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Tekorosãrã ha mba’e’oka ra’ãha
 devmgr-header-details =
-    .label = Mba'emimi
+    .label = Mba’emimi
 devmgr-header-value =
     .label = Hepykue
 devmgr-button-login =
@@ -39,7 +39,7 @@ devmgr-button-disable-fips =
 ## Strings used for load device
 
 load-device =
-    .title = Emyenyhẽ mba'e'oka ñangarekoha PKCS#11
+    .title = Emyenyhẽ mba’e’oka ñangarekoha PKCS#11
 load-device-info = Emoĩnge marandu vore rembojuapysévape g̃uarã.
 load-device-modname =
     .value = Ha'ãha réra
@@ -88,7 +88,7 @@ devinfo-serialnum =
     .label = Papapy syryry
 fips-nonempty-password-required = Pe FIPS reko oikotevẽ peteĩ ñe’ẽñemi ha’etéva oñemoheñóiva peteĩteĩva mba’e’oka tekorosãrãme g̃uarã. Emopyenda pe ñe’ẽñemi eñeha’ã mboyve emyandy pe FIPS reko.
 unable-to-toggle-fips = Ndaikatúi emoambue pe FIPS reko mba’e’oka rekorosãrãme g̃uarã. Ikatúramo esẽ ha upéi emoñepyrũjey ko tembipuru’i.
-load-pk11-module-file-picker-title = Eiporavo peteĩ mba'e'oka PKCS#11 emyenyhẽ hag̃ua
+load-pk11-module-file-picker-title = Eiporavo pe mba’e’oka PKCS#11 emyenyhẽ hag̃ua
 # Load Module Dialog
 load-module-help-empty-module-name =
     .value = Ha'ãha réra ndaikatúi opyta nandi.

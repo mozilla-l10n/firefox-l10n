@@ -10,7 +10,7 @@ change-password-window =
     .title = Ñe’ẽñemi ha’etéva moambue
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
-change-password-token = Mba'e'oka tekorosãrã: { $tokenName }
+change-password-token = Mba’e’oka tekorosãrã: { $tokenName }
 change-password-old = Ñe’ẽñemi ag̃agua:
 change-password-new = Ñe’ẽñemi pyahu:
 change-password-reenter = Ñe’ẽñemi pyahu: (ñemoneĩ):
@@ -42,10 +42,10 @@ download-cert-view-text = CA mboajepyre hechakatu
 ## Client Authorization Ask dialog
 
 client-auth-window =
-    .title = Mba'ejerure puruhára jehechaukaite
+    .title = Mba’ejerure puruhára jehechaukaite
 client-auth-site-description = Pe tenda upeigua ojerurékuri ndéve rejehechauka hag̃ua peteĩ mboajepyréva ndive:
 client-auth-choose-cert = Eiporavo peteĩ mboapyréva emoapysẽ hag̃ua jehechaukaháramo:
-client-auth-cert-details = Mboajepyréva poravopyre mba'emimi:
+client-auth-cert-details = Mboajepyréva poravopyre mba’emimi:
 
 ## Set password (p12) dialog
 

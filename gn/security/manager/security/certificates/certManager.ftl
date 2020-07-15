@@ -167,7 +167,7 @@ delete-ca-cert-confirm = Ejerurékuri emboguete hag̃ua ko’ã CA mboajepyre. O
 delete-ca-cert-impact = Emboguetéramo, térã nderejeroviavéiramo mboajepyréva moakãha omboajéva rehe (CA), ko tembipuru’i ndojeroviamo’ãi oimeraẽva mboajepyréva onohẽva ko CA.
 delete-email-cert-title =
     .title = Ñanduti veve mboajepyréva mboguete
-delete-email-cert-confirm = Añetehápe emboguetese umi ñanduti veve mboajepyréva ko'ã tapicha mba'éva?
+delete-email-cert-confirm = ¿Añetehápe emboguese ñanduti veve mboajepyréva ko’ã tapicha mba’éva?
 delete-email-cert-impact = Emboguéramo ñanduti veve mboajepyréva peteĩ ava mba’éva, ndaikatumo’ãvéima emondo ñe’ẽveve papapýva tapichápe.
 # Used for semi-uniquely representing a cert.
 #
@@ -205,16 +205,16 @@ cert-not-verified-cert-expired = Ndaikatúi ehechajey ko mboajepyréva ndoikové
 cert-not-verified-cert-not-trusted = Ndaikatuí ojehechajey ko mboajepyréva ndojejeroviái rupi hese.
 cert-not-verified-issuer-not-trusted = Ndaikatúi ehechajey ko mboajepyréva ndojejeroviái rupi pe apoháre.
 cert-not-verified-issuer-unknown = Ndaikatúi ehechajey ko mboajepyréva pe apoháre ndojeikuaái rupi.
-cert-not-verified-ca-invalid = Ndaikatúi ojehechajey ko mboajepyréva pe mboajepyréva CA mba'éva ndoikói rupi.
+cert-not-verified-ca-invalid = Ndaikatúi ojehechajey ko mboajepyréva pe mboajepyréva CA mba’éva ndoikói rupi.
 cert-not-verified_algorithm-disabled = Ndaikatúi ojehechajey ko mboajepyréva oñemboheraguapy rupi oipurukuévo peteĩ algoritmo mboheraguapy rehegua ojehejapyréva nahekorosãi haguére.
-cert-not-verified-unknown = Ndaikatuí ojehechajey ko mboajepyréva ha ndojekuaái mba'éicha rupi.
+cert-not-verified-unknown = Ndaikatuí ojehechajey ko mboajepyréva ha ndojekuaái mba’éicha rupi.
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = Emoambue'íntema mba'éichapa { -brand-short-name } ohechakuaa ko tenda.
+add-exception-branded-warning = Emoambue’íntema mba’éichapa { -brand-short-name } ohechakuaa ko tenda.
 add-exception-invalid-header = Ko tenda ojehechaukase ha'etevoi marandu oiko'ỹvaramo.
 add-exception-domain-mismatch-short = Tenda jejavýva
-add-exception-domain-mismatch-long = Pe mboajepyréva ha'e tenda ambuéva mba'e, he'isevahína ikatuha ambue tapicha omyengoviaseha ko tendápe.
+add-exception-domain-mismatch-long = Pe mboajepyréva ha’e tenda ambuéva mba’e, he’isevahína ikatuha ambue tapicha omyengoviase ko tendápe.
 add-exception-expired-short = Marandu ndoikovéimava
 add-exception-expired-long = Pe mboajepyréva ndoikói ko'ag̃aite. Ikatu hína oñemonda térã oñehundi, ha ikatu oipuru tapicha ohasa hag̃ua ko tenda rekoviáramo.
 add-exception-unverified-or-bad-signature-short = Teratee ojekuaa'ỹva
