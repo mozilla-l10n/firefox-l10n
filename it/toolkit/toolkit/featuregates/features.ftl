@@ -41,7 +41,7 @@ experimental-features-abouthome-startup-cache-description = Attiva cache per la 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
-    .label = Cookies: Schemeful SameSite
+    .label = Cookie: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Gestisci i cookie dallo stesso dominio ma con schemi diversi (ad esempio http://example.com e https://example.com) come cross-site invece di same-site. Questo migliora la sicurezza, ma può creare problemi nella navigazione.
 
 # "Service Worker" is an API name and is usually not translated.
