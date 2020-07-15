@@ -342,7 +342,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = Իմանալ ավելին
 update-application-title = { -brand-short-name }-ի թարմացումներ
-update-application-description = Պահեք { -brand-short-name }-ը թարմացուած՝ լավագոյն արտադրողականութեան, կայունութեան եւ անվտանգութեան համար:
+update-application-description = Պահէք { -brand-short-name }-ը թարմացուած լաւագոյն կատարման, կայունութեան եւ անվտանգութեան համար:
 update-application-version = Տարբերակ { $version } <a data-l10n-name="learn-more">Ինչն է նոր</a>
 update-history =
     .label = Ցուցադրել Թարմացումների Պատմութիւնը...
@@ -386,23 +386,23 @@ update-in-progress-cancel-button = &Շարունակել
 
 ## General Section - Performance
 
-performance-title = Արտադրողականութիւն
+performance-title = Կատարողականութիւն
 performance-use-recommended-settings-checkbox =
-    .label = Աւգտ. արտադրողականութեան յանձնարարելի կարգաւորումները
+    .label = Աւգտագործել կատարողականութեան յանձնարարելի կարգաւորումները
     .accesskey = Օ
-performance-use-recommended-settings-desc = Այս կարգաւորումները հարմարեցուած են ձեր համակարգչի սարքաշարին եւ աւպերացիոն համակարգին:
-performance-settings-learn-more = Իմանալ ավելին
+performance-use-recommended-settings-desc = Այս կարգաւորումները յարմարեցուած են ձեր համակարգչի սարքաշարին եւ Գործառնական Համակարգին:
+performance-settings-learn-more = Իմանալ աւելին
 performance-allow-hw-accel =
-    .label = Հնարավորութեան դեպքում աւգտագործել սարքակազմի արագացումը
+    .label = Հնարաւորութեան դէպքում աւգտագործել սարքակազմի արագացումը
     .accesskey = ր
 performance-limit-content-process-option = Բովանդակութեան ընթացքի սահմանափակում
     .accesskey = ս
-performance-limit-content-process-enabled-desc = Բովանդակութեան լրացուցիչ ընթացքները կարող են լաւարկել արտադրողականութիւնը, երբ աւգտագործուում են բազմակի ներդիրներ, բայց միեւնոյն ժամանակ՝ դրանք աւելի շատ հիշողութիւն կը խլեն:
-performance-limit-content-process-blocked-desc = Հնարավոր է փոփոխել բովանդակութեան ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դէպքում: <a data-l10n-name="learn-more">Կարդալ, թե ինչպէս ստուգել՝ արդեւք բազմամշակիչը միացուած է:</a>
+performance-limit-content-process-enabled-desc = Բովանդակութեան լրացուցիչ ընթացքները կարող են լաւարկել կատարողականութիւնը, երբ աւգտագործուում են բազմակի ներդիրներ, բայց,միեւնոյն ժամանակ, դրանք աւելի շատ յիշողութիւն կը խլեն:
+performance-limit-content-process-blocked-desc = Հնարաւոր է փոփոխել բովանդակութեան ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դէպքում: <a data-l10n-name="learn-more"> Կարդալ, թե ինչպէս ստուգել՝ արդեաւք բազմամշակիչը միացուած է: </a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
-    .label = { $num } (լռելեայն)
+    .label = { $num } (սկզբնադիր)
 
 ## General Section - Browsing
 
