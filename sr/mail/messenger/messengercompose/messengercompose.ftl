@@ -19,6 +19,14 @@ address-input-type-aria-label =
         [few] { $type } врста са { $count } адресе, користите леву стрелицу за фокус.
        *[other] { $type } врста са { $count } адреса, користите леву стрелицу за фокус.
     }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: притисните Enter за уређивање, Delete за уклањање.
+        [few] { $email }, 1 од { $count }: притисните Enter за уређивање, Delete за уклањање.
+       *[other] { $email }, 1 од { $count }: притисните Enter за уређивање, Delete за уклањање.
+    }
 pill-action-edit =
     .label = Уредите адресу
     .accesskey = е
