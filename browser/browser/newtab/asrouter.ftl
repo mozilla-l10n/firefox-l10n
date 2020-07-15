@@ -250,5 +250,6 @@ cfr-doorhanger-doh-secondary-button = Désactiver
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Protection automatique contre les techniques de pistage discrètes
 cfr-whatsnew-clear-cookies-body = Certains traqueurs vous redirigent vers d’autres sites qui créent des cookies cachés. { -brand-short-name } est désormais capable d’effacer ces cookies afin que vous ne puissiez pas être pisté·e.
 cfr-whatsnew-clear-cookies-image-alt = Illustration d’un cookie bloqué
