@@ -216,3 +216,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Egueru marandurenda tembiapo ñepyrũgui
+about-logins-import-file-picker-import-button = Mba’egueru

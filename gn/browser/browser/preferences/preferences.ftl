@@ -1166,6 +1166,17 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } opyta hína disco pa'ũ'ỹre. Ikatu hína ñanduti renda retepy ndojehechaukái hekopete. Eike “Kuaave” eipuru porã hag̃ua disco ne kundaha hekoresãi hag̃ua avei.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = HTTPS año ayvu
+httpsonly-learn-more = Eikuaave
+httpsonly-radio-enabled =
+    .label = Emyandy HTTPS año ayvu opaite ovetãme
+httpsonly-radio-enabled-pbm =
+    .label = Embojuruja HTTPS año ayvu opaite ovetãme
+httpsonly-radio-disabled =
+    .label = Ani embojuruja HTTPS año ayvu
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Mba’erechaha
