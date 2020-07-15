@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profiles-title = Mba'ete Rehegua
+profiles-title = Mba’ete Rehegua
 profiles-subtitle = Ko kuatiarogue nepytyvõkuaa eñangarekóvo ne mba'etére. Mayma mba'ete niko ijojaha'ỹva ojejuhuhápe tapicha rembiasakue, rechaukaha, ñemboheko ha moĩmbaha.
 profiles-create = Mba'ete Pyahu Ñemoheñói
 profiles-restart-title = Moñepyrũjey

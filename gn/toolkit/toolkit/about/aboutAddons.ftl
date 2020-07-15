@@ -156,9 +156,9 @@ disabled-unsigned-description = Ko'ã moĩmbaha ndojehechajeýi ojepuru hag̃uá
 disabled-unsigned-learn-more = Eikuaave oreñeha'ã rehegua ikatu hag̃uáicha roipytyvõ peime hag̃ua jeikekatúpe.
 disabled-unsigned-devinfo = Umi mboguatahára oipotáva moimbaha jehechapyréva ikatu omoñe’ẽve ohóvo ko <label data-l10n-name="learn-more">popeguáva</label>.
 plugin-deprecation-description = Oĩpa nderejuhúiva? Sapy'ánte oĩ mba'ejoajurã ndaikatuvéima ojepuru { -brand-short-name } ndive. <label data-l10n-name="learn-more">Jeikuaave.</label>
-legacy-warning-show-legacy = Opaite mba'ejoapyrã jehecha
+legacy-warning-show-legacy = Opaite mba’ejoapyrã jehecha
 legacy-extensions =
-    .value = Opaite mba'ejoapyrã
+    .value = Opaite mba’ejoapyrã
 legacy-extensions-description = Ko'ã jepysokue ndoguerekói { -brand-short-name } tekoguatarã oñembogue hag̃ua. <label data-l10n-name="legacy-learn-more">Maranduve moĩmbaha moambue rehegua</label>
 private-browsing-description2 =
     { -brand-short-name } iñambuehína mba’éichapa omba’apo jepysokue kundaha ñemíme. Oimeraẽva jepysokue pyahu embojuajúva
@@ -177,15 +177,15 @@ extensions-view-available-updates =
 addon-category-discover = Je’eporã
 addon-category-discover-title =
     .title = Je’eporã
-addon-category-extension = Mba'ejoapyrã
+addon-category-extension = Mba’ejoapyrã
 addon-category-extension-title =
-    .title = Mba'ejoapyrã
+    .title = Mba’ejoapyrã
 addon-category-theme = Téma
 addon-category-theme-title =
     .title = Téma
-addon-category-plugin = Mba'ejoajurã
+addon-category-plugin = Mba’ejoajurã
 addon-category-plugin-title =
-    .title = Mba'ejoajurã
+    .title = Mba’ejoajurã
 addon-category-dictionary = Ñe’ẽryru
 addon-category-dictionary-title =
     .title = Ñe’ẽryru
@@ -385,7 +385,7 @@ preferences-addon-button =
         [windows] Jerohoryvéva
        *[other] Jeporavorã
     }
-details-addon-button = Mba'emimi
+details-addon-button = Mba’emimi
 release-notes-addon-button = Jehaipy rehegua
 permissions-addon-button = Moneĩ
 addons-enabled-heading = Mbojurujapyre
@@ -479,7 +479,7 @@ plugin-heading = Emongu’e nde mboguejyrã’i
 dictionary-heading = Emongu’e ne ñe’ẽryrukuéra
 locale-heading = Emongu’e ne ñe’ẽnguéra
 updates-heading = Eñangareko ne ñembohekopyahúre
-discover-heading = Emomba'e nde { -brand-short-name }
+discover-heading = Emomba’e nde { -brand-short-name }
 shortcuts-heading = Eñangareko jepysokue jeike pya’eháre
 default-heading-search-label = Ehekave moimbaha
 addons-heading-search-input =

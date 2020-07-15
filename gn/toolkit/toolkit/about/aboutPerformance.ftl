@@ -26,7 +26,7 @@ type-subframe = Subframe
 type-tracker = Tapykuehohára
 type-addon = Tembipuru’i
 type-browser = Kundaha
-type-worker = Mba'apohára
+type-worker = Mba’apohára
 type-other = Ambue
 
 ## Values for the Energy Impact column

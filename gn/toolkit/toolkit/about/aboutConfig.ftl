@@ -30,7 +30,7 @@ config-pref-column =
 config-lock-column =
     .label = Tekotee
 config-type-column =
-    .label = Mba'eichagua
+    .label = Mba’eichagua
 config-value-column =
     .label = Hepykue
 
