@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } Փորձարկումներ
 category-experimental =
     .tooltiptext = { -brand-short-name } Փորձարկումներ
 pane-experimental-subtitle = Շարունակէք զգուշաւորութեամբ
+pane-experimental-description = Կազմաձեւի առաջատար նախընտրանքերի փոփոխութիւնը կարող է ազդել { -brand-short-name }֊ի կատարման կամ անվտանգութեան վրաj:
 help-button-label = { -brand-short-name }-ի աջակցում
 addons-button-label = Ընդլայնումներ եւ Ոճեր
 focus-search =

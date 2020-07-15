@@ -7,37 +7,31 @@ about-config-warning-title = Այստեղ զգոյշ եղեք:
 about-config-warning-text = Լրացուցիչ կարգաւորումների փոփոխումը կարող է վտանգել այս ծրագրի կայունութիւնը, անվտանգութիւնը եւ աշխատանքի որակը: Դուք պէտք է շարունակեք միայն այն դէպքում, երբ վստահ գիտեք թե ինչ էք անում:
 about-config-warning-checkbox = Խնդրում եմ կրկին զգուշացնել։
 about-config-warning-button = Ես ընդունում եմ վտանգը:
-
 about-config2-title = Ընդլայնուած կազմաձեւեր
-
 about-config-search-input =
     .placeholder = Որոնում
 
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Շարունակեք զգուշութեամբ
-about-config-intro-warning-text = Կազմաձեւի առաջատար նախապատուութիւնների փոփոխումը կարող է ազդել { -brand-short-name } ֊ի կատարման կամ անվտանգութեան վրա:
+about-config-intro-warning-text = Կազմաձեւի առաջատար նախընտրանքերի փոփոխութիւնը կարող է ազդել { -brand-short-name } ֊ի կատարման կամ անվտանգութեան վրաj:
 about-config-intro-warning-checkbox = Զգուշացրեք ինձ, երբ ես փորձում եմ մուտք գործել այս նախընտրութիւններ
 about-config-intro-warning-button = Ընդունել վտանգը եւ շարունակել
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
-about-config-caution-text = Այս նախասիրութիւնների փոփոխութիւնը կարող է ազդել { -brand-short-name } ֊ի աշխատանքի կամ անվտանգութեան վրա:
-
+about-config-caution-text = Այս նախընտրանքների փոփոխութիւնը կարող է ազդել { -brand-short-name } ֊ի կատարման կամ անվտանգութեան վրայ:
 about-config-page-title = Ընդլայնուած նախընտրութիւններ
-
 about-config-search-input1 =
     .placeholder = Որոնել նախընտրանքի անուն
 about-config-show-all = Ցուցադրել բոլորը
-
 about-config-pref-add = Աւելացնել
 about-config-pref-toggle = Փոփոխել
 about-config-pref-edit = Խմբագրել
 about-config-pref-save = Պահպանել
 about-config-pref-reset = Վերակայել
 about-config-pref-delete = Ջնջել
-
 about-config-pref-add-button =
     .title = Աւելացնել
 about-config-pref-toggle-button =
