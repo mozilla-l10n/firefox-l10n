@@ -39,3 +39,28 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Преместите у сКоп поље
     .accesskey = у
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value =
+        { $count ->
+            [1] Један прилог
+            [one] { $count } прилог
+            [few] { $count } прилога
+           *[other] { $count } прилога
+        }
+    .accesskey = г
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] Један прилог
+            [one] { $count } прилог
+            [few] { $count } прилога
+           *[other] { $count } прилога
+        }
+#   { attachment-bucket-count.accesskey } - Do not localize this message.
+key-toggle-attachment-pane =
+    .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = Потврда
+    .tooltiptext = Враћа потврду о пријему ове поруке
