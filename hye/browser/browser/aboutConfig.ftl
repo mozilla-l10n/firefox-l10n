@@ -7,7 +7,7 @@ about-config-warning-title = Այստեղ զգոյշ եղեք:
 about-config-warning-text = Լրացուցիչ կարգաւորումների փոփոխումը կարող է վտանգել այս ծրագրի կայունութիւնը, անվտանգութիւնը եւ աշխատանքի որակը: Դուք պէտք է շարունակեք միայն այն դէպքում, երբ վստահ գիտեք թե ինչ էք անում:
 about-config-warning-checkbox = Խնդրում եմ կրկին զգուշացնել։
 about-config-warning-button = Ես ընդունում եմ վտանգը:
-about-config2-title = Ընդլայնուած կազմաձեւեր
+about-config2-title = Յառաջացած կազմաձեւեր
 about-config-search-input =
     .placeholder = Որոնում
 
