@@ -31,3 +31,7 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-how = На који начин желите потврдити идентитет контакта?
+auth-question = Унесите питање:
+auth-answer = Унесите одговор (прави разлику између великих и малих слова):
+auth-secret = Унесите тајну:
