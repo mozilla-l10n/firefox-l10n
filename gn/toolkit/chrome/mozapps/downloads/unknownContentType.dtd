@@ -4,7 +4,7 @@
 
 <!ENTITY  intro2.label                "Eiporavo jeike:">
 <!ENTITY  from.label                  "pegua:">
-<!ENTITY  actionQuestion.label        "Mba'épa ikatu ojapo &brandShortName; ko marandurenda ndive.">
+<!ENTITY  actionQuestion.label        "Mba’épa ikatu ojapo &brandShortName; ko marandurenda ndive.">
 
 <!ENTITY  openWith.label              "Eike ndive">
 <!ENTITY  openWith.accesskey          "O">
@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Ejapo ijeheguietéva ko'ã marandurendápe g̃uarã ko'ag̃aite guive.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "mba'e péva:">
+<!ENTITY  whichIs.label              "mba’e péva:">
 
 <!ENTITY  chooseHandlerMac.label      "Poravo…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

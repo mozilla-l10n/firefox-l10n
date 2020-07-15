@@ -5,16 +5,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Eiparavo peteĩ poruhára mba'ete">
+<!ENTITY            windowtitle.label      "&brandShortName; - Eiparavo poruhára mba’ete">
 
-<!ENTITY            profilename.label      "Mba'ete réra:">
+<!ENTITY            profilename.label      "Mba’ete Réra:">
 
 <!ENTITY            start.label            "&brandShortName; ñepyrũ">
 <!ENTITY            exit.label             "Ñesẽ">
 
-<!ENTITY            availprofiles.label    "Mba'ete ojepurukuaáva">
+<!ENTITY            availprofiles.label    "Mba’ete ojepurukuaáva">
 
-<!ENTITY            newButton.label        "Emoheñói mba'ete…">
+<!ENTITY            newButton.label        "Emoheñói mba’ete…">
 <!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Emboherajey mba'ete…">
 <!ENTITY            renameButton.accesskey "R">

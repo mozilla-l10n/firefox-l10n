@@ -5,10 +5,10 @@
 <!ENTITY playButton.playLabel "Mboheta">
 <!ENTITY playButton.pauseLabel "Mombyta">
 <!ENTITY muteButton.muteLabel "Mokirirĩ">
-<!ENTITY muteButton.unmuteLabel "Mba'epu mbojevy">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Mba'erechaha tuichavéva">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Mba'erechaha tuichavévagui ñesẽ">
-<!ENTITY castingButton.castingLabel "Mba'erechaha ojuehéva">
+<!ENTITY muteButton.unmuteLabel "Mba’epu mbojevy">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Mba’erechaha tuichavéva">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Mba’erechaha tuichavévagui ñesẽ">
+<!ENTITY castingButton.castingLabel "Mba’erechaha ojuehéva">
 <!ENTITY closedCaption.off "Mboguepyre">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->

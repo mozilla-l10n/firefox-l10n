@@ -15,6 +15,6 @@
 <!ENTITY window.nosync "Eipurúramo Firefox rembiapokue itujavéva ikatu ombyai techaukaha ha avei kundaha rembiasakue Firefox mba’etépe ñongatupyréva. Emo’ã hag̃ua ne marandu emoheñói mba’ete pyahu ko &brandShortName; ñembohekópe g̃uarã.">
 <!ENTITY window.sync "Eipurúramo Firefox rembiapokue itujavéva ikatu ombyai techaukaha ha kundaha rembiasakue ñongatupyre Firefox mba’ete pegua. Emo’ã hag̃ua umi marandu, emoheñóiva’erã mba’ete pyahu ko ñemohendapyre &brandShortName; peg̃uarã. Ikatu eike tapia &syncBrand.fxAccount.label; ndive emoñondive hag̃ua techaukaha ha kundaha rembiasakue mba’etekuéra apytépe.">
 
-<!ENTITY window.create "Emoheñói mba'ete pyahu">
+<!ENTITY window.create "Emoheñói mba’ete pyahu">
 <!ENTITY window.quit-win "Ñesẽ">
 <!ENTITY window.quit-nonwin "Ñesẽ">
