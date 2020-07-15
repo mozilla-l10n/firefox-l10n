@@ -5,7 +5,7 @@
 do-not-track-description = Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծուել
 do-not-track-learn-more = Իմանալ աւելին
 do-not-track-option-default-content-blocking-known =
-    .label = Միայն երբ { -brand-short-name }-ը սահմանուած է արգելափակել հայտնի վնասները։
+    .label = Միայն երբ { -brand-short-name }-ը արգելափակում է յայտնի հետագծիչները։
 do-not-track-option-always =
     .label = Միշտ
 pref-page =
@@ -495,7 +495,6 @@ home-prefs-topsites-description = Ամենաշատ այցելած կայքեր
 
 home-prefs-recommended-by-header =
     .label = Առաջարկուում է { $provider }
-home-prefs-recommended-by-description = Հիանալի բովանդակութիւն համացանցից, անձնաւորուած Ձեզ համար
 
 ##
 
@@ -558,7 +557,6 @@ search-show-suggestions-above-history-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդիւնքների ամենավերեւում
 search-show-suggestions-private-windows =
     .label = Ցույց տալ որոնման առաջարկները մասնաւոր պատուհանում
-suggestions-addressbar-settings = Փոխեք նախապատվութիւնները թերթելու պատմութիւնը, էջանիշները եւ ներդիրի առաջարկները
 search-suggestions-cant-show = Որոնման առաջարկութիւնները չեն ցուցադրուի գտնման վայրի տողի արդիւնքներում, քանի որ դուք կազմաձեւել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմութիւնը։
 search-one-click-header = Մեկ սեղմամբ որոնիչներ
 search-one-click-desc = Ընտրեք այլ ընտրանքային որոնիչներ, որոնք կերեւան ստորեւ հասցեի գոտում եւ որոնման գոտիում, երբ մուտքագրեք հիմնաբառ:
@@ -934,7 +932,7 @@ content-blocking-setting-custom =
 content-blocking-standard-desc = Համակշռել պաշտպանութեան եւ իրականցման համար։ Կարող թոյլատրել որոշ վնասներ, վեբ կայքերի ճշգրիտ աշխատանքի համար։
 content-blocking-strict-description = Ավելի ուժեղ պաշտպանութիւն, կարող է հանդիսանալ որոշ կայքերի կոտրման պատճառ։
 content-blocking-custom-desc = Ընտրեք ինչը արգելափակել.։
-content-blocking-private-trackers = Յայտնի հետեւումներ միայն անձնական Windows-ում
+content-blocking-private-trackers = Յայտնի հետագծիչները միայն անձնական պատուհաններում
 content-blocking-third-party-cookies = Եռատող յետապնդուող թխուկներ
 
 ## These strings are used to define the different levels of
@@ -961,7 +959,7 @@ content-blocking-cross-site-tracking-cookies = Միջակայքային հետե
 content-blocking-social-media-trackers = Սոցիալական մեդիայի հետագծումներ
 content-blocking-all-cookies = Բոլոր նշոցիկները
 content-blocking-unvisited-cookies = Նշոցիկներ չստուգուած կայքերից
-content-blocking-all-windows-trackers = Յայտնի հետքերը բոլոր պատուհաններում
+content-blocking-all-windows-trackers = Յայտնի հետագծիչները բոլոր պատուհաններում
 content-blocking-all-windows-tracking-content = Հետեւում են բովանդակութեանը բոլոր պատուհաններում
 content-blocking-all-third-party-cookies = Բոլոր երրորդ կողմերի նշոցիկները
 content-blocking-cryptominers = Գաղտնազերծիչներ
@@ -1148,6 +1146,9 @@ space-alert-under-5gb-ok-button =
     .label = Լաւ, հասկացա
     .accesskey = ա
 space-alert-under-5gb-message = { -brand-short-name }-ում տեղ չկայ: Կայքի բովանդակութիւնը, հնարաւոր է, նորմալ չի ցուցադրուի: Այցելեք «Իմանալ աւելին»՝ լաւարկելու համար հիշասարքի աւգտագործումը՝ դիտարկումների աւելի լաւ փորձառութեան համար:
+
+## Privacy Section - HTTPS-Only
+
 
 ## The following strings are used in the Download section of settings
 
