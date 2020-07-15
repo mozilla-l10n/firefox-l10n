@@ -63,7 +63,7 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = Այս հնարաւորութիւնը միացնելու համար վերաբացեք { -brand-short-name }-ը:
+feature-enable-requires-restart = Այս հնարաւորութիւնը գործարկելու համար վերամեկնարկել { -brand-short-name }-ը:
 feature-disable-requires-restart = Այս հնարաւորութիւնը անջատելու համար վերաբացեք { -brand-short-name }-ը:
 should-restart-title = Վերամեկնարկել { -brand-short-name }-ը
 should-restart-ok = Վերամեկնարկել { -brand-short-name }-ը
