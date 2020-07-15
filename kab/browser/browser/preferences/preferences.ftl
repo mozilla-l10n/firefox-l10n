@@ -1168,7 +1168,14 @@ space-alert-under-5gb-message = Amkan n udebṣi iteddu ad yaweḍ ar { -brand-s
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Askar HTTPS-Only
 httpsonly-learn-more = Issin ugar
+httpsonly-radio-enabled =
+    .label = Rmed askar HTTPS-Only deg yisfuyla akk
+httpsonly-radio-enabled-pbm =
+    .label = Rmed askar HTTPS-Only deg yisfuyla usligen kan
+httpsonly-radio-disabled =
+    .label = Ur remmed ara askar HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
