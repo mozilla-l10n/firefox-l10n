@@ -1166,6 +1166,10 @@ space-alert-under-5gb-ok-button =
     .accesskey = H
 space-alert-under-5gb-message = Amkan n udebṣi iteddu ad yaweḍ ar { -brand-short-name }. Igburen n usmel web ur d-ttbanen ara akken iwata.  Ddu ar "Issin ugar" akken ad tseggmeḍ aseqdec n udebṣi-ik akken tarmit n tunigin ad tuɣal tfaz.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Issin ugar
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tanarit
