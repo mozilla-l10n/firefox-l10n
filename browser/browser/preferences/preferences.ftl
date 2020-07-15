@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } ਤਜਰਬੇ
 category-experimental =
     .tooltiptext = { -brand-short-name } ਤਜਰਬੇ
 pane-experimental-subtitle = ਧਿਆਨ ਨਾਲ ਅੱਗੇ ਵਧੋ
+pane-experimental-search-results-header = { -brand-short-name } ਤਜਰਬਾ: ਧਿਆਨ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
 help-button-label = { -brand-short-name } ਸਮਰਥਨ
 addons-button-label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ
 focus-search =
@@ -894,6 +895,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = …ਇਜਾਜ਼ਤਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = P
+sitedata-cookies-exceptions =
+    .label = ...ਛੋਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
@@ -908,6 +912,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ
+    .accesskey = T
 addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
 
 ## Privacy Section - Content Blocking
