@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Tembiapo ñepyrũ ha ñe’ẽñemi
@@ -32,6 +27,7 @@ menu =
     .title = Poravorãme jeike
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Egueru ambue kundahára guive…
+about-logins-menu-menuitem-import-from-a-file = Marandurendágui jegueru…
 about-logins-menu-menuitem-export-logins = Emba’egueraha tembiapo ñepyrũ…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -217,3 +213,6 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] CSV Kuatiaite
        *[other] CSV Marandurenda
     }
+
+## Login Import Dialog
+
