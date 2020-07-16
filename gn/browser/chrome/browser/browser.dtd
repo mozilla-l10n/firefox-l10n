@@ -404,14 +404,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Tendayke oñembotyramóva">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ovetã oñembotyramóva">
-<!ENTITY historyRestoreLastSession.label "Tembiapopa'ũ mboyvegua mbojevy">
+<!ENTITY historyRestoreLastSession.label "Tembiapopa’ũ mboyvegua mbojevy">
 
 <!ENTITY showAllHistoryCmd2.label "Tembiasakue jehechaukapa">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tembiasakue jehechaukapa">
 <!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
-<!ENTITY appMenuHistory.restoreSession.label "Tembiapopa'ũ ramovéva ñembojevy">
+<!ENTITY appMenuHistory.restoreSession.label "Tembiapopa’ũ ramovéva ñembojevy">
 <!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
 <!ENTITY appMenuHistory.hideSidebar.label "Emokañy tembiasakue renda yke">
 <!ENTITY appMenuHistory.recentHistory.label "Tembiasakue ramovéva">
@@ -699,15 +699,15 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Mba’epu mbojevy">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "Mbohetaha Pya'ekue">
+<!ENTITY mediaPlaybackRate2.label     "Mbohetaha Pya’ekue">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Mbegue (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "M">
 <!ENTITY mediaPlaybackRate100x2.label "Ha’etéva">
 <!ENTITY mediaPlaybackRate100x2.accesskey "H">
-<!ENTITY mediaPlaybackRate125x2.label "Pya'e (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.label "Pya’e (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "P">
-<!ENTITY mediaPlaybackRate150x2.label "Pya'eve (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.label "Pya’eve (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "P">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
@@ -841,7 +841,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia’ỹha.">
 <!ENTITY identity.passiveLoaded "Ko kuatiarogue pehẽ heta hendápe nda’ijeroviapái (mba’era’ãngáramo).">
-<!ENTITY identity.activeLoaded "Ndereguerekói pa'ũ ko kuatiaroguépe g̃uarã.">
+<!ENTITY identity.activeLoaded "Ndereguerekói pa’ũ ko kuatiaroguépe g̃uarã.">
 <!ENTITY identity.weakEncryption "Ko kuatiarogue oipuru ñangarekoha ikangýva.">
 
 <!-- Strings for connection state warnings in the subview. -->

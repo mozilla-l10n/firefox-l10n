@@ -67,7 +67,7 @@
 <!ENTITY cmd.new_folder.label              "Ñongatuha pyahu...">
 <!ENTITY cmd.new_folder.accesskey          "p">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "Mopa'ũha pyahu">
+<!ENTITY cmd.new_separator.label           "Mopa’ũha pyahu">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
 <!ENTITY col.name.label          "Téra">
