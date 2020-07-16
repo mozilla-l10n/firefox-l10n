@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Deiziataer
+calendar-title-reminder = Kounadurioù
+calendar-title-category = Rummadoù
 dateformat-label =
     .value = Rizh testenn an deiziad:
     .accesskey = R
@@ -84,6 +87,7 @@ week-5-label =
 week-6-label =
     .label = 6 sizhun
 todaypane-legend = Panell &hiziv
+event-task-legend = Darvoudoù ha trevelloù
 task-start-label =
     .value = Eus:
 task-start-1-label =
