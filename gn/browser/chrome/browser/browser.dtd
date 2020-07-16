@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Ñanduti mboguatahára">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY inspectContextMenu.label     "Mba’epuru ma’ẽ’ag̃ui">
+<!ENTITY inspectContextMenu.label     "Mba’epuru ma’ẽag̃ui">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY inspectA11YContextMenu.label     "Ema’ẽag̃ui mba’etee jeikerãva rehe">

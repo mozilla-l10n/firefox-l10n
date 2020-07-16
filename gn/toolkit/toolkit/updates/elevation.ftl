@@ -11,4 +11,9 @@ elevation-error-manual = Ikatu embohekopyahu { -brand-short-name } po rupive eik
 elevation-finished-page = Ñembohekopyahu oĩmbáva emohenda hag̃ua
 elevation-finished-background-page = Oñemboguejýma peteĩ ñembohekopyahu hekorosã ha hekopytáva { -brand-short-name }-pe g̃uarã ha ikatúntema emboguejy.
 elevation-finished-background = Ñembohekopyahu:
-elevation-more-elevated = Ko ñembohekopyahu oikotevẽ ñangarekohára ma'ẽ tapia rehe. Ñembohekopyahu oñemohendáta { -brand-short-name } oñepyrũ vove. Ikatu oñepyrũ jey { -brand-short-name } ko'ág̃a, emba'apo jey ha emoñepyrũ jey ag̃amieve térã emboykete ko ñembohekopyahu.
+elevation-more-elevated =
+    Ko ñembohekopyahu oikotevẽ ñangarekohára ma’ẽ tapia rehe.
+    Pe mbohekopyahu
+    oñemohendáta { -brand-short-name } ikatu vove. Ikatu oñepyrũjey
+    { -brand-short-name } ko’ág̃a, emba’apo ha emoñepyrũjey ag̃ave térã emboyke ko
+    mbohekopyahu.

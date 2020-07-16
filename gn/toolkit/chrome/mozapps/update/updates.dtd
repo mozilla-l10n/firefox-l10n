@@ -50,5 +50,8 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Pe ñembohekopyahu oñemohendáta emoñepyrũjey vove &brandShortName;. Ikatu emoñepyrũjey &brandShortName; ko'ag̃aite, térã emba'apove ha emoñepyrũjey ag̃amieve.">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.moreElevated "Ko ñembohekopyahu oikotevẽ ñangarekohára ma'ẽ tapia rehe. Ñembohekopyahu oñemohendáta &brandShortName; oñepyrũ vove. Ikatu oñepyrũ jey &brandShortName; ko'ág̃a, emba'apo jey ha emoñepyrũ jey ag̃amieve térã emboykete ko ñembohekopyahu.">
+<!ENTITY  finishedBackground.moreElevated "Ko ñembohekopyahu oikotevẽ ñangarekohára ñema’ẽ tapia rehe.
+                                           Ñembohekopyahu oñemohendáta &brandShortName; oñepyrũ vove. Ikatu oñepyrũ jey
+                                           &brandShortName; ko’ág̃a, emba’apojey ha emoñepyrũ jey ag̃amieve térã emboykete
+                                           ko ñembohekopyahu.">
 

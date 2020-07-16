@@ -199,5 +199,5 @@ newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-nam
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = Ema'ẽ, mba’épa osẽvai henyhẽnguévo ko tetepy.
+newtab-error-fallback-info = Ema’ẽ, mba’épa osẽvai henyhẽnguévo ko tetepy.
 newtab-error-fallback-refresh-link = Kuatiarogue mbopiro’y eñepyrũjey hag̃ua
