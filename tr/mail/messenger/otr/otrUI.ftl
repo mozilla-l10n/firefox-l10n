@@ -10,6 +10,7 @@ auth-cancel = İptal
 auth-cancelAccessKey = İ
 auth-error = Kişinin kimliği doğrulanırken bir hata oluştu.
 auth-success = Kişinin kimliğinin doğrulanması başarıyla tamamlandı.
+auth-successThem = Karşı taraf kimliğinizi başarıyla doğruladı. Siz de kendi sorunuzu sorarak karşı tarafın kimliğini doğrulamak isteyebilirsiniz.
 auth-fail = Kişinin kimliği doğrulanamadı.
 auth-waiting = Kişinin doğrulamayı tamamlaması bekleniyor…
 finger-verify = Doğrula
