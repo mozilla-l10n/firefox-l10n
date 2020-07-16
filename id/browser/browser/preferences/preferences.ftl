@@ -54,7 +54,7 @@ pane-experimental-title = Eksperimen { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimen { -brand-short-name }
 pane-experimental-subtitle = Lanjutkan dengan Kehati-hatian
-pane-experimental-search-results-header = { -brand-short-name } Eksperimen: Lanjutkan dengan Hati-hati
+pane-experimental-search-results-header = Eksperimen { -brand-short-name }: Lanjutkan dengan Hati-hati
 pane-experimental-description = Mengubah pilihan konfigurasi tingkat lanjut dapat mempengaruhi kinerja atau keamanan { -brand-short-name } .
 help-button-label = Dukungan { -brand-short-name }
 addons-button-label = Ekstensi & Tema
@@ -1149,6 +1149,9 @@ space-alert-under-5gb-ok-button =
     .label = Oke, Beres
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } kehabisan ruang disk. Konten situs barangkali tidak dapat ditampilkan dengan tepat. Kunjungi “Pelajari Lebih Lanjut” untuk mengoptimalkan penggunaan disk Anda untuk pengalaman penjelajahan yang lebih baik.
+
+## Privacy Section - HTTPS-Only
+
 
 ## The following strings are used in the Download section of settings
 
