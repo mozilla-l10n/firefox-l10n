@@ -160,7 +160,7 @@ warn-on-open-many-tabs =
     .label = Emomarandúrõ eiketaha heta tendayképe ikatu omombegue down { -brand-short-name }
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = Eikévo peteĩ joajuha ovetã pyahúpe, eho pépe pya'eterei
+    .label = Eikévo peteĩ joajuha ovetã pyahúpe, eho pépe pya’eterei
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Ehechauka chéve tendayke ra’ãnga’i Windows rembiaporã rendápe.
@@ -403,7 +403,7 @@ performance-use-recommended-settings-checkbox =
 performance-use-recommended-settings-desc = Ko'ã ñemoĩporã oñombojuehe hardware ha ne mohendaha apopyvusu rembiapo rehe.
 performance-settings-learn-more = Kuaave
 performance-allow-hw-accel =
-    .label = Hardware mbopya'eha oĩmba vove jepuru
+    .label = Hardware mbopya’eha oĩmba vove jepuru
     .accesskey = r
 performance-limit-content-process-option = Tetepy ha tembe’y mba’eapo
     .accesskey = l
@@ -1120,7 +1120,7 @@ security-block-downloads =
     .label = Ejoko ñemboguejy kyhyjerãva
     .accesskey = d
 security-block-uncommon-software =
-    .label = Ejesareko software oiko'ỹva ha ojekuaa'ỹva
+    .label = Ejesareko software oiko’ỹva ha ojekuaa’ỹva
     .accesskey = c
 
 ## Privacy Section - Certificates
@@ -1164,7 +1164,7 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = OK, arekóma
     .accesskey = K
-space-alert-under-5gb-message = { -brand-short-name } opyta hína disco pa'ũ'ỹre. Ikatu hína ñanduti renda retepy ndojehechaukái hekopete. Eike “Kuaave” eipuru porã hag̃ua disco ne kundaha hekoresãi hag̃ua avei.
+space-alert-under-5gb-message = { -brand-short-name } opyta disco pa’ũ’ỹre. Ikatu hína ñanduti renda retepy ndojehechaukái hekopete. Eike “Kuaave” eipuru porã hag̃ua disco ne kundaha hekoresãi hag̃ua avei.
 
 ## Privacy Section - HTTPS-Only
 
