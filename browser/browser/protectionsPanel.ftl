@@ -57,7 +57,6 @@ protections-panel-not-found-label = 未检测到
 ##
 
 protections-panel-settings-label = 保护设置
-protections-panel-showreport-label = 显示报告
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = 保护信息面板
 
@@ -65,7 +64,7 @@ protections-panel-protectionsdashboard-label = 保护信息面板
 ## the user is experiencing issues with any of a variety of functionality.
 
 # The header of the list
-protections-panel-site-not-working-view-header = 请关闭保护，若您遇到以下问题：
+protections-panel-site-not-working-view-header = 若您遇到以下问题，请先关闭保护：
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = 登录栏
 protections-panel-site-not-working-view-issue-list-forms = 表单
