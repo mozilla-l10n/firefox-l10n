@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
@@ -202,9 +208,9 @@ sec-error-pkcs7-keyalg-mismatch = Ndaikatúi oñembopapapy'o: pe algoritmo mbopa
 sec-error-pkcs7-bad-signature = Teraguapy oiko’ỹva jehechajey: ndojejuhúi omboheraguapývape, térã ojejuhu hetaiterei omboheraguapývape, térã umi mba’ekuaarã noĩporãi térã imarã.
 sec-error-unsupported-keyalg = Algoritmo ñemiguáva ñoñemoneĩri térã ojekuaa'ỹva.
 sec-error-decryption-disallowed = Ndaikatúi oñembopapapy'o: oñembopapapy ojepurúvo peteĩ algoritmo ñemigua tuichakue oñemoneĩ'ỹva.
-xp-sec-fortezza-bad-card = Kuatia'atã Fortezza noñemoñepyrũi hekopete. Ikatúpiko, ehekyijey ha embojevy iguenohẽhárape.
-xp-sec-fortezza-no-card = Ndojejuhúikuri kuatia'atã Fortezza
-xp-sec-fortezza-none-selected = Ndaipóri kuatia'atã Fortezza ojeporavopyre
+xp-sec-fortezza-bad-card = Kuatia’atã Fortezza noñemoñepyrũi hekopete. Ikatúpiko, ehekyijey ha embojevy iguenohẽhárape.
+xp-sec-fortezza-no-card = Ndojejuhúikuri kuatia’atã Fortezza
+xp-sec-fortezza-none-selected = Ndaipóri kuatia’atã Fortezza ojeporavopyre
 xp-sec-fortezza-more-info = Eiporavo peteĩ avarekoite og̃uahẽve hag̃ua marandu ...rehegua
 xp-sec-fortezza-person-not-found = Avarekoite ojejuhu’ỹva
 xp-sec-fortezza-no-more-info = Ndaipóri maranduve pe avarekoitépe

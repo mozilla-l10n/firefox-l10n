@@ -125,11 +125,11 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "&brandShortName; ojuhu tekorosã ombyaikuaáva ha upévare opytáma <span class='hostname'/>. Eikéramo ko tendápe, ikatu umi mba’evai omondase ndehegui marandu ha’éva ñe’ẽñemi, ñanduti veve térã kuatia'atã ñemurãva.">
+<!ENTITY certerror.introPara2 "&brandShortName; ojuhu tekorosã ombyaikuaáva ha upévare opytáma <span class='hostname'/>. Eikéramo ko tendápe, ikatu umi mba’evai omondase ndehegui marandu ha’éva ñe’ẽñemi, ñanduti veve térã kuatia’atã ñemurãva.">
 <!ENTITY certerror.sts.introPara "&brandShortName; ohechakuaa tekorosã imarãkuaaha ha upévare ndoku’evéi <span class='hostname'/> gotyo ko ñanduti renda oikotevẽ jeike katu rehe.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; ohechakuaa peteĩ apañuãi ha upévare ndoku’evéi <span class='hostname'/> gotyo. Ko ñanduti renda noñembohekoporãi térã ne mohendaha aravopapaha noñembohekói aravo añetévape.">
-<!ENTITY certerror.expiredCert.secondPara2 "Ikatu hína pe tenda pegua ñemboajepyre hi’ára g̃uahẽma, omboykéva &brandShortName; oike hag̃ua tekorosãme. Eikétaramo ko tendápe, umi mba’evai ikatu omonda ne marandu ha avei ne ñe’ẽñemi, ñanduti veve térã mba’emimi kuatia'atã ñemurã rehegua.">
+<!ENTITY certerror.expiredCert.secondPara2 "Ikatu pe tenda pegua ñemboajepyre hi’ára g̃uahẽma, omboykéva &brandShortName; oike hag̃ua tekorosãme. Eikétarõ ko tendápe, umi mba’evai ikatu omonda ne marandu ha avei ñe’ẽñemi, ñanduti veve térã mba’emimi kuatia’atã ñemurãva.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Ikatu hína pe tenda pegua ñemboajepyre hi’ára g̃uahẽma, omboykéva &brandShortName; oike hag̃ua tekorosãme.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Mba’épa ikatu ejapo upéicharamo?">

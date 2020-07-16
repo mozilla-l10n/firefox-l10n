@@ -84,10 +84,10 @@ restart-later = Emoñepyrũjey ag̃ave
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui nde kuatiarogue ñepyrũ.
+extension-controlled-homepage-override = Jepysokue, <img data-l10n-name="icon"/> { $name }, oma’ẽag̃ui nde kuatiarogue ñepyrũre.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui kuatiarogue rendayke pyahúre.
+extension-controlled-new-tab-url = Jepysokue, <img data-l10n-name="icon"/> { $name }, oma’ẽag̃ui kuatiarogue rendayke pyahúre.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma’ẽag̃ui ko ñemboheko rehe.
@@ -102,7 +102,7 @@ extension-controlled-privacy-containers = Peteĩ moĩmbaha, <img data-l10n-name=
 extension-controlled-websites-content-blocking-all-trackers = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, ohechahína ko ñemboheko.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui { -brand-short-name } ramo ojuajúvo ñanduti rehe.
+extension-controlled-proxy-config = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma’ẽag̃ui { -brand-short-name } ramo ojuajúvo ñanduti rehe.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -689,7 +689,7 @@ sync-currently-syncing-history = Tembiasakue
 sync-currently-syncing-tabs = Tendayke ijurujáva
 sync-currently-syncing-logins-passwords = Tembiapo ñepyrũ ha ñe’ẽñemi
 sync-currently-syncing-addresses = Kundaharape
-sync-currently-syncing-creditcards = Kuatia'atã ñemurã
+sync-currently-syncing-creditcards = Kuatia’atã ñemurã
 sync-currently-syncing-addons = Moĩmbaha
 sync-currently-syncing-prefs =
     { PLATFORM() ->
@@ -732,7 +732,7 @@ sync-engine-addresses =
     .tooltiptext = Pareha Papapy reñongatuva’ekue (mohendahápe g̃uarãnte)
     .accesskey = e
 sync-engine-creditcards =
-    .label = Kuatia'atã ñemurã
+    .label = Kuatia’atã ñemurã
     .tooltiptext = Téra, papapy ha ndoikoveimaha arange (mohendahápe g̃uarã)
     .accesskey = C
 sync-engine-addons =
@@ -983,7 +983,7 @@ content-blocking-all-windows-tracking-content = Tetepy rapykuehoha opaite ovetã
 content-blocking-all-third-party-cookies = Opaite kookie mbohapyguáva
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
-content-blocking-warning-title = ¡Ema'ẽmi!
+content-blocking-warning-title = ¡Ema’ẽmi!
 content-blocking-warning-description = Tetepy jejoko ikatu nomomba’apo porãi ñanduti renda. Ikatúramo eipe’a pe jokoha tenda ejeroviaha pegua.
 content-blocking-learn-how = Mba’éicha eikuaa
 content-blocking-and-isolating-etp-warning-description = Ejokóvo tapykuehoha ha kookie ñemomombyry ikatu ombyai peteĩva tembiapoite. Emyanyhẽjey kuatiarogue tapykuehoha ndive emyanyhẽ hag̃ua opaite tetepy.
