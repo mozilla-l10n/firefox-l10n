@@ -51,7 +51,7 @@ client-auth-cert-details = Mboajepyréva poravopyre mba’emimi:
 
 set-password-window =
     .title = Eiporavo peteĩ ñe’ẽñemi pytyvõrãva mboajepyrévape g̃uarã
-set-password-message = Mboajepyre ykekoha ñe’ẽñemi emoĩva ko’ápe omo'ãta pe marandurenda ykekoháva emoheñói potaitévape. Emoĩva’erã ko ñe’ẽñemi eguerekokuaa hag̃uáicha pe monguatiapy ykekoháva.
+set-password-message = Mboajepyre ykekoha ñe’ẽñemi emoĩva ko’ápe omo’ãta pe marandurenda ykekoháva emoheñói potaitévape. Emoĩva’erã ko ñe’ẽñemi eguerekokuaa hag̃uáicha pe monguatiapy ykekoháva.
 set-password-backup-pw =
     .value = Ñe’ẽñemi pytyvõrãva mboajepyréva mba’éva:
 set-password-repeat-backup-pw =
@@ -61,6 +61,6 @@ set-password-reminder = Mba’eguasúva: nderesaráiramo ñe’ẽñemi pytyvõr
 ## Protected Auth dialog
 
 protected-auth-window =
-    .title = Jehechaukaha omo'ãva token
+    .title = Jehechaukaha omo’ãva token
 protected-auth-msg = Ejehechaukáke pe token ndive. Pe jehechauka ra’ãha oñondive pe token mba’echaguaitépa.
 protected-auth-token = Hecharãnte:

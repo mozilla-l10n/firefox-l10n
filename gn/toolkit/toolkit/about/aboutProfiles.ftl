@@ -25,7 +25,7 @@ profiles-rootdir = Tapo Marandurenda’aty
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Marandurenda’aty pypeguáva
-profiles-current-profile = Kóvaniko peteĩ mba'ete ojepurúvahína ha upévare ndaikatumo'ãi oñemboguete.
+profiles-current-profile = Kóvaniko peteĩ mba’ete ojepurúvahína ha upévare ndaikatumo’ãi oñemboguete.
 profiles-in-use-profile = Ko mba’ete ojepuruhína ambue tembipuru’ípe ha ndaikatúi oñembogue.
 profiles-rename = Ñemboherajey
 profiles-remove = Ñemboguete
@@ -42,7 +42,7 @@ profiles-rename-profile = { $name } Mba'ete Mboherajey
 profiles-invalid-profile-name-title = Mba'ete oiko'ỹva réra
 # Variables:
 #   $name (String) - Name of the profile
-profiles-invalid-profile-name = Noñemoneĩmo'ãi mba'ete “{ $name }” réra.
+profiles-invalid-profile-name = Noñemoneĩmo’ãi mba’ete “{ $name }” réra.
 profiles-delete-profile-title = Mba'ete Mboguete
 # Variables:
 #   $dir (String) - Path to be displayed

@@ -135,7 +135,7 @@ pkcs12-dup-data = Pe mbojepyréva ha ñe’ẽ ñemiguáva oĩmavoi mba’e’ok
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = Marandurenda réra emo'ãséva
+choose-p12-backup-file-dialog = Marandurenda réra emo’ãséva
 file-browse-pkcs12-spec = PKCS12 marandurenda
 choose-p12-restore-file-dialog = Mboajepyréva marandurenda eguerujey hag̃ua
 
@@ -156,7 +156,7 @@ edit-trust-ca = Pe mboajepyréva “{ $certName }” moakãhára omboajéva rér
 delete-user-cert-title =
     .title = Nemboajepyréva mboguete
 delete-user-cert-confirm = Añetehápepa emboguetese ko'ã mboajepyréva?
-delete-user-cert-impact = Emboguetéramo peteĩva umi nemboajepyréva, ndaikatumo'ãi eipuru ejehechauka hag̃ua ndete voi.
+delete-user-cert-impact = Emboguetéramo peteĩva umi nemboajepyréva, ndaikatumo’ãi eipuru ejehechauka hag̃ua ndete voi.
 delete-ssl-cert-title =
     .title = Mohendahavusu mboajepyréva oĩ'ỹva mboguete
 delete-ssl-cert-confirm = Añetehápepa remboguese ko'ã mohendahavusúpe oĩ'ỹva.
