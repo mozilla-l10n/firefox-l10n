@@ -7,5 +7,7 @@ about-httpsonly-insecure-title = Անվտանգ կապն անհասանելի է
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-insecure-explanation-unavailable = Դուք աշխատում էք HTTPS-Only  աշծատակերպի մէջ, եւ HTTPS֊ի  <em>{ $websiteUrl }</em> ապահով տարբերակ հասանելի չէ։
 about-httpsonly-insecure-explanation-reasons = Ամենայն հաւանականութեամբ, կայքը չի աջակցում HTTPS֊ը, կամ որեւէ նենգորդ արգելափակել է HTTPS֊ի տարբերակը։
+about-httpsonly-insecure-explanation-exception = Թեեւ անվտանգութեան խնդիրը փոքր է, եթե որոշէք մտնել կայքի HTTP տարբերակով, մի՛ մուտքագրէք այնպիսի խոցելի տուեալներ, ինչպիսիք են գաղտնաբառերը, ել․ հասցէները կամ վարկային քարտի մանրամասները։
 about-httpsonly-button-make-exception = Ընդունել վտանգն ու շարունակել։
+about-httpsonly-title = { -brand-short-name } յայտնաբերեց Անվտանգութեան իրական խնդիր
 about-httpsonly-button-go-back = Վերադառնալ
