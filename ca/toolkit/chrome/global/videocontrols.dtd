@@ -4,8 +4,8 @@
 
 <!ENTITY playButton.playLabel "Reprodueix">
 <!ENTITY playButton.pauseLabel "Pausa">
-<!ENTITY muteButton.muteLabel "Sense so">
-<!ENTITY muteButton.unmuteLabel "Amb so">
+<!ENTITY muteButton.muteLabel "Silencia">
+<!ENTITY muteButton.unmuteLabel "No silenciïs">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pantalla completa">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Surt de la pantalla completa">
 <!ENTITY castingButton.castingLabel "Transmet a la pantalla">
