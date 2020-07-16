@@ -21,7 +21,8 @@
 
 <!ENTITY  clickHere.label                 "Ehechave marandu ko ñembohekopyahu rehegua">
 
-<!ENTITY  evangelism.desc                 "Ojejerure ndéve eipurumi hag̃ua ko ñembohekopyahu &brandShortName;-pe g̃uarã pya'emínte voi.">
+<!ENTITY  evangelism.desc                 "Ojejerure ndéve eipurumi hag̃ua ko
+                                           ñembohekopyahu &brandShortName; peg̃uarã pya’emínte voi.">
 
 <!ENTITY  downloadPage.title              "Omboguejyhína &brandShortName;">
 <!ENTITY  downloading.intro               "Oñemboguejyhína ñembohekopyahu…">
