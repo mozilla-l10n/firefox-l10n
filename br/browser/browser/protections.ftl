@@ -28,19 +28,6 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } a gendalc'h da stankañ heulierien er merdeiñ prevez, met ne zalc'h ket soñj eus ar pezh vez stanket.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Heulierien stanket gant { -brand-short-name } ar sizhun-mañ
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Al live gwarez a zo lakaet da <b>Skoueriek</b>
-    .title = Mont en arventennoù buhez prevez
-protection-report-header-details-strict = Al live gwarez a zo lakaet da <b>Strizh</b>
-    .title = Mont en arventennoù buhez prevez
-protection-report-header-details-custom = Al live gwarez a zo lakaet <b>Personelaet</b>
-    .title = Mont en arventennoù buhez prevez
-protection-report-page-title = Gwarezioù buhez prevez
-protection-report-content-title = Gwarezioù buhez prevez
-etp-card-title = Gwarez a-enep an heulierien araoket
-etp-card-content = An heulierien a heuilh ac'hanoc'h enlinenn evit dastum roadennoù diwar-benn ho poazioù merdei hag ho tedennoù.  { -brand-short-name } a stank kalz a heulierien ha skriptoù touellus all.
 protection-report-webpage-title = Taolenn-stur ar gwarezioù
 protection-report-page-content-title = Taolenn-stur ar gwarezioù
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -74,12 +61,9 @@ protections-close-button2 =
 mobile-app-title = Stankañ an heulierien bruderezh war meur a ardivink
 mobile-app-links = { -brand-product-name } Merdeer evit <a data-l10n-name="android-mobile-inline-link">Android</a> ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Na zisoñjit biken ken ur ger-tremen
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Merañ ar gerioù-tremen
 lockwise-header-content = { -lockwise-brand-name } a zalc'h diogelet ho kerioù-tremen en ho merdeer.
 lockwise-header-content-logged-in = Kadavit ha goubredit ho kerioù-tremen etre ho holl drevnadoù en un doare diogel.
-protection-report-view-logins-button = Gwelout an titouroù kennaskañ
-    .title = Monr d'an titouroù kennaskañ enrollet
 protection-report-save-passwords-button = Enrollañ ar gerioù-tremen
     .title = Enrollañ ar gerioù-tremen e-barzh { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Merañ ar gerioù-tremen
@@ -87,16 +71,14 @@ protection-report-manage-passwords-button = Merañ ar gerioù-tremen
 lockwise-mobile-app-title = Tapit ho kerioù-tremen ganeoc'h e pep lec'h
 lockwise-no-logins-card-content = Implijit ar gerioù-tremen enrollet e { -brand-short-name } war kement trevnad.
 lockwise-app-links = { -lockwise-brand-name } evit <a data-l10n-name="lockwise-android-inline-link">Android</a> hag <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+lockwise-how-it-works-link = Penaos ez a en-dro
 turn-on-sync = Gweredekaat { -sync-brand-short-name }…
     .title = Mont d'ar gwellvezioù goubredañ
-manage-connected-devices = Merañ trevnadoù…
 monitor-title = Diwallit diouzh ar fuadurioù roadennoù
 monitor-link = Penaos ec'h a en-dro
 monitor-header-content-no-account = Gwiriekait { -monitor-brand-name } evit gwelout mard oc'h bet tizhet gant ur fuadur roadennoù, ha resevit galvoù-diwall a-zivout fuadurioù nevez.
 monitor-header-content-signed-in = { -monitor-brand-name } a c'halv ac'hanoc'h ma vez ho titouroù en ur fuadur roadennoù.
-monitor-sign-up = Emezelit d'ar galvoù-diwall war ar fuadur roadennoù
 auto-scan = Gwiriekaet hiziv ent emgefreek
-full-report-link = Gwelout an danevell a-bezh war <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

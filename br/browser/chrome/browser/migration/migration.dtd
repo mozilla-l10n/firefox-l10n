@@ -13,6 +13,8 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdgeLegacy.label     "Microsoft Edge (handelvoù kozh)">
+<!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
 <!ENTITY importFromNothing.label        "Na enporzhiañ tra ebet">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSafari.label         "Safari">
