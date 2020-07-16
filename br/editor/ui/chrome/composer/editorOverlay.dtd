@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "m">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Nodrezh">
 <!ENTITY FontFaceSelect.tooltip "Diuz un nodrezh">
 <!ENTITY fontfaceMenu.label "Nodrezh">
 <!ENTITY fontfaceMenu.accesskey "N">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Ment an nodrezh">
 <!ENTITY FontSizeSelect.tooltip "Diuzañ ur vent nodrezh">
 <!ENTITY decreaseFontSize.label "Bihanoc'h">
 <!ENTITY decreaseFontSize.accesskey "B">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Perzhioù ar rollad…">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "Rannbennad">
 <!ENTITY ParagraphSelect.tooltip "Dibabit mentrezh ar rannbennad">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Korf testenn">
@@ -206,7 +209,9 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Gwiskad">
+<!ENTITY decreaseZIndex.label "Kas d'an drekleur">
 <!ENTITY layerSendToBack.tooltip "Kas d'an drekleur">
+<!ENTITY increaseZIndex.label "Kas d'ar rakleur">
 <!ENTITY layerBringToFront.tooltip "Kas d'ar rakleur">
 
 <!ENTITY increaseIndent.label "Kreskiñ ar c'hilañ">
@@ -304,20 +309,27 @@
 <!ENTITY linkToolbarCmd.tooltip "Enlakaat un ere nevez pe embann perzhioù an ere diuzet">
 <!ENTITY anchorToolbarCmd.label "Eor">
 <!ENTITY anchorToolbarCmd.tooltip "Enlakaat un eor nevez anvet pe embann perzhioù an eor diuzet">
+<!ENTITY colorButtons.title "Livioù">
 <!ENTITY TextColorButton.tooltip "Dibab ul liv evit an destenn">
 <!ENTITY BackgroundColorButton.tooltip "Dibab al liv evit an drekleur">
 <!ENTITY throbber.tooltip "Mont da bajenn &vendorShortName; ">
-<!ENTITY throbber.tooltip2 "Mont betek bajenn degemer &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Dibab al liv sklêrijennañ evit an destenn">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Ment an nodrezh">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ment an nodrezh">
+<!ENTITY smaller.label "Bihanoc'h">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ment nodrezh bihanoc'h">
+<!ENTITY larger.label "Brasoc'h">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Ment nodrezh brasoc'h">
+<!ENTITY bold.label "Tev">
 <!ENTITY boldToolbarCmd.tooltip "Tev">
+<!ENTITY italic.label "Stouet">
 <!ENTITY italicToolbarCmd.tooltip "Stouet">
+<!ENTITY underline.label "Islinennañ">
 <!ENTITY underlineToolbarCmd.tooltip "Islinennañ">
 <!ENTITY bulletListToolbarCmd.tooltip "Arloañ pe zilemel ar roll dre badelligoù">
+<!ENTITY numbers.label "Niverennoù">
 <!ENTITY numberListToolbarCmd.tooltip "Arloañ pe lemel kuit ar roll niverennet">
 <!ENTITY outdentToolbarCmd.tooltip "Kilañ an destenn (dilec'hiañ a-gleiz)">
 <!ENTITY indentToolbarCmd.tooltip "Kilañ an destenn (dilec'hiañ a-zehou)">

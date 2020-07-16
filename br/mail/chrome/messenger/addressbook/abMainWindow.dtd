@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Diuzañ ar bannoù da ziskouez">
 <!ENTITY newContactButton.tooltip                       "Krouiñ un darempred nevez">
 <!ENTITY newlistButton.tooltip                          "Krouiñ ur roll nevez">
 <!ENTITY editPropertiesButton.tooltip                   "Embann an elfenn diuzet">

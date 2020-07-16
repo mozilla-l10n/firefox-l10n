@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Ouzhpennañ ur varrenn ostilhoù">
 <!ENTITY showTitlebar.label       "Diskouez Barrenn an Titl">
 <!ENTITY extraDragSpace.label     "Ouzhpennañ un egor riklañ">
+<!ENTITY showTitlebar2.label      "Barrenn ditl">
+<!ENTITY extraDragSpace2.label    "Egor riklañ">
 <!ENTITY saveChanges.label        "Graet">
 <!ENTITY undoChanges.label        "Dizober kemmoù">
