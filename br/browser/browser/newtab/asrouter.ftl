@@ -253,3 +253,8 @@ cfr-whatsnew-protections-header = Gwarez en un taol-lagad
 
 ## DOH Message
 
+cfr-doorhanger-doh-secondary-button = Diweredekaat
+    .accesskey = D
+
+## What's new: Cookies message
+

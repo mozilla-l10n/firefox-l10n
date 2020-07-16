@@ -215,3 +215,14 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] Teul CSV
        *[other] Restr CSV
     }
+
+## Login Import Dialog
+
+about-logins-import-file-picker-import-button = Enporzhiañ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Restr CSV
+       *[other] Restr CSV
+    }

@@ -50,6 +50,7 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-subtitle = Kendalc'hit gant evezh
 help-button-label = Skor { -brand-short-name }
 addons-button-label = Askouezhioù & Neuzioù
 focus-search =
@@ -312,6 +313,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Arverañ { $plugin-name } (e { -brand-short-name })
+applications-open-inapp =
+    .label = Digeriñ e { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -323,12 +326,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -798,6 +805,12 @@ forms-master-pw-fips-desc = Fazi en ur gemmañ ar ger-tremen
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = krouiñ ur ger-tremen mestr
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -1134,6 +1147,10 @@ space-alert-under-5gb-ok-button =
     .label = Mat, komprenet 'm eus.
     .accesskey = M
 space-alert-under-5gb-message = Ne chom ket kalz a blas war ar gantenn evit { -brand-short-name }. Gallout a ra al lec'hiennoù skrammañ en un doare dizereat. Gweladennit "Gouzout hiroc'h" evit gwellekaat hoc'h arver kantenn ha kaout un arnod merdeiñ gwelloc'h.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Gouzout hiroc'h
 
 ## The following strings are used in the Download section of settings
 
