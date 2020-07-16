@@ -10,7 +10,7 @@
 <!ENTITY connectionFailure.title "Ojavy oikekuévo">
 <!ENTITY connectionFailure.longDesc "<p>Ko tenda ha’eteroguáicha oikóva, kundahára ndaikatúi oike.</p><ul><li>¿Ikatuhína ko tenda eipuru ko’ag̃aite? Eha’ãkuaa ag̃amieve.</li><li>Ndaikatumo’ãi oheka ambue tenda?  Ehechajey ne ñanduti mohendahápe jeike.</li><li>Ne mohendahápa térã ne ñanduti omo’ã chupe peteĩ firewall térã proxy? Peteĩ ñemboheko ndoikóiva ikatu ombyai ne kundahára ñanduti pegua.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Mbojuajuhaite jejokopyre jerovia'ỹ rupi">
+<!ENTITY deniedPortAccess.title "Mbojuajuhaite jejokopyre jerovia’ỹ rupi">
 <!ENTITY deniedPortAccess.longDesc "<p>Pe kundaharape ejeruréva omoha’eño peteĩ mbojuajuhaite (techapyrã <q>mozilla.org:80</q> mbojuajuhaite 80 mozilla.org mba’éva) ojepurúva tapiaite eike hag̃ua <em>ambuéva</em> eikundaha ñandutípe. Kundaha ojokóma jerurepyre nde ñemo’ã ha rekorosãrã.</p>">
 
 <!ENTITY dnsNotFound.title "Ndojejuhúi kundaharape">

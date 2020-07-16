@@ -139,4 +139,4 @@ downloads-list-empty =
     .value = Ndaipóri mboguejypyre.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
-    .value = Ndaipóri ñemboguejypyre ko tembiapopa'ũme.
+    .value = Ndaipóri ñemboguejypyre ko tembiapopa’ũme.

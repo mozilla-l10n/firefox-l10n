@@ -140,7 +140,7 @@ main-context-menu-media-unmute =
     .label = Mba’epu mbojevy
     .accesskey = m
 main-context-menu-media-play-speed =
-    .label = Mbohetaha Pya'ekue
+    .label = Mbohetaha Pya’ekue
     .accesskey = d
 main-context-menu-media-play-speed-slow =
     .label = Mbegue (0.5×)
@@ -149,11 +149,11 @@ main-context-menu-media-play-speed-normal =
     .label = Ha’etéva
     .accesskey = N
 main-context-menu-media-play-speed-fast =
-    .label = Pya'e (1.25×)
-    .accesskey = P
+    .label = Pya’e (1.25×)
+    .accesskey = F
 main-context-menu-media-play-speed-faster =
-    .label = Pya'eve (1.5×)
-    .accesskey = P
+    .label = Pya’eve (1.5×)
+    .accesskey = a
 # "Ludicrous" is a reference to the movie "Space Balls" and is meant
 # to say that this speed is very fast.
 main-context-menu-media-play-speed-fastest =
