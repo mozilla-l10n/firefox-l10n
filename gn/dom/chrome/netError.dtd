@@ -26,10 +26,10 @@
 <!ENTITY generic.longDesc "<p>Ko'ag̃aite ndaipóri marandu jo'a ojepurukuaáva ko apañuãi térã jejavýpe g̃uara.</p>">
 
 <!ENTITY malformedURI.title "Kundaharape ndoikói">
-<!ENTITY malformedURI.longDesc "<p>Kundaharape me'ẽpyre ndoĩri peteĩ ysaja ojekuaávape. Ehechajey jejavy Kundaharape rendápe ha eha'ãjey.</p>">
+<!ENTITY malformedURI.longDesc "<p>Kundaharape me’ẽpyre ndoĩri peteĩ ysaja ojekuaávape. Ehechajey jejavy Kundaharape rendápe ha eha’ãjey.</p>">
 
 <!ENTITY netInterrupt.title "Mba’ekuaarã mbohasa jejopyre">
-<!ENTITY netInterrupt.longDesc "<p>Kundaharape oike hekoitépe, hákatu ojejoko pe jeike oñembohasakuévo marandu.  Eha'ãjey.</p><ul><li>Ndaikatúipa eikundaha ambue tenda rupi? Ehechajey ñandutípe jeike ne mohendaha pegua.</li><li>Eporandu ne ñanduti me'ẽhárape eguereko hag̃ua ñepytyvõ aporekoguáva.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Pe kundaharape oike hekoitépe, hákatu ojejoko pe jeike oñembohasakuévo marandu.  Eha’ãjey.</p><ul><li>Ndaikatúipa eikundaha ambue tenda rupi? Ehechajey ñandutípe jeike ne mohendaha pegua.</li><li>Eporandu ne ñanduti me’ẽhárape eguereko hag̃ua ñepytyvõ aporekoguáva.</li></ul>">
 
 <!ENTITY notCached.title "Kuatia oikove’ỹmava">
 <!ENTITY notCached.longDesc "<p>Pe kuatia ejerurepyréva ndojepurukuaái kundahára kachépe.</p><ul><li>Tekorosãrã kyhyjeháraramo, pe kundahára ndojerurevéi ijehegui kuatiakuéra imarandu ñemiguáva.</li><li>Ejopy Ha'ãjey ejerurejey hag̃ua pe kuatia ñanduti renda pegua.</li></ul>">
@@ -55,10 +55,10 @@
 <!ENTITY unknownProtocolFound.longDesc "<p>Pe kundaharape omoha’eño peteĩ mba’ete (techapyrã <q>wxyz://</q>) kundaha nomoneĩri, péva rupi pe kundaha ndaikatúi oikekatu tendápe.</p><ul><li> Ndépa eikese jeikeha hekoetáva térã ambue mba’epytyvõrã ndaha’éiva moñe’ẽrã. Eporandu pe tenda jerurete mbohetapýva.</li><li>Heta mba’ete ikatu ojerure software ambue mba’éva térã mboguerã’i pe kundaha ohechakuaa mboyve.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Pe mohendahavusu proxy ombotove jeike">
-<!ENTITY proxyConnectFailure.longDesc "<p>Ko kundaha oñemboheko oipuru hag̃ua peteĩ mohendahavusu proxy, hákatu ndojejuhúi pe mohendahavusu proxy.</p><ul><li>Oĩporãpa proxy ñemboheko kundahára rehegua. Ehechajey pe ñemboheko ha eha'ãjey?</li><li>Pe mohendaha ojoajuhína peteĩ ñanduti oikóva rehe?</li><li>Oguereko gueteri apañuãi? Eporandu ne ñanduti ñangarekohára térã ñanduti me'ẽhára ndive pytyvõrã aporekoguáva.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Ko kundaha oñemboheko oipuru hag̃ua peteĩ mohendahavusu proxy, hákatu ndojejuhúi pe mohendahavusu proxy.</p><ul><li>Oĩporãpa proxy ñemboheko kundahára rehegua. Ehechajey pe ñemboheko ha eha’ãjey?</li><li>Pe mohendaha ojoajuhína peteĩ ñanduti oikóva rehe?</li><li>Oguereko gueteri apañuãi? Eporandu ne ñanduti ñangarekohára térã ñanduti me’ẽhára ndive pytyvõrã aporekoguáva.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Ndojejuhúi pe mohendahavusu proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>Ko kundahára oñemboheko oipuru hag̃ua peteĩ mohendahavusu proxy, hákatu ndojejuhúi pe mohendahavusu proxy?</p><ul><li>Oĩporã proxy ñemboheko kundahára rehegua? Ehechajey pe ñemboheko ha eha'ãjey.</li><li>Pe mohendaha ojoajuhína peteĩ ñanduti oikóva rehe?</li><li>Oguereko gueteri apañuãi? Eporandu ne ñanduti ñangarekohára térã ñanduti me'ẽhára ndive pytyvõrã aporekoguáva.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Ko kundahára oñemboheko oipuru hag̃ua mohendahavusu proxy, hákatu ndojejuhúi mohendahavusu proxy?</p><ul><li>Oĩporã proxy ñemboheko kundahára rehegua? Ehechajey ñemboheko ha eha’ãjey.</li><li>Pe mohendaha ojoaju ñanduti oikóva rehe?</li><li>Oreko gueteri apañuãi? Eporandu ñanduti ñangarekoha térã ñanduti me’ẽhára ndive pytyvõrã aporekoguáva.</li></ul>">
 
 <!ENTITY redirectLoop.title "Avakua jeguerahajey">
 <!ENTITY redirectLoop.longDesc "<p>Kundahára opytáma oguerujeysehápe mba’epuru jerurepyréva. Tenda oguerahajeýta nde jerurepyre ysaja araka’eve noĩmbamo’ãiva rehegua.</p><ul><li>Erekópa mboguehápe térã jokohápe kookie oikotevẽ añetéva ko tenda.</li><li><em>NOTE</em>: Emboajérõ kookie tenda pegua nomyatyrõi apañuãi, ikatu apañuãi mohendahavusu ñemboheko ha ndaha’éi ne mohendaha rehegua.</li></ul>">
