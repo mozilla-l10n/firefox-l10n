@@ -161,9 +161,9 @@ cfr-doorhanger-sync-logins-ok-button = 开启{ -sync-brand-short-name }
 
 ## Send Tab
 
-cfr-doorhanger-send-tab-header = 通勤路上阅读这篇文章
+cfr-doorhanger-send-tab-header = 通勤路上再来读
 cfr-doorhanger-send-tab-recipe-header = 把这篇食谱带到厨房
-cfr-doorhanger-send-tab-body = 标签页发送功能可轻松把网页发到手机上打开，任何登录了{ -brand-product-name }服务的设备也都支持。
+cfr-doorhanger-send-tab-body = 标签页发送功能可轻松把网页发到手机上，或是登录了 { -brand-product-name } 的任何设备。
 cfr-doorhanger-send-tab-ok-button = 试试标签页发送功能
     .accesskey = T
 
