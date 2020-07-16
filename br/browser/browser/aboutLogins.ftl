@@ -27,6 +27,7 @@ menu =
     .title = Digeriñ al lañser
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Enporzhiañ eus ur merdeer all...
+about-logins-menu-menuitem-import-from-a-file = Enporzhiañ adalek ur restr…
 about-logins-menu-menuitem-export-logins = Ezporzhiañ an titouroù kennaskañ…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -70,12 +71,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Klask a rit ho titouroù kennaskañ? Arventennit { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Klask a rit ho titouroù kennaskañ enroller? Arventennit { -sync-brand-short-name } pe enporzhit anezho.
 about-logins-login-intro-heading-logged-in = N'eus bet kavet titour kennaskañ ebet.
 login-intro-description = M'ho peus enrollet ho titouroù kennaskañ { -brand-product-name } war un trevnad all, setu penaos kaout anezho amañ:
 login-intro-instruction-fxa = Krouit pe kennaskit d'ho { -fxaccount-brand-name } war an trevnad lec'h m'eo enrollet ho titouroù kennaskañ
 login-intro-instruction-fxa-settings = Gwiriekait ho peus diuzet ar boestoù kevaskañ Kennaskañ e arventennoù { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kit war <a data-l10n-name="help-link">skoazell { -lockwise-brand-short-name }</a> evit kaout sikour
 about-logins-intro-import = Mard eo enrollet ho titouroù kennaskañ en ur merdeer all e c'hallit <a data-l10n-name="import-link">enporzhiañ anezho e { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Mard eo enrollet ho titouroù kennaskañ e diavaez { -brand-product-name } e c'hallit a data-l10n-name="import-browser-link">enporzhiañ anezho adalek ur merdeer all</a> pe <a data-l10n-name="import-file-link">adalek ur restr</a>
 
 ## Login
 
@@ -218,6 +221,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Enporzhiañ restr an titouroù kennaskañ
 about-logins-import-file-picker-import-button = Enporzhiañ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
