@@ -68,12 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = ¿Eheka ne ñe’ẽñemi ñongatupyre? Emboheko { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = ¿Eheka tembiapo ñepyrũ ñongatupyre? Emboheko { -sync-brand-short-name } térã emba’egueru.
 about-logins-login-intro-heading-logged-in = Ndaipóri tembiapo ñepyrũ mbojuehepyre.
 login-intro-description = Eñongatúvo nde jeike { -brand-product-name }-pe ambue mba’e’okápe.
 login-intro-instruction-fxa = Emoheñói térã eike nde { -fxaccount-brand-name }-pe mba’e’oka eñongatuhápe eikehague
 login-intro-instruction-fxa-settings = Eiporavokuaáke nde jeike { -sync-brand-short-name } ñemoĩporãme
 about-logins-intro-instruction-help = Eho <a data-l10n-name="help-link">-pe { -lockwise-brand-short-name } Pytyvõ</a> eñepytyvõve hag̃ua
 about-logins-intro-import = Ne rembiapo ñepyrũ oñeñongatúramo ambue kundahárape, ikatu <a data-l10n-name="import-link">ogueru { -lockwise-brand-short-name }pe</a>
+about-logins-intro-import2 = Ne rembiapo ñepyrũ oñeñongatu { -brand-product-name }-gui okápe, ikatu <a data-l10n-name="import-browser-link">egueru ambue kundaháragui</a> térã <a data-l10n-name="import-file-link">maranduredágui</a>
 
 ## Login
 
@@ -219,3 +221,10 @@ about-logins-export-file-picker-csv-filter-title =
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Egueru marandurenda tembiapo ñepyrũgui
 about-logins-import-file-picker-import-button = Mba’egueru
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Kuatiaite
+       *[other] CSV Marandurenda
+    }

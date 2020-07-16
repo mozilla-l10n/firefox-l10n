@@ -16,12 +16,10 @@ experimental-features-web-gpu-description = API oñeha’ãramóva ta’ãnga ha
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Pytyvõ oñeha’ãramóva AVIF peg̃uarã: ta’ãnga AV1 marandurenda ysaja
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Kookie: SameSite= lax ijypykuéva
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Kookie: SameSite=none oikotevẽ tekome’ẽ hekorosãva
-experimental-features-cookie-samesite-none-requires-secure-description = Umi kookie “sameSite=none” rekome’ẽ ndive oikotevẽ tekome’ẽ hekorosãva. Ko tembiapoite oikotevẽ “Kookie: SameSite = lax ijypyguáva”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Kookie: SameSite=Lax ijypykuéva
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home kache ñepyrũgua
