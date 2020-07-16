@@ -1166,6 +1166,17 @@ space-alert-under-5gb-ok-button =
     .accesskey = D
 space-alert-under-5gb-message = { -brand-short-name } non ha bastante spatio de disco disponibile. Le contento de sitos web pote non esser monstrate correctemente. Visita “Apprender plus” pro optimisar le uso de tu disco pro un melior experientia de navigation.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Modo solo HTTPS
+httpsonly-learn-more = Saper plus
+httpsonly-radio-enabled =
+    .label = Activar le Modo solo HTTPS in tote le fenestras
+httpsonly-radio-enabled-pbm =
+    .label = Activar le Modo solo HTTPS in le fenestras private solmente
+httpsonly-radio-disabled =
+    .label = Non activar le Modo solo HTTPS
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scriptorio
