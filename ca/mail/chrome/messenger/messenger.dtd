@@ -869,10 +869,10 @@
 <!ENTITY contextPlay.accesskey "R">
 <!ENTITY contextPause.label "Pausa">
 <!ENTITY contextPause.accesskey "P">
-<!ENTITY contextMute.label "Silenci">
+<!ENTITY contextMute.label "Silencia">
 <!ENTITY contextMute.accesskey "S">
-<!ENTITY contextUnmute.label "So">
-<!ENTITY contextUnmute.accesskey "S">
+<!ENTITY contextUnmute.label "No silenciïs">
+<!ENTITY contextUnmute.accesskey "s">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
