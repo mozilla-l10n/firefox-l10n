@@ -240,3 +240,13 @@ cfr-whatsnew-protections-icon-alt = Վահան
 
 cfr-whatsnew-better-pdf-header = PDF֊ի յաջողուած աւգտագործում
 cfr-whatsnew-better-pdf-body = PDF փաստաթղթերը կարող են բացուել անմիջապէս { -brand-short-name }֊ում եւ հեշտացնել ձեր աշխատանքի բնականոն ընթացքը։
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button = Բարի, հասկացայ
+    .accesskey = Բ
+cfr-doorhanger-doh-secondary-button = Անջատել
+    .accesskey = Ա
+
+## What's new: Cookies message
+
