@@ -39,7 +39,7 @@ profiles-rename-profile-title = Mba'ete Mboherajey
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = { $name } Mba'ete Mboherajey
-profiles-invalid-profile-name-title = Mba'ete oiko'ỹva réra
+profiles-invalid-profile-name-title = Mba’ete oiko’ỹva réra
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Noñemoneĩmo’ãi mba’ete “{ $name }” réra.

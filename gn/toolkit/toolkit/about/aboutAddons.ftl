@@ -149,7 +149,7 @@ detail-show-preferences =
 detail-rating =
     .value = Ñehepyme’ẽ
 addon-restart-now =
-    .label = Emoñepyrũjey ko'ág̃a
+    .label = Emoñepyrũjey ko’ág̃a
 disabled-unsigned-heading =
     .value = Heta moimbaha ojepe’aitéma
 disabled-unsigned-description = Ko'ã moĩmbaha ndojehechajeýi ojepuru hag̃uáicha { -brand-short-name }-pe. Ikatu<label data-l10n-name="find-addons">Myengoviarã juhu</label> térã ejerure mboguatahárape ojehechajey hag̃ua.
@@ -275,7 +275,7 @@ extensions-updates-installed =
 extensions-updates-downloaded =
     .value = Ne moĩmbaha rehegua ñembohekopyahu oñemboguejypáma.
 extensions-updates-restart =
-    .label = Emoñepyrujey ko'ág̃a emohenda hag̃ua
+    .label = Emoñepyrujey ko’ág̃a emohenda hag̃ua
 extensions-updates-none-found =
     .value = Ndojejuhúi ñembohekopyahu
 extensions-updates-manual-updates-found =

@@ -81,7 +81,7 @@ config-property-string = joajuha
 config-property-int = oĩmbáva
 config-property-bool = hẽe/nahániri
 config-new-prompt = Emoinge téra erohoryvéva
-config-nan-title = Tepykue oiko'ỹva
+config-nan-title = Tepykue oiko’ỹva
 config-nan-text = Pe moñe’ẽrã emoingéva ndaha’éi papapy.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
