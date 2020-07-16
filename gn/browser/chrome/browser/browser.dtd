@@ -839,7 +839,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
+<!ENTITY identity.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia’ỹha.">
 <!ENTITY identity.passiveLoaded "Ko kuatiarogue pehẽ heta hendápe nda’ijeroviapái (mba’era’ãngáramo).">
 <!ENTITY identity.activeLoaded "Ndereguerekói pa'ũ ko kuatiaroguépe g̃uarã.">
 <!ENTITY identity.weakEncryption "Ko kuatiarogue oipuru ñangarekoha ikangýva.">
@@ -849,7 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "Pe marandu tembiapo ñepyrũ pegua emoingéva ko kuatiaroguépe nahekorosãi ha ikatu noĩporãmbái.">
 <!ENTITY identity.description.weakCipher "Nde jeike ko ñanduti rendápe oipuru ñangarekoha ikangýva ha naiñemíri.">
 <!ENTITY identity.description.weakCipher2 "Ambue tapichakuéra ikatu ohecha nemarandu térã omoambue ñanduti kuatiarogue reko.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia’ỹha.">
 <!ENTITY identity.description.passiveLoaded "Nde jeike naiñemíri ha nemarandu remoingéva ko tendápe ikatu ohecha ambue tapicha.">
 <!ENTITY identity.description.passiveLoaded2 "Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (mba’era’ãngáramo).">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; ojokóramo jepe heta retepy, oĩ gueteri tetepy kuatiaroguépe ndaijegueroviapáiva (mba’era’ãngáramo).">
