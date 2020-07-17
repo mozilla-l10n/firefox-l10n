@@ -17,16 +17,14 @@ experimental-features-web-gpu-description = API arbrofol ar gyfer graffeg a chyf
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Cefnogaeth arbrofol i AVIF: Fformat Ffeil Delwedd AV1
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
-    .label = Cookies: SameSite=lax by default
-experimental-features-cookie-samesite-lax-by-default-description = Trin cwcis fel “sameSite = lax” yn ragosodedig os nad oes priodoledd “sameSite” wedi'i nodi. Rhaid i ddatblygwyr ddewis y cyflwr cyfredol o ddefnydd anghyfyngedig trwy ddewis yn benodol “sameSite = none”.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=none requires secure attribute
-experimental-features-cookie-samesite-none-requires-secure-description = Mae cwcis â phriodoledd “sameSite=none” angen y briodoledd ddiogel. Mae'r nodwedd hon yn gofyn am “Cookies: SameSite=lax by default”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cwcis: SameSite=Lax by default
+experimental-features-cookie-samesite-lax-by-default2-description = Trin cwcis fel “SameSite = Lax” by default os nad oes priodoledd “SameSite” wedi'i nodi. Rhaid i ddatblygwyr ddewis y cyflwr cyfredol o ddefnydd anghyfyngedig trwy ddewis yn benodol “SameSite = None”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cwcis: mae SameSite=none angen priodoledd ddiogel
+experimental-features-cookie-samesite-none-requires-secure2-description = Mae cwcis â phriodoledd “SameSite=None” angen y briodoledd ddiogel. Mae'r nodwedd hon yn gofyn am “Cookies: SameSite=Lax by default”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
