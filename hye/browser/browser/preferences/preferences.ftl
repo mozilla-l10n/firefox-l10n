@@ -653,7 +653,7 @@ sync-remove-account =
     .accesskey = R
 sync-sign-in =
     .label = Մուտք գործել
-    .accesskey = տ
+    .accesskey = Մ
 sync-signedin-settings-header = Համաժամեցման կարգաւորումներ
 sync-signedin-settings-desc = Ընտրեք, թե { -brand-short-name }-ի միջոցով ինչը համաժամեցնել Ձեր սարքերի միջեւ:
 
