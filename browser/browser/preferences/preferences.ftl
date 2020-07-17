@@ -1150,6 +1150,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = Không đủ dung lượng đĩa cho { -brand-short-name }. Nội dung trang web có thể không hiển thị chính xác. Truy cập “Tìm hiểu thêm” để tối ưu hóa việc sử dụng đĩa của bạn để có trải nghiệm duyệt web tốt hơn.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Chế độ chỉ HTTPS
+httpsonly-description = HTTPS cung cấp kết nối được mã hóa an toàn giữa { -brand-short-name } và các trang web bạn truy cập. Hầu hết các trang web đều hỗ trợ HTTPS và nếu chế độ chỉ HTTPS được bật, thì { -brand-short-name } sẽ nâng cấp tất cả các kết nối lên HTTPS.
+httpsonly-learn-more = Tìm hiểu thêm
+httpsonly-radio-enabled =
+    .label = Kích hoạt chế độ chỉ HTTPS trong tất cả các cửa sổ
+httpsonly-radio-enabled-pbm =
+    .label = Chỉ kích hoạt chế độ HTTPS trong các cửa sổ riêng tư
+httpsonly-radio-disabled =
+    .label = Không kích hoạt chế độ chỉ HTTPS
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Bàn làm việc
