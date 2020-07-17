@@ -26,7 +26,7 @@ profile-creation-explanation-4 =
 
 create-profile-last-page-header =
     { PLATFORM() ->
-        [macos] Mohu'ã
+        [macos] Mohu’ã
        *[other] Emoĩmba { create-profile-window.title }
     }
 profile-creation-intro = Emoheñoirõ heta mba’ete ikatu eikuaa héra rupi. Ikatu eipuru pe téra ome’ẽva kóva térã eiporavo ndete voi.

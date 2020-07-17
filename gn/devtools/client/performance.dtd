@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Yje’a">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Ehechauka opaichagua tembiapo pe kundaha ojapóva ñongatuete aja, omohendáva ojuapykueripa ysyry ho'aramoguáicha.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Ehechauka opaichagua tembiapo pe kundaha ojapóva ñongatuete aja, omohendáva ojuapykueripa ysyry ho’aramoguáicha.">
 <!ENTITY performanceUI.toolbar.js-calltree "Ehenói yvyra">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Omomba’e JavaScript rembiapo kundaha peguáva ohasa hetave aravo ñongatuete aja.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Tembiaporãme’ẽ">
