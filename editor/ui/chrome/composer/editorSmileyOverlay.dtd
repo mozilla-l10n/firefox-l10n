@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Cu buzele pecetluite">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Inserează un chip cu buzele pecetluite">
+<!ENTITY SmileButton.label "Inserează smiley">
 <!ENTITY SmileButton.tooltip "Inserează un chip zâmbitor">

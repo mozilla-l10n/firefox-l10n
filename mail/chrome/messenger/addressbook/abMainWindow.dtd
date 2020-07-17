@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "O nouă listă de contacte…">
 <!ENTITY newAddressBookCmd.accesskey                    "c">
+<!ENTITY newCardDAVBookCmd.label                        "Agendă de contacte CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Un nou director LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Un mesaj nou">

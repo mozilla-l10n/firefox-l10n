@@ -330,15 +330,25 @@
 <!ENTITY italicToolbarCmd.tooltip "Cursiv">
 <!ENTITY underline.label "Subliniat">
 <!ENTITY underlineToolbarCmd.tooltip "Subliniat">
+<!ENTITY bullets.label "Buline">
 <!ENTITY bulletListToolbarCmd.tooltip "Introdu sau elimină o listă cu buline">
+<!ENTITY numbers.label "Numere">
 <!ENTITY numberListToolbarCmd.tooltip "Introdu sau elimină o listă numerotată">
+<!ENTITY outdent.label "Micșorează indentarea">
 <!ENTITY outdentToolbarCmd.tooltip "Micșorează indentarea textului (mută la stânga)">
+<!ENTITY indent.label "Mărește indentarea">
 <!ENTITY indentToolbarCmd.tooltip "Mărește indentarea textului (mută la dreapta)">
+<!ENTITY AlignPopupButton.label "Aliniere">
 <!ENTITY AlignPopupButton.tooltip "Alege alinierea textului">
+<!ENTITY InsertPopupButton.label "Inserează">
 <!ENTITY InsertPopupButton.tooltip "Inserează un link, o ancoră, o imagine, o linie orizontală sau un tabel">
+<!ENTITY alignLeftButton.label "Aliniază la stânga">
 <!ENTITY alignLeftButton.tooltip "Aliniază textul la marginea din stânga">
+<!ENTITY alignCenterButton.label "Aliniază la centru">
 <!ENTITY alignCenterButton.tooltip "Centrează textul">
+<!ENTITY alignRightButton.label "Aliniază la dreapta">
 <!ENTITY alignRightButton.tooltip "Aliniază textul la marginea din dreapta">
+<!ENTITY alignJustifyButton.label "Aliniază la stânga și dreapta">
 <!ENTITY alignJustifyButton.tooltip "Aliniază textul la margini stânga/dreapta">
 
 <!-- Structure Toolbar Context Menu items -->
