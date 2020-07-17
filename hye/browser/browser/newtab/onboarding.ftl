@@ -76,7 +76,7 @@ onboarding-benefit-privacy-title = Իսկական գաղտնիութիւն
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
-onboarding-benefit-privacy-text = Այն ամէնը, ինչ մենք անում ենք, հարգում է մեր անձնական տուեալների խոստումը. Քիչ վերցրեք։ Ապահով պահէք։ Ոչ մի գաղտնիք։
+onboarding-benefit-privacy-text = Այն ամէնն, ինչ մենք անում ենք, համապատասխանում է մեր «Անձնական տուեալների խոստմանը»։ Քիչ վերցնել։ Ապահով պահել։ Ոչ մի գաղտնիք։
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Վերցրեք Ձեր էջանիշները, գաղտնաբառերը, պատմութիւնը եւ աւելին, որտեղ աւգտագործում եք { -brand-product-name }։
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
