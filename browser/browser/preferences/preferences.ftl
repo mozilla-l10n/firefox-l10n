@@ -1181,6 +1181,10 @@ httpsonly-description = HTTPS zagotavlja varno, šifrirano povezavo med { -brand
 httpsonly-learn-more = Več o tem
 httpsonly-radio-enabled =
     .label = Omogoči način "samo HTTPS" v vseh oknih
+httpsonly-radio-enabled-pbm =
+    .label = Omogoči način "samo HTTPS" samo v zasebnih oknih
+httpsonly-radio-disabled =
+    .label = Ne omogoči načina "samo HTTPS"
 
 ## The following strings are used in the Download section of settings
 
