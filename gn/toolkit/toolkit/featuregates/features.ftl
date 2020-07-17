@@ -27,3 +27,4 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Umi ko
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home kache ñepyrũgua
+experimental-features-abouthome-startup-cache-description = Kache kuatia ñepyrũguápe g̃uarã about:home henyhẽva ijehegui oñepyrũnguévo. Ko kache rembiaporã ha’e oikoporãve hag̃ua oñepyrũvo.
