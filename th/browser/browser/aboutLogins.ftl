@@ -27,6 +27,7 @@ menu =
     .title = เปิดเมนู
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = นำเข้าจากเบราว์เซอร์อื่น…
+about-logins-menu-menuitem-import-from-a-file = นำเข้าจากไฟล์…
 about-logins-menu-menuitem-export-logins = ส่งออกข้อมูลการเข้าสู่ระบบ ...
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -65,7 +66,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = กำลังมองหาข้อมูลการเข้าสู่ระบบที่บันทึกไว้ของคุณ? ตั้งค่า { -sync-brand-short-name }
+login-intro-heading = กำลังมองหาข้อมูลการเข้าสู่ระบบที่บันทึกไว้ของคุณหรือไม่? ตั้งค่า { -sync-brand-short-name }
 about-logins-login-intro-heading-logged-in = ไม่พบข้อมูลการเข้าสู่ระบบที่ซิงค์
 login-intro-description = หากคุณบันทึกข้อมูลการเข้าสู่ระบบของคุณไว้ที่ { -brand-product-name } บนอุปกรณ์อื่น ๆ คุณสามารถนำมาใช้บนอุปกรณ์นี้ได้ด้วยวิธีนี้:
 login-intro-instruction-fxa = สร้างหรือลงชื่อเข้าใช้ { -fxaccount-brand-name } ของคุณบนอุปกรณ์ที่บันทึกข้อมูลการเข้าสู่ระบบของคุณ
