@@ -1182,6 +1182,18 @@ space-alert-under-5gb-ok-button =
     .accesskey = I
 space-alert-under-5gb-message = Mae { -brand-short-name } yn brin o le ar ddisg. Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Ewch i “Learn More” i wella'r defnydd o'r disg ar gyfer gwell profiad pori.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Modd HTTPS yn Unig
+httpsonly-description = Mae HTTPS yn darparu cysylltiad diogel, wedi'i amgryptio rhwng  { -brand-short-name } a'r gwefannau rydych chi'n ymweld â nhw. Mae'r mwyafrif o wefannau yn cefnogi HTTPS, ac os yw Modd HTTPS-yn-unig wedi'i alluogi, yna bydd { -brand-short-name } yn uwchraddio'r holl gysylltiadau â HTTPS.
+httpsonly-learn-more = Dysgu rhagor
+httpsonly-radio-enabled =
+    .label = Galluogi Modd HTTPS-yn-unig ym mhob ffenestr
+httpsonly-radio-enabled-pbm =
+    .label = Galluogi Modd HTTPS-yn-unig mewn ffenestri preifat yn unig
+httpsonly-radio-disabled =
+    .label = Peidio â galluogi Modd HTTPS yn Unig
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Bwrdd Gwaith
