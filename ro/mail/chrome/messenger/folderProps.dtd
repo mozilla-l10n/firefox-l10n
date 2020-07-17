@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Nume:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Culoare pictogramă:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Restaurează culorile implicite">
 <!ENTITY folderProps.location.label              "Amplasare:">
 <!ENTITY folderProps.location.accesskey          "l">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Privilegii…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Ai următoarele drepturi:">
+<!ENTITY folderOtherUsers.label                  "Altele cu acces la acest dosar:">
 <!ENTITY folderType.label                        "Tip dosar:">
 
 <!ENTITY folderQuotaTab.label                    "Cotă">

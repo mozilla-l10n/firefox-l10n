@@ -732,6 +732,7 @@
 <!ENTITY idColumn.label "Ordinea primirii">
 <!ENTITY attachmentColumn.label "Atașamente">
 
+<!ENTITY deleteColumn.label "Șterge">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Selectează coloanele de afișat">
@@ -757,6 +758,7 @@
 <!ENTITY idColumn2.tooltip "Sortează după data primirii">
 <!ENTITY attachmentColumn2.tooltip "Sortează după atașamente">
 
+<!ENTITY deleteColumn.tooltip "Șterge un mesaj">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Mesaj nou bazat pe șablon">
