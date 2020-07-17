@@ -44,6 +44,12 @@ onboarding-start-browsing-button-label = Comencia a navigar
 onboarding-cards-dismiss =
     .title = Dimitter
     .aria-label = Dimitter
+# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
+# This support welcome screen showing top sites imported from the user's default browser.
+# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
+onboarding-import-sites-info =
+    .title = Iste sitos ha essite trovate sur iste apparato. { -brand-short-name } non salva, ni synchronisa datos de un altere navigator a minus que tu selige importar los.
+    .aria-label = { onboarding-import-sites-info.title }
 
 ## Welcome full page string
 
