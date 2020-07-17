@@ -205,6 +205,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vesair tut
     .accesskey = s
+cfr-doorhanger-milestone-close-button = Serrar
+    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
@@ -238,3 +240,9 @@ cfr-whatsnew-protections-icon-alt = Icona dal scut
 
 cfr-whatsnew-better-pdf-header = Meglra experientscha en connex cun PDFs
 cfr-whatsnew-better-pdf-body = PDFs vegnan ussa averts direct en { -brand-short-name } per betg cumplitgar tes process da lavur.
+
+## DOH Message
+
+
+## What's new: Cookies message
+
