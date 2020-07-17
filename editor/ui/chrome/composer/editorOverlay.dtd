@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "t">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Font">
 <!ENTITY FontFaceSelect.tooltip "Alege un font">
 <!ENTITY fontfaceMenu.label "Font">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Mărime font">
 <!ENTITY FontSizeSelect.tooltip "Alege o dimensiune pentru font">
 <!ENTITY decreaseFontSize.label "Mai mică">
 <!ENTITY decreaseFontSize.accesskey "r">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Proprietăți listă…">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "Paragraf">
 <!ENTITY ParagraphSelect.tooltip "Alege formatul paragrafului">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Text corp">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Aliniază la stânga și dreapta">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Poziționare">
 <!ENTITY layer.tooltip "Strat">
+<!ENTITY decreaseZIndex.label "Trimite în spate">
 <!ENTITY layerSendToBack.tooltip "Trimite în fundal">
+<!ENTITY increaseZIndex.label "Adu în prim-plan">
 <!ENTITY layerBringToFront.tooltip "Adu în prim-plan">
 
 <!ENTITY increaseIndent.label "Mărește indentarea">
@@ -304,18 +310,25 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserează un link nou sau editează proprietățile linkului selectat">
 <!ENTITY anchorToolbarCmd.label "Ancoră">
 <!ENTITY anchorToolbarCmd.tooltip "Inserează o ancoră denumită nouă sau editează proprietățile ancorei selectate">
+<!ENTITY colorButtons.title "Culori">
 <!ENTITY TextColorButton.tooltip "Alege culoarea textului">
 <!ENTITY BackgroundColorButton.tooltip "Alege culoarea de fundal">
 <!ENTITY throbber.tooltip "Deschide pagina principală &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Intră pe pagina de start &brandShortName;">
+<!ENTITY HighlightColorButton.label "Evidențiator">
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Mărime font">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează dimensiunea fontului">
+<!ENTITY smaller.label "Mai mică">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
+<!ENTITY larger.label "Mai mare">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Dimensiunea fontului mai mare">
+<!ENTITY bold.label "Aldin">
 <!ENTITY boldToolbarCmd.tooltip "Aldin">
+<!ENTITY italic.label "Cursiv">
 <!ENTITY italicToolbarCmd.tooltip "Cursiv">
+<!ENTITY underline.label "Subliniat">
 <!ENTITY underlineToolbarCmd.tooltip "Subliniat">
 <!ENTITY bulletListToolbarCmd.tooltip "Introdu sau elimină o listă cu buline">
 <!ENTITY numberListToolbarCmd.tooltip "Introdu sau elimină o listă numerotată">
