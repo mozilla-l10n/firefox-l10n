@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Mesiras da protecziun
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Avrir il rapport davart las mesiras per la protecziun da datas
+appmenuitem-update-banner =
+    .label-update-downloading = Telechargiar l'actualisaziun da { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Survista da las protecziuns
 appmenuitem-customize-mode =
     .label = Persunalisar…
