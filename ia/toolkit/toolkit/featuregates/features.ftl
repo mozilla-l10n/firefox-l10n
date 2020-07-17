@@ -20,3 +20,8 @@ experimental-features-avif-description = Supporto experimental pro AVIF, le form
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=lax predefinite
+experimental-features-cookie-samesite-lax-by-default2-description = Tractar cookies como “SameSite=lax” predefinite si nulle attributo “sameSite” es specificate. Le disveloppatores debe eliger le actual stato de utilisation sin restrictiones per definir explicitemente “SameSite=none”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None require le attributo secur
+experimental-features-cookie-samesite-none-requires-secure2-description = Le cookies con attributo “sameSite=None” require le attributo secur.
