@@ -36,7 +36,7 @@
 <!ENTITY openRecentMenu.label         "Deschide recent">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Anulează…">
+<!ENTITY revertCmd.label              "Revenire la versiunea anterioară…">
 <!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "Salvează">
