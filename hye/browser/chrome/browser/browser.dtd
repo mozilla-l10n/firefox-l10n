@@ -190,8 +190,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Ելնել լիեկրանից (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Դուրս գալ լիաէկրանից (esc)">
-<!ENTITY leaveDOMFullScreen.label "Դուրս գալ լիաէկրանից">
+<!ENTITY exitDOMFullscreenMac.button "Ելնել լիեկրանից (esc)">
+<!ENTITY leaveDOMFullScreen.label "Ելնել լիեկրանից">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
@@ -723,7 +723,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Թաքցնել ղեկաւարիչները">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Բացել լիաէկրան">
+<!ENTITY videoFullScreen.label       "Լիեկրան">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "Պահպանել էկրանի պատկերը որպէս…">
 <!ENTITY videoSaveImage.accesskey    "S">
