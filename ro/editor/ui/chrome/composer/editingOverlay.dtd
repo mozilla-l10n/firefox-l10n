@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Deschide un fișier local">
 <!ENTITY saveToolbarCmd.tooltip "Salvează local fișierul">
 <!ENTITY publishToolbarCmd.tooltip "Încarcă fișierul într-o locație la distanță">
+<!ENTITY printToolbarCmd.label "Tipărește">
+<!ENTITY printToolbarCmd.tooltip "Tipărește această pagină">
