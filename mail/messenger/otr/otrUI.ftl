@@ -60,3 +60,8 @@ error-title = Eroare
 success-title = Criptare end-to-end
 successThem-title = Verifică identitatea contactului
 fail-title = Verificare imposibilă
+waiting-title = Cererea de verificare a fost transmisă
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Generarea cheii private OTR a eșuat: { $error }
