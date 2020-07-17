@@ -268,3 +268,12 @@ cfr-whatsnew-protections-icon-alt = Ikona štítu
 
 cfr-whatsnew-better-pdf-header = Vylepšené prohlížení PDF
 cfr-whatsnew-better-pdf-body = Soubory PDF se nyní otevírají přímo ve { -brand-short-name(case: "loc") }, takže je máte hned po ruce.
+
+## DOH Message
+
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Automatická ochrana před záludnými sledovacími taktikami
+cfr-whatsnew-clear-cookies-body = Některé sledovací prvky vás přesměrovávají na jiné stránky, které tajně ukládají cookies. { -brand-short-name } nyní tyto cookies automaticky vymaže, abyste nemohli být sledováni.
+cfr-whatsnew-clear-cookies-image-alt = Ukázka zablokovaných cookies
