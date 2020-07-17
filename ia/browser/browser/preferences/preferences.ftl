@@ -1169,6 +1169,7 @@ space-alert-under-5gb-message = { -brand-short-name } non ha bastante spatio de 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo solo HTTPS
+httpsonly-description = HTTPS offere un connexion secur e cryptate inter { -brand-short-name } e le sitos web que tu visita. Le major parte del sitos web supporta le HTTPS, e si es activate Modo HTTPS-solo, alora { -brand-short-name } promovera tote le connexiones a HTTPS.
 httpsonly-learn-more = Saper plus
 httpsonly-radio-enabled =
     .label = Activar le Modo solo HTTPS in tote le fenestras
