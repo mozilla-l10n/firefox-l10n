@@ -67,6 +67,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = กำลังมองหาข้อมูลการเข้าสู่ระบบที่บันทึกไว้ของคุณหรือไม่? ตั้งค่า { -sync-brand-short-name }
+about-logins-login-intro-heading-logged-out = กำลังมองหาข้อมูลการเข้าสู่ระบบที่บันทึกไว้ของคุณหรือไม่? ตั้งค่า { -sync-brand-short-name } หรือนำเข้า
 about-logins-login-intro-heading-logged-in = ไม่พบข้อมูลการเข้าสู่ระบบที่ซิงค์
 login-intro-description = หากคุณบันทึกข้อมูลการเข้าสู่ระบบของคุณไว้ที่ { -brand-product-name } บนอุปกรณ์อื่น ๆ คุณสามารถนำมาใช้บนอุปกรณ์นี้ได้ด้วยวิธีนี้:
 login-intro-instruction-fxa = สร้างหรือลงชื่อเข้าใช้ { -fxaccount-brand-name } ของคุณบนอุปกรณ์ที่บันทึกข้อมูลการเข้าสู่ระบบของคุณ
