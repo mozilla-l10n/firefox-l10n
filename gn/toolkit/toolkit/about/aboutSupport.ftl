@@ -324,7 +324,7 @@ multi-process-status-6 = Oñemomba’apo’ỹva oreko rupi jehai ndojehaiva’e
 multi-process-status-7 = Oñemomba’apo’ỹ moĩmbaha rupive
 multi-process-status-8 = Oñemongepyre mbaretépe
 multi-process-status-unknown = Jeiko ojekuaa'ỹva
-async-pan-zoom = Ojuehe'ỹva Pan/Zoom
+async-pan-zoom = Ojuehe’ỹva Pan/Zoom
 apz-none = Avave
 wheel-enabled = omoneĩ jereha jeike
 touch-enabled = jeikeha jepokóva jurujapyre
@@ -336,8 +336,8 @@ zooming-enabled = zoom ñepichã’i myandypyre
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = Jereha ojuehe'ỹva jokopyre ndoguerekóiva mombytaha: { $preferenceKey }
-touch-warning = Jeikeha pokoháva ojuehe'ỹva jokopyre ndoguerekóiva mombytaha: { $preferenceKey }
+wheel-warning = Jereha ojuehe’ỹva jokopyre ndoguerekóiva mombytaha: { $preferenceKey }
+touch-warning = Jeikeha pokoháva ojuehe’ỹva jokopyre ndorekóiva mombytaha: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
