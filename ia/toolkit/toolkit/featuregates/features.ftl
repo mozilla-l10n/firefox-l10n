@@ -24,4 +24,9 @@ experimental-features-cookie-samesite-lax-by-default2-description = Tractar cook
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=None require le attributo secur
-experimental-features-cookie-samesite-none-requires-secure2-description = Le cookies con attributo “sameSite=None” require le attributo secur.
+experimental-features-cookie-samesite-none-requires-secure2-description = Le cookies con attributo “SameSite=None” require le attributo secur. Iste functionalitate require “Cookies: SameSite=Lax predefinite”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = cache de initio pro about:home
+experimental-features-abouthome-startup-cache-description = Cache pro le contento initial del pagina about:home que es cargate de ordinario al lanceamento initial. Le proposito del cache es meliorar le  prestationes del lanceamento initial.
