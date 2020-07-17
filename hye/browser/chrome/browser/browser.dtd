@@ -107,12 +107,12 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Մուտք գործել լիաէկրան">
+<!ENTITY enterFullScreenCmd.label "Մտնել լիեկրան">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Դուրս գալ լիաէկրան վիճակից">
+<!ENTITY exitFullScreenCmd.label "Ելնել լիեկրանից">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 
-<!ENTITY fullScreenCmd.label "Լիաէկրան">
+<!ENTITY fullScreenCmd.label "Լիեկրան">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Ցուցադրել բոլոր ներդիրները">
@@ -131,7 +131,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Փակել">
 <!ENTITY fullScreenAutohide.label "Թաքցնել Գործիքագաւտիները">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "Դուրս գալ լիաէկրան վիճակից">
+<!ENTITY fullScreenExit.label "Ելնել լիեկրանից">
 <!ENTITY fullScreenExit.accesskey "F">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
@@ -183,13 +183,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "այժմ լիաէկրան է">
-<!ENTITY fullscreenWarning.generic.label "Փաստաթուղթը այժմ լիաէկրան է">
+<!ENTITY fullscreenWarning.afterDomain.label "այժմ լիեկրան է">
+<!ENTITY fullscreenWarning.generic.label "Փաստաթուղթն այժմ լիեկրան է">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Դուրս գալ լիաէկրանից (Esc)">
+<!ENTITY exitDOMFullscreen.button "Ելնել լիեկրանից (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Դուրս գալ լիաէկրանից (esc)">
 <!ENTITY leaveDOMFullScreen.label "Դուրս գալ լիաէկրանից">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
