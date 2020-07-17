@@ -6,8 +6,8 @@
 <!ENTITY playButton.pauseLabel "Դադար">
 <!ENTITY muteButton.muteLabel "Լռեցնել">
 <!ENTITY muteButton.unmuteLabel "Միացնել ձայնը">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Լիաէկրան">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Դուրս գալ Լիաէկրան վիճակից">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Լիեկրան">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Ելնել Լիեկրան վիճակից">
 <!ENTITY castingButton.castingLabel "Դէպի էկրան">
 <!ENTITY closedCaption.off "Անջատել">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to

@@ -184,7 +184,7 @@ main-context-menu-media-hide-controls =
 
 main-context-menu-media-video-fullscreen =
     .label = Բացել լիեկրան
-    .accesskey = F
+    .accesskey = Լ
 main-context-menu-media-video-leave-fullscreen =
     .label = Դուրս գալ լիեկրան վիճակից
     .accesskey = ի
