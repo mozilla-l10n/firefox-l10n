@@ -243,6 +243,8 @@ cfr-whatsnew-better-pdf-body = PDF փաստաթղթերը կարող են բաց
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Ձեր գաղտնիութիւնը կարեւոր է։ { -brand-short-name }֊ը որքան հնարաւոր է, այժմ ապահով ուղղորդում է ձեր DNS հարցումները գործընկեր ծառայութեանը, որպէսզի պաշտպանի ձեզ, երբ համացանցում էք։
+cfr-doorhanger-doh-header = Առաւել անվտանգ, գաղտնագրուած DNS ստուգումներ
 cfr-doorhanger-doh-primary-button = Բարի, հասկացայ
     .accesskey = Բ
 cfr-doorhanger-doh-secondary-button = Անջատել
@@ -250,3 +252,5 @@ cfr-doorhanger-doh-secondary-button = Անջատել
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Ինքնաշխատ պաշտպանութիւն գաղտնի հետագծման գործելակերպից
+cfr-whatsnew-clear-cookies-body = Որոշ հետագծիչներ ձեզ վերահասցէաւորում են այլ կայքեր, որոնք գաղտնի տեղադրում են նշոցիկներ։ { -brand-short-name }֊ն այժմ ինքնաբար մաքրում է այս նշոցիկները, որպէսզի ձեզ չհետեւեն։
