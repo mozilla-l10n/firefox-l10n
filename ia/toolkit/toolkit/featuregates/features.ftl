@@ -17,13 +17,6 @@ experimental-features-web-gpu-description = API experimental pro graphica e elab
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Supporto experimental pro AVIF, le formato de file imagine AV1
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default =
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=lax predefinite
-experimental-features-cookie-samesite-lax-by-default-description = Tractar cookies como “sameSite=lax” predefinite si nulle attributo “sameSite” es specificate. Le disveloppatores debe a eliger le actual stato quo de utilisation sin restrictiones per definir explicitemente “sameSite=none”.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-none-requires-secure =
-    .label = Cookies: SameSite=nulle require attributo secur
-experimental-features-cookie-samesite-none-requires-secure-description = Le cookies con attributo “sameSite=nulle” require le attributo secur. Iste functionalitate require “Cookies: SameSite=lax de ordinario”.
