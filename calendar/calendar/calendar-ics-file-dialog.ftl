@@ -2,12 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-calendar-ics-file-window =
-    .title = Importă evenimente din calendar
-calendar-ics-file-dialog =
-    .buttonlabelaccept = Importă
+calendar-ics-file-window-2 =
+    .title = Importă evenimente din calendar și sarcini
+calendar-ics-file-dialog-import-event-button-label = Importă un eveniment
+calendar-ics-file-dialog-import-task-button-label = Importă o sarcină
+calendar-ics-file-dialog-2 =
+    .buttonlabelaccept = Importă tot
 calendar-ics-file-accept-button-ok-label = OK
-# $fileName (string) - The name of the file.
-calendar-ics-file-dialog-message = Vrei să imporți fișierul „{ $fileName }”?
+calendar-ics-file-dialog-message-2 = Importă din fișierul:
+calendar-ics-file-dialog-calendar-menu-label = Importă în calendarul:
 calendar-ics-file-import-success = Import realizat cu succes!
 calendar-ics-file-import-error = A apărut o eroare și importul a eșuat.
+calendar-ics-file-dialog-no-calendars = Nu există calendare care să poată importa evenimente sau sarcini.
