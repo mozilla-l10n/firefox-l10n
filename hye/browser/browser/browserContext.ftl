@@ -186,8 +186,8 @@ main-context-menu-media-video-fullscreen =
     .label = Բացել լիեկրան
     .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
-    .label = Դուրս գալ լիաէկրան վիճակից
-    .accesskey = u
+    .label = Դուրս գալ լիեկրան վիճակից
+    .accesskey = ի
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
