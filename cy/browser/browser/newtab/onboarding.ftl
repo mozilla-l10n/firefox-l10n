@@ -44,6 +44,16 @@ onboarding-start-browsing-button-label = Cychwyn Pori
 onboarding-cards-dismiss =
     .title = Cau
     .aria-label = Cau
+# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
+# This support welcome screen showing top sites imported from the user's default browser.
+# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
+onboarding-import-sites-info =
+    .title =
+        Cafwyd hyd i'r gwefannau hyn ar y ddyfais hon.
+        Nid yw { -brand-short-name } yn cadw na chydweddu
+        data o borwr arall oni bai eich bod yn dewis
+        ei fewnforio.
+    .aria-label = { onboarding-import-sites-info.title }
 
 ## Welcome full page string
 
