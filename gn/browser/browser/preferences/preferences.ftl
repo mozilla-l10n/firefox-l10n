@@ -504,7 +504,7 @@ home-prefs-topsites-description = Umi tenda ojeikeveha
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 home-prefs-recommended-by-header =
-    .label = { $provider } he'i ndéve reike hag̃ua
+    .label = { $provider } he’i ndéve reike hag̃ua
 home-prefs-recommended-by-description-update = Tetepy oikoitéva ñanduti tuichakuépe, ohepyme’ẽva { $provider }
 
 ##
