@@ -13,4 +13,11 @@ finger-verify = Потврди
 finger-verify-accessKey = д
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Додај OTR отисак
+state-not_private-label = Небезбедно
+state-unverified-label = Непотврђено
+state-private-label = Приватно
+state-finished-label = Довршено
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = Контакт { $name } је затражио потврђивање вашег идентитета.
 error-title = Грешка
