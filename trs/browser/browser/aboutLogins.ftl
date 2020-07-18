@@ -68,7 +68,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Nana'uit riña gayi'i si sesiôn raj? Gi'iaj yuhui { -sync-brand-short-name }
-about-logins-login-intro-heading-logged-out = Nej da\'nga\' huì nū sà\' \'iá raj. Nāgi\'iaj riña { -sync-brand-short-name } asi gānākāj gā\'naj.
 about-logins-login-intro-heading-logged-in = Nu nari'ìj riña gayi'ìt sesiûn hua nuguan'àn
 login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-product-name } riña a'ngo aga'aj, ni ñuna ni'iaj daj gi'iát da' nari't riña aga' na.
 login-intro-instruction-fxa = Giri nej si gayi'ì sesiôn riña { -fxaccount-brand-name } riña nej aga' ngaà nun sa' ma.
@@ -127,9 +126,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Da’ gūxūnt nī nāch
 about-logins-copy-password-os-auth-dialog-message-macosx = Gūxūn nī nāchrūn a’ngô hiūj da’nga’ huì nū sà’ ‘iát
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Da’ gā’nïnt gan'ānj riña gayi’ìt sēsiûn, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = Gā\'nïnj gan\'ānj nej riña gayi\'ìt sēsiûn nī nej da\'nga\' huìi nū sà’ ‘iát
 
 ## Master Password notification
 
