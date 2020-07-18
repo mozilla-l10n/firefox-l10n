@@ -248,7 +248,13 @@ cfr-whatsnew-better-pdf-body = Τα έγγραφα PDF πλέον ανοίγου
 
 ## DOH Message
 
+cfr-doorhanger-doh-header = Πιο ασφαλείς, κρυπτογραφημένες αναζητήσεις DNS
 cfr-doorhanger-doh-primary-button = Το κατάλαβα
     .accesskey = Τ
 cfr-doorhanger-doh-secondary-button = Απενεργοποίηση
     .accesskey = Α
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Αυτόματη προστασία από περίεργες τακτικές ιχνηλάτησης
+cfr-whatsnew-clear-cookies-image-alt = Απεικόνιση αποκλεισμού cookie
