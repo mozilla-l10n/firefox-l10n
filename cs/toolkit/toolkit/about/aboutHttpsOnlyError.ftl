@@ -9,6 +9,13 @@ about-httpsonly-insecure-explanation-unavailable = Webové stránky prohlížít
 about-httpsonly-insecure-explanation-reasons = Pravděpodobně tento server HTTPS vůbec nepodporuje, ale je také možné, že se někdo HTTPS snaží blokovat.
 about-httpsonly-insecure-explanation-exception = Ač je bezpečnostní riziko relativně nízké, pokud se rozhodnete navštívit nezabezpečenou verzi této stránky přes HTTP, doporučujeme na ní nezadávat žádné citlivé informace jako jsou hesla, e-mailové adresy nebo platební údaje.
 about-httpsonly-button-make-exception = Beru na vědomí a chci pokračovat
+about-httpsonly-title =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zjistil
+        [feminine] { -brand-short-name } zjistila
+        [neuter] { -brand-short-name } zjistilo
+       *[other] Aplikace { -brand-short-name } zjistila
+    } potenciální bezpečnostní problém
 about-httpsonly-explanation-question = Co by mohlo být příčinou?
 about-httpsonly-explanation-nosupport = Nejspíš tento web jednoduše HTTPS nepodporuje.
 about-httpsonly-explanation-risk = Je také možné, že v tom má prsty útočník. Pokud se rozhodnete tuto stránku navštívit, doporučujeme na ní nezadávat žádné citlivé informace jako jsou hesla, e-mailové adresy nebo platební údaje.
