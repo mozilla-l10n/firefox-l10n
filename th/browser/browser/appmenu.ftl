@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = การปกป้องความเป็นส่วนตัว
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = ไปยังรายงานความเป็นส่วนตัวของคุณ
+appmenuitem-update-banner =
+    .label-update-downloading = กำลังดาวน์โหลดการอัปเดต { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = แดชบอร์ดการป้องกัน
 appmenuitem-customize-mode =
     .label = ปรับแต่ง…
