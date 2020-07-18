@@ -20,6 +20,17 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = ٹیب بند کالعدم کریں
     .accesskey = U
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] بند ٹیبز کو منسوخ کریں
+            [one] بند ٹیبز کو منسوخ کریں
+           *[other]
+                	U
+                	U
+                U
+        }
+    .accesskey = U
 toolbar-context-menu-manage-extension =
     .label = توسیع بندرست کریں
     .accesskey = E
