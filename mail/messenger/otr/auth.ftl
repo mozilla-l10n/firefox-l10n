@@ -29,3 +29,5 @@ auth-questionAndAnswer-label =
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
 auth-question = Upiši pitanje:
+auth-answer = Upiši odgovor (pazi na velika/mala slova):
+auth-secret = Upiši tajnu:
