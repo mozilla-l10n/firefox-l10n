@@ -41,10 +41,10 @@ composition-addressing-header = Адресирање
 privacy-main-header = Приватност
 privacy-passwords-header = Лозинке
 privacy-junk-header = Смеће
-privacy-data-collection-header = Сакупљање и коришћење података
 collection-privacy-notice = Обавештење о приватности
 collection-health-report-telemetry-disabled-link = Сазнајте више
 collection-health-report-link = Сазнајте више
+collection-backlogged-crash-reports-link = Сазнајте више
 privacy-security-header = Безбедност
 privacy-scam-detection-title = Откривање превара
 privacy-anti-virus-title = Антивирус
@@ -82,8 +82,6 @@ addons-button = Проширења и теме
 
 ## OS Authentication dialog
 
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Потврдите свој идентитед да бисте поставили главну лозинку.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
