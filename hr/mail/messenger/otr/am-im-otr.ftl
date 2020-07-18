@@ -4,3 +4,9 @@
 
 account-encryption =
     .label = Obostrano šifriranje
+account-otr-label = Neslužbene poruke (OTR)
+otr-encryption-title = Provjereno šifriranje
+otr-fingerprint-label = Tvoj digitalni otisak:
+view-fingerprint-button =
+    .label = Upravljaj digitalnim otiscima kontakata
+    .accesskey = U
