@@ -75,6 +75,7 @@ login-intro-instruction-fxa = Giri nej si gayi'ì sesiôn riña { -fxaccount-bra
 login-intro-instruction-fxa-settings = Ni'iaj si ganahuit riña gayi'iìt sesioôn riña { -sync-brand-short-name }
 about-logins-intro-instruction-help = Guij riña <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sopôrte</a> da' narì't doj sa rugûñu'unj sò'
 about-logins-intro-import = Sisī nej riña gayi’ìt sesiûn nu sà’ riña a’ngô riña nana’uî’t, ga’ue <a data-l10n-name="import-link">duguachînt riña { -lockwise-brand-short-name }
+about-logins-intro-import2 = Sisī nej riña gayì’ìt sēsiûn nu sà’ ne’ yē’ { -brand-product-name }, ga’ue <a data-l10n-name="import-browser-link">gūxūnt ga’naj āsìj riña a’ngô sa riñā nana’uî’t</a> asi <a data-l10n-name="import-file-link">āsìj riña ‘ngō archivo</a>
 
 ## Login
 
@@ -163,6 +164,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 about-logins-confirm-remove-dialog-confirm-button = Guxūn
+about-logins-confirm-export-dialog-title = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi
+about-logins-confirm-export-dialog-confirm-button = Gā’nïnj gān’an a’ngô hiūj u…
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
 confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
 confirm-discard-changes-dialog-confirm-button = Dunâj man
