@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.longDesc "<p>L’adreça fornida es pas dins un format reconegut. Mercés de verificar qu’i aja pas cap d’error a la barra d’adreça e tornatz ensajar.</p>">
 
 <!ENTITY netInterrupt.title "Data Transfer Interrupted">
-<!ENTITY netInterrupt.longDesc "<p>The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.</p><ul><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Lo navegador s’es corrèctament connectat, mas la connexion es estada interrompuda pendent lo transferiment d’informacions. Tornatz ensajar.</p><ul><li>Podètz pas consultar d’autres sites tanpauc ? Verificatz la connexion de l’ordenador.</li><li>Avètz encara de problèmas ? Consultatz l’administrator ret o vòstre provesidor d’accès Internet per dire d’obténer d’ajuda.</li></ul>">
 
 <!ENTITY notCached.title "Lo document a expirat">
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas disponible dins lo cache del navegador.</p> <ul> <li>Per de rasons de seguretat, lo navegador redemanda pas automaticament los documents sensibles.</li> <li>Clicar sus « Ensajar tornarmai » per tornar demandar lo document a partir del site Web.</li> </ul>">
