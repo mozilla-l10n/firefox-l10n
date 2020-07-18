@@ -27,6 +27,7 @@ menu =
     .title = Na'nïn' menû
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Asìj riña a'ngô nabegadôr duguachînt ga'naj…
+about-logins-menu-menuitem-import-from-a-file = Gūxūn gā’naj āsìj riña ‘ngō archivo…
 about-logins-menu-menuitem-export-logins = Dūguachîn nej riña gayì’ìt sēsiûn…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -67,6 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Nana'uit riña gayi'i si sesiôn raj? Gi'iaj yuhui { -sync-brand-short-name }
+about-logins-login-intro-heading-logged-out = Nej da\'nga\' huì nū sà\' \'iá raj. Nāgi\'iaj riña { -sync-brand-short-name } asi gānākāj gā\'naj.
 about-logins-login-intro-heading-logged-in = Nu nari'ìj riña gayi'ìt sesiûn hua nuguan'àn
 login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-product-name } riña a'ngo aga'aj, ni ñuna ni'iaj daj gi'iát da' nari't riña aga' na.
 login-intro-instruction-fxa = Giri nej si gayi'ì sesiôn riña { -fxaccount-brand-name } riña nej aga' ngaà nun sa' ma.
@@ -184,4 +186,7 @@ about-logins-error-message-duplicate-login-with-link = Ngà hua 'ngo nuguan' hua
 about-logins-error-message-default = Hua 'ngo sa gire' ngà gahuin ruhuât na'nïnj sà' da'nga' huì nan.
 
 ## Login Export Dialog
+
+
+## Login Import Dialog
 
