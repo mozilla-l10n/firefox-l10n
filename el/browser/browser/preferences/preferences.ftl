@@ -1166,6 +1166,10 @@ space-alert-under-5gb-ok-button =
     .accesskey = K
 space-alert-under-5gb-message = Το { -brand-short-name } δεν έχει επαρκή χώρο δίσκου. Το περιεχόμενο των ιστοσελίδων ενδέχεται να μην εμφανίζεται σωστά. Επισκεφθείτε το “Μάθετε περισσότερα” για να βελτιστοποιήσετε τη χρήση δίσκου σας για καλύτερη εμπειρία περιήγησης.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Μάθετε περισσότερα
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Επιφάνεια εργασίας

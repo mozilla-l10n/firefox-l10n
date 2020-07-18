@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Συνδέσεις & κωδικοί πρόσβασης
@@ -32,6 +27,7 @@ menu =
     .title = Άνοιγμα μενού
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από άλλο πρόγραμμα περιήγησης…
+about-logins-menu-menuitem-import-from-a-file = Εισαγωγή από αρχείο…
 about-logins-menu-menuitem-export-logins = Εξαγωγή συνδέσεων…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -72,12 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Ψάχνετε τις αποθηκευμένες συνδέσεις σας; Ρυθμίστε το { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Ψάχνετε τις αποθηκευμένες συνδέσεις σας; Ρυθμίστε το { -sync-brand-short-name } ή εισάγετέ τις.
 about-logins-login-intro-heading-logged-in = Δεν βρέθηκαν συγχρονισμένες συνδέσεις.
 login-intro-description = Αν αποθηκεύσατε τις συνδέσεις σας στο { -brand-product-name } σε άλλη συσκευή, ορίστε πώς μπορείτε να τις μεταφέρετε εδώ:
 login-intro-instruction-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε λογαριασμό ή συνδεθείτε στο { -fxaccount-brand-name }
 login-intro-instruction-fxa-settings = Στις Ρυθμίσεις του { -sync-brand-short-name }, φροντίστε να επιλέξετε το κουτάκι Συνδέσεις.
 about-logins-intro-instruction-help = Αν χρειάζεστε περισσότερη βοήθεια, επισκεφτείτε την ενότητα <a data-l10n-name="help-link">Υποστήριξη { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισάγετε στο { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Εάν οι συνδέσεις σας αποθηκεύονται εκτός του { -brand-product-name }, μπορείτε να τις <a data-l10n-name="import-browser-link">εισαγάγετε από άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n- name = "import-file-link">από κάποιο αρχείο</a>
 
 ## Login
 
@@ -213,6 +211,19 @@ about-logins-export-file-picker-export-button = Εξαγωγή
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Έγγραφο CSV
+       *[other] Αρχείο CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Εισαγωγή αρχείου συνδέσεων
+about-logins-import-file-picker-import-button = Εισαγωγή
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Έγγραφο CSV
        *[other] Αρχείο CSV
