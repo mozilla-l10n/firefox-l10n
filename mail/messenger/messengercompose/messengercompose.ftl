@@ -39,3 +39,18 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Premjesti se na Bcc
     .accesskey = B
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] { $count } prilog
+            [one] { $count } prilog
+            [few] { $count } priloga
+           *[other] { $count } priloga
+        }
+#   { attachment-bucket-count.accesskey } - Do not localize this message.
+key-toggle-attachment-pane =
+    .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = Potvrda
+    .tooltiptext = Zatraži potvrdu za ovu poruku
