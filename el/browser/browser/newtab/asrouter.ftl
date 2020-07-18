@@ -248,6 +248,7 @@ cfr-whatsnew-better-pdf-body = Τα έγγραφα PDF πλέον ανοίγου
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Το απόρρητό σας έχει σημασία. Το { -brand-short-name } δρομολογεί πλέον με ασφάλεια τα αιτήματα DNS σας, όποτε είναι δυνατόν, σε μια συνεργαζόμενη υπηρεσία για να σας προστατεύσει κατά την περιήγησή σας.
 cfr-doorhanger-doh-header = Πιο ασφαλείς, κρυπτογραφημένες αναζητήσεις DNS
 cfr-doorhanger-doh-primary-button = Το κατάλαβα
     .accesskey = Τ
@@ -257,4 +258,5 @@ cfr-doorhanger-doh-secondary-button = Απενεργοποίηση
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Αυτόματη προστασία από περίεργες τακτικές ιχνηλάτησης
+cfr-whatsnew-clear-cookies-body = Ορισμένοι ιχνηλάτες σας ανακατευθύνουν σε άλλες ιστοσελίδες που τοποθετούν κρυφά cookies. Το { -brand-short-name } διαγράφει αυτόματα αυτά τα cookies, ώστε να μην μπορούν να σας ακολουθήσουν.
 cfr-whatsnew-clear-cookies-image-alt = Απεικόνιση αποκλεισμού cookie
