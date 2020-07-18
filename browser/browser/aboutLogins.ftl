@@ -74,6 +74,7 @@ login-intro-instruction-fxa = สร้างหรือลงชื่อเ�
 login-intro-instruction-fxa-settings = ตรวจสอบให้แน่ใจว่าคุณได้เลือกกล่องกาเครื่องหมายข้อมูลการเข้าสู่ระบบในการตั้งค่า { -sync-brand-short-name }
 about-logins-intro-instruction-help = เยี่ยมชม<a data-l10n-name="help-link">ฝ่ายสนับสนุน { -lockwise-brand-short-name }</a> สำหรับวิธีใช้เพิ่มเติม
 about-logins-intro-import = หากข้อมูลการเข้าสู่ระบบของคุณถูกบันทึกไว้ในเบราว์เซอร์อื่น คุณสามารถ<a data-l10n-name="import-link">นำเข้าข้อมูลเหล่านี้ใน { -lockwise-brand-short-name }</a> ได้
+about-logins-intro-import2 = หากข้อมูลการเข้าสู่ระบบของคุณถูกบันทึกไว้ภายนอก { -brand-product-name } คุณสามารถ<a data-l10n-name="import-browser-link">นำเข้าจากเบราว์เซอร์อื่น</a>หรือ<a data-l10n-name="import-file-link">จากไฟล์</a>ได้
 
 ## Login
 
@@ -216,4 +217,13 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = นำเข้าไฟล์ข้อมูลการเข้าสู่ระบบ
 about-logins-import-file-picker-import-button = นำเข้า
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] เอกสาร CSV
+       *[other] ไฟล์ CSV
+    }
