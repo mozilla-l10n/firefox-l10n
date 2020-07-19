@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Começar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Boas-vindas ao { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Boas-vindas ao <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Você instalou o navegador.<br/>Conheça outros produtos e serviços { -brand-product-name }.
 onboarding-welcome-learn-more = Saiba mais sobre os benefícios.
 onboarding-join-form-header = Junte-se ao { -brand-product-name }
@@ -44,6 +41,31 @@ onboarding-start-browsing-button-label = Comece a navegar
 onboarding-cards-dismiss =
     .title = Dispensar
     .aria-label = Dispensar
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Boas-vindas ao <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = O navegador rápido, seguro e privativo, produzido por uma organização sem fins lucrativos.
+onboarding-multistage-welcome-primary-button-label = Iniciar configuração
+onboarding-multistage-welcome-secondary-button-label = Entrar
+onboarding-multistage-welcome-secondary-button-text = Já tem uma conta?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importe suas senhas, favoritos e <span data-l10n-name="zap">mais</span>
+onboarding-multistage-import-subtitle = Vindo de outro navegador? É fácil trazer tudo para o { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Iniciar importação
+onboarding-multistage-import-secondary-button-label = Agora não
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Escolha uma <span data-l10n-name="zap">aparência</span>
+onboarding-multistage-theme-subtitle = Personalize o { -brand-short-name } com um tema.
+onboarding-multistage-theme-primary-button-label = Salvar tema
+onboarding-multistage-theme-secondary-button-label = Agora não
+onboarding-multistage-theme-label-light = Claro
+onboarding-multistage-theme-label-dark = Escuro
+onboarding-multistage-theme-label-colorful = Colorido
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
@@ -54,6 +76,12 @@ onboarding-import-sites-info =
         outro navegador, a menos que você escolha
         importar.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Introdução: tela { $current } de { $total }
 
 ## Welcome full page string
 
