@@ -43,6 +43,13 @@ privacy-passwords-header = Parole
 privacy-junk-header = Mesaje nesolicitate
 collection-header = Date colectate și utilizarea lor în { -brand-short-name }
 collection-description = Ne străduim să vă oferim opțiuni și să colectăm numai ceea ce este necesar ca să oferim și să îmbunătățim { -brand-short-name } pentru toți. Cerem întotdeauna permisiunea înainte de a primi date personale.
+collection-privacy-notice = Notificare privind confidențialitatea
+collection-health-report-telemetry-disabled-link = Află mai multe
+collection-health-report-link = Află mai multe
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Raportarea datelor este dezactivată în configurația folosită
+collection-backlogged-crash-reports-link = Află mai multe
 privacy-security-header = Securitate
 privacy-scam-detection-title = Detectarea de înșelăciuni
 privacy-anti-virus-title = Antivirus
@@ -143,6 +150,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Afișează o pictogramă în bara de stare
     .accesskey = p
+mail-system-sound-label =
+    .label = Sunet de sistem implicit pentru mesaje noi
+    .accesskey = D
 mail-custom-sound-label =
     .label = Folosește următorul fișier de sunet
     .accesskey = U
@@ -656,6 +666,7 @@ chat-header-label =
 
 ## Preferences UI Search Results
 
+search-results-header = Rezultatele căutării
 
 ## Preferences UI Search Results
 
