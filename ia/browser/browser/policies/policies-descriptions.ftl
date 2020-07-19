@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Impedir a { -brand-short-name } de exequer studio
 policy-DisableForgetButton = Impedir accesso al button Oblidar.
 policy-DisableFormHistory = Non rememorar le chronologia de recercas e formularios.
 policy-DisableMasterPasswordCreation = Si ver, non pote esser create un contrasigno maestro.
+policy-DisablePrimaryPasswordCreation = Si ver, non pote esser create un contrasigno primari.
 policy-DisablePasswordReveal = Non permitter de monstrar le contrasignos in le credentiales salvate.
 policy-DisablePocket = Disactivar le functionalitate pro salvar paginas web in Pocket.
 policy-DisablePrivateBrowsing = Disactivar le Navigation private.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Usar le comportamento 
 
 policy-LocalFileLinks = Permitter a sitos web specific de ligar a files local.
 policy-MasterPassword = Require o impedi usar un contrasigno maestro.
+policy-PrimaryPassword = Requirer o impedir usar un contrasigno primari.
 policy-NetworkPrediction = Activar o disactivar prediction del rete (prelectura del DNS).
 policy-NewTabPage = Activar o disactivar le pagina Nove scheda.
 policy-NoDefaultBookmarks = Disactivar le creation del marcapaginas predefinite impacchettate con { -brand-short-name } e le Marcapaginas intelligente (Plus Visitate, Tags recente). Nota: iste criterio es efficace solo si usate ante le prime uso del profilo.
