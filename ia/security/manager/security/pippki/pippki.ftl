@@ -32,16 +32,22 @@ pippki-pw-change2empty-in-fips-mode = Tu es actualmente in modo FIPS. FIPS requi
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Restabilir contrasigno primari
+    .style = width: 40em
 reset-password-button-label =
     .label = Reinitialisar
-reset-password-text = Si tu reinitialisa tu contrasigno maestro, tote tu contrasignos de e-mail e de web, datos de formularios e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno maestro?
+reset-password-text = Si tu reinitialisa tu contrasigno maestro, tote tu contrasignos email e web, tu datos de formularios e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno maestro?
+reset-primary-password-text = Si tu reinitialisa tu contrasigno primari, tote tu contrasignos web e email, tu certificatos personal e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno primari?
+pippki-reset-password-confirmation-title = Restabilir contrasigno primari
+pippki-reset-password-confirmation-message = Tu contrasigno primari ha essite reinitialisate.
 
 ## Downloading cert dialog
 
 download-cert-window =
-    .title = Discargante le certificato
+    .title = Discargante certificato
     .style = width: 46em
-download-cert-message = On te ha demandate a confider a un nove autoritate de certification (CA).
+download-cert-message = On te ha demandate confider a un nove autoritate de certification (CA).
 download-cert-trust-ssl =
     .label = Confider a iste CA pro identificar sitos del web.
 download-cert-trust-email =
