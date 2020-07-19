@@ -4,7 +4,6 @@
 
 <!-- extracted from am-main.xul -->
 
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Postavke računa">
@@ -16,6 +15,8 @@
 <!ENTITY name.accesskey "i">
 <!ENTITY email.label "Adresa e-pošte:">
 <!ENTITY email.accesskey "e">
+<!ENTITY catchAll.label "Odgovori s ovog identiteta kada se zaglavlja isporuke podudaraju:">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Adresa za odgovor:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "Primatelji će odgovarati na ovu adresu">
@@ -38,8 +39,8 @@
 
 <!ENTITY manageIdentities.label "Upravljanje identitetima…">
 <!ENTITY manageIdentities.accesskey "m">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Odlazni poslužitelj (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Koristi zadani poslužitelj">
