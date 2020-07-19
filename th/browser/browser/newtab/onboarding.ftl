@@ -42,6 +42,12 @@ onboarding-cards-dismiss =
     .title = ยกเลิก
     .aria-label = ยกเลิก
 
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = ยินดีต้อนรับสู่ <span data-l10n-name="zap">{ -brand-short-name }</span>
+
 ## Welcome full page string
 
 onboarding-fullpage-welcome-subheader = มาเริ่มสำรวจทุกอย่างที่คุณทำได้กัน

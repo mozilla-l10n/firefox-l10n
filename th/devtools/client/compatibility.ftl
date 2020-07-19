@@ -5,6 +5,7 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-selected-element-header = องค์ประกอบที่ถูกเลือก
 compatibility-all-elements-header = ปัญหาทั้งหมด
 
 ## Message used as labels for the type of issue
@@ -29,5 +30,6 @@ compatibility-target-browsers-header = เบราว์เซอร์เป�
 
 ##
 
+compatibility-no-issues-found = ไม่พบปัญหาความเข้ากันได้
 compatibility-close-settings-button =
     .title = ปิดการตั้งค่า
