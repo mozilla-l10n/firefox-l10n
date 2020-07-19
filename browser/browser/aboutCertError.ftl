@@ -56,6 +56,9 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Lanac certifikata:
 open-in-new-window-for-csp-or-xfo-error = Otvori stranicu u novom prozoru
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Iz sigurnosnih razloga, { $hostname } neće dopustiti da { -brand-short-name } prikaže stranicu, ako je u nju ugrađena jedna druga web-stranica. Za prikaz ove stranice, moraš je otvoriti u novom prozoru.
 
 ## Messages used for certificate error titles
 
@@ -84,8 +87,6 @@ proxyResolveFailure-title = Proxy poslužitelj nije pronađen
 redirectLoop-title = Petlja preusmjeravanja
 unknownSocketType-title = Neočekivani odgovor od poslužitelja
 nssFailure2-title = Sigurna veza nije uspostavljena
-cspBlocked-title = Blokirano od sigurnosne politike sadržaja
-xfoBlocked-title = Blokirano po X-Frame-Options pravilima
 csp-xfo-error-title = { -brand-short-name } ne može otvoriti ovu stranicu
 corruptedContentError-title = Greška oštećenog sadržaja
 remoteXUL-title = Udaljeni XUL
