@@ -31,10 +31,10 @@
 <!ENTITY pageTitle.label              "Найва сторінки:">
 <!ENTITY pageTitle.accesskey          "Н">
 <!ENTITY pageTitle.tooltip            "Введіть назву для ідентифікації сторінки в вікні браузера та в закладках">
-<!ENTITY pageTitleExample.label       "напр., «Моя веб-сторінка»">
+<!ENTITY pageTitleExample.label       "напр., &quot;Моя вебсторінка&quot;">
 <!ENTITY filename.label               "Ім’я файлу:">
 <!ENTITY filename.accesskey           "Ф">
-<!ENTITY filename.tooltip             "Введіть ім’я цього файлу, включаючи '.html' для веб-сторінки">
+<!ENTITY filename.tooltip             "Введіть ім’я цього файлу, включно з '.html' для вебсторінки">
 <!ENTITY filenameExample.label        "напр., «mypage.html»">
 <!ENTITY setDefaultButton.label       "Встановити за замовчанням">
 <!ENTITY setDefaultButton.accesskey   "ч">

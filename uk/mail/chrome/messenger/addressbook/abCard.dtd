@@ -72,7 +72,7 @@
 <!ENTITY HomeZipCode.accesskey          "ш">
 <!ENTITY HomeCountry.label              "Країна:">
 <!ENTITY HomeCountry.accesskey          "ї">
-<!ENTITY HomeWebPage.label              "Веб-сторінка:">
+<!ENTITY HomeWebPage.label              "Вебсторінка:">
 <!ENTITY HomeWebPage.accesskey          "т">
 <!ENTITY Birthday.label                 "День народження:">
 <!ENTITY Birthday.accesskey             "н">
@@ -102,7 +102,7 @@
 <!ENTITY WorkZipCode.accesskey          "ш">
 <!ENTITY WorkCountry.label              "Країна:">
 <!ENTITY WorkCountry.accesskey          "ї">
-<!ENTITY WorkWebPage.label              "Веб-сторінка:">
+<!ENTITY WorkWebPage.label              "Вебсторінка:">
 <!ENTITY WorkWebPage.accesskey          "т">
 
 <!ENTITY Other.tab                      "Інше">
@@ -150,7 +150,7 @@
 <!ENTITY BrowsePhoto.accesskey          "В">
 <!ENTITY PhotoURL.label                 "У мережі">
 <!ENTITY PhotoURL.accesskey             "м">
-<!ENTITY PhotoURL.placeholder           "Вставте або введіть веб-адресу фотографії">
+<!ENTITY PhotoURL.placeholder           "Вставте або введіть вебадресу фотографії">
 <!ENTITY UpdatePhoto.label              "Оновити">
 <!ENTITY UpdatePhoto.accesskey          "о">
 <!ENTITY PhotoDropTarget.label          "Перетягніть нове фото сюди">
