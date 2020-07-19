@@ -816,11 +816,11 @@ forms-primary-pw-use =
 forms-master-pw-change =
     .label = Змінити головний пароль…
     .accesskey = і
-forms-master-pw-fips-title = Ви працюєте в режимі відповідності FIPS. При роботі в цьому режимі потрібно, щоб головний пароль не був порожній.
+forms-master-pw-fips-title = Зараз ви в режимі FIPS. Для цього режиму необхідно встановити головний пароль.
 forms-primary-pw-change =
     .label = Змінити головний пароль…
     .accesskey = і
-forms-primary-pw-fips-title = Зараз ви в режимі FIPS. Для цього режиму необхідний головний пароль.
+forms-primary-pw-fips-title = Зараз ви в режимі FIPS. Для цього режиму необхідно встановити головний пароль.
 forms-master-pw-fips-desc = Не вдалося змінити пароль
 
 ## OS Authentication dialog
