@@ -136,6 +136,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = Składowane přizje
 ## Master Password notification
 
 master-password-notification-message = Prošu zapodajće swoje hłowne hesło, zo byšće sej składowane přizjewjenja a hesła wobhladał
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Prošu zapodajće swoje hłowne hesło, zo byšće sej składowane přizjewjenja a hesła wobhladał
 master-password-reload-button =
     .label = Přizjewić
     .accesskey = P
