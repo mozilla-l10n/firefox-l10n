@@ -111,8 +111,8 @@
 <!ENTITY selectMenu.accesskey "อ">
 <!ENTITY all.label "ทั้งหมด">
 <!ENTITY all.accesskey "ท">
-<!ENTITY selectThreadCmd.label "หัวข้อ">
-<!ENTITY selectThreadCmd.accesskey "ห">
+<!ENTITY selectThreadCmd.label "เธรด">
+<!ENTITY selectThreadCmd.accesskey "ธ">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "ข้อความที่ติดดาว">
 <!ENTITY selectFlaggedCmd.accesskey "ต">
@@ -212,32 +212,32 @@
 <!ENTITY sortAscending.accesskey "น">
 <!ENTITY sortDescending.label "จากมากไปน้อย">
 <!ENTITY sortDescending.accesskey "ม">
-<!ENTITY sortThreaded.label "มีหัวข้อ">
-<!ENTITY sortThreaded.accesskey "ห">
-<!ENTITY sortUnthreaded.label "ไม่มีหัวข้อ">
+<!ENTITY sortThreaded.label "มีเธรด">
+<!ENTITY sortThreaded.accesskey "ธ">
+<!ENTITY sortUnthreaded.label "ไม่มีเธรด">
 <!ENTITY sortUnthreaded.accesskey "ไ">
 <!ENTITY groupBySort.label "จัดกลุ่มตามการเรียง">
 <!ENTITY groupBySort.accesskey "จ">
 <!ENTITY msgsMenu.label "ข้อความ">
 <!ENTITY msgsMenu.accesskey "ข">
-<!ENTITY threads.label "หัวข้อ">
-<!ENTITY threads.accesskey "ห">
+<!ENTITY threads.label "เธรด">
+<!ENTITY threads.accesskey "ธ">
 <!ENTITY allMsgsCmd.label "ทั้งหมด">
 <!ENTITY allMsgsCmd.accesskey "ท">
-<!ENTITY expandAllThreadsCmd.label "ขยายหัวข้อทั้งหมด">
+<!ENTITY expandAllThreadsCmd.label "ขยายเธรดทั้งหมด">
 <!ENTITY expandAllThreadsCmd.accesskey "า">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "ยุบหัวข้อทั้งหมด">
+<!ENTITY collapseAllThreadsCmd.label "ยุบเธรดทั้งหมด">
 <!ENTITY collapseAllThreadsCmd.accesskey "ย">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "ยังไม่ได้อ่าน">
 <!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "หัวข้อที่มีที่ยังไม่ได้อ่าน">
-<!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "หัวข้อที่เฝ้าดูที่มีที่ยังไม่ได้อ่าน">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "หัวข้อที่เพิกเฉย">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY threadsWithUnreadCmd.label "เธรดที่มีข้อความที่ยังไม่ได้อ่าน">
+<!ENTITY threadsWithUnreadCmd.accesskey "เ">
+<!ENTITY watchedThreadsWithUnreadCmd.label "เธรดที่เฝ้าดูที่มีข้อความที่ยังไม่ได้อ่าน">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "ฝ">
+<!ENTITY ignoredThreadsCmd.label "เธรดหัวข้อที่เพิกเฉย">
+<!ENTITY ignoredThreadsCmd.accesskey "ฉ">
 
 <!ENTITY headersMenu.label "ส่วนหัว">
 <!ENTITY headersMenu.accesskey "ส">
@@ -307,8 +307,8 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "ข้อความที่ติดดาว">
 <!ENTITY nextStarredMsgCmd.accesskey "ต">
-<!ENTITY nextUnreadThread.label "หัวข้อที่ยังไม่ได้อ่าน">
-<!ENTITY nextUnreadThread.accesskey "ห">
+<!ENTITY nextUnreadThread.label "เธรดที่ยังไม่ได้อ่าน">
+<!ENTITY nextUnreadThread.accesskey "ธ">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "ก่อนหน้า">
 <!ENTITY prevMenu.accesskey "ก">
@@ -392,13 +392,13 @@
 <!ENTITY moveToFolderAgain.label "ย้ายอีกครั้ง">
 <!ENTITY moveToFolderAgain.accesskey "อ">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "เพิกเฉยหัวข้อ">
+<!ENTITY killThreadMenu.label "เพิกเฉยเธรด">
 <!ENTITY killThreadMenu.accesskey "พ">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "เพิกเฉยหัวข้อย่อย">
-<!ENTITY killSubthreadMenu.accesskey "ห">
+<!ENTITY killSubthreadMenu.label "เพิกเฉยเธรดย่อย">
+<!ENTITY killSubthreadMenu.accesskey "ย">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "เฝ้าดูหัวข้อ">
+<!ENTITY watchThreadMenu.label "เฝ้าดูเธรด">
 <!ENTITY watchThreadMenu.accesskey "ฝ">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "ป้ายกำกับ">
@@ -420,9 +420,9 @@
 <!ENTITY markAsReadCmd.accesskey "แ">
 <!ENTITY markAsUnreadCmd.label "ว่ายังไม่ได้อ่าน">
 <!ENTITY markAsUnreadCmd.accesskey "ม">
-<!ENTITY markThreadAsReadCmd.label "หัวข้อว่าอ่านแล้ว">
-<!ENTITY markThreadAsReadCmd.accesskey "ห">
-<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markThreadAsReadCmd.label "ทำเครื่องหมายเธรดว่าอ่านแล้ว">
+<!ENTITY markThreadAsReadCmd.accesskey "ท">
+<!ENTITY markThreadAsReadCmd.key "ค">
 <!ENTITY markReadByDateCmd.label "ว่าอ่านแล้วตามวันที่…">
 <!ENTITY markReadByDateCmd.accesskey "ว">
 <!ENTITY markReadByDateCmd.key "c">
@@ -636,7 +636,7 @@
 <!ENTITY appmenuNewContactCmd.label "ผู้ติดต่อของสมุดรายชื่อ…">
 <!ENTITY appmenuEditMenu.label "แก้ไข">
 <!ENTITY appmenuToolbarLayout.label "เค้าโครงแถบเครื่องมือ…">
-<!ENTITY appmenuSelectThread.label "เลือกหัวข้อ">
+<!ENTITY appmenuSelectThread.label "เลือกเธรด">
 <!ENTITY appmenuSelectFlagged.label "เลือกข้อความที่ติดดาว">
 
 <!-- Tags Menu Popup -->
@@ -711,7 +711,7 @@
 
 <!-- Thread Pane -->
 <!ENTITY selectColumn.label "เลือกข้อความ">
-<!ENTITY threadColumn.label "หัวข้อ">
+<!ENTITY threadColumn.label "เธรด">
 <!ENTITY fromColumn.label "จาก">
 <!ENTITY recipientColumn.label "ผู้รับ">
 <!ENTITY correspondentColumn.label "ผู้สื่อสาร">
@@ -737,7 +737,7 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "เลือกคอลัมน์ที่จะแสดง">
 <!ENTITY selectColumn.tooltip "สลับการเลือกข้อความทั้งหมด">
-<!ENTITY threadColumn2.tooltip "แสดงหัวข้อช้อความ">
+<!ENTITY threadColumn2.tooltip "แสดงเธรดช้อความ">
 <!ENTITY fromColumn2.tooltip "เรียงตามผู้ส่ง">
 <!ENTITY recipientColumn2.tooltip "เรียงตามผู้รับ">
 <!ENTITY correspondentColumn2.tooltip "เรียงตามผู้สื่อสาร">
@@ -749,8 +749,8 @@
 <!ENTITY statusColumn2.tooltip "เรียงตามสถานะ">
 <!ENTITY sizeColumn2.tooltip "เรียงตามขนาด">
 <!ENTITY junkStatusColumn2.tooltip "เรียงตามสถานะขยะ">
-<!ENTITY unreadColumn2.tooltip "จำนวนข้อความที่ยังไม่ได้อ่านในหัวข้อ">
-<!ENTITY totalColumn2.tooltip "จำนวนข้อความทั้งหมดในหัวข้อ">
+<!ENTITY unreadColumn2.tooltip "จำนวนข้อความที่ยังไม่ได้อ่านในเธรด">
+<!ENTITY totalColumn2.tooltip "จำนวนข้อความทั้งหมดในเธรด">
 <!ENTITY readColumn2.tooltip "เรียงตามที่อ่านแล้ว">
 <!ENTITY receivedColumn2.tooltip "เรียงตามวันที่ได้รับ">
 <!ENTITY starredColumn2.tooltip "เรียงตามดาว">
@@ -807,11 +807,11 @@
 <!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "ร">
 <!ENTITY contextCopyMsgMenu.label "คัดลอกไปยัง">
 <!ENTITY contextCopyMsgMenu.accesskey "ค">
-<!ENTITY contextKillThreadMenu.label "เพิกเฉยหัวข้อ">
+<!ENTITY contextKillThreadMenu.label "เพิกเฉยเธรด">
 <!ENTITY contextKillSubthreadMenu.accesskey "ย">
 <!ENTITY contextKillThreadMenu.accesskey "ว">
-<!ENTITY contextKillSubthreadMenu.label "เพิกเฉยหัวข้อย่อย">
-<!ENTITY contextWatchThreadMenu.label "เฝ้าดูหัวข้อ">
+<!ENTITY contextKillSubthreadMenu.label "เพิกเฉยเธรดย่อย">
+<!ENTITY contextWatchThreadMenu.label "เฝ้าดูเธรด">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
