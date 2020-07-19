@@ -803,6 +803,12 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Bruk et hovedpassord
     .accesskey = r
+forms-primary-pw-use =
+    .label = Bruk et primært passord
+    .accesskey = B
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Endre hovedpassord …
     .accesskey = d
