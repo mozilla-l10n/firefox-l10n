@@ -14,7 +14,10 @@ extensions-name = ชื่อ
 extensions-enabled = เปิดใช้งานอยู่
 extensions-version = รุ่น
 extensions-id = ID
+support-addons-title = ส่วนเสริม
 support-addons-name = ชื่อ
+support-addons-type = ชนิด
+support-addons-enabled = ถูกเปิดใช้งาน
 support-addons-version = รุ่น
 support-addons-id = ID
 security-software-title = ซอฟต์แวร์ความปลอดภัย
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] เปิดโฟลเดอร์
        *[other] เปิดไดเรกทอรี
     }
+experimental-features-title = คุณลักษณะทดลอง
+experimental-features-name = ชื่อ
+experimental-features-value = ค่า
 modified-key-prefs-title = ค่ากำหนดสำคัญที่ถูกเปลี่ยนแปลง
 modified-prefs-name = ชื่อ
 modified-prefs-value = ค่า

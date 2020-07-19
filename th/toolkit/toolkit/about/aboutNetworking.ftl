@@ -61,6 +61,7 @@ about-networking-title = เกี่ยวกับเครือข่าย
 about-networking-http = HTTP
 about-networking-sockets = ซ็อกเก็ต
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = ล้างแคช DNS
 about-networking-dns-suffix = คำลงท้าย DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = เรียกใหม่
