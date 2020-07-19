@@ -335,6 +335,7 @@ touch-enabled = unos dodirom uključen
 drag-enabled = povlačenje klizne trake uključeno
 keyboard-enabled = tipkovnica uključena
 autoscroll-enabled = automatsko klizanje uključeno
+zooming-enabled = glatko zumiranje prstima aktivirano
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

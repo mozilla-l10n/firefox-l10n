@@ -272,9 +272,15 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Ne dozvoli nikada
     .accesskey = N
+popup-silence-notifications-checkbox = Deaktiviraj { -brand-short-name } obavijesti tijekom dijeljenja
+popup-silence-notifications-checkbox-warning = { -brand-short-name } neće prikazivati obavijesti dok dijeliš.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Dijeliš { -brand-short-name }. Drugi ljudi mogu vidjeti kad se prebaciš na novu karticu.
+sharing-warning-screen = Dijeliš svoj cijeli ekran. Drugi ljudi mogu vidjeti kad se prebaciš na novu karticu.
+sharing-warning-proceed-to-tab =
+    .label = Prijeđi na karticu
 
 ## DevTools F12 popup
 
