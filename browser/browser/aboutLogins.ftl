@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportar contas e s
 ## Master Password notification
 
 master-password-notification-message = Digite sua senha mestra para ver contas e senhas salvas
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Digite sua senha principal para ver contas e senhas salvas
 master-password-reload-button =
     .label = Entrar
     .accesskey = E
