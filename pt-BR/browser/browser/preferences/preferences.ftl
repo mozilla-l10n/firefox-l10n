@@ -803,10 +803,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Usar uma senha mestra
     .accesskey = U
+forms-primary-pw-use =
+    .label = Usar uma senha principal
+    .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Alterar senha mestra…
     .accesskey = m
 forms-master-pw-fips-title = Você está no momento no modo FIPS. O FIPS necessita de uma senha mestra não vazia.
+forms-primary-pw-change =
+    .label = Alterar senha principal…
+    .accesskey = p
+forms-primary-pw-fips-title = Você está no momento no modo FIPS. O FIPS exige uma senha principal não vazia.
 forms-master-pw-fips-desc = Falha na alteração da senha
 
 ## OS Authentication dialog
@@ -818,6 +828,13 @@ master-password-os-auth-dialog-message-win = Para criar uma senha mestra, insira
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = criar uma senha mestra
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Para criar uma senha principal, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = criar uma senha principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
