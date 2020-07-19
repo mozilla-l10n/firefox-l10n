@@ -17,6 +17,16 @@ change-password-old = Password attuale:
 change-password-new = Nuova password:
 change-password-reenter = Nuova password (conferma):
 
+pippki-failed-pw-change = Impossibile cambiare la password.
+pippki-incorrect-pw = Non è stata inserita correttamente la password attuale. Ritentare.
+pippki-pw-change-ok = La password è stata cambiata correttamente.
+
+pippki-pw-empty-warning = Le password salvate e le chiavi private non verranno protette.
+pippki-pw-erased-ok = La password è stata eliminata. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Attenzione: si è deciso di non utilizzare una password. { pippki-pw-empty-warning }
+
+pippki-pw-change2empty-in-fips-mode = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
+
 ## Reset Password dialog
 
 reset-password-window =
@@ -29,6 +39,9 @@ reset-password-button-label =
     .label = Reimposta
 reset-password-text = La rimozione della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali e delle chiavi private memorizzate. Rimuovere la password principale?
 reset-primary-password-text = La rimozione della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali e delle chiavi private memorizzate. Rimuovere la password principale?
+
+pippki-reset-password-confirmation-title = Rimozione password principale
+pippki-reset-password-confirmation-message = La password è stata eliminata.
 
 ## Downloading cert dialog
 
