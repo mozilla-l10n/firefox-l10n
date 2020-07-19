@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Spriječite { -brand-short-name } da pokreće stu
 policy-DisableForgetButton = Spriječite pristup tipki za brisanje povijesti pretraživanja.
 policy-DisableFormHistory = Nemoj pamtiti povijest pretraživanja i obrazaca.
 policy-DisableMasterPasswordCreation = Ukoliko je točno, korisnik neće moći stvoriti glavnu lozinku.
+policy-DisablePrimaryPasswordCreation = Ukoliko je točno, neće biti moguće postaviti glavnu lozinku.
 policy-DisablePasswordReveal = Nemoj dozvoliti prikaz spremljenih lozinki.
 policy-DisablePocket = Onemogući mogućnost spremanja web stranica u Pocket.
 policy-DisablePrivateBrowsing = Onemogući privatno pregledavanje.
@@ -63,6 +64,7 @@ policy-ExtensionSettings = Upravljaj svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Aktiviraj ili deaktiviraj automatska ažuriranja dodataka.
 policy-FirefoxHome = Postavite Firefox početnnu stranicu.
 policy-FlashPlugin = Dozvoli ili zabrani upotrebu dodatka Flash.
+policy-Handlers = Postavite zadane rukovatelje aplikacijama.
 policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Postavi i opcionalno zaključaj početnu stranicu.
@@ -71,11 +73,14 @@ policy-LegacyProfiles = Onemogućuje značajku koja nameće zaseban profil za sv
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Aktiviraj standardnu staru postavku ponašanja SameSite kolačića.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Vrati se na staro ponašanje SameSitea za kolačiće na određenim stranicama.
 
 ##
 
 policy-LocalFileLinks = Omogućite određenim web stranicama poveznice na lokalne datoteke.
 policy-MasterPassword = Zahtijevaj ili spriječi upotrebu glavne lozinke.
+policy-PrimaryPassword = Zahtijevaj ili spriječi upotrebu glavne lozinke.
 policy-NetworkPrediction = Aktiviraj ili deaktiviraj predviđanje mreže (DNS prefetching).
 policy-NewTabPage = Aktiviraj ili deaktiviraj stranicu Nova kartica.
 policy-NoDefaultBookmarks = Onemogući izradu standardnih zabilješki koje dolaze s { -brand-short-name }om i pametnih zabilješki (Najposjećenije, Nedavne oznake). Napomena: ovo pravilo djeluje samo, ako se koristi prije prvog pokretanja profila.
