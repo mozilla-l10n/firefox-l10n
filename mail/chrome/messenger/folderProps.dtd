@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "ชื่อ:">
 <!ENTITY folderProps.name.accesskey              "ช">
+<!ENTITY folderProps.color.label                 "สีไอคอน:">
+<!ENTITY folderProps.color.accesskey             "อ">
+<!ENTITY folderProps.reset.tooltip               "เรียกคืนสีเริ่มต้น">
 <!ENTITY folderProps.location.label              "ตำแหน่งที่ตั้ง:">
 <!ENTITY folderProps.location.accesskey          "ต">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "สิทธิ์…">
 <!ENTITY privileges.button.accesskey             "ส">
 <!ENTITY permissionsDesc.label                   "คุณมีสิทธิอนุญาตดังต่อไปนี้:">
+<!ENTITY folderOtherUsers.label                  "คนอื่น ๆ ที่มีสิทธิ์เข้าถึงโฟลเดอร์นี้:">
 <!ENTITY folderType.label                        "ชนิดโฟลเดอร์:">
 
 <!ENTITY folderQuotaTab.label                    "โควตา">

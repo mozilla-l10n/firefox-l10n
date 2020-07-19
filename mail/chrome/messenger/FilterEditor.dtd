@@ -27,7 +27,6 @@
 <!ENTITY contextOutgoing.accesskey "ห">
 <!ENTITY contextArchive.label "เก็บถาวร">
 <!ENTITY contextArchive.accesskey "ก">
-
 <!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "ดำเนินการการกระทำเหล่านี้:">
@@ -50,9 +49,9 @@
 <!ENTITY deleteMessage.label "ลบข้อความ">
 <!ENTITY deleteFromPOP.label "ลบจากเซิร์ฟเวอร์ POP">
 <!ENTITY fetchFromPOP.label "ดึงจากเซิร์ฟเวอร์ POP">
-<!ENTITY ignoreThread.label "เพิกเฉยหัวข้อ">
-<!ENTITY ignoreSubthread.label "เพิกเฉยหัวข้อย่อย">
-<!ENTITY watchThread.label "เฝ้าดูหัวข้อ">
+<!ENTITY ignoreThread.label "เพิกเฉยเธรด">
+<!ENTITY ignoreSubthread.label "เพิกเฉยเธรดย่อย">
+<!ENTITY watchThread.label "เฝ้าดูเธรด">
 <!ENTITY stopExecution.label "หยุดการทำงานของตัวกรอง">
 
 <!ENTITY addAction.tooltip "เพิ่มการกระทำใหม่">

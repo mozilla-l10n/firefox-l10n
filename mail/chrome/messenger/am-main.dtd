@@ -15,6 +15,8 @@
 <!ENTITY name.accesskey "อ">
 <!ENTITY email.label "ที่อยู่อีเมล:">
 <!ENTITY email.accesskey "ท">
+<!ENTITY catchAll.label "ตอบกลับจากข้อมูลประจำตัวนี้เมื่อส่วนหัวการส่งตรงกัน:">
+<!ENTITY catchAll.accesskey "ส">
 <!ENTITY replyTo.label "ที่อยู่ตอบกลับ:">
 <!ENTITY replyTo.accesskey "ย">
 <!ENTITY replyTo.placeholder "ผู้รับจะตอบกลับไปยังที่อยู่อื่นนี้">
