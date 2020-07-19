@@ -130,6 +130,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = לייצא את ה�
 ## Master Password notification
 
 master-password-notification-message = נא להכניס את הססמה הראשית שלך כדי לצפות בכניסות וססמאות.
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = נא להכניס את הססמה הראשית שלך כדי לצפות בכניסות והססמאות השמורות
 master-password-reload-button =
     .label = כניסה
     .accesskey = כ
