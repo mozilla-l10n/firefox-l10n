@@ -20,3 +20,13 @@ experimental-features-avif-description = Eksperimentinis AVIF palaikymas: „AV1
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Slapukai: SameSite=Lax (numatyta)
+experimental-features-cookie-samesite-lax-by-default2-description = Slapukams taikyti „SameSite=Lax“ kaip numatytąją reikšmę, jei atributas „SameSite“ nenurodytas. Programuotojai turi išimtinai pasirinkti dabartinį neriboto naudojimo funkcionalumą, išskirtinai nurodydami „SameSite=None“.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Slapukai: SameSite=None reikalauja atributo „secure“
+experimental-features-cookie-samesite-none-requires-secure2-description = Slapukai su atributu „SameSite=None“ reikalauja atributo „secure“. Šiam funkcionalumui reikalinga „Slapukai: SameSite=Lax (numatyta)“.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = „about:home“ paleisties podėlis
+experimental-features-abouthome-startup-cache-description = Podėlis, skirtas pirminiam „about:home“ dokumentui, kuris yra numatytasis pradžios tinklalapis. Šio podėlio paskirtis yra pagerinti paleisties našumą.
