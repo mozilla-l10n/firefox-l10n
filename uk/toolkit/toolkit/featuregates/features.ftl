@@ -30,3 +30,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 experimental-features-abouthome-startup-cache =
     .label = Кеш запуску about:home
 experimental-features-abouthome-startup-cache-description = Кешування початкового вмісту about:home, який типово завантажується під час запуску. Метою кешування є пришвидшення запуску.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Обробляйте куки з одного домену, але за різними схемами (наприклад, http://example.com та https://example.com) як cross-site замість same-site. Поліпшує безпеку, але може призвести до несправностей.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = Інструменти розробника: Зневадження Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Вмикає експериментальну підтримку Service Workers на панелі Зневадження інструментів розробника. Ця функція може уповільнити інструменти розробника та збільшити споживання пам'яті.
