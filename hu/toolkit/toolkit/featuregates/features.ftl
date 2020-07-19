@@ -30,3 +30,12 @@ experimental-features-cookie-samesite-none-requires-secure2-description = A „S
 experimental-features-abouthome-startup-cache =
     .label = about:home indítási gyorsítótár
 experimental-features-abouthome-startup-cache-description = Gyorsítótár a kezdeti about:home dokumentumhoz, amely alapértelmezés szerint betöltődik indításkor. A gyorsítótár célja az indítási teljesítmény javítása.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = Fejlesztői eszközök: Hibakeresés a Service Workerekben
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Engedélyezi a Service Workerek kísérleti támogatását a fejlesztői eszközök Hibakeresés panelján. A funkció lelassíthatja a fejlesztői eszközöket, és növelheti a memóriafogyasztást.
