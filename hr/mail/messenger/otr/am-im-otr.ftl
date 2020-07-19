@@ -5,7 +5,9 @@
 account-encryption =
     .label = Obostrano šifriranje
 account-otr-label = Neslužbene poruke (OTR)
+account-otr-description = { -brand-short-name } podržava potpuno kriptiranje pojedinačnih razgovora. Ovo će spriječiti treće strane u prisluškivanju razgovora. Potpuno kriptiranje može se koristiti jedino kada i druga strana koristi program koji to podržava.
 otr-encryption-title = Provjereno šifriranje
+otr-encryption-caption = Kako biste omogućili drugima da provjere vaš identitet u OTR razgovorima, podijelite svoj OTR otisak prsta koristeći vanjski komunikacijski kanal.
 otr-fingerprint-label = Tvoj digitalni otisak:
 view-fingerprint-button =
     .label = Upravljaj digitalnim otiscima kontakata

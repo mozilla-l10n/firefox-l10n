@@ -40,6 +40,16 @@ pill-action-move-bcc =
     .label = Premjesti se na Bcc
     .accesskey = B
 #   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value =
+        { $count ->
+            [1] { $count } privitak
+            [one] { $count } privitak
+            [few] { $count } privitka
+           *[other] { $count } privitaka
+        }
+    .accesskey = r
+#   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
         { $count ->
