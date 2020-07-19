@@ -36,6 +36,12 @@ state-not_private = Trenutni razgovor nije privatan.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = Trenutni razgovor je kriptiran, ali nije privatan pošto identitet { $name } nije provjeren.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Identitet { $name } je provjeren. Trenutni razgovor je kriptiran i privatan.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } je završio svoj kriptirani razgovor s vama, trebali biste učiniti isto.
 state-not_private-label = Nesigurno
 state-unverified-label = Neprovjereno
 state-private-label = Privatno
@@ -55,3 +61,7 @@ success-title = Obostrano šifriranje
 successThem-title = Provjeri identitet kontakta
 fail-title = Nije moguće provjeriti
 waiting-title = Poslan je zahtjev za provjeru
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Generiranje privatnog OTR ključa neuspješno: { $error }
