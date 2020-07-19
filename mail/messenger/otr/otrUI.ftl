@@ -33,10 +33,16 @@ state-unverified = การสนทนาปัจจุบันถูกเ�
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = ตัวตนของ { $name } ได้ถูกยืนยันแล้ว การสนทนาปัจจุบันถูกเข้ารหัสแล้วและเป็นส่วนตัว
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } ได้สิ้นสุดการสนทนาแบบเข้ารหัสของพวกเขากับคุณแล้ว คุณควรสิ้นสุดการสนทนาเช่นกัน
 state-not_private-label = ไม่ปลอดภัย
 state-unverified-label = ยังไม่ยืนยัน
 state-private-label = ส่วนตัว
 state-finished-label = สิ้นสุดแล้ว
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } ขอให้คุณยืนยันตัวตนของคุณ
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 afterauth-private = คุณได้ยืนยันตัวตนของ { $name } แล้ว
@@ -49,3 +55,7 @@ success-title = การเข้ารหัสแบบครอบคลุ�
 successThem-title = ยืนยันตัวตนของผู้ติดต่อของคุณ
 fail-title = ไม่สามารถยืนยันได้
 waiting-title = ส่งคำขอการยืนยันแล้ว
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = การสร้างคีย์ส่วนตัว OTR ล้มเหลว: { $error }
