@@ -36,6 +36,7 @@ master-password-warning = 설정한 마스터 비밀번호를 잘 기억하세�
 remove-password =
     .title = 마스터 비밀번호 제거
 primary-password-admin = 관리자는 로그인과 비밀번호를 저장하기 위해 기본 비밀번호를 설정해야 합니다.
+primary-password-description = 기본 비밀번호는 이 기기에서 로그인과 비밀번호와 같은 중요한 정보를 보호하는데 사용됩니다. 기본 비밀번호를 만들면, 비밀번호로 보호되는 저장된 정보에 접근할 때마다 { -brand-short-name }에서 세션당 한 번씩 기본 비밀번호를 확인합니다.
 primary-password-warning = 설정한 기본 비밀번호를 잘 기억하세요. 기본 비밀번호를 잊어 버린 경우, 이 기기에서 마스터 비밀번호로 보호되는 정보에 접근할 수 없습니다.
 remove-primary-password =
     .title = 기본 비밀번호 제거
