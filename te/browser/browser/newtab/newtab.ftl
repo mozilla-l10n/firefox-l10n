@@ -137,6 +137,10 @@ newtab-section-menu-privacy-notice = అంతరంగికత గమనిక
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = విభాగాన్ని కుదించు
+newtab-section-expand-section-label =
+    .aria-label = విభాగాన్ని విస్తరించు
 
 ## Section Headers.
 
