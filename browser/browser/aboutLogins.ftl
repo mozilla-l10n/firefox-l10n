@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = ანგარი�
 ## Master Password notification
 
 master-password-notification-message = გთხოვთ, შეიყვანოთ თქვენი მთავარი პაროლი, შენახული ანგარიშებისა და პაროლების სანახავად
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = გთხოვთ, შეიყვანოთ თქვენი მთავარი პაროლი, შენახული ანგარიშებისა და პაროლების სანახავად
 master-password-reload-button =
     .label = შესვლა
     .accesskey = ლ
