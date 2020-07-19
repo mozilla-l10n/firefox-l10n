@@ -73,6 +73,10 @@ serviceworker-empty-suggestions-aboutdebugging = 다른 도메인의 Service Wor
 serviceworker-empty-intro2 = Service Worker 없음
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = 더 알아보기
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = 현재 페이지에 Service Worker가 있어야 하는 경우, <a>콘솔</a>에서 오류를 찾거나 <span>디버거</span>에서 Service Worker 등록을 단계별로 진행할 수 있습니다.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = 다른 도메인의 Service Worker 보기
