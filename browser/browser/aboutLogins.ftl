@@ -132,6 +132,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = esportare credenzia
 ## Master Password notification
 
 master-password-notification-message = Inserire la password principale per visualizzare le credenziali e le password salvate
+about-logins-primary-password-notification-message = Inserire la password principale per visualizzare le credenziali e le password salvate
 master-password-reload-button =
     .label = Accedi
     .accesskey = A
