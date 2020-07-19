@@ -30,3 +30,11 @@ experimental-features-cookie-samesite-none-requires-secure2-description = ფუ
 experimental-features-abouthome-startup-cache =
     .label = about:home გაშვების კეში
 experimental-features-abouthome-startup-cache-description = დროებით შენახული მონაცემები, საწყისი about:home დოკუმენტისთვის, რომლებიც იტვირთება გაშვებისას. ამ კეშის მიზანია, მეტად აასწრაფოს პროგრამის გაშვება.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = განისაზღვროს ფუნთუშები იმავე მისამართიდან, თუმცა განსხვავებული სქემით (მაგ. http://example.com და https://example.com) როგორც „cross-site“ და არა „same-site”. გააუმჯობესებს უსაფრთხოებას, თუმცა გაზრდის გაუმართაობის ალბათობას.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: Service Worker-ის გამართვა
