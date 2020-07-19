@@ -201,7 +201,7 @@ was trying to connect. -->
 
 <!ENTITY networkProtocolError.title "Ցանցի հաղորդակարգի սխալ">
 
-<!ENTITY enableTls10.longDesc "Այս կայքը հնարավոր է աջակցի TLS 1.2 հաղորդակարգին, որը ամենա փոքր տարբերակն է &brandShortName;-ի կողմից աջակցված։ TLS 1.0 և TLS 1.1 թույլատրելը հնարավոր է հաջողացնի այս միացումը։">
+<!ENTITY enableTls10.longDesc "Այս կայքը հնարավոր է չի աջակցում TLS 1.2 հաղորդակարգը, որը &brandShortName;-ի կողմից աջակցվող ամենացածր տարբերակն է: TLS 1.0 և TLS 1.1-ի միացումը կարող է հաջողել այս կապակցումը:">
 <!ENTITY enableTls10.note "TLS 1.0 և TLS 1.1 մշտապես կանջատվի ապագա թողարկումում։">
 <!ENTITY enableTls10.label "Միացնել TLS 1.0 և 1.1">
 
