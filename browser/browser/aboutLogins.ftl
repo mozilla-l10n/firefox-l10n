@@ -27,6 +27,7 @@ menu =
     .title = Avaa valikko
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Tuo toisesta selaimesta…
+about-logins-menu-menuitem-import-from-a-file = Tuo tiedostosta…
 about-logins-menu-menuitem-export-logins = Vie kirjautumistiedot…
 menu-menuitem-preferences = Asetukset
 about-logins-menu-menuitem-help = Ohje
@@ -63,12 +64,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Etsitkö tallennettuja kirjautumistietojasi? Ota { -sync-brand-short-name } käyttöön.
+about-logins-login-intro-heading-logged-out = Etsitkö tallennettuja kirjautumistietojasi? Ota { -sync-brand-short-name } käyttöön tai tuo ne.
 about-logins-login-intro-heading-logged-in = Synkronoituja kirjautumistietoja ei löytynyt.
 login-intro-description = Jos tallensit kirjautumistietosi { -brand-product-name }-selaimeen toisella laitteella, saat ne käyttöön seuraavasti:
 login-intro-instruction-fxa = Luo tili tai kirjaudu { -fxaccount-brand-name(case: "allative") } laitteella, jolle kirjautumistietosi on tallennettu
 login-intro-instruction-fxa-settings = Varmista, että Kirjautumistiedot-valinta on rastitettu { -sync-brand-short-name }-asetuksissa
 about-logins-intro-instruction-help = Siirry <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-tukeen</a> saadaksesi ohjeita
 about-logins-intro-import = Jos kirjautumistietosi on tallennettu toiseen selaimeen, voit <a data-l10n-name="import-link">tuoda ne { -lockwise-brand-short-name }en</a>
+about-logins-intro-import2 = Jos kirjautumistietosi on tallennettu { -brand-product-name }-selaimen ulkopuolelle, voit <a data-l10n-name="import-browser-link">tuoda ne toisesta selaimesta</a> tai <a data-l10n-name="import-file-link">tiedostosta</a>
 
 ## Login
 
@@ -207,6 +210,9 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Tuo kirjautumistietojen tiedosto
+about-logins-import-file-picker-import-button = Tuo
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title =
