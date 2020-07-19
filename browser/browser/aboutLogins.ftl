@@ -133,6 +133,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = 匯出儲存的登�
 ## Master Password notification
 
 master-password-notification-message = 請輸入您的主控密碼，以檢視儲存的登入資訊
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = 請輸入您的主控密碼，以檢視儲存的登入資訊
 master-password-reload-button =
     .label = 登入
     .accesskey = L

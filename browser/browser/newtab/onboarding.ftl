@@ -19,9 +19,6 @@ onboarding-button-label-get-started = 開始使用
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = 歡迎使用 { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = 歡迎使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = 瀏覽器安裝完成。<br/>了解 { -brand-product-name } 的其他功能。
 onboarding-welcome-learn-more = 了解更多好處。
 onboarding-join-form-header = 加入 { -brand-product-name }
@@ -44,6 +41,18 @@ onboarding-start-browsing-button-label = 開始瀏覽
 onboarding-cards-dismiss =
     .title = 隱藏
     .aria-label = 隱藏
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = 歡迎使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-label = 登入
+onboarding-multistage-welcome-secondary-button-text = 已經有帳號了？
+onboarding-multistage-import-secondary-button-label = 現在不要
+onboarding-multistage-theme-secondary-button-label = 現在不要
+onboarding-multistage-theme-label-light = 亮色
+onboarding-multistage-theme-label-dark = 暗色
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.

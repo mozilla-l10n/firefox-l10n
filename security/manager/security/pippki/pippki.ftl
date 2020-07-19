@@ -8,7 +8,8 @@ password-quality-meter = 密碼品質測量計
 
 change-password-window =
     .title = 變更主控密碼
-
+change-device-password-window =
+    .title = 更改密碼
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = 安全裝置: { $tokenName }
@@ -21,9 +22,17 @@ change-password-reenter = 新密碼 (再輸入一次):
 reset-password-window =
     .title = 重設主控密碼
     .style = width: 40em
+pippki-failed-pw-change = 無法更改密碼。
+
+## Reset Primary Password dialog
+
+reset-primary-password-window =
+    .title = 重設主控密碼
+    .style = width: 40em
 reset-password-button-label =
     .label = 重設
 reset-password-text = 如果您要重設主控密碼，您所有的網頁與電子郵件密碼、表單資料、個人憑證、私密金鑰等資訊都會被清除。您確定要重設主控密碼嗎？
+pippki-reset-password-confirmation-title = 重設主控密碼
 
 ## Downloading cert dialog
 
