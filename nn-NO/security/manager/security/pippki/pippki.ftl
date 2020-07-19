@@ -23,14 +23,21 @@ reset-password-window =
     .title = Still tilbake hovudpassord
     .style = width: 40em
 pippki-failed-pw-change = Klarte ikkje å endre passord.
+pippki-incorrect-pw = Du skreiv ikkje inn rett gjeldande passord. Prøv igjen.
 pippki-pw-change-ok = Passordet er endra.
+pippki-pw-erased-ok = Passordet er no sletta. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Åtvaring! Du har valt å ikkje bruke eit passord. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Tilbakestill primærpassord
+    .style = width: 40em
 reset-password-button-label =
     .label = Still tilbake
 reset-password-text = Dersom du stiller tilbake hovudpassordet, vil alle nett- og e-post-passord, skjemadata, personlege sertifikat og private nøklar som er lagra gå tapt. Vil du stille tilbake hovudpassordet?
 pippki-reset-password-confirmation-title = Tilbakestill primærpassord
+pippki-reset-password-confirmation-message = Primærpassordet ditt er tilbakestilt.
 
 ## Downloading cert dialog
 
