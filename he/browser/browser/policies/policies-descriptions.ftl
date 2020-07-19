@@ -77,6 +77,7 @@ policy-LegacyProfiles = השבתת התכונה האוכפת פרופיל נפר
 
 policy-LocalFileLinks = לאפשר לאתרים מסויימים לקשר לקבצים מקומיים.
 policy-MasterPassword = לדרוש או למנוע שימוש בססמה ראשית.
+policy-PrimaryPassword = לדרוש או למנוע שימוש בססמה ראשית.
 policy-NetworkPrediction = הפעלה או השבתה של חיזוי רשתי (אחזור מוקדם באמצעות DNS).
 policy-NewTabPage = הפעלה או השבתה של דף הלשונית החדשה.
 policy-NoDefaultBookmarks = ביטול יצירת הסימניות המוגדרות כברירת מחדל עם { -brand-short-name }, ואת הסימניות החכמות (הנצפות ביותר, תגים אחרונים). הערה: מדיניות זו יעילה רק אם נעשה בה שימוש קודם להפעלה הראשונה של הפרופיל.
