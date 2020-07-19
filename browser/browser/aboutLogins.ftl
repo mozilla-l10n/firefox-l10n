@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportera sparade i
 ## Master Password notification
 
 master-password-notification-message = Ange ditt huvudlösenord för att se sparade inloggningar och lösenord
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Ange ditt huvudlösenord för att se sparade inloggningar och lösenord
 master-password-reload-button =
     .label = Logga in
     .accesskey = L
