@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Kom i gang
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Velkommen til { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Velkommen til <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Du har nettleseren.<br/>Møt resten av { -brand-product-name }.
 onboarding-welcome-learn-more = Les mer om fordelene.
 onboarding-join-form-header = Vær med { -brand-product-name }
@@ -44,6 +41,29 @@ onboarding-start-browsing-button-label = Start nettlesing
 onboarding-cards-dismiss =
     .title = Avslå
     .aria-label = Avslå
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Velkommen til <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-primary-button-label = Start oppsett
+onboarding-multistage-welcome-secondary-button-label = Logg inn
+onboarding-multistage-welcome-secondary-button-text = Har du allerede en konto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importer passord, bokmerker og <span data-l10n-name="zap">mer</span>
+onboarding-multistage-import-subtitle = Kommer du fra en annen nettleser? Det er enkelt å ta alt med til { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Start import
+onboarding-multistage-import-secondary-button-label = Ikke nå
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Velg et <span data-l10n-name="zap">utseende</span>
+onboarding-multistage-theme-subtitle = Tilpass { -brand-short-name } med et tema.
+onboarding-multistage-theme-primary-button-label = Lagre tema
+onboarding-multistage-theme-secondary-button-label = Ikke nå
+onboarding-multistage-theme-label-light = Lyst
+onboarding-multistage-theme-label-dark = Mørkt
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
