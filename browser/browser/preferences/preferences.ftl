@@ -1170,6 +1170,10 @@ space-alert-under-5gb-ok-button =
     .accesskey = р
 space-alert-under-5gb-message = { -brand-short-name } остаје без места на диску. Садржај веб сајта можда неће бити правилно приказан. Посетите “Сазнајте више” да оптимизујете коришћење диска за боље искуство прегледања.
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = HTTPS-Only режим
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Радна површина
