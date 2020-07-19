@@ -31,6 +31,7 @@ reset-password-button-label =
 reset-password-text = 마스터 비밀번호를 재설정하면 저장된 모든 웹, 이메일 비밀번호, 양식 데이터, 개인 인증서 및 개인 키에 접근하지 못하게 됩니다. 정말로 마스터 비밀번호를 재설정하시겠습니까?
 reset-primary-password-text = 기본 비밀번호를 재설정하면, 저장된 모든 웹, 이메일 비밀번호, 양식 데이터, 개인 인증서 및 개인 키에 접근하지 못하게 됩니다. 정말로 기본 비밀번호를 재설정하시겠습니까?
 pippki-reset-password-confirmation-title = 기본 비밀번호 재설정
+pippki-reset-password-confirmation-message = 기본 비밀번호가 재설정되었습니다.
 
 ## Downloading cert dialog
 
