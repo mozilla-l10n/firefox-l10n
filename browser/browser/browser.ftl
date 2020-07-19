@@ -228,6 +228,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = చిన్నదిచేయు
+browser-window-maximize-button =
+    .tooltiptext = పెద్దగించు
 browser-window-close-button =
     .tooltiptext = మూసివేయి
 
@@ -240,6 +242,12 @@ popup-select-microphone =
     .value = పంచుకోవాల్సిన మైక్రోఫోన్:
     .accesskey = M
 popup-all-windows-shared = మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.
+popup-screen-sharing-not-now =
+    .label = ఇప్పుడు కాదు
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = ఎప్పటికీ అనుమతించవద్దు
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
