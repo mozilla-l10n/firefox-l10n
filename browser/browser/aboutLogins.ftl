@@ -133,6 +133,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = 저장된 로그인
 ## Master Password notification
 
 master-password-notification-message = 저장된 로그인과 비밀번호를 보려면 마스터 비밀번호를 입력하세요
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = 저장된 로그인과 비밀번호를 보려면 기본 비밀번호를 입력하세요
 master-password-reload-button =
     .label = 로그인
     .accesskey = L
