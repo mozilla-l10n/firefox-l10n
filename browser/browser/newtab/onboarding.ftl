@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Kom i gang
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Velkomen til { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Velkomen til <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Du har nettlesaren.<br/>Møt resten av { -brand-product-name }.
 onboarding-welcome-learn-more = Les meir om fordelane.
 onboarding-join-form-header = Ver med { -brand-product-name } på ferda
@@ -44,6 +41,21 @@ onboarding-start-browsing-button-label = Start nettlesing
 onboarding-cards-dismiss =
     .title = Avvis
     .aria-label = Avvis
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Velkomen til <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-primary-button-label = Start oppsett
+onboarding-multistage-welcome-secondary-button-label = Logg inn
+onboarding-multistage-welcome-secondary-button-text = Har du allereie ein konto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importer passord, bokmerke og <span data-l10n-name="zap">meir</span>
+onboarding-multistage-import-subtitle = Kjem du frå ein annan nettlesar? Det er enkelt å ta alt med til { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Start Import
+onboarding-multistage-import-secondary-button-label = Ikkje no
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
