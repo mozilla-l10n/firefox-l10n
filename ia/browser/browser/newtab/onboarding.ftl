@@ -47,15 +47,37 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Benvenite in <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Le navigator del Web veloce, secur e reservate, supportate per un organisation non lucrative.
+onboarding-multistage-welcome-primary-button-label = Initia configurar
 onboarding-multistage-welcome-secondary-button-label = Aperir session
 onboarding-multistage-welcome-secondary-button-text = Ha tu un conto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importa contrasignos, marcapaginas e <span data-l10n-name="zap">altero ancora</span>
+onboarding-multistage-import-subtitle = Veni tu ab un altere navigator? Il es facile transferer toto a { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Initia importar
 onboarding-multistage-import-secondary-button-label = Non ora
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Elige un nove <span data-l10n-name="zap">apparentia</span>
+onboarding-multistage-theme-subtitle = Personalisa { -brand-short-name } per un thema.
+onboarding-multistage-theme-primary-button-label = Salvar le thema
+onboarding-multistage-theme-secondary-button-label = Non ora
+onboarding-multistage-theme-label-light = Clar
+onboarding-multistage-theme-label-dark = Obscur
+onboarding-multistage-theme-label-colorful = Colorate
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
 onboarding-import-sites-info =
     .title = Iste sitos ha essite trovate sur iste apparato. { -brand-short-name } non salva, ni synchronisa datos de un altere navigator a minus que tu selige importar los.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Como initiar: pagina { $current } de { $total }
 
 ## Welcome full page string
 
