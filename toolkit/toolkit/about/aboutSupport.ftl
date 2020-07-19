@@ -14,7 +14,10 @@ extensions-name = Naziv
 extensions-enabled = Omogućeno
 extensions-version = Verzija
 extensions-id = ID
+support-addons-title = Dodaci
 support-addons-name = Naziv
+support-addons-type = Vrsta
+support-addons-enabled = Aktivirano
 support-addons-version = Verzija
 support-addons-id = ID
 security-software-title = Sigurnosni softver
@@ -34,6 +37,7 @@ app-basics-title = Osnove aplikacije
 app-basics-name = Naziv
 app-basics-version = Verzija
 app-basics-build-id = Build ID
+app-basics-distribution-id = ID distribucije
 app-basics-update-channel = Kanal nadogradnje
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -73,6 +77,9 @@ show-dir-label =
         [windows] Otvori mapu
        *[other] Otvori direktorij
     }
+experimental-features-title = Eksperimentalne funkcije
+experimental-features-name = Ime
+experimental-features-value = Vrijednost
 modified-key-prefs-title = Važne izmijenjene postavke
 modified-prefs-name = Naziv
 modified-prefs-value = Vrijednost
@@ -118,6 +125,11 @@ sandbox-sys-call-number = Poziv sustava
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Pokušaj siguran način rada
 restart-in-safe-mode-label = Ponovo pokreni s isključenim dodacima …
+clear-startup-cache-title = Pokušaj poništiti predmemoriju pokretanja
+clear-startup-cache-label = Poništi predmemoriju pokretanja …
+startup-cache-dialog-title = Poništi predmemoriju pokretanja
+startup-cache-dialog-body = Za poništavanje predmemorije pokretanja, ponovo pokreni { -brand-short-name }. Ovo neće promijeniti tvoje { -brand-short-name } postavke niti ukloniti dodana proširenja.
+restart-button-label = Pokreni ponovo
 
 ## Media titles
 
@@ -295,6 +307,11 @@ sandbox-proc-type-content = sadržaj
 sandbox-proc-type-file = sadržaj datoteke
 sandbox-proc-type-media-plugin = priključak za medije
 sandbox-proc-type-data-decoder = dekoder podataka
+startup-cache-title = Predmemorija pokretanja
+startup-cache-disk-cache-path = Staza predmemorije diska
+startup-cache-ignore-disk-cache = Zanemari predmemoriju diska
+startup-cache-found-disk-cache-on-init = Pronađena je predmemorija diska pri inicijaliziranju
+startup-cache-wrote-to-disk-cache = Zapisano u predmemoriju diska
 launcher-process-status-0 = Omogućeno
 launcher-process-status-1 = Onemogućeno zbog kvara
 launcher-process-status-2 = Prisilno onemogućeno
