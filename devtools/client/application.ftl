@@ -85,6 +85,10 @@ manifest-view-header = App Manifest
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Você precisa adicionar um Manifest de app web para ser inspecionado aqui. <a>Saiba mais</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Nenhum manifest de aplicativo web detectado
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Saiba como adicionar um manifest
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Errors and Warnings
 # Header for the Identity section of Manifest inspection displayed in the application panel.
