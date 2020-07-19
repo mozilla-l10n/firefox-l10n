@@ -8,7 +8,8 @@ password-quality-meter = Kwalitne měritko hesła
 
 change-password-window =
     .title = Hłowne hesło změnić
-
+change-device-password-window =
+    .title = Hesło změnić
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Wěstotny grat: { $tokenName }
@@ -21,9 +22,21 @@ change-password-reenter = Nowe hesło (hišće raz):
 reset-password-window =
     .title = Hłowne hesło wróćo stajić
     .style = width: 40em
+pippki-failed-pw-change = Njeje móžno, hesło změnić.
+pippki-incorrect-pw = Njejsće prawe hesło zapodał. Prošu spytajće hišće raz.
+pippki-pw-change-ok = Hesło je so wuspěšnje změniło.
+
+## Reset Primary Password dialog
+
+reset-primary-password-window =
+    .title = Hłowne hesło wróćo stajić
+    .style = width: 40em
 reset-password-button-label =
     .label = Wróćo stajić
 reset-password-text = Jeli swoje hłowne hesło wróćo stajiće, zabudu se wšě waše skadowane webowe a e-mejlowe hesła, formularne daty, wosobinski certifikata a priwatne kluče. Chceće woprawdźe swoje hłowne hesło wróćo stajić?
+reset-primary-password-text = Jeli swoje hłowne hesło wróćo stajiće, zabudu se wšě waše skadowane webowe a e-mejlowe hesła, wosobinski certifikata a priwatne kluče. Chceće woprawdźe swoje hłowne hesło wróćo stajić?
+pippki-reset-password-confirmation-title = Hłowne hesło wróćo stajić
+pippki-reset-password-confirmation-message = Waše hłowne hesło je so wróćo stajiło.
 
 ## Downloading cert dialog
 
