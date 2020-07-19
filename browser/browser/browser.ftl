@@ -281,6 +281,8 @@ sharing-warning-window = Dijeliš { -brand-short-name }. Drugi ljudi mogu vidjet
 sharing-warning-screen = Dijeliš svoj cijeli ekran. Drugi ljudi mogu vidjeti kad se prebaciš na novu karticu.
 sharing-warning-proceed-to-tab =
     .label = Prijeđi na karticu
+sharing-warning-disable-for-session =
+    .label = Deaktiviraj zaštitu dijeljenja za ovu sesiju
 
 ## DevTools F12 popup
 
