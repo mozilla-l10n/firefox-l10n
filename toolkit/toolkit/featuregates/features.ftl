@@ -16,3 +16,7 @@ experimental-features-web-gpu-description = Eksperimentinis API, skirtas grafika
 # by various online articles and is technical in nature.
 experimental-features-avif =
     .label = AVIF
+experimental-features-avif-description = Eksperimentinis AVIF palaikymas: „AV1 Image File Format“
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Slapukai: SameSite=Lax (numatyta)
