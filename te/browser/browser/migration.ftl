@@ -81,10 +81,27 @@ imported-edge-reading-list = చదవాల్సిన జాబితా (ఎ
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = కుకీలు
+browser-data-cookies-label =
+    .value = కుకీలు
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] విహరణ చరిత్ర, ఇష్టాంశాలు
+           *[other] విహరణ చరిత్ర
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] విహరణ చరిత్ర, ఇష్టాంశాలు
+           *[other] విహరణ చరిత్ర
+        }
 browser-data-session-checkbox =
     .label = విండోలు, ట్యాబులు
 browser-data-session-label =
