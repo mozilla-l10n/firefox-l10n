@@ -31,6 +31,7 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-manualInstruction = Contactează partenerul de conversație intenționat prin intermediul unui alt canal autentificat, cum ar fi un e-mail semnat OpenPGP sau prin telefon. Ar trebui să vă spuneți reciproc amprentele. (Amprenta este o sumă de control care identifică o cheie de criptare.) Dacă amprenta este potrivită, ar trebui să indici în dialogul de mai jos că ai verificat amprenta.
 auth-how = Cum ai vrea să verifici identitatea contactului tău?
 auth-qaInstruction = Gândește-te la o întrebare la care numai tu și contactului tău știți răspunsul. Introdu întrebarea și răspunde, apoi așteaptă să introducă și contactul tău răspunsul. Dacă răspunsurile nu corespund, canalul de comunicare pe care îl utilizezi poate fi supravegheat.
 auth-secretInstruction = Gândește-te la un secret cunoscut numai de tine și contactul tău. Nu folosiți aceeași conexiune la Internet pentru a schimba secretul între voi. Introdu secretul, apoi așteaptă să îl introducă și contactul tău. Dacă secretele nu se potrivesc, canalul de comunicare pe care îl utilizați poate fi supravegheat.
