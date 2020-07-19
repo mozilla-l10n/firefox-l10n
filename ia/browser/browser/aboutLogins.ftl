@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = exporta credentiale
 ## Master Password notification
 
 master-password-notification-message = Insere tu contrasigno maestro pro vider le credentiales e contrasignos salvate
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Insere tu contrasigno primari pro vider le credentiales e contrasignos salvate
 master-password-reload-button =
     .label = Aperir session
     .accesskey = A

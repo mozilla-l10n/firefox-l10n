@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Comencia
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Benvenite a { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Benvenite in <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Tu ha recipite le navigator.<br/>Obtene le resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Saper plus re le beneficios.
 onboarding-join-form-header = Junge te a { -brand-product-name }
@@ -44,6 +41,15 @@ onboarding-start-browsing-button-label = Comencia a navigar
 onboarding-cards-dismiss =
     .title = Dimitter
     .aria-label = Dimitter
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Benvenite in <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-label = Aperir session
+onboarding-multistage-welcome-secondary-button-text = Ha tu un conto?
+onboarding-multistage-import-secondary-button-label = Non ora
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
