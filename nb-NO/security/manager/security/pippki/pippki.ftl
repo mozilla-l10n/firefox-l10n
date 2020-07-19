@@ -8,7 +8,8 @@ password-quality-meter = Kvalitetsmåling av passord
 
 change-password-window =
     .title = Endre hovedpassord
-
+change-device-password-window =
+    .title = Endre passord
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sikkerhetsenhet: { $tokenName }
@@ -21,6 +22,12 @@ change-password-reenter = Nytt passord (igjen):
 reset-password-window =
     .title = Tilbakestill hovedpassord
     .style = width: 40em
+pippki-failed-pw-change = Klarte ikke å endre passord.
+pippki-incorrect-pw = Du skrev ikke inn riktig gjeldende passord. Prøv igjen.
+pippki-pw-change-ok = Passordet er endret.
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Tilbakestill
 reset-password-text = Dersom du tilbakestiller hovedpassordet vil alle lagrede nettside- og e-postpassord, skjemadata, personlige sertifikater og private nøkler gå tapt. Er du sikker på at du vil tilbakestille hovedpassordet?
