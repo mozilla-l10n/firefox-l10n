@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = export saved logins
 ## Master Password notification
 
 master-password-notification-message = Please enter your master password to view saved logins & passwords
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Please enter your Primary Password to view saved logins & passwords
 master-password-reload-button =
     .label = Log in
     .accesskey = L
