@@ -8,7 +8,8 @@ password-quality-meter = Medidor de qualidade da senha
 
 change-password-window =
     .title = Alterar senha mestra
-
+change-device-password-window =
+    .title = Alterar senha
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de segurança: { $tokenName }
@@ -21,6 +22,10 @@ change-password-reenter = Confirmar a nova senha:
 reset-password-window =
     .title = Redefinir senha mestra
     .style = width: 40em
+pippki-failed-pw-change = Não foi possível alterar a senha.
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Redefinir
 reset-password-text = Se redefinir a senha mestra, todas as suas senhas de sites e e-mails, dados de formulários, certificados pessoais e chaves privadas serão esquecidas. Tem certeza que quer redefinir sua senha mestra?
