@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Certifikacijsko tijelo
 certificate-viewer-cipher-suite = Skup šifratora
 certificate-viewer-common-name = Uobičajeni naziv
 certificate-viewer-email-address = Adresa e-pošte
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Certifikat za { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Država osnivanja
 certificate-viewer-country = Država
@@ -97,6 +100,11 @@ certificate-viewer-download-pem = PEM (certifikat)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (lanac)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Ovaj dodatak je označen kao kritičan, što znači da klijenti moraju odbaciti certifikat ukoliko ga ne razumiju.
+certificate-viewer-export = Izvoz
+    .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
