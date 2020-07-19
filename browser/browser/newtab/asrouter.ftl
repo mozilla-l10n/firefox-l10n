@@ -249,3 +249,11 @@ cfr-whatsnew-protections-icon-alt = Ikona štita
 
 cfr-whatsnew-better-pdf-header = Bolje PDF iskustvo
 cfr-whatsnew-better-pdf-body = PDF dokumenti se sada otvaraju izravno u { -brand-short-name }, što olakšava rad.
+
+## DOH Message
+
+cfr-doorhanger-doh-secondary-button = Deaktiviraj
+    .accesskey = D
+
+## What's new: Cookies message
+

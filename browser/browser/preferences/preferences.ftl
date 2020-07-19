@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } eksperimenti
 category-experimental =
     .tooltiptext = { -brand-short-name } eksperimenti
 pane-experimental-subtitle = Nastavi s oprezom
+pane-experimental-search-results-header = { -brand-short-name } eksperimenti: Nastavi s oprezom
 help-button-label = { -brand-short-name } podrška
 addons-button-label = Proširenja i teme
 focus-search =
@@ -506,7 +507,6 @@ home-prefs-topsites-description = Stranice koje najviše posjećujete
 
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
-home-prefs-recommended-by-description = Vrhunski sadržaj iz svih krajeva interneta, presonaliziran za tebe
 
 ##
 
@@ -570,7 +570,6 @@ search-show-suggestions-above-history-option =
     .label = U adresnoj traci prikaži prijedloge za pretraživanje prije povijesti pregledavanja
 search-show-suggestions-private-windows =
     .label = Prikaži prijedloge za pretraživanje u privatnim prozorima
-suggestions-addressbar-settings = Promijeni postavke za povijest pregledavanja, zabilješke i prijedloge za kartice
 search-suggestions-cant-show = Prijedlozi pretraživanja neće biti prikazani u lokacijskoj traci, jer je { -brand-short-name } podešen, da ne pamti povijest.
 search-one-click-header = Tražilice jednim klikom
 search-one-click-desc = Odaberi alternativne tražilice, koje će se pojaviti ispod adresne trake i trake pretraživanja kad počneš upisivati pojmove.
@@ -1162,6 +1161,18 @@ space-alert-under-5gb-ok-button =
     .label = U redu, razumijem
     .accesskey = U
 space-alert-under-5gb-message = { -brand-short-name }u ponestaje memorije. Sadržaji stranica se možda neće dobro prikazati. Posjeti „Saznaj više” za optimiranje korištenja memorije za bolje iskustvo tijekom pregledavanja.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Samo HTTPS modus
+httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između { -brand-short-name } i web-stranica koje posjećuješ. Većina web-stranica podržava HTTPS, a ako je samo HTTPS modus aktiviran, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
+httpsonly-learn-more = Saznaj više
+httpsonly-radio-enabled =
+    .label = Aktiviraj samo HTTPS modus u svim prozorima
+httpsonly-radio-enabled-pbm =
+    .label = Aktiviraj samo HTTPS modus samo u privatnim prozorima
+httpsonly-radio-disabled =
+    .label = Nemoj aktivirati samo HTTPS modus
 
 ## The following strings are used in the Download section of settings
 
