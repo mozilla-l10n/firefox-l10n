@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Бастау
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span> ішіне қош келдіңіз
 onboarding-welcome-body = Браузеріңіз бар.<br/>{ -brand-product-name } қалған бөлігімен танысыңыз.
 onboarding-welcome-learn-more = Артықшылықтары туралы көбірек біліңіз.
 onboarding-join-form-header = { -brand-product-name } қоғамдастығына қосылыңыз
@@ -44,6 +41,22 @@ onboarding-start-browsing-button-label = Шолуды бастау
 onboarding-cards-dismiss =
     .title = Тайдыру
     .aria-label = Тайдыру
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span> ішіне қош келдіңіз
+onboarding-multistage-welcome-primary-button-label = Баптауды бастау
+onboarding-multistage-welcome-secondary-button-label = Кіру
+onboarding-multistage-welcome-secondary-button-text = Тіркелгіңіз бар ма?
+onboarding-multistage-import-primary-button-label = Импорттауды бастау
+onboarding-multistage-import-secondary-button-label = Қазір емес
+onboarding-multistage-theme-primary-button-label = Теманы сақтау
+onboarding-multistage-theme-secondary-button-label = Қазір емес
+onboarding-multistage-theme-label-light = Ашық түсті
+onboarding-multistage-theme-label-dark = Күңгірт түсті
+onboarding-multistage-theme-label-colorful = Түрлі түсті
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.

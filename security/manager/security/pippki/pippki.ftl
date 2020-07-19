@@ -8,7 +8,8 @@ password-quality-meter = Пароль сапасы
 
 change-password-window =
     .title = Мастер-парольді ауыстыру
-
+change-device-password-window =
+    .title = Парольді өзгерту
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Қорғаныс құрылғысы: { $tokenName }
@@ -21,6 +22,9 @@ change-password-reenter = Жаңа пароль (қайтадан):
 reset-password-window =
     .title = Мастер-парольді тастау
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Тастау
 reset-password-text = Мастер-пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар және жеке кілттер жоғалып кетеді. Мастер-пароліңізді тастауды шынымен қалайсыз ба?

@@ -133,6 +133,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = сақталған 
 ## Master Password notification
 
 master-password-notification-message = Сақталған логиндер мен парольдері қарау үшін басты парольді енгізіңіз
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Сақталған логиндер мен парольдері қарау үшін басты парольді енгізіңіз
 master-password-reload-button =
     .label = Кіру
     .accesskey = к
