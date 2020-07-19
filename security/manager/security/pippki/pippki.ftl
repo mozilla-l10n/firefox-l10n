@@ -38,6 +38,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Redefinir
 reset-password-text = Se redefinir a senha mestra, todas as suas senhas de sites e e-mails, dados de formulários, certificados pessoais e chaves privadas serão esquecidas. Tem certeza que quer redefinir sua senha mestra?
+reset-primary-password-text = Se você redefinir a senha principal, todas as suas senhas de sites e e-mails, chaves privadas e certificados pessoais armazenados serão esquecidos. Tem certeza que quer redefinir sua senha principal?
+pippki-reset-password-confirmation-title = Redefinir senha principal
+pippki-reset-password-confirmation-message = Sua senha principal foi redefinida.
 
 ## Downloading cert dialog
 
