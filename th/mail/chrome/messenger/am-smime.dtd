@@ -14,11 +14,19 @@
 <!ENTITY encryptionCert.message "ใช้ใบรับรองนี้เพื่อเข้าและถอดรหัสข้อความที่ถูกส่งถึงคุณ:">
 
 <!ENTITY e2eTitle.label "การเข้ารหัสแบบครอบคลุม">
+<!ENTITY e2eIntro.description "หากต้องการส่งข้อความที่เข้ารหัสหรือลงลายเซ็นแบบดิจิทัล คุณจำเป็นต้องกำหนดค่าเทคโนโลยีการเข้ารหัสทั้ง OpenPGP หรือ S/MIME">
 <!ENTITY e2eLearnMore.label "เรียนรู้เพิ่มเติม">
 
+<!ENTITY e2eEnc.description "หากไม่มีการเข้ารหัสแบบครอบคลุม เนื้อหาของข้อความต่าง ๆ จะถูกเปิดเผยต่อผู้ให้บริการอีเมลของคุณและผู้สอดแนมสาธารณะจำนวนมากอย่างง่ายดาย">
+<!ENTITY e2eeReqWarning.description "หากคุณจำเป็นต้องใช้การเข้ารหัส เมื่อต้องการส่งข้อความ คุณต้องมีคีย์สาธารณะหรือใบรับรองของผู้รับทุกคน">
 
+<!ENTITY e2eSigning.description "ลายเซ็นดิจิทัลช่วยให้ผู้รับสามารถตรวจสอบความถูกต้องของข้อความที่ส่งจากคุณ และเนื้อหาดังกล่าวไม่มีการเปลี่ยนแปลงใด">
 <!ENTITY e2eTechPref.description "เทคโนโลยีการเข้ารหัสที่ต้องการ:">
 
+<!ENTITY doNotEncrypt.label "ไม่ต้องเปิดใช้งานการเข้ารหัสตามค่าเริ่มต้น">
+<!ENTITY doNotEncrypt.accesskey "ม">
+<!ENTITY requireEncryptMessage.label "จำเป็นต้องมีการเข้ารหัสตามค่าเริ่มต้น">
+<!ENTITY requireEncryptMessage.accesskey "จ">
 <!ENTITY encryptionCert2.message "ใบรับรองส่วนตัวสำหรับการเข้ารหัส:">
 <!ENTITY digitalSign.certificate.button "เลือก…">
 <!ENTITY digitalSign.certificate.accesskey "ล">
@@ -42,7 +50,9 @@
 
 <!ENTITY signingCert2.message "ใบรับรองส่วนตัวสำหรับการลงลายเซ็นแบบดิจิทัล:">
 
+<!ENTITY sendingDefaults.label "การตั้งค่าเริ่มต้นสำหรับการส่งข้อความ">
 
+<!ENTITY technologyAutomatic.label "เลือกตามคีย์หรือใบรับรองที่ใช้ได้โดยอัตโนมัติ">
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "จัดการใบรับรอง S/MIME">
