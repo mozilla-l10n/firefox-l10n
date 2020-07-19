@@ -807,10 +807,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Використовувати головний пароль
     .accesskey = г
+forms-primary-pw-use =
+    .label = Використовувати головний пароль
+    .accesskey = г
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Змінити головний пароль…
     .accesskey = і
 forms-master-pw-fips-title = Ви працюєте в режимі відповідності FIPS. При роботі в цьому режимі потрібно, щоб головний пароль не був порожній.
+forms-primary-pw-change =
+    .label = Змінити головний пароль…
+    .accesskey = і
+forms-primary-pw-fips-title = Зараз ви в режимі FIPS. Для цього режиму необхідний головний пароль.
 forms-master-pw-fips-desc = Не вдалося змінити пароль
 
 ## OS Authentication dialog
@@ -822,6 +832,13 @@ master-password-os-auth-dialog-message-win = Щоб створити голов�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = створити головний пароль
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Щоб створити головний пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = створити головний пароль
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

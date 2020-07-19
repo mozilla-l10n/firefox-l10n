@@ -135,6 +135,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = експортув�
 ## Master Password notification
 
 master-password-notification-message = Введіть головний пароль, щоб переглянути збережені дані входу і паролі
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Введіть головний пароль, щоб переглянути збережені дані входу і паролі
 master-password-reload-button =
     .label = Увійти
     .accesskey = в
