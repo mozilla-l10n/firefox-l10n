@@ -34,6 +34,7 @@ experimental-features-abouthome-startup-cache-description = Gyorsítótár a kez
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Az azonos domainból származó, de más sémájú (például http://example.com és https://example.com) webhelyek közöttiként kezelése azonos webhelyről származó helyett. Ez növeli a biztonságot, de hibákhoz is vezethet.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-serviceworker-debugger-support =
     .label = Fejlesztői eszközök: Hibakeresés a Service Workerekben
