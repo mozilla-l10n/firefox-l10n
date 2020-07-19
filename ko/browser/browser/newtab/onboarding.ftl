@@ -47,14 +47,17 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span>에 오신 것을 환영합니다
+onboarding-multistage-welcome-subtitle = 비영리 단체가 지원하는, 빠르고 안전하며 사생활 보호를 위한 브라우저입니다.
 onboarding-multistage-welcome-primary-button-label = 설정 시작
 onboarding-multistage-welcome-secondary-button-label = 로그인
 onboarding-multistage-welcome-secondary-button-text = 계정이 있으십니까?
+onboarding-multistage-import-subtitle = 다른 브라우저에서 오셨나요? 모든 것을 { -brand-short-name }에 쉽게 가져올 수 있습니다.
 onboarding-multistage-import-primary-button-label = 가져오기 시작
 onboarding-multistage-import-secondary-button-label = 나중에
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = <span data-l10n-name="zap">외양</span>을 선택하세요
+onboarding-multistage-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
 onboarding-multistage-theme-primary-button-label = 테마 저장
 onboarding-multistage-theme-secondary-button-label = 나중에
 onboarding-multistage-theme-label-light = 밝게
@@ -70,6 +73,12 @@ onboarding-import-sites-info =
         { -brand-short-name }는 다른 브라우저로부터
         데이터를 저장하거나 동기화하지 않습니다.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = 시작하기:  { $current } / { $total } 화면
 
 ## Welcome full page string
 
