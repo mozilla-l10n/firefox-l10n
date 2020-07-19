@@ -11,6 +11,7 @@ pw-empty-warning = ססמאות הדוא״ל והאתרים, נתוני הטפס
 pw-erased-ok = הססמה הראשית שלך נמחקה. { pw-empty-warning }
 pw-not-wanted = אזהרה! בחרת שלא להשתמש בססמה ראשית. { pw-empty-warning }
 pw-change2empty-in-fips-mode = הינך כרגע במצב FIPS. ‏FIPS דורש ססמה ראשית לא־ריקה.
+pp-change2empty-in-fips-mode = מצבך כרגע הוא FIPS. ‏FIPS דורש ססמה ראשית לא־ריקה.
 pw-change-success-title = הססמה שונתה בהצלחה
 pw-change-failed-title = שינוי הססמה נכשל
 pw-remove-button =
