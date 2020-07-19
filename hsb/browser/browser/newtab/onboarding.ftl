@@ -49,8 +49,14 @@ onboarding-cards-dismiss =
 onboarding-multistage-welcome-header = Witajće k <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-secondary-button-label = Přizjewić
 onboarding-multistage-welcome-secondary-button-text = Maće konto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importujće swoje hesła, zapołožki a <span data-l10n-name="zap">wjace</span>
 onboarding-multistage-import-primary-button-label = Import započeć
 onboarding-multistage-import-secondary-button-label = Nic nětko
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Wubjerće <span data-l10n-name="zap">napohlad</span>
 onboarding-multistage-theme-subtitle = Personalizujće { -brand-short-name } z drastu.
 onboarding-multistage-theme-primary-button-label = Drastu składować
 onboarding-multistage-theme-secondary-button-label = Nic nětko
@@ -67,6 +73,12 @@ onboarding-import-sites-info =
         druheho wobhladowaka njeskładuje abo njesynchronizuje
         chibazo je importujeće.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Prěnje kroki: wobrazowka { $current } z { $total }
 
 ## Welcome full page string
 

@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } zakazać, studije wuwjesć.
 policy-DisableForgetButton = Přistup na tłóčatko Zabyć zakazać.
 policy-DisableFormHistory = Pytansku a formularnu historiju sej njespomjatkować
 policy-DisableMasterPasswordCreation = Jeli wěrno, njeda so hłowne hesło wutworić.
+policy-DisablePrimaryPasswordCreation = Jeli to trjechi, njeda so hłowne hesło wutworić.
 policy-DisablePasswordReveal = Njedowolić, zo so hesła w składowanych přizjewjenjach pokazuja
 policy-DisablePocket = Funkciju składowanja webstronow do Pocket znjemóžnić.
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžnić.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Zestarjene zadźeržen
 
 policy-LocalFileLinks = Wěstym websydłam dowolić, na lokalne dataje wotkazać.
 policy-MasterPassword = Hłowne hesło požadać abo jeho wužiwanju zadźěwać
+policy-PrimaryPassword = Hłowne hesło požadać abo jeho wužiwanju zadźěwać
 policy-NetworkPrediction = Syćowe předzačitanje (DNS-předzačitanje) zmóžnić abo znjemóžnić.
 policy-NewTabPage = Stronu noweho rajtarka zmóžnić abo znjemóžnić.
 policy-NoDefaultBookmarks = Wutworjenje standardnych zapołožkow { -brand-short-name } znjemóžnić, a inteligentnych zapołožkow (najhusćišo wopytane, tuchwilne znački). Kedźbu: Tute prawidło so jenož wuskutkuje, hdyž jo před prěnim startom profila wužiwaće.

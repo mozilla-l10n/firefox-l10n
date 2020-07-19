@@ -811,10 +811,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Hłowne hesło wužiwać
     .accesskey = o
+forms-primary-pw-use =
+    .label = Hłowne hesło wužiwać
+    .accesskey = H
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Hłowne hesło změnić…
     .accesskey = m
 forms-master-pw-fips-title = Sće tuchwilu we FIPS-modusu. FIPS sej hłowne hesło žada.
+forms-primary-pw-change =
+    .label = Hłowne hesło změnić…
+    .accesskey = z
+forms-primary-pw-fips-title = Sće tuchwilu we FIPS-modusu. FIPS sej hłowne hesło žada.
 forms-master-pw-fips-desc = Změnjenje hesła njeje so poradźiło
 
 ## OS Authentication dialog
@@ -826,6 +836,13 @@ master-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske dat
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = hłowne hesło wutworić
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće hłowne hesło wutworił. To wěstotu wašich kontow škita.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Hłowne hesło wutworić
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
