@@ -45,5 +45,6 @@ remove-info =
 remove-warning1 = הססמה הראשית שלך מגינה על מידע רגיש כמו ססמאות לאתרים.
 remove-warning2 = אם תסיר את הססמה הראשית שלך, המידע שלך לא ישמר אם תהיה לך פריצה למחשב.
 remove-primary-password-warning1 = הססמה הראשית שלך מגינה על מידע רגיש כמו כניסות וססמאות.
+remove-primary-password-warning2 = הסרת הססמה הראשית שלך תוביל לכך שהנתונים שלך לא יהיו מוגנים במקרה של פריצה למחשב.
 remove-password-old-password =
     .value = ססמה נוכחית:
