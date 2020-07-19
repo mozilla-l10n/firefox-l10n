@@ -38,3 +38,5 @@ experimental-features-cookie-samesite-schemeful-description = განისა
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-serviceworker-debugger-support =
     .label = DevTools: Service Worker-ის გამართვა
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = ჩართავს საცდელ მხარდაჭერას Service Workers-ისთვის DevTools-ის გასამართ არეში. შესაძლოა, ამ შესაძლებლობამ შეანელოს DevTools და გაზარდოს მეხსიერების მოხმარება.
