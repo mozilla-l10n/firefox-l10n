@@ -24,6 +24,7 @@ policy-Cookies = Dopustite ili zabranite web stranicama da postavljaju kolačić
 policy-DisabledCiphers = Deaktiviraj šifre.
 policy-DefaultDownloadDirectory = Postavite zadanu mapu za preuzimanje datoteka.
 policy-DisableAppUpdate = Spriječi { -brand-short-name } da se ažurira.
+policy-DisableDefaultClientAgent = Spriječi zadanog agenta klijenta da poduzima bilo kakve radnje. Primjenjivo samo na Windows sustav, druge platforme nemaju agenta.
 policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija iz izbornika pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
 policy-DisableForgetButton = Spriječite pristup tipki Zaboravi.
