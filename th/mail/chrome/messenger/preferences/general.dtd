@@ -43,3 +43,5 @@
 <!ENTITY removeSearchEngine.label         "เอาออก">
 <!ENTITY removeSearchEngine.accesskey     "อ">
 
+<!ENTITY minimizeToTray.label             "เมื่อย่อ &brandShortName; ให้เล็กสุดแล้ว ให้ย้ายไปที่ถาด">
+<!ENTITY minimizeToTray.accesskey         "ย">
