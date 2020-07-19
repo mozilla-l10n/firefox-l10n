@@ -803,10 +803,19 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Bruk eit hovudpassord
     .accesskey = r
+forms-primary-pw-use =
+    .label = Bruk eit primært passord
+    .accesskey = B
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Endre hovudpassord…
     .accesskey = d
 forms-master-pw-fips-title = Du er i FIPS-modus. FIPS krev at du brukar eit hovudpassord.
+forms-primary-pw-change =
+    .label = Endre primærpassord…
+    .accesskey = E
 forms-master-pw-fips-desc = Mislykka passordendring
 
 ## OS Authentication dialog
@@ -818,6 +827,11 @@ master-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen 
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = opprette eit hovudpassord
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = lag eit primærpassord
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
