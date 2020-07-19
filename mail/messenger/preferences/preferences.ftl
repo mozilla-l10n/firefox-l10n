@@ -46,6 +46,17 @@ collection-description = Želimo ti omogućiti izbor i prikupljamo samo onoliko 
 collection-privacy-notice = Napomena o privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš { -vendor-short-name }u snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci bit će izbrisani u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznaj više
+collection-health-report =
+    .label = Dozvoli { -brand-short-name }u slati tehničke podatke i podatke o interakcijama organizaciji { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Saznaj više
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Izvještavanje podataka je deaktivirano za ovu konfiguraciju izgradnje
+collection-backlogged-crash-reports =
+    .label = Dozvoli { -brand-short-name }u slati zapise o rušenju u tvoje ime
+    .accesskey = z
+collection-backlogged-crash-reports-link = Saznaj više
 privacy-security-header = Sigurnost
 privacy-scam-detection-title = Otkrivanje prevara
 privacy-anti-virus-title = Antivirus
@@ -148,6 +159,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Prikaži ikonu u sistemskoj traci
     .accesskey = s
+mail-system-sound-label =
+    .label = Standardni zvuk sustava za novu poštu
+    .accesskey = S
 mail-custom-sound-label =
     .label = Koristi sljedeću zvučnu datoteku
     .accesskey = u
@@ -658,9 +672,32 @@ chat-variant-label =
 chat-header-label =
     .label = Prikaži zaglavlje
     .accesskey = z
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Nađi u mogućnostima
+           *[other] Nađi u postavkama
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Rezultati pretrage
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Žao nam je! U mogućnostima nema rezultata za „<span data-l10n-name="query"></span>”.
+       *[other] Žao nam je! U postavkama nema rezultata za „<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Trebaš pomoć? Posjeti <a data-l10n-name="url">{ -brand-short-name } podršku</a>
 
 ## Preferences UI Search Results
 
