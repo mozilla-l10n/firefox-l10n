@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = mentett bejelentkez
 ## Master Password notification
 
 master-password-notification-message = Adja meg a mesterjelszavát a mentett bejelentkezések és jelszavak megtekintéséhez
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Adja meg az elsődleges jelszavát a mentett bejelentkezések és jelszavak megtekintéséhez
 master-password-reload-button =
     .label = Bejelentkezés
     .accesskey = B

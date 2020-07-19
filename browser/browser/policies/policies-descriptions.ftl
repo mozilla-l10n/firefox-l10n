@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Annak a megakadályozása, hogy a { -brand-short-
 policy-DisableForgetButton = Az Elfelejtés gombhoz hozzáférés megakadályozása.
 policy-DisableFormHistory = Ne jegyezze meg a keresőmezők és űrlapmezők előzményeit.
 policy-DisableMasterPasswordCreation = Ha igaz, akkor nem hozható létre mesterjelszó.
+policy-DisablePrimaryPasswordCreation = Ha igaz, akkor nem hozható létre elsődleges jelszó.
 policy-DisablePasswordReveal = Ne engedje, hogy a mentet bejelentkezésekben szereplő jelszavak megjelenítésre kerüljenek.
 policy-DisablePocket = A weboldalak Pocketbe mentését biztosító funkció letiltása.
 policy-DisablePrivateBrowsing = Privát böngészés letiltása.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = A sütik örökölt Sa
 
 policy-LocalFileLinks = Lehetővé teszi, hogy bizonyos webhelyek helyi fájlokra hivatkozzanak.
 policy-MasterPassword = Mesterjelszó használatának előírása vagy megakadályozása.
+policy-PrimaryPassword = Elsődleges jelszó használatának előírása vagy megakadályozása.
 policy-NetworkPrediction = Hálózati előrejelzés engedélyezése vagy letiltása (DNS előhívás).
 policy-NewTabPage = Az Új lap oldal engedélyezése vagy letiltása.
 policy-NoDefaultBookmarks = A { -brand-short-name }szal szállított alapértelmezett könyvjelzők és okos könyvjelzők (Legtöbbet látogatott, Friss címkék) létrehozásának letiltása. Megjegyzés: ez a házirend csak a profil első futtatása előtt van érvényben.

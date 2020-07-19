@@ -803,10 +803,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Mesterjelszó használata
     .accesskey = M
+forms-primary-pw-use =
+    .label = Elsődleges jelszó használata
+    .accesskey = E
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Mesterjelszó megváltoztatása…
     .accesskey = z
 forms-master-pw-fips-title = Jelenleg FIPS-módban van. A FIPS-hez kötelező nem üres mesterjelszót megadni.
+forms-primary-pw-change =
+    .label = Elsődleges jelszó megváltoztatása…
+    .accesskey = m
+forms-primary-pw-fips-title = Jelenleg FIPS-módban van. A FIPS-hez nem üres elsődleges jelszó szükséges.
 forms-master-pw-fips-desc = Sikertelen jelszóváltoztatás
 
 ## OS Authentication dialog
@@ -818,6 +828,13 @@ master-password-os-auth-dialog-message-win = Mesterjelszó létrehozásához ír
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = mesterjelszót hozzon létre
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Elsődleges jelszó létrehozásához írja be a Windows bejelentkezési hitelesítő adatait. Ez elősegíti a fiókjai biztonságának védelmét.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = elsődleges jelszó létrehozása
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

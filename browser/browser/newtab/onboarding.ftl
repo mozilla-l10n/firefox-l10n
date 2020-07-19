@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Kezdő lépések
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Üdvözli a { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Üdvözli a <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Megvan a böngészője.<br/>Ismerkedjen meg a { -brand-product-name } család többi tagjával.
 onboarding-welcome-learn-more = További tudnivalók az előnyökről.
 onboarding-join-form-header = Csatlakozzon a { -brand-product-name }hoz
@@ -44,6 +41,31 @@ onboarding-start-browsing-button-label = Böngészés megkezdése
 onboarding-cards-dismiss =
     .title = Elutasítás
     .aria-label = Elutasítás
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Üdvözli a <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = A gyors, biztonságos és privát böngésző, amelyet egy nonprofit szervezet támogat.
+onboarding-multistage-welcome-primary-button-label = Beállítás indítása
+onboarding-multistage-welcome-secondary-button-label = Bejelentkezés
+onboarding-multistage-welcome-secondary-button-text = Van már fiókja?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Jelszavak, könyvjelzők és <span data-l10n-name="zap">egyebek</span> importálása
+onboarding-multistage-import-subtitle = Egy másik böngészőből érkezett? Könnyen áthozhat mindent a { -brand-short-name }ba.
+onboarding-multistage-import-primary-button-label = Importálás indítása
+onboarding-multistage-import-secondary-button-label = Most nem
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Válasszon egy <span data-l10n-name="zap">megjelenést</span>
+onboarding-multistage-theme-subtitle = Tegye egyedivé a { -brand-short-name }ot egy témával.
+onboarding-multistage-theme-primary-button-label = Téma mentése
+onboarding-multistage-theme-secondary-button-label = Most nem
+onboarding-multistage-theme-label-light = Világos
+onboarding-multistage-theme-label-dark = Sötét
+onboarding-multistage-theme-label-colorful = Színes
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
@@ -54,6 +76,12 @@ onboarding-import-sites-info =
         adatokat másik böngészőből, kivéve, ha úgy dönt,
         hogy importálja azokat.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Első lépések: { $current }. képernyő / { $total }
 
 ## Welcome full page string
 
