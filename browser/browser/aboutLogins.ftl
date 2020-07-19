@@ -135,6 +135,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = izvezi spremljene p
 ## Master Password notification
 
 master-password-notification-message = Za prikaz spremljenih prijava i lozinki, upiši glavnu lozinku
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Za prikaz spremljenih prijava i lozinki, upiši glavnu lozinku
 master-password-reload-button =
     .label = Prijava
     .accesskey = r
