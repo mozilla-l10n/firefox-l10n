@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Prijave i lozinke
@@ -32,6 +27,7 @@ menu =
     .title = Otvori izbornik
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Uvezi iz jednog drugog preglednika …
+about-logins-menu-menuitem-import-from-a-file = Uvezi iz datoteke …
 about-logins-menu-menuitem-export-logins = Izvezi prijave…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -214,6 +210,19 @@ about-logins-export-file-picker-export-button = Izvoz
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV dokument
+       *[other] CSV datoteka
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Uvezi datoteku s prijavama
+about-logins-import-file-picker-import-button = Uvezi
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV dokument
        *[other] CSV datoteka
