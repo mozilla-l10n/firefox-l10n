@@ -795,21 +795,30 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Utilizza una password principale
     .accesskey = U
+forms-primary-pw-use =
+    .label = Utilizza una password principale
+    .accesskey = U
 forms-master-pw-change =
     .label = Cambia la password principale…
     .accesskey = w
+forms-primary-pw-change =
+    .label = Cambia la password principale…
+    .accesskey = w
 forms-master-pw-fips-title = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
+forms-primary-pw-fips-title = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
 forms-master-pw-fips-desc = La password non è stata cambiata
 
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Per creare una password principale, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
+primary-password-os-auth-dialog-message-win = Per creare una password principale, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = creare una password principale
+primary-password-os-auth-dialog-message-macosx = creare una password principale
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
