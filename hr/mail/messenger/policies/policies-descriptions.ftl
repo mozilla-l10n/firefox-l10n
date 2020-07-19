@@ -51,27 +51,37 @@ policy-ExtensionSettings = Upravljajte svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Omogući ili onemogući automatsko ažuriranje dodataka.
 policy-HardwareAcceleration = Ukoliko je postavljeno na netočno, isključuje hardversko ubrzanje.
 policy-InstallAddonsPermission = Dopusti određenim stranicama za instaliraju dodatke.
+policy-LegacyProfiles = Deaktiviraj funkciju koja nameće zaseban profil za svaku instalaciju.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Aktiviraj standardnu staru postavku ponašanja SameSite kolačića.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Vrati se na staro ponašanje SameSitea za kolačiće na određenim stranicama.
 
 ##
 
 policy-LocalFileLinks = Omogućite određenim stranicama poveznice na lokalne datoteke.
 policy-NetworkPrediction = Omogućite ili onemogućite predviđanje mreže (DNS prefetching).
 policy-OfferToSaveLogins = Primorajte postavke dozvole da { -brand-short-name } nudi pamćenje prijava i lozinki. Preihvaćaju se vrijednosti točno i netočno.
+policy-OfferToSaveLoginsDefault = Postavi standardnu vrijednost, kako bi { -brand-short-name }ponudio pamtiti spremljene prijave i lozinke. Prihvaćaju se vrijednosti za točno i netočno.
 policy-OverrideFirstRunPage = Poništite postavke početne stranice. Postavite ovo pravilo na prazno ukoliko želite onemogućiti početnu stranicu.
 policy-OverridePostUpdatePage = Poništite "Što je novo" stranicu nakon ažuriranja. Postavite ovo pravilo na prazno ukoliko želite onemogućiti stranicu nakon ažuriranja.
+policy-PasswordManagerEnabled = Aktiviraj spremanje lozinki u upravljaču lozinki.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Deaktiviraj ili konfiguriraj PDF.js, ugrađeni čitač PDF-a u { -brand-short-name }u.
+policy-Permissions2 = Podesi dozvole za kameru, mikrofon, lokaciju, obavijesti i automatsku reprodukciju.
 policy-Preferences = Postavite i zaključajte vrijednost za podskup postavki.
 policy-PromptForDownloadLocation = Pitajte gdje spremiti datoteke prilikom preuzimanja.
 policy-Proxy = Podesi proxy postavke.
 policy-RequestedLocales = Postavite popis traženih jezika za aplikaciju prema redosljedu preferencija.
 policy-SanitizeOnShutdown2 = Obrišite podatke o navigaciji prilikom gašenja.
 policy-SearchEngines = Prilagodite postavke pretraživača. Ovo pravilo je dostupno samo u inačici proširene podrške (ESR).
+policy-SearchSuggestEnabled = Aktiviraj ili deaktiviraj prijedloge za pretraživanje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalirajte PKCS #11 module.
 policy-SSLVersionMax = Postavite maksimalnu SSL inačicu.
 policy-SSLVersionMin = Postavite minimalnu SSL inačicu.
 policy-SupportMenu = Dodajte prilagođenu stavku za podršku u izbornik pomoći.
+policy-UserMessaging = Ne prikazuj određene poruke korisniku.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokirajte posjećivanje web stranica. Proučite dokumentaciju za više detalja oko oblika.
