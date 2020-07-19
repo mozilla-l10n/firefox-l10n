@@ -19,9 +19,6 @@ onboarding-button-label-get-started = 시작하기
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name }를 사용해 주셔서 감사합니다.
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span>에 오신 것을 환영합니다
 onboarding-welcome-body = 이제 브라우저가 있습니다.<br/>{ -brand-product-name }의 나머지를 만나 보세요.
 onboarding-welcome-learn-more = 장점 더 알아보기
 onboarding-join-form-header = { -brand-product-name }와 함께하기
@@ -44,6 +41,25 @@ onboarding-start-browsing-button-label = 탐색 시작
 onboarding-cards-dismiss =
     .title = 닫기
     .aria-label = 닫기
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span>에 오신 것을 환영합니다
+onboarding-multistage-welcome-primary-button-label = 설정 시작
+onboarding-multistage-welcome-secondary-button-label = 로그인
+onboarding-multistage-welcome-secondary-button-text = 계정이 있으십니까?
+onboarding-multistage-import-primary-button-label = 가져오기 시작
+onboarding-multistage-import-secondary-button-label = 나중에
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = <span data-l10n-name="zap">외양</span>을 선택하세요
+onboarding-multistage-theme-primary-button-label = 테마 저장
+onboarding-multistage-theme-secondary-button-label = 나중에
+onboarding-multistage-theme-label-light = 밝게
+onboarding-multistage-theme-label-dark = 어둡게
+onboarding-multistage-theme-label-colorful = 색상형
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
