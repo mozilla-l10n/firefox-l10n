@@ -21,3 +21,8 @@ experimental-features-avif-description = תמיכה ניסיונית עבור AV
 experimental-features-abouthome-startup-cache =
     .label = מטמון הפעלה של about:home
 experimental-features-abouthome-startup-cache-description = מטמון עבור המסמך about:home הראשוני שנטען כברירת מחדל בעת ההפעלה. מטרת המטמון היא לשפר את ביצועי ההפעלה.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = כלי פיתוח: ניפוי שגיאות של Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = הפעלת תמיכה ניסיונות עבור Service Workers בחלונית 'ניפוי שגיאות' שבכלי הפיתוח. תכונה זו עשויה להאט את כלי הפיתוח ולהגדיל את צריכת הזיכרון.
