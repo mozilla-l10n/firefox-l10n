@@ -30,3 +30,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = cache de inicialização de about:home
 experimental-features-abouthome-startup-cache-description = Um cache para o documento inicial about:home, carregado por padrão ao iniciar. O objetivo do cache é melhorar o desempenho da inicialização.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Tratar cookies do mesmo domínio, mas com esquemas diferentes (por exemplo, http://example.com e https://example.com) como cross-site em vez de same-site. Melhora a segurança, mas pode potencialmente introduzir problemas.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: Debug de Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Ativa suporte experimental para Service Workers no painel Debugger do DevTools. Esse recurso pode tornar o DevTools mais lento e aumentar o consumo de memória.
