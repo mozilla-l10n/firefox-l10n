@@ -43,10 +43,10 @@ pill-action-move-bcc =
 attachment-bucket-count =
     .value =
         { $count ->
-            [1] { $count } privitak
-            [one] { $count } privitak
-            [few] { $count } privitka
-           *[other] { $count } privitaka
+            [1] { $count } prilog
+            [one] { $count } prilog
+            [few] { $count } priloga
+           *[other] { $count } priloga
         }
     .accesskey = r
 #   $count (Number) - the number of attachments in the attachment bucket
