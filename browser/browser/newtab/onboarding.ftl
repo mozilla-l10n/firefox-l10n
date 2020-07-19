@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Prěnje kroki
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Witajće k { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Witajće k <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Maće wobhladowak.<br/>Zeznajće so ze zbytkom { -brand-product-name }.
 onboarding-welcome-learn-more = Dalše informacije wo lěpšinach.
 onboarding-join-form-header = Přidružće so k { -brand-product-name }
@@ -44,6 +41,22 @@ onboarding-start-browsing-button-label = Přehladowanje startować
 onboarding-cards-dismiss =
     .title = Zaćisnyć
     .aria-label = Zaćisnyć
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Witajće k <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-label = Přizjewić
+onboarding-multistage-welcome-secondary-button-text = Maće konto?
+onboarding-multistage-import-primary-button-label = Import započeć
+onboarding-multistage-import-secondary-button-label = Nic nětko
+onboarding-multistage-theme-subtitle = Personalizujće { -brand-short-name } z drastu.
+onboarding-multistage-theme-primary-button-label = Drastu składować
+onboarding-multistage-theme-secondary-button-label = Nic nětko
+onboarding-multistage-theme-label-light = Swětły
+onboarding-multistage-theme-label-dark = Ćmowy
+onboarding-multistage-theme-label-colorful = Barbny
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
