@@ -49,10 +49,12 @@ onboarding-cards-dismiss =
 onboarding-multistage-welcome-header = 歡迎使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-secondary-button-label = 登入
 onboarding-multistage-welcome-secondary-button-text = 已經有帳號了？
+onboarding-multistage-import-primary-button-label = 開始匯入
 onboarding-multistage-import-secondary-button-label = 現在不要
 onboarding-multistage-theme-secondary-button-label = 現在不要
 onboarding-multistage-theme-label-light = 亮色
 onboarding-multistage-theme-label-dark = 暗色
+onboarding-multistage-theme-label-colorful = 鮮豔
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
