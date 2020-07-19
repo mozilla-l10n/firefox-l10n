@@ -64,6 +64,7 @@ onboarding-multistage-theme-primary-button-label = Lagre tema
 onboarding-multistage-theme-secondary-button-label = Ikke nå
 onboarding-multistage-theme-label-light = Lyst
 onboarding-multistage-theme-label-dark = Mørkt
+onboarding-multistage-theme-label-colorful = Fargerik
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
@@ -74,6 +75,12 @@ onboarding-import-sites-info =
         ikke data fra en annen nettleser med mindre du
         velger å importer den.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Komme i gang: skjermbilde { $current } av { $total }
 
 ## Welcome full page string
 
