@@ -136,6 +136,9 @@ about-logins-export-password-os-auth-dialog-message-macosx = export saved logins
 ## Master Password notification
 
 master-password-notification-message = Za ogled shranjenih prijav in gesel vnesite svoje glavno geslo
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Prijava
     .accesskey = P
