@@ -8,6 +8,8 @@ password-quality-meter = Indicatore qualità password
 
 change-password-window =
     .title = Cambio password principale
+change-device-password-window =
+    .title = Cambio password
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo di sicurezza: { $tokenName }
@@ -20,9 +22,13 @@ change-password-reenter = Nuova password (conferma):
 reset-password-window =
     .title = Rimozione password principale
     .style = width: 40em
+reset-primary-password-window =
+    .title = Rimozione password principale
+    .style = width: 40em
 reset-password-button-label =
     .label = Reimposta
 reset-password-text = La rimozione della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali e delle chiavi private memorizzate. Rimuovere la password principale?
+reset-primary-password-text = La rimozione della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali e delle chiavi private memorizzate. Rimuovere la password principale?
 
 ## Downloading cert dialog
 
