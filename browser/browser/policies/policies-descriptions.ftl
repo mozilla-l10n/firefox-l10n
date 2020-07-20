@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Empêcher { -brand-short-name } d’exécuter des
 policy-DisableForgetButton = Empêcher l’accès au bouton d’effacement des données.
 policy-DisableFormHistory = Désactiver la conservation de l’historique des recherches et des formulaires.
 policy-DisableMasterPasswordCreation = Si activé, il sera impossible de créer un mot de passe principal.
+policy-DisablePrimaryPasswordCreation = Si la valeur est sur true, la création d’un mot de passe principal est impossible.
 policy-DisablePasswordReveal = Ne pas permettre de révéler les mots de passe dans les identifiants enregistrés.
 policy-DisablePocket = Désactiver la fonctionnalité d’enregistrement de pages web dans Pocket.
 policy-DisablePrivateBrowsing = Désactiver la navigation privée.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revenir au comportemen
 
 policy-LocalFileLinks = Autoriser des sites précis à utiliser des liens vers des fichiers locaux.
 policy-MasterPassword = Exiger ou empêcher l’utilisation d’un mot de passe principal.
+policy-PrimaryPassword = Exiger ou empêcher l’utilisation d’un mot de passe principal.
 policy-NetworkPrediction = Permettre ou interdire la prédiction réseau (prélecture DNS).
 policy-NewTabPage = Activer ou désactiver la page de nouvel onglet.
 policy-NoDefaultBookmarks = Désactiver la création des marque-pages par défaut fournis avec { -brand-short-name } ainsi que les marque-pages intelligents (sites les plus visités, sites récents). Note : cette politique ne fonctionne que si elle est activée avant le premier lancement du profil.

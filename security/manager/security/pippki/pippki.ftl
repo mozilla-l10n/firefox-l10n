@@ -8,7 +8,8 @@ password-quality-meter = Mesure de la qualité du mot de passe :
 
 change-password-window =
     .title = Définir le mot de passe principal
-
+change-device-password-window =
+    .title = Changer le mot de passe
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Périphérique de sécurité: { $tokenName }
@@ -21,6 +22,10 @@ change-password-reenter = Saisissez-le à nouveau
 reset-password-window =
     .title = Effacer le mot de passe principal
     .style = width: 40em
+pippki-failed-pw-change = Impossible de changer le mot de passe.
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Effacer
 reset-password-text = Si vous effacez votre mot de passe principal, tous vos mots de passe web et courrier, vos données de formulaires, vos certificats personnels et vos clés privées seront oubliés. Voulez-vous vraiment supprimer le mot de passe principal ?
