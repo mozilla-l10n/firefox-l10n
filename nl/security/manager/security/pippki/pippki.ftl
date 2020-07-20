@@ -25,12 +25,21 @@ reset-password-window =
 pippki-failed-pw-change = Kan hoofdwachtwoord niet wijzigen.
 pippki-incorrect-pw = U hebt niet het juiste huidige hoofdwachtwoord ingevoerd. Probeer het opnieuw.
 pippki-pw-change-ok = Wachtwoord met succes gewijzigd.
+pippki-pw-empty-warning = Uw opgeslagen wachtwoorden en privésleutels zullen niet worden beschermd.
+pippki-pw-erased-ok = U hebt uw hoofdwachtwoord verwijderd. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Waarschuwing! U hebt besloten geen hoofdwachtwoord te gebruiken. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = U bent momenteel in FIPS-modus. FIPS vereist een ingesteld hoofdwachtwoord.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Hoofdwachtwoord opnieuw instellen
+    .style = width: 40em
 reset-password-button-label =
     .label = Herinitialiseren
 reset-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?
+pippki-reset-password-confirmation-title = Hoofdwachtwoord opnieuw instellen
+pippki-reset-password-confirmation-message = Uw hoofdwachtwoord is opnieuw ingesteld
 
 ## Downloading cert dialog
 
