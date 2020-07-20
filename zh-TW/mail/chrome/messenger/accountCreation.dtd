@@ -112,7 +112,7 @@
 <!ENTITY changeSettings.label            "變更設定">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; 可以讓您使用既有的設定值來收取您的郵件。 然而您應該要連絡您的系統管理者或電子郵件提供者關於這些不正確的連線。 請參閱 Thunderbird 的問與答來取得更多資訊。">
+<!ENTITY contactYourProvider.description "&brandShortName; 可以讓您使用既有的設定值來收取您的郵件。然而您應該要連絡您的系統管理者或電子郵件提供者關於這些不正確的連線。請參閱 Thunderbird 的問與答來取得更多資訊。">
 
 <!ENTITY insecureServer.tooltip.title    "警告！這是個不安全的伺服器。">
 <!ENTITY insecureServer.tooltip.details  "請點選圈圈來取得詳細資訊。">
