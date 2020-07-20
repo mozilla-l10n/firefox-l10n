@@ -8,7 +8,8 @@ password-quality-meter = Salasanan laadun mittari
 
 change-password-window =
     .title = Vaihda pääsalasana
-
+change-device-password-window =
+    .title = Vaihda salasana
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Turvallisuuslaite: { $tokenName }
@@ -21,6 +22,11 @@ change-password-reenter = Uusi salasana (uudestaan):
 reset-password-window =
     .title = Poista pääsalasana
     .style = width: 40em
+pippki-failed-pw-change = Salasanaa ei voitu vaihtaa.
+pippki-pw-change-ok = Salasana vaihdettiin onnistuneesti.
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Poista
 reset-password-text = Jos pääsalasana poistetaan, kaikki tallennetut sivusto- ja sähköpostisalasanat, lomaketiedot, henkilökohtaiset varmenteet ja salaiset avaimet unohdetaan. Poistetaanko pääsalasana?

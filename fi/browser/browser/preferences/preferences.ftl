@@ -803,10 +803,19 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Käytä pääsalasanaa
     .accesskey = K
+forms-primary-pw-use =
+    .label = Käytä pääsalasanaa
+    .accesskey = K
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Muuta pääsalasanaa…
     .accesskey = M
 forms-master-pw-fips-title = Olet FIPS-tilassa ja se vaatii pääsalasanan.
+forms-primary-pw-change =
+    .label = Vaihda pääsalasana…
+    .accesskey = V
 forms-master-pw-fips-desc = Salasanan vaihto epäonnistui
 
 ## OS Authentication dialog
@@ -1165,6 +1174,10 @@ space-alert-under-5gb-ok-button =
     .label = Selvä
     .accesskey = S
 space-alert-under-5gb-message = { -brand-short-name(case: "ablative") } loppuu kohta levytila. Sivustojen sisällöt eivät ehkä näy oikein. Voit lukea levyn käytön optimoimisesta selaamisen sujuvoittamiseksi painamalla ”Lue lisää”.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Lue lisää
 
 ## The following strings are used in the Download section of settings
 

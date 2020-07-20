@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Aloita
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Tässä { -brand-short-name }, tervetuloa
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Tässä <span data-l10n-name="zap">{ -brand-short-name }</span>, tervetuloa
 onboarding-welcome-body = Sait selaimen.<br/>Tapaa muut { -brand-product-name }-palvelut.
 onboarding-welcome-learn-more = Lue lisää hyödyistä.
 onboarding-join-form-header = Liity { -brand-product-name }iin
@@ -44,6 +41,36 @@ onboarding-start-browsing-button-label = Aloita selaaminen
 onboarding-cards-dismiss =
     .title = Hylkää
     .aria-label = Hylkää
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Tässä <span data-l10n-name="zap">{ -brand-short-name }</span>, tervetuloa
+onboarding-multistage-welcome-subtitle = Nopea, turvallinen ja yksityinen selain, jonka takana on voittoa tavoittelematon organisaatio.
+onboarding-multistage-welcome-secondary-button-label = Kirjaudu sisään
+onboarding-multistage-welcome-secondary-button-text = Onko sinulla jo tili?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Tuo salasanat, kirjanmerkit ja <span data-l10n-name="zap">paljon muuta</span>
+onboarding-multistage-import-subtitle = Oletko siirtymässä toisesta selaimesta? Tietojen tuominen { -brand-short-name }iin on helppoa.
+onboarding-multistage-import-primary-button-label = Aloita tuonti
+onboarding-multistage-import-secondary-button-label = Ei nyt
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Valitse <span data-l10n-name="zap">ulkoasu</span>
+onboarding-multistage-theme-subtitle = Mukauta { -brand-short-name }ia teemalla.
+onboarding-multistage-theme-primary-button-label = Tallenna teema
+onboarding-multistage-theme-secondary-button-label = Ei nyt
+onboarding-multistage-theme-label-light = Vaalea
+onboarding-multistage-theme-label-dark = Tumma
+onboarding-multistage-theme-label-colorful = Värikäs
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Käytön aloittaminen: näkymä { $current }/{ $total }
 
 ## Welcome full page string
 
