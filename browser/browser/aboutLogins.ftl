@@ -139,6 +139,7 @@ master-password-notification-message = Za ogled shranjenih prijav in gesel vnesi
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Za ogled shranjenih prijav in gesel vnesite svoje glavno geslo
 master-password-reload-button =
     .label = Prijava
     .accesskey = P

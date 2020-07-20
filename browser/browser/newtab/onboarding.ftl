@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Začni
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Dobrodošli v { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Dobrodošli v <span data-l10n-name="zap">{ -brand-short-name }u</span>
 onboarding-welcome-body = Brskalnik že imate.<br/>Spoznajte še ostale storitve { -brand-product-name }.
 onboarding-welcome-learn-more = Spoznajte prednosti.
 onboarding-join-form-header = Pridružite se { -brand-product-name }u
@@ -44,6 +41,24 @@ onboarding-start-browsing-button-label = Začnite z brskanjem
 onboarding-cards-dismiss =
     .title = Opusti
     .aria-label = Opusti
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Dobrodošli v <span data-l10n-name="zap">{ -brand-short-name }u</span>
+onboarding-multistage-welcome-subtitle = Hiter, varen in zaseben brskalnik, ki ga podpira neprofitna organizacija.
+onboarding-multistage-welcome-secondary-button-text = Imate račun?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Uvozite svoja gesla, zaznamke in <span data-l10n-name="zap">drugo</span>
+onboarding-multistage-import-secondary-button-label = Ne zdaj
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Izberite <span data-l10n-name="zap">videz</span>
+onboarding-multistage-theme-subtitle = Prilagodite svoj { -brand-short-name } s temo.
+onboarding-multistage-theme-primary-button-label = Shrani temo
+onboarding-multistage-theme-secondary-button-label = Ne zdaj
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
