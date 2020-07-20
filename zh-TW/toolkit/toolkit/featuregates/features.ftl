@@ -34,6 +34,9 @@ experimental-features-abouthome-startup-cache-description = 啟動時，對預�
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = 將來自相同網域但不同通訊協定的 Cookie（例如 http://example.com 及 https://example.com 之間）視為  cross-site 而非 same-site。可改善安全性，但可能會造成網頁故障。
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-serviceworker-debugger-support =
     .label = DevTools: Service Worker debugging
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = 開啟開發者工具「除錯器」面板當中對 Service Worker 的實驗性支援。此功能可能會拖慢開發者工具運作，並增加記憶體消耗量。
