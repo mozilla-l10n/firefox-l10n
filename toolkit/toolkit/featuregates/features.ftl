@@ -30,3 +30,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Ciaste
 experimental-features-abouthome-startup-cache =
     .label = Pamięć podręczna uruchamiania about:home
 experimental-features-abouthome-startup-cache-description = Pamięć podręczna dla początkowego dokumentu about:home, który jest domyślnie wczytywany podczas uruchamiania. Celem tej pamięci podręcznej jest przyspieszenie uruchamiania.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Ciasteczka: SameSite typu „Schemeful”
+experimental-features-cookie-samesite-schemeful-description = Traktuje ciasteczka z tej samej domeny, ale o różnych protokołach (np. http://example.com i https://example.com) jako ciasteczka między witrynami, zamiast z tej samej witryny. Zwiększa bezpieczeństwo, ale potencjalnie zakłóca działanie witryn.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = Narzędzia dla programistów: debugowanie wątków usługowych
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Włącza eksperymentalną obsługę wątków usługowych w panelu debugera. Ta funkcja może spowolnić narzędzia dla programistów i zwiększyć zużycie pamięci.
