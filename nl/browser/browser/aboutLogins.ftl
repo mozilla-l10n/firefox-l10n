@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = opgeslagen aanmeldi
 ## Master Password notification
 
 master-password-notification-message = Voer uw hoofdwachtwoord in om opgeslagen aanmeldingen en wachtwoorden te bekijken
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Voer uw hoofdwachtwoord in om opgeslagen aanmeldingen en wachtwoorden te bekijken
 master-password-reload-button =
     .label = Aanmelden
     .accesskey = A
