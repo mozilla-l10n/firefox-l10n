@@ -38,3 +38,5 @@ experimental-features-cookie-samesite-schemeful-description = Behandel cookies v
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-serviceworker-debugger-support =
     .label = DevTools: Service Worker-debugging
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Schakelt in het DevTools Debugger-paneel experimentele ondersteuning voor service workers in. Deze functie kan DevTools vertragen en het geheugengebruik verhogen.
