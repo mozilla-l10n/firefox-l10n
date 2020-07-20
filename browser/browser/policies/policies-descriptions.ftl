@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Estä { -brand-short-name } suorittamasta tutkimu
 policy-DisableForgetButton = Estä pääsy Unohda-painikkeeseen.
 policy-DisableFormHistory = Älä tallenna haku- ja lomakehistoriaa.
 policy-DisableMasterPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
+policy-DisablePrimaryPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
 policy-DisablePasswordReveal = Älä salli salasanojen paljastamista tallennetuissa kirjautumistiedoissa.
 policy-DisablePocket = Poista käytöstä ominaisuus, jolla verkkosivuja voi tallentaa Pocket-palveluun.
 policy-DisablePrivateBrowsing = Poista yksityinen selaus käytöstä.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Palaa vanhaan SameSite
 
 policy-LocalFileLinks = Salli tiettyjen sivustojen linkittää paikallisiin tiedostoihin.
 policy-MasterPassword = Vaadi tai estä pääsalasanan käyttö.
+policy-PrimaryPassword = Vaadi tai estä pääsalasanan käyttö.
 policy-NetworkPrediction = Ota käyttöön tai poista käytöstä verkkoennakointi (DNS-esihaku).
 policy-NewTabPage = Ota käyttöön tai poista käytöstä Uusi välilehti -sivu
 policy-NoDefaultBookmarks = Poista käytöstä { -brand-short-name }in mukana tulevien oletuskirjanmerkkien luonti ja älykkäiden kirjanmerkkien (Useimmin avatut, Viimeiset avainsanat) luonti. Huomaa: tällä käytännöllä on vaikutusta vain, kun profiili käynnistetään ensimmäisen kerran.
