@@ -78,6 +78,10 @@ manifest-view-header = 应用清单文件
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = 先添加一个 Web 应用清单文件才可在此查看。<a>详细了解</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = 未检测到 Web 应用清单文件
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = 了解如何添加“清单文件”
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = 错误和警告
 # Header for the Identity section of Manifest inspection displayed in the application panel.
