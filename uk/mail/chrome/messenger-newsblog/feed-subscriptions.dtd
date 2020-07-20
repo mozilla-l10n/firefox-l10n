@@ -27,7 +27,7 @@
 <!ENTITY biffDays.accesskey          "н">
 <!ENTITY recommendedUnits.label      "Видавець рекомендує:">
 
-<!ENTITY quickMode.label             "Показувати короткий опис статті замість завантаження веб-сторінки">
+<!ENTITY quickMode.label             "Показувати короткий опис статті замість завантаження вебсторінки">
 <!ENTITY quickMode.accesskey         "к">
 
 <!ENTITY autotagEnable.label         "Автоматично створювати мітки за назвами &lt;категорій&gt; стрічки новин">

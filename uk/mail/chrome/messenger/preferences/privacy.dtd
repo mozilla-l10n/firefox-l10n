@@ -12,7 +12,7 @@
 <!ENTITY acceptRemoteContentInfo.label "Докладніше про питання приватності й віддалений вміст">
 
 <!-- Web Content -->
-<!ENTITY captionWebContent.label "Веб-вміст">
+<!ENTITY captionWebContent.label "Вебвміст">
 
 <!ENTITY keepHistory.label "Пам'ятати відвідані мною вебсайти й посилання">
 <!ENTITY keepHistory.accesskey "П">

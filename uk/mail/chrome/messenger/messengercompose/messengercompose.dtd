@@ -23,7 +23,7 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Веб-сторінку…">
+<!ENTITY attachPageCmd.label "Вебсторінку…">
 <!ENTITY attachPageCmd.accesskey "е">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Візитну картку (vCard)">
@@ -90,6 +90,10 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Панель вкладень">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "в">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Виділити все">
 <!ENTITY selectAllCmd.accesskey "с">
@@ -344,7 +348,7 @@
 <!ENTITY cancelUpload.accesskey "к">
 <!ENTITY convertRegularAttachment.label "Звичайне вкладення">
 <!ENTITY convertRegularAttachment.accesskey "в">
-<!ENTITY attachPage.label "Вкласти веб-сторінку…">
+<!ENTITY attachPage.label "Вкласти вебсторінку…">
 <!ENTITY attachPage.accesskey "е">
 
 <!-- Attachment Pane Header Bar Context Menu -->

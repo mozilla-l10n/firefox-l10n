@@ -450,11 +450,11 @@
 <!ENTITY openAttachmentListCmd.accesskey "л">
 <!ENTITY openFeedMessage1.label "При відкритті повідомлень зі стрічки новин">
 <!ENTITY openFeedMessage1.accesskey "и">
-<!ENTITY openFeedWebPage.label "Відкрити як веб-сторінку">
+<!ENTITY openFeedWebPage.label "Відкрити як вебсторінку">
 <!ENTITY openFeedWebPage.accesskey "б">
 <!ENTITY openFeedSummary.label "Відкрити у вигляді стислого викладу">
 <!ENTITY openFeedSummary.accesskey "с">
-<!ENTITY openFeedWebPageInMP.label "Перемкнутись між веб-сторінкою і стислим викладом в області повідомлення">
+<!ENTITY openFeedWebPageInMP.label "Перемкнутись між вебсторінкою і стислим викладом в області повідомлення">
 <!ENTITY openFeedWebPageInMP.accesskey "м">
 
 <!-- Windows Menu -->
