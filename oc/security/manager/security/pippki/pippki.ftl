@@ -8,7 +8,8 @@ password-quality-meter = Mesura de la qualitat del senhal
 
 change-password-window =
     .title = Modificar lo senhal principal
-
+change-device-password-window =
+    .title = Cambiar lo senhal
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Periferic de seguretat: { $tokenName }
@@ -21,6 +22,10 @@ change-password-reenter = Tornatz picatz lo senhal :
 reset-password-window =
     .title = Tornar inicializar lo senhal principal
     .style = width: 40em
+pippki-failed-pw-change = Cambiament del senhal impossible.
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Escafar
 reset-password-text = S'escafatz vòstre senhal principal, totes vòstres senhals Web e corrièr, vòstras donadas de formularis, vòstres certificats personals e vòstras claus privadas seràn doblidats. Volètz vertadièrament suprimir lo senhal principal ?
