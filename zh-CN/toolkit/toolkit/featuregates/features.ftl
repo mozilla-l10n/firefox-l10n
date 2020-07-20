@@ -30,3 +30,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = 属性
 experimental-features-abouthome-startup-cache =
     .label = about:home 启动缓存
 experimental-features-abouthome-startup-cache-description = 缓存启动时默认加载的 about:home 初始文件，以提高启动性能。
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = 开发者工具：Service Worker 调试
