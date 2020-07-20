@@ -93,20 +93,17 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "השרת המתווך דחה את ההתחברות">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>בדוק כי הגדרות השרת המתווך שלך נכונות.</li>
-  <li>צור קשר עם מנהל הרשת שלך ודא כי השרת המתווך מתפקד</li>
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>נא לבדוק כי הגדרות השרת המתווך שלך נכונות.</li>
+  <li>נא ליצור קשר עם מנהל הרשת שלך כדי לוודא כי השרת המתווך מתפקד.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "שרת מתווך לא נמצא">
-<!ENTITY proxyResolveFailure.longDesc "
-<ul>
-  <li>בדוק כי הגדרות השרת המתווך שלך נכונות.</li>
-  <li>ודא כי חיבור המחשב שלך לרשת פעיל.</li>
-  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc "<ul>
+  <li>נא לבדוק כי הגדרות השרת המתווך שלך נכונות.</li>
+  <li>נא לוודא כי חיבור המחשב שלך לרשת פעיל.</li>
+  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, נא לוודא כי &brandShortName; מורשה לגישה לרשת.</li>
+</ul>">
 
 <!ENTITY redirectLoop.title "הדף מבצע העברה לא תקינה">
 <!ENTITY redirectLoop.longDesc "
