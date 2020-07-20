@@ -8,7 +8,8 @@ password-quality-meter = 密码强度
 
 change-password-window =
     .title = 修改主密码
-
+change-device-password-window =
+    .title = 更改密码
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = 安全设备: { $tokenName }
@@ -21,9 +22,21 @@ change-password-reenter = 新密码(重复):
 reset-password-window =
     .title = 重置主密码
     .style = width: 40em
+pippki-failed-pw-change = 无法更改密码。
+pippki-incorrect-pw = 您未输入正确的主密码，请重试。
+pippki-pw-change-ok = 密码更改成功。
+pippki-pw-change2empty-in-fips-mode = 您正处于 FIPS 模式。该模式需要一个非空的主密码。
+
+## Reset Primary Password dialog
+
+reset-primary-password-window =
+    .title = 重置主密码
+    .style = width: 40em
 reset-password-button-label =
     .label = 重置
 reset-password-text = 如果您重置您的主密码，您存储的所有网站和电子邮箱密码、表单数据、个人证书以及私钥，都将被丢弃。您确实要重置主密码吗？
+pippki-reset-password-confirmation-title = 重置主密码
+pippki-reset-password-confirmation-message = 您的主密码已重置。
 
 ## Downloading cert dialog
 

@@ -795,10 +795,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = 使用主密码
     .accesskey = U
+forms-primary-pw-use =
+    .label = 使用主密码
+    .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = 修改主密码…
     .accesskey = M
 forms-master-pw-fips-title = 您正处于 FIPS 模式。该模式需要一个非空的主密码。
+forms-primary-pw-change =
+    .label = 更改主密码…
+    .accesskey = P
+forms-primary-pw-fips-title = 您正处于 FIPS 模式。该模式需要一个非空的主密码。
 forms-master-pw-fips-desc = 密码修改失败
 
 ## OS Authentication dialog
@@ -810,6 +820,13 @@ master-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = 创建主密码
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以创建主密码。这有助于保护您的账户安全。
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = 创建主密码
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
