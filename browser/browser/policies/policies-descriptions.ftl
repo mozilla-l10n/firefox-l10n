@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } үшін зерттеуле
 policy-DisableForgetButton = Ұмыту батырмасына рұқсатты жабу.
 policy-DisableFormHistory = Іздеу және формалар тарихын сақтамау.
 policy-DisableMasterPasswordCreation = Мәні true болса, мастер-парольді орнату мүмкін болмайды.
+policy-DisablePrimaryPasswordCreation = Мәні true болса, басты парольді орнату мүмкін болмайды.
 policy-DisablePasswordReveal = Сақталған логиндерде парольдердің ашылуына жол бермеу.
 policy-DisablePocket = Веб-парақтары Pocket-ке сақтау мүмкіндігін сөндіру.
 policy-DisablePrivateBrowsing = Жекелік шолуды сөндіру
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Көрсетілген
 
 policy-LocalFileLinks = Арнайы веб-сайттарға жергілікті файлдарға сілтеуді рұқсат ету.
 policy-MasterPassword = Басты парольді орнатуды талап ету немесе оған тыйым салу.
+policy-PrimaryPassword = Басты парольді орнатуды талап ету немесе оған тыйым салу.
 policy-NetworkPrediction = Желі болжамын іске қосу немесе сөндіру (DNS алдын-ала таңдау).
 policy-NewTabPage = Жаңа бетті іске қосу немесе сөндіру
 policy-NoDefaultBookmarks = { -brand-short-name } ішінде келетін үнсіз келісім бойынша бетбелгілерді, және ақылды бетбелгілерді (Жиі қаралатын, Соңғы белгілер) жасауды сөндіру. Ескерту: бұл опция тек профильдің бірінші орындалуы алдында жасалған кезде іске асады.

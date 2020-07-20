@@ -22,6 +22,9 @@ change-password-reenter = Жаңа пароль (қайтадан):
 reset-password-window =
     .title = Мастер-парольді тастау
     .style = width: 40em
+pippki-failed-pw-change = Парольді өзгерту мүмкін емес.
+pippki-incorrect-pw = Сіз ағымдағы парольді қате енгіздіңіз. Қайтадан енгізіп көріңіз.
+pippki-pw-change-ok = Пароль сәтті өзгертілді.
 
 ## Reset Primary Password dialog
 

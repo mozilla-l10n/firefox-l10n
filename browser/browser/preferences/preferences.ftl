@@ -803,10 +803,19 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Мастер-парольді қолдану
     .accesskey = М
+forms-primary-pw-use =
+    .label = Басты парольді қолдану
+    .accesskey = ы
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Мастер-парольді өзгерту…
     .accesskey = т
 forms-master-pw-fips-title = Сіз FIPS -ке сәйкестеу режимінде жұмыс істеп отырсыз. Бұл режим бос емес мастер-парольді талап етеді.
+forms-primary-pw-change =
+    .label = Басты парольді өзгерту…
+    .accesskey = п
 forms-master-pw-fips-desc = Парольді өзгерту сәтсіз аяқталды
 
 ## OS Authentication dialog
@@ -818,6 +827,11 @@ master-password-os-auth-dialog-message-win = Басты парольді жас�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = мастер парольді жасау
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = басты парольді жасау
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
