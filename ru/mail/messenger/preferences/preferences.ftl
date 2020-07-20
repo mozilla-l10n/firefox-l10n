@@ -41,7 +41,6 @@ composition-addressing-header = Адресация
 privacy-main-header = Приватность
 privacy-passwords-header = Пароли
 privacy-junk-header = Спам
-privacy-data-collection-header = Сбор и использование данных
 collection-header = Сбор и использование данных { -brand-short-name }
 collection-description = Мы стремимся предоставить вам выбор и собирать только то, что нам нужно, для выпуска и улучшения { -brand-short-name } для всех и каждого. Мы всегда спрашиваем разрешения перед получением личной информации.
 collection-privacy-notice = Уведомление о приватности
@@ -96,8 +95,6 @@ addons-button = Расширения и темы
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Подтвердите свою личность для создания мастер-пароля.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Чтобы создать мастер-пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
@@ -148,9 +145,9 @@ mail-play-sound-label =
 mail-play-button =
     .label = Прослушать
     .accesskey = ш
-change-dock-icon = Изменить наcтройки значка приложения
+change-dock-icon = Изменить настройки значка приложения
 app-icon-options =
-    .label = Наcтройки значка приложения…
+    .label = Настройки значка приложения…
     .accesskey = ж
 notification-settings = Уведомления и звук по умолчанию могут быть отключены на Панели Уведомления в «Системных настройках».
 animated-alert-label =
@@ -701,3 +698,6 @@ search-results-empty-message =
        *[other] Извините! В настройках не найдено результатов для «<span data-l10n-name="query"></span>».
     }
 search-results-help-link = Нужна помощь? Посетите <a data-l10n-name="url">Сайт поддержки { -brand-short-name }</a>
+
+## Preferences UI Search Results
+
