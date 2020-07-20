@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Voorkomen dat { -brand-short-name } onderzoeken u
 policy-DisableForgetButton = Toegang tot de knop Vergeten voorkomen.
 policy-DisableFormHistory = Geen zoek- en formuliergeschiedenis onthouden.
 policy-DisableMasterPasswordCreation = Wanneer true, kan geen hoofdwachtwoord worden aangemaakt.
+policy-DisablePrimaryPasswordCreation = Wanneer true, kan geen hoofdwachtwoord worden aangemaakt.
 policy-DisablePasswordReveal = Niet toestaan dat wachtwoorden worden onthuld in opgeslagen aanmeldingen.
 policy-DisablePocket = De functie voor het opslaan van webpagina’s naar Pocket uitschakelen.
 policy-DisablePrivateBrowsing = Privénavigatie uitschakelen.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op specifieke websites
 
 policy-LocalFileLinks = Specifieke websites toestaan te koppelen naar lokale bestanden.
 policy-MasterPassword = Een hoofdwachtwoord vereisen of voorkomen.
+policy-PrimaryPassword = Een hoofdwachtwoord vereisen of voorkomen.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) inschakelen of uitschakelen.
 policy-NewTabPage = De nieuw-tabbladpagina inschakelen of uitschakelen.
 policy-NoDefaultBookmarks = Aanmaken van de standaardbladwijzers die met { -brand-short-name } worden meegeleverd uitschakelen, evenals de Slimme bladwijzers (Meest bezocht, Recente labels). Noot: deze beleidsregel is alleen van kracht bij gebruik ervan voordat het profiel voor het eerst wordt uitgevoerd.
