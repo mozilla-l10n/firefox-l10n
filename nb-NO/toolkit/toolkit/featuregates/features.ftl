@@ -34,3 +34,7 @@ experimental-features-abouthome-startup-cache-description = Et hurtigbuffer for 
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Behandle informasjonskapsler fra samme domene, men med forskjellige skjemaer (f.eks. http://example.com og https://example.com) som flere nettsteder i stedet for samme nettsted. Forbedrer sikkerheten, men introduserer potensielt brudd.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: Feilsøking av Service Worker
