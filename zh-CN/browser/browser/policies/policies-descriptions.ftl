@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = 阻止 { -brand-short-name } 运行研究实验�
 policy-DisableForgetButton = 阻止使用“忘记”功能。
 policy-DisableFormHistory = 不要记住搜索和表单的历史记录。
 policy-DisableMasterPasswordCreation = 若为 true，将无法创建主密码。
+policy-DisablePrimaryPasswordCreation = 若为 true，将无法创建主密码。
 policy-DisablePasswordReveal = 阻止密码在列表中明文显示
 policy-DisablePocket = 禁用保存网页到 Pocket 的功能。
 policy-DisablePrivateBrowsing = 禁用隐私浏览功能。
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 对指定的网站恢�
 
 policy-LocalFileLinks = 允许特定网站链接到本地文件。
 policy-MasterPassword = 要求或禁止使用主密码。
+policy-PrimaryPassword = 要求或禁止使用主密码。
 policy-NetworkPrediction = 启用或禁用网络预测（DNS 预读取）功能。
 policy-NewTabPage = 启用或禁用“新标签页”页面。
 policy-NoDefaultBookmarks = 禁止创建 { -brand-short-name } 捆绑的默认书签以及智能书签（最常访问、最近使用的标签）。注意：此策略仅在配置文件首次运行时生效。
