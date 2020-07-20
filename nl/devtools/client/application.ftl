@@ -69,13 +69,26 @@ serviceworker-empty-suggestions-debugger = Stap door uw registratie van de Servi
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspecteer Service Workers van andere domeinen. <a>about:debugging openen</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Geen service workers gevonden
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Meer info
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = Als de huidige pagina een service worker zou moeten hebben, kunt u fouten zoeken in de <a>Console</a> of de registratie van uw service workers doorlopen in de <span>Debugger</span>.
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Service workers uit andere domeinen bekijken
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = App-manifest
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = U dient een webapp-manifest toe te voegen om dit hier te inspecteren. <a>Meer info</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Geen webapp-manifest gedetecteerd
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Leer hoe u een manifest toevoegt
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Fouten en waarschuwingen
 # Header for the Identity section of Manifest inspection displayed in the application panel.
