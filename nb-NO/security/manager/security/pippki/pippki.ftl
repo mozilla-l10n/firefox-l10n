@@ -38,6 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Tilbakestill
 reset-password-text = Dersom du tilbakestiller hovedpassordet vil alle lagrede nettside- og e-postpassord, skjemadata, personlige sertifikater og private nøkler gå tapt. Er du sikker på at du vil tilbakestille hovedpassordet?
+reset-primary-password-text = Dersom du tilbakestiller primærpassordet vil alle lagrede nettside- og e-postpassord, personlige sertifikater og private nøkler gå tapt. Er du sikker på at du vil tilbakestille primærpassordet?
 pippki-reset-password-confirmation-title = Tilbakestill primærpassord
 pippki-reset-password-confirmation-message = Primærpassordet ditt er tilbakestilt.
 
