@@ -37,5 +37,6 @@ remove-info =
     .value = Du må skrive inn gjeldande passord for å fortsetje:
 remove-warning1 = Hovudpassordet ditt blir brukt for å verna sensitiv informasjon som t.d. passord på nettsider.
 remove-warning2 = Om du fjernar hovudpassordet vil informasjonen din ikkje vera verna om datamaskina di blir angripen og kompromittert.
+remove-primary-password-warning1 = Primærpassordet ditt vert brukt for å ta vare på sensitiv informasjon som innloggningar og passord.
 remove-password-old-password =
     .value = Gjeldande passord:
