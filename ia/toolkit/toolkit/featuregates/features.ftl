@@ -30,3 +30,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Le coo
 experimental-features-abouthome-startup-cache =
     .label = cache de initio pro about:home
 experimental-features-abouthome-startup-cache-description = Cache pro le contento initial del pagina about:home que es cargate de ordinario al lanceamento initial. Le proposito del cache es meliorar le  prestationes del lanceamento initial.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Tracta cookies del mesme dominio, ma con differente schemas (e.g. http://example.com e https://example.com) como inter-sitos in vice del mesme-sito. Meliora le securitate, ma pote introducer problemas.
