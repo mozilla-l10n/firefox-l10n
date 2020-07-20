@@ -30,3 +30,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Foar c
 experimental-features-abouthome-startup-cache =
     .label = Opstartbuffer about:home
 experimental-features-abouthome-startup-cache-description = In opstartbuffer foar it inisjele about:home-dokumint wurdt by opstarten standert laden. It doel fan dizze buffer is it ferbetterjen fan de opstartprestaasjes.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Behannelje cookies fan itselfe domein, mar mei ferskate skema's (bygelyks http://example.com en https://example.com) as cross-site yn stee fan deselfe site. Ferbetteret de befeiliging, mar soarget der mooglik foar dat de website net goed wurket.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: Service Worker-debugging
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Skeakelet yn it DevTools Debugger-paniel eksperimintele stipe foar service workers yn. Dizze funksje kin DevTools fertrage en it ûnthâldgebrûk ferheegje.
