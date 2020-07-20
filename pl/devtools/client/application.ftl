@@ -76,7 +76,7 @@ serviceworker-empty-intro-link = Więcej informacji
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
-serviceworker-empty-suggestions2 = Jeśli bieżąca strona powinna mieć wątek usługowy, to można poszukać błędów w <a>Konsoli</a> lub przejrzeć rejestrację wątku usługowego w <span>Debugerze</span>.
+serviceworker-empty-suggestions2 = Jeśli bieżąca strona powinna mieć wątek usługowy, to można poszukać błędów w <a>konsoli</a> lub przejrzeć rejestrację wątku usługowego w <span>debugerze</span>.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Wyświetl wątki usługowe z innych domen
