@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Foarkomme dat { -brand-short-name } ûndersiken �
 policy-DisableForgetButton = Tagong ta de knop Ferjitte foarkomme.
 policy-DisableFormHistory = Gjin syk- en formulierskiednis ûnthâlde.
 policy-DisableMasterPasswordCreation = Wannear true, kin gjin haadwachtwurd oanmakke wurde.
+policy-DisablePrimaryPasswordCreation = Wannear true, kin gjin haadwachtwurd oanmakke wurde.
 policy-DisablePasswordReveal = Net tastean dat wachtwurden te sjen binne yn bewarre oanmeldingen.
 policy-DisablePocket = De funksje foar it bewarjen fan websiden nei Pocket útskeakelje.
 policy-DisablePrivateBrowsing = Priveenavigaasje útskeakelje.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op spesifike websites 
 
 policy-LocalFileLinks = Spesifike websites tastean te keppeljen nei lokale bestannen.
 policy-MasterPassword = In haadwachtwurd fereaskje of foarkomme.
+policy-PrimaryPassword = In haadwachtwurd fereaskje of foarkomme.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) ynskeakelje of útskeakelje.
 policy-NewTabPage = De nije-ljepblêdside ynskeakelje of útskeakelje.
 policy-NoDefaultBookmarks = Oanmeitsjen fan de standertblêdwizers dy't mei { -brand-short-name } mei levere wurde útskeakelje, krekt as de Tûke blêdwizers (Meast besocht, Resinte labels). Noat: dizze beliedsregel is allinnich fan krêft by gebrûk derfan eardat it profyl foar it earst útfierd wurdt.

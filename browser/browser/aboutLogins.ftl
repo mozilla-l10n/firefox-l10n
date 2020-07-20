@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = bewarren oanmelding
 ## Master Password notification
 
 master-password-notification-message = Fier jo haadwachtwurd yn om bewarre oanmeldingen en wachtwurden te besjen
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Fier jo haadwachtwurd yn om bewarre oanmeldingen en wachtwurden te besjen
 master-password-reload-button =
     .label = Oanmelde
     .accesskey = O
