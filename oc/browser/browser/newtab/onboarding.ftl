@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Per començar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = La benvenguda dins <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Avètz ja lo navegador.<br/>Descobrissètz la rèsta de { -brand-product-name }.
 onboarding-welcome-learn-more = Mai d’informacion suls avantatges.
 onboarding-join-form-header = Rejonhètz { -brand-product-name }
@@ -44,6 +41,17 @@ onboarding-start-browsing-button-label = Començar de navegar
 onboarding-cards-dismiss =
     .title = Tirar
     .aria-label = Tirar
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = La benvenguda dins <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-import-secondary-button-label = Pas ara
+onboarding-multistage-theme-secondary-button-label = Pas ara
+onboarding-multistage-theme-label-light = Clar
+onboarding-multistage-theme-label-dark = Escur
+onboarding-multistage-theme-label-colorful = Pintrat
 
 ## Welcome full page string
 
