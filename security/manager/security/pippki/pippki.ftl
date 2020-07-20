@@ -8,7 +8,8 @@ password-quality-meter = Wachtwoordkwaliteitsmeter
 
 change-password-window =
     .title = Hoofdwachtwoord wijzigen
-
+change-device-password-window =
+    .title = Wachtwoord wijzigen
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Beveiligingsapparaat: { $tokenName }
@@ -21,6 +22,9 @@ change-password-reenter = Nieuw wachtwoord (nogmaals):
 reset-password-window =
     .title = Hoofdwachtwoord herinitialiseren
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Herinitialiseren
 reset-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?

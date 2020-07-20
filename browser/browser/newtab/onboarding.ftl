@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Beginnen
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Welkom bij { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Welkom bij <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = U hebt de browser.<br/>Maak kennis met de rest van { -brand-product-name }.
 onboarding-welcome-learn-more = Meer info over de voordelen.
 onboarding-join-form-header = Doe mee met { -brand-product-name }
@@ -44,6 +41,16 @@ onboarding-start-browsing-button-label = Beginnen met browsen
 onboarding-cards-dismiss =
     .title = Verwijderen
     .aria-label = Verwijderen
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Welkom bij <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-theme-secondary-button-label = Niet nu
+onboarding-multistage-theme-label-light = Licht
+onboarding-multistage-theme-label-dark = Donker
+onboarding-multistage-theme-label-colorful = Kleurrijk
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
