@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportar credenciai
 ## Master Password notification
 
 master-password-notification-message = Por favor introduza a sua palavra-passe mestra para ver credenciais e palavras-passe guardadas
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Por favor introduza a sua palavra-passe principal para ver credenciais e palavras-passe guardadas
 master-password-reload-button =
     .label = Iniciar sessão
     .accesskey = I
