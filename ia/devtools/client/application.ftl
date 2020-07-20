@@ -73,11 +73,20 @@ serviceworker-empty-suggestions-aboutdebugging = Inspectar le Laborantes de serv
 serviceworker-empty-intro2 = Nulle obreros de servicio trovate
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Saper plus
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = Si le actual pagina deberea haber un obrero de servicio, tu pote dar un reguardo pro errores in le <a>Consola</a> o analysar tu registration de obreros de servicio in le <span>Depurator</span>.
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Vider obreros de servicio de altere dominios
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifesto del app
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Tu debe adder un Manifesto de app web pro lo inspectar ci. <a>Saper plus</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Nulle file manifesto de app web trovate
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Saper como adder un manifesto
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
