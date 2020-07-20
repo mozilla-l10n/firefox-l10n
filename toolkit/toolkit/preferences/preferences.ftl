@@ -38,5 +38,7 @@ remove-info =
     .value = Du må skrive inn hovedpassordet for å fortsette:
 remove-warning1 = Hovedpassordet ditt brukes for å beskytte sensitiv informasjon som for eksempel passord på nettsider.
 remove-warning2 = Dersom du fjerner hovedpassordet vil informasjonen ikke være beskyttet dersom datamaskinen blir angrepet og kompromittert.
+remove-primary-password-warning1 = Primærpassordet ditt brukes for å beskytte sensitiv informasjon som for eksempel innlogginger og passord.
+remove-primary-password-warning2 = Dersom du fjerner primærpassordet vil informasjonen ikke være beskyttet dersom datamaskinen blir angrepet og kompromittert.
 remove-password-old-password =
     .value = Hovedpassord:
