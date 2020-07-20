@@ -30,3 +30,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Kakor 
 experimental-features-abouthome-startup-cache =
     .label = about:home startcache
 experimental-features-abouthome-startup-cache-description = En cache för startdokumentet about:home som laddas som standard vid start. Syftet med cachen är att förbättra startprestanda.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Kakor: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Behandla kakor från samma domän, men med olika scheman (t.ex. http://exempel.se och https://exempel.se) som flera webbplatser istället för samma webbplats. Förbättrar säkerheten, men kan göra att webbplatsen fungerar felaktigt.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: Felsökning av Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Aktiverar experimentellt stöd för Service Workers i DevTools felsökningspanel. Denna funktion kan slöa ner DevTools och öka minnesförbrukningen.
