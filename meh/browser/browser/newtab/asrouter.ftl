@@ -214,3 +214,8 @@ cfr-whatsnew-protections-icon-alt = Icono de escudo
 
 cfr-doorhanger-doh-primary-button = OK, Kaka!
     .accesskey = O
+cfr-doorhanger-doh-secondary-button = Chiyu´u
+    .accesskey = D
+
+## What's new: Cookies message
+

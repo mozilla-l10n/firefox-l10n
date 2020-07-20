@@ -50,6 +50,8 @@ import-migrating-description = A nnasia´a da elementos..
 import-select-profile-page-title = Kaji perfil
 import-select-profile-description = Kuvi nasia´a datos da perfiles ya´a:
 import-done-page-title = Nnɨ'ɨ nasia´a
+import-done-description = Da elemento nnasia´a vatu:
+import-close-source-browser = Kune'ya, ka̱a̱ nánuku nkaji nasɨ je kaka.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -93,6 +95,20 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Da nuu kajie´e sesión ji contraseñas nchuva'a
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Marcadores
+            [edge] Marcadores
+           *[other] Marcadores
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Marcadores
+            [edge] Marcadores
+           *[other] Marcadores
+        }
 browser-data-otherdata-checkbox =
     .label = Inka datos
 browser-data-otherdata-label =
