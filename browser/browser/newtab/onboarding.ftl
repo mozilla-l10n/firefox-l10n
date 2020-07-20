@@ -47,6 +47,14 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Welkom bij <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-label = Aanmelden
+onboarding-multistage-welcome-secondary-button-text = Hebt u een account?
+onboarding-multistage-import-secondary-button-label = Niet nu
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Kies een <span data-l10n-name="zap">uiterlijk</span>
+onboarding-multistage-theme-subtitle = Personaliseer { -brand-short-name } met een thema.
+onboarding-multistage-theme-primary-button-label = Thema opslaan
 onboarding-multistage-theme-secondary-button-label = Niet nu
 onboarding-multistage-theme-label-light = Licht
 onboarding-multistage-theme-label-dark = Donker

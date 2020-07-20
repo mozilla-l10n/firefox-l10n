@@ -22,6 +22,9 @@ change-password-reenter = Nieuw wachtwoord (nogmaals):
 reset-password-window =
     .title = Hoofdwachtwoord herinitialiseren
     .style = width: 40em
+pippki-failed-pw-change = Kan hoofdwachtwoord niet wijzigen.
+pippki-incorrect-pw = U hebt niet het juiste huidige hoofdwachtwoord ingevoerd. Probeer het opnieuw.
+pippki-pw-change-ok = Wachtwoord met succes gewijzigd.
 
 ## Reset Primary Password dialog
 

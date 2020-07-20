@@ -803,10 +803,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Een hoofdwachtwoord gebruiken
     .accesskey = d
+forms-primary-pw-use =
+    .label = Een hoofdwachtwoord gebruiken
+    .accesskey = h
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Hoofdwachtwoord wijzigen…
     .accesskey = z
 forms-master-pw-fips-title = U bent momenteel in FIPS-modus. FIPS vereist een ingesteld hoofdwachtwoord.
+forms-primary-pw-change =
+    .label = Hoofdwachtwoord wijzigen…
+    .accesskey = H
+forms-primary-pw-fips-title = U bent momenteel in FIPS-modus. FIPS vereist een ingesteld hoofdwachtwoord.
 forms-master-pw-fips-desc = Wachtwoordwijziging mislukt
 
 ## OS Authentication dialog
@@ -818,6 +828,13 @@ master-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Window
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = hoofdwachtwoord aanmaken
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om een hoofdwachtwoord in te stellen. Hierdoor wordt de beveiliging van uw accounts beschermd.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = een hoofdwachtwoord aanmaken
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
