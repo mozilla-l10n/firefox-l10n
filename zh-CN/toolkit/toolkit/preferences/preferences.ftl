@@ -14,6 +14,7 @@ pw-change2empty-in-fips-mode = 您正处于 FIPS 模式。该模式需要一个�
 failed-pp-change = 无法更改主密码。
 incorrect-pp = 您未输入正确的主密码，请重试。
 pp-change-ok = 已成功更改主密码。
+pp-empty-warning = 您存储的密码和私钥将不再受保护。
 pp-erased-ok = 警告！您已经删除了您的主密码。 { pp-empty-warning }
 pp-not-wanted = 警告！您决定了不使用主密码。 { pp-empty-warning }
 pp-change2empty-in-fips-mode = 您正处于 FIPS 模式。该模式需要一个非空的主密码。
