@@ -31,6 +31,7 @@ remove-password =
     .title = Fjern hovedpassord
 primary-password-admin = Administratoren din krever at du har et primært passord for å lagre passord.
 primary-password-description = Dersom du trenger å beskytte noe sensitiv informasjon, som for eksempel innlogginger og passord, kan du bruke et primærpassord.  Dersom du oppretter et primærpassord, må du oppgi passordet for hver programøkt der { -brand-short-name } henter ut lagret informasjon som er beskyttet av passordet.
+primary-password-warning = Vær sikker på at du husker primærepassordet.  Dersom du glemmer hovedpassordet vil du ikke få tilgang til informasjonen som er beskyttet av det på denne enheten.
 remove-primary-password =
     .title = Fjern primnærpassordet
 remove-info =
