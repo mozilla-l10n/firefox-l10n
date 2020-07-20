@@ -54,6 +54,8 @@ onboarding-multistage-welcome-secondary-button-text = Hebt u een account?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importeer uw wachtwoorden, bladwijzers en <span data-l10n-name = "zap">meer</span>
+onboarding-multistage-import-subtitle = Gebruikte u een andere browser? Het is eenvoudig om alles naar { -brand-short-name } over te brengen.
+onboarding-multistage-import-primary-button-label = Import starten
 onboarding-multistage-import-secondary-button-label = Niet nu
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
@@ -74,6 +76,12 @@ onboarding-import-sites-info =
         een andere browser, tenzij u ervoor kiest ze te
         importeren.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Aan de slag: scherm { $current } van { $total }
 
 ## Welcome full page string
 
