@@ -30,3 +30,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Infoka
 experimental-features-abouthome-startup-cache =
     .label = about:home oppstartshurtigbuffer
 experimental-features-abouthome-startup-cache-description = Ein hurtigbuffer for det første about:home-dokumentet som er lasta som standard ved oppstart. Føremålet med hurtigbufferen er å forbetre oppstartytinga.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Infokapslar: Schemeful SameSite
