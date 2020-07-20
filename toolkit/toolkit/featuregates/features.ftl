@@ -34,6 +34,9 @@ experimental-features-abouthome-startup-cache-description = Ein hurtigbuffer for
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Infokapslar: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Handsam informasjonskapslar frå same domene, men med ulike skjema (t.d. http://example.com og https://example.com) som fleire nettstadar i staden for same nettstad. Betrar sikkerheita, men introduserer potensielt brot.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-serviceworker-debugger-support =
     .label = DevTools: Feilsøking av Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Aktiverer eksperimentell støtte for Service Workers i DevTools feilsøkingspanelet. Denne funksjonen kan gjere DevTools treg og auke minnebruken.
