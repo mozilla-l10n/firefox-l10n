@@ -30,3 +30,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = “Sam
 experimental-features-abouthome-startup-cache =
     .label = about:home 시작 캐시
 experimental-features-abouthome-startup-cache-description = 시작시 기본적으로 로드되는 초기 about:home 문서에 대한 캐시입니다. 캐시의 목적은 시작 성능을 향상시키는 것입니다.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: 체계를 따르는 SameSite
+experimental-features-cookie-samesite-schemeful-description = 같은 도메인이지만 다른 체계 (예: http://example.com과 https://example.com)의 쿠키를 same-site 대신 cross-site로 처리합니다. 보안을 향상시키지만 잠재적으로 깨짐이 발생할 수 있습니다.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: Service Worker 디버깅
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = DevTools 디버거 패널에서 Service Worker를 실험적으로 지원합니다. 이 기능은 DevTools 속도를 저하시키고 메모리 소비를 증가시킬 수 있습니다.
