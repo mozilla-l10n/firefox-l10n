@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Uniemożliwienie przeprowadzania badań przez pro
 policy-DisableForgetButton = Wyłączenie dostępu do przycisku „Wyczyść”.
 policy-DisableFormHistory = Wyłączenie zachowywania historii wyszukiwania i formularzy.
 policy-DisableMasterPasswordCreation = Wartość „prawda” powoduje, że nie można utworzyć hasła głównego.
+policy-DisablePrimaryPasswordCreation = Wartość „prawda” powoduje, że nie można utworzyć hasła głównego.
 policy-DisablePasswordReveal = Wyłączenie możliwości wyświetlania haseł w zachowanych danych logowania.
 policy-DisablePocket = Wyłączenie funkcji zachowywania stron w Pocket.
 policy-DisablePrivateBrowsing = Wyłączenie trybu prywatnego.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Wracanie do starego za
 
 policy-LocalFileLinks = Zezwalanie podanym witrynom na odnośniki do lokalnych plików.
 policy-MasterPassword = Wymaganie lub uniemożliwienie używania hasła głównego.
+policy-PrimaryPassword = Wymaganie lub uniemożliwienie używania hasła głównego.
 policy-NetworkPrediction = Włączenie lub wyłączenie przewidywania sieci (wstępnego pobierania DNS).
 policy-NewTabPage = Włączenie lub wyłączenie strony nowej karty.
 policy-NoDefaultBookmarks = Wyłączenie tworzenia domyślnych zakładek dołączonych do przeglądarki { -brand-short-name } oraz dynamicznych zakładek („Często odwiedzane” i „Ostatnio używane etykiety”). Uwaga: ta zasada jest uwzględniana tylko przed pierwszym uruchomieniem profilu.
