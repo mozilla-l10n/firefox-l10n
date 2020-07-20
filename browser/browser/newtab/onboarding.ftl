@@ -47,6 +47,8 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = 欢迎使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = 快速、安全、私密的浏览器，由非营利组织全力支持。
+onboarding-multistage-welcome-primary-button-label = 开始设置
 onboarding-multistage-welcome-secondary-button-label = 登录
 onboarding-multistage-welcome-secondary-button-text = 已有账户？
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -54,6 +56,9 @@ onboarding-multistage-welcome-secondary-button-text = 已有账户？
 onboarding-multistage-import-header = 导入您的密码、书签和<span data-l10n-name="zap">其他数据</span>
 onboarding-multistage-import-primary-button-label = 开始导入
 onboarding-multistage-import-secondary-button-label = 暂时不要
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = 选择<span data-l10n-name="zap">外观</span>
 onboarding-multistage-theme-primary-button-label = 保存主题
 onboarding-multistage-theme-secondary-button-label = 暂时不要
 onboarding-multistage-theme-label-light = 明亮
