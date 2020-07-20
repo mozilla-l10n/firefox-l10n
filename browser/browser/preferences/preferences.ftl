@@ -785,7 +785,7 @@ forms-saved-logins =
     .label = 저장된 로그인…
     .accesskey = L
 forms-master-pw-use =
-    .label = 마스터 비밀번호 사용
+    .label = 기본 비밀번호 사용
     .accesskey = U
 forms-primary-pw-use =
     .label = 기본 비밀번호 사용
@@ -794,9 +794,9 @@ forms-primary-pw-use =
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = 마스터 비밀번호 변경…
+    .label = 기본 비밀번호 변경…
     .accesskey = M
-forms-master-pw-fips-title = 현재 FIPS 모드입니다. FIPS는 마스터 비밀번호가 설정되어야 합니다.
+forms-master-pw-fips-title = 현재 FIPS 모드입니다. FIPS는 기본 비밀번호가 설정되어야 합니다.
 forms-primary-pw-change =
     .label = 기본 비밀번호 변경…
     .accesskey = P
@@ -806,12 +806,12 @@ forms-master-pw-fips-desc = 비밀번호 변경 실패
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = 마스터 비밀번호를 만들려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
+master-password-os-auth-dialog-message-win = 기본 비밀번호를 만들려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = 마스터 비밀번호 만들기
+master-password-os-auth-dialog-message-macosx = 기본 비밀번호 만들기
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = 기본 비밀번호를 만들려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen by trying to add a Primary Password.
