@@ -20,7 +20,7 @@ process-type-file = Локальний файл
 process-type-weblargeallocation = Велике розміщення
 # process used to isolate a webpage from other web pages
 # to improve security
-process-type-webisolated = Ізольований веб-вміст
+process-type-webisolated = Ізольований вебвміст
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
