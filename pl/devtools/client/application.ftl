@@ -79,7 +79,7 @@ serviceworker-empty-intro-link = Więcej informacji
 serviceworker-empty-suggestions2 = Jeśli bieżąca strona powinna mieć wątek usługowy, to można poszukać błędów w <a>konsoli</a> lub przejrzeć rejestrację wątku usługowego w <span>debugerze</span>.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging2 = Wyświetl wątki usługowe z innych domen
+serviceworker-empty-suggestions-aboutdebugging2 = Zobacz wątki usługowe z innych domen
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest aplikacji
 # Header for the Manifest page when there's no manifest to inspect
