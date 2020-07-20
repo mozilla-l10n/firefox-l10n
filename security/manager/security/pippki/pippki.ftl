@@ -25,8 +25,10 @@ reset-password-window =
 pippki-failed-pw-change = Klarte ikkje å endre passord.
 pippki-incorrect-pw = Du skreiv ikkje inn rett gjeldande passord. Prøv igjen.
 pippki-pw-change-ok = Passordet er endra.
+pippki-pw-empty-warning = Lagra passord og private nøklar vil ikkje bli verna.
 pippki-pw-erased-ok = Passordet er no sletta. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Åtvaring! Du har valt å ikkje bruke eit passord. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Du er i FIPS-modus. FIPS krev at du brukar eit primært passsord.
 
 ## Reset Primary Password dialog
 
@@ -36,6 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Still tilbake
 reset-password-text = Dersom du stiller tilbake hovudpassordet, vil alle nett- og e-post-passord, skjemadata, personlege sertifikat og private nøklar som er lagra gå tapt. Vil du stille tilbake hovudpassordet?
+reset-primary-password-text = Dersom du stiller tilbake primærpassordet vil alle lagra nettside- og e-postpassord, personlege sertifikat og private nøklar gå tapt. Er du sikker på at du vil tilbakestille primærpassordet?
 pippki-reset-password-confirmation-title = Tilbakestill primærpassord
 pippki-reset-password-confirmation-message = Primærpassordet ditt er tilbakestilt.
 
