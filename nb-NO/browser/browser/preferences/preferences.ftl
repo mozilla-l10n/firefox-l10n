@@ -665,7 +665,7 @@ sync-remove-account =
 sync-sign-in =
     .label = Logg inn
     .accesskey = g
-sync-signedin-settings-header = Sync-innstillinger
+sync-signedin-settings-header = Synkroniseringsinnstillinger
 sync-signedin-settings-desc = Velg hva du vil synkronisere på enhetene dine med { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
