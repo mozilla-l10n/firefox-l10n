@@ -35,7 +35,7 @@ policy-DisableFirefoxScreenshots = Firefox 스크린샷 기능을 사용 안 합
 policy-DisableFirefoxStudies = { -brand-short-name } 연구 실행을 막습니다.
 policy-DisableForgetButton = Forget 버튼 접근을 막습니다.
 policy-DisableFormHistory = 검색과 양식 기록을 기억하지 않습니다.
-policy-DisableMasterPasswordCreation = True 값이면 마스터 비밀번호를 만들 수 없습니다.
+policy-DisableMasterPasswordCreation = True 값이면 기본 비밀번호를 만들 수 없습니다.
 policy-DisablePrimaryPasswordCreation = True 값이면 기본 비밀번호를 만들 수 없습니다.
 policy-DisablePasswordReveal = 저장된 로그인에 비밀번호 보기 기능을 허용하지 않습니다.
 policy-DisablePocket = Pocket에 웹 사이트 저장하는 기능을 사용 안 합니다.
@@ -79,7 +79,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 지정된 사이트의
 ##
 
 policy-LocalFileLinks = 특정 웹 사이트가 로컬 파일을 링크하도록 허용합니다.
-policy-MasterPassword = 마스터 비밀번호 사용을 요구하거나 금지합니다.
+policy-MasterPassword = 기본 비밀번호 사용을 요구하거나 금지합니다.
 policy-PrimaryPassword = 기본 비밀번호 사용을 요구하거나 금지합니다.
 policy-NetworkPrediction = 네트워크 예측(DNS 프리페칭)을 사용하거나 사용하지 않게 합니다.
 policy-NewTabPage = 새 탭 페이지를 사용하거나 사용하지 않게 합니다.
