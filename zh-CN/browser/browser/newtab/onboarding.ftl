@@ -53,7 +53,7 @@ onboarding-multistage-welcome-secondary-button-label = 登录
 onboarding-multistage-welcome-secondary-button-text = 已有账户？
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = 导入您的密码、书签和<span data-l10n-name="zap">其他数据</span>
+onboarding-multistage-import-header = 导入您的密码、书签和<span data-l10n-name="zap">更多数据</span>
 onboarding-multistage-import-primary-button-label = 开始导入
 onboarding-multistage-import-secondary-button-label = 暂时不要
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
