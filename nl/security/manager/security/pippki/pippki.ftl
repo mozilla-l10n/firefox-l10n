@@ -38,6 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Herinitialiseren
 reset-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?
+reset-primary-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?
 pippki-reset-password-confirmation-title = Hoofdwachtwoord opnieuw instellen
 pippki-reset-password-confirmation-message = Uw hoofdwachtwoord is opnieuw ingesteld
 
