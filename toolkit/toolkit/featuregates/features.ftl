@@ -30,3 +30,11 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Voor c
 experimental-features-abouthome-startup-cache =
     .label = Opstartbuffer about:home
 experimental-features-abouthome-startup-cache-description = Een opstartbuffer voor het initiële about:home-document wordt bij opstarten standaard geladen. Het doel van deze buffer is het verbeteren van de opstartprestaties.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Behandel cookies van hetzelfde domein, maar met verschillende schema's (bijvoorbeeld http://example.com en https://example.com) als cross-site in plaats van dezelfde site. Verbetert de beveiliging, maar zorgt er mogelijk voor dat de website niet goed functioneert.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: Service Worker-debugging
