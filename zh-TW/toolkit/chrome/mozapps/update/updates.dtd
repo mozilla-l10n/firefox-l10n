@@ -7,7 +7,7 @@
 <!ENTITY  updateCheck.label               "正在尋找更新版的 &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "無任何更新">
-<!ENTITY  noupdatesautoenabled.intro      "目前沒有新的更新檔。 &brandShortName; 會定期檢查是否有更新。">
+<!ENTITY  noupdatesautoenabled.intro      "目前沒有新的更新檔。&brandShortName; 會定期檢查是否有更新。">
 <!ENTITY  noupdatesautodisabled.intro     "目前沒有新的更新檔。請在稍後再檢查或是啟用 &brandShortName; 的自動檢查更新功能。">
 
 <!ENTITY  manualUpdate.title              "無法更新">
@@ -39,7 +39,7 @@
                                            
 <!ENTITY  errorManual.label               "請手動瀏覽下列網址並下載最新版的 &brandShortName; :">
                                            
-<!ENTITY  errorpatching.intro             "部份更新失敗。 &brandShortName; 將會重新下載完整更新。">
+<!ENTITY  errorpatching.intro             "部份更新失敗。&brandShortName; 將會重新下載完整更新。">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; 無法偵測可用的更新。請確認
                                            您已自下列位置下載最新的 &brandShortName;:">
@@ -51,6 +51,7 @@
 <!ENTITY  finishedBackground.name         "更新:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "此更新會在下次 &brandShortName; 啟動時安裝。您可以現在就重開 &brandShortName;，或是繼續使用，稍後再重新啟動。">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.moreElevated "需要有系統管理員權限才能安裝此更新，此更新將在下次啟動 &brandShortName; 時安裝。
 您可以立刻重新啟動 &brandShortName;、繼續使用稍後再更新，或是拒絕此更新。">
 
