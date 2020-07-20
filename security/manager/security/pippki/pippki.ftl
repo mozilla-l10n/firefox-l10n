@@ -28,7 +28,7 @@ pippki-pw-change-ok = Passordet er endret.
 pippki-pw-empty-warning = Dine lagrede passord og private nøkler vil ikke bli beskyttet.
 pippki-pw-erased-ok = Passordet er nå slettet. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Advarsel! Du har valgt å ikke bruke et passord. { pippki-pw-empty-warning }
-pippki-pw-change2empty-in-fips-mode = Du er i FIPS-modus. FIPS krever at du bruker et primært passsord.
+pippki-pw-change2empty-in-fips-mode = Du er i FIPS-modus. FIPS krever at du bruker et primærpassord.
 
 ## Reset Primary Password dialog
 
