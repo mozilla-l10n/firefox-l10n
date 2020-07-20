@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Begjinne
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Wolkom by { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Wolkom by <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Jo hawwe de browser.<br/>Kom yn de kunde mei de rest fan { -brand-product-name }.
 onboarding-welcome-learn-more = Mear ynfo oer de foardielen.
 onboarding-join-form-header = Doch mei mei { -brand-product-name }
@@ -44,6 +41,31 @@ onboarding-start-browsing-button-label = Begjinne mei sneupen
 onboarding-cards-dismiss =
     .title = Fuortsmite
     .aria-label = Fuortsmite
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Wolkom by <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = De flugge, feilige en priveebrowser dy't stipe wurdt troch in non-profitorganisaasje.
+onboarding-multistage-welcome-primary-button-label = Ynstellen starte
+onboarding-multistage-welcome-secondary-button-label = Oanmelde
+onboarding-multistage-welcome-secondary-button-text = Hawwe jo in account?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Ymportearje jo wachtwurden, blêdwizers en <span data-l10n-name = "zap">mear</span>
+onboarding-multistage-import-subtitle = Hawwe jo in oare browser brûkt? It is ienfâldich om alles nei { -brand-short-name } oer te bringen.
+onboarding-multistage-import-primary-button-label = Ymport starte
+onboarding-multistage-import-secondary-button-label = No net
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Kies in <span data-l10n-name="zap">uterlik</span>
+onboarding-multistage-theme-subtitle = Personalisearje { -brand-short-name } mei in tema.
+onboarding-multistage-theme-primary-button-label = Tema bewarje
+onboarding-multistage-theme-secondary-button-label = No net
+onboarding-multistage-theme-label-light = Ljocht
+onboarding-multistage-theme-label-dark = Tsjuster
+onboarding-multistage-theme-label-colorful = Kleurich
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
@@ -54,6 +76,12 @@ onboarding-import-sites-info =
         in oare browser, útsein jo derfoar kieze se te
         ymportearjen.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Oan de slach: skerm { $current } fan { $total }
 
 ## Welcome full page string
 
