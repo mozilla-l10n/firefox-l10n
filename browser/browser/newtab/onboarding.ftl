@@ -47,10 +47,20 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = 歡迎使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-primary-button-label = 開始設定
 onboarding-multistage-welcome-secondary-button-label = 登入
 onboarding-multistage-welcome-secondary-button-text = 已經有帳號了？
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = 匯入您的密碼、書籤與<span data-l10n-name="zap">更多資料</span>
+onboarding-multistage-import-subtitle = 從其他瀏覽器過來使用？很簡單就能把所有東西都帶來 { -brand-short-name }。
 onboarding-multistage-import-primary-button-label = 開始匯入
 onboarding-multistage-import-secondary-button-label = 現在不要
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = 挑選一種<span data-l10n-name="zap">風格</span>
+onboarding-multistage-theme-subtitle = 使用佈景主題，讓 { -brand-short-name } 有您的風格
+onboarding-multistage-theme-primary-button-label = 儲存佈景主題
 onboarding-multistage-theme-secondary-button-label = 現在不要
 onboarding-multistage-theme-label-light = 亮色
 onboarding-multistage-theme-label-dark = 暗色
@@ -61,6 +71,12 @@ onboarding-multistage-theme-label-colorful = 鮮豔
 onboarding-import-sites-info =
     .title = 在此裝置找到下列網站。除非您決定要匯入網站資料，否則 { -brand-short-name } 並不會儲存或同步另一套瀏覽器上的資料。
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = 開始使用: 第 { $current } 畫面，全部共 { $total } 畫面
 
 ## Welcome full page string
 
