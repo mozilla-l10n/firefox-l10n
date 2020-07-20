@@ -29,6 +29,7 @@ master-password-description = Dersom du trenger å beskytte sensitiv informasjon
 master-password-warning = Vær sikker på at du husker hovedpassordet.  Dersom du glemmer hovedpassordet vil du ikke få tilgang til informasjonen som er beskyttet av det.
 remove-password =
     .title = Fjern hovedpassord
+primary-password-admin = Administratoren din krever at du har et primært passord for å lagre passord.
 remove-primary-password =
     .title = Fjern primnærpassordet
 remove-info =
