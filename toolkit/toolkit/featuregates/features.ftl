@@ -30,6 +30,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = 属性
 experimental-features-abouthome-startup-cache =
     .label = about:home 启动缓存
 experimental-features-abouthome-startup-cache-description = 缓存启动时默认加载的 about:home 初始文件，以提高启动性能。
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookie: SameSite［区分规范］
+experimental-features-cookie-samesite-schemeful-description = 将不同规范的的同一域名（如 http://example.com 和 https://example.com）的 Cookie 视为跨站而非同站。此举可提高安全性，但可能会导致某些网站异常。
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-serviceworker-debugger-support =
     .label = 开发者工具：Service Worker 调试
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = 在“调试器”面板中启用对 Service Worker 的实验性支持。此功能可能会拖慢开发者工具的响应速度，并增加内存消耗。
