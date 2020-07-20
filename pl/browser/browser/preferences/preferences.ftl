@@ -807,10 +807,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Hasło główne
     .accesskey = H
+forms-primary-pw-use =
+    .label = Hasło główne
+    .accesskey = H
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Zmień hasło główne…
     .accesskey = Z
 forms-master-pw-fips-title = Program pracuje obecnie w trybie FIPS. Tryb FIPS wymaga niepustego hasła głównego.
+forms-primary-pw-change =
+    .label = Zmień hasło główne…
+    .accesskey = Z
+forms-primary-pw-fips-title = Program pracuje obecnie w trybie FIPS. Tryb FIPS wymaga niepustego hasła głównego.
 forms-master-pw-fips-desc = Zmiana hasła się nie powiodła.
 
 ## OS Authentication dialog
@@ -822,6 +832,13 @@ master-password-os-auth-dialog-message-win = Aby utworzyć hasło główne, wpro
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = utworzenie hasła głównego
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Aby utworzyć hasło główne, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = utworzenie hasła głównego
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
