@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Protecciones de privacidad
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Kua´an nuu reporte privacidad noo´o
+appmenuitem-update-banner =
+    .label-update-downloading = Xinuu a jía { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-customize-mode =
     .label = Sá´á vii
@@ -27,3 +26,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nakuvi a jíía íyo
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Kachí de íyo a jía funciones
+    .accesskey = f

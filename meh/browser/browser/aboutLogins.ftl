@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Nuu kajie´e sesión ji contraseñas
@@ -32,6 +27,7 @@ menu =
     .title = Síne menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Nake'ema ji inka ka̱a̱ nánuku
+about-logins-menu-menuitem-import-from-a-file = Nasia´a ji iin archivo…
 about-logins-menu-menuitem-export-logins = Kuiso da nuu kajie'e sesión...
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -71,6 +67,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = ¿Nánuku da nuu kajie´e sesión nchuva´a?Ke'i { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = ¿Nánuku da nuu kajie´e sesión nchuva´a?Ke'i { -sync-brand-short-name } a xiin nasia'a.
 about-logins-login-intro-heading-logged-in = Ntu nani´i nuu kajie´e sesión sincronizados.
 login-intro-description = De nchuva´anu da nuu kajie´e sesión { -brand-product-name } nuu inka ka̱a̱, ya´a kutuvi naja nani´inuma je suni:
 login-intro-instruction-fxa = Sá´á a xíín kajie´e sesión nuu { -fxaccount-brand-name } ji ka̱a̱ nuu nkajie´enu sesión nchuva´a
@@ -129,6 +126,9 @@ about-logins-export-password-os-auth-dialog-message-macosx = Kuiso da nuu kajie'
 ## Master Password notification
 
 master-password-notification-message = Kuamani ini noo´o je, chu´un contraseña kuña´nu saa kutuvi da nuu kajie´e sesión nchuva´a ji contraseñas
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Kajie´e sesión
     .accesskey = K
@@ -208,4 +208,17 @@ about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV Tutu
        *[other] CSV Archivo
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Kuiso archivo nuu kajie'e sesión
+about-logins-import-file-picker-import-button = Nasia´a
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento CSV
+       *[other] Archivo CSV
     }

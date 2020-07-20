@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+import-from-bookmarks = Nasia´a marcadores vaji:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
@@ -41,7 +42,14 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+no-migration-sources = Ntu nnani´i ka̱a̱ kumi marcadores, da nnánuku a xíín contraseñas.
+import-source-page-title = Nasia´a configuraciones ji datos
+import-items-description = Kaji da elementos kuvi nasia´a:
+import-migrating-page-title = Nasia´a…
+import-migrating-description = A nnasia´a da elementos..
 import-select-profile-page-title = Kaji perfil
+import-select-profile-description = Kuvi nasia´a datos da perfiles ya´a:
+import-done-page-title = Nnɨ'ɨ nasia´a
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
