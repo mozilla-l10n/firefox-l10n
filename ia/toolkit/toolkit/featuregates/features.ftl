@@ -35,3 +35,6 @@ experimental-features-abouthome-startup-cache-description = Cache pro le content
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Tracta cookies del mesme dominio, ma con differente schemas (e.g. http://example.com e https://example.com) como inter-sitos in vice del mesme-sito. Meliora le securitate, ma pote introducer problemas.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: depuration de obrero de servicio
