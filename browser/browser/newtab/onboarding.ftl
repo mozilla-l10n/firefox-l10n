@@ -47,8 +47,20 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Добро пожаловать в <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-primary-button-label = Начать настройку
+onboarding-multistage-welcome-secondary-button-label = Войти
+onboarding-multistage-welcome-secondary-button-text = Уже есть аккаунт?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Импортируйте свои пароли, закладки и <span data-l10n-name="zap">многое другое</span>
+onboarding-multistage-import-primary-button-label = Начать импорт
 onboarding-multistage-import-secondary-button-label = Не сейчас
+onboarding-multistage-theme-subtitle = Персонализируйте { -brand-short-name } темами.
+onboarding-multistage-theme-primary-button-label = Сохранить тему
 onboarding-multistage-theme-secondary-button-label = Не сейчас
+onboarding-multistage-theme-label-light = Светлая
+onboarding-multistage-theme-label-dark = Тёмная
+onboarding-multistage-theme-label-colorful = Яркие цвета
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
