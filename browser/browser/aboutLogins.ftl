@@ -135,6 +135,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = wyeksportowanie zac
 ## Master Password notification
 
 master-password-notification-message = Proszę podać hasło główne, aby wyświetlić zachowane dane logowania i hasła
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Proszę podać hasło główne, aby wyświetlić zachowane dane logowania i hasła
 master-password-reload-button =
     .label = Zaloguj się
     .accesskey = Z
