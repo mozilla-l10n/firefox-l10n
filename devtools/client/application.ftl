@@ -73,11 +73,22 @@ serviceworker-empty-suggestions-aboutdebugging = 檢測來自其他網域的 Ser
 serviceworker-empty-intro2 = 沒有找到 service worker
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = 了解更多
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = 若目前頁面中應該要有 service worker，可以到<a>主控台</a>看看有沒有錯誤訊息，或是到<span>除錯器</span>確認 service worker 的註冊狀態。
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = 檢視來自其他網域的 service worker
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = 應用程式 Manifest
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = 您需要先加入 web app Manifest 才可在此檢測。<a>了解更多</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = 未偵測到網頁應用程式的安裝資訊檔
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = 了解如何加入安裝資訊檔
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = 錯誤與警告
 # Header for the Identity section of Manifest inspection displayed in the application panel.
