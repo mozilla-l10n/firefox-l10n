@@ -306,7 +306,7 @@ manage-extensions-shortcuts =
 addon-manage-extensions-shortcuts = 확장 기능 단축키 관리
     .accesskey = S
 shortcuts-no-addons = 사용하는 확장 기능이 없습니다.
-shortcuts-no-commands = 다음 확장 기능에는 단축키가 없습니다:
+shortcuts-no-commands = 다음 확장 기능은 단축키가 없습니다:
 shortcuts-input =
     .placeholder = 단축키 입력
 shortcuts-browserAction = 확장 기능 활성화
@@ -462,7 +462,7 @@ available-updates-heading = 업데이트 가능 항목
 recent-updates-heading = 최근 업데이트
 release-notes-loading = 로드 중…
 release-notes-error = 죄송합니다. 출시 정보를 불러오는 중에 오류가 발생했습니다.
-addon-permissions-empty = 이 확장 기능에는 권한이 필요하지 않습니다.
+addon-permissions-empty = 이 확장 기능은 권한이 필요하지 않습니다.
 recommended-extensions-heading = 추천 확장 기능
 recommended-themes-heading = 추천 테마
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

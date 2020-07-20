@@ -96,7 +96,7 @@ extension-controlled-web-notifications = <img data-l10n-name="icon"/> { $name } 
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } 확장 기능이 기본 검색 엔진을 설정했습니다.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } 확장 기능에는 컨테이너 탭이 필요합니다.
+extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } 확장 기능은 컨테이너 탭이 필요합니다.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> { $name } 확장 기능이 이 설정을 제어하고 있습니다.
@@ -166,7 +166,7 @@ show-tabs-in-taskbar =
     .label = Windows 작업 표시줄에 탭 미리 보기 표시
     .accesskey = k
 browser-containers-enabled =
-    .label = 컨테이너 탭 활성화
+    .label = 컨테이너 탭 사용
     .accesskey = n
 browser-containers-learn-more = 더 알아보기
 browser-containers-settings =
