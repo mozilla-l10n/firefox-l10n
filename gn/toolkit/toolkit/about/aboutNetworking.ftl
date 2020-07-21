@@ -86,7 +86,7 @@ about-networking-messages-received = Marandu japyhypyre
 about-networking-bytes-sent = Bytes mondopyre
 about-networking-bytes-received = Bytes japyhypyre
 about-networking-logging = Hasapy
-about-networking-log-tutorial = Eporandu <a data-l10n-name="logging">HTTP Logging</a> eikuaaséramo mba'éichapa eipurúta ko tembipuru.
+about-networking-log-tutorial = Eporandu <a data-l10n-name="logging">HTTP Logging</a> eikuaasérõ mba’éichapa eipurúta tembipuru.
 about-networking-current-log-file = Marandurenda rembiasakue rehegua:
 about-networking-current-log-modules = Jehaipy ra’ãha rehegua:
 about-networking-set-log-file = Emopyenda marandurenda jehaipy

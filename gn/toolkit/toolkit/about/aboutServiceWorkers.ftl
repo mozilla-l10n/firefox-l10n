@@ -5,11 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = Mba'apohára mba'epytyvõrã rehegua
-about-service-workers-main-title = Mba'apohára mba'epytyvõrã mboguapýva
-about-service-workers-warning-not-enabled = Mba'apohára mba'epytyvõrã noñemoneĩriva
-about-service-workers-warning-no-service-workers = Ndaipóri mba'apohára mba'epytyvõrã mboguapýva
-
+about-service-workers-title = Mba’apohára mba’epytyvõrã rehegua
+about-service-workers-main-title = Mba’apohára mba’epytyvõrã mboguapýva
+about-service-workers-warning-not-enabled = Mba’apohára mba’epytyvõrã noñemoneĩriva
+about-service-workers-warning-no-service-workers = Ndaipóri mba’apohára mba’epytyvõrã mboguapýva
 # The original title of service workers' information
 #
 # Variables:
@@ -24,17 +23,13 @@ origin-title = Teñoiha: { $originTitle }
 
 scope = <strong>Hupytyha peve:</strong> { $name }
 script-spec = <strong>Giõ Spec:</strong> <a data-l10n-name="link">{ $url }</a>
-current-worker-url = <strong>Mba'apohára ag̃agua URL:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>Mba’apohára ag̃agua URL:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Emyandy kache réra:</strong> { $name }
 waiting-cache-name = <strong>Eha'arõhína kache réra:</strong> { $name }
 push-end-point-waiting = <strong>Emyaña kyta paha:</strong> { waiting }
 push-end-point-result = <strong>Emyaña kyta paha:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Ñembohekopyahu
-
 unregister-button = Haipy hejarei
-
-unregister-error = Ojavy emboguekuévo pe haipy ko mab'apohára mba'epytyvõrãva.
-
+unregister-error = Ojavy emboguekuévo pe haipy ko mab’apohára mba’epytyvõrãva.
 waiting = Oha'arõhína…

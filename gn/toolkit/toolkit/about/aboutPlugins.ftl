@@ -5,7 +5,7 @@
 title-label = Mba’ejoajurã rehegua
 installed-plugins-label = Mba’ejoajurã mohendapyréva
 no-plugins-are-installed-label = Ndaipóri mba’ejoajurã mohendapyréva
-deprecation-description = Oĩpa nderejuhúiva? Sapy'ánte oĩ mba'ejoajurã ndaikatuvéima ojepuru. <a data-l10n-name="deprecation-link">Kuaave.</a>
+deprecation-description = Oĩpa nderejuhúiva? Sapy’ánte oĩ mba’ejoajurã ndaikatuvéima ojepuru. <a data-l10n-name="deprecation-link">Kuaave.</a>
 
 ## The information of plugins
 ##

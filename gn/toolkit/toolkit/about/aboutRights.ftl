@@ -3,7 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rights-title = Iderechokuéra rehegua
-rights-intro = { -brand-full-name } ha’e peteĩ software ñeme’ẽreíva ha heko jurujáva peteĩ tekove aty oĩhápe hetaiterei pytyvõhára arapy tuichakue jave. Oĩ hetaiterei mba’e eikuaaséramo g̃uarã:
+rights-intro =
+    { -brand-full-name } ha’e software reigua ha heko jurujáva tekove aty oĩhápe heta pytyvõhára arapy tuichakuépe. Oĩ hetaiterei mba’e eikuaaséramo
+    g̃uarã:
 rights-intro-point-1 =
     { -brand-short-name } eipurukuaa ko’ã jeguataha ehapykuehórõ
     <a data-l10n-name="mozilla-public-license-link">Mozilla mba’eteéva</a>.
@@ -11,14 +13,17 @@ rights-intro-point-1 =
     License ñemoneĩ opavaveguáva, ome’ẽ derécho emyasãivo pe hembiapokue ñemoambuepyréva.
 rights-intro-point-2 = Mozilla Foundation ha heseguáva noñeme’ẽi mba’evéichagua derécho térã ñe’ẽme’ẽ ñemurã rehegua, oike avei ápe Firefox réra ha ha’ãnga’i. Ikatu ojejuhu marandu pe ñemurã reheguáva <a data-l10n-name="mozilla-trademarks-link">ápe</a>.
 rights-intro-point-3 = Mbovy mba’e { -brand-short-name }-pe, jejavy mombe’uháraicha, omomarandukuaa { -vendor-short-name }-pe. Oñemondóta jave pe marandu, ome’ẽ { -vendor-short-name }-pe juruja ojepuru porã hag̃ua pe marandu omoporãverekávo imba’erepy, oñemoherakuã hag̃ua pe marandu iñanduti rendápe ha oñemyasãi hag̃ua.
-rights-intro-point-4 = Mba'eichaitépa ojepuru nemaranduete ha umi temiandu ojeguerahaukáva { -vendor-short-name }-pe { -brand-short-name } rupive oñemoha'ãnga amo <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } temiñemi purureko</a>.
+rights-intro-point-4 =
+    Mba’eichaitépa ojepuru nemaranduete ha umi temiandu ojeguerahaukáva
+    { -vendor-short-name }-pe { -brand-short-name } rupive oñemoha’ãnga amo <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }
+    Temiñemi Purureko</a>.
 rights-intro-point-4-unbranded = Oimeraẽva temiñemi purureko ko japopyrépe g̃uarãva oñembohysyiva’erã ko’ápe.
 rights-intro-point-5 = Heta mba’e { -brand-short-name } rehegua oipuru marandu ñanduti pegua, péicharamo jepe, ndaikatúi romoañetévo oĩporãmbaiteha. Ikatu ejuhu mba’emimi, oikekuaahápe marandu he’íva mba’éichapa ikatu eipe’aite umi mba’e oipurúva ko’ã mba’epururã, amo <a data-l10n-name="mozilla-service-terms-link">mba’epytyvõrã ñemboguata</a>.
 rights-intro-point-5-unbranded = Ko japopyre oikéramo ñanduti mba’epytyvõrãme, oimeraẽva mba’epytyvõrã ojogueraháva umi mba’epytyvõrã ndive oikeva’erã ojokuápe amo <a data-l10n-name="mozilla-website-services-link">Ñanduti renda mba’epytyvõrã</a> pehẽ’i.
 rights-intro-point-6 = Embohetaseve rupi hetaichagua ta’ãngamýi tretepy, { -brand-short-name } omboguejy heta mbopapapy ra’ãha tetepy mbohapyguáva rehegua.
-rights-webservices-header = Mba'epytyvõrã { -brand-full-name } marandu ñanduti pegua
+rights-webservices-header = Mba’epytyvõrã { -brand-full-name } marandu ñanduti pegua
 rights-webservices = { -brand-full-name } oipuru marandu mba’epytyvõrã ipyendáva ñandutípe (“mba’epytyvõrã”) ome’ẽ hag̃ua heseguamimi ojepurukuaáva apopy ikõirekóva { -brand-short-name }-pe ojehaiháicha ko’a guive. Ndereipuruséirõ peteĩ térã hetave mba’epytyvõrã térã jehairysýi oĩva ko’a guive noñemoneĩkuaái, ikatu embogue hesegua térã mba’epytyvõrã. Reikuaasérõ mba’éicha remboguekuaa mba’e hesegua térã mba’epytyvõrã rejuhukuaa ko’ápe <a data-l10n-name="mozilla-disable-service-link">ko’ápe</a>. Ambue mba’e ha mba’epytyvõrã ikatu oñembogue tembipuru’i erohoryvéva rupi.
-rights-safebrowsing = <strong>Kundaha jeroviáva: </strong>Kundaha ñemi rehegua jeikekatu noñemoneĩmbái ikatu rehe nde gueraha tenda jerovia’ỹhápe. Emboguesetéramo ko mba'e rehegua, ehechakuaa ko tape:
+rights-safebrowsing = <strong>Kundaha jeroviáva: </strong>Kundaha ñemi rehegua jeikekatu noñemoneĩmbái ikatu rehe nde gueraha tenda jerovia’ỹhápe. Emboguesetéramo ko mba’e rehegua, ehechakuaa ko tape:
 rights-safebrowsing-term-1 = Eike tembipuru’i erohoryvévape
 rights-safebrowsing-term-2 = Eiporavo Tekorosãrã ta’ãngarupa
 rights-safebrowsing-term-3 = Embogue poravopyrã "{ enableSafeBrowsing-label }"
@@ -30,7 +35,7 @@ rights-locationawarebrowsing-term-2 = Ehai geo.enabled
 rights-locationawarebrowsing-term-3 = Eikutu jo'a jerohoryváva geo.enabled-pe
 rights-locationawarebrowsing-term-4 = Pe kundaha tendaite rehegua oñemongéma ko'ág̃a
 rights-webservices-unbranded = Ko’ápe emoinge peteĩ ñanduti renda mba’epytyvõrã pe japopyre ogueroikéva, je’epyre ndive mba’éichapa ojepe’aiteva’erã, ojejapótaramo.
-rights-webservices-term-unbranded = Oimeraẽva mba'epytyvõrã rape ko japopyrépe g̃uarãva oñembohysýi ko'ápe.
+rights-webservices-term-unbranded = Oimeraẽva mba’epytyvõrã rape ko japopyrépe g̃uarãva oñembohysýi ko’ápe.
 rights-webservices-term-1 = { -vendor-short-name } ha ipytyvõhára, virume’ẽha ha iñirũnguéra omba’apo ome’ẽ hag̃ua mba’epytyvõrã ha’ete ha ipyahuvéva. Upéicharõ jepe, ndaikatúi romoañete ko marandu ha’eha ijeroviaháva ha ndorekokuaaiha jejavy. Techapyrã, ñanduti mba’epytyvõrã jeroviáva ndohechakuaái heta tenda imarãva ha ikatu ohechakuaa avei heta tenda ijeroviarekóva jejavy rupi ha kundaharape oñemboujeýva kundaha mba’epytyvõrã me’ẽhára tendaite rehe oma’ẽvo año ha ore péicha avei ore me’ẽhára romboaje pe tendaite rome’ẽva oĩporãha.
 rights-webservices-term-2 = { -vendor-short-name } ikatu ndoku’ememéi térã omoambue mba’epytyvõrã ha’e oikpotaháicha
 rights-webservices-term-3 = Ikatu eipuru ko’ã mba’epytyvõrã { -brand-short-name } rehegua ndive, ha pe { -vendor-short-name } ome’ẽ derécho ejapóvo péicha. { -vendor-short-name } ha umi ipytyvõhára oñongatu mba’epytyvõrã derécho hembýva. Ko’ã je’epyre nomomichĩri mba’evéichagua derécho ome’ẽva umi ayvu ijurujáva ñe’ẽme’ẽgua ojogueraháva { -brand-short-name } ndive, ha ayvu reñoiha peteĩchagua { -brand-short-name } mba’éva rehegua.

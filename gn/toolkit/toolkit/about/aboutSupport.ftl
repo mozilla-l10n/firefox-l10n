@@ -9,7 +9,7 @@ crashes-id = ID momarandu
 crashes-send-date = Mondopyre
 crashes-all-reports = Opaite marandu’i jejavy rehegua
 crashes-no-config = Ko tembipuru’i oñembohekopyahu ohechauka hag̃ua marandu jejavy rehegua.
-extensions-title = Mba'ejoapyrã
+extensions-title = Mba’ejoapyrã
 extensions-name = Téra
 extensions-enabled = Myandypyre
 extensions-version = Peteĩchagua
@@ -55,21 +55,21 @@ app-basics-profile-dir =
         [linux] Marandurenda mba'ete
        *[other] Ñongatuha rechaukaha
     }
-app-basics-enabled-plugins = Mba'ejoajurã myendypyre
+app-basics-enabled-plugins = Mba’ejoajurã myendypyre
 app-basics-build-config = Mbyatypy ñemboheko
 app-basics-user-agent = Puruhára pytyvõha
 app-basics-os = OS
 app-basics-memory-use = Mandu’arenda jepuru
-app-basics-performance = Mba'eaporã
-app-basics-service-workers = Mba'apohára mba'epytyvõrã mboguapyréva
-app-basics-profiles = Mba'etekuéra
+app-basics-performance = Mba’eaporã
+app-basics-service-workers = Mba’apohára mba’epytyvõrã mboguapyréva
+app-basics-profiles = Mba’etekuéra
 app-basics-launcher-process-status = Momboha jepuru
 app-basics-multi-process-support = Windows rembiapoita
 app-basics-remote-processes-count = Tapereko okayguáva
-app-basics-enterprise-policies = Purureko mba'apoha rehegua
+app-basics-enterprise-policies = Purureko mba’apoha rehegua
 app-basics-location-service-key-google = Google ñemoñe’ẽasa ñe’ẽñemi
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
-app-basics-key-mozilla = Mozilla mba'epytyvõrã rendaite rehegua
+app-basics-key-mozilla = Mozilla mba’epytyvõrã rendaite rehegua
 app-basics-safe-mode = Teko jerovia
 show-dir-label =
     { PLATFORM() ->
@@ -80,12 +80,12 @@ show-dir-label =
 experimental-features-title = Tembiapoite oñeha’ãramóva
 experimental-features-name = Téra
 experimental-features-value = Tepykue
-modified-key-prefs-title = Jerohoryvéva tuichamba'éva moambuepyre
+modified-key-prefs-title = Jerohoryvéva tuichamba’éva moambuepyre
 modified-prefs-name = Téra
 modified-prefs-value = Hepykue
 user-js-title = Jerohoryvéva user.js-pe
-user-js-description = Nemba'ete ñongatuha oguereko peteĩ <a data-l10n-name="user-js-link">marandurenda user.js</a>, ogueroikóva jerohoryvéva ndaha'éiva { -brand-short-name } omoheñoimbyre.
-locked-key-prefs-title = Jerohoryvéva tuichamba'éva mbotypyre
+user-js-description = Nemba’ete ñongatuha oreko <a data-l10n-name="user-js-link">marandurenda user.js</a>, ogueroikóva jerohoryvéva ndaha’éiva { -brand-short-name } omoheñoimbyre.
+locked-key-prefs-title = Jerohoryvéva tuichamba’éva mbotypyre
 locked-prefs-name = Téra
 locked-prefs-value = Hepykue
 graphics-title = Ta’ãnga
@@ -101,7 +101,7 @@ graphics-workarounds-title = Ñemyatyrõ sapy'agua
 graphics-window-protocol = Ovetã raperekoite
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Mohendaha jeregua
-place-database-title = Mba'ekuaarã renda
+place-database-title = Mba’ekuaarã renda
 place-database-integrity = Tekoite
 place-database-verify-integrity = Tekoporã Jehechajey
 js-title = JavaScript
