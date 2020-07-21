@@ -39,7 +39,7 @@ features-storage-desc = Embojuaju, emoambue térã embogue kache, kookie, marand
 features-responsive-title = Moha'ãnga iñambuekuaáva reko
 features-responsive-desc = Eipuru umi tenda mba’e’oka pegua oha’ãva kundahápe. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Ñembosako'i jehecháva
-features-visual-editing-desc = Eha'ã umi mbovy'aha, mboysýi ha myenyhẽha. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-visual-editing-desc = Eha’ã umi mbovy’aha, mboysýi ha myenyhẽha. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Apopyre
 features-performance-desc = Embojera pa’ã renda, emyatyrõ mba’eapo ha eipurukuaa mba’epirã. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Mandu’arenda
