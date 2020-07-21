@@ -78,3 +78,17 @@ move-tabs =
 move-tab =
     .label = Sposta scheda
     .accesskey = S
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Chiudi scheda
+           *[other] Chiudi schede
+        }
+    .accesskey = u
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sposta scheda
+           *[other] Sposta schede
+        }
+    .accesskey = S
