@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry 레이아웃
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = 실험적인 CSS Masonry 레이아웃 기능을 지원합니다. 기능에 대한 자세한 내용은 <a data-l10n-name="explainer">설명자</a>를 참조하세요. 사용자 의견을 제공하시려면, <a data-l10n-name="w3c-issue">이 GitHub 문제</a> 또는 <a data-l10n-name="bug">이 버그</a>에 의견을 보내주세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,38 @@ experimental-features-web-gpu-description = 웹에서 그래픽 및 컴퓨팅을
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = AVIF (AV1 Image File Format)에 대한 실험적 지원
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax가 기본값
@@ -35,8 +71,3 @@ experimental-features-abouthome-startup-cache-description = 시작시 기본적�
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: 체계를 따르는 SameSite
 experimental-features-cookie-samesite-schemeful-description = 같은 도메인이지만 다른 체계 (예: http://example.com과 https://example.com)의 쿠키를 same-site 대신 cross-site로 처리합니다. 보안을 향상시키지만 잠재적으로 깨짐이 발생할 수 있습니다.
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support =
-    .label = DevTools: Service Worker 디버깅
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support-description = DevTools 디버거 패널에서 Service Worker를 실험적으로 지원합니다. 이 기능은 DevTools 속도를 저하시키고 메모리 소비를 증가시킬 수 있습니다.
