@@ -61,6 +61,10 @@ onboarding-multistage-import-secondary-button-label = Ani ko’ág̃a
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Eiporavo peteĩva <span data-l10n-name="zap">ma’ẽ</span>
 onboarding-multistage-theme-subtitle = Eñemomba’e { -brand-short-name } peteĩ téma ndive
+onboarding-multistage-theme-primary-button-label = Eñongatu Téma
+onboarding-multistage-theme-secondary-button-label = Ani ko’ág̃a
+onboarding-multistage-theme-label-light = Vevúi
+onboarding-multistage-theme-label-dark = Ypytũ
 
 ## Welcome full page string
 
