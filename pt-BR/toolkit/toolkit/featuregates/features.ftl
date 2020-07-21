@@ -60,6 +60,14 @@ experimental-features-web-api-beforeinput-description = O evento global <a data-
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = A adição de um construtor à interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, assim como uma variedade de alterações relacionadas, possibilitam criar diretamente novas folhas de estilo sem precisar adicionar a folha ao HTML. Isso facilita muito criar folhas de estilo reusáveis para uso com <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consulte mais detalhes em <a data-l10n-name="bugzilla">bug 1520690</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-media-session-api-description = Atualmente, a implementação completa do { -brand-short-name } da Media Session API é experimental. Esta API é usada para personalizar o tratamento de notificações relacionadas a mídia, gerenciar eventos e dados úteis para apresentar uma interface do usuário para gerenciamento de reprodução de mídia e obter metadados de arquivos de mídia. Consulte mais detalhes em <a data-l10n-name="bugzilla">bug 1112032</a>.
+experimental-features-devtools-color-scheme-simulation =
+    .label = Developer Tools: Color Scheme Simulation
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por padrão
