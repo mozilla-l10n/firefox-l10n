@@ -66,6 +66,7 @@
 <!ENTITY rights.locationawarebrowsing-a "Stadmedviten nettlesing: ">
 <!ENTITY rights.locationawarebrowsing-term1 "Opne program-innstillingane">
 <!ENTITY rights.locationawarebrowsing-term2 "Vel hovudpanelet på &security.label;-panelet">
+<!ENTITY rights.locationawarebrowsing-term3 "Vel alternativet for å &quot;&geoDisabled.label;&quot;">
 
 <!-- points 0-6 text for branded builds -->
 
