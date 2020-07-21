@@ -25,6 +25,10 @@ reset-password-window =
 pippki-failed-pw-change = Njeje móžno, hesło změnić.
 pippki-incorrect-pw = Njejsće prawe hesło zapodał. Prošu spytajće hišće raz.
 pippki-pw-change-ok = Hesło je so wuspěšnje změniło.
+pippki-pw-empty-warning = Waše składowane hesła a priwatne kluče so nješkitaja.
+pippki-pw-erased-ok = Sće swoje hesło zhašał.  { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Warnowanje! Sće so rozsudźił, zo njeby so hesło wužiwało. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Sće tuchwilu we FIPS-modusu. FIPS sej hesło žada.
 
 ## Reset Primary Password dialog
 
