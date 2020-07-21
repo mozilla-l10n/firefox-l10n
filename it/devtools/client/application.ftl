@@ -12,6 +12,7 @@ serviceworker-worker-debug-forbidden = Avvia debug
 serviceworker-worker-start = Avvia
 serviceworker-worker-start2 = Avvia
   .title = È possibile avviare service worker solo se multi e10s è disattivato
+serviceworker-worker-start3 = Avvia
 serviceworker-worker-updated = Ultimo aggiornamento: <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 serviceworker-worker-source = Sorgente
 serviceworker-worker-status = Stato
