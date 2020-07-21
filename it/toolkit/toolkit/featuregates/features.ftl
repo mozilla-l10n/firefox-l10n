@@ -41,7 +41,7 @@ experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
-experimental-features-web-api-link-preload-description = L’attributo <a data-l10n-name="rel">rel</a> con valore <code>"preload"</code> su un elemento <a data-l10n-name="link">&lt;link&gt;</a> è progettato per migliorare le prestazioni del browser, scaricando risorse nella fase iniziale del ciclo di vita di una pagina. In questo modo, le risorse sono disponibili prima e si riduce il rischio di bloccare il rendering della pagina. Consultare la pagina <a data-l10n-name="readmore">“Preloading content with <code>rel="preload"</code>”</a> o il <a data-l10n-name="bugzilla">bug 1583604</a> per ulteriori dettagli.
+experimental-features-web-api-link-preload-description = L’attributo <a data-l10n-name="rel">rel</a> con valore <code>"preload"</code> su un elemento <a data-l10n-name="link">&lt;link&gt;</a> è progettato per migliorare le prestazioni del browser, scaricando risorse nella fase iniziale del ciclo di vita della pagina. In questo modo, le risorse sono disponibili prima e si riduce il rischio di bloccare il rendering della pagina. Consultare la pagina <a data-l10n-name="readmore">“Preloading content with <code>rel="preload"</code>”</a> o il <a data-l10n-name="bugzilla">bug 1583604</a> per ulteriori dettagli.
 
 experimental-features-css-focus-visible =
     .label = CSS: pseudoclasse :focus-visible
@@ -65,11 +65,11 @@ experimental-features-css-constructable-stylesheets-description = L’aggiunta d
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: API Media Session
-experimental-features-media-session-api-description = L’attuale implementazione dell’API Media Session in { -brand-short-name } è sperimentale. Questa API è utilizzata per personalizzare la gestione di notifiche relative a file multimediali, per la gestione di dati ed eventi per la presentazione di un interfaccia utente durante la riproduzione, per ottenere metadata sui file multimediali. Consultare <a data-l10n-name="bugzilla">bug 1112032</a> per ulteriori dettagli.
+experimental-features-media-session-api-description = L’attuale implementazione dell’API Media Session in { -brand-short-name } è sperimentale. Questa API è utilizzata per personalizzare la gestione di notifiche relative a file multimediali, per la gestione di dati ed eventi usati nella presentazione dell’interfaccia utente durante la riproduzione, per ottenere metadata sui file multimediali. Consultare <a data-l10n-name="bugzilla">bug 1112032</a> per ulteriori dettagli.
 
 experimental-features-devtools-color-scheme-simulation =
     .label = Strumenti di sviluppo: simulazione combinazione di colori
-experimental-features-devtools-color-scheme-simulation-description = Aggiunge un’opzione per simulare diverse combinazioni di colori, permettendo il test di media query con <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. L’utilizzo di questo tipo di media query permette di adattare il foglio di stile alle preferenze dell’utente per un’interfaccia chiara o scura. Grazie a questa funzione è possibile provare il proprio codice senza cambiare le impostazioni del browser (o del sistema operativo, se il browser utilizza la combinazione di colori del sistema). Consultare <a data-l10n-name="bugzilla1">bug 1550804</a> e <a data-l10n-name="bugzilla2">bug 1137699</a> per ulteriori dettagli.
+experimental-features-devtools-color-scheme-simulation-description = Aggiunge un’opzione per simulare diverse combinazioni di colori, permettendo il test di media query con <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. L’utilizzo di questo tipo di media query permette di adattare il foglio di stile alla preferenza dell’utente per un’interfaccia chiara o scura. Grazie a questa funzione è possibile provare il proprio codice senza cambiare le impostazioni del browser (o del sistema operativo, se il browser utilizza la combinazione di colori del sistema). Consultare <a data-l10n-name="bugzilla1">bug 1550804</a> e <a data-l10n-name="bugzilla2">bug 1137699</a> per ulteriori dettagli.
 
 experimental-features-devtools-execution-context-selector =
     .label = Strumenti di sviluppo: selezione del contesto di esecuzione
@@ -77,7 +77,7 @@ experimental-features-devtools-execution-context-selector-description = Questa f
 
 experimental-features-devtools-compatibility-panel =
     .label = Strumenti di sviluppo: pannello compatibilità
-experimental-features-devtools-compatibility-panel-description = Un pannello laterale per lo strumento di Analisi pagine che visualizza informazioni dettagliate sulla compatibilità della propria app nei diversi browser. Consultare <a data-l10n-name="bugzilla">bug 1584464</a> per ulteriori dettagli.
+experimental-features-devtools-compatibility-panel-description = Un pannello laterale per lo strumento di Analisi pagina che visualizza informazioni dettagliate sulla compatibilità della propria app in diversi browser. Consultare <a data-l10n-name="bugzilla">bug 1584464</a> per ulteriori dettagli.
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
