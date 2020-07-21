@@ -131,6 +131,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportar els inicis
 ## Master Password notification
 
 master-password-notification-message = Introduïu la contrasenya mestra per veure els inicis de sessió i les contrasenyes desats
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Introduïu la contrasenya principal per veure els inicis de sessió i les contrasenyes desats
 master-password-reload-button =
     .label = Inicia la sessió
     .accesskey = I
@@ -212,3 +216,6 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] Document CSV
        *[other] Fitxer CSV
     }
+
+## Login Import Dialog
+
