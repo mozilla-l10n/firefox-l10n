@@ -16,13 +16,13 @@
 
 <!ENTITY            newButton.label        "Emoheñói mba’ete…">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Emboherajey mba'ete…">
+<!ENTITY            renameButton.label     "Emboherajey mba’ete…">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Emboguete mba'ete…">
+<!ENTITY            deleteButton.label     "Emboguete mba’ete…">
 <!ENTITY            deleteButton.accesskey "D">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; oñongatu marandu ñembohekopyahu rehegua, jerororyvéva ha ambue mba'epuru puruhára imba'eteépe.">
+<!ENTITY            pmDescription.label    "&brandShortName; oñongatu marandu ñembohekopyahu rehegua, jerororyvéva ha ambue mba’epuru puruhára imba’eteépe.">
 
 <!ENTITY            offlineState.label    "Jeikekatu’ỹme mba’apo">
 <!ENTITY            offlineState.accesskey "o">
