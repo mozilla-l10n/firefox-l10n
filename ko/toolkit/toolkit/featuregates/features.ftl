@@ -5,7 +5,7 @@
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
-    .label = CSS Masonry 레이아웃
+    .label = CSS Masonry Layout
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
@@ -64,10 +64,10 @@ experimental-features-cookie-samesite-none-requires-secure2-description = “Sam
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = about:home 시작 캐시
+    .label = about:home startup cache
 experimental-features-abouthome-startup-cache-description = 시작시 기본적으로 로드되는 초기 about:home 문서에 대한 캐시입니다. 캐시의 목적은 시작 성능을 향상시키는 것입니다.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
-    .label = Cookies: 체계를 따르는 SameSite
+    .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = 같은 도메인이지만 다른 체계 (예: http://example.com과 https://example.com)의 쿠키를 same-site 대신 cross-site로 처리합니다. 보안을 향상시키지만 잠재적으로 깨짐이 발생할 수 있습니다.
