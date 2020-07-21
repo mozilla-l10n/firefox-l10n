@@ -40,7 +40,7 @@ newtab-topsites-image-validation = S'ha produït un error en carregar la imatge.
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Cancel·la
-newtab-topsites-delete-history-button = Elimina de l'historial
+newtab-topsites-delete-history-button = Suprimeix de l'historial
 newtab-topsites-save-button = Desa
 newtab-topsites-preview-button = Previsualització
 newtab-topsites-add-button = Afegeix
@@ -80,7 +80,7 @@ newtab-menu-open-new-private-window = Obre en una finestra privada nova
 newtab-menu-dismiss = Descarta
 newtab-menu-pin = Fixa
 newtab-menu-unpin = No fixis
-newtab-menu-delete-history = Elimina de l'historial
+newtab-menu-delete-history = Suprimeix de l'historial
 newtab-menu-save-to-pocket = Desa al { -pocket-brand-name }
 newtab-menu-delete-pocket = Suprimeix del { -pocket-brand-name }
 newtab-menu-archive-pocket = Arxiva en el { -pocket-brand-name }
