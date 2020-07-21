@@ -73,6 +73,13 @@ serviceworker-empty-suggestions-aboutdebugging = Исследуйте Service Wo
 serviceworker-empty-intro2 = Service workers не найдены
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Подробнее
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = Если на текущей странице должен быть service worker, вы можете поискать ошибки в <a>Консоли</a> или проверить регистрацию вашего service worker в <span>Отладчике</span>.
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Просмотр service workers из других доменов
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Манифест приложения
 # Header for the Manifest page when there's no manifest to inspect
