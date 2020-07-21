@@ -814,7 +814,7 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-title = Du er i FIPS-modus. FIPS krev at du brukar eit hovudpassord.
 forms-primary-pw-change =
-    .label = Endre primærpassord…
+    .label = Endre hovudpassord…
     .accesskey = E
 forms-primary-pw-fips-title = Du er for tida i FIPS-modus. FIPS krev eit hovudpassord.
 forms-master-pw-fips-desc = Mislykka passordendring
@@ -829,12 +829,12 @@ master-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen 
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = opprette eit hovudpassord
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen din for Windows for å lage eit primærpassord. Dette hvil gjere kontoen din tryggare.
+primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen din for Windows for å lage eit hovudpassord. Dette hvil gjere kontoen din tryggare.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
-primary-password-os-auth-dialog-message-macosx = lag eit primærpassord
+primary-password-os-auth-dialog-message-macosx = lag eit hovudpassord
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

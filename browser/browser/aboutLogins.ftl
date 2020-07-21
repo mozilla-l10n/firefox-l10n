@@ -137,7 +137,7 @@ master-password-notification-message = Skriv inn hovudpassordet ditt for å vise
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Skriv inn primærpassordet ditt for å vise lagra innloggingar og passord
+about-logins-primary-password-notification-message = Skriv inn hovudpassordet ditt for å vise lagra innloggingar og passord
 master-password-reload-button =
     .label = Logg inn
     .accesskey = L

@@ -87,7 +87,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serienummer
 fips-nonempty-password-required = FIPS-modus krev at du har eit hovudpassord for kvar tryggingseining. Vel eit hovudpassord før du slår på FIPS-moduset.
-fips-nonempty-primary-password-required = FIPS-moduset krev at du har eit primærpassord for kvar tryggingseining. Lag eit passord før du slår på FIPS-modus.
+fips-nonempty-primary-password-required = FIPS-moduset krev at du har eit hovudpassord for kvar tryggingseining. Lag eit passord før du slår på FIPS-modus.
 unable-to-toggle-fips = Klarte ikkje å endra FIPS-modusen for tryggingseininga. Det er tilrådd at du avsluttar og startar denne applikasjonen på nytt.
 load-pk11-module-file-picker-title = Vel ei PKCS#11-drivarrutine å aktivere
 # Load Module Dialog
