@@ -787,10 +787,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Dùng mật khẩu chính
     .accesskey = U
+forms-primary-pw-use =
+    .label = Sử dụng mật khẩu chính
+    .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Thay đổi mật khẩu chính…
     .accesskey = M
 forms-master-pw-fips-title = Bạn đang ở chế độ FIPS. FIPS yêu cầu mật khẩu chính không được để trống.
+forms-primary-pw-change =
+    .label = Thay đổi mật khẩu chính…
+    .accesskey = P
+forms-primary-pw-fips-title = Bạn hiện đang ở chế độ FIPS. FIPS yêu cầu tính năng mật khẩu chính.
 forms-master-pw-fips-desc = Thay đổi mật khẩu không thành công
 
 ## OS Authentication dialog
@@ -802,6 +812,13 @@ master-password-os-auth-dialog-message-win = Để tạo mật khẩu chính, h�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = tạo một mật khẩu chính
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Để tạo mật khẩu chính, hãy nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật của tài khoản của bạn.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = tạo một mật khẩu chính
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
