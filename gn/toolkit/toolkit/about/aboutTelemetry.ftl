@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-telemetry-ping-data-source = Ping mba'ekuaarã reñoiha:
-about-telemetry-show-current-ping-data = Ping mba'ekuaarã ag̃aguáva
-about-telemetry-show-current-data = Mba'ekuaarã ag̃agua
-about-telemetry-show-archived-ping-data = Ping mba'ekuaarã ñongatupyre
+about-telemetry-ping-data-source = Ping mba’ekuaarã reñoiha:
+about-telemetry-show-current-ping-data = Ping mba’ekuaarã ag̃aguáva
+about-telemetry-show-current-data = Mba’ekuaarã ag̃agua
+about-telemetry-show-archived-ping-data = Ping mba’ekuaarã ñongatupyre
 about-telemetry-show-subsession-data = Tembiapo’ive mba’ekuaarã jehchauka
 about-telemetry-choose-ping = Ping jeporavo:
 about-telemetry-archive-ping-type = Ping Peteĩchagua
@@ -15,12 +15,12 @@ about-telemetry-option-group-yesterday = Kuehe
 about-telemetry-option-group-older = Tuichave
 about-telemetry-previous-ping = < <
 about-telemetry-next-ping = > >
-about-telemetry-page-title = Telemetría mba'ekuaarã
+about-telemetry-page-title = Telemetría mba’ekuaarã
 about-telemetry-current-store = Ñembyatyha ag̃agua:
 about-telemetry-more-information = ¿Ehekavépa marandu?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox mba'ekuaarã kuatia</a> oreko guataha mba’éichapa emba’apóta mba’ekuaarã rembipurúre.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Telemetry Firefox mba'éva kuatiatee</a> ogueroike mba'e ñemyesakã, API kuatiatee ha mba'ekuaarã rehegua.
-about-telemetry-telemetry-dashboard = Umi <a data-l10n-name="dashboard-link">Telemetry rechaha</a> ohechauka ndéve Mozilla mba'ekuaarã og̃uahẽva Telemetry rupive.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox mba’ekuaarã kuatia</a> oreko guataha mba’éichapa emba’apóta mba’ekuaarã rembipurúre.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Telemetry Firefox mba’éva kuatiatee</a> ogueroike mba’e ñemyesakã, API kuatiatee ha mba’ekuaarã rehegua.
+about-telemetry-telemetry-dashboard = Umi <a data-l10n-name="dashboard-link">Telemetry rechaha</a> ohechauka ndéve Mozilla mba’ekuaarã og̃uahẽva Telemetry rupive.
 about-telemetry-telemetry-probe-dictionary = Pe <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> ome’ẽ mba’emimi ha ñemoha’anga Telemetry ombyatyva’ekue sónda.
 about-telemetry-show-in-Firefox-json-viewer = Eike JSON hechahápe
 about-telemetry-home-section = Ñepyrũ
@@ -34,21 +34,21 @@ about-telemetry-keyed-histogram-section = Histograma ñemiguáva
 about-telemetry-events-section = Tembiaporã
 about-telemetry-simple-measurements-section = Ha'ãha hypy'ũ'ỹva
 about-telemetry-slow-sql-section = Je’etepyre SQL imbegue
-about-telemetry-addon-details-section = Moimbaha mba'emimi
+about-telemetry-addon-details-section = Moimbaha mba’emimi
 about-telemetry-captured-stacks-section = Japyhypyre mbojo'a
 about-telemetry-late-writes-section = Jehaipy mbotapykuéva
 about-telemetry-raw-payload-section = Hetepy ojehecha'ỹva gueteri
 about-telemetry-raw = Raw JSON
 about-telemetry-full-sql-warning = HAIPYRE’I: SQL ñemopotĩ imbeguéva hendýma. Ikatu ohechauka joajuha opaichagua SQL rehegua hákatu noñemondomo’ãi Telemetry-pe.
 about-telemetry-fetch-stack-symbols = Eguerujey tembiapoite réra jepytaite ojo'áva rehegua
-about-telemetry-hide-stack-symbols = Ehechauka mba'ekuaarã mbojo'áva oĩmba'ỹva
+about-telemetry-hide-stack-symbols = Ehechauka mba’ekuaarã mbojo’áva oĩmba’ỹva
 # Selects the correct release version
 # Variables:
 #   $channel (String): represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
-        [release] mba'ekuaarã ñemyerakuã
-       *[prerelease] mba'ekuaarã ñemyerakuã mirĩ
+        [release] mba’ekuaarã ñemyerakuã
+       *[prerelease] mba’ekuaarã ñemyerakuã mirĩ
     }
 # Selects the correct upload string
 # Variables:
@@ -101,11 +101,11 @@ about-telemetry-no-search-results-all = ¡Rombyasy! Ndojejuhúi apopyre mamovete
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (String): is replaced by the section name.
-about-telemetry-no-data-to-display = ¡Rombyasy! Ndaipói mba'ekuaarã ojepurukuaáva ko'ag̃aite “{ $sectionName }” pe
+about-telemetry-no-data-to-display = ¡Rombyasy! Ndaipói mba’ekuaarã ojepurukuaáva ko’ag̃aite “{ $sectionName }”-pe
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = Ping ag̃agua
 # used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-data-sidebar = mba'ekuaarã ag̃agua
+about-telemetry-current-data-sidebar = mba’ekuaarã ag̃agua
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = opavave
 # button label to copy the histogram
@@ -118,11 +118,11 @@ about-telemetry-slow-sql-average = Aravo ohasáva (ms)
 about-telemetry-slow-sql-statement = Je’etepyre
 # these strings are used in the “Add-on Details” section
 about-telemetry-addon-table-id = ID moĩmbaha rehegua
-about-telemetry-addon-table-details = Mba'emimi
+about-telemetry-addon-table-details = Mba’emimi
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Me’ẽhára { $addonProvider }
-about-telemetry-keys-header = Mba'etee
+about-telemetry-keys-header = Mba’etee
 about-telemetry-names-header = Téra
 about-telemetry-values-header = Tepykue
 # Variables:
@@ -136,7 +136,7 @@ about-telemetry-stack-title = Mbojo'apy:
 about-telemetry-memory-map-title = Mandu’arenda mba’era’ãnga:
 about-telemetry-error-fetching-symbols = Oiko peteĩ jejavy eguerusejeývo umi ta’ãnga’i. Ehechajey eimépa ñandutípe ha eha’ãjey upe rire.
 about-telemetry-time-stamp-header = ára papaha
-about-telemetry-category-header = mba'éichagua
+about-telemetry-category-header = mba’éichagua
 about-telemetry-method-header = tapereko
 about-telemetry-object-header = g̃uahẽseha
 about-telemetry-extra-header = mbohetapy
