@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Mga Login at Password
@@ -125,6 +120,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = kopyahin ang naka-sav
 ## Master Password notification
 
 master-password-notification-message = Pakipasok ang iyong master password para makita ang mga naka-save na login at password
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Mag-log in
     .accesskey = L
@@ -163,7 +161,7 @@ confirm-discard-changes-dialog-confirm-button = Balewalain
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Website Breach
-breach-alert-text = May mga passwords na nabunyag o ninakaw mula sa website na ito mula noong huli kang nag-update sa ang iyong mga detalye sa pag-login.Baguhin ang iyong password upang maprotektahan ang iyong account.
+breach-alert-text = May mga password na nabunyag o ninakaw sa website na ito mula noong huli mong na-update ang iyong mga login detail. Baguhin mo ang password mo para maprotektahan ang iyong account.
 about-logins-breach-alert-date = Naganap ang breach na ito noong { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -202,3 +200,6 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] CSV Document
        *[other] CSV File
     }
+
+## Login Import Dialog
+
