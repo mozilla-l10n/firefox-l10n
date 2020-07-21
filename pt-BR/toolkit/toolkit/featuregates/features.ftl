@@ -41,6 +41,18 @@ experimental-features-web-api-inputmode-description = Nossa implementação do a
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = O atributo <a data-l10n-name="rel">rel</a> com valor <code>"preload"</code> em um elemento <a data-l10n-name="link">&lt;link&gt;</a> destina-se a ajudar a fornecer ganhos de desempenho, permitindo baixar recursos no início do ciclo de vida da página, garantindo que estejam disponíveis mais cedo e tenham menos probabilidade de bloquear a renderização da página. Leia <a data-l10n-name="readmore">“Pré-carregando conteúdo com <code>rel="preload"</code>”</a> ou consulte mais detalhes em <a data-l10n-name="bugzilla">bug 1583604</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Permite que estilos de foco sejam aplicados a elementos como botões e controles de formulários, apenas quando recebem foco através do teclado (por exemplo, ao mover entre elementos com a tecla Tab), e não quando recebem foco usando um mouse ou outro dispositivo apontador. Consulte mais detalhes em <a data-l10n-name="bugzilla">bug 1617600</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por padrão
