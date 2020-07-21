@@ -76,6 +76,7 @@ login-intro-instruction-fxa = Vytvorte si { -fxaccount-brand-name } alebo sa do�
 login-intro-instruction-fxa-settings = Uistite sa, že máte v nastaveniach služby { -sync-brand-short-name } na danom zariadení zaškrtnutú možnosť synchronizácie prihlasovacích údajov
 about-logins-intro-instruction-help = Ak potrebujete ďalšiu pomoc, navštívte <a data-l10n-name="help-link">pomocníka { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Ak máte prihlasovacie údaje uložené v inom prehliadači, môžete ich <a data-l10n-name="import-link">do { -lockwise-brand-short-name } importovať</a>
+about-logins-intro-import2 = Ak máte prihlasovacie údaje uložené mimo aplikácie { -brand-product-name }, môžete ich <a data-l10n-name="import-browser-link">importovať z iného prehliadača</a> alebo <a data-l10n-name="import-file-link">zo súboru</a>
 
 ## Login
 
@@ -134,6 +135,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportovať uložen
 ## Master Password notification
 
 master-password-notification-message = Ak chcete zobraziť uložené prihlasovacie údaje, zadajte svoje hlavné heslo
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Ak chcete zobraziť uložené prihlasovacie údaje, zadajte svoje hlavné heslo
 master-password-reload-button =
     .label = Prihlásiť sa
     .accesskey = P
