@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Ñepyrũ
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Eg̃uahẽporã <span data-l10n-name="zap">{ -brand-short-name }</span>-pe
 onboarding-welcome-body = Eguerekóma kundaha.<br/>Eikuaa opamba’e { -brand-product-name } rehegua.
 onboarding-welcome-learn-more = Eikuaave mba’eporã rehegua.
 onboarding-join-form-header = Ejuaju { -brand-product-name } rehe
@@ -44,6 +41,15 @@ onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 onboarding-cards-dismiss =
     .title = Emboyke
     .aria-label = Emboyke
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Eg̃uahẽporã <span data-l10n-name="zap">{ -brand-short-name }</span>-pe
+onboarding-multistage-welcome-subtitle = Kundahára ipya’e, hekorosã ha hekoñemi oykekóva chupe atyguasu viru’ỹguáva.
+onboarding-multistage-welcome-primary-button-label = Eñepyrũ Ñemboheko
+onboarding-multistage-welcome-secondary-button-label = Mboheraguapy
 
 ## Welcome full page string
 

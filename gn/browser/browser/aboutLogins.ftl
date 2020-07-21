@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = erahauka puruhára 
 ## Master Password notification
 
 master-password-notification-message = Emoinge ne ñe’ẽñemi ha’evéva ehecha hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñongatupyre
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Emoinge ne ñe’ẽñemi ha’evéva ehecha hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñongatupyre
 master-password-reload-button =
     .label = Tembiapo ñepyrũ
     .accesskey = L
