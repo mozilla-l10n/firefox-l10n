@@ -13,53 +13,53 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
-<!ENTITY performanceUI.bufferStatusTooltip "The profiler stores samples in a circular buffer, and once the buffer reaches the limit for a recording, newer samples begin to overwrite samples at the beginning of the recording.">
+<!ENTITY performanceUI.bufferStatusTooltip "O profiler armazena amostras em um buffer circular e, assim que o buffer atinge o limite de uma gravação, novas amostras começam a sobrepor amostras do início da gravação.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "Enable multiprocess Firefox in preferences for rendering recording data in realtime.">
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Ativa o multiprocessamento do Firefox nas preferências para renderizar dados de gravação em tempo real.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
-<!ENTITY performanceUI.bufferStatusFull "The buffer is full. Older samples are now being overwritten.">
+<!ENTITY performanceUI.bufferStatusFull "O buffer está cheio. Amostras mais antigas agora estão sendo sobrepostas.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "Recording a profile is currently unavailable. Please close all private browsing windows and try again.">
+<!ENTITY performanceUI.unavailableNoticePB "A gravação em um profile não está disponível no momento. Feche todas as janelas de navegação privativa e tente novamente.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
-<!ENTITY performanceUI.loadingNotice "Loading…">
+<!ENTITY performanceUI.loadingNotice "Carregando…">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
-<!ENTITY performanceUI.toolbar.waterfall "Waterfall">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Shows the different operations the browser is performing during the recording, laid out sequentially as a waterfall.">
+<!ENTITY performanceUI.toolbar.waterfall "Cascata">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Mostra as diferentes operações que o navegador está realizando durante a gravação, dispostas sequencialmente como uma cascata.">
 <!ENTITY performanceUI.toolbar.js-calltree "Call Tree">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Highlights JavaScript functions where the browser spent most time during the recording.">
-<!ENTITY performanceUI.toolbar.memory-calltree "Allocations">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Shows where memory was allocated during the recording.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Destaca funções JavaScript onde o navegador passou a maior parte do tempo durante a gravação.">
+<!ENTITY performanceUI.toolbar.memory-calltree "Alocações">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Mostra onde a memória foi alocada durante a gravação.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Shows the JavaScript call stack over the course of the recording.">
-<!ENTITY performanceUI.toolbar.memory-flamegraph "Allocations Flame Chart">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Mostra a pilha de chamadas JavaScript ao longo da gravação.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Gráfico de alocações Flame">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-<!ENTITY performanceUI.table.totalDuration            "Total Time">
-<!ENTITY performanceUI.table.totalDuration.tooltip    "The amount of time spent in this function and functions it calls.">
-<!ENTITY performanceUI.table.selfDuration             "Self Time">
-<!ENTITY performanceUI.table.selfDuration.tooltip     "The amount of time spent only within this function.">
-<!ENTITY performanceUI.table.totalPercentage          "Total Cost">
-<!ENTITY performanceUI.table.totalPercentage.tooltip  "The percentage of time spent in this function and functions it calls.">
-<!ENTITY performanceUI.table.selfPercentage           "Self Cost">
-<!ENTITY performanceUI.table.selfPercentage.tooltip   "The percentage of time spent only within this function.">
-<!ENTITY performanceUI.table.samples                  "Samples">
-<!ENTITY performanceUI.table.samples.tooltip          "The number of times this function was on the stack when the profiler took a sample.">
-<!ENTITY performanceUI.table.function                 "Function">
-<!ENTITY performanceUI.table.function.tooltip         "The name and source location of the sampled function.">
-<!ENTITY performanceUI.table.totalAlloc               "Total Sampled Allocations">
+<!ENTITY performanceUI.table.totalDuration            "Tempo total">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "O tempo gasto nesta função e nas funções que ela chama.">
+<!ENTITY performanceUI.table.selfDuration             "Tempo próprio">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "O tempo gasto apenas dentro desta função.">
+<!ENTITY performanceUI.table.totalPercentage          "Custo total">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "A porcentagem de tempo gasto nesta função e nas funções que ela chama.">
+<!ENTITY performanceUI.table.selfPercentage           "Custo próprio">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "A porcentagem de tempo gasto apenas dentro desta função.">
+<!ENTITY performanceUI.table.samples                  "Amostras">
+<!ENTITY performanceUI.table.samples.tooltip          "O número de vezes que esta função estava no stack quando o profiler obteve uma amostra.">
+<!ENTITY performanceUI.table.function                 "Função">
+<!ENTITY performanceUI.table.function.tooltip         "O nome o local do código-fonte da função amostrada.">
+<!ENTITY performanceUI.table.totalAlloc               "Total de alocações amostradas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "The total number of Object allocations sampled at this location and in callees.">
 <!ENTITY performanceUI.table.selfAlloc                "Self Sampled Allocations">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "The number of Object allocations sampled at this location.">
