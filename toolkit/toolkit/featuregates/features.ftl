@@ -30,3 +30,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 experimental-features-abouthome-startup-cache =
     .label = кэш запуска about:home
 experimental-features-abouthome-startup-cache-description = Кэш для изначального документа about:home, который загружается по умолчанию при запуске. Целью кеша является повышение скорости запуска.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Куки: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Рассматривать куки из одинакового домена, но с отличающимися схемами (например, http://example.com и https://example.com) как кросс-сайтовые, а не относящиеся к одному сайту. Повышает безопасность, но потенциально может привести к нарушению работы.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: отладка Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Включает экспериментальную поддержку для Service Workers на панели Отладчика Инструментов разработки. Эта функция может замедлить работу Инструментов разработки и увеличить потребление памяти.
