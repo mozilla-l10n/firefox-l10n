@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Prevent { -brand-short-name } from running studie
 policy-DisableForgetButton = Prevent access to the Forget button.
 policy-DisableFormHistory = Don’t remember search and form history.
 policy-DisableMasterPasswordCreation = If true, a master password can’t be created.
+policy-DisablePrimaryPasswordCreation = If true, a Primary Password can’t be created.
 policy-DisablePasswordReveal = Do not allow passwords to be revealed in saved logins.
 policy-DisablePocket = Disable the feature to save web pages to Pocket.
 policy-DisablePrivateBrowsing = Disable Private Browsing.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revert to legacy SameS
 
 policy-LocalFileLinks = Allow specific web sites to link to local files.
 policy-MasterPassword = Require or prevent using a master password.
+policy-PrimaryPassword = Require or prevent using a Primary Password.
 policy-NetworkPrediction = Enable or disable network prediction (DNS prefetching).
 policy-NewTabPage = Enable or disable the New Tab page.
 policy-NoDefaultBookmarks = Disable creation of the default bookmarks bundled with { -brand-short-name }, and the Smart Bookmarks (Most Visited, Recent Tags). Note: this policy is only effective if used before the first run of the profile.
