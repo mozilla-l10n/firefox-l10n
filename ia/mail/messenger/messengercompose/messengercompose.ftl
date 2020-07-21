@@ -16,3 +16,27 @@ pill-action-edit =
 pill-action-move-to =
     .label = Mover a A
     .accesskey = A
+pill-action-move-cc =
+    .label = Mover a Cc
+    .accesskey = C
+pill-action-move-bcc =
+    .label = Mover a Ccn
+    .accesskey = n
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value =
+        { $count ->
+            [1] { $count } Attachamento
+           *[other] { $count } Attachamentos
+        }
+    .accesskey = m
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] { $count } Attachamento
+           *[other] { $count } Attachamentos
+        }
+#   { attachment-bucket-count.accesskey } - Do not localize this message.
+key-toggle-attachment-pane =
+    .key = { attachment-bucket-count.accesskey }
