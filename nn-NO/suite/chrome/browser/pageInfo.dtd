@@ -63,6 +63,8 @@
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "Addresse:">
 <!ENTITY  mediaAlt              "Alternativ tekst:">
+<!ENTITY  mediaLocation         "Adresse:">
+<!ENTITY  mediaText             "Tilknytt tekst:">
 <!ENTITY  mediaAltHeader        "Alternativ tekst">
 <!ENTITY  mediaAddress          "Adresse">
 <!ENTITY  mediaType             "Type">

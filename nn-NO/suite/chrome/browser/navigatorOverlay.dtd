@@ -134,8 +134,10 @@ left instead of right. -->
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Bilde frå denne nettstaden vil aldri lastast ned.">
 
+<!ENTITY popupsMessageChangeTitle.label "LØyve for sprettoppvindauge endra">
 <!ENTITY popupAllowCmd.label "Tillat sprettoppvindauge frå denne nettsida">
 <!ENTITY popupAllowCmd.accesskey "T">
+<!ENTITY popupAllowMsg.label "Sprettoppvindauge frå denne nettstaden vil alltid bli viste.">
 <!ENTITY popupDefaultCmd.label "Bruk standardreglar for sprettoppvindauge">
 <!ENTITY popupDefaultCmd.accesskey "B">
 <!ENTITY popupBlockCmd.label "Blokker sprettoppvindauge frå denne nettstaden">
@@ -153,3 +155,5 @@ left instead of right. -->
 <!ENTITY clearPrivateDataCmd.label "Slett private data…">
 <!ENTITY clearPrivateDataCmd.accesskey "S">
 
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">
