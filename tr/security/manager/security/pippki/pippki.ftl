@@ -34,6 +34,7 @@ reset-password-button-label =
     .label = Sıfırla
 reset-password-text = Ana parolanızı sıfırlarsanız tüm kayıtlı web ve e-posta parolalarınız, form verileriniz, kişisel sertifikalarınız ve özel anahtarlarınız silinecektir. Ana parolanızı sıfırlamak istediğinizden emin misiniz?
 pippki-reset-password-confirmation-title = Ana Parolayı Sıfırla
+pippki-reset-password-confirmation-message = Ana parolanız sıfırlandı.
 
 ## Downloading cert dialog
 

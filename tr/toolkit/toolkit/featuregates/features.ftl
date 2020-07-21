@@ -16,6 +16,18 @@ experimental-features-web-gpu-description = Web üzerinde grafikler ve bilgi iş
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Deneysel AVIF desteği: AV1 Görüntü Dosyası Biçimi
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Çerezler: Varsayılan olarak SameSite=Lax

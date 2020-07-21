@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Birden çok sekmeyi kapat
     .accesskey = B
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -78,4 +82,20 @@ move-tabs =
     .accesskey = t
 move-tab =
     .label = Sekmeyi taşı
+    .accesskey = t
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sekmeyi kapat
+            [one] Sekmeyi kapat
+           *[other] Sekmeleri kapat
+        }
+    .accesskey = e
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sekmeyi taşı
+            [one] Sekmeleri taşı
+           *[other] Sekmeleri taşı
+        }
     .accesskey = t
