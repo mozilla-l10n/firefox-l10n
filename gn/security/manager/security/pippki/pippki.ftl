@@ -20,9 +20,14 @@ change-password-reenter = Ñe’ẽñemi pyahu: (ñemoneĩ):
 reset-password-window =
     .title = Ñe’ẽñemi ha’etéva jeguerujey
     .style = width: 40em
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Mbojevyjey
 reset-password-text = Emoañete jeýramo neñe’ẽñemi ha’etéva, umi ñanduti neñe’ẽñemi ha ñanduti veve embyatypyre, umi myanyhẽha mba’ekuaarã, mboajepyréva avamba’etéva ha ñe’ẽñemi ñemiguáva hesaraipáta. ¿Añetehápe eguerusejey neñe’ẽñemi ha’etéva?
+pippki-reset-password-confirmation-title = Eguerujey Ñe’ẽñemi Ñepyrũgua
+pippki-reset-password-confirmation-message = Ojeguerujeýma ne ñe’ẽñemi ha’etéva.
 
 ## Downloading cert dialog
 
