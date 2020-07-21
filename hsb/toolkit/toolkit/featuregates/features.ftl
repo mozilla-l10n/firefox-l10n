@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Zmóžnja podpěru za eksperimentelnu funkciju CSS Masonry Layout. Hlejće <a data-l10n-name="explainer">rozjasnjensku stronu</a> za  dobre wopisanje tuteje funkcije. Zo byšće komentary zawostajił, komentujće prošu w <a data-l10n-name="w3c-issue">tutym GitHub issue</a> abo <a data-l10n-name="bug">tutej zmylkowej rozprawje</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,38 @@ experimental-features-web-gpu-description = Eksperimentelny API za grafiku a př
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperimentelna podpěra za AVIF: wobrazowy format AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Placki: SameSite=Lax po standardźe
