@@ -32,9 +32,15 @@ pippki-pw-change2empty-in-fips-mode = Sćo tuchylu we FIPS-modusu. FIPS pomina s
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Głowne gronidło slědk stajiś
+    .style = width: 40em
 reset-password-button-label =
     .label = Slědk stajiś
 reset-password-text = Jolic stajiśo swójo głowne gronidło slědk, zgubiju se wšykne waše składowane webowe a e-mailowe gronidła, formularne daty, wósobinske certifikaty a priwatne kluce. Cośo napšawdu swój głowne gronidło slědk stajiś?
+reset-primary-password-text = Jolic stajiśo swójo głowne gronidło slědk, zgubiju se wšykne waše składowane webowe a e-mailowe gronidła, wósobinske certifikaty a priwatne kluce. Cośo napšawdu swój głowne gronidło slědk stajiś?
+pippki-reset-password-confirmation-title = Głowne gronidło slědk stajiś
+pippki-reset-password-confirmation-message = Wašo głowne gronidło jo se slědk stajiło.
 
 ## Downloading cert dialog
 
