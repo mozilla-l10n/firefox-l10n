@@ -102,10 +102,12 @@ master-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen 
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = opprette et hovedpassord
 # This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å opprette et hovedpassord. Dette vil gjøre kontoene dine tryggere.
+# This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
-primary-password-os-auth-dialog-message-macosx = opprett et primærpassord
+primary-password-os-auth-dialog-message-macosx = opprett et hovedpassord
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -543,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Endre hovedpassord …
     .accesskey = E
+primary-password-description = Du kan bruke et hovedpassord for å beskytte alle passordene, men da må du skrive inn passordet en gang for hver programøkt.
+primary-password-label =
+    .label = Bruk et hovedpassord
+    .accesskey = B
+primary-password-button =
+    .label = Endre hovedpassord…
+    .accesskey = E
+forms-primary-pw-fips-title = Du er for tiden i FIPS-modus. FIPS krever at du bruker et hovedpassord.
+forms-master-pw-fips-desc = Passordendring mislyktes
 junk-description = Angi standard oppførsel for uønsket e-post. Konto-spesifikke innstillinger for uønsket e-post kan angis i Kontoinnstillinger.
 junk-label =
     .label = Når jeg markerer meldinger som uønskede:
