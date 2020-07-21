@@ -6,7 +6,7 @@
 elevation-update-wizard =
     .title = Sofware ñembohekopyahu
 elevation-details-link-label =
-    .value = Mba'emimi
+    .value = Mba’emimi
 elevation-error-manual = Ikatu embohekopyahu { -brand-short-name } po rupive eikévo ko juajuhápe ha embojoajúvo:
 elevation-finished-page = Ñembohekopyahu oĩmbáva emohenda hag̃ua
 elevation-finished-background-page = Oñemboguejýma peteĩ ñembohekopyahu hekorosã ha hekopytáva { -brand-short-name }-pe g̃uarã ha ikatúntema emboguejy.

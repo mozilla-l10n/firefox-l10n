@@ -4,7 +4,7 @@
 
 print-setup =
     .title = Kuatiarogue ñembohekopyahu
-custom-prompt-title = Ñemomba'epyre…
+custom-prompt-title = Ñemomba’epyre…
 custom-prompt-prompt = Emoinge nemoñe’ẽrã mba’etéva myakãha/pýva
 basic-tab =
     .label = Ysaja ha poravopyrã
@@ -90,7 +90,7 @@ hf-page =
 hf-page-and-total =
     .label = Kuatiarogue # pe #
 hf-custom =
-    .label = Ñemomba'epyre…
+    .label = Ñemomba’epyre…
 print-preview-window =
     .title = Apopy mboyvegua recha
 print-title =
