@@ -11,6 +11,8 @@ printui-copies-label = Kopior
 printui-orientation = Orientering
 printui-landscape = Liggande
 printui-portrait = Stående
+printui-more-settings = Mer inställningar
+printui-less-settings = Färre inställningar
 # Section title (noun) for the print scaling options
 printui-scale = Skala
 # Label for input control where user can set the scale percentage
