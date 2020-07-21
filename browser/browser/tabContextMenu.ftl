@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Wjacore rajtarki začinić
     .accesskey = W
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -80,4 +84,24 @@ move-tabs =
     .accesskey = s
 move-tab =
     .label = Rajtark přesunyć
+    .accesskey = s
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Rajtark začinić
+            [one] Rajtark začinić
+            [two] Rajtarkaj začinić
+            [few] Rajtarki začinić
+           *[other] Rajtarkow začinić
+        }
+    .accesskey = R
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Rajtark přesunyć
+            [one] Rajtark přesunyć
+            [two] Rajtarkaj přesunyć
+            [few] Rajtarki přesunyć
+           *[other] Rajtarkow přesunyć
+        }
     .accesskey = s
