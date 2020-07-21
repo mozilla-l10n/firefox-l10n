@@ -56,6 +56,11 @@ onboarding-multistage-welcome-secondary-button-text = ¿Erekópa mba’ete?
 onboarding-multistage-import-header = Emba’egueru ñe’ẽñemi, techaukaha ha <span data-l10n-name="zap">hetave</span>
 onboarding-multistage-import-subtitle = ¿Oúpa ambue kundaháragui? Ndahasyiete eguerahapávo { -brand-short-name } ndive.
 onboarding-multistage-import-primary-button-label = Eñepyrũ ñemba’egueru
+onboarding-multistage-import-secondary-button-label = Ani ko’ág̃a
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Eiporavo peteĩva <span data-l10n-name="zap">ma’ẽ</span>
+onboarding-multistage-theme-subtitle = Eñemomba’e { -brand-short-name } peteĩ téma ndive
 
 ## Welcome full page string
 
