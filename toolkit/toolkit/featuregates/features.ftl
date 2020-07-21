@@ -67,7 +67,14 @@ experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-media-session-api-description = Atualmente, a implementação completa do { -brand-short-name } da Media Session API é experimental. Esta API é usada para personalizar o tratamento de notificações relacionadas a mídia, gerenciar eventos e dados úteis para apresentar uma interface do usuário para gerenciamento de reprodução de mídia e obter metadados de arquivos de mídia. Consulte mais detalhes em <a data-l10n-name="bugzilla">bug 1112032</a>.
 experimental-features-devtools-color-scheme-simulation =
-    .label = Developer Tools: Color Scheme Simulation
+    .label = Developer Tools: Simulação de esquema de cores
+experimental-features-devtools-color-scheme-simulation-description = Adiciona uma opção para simular diferentes esquemas de cores, permitindo testar consultas de mídia <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. O uso desta consulta de mídia permite que sua folha de estilo responda à preferência do usuário de uma interface de usuário clara ou escura. Este recurso permite que você teste seu código sem precisar alterar configurações em seu navegador (ou sistema operacional, se o navegador seguir uma configuração de esquema de cores do sistema todo). Consulte mais detalhes em <a data-l10n-name="bugzilla1">bug 1550804</a> e <a data-l10n-name="bugzilla2">bug 1137699</a>.
+experimental-features-devtools-execution-context-selector =
+    .label = Developer Tools: Seletor de contexto de execução
+experimental-features-devtools-execution-context-selector-description = Esse recurso exibe um botão na linha de comando do console que permite alterar o contexto em que a expressão inserida será executada. Consulte mais detalhes em <a data-l10n-name="bugzilla1">bug 1605154</a> e <a data-l10n-name="bugzilla2">bug 1605153</a>.
+experimental-features-devtools-compatibility-panel =
+    .label = Developer Tools: Painel de compatibilidade
+experimental-features-devtools-compatibility-panel-description = Um painel lateral no inspetor de páginas que mostra informações que detalham o status de compatibilidade entre navegadores do seu aplicativo. Consulte mais detalhes em <a data-l10n-name="bugzilla">bug 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por padrão
@@ -86,3 +93,6 @@ experimental-features-abouthome-startup-cache-description = Um cache para o docu
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Tratar cookies do mesmo domínio, mas com esquemas diferentes (por exemplo, http://example.com e https://example.com) como cross-site em vez de same-site. Melhora a segurança, mas pode potencialmente introduzir problemas.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Developer Tools: Debug de Service Worker
