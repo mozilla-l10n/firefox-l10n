@@ -41,7 +41,6 @@ composition-addressing-header = Adresować
 privacy-main-header = Priwatnosć
 privacy-passwords-header = Hesła
 privacy-junk-header = Čapor
-privacy-data-collection-header = Zběranje a wužiwanje datow
 collection-header = Hromadźenje a wužiwanje datow { -brand-short-name }
 collection-description = Chcemy was z wuběrami wobstarać a jenož to zběrać, štož dyrbimy poskićić, zo bychmy { -brand-short-name } za kóždeho polěpšili. Prosymy přeco wo dowolnosć, prjedy hač wosobinske daty dóstanjemy.
 collection-privacy-notice = Zdźělenka priwatnosće
@@ -96,14 +95,19 @@ addons-button = Rozšěrjenja a drasty
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Přepruwujće swoju identitu, zo byšće hłowne hesło wutworił.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće hłowne hesło wutworił. To wěstotu wašich kontow škita.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = hłowne hesło wutworić
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće hłowne hesło wutworił. To wěstotu wašich kontow škita.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Hłowne hesło wutworić
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Hłowne hesło změnić…
     .accesskey = o
+primary-password-description = Hłowne hesło škita wšě waše hesła, ale dyrbiće jo jedyn raz na posedźenje zapodać.
+primary-password-label =
+    .label = Hłowne hesło wužiwać
+    .accesskey = H
+primary-password-button =
+    .label = Hłowne hesło změnić…
+    .accesskey = z
+forms-primary-pw-fips-title = Sće tuchwilu we FIPS-modusu. FIPS sej hłowne hesło žada.
+forms-master-pw-fips-desc = Změnjenje hesła njeje so poradźiło
 junk-description = Nastajće swoje standardne nastajenja za čaporowu e-mejl. Nastajenja čaporoweje e-mejle specifiske za konto dadźa so w Kontowych nastajenjach konfigurować.
 junk-label =
     .label = Hdyž so powěsće jako čapor markěruja:
@@ -701,3 +714,6 @@ search-results-empty-message =
        *[other] Bohužel žane wuslědki w nastajenjach za “<span data-l10n-name="query"></span>” njejsu.
     }
 search-results-help-link = Trjebaće pomoc? Wopytajće <a data-l10n-name="url">Pomoc za { -brand-short-name }</a>
+
+## Preferences UI Search Results
+
