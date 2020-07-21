@@ -268,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Թարգմանել այս էջը">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Կառաւարել էջի թարգմանութիւնը">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Կառաւարել DRM ծրագրաշարի աւգտագործումը">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Բացել MIDI փեղկը">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Բացել MIDI վահանակը">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Դուք արգելափակել եք Ձեր տեսախցիկը այս կայքի համար։">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Դուք արգելափակել եք բարձրախաւսը այս կայքի համար։">
