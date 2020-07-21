@@ -76,6 +76,8 @@ manifest-view-header = Manifest nałoženja
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Musyśo manifest webnałoženja pśidaś, aby jen how pśepytował. <a>Dalšne informacije</a>
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Zgóńśo, kak móžośo manifest pśidaś
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Zmólki a warnowanja
 # Header for the Identity section of Manifest inspection displayed in the application panel.
