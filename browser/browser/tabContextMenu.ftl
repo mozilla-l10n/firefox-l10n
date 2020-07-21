@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Fechar várias abas
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -78,4 +82,20 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = Mover aba
+    .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Fechar aba
+            [one] Fechar aba
+           *[other] Fechar abas
+        }
+    .accesskey = F
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mover aba
+            [one] Mover aba
+           *[other] Mover abas
+        }
     .accesskey = v
