@@ -23,7 +23,7 @@ printui-less-settings = 설정 간단히
 printui-scale = 크기
 printui-scale-fit-to-page = 페이지에 맞추기
 # Label for input control where user can set the scale percentage
-printui-scale-pcent = 크기
+printui-scale-pcent = 배율
 printui-system-dialog-link = 시스템 대화 상자를 사용하여 인쇄…
 printui-primary-button = 인쇄
 printui-cancel-button = 취소
