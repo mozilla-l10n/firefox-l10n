@@ -27,3 +27,31 @@ alert-refresh = Tentativa de reinitiar le conversation cryptate con { $name }.
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Conversation cryptate con { $name } finite.
 state-not_private = Le actual conversation non es private.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Le conversation actual es cryptate, ma non private, pois que le identitate de { $name } non ha essite ancora verificate.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Le identitate de { $name } ha essite verificate. Le conversation actual es cryptate e private.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } ha terminate su conversation cryptate con te; tu debe facer le mesmo.
+state-not_private-label = Insecur
+state-unverified-label = Non verificate
+state-private-label = Private
+state-finished-label = Finite
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } requestava le verification de tu identitate.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Tu ha verificate le identitate de { $name }
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = Le identitate de { $name } non ha essite verificate.
+verify-title = Verificar identitate de tu contactos
+error-title = Error
+success-title = Cryptation end-to-end
+successThem-title = Verificar identitate de tu contactos
+fail-title = Impossibile verificar
+waiting-title = Requesta de verification inviate
