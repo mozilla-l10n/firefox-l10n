@@ -58,7 +58,7 @@ login-list-intro-description = Երբ պահպանում էք գաղտնաբառ
 about-logins-login-list-empty-search-title = Մուտքանուններ չեն գտնուել
 about-logins-login-list-empty-search-description = Ձեր որոնման հետ համընկնում չկայ։
 login-list-item-title-new-login = Նոր մուտքանուն
-login-list-item-subtitle-new-login = Մուտքագրէք Ձեր մուտքանուան տուեալները
+login-list-item-subtitle-new-login = Գրանցէք Ձեր մտից անուան տուեալները
 login-list-item-subtitle-missing-username = (աւգտանուն չկայ)
 about-logins-list-item-breach-icon =
     .title = Վտանգուած կայք
@@ -134,6 +134,9 @@ about-logins-export-password-os-auth-dialog-message-macosx = արտահանել 
 ## Master Password notification
 
 master-password-notification-message = Խնդրում ենք մուտքագրել Ձեր գլխաւոր գաղտնաբառը՝ պահպանուած մուտքերը եւ գաղտնաբառերը դիտելու համար
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Մուտք գործել
     .accesskey = L
