@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } zakazaś, studije wuwjasć.
 policy-DisableForgetButton = Pśistup k tłocaškoju Zabyś zakazaś.
 policy-DisableFormHistory = Pytańsku a formularnu historiju se njespomnjeś.
 policy-DisableMasterPasswordCreation = Jolic wěrno, njedajo se głowne gronidko napóraś.
+policy-DisablePrimaryPasswordCreation = Jolic to trjefijo, njedajo se głowne gronidło napóraś.
 policy-DisablePasswordReveal = Njedowóliś, až se gronidła w skłaźonych pśizjawjenjach pokazuju
 policy-DisablePocket = Funkciju składowanja webbokow do Pocket znjemóžniś.
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžniś.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Zestarjone zaźaržanj
 
 policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótkazaś.
 policy-MasterPassword = Głowne gronidło pominaś abo jogo wužywanjeju zajźowaś
+policy-PrimaryPassword = Głowne gronidło pominaś abo jogo wužywanjeju zajźowaś
 policy-NetworkPrediction = Seśowe pśedzacytanje (DNS-pśedzacytanje) zmóžniś abo znjemóžniś.
 policy-NewTabPage = Bok nowego rejtarika zmóžniś abo znjemóžniś.
 policy-NoDefaultBookmarks = Napóranje standardnych cytańskich znamjenjow { -brand-short-name } znjemóžniś, a inteligentnych cytańskich znamjenjow (nejcesćej woglědane, tuchylne wobznamjenja). Glědajśo: Toś to pšawidło se jano wustatkujo, gaž jo pśed prědnym startom profila wužywaśo.

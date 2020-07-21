@@ -8,7 +8,8 @@ password-quality-meter = Měridło kakosći gronidła
 
 change-password-window =
     .title = Głowne gronidło změniś
-
+change-device-password-window =
+    .title = Gronidło změniś
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Wěstotny rěd: { $tokenName }
@@ -21,6 +22,16 @@ change-password-reenter = Nowe gronidło (hyšći raz):
 reset-password-window =
     .title = Głowne gronidło slědk stajiś
     .style = width: 40em
+pippki-failed-pw-change = Njejo móžno, gronidło změniś.
+pippki-incorrect-pw = Njejsćo pšawe gronidło zapódał. Pšosym wopytajśo hyšći raz.
+pippki-pw-change-ok = Gronidło jo se wuspěšnje změniło.
+pippki-pw-empty-warning = Waše skłaźone gronidła a priwatne kluce njebudu se nješćitaś.
+pippki-pw-erased-ok = Sćo swójo wulašował swójo gronidło.  { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Warnowanje! Sćo se rozsuźił, až njeby se gronidło wužywało. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Sćo tuchylu we FIPS-modusu. FIPS pomina se gronidło.
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Slědk stajiś
 reset-password-text = Jolic stajiśo swójo głowne gronidło slědk, zgubiju se wšykne waše składowane webowe a e-mailowe gronidła, formularne daty, wósobinske certifikaty a priwatne kluce. Cośo napšawdu swój głowne gronidło slědk stajiś?
