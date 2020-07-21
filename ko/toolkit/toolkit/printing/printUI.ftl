@@ -15,3 +15,7 @@ printui-copies-label = 매수
 printui-orientation = 방향
 printui-landscape = 가로
 printui-portrait = 세로
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = 크기
+printui-primary-button = 인쇄
+printui-cancel-button = 취소
