@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Prědne kšace
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Witajśo k { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Witajśo k <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Maśo wobglědowak.<br/>Póznajśo zbytk { -brand-product-name }.
 onboarding-welcome-learn-more = Dalšne informacije wó lěpšynach.
 onboarding-join-form-header = Pśizamkniśo se k { -brand-product-name }
@@ -44,6 +41,28 @@ onboarding-start-browsing-button-label = Pśeglědowanje startowaś
 onboarding-cards-dismiss =
     .title = Zachyśiś
     .aria-label = Zachyśiś
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Witajśo k <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-label = Pśizjawiś
+onboarding-multistage-welcome-secondary-button-text = Maśo konto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importěrujśo swóje gronidła, cytańske znamjenja a <span data-l10n-name="zap">wěcej</span>
+onboarding-multistage-import-primary-button-label = Import zachopiś
+onboarding-multistage-import-secondary-button-label = Nic něnto
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Wubjeŕśo <span data-l10n-name="zap">naglěd</span>
+onboarding-multistage-theme-subtitle = Personalizěrujśo { -brand-short-name } z drastwu.
+onboarding-multistage-theme-primary-button-label = Drastwu składowaś
+onboarding-multistage-theme-secondary-button-label = Nic něnto
+onboarding-multistage-theme-label-light = Swětły
+onboarding-multistage-theme-label-dark = Śamny
+onboarding-multistage-theme-label-colorful = Barwny
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
@@ -54,6 +73,12 @@ onboarding-import-sites-info =
         drugego wobglědowaka njeskładujo abo njesynchronizěrujo
         snaźkuli je importěrujośo.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Prědne kšace: wobrazowka { $current } z { $total }
 
 ## Welcome full page string
 

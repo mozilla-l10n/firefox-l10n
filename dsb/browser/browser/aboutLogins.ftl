@@ -136,6 +136,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = skłaźone pśizjaw
 ## Master Password notification
 
 master-password-notification-message = Pšosym zapódajśo swójo głowne gronidło, aby se skłaźone pśizjawjenja a gronidła woglědał
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Pšosym zapódajśo swójo głowne gronidło, aby se skłaźone pśizjawjenja a gronidła woglědał
 master-password-reload-button =
     .label = Pśizjawiś
     .accesskey = P
