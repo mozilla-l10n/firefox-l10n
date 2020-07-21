@@ -10,7 +10,7 @@ auth-cancel = Отмена
 auth-cancelAccessKey = м
 auth-error = При подтверждении личности вашего контакта произошла ошибка.
 auth-success = Подтверждение личности вашего контакта завершено успешно.
-auth-successThem = Ваш контакт успешно подтвердил вашу личность. Вы также можете подтвердить его личность, задав собственный вопрос.
+auth-successThem = Ваш контакт успешно подтвердил вашу личность. Вы также можете сделать это, задав собственный вопрос.
 auth-fail = Не удалось подтвердить личность вашего контакта.
 auth-waiting = Ждём контакт, чтобы завершить проверку…
 finger-verify = Подтвердить
@@ -41,14 +41,14 @@ state-unverified = Текущий разговор зашифрован, но н
 state-private = Личность { $name } была подтверждена. Текущий разговор зашифрован и конфиденциален.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-state-finished = { $name } закончил с вами зашифрованный разговор; вам следует сделать то же самое.
+state-finished = { $name } закончил(а) с вами зашифрованный разговор; вам следует сделать то же самое.
 state-not_private-label = Небезопасно
 state-unverified-label = Неподтверждено
 state-private-label = Конфиденциально
 state-finished-label = Завершено
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-verify-request = { $name } запросил подтверждение вашей личности.
+verify-request = { $name } запросил(а) подтверждение вашей личности.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 afterauth-private = Вы подтвердили личность { $name }.

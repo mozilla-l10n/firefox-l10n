@@ -37,6 +37,6 @@
 <!ENTITY dntTrackingNotOkay.accesskey "о">
 <!ENTITY doNotTrackInfo.label "Подробнее о «Не отслеживать»">
 
-<!ENTITY doNotTrackCheck.label "Отправлять веб-сайтам сигнал «Не отслеживать», означающий, чтобы вы не хотите быть отслеживаемыми">
+<!ENTITY doNotTrackCheck.label "Отправлять веб-сайтам сигнал «Не отслеживать», означающий, чтобы вы не хотите, чтобы вас отслеживали">
 <!ENTITY doNotTrackCheck.accesskey "я">
 <!ENTITY doNotTrackLearnMore.label "Подробнее">
