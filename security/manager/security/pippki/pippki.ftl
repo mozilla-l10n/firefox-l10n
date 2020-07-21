@@ -28,18 +28,18 @@ pippki-pw-change-ok = Passordet er endret.
 pippki-pw-empty-warning = Dine lagrede passord og private nøkler vil ikke bli beskyttet.
 pippki-pw-erased-ok = Passordet er nå slettet. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Advarsel! Du har valgt å ikke bruke et passord. { pippki-pw-empty-warning }
-pippki-pw-change2empty-in-fips-mode = Du er i FIPS-modus. FIPS krever at du bruker et primærpassord.
+pippki-pw-change2empty-in-fips-mode = Du er i FIPS-modus. FIPS krever at du bruker et hovedpassord.
 
 ## Reset Primary Password dialog
 
 reset-primary-password-window =
-    .title = Tilbakestill primærpassord
+    .title = Tilbakestill hovedpassord
     .style = width: 40em
 reset-password-button-label =
     .label = Tilbakestill
 reset-password-text = Dersom du tilbakestiller hovedpassordet vil alle lagrede nettside- og e-postpassord, skjemadata, personlige sertifikater og private nøkler gå tapt. Er du sikker på at du vil tilbakestille hovedpassordet?
-reset-primary-password-text = Dersom du tilbakestiller primærpassordet vil alle lagrede nettside- og e-postpassord, personlige sertifikater og private nøkler gå tapt. Er du sikker på at du vil tilbakestille primærpassordet?
-pippki-reset-password-confirmation-title = Tilbakestill primærpassord
+reset-primary-password-text = Dersom du tilbakestiller hovedpassordet vil alle lagrede nettside- og e-postpassord, personlige sertifikater og private nøkler gå tapt. Er du sikker på at du vil tilbakestille hovedpassordet?
+pippki-reset-password-confirmation-title = Tilbakestill hovedpassord
 pippki-reset-password-confirmation-message = Primærpassordet ditt er tilbakestilt.
 
 ## Downloading cert dialog

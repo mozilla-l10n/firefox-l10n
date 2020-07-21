@@ -804,7 +804,7 @@ forms-master-pw-use =
     .label = Bruk et hovedpassord
     .accesskey = r
 forms-primary-pw-use =
-    .label = Bruk et primærpassord
+    .label = Bruk et hovedpassord
     .accesskey = B
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -814,9 +814,9 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-title = Du er i FIPS-modus. FIPS krever at du bruker et hovedpassord.
 forms-primary-pw-change =
-    .label = Endre primærpassord…
+    .label = Endre hovedpassord…
     .accesskey = p
-forms-primary-pw-fips-title = Du er for tiden i FIPS-modus. FIPS krever at du bruker et primærpassord.
+forms-primary-pw-fips-title = Du er for tiden i FIPS-modus. FIPS krever at du bruker et hovedpassord.
 forms-master-pw-fips-desc = Passordendring mislyktes
 
 ## OS Authentication dialog
@@ -829,12 +829,12 @@ master-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen 
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = opprette et hovedpassord
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å opprette et primærpassord. Dette vil gjøre kontoene dine tryggere.
+primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å opprette et hovedpassord. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
-primary-password-os-auth-dialog-message-macosx = opprett et primærpassord
+primary-password-os-auth-dialog-message-macosx = opprett et hovedpassord
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
