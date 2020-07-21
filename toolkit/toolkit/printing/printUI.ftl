@@ -18,4 +18,19 @@ printui-page-range-picker =
 printui-page-custom-range =
     .aria-label = Skriv inn tilpasssa sideområde
 # Section title for the number of copies to print
-printui-copies-label = Kopiar
+printui-copies-label = Eksemplar
+printui-orientation = Papirretning
+printui-landscape = Ligggjande
+printui-portrait = Ståande
+# Section title for the printer or destination device to target
+printui-destination-label = Mål
+printui-more-settings = Fleire innstillingar
+printui-less-settings = Færre innstillingar
+# Section title (noun) for the print scaling options
+printui-scale = Skalering
+printui-scale-fit-to-page = Tilpass til side
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Skalering
+printui-system-dialog-link = Skriv ut ved hjelp av systemdialogvindauget…
+printui-primary-button = Skriv ut
+printui-cancel-button = Avbryt
