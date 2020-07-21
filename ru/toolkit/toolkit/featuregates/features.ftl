@@ -28,7 +28,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = кэш запуска about:home
+    .label = Кэш запуска about:home
 experimental-features-abouthome-startup-cache-description = Кэш для изначального документа about:home, который загружается по умолчанию при запуске. Целью кеша является повышение скорости запуска.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
