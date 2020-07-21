@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = 인쇄
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+       *[other] 용지 { $sheetCount } 장
+    }
 printui-page-range-all = 모두
 printui-page-range-custom = 사용자 지정
 printui-page-range-label = 페이지
