@@ -35,6 +35,12 @@ experimental-features-media-avif-description = Com esse recurso ativado, o { -br
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Nossa implementação do atributo global <a data-l10n-name="mdn-inputmode">inputmode</a> foi atualizada conforme <a data-l10n-name="whatwg">a especificação WHATWG</a>, mas ainda precisamos fazer outras alterações, como disponibilizar em conteúdo contenteditable. Consulte mais detalhes em <a data-l10n-name="bugzilla">bug 1205133</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por padrão
