@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Mopotĩ
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Ñepyrũ
     .title = Ndaikatúi emopitĩ service workers ha'eñóramo multi e10s
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Eñepyrũ
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Hekopyahupyre <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>

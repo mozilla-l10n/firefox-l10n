@@ -22,6 +22,8 @@ printui-copies-label = Monguatiapyre
 printui-portrait = Avara’ãnga
 # Section title for the printer or destination device to target
 printui-destination-label = Moõpa
+printui-more-settings = Emoĩporãve
+printui-less-settings = Emboheko sa’ive
 # Section title (noun) for the print scaling options
 printui-scale = Jupiha
 printui-scale-fit-to-page = Embojuehe kuatiaroguére
