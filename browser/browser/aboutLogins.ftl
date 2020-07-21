@@ -133,6 +133,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = xuất thông tin �
 ## Master Password notification
 
 master-password-notification-message = Vui lòng nhập mật khẩu chính của bạn để xem thông tin đăng nhập và mật khẩu đã lưu
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Vui lòng nhập mật khẩu chính của bạn để xem thông tin đăng nhập và mật khẩu đã lưu
 master-password-reload-button =
     .label = Đăng nhập
     .accesskey = L

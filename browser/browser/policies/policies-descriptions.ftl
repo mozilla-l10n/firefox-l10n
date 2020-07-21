@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Chặn { -brand-short-name } chạy các nghiên 
 policy-DisableForgetButton = Chặn truy cập vào nút Quên.
 policy-DisableFormHistory = Không lưu lịch sử tìm kiếm và biểu mẫu.
 policy-DisableMasterPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
+policy-DisablePrimaryPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
 policy-DisablePasswordReveal = Không cho phép mật khẩu được tiết lộ trong thông tin đăng nhập đã lưu.
 policy-DisablePocket = Tắt tính năng lưu trang web vào Pocket.
 policy-DisablePrivateBrowsing = Vô hiệu hóa duyệt web riêng tư.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Hoàn nguyên hành vi
 
 policy-LocalFileLinks = Cho phép các trang web cụ thể để liên kết đến các tập tin cục bộ.
 policy-MasterPassword = Yêu cầu hoặc ngăn chặn sử dụng mật khẩu chính.
+policy-PrimaryPassword = Yêu cầu hoặc ngăn không sử dụng mật khẩu chính.
 policy-NetworkPrediction = Kích hoạt hoặc vô hiệu hóa dự đoán mạng (tìm nạp trước DNS).
 policy-NewTabPage = Kích hoạt hoặc vô hiệu hóa trang Thẻ mới.
 policy-NoDefaultBookmarks = Vô hiệu hóa việc tạo dấu trang mặc định đi kèm với { -brand-short-name } và dấu trang thông minh (được truy cập nhiều nhất, thẻ gần đây). Lưu ý: chính sách này chỉ có hiệu lực nếu được sử dụng trước lần chạy đầu tiên của hồ sơ.
