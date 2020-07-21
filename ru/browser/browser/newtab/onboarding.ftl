@@ -47,14 +47,19 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Добро пожаловать в <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Быстрый, безопасный и приватный браузер, поддерживаемый некоммерческой организацией.
 onboarding-multistage-welcome-primary-button-label = Начать настройку
 onboarding-multistage-welcome-secondary-button-label = Войти
 onboarding-multistage-welcome-secondary-button-text = Уже есть аккаунт?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Импортируйте свои пароли, закладки и <span data-l10n-name="zap">многое другое</span>
+onboarding-multistage-import-subtitle = Переходите с другого браузера? Вы легко можете перенести всё в { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Начать импорт
 onboarding-multistage-import-secondary-button-label = Не сейчас
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Выберите <span data-l10n-name="zap">внешний вид</span>
 onboarding-multistage-theme-subtitle = Персонализируйте { -brand-short-name } темами.
 onboarding-multistage-theme-primary-button-label = Сохранить тему
 onboarding-multistage-theme-secondary-button-label = Не сейчас
@@ -71,6 +76,12 @@ onboarding-import-sites-info =
         синхронизировать данные из другого браузера,
         если только вы не решите их импортировать.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Начало работы: экран { $current } из { $total }
 
 ## Welcome full page string
 

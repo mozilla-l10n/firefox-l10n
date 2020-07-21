@@ -25,6 +25,7 @@ reset-password-window =
 pippki-failed-pw-change = Не удалось изменить пароль.
 pippki-incorrect-pw = Вы ввели некорректный текущий пароль. Попробуйте снова.
 pippki-pw-change-ok = Пароль успешно изменён.
+pippki-pw-empty-warning = Ваши сохранённые пароли и закрытые ключи не будут защищены.
 pippki-pw-erased-ok = Вы удалили свой пароль. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Предупреждение! Вы решили не использовать пароль. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = Вы работаете в режиме соответствия FIPS. При работе в этом режиме необходимо установить пароль.
