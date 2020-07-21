@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Aktiverer støtte for den eksperimentelle CSS Masonry Layout-funksjonen. Se denne <a data-l10n-name="explainer">forklaringen</a> for en beskrivelse av funksjonen på høyt nivå. For å gi tilbakemelding, kommenter <a data-l10n-name="w3c-issue">denne GitHub-saken</a> eller <a data-l10n-name="bug">denne feilrapporten</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,38 @@ experimental-features-web-gpu-description = Eksperimentell API for grafikk og da
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperimentell støtte for AVIF: AV1 bildefilformat
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Infokapsel: SameSite=Lax som standard
@@ -35,8 +71,3 @@ experimental-features-abouthome-startup-cache-description = Et hurtigbuffer for 
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Behandle informasjonskapsler fra samme domene, men med forskjellige skjemaer (f.eks. http://example.com og https://example.com) som flere nettsteder i stedet for samme nettsted. Forbedrer sikkerheten, men introduserer potensielt brudd.
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support =
-    .label = DevTools: Feilsøking av Service Worker
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support-description = Aktiverer eksperimentell støtte for Service Workers i DevTools feilsøkingspanelet. Denne funksjonen kan gjøre DevTools treg og øke minneforbruket.
