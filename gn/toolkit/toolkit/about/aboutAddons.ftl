@@ -17,7 +17,7 @@ list-empty-installed =
 list-empty-available-updates =
     .value = Ndojejuhúi ñembohekopyahu
 list-empty-recent-updates =
-    .value = Nerembopyahúi mba'evéichagua moĩmbaha
+    .value = Nerembopyahúi mba’evéichagua moĩmbaha
 list-empty-find-updates =
     .label = Ñembohekopyahu jeheka
 list-empty-button =
@@ -44,7 +44,7 @@ sidebar-preferences-button-title =
 show-unsigned-extensions-button =
     .label = Heta pukukue ndaikatúi kuri ojehechajey
 show-all-extensions-button =
-    .label = Opaite mba'ejoapyrã jehecha
+    .label = Opaite mba’ejoapyrã jehecha
 debug-addons =
     .label = Emopotĩ Moĩmbahakuéra
     .accesskey = p
@@ -78,7 +78,7 @@ cmd-contribute =
     .label = Pytyvõ
     .accesskey = C
     .tooltiptext = Eipytyvõ moimbaha ñemboguatápe
-discover-title = Mba'épa umi moĩmbaha.
+discover-title = Mba’épa umi moĩmbaha.
 discover-description = Moĩmbaha ha’e tembipuru’i ombohapéva emomba’ete hag̃ua { -brand-short-name } tembiaporã oguerekóva térã moimbyréva. Eipuru ta’ãngarupa yke oikuave’ẽva aravo, ohechaukáva ára rehegua térã téma ñemoha’ãngáva ejapo hag̃ua { -brand-short-name }-gui nemba’ete.
 discover-footer = Eikete vove ñandutípe, ko ta’ãngarupa ome’ẽta heta mba’e iporã ha ojehecharamovéva moĩmbaha eipuruséramo g̃uarã.
 detail-version =
@@ -155,7 +155,7 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Ko'ã moĩmbaha ndojehechajeýi ojepuru hag̃uáicha { -brand-short-name }-pe. Ikatu<label data-l10n-name="find-addons">Myengoviarã juhu</label> térã ejerure mboguatahárape ojehechajey hag̃ua.
 disabled-unsigned-learn-more = Eikuaave oreñeha'ã rehegua ikatu hag̃uáicha roipytyvõ peime hag̃ua jeikekatúpe.
 disabled-unsigned-devinfo = Umi mboguatahára oipotáva moimbaha jehechapyréva ikatu omoñe’ẽve ohóvo ko <label data-l10n-name="learn-more">popeguáva</label>.
-plugin-deprecation-description = Oĩpa nderejuhúiva? Sapy'ánte oĩ mba'ejoajurã ndaikatuvéima ojepuru { -brand-short-name } ndive. <label data-l10n-name="learn-more">Jeikuaave.</label>
+plugin-deprecation-description = ¿Oĩ nderejuhúiva? Sapy’ánte oĩ mba’ejoajurã ndaikatuvéima ojepuru { -brand-short-name } ndive. <label data-l10n-name="learn-more">Jeikuaave.</label>
 legacy-warning-show-legacy = Opaite mba’ejoapyrã jehecha
 legacy-extensions =
     .value = Opaite mba’ejoapyrã
