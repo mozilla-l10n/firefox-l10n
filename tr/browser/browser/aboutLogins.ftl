@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = kayıtlı hesaplar�
 ## Master Password notification
 
 master-password-notification-message = Kayıtlı parola ve hesaplarınızı görmek için lütfen ana parolanızı girin
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Kayıtlı parola ve hesaplarınızı görmek için lütfen ana parolanızı girin
 master-password-reload-button =
     .label = Giriş yap
     .accesskey = G

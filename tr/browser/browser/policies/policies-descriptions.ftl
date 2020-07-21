@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } tarayıcısının araştır
 policy-DisableForgetButton = Unut düğmesine erişimi engelle.
 policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 policy-DisableMasterPasswordCreation = true ise ana parola oluşturulamaz.
+policy-DisablePrimaryPasswordCreation = True olarak ayarlanırsa ana parola oluşturulamaz.
 policy-DisablePasswordReveal = Kayıtlı hesaplardaki parolaların görüntülenmesine izin verme.
 policy-DisablePocket = Web sayfalarını Pocket'a kaydetme özelliğini devre dışı bırak.
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Belirtilen sitelerdeki
 
 policy-LocalFileLinks = Belirli web sitelerinin yerel dosyalara bağlantı vermesine izin ver.
 policy-MasterPassword = Ana parola kullanılmasını zorunlu tut veya yasakla.
+policy-PrimaryPassword = Ana parola kullanılmasını zorunlu tut veya yasakla.
 policy-NetworkPrediction = Ağ tahminini (DNS prefetching) aç veya kapat.
 policy-NewTabPage = Yeni Sekme sayfasını etkinleştir veya devre dışı bırak.
 policy-NoDefaultBookmarks = { -brand-short-name }  ile birlikte gelen varsayılan yer imlerinin ve akıllı yer imlerinin (en çok ziyaret edilenler, son kullanılan etiketler) oluşturulmasını devre dışı bırak. Not: Bu ilke yalnızca profil ilk kez çalıştırılmadan önce kullanılırsa etkili olur.
