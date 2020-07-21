@@ -35,6 +35,7 @@ policy-DisableFirefoxStudies = Zabráni aplikácii { -brand-short-name } spúš�
 policy-DisableForgetButton = Zablokuje prístup ku tlačidlu Zabudnúť.
 policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulárov.
 policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
+policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
 policy-DisablePasswordReveal = Zablokuje zobrazovanie hesiel v správcovi prihlasovacích údajov.
 policy-DisablePocket = Vypne funkciu pre ukladanie stránok do služby Pocket.
 policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie
@@ -62,6 +63,7 @@ policy-ExtensionSettings = Spravuje všetky aspekty inštalácie rozšírenia.
 policy-ExtensionUpdate = Zapne alebo vypne automatické aktualizácie rozšírení.
 policy-FirefoxHome = Nastaví domovskú stránku Firefoxu.
 policy-FlashPlugin = Povolí alebo zakáže používanie zásuvného modulu Flash.
+policy-Handlers = Nastaví predvolené aplikácie pre odkazy a typy súborov.
 policy-HardwareAcceleration = Ak je nastavená hodnota false, vypne hardvérové urýchľovanie.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastaví a v prípade potreby uzamkne domovskú stránku.
@@ -75,6 +77,7 @@ policy-LegacyProfiles = Vypne funkciu, ktorá vynucuje samostatný profil pre ka
 
 policy-LocalFileLinks = Povolí určitým webovým stránkam odkazovať na súbory uložené na pevnom disku.
 policy-MasterPassword = Vyžadovanie alebo zabránenie používania hlavného hesla.
+policy-PrimaryPassword = Vyžadovanie alebo zabránenie používania hlavného hesla.
 policy-NetworkPrediction = Povolí alebo zakáže prednačítavanie DNS (prefetching).
 policy-NewTabPage = Povolí alebo zakáže stránku novej karty.
 policy-NoDefaultBookmarks = Vypne vytváranie predvolených záložiek a chytrých záložiek aplikácie { -brand-short-name } (Najnavštevovanejšie, Naposledy použité značky). Poznámka: toto pravidlo možno efektívne využiť len vtedy, ak bude nastavené pred prvým spustením.

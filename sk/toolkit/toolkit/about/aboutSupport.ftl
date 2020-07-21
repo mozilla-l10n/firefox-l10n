@@ -17,7 +17,10 @@ extensions-name = Názov
 extensions-enabled = Povolené
 extensions-version = Verzia
 extensions-id = ID
+support-addons-title = Doplnky
 support-addons-name = Názov
+support-addons-type = Typ
+support-addons-enabled = Povolené
 support-addons-version = Verzia
 support-addons-id = ID
 security-software-title = Bezpečnostný softvér
@@ -37,6 +40,7 @@ app-basics-title = Základné nastavenia aplikácie
 app-basics-name = Názov
 app-basics-version = Verzia
 app-basics-build-id = Identifikátor zostavenia
+app-basics-distribution-id = ID distribúcie
 app-basics-update-channel = Kanál aktualizácií
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -76,6 +80,9 @@ show-dir-label =
         [windows] Otvoriť priečinok
        *[other] Otvoriť priečinok
     }
+experimental-features-title = Experimentálne funkcie
+experimental-features-name = Názov
+experimental-features-value = Hodnota
 modified-key-prefs-title = Dôležité upravené nastavenia
 modified-prefs-name = Názov
 modified-prefs-value = Hodnota
@@ -121,6 +128,7 @@ sandbox-sys-call-number = Systémové volanie
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Vyskúšajte núdzový režim
 restart-in-safe-mode-label = Reštartovať a zakázať doplnky…
+restart-button-label = Reštartovať
 
 ## Media titles
 
