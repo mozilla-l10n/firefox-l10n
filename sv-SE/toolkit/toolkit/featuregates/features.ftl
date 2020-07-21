@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Aktiverar stöd för den experimentella CSS Masonry Layout-funktionen. Se <a data-l10n-name="explainer">förklaring</a> för en beskrivning på hög nivå av funktionen. För att ge återkoppling kan du kommentera i <a data-l10n-name="w3c-issue">detta GitHub-problem</a> eller <a data-l10n-name="bug">denna bugg</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,42 @@ experimental-features-web-gpu-description = Experimentellt API för grafik och d
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Experimentellt stöd för AVIF: AV1 Bildfilformat
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Utvecklarverktyg: Simulering av färgschema
+experimental-features-devtools-compatibility-panel =
+    .label = Utvecklarverktyg: Kompatibilitetspanel
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Kakor: SameSite=Lax som standard
@@ -35,8 +75,3 @@ experimental-features-abouthome-startup-cache-description = En cache för startd
 experimental-features-cookie-samesite-schemeful =
     .label = Kakor: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Behandla kakor från samma domän, men med olika scheman (t.ex. http://exempel.se och https://exempel.se) som flera webbplatser istället för samma webbplats. Förbättrar säkerheten, men kan göra att webbplatsen fungerar felaktigt.
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support =
-    .label = DevTools: Felsökning av Service Worker
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support-description = Aktiverar experimentellt stöd för Service Workers i DevTools felsökningspanel. Denna funktion kan slöa ner DevTools och öka minnesförbrukningen.
