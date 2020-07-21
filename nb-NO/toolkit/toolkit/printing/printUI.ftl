@@ -18,7 +18,7 @@ printui-page-range-picker =
 printui-page-custom-range =
     .aria-label = Angi tilpassset sideområde
 # Section title for the number of copies to print
-printui-copies-label = Kopier
+printui-copies-label = Eksemplarer
 printui-orientation = Papirretning
 printui-landscape = Liggende
 printui-portrait = Stående
