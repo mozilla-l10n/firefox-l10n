@@ -8,7 +8,6 @@ password-quality-meter = Avaluador de qualitat de la contrasenya
 
 change-password-window =
     .title = Canvia la contrasenya mestra
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositiu de seguretat: { $tokenName }
@@ -21,9 +20,18 @@ change-password-reenter = Contrasenya nova (un altre cop):
 reset-password-window =
     .title = Reinicia la contrasenya mestra
     .style = width: 40em
+
+## Reset Primary Password dialog
+
+reset-primary-password-window =
+    .title = Reinicia la contrasenya principal
+    .style = width: 40em
 reset-password-button-label =
     .label = Reinicia
 reset-password-text = Si reinicieu la vostra contrasenya mestra, totes les vostres contrasenyes de web i de correu electrònic, les dades dels formularis, els certificats personals i les claus privades emmagatzemades es perdran. Esteu segur que voleu reiniciar la vostra contrasenya mestra?
+reset-primary-password-text = Si reinicieu la vostra contrasenya principal, totes les vostres contrasenyes de web i de correu electrònic, els certificats personals i les claus privades emmagatzemades es perdran. Esteu segur que voleu reiniciar la vostra contrasenya principal?
+pippki-reset-password-confirmation-title = Reinicia la contrasenya principal
+pippki-reset-password-confirmation-message = S'ha reiniciat la vostra contrasenya principal.
 
 ## Downloading cert dialog
 

@@ -42,6 +42,12 @@ onboarding-cards-dismiss =
     .title = Descarta
     .aria-label = Descarta
 
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+onboarding-multistage-welcome-primary-button-label = Inicia la configuració
+onboarding-multistage-import-primary-button-label = Inicia la importació
+onboarding-multistage-theme-primary-button-label = Desa el tema
+
 ## Welcome full page string
 
 onboarding-fullpage-welcome-subheader = Descobriu tot allò que podeu fer.

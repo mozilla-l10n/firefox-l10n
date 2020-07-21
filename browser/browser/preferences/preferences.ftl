@@ -803,10 +803,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Utilitza una contrasenya mestra
     .accesskey = U
+forms-primary-pw-use =
+    .label = Utilitza una contrasenya principal
+    .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Canvia la contrasenya mestra…
     .accesskey = m
 forms-master-pw-fips-title = Us trobeu en mode FIPS. El FIPS requereix una contrasenya mestra que no sigui buida.
+forms-primary-pw-change =
+    .label = Canvia la contrasenya principal…
+    .accesskey = p
+forms-primary-pw-fips-title = Us trobeu en mode FIPS. El FIPS requereix una contrasenya principal que no sigui buida.
 forms-master-pw-fips-desc = El canvi de contrasenya ha fallat
 
 ## OS Authentication dialog
@@ -818,6 +828,13 @@ master-password-os-auth-dialog-message-win = Per crear una contrasenya mestra, i
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = crear una contrasenya mestra
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Per crear una contrasenya principal, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crear una contrasenya principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -1165,6 +1182,9 @@ space-alert-under-5gb-ok-button =
     .label = Entesos
     .accesskey = n
 space-alert-under-5gb-message = El { -brand-short-name } s'està quedant sense espai de disc. És possible que el contingut dels llocs web no es mostri correctament. Vegeu «Més informació» per optimitzar l'ús de disc i millorar l'experiència de navegació.
+
+## Privacy Section - HTTPS-Only
+
 
 ## The following strings are used in the Download section of settings
 
