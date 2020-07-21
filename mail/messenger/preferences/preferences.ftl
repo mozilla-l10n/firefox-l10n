@@ -41,7 +41,6 @@ composition-addressing-header = Endereçamento
 privacy-main-header = Privacidade
 privacy-passwords-header = Senhas
 privacy-junk-header = Spam
-privacy-data-collection-header = Coleta e uso de dados
 collection-header = Coleta e uso de dados pelo { -brand-short-name }
 collection-description = Nos esforçamos para proporcionar escolhas e coletar somente o necessário para melhorar e fornecer o { -brand-short-name } para todos. Sempre pedimos permissão antes de receber informações pessoais.
 collection-privacy-notice = Aviso de privacidade
@@ -96,14 +95,19 @@ addons-button = Extensões e Temas
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Confirme sua identidade para criar uma senha mestra.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Para criar uma senha mestra, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = criar uma senha mestra
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Para criar uma senha principal, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = criar uma senha principal
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,13 @@ master-password-label =
 master-password-button =
     .label = Modificar senha mestra…
     .accesskey = M
+primary-password-description = Uma senha principal protege todas as suas senhas, mas você deve digitá-la uma vez por sessão.
+primary-password-label =
+    .label = Usar uma senha principal
+    .accesskey = U
+primary-password-button =
+    .label = Alterar senha principal…
+    .accesskey = A
 junk-description = Defina suas configurações padrão para spam. Opções específicas para cada conta podem ser definidas em “Configurar contas”.
 junk-label =
     .label = Ao marcar mensagens como spam:
@@ -701,3 +712,6 @@ search-results-empty-message =
        *[other] Desculpe, “<span data-l10n-name="query"></span>” não foi encontrado nas preferências.
     }
 search-results-help-link = Precisa de ajuda? Visite o <a data-l10n-name="url">suporte do { -brand-short-name }</a>
+
+## Preferences UI Search Results
+
