@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Ani eheja { -brand-short-name } omomba’apo ñem
 policy-DisableForgetButton = Ani eheja votõ Tesaráipe jeike.
 policy-DisableFormHistory = Ani nemandu’a jeheka ha tembiasakue myanyhẽha rehe.
 policy-DisableMasterPasswordCreation = Ojepurúrõ true, ndaikatúi emoheñói ñe’ẽñemi ha’etéva.
+policy-DisablePrimaryPasswordCreation = Añetérõ, ndaikatúi emoheñói Ñe’ẽñemi ha’etéva.
 policy-DisablePasswordReveal = Ani emoneĩ ojehecha ñe’ẽñemi tembiapo ñepyrũ ñongatupyrépe.
 policy-DisablePocket = Eipe’a ñanduti renda ñeñongatu rembiapoite Pocket-pe.
 policy-DisablePrivateBrowsing = Eipe’a kundaha ñemigua.
