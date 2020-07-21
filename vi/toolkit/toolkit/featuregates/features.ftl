@@ -30,3 +30,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = Bộ nhớ đệm tự chạy của about:home
 experimental-features-abouthome-startup-cache-description = Một bộ nhớ đệm cho tài liệu about:home được tải theo mặc định khi khởi động. Mục đích của bộ nhớ đệm là cải thiện hiệu suất khởi động.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Xem cookie từ cùng một tên miền, nhưng với các chương trình khác nhau (ví dụ: http://example.com và https://example.com) là trang web chéo thay vì cùng một trang web. Cải thiện bảo mật, nhưng có thể khiến một số trang web hoạt động không đúng.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support =
+    .label = DevTools: Gỡ lỗi Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-serviceworker-debugger-support-description = Cho phép hỗ trợ thử nghiệm cho Service Workers trong thẻ Trình gỡ lỗi của DevTools. Tính năng này có thể làm chậm DevTools và tăng mức tiêu thụ bộ nhớ.

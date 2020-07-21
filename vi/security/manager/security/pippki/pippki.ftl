@@ -40,6 +40,7 @@ reset-password-button-label =
 reset-password-text = Nếu bạn đặt lại mật khẩu chính, toàn bộ các mật khẩu web, email, dữ liệu biểu mẫu, chứng chỉ và khóa cá nhân đã lưu sẽ bị xóa. Bạn có chắc muốn xóa mật khẩu chính của mình không?
 reset-primary-password-text = Nếu bạn đặt lại mật khẩu chính, toàn bộ các mật khẩu web, email, dữ liệu biểu mẫu, chứng chỉ và khóa cá nhân đã lưu sẽ bị xóa. Bạn có chắc muốn đặt lại mật khẩu chính của mình không?
 pippki-reset-password-confirmation-title = Đặt lại mật khẩu chính
+pippki-reset-password-confirmation-message = Đã đặt lại mật khẩu chính của bạn.
 
 ## Downloading cert dialog
 
