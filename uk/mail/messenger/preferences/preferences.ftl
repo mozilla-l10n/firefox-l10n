@@ -101,6 +101,13 @@ master-password-os-auth-dialog-message-win = Щоб створити голов�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = створити головний пароль
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Щоб створити головний пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = створити головний пароль
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -538,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Змінити головний пароль…
     .accesskey = З
+primary-password-description = Головний пароль захищає всі ваші паролі, але вам доведеться вводити його один раз на кожен сеанс.
+primary-password-label =
+    .label = Використовувати головний пароль
+    .accesskey = г
+primary-password-button =
+    .label = Змінити головний пароль…
+    .accesskey = і
+forms-primary-pw-fips-title = Зараз ви в режимі FIPS. Для цього режиму необхідно встановити головний пароль.
+forms-master-pw-fips-desc = Не вдалося змінити пароль
 junk-description = Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.
 junk-label =
     .label = Коли я позначаю лист як спам:
