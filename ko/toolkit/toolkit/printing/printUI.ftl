@@ -15,7 +15,15 @@ printui-copies-label = 매수
 printui-orientation = 방향
 printui-landscape = 가로
 printui-portrait = 세로
+# Section title for the printer or destination device to target
+printui-destination-label = 대상
+printui-more-settings = 설정 자세히
+printui-less-settings = 설정 간단히
+# Section title (noun) for the print scaling options
+printui-scale = 크기
+printui-scale-fit-to-page = 페이지에 맞추기
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 크기
+printui-system-dialog-link = 시스템 대화 상자를 사용하여 인쇄…
 printui-primary-button = 인쇄
 printui-cancel-button = 취소
