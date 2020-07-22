@@ -819,10 +819,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Defnyddio prif gyfrinair
     .accesskey = D
+forms-primary-pw-use =
+    .label = Defnyddio Prif Gyfrinair
+    .accesskey = P
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Newid y Prif Gyfrinair…
     .accesskey = N
 forms-master-pw-fips-title = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair nad yw'n wag.
+forms-primary-pw-change =
+    .label = Newid y Prif Gyfrinair…
+    .accesskey = N
+forms-primary-pw-fips-title = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair nad yw'n wag.
 forms-master-pw-fips-desc = Methu Newid eich Cyfrinair
 
 ## OS Authentication dialog
@@ -834,6 +844,13 @@ master-password-os-auth-dialog-message-win = I greu Prif Gyfrinair, rhowch eich 
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = creu Prif Gyfrinair
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = I greu Prif Gyfrinair, nodwch fanylion eich mewngofnodi Windows. Mae hyn yn helpu i ddiogelu eich cyfrifon.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = creu Prif Gyfrinair
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
