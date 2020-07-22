@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Спречи извођење { -brand-short-name
 policy-DisableForgetButton = Спречи приступ дугмету „Заборави“.
 policy-DisableFormHistory = Не памти историју претраживања и формулара.
 policy-DisableMasterPasswordCreation = Ако је тачно, неће бити могуће постављање главне лозинке.
+policy-DisablePrimaryPasswordCreation = Ако је тачно, главна лозинка се не може направити.
 policy-DisablePasswordReveal = Не дозволите приказивање лозинке у сачуваним подацима за пријаву.
 policy-DisablePocket = Онемогући могућност чувања веб страница у сервису Pocket.
 policy-DisablePrivateBrowsing = Онемогући приватно прегледање.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Вратите се н
 
 policy-LocalFileLinks = Дозволи одређеним сајтовима везе ка локалним датотекама.
 policy-MasterPassword = Захтевајте или спречите употребу главне лозинке.
+policy-PrimaryPassword = Захтевајте или спречите употребу главне лозинке.
 policy-NetworkPrediction = Омогући или онемогући предвиђање мрежних захтева (превентивни DNS упити).
 policy-NewTabPage = Омогућите или онемогућите страницу новог језичка.
 policy-NoDefaultBookmarks = Онемогући стварање подразумеваних белешки упакованих уз програм { -brand-short-name } и стварање паметних белешки (најчешће посећене, недавне ознаке). Напомена: ова полиса је делотворна само ако се искористи пре првог покретања профила.
