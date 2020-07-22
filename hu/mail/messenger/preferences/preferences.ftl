@@ -41,7 +41,6 @@ composition-addressing-header = Címzés
 privacy-main-header = Adatvédelem
 privacy-passwords-header = Jelszavak
 privacy-junk-header = Levélszemét
-privacy-data-collection-header = Adatgyűjtés és -felhasználás
 collection-header = { -brand-short-name } adatgyűjtés és felhasználás
 collection-description = Arra törekszünk, hogy választást biztosítsunk, és csak azt gyűjtsük, amire szükségünk a van a { -brand-short-name } fejlesztéséhez, mindenki számára. Mindig engedélyt kérünk, mielőtt személyes információkat fogadunk.
 collection-privacy-notice = Adatvédelmi nyilatkozat
@@ -96,14 +95,19 @@ addons-button = Kiegészítők és témák
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Igazolja személyazonosságát a mesterjelszó létrehozásához.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Mesterjelszó létrehozásához írja be a Windows bejelentkezési hitelesítő adatait. Ez elősegíti a fiókjai biztonságának védelmét.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = mesterjelszót hozzon létre
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Elsődleges jelszó létrehozásához írja be a Windows bejelentkezési hitelesítő adatait. Ez elősegíti a fiókjai biztonságának védelmét.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = elsődleges jelszó létrehozása
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Mesterjelszó megváltoztatása…
     .accesskey = z
+primary-password-description = Az elsődleges jelszó az összes jelszót védi. Minden munkamenet során egyszer meg kell adni.
+primary-password-label =
+    .label = Elsődleges jelszó használata
+    .accesskey = E
+primary-password-button =
+    .label = Elsődleges jelszó megváltoztatása…
+    .accesskey = m
+forms-primary-pw-fips-title = Jelenleg FIPS-módban van. A FIPS-hez nem üres elsődleges jelszó szükséges.
+forms-master-pw-fips-desc = Sikertelen jelszóváltoztatás
 junk-description = Az alapértelmezett levélszemét-kezelés beállítása. A postafiókra jellemző levélszemét-kezelés beállításait a Postafiókok beállításai alatt végezheti el.
 junk-label =
     .label = A levélszemét kézi megjelölésekor:
@@ -701,3 +714,6 @@ search-results-empty-message =
        *[other] Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Segítségre van szüksége? Látogasson el ide: <a data-l10n-name="url">{ -brand-short-name } támogatás</a>
+
+## Preferences UI Search Results
+
