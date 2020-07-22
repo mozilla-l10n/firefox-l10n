@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Cho phép hỗ trợ cho tính năng thử nghiệm CSS Masonry Layout. Xem <a data-l10n-name="explainer">giải thích</a> để biết mô tả cấp cao về tính năng. Để cung cấp phản hồi, vui lòng nhận xét trong <a data-l10n-name="w3c-su">GitHub issue này</a> hoặc <a data-l10n-name="bug">báo cáo lỗi này</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,31 @@ experimental-features-web-gpu-description = API thử nghiệm cho đồ họa v
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Hỗ trợ thử nghiệm cho AVIF: Định dạng tập tin hình ảnh AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = API mới này cung cấp hỗ trợ cấp thấp để thực hiện tính toán và kết xuất đồ họa bằng cách sử dụng <a data-l10n-name="wikipedia">bộ xử lí đồ họa(GPU)</a> của thiết bị hoặc máy tính của người dùng. <a data-l10n-name="spec">Thông số kĩ thuật</a> vẫn đang được tiến hành. Xem <a data-l10n-name="bugzilla">bug 1602129</a> để biết thêm chi tiết.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Phương tiện: AVIF
+experimental-features-media-avif-description = Với tính năng này được bật, { -brand-short-name } hỗ trợ định dạng tập tin hình ảnh AV1 (AVIF). Đây là định dạng hình ảnh tĩnh, tận dụng các khả năng của thuật toán nén video AV1 để giảm kích thước hình ảnh. Xem <a data-l10n-name="bugzilla">bug 1443863</a> để biết thêm chi tiết.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Thuộc tính <a data-l10n-name="rel">rel</a> có giá trị <code>"preload"</code> trên một phần tử <a data-l10n-name="link">&lt;liên kết&gt;</a> nhằm giúp cung cấp hiệu suất tăng bằng cách cho phép bạn tải xuống các tài nguyên sớm hơn trong vòng đời của trang, đảm bảo rằng chúng có sẵn sớm hơn và ít có khả năng chặn kết xuất trang. Đọc <a data-l10n-name="readmore">“Tải trước nội dung với <code>rel="preload"</code>”</a> hoặc xem <a data-l10n-name="bugzilla">bug 1583604</a> để biết thêm chi tiết.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=Lax theo mặc định
@@ -36,7 +65,7 @@ experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Xem cookie từ cùng một tên miền, nhưng với các chương trình khác nhau (ví dụ: http://example.com và https://example.com) là trang web chéo thay vì cùng một trang web. Cải thiện bảo mật, nhưng có thể khiến một số trang web hoạt động không đúng.
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support =
-    .label = DevTools: Gỡ lỗi Service Worker
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Công cụ dành cho nhà phát triển: Gỡ lỗi Service Worker
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support-description = Cho phép hỗ trợ thử nghiệm cho Service Workers trong thẻ Trình gỡ lỗi của DevTools. Tính năng này có thể làm chậm DevTools và tăng mức tiêu thụ bộ nhớ.
+experimental-features-devtools-serviceworker-debugger-support-description = Cho phép hỗ trợ thử nghiệm Service Workers trong thẻ Trình gỡ lỗi. Tính năng này có thể làm chậm Công cụ dành cho nhà phát triển và tăng mức tiêu thụ bộ nhớ.
