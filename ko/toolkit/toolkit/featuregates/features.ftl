@@ -61,6 +61,7 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = 미디어 세션 API의 전체 { -brand-short-name } 구현은 현재 실험 중입니다. 이 API는 미디어 관련 알림 처리를 사용자 정의하고, 미디어 재생 관리를 위한 사용자 인터페이스를 제공하는데 유용한 이벤트 및 데이터를 관리하고, 미디어 파일 메타데이터를 얻는데 사용됩니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1112032</a>를 참고하세요.
 experimental-features-devtools-color-scheme-simulation =
     .label = 개발자 도구: 색 구성표 시뮬레이션
 experimental-features-devtools-color-scheme-simulation-description = <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> 미디어 쿼리를 테스트 할 수 있는 다양한 색 구성표를 시뮬레이션하는 옵션을 추가합니다. 이 미디어 쿼리를 사용하면 스타일시트가 사용자가 밝은 사용자 인터페이스를 선호하는지 어두운 사용자 인터페이스를 선호하는지에 응답할 수 있습니다. 이 기능을 사용하면 브라우저(또는 브라우저가 시스템 전체 색 구성표 설정을 따르는 경우는 운영 체제)의 설정을 변경하지 않고도 코드를 테스트 할 수 있습니다. 자세한 내용은 <a data-l10n-name="bugzilla1">bug 1550804</a> 및 <a data-l10n-name="bugzilla2">bug 1137699</a>를 참고하세요.
