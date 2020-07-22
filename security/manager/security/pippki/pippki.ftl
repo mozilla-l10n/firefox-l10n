@@ -27,7 +27,7 @@ pippki-incorrect-pw = Wedi rhoi cyfrinair anghywir. Ceisiwch eto.
 pippki-pw-change-ok = Mae'r cyfrinair wedi ei newid yn llwyddiannus.
 pippki-pw-empty-warning = Fydd eich cyfrineiriau a'ch allweddi preifat wedi'u storio ddim yn cael eu gwarchod.
 pippki-pw-erased-ok = Rydych wedi dileu eich Prif Gyfrinair. { pippki-pw-empty-warning }
-pippki-pw-not-wanted = Rhybudd! Rydych wedi penderfynu peidio defnyddio Prif Gyfrinair.{ pippki-pw-empty-warning }
+pippki-pw-not-wanted = Rhybudd! Rydych wedi penderfynu peidio defnyddio Prif Gyfrinair. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = Rydych ym modd FIPS. Mae FIPS angen gyfrinair nad yw'n wag.
 
 ## Reset Primary Password dialog
