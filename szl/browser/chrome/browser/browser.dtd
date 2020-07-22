@@ -239,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Sztopnij">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "Idź do adresy z poska z adresōm">
 
 <!ENTITY printButton.label            "Durkuj">
@@ -257,7 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Regiyruj używaniym rozszyrzyń">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmiyń, jeźli mosz dostować powiadōmiynia z tyj strōny.">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Chrōniynie danych we pamiyńci trwałyj.">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Przeglōndarka je kōntrolowano zdalnie">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ôdewrzij panel necowyj autyntyzacyje">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Ôdewrzij panel dostympu do informacyji ô twojim przeglōndaniu">
@@ -286,9 +284,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Instalacyjo przidowek na tyj strōnie je zaszperowano.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokoż historyjo">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ta strōna dostała ekstra zgody.">
-
 
 <!ENTITY searchItem.title             "Szukej">
 
@@ -398,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "P">
 <!ENTITY viewSidebarMenu.label "Lajsta na rancie">
 <!ENTITY viewSidebarMenu.accesskey "l">
-
 <!ENTITY viewCustomizeToolbar.label       "Przipasuj…">
 <!ENTITY viewCustomizeToolbar.accesskey     "p">
 
@@ -493,7 +487,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Wiyncyj">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "Szukej abo wkludź adresa">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -639,7 +632,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Spamiyntej link w usudze Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label         "Wykoz usugi Poket">
+<!ENTITY pocketMenuitem.label         "Wykoz usugi Pocket">
 
 <!ENTITY emailPageCmd.label           "Poślij link emailym…">
 <!ENTITY emailPageCmd.accesskey       "E">
