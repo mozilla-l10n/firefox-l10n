@@ -76,7 +76,7 @@ serviceworker-empty-intro-link = 详细了解
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
-serviceworker-empty-suggestions2 = 若当前页面上本应有 Service Worker，则可在<a>控制台</a>中查找错误，或在<span>调试器</span>中按步骤注册 Service Worker。
+serviceworker-empty-suggestions2 = 若当前页面上本应有 Service Worker，请在<a>控制台</a>中查找错误，或在<span>调试器</span>中按步骤注册 Service Worker。
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = 检查来自其他域名的 Service Worker
@@ -108,7 +108,7 @@ manifest-loaded-error = 载入清单文件时发生错误：
 # trying to load the manifest
 manifest-loaded-devtools-error = Firefox 开发者工具出错
 # Text displayed when the page has no manifest available
-manifest-non-existing = 未发现要查看的清单文件。
+manifest-non-existing = 未找到要检查的清单文件。
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = 清单文件嵌入在数据 URL 中。
