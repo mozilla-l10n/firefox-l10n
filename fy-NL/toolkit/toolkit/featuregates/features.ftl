@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Makket stipe foar de eksperimintele funksje CSS Masonry Layout mooglik. Lês de <a data-l10n-name="explainer">útlis</a> foar in globale beskriuwing fan de funksje. Pleats in opmerking yn <a data-l10n-name="w3c-issue">dit GitHub-issue</a> of <a data-l10n-name="bug">dizze bug</a> om kommentaar te leverjen.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,44 @@ experimental-features-web-gpu-description = Eksperimintele API foar ôfbyldingen
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperimintele stipe foar AVIF: AV1 Image File-opmaak
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Developer Tools: Color Scheme Simulation
+experimental-features-devtools-execution-context-selector =
+    .label = Developer Tools: Execution Context Selector
+experimental-features-devtools-compatibility-panel =
+    .label = Developer Tools: Compatibility Panel
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax as standert
@@ -36,7 +78,5 @@ experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Behannelje cookies fan itselfe domein, mar mei ferskate skema's (bygelyks http://example.com en https://example.com) as cross-site yn stee fan deselfe site. Ferbetteret de befeiliging, mar soarget der mooglik foar dat de website net goed wurket.
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support =
-    .label = DevTools: Service Worker-debugging
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support-description = Skeakelet yn it DevTools Debugger-paniel eksperimintele stipe foar service workers yn. Dizze funksje kin DevTools fertrage en it ûnthâldgebrûk ferheegje.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Developer Tools: Service Worker debugging
