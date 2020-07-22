@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Први кораци
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Добродошли у { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Добродошли у <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Имате прегледач. <br/>Упознајте и остатак { -brand-product-name } екипе.
 onboarding-welcome-learn-more = Сазнајте више о предностима.
 onboarding-join-form-header = Придружи се пројекту { -brand-product-name }
@@ -44,6 +41,47 @@ onboarding-start-browsing-button-label = Почните са прегледањ�
 onboarding-cards-dismiss =
     .title = Уклони
     .aria-label = Уклони
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Добродошли у <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Брз, сигуран и приватни прегледач који је подржан од непрофитне организације.
+onboarding-multistage-welcome-primary-button-label = Покрените подешавање
+onboarding-multistage-welcome-secondary-button-label = Пријавите се
+onboarding-multistage-welcome-secondary-button-text = Имате налог?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Увезите ваше лозинке, обележиваче и <span data-l10n-name="zap">друго</span>
+onboarding-multistage-import-subtitle = Долазите од другог прегледача? Све можете лако увести у { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Покрени увоз
+onboarding-multistage-import-secondary-button-label = Не сада
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Изаберите <span data-l10n-name="zap">изглед</span>
+onboarding-multistage-theme-subtitle = Прилагодите { -brand-short-name } темом.
+onboarding-multistage-theme-primary-button-label = Сачувај тему
+onboarding-multistage-theme-secondary-button-label = Не сада
+onboarding-multistage-theme-label-light = Светла
+onboarding-multistage-theme-label-dark = Тамна
+onboarding-multistage-theme-label-colorful = Шарена
+# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
+# This support welcome screen showing top sites imported from the user's default browser.
+# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
+onboarding-import-sites-info =
+    .title =
+        Ове странице су пронађене на овом уређају.
+        { -brand-short-name } не чува нити синхронизује податке из
+        другог прегледача уколико ви не изаберете да
+        их увезете.
+    .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Први кораци: екран { $current } од { $total }
 
 ## Welcome full page string
 

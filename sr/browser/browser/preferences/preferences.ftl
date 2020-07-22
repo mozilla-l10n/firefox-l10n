@@ -807,10 +807,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Користи главну лозинку
     .accesskey = К
+forms-primary-pw-use =
+    .label = Користите главну лозинку
+    .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Промени главну лозинку…
     .accesskey = П
 forms-master-pw-fips-title = У овом тренутку налазите се у FIPS режиму. У режиму FIPS није дозвољено користити празну главну лозинку.
+forms-primary-pw-change =
+    .label = Промените главну лозинку
+    .accesskey = P
+forms-primary-pw-fips-title = Тренутно сте у FIPS режиму. Овај режим захтева коришћење главне лозинке.
 forms-master-pw-fips-desc = Грешка приликом промене лозинке
 
 ## OS Authentication dialog
@@ -822,6 +832,13 @@ master-password-os-auth-dialog-message-win = Да бисте направили 
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = направи главну лозинку
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Да бисте направили главну лозинку, унесите ваше Windows податке за пријаву. Ово помаже у заштити ваших налога.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = направите главну лозинку
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -1173,6 +1190,14 @@ space-alert-under-5gb-message = { -brand-short-name } остаје без мес
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only режим
+httpsonly-description = HTTPS обезбеђује сигурну, шифровану везу између { -brand-short-name }-а и веб страница које посећујете. Већина страница подржава HTTPS. Ако је омогућен HTTPS-Only режим, тада ће { -brand-short-name } надоградити све везе на HTTPS.
+httpsonly-learn-more = Сазнајте више
+httpsonly-radio-enabled =
+    .label = Омогући HTTPS-Only режим у свим прозорима
+httpsonly-radio-enabled-pbm =
+    .label = Омогући HTTPS-Only режим само у приватним прозорима
+httpsonly-radio-disabled =
+    .label = Не онемогућавај HTTPS-Only режим
 
 ## The following strings are used in the Download section of settings
 

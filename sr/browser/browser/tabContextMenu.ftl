@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Затвори вишеструке језичке
     .accesskey = M
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -80,3 +84,21 @@ move-tabs =
 move-tab =
     .label = Помери језичак
     .accesskey = м
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Затвори језичак
+            [one] Затвори језичак
+            [few] Затвори језичка
+           *[other] Затвори језичака
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Помери језичак
+            [one] Помери језичак
+            [few] Помери језичка
+           *[other] Помери језичака
+        }
+    .accesskey = v
