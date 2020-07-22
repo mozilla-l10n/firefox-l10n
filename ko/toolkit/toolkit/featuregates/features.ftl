@@ -48,6 +48,7 @@ experimental-features-web-api-link-preload-description = <a data-l10n-name="link
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = 마우스나 기타 포인팅 장치를 사용하여 포커스를 맞추지 않고 키보드를 사용하여 포커스를 맞춘 경우에만 (예: 요소 간 탭 이동) 포커스 스타일을 버튼 및 양식 컨트롤과 같은 요소에 적용합니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1617600</a>을 참조하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -60,6 +61,12 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = 개발자 도구: 색 구성표 시뮬레이션
+experimental-features-devtools-execution-context-selector =
+    .label = 개발자 도구: 실행 컨텍스트 선택기
+experimental-features-devtools-compatibility-panel =
+    .label = 개발자 도구: 호환성 패널
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax가 기본값
@@ -78,3 +85,6 @@ experimental-features-abouthome-startup-cache-description = 시작시 기본적�
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = 같은 도메인이지만 다른 체계 (예: http://example.com과 https://example.com)의 쿠키를 same-site 대신 cross-site로 처리합니다. 보안을 향상시키지만 잠재적으로 깨짐이 발생할 수 있습니다.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = 개발자 도구: Service Worker 디버깅
