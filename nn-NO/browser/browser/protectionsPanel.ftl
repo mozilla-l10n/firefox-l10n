@@ -41,7 +41,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Alle sporarar på denne net
 protections-panel-no-trackers-found = Ingen sporarar kjende for { -brand-short-name } vart oppdaga på denne sida.
 protections-panel-content-blocking-tracking-protection = Sporingsinnhald
 protections-panel-content-blocking-socialblock = Sporing via sosiale medium
-protections-panel-content-blocking-cryptominers-label = Kryptominarar
+protections-panel-content-blocking-cryptominers-label = Kryptoutvinnarar
 protections-panel-content-blocking-fingerprinters-label = Nettlesaravtrykk
 
 ## In the protections panel, Content Blocking category items are in three sections:
@@ -76,7 +76,7 @@ protections-panel-site-not-working-view-send-report = Send inn ein rapport
 ##
 
 protections-panel-cross-site-tracking-cookies = Desse infokapslane følgjer deg frå side til side for å samle inn data om kva du gjer på nettet. Dei kjem frå tredjepartar som annonsørar og analyseselskap.
-protections-panel-cryptominers = Kryptominarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptomineringsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga.
+protections-panel-cryptominers = Kryptoutvinnarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptoutvinningsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga.
 protections-panel-fingerprinters = Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina for å opprette ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på ulike nettstadar.
 protections-panel-tracking-content = Nettstadar kan laste eksterne annonsar, videoar og annna innhald med sporingskode. Blokkering av sporingsinnhald kan gjere at nettstadar lastar raskare, men det kan hende at nokre knappar, skjema og innloggingsfelt ikkje fungerer.
 protections-panel-social-media-trackers = Sosiale nettverk plasserer sporarar på andre nettstadar for å følgje det du gjer og ser på nettet. Dette gjer at sosiale mediaselskap kan lære meir om deg utover det du deler på profilane dine på sosiale medium.
