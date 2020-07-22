@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Бірнеше бетті жабу
     .accesskey = ш
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -77,4 +81,18 @@ move-tabs =
     .accesskey = ы
 move-tab =
     .label = Бетті жылжыту
+    .accesskey = ы
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Бетті жабу
+           *[other] Беттерді жабу
+        }
+    .accesskey = ж
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Бетті жылжыту
+           *[other] Беттерді жылжыту
+        }
     .accesskey = ы
