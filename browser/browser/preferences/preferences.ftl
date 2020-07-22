@@ -803,10 +803,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Usar una contraseña maestra
     .accesskey = U
+forms-primary-pw-use =
+    .label = Usar una contraseña primaria
+    .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Cambiar la contraseña maestra…
     .accesskey = m
 forms-master-pw-fips-title = Actualmente estás en modo FIPS. FIPS requiere de una contraseña maestra que no esté en blanco.
+forms-primary-pw-change =
+    .label = Cambiar contraseña primaria…
+    .accesskey = P
+forms-primary-pw-fips-title = Actualmente estás en modo FIPS. FIPS requiere de una contraseña primaria que no esté en blanco.
 forms-master-pw-fips-desc = Falló el cambio de contraseña
 
 ## OS Authentication dialog
@@ -818,6 +828,13 @@ master-password-os-auth-dialog-message-win = Para crear una contraseña maestra,
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = crear una contraseña maestra
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Para crear una contraseña primaria, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crear una contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
