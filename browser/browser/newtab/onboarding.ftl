@@ -54,6 +54,7 @@ onboarding-multistage-welcome-secondary-button-text = Hesabınız var mı?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Parolalarınızı, yer imlerinizi ve <span data-l10n-name="zap">daha fazlasını</span> içe aktarın
+onboarding-multistage-import-subtitle = Başka bir tarayıcıdan mı geliyorsunuz? Her şeyi { -brand-short-name } tarayıcısına taşıyabilirsiniz.
 onboarding-multistage-import-primary-button-label = İçe aktarmayı başlat
 onboarding-multistage-import-secondary-button-label = Daha sonra
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
