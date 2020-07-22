@@ -12,6 +12,7 @@ pw-erased-ok = Vous avez supprimé votre mot de passe principal. { pw-empty-warn
 pw-not-wanted = Attention ! Vous avez décidé de ne pas utiliser de mot de passe principal. { pw-empty-warning }
 pw-change2empty-in-fips-mode = Vous êtes actuellement en mode FIPS. Ce mode nécessite un mot de passe principal non vide.
 failed-pp-change = Impossible de changer le mot de passe principal.
+incorrect-pp = Vous n’avez pas saisi correctement le mot de passe actuel. Veuillez réessayer.
 pp-change-ok = Le mot de passe principal a été changé.
 pp-erased-ok = Vous avez supprimé votre mot de passe principal. { pp-empty-warning }
 pp-not-wanted = Attention ! Vous avez décidé de ne pas utiliser de mot de passe principal. { pp-empty-warning }
