@@ -25,7 +25,7 @@ experimental-features-avif-description = 对 AVIF 的实验性支持：AV1 图�
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
-experimental-features-web-gpu-description2 = 这个新的 API 为利用用户设备或计算机的图形处理器（GPU）执行计算和图形渲染提供了底层支持。该<a data-l10n-name="spec">规范</a>仍在完善中。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1602129</a>。
+experimental-features-web-gpu-description2 = 这个新的 API 为利用用户设备或计算机的<a data-l10n-name="wikipedia">图形处理器（GPU）</a>执行计算和图形渲染提供了底层支持。该<a data-l10n-name="spec">规范</a>仍在完善中。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1602129</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
