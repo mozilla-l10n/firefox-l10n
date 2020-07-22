@@ -25,10 +25,12 @@ experimental-features-avif-description = Kísérleti AVIF-támogatás: AV1 képf
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Ez az új API alacsony szintű támogatást nyújt a felhasználó eszközének vagy számítógépének <a data-l10n-name="wikipedia">grafikus processzorát (GPU)</a> használó számításokhoz és grafikus megjelenítéshez. A <a data-l10n-name="spec">specifikáció</a> még mindig folyamatban van. További részletekért lásd az <a data-l10n-name="bugzilla">1602129-es számú jegyet</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = A funkció engedélyezésével a { -brand-short-name } támogatja az AV1 (AVIF) képfájl-formátumot. Ez egy olyan állókép-formátum, ami az AV1 videotömörítési algoritmusokat használja a képméret csökkentése érdekében. További részletekért lásd az <a data-l10n-name="bugzilla">1443863-as számú jegyet</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
