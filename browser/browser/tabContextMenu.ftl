@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Někotare rejtariki zacyniś
     .accesskey = N
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -80,4 +84,24 @@ move-tabs =
     .accesskey = s
 move-tab =
     .label = Rejtarik pśesunuś
+    .accesskey = s
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] $tabCount rejtarik zacyniś
+            [one] $tabCount rejtarik zacyniś
+            [two] $tabCount rejtarika zacyniś
+            [few] $tabCount rejtariki zacyniś
+           *[other] $tabCount rejtarikow zacyniś
+        }
+    .accesskey = r
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] $tabCount rejtarik pśesunuś
+            [one] $tabCount rejtarik pśesunuś
+            [two] $tabCount rejtarika pśesunuś
+            [few] $tabCount rejtariki pśesunuś
+           *[other] $tabCount rejtarikow pśesunuś
+        }
     .accesskey = s
