@@ -35,6 +35,8 @@ experimental-features-media-avif-description = Với tính năng này được b
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Việc triển khai thuộc tính toàn cục <a data-l10n-name="mdn-inputmode">inputmode</a> của chúng tôi đã được cập nhật theo <a data-l10n-name="whatwg">thông số của WHATWG</a>, nhưng chúng tôi vẫn cần phải thực hiện các thay đổi khác, như làm cho nó có sẵn trên nội dung có thể chỉnh sửa. Xem <a data-l10n-name="bugzilla">bug 1205133</a> để biết thêm chi tiết.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
@@ -63,6 +65,10 @@ experimental-features-css-constructable-stylesheets-description = Việc bổ su
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Toàn bộ triển khai { -brand-short-name } của Media Session API hiện đang thử nghiệm. API này được sử dụng để tùy chỉnh xử lý các thông báo liên quan đến phương tiện, để quản lý các sự kiện và dữ liệu hữu ích để hiển thị giao diện người dùng để quản lý phát lại phương tiện và để có được siêu dữ liệu tệp phương tiện. Xem <a data-l10n-name="bugzilla">bug 1112032</a> để biết thêm chi tiết.
+experimental-features-devtools-color-scheme-simulation-description = Thêm một tùy chọn để mô phỏng các lược đồ màu khác nhau cho phép bạn kiểm tra các truy vấn phương tiện <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Sử dụng truy vấn phương tiện này cho phép biểu định kiểu của bạn phản hồi xem người dùng thích giao diện người dùng sáng hay tối. Tính năng này cho phép bạn kiểm tra mã của mình mà không phải thay đổi cài đặt trong trình duyệt (hoặc hệ điều hành, nếu trình duyệt tuân theo cài đặt bảng màu toàn hệ thống). Xem <a data-l10n-name="bugzilla1">bug 1550804</a> và <a data-l10n-name="bugzilla2">bug 1137699</a> để biết thêm chi tiết.
+experimental-features-devtools-execution-context-selector-description = Tính năng này hiển thị một nút trên dòng lệnh Bảng điều khiển cho phép bạn thay đổi ngữ cảnh trong đó biểu thức bạn nhập sẽ được thực thi. Xem <a data-l10n-name="bugzilla1">bug 1605154</a> và <a data-l10n-name="bugzilla2">bug 1605153</a> để biết thêm chi tiết.
+experimental-features-devtools-compatibility-panel-description = Một bảng điều khiển bên lề cho Trình kiểm tra trang cho bạn thông tin chi tiết về trạng thái tương thích trình duyệt chéo của ứng dụng của bạn. Xem <a data-l10n-name="bugzilla">bug 1584464</a> để biết thêm chi tiết.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=Lax theo mặc định
