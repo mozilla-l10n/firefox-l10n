@@ -199,17 +199,17 @@ crashes-time-minutes =
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] { $minutes } godzina tymu
-        [few] { $minutes } godziny tymu
-       *[many] { $minutes } godzin tymu
+        [one] { $hours } godzina tymu
+        [few] { $hours } godziny tymu
+       *[many] { $hours } godzin tymu
     }
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
-        [one] { $minutes } dziyń tymu
-        [few] { $minutes } dni tymu
-       *[many] { $minutes } dni tymu
+        [one] { $days } dziyń tymu
+        [few] { $days } dni tymu
+       *[many] { $days } dni tymu
     }
 # Variables
 # $reports (integer) - Number of pending reports

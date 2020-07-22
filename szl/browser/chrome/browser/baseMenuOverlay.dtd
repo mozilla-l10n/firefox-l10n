@@ -44,10 +44,10 @@
 <!ENTITY servicesMenuMac.label          "Usugi">
 
 <!ENTITY hideThisAppCmdMac2.label       "Skryj &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "S">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skryj inksze">
-<!ENTITY hideOtherAppsCmdMac.commandkey "S">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Pokoż wszyskie">
 
