@@ -8,6 +8,7 @@ printui-page-range-custom = Aangepast
 printui-page-range-label = Pagina’s
 # Section title for the number of copies to print
 printui-copies-label = Kopieën
+printui-orientation = Oriëntatie
 printui-landscape = Liggend
 printui-portrait = Staand
 printui-more-settings = Meer instellingen
