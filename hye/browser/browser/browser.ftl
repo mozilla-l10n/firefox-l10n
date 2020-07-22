@@ -192,7 +192,7 @@ bookmark-panel-show-editor-checkbox =
     .label = Ցուցադրել խմբագրիչում, երբ պահպանուում է
     .accesskey = S
 bookmark-panel-done-button =
-    .label = Պատրաստ է
+    .label = Արուած
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.

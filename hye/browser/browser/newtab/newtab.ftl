@@ -88,7 +88,7 @@ newtab-menu-show-privacy-info = Մեր հովանաւորները եւ Ձեր գ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
-newtab-privacy-modal-button-done = Աւարտ
+newtab-privacy-modal-button-done = Արուած
 newtab-privacy-modal-header = Ձեր գաղտնիութիւնը կարեւոր է։
 newtab-privacy-modal-paragraph-2 = Հետաքրքրաշարժ հոդուածներ առաջարկելուց բացի, մենք նաեւ ցուցադրում ենք մեր հիմնական հովանաւորների կողմից ներկայացուող բարձրակարգ նիւթ։ Համոզուած եղէք, <strong> որ Ձեր դիտարկած տուեալները երբեք դուրս չեն գալիս { -brand-product-name } — -ի ձեր անձնական պատճէնից։ Դրանք չենք տեսնում ինչպէս մենք, այնպէս էլ մեր հովանաւորները:
 newtab-privacy-modal-link = Իմացեք թե ինչպէս է գաղտնիութիւնն աշխատում նոր ներդիրում
