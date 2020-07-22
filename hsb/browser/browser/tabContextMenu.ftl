@@ -88,20 +88,20 @@ move-tab =
 tab-context-close-tabs =
     .label =
         { $tabCount ->
-            [1] Rajtark začinić
-            [one] Rajtark začinić
-            [two] Rajtarkaj začinić
-            [few] Rajtarki začinić
-           *[other] Rajtarkow začinić
+            [1] $tabCount rajtark začinić
+            [one] $tabCount rajtark začinić
+            [two] $tabCount rajtarkaj začinić
+            [few] $tabCount rajtarki začinić
+           *[other] $tabCount rajtarkow začinić
         }
-    .accesskey = R
+    .accesskey = r
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] Rajtark přesunyć
-            [one] Rajtark přesunyć
-            [two] Rajtarkaj přesunyć
-            [few] Rajtarki přesunyć
-           *[other] Rajtarkow přesunyć
+            [1] $tabCount rajtark přesunyć
+            [one] $tabCount rajtark přesunyć
+            [two] $tabCount rajtarkaj přesunyć
+            [few] $tabCount rajtarki přesunyć
+           *[other] $tabCount rajtarkow přesunyć
         }
     .accesskey = s
