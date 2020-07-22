@@ -66,8 +66,10 @@ experimental-features-devtools-color-scheme-simulation =
 experimental-features-devtools-color-scheme-simulation-description = 添加 <a data-l10n-name="mdn-preferscolorscheme">@prefers color scheme</a> 媒体查询测试选项，模拟不同的配色方案。该特性可让您的样式表根据用户对界面的亮 ∕ 暗偏好作出响应。启用后，无需调整浏览器或操作系统（若浏览器遵循系统级颜色模式）的设置，便可测试代码。欲详细了解，请参阅 <a data-l10n-name="bugzilla1">Bug 1550804</a> 和 <a data-l10n-name="bugzilla2">Bug 1137699</a>。
 experimental-features-devtools-execution-context-selector =
     .label = 开发者工具：执行上下文选择器
+experimental-features-devtools-execution-context-selector-description = 此特性会在控制台的命令行显示按钮，让您可以切换执行所输入表达式的上下文。欲详细了解，请参阅  <a data-l10n-name="bugzilla1">Bug 1605154</a> 及 <a data-l10n-name="bugzilla2">Bug 1605153</a>。
 experimental-features-devtools-compatibility-panel =
     .label = 开发者工具：兼容性面板
+experimental-features-devtools-compatibility-panel-description = 在“页面查看器”中加入侧面版，显示应用程序的跨浏览器兼容性状态。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1584464</a>。
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=Lax［默认］
