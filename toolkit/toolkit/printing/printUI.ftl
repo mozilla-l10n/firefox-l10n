@@ -26,7 +26,7 @@ printui-destination-label = 대상
 printui-more-settings = 설정 자세히
 printui-less-settings = 설정 간단히
 # Section title (noun) for the print scaling options
-printui-scale = 크기
+printui-scale = 배율
 printui-scale-fit-to-page = 페이지에 맞추기
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 배율
