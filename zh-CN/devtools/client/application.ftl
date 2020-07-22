@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = 调试
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = 启动
     .title = 只能在禁用多进程模式的情况下启动 Service Worker
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = 开始
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = 更新于 <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
