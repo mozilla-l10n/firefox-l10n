@@ -65,8 +65,10 @@ experimental-features-devtools-color-scheme-simulation =
     .label = 개발자 도구: 색 구성표 시뮬레이션
 experimental-features-devtools-execution-context-selector =
     .label = 개발자 도구: 실행 컨텍스트 선택기
+experimental-features-devtools-execution-context-selector-description = 이 기능은 콘솔의 명령줄에 입력한 표현식이 실행될 컨텍스트를 변경할 수 있는 버튼을 표시합니다. 자세한 내용은 <a data-l10n-name="bugzilla1">bug 1605154</a> 및 <a data-l10n-name="bugzilla2">bug 1605153</a>을 참조하세요.
 experimental-features-devtools-compatibility-panel =
     .label = 개발자 도구: 호환성 패널
+experimental-features-devtools-compatibility-panel-description = 앱의 브라우저 간 호환성 상태를 자세히 설명하는 정보를 표시하는 페이지 검사기의 측면 패널입니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1584464</a>를 참조하세요.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax가 기본값
