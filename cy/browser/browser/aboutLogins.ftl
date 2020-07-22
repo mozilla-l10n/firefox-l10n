@@ -138,6 +138,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = allforio mewngofnod
 ## Master Password notification
 
 master-password-notification-message = Rhowch eich prif gyfrinair i weld mewngofnodi a chyfrineiriau wedi'u cadw
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Rhowch eich Prif Gyfrinair i weld mewngofnodi a chyfrineiriau wedi'u cadw
 master-password-reload-button =
     .label = Mewngofnodi
     .accesskey = M
