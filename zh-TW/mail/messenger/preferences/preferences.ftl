@@ -41,7 +41,6 @@ composition-addressing-header = 地址
 privacy-main-header = 隱私權
 privacy-passwords-header = 密碼
 privacy-junk-header = 垃圾郵件
-privacy-data-collection-header = 資料收集與使用
 collection-header = { -brand-short-name } 資料收集與使用
 collection-description = 我們致力於提供您選擇，也只會收集我們在提供與改善 { -brand-short-name } 時所必需的資料。我們也一定會經過您的同意才收集您的個人資訊。
 collection-privacy-notice = 隱私權公告
@@ -96,14 +95,19 @@ addons-button = 擴充套件與佈景主題
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = 確認您的身分以建立主控密碼。
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能建立主控密碼。這個動作是為了保護您的登入資訊安全。
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = 建立主控密碼
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能建立主控密碼。這個動作是為了保護您的登入資訊安全。
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = 建立主控密碼
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = 變更主控密碼…
     .accesskey = c
+primary-password-description = 主控密碼可以保護您的密碼，但在每次使用瀏覽器時都必須輸入一次。
+primary-password-label =
+    .label = 使用主控密碼
+    .accesskey = U
+primary-password-button =
+    .label = 變更主控密碼…
+    .accesskey = C
+forms-primary-pw-fips-title = 您目前使用 FIPS 模式。FIPS 模式需要有主控密碼。
+forms-master-pw-fips-desc = 密碼變更失敗
 junk-description = 設定您的預設垃圾郵件處理方式。可以到「帳號設定」調整各個帳號自己的處理方式。
 junk-label =
     .label = 當標示郵件為垃圾信時:
@@ -701,3 +714,6 @@ search-results-empty-message =
        *[other] 抱歉！沒有「<span data-l10n-name="query"></span>」的偏好設定搜尋結果。
     }
 search-results-help-link = 需要幫忙嗎？請到 <a data-l10n-name="url">{ -brand-short-name } 技術支援</a>
+
+## Preferences UI Search Results
+
