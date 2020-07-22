@@ -57,7 +57,6 @@ protections-panel-not-found-label = Bulunmadı
 ##
 
 protections-panel-settings-label = Koruma ayarları
-protections-panel-showreport-label = Raporu göster
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Korumalar panosu
 
@@ -77,7 +76,7 @@ protections-panel-site-not-working-view-send-report = Rapor gönderin
 ##
 
 protections-panel-cross-site-tracking-cookies = Bu çerezler, internette yaptığınız şeyler hakkında veri toplamak için sizi siteden siteye takip eder. Reklam verenler ve analiz şirketleri gibi üçüncü taraflar tarafından yerleştirilirler.
-protections-panel-cryptominers = Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik komut dosyaları pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir.
+protections-panel-cryptominers = Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik betikleri pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir.
 protections-panel-fingerprinters = Parmak izi toplayıcılar profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler.
 protections-panel-tracking-content = Web siteleri; takip kodu içeren harici reklamlar, videolar ve başka içerikler yükleyebilir. Takip amaçlı içerikleri engellemek sitelerin daha hızlı yüklenmesini sağlayabilir ama bazı düğmeler, formlar ve giriş alanları çalışmayabilir.
 protections-panel-social-media-trackers = Sosyal ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir.
