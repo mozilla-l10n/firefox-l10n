@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ఒక సరికాని ధృవీకరణపత్రాన్ని ఉపయోగిస్తోంది.
+cert-error-trust-unknown-issuer-intro = ఎవరో ఈ సైటును అనుకరించడానికి ప్రయత్నిస్తూండవచ్చు, మీరు ముందుకి వెళ్ళకూడదు.
 cert-error-trust-cert-invalid = ఆ ధృవీకరణపత్రం నమ్మలేము ఎంచేతంటే అది చెల్లని CA ధృవీకరణపత్రం ద్వారా ఇవ్వబడింది.
 cert-error-trust-untrusted-issuer = ఆ ధృవీకరణపత్రం నమ్మలేము ఎంచేతంటే ఇచ్చినవాని ధృవీకరణపత్రాన్ని నమ్మలేము.
 cert-error-trust-signature-algorithm-disabled = సురక్షితం కాని అచేతనం చేయబడిన అల్గార్దెమ్ ఉపయోగించి సంతకం చేయుట వలన ఆ ధృవీకరణపత్రం నమ్మదగినది కాదు.
