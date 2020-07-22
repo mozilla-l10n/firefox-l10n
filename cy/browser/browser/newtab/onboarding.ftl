@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Cychwyn Arni
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Croeso i { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Croeso i <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Mae'r porwr gyda chi. <br/> Dyma weddill { -brand-product-name }.
 onboarding-welcome-learn-more = Dysgu rhagor am y buddiannau.
 onboarding-join-form-header = Ymunwch â { -brand-product-name }
@@ -44,6 +41,31 @@ onboarding-start-browsing-button-label = Cychwyn Pori
 onboarding-cards-dismiss =
     .title = Cau
     .aria-label = Cau
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Croeso i <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Y porwr cyflym, diogel a phreifat sydd â chefnogaeth corff dim-er-elw.
+onboarding-multistage-welcome-primary-button-label = Cychwyn Gosod
+onboarding-multistage-welcome-secondary-button-label = Mewngofnodi
+onboarding-multistage-welcome-secondary-button-text = Oes gennych chi gyfrif?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Mewnforiwch eich cyfrineiriau, nodau tudalen, a <span data-l10n-name="zap">mwy</span>
+onboarding-multistage-import-subtitle = Yn dod o borwr arall? Mae'n hawdd dod â phopeth gyda chi  i { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Cychwyn Mewnforio
+onboarding-multistage-import-secondary-button-label = Nid nawr
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Dewiswch <span data-l10n-name = "zap">olwg</span>
+onboarding-multistage-theme-subtitle = Personoli { -brand-short-name } gyda thema.
+onboarding-multistage-theme-primary-button-label = Cadw Thema
+onboarding-multistage-theme-secondary-button-label = Nid nawr
+onboarding-multistage-theme-label-light = Golau
+onboarding-multistage-theme-label-dark = Tywyll
+onboarding-multistage-theme-label-colorful = Lliwgar
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
@@ -54,6 +76,12 @@ onboarding-import-sites-info =
         data o borwr arall oni bai eich bod yn dewis
         ei fewnforio.
     .aria-label = { onboarding-import-sites-info.title }
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Cychwyn arni: sgrin { $current } o { $total }
 
 ## Welcome full page string
 

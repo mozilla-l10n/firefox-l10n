@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Cau Tabiau Lluosog
     .accesskey = L
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -83,3 +87,27 @@ move-tabs =
 move-tab =
     .label = Symud Tab
     .accesskey = y
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Cau Tab
+            [zero] Cau Tab
+            [one] Cau Tab
+            [two] Cau Tab
+            [few] Cau Tab
+            [many] Cau Tab
+           *[other] Cau Tab
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Symud Tab
+            [zero] Symud Tab
+            [one] Symud Tab
+            [two] Symud Tab
+            [few] Symud Tab
+            [many] Symud Tab
+           *[other] Symud Tab
+        }
+    .accesskey = S

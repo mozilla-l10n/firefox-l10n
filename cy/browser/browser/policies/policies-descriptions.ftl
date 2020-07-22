@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Rhwystro { -brand-short-name } rhag rhedeg astudi
 policy-DisableForgetButton = Rhwystro mynediad i'r botwm Anghofio.
 policy-DisableFormHistory = Peidio cofio chwilio a hanes ffurflenni.
 policy-DisableMasterPasswordCreation = Os gwir, nid oes modd creu prif gyfrinair.
+policy-DisablePrimaryPasswordCreation = Os yn wir, nid oes modd creu Prif Cyfrinair.
 policy-DisablePasswordReveal = Peidiwch â gadael i gyfrineiriau gael eu datgelu mewn mewngofnodi sydd wedi'u cadw.
 policy-DisablePocket = Analluogi'r nodwedd i gadw tudalennau gwe i Pocket.
 policy-DisablePrivateBrowsing = Analluogi Pori Preifat.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Dychwelyd at ymddygiad
 
 policy-LocalFileLinks = Caniatáu i wefannau penodol gysylltu i ffeiliau lleol.
 policy-MasterPassword = Ei gwneud yn ofynnol neu atal defnyddio prif gyfrinair.
+policy-PrimaryPassword = Ei gwneud yn ofynnol neu atal defnyddio Prif Gyfrinair.
 policy-NetworkPrediction = Galluogi neu analluoga rhagfynegiad rhwydwaith (rhagosod ymlaen DNS).
 policy-NewTabPage = Galluogi neu analluogi tudalen Tab Newydd.
 policy-NoDefaultBookmarks = Analluogi creu nodau tudalen rhagosodedig wedi eu pecynnu gyda { -brand-short-name }, a'r Nodau Tudalen Clyfar (Ymwelwyd Amlaf, Tagiau Diweddar). Sylw: mae'r polisi hwn ddim ond yn effeithiol os yw'n cael ei ddefnyddio cyn rhedeg y proffil y tro cyntaf.
