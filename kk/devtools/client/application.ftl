@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Жөндеу
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Бастау
     .title = Қызметтік үрдістерді тек мульти e10s сөндірілген кезде іске қоса алады
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Бастау
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Жаңартылған <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -69,6 +72,8 @@ serviceworker-empty-suggestions-debugger = Service Worker тіркеуінен �
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Басқа домендерден Service Worker-ді бақылау. <a>about:debugging ашу</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Service workers табылмады
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Көбірек білу
 # Header for the Manifest page when we have an actual manifest
