@@ -36,7 +36,7 @@ experimental-features-media-avif-description = 启用后，{ -brand-short-name }
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
-experimental-features-web-api-inputmode-description = 我们已按照 <a data-l10n-name="whatwg">WHATWG</a> 规范，对 <a data-l10n-name="mdn-inputmode">inputmode</a> 全局属性的实现进行了更新。注意，我们仍需进行其他更改，如使其在可编辑内容上可用。欲详细了解，请参阅 <a data-l10n-name="bugzilla">bug 1205133</a>。
+experimental-features-web-api-inputmode-description = 我们已按照 <a data-l10n-name="whatwg">WHATWG</a> 规范，更新了 <a data-l10n-name="mdn-inputmode">inputmode</a> 全局属性的实现。注意，我们仍需进行其他更改，如使其在可编辑内容上可用。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1205133</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
@@ -57,6 +57,7 @@ experimental-features-web-api-beforeinput =
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS：可构造样式表
+experimental-features-css-constructable-stylesheets-description = 在 <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> 接口加入构造函数，以及其他多项相关修改，让您可直接创建新的样式表，而不必将其添加到 HTML 中。此特性可让您更容易地创建用于 <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> 的可重用样式表。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1520690</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
