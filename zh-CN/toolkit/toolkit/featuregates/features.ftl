@@ -9,7 +9,7 @@ experimental-features-css-masonry =
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
-    .label = CSS：瀑布流布局（Masonry Layout）
+    .label = CSS: 瀑布流（Masonry）布局
 experimental-features-css-masonry-description = 启用对 CSS 瀑布流布局的实验性支持。欲详细了解该功能，请参阅<a data-l10n-name="explainer">说明文档</a>。若要提供反馈，请在 <a data-l10n-name="w3c-issue">GitHub Issue</a> 或此 <a data-l10n-name="bug">Bug</a> 中留言。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -50,10 +50,12 @@ experimental-features-css-focus-visible-description = 仅在使用键盘聚焦�
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
-    .label = CSS：可构造样式表（Constructable Stylesheets）
+    .label = CSS：可构造样式表
 experimental-features-devtools-color-scheme-simulation =
     .label = 开发者工具：配色方案模拟
 experimental-features-devtools-color-scheme-simulation-description = 添加 <a data-l10n-name="mdn-preferscolorscheme">@prefers color scheme</a> 媒体查询测试选项，模拟不同的配色方案。该特性可让您的样式表根据用户对界面的亮 ∕ 暗偏好作出响应。启用后，无需调整浏览器或操作系统（若浏览器遵循系统级颜色模式）的设置，便可测试代码。欲详细了解，请参阅 <a data-l10n-name="bugzilla1">Bug 1550804</a> 和 <a data-l10n-name="bugzilla2">Bug 1137699</a>。
+experimental-features-devtools-execution-context-selector =
+    .label = 开发者工具：执行上下文选择器
 experimental-features-devtools-compatibility-panel =
     .label = 开发者工具：兼容性面板
 # Do not translate 'SameSite', 'Lax' and 'None'.
