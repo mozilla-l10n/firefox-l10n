@@ -79,6 +79,8 @@ manifest-view-header = Manifest nałoženja
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Dyrbiće manifest webnałoženja přidać, zo byšće jón tu přepruwował. <a>Dalše informacije</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Žadyn manifest webnałoženja namakany
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Zhońće, kak móžeće manifest přidać
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
