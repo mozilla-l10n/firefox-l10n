@@ -47,7 +47,7 @@ experimental-features-web-api-link-preload-description = <a data-l10n-name="link
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
-    .label = CSS - 伪类：:focus-visible
+    .label = CSS：:focus-visible 伪类
 experimental-features-css-focus-visible-description = 仅在使用键盘聚焦于按钮和表单控件等元素（例如：使用 Tab 键切换）时，允许聚焦样式生效。鼠标或其他指针设备则禁止。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1617600</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
