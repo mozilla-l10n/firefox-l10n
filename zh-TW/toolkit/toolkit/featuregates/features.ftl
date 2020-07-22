@@ -48,10 +48,14 @@ experimental-features-web-api-link-preload-description = 在 <a data-l10n-name="
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = 允許聚焦樣式僅在使用鍵盤（例如: 使用 tab 鍵切換）而非滑鼠或其他指向裝置聚焦到按鈕、表單控制元件等元素時，套用聚焦效果。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1617600</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = 當 <a data-l10n-name="mdn-input">&lt;input&gt;</a>、<a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> 元素，以及任何 <a data-l10n-name="mdn-contenteditable">contenteditable</a> 屬性啟用的元素的值變更前，會觸發全域的 <a data-l10n-name="mdn-beforeinput">beforeinput</a> 事件。此事件可讓網頁應用程式蓋過瀏覽器的預設介面互動行為（例如: 應用程式可防止使用者輸入某些特殊字元，或修改貼上的含樣式字串，只允許部分樣式）。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -60,12 +64,16 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = { -brand-short-name } 對 Media Session API 的整套實作目前都還在實驗中。此 API 是用來自訂對媒體相關通知的處理方式、管理媒體播放介面展現的事件與資料、以及取得媒體檔案的後設資料。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1112032</a>。
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
+experimental-features-devtools-color-scheme-simulation-description = 加入用來模擬不同配色的選項，讓您可以測試 <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> 媒體查詢。使用此媒體查詢功能，可讓您的樣式表回覆使用者偏好使用亮色或暗色介面。此功能讓您可以不需要更改瀏覽器或作業系統設定（若瀏覽器使用系統相關設定的話）就能直接進行測試。若需更多資訊，請參考 <a data-l10n-name="bugzilla1">bug 1550804</a> 及 <a data-l10n-name="bugzilla2">bug 1137699</a>。
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Execution Context Selector
+experimental-features-devtools-execution-context-selector-description = 此功能會在主控台的命令列顯示按鈕，讓您可以切換表達式要執行的環境。若需更多資訊，請參考 <a data-l10n-name="bugzilla1">bug 1605154</a> 及 <a data-l10n-name="bugzilla2">bug 1605153</a>。
 experimental-features-devtools-compatibility-panel =
     .label = Developer Tools: Compatibility Panel
+experimental-features-devtools-compatibility-panel-description = 在「頁面檢測器」中加入側面版，顯示應用程式的跨瀏覽器相容性狀態。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1584464</a>。
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax by default
@@ -87,3 +95,5 @@ experimental-features-cookie-samesite-schemeful-description = 將來自相同網
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = 在「除錯器」面板當中開啟對 Service Worker 的實驗性支援。此功能可能會拖慢開發者工具運作，並增加記憶體消耗量。
