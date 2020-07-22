@@ -47,6 +47,7 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Witajśo k <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-primary-button-label = Konfigurěrowanje zachopiś
 onboarding-multistage-welcome-secondary-button-label = Pśizjawiś
 onboarding-multistage-welcome-secondary-button-text = Maśo konto?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
