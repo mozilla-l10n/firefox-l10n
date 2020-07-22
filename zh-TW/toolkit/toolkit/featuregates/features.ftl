@@ -25,18 +25,25 @@ experimental-features-avif-description = 對 AVIF（AV1 圖片檔案格式）的
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = 這組新的 API 針對使用裝置或電腦上的<a data-l10n-name="wikipedia">圖形處理單元</a>進行計算與繪圖提供了底層支援。<a data-l10n-name="spec">標準規格</a>仍在規劃中。若需更多資訊，請參考<a data-l10n-name="bugzilla">bug 1602129</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = 開啟此功能後，{ -brand-short-name } 就會支援 AV1 圖片檔案格式（AVIF）。這是應用了 AV1 影片壓縮演算法以縮小檔案大小的靜態圖片檔案格式。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1443863</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = 我們根據 <a data-l10n-name="whatwg">WHATWG 標準規格</a>，更新了 <a data-l10n-name="mdn-inputmode">inputmode</a> 全域屬性的實作，但還需要有其他修改，才能讓它可以用於 contenteditable 內容。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1205133</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = 在 <a data-l10n-name="link">&lt;link&gt;</a> 元素中，<a data-l10n-name="rel">rel</a> 的屬性值 <code>"preload"</code> 是透過在頁面載入前先下載部分資源，確保能夠更早取用並且更不容易阻擋頁面呈現，以幫助改善效能。若需更多資訊，請參考<a data-l10n-name="readmore">《Preloading content with <code>rel="preload"</code>》</a>或 <a data-l10n-name="bugzilla">bug 1583604</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
@@ -45,6 +52,10 @@ experimental-features-css-focus-visible =
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
