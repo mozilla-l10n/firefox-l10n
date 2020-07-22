@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Пачаць
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Вітаем у { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Вітаем у <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = У вас ёсць браўзер. <br/>Пазнаёмцеся з астатнімі { -brand-product-name }.
 onboarding-welcome-learn-more = Даведацца больш аб перавагах.
 onboarding-join-form-header = Далучыцца да { -brand-product-name }
@@ -44,6 +41,13 @@ onboarding-start-browsing-button-label = Пачаць агляданне
 onboarding-cards-dismiss =
     .title = Адхіліць
     .aria-label = Адхіліць
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Вітаем у <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-text = Маеце ўліковы запіс?
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.

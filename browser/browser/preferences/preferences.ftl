@@ -807,10 +807,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Ужываць галоўны пароль
     .accesskey = У
+forms-primary-pw-use =
+    .label = Ужываць галоўны пароль
+    .accesskey = г
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Змяніць галоўны пароль…
     .accesskey = З
 forms-master-pw-fips-title = Зараз вы ў рэжыме FIPS. Для FIPS патрабуецца не пусты галоўны пароль.
+forms-primary-pw-change =
+    .label = Змяніць галоўны пароль…
+    .accesskey = З
+forms-primary-pw-fips-title = Зараз вы ў рэжыме FIPS. Для FIPS патрабуецца не пусты галоўны пароль.
 forms-master-pw-fips-desc = Няўдача змянення пароля
 
 ## OS Authentication dialog
@@ -822,6 +832,13 @@ master-password-os-auth-dialog-message-win = Каб стварыць галоў�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = стварыць галоўны пароль
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Каб стварыць галоўны пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = стварыць галоўны пароль
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
