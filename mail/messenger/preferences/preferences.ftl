@@ -101,6 +101,13 @@ master-password-os-auth-dialog-message-win = Басты парольді жас�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = басты парольді жасау
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Басты парольді жасау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = басты парольді жасау
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -538,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Мастер-парольді өзгерту…
     .accesskey = т
+primary-password-description = Басты пароль сіздің барлық парльдеріңізді қорғайды, бірақ, сізге оны сессияда бір рет енгізу керек.
+primary-password-label =
+    .label = Басты парольді қолдану
+    .accesskey = ы
+primary-password-button =
+    .label = Басты парольді өзгерту…
+    .accesskey = з
+forms-primary-pw-fips-title = Сіз FIPS-ке сәйкестеу режимінде жұмыс істеп отырсыз. Бұл режим бос емес басты парольді талап етеді.
+forms-master-pw-fips-desc = Парольді өзгерту сәтсіз аяқталды
 junk-description = Бастапқы спам баптауларын орнатыңыз. Тіркелгілердің спам баптаулары Тіркелгі баптауларында өзгертуге болады.
 junk-label =
     .label = Мен хабарламаларды қоқыс ретінде белгілеген кезде:
