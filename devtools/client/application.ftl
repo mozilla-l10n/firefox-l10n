@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Debuguj
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Uruchom
     .title = Wątki usługowe można uruchamiać tylko, jeśli „multi e10s” jest wyłączone
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Uruchom
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Uaktualniono <time>{ DATETIME($date, month: "numeric", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>

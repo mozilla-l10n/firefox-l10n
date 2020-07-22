@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = Układ CSS typu „Masonry”
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: układ typu „Masonry”
 experimental-features-css-masonry-description = Włącza obsługę eksperymentalnego układu CSS typu „Masonry”. Ta <a data-l10n-name="explainer">strona</a> zawiera jego ogólny opis. W <a data-l10n-name="w3c-issue">tym zgłoszeniu w serwisie GitHub</a> lub <a data-l10n-name="bug">tym błędzie</a> można dodać komentarz na jego temat.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -36,7 +40,7 @@ experimental-features-cookie-samesite-schemeful =
     .label = Ciasteczka: SameSite typu „Schemeful”
 experimental-features-cookie-samesite-schemeful-description = Traktuje ciasteczka z tej samej domeny, ale o różnych protokołach (np. http://example.com i https://example.com) jako ciasteczka między witrynami, zamiast z tej samej witryny. Zwiększa bezpieczeństwo, ale potencjalnie zakłóca działanie witryn.
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support =
+experimental-features-devtools-serviceworker-debugger-support =
     .label = Narzędzia dla programistów: debugowanie wątków usługowych
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support-description = Włącza eksperymentalną obsługę wątków usługowych w panelu debugera. Ta funkcja może spowolnić narzędzia dla programistów i zwiększyć zużycie pamięci.
+experimental-features-devtools-serviceworker-debugger-support-description = Włącza eksperymentalną obsługę wątków usługowych w panelu debugera. Ta funkcja może spowolnić narzędzia dla programistów i zwiększyć zużycie pamięci.
