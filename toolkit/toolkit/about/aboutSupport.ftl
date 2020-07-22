@@ -250,10 +250,10 @@ webgl2-extensions = WebGL 2 확장 기능
 blocklisted-bug = 알려진 문제로 인해 차단됨
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
-bug-link = 버그 { $bugNumber }
+bug-link = bug { $bugNumber }
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
-support-blocklisted-bug = 알려진 문제로 인해 차단됨: <a data-l10n-name="bug-link">버그 { $bugNumber }</a>
+support-blocklisted-bug = 알려진 문제로 인해 차단됨: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = 차단됨; 실패 코드 { $failureCode }
