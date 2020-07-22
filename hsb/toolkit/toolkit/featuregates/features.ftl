@@ -53,6 +53,12 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Wuwiwarske nastroje: Simulacija barboweje šemy
+experimental-features-devtools-execution-context-selector =
+    .label = Wuwiwarske nastroje: Selektor wuwjedźenskeho konteksta
+experimental-features-devtools-compatibility-panel =
+    .label = Wuwiwarske nastroje: Wokno kompatibelnosće
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Placki: SameSite=Lax po standardźe
@@ -70,3 +76,6 @@ experimental-features-abouthome-startup-cache-description = Pufrowak za spočatn
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Placki: Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Wuwiwarske nastroje: Pytanje zmylkow ze service worker
