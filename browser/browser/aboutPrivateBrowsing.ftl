@@ -34,7 +34,7 @@ about-private-browsing-search-banner-title = { $engineName } је ваш под�
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] За избор неког другог претраживача идите на <a data-l10n-name="link-options">опције</a>
-       *[other] За изобр неког другог претраживача идите на <a data-l10n-name="link-options">подешавања</a>
+       *[other] За избор неког другог претраживача идите на <a data-l10n-name="link-options">подешавања</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Затвори

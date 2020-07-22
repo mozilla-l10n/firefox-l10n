@@ -135,6 +135,9 @@ about-logins-export-password-os-auth-dialog-message-macosx = извезите с
 ## Master Password notification
 
 master-password-notification-message = Унесите своју главну лозинку да бисте видели сачуване пријаве и лозинке
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Пријава
     .accesskey = L
