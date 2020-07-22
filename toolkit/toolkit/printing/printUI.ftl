@@ -15,7 +15,9 @@ printui-more-settings = Meer instellingen
 printui-less-settings = Minder instellingen
 # Section title (noun) for the print scaling options
 printui-scale = Schaal
+printui-scale-fit-to-page = Verkleinen tot papierformaat
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Schaal
+printui-system-dialog-link = Afdrukken via het systeemdialoogvenster…
 printui-primary-button = Afdrukken
 printui-cancel-button = Annuleren
