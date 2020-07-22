@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Engedélyezi a kísérleti CSS Masonry Layout funkció támogatását. A funkció magas szintű leírásához lásd a <a data-l10n-name="explainer">magyarázót</a>. Visszajelzés küldéséhez szóljon hozzá <a data-l10n-name="w3c-issue">ehhez a GitHub jegyhez</a> vagy <a data-l10n-name="bug">ehhez a hibajegyhez</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,44 @@ experimental-features-web-gpu-description = Kísérleti API grafikához és szá
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Kísérleti AVIF-támogatás: AV1 képfájlformátum
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Fejlesztői eszközök: Színséma szimuláció
+experimental-features-devtools-execution-context-selector =
+    .label = Fejlesztői eszközök: Végrehajtásikörnyezet-választó
+experimental-features-devtools-compatibility-panel =
+    .label = Fejlesztői eszközök: Kompatibilitási panel
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=lax by default
@@ -36,7 +78,7 @@ experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Az azonos domainból származó, de más sémájú (például http://example.com és https://example.com) webhelyek közöttiként kezelése azonos webhelyről származó helyett. Ez növeli a biztonságot, de hibákhoz is vezethet.
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support =
+experimental-features-devtools-serviceworker-debugger-support =
     .label = Fejlesztői eszközök: Hibakeresés a Service Workerekben
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support-description = Engedélyezi a Service Workerek kísérleti támogatását a fejlesztői eszközök Hibakeresés panelján. A funkció lelassíthatja a fejlesztői eszközöket, és növelheti a memóriafogyasztást.
+experimental-features-devtools-serviceworker-debugger-support-description = Engedélyezi a Service Workerek kísérleti támogatását a fejlesztői eszközök Hibakeresés panelján. A funkció lelassíthatja a fejlesztői eszközöket, és növelheti a memóriafogyasztást.
