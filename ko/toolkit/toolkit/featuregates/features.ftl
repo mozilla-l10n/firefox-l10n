@@ -41,6 +41,9 @@ experimental-features-web-api-inputmode-description = <a data-l10n-name="mdn-inp
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = <a data-l10n-name="link">&lt;link&gt;</a> 요소에서 <code>"preload"</code> 값을 가진 <a data-l10n-name="rel">rel</a> 속성은 페이지 수명 주기 초기에 리소스를 다운로드하여 리소스를 더 일찍 사용할 수 있게 하고 페이지 렌더링을 차단할 가능성을 줄임으로써 성능을 향상하는데 도움이 됩니다. 자세한 내용은 <a data-l10n-name="readmore">“<code>rel="preload"</code>를 사용하여 콘텐츠 사전로드”</a> 또는 <a data-l10n-name="bugzilla">bug 1583604</a>를 참조하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
