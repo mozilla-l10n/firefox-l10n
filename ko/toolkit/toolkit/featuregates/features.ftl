@@ -25,30 +25,30 @@ experimental-features-avif-description = AVIF (AV1 Image File Format)에 대한 
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
-experimental-features-web-gpu-description2 = 이 새로운 API는 사용자의 장치 또는 컴퓨터의 <a data-l10n-name="wikipedia">GPU (그래픽 처리 장치)</a>를 사용하여 계산 및 그래픽 렌더링을 수행하기 위한 낮은 수준의 지원을 제공합니다. <a data-l10n-name="spec">사양</a>은 여전히 진행 중입니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1602129</a>를 참조하세요.
+experimental-features-web-gpu-description2 = 이 새로운 API는 사용자의 장치 또는 컴퓨터의 <a data-l10n-name="wikipedia">GPU (그래픽 처리 장치)</a>를 사용하여 계산 및 그래픽 렌더링을 수행하기 위한 낮은 수준의 지원을 제공합니다. <a data-l10n-name="spec">사양</a>은 여전히 진행 중입니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1602129</a>를 참고하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
-experimental-features-media-avif-description = 이 기능을 사용하면 { -brand-short-name }는 AVIF (AV1 이미지 파일) 형식을 지원합니다. 이것은 이미지 크기를 줄이기 위해 AV1 비디오 압축 알고리즘의 기능을 활용하는 정지 이미지 파일 형식입니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1443863</a>을 참조하세요.
+experimental-features-media-avif-description = 이 기능을 사용하면 { -brand-short-name }는 AVIF (AV1 이미지 파일) 형식을 지원합니다. 이것은 이미지 크기를 줄이기 위해 AV1 비디오 압축 알고리즘의 기능을 활용하는 정지 이미지 파일 형식입니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1443863</a>을 참고하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
-experimental-features-web-api-inputmode-description = <a data-l10n-name="mdn-inputmode">inputmode</a> 전역 속성 구현은 <a data-l10n-name="whatwg">WHATWG 사양</a>에 따라 업데이트되었습니다. 그러나 contenteditable 콘텐츠에서 사용할 수 있도록 하는 것과 같은 다른 변경도 여전히 필요합니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1205133</a>을 참조하세요.
+experimental-features-web-api-inputmode-description = <a data-l10n-name="mdn-inputmode">inputmode</a> 전역 속성 구현은 <a data-l10n-name="whatwg">WHATWG 사양</a>에 따라 업데이트되었습니다. 그러나 contenteditable 콘텐츠에서 사용할 수 있도록 하는 것과 같은 다른 변경도 여전히 필요합니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1205133</a>을 참고하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
-experimental-features-web-api-link-preload-description = <a data-l10n-name="link">&lt;link&gt;</a> 요소에서 <code>"preload"</code> 값을 가진 <a data-l10n-name="rel">rel</a> 속성은 페이지 수명 주기 초기에 리소스를 다운로드하여 리소스를 더 일찍 사용할 수 있게 하고 페이지 렌더링을 차단할 가능성을 줄임으로써 성능을 향상하는데 도움이 됩니다. 자세한 내용은 <a data-l10n-name="readmore">“<code>rel="preload"</code>를 사용하여 콘텐츠 사전로드”</a> 또는 <a data-l10n-name="bugzilla">bug 1583604</a>를 참조하세요.
+experimental-features-web-api-link-preload-description = <a data-l10n-name="link">&lt;link&gt;</a> 요소에서 <code>"preload"</code> 값을 가진 <a data-l10n-name="rel">rel</a> 속성은 페이지 수명 주기 초기에 리소스를 다운로드하여 리소스를 더 일찍 사용할 수 있게 하고 페이지 렌더링을 차단할 가능성을 줄임으로써 성능을 향상하는데 도움이 됩니다. 자세한 내용은 <a data-l10n-name="readmore">“<code>rel="preload"</code>를 사용하여 콘텐츠 사전로드”</a> 또는 <a data-l10n-name="bugzilla">bug 1583604</a>를 참고하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = 마우스나 기타 포인팅 장치를 사용하여 포커스를 맞추지 않고 키보드를 사용하여 포커스를 맞춘 경우에만 (예: 요소 간 탭 이동) 포커스 스타일을 버튼 및 양식 컨트롤과 같은 요소에 적용합니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1617600</a>을 참조하세요.
+experimental-features-css-focus-visible-description = 마우스나 기타 포인팅 장치를 사용하여 포커스를 맞추지 않고 키보드를 사용하여 포커스를 맞춘 경우에만 (예: 요소 간 탭 이동) 포커스 스타일을 버튼 및 양식 컨트롤과 같은 요소에 적용합니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1617600</a>을 참고하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -63,12 +63,13 @@ experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
     .label = 개발자 도구: 색 구성표 시뮬레이션
+experimental-features-devtools-color-scheme-simulation-description = <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> 미디어 쿼리를 테스트 할 수 있는 다양한 색 구성표를 시뮬레이션하는 옵션을 추가합니다. 이 미디어 쿼리를 사용하면 스타일시트가 사용자가 밝은 사용자 인터페이스를 선호하는지 어두운 사용자 인터페이스를 선호하는지에 응답할 수 있습니다. 이 기능을 사용하면 브라우저(또는 브라우저가 시스템 전체 색 구성표 설정을 따르는 경우는 운영 체제)의 설정을 변경하지 않고도 코드를 테스트 할 수 있습니다. 자세한 내용은 <a data-l10n-name="bugzilla1">bug 1550804</a> 및 <a data-l10n-name="bugzilla2">bug 1137699</a>를 참고하세요.
 experimental-features-devtools-execution-context-selector =
     .label = 개발자 도구: 실행 컨텍스트 선택기
-experimental-features-devtools-execution-context-selector-description = 이 기능은 콘솔의 명령줄에 입력한 표현식이 실행될 컨텍스트를 변경할 수 있는 버튼을 표시합니다. 자세한 내용은 <a data-l10n-name="bugzilla1">bug 1605154</a> 및 <a data-l10n-name="bugzilla2">bug 1605153</a>을 참조하세요.
+experimental-features-devtools-execution-context-selector-description = 이 기능은 콘솔의 명령줄에 입력한 표현식이 실행될 컨텍스트를 변경할 수 있는 버튼을 표시합니다. 자세한 내용은 <a data-l10n-name="bugzilla1">bug 1605154</a> 및 <a data-l10n-name="bugzilla2">bug 1605153</a>을 참고하세요.
 experimental-features-devtools-compatibility-panel =
     .label = 개발자 도구: 호환성 패널
-experimental-features-devtools-compatibility-panel-description = 앱의 브라우저 간 호환성 상태를 자세히 설명하는 정보를 표시하는 페이지 검사기의 측면 패널입니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1584464</a>를 참조하세요.
+experimental-features-devtools-compatibility-panel-description = 앱의 브라우저 간 호환성 상태를 자세히 설명하는 정보를 표시하는 페이지 검사기의 측면 패널입니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1584464</a>를 참고하세요.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax가 기본값
