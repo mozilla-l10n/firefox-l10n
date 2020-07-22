@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = 開啟實驗中的 CSS 瀑布流版面功能支援。若需此功能的簡易說明，請參考<a data-l10n-name="explainer">本文件</a>。若想提供意見回饋，請到<a data-l10n-name="w3c-issue">此 GitHub issue</a> 或<a data-l10n-name="bug">此 bug</a> 留言。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,40 @@ experimental-features-web-gpu-description = 對網路圖形與運算的實驗性
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = 對 AVIF（AV1 圖片檔案格式）的實驗性支援
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Developer Tools: Color Scheme Simulation
+experimental-features-devtools-execution-context-selector =
+    .label = Developer Tools: Execution Context Selector
+experimental-features-devtools-compatibility-panel =
+    .label = Developer Tools: Compatibility Panel
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax by default
@@ -36,7 +74,5 @@ experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = 將來自相同網域但不同通訊協定的 Cookie（例如 http://example.com 及 https://example.com 之間）視為  cross-site 而非 same-site。可改善安全性，但可能會造成網頁故障。
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support =
-    .label = DevTools: Service Worker debugging
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support-description = 開啟開發者工具「除錯器」面板當中對 Service Worker 的實驗性支援。此功能可能會拖慢開發者工具運作，並增加記憶體消耗量。
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Developer Tools: Service Worker debugging
