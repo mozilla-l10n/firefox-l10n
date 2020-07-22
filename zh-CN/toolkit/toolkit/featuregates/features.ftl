@@ -53,6 +53,9 @@ experimental-features-css-focus-visible-description = 仅在使用键盘聚焦�
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = 在 <a data-l10n-name="mdn-input">&lt;input&gt;</a>、<a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>，以及任何启用 <a data-l10n-name="mdn-contenteditable">contenteditable</a> 属性的元素的值变更前，会触发全局的的 <a data-l10n-name="mdn-beforeinput">beforeinput</a> 事件。此事件可让 Web 应用程序覆盖浏览器的默认用户交互行为（例如：应用程序可阻止用户输入某些特殊字符，或只允许以特定的样式修改粘贴的文本）。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
