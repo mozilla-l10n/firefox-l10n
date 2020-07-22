@@ -62,6 +62,7 @@ experimental-features-css-constructable-stylesheets-description = 在 <a data-l1
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = { -brand-short-name } 对于 Media Session API 的整个实现目前尚处于实验阶段。此 API 用于自定义媒体相关通知的处理方式、管理用于呈现用户播放界面的事件与数据、以及获取媒体文件的元数据。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1112032</a>。
 experimental-features-devtools-color-scheme-simulation =
     .label = 开发者工具：配色方案模拟
 experimental-features-devtools-color-scheme-simulation-description = 添加 <a data-l10n-name="mdn-preferscolorscheme">@prefers color scheme</a> 媒体查询测试选项，模拟不同的配色方案。该特性可让您的样式表根据用户对界面的亮 ∕ 暗偏好作出响应。启用后，无需调整浏览器或操作系统（若浏览器遵循系统级颜色模式）的设置，便可测试代码。欲详细了解，请参阅 <a data-l10n-name="bugzilla1">Bug 1550804</a> 和 <a data-l10n-name="bugzilla2">Bug 1137699</a>。
