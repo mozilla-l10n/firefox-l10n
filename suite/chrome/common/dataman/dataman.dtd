@@ -64,7 +64,7 @@
 <!-- permissions -->
 <!ENTITY perm.UseDefault "Bruk standard">
 <!ENTITY perm.AskAlways "Spør alltid">
-<!ENTITY perm.NeverSave "Aldri lagre">
+<!ENTITY perm.NeverSave "Lagre aldri">
 <!ENTITY perm.Allow "Tillat">
 <!ENTITY perm.AllowSameDomain "Tillat for samme domene">
 <!ENTITY perm.AllowSession "Tillat for programøkten">
