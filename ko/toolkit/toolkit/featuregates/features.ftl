@@ -53,6 +53,9 @@ experimental-features-css-focus-visible-description = 마우스나 기타 포인
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = 전역 <a data-l10n-name="mdn-beforeinput">beforeinput</a> 이벤트는 요소의 값이 변경되기 직전에 <a data-l10n-name="mdn-input">&lt;input&gt;</a> 및 <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> 요소 또는 <a data-l10n-name="mdn-contenteditable">contenteditable</a> 속성이 활성화된 요소에서 발생합니다. 이 이벤트를 통해 웹 앱은 사용자 상호 작용에 대한 브라우저의 기본 동작을 재정의할 수 있습니다. 예를 들어 웹 앱은 특정 문자에 대해서만 사용자 입력을 취소하거나 승인된 스타일로만 붙여넣기 스타일의 텍스트를 수정할 수 있습니다.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
