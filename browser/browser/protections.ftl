@@ -47,8 +47,8 @@ tracker-tab-title = Sporingsinnhald
 tracker-tab-description = Nettstadar kan laste eksterne annonsar, videoar og anna innhald med sporingskode. Blokkering av sporingsinnhald kan gjere at nettstadar lastar raskare, men det kan vere at  nokre knappar, skjema og innloggingsfelt ikkje fungerer. <a data-l10n-name="learn-more-link">Les meir</a>
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina di for å lage ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på forskjellige nettstadar. <a data-l10n-name="learn-more-link">Les meir</a>
-cryptominer-tab-title = Kryptominarar
-cryptominer-tab-content = Kryptominarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptomineringsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga. <a data-l10n-name="learn-more-link">Les meir</a>
+cryptominer-tab-title = Kryptoutvinnarar
+cryptominer-tab-content = Kryptoutvinnarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptoutvinningsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga. <a data-l10n-name="learn-more-link">Les meir</a>
 protections-close-button2 =
     .aria-label = Lat att
     .title = Lat att
@@ -201,9 +201,9 @@ bar-tooltip-fingerprinter =
            *[other] { $count } fingerprinters ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
-    .title = Kryptominarar
+    .title = Kryptoutvinnarar
     .aria-label =
         { $count ->
             [one] { $count } kryptominar ({ $percentage }%)
-           *[other] { $count } kryptominarar ({ $percentage }%)
+           *[other] { $count } Kryptoutvinnarar ({ $percentage }%)
         }

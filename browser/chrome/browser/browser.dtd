@@ -921,8 +921,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Infokapslar">
 <!ENTITY contentBlocking.cookiesView.label "Infokapslar og nettsidedata">
 
-<!ENTITY contentBlocking.cryptominers.label "Kryptominarar">
-<!ENTITY contentBlocking.cryptominersView.label "Kryptominarar">
+<!ENTITY contentBlocking.cryptominers.label "Kryptoutvinnarar">
+<!ENTITY contentBlocking.cryptominersView.label "Kryptoutvinnarar">
 
 <!ENTITY contentBlocking.fingerprinters.label "Nettlesaravtrykk">
 <!ENTITY contentBlocking.fingerprintersView.label "Nettlesaravtrykk">
