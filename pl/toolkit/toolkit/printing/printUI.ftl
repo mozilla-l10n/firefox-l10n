@@ -30,3 +30,8 @@ printui-less-settings = Mniej ustawień
 # Section title (noun) for the print scaling options
 printui-scale = Skalowanie
 printui-scale-fit-to-page = Dopasuj do strony
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Skala
+printui-system-dialog-link = Drukuj za pomocą okna systemowego…
+printui-primary-button = Drukuj
+printui-cancel-button = Anuluj
