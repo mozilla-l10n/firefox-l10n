@@ -27,6 +27,7 @@ printui-more-settings = 更多设置
 printui-less-settings = 更少设置
 # Section title (noun) for the print scaling options
 printui-scale = 比例
+printui-scale-fit-to-page = 自适应纸张大小
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 比例
 printui-system-dialog-link = 使用系统对话框打印...
