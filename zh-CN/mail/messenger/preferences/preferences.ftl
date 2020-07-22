@@ -41,7 +41,6 @@ composition-addressing-header = 地址
 privacy-main-header = 隐私
 privacy-passwords-header = 密码
 privacy-junk-header = 垃圾邮件
-privacy-data-collection-header = 数据收集与使用
 collection-header = { -brand-short-name } 数据收集与使用
 collection-description = 我们力图为您提供选择权，并保证只收集我们为众人提供和改进 { -brand-short-name } 所需的信息。我们仅在征得您的同意后接收个人信息。
 collection-privacy-notice = 隐私声明
@@ -96,14 +95,19 @@ addons-button = 扩展和主题
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = 验证您的身份以创建主密码。
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以创建主密码。这有助于保护您的账户安全。
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = 创建主密码
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以创建主密码。这有助于保护您的账户安全。
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = 创建主密码
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = 更换主密码…
     .accesskey = C
+primary-password-description = 设置主密码可以保护您所有的密码 - 但是您必须对每次会话输入一次主密码。
+primary-password-label =
+    .label = 使用主密码
+    .accesskey = U
+primary-password-button =
+    .label = 更改主密码…
+    .accesskey = C
+forms-primary-pw-fips-title = 您正处于 FIPS 模式。该模式需要一个非空的主密码。
+forms-master-pw-fips-desc = 密码更改失败
 junk-description =
     设定您默认的垃圾邮件设置。
     可以在“账户设置”中设定特定于账户的垃圾邮件设置。
@@ -703,3 +716,6 @@ search-results-empty-message =
        *[other] 很抱歉，没有找到有关 “<span data-l10n-name="query"></span>” 的首选项。
     }
 search-results-help-link = 需要帮助？访问 <a data-l10n-name="url">{ -brand-short-name } 技术支持</a>
+
+## Preferences UI Search Results
+
