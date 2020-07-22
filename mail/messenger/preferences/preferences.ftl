@@ -41,7 +41,6 @@ composition-addressing-header = Adressering
 privacy-main-header = Personvern
 privacy-passwords-header = Passord
 privacy-junk-header = Uønskt
-privacy-data-collection-header = Datainnsamling og bruk
 collection-header = { -brand-short-name } datainnsamling og bruk
 collection-description = Vi strevar alltid etter å gje deg val og samlar berre inn det vi treng for å forbetre { -brand-short-name } for alle. Vi ber alltid om løyve før vi tar imot personlege opplysningar.
 collection-privacy-notice = Personvernerklæring
@@ -96,14 +95,19 @@ addons-button = Utvidingar og tema
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Stadfest identiteten din for å lage eit hovudpassord.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å lage eit hovudpassord. Dette vil gjere kontoane dine tryggare.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = lag eit hovudpassord
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen din for Windows for å lage eit hovydpassord. Dette vil gjere kontoane dine tryggare.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = lag eit hovudpassord
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Endra hovudpassord …
     .accesskey = E
+primary-password-description = Du kan bruke eit hovudpassord for å beskytte alle passorda, men då må du skrive inn passorda ein gong for kvar programøkt.
+primary-password-label =
+    .label = Bruk eit hovudpassord
+    .accesskey = B
+primary-password-button =
+    .label = Endre hovudpassord…
+    .accesskey = E
+forms-primary-pw-fips-title = Du er for tida i FIPS-modus. FIPS krev at du brukar eit hovudpassord.
+forms-master-pw-fips-desc = Mislykka passordendring
 junk-description = Vel standard-innstilling for uønskt e-post. Konto-spesifikke innstillingar for uønskt e-post kan stillast inn i Konto-innstillingar.
 junk-label =
     .label = Når eg merkar meldingar som uønskte:
@@ -701,3 +714,6 @@ search-results-empty-message =
        *[other] Beklagar! Det er ingen resultat i innstillingar for «<span data-l10n-name="query"></span>».
     }
 search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } brukarstøtte</a>
+
+## Preferences UI Search Results
+
