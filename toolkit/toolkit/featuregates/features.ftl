@@ -57,6 +57,7 @@ experimental-features-web-api-beforeinput =
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> 인터페이스에 생성자를 추가하는 것뿐만 아니라 다양한 관련 변경으로 인해 시트를 HTML에 추가하지 않고도 새로운 스타일시트를 직접 만들 수 있습니다. 이를 통해 <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>과 함께 사용할 수 있는 재사용 가능한 스타일시트를 훨씬 쉽게 만들 수 있습니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1520690</a>을 참고하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
