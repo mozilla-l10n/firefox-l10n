@@ -8,7 +8,8 @@ password-quality-meter = Passwort-Qualitätsmessung
 
 change-password-window =
     .title = Master-Passwort ändern
-
+change-device-password-window =
+    .title = Passwort ändern
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Kryptographie-Modul: { $tokenName }
@@ -21,6 +22,11 @@ change-password-reenter = Neues Passwort (nochmals):
 reset-password-window =
     .title = Master-Passwort zurücksetzen
     .style = width: 40em
+pippki-failed-pw-change = Passwort konnte nicht geändert werden.
+pippki-pw-change-ok = Passwort erfolgreich geändert.
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Zurücksetzen
 reset-password-text = Wenn Sie Ihr Master-Passwort zurücksetzen, gehen all Ihre gespeicherten Web- und E-Mail-Passwörter, Formulardaten, persönlichen Zertifikate und privaten Schlüssel verloren. Soll Ihr Master-Passwort trotzdem zurückgesetzt werden?
