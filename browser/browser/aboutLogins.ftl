@@ -138,6 +138,7 @@ master-password-notification-message = Унесите своју главну л
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Унесите вашу главну лозинку да бисте видели сачуване пријаве и лозинке
 master-password-reload-button =
     .label = Пријава
     .accesskey = L
