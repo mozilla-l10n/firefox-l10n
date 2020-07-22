@@ -35,10 +35,20 @@ experimental-features-media-avif-description = Con esta función activada, { -br
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Nuestra implementación del atributo global <a data-l10n-name="mdn-inputmode">inputmode</a> se ha actualizado según <a data-l10n-name="whatwg">la especificación WHATWG</a>, pero todavía necesitamos hacer otros cambios, como por ejemplo que quede disponible  en contenidos contenteditable. Consulta el <a data-l10n-name="bugzilla">bug 1205133</a> para obtener más detalles.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
 experimental-features-devtools-execution-context-selector =
     .label = Herramientas de desarrollo: Selector de contexto de ejecución
 experimental-features-devtools-compatibility-panel =
