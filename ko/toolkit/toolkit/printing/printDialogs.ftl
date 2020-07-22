@@ -21,7 +21,7 @@ landscape =
     .label = 가로
     .accesskey = L
 scale =
-    .label = 크기:
+    .label = 배율:
     .accesskey = S
 scale-percent =
     .value = %
@@ -103,7 +103,6 @@ print-window =
     .title = 인쇄 중
 print-complete =
     .value = 인쇄가 완료되었습니다.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
