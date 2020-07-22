@@ -25,10 +25,12 @@ experimental-features-avif-description = Eksperimintele stipe foar AVIF: AV1 Ima
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Dizze nije API biedt stipe op leech nivo foar it útfieren fan berekkeningen en grafyske werjefte mei help fan de <a data-l10n-name="wikipedia">Graphics Processing Unit (GPU)</a> fan it apparaat of de kompjûter fan de brûker. De <a data-l10n-name="spec">spesifikaasje</a> is noch hieltyd yn ûntwikkeling. Sjoch <a data-l10n-name="bugzilla">bug 1602129</a> foar mear details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = As dizze funksje ynskeakele is, stipet { -brand-short-name } it AV1 Image File (AVIF)-formaat. Dit is in bestânsformaat foar stilsteande bylden dat gebrûk makket fan de mooglikheden fan de AV1-fideokompresje-algoritmen om de ôfbyldingsgrutte te ferlytsjen. Sjoch <a data-l10n-name="bugzilla">bug 1443863</a> foar mear details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
