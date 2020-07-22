@@ -57,6 +57,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Utviklerverktøy: Simulering av fargeskjema
 experimental-features-devtools-execution-context-selector =
     .label = Utviklerverktøy: Utførelseskontektsvelger
+experimental-features-devtools-execution-context-selector-description = Denne funksjonen viser en knapp på konsollens kommandolinje som lar deg endre konteksten der uttrykket du skriver inn, skal kjøres. Se <a data-l10n-name="bugzilla1">bug 1605154</a> og <a data-l10n-name="bugzilla1">bug 1605153</a> for mer informasjon.
 experimental-features-devtools-compatibility-panel =
     .label = Utviklerverktøy: Kompatibilitetspanel
 # Do not translate 'SameSite', 'Lax' and 'None'.
