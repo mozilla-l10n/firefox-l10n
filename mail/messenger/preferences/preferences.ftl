@@ -41,7 +41,6 @@ composition-addressing-header = Cyfeirio
 privacy-main-header = Preifatrwydd
 privacy-passwords-header = Cyfrineiriau
 privacy-junk-header = Sbam
-privacy-data-collection-header = Casglu a Defnydd Data
 collection-header = Casglu a Defnyddio Data { -brand-short-name }
 collection-description = Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella { -brand-short-name } ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.
 collection-privacy-notice = Hysbysiad Preifatrwydd
@@ -96,14 +95,19 @@ addons-button = Estyniadau a Themâu
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Gwiriwch eich hunaniaeth i greu Prif Gyfrinair.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = I greu Prif Gyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = creu Prif Gyfrinair
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = I greu Prif Gyfrinair, nodwch fanylion eich mewngofnodi Windows. Mae hyn yn helpu i ddiogelu eich cyfrifon.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = creu Prif Gyfrinair
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Newid y Prif Gyfrinair…
     .accesskey = N
+primary-password-description = Mae Prif Gyfrinair yn diogelu eich holl gyfrineiriau, ond rhaid i chi ei osod unwaith y sesiwn.
+primary-password-label =
+    .label = Defnyddio Prif Gyfrinair
+    .accesskey = D
+primary-password-button =
+    .label = Newid y Prif Gyfrinair…
+    .accesskey = N
+forms-primary-pw-fips-title = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair nad yw'n wag.
+forms-master-pw-fips-desc = Methodd Newid eich Cyfrinair
 junk-description = Yma gallwch osod eich gosodiadau sbam rhagosodedig. Mae modd ffurfweddu gosodiadau penodol ar gyfer sbam yn Gosodiadau Cyfrif.
 junk-label =
     .label = Pan fyddai'n marcio negeseuon fel sbam:
@@ -701,3 +714,6 @@ search-results-empty-message =
        *[other] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Angen cymorth? Ewch i <a data-l10n-name="url">Cefnogaeth { -brand-short-name }</a>
+
+## Preferences UI Search Results
+
