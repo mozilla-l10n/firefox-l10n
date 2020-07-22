@@ -41,7 +41,6 @@ composition-addressing-header = Adressering
 privacy-main-header = Sekretess
 privacy-passwords-header = Lösenord
 privacy-junk-header = Skräp
-privacy-data-collection-header = Datainsamling och användning
 collection-header = { -brand-short-name } Datainsamling och användning
 collection-description = Vi strävar alltid efter att ge dig val och samlar endast in vad vi behöver för tillhandahålla och förbättra { -brand-short-name } för alla. Vi ber alltid om tillåtelse innan vi tar emot personliga uppgifter.
 collection-privacy-notice = Sekretesspolicy
@@ -96,14 +95,19 @@ addons-button = Tillägg & teman
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Verifiera din identitet för att skapa ett huvudlösenord.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Om du vill skapa ett huvudlösenord anger du dina inloggningsuppgifter för Windows. Detta skyddar dina kontons säkerhet.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = skapa ett huvudlösenord
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Om du vill skapa ett huvudlösenord anger du dina inloggningsuppgifter för Windows. Detta skyddar dina kontons säkerhet.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = skapa ett huvudlösenord
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Byt huvudlösenord…
     .accesskey = h
+primary-password-description = Ett huvudlösenord skyddar alla dina lösenord, men du måste ange det en gång per session.
+primary-password-label =
+    .label = Använd ett huvudlösenord
+    .accesskey = A
+primary-password-button =
+    .label = Ändra huvudlösenord…
+    .accesskey = n
+forms-primary-pw-fips-title = Du är för närvarande i FIPS-läge. FIPS kräver ett huvudlösenord.
+forms-master-pw-fips-desc = Ändring av lösenordet misslyckades
 junk-description = Ange inställningar för skräpposthantering. Kontospecifika skräppostinställningar kan göras i Kontoinställningar.
 junk-label =
     .label = När jag märker meddelanden som skräppost:
@@ -701,3 +714,6 @@ search-results-empty-message =
        *[other] Tyvärr! Det finns inga resultat i Inställningar för "<span data-l10n-name="query"></span>".
     }
 search-results-help-link = Behöver du hjälp? <a data-l10n-name="url">{ -brand-short-name } supporten</a>
+
+## Preferences UI Search Results
+
