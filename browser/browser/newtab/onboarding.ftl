@@ -104,29 +104,30 @@ onboarding-multistage-theme-label-colorful = Colorato
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic =
   .title =
-    Utilizza lo stesso aspetto del sistema
-    operativo per pulsanti, menu e finestre.
+    Utilizza la stessa combinazione di colori
+    del sistema operativo per pulsanti, menu
+    e finestre.
   .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
 
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light =
   .title =
-    Utilizza un aspetto chiaro
-    per pulsanti, menu e finestre.
+    Utilizza una combinazione di colori
+    chiara per pulsanti, menu e finestre.
   .aria-label = { onboarding-multistage-theme-tooltip-light.title }
 
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark =
   .title =
-    Utilizza un aspetto scuro
-    per pulsanti, menu e finestre.
+    Utilizza una combinazione di colori
+    scura per pulsanti, menu e finestre.
   .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
 
 # Tooltip displayed on hover of colorful theme
 onboarding-multistage-theme-tooltip-colorful =
   .title =
-    Utilizza un aspetto colorato
-    per pulsanti, menu e finestre.
+    Utilizza una combinazione di colori
+    variegata per pulsanti, menu e finestre.
   .aria-label = { onboarding-multistage-theme-tooltip-colorful.title }
 
 ## Welcome full page string
