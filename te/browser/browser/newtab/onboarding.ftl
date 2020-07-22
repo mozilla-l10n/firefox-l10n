@@ -36,6 +36,9 @@ onboarding-cards-dismiss =
     .title = విస్మరించు
     .aria-label = విస్మరించు
 
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+
 ## Welcome full page string
 
 onboarding-fullpage-form-email =
@@ -84,6 +87,7 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name }‌ని ప్రయ
 onboarding-lockwise-passwords-title = మీ సంకేతపదాలను మీతో ఎక్కడికైనా తీసుకెళ్ళండి
 onboarding-lockwise-passwords-button2 = అనువర్తనాన్ని తెచ్చుకో
 onboarding-facebook-container-title = ఫేస్‌బుక్‌కి హద్దులు గీయండి
+onboarding-facebook-container-button = పొడగింతను చేర్చు
 
 ## Message strings belonging to the Return to AMO flow
 
