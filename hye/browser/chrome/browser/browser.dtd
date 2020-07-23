@@ -589,7 +589,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Կրկին բեռնել շրջանակը">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Դիտել նշուած մասի կոդը">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Դիտել ընտրաղբեւրը">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Դիտել էջի կոդը">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
