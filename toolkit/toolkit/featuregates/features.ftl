@@ -37,6 +37,22 @@ experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
