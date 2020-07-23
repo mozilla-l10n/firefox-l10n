@@ -71,8 +71,10 @@ experimental-features-devtools-color-scheme-simulation =
 experimental-features-devtools-color-scheme-simulation-description = Foeget in opsje ta om ferskate kleureskema's te simulearjen, sadat jo <a data-l10n-name="mdn-preferscolorscheme">@prefers-colour-scheme</a>-mediaquery's teste kinne. Mei help fan dizze mediaquery, kinne jo stylesheet reagearje op de fraach oft de brûker de foarkar jout oan in ljochte of donkere brûkersynterface. Mei dizze funksje kinne jo jo koade teste sûnder dat jo de ynstellingen yn jo browser (of bestjoeringssysteem, as de browser in systeembreed kleureskema folget) hoege te wizigjen. Sjoch <a data-l10n-name="bugzilla1">bug 1550804</a> en <a data-l10n-name="bugzilla2">bug 1137699</a> foar mear details.
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Execution Context Selector
+experimental-features-devtools-execution-context-selector-description = Dizze funksje jout in knop wer op de opdrachtrigel fan de console wêrmei't jo de kontekst wizigje kinne wêryn de ekspresje dy't jo ynfiere, útfierd wurdt. Sjoch <a data-l10n-name="bugzilla1">bug 1605154</a> en <a data-l10n-name="bugzilla2">bug 1605153</a> foar mear details.
 experimental-features-devtools-compatibility-panel =
     .label = Developer Tools: Compatibility Panel
+experimental-features-devtools-compatibility-panel-description = In sidepaniel foar de Page Inspector dat ynformaasje toant oer de kompatibiliteitssteat fan de browser yn jo app. Sjoch <a data-l10n-name="bugzilla">bug 1584464</a> foar mear details.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax as standert
@@ -94,3 +96,5 @@ experimental-features-cookie-samesite-schemeful-description = Behannelje cookies
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Skeakelet yn it Debugger-paniel eksperimintele stipe foar service workers yn. Dizze funksje kin helpmiddelen foar webûntwikkelers fertrage en it ûnthâldgebrûk ferheegje.
