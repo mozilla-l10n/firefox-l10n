@@ -41,7 +41,6 @@ composition-addressing-header = Adressage
 privacy-main-header = Vie privée
 privacy-passwords-header = Mots de passe
 privacy-junk-header = Courrier indésirable
-privacy-data-collection-header = Collecte et utilisation de données
 collection-header = Collecte de données par { -brand-short-name } et utilisation
 collection-description = Nous nous efforçons de vous laisser le choix et de recueillir uniquement les informations dont nous avons besoin pour proposer { -brand-short-name } et l’améliorer pour tout le monde. Nous demandons toujours votre permission avant de recevoir des données personnelles.
 collection-privacy-notice = Politique de confidentialité
@@ -95,8 +94,6 @@ addons-button = Extensions et thèmes
 
 ## OS Authentication dialog
 
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Confirmez votre identité pour créer un mot de passe principal.
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Pour créer un mot de passe principal, saisissez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
 # This message can be seen by trying to add a Master Password.
@@ -541,6 +538,9 @@ master-password-label =
 master-password-button =
     .label = Gérer le mot de passe principal…
     .accesskey = G
+primary-password-label =
+    .label = Utiliser un mot de passe principal
+    .accesskey = U
 junk-description = Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».
 junk-label =
     .label = Quand je marque des messages comme indésirables :
@@ -701,3 +701,6 @@ search-results-empty-message =
        *[other] Désolé, il n’y a aucun résultat dans les préférences pour « <span data-l10n-name="query"></span> ».
     }
 search-results-help-link = Besoin d’aide ? Consultez <a data-l10n-name="url">l’assistance de { -brand-short-name }</a>
+
+## Preferences UI Search Results
+
