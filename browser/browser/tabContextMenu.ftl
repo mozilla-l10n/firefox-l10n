@@ -66,13 +66,13 @@ tab-context-close-multiple-tabs =
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Zacynjony rejtarik wócyniś
-            [one] Zacynjony rejtarik wócyniś
-            [two] Zacynjonej rejtarika wócyniś
-            [few] Zacynjone rejtariki wócyniś
-           *[other] Zacynjonych rejtarikow wócyniś
+            [1] { $tabCount } zacynjony rejtarik wócyniś
+            [one] { $tabCount }  zacynjony rejtarik wócyniś
+            [two] { $tabCount } zacynjonej rejtarika wócyniś
+            [few] { $tabCount } zacynjone rejtariki wócyniś
+           *[other] { $tabCount } zacynjonych rejtarikow wócyniś
         }
-    .accesskey = Z
+    .accesskey = z
 close-tab =
     .label = Rejtarik zacyniś
     .accesskey = z
@@ -88,20 +88,20 @@ move-tab =
 tab-context-close-tabs =
     .label =
         { $tabCount ->
-            [1] $tabCount rejtarik zacyniś
-            [one] $tabCount rejtarik zacyniś
-            [two] $tabCount rejtarika zacyniś
-            [few] $tabCount rejtariki zacyniś
-           *[other] $tabCount rejtarikow zacyniś
+            [1] { $tabCount } rejtarik zacyniś
+            [one] { $tabCount } rejtarik zacyniś
+            [two] { $tabCount } rejtarika zacyniś
+            [few] { $tabCount } rejtariki zacyniś
+           *[other] { $tabCount } rejtarikow zacyniś
         }
     .accesskey = r
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] $tabCount rejtarik pśesunuś
-            [one] $tabCount rejtarik pśesunuś
-            [two] $tabCount rejtarika pśesunuś
-            [few] $tabCount rejtariki pśesunuś
-           *[other] $tabCount rejtarikow pśesunuś
+            [1] { $tabCount } rejtarik pśesunuś
+            [one] { $tabCount } rejtarik pśesunuś
+            [two] { $tabCount } rejtarika pśesunuś
+            [few] { $tabCount } rejtariki pśesunuś
+           *[other] { $tabCount } rejtarikow pśesunuś
         }
     .accesskey = s
