@@ -22,6 +22,8 @@ printui-copies-label = Kopyen
 printui-orientation = Oriïntaasje
 printui-landscape = Lizzend
 printui-portrait = Steand
+# Section title for the printer or destination device to target
+printui-destination-label = Bestimming
 printui-more-settings = Mear ynstellingen
 printui-less-settings = Minder ynstellingen
 # Section title (noun) for the print scaling options
