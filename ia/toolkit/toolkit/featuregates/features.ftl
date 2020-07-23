@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Activa le assistentia al functionalitate de mappa Masonry CSS experimental. Vide le <a data-l10n-name="explainer">explainer</a> pro un alte nivello de description del functionalitate. Pro fornir commentarios, per favor commenta in <a data-l10n-name="w3c-issue">iste problema de GitHub</a> o <a data-l10n-name="bug">iste error</a>
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,32 @@ experimental-features-web-gpu-description = API experimental pro graphica e elab
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Supporto experimental pro AVIF, le formato de file imagine AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Medios: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: pseudo-classe :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Utensiles de disveloppator: simulation schema colores
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=lax predefinite
@@ -35,8 +65,3 @@ experimental-features-abouthome-startup-cache-description = Cache pro le content
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Tracta cookies del mesme dominio, ma con differente schemas (e.g. http://example.com e https://example.com) como inter-sitos in vice del mesme-sito. Meliora le securitate, ma pote introducer problemas.
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support =
-    .label = DevTools: depuration de obrero de servicio
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-serviceworker-debugger-support-description = Activa supporto experimental pro le obreros de servicio in le quadro del depurator de DevTools. Iste functionalitate pote relentar DevTools e accrescer le consumption memoria.
