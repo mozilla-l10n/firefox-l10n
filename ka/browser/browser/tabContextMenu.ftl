@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = რამდენიმე ჩანართის დახურვა
     .accesskey = რ
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -78,3 +82,17 @@ move-tabs =
 move-tab =
     .label = ჩანართის გადატანა
     .accesskey = ტ
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] ჩანართის დახურვა
+           *[other] ჩანართების დახურვა
+        }
+    .accesskey = ხ
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] ჩანართის გადატანა
+           *[other] ჩანართების გადატანა
+        }
+    .accesskey = v
