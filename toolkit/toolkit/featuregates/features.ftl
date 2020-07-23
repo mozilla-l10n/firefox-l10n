@@ -35,10 +35,15 @@ experimental-features-media-avif-description = ამ შესაძლებ�
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = ჩვენ მიერ დანერგილი <a data-l10n-name="mdn-inputmode">inputmode</a> საერთო თვისება განახლდა <a data-l10n-name="whatwg">WHATWG-მახასიათებლების</a> მიხედვით, თუმცა კვლავ გვესაჭიროება დამატებითი ცვლილებიც, თუნდაც ხელმისაწვდომობა შიგთავსის ჩასწორების (contenteditable) შესაძლებლობის. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = <a data-l10n-name="rel">rel</a> თვისება მნიშვნელობით <code>"preload"</code> ელემენტზე <a data-l10n-name="link">&lt;link&gt;</a> განკუთვნილია წარმადობის გასაუმჯობესებლად, მასალების ადრეულად ჩამოტვირთვის საშუალებით გვერდის გახსნამდე და დამოწმებით, რომ დროულადაა ხელმისაწვდომი და არ ზღუდავს გვერდის გამოსახვას. წაიკითხეთ <a data-l10n-name="readmore">„შიგთავსის წინასწარ ჩასატვირთი <code>rel="preload"</code>“</a> ან ვრცლად იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1583604</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
