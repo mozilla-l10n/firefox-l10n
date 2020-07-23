@@ -302,15 +302,15 @@
 <!ENTITY calendar.context.showall.label                "ყველა კალენდრის ჩვენება">
 <!ENTITY calendar.context.showall.accesskey            "ყ">
 
-<!ENTITY calendar.context.convertmenu.label              "გარდაქმნა -">
+<!ENTITY calendar.context.convertmenu.label              "გარდაქმნა">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "რ">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "ი">
-<!ENTITY calendar.context.convertmenu.event.label        "ღონისძიება…">
+<!ENTITY calendar.context.convertmenu.event.label        "ღონისძიებად…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "ღ">
-<!ENTITY calendar.context.convertmenu.message.label      "გზავნილი…">
+<!ENTITY calendar.context.convertmenu.message.label      "გზავნილად…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "ზ">
-<!ENTITY calendar.context.convertmenu.task.label         "დავალება…">
-<!ENTITY calendar.context.convertmenu.task.accesskey     "ც">
+<!ENTITY calendar.context.convertmenu.task.label         "დავალებად…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "დ">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "მცირე კალენდარი">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "კ">
