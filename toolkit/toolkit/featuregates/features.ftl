@@ -70,6 +70,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Execution Context Selector
+experimental-features-devtools-execution-context-selector-description = ეს შესაძლებლობა გამოაჩენს ღილაკს ბრძანებათა ველში, რომლითაც შესაძლებელი იქნება შეიცვალოს კონტექსტი, შეყვანილი გამოსახულების გასაშვებად. ვრცლად, იხილეთ <a data-l10n-name="bugzilla1">ხარვეზი 1605154</a> და <a data-l10n-name="bugzilla2">ხარვეზი 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Developer Tools: Compatibility Panel
 experimental-features-devtools-compatibility-panel-description = გვერდითი არე საიტის დაკვირვების ხელსაწყოში, რომელიც აჩვენებს დაწვრილებით მონაცემებს აპლიკაციის მრავალ ბრაუზერთთან თავსებადობის მდგომარეობას. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1584464</a>.
