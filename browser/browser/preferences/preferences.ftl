@@ -798,12 +798,17 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Utilizza una password principale
     .accesskey = U
+forms-primary-pw-learn-more-link = Ulteriori informazioni
 forms-master-pw-change =
     .label = Cambia la password principale…
     .accesskey = w
 forms-primary-pw-change =
     .label = Cambia la password principale…
     .accesskey = w
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-master-pw-fips-title = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
 forms-primary-pw-fips-title = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
 forms-master-pw-fips-desc = La password non è stata cambiata
