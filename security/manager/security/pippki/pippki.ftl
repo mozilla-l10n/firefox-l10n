@@ -27,9 +27,14 @@ pippki-pw-change-ok = Salasana vaihdettiin onnistuneesti.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Nollaa pääsalasana
+    .style = width: 40em
 reset-password-button-label =
     .label = Poista
 reset-password-text = Jos pääsalasana poistetaan, kaikki tallennetut sivusto- ja sähköpostisalasanat, lomaketiedot, henkilökohtaiset varmenteet ja salaiset avaimet unohdetaan. Poistetaanko pääsalasana?
+pippki-reset-password-confirmation-title = Nollaa pääsalasana
+pippki-reset-password-confirmation-message = Pääsalasanasi on nollattu.
 
 ## Downloading cert dialog
 
