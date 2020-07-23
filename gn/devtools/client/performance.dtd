@@ -22,7 +22,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
-<!ENTITY performanceUI.bufferStatusFull "Pe búfer henyhẽma. Ko'ág̃a ojehaijo'a umi jehechaukarã ary reheguáva.">
+<!ENTITY performanceUI.bufferStatusFull "Pe búfer henyhẽma. Ko’ág̃a ojehaijo’a umi jehechaukarã ary reheguáva.">
 
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while

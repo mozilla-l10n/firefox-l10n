@@ -585,7 +585,7 @@ search-remove-engine =
 search-find-more-link = Ejuhu hetave hekaha mongu’eha
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = Jehero jo'apyre
+search-keyword-warning-title = Jehero jo’apyre
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Eiporavókuri peteĩ jehero oipurúmava "{ $name }". Ikatúpiko eiporavo ambue.
