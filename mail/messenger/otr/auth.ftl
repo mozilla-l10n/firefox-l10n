@@ -14,6 +14,7 @@ auth-your-fp-value = Jūsų - { $own_name } - „piršto antspaudas":
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = { $their_name } „pirštų antspaudas“:
+auth-questionReceived = Jūsų adresatas uždavė klausimą:
 auth-yes =
     .label = Taip
 auth-no =
@@ -28,5 +29,7 @@ auth-questionAndAnswer-label =
     .label = { auth-questionAndAnswer }
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
+auth-how = Kaip norėtumėte patikrinti adresato tapatybę?
 auth-question = Įveskite klausimą:
+auth-answer = Įveskite atsakymą (didžiosios ir mažosios raidės skiriasi !):
 auth-secret = Įveskite paslaptį:

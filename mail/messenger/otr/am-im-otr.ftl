@@ -15,3 +15,6 @@ otr-log =
     .label = Įtraukite OTR užšifruotus pranešimus į pokalbių žurnalus
 otr-requireEncryption =
     .label = Reikalauti tiesioginių privačių pokalbių „end-to-end“ šifravimo
+otr-verifyNudge =
+    .label = Visada priminkite man patvirtinti nepatikrintą kontaktą
+otr-notYetAvailable = kol kas nepasiekiamas
