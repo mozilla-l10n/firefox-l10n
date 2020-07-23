@@ -27,3 +27,7 @@ carddav-remember-password =
     .label = Įsiminti slaptažodį
     .accesskey = s
 carddav-loading = Ieškoma konfigūracija …
+carddav-connection-error = Prisijungti nepavyko.
+carddav-none-found = Nurodytoje paskyroje adresų knygų nėra.
+carddav-already-added = Visos nurodytos paskyros adresų knygos jau pridėtos.
+carddav-available-books = Galimos adresų knygos:
