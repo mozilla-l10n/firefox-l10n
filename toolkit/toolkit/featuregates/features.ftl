@@ -41,24 +41,34 @@ experimental-features-web-api-inputmode-description = Us ymplemintaasje fan it g
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = It attribút <a data-l10n-name="rel">rel</a> mei wearde <code>"preload"</code> op in <a data-l10n-name="link">&lt;link&gt;</a>-elemint is bedoeld om te helpen prestaasjeferbetteringen te realisearjen troch jo boarnen earder yn de libbenssyklus fan de side downloade te litten, sadat se earder beskikber binne en de werjefte fan siden minder fluch blokkearre wurdt. Lês <a data-l10n-name="readmore">‘Preloading content mei <code>rel="preload"</code>’</a> of sjoch <a data-l10n-name="bugzilla">bug 1583604</a> foar mear details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Makket it mooglik om fokusstilen ta te passen op eleminten lykas knoppen en formulierbestjoeringen, allinnich wannear't se de fokus krigen hawwe me help fan it toetseboerd (bygelyks by it gebrûk fan tab tusken eleminten), en net wannear't se skerpsteld binne mei in mûs of oar oanwiisapparaat. Sjoch <a data-l10n-name="bugzilla">bug 1617600</a> foar mear details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = It globale <a data-l10n-name="mdn-beforeinput">beforeinput</a>-barren wurdt aktivearre op <a data-l10n-name="mdn-input">&lt;input&gt;</a>- en <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>-eleminten, of elk elemint wêrfan it <a data-l10n-name="mdn-contenteditable">contenteditable</a>-kenmerk ynskeakele is, daliks foardat de wearde fan it elemint feroaret. Mei dit barren kinne webapps it standertgedrach fan de browser oerskriuwe foar brûkersynteraksje, webapps kinne bygelyks brûkersynfier allinnich foar spesifike tekens annulearje of kinne it plakken fan opmakke tekst allinnich wizigje mei goedkarre stilen.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = De tafoeging fan in constructor oan de <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-ynterface en in oantal relatearre wizigingen, makket it mooglik om daliks nije stylesheets te meitsjen sûnder it blêd ta te foegjen oan de HTML. Dit makket it folle makliker om op nij brûkbere stylesheets te meitsjen foar gebrûk mei <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Sjoch <a data-l10n-name="bugzilla">bug 1520690</a> foar mear details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = De folsleine { -brand-short-name }-ymplemintaasje fan de Media Session API is op dit stuit eksperiminteel. Dizze API wurdt brûkt om de ferwurking fan mediarelatearre meldingen oan te passen, om eveneminten en gegevens te behearen dy't nuttich binne foar it presentearjen fan in brûkersynterface foar it behearen fan it ôfspyljen fan media en om metadata fan mediabestannen te krijen. Sjoch <a data-l10n-name="bugzilla">bug 1112032</a> foar mear details.
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
+experimental-features-devtools-color-scheme-simulation-description = Foeget in opsje ta om ferskate kleureskema's te simulearjen, sadat jo <a data-l10n-name="mdn-preferscolorscheme">@prefers-colour-scheme</a>-mediaquery's teste kinne. Mei help fan dizze mediaquery, kinne jo stylesheet reagearje op de fraach oft de brûker de foarkar jout oan in ljochte of donkere brûkersynterface. Mei dizze funksje kinne jo jo koade teste sûnder dat jo de ynstellingen yn jo browser (of bestjoeringssysteem, as de browser in systeembreed kleureskema folget) hoege te wizigjen. Sjoch <a data-l10n-name="bugzilla1">bug 1550804</a> en <a data-l10n-name="bugzilla2">bug 1137699</a> foar mear details.
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Execution Context Selector
 experimental-features-devtools-compatibility-panel =
