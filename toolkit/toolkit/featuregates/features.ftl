@@ -53,6 +53,13 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Utviklarverktøy: Simulering av fargeskjema
+experimental-features-devtools-execution-context-selector =
+    .label = Utviklarverktøy: Utføringskontektsveljar
+experimental-features-devtools-execution-context-selector-description = Denne funksjonen viser ein knapp på kommandolinja til konsollen som lèt deg endre konteksten der uttrykket du skriv inn, skal køyrast. Sjå <a data-l10n-name="bugzilla1">bug 1605154</a> og <a data-l10n-name="bugzilla1">bug 1605153</a> for meir informasjon.
+experimental-features-devtools-compatibility-panel =
+    .label = Utviklarverktøy: Kompatibilitetspanel
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Infokapsel: SameSite=Lax som standard
@@ -71,3 +78,8 @@ experimental-features-abouthome-startup-cache-description = Ein hurtigbuffer for
 experimental-features-cookie-samesite-schemeful =
     .label = Infokapslar: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Handsam informasjonskapslar frå same domene, men med ulike skjema (t.d. http://example.com og https://example.com) som fleire nettstadar i staden for same nettstad. Betrar sikkerheita, men introduserer potensielt brot.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Utviklarverktøy: Feilsøking av Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Aktiverer eksperimentell støtte for Service Workers i feilsøkingspanelet. Denne funksjonen kan gjere utviklerverktøyet treg og auke minneforbruket.
