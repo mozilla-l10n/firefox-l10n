@@ -27,7 +27,7 @@ toolbar-context-menu-undo-close-tabs =
             [one] Zacynjony rejtarik wócyniś
             [two] Zacynjonej rejtarika wócyniś
             [few] Zacynjone rejtariki wócyniś
-           *[other] Zacynjonych rejtarikow wócyniś
+           *[other] Zacynjone rejtariki wócyniś
         }
     .accesskey = Z
 toolbar-context-menu-manage-extension =
