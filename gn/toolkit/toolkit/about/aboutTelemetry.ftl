@@ -35,12 +35,12 @@ about-telemetry-events-section = Tembiaporã
 about-telemetry-simple-measurements-section = Ha'ãha hypy'ũ'ỹva
 about-telemetry-slow-sql-section = Je’etepyre SQL imbegue
 about-telemetry-addon-details-section = Moimbaha mba’emimi
-about-telemetry-captured-stacks-section = Japyhypyre mbojo'a
+about-telemetry-captured-stacks-section = Japyhypyre mbojo’a
 about-telemetry-late-writes-section = Jehaipy mbotapykuéva
 about-telemetry-raw-payload-section = Hetepy ojehecha'ỹva gueteri
 about-telemetry-raw = Raw JSON
 about-telemetry-full-sql-warning = HAIPYRE’I: SQL ñemopotĩ imbeguéva hendýma. Ikatu ohechauka joajuha opaichagua SQL rehegua hákatu noñemondomo’ãi Telemetry-pe.
-about-telemetry-fetch-stack-symbols = Eguerujey tembiapoite réra jepytaite ojo'áva rehegua
+about-telemetry-fetch-stack-symbols = Eguerujey tembiapoite réra jepytaite ojo’áva rehegua
 about-telemetry-hide-stack-symbols = Ehechauka mba’ekuaarã mbojo’áva oĩmba’ỹva
 # Selects the correct release version
 # Variables:
@@ -132,7 +132,7 @@ about-telemetry-captured-stacks-title = { $stackKey } (japyhypyre rehegua: { $ca
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Jehaipy itapykuéva #{ $lateWriteCount }
-about-telemetry-stack-title = Mbojo'apy:
+about-telemetry-stack-title = Mbojo’apy:
 about-telemetry-memory-map-title = Mandu’arenda mba’era’ãnga:
 about-telemetry-error-fetching-symbols = Oiko peteĩ jejavy eguerusejeývo umi ta’ãnga’i. Ehechajey eimépa ñandutípe ha eha’ãjey upe rire.
 about-telemetry-time-stamp-header = ára papaha

@@ -68,7 +68,7 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã emyandy hag̃ua koichagua.
 feature-disable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã emboguete hag̃ua koichagua.
 should-restart-title = Ñepyrũjey { -brand-short-name }
-should-restart-ok = Emoñepyrũjey { -brand-short-name } ko'ág̃a
+should-restart-ok = Emoñepyrũjey { -brand-short-name } ko’ág̃a
 cancel-no-restart-button = Heja
 restart-later = Emoñepyrũjey ag̃ave
 
@@ -134,7 +134,7 @@ get-started-configured = Eike { -sync-brand-short-name } eguerohoryvévape
 always-check-default =
     .label = Ehecha tapia ha’épa { -brand-short-name } kundaha ypykuéva
     .accesskey = y
-is-default = { -brand-short-name } ko'ág̃a nde hekaha ypykuéva
+is-default = { -brand-short-name } ko’ág̃a nde hekaha ypykuéva
 is-not-default = { -brand-short-name } ndaha’éi kundahára ypykuéva
 set-as-my-default-browser =
     .label = Ejapo chugui yjypykuéva…
@@ -175,8 +175,8 @@ browser-containers-settings =
 containers-disable-alert-title = ¿Emmbotypaite tendayke guerekoha pegua?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Embotýramo ko'ág̃a umi guerekoha rendayke, tendayke guerekoha { $tabCount } oñembotýta. ¿Embotyse añetehápe tendayke guerekoha?
-       *[other] Embotýramo tendayke guerekoha ko'ág̃a, umi tendayke guerekoha { $tabCount } oñembotýta. ¿Embotyse añetehápe tendayke guerekoha?
+        [one] Embotýramo ko’ág̃a umi guerekoha rendayke, tendayke guerekoha { $tabCount } oñembotýta. ¿Embotyse añetehápe tendayke guerekoha?
+       *[other] Embotýramo tendayke guerekoha ko’ág̃a, umi tendayke guerekoha { $tabCount } oñembotýta. ¿Embotyse añetehápe tendayke guerekoha?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -251,7 +251,7 @@ check-user-spelling =
 files-and-applications-title = Marandurenda ha Tembipuru’i
 download-header = Ñemboguejy
 download-save-to =
-    .label = Marandurenda ñongatu ko'ápe
+    .label = Marandurenda ñongatu ko’ápe
     .accesskey = v
 download-choose-folder =
     .label =
@@ -400,7 +400,7 @@ performance-title = Mba’eaporã
 performance-use-recommended-settings-checkbox =
     .label = Eipuru ñemboheko tembiapokue oje’epyréva
     .accesskey = U
-performance-use-recommended-settings-desc = Ko'ã ñemoĩporã oñombojuehe hardware ha ne mohendaha apopyvusu rembiapo rehe.
+performance-use-recommended-settings-desc = Ko’ã ñemoĩporã oñombojuehe hardware ha ne mohendaha apopyvusu rembiapo rehe.
 performance-settings-learn-more = Kuaave
 performance-allow-hw-accel =
     .label = Hardware mbopya’eha oĩmba vove jepuru

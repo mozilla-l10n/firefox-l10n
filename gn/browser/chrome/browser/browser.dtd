@@ -215,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Techaukaha">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Kuatiarogue mbojoapy">
-<!ENTITY editThisBookmarkCmd.label "Ko techaukaha mbosako'i">
+<!ENTITY editThisBookmarkCmd.label "Ko techaukaha mbosako’i">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Tendayke mbojoapy techaukaháre…">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Ovetã ñemi pyahu">
 <!ENTITY newPrivateWindow.accesskey "W">
 
-<!ENTITY editMenu.label         "Mbosako'i">
+<!ENTITY editMenu.label         "Mbosako’i">
 <!ENTITY editMenu.accesskey       "E">
 <!ENTITY undoCmd.label            "Mboguevi">
 <!ENTITY undoCmd.key            "Z">
@@ -712,7 +712,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Oiko'ỹva (2×)">
+<!ENTITY mediaPlaybackRate200x2.label "Oiko’ỹva (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "O">
 <!ENTITY mediaLoop.label             "Mosãha">
 <!ENTITY mediaLoop.accesskey         "M">
@@ -784,7 +784,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Kuatiarogue mbohekoha">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "Mboheko'ỹva">
+<!ENTITY pageStyleNoStyle.label "Mboheko’ỹva">
 <!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "Kuatiarogue mbohekoha ypygua">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
@@ -793,8 +793,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Ovetã apysẽ mbotyreko jeguerohoryvéva mbosako'i…">
-<!ENTITY editPopupSettings.label "Ovetã apysẽ mbotyreko poravorã mbosako'i…">
+<!ENTITY editPopupSettingsUnix.label "Ovetã apysẽ mbotyreko jeguerohoryvéva mbosako’i…">
+<!ENTITY editPopupSettings.label "Ovetã apysẽ mbotyreko poravorã mbosako’i…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -821,7 +821,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Mohu’ã">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Ehechauka mbosako'iha eñongatúvo">
+<!ENTITY editBookmark.showForNewBookmarks.label       "Ehechauka mbosako’iha eñongatúvo">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
@@ -890,7 +890,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;-pe jeike…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Embojuehe ko'ág̃a">
+<!ENTITY syncSyncNowItem.label        "Embojuehe ko’ág̃a">
 <!ENTITY syncSyncNowItemSyncing.label "Embojuehehína…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;…-pe jeikejey">

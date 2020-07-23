@@ -23,7 +23,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Ikatu oñembogue, oñemongu’e térã nomoneĩri marandurenda ijeikerã.</li></ul>">
 
 <!ENTITY generic.title "Ndaikatúi ojejapopa mba’ejerure">
-<!ENTITY generic.longDesc "<p>Ko'ag̃aite ndaipóri marandu jo'a ojepurukuaáva ko apañuãi térã jejavýpe g̃uara.</p>">
+<!ENTITY generic.longDesc "<p>Ko’ag̃aite ndaipóri marandu jo’a ojepurukuaáva ko apañuãi térã jejavýpe g̃uara.</p>">
 
 <!ENTITY malformedURI.title "Kundaharape ndoikói">
 <!ENTITY malformedURI.longDesc "<p>Kundaharape me’ẽpyre ndoĩri peteĩ ysaja ojekuaávape. Ehechajey jejavy Kundaharape rendápe ha eha’ãjey.</p>">

@@ -71,7 +71,7 @@ sanitize-everything-undo-warning = Ko tembiapo ndaikatúi emboguevi.
 window-close =
     .key = w
 sanitize-button-ok =
-    .label = Emopotĩ ko'ág̃a
+    .label = Emopotĩ ko’ág̃a
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
