@@ -18,6 +18,7 @@
 <!ENTITY newListCmd.accesskey                           "s">
 <!ENTITY newAddressBookCmd.label                        "Adresų knyga…">
 <!ENTITY newAddressBookCmd.accesskey                    "k">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP katalogas…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "t">
 <!ENTITY newMessageCmd.label                            "Rašyti">

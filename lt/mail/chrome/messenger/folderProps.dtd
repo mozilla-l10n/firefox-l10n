@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Vardas:">
 <!ENTITY folderProps.name.accesskey              "V">
+<!ENTITY folderProps.color.label                 "Piktogramos spalva:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Atkurti numatytą spalvą">
 <!ENTITY folderProps.location.label              "Vieta:">
 <!ENTITY folderProps.location.accesskey          "t">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Teisės">
 <!ENTITY privileges.button.accesskey             "T">
 <!ENTITY permissionsDesc.label                   "Jums leidžiama:">
+<!ENTITY folderOtherUsers.label                  "Kiti, turintys prieigą prie šio aplanko:">
 <!ENTITY folderType.label                        "Aplanko tipas:">
 
 <!ENTITY folderQuotaTab.label                    "Kvota">

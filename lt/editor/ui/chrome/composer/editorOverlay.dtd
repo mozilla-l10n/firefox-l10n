@@ -208,6 +208,7 @@
 <!ENTITY alignJustify.tooltip "Lygiuoti abu kraštus">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Padėtis:">
 <!ENTITY layer.tooltip "Sluoksniai">
 <!ENTITY decreaseZIndex.label "Perkelti į užnugarį">
 <!ENTITY layerSendToBack.tooltip "Perkelti į užnugarį">
@@ -313,6 +314,7 @@
 <!ENTITY TextColorButton.tooltip "Pasirinkti teksto spalvą">
 <!ENTITY BackgroundColorButton.tooltip "Parinkti fono spalvą">
 <!ENTITY throbber.tooltip "Atverti „&vendorShortName;“ tinklalapį">
+<!ENTITY HighlightColorButton.label "Žymeklis">
 <!ENTITY HighlightColorButton.tooltip "Parinkti teksto žymėjimo spalvą">
 
 <!-- Editor toolbar -->
@@ -328,6 +330,7 @@
 <!ENTITY italicToolbarCmd.tooltip "Kursyvas">
 <!ENTITY underline.label "Pabrauktas">
 <!ENTITY underlineToolbarCmd.tooltip "Pabrauktas">
+<!ENTITY bullets.label "Ženkleliai">
 <!ENTITY bulletListToolbarCmd.tooltip "Ženklinti (panaikinti ženklinimą)">
 <!ENTITY numbers.label "Skaitmenys">
 <!ENTITY numberListToolbarCmd.tooltip "Numeruoti (panaikinti numeravimą)">

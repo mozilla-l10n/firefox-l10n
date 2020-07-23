@@ -68,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "N">
 <!ENTITY newsrcFilePath.label "Vieta diske, kur laikomas naujienų „newsrc“ failas:">
 <!ENTITY newsrcPicker.label "Parinkti „newsrc“ failą">
+<!ENTITY newsrcFilePath1.label "„News.rc“ failas:">
+<!ENTITY newsrcPicker1.label "Parinkite „News.rc“ failą">
 <!ENTITY abbreviate.label "Naujienų grupių vardus pašto aplankų polangyje rodyti:">
 <!ENTITY abbreviateOn.label "pilnus (pvz., „netscape.public.mozilla.mail-news“)">
 <!ENTITY abbreviateOff.label "sutrumpintus (pvz., „n.p.m.mail-news“)">
@@ -75,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "P">
 <!ENTITY serverDefaultCharset2.label "Numatytoji teksto koduotė:">
 <!ENTITY localPath.label "Aplankas diske, kuriame laikomi šios paskyros laiškai ir kiti duomenys:">
+<!ENTITY localPath1.label "Vietinis aplankas">
 <!ENTITY localFolderPicker.label "Vietinio aplanko parinkimas">
 <!ENTITY browseFolder.label "Parinkti…">
 <!ENTITY browseFolder.accesskey "r">
