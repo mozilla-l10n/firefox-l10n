@@ -25,7 +25,7 @@
 <!ENTITY dnsNotFound.pageTitle "Mohendahavusu ndojejuhúiva">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Oĩ apañuãi ejuhu hag̃ua ko tenda.">
-<!ENTITY dnsNotFound.longDesc1 "<strong>Ne kundaharape oĩporãrõ, ko'ápe oĩ ambue mba’e eipurukuaáva:</strong>
+<!ENTITY dnsNotFound.longDesc1 "<strong>Ne kundaharape oĩporãrõ, ko’ápe oĩ ambue mba’e eipurukuaáva:</strong>
 <ul>
  <li>Eha’ãjey uperire.</li>
  <li>Ehechajey ne ñanduti joajuha.</li>
