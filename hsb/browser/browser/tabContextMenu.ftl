@@ -66,13 +66,13 @@ tab-context-close-multiple-tabs =
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Začinjeny rajtark wočinić
-            [one] Začinjeny rajtark wočinić
-            [two] Začinjenej rajtarkaj wočinić
-            [few] Začinjene rajtarki wočinić
-           *[other] Začinjene rajtarki wočinić
+            [1] { $tabCount } začinjeny rajtark wočinić
+            [one] { $tabCount } začinjeny rajtark wočinić
+            [two] { $tabCount } začinjenej rajtarkaj wočinić
+            [few] { $tabCount } začinjene rajtarki wočinić
+           *[other] { $tabCount } začinjene rajtarki wočinić
         }
-    .accesskey = Z
+    .accesskey = z
 close-tab =
     .label = Rajtark začinić
     .accesskey = z
@@ -88,20 +88,20 @@ move-tab =
 tab-context-close-tabs =
     .label =
         { $tabCount ->
-            [1] $tabCount rajtark začinić
-            [one] $tabCount rajtark začinić
-            [two] $tabCount rajtarkaj začinić
-            [few] $tabCount rajtarki začinić
-           *[other] $tabCount rajtarkow začinić
+            [1] { $tabCount } rajtark začinić
+            [one] { $tabCount } rajtark začinić
+            [two] { $tabCount } rajtarkaj začinić
+            [few] { $tabCount } rajtarki začinić
+           *[other] { $tabCount } rajtarkow začinić
         }
     .accesskey = r
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] $tabCount rajtark přesunyć
-            [one] $tabCount rajtark přesunyć
-            [two] $tabCount rajtarkaj přesunyć
-            [few] $tabCount rajtarki přesunyć
-           *[other] $tabCount rajtarkow přesunyć
+            [1] { $tabCount } rajtark přesunyć
+            [one] { $tabCount } rajtark přesunyć
+            [two] { $tabCount } rajtarkaj přesunyć
+            [few] { $tabCount } rajtarki přesunyć
+           *[other] { $tabCount } rajtarkow přesunyć
         }
     .accesskey = s
