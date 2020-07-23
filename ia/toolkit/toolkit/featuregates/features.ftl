@@ -55,6 +55,10 @@ experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
     .label = Utensiles de disveloppator: simulation schema colores
+experimental-features-devtools-execution-context-selector =
+    .label = Utensiles de disveloppator: selector del contexto de execution
+experimental-features-devtools-compatibility-panel =
+    .label = Utensiles de disveloppator: quadro compatibilitate
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=lax predefinite
@@ -73,3 +77,6 @@ experimental-features-abouthome-startup-cache-description = Cache pro le content
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Tracta cookies del mesme dominio, ma con differente schemas (e.g. http://example.com e https://example.com) como inter-sitos in vice del mesme-sito. Meliora le securitate, ma pote introducer problemas.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Utensiles de disveloppator: depuration de obrero de servicio

@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Imprimer
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+        [one] { $sheetCount } folio de papiro
+       *[other] { $sheetCount } folios de papiro
+    }
 printui-page-range-all = Toto
 printui-page-range-custom = Personalisate
 printui-page-range-label = Paginas
@@ -24,5 +31,6 @@ printui-scale = Scala
 printui-scale-fit-to-page = Adaptar al pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scala
+printui-system-dialog-link = Stampa per le fenestra de dialogo del systema…
 printui-primary-button = Imprimer
 printui-cancel-button = Cancellar
