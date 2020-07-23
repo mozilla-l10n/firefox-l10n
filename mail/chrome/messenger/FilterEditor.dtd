@@ -36,7 +36,7 @@
 <!ENTITY filterActionOrder.label "Parodyti vykdymo tvarką">
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Perkelti į aplanką:">
+<!ENTITY moveMessage.label "Perkelti pranešimus į;">
 <!ENTITY copyMessage.label "Nukopijuoti į aplanką:">
 <!ENTITY forwardTo.label "Persiųsti:">
 <!ENTITY replyWithTemplate.label "Atsakyti naudojantis šablonu">

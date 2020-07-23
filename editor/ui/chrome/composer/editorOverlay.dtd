@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Šriftas">
 <!ENTITY FontFaceSelect.tooltip "Parinkti šriftą">
 <!ENTITY fontfaceMenu.label "Šriftas">
 <!ENTITY fontfaceMenu.accesskey "Š">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Šrifto dydis">
 <!ENTITY FontSizeSelect.tooltip "Pasirinkti šrifto dydį">
 <!ENTITY decreaseFontSize.label "Mažesnis">
 <!ENTITY decreaseFontSize.accesskey "M">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Sąrašo savybės…">
 <!ENTITY listPropsCmd.accesskey "S">
 
+<!ENTITY ParagraphSelect.title "Pastraipa">
 <!ENTITY ParagraphSelect.tooltip "Pasirinkti pastraipos formatą">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Paprastas tekstas">
@@ -206,7 +209,9 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Sluoksniai">
+<!ENTITY decreaseZIndex.label "Perkelti į užnugarį">
 <!ENTITY layerSendToBack.tooltip "Perkelti į užnugarį">
+<!ENTITY increaseZIndex.label "Perkelti į priekį">
 <!ENTITY layerBringToFront.tooltip "Perkelti į priekį">
 
 <!ENTITY increaseIndent.label "Padidinti įtrauką">
@@ -304,28 +309,43 @@
 <!ENTITY linkToolbarCmd.tooltip "Įterpti saitą arba taisyti pažymėto saito savybes">
 <!ENTITY anchorToolbarCmd.label "Žymė">
 <!ENTITY anchorToolbarCmd.tooltip "Įterpti žymę arba taisyti pažymėtos žymės savybes">
+<!ENTITY colorButtons.title "Spalvos">
 <!ENTITY TextColorButton.tooltip "Pasirinkti teksto spalvą">
 <!ENTITY BackgroundColorButton.tooltip "Parinkti fono spalvą">
 <!ENTITY throbber.tooltip "Atverti „&vendorShortName;“ tinklalapį">
-<!ENTITY throbber.tooltip2 "Atverti „&brandShortName;“ pradžios tinklalapį">
 <!ENTITY HighlightColorButton.tooltip "Parinkti teksto žymėjimo spalvą">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Šrifto dydis">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nustatyti šrifto dydį">
+<!ENTITY smaller.label "Mažesnis">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Sumažinti šriftą">
+<!ENTITY larger.label "Didesnis">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Padidinti šriftą">
+<!ENTITY bold.label "Pusjuodis">
 <!ENTITY boldToolbarCmd.tooltip "Pusjuodis">
+<!ENTITY italic.label "Kursyvas">
 <!ENTITY italicToolbarCmd.tooltip "Kursyvas">
+<!ENTITY underline.label "Pabrauktas">
 <!ENTITY underlineToolbarCmd.tooltip "Pabrauktas">
 <!ENTITY bulletListToolbarCmd.tooltip "Ženklinti (panaikinti ženklinimą)">
+<!ENTITY numbers.label "Skaitmenys">
 <!ENTITY numberListToolbarCmd.tooltip "Numeruoti (panaikinti numeravimą)">
+<!ENTITY outdent.label "Išsikišimas">
 <!ENTITY outdentToolbarCmd.tooltip "Sumažinti įtrauką">
+<!ENTITY indent.label "Įtrauka">
 <!ENTITY indentToolbarCmd.tooltip "Padidinti įtrauką">
+<!ENTITY AlignPopupButton.label "Lygiuotė">
 <!ENTITY AlignPopupButton.tooltip "Pasirinkti teksto lygiuotę">
+<!ENTITY InsertPopupButton.label "Įterpti">
 <!ENTITY InsertPopupButton.tooltip "Įterpti saitą, žymę, horizontalę arba lentelę">
+<!ENTITY alignLeftButton.label "Lygiuoti pagal kairįjį kraštą">
 <!ENTITY alignLeftButton.tooltip "Lygiuoti kairįjį kraštą">
+<!ENTITY alignCenterButton.label "Centruoti">
 <!ENTITY alignCenterButton.tooltip "Centruoti">
+<!ENTITY alignRightButton.label "Lygiuoti pagal dešinįjį kraštą">
 <!ENTITY alignRightButton.tooltip "Lygiuoti dešinįjį kraštą">
+<!ENTITY alignJustifyButton.label "Lygiuoti abu kraštus">
 <!ENTITY alignJustifyButton.tooltip "Lygiuoti abu kraštus">
 
 <!-- Structure Toolbar Context Menu items -->
