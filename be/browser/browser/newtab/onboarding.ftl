@@ -48,6 +48,7 @@ onboarding-cards-dismiss =
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Вітаем у <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-secondary-button-text = Маеце ўліковы запіс?
+onboarding-multistage-import-secondary-button-label = Не зараз
 # Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
 # This support welcome screen showing top sites imported from the user's default browser.
 # Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
