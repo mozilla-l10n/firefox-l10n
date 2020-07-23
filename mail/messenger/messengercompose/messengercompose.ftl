@@ -8,6 +8,9 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Pašalinti lauką { $type }
 #   $type (String) - the type of the addressing row
+remove-address-row-type-label =
+    .tooltiptext = Pašalinti „{ $type }“ lauką
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -36,6 +39,28 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Perkelti į BCC
     .accesskey = b
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    .value =
+        { $count ->
+            [1] { $count } priedų
+            [one] { $count } priedas
+            [few] { $count } priedai
+           *[other] { $count } priedų
+        }
+    .accesskey = m
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [1] { $count } priedai
+            [one] { $count }priedas
+            [few] { $count }priedai
+           *[other] { $count } priedų
+        }
+#   { attachment-bucket-count.accesskey } - Do not localize this message.
+key-toggle-attachment-pane =
+    .key = { attachment-bucket-count.accesskey }
 button-return-receipt =
     .label = Patvirtinimas
     .tooltiptext = Paprašyti pristatymo patvirtinimo šiam pranešimui
