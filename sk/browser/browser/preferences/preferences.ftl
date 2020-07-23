@@ -240,6 +240,10 @@ translate-attribution = Preložené pomocou služby <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Výnimky…
     .accesskey = m
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Formátovať dátumy, časy, čísla a jednotky podľa nastavenia jazyka „{ $localeName }“ z operačného systému.
 check-user-spelling =
     .label = Kontrolovať pravopis počas písania
     .accesskey = K
@@ -288,6 +292,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Použiť { $app-name } (predvolená)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Použiť predvolenú aplikáciu macOS
+            [windows] Použiť predvolenú aplikáciu Windowsu
+           *[other] Použiť predvolenú aplikáciu systému
+        }
 applications-use-other =
     .label = Použiť inú…
 applications-select-helper = Výber pomocnej aplikácie
@@ -496,6 +507,7 @@ home-prefs-topsites-description = Najnavštevovanejšie stránky
 
 home-prefs-recommended-by-header =
     .label = Odporúča { $provider }
+home-prefs-recommended-by-description-update = Výnimočný obsah z celého internetu, vybraný službou { $provider }
 
 ##
 
@@ -794,19 +806,38 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Používať hlavné heslo
     .accesskey = e
+forms-primary-pw-use =
+    .label = Používať hlavné heslo
+    .accesskey = h
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Zmeniť hlavné heslo…
     .accesskey = h
 forms-master-pw-fips-title = Momentálne používate režim FIPS. Tento režim vyžaduje nastavenie hlavného hesla.
+forms-primary-pw-change =
+    .label = Zmeniť hlavné heslo…
+    .accesskey = h
+forms-primary-pw-fips-title = Momentálne sa používa režim FIPS. Režim FIPS vyžaduje nastavenie hlavného hesla.
 forms-master-pw-fips-desc = Heslo sa nepodarilo zmeniť
 
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Ak chcete vytvoriť hlavné heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = vytvoriť hlavné heslo
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Ak chcete vytvoriť hlavné heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = vytvoriť hlavné heslo
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -879,6 +910,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Sledovacie prvky
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Sledovacie prvky sociálnych sietí
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Sledovacie prvky sociálnych sietí, ostatné izolovať
 sitedata-option-block-unvisited =
     .label = Cookies z doposiaľ nenavštívených stránok
 sitedata-option-block-all-third-party =
@@ -961,6 +994,7 @@ content-blocking-etp-strict-desc = Viac blokovaného obsahu zvyšuje pravdepodob
 content-blocking-etp-custom-desc = Vyberte sledovacie prvky a skripty, ktoré chcete blokovať.
 content-blocking-private-windows = Sledovací obsah je blokovaný v súkromných oknách
 content-blocking-cross-site-tracking-cookies = Blokované sú sledovacie cookies
+content-blocking-cross-site-tracking-cookies-plus-isolate = Sledovacie cookies tretích strán, ostatné izolovať
 content-blocking-social-media-trackers = Blokované sú sledovacie prvky sociálnych sietí
 content-blocking-all-cookies = Všetky cookies
 content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
@@ -972,6 +1006,7 @@ content-blocking-fingerprinters = Blokovaná je tvorba odtlačku prehliadača
 content-blocking-warning-title = Pozor!
 content-blocking-warning-description = Blokovanie obsahu môže spôsobiť rozbitie niektorých webových stránok. Na dôveryhodných stránkach môžete blokovanie jednoducho vypnúť.
 content-blocking-learn-how = Ďalšie informácie
+content-blocking-and-isolating-etp-warning-description = Blokovanie sledovacích prvkov a izolácia cookies môžu ovplyvniť fungovanie niektorých stránok. Pre načítanie všetkého obsahu obnovte stránku s povolenými sledovacími prvkami.
 content-blocking-warning-learn-how = Ďalšie informácie
 content-blocking-reload-description = Aby sa zmeny prejavili, musíte obnoviť vaše karty.
 content-blocking-reload-tabs-button =
@@ -1150,6 +1185,10 @@ space-alert-under-5gb-ok-button =
     .label = OK, rozumiem
     .accesskey = K
 space-alert-under-5gb-message = Aplikácii { -brand-short-name } dochádza miesto na disku. Obsah webovej stránky sa nemusí zobrazovať správne. Kliknutím na “Ďalšie informácie” sa dozviete viac o optimalizovaní vyžitia disku pre lepší zážitok z prehliadania.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = Ďalšie informácie
 
 ## The following strings are used in the Download section of settings
 
