@@ -4,4 +4,4 @@
 
 unknowncontenttype-handleinternally =
     .label = Avaa { -brand-short-name(case: "inessive") }
-    .accesskey = a
+    .accesskey = v
