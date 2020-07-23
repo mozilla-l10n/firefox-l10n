@@ -787,10 +787,20 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Gunakan sandi utama
     .accesskey = m
+forms-primary-pw-use =
+    .label = Gunakan Sandi Utama
+    .accesskey = S
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Ubah Sandi Utama…
     .accesskey = U
 forms-master-pw-fips-title = Anda sedang dalam mode FIPS. Mode ini mewajibkan Sandi Utama harus diisi.
+forms-primary-pw-change =
+    .label = Ubah Sandi Utama…
+    .accesskey = U
+forms-primary-pw-fips-title = Anda sedang dalam mode FIPS. Mode ini mewajibkan Sandi Utama harus diisi.
 forms-master-pw-fips-desc = Sandi Gagal Diubah
 
 ## OS Authentication dialog
@@ -802,6 +812,13 @@ master-password-os-auth-dialog-message-win = Untuk membuat Kata Sandi Utama, mas
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = membuat Kata Sandi Utama.
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Untuk membuat Sandi Utama, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = membuat Sandi Utama
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
