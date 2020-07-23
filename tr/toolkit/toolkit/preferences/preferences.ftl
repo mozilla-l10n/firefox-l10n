@@ -14,6 +14,7 @@ pw-change2empty-in-fips-mode = Şu anda FIPS kipindesiniz. FIPS için boş olmay
 failed-pp-change = Ana parola değiştirilemedi.
 incorrect-pp = Ana parolanızı doğru şekilde girmediniz. Lütfen tekrar deneyin.
 pp-change-ok = Ana parola başarıyla değiştirildi.
+pp-erased-ok = Ana parolanızı sildiniz. { pp-empty-warning }
 pp-not-wanted = Uyarı! Ana parola kullanmamaya karar verdiniz. { pp-empty-warning }
 pp-change2empty-in-fips-mode = Şu anda FIPS kipindesiniz. FIPS için boş olmayan bir ana parola gereklidir.
 pw-change-success-title = Parola değiştirme başarılı
