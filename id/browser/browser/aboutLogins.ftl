@@ -133,6 +133,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = mengekspor info mas
 ## Master Password notification
 
 master-password-notification-message = Masukkan kata sandi utama Anda untuk melihat info masuk dan kata sandi yang disimpan
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Silakan masukkan Sandi Utama Anda untuk melihat info masuk dan kata sandi yang disimpan
 master-password-reload-button =
     .label = Masuk
     .accesskey = M

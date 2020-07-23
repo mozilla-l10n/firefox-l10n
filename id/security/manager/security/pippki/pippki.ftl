@@ -8,7 +8,6 @@ password-quality-meter = Ukuran kualitas sandi
 
 change-password-window =
     .title = Ubah Sandi Utama
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Perangkat Keamanan: { $tokenName }
@@ -21,9 +20,18 @@ change-password-reenter = Sandi baru (ulangi):
 reset-password-window =
     .title = Setel Ulang Sandi Utama
     .style = width: 40em
+
+## Reset Primary Password dialog
+
+reset-primary-password-window =
+    .title = Setel Ulang Sandi Utama
+    .style = width: 40em
 reset-password-button-label =
     .label = Setel Ulang
 reset-password-text = Jika Anda menyetel ulang sandi utama, semua sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan menyetel ulang sandi utama?
+reset-primary-password-text = Jika Anda menyetel ulang sandi utama, semua sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan menyetel ulang Sandi Utama?
+pippki-reset-password-confirmation-title = Setel Ulang Sandi Utama
+pippki-reset-password-confirmation-message = Sandi Utama telah disetel ulang.
 
 ## Downloading cert dialog
 

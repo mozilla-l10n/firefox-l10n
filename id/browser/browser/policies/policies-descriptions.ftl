@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Cegah { -brand-short-name } menjalankan kajian.
 policy-DisableForgetButton = Cegah akses ke tombol Lupakan.
 policy-DisableFormHistory = Jangan ingat riwayat pencarian dan formulir.
 policy-DisableMasterPasswordCreation = Jika ya, sandi utama tidak bisa dibuat.
+policy-DisablePrimaryPasswordCreation = Jika ya, Sandi Utama tidak bisa dibuat.
 policy-DisablePasswordReveal = Jangan izinkan untuk menampilkan kata sandi dalam info masuk tersimpan.
 policy-DisablePocket = Nonaktifkan fitur untuk menyimpan laman web ke Pocket.
 policy-DisablePrivateBrowsing = Nonaktifkan Penjelajahan Pribadi.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Kembalikan ke perilaku
 
 policy-LocalFileLinks = Izinkan situs web tertentu untuk bertaut dengan berkas lokal.
 policy-MasterPassword = Membutuhkan atau mencegah penggunaan kata sandi utama.
+policy-PrimaryPassword = Membutuhkan atau mencegah penggunaan Sandi Utama.
 policy-NetworkPrediction = Aktifkan atau nonaktifkan prediksi jaringan (DNS prefetching).
 policy-NewTabPage = Aktifkan atau nonaktifkan laman Tab Baru.
 policy-NoDefaultBookmarks = Nonaktifkan pembuatan markah default yang dibundel dengan { -brand-short-name } serta Markah Cerdas (Sering Mampir, Tag Terbaru). Catatan: kebijakan ini hanya efektif jika digunakan sebelum menjalankan profil pertama.
