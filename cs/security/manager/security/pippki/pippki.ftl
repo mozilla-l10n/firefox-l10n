@@ -8,7 +8,6 @@ password-quality-meter = Kvalita hesla
 
 change-password-window =
     .title = Změna hlavního hesla
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Bezpečnostní zařízení: { $tokenName }
@@ -21,9 +20,18 @@ change-password-reenter = Nové heslo (znovu):
 reset-password-window =
     .title = Obnovení hlavního hesla
     .style = width: 40em
+
+## Reset Primary Password dialog
+
+reset-primary-password-window =
+    .title = Obnovení hlavního hesla
+    .style = width: 40em
 reset-password-button-label =
     .label = Obnovit
 reset-password-text = Pokud obnovíte hlavní heslo, všechna vaše uložená hesla z webových stránek a e-mailů, vyplněná data z formulářů, osobní certifikáty a klíče budou ztraceny. Chcete přesto hlavní heslo obnovit?
+reset-primary-password-text = Pokud obnovíte hlavní heslo, všechna vaše uložená hesla z webových stránek a e-mailů, vyplněná data z formulářů, osobní certifikáty a klíče budou ztraceny. Chcete přesto hlavní heslo obnovit?
+pippki-reset-password-confirmation-title = Obnovení hlavního hesla
+pippki-reset-password-confirmation-message = Vaše hlavní heslo bylo obnoveno.
 
 ## Downloading cert dialog
 
