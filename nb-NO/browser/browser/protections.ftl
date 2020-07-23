@@ -22,19 +22,6 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } fortsetter å  blokkere sporere i private vindu, men holder ikke oversikt over hva som ble blokkert.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Sporere { -brand-short-name } blokkerte denne uken
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Beskyttelsesnivået er satt til <b>standard</b>
-    .title = Gå til personverninnstillinger
-protection-report-header-details-strict = Beskyttelsesnivået er satt til <b>streng</b>
-    .title = Gå til personverninnstillinger
-protection-report-header-details-custom = Beskyttelsesnivået er satt til <b>tilpasset</b>
-    .title = Gå til personverninnstillinger
-protection-report-page-title = Personvernbeskyttelser
-protection-report-content-title = Personvernbeskyttelser
-etp-card-title = Utvidet sporingsbeskyttelse
-etp-card-content = Sporere følger deg rundt på nettet for å samle informasjon om surfevanene og interessene dine. { -brand-short-name } blokkerer mange av disse sporere og andre ondsinnede skript.
 protection-report-webpage-title = Sikkerhetsoversikt
 protection-report-page-content-title = Sikkerhetsoversikt
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -60,8 +47,8 @@ tracker-tab-title = Sporings-innhold
 tracker-tab-description = Nettsteder kan laste inn eksterne annonser, videoer og annet innhold med sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke. <a data-l10n-name="learn-more-link">Les mer</a>
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters samler innstillinger fra nettleseren din og datamaskinen for å opprette en profil av deg. Ved hjelp av dette digitale fingeravtrykket kan de spore deg på forskjellige nettsteder. <a data-l10n-name="learn-more-link">Les mer</a>
-cryptominer-tab-title = Kryptominere
-cryptominer-tab-content = Kryptominere bruker systemets datakraft for å utvinne digitale penger. Kryptomineringsskript tapper batteriet, gjør datamaskinen tregere og kan øke strømregningen. <a data-l10n-name="learn-more-link">Les mer</a>
+cryptominer-tab-title = Kryptoutvinnere
+cryptominer-tab-content = Kryptoutvinnere bruker systemets datakraft for å utvinne digitale penger. Kryptoutvinningsskript tapper batteriet, gjør datamaskinen tregere og kan øke strømregningen. <a data-l10n-name="learn-more-link">Les mer</a>
 protections-close-button2 =
     .aria-label = Lukk
     .title = Lukk
@@ -69,12 +56,9 @@ mobile-app-title = Blokker annonsesporere på flere enheter
 mobile-app-card-content = Bruk mobilnettleseren med innebygd beskyttelse mot annonsesporing.
 mobile-app-links = { -brand-product-name } Nettleser for <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Glem aldri et passord igjen
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Passordbehandling
 lockwise-header-content = { -lockwise-brand-name } lagrer passordene dine sikkert i nettleseren din.
 lockwise-header-content-logged-in = Lagre passordene dine sikkert og synkroniser dem med alle enhetene dine.
-protection-report-view-logins-button = Vis innlogginger
-    .title = Gå til lagrede innlogginger
 protection-report-save-passwords-button = Lagre passord
     .title = Lagre passord i { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Behandle passord
@@ -82,14 +66,6 @@ protection-report-manage-passwords-button = Behandle passord
 lockwise-mobile-app-title = Ta med deg passordene dine overalt
 lockwise-no-logins-card-content = Bruk passord som er lagret i { -brand-short-name } på hvilken som helst enhet.
 lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Passord lagret sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
-       *[other] Passord lagret sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
-    }
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -109,19 +85,10 @@ lockwise-scanned-text-no-breached-logins =
 lockwise-how-it-works-link = Hvordan det fungerer
 turn-on-sync = Slå på { -sync-brand-short-name }…
     .title = Gå til innstillinger for sync
-manage-connected-devices = Behandle enheter…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Koblet til { $count } enhet
-       *[other] Koblet til { $count } enheter
-    }
 monitor-title = Se opp for på datalekkasjer.
 monitor-link = Hvordan det virker
 monitor-header-content-no-account = Sjekk { -monitor-brand-name } for å se om du har vært en del av en kjent datalekkasje og få varsler om nye lekkasjer.
 monitor-header-content-signed-in = { -monitor-brand-name } advarer deg om informasjonen din har dukket opp i en kjent datalekkasje.
-monitor-sign-up = Registrer deg for datalekkasjevarsler
 monitor-sign-up-link = Registrer deg for datalekkasjevarsler
     .title = Registrer deg for datalekkasjevarsler på { -monitor-brand-name }
 auto-scan = Skannes automatisk i dag
@@ -162,15 +129,6 @@ info-exposed-passwords-found =
     { $count ->
         [one] Passord eksponert fra alle datalekkasjer.
        *[other] Passord eksponert fra alle datalekkasjer.
-    }
-full-report-link = Se hele rapporten på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Lagret innlogging kan ha blitt eksponert i en datalekkasje. Endre dette passordet for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
-       *[other] Lagrede innlogginger kan ha blitt eksponert i en datalekkasje. Endre disse passordene for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
@@ -243,9 +201,9 @@ bar-tooltip-fingerprinter =
            *[other] { $count } fingerprinters ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
-    .title = Kryptominere
+    .title = Kryptoutvinnere
     .aria-label =
         { $count ->
             [one] { $count } kryptominer ({ $percentage }%)
-           *[other] { $count } kryptominere ({ $percentage }%)
+           *[other] { $count } kryptoutvinnere ({ $percentage }%)
         }

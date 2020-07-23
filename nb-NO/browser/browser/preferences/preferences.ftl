@@ -998,7 +998,7 @@ content-blocking-unvisited-cookies = Infokapsler fra ubesøkte nettsteder
 content-blocking-all-windows-trackers = Kjente sporere i alle vinduer
 content-blocking-all-windows-tracking-content = Sporingsinnhold i alle vinduer
 content-blocking-all-third-party-cookies = Alle tredjeparts infokapsler
-content-blocking-cryptominers = Kryptominere
+content-blocking-cryptominers = Kryptoutvinnere
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Se opp!
 content-blocking-warning-description = Blokkering av innhold kan føre til at noen nettsteder slutter å fungere. Det er enkelt å deaktivere blokkering for nettsteder du stoler på.
@@ -1029,7 +1029,7 @@ content-blocking-expand-section =
     .tooltiptext = Mer informasjon
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Kryptominere
+    .label = Kryptoutvinnere
     .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.

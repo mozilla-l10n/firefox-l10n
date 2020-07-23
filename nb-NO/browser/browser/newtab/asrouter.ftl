@@ -197,7 +197,7 @@ cfr-doorhanger-socialtracking-description = Ditt personvern betyr noe. { -brand-
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokkerte en fingerprinter på denne siden
 cfr-doorhanger-fingerprinters-description = Ditt personvern betyr noe. { -brand-short-name } blokkerer nå fingerprinters, som samler deler av unikt identifiserbar informasjon om enheten din for å spore deg.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokkerte en kryptominer på denne siden
-cfr-doorhanger-cryptominers-description = Ditt personvern betyr noe. { -brand-short-name } blokkerer nå kryptominere, som bruker systemets datakraft til å utvinne digitale penger.
+cfr-doorhanger-cryptominers-description = Ditt personvern betyr noe. { -brand-short-name } blokkerer nå kryptoutvinnere, som bruker systemets datakraft til å utvinne digitale penger.
 
 ## Enhanced Tracking Protection Milestones
 
