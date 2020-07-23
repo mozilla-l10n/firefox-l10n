@@ -48,10 +48,14 @@ experimental-features-web-api-link-preload-description = <a data-l10n-name="rel"
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = საშუალებას იძლევა ფოკუსში მოქცევისას გაფორმება მიენიჭოს ისეთ ელემენტებს, როგორებიცაა ღილაკები და ველების სამართავები მხოლოდ მაშინ, თუ ფოკუსში მოსაქცევად კლავიატურაა გამოყენებული (მაგალითად  tab-ღილაკით გადასვლისას) და არა თაგვი ან სხვა მიმთითებელი მოწყობილობა. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1617600</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = საერთო <a data-l10n-name="mdn-beforeinput">beforeinput</a>-ხდომილებას აამოქმედებს <a data-l10n-name="mdn-input">&lt;input&gt;</a> და <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> ელემენტები, ან ნებისმიერი <a data-l10n-name="mdn-contenteditable">contenteditable</a>-თვისების მქონე დაუყოვნებლივ, სანამ მნიშვნელობა შეეცვლება. ამ ხდომილებით შესაძლებლობა ეძლევა ვებაპლიკაციებს, ჩაანაცვლოს ბრაუზერის ნაგულისხმევი ქცევა მომხმარებლის მოქმედებისას, მაგ. ვებაპს შეეძლება გაუუქმოს მომხმარებელს შეტანის საშუალება გარკვეული სიმბოლოებისთვის ან გადააკეთოს ჩასმული ტექსტის გაფორმება, დასაშვები გაფორმებით.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
