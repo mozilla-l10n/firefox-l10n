@@ -29,6 +29,7 @@ experimental-features-web-gpu2 =
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Når denne funksjonen er aktivert, støtter { -brand-short-name } AVIF-format (AV1). Dette er et stillbildefilformat som utnytter mulighetene til AV1-videokomprimeringsalgoritmer for å redusere bildestørrelse. Se <a data-l10n-name="bugzilla">bug 1443863</a> for mer informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
