@@ -30,6 +30,22 @@ experimental-features-web-gpu-description2 = ახალი API უზრუნ
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = ამ შესაძლებლობის ჩართვით, { -brand-short-name } მხარს უჭერს AV1 Image File (AVIF) სახეობას. ესაა სურათის ფაილის სახეობა, რომელიც იყენებს AV1 ვიდეო შეკუმშვის ალგორითმის შესაძლებლობებს, ზომის შესამცირებლად. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1443863</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Developer Tools: Color Scheme Simulation
+experimental-features-devtools-execution-context-selector =
+    .label = Developer Tools: Execution Context Selector
+experimental-features-devtools-compatibility-panel =
+    .label = Developer Tools: Compatibility Panel
+experimental-features-devtools-compatibility-panel-description = გვერდითი არე საიტის დაკვირვების ხელსაწყოში, რომელიც აჩვენებს დაწვრილებით მონაცემებს აპლიკაციის მრავალ ბრაუზერთთან თავსებადობის მდგომარეობას. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = ფუნთუშები: SameSite=Lax ნაგულისხმევად
@@ -48,3 +64,8 @@ experimental-features-abouthome-startup-cache-description = დროები�
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = განისაზღვროს ფუნთუშები იმავე მისამართიდან, თუმცა განსხვავებული სქემით (მაგ. http://example.com და https://example.com) როგორც „cross-site“ და არა „same-site”. გააუმჯობესებს უსაფრთხოებას, თუმცა გაზრდის გაუმართაობის ალბათობას.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Developer Tools: Service Worker debugging
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = ჩართავს საცდელ მხარდაჭერას Service Workers-ისთვის გასამართ არეში. შესაძლოა, ამ შესაძლებლობამ შეანელოს Developer Tools და გაზარდოს მეხსიერების მოხმარება.
