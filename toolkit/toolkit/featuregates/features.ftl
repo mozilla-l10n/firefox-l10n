@@ -55,7 +55,7 @@ experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
 # The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
 # and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = საერთო <a data-l10n-name="mdn-beforeinput">beforeinput</a>-ხდომილებას აამოქმედებს <a data-l10n-name="mdn-input">&lt;input&gt;</a> და <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> ელემენტები, ან ნებისმიერი <a data-l10n-name="mdn-contenteditable">contenteditable</a>-თვისების მქონე დაუყოვნებლივ, სანამ მნიშვნელობა შეეცვლება. ამ ხდომილებით შესაძლებლობა ეძლევა ვებაპლიკაციებს, ჩაანაცვლოს ბრაუზერის ნაგულისხმევი ქცევა მომხმარებლის მოქმედებისას, მაგ. ვებაპს შეეძლება გაუუქმოს მომხმარებელს შეტანის საშუალება გარკვეული სიმბოლოებისთვის ან გადააკეთოს ჩასმული ტექსტის გაფორმება, დასაშვები გაფორმებით.
+experimental-features-web-api-beforeinput-description = საერთო <a data-l10n-name="mdn-beforeinput">beforeinput</a>-ხდომილობას აამოქმედებს <a data-l10n-name="mdn-input">&lt;input&gt;</a> და <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> ელემენტები, ან ნებისმიერი <a data-l10n-name="mdn-contenteditable">contenteditable</a>-თვისების მქონე დაუყოვნებლივ, სანამ მნიშვნელობა შეეცვლება. ამ ხდომილობით შესაძლებლობა ეძლევა ვებაპლიკაციებს, ჩაანაცვლოს ბრაუზერის ნაგულისხმევი ქცევა მომხმარებლის მოქმედებისას, მაგ. ვებაპს შეეძლება გაუუქმოს მომხმარებელს შეტანის საშუალება გარკვეული სიმბოლოებისთვის ან გადააკეთოს ჩასმული ტექსტის გაფორმება, დასაშვები გაფორმებით.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -65,6 +65,7 @@ experimental-features-css-constructable-stylesheets-description = აგებ�
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = სრული { -brand-short-name }-უზრუნველყოფა მედიაფაილების სეანსის API-ისთვის, ჯერჯერობით საცდელია. ეს API გამოიყენება მედიაფაილებთან დაკავშირებული შეტყობინებების უკეთ გამოსაყენებლად, სამართავად ხდომილობებისა და მონაცემების, რომლებიც გამოსადეგია წარმოსადგენად სამომხმარებლო გარსის, მედიაფაილების გასაშვებად, ამასთან მათი მონაცემების მოსაპოვებლად. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1112032</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
 experimental-features-devtools-execution-context-selector =
