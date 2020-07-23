@@ -48,6 +48,7 @@ policy-DisableFirefoxStudies =
 policy-DisableForgetButton = Zablokování tlačítka Zapomenout.
 policy-DisableFormHistory = Vypnutí ukládání historie vyhledávání a formulářů.
 policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
+policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
 policy-DisablePasswordReveal = Zablokovat zobrazování hesel ve správci přihlašovacích údajů.
 policy-DisablePocket = Vypnutí funkce pro ukládání stránek do služby Pocket.
 policy-DisablePrivateBrowsing = Zablokování anonymního prohlížení.
@@ -97,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Nastaví staré výcho
 
 policy-LocalFileLinks = Povolí vybraným stránkám odkazovat na soubory uložené na místním disku.
 policy-MasterPassword = Vyžadovat nebo zabránit používání hlavního hesla.
+policy-PrimaryPassword = Vyžadovat nebo zabránit používání hlavního hesla.
 policy-NetworkPrediction = Povolení nebo zakázání přednačítání DNS.
 policy-NewTabPage = Povolení nebo zákaz stránky nového panelu.
 policy-NoDefaultBookmarks =

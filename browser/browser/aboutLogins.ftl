@@ -151,6 +151,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportovat uložen�
 ## Master Password notification
 
 master-password-notification-message = Pro zobrazení uložených přihlašovacích údajů prosím zadejte své hlavní heslo
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Pro zobrazení uložených přihlašovacích údajů prosím zadejte své hlavní heslo
 master-password-reload-button =
     .label = Přihlásit se
     .accesskey = P
