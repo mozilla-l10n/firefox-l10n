@@ -19,6 +19,8 @@ printui-page-custom-range =
     .aria-label = Emoinge kuatiarogue peteĩva momba’epyre
 # Section title for the number of copies to print
 printui-copies-label = Monguatiapyre
+printui-orientation = Moma’ẽ
+printui-landscape = Oñenóva
 printui-portrait = Avara’ãnga
 # Section title for the printer or destination device to target
 printui-destination-label = Moõpa

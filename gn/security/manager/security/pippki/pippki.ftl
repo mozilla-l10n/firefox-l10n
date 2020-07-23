@@ -8,6 +8,8 @@ password-quality-meter = Ñe’ẽñemi rekoporã ra’ãha
 
 change-password-window =
     .title = Ñe’ẽñemi ha’etéva moambue
+change-device-password-window =
+    .title = Emoambue ñe’ẽñemi
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Mba’e’oka tekorosãrã: { $tokenName }
@@ -20,9 +22,13 @@ change-password-reenter = Ñe’ẽñemi pyahu: (ñemoneĩ):
 reset-password-window =
     .title = Ñe’ẽñemi ha’etéva jeguerujey
     .style = width: 40em
+pippki-failed-pw-change = Ndaikatúi emoambue ne’ẽñemi.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Eguerujey Ñe’ẽñemi Ha’etéva
+    .style = width: 40em
 reset-password-button-label =
     .label = Mbojevyjey
 reset-password-text = Emoañete jeýramo neñe’ẽñemi ha’etéva, umi ñanduti neñe’ẽñemi ha ñanduti veve embyatypyre, umi myanyhẽha mba’ekuaarã, mboajepyréva avamba’etéva ha ñe’ẽñemi ñemiguáva hesaraipáta. ¿Añetehápe eguerusejey neñe’ẽñemi ha’etéva?
