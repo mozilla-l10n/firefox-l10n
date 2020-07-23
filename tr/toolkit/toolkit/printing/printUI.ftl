@@ -9,6 +9,8 @@ printui-landscape = Yatay
 printui-portrait = Dikey
 # Section title for the printer or destination device to target
 printui-destination-label = Hedef
+printui-more-settings = Daha fazla ayar
+printui-less-settings = Daha az ayar
 printui-scale-fit-to-page = Sayfaya sığdır
 printui-primary-button = Yazdır
 printui-cancel-button = Vazgeç
