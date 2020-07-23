@@ -48,7 +48,7 @@ experimental-features-web-api-link-preload-description = 在 <a data-l10n-name="
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = 允許聚焦樣式僅在使用鍵盤（例如: 使用 tab 鍵切換）而非滑鼠或其他指向裝置聚焦到按鈕、表單控制元件等元素時，套用聚焦效果。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1617600</a>。
+experimental-features-css-focus-visible-description = 允許聚焦樣式僅在使用鍵盤（例如: 使用 Tab 鍵切換）而非滑鼠或其他指向裝置聚焦到按鈕、表單控制元件等元素時，套用聚焦效果。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1617600</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
