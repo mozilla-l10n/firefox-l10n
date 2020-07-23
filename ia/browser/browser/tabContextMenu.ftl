@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Clauder plure schedas
     .accesskey = p
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -79,3 +83,19 @@ move-tabs =
 move-tab =
     .label = Mover le scheda
     .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Clauder schedas
+            [one] Clauder le scheda
+           *[other] Clauder le schedas
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mover schedas
+            [one] Mover le scheda
+           *[other] Mover le schedas
+        }
+    .accesskey = M
