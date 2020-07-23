@@ -830,6 +830,11 @@ master-password-os-auth-dialog-message-win = Ana parola oluşturmak için Window
 master-password-os-auth-dialog-message-macosx = ana parola oluşturma
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Ana parola oluşturmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = ana parola oluşturma
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
