@@ -59,7 +59,7 @@ onboarding-multistage-import-primary-button-label = İçe aktarmayı başlat
 onboarding-multistage-import-secondary-button-label = Daha sonra
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Bir <span data-l10n-name="zap">görünüm</span> seçin
+onboarding-multistage-theme-header = <span data-l10n-name="zap">Görünümü</span> seçin
 onboarding-multistage-theme-subtitle = { -brand-short-name } tarayıcınızı bir temayla kişiselleştirin.
 onboarding-multistage-theme-primary-button-label = Temayı kaydet
 onboarding-multistage-theme-secondary-button-label = Daha sonra
