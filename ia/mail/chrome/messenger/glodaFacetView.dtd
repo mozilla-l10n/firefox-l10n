@@ -9,9 +9,11 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
+<!ENTITY glodaFacetView.loading.label "Cercante&#8230;">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
+<!ENTITY glodaFacetView.empty.label "Nulle message satisface tu recerca">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
@@ -20,6 +22,7 @@
 <!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.label2): The
      label for the button/link that causes us to display all of the emails in
      the active set in a new thread pane display tab. -->
+<!ENTITY glodaFacetView.openEmailAsList.label "Monstrar le resultatos como un lista">
 
 <!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.tooltip):
      The tooltip to display when hovering over the openEmailAsList label. -->
