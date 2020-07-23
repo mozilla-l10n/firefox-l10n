@@ -11,6 +11,7 @@
      Width of the Downloads Panel expressed using a CSS unit. The longest labels
      that should fit are usually those of in-progress and blocked downloads.
      -->
+<!ENTITY downloads.width                  "70ch">
 
 <!ENTITY cmd.pause.label                  "ផ្អាក">
 <!ENTITY cmd.pause.accesskey              "ក">

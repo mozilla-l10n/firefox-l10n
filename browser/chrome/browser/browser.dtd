@@ -208,7 +208,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "បញ្ឈប់">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង">
 
 <!ENTITY printButton.label            "បោះពុម្ព">
@@ -225,7 +224,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "គ្រប់គ្រង​ការ​ប្រើប្រាស់​ផ្នែក​បន្ថែម">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ប្ដូរ​ថា​ តើ​អ្នក​អាច​ទទួល​ការ​ជូនដំណឹង​ពី​ទំព័រ​បណ្ដាញ​នេះ​ដែរ​ឬ​ទេ">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ផ្ទុក​ទិន្នន័យ​នៅ​ក្នុង​កន្លែង​ផ្ទុក​អចិន្ត្រៃយ៍">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "កម្មវិធី​អ៊ីនធឺណិត​គឺ​ស្ថិត​ក្រោម​ការ​ត្រួតពិនិត្យ​ពី​ចម្ងាយ">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "គ្រប់គ្រង​ការ​ចែករំលែក​កាមេរ៉ា​របស់​អ្នក និង/ឬ​មីក្រូហ្វូន​ជាមួយ​ទំព័រ​បណ្ដាញ​នេះ">
@@ -250,8 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "អ្នក​បាន​ទប់ស្កាត់ការចូលប្រើ MIDI សម្រាប់គេហទំព័រ​នេះ។">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "បង្ហាញ​ប្រវត្តិ">
-
-
 
 <!ENTITY searchItem.title             "ស្វែងរក">
 
@@ -358,7 +354,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "របារ​ចំហៀង">
 <!ENTITY viewSidebarMenu.accesskey "e">
-
 <!ENTITY viewCustomizeToolbar.label       "ប្ដូរ​តាម​តម្រូវ​ការ…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
@@ -445,7 +440,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "ច្រើន​ទៀត">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -861,7 +855,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "រាយការណ៍បញ្ហា">
+<!ENTITY contentBlocking.breakageReportView.label "រាយការណ៍បញ្ហា">
 <!ENTITY contentBlocking.breakageReportView.learnMore "ស្វែង​យល់​បន្ថែម">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ផ្ញើ​របាយការណ៍">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "បោះបង់">
 
@@ -871,6 +868,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.reload2.label "ផ្ទុក​ទំព័រ​​ឡើងវិញ">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "បង្ហាញ​ទាំងអស់">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -899,9 +898,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "ផ្ទាំងថ្មីរបស់អ្នកត្រូវបានប្តូរ។">
 <!ENTITY newTabControlled.keepButton.label "រក្សា​ការ​ផ្លាស់ប្ដូរ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.label "បិទដំណើរការ​ផ្នែក​បន្ថែម">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "ទំព័រដើមរបស់អ្នក​បាន​ផ្លាស់ប្ដូរ។">
+<!ENTITY homepageControlled.keepButton.label "រក្សា​ការ​ផ្លាស់ប្ដូរ">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "បិទដំណើរការ​ផ្នែក​បន្ថែម">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "ចូលប្រើផ្ទាំងដែលបានលាក់របស់អ្នក">
+<!ENTITY tabHideControlled.keepButton.label "បន្តការលាក់ផ្ទាំង">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "បិទ​ផ្នែក​បន្ថែម">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "ទំព័រ​សកម្មភាព">
 <!ENTITY pageAction.addToUrlbar.label "បញ្ចូល​ទៅក្នុង​របារអាសយដ្ឋាន">
@@ -910,6 +920,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "កំពុង​ធ្វើ​សមកាលកម្ម​ឧបករណ៍…">
 
+<!ENTITY pageAction.shareUrl.label "ចែករំលែក">
+<!ENTITY pageAction.shareMore.label "ច្រើន​ទៀត…">
 
 <!ENTITY libraryButton.tooltip "មើលប្រវត្តិ ចំណាំដែលបានរក្សាទុក និងច្រើនទៀត">
 
