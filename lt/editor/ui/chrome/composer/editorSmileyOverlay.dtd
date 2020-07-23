@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Jaustukai">
 <!ENTITY insertSmiley.accesskey "J">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Suspaustos lūpos">
 <!ENTITY smiley16Cmd.accesskey "l">
 <!ENTITY smiley16Cmd.tooltip "Įterpti suspaustų lūpų jaustuką">
+<!ENTITY SmileButton.label "Įdėkite šypsenėlę">
 <!ENTITY SmileButton.tooltip "Įterpti jaustuką">
-
