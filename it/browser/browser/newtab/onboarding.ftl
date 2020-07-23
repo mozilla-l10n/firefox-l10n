@@ -63,16 +63,12 @@ onboarding-multistage-import-subtitle = Arrivi da un altro browser? È semplice 
 onboarding-multistage-import-primary-button-label = Avvia importazione
 onboarding-multistage-import-secondary-button-label = Non adesso
 
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-  .title =
-    Questi siti sono stati trovati su questo
-    dispositivo. { -brand-short-name } non salva
-    né sincronizza dati da un altro browser,
-    a meno che tu scelga di importarli.
-  .aria-label = { onboarding-import-sites-info.title }
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer =
+    Questi siti sono stati trovati su questo dispositivo. { -brand-short-name }
+    non salva né sincronizza dati da un altro browser, a meno che tu scelga di
+    importarli.
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
