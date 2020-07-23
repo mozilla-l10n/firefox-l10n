@@ -79,6 +79,7 @@ notCached-title = Փաստաթուղթը ժամկէտանց է
 netOffline-title = Անցանց եղանակ
 contentEncodingError-title = Բովանդակութեան կոդաւորման սխալ
 unsafeContentType-title = Ոչ անվտանգ նիշքի տեսակ
+netReset-title = Կապը  վերակայուեց
 netTimeout-title = Կապի հաստատման ժամանակը սպառուեց
 unknownProtocolFound-title = Հասցէն անհասկանալի էր
 proxyConnectFailure-title = Վստահուած սպասարկիչը մերժել է հրաժարուելով կապերից
