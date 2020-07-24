@@ -11,11 +11,15 @@ printui-copies-label = Kopior
 printui-orientation = Orientering
 printui-landscape = Liggande
 printui-portrait = Stående
+# Section title for the printer or destination device to target
+printui-destination-label = Mål
 printui-more-settings = Mer inställningar
 printui-less-settings = Färre inställningar
 # Section title (noun) for the print scaling options
 printui-scale = Skala
+printui-scale-fit-to-page = Anpassa till sida
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skala
+printui-system-dialog-link = Skriv ut via systemets dialogruta…
 printui-primary-button = Skriv ut
 printui-cancel-button = Avbryt
