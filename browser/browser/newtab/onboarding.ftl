@@ -57,32 +57,35 @@ onboarding-multistage-import-header = Parolalarınızı, yer imlerinizi ve <span
 onboarding-multistage-import-subtitle = Başka bir tarayıcıdan mı geliyorsunuz? Her şeyi { -brand-short-name } tarayıcısına taşıyabilirsiniz.
 onboarding-multistage-import-primary-button-label = İçe aktarmayı başlat
 onboarding-multistage-import-secondary-button-label = Daha sonra
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = <span data-l10n-name="zap">Görünümü</span> seçin
-onboarding-multistage-theme-subtitle = { -brand-short-name } tarayıcınızı bir temayla kişiselleştirin.
-onboarding-multistage-theme-primary-button-label = Temayı kaydet
-onboarding-multistage-theme-secondary-button-label = Daha sonra
-onboarding-multistage-theme-label-light = Açık
-onboarding-multistage-theme-label-dark = Koyu
-onboarding-multistage-theme-label-colorful = Renkli
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Bu siteler bu cihazda bulundu.
-        { -brand-short-name }, siz başka bir
-        tarayıcıdaki verilerinizi içe 
-        aktarmadıkça verilerinizi 
-        kaydetmez ve eşitlemez.
-    .aria-label = { onboarding-import-sites-info.title }
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Aşağıdaki siteler bu cihazda bulundu. { -brand-short-name }, siz başka bir tarayıcıdaki verilerinizi içe  aktarmadıkça verilerinizi kaydetmez ve eşitlemez.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Başlarken: ekran { $current } / { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = <span data-l10n-name="zap">Görünümü</span> seçin
+onboarding-multistage-theme-subtitle = { -brand-short-name } tarayıcınızı bir temayla kişiselleştirin.
+onboarding-multistage-theme-primary-button-label = Temayı kaydet
+onboarding-multistage-theme-secondary-button-label = Daha sonra
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Otomatik
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Sistem temasını kullan
+onboarding-multistage-theme-label-light = Açık
+onboarding-multistage-theme-label-dark = Koyu
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
