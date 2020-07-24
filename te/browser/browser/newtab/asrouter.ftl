@@ -65,6 +65,7 @@ cfr-doorhanger-pintab-animation-resume = కొనసాగించు
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = మీ ఇష్టాంశాలను ప్రతిచోటా సింక్రనించుకోండి.
 cfr-doorhanger-bookmark-fxa-link-text = ఇష్టాంశాలను ఇప్పుడు సింక్రనించు…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = మూసివేయు బొత్తం
