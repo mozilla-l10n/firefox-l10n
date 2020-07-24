@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "播放">
 <!ENTITY playButton.pauseLabel "暂停">
 <!ENTITY muteButton.muteLabel "静音">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "已解码帧">
 <!ENTITY stats.framesPresented "已显示帧">
 <!ENTITY stats.framesPainted "已绘制帧">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "画中画观看">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "让您在 &brandShortName; 做其他事时，同时能在前台观看视频。">
 
 <!ENTITY error.aborted "视频载入已停止。">
 <!ENTITY error.network "视频播放因网络错误中止。">
