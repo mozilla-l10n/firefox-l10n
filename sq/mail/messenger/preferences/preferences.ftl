@@ -553,6 +553,7 @@ primary-password-button =
     .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
     .accesskey = N
 forms-primary-pw-fips-title = Gjendeni nën mënyrën FIPS. FIPS lyp një Fjalëkalim të Përgjithshëm jo të zbrazët.
+forms-master-pw-fips-desc = Ndryshimi i Fjalëkalimit Dështoi
 junk-description = Caktoni rregullimet tuaja parazgjedhje për postën e pavlerë. Rregullimet për postë të pavlerë, sipas llogarish të veçanta, mund të formësohen te Rregullime Llogarish.
 junk-label =
     .label = Kur shënoj mesazhe si të pavlera:
