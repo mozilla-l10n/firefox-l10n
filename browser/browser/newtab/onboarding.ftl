@@ -66,9 +66,9 @@ onboarding-multistage-import-secondary-button-label = Non adesso
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer =
-    Questi siti sono stati trovati su questo dispositivo. { -brand-short-name }
-    non salva né sincronizza dati da un altro browser, a meno che tu scelga di
-    importarli.
+    I siti visualizzati sono stati trovati su questo dispositivo.
+    { -brand-short-name } non salva né sincronizza dati da un altro browser, a
+    meno che non si decida di importarli.
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:

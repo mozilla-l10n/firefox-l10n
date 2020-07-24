@@ -161,7 +161,7 @@ private-browsing-description2 =
     Qualunque estensione aggiunta a { -brand-short-name } non funzionerà in
     finestre anonime per impostazione predefinita. Un’estensione non funzionerà
     in finestre anonime e non avrà accesso alle attività online, a meno che il
-    funzionamento sia stato consentito nelle impostazioni. Questa modifica è
+    funzionamento non sia stato consentito nelle impostazioni. Questa modifica è
     stata introdotta per garantire la riservatezza dei dati di navigazione
     quando si utilizzano finestre anonime.
     <label data-l10n-name="private-browsing-learn-more">Scopri come gestire le impostazioni delle estensioni</label>
