@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Spela upp">
 <!ENTITY playButton.pauseLabel "Pausa">
 <!ENTITY muteButton.muteLabel "Ljud av">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Avkodade bildrutor">
 <!ENTITY stats.framesPresented "Presenterade bildrutor">
 <!ENTITY stats.framesPainted "Visade bildrutor">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Titta med bild-i-bild">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Titta på video i förgrunden medan du gör andra saker med &brandShortName;">
 
 <!ENTITY error.aborted "Laddning av video stoppad.">
 <!ENTITY error.network "Avspelning av videon avbröts på grund av nätverksfel.">
