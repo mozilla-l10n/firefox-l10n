@@ -47,12 +47,14 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Witajće k <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Spěšny, wěsty a priwatny wobhladowak, kotryž so wot powšitkownosći wužitneje organizacije podpěruje.
 onboarding-multistage-welcome-primary-button-label = Konfigurowanje započeć
 onboarding-multistage-welcome-secondary-button-label = Přizjewić
 onboarding-multistage-welcome-secondary-button-text = Maće konto?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importujće swoje hesła, zapołožki a <span data-l10n-name="zap">wjace</span>
+onboarding-multistage-import-subtitle = Sće do toho druhi wobhladowak wužiwał? Je lochko, wšě do { -brand-short-name } přenjesć.
 onboarding-multistage-import-primary-button-label = Import započeć
 onboarding-multistage-import-secondary-button-label = Nic nětko
 # Info displayed in the footer of import settings screen during onboarding flow.
@@ -88,6 +90,30 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Napohlad z wašeho dźěłoweho
+        systema za tłóčatka, menije a wokna zdźědźić.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Swětły napohlad za tłóčatka,
+        menije a wokna.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Ćmowy napohlad za tłóčatka,
+        menije a wokna.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Barbny napohlad za tłóčatka,
+        menije a wokna.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
