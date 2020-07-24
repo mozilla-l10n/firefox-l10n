@@ -57,6 +57,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Wuwiwarske nastroje: Simulacija barboweje šemy
 experimental-features-devtools-execution-context-selector =
     .label = Wuwiwarske nastroje: Selektor wuwjedźenskeho konteksta
+experimental-features-devtools-execution-context-selector-description = Tuta funkcija tłóčatko w přikazowej lince konsole pokazuje, z kotrymž móžeće kontekst změnić, w kotrymž so ma zapodaty wuraz wuwjesć. Hlejće <a data-l10n-name="bugzilla1">zmylk 1605154</a> a <a data-l10n-name="bugzilla2">zmylk 1605153</a> za dalše podrobnosće.
 experimental-features-devtools-compatibility-panel =
     .label = Wuwiwarske nastroje: Wokno kompatibelnosće
 # Do not translate 'SameSite', 'Lax' and 'None'.
