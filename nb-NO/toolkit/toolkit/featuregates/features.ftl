@@ -53,6 +53,9 @@ experimental-features-css-focus-visible-description = Lar focus-stiler blir bukt
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Den globale <a data-l10n-name="mdn-beforeinput">beforeinput</a>-hendelsen blir avfyrt på <a data-l10n-name="mdn-input">&lt;input&gt;</a>- og <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>-elementer, eller et hvilket som helst element hvis <a data-l10n-name="mdn-contenteditable">contenteditable</a>-attributtet er aktivert, rett før elementets verdi endres. Hendelsen gjør at nettapper kan overstyre nettleserens standardatferd for brukerinteraksjon, for eksempel kan nettapper avbryte brukerinndata bare for spesifikke tegn eller kan endre innliming av stylet tekst bare med godkjente stiler.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
