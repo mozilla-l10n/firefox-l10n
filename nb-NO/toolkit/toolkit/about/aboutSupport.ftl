@@ -273,7 +273,7 @@ blocklisted-bug = Svartelistet på grunn av kjente problemer
 bug-link = feil { $bugNumber }
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
-support-blocklisted-bug = Blokkert på grunn av kjente problemer: <a data-l10n-name="bug-link">feilrapport { $bugNumber }</a>
+support-blocklisted-bug = Blokkert på grunn av kjente problemer: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Svartelistet; feilkode { $failureCode }
