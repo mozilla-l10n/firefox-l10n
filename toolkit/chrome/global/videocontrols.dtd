@@ -42,6 +42,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "&brandShortName;에서 다른 작업을 수행하는 동안 전경에서 동영상을 재생합니다">
 
 <!ENTITY error.aborted "동영상 로드가 중지되었습니다.">
 <!ENTITY error.network "네트워크 오류로 인해 동영상 재생이 중단되었습니다.">
