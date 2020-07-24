@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Wothrać">
 <!ENTITY playButton.pauseLabel "Přestawka">
 <!ENTITY muteButton.muteLabel "Bjez zynka">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Dekodowane wobłuki">
 <!ENTITY stats.framesPresented "Prezentowane wobłuki">
 <!ENTITY stats.framesPainted "Narysowane wobłuki">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "We „wobraz-we-wobrazu“ wobhladać">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Wothrajće wideja w prědku, mjeztym zo něšto druheho w &brandShortName; činiće.">
 
 <!ENTITY error.aborted "Začitowanje wideja je so zastajiło.">
 <!ENTITY error.network "Wothrawanje wideja je so syćoweho zmylka dla přetorhnyło.">
