@@ -101,6 +101,11 @@ master-password-os-auth-dialog-message-win = Pour créer un mot de passe princip
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = créer un mot de passe principal
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = créer un mot de passe principal
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -538,9 +543,14 @@ master-password-label =
 master-password-button =
     .label = Gérer le mot de passe principal…
     .accesskey = G
+primary-password-description = Un mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.
 primary-password-label =
     .label = Utiliser un mot de passe principal
     .accesskey = U
+primary-password-button =
+    .label = Changer le mot de passe principal ...
+    .accesskey = C
+forms-master-pw-fips-desc = Échec de la modification du mot de passe principal
 junk-description = Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».
 junk-label =
     .label = Quand je marque des messages comme indésirables :
