@@ -101,6 +101,13 @@ master-password-os-auth-dialog-message-win = Pentru a crea o parolă generală, 
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = creează o parolă generală
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Pentru a crea o parolă primară, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = creează o parolă primară
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -538,6 +545,10 @@ master-password-label =
 master-password-button =
     .label = Schimbă parola generală…
     .accesskey = c
+primary-password-description = O parolă primară îți protejează toate parolele, dar trebuie să o introduci la fiecare sesiune nouă deschisă.
+primary-password-label =
+    .label = Folosește o parolă primară
+    .accesskey = U
 junk-description = Definește setările implicite pentru mesaje nesolicitate. Setările specifice contului pentru mesaje nesolicitate pot fi configurate în setările contului.
 junk-label =
     .label = Când marchez mesaje ca nesolicitate:
