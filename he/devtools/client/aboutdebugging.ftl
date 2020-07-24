@@ -180,13 +180,6 @@ about-debugging-browser-version-too-old = הדפדפן המחובר הוא בג�
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = ייתכן שהחלונית 'מנפה שגיאות' לא תעבוד עם הדפדפן המחובר. נא להשתמש ב־Firefox { $runtimeVersion } אם יש לך צורך להשתמש במנפה השגיאות עם דפדפן זה.
-# This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
-# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
-# { $localID } is the build ID of the current Firefox instance (same format)
-# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-# { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = הדפדפן המחובר יותר עדכני ({ $runtimeVersion }, buildID { $runtimeID }) מאשר ה־{ -brand-shorter-name } שלך ({ $runtimeVersion }, buildID { $runtimeID }). זוהי תצורה שאינה נתמכת ויתכן שתגרום לכלי הפיתוח להיכשל. נא לעדכן את Firefox. <a>פתרון בעיות</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
