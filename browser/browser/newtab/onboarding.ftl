@@ -57,6 +57,15 @@ onboarding-multistage-import-header = Mewnforiwch eich cyfrineiriau, nodau tudal
 onboarding-multistage-import-subtitle = Yn dod o borwr arall? Mae'n hawdd dod â phopeth gyda chi  i { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Cychwyn Mewnforio
 onboarding-multistage-import-secondary-button-label = Nid nawr
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Cafwyd hyd i'r gwefannau hyn ar y ddyfais hon. Nid yw { -brand-short-name } yn cadw nac yn cydweddu data o borwr arall oni bai eich bod yn dewis ei fewnforio.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Cychwyn arni: sgrin { $current } o { $total }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Dewiswch <span data-l10n-name = "zap">olwg</span>
@@ -65,23 +74,12 @@ onboarding-multistage-theme-primary-button-label = Cadw Thema
 onboarding-multistage-theme-secondary-button-label = Nid nawr
 onboarding-multistage-theme-label-light = Golau
 onboarding-multistage-theme-label-dark = Tywyll
-onboarding-multistage-theme-label-colorful = Lliwgar
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Cafwyd hyd i'r gwefannau hyn ar y ddyfais hon.
-        Nid yw { -brand-short-name } yn cadw na chydweddu
-        data o borwr arall oni bai eich bod yn dewis
-        ei fewnforio.
-    .aria-label = { onboarding-import-sites-info.title }
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Cychwyn arni: sgrin { $current } o { $total }
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
