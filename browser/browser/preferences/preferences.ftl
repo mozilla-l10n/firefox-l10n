@@ -820,7 +820,7 @@ forms-primary-pw-change =
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
-forms-primary-pw-former-name = ""
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Du er for tiden i FIPS-modus. FIPS krever at du bruker et hovedpassord.
 forms-master-pw-fips-desc = Passordendring mislyktes
 
