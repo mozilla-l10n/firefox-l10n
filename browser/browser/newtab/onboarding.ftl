@@ -72,14 +72,44 @@ onboarding-multistage-theme-header = Dewiswch <span data-l10n-name = "zap">olwg<
 onboarding-multistage-theme-subtitle = Personoli { -brand-short-name } gyda thema.
 onboarding-multistage-theme-primary-button-label = Cadw Thema
 onboarding-multistage-theme-secondary-button-label = Nid nawr
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Awtomatig
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Defnyddio thema'r system
 onboarding-multistage-theme-label-light = Golau
 onboarding-multistage-theme-label-dark = Tywyll
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Dilyn gwedd eich system weithredu
+        ar gyfer botymau, dewislenni a ffenestri.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Defnyddio gwedd olau ar gyfer botymau,
+        dewislenni, a ffenestri.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Defnyddio gwedd dywyll ar gyfer botymau,
+        dewislenni, a ffenestri.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Defnyddio gwedd liwgar ar gyfer botymau,
+        dewislenni, a ffenestri.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 

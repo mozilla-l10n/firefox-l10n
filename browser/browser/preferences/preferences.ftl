@@ -822,6 +822,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Defnyddio Prif Gyfrinair
     .accesskey = P
+forms-primary-pw-learn-more-link = Dysgu rhagor
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -832,6 +833,10 @@ forms-master-pw-fips-title = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair 
 forms-primary-pw-change =
     .label = Newid y Prif Gyfrinair…
     .accesskey = N
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair nad yw'n wag.
 forms-master-pw-fips-desc = Methu Newid eich Cyfrinair
 
