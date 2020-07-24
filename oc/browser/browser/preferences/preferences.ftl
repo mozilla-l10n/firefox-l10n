@@ -803,6 +803,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Utilizar un senhal principal
     .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Modificar lo senhal principal…
     .accesskey = M
@@ -939,7 +942,7 @@ content-blocking-learn-more = Ne saber mai
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
-    .label = Standard
+    .label = Estandard
     .accesskey = d
 content-blocking-setting-strict =
     .label = Estricte
