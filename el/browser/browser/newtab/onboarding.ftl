@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Έναρξη
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Καλώς ήλθατε στο { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Καλώς ορίσατε στο <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Έχετε το πρόγραμμα περιήγησης.<br/>Γνωρίστε τα υπόλοιπα προϊόντα του { -brand-product-name }.
 onboarding-welcome-learn-more = Μάθετε περισσότερα σχετικά με τα οφέλη.
 onboarding-join-form-header = Γίνετε μέλος του { -brand-product-name }
@@ -44,6 +41,42 @@ onboarding-start-browsing-button-label = Έναρξη περιήγησης
 onboarding-cards-dismiss =
     .title = Απόρριψη
     .aria-label = Απόρριψη
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Καλώς ορίσατε στο <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-primary-button-label = Έναρξη ρύθμισης
+onboarding-multistage-welcome-secondary-button-label = Σύνδεση
+onboarding-multistage-welcome-secondary-button-text = Έχετε λογαριασμό;
+onboarding-multistage-import-primary-button-label = Έναρξη εισαγωγής
+onboarding-multistage-import-secondary-button-label = Όχι τώρα
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Έναρξη: οθόνη { $current } από { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Επιλέξτε <span data-l10n-name="zap">εμφάνιση</span>
+onboarding-multistage-theme-primary-button-label = Αποθήκευση θέματος
+onboarding-multistage-theme-secondary-button-label = Όχι τώρα
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Αυτόματο
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Χρήση θέματος συστήματος
+onboarding-multistage-theme-label-light = Φωτεινό
+onboarding-multistage-theme-label-dark = Σκούρο
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
