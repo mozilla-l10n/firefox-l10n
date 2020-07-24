@@ -25,14 +25,18 @@ experimental-features-avif-description = Eksperimentell støtte for AVIF: AV1 bi
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Denne nye API-en gir støtte på lågt nivå for  utrekning og grafisk attgiving ved å bruke <a data-l10n-name="wikipedia">grafikkprosessoren (GPU)</a> på eininga eller datamaskina til brukaren. <a data-l10n-name="spec">Spesifikasjonen</a> er enno under arbeid. Sjå <a data-l10n-name="bugzilla">bug 1602129</a> for meir informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Når denne funksjonen er slått på, støttar { -brand-short-name } AVIF-format (AV1). Dette er eit stillbildefilformat som utnyttar moglegheitene til AV1-videokomprimeringsalgoritmar for å redusere bildestørrelse. Sjå <a data-l10n-name="bugzilla">bug 1443863</a> for meir informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Implementeringa vår av <a data-l10n-name="mdn-inputmode">inputmode</a> global attributt er oppdatert i samsvar med <a data-l10n-name="whatwg">WHATWG-spesifikasjonen</a>, men vi må enno gjere andre endringar, som å gjere det tilgjengeleg på redigerbart innhald. Sjå <a data-l10n-name="bugzilla">bug 1205133</a> for meir informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
