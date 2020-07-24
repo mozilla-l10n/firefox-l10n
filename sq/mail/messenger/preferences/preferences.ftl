@@ -41,7 +41,6 @@ composition-addressing-header = Adresim
 privacy-main-header = Privatësi
 privacy-passwords-header = Fjalëkalime
 privacy-junk-header = E pavlerë
-privacy-data-collection-header = Grumbullim dhe Përdorim të Dhënash
 collection-header = Grumbullim dhe Përdorim të Dhënash nga { -brand-short-name }-i
 collection-description = Përpiqemi t’ju japim mundësi zgjedhjesh dhe grumbullojmë vetëm ç’na duhet për të ofruar dhe përmirësuar { -brand-short-name }-in për këdo. Kërkojmë përherë leje, përpara se të marrim të dhëna personale.
 collection-privacy-notice = Shënim Mbi Privatësinë
@@ -96,14 +95,19 @@ addons-button = Zgjerimet & Tema
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Që të krijoni një Fjalëkalim të Përgjithshëm, verifikoni identitetin tuaj.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim të Përgjithshëm, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = të krijojë një Fjalëkalim të Përgjithshëm
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim të Përgjithshëm, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = të krijojë një Fjalëkalim të Përgjithshëm
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,14 @@ master-password-label =
 master-password-button =
     .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
     .accesskey = N
+primary-password-description = Një Fjalëkalim i Përgjithshëm i mbron tërë fjalëkalimet tuaj, por do t&apos;ju duhet ta jepni çdo herë për sesion.
+primary-password-label =
+    .label = Përdorni një Fjalëkalim të Përgjithshëm
+    .accesskey = P
+primary-password-button =
+    .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
+    .accesskey = N
+forms-primary-pw-fips-title = Gjendeni nën mënyrën FIPS. FIPS lyp një Fjalëkalim të Përgjithshëm jo të zbrazët.
 junk-description = Caktoni rregullimet tuaja parazgjedhje për postën e pavlerë. Rregullimet për postë të pavlerë, sipas llogarish të veçanta, mund të formësohen te Rregullime Llogarish.
 junk-label =
     .label = Kur shënoj mesazhe si të pavlera:
@@ -701,3 +713,6 @@ search-results-empty-message =
        *[other] Na ndjeni! S’ka përfundime te Parapëlqimet për “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Ju duhet ndihmë? Vizitoni <a data-l10n-name="url">Asistencë { -brand-short-name }-i</a>
+
+## Preferences UI Search Results
+
