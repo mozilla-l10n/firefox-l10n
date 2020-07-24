@@ -57,6 +57,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Wuwijaŕske rědy: Simulacija barwneje šemy
 experimental-features-devtools-execution-context-selector =
     .label = Wuwijaŕske rědy: Selektor wuwjeźeńskego konteksta
+experimental-features-devtools-execution-context-selector-description = Toś ta funkcija tłocašk w pśikazowej smužce konsole pokazujo, z kótarymž móžośo kontekst změniś, w kótaremž se ma zapódany wuraz wuwjasć. Glejśo <a data-l10n-name="bugzilla1">zmólka 1605154</a> a <a data-l10n-name="bugzilla2">zmólka 1605153</a> za dalšne drobnostki.
 experimental-features-devtools-compatibility-panel =
     .label = Wuwijaŕske rědy: Wokno kompatibelnosći
 # Do not translate 'SameSite', 'Lax' and 'None'.
