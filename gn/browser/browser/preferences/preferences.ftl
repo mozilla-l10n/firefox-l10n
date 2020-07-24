@@ -806,6 +806,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Eipuru ñe’ẽñemi ñepyrũgua
     .accesskey = U
+forms-primary-pw-learn-more-link = Eikuaave
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -816,6 +817,10 @@ forms-master-pw-fips-title = Ko’ag̃aite oĩhína FIPS rekópe. FIPS oikotev�
 forms-primary-pw-change =
     .label = Emoambue ñe’ẽñemi ha’etéva…
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Ymave ojehero Ñe’ẽñemi Ha’etéva
 forms-primary-pw-fips-title = Ko’ag̃aite eime FIPS rekópe. FIPS oikotevẽ ñe’ẽñemi ñepyrũgua inandi’ỹva.
 forms-master-pw-fips-desc = Ñe’ẽñemi moambue jejavy
 
@@ -1186,6 +1191,7 @@ space-alert-under-5gb-message = { -brand-short-name } opyta disco pa’ũ’ỹr
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS año ayvu
+httpsonly-description = HTTPS ome’ẽ jeikekatu ha ipapapýva { -brand-short-name } ha ñanduti renda eike hague pa’ũme. Heta ñanduti renda omoneĩ HTTPS, ha pe ayvu ha’eñóva-HTTPS oñemoneĩma, upévare { -brand-short-name } ombohekopyahúta opaite HTTPS-pe jeike.
 httpsonly-learn-more = Eikuaave
 httpsonly-radio-enabled =
     .label = Emyandy HTTPS año ayvu opaite ovetãme
