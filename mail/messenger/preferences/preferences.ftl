@@ -153,6 +153,15 @@ master-password-os-auth-dialog-message-win = Para crear una contraseña maestra,
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = crear una contraseña maestra
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Para crear una contraseña principal, introduzca sus credenciales de inicio de sesión en Windows. Esto ayuda a proteger la seguridad de sus cuentas.
+
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crear una contraseña principal
+
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -700,6 +709,18 @@ master-password-button =
     .label = Cambiar contraseña maestra…
     .accesskey = C
 
+primary-password-description = Una contraseña principal protege todas sus contraseñas, pero debe introducirla una vez por sesión.
+
+primary-password-label =
+    .label = Usar una contraseña principal
+    .accesskey = U
+
+primary-password-button =
+    .label = Cambiar contraseña principal…
+    .accesskey = C
+
+forms-primary-pw-fips-title = En este momento está en modo FIPS. FIPS exige una contraseña principal no vacía.
+forms-master-pw-fips-desc = Cambio de contraseña fallido
 
 junk-description = Establezca su configuración predeterminada para el correo no deseado. La configuración específica de cada cuenta puede realizarse en Configuración de las cuentas.
 

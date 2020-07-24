@@ -268,7 +268,6 @@
 <!ENTITY TextColorButton.tooltip "Elija un color para el texto">
 <!ENTITY BackgroundColorButton.tooltip "Elija un color para el fondo">
 <!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Ir a la página principal de &brandShortName;">
 <!ENTITY HighlightColorButton.label "Resaltador">
 <!ENTITY HighlightColorButton.tooltip "Elegir color para remarcar texto">
 <!ENTITY absoluteFontSize.label "Tamaño de letra">
