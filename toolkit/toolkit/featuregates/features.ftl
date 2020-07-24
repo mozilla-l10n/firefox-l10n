@@ -60,12 +60,15 @@ experimental-features-web-api-beforeinput-description = Den globale <a data-l10n
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Tilleggingen av en konstruktør til <a data-l10n-name="mdn-cssstyleheet">CSSStyleSheet</a>-grensesnittet samt en rekke relaterte endringer gjør det mulig å lage nye stilsett direkte uten å måtte legge settet til HTML. Dette gjør det mye enklere å lage gjenbrukbare stilsett for bruk med <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Se <a data-l10n-name="bugzilla">bug 1520690</a> for mer informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Hele { -brand-short-name } sin implementeringen av Media Session API-et er foreløpig eksperimentell. Denne API-en brukes til å tilpasse håndteringen av medierelaterte varsler, for å administrere hendelser og data som er nyttige for å presentere et brukergrensesnitt for å administrere medieavspilling, og for å skaffe metadata for mediefiler. Se <a data-l10n-name="bugzilla">bug 1112032</a> for mer informasjon.
 experimental-features-devtools-color-scheme-simulation =
     .label = Utviklerverktøy: Simulering av fargeskjema
+experimental-features-devtools-color-scheme-simulation-description = Legger til et alternativ for å simulere forskjellige fargeskjemaer som lar deg teste <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-schema</a>-mediespørring. Ved å bruke denne mediespørringen lar stilsettet ditt svare på om brukeren foretrekker et lys eller mørkt brukergrensesnitt. Denne funksjonen lar deg teste koden din uten å måtte endre innstillinger i nettleseren (eller operativsystemet, hvis nettleseren følger en systemavhengig fargevalginnstilling). Se <a data-l10n-name="bugzilla1">bug 1550804</a> og <a data-l10n-name="bugzilla2">bug 1137699</a> for mer informasjon.
 experimental-features-devtools-execution-context-selector =
     .label = Utviklerverktøy: Utførelseskontektsvelger
 experimental-features-devtools-execution-context-selector-description = Denne funksjonen viser en knapp på konsollens kommandolinje som lar deg endre konteksten der uttrykket du skriver inn, skal kjøres. Se <a data-l10n-name="bugzilla1">bug 1605154</a> og <a data-l10n-name="bugzilla1">bug 1605153</a> for mer informasjon.
