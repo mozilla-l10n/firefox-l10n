@@ -25,6 +25,7 @@ experimental-features-avif-description = Eksperimentell støtte for AVIF: AV1 bi
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Denne nye API-en gir støtte på lavt nivå for å utføre beregning og grafisk gjengivelse ved å bruke <a data-l10n-name="wikipedia">grafikkprosessoren (GPU)</a> på brukerens enhet eller datamaskin. <a data-l10n-name="spec">Spesifikasjonen</a> er fremdeles under arbeid. Se <a data-l10n-name="bugzilla">bug 1602129</a> for mer informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
@@ -34,14 +35,20 @@ experimental-features-media-avif-description = Når denne funksjonen er aktivert
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Vår implementering av <a data-l10n-name="mdn-inputmode">inputmode</a> global attributt er oppdatert i henhold til <a data-l10n-name="whatwg">WHATWG-spesifikasjonen</a>, men vi må fortsatt gjøre andre endringer, som å gjøre det tilgjengelig på redigerbart innhold. Se <a data-l10n-name="bugzilla">bug 1205133</a> for mer informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = <a data-l10n-name="rel">rel</a>-attributtet med verdien <code>«preload»</code> på et <a data-l10n-name="link">&lt;link&gt;</a>-elementet er ment å bidra til å gi ytelsesgevinster ved å la deg laste ned ressurser tidligere i livssyklusen for sidene, sikre at de er tilgjengelige tidligere og at det er mindre sannsynlig at det blokkerer sidegjengivelse. Les <a data-l10n-name="readmore">«Preloading content with <code>rel="preload"</code>»</a> eller se <a data-l10n-name="bugzilla">bug 1583604</a> for mer informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Lar focus-stiler blir bukt på elementer som knapper og skjemakontroller, bare når de er fokusert ved hjelp av tastaturet (f.eks. når du bruker tabulator-tasten for å hoppe mellom elementer), og ikke når de er fokusert ved hjelp av en mus eller annen pekeenhet. Se <a data-l10n-name="bugzilla">bug 1617600</a> for mer informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
