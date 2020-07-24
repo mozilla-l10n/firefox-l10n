@@ -816,6 +816,10 @@ forms-master-pw-fips-title = Du er i FIPS-modus. FIPS krev at du brukar eit hovu
 forms-primary-pw-change =
     .label = Endre hovudpassord…
     .accesskey = E
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = ""
 forms-primary-pw-fips-title = Du er for tida i FIPS-modus. FIPS krev eit hovudpassord.
 forms-master-pw-fips-desc = Mislykka passordendring
 
