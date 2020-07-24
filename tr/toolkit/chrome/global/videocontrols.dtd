@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Oynat">
 <!ENTITY playButton.pauseLabel "Duraklat">
 <!ENTITY muteButton.muteLabel "Sesi kapat">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Çözülen kare">
 <!ENTITY stats.framesPresented "Sunulan kare">
 <!ENTITY stats.framesPainted "Çizilen kare">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Görüntü içinde görüntü modunda izle">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "&brandShortName; ile başka şeyler yaparken videoları ön planda oynatın">
 
 <!ENTITY error.aborted "Video yükleme durduruldu.">
 <!ENTITY error.network "Bir ağ hatası nedeniyle video oynatması iptal edildi.">
