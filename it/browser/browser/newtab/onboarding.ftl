@@ -58,7 +58,7 @@ onboarding-multistage-welcome-secondary-button-text = Hai già un account?
 
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Importa password, segnalibri e <span data-l10n-name="zap">altro ancora</span>
+onboarding-multistage-import-header = Importa password, segnalibri <br/>e <span data-l10n-name="zap">altro ancora</span>
 onboarding-multistage-import-subtitle = Arrivi da un altro browser? È semplice ritrovare tutti i tuoi dati in { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Avvia importazione
 onboarding-multistage-import-secondary-button-label = Non adesso
