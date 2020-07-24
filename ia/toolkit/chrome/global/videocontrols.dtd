@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Reproducer">
 <!ENTITY playButton.pauseLabel "Pausar">
 <!ENTITY muteButton.muteLabel "Silentiar">
@@ -30,6 +34,14 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Photogrammas decodificate">
 <!ENTITY stats.framesPresented "Photogrammas presentate">
 <!ENTITY stats.framesPainted "Photogrammas designate">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Spectar in Picture-in-Picture">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
 
 <!ENTITY error.aborted "Cargamento de video stoppate.">
 <!ENTITY error.network "Reproduction del video abortate per un error de rete.">
