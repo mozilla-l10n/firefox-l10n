@@ -124,8 +124,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.label   "Aipuru mboguataha téma Mbosako'i kundahaha rehegua">
-<!ENTITY options.usedeveditiontheme.tooltip "Emoambue téma mboguataha Mbosako'i kundahaha rehegua.">
+<!ENTITY options.usedeveditiontheme.label   "Aipuru mboguataha téma Mbosako’i kundahaha rehegua">
+<!ENTITY options.usedeveditiontheme.tooltip "Emoambue téma mboguataha Mbosako’i kundahaha rehegua.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -148,7 +148,7 @@
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
-<!ENTITY options.styleeditor.label            "Mbosako'iha">
+<!ENTITY options.styleeditor.label            "Mbosako’iha">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -180,13 +180,13 @@
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
-<!ENTITY options.sourceeditor.label                     "Mbosako'iha oguerohoryvéva">
-<!ENTITY options.sourceeditor.detectindentation.label   "Pa'ũguasu jehechakuaa">
-<!ENTITY options.sourceeditor.detectindentation.tooltip "Oikuaa pa'ũguasu ayvu retepy rupi">
+<!ENTITY options.sourceeditor.label                     "Mbosako’iha oguerohoryvéva">
+<!ENTITY options.sourceeditor.detectindentation.label   "Pa’ũguasu jehechakuaa">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Oikuaa pa’ũguasu ayvu retepy rupi">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Autoclose jokoha">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Emoinge ijehegui ñemboty jokoha">
-<!ENTITY options.sourceeditor.expandtab.label           "Eipuruhína pa'ũ guasu">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Eipuru pa'ũ pe pa'ũjepo rendaguépe">
+<!ENTITY options.sourceeditor.expandtab.label           "Eipuruhína pa’ũ guasu">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Eipuru pa’ũ pe pa’ũjepo rendaguépe">
 <!ENTITY options.sourceeditor.tabsize.label             "Tendayke tuichakue">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Jehaiha mbojopyru">

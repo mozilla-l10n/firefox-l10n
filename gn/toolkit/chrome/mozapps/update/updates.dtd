@@ -12,7 +12,7 @@
 
 <!ENTITY  manualUpdate.title              "Ndaikatúi embohekopyahu">
 <!ENTITY  manualUpdate.desc               "Oĩ ñembohekopyahu eipurukuaáva hekorosã ha hekopytáva, hákatu ndereguerekói apopyvusu ñemoneĩ tekotevẽva emboguejy hag̃ua. Eñe’ẽ apopyvusu ñangakohára ndive, térã eha’ãjey nemba’etee guive oguerekóva ñemoneĩ omboguejy hag̃ua software ko mohendahápe.">
-<!ENTITY  manualUpdate.space.desc         "Oĩ ñembohekopyahu eipurukuaáva hekorosã ha hekopytáva, hákatu ndereguerekói pa'ũeta omboguejy hag̃ua.">
+<!ENTITY  manualUpdate.space.desc         "Oĩ ñembohekopyahu eipurukuaáva hekorosã ha hekopytáva, hákatu ndereguerekói pa’ũeta omboguejy hag̃ua.">
 <!ENTITY  manualUpdateGetMsg.label        "Tapiaite ikatu ejuhu ipyahuvéva &brandShortName; amo:">
 
 <!ENTITY  unsupported.title               "Apopyvusu ndojokupytýiva">

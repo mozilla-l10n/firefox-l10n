@@ -47,7 +47,7 @@ options-default-color-unit-name = Sa’ykuéra réra
 ## Style Editor section
 
 # The heading
-options-styleeditor-label = Mbosako'iha
+options-styleeditor-label = Mbosako’iha
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS ijehegui ñemoĩmba
 options-stylesheet-autocompletion-tooltip =
@@ -69,16 +69,16 @@ options-screenshot-audio-tooltip =
 ## Editor section
 
 # The heading
-options-sourceeditor-label = Mbosako'iha oguerohoryvéva
+options-sourceeditor-label = Mbosako’iha oguerohoryvéva
 options-sourceeditor-detectindentation-tooltip =
-    .title = Oikuaa pa'ũguasu ayvu retepy rupi
-options-sourceeditor-detectindentation-label = Pa'ũguasu jehechakuaa
+    .title = Oikuaa pa’ũguasu ayvu retepy rupi
+options-sourceeditor-detectindentation-label = Pa’ũguasu jehechakuaa
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = Emoinge ijehegui ñemboty jokoha
 options-sourceeditor-autoclosebrackets-label = Autoclose jokoha
 options-sourceeditor-expandtab-tooltip =
-    .title = Eipuru pa'ũ pe pa'ũjepo rendaguépe
-options-sourceeditor-expandtab-label = Eipuruhína pa'ũ guasu
+    .title = Eipuru pa’ũ pe pa’ũjepo rendaguépe
+options-sourceeditor-expandtab-label = Eipuruhína pa’ũ guasu
 options-sourceeditor-tabsize-label = Tendayke tuichakue
 options-sourceeditor-keybinding-label = Jehaiha mbojopyru
 options-sourceeditor-keybinding-default-label = Jepokokuaa'ỹha

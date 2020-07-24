@@ -5,7 +5,7 @@
 head-title = Mboguatahára rembipuru rehegua
 enable-title = Embojuruja Firefox mboguatahára rembipuru
 enable-inspect-element-title = Embojuruja Firefox mboguatahára rembipuru eipuru hag̃ua moambuekuaaha mba’epurúpe
-enable-inspect-element-message = Ehechakatu ha embosako'i HTML ha CSS mboguatahára rembipuru mbohekohápe.
+enable-inspect-element-message = Ehechakatu ha embosako’i HTML ha CSS mboguatahára rembipuru mbohekohápe.
 enable-about-debugging-message = Emboguata ha emopitĩ WebExtensions, web workers, service workers ha hetave Firefox mboguatahára rembipuru ndive.
 enable-key-shortcut-message = Emyendy jeike pya’eha mboguataha rembipurúpe. Ojavy mba’éramo, ikatu emboty ko tendayke.
 enable-menu-message = Emoañete HTML, CSS ha JavaScript ne ñanduti rendápe tembipuru mbohekoha ha mopotĩháramo.
@@ -38,7 +38,7 @@ features-storage-title = Ñembyatyha
 features-storage-desc = Embojuaju, emoambue térã embogue kache, kookie, marandu mba’ekuaarã renda ha tembiapo rehegua. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Moha'ãnga iñambuekuaáva reko
 features-responsive-desc = Eipuru umi tenda mba’e’oka pegua oha’ãva kundahápe. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-visual-editing-title = Ñembosako'i jehecháva
+features-visual-editing-title = Ñembosako’i jehecháva
 features-visual-editing-desc = Eha’ã umi mbovy’aha, mboysýi ha myenyhẽha. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Apopyre
 features-performance-desc = Embojera pa’ã renda, emyatyrõ mba’eapo ha eipurukuaa mba’epirã. <a data-l10n-name="learn-more">{ features-learn-more }</a>

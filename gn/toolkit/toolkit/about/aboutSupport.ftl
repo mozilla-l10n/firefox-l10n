@@ -213,8 +213,8 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha’ãrõva pe pa’ũ aravo je’epyréva)
-       *[other] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha’ãrõva pe pa’ũ aravo je’epyréva)
+        [one] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha’ãrõva pa’ũ aravo je’epyrévape)
+       *[other] Opaite marandu jejavy rehegua (oike avei { $reports } javy ha’ãrõva pa’ũ aravo je’epyrévape)
     }
 raw-data-copied = Mba’ekuaarã hi’akýva ohasáva kuatiajokohápe
 text-copied = Moñe’ẽrã oñembohasáma kuatiajokohápe
