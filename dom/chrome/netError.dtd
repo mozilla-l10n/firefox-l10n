@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "Page Load Error">
+<!ENTITY loadError.label "Error de cargament de la pagina">
 <!ENTITY retry.label "Tornar ensajar">
 
 <!-- Specific error messages -->
@@ -38,7 +38,7 @@
 <!ENTITY notCached.title "Lo document a expirat">
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas disponible dins lo cache del navegador.</p> <ul> <li>Per de rasons de seguretat, lo navegador redemanda pas automaticament los documents sensibles.</li> <li>Clicar sus « Ensajar tornarmai » per tornar demandar lo document a partir del site Web.</li> </ul>">
 
-<!ENTITY netOffline.title "Offline Mode">
+<!ENTITY netOffline.title "Mòde fòra connexion">
 <!ENTITY netOffline.longDesc2 "<p>Lo navegador es en mòde fòra connexion e se pòt pas connectar a l&apos;adreça indicada.</p><ul><li>L&apos;ordenador es connectat a la ret ?</li><li>Clicatz sul boton &quot;Ensajar tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
@@ -47,8 +47,8 @@
 <!ENTITY unsafeContentType.title "Tipe de fichièr pas segur">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
 
-<!ENTITY netReset.title "Connection Interrupted">
-<!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
+<!ENTITY netReset.title "Connexion interrompuda">
+<!ENTITY netReset.longDesc "<p>Lo ligam ret es estat interromput pendent la negociacion d’una connexion. Tornat ensajar</p>">
 
 <!ENTITY netTimeout.title "Network Timeout">
 <!ENTITY netTimeout.longDesc "<p>Lo navegador a esperat tròp longtemps al moment de la connexion al site e a arrestat d'esperar una responsa.</p> <ul> <li>Benlèu que lo servidor es en suscarga o es temporàriament en pana ? Ensajatz pus tard.</li><li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la ret de vòstre ordenador.</li> <li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy ? De paramètres incorrèctes pòdon interferir amb la navegacion sus lo Web.</li> <li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li> </ul>">
