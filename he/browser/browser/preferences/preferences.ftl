@@ -816,6 +816,10 @@ forms-master-pw-fips-title = הינך כרגע במצב FIPS. ‏FIPS דורש �
 forms-primary-pw-change =
     .label = שינוי ססמה ראשית…
     .accesskey = נ
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = מצבך כרגע הוא FIPS. ‏FIPS דורש ססמה ראשית לא־ריקה.
 forms-master-pw-fips-desc = שינוי הססמה נכשל
 
