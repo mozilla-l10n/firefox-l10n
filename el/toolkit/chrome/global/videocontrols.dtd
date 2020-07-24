@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Αναπαραγωγή">
 <!ENTITY playButton.pauseLabel "Παύση">
 <!ENTITY muteButton.muteLabel "Σίγαση">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Καρέ που αποκωδικοποιήθηκαν">
 <!ENTITY stats.framesPresented "Καρέ που παρουσιάστηκαν">
 <!ENTITY stats.framesPainted "Καρέ που ζωγραφίσθηκαν">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Προβολή σε Εικόνα εντός εικόνας">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Κάντε αναπαραγωγή βίντεο στο προσκήνιο ενώ κάνετε άλλα πράγματα στο &brandShortName;">
 
 <!ENTITY error.aborted "Η φόρτωση του βίντεο διακόπηκε.">
 <!ENTITY error.network "Η αναπαραγωγή του βίντεο εγκαταλείφθηκε λόγω σφάλματος δικτύου.">
