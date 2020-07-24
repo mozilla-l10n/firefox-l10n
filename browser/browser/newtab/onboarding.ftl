@@ -90,7 +90,7 @@ onboarding-multistage-theme-label-automatic = Automatico
 onboarding-multistage-theme-description-automatic = Utilizza il tema del sistema
 onboarding-multistage-theme-label-light = Chiaro
 onboarding-multistage-theme-label-dark = Scuro
-onboarding-multistage-theme-label-colorful = Colorato
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -119,12 +119,12 @@ onboarding-multistage-theme-tooltip-dark =
     scura per pulsanti, menu e finestre.
   .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
 
-# Tooltip displayed on hover of colorful theme
-onboarding-multistage-theme-tooltip-colorful =
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
   .title =
     Utilizza una combinazione di colori
     variegata per pulsanti, menu e finestre.
-  .aria-label = { onboarding-multistage-theme-tooltip-colorful.title }
+  .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
