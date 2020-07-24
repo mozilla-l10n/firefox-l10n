@@ -798,6 +798,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = 使用主密码
     .accesskey = U
+forms-primary-pw-learn-more-link = 详细了解
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -808,6 +809,10 @@ forms-master-pw-fips-title = 您正处于 FIPS 模式。该模式需要一个非
 forms-primary-pw-change =
     .label = 更改主密码…
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = 您正处于 FIPS 模式。该模式需要一个非空的主密码。
 forms-master-pw-fips-desc = 密码修改失败
 
