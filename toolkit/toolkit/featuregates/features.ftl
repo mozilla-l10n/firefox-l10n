@@ -60,7 +60,7 @@ experimental-features-web-api-beforeinput-description = Den globale <a data-l10n
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
-experimental-features-css-constructable-stylesheets-description = Tilleggingen av en konstruktør til <a data-l10n-name="mdn-cssstyleheet">CSSStyleSheet</a>-grensesnittet samt en rekke relaterte endringer gjør det mulig å lage nye stilsett direkte uten å måtte legge settet til HTML. Dette gjør det mye enklere å lage gjenbrukbare stilsett for bruk med <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Se <a data-l10n-name="bugzilla">bug 1520690</a> for mer informasjon.
+experimental-features-css-constructable-stylesheets-description = Tilleggingen av en konstruktør til <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-grensesnittet samt en rekke relaterte endringer gjør det mulig å lage nye stilsett direkte uten å måtte legge settet til HTML. Dette gjør det mye enklere å lage gjenbrukbare stilsett for bruk med <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Se <a data-l10n-name="bugzilla">bug 1520690</a> for mer informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
