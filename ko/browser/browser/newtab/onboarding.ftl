@@ -57,31 +57,59 @@ onboarding-multistage-import-header = 비밀번호, 북마크 및 <span data-l10
 onboarding-multistage-import-subtitle = 다른 브라우저에서 오셨나요? 모든 것을 { -brand-short-name }에 쉽게 가져올 수 있습니다.
 onboarding-multistage-import-primary-button-label = 가져오기 시작
 onboarding-multistage-import-secondary-button-label = 나중에
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = <span data-l10n-name="zap">외양</span>을 선택하세요
-onboarding-multistage-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
-onboarding-multistage-theme-primary-button-label = 테마 저장
-onboarding-multistage-theme-secondary-button-label = 나중에
-onboarding-multistage-theme-label-light = 밝게
-onboarding-multistage-theme-label-dark = 어둡게
-onboarding-multistage-theme-label-colorful = 색상형
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        이 기기에서 이 사이트들을 찾았습니다.
-        사용자가 가져오도록 선택하지 않는 한,
-        { -brand-short-name }는 다른 브라우저로부터
-        데이터를 저장하거나 동기화하지 않습니다.
-    .aria-label = { onboarding-import-sites-info.title }
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = 이 기기에서 여기에 나열된 사이트들을 찾았습니다. 사용자가 가져오도록 선택하지 않는 한, { -brand-short-name }는 다른 브라우저로부터 데이터를 저장하거나 동기화하지 않습니다.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = 시작하기:  { $current } / { $total } 화면
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = <span data-l10n-name="zap">외양</span>을 선택하세요
+onboarding-multistage-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
+onboarding-multistage-theme-primary-button-label = 테마 저장
+onboarding-multistage-theme-secondary-button-label = 나중에
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = 자동
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = 시스템 테마 사용
+onboarding-multistage-theme-label-light = 밝게
+onboarding-multistage-theme-label-dark = 어둡게
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        버튼, 메뉴 및 창에
+        운영 체제의 모양을 상속.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        버튼, 메뉴 및 창에
+        밝은 모양을 사용.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        버튼, 메뉴 및 창에
+        어두운 모양을 사용.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        버튼, 메뉴 및 창에
+        색상 모양을 사용.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
