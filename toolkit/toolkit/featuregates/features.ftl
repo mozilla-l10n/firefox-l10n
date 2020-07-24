@@ -53,16 +53,22 @@ experimental-features-css-focus-visible-description = Tillèt at focus-stilar bl
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Den globale <a data-l10n-name="mdn-beforeinput">beforeinput</a>-hendinga vert fyrt av på <a data-l10n-name="mdn-input">&lt;input&gt;</a>- og <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>-element, eller eit kva som helst element dersom <a data-l10n-name="mdn-contenteditable">contenteditable</a>-attributtet er slått på, rett før verdien til elementet vert endra. Hendinga gjer at nettappar kan overstyre standardåtferda til nettlesaren for brukarinteraksjon, til dømes kan nettappar avbryte brukarinndata berre for spesifikke teikn eller kan endre innliming av styla tekst berre med godkjende stilar.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Tillegginga av ein konstruktør til <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-grensesnittet i tillegg til ei rekkje relaterte endringar gjer det mogleg å lage nye stilsett direkte, utan å måtte leggje settet til HTML. Dette gjer det mykje enklare å lage gjenbruksstilsett for bruk med <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Sjå <a data-l10n-name="bugzilla">bug 1520690</a> for meir informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Heile implementeringa til { -brand-short-name } av Media Session API-et er enno eksperimentell. Denne API-en vert brukt til å tilpasse handteringa av medierelaterte varsel, for å administrere hendingar og data som er nyttige for å presentere eit brukargrensesnitt for å administrere medieavspeling, og for å skaffe metadata for mediefiler. Sjå <a data-l10n-name="bugzilla">bug 1112032</a> for meir informasjon.
 experimental-features-devtools-color-scheme-simulation =
     .label = Utviklarverktøy: Simulering av fargeskjema
+experimental-features-devtools-color-scheme-simulation-description = Legg til eit alternativ for å simulere ulike fargeskjema som lar deg teste <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-schema</a>-mediespørjing. Ved å bruke denne mediespørjinga lar stilsettet ditt svare på om brukaren føretrekkjer eit lyst eller mørkt brukargrensesnitt. Denne funksjonen lar deg teste koden din utan å måtte endre innstillingar i nettlesaren (eller operativsystemet, dersom nettlesaren følgjer ei systemavhengig fargevalinnstilling). Sjå <a data-l10n-name="bugzilla1">bug 1550804</a> og <a data-l10n-name="bugzilla2">bug 1137699</a> for meir informasjon.
 experimental-features-devtools-execution-context-selector =
     .label = Utviklarverktøy: Utføringskontektsveljar
 experimental-features-devtools-execution-context-selector-description = Denne funksjonen viser ein knapp på kommandolinja til konsollen som lèt deg endre konteksten der uttrykket du skriv inn, skal køyrast. Sjå <a data-l10n-name="bugzilla1">bug 1605154</a> og <a data-l10n-name="bugzilla1">bug 1605153</a> for meir informasjon.
