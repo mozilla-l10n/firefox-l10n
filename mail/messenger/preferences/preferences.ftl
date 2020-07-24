@@ -41,7 +41,6 @@ composition-addressing-header = Διευθυνσιοδότηση
 privacy-main-header = Απόρρητο
 privacy-passwords-header = Κωδικοί πρόσβασης
 privacy-junk-header = Ανεπιθύμητα
-privacy-data-collection-header = Συλλογή και χρήση δεδομένων
 collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
 collection-description = Προσπαθούμε να παρέχουμε επιλογές και να συλλέγουμε μόνο τα απαραίτητα, ώστε να προσφέρουμε και να βελτιώνουμε το { -brand-short-name } για όλους. Ζητούμε πάντα άδεια πριν λάβουμε προσωπικές πληροφορίες.
 collection-privacy-notice = Σημείωση απορρήτου
@@ -95,8 +94,6 @@ addons-button = Επεκτάσεις & Θέματα
 
 ## OS Authentication dialog
 
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Επαληθεύστε την ταυτότητά σας για δημιουργία κύριου κωδικού πρόσβασης.
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Για να δημιουργήσετε κύριο κωδικό πρόσβασης, εισάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
 # This message can be seen by trying to add a Master Password.
@@ -541,6 +538,7 @@ master-password-label =
 master-password-button =
     .label = Αλλαγή κύριου κωδικού πρόσβασης…
     .accesskey = β
+forms-master-pw-fips-desc = Αποτυχία αλλαγής κωδικού πρόσβασης
 junk-description = Καθορίστε τις προεπιλεγμένες ρυθμίσεις ανεπιθύμητης αλληλογραφίας. Οι ρυθμίσεις για συγκεκριμένους λογαριασμούς μπορούν να τροποποιηθούν στις ρυθμίσεις λογαριασμού.
 junk-label =
     .label = Όταν επισημαίνεται ως ανεπιθύμητο ένα μήνυμα:
@@ -701,3 +699,6 @@ search-results-empty-message =
        *[other] Συγγνώμη! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Προτιμήσεις.
     }
 search-results-help-link = Χρειάζεστε βοήθεια; Επισκεφθείτε την <a data-l10n-name="url">Υποστήριξη { -brand-short-name }</a>
+
+## Preferences UI Search Results
+
