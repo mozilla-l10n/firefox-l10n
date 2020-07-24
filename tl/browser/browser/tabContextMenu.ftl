@@ -56,6 +56,13 @@ move-to-new-window =
 undo-close-tab =
     .label = Buksang Muli ang Isinarang Tab
     .accesskey = U
+tab-context-close-multiple-tabs =
+    .label = Magsara ng Mga Tab
+    .accesskey = M
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 close-tab =
     .label = Isara ang Tab
     .accesskey = c

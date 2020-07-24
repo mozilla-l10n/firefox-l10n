@@ -148,7 +148,7 @@ open-new-link-as-tabs =
     .label = Buksan ang mga link sa mga tab sa halip na mga bagong window
     .accesskey = w
 warn-on-close-multiple-tabs =
-    .label = Babalaan ka kapag nagsasara ng maraming mga tab
+    .label = Balaan ka kapag magsasara ng maraming tab
     .accesskey = m
 warn-on-open-many-tabs =
     .label = Balaan ka kapag ang pagbukas ng maraming mga tab ay maaaring makapagpabagal sa { -brand-short-name }
@@ -783,6 +783,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Gumamit ng master password
     .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Palitan ang Master Password...
     .accesskey = M
@@ -1138,6 +1141,9 @@ space-alert-under-5gb-ok-button =
     .label = OK, Nakuha ko
     .accesskey = K
 space-alert-under-5gb-message = Nauubusan na ng disk space ang { -brand-short-name }. Maaaring hindi maipakita nang wasto ang mga nilalaman ng website. Puntahan ang "Alamin" para maisaayos ang iyong disk usage para sa mas magandang karanasan sa pagba-browse.
+
+## Privacy Section - HTTPS-Only
+
 
 ## The following strings are used in the Download section of settings
 
