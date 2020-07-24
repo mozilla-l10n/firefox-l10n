@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Ñembohekopyahu rembiasakue
-history-intro = Oñemohendapáma ko'ã ñembohekopyahu
+history-intro = Oñemohendapáma ko’ã ñembohekopyahu
 close-button-label =
     .buttonlabelcancel = Mboty
     .title = Ñembohekopyahu rembiasakue
