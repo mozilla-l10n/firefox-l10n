@@ -95,6 +95,12 @@ onboarding-multistage-theme-tooltip-dark =
         Använd ett mörkt utseende för knappar,
         menyer och fönster.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Använd ett färgglatt utseende för knappar,
+        menyer och fönster.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
