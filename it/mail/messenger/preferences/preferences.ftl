@@ -41,7 +41,6 @@ composition-addressing-header = Indirizzamento
 privacy-main-header = Privacy
 privacy-passwords-header = Password
 privacy-junk-header = Indesiderata
-privacy-data-collection-header = Raccolta e utilizzo dati
 collection-header = Raccolta e utilizzo dati di { -brand-short-name }
 collection-description = Cerchiamo di garantire agli utenti la possibilità di scegliere, raccogliendo solo i dati necessari per realizzare e migliorare { -brand-short-name } per tutti. Prima di raccogliere dati personali, chiediamo sempre l’autorizzazione.
 collection-privacy-notice = Informativa sulla privacy
@@ -96,8 +95,6 @@ addons-button = Estensioni & Temi
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Verificare la propria identità per creare una password principale.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Per creare una password principale, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
@@ -132,7 +129,7 @@ remove-search-engine =
     .accesskey = v
 minimize-to-tray-label =
     .label = Quando { -brand-short-name } è ridotto a icona, spostalo nell’area di notifica
-    .accesskey = m
+    .accesskey = n
 new-message-arrival = All'arrivo di un messaggio:
 mail-play-sound-label =
     .label =
@@ -701,3 +698,6 @@ search-results-empty-message =
        *[other] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle preferenze.
     }
 search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web dedicato al supporto di { -brand-short-name }</a>.
+
+## Preferences UI Search Results
+
