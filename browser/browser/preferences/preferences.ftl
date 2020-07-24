@@ -790,6 +790,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = 기본 비밀번호 사용
     .accesskey = U
+forms-primary-pw-learn-more-link = 더 알아보기
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -800,6 +801,10 @@ forms-master-pw-fips-title = 현재 FIPS 모드입니다. FIPS는 기본 비밀�
 forms-primary-pw-change =
     .label = 기본 비밀번호 변경…
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = 이전에는 마스터 비밀번호라고 알려짐
 forms-primary-pw-fips-title = 현재 FIPS 모드입니다. FIPS는 기본 비밀번호가 설정되어야 합니다.
 forms-master-pw-fips-desc = 비밀번호 변경 실패
 
