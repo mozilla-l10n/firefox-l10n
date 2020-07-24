@@ -57,6 +57,13 @@ onboarding-multistage-import-header = Importer passord, bokmerker og <span data-
 onboarding-multistage-import-subtitle = Kommer du fra en annen nettleser? Det er enkelt å ta alt med til { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Start import
 onboarding-multistage-import-secondary-button-label = Ikke nå
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer =
+    Nettstedene som er oppført her ble funnet på denne enheten.
+    { -brand-short-name } lagrer eller synkroniserer
+    ikke data fra en annen nettleser med mindre du
+    velger å importer den.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -83,6 +90,12 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Arv utseendet fra operativsystemet
+        for knapper, menyer og vinduer.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light =
     .title =
