@@ -47,11 +47,19 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Willkommen bei <span data-l10n-name="zap">{ -brand-short-name }</span>
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importieren Sie Ihre Passwörter, Lesezeichen und <span data-l10n-name="zap">mehr</span>
 onboarding-multistage-import-secondary-button-label = Jetzt nicht
 onboarding-multistage-theme-secondary-button-label = Jetzt nicht
 onboarding-multistage-theme-label-light = Hell
 onboarding-multistage-theme-label-dark = Dunkel
-onboarding-multistage-theme-label-colorful = Bunt
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
