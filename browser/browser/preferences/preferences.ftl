@@ -806,6 +806,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Ana parola kullan
     .accesskey = n
+forms-primary-pw-learn-more-link = Daha fazla bilgi al
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -816,6 +817,10 @@ forms-master-pw-fips-title = Şu anda FIPS kipindesiniz. FIPS için boş olmayan
 forms-primary-pw-change =
     .label = Ana parolayı değiştir…
     .accesskey = d
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Şu anda FIPS kipindesiniz. FIPS için boş olmayan bir ana parola gereklidir.
 forms-master-pw-fips-desc = Parola değiştirme başarısız
 
