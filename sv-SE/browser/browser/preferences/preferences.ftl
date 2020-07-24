@@ -816,6 +816,10 @@ forms-master-pw-fips-title = Du är för närvarande i FIPS-läge. FIPS kräver 
 forms-primary-pw-change =
     .label = Ändra huvudlösenord…
     .accesskey = h
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Du är för närvarande i FIPS-läge. FIPS kräver ett huvudlösenord.
 forms-master-pw-fips-desc = Ändring av lösenordet misslyckades
 
