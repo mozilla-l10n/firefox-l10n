@@ -3,9 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Skriv ut
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+        [one] { $sheetCount } ark papper
+       *[other] { $sheetCount } ark papper
+    }
 printui-page-range-all = Alla
 printui-page-range-custom = Anpassad
 printui-page-range-label = Sidor
+printui-page-range-picker =
+    .aria-label = Välj sidintervall
+printui-page-custom-range =
+    .aria-label = Ange anpassat sidintervall
 # Section title for the number of copies to print
 printui-copies-label = Kopior
 printui-orientation = Orientering
