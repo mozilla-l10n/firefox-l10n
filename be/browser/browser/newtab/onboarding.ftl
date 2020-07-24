@@ -47,18 +47,22 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Вітаем у <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-primary-button-label = Пачаць наладу
+onboarding-multistage-welcome-secondary-button-label = Увайсці
 onboarding-multistage-welcome-secondary-button-text = Маеце ўліковы запіс?
 onboarding-multistage-import-secondary-button-label = Не зараз
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Гэтыя сайты былі знойдзены на гэтай прыладзе.
-        { -brand-short-name } не захоўвае і не сінхранізуе дадзеныя
-        з іншага браўзера, калі вы не выбралі
-        імпартаваць іх.
-    .aria-label = { onboarding-import-sites-info.title }
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Аўтаматычна
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Выкарыстоўваць сістэмную тэму
+onboarding-multistage-theme-label-light = Светлая
+onboarding-multistage-theme-label-dark = Цёмная
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
