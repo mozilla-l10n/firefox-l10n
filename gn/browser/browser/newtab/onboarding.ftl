@@ -57,31 +57,41 @@ onboarding-multistage-import-header = Emba’egueru ñe’ẽñemi, techaukaha h
 onboarding-multistage-import-subtitle = ¿Oúpa ambue kundaháragui? Ndahasyiete eguerahapávo { -brand-short-name } ndive.
 onboarding-multistage-import-primary-button-label = Eñepyrũ ñemba’egueru
 onboarding-multistage-import-secondary-button-label = Ani ko’ág̃a
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Eiporavo peteĩva <span data-l10n-name="zap">ma’ẽ</span>
-onboarding-multistage-theme-subtitle = Eñemomba’e { -brand-short-name } peteĩ téma ndive
-onboarding-multistage-theme-primary-button-label = Eñongatu Téma
-onboarding-multistage-theme-secondary-button-label = Ani ko’ág̃a
-onboarding-multistage-theme-label-light = Vevúi
-onboarding-multistage-theme-label-dark = Ypytũ
-onboarding-multistage-theme-label-colorful = Iporãva
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Ko’ã tenda ojejuhu ko mba’e’okápe.
-        { -brand-short-name } noñongatúi ha nombojuehéi mba’ekuaarã
-        ambue kundahára pegua ndereiporãvóirõ
-        ñemba’egueru.
-    .aria-label = { onboarding-import-sites-info.title }
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Ko’ã tenda ipapapýva ápe ejuhúta ko mba’e’okápe. { -brand-short-name } noñongatúi ha nombojuehéi mba’ekuaarã ambue kundahára pegua nderegueruséirõ.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Ku’e ñepyrũgua: mba’erechaha { $current } { $total } pegua
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Eiporavo peteĩva <span data-l10n-name="zap">ma’ẽ</span>
+onboarding-multistage-theme-subtitle = Eñemomba’e { -brand-short-name } peteĩ téma ndive
+onboarding-multistage-theme-primary-button-label = Eñongatu Téma
+onboarding-multistage-theme-secondary-button-label = Ani ko’ág̃a
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = ijeheguietéva
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Eipuru téma apopyvusugua
+onboarding-multistage-theme-label-light = Vevúi
+onboarding-multistage-theme-label-dark = Ypytũ
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Emog̃uahẽ tembiapoite ohehechaháicha
+        apopyvusu votõ, poravorã ha ovetãme g̃uarã.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
 
 ## Welcome full page string
 
