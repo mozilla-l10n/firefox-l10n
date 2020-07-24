@@ -81,7 +81,6 @@
 <!ENTITY printButton.tooltip "Imprimir elemento seleccionado">
 <!ENTITY deleteItemButton.tooltip "Eliminar elemento seleccionado">
 <!ENTITY throbber.tooltip "Ir a la página principal de &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Ir a la página principal de &brandShortName;">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de direcciones">
 <!ENTITY dirTreeHeader.label "Libretas de direcciones">
 <!ENTITY contact.heading "Contacto">
