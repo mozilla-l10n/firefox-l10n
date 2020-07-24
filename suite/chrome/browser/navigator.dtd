@@ -40,7 +40,6 @@
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 <!ENTITY throbber.tooltip "Ir a la página principal de &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Ir a la página principal de &brandShortName;">
 <!ENTITY locationBar.tooltip "Introduzca el término, palabra clave o página web que desea buscar">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Dirección">

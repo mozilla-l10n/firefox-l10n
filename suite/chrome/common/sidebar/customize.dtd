@@ -5,6 +5,9 @@
 <!ENTITY sidebar.customize.title.label "Personalizar &sidebarName;">
 <!ENTITY sidebar.customize.current.label "Pestañas en &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey "T">
+<!ENTITY sidebar.customize.title "Personalizar el panel lateral">
+<!ENTITY sidebar.customize.current2.label "Pestañas en el panel lateral:">
+<!ENTITY sidebar.customize.current2.accesskey "T">
 <!ENTITY sidebar.customize.customize.label "Personalizar pestaña…">
 <!ENTITY sidebar.customize.customize.accesskey "n">
 <!ENTITY sidebar.customize.remove.label "Eliminar">
