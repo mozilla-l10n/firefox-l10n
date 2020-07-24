@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Stäng flera flikar
     .accesskey = f
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -78,4 +82,20 @@ move-tabs =
     .accesskey = t
 move-tab =
     .label = Flytta flik
+    .accesskey = t
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Stäng flik
+            [one] Stäng flik
+           *[other] Stäng flikar
+        }
+    .accesskey = S
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Flytta flik
+            [one] Flytta flik
+           *[other] Flytta flikar
+        }
     .accesskey = t

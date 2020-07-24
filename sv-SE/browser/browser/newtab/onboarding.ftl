@@ -57,31 +57,44 @@ onboarding-multistage-import-header = Importera dina lösenord, bokmärken och <
 onboarding-multistage-import-subtitle = Kommer du från en annan webbläsare? Det är enkelt att ta med allt till { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Börja import
 onboarding-multistage-import-secondary-button-label = Inte nu
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Välj ett <span data-l10n-name = "zap">utseende</span>
-onboarding-multistage-theme-subtitle = Anpassa { -brand-short-name } med ett tema.
-onboarding-multistage-theme-primary-button-label = Spara tema
-onboarding-multistage-theme-secondary-button-label = Inte nu
-onboarding-multistage-theme-label-light = Ljust
-onboarding-multistage-theme-label-dark = Mörkt
-onboarding-multistage-theme-label-colorful = Färgglatt
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Dessa webbplatser hittades på den här enheten.
-        { -brand-short-name } sparar eller synkroniserar inte data från
-        en annan webbläsare såvida du inte väljer att
-        importera den.
-    .aria-label = { onboarding-import-sites-info.title }
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Kom igång:  skärm { $current } av { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Välj ett <span data-l10n-name = "zap">utseende</span>
+onboarding-multistage-theme-subtitle = Anpassa { -brand-short-name } med ett tema.
+onboarding-multistage-theme-primary-button-label = Spara tema
+onboarding-multistage-theme-secondary-button-label = Inte nu
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatiskt
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Använd systemtema
+onboarding-multistage-theme-label-light = Ljust
+onboarding-multistage-theme-label-dark = Mörkt
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Använd ett ljust utseende för knappar,
+        menyer och fönster.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Använd ett mörkt utseende för knappar,
+        menyer och fönster.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
 
 ## Welcome full page string
 
