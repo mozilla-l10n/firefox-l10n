@@ -48,6 +48,7 @@ experimental-features-web-api-link-preload-description = <a data-l10n-name="rel"
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Tillèt at focus-stilar blir bukte på element som knappar og skjemakontrollar, berre når dei er fokuserte ved hjelp av tastaturet (t.d. når du brukar tabulator-tasten for å hoppe mellom element), og ikkje når dei er fokuserte ved hjelp av ei mus eller anna peikeeining. Sjå <a data-l10n-name="bugzilla">bug 1617600</a> for meir informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
