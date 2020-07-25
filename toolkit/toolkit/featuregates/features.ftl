@@ -44,6 +44,15 @@ experimental-features-web-api-link-preload =
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
 experimental-features-web-api-link-preload-description = Atrybut <a data-l10n-name="rel">rel</a> o wartości <code>"preload"</code> na elemencie <a data-l10n-name="link">&lt;link&gt;</a> ma na celu pomóc zwiększyć wydajność przez umożliwienie użytkownikowi pobrania zasobów wcześniej w cyklu życia strony, zapewniając, że są one dostępne wcześniej i rzadziej blokują wyświetlanie strony. Artykuł <a data-l10n-name="readmore">„Preloading content with <code>rel="preload"</code>”</a> i <a data-l10n-name="bugzilla">zgłoszenie 1583604</a> zawierają więcej informacji.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: pseudoklasa „:focus-visible”
+experimental-features-css-focus-visible-description = Umożliwia stosowanie stylów aktywacji na elementach typu przyciski i formularze tylko wtedy, gdy zostały aktywowane za pomocą klawiatury (np. podczas przełączania między elementami klawiszem Tab), a nie gdy zostały aktywowane za pomocą myszy lub innego urządzenia wskazującego. <a data-l10n-name="bugzilla">Zgłoszenie 1617600</a> zawiera więcej informacji.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = API internetowe: zdarzenie „beforeinput”
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Ciasteczka: „SameSite=Lax” jest domyślne
