@@ -74,6 +74,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Ta funkcja wyświetla przycisk w wierszu poleceń konsoli, umożliwiający zmianę kontekstu, w którym wprowadzane wyrażenie będzie wykonywane. Zgłoszenia <a data-l10n-name="bugzilla1">1605154</a> i <a data-l10n-name="bugzilla2">1605153</a> zawierają więcej informacji.
 experimental-features-devtools-compatibility-panel =
     .label = Narzędzia dla programistów: panel zgodności
+experimental-features-devtools-compatibility-panel-description = Panel boczny inspektora stron, wyświetlający informacje o stanie zgodności aplikacji z różnymi przeglądarkami. <a data-l10n-name="bugzilla">Zgłoszenie 1584464</a> zawiera więcej informacji.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Ciasteczka: „SameSite=Lax” jest domyślne
