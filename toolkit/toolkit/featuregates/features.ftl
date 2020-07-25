@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = Layout Masonry no CSS
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Layout Masonry
 experimental-features-css-masonry-description = Ativa o suporte ao recurso experimental de layout Masonry no CSS. Consulte a <a data-l10n-name="explainer">explicação</a> para obter uma descrição de alto nível do recurso. Para fornecer feedback, comente <a data-l10n-name="w3c-issue">este problema do GitHub</a> ou <a data-l10n-name="bug">este bug</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,10 @@ experimental-features-web-gpu-description = API experimental para gráficos e co
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Suporte experimental para AVIF: formato de ficheiro de imagem AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = API da Web: WebGPU
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por predefinição
