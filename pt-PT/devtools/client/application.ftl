@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Debug
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Start
     .title = Can only start service workers if multi e10s is disabled
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Iniciar
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Updated <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -73,6 +76,10 @@ serviceworker-empty-suggestions-aboutdebugging = Inspect Service Workers from ot
 serviceworker-empty-intro2 = Não foram encontrados service workers
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Saber mais
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = Se a página atual tiver um service worker, você poderá procurar erros na <a>Consola</a> ou percorrer o registo do service worker no <span>Depurador</span>.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Ver service workers de outros domínios

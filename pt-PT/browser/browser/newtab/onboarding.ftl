@@ -57,31 +57,63 @@ onboarding-multistage-import-header = Importar as suas palavras-passe, marcadore
 onboarding-multistage-import-subtitle = Era um utilizador de outro navegador? É simples trazer tudo para o { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Iniciar importação
 onboarding-multistage-import-secondary-button-label = Agora não
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Escolha um <span data-l10n-name="zap">visual</span>
-onboarding-multistage-theme-subtitle = Personalize o { -brand-short-name } com um tema.
-onboarding-multistage-theme-primary-button-label = Guardar tema
-onboarding-multistage-theme-secondary-button-label = Agora não
-onboarding-multistage-theme-label-light = Claro
-onboarding-multistage-theme-label-dark = Escuro
-onboarding-multistage-theme-label-colorful = Colorido
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Estes sites foram encontrados neste dispositivo.
-        O { -brand-short-name } não guarda ou sincroniza dados de 
-        outro navegador a menos que opte por
-        importar os mesmos.
-    .aria-label = { onboarding-import-sites-info.title }
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer =
+    Foram encontrados neste dispositivo os sites listados.
+    O { -brand-short-name } não guarda ou sincroniza dados de 
+    outro navegador a menos que opte por
+    importar os mesmos.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Primeiros passos: ecrã { $current } de { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Escolha um <span data-l10n-name="zap">visual</span>
+onboarding-multistage-theme-subtitle = Personalize o { -brand-short-name } com um tema.
+onboarding-multistage-theme-primary-button-label = Guardar tema
+onboarding-multistage-theme-secondary-button-label = Agora não
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automático
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Utilizar o tema do sistema
+onboarding-multistage-theme-label-light = Claro
+onboarding-multistage-theme-label-dark = Escuro
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Herdar a aparência do seu sistema 
+        operativo para botões, menus e janelas.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Utilizar uma aparência clara para 
+        botões, menus e janelas.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Utilizar uma aparência escura para 
+        botões, menus e janelas.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Utilizar uma aparência colorida para 
+        botões, menus e janelas.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
