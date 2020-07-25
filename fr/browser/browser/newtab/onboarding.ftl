@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Pour commencer
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Bienvenue dans { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Bienvenue dans <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Vous avez le navigateur.<br/>Découvrez les autres ressources de { -brand-product-name }.
 onboarding-welcome-learn-more = Découvrir tous les avantages.
 onboarding-join-form-header = Rejoignez { -brand-product-name }
@@ -44,16 +41,25 @@ onboarding-start-browsing-button-label = Commencer la navigation
 onboarding-cards-dismiss =
     .title = Retirer
     .aria-label = Retirer
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Ces sites ont été trouvés sur cet appareil.
-        { -brand-short-name } n’enregistre ni ne synchronise
-        les données d’autres navigateurs, sauf
-        si vous choisissez de les importer.
-    .aria-label = { onboarding-import-sites-info.title }
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Bienvenue dans <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-import-secondary-button-label = Plus tard
+onboarding-multistage-theme-secondary-button-label = Plus tard
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatique
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Utiliser le thème du système
+onboarding-multistage-theme-label-dark = Sombre
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
