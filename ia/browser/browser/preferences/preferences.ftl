@@ -817,10 +817,6 @@ forms-master-pw-fips-title = Tu es actualmente in modo FIPS. Tal modo require un
 forms-primary-pw-change =
     .label = Modificar le contrasigno primari…
     .accesskey = p
-# Leave this message empty if the translation for "Primary Password" matches
-# "Master Password" in your language. If you're editing the FTL file directly,
-# use { "" } as the value.
-forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Tu es actualmente in modo FIPS. Tal modo require un contrasigno primari non vacue.
 forms-master-pw-fips-desc = Le cambio de contrasigno ha fallite
 
