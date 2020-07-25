@@ -25,13 +25,22 @@ reset-password-window =
 pippki-failed-pw-change = Não foi possível alterar a palavra-passe.
 pippki-incorrect-pw = A palavra-passe que digitou não corresponde à palavra-passe principal atual. Por favor, tente novamente.
 pippki-pw-change-ok = Palavra-passe alterada com sucesso.
+pippki-pw-empty-warning = As suas palavras-passe armazenadas e chaves privadas não serão protegidas.
+pippki-pw-erased-ok = Eliminou a sua palavra-passe. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Aviso! Decidiu não utilizar uma palavra-passe. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = Atualmente, está no modo FIPS. Este modo requer uma palavra-passe não vazia.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Repor palavra-passe principal
+    .style = width: 40em
 reset-password-button-label =
     .label = Repor
 reset-password-text = Se remover a palavra-passe mestra, todas as suas palavras-passe da Internet e e-mail, dados de formulários, certificados pessoais e chaves privadas guardadas serão esquecidas. Tem a certeza que pretende repor a palavra-passe mestra?
+reset-primary-password-text = Se remover a sua palavra-passe principal, todas as suas palavras-passe da Internet e e-mail, certificados pessoais e chaves privadas guardadas serão esquecidas. Tem a certeza de que pretende repor a sua palavra-passe principal?
+pippki-reset-password-confirmation-title = Repor palavra-passe principal
+pippki-reset-password-confirmation-message = A sua palavra-passe principal foi reposta.
 
 ## Downloading cert dialog
 
