@@ -53,6 +53,21 @@ experimental-features-css-focus-visible-description = Umożliwia stosowanie styl
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = API internetowe: zdarzenie „beforeinput”
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Globalne zdarzenie <a data-l10n-name="mdn-beforeinput">beforeinput</a> jest wywoływane na elementach <a data-l10n-name="mdn-input">&lt;input&gt;</a> i <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> lub dowolnym elemencie, którego atrybut <a data-l10n-name="mdn-contenteditable">contenteditable</a> jest włączony, natychmiast przed zmianą wartości elementu. To zdarzenie umożliwia aplikacjom internetowym zastępowanie domyślnego zachowania przeglądarki podczas działań użytkownika, np. aplikacje internetowe mogą anulować wprowadzane dane przez użytkownika tylko dla określonych znaków lub mogą modyfikować wklejanie tekstu ze stylem tylko za pomocą zatwierdzonych stylów.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: arkusze stylów za pomocą konstruktora
+experimental-features-css-constructable-stylesheets-description = Dodanie konstruktora do interfejsu <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, a także szereg powiązanych zmian umożliwia bezpośrednie tworzenie nowych arkuszy stylów bez konieczności dodawania arkusza do kodu HTML. Znacznie ułatwia to tworzenie arkuszy stylów wielokrotnego użytku do użycia za pomocą <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. <a data-l10n-name="bugzilla">Zgłoszenie 1520690</a> zawiera więcej informacji.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = API internetowe: API sesji multimedialnej
+experimental-features-media-session-api-description = Cała implementacja API sesji multimedialnej („Media Session API”) programu { -brand-short-name } jest obecnie eksperymentalna. To API jest używane do regulowania obsługi powiadomień związanych z multimediami, zarządzania zdarzeniami i danymi przydatnymi do wyświetlania interfejsu użytkownika do zarządzania odtwarzaniem multimediów oraz uzyskiwania metadanych plików multimedialnych. <a data-l10n-name="bugzilla">Zgłoszenie 1112032</a> zawiera więcej informacji.
+experimental-features-devtools-color-scheme-simulation =
+    .label = Narzędzia dla programistów: symulacja schematu kolorów
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Ciasteczka: „SameSite=Lax” jest domyślne
