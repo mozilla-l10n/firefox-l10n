@@ -806,6 +806,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Usar una contraseña primaria
     .accesskey = U
+forms-primary-pw-learn-more-link = Aprender más
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -816,6 +817,10 @@ forms-master-pw-fips-title = Actualmente estás en modo FIPS. FIPS requiere de u
 forms-primary-pw-change =
     .label = Cambiar contraseña primaria…
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Anteriormente conocida como contraseña maestra
 forms-primary-pw-fips-title = Actualmente estás en modo FIPS. FIPS requiere de una contraseña primaria que no esté en blanco.
 forms-master-pw-fips-desc = Falló el cambio de contraseña
 
