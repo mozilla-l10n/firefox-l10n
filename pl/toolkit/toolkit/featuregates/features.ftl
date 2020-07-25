@@ -21,6 +21,11 @@ experimental-features-web-gpu-description = Eksperymentalne API do grafiki i pr
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperymentalna obsługa AVIF: formatu obrazów AV1
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = API internetowe: WebGPU
+experimental-features-web-gpu-description2 = To nowe API dostarcza niskopoziomową obsługę wykonywania obliczeń i renderowania grafiki za pomocą <a data-l10n-name="wikipedia">procesora graficznego (GPU)</a> urządzenia lub komputera użytkownika. <a data-l10n-name="spec">Specyfikacja</a> jest nadal w trakcie przygotowywania. <a data-l10n-name="bugzilla">Zgłoszenie 1602129</a> zawiera więcej informacji.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Ciasteczka: „SameSite=Lax” jest domyślne
