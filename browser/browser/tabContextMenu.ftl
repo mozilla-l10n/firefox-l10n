@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Fechar múltiplos separadores
     .accesskey = m
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -78,4 +82,20 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = Mover separador
+    .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Fechar separador
+            [one] Fechar separador
+           *[other] Fechar separadores
+        }
+    .accesskey = c
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mover separador
+            [one] Mover separador
+           *[other] Mover separadores
+        }
     .accesskey = v
