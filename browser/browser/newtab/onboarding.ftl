@@ -57,31 +57,59 @@ onboarding-multistage-import-header = Імпортуйте свої паролі
 onboarding-multistage-import-subtitle = Переходите з іншого браузера? Легко переносьте усе до { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Почати імпортування
 onboarding-multistage-import-secondary-button-label = Не зараз
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Змініть <span data-l10n-name="zap">зовнішній вигляд</span>
-onboarding-multistage-theme-subtitle = Персоналізуйте { -brand-short-name } за допомогою теми.
-onboarding-multistage-theme-primary-button-label = Зберегти тему
-onboarding-multistage-theme-secondary-button-label = Не зараз
-onboarding-multistage-theme-label-light = Світла
-onboarding-multistage-theme-label-dark = Темна
-onboarding-multistage-theme-label-colorful = Барвиста
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Ці сайти знайдено на цьому пристрої.
-        { -brand-short-name } не зберігає та не синхронізує
-        дані з іншого браузера,
-        доки ви не захочете їх імпортувати.
-    .aria-label = { onboarding-import-sites-info.title }
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Перелічені тут сайти знайдено на цьому пристрої. { -brand-short-name } не зберігає та не синхронізує дані з іншого браузера, доки ви не захочете їх імпортувати.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Початок роботи: екран { $current } з { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Змініть <span data-l10n-name="zap">зовнішній вигляд</span>
+onboarding-multistage-theme-subtitle = Персоналізуйте { -brand-short-name } за допомогою теми.
+onboarding-multistage-theme-primary-button-label = Зберегти тему
+onboarding-multistage-theme-secondary-button-label = Не зараз
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Автоматично
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Застосувати тему системи
+onboarding-multistage-theme-label-light = Світла
+onboarding-multistage-theme-label-dark = Темна
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Наслідування зовнішнього вигляду вашої
+        операційної системи кнопками, меню та вікнами.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Використовувати світлий вигляд
+        кнопок, меню та вікон.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Використовувати світлий вигляд
+        кнопок, меню та вікон.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Використовувати різнобарвний вигляд
+        кнопок, меню та вікон.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
