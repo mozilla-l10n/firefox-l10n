@@ -808,8 +808,9 @@ forms-master-pw-use =
     .label = Hasło główne
     .accesskey = H
 forms-primary-pw-use =
-    .label = Hasło główne
+    .label = Hasło główne.
     .accesskey = H
+forms-primary-pw-learn-more-link = Więcej informacji
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -820,6 +821,10 @@ forms-master-pw-fips-title = Program pracuje obecnie w trybie FIPS. Tryb FIPS w
 forms-primary-pw-change =
     .label = Zmień hasło główne…
     .accesskey = Z
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Program pracuje obecnie w trybie FIPS. Tryb FIPS wymaga niepustego hasła głównego.
 forms-master-pw-fips-desc = Zmiana hasła się nie powiodła.
 
