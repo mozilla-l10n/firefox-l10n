@@ -39,6 +39,8 @@ reset-password-button-label =
     .label = Eliminar
 reset-password-text = Si elimina su contraseña maestra, todas sus contraseñas de webs y correo electrónico, datos de formularios, certificados personales y claves privadas se olvidarán. ¿Está seguro de eliminar su contraseña maestra?
 reset-primary-password-text = Si restablece su contraseña maestra, todas las contraseñas de webs y de correo electrónico, certificados personales y llaves privadas almacenados serán olvidadas. ¿Está seguro de que quiere restablecer su contraseña maestra?
+pippki-reset-password-confirmation-title = Restablecer la contraseña maestra
+pippki-reset-password-confirmation-message = Se restableció su contraseña maestra.
 
 ## Downloading cert dialog
 
