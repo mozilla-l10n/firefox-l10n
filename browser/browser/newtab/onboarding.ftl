@@ -95,13 +95,21 @@ onboarding-multistage-theme-tooltip-automatic =
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light =
     .title =
-        Usar una apariencia clara para botones
+        Usar una apariencia clara para botones, 
         menús y ventanas.
     .aria-label = { onboarding-multistage-theme-tooltip-light.title }
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark =
-    .title = Usar una apariencia oscura para botones, menús y ventanas.
+    .title =
+        Usar una apariencia oscura para botones, 
+        menús y ventanas.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Usar una apariencia colorida para botones,
+        menús y ventanas.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
