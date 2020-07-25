@@ -800,6 +800,10 @@ forms-master-pw-fips-title = Anda sedang dalam mode FIPS. Mode ini mewajibkan Sa
 forms-primary-pw-change =
     .label = Ubah Sandi Utama…
     .accesskey = U
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Anda sedang dalam mode FIPS. Mode ini mewajibkan Sandi Utama harus diisi.
 forms-master-pw-fips-desc = Sandi Gagal Diubah
 
