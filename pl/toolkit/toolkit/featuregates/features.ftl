@@ -26,6 +26,21 @@ experimental-features-avif-description = Eksperymentalna obsługa AVIF: formatu 
 experimental-features-web-gpu2 =
     .label = API internetowe: WebGPU
 experimental-features-web-gpu-description2 = To nowe API dostarcza niskopoziomową obsługę wykonywania obliczeń i renderowania grafiki za pomocą <a data-l10n-name="wikipedia">procesora graficznego (GPU)</a> urządzenia lub komputera użytkownika. <a data-l10n-name="spec">Specyfikacja</a> jest nadal w trakcie przygotowywania. <a data-l10n-name="bugzilla">Zgłoszenie 1602129</a> zawiera więcej informacji.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Multimedia: AVIF
+experimental-features-media-avif-description = Po włączeniu tej funkcji { -brand-short-name } obsługuje format obrazów AV1 (AVIF). Jest to format dla nieruchomych obrazów wykorzystujący możliwości algorytmów kompresji wideo AV1 w celu zmniejszenia rozmiaru pliku. <a data-l10n-name="bugzilla">Zgłoszenie 1443863</a> zawiera więcej informacji.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = API internetowe: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Nasza implementacja globalnego atrybutu <a data-l10n-name="mdn-inputmode">inputmode</a> została zaktualizowana zgodnie ze <a data-l10n-name="whatwg">specyfikacją WHATWG</a>, ale nadal musimy wprowadzić także inne zmiany, na przykład umożliwić działanie w treściach „contenteditable”. <a data-l10n-name="bugzilla">Zgłoszenie 1205133</a> zawiera więcej informacji.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = API internetowe: <link rel="preload">
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Ciasteczka: „SameSite=Lax” jest domyślne
