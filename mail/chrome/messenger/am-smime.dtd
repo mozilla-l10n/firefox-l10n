@@ -52,11 +52,13 @@
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Upravljanje potrdil S/MIME">
+<!ENTITY manageDevices2.label "Varnostne naprave S/MIME">
 
 <!ENTITY technologySMIME.label "Daj prednost S/MIME">
 <!ENTITY technologyOpenPGP.label "Daj prednost OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
+
 <!ENTITY manageKeys.label "Upravljaj ključe OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
