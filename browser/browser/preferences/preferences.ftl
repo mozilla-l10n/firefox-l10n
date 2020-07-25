@@ -811,7 +811,7 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-master-pw-fips-title = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
 forms-primary-pw-fips-title = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
-forms-master-pw-fips-desc = La password non è stata cambiata
+forms-master-pw-fips-desc = Modifica della password non riuscita
 
 ## OS Authentication dialog
 
