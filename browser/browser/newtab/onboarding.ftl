@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Začínáme
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Vítá vás { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Vítá vás <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body =
     Prohlížeč teď už máte.<br/>Poznejte ještě zbytek { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "gen") }
@@ -62,6 +59,23 @@ onboarding-start-browsing-button-label = Začít prohlížet
 onboarding-cards-dismiss =
     .title = Skrýt
     .aria-label = Skrýt
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Vítá vás <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-text = Už máte účet?
+onboarding-multistage-import-secondary-button-label = Teď ne
+onboarding-multistage-theme-secondary-button-label = Teď ne
+onboarding-multistage-theme-label-light = Světlý
+onboarding-multistage-theme-label-dark = Tmavý
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
