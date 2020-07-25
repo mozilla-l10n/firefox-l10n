@@ -101,6 +101,13 @@ master-password-os-auth-dialog-message-win = Per creare una password principale,
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = creare una password principale
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Per creare una password principale, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = creare una password principale
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -538,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Cambia Password principale…
     .accesskey = C
+primary-password-description = È possibile impostare una password principale per proteggere tutte le altre password; sarà però obbligatorio digitarla una volta per sessione.
+primary-password-label =
+    .label = Utilizza una password principale
+    .accesskey = U
+primary-password-button =
+    .label = Cambia la password principale…
+    .accesskey = m
+forms-primary-pw-fips-title = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
+forms-master-pw-fips-desc = Modifica della password non riuscita
 junk-description = Scegliere le impostazioni predefinite per la posta indesiderata. Le impostazioni di posta indesiderata specifiche possono essere configurate nelle Impostazioni account.
 junk-label =
     .label = Quando i messaggi sono segnati come posta indesiderata:
