@@ -37,6 +37,7 @@ master-password-warning = Lütfen ana parolanızı unutmayacağınızdan emin ol
 remove-password =
     .title = Ana parolayı kaldır
 primary-password-admin = Yöneticiniz, kullanıcı adlarını ve parolaları kaydetmek için bir ana parola belirlemenizi şart koşuyor.
+primary-password-description = Ana parola; bu cihazdaki kullanıcı adları ve parolalarınız gibi hassas bilgileri korumak için kullanılır. Ana parola oluşturduktan sonra kayıtlı bilgilere ulaşmak istediğinizde { -brand-short-name } her oturumda bir kereliğine size ana parolayı soracaktır.
 primary-password-warning = Lütfen ana parolanızı unutmayacağınızdan emin olun. Ana parolanızı unutursanız, bu cihazda ana parolayla korunan hiçbir bilgiye erişemezsiniz.
 remove-primary-password =
     .title = Ana parolayı kaldır
