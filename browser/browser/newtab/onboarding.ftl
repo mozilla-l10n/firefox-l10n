@@ -57,31 +57,59 @@ onboarding-multistage-import-header = Nhập mật khẩu, dấu trang và <span
 onboarding-multistage-import-subtitle = Đã sử dụng một trình duyệt khác? Rất dễ dàng để mang mọi thứ đến { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Bắt đầu nhập
 onboarding-multistage-import-secondary-button-label = Không phải bây giờ
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Chọn một <span data-l10n-name="zap">cách nhìn</span>
-onboarding-multistage-theme-subtitle = Cá nhân hóa { -brand-short-name } với một chủ đề.
-onboarding-multistage-theme-primary-button-label = Lưu chủ đề
-onboarding-multistage-theme-secondary-button-label = Không phải bây giờ
-onboarding-multistage-theme-label-light = Sáng
-onboarding-multistage-theme-label-dark = Tối
-onboarding-multistage-theme-label-colorful = Màu
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Những trang web đã được tìm thấy trên thiết bị này.
-        { -brand-short-name } không lưu hoặc đồng bộ hóa
-        dữ liệu từ trình duyệt khác trừ khi bạn chọn
-        nhập nó.
-    .aria-label = { onboarding-import-sites-info.title }
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Các trang web được liệt kê ở đây đã được tìm thấy trên thiết bị này. { -brand-short-name } không lưu hoặc đồng bộ hóa dữ liệu từ trình duyệt khác trừ khi bạn chọn nhập nó.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Bắt đầu: { $current } của { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Chọn một <span data-l10n-name="zap">cách nhìn</span>
+onboarding-multistage-theme-subtitle = Cá nhân hóa { -brand-short-name } với một chủ đề.
+onboarding-multistage-theme-primary-button-label = Lưu chủ đề
+onboarding-multistage-theme-secondary-button-label = Không phải bây giờ
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Tự động
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Sử dụng chủ đề hệ thống
+onboarding-multistage-theme-label-light = Sáng
+onboarding-multistage-theme-label-dark = Tối
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Kế thừa sự xuất hiện của hệ điều hành
+        của bạn cho các nút, menu và cửa sổ.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Sử dụng giao diện sáng cho các nút,
+        menu và cửa sổ.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Sử dụng giao diện tối cho các nút,
+        menu và cửa sổ.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Sử dụng giao diện đầy màu sắc cho các nút,
+        menu và cửa sổ
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 

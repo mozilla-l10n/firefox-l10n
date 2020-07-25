@@ -69,7 +69,11 @@ experimental-features-media-session-api-description = Toàn bộ triển khai { 
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
 experimental-features-devtools-color-scheme-simulation-description = Thêm một tùy chọn để mô phỏng các lược đồ màu khác nhau cho phép bạn kiểm tra các truy vấn phương tiện <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Sử dụng truy vấn phương tiện này cho phép biểu định kiểu của bạn phản hồi xem người dùng thích giao diện người dùng sáng hay tối. Tính năng này cho phép bạn kiểm tra mã của mình mà không phải thay đổi cài đặt trong trình duyệt (hoặc hệ điều hành, nếu trình duyệt tuân theo cài đặt bảng màu toàn hệ thống). Xem <a data-l10n-name="bugzilla1">bug 1550804</a> và <a data-l10n-name="bugzilla2">bug 1137699</a> để biết thêm chi tiết.
+experimental-features-devtools-execution-context-selector =
+    .label = Developer Tools: Execution Context Selector
 experimental-features-devtools-execution-context-selector-description = Tính năng này hiển thị một nút trên dòng lệnh Bảng điều khiển cho phép bạn thay đổi ngữ cảnh trong đó biểu thức bạn nhập sẽ được thực thi. Xem <a data-l10n-name="bugzilla1">bug 1605154</a> và <a data-l10n-name="bugzilla2">bug 1605153</a> để biết thêm chi tiết.
+experimental-features-devtools-compatibility-panel =
+    .label = Developer Tools: Compatibility Panel
 experimental-features-devtools-compatibility-panel-description = Một bảng điều khiển bên lề cho Trình kiểm tra trang cho bạn thông tin chi tiết về trạng thái tương thích trình duyệt chéo của ứng dụng của bạn. Xem <a data-l10n-name="bugzilla">bug 1584464</a> để biết thêm chi tiết.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
@@ -91,6 +95,6 @@ experimental-features-cookie-samesite-schemeful =
 experimental-features-cookie-samesite-schemeful-description = Xem cookie từ cùng một tên miền, nhưng với các chương trình khác nhau (ví dụ: http://example.com và https://example.com) là trang web chéo thay vì cùng một trang web. Cải thiện bảo mật, nhưng có thể khiến một số trang web hoạt động không đúng.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
-    .label = Công cụ dành cho nhà phát triển: Gỡ lỗi Service Worker
+    .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Cho phép hỗ trợ thử nghiệm Service Workers trong thẻ Trình gỡ lỗi. Tính năng này có thể làm chậm Công cụ dành cho nhà phát triển và tăng mức tiêu thụ bộ nhớ.

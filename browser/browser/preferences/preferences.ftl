@@ -790,6 +790,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Sử dụng mật khẩu chính
     .accesskey = U
+forms-primary-pw-learn-more-link = Tìm hiểu thêm
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -800,6 +801,10 @@ forms-master-pw-fips-title = Bạn đang ở chế độ FIPS. FIPS yêu cầu m
 forms-primary-pw-change =
     .label = Thay đổi mật khẩu chính…
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Bạn hiện đang ở chế độ FIPS. FIPS yêu cầu tính năng mật khẩu chính.
 forms-master-pw-fips-desc = Thay đổi mật khẩu không thành công
 
