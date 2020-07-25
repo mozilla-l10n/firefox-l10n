@@ -810,6 +810,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Ужываць галоўны пароль
     .accesskey = г
+forms-primary-pw-learn-more-link = Даведацца больш
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -820,6 +821,10 @@ forms-master-pw-fips-title = Зараз вы ў рэжыме FIPS. Для FIPS �
 forms-primary-pw-change =
     .label = Змяніць галоўны пароль…
     .accesskey = З
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Зараз вы ў рэжыме FIPS. Для FIPS патрабуецца не пусты галоўны пароль.
 forms-master-pw-fips-desc = Няўдача змянення пароля
 
