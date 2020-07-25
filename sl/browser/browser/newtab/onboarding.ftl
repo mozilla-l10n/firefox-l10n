@@ -59,16 +59,14 @@ onboarding-multistage-theme-header = Izberite <span data-l10n-name="zap">videz</
 onboarding-multistage-theme-subtitle = Prilagodite svoj { -brand-short-name } s temo.
 onboarding-multistage-theme-primary-button-label = Shrani temo
 onboarding-multistage-theme-secondary-button-label = Ne zdaj
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Ta spletna mesta so bila najdena v tej napravi.
-        { -brand-short-name } ne shranjuje ali sinhronizira podatkov iz
-        drugih brskalnikov razen, če se odločite, da
-        jih uvozite.
-    .aria-label = 	{ onboarding-import-sites-info.title }
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
