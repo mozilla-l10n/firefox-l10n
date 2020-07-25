@@ -271,6 +271,10 @@ cfr-whatsnew-better-pdf-body = Soubory PDF se nyní otevírají přímo ve { -br
 
 ## DOH Message
 
+cfr-doorhanger-doh-primary-button = OK, rozumím
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Zakázat
+    .accesskey = Z
 
 ## What's new: Cookies message
 

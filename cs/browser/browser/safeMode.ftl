@@ -15,11 +15,11 @@ start-safe-mode =
     .label = Spustit v nouzovém režimu
 refresh-profile =
     .label =
-        Obnovení { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] aplikace { -brand-short-name }
+        Obnovit { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") }
+            [feminine] { -brand-short-name(case: "acc") }
+            [neuter] { -brand-short-name(case: "acc") }
+           *[other] aplikaci { -brand-short-name }
         }
 safe-mode-description =
     Nouzový režim je speciální režim { -brand-short-name.gender ->
