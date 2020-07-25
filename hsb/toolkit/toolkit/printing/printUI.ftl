@@ -15,6 +15,10 @@ printui-sheets-count =
 printui-page-range-all = Wšě
 printui-page-range-custom = Swójski
 printui-page-range-label = Strony
+printui-page-range-picker =
+    .aria-label = Wobwod stronow wubrać
+printui-page-custom-range =
+    .aria-label = Swójski wobwod stronow zapodać
 # Section title for the number of copies to print
 printui-copies-label = Kopije
 printui-orientation = Wusměrjenje
