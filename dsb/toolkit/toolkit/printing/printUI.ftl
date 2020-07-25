@@ -15,6 +15,10 @@ printui-sheets-count =
 printui-page-range-all = Wšykne
 printui-page-range-custom = Swójski
 printui-page-range-label = Boki
+printui-page-range-picker =
+    .aria-label = Wobceŕk bokow wubraś
+printui-page-custom-range =
+    .aria-label = Swójski wobceŕk bokow zapódaś
 # Section title for the number of copies to print
 printui-copies-label = Kopije
 printui-orientation = Wusměrjenje
