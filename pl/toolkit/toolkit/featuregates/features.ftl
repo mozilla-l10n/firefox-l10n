@@ -68,6 +68,12 @@ experimental-features-media-session-api =
 experimental-features-media-session-api-description = Cała implementacja API sesji multimedialnej („Media Session API”) programu { -brand-short-name } jest obecnie eksperymentalna. To API jest używane do regulowania obsługi powiadomień związanych z multimediami, zarządzania zdarzeniami i danymi przydatnymi do wyświetlania interfejsu użytkownika do zarządzania odtwarzaniem multimediów oraz uzyskiwania metadanych plików multimedialnych. <a data-l10n-name="bugzilla">Zgłoszenie 1112032</a> zawiera więcej informacji.
 experimental-features-devtools-color-scheme-simulation =
     .label = Narzędzia dla programistów: symulacja schematu kolorów
+experimental-features-devtools-color-scheme-simulation-description = Dodaje opcję symulowania różnych schematów kolorów, umożliwiając testowanie zapytań <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Użycie tego zapytania umożliwia arkuszowi stylów reagowanie na to, czy użytkownik preferuje jasny lub ciemny interfejs. Ta funkcja umożliwia testowanie kodu bez konieczności zmiany ustawień w przeglądarce (lub systemie operacyjnym, jeśli przeglądarka używa systemowego ustawienia schematu kolorów). Zgłoszenia <a data-l10n-name="bugzilla1">1550804</a> i <a data-l10n-name="bugzilla2">1137699</a> zawierają więcej informacji.
+experimental-features-devtools-execution-context-selector =
+    .label = Narzędzia dla programistów: wybór kontekstu wykonywania
+experimental-features-devtools-execution-context-selector-description = Ta funkcja wyświetla przycisk w wierszu poleceń konsoli, umożliwiający zmianę kontekstu, w którym wprowadzane wyrażenie będzie wykonywane. Zgłoszenia <a data-l10n-name="bugzilla1">1605154</a> i <a data-l10n-name="bugzilla2">1605153</a> zawierają więcej informacji.
+experimental-features-devtools-compatibility-panel =
+    .label = Narzędzia dla programistów: panel zgodności
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Ciasteczka: „SameSite=Lax” jest domyślne
