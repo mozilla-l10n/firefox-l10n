@@ -75,3 +75,6 @@ experimental-features-abouthome-startup-cache-description = En cache för startd
 experimental-features-cookie-samesite-schemeful =
     .label = Kakor: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Behandla kakor från samma domän, men med olika scheman (t.ex. http://exempel.se och https://exempel.se) som flera webbplatser istället för samma webbplats. Förbättrar säkerheten, men kan göra att webbplatsen fungerar felaktigt.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Utvecklarverktyg: Felsökning av Service Worker
