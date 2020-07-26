@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Закрыть несколько вкладок
     .accesskey = ы
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -67,7 +71,7 @@ tab-context-undo-close-tabs =
             [few] Восстановить закрытые вкладки
            *[many] Восстановить закрытые вкладки
         }
-    .accesskey = л
+    .accesskey = о
 close-tab =
     .label = Закрыть вкладку
     .accesskey = а
@@ -79,4 +83,18 @@ move-tabs =
     .accesskey = м
 move-tab =
     .label = Переместить вкладку
+    .accesskey = м
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Закрыть вкладку
+           *[other] Закрыть вкладки
+        }
+    .accesskey = ь
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Переместить вкладку
+           *[other] Переместить вкладки
+        }
     .accesskey = м
