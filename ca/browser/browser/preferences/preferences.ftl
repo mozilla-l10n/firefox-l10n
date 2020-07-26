@@ -806,6 +806,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Utilitza una contrasenya principal
     .accesskey = U
+forms-primary-pw-learn-more-link = Més informació
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -1192,6 +1193,12 @@ space-alert-under-5gb-message = El { -brand-short-name } s'està quedant sense e
 httpsonly-header = Mode només HTTPS
 httpsonly-description = HTTPS garanteix una connexió xifrada i segura entre el { -brand-short-name } i els llocs web que visiteu. La majoria dels llocs web admeten HTTPS; per tant, si el Mode només HTTPS està activat, el { -brand-short-name } utilitzarà HTTPS en totes les connexions.
 httpsonly-learn-more = Més informació
+httpsonly-radio-enabled =
+    .label = Activa el node només HTTPS en totes les finestres
+httpsonly-radio-enabled-pbm =
+    .label = Activa el mode només HTTPS únicament en les finestres privades
+httpsonly-radio-disabled =
+    .label = No activis el mode només HTTPS
 
 ## The following strings are used in the Download section of settings
 
