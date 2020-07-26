@@ -28,19 +28,19 @@ pin-tab =
     .accesskey = მ
 unpin-tab =
     .label = მიმაგრების მოხსნა
-    .accesskey = ხ
+    .accesskey = ნ
 pin-selected-tabs =
     .label = ჩანართების მიმაგრება
     .accesskey = მ
 unpin-selected-tabs =
     .label = ჩანართების მოხსნა
-    .accesskey = ხ
+    .accesskey = მ
 bookmark-selected-tabs =
     .label = ჩანართების ჩანიშვნა…
-    .accesskey = ნ
+    .accesskey = ვ
 bookmark-tab =
     .label = ჩანართის ჩანიშვნა
-    .accesskey = ჩ
+    .accesskey = ვ
 reopen-in-container =
     .label = ხელახლა გახსნა სათავსში
     .accesskey = ე
@@ -69,7 +69,7 @@ tab-context-undo-close-tabs =
             [1] დახურული ჩანართის დაბრუნება
            *[other] დახურული ჩანართების დაბრუნება
         }
-    .accesskey = დ
+    .accesskey = ბ
 close-tab =
     .label = ჩანართის დახურვა
     .accesskey = უ
@@ -95,4 +95,4 @@ tab-context-move-tabs =
             [1] ჩანართის გადატანა
            *[other] ჩანართების გადატანა
         }
-    .accesskey = v
+    .accesskey = ტ
