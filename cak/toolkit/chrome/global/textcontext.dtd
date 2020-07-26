@@ -15,7 +15,7 @@
 <!ENTITY deleteCmd.label "Tiyuj">
 <!ENTITY deleteCmd.accesskey "T">
 
-<!ENTITY spellAddToDictionary.label "Titz'aqatisäx pa soltzij">
+<!ENTITY spellAddToDictionary.label "Titz'aqatisäx pa Soltzij">
 <!ENTITY spellAddToDictionary.accesskey "a">
 <!ENTITY spellUndoAddToDictionary.label "Titzolïx chi rij Titz'aqatisäx pa soltzij">
 <!ENTITY spellUndoAddToDictionary.accesskey "t">
