@@ -259,7 +259,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "Flera påminnelser…" >
 
-<!ENTITY event.statusbarpanel.freebusy.label              "Tiden är:">
+<!ENTITY event.statusbarpanel.freebusy.label              "Tid som:">
 <!ENTITY event.statusbarpanel.privacy.label               "Sekretess:">
 
 <!-- Recurrence dialog -->
