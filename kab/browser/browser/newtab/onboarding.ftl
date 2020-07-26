@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Bdu
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Ansuf γer { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Ansuf ɣer <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Tesɛiḍ iminig. <br/> Wali ayen id-yeqqimen seg { -brand-product-name }.
 onboarding-welcome-learn-more = Lmed ugar ɣef ayen yeɛnan ibaɣuren.
 onboarding-join-form-header = Kki { -brand-product-name }
@@ -44,6 +41,23 @@ onboarding-start-browsing-button-label = Bdu tunigin
 onboarding-cards-dismiss =
     .title = Kkes
     .aria-label = Kkes
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Ansuf ɣer <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-label = Kcem
+onboarding-multistage-welcome-secondary-button-text = Ɣur-k·m amiḍan?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Kter awalen-ik·im uffiren, <br/>ticraḍ n yisebtar d <span data-l10n-name="zap">wugar</span>
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
