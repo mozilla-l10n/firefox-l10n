@@ -31,7 +31,7 @@ onboarding-join-form-body = Introdu adresa de e-mail ca să începi.
 onboarding-join-form-email =
     .placeholder = Introdu adresa de e-mail.
 onboarding-join-form-email-error = Este necesară o adresă de e-mail validă
-onboarding-join-form-legal = Continuând, ești de acord cu <a data-l10n-name="terms">Termenii de utilizare a serviciilor</a> și <a data-l10n-name="privacy">Declarația de confidențialitate</a>.
+onboarding-join-form-legal = Continuând, ești de acord cu <a data-l10n-name="terms">Termenii de utilizare a serviciilor</a> și <a data-l10n-name="privacy">Notificarea privind confidențialitatea</a>.
 onboarding-join-form-continue = Continuă
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Ai deja un cont?
@@ -41,6 +41,15 @@ onboarding-start-browsing-button-label = Începe să navighezi
 onboarding-cards-dismiss =
     .title = Înlătură
     .aria-label = Înlătură
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
