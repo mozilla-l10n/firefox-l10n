@@ -101,7 +101,7 @@ onboarding-multistage-theme-tooltip-light =
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark =
     .title =
-        Використовувати світлий вигляд
+        Використовувати темний вигляд
         кнопок, меню та вікон.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
 # Tooltip displayed on hover of Alpenglow theme
