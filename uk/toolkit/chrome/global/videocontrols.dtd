@@ -42,7 +42,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
-<!ENTITY pictureInPictureExplainer "Відтворюйте відео на першому плані, тоді як ви займаєтеся чимось іншим у &brandShortName;">
+<!ENTITY pictureInPictureExplainer "Відтворюйте відео на передньому плані, тоді як ви займаєтеся чимось іншим у &brandShortName;">
 
 <!ENTITY error.aborted "Завантаження відео зупинилось.">
 <!ENTITY error.network "Відтворення відео зупинено через мережеву помилку.">
