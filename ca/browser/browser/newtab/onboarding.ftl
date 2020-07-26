@@ -47,8 +47,22 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Us donem la benvinguda al <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = El navegador ràpid, segur i privat que té el suport d'una organització sense ànim de lucre.
 onboarding-multistage-welcome-primary-button-label = Inicia la configuració
+onboarding-multistage-welcome-secondary-button-label = Inicia la sessió
+onboarding-multistage-welcome-secondary-button-text = Ja teniu un compte?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importeu les vostres contrasenyes, <br/>adreces d'interès i <span data-l10n-name = "zap">més</span>
+onboarding-multistage-import-subtitle = Veniu d'un altre navegador? Importar-ho tot al { -brand-short-name } és molt fàcil.
 onboarding-multistage-import-primary-button-label = Inicia la importació
+onboarding-multistage-import-secondary-button-label = Ara no
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Primers passos: pantalla { $current } de { $total }
 onboarding-multistage-theme-primary-button-label = Desa el tema
 
 ## Please make sure to split the content of the title attribute into lines whose
