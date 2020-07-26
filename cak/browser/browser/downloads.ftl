@@ -30,8 +30,8 @@ downloads-cmd-cancel-panel =
     .aria-label = Tiq'at
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
-    .label = Tijaq ri yaksamaj k'o rupam
-    .accesskey = T
+    .label = Tijaq K'wayöl Yakwuj
+    .accesskey = Y
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Tik'ut Pa Finder
@@ -111,7 +111,7 @@ downloads-show-more-information =
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
-    .value = Tijaq yakb'äl
+    .value = Tijaq Yakb'äl
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
