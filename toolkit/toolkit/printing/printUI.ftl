@@ -5,7 +5,7 @@
 printui-title = Печать
 printui-page-range-all = Всё
 # Section title for the number of copies to print
-printui-copies-label = Копии
+printui-copies-label = Копий
 printui-orientation = Ориентация
 printui-landscape = Альбомная
 printui-portrait = Книжная
