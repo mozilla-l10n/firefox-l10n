@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = నన్ను వెంబడించవద్దని ఆశిస్తున్నానని వెబ్‌సైట్లకు తెలిసేలా “ట్రాక్ చెయ్యవద్దు” అనే సూచనను పంపించు
+do-not-track-description = నా జాడ అనుసరించవద్దని ఆశిస్తున్నానని వెబ్‌సైట్లకు తెలిసేలా “ట్రాక్ చెయ్యవద్దు” అనే సూచనను పంపించు
 do-not-track-learn-more = ఇంకా తెలుసుకోండి
 do-not-track-option-always =
     .label = ఎల్లప్పుడూ
@@ -465,6 +465,9 @@ search-bar-hidden =
 search-bar-shown =
     .label = పనిముట్లపట్టీలో వెతుకుడు పెట్టెను చూపించు
 search-engine-default-header = అప్రమేయ శోధన యంత్రం
+search-separate-default-engine =
+    .label = అంతరంగిక కిటికీలలో ఈ శోధన యంత్రాన్ని వాడు
+    .accesskey = U
 search-suggestions-option =
     .label = వెతుకుడు సలహాలను చూపించు
     .accesskey = s
@@ -573,6 +576,7 @@ sync-signedin-settings-header = సింక్ అమరికలు
 
 sync-currently-syncing-bookmarks = ఇష్టాంశాలు
 sync-currently-syncing-history = చరిత్ర
+sync-currently-syncing-tabs = తెరిచివున్న ట్యాబులు
 sync-currently-syncing-logins-passwords = ప్రవేశాలు, సంకేతపదాలు
 sync-currently-syncing-addresses = చిరునామాలు
 sync-currently-syncing-creditcards = క్రెడిట్ కార్డులు
@@ -765,7 +769,7 @@ addressbar-locbar-bookmarks-option =
     .label = ఇష్టాంశాలు
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = తెరిచిన ట్యాబులు
+    .label = తెరిచివున్న ట్యాబులు
     .accesskey = O
 addressbar-locbar-topsites-option =
     .label = మేటి సైట్లు

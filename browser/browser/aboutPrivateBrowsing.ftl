@@ -4,7 +4,6 @@
 
 about-private-browsing-learn-more = దీని గురించి ఇంకా తెలుసుకోండి<a data-l10n-name="learn-more">అంతరంగిక విహరణ</a>.
 about-private-browsing-info-visited = సందర్శించిన పేజీలు
-
 privatebrowsingpage-open-private-window-label = ఆంతరంగిక విండో తెరువు
     .accesskey = P
 about-private-browsing-info-notsaved = మీరు అంతరంగిక విండోలో విహరించేప్పుడు, { -brand-short-name } <strong>వీటిని భద్రపరచదు</strong>:
@@ -25,6 +24,10 @@ about-private-browsing =
     .title = జాలంలో వెతకండి
 about-private-browsing-not-private = మీరు ప్రస్తుతం అంతరంగిక విండోలో లేరు.
 content-blocking-title = విషయ నిరోధం
-
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = అంతరంగిక కిటికీలలో మీ అప్రమేయ శోధన యంత్రం { $engineName }
 about-private-browsing-search-banner-close-button =
     .aria-label = మూసివేయి
