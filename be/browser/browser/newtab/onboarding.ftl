@@ -47,9 +47,13 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Вітаем у <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Хуткі, бяспечны і прыватны браўзер, які падтрымліваецца некамерцыйнай арганізацыяй.
 onboarding-multistage-welcome-primary-button-label = Пачаць наладу
 onboarding-multistage-welcome-secondary-button-label = Увайсці
 onboarding-multistage-welcome-secondary-button-text = Маеце ўліковы запіс?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Імпартуйце свае паролі, <br/>закладкі і <span data-l10n-name="zap">іншае</span>
 onboarding-multistage-import-secondary-button-label = Не зараз
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Аўтаматычна
