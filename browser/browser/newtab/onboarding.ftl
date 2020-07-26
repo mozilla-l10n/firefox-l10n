@@ -56,21 +56,30 @@ onboarding-multistage-import-header = Tuo salasanat, kirjanmerkit ja <span data-
 onboarding-multistage-import-subtitle = Oletko siirtymässä toisesta selaimesta? Tietojen tuominen { -brand-short-name }iin on helppoa.
 onboarding-multistage-import-primary-button-label = Aloita tuonti
 onboarding-multistage-import-secondary-button-label = Ei nyt
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Valitse <span data-l10n-name="zap">ulkoasu</span>
-onboarding-multistage-theme-subtitle = Mukauta { -brand-short-name }ia teemalla.
-onboarding-multistage-theme-primary-button-label = Tallenna teema
-onboarding-multistage-theme-secondary-button-label = Ei nyt
-onboarding-multistage-theme-label-light = Vaalea
-onboarding-multistage-theme-label-dark = Tumma
-onboarding-multistage-theme-label-colorful = Värikäs
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Käytön aloittaminen: näkymä { $current }/{ $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Valitse <span data-l10n-name="zap">ulkoasu</span>
+onboarding-multistage-theme-subtitle = Mukauta { -brand-short-name }ia teemalla.
+onboarding-multistage-theme-primary-button-label = Tallenna teema
+onboarding-multistage-theme-secondary-button-label = Ei nyt
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automaattinen
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Käytä järjestelmän teemaa
+onboarding-multistage-theme-label-light = Vaalea
+onboarding-multistage-theme-label-dark = Tumma
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
