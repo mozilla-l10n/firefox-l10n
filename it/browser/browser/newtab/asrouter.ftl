@@ -220,7 +220,7 @@ cfr-doorhanger-milestone-close-button = Chiudi
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Crea password sicure in modo semplice
-cfr-whatsnew-lockwise-body = Trovare una password unica e sicura per ogni account è complicato. Quando hai bisogno di creare una nuova password, seleziona l'opzione nel campo della password per utilizzarne una sicura, generata automaticamente da { -brand-shorter-name }.
+cfr-whatsnew-lockwise-body = Trovare una password unica e sicura per ogni account è complicato. Quando hai bisogno di creare una nuova password, seleziona l’opzione nel campo della password per utilizzarne una sicura, generata automaticamente da { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = Icona di { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
