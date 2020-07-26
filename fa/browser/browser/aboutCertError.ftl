@@ -4,7 +4,7 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } از یک گواهی امنیتی نامعتبر استفاده می‌کند.
+cert-error-intro = { $hostname } از یک گواهینامه امنیتی نامعتبر استفاده می‌کند.
 cert-error-mitm-intro = وب‌سایت‌ها هویت خود را از طریق گواهی‌هایی که توسط مراجع صدور گواهی دیجیتال ارائه می‌شود، اثبات می‌کنند.
 cert-error-mitm-mozilla = سابقه { -brand-short-name } به بخش غیرانتفاعی Mozilla باز می‌گردد، که یک انبار از مراجع صدور گواهی‌ دیجیتال (CA) بود. یک انبار مراجع (CA store) کمک می‌کند تا این اطمینان حاصل شود که مراجع صدور گواهی از بهترین روش‌ها برا امنیت کاربران استفاده می‌کنند.
 cert-error-mitm-connection = { -brand-short-name } به جای تکیه بر گواهی‌های موجود در سیستم عامل کاربر، از مخزن گواهی‌های موزیلا برای تأیید آنکه یک ارتباط امن هست یا نه، استفاده می‌کند. بنابراین اگر یک برنامه آنتی ویروس یا یک شبکه، در حال رهگیری یک ارتباط با استفاده از گواهی‌نامه‌ای که توسط CAای که در مخزن گواهی‌های موزیلا وجود ندارد باشد، این ارتباط ارتباط نا امن معرفی می‌شود.
@@ -56,6 +56,9 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = زنجیره گواهی:
 open-in-new-window-for-csp-or-xfo-error = گشودن پایگاه در پنجرهٔ جدید
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = در صورتی که سایت دیگری در صفحه جاسازی شده باشد، به منظور حفظ امنیت شما، { $hostname } اجازه نمی‌دهد تا { -brand-short-name } صفحه را نمایش دهد. برای مشاهده این صفحه، باید پنجره جدیدی باز کنید.
 
 ## Messages used for certificate error titles
 
