@@ -51,23 +51,28 @@ onboarding-multistage-welcome-subtitle = Коммерциялық емес ұй�
 onboarding-multistage-welcome-primary-button-label = Баптауды бастау
 onboarding-multistage-welcome-secondary-button-label = Кіру
 onboarding-multistage-welcome-secondary-button-text = Тіркелгіңіз бар ма?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Парольдер, бетбелгілер және <br/><span data-l10n-name="zap">көптеген басқаны</span> импорттаңыз
+onboarding-multistage-import-subtitle = Басқа браузерден келдіңіз бе? { -brand-short-name } ішіне барлығын әкелу оп-оңай.
 onboarding-multistage-import-primary-button-label = Импорттауды бастау
 onboarding-multistage-import-secondary-button-label = Қазір емес
 onboarding-multistage-theme-primary-button-label = Теманы сақтау
 onboarding-multistage-theme-secondary-button-label = Қазір емес
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Автоматты түрде
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Жүйелік теманы қолдану
 onboarding-multistage-theme-label-light = Ашық түсті
 onboarding-multistage-theme-label-dark = Күңгірт түсті
-onboarding-multistage-theme-label-colorful = Түрлі түсті
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Бұл сайттар осы құрылғыдан табылды.
-        { -brand-short-name } деректерді басқа
-        браузерден деректерді сіз оларды
-        импорттағанша дейін синхрондамайды.
-    .aria-label = { onboarding-import-sites-info.title }
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 

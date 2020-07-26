@@ -28,9 +28,14 @@ pippki-pw-change-ok = Пароль сәтті өзгертілді.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Басты парольді қолдану
+    .style = width: 40em
 reset-password-button-label =
     .label = Тастау
 reset-password-text = Мастер-пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар және жеке кілттер жоғалып кетеді. Мастер-пароліңізді тастауды шынымен қалайсыз ба?
+reset-primary-password-text = Басты пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар және жеке кілттер жоғалып кетеді. Басты парольді тастауды шынымен қалайсыз ба?
+pippki-reset-password-confirmation-title = Басты парольді қалпына тастау
 
 ## Downloading cert dialog
 
