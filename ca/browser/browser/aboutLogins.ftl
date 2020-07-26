@@ -27,6 +27,7 @@ menu =
     .title = Obre el menú
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importa d'un altre navegador…
+about-logins-menu-menuitem-import-from-a-file = Importa d'un fitxer…
 about-logins-menu-menuitem-export-logins = Exporta els inicis de sessió…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -67,12 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Esteu cercant els inicis de sessió que heu desat? Configureu el { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Esteu cercant els inicis de sessió que heu desat? Configureu el { -sync-brand-short-name } o importeu-los.
 about-logins-login-intro-heading-logged-in = No s'ha trobat cap inici de sessió sincronitzat.
 login-intro-description = Si heu desat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, aquesta és la manera de tenir-los també aquí:
 login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu desats els vostres inicis de sessió
 login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visiteu l'<a data-l10n-name="help-link">assistència del { -lockwise-brand-short-name }</a> per obtenir més ajuda
 about-logins-intro-import = Si els vostres inicis de sessió estan desats en un altre navegador, podeu <a data-l10n-name="import-link">importar-los al { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Si els vostres inicis de sessió estan desats fora del { -brand-product-name }, podeu <a data-l10n-name="import-browser-link">importar-los d'un altre navegador</a> o <a data-l10n- name = "import-file-link">d'un fitxer </a>
 
 ## Login
 
