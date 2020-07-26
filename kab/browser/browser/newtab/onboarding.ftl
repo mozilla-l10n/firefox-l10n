@@ -66,6 +66,12 @@ onboarding-multistage-theme-primary-button-label = Kles asentel
 onboarding-multistage-theme-secondary-button-label = Mačči tura
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Awurman
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Seqdec asentel n unagraw
+onboarding-multistage-theme-label-light = Aceɛlal
+onboarding-multistage-theme-label-dark = Aberkan
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
