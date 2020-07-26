@@ -48,10 +48,14 @@ experimental-features-web-api-link-preload-description = El atributo <a data-l10
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Permite que los estilos de enfoque se apliquen a elementos como botones y controles de formularios, solo cuando se enfocan usando el teclado (por ejemplo, al cambiar de pestaña entre elementos), y no cuando se enfocan usando un ratón u otro dispositivo. Consulte <a data-l10n-name="bugzilla"> bug 1617600 </a> para obtener más detalles.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = El evento global <a data-l10n-name="mdn-beforeinput"> beforeinput </a> se activa en un <a data-l10n-name="mdn-input"> & lt; input & gt; </a> y < un elemento data-l10n-name = "mdn-textarea"> & lt; textarea & gt; </a>, o cualquier elemento cuyo atributo <a data-l10n-name="mdn-contenteditable"> contenteditable </a> esté habilitado, inmediatamente antes de que cambie el valor del elemento. El evento permite que las aplicaciones web anulen el comportamiento predeterminado del navegador para la interacción del usuario, por ejemplo, las aplicaciones web pueden cancelar la entrada del usuario solo para caracteres específicos o pueden modificar pegar texto con estilo solo con estilos aprobados.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -62,6 +66,10 @@ experimental-features-css-constructable-stylesheets-description = La adición de
 experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-media-session-api-description = La implementación completa de { -brand-short-name } de Media Session API es actualmente experimental. Esta API se usa para personalizar el manejo de notificaciones relacionadas con los medios, para manejar eventos y datos útiles para presentar una interface de usuario para manejar reproducción de medios y para obtener metadatos de los archivos. Ver <a data-l10n-name="bugzilla">bug 1112032</a> para más detalles.
+experimental-features-devtools-color-scheme-simulation =
+    .label = Herramientas para desarrolladores: simulación de esquemas de color
+experimental-features-devtools-execution-context-selector =
+    .label = Herramientas de desarrollo: Selector de contexto de ejecución
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite = Lax predeterminado
