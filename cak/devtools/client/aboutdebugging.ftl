@@ -322,6 +322,6 @@ about-debugging-message-close-icon =
 # Label text used for the error details of message component.
 about-debugging-message-details-label-error = Kisachoj taq b'anikil
 # Label text used for the warning details of message component.
-about-debugging-message-details-label-warning = Rub'anikil k'ayewal
+about-debugging-message-details-label-warning = Kib'anikil k'ayewal
 # Label text used for default state of details of message component.
-about-debugging-message-details-label = Kib'anikil
+about-debugging-message-details-label = Taq b'anikil

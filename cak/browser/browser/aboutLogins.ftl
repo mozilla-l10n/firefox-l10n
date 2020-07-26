@@ -79,7 +79,7 @@ about-logins-intro-import = We ri rutikirib'al amolojri'ïl yakon pa jun chik ok
 ## Login
 
 login-item-new-login-title = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
-login-item-edit-button = Tinuk'
+login-item-edit-button = Nuk'b'äl
 about-logins-login-item-remove-button = Tiyuj
 login-item-origin-label = Ajk'amaya'l Ochochib'äl
 login-item-origin =
@@ -133,6 +133,9 @@ about-logins-export-password-os-auth-dialog-message-macosx = kek'wäx el yakon t
 ## Master Password notification
 
 master-password-notification-message = Tatz'ib'aj ri ajtij ewan atzij richin ye'atz'ët ri rutikirib'al taq amolojri'ïl & ri ewan taq tzij
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Titikirisäx molojri'ïl
     .accesskey = m
