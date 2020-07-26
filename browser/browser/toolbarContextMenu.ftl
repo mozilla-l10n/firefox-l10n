@@ -26,7 +26,7 @@ toolbar-context-menu-undo-close-tabs =
             [1] დახურული ჩანართის დაბრუნება
            *[other] დახურული ჩანართების დაბრუნება
         }
-    .accesskey = დ
+    .accesskey = ბ
 toolbar-context-menu-manage-extension =
     .label = გაფართოების მართვა
     .accesskey = ფ
