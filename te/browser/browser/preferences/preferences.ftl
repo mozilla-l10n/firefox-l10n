@@ -391,7 +391,7 @@ home-restore-defaults =
 home-mode-choice-default =
     .label = Firefox ముంగిలి (అప్రమేయం)
 home-mode-choice-custom =
-    .label = ఇష్టానుసారం URLలు...
+    .label = అభిమత URLలు…
 home-mode-choice-blank =
     .label = ఖాళీ పేజీ
 home-homepage-custom-url =
@@ -672,6 +672,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = ప్రధాన సంకేతపదాన్ని వాడు
     .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = ప్రధాన సంకేతపదాన్ని మార్చు…
     .accesskey = M
@@ -764,6 +767,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = తెరిచిన ట్యాబులు
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = మేటి సైట్లు
+    .accesskey = T
 addressbar-suggestions-settings = సెర్చింజను సూచనల అభిరుచులను మార్చండి
 
 ## Privacy Section - Content Blocking
@@ -951,6 +957,9 @@ space-alert-over-5gb-pref-button =
 space-alert-under-5gb-ok-button =
     .label = సరే, అర్థమయ్యింది
     .accesskey = K
+
+## Privacy Section - HTTPS-Only
+
 
 ## The following strings are used in the Download section of settings
 

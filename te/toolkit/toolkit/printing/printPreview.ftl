@@ -25,7 +25,7 @@ printpreview-scale =
 printpreview-shrink-to-fit =
     .label = ఇముడునట్లు కుచింపచేయి
 printpreview-custom =
-    .label = ఇష్టానుసారం...
+    .label = అభిమత…
 printpreview-print =
     .label = ముద్రించు…
     .accesskey = P
@@ -58,4 +58,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = చివరి పేజీ
-

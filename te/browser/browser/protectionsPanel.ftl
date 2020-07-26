@@ -6,12 +6,17 @@
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = కఠినం
+    .label = కఠినం
+protections-popup-footer-protection-label-custom = అభిమతం
+    .label = అభిమతం
+protections-popup-footer-protection-label-standard = ప్రామాణికం
+    .label = ప్రామాణికం
 
 ##
 
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = సైటు పనిచేయట్లేదా?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = సైటు పనిచేయట్లేదా?
@@ -46,6 +51,9 @@ protections-panel-site-not-working-view-issue-list-videos = వీడియో�
 
 ##
 
+protections-panel-content-blocking-manage-settings =
+    .label = సంరక్షణ అమరికలను నిర్వహించుకోండి
+    .accesskey = M
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

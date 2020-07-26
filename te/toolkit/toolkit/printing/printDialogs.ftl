@@ -4,7 +4,7 @@
 
 print-setup =
     .title = పేజీ అమరిక
-custom-prompt-title = ఇష్టానుసారం...
+custom-prompt-title = అభిమత…
 custom-prompt-prompt = మీ ఇష్టానుసారమైన పాఠ్యమును/footer ప్రవేశపెట్టండి
 basic-tab =
     .label = రూపు & ఎంపికలు
@@ -90,7 +90,7 @@ hf-page =
 hf-page-and-total =
     .label = పేజీ # మొత్తం #లో
 hf-custom =
-    .label = ఇష్టానుసారం...
+    .label = అభిమత…
 print-preview-window =
     .title = ముద్రణ మునుజూపు
 print-title =
@@ -103,7 +103,6 @@ print-window =
     .title = ముద్రిస్తోంది
 print-complete =
     .value = ముద్రణ పూర్తయింది.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
