@@ -7,7 +7,7 @@
  revision number of a given Firefox channel". These terms are not synonymous.
 -->
 
-<!ENTITY window.title "Nimaq' taq Rutzijol">
+<!ENTITY window.title "Nïm taq Tzijol">
 <!ENTITY window.style "width: 490px">
 <!ENTITY sync "Richin nixim ri etamab'äl yakon chik pa Firefox rik'in re ruyakoj re &brandShortName;, tatikirisaj molojri'ïl rik'in ri &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Titikïr chik el">
