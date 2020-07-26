@@ -962,6 +962,10 @@ forms-master-pw-fips-title = Momentálně jste v režimu FIPS, který vyžaduje 
 forms-primary-pw-change =
     .label = Změnit hlavní heslo…
     .accesskey = m
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Momentálně jste v režimu FIPS, který vyžaduje neprázdné hlavní heslo.
 forms-master-pw-fips-desc = Neúspěšná změna hesla
 
