@@ -86,15 +86,19 @@ move-tab =
     .accesskey = м
 tab-context-close-tabs =
     .label =
-        { $tabCount ->
-            [1] Закрыть вкладку
-           *[other] Закрыть вкладки
+        Закрыть { $tabCount ->
+            [1] { $tabCount } вкладку
+            [one] { $tabCount } вкладку
+            [few] { $tabCount } вкладки
+           *[many] { $tabCount } вкладок
         }
     .accesskey = ь
 tab-context-move-tabs =
     .label =
-        { $tabCount ->
-            [1] Переместить вкладку
-           *[other] Переместить вкладки
+        Переместить { $tabCount ->
+            [1] { $tabCount } вкладку
+            [one] { $tabCount } вкладку
+            [few] { $tabCount } вкладки
+           *[many] { $tabCount } вкладок
         }
     .accesskey = м
