@@ -104,6 +104,12 @@ onboarding-multistage-theme-tooltip-dark =
         Utilitza una aparença fosca per als
         botons, menús i finestres.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Utilitza una aparença acolorida per als
+        botons, menús i finestres.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
