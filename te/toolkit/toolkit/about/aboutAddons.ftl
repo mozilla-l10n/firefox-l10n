@@ -5,6 +5,9 @@
 addons-window =
     .title = పొడిగింతల నిర్వాహకి
 addons-page-title = పొడిగింతల నిర్వాహకి
+search-header =
+    .placeholder = addons.mozilla.orgలో వెతకండి
+    .searchbuttonlabel = వెతుకు
 search-header-shortcut =
     .key = f
 loading-label =
@@ -293,6 +296,7 @@ discopane-notice-learn-more = ఇంకా తెలుసుకోండి
 #   $dailyUsers (number) - The number of daily users.
 user-count = వాడుకరులు: { $dailyUsers }
 install-theme-button = అలంకారాన్ని స్థాపించు
+find-more-addons = మరిన్ని పొడగింతలను కనుగొనండి
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -300,6 +304,7 @@ addon-options-button =
 
 ## Add-on actions
 
+report-addon-button = నివేదించు
 remove-addon-button = తొలగించు
 disable-addon-button = అచేతనించు
 enable-addon-button = చేతనించు
@@ -326,6 +331,10 @@ locale-disabled-heading = అచేతనం
 addon-detail-author-label = రచయిత
 addon-detail-version-label = వెర్షను
 addon-detail-homepage-label = ముంగిలిపేజీ
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (అచేతనం)
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -346,5 +355,12 @@ recent-updates-heading = ఇటీవలి తాజాకరణలు
 
 ## Page headings
 
+extension-heading = మీ పొడగింతలను నిర్వహించుకోండి
+theme-heading = మీ అలంకారాలను నిర్వహించుకోండి
+plugin-heading = మీ చొప్పింతలను నిర్వహించుకోండి
+discover-heading = మీ { -brand-short-name }‌ను వ్యక్తిగతీకరించుకోండి
+default-heading-search-label = మరిన్ని పొడగింతలను కనుగొనండి
+addons-heading-search-input =
+    .placeholder = addons.mozilla.orgలో వెతకండి
 addon-page-options-button =
     .title = అన్ని పొడిగింతలు కొరకు సాధనములు
