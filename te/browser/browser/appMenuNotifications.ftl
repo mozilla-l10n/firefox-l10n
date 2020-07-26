@@ -8,7 +8,7 @@ appmenu-update-available =
     .buttonaccesskey = D
     .secondarybuttonlabel = ఇప్పుడు వద్దు
     .secondarybuttonaccesskey = N
-appmenu-update-available-message = వేగం మరియు గోప్యత కోసం మీ { -brand-shorter-name }ని తాజాగా నవీకరించండి.
+appmenu-update-available-message = వేగం, అంతరంగికతలలో సరికొత్త విశేషాలకై మీ { -brand-shorter-name }ను తాజాకరించుకోండి.
 appmenu-update-manual =
     .label = { -brand-shorter-name } తాజా వర్షన్కు నవీకరించలేరు.
     .buttonlabel = { -brand-shorter-name }‌ను దించుకోండి
@@ -29,7 +29,6 @@ appmenu-addon-private-browsing-installed =
     .buttonaccesskey = O
 appmenu-addon-post-install-message = పొడిగింతల నిర్వహణకై <image data-l10n-name='addon-menu-icon'></image> మెనూ లోని <image data-l10n-name='addon-install-icon'></image> మీద నొక్కండి.
 appmenu-addon-private-browsing-learn-more = పొడగింతల అమరికలను ఎలా నిర్వహించుకోవాలో తెలుసుకోండి
-    
 appmenu-new-tab-controlled =
     .label = మీ కొత్త ట్యాబు మారిపోయింది.
     .buttonlabel = మార్పులను ఉండనివ్వు
