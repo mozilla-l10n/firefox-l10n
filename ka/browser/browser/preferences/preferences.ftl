@@ -806,6 +806,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = მთავარი პაროლის გამოყენება
     .accesskey = გ
+forms-primary-pw-learn-more-link = ვრცლად
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -816,6 +817,10 @@ forms-master-pw-fips-title = თქვენ FIPS რეჟიმში ხა�
 forms-primary-pw-change =
     .label = მთავარი პაროლის შეცვლა…
     .accesskey = მ
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = თქვენ FIPS-რეჟიმში იმყოფებით. FIPS-ს ესაჭიროება მთავარი პაროლი.
 forms-master-pw-fips-desc = პაროლის შეცვლა ვერ მოხერხდა
 
