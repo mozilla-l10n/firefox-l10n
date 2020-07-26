@@ -57,31 +57,59 @@ onboarding-multistage-import-header = გადმოწერეთ თქვ�
 onboarding-multistage-import-subtitle = სხვა ბრაუზერიდან მოდიხართ? მარტივად გადმოიტანს ყველაფერს { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = გადმოტანის დაწყება
 onboarding-multistage-import-secondary-button-label = ახლა არა
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = აირჩიეთ <span data-l10n-name="zap">იერსახე</span>
-onboarding-multistage-theme-subtitle = მოირგეთ { -brand-short-name } თემებით.
-onboarding-multistage-theme-primary-button-label = თემის შენახვა
-onboarding-multistage-theme-secondary-button-label = ახლა არა
-onboarding-multistage-theme-label-light = ნათელი
-onboarding-multistage-theme-label-dark = მუქი
-onboarding-multistage-theme-label-colorful = ფერადი
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        ეს საიტები ნაპოვნია ამ მოწყობილობაზე.
-        { -brand-short-name } არ შეინახავს ან დაასინქრონებს მონაცემებს
-        სხვა ბრაუზერიდან, სანამ თავად არ მიუთითებთ რომ
-        გადმოიტანოს.
-    .aria-label = { onboarding-import-sites-info.title }
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = აქ აღნუსხული საიტები ნაპოვნია ამ მოწყობილობაზე. { -brand-short-name } არ შეინახავს ან დაასინქრონებს მონაცემებს სხვა ბრაუზერიდან, სანამ თავად არ მიუთითებთ, გადმოტანას.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = დაწყება: ეკრანი { $current }, სულ { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = აირჩიეთ <span data-l10n-name="zap">იერსახე</span>
+onboarding-multistage-theme-subtitle = მოირგეთ { -brand-short-name } თემებით.
+onboarding-multistage-theme-primary-button-label = თემის შენახვა
+onboarding-multistage-theme-secondary-button-label = ახლა არა
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = ავტომატური
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = სისტემის იერსახის გამოყენება
+onboarding-multistage-theme-label-light = ნათელი
+onboarding-multistage-theme-label-dark = მუქი
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        საოპერაციო სისტემის გაფორმების გადმოტანა
+        ღილაკებზე, მენიუებსა და ფანჯრებზე.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        ნათელი გაფორმების გამოყენება ღილაკებზე,
+        მენიუებსა და ფანჯრებზე.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        მუქი გაფორმების გამოყენება ღილაკებზე,
+        მენიუებსა და ფანჯრებზე.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        ფერადი გაფორმების გამოყენება ღილაკებზე,
+        მენიუებსა და ფანჯრებზე.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
