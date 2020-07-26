@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Desbugatge
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Començar
     .title = Òm pòt pas qu’aviar los service worker se multi e10s es desactivat
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Aviar
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Actualizacion <time>{ DATETIME($date, day: "numeric", month: "long", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -69,6 +72,8 @@ serviceworker-empty-suggestions-debugger = Percórrer lo registre de las inscrip
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Examinar los service workers dels autres domenis. <a>Dobrir about:debugging</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Cap de service workers pas trobat
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Ne saber mai
 # Header for the Manifest page when we have an actual manifest
