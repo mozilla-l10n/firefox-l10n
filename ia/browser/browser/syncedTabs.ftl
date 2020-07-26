@@ -40,5 +40,5 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Synchronisar ora
     .accesskey = S
-fxa-sign-in = Aperir session a { -sync-brand-short-name }
+fxa-sign-in = Aperir session in { -sync-brand-short-name }
 turn-on-sync = Accender { -sync-brand-short-name }

@@ -129,7 +129,7 @@ startup-header = Al initio
 separate-profile-mode =
     .label = Permitter que { -brand-short-name } e Firefox exeque al mesme tempore
 use-firefox-sync = Consilio: Profilos distincte es utilisate. Usa { -sync-brand-short-name } pro compartir datos inter illos.
-get-started-not-logged-in = Aperir session a { -sync-brand-short-name }…
+get-started-not-logged-in = Aperir session in { -sync-brand-short-name }…
 get-started-configured = Aperir le preferentias de { -sync-brand-short-name }
 always-check-default =
     .label = Sempre verificar si { -brand-short-name } es tu navigator predefinite
@@ -627,7 +627,7 @@ sync-signedout-account-signin =
     .label = Aperir session…
     .accesskey = A
 sync-signedout-account-signin2 =
-    .label = Aperir session a { -sync-brand-short-name }…
+    .label = Aperir session in { -sync-brand-short-name }…
     .accesskey = A
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -817,6 +817,10 @@ forms-master-pw-fips-title = Tu es actualmente in modo FIPS. Tal modo require un
 forms-primary-pw-change =
     .label = Modificar le contrasigno primari…
     .accesskey = p
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Formalmente note como contrasigno maestro
 forms-primary-pw-fips-title = Tu es actualmente in modo FIPS. Tal modo require un contrasigno primari non vacue.
 forms-master-pw-fips-desc = Le cambio de contrasigno ha fallite
 

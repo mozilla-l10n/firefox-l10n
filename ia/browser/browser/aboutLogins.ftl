@@ -17,7 +17,7 @@ login-filter =
     .placeholder = Cercar credentiales
 create-login-button = Crear nove credentiales
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
-fxaccounts-sign-in-button = Aperir session a { -sync-brand-short-name }
+fxaccounts-sign-in-button = Aperir session in { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gerer conto
 
