@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = gespeicherte Zugang
 ## Master Password notification
 
 master-password-notification-message = Bitte geben Sie Ihr Master-Passwort ein, um gespeicherte Zugangsdaten und Passwörter anzuzeigen.
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Bitte geben Sie Ihr Hauptpasswort ein, um gespeicherte Zugangsdaten und Passwörter anzuzeigen.
 master-password-reload-button =
     .label = Anmelden
     .accesskey = m

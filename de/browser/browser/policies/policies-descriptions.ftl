@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } keine Studien durchführen 
 policy-DisableForgetButton = Zugriff auf "Vergessen"-Schaltfläche verhindern
 policy-DisableFormHistory = Formular- und Suchchronik nicht speichern
 policy-DisableMasterPasswordCreation = Master-Passwort kann nicht erstellt werden, falls true
+policy-DisablePrimaryPasswordCreation = Hauptpasswort kann nicht erstellt werden, falls true
 policy-DisablePasswordReveal = Option zur Klartextanzeige von Passwörtern in gespeicherten Zugangsdaten deaktivieren
 policy-DisablePocket = Pocket als Speicherliste für Webseiten deaktivieren
 policy-DisablePrivateBrowsing = Privates Surfen deaktivieren
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Veraltetes Cookie-Verh
 
 policy-LocalFileLinks = Festgelegten Websites Zugriff auf lokale Dateien erlauben
 policy-MasterPassword = Benutzung eines Master-Passworts erfordern oder verhindern
+policy-PrimaryPassword = Benutzung eines Hauptpassworts erfordern oder verhindern
 policy-NetworkPrediction = Spekulative DNS-Abfragen für noch nicht angeforderte Ressourcen ("DNS-Prefetching") aktivieren oder deaktivieren
 policy-NewTabPage = Startseite für neue Tabs aktivieren oder deaktivieren
 policy-NoDefaultBookmarks = Standardlesezeichen von { -brand-short-name } und Intelligente Lesezeichenordner ("Meistbesucht", "Kürzlich verwendete Schlagwörter") nicht erstellen. Hinweis: Diese Richtlinie findet nur Anwendung, wenn sie vor dem ersten Ausführen des Profils aktiv wurde.
