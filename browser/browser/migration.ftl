@@ -67,6 +67,7 @@ import-close-source-browser = لطفا قبل از ادامه دادن مطمئ�
 imported-bookmarks-source = از { $source }:
 source-name-ie = اینترنت اکسپلورر
 source-name-edge = مایکروسافت Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = سافاری
 source-name-canary = گوگل کروم قناری
 source-name-chrome = گوگل کروم
@@ -87,10 +88,57 @@ imported-edge-reading-list = لیست مطالعه (از Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = کوکی‌ها
+browser-data-cookies-label =
+    .value = کوکی‌ها
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] تاریخچهٔ مرور و نشانک‌ها
+           *[other] تاریخچهٔ مرور
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] تاریخچهٔ مرور و نشانک‌ها
+           *[other] تاریخچهٔ مرور
+        }
+browser-data-formdata-checkbox =
+    .label = ذخیره‌شده از تاریخچه
+browser-data-formdata-label =
+    .value = ذخیره‌شده از تاریخچه
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = ورودها و گذرواژه‌های ذخیره‌شده
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = ورودها و گذرواژه‌های ذخیره‌شده
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] محبوب‌ها
+            [edge] محبوب‌ها
+           *[other] نشانک‌ها
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] محبوب‌ها
+            [edge] محبوب‌ها
+           *[other] نشانک‌ها
+        }
+browser-data-otherdata-checkbox =
+    .label = دیگر داده‌ها
+browser-data-otherdata-label =
+    .label = دیگر داده‌ها
 browser-data-session-checkbox =
     .label = پنجره‌ها و سربرگ ها
 browser-data-session-label =
