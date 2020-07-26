@@ -11,7 +11,7 @@
 
 <!ENTITY calendar.unifinder.todoitems.label       "Uppgifter" >
 
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Visa slutförda Uppgifter">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Visa slutförda uppgifter">
 
 <!ENTITY calendar.today.button.label          "Idag">
 <!ENTITY calendar.tomorrow.button.label       "Imorgon">
@@ -220,7 +220,7 @@
 <!ENTITY calendar.context.progress.accesskey          "S">
 <!ENTITY calendar.context.priority.label              "Prioritet">
 <!ENTITY calendar.context.priority.accesskey          "i">
-<!ENTITY calendar.context.postpone.label              "Skjut upp Uppgift">
+<!ENTITY calendar.context.postpone.label              "Skjut upp uppgift">
 <!ENTITY calendar.context.postpone.accesskey          "k">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
