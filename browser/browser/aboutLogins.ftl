@@ -130,6 +130,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = viedä tallennetut 
 ## Master Password notification
 
 master-password-notification-message = Kirjoita pääsalasana nähdäksesi tallennetut käyttäjätunnukset ja salasanat
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Kirjoita pääsalasana nähdäksesi tallennetut käyttäjätunnukset ja salasanat
 master-password-reload-button =
     .label = Kirjaudu
     .accesskey = K
