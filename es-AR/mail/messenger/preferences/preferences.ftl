@@ -41,7 +41,6 @@ composition-addressing-header = Direccionamiento
 privacy-main-header = Privacidad
 privacy-passwords-header = Contraseñas
 privacy-junk-header = Basura
-privacy-data-collection-header = Almacenamiento y uso de datos
 collection-header = Recolección de datos y uso de { -brand-short-name }
 collection-description = Nos esforzamos por proporcionarle opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todos. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Nota de privacidad
@@ -96,14 +95,19 @@ addons-button = Extensiones & Temas
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Verifique su identidad para crear una contraseña maestra.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Para crear una contraseña maestra, ingrese sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = crear una contraseña maestra
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Para crear su contraseña maestra, ingrese sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crear una contraseña maestra
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Cambiar contraseña maestra…
     .accesskey = C
+primary-password-description = Una contraseña maestra protege todas sus contraseñas pero deberá ingresarla una vez por sesión.
+primary-password-label =
+    .label = Usar una contraseña maestra
+    .accesskey = U
+primary-password-button =
+    .label = Cambiar la contraseña maestra…
+    .accesskey = C
+forms-primary-pw-fips-title = Se encuentra actualmente en modo FIPS. FIPS requiere una contraseña maestra no vacía.
+forms-master-pw-fips-desc = Cambio de contraseña fallido
 junk-description = Configuración predeterminada de correo basura. Las configuraciones específicas de cada cuenta deben ser realizadas en Configuración de cuentas.
 junk-label =
     .label = Cuando marque mensajes como basura:
@@ -701,3 +714,6 @@ search-results-empty-message =
        *[other] No hay resultados en Opciones para “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = ¿Necesita ayuda? Visite <a data-l10n-name="url">Ayuda de { -brand-short-name }</a>
+
+## Preferences UI Search Results
+
