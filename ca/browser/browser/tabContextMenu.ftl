@@ -56,6 +56,17 @@ move-to-new-window =
 undo-close-tab =
     .label = Desfés el tancament de la pestanya
     .accesskey = D
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Desfés el tancament de la pestanya
+           *[other] Desfés el tancament de les pestanyes
+        }
+    .accesskey = f
 close-tab =
     .label = Tanca la pestanya
     .accesskey = c
