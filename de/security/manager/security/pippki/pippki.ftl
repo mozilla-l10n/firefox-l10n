@@ -27,9 +27,15 @@ pippki-pw-change-ok = Passwort erfolgreich geändert.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Hauptpasswort zurücksetzen
+    .style = width: 40em
 reset-password-button-label =
     .label = Zurücksetzen
 reset-password-text = Wenn Sie Ihr Master-Passwort zurücksetzen, gehen all Ihre gespeicherten Web- und E-Mail-Passwörter, Formulardaten, persönlichen Zertifikate und privaten Schlüssel verloren. Soll Ihr Master-Passwort trotzdem zurückgesetzt werden?
+reset-primary-password-text = Wenn Sie Ihr Hauptpasswort zurücksetzen, gehen all Ihre gespeicherten Web- und E-Mail-Passwörter, Formulardaten, persönlichen Zertifikate und privaten Schlüssel verloren. Soll Ihr Hauptpasswort trotzdem zurückgesetzt werden?
+pippki-reset-password-confirmation-title = Hauptpasswort zurücksetzen
+pippki-reset-password-confirmation-message = Ihr Hauptpasswort wurde zurückgesetzt.
 
 ## Downloading cert dialog
 
