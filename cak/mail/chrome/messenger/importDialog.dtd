@@ -10,7 +10,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Tijik' pe">
+<!ENTITY importDialog.windowTitle "Tijik'">
 <!ENTITY importAll.label          "Tijik' Ronojel">
 <!ENTITY importAll.accesskey      "R">
 <!ENTITY importMail.label         "Taqoya'l">
