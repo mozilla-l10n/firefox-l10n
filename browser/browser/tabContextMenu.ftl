@@ -66,10 +66,9 @@ tab-context-close-multiple-tabs =
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Відновити закриту вкладку
             [one] Відновити закриту вкладку
-            [few] Відновити закриті вкладки
-           *[many] Відновити закриті вкладки
+            [few] Відновити { $tabCount } закриті вкладки
+           *[many] Відновити { $tabCount } закритих вкладок
         }
     .accesskey = В
 close-tab =
@@ -87,18 +86,16 @@ move-tab =
 tab-context-close-tabs =
     .label =
         { $tabCount ->
-            [1] Закрити вкладку
             [one] Закрити вкладку
-            [few] Закрити вкладки
-           *[many] Закрити вкладок
+            [few] Закрити { $tabCount } вкладки
+           *[many] Закрити { $tabCount } вкладок
         }
     .accesskey = а
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] Перемістити вкладку
             [one] Перемістити вкладку
-            [few] Перемістити вкладки
-           *[many] Перемістити вкладок
+            [few] Перемістити { $tabCount } вкладки
+           *[many] Перемістити { $tabCount } вкладок
         }
     .accesskey = П
