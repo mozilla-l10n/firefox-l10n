@@ -35,6 +35,27 @@ experimental-features-media-avif-description = Con esta función activada, { -br
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: modo de entrada
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Nuestra implementación del atributo global <a data-l10n-name="mdn-inputmode">inputmode</a> ha sido actualizado según <a data-l10n-name="whatwg">la especificación WHATWG</a>, pero también necesitamos hacer otros cambios, como hacerlo disponible en contenido contenteditable. Ver <a data-l10n-name="bugzilla">bug 1205133</a> para más detalles.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = El atributo <a data-l10n-name="rel">rel</a> con valor <code>"preload"</code> en un elemento <a data-l10n-name="link">&lt;link&gt;</a> está destinado a ayudar a proveer mejoras de perfomance al dejar descargar recursos de la página previamente, asegurando que están disponibles antes y es menos probable que bloqueen el dibujo de la página. Leer <a data-l10n-name="readmore">“Precargando contenido con <code>rel="preload"</code>”</a> o ver <a data-l10n-name="bugzilla">bug 1583604</a> para más detalles.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite = Lax predeterminado
