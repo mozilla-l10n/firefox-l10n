@@ -10,7 +10,7 @@ experimental-features-css-masonry =
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
-experimental-features-css-masonry-description = მხარდაჭერილს გახდის საცდელ შესაძლებლობას სახელწოდებით CSS Masonry Layout. იხილეთ <a data-l10n-name="explainer">განმარტებითი</a> მაღალი დონის აღწერა, ამ შესაძლებლობის. უკუკავშირისთვის, გთხოვთ გამოხმაურება დატოვოთ <a data-l10n-name="w3c-issue">GitHub-ის ამ საკითხის</a> ან <a data-l10n-name="bug">ამ ხარვეზის</a> განხილვაში.
+experimental-features-css-masonry-description = მხარდაჭერილს გახდის საცდელ შესაძლებლობას სახელწოდებით CSS Masonry Layout. იხილეთ მაღალი დონის <a data-l10n-name="explainer">განმარტებითი</a> აღწერა, ამ შესაძლებლობის. უკუკავშირისთვის, გთხოვთ გამოხმაურება დატოვოთ <a data-l10n-name="w3c-issue">GitHub-ის ამ საკითხის</a> ან <a data-l10n-name="bug">ამ ხარვეზის</a> განხილვაში.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
@@ -68,13 +68,13 @@ experimental-features-media-session-api =
 experimental-features-media-session-api-description = სრული { -brand-short-name }-უზრუნველყოფა მედიაფაილების სეანსის API-ისთვის, ჯერჯერობით საცდელია. ეს API გამოიყენება მედიაფაილებთან დაკავშირებული შეტყობინებების უკეთ გამოსაყენებლად, სამართავად ხდომილობებისა და მონაცემების, რომლებიც გამოსადეგია წარმოსადგენად სამომხმარებლო გარსის, მედიაფაილების გასაშვებად, ამასთან მათი მონაცემების მოსაპოვებლად. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1112032</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
-experimental-features-devtools-color-scheme-simulation-description = ამატებს შესაძლებლობას, ფერთა სხვადასხვა სქემის წარმოსადგენად, რომლითაც მოისინჯება <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> მედიამოთხოვნები. ეს მედიამოთხოვნა, საშუალებას მისცემს თქვენი სტილის ცხრილს, საპასუხოდ შეიცვალოს იმისდა მიხედვით, მომხმარებელი მუქ სამომხმარებლო გარს აირჩევს თუ ნათელს. ამის მეშვეობით, კოდს შეამოწმებთ ბრაუზერის პარამეტრების შეუცვლელად (ან საოპერაციო სისტემის პარამეტრების, თუ ბრაუზერი მას ექვემდებარება). ვრცლად, იხილეთ <a data-l10n-name="bugzilla1">ხარვეზი 1550804</a> და <a data-l10n-name="bugzilla2">ხარვეზი 1137699</a>.
+experimental-features-devtools-color-scheme-simulation-description = ამატებს შესაძლებლობას, ფერთა სხვადასხვა სქემის წარმოსადგენად, რომლითაც მოისინჯება <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> მედიამოთხოვნები. ეს მედიამოთხოვნა, საშუალებას მისცემს თქვენი სტილის ცხრილს, საპასუხოდ შეიცვალოს იმისდა მიხედვით, მომხმარებელი მუქ სამომხმარებლო გარსს აირჩევს თუ ნათელს. ამის მეშვეობით, კოდს შეამოწმებთ ბრაუზერის პარამეტრების შეუცვლელად (ან საოპერაციო სისტემის პარამეტრების, თუ ბრაუზერი მას ექვემდებარება). ვრცლად, იხილეთ <a data-l10n-name="bugzilla1">ხარვეზი 1550804</a> და <a data-l10n-name="bugzilla2">ხარვეზი 1137699</a>.
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Execution Context Selector
 experimental-features-devtools-execution-context-selector-description = ეს შესაძლებლობა გამოაჩენს ღილაკს ბრძანებათა ველში, რომლითაც შესაძლებელი იქნება შეიცვალოს კონტექსტი, შეყვანილი გამოსახულების გასაშვებად. ვრცლად, იხილეთ <a data-l10n-name="bugzilla1">ხარვეზი 1605154</a> და <a data-l10n-name="bugzilla2">ხარვეზი 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Developer Tools: Compatibility Panel
-experimental-features-devtools-compatibility-panel-description = გვერდითი არე საიტის დაკვირვების ხელსაწყოში, რომელიც აჩვენებს დაწვრილებით მონაცემებს აპლიკაციის მრავალ ბრაუზერთთან თავსებადობის მდგომარეობას. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1584464</a>.
+experimental-features-devtools-compatibility-panel-description = გვერდითი არე საიტის დაკვირვების ხელსაწყოში, რომელიც აჩვენებს დაწვრილებით მონაცემებს აპლიკაციის მრავალ ბრაუზერთან თავსებადობის მდგომარეობას. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = ფუნთუშები: SameSite=Lax ნაგულისხმევად

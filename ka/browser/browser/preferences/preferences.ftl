@@ -348,7 +348,7 @@ applications-use-os-default-label =
 
 drm-content-header = ციფრული უფლებების მართვის (DRM) შიგთავსი
 play-drm-content =
-    .label = DRM-ს დაქვემდებარებული შიგთავსის გაშვება
+    .label = DRM-დაქვემდებარებული შიგთავსის გაშვება
     .accesskey = D
 play-drm-content-learn-more = ვრცლად
 update-application-title = { -brand-short-name } – განახლებები
