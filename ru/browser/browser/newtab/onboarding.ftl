@@ -57,31 +57,35 @@ onboarding-multistage-import-header = Импортируйте свои паро
 onboarding-multistage-import-subtitle = Переходите с другого браузера? Вы легко можете перенести всё в { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Начать импорт
 onboarding-multistage-import-secondary-button-label = Не сейчас
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Выберите <span data-l10n-name="zap">внешний вид</span>
-onboarding-multistage-theme-subtitle = Персонализируйте { -brand-short-name } темами.
-onboarding-multistage-theme-primary-button-label = Сохранить тему
-onboarding-multistage-theme-secondary-button-label = Не сейчас
-onboarding-multistage-theme-label-light = Светлая
-onboarding-multistage-theme-label-dark = Тёмная
-onboarding-multistage-theme-label-colorful = Яркие цвета
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        На этом устройстве были найдены следующие сайты.
-        { -brand-short-name } не будет сохранять или
-        синхронизировать данные из другого браузера,
-        если только вы не решите их импортировать.
-    .aria-label = { onboarding-import-sites-info.title }
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = На этом устройстве были найдены следующие сайты. { -brand-short-name } не будет сохранять или синхронизировать данные из другого браузера, если только вы не решите их импортировать.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Начало работы: экран { $current } из { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Выберите <span data-l10n-name="zap">внешний вид</span>
+onboarding-multistage-theme-subtitle = Персонализируйте { -brand-short-name } темами.
+onboarding-multistage-theme-primary-button-label = Сохранить тему
+onboarding-multistage-theme-secondary-button-label = Не сейчас
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Автоматическая
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Использовать системную тему
+onboarding-multistage-theme-label-light = Светлая
+onboarding-multistage-theme-label-dark = Тёмная
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
