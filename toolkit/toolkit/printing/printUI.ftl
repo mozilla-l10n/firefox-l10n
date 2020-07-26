@@ -13,10 +13,24 @@ printui-sheets-count =
 printui-page-range-all = Alle
 printui-page-range-custom = Benutzerdefiniert
 printui-page-range-label = Seiten
+printui-page-range-picker =
+    .aria-label = Seitenbereich auswählen
+printui-page-custom-range =
+    .aria-label = Benutzerdefinierten Seitenbereich eingeben
 # Section title for the number of copies to print
 printui-copies-label = Kopien
 printui-orientation = Ausrichtung
 printui-landscape = Querformat
 printui-portrait = Hochformat
+# Section title for the printer or destination device to target
+printui-destination-label = Ziel
 printui-more-settings = Mehr Einstellungen
 printui-less-settings = Weniger Einstellungen
+# Section title (noun) for the print scaling options
+printui-scale = Skalierung
+printui-scale-fit-to-page = Auf Seite anpassen
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Skalierung
+printui-system-dialog-link = Mit Systemdialog drucken…
+printui-primary-button = Drucken
+printui-cancel-button = Abbrechen
