@@ -461,7 +461,7 @@
 <!ENTITY tasksMenu.accesskey "s">
 <!ENTITY messengerCmd.label "Taqoya'l &amp; Taq Rutzijol">
 <!ENTITY messengerCmd.accesskey "R">
-<!ENTITY addressBookCmd.label "Kiwujil taq Ochochib'äl">
+<!ENTITY addressBookCmd.label "Kiwujil Ochochib'äl">
 <!ENTITY addressBookCmd.accesskey "K">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Taq tz'aqat">
@@ -561,7 +561,7 @@
 <!ENTITY junkItem.title "Seq'">
 <!ENTITY junkButton.label "Seq'">
 <!ENTITY notJunkButton.label "Man Seq' Ta">
-<!ENTITY addressBookButton.label "Kiwujil taq Ochochib'äl">
+<!ENTITY addressBookButton.label "Kiwujil Ochochib'äl">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Chijun Kanoxïk">
 <!ENTITY searchItem.title "Anin Kanoxïk">
