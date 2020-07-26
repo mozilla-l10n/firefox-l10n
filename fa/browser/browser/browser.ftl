@@ -264,11 +264,20 @@ popup-select-microphone =
     .value = میکروفون جهت به‌اشتراک‌گذاری:
     .accesskey = م
 popup-all-windows-shared = همه‌ی پنجره‌هایی که مشاهده می‌کنید به اشتراک گذاشته می‌شود.
+popup-screen-sharing-not-now =
+    .label = اکنون نه (w)
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = هرگز اجازه نده (N)
+    .accesskey = N
+popup-silence-notifications-checkbox = از کار انداختن آگاهی‌ها از { -brand-short-name } هنگام هم‌رسانی
 
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-proceed-to-tab =
     .label = رفتن به زبانه
+sharing-warning-disable-for-session =
+    .label = از کار انداختن محافظت هم‌رسانی برای این نشست
 
 ## DevTools F12 popup
 
@@ -281,6 +290,8 @@ urlbar-placeholder =
     .placeholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
 urlbar-remote-control-notification-anchor =
     .tooltiptext = مرورگر تحت کنترل از راه دور است
+urlbar-permissions-granted =
+    .tooltiptext = به این پایگاه وب دسترسی‌های اضافی اعطا کرده‌اید.
 urlbar-switch-to-tab =
     .value = پرش به زبانه:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
