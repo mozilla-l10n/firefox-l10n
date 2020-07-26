@@ -489,7 +489,6 @@ home-prefs-topsites-description = Site-urile pe care le vizitezi cel mai des
 
 home-prefs-recommended-by-header =
     .label = Recomandat de { $provider }
-home-prefs-recommended-by-description = Conținut nemaipomenit de pe web, personalizat pentru tine
 
 ##
 
@@ -553,7 +552,6 @@ search-show-suggestions-above-history-option =
     .label = Afișează sugestiile de căutare înaintea istoricului de navigare în rezultatele din bara de adresă
 search-show-suggestions-private-windows =
     .label = Afișează sugestii de căutare în ferestrele private
-suggestions-addressbar-settings = Modifică preferințele pentru istoricul de navigare, marcaje și sugestii cu privire la file
 suggestions-addressbar-settings-generic = Schimbă preferințele pentru alte sugestii în bara de adrese
 search-suggestions-cant-show = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 search-one-click-header = Motoare de căutare la un clic distanță
@@ -750,7 +748,7 @@ sync-connect-another-device = Conectează alt dispozitiv
 sync-manage-devices = Gestionează dispozitivele
 sync-fxa-begin-pairing = Asociază un dispozitiv
 sync-tos-link = Termenii de utilizare a serviciului
-sync-fxa-privacy-notice = Declarație de confidențialitate
+sync-fxa-privacy-notice = Notificare privind confidențialitatea
 
 ## Privacy Section
 
@@ -789,6 +787,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Folosește o parolă generală
     .accesskey = U
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Schimbă parola generală…
     .accesskey = m
@@ -1065,7 +1066,7 @@ permissions-a11y-privacy-link = Află mai multe
 
 collection-header = Colectarea și utilizarea de date din { -brand-short-name }
 collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații cu caracter personal.
-collection-privacy-notice = Declarație de confidențialitate
+collection-privacy-notice = Notificare privind confidențialitatea
 collection-health-report-telemetry-disabled = Nu mai permiți { -vendor-short-name } să îți capteze datele tehnice și de interacționare. Toate datele anterioare vor fi șterse în 30 de zile.
 collection-health-report-telemetry-disabled-link = Află mai multe
 collection-health-report =
@@ -1146,6 +1147,9 @@ space-alert-under-5gb-ok-button =
     .label = OK, am înțeles
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } rămâne fără spațiu pe disc. Este posibil ca conținutul site-ului web să nu fie afișat corespunzător. Vizitează „Află mai multe” pentru a optimiza utilizarea discului în vederea unei mai bune experiențe de navigare.
+
+## Privacy Section - HTTPS-Only
+
 
 ## The following strings are used in the Download section of settings
 
