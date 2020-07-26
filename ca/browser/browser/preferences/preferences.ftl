@@ -816,6 +816,10 @@ forms-master-pw-fips-title = Us trobeu en mode FIPS. El FIPS requereix una contr
 forms-primary-pw-change =
     .label = Canvia la contrasenya principal…
     .accesskey = p
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Anteriorment anomenada «Contrasenya mestra»
 forms-primary-pw-fips-title = Us trobeu en mode FIPS. El FIPS requereix una contrasenya principal que no sigui buida.
 forms-master-pw-fips-desc = El canvi de contrasenya ha fallat
 
@@ -1185,6 +1189,9 @@ space-alert-under-5gb-message = El { -brand-short-name } s'està quedant sense e
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Mode només HTTPS
+httpsonly-description = HTTPS garanteix una connexió xifrada i segura entre el { -brand-short-name } i els llocs web que visiteu. La majoria dels llocs web admeten HTTPS; per tant, si el Mode només HTTPS està activat, el { -brand-short-name } utilitzarà HTTPS en totes les connexions.
+httpsonly-learn-more = Més informació
 
 ## The following strings are used in the Download section of settings
 
