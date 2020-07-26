@@ -39,12 +39,12 @@
 
 <!ENTITY offlineFolder.check.label               "Tichach re yajwuj re' richin nokisäx toq majun okem">
 <!ENTITY offlineFolder.check.accesskey           "T">
-<!ENTITY offlineFolder.button.label              "Tajin Niqasan">
+<!ENTITY offlineFolder.button.label              "Tiqasäx Wakami">
 <!ENTITY offlineFolder.button.accesskey          "q">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Tichach re rumolaj tzijol re' richin nokisäx toq majun okem">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY offlineNewsgroup.button.label           "Tajin Niqasan">
+<!ENTITY offlineNewsgroup.button.label           "Tiqasäx Wakami">
 <!ENTITY offlineNewsgroup.button.accesskey       "q">
 
 <!ENTITY folderProps.name.label                  "B'i'aj:">
