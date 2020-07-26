@@ -55,6 +55,13 @@ onboarding-multistage-import-header = Kter awalen-ik·im uffiren, <br/>ticraḍ 
 onboarding-multistage-import-subtitle = Truḥeḍ-d seg yiminig-nniḍen? Yeshel ad d-taweḍ kullec ɣer { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Bdu aktar
 onboarding-multistage-import-secondary-button-label = Mačči tura
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Ismal i d-yettwabedren dagi ttwafen deg yibenk-a.{ -brand-short-name } ur isseklas isefka, ur ten-issestab seg yiming-nniḍen ala ma yella tferneḍ kter-it.
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Fren <span data-l10n-name="zap">udem</span>
+onboarding-multistage-theme-subtitle = Err { -brand-short-name } d udmawan s usentel.
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
