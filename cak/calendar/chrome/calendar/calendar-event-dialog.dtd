@@ -10,8 +10,8 @@
 <!ENTITY newevent.to.label                  "Chi re" >
 
 <!ENTITY newevent.status.label                    "B'anikil" >
-<!ENTITY newevent.eventStatus.none.label          "Man ya'on ta retal" >
-<!ENTITY newevent.todoStatus.none.label           "Man ya'on ta retal" >
+<!ENTITY newevent.eventStatus.none.label          "Man jikib'an ta" >
+<!ENTITY newevent.todoStatus.none.label           "Man jikib'an ta" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Q'aton" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Q'aton" >
 <!ENTITY newevent.status.confirmed.label          "Xjikib'äx" >
@@ -98,7 +98,7 @@
 
 <!ENTITY  event.menu.options.label                            "Taq cha'oj">
 <!ENTITY  event.menu.options.priority2.label                  "Ya'on ruq'ij">
-<!ENTITY  event.menu.options.priority.notspecified.label      "Man ya'on ta retal">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Man jikib'an ta">
 <!ENTITY  event.menu.options.priority.low.label               "Ko'öl">
 <!ENTITY  event.menu.options.priority.low.accesskey           "K">
 <!ENTITY  event.menu.options.priority.normal.label            "Relik">
