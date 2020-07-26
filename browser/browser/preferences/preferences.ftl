@@ -109,7 +109,7 @@ startup-header = మొదలవడం
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name }ని మరియు Firefox ని ఒకేసారి నడుపుటకు అనుమతించు
+    .label = { -brand-short-name }, Firefoxలను ఒకేసారి నడవడానికి అనుమతించు
 use-firefox-sync = చిట్కా: ఇది వేర్వేరు ప్రొఫైళ్ళను వాడుతుంది. వాటి మధ్యలో డేటాను పంచుకోడానికి { -sync-brand-short-name }ను వాడండి.
 get-started-not-logged-in = { -sync-brand-short-name } లోనికి ప్రవేశించండి…
 get-started-configured = { -sync-brand-short-name } అభిరుచులను తెరువు

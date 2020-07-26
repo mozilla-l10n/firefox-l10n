@@ -93,6 +93,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## Master Password notification
 
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = ప్రవేశించండి
     .accesskey = L
@@ -118,6 +121,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
+about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 confirm-discard-changes-dialog-message = భద్రపరచని మార్పులన్నీ కోల్పోతారు.
 confirm-discard-changes-dialog-confirm-button = విస్మరించు

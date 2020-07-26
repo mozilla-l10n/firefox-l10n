@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = కాపీ చేయి
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = అన్నిటినీ ఎంచుకో
     .accesskey = A
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = సాధారణం
     .accesskey = G
@@ -43,7 +39,6 @@ general-meta-name =
     .label = పేరు
 general-meta-content =
     .label = విషయసంగ్రహం
-
 media-tab =
     .label = మాధ్యమం
     .accesskey = M
@@ -73,13 +68,11 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = మాధ్యమ మునుజూపు:
-
 perm-tab =
     .label = అనుమతులు
     .accesskey = P
 permissions-for =
     .value = దీనికొరకు అనుమతులు:
-
 security-tab =
     .label = రక్షణ
     .accesskey = S
@@ -100,22 +93,17 @@ security-view-identity-validity =
     .value = ఇంతలో గడువుతీరును:
 security-view-privacy =
     .value = అంతరంగికత & చరిత్ర
-
 security-view-privacy-history-value = ఈ రోజుకు ముందు నేను ఈ వెబ్ సైటును దర్శించానా?
 security-view-privacy-sitedata-value = ఈ వెబ్‌సైటు సమాచారాన్ని నా కంప్యూటరులో నిల్వవుంచుతోందా?
-
 security-view-privacy-clearsitedata =
     .label = కుకీలను, సైటు దత్తాంశాన్నీ తుడిచివేయి
     .accesskey = C
-
 security-view-privacy-passwords-value = ఈ సైటు కోసం నేను ఏమైనా సంకేతపదాలను భద్రపరిచానా?
-
 security-view-privacy-viewpasswords =
     .label = భద్రపరచిన సంకేతపదాలను చూడండి
     .accesskey = w
 security-view-technical =
     .value = సాంకేతిక వివరాలు
-
 help-button =
     .label = సహాయం
 
@@ -125,12 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = అవును, కుకీలు మరియు { $value } { $unit }ల సైటు డేటా
+security-site-data-cookies = అవును, కుకీలు, { $value } { $unit }ల సైటు డేటా
 security-site-data-only = అవును, { $value } { $unit } సైటు దత్తాంశం
-
 security-site-data-cookies-only = అవును, కుకీలు
 security-site-data-no = కాదు
-
 image-size-unknown = తెలియని
 not-set-verified-by = తెలుపబడని
 page-info-not-specified =
@@ -150,7 +136,6 @@ media-video = వీడియో
 media-audio = ఆడియో
 saved-passwords-yes = అవును
 saved-passwords-no = కాదు
-
 no-page-title =
     .value = శీర్షికలేని పేజీ:
 general-quirks-mode =
@@ -166,7 +151,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = అప్రమేయాన్ని వాడు
 security-no-visits = కాదు
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -177,14 +161,12 @@ security-visits-number =
         [one] అవును, ఒకసారి
        *[other] అవును, { $visits }సార్లు
     }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } చిత్రము
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -194,20 +176,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px కు స్కేల్‌చేయబడింది)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -215,7 +194,6 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website } నుండి  చిత్రములను నిరోధించు
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
