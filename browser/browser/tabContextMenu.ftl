@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Mehrere Tabs schließen
     .accesskey = M
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -77,4 +81,20 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = Tab verschieben
+    .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tab schließen
+            [one] Tab schließen
+           *[other] Tabs schließen
+        }
+    .accesskey = s
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tab verschieben
+            [one] Tab verschieben
+           *[other] Tabs verschieben
+        }
     .accesskey = v
