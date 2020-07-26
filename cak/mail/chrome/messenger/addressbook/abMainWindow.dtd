@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title                        "Kiwujil taq Ochochib'äl">
+<!ENTITY addressbookWindow.title                        "Kiwujil Ochochib'äl">
 <!ENTITY blankResultsPaneMessage.label                  "Re kitz'ib'awuj ochochib'äl nuk'üt kib'i' achib'il xa xe chi rij jun kanoxïk">
 <!ENTITY localResultsOnlyMessage.label                  "Ri kib'i' achib'il pa kitz'ib'awuj näj ochochib'äl, man xkek'ut ta pe we man ye'akanoj ta">
 
@@ -16,7 +16,7 @@
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Kicholajil Taqoya'l…">
 <!ENTITY newListCmd.accesskey                           "K">
-<!ENTITY newAddressBookCmd.label                        "Kiwujil taq Ochochib'äl…">
+<!ENTITY newAddressBookCmd.label                        "Kiwujil Ochochib'äl…">
 <!ENTITY newAddressBookCmd.accesskey                    "K">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP Cholb'äl…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -124,7 +124,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Taqoya'l &amp; Taq Rutzijol">
 <!ENTITY messengerCmd.accesskey                         "T">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Rutz'ib'awuj Ochochib'äl">
+<!ENTITY addressBookCmd.label                           "Kiwujil Ochochib'äl">
 <!ENTITY addressBookCmd.accesskey                       "a">
 <!ENTITY addressBookCmd.key                             "O">
 <!ENTITY searchAddressesCmd.label                       "Kekanöx Ochochib'äl…">
@@ -183,7 +183,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Anin Kanoxïk">
 
 <!-- Results Pane -->
-<!ENTITY Addrbook.label                                 "Ruwujil taq Ochochib'äl">
+<!ENTITY Addrbook.label                                 "Kiwujil Ochochib'äl">
 <!ENTITY Addrbook.accesskey                             "w">
 <!ENTITY GeneratedName.label                            "B'i'aj">
 <!ENTITY GeneratedName.accesskey                        "B">
