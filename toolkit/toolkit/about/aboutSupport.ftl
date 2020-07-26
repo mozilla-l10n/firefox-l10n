@@ -15,6 +15,7 @@ extensions-enabled = చేతనం
 extensions-version = వెర్షను
 extensions-id = ID
 support-addons-name = పేరు
+support-addons-enabled = చేతనం
 support-addons-version = వెర్షను
 support-addons-id = ID
 security-software-title = భద్రతా సాఫ్ట్‌వేరు
@@ -252,6 +253,7 @@ effective-content-sandbox-level = సమర్థవంతమైన విష
 sandbox-proc-type-content = విషయం
 sandbox-proc-type-file = ఫైలు విషయం
 sandbox-proc-type-media-plugin = మీడియా ప్లగ్ఇన్
+launcher-process-status-0 = చేతనం
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
