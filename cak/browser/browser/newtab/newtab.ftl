@@ -74,7 +74,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
-newtab-menu-edit-topsites = Tinuk'
+newtab-menu-edit-topsites = Nuk'b'äl
 newtab-menu-open-new-window = Tijaq pa jun K'ak'a' Tzuwäch
 newtab-menu-open-new-private-window = Tijaq pa jun K'ak'a' Ichinan Tzuwäch
 newtab-menu-dismiss = Tichup ruwäch

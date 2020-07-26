@@ -10,7 +10,7 @@
 <!ENTITY            profilename.label      "Rub'i' ruwäch b'i'aj:">
 
 <!ENTITY            start.label            "Titikirisäx &brandShortName;">
-<!ENTITY            exit.label             "Tel el">
+<!ENTITY            exit.label             "Tel">
 
 <!ENTITY            availprofiles.label    "Wachel taq kiwäch b'i'aj">
 
@@ -20,8 +20,8 @@
 <!ENTITY            renameButton.accesskey "T">
 <!ENTITY            deleteButton.label     "Tiyuj el ri ruwäch b'i'aj…">
 <!ENTITY            deleteButton.accesskey "T">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; nuyäk etamab'äl pa ruwi' ri anuk'ulem, taq awajowab'äl chuqa' juley chik taq ch'akulal pa ri ruwäch ab'i'.">
 
 <!ENTITY            offlineState.label    "Tisamäj rik'in majun okem pa k'amaya'l">
