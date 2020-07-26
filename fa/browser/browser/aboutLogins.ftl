@@ -115,12 +115,18 @@ about-logins-edit-login-os-auth-dialog-message-win = برای ویرایش ور�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ویرایش ورودهای ذخیره شده
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = برای دیدن گذرواژه خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = نمایش گذرواژهٔ ذخیره شده
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = برای رونوشت از گذرواژه خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = کپی رمز عبور ذخیره شده
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = برای برون‌ریزی گذرواژه‌های خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = برون‌ریزی ورودها و گذرواژه‌های ذخیره‌شده
@@ -131,6 +137,7 @@ master-password-notification-message = برای دیدن نام‌های کار�
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = برای دیدن ورودها و گذرواژه‌های ذخیره شدهٔ خود، گذاوژهٔ اصلی را وارد کنید
 master-password-reload-button =
     .label = ورود
     .accesskey = و
@@ -162,6 +169,7 @@ about-logins-confirm-remove-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
 about-logins-confirm-remove-dialog-confirm-button = حذف
 about-logins-confirm-export-dialog-title = برون‌ریزی ورودها و گذرواژه‌ها
+about-logins-confirm-export-dialog-message = گذرواژه‌های شما به عنوان متن قابل خواندن ذخیره خواهد شد (مثلاً BadP@ssw0rd) بنابراین هر کسی که بتواند پرونده صادر شده را باز کند، می‌تواند آنها را ببیند.
 about-logins-confirm-export-dialog-confirm-button = برون‌ریزی…
 confirm-discard-changes-dialog-title = تغییرات ذخیره نشده نادیده گرفته شود؟
 confirm-discard-changes-dialog-message = تمام تغییرات ذخیره نشده از بین می‌روند.
