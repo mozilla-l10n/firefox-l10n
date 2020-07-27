@@ -57,6 +57,9 @@ onboarding-multistage-import-header = Importa contrasignos, marcapaginas e <span
 onboarding-multistage-import-subtitle = Veni tu ab un altere navigator? Il es facile transferer toto a { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Initia importar
 onboarding-multistage-import-secondary-button-label = Non ora
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Le sitos in le lista de presentation hic ha essite trovate sur iste dispositivo. { -brand-short-name } non salva o synchronisa datos de un altere navigator a minus que tu selige de importar los.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -83,6 +86,12 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Heredita le apparentia de tu systema
+        operative pro buttones, menus e fenestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
 
 ## Welcome full page string
 
