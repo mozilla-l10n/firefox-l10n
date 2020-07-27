@@ -86,7 +86,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = “Sam
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = about:home startup cache
+    .label = about:home 시작 캐시
 experimental-features-abouthome-startup-cache-description = 시작시 기본적으로 로드되는 초기 about:home 문서에 대한 캐시입니다. 캐시의 목적은 시작 성능을 향상시키는 것입니다.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
