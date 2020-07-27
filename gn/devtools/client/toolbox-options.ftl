@@ -81,7 +81,7 @@ options-sourceeditor-expandtab-tooltip =
 options-sourceeditor-expandtab-label = Eipuruhína pa’ũ guasu
 options-sourceeditor-tabsize-label = Tendayke tuichakue
 options-sourceeditor-keybinding-label = Jehaiha mbojopyru
-options-sourceeditor-keybinding-default-label = Jepokokuaa'ỹha
+options-sourceeditor-keybinding-default-label = Jepokokuaa’ỹha
 
 ## Advanced section
 
