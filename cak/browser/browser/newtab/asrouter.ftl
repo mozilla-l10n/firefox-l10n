@@ -259,3 +259,5 @@ cfr-doorhanger-doh-secondary-button = Tichup
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Yonil taq chajinïk chuwäch q'olonel rub'eyal richin ojqanem
+cfr-whatsnew-clear-cookies-body = Jujun ojqanela' yatkik'waj pa juley taq ajk'amaya'l ruxaq ri nikib'än kinuk'ulem cookies pan ewäl. { -brand-short-name } ruyonil yeruyüj wakami ri cookies richin man katkojqaj ta.
+cfr-whatsnew-clear-cookies-image-alt = Ruwachib'al q'aton cookie

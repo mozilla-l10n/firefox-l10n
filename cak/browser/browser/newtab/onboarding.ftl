@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Titikirisäx
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Ütz apetik pa <span data-l10n-name = "zap"> { -brand-short-name } </span>
 onboarding-welcome-body = K'o awik'in ri okik'amaya'l.<br/>Tawetamaj ri ch'aqa' chik taq { -brand-product-name }.
 onboarding-welcome-learn-more = Tawetamaj ch'aqa' chik pa ruwi' ri taq rutzil.
 onboarding-join-form-header = Tatunu' awi' rik'in { -brand-product-name }
@@ -44,6 +41,22 @@ onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
 onboarding-cards-dismiss =
     .title = Tichup ruwäch
     .aria-label = Tichup ruwäch
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Ütz apetik pa <span data-l10n-name = "zap"> { -brand-short-name } </span>
+onboarding-multistage-welcome-subtitle = Ri aninäq, jikïl chuqa' ichinan okik'amaya'l temen ruma jun moloj majun ch'akoj rojqan.
+onboarding-multistage-welcome-primary-button-label = Tichap Runuk'ulem
+onboarding-multistage-welcome-secondary-button-label = Titikirisäx molojri'ïl
+onboarding-multistage-welcome-secondary-button-text = ¿La k'o jun rub'i' ataqoya'l?
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
