@@ -17,7 +17,10 @@ extensions-name = Nume
 extensions-enabled = Activat
 extensions-version = Versiune
 extensions-id = ID
+support-addons-title = Suplimente
 support-addons-name = Nume
+support-addons-type = Tip
+support-addons-enabled = Activate
 support-addons-version = Versiune
 support-addons-id = ID
 security-software-title = Program de securitate
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] Deschide dosarul
        *[other] Deschide directorul
     }
+experimental-features-title = Funcționalități experimentale
+experimental-features-name = Denumire
+experimental-features-value = Valoare
 modified-key-prefs-title = Preferințe importante modificate
 modified-prefs-name = Nume
 modified-prefs-value = Valoare
@@ -122,6 +128,11 @@ sandbox-sys-call-number = Apel sistem
 sandbox-sys-call-args = Argumente
 safe-mode-title = Încearcă modul sigur
 restart-in-safe-mode-label = Repornește cu suplimentele dezactivate…
+clear-startup-cache-title = Încearcă să golești cache-ul de pornire
+clear-startup-cache-label = Golește cache-ul de pornire…
+startup-cache-dialog-title = Golește cache-ul de pornire
+startup-cache-dialog-body = Repornește { -brand-short-name } pentru golirea cache-ului. Acțiunea nu îți va modifica setările și nu îți va șterge extensiile pe care le-ai adăugat în { -brand-short-name }.
+restart-button-label = Repornește
 
 ## Media titles
 
@@ -129,6 +140,7 @@ audio-backend = Backend audio
 max-audio-channels = Canale maxime
 channel-layout = Aspect preferat al canalelor
 sample-rate = Rată de eșantionare preferată
+roundtrip-latency = Latență dus-întors (deviație standard)
 media-title = Media
 media-output-devices-title = Dispozitive de ieșire
 media-input-devices-title = Dispozitive de intrare
@@ -267,6 +279,9 @@ blocklisted-bug = Pe lista de blocări din cauza unor probleme cunoscute
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Pus pe lista de blocare din cauza problemelor cunoscute: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Pus pe lista de blocări; cod de eroare { $failureCode }
