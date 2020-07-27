@@ -101,6 +101,13 @@ master-password-os-auth-dialog-message-win = Za stvaranje glavne lozinke, upiši
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = stvori glavnu lozinku
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Za stvaranje glavne lozinke, upiši svoje podatke za prijavu na Windows. To pomaže u zaštiti vaših računa.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = stvori glavnu lozinku
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -538,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Promjeni glavnu lozinku…
     .accesskey = P
+primary-password-description = Glavna lozinka štiti sve vaše lozinke, ali se mora unijeti jednom za svaku prijavu.
+primary-password-label =
+    .label = Koristi glavnu lozinku
+    .accesskey = u
+primary-password-button =
+    .label = Promijeni glavnu lozinku…
+    .accesskey = m
+forms-primary-pw-fips-title = Trenutačno ste u FIPS načinu rada. FIPS ne dopušta praznu glavnu lozinku.
+forms-master-pw-fips-desc = Promjena lozinke nije uspjela
 junk-description = Postavite svoje zadane postavke neželjene pošte. Specifične postavke za pojedini račun se mogu podesiti u postavkama računa.
 junk-label =
     .label = Kada označim poruke kao neželjenu poštu:
