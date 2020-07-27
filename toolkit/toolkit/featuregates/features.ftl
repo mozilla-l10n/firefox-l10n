@@ -68,8 +68,13 @@ experimental-features-media-session-api =
 experimental-features-media-session-api-description = La implementación completa de { -brand-short-name } de Media Session API es actualmente experimental. Esta API se usa para personalizar el manejo de notificaciones relacionadas con los medios, para manejar eventos y datos útiles para presentar una interface de usuario para manejar reproducción de medios y para obtener metadatos de los archivos. Ver <a data-l10n-name="bugzilla">bug 1112032</a> para más detalles.
 experimental-features-devtools-color-scheme-simulation =
     .label = Herramientas para desarrolladores: simulación de esquemas de color
+experimental-features-devtools-color-scheme-simulation-description = Agrega una opción para simular diferentes esquemas de color que le permite probar <a data-l10n-name="mdn-preferscolorscheme"> @prefers-color-scheme </a> consultas de medios. El uso de esta función permite que su hoja de estilo responda si el usuario prefiere una interfaz de usuario clara u oscura. Estole permite probar su código sin tener que cambiar la configuración de su navegador (o sistema operativo, si el navegador sigue una configuración de esquema de color para todo el sistema). Consulte <a data-l10n-name="bugzilla1"> bug 1550804 </a> y <a data-l10n-name="bugzilla2"> bug 1137699 </a> para obtener más detalles.
 experimental-features-devtools-execution-context-selector =
     .label = Herramientas de desarrollo: Selector de contexto de ejecución
+experimental-features-devtools-execution-context-selector-description = Esta función muestra un botón en la línea de comando de la consola que le permite cambiar el contexto en el que se ejecutará la expresión que ingrese. Consulte <a data-l10n-name="bugzilla1"> bug 1605154 </a> y <a data-l10n-name="bugzilla2"> bug 1605153 </a> para obtener más detalles.
+experimental-features-devtools-compatibility-panel =
+    .label = Herramientas para desarrolladores: Panel de compatibilidad
+experimental-features-devtools-compatibility-panel-description = Un panel lateral para el Inspector de página que muestra información que detalla el estado de compatibilidad entre navegadores de su aplicación. Consulte <a data-l10n-name="bugzilla"> bug 1584464 </a> para obtener más detalles.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite = Lax predeterminado
@@ -83,3 +88,13 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Las co
 experimental-features-abouthome-startup-cache =
     .label = about:home startup cache
 experimental-features-abouthome-startup-cache-description = Un caché para el documento inicial about:home que se carga de manera predeterminada al inicio. El propósito del caché es mejorar el rendimiento de inicio.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Tratar las cookies del mismo dominio, pero con diferentes esquemas (por ejemplo, http://example.com y https://example.com) como sitios cruzados en lugar de sitios iguales. Mejora la seguridad, pero potencialmente introduce rotura.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Herramientas para desarrolladores: Depuración de Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Habilita el soporte experimental para Service Workers en el panel del Depurador. Esta función puede lentificar las Herramientas de desarrollo y aumentar el consumo de memoria.
