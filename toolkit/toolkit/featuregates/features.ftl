@@ -34,3 +34,29 @@ experimental-features-media-avif-description = Cu această funcționalitate acti
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Implementarea noastră a atributului global <a data-l10n-name="mdn-inputmode">inputmode</a> a fost activată conform <a data-l10n-name="whatwg">specificației WHATWG</a>, dar tot mai trebuie să facem alte modificări, cum ar fi să îl facem disponibil pe conținuturi editabile. Vezi <a data-l10n-name="bugzilla">bug 1205133</a> pentru mai multe detalii.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Unelte de dezvoltare: Simularea paletei de culori
+experimental-features-devtools-execution-context-selector =
+    .label = Unelte de dezvoltare: Selector pentru contextul de execuție
