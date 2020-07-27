@@ -57,6 +57,8 @@ experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
     .label = Utvecklarverktyg: Simulering av färgschema
+experimental-features-devtools-execution-context-selector =
+    .label = Utvecklarverktyg: Exekveringskontext väljare
 experimental-features-devtools-compatibility-panel =
     .label = Utvecklarverktyg: Kompatibilitetspanel
 # Do not translate 'SameSite', 'Lax' and 'None'.
@@ -80,3 +82,5 @@ experimental-features-cookie-samesite-schemeful-description = Behandla kakor fr�
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Utvecklarverktyg: Felsökning av Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Aktiverar experimentellt stöd för Service Workers i felsökningspanelen. Den här funktionen kan få utvecklarverktygen att gå långsammare och öka minnesförbrukningen.
