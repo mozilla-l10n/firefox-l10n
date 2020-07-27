@@ -43,7 +43,16 @@ experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
-experimental-features-web-api-link-preload-description = O atributo <a data-l10n-name="rel">rel</a> com o valor <code>"preload"</code> num elemento <a data-l10n-name="link">&lt;link&gt;</a> destina-se a ajudar a fornecer melhorias de desempenho, permitindo que descarregue recursos no início do ciclo de vida da página, garantindo que est estejam disponíveis mais cedo e tenham menos probabilidade de bloquear a renderização da página. Leia <a data-l10n-name="readmore"> “Pré-carregando conteúdo com <code> rel =" preload "</code>” </a> ou consulte <a data-l10n-name="bugzilla"> bug 1583604 </a> para mais detalhes.
+experimental-features-web-api-link-preload-description = O atributo <a data-l10n-name="rel">rel</a> com o valor <code>"preload"</code> num elemento <a data-l10n-name="link">&lt;link&gt;</a> destina-se a ajudar a fornecer melhorias de desempenho, permitindo que descarregue recursos no início do ciclo de vida da página, garantindo que estes estejam disponíveis mais cedo e tenham uma probabilidade inferior de bloquear a renderização da página. Consulte <a data-l10n-name="readmore">“Pré-carregamento de conteúdo com o <code>rel="preload"</code>”</a> ou consulte o <a data-l10n-name="bugzilla">bug 1583604</a> para mais detalhes.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-classe: :focus-visible
+experimental-features-css-focus-visible-description = Permite que os estilos de foco sejam aplicados a elementos como botões e controlos de formulário, apenas quando estes são focados utilizando o teclado (por exemplo, ao tabular entre elementos) e não quando estes são focados utilizando um rato ou outro dispositivo apontador. Consulte o <a data-l10n-name="bugzilla">bug 1617600</a> para obter mais detalhes.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = API da Web: evento beforeinput
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por predefinição
