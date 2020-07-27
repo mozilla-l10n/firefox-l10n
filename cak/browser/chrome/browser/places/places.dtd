@@ -36,7 +36,7 @@
 
 <!ENTITY cmd.backup.label               "Tiwachib'ëx…">
 <!ENTITY cmd.backup.accesskey           "T">
-<!ENTITY cmd.restore2.label             "Titzolïx ruk'ojlem">
+<!ENTITY cmd.restore2.label             "Titzolïx">
 <!ENTITY cmd.restore2.accesskey         "T">
 <!ENTITY cmd.restoreFromFile.label      "Ticha' Yakb'äl…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
