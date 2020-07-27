@@ -88,10 +88,57 @@ imported-edge-reading-list = Listă de lectură (din Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookie-uri
+browser-data-cookies-label =
+    .value = Cookie-uri
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Istoric de navigare și marcaje
+           *[other] Istoric de navigare
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Istoric de navigare și marcaje
+           *[other] istoric de navigare
+        }
+browser-data-formdata-checkbox =
+    .label = Istoricul formularelor salvate
+browser-data-formdata-label =
+    .value = Istoricul formularelor salvate
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Date de autentificare și parole salvate
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Date de autentificare și parole salvate
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favorite
+            [edge] Favorite
+           *[other] Marcaje
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favorite
+            [edge] Favorite
+           *[other] Marcaje
+        }
+browser-data-otherdata-checkbox =
+    .label = Alte date
+browser-data-otherdata-label =
+    .label = Alte date
 browser-data-session-checkbox =
     .label = Ferestre și file
 browser-data-session-label =

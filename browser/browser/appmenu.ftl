@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Protecții pentru confidențialitate
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Mergi la raportul de protecție a vieții private
+appmenuitem-update-banner =
+    .label-update-downloading = Se descarcă actualizarea { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Tablou de bord privind protecțiile
 appmenuitem-customize-mode =
     .label = Personalizează…
@@ -27,3 +26,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ce este nou
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Anunță-mă despre noi funcționalități
+    .accesskey = f

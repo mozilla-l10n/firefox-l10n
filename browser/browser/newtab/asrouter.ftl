@@ -210,6 +210,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Afișează tot
     .accesskey = S
+cfr-doorhanger-milestone-close-button = Închide
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -234,7 +236,27 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Pictogramă de imagine-în-imagine
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Protecții dintr-o privite
+cfr-whatsnew-protections-body = Tabloul de bord de protecții include rapoarte sumare despre breșele de date și gestionarea parolelor. Acum poți urmări câte breșe ai rezolvat și poți vedea dacă parolele tale salvate au fost expuse într-o breșă de date.
 cfr-whatsnew-protections-cta-link = Vezi tabloul de bord privind protecțiile
+cfr-whatsnew-protections-icon-alt = Pictogramă de scut
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = O experiență PDF mai bună
+cfr-whatsnew-better-pdf-body = Documentele PDF se deschid acum direct din { -brand-short-name }, pentru a avea la îndemână fluxul de lucru.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Confidențialitatea ta contează. { -brand-short-name } îți rutează acum securizat cererile DNS ori de câte ori este posibil către un serviciu partener pentru a te proteja în timpul navigării.
+cfr-doorhanger-doh-header = Căutări DNS criptate, mai securizate
+cfr-doorhanger-doh-primary-button = OK, am înțeles
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Dezactivează
+    .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Protecție automată împotriva tacticilor insidioase de urmărire
+cfr-whatsnew-clear-cookies-body = Unele elemente de urmărire te redirecționează pe alte site-uri web care setează cookie-uri în secret. Acum, { -brand-short-name } elimină automat aceste cookie-uri ca să nu poți fi urmărit(ă).
+cfr-whatsnew-clear-cookies-image-alt = Ilustrație de cookie blocat
