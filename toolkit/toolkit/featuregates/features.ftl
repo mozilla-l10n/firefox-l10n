@@ -58,8 +58,10 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Toată implementarea Media Session API din { -brand-short-name } este acum experimentală. Acest API este folosit la personalizarea gestionării notificărilor legate de multimedia, la gestionarea evenimentelor și datelor utile pentru prezentarea unei interfețe pentru utilizatori pentru gestionarea redării materialelor multimedia și pentru a obține metadatele fișierelor multimedia. Vezi <a data-l10n-name="bugzilla">bug 1112032</a> pentru mai multe detalii.
 experimental-features-devtools-color-scheme-simulation =
     .label = Unelte de dezvoltare: Simularea paletei de culori
+experimental-features-devtools-color-scheme-simulation-description = Adaugă o opțiune pentru a simula diferite palete de culori, permițând testarea interogărilor multimedia cu <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Utilizarea acestei interogări de medii permite fișei de stiluri să răspundă dacă utilizatorul preferă o interfață luminoasă sau întunecată. Această funcționalitate permite testarea de coduri fără nevoia de a schimba setările din browser (sau sistemul de operare dacă browserul urmează o setare a schemei de culori aplicată la nivelul întregului sistem). Vezi <a data-l10n-name="bugzilla1">bug 1550804</a> și <a data-l10n-name="bugzilla2">bug 1137699</a> pentru mai multe detalii.
 experimental-features-devtools-execution-context-selector =
     .label = Unelte de dezvoltare: Selector pentru contextul de execuție
 experimental-features-devtools-execution-context-selector-description = Această funcționalitate afișează un buton pe linia de comandă a consolei, care îți permite să schimbi contextul în care să fie executată expresia introdusă. Vezi <a data-l10n-name="bugzilla1">bug 1605154</a> și <a data-l10n-name="bugzilla2">bug 1605153</a> pentru mai multe detalii.
