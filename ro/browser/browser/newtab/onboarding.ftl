@@ -44,12 +44,72 @@ onboarding-cards-dismiss =
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Bine ai venit la <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Browserul rapid, sigur și privat susținut de o organizație nonprofit.
+onboarding-multistage-welcome-primary-button-label = Începe configurarea
+onboarding-multistage-welcome-secondary-button-label = Autentifică-te
+onboarding-multistage-welcome-secondary-button-text = Ai un cont?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importă-ți parolele, <br/>marcajele și <span data-l10n-name="zap">altele</span>
+onboarding-multistage-import-subtitle = Foloseai alt browser? Poți aduce toate datele de acolo în { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Începe importul
+onboarding-multistage-import-secondary-button-label = Nu acum
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Site-urile enumerate aici au fost găsite pe acest dispozitiv. { -brand-short-name } nu salvează sau nu sincronizează date de pe alte browsere decât dacă tu alegi să le imporți.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Pentru început: ecran { $current } din { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Alege un <span data-l10n-name="zap">aspect</span>
+onboarding-multistage-theme-subtitle = Personalizează { -brand-short-name } cu o temă.
+onboarding-multistage-theme-primary-button-label = Salvează tema
+onboarding-multistage-theme-secondary-button-label = Nu acum
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automat
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Folosește tema sistemului
+onboarding-multistage-theme-label-light = Luminoasă
+onboarding-multistage-theme-label-dark = Întunecată
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Preia aspectul butoanelor, meniurilor și
+        ferestrelor din sistemul de operare.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Folosește un aspect luminos pentru
+        butoane, meniuri și ferestre.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Folosește un aspect întunecat pentru
+        butoane, meniuri și ferestre.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Folosește un aspect colorat
+        pentru butoane, meniuri și ferestre.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
