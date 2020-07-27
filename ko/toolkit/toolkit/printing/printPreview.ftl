@@ -5,7 +5,7 @@
 printpreview-simplify-page-checkbox =
     .label = 페이지 간소화
     .accesskey = i
-    .tooltiptext = 이 페이지는 자동으로 간소화 할 수 없습니다
+    .tooltiptext = 이 페이지는 자동으로 간소화할 수 없습니다
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
     .accesskey = { printpreview-simplify-page-checkbox.accesskey }
