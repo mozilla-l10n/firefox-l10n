@@ -42,6 +42,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Reproduce videos in prime plano durante que tu face altere cosas in &brandShortName;">
 
 <!ENTITY error.aborted "Cargamento de video stoppate.">
 <!ENTITY error.network "Reproduction del video abortate per un error de rete.">
