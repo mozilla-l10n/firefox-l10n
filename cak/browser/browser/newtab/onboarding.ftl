@@ -60,6 +60,26 @@ onboarding-multistage-import-secondary-button-label = Wakami mani
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Xe'ilitäj re taq ruxaq pa re okisab'äl re'. Ri { -brand-short-name } man yeruyäk ta ni xa ta yeruxïm taq kitzij juley taq okik'amaya'l, xa xe we nacha' chi ye'ajïk'.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Nab'ey taq xak: ruwäch { $current } ri { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Tacha' jun <span data-l10n-name="zap">rub'anikil</span>
+onboarding-multistage-theme-subtitle = Tawichinaj { -brand-short-name } rik'in jun wachinel.
+onboarding-multistage-theme-primary-button-label = Tiyak Wachinel
+onboarding-multistage-theme-secondary-button-label = Wakami mani
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Yonil
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Tokisäx ruwachinel q'inoj
+onboarding-multistage-theme-label-light = Saqsöj
+onboarding-multistage-theme-label-dark = Q'eqq'öj
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
