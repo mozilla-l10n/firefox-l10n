@@ -50,6 +50,12 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Experimente { -brand-short-name }
+category-experimental =
+    .tooltiptext = Experimente { -brand-short-name }
+pane-experimental-subtitle = De folosit cu precauție
+pane-experimental-search-results-header = Experimente { -brand-short-name }: De folosit cu precauție
+pane-experimental-description = Modificarea preferințelor de configurare avansată poate avea impact asupra performanței sau securității { -brand-short-name }.
 help-button-label = Asistență { -brand-short-name }
 addons-button-label = Extensii și teme
 focus-search =
@@ -287,6 +293,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Folosește { $app-name } (implicit)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Folosește aplicația implicită din macOS
+            [windows] Folosește aplicația implicită din Windows
+           *[other] Folosește aplicația implicită a sistemului
+        }
 applications-use-other =
     .label = Folosește altceva…
 applications-select-helper = Selectează aplicația ajutătoare
@@ -310,6 +323,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Folosește { $plugin-name } (în { -brand-short-name })
+applications-open-inapp =
+    .label = Deschide în { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -321,12 +336,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -489,6 +508,7 @@ home-prefs-topsites-description = Site-urile pe care le vizitezi cel mai des
 
 home-prefs-recommended-by-header =
     .label = Recomandat de { $provider }
+home-prefs-recommended-by-description-update = Conținut excepțional de pe web, îngrijit de { $provider }
 
 ##
 
@@ -787,6 +807,10 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Folosește o parolă generală
     .accesskey = U
+forms-primary-pw-use =
+    .label = Folosește o parolă primară
+    .accesskey = U
+forms-primary-pw-learn-more-link = Află mai multe
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -794,15 +818,32 @@ forms-master-pw-change =
     .label = Schimbă parola generală…
     .accesskey = m
 forms-master-pw-fips-title = Acum te afli în modul FIPS. FIPS nu permite inexistența unei parole generale.
+forms-primary-pw-change =
+    .label = Schimbă parola primară…
+    .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Denumită anterior parolă generală
+forms-primary-pw-fips-title = Acum ești în modul FIPS. FIPS nu permite inexistența unei parole primare.
 forms-master-pw-fips-desc = Schimbarea parolei a eșuat
 
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Pentru a crea o parolă generală, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = creează o parolă generală
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Pentru a crea o parolă primară, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = creează o parolă primară
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -892,6 +933,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Gestionează permisiunile...
     .accesskey = P
+sitedata-cookies-exceptions =
+    .label = Gestionează excepțiile…
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
@@ -1150,6 +1194,15 @@ space-alert-under-5gb-message = { -brand-short-name } rămâne fără spațiu pe
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Mod doar HTTPS
+httpsonly-description = HTTPS oferă o conexiune criptată și securizată între { -brand-short-name } și site-urile web pe care intri. Cele mai multe site-uri au suport pentru HTTPS și, dacă este activat modul doar HTTPS, atunci { -brand-short-name } va folosi HTTPS pentru toate conexiunile.
+httpsonly-learn-more = Află mai multe
+httpsonly-radio-enabled =
+    .label = Activează modul doar HTTPS în toate ferestrele
+httpsonly-radio-enabled-pbm =
+    .label = Activează modul doar HTTPS numai în ferestrele private
+httpsonly-radio-disabled =
+    .label = Nu activa modul doar HTTPS
 
 ## The following strings are used in the Download section of settings
 
