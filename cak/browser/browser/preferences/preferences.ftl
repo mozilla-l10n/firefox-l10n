@@ -450,7 +450,7 @@ network-settings-title = Runuk'ulem Okem
 network-proxy-connection-description = Tib'an runuk'ulem rub'eyal { -brand-short-name } nok pa k'amaya'l.
 network-proxy-connection-learn-more = Tetamäx ch'aqa' chik
 network-proxy-connection-settings =
-    .label = Tinuk'…
+    .label = Taq nuk'ulem…
     .accesskey = n
 
 ## Home Section
@@ -803,6 +803,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Tokisäx ri nimaläj ewan tzij
     .accesskey = T
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Tijal Ajtij Ewan Tzij…
     .accesskey = A
@@ -855,7 +858,7 @@ history-clear-on-close-option =
     .label = Tijoxq'ïx ri natab'äll toq nitz'apïx { -brand-short-name }
     .accesskey = j
 history-clear-on-close-settings =
-    .label = Nuk'ulem…
+    .label = Taq Nuk'ulem…
     .accesskey = N
 history-clear-button =
     .label = Tiyuj el ri Natab'äl…

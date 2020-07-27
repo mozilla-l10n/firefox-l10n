@@ -16,7 +16,7 @@ add-bookmark = Ketz'aqatisäx taq retal
 open-bookmarks-sidebar = Tijaq ri Ajxikin Kipas taq Yaketal
 reader-view = Rutz'etoj Sik'inem
 # Meant to match the string displayed in an empty URL bar.
-open-location = Tikanöx o titz'ib'äx ri ochochib'äl
+open-location = Tikanöx o titz'ib'äx ochochib'äl
 share = Tikomonïx
 close-window = Titz'apïx Tzuwäch
 open-sidebar = Taq ajxikin
