@@ -125,7 +125,7 @@ downloads-cancel-download =
 # the panel at all.
 downloads-history =
     .label = Afichar totes los telecargaments
-    .accesskey = i
+    .accesskey = A
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
