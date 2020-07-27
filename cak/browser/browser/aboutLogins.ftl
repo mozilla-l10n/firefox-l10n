@@ -75,6 +75,7 @@ login-intro-instruction-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccoun
 login-intro-instruction-fxa-settings = Tatz'eta' chi xacha' ri k'ojlib'äl richin kitikitib'al molojri'ïl pa ri runuk'ulem { -sync-brand-short-name }.
 about-logins-intro-instruction-help = Tatz'eta' <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Tob'äl</a> richin ch'aqa' chik to'ïk.
 about-logins-intro-import = We ri rutikirib'al amolojri'ïl yakon pa jun chik okik'amaya'l, yatikïr <a data-l10n-name="import-link">ye'ajïk' pa { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = We ri taq awujil man yek'oje' ta chupam { -brand-product-name } yatikïr <a data-l10n-name="import-browser-link">ye'ajïk pe chupam jun chik okik'amaya'l</a> o <a data-l10n-name="import-file-link">chupam jun yakb'äl</a>
 
 ## Login
 
@@ -136,6 +137,7 @@ master-password-notification-message = Tatz'ib'aj ri ajtij ewan atzij richin ye'
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Tatz'ib'aj ri Nab'ey Ewan Atzij richin ye'atz'ët ri rutikirib'al taq amolojri'ïl & ri ewan taq tzij
 master-password-reload-button =
     .label = Titikirisäx molojri'ïl
     .accesskey = m
