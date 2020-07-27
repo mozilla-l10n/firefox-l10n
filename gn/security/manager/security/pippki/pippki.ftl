@@ -23,6 +23,8 @@ reset-password-window =
     .title = Ñe’ẽñemi ha’etéva jeguerujey
     .style = width: 40em
 pippki-failed-pw-change = Ndaikatúi emoambue ne’ẽñemi.
+pippki-incorrect-pw = Neremoingeporãi ne’ẽñemi ha’etéva ag̃aguáva. Eha’ãjey upe rire.
+pippki-pw-change-ok = Emoambuéma ñe’ẽñemi hekopete.
 
 ## Reset Primary Password dialog
 
