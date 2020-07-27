@@ -25,6 +25,9 @@
 <!ENTITY playSoundButton.label          "Spel av">
 <!ENTITY playSoundButton.accesskey      "S">
 
+<!ENTITY displayIcon.label              "Vis eit ikon i statuslinja til nettlesaren">
+<!ENTITY displayIcon.accesskey          "V">
 
-
+<!ENTITY displayNotification.label      "Vis ei varslingslinje øvst i innhaldsområdet">
+<!ENTITY displayNotification.accesskey  "e">
 

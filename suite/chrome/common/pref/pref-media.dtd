@@ -14,4 +14,10 @@
 <!ENTITY enableEmeForSuite.label        "Tredjeparts innhaldsdekrypteringsmodular">
 <!ENTITY enableEmeForSuite.accesskey    "k">
 
-<!ENTITY animLoopingTitle.label         "Animerte bilde skal gå i løkke">
+<!ENTITY animLoopingTitle.label         "Animerte bilde skal gå i lykkje">
+<!ENTITY animLoopAsSpecified.label      "Så mange gongar som bildet spesifiserer">
+<!ENTITY animLoopAsSpecified.accesskey  "m">
+<!ENTITY animLoopOnce.label             "Ein gong">
+<!ENTITY animLoopOnce.accesskey         "g">
+<!ENTITY animLoopNever.label            "Aldri">
+<!ENTITY animLoopNever.accesskey        "d">
