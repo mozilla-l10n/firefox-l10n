@@ -79,6 +79,12 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Seqdec arwes aberkan i tqeffalin,
+        i wumuɣen d yisfuyla.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
 
 ## Welcome full page string
 
