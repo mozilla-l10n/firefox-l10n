@@ -25,11 +25,11 @@ scope = <strong>Hupytyha peve:</strong> { $name }
 script-spec = <strong>Giõ Spec:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>Mba’apohára ag̃agua URL:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Emyandy kache réra:</strong> { $name }
-waiting-cache-name = <strong>Eha'arõhína kache réra:</strong> { $name }
+waiting-cache-name = <strong>Eha’arõhína kache réra:</strong> { $name }
 push-end-point-waiting = <strong>Emyaña kyta paha:</strong> { waiting }
 push-end-point-result = <strong>Emyaña kyta paha:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Ñembohekopyahu
 unregister-button = Haipy hejarei
 unregister-error = Ojavy emboguekuévo pe haipy ko mab’apohára mba’epytyvõrãva.
-waiting = Oha'arõhína…
+waiting = Oha’arõhína…

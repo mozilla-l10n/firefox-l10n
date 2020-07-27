@@ -18,7 +18,7 @@ certmgr-mine = Oguereko mboajepyréva ko’ã atyguasúpe omoha’eñóva
 certmgr-remembered = Ko’ã mboajepyréva ojepuru ojehecha hag̃ua ñanduti rendápe
 certmgr-people = Eguereko mboajepyréva marandurendápe oikuaaporãva ko’ã tapicha
 certmgr-servers = Eguereko mboajepyréva marandurendápe oikuaaporãva ko’ã mohendahavusúpe
-certmgr-ca = Oguereko mboajepyréva marandurendápe omoha'eñóva ko’ã moakãhára mboajehára
+certmgr-ca = Oreko mboajepyréva marandurendápe omoha’eñóva ko’ã moakãhára mboajehára
 certmgr-detail-general-tab-title =
     .label = Opavavetépe
     .accesskey = G
@@ -185,7 +185,7 @@ cert-with-serial =
 cert-viewer-title =
     .title = Mboajepyréva rechaha: “{ $certName }”
 not-present =
-    .value = <Ndaha'eihína mboajepyréva rehegua>
+    .value = <Ndaha’eihína mboajepyréva rehegua>
 # Cert verification
 cert-verified = Ko mboajepyréva ojehechajeýma ko’ã jepurúpe g̃uarã:
 # Add usage
@@ -222,7 +222,7 @@ add-exception-unverified-or-bad-signature-long = Pe mboajepyréva nahekorosãi, 
 add-exception-valid-short = Mboajepyre oikóva
 add-exception-valid-long = Ko tenda ome’ẽ jogueraha oikóva ha ojehechajeypyréva. Nereikotevẽi embojuapy peteĩ oĩ’ỹva.
 add-exception-checking-short = Marandu jehechajey
-add-exception-checking-long = Oñeha'ã ohechakuaa ko tendápe…
+add-exception-checking-long = Oñeha’ã ohechakuaa ko tendápe…
 add-exception-no-cert-short = Ndaipóri marandu eipurukuaáva
 add-exception-no-cert-long = Ndaikatúi eguereko jehechakuaa reko ko tendápe g̃uarã.
 

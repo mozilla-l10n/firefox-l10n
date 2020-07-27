@@ -153,7 +153,7 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Heta moimbaha ojepe’aitéma
 disabled-unsigned-description = Ko’ã moĩmbaha ndojehechajeýi ojepuru hag̃uáicha { -brand-short-name }-pe. Ikatu<label data-l10n-name="find-addons">Myengoviarã juhu</label> térã ejerure mboguatahárape ojehechajey hag̃ua.
-disabled-unsigned-learn-more = Eikuaave oreñeha'ã rehegua ikatu hag̃uáicha roipytyvõ peime hag̃ua jeikekatúpe.
+disabled-unsigned-learn-more = Eikuaave oreñeha’ã rehegua ikatu hag̃uáicha roipytyvõ peime hag̃ua jeikekatúpe.
 disabled-unsigned-devinfo = Umi mboguatahára oipotáva moimbaha jehechapyréva ikatu omoñe’ẽve ohóvo ko <label data-l10n-name="learn-more">popeguáva</label>.
 plugin-deprecation-description = ¿Oĩ nderejuhúiva? Sapy’ánte oĩ mba’ejoajurã ndaikatuvéima ojepuru { -brand-short-name } ndive. <label data-l10n-name="learn-more">Jeikuaave.</label>
 legacy-warning-show-legacy = Opaite mba’ejoapyrã jehecha

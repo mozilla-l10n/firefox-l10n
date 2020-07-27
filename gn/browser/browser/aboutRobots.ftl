@@ -13,7 +13,7 @@ page-title = ¡Peg̃uahẽporãitéke, tapichakuéra!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = ¡Peg̃uahẽporãite, yvyporakuéra!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
-error-short-desc-text = Roju penerendápe py'aguapy ha tekojekupytýre.
+error-short-desc-text = Roju penerendápe py’aguapy ha tekojekupytýre.
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Avara’ãnga ndojapova’erãi ivaíva tapicháre térã, ojapo’ỹvo mba’eve, oheja ojehu mba’evai tapicháre.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."

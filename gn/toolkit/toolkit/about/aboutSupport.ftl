@@ -222,7 +222,7 @@ text-copied = Moñe’ẽrã oñembohasáma kuatiajokohápe
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Ojejokóva peteĩchaguápe g̃uarã ta’ãnga ñangarekohárape.
-blocked-gfx-card = Ojejoko ikuatia’atã ha'ãngávape g̃uarã oguereko rupi apañuãi ñangarekoha omoĩporã’ỹva.
+blocked-gfx-card = Ojejoko ikuatia’atã ha’ãngávape g̃uarã oguereko rupi apañuãi ñangarekoha omoĩporã’ỹva.
 blocked-os-version = Ojejokóva peteĩchaguápe g̃uarã nde apopyvusu oku’éva pegua.
 blocked-mismatched-version = Ojoko ha’ãnga ñangarekoha peteĩchagua oĩporã’ỹva jehaipy ha DLL pa’ũme.
 # Variables
@@ -233,7 +233,7 @@ try-newer-driver = Ojejokóva peteĩchagua ta’ãngápe ñangarekohárape. Eñe
 clear-type-parameters = ClearType ra’ãhaite
 compositing = Hetepyete
 hardware-h264 = Hardware H264 Papapy'o
-main-thread-no-omtc = inimbo ha'etéva, OMTC ỹre
+main-thread-no-omtc = inimbo ha’etéva, OMTC ỹre
 yes = Héẽ
 no = Nahániri
 unknown = Ojekuaa'ỹva
@@ -247,7 +247,7 @@ found = Ojuhu
 missing = Kañymbyre
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
-gpu-description = Ñemoha'ãnga
+gpu-description = Ñemoha’ãnga
 gpu-vendor-id = ID japohare mba’éva
 gpu-device-id = ID mba’e’oka rehegua
 gpu-subsys-id = Subsys ID
@@ -289,7 +289,7 @@ content-uses-tiling = Eipuru mosáiko (tetepy)
 off-main-thread-paint-enabled = Opyta okápe inimbo tuichavéva mbosa’yha ijurujáva
 off-main-thread-paint-worker-count = Ñemoha’anga resa’ỹijo téma tuichavéva opyta okápe
 target-frame-rate = Ta’anga py’ỹi hupytyrã
-min-lib-versions = Peteĩchagua michĩmíva ha'arõpy
+min-lib-versions = Peteĩchagua michĩmíva ha’arõpy
 loaded-lib-versions = Peteĩchagua ojepurúva
 has-seccomp-bpf = Seccomp-BPF (Ñehenói mboguaha rehegua)
 has-seccomp-tsync = Seccomp mba’eapo’i ñembojuehe
