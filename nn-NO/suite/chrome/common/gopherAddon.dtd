@@ -4,4 +4,5 @@
 
 <!ENTITY loadError.label        "Sidelastingsfeil">
 <!ENTITY gopherAddon.title      "Gopher-protokoll">
+<!ENTITY gopherAddon.shortDesc  "gopher er ikkje registrert som ein protokoll.">
 <!ENTITY goToAddOn.label        "Gå til utvidingsnettstaden">
