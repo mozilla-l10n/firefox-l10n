@@ -25,6 +25,14 @@ experimental-features-avif-description = Suporte experimental para AVIF: formato
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = API da Web: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por predefinição
