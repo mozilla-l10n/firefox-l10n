@@ -57,6 +57,9 @@ onboarding-multistage-import-header = Jelszavak, könyvjelzők és <span data-l1
 onboarding-multistage-import-subtitle = Egy másik böngészőből érkezett? Könnyen áthozhat mindent a { -brand-short-name }ba.
 onboarding-multistage-import-primary-button-label = Importálás indítása
 onboarding-multistage-import-secondary-button-label = Most nem
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Az itt felsorolt webhelyek találhatók ezen az eszközön. A { -brand-short-name } nem menti vagy szinkronizálja az adatokat egy másik böngészőből, kivéve, ha úgy dönt, hogy importálja azokat.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -83,6 +86,30 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Az operációs rendszer megjelenésének öröklése a
+        gomboknál, menüknél és ablakoknál.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Világos megjelenés használata a gombokhoz,
+        menükhöz és ablakokhoz.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Sötét megjelenés használata a gombokhoz,
+        menükhöz és ablakokhoz.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Színes megjelenés használata a gombokhoz,
+        menükhöz és ablakokhoz.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
