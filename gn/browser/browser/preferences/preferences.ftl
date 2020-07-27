@@ -236,8 +236,8 @@ translate-web-pages =
 # used to provide machine translations for web pages.
 translate-attribution = Ñe’ẽasaha <img data-l10n-name="logo"/>
 translate-exceptions =
-    .label = Oĩ'ỹva…
-    .accesskey = ĩ
+    .label = Oĩ’ỹva…
+    .accesskey = x
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -784,7 +784,7 @@ forms-ask-to-save-logins =
     .label = Eporandu eñongatu hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñandutípe
     .accesskey = E
 forms-exceptions =
-    .label = Oĩ'ỹva
+    .label = Oĩ’ỹva…
     .accesskey = x
 forms-generate-passwords =
     .label = Ere ha emoheñói ñe’ẽñemi hekorosãva
@@ -1089,13 +1089,13 @@ permissions-block-popups =
     .label = Ovetã apysẽ joko
     .accesskey = B
 permissions-block-popups-exceptions =
-    .label = Oĩ'ỹva…
+    .label = Oĩ’ỹva…
     .accesskey = E
 permissions-addon-install-warning =
     .label = Ehechakuaa oĩ jave tenda omohendaséva moĩmbaha.
     .accesskey = E
 permissions-addon-exceptions =
-    .label = Oĩ'ỹva…
+    .label = Oĩ’ỹva…
     .accesskey = E
 permissions-a11y-privacy-checkbox =
     .label = Ejoko tembipuru jeikekuaa rehegua ne kundahárape

@@ -863,7 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Kuaave">
 
-<!ENTITY identity.removeCertException.label "Emongue oĩ'ỹva">
+<!ENTITY identity.removeCertException.label "Emongue oĩ’ỹva">
 <!ENTITY identity.removeCertException.accesskey "E">
 
 <!ENTITY identity.moreInfoLinkText2 "Maranduve">

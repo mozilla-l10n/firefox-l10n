@@ -89,7 +89,7 @@ permissions-exceptions-popup-desc = Ikatu rehechauka mba’e ñanduti renda guiv
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = Oĩ'ỹva - Emoñepyrũ tembiapo ñongatupyre
+    .title = Oĩ’ỹva - Emoñepyrũ tembiapo ñongatupyre
     .style = { permissions-window.style }
 permissions-exceptions-saved-logins-desc = Tembiapo ñepyrũ ko’ã ñanduti renda noñeñongatumo’ãi
 

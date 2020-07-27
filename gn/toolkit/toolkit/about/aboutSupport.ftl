@@ -96,7 +96,7 @@ graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Jehaipy ñemboaje
 graphics-crash-guards-title = Hesegua ojokóva Apopyvusu je’a Ñangarekoha
-graphics-workarounds-title = Ñemyatyrõ sapy'agua
+graphics-workarounds-title = Ñemyatyrõ sapy’agua
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Ovetã raperekoite
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
@@ -136,7 +136,7 @@ restart-button-label = Ñepyrũjey
 audio-backend = Mba’epu ñangarekoha huguapeguáva
 max-audio-channels = Max mbohapeha
 channel-layout = Mbohapeha ñemoĩ ojererohorýva
-sample-rate = Techaukarã py'ỹigua ojererohorýva
+sample-rate = Techaukarã py’ỹigua ojererohorýva
 roundtrip-latency = Latencia ou ha ohóva (ojeréva ypykuete)
 media-title = Marandu myasãiha
 media-output-devices-title = Mba’e’oka osẽha
@@ -232,7 +232,7 @@ try-newer-driver = Ojejokóva peteĩchagua ta’ãngápe ñangarekohárape. Eñe
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType ra’ãhaite
 compositing = Hetepyete
-hardware-h264 = Hardware H264 Papapy'o
+hardware-h264 = Hardware H264 Papapy’o
 main-thread-no-omtc = inimbo ha’etéva, OMTC ỹre
 yes = Héẽ
 no = Nahániri
@@ -302,7 +302,7 @@ effective-content-sandbox-level = Sandbox Level rembiapo retepy
 sandbox-proc-type-content = tetepy
 sandbox-proc-type-file = Marandurenda rechapyrã
 sandbox-proc-type-media-plugin = plugin maranduguáva
-sandbox-proc-type-data-decoder = Mba’ekuaarã papapy'o
+sandbox-proc-type-data-decoder = Mba’ekuaarã papapy’o
 startup-cache-title = Kache ñepyrũgua
 startup-cache-disk-cache-path = Disco Kache Rape
 startup-cache-ignore-disk-cache = Ehejarei Disco Kache
