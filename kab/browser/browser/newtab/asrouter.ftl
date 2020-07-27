@@ -159,7 +159,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Rmed { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Ur sṛuḥuy ara awalen-ik uffiren
-cfr-doorhanger-sync-logins-body = Sekles daɣen mtawi awalen-ik uffiren ɣef yibenkan-ik meṛṛa s wudem aɣelsan.
+cfr-doorhanger-sync-logins-body = Sekles rnu mtawi awalen-ik·im uffiren ɣef yibenkan-ik·im i meṛṛa s wudem aɣelsan.
 cfr-doorhanger-sync-logins-ok-button = Rmed { -sync-brand-short-name }
     .accesskey = R
 

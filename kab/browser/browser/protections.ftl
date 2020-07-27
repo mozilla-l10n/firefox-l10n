@@ -22,19 +22,6 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } ad ikemmel ad isewḥel ineḍfaṛen deg yisfuyla n tunigin tusligt, maca ur iḥerrez ara lǧeṛṛa n wayen iweḥlen.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Ineḍfaṛen { -brand-short-name } ttwaḥebsen ddurt-agi
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Aswir n ummesten yettwaṣeggem ɣer <b>Tizeɣt</b>.
-    .title = Ldi iɣewwaṛen n tudert tabaḍnit
-protection-report-header-details-strict = Aswir n ummesten yettwaṣeggem ɣer <b>Yeǧhed</b>.
-    .title = Ldi iɣewwaṛen n tudert tabaḍnit
-protection-report-header-details-custom = Aswir n ummesten yettwaṣeggem ɣer <b>Udmawan</b>.
-    .title = Ldi iɣewwaṛen n tudert tabaḍnit
-protection-report-page-title = Taɣellist n tbaḍnit
-protection-report-content-title = Ammesten n tbaḍnit
-etp-card-title = Ammesten mgal aḍfaṛ yettwaseǧhed
-etp-card-content = Ineḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
 protection-report-webpage-title = Ammesten n tfelwit n usenqed
 protection-report-page-content-title = Ammesten n tfelwit n usenqed
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -69,12 +56,9 @@ mobile-app-title = Sewḥel ineḍfaren deg ugar n yibenkan
 mobile-app-card-content = Seqdec iminig aziraz s ummesten usliɣ mgal aḍfaṛ n udellel.
 mobile-app-links = Iminig { -brand-product-name }  i <a data-l10n-name="android-mobile-inline-link">Android</a> akked <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Ur sṛuḥuy ara awalen-ik uffiren
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Asefrek n wawal uffir
 lockwise-header-content = { -lockwise-brand-name } iseklas awalen uffiren-ik deg iminig-ik s wudem aɣelsan.
-lockwise-header-content-logged-in = Sekles daɣen mtawi awalen-ik uffiren ɣef yibenkan-ik meṛṛa s wudem aɣelsan.
-protection-report-view-logins-button = Sken-d tuqniwin
-    .title = Ddu ɣer inekcumen yettwakelse
+lockwise-header-content-logged-in = Sekles rnu mtawi awalen-ik·im uffiren ɣef yibenkan-ik·im i meṛṛa s wudem aɣelsan.
 protection-report-save-passwords-button = Sekles awalen uffiren
     .title = Sekles awalen uffiren deg { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Sefrek awalen uffiren
@@ -82,14 +66,6 @@ protection-report-manage-passwords-button = Sefrek awalen uffiren
 lockwise-mobile-app-title = Awi awalen uffiren anda teddiḍ
 lockwise-no-logins-card-content = Seqdec awalen uffiren yettwaskelsen deg  { -brand-short-name } deg yal ibenk.
 lockwise-app-links = { -lockwise-brand-name } i <a data-l10n-name="lockwise-android-inline-link">Android</a> akked <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
-    { $count ->
-        [one] Awal uffir yettwakles s wudem aɣelsan <a data-l10n-name="lockwise-how-it-works"> Amek iteddu</a>
-       *[other] Awalen uffiren ttwakelsen s wudem aɣelsan <a data-l10n-name="lockwise-how-it-works"> Amek iteddu</a>
-    }
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -109,19 +85,10 @@ lockwise-scanned-text-no-breached-logins =
 lockwise-how-it-works-link = Amek itteddu
 turn-on-sync = Rmed { -sync-brand-short-name }...
     .title = Ldi ismenyifen n umtawi
-manage-connected-devices = Sefrek ibenkan…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Yeqqen ɣer { $count } n yibenk
-       *[other] Yeqqen ɣer { $count } n yibenkan
-    }
 monitor-title = Sers allen-ik ɣef trewla n yisefka.
 monitor-link = Amek iteddu
 monitor-header-content-no-account = Ddu ɣer { -monitor-brand-name } akken ad wali ḍ ma tella trewla n yisefka i k-iḥuzan daɣen akken ad tremseḍ ilɣa ticki llant trewliwi timaynutin.
 monitor-header-content-signed-in = { -monitor-brand-name } ad k-id-yelɣu ma yella talɣut-ik tban-d deg trewla n yisefka yettwassnen.
-monitor-sign-up = jerred ɣer yilɣa n trewla n yisefa
 monitor-sign-up-link = jerred ɣer yilɣa n trewla n yisefa
     .title = jerred ɣer yilɣa n trewla n yisefa deg { -monitor-brand-name }
 auto-scan = Yettwasenqed ass-a akken iwata
@@ -163,15 +130,6 @@ info-exposed-passwords-found =
         [one] Awal uffir  i ḥuzant trewliwin n yisefka
        *[other] Awalen uffiren i ḥuzant trewliwin n yisefka
     }
-full-report-link = Wali aneqqis ummid deg <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Awal-a uffir yettwaskelsen izmer ad tḥaz-it trewla n yisefka. Beddel awal-a uffir i tɣellist-ik srid.<a data-l10n-name="lockwise-link">Wali awalen uffiren yettwaskelsen</a>
-       *[other] Awalen uffiren yettwaskelsen zemren ad ten-tḥaz trewla n yisefka. Beddel awalen-a uffiren i tɣellist-ik srid.<a data-l10n-name="lockwise-link">Wali awalen uffiren yettwaskelsen</a>
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -181,7 +139,7 @@ info-exposed-passwords-resolved =
        *[other] Awalen uffiren i d-ibanen di trewliwin ur nefri ara.
     }
 monitor-no-breaches-title = Isallen igerrzen!
-monitor-no-breaches-description = Ur tesεiḍ ara tirewliwin ur nettwassen ara. Ma yellaibeddel waya, ad ak-nselɣu.
+monitor-no-breaches-description = Ur tesεiḍ ara tirewliwin ur nettwassen ara. Ma yella ibeddel waya, ad ak-id-nselɣu.
 monitor-view-report-link = Wali aneqqis
     .title = Fru tirewliwin deg { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Fru tirewliwin-inek
