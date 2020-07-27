@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Mboheta">
 <!ENTITY playButton.pauseLabel "Mombyta">
 <!ENTITY muteButton.muteLabel "Mokirirĩ">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Mba’era’ãnga papapy’óva">
 <!ENTITY stats.framesPresented "Mba’era’ãnga jehechaukapyre">
 <!ENTITY stats.framesPainted "Mba’era’ãnga jehechaukapyréva">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Ehecha Picture-in-Picture-pe">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Emboheta ta’ãngamýi tenondete ejapokuévo ambue mba’e &brandShortName;-pe;">
 
 <!ENTITY error.aborted "Ojejoko ta’ãngamýi ñemyenyhẽ.">
 <!ENTITY error.network "Ta’ãndamýi ñemboheta ojejokóma ñanduti jejavy rupi.">

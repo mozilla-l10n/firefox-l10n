@@ -25,6 +25,10 @@ reset-password-window =
 pippki-failed-pw-change = Ndaikatúi emoambue ne’ẽñemi.
 pippki-incorrect-pw = Neremoingeporãi ne’ẽñemi ha’etéva ag̃aguáva. Eha’ãjey upe rire.
 pippki-pw-change-ok = Emoambuéma ñe’ẽñemi hekopete.
+pippki-pw-empty-warning = Ne ñe’ẽñemi mbyatypyre ha ñe’ẽkañy ñemigua noñemo’ãi.
+pippki-pw-erased-ok = Emboguéma ne ñe’ẽñemi. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = ¡Ema’ẽke! Emboykéma peteĩ ñe’ẽñemi jepuru. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Ko’ag̃aite oĩhína FIPS rekópe. FIPS oikotevẽ ñe’ẽñemi inandi’ỹva.
 
 ## Reset Primary Password dialog
 
@@ -34,6 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Mbojevyjey
 reset-password-text = Emoañete jeýramo neñe’ẽñemi ha’etéva, umi ñanduti neñe’ẽñemi ha ñanduti veve embyatypyre, umi myanyhẽha mba’ekuaarã, mboajepyréva avamba’etéva ha ñe’ẽñemi ñemiguáva hesaraipáta. ¿Añetehápe eguerusejey neñe’ẽñemi ha’etéva?
+reset-primary-password-text = Eguerujeýramo ne ñe’ẽñemi ha’etéva, opaite ñanduti ñe’ẽñemi ha ñandutiveve, mboajepyre nemba’éva, ha pe’aha ñemigua mbyatypyre ojehejareíta. ¿Añetehápe reguerusejey ne Ñe’ẽñemi Ha’etéva?
 pippki-reset-password-confirmation-title = Eguerujey Ñe’ẽñemi Ñepyrũgua
 pippki-reset-password-confirmation-message = Ojeguerujeýma ne ñe’ẽñemi ha’etéva.
 
