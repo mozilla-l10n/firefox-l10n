@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Untersuchen
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Starten
     .title = Service-Worker können nur untersucht werden, wenn nicht mehr als ein 1 Prozess für Webinhalte existiert (kein multi-e10s).
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Starten
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Aktualisiert <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
