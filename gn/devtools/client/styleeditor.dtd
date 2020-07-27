@@ -22,7 +22,7 @@
 <!ENTITY visibilityToggle.tooltip   "Kuatia jehecha moambue">
 
 <!ENTITY saveButton.label           "Ñongatu">
-<!ENTITY saveButton.tooltip         "Eñongatu ko kuatia mohendaha'ípe">
+<!ENTITY saveButton.tooltip         "Eñongatu ko kuatia mohendaha’ípe">
 <!ENTITY saveButton.accesskey       "S">
 
 <!ENTITY optionsButton.tooltip      "Style Editor jeporavorã">

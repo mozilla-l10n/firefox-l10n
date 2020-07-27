@@ -36,7 +36,7 @@ features-network-title = Ñanduti
 features-network-desc = Ema’ẽke umi ñanduti mba’ejerure rehe ikatúva ojoko térã omombegue ko tenda. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Ñembyatyha
 features-storage-desc = Embojuaju, emoambue térã embogue kache, kookie, marandu mba’ekuaarã renda ha tembiapo rehegua. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-responsive-title = Moha'ãnga iñambuekuaáva reko
+features-responsive-title = Moha’ãnga iñambuekuaáva reko
 features-responsive-desc = Eipuru umi tenda mba’e’oka pegua oha’ãva kundahápe. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Ñembosako’i jehecháva
 features-visual-editing-desc = Eha’ã umi mbovy’aha, mboysýi ha myenyhẽha. <a data-l10n-name="learn-more">{ features-learn-more }</a>
