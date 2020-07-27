@@ -10,6 +10,7 @@ experimental-features-css-masonry =
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
+experimental-features-css-masonry-description = Activează un suport experimental pentru funcționalitatea CSS Masonry Layout. Vezi <a data-l10n-name="explainer">explicația</a> pentru o descriere la nivel înalt a funcționalității. Pentru feedback, lasă-ne un comentariu pe <a data-l10n-name="w3c-issue">acest subiect din GitHub</a> sau în <a data-l10n-name="bug">acest bug</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
@@ -44,6 +45,7 @@ experimental-features-web-api-link-preload =
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Permite aplicarea de stiluri de focalizare pe elemente precum butoane și comenzi de formă, numai când sunt focalizate din tastatură (de ex., la trecerea de la un element la altul cu tasta Tab) și nu când sunt focalizate din mouse sau alt dispozitiv indicator. Vezi <a data-l10n-name="bugzilla">bug 1617600</a> pentru mai multe detalii.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -60,6 +62,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Unelte de dezvoltare: Simularea paletei de culori
 experimental-features-devtools-execution-context-selector =
     .label = Unelte de dezvoltare: Selector pentru contextul de execuție
+experimental-features-devtools-execution-context-selector-description = Această funcționalitate afișează un buton pe linia de comandă a consolei, care îți permite să schimbi contextul în care să fie executată expresia introdusă. Vezi <a data-l10n-name="bugzilla1">bug 1605154</a> și <a data-l10n-name="bugzilla2">bug 1605153</a> pentru mai multe detalii.
 experimental-features-devtools-compatibility-panel =
     .label = Unelte de dezvoltare: Panou de compatibilitate
 experimental-features-devtools-compatibility-panel-description = Un panou lateral pentru inspectorul de pagini care îți afișează informații detaliate despre starea compatibilității aplicației tale cu mai multe browsere. Vezi <a data-l10n-name="bugzilla">bug 1584464</a> pentru mai multe detalii.
@@ -75,6 +78,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home startup cache
+experimental-features-abouthome-startup-cache-description = Un cache pentru documentul inițial about:home care este încărcat implicit la pornire. Scopul cache-ului este să îmbunătățească performanța de pornire.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
