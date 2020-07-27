@@ -60,3 +60,27 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Unelte de dezvoltare: Simularea paletei de culori
 experimental-features-devtools-execution-context-selector =
     .label = Unelte de dezvoltare: Selector pentru contextul de execuție
+experimental-features-devtools-compatibility-panel =
+    .label = Unelte de dezvoltare: Panou de compatibilitate
+experimental-features-devtools-compatibility-panel-description = Un panou lateral pentru inspectorul de pagini care îți afișează informații detaliate despre starea compatibilității aplicației tale cu mai multe browsere. Vezi <a data-l10n-name="bugzilla">bug 1584464</a> pentru mai multe detalii.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookie-uri: SameSite=Lax implicit
+experimental-features-cookie-samesite-lax-by-default2-description = Tratează implicit cookie-urile ca „SameSite=Lax” dacă nu este specificat niciun atribut „SameSite”. Dezvoltatorii trebuie să opteze pentru starea curentă de utilizare nerestricționată prin definirea „SameSite=None”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cooki-uri: SameSite=None necesită atribut securizat
+experimental-features-cookie-samesite-none-requires-secure2-description = Cookie-urile cu atribut „SameSite=None” necesită atributul securizat. Această funcționalitate necesită „Cookies: SameSite=Lax implicit”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home startup cache
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Unelte de dezvoltare: Depanarea scripturilor service worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Activează un suport experimental pentru scripturi service worker în panoul Depanatorului. Această funcționalitate poate încetini Uneltele de dezvoltare și poate crește consumul de memorie.
