@@ -53,6 +53,13 @@ experimental-features-css-focus-visible-description = Permite que os estilos de 
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = API da Web: evento beforeinput
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = O evento global <a data-l10n-name="mdn-beforeinput">beforeinput</a> é acionado em elementos <a data-l10n-name="mdn-input">&lt;input&gt;</a> e <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, ou qualquer outro elemento cujo atributo <a data-l10n-name="mdn-contenteditable">contenteditable</a> esteja ativado, imediatamente antes do valor do elemento ser alterado. O evento permite que as aplicações de Internet substituam o comportamento predefinido do navegador para a interação com o utilizador, por exemplo, as aplicações de Internet podem limitar a introdução de carateres por parte do utilizador apenas para caracteres específicos ou modificar os estilos do texto colado para limitar os mesmos apenas aos estilos autorizados.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por predefinição
