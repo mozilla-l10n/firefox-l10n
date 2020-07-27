@@ -46,11 +46,22 @@ experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Tembipuru mboguatahárape g̃uarã: say aty ñeha’ãha
+experimental-features-devtools-execution-context-selector =
+    .label = Mboguatahára rembipuru: Momba’apo Jeregua Poravoha
+experimental-features-devtools-compatibility-panel =
+    .label = Mboguatahára rembipuru: Ojokupytyva Rupa
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Kookie: SameSite=Lax ijypykuéva
+experimental-features-cookie-samesite-lax-by-default2-description = Ereko kookies “SameSite=Lax” ijypykuéramo neremoha’eñóitaramo pe “SameSite” rekome’ẽ. Umi mboguatahára ohechava’erã pe mba’eichaitépa ojepuru ag̃aite jejoko’ỹre ehechaukaitévo “SameSite=None”.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Kookie: SameSite=None oikotevẽ tekome’ẽ hekorosãva
@@ -64,3 +75,6 @@ experimental-features-abouthome-startup-cache-description = Kache kuatia ñepyr�
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Kookie: Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Mboguatahára rembipuru: Service Worker mopotĩha

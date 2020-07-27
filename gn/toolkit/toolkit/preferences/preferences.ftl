@@ -11,6 +11,7 @@ pw-empty-warning = Neñe’ẽñemi, myanyhẽha mba’ekuaarã ha ñanduti veve
 pw-erased-ok = Emboguetéma ne ñe’ẽñemi ha’etéva. { pw-empty-warning }
 pw-not-wanted = ¡Ema’ẽmi! Eréma ndereipurumo’ãiha pe ñe'ẽñemi ha'etéva. { pw-empty-warning }
 pw-change2empty-in-fips-mode = Ko’ag̃aite oĩhína FIPS rekópe. FIPS oikotevẽ peteĩ ñe’ẽñemi ha’etéva inandi’ỹva.
+failed-pp-change = Ndaikatúi emoambue Ñe’ẽñemi Ñepyrũháva.
 pw-change-success-title = Iñambue hekoitépe ñe’ẽñemi
 pw-change-failed-title = Ñe’ẽmi moambue jejavy
 pw-remove-button =
