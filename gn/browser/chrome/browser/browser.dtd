@@ -730,9 +730,9 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Papapy'atygua jehechauka">
+<!ENTITY videoShowStats.label        "Papapy’atygua jehechauka">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Papapy'atygua moñemi">
+<!ENTITY videoHideStats.label        "Papapy’atygua moñemi">
 <!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
