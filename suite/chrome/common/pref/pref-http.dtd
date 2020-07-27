@@ -20,3 +20,9 @@
 <!ENTITY prefLightningShow.label             "Annonser Lightning-installasjon">
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "ÅTVARING: deaktivering av desse innstillingane kan føre til at nettstadar eller tenester ikkje fungerer som dei skal.">
+<!ENTITY prefFirefoxStrict.label             "Identifiser som Firefox">
+<!ENTITY prefFirefoxStrict.accesskey         "">
+<!ENTITY prefFirefoxNone.label               "Identifiser som SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "M">
+<!ENTITY prefFirefoxCompat2.accesskey        "F">
+<!ENTITY prefCompatWarning2.desc             "ÅTVARING: endring av denne innstillinga kan føre til at nettstadar eller tenester ikkje fungerer som dei skal.">
