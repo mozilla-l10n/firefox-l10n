@@ -51,6 +51,15 @@ onboarding-multistage-welcome-subtitle = Ri aninäq, jikïl chuqa' ichinan okik'
 onboarding-multistage-welcome-primary-button-label = Tichap Runuk'ulem
 onboarding-multistage-welcome-secondary-button-label = Titikirisäx molojri'ïl
 onboarding-multistage-welcome-secondary-button-text = ¿La k'o jun rub'i' ataqoya'l?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Ke'ajik'a' ewan taq atzij, <br/>taq yaketal, chuqa' <span data-l10n-name="zap">ch'aqa' chik</span>
+onboarding-multistage-import-subtitle = ¿La atpetenäq pa jun chik okik'amaya'l? Man k'ayew ta nak'waj ronojel pa { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Titikirisäx Jik'oj
+onboarding-multistage-import-secondary-button-label = Wakami mani
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Xe'ilitäj re taq ruxaq pa re okisab'äl re'. Ri { -brand-short-name } man yeruyäk ta ni xa ta yeruxïm taq kitzij juley taq okik'amaya'l, xa xe we nacha' chi ye'ajïk'.
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
