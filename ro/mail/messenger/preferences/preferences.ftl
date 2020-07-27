@@ -553,6 +553,7 @@ primary-password-button =
     .label = Schimbă parola primară...
     .accesskey = C
 forms-primary-pw-fips-title = Acum ești în modul FIPS. FIPS nu permite inexistența unei parole primare.
+forms-master-pw-fips-desc = Schimbarea parolei a eșuat
 junk-description = Definește setările implicite pentru mesaje nesolicitate. Setările specifice contului pentru mesaje nesolicitate pot fi configurate în setările contului.
 junk-label =
     .label = Când marchez mesaje ca nesolicitate:
