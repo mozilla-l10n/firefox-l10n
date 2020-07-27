@@ -60,7 +60,7 @@
 <!ENTITY addon.updateNow.tooltip              "Emohenda ñembohekopyahu ko moimbaha rehegua">
 <!ENTITY addon.includeUpdate.label            "Emoinge ñembohekopyahúpe">
 <!ENTITY addon.updateAvailable.label          "Oĩ peteĩ ñembohekopyahu eipurukuaáva">
-<!ENTITY addon.checkingForUpdates.label       "Ñemañajey  mab'e ipyahúvare">
+<!ENTITY addon.checkingForUpdates.label       "Ñemañajey  mba’e ipyahúvare…">
 <!ENTITY addon.releaseNotes.label             "Jehaipy rehegua:">
 <!ENTITY addon.loadingReleaseNotes.label      "Oñemyanyhína…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Rombyasy, oiko jejavy henyhẽnguévo jehaipyre rehegua.">

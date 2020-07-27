@@ -59,7 +59,7 @@
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
-#define crashes Opaichagua mab'evai
+#define crashes Opaichagua mba’evai
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
