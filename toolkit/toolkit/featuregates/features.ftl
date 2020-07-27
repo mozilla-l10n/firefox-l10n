@@ -82,7 +82,7 @@ experimental-features-cookie-samesite-lax-by-default2-description = 쿠키에 �
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=None은 secure 속성 필요
-experimental-features-cookie-samesite-none-requires-secure2-description = “SameSite=None” 속성을 가진 쿠키에는 secure 속성이 필요합니다. 이 기능에는 “Cookies: SameSite=Lax by default”가 기본값”이 필요합니다.
+experimental-features-cookie-samesite-none-requires-secure2-description = “SameSite=None” 속성을 가진 쿠키에는 secure 속성이 필요합니다. 이 기능에는 “Cookies: SameSite=Lax가 기본값”이 필요합니다.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
