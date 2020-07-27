@@ -30,10 +30,20 @@ experimental-features-web-gpu-description2 = Esta nova API fornece suporte de ba
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Com esta funcionalidade ativada, o { -brand-short-name } suporta o formato de ficheiro de imagem AV1 (AVIF). Este é um formato de ficheiro de imagem estática que aproveita os recursos dos algoritmos de compactação de vídeo AV1 para reduzir o tamanho da imagem. Consulte o <a data-l10n-name="bugzilla">bug 1443863</a> para obter mais detalhes.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = API da Web: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = A nossa implementação do atributo global <a data-l10n-name="mdn-inputmode">inputmode</a> foi atualizada de acordo com <a data-l10n-name="whatwg">a especificação WHATWG</a>, mas ainda precisamos de fazer outras alterações, como disponibilizar o mesmo em conteúdo editável. Consulte o <a data-l10n-name="bugzilla">bug 1205133</a> para obter mais detalhes.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = O atributo <a data-l10n-name="rel">rel</a> com o valor <code>"preload"</code> num elemento <a data-l10n-name="link">&lt;link&gt;</a> destina-se a ajudar a fornecer melhorias de desempenho, permitindo que descarregue recursos no início do ciclo de vida da página, garantindo que est estejam disponíveis mais cedo e tenham menos probabilidade de bloquear a renderização da página. Leia <a data-l10n-name="readmore"> “Pré-carregando conteúdo com <code> rel =" preload "</code>” </a> ou consulte <a data-l10n-name="bugzilla"> bug 1583604 </a> para mais detalhes.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por predefinição
