@@ -85,6 +85,12 @@ onboarding-multistage-theme-tooltip-dark =
         Seqdec arwes aberkan i tqeffalin,
         i wumuɣen d yisfuyla.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Seqdec arwes s yiniten i tqeffalin,
+        i wumuɣen d yisfuyla.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
