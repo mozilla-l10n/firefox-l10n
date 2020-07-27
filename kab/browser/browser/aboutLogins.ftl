@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = Akter n yinekcam d 
 ## Master Password notification
 
 master-password-notification-message = Ma ulac aɣilif, sekcem awal uffir agejdan akken ad twaliḍ inekcam d wawalen uffiren yettwaskelsen
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Ma ulac aɣilif, sekcem awal uffir agejdan akken ad twaliḍ inekcam d wawalen uffiren yettwaskelsen
 master-password-reload-button =
     .label = Kcem
     .accesskey = K
