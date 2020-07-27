@@ -92,6 +92,24 @@ onboarding-multistage-theme-tooltip-automatic =
         Heredita le apparentia de tu systema
         operative pro buttones, menus e fenestras.
     .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Usa un apparentia clar pro buttones,
+        menus e fenestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Usa un apparentia obscur pro 
+        buttones, menus e fenestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Usa un apparentia colorate pro 
+        buttones, menus e fenestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
