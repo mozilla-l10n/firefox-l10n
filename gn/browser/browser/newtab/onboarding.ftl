@@ -92,6 +92,24 @@ onboarding-multistage-theme-tooltip-automatic =
         Emog̃uahẽ tembiapoite ohehechaháicha
         apopyvusu votõ, poravorã ha ovetãme g̃uarã.
     .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Eipuru ojehechaporãva votõ,
+        poravorã ha ovetã.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Eipuru iñypytũva votõ,
+        poravorã ha ovetã.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Eipuru isa’yetáva votõ,
+        poravorã ha ovetã.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
