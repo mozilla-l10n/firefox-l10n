@@ -31,5 +31,5 @@ push-end-point-result = <strong>Emyaña kyta paha:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Ñembohekopyahu
 unregister-button = Haipy hejarei
-unregister-error = Ojavy emboguekuévo pe haipy ko mab’apohára mba’epytyvõrãva.
+unregister-error = Ojavy emboguekuévo pe haipy ko mba’apohára mba’epytyvõrãva.
 waiting = Oha’arõhína…

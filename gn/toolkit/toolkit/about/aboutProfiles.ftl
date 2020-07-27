@@ -53,7 +53,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = Marandurenda Mboguete
 profiles-dont-delete-files = Ani Remboguete Marandurenda
 profiles-delete-profile-failed-title = Javy
-profiles-delete-profile-failed-message = Oiko jejavy emboguesetévo ko mab'ete.
+profiles-delete-profile-failed-message = Oiko jejavy emboguesetévo ko mba’ete.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder-pe Jehechauka
