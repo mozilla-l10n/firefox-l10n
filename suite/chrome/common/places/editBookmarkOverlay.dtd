@@ -19,6 +19,7 @@
 <!ENTITY editBookmarkOverlay.description.label               "Skildring:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Nøkkelord:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "k">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Vis alle etikettar">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Last dette bokmerket i sidestolpen">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "m">
