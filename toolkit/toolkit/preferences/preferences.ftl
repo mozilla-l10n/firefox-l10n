@@ -4,21 +4,17 @@
 
 password-not-set =
     .value = (nesetată)
-
 failed-pw-change = Nu se poate schimba parola generală.
 incorrect-pw = Nu ai introdus corect parola generală actuală. Te rugăm să încerci din nou.
 pw-change-ok = Parola generală a fost schimbată cu succes.
-
 pw-empty-warning = Parolele stocate pentru site-uri web și conturi de e-mail, datele formularelor, precum și cheile private vor rămâne neprotejate.
 pw-erased-ok = Ți-ai șters parola generală.  { pw-empty-warning }
 pw-not-wanted = Atenție! Ai decis să nu folosești o parolă generală. { pw-empty-warning }
-
-pw-change2empty-in-fips-mode = Acum te afli în modul FIPS. Pentru FIPS este nevoie de o parolă generală nevidă.
+pw-change2empty-in-fips-mode = Acum te afli în modul FIPS. FIPS nu permite inexistența unei parole generale.
 pw-change-success-title = Schimbarea parolei a reușit
 pw-change-failed-title = Schimbarea parolei a eșuat
 pw-remove-button =
     .label = Elimină
-
 set-password =
     .title = Schimbă parola generală
 set-password-old-password = Parola actuală:
@@ -28,7 +24,6 @@ set-password-meter = Indicatorul de calitate a parolei
 set-password-meter-loading = Încărcare
 master-password-description = O parolă generală este folosită să protejeze informațiile sensibile precum parolele de la site-uri.  Dacă creezi o parolă generală, ți se va cere să o introduci o dată per sesiune atunci când { -brand-short-name } preia informațiile salvate protejate de parolă.
 master-password-warning = Te rugăm să te asiguri că reții parola generală pe care ai setat-o.  Dacă uiți parola generală, nu vei mai avea acces la nicio informație din cele protejate de aceasta.
-
 remove-password =
     .title = Elimină parolă generală
 remove-info =
