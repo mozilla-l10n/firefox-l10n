@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Redare">
 <!ENTITY playButton.pauseLabel "Pauză">
 <!ENTITY muteButton.muteLabel "Dezactivează sunetul">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Cadre decodate">
 <!ENTITY stats.framesPresented "Cadre prezentate">
 <!ENTITY stats.framesPainted "Cadre desenate">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Vizualizare imagine-în-imagine">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Redai videoclipuri în prim plan în timp ce faci altceva în &brandShortName;">
 
 <!ENTITY error.aborted "Încărcarea videoclipului a fost oprită.">
 <!ENTITY error.network "Redarea videoclipului a fost abandonată datorită unei erori de rețea.">
