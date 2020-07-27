@@ -51,7 +51,7 @@
 <!ENTITY netTimeout.title "Opáma aravo ñeha’ãrõ">
 <!ENTITY netTimeout.longDesc "<p>Pe tenda ejeruréva nombohovái pe jerure jeike rehegua ha pe kundahára noha’ãrõvéima ñembohovái.</p><ul><li>Ikatu pe mohendahavusu ojepurueterei térã peteĩ ñekytĩ ndahi’aréitava?  Eha’ã jey ag̃amieve.</li><li>Ndaikatúi eikundaha ambue tenda rupi? Ehechajey nemohendaha ñandutípe.</li><li>Nemohendaha omo’ã chupe peteĩ proxy térã peteĩ firewall rupi?  Peteĩ ñemboheko oiko’ỹva ikatu omboykese nekundaha.</li><li>Oĩ gueteri apañuãi? Eporandu neñanduti ñangarekohára térã ne ñanduti me’ẽhárape nepytyvõ hag̃ua.</li></ul>">
 
-<!ENTITY unknownProtocolFound.title "Taperekoite ojekuaa'ỹva">
+<!ENTITY unknownProtocolFound.title "Taperekoite ojekuaa’ỹva">
 <!ENTITY unknownProtocolFound.longDesc "<p>Pe kundaharape omoha’eño peteĩ mba’ete (techapyrã <q>wxyz://</q>) kundaha nomoneĩri, péva rupi pe kundaha ndaikatúi oikekatu tendápe.</p><ul><li> Ndépa eikese jeikeha hekoetáva térã ambue mba’epytyvõrã ndaha’éiva moñe’ẽrã. Eporandu pe tenda jerurete mbohetapýva.</li><li>Heta mba’ete ikatu ojerure software ambue mba’éva térã mboguerã’i pe kundaha ohechakuaa mboyve.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Pe mohendahavusu proxy ombotove jeike">

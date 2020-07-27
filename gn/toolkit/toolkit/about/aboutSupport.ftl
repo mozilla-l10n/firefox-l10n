@@ -236,7 +236,7 @@ hardware-h264 = Hardware H264 Papapy’o
 main-thread-no-omtc = inimbo ha’etéva, OMTC ỹre
 yes = Héẽ
 no = Nahániri
-unknown = Ojekuaa'ỹva
+unknown = Ojekuaa’ỹva
 virtual-monitor-disp = Mba’erechaha ñandutiguáva
 
 ## The following strings indicate if an API key has been found.
@@ -323,7 +323,7 @@ multi-process-status-4 = Oguémava tembirpuru jeikekuaahágui
 multi-process-status-6 = Oñemomba’apo’ỹva oreko rupi jehai ndojehaiva’erãi
 multi-process-status-7 = Oñemomba’apo’ỹ moĩmbaha rupive
 multi-process-status-8 = Oñemongepyre mbaretépe
-multi-process-status-unknown = Jeiko ojekuaa'ỹva
+multi-process-status-unknown = Jeiko ojekuaa’ỹva
 async-pan-zoom = Ojuehe’ỹva Pan/Zoom
 apz-none = Avave
 wheel-enabled = omoneĩ jereha jeike
