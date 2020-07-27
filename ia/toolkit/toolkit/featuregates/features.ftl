@@ -25,10 +25,12 @@ experimental-features-avif-description = Supporto experimental pro AVIF, le form
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Iste nove API offere le supporto a basse nivello pro prestationes de computation e rendition graphic per le <a data-l10n-name="wikipedia">Unitate de Processo Graphic - (GPU)</a> del apparato del usator. Le <a data-l10n-name="spec">specificationes</a> es ancora un labor in curso. Vide <a data-l10n-name="bugzilla">bug 1602129</a> pro altere detalios.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Medios: AVIF
+experimental-features-media-avif-description = Con iste functionalitate activate, { -brand-short-name } supporta le formato de file de imagine AV1 (AVIF). Isto es un altere formato de file imagine que potentia le capacitates del algorithmos de compression video AV1 pro reducer le dimension imagine. Vide <a data-l10n-name="bugzilla">bug 1443863</a> pro altere detalios.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
