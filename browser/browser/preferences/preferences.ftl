@@ -806,6 +806,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = In haadwachtwurd brûke
     .accesskey = h
+forms-primary-pw-learn-more-link = Mear ynfo
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -816,6 +817,10 @@ forms-master-pw-fips-title = Jo binne no yn FIPS-modus. FIPS fereasket dat it ha
 forms-primary-pw-change =
     .label = Haadwachtwurd wizigje…
     .accesskey = H
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = ""
 forms-primary-pw-fips-title = Jo binne no yn FIPS-modus. FIPS fereasket dat it haadwachtwurd net leech is.
 forms-master-pw-fips-desc = Wachtwurdwiziging mislearre.
 
