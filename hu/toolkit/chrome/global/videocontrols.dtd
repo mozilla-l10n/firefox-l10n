@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Lejátszás">
 <!ENTITY playButton.pauseLabel "Szünet">
 <!ENTITY muteButton.muteLabel "Némítás">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Dekódolt képkockák">
 <!ENTITY stats.framesPresented "Prezentált képkockák">
 <!ENTITY stats.framesPainted "Kirajzolt képkockák">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Nézze kép a képben módban">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Játsszon le videókat az előtérben, miközben egyéb dolgokat csinál a &brandShortName;ban">
 
 <!ENTITY error.aborted "A videó betöltése leállt.">
 <!ENTITY error.network "A videólejátszás leállt hálózati hiba miatt.">
