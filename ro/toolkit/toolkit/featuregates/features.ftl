@@ -83,6 +83,7 @@ experimental-features-abouthome-startup-cache-description = Un cache pentru docu
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Tratează cookie-urile din același domeniu, dar cu scheme diferite (de ex.,  http://example.com și https://example.com) drept inter-site și nu intra-site. Îmbunătățește securitatea, dar cu potențial de defecțiuni.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Unelte de dezvoltare: Depanarea scripturilor service worker
