@@ -57,31 +57,32 @@ onboarding-multistage-import-header = Ymportearje jo wachtwurden, blêdwizers en
 onboarding-multistage-import-subtitle = Hawwe jo in oare browser brûkt? It is ienfâldich om alles nei { -brand-short-name } oer te bringen.
 onboarding-multistage-import-primary-button-label = Ymport starte
 onboarding-multistage-import-secondary-button-label = No net
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Kies in <span data-l10n-name="zap">uterlik</span>
-onboarding-multistage-theme-subtitle = Personalisearje { -brand-short-name } mei in tema.
-onboarding-multistage-theme-primary-button-label = Tema bewarje
-onboarding-multistage-theme-secondary-button-label = No net
-onboarding-multistage-theme-label-light = Ljocht
-onboarding-multistage-theme-label-dark = Tsjuster
-onboarding-multistage-theme-label-colorful = Kleurich
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Dizze websites binne op dit apparaat fûn.
-        { -brand-short-name } bewarret of syngronisearret gjin gegevens fan
-        in oare browser, útsein jo derfoar kieze se te
-        ymportearjen.
-    .aria-label = { onboarding-import-sites-info.title }
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Oan de slach: skerm { $current } fan { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Kies in <span data-l10n-name="zap">uterlik</span>
+onboarding-multistage-theme-subtitle = Personalisearje { -brand-short-name } mei in tema.
+onboarding-multistage-theme-primary-button-label = Tema bewarje
+onboarding-multistage-theme-secondary-button-label = No net
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatysk
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Systeemtema brûke
+onboarding-multistage-theme-label-light = Ljocht
+onboarding-multistage-theme-label-dark = Tsjuster
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
