@@ -72,6 +72,8 @@ serviceworker-empty-suggestions-debugger = Ddu ar ujerred n umeẓlu worker saki
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Sweḍ ameẓlu workers seg tiɣula-nniden. <a> Ldi about:debugging</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Ulac inmahalen n umeẓlu yettwafen
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Issin ugar
 # Header for the Manifest page when we have an actual manifest
