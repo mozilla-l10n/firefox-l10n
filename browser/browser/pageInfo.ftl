@@ -113,9 +113,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = 네, 쿠키와 { $value } { $unit }의 사이트 데이터
-security-site-data-only = 네, { $value } { $unit } 사이트 데이터
-security-site-data-cookies-only = 네, 쿠키
+security-site-data-cookies = 예, 쿠키와 { $value } { $unit }의 사이트 데이터
+security-site-data-only = 예, { $value } { $unit } 사이트 데이터
+security-site-data-cookies-only = 예, 쿠키
 security-site-data-no = 아니오
 image-size-unknown = 알 수 없음
 not-set-verified-by = 설정되지 않음
@@ -167,7 +167,7 @@ general-meta-tags =
 security-visits-number =
     { $visits ->
         [0] 아니오
-       *[other] 네, { $visits }회
+       *[other] 예, { $visits }회
     }
 # This string is used to display the size of a media file
 # Variables:
