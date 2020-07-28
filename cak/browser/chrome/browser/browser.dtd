@@ -428,7 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Kek'ut pe ri taq ruwi' e k'o pa re okisaxel re'">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showAll.label "Tik'ut pe ronojel">
+<!ENTITY appMenuRemoteTabs.showAll.label "Tik'ut Ronojel">
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Kek'ut pe ronojel ri taq ruwi' e k'o pa re okisaxel re'">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
@@ -952,7 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.reload2.label "Tok chik pa ri Ruxaq">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
-<!ENTITY pluginNotification.showAll.label "Tik'ut pe ronojel">
+<!ENTITY pluginNotification.showAll.label "Tik'ut Ronojel">
 <!ENTITY pluginNotification.showAll.accesskey "T">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the

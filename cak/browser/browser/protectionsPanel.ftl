@@ -14,7 +14,7 @@ protections-popup-footer-protection-label-strict = Nimaläj
 protections-popup-footer-protection-label-custom = Ichinan
     .label = Ichinan
 protections-popup-footer-protection-label-standard = Pa rub'eyal
-    .label = Pa rub\'eyal
+    .label = Pa rub'eyal
 
 ##
 

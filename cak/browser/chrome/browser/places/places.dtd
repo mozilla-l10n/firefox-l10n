@@ -58,7 +58,7 @@
 <!ENTITY cmd.properties.label      "Taq ichinil">
 <!ENTITY cmd.properties.accesskey  "a">
 
-<!ENTITY cmd.sortby_name.label              "Tinuk' chi b'i'aj">
+<!ENTITY cmd.sortby_name.label              "Tinuk' Chi B'i'aj">
 <!ENTITY cmd.sortby_name.accesskey          "T">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
