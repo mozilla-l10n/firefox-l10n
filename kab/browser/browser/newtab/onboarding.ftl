@@ -48,6 +48,7 @@ onboarding-cards-dismiss =
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Ansuf ɣer <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-subtitle = D iminig arurad, aɣelsan, uslig i teḥrez tkebbanit ur nettnadi ɣef tedrimt.
+onboarding-multistage-welcome-primary-button-label = Bdu asebded
 onboarding-multistage-welcome-secondary-button-label = Kcem
 onboarding-multistage-welcome-secondary-button-text = Ɣur-k·m amiḍan?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -59,6 +60,12 @@ onboarding-multistage-import-secondary-button-label = Mačči tura
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Ismal i d-yettwabedren dagi ttwafen deg yibenk-a.{ -brand-short-name } ur isseklas isefka, ur ten-issestab seg yiming-nniḍen ala ma yella tferneḍ kter-it.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Bdu: agdil { $current } seg { $total }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Fren <span data-l10n-name="zap">udem</span>

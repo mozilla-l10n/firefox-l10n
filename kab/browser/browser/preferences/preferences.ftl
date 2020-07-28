@@ -1187,6 +1187,7 @@ space-alert-under-5gb-message = Amkan n udebṣi iteddu ad yaweḍ ar { -brand-s
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Askar HTTPS-Only
+httpsonly-description = HTTPS yettmuddu-d tuqqna taɣelsant, yettwawgelhen gar { -brand-short-name } d yismal web wuɣur trezzuḍ. Amur meqqren n yismal web ssefraken HTTPS rnu ma yella asker HTTPS yermed, { -brand-short-name } ad ileqqem akk tuqqniwin ɣer HTTPS.
 httpsonly-learn-more = Issin ugar
 httpsonly-radio-enabled =
     .label = Rmed askar HTTPS-Only deg yisfuyla akk
