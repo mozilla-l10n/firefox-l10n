@@ -803,6 +803,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Seqdec awal uffir agejdan
     .accesskey = S
+forms-primary-pw-use =
+    .label = Seqdec awal uffir agejdan
+    .accesskey = U
 forms-primary-pw-learn-more-link = Issin ugar
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -811,6 +814,9 @@ forms-master-pw-change =
     .label = Snifel awal uffir agejdan…
     .accesskey = a
 forms-master-pw-fips-title = Aql-ak deg uskar FIPS . FIPS yesra awal uffir agejdan arilem.
+forms-primary-pw-change =
+    .label = Beddel awal uffir…
+    .accesskey = P
 forms-master-pw-fips-desc = Asnifel n wawal uffir agejdan ur yeddi ara
 
 ## OS Authentication dialog

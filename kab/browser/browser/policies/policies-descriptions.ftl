@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Sewḥel aselkem n tezrawin n { -brand-short-name
 policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n isefka.
 policy-DisableFormHistory = Ur ḥerrez ara azray n unadi d tferkit.
 policy-DisableMasterPasswordCreation = Ma irmed, awal uffir agejdan ur yezmir ara ad yettwarnu.
+policy-DisablePrimaryPasswordCreation = Ma ayagi d tidet, awal uffir agejdan ur yezmir ara ad yettwarnu.
 policy-DisablePasswordReveal = Ur ttaǧǧa ara awalen uffiren ad d-banen deg yinekcam yettwaskelsen.
 policy-DisablePocket = Sens tamahilt n usekles n isebtar web di Pocket.
 policy-DisablePrivateBrowsing = Sens tunigin tusligt.
