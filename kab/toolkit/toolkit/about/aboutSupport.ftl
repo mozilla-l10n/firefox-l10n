@@ -272,6 +272,9 @@ blocklisted-bug = Yettusewḥel ɣef uguren ur yettwassnen ara
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = Abug { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Tabdart tettusewḥel ssebba n wugur yettwassnen: <a data-l10n-name="bug-link">abug { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Yettusewḥel; tangalt n tuccḍa { $failureCode }
 d3d11layers-crash-guard = Amsuddes D3D11
