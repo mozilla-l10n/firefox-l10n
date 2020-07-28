@@ -57,6 +57,9 @@ onboarding-multistage-import-header = Парольдер, бетбелгілер
 onboarding-multistage-import-subtitle = Басқа браузерден келдіңіз бе? { -brand-short-name } ішіне барлығын әкелу оп-оңай.
 onboarding-multistage-import-primary-button-label = Импорттауды бастау
 onboarding-multistage-import-secondary-button-label = Қазір емес
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Бұл сайттар осы құрылғыдан табылды. { -brand-short-name } деректерді басқа браузерден деректерді сіз оларды импорттағанша дейін синхрондамайды.
 onboarding-multistage-theme-primary-button-label = Теманы сақтау
 onboarding-multistage-theme-secondary-button-label = Қазір емес
 # Automatic theme uses operating system color settings
