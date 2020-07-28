@@ -41,10 +41,14 @@ experimental-features-web-api-inputmode-description = Nostre implementation del 
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Le attributo <a data-l10n-name="rel">rel</a> con valor <codice>"preload"</code> sur un elemento <a data-l10n-name="ligamine">&lt;link&gt;</a> servi meliorar le prestationes, discargante ressources in le phase initial del cyclo de vita del pagina. Assi le ressources es disponibile plus rapidemente e es minus probabile le bloco del rendition del pagina. Lege <a data-l10n-name="readmore">“Pre-cargamento del contento con <codice>rel="preload"</code>”</a> o vide <a data-l10n-name="bugzilla">error 1583604</a> pro altere detalios.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: pseudo-classe :focus-visible
+experimental-features-css-focus-visible-description = Consenti applicar stilos foco a elementos como buttones e controlo de modulo, solo quando illos es eligite per le claviero (e.g. passante inter elementos per le clave de tabulation) e non quando illos es eligite per un mus o altere dispositivo pro punctar. Vide <a data-l10n-name="bugzilla">bug 1617600</a> pro altere detalios.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -63,6 +67,7 @@ experimental-features-devtools-execution-context-selector =
     .label = Utensiles de disveloppator: selector del contexto de execution
 experimental-features-devtools-compatibility-panel =
     .label = Utensiles de disveloppator: quadro compatibilitate
+experimental-features-devtools-compatibility-panel-description = Un quadro lateral pro le Inspector de pagina que te monstra informationes detaliate super le stato de compatibilitate inter le navigatores de tu application. Vide <a data-l10n-name="bugzilla">bug 1584464</a> pro altere detalios.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=lax predefinite
@@ -84,3 +89,5 @@ experimental-features-cookie-samesite-schemeful-description = Tracta cookies del
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Utensiles de disveloppator: depuration de obrero de servicio
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Activa supporto experimental pro Obreros de servicio in le quadro del Depurator. Iste functionalitate pote relentar le Utensiles de disveloppator e accrescer le consumption de memoria.
