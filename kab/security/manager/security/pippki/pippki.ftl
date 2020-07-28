@@ -32,6 +32,9 @@ pippki-pw-change2empty-in-fips-mode = Aql-ak·akem akka tura deg uskar FIPS . FI
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Wennez awal uffir agejdan
+    .style = width: 40em
 reset-password-button-label =
     .label = Sfeḍ
 reset-password-text = Ma tsefḍeḍ awal-ik uffir agejdan, akk awallen uffiren n web neɣ n imaylen, ifecka n tferkitin, iselkinen udmawanen, tisura tusligin ad ttwattun. Tebɣiḍ ad tekseḍ awal uffir agejdan?
