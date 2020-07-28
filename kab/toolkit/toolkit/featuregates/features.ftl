@@ -25,6 +25,10 @@ experimental-features-avif-description = Tallalt tarmitant i AVIF: amasal n ufay
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Inagan n tuqqna: SameSite=Lax s wudem amezwer
