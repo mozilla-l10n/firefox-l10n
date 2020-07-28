@@ -43,7 +43,7 @@ experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
-experimental-features-web-api-link-preload-description = Le attributo <a data-l10n-name="rel">rel</a> con valor <codice>"preload"</code> sur un elemento <a data-l10n-name="ligamine">&lt;link&gt;</a> servi meliorar le prestationes, discargante ressources in le phase initial del cyclo de vita del pagina. Assi le ressources es disponibile plus rapidemente e es minus probabile le bloco del rendition del pagina. Lege <a data-l10n-name="readmore">“Pre-cargamento del contento con <codice>rel="preload"</code>”</a> o vide <a data-l10n-name="bugzilla">error 1583604</a> pro altere detalios.
+experimental-features-web-api-link-preload-description = Le attributo <a data-l10n-name="rel">rel</a> con valor <code>"preload"</code> sur un elemento <a data-l10n-name="link">&lt;link&gt;</a> servi meliorar le prestationes, discargante ressources in le phase initial del cyclo de vita del pagina. Assi le ressources es disponibile plus rapidemente e es minus probabile le bloco del rendition del pagina. Lege <a data-l10n-name="readmore">“Pre-cargamento del contento con <code>rel="preload"</code>”</a> o vide <a data-l10n-name="bugzilla">error 1583604</a> pro altere detalios.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
