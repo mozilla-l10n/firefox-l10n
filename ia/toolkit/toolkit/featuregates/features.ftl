@@ -53,6 +53,9 @@ experimental-features-css-focus-visible-description = Consenti applicar stilos f
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Le evento global <a data-l10n-name="mdn-beforeinput">beforeinput</a> es activate sur elementos <a data-l10n-name="mdn-input">&lt;input&gt;</a> and <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> o ulle elemento del qual es activate le attributo <a data-l10n-name="mdn-contenteditable">contenteditable</a>, immediatemente ante le cambiamentos de valor del elemento. Le evento consenti al applicationes web de supplantar le comportamento predefinite del navigator pro le interactiones del usator, e.g. web applicationes poter cancellar entrata del usator solo pro specific characteres o pote modificar le texto collate stylisate solo con stilos approbate.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
