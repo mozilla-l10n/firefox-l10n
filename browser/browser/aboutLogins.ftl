@@ -49,16 +49,20 @@ login-list-name-reverse-option = పేరు (Z-A)
 login-list-last-changed-option = చివరి మార్పు
 login-list-last-used-option = చివరగా వాడినది
 login-list-intro-title = ప్రవేశాలేమీ కనబడలేదు
+login-list-intro-description = మీరు { -brand-product-name }‌లో సంకేతపదాలను భద్రపరచినపుడు, అవి ఇక్కడ కనిపిస్తాయి.
 about-logins-login-list-empty-search-title = ప్రవేశాలేమీ కనబడలేదు
 about-logins-login-list-empty-search-description = మీ వెతుకుడుకు సరిపోయే ఫలితాలు లేవు.
 login-list-item-title-new-login = కొత్త ప్రవేశం
 login-list-item-subtitle-new-login = మీ ప్రవేశ వివరాలు ఇవ్వండి
 login-list-item-subtitle-missing-username = (వాడుకరి పేరు లేదు)
+about-logins-list-item-breach-icon =
+    .title = ఉల్లంఘిత వెబ్‌సైటు
 about-logins-list-item-vulnerable-password-icon =
     .title = బలహీనమైన సంకేతపదం
 
 ## Introduction screen
 
+login-intro-heading = మీరు భద్రపరుచుకొన్న ప్రవేశాల కోసం వెతుకుతున్నారా? { -sync-brand-short-name } అమర్చుకోండి.
 
 ## Login
 
