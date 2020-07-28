@@ -53,6 +53,9 @@ experimental-features-css-focus-visible-description = Permite aplicarea de stilu
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Evenimentul global <a data-l10n-name="mdn-beforeinput">beforeinput</a> este activat pe elemente <a data-l10n-name="mdn-input">&lt;input&gt;</a> și <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> sau pe orice elemente care au atributul <a data-l10n-name="mdn-contenteditable">contenteditable</a> activat, imediat înainte de modificarea valorii elementului. Evenimentul permite aplicațiilor web să suprascrie comportamentul implicit al browserului în interacțiunea cu utilizatorii; de ex., aplicațiile web pot anula textele inserate de utilizatori numai pentru anumite caractere sau pot modifica lipirea de texte formatate numai cu stiluri aprobate.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
