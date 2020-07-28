@@ -24,6 +24,7 @@ reset-password-window =
     .style = width: 40em
 pippki-failed-pw-change = Passwort konnte nicht geändert werden.
 pippki-pw-change-ok = Passwort erfolgreich geändert.
+pippki-pw-change2empty-in-fips-mode = Sie sind derzeit im FIPS-Modus. FIPS benötigt ein nicht leeres Passwort.
 
 ## Reset Primary Password dialog
 
