@@ -63,6 +63,8 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = మీరు భద్రపరుచుకొన్న ప్రవేశాల కోసం వెతుకుతున్నారా? { -sync-brand-short-name } అమర్చుకోండి.
+login-intro-description = మరో పరికరంలో మీ ప్రవేశాలను { -brand-product-name }‌లో భద్రపరచుకొని ఉంటే, వాటిని ఇక్కడకు తెచ్చుకోవడం ఇలా:
+about-logins-intro-instruction-help = మరింత సహాయం కోసం <a data-l10n-name="help-link">{ -lockwise-brand-short-name } తోడ్పాటు</a>‌ని చూడండి
 
 ## Login
 
@@ -109,6 +111,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] మీరు { -brand-product-name } వాడుతున్న చోటల్లా మీ ప్రవేశాలు కావాలనుకుంటున్నారా? మీ { -sync-brand-short-name } ఎంపికలకు వెళ్ళి, ప్రవేశాలు అనేచోట టిక్కుపెట్టండి.
+       *[other] మీరు { -brand-product-name } వాడుతున్న చోటల్లా మీ ప్రవేశాలు కావాలనుకుంటున్నారా? మీ { -sync-brand-short-name } అభిరుచులకు వెళ్ళి, ప్రవేశాలు అనేచోట టిక్కుపెట్టండి.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -136,6 +143,7 @@ confirm-discard-changes-dialog-confirm-button = విస్మరించు
 
 ## Breach Alert notification
 
+breach-alert-text = మీరు చివరిసారి మీ ప్రవేశ వివరాలను తాజాకరించిన తర్వాత ఈ వెబ్‌సైటు నుండి సంకేతపదాలు బయల్పడ్డాయి లేదా దొంగిలించబడ్డాయి. మీ ఖాతాను సంరక్షించుకోడానికి మీ సంకేపదాన్ని మార్చుకోండి.
 about-logins-breach-alert-learn-more-link = ఇంకా తెలుసుకోండి
 
 ## Vulnerable Password notification
