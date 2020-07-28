@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = అనుసరింపబడకుండా విహరించండి
 cfr-protections-panel-link-text = ఇంకా తెలుసుకోండి
 
 ## What's New toolbar button and panel
@@ -134,8 +135,18 @@ cfr-doorhanger-socialtracking-dont-show-again = ఇలాంటి సందే�
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { $date } నుండి { -brand-short-name } <b>{ $blockedCount }</b> పైగా ట్రాకర్లకు నిరోధించింది!
+       *[other] { $date } నుండి { -brand-short-name } <b>{ $blockedCount }</b> పైగా ట్రాకర్లకు నిరోధించింది!
+    }
 cfr-doorhanger-milestone-ok-button = అన్నింటినీ చూడండి
     .accesskey = S
+cfr-doorhanger-milestone-close-button = మూసివేయి
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -151,6 +162,8 @@ cfr-doorhanger-milestone-ok-button = అన్నింటినీ చూడం
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = ఒక్కచూపులో సంరక్షణలు
+cfr-whatsnew-protections-cta-link = సంరక్షణల డాష్‌బోర్డ్ చూడండి
 
 ## Better PDF message
 

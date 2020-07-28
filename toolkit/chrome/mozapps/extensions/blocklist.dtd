@@ -13,5 +13,5 @@
 <!ENTITY blocklist.accept.label      "&brandShortName; పునఃప్రారంభించు">
 <!ENTITY blocklist.accept.accesskey  "R">
 
-<!ENTITY blocklist.blocked.label     "నిషేధించబడినది">
+<!ENTITY blocklist.blocked.label     "నిరోధించబడ్డవి">
 <!ENTITY blocklist.checkbox.label    "అచేతనపరచు">

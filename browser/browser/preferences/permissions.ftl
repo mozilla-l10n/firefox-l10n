@@ -64,6 +64,9 @@ permissions-exceptions-content-blocking-window =
     .title = మినహాయింపులు - విషయ నిరోధం
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = ఈ వెబ్‌సైట్లలో మీకు విషయ నిరోధాన్ని అచేతనం చేసారు.
+permissions-exceptions-etp-window =
+    .title = మెరుగైన ట్రాకింగ్ సంరక్షణ కొరకు మినహాయింపులు
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 

@@ -779,6 +779,7 @@ addressbar-suggestions-settings = సెర్చింజను సూచనల
 ## Privacy Section - Content Blocking
 
 content-blocking-header = విషయ నిరోధం
+content-blocking-enhanced-tracking-protection = మెరుగైన ట్రాకింగ్ సంరక్షణ
 content-blocking-learn-more = ఇంకా తెలుసుకోండి
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
