@@ -31,5 +31,6 @@ printui-scale = Jupiha
 printui-scale-fit-to-page = Embojuehe kuatiaroguére
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Jupiha
+printui-system-dialog-link = Emonguatia eipurúvo apopyvusu rovetã…
 printui-primary-button = Ñemonguatia
 printui-cancel-button = Heja
