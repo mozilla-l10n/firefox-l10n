@@ -8,6 +8,7 @@ about-logins-page-title = ప్రవేశాలు & సంకేతపదా
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = మీ సంకేతపదాలను ఎక్కడికైనా తీసుకెళ్ళండి
+login-app-promo-subtitle = ఉచిత { -lockwise-brand-name } అనువర్తనాన్ని పొందండి
 login-app-promo-android =
     .alt = దీన్ని గూగుల్ ప్లే నుండి పొందండి
 login-app-promo-apple =
@@ -24,6 +25,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = మెనూని తెరవండి
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = మరో విహారిణి నుండి దిగుమతిచేయి…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ఎంపికలు
@@ -121,6 +124,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
+about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 confirm-discard-changes-dialog-message = భద్రపరచని మార్పులన్నీ కోల్పోతారు.
