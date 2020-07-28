@@ -8,7 +8,6 @@ password-quality-meter = Asɣel n tɣaṛa n wawal uffir
 
 change-password-window =
     .title = Sbadu awal uffir agejdan
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Ibenk n tɣellist: { $tokenName }
@@ -21,6 +20,12 @@ change-password-reenter = Sentem Awal uffir
 reset-password-window =
     .title = Ales awennez n wawal uffir agejdan
     .style = width: 40em
+pippki-failed-pw-change = Ur yezmir ara ad isnifel awal uffir.
+pippki-incorrect-pw = Ur t-sekcemḍ ara awal uffir amiran ameɣtu. Ma ulac aɣilif, ɛreḍ tikelt nniḍen.
+pippki-pw-change-ok = Awal uffir ibeddel akken iwata.
+
+## Reset Primary Password dialog
+
 reset-password-button-label =
     .label = Sfeḍ
 reset-password-text = Ma tsefḍeḍ awal-ik uffir agejdan, akk awallen uffiren n web neɣ n imaylen, ifecka n tferkitin, iselkinen udmawanen, tisura tusligin ad ttwattun. Tebɣiḍ ad tekseḍ awal uffir agejdan?
