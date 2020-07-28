@@ -13,6 +13,7 @@
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox Screenshots సౌలభ్యాన్ని అచేతనించు.
 policy-DisableFormHistory = వెతుకుడు, ఫారాల చరిత్రను గుర్తుపెట్టుకోవద్దు.
+policy-DisableMasterPasswordCreation = నిజమైతే, ప్రధాన సంకేతపదం సృష్టించలేరు.
 policy-DisablePocket = Pocketకు వెబ్‌పేజీలను భద్రపరిచే సౌలభ్యాన్ని అచేతనం చేయండి.
 policy-DisablePrivateBrowsing = అంతరంగిక విహరణను అచేతనించు.
 policy-DisableTelemetry = టెలిమెట్రీని ఆపివేయి.

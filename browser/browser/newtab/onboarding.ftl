@@ -39,6 +39,12 @@ onboarding-cards-dismiss =
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+
 ## Welcome full page string
 
 onboarding-fullpage-form-email =
@@ -63,6 +69,7 @@ onboarding-sync-form-header = ఈ ఈమెయిలును ఇవ్వండ
 
 onboarding-benefit-products-title = ఉపయోగకరమైన ఉత్పత్తులు
 onboarding-benefit-knowledge-title = ఆచరణాత్మక జ్ఞానం
+onboarding-benefit-knowledge-text = ఆన్‌లైన్‌లో తెలివిగా, సురక్షితంగా ఉండటానికి మీరు తెలుసుకోవలసిన ప్రతిదాన్ని తెలుసుకోండి.
 onboarding-benefit-privacy-title = నిజమైన గోప్యత
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 

@@ -89,6 +89,7 @@ cfr-whatsnew-fx70-title = మీ గోప్యత కోసం { -brand-short-
 cfr-whatsnew-tracking-protect-title = ట్రాకర్ల నుండి మిమ్మల్ని మీరు రక్షించుకోండి
 cfr-whatsnew-tracking-protect-link-text = మీ నివేదికను చూడండి
 cfr-whatsnew-tracking-blocked-link-text = నివేదికను చూడండి
+cfr-whatsnew-lockwise-backup-link-text = బ్యాకప్‌లను చేతనించండి
 cfr-whatsnew-lockwise-take-link-text = అనువర్తనాన్ని పొందండి
 
 ## Search Bar
@@ -107,15 +108,18 @@ cfr-whatsnew-permission-prompt-cta = ఇంకా తెలుసుకోండ
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = ఈ ఇష్టాంశాన్ని మీ ఫోనులో పొందండి
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = ఇంకెప్పుడూ సంకేతపదాల్ని కోల్పోవద్దు
 
 ## Send Tab
 
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = ఈ PDFని సురక్షితంగా పంచుకోండి
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }ని ప్రయత్నించండి
     .accesskey = ప
 
