@@ -144,6 +144,8 @@ about-logins-vulnerable-alert-learn-more-link = ఇంకా తెలుసు�
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = ఈ సంకేతపదాన్ని భద్రపరచడానికి ప్రయత్నిస్తున్నప్పుడు ఏదో పొరపాటు జరిగింది.
 
 ## Login Export Dialog
 
