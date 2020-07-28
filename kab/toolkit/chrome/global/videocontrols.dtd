@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Urar">
 <!ENTITY playButton.pauseLabel "Seṛǧu">
 <!ENTITY muteButton.muteLabel "Asusam">
@@ -30,6 +34,14 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Tugniwin iţukksenglen">
 <!ENTITY stats.framesPresented "Tugniwin iţusenkden">
 <!ENTITY stats.framesPainted "Tugniwin iţusunɣen">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Wali deg Tugna-deg-tugna">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
 
 <!ENTITY error.aborted "Asali n tvidyut yeḥbes">
 <!ENTITY error.network "Urar n tvidyutt yeḥbes acku tella tuccḍa deg uẓeṭṭa.">

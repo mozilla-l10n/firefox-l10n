@@ -38,6 +38,8 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Sfeḍ
 reset-password-text = Ma tsefḍeḍ awal-ik uffir agejdan, akk awallen uffiren n web neɣ n imaylen, ifecka n tferkitin, iselkinen udmawanen, tisura tusligin ad ttwattun. Tebɣiḍ ad tekseḍ awal uffir agejdan?
+pippki-reset-password-confirmation-title = Wennez awal uffir agejdan
+pippki-reset-password-confirmation-message = Awla-inek·inem uffir agejdan yettuwennez.
 
 ## Downloading cert dialog
 
