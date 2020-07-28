@@ -101,6 +101,13 @@ master-password-os-auth-dialog-message-win = Untuk membuat Sandi Utama, masukkan
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = membuat Sandi Utama
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Untuk membuatSandi Utama, masukkan kredensial masuk Windows Anda. Ini membantu melindungi keamanan akun Anda.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = membuat Sandi Utama
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -534,6 +541,15 @@ master-password-label =
 master-password-button =
     .label = Ubah Sandi Utama…
     .accesskey = S
+primary-password-description = Sandi Utama melindungi semua kata sandi Anda, tetapi Anda harus memasukkannya sekali tiap sesi.
+primary-password-label =
+    .label = Gunakan Sandi Utama
+    .accesskey = U
+primary-password-button =
+    .label = Ubah Sandi Utama…
+    .accesskey = C
+forms-primary-pw-fips-title = Anda tengah dalam mode FIPS. Mode ini mewajibkan Sandi Utama harus diisi.
+forms-master-pw-fips-desc = Sandi Gagal Diubah
 junk-description = Atur pengaturan surel sampah bawaan. Pengaturan surel sampah masing-masing akun dapat diatur pada Pengaturan Akun.
 junk-label =
     .label = Saat menandai pesan sebagai pesan junk:
