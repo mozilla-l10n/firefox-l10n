@@ -202,6 +202,7 @@ identity-clear-site-data =
     .label = కుకీలను, సైటు డేటాను తుడిచివేయి…
 identity-connection-not-secure-security-view = ఈ సైటుకి మీరు సురక్షితంగా అనుసంధానం కాలేదు.
 identity-connection-verified = మీరు ఈ సైటుకు సురక్షితంగా అనుసంధానం అయ్యారు.
+identity-ev-owner-label = ధ్రువపత్రం వీరికి జారీ అయ్యింది:
 identity-remove-cert-exception =
     .label = మినహాయింపును తొలగించు
     .accesskey = R

@@ -17,6 +17,8 @@ policy-DisableMasterPasswordCreation = నిజమైతే, ప్రధాన
 policy-DisablePocket = Pocketకు వెబ్‌పేజీలను భద్రపరిచే సౌలభ్యాన్ని అచేతనం చేయండి.
 policy-DisablePrivateBrowsing = అంతరంగిక విహరణను అచేతనించు.
 policy-DisableTelemetry = టెలిమెట్రీని ఆపివేయి.
+policy-FlashPlugin = ఫ్లాష్ చొప్పింత వాడుకను అనుమతించండి లేదా తిరస్కరించండి.
+policy-HardwareAcceleration = తప్పయితే, హార్డ్‌వేరు త్వరణాన్ని అచేతనించు.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 

@@ -28,6 +28,7 @@ cert-error-domain-mismatch-single-nolink = వెబ్‌సైట్లు త
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = దోష సంకేతం: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = ఈ సమస్య గురించి మీరు వెబ్‌సైట్ నిర్వాహకులకు తెలియజేయవచ్చు.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP స్క్రిప్ట్ ట్రాన్స్‌పోర్ట్ సెక్యూరిటి: { $hasHSTS }
