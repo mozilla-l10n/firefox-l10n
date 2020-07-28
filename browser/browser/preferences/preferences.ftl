@@ -821,6 +821,10 @@ forms-master-pw-fips-title = Зараз ви в режимі FIPS. Для цьо
 forms-primary-pw-change =
     .label = Змінити головний пароль…
     .accesskey = і
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Зараз ви в режимі FIPS. Для цього режиму необхідно встановити головний пароль.
 forms-master-pw-fips-desc = Не вдалося змінити пароль
 
