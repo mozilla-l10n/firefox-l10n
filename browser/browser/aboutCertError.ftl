@@ -18,6 +18,14 @@ cert-error-untrusted-default = ఆ ధృవీకరణపత్రం  నమ�
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = వెబ్‌సైట్లు తమ గుర్తింపును ధృవపత్రాల ద్వారా నిరూపిస్తాయి. ఈ సైటును { -brand-short-name } నమ్మడంలేదు ఎందుకంటే వారు { $hostname }కి చెల్లని ధృవపత్రాన్ని వాడుతున్నారు.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = వెబ్‌సైట్లు తమ గుర్తింపును ధృవపత్రాల ద్వారా నిరూపిస్తాయి. ఈ సైటును { -brand-short-name } నమ్మడంలేదు ఎందుకంటే వారు { $hostname }కి చెల్లని ధ్రువపత్రాన్ని వాడుతున్నారు. ఆ ధ్రువపత్రం కేవలం <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>కి మాత్రమే చెల్లుతుంది.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = వెబ్‌సైట్లు తమ గుర్తింపును ధృవపత్రాల ద్వారా నిరూపిస్తాయి. ఈ సైటును { -brand-short-name } నమ్మడంలేదు ఎందుకంటే వారు { $hostname }కి చెల్లని ధ్రువపత్రాన్ని వాడుతున్నారు. ఆ ధ్రువపత్రం కేవలం { $alt-name }కి మాత్రమే చెల్లుతుంది.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = దోష సంకేతం: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
