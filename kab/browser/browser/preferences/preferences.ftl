@@ -817,6 +817,7 @@ forms-master-pw-fips-title = Aql-ak deg uskar FIPS . FIPS yesra awal uffir agejd
 forms-primary-pw-change =
     .label = Beddel awal uffir…
     .accesskey = P
+forms-primary-pw-fips-title = Aql-ak·akem akka tura deg uskar FIPS . FIPS yesra awal uffir agejdan arilem.
 forms-master-pw-fips-desc = Asnifel n wawal uffir agejdan ur yeddi ara
 
 ## OS Authentication dialog
@@ -828,6 +829,8 @@ master-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek uffir a
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = Rnu awal uffir agejdan
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek·inem uffir agejdan, sekcem inekcam-inek·inem n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek·inem.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
