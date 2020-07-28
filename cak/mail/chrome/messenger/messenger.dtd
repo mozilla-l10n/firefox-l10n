@@ -967,7 +967,7 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Ke'ewäx Juley Chik">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Tik'ut pe Ronojel">
+<!ENTITY showAllAppsCmdMac.label        "Tik'ut Ronojel">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Kicha'oj Ruwachaj Chokoy…">
