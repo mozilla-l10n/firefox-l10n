@@ -59,7 +59,7 @@ import-select-profile-page-title = Selecionar perfil
 import-select-profile-description = Estes perfis estão disponíveis para importação:
 import-done-page-title = Importação concluída
 import-done-description = Estes itens foram importados com êxito:
-import-close-source-browser = Verifique se o navegador selecionado está fechado antes de continuar.
+import-close-source-browser = Certifique-se de que o navegador selecionado esteja fechado antes de continuar.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -88,6 +88,7 @@ imported-edge-reading-list = Lista de leitura (do Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
