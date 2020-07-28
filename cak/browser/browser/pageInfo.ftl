@@ -103,7 +103,7 @@ security-view-privacy-viewpasswords =
     .label = Ketz'et ri yakäl ewan taq tzij
     .accesskey = w
 security-view-technical =
-    .value = Retal ajsamajel
+    .value = Etamanel taq B'anikil
 help-button =
     .label = Tob'äl
 

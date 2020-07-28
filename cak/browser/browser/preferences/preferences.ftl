@@ -763,7 +763,7 @@ sync-device-name-save =
 sync-connect-another-device = Tokisäx jun chik okisaxel
 sync-manage-devices = Kenuk'samajïx taq okisaxel
 sync-fxa-begin-pairing = Tichojmirisäx jun okisaxel
-sync-tos-link = Ketal Samaj
+sync-tos-link = Taq Rojqanem Samaj
 sync-fxa-privacy-notice = Ichinan Na'oj
 
 ## Privacy Section
