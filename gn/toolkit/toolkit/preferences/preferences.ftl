@@ -43,5 +43,7 @@ remove-info =
     .value = Emoingeva’erã pe ñe’ẽñemi ag̃agua eñepyrũ hag̃ua:
 remove-warning1 = Ñe’ẽñemi ha’etéva ojepuru omo’ã hag̃ua marandu mbarete iporãva, tenda ñe’ẽñemigua.
 remove-warning2 = Emboguetéramo ñe’ẽñemi ha’etéva, pe marandu ndoguerekomo’ãi ñemo’ã ne mohendaha rembiapoitépe.
+remove-primary-password-warning1 = Ne ñe’ẽñemi ha’etéva ojepuru omo’ã hag̃ua marandu hekoñemíva tembiapo ñepyrũramo ha ñe’ẽñemi.
+remove-primary-password-warning2 = Emboguetéramo pe ñe’ẽñemi ha’etéva ne marandu ndogueremo’ãi ñemo’ã ne mohendaha oñembyaikuaáramo.
 remove-password-old-password =
     .value = Ñe’ẽñemi ag̃agua:
