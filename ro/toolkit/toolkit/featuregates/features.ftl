@@ -57,6 +57,7 @@ experimental-features-web-api-beforeinput =
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Adiția unui constructor la interfața <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, precum și varietatea de modificări aferente face posibilă crearea directă a unor fișe de stiluri noi fără a mai fi necesară adăugarea lor în HTML. Aceasta ușurează foarte mult crearea de fișe de stiluri reutilizabile de folosit cu <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Vezi <a data-l10n-name="bugzilla">bug 1520690</a> pentru mai multe detalii.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
