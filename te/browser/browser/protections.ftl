@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protection-report-webpage-title = సంరక్షణల డాష్‌బోర్డ్
+protection-report-page-content-title = సంరక్షణల డాష్‌బోర్డ్
 protection-report-settings-link = మీ అంతరంగికత, భద్రత అమరికలను నిర్వహించుకోండి
+etp-card-title-always = మెరుగైన ట్రాకింగ్ సంరక్షణ: ఎల్లప్పుడూ చేతనం
+etp-card-title-custom-not-blocking = మెరుగైన ట్రాకింగ్ సంరక్షణ: అచేతనం
 protection-report-manage-protections = అమరికలను నిర్వహించుకోండి
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.

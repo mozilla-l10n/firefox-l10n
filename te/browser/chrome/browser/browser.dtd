@@ -231,7 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్‌వర్డ్ భద్రపరచు సందేశపు ప్యానెలును తెరువు">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "మీరు సైటు నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "నిరంతర నిల్వ డేటాని నిల్వ చేయండి">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "నిరంతర నిల్వలో డేటాని నిల్వ చేయడం">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "విహరణి వ్యవహిత నియంత్రణ కింద ఉంది">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "జాల ధ్రువీకరణ ప్యానెలును తెరువు">
 
