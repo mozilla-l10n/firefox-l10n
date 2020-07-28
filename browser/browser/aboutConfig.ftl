@@ -17,6 +17,8 @@ about-config-intro-warning-title = జాగ్రత్తతో ముంద�
 ##
 
 about-config-page-title = ఉన్నత అభిరుచులు
+about-config-search-input1 =
+    .placeholder = శోధన ప్రాధాన్యత పేరు
 about-config-show-all = అన్నిటినీ చూపించు
 about-config-pref-add = చేర్చు
 about-config-pref-toggle = అటుదిటుచేయి

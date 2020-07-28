@@ -5,13 +5,18 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ఒక సరికాని ధృవీకరణపత్రాన్ని ఉపయోగిస్తోంది.
+cert-error-mitm-intro = వెబ్‌సైట్లు తమ గుర్తింపును ధృవపత్రాల ద్వారా నిరూపిస్తాయి, వీటిని సర్టిఫికెట్ అథారిటీలు జారీ చేస్తారు.
 cert-error-trust-unknown-issuer-intro = ఎవరో ఈ సైటును అనుకరించడానికి ప్రయత్నిస్తూండవచ్చు, మీరు ముందుకి వెళ్ళకూడదు.
 cert-error-trust-cert-invalid = ఆ ధృవీకరణపత్రం నమ్మలేము ఎంచేతంటే అది చెల్లని CA ధృవీకరణపత్రం ద్వారా ఇవ్వబడింది.
 cert-error-trust-untrusted-issuer = ఆ ధృవీకరణపత్రం నమ్మలేము ఎంచేతంటే ఇచ్చినవాని ధృవీకరణపత్రాన్ని నమ్మలేము.
 cert-error-trust-signature-algorithm-disabled = సురక్షితం కాని అచేతనం చేయబడిన అల్గార్దెమ్ ఉపయోగించి సంతకం చేయుట వలన ఆ ధృవీకరణపత్రం నమ్మదగినది కాదు.
 cert-error-trust-expired-issuer = ఆ ధృవీకరణపత్రం నమ్మలేము ఎంచేతంటే ఇచ్చినవాని ధృవీకరణపత్రం కాలముతీరినది.
 cert-error-trust-self-signed = ఆ ధృవీకరణపత్రం నమ్మలేము ఎంచేతంటే తనుకుతానై సంతకంచేసివుంది.
+cert-error-trust-symantec = జియోట్రస్ట్, రాపిడ్SSL, సిమాంటెక్, థావ్టే, వెరిసైన్‌లు జారీ చేసిన ధృవపత్రాలు ఇకపై సురక్షితమైనవిగా పరిగణించబడవు ఎందుకంటే ఈ సర్టిఫికేట్ అధికారులు గతంలో భద్రతా పద్ధతులను అనుసరించడంలో విఫలమయ్యారు.
 cert-error-untrusted-default = ఆ ధృవీకరణపత్రం  నమ్మకమైన మూలంనుండి రాలేదు.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = వెబ్‌సైట్లు తమ గుర్తింపును ధృవపత్రాల ద్వారా నిరూపిస్తాయి. ఈ సైటును { -brand-short-name } నమ్మడంలేదు ఎందుకంటే వారు { $hostname }కి చెల్లని ధృవపత్రాన్ని వాడుతున్నారు.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = దోష సంకేతం: <a data-l10n-name="error-code-link">{ $error }</a>
