@@ -38,6 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Restablecer
 reset-password-text = Si restablece su contraseña maestra, todas las contraseñas web y de correo electrónico almacenados, los datos de los formularios, certificados personales y claves privadas serán olvidados. ¿Seguro que quiere restablecer su contraseña maestra?
+reset-primary-password-text = Si restablece su contraseña maestra, se olvidarán todas las contraseñas de webs, correo electrónico, certificados personales y llaves privadas almacenadas. ¿Está seguro de que quiere restablecer su contraseña maestra?
 pippki-reset-password-confirmation-title = Restablecer la contraseña maestra
 pippki-reset-password-confirmation-message = Se ha restablecido su contraseña maestra.
 
