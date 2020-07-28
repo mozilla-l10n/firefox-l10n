@@ -13,9 +13,13 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = జాగ్రత్తతో ముందుకువెళ్ళండి
+about-config-intro-warning-checkbox = ఈ అభిరుచులను చూడటానికి నేను ప్రయత్నించినపుడు నన్ను హెచ్చరించు
+about-config-intro-warning-button = నష్టభయాన్ని అంగీకరించి ముందుకు కొనసాగండి
 
 ##
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = ఈ అభిరుచులను మార్చడం { -brand-short-name } పనితీరు లేక భద్రతను ప్రభావితం చేయగలదు.
 about-config-page-title = ఉన్నత అభిరుచులు
 about-config-search-input1 =
     .placeholder = శోధన ప్రాధాన్యత పేరు
