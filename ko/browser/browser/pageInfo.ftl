@@ -134,8 +134,8 @@ media-link = 아이콘
 media-input = 입력
 media-video = 동영상
 media-audio = 음성
-saved-passwords-yes = 있음
-saved-passwords-no = 없음
+saved-passwords-yes = 예
+saved-passwords-no = 아니오
 no-page-title =
     .value = 페이지 제목 없음:
 general-quirks-mode =
@@ -150,7 +150,7 @@ media-unknown-not-cached =
     .value = 알 수 없음 (캐시 안 됨)
 permissions-use-default =
     .label = 기본 설정 사용
-security-no-visits = 없음
+security-no-visits = 아니오
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
