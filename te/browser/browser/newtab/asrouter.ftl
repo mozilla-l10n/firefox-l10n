@@ -60,12 +60,16 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = పిన్ను చేయాలనుకుంటున్న ట్యాబు మీద <b>కుడి-నొక్కు</b> నొక్కండి.
+cfr-doorhanger-pintab-step2 = మెనూ నుండి <b>ట్యాబును పిన్ చేయి<b>‌ని ఎంచుకోండి.
+cfr-doorhanger-pintab-step3 = సైటులో తాజాకరణ ఉంటే, పిన్ చేసిన ట్యాబు మీద నీలిరంగు బిందువు కనిపిస్తుంది.
 cfr-doorhanger-pintab-animation-pause = నిలుపు
 cfr-doorhanger-pintab-animation-resume = కొనసాగించు
 
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = మీ ఇష్టాంశాలను ప్రతిచోటా సింక్రనించుకోండి.
+cfr-doorhanger-bookmark-fxa-body = భలే కనుక్కొన్నారు! ఇప్పుడు మీ చరవాణి పరికరాల్లో ఈ ఇష్టాంశం లేకుండా ఉండకండి. { -fxaccount-brand-name } మొదలుపెట్టండి.
 cfr-doorhanger-bookmark-fxa-link-text = ఇష్టాంశాలను ఇప్పుడు సింక్రనించు…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = మూసివేయు బొత్తం
@@ -74,6 +78,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = అనుసరింపబడకుండా విహరించండి
+cfr-protections-panel-body = మీ డేటాను మీ వద్దనే ఉంచుకోండి. ఆన్‌లైన్‌లో మీ జాడ తెలుసుకునే చాలా సామాన్య ట్రాకర్ల నుండి { -brand-short-name } మిమ్మల్ని కాపాడుతుంది.
 cfr-protections-panel-link-text = ఇంకా తెలుసుకోండి
 
 ## What's New toolbar button and panel
