@@ -41,7 +41,6 @@ composition-addressing-header = Osoittaminen
 privacy-main-header = Yksityisyys
 privacy-passwords-header = Salasanat
 privacy-junk-header = Roska
-privacy-data-collection-header = Tietojen keruu ja käyttö
 collection-header = { -brand-short-name }in tietojen keräys ja käyttö
 collection-description = Pyrimme antamaan sinulle vapauden valita ja keräämme vain tietoja, joita tarvitsemme voidaksemme tarjota { -brand-short-name }in kaikille ja parantaa sitä. Kysymme aina lupaa ennen kuin vastaanotamme henkilötietoja.
 collection-privacy-notice = Tietosuojakäytäntö
@@ -96,14 +95,19 @@ addons-button = Laajennukset ja teemat
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Vahvista henkilöllisyytesi luodaksesi pääsalasanan.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Luo pääsalasana kirjoittamalla Windows-kirjautumistietosi. Tämä auttaa suojaamaan tiliesi turvallisuutta.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = luoda pääsalasanan
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Luo pääsalasana kirjoittamalla Windows-kirjautumistietosi. Tämä auttaa suojaamaan tilejäsi.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Luo pääsalasana
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Muuta pääsalasanaa…
     .accesskey = M
+primary-password-description = Pääsalasana suojaa kaikkien sähköpostitiliesi salasanat, mutta se kysytään kerran joka istunnossa.
+primary-password-label =
+    .label = Käytä pääsalasanaa
+    .accesskey = K
+primary-password-button =
+    .label = Vaihda pääsalasana…
+    .accesskey = V
+forms-primary-pw-fips-title = Olet parhaillaan FIPS-tilassa. FIPS edellyttää, että pääsalasana ei ole tyhjä.
+forms-master-pw-fips-desc = Salasanan vaihto epäonnistui
 junk-description = Muokkaa alta roskapostisuodattimen oletusasetuksia. Tilikohtaisia asetuksia voi muokata Tilien asetuksista.
 junk-label =
     .label = Kun merkitsen viestin roskapostiksi:
@@ -701,3 +714,6 @@ search-results-empty-message =
        *[other] Pahoittelut! Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Tarvitsetko apua? Vieraile <a data-l10n-name="url">{ -brand-short-name }-tuessa</a>
+
+## Preferences UI Search Results
+
