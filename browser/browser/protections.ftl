@@ -148,11 +148,11 @@ info-exposed-passwords-resolved =
        *[other] de parole expuse în încălcări nerezolvate
     }
 monitor-no-breaches-title = Vești bune!
-monitor-no-breaches-description = Nu apari în nicio breșă cunoscută. Dacă apar noutăți, te vom anunța.
+monitor-no-breaches-description = Nu apari în nicio încălcare cunoscută. Dacă apar noutăți, te vom anunța.
 monitor-view-report-link = Vezi raportul
     .title = Rezolvă încălcările securității datelor pe { -monitor-brand-short-name }
-monitor-breaches-unresolved-title = Rezolvă breșele
-monitor-breaches-unresolved-description = După ce ai văzut detaliile breșelor și ai luat măsuri ca să îți protejezi informațiile, poți marca breșele ca rezolvate.
+monitor-breaches-unresolved-title = Rezolvă încălcările
+monitor-breaches-unresolved-description = După ce ai văzut detaliile încălcărilor securității datelor și ai luat măsuri ca să îți protejezi informațiile, poți marca încălcările ca rezolvate.
 monitor-manage-breaches-link = Gestionează breșele
     .title = Gestionează breșele cu { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Bun! Ai rezolvat toate breșele cunoscute.

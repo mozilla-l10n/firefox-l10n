@@ -237,7 +237,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Pictogramă de imagine-în-imagine
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Protecții dintr-o privite
-cfr-whatsnew-protections-body = Tabloul de bord de protecții include rapoarte sumare despre breșele de date și gestionarea parolelor. Acum poți urmări câte breșe ai rezolvat și poți vedea dacă parolele tale salvate au fost expuse într-o breșă de date.
+cfr-whatsnew-protections-body = Tabloul de bord de protecții include rapoarte sumare despre încălcările securității datelor și gestionarea parolelor. Acum poți urmări câte încălcări ai rezolvat și poți vedea dacă parolele tale salvate au fost expuse într-o încălcare a securității datelor.
 cfr-whatsnew-protections-cta-link = Vezi tabloul de bord privind protecțiile
 cfr-whatsnew-protections-icon-alt = Pictogramă de scut
 
