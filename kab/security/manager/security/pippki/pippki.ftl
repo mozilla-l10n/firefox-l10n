@@ -38,6 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Sfeḍ
 reset-password-text = Ma tsefḍeḍ awal-ik uffir agejdan, akk awallen uffiren n web neɣ n imaylen, ifecka n tferkitin, iselkinen udmawanen, tisura tusligin ad ttwattun. Tebɣiḍ ad tekseḍ awal uffir agejdan?
+reset-primary-password-text = Ma tsefḍeḍ awal-ik·im uffir agejdan, akk awallen uffiren n web d wid n yimaylen, iselkinen udmawanen d tsura tusligin ad ttwattun. Tebɣiḍ s tidet ad twennzeḍ awal-ik·im uffir agejdan?
 pippki-reset-password-confirmation-title = Wennez awal uffir agejdan
 pippki-reset-password-confirmation-message = Awla-inek·inem uffir agejdan yettuwennez.
 
