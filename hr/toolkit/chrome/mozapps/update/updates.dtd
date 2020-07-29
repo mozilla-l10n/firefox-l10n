@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY  updateWizard.title              "Ažuriranje programa">
+<!ENTITY  updateWizard.title              "Aktualiziranje programa">
 
 <!ENTITY  checking.title                  "Provjera za dopunama">
 <!ENTITY  updateCheck.label               "Traženje novije verzije &brandShortName;a …">
@@ -10,7 +10,7 @@
 <!ENTITY  noupdatesautoenabled.intro      "Nema dostupnih dopuna. &brandShortName; će periodički provjeravati dostupnost dopuna.">
 <!ENTITY  noupdatesautodisabled.intro     "Nema dostupnih dopuna. Pokušaj ponovo kasnije ili omogući &brandShortName;ovu automatsku provjeru dopuna.">
 
-<!ENTITY  manualUpdate.title              "Ažuriranje nije moguće">
+<!ENTITY  manualUpdate.title              "Nije moguće aktualizirati">
 <!ENTITY  manualUpdate.desc               "Predložene dopune radi sigurnosti i stabilnosti su dostupne, ali ti nemaš dovoljna prava na sustavu za instaliranje. Kontaktiraj administratora sustava ili pokušaj s korisničkim računom koji ima dozvolu za instaliranje softvera na ovo računalo.">
 <!ENTITY  manualUpdate.space.desc         "Dostupna je prepoučena sigurnosna dopuna, ali nemate dovoljno prostora za instalaciju.">
 <!ENTITY  manualUpdateGetMsg.label        "Najnoviju verziju &brandShortName;a uvijek možeš naći na:">
@@ -32,14 +32,14 @@
 
 <!ENTITY  details.link                    "Detalji">
 
-<!ENTITY  error.title                     "Ažuriranje nije uspjelo">
+<!ENTITY  error.title                     "Aktualiziranje neuspjelo">
 
-<!ENTITY  error.label                     "Došlo je do problema pri provjeri, preuzimanju ili instalaciji ove dopune. &brandShortName; se nije mogao ažurirati zbog:">
+<!ENTITY  error.label                     "Došlo je do problema pri provjeri, preuzimanju ili instalaciji ove dopune. &brandShortName; se nije mogao aktualizirati zbog:">
                                            
 <!ENTITY  errorManual.label               "&brandShortName; možeš aktualizirati na najnoviju verziju ručno putem ove poveznice:">
                                            
-<!ENTITY  errorpatching.intro             "Nije se moglo primijeniti djelomično ažuriranje. 
-                                           &brandShortName; će pokušati ponovo, preuzimanjem potpune dopune.">
+<!ENTITY  errorpatching.intro             "Nije se moglo primijeniti djelomično aktualiziranje.
+                                           &brandShortName; će pokušati ponovo, preuzimanjem potpune nadogradnje.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nije u mogućnosti odrediti je li dostupna nadogradnja. Provjeri, je li imaš najnoviju verziju &brandShortName;a sa:">
                                            
