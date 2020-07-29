@@ -24,9 +24,9 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Promijeni osobitosti ovog dodatka">
 
 <!ENTITY cmd.showReleaseNotes.label           "Prikaži napomene o izdanju">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži napomene o izdanju za ovo ažuriranje">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži napomene o izdanju za ovu nadogradnju">
 <!ENTITY cmd.hideReleaseNotes.label           "Sakrij napomene o izdanju">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij napomene o izdanju za ovo ažuriranje">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij napomene o izdanju za ovu nadogradnju">
 <!ENTITY cmd.findReplacement.label            "Pronađi zamjenu">
 
 <!-- download/install progress -->
@@ -56,7 +56,7 @@
 
 <!ENTITY addon.install.label                  "Instaliraj">
 <!ENTITY addon.install.tooltip                "Instaliraj ovaj dodatak">
-<!ENTITY addon.updateNow.label                "Ažuriraj sada">
+<!ENTITY addon.updateNow.label                "Aktualiziraj sada">
 <!ENTITY addon.updateNow.tooltip              "Instaliraj dopunu za ovaj dodatak">
 <!ENTITY addon.includeUpdate.label            "Dodaj u dopune">
 <!ENTITY addon.updateAvailable.label          "Dostupna je dopuna">
