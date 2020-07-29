@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Inserer expression mathematic">
 
+<!ENTITY sourceEditField.label "Insere le codice fonte LaTeX:">
 
 <!ENTITY options.label "Optiones">
+<!ENTITY optionInline.label "Modo connexe">
+<!ENTITY optionInline.accesskey "X">
 
 <!ENTITY insertButton.label "Inserer">
