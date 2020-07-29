@@ -354,7 +354,7 @@ play-drm-content =
     .accesskey = p
 play-drm-content-learn-more = Saznaj više
 update-application-title = { -brand-short-name } dopune
-update-application-description = Ažuriraj { -brand-short-name } za najbolju preformansu, stabilnost i sigurnost.
+update-application-description = Aktualiziraj { -brand-short-name } za najbolju performansu, stabilnost i sigurnost.
 update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Što je novo</a>
 update-history =
     .label = Prikaži povijest nadogradnji …
@@ -380,16 +380,16 @@ update-pref-write-failure-title = Greška prilikom zapisivanja
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nije moguće spremiti postavke. Nije bilo moguće pisati u datoteku: { $path }
-update-setting-write-failure-title = Greška prilikom spremanju postavki ažuriranja
+update-setting-write-failure-title = Greška prilikom spremanja postavki aktualiziranja
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    { -brand-short-name } je naišao na pogrešku i nije spremio ovu promjenu. Uzmi u obzir da postavljanje postavki za ovo ažuriranje zahtjeva dozvole za pisanje u niže navedenu datoteku. Ti ili tvoj administrator sustava možda možete otkloniti ovu grešku, tako da dozvolite grupi korisnika potpunu kontrolu nad ovom datotekom.
+    { -brand-short-name } je naišao na pogrešku i nije spremio ovu promjenu. Uzmi u obzir da postavljanje postavki za ovo aktualiziranje zahtijeva dozvole za pisanje u niže navedenu datoteku. Ti ili tvoj administrator sustava možda možete otkloniti ovu grešku, tako da dozvolite grupi korisnika potpunu kontrolu nad ovom datotekom.
     
     Nije moguće pisati u datoteku: { $path }
-update-in-progress-title = Ažuriranje u tijeku
+update-in-progress-title = Aktualiziranje u tijeku
 update-in-progress-message = Želiš li { -brand-short-name } nastavi s ovim aktualiziranjem?
 update-in-progress-ok-button = O&dbaci
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -530,7 +530,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Isječci
-home-prefs-snippets-description = Ažuriranja od { -vendor-short-name } i { -brand-product-name }a
+home-prefs-snippets-description = Aktualiziranje od { -vendor-short-name } i { -brand-product-name }a
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -804,6 +804,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Koristi glavnu lozinku
     .accesskey = u
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Promijeni glavnu lozinku …
     .accesskey = m
