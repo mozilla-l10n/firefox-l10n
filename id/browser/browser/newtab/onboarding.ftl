@@ -53,7 +53,7 @@ onboarding-multistage-welcome-secondary-button-label = Masuk
 onboarding-multistage-welcome-secondary-button-text = Sudah punya akun?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Impor kata sandi, markah, dan <span data-l10n-name="zap">yang lain</span>.
+onboarding-multistage-import-header = Impor kata sandi, markah, dan <span data-l10n-name="zap">yang lain</span>
 onboarding-multistage-import-subtitle = Dari peramban lain? Mudah sekali membawa semuanya ke { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Mulai Impor
 onboarding-multistage-import-secondary-button-label = Jangan sekarang
@@ -65,7 +65,12 @@ onboarding-multistage-theme-primary-button-label = Simpan Tema
 onboarding-multistage-theme-secondary-button-label = Jangan sekarang
 onboarding-multistage-theme-label-light = Terang
 onboarding-multistage-theme-label-dark = Gelap
-onboarding-multistage-theme-label-colorful = Warna-warni
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
