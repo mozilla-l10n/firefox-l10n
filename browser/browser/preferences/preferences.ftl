@@ -65,7 +65,7 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = 이 기능을 켜려면 { -brand-short-name }를 반드시 다시 시작해야 합니다.
+feature-enable-requires-restart = 이 기능을 사용하려면 { -brand-short-name }를 반드시 다시 시작해야 합니다.
 feature-disable-requires-restart = 이 기능을 끄려면 { -brand-short-name }를 반드시 다시 시작해야 합니다.
 should-restart-title = { -brand-short-name } 다시 시작
 should-restart-ok = 지금 { -brand-short-name } 다시 시작
