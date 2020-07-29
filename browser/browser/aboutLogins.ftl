@@ -17,7 +17,7 @@ login-filter =
     .placeholder = Caută autentificări
 create-login-button = Creează o autentificare nouă
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
-fxaccounts-sign-in-button = Autentificare în { -sync-brand-short-name }
+fxaccounts-sign-in-button = Autentifică-te în { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gestionează contul
 
