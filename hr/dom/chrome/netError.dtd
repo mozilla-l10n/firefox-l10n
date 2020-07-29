@@ -23,7 +23,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Možda je uklonjena, premještena ili dozvole za datoteku spriječavaju pristup.</li></ul>">
 
 <!ENTITY generic.title "Nije moguće dovršiti zahtjev">
-<!ENTITY generic.longDesc "<p>Dodatne informacije o ovom problemu ili grešci trenutno nisu dostupne.</p>">
+<!ENTITY generic.longDesc "<p>Dodatne informacije o ovom problemu ili grešci trenutačno nisu dostupne.</p>">
 
 <!ENTITY malformedURI.title "Neispravna adresa">
 <!ENTITY malformedURI.longDesc "<p>Dana adresa nije u prepoznatljivom obliku. Molim, provjerite postoji li greška u unosu u lokacijskoj traci.</p>">
