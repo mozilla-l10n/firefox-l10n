@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Donyo iyie ki Mung me donyo
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = Nong i Google Play
 login-app-promo-apple =
     .alt = Gam ki i App Store
-
 login-filter =
     .placeholder = Yeny Donyo iyie
-
 create-login-button = Cwe Donyo iyie manyen
-
 fxaccounts-sign-in-text = Nong mung me donyo mamegi i nyonyo ni mukene
 fxaccounts-sign-in-button = Dony iyie { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -32,6 +25,9 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Yab jami ayera
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Kel ki i Layeny Mukene…
+about-logins-menu-menuitem-import-from-a-file = Kel ki i Pwail…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ter
@@ -46,6 +42,8 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } pi iPhone ki iPad
 login-list =
     .aria-label = Donyo iyie ma rwatte ki lok me yeny
 login-list-name-option = Nying (A-Z)
+login-list-name-reverse-option = Nying (Z-A)
+about-logins-login-list-alerts-option = Ciko
 login-list-last-changed-option = Yub me agiki
 login-list-last-used-option = Tic kwede me agiki
 login-list-intro-title = Pe ki nongo donyo iyie mo
@@ -98,6 +96,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## Master Password notification
 
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Dony iyie
     .accesskey = D
@@ -113,11 +114,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Juki
 confirmation-dialog-dismiss-button =
     .title = Juki
-
 about-logins-confirm-remove-dialog-title = Kwany donyo iyie man?
 confirm-delete-dialog-message = Pe ki twero gonyo tic man.
 about-logins-confirm-remove-dialog-confirm-button = Kwany
-
 confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny woko.
 
 ## Breach Alert notification
@@ -139,6 +138,8 @@ about-logins-vulnerable-alert-learn-more-link = Nong ngec mapol
 # This is a generic error message.
 about-logins-error-message-default = Bal mo otime ikare me temo gwoko mung me donyo man.
 
-
 ## Login Export Dialog
+
+
+## Login Import Dialog
 
