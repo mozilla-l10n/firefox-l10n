@@ -7,7 +7,7 @@
 <!ENTITY treehead.status.label          "Status">
 <!ENTITY remove.label                   "Fjern nettstad">
 <!ENTITY remove.accesskey               "F">
-<!ENTITY removeall.label                "Fjern alle nettstadane">
+<!ENTITY removeall.label                "Fjern alle nettstadar">
 <!ENTITY removeall.accesskey            "e">
 <!ENTITY address.label                  "Adresse til nettstaden:">
 <!ENTITY address.accesskey              "d">

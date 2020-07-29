@@ -6,6 +6,7 @@
 <!ENTITY pref.security.title              "Personvern og sikkerheit">
 
 <!ENTITY tracking.label                   "Brukarsporing">
+<!ENTITY trackingIntro.label              "Nettstadar kan spore korleis du bruker dei, og på den måten påverke personvernet ditt.">
 
 
 
