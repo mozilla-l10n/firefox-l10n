@@ -429,7 +429,7 @@ header-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Les extensions i els temes són com les aplicacions per al navegador i vos permeten protegir les contrasenyes, baixar vídeos, trobar ofertes, bloquejar anuncis molestos, canviar com es veu el vostre navegador i molt més. Estos petits programes sovint són desenvolupats per tercers. Ací teniu una selecció <a data-l10n-name="learn-more-trigger">recomanada</a> pel { -brand-product-name } per aconseguir un nivell excepcional de seguretat, rendiment i funcionalitat.
+discopane-intro = Les extensions i els temes són com les aplicacions per al navegador i vos permeten protegir les contrasenyes, baixar vídeos, trobar ofertes, blocar anuncis molestos, canviar com es veu el vostre navegador i molt més. Estos petits programes sovint són desenvolupats per tercers. Ací teniu una selecció <a data-l10n-name="learn-more-trigger">recomanada</a> pel { -brand-product-name } per aconseguir un nivell excepcional de seguretat, rendiment i funcionalitat.
 
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =

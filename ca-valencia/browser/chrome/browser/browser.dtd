@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -18,7 +17,6 @@
 
 <!ENTITY appmenu.tooltip                     "Obri el menú">
 <!ENTITY navbarOverflow.label                "Més eines…">
-
 <!-- Tab context menu -->
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -67,7 +65,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY importFromAnotherBrowserCmd.label "Importa des d'un altre navegador…">
+<!ENTITY importFromAnotherBrowserCmd.label "Importa d'un altre navegador…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Gestor de tasques">
@@ -92,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Codi font de la pàgina">
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -103,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informació de la pàgina">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depurador de disposició">
 <!ENTITY ldbCmd.accesskey "D">
@@ -140,7 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 
- <!ENTITY fxa.signin.callout.label "El vostre Firefox, a tot arreu">
+<!ENTITY fxa.signin.callout.label "El vostre Firefox, a tot arreu">
 <!ENTITY fxa.signin.description.label "Accediu a les vostres adreces d'interés, historial, contrasenyes i preferències en tots els vostres dispositius.">
 <!ENTITY fxa.signin.button.label "Activa el &syncBrand.shortName.label;…">
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
@@ -218,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Adreces d'interés">
 <!ENTITY bookmarksMenu.accesskey "r">
-
 <!ENTITY bookmarkThisPageCmd.label "Afig la pàgina a les adreces d'interés">
 <!ENTITY editThisBookmarkCmd.label "Edita esta adreça d'interés">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -243,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "z">
 <!ENTITY stopCmd.label                "Atura">
 <!ENTITY stopCmd.accesskey            "A">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Vés a l'adreça de la barra d'ubicació">
@@ -292,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Heu blocat la instal·lació de complements per a este lloc web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
-
 
 <!ENTITY urlbar.permissionsGranted.tooltip       "Heu donat permisos addicionals a este lloc web.">
 
@@ -355,7 +348,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fitxer">
 <!ENTITY fileMenu.accesskey       "F">
-
 <!ENTITY newUserContext.label             "Pestanya de contenidor nova">
 <!ENTITY newUserContext.accesskey         "v">
 <!ENTITY manageUserContext.label          "Gestiona els contenidors">
@@ -421,7 +413,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Restaura la sessió anterior">
 
 <!ENTITY showAllHistoryCmd2.label "Mostra tot l'historial">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Mostra tot l'historial">
@@ -602,7 +593,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostra només este marc">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Actualitza el marc">
 <!ENTITY reloadFrameCmd.accesskey     "z">
@@ -642,6 +632,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   "Pocket" is a brand name. -->
 
 <!ENTITY pocketButton.tooltiptext     "Guarda al Pocket">
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 
 <!ENTITY saveToPocketCmd.label        "Guarda la pàgina al Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
@@ -651,11 +643,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Envia l'enllaç per correu…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Anomena i guarda la pàgina…">
 <!ENTITY savePageCmd.accesskey        "g">
-<!ENTITY savePageCmd.accesskey2       "d">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "d">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Anomena i guarda el marc…">
 <!ENTITY saveFrameCmd.accesskey       "m">
@@ -699,7 +690,6 @@ context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Este marc">
 <!ENTITY thisFrameMenu.accesskey          "t">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -751,7 +741,6 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Oculta les estadístiques">
 <!ENTITY videoHideStats.accesskey    "t">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -761,7 +750,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Amplia">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
@@ -769,13 +757,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceCmd.label        "Redueix">
 <!ENTITY fullZoomReduceCmd.accesskey    "d">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Reinicia">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -799,7 +785,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Tanca">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "c">
 
@@ -825,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Canvia la direcció del text">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "v">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cerca en esta pàgina…">
@@ -855,14 +839,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Connexió">
 <!ENTITY identity.connectionSecure "Connexió segura">
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
-
 <!ENTITY identity.connectionFile "Esta pàgina està guardada a l'ordinador.">
 <!ENTITY identity.connectionVerified2 "Esteu connectat de forma segura a este lloc, mantingut per:">
 <!ENTITY identity.connectionInternal "Esta és una pàgina del &brandShortName; segura.">
 <!ENTITY identity.extensionPage "Esta pàgina s'ha carregat des d'una extensió.">
 <!ENTITY identity.insecureLoginForms2 "Les dades d'inici de sessió que introduïu en esta pàgina podrien estar en risc.">
 <!ENTITY identity.customRoot "Connexió verificada per un emissor de certificats que no és reconegut per Mozilla.">
-
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "El &brandShortName; ha blocat parts d'esta pàgina que no són segures.">
@@ -897,20 +879,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Esborra les galetes i dades dels llocs…">
 
 <!ENTITY identity.permissions "Permisos">
-
 <!ENTITY identity.permissionsEmpty "No heu donat cap permís especial a este lloc.">
 <!ENTITY identity.permissionsReloadHint "Potser cal que actualitzeu la pàgina per aplicar els canvis.">
 <!ENTITY identity.permissionsPreferences.tooltip "Obri les preferències de permisos">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Obri les preferències de bloqueig de contingut">
-
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -967,7 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Notificació de problemes">
 <!ENTITY contentBlocking.breakageReportView2.description "El bloqueig de contingut pot causar problemes en alguns llocs web. Quan notifiqueu un problema, esteu ajudant a millorar el &brandShortName; per a tothom. Això enviarà un URL a Mozilla, juntament amb informació de la configuració del navegador.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Més informació">
-
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Quins problemes heu tingut? (Opcional)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Envia l'informe">
@@ -1020,7 +991,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "I">
 
 <!ENTITY homepageControlled.message "Una extensió ha canviat la pàgina que es mostra a l'inici. Si no voleu acceptar este canvi, podeu restaurar els vostres paràmetres.">
-
 <!ENTITY homepageControlled.header.message "La pàgina d'inici ha canviat.">
 <!ENTITY homepageControlled.keepButton.label "Mantén els canvis">
 <!ENTITY homepageControlled.keepButton.accesskey "M">

@@ -11,7 +11,6 @@
 <!ENTITY returnToPreviousPage1.label "Vés arrere (recomanat)">
 <!ENTITY advanced2.label "Avançat…">
 <!ENTITY viewCertificate.label "Mostra el certificat">
-
 <!-- Specific error messages -->
 
 
@@ -103,10 +102,10 @@
 
 <!ENTITY certerror.longpagetitle2 "Avís: Risc potencial de seguretat">
 <!ENTITY certerror.sts.longpagetitle  "No s'ha connectat: Problema potencial de seguretat">
-
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+
 <!ENTITY certerror.introPara2 "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/>. Si visiteu este lloc, els atacants podrien robar informació com ara contrasenyes, correus electrònics o detalls de targetes de crèdit.">
 <!ENTITY certerror.sts.introPara "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/> perquè este lloc web requereix una connexió segura.">
 
@@ -144,9 +143,9 @@ was trying to connect. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "No s'ha pogut connectar de forma segura">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
 <!ENTITY sslv3Used.longDesc2 "Informació avançada: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Avís: Risc potencial de seguretat">
@@ -155,9 +154,9 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "Copia el text al porta-retalls">
 
 <!ENTITY inadequateSecurityError.title "La connexió no és segura">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura. Per tal que pugueu visitar el lloc, abans l'administrador del lloc web haurà d'arreglar el servidor.</p><p>Codi d'error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pàgina blocada">

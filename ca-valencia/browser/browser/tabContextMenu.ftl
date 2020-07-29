@@ -56,6 +56,20 @@ move-to-new-window =
 undo-close-tab =
     .label = Desfés el tancament de la pestanya
     .accesskey = D
+tab-context-close-multiple-tabs =
+    .label = Tanca diverses pestanyes
+    .accesskey = a
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Desfés el tancament de la pestanya
+           *[other] Desfés el tancament de les pestanyes
+        }
+    .accesskey = f
 close-tab =
     .label = Tanca la pestanya
     .accesskey = c
@@ -68,3 +82,17 @@ move-tabs =
 move-tab =
     .label = Mou la pestanya
     .accesskey = u
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tanca la pestanya
+           *[other] Tanca les pestanyes
+        }
+    .accesskey = c
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mou la pestanya
+           *[other] Mou les pestanyes
+        }
+    .accesskey = M
