@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Autentificare în &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Autentifică-te în &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Deschide preferințele pentru &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectează-te în &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifică-ți contul">
@@ -163,7 +163,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectează alt dispozitiv…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
-<!ENTITY fxa.menu.signin.label "Autentificare în &brandProductName;">
+<!ENTITY fxa.menu.signin.label "Autentifică-te în &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activează &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicii &brandProductName;">
 <!ENTITY fxa.menu.account.label "Cont">
@@ -239,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Oprește">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "Mergi la adresa din bara de adrese">
 
 <!ENTITY printButton.label            "Tipărește">
@@ -257,7 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionează utilizarea pluginurilor">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Schimbă dacă să mai primești notificări de la acest site sau nu">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stochează date în stocarea persistentă">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browserul este controlat de la distanță">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Deschide panoul de autentificare web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Deschide panoul de permisiuni pentru activitatea de navigare">
@@ -286,9 +284,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Ai blocat suplimentele instalate pentru acest site web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afișează istoricul">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ai acordat permisiuni suplimentare acestui site web.">
-
 
 <!ENTITY searchItem.title             "Caută">
 
@@ -398,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Bară laterală">
 <!ENTITY viewSidebarMenu.accesskey "e">
-
 <!ENTITY viewCustomizeToolbar.label       "Personalizează…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
@@ -446,8 +440,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă cu file de pe celelalte dispozitive.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Afișează o listă cu filele de pe celelalte dispozitive.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Contul tău trebuie verificat.">
-<!ENTITY appMenuRemoteTabs.signin.label "Autentificare în Sync">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Autentificare în &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te în Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Autentifică-te în &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Activează &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionează dispozitivele…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
@@ -493,7 +487,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Mai multe">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "Caută sau introdu adresa">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -895,7 +888,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Autentificare în &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Autentifică-te în &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
 <!ENTITY syncSyncNowItemSyncing.label "Se sincronizează…">
