@@ -14,8 +14,14 @@
 <!ENTITY enableJavaScript.label          "Slå på JavaScript for">
 <!ENTITY allowScripts.label              "Tillat skript å:">
 <!ENTITY allowScripts.accesskey          "s">
-
+<!ENTITY allowHideStatusBar.label        "Gøym statuslinja">
 
 <!ENTITY enablePlugins.label             "Tillat programtillegg for">
 <!ENTITY enablePluginForSuite.label      "Suite">
+<!ENTITY enablePluginForSuite.accesskey  "u">
 
+<!ENTITY whenPageRequiresPlugins.label   "Når ei side krev programtillegg">
+<!ENTITY activateAllPlugins.label        "Slå på alle programtillegg som standard">
+<!ENTITY activateAllPlugins.accesskey    "k">
+<!ENTITY warnPluginsRequired.label       "Åtvar meg om fleire programtillegg må installerast">
+<!ENTITY warnPluginsRequired.accesskey   "A">
