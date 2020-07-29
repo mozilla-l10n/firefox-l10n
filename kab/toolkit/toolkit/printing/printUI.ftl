@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Siggez
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+        [one] { $sheetCount } taferkit n lkaɣeḍ
+       *[other] { $sheetCount } tiferka n lkaɣeḍ
+    }
 printui-page-range-all = Meṛṛa
 printui-page-range-custom = Udmawan
 printui-page-range-label = Isebtar
@@ -13,6 +20,8 @@ printui-page-custom-range =
 # Section title for the number of copies to print
 printui-copies-label = Anɣalen
 printui-orientation = Taɣda
+# Section title for the printer or destination device to target
+printui-destination-label = Aserken
 printui-more-settings = Ugar n yiɣewwaren
 printui-less-settings = Drus n yiɣewwaren
 # Section title (noun) for the print scaling options
