@@ -183,6 +183,13 @@ search-one-offs-context-set-as-default-private =
     .label = Imposta come motore di ricerca predefinito in finestre anonime
     .accesskey = a
 
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
