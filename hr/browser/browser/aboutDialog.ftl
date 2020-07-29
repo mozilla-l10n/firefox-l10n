@@ -9,13 +9,13 @@ update-checkForUpdatesButton =
     .label = Provjeri dostupnost dopuna
     .accesskey = j
 update-updateButton =
-    .label = Ponovo pokreni za ažuriranje { -brand-shorter-name }a
+    .label = Ponovo pokreni za aktualiziranje { -brand-shorter-name }a
     .accesskey = R
 update-checkingForUpdates = Provjera dopuna…
 update-downloading = <img data-l10n-name="icon"/>Preuzimanje dopune — <label data-l10n-name="download-status"/>
 update-applying = Primjena dopune…
-update-failed = Ažuriranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmi najnoviju verziju</label>
-update-failed-main = Ažuriranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmi najnoviju verziju</a>
+update-failed = Aktualiziranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmi najnoviju verziju</label>
+update-failed-main = Aktualiziranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmi najnoviju verziju</a>
 update-adminDisabled = Dopune je onemogućio tvoj administrator sustava
 update-noUpdatesFound = Koristiš najnoviji { -brand-short-name }
 update-otherInstanceHandlingUpdates = { -brand-short-name } nadograđuje jedna druga instanca

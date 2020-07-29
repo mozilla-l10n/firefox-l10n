@@ -98,7 +98,7 @@ cfr-whatsnew-panel-header = Što je novo
 cfr-whatsnew-release-notes-link-text = Pročitaj napomene o izdanju
 cfr-whatsnew-fx70-title = { -brand-short-name } sada još bolje brani tvoju privatnost
 cfr-whatsnew-fx70-body =
-    Najnovije ažuriranje poboljšava zaštitu od praćenja i olakšava stvaranje
+    Najnovije aktualiziranje poboljšava zaštitu od praćenja i olakšava stvaranje
     sigurnih lozinki za svaku web lokaciju.
 cfr-whatsnew-tracking-protect-title = Zaštiti se od programa za praćenje
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blokira mnoge uobičajene programe za praćenje tvojih radnji na društvenim mrežama i web lokacijama.
