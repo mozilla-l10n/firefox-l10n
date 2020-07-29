@@ -4,7 +4,7 @@
 # This is temporary until bug 1521632 is fixed
 
 elevation-update-wizard =
-    .title = Ažuriranje programa
+    .title = Aktualiziranje programa
 elevation-details-link-label =
     .value = Detalji
 elevation-error-manual = { -brand-short-name } možeš aktualizirati na najnoviju verziju ručno putem ove poveznice:
