@@ -18,11 +18,7 @@
 <!ENTITY allowWindowFlip.label           "Heve eller senke vinduer">
 <!ENTITY allowWindowStatusChange.label   "Endre statuslinjetekst">
 <!ENTITY allowContextmenuDisable.label   "Slå av eller erstatte kontekstmenyer">
-<!ENTITY allowHideStatusBar.label        "Skjule statuslinjen">
-
-<!ENTITY enableDrmMedia.label            "Aktiver Digital Rights Management (DRM) for">
-<!ENTITY enableEmeForSuite.label         "Tredjeparts innholdsdekrypteringsmoduler">
-<!ENTITY enableEmeForSuite.accesskey     "T">
+<!ENTITY allowHideStatusBar.label        "Skjul statuslinjen">
 
 <!ENTITY enablePlugins.label             "Tillat programtillegg for">
 <!ENTITY enablePluginForSuite.label      "Suite">
