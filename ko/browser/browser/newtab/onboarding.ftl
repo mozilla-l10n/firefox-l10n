@@ -31,7 +31,7 @@ onboarding-join-form-body = 시작하려면 이메일 주소를 입력하세요.
 onboarding-join-form-email =
     .placeholder = 이메일 입력
 onboarding-join-form-email-error = 유효한 이메일이 필요합니다
-onboarding-join-form-legal = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인 정보 보호 정책</a>에 동의하게 됩니다.
+onboarding-join-form-legal = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인정보 보호정책</a>에 동의하게 됩니다.
 onboarding-join-form-continue = 계속
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = 계정이 이미 있습니까?
