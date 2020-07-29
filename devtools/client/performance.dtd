@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "Snimanje profila je trenutno nedostupno. Zatvori sve prozore privatnog pregledavanja i pokušaj ponovo.">
+<!ENTITY performanceUI.unavailableNoticePB "Snimanje profila trenutačno nije dostupno. Zatvori sve prozore privatnog pregledavanja i pokušaj ponovo.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->

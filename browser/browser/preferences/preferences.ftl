@@ -484,8 +484,8 @@ home-homepage-custom-url =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] Koristi trenutnu stranicu
-           *[other] Koristi trenutne stranice
+            [1] Koristi trenutačnu stranicu
+           *[other] Koristi trenutačne stranice
         }
     .accesskey = c
 choose-bookmark =
