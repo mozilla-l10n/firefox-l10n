@@ -9,6 +9,10 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "&sidebarName;ssa olevat välilehdet:">
 <!ENTITY sidebar.customize.current.accesskey    "t">
+
+<!ENTITY sidebar.customize.title                "Muokkaa Sivupaneelia">
+<!ENTITY sidebar.customize.current2.label       "Sivupaneelissa olevat välilehdet:">
+<!ENTITY sidebar.customize.current2.accesskey   "t">
 <!ENTITY sidebar.customize.customize.label      "Muokkaa välilehteä…">
 <!ENTITY sidebar.customize.customize.accesskey  "M">
 <!ENTITY sidebar.customize.remove.label         "Poista">
