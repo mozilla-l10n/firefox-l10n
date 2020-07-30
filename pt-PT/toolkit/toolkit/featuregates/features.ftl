@@ -92,3 +92,9 @@ experimental-features-abouthome-startup-cache-description = Uma cache para o doc
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Tratar os cookies do mesmo domínio, mas com esquemas diferentes (por exemplo, http://example.com e https://example.com) como inter-sites em vez do mesmo site. Melhora a segurança mas, potencialmente, introduz falhas.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Ferramentas de programação: Depuração de service worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Ativa o suporte experimental para Service Workers no painel Depurador. Este recurso pode diminuir a velocidade das Ferramentas de programação e aumentar o consumo de memória.
