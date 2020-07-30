@@ -12,6 +12,7 @@ pw-erased-ok = Pääsalasana poistettiin. { pw-empty-warning }
 pw-not-wanted = Varoitus! Olet ottanut pääsalasanan pois käytöstä. { pw-empty-warning }
 pw-change2empty-in-fips-mode = Olet FIPS-tilassa ja se vaatii pääsalasanan.
 pp-change-ok = Pääsalasana vaihdettu onnistuneesti.
+pp-not-wanted = Varoitus! Olet ottanut pääsalasanan pois käytöstä. { pp-empty-warning }
 pw-change-success-title = Salasanan vaihto onnistui
 pw-change-failed-title = Salasanan vaihto epäonnistui
 pw-remove-button =
