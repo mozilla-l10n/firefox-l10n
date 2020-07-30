@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = ఈ వారం { -brand-short-name } నిరోధించిన ట్రాకర్లు
 protection-report-webpage-title = సంరక్షణల డాష్‌బోర్డ్
 protection-report-page-content-title = సంరక్షణల డాష్‌బోర్డ్
 protection-report-settings-link = మీ అంతరంగికత, భద్రత అమరికలను నిర్వహించుకోండి
@@ -11,6 +13,7 @@ protection-report-manage-protections = అమరికలను నిర్వ�
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = ఈరోజు
+social-tab-title = సామాజిక మాధ్యమాల ట్రాకర్లు
 cryptominer-tab-title = క్రిప్టోమైనర్లు
 protections-close-button2 =
     .aria-label = మూసివేయి
@@ -27,3 +30,10 @@ monitor-link = ఇది ఎలా పనిచేస్తుంది
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-cryptominer =
+    .title = క్రిప్టోమైనర్లు
+    .aria-label =
+        { $count ->
+            [one] { $count } క్రిప్టోమైనరు ({ $percentage }%)
+           *[other] { $count } క్రిప్టోమైనర్లు ({ $percentage }%)
+        }

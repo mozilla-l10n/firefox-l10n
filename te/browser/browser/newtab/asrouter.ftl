@@ -96,6 +96,14 @@ cfr-whatsnew-release-notes-link-text = విడుదల గమనికలన�
 cfr-whatsnew-fx70-title = మీ గోప్యత కోసం { -brand-short-name } ఇప్పుడు మరింత గట్టిగా పోరాడుతుంది
 cfr-whatsnew-tracking-protect-title = ట్రాకర్ల నుండి మిమ్మల్ని మీరు రక్షించుకోండి
 cfr-whatsnew-tracking-protect-link-text = మీ నివేదికను చూడండి
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] ట్రాకరు నిరోధించబడింది
+       *[other] ట్రాకర్లు నిరోధించబడ్డాయి
+    }
 cfr-whatsnew-tracking-blocked-link-text = నివేదికను చూడండి
 cfr-whatsnew-lockwise-backup-link-text = బ్యాకప్‌లను చేతనించండి
 cfr-whatsnew-lockwise-take-link-text = అనువర్తనాన్ని పొందండి

@@ -33,6 +33,7 @@ protections-panel-not-blocking-why-label = ఎందుకు?
 
 ##
 
+protections-panel-content-blocking-socialblock = సామాజిక మాధ్యమాల ట్రాకర్లు
 protections-panel-content-blocking-cryptominers-label = క్రిప్టోమైనర్లు
 
 ## In the protections panel, Content Blocking category items are in three sections:
