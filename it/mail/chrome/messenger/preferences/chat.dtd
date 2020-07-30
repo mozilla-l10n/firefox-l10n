@@ -7,7 +7,7 @@
 <!ENTITY  startupAction.label         "Quando si avvia &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "Q">
 <!ENTITY  startupOffline.label        "Mantieni gli account di chat scollegati">
-<!ENTITY  startupConnectAuto.label    "Collega l'account di chat automaticamente">
+<!ENTITY  startupConnectAuto.label    "Collega l’account di chat automaticamente">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -19,7 +19,7 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "C">
 <!ENTITY  idleTime                      "minuti di inattività">
 
-<!ENTITY  andSetStatusToAway.label      "ed imposta il mio stato come 'Non disponibile' con questo messaggio:">
+<!ENTITY  andSetStatusToAway.label      "ed imposta il mio stato come “Non disponibile” con questo messaggio:">
 <!ENTITY  andSetStatusToAway.accesskey  "e">
 
 <!ENTITY  sendTyping.label              "Mostra le notifiche di scrittura nelle conversazioni">
@@ -31,9 +31,9 @@ sentence. -->
 <!ENTITY  completeNotification.label          "col nome del mittente e una anteprima del messaggio">
 <!ENTITY  buddyInfoOnly.label                 "solamente col nome del mittente">
 <!ENTITY  dummyNotification.label             "senza alcuna informazione">
-<!ENTITY  getAttention.label                  "Fai lampeggiare l'elemento nella barra delle applicazioni">
+<!ENTITY  getAttention.label                  "Fai lampeggiare l’elemento nella barra delle applicazioni">
 <!ENTITY  getAttention.accesskey              "F">
-<!ENTITY  getAttentionMac.label               "Anima l'icona nel dock">
+<!ENTITY  getAttentionMac.label               "Anima l’icona nel dock">
 <!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "s">
 <!ENTITY  chatSound.label                     "Riproduci un suono">

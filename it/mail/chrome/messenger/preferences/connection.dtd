@@ -6,7 +6,7 @@
 <!ENTITY  window.width                  "49em">
 <!ENTITY  window.macWidth               "44em">
 
-<!ENTITY  proxyTitle.label              "Configura proxy per l'accesso a Internet">
+<!ENTITY  proxyTitle.label              "Configura proxy per l’accesso a Internet">
 <!ENTITY  noProxyTypeRadio.label        "Nessun proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Utilizza le impostazioni del proxy di sistema">
@@ -50,9 +50,9 @@
 <!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Non richiedere l’autenticazione se la password è salvata">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Questa opzione permette di autenticarsi direttamente con un proxy se ci sono delle credenziali salvate. Verranno chieste nuovamente se l'autenticazione dovesse fallire.">
+<!ENTITY  autologinproxy.tooltip        "Questa opzione permette di autenticarsi direttamente con un proxy se ci sono delle credenziali salvate. Verranno chieste nuovamente se l’autenticazione dovesse fallire.">
 <!ENTITY  socksRemoteDNS.label          "DNS proxy per SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Abilita DNS su HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Utilizza l'URL predefinito per risolvere DNS su HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Utilizza l’URL predefinito per risolvere DNS su HTTPS">

@@ -12,7 +12,7 @@
 <!ENTITY forwardMsg.accesskey                 "I">
 <!ENTITY inline.label                         "nel corpo del messaggio">
 <!ENTITY asAttachment.label                   "come allegati">
-<!ENTITY addExtension.label                   "Aggiungi l'estensione al nome del file">
+<!ENTITY addExtension.label                   "Aggiungi l’estensione al nome del file">
 <!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
@@ -45,10 +45,10 @@
 <!ENTITY autoSave.accesskey                   "v">
 <!ENTITY autoSaveEnd.label                    "minuti">
 
-<!ENTITY emailCollectionPicker.label           "Aggiungi automaticamente l'indirizzo della posta in uscita a:">
+<!ENTITY emailCollectionPicker.label           "Aggiungi automaticamente l’indirizzo della posta in uscita a:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Completamento automatico indirizzi">
-<!ENTITY autocompleteText.label                "Durante la scrittura dell'indirizzo controlla le corrispondenze in:">
+<!ENTITY autocompleteText.label                "Durante la scrittura dell’indirizzo controlla le corrispondenze in:">
 <!ENTITY addressingEnable.label                "Rubriche locali">
 <!ENTITY addressingEnable.accesskey            "u">
 <!ENTITY directories.label                     "Rubrica remota:">

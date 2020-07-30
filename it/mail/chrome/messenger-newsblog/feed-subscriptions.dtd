@@ -26,16 +26,16 @@
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "giorni">
 <!ENTITY biffDays.accesskey          "g">
-<!ENTITY recommendedUnits.label      "L'editore consiglia:">
+<!ENTITY recommendedUnits.label      "L’editore consiglia:">
 
-<!ENTITY quickMode.label             "Mostra il sommario dell'articolo invece di caricare la pagina web">
+<!ENTITY quickMode.label             "Mostra il sommario dell’articolo invece di caricare la pagina web">
 <!ENTITY quickMode.accesskey         "r">
 
 <!ENTITY autotagEnable.label         "Creare automaticamente le etichette usando i nomi delle &lt;categorie&gt; dei feed">
 <!ENTITY autotagEnable.accesskey     "c">
 <!ENTITY autotagUsePrefix.label      "Utilizza questo prefisso per le etichette:">
 <!ENTITY autotagUsePrefix.accesskey  "U">
-<!ENTITY autoTagPrefix.placeholder   "Fornire il prefisso dell'etichetta">
+<!ENTITY autoTagPrefix.placeholder   "Fornire il prefisso dell’etichetta">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Aggiungi">

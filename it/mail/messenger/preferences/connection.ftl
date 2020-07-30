@@ -19,7 +19,7 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
-connection-proxy-legend = Configura proxy per l'accesso a Internet
+connection-proxy-legend = Configura proxy per l’accesso a Internet
 proxy-type-no =
     .label = Nessun proxy
     .accesskey = y
@@ -74,7 +74,7 @@ no-proxy-localhost-label = Le connessioni verso localhost, 127.0.0.1 e ::1 non u
 proxy-password-prompt =
     .label = Non richiedere l’autenticazione se la password è salvata
     .accesskey = i
-    .tooltiptext = Questa opzione permette di autenticarsi direttamente con un proxy se ci sono delle credenziali salvate. Verranno chieste nuovamente se l'autenticazione dovesse fallire.
+    .tooltiptext = Questa opzione permette di autenticarsi direttamente con un proxy se ci sono delle credenziali salvate. Verranno chieste nuovamente se l’autenticazione dovesse fallire.
 proxy-remote-dns =
     .label = DNS proxy per SOCKS v5
     .accesskey = d

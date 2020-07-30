@@ -21,7 +21,7 @@
 <!ENTITY returnSome.accesskey "C">
 <!ENTITY never.label "Non inviare mai una Ricevuta di ritorno">
 <!ENTITY never.accesskey "N">
-<!ENTITY notInToCc.label "Se il proprio indirizzo non è nel campo 'A' o 'Cc':">
+<!ENTITY notInToCc.label "Se il proprio indirizzo non è nel campo “A” o “Cc”:">
 <!ENTITY notInToCc.accesskey "i">
 <!ENTITY outsideDomain.label "Se il mittente non appartiene al proprio dominio:">
 <!ENTITY outsideDomain.accesskey "m">

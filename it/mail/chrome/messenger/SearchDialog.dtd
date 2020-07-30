@@ -53,7 +53,7 @@
 <!ENTITY idColumn.label "Ordine di ricezione">
 <!ENTITY columnChooser2.tooltip "Selezionare le colonne da mostrare">
 <!ENTITY threadColumn2.tooltip "Mostra le discussioni">
-<!ENTITY fromColumn2.tooltip "Ordina per campo 'da'">
+<!ENTITY fromColumn2.tooltip "Ordina per campo “da”">
 <!ENTITY recipientColumn2.tooltip "Ordina per destinatario">
 <!ENTITY correspondentColumn2.tooltip "Ordina per corrispondenti">
 <!ENTITY subjectColumn2.tooltip "Ordina per oggetto">

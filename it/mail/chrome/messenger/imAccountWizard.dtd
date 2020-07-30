@@ -23,5 +23,5 @@
 <!ENTITY accountProxySettings.change.label "Modifica…">
 <!ENTITY accountProxySettings.change.accessKey "M">
 <!ENTITY accountSummaryTitle.label "Riepilogo">
-<!ENTITY accountSummaryInfo.label "Ecco un riepilogo delle informazioni inserite. Controllare prima della creazione dell'account.">
+<!ENTITY accountSummaryInfo.label "Ecco un riepilogo delle informazioni inserite. Controllare prima della creazione dell’account.">
 <!ENTITY accountSummary.connectNow.label "Collegare questo account.">

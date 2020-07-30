@@ -11,11 +11,11 @@
 <!ENTITY quickFilterBar.unread.label "Non letti">
 <!ENTITY quickFilterBar.unread.tooltip "Mostra solo i messaggi ancora da leggere">
 <!ENTITY quickFilterBar.starred.label "Speciali">
-<!ENTITY quickFilterBar.starred.tooltip "Mostra solo i messaggi con attributo 'speciale'">
+<!ENTITY quickFilterBar.starred.tooltip "Mostra solo i messaggi con attributo “speciale”">
 <!ENTITY quickFilterBar.inaddrbook.label "In rubrica">
 <!ENTITY quickFilterBar.inaddrbook.tooltip "Mostra solo i messaggi dei contatti presenti in rubrica">
 <!ENTITY quickFilterBar.tags.label "Etichette">
-<!ENTITY quickFilterBar.tags.tooltip "Mostra solo i messaggi con un'etichetta applicata">
+<!ENTITY quickFilterBar.tags.tooltip "Mostra solo i messaggi con un’etichetta applicata">
 <!ENTITY quickFilterBar.attachment.label "Allegati">
 <!ENTITY quickFilterBar.attachment.tooltip "Mostra solo i messaggi con allegati">
 <!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 messaggio;#1 messaggi">
@@ -38,4 +38,4 @@
 <!ENTITY quickFilterBar.textFilter.subject.label "Oggetto">
 <!ENTITY quickFilterBar.textFilter.body.label "Corpo">
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch "Continua questa ricerca nelle altre cartelle">
-<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Premere 'Invio' nuovamente per continuare la ricerca per: #1">
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Premere “Invio” nuovamente per continuare la ricerca per: #1">

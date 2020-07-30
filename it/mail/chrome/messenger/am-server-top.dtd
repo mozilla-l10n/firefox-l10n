@@ -50,11 +50,11 @@
 <!ENTITY modelDeleteImmediately.label "Eliminalo subito">
 <!ENTITY modelDeleteImmediately.accesskey "b">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "All'uscita pulisci (&quot;Expunge&quot;) la Posta in arrivo">
+<!ENTITY expungeOnExit.label "All’uscita pulisci (&quot;Expunge&quot;) la Posta in arrivo">
 <!ENTITY expungeOnExit.accesskey "o">
-<!ENTITY emptyTrashOnExit.label "Svuota Cestino all'uscita">
+<!ENTITY emptyTrashOnExit.label "Svuota Cestino all’uscita">
 <!ENTITY emptyTrashOnExit.accesskey "c">
-<!ENTITY loginAtStartup.label "Controlla nuovi messaggi all'avvio">
+<!ENTITY loginAtStartup.label "Controlla nuovi messaggi all’avvio">
 <!ENTITY loginAtStartup.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
@@ -64,15 +64,15 @@
 <!ENTITY maxMessagesStart.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "messaggi">
-<!ENTITY alwaysAuthenticate.label "Chiedi sempre l'autenticazione alla connessione a questo server">
+<!ENTITY alwaysAuthenticate.label "Chiedi sempre l’autenticazione alla connessione a questo server">
 <!ENTITY alwaysAuthenticate.accesskey "h">
 <!ENTITY newsrcFilePath.label "File newsrc:">
 <!ENTITY newsrcPicker.label "Seleziona il file newsrc">
 <!ENTITY newsrcFilePath1.label "File News.rc:">
 <!ENTITY newsrcPicker1.label "Seleziona il file News.rc">
 <!ENTITY abbreviate.label "Mostra nome del gruppo di discussione nel pannello della posta così:">
-<!ENTITY abbreviateOn.label "Nomi completi (ad esempio, 'netscape.public.mozilla.mail-news')">
-<!ENTITY abbreviateOff.label "Nomi abbreviati (ad esempio, 'n.p.m.mail-news')">
+<!ENTITY abbreviateOn.label "Nomi completi (ad esempio, “netscape.public.mozilla.mail-news”)">
+<!ENTITY abbreviateOff.label "Nomi abbreviati (ad esempio, “n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Avanzate…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codifica del testo predefinita:">

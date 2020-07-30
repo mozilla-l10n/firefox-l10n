@@ -12,14 +12,14 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Indirizzo immagine:">
 <!ENTITY locationEditField.accessKey "I">
-<!ENTITY locationEditField.tooltip "Inserisci il nome del file o l'indirizzo dell'immagine">
-<!ENTITY locationEditField.shortenedDataURI "URI accorciato (il comando 'copia' copierà la URI completa negli appunti)">
+<!ENTITY locationEditField.tooltip "Inserisci il nome del file o l’indirizzo dell’immagine">
+<!ENTITY locationEditField.shortenedDataURI "URI accorciato (il comando “copia” copierà la URI completa negli appunti)">
 <!ENTITY title.label "Suggerimento:">
 <!ENTITY title.accessKey "u">
-<!ENTITY title.tooltip "L'attributo html 'title' che viene mostrato come suggerimento.">
+<!ENTITY title.tooltip "L’attributo html “title” che viene mostrato come suggerimento.">
 <!ENTITY altText.label "Testo alternativo:">
 <!ENTITY altText.accessKey "T">
-<!ENTITY altTextEditField.tooltip "Inserire il testo da visualizzare in mancanza dell'immagine">
+<!ENTITY altTextEditField.tooltip "Inserire il testo da visualizzare in mancanza dell’immagine">
 <!ENTITY noAltText.label "Non usare testo alternativo">
 <!ENTITY noAltText.accessKey "N">
 
@@ -30,17 +30,17 @@
 <!ENTITY actualSize.label "Dimensione originale:">
 <!ENTITY actualSizeRadio.label "Dimensione originale">
 <!ENTITY actualSizeRadio.accessKey "D">
-<!ENTITY actualSizeRadio.tooltip "Torna alle dimensioni reali dell'immagine">
+<!ENTITY actualSizeRadio.tooltip "Torna alle dimensioni reali dell’immagine">
 <!ENTITY customSizeRadio.label "Dimensioni personalizzate">
 <!ENTITY customSizeRadio.accessKey "z">
-<!ENTITY customSizeRadio.tooltip "Modifica le dimensioni di visualizzazione dell'immagine">
+<!ENTITY customSizeRadio.tooltip "Modifica le dimensioni di visualizzazione dell’immagine">
 <!ENTITY heightEditField.label "Altezza:">
 <!ENTITY heightEditField.accessKey "A">
 <!ENTITY widthEditField.label "Larghezza:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Mantieni proporzioni">
 <!ENTITY constrainCheckbox.accessKey "M">
-<!ENTITY constrainCheckbox.tooltip "Mantieni le proporzioni dell'immagine">
+<!ENTITY constrainCheckbox.tooltip "Mantieni le proporzioni dell’immagine">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Mappa immagine">
@@ -48,7 +48,7 @@
 <!ENTITY removeImageMapButton.accessKey "R">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "Allineamento del testo rispetto all'immagine:">
+<!ENTITY alignment.label "Allineamento del testo rispetto all’immagine:">
 <!ENTITY bottomPopup.value "alla base">
 <!ENTITY topPopup.value "alla sommità">
 <!ENTITY centerPopup.value "al centro">
@@ -65,7 +65,7 @@
 <!ENTITY borderEditField.accessKey "B">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Visualizza un bordo attorno all'immagine per indicare la presenza del collegamento">
+<!ENTITY showImageLinkBorder.label "Visualizza un bordo attorno all’immagine per indicare la presenza del collegamento">
 <!ENTITY showImageLinkBorder.accessKey "V">
 <!ENTITY LinkAdvancedEditButton.label "Modifica avanzata collegamento…">
 <!ENTITY LinkAdvancedEditButton.accessKey "M">

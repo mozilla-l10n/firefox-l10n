@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY copyAndFolderTitle.label "Cartelle e copie">
-<!ENTITY sendingPrefix.label "Dopo aver effettuato l'invio: ">
+<!ENTITY sendingPrefix.label "Dopo aver effettuato l’invio: ">
 <!ENTITY fccMailFolder.label "copia il messaggio in:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Salva le risposte nella cartella del messaggio a cui si è risposto">

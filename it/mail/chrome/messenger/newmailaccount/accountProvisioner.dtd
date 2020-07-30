@@ -19,7 +19,7 @@
 <!ENTITY tinyheader.existing "Saltare questo passaggio e utilizzare un indirizzo esistente">
 <!ENTITY content.close "Configurerò il mio account più tardi.">
 <!ENTITY successful.title "Congratulazioni">
-<!ENTITY successful.successMessage "La creazione dell'account si è conclusa con successo.">
+<!ENTITY successful.successMessage "La creazione dell’account si è conclusa con successo.">
 <!ENTITY successful.write "Scrivere alcune email">
 <!ENTITY successful.write.desc "Fai conoscere ai tuoi amici e alla tua famiglia il tuo nuovo indirizzo.<br/> Questa è la ragione per cui è stato creato, giusto?">
 <!ENTITY successful.customize "Personalizzare &brandShortName; con qualche componente aggiuntivo eccezionale">

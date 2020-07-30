@@ -5,4 +5,4 @@
 <!ENTITY windowTitle.label "Proprietà ancora">
 <!ENTITY anchorNameEditField.label "Nome ancora:">
 <!ENTITY anchorNameEditField.accessKey "N">
-<!ENTITY nameInput.tooltip "Inserisci un nome univoco per quest'ancora (destinazione).">
+<!ENTITY nameInput.tooltip "Inserisci un nome univoco per quest’ancora (destinazione).">

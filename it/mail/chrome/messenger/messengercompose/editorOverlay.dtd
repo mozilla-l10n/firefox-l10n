@@ -293,7 +293,7 @@
 <!ENTITY findToolbarCmd.label "Trova">
 <!ENTITY findToolbarCmd.tooltip "Trova testo nella pagina">
 <!ENTITY spellToolbarCmd.label "Ortografia">
-<!ENTITY spellToolbarCmd.tooltip "Controllo ortografico della parte selezionata o dell'intera pagina">
+<!ENTITY spellToolbarCmd.tooltip "Controllo ortografico della parte selezionata o dell’intera pagina">
 <!ENTITY imageToolbarCmd.label "Immagine">
 <!ENTITY imageToolbarCmd.tooltip "Modifica proprietà immagine selezionata o inseriscine una nuova">
 <!ENTITY hruleToolbarCmd.label "Separatore">
@@ -317,11 +317,11 @@
 <!ENTITY boldToolbarCmd.tooltip "Grassetto">
 <!ENTITY italicToolbarCmd.tooltip "Corsivo">
 <!ENTITY underlineToolbarCmd.tooltip "Sottolineato">
-<!ENTITY bulletListToolbarCmd.tooltip "Crea o rimuovi l'elenco puntato">
-<!ENTITY numberListToolbarCmd.tooltip "Crea o rimuove l'elenco numerato">
+<!ENTITY bulletListToolbarCmd.tooltip "Crea o rimuovi l’elenco puntato">
+<!ENTITY numberListToolbarCmd.tooltip "Crea o rimuove l’elenco numerato">
 <!ENTITY outdentToolbarCmd.tooltip "Indentazione testo (verso sinistra)">
 <!ENTITY indentToolbarCmd.tooltip "Indentazione testo (verso destra)">
-<!ENTITY AlignPopupButton.tooltip "Imposta l'allineamento del testo">
+<!ENTITY AlignPopupButton.tooltip "Imposta l’allineamento del testo">
 <!ENTITY InsertPopupButton.tooltip "Inserisci collegamento, immagine, separatore orizzontale o tabella">
 <!ENTITY alignLeftButton.tooltip "Allinea il testo lungo il margine sinistro">
 <!ENTITY alignCenterButton.tooltip "Allinea il testo al centro">

@@ -112,7 +112,7 @@
 <!ENTITY changeSettings.label            "Cambia impostazioni">
 <!ENTITY changeSettings.accesskey        "M">
 
-<!ENTITY contactYourProvider.description "&brandShortName; scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l'amministratore o il fornitore della casella di posta per informarlo di questo collegamento non appropriato. Leggere le FAQ di Thunderbird per maggiori informazioni.">
+<!ENTITY contactYourProvider.description "&brandShortName; scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l’amministratore o il fornitore della casella di posta per informarlo di questo collegamento non appropriato. Leggere le FAQ di Thunderbird per maggiori informazioni.">
 
 <!ENTITY insecureServer.tooltip.title    "Attenzione, questo è un server non sicuro.">
 <!ENTITY insecureServer.tooltip.details  "Clic sul cerchio per maggiori informazioni.">

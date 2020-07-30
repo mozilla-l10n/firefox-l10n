@@ -128,8 +128,8 @@
 <!ENTITY redoMoveMsgCmd.label "Ripeti sposta messaggio">
 <!ENTITY undoCopyMsgCmd.label "Annulla copia messaggio">
 <!ENTITY redoCopyMsgCmd.label "Ripeti copia messaggio">
-<!ENTITY undoMarkAllCmd.label "Annulla 'Segna tutti letti'">
-<!ENTITY redoMarkAllCmd.label "Ripristina 'Segna tutti letti'">
+<!ENTITY undoMarkAllCmd.label "Annulla “Segna tutti letti”">
+<!ENTITY redoMarkAllCmd.label "Ripristina “Segna tutti letti”">
 <!ENTITY undoDefaultCmd.label "Annulla">
 <!ENTITY undoDefaultCmd.accesskey "A">
 <!ENTITY redoDefaultCmd.label "Ripeti">
@@ -385,7 +385,7 @@
 <!ENTITY moveMsgToMenu.accesskey "p">
 <!ENTITY moveCopyMsgRecentMenu.label "Cartelle recenti">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "r">
-<!ENTITY copyMessageLocation.label "Copia l'ubicazione del messaggio">
+<!ENTITY copyMessageLocation.label "Copia l’ubicazione del messaggio">
 <!ENTITY copyMessageLocation.accesskey "u">
 <!ENTITY copyMsgToMenu.label "Copia in">
 <!ENTITY copyMsgToMenu.accesskey "C">
@@ -398,7 +398,7 @@
 <!ENTITY killSubthreadMenu.label "Ignora sotto discussioni">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Tieni d'occhio la discussione">
+<!ENTITY watchThreadMenu.label "Tieni d’occhio la discussione">
 <!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Etichetta">
@@ -454,7 +454,7 @@
 <!ENTITY openFeedWebPage.accesskey "W">
 <!ENTITY openFeedSummary.label "Aprire come sommario">
 <!ENTITY openFeedSummary.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "Scambia la pagina web e il sommario nel riquadro dell'anteprima">
+<!ENTITY openFeedWebPageInMP.label "Scambia la pagina web e il sommario nel riquadro dell’anteprima">
 <!ENTITY openFeedWebPageInMP.accesskey "S">
 
 <!-- Windows Menu -->
@@ -606,7 +606,7 @@
 <!ENTITY notJunkButton.tooltip "Rimuovi il marchio posta indesiderata">
 <!ENTITY addressBookButton.tooltip "Apri la rubrica">
 <!ENTITY chatButton.tooltip "Mostra scheda della chat">
-<!ENTITY tagButton.tooltip "Applica un'etichetta ai messaggi">
+<!ENTITY tagButton.tooltip "Applica un’etichetta ai messaggi">
 <!ENTITY compactButton.tooltip "Compatta le cartelle">
 <!ENTITY appmenuButton1.tooltip "Mostra il menu di &brandShortName;">
 <!ENTITY addonsButton.tooltip "Gestisci i tuoi componenti aggiuntivi">
@@ -738,7 +738,7 @@
 <!ENTITY columnChooser2.tooltip "Selezionare le colonne da mostrare">
 <!ENTITY selectColumn.tooltip "Seleziona tutti i messaggi">
 <!ENTITY threadColumn2.tooltip "Mostra le discussioni">
-<!ENTITY fromColumn2.tooltip "Ordina per campo 'da'">
+<!ENTITY fromColumn2.tooltip "Ordina per campo “da”">
 <!ENTITY recipientColumn2.tooltip "Ordina per destinatario">
 <!ENTITY correspondentColumn2.tooltip "Ordina per corrispondenti">
 <!ENTITY subjectColumn2.tooltip "Ordina per oggetto">
@@ -811,7 +811,7 @@
 <!ENTITY contextKillSubthreadMenu.accesskey "d">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignora le sotto discussioni">
-<!ENTITY contextWatchThreadMenu.label "Tieni d'occhio la discussione">
+<!ENTITY contextWatchThreadMenu.label "Tieni d’occhio la discussione">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key

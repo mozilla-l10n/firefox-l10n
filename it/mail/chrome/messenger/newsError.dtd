@@ -12,7 +12,7 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
-<!ENTITY articleNotFound.desc "Il server gruppi di discussione asserisce che non può trovare l'articolo.">
+<!ENTITY articleNotFound.desc "Il server gruppi di discussione asserisce che non può trovare l’articolo.">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
@@ -20,11 +20,11 @@
 
 <!-- LOCALIZATION NOTE (articleExpired.title): A string explaining that the
      article may have expired. -->
-<!ENTITY articleExpired.title "L'articolo potrebbe essere scaduto?">
+<!ENTITY articleExpired.title "L’articolo potrebbe essere scaduto?">
 
 <!-- LOCALIZATION NOTE (trySearching.title): A string preceding the message's
      ID. -->
-<!ENTITY trySearching.title "Tentare di cercare l'articolo:">
+<!ENTITY trySearching.title "Tentare di cercare l’articolo:">
 
 <!-- LOCALIZATION NOTE (removeExpiredArticles.title): The label for the button
      to remove all expired articles from the newsgroup. -->
