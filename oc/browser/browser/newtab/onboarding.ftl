@@ -50,8 +50,15 @@ onboarding-multistage-welcome-header = La benvenguda dins <span data-l10n-name="
 onboarding-multistage-welcome-primary-button-label = Començar la configuracion
 onboarding-multistage-welcome-secondary-button-label = Se connectar
 onboarding-multistage-welcome-secondary-button-text = Avètz un compte ?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importatz los senhals, <br/>marcapaginas, e <span data-l10n-name="zap">mai</span>
 onboarding-multistage-import-primary-button-label = Començar l’import
 onboarding-multistage-import-secondary-button-label = Pas ara
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Causissètz una <span data-l10n-name="zap">aparéncia</span>
+onboarding-multistage-theme-subtitle = Personalizatz { -brand-short-name } amb un tèma.
 onboarding-multistage-theme-primary-button-label = Enregistrar tèma
 onboarding-multistage-theme-secondary-button-label = Pas ara
 # Automatic theme uses operating system color settings
