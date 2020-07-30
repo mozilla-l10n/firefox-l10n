@@ -10,6 +10,7 @@ experimental-features-css-masonry =
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
+experimental-features-css-masonry-description = Embojuruja pe jokopytykuaa CSS Masonry Layout ipyahúva ndive. Eñe’ẽ <a data-l10n-name="explainer">mba’emimive</a> ndive ereko hag̃ua marandu tembiapoite rehegua. Emondo hag̃ua haipyre, emombe’u <a data-l10n-name="w3c-issue">ko issue GitHub mba’épe</a> térã <a data-l10n-name="bug">ko bug</a>-pe.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu =
