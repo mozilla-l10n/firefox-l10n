@@ -25,13 +25,22 @@ reset-password-window =
 pippki-failed-pw-change = Cambiament del senhal impossible.
 pippki-incorrect-pw = Avètz pas picat lo senhal principal actual corrècte. Tornatz ensajar.
 pippki-pw-change-ok = Senhal corrèctament modificat.
+pippki-pw-empty-warning = Los senhals e claus privadas seràn pas protegidas.
 pippki-pw-erased-ok = Avètz suprimit vòstre senhal principal. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Atencion ! Avètz decidit d'utilizar pas de senhal principal. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Actualament, sètz en mòde FIPS. Lo mòde FIPS necessita un senhal principal pas void.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Reïnicializar lo senhal principal
+    .style = width: 40em
 reset-password-button-label =
     .label = Escafar
 reset-password-text = S'escafatz vòstre senhal principal, totes vòstres senhals Web e corrièr, vòstras donadas de formularis, vòstres certificats personals e vòstras claus privadas seràn doblidats. Volètz vertadièrament suprimir lo senhal principal ?
+reset-primary-password-text = Se reïnicializatz vòstre senhal principal, totes vòstres senhals e email salvats, certificats personals e vòstras claus privadas seràn oblidats. Volètz vertadièrament suprimir lo senhal principal ?
+pippki-reset-password-confirmation-title = Reïnicializar lo senhal principal
+pippki-reset-password-confirmation-message = Vòstre senhal es estat reïnicializat.
 
 ## Downloading cert dialog
 
