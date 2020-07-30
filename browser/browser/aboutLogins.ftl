@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportar los identi
 ## Master Password notification
 
 master-password-notification-message = Picatz vòstre senhal màger per veire los identificants e senhals salvats
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Picatz vòstre senhal màger per veire los identificants e senhals salvats
 master-password-reload-button =
     .label = Connexion
     .accesskey = C
