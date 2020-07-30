@@ -23,6 +23,9 @@ reset-password-window =
     .title = Tornar inicializar lo senhal principal
     .style = width: 40em
 pippki-failed-pw-change = Cambiament del senhal impossible.
+pippki-incorrect-pw = Avètz pas picat lo senhal principal actual corrècte. Tornatz ensajar.
+pippki-pw-change-ok = Senhal corrèctament modificat.
+pippki-pw-erased-ok = Avètz suprimit vòstre senhal principal. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 

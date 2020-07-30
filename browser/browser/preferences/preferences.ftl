@@ -803,6 +803,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Utilizar un senhal principal
     .accesskey = U
+forms-primary-pw-use =
+    .label = Utilizar un senhal principal
+    .accesskey = U
 forms-primary-pw-learn-more-link = Ne saber mai
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -811,6 +814,13 @@ forms-master-pw-change =
     .label = Modificar lo senhal principal…
     .accesskey = M
 forms-master-pw-fips-title = Actualament, sètz en mòde FIPS. Lo mòde FIPS necessita un senhal principal pas void.
+forms-primary-pw-change =
+    .label = Modificar lo senhal principal…
+    .accesskey = M
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = S’apelava abans « Senhal mèstre »
 forms-master-pw-fips-desc = La modificacion de senhal a pas capitat
 
 ## OS Authentication dialog
@@ -822,6 +832,11 @@ master-password-os-auth-dialog-message-win = Per crear un senhal màger, picatz 
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = crear un senhal principal
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crear un senhal principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

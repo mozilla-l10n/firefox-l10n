@@ -79,6 +79,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Bascular lo compòrtam
 
 policy-LocalFileLinks = Autorizar los sites web a utilizar los ligams locals.
 policy-MasterPassword = Requerir o empachar l’utilizacion d’un senhal principal.
+policy-PrimaryPassword = Requerir o empachar l’utilizacion d’un senhal principal.
 policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
 policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
 policy-NoDefaultBookmarks = Desactivar la creacion automatica dels marcapaginas per defaut integrats de { -brand-short-name }, e tanben los marcapaginas intelligents (sites mai visitats e sites mai recents); Nòta : aquesta politica s’aplica pas que s’es activada al primièr lançament del perfil.
