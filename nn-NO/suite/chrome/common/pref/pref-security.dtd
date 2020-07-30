@@ -8,6 +8,10 @@
 <!ENTITY tracking.label                   "Brukarsporing">
 <!ENTITY trackingIntro.label              "Nettstadar kan spore korleis du bruker dei, og på den måten påverke personvernet ditt.">
 
+<!ENTITY doNotTrack.label                 "Fortell nettstadar at eg ikkje ønskjer å bli spora">
+<!ENTITY doNotTrack.accesskey             "T">
+<!ENTITY trackProtect.label               "Hindre sporingsaktivitet av kjende nettstadar">
+<!ENTITY trackProtect.accesskey           "o">
 
 
 
