@@ -53,6 +53,15 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Ifecka n uneflay: Aserwes n tegrumma n yiniten
+experimental-features-devtools-execution-context-selector =
+    .label = Ifecka n uneflay: Amsefren n usatal n uselkem
+experimental-features-devtools-compatibility-panel =
+    .label = Ifecka n uneflay: Agalis n umṣada
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Inagan n tuqqna: SameSite=Lax s wudem amezwer
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Inagan n tuqqna: SameSite=None yesra imyerr aɣelsan
