@@ -43,8 +43,8 @@ toolbar-context-menu-report-extension =
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
-    .label = Қайта аймалау мәзіріне жапсыру
-    .accesskey = п
+    .label = Қайта аймалау мәзіріне бекіту
+    .accesskey = к
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Құралдар панелінде автожасыру
     .accesskey = а
