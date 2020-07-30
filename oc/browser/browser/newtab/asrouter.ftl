@@ -259,4 +259,5 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Proteccion automatica contra las tacticas de seguiment enganairas
+cfr-whatsnew-clear-cookies-body = D’unes traçadors vos redirigisson cap d’autres sites web que depausan secrètament de cookies. Ara { -brand-short-name } escafa aqueles cookies per que siatz pas seguit.
 cfr-whatsnew-clear-cookies-image-alt = Illustracion d’un cookie blocat
