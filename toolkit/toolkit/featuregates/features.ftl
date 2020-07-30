@@ -40,7 +40,7 @@ experimental-features-web-api-inputmode-description = A nossa implementação do
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
+    .label = API da Web: <link rel="preload">
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
 experimental-features-web-api-link-preload-description = O atributo <a data-l10n-name="rel">rel</a> com o valor <code>"preload"</code> num elemento <a data-l10n-name="link">&lt;link&gt;</a> destina-se a ajudar a fornecer melhorias de desempenho, permitindo que descarregue recursos no início do ciclo de vida da página, garantindo que estes estejam disponíveis mais cedo e tenham uma probabilidade inferior de bloquear a renderização da página. Consulte <a data-l10n-name="readmore">“Pré-carregamento de conteúdo com o <code>rel="preload"</code>”</a> ou consulte o <a data-l10n-name="bugzilla">bug 1583604</a> para mais detalhes.
@@ -60,6 +60,14 @@ experimental-features-web-api-beforeinput-description = O evento global <a data-
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Para além de um construtor para o interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, bem como várias alterações relacionadas, tornam possível a criação direta de novas folhas de estilos sem ter de adicionar a folha ao HTML. Isto faz com que seja muito mais fácil criar folhas de estilo reutilizáveis para utilização no <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consulte o <a data-l10n-name="bugzilla">bug 1520690</a> para mais detalhes.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = API da Web: Media Session API
+experimental-features-media-session-api-description = Atualmente, toda a implementação do { -brand-short-name } da Media Session API é experimental. Esta API é utilizada para personalizar o tratamento de notificações relacionadas com media, gerir eventos e dados úteis para apresentar uma interface de utilizador para gerir a reprodução de media e obter metadados de ficheiros de media. Consulte o <a data-l10n-name="bugzilla">bug 1112032</a> para mais detalhes.
+experimental-features-devtools-color-scheme-simulation =
+    .label = Ferramentas de programação: Simulação de esquema de cores
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por predefinição
