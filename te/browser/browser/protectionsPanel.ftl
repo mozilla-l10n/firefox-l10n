@@ -41,6 +41,9 @@ protections-panel-content-blocking-cryptominers-label = క్రిప్టో
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = నిరోధించబడినవి
+protections-panel-not-blocking-label = అనుమతించబడినవి
+protections-panel-not-found-label = ఇవేమీ కనబడలేదు
 
 ##
 
