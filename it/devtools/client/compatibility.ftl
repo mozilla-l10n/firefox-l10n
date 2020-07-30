@@ -11,7 +11,11 @@ compatibility-all-elements-header = Tutti i problemi
 
 compatibility-issue-deprecated = (deprecato)
 compatibility-issue-experimental = (sperimentale)
+compatibility-issue-prefixneeded = (prefisso necessario)
 compatibility-issue-deprecated-experimental = (deprecato, sperimentale)
+compatibility-issue-deprecated-prefixneeded = (deprecato, prefisso necessario)
+compatibility-issue-experimental-prefixneeded = (sperimentale, prefisso necessario)
+compatibility-issue-deprecated-experimental-prefixneeded = (deprecato, sperimentale, prefisso necessario)
 
 ## Messages used as labels and titles for buttons in the footer
 
