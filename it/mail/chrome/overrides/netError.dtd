@@ -35,7 +35,7 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Acesso al file non consentito">
+<!ENTITY fileAccessDenied.title "Accesso al file non consentito">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Potrebbe essere stato spostato, cancellato o i permessi sul file potrebbero impedirne l’accesso.</li>

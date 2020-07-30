@@ -9,7 +9,7 @@
 <!ENTITY newfirstrun_urlbar_subtext "Veloce, riservato e sempre al tuo fianco.">
 <!ENTITY firstrun_panel_title_privacy "Privacy">
 <!ENTITY firstrun_privacy_message "Naviga come se nessuno stesse guardando">
-<!ENTITY firstrun_privacy_subtext "La navigaziona anonima con protezione antitracciamento blocca gli elementi traccianti durante la navigazione e non conserva alcuna cronologia quando hai finito.">
+<!ENTITY firstrun_privacy_subtext "La navigazione anonima con protezione antitracciamento blocca gli elementi traccianti durante la navigazione e non conserva alcuna cronologia quando hai finito.">
 <!ENTITY newfirstrun_privacy_subtext "La navigazione anonima blocca le pubblicità traccianti che cercano di pedinarti sul Web.">
 <!ENTITY firstrun_panel_title_customize "Personalizza">
 <!ENTITY firstrun_customize_message "Trasforma &brandShortName; nel “tuo” browser.">
