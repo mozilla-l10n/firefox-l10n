@@ -11,6 +11,7 @@ pw-empty-warning = Awalen-ik uffiren ittukelsen di tferkiwin web d iznan akked t
 pw-erased-ok = Tekkseḍ awali-ik uffir agejdan. { pw-empty-warning }
 pw-not-wanted = Ɣur-k! Tedmeḍ taɣtest dakken ur tesseqdaceḍ ara awal uffir agejdan.. { pw-empty-warning }
 pw-change2empty-in-fips-mode = Aqli-k tura deg uskar FIPS. Askar-agi yesra awal uffir agejdan ur nelli ara d ilem.
+failed-pp-change = Ur yezmir ara ad isnifel awal uffir agejdan.
 incorrect-pp = Ur teskecmeḍ ara awal uffir amiran ameɣtu. Ma ulac aɣilif, ɛreḍ tikkelt-nniḍen.
 pp-change-ok = Awal uffir agejdan yettubeddel akken iwata.
 pp-empty-warning = Awalen-ik·im uffiren d tsura tusligin yettwakelsen ur ttwammestanen ara.

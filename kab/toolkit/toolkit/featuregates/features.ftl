@@ -70,3 +70,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Inagan
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Inagan n tuqqna: Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Ifecka n uneflay: Tamseɣtayt n unmahal n umeẓlu
