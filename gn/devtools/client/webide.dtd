@@ -148,7 +148,7 @@
 <!ENTITY wifi_auth_header "Ñemuhára reraite">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Moambueha ojeikehápe oikotevẽ maranduve omboaje hag̃ua ko jeike rehegua. Ikatúpiko, emoha’ãnga QR ayvu kóva rire ta’ãnga'i rupi ambue mba’e’okápe.">
+<!ENTITY wifi_auth_scan_request "Moambueha ojeikehápe oikotevẽ maranduve omboaje hag̃ua ko jeike rehegua. Ikatúpiko, emoha’ãnga QR ayvu kóva rire ta’ãnga’i rupi ambue mba’e’okápe.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Ndorekói QR resa’ỹijoha">
