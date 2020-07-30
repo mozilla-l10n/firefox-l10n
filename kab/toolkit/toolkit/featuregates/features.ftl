@@ -65,3 +65,8 @@ experimental-features-cookie-samesite-lax-by-default2 =
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Inagan n tuqqna: SameSite=None yesra imyerr aɣelsan
+experimental-features-cookie-samesite-none-requires-secure2-description = Inagan n tuqqna s yimyerr “SameSite=None” sran imyerr aɣelsan. Tamahilt-a tesra “Inagan n tuqqna: SameSite=Lax by default”.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Inagan n tuqqna: Schemeful SameSite
