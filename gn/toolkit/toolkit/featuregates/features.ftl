@@ -41,6 +41,7 @@ experimental-features-web-api-link-preload =
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Emoneĩ umi ma’ẽha omohembiapóvo mba’epuru votõ ha myanyhẽha ñangarekohápe, emoma’ẽ añoitéramo tairenda rehe (techapyrã, emoambuévo tendayke mba’epuru pa’ũme), ha ani emoma’ẽnguévo anguja térã ambue mba’e’okáre. Eporandu <a data-l10n-name="bugzilla">bug 1617600</a> eguerekove hag̃ua mba’emimi.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -59,6 +60,7 @@ experimental-features-devtools-execution-context-selector =
     .label = Mboguatahára rembipuru: Momba’apo Jeregua Poravoha
 experimental-features-devtools-compatibility-panel =
     .label = Mboguatahára rembipuru: Ojokupytyva Rupa
+experimental-features-devtools-compatibility-panel-description = Ta’ãngarupa yke kuatiarogue Moambuekuaaha ohechaukáva marandu omyesakãva jokupyty reko tembipuru’i kundahára pa’ũme. Eporandu <a data-l10n-name="bugzilla">bug 1584464</a> erekove hag̃ua mba’emimi.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Kookie: SameSite=Lax ijypykuéva
