@@ -169,7 +169,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY columnChooser.tooltip                          "Selezionare le colonne da visualizzare">
 <!ENTITY newContactButton.tooltip                       "Crea un nuovo contatto in rubrica">
 <!ENTITY newlistButton.tooltip                          "Crea una nuova lista">
-<!ENTITY editPropertiesButton.tooltip                   "Modifica l'oggetto selezionato">
+<!ENTITY editPropertiesButton.tooltip                   "Modifica l’oggetto selezionato">
 <!ENTITY editAbPropertiesButton.tooltip                 "Modifica le proprietà della rubrica selezionata">
 <!ENTITY editContactPropertiesButton.tooltip            "Modifica il contatto selezionato">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Modifica la lista di distribuzione selezionata">

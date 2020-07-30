@@ -17,7 +17,7 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
 <!ENTITY retention.label "Politica di conservazione">
-<!ENTITY retentionUseAccount.label  "Utilizza le impostazioni dell'account">
+<!ENTITY retentionUseAccount.label  "Utilizza le impostazioni dell’account">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "giorni">
 <!ENTITY message.label "messaggi più recenti">
@@ -37,12 +37,12 @@
 <!ENTITY folderCheckForNewMessages2.label         "Durante lo scaricamento dei nuovi messaggi per questo account controllare sempre questa cartella">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
-<!ENTITY offlineFolder.check.label               "Seleziona questa cartella per l'uso non in linea">
+<!ENTITY offlineFolder.check.label               "Seleziona questa cartella per l’uso non in linea">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Scarica ora">
 <!ENTITY offlineFolder.button.accesskey          "o">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Seleziona questo gruppo di discussione per l'uso non in linea">
+<!ENTITY selectofflineNewsgroup.check.label      "Seleziona questo gruppo di discussione per l’uso non in linea">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "S">
 <!ENTITY offlineNewsgroup.button.label           "Scarica ora">
 <!ENTITY offlineNewsgroup.button.accesskey       "o">

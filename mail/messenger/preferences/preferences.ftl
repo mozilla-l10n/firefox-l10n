@@ -82,7 +82,7 @@ update-setting-write-failure-title = Errore salvataggio preferenze di aggiorname
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Procedere con l’aggiornamento di { -brand-short-name }?
@@ -119,7 +119,7 @@ focus-search-shortcut-alt =
     .key = k
 general-legend = Pagina iniziale di { -brand-short-name }
 start-page-label =
-    .label = All'apertura di { -brand-short-name } mostra la pagina iniziale nell'area messaggi
+    .label = All’apertura di { -brand-short-name } mostra la pagina iniziale nell’area messaggi
     .accesskey = d
 location-label =
     .value = Posizione:
@@ -137,7 +137,7 @@ remove-search-engine =
 minimize-to-tray-label =
     .label = Quando { -brand-short-name } è ridotto a icona, spostalo nell’area di notifica
     .accesskey = n
-new-message-arrival = All'arrivo di un messaggio:
+new-message-arrival = All’arrivo di un messaggio:
 mail-play-sound-label =
     .label =
         { PLATFORM() ->
@@ -152,7 +152,7 @@ mail-play-sound-label =
 mail-play-button =
     .label = Ascolta
     .accesskey = A
-change-dock-icon = Modifica le preferenze per l'icona dell'app
+change-dock-icon = Modifica le preferenze per l’icona dell’app
 app-icon-options =
     .label = Opzioni icona applicazione…
     .accesskey = n
@@ -164,7 +164,7 @@ customize-alert-label =
     .label = Personalizza…
     .accesskey = z
 tray-icon-label =
-    .label = Mostra un'icona nell'area di notifica
+    .label = Mostra un’icona nell’area di notifica
     .accesskey = t
 mail-system-sound-label =
     .label = Suono predefinito di sistema per nuova posta
@@ -176,12 +176,12 @@ mail-browse-sound-button =
     .label = Sfoglia…
     .accesskey = S
 enable-gloda-search-label =
-    .label = Attiva la ricerca globale e l'indicizzazione
+    .label = Attiva la ricerca globale e l’indicizzazione
     .accesskey = E
 datetime-formatting-legend = Formattazione data e ora
 language-selector-legend = Lingua
 allow-hw-accel =
-    .label = Utilizza l'accelerazione hardware quando disponibile
+    .label = Utilizza l’accelerazione hardware quando disponibile
     .accesskey = h
 store-type-label =
     .value = Modalità di salvataggio dei messaggi per i nuovi account:
@@ -199,7 +199,7 @@ smooth-scrolling-label =
     .accesskey = m
 system-integration-legend = Integrazione col sistema
 always-check-default =
-    .label = Controlla sempre all'avvio se { -brand-short-name } è il programma di posta predefinito
+    .label = Controlla sempre all’avvio se { -brand-short-name } è il programma di posta predefinito
     .accesskey = A
 check-default-button =
     .label = Controlla ora…
@@ -231,7 +231,7 @@ automatic-updates-label =
     .label = Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)
     .accesskey = n
 check-updates-label =
-    .label = Controlla aggiornamenti ma permetti all'utente di scegliere se installarli
+    .label = Controlla aggiornamenti ma permetti all’utente di scegliere se installarli
     .accesskey = C
 update-history-button =
     .label = Mostra cronologia aggiornamenti
@@ -246,7 +246,7 @@ network-settings-button =
     .label = Impostazioni…
     .accesskey = I
 offline-legend = Non in linea
-offline-settings = Configura le impostazioni 'non in linea'
+offline-settings = Configura le impostazioni “non in linea”
 offline-settings-button =
     .label = Non in linea…
     .accesskey = N
@@ -398,7 +398,7 @@ inline-label =
 as-attachment-label =
     .label = come allegati
 extension-label =
-    .label = Aggiungi l'estensione al nome del file
+    .label = Aggiungi l’estensione al nome del file
     .accesskey = e
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
@@ -449,7 +449,7 @@ format-description = Configura la formattazione del testo:
 send-options-label =
     .label = Opzioni di invio…
     .accesskey = d
-autocomplete-description = Durante la scrittura dell'indirizzo controlla le corrispondenze in:
+autocomplete-description = Durante la scrittura dell’indirizzo controlla le corrispondenze in:
 ab-label =
     .label = Rubriche locali
     .accesskey = u
@@ -462,7 +462,7 @@ edit-directories-label =
     .label = Modifica cartelle…
     .accesskey = M
 email-picker-label =
-    .label = Aggiungi automaticamente l'indirizzo della posta in uscita a:
+    .label = Aggiungi automaticamente l’indirizzo della posta in uscita a:
     .accesskey = A
 default-directory-label =
     .value = Directory di avvio predefinita nella finestra rubrica:
@@ -559,7 +559,7 @@ junk-label =
     .label = Quando i messaggi sono segnati come posta indesiderata:
     .accesskey = Q
 junk-move-label =
-    .label = Spostali nella cartella "Indesiderata" dell'utente
+    .label = Spostali nella cartella “Indesiderata” dell’utente
     .accesskey = o
 junk-delete-label =
     .label = Eliminali
@@ -580,7 +580,7 @@ phishing-description = { -brand-short-name } è in grado di analizzare i messagg
 phishing-label =
     .label = Avvisa sempre se il messaggio che si sta leggendo è un possibile tentativo di frode
     .accesskey = e
-antivirus-description = { -brand-short-name } è in grado di semplificare il lavoro del software antivirus, permettendo l'analisi della posta in arrivo prima che venga salvata localmente.
+antivirus-description = { -brand-short-name } è in grado di semplificare il lavoro del software antivirus, permettendo l’analisi della posta in arrivo prima che venga salvata localmente.
 antivirus-label =
     .label = Consenti ai programmi antivirus di mettere in quarantena i singoli messaggi in arrivo.
     .accesskey = n
@@ -592,7 +592,7 @@ certificate-ask =
     .label = Chiedere ogni volta
     .accesskey = C
 ocsp-label =
-    .label = Interrogare i risponditori OCSP per confermare l'attuale validità dei certificati
+    .label = Interrogare i risponditori OCSP per confermare l’attuale validità dei certificati
     .accesskey = e
 certificate-button =
     .label = Gestisci certificati…
@@ -609,7 +609,7 @@ startup-label =
 offline-label =
     .label = Mantieni gli account di chat scollegati
 auto-connect-label =
-    .label = Collega l'account di chat automaticamente
+    .label = Collega l’account di chat automaticamente
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -625,7 +625,7 @@ idle-time-label = minuti di inattività
 ##
 
 away-message-label =
-    .label = ed imposta il mio stato come 'Non disponibile' con questo messaggio:
+    .label = ed imposta il mio stato come “Non disponibile” con questo messaggio:
     .accesskey = e
 send-typing-label =
     .label = Mostra le notifiche di scrittura nelle conversazioni
@@ -643,8 +643,8 @@ notification-empty =
 notification-type-label =
     .label =
         { PLATFORM() ->
-            [macos] Anima l'icona nel dock
-           *[other] Fai lampeggiare l'elemento nella barra delle applicazioni
+            [macos] Anima l’icona nel dock
+           *[other] Fai lampeggiare l’elemento nella barra delle applicazioni
         }
     .accesskey =
         { PLATFORM() ->
@@ -716,4 +716,3 @@ search-results-empty-message =
 search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web dedicato al supporto di { -brand-short-name }</a>.
 
 ## Preferences UI Search Results
-

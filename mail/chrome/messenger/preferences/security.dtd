@@ -9,7 +9,7 @@
 <!ENTITY junkMail.intro "Scegliere le impostazioni predefinite per la posta indesiderata. Le impostazioni di posta indesiderata specifiche possono essere configurate nelle Impostazioni account.">
 <!ENTITY manualMark.label "Quando i messaggi sono segnati come posta indesiderata:">
 <!ENTITY manualMark.accesskey "Q">
-<!ENTITY manualMarkModeMove.label "Spostali nella cartella &quot;Indesiderata&quot; dell'utente">
+<!ENTITY manualMarkModeMove.label "Spostali nella cartella &quot;Indesiderata&quot; dell’utente">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Eliminali">
 <!ENTITY manualMarkModeDelete.accesskey "E">
@@ -34,6 +34,6 @@
 <!ENTITY changeMasterPassword.accesskey "C">
 <!ENTITY savedPasswords.label "Password salvate…">
 <!ENTITY savedPasswords.accesskey "P">
-<!ENTITY antiVirus.intro "&brandShortName; è in grado di semplificare il lavoro del software antivirus, permettendo l'analisi della posta in arrivo prima che venga salvata localmente.">
+<!ENTITY antiVirus.intro "&brandShortName; è in grado di semplificare il lavoro del software antivirus, permettendo l’analisi della posta in arrivo prima che venga salvata localmente.">
 <!ENTITY antiVirus.label "Consenti ai programmi antivirus di mettere in quarantena i singoli messaggi in arrivo.">
 <!ENTITY antiVirus.accesskey "n">

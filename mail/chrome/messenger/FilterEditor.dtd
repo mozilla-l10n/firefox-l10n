@@ -23,7 +23,7 @@
 <!ENTITY contextManual.accesskey "M">
 <!ENTITY contextBeforeCls.label "Prima del controllo indesiderata">
 <!ENTITY contextAfterCls.label "Dopo il controllo indesiderata">
-<!ENTITY contextOutgoing.label "Dopo l'invio">
+<!ENTITY contextOutgoing.label "Dopo l’invio">
 <!ENTITY contextOutgoing.accesskey "D">
 <!ENTITY contextArchive.label "Archiviazione">
 <!ENTITY contextArchive.accesskey "A">
@@ -34,7 +34,7 @@
 <!ENTITY filterActionDesc.accesskey "E">
 
 <!ENTITY filterActionOrderWarning.label "Nota: le azioni del filtro saranno eseguite in un ordine differente.">
-<!ENTITY filterActionOrder.label "Mostra l'ordine di esecuzione">
+<!ENTITY filterActionOrder.label "Mostra l’ordine di esecuzione">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Sposta il messaggio in">
@@ -52,8 +52,8 @@
 <!ENTITY fetchFromPOP.label "Scarica dal server POP">
 <!ENTITY ignoreThread.label "Ignora la discussione">
 <!ENTITY ignoreSubthread.label "Ignora le sotto discussioni">
-<!ENTITY watchThread.label "Tieni d'occhio la discussione">
-<!ENTITY stopExecution.label "Interrompi l'esecuzione dei filtri">
+<!ENTITY watchThread.label "Tieni d’occhio la discussione">
+<!ENTITY stopExecution.label "Interrompi l’esecuzione dei filtri">
 
 <!ENTITY addAction.tooltip "Aggiungere una nuova azione">
 <!ENTITY removeAction.tooltip "Elimina questa azione">

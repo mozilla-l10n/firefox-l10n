@@ -4,7 +4,7 @@
 
 <!ENTITY notificationsDialog2.title "Personalizzazione delle notifiche per nuova posta">
 <!ENTITY window.width "30em">
-<!ENTITY alertCustomization.intro "Scegliere quali campi mostrare nell'avviso:">
+<!ENTITY alertCustomization.intro "Scegliere quali campi mostrare nell’avviso:">
 <!ENTITY previewText.label "Testo anteprima messaggio">
 <!ENTITY previewText.accesskey "T">
 <!ENTITY subject.label "Oggetto">

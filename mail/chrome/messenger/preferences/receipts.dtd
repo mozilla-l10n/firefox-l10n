@@ -15,7 +15,7 @@
 <!ENTITY never.accesskey "n">
 <!ENTITY returnSome.label "Consenti ricevuta di ritorno per alcuni messaggi">
 <!ENTITY returnSome.accesskey "r">
-<!ENTITY notInToCc.label "Se il proprio indirizzo non è nel campo 'A' o 'Cc':">
+<!ENTITY notInToCc.label "Se il proprio indirizzo non è nel campo “A” o “Cc”:">
 <!ENTITY notInToCc.accesskey "e">
 <!ENTITY outsideDomain.label "Se il mittente è esterno al proprio dominio:">
 <!ENTITY outsideDomain.accesskey "t">

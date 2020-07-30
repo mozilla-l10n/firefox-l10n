@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title.label "Ricezione certificati">
-<!ENTITY info.message "Ricerca in corso del certificato dei destinatari nella directory. L'operazione potrebbe richiedere alcuni minuti.">
+<!ENTITY info.message "Ricerca in corso del certificato dei destinatari nella directory. L’operazione potrebbe richiedere alcuni minuti.">
 <!ENTITY stop.label "Interrompi ricerca">

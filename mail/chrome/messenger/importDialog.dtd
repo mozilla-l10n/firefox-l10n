@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
@@ -33,7 +33,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Questo processo importerà in &brandShortName; messaggi di posta, voci di rubrica, preferenze e/o filtri da altri programmi di posta e rubriche comuni.">
 <!ENTITY importDescription2.label "Una volta importate, vi si potrà accedere da &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Selezionare il programma dal quale eseguire l'importazione:">
+<!ENTITY selectDescription.label  "Selezionare il programma dal quale eseguire l’importazione:">
 <!ENTITY selectDescriptionB.label "Selezionare un account esistente o crearne uno nuovo:">
 <!ENTITY selectDescription.accesskey "S">
 <!ENTITY acctName.label           "Nome:">

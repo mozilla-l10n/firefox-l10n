@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Per ricevere messaggi è necessario prima creare un account.">
 <!ENTITY accountTypeTitle.label "Configurazione nuovo account">
-<!ENTITY accountTypeDesc2.label "Questa procedura guidata raccoglierà le informazioni necessarie per creare un account. Se non si conoscono le informazioni richieste contattare l'amministratore di sistema o il fornitore di servizi internet.">
+<!ENTITY accountTypeDesc2.label "Questa procedura guidata raccoglierà le informazioni necessarie per creare un account. Se non si conoscono le informazioni richieste contattare l’amministratore di sistema o il fornitore di servizi internet.">
 <!ENTITY accountTypeDirections.label "Selezionare il tipo di account da configurare:">
 <!ENTITY accountTypeMail.label "Account di posta">
 <!ENTITY accountTypeMail.accesskey "c">
@@ -25,7 +25,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identità">
-<!ENTITY identityDesc.label "Ogni account ha una propria identità, cioè l'insieme di informazioni che permettono al destinatario di identificare il mittente.">
+<!ENTITY identityDesc.label "Ogni account ha una propria identità, cioè l’insieme di informazioni che permettono al destinatario di identificare il mittente.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Inserire il nome che apparirà nel campo &quot;Da:&quot; dei propri messaggi in uscita">
@@ -121,8 +121,8 @@
 <!ENTITY newsServerNamePrefix.label "Nome server delle news (NNTP):">
 <!ENTITY downloadOnLogin.label "Scarica subito i messaggi">
 <!ENTITY downloadOnLogin.accesskey "c">
-<!ENTITY deferStorageDesc.label "Togliere la spunta per conservare la posta di questo account in una cartella separata. Questo sposterà l'account al primo livello. In caso contrario farà parte della cartella 'Posta in arrivo' globale delle Cartelle locali.">
-<!ENTITY deferStorage.label "Utilizza 'Posta in arrivo' globale (posta nelle 'Cartelle Locali')">
+<!ENTITY deferStorageDesc.label "Togliere la spunta per conservare la posta di questo account in una cartella separata. Questo sposterà l’account al primo livello. In caso contrario farà parte della cartella “Posta in arrivo” globale delle Cartelle locali.">
+<!ENTITY deferStorage.label "Utilizza “Posta in arrivo” globale (posta nelle “Cartelle Locali”)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Fare clic su Fine per salvare queste impostazioni e uscire dalla creazione guidata dell'account.">
+<!ENTITY clickFinish.label "Fare clic su Fine per salvare queste impostazioni e uscire dalla creazione guidata dell’account.">
 <!ENTITY clickFinish.labelMac "Fare clic su Fatto per salvare queste impostazioni e uscire dalla creazione guidata del nuovo account.">

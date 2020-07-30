@@ -72,7 +72,7 @@
 <!ENTITY otherActionsPrint1.accesskey "S">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Mostrare il pannello degli allegati dall'inizio">
+<!ENTITY startExpandedCmd.label    "Mostrare il pannello degli allegati dall’inizio">
 <!ENTITY startExpandedCmd.accesskey    "M">
 
 <!-- Attachment context menu items -->
@@ -109,7 +109,7 @@
 <!ENTITY copyLinkCmd.label        "Copia link">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY CopyMessageId.label "Copiare l'identificativo del messaggio">
+<!ENTITY CopyMessageId.label "Copiare l’identificativo del messaggio">
 <!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Apri il messaggio con questo ID">
 <!ENTITY OpenMessageForMsgId.accesskey "A">

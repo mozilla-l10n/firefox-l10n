@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Impossibile contattare il server">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Verificare se l'indirizzo contiene errori di battitura del tipo
+  <li>Verificare se l’indirizzo contiene errori di battitura del tipo
     <strong>ww</strong>.example.com invece di
     <strong>www</strong>.example.com</li>
   <li>Se non è possibile caricare alcuna pagina, controllare la connessione di rete del computer.</li>
@@ -38,7 +38,7 @@
 <!ENTITY fileAccessDenied.title "Acesso al file non consentito">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Potrebbe essere stato spostato, cancellato o i permessi sul file potrebbero impedirne l'accesso.</li>
+  <li>Potrebbe essere stato spostato, cancellato o i permessi sul file potrebbero impedirne l’accesso.</li>
 </ul>
 ">
 
@@ -47,7 +47,7 @@
 <p>Per qualche motivo &brandShortName; non è in grado di caricare questa pagina.</p>
 ">
 
-<!ENTITY malformedURI.title "L'indirizzo non è valido">
+<!ENTITY malformedURI.title "L’indirizzo non è valido">
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Gli indirizzi internet normalmente si scrivono nella forma
@@ -97,7 +97,7 @@
 <!ENTITY proxyConnectFailure.title "Connessione rifiutata dal server proxy">
 <!ENTITY proxyConnectFailure.longDesc "<ul>
    <li>Verificare la correttezza delle impostazioni del proxy.</li>
-   <li>Contattare l'amministratore di rete per verificare se il server proxy è funzionante.</li></ul>">
+   <li>Contattare l’amministratore di rete per verificare se il server proxy è funzionante.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Impossibile stabilire una connessione con il server proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul>
@@ -124,7 +124,7 @@
 <!ENTITY nssFailure2.title "Connessione sicura non riuscita">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>La pagina che si sta tentando di visualizzare non può essere mostrata in quanto non è possibile verificare l'autenticità dei dati ricevuti.</li>
+  <li>La pagina che si sta tentando di visualizzare non può essere mostrata in quanto non è possibile verificare l’autenticità dei dati ricevuti.</li>
   <li>Contattare i proprietari del sito web per segnalare il problema.</li>
 </ul>
 ">
@@ -151,9 +151,9 @@
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ha bloccato il caricamento della pagina in questo contesto poiché la stessa include un criterio X-Frame-Options che lo impedisce.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Errore: contenuto corrotto">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina non può essere mostrata a causa di un errore di trasmissione dati.</p><ul><li>Contattare l'amministratore del sito per segnalare il problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina non può essere mostrata a causa di un errore di trasmissione dati.</p><ul><li>Contattare l’amministratore del sito per segnalare il problema.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Oppure è possibile aggiungere un'eccezione">
+<!ENTITY securityOverride.linkText "Oppure è possibile aggiungere un’eccezione">
 <!ENTITY securityOverride.getMeOutOfHereButton "Allontanarsi da questo sito">
 <!ENTITY securityOverride.exceptionButtonLabel "Aggiungi eccezione…">
 
@@ -163,7 +163,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>È sconsigliato aggiungere un'eccezione nel caso in cui si stia utilizzando una connessione non completamente affidabile oppure se è la prima volta che questi avvisi di sicurezza appaiono con questo server.</p>
+<p>È sconsigliato aggiungere un’eccezione nel caso in cui si stia utilizzando una connessione non completamente affidabile oppure se è la prima volta che questi avvisi di sicurezza appaiono con questo server.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
@@ -175,7 +175,7 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Connessione non sicura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una tecnologia di sicurezza obsoleta e vulnerabile agli attacchi. Un attaccante potrebbe facilmente rivelare informazioni che si era pensato essere sicure. Il sito dovrà essere aggiornato dall'amministratore prima che sia possibile visitarlo.</p><p>Codice errore: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una tecnologia di sicurezza obsoleta e vulnerabile agli attacchi. Un attaccante potrebbe facilmente rivelare informazioni che si era pensato essere sicure. Il sito dovrà essere aggiornato dall’amministratore prima che sia possibile visitarlo.</p><p>Codice errore: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagina bloccata">
 

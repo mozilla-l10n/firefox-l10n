@@ -4,7 +4,7 @@
 
 notifications-dialog-window =
     .title = Personalizzazione delle notifiche per nuova posta
-customize-alert-description = Scegliere quali campi mostrare nell'avviso:
+customize-alert-description = Scegliere quali campi mostrare nell’avviso:
 preview-text-checkbox =
     .label = Testo anteprima messaggio
     .accesskey = T
