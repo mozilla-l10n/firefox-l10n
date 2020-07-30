@@ -37,6 +37,7 @@ master-password-warning = Eñeha’ãke nemandu’a pe ñe’ẽñemi ha’etév
 remove-password =
     .title = Ñe’ẽñemi ha’etéva mboguete
 primary-password-admin = Ne ñangarekohára oikotevẽ oreko mbohekópe ñe’ẽñemi ha’etéva eñongatu hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi.
+primary-password-warning = Eñeha’ãke nemandu’a pe ñe’ẽñemi ha’etéva emoingeva’ekuére. Nderesarái mba'éramo, ndaikatumo’ãi eike mba’evéichagua marandu omo’ãvape.
 remove-primary-password =
     .title = Emboguete Ñe’ẽñemi Ha’etéva
 remove-info =
