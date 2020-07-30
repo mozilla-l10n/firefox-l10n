@@ -82,6 +82,13 @@ move-tabs =
 move-tab =
     .label = Siirrä välilehti
     .accesskey = r
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sulje välilehti
+           *[other] Sulje välilehdet
+        }
+    .accesskey = S
 tab-context-move-tabs =
     .label =
         { $tabCount ->
