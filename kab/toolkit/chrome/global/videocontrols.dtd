@@ -42,6 +42,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Senker tavidyut deg uɣawas n sdat mi ara txeddmeḍ ayen-nniḍen deg &brandShortName;">
 
 <!ENTITY error.aborted "Asali n tvidyut yeḥbes">
 <!ENTITY error.network "Urar n tvidyutt yeḥbes acku tella tuccḍa deg uẓeṭṭa.">

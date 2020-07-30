@@ -27,6 +27,14 @@ experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Amedya: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = API web: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
 # The title of the experiment should be kept in English as it may be referenced
@@ -37,6 +45,14 @@ experimental-features-css-focus-visible =
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Inagan n tuqqna: SameSite=Lax s wudem amezwer
