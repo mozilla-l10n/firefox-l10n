@@ -68,6 +68,13 @@ experimental-features-media-session-api =
 experimental-features-media-session-api-description = Atualmente, toda a implementação do { -brand-short-name } da Media Session API é experimental. Esta API é utilizada para personalizar o tratamento de notificações relacionadas com media, gerir eventos e dados úteis para apresentar uma interface de utilizador para gerir a reprodução de media e obter metadados de ficheiros de media. Consulte o <a data-l10n-name="bugzilla">bug 1112032</a> para mais detalhes.
 experimental-features-devtools-color-scheme-simulation =
     .label = Ferramentas de programação: Simulação de esquema de cores
+experimental-features-devtools-color-scheme-simulation-description = Adiciona uma opção para simular diferentes esquemas de cores, permitindo testar media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. A utilização desta consulta de media permite que a folha de estilo indique se o utilizador prefere uma interface de utilizador clara ou escura. Este recurso permite que você teste o seu código sem precisar de alterar as configurações do seu navegador (ou sistema operativo, se o navegador seguir uma configuração de esquema de cores global do sistema). Consulte o <a data-l10n-name="bugzilla1">bug 1550804</a> e o <a data-l10n-name="bugzilla2">bug 1137699</a> para obter mais detalhes.
+experimental-features-devtools-execution-context-selector =
+    .label = Ferramentas de programação: Seletor do contexto de execução
+experimental-features-devtools-execution-context-selector-description = Esta funcionalidade mostra um botão na linha de comando da consola que permite alterar o contexto em que a expressão inserida será executada. Consulte o <a data-l10n-name="bugzilla1">bug 1605154</a> e o <a data-l10n-name="bugzilla2">bug 1605153</a> para obter mais detalhes.
+experimental-features-devtools-compatibility-panel =
+    .label = Ferramentas de programação: Painel de compatibilidade
+experimental-features-devtools-compatibility-panel-description = Um painel lateral para o Inspetor de página que mostra informações que detalham o estado de compatibilidade da sua aplicação entre navegadores. Consulte o <a data-l10n-name="bugzilla">bug 1584464</a> para obter mais detalhes.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax por predefinição
@@ -81,3 +88,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = As coo
 experimental-features-abouthome-startup-cache =
     .label = Cache de arranque de about:home
 experimental-features-abouthome-startup-cache-description = Uma cache para o documento about:home inicial carregado por predefinição na inicialização. O objetivo da cache é melhorar o desempenho da inicialização.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
