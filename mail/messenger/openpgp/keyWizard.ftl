@@ -17,6 +17,7 @@ radio-import-key =
 
 openpgp-generate-key-title = 生成 OpenPGP 密钥
 openpgp-keygen-expiry-title = 密钥到期
+openpgp-keygen-advanced-title = 高级设置
 openpgp-keygen-keytype =
     .value = 密钥类型：
     .accesskey = t
@@ -63,3 +64,5 @@ openpgp-import-fingerprint-label = 指纹
 
 ## External Key section
 
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
