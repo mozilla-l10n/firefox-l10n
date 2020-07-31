@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Pišćo mjenjej, namakajśo wěcej: Pytajśo z { $engineName } direktnje ze swójogo adresowego póla.
 urlbar-search-tips-redirect-2 = Zachopśo swójo pytanje w adresowem pólu, aby naraźenja wót { $engineName } a ze swójeje pśeglědowańskeje historije wiźeł.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Cytańske znamjenja
+urlbar-search-mode-tabs = Rejtariki
+urlbar-search-mode-history = Historija
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,26 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ako standardnu pytnicu za priwatne wokna nastajiś
     .accesskey = A
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Cytańske znamjenja ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Rejariki ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historija ({ $restrict })
 
 ## Bookmark Panel
 
