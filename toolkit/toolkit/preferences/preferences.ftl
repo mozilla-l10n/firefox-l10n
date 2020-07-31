@@ -37,6 +37,7 @@ master-password-warning = Procura recordar bien o escribir en un lugar seguro es
 remove-password =
     .title = Remover la contraseña maestra
 primary-password-admin = Tu administrador requiere que tengas configurada una contraseña primaria para guardar las credenciales y contraseñas.
+primary-password-description = Una contraseña primaria se usa para proteger cierta información sensible como credenciales y contraseñas, en este dispositivo. Si creas una contraseña primaria, deberás introducirla una vez por sesión cuando { -brand-short-name } recupere la información que estás protegiendo.
 primary-password-warning = Procura recordar bien o escribir en un lugar seguro esta contraseña primaria ya que, si la olvidas, no podrás acceder a ninguna información protegida por ésta en este dispositivo.
 remove-primary-password =
     .title = Remover la contraseña primaria
