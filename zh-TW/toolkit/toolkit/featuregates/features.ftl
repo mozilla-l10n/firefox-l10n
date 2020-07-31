@@ -98,3 +98,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = 在「除錯器」面板當中開啟對 Service Worker 的實驗性支援。此功能可能會拖慢開發者工具運作，並增加記憶體消耗量。
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Graphics: Smooth Pinch Zoom
