@@ -24,6 +24,9 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "詳細資訊">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
+
+<!ENTITY historyGroup.label                "瀏覽紀錄">
+
 <!ENTITY itemHistory.label                 "瀏覽紀錄">
 <!ENTITY itemHistory.accesskey             "B">
 <!ENTITY itemCookies.label                 "Cookies">
@@ -37,4 +40,3 @@ that require it.  -->
 <!ENTITY sanitizeEverythingUndoWarning     "此動作無法復原。">
 
 <!ENTITY dialog.width                 "28em">
-
