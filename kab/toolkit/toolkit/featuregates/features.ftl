@@ -30,6 +30,7 @@ experimental-features-web-gpu-description2 = API-agi tamaynut tettmuddu asefrek 
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Amedya: AVIF
+experimental-features-media-avif-description = S tmahilt-a yettwaremden, { -brand-short-name } yessefrak amasal AV1 n ufaylu n tugna (AVIF). Wagi d amasal n ufaylu n tuqna ireṣṣan i yessexdamen tizemmar n yilguritmen n uskussem n tvidyut AV1 i usemẓi n teɣzi n tugna. Wali <a data-l10n-name="bugzilla">abug 1443863</a> i wugar n telqayt.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
