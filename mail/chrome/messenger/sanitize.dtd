@@ -24,6 +24,9 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Подробиці">
 <!ENTITY detailsProgressiveDisclosure.accesskey "р">
 
+
+<!ENTITY historyGroup.label                "Історія">
+
 <!ENTITY itemHistory.label                 "Історія перегляду">
 <!ENTITY itemHistory.accesskey             "І">
 <!ENTITY itemCookies.label                 "Куки">
