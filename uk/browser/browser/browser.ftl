@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Вводьте менше, знаходьте більше: Шукайте з { $engineName } прямо з панелі адреси.
 urlbar-search-tips-redirect-2 = Розпочніть пошук з адресного рядка, щоб побачити пропозиції від { $engineName } та історії перегляду.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Закладки
+urlbar-search-mode-tabs = Вкладки
+urlbar-search-mode-history = Історія
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,26 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Встановити типовим засобом пошуку для приватних вікон
     .accesskey = х
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Закладки ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Вкладки ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Історія ({ $restrict })
 
 ## Bookmark Panel
 

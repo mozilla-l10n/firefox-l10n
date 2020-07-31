@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Інструменти розробника: зневадження Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Вмикає експериментальну підтримку Service Workers на панелі Зневадження. Ця функція може уповільнити роботу інструментів розробника та збільшити споживання пам'яті.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Графіка: плавне масштабування двома пальцями
+experimental-features-graphics-desktop-zooming-description = Увімкнути підтримку плавного масштабування двома пальцями для сенсорних екранів та точних сенсорних панелей.
