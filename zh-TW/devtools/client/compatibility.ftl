@@ -12,7 +12,11 @@ compatibility-all-elements-header = 所有問題
 
 compatibility-issue-deprecated = （已棄用）
 compatibility-issue-experimental = （實驗中）
+compatibility-issue-prefixneeded = （需要前綴）
 compatibility-issue-deprecated-experimental = （已棄用、實驗中）
+compatibility-issue-deprecated-prefixneeded = （已棄用、需要前綴）
+compatibility-issue-experimental-prefixneeded = （實驗中、需要前綴）
+compatibility-issue-deprecated-experimental-prefixneeded = （已棄用、實驗中、需要前綴）
 
 ## Messages used as labels and titles for buttons in the footer
 
