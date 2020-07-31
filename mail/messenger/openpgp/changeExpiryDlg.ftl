@@ -6,4 +6,3 @@ expire-never-label =
     .label = 密钥永不过期
 expire-in-label =
     .label = 密钥将到期于：
-expire-in-months = 月

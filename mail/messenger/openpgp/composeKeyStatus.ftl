@@ -4,3 +4,4 @@
 
 openpgp-compose-key-status-status =
     .label = 状态
+openpgp-recip-good = 确定
