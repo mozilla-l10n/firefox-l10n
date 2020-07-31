@@ -12,7 +12,11 @@ compatibility-all-elements-header = Wšě problemy
 
 compatibility-issue-deprecated = (zestarjeny)
 compatibility-issue-experimental = (eksperimentelny)
+compatibility-issue-prefixneeded = (prefiks trěbny)
 compatibility-issue-deprecated-experimental = (zestarjeny, eksperimentelny)
+compatibility-issue-deprecated-prefixneeded = (zestarjeny, prefiks trěbny)
+compatibility-issue-experimental-prefixneeded = (eksperimentelny, prefiks trěbny)
+compatibility-issue-deprecated-experimental-prefixneeded = (zestarjeny, eksperimentelny, prefiks trěbny)
 
 ## Messages used as labels and titles for buttons in the footer
 
