@@ -57,6 +57,9 @@ onboarding-multistage-import-header = Importa tus contraseñas, marcadores y <sp
 onboarding-multistage-import-subtitle = ¿Vienes de otro navegador? Es fácil traer todo a { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Iniciar importación
 onboarding-multistage-import-secondary-button-label = Ahora no
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Los sitios listados aquí fueron encontrados en este dispositivo. { -brand-short-name } no guarda ni sincroniza datos de otro navegador a menos que elijas importarlos.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
