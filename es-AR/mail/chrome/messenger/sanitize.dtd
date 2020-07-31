@@ -24,6 +24,9 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detalles">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
+
+<!ENTITY historyGroup.label                "">
+
 <!ENTITY itemHistory.label                 "Historial de navegación">
 <!ENTITY itemHistory.accesskey             "H">
 <!ENTITY itemCookies.label                 "Cookies">
@@ -37,4 +40,3 @@ that require it.  -->
 <!ENTITY sanitizeEverythingUndoWarning     "Esta acción no puede deshacerse.">
 
 <!ENTITY dialog.width                 "30em">
-
