@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Values for changepassword.xul -->
+<!-- Values for changepassword.xhtml -->
 <!ENTITY setPassword.title  "ముఖ్య సంకేతపదాన్ని మార్చు">
 <!ENTITY setPassword.tokenName.label "రక్షణ సాధనం">
 <!ENTITY setPassword.oldPassword.label "ప్రస్తుత సంకేతపదం:">
@@ -10,7 +10,7 @@
 <!ENTITY setPassword.reenterPassword.label "కొత్త సంకేతపదం (మరలా):">
 <!ENTITY setPassword.meter.label "సంకేతపద నాణ్యతా కొలబద్ద">
 
-<!-- Values for resetpassword.xul -->
+<!-- Values for resetpassword.xhtml -->
 <!ENTITY resetPasswordButtonLabel "పునరుద్ధరించు">
 <!ENTITY resetPassword.title  "ముఖ్య సంకేతపదాన్ని పునరుద్ధరించు">
 <!ENTITY resetPassword.text  "మీరు మీ ముఖ్య సంకేతపదాన్ని తిరిగిఉంచేటట్లైతే , మీ నిల్వవున్న వెబ్ మరియు ఇ-మెయిల్ సంకేతపదాలు, ఫారము డాటా, వ్యక్తిగత ధృవీకరణపత్రాలు, మరియు వ్యక్తిగత కీలు మర్చిపోబడతాయి.మీరు ఖచ్చితంగా ముఖ్య సంకేతపదాన్ని తిరిగివుంచాలి అనుకుంటున్నారా?">
@@ -40,7 +40,7 @@
 <!ENTITY chooseToken.message1 "దయచేసి టోకెన్‌ను ఎన్నుకోండి.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.msg1 "కీ సంభవం జరుగుతోంది... ఇది కొన్ని నిమషముల సమయం తీసుకుంటుంది....">
+<!ENTITY createCertInfo.msg1 "కీ సృజన జరుగుతోంది… ఇది కొన్ని నిమషాలు పట్టవచ్చు….">
 <!ENTITY createCertInfo.msg2 "దయచేసి వేచివుండండి...">
 
 <!-- Strings for protectedAuth dialog -->
