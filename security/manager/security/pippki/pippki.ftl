@@ -24,6 +24,7 @@ reset-password-window =
     .style = width: 40em
 pippki-failed-pw-change = Impossible de changer le mot de passe.
 pippki-incorrect-pw = Vous n’avez pas saisi correctement le mot de passe actuel. Veuillez réessayer.
+pippki-pw-erased-ok = Vous avez supprimé votre mot de passe. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
