@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Contacto del libro de adresses…">
 <!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Aperir">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Aperir message salvate…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Salvar como">
@@ -295,6 +297,9 @@
 <!ENTITY goForwardCmd.label "Inviar ultra">
 <!ENTITY goForwardCmd.accesskey "R">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "C">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY folderMenu.label "Dossier">
 <!ENTITY folderMenu.accesskey "o">
 
@@ -469,6 +474,7 @@
 <!ENTITY goForwardButton1.label "Inviar ultra">
 <!ENTITY deleteItem.title "Deler">
 <!ENTITY deleteButton.label "Deler">
+<!ENTITY undeleteButton.label "Restabilir">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimer">
 <!ENTITY stopButton.label "Stoppar">
@@ -567,12 +573,29 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Salvar le recerca como dossier…">
 
 <!-- Thread Pane -->
+<!ENTITY subjectColumn.label "Subjecto">
+<!ENTITY dateColumn.label "Data">
+<!ENTITY priorityColumn.label "Prioritate">
+<!ENTITY tagsColumn.label "Tag">
+<!ENTITY accountColumn.label "Conto">
+<!ENTITY statusColumn.label "Stato">
+<!ENTITY sizeColumn.label "Dimension">
 <!ENTITY junkStatusColumn.label "Stato indesirate">
+<!ENTITY unreadColumn.label "Non legite">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Leger">
+<!ENTITY receivedColumn.label "">
+<!ENTITY starredColumn.label "Stellate">
+<!ENTITY locationColumn.label "Position">
+<!ENTITY idColumn.label "Ordine recipite">
 <!ENTITY attachmentColumn.label "Annexos">
+
+<!ENTITY deleteColumn.label "Deler">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY junkStatusColumn2.tooltip "Ordinar per stato indesirate">
 <!ENTITY attachmentColumn2.tooltip "Ordinar per annexos">
+
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nove message desde modello">
