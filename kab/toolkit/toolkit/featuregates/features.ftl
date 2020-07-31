@@ -25,6 +25,7 @@ experimental-features-avif-description = Tallalt tarmitant i AVIF: amasal n ufay
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = API-agi tamaynut tettmuddu asefrek n uswir ameẓẓyan i usiḍen n uselken d uskan n unuḍaf s useqdec n <a data-l10n-name="wikipedia">uferdis asesfer n unuḍaf (GPU)</a> n yibenk n useqdac neɣ n uselkim. <a data-l10n-name="spec">alugen</a> mazal-it iteddu yettnerni. Wali <a data-l10n-name="bugzilla">abug 1602129</a> i wugar n telqayt.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
