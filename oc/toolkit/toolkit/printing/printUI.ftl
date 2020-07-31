@@ -13,6 +13,8 @@ printui-sheets-count =
 printui-page-range-all = Totas
 printui-page-range-custom = Personalizar
 printui-page-range-label = Paginas
+printui-page-range-picker =
+    .aria-label = Causir plaja de paginas
 # Section title for the number of copies to print
 printui-copies-label = Còpias
 printui-orientation = Orientacion
