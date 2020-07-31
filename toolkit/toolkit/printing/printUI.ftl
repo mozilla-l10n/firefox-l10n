@@ -27,5 +27,6 @@ printui-scale = Escala
 printui-scale-fit-to-page = Adaptar a la pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
+printui-system-dialog-link = Imprimir en utilizant los menús del sistèma…
 printui-primary-button = Imprimir
 printui-cancel-button = Anullar
