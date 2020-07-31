@@ -593,6 +593,7 @@
 <!ENTITY deleteColumn.label "Deler">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Elige le columnas a monstrar">
 <!ENTITY junkStatusColumn2.tooltip "Ordinar per stato indesirate">
 <!ENTITY attachmentColumn2.tooltip "Ordinar per annexos">
 
