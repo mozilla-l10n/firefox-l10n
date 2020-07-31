@@ -47,14 +47,22 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Bienvenue dans <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Le navigateur rapide, sûr et privé soutenu par une organisation à but non lucratif.
+onboarding-multistage-welcome-primary-button-label = Commencer la configuration
+onboarding-multistage-welcome-secondary-button-label = Se connecter
+onboarding-multistage-welcome-secondary-button-text = Vous avez déjà un compte ?
 onboarding-multistage-import-primary-button-label = Lancer l’importation
 onboarding-multistage-import-secondary-button-label = Plus tard
+onboarding-multistage-theme-primary-button-label = Enregistrer le thème
 onboarding-multistage-theme-secondary-button-label = Plus tard
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatique
 # System refers to the operating system
 onboarding-multistage-theme-description-automatic = Utiliser le thème du système
+onboarding-multistage-theme-label-light = Clair
 onboarding-multistage-theme-label-dark = Sombre
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
