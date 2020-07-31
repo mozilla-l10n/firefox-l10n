@@ -4,6 +4,8 @@
 
 do-not-track-description = నా జాడ అనుసరించవద్దని ఆశిస్తున్నానని వెబ్‌సైట్లకు తెలిసేలా “ట్రాక్ చెయ్యవద్దు” అనే సూచనను పంపించు
 do-not-track-learn-more = ఇంకా తెలుసుకోండి
+do-not-track-option-default-content-blocking-known =
+    .label = తెలిసిన ట్రాకర్లను నిరోధించేలా { -brand-short-name } అమర్చివున్నప్పుడు మాత్రమే
 do-not-track-option-always =
     .label = ఎల్లప్పుడూ
 pref-page =

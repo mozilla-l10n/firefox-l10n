@@ -102,6 +102,9 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 
+## Local search mode indicator labels in the urlbar
+
+
 ##
 
 urlbar-geolocation-blocked =
@@ -169,6 +172,14 @@ search-one-offs-context-set-as-default =
     .label = అప్రమేయ శోధన యంత్రంగా అమర్చండి
     .accesskey = D
 
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
@@ -187,7 +198,7 @@ bookmark-panel =
 identity-connection-not-secure = అనుసంధానం సురక్షితం కాదు
 identity-connection-secure = సురక్షిత అనుసంధానం
 identity-connection-internal = ఇది సురక్షిత { -brand-short-name } పేజీ.
-identity-connection-file = ఈ పేజీ మీ కంప్యూటర్లో భద్రమయివుంటుంది.
+identity-connection-file = ఈ పేజీ మీ కంప్యూటర్లో భద్రమైవుంది.
 identity-extension-page = ఈ పేజీ ఒక పొడగింత నుండి తెరవబడింది.
 identity-active-blocked = ఈ పేజీలో సురక్షితంకాని భాగాలను { -brand-short-name } నిరోధించింది.
 identity-passive-loaded = ఈ పేజీలోని కొన్ని భాగాలు సురక్షితమైనవి కావు (బొమ్మల వంటివి).
