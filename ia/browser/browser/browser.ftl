@@ -16,10 +16,9 @@
 #  $content-title (String): the title of the web content.
 browser-main-window =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Navigation private)
+    .data-title-private = { -brand-full-name } (Navigazione anonima)
     .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Navigation private)
-
+    .data-content-title-private = { $content-title } - { -brand-full-name } (Navigazione anonima)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigation private)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigation private)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -112,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Insere minus, trova plus: cerca { $engineName } justo per tu barra de adresse.
 urlbar-search-tips-redirect-2 = Comencia tu recerca in le barra de adresse pro vider suggestiones de { $engineName } e de tu chronologia de navigation.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Marcapaginas
+urlbar-search-mode-tabs = Schedas
+urlbar-search-mode-history = Chronologia
+
 ##
 
 urlbar-geolocation-blocked =
@@ -138,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Tu ha blocate le accesso MIDI pro iste sito web.
 urlbar-install-blocked =
     .tooltiptext = Tu ha blocate le accesso al installation de additivos pro iste sito web.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modificar iste marcapaginas ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -174,14 +176,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Iste vice, cerca con:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Parametros de recerca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cambiar le parametros de recerca
-
 search-one-offs-context-open-new-tab =
     .label = Cercar in le nove scheda
     .accesskey = C
@@ -191,16 +191,34 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Disponer como motor de recerca predefinite pro le fenestras private
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Marcapaginas ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Schedas ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Chronologia ({ $restrict })
 
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Monstrar editor quando se salva
     .accesskey = M
-
 bookmark-panel-done-button =
     .label = Facite
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -274,15 +292,12 @@ popup-select-microphone =
     .value = Microphono a compartir:
     .accesskey = M
 popup-all-windows-shared = Tote le fenestras visibile sur tu schermo essera compartite.
-
 popup-screen-sharing-not-now =
     .label = Non ora
     .accesskey = o
-
 popup-screen-sharing-never =
     .label = Non permitter jammais
     .accesskey = N
-
 popup-silence-notifications-checkbox = Disactivar notificationes ab { -brand-short-name } durante compartimento
 popup-silence-notifications-checkbox-warning = { -brand-short-name } non monstrara notificationes durante que tu comparti.
 
@@ -299,7 +314,6 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Pro usar le clave de accesso directe F12, aperi primo le instrumentos de disveloppamento per le menu “Disveloppamento Web”.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -312,11 +326,9 @@ urlbar-permissions-granted =
     .tooltiptext = Tu ha concedite permissiones additional a iste sito web.
 urlbar-switch-to-tab =
     .value = Commutar al scheda:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
-
 urlbar-go-button =
     .tooltiptext = Ir al adresse in le barra de adresses
 urlbar-page-action-button =

@@ -12,7 +12,11 @@ compatibility-all-elements-header = Tote le problemas
 
 compatibility-issue-deprecated = (obsolete)
 compatibility-issue-experimental = (experimental)
+compatibility-issue-prefixneeded = (prefixo necessari)
 compatibility-issue-deprecated-experimental = (obsolete, experimental)
+compatibility-issue-deprecated-prefixneeded = (obsolete, prefixo necessari)
+compatibility-issue-experimental-prefixneeded = (experimental, prefixo necessari)
+compatibility-issue-deprecated-experimental-prefixneeded = (obsolete, experimental, prefixo necessari)
 
 ## Messages used as labels and titles for buttons in the footer
 
