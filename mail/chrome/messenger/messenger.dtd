@@ -241,9 +241,9 @@
 
 <!ENTITY headersMenu.label "Intestazioni">
 <!ENTITY headersMenu.accesskey "I">
-<!ENTITY headersAllCmd.label "Tutte">
+<!ENTITY headersAllCmd.label "Estese">
 <!ENTITY headersAllCmd.accesskey "T">
-<!ENTITY headersNormalCmd.label "Normale">
+<!ENTITY headersNormalCmd.label "Standard">
 <!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Corpo del messaggio come">
 <!ENTITY bodyMenu.accesskey "d">
