@@ -104,6 +104,9 @@ urlbar-tip-icon-description =
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = ఇష్టాంశాలు
+urlbar-search-mode-tabs = ట్యాబులు
+urlbar-search-mode-history = చరిత్ర
 
 ##
 
@@ -171,6 +174,12 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = అప్రమేయ శోధన యంత్రంగా అమర్చండి
     .accesskey = D
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -179,6 +188,12 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = ఇష్టాంశాలు ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = ట్యాబులు ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = చరిత్ర ({ $restrict })
 
 ## Bookmark Panel
 

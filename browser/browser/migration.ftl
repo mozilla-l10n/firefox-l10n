@@ -102,6 +102,36 @@ browser-data-history-label =
             [firefox] విహరణ చరిత్ర, ఇష్టాంశాలు
            *[other] విహరణ చరిత్ర
         }
+browser-data-formdata-checkbox =
+    .label = భద్రపరచిన ఫారాల చరిత్ర
+browser-data-formdata-label =
+    .value = భద్రపరచిన ఫారాల చరిత్ర
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = భద్రపరచిన ప్రవేశాలు, సంకేతపదాలు
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = భద్రపరచిన ప్రవేశాలు, సంకేతపదాలు
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] ఇష్టాంశాలు
+            [edge] ఇష్టాంశాలు
+           *[other] ఇష్టాంశాలు
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] ఇష్టాంశాలు
+            [edge] ఇష్టాంశాలు
+           *[other] ఇష్టాంశాలు
+        }
+browser-data-otherdata-checkbox =
+    .label = ఇతర డేటా
+browser-data-otherdata-label =
+    .label = ఇతర డేటా
 browser-data-session-checkbox =
     .label = విండోలు, ట్యాబులు
 browser-data-session-label =
