@@ -15,5 +15,6 @@ about-httpsonly-title = { -brand-short-name } Yufa-d yezmer ad yili wugur n tɣe
 about-httpsonly-explanation-unavailable = Tettinigeḍ deg uskar HTTPS kan, yerna lqem n HTTPS aɣelsan n <em>{ $websiteUrl }</em> ulac-it.
 about-httpsonly-explanation-question = D acu i d-yeglan s wugur-a?
 about-httpsonly-explanation-nosupport = Ahat, asmel web ur isefrak ara s sshala HTTPS.
+about-httpsonly-explanation-risk = Yezmer daɣen yella uẓeddam yettekkan. Ma yella tenwiḍ ad terzuḍ ɣer usmel web, ur ilaq ara ad teskecmeḍ kra seg talɣut tabaḍnit am wawalen uffiren, imaylen neɣ ttfaṣil n tkarḍa n usellek.
 about-httpsonly-button-accept-and-continue = Qbel ugur, tkemmleḍ
 about-httpsonly-button-go-back = Uɣal ɣer deffir
