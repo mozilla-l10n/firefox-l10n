@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = 개발자 도구: Service Worker 디버깅
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = 디버거 패널에서 Service Worker를 실험적으로 지원합니다. 이 기능은 개발자 도구의 속도를 저하시키고 메모리 소비를 증가시킬 수 있습니다.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = 그래픽: 부드러운 핀치 확대/축소
+experimental-features-graphics-desktop-zooming-description = 터치 스크린 및 정밀 터치 패드에서 부드러운 핀치 확대/축소를 지원합니다.

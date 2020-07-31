@@ -10,9 +10,13 @@ compatibility-all-elements-header = 모든 문제
 
 ## Message used as labels for the type of issue
 
-compatibility-issue-deprecated = (더 이상 사용되지 않음)
+compatibility-issue-deprecated = (사용되지 않음)
 compatibility-issue-experimental = (실험적)
-compatibility-issue-deprecated-experimental = (더 이상 사용되지 않음, 실험적)
+compatibility-issue-prefixneeded = (접두사 필요)
+compatibility-issue-deprecated-experimental = (사용되지 않음, 실험적)
+compatibility-issue-deprecated-prefixneeded = (사용되지 않음, 접두사 필요)
+compatibility-issue-experimental-prefixneeded = (실험적, 접두사 필요)
+compatibility-issue-deprecated-experimental-prefixneeded = (사용되지 않음, 실험적, 접두사 필요)
 
 ## Messages used as labels and titles for buttons in the footer
 
