@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Utensiles de disveloppator: depuration de obrero de servicio
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Activa supporto experimental pro Obreros de servicio in le quadro del Depurator. Iste functionalitate pote relentar le Utensiles de disveloppator e accrescer le consumption de memoria.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Graphica: zoom a prisa lisie
+experimental-features-graphics-desktop-zooming-description = Activa le supporto al zoom a prisa lisie sur schermos tactile e placas tactile de precision.
