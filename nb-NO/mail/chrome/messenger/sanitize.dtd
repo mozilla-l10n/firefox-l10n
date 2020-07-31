@@ -7,7 +7,6 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Slett tidsrommet: ">
 <!ENTITY clearTimeDuration.accesskey      "S">
 <!ENTITY clearTimeDuration.lastHour       "Den siste timen">
@@ -18,12 +17,15 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Detaljer">
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
+
+
+<!ENTITY historyGroup.label                "Historikk">
 
 <!ENTITY itemHistory.label                 "Nettleserhistorikk">
 <!ENTITY itemHistory.accesskey             "N">
@@ -31,10 +33,10 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "I">
 <!ENTITY itemCache.label                   "Hurtiglager">
 <!ENTITY itemCache.accesskey               "H">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Denne handlingen kan ikke angres.">
 
 <!ENTITY dialog.width                 "28em">
