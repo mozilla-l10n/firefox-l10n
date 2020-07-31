@@ -110,6 +110,9 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Menej písania, viac výsledkov. Používajte { $engineName } priamo z vášho panela s adresou.
 urlbar-search-tips-redirect-2 = Zadajte sem výraz vyhľadávania a uvidíte návrhy z vyhľadávacieho modulu { $engineName } a z vašej histórie prehliadania.
 
+## Local search mode indicator labels in the urlbar
+
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +188,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Nastaviť ako predvolený vyhľadávací modul pre súkromné prehliadanie
     .accesskey = o
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -270,13 +281,21 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Nikdy nepovoliť
     .accesskey = i
+popup-silence-notifications-checkbox = Nezobrazovať upozornenia z { -brand-short-name(case: "gen") } počas zdieľania
+popup-silence-notifications-checkbox-warning = { -brand-short-name } nebude počas zdieľania zobrazovať upozornenia.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Zdieľate { -brand-short-name }. Ostatní ľudia uvidia obsah každej karty, ktorú otvoríte.
 sharing-warning-screen = Zdieľate celú svoju obrazovku. Ostatní ľudia uvidia obsah každej karty, ktorú otvoríte.
+sharing-warning-proceed-to-tab =
+    .label = Prejsť na kartu
+sharing-warning-disable-for-session =
+    .label = Vypnúť ochranu zdieľania pre túto reláciu
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Ak chcete použiť skratku F12, najprv otvorte DevTools prostredníctvom ponuky Webový vývojár.
 
 ## URL Bar
 
