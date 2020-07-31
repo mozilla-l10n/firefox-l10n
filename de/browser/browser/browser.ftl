@@ -207,6 +207,10 @@ search-one-offs-engine-with-alias =
 
 search-one-offs-bookmarks =
     .tooltiptext = Lesezeichen ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Tabs ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Chronik ({ $restrict })
 
 ## Bookmark Panel
 
