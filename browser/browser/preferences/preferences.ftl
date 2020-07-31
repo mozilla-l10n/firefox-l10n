@@ -809,6 +809,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Používať hlavné heslo
     .accesskey = h
+forms-primary-pw-learn-more-link = Ďalšie informácie
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.

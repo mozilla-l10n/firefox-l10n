@@ -124,6 +124,7 @@ cfr-whatsnew-lockwise-take-link-text = Prevziať aplikáciu
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Používajte panel s adresou - píšte menej, nájdite viac
+cfr-whatsnew-searchbar-body-topsites = Teraz stačí vybrať panel s adresou, ktorý sa zväčší a zobrazí odkazy na vaše najnavštevovanejšie stránky.
 cfr-whatsnew-searchbar-icon-alt-text = Ikona lupy
 
 ## Picture-in-Picture
@@ -135,6 +136,7 @@ cfr-whatsnew-pip-cta = Ďalšie informácie
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Menej otravných vyskakovacích okien
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } teraz zabraňuje stránkam automaticky požadovať odosielanie vyskakovacích správ.
 cfr-whatsnew-permission-prompt-cta = Ďalšie informácie
 
 ## Fingerprinter Counter
@@ -211,6 +213,7 @@ cfr-whatsnew-protections-icon-alt = Ikona štítu
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Lepšia práca s PDF
 
 ## DOH Message
 
