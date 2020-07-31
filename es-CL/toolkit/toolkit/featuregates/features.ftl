@@ -51,6 +51,10 @@ experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
@@ -79,3 +83,6 @@ experimental-features-cookie-samesite-schemeful =
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Herramientas de desarrollado: Depuración de Service Worker
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Graphics: Smooth Pinch Zoom
