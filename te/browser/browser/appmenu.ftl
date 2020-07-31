@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } తాజాకరణ దించుకుంటోంది
 appmenuitem-protection-dashboard-title = సంరక్షణల డాష్‌బోర్డ్
 appmenuitem-customize-mode =
     .label = అభిమతీకరించు…

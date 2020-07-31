@@ -110,6 +110,8 @@ cfr-whatsnew-lockwise-take-link-text = అనువర్తనాన్ని �
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = తక్కువ టైప్ చేయండి, చిరునామా పట్టీతో ఎక్కువ కనుగొనండి
+cfr-whatsnew-searchbar-body-topsites = ఇప్పుడు, కేవలం చిరునామా పట్టీని ఎంచుకోండి, మీ మేటి సైట్లతో ఒక పెట్టె తెరుచుకుంటుంది.
 
 ## Picture-in-Picture
 
@@ -125,13 +127,18 @@ cfr-whatsnew-permission-prompt-cta = ఇంకా తెలుసుకోండ
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = ఈ ఇష్టాంశాన్ని మీ ఫోనులో పొందండి
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name }‌ను చేతనించు
+    .accesskey = T
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = ఇంకెప్పుడూ సంకేతపదాల్ని కోల్పోవద్దు
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name }ను చేతనించు
+    .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = ప్రయాణంలో ఉన్నప్పుడు దీన్ని చదవండి
 
 ## Firefox Send
 
