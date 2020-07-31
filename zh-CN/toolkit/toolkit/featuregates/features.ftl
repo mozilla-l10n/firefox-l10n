@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = 开发者工具：Service Worker 调试
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = 在“调试器”面板中启用对 Service Worker 的实验性支持。此功能可能会拖慢开发者工具的响应速度，并增加内存消耗。
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = 图形：平滑捏缩放
+experimental-features-graphics-desktop-zooming-description = 启用对触摸屏和精密触控板上平滑捏缩放的支持。
