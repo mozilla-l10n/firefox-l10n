@@ -10,3 +10,4 @@ openpgp-one-recipient-status-created-date =
     .label = 创建于
 openpgp-one-recipient-status-expires-date =
     .label = 到期于
+openpgp-key-secret-not-personal = 不可用
