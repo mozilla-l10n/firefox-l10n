@@ -38,6 +38,11 @@ onboarding-cards-dismiss =
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+onboarding-multistage-welcome-secondary-button-text = ఖాతా ఉందా?
+onboarding-multistage-import-primary-button-label = దిగుమతిని మొదలుపెట్టు
+onboarding-multistage-import-secondary-button-label = ఇప్పుడు కాదు
+onboarding-multistage-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
+onboarding-multistage-theme-secondary-button-label = ఇప్పుడు కాదు
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -72,6 +77,8 @@ onboarding-benefit-knowledge-title = ఆచరణాత్మక జ్ఞాన
 onboarding-benefit-knowledge-text = ఆన్‌లైన్‌లో తెలివిగా, సురక్షితంగా ఉండటానికి మీరు తెలుసుకోవలసిన ప్రతిదాన్ని తెలుసుకోండి.
 onboarding-benefit-privacy-title = నిజమైన గోప్యత
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -88,11 +95,14 @@ onboarding-fxa-title = సమకాలీకరించు
 onboarding-tracking-protection-title2 = ట్రాకింగు నుండి సంరక్షణ
 onboarding-tracking-protection-button2 = ఇది ఎలా పనిచేస్తుంది
 onboarding-data-sync-title = మీ అమరికలను మీతో తీసుకెళ్ళండి
+onboarding-data-sync-button2 = { -sync-brand-short-name } లోనికి ప్రవేశించండి
 onboarding-browse-privately-title = అంతరంగికంగా విహరించండి
+onboarding-browse-privately-button = ఒక అంతరంగిక కిటికీ తెరవండి
 onboarding-firefox-send-button = { -send-brand-name }‌ని ప్రయత్నించండి
 onboarding-pocket-anywhere-button = { -pocket-brand-name }‌ని ప్రయత్నించండి
 onboarding-lockwise-passwords-title = మీ సంకేతపదాలను మీతో ఎక్కడికైనా తీసుకెళ్ళండి
 onboarding-lockwise-passwords-button2 = అనువర్తనాన్ని తెచ్చుకో
+onboarding-lockwise-strong-passwords-button = మీ ప్రవేశాలను నిర్వహించుకోండి
 onboarding-facebook-container-title = ఫేస్‌బుక్‌కి హద్దులు గీయండి
 onboarding-facebook-container-button = పొడగింతను చేర్చు
 
