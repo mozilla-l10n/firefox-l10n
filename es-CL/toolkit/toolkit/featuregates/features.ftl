@@ -49,6 +49,12 @@ experimental-features-css-focus-visible =
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Herramientas para desarrolladores: simulación de esquemas de color
 experimental-features-devtools-execution-context-selector =
     .label = Herramientas de desarrollo: Selector de contexto de ejecución
 experimental-features-devtools-compatibility-panel =
@@ -66,6 +72,10 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Las co
 experimental-features-abouthome-startup-cache =
     .label = caché de inicio de about:home
 experimental-features-abouthome-startup-cache-description = Una caché para el documento inicial about:home que se carga de manera predeterminada al inicio. El propósito de la caché es mejorar el rendimiento de inicio.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Herramientas de desarrollado: Depuración de Service Worker
