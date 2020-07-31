@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Utviklerverktøy: Feilsøking av Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Aktiverer eksperimentell støtte for Service Workers i feilsøkingspanelet. Denne funksjonen kan gjøre utviklerverktøyet treg og øke minneforbruket.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafikk: Jevn knipeskalering
+experimental-features-graphics-desktop-zooming-description = Aktiver støtte for jevn knipeskalering med berøringsskjermer og presisjonspekeplate.
