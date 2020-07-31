@@ -23,7 +23,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Generate OpenPGP Key
-openpgp-generate-key-info = <b>Key generation may take up to several minutes to complete.</b> Do not exit the application while key generation is in progress. Actively browsing or performing disk-intensive operations during key generation will replenish the 'randomness pool' and speed-up the process. You will be alerted when key generation is completed.
+openpgp-generate-key-info = <b>Key generation may take up to several minutes to complete.</b> Do not exit the application while key generation is in progress. Actively browsing or performing disk-intensive operations during key generation will replenish the “randomness pool” and speed-up the process. You will be alerted when key generation is completed.
 openpgp-keygen-expiry-title = Key expiry
 openpgp-keygen-expiry-description = Define the expiration time of your newly generated key. You can later control the date to extend it if necessary.
 radio-keygen-expiry =
