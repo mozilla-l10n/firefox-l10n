@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Herramientas para desarrolladores: Depuración de Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Habilita el soporte experimental para Service Workers en el panel del Depurador. Esta función puede lentificar las Herramientas de desarrollo y aumentar el consumo de memoria.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Gráficos: Zoom de pellizco suave
+experimental-features-graphics-desktop-zooming-description = Habilitar la compatibilidad para un zoom de pellizco suave en pantallas táctiles y almohadillas táctiles de precisión.
