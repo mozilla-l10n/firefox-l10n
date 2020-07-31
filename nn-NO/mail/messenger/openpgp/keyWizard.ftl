@@ -26,6 +26,7 @@ openpgp-keygen-import-complete =
 
 ## Import Key section
 
+openpgp-import-identity-label = Identitet
 
 ## External Key section
 
