@@ -25,18 +25,34 @@ experimental-features-avif-description = Экспериментальная по
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Этот новый API предоставляет низкоуровневую поддержку совершения вычислений и отображения графики с помощью <a data-l10n-name="wikipedia">графических процессоров (GPU)</a> компьютера пользователя. <a data-l10n-name="spec">Спецификация</a> всё ещё находится в разработке. Дополнительную информацию можно узнать в  <a data-l10n-name="bugzilla">баге 1602129</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Если эта функция включена, { -brand-short-name } будет поддерживать формат AV1 Image File (AVIF). Это формат файлов неподвижных изображений, который использует возможности алгоритмов сжатия видео AV1, чтобы уменьшить размер файла. Дополнительная информация доступна в <a data-l10n-name="bugzilla">баге 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Наша реализация глобального атрибута <a data-l10n-name="mdn-inputmode">inputmode</a> была обновлена в соответствии со <a data-l10n-name="whatwg">спецификацией WHATWG</a>, однако нам нужно произвести дополнительные изменения, такие как обеспечить его доступность для "contenteditable" содержимого. Дополнительная информация доступна в <a data-l10n-name="bugzilla">баге 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Куки: SameSite = Lax по умолчанию
