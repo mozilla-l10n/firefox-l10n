@@ -12,7 +12,11 @@ compatibility-all-elements-header = Все проблемы
 
 compatibility-issue-deprecated = (устарело)
 compatibility-issue-experimental = (эксперимент)
+compatibility-issue-prefixneeded = (нужен префикс)
 compatibility-issue-deprecated-experimental = (устарело, эксперимент)
+compatibility-issue-deprecated-prefixneeded = (устарело, нужен префикс)
+compatibility-issue-experimental-prefixneeded = (эксперимент, нужен префикс)
+compatibility-issue-deprecated-experimental-prefixneeded = (устарело, эксперимент, нужен префикс)
 
 ## Messages used as labels and titles for buttons in the footer
 
