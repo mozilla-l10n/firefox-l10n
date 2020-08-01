@@ -14,3 +14,6 @@ openpgp-key-own = Aceita (chave pessoal)
 openpgp-key-secret-not-personal = Não usável
 openpgp-key-verified = Aceita (confirmada)
 openpgp-key-unverified = Aceita (não confirmada)
+openpgp-key-undecided = Não aceita (pendente)
+openpgp-key-rejected = Não aceita (rejeitada)
+openpgp-intro = Chaves públicas disponíveis de { $key }
