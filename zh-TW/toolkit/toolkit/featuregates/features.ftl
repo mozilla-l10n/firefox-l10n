@@ -101,3 +101,4 @@ experimental-features-devtools-serviceworker-debugger-support-description = 在�
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Graphics: Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = 開啟對觸控螢幕與精準觸控板的平滑手指縮放支援。
