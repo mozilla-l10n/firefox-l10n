@@ -49,6 +49,12 @@ openpgp-keygen-import-complete =
 
 ## Import Key section
 
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] O Thunderbird encontrou uma chave que pode ser importada.
+       *[other] O Thunderbird encontrou { $count } chaves que podem ser importadas.
+    }
 gnupg-file = Arquivos GnuPG
 openpgp-import-identity-label = Identidade
 openpgp-import-fingerprint-label = Impressão digital
