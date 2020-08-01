@@ -46,10 +46,14 @@ openpgp-keygen-dismiss =
 openpgp-keygen-import-complete =
     .label = Fechar
     .accesskey = F
+openpgp-keygen-ongoing = Geração de chaves já em andamento!
+openpgp-keygen-error-failed = Geração de chaves OpenPGP falhou inesperadamente
 
 ## Import Key section
 
+openpgp-import-key-title = Importar uma chave pessoal OpenPGP existente
 openpgp-import-key-description = Você pode importar chaves pessoais criadas com outro software OpenPGP.
+openpgp-import-key-info = Outros softwares podem descrever uma chave pessoal usando termos alternativos, como chave própria, chave secreta, chave privada ou par de chaves.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
@@ -58,6 +62,9 @@ openpgp-import-key-list-amount =
     }
 openpgp-import-key-list-description = Confirme quais podem ser tratadas como suas chaves pessoais. Somente chaves que você criou e que mostram sua própria identidade devem ser usadas como chaves pessoais. Você pode alterar esta opção mais tarde no diálogo de propriedades da chave.
 openpgp-import-key-list-caption = Chaves marcadas para ser tratadas como chaves pessoais aparecem na seção de criptografia de ponta a ponta. As outras ficam disponíveis no gerenciador de chaves.
+openpgp-import-key-button =
+    .label = Selecionar arquivo a importar…
+    .accesskey = S
 gnupg-file = Arquivos GnuPG
 openpgp-import-identity-label = Identidade
 openpgp-import-fingerprint-label = Impressão digital
