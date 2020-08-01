@@ -49,6 +49,33 @@ openpgp-key-man-import-public-from-file =
 openpgp-key-man-import-from-clipbrd =
     .label = Importar chave(s) da área de transferência
     .accesskey = I
+openpgp-key-man-import-from-url =
+    .label = Importar chave(s) a partir de URL
+    .accesskey = U
+openpgp-key-man-export-to-file =
+    .label = Exportar chave(s) pública(s) para arquivo
+    .accesskey = E
+openpgp-key-man-send-keys =
+    .label = Enviar chave(s) pública(s) por e-mail
+    .accesskey = m
+openpgp-key-man-discover-cmd =
+    .label = Descobrir chaves online
+    .accesskey = D
+openpgp-key-man-discover-progress = Procurando…
+openpgp-key-copy-key =
+    .label = Copiar chave pública
+    .accesskey = C
+openpgp-key-export-key =
+    .label = Exportar chave pública para arquivo
+    .accesskey = E
+openpgp-key-send-key =
+    .label = Enviar chave pública por e-mail
+    .accesskey = m
+openpgp-key-man-copy-to-clipbrd =
+    .label = Copiar chave(s) pública(s) para área de transferência
+    .accesskey = C
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Exportar chaves para arquivo
 
 ## e2e encryption settings
 
