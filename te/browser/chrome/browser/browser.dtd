@@ -136,6 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; అమరికలను తెరువు…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
@@ -148,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; సేవలు">
 <!ENTITY fxa.menu.account.label "ఖాతా">
 <!ENTITY fxa.menu.accountSettings.label "ఖాతా అమరికలు">
 <!ENTITY fxa.menu.manageAccount2.label "ఖాతా నిర్వహణ">
