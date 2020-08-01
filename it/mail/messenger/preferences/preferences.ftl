@@ -82,7 +82,7 @@ update-setting-write-failure-title = Errore salvataggio preferenze di aggiorname
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Procedere con l’aggiornamento di { -brand-short-name }?
@@ -503,7 +503,7 @@ remote-content-info =
     .value = Maggiori informazioni sui problemi di privacy dei contenuti remoti
 web-content = Contenuto web
 history-label =
-    .label = Ricordare siti web e link visitati
+    .label = Ricorda siti web e link visitati
     .accesskey = R
 cookies-label =
     .label = Accetta i cookie dai siti
@@ -714,5 +714,3 @@ search-results-empty-message =
        *[other] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle preferenze.
     }
 search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web dedicato al supporto di { -brand-short-name }</a>.
-
-## Preferences UI Search Results
