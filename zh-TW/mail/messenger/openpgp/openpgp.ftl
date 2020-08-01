@@ -290,9 +290,23 @@ import-info-created = 建立於
 import-info-fpr = 指紋
 import-info-details = 檢視詳細資訊並管理金鑰接受程度
 import-info-no-keys = 未匯入金鑰。
+# Strings in enigmailKeyManager.js
+import-from-clip = 您想要從剪貼簿匯入一些金鑰嗎？
+import-from-url = 請從下列網址下載公鑰:
+copy-to-clipbrd-failed = 無法將選擇的金鑰複製到剪貼簿。
+copy-to-clipbrd-ok = 已將金鑰複製至剪貼簿
+key-man-button-export-sec-key = 匯出私鑰 (&S)
+key-man-button-export-pub-key = 只匯出公鑰 (&P)
+key-man-button-refresh-all = 重新整理所有金鑰 (&R)
+key-man-loading-keys = 正在載入金鑰，請稍候…
+ascii-armor-file = ASCII 格式檔案（*.asc）
+export-to-file = 將公鑰匯出成檔案
+export-keypair-to-file = 將公鑰與私鑰匯出成檔案
 save-keys-failed = 金鑰儲存失敗
 default-pub-key-filename = 匯出的公鑰
 default-pub-sec-key-filename = 密鑰備份
+general-error = 錯誤: { $reason }
+dlg-button-delete = 刪除 (&D)
 
 ## Account settings export output
 
