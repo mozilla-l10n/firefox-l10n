@@ -10,3 +10,5 @@ set-password-backup-pw =
     .value = 私密金鑰備份密碼:
 set-password-repeat-backup-pw =
     .value = 私密金鑰備份密碼（再次輸入）:
+set-password-reminder = <b>重要！</b>如果您忘了密鑰備份密碼，將會無法回存備份。請多備一份到安全的地方。
+password-quality-meter = 密碼品質測量計
