@@ -4,7 +4,9 @@
 
 tag-dialog-window =
     .title = Ny etikett
-
 tag-name-label =
     .value = Etikettnamn:
     .accesskey = E
+tag-color-label =
+    .value = Färg:
+    .accesskey = F
