@@ -166,9 +166,64 @@ openpgp-add-key-button =
     .label = Adicionar chave…
     .accesskey = A
 e2e-learn-more = Saiba mais
+openpgp-keygen-success = Chave OpenPGP criada com sucesso!
+openpgp-keygen-import-success = Chaves OpenPGP importadas com sucesso!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none-desc = Não usar OpenPGP para esta identidade.
+openpgp-key-expand-section =
+    .tooltiptext = Mais informações
+openpgp-key-revoke-title = Revogar chave
+openpgp-key-edit-title = Alterar chave OpenPGP
+openpgp-key-edit-date-title = Estender data de validade
+openpgp-manager-button =
+    .label = Gerenciador de chaves OpenPGP
+    .accesskey = G
+key-external-label = Chave GnuPG externa
+# Strings in keyDetailsDlg.xhtml
+key-type-public = chave pública
+key-type-primary = chave primária
+key-type-subkey = subchave
+key-type-pair = par de chaves (chave secreta e chave pública)
+key-expiry-never = nunca
+key-usage-encrypt = Criptografar
+key-usage-sign = Assinar
+key-usage-certify = Certificar
+key-usage-authentication = Autenticação
+key-revoked-simple = A chave foi revogada
+keyserver-error-unknown = Ocorreu um erro desconhecido
+keyserver-error-server-error = O servidor de chaves relatou um erro.
+keyserver-error-import-error = Falha ao importar a chave baixada.
+keyserver-error-unavailable = O servidor de chaves não está disponível.
+keyserver-error-security-error = O servidor de chaves não suporta acesso criptografado.
+keyserver-error-certificate-error = O certificado do servidor de chaves não é válido.
+keyserver-error-unsupported = O servidor de chaves não é suportado.
+# Strings in gpg.jsm
+unknown-signing-alg = Algoritmo de assinatura desconhecido (ID: { $id })
+unknown-hash-alg = Hash de criptografia desconhecido (ID: { $id })
+expiry-open-key-manager = Abrir gerenciador de chaves OpenPGP
+expiry-open-key-properties = Abrir propriedades da chave
+# Strings filters.jsm
+filter-folder-required = Você deve selecionar uma pasta destino.
+filter-term-pgpencrypted-label = OpenPGP criptografado
+filter-key-required = Você deve selecionar uma chave de destinatário.
+filter-key-not-found = Não foi possível encontrar uma chave de criptografia para '{ $desc }'.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Descriptografar permanentemente (OpenPGP)
+filter-decrypt-copy-label = Criar cópia descriptografada (OpenPGP)
+filter-encrypt-label = Criptografar para chave (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Sucesso! Chaves importadas
+import-info-bits = Bits
+import-info-created = Criação
+import-info-fpr = Impressão digital
+import-info-details = Ver detalhes e gerenciar aceitação de chaves
+import-info-no-keys = Nenhuma chave importada.
+# Strings in enigmailKeyManager.js
+import-from-clip = Quer importar alguma(s) chave(s) da área de transferência?
+import-from-url = Baixar chave pública a partir desta URL:
 
 ## Account settings export output
 
