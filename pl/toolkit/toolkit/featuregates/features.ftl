@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Narzędzia dla programistów: debugowanie wątków usługowych
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Włącza eksperymentalną obsługę wątków usługowych w panelu debugera. Ta funkcja może spowolnić narzędzia dla programistów i zwiększyć zużycie pamięci.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafika: płynne powiększanie gestem
+experimental-features-graphics-desktop-zooming-description = Włącza obsługę płynnego powiększania gestem na ekranach dotykowych i precyzyjnych panelach dotykowych.
