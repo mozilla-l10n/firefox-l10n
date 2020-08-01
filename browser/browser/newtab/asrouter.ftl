@@ -257,3 +257,4 @@ cfr-doorhanger-doh-secondary-button = ਅਸਮਰੱਥ ਕਰੋ
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = ਚੋਰ ਟਰੈਕਿੰਗ ਤਰਕੀਬਾਂ ਤੋਂ ਆਟੋਮੈਟਿਕ ਸੁਰੱਖਿਆ
