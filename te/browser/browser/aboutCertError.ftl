@@ -26,6 +26,17 @@ cert-error-domain-mismatch-single = వెబ్‌సైట్లు తమ గ
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = వెబ్‌సైట్లు తమ గుర్తింపును ధృవపత్రాల ద్వారా నిరూపిస్తాయి. ఈ సైటును { -brand-short-name } నమ్మడంలేదు ఎందుకంటే వారు { $hostname }కి చెల్లని ధ్రువపత్రాన్ని వాడుతున్నారు. ఆ ధ్రువపత్రం కేవలం { $alt-name }కి మాత్రమే చెల్లుతుంది.
 # Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = వెబ్‌సైట్లు తమ గుర్తింపును ధృవపత్రాల ద్వారా నిరూపిస్తాయి. ఈ సైటును { -brand-short-name } నమ్మడంలేదు ఎందుకంటే వారు { $hostname }కి చెల్లని ధ్రువపత్రాన్ని వాడుతున్నారు. ఆ ధ్రువపత్రం కేవలం ఈ పేర్లకు మాత్రమే చెల్లుతుంది: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = వెబ్‌సైట్లు తమ గుర్తింపును ధృవపత్రాల ద్వారా నిరూపిస్తాయి, వాటి చెల్లుబాటుకు కాల పరిమితి ఉంటుంది. { $hostname } వారి ధ్రువపత్రం { $not-after-local-time }కి కాలంచెల్లిపోయింది.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = వెబ్‌సైట్లు తమ గుర్తింపును ధృవపత్రాల ద్వారా నిరూపిస్తాయి, వాటి చెల్లుబాటుకు కాల పరిమితి ఉంటుంది. { $hostname } వారి ధ్రువపత్రం { $not-before-local-time } ముందు చెల్లుబాటు కాదు.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = దోష సంకేతం: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = ఈ సమస్య గురించి మీరు వెబ్‌సైట్ నిర్వాహకులకు తెలియజేయవచ్చు.
