@@ -191,6 +191,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = 設為隱私瀏覽模式中的預設搜尋引擎
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName }（{ $alias }）
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -199,6 +205,12 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = 書籤（{ $restrict }）
+search-one-offs-tabs =
+    .tooltiptext = 分頁（{ $restrict }）
+search-one-offs-history =
+    .tooltiptext = 瀏覽紀錄（{ $restrict }）
 
 ## Bookmark Panel
 
