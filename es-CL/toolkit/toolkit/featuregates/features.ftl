@@ -83,6 +83,8 @@ experimental-features-cookie-samesite-schemeful =
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Herramientas de desarrollado: Depuración de Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Activa el soporte experimental para Service Workers en el panel del Depurador. Esta función puede ralentizar las Herramientas de Desarrollo y aumentar el consumo de memoria.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Graphics: Smooth Pinch Zoom
