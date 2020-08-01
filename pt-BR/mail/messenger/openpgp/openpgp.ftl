@@ -224,6 +224,15 @@ import-info-no-keys = Nenhuma chave importada.
 # Strings in enigmailKeyManager.js
 import-from-clip = Quer importar alguma(s) chave(s) da área de transferência?
 import-from-url = Baixar chave pública a partir desta URL:
+copy-to-clipbrd-failed = Não foi possível copiar a(s) chave(s) selecionada(s) para área de transferência.
+copy-to-clipbrd-ok = Chave(s) copiada(s) para área de transferência
+delete-selected-pub-key = Quer excluir as chaves públicas?
+refresh-all-question = Você não selecionou nenhuma chave. Quer atualizar TODAS as chaves?
+key-man-button-export-pub-key = Exportar só chaves &públicas
+key-man-button-refresh-all = &Atualizar todas as chaves
+key-man-loading-keys = Carregando chaves, aguarde…
+export-to-file = Exportar chave pública para arquivo
+save-keys-ok = As chaves foram salvas com sucesso
 
 ## Account settings export output
 
