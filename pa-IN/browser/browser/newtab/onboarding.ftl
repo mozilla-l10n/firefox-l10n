@@ -19,9 +19,6 @@ onboarding-button-label-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span> ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 onboarding-welcome-body = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ।<br/>ਬਾਕੀ { -brand-product-name } ਨੂੰ ਜਾਣੋ।
 onboarding-welcome-learn-more = ਫਾਇਦਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
 onboarding-join-form-header = { -brand-product-name } ਦਾ ਹਿੱਸਾ ਬਣੋ
@@ -44,6 +41,26 @@ onboarding-start-browsing-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰ�
 onboarding-cards-dismiss =
     .title = ਰੱਦ ਕਰੋ
     .aria-label = ਰੱਦ ਕਰੋ
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span> ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
+onboarding-multistage-welcome-primary-button-label = ਸੈੱਟਅਪ ਸ਼ੁਰੂ ਕਰੋ
+onboarding-multistage-welcome-secondary-button-label = ਸਾਈਨ ਇਨ
+onboarding-multistage-welcome-secondary-button-text = ਖਾਤਾ ਹੈ?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = ਆਪਣੇ ਪਾਸਵਰਡ, <br/>ਬੁੱਕਮਾਰਕ ਅਤੇ <span data-l10n-name="zap">ਹੋਰਾਂ</span> ਨੂੰ ਦਰਾਮਦ ਕਰੋ
+onboarding-multistage-import-subtitle = ਹੋਰ ਬਰਾਊਜ਼ਰ ਨੂੰ ਛੱਡ ਕੇ ਆ ਰਹੇ ਹੋ? { -brand-short-name } ਲਈ ਹਰ ਚੀਜ਼ ਲਿਆਉਣ ਸੌਖੀ ਹੈ।
+onboarding-multistage-import-primary-button-label = ਦਰਾਮਦ ਸ਼ੁਰੂ ਕਰੋ
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
