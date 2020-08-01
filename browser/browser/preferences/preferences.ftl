@@ -569,7 +569,7 @@ sync-remove-account =
 sync-sign-in =
     .label = ప్రవేశించండి
     .accesskey = g
-sync-signedin-settings-header = సింక్ అమరికలు
+sync-signedin-settings-header = Sync అమరికలు
 
 ## Sync section - enabling or disabling sync.
 
