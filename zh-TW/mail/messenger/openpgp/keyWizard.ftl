@@ -40,9 +40,34 @@ openpgp-keygen-dismiss =
 openpgp-keygen-import-complete =
     .label = 關閉
     .accesskey = C
+openpgp-keygen-short-expiry = 您的金鑰必須至少有效一天。
+openpgp-keygen-ongoing = 金鑰已經在產生中！
+openpgp-keygen-error-core = 無法初始化 OpenPGP Core Service
+openpgp-keygen-error-failed = OpenPGP 金鑰產生過程發生未預期的失敗
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = 成功產生 OpenPGP 金鑰，但金鑰 { $key } 的撤銷資訊取得失敗
+openpgp-keygen-abort-title = 要中止金鑰產生過程嗎？
+openpgp-keygen-abort = OpenPGP 金鑰正在產生中，確定要取消嗎？
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = 確定要產生 { $identity } 的公鑰與私鑰嗎？
 
 ## Import Key section
 
+openpgp-import-key-title = 匯入已有的 OpenPGP 個人金鑰
+openpgp-import-key-legend = 選擇先前備份的檔案。
+openpgp-import-key-description = 您可以匯入於其他 OpenPGP 軟體建立的個人金鑰。
+openpgp-import-key-info = 在其他軟體中，可能會將個人金鑰稱為「您的金鑰」、「私密金鑰」、「密鑰」或「金鑰對」。
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+       *[other] Thunderbird 找到 { $count } 把可以匯入的金鑰。
+    }
+openpgp-import-key-button =
+    .label = 選擇要匯入的檔案…
+    .accesskey = S
+import-key-file = 匯入 OpenPGP 金鑰檔案
+import-key-personal-checkbox =
+    .label = 將此金鑰視為個人金鑰
 gnupg-file = GnuPG 檔案
 openpgp-import-identity-label = 身份識別
 openpgp-import-fingerprint-label = 指紋
