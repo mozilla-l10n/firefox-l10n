@@ -17,6 +17,15 @@ radio-import-key =
 
 openpgp-generate-key-title = 生成 OpenPGP 密钥
 openpgp-keygen-expiry-title = 密钥到期
+radio-keygen-no-expiry =
+    .label = 密钥永不过期
+    .accesskey = d
+openpgp-keygen-days-label =
+    .label = 天
+openpgp-keygen-months-label =
+    .label = 月
+openpgp-keygen-years-label =
+    .label = 年
 openpgp-keygen-advanced-title = 高级设置
 openpgp-keygen-keytype =
     .value = 密钥类型：
