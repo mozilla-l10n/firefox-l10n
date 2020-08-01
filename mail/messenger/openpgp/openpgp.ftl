@@ -64,10 +64,21 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = 添加密钥...
+    .accesskey = A
 e2e-learn-more = 详细了解
+openpgp-keygen-success = 已成功创建 OpenPGP 密钥！
+openpgp-keygen-import-success = 已成功导入 OpenPGP 密钥！
+openpgp-keygen-external-success = 已保存外部 GnuPG 密钥 ID！
 
 ## OpenPGP Key selection area
 
+# Strings in keyserver.jsm
+keyserver-error-aborted = 已中止
+keyserver-error-unknown = 发生未知错误
+import-info-fpr = 指纹
 
 ## Account settings export output
 
+openpgp-key-revoke-success = 已成功吊销密钥。
