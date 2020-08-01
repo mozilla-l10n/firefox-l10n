@@ -69,6 +69,11 @@ import-key-file = 匯入 OpenPGP 金鑰檔案
 import-key-personal-checkbox =
     .label = 將此金鑰視為個人金鑰
 gnupg-file = GnuPG 檔案
+import-error-file-size = <b>錯誤！</b>不支援超過 5MB 的檔案。
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>錯誤！</b>檔案匯入失敗。{ $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>錯誤！</b>金鑰匯入失敗。{ $error }
 openpgp-import-identity-label = 身份識別
 openpgp-import-fingerprint-label = 指紋
 openpgp-import-created-label = 建立於
@@ -80,6 +85,7 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = 外部 GnuPG 金鑰
+openpgp-external-key-description = 輸入金鑰 ID 來設定外部 GnuPG 金鑰
 openpgp-save-external-button = 儲存金鑰 ID
 openpgp-external-key-label = 密鑰 ID:
 openpgp-external-key-input =
