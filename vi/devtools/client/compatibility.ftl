@@ -12,7 +12,11 @@ compatibility-all-elements-header = Tất cả vấn đề
 
 compatibility-issue-deprecated = (ngừng hỗ trợ)
 compatibility-issue-experimental = (thử nghiệm)
+compatibility-issue-prefixneeded = (cần có tiền tố)
 compatibility-issue-deprecated-experimental = (ngừng hỗ trợ, thử nghiệm)
+compatibility-issue-deprecated-prefixneeded = (không còn dùng nữa, cần có tiền tố)
+compatibility-issue-experimental-prefixneeded = (thử nghiệm, cần có tiền tố)
+compatibility-issue-deprecated-experimental-prefixneeded = (không còn dùng nữa, thử nghiệm, cần có tiền tố)
 
 ## Messages used as labels and titles for buttons in the footer
 
