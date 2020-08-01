@@ -791,10 +791,24 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
     .accesskey = U
+forms-primary-pw-use =
+    .label = ਮੁੱਖ ਪਾਸਵਰਡ ਵਰਤੋਂ
+    .accesskey = U
+forms-primary-pw-learn-more-link = ਹੋਰ ਜਾਣੋ
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = …ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
     .accesskey = M
 forms-master-pw-fips-title = ਇਸ ਸਮੇਂ ਤੁਸੀਂ FIPS ਮੋਡ ਵਿੱਚ ਹੋ। FIPS ਨੂੰ ਇੱਕ ਨਾ-ਖਾਲੀ ਮਾਸਟਰ ਪਾਸਵਰਡ ਲੋੜੀਦਾ ਹੈ
+forms-primary-pw-change =
+    .label = …ਮੁੱਖ ਪਾਸਵਰਡ ਬਦਲੋ
+    .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = ਪਹਿਲਾਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਜੋਂ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ
 forms-master-pw-fips-desc = ਪਾਸਵਰਡ ਨੂੰ ਬਦਲਣਾ ਫੇਲ੍ਹ ਹੋਇਆ
 
 ## OS Authentication dialog
@@ -806,6 +820,11 @@ master-password-os-auth-dialog-message-win = ਮਾਸਟਰ ਪਾਸਵਰਡ 
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਣਾਓ
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = ਮੁੱਖ ਪਾਸਵਰਡ ਬਣਾਓ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

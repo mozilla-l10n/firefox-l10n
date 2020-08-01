@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = ਕਈ ਟੈਬਾਂ ਬੰਦ ਕਰੋ
     .accesskey = M
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -78,4 +82,20 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = ਟੈਬ ਭੇਜੋ
+    .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] ਟੈਬ ਬੰਦ ਕਰੋ
+            [one] ਟੈਬ ਬੰਦ ਕਰੋ
+           *[other] ਟੈਬਾਂ ਬੰਦ ਕਰੋ
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] ਟੈਬ ਭੇਜੋ
+            [one] ਟੈਬ ਭੇਜੋ
+           *[other] ਟੈਬਾਂ ਭੇਜੋ
+        }
     .accesskey = v
