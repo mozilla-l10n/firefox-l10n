@@ -20,7 +20,7 @@
 <!ENTITY mboxStore2.label              "File per cartella (mbox)">
 <!ENTITY maildirStore.label            "Un file per ogni messaggio (maildir)">
 
-<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY scrolling.label               "Scorrimento">
 <!ENTITY useAutoScroll.label           "Utilizza lo scorrimento automatico">
 <!ENTITY useAutoScroll.accesskey       "U">
 <!ENTITY useSmoothScrolling.label      "Utilizza lo scorrimento continuo">
