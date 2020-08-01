@@ -9,6 +9,9 @@ key-wizard-button =
     .buttonlabelaccept = 繼續
     .buttonlabelhelp = 返回
 key-wizard-learn-more = 了解更多
+radio-create-key =
+    .label = 建立新的 OpenPGP 金鑰
+    .accesskey = C
 radio-import-key =
     .label = 匯入已有的 OpenPGP 金鑰
     .accesskey = I
@@ -19,6 +22,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = 產生 OpenPGP 金鑰
+openpgp-generate-key-info = <b>可能需要花上幾分鐘金鑰才能產生完成。</b>金鑰產生過程中，請不要關閉應用程式。持續上網，或進行需要頻繁讀寫磁碟的動作，可重新補充「隨機程度池」以加速金鑰產生。完成後將提示您金鑰已經產生。
 openpgp-keygen-expiry-title = 金鑰到期日
 radio-keygen-expiry =
     .label = 金鑰過期時間
@@ -33,6 +37,7 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = 年
 openpgp-keygen-advanced-title = 進階設定
+openpgp-keygen-advanced-description = 控制您 OpenPGP 金鑰的進階設定。
 openpgp-keygen-keytype =
     .value = 金鑰類型:
     .accesskey = t
@@ -44,13 +49,21 @@ openpgp-keygen-type-rsa =
 openpgp-keygen-type-ecc =
     .label = ECC（橢圓曲線）
 openpgp-keygen-button = 產生金鑰
+openpgp-keygen-progress-title = 正在產生您的新 OpenPGP 金鑰…
+openpgp-keygen-import-progress-title = 正在匯入您的新 OpenPGP 金鑰…
+openpgp-import-success = 成功匯入 OpenPGP 金鑰！
+openpgp-import-success-title = 完成匯入過程
+openpgp-import-success-description = 若要使用您剛匯入的 OpenPGP 金鑰來加密郵件，請關閉此對話框，並到帳號設定當中選擇這把金鑰。
 openpgp-keygen-confirm =
     .label = 確認
 openpgp-keygen-dismiss =
     .label = 取消
+openpgp-keygen-cancel =
+    .label = 取消產生金鑰…
 openpgp-keygen-import-complete =
     .label = 關閉
     .accesskey = C
+openpgp-keygen-long-expiry = 您不能產生超過 100 年後才會到期的金鑰。
 openpgp-keygen-short-expiry = 您的金鑰必須至少有效一天。
 openpgp-keygen-ongoing = 金鑰已經在產生中！
 openpgp-keygen-error-core = 無法初始化 OpenPGP Core Service
@@ -73,6 +86,9 @@ openpgp-import-key-list-amount =
     { $count ->
        *[other] Thunderbird 找到 { $count } 把可以匯入的金鑰。
     }
+openpgp-passphrase-prompt-title = 請輸入密語
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = 請輸入用來解開下列金鑰的密語: { $key }
 openpgp-import-key-button =
     .label = 選擇要匯入的檔案…
     .accesskey = S
