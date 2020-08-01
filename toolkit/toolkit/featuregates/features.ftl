@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Debug de Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Ativa o suporte experimental de Service Workers no painel Debugger. Este recurso pode tornar o Developer Tools mais lento e aumentar o consumo de memória.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Gráfico: Zoom suave com movimento de pinça com os dedos
+experimental-features-graphics-desktop-zooming-description = Ativa o suporte a zoom suave com movimento de pinça com os dedos em telas sensíveis ao toque e em touch pads de precisão.
