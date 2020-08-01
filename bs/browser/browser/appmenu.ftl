@@ -7,6 +7,7 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Preuzimam { -brand-shorter-name } nadogradnju
+appmenuitem-protection-dashboard-title = Dashboard zaštite
 appmenuitem-customize-mode =
     .label = Prilagođavanje…
 
@@ -25,3 +26,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Šta je novo
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Obavijesti o novim mogućnostima
+    .accesskey = f

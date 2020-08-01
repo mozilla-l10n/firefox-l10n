@@ -2,6 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-unknowncontenttype-handleinternally =
-    .label = Otvori sa { -brand-short-name }
-    .accesskey = e
+about-mozilla-title-6-27 = Knjiga o Mozilli, 6:27
+about-mozilla-from-6-27 = iz <strong>Knjige o Mozilli,</strong> 6:27

@@ -103,6 +103,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Spasi link kao…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = Spasi link u { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -306,6 +309,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspekcija elementa
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = Provjerite svojstva pristupačnosti
 main-context-menu-eme-learn-more =
     .label = Saznajte više o DRM-u…
     .accesskey = D
