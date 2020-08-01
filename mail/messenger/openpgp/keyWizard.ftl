@@ -2,13 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+#   $identity (String) - the email address of the currently selected identity
+key-wizard-dialog-window =
+    .title = 為 { $identity } 新增一把 OpenPGP 個人金鑰
 key-wizard-button =
     .buttonlabelaccept = 繼續
     .buttonlabelhelp = 返回
 key-wizard-learn-more = 了解更多
+radio-import-key =
+    .label = 匯入已有的 OpenPGP 金鑰
+    .accesskey = I
+radio-gnupg-key =
+    .label = 透過 GnuPG 使用您的外部金鑰（例如: 智慧卡）
+    .accesskey = U
 
 ## Generate key section
 
+openpgp-generate-key-title = 產生 OpenPGP 金鑰
+openpgp-keygen-expiry-title = 金鑰到期日
 radio-keygen-expiry =
     .label = 金鑰過期時間
     .accesskey = e
