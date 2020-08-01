@@ -20,3 +20,6 @@ openpgp-key-own = 接受（個人金鑰）
 openpgp-key-secret-not-personal = 無法使用
 openpgp-key-verified = 接受（已驗證）
 openpgp-key-unverified = 接受（未驗證）
+openpgp-key-undecided = 不接受（未決定）
+openpgp-key-rejected = 不接受（已拒絕）
+openpgp-intro = { $key } 可用的公鑰
