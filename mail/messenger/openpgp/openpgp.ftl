@@ -310,7 +310,51 @@ dlg-button-delete = 刪除 (&D)
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>成功匯出公鑰！</b>
+openpgp-export-public-fail = <b>無法匯出選擇的公鑰！</b>
+openpgp-export-secret-success = <b>成功匯出私鑰！</b>
+openpgp-export-secret-fail = <b>無法匯出選擇的私鑰！</b>
+# Strings in gnupg-keylist.jsm
+keyring-photo = 相片
+user-att-photo = 使用者屬性（JPEG 圖片）
+# Strings in key.jsm
+already-revoked = 這把金鑰已被撤銷。
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = 金鑰 0x{ $keyId } 已被撤銷。
+key-man-button-revoke-key = 撤銷金鑰 (&R)
+openpgp-key-revoke-success = 成功撤銷金鑰。
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = 匯入 (&I)
+delete-key-title = 刪除 OpenPGP 金鑰
+# Strings used in trust.jsm
+key-valid-unknown = 未知
+key-valid-invalid = 無效
+key-valid-disabled = 已停用
+key-valid-revoked = 已撤銷
+key-valid-expired = 已過期
+key-trust-untrusted = 未受信任
+key-trust-full = 受信任
+key-trust-ultimate = 完全信任
+key-trust-group = （群組）
+# Strings used in commonWorkflows.js
+import-key-file = 匯入 OpenPGP 金鑰檔案
 import-rev-file = 匯入 OpenPGP 撤銷檔案
+gnupg-file = GnuPG 檔案
+import-keys-failed = 金鑰匯入失敗
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = 建立並儲存撤銷憑證
 revoke-cert-failed = 無法建立撤銷憑證。
+key-man-button-generate-key = 產生金錀 (&G)
+msg-compose-details-button-access-key = D
+dlg-button-close = 關閉 (&C)
+dlg-button-cancel = 取消 (&C)
+enig-confirm = OpenPGP 確認
+enig-alert = OpenPGP 警示
+enig-info = OpenPGP 資訊
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = 重試 (&R)
+dlg-button-skip = 略過 (&S)
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP 錯誤
+enig-alert-title =
+    .title = OpenPGP 警示
