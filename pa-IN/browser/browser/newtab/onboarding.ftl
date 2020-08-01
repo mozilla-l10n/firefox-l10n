@@ -55,6 +55,27 @@ onboarding-multistage-welcome-secondary-button-text = ਖਾਤਾ ਹੈ?
 onboarding-multistage-import-header = ਆਪਣੇ ਪਾਸਵਰਡ, <br/>ਬੁੱਕਮਾਰਕ ਅਤੇ <span data-l10n-name="zap">ਹੋਰਾਂ</span> ਨੂੰ ਦਰਾਮਦ ਕਰੋ
 onboarding-multistage-import-subtitle = ਹੋਰ ਬਰਾਊਜ਼ਰ ਨੂੰ ਛੱਡ ਕੇ ਆ ਰਹੇ ਹੋ? { -brand-short-name } ਲਈ ਹਰ ਚੀਜ਼ ਲਿਆਉਣ ਸੌਖੀ ਹੈ।
 onboarding-multistage-import-primary-button-label = ਦਰਾਮਦ ਸ਼ੁਰੂ ਕਰੋ
+onboarding-multistage-import-secondary-button-label = ਹਾਲੇ ਨਹੀਂ
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = ਸ਼ੁਰੂ ਕਰੀਏ: { $total } ਵਿੱਚੋਂ { $current } ਸਕਰੀਨ
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = <span data-l10n-name="zap">ਦਿੱਖ</span> ਨੂੰ ਚੁਣੋ
+onboarding-multistage-theme-subtitle = ਥੀਮ ਨਾਲ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ।
+onboarding-multistage-theme-primary-button-label = ਥੀਮ ਸੰਭਾਲੋ
+onboarding-multistage-theme-secondary-button-label = ਹਾਲੇ ਨਹੀਂ
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = ਆਟੋਮੈਟਿਕ
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = ਸਿਸਟਮ ਥੀਮ ਵਰਤੋਂ
+onboarding-multistage-theme-label-light = ਹਲਕਾ
+onboarding-multistage-theme-label-dark = ਗੂੜ੍ਹਾ
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
