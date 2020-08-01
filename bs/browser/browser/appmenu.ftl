@@ -5,11 +5,17 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = Preuzimam { -brand-shorter-name } nadogradnju
 appmenuitem-customize-mode =
     .label = Prilagođavanje…
 
 ## Zoom Controls
 
+appmenuitem-zoom-enlarge =
+    .label = Uvećaj
+appmenuitem-zoom-reduce =
+    .label = Umanji
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
@@ -18,3 +24,4 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Šta je novo
