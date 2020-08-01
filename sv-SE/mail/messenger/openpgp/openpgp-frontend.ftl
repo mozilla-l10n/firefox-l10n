@@ -26,3 +26,23 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Det här meddelandet var signerat med en nyckel som du inte har ännu.
 openpgp-search-signature-key =
     .label = Hitta…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = Detta är ett OpenPGP-meddelande som tydligen skadades av MS-Exchange. Om meddelandets innehåll inte visas som förväntat kan du prova en automatisk reparation.
+openpgp-broken-exchange-repair =
+    .label = Reparera meddelande
+openpgp-broken-exchange-wait = Var god vänta…
+openpgp-cannot-decrypt-because-mdc =
+    Detta är ett krypterat meddelande som använder en gammal och sårbar mekanism.
+    Det kunde ha ändrats under transporten, med avsikt att stjäla innehållet.
+    För att förhindra denna risk visas inte innehållet.
+openpgp-cannot-decrypt-because-missing-key = Den hemliga nyckeln som krävs för att dekryptera detta meddelande är inte tillgänglig.
+openpgp-partially-signed =
+    Endast en delmängd av detta meddelande signerades digitalt med OpenPGP.
+    Om du klickar på verifieringsknappen döljs de oskyddade delarna och statusen för den digitala signaturen visas.
+openpgp-partially-encrypted =
+    Endast en delmängd av det här meddelandet krypterades med OpenPGP.
+    De läsbara delarna av meddelandet som redan visas krypterades inte.
+    Om du klickar på dekryptera-knappen visas innehållet i de krypterade delarna.
+openpgp-reminder-partial-display = Påminnelse: Meddelandet som visas nedan är bara en delmängd av det ursprungliga meddelandet.
+openpgp-partial-verify-button = Verifiera
+openpgp-partial-decrypt-button = Dekryptera
