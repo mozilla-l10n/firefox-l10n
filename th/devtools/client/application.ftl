@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = ดีบั๊ก
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = เริ่ม
     .title = สามารถเริ่มตัวทำงานบริการได้หาก multi e10s ถูกปิดใช้งานอยู่เท่านั้น
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = เริ่ม
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = อัปเดตเมื่อ <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -81,6 +84,8 @@ manifest-view-header = ไฟล์กำกับของแอป
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = คุณต้องเพิ่มไฟล์กำกับของแอปพลิเคชันเว็บเพื่อตรวจสอบที่นี่ <a>เรียนรู้เพิ่มเติม</a>
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = เรียนรู้วิธีเพิ่มไฟล์กำกับ
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = ข้อผิดพลาดและคำเตือน
 # Header for the Identity section of Manifest inspection displayed in the application panel.
