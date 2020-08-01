@@ -6,41 +6,41 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ใช้ใบรับรองความปลอดภัยที่ไม่ถูกต้อง
 cert-error-mitm-intro = เว็บไซต์จะพิสูจน์ข้อมูลประจำตัวของตนเองผ่านใบรับรอง ซึ่งจะออกให้โดยผู้ให้บริการออกใบรับรอง
-cert-error-mitm-mozilla = { -brand-short-name } ได้รับการสนับสนุนโดย Mozilla ที่ไม่แสวงหาผลกำไรซึ่งดูแลที่เก็บผู้ออกใบรับรอง (CA) ที่เปิดอย่างสมบูรณ์ ที่เก็บ CA ช่วยให้มั่นใจได้ว่าผู้ออกใบรับรองปฏิบัติตามแนวทางที่ดีที่สุดเพื่อความปลอดภัยของผู้ใช้
-cert-error-mitm-connection = { -brand-short-name } ใช้ที่เก็บ Mozilla CA เพื่อตรวจสอบว่าการเชื่อมต่อนั้นปลอดภัย แทนที่จะใช้ใบรับรองที่มาจากระบบปฏิบัติการของผู้ใช้ ดังนั้นหากโปรแกรมป้องกันไวรัสหรือเครือข่ายขัดขวางการเชื่อมต่อกับใบรับรองความปลอดภัยที่ออกโดย CA ที่ไม่ได้อยู่ในที่เก็บ Mozilla CA การเชื่อมต่อจะถือว่าไม่ปลอดภัย
+cert-error-mitm-mozilla = { -brand-short-name } ได้รับการสนับสนุนโดย Mozilla ที่ไม่แสวงหาผลกำไรซึ่งดูแลที่เก็บผู้ให้บริการออกใบรับรอง (CA) ที่เปิดอย่างสมบูรณ์ ที่เก็บ CA ช่วยให้มั่นใจได้ว่าผู้ให้บริการออกใบรับรองปฏิบัติตามแนวทางที่ดีที่สุดเพื่อความปลอดภัยของผู้ใช้
+cert-error-mitm-connection = { -brand-short-name } ใช้ที่เก็บ Mozilla CA เพื่อตรวจสอบว่าการเชื่อมต่อนั้นปลอดภัย แทนที่จะใช้ใบรับรองที่มาจากระบบปฏิบัติการของผู้ใช้ ดังนั้นหากโปรแกรมป้องกันไวรัสหรือเครือข่ายขัดขวางการเชื่อมต่อกับใบรับรองความปลอดภัยที่ออกให้โดย CA ที่ไม่ได้อยู่ในที่เก็บ Mozilla CA การเชื่อมต่อจะถือว่าไม่ปลอดภัย
 cert-error-trust-unknown-issuer-intro = อาจมีใครบางคนพยายามที่จะเลียนแบบไซต์และคุณไม่ควรดำเนินการต่อ
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = เว็บไซต์พิสูจน์ข้อมูลประจำตัวของตัวเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือ { $hostname } เนื่องจากไม่ทราบผู้ออกใบรับรอง, ใบรับรองถูกลงชื่อด้วยตนเอง, หรือเซิร์ฟเวอร์ไม่ส่งใบรับรองระดับกลางที่ถูกต้อง
-cert-error-trust-cert-invalid = ใบรับรองไม่น่าเชื่อถือเพราะออกให้โดยผู้ออกที่ไม่ได้รับอนุญาต
-cert-error-trust-untrusted-issuer = ใบรับรองไม่น่าเชื่อถือเพราะออกให้โดยผู้ที่ไม่ได้รับการเชื่อถือ
-cert-error-trust-signature-algorithm-disabled = ใบรับรองไม่น่าเชื่อถือเพราะเซ็นรับโดยใช้อัลกอริทึมลายเซ็นที่ถูกปิดใช้งานเนื่องจากไม่ปลอดภัย
-cert-error-trust-expired-issuer = ใบรับรองไม่น่าเชื่อถือเพราะผู้ให้การรับรองหมดอายุการรับรองแล้ว
-cert-error-trust-self-signed = ใบรับรองของไม่น่าเชื่อถือเพราะเป็นการออกใบรับรองโดยเจ้าของเว็บไซต์เอง
+cert-error-trust-unknown-issuer = เว็บไซต์จะพิสูจน์ข้อมูลประจำตัวของตนเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือ { $hostname } เนื่องจากไม่ทราบผู้ออกใบรับรอง, ใบรับรองถูกลงชื่อด้วยตนเอง, หรือเซิร์ฟเวอร์ไม่ส่งใบรับรองระดับกลางที่ถูกต้อง
+cert-error-trust-cert-invalid = ใบรับรองไม่ได้รับความเชื่อถือเนื่องจากออกให้โดยผู้ให้บริการออกใบรับรองที่ไม่ถูกต้อง
+cert-error-trust-untrusted-issuer = ใบรับรองไม่ได้รับความเชื่อถือเนื่องจากออกให้โดยผู้ที่ไม่ได้รับความเชื่อถือ
+cert-error-trust-signature-algorithm-disabled = ใบรับรองไม่ได้รับความเชื่อถือเนื่องจากถูกลงลายเซ็นโดยใช้อัลกอริทึมลายเซ็นที่ถูกปิดใช้งานเนื่องจากอัลกอริทึมนั้นไม่ปลอดภัย
+cert-error-trust-expired-issuer = ใบรับรองไม่ได้รับความเชื่อถือเนื่องจากผู้ออกใบรับรองหมดอายุแล้ว
+cert-error-trust-self-signed = ใบรับรองไม่ได้รับความเชื่อถือเนื่องจากเป็นการออกใบรับรองโดยเจ้าของเว็บไซต์เอง
 cert-error-trust-symantec = ใบรับรองที่ออกโดย GeoTrust, RapidSSL, Symantec, Thawte และ VeriSign จะไม่ได้รับการพิจารณาว่าปลอดภัยอีกต่อไปเนื่องจากผู้ออกใบรับรองเหล่านี้ไม่ปฏิบัติตามแนวทางด้านความปลอดภัยในอดีต
-cert-error-untrusted-default = ใบรับรองมาจากแหล่งที่ไม่น่าเชื่อถือ
+cert-error-untrusted-default = ใบรับรองไม่ได้มาจากแหล่งที่ได้รับความเชื่อถือ
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = เว็บไซต์พิสูจน์ข้อมูลประจำตัวของตัวเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากใช้ใบรับรองที่ไม่ถูกต้องสำหรับ { $hostname }
-# Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = เว็บไซต์พิสูจน์ข้อมูลประจำตัวของตัวเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากใช้ใบรับรองที่ไม่ถูกต้องสำหรับ { $hostname } ใบรับรองดังกล่าวถูกต้องสำหรับ <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> เท่านั้น
+cert-error-domain-mismatch = เว็บไซต์จะพิสูจน์ข้อมูลประจำตัวของตนเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากใช้ใบรับรองที่ไม่ถูกต้องสำหรับ { $hostname }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = เว็บไซต์พิสูจน์ข้อมูลประจำตัวของตัวเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากใช้ใบรับรองที่ไม่ถูกต้องสำหรับ { $hostname } ใบรับรองดังกล่าวถูกต้องสำหรับ { $alt-name } เท่านั้น
+cert-error-domain-mismatch-single = เว็บไซต์จะพิสูจน์ข้อมูลประจำตัวของตนเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากใช้ใบรับรองที่ไม่ถูกต้องสำหรับ { $hostname } ใบรับรองดังกล่าวถูกต้องสำหรับ <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> เท่านั้น
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = เว็บไซต์จะพิสูจน์ข้อมูลประจำตัวของตนเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากใช้ใบรับรองที่ไม่ถูกต้องสำหรับ { $hostname } ใบรับรองดังกล่าวถูกต้องสำหรับ { $alt-name } เท่านั้น
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = เว็บไซต์พิสูจน์ข้อมูลประจำตัวของตัวเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากใช้ใบรับรองที่ไม่ถูกต้องสำหรับ { $hostname } ใบรับรองดังกล่าวถูกต้องสำหรับชื่อดังต่อไปนี้เท่านั้น: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = เว็บไซต์จะพิสูจน์ข้อมูลประจำตัวของตนเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากใช้ใบรับรองที่ไม่ถูกต้องสำหรับ { $hostname } ใบรับรองดังกล่าวถูกต้องสำหรับชื่อดังต่อไปนี้เท่านั้น: { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = เว็บไซต์พิสูจน์ข้อมูลประจำตัวของตัวเองผ่านใบรับรอง ซึ่งมีผลภายในช่วงเวลาที่กำหนดเท่านั้น ใบรับรองสำหรับ { $hostname } หมดอายุเมื่อ { $not-after-local-time }
+cert-error-expired-now = เว็บไซต์จะพิสูจน์ข้อมูลประจำตัวของตนเองผ่านใบรับรอง ซึ่งมีผลภายในช่วงเวลาที่กำหนดเท่านั้น ใบรับรองสำหรับ { $hostname } หมดอายุเมื่อ { $not-after-local-time }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = เว็บไซต์พิสูจน์ข้อมูลประจำตัวของตัวเองผ่านใบรับรอง ซึ่งมีผลภายในช่วงเวลาที่กำหนดเท่านั้น ใบรับรองสำหรับ { $hostname } จะไม่มีผลจนถึง { $not-before-local-time }
+cert-error-not-yet-valid-now = เว็บไซต์จะพิสูจน์ข้อมูลประจำตัวของตนเองผ่านใบรับรอง ซึ่งมีผลภายในช่วงเวลาที่กำหนดเท่านั้น ใบรับรองสำหรับ { $hostname } จะไม่มีผลจนถึง { $not-before-local-time }
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = รหัสข้อผิดพลาด: <a data-l10n-name="error-code-link">{ $error }</a>
