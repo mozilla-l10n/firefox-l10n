@@ -973,3 +973,7 @@ space-alert-under-5gb-ok-button =
 desktop-folder-name = డెస్కుటాప్
 downloads-folder-name = దింపుకోళ్ళు
 choose-download-folder-title = దింపుకోళ్ళ సంచయాన్ని తెరువు:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = దస్త్రాలను { $service-name }‌లో భద్రపరుచు
