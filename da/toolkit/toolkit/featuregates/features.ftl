@@ -6,6 +6,10 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry =
     .label = CSS Masonry-layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Aktiverer den eksperimentelle funktion med CSS Masonry-layout. Læs <a data-l10n-name="explainer">denne artikel</a> for at få et overblik over funktionen. Hvis du har feedback, så skriv gerne en kommentar på <a data-l10n-name="w3c-issue">dette issue på GitHub</a> eller på <a data-l10n-name="bug">denne bug</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -17,6 +21,10 @@ experimental-features-web-gpu-description = Eksperimentel API til anvendelse af 
 experimental-features-avif =
     .label = AVIF
 experimental-features-avif-description = Eksperimentel understøttelse af AVIF, AV1 Image File Format
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax som standard
