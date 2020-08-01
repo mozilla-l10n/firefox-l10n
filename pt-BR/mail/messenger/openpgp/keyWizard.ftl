@@ -32,9 +32,34 @@ openpgp-keygen-keysize =
     .accesskey = t
 openpgp-keygen-type-rsa =
     .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (curva elíptica)
+openpgp-keygen-button = Gerar chave
+openpgp-keygen-progress-title = Gerando sua nova chave OpenPGP…
+openpgp-keygen-import-progress-title = Importando suas chaves OpenPGP…
+openpgp-import-success = Chaves OpenPGP importadas com sucesso!
+openpgp-import-success-title = Concluir o processo de importação
+openpgp-keygen-confirm =
+    .label = Confirmar
+openpgp-keygen-dismiss =
+    .label = Cancelar
+openpgp-keygen-import-complete =
+    .label = Fechar
+    .accesskey = F
 
 ## Import Key section
 
+gnupg-file = Arquivos GnuPG
+openpgp-import-identity-label = Identidade
+openpgp-import-fingerprint-label = Impressão digital
+openpgp-import-created-label = Criação
+openpgp-import-bits-label = Bits
+openpgp-import-key-props =
+    .label = Propriedades da chave
+    .accesskey = c
 
 ## External Key section
 
+openpgp-external-key-title = Chave GnuPG externa
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
