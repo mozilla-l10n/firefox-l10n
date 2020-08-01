@@ -1155,7 +1155,15 @@ space-alert-under-5gb-message = พื้นที่ดิสก์ของ { 
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = โหมด HTTPS-Only
+httpsonly-description = HTTPS จะจัดให้มีการเชื่อมต่อแบบเข้ารหัสที่ปลอดภัยระหว่าง { -brand-short-name } และเว็บไซต์ที่คุณเยี่ยมชม เว็บไซต์ส่วนใหญ่จะรองรับ HTTPS และหากเปิดใช้งานโหมด HTTPS-Only แล้ว { -brand-short-name } จะอัปเกรดการเชื่อมต่อทั้งหมดเป็น HTTPS
 httpsonly-learn-more = เรียนรู้เพิ่มเติม
+httpsonly-radio-enabled =
+    .label = เปิดใช้งานโหมด HTTPS-Only ในหน้าต่างทั้งหมด
+httpsonly-radio-enabled-pbm =
+    .label = เปิดใช้งานโหมด HTTPS-Only ในหน้าต่างส่วนตัวเท่านั้น
+httpsonly-radio-disabled =
+    .label = ไม่ต้องเปิดใช้งานโหมด HTTPS-Only
 
 ## The following strings are used in the Download section of settings
 
