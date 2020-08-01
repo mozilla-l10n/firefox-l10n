@@ -107,7 +107,7 @@ onboarding-multistage-theme-tooltip-dark =
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow =
     .title =
-        Использовать красочный внешний вид для кнопок,
+        Использует красочный внешний вид для кнопок,
         меню и окон.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
