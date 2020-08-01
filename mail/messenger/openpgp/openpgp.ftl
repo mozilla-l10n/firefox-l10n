@@ -233,6 +233,7 @@ key-man-button-refresh-all = &Atualizar todas as chaves
 key-man-loading-keys = Carregando chaves, aguarde…
 export-to-file = Exportar chave pública para arquivo
 save-keys-ok = As chaves foram salvas com sucesso
+save-keys-failed = Falha ao salvar as chaves
 
 ## Account settings export output
 
