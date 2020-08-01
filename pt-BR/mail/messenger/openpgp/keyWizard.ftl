@@ -49,12 +49,15 @@ openpgp-keygen-import-complete =
 
 ## Import Key section
 
+openpgp-import-key-description = Você pode importar chaves pessoais criadas com outro software OpenPGP.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
         [one] O Thunderbird encontrou uma chave que pode ser importada.
        *[other] O Thunderbird encontrou { $count } chaves que podem ser importadas.
     }
+openpgp-import-key-list-description = Confirme quais podem ser tratadas como suas chaves pessoais. Somente chaves que você criou e que mostram sua própria identidade devem ser usadas como chaves pessoais. Você pode alterar esta opção mais tarde no diálogo de propriedades da chave.
+openpgp-import-key-list-caption = Chaves marcadas para ser tratadas como chaves pessoais aparecem na seção de criptografia de ponta a ponta. As outras ficam disponíveis no gerenciador de chaves.
 gnupg-file = Arquivos GnuPG
 openpgp-import-identity-label = Identidade
 openpgp-import-fingerprint-label = Impressão digital
