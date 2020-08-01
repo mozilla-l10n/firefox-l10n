@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Cho phép hỗ trợ thử nghiệm Service Workers trong thẻ Trình gỡ lỗi. Tính năng này có thể làm chậm Công cụ dành cho nhà phát triển và tăng mức tiêu thụ bộ nhớ.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Đồ họa: Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = Cho phép hỗ trợ cho việc phóng to pinch mịn trên màn hình cảm ứng và cảm ứng chính xác.
