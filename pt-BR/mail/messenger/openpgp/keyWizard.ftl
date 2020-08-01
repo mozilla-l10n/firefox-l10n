@@ -68,6 +68,11 @@ openpgp-import-key-button =
 import-key-personal-checkbox =
     .label = Tratar esta chave como uma chave pessoal
 gnupg-file = Arquivos GnuPG
+import-error-file-size = <b>Erro!</b> Arquivos maiores que 5MB não são suportados.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Erro!</b> Falha ao importar arquivo. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Erro!</b> Falha ao importar chaves. { $error }
 openpgp-import-identity-label = Identidade
 openpgp-import-fingerprint-label = Impressão digital
 openpgp-import-created-label = Criação

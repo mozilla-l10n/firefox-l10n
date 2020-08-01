@@ -10,4 +10,7 @@ openpgp-one-recipient-status-created-date =
     .label = Criação
 openpgp-one-recipient-status-expires-date =
     .label = Vencimento
+openpgp-key-own = Aceita (chave pessoal)
 openpgp-key-secret-not-personal = Não usável
+openpgp-key-verified = Aceita (confirmada)
+openpgp-key-unverified = Aceita (não confirmada)
