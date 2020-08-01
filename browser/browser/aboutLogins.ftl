@@ -133,6 +133,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = ਸੰਭਾਲੇ 
 ## Master Password notification
 
 master-password-notification-message = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ ਵੇਖਣ ਲਈ ਆਪਣਾ ਮਾਸਟਰ ਪਾਸਵਰਡ ਦਿਓ
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ ਵੇਖਣ ਲਈ ਆਪਣਾ ਮੁੱਖ ਪਾਸਵਰਡ ਦਿਓ
 master-password-reload-button =
     .label = ਲਾਗ ਇਨ
     .accesskey = L
