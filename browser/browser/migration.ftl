@@ -16,6 +16,9 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge Legacy
+    .accesskey = L
 import-from-edge-beta =
     .label = Microsoft Edge Beta
     .accesskey = d
@@ -85,6 +88,7 @@ imported-edge-reading-list = רשימת קריאה (מ־Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
