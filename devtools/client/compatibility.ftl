@@ -12,7 +12,11 @@ compatibility-all-elements-header = כל הבעיות
 
 compatibility-issue-deprecated = (הוצא משימוש)
 compatibility-issue-experimental = (ניסיוני)
+compatibility-issue-prefixneeded = (דרושה קידומת)
 compatibility-issue-deprecated-experimental = (הוצא משימוש, ניסיוני)
+compatibility-issue-deprecated-prefixneeded = (הוצא משימוש, דרושה קידומת)
+compatibility-issue-experimental-prefixneeded = (ניסיוני, דרושה קידומת)
+compatibility-issue-deprecated-experimental-prefixneeded = (הוצא משימוש, ניסיוני, דרושה קידומת)
 
 ## Messages used as labels and titles for buttons in the footer
 
