@@ -5,6 +5,7 @@
 set-password-window =
     .title = Välj ett lösenord för att säkerhetskopiera din OpenPGP-nyckel
 set-password-legend = Skapa ett lösenord
+set-password-message = Lösenordet du anger här skyddar din OpenPGP-säkerhetskopia för din hemliga nyckel som du håller på att skapa. Du måste ange det här lösenordet för att fortsätta med säkerhetskopian.
 set-password-backup-pw =
     .value = Backuplösenord för hemlig nyckel:
 set-password-repeat-backup-pw =
