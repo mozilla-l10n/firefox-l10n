@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Πληκτρολογήστε λιγότερα, βρείτε περισσότερα: Αναζητήστε μέσω { $engineName } κατευθείαν από τη γραμμή διευθύνσεων.
 urlbar-search-tips-redirect-2 = Ξεκινήστε την αναζήτησή σας στη γραμμή διευθύνσεων για να δείτε προτάσεις από το { $engineName } και το ιστορικό περιήγησής σας.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Σελιδοδείκτες
+urlbar-search-mode-tabs = Καρτέλες
+urlbar-search-mode-history = Ιστορικό
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,26 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ορίστε ως προεπιλεγμένη μηχανή αναζήτησης για ιδιωτικά παράθυρα
     .accesskey = ι
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Σελιδοδείκτες ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Καρτέλες ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Ιστορικό ({ $restrict })
 
 ## Bookmark Panel
 
