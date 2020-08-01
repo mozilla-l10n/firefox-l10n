@@ -206,9 +206,36 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] 請選擇一把有效的金鑰以開啟 OpenPGP 通訊協定。
+       *[other] 您目前設定使用 ID 為 <b>{ $key }</b> 的金鑰
+    }
+openpgp-add-key-button =
+    .label = 新增金鑰…
+    .accesskey = A
+e2e-learn-more = 了解更多
+openpgp-keygen-success = 成功建立 OpenPGP 金鑰！
+openpgp-keygen-import-success = 成功匯入 OpenPGP 金鑰！
+openpgp-keygen-external-success = 已儲存外部 GnuPG 金鑰 ID！
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = 無
+openpgp-radio-none-desc = 不要為此身份使用 OpenPGP。
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = 到期於: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = 金鑰將於 6 個月內到期
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = 過期於: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = 金鑰已過期
+openpgp-key-expand-section =
+    .tooltiptext = 更多資訊
 
 ## Account settings export output
 
