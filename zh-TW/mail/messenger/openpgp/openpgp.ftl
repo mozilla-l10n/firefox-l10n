@@ -262,6 +262,37 @@ key-expired-simple = 金鑰已經過期
 key-revoked-simple = 金鑰已被撤銷
 # Strings in keyserver.jsm
 keyserver-error-aborted = 已中斷
+keyserver-error-unknown = 發生了未知的錯誤
+keyserver-error-server-error = 金鑰伺服器回覆錯誤。
+keyserver-error-import-error = 下載的金鑰匯入失敗。
+keyserver-error-unavailable = 金鑰伺服器無法使用。
+keyserver-error-security-error = 金鑰伺服器不支援加密連線方式。
+keyserver-error-certificate-error = 金鑰伺服器的憑證無效。
+keyserver-error-unsupported = 不支援此金鑰伺服器。
+# Strings in gpg.jsm
+unknown-signing-alg = 未知的簽章演算法（ID: { $id }）
+unknown-hash-alg = 未知的加密雜湊值（ID: { $id }）
+expiry-open-key-manager = 開啟 OpenPGP 金鑰管理員
+expiry-open-key-properties = 開啟金鑰屬性
+# Strings filters.jsm
+filter-folder-required = 您必須指定目的資料夾。
+filter-term-pgpencrypted-label = OpenPGP 加密
+filter-key-required = 您必須選擇一組收件人金鑰。
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = 永久解密（OpenPGP）
+filter-decrypt-copy-label = 建立解密副本（OpenPGP）
+filter-encrypt-label = 使用金鑰加密（OpenPGP）
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = 成功！已匯入金鑰
+import-info-bits = 位元
+import-info-created = 建立於
+import-info-fpr = 指紋
+import-info-details = 檢視詳細資訊並管理金鑰接受程度
+import-info-no-keys = 未匯入金鑰。
+save-keys-failed = 金鑰儲存失敗
+default-pub-key-filename = 匯出的公鑰
+default-pub-sec-key-filename = 密鑰備份
 
 ## Account settings export output
 
