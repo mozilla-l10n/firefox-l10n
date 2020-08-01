@@ -12,7 +12,11 @@ compatibility-all-elements-header = Összes probléma
 
 compatibility-issue-deprecated = (elavult)
 compatibility-issue-experimental = (kísérleti)
+compatibility-issue-prefixneeded = (előtag szükséges)
 compatibility-issue-deprecated-experimental = (elavult, kísérleti)
+compatibility-issue-deprecated-prefixneeded = (elavult, előtag szükséges)
+compatibility-issue-experimental-prefixneeded = (kísérleti, előtag szükséges)
+compatibility-issue-deprecated-experimental-prefixneeded = (elavult, kísérleti, előtag szükséges)
 
 ## Messages used as labels and titles for buttons in the footer
 
