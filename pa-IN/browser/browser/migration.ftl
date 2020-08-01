@@ -97,6 +97,28 @@ browser-data-cookies-checkbox =
     .label = ਕੂਕੀਜ਼
 browser-data-cookies-label =
     .value = ਕੂਕੀਜ਼
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ
+           *[other] ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ
+        }
+browser-data-formdata-checkbox =
+    .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
+browser-data-formdata-label =
+    .value = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗ-ਇਨ ਅਤੇ ਪਾਸਵਰਡ
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗ-ਇਨ ਅਤੇ ਪਾਸਵਰਡ
+browser-data-otherdata-checkbox =
+    .label = ਹੋਰ ਡਾਟਾ
+browser-data-otherdata-label =
+    .label = ਹੋਰ ਡਾਟਾ
 browser-data-session-checkbox =
     .label = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
 browser-data-session-label =
