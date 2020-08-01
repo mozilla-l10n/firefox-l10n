@@ -236,6 +236,32 @@ openpgp-key-expired-image =
     .tooltiptext = 金鑰已過期
 openpgp-key-expand-section =
     .tooltiptext = 更多資訊
+openpgp-key-revoke-title = 撤銷金鑰
+openpgp-key-edit-title = 更改 OpenPGP 金鑰
+openpgp-key-edit-date-title = 延後到期日
+openpgp-manager-button =
+    .label = OpenPGP 金鑰管理員
+    .accesskey = K
+openpgp-key-remove-external =
+    .label = 移除外部金鑰 ID
+    .accesskey = E
+key-external-label = 外部 GnuPG 金鑰
+# Strings in keyDetailsDlg.xhtml
+key-type-public = 公鑰
+key-type-primary = 主要金鑰
+key-type-subkey = 子金鑰
+key-type-pair = 金鑰對（私鑰與公鑰）
+key-expiry-never = 永不
+key-usage-encrypt = 加密
+key-usage-sign = 簽署
+key-usage-certify = 認證
+key-usage-authentication = 驗證
+key-does-not-expire = 金鑰永不過期
+key-expired-date = 金鑰已於 { $keyExpiry } 過期
+key-expired-simple = 金鑰已經過期
+key-revoked-simple = 金鑰已被撤銷
+# Strings in keyserver.jsm
+keyserver-error-aborted = 已中斷
 
 ## Account settings export output
 
