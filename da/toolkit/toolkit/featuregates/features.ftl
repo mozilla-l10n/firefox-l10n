@@ -50,3 +50,4 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = Start-cache for about:home
 experimental-features-abouthome-startup-cache-description = Cache for det første about:home-dokument, der indlæses som standard ved opstart. Formålet med cachen er at gøre opstarten hurtigere.
+experimental-features-cookie-samesite-schemeful-description = Behandl cookies fra det samme domæne, men med forskellige schemes (fx http://eksempel.dk/ og https://eksempel.dk/) som cross-site i stedet for same-site. Det forbedrer sikkerheden, men kan medføre fejl.
