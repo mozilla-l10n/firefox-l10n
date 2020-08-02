@@ -21,7 +21,7 @@
 <!ENTITY tableBorderWidth.accessKey       "м">
 <!ENTITY tableSpacing.label               "Поля:">
 <!ENTITY tableSpacing.accessKey           "П">
-<!ENTITY tablePadding.label               "Поля  усередині клітинок:">
+<!ENTITY tablePadding.label               "Внутрішній відступ:">
 <!ENTITY tablePadding.accessKey           "л">
 <!ENTITY tablePxBetwCells.label           "пікселів між клітинками">
 <!ENTITY tablePxBetwBrdrCellContent.label "пікселів між межею клітинки табл. і її вмістом">
