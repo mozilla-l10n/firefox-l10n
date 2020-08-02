@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Deaktiver afvikling af { -brand-short-name }-unde
 policy-DisableForgetButton = Bloker adgang til knappen Glem.
 policy-DisableFormHistory = Husk ikke formular- og søgehistorik.
 policy-DisableMasterPasswordCreation = En hovedadgangskode kan ikke oprettes, hvis sat til true.
+policy-DisablePrimaryPasswordCreation = En hovedadgangskode kan ikke oprettes, hvis værdien er sat til true.
 policy-DisablePasswordReveal = Tillad ikke adgangskoder at blive vist i gemte logins.
 policy-DisablePocket = Deaktiver funktionen at gemme websider til Pocket.
 policy-DisablePrivateBrowsing = Deaktiver privat browsing.
