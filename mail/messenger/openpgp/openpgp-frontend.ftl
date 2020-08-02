@@ -32,5 +32,6 @@ openpgp-broken-exchange-repair =
     .label = 修復訊息
 openpgp-broken-exchange-wait = 請稍候…
 openpgp-cannot-decrypt-because-mdc = 這是一封使用了舊版並有安全性漏洞所加密的訊息。此訊息可能在傳輸過程中已遭竄改，內容已遭洩漏。為了防止風險，將不顯示內容。
+openpgp-cannot-decrypt-because-missing-key = 用來解開此訊息的私鑰不存在。
 openpgp-partial-verify-button = 驗證
 openpgp-partial-decrypt-button = 解密
