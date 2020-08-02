@@ -21,6 +21,7 @@ onboarding-button-label-get-started = మొదలుపెట్టండి
 onboarding-welcome-header = { -brand-short-name }కు స్వాగతం
 onboarding-welcome-learn-more = ప్రయోజనాల గురించి మరింత తెలుసుకోండి.
 onboarding-join-form-header = { -brand-product-name }‌తో చేరండి
+onboarding-welcome-modal-family-learn-more = { -brand-product-name } ఉత్పత్తుల కుటుంబం గురించి ఇంకా తెలుసుకోండి.
 onboarding-welcome-form-header = ఇక్కడ మొదలుపెట్టండి
 onboarding-join-form-body = మొదలుపెట్టడానికి మీ ఈమెయిలు చిరునామా ఇవ్వండి.
 onboarding-join-form-email =
