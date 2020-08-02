@@ -30,6 +30,13 @@ compatibility-target-browsers-header = เบราว์เซอร์เป�
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+       *[other] { $number } ครั้งที่ปรากฏ
+    }
 compatibility-no-issues-found = ไม่พบปัญหาความเข้ากันได้
 compatibility-close-settings-button =
     .title = ปิดการตั้งค่า
