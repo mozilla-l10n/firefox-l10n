@@ -24,3 +24,5 @@ openpgp-sig-key-id-with-subkey-id = ID de la clave del firmante: { $key } (ID de
 openpgp-enc-key-id = Su ID de clave de descifrado: { $key }
 openpgp-enc-key-with-subkey-id = Su ID de clave de descifrado: { $key } (ID de subclave: { $subkey })
 openpgp-unknown-key-id = Clave desconocida
+openpgp-other-enc-additional-key-ids = Además, el mensaje fue cifrado a los propietarios de las siguientes claves:
+openpgp-other-enc-all-key-ids = El mensaje fue cifrado a los propietarios de las siguientes claves:
