@@ -15,9 +15,9 @@
 <!ENTITY deleteCmd.label "ลบ">
 <!ENTITY deleteCmd.accesskey "บ">
 
-<!ENTITY spellAddToDictionary.label "เพิ่มไปยังพจนานุกรม">
+<!ENTITY spellAddToDictionary.label "เพิ่มลงในพจนานุกรม">
 <!ENTITY spellAddToDictionary.accesskey "พ">
-<!ENTITY spellUndoAddToDictionary.label "ยกเลิกการเพิ่มไปยังพจนานุกรม">
+<!ENTITY spellUndoAddToDictionary.label "ยกเลิกการเพิ่มลงในพจนานุกรม">
 <!ENTITY spellUndoAddToDictionary.accesskey "ย">
 <!ENTITY spellCheckToggle.label "ตรวจสอบการสะกดคำ">
 <!ENTITY spellCheckToggle.accesskey "ร">

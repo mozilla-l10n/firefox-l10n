@@ -239,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "หยุด">
 <!ENTITY stopCmd.accesskey            "ห">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง">
 
 <!ENTITY printButton.label            "พิมพ์">
@@ -257,7 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "จัดการการใช้ปลั๊กอิน">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "เลือกว่าคุณสามารถรับการแจ้งเตือนจากไซต์ได้หรือไม่">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "จัดเก็บข้อมูลในที่เก็บข้อมูลถาวร">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "เบราว์เซอร์อยู่ภายใต้การควบคุมระยะไกล">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "เปิดแผง ​Web Authentication">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "เปิดแผงสิทธิอนุญาตกิจกรรมการเรียกดู">
@@ -286,9 +284,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "คุณได้ปิดกั้นการติดตั้งส่วนเสริมสำหรับเว็บไซต์นี้">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "คุณได้อนุญาตไซต์นี้ด้วยสิทธิเพิ่มเติม">
-
 
 <!ENTITY searchItem.title             "ค้นหา">
 
@@ -398,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ถ">
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
 <!ENTITY viewSidebarMenu.accesskey "บ">
-
 <!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ป">
 
@@ -456,13 +450,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuRecentHighlights.label "รายการเด่นล่าสุด">
 
-<!ENTITY customizeMenu.addToToolbar.label "เพิ่มไปยังแถบเครื่องมือ">
+<!ENTITY customizeMenu.addToToolbar.label "เพิ่มลงในแถบเครื่องมือ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "พ">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "เพิ่มไปยังเมนูล้น">
+<!ENTITY customizeMenu.addToOverflowMenu.label "เพิ่มลงในเมนูล้น">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "พ">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
@@ -493,7 +487,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "เพิ่มเติม">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "ค้นหาหรือป้อนที่อยู่">
 <!ENTITY urlbar.accesskey             "ป">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -1003,7 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabHideControlled.disableButton.accesskey "ป">
 
 <!ENTITY pageActionButton.tooltip "การกระทำหน้า">
-<!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
+<!ENTITY pageAction.addToUrlbar.label "เพิ่มลงในแถบที่อยู่">
 <!ENTITY pageAction.removeFromUrlbar.label "เอาออกจากแถบที่อยู่">
 <!ENTITY pageAction.manageExtension.label "จัดการส่วนขยาย…">
 
