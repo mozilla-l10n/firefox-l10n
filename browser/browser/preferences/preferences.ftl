@@ -678,6 +678,7 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = ప్రధాన సంకేతపదాన్ని వాడు
     .accesskey = U
+forms-primary-pw-learn-more-link = ఇంకా తెలుసుకోండి
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -967,6 +968,7 @@ space-alert-under-5gb-ok-button =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-learn-more = ఇంకా తెలుసుకోండి
 
 ## The following strings are used in the Download section of settings
 
