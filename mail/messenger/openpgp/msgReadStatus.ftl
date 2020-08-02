@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-tag-dialog-window =
-    .title = Uusi tunnus
-tag-name-label =
-    .value = Tunnuksen nimi:
-    .accesskey = T
-tag-color-label =
-    .value = Väri:
-    .accesskey = V
+openpgp-openpgp = OpenPGP
+openpgp-no-sig = Ei digitaalista allekirjoitusta
+openpgp-unknown-key-id = Tuntematon avain
