@@ -67,6 +67,25 @@ openpgp-key-man-import-sig-from-file =
 openpgp-key-man-import-from-clipbrd =
     .label = Importar clave(s) desde el portapapeles
     .accesskey = I
+openpgp-key-man-import-from-url =
+    .label = Importar clave(s) desde URL
+    .accesskey = U
+openpgp-key-man-export-to-file =
+    .label = Exportar clave(s) pública(s) a archivo
+    .accesskey = E
+openpgp-key-man-send-keys =
+    .label = Enviar clave(s) pública(s) por correo electrónico
+    .accesskey = s
+openpgp-key-man-discover-cmd =
+    .label = Descubrir claves en línea
+    .accesskey = D
+openpgp-key-man-discover-progress = Buscando…
+openpgp-key-copy-key =
+    .label = Copiar clave pública
+    .accesskey = C
+openpgp-key-export-key =
+    .label = Exportar clave pública a archivo
+    .accesskey = E
 
 ## e2e encryption settings
 
