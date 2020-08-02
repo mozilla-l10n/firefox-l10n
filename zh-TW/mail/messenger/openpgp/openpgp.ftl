@@ -260,6 +260,10 @@ key-does-not-expire = 金鑰永不過期
 key-expired-date = 金鑰已於 { $keyExpiry } 過期
 key-expired-simple = 金鑰已經過期
 key-revoked-simple = 金鑰已被撤銷
+window-locked = 信件撰寫視窗已鎖定，取消傳送
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = 加密訊息部分
+mime-decrypt-encrypted-part-concealed-data = 這是加密過的訊息部分。請點擊附件用獨立視窗開啟。
 # Strings in keyserver.jsm
 keyserver-error-aborted = 已中斷
 keyserver-error-unknown = 發生了未知的錯誤
@@ -269,15 +273,27 @@ keyserver-error-unavailable = 金鑰伺服器無法使用。
 keyserver-error-security-error = 金鑰伺服器不支援加密連線方式。
 keyserver-error-certificate-error = 金鑰伺服器的憑證無效。
 keyserver-error-unsupported = 不支援此金鑰伺服器。
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req = 您的電子郵件服務供應商處理了您要將公鑰上傳到 OpenPGP 網頁金鑰目錄的請求。請確認公鑰的公布過程是否已經完成。
+wkd-message-body-process = 這是一封關於自動將公鑰上傳到 OpenPGP 網頁金鑰目錄的郵件。您暫時還不必做任何事。
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed = 無法解密主旨為 { $subject } 的訊息。您想要使用不同密語再試一次，或是跳過此訊息？
 # Strings in gpg.jsm
 unknown-signing-alg = 未知的簽章演算法（ID: { $id }）
 unknown-hash-alg = 未知的加密雜湊值（ID: { $id }）
+# Strings in keyUsability.jsm
+expiry-key-expires-soon = 您的金鑰 { $desc } 將於 { $days } 天內到期。建議您打一把新的金鑰，並且設定好對應帳號來使用。
+expiry-keys-expire-soon = 您的下列金鑰將於 { $days } 天內到期: { $desc }。建議您打新的金鑰，並且設定好對應帳號來使用。
+expiry-key-missing-owner-trust = 您對密鑰缺少信任設定。建議您到金鑰屬性中，將「金鑰信任程度」設定為「完全信任」。
+expiry-keys-missing-owner-trust = 下列密鑰缺少信任設定: { $desc }。建議您到金鑰屬性中，將「金鑰信任程度」設定為「完全信任」。
 expiry-open-key-manager = 開啟 OpenPGP 金鑰管理員
 expiry-open-key-properties = 開啟金鑰屬性
 # Strings filters.jsm
 filter-folder-required = 您必須指定目的資料夾。
+filter-decrypt-move-warn-experimental = 警告: 過濾器動作「永久解密」可能會毀損訊息。我們強烈建議您先試用「建立解密副本」過濾器，小心測試結果，只在確認都沒問題的情況才使用此過濾器。
 filter-term-pgpencrypted-label = OpenPGP 加密
 filter-key-required = 您必須選擇一組收件人金鑰。
+filter-key-not-found = 找不到「{ $desc }」的加密金鑰。
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = 永久解密（OpenPGP）
 filter-decrypt-copy-label = 建立解密副本（OpenPGP）
@@ -346,7 +362,11 @@ save-revoke-cert-as = 建立並儲存撤銷憑證
 revoke-cert-failed = 無法建立撤銷憑證。
 key-man-button-generate-key = 產生金錀 (&G)
 msg-compose-details-button-access-key = D
-key-not-found = 找不到鍵「{ $key }」
+key-not-found = 找不到金鑰「{ $key }」
+key-revoked = 金鑰「{ $key }」已撤銷
+key-expired = 金鑰「{ $key }」已過期
+msg-compose-internal-error = 發生內部錯誤。
+keys-to-export = 選擇要插入的 OpenPGP 金鑰
 dlg-button-close = 關閉 (&C)
 dlg-button-cancel = 取消 (&C)
 enig-confirm = OpenPGP 確認
