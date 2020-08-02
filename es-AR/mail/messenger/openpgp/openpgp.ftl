@@ -127,9 +127,63 @@ openpgp-key-man-ctx-view-photo-label =
 openpgp-key-man-show-invalid-keys =
     .label = Mostrar claves inválidas
     .accesskey = d
+openpgp-key-man-show-others-keys =
+    .label = Mostrar claves de otras personas
+    .accesskey = o
+openpgp-key-man-user-id-label =
+    .label = Nombre
+openpgp-key-man-fingerprint-label =
+    .label = Huella digital
+openpgp-key-man-select-all =
+    .label = Seleccionar todas las claves
+    .accesskey = a
+openpgp-key-man-empty-tree-tooltip =
+    .label = Ingresar términos de búsqueda en el cuadro de arriba
+openpgp-key-man-nothing-found-tooltip =
+    .label = Ninguna clave coincide con los términos de búsqueda
+openpgp-key-man-please-wait-tooltip =
+    .label = Espere mientras las claves se cargan…
+openpgp-key-man-filter-label =
+    .placeholder = Buscar claves
+openpgp-key-details-title =
+    .title = Propiedades de clave
+openpgp-key-details-signatures-tab =
+    .label = Certificationes
+openpgp-key-details-structure-tab =
+    .label = Estructura
+openpgp-key-details-uid-certified-col =
+    .label = ID de usuario / Certificado por
+openpgp-key-details-user-id2-label = Presunto propietario de clave
+openpgp-key-details-id-label =
+    .label = ID
+openpgp-key-details-key-type-label = Tipo
+openpgp-key-details-algorithm-label =
+    .label = Algoritmo
+openpgp-key-details-size-label =
+    .label = Tamaño
+openpgp-key-details-created-label =
+    .label = Creada
+openpgp-key-details-created-header = Creada
+openpgp-key-details-expiry-label =
+    .label = Expiración
+openpgp-key-details-expiry-header = Expiración
+openpgp-key-details-usage-label =
+    .label = Uso
+openpgp-key-details-fingerprint-label = Huella digital
+openpgp-key-details-sel-action =
+    .label = Seleccionar acción…
+    .accesskey = S
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Cerrar
+openpgp-copy-cmd-label =
+    .label = Copiar
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = Agregar clave…
+    .accesskey = A
+e2e-learn-more = Conocer más
 
 ## OpenPGP Key selection area
 
