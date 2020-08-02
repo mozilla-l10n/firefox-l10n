@@ -10,3 +10,7 @@ openpgp-compose-key-status-recipient =
     .label = Mottagare
 openpgp-compose-key-status-status =
     .label = Status
+openpgp-compose-key-status-open-details = Hantera nycklar för vald mottagare…
+openpgp-recip-good = ok
+openpgp-recip-missing = ingen nyckel tillgänglig
+openpgp-recip-none-accepted = ingen accepterad nyckel
