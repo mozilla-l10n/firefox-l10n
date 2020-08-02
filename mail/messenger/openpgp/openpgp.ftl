@@ -583,6 +583,7 @@ dlg-no-prompt = Більше не показувати це вікно.
 enig-prompt = Підказка OpenPGP
 enig-confirm = Підтвердження OpenPGP
 enig-alert = Сповіщення OpenPGP
+enig-info = Відомості OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Повторити
 dlg-button-skip = &Пропустити
