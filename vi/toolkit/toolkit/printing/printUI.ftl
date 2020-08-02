@@ -21,8 +21,15 @@ printui-copies-label = Bản sao
 printui-orientation = Hướng
 printui-landscape = Ngang
 printui-portrait = Dọc
+# Section title for the printer or destination device to target
+printui-destination-label = Thiết bị đích
 printui-more-settings = Nhiều cài đặt hơn
 printui-less-settings = Ít cài đặt hơn
+# Section title (noun) for the print scaling options
+printui-scale = Tỷ lệ
+printui-scale-fit-to-page = Vừa một trang
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Tỷ lệ
 printui-system-dialog-link = In bằng hộp thoại hệ thống…
 printui-primary-button = In
 printui-cancel-button = Hủy bỏ
