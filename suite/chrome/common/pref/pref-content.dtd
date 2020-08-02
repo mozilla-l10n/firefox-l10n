@@ -16,7 +16,7 @@
 <!ENTITY scrolling.label                        "Vieritys">
 <!ENTITY useAutoScroll.label                    "Vieritä sivua automaattisesti">
 <!ENTITY useAutoScroll.accesskey                "a">
-<!ENTITY useSmoothScroll.label                  "Vieritä sivua portaattomasti">
+<!ENTITY useSmoothScroll.label                  "Vieritä sivua tasaisesti">
 <!ENTITY useSmoothScroll.accesskey              "V">
 
 <!ENTITY zoomPrefs.label                        "Skaalausasetuset">
