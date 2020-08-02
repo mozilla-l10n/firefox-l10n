@@ -40,6 +40,9 @@ experimental-features-web-api-inputmode-description = Vores implementering af de
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Tanken bag <a data-l10n-name="rel">rel</a>-attributten med værdien <code>"preload"</code> på et <a data-l10n-name="link">&lt;link&gt;</a>-element er at forbedre ydelsen ved at lade dig hente ressourcer tidligere i en sides livscyklus. Dermed er ressourcerne tilgængelige tidligere, og det er mindre sandsynligt at de blokerer rendering af siden . Læs artiklen <a data-l10n-name="readmore">“Preloading content with <code>rel="preload"</code>”</a>, eller se flere detaljer på <a data-l10n-name="bugzilla">bug 1583604</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
@@ -48,6 +51,9 @@ experimental-features-css-focus-visible =
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Den globale event <a data-l10n-name="mdn-beforeinput">beforeinput</a> bliver aktiveret på elementerne <a data-l10n-name="mdn-input">&lt;input&gt;</a> og <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> - eller ethvert element, hvis <a data-l10n-name="mdn-contenteditable">contenteditable</a>-attribut er aktiveret, umiddelbart før elementets værdi ændres. Eventen giver webapps mulighed for at tilsidesætte browserens standard-opførsel for interaktion fra brugeren. Fx kan webapps annullere brugerinput for specifikke tegn eller ændre opførslen for indsat tekst med styling til kun at indeholde godkendte styles.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
