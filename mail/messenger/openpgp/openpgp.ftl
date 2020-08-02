@@ -110,6 +110,23 @@ openpgp-key-man-del-key =
 openpgp-delete-key =
     .label = Borrar clave
     .accesskey = o
+openpgp-key-man-revoke-key =
+    .label = Revocar clave
+    .accesskey = R
+openpgp-key-man-key-props =
+    .label = Propiedades de clave
+    .accesskey = v
+openpgp-key-man-key-more =
+    .label = Más
+    .accesskey = M
+openpgp-key-man-view-photo =
+    .label = ID fotográfico
+    .accesskey = f
+openpgp-key-man-ctx-view-photo-label =
+    .label = Ver ID fotográfico
+openpgp-key-man-show-invalid-keys =
+    .label = Mostrar claves inválidas
+    .accesskey = d
 
 ## e2e encryption settings
 
