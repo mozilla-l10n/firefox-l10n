@@ -76,6 +76,10 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Las co
 experimental-features-abouthome-startup-cache =
     .label = caché de inicio de about:home
 experimental-features-abouthome-startup-cache-description = Caché para el documento inicial about:home que se carga de manera predeterminada al inicio. El propósito del caché es mejorar el rendimiento de inicio.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Herramientas de desarrolladores: Depuración de Service Worker
