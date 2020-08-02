@@ -24,6 +24,9 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detalios">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
+
+<!ENTITY historyGroup.label                "Chronologia">
+
 <!ENTITY itemHistory.label                 "Chronologia de navigation">
 <!ENTITY itemHistory.accesskey             "n">
 <!ENTITY itemCookies.label                 "Cookies">
