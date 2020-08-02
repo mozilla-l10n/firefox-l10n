@@ -9,3 +9,5 @@ openpgp-compose-key-status-recipient =
 openpgp-compose-key-status-status =
     .label = 状态
 openpgp-recip-good = 确定
+openpgp-recip-missing = 无可用密钥
+openpgp-recip-none-accepted = 无可接受的密钥
