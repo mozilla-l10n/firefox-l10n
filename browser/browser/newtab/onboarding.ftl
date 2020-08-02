@@ -44,6 +44,10 @@ onboarding-multistage-import-primary-button-label = దిగుమతిని 
 onboarding-multistage-import-secondary-button-label = ఇప్పుడు కాదు
 onboarding-multistage-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
 onboarding-multistage-theme-secondary-button-label = ఇప్పుడు కాదు
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = వ్యవస్థ అలంకారం వాడు
+onboarding-multistage-theme-label-light = తెల్లని
+onboarding-multistage-theme-label-dark = నల్లని
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -100,6 +104,7 @@ onboarding-data-sync-button2 = { -sync-brand-short-name } లోనికి ప
 onboarding-browse-privately-title = అంతరంగికంగా విహరించండి
 onboarding-browse-privately-button = ఒక అంతరంగిక కిటికీ తెరవండి
 onboarding-firefox-send-button = { -send-brand-name }‌ని ప్రయత్నించండి
+onboarding-pocket-anywhere-title = ఎక్కడైనా చదవండి, వినండి
 onboarding-pocket-anywhere-button = { -pocket-brand-name }‌ని ప్రయత్నించండి
 onboarding-lockwise-passwords-title = మీ సంకేతపదాలను మీతో ఎక్కడికైనా తీసుకెళ్ళండి
 onboarding-lockwise-passwords-button2 = అనువర్తనాన్ని తెచ్చుకో

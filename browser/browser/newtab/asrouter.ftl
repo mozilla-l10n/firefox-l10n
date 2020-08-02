@@ -142,18 +142,21 @@ cfr-whatsnew-fingerprinter-counter-body-alt = మీ పరికరం, కా�
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = ఈ ఇష్టాంశాన్ని మీ ఫోనులో పొందండి
+cfr-doorhanger-sync-bookmarks-body = మీరు { -brand-product-name }‌లో ప్రవేశించిన ప్రతీచోటుకీ మీ ఇష్టాంశాలను, సంకేతపదాలను, చరిత్ర, ఇంకా ఎన్నో తీసుకెళ్ళండి.
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name }‌ను చేతనించు
     .accesskey = T
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = ఇంకెప్పుడూ సంకేతపదాల్ని కోల్పోవద్దు
+cfr-doorhanger-sync-logins-body = మీ సంకేతపదాలను సురక్షితంగా భద్రపరచుకొని మీ పరికరాలన్నింటిలోనూ సింక్రనించుకోండి.
 cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name }ను చేతనించు
     .accesskey = T
 
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = ప్రయాణంలో ఉన్నప్పుడు దీన్ని చదవండి
+cfr-doorhanger-send-tab-recipe-header = ఈ రెసిపీని వంటగదికి తీసుకెళ్ళండి
 
 ## Firefox Send
 
@@ -169,6 +172,7 @@ cfr-doorhanger-socialtracking-close-button = మూసివేయి
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = ఇలాంటి సందేశాలను నాకు మళ్ళీ చూపించకు
     .accesskey = D
+cfr-doorhanger-fingerprinters-heading = ఈ పేజీలో ఒక పింగర్‌ప్రింటర్ని { -brand-short-name } నిరోధించింది
 
 ## Enhanced Tracking Protection Milestones
 
@@ -190,9 +194,12 @@ cfr-doorhanger-milestone-close-button = మూసివేయి
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = సురక్షితమైన సంకేతపదాలను తేలికగా సృష్టించుకోండి
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ప్రతీకం
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = బలహీనమైన సంకేతపదాల గురించి హెచ్చరికలను పొందండి
 
 ## Picture-in-Picture fullscreen message
 
@@ -204,9 +211,14 @@ cfr-whatsnew-protections-cta-link = సంరక్షణల డాష్‌బ�
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = మెరుగైన PDF అనుభవం
 
 ## DOH Message
 
+cfr-doorhanger-doh-primary-button = సరే, అర్థమయ్యింది
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = అచేతనించు
+    .accesskey = D
 
 ## What's new: Cookies message
 
