@@ -42,12 +42,6 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } za iPhone i iPad
 
 login-list =
     .aria-label = Prijave koje odgovaraju pretrazi
-login-list-count =
-    { $count ->
-        [one] prijava
-        [few] prijave
-       *[many] prijava
-    }
 login-list-sort-label-text = Sortiraj po:
 login-list-name-option = Nazivu (A-Z)
 login-list-name-reverse-option = Naziv (A-Z)
@@ -78,7 +72,7 @@ login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Ukloni
 login-item-origin-label = Adresa web stranice
 login-item-origin =
-    .placeholder = https://www.primjer.ba
+    .placeholder = https://www.example.com
 login-item-username-label = Korisničko ime
 about-logins-login-item-username =
     .placeholder = (nema korisničkog imena)
