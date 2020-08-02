@@ -26,6 +26,12 @@ alert-refresh = Tentativa de reinitiar le conversation cryptate con { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Conversation cryptate con { $name } finite.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = Le identitate de { $nomine } non ha essite ancora verificate. Casual spionage non es possibile, ma con alcuno effortio qualcuno poterea esser in ascolta. Impedi le surveliantia verificante le identitate de iste contacto.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $nomine } te continge de un computator incognite. Casual spionage non es possibile, ma con alcuno effortio qualcuno poterea esser in ascolta. Impedi le surveliantia verificante le identitate de iste contacto.
 state-not_private = Le actual conversation non es private.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -55,3 +61,7 @@ success-title = Cryptation end-to-end
 successThem-title = Verificar identitate de tu contactos
 fail-title = Impossibile verificar
 waiting-title = Requesta de verification inviate
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Generation de clave OTR private fallite: { $error }
