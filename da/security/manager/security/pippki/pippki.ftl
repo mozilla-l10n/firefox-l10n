@@ -23,6 +23,7 @@ reset-password-window =
     .title = Nulstil hovedadgangskode
     .style = width: 40em
 pippki-failed-pw-change = Kan ikke ændre adgangskode.
+pippki-incorrect-pw = Du indtastede ikke den nuværende adgangskode. Prøv igen.
 pippki-pw-change-ok = Adgangskoden blev ændret.
 pippki-pw-empty-warning = Dine gemte afgangskoder og private nøgler vil ikke blive beskyttet.
 pippki-pw-erased-ok = Du har slettet din adgangskode. { pippki-pw-empty-warning }
