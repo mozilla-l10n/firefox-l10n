@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "ਚਲਾਓ">
 <!ENTITY playButton.pauseLabel "ਵਿਰਾਮ">
 <!ENTITY muteButton.muteLabel "ਚੁੱਪ">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "ਡੀਕੋਡ ਫਰੇਮ">
 <!ENTITY stats.framesPresented "ਪੇਸ਼ ਕੀਤੇ ਫਰੇਮ">
 <!ENTITY stats.framesPainted "ਪੇਂਟ ਕੀਤੇ ਫਰੇਮ">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਢੰਗ ਵਿੱਚ ਵੇਖੋ">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "ਜਦੋਂ ਤੁਸੀਂ &brandShortName; ਵਿੱਚ ਹੋਰ ਕੰਮ ਕਰ ਰਹੇ ਹੋਵੋ ਤਾਂ ਵੀਡੀਓ ਨੂੰ ਸਾਹਮਣੇ ਚੱਲਦੀ ਰੱਖੋ">
 
 <!ENTITY error.aborted "ਵੀਡੀਓ ਲੋਡ ਹੋਣ ਤੋਂ ਰੁਕ ਗਈ ਹੈ">
 <!ENTITY error.network "ਨੈੱਟਵਰਕ ਗਲਤੀ ਕਰਕੇ ਵਿਡੀਓ ਪਲੇਅਬੈਕ ਨੂੰ ਅਧੂਰਾ ਛੱਡਿਆ।">
