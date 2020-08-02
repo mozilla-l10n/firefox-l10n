@@ -22,9 +22,11 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Notificar nove emails">
 <!ENTITY accountAliasGroupbox.caption "Alias local">
 <!ENTITY accountAliasField.label      "Alias:">
+<!ENTITY accountAliasInfo.label       "Isto essera monstrate solo in tu conversationes quando tu parla, le contactos remote non lo videra.">
 <!ENTITY accountProxySettings.caption "Parametros de proxy">
 <!ENTITY accountProxySettings.change.label     "Cambiar…">
 <!ENTITY accountProxySettings.change.accessKey "C">
 
 <!ENTITY accountSummaryTitle.label   "Summario">
+<!ENTITY accountSummaryInfo.label    "Un summario del informationes que tu ha inserite es monstrate infra. Verifica lo ante que le conto es create.">
 <!ENTITY accountSummary.connectNow.label "Connecter se ora a iste conto.">

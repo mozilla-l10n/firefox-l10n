@@ -5,6 +5,7 @@
 <!ENTITY safeModeDialog.title             "Modo secur de &brandShortName;">
 <!ENTITY window.width                     "37em">
 
+<!ENTITY safeModeDescription.label        "&brandShortName; ora flue in Modo secur, que temporarimente disactiva tu parametros personalisate, themas e extensiones.">
 <!ENTITY safeModeDescription2.label       "Tu pote render permanente alcun o tote iste cambios:">
 
 <!ENTITY disableAddons.label              "Disactivar tote le additivos">
