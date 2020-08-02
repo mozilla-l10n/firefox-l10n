@@ -86,6 +86,30 @@ openpgp-key-copy-key =
 openpgp-key-export-key =
     .label = Exportar clave pública a archivo
     .accesskey = E
+openpgp-key-send-key =
+    .label = Enviar clave pública por correo electrónico
+    .accesskey = b
+openpgp-key-man-copy-to-clipbrd =
+    .label = Copiar clave(s) pública(s) al portapapeles
+    .accesskey = C
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Exportar claves a archivo
+openpgp-key-man-ctx-copy-to-clipbrd-label =
+    .label = Copiar claves públicas al portapapeles
+openpgp-key-man-close =
+    .label = Cerrar
+openpgp-key-man-reload =
+    .label = Recargar caché de clave
+    .accesskey = R
+openpgp-key-man-change-expiry =
+    .label = Cambiar fecha de expiración
+    .accesskey = e
+openpgp-key-man-del-key =
+    .label = Borrar clave(s)
+    .accesskey = B
+openpgp-delete-key =
+    .label = Borrar clave
+    .accesskey = o
 
 ## e2e encryption settings
 
