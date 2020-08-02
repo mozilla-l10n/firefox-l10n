@@ -346,6 +346,7 @@ save-revoke-cert-as = 建立並儲存撤銷憑證
 revoke-cert-failed = 無法建立撤銷憑證。
 key-man-button-generate-key = 產生金錀 (&G)
 msg-compose-details-button-access-key = D
+key-not-found = 找不到鍵「{ $key }」
 dlg-button-close = 關閉 (&C)
 dlg-button-cancel = 取消 (&C)
 enig-confirm = OpenPGP 確認
