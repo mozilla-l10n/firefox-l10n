@@ -206,6 +206,7 @@ openpgp-acceptance-unverified-label =
     .label = 接受，但我還沒有確認過是否為正確金鑰。
 openpgp-acceptance-verified-label =
     .label = 接受，我已經確認過金鑰指紋正確。
+key-accept-personal = 您有這把金鑰的公鑰與私鑰部分，可以將其用作個人金鑰。若這把金鑰是由別人提供給您的，那麼就請勿將其用作個人金鑰。
 key-personal-warning = 您是否自行建立了這把金鑰，而且顯示的擁有者資訊也是您自己？
 openpgp-personal-no-label =
     .label = 否，不要把這把金鑰當成我的個人金鑰。
@@ -387,6 +388,13 @@ openpgp-key-revoke-success = 成功撤銷金鑰。
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = 匯入 (&I)
 delete-key-title = 刪除 OpenPGP 金鑰
+delete-external-key-title = 移除外部 GnuPG 金鑰
+delete-external-key-description = 您想要移除這把外部 GnuPG 金鑰 ID 嗎？
+key-in-use-title = OpenPGP 金鑰正在使用中
+delete-key-in-use-description = 無法繼續！您選擇要刪除的金鑰目前正由此身分使用中。請選擇其他金鑰或取消選擇並再試一次。
+revoke-key-in-use-description = 無法繼續！您選擇要撤銷的金鑰目前正由此身分使用中。請選擇其他金鑰或取消選擇並再試一次。
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = 電子郵件地址「{ $keySpec }」無法對應到您鑰匙圈上的金鑰。
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = 找不到任何符合搜尋條件的金鑰。
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
