@@ -9,7 +9,7 @@
 <!ENTITY globalReceipts.accesskey     "Г">
 <!ENTITY useCustomPrefs.label         "Налаштувати звіти про прочитання для цього облікового запису">
 <!ENTITY useCustomPrefs.accesskey     "Н">
-<!ENTITY requestReceipt.label         "Посилаючи лист, завжди вимагати звіт про прочитання">
+<!ENTITY requestReceipt.label         "Завжди вимагати звіт про прочитання під час надсилання повідомлень">
 <!ENTITY requestReceipt.accesskey     "П">
 <!ENTITY receiptArrive.label          "Коли звіт прибуває:">
 <!ENTITY leaveIt.label                "Залишати його в теці «Вхідні»">
@@ -18,7 +18,7 @@
 <!ENTITY moveToSent.label             "Перемістити його в теку «Відіслані»">
 <!ENTITY moveToSent.accesskey         "е">
 <!ENTITY requestMDN.label             "Коли я отримую вимогу звіту про прочитання:">
-<!ENTITY returnSome.label             "Дозволити звіти для деяких листів">
+<!ENTITY returnSome.label             "Дозволити звіти для деяких повідомлень">
 <!ENTITY returnSome.accesskey         "Д">
 <!ENTITY never.label                  "Ніколи не повертати звіт про прочитання">
 <!ENTITY never.accesskey              "і">

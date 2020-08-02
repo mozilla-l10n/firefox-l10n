@@ -25,7 +25,7 @@
 
 <!ENTITY compositionGroupTitle.label          "Написання">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Писати листи у форматі HTML">
+<!ENTITY useHtml.label                        "Створювати повідомлення у форматі HTML">
 <!ENTITY useHtml.accesskey                    "С">
 <!ENTITY autoQuote.label                      "Автоматично цитувати початкове повідомлення у відповідях">
 <!ENTITY autoQuote.accesskey                  "ц">

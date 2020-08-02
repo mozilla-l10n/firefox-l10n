@@ -18,7 +18,7 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Перевіряти наявність нових листів кожні ">
+<!ENTITY biffStart.label "Перевіряти наявність нових повідомлень кожні">
 <!ENTITY biffStart.accesskey "е">
 <!ENTITY biffEnd.label "хвилин">
 <!ENTITY useIdleNotifications.label "Дозволити миттєві сповіщення від сервера при отриманні нових повідомлень">
@@ -31,7 +31,7 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Метод автентифікації:">
 <!ENTITY authMethod.accesskey "в">
-<!ENTITY leaveOnServer.label "Залишати копії листів на сервері">
+<!ENTITY leaveOnServer.label "Залишати копії повідомлень на сервері">
 <!ENTITY leaveOnServer.accesskey "ш">
 <!ENTITY headersOnly.label "Завантажувати тільки заголовки листів">
 <!ENTITY headersOnly.accesskey "ж">
@@ -40,9 +40,9 @@
 <!ENTITY daysEnd.label "днів">
 <!ENTITY deleteOnServer2.label "Доки я їх не зітру">
 <!ENTITY deleteOnServer2.accesskey "к">
-<!ENTITY downloadOnBiff.label "Автоматично завантажувати нові листи">
+<!ENTITY downloadOnBiff.label "Автоматично завантажувати нові повідомлення">
 <!ENTITY downloadOnBiff.accesskey "о">
-<!ENTITY deleteMessagePrefix.label "При вилученні листа:">
+<!ENTITY deleteMessagePrefix.label "Під час видалення повідомлення:">
 <!ENTITY modelMoveToTrash.label "Перемістити його в теку «Кошик»">
 <!ENTITY modelMoveToTrash.accesskey "К">
 <!ENTITY modelMarkDeleted.label "Позначити його для вилучення">
@@ -54,16 +54,16 @@
 <!ENTITY expungeOnExit.accesskey "т">
 <!ENTITY emptyTrashOnExit.label "Очищувати «Кошик» при виході">
 <!ENTITY emptyTrashOnExit.accesskey "ч">
-<!ENTITY loginAtStartup.label "Перевіряти пошту при запуску">
+<!ENTITY loginAtStartup.label "Перевіряти повідомлення під час запуску">
 <!ENTITY loginAtStartup.accesskey "в">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Питати перед завантаженням більш ніж">
+<!ENTITY maxMessagesStart.label "Питати перед завантаженням понад">
 <!ENTITY maxMessagesStart.accesskey "П">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
-<!ENTITY maxMessagesEnd.label "листів">
+<!ENTITY maxMessagesEnd.label "повідомлень">
 <!ENTITY alwaysAuthenticate.label "Завжди вимагати автентифікацію при з'єднанні з цим сервером">
 <!ENTITY alwaysAuthenticate.accesskey "З">
 <!ENTITY newsrcFilePath.label "файл newsrc:">
