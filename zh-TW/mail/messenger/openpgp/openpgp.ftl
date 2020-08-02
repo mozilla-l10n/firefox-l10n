@@ -394,10 +394,17 @@ import-key-file = 匯入 OpenPGP 金鑰檔案
 import-rev-file = 匯入 OpenPGP 撤銷檔案
 gnupg-file = GnuPG 檔案
 import-keys-failed = 金鑰匯入失敗
+passphrase-prompt = 請輸入可解開下列金鑰的密語: { $key }
+file-to-big-to-import = 檔案太大。請不要一次匯入太多組金鑰。
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = 建立並儲存撤銷憑證
 revoke-cert-failed = 無法建立撤銷憑證。
+expiry-too-long = 您不能產生超過 100 年後才會到期的金鑰。
+key-confirm = 確定要產生「{ $id }」的公鑰與私鑰嗎？
 key-man-button-generate-key = 產生金錀 (&G)
+key-abort = 要中止金鑰產生過程嗎？
+key-man-button-generate-key-abort = 中止產生金鑰 (&A)
+key-man-button-generate-key-continue = 繼續產生金鑰 (&C)
 msg-compose-details-button-access-key = D
 key-not-found = 找不到金鑰「{ $key }」
 key-revoked = 金鑰「{ $key }」已撤銷
