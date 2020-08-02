@@ -19,9 +19,6 @@ onboarding-button-label-get-started = Kom i gang
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Velkommen til { -brand-short-name }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Velkommen til <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-welcome-body = Browseren har du allerede.<br/>Mød resten af { -brand-product-name }.
 onboarding-welcome-learn-more = Læs mere om fordelene.
 onboarding-join-form-header = Slut dig til { -brand-product-name }
@@ -44,16 +41,19 @@ onboarding-start-browsing-button-label = Kom i gang
 onboarding-cards-dismiss =
     .title = Afvis
     .aria-label = Afvis
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Disse websteder blev fundet på enheden. 
-        { -brand-short-name } gemmer eller synkroniserer ikke data
-        fra en anden browser, medmindre du vælger at
-        importere det.
-    .aria-label = { onboarding-import-sites-info.title }
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Velkommen til <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Den hurtige, sikre og private browser, der er støttet af en non profit-organisation.
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 
