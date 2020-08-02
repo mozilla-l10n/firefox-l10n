@@ -161,6 +161,59 @@ openpgp-key-man-filter-label =
     .placeholder = Sök efter nycklar
 openpgp-key-man-select-all-key =
     .key = a
+openpgp-key-details-title =
+    .title = Nyckelegenskaper
+openpgp-key-details-signatures-tab =
+    .label = Certifieringar
+openpgp-key-details-structure-tab =
+    .label = Strukturerad
+openpgp-key-details-uid-certified-col =
+    .label = Användar-ID / Certifierat av
+openpgp-key-details-user-id2-label = Påstådd nyckelägare
+openpgp-key-details-id-label =
+    .label = ID
+openpgp-key-details-key-type-label = Typ
+openpgp-key-details-key-part-label =
+    .label = Nyckeldel
+openpgp-key-details-algorithm-label =
+    .label = Algoritm
+openpgp-key-details-size-label =
+    .label = Storlek
+openpgp-key-details-created-label =
+    .label = Skapad
+openpgp-key-details-created-header = Skapad
+openpgp-key-details-expiry-label =
+    .label = Upphör
+openpgp-key-details-expiry-header = Upphör
+openpgp-key-details-usage-label =
+    .label = Användning
+openpgp-key-details-fingerprint-label = Fingeravtryck
+openpgp-key-details-sel-action =
+    .label = Välj åtgärd…
+    .accesskey = V
+openpgp-key-details-also-known-label = Påstådda alternativa identiteter för nyckelägaren:
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Stäng
+openpgp-acceptance-label =
+    .label = Dina accepterade
+openpgp-acceptance-rejected-label =
+    .label = Nej, avvisa den här nyckeln.
+openpgp-acceptance-undecided-label =
+    .label = Inte ännu, kanske senare.
+openpgp-acceptance-unverified-label =
+    .label = Ja, men jag har inte verifierat att det är rätt nyckel.
+openpgp-acceptance-verified-label =
+    .label = Ja, jag har personligen verifierat att denna nyckel har rätt fingeravtryck.
+key-accept-personal =
+    För denna nyckel har du både den publika och den hemliga delen. Du kan använda den som en personlig nyckel.
+    Om du fick den här nyckeln av någon annan, använd inte den som en personlig nyckel.
+key-personal-warning = Skapade du den här nyckeln själv och det visade ägarskapet av nyckeln hänvisar till dig själv?
+openpgp-personal-no-label =
+    .label = Nej, använd inte den som min personliga nyckel.
+openpgp-personal-yes-label =
+    .label = Ja, behandla den här nyckeln som en personlig nyckel.
+openpgp-copy-cmd-label =
+    .label = Kopiera
 
 ## e2e encryption settings
 
@@ -170,3 +223,39 @@ openpgp-key-man-select-all-key =
 
 ## Account settings export output
 
+# Strings used in trust.jsm
+key-valid-unknown = okänd
+key-valid-invalid = ogiltig
+key-valid-disabled = inaktiverad
+key-valid-revoked = återkallad
+key-valid-expired = upphörd
+key-trust-untrusted = ej betrodd
+key-trust-full = betrodd
+key-trust-group = (grupp)
+# Strings used in commonWorkflows.js
+import-key-file = Importera OpenPGP-nyckelfil
+import-rev-file = Importera OpenPGP-återkallningsfil
+gnupg-file = GnuPG-filer
+import-keys-failed = Importering av nycklarna misslyckades
+passphrase-prompt = Ange lösenfrasen som låser upp följande nyckel: { $key }
+file-to-big-to-import = Denna fil är för stor. Importera inte en stor uppsättning nycklar på en gång.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Skapa och spara återkallningscertifikat
+revoke-cert-ok = Återkallningscertifikatet har skapats. Du kan använda det för att upphäva din publika nyckel, t.ex. om du skulle förlora din hemliga nyckel.
+revoke-cert-failed = Återkallningscertifikatet kunde inte skapas.
+gen-going = Nyckelgenerering pågår redan!
+dlg-button-ok = &OK
+dlg-button-close = &Stäng
+dlg-button-cancel = &Avbryt
+dlg-no-prompt = Visa inte denna dialogruta igen.
+enig-prompt = OpenPGP-prompt
+enig-confirm = OpenPGP-bekräftelse
+enig-alert = OpenPGP-varning
+enig-info = OpenPGP-information
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Försök igen
+dlg-button-skip = &Hoppa över
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP-fel
+enig-alert-title =
+    .title = OpenPGP-varning
