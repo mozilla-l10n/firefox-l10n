@@ -71,7 +71,7 @@ openpgp-key-confirm = 确定要生成 { $identity } 的公钥与私钥吗？
 openpgp-import-key-title = 导入现有的 OpenPGP 个人密钥
 openpgp-import-key-legend = 选择先前备份的文件。
 openpgp-import-key-description = 您可以导入其他 OpenPGP 软件创建的个人密钥。
-openpgp-import-key-info = 在其他软件中，可能会将个人密钥称为“您的密钥”、“保密密钥”、“密钥”或“密钥对”。
+openpgp-import-key-info = 在其他软件中，可能会将个人密钥称为“您的密钥”、“私钥”、“密钥”或“密钥对”。
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
