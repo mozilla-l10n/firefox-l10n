@@ -50,3 +50,5 @@ openpgp-import-key-props =
 
 ## External Key section
 
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
