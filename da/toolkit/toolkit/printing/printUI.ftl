@@ -11,6 +11,7 @@ printui-sheets-count =
        *[other] { $sheetCount } ark papir
     }
 printui-page-range-all = Alle
+printui-page-range-custom = Tilpasset
 printui-page-range-label = Sider
 printui-page-range-picker =
     .aria-label = Vælg sideinterval
@@ -18,6 +19,9 @@ printui-page-custom-range =
     .aria-label = Indtast tilpasset sideinterval
 # Section title for the number of copies to print
 printui-copies-label = Kopier
+printui-orientation = Orientering
+printui-landscape = Landskab
+printui-portrait = Portræt
 # Section title for the printer or destination device to target
 printui-destination-label = Destination
 printui-more-settings = Flere indstillinger
@@ -25,6 +29,8 @@ printui-less-settings = Færre indstillinger
 # Section title (noun) for the print scaling options
 printui-scale = Skalering
 printui-scale-fit-to-page = Tilpas til siden
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Skalér
 printui-system-dialog-link = Udskriv ved brug af system-dialogen…
 printui-primary-button = Udskriv
 printui-cancel-button = Annuller
