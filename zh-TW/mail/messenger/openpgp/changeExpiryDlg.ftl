@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-change-key-expiry-title =
-    .title = 更改密鑰有效期限
+    .title = 更改金鑰有效期限
 info-will-expire = 這把金鑰目前設定於 { $date } 到期。
 info-already-expired = 這把金鑰已經過期。
 info-does-not-expire = 這把金鑰目前設定為永不過期。
