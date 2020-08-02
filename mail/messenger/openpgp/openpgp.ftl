@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = 若要傳送加密訊息，或經數位簽署過的訊息，必須先設定 OpenPGP 或 S/MIME 的任一種加密方式。
+e2e-intro-description-more = 請選擇您要用於 OpenPGP 的個人金鑰，或用於 S/MIME 的個人憑證。不論是個人金鑰或憑證您都會有對應的私鑰。
 openpgp-key-user-id-label = 帳號 / 使用者 ID
 openpgp-keygen-title-label =
     .title = 產生 OpenPGP 金鑰
@@ -36,6 +38,7 @@ openpgp-key-expiry-label =
     .label = 到期日
 openpgp-key-id-label =
     .label = 金鑰 ID
+openpgp-cannot-change-expiry = 這是一把複雜結構的金鑰，不支援更改到期日。
 openpgp-key-man-title =
     .title = OpenPGP 金鑰管理員
 openpgp-key-man-generate =
@@ -86,6 +89,7 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = 在網路上尋找金鑰
     .accesskey = D
+openpgp-key-man-discover-prompt = 若要在線上尋找 OpenPGP 金鑰、金鑰伺服器或使用 WKD 通訊協定，請輸入電子郵件地址或金鑰 ID。
 openpgp-key-man-discover-progress = 搜尋中…
 openpgp-key-copy-key =
     .label = 複製公鑰
@@ -147,6 +151,12 @@ openpgp-key-man-fingerprint-label =
 openpgp-key-man-select-all =
     .label = 選擇所有金鑰
     .accesskey = A
+openpgp-key-man-empty-tree-tooltip =
+    .label = 在上方輸入搜尋詞彙
+openpgp-key-man-nothing-found-tooltip =
+    .label = 沒有與搜尋條件符合的金鑰
+openpgp-key-man-please-wait-tooltip =
+    .label = 請稍候金鑰載入…
 openpgp-key-man-filter-label =
     .placeholder = 搜尋金鑰
 openpgp-key-man-select-all-key =
@@ -207,12 +217,21 @@ openpgp-copy-cmd-label =
 ## e2e encryption settings
 
 #   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird 沒有用於 <b>{ $identity }</b> 的 OpenPGP 個人金鑰
+       *[other] Thunderbird 找到 { $count } 把 <b>{ $identity }</b> 的 OpenPGP 個人金鑰
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status =
     { $count ->
         [0] 請選擇一把有效的金鑰以開啟 OpenPGP 通訊協定。
        *[other] 您目前設定使用 ID 為 <b>{ $key }</b> 的金鑰
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = 您目前設定使用金鑰 <b>{ $key }</b>，已經過期。
 openpgp-add-key-button =
     .label = 新增金鑰…
     .accesskey = A
