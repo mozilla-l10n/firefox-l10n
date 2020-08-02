@@ -103,6 +103,12 @@ browser-data-history-checkbox =
             [firefox] ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ
            *[other] ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ
         }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ
+           *[other] ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
+        }
 browser-data-formdata-checkbox =
     .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
 browser-data-formdata-label =
@@ -115,6 +121,20 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗ-ਇਨ ਅਤੇ ਪਾਸਵਰਡ
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] ਮਨਪਸੰਦ
+            [edge] ਮਨਪਸੰਦ
+           *[other] ਬੁੱਕਮਾਰਕ
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] ਮਨਪਸੰਦ
+            [edge] ਮਨਪਸੰਦ
+           *[other] ਬੁੱਕਮਾਰਕ
+        }
 browser-data-otherdata-checkbox =
     .label = ਹੋਰ ਡਾਟਾ
 browser-data-otherdata-label =
