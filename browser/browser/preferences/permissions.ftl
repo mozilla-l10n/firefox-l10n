@@ -5,66 +5,50 @@
 permissions-window =
     .title = Eithriadau
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Cyfeiriad y wefan
     .accesskey = y
-
 permissions-block =
     .label = Rhwystro
     .accesskey = R
-
 permissions-session =
-    .label = Caniatâu ar gyfer y Sesiwn
+    .label = Caniatáu ar gyfer y Sesiwn
     .accesskey = S
-
 permissions-allow =
     .label = Caniatáu
     .accesskey = a
-
 permissions-site-name =
     .label = Gwefan
-
 permissions-status =
     .label = Statws
-
 permissions-remove =
     .label = Tynnu Gwefan
     .accesskey = T
-
 permissions-remove-all =
     .label = Tynnu Pob Gwefan
     .accesskey = G
-
 permissions-button-cancel =
     .label = Diddymu
     .accesskey = D
-
 permissions-button-ok =
     .label = Cadw Newidiadau
     .accesskey = N
-
 permissions-autoplay-menu = Y rhagosodedig am bob gwefan:
-
 permissions-searchbox =
     .placeholder = Chwilio'r Wefan
-
 permissions-capabilities-autoplay-allow =
     .label = Caniatáu Sain a Fideo
 permissions-capabilities-autoplay-block =
     .label = Rhwystro Sain
 permissions-capabilities-autoplay-blockall =
     .label = Rhwystro Sain a Fideo
-
 permissions-capabilities-allow =
     .label = Caniatáu
 permissions-capabilities-block =
     .label = Rhwystro
 permissions-capabilities-prompt =
     .label = Gofyn bob Tro
-
 permissions-capabilities-listitem-allow =
     .value = Caniatáu
 permissions-capabilities-listitem-block =
@@ -83,7 +67,6 @@ permissions-exceptions-content-blocking-window =
     .title = Eithriadau - Rhwystro Cynnwys
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Rydych wedi analluogi rhwystro cynnwys ar y gwefannau hyn.
-
 permissions-exceptions-etp-window =
     .title = Eithriadau ar gyfer Diogelwch Uwch Rhag Tracio
     .style = { permissions-window.style }
