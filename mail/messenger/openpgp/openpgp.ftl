@@ -405,7 +405,21 @@ key-man-button-generate-key = 產生金錀 (&G)
 key-abort = 要中止金鑰產生過程嗎？
 key-man-button-generate-key-abort = 中止產生金鑰 (&A)
 key-man-button-generate-key-continue = 繼續產生金鑰 (&C)
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = 錯誤 - 解密失敗
+fix-broken-exchange-msg-failed = 訊息並未修復成功。
+attachment-no-match-from-signature = 無法將簽章檔案「{ $attachment }」對應到附件
+attachment-no-match-to-signature = 無法將附件「{ $attachment }」對應到簽章檔案
+signature-verified-ok = 附件 { $attachment } 的簽章驗證成功
+signature-verify-failed = 附件 { $attachment } 的簽章驗證失敗
+decrypt-ok-no-sig = 警告: 解密成功，但無法正確驗證簽章
+msg-ovl-button-cont-anyway = 還是繼續 (&C)
+enig-content-note = * 尚未簽署或加密此訊息的附件 *
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = 寄送郵件 (&S)
+msg-compose-details-button-label = 詳細資訊…
 msg-compose-details-button-access-key = D
+send-aborted = 傳送操作已中止。
 key-not-found = 找不到金鑰「{ $key }」
 key-revoked = 金鑰「{ $key }」已撤銷
 key-expired = 金鑰「{ $key }」已過期
