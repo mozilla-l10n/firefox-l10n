@@ -106,15 +106,18 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-link-text = నివేదికను చూడండి
 cfr-whatsnew-lockwise-backup-link-text = బ్యాకప్‌లను చేతనించండి
+cfr-whatsnew-lockwise-take-title = మీ సంకేతపదాలను మీతో తీసుకెళ్ళండి
 cfr-whatsnew-lockwise-take-link-text = అనువర్తనాన్ని పొందండి
 
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = తక్కువ టైప్ చేయండి, చిరునామా పట్టీతో ఎక్కువ కనుగొనండి
 cfr-whatsnew-searchbar-body-topsites = ఇప్పుడు, కేవలం చిరునామా పట్టీని ఎంచుకోండి, మీ మేటి సైట్లతో ఒక పెట్టె తెరుచుకుంటుంది.
+cfr-whatsnew-searchbar-icon-alt-text = భూతద్దపు ప్రతీకం
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = విహరిస్తూ కూడా వీడియోలు చూడండి
 cfr-whatsnew-pip-cta = ఇంకా తెలుసుకోండి
 
 ## Permission Prompt
@@ -123,6 +126,18 @@ cfr-whatsnew-permission-prompt-cta = ఇంకా తెలుసుకోండ
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] నిరోధించిన ఫింగర్‌ప్రింటరు
+       *[other] నిరోధించిన ఫింగర్‌ప్రింటర్లు
+    }
+cfr-whatsnew-fingerprinter-counter-body = మీ పరికరం, కార్యకలాపం గురించి గోప్యంగా సమాచారం సేకరించి మీ వ్యాపారప్రకటనల ప్రొఫైలును తయారుచేసే చాలా ఫింగర్‌ప్రింటర్లను { -brand-shorter-name } నిరోధిస్తుంది.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = ఫింగర్‌ప్రింటర్లు
+cfr-whatsnew-fingerprinter-counter-body-alt = మీ పరికరం, కార్యకలాపం గురించి గోప్యంగా సమాచారం సేకరించి మీ వ్యాపారప్రకటనల ప్రొఫైలును తయారుచేసే ఫింగర్‌ప్రింటర్లను { -brand-shorter-name } నిరోధించగలదు.
 
 ## Bookmark Sync
 
