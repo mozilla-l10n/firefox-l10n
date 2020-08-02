@@ -73,12 +73,34 @@ onboarding-multistage-theme-secondary-button-label = Ikke nu
 onboarding-multistage-theme-label-automatic = Automatisk
 # System refers to the operating system
 onboarding-multistage-theme-description-automatic = Brug systemets tema
+onboarding-multistage-theme-label-light = Lyst
+onboarding-multistage-theme-label-dark = Mørkt
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Brug et lyst tema til knapper, 
+        menuer og vinduer.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Brug et mørkt tema til knapper, 
+        menuer og vinduer.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Brug et farverigt tema til knapper, 
+        menuer og vinduer.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
