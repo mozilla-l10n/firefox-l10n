@@ -205,6 +205,12 @@ search-one-offs-engine-with-alias =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Bogmærker ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Faneblade ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historik ({ $restrict })
 
 ## Bookmark Panel
 

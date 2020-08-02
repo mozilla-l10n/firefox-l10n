@@ -134,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = eksportere gemte lo
 ## Master Password notification
 
 master-password-notification-message = Indtast din hovedadgangskode for at se gemte logins og adgangskoder
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Indtast din hovedadgangskode for at se gemte logins og adgangskoder
 master-password-reload-button =
     .label = Log ind
     .accesskey = L
