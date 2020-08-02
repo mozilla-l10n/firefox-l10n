@@ -15,11 +15,17 @@ radio-create-key =
 radio-import-key =
     .label = 导入现有的 OpenPGP 密钥
     .accesskey = I
+radio-gnupg-key =
+    .label = 通过 GnuPG 使用您的外部密钥（例如：智能卡）
+    .accesskey = U
 
 ## Generate key section
 
 openpgp-generate-key-title = 生成 OpenPGP 密钥
 openpgp-keygen-expiry-title = 密钥到期
+radio-keygen-expiry =
+    .label = 密钥过期时间
+    .accesskey = e
 radio-keygen-no-expiry =
     .label = 密钥永不过期
     .accesskey = d
@@ -30,6 +36,7 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = 年
 openpgp-keygen-advanced-title = 高级设置
+openpgp-keygen-advanced-description = 控制您 OpenPGP 密钥的高级设置。
 openpgp-keygen-keytype =
     .value = 密钥类型：
     .accesskey = t
@@ -45,6 +52,7 @@ openpgp-keygen-progress-title = 生成新的 OpenPGP 密钥…
 openpgp-keygen-import-progress-title = 导入您的 OpenPGP 密钥…
 openpgp-import-success = 已成功导入 OpenPGP 密钥！
 openpgp-import-success-title = 完成导入过程
+openpgp-import-success-description = 若要使用您方才导入的 OpenPGP 密钥来加密邮件，请关闭此对话框，并到账户设置中选择该密钥。
 openpgp-keygen-confirm =
     .label = 确认
 openpgp-keygen-dismiss =

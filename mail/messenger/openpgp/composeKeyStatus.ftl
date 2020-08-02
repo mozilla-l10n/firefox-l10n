@@ -8,6 +8,7 @@ openpgp-compose-key-status-recipient =
     .label = 收件人
 openpgp-compose-key-status-status =
     .label = 状态
+openpgp-compose-key-status-open-details = 管理选中的收件人的密钥…
 openpgp-recip-good = 确定
 openpgp-recip-missing = 无可用密钥
 openpgp-recip-none-accepted = 无可接受的密钥
