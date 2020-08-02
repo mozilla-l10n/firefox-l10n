@@ -16,7 +16,7 @@
 <!ENTITY radioAlwaysOffline.label "Не в мережі">
 <!ENTITY radioAlwaysOffline.accesskey "е">
 
-<!ENTITY textGoingOnline "Відсилати невідіслані листи перед виходом в автономний режим?">
+<!ENTITY textGoingOnline "Відсилати не надіслані повідомлення перед виходом в автономний режим?">
 <!ENTITY radioAutoSend.label "Так">
 <!ENTITY radioAutoSend.accesskey "а">
 <!ENTITY radioNotSend.label "Ні">
