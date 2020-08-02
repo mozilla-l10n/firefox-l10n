@@ -223,6 +223,10 @@ openpgp-copy-cmd-label =
 
 ## Account settings export output
 
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importera
+delete-key-title = Ta bort OpenPGP-nyckel
+delete-external-key-title = Ta bort den externa GnuPG-nyckeln
 # Strings used in trust.jsm
 key-valid-unknown = okänd
 key-valid-invalid = ogiltig
@@ -279,6 +283,7 @@ msg-compose-partially-encrypted-inlinePGP =
     Meddelandet du svarar innehöll både okrypterade och krypterade delar. Om avsändaren ursprungligen inte kunde dekryptera vissa meddelandedelar, kanske du läcker konfidentiell information som avsändaren inte ursprungligen kunde dekryptera själv.
     Överväg att ta bort all citerad text från ditt svar till den här avsändaren.
 msg-compose-cannot-save-draft = Fel vid sparande av utkast
+msg-compose-partially-encrypted-short = Se upp för att läcka känslig information - delvis krypterad e-post.
 dlg-button-ok = &OK
 dlg-button-close = &Stäng
 dlg-button-cancel = &Avbryt
