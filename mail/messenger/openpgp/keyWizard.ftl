@@ -89,6 +89,7 @@ import-key-file = Importar archivo de clave de OpenPGP
 import-key-personal-checkbox =
     .label = Tratar esta clave como clave personal
 gnupg-file = Archivos GnuPG
+import-error-file-size = <b>¡Error!</b> Los archivos de más de 5MB no están soportados.
 
 ## External Key section
 
