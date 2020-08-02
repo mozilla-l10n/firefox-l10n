@@ -259,6 +259,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = 撤銷金鑰
 openpgp-key-edit-title = 更改 OpenPGP 金鑰
 openpgp-key-edit-date-title = 延後到期日
+openpgp-manager-description = 使用 OpenPGP 金鑰管理員來檢視往來通訊者的公鑰，以及所有上方未列出的金鑰。
 openpgp-manager-button =
     .label = OpenPGP 金鑰管理員
     .accesskey = K
@@ -280,6 +281,11 @@ key-does-not-expire = 金鑰永不過期
 key-expired-date = 金鑰已於 { $keyExpiry } 過期
 key-expired-simple = 金鑰已經過期
 key-revoked-simple = 金鑰已被撤銷
+key-do-you-accept = 您要接受將此金鑰用來驗證數位簽章與加密訊息嗎？
+key-accept-warning = 請先使用電子郵件以外的通訊管道驗證對方的金鑰指紋，不要接受惡意金鑰。
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = 您的個人金鑰有問題，無法傳送訊息。{ $problem }
+cannot-encrypt-because-missing = 由於下列收件者的金鑰有問題，無法用端到端加密的方式傳送此訊息: { $problem }
 window-locked = 信件撰寫視窗已鎖定，取消傳送
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = 加密訊息部分
@@ -304,8 +310,8 @@ unknown-hash-alg = 未知的加密雜湊值（ID: { $id }）
 # Strings in keyUsability.jsm
 expiry-key-expires-soon = 您的金鑰 { $desc } 將於 { $days } 天內到期。建議您打一把新的金鑰，並且設定好對應帳號來使用。
 expiry-keys-expire-soon = 您的下列金鑰將於 { $days } 天內到期: { $desc }。建議您打新的金鑰，並且設定好對應帳號來使用。
-expiry-key-missing-owner-trust = 您對密鑰缺少信任設定。建議您到金鑰屬性中，將「金鑰信任程度」設定為「完全信任」。
-expiry-keys-missing-owner-trust = 下列密鑰缺少信任設定: { $desc }。建議您到金鑰屬性中，將「金鑰信任程度」設定為「完全信任」。
+expiry-key-missing-owner-trust = 您對私鑰缺少信任設定。建議您到金鑰屬性中，將「金鑰信任程度」設定為「完全信任」。
+expiry-keys-missing-owner-trust = 下列私鑰缺少信任設定: { $desc }。建議您到金鑰屬性中，將「金鑰信任程度」設定為「完全信任」。
 expiry-open-key-manager = 開啟 OpenPGP 金鑰管理員
 expiry-open-key-properties = 開啟金鑰屬性
 # Strings filters.jsm
@@ -382,6 +388,8 @@ user-att-photo = 使用者屬性（JPEG 圖片）
 # Strings in key.jsm
 already-revoked = 這把金鑰已被撤銷。
 #   $keyId (String) - the id of the key being revoked
+revoke-key-not-present = 您沒有與此撤銷憑證相符的金鑰（0x{ $keyId }）！若您搞丟金鑰了，必須先重新匯入金鑰（例如從金鑰伺服器）才能匯入撤銷憑證！
+#   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = 金鑰 0x{ $keyId } 已被撤銷。
 key-man-button-revoke-key = 撤銷金鑰 (&R)
 openpgp-key-revoke-success = 成功撤銷金鑰。
@@ -429,6 +437,7 @@ passphrase-prompt = 請輸入可解開下列金鑰的密語: { $key }
 file-to-big-to-import = 檔案太大。請不要一次匯入太多組金鑰。
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = 建立並儲存撤銷憑證
+revoke-cert-ok = 已成功建立撤銷憑證。您可以用此憑證來撤銷公鑰（例如搞丟私鑰的時候）。
 revoke-cert-failed = 無法建立撤銷憑證。
 gen-going = 金鑰已經在產生中！
 keygen-missing-user-name = 尚未幫選擇的帳號/身分指定名稱。請在帳號設定中的「您的大名」欄位輸入姓名。
@@ -462,6 +471,8 @@ msg-compose-internal-error = 發生內部錯誤。
 keys-to-export = 選擇要插入的 OpenPGP 金鑰
 msg-compose-cannot-save-draft = 儲存草稿時發生錯誤
 msg-compose-partially-encrypted-short = 請小心洩露敏感資訊 - 這封郵件僅有部分加密
+sending-hidden-rcpt = 傳送加密訊息時，無法使用密件副本（BCC）收件者。若要傳送這封加密訊息，請移除密件副本收件者，或將他們移到副本（CC）欄位。
+sending-news = 加密傳送操作中斷。因為有新聞群組收件者，無法加密此訊息。請解除加密再重新寄出。
 save-attachment-header = 儲存解密附件
 no-temp-dir = 找不到可以寫入的暫用資料夾，請設定 TEMP 環境變數
 possibly-pgp-mime = 可能是 PGP/MIME 加密或簽署過的訊息，請使用「解密 / 驗證」功能來驗證
@@ -475,6 +486,7 @@ unverified-reply = 縮排的訊息部分（回覆引用內容）可能被修改�
 key-in-message-body = 在訊息內容中發現金鑰，請點擊「匯入金鑰」來匯入該金鑰
 sig-mismatch = 錯誤 - 簽章不符
 invalid-email = 錯誤 - 電子郵件地址無效
+attachment-pgp-key = 您正要開啟的附件「{ $name }」看來是一把 OpenPGP 金鑰檔案。請點擊「匯入」來匯入金鑰，或點擊「檢視」來使用瀏覽器視窗檢視檔案內容。
 dlg-button-view = 檢視 (&V)
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = 解密訊息（從可能是由舊版 Exchange 伺服器毀損的 PGP 郵件格式恢復，結果可能不容易閱讀）
