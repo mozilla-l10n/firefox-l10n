@@ -7,14 +7,14 @@
 <!-- extracted from am-archiveoptions.xhtml -->
 
 <!ENTITY dialogTitle.label "Налаштування архіву">
-<!ENTITY archiveGranularityPrefix.label "Зберігати архівовані листи у:">
+<!ENTITY archiveGranularityPrefix.label "Зберігати архівовані повідомлення в:">
 <!ENTITY archiveFlat.label "Єдиній теці">
 <!ENTITY archiveFlat.accesskey "Є">
 <!ENTITY archiveYearly.label "Теках по роках">
 <!ENTITY archiveYearly.accesskey "р">
 <!ENTITY archiveMonthly.label "Теках по місяцях">
 <!ENTITY archiveMonthly.accesskey "м">
-<!ENTITY keepFolderStructure.label "Зберігати існуючу структуру архівованих листів">
+<!ENTITY keepFolderStructure.label "Зберігати наявну структуру архівованих повідомлень">
 <!ENTITY keepFolderStructure.accesskey "с">
 <!ENTITY archiveExample.label "Приклад">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default

@@ -9,7 +9,7 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "Щоб отримувати листи, спочатку вам треба налаштувати обліковий запис.">
+<!ENTITY accountSetupInfo2.label "Щоб отримувати повідомлення, спочатку налаштуйте обліковий запис.">
 <!ENTITY accountTypeTitle.label "Створення нового облікового запису">
 <!ENTITY accountTypeDesc2.label "Цей майстер збере інформацію, потрібну для налаштування облікового запису. Якщо ви не маєте потрібних даних, зверніться до системного адміністратора чи провайдера..">
 <!ENTITY accountTypeDirections.label "Виберіть тип облікового запису для створення:">
@@ -24,10 +24,10 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Ідентифікація">
-<!ENTITY identityDesc.label "Кожен обліковий запис має ідентифікатор — інформацію, що визначає вас для інших, коли вони отримують ваші листи.">
+<!ENTITY identityDesc.label "Кожен обліковий запис має ідентифікатор — інформацію, що визначає вас для інших, коли вони отримують ваші повідомлення.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Введіть ім’я, що з’явиться в полі «Від» ваших вихідних листів">
+<!ENTITY fullnameDesc.label "Введіть ім’я, щоб воно з’явилося в полі &quot;Від&quot; ваших вихідних повідомлень">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -49,7 +49,7 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Лишати листи на сервері">
+<!ENTITY leaveMsgsOnSrvr.label "Лишати повідомлення на сервері">
 <!ENTITY leaveMsgsOnSrvr.accesskey "Л">
 <!ENTITY portNum.label "Порт:">
 <!ENTITY portNum.accesskey "о">
@@ -118,7 +118,7 @@
 <!ENTITY serverNamePrefix.label "Ім’я сервера вхідних листів:">
 <!ENTITY smtpServerNamePrefix.label "Ім’я сервера вихідних листів (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Ім’я сервера новин (NNTP):">
-<!ENTITY downloadOnLogin.label "Тепер завантажте листи">
+<!ENTITY downloadOnLogin.label "Тепер завантажте повідомлення">
 <!ENTITY downloadOnLogin.accesskey "Т">
 <!ENTITY deferStorageDesc.label "Зніміть цей флажок, щоб зберігати пошту для цього облікового запису в окремому поштовому ящику. В іншому випадку, пошта зберігатиметься в Загальному поштовому ящику.">
 <!ENTITY deferStorage.label "Використовувати Загальний поштовий ящик (зберігати пошту в локальних теках)">

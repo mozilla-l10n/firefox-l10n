@@ -22,7 +22,7 @@
 <!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Каталог LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "л">
-<!ENTITY newMessageCmd.label                            "Лист">
+<!ENTITY newMessageCmd.label                            "Повідомлення">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "Л">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
@@ -158,7 +158,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.accesskey               "м">
 <!ENTITY newmsgButton.label                             "Лист">
 <!ENTITY newmsgButton.accesskey                         "Л">
-<!ENTITY newIM.label                                    "Звісточку">
+<!ENTITY newIM.label                                    "Миттєве повідомлення">
 <!ENTITY newIM.accesskey                                "З">
 <!ENTITY printButton.label                              "Друк…">
 <!ENTITY printButton.accesskey                          "к">
@@ -173,7 +173,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editAbPropertiesButton.tooltip                 "Змінити властивості вибраної адресної книги">
 <!ENTITY editContactPropertiesButton.tooltip            "Змінити вибраний контакт">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Змінити вибраний список розсилки">
-<!ENTITY newmsgButton.tooltip                           "Написати листа">
+<!ENTITY newmsgButton.tooltip                           "Надіслати повідомлення">
 <!ENTITY newIM.tooltip                                  "Надіслати миттєве повідомлення або чат">
 <!ENTITY deleteButton2.tooltip                          "Видалити вибраний елемент">
 

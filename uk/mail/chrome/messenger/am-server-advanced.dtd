@@ -8,7 +8,7 @@
 <!ENTITY serverDirectory.accesskey "I">
 <!ENTITY usingSubscription.label "Показувати тільки теки, на які підписані">
 <!ENTITY usingSubscription.accesskey "П">
-<!ENTITY dualUseFolders.label "Сервер підтримує теки, що містять вкладені теки і листи">
+<!ENTITY dualUseFolders.label "Сервер підтримує теки, що містять вкладені теки й повідомлення">
 <!ENTITY dualUseFolders.accesskey "С">
 <!ENTITY maximumConnectionsNumber.label "Максимальне число кешованих з’єднань">
 <!ENTITY maximumConnectionsNumber.accesskey "М">
@@ -22,7 +22,7 @@
 <!ENTITY otherUsersNamespace.accesskey "ч">
 <!ENTITY overrideNamespaces.label "Дозволити серверу перекривати ці простори імен">
 <!ENTITY overrideNamespaces.accesskey "І">
-<!ENTITY pop3DeferringDesc.label "При завантаженні пошти з цього сервера облікових записів, використовувати наступну теку для збереження нових повідомлень:" >
+<!ENTITY pop3DeferringDesc.label "При завантаженні пошти з цього сервера облікових записів, використовувати наступну теку для збереження нових повідомлень:">
 <!ENTITY accountInbox.label "Вхідні для цього облікового запису">
 <!ENTITY accountInbox.accesskey "х">
 <!ENTITY deferToServer.label "«Вхідні» для іншого облікового запису">
