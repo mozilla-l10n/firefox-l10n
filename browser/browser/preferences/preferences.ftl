@@ -803,10 +803,21 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Benyt en hovedadgangskode
     .accesskey = B
+forms-primary-pw-use =
+    .label = Benyt en hovedadgangskode
+    .accesskey = B
+forms-primary-pw-learn-more-link = Læs mere
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Skift hovedadgangskode…
     .accesskey = h
 forms-master-pw-fips-title = Du er pt. i FIPS tilstand. FIPS kræver en ikke-tom hovedadgangskode.
+forms-primary-pw-change =
+    .label = Skift hovedadgangskode…
+    .accesskey = h
+forms-primary-pw-fips-title = Du er i øjeblikket i FIPS-tilstand. FIPS kræver, at du bruger en hovedadgangskode.
 forms-master-pw-fips-desc = Ændring af adgangskode mislykkedes
 
 ## OS Authentication dialog
@@ -818,6 +829,13 @@ master-password-os-auth-dialog-message-win = Indtast dine login-informationer ti
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = oprette en hovedadgangsnøgle
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = For at oprette en hovedadgangskode skal du indtaste dine login-oplysninger til Windows. Dette hjælper dig med at holde dine konti sikre.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = oprette en hovedadgangskode
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
