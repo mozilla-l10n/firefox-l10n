@@ -30,6 +30,7 @@ experimental-features-web-gpu-description2 = Denne nye API giver low-level under
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Når denne funktion er slået til, understøtter { -brand-short-name } filformatet for AV1-billeder (AVIF). Formatet anvendes til statiske billeder og anvender algoritmerne bag AV1-video-komprimering til at reducere billedets filstørrelse. Se flere detaljer på <a data-l10n-name="bugzilla">bug 1443863</a>
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -47,6 +48,7 @@ experimental-features-web-api-link-preload-description = Tanken bag <a data-l10n
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Tillader at CSS-regler for fokus kun anvendes på elementer som knapper og formular-elementer, når elementerne har fokus fra tastaturet (fx når tab-tasten anvendes til at flytte mellem elementer) - og ikke når fokus stammer fra musen eller andre pege-enheder. Se flere detaljer på <a data-l10n-name="bugzilla">bug 1617600</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -58,16 +60,21 @@ experimental-features-web-api-beforeinput-description = Den globale event <a dat
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Tilføjelsen af en constructor til <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-brugerfladen samt en række relaterede ændringer gør det muligt at oprette nye stylesheets direkte uden at tilføje dem til HTML'en. Det gør det meget nemmere at oprette genbrugelige stylesheets til brug med <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Se flere detaljer på <a data-l10n-name="bugzilla">bug 1520690</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Implementeringen af Media Session API i { -brand-short-name } er i øjeblikket eksperimentel. API'en bruges til at tilpasse håndteringen af medie-relaterede notifikationer, til at håndtere events og data, der er nyttige ved præsentation af brugerflader til at håndtere afspilning af medier, samt til at få fat i metadata fra mediefiler. Se flere detaljer på <a data-l10n-name="bugzilla">bug 1112032</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Udviklerværktøj: Simulering af farveskemaer
+experimental-features-devtools-color-scheme-simulation-description = Giver dig mulighed for at simulere forskellige farveskemaer, så du kan teste <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> media queries.  Ved at bruge denne media query kan dit stylesheet reagere på, om brugeren foretrækker en lys eller en mørk brugerflade. Du kan bruge funktionen til at teste din kode uden at ændre indstillingerne i din browser (eller dit operativsystem, hvis browseren følger operativsystemets farveskema). Se flere detaljer på <a data-l10n-name="bugzilla1">bug 1550804</a> og <a data-l10n-name="bugzilla2">bug 1137699</a>.
 experimental-features-devtools-execution-context-selector =
     .label = Udviklerværktøj: Vælg kontekst for eksekvering
+experimental-features-devtools-execution-context-selector-description = Denne funktion tilføjer en knap i konsollens kommandolinje, der lader dig ændre den kontekst, som dit indtastede udtryk bliver eksekveret i. Se flere detaljer på <a data-l10n-name="bugzilla1">bug 1605154</a> og <a data-l10n-name="bugzilla2">bug 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Udviklerværktøj: Kompatibilitetspanel
+experimental-features-devtools-compatibility-panel-description = Et sidepanel for side-inspektøren, der viser dig information om din apps kompatibilitet på tværs af browsere. Se flere detaljer på <a data-l10n-name="bugzilla">bug 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax som standard
@@ -89,6 +96,8 @@ experimental-features-cookie-samesite-schemeful-description = Behandl cookies fr
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Udviklerværktøj: Debugging af service-workers
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Aktiverer eksperimentel understøttelse af service-workers i Debugger-panelet. Funktion kan gøre udviklerværktøj langsommere og øge hukommelsesforbruget.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafik: Jævn knibe-zoom

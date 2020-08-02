@@ -38,6 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Nulstil
 reset-password-text = Hvis du nulstiller din hovedadgangskode, vil alle dine gemte web- og mail-adgangskoder, formulardata, personlige certifikater og private nøgler blive slettet. Er du sikker på, at du vil nulstille din hovedadgangskode?
+reset-primary-password-text = Hvis du nulstiller din hovedadgangskode, vil alle dine gemte websteds- og mail-adgangskoder, personlige certifikater og private nøgler blive glemt. Er du sikker på, at du vil nulstille din hovedadgangskode?
 pippki-reset-password-confirmation-title = Nulstil hovedadgangskode
 pippki-reset-password-confirmation-message = Din hovedadgangskode er blevet nulstillet.
 

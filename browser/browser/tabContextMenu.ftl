@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Luk flere faneblade
     .accesskey = a
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -77,4 +81,20 @@ move-tabs =
     .accesskey = y
 move-tab =
     .label = Flyt faneblad
+    .accesskey = y
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Luk faneblad
+            [one] Luk et faneblad
+           *[other] Luk faneblade
+        }
+    .accesskey = u
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Flyt faneblad
+            [one] Flyt et faneblad
+           *[other] Flyt faneblade
+        }
     .accesskey = y
