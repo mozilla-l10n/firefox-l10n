@@ -64,6 +64,10 @@ experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
     .label = Udviklerværktøj: Simulering af farveskemaer
+experimental-features-devtools-execution-context-selector =
+    .label = Udviklerværktøj: Vælg kontekst for eksekvering
+experimental-features-devtools-compatibility-panel =
+    .label = Udviklerværktøj: Kompatibilitetspanel
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax som standard
@@ -77,4 +81,15 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = Start-cache for about:home
 experimental-features-abouthome-startup-cache-description = Cache for det første about:home-dokument, der indlæses som standard ved opstart. Formålet med cachen er at gøre opstarten hurtigere.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Behandl cookies fra det samme domæne, men med forskellige schemes (fx http://eksempel.dk/ og https://eksempel.dk/) som cross-site i stedet for same-site. Det forbedrer sikkerheden, men kan medføre fejl.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Udviklerværktøj: Debugging af service-workers
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafik: Jævn knibe-zoom
+experimental-features-graphics-desktop-zooming-description = Understøtter jævn knibe-zoom på touchskærme og præcisions-touchpads.
