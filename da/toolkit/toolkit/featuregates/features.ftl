@@ -34,10 +34,20 @@ experimental-features-media-avif =
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Vores implementering af den globale attribut <a data-l10n-name="mdn-inputmode">inputmode</a> er blevet opdateret i overensstemmelse med <a data-l10n-name="whatwg">WHATWG-specifikationen</a>. Men vi mangler stadig at ændre nogle ting, som fx at gøre attributten tilgængelig for redigerbart indhold. Se flere detaljer på <a data-l10n-name="bugzilla">bug 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput Event
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax som standard
