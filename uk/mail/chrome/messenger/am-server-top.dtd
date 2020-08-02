@@ -33,7 +33,7 @@
 <!ENTITY authMethod.accesskey "в">
 <!ENTITY leaveOnServer.label "Залишати копії повідомлень на сервері">
 <!ENTITY leaveOnServer.accesskey "ш">
-<!ENTITY headersOnly.label "Завантажувати тільки заголовки листів">
+<!ENTITY headersOnly.label "Завантажувати лише заголовки повідомлень">
 <!ENTITY headersOnly.accesskey "ж">
 <!ENTITY deleteByAgeFromServer.label "Не більш">
 <!ENTITY deleteByAgeFromServer.accesskey "е">

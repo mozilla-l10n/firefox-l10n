@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
-<!ENTITY glodaFacetView.empty.label "Жоден лист не підходить під ваш запит">
+<!ENTITY glodaFacetView.empty.label "Жодне повідомлення не збігається з вашим запитом">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
@@ -26,4 +26,4 @@
 
 <!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.tooltip):
      The tooltip to display when hovering over the openEmailAsList label. -->
-<!ENTITY glodaFacetView.openEmailAsList.tooltip "Показати усі листи у поточному наборі в новій вкладці">
+<!ENTITY glodaFacetView.openEmailAsList.tooltip "Показати всі повідомлення у поточному наборі в новій вкладці">

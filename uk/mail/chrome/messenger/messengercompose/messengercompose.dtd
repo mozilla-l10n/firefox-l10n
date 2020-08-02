@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Написання листа: (без теми)">
+<!ENTITY msgComposeWindow.title "Написання повідомлення: (без теми)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newMenu.label "Новий">
 <!ENTITY newMenu.accesskey "Н">
-<!ENTITY newMessage.label "Лист">
+<!ENTITY newMessage.label "Повідомлення">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "Л">
@@ -140,7 +140,7 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "н">
 <!ENTITY menubarCmd.label "Панель меню">
 <!ENTITY menubarCmd.accesskey "м">
-<!ENTITY showCompositionToolbarCmd.label "Панель інструментів написання листа">
+<!ENTITY showCompositionToolbarCmd.label "Панель інструментів написання повідомлень">
 <!ENTITY showCompositionToolbarCmd.accesskey "н">
 <!ENTITY showFormattingBarCmd.label "Панель форматування">
 <!ENTITY showFormattingBarCmd.accesskey "ф">
@@ -165,7 +165,7 @@
 <!ENTITY checkSpellingCmd2.accesskey "г">
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії під час набору тексту">
 <!ENTITY enableInlineSpellChecker.accesskey "б">
-<!ENTITY quoteCmd.label "Цитувати лист">
+<!ENTITY quoteCmd.label "Цитувати повідомлення">
 <!ENTITY quoteCmd.accesskey "Ц">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
@@ -241,11 +241,11 @@
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Надіслати це повідомлення зараз">
 <!ENTITY sendlaterButton.tooltip "Надіслати це повідомлення пізніше">
-<!ENTITY quoteButton.tooltip "Цитувати попереднй лист">
+<!ENTITY quoteButton.tooltip "Цитувати попереднє повідомлення">
 <!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги">
 <!ENTITY attachButton.tooltip2 "Додати вкладення">
-<!ENTITY spellingButton.tooltip "Перевірити правопис вибірки чи всього листа">
-<!ENTITY saveButton.tooltip "Зберегти цей лист">
+<!ENTITY spellingButton.tooltip "Перевірити правопис вибраного чи всього повідомлення">
+<!ENTITY saveButton.tooltip "Зберегти це повідомлення">
 <!ENTITY cutButton.tooltip              "Вирізати">
 <!ENTITY copyButton.tooltip             "Копіювати">
 <!ENTITY pasteButton.tooltip            "Вставити">

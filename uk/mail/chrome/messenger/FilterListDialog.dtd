@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Фільтри листів">
+<!ENTITY window.title "Фільтри повідомлень">
 <!ENTITY nameColumn.label "Назва фільтру">
 <!ENTITY activeColumn.label "Увімкнено">
 <!ENTITY newButton.label "Створити…">
@@ -36,8 +36,5 @@
 <!ENTITY folderPickerPrefix.accesskey "а">
 <!ENTITY helpButton.label "Довідка">
 <!ENTITY helpButton.accesskey "Д">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Шукати фільтр за іменем…">
-
-
-

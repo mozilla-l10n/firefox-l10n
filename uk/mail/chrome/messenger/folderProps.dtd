@@ -12,25 +12,25 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Перебудувати файл індекса">
 <!ENTITY folderRebuildSummaryFile2.label         "Відремонтувати теку">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "о">
-<!ENTITY folderRebuildSummaryFile.explanation    "Іноді фал індекса теки (.msf) пошкоджується, і листи можуть здаватись зниклими, або можуть з’являтись видалені; ремонтування теки може вирішити ці проблеми.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Включати листи у цій теці в результати Глобального пошуку">
+<!ENTITY folderRebuildSummaryFile.explanation    "Іноді файл індексу теки (.msf) пошкоджується, і повідомлення можуть здаватись зниклими, або видаленими; зневадження теки може розв'язати ці проблеми.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Включати повідомлення цієї теки до результатів Глобального пошуку">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "Г">
 
-<!ENTITY retention.label "Налаштування збереження листів">
+<!ENTITY retention.label "Налаштування збереження повідомлень">
 <!ENTITY retentionUseAccount.label  "Використовувати налаштування мого облікового запису">
 <!ENTITY retentionUseAccount.accesskey "м">
 <!ENTITY daysOld.label "днів">
-<!ENTITY message.label "листів">
-<!ENTITY retentionCleanup.label "Для вивільнення місця на диску старі листи можуть бути видалені">
+<!ENTITY message.label "повідомлень">
+<!ENTITY retentionCleanup.label "Для вивільнення місця на диску старі повідомлення можуть бути видалені.">
 <!ENTITY retentionCleanupImap.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути видалені назавжди. Як локальні копії, так і оригінали на віддаленому сервері.">
 <!ENTITY retentionCleanupPop.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути видалені назавжди, включно з оригіналами на віддаленому сервері.">
-<!ENTITY retentionDeleteMsg.label "Видаляти листи старші за">
+<!ENTITY retentionDeleteMsg.label "Видаляти повідомлення старші за">
 <!ENTITY retentionDeleteMsg.accesskey "л">
-<!ENTITY retentionKeepAll.label "Не видаляти листи">
+<!ENTITY retentionKeepAll.label "Не видаляти повідомлення">
 <!ENTITY retentionKeepAll.accesskey "Н">
 <!ENTITY retentionKeepRecent.label "Видаляти все крім останніх">
 <!ENTITY retentionKeepRecent.accesskey "о">
-<!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
+<!ENTITY retentionApplyToFlagged.label "Зберігати повідомлення з зірочкою завжди">
 <!ENTITY retentionApplyToFlagged.accesskey "з">
 
 <!ENTITY folderSynchronizationTab.label          "Синхронізація">
@@ -67,7 +67,7 @@
 <!ENTITY folderQuotaUsage.label                  "Використано:">
 <!ENTITY folderQuotaStatus.label                 "Стан:">
 
-<!ENTITY numberOfMessages.label                  "Кількість листів:">
+<!ENTITY numberOfMessages.label                  "Кількість повідомлень:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "невідома">
 <!ENTITY sizeOnDisk.label                        "Розмір на диску:">
