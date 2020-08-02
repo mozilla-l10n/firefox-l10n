@@ -294,6 +294,7 @@ filter-decrypt-move-warn-experimental = 警告: 過濾器動作「永久解密�
 filter-term-pgpencrypted-label = OpenPGP 加密
 filter-key-required = 您必須選擇一組收件人金鑰。
 filter-key-not-found = 找不到「{ $desc }」的加密金鑰。
+filter-warn-key-not-secret = 警告: 過濾器動作「使用金鑰加密」會取代收件者。若您沒有「{ $desc }」的密鑰，將無法閱讀郵件。
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = 永久解密（OpenPGP）
 filter-decrypt-copy-label = 建立解密副本（OpenPGP）
@@ -311,16 +312,26 @@ import-from-clip = 您想要從剪貼簿匯入一些金鑰嗎？
 import-from-url = 請從下列網址下載公鑰:
 copy-to-clipbrd-failed = 無法將選擇的金鑰複製到剪貼簿。
 copy-to-clipbrd-ok = 已將金鑰複製至剪貼簿
+delete-secret-key = 警告: 即將刪除私鑰！刪除私鑰後，將無法再解開使用該金鑰加密的訊息，也無法撤銷該金鑰。您確定要刪除「{ $userId }」的公鑰與私鑰嗎？
+delete-mix = 警告: 即將刪除私鑰！刪除私鑰後，將無法再解開使用該金鑰加密的訊息。您確定要刪除「{ $userId }」的公鑰與私鑰嗎？
+delete-pub-key = 您確定要刪除公鑰「{ $userId }」嗎？
+delete-selected-pub-key = 您確定要刪除公鑰嗎？
+refresh-all-question = 您並未選擇任何金鑰。想要重新整理所有金鑰嗎？
 key-man-button-export-sec-key = 匯出私鑰 (&S)
 key-man-button-export-pub-key = 只匯出公鑰 (&P)
 key-man-button-refresh-all = 重新整理所有金鑰 (&R)
 key-man-loading-keys = 正在載入金鑰，請稍候…
 ascii-armor-file = ASCII 格式檔案（*.asc）
+no-key-selected = 需要選擇至少一把金鑰，才能進行指定的操作
 export-to-file = 將公鑰匯出成檔案
 export-keypair-to-file = 將公鑰與私鑰匯出成檔案
+export-secret-key = 您要將私鑰也包含在儲存的 OpenPGP 金鑰檔案裡面嗎？
+save-keys-ok = 成功儲存金鑰
 save-keys-failed = 金鑰儲存失敗
 default-pub-key-filename = 匯出的公鑰
 default-pub-sec-key-filename = 密鑰備份
+refresh-key-warn = 警告: 視金鑰數量與網路速度而定，重新整理所有金鑰可能要花上不少時間！
+preview-failed = 無法讀取公鑰檔案。
 general-error = 錯誤: { $reason }
 dlg-button-delete = 刪除 (&D)
 
@@ -330,6 +341,21 @@ openpgp-export-public-success = <b>成功匯出公鑰！</b>
 openpgp-export-public-fail = <b>無法匯出選擇的公鑰！</b>
 openpgp-export-secret-success = <b>成功匯出私鑰！</b>
 openpgp-export-secret-fail = <b>無法匯出選擇的私鑰！</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = 金鑰 { $userId }（金鑰 ID { $keyId }）已撤銷。
+key-ring-pub-key-expired = 金鑰 { $userId }（金鑰 ID { $keyId }）已過期。
+key-ring-key-disabled = 金鑰 { $userId }（金鑰 ID { $keyId }）已停用，無法使用。
+key-ring-key-invalid = 金鑰 { $userId }（金鑰 ID { $keyId }）無效，請驗證其是否正確。
+key-ring-key-not-trusted = 對金鑰 { $userId }（金鑰 ID { $keyId }）的信任程度不足。請將您的金鑰的信任程度設為「完全信任」才能用於簽署。
+key-ring-no-secret-key = 您的鑰匙圈當中似乎沒有 { $userId }（金鑰 ID { $keyId }）的私鑰。無法使用該金鑰進行簽署。
+key-ring-pub-key-not-for-signing = 金鑰 { $userId }（金鑰 ID { $keyId }）無法用於簽署。
+key-ring-pub-key-not-for-encryption = 金鑰 { $userId }（金鑰 ID { $keyId }）無法用於加密。
+key-ring-sign-sub-keys-revoked = 金鑰 { $userId }（金鑰 ID { $keyId }）的所有簽署用子金鑰都已遭撤銷。
+key-ring-sign-sub-keys-expired = 金鑰 { $userId }（金鑰 ID { $keyId }）的所有簽署用子金鑰都已經過期。
+key-ring-sign-sub-keys-unusable = 金鑰 { $userId }（金鑰 ID { $keyId }）的所有簽署用子金鑰都已遭撤銷、過期或無法使用。
+key-ring-enc-sub-keys-revoked = 金鑰 { $userId }（金鑰 ID { $keyId }）的所有加密用子金鑰都已遭撤銷。
+key-ring-enc-sub-keys-expired = 金鑰 { $userId }（金鑰 ID { $keyId }）的所有加密用子金鑰都已經過期。
+key-ring-enc-sub-keys-unusable = 金鑰 { $userId }（金鑰 ID { $keyId }）的所有加密用子金鑰都已遭撤銷、過期或無法使用。
 # Strings in gnupg-keylist.jsm
 keyring-photo = 相片
 user-att-photo = 使用者屬性（JPEG 圖片）
@@ -342,6 +368,17 @@ openpgp-key-revoke-success = 成功撤銷金鑰。
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = 匯入 (&I)
 delete-key-title = 刪除 OpenPGP 金鑰
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = 找不到任何符合搜尋條件的金鑰。
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = 錯誤 - 金鑰抽取指令執行失敗
+# Strings used in keyRing.jsm
+fail-cancel = 錯誤 - 使用者取消接收金鑰
+not-first-block = 錯誤 - 第一組 OpenPGP 區塊不是公鑰區塊
+import-key-confirm = 要匯入訊息中嵌入的公鑰嗎？
+fail-key-import = 錯誤 - 金鑰匯入失敗
+file-write-failed = 寫入到檔案 { $output } 失敗
+no-pgp-block = 錯誤 - 找不到有效的 armored 格式 OpenPGP 資料區塊
 # Strings used in trust.jsm
 key-valid-unknown = 未知
 key-valid-invalid = 無效
