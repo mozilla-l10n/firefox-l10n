@@ -10,7 +10,7 @@
 
 <!ENTITY forwardMsg.label                     "Пересилати листи:">
 <!ENTITY forwardMsg.accesskey                 "П">
-<!ENTITY inline.label                         "Усередині листа">
+<!ENTITY inline.label                         "Всередині листа">
 <!ENTITY asAttachment.label                   "Як вкладення">
 <!ENTITY addExtension.label                   "додати розширення до імені файлу">
 <!ENTITY addExtension.accesskey               "ф">
