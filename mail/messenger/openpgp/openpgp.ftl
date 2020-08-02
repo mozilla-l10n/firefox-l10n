@@ -459,3 +459,5 @@ dlg-button-retry = &Повторити
 dlg-button-skip = &Пропустити
 # Strings used in enigmailCommon.js
 enig-error = Помилка OpenPGP
+enig-alert-title =
+    .title = Сповіщення OpenPGP

@@ -394,7 +394,7 @@ forward-label =
     .value = Пересилати листи:
     .accesskey = П
 inline-label =
-    .label = Усередині листа
+    .label = Всередині листа
 as-attachment-label =
     .label = Як вкладення
 extension-label =
@@ -714,6 +714,3 @@ search-results-empty-message =
        *[other] Перепрошуємо! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Потрібна допомога? Відвідайте <a data-l10n-name="url">Підтримку { -brand-short-name }</a>
-
-## Preferences UI Search Results
-
