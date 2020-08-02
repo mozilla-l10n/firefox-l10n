@@ -71,9 +71,24 @@ openpgp-keygen-short-expiry = La clave debe ser válida por al menos un día.
 openpgp-keygen-ongoing = ¡Generación de claves ya en proceso!
 openpgp-keygen-error-core = No se puede inicializar el servicio principal de OpenPGP
 openpgp-keygen-error-failed = La generación de clave OpenPGP falló inesperadamente
+openpgp-keygen-abort-title = ¿Abortar generación de clave?
 
 ## Import Key section
 
+openpgp-import-key-title = Importar una clave OpenPGP existente
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird encontró una clave que puede ser importada.
+       *[other] Thunderbird encontró { $count } claves que pueden ser importadas.
+    }
+openpgp-import-key-button =
+    .label = Seleccionar archivo para importar…
+    .accesskey = S
+import-key-file = Importar archivo de clave de OpenPGP
+import-key-personal-checkbox =
+    .label = Tratar esta clave como clave personal
+gnupg-file = Archivos GnuPG
 
 ## External Key section
 
