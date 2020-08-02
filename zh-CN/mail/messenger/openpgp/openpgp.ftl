@@ -180,6 +180,8 @@ openpgp-acceptance-rejected-label =
     .label = 不接受，拒绝此密钥。
 openpgp-acceptance-undecided-label =
     .label = 还没决定，之后再说。
+openpgp-personal-yes-label =
+    .label = 是，将此密钥视为个人密钥。
 openpgp-copy-cmd-label =
     .label = 复制
 
@@ -230,6 +232,12 @@ key-revoked-simple = 密钥已被吊销
 # Strings in keyserver.jsm
 keyserver-error-aborted = 已中止
 keyserver-error-unknown = 发生未知错误
+keyserver-error-server-error = 密钥服务器报告错误。
+keyserver-error-import-error = 无法导入下载的密钥。
+keyserver-error-unavailable = 密钥服务器不可用。
+keyserver-error-security-error = 密钥服务器不支持加密访问。
+keyserver-error-certificate-error = 密钥服务器的证书无效。
+keyserver-error-unsupported = 不支持此密钥服务器。
 import-info-fpr = 指纹
 
 ## Account settings export output
