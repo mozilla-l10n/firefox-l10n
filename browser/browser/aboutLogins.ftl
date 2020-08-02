@@ -19,7 +19,7 @@ create-login-button = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
 fxaccounts-sign-in-text = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਪਾਸਵਰਡ ਲਵੋ
 fxaccounts-sign-in-button = { -sync-brand-short-name } ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ
 fxaccounts-avatar-button =
-    .title = ਖਾਤਾ ਇੰਤਜ਼ਾਮ
+    .title = ਖਾਤਾ ਦਾ ਇੰਤਜ਼ਾਮ
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -75,6 +75,7 @@ login-intro-instruction-fxa = ਡਿਵਾਈਸ, ਜਿੱਥੇ ਤੁਹਾ�
 login-intro-instruction-fxa-settings = ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ { -sync-brand-short-name } ਸੈਟਿੰਗਾਂ ‘ਚ ਲਾਗਇਨ ਚੋਣ-ਬਕਸੇ ਨੂੰ ਚੁਣਿਆ ਹੈ
 about-logins-intro-instruction-help = ਹੋਰ ਮਦਦ ਲਈ <a data-l10n-name="help-link">{ -lockwise-brand-short-name } ਸਹਿਯੋਗ</a> ਨੂੰ ਵੇਖੋ
 about-logins-intro-import = ਜੇ ਤੁਸੀਂ ਹੋਰ ਬਰਾਊਜ਼ਰ 'ਚ ਲਾਗਇਨ ਸੰਭਾਲੇ ਹਨ ਤਾਂ ਤੁਸੀਂ { -lockwise-brand-short-name } ਵਿੱਚ ਉਹਨਾਂ ਨੂੰ <a data-l10n-name="import-link">ਇੰਪੋਰਟ ਕਰ</a> ਕਰ ਸਕਦੇ ਹੋ।
+about-logins-intro-import2 = ਜੇ ਤੁਹਾਡੇ ਲਾਗ-ਇਨ { -brand-product-name } ਤੋਂ ਅਲੱਗ ਸੰਭਾਲੇ ਗਏ ਹਨ ਤਾਂ ਤੁਸੀਂ <a data-l10n-name="import-browser-link">ਹੋਰ ਬਰਾਊਜ਼ਰ</a> ਜਾਂ a data-l10n-name="import-file-link">ਫ਼ਾਈਲ</a> ਤੋਂ ਇੰਪੋਰਟ ਕਰ ਸਕਦੇ ਹੋ।
 
 ## Login
 
@@ -199,7 +200,7 @@ about-logins-vulnerable-alert-learn-more-link = ਹੋਰ ਜਾਣੋ
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = ਉਸ ਉਪਭੋਗਤਾ ਨਾਮ ਨਾਲ { $loginTitle } ਲਈ ਐਂਟਰੀ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ । <a data-l10n-name="duplicate-link"> ਮੌਜੂਦਾ ਐਂਟਰੀ ਤੇ ਜਾਓ? </a>
+about-logins-error-message-duplicate-login-with-link = ਉਸ ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨਾਲ { $loginTitle } ਲਈ ਐਂਟਰੀ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। <a data-l10n-name="duplicate-link">ਮੌਜੂਦਾ ਐਂਟਰੀ ਉਤੇ ਜਾਣਾ ਹੈ?</a>
 # This is a generic error message.
 about-logins-error-message-default = ਇਸ ਪਾਸਵਰਡ ਨੂੰ ਸੰਭਾਲਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਵਾਪਰੀ ਹੈ।
 
@@ -222,7 +223,7 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = ਲਾਗਇਨਾੰ ਵਾਲੀ ਫਾਇਲ ਇੰਪੋਰਟ ਕਰੋ
+about-logins-import-file-picker-title = ਲਾਗਇਨਾਂ ਵਾਲੀ ਫਾਇਲ ਇੰਪੋਰਟ ਕਰੋ
 about-logins-import-file-picker-import-button = ਇੰਪੋਰਟ ਕਰੋ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
