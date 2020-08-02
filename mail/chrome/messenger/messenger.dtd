@@ -53,13 +53,13 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Шаблон">
 <!ENTITY saveAsTemplateCmd.accesskey "Ш">
-<!ENTITY getNewMsgForCmd.label "Отримати нові листи для">
+<!ENTITY getNewMsgForCmd.label "Отримати нові повідомлення для">
 <!ENTITY getNewMsgForCmd.accesskey "в">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Всіх облікових записів">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "В">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Поточного облікового запису">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "П">
-<!ENTITY getNextNMsgCmd2.label "Отримати наступні листи">
+<!ENTITY getNextNMsgCmd2.label "Отримати наступні новинні повідомлення">
 <!ENTITY getNextNMsgCmd2.accesskey "т">
 <!ENTITY sendUnsentCmd.label "Надіслати ненадіслані повідомлення">
 <!ENTITY sendUnsentCmd.accesskey "л">
@@ -82,9 +82,9 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "З">
 <!ENTITY settingsOfflineCmd2.label "Налаштування автономного режиму…">
 <!ENTITY settingsOfflineCmd2.accesskey "л">
-<!ENTITY downloadSelectedCmd.label "Завантажити виділені листи">
+<!ENTITY downloadSelectedCmd.label "Завантажити виділені повідомлення">
 <!ENTITY downloadSelectedCmd.accesskey "л">
-<!ENTITY downloadStarredCmd.label "Завантажити листи із зірочкою">
+<!ENTITY downloadStarredCmd.label "Завантажити повідомлення з зірочкою">
 <!ENTITY downloadStarredCmd.accesskey "ч">
 <!ENTITY printCmd.label "Друк…">
 <!ENTITY printCmd.accesskey "у">
@@ -95,9 +95,9 @@
 <!ENTITY printSetupCmd.accesskey "П">
 
 <!-- Edit Menu -->
-<!ENTITY deleteMsgCmd.label "Видалити лист">
+<!ENTITY deleteMsgCmd.label "Видалити повідомлення">
 <!ENTITY deleteMsgCmd.accesskey "В">
-<!ENTITY undeleteMsgCmd.label "Повернути лист">
+<!ENTITY undeleteMsgCmd.label "Повернути повідомлення">
 <!ENTITY undeleteMsgCmd.accesskey "п">
 <!ENTITY deleteMsgsCmd.label "Видалити вибрані листи">
 <!ENTITY deleteMsgsCmd.accesskey "В">

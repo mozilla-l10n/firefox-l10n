@@ -31,7 +31,7 @@
 <!ENTITY PhoneticField2.label           "Вимова:">
 <!ENTITY DisplayName.label              "Відображати як:">
 <!ENTITY DisplayName.accesskey          "В">
-<!ENTITY preferDisplayName.label        "Завжди вживати відображувані імена, а не заголовки листа">
+<!ENTITY preferDisplayName.label        "Завжди вживати показувані імена, а не заголовки повідомлення">
 <!ENTITY preferDisplayName.accesskey    "і">
 <!ENTITY NickName.label                 "Псевдонім:">
 <!ENTITY NickName.accesskey             "д">

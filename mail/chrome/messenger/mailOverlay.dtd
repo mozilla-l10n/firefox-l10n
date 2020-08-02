@@ -4,8 +4,8 @@
 
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "M">
-<!ENTITY  newMessageCmd.label             "Лист">
+<!ENTITY  newMessageCmd.label             "Повідомлення">
 <!ENTITY  newMessageCmd.accesskey         "Л">
- 
+
 <!ENTITY  newContactCmd.label             "Контакт адресної книги…">
 <!ENTITY  newContactCmd.accesskey         "К">

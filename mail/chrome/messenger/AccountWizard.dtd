@@ -42,7 +42,7 @@
 <!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Інформація щодо сервера вхідної пошти">
-<!ENTITY incomingServerTypeDesc.label "Оберіть тип сервера вхідних листів.">
+<!ENTITY incomingServerTypeDesc.label "Виберіть тип сервера вхідних повідомлень.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -82,12 +82,12 @@
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY modifyOutgoing.suffix "Ви можете змінити  сервер вихідних листів у параметрах облікового запису.">
+<!ENTITY modifyOutgoing.suffix "Ви можете змінити сервер вихідних повідомлень у параметрах облікового запису.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Буде використано наявний сервер вихідних листів (SMTP), «">
+<!ENTITY haveSmtp1.prefix "Буде використано наявний сервер вихідних повідомлень (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "».">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
@@ -100,7 +100,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ваш сервер SMTP, «">
-<!ENTITY haveSmtp3.suffix3 "», збігається з вашим сервером вхідних листів, тож буде використане ім’я користувача звідти.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, збігається з вашим сервером вхідних повідомлень, тож буде використане ім’я користувача звідти.">
 
 <!-- Entities for Account name page -->
 
@@ -114,9 +114,9 @@
 
 <!ENTITY completionTitle.label "Вітаємо!">
 <!ENTITY completionText.label "Будь ласка, перевірте правильність наступної інформації.">
-<!ENTITY serverTypePrefix.label "Тип сервера вхідних листів:">
-<!ENTITY serverNamePrefix.label "Ім’я сервера вхідних листів:">
-<!ENTITY smtpServerNamePrefix.label "Ім’я сервера вихідних листів (SMTP):">
+<!ENTITY serverTypePrefix.label "Тип сервера вхідних повідомлень:">
+<!ENTITY serverNamePrefix.label "Ім’я сервера вхідних повідомлень:">
+<!ENTITY smtpServerNamePrefix.label "Ім’я сервера вихідних повідомлень (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Ім’я сервера новин (NNTP):">
 <!ENTITY downloadOnLogin.label "Тепер завантажте повідомлення">
 <!ENTITY downloadOnLogin.accesskey "Т">
