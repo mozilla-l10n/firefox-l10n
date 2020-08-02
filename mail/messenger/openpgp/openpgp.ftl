@@ -184,9 +184,24 @@ openpgp-add-key-button =
     .label = Agregar clave…
     .accesskey = A
 e2e-learn-more = Conocer más
+openpgp-keygen-success = ¡Clave OpenPGP creada exitosamente!
+openpgp-keygen-import-success = ¡Clave OpenPGP importada exitosamente!
 
 ## OpenPGP Key selection area
 
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Expira el: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = La clave expira en menos de 6 meses
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Expiró el: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Clave expirada
+openpgp-key-expand-section =
+    .tooltiptext = Más información
+openpgp-key-revoke-title = Revocar clave
+openpgp-key-edit-title = Cambiar clave OpenPGP
+openpgp-key-edit-date-title = Extender fecha de expiración
 
 ## Account settings export output
 
