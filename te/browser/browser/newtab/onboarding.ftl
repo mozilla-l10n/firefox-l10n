@@ -111,6 +111,7 @@ onboarding-lockwise-passwords-button2 = అనువర్తనాన్ని 
 onboarding-lockwise-strong-passwords-button = మీ ప్రవేశాలను నిర్వహించుకోండి
 onboarding-facebook-container-title = ఫేస్‌బుక్‌కి హద్దులు గీయండి
 onboarding-facebook-container-button = పొడగింతను చేర్చు
+onboarding-personal-data-promise-button = మా వాగ్దానాన్ని చదవండి
 
 ## Message strings belonging to the Return to AMO flow
 
