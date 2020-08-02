@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "Залишати його в теці «Вхідні»">
 <!ENTITY leaveIt.accesskey            "З">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Перемістити його в теку «Відіслані»">
+<!ENTITY moveToSent.label             "Перемістити його до теки &quot;Надіслані&quot;">
 <!ENTITY moveToSent.accesskey         "е">
 <!ENTITY requestMDN.label             "Коли я отримую вимогу звіту про прочитання:">
 <!ENTITY returnSome.label             "Дозволити звіти для деяких повідомлень">

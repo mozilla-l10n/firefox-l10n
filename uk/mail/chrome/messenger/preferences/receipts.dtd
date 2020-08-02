@@ -8,7 +8,7 @@
 <!ENTITY receiptArrive.label           "При отриманні сповіщення:">
 <!ENTITY leaveIt.label                 "Залишати його в теці «Вхідні»">
 <!ENTITY leaveIt.accesskey             "В">
-<!ENTITY moveToSent.label              "Перемістити його в теку «Відіслані»">
+<!ENTITY moveToSent.label              "Перемістити до теки &quot;Надіслані&quot;">
 <!ENTITY moveToSent.accesskey          "О">
 <!ENTITY requestMDN.label              "При отриманні запиту на сповіщення:">
 <!ENTITY never.label                   "Ніколи не висилати сповіщення про доставку">

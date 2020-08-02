@@ -72,7 +72,7 @@
 <!ENTITY sendDefaultCharset.label         "Вихідна пошта:">
 <!ENTITY sendDefaultCharset.accesskey     "и">
 <!ENTITY languagesTitle2.label            "Набори символів">
-<!ENTITY composingDescription2.label      "Виберіть стандартні кодування листів для відісланої та отриманої пошти">
+<!ENTITY composingDescription2.label      "Виберіть стандартні кодування листів для надісланої та отриманої пошти">
 
 <!ENTITY viewDefaultCharsetList.label     "Вхідна пошта:">
 <!ENTITY viewDefaultCharsetList.accesskey  "і">
