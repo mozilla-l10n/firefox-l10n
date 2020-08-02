@@ -820,7 +820,7 @@ forms-primary-pw-change =
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
-forms-primary-pw-former-name = S’apelava abans « Senhal mèstre »
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Actualament, sètz en mòde FIPS. Lo mòde FIPS requerís un senhal principal pas void.
 forms-master-pw-fips-desc = La modificacion de senhal a pas capitat
 
