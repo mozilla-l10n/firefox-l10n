@@ -24,13 +24,18 @@ reset-password-window =
     .style = width: 40em
 pippki-failed-pw-change = Impossible de changer le mot de passe.
 pippki-incorrect-pw = Vous n’avez pas saisi correctement le mot de passe actuel. Veuillez réessayer.
+pippki-pw-change-ok = Le mot de passe a été changé.
+pippki-pw-empty-warning = Vos mots de passe et clés privées stockés ne seront pas protégés.
 pippki-pw-erased-ok = Vous avez supprimé votre mot de passe. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Attention ! Vous avez décidé de ne pas utiliser de mot de passe. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Vous êtes actuellement en mode FIPS. Ce mode nécessite un mot de passe non vide.
 
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Effacer
 reset-password-text = Si vous effacez votre mot de passe principal, tous vos mots de passe web et courrier, vos données de formulaires, vos certificats personnels et vos clés privées seront oubliés. Voulez-vous vraiment supprimer le mot de passe principal ?
+pippki-reset-password-confirmation-message = Votre mot de passe principal a été réinitialisé.
 
 ## Downloading cert dialog
 
