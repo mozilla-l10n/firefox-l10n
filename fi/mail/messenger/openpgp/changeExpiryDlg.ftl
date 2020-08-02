@@ -6,6 +6,7 @@ openpgp-change-key-expiry-title =
     .title = Vaihda avaimen voimassaoloaika
 info-will-expire = Tämä avain on tällä hetkellä määritetty vanhenemaan { $date }.
 info-already-expired = Tämä avain on jo vanhentunut.
+info-does-not-expire = Tämä avain on tällä hetkellä määritetty olemaan koskaan vanhenematta.
 expire-dont-change =
     .label = Älä vaihda vanhenemispäivämäärää
 expire-never-label =
