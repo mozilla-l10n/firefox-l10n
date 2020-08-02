@@ -90,6 +90,7 @@ openpgp-import-key-list-amount =
        *[other] Thunderbird 找到 { $count } 把可以匯入的金鑰。
     }
 openpgp-import-key-list-description = 請確認哪些金鑰是您的個人金鑰。應該只將您自己打造，並且顯示您個人身分的金鑰視為個人金鑰。您可以稍後再到「金鑰屬性」對話框更改此選項。
+openpgp-import-key-list-caption = 標示為「個人金鑰」的金鑰，將列於「端到端加密」段落中。其他的金鑰則列出於「金鑰管理員」。
 openpgp-passphrase-prompt-title = 請輸入密語
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = 請輸入用來解開下列金鑰的密語: { $key }
@@ -117,6 +118,7 @@ openpgp-import-key-props =
 
 openpgp-external-key-title = 外部 GnuPG 金鑰
 openpgp-external-key-description = 輸入金鑰 ID 來設定外部 GnuPG 金鑰
+openpgp-external-key-info = 除此之外，必須使用「金鑰管理員」來匯入並接受對應的公鑰。
 openpgp-save-external-button = 儲存金鑰 ID
 openpgp-external-key-label = 密鑰 ID:
 openpgp-external-key-input =
