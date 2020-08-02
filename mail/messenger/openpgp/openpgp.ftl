@@ -238,6 +238,9 @@ keyserver-error-unavailable = 密钥服务器不可用。
 keyserver-error-security-error = 密钥服务器不支持加密访问。
 keyserver-error-certificate-error = 密钥服务器的证书无效。
 keyserver-error-unsupported = 不支持此密钥服务器。
+# Strings in gpg.jsm
+unknown-signing-alg = 未知的签名算法（ID：{ $id }）
+unknown-hash-alg = 未知的加密哈希值（ID：{ $id }）
 import-info-fpr = 指纹
 
 ## Account settings export output
