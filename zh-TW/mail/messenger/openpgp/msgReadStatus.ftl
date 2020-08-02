@@ -24,4 +24,5 @@ openpgp-sig-key-id-with-subkey-id = 簽署者金鑰 ID: { $key }（子金鑰 ID:
 openpgp-enc-key-id = 您的解密金鑰 ID: { $key }
 openpgp-enc-key-with-subkey-id = 您的解密金鑰 ID: { $key }（子金鑰 ID: { $subkey }）
 openpgp-unknown-key-id = 未知金鑰
+openpgp-other-enc-additional-key-ids = 此外，訊息已由下列金鑰的擁有者加密:
 openpgp-other-enc-all-key-ids = 訊息已由下列金鑰的擁有者加密:

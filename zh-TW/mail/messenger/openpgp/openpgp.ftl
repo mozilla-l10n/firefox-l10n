@@ -395,6 +395,10 @@ delete-key-in-use-description = 無法繼續！您選擇要刪除的金鑰目前
 revoke-key-in-use-description = 無法繼續！您選擇要撤銷的金鑰目前正由此身分使用中。請選擇其他金鑰或取消選擇並再試一次。
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = 電子郵件地址「{ $keySpec }」無法對應到您鑰匙圈上的金鑰。
+key-error-key-id-not-found = 無法在您的鑰匙圈找到設定的金鑰 ID「{ $keySpec }」。
+key-error-not-accepted-as-personal = 您並未確認 ID 為「{ $keySpec }」的金鑰是您的個人金鑰。
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = 您選擇的功能無法於離線模式使用。請先上線然後再試一次。
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = 找不到任何符合搜尋條件的金鑰。
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
@@ -426,6 +430,9 @@ file-to-big-to-import = 檔案太大。請不要一次匯入太多組金鑰。
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = 建立並儲存撤銷憑證
 revoke-cert-failed = 無法建立撤銷憑證。
+gen-going = 金鑰已經在產生中！
+keygen-missing-user-name = 尚未幫選擇的帳號/身分指定名稱。請在帳號設定中的「您的大名」欄位輸入姓名。
+expiry-too-short = 您的金鑰必須至少有效一天。
 expiry-too-long = 您不能產生超過 100 年後才會到期的金鑰。
 key-confirm = 確定要產生「{ $id }」的公鑰與私鑰嗎？
 key-man-button-generate-key = 產生金錀 (&G)
@@ -469,6 +476,8 @@ key-in-message-body = 在訊息內容中發現金鑰，請點擊「匯入金鑰�
 sig-mismatch = 錯誤 - 簽章不符
 invalid-email = 錯誤 - 電子郵件地址無效
 dlg-button-view = 檢視 (&V)
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = 解密訊息（從可能是由舊版 Exchange 伺服器毀損的 PGP 郵件格式恢復，結果可能不容易閱讀）
 # Strings used in encryption.jsm
 not-required = 錯誤 - 並未要求加密
 # Strings used in windows.jsm
