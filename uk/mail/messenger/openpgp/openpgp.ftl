@@ -404,8 +404,6 @@ openpgp-export-public-success = <b>Відкритий ключ успішно е
 openpgp-export-public-fail = <b>Не вдається експортувати вибраний відкритий ключ!</b>
 openpgp-export-secret-success = <b>Таємний ключ успішно експортовано!</b>
 openpgp-export-secret-fail = <b>Не вдається експортувати вибраний таємний ключ!</b>
-# Strings in keyObj.jsm
-key-ring-pub-key-revoked = Ключ { $userId } (ID ключа { $keyId }) відхилено.
 key-ring-pub-key-expired = Ключ { $userId } (ID ключа { $keyId }) втратив чинність.
 key-ring-key-disabled = Ключ { $userId } (ID ключа { $keyId }) вимкнено; його не можна використовувати.
 key-ring-key-invalid = Ключ { $userId } (ID ключа { $keyId }) недійсний. Будь ласка, спробуйте перевірити його правильно.
@@ -413,12 +411,8 @@ key-ring-key-not-trusted = Недостатня довіра до ключа { $
 key-ring-no-secret-key = Схоже ви не маєте таємного ключа для { $userId } (ID ключа { $keyId }) серед ваших ключів; ви не можете скористатися ключем для підписання.
 key-ring-pub-key-not-for-signing = Ключ { $userId } (ID ключа { $keyId }) не можна використовувати для підписання.
 key-ring-pub-key-not-for-encryption = Ключ { $userId } (ID ключа { $keyId }) не можна використовувати для шифрування.
-key-ring-sign-sub-keys-revoked = Усі дочірні ключі для підписання { $userId } (ID ключа { $keyId }) відхилено.
 key-ring-sign-sub-keys-expired = Усі дочірні ключі для підписання { $userId } (ID ключа { $keyId }) втратили чинність.
-key-ring-sign-sub-keys-unusable = Усі дочірні ключі для підписання { $userId } (ID ключа { $keyId }) відхилено, втратили чинність або не дійсні з іншої причини.
-key-ring-enc-sub-keys-revoked = Усі дочірні ключі { $userId } (ID ключа { $keyId }) відхилено.
 key-ring-enc-sub-keys-expired = Усі дочірні ключі { $userId } (ID ключа { $keyId }) втратили чинність.
-key-ring-enc-sub-keys-unusable = Усі дочірні ключі для підписання { $userId } (ID ключа { $keyId }) відхилено, втратили чинність або не дійсні з іншої причини.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Світлина
 user-att-photo = Атрибут користувача (зображення JPEG)
