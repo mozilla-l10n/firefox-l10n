@@ -267,10 +267,18 @@ cfr-whatsnew-protections-icon-alt = Ikona štítu
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Vylepšené prohlížení PDF
-cfr-whatsnew-better-pdf-body = Soubory PDF se nyní otevírají přímo ve { -brand-short-name(case: "loc") }, takže je máte hned po ruce.
+cfr-whatsnew-better-pdf-body =
+    Soubory PDF se nyní otevírají přímo { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    }, takže je máte hned po ruce.
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Na vašem soukromí záleží. V zájmu vaší ochrany nyní { -brand-short-name }, kdykoli je to možné, bezpečně směruje vaše DNS požadavky na partnerskou službu.
+cfr-doorhanger-doh-header = Bezpečnější, šifrované vyhledávání v DNS
 cfr-doorhanger-doh-primary-button = OK, rozumím
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Zakázat
