@@ -430,8 +430,35 @@ msg-compose-cannot-save-draft = 儲存草稿時發生錯誤
 msg-compose-partially-encrypted-short = 請小心洩露敏感資訊 - 這封郵件僅有部分加密
 save-attachment-header = 儲存解密附件
 no-temp-dir = 找不到可以寫入的暫用資料夾，請設定 TEMP 環境變數
+possibly-pgp-mime = 可能是 PGP/MIME 加密或簽署過的訊息，請使用「解密 / 驗證」功能來驗證
+cannot-send-sig-because-no-own-key = 由於您還沒有設定 <{ $key }> 的端到端加密，無法數位簽署此訊息
+cannot-send-enc-because-no-own-key = 由於您還沒有設定 <{ $key }> 的端到端加密，無法加密寄出此訊息
+# Strings used in decryption.jsm
+do-import-multiple = 要匯入下列金鑰嗎？{ $key }
+do-import-one = 要匯入 { $name }（{ $id }）嗎？
+cant-import = 匯入公鑰時發生錯誤
+unverified-reply = 縮排的訊息部分（回覆引用內容）可能被修改過
+key-in-message-body = 在訊息內容中發現金鑰，請點擊「匯入金鑰」來匯入該金鑰
+sig-mismatch = 錯誤 - 簽章不符
+invalid-email = 錯誤 - 電子郵件地址無效
+dlg-button-view = 檢視 (&V)
+# Strings used in encryption.jsm
+not-required = 錯誤 - 並未要求加密
+# Strings used in windows.jsm
+no-photo-available = 沒有可用的相片
+error-photo-path-not-readable = 相片路徑「{ $photo }」無法讀取
+debug-log-title = OpenPGP 除錯紀錄
+# Strings used in dialog.jsm
+repeat-prefix = 此警示將再重複 { $count }
+repeat-suffix-singular = 次。
+repeat-suffix-plural = 次。
+no-repeat = 將不再顯示此警示。
+dlg-keep-setting = 記住我的答案，不要再問我
+dlg-button-ok = 確定 (&O)
 dlg-button-close = 關閉 (&C)
 dlg-button-cancel = 取消 (&C)
+dlg-no-prompt = 下次不要再顯示此對話方塊。
+enig-prompt = OpenPGP Prompt
 enig-confirm = OpenPGP 確認
 enig-alert = OpenPGP 警示
 enig-info = OpenPGP 資訊
