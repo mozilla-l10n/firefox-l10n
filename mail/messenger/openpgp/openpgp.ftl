@@ -231,3 +231,34 @@ key-man-button-revoke-key = &Revocar clave
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Borrar clave OpenPGP
+delete-external-key-title = Eliminar la clave GnuPG externa
+gnupg-file = Archivos GnuPG
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Crear y guardar certificado de revocación
+revoke-cert-failed = El certificado de revocación no pudo ser creado.
+key-man-button-generate-key = &Generar clave
+key-abort = ¿Abortar generación de clave?
+key-man-button-generate-key-abort = &Abortar generación de clave
+key-man-button-generate-key-continue = &Continuar generación de clave
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = Enviar men&saje
+msg-compose-details-button-label = Detalles…
+msg-compose-details-button-access-key = D
+key-not-found = Clave '{ $key }' no encontrada
+key-revoked = Clave '{ $key }' revocada
+key-expired = Clave '{ $key }' expirada
+msg-compose-internal-error = Ocurrió un error interno.
+keys-to-export = Seleccionar claves OpenPGP para insertar
+dlg-button-ok = &Aceptar
+dlg-button-close = &Cerrar
+dlg-button-cancel = &Cancelar
+dlg-no-prompt = No mostrar este diálogo nuevamente
+enig-confirm = Confirmación de OpenPGP
+enig-alert = Alerta de OpenPGP
+enig-info = Información de OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Reintentar
+# Strings used in enigmailCommon.js
+enig-error = Error de OpenPGP
+enig-alert-title =
+    .title = Alerta de OpenPGP
