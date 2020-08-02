@@ -244,6 +244,41 @@ save-revoke-cert-as = Skapa och spara återkallningscertifikat
 revoke-cert-ok = Återkallningscertifikatet har skapats. Du kan använda det för att upphäva din publika nyckel, t.ex. om du skulle förlora din hemliga nyckel.
 revoke-cert-failed = Återkallningscertifikatet kunde inte skapas.
 gen-going = Nyckelgenerering pågår redan!
+keygen-missing-user-name = Det finns inget namn angivet för det aktuella kontot/identiteten. Ange ett värde i fältet "Ditt namn" i kontoinställningarna.
+expiry-too-short = Din nyckel måste vara giltig i minst en dag.
+expiry-too-long = Du kan inte skapa en nyckel som upphör senare än 100 år.
+key-confirm = Generera publik och hemlig nyckel för '{ $id }'?
+key-man-button-generate-key = &Generera nyckel
+key-abort = Vill du avbryta nyckelgenerering?
+key-man-button-generate-key-abort = &Avbryt nyckelgenerering
+key-man-button-generate-key-continue = &Fortsätt nyckelgenerering
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Fel - dekryptering misslyckades
+fix-broken-exchange-msg-failed = Lyckades inte reparera meddelandet.
+attachment-no-match-from-signature = Det gick inte att matcha signaturfilen '{ $attachment }' till en bilaga
+attachment-no-match-to-signature = Det gick inte att matcha bilagan '{ $attachment }' till en signaturfil
+signature-verified-ok = Signaturen för bilaga { $attachment } har verifierats
+signature-verify-failed = Signaturen för bilaga { $attachment } kunde inte verifieras
+decrypt-ok-no-sig =
+    Varning
+    Dekryptering var framgångsrik, men signaturen kunde inte verifieras korrekt
+msg-ovl-button-cont-anyway = &Fortsätt ändå
+enig-content-note = *Bilagor till detta meddelande har inte signerats eller krypterats*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Skicka meddelande
+msg-compose-details-button-label = Detaljer…
+msg-compose-details-button-access-key = D
+send-aborted = Sändningen avbröts.
+key-not-trusted = Inte tillräckligt förtroende för nyckel '{ $key }'
+key-not-found = Nyckel '{ $key }' hittades inte
+key-revoked = Nyckel '{ $key }' återkallad
+key-expired = Nyckel '{ $key }' upphörd
+msg-compose-internal-error = Ett internt fel har inträffat.
+keys-to-export = Välj OpenPGP-nycklar att infoga
+msg-compose-partially-encrypted-inlinePGP =
+    Meddelandet du svarar innehöll både okrypterade och krypterade delar. Om avsändaren ursprungligen inte kunde dekryptera vissa meddelandedelar, kanske du läcker konfidentiell information som avsändaren inte ursprungligen kunde dekryptera själv.
+    Överväg att ta bort all citerad text från ditt svar till den här avsändaren.
+msg-compose-cannot-save-draft = Fel vid sparande av utkast
 dlg-button-ok = &OK
 dlg-button-close = &Stäng
 dlg-button-cancel = &Avbryt
