@@ -17,7 +17,10 @@ extensions-name = ਨਾਂ
 extensions-enabled = ਚਾਲੂ ਹੈ
 extensions-version = ਵਰਜ਼ਨ
 extensions-id = ID
+support-addons-title = ਐਡ-ਆਨ
 support-addons-name = ਨਾਂ
+support-addons-type = ਕਿਸਮ
+support-addons-enabled = ਸਮਰੱਥ ਹੈ
 support-addons-version = ਵਰਜ਼ਨ
 support-addons-id = ID
 security-software-title = ਸੁਰੱਖਿਆ ਸਾਫਟਵੇਅਰ
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ
        *[other] ਡਾਇਰੈਕਟਰੀ ਖੋਲ੍ਹੋ
     }
+experimental-features-title = ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ
+experimental-features-name = ਨਾਂ
+experimental-features-value = ਮੁੱਲ
 modified-key-prefs-title = ਖਾਸ ਬਦਲੀਆਂ ਗਈਆਂ ਪਸੰਦ
 modified-prefs-name = ਨਾਂ
 modified-prefs-value = ਮੁੱਲ
@@ -148,6 +154,8 @@ media-device-channels = ਚੈਨਲ
 media-device-rate = ਰੇਟ
 media-device-latency = ਦੇਰੀ
 media-capabilities-title = ਮੀਡਿਆ ਸਮਰੱਥਾਵਾਂ
+# List all the entries of the database.
+media-capabilities-enumerate = ਡਾਟਾਬੇਸ ਦੇ ਇੰਦਰਾਜ਼ਾਂ ਦੀ ਸੂਚੀ
 
 ##
 
@@ -170,6 +178,7 @@ intl-regional-prefs = ਖੇਤਰੀ ਪਸੰਦਾਂ
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = ਰਿਮੋਟ ਤੋਂ ਡੀਬੱਗ ਕਰਨਾ (Chromium ਪਰੋਟੋਕਾਲ)
 remote-debugging-accepting-connections = ਮਨਜ਼ੂਰ ਕੀਤੇ ਕਨੈਕਸ਼ਨ
 remote-debugging-url = URL
 
@@ -266,6 +275,9 @@ blocklisted-bug = ਜਾਣੀਆਂ ਹੋਈਆਂ ਸਮੱਸਿਆਵਾਂ
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = ਬੱਗ { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = ਜਾਣੇ-ਪਛਾਣੇ ਮਸਲਿਆਂ ਕਰਕੇ ਪਾਬੰਦੀ ਲਾਈ: <a data-l10n-name="bug-link">ਬੱਗ { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ਪਾਬੰਦੀਸ਼ੁਦਾ; ਅਸਫ਼ਲਤਾ ਕੋਡ { $failureCode }
 d3d11layers-crash-guard = D3D11 ਕੰਪੋਜ਼ਿਟਰ
@@ -279,6 +291,7 @@ gpu-process-kill-button = Terminate GPU Process
 gpu-device-reset = ਡਿਵਾਈਸ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 gpu-device-reset-button = ਡਿਵਾਈਸ ਮੁੜ-ਸੈੱਟ ਲਈ ਪਲਟੋ
 uses-tiling = ਟਿਲਿੰਗ ਵਰਤਦਾ ਹੈ
+content-uses-tiling = ਟਾਈਲਾਂ ਵਰਤੋਂ (ਸਮੱਗਰੀ)
 off-main-thread-paint-enabled = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਸਮਰੱਥ ਨੂੰ ਬੰਦ ਕਰੋ
 off-main-thread-paint-worker-count = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਵਰਕਰ ਗਿਣਤੀ ਬੰਦ ਕਰੋ
 target-frame-rate = ਟੀਚਾ ਫਰੇਮ ਦਰ
@@ -299,6 +312,7 @@ sandbox-proc-type-data-decoder = ਡਾਟਾ ਡੀਕੋਡਰ
 startup-cache-title = ਸ਼ੁਰੂਆਤੀ ਕੈਸ਼
 startup-cache-disk-cache-path = ਡਿਸਕ ਕੈਸ਼ ਮਾਰਗ
 startup-cache-ignore-disk-cache = ਡਿਸਕ ਕੈਸ਼ ਅਣਡਿੱਠਾ ਕਰੋ
+startup-cache-found-disk-cache-on-init = Init ਉੱਤੇ ਡਿਸਕ ਕੈਸ਼ ਮਿਲੀ
 startup-cache-wrote-to-disk-cache = ਡਿਸਕ ਕੈਸ਼ ਉੱਤੇ ਲਿਖੋ
 launcher-process-status-0 = ਸਮਰੱਥ ਹੈ
 launcher-process-status-1 = ਅਸਫ਼ਲਤਾ ਕਰਕੇ ਅਸਮਰੱਥ ਹੈ
@@ -323,6 +337,7 @@ touch-enabled = ਟੱਚ ਇਨਪੁਟ ਸਮਰੱਥ ਹੈ
 drag-enabled = scrollbar drag enabled
 keyboard-enabled = ਕੀਬੋਰਡ ਸਮਰੱਥ ਹੈ
 autoscroll-enabled = ਆਪੇ-ਸਕਰੋਲ ਸਮਰੱਥ ਹੈ
+zooming-enabled = ਸਰਲ ਢੂੰਡੀ ਭਰਨ ਵਾਲਾ ਜ਼ੂਮ ਸਮਰੱਥ ਹੈ
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
