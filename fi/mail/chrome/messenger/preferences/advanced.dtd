@@ -23,7 +23,7 @@
 <!ENTITY scrolling.label               "Vieritys">
 <!ENTITY useAutoScroll.label           "Vieritä sivua automaattisesti">
 <!ENTITY useAutoScroll.accesskey       "V">
-<!ENTITY useSmoothScrolling.label      "Vieritä sivua portaattomasti">
+<!ENTITY useSmoothScrolling.label      "Vieritä sivua tasaisesti">
 <!ENTITY useSmoothScrolling.accesskey  "e">
 
 <!ENTITY systemIntegration.label       "Järjestelmään liittäminen">

@@ -195,7 +195,7 @@ autoscroll-label =
     .label = Vieritä sivua automaattisesti
     .accesskey = V
 smooth-scrolling-label =
-    .label = Vieritä sivua portaattomasti
+    .label = Vieritä sivua tasaisesti
     .accesskey = e
 system-integration-legend = Järjestelmään liittäminen
 always-check-default =
@@ -714,6 +714,3 @@ search-results-empty-message =
        *[other] Pahoittelut! Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Tarvitsetko apua? Vieraile <a data-l10n-name="url">{ -brand-short-name }-tuessa</a>
-
-## Preferences UI Search Results
-
