@@ -48,6 +48,31 @@ onboarding-cards-dismiss =
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Velkommen til <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-subtitle = Den hurtige, sikre og private browser, der er støttet af en non profit-organisation.
+onboarding-multistage-welcome-primary-button-label = Start opsætning
+onboarding-multistage-welcome-secondary-button-label = Log ind
+onboarding-multistage-welcome-secondary-button-text = Har du en konto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importer dine adgangskoder, <br/>bogmærker, og <span data-l10n-name="zap">mere</span>
+onboarding-multistage-import-subtitle = Plejer du at bruge en anden browser? Det er nemt at flytte alt til { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Start import
+onboarding-multistage-import-secondary-button-label = Ikke nu
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Kom i gang: Side { $current } af { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Vælg et <span data-l10n-name="zap">udseende</span>
+onboarding-multistage-theme-subtitle = Gør { -brand-short-name } mere personlig med et tema.
+onboarding-multistage-theme-primary-button-label = Gem tema
+onboarding-multistage-theme-secondary-button-label = Ikke nu
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatisk
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Brug systemets tema
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
