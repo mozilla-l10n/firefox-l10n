@@ -202,6 +202,32 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Revocar clave
 openpgp-key-edit-title = Cambiar clave OpenPGP
 openpgp-key-edit-date-title = Extender fecha de expiración
+openpgp-manager-button =
+    .label = Administrador de claves OpenPGP
+    .accesskey = G
+openpgp-key-remove-external =
+    .label = Eliminar ID de clave externa
+    .accesskey = E
+# Strings in keyDetailsDlg.xhtml
+key-type-public = clave pública
+key-type-primary = clave primaria
+key-type-subkey = subclave
+key-type-pair = par de claves (clave secreta y clave pública)
+key-expiry-never = nunca
+key-usage-encrypt = Cifrar
+key-usage-sign = Firma
+key-usage-authentication = Autenticación
+key-does-not-expire = La clave no expira
+key-expired-date = La clave expiró el { $keyExpiry }
+key-expired-simple = La clave ha expirado
+key-revoked-simple = La clave fue revocada
+keyserver-error-unknown = Ocurrió un error desconocido
+expiry-open-key-manager = Abrir administrador de claves OpenPGP
 
 ## Account settings export output
 
+openpgp-export-secret-success = <b>¡Clave secreta exitosamente exportada!</b>
+key-man-button-revoke-key = &Revocar clave
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importar
+delete-key-title = Borrar clave OpenPGP
