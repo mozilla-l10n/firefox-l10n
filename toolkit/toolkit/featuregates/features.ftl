@@ -25,6 +25,7 @@ experimental-features-avif-description = Eksperimentel understøttelse af AVIF, 
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Denne nye API giver low-level understøttelse til at anvende a data-l10n-name="wikipedia">grafikprocessoren (GPU)</a> i brugerens enhed eller computer til at lave beregninger eller rendere grafik. <a data-l10n-name="spec">Specifikationen</a> er stadig ved at blive udarbejdet . Se flere detaljer på <a data-l10n-name="bugzilla">bug 1602129</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
