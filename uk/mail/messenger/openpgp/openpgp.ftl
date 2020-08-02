@@ -404,6 +404,8 @@ openpgp-export-public-success = <b>Відкритий ключ успішно е
 openpgp-export-public-fail = <b>Не вдається експортувати вибраний відкритий ключ!</b>
 openpgp-export-secret-success = <b>Таємний ключ успішно експортовано!</b>
 openpgp-export-secret-fail = <b>Не вдається експортувати вибраний таємний ключ!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Ключ { $userId } (ID ключа { $keyId }) відкликано.
 key-ring-pub-key-expired = Ключ { $userId } (ID ключа { $keyId }) втратив чинність.
 key-ring-key-disabled = Ключ { $userId } (ID ключа { $keyId }) вимкнено; його не можна використовувати.
 key-ring-key-invalid = Ключ { $userId } (ID ключа { $keyId }) недійсний. Будь ласка, спробуйте перевірити його правильно.
@@ -411,8 +413,12 @@ key-ring-key-not-trusted = Недостатня довіра до ключа { $
 key-ring-no-secret-key = Схоже ви не маєте таємного ключа для { $userId } (ID ключа { $keyId }) серед ваших ключів; ви не можете скористатися ключем для підписання.
 key-ring-pub-key-not-for-signing = Ключ { $userId } (ID ключа { $keyId }) не можна використовувати для підписання.
 key-ring-pub-key-not-for-encryption = Ключ { $userId } (ID ключа { $keyId }) не можна використовувати для шифрування.
+key-ring-sign-sub-keys-revoked = Усі дочірні ключі для підписання { $userId } (ID ключа { $keyId }) відкликано.
 key-ring-sign-sub-keys-expired = Усі дочірні ключі для підписання { $userId } (ID ключа { $keyId }) втратили чинність.
+key-ring-sign-sub-keys-unusable = Усі дочірні ключі для підписання { $userId } (ID ключа { $keyId }) відкликано, втратили чинність або не дійсні з іншої причини.
+key-ring-enc-sub-keys-revoked = Усі дочірні ключі { $userId } (ID ключа { $keyId }) відкликано.
 key-ring-enc-sub-keys-expired = Усі дочірні ключі { $userId } (ID ключа { $keyId }) втратили чинність.
+key-ring-enc-sub-keys-unusable = Усі дочірні ключі для підписання { $userId } (ID ключа { $keyId }) відкликано, втратили чинність або не дійсні з іншої причини.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Світлина
 user-att-photo = Атрибут користувача (зображення JPEG)
@@ -442,7 +448,52 @@ delete-key-title = Видалити ключ OpenPGP
 delete-external-key-title = Вилучити зовнішній ключ GnuPG
 delete-external-key-description = Бажаєте вилучити цей зовнішній ID ключа GnuPG?
 key-in-use-title = Ключ OpenPGP зараз використовується
+delete-key-in-use-description = Неможливо продовжити! Ключ, який ви хочете видалити, в цей час використовується цією особою. Виберіть інший ключ або виберіть "немає" та спробуйте ще раз.
+revoke-key-in-use-description = Неможливо продовжити! Ключ, який ви хочете відхилити, в цей час використовується цією особою. Виберіть інший ключ або виберіть "немає" та спробуйте ще раз.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Адресу електронної пошти '{ $keySpec }' не вдається узгодити з жодним вашим ключем.
+key-error-key-id-not-found = Налаштований ID '{ $keySpec }' не вдається знайти серед ваших ключів.
+key-error-not-accepted-as-personal = Ви не підтвердили, що ключ з ID '{ $keySpec }' є вашим особистим ключем.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Вибрана вами функція недоступна в автономному режимі. Увімкніть з'єднання з Мережею та спробуйте знову.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Не вдалося знайти жодного ключа, який би відповідав вказаним умовам пошуку.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Помилка - не вдалося виконати команду розпакування ключа
+# Strings used in keyRing.jsm
+fail-cancel = Помилка - користувач скасував надсилання ключа
+not-first-block = Помилка - перший блок OpenPGP не є блоком відкритого ключа
+import-key-confirm = Імпортувати вкладені у повідомлення відкриті ключі?
+fail-key-import = Помилка - Не вдалось імпортувати ключ
+file-write-failed = Не вдалося записати до файлу { $output }
+no-pgp-block = Помилка - не знайдено дійсного додатково захищеного блоку даних OpenPGP
+confirm-permissive-import = Не вдалося імпортувати. Ключ, який ви намагаєтеся імпортувати, може бути пошкоджено або використовує невідомі атрибути. Бажаєте імпортувати правильні подробиці? Це може призвести до імпорту неповних та непридатних ключів.
+# Strings used in trust.jsm
+key-valid-unknown = невідомо
+key-valid-invalid = недійсний
+key-valid-disabled = вимкнено
+key-valid-revoked = відкликано
+key-valid-expired = не чинний
+key-trust-untrusted = ненадійний
+key-trust-marginal = граничний
+key-trust-full = довірений
 key-trust-ultimate = довіряти цілком
+key-trust-group = (група)
+# Strings used in commonWorkflows.js
+import-key-file = Імпортувати файл ключа OpenPGP
+import-rev-file = Імпортувати файл відкликання OpenPGP
+gnupg-file = Файли GnuPG
+import-keys-failed = Не вдалося імпортувати ключі
+passphrase-prompt = Введіть парольну фразу, яка розблокує такий ключ: { $key }
+file-to-big-to-import = Цей файл завеликий. Не імпортуйте відразу великий набір ключів.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Створити та зберегти сертифікат про відкликання
+revoke-cert-ok = Сертифікат про відкликання успішно створено. Ви можете використовувати його для визнання недійсним вашого відкритого ключа, наприклад якщо ви втратите таємний ключ.
+revoke-cert-failed = Не вдалося створити сертифікат відкликання.
+gen-going = Ключ вже створюється!
+keygen-missing-user-name = Для вибраного облікового запису/особи не вказано ім’я. Введіть ім'я до поля  "Ваше ім'я" в налаштуваннях облікового запису.
+expiry-too-short = Ваш ключ повинен бути дійсним щонайменше один день.
+expiry-too-long = Ви не можете створити ключ, термін дії якого понад 100 років.
 debug-log-title = Журнал зневадження OpenPGP
 dlg-button-ok = &OK
 dlg-button-close = &Закрити
