@@ -34,7 +34,7 @@ newtab-topsites-url-input =
     .placeholder = ਕੋਈ URL ਲਿਖੋ ਜਾਂ ਚੇਪੋ
 newtab-topsites-url-validation = ਲੋੜੀਂਦਾ URL ਯੋਗ ਹੈ
 newtab-topsites-image-url-label = URL ਕਸਟਮ ਚਿੱਤਰ
-newtab-topsites-use-image-link = ਇੱਕ ਕਸਟਮ ਚਿੱਤਰ ਵਰਤੋ…
+newtab-topsites-use-image-link = ਕਸਟਮ ਚਿੱਤਰ ਵਰਤੋ…
 newtab-topsites-image-validation = ਚਿੱਤਰ ਲੋਡ ਕਰਨ ਤੋਂ ਅਸਫ਼ਲ ਰਿਹਾ। ਕਿਸੇ ਵੱਖਰੇ URL ਨਾਲ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -47,9 +47,9 @@ newtab-topsites-add-button = ਜੋੜੋ
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਆਪਣੇ ਅਤੀਤ ਵਿੱਚ ਇਸ ਪੰਨੇ ਦੀ ਹਰੇਕ ਉਦਾਹਰਨ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+newtab-confirm-delete-history-p1 = ਕੀ ਤੁਸੀਂ 'ਤੇ ਆਪਣੇ ਅਤੀਤ ਵਿੱਚ ਇਸ ਸਫ਼ੇ ਦੀ ਹਰ ਮਿਸਾਲ ਨੂੰ ਹਟਾਉਣਾ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = ਇਕ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।
+newtab-confirm-delete-history-p2 = ਇਕ ਕਾਰਵਾਈ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
 
 ## Context Menu - Action Tooltips.
 
@@ -79,17 +79,17 @@ newtab-menu-open-new-window = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋ�
 newtab-menu-open-new-private-window = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
 newtab-menu-dismiss = ਰੱਦ ਕਰੋ
 newtab-menu-pin = ਟੰਗੋ
-newtab-menu-unpin = ਅਨਪਿੰਨ ਕਰੋ
+newtab-menu-unpin = ਲਾਹੋ
 newtab-menu-delete-history = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
 newtab-menu-save-to-pocket = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
-newtab-menu-delete-pocket = { -pocket-brand-name } ਤੋਂ ਮਿਟਾਓ
+newtab-menu-delete-pocket = { -pocket-brand-name } ਤੋਂ ਹਟਾਓ
 newtab-menu-archive-pocket = { -pocket-brand-name } ਵਿੱਚ ਪੁਰਾਲੇਖਬੱਧ ਕਰੋ
 newtab-menu-show-privacy-info = ਸਾਡੇ ਸਪਾਂਸਰ ਅਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ਸਮਾਪਤ
-newtab-privacy-modal-button-manage = ਸਪੌਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਦੇ ਇੰਤਜ਼ਾਮ ਲਈ ਸੈਟਿੰਗਾਂ
+newtab-privacy-modal-button-manage = ਸਪਾਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਦੇ ਇੰਤਜ਼ਾਮ ਲਈ ਸੈਟਿੰਗਾਂ
 newtab-privacy-modal-header = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਮਹੱਤਵ ਰੱਖਦੀ ਹੈ।
 newtab-privacy-modal-link = ਸਿੱਖੋ ਕਿ ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਪਰਦੇਦਾਰੀ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ।
 
@@ -103,7 +103,7 @@ newtab-menu-bookmark = ਬੁੱਕਮਾਰਕ
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
-newtab-menu-copy-download-link = ਡਾਊਨਲੋਡ ਲਿੰਕ ਕਾਪੀ ਕਰੋ
+newtab-menu-copy-download-link = ਡਾਊਨਲੋਡ ਲਿੰਕ ਨੂੰ  ਕਾਪੀ ਕਰੋ
 newtab-menu-go-to-download-page = ਡਾਊਨਲੋਡ ਪੰਨੇ 'ਤੇ ਜਾਓ
 newtab-menu-remove-download = ਅਤੀਤ ਤੋਂ ਹਟਾਓ
 
@@ -113,8 +113,8 @@ newtab-menu-remove-download = ਅਤੀਤ ਤੋਂ ਹਟਾਓ
 
 newtab-menu-show-file =
     { PLATFORM() ->
-        [macos] ਫਾਈਡਰ ਵਿੱਚ ਵੇਖੋ
-       *[other] ਸ਼ਾਮਲ ਫੋਲਡਰ ਖੋਲ੍ਹੋ
+        [macos] Finder ਵਿੱਚ ਵੇਖੋ
+       *[other] ਰੱਖਣ ਵਾਲਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ
     }
 newtab-menu-open-file = ਫਾਈਲ ਖੋਲ੍ਹੋ
 
@@ -125,8 +125,8 @@ newtab-menu-open-file = ਫਾਈਲ ਖੋਲ੍ਹੋ
 newtab-label-visited = ਖੋਲ੍ਹੀਆਂ
 newtab-label-bookmarked = ਬੁੱਕਮਾਰਕ ਕੀਤੀਆਂ
 newtab-label-removed-bookmark = ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ
-newtab-label-recommended = ਪ੍ਰਚਲਿਤ
-newtab-label-saved = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਿਆ ਗਿਆ
+newtab-label-recommended = ਰੁਝਾਨ
+newtab-label-saved = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਿਆ
 newtab-label-download = ਡਾਊਨਲੋਡ ਕਰੋ
 # This string is used in the story cards to indicate sponsored content
 # Variables:
@@ -135,7 +135,7 @@ newtab-label-sponsored = { $sponsorOrSource } · ਸਪਾਂਸਰ ਕੀਤਾ
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
-newtab-label-sponsored-by = { $sponsor } ਵਲੋਂ ਸਪੌਂਸਰ
+newtab-label-sponsored-by = { $sponsor } ਵਲੋਂ ਸਪਾਂਸਰ ਕੀਤਾ
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -149,7 +149,7 @@ newtab-section-menu-add-topsite = ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ �
 newtab-section-menu-add-search-engine = ਖੋਜ ਇੰਜਣ ਜੋੜੋ
 newtab-section-menu-move-up = ਉੱਤੇ ਭੇਜੋ
 newtab-section-menu-move-down = ਹੇਠਾਂ ਭੇਜੋ
-newtab-section-menu-privacy-notice = ਨਿੱਜੀ ਨੋਟਿਸ
+newtab-section-menu-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
 
 ## Section aria-labels
 
@@ -186,7 +186,7 @@ newtab-discovery-empty-section-topstories-timed-out = ਓਹ ਹੋ! ਅਸੀ�
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ਪ੍ਰਸਿੱਧ ਵਿਸ਼ੇ:
+newtab-pocket-read-more = ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ:
 newtab-pocket-more-recommendations = ਹੋਰ ਸਿਫਾਰਸ਼ਾਂ
 newtab-pocket-learn-more = ਹੋਰ ਜਾਣੋ
 newtab-pocket-cta-button = { -pocket-brand-name } ਲਵੋ
@@ -196,4 +196,4 @@ newtab-pocket-cta-text = { -pocket-brand-name } ਵਿਚ ਆਪਣੀਆਂ ਕ
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = ਓਹ ਹੋ, ਇਸ ਸਮੱਗਰੀ ਨੂੰ ਲੋਡ ਕਰਨ ਵਿੱਚ ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ।
-newtab-error-fallback-refresh-link = ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਪੰਨਾ ਤਾਜ਼ਾ ਕਰੋ।
+newtab-error-fallback-refresh-link = ਮੁੜ ਕੋਸ਼ਿਸ਼ ਲਈ ਸਫ਼ੇ ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ।
