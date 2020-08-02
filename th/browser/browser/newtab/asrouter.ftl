@@ -252,3 +252,5 @@ cfr-doorhanger-doh-secondary-button = ปิดใช้งาน
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = การป้องกันจากกลยุทธ์การติดตามอันเจ้าเล่ห์อัตโนมัติ
+cfr-whatsnew-clear-cookies-body = ตัวติดตามบางตัวจะเปลี่ยนเส้นทางคุณไปยังเว็บไซต์อื่น ๆ ที่ตั้งค่าคุกกี้อย่างลับ ๆ ตอนนี้ { -brand-short-name } จะล้างคุกกี้เหล่านั้นโดยอัตโนมัติเพื่อไม่ให้คุณถูกตามรอย
+cfr-whatsnew-clear-cookies-image-alt = ภาพประกอบคุกกี้ที่ถูกปิดกั้น
