@@ -820,7 +820,7 @@ forms-primary-pw-change =
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
-forms-primary-pw-former-name = Akken yella yettwassen uqbel d awal uffir agejdan.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Aql-ak·akem akka tura deg uskar FIPS . FIPS yesra awal uffir agejdan arilem.
 forms-master-pw-fips-desc = Asnifel n wawal uffir agejdan ur yeddi ara
 
