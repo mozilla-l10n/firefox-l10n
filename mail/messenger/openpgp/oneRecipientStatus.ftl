@@ -4,7 +4,10 @@
 
 openpgp-one-recipient-status-status =
     .label = Status
+openpgp-one-recipient-status-key-id =
+    .label = Nøkkel-ID
 openpgp-one-recipient-status-created-date =
     .label = Laga
 openpgp-one-recipient-status-expires-date =
     .label = Går ut
+openpgp-key-secret-not-personal = Ubrukande
