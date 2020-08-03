@@ -361,6 +361,8 @@ open-msg-label =
 open-msg-tab =
     .label = Un nove scheda
     .accesskey = n
+display-name-label =
+    .value = Nomine a monstrar:
 
 ## Compose Tab
 
@@ -514,6 +516,9 @@ security-devices-button =
 
 ## Chat Tab
 
+startup-label =
+    .value = Quando { -brand-short-name } es initiate:
+    .accesskey = i
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
