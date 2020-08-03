@@ -57,6 +57,9 @@ onboarding-multistage-import-header = Importeer uw wachtwoorden, bladwijzers en 
 onboarding-multistage-import-subtitle = Gebruikte u een andere browser? Het is eenvoudig om alles naar { -brand-short-name } over te brengen.
 onboarding-multistage-import-primary-button-label = Import starten
 onboarding-multistage-import-secondary-button-label = Niet nu
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = De websites in deze lijst zijn op dit apparaat gevonden. { -brand-short-name } bewaart of synchroniseert geen gegevens van een andere browser, tenzij u ervoor kiest ze te importeren.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -83,6 +86,24 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Het uiterlijk van uw besturingssysteem
+        overnemen voor knoppen, menu’s en vensters.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Een licht uiterlijk gebruiken voor knoppen,
+        menu’s en vensters.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Een donker uiterlijk gebruiken voor knoppen,
+        menu’s en vensters.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
 
 ## Welcome full page string
 
