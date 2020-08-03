@@ -133,6 +133,9 @@ add-search-engine =
 remove-search-engine =
     .label = Remover
     .accesskey = v
+minimize-to-tray-label =
+    .label = Quando { -brand-short-name } es minimisate, mover lo al zona del avisos
+    .accesskey = m
 new-message-arrival = Quando nove messages arriva:
 mail-play-sound-label =
     .label =
@@ -162,6 +165,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Monstrar un icone del zona del avisos
     .accesskey = a
+mail-system-sound-label =
+    .label = Sono predefinite de systema pro nove email
+    .accesskey = S
 mail-custom-sound-label =
     .label = Utilisar le file sonor sequente
     .accesskey = U
@@ -197,6 +203,14 @@ always-check-default =
 check-default-button =
     .label = Controlar ora…
     .accesskey = o
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Puncto luce
+        [windows] Recerca de Windows
+       *[other] { "" }
+    }
 search-integration-label =
     .label = Permitter a { search-engine-name } de cercar messages
     .accesskey = P
@@ -272,6 +286,7 @@ font-options-button =
 color-options-button =
     .label = Colores…
     .accesskey = C
+display-width-legend = Messages de texto simple
 # Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
 convert-emoticons-label =
     .label = Monstrar emoticones como imagines
