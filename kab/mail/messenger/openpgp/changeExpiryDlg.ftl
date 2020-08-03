@@ -5,6 +5,8 @@
 openpgp-change-key-expiry-title =
     .title = Snifel tasarut n keffu
 info-already-expired = Tasarut-a temmut yakan.
+expire-dont-change =
+    .label = Ur ttbeddil ara azemz n taggara
 expire-never-label =
     .label = Tasarut ur tettmettat ara akk
 expire-in-label =

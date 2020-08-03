@@ -14,6 +14,8 @@ openpgp-key-gen-no-expiry-label =
     .label = Tasarut ut tettmettat ara
 openpgp-key-gen-key-size-label = Teɣzi n tsarut
 openpgp-key-gen-key-type-label = Anaw n tsarut
+openpgp-key-gen-key-type-rsa =
+    .label = RSA
 
 ## e2e encryption settings
 
