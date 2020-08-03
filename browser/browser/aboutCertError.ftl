@@ -85,3 +85,4 @@ blockedByPolicy-title = నిరోధించిన పేజీ
 clockSkewError-title = మీ కంప్యూటర్ గడియారం తప్పు
 networkProtocolError-title = నెట్‌వర్క్ ప్రొటోకాల్ తప్పిదం
 nssBadCert-sts-title = అనుసంధానం కాలేదు: సంభావ్య భద్రతా సమస్య
+certerror-mitm-title = { -brand-short-name }ను ఈ సైటుకు సురక్షితంగా అనుసంధానమవ్వకుండా సాఫ్ట్‌వేర్ నివారిస్తుంది

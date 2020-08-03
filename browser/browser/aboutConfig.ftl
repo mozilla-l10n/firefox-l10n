@@ -4,6 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ఇక్కడ డ్రాగన్లు ఉంటాయి!
+about-config-warning-text = ఈ ఉన్నత అమరికలను మార్చుట ఈ అనువర్తన స్థిరత్వానికీ, రక్షణకూ, పనితనానికీ హానికరం. ఏం చేస్తున్నారో మీకు ఖచ్చితంగా తెలిస్తేనే ముందుకువెళ్ళండి.
 about-config-warning-checkbox = తర్వాత కూడా నన్ను విసిగించు!
 about-config-warning-button = నేను నష్టభయాన్ని అంగీకరిస్తున్నాను
 about-config2-title = ఉన్నత స్వరూపణం
@@ -13,6 +14,7 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = జాగ్రత్తతో ముందుకువెళ్ళండి
+about-config-intro-warning-text = ఉన్నత స్వరూపణ అభిరుచులను మార్చడం { -brand-short-name } పనితీరు లేక భద్రతను ప్రభావితం చేయగలదు.
 about-config-intro-warning-checkbox = ఈ అభిరుచులను చూడటానికి నేను ప్రయత్నించినపుడు నన్ను హెచ్చరించు
 about-config-intro-warning-button = నష్టభయాన్ని అంగీకరించి ముందుకు కొనసాగండి
 
