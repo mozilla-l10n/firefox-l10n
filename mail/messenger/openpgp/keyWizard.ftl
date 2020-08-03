@@ -16,7 +16,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Gerar chave OpenPGP
-openpgp-keygen-expiry-title = Vencimento da chave
+openpgp-keygen-expiry-title = Validade da chave
 openpgp-keygen-days-label =
     .label = dias
 openpgp-keygen-months-label =
@@ -46,6 +46,7 @@ openpgp-keygen-dismiss =
 openpgp-keygen-import-complete =
     .label = Fechar
     .accesskey = F
+openpgp-keygen-short-expiry = Sua chave precisa ser válida por pelo menos um dia.
 openpgp-keygen-ongoing = Geração de chaves já em andamento!
 openpgp-keygen-error-failed = Geração de chaves OpenPGP falhou inesperadamente
 
