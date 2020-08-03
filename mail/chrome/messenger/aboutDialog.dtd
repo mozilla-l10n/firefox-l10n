@@ -16,7 +16,7 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
-<!ENTITY warningDesc.version        "&brandShortName; 是一個實驗用的測試版本，可能不夠穩定。">
+<!ENTITY warningDesc.version        "&brandShortName; 是實驗用的測試版本，可能不夠穩定。">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "將會自動傳送關於效能、硬體資訊、使用情況與如何自訂的相關資訊回 &vendorShortName; 以幫助讓 &brandShortName; 變得更好。">
 
@@ -24,7 +24,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " 是一個 ">
+<!ENTITY community.exp.middle       "是一個">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "全球性社群">
 <!ENTITY community.exp.end          "。我們一起努力讓網路保持開放，任誰都可隨意使用。">

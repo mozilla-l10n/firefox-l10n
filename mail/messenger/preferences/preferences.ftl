@@ -470,7 +470,7 @@ default-directory-label =
 default-last-label =
     .none = 最近使用的目錄
 attachment-label =
-    .label = 檢查遺失的附件
+    .label = 檢查忘記加入的附件
     .accesskey = m
 attachment-options-label =
     .label = 關鍵字…
@@ -714,6 +714,3 @@ search-results-empty-message =
        *[other] 抱歉！沒有「<span data-l10n-name="query"></span>」的偏好設定搜尋結果。
     }
 search-results-help-link = 需要幫忙嗎？請到 <a data-l10n-name="url">{ -brand-short-name } 技術支援</a>
-
-## Preferences UI Search Results
-
