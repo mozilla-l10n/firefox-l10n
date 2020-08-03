@@ -341,6 +341,7 @@ choose-folder-label =
 always-ask-label =
     .label = Sempre demandar me ubi salvar le files
     .accesskey = S
+display-tags-text = Tags pote esser usate pro categorisar e prioritarisar tu messages.
 new-tag-button =
     .label = Nove…
     .accesskey = N
@@ -350,10 +351,19 @@ edit-tag-button =
 delete-tag-button =
     .label = Deler
     .accesskey = D
+auto-mark-as-read =
+    .label = Marcar automaticamente messages como legite
+    .accesskey = M
+mark-read-no-delay =
+    .label = Immediatemente sur le schermo
+    .accesskey = I
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Post monstrar pro
+    .accesskey = m
 seconds-label = secundas
 
 ##
@@ -363,20 +373,40 @@ open-msg-label =
 open-msg-tab =
     .label = Un nove scheda
     .accesskey = n
+open-msg-window =
+    .label = Un nove fenestra de message
+    .accesskey = n
+open-msg-ex-window =
+    .label = Un fenestra existente de message
+    .accesskey = e
+close-move-delete =
+    .label = Clauder fenestra/scheda de message al mover o deler
+    .accesskey = C
 display-name-label =
     .value = Nomine a monstrar:
+condensed-addresses-label =
+    .label = Monstrar solo nomine a monstrar pro personas in mi libro del adresses
+    .accesskey = M
 
 ## Compose Tab
 
 forward-label =
     .value = Inviar ultra messages:
     .accesskey = u
+inline-label =
+    .label = In message
 as-attachment-label =
     .label = Como annexo
+extension-label =
+    .label = adder extension al nomine de file
+    .accesskey = a
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Salvar automaticamente cata
+    .accesskey = S
 auto-save-end = minutas
 
 ##
@@ -566,6 +596,7 @@ style-dark =
 style-simple =
     .label = Simple
 preview-label = Vista preliminar:
+no-preview-description = Iste thema non es valide o es actualmente indisponibile (ha disactivate additivo, safe-mode, …).
 chat-variant-label =
     .value = Variante:
     .accesskey = V
