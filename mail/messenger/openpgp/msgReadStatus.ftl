@@ -15,6 +15,7 @@ openpgp-sig-uncertain-no-key = Questo messaggio contiene una firma digitale ma p
 openpgp-sig-uncertain-uid-mismatch = Questo messaggio contiene una firma digitale ma è stata rilevata una mancata corrispondenza. Il messaggio è stato inviato da un indirizzo email che non corrisponde alla chiave pubblica del firmatario.
 openpgp-sig-invalid-technical-problem = Questo messaggio contiene una firma digitale ma è stato rilevato un errore tecnico. Il messaggio è stato danneggiato o è stato modificato da qualcun altro.
 openpgp-sig-valid-verified = Questo messaggio include una firma digitale valida da una chiave verificata.
+openpgp-sig-valid-own-key = Questo messaggio include una firma digitale valida dalla tua chiave personale.
 openpgp-sig-key-id = ID chiave del firmatario: { $key }
 openpgp-enc-key-id = ID della tua chiave di decrittazione: { $key }
 openpgp-unknown-key-id = Chiave sconosciuta
