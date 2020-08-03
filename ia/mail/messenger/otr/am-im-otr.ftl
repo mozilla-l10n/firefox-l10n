@@ -4,6 +4,8 @@
 
 account-encryption =
     .label = Cryptation end-to-end
+account-otr-label = Messages off-the-record (OTR)
+account-otr-description = { -brand-short-name } supportos cryptographia end-to-end del conversationes un-a-un. Iste impedi tertie partes facer spionage sur un conversation. Cryptographia end-to-end pote solo esser usate quando le altere persona alsi usa software que supportos OTR.
 otr-encryption-title = Cryptation verificate
 otr-fingerprint-label = Tu dactylogramma:
 view-fingerprint-button =
