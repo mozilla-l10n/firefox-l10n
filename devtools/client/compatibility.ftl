@@ -12,7 +12,11 @@ compatibility-all-elements-header = Όλα τα ζητήματα
 
 compatibility-issue-deprecated = (παρωχημένο)
 compatibility-issue-experimental = (πειραματικό)
+compatibility-issue-prefixneeded = (απαιτείται πρόθεμα)
 compatibility-issue-deprecated-experimental = (παρωχημένο, πειραματικό)
+compatibility-issue-deprecated-prefixneeded = (παρωχημένο, απαιτείται πρόθεμα)
+compatibility-issue-experimental-prefixneeded = (πειραματικό, απαιτείται πρόθεμα)
+compatibility-issue-deprecated-experimental-prefixneeded = (παρωχημένο, πειραματικό, απαιτείται πρόθεμα)
 
 ## Messages used as labels and titles for buttons in the footer
 
