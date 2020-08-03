@@ -24,3 +24,5 @@ openpgp-sig-key-id-with-subkey-id = 签名者密钥 ID：{ $key }（子密钥 ID
 openpgp-enc-key-id = 您的解密密钥 ID：{ $key }
 openpgp-enc-key-with-subkey-id = 您的解密密钥 ID：{ $key }（子密钥 ID：{ $subkey }）
 openpgp-unknown-key-id = 未知密钥
+openpgp-other-enc-additional-key-ids = 此外，消息已由下列密钥的拥有者加密：
+openpgp-other-enc-all-key-ids = 消息已由下列密钥的拥有者加密：

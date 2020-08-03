@@ -29,5 +29,6 @@ openpgp-search-signature-key =
 openpgp-broken-exchange-repair =
     .label = 修复消息
 openpgp-broken-exchange-wait = 请稍候…
+openpgp-cannot-decrypt-because-missing-key = 用于解密此消息的私钥不存在。
 openpgp-partial-verify-button = 验证
 openpgp-partial-decrypt-button = 解密
