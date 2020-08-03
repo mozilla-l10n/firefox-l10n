@@ -530,6 +530,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Inviar ultra le message seligite como annexo">
 <!ENTITY goForwardButton.tooltip "Inviar ultra un message">
 <!ENTITY deleteButton.tooltip "Deler le message o dossier seligite">
+<!ENTITY printButton.tooltip "Imprimer iste message">
 <!ENTITY stopButton.tooltip "Interrumper le transferentia actual">
 <!ENTITY junkButton.tooltip "Marcar le message seligite como indesirate">
 <!ENTITY notJunkButton.tooltip "Marcar le message seligite como non indesirate">
@@ -544,8 +545,13 @@
 <!-- Phishing Button Popup -->
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuEditMenu.label "Rediger">
 
 <!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "Nove tag…">
+<!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Gerer le tags…">
+<!ENTITY manageTags.accesskey "G">
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nomine">
@@ -598,11 +604,21 @@
 <!-- Search Bar -->
 
 <!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.placeholder "Cercar messages…">
 
 <!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Subjecto">
+<!ENTITY searchFromMenu.label "De">
+<!ENTITY searchRecipient.label "A o CC">
+<!ENTITY searchSubjectOrRecipientMenu.label "Subjecto, A o CC">
+<!ENTITY searchMessageBody.label "Message integre">
 <!ENTITY saveAsVirtualFolderMenu.label "Salvar le recerca como dossier…">
 
 <!-- Thread Pane -->
+<!ENTITY threadColumn.label "Argumento">
+<!ENTITY fromColumn.label "De">
+<!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY correspondentColumn.label "Correspondentes">
 <!ENTITY subjectColumn.label "Subjecto">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioritate">
@@ -624,6 +640,16 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Elige le columnas a monstrar">
+<!ENTITY fromColumn2.tooltip "Ordinar per mittente">
+<!ENTITY recipientColumn2.tooltip "Ordinar per destinatario">
+<!ENTITY correspondentColumn2.tooltip "Ordinar per correspondentes">
+<!ENTITY subjectColumn2.tooltip "Ordinar per subjecto">
+<!ENTITY dateColumn2.tooltip "Ordinar per data">
+<!ENTITY priorityColumn2.tooltip "Ordinar per prioritate">
+<!ENTITY tagsColumn2.tooltip "Ordinar per tags">
+<!ENTITY accountColumn2.tooltip "Ordinar per conto">
+<!ENTITY statusColumn2.tooltip "Ordinar per stato">
+<!ENTITY sizeColumn2.tooltip "Ordinar per dimension">
 <!ENTITY junkStatusColumn2.tooltip "Ordinar per stato indesirate">
 <!ENTITY attachmentColumn2.tooltip "Ordinar per annexos">
 
