@@ -55,21 +55,73 @@ openpgp-keygen-progress-title = Generation de tu nove clave OpenPGP…
 openpgp-keygen-import-progress-title = Importation de tu claves OpenPGP…
 openpgp-import-success = Claves OpenPGP importate con successo!
 openpgp-import-success-title = Completar le procedura de importation
+openpgp-import-success-description = Pro initiar usar tu clave OpenPGP importate pro cryptographia email, claude iste fenestra de dialogo e accede a tu parametros de conto pro eliger lo.
 openpgp-keygen-confirm =
     .label = Confirmar
 openpgp-keygen-dismiss =
     .label = Cancellar
+openpgp-keygen-cancel =
+    .label = Cancellar procedura…
 openpgp-keygen-import-complete =
     .label = Clauder
     .accesskey = C
+openpgp-keygen-missing-username = Il ha nulle nomine specific pro le actual conto. Insere un valor in le campo · "Tu nomine" in le parametros del conto.
+openpgp-keygen-long-expiry = Tu non pote crea un clave que expira in plus de 100 annos.
+openpgp-keygen-short-expiry = Tu clave debe esser valide pro al minus un die.
+openpgp-keygen-ongoing = Generation del clave jam in curso!
+openpgp-keygen-error-core = Impossibile initialisar le servicio nucleo de OpenPGP
+openpgp-keygen-error-failed = Generation del clave OpenPGP fallite inexpectatemente
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Clave OpenPGP create con successo, ma falta a obtener le revocation pro le clave { $clave }
+openpgp-keygen-abort-title = Abortar le generation del clave?
+openpgp-keygen-abort = Generation del clave OpenPGP actualmente in curso, desira tu vermente cancellar lo?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Generar clave public e secrete pro { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Importar un clave OpenPGP personal existente
+openpgp-import-key-legend = Eliger un file reservate previemente.
+openpgp-import-key-description = Tu pote importar claves personal que ha essite create con altere software OpenPGP.
+openpgp-import-key-info = Altere software pote describer un clave personal per terminos alternative tal como tu proprie clave, secrete clave, clave private o par de claves.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird trovava un clave que pote esser importate.
+       *[other] Thunderbird trovava { $count } claves que pote esser importate.
+    }
+openpgp-import-key-list-description = Confirmar que le claves pote esser tractate como tu claves personal. Solo claves que tu mesme ha create e que monstrar tu proprie identitate debe esser usate como claves personal. Tu pote cambiar iste option plus tarde in le fenestra de dialogo Proprietates del clave.
+openpgp-import-key-list-caption = Le claves marcate pro esser tractate como claves personal sera presentate in le section Cryptographia end-to-end. Los altere sera disponibile intra le gestor del claves.
+openpgp-passphrase-prompt-title = Phrase contrasigno obligatori
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Insere le phrase contrasigno pro disblocar le sequente clave: { $clave }
+openpgp-import-key-button =
+    .label = Elige le file a importar…
+    .accesskey = E
+import-key-file = Importar le file clave OpenPGP
+import-key-personal-checkbox =
+    .label = Tractar iste clave como clave personal
+gnupg-file = Files GnuPG
+import-error-file-size = <b>Error!</b> Files major de 5MB non es supportate.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Error!</b> Falta a importar file. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Error!</b> Falta a importar claves. { $error }
 openpgp-import-identity-label = Identitate
 openpgp-import-fingerprint-label = Dactylogramma
 openpgp-import-created-label = Create
+openpgp-import-bits-label = Bits
+openpgp-import-key-props =
+    .label = Proprietates del clave
+    .accesskey = P
 
 ## External Key section
 
+openpgp-external-key-title = Clave GnuPG externe
+openpgp-external-key-description = Configurar un clave GnuPG externe per le introduction del ID clave
+openpgp-external-key-info = In addition, tu debe usar le gestor del claves pro importar e acceptar le clave public correspondente.
+openpgp-external-key-warning = <b>Tu pote configurar un singule clave GnuPG externe.</b> Tu previe entrata sera supplantate.
+openpgp-save-external-button = Salvar ID del clave
+openpgp-external-key-label = ID del clave secrete:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
