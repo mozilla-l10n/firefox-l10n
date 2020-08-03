@@ -23,7 +23,7 @@
 <!ENTITY radioNotSend.accesskey "і">
 <!ENTITY radioAskUnsent.label "Питати мене">
 <!ENTITY radioAskUnsent.accesskey "т">
-<!ENTITY textGoingOffline "Завантажувати листи перед виходом в автономний режим?">
+<!ENTITY textGoingOffline "Завантажувати повідомлення перед виходом в автономний режим?">
 <!ENTITY radioAutoDownload.label "Так">
 <!ENTITY radioAutoDownload.accesskey "Т">
 <!ENTITY radioNotDownload.label "Ні">

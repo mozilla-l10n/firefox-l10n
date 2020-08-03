@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "Початкова сторінка &brandShortName;">
-<!ENTITY enableStartPage.label            "Показувати початкову сторінку в області перегляду листа при запуску &brandShortName;">
+<!ENTITY enableStartPage.label            "Показувати початкову сторінку в області перегляду повідомлення під час запуску &brandShortName;">
 <!ENTITY enableStartPage.accesskey        "с">
 <!ENTITY location.label                   "Розташування:">
 <!ENTITY location1.accesskey               "Р">
@@ -14,7 +14,7 @@
 <!ENTITY dockOptions.label                "Налаштування піктограми програми…">
 <!ENTITY dockOptions.accesskey            "л">
 
-<!ENTITY newMessagesArrive.label          "При появі нових листів:">
+<!ENTITY newMessagesArrive.label          "Коли надходять нові повідомлення:">
 <!ENTITY playSound.label                  "Відтворити звук">
 <!ENTITY playSound1.accesskey             "з">
 <!ENTITY playSoundMac.label               "Відтворити такий звуковий файл:">

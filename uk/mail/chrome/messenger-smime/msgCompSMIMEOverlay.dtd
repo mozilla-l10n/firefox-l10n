@@ -37,5 +37,5 @@
 <!ENTITY securityButton.label "Захист">
 <!ENTITY securityButton.tooltip "Перегляд або зміна параметрів захисту">
 
-<!ENTITY menu_viewSecurityStatus.label "Інформація про захист листа">
+<!ENTITY menu_viewSecurityStatus.label "Інформація про захист повідомлення">
 <!ENTITY menu_viewSecurityStatus.accesskey "І">

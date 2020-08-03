@@ -53,7 +53,7 @@ sentence. -->
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Бульбашки">
 <!ENTITY messageStyleDarkTheme.label       "Темна">
-<!ENTITY messageStylePaperSheetsTheme.label "Паперовий лист">
+<!ENTITY messageStylePaperSheetsTheme.label "Аркуші паперу">
 <!ENTITY messageStyleSimpleTheme.label     "Проста">
 <!ENTITY messageStyleDefaultTheme.label    "Стандартна">
 <!ENTITY messageStyleVariant.label         "Варіант:">

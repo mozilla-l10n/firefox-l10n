@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-e2e-intro-description = Щоб надсилати захищені або підписані цифровим підписом листи, вам необхідно налаштувати технологію шифрування OpenPGP або S/MIME.
+e2e-intro-description = Щоб надсилати захищені або підписані цифровим підписом повідомлення, вам необхідно налаштувати технологію шифрування OpenPGP або S/MIME.
 e2e-intro-description-more = Виберіть свій особистий ключ, щоб дозволити використання OpenPGP, або ваш особистий сертифікат, щоб дозволити використання S/MIME. Для особистого ключа або сертифіката ви отримаєте відповідний секретний ключ.
 openpgp-key-user-id-label = Обліковий запис / ID користувача
 openpgp-keygen-title-label =

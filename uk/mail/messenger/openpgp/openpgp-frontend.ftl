@@ -23,7 +23,7 @@ openpgp-import-sender-key =
     .label = Імпортувати…
 openpgp-search-keys-openpgp =
     .label = Дослідити ключ OpenPGP
-openpgp-missing-signature-key = Цей лист підписано ключем, якого у вас ще немає.
+openpgp-missing-signature-key = Це повідомлення підписано ключем, якого у вас ще немає.
 openpgp-search-signature-key =
     .label = Дослідити…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"

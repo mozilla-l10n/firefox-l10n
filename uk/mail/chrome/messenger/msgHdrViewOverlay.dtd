@@ -23,12 +23,12 @@
 <!ENTITY originalWebsite4.label "Сайт ">
 
 <!ENTITY hdrArchiveButton1.label "Архівувати">
-<!ENTITY hdrArchiveButton1.tooltip "Архівувати цей лист">
+<!ENTITY hdrArchiveButton1.tooltip "Архівувати це повідомлення">
 <!ENTITY hdrOpenConversationButton1.label "Розмова">
 <!ENTITY hdrOpenConversationButton1.tooltip "Показати розмову цього повідомлення">
 <!ENTITY hdrSmartReplyButton1.label "Розумна відповідь">
 <!ENTITY hdrReplyButton1.label "Відповісти">
-<!ENTITY hdrReplyButton2.tooltip "Відповісти автору цього листа">
+<!ENTITY hdrReplyButton2.tooltip "Відповісти автору цього повідомлення">
 <!ENTITY hdrReplyAllButton1.label "Відповісти всім">
 <!ENTITY hdrReplyAllButton1.tooltip "Відповісти відправнику та всім отримувачам">
 <!ENTITY hdrReplyListButton1.label "Відповісти списку">
@@ -37,11 +37,11 @@
 <!ENTITY hdrFollowupButton1.tooltip "Опублікувати відповідь в цій групі новин">
 <!ENTITY hdrMenuForwardButton.label "Переслати як">
 <!ENTITY hdrForwardButton1.label "Переслати">
-<!ENTITY hdrForwardButton1.tooltip "Переслати цей лист">
+<!ENTITY hdrForwardButton1.tooltip "Переслати це повідомлення">
 <!ENTITY hdrJunkButton1.label "Спам">
-<!ENTITY hdrJunkButton1.tooltip "Позначити цей лист як спам">
+<!ENTITY hdrJunkButton1.tooltip "Позначити це повідомлення як спам">
 <!ENTITY hdrTrashButton1.label "Видалити">
-<!ENTITY hdrTrashButton1.tooltip "Видалити цей лист">
+<!ENTITY hdrTrashButton1.tooltip "Видалити це повідомлення">
 
 <!ENTITY hdrViewToolbarShowFull.label "Показувати значки та текст">
 <!ENTITY hdrViewToolbarShowFull.accesskey "т">
@@ -111,7 +111,7 @@
 
 <!ENTITY CopyMessageId.label "Копіювати ідентифікатор">
 <!ENTITY CopyMessageId.accesskey "К">
-<!ENTITY OpenMessageForMsgId.label "Відкрити листа за ідентифікатором">
+<!ENTITY OpenMessageForMsgId.label "Відкрити повідомлення за ID">
 <!ENTITY OpenMessageForMsgId.accesskey "В">
-<!ENTITY OpenBrowserWithMsgId.label "Відкрити лист у браузері">
+<!ENTITY OpenBrowserWithMsgId.label "Відкрити повідомлення у браузері">
 <!ENTITY OpenBrowserWithMsgId.accesskey "б">

@@ -59,7 +59,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Показувати лише нечитані листи">
+         "Показувати лише нечитані повідомлення">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -73,7 +73,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Показувати лише листи з зірочкою">
+         "Показувати лише повідомлення з зірочкою">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -89,7 +89,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Показувати листи лише від людей з вашої адресної книги">
+         "Показувати повідомлення лише від людей з вашої адресної книги">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
@@ -103,7 +103,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Показувати лише ті листи, що мають мітки">
+         "Показувати повідомлення лише з мітками">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -117,7 +117,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Показувати лише листи зі вкладеннями">
+         "Показувати повідомлення лише з вкладеннями">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -231,7 +231,7 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "Фільтрувати листи за:">
+         "Фільтрувати повідомлення за:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message

@@ -6,13 +6,13 @@
 
 <!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
 
-<!ENTITY MsgSynchronize.label "Завантажити і синхронізувати листи">
+<!ENTITY MsgSynchronize.label "Завантажити та синхронізувати повідомлення">
 <!ENTITY MsgSelect.label "Елементи для автономної роботи">
 <!ENTITY MsgSyncDesc.label "Якщо ви вже вибрали теки пошти або групи новин для автономної роботи, ви можете завантажити і/або синхронізувати їх. Інакше натисніть кнопку «Вибрати», щоб вибрати теки пошти та груп новин для автономної роботи.">
 <!ENTITY MsgSyncDirections.label "Завантажити і/або синхронізувати наступне:">
-<!ENTITY syncTypeMail.label "Листи пошти">
+<!ENTITY syncTypeMail.label "Пошта">
 <!ENTITY syncTypeMail.accesskey "ш">
-<!ENTITY syncTypeNews.label "Листи груп новин">
+<!ENTITY syncTypeNews.label "Повідомлення груп новин">
 <!ENTITY syncTypeNews.accesskey "г">
 <!ENTITY sendMessage.label "Надіслати ненадіслані повідомлення">
 <!ENTITY sendMessage.accesskey "с">
