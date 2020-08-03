@@ -24,6 +24,9 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Λεπτομέρειες">
 <!ENTITY detailsProgressiveDisclosure.accesskey "ε">
 
+
+<!ENTITY historyGroup.label                "Ιστορικό">
+
 <!ENTITY itemHistory.label                 "Ιστορικό περιήγησης">
 <!ENTITY itemHistory.accesskey             "Ι">
 <!ENTITY itemCookies.label                 "Cookies">
