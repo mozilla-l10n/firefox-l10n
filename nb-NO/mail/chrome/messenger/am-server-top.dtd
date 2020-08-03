@@ -37,7 +37,7 @@
 <!ENTITY headersOnly.accesskey "H">
 <!ENTITY deleteByAgeFromServer.label "Inntil de er">
 <!ENTITY deleteByAgeFromServer.accesskey "I">
-<!ENTITY daysEnd.label "dager gamle">
+<!ENTITY daysEnd.label "dager">
 <!ENTITY deleteOnServer2.label "Inntil jeg sletter dem">
 <!ENTITY deleteOnServer2.accesskey "t">
 <!ENTITY downloadOnBiff.label "Last ned nye meldinger automatisk">
