@@ -12,15 +12,29 @@
 <!ENTITY feedLocation.label          "URL del fluxo:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation2.placeholder   "Insere un adresse de fluxo valide">
+<!ENTITY locationValidate.label      "Validar">
+<!ENTITY validateText.label          "Verifica validation e obtene un url valide.">
 
 <!ENTITY feedFolder.label            "Immagazinar articulos in:">
 <!ENTITY feedFolder.accesskey        "I">
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Cercar nove articulos cata ">
+<!ENTITY biffStart.accesskey         "c">
+<!ENTITY biffMinutes.label           "minutas">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dies">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Consilios del editor:">
 
+<!ENTITY quickMode.label             "Monstrar le summario del articulo in vice de cargar le pagina web">
+<!ENTITY quickMode.accesskey         "o">
 
-<!ENTITY autotagEnable.label         "Crear automaticamente etiquettas ab nomines &lt;category&gt; de fluxos">
+<!ENTITY autotagEnable.label         "Crear automaticamente etiquettas ab nomines de &lt;categorias&gt; de fluxos">
+<!ENTITY autotagEnable.accesskey     "o">
+<!ENTITY autotagUsePrefix.label      "Prefixar le tags con:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Insere un prefixo de tag">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Adder">
@@ -37,3 +51,5 @@
 <!ENTITY button.exportOPML.accesskey "X">
 <!ENTITY button.exportOPML.tooltip   "Exportar fluxos con structura de dossiers; Ctrl+clic o Ctrl+Enter pro exportar fluxos como lista">
 
+<!ENTITY cmd.close.commandKey        "c">
+<!ENTITY button.close.label          "Clauder">
