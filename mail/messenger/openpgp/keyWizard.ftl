@@ -91,7 +91,7 @@ openpgp-import-key-list-amount =
        *[other] Thunderbird hittade { $count } nycklar som kan importeras.
     }
 openpgp-import-key-list-description = Bekräfta vilka nycklar som kan behandlas som dina personliga nycklar. Endast nycklar som du skapade själv och som visar din egen identitet bör användas som personliga nycklar. Du kan ändra det här alternativet senare i dialogrutan Nyckelegenskaper.
-openpgp-import-key-list-caption = Nycklar markerade för att behandlas som personliga nycklar kommer att listas i avsnittet End-to-End kryptering. De andra kommer att finnas tillgängliga i Nyckelhanteraren.
+openpgp-import-key-list-caption = Nycklar markerade för att behandlas som personliga nycklar kommer att listas i avsnittet End-to-end kryptering. De andra kommer att finnas tillgängliga i Nyckelhanteraren.
 openpgp-passphrase-prompt-title = Lösenfras krävs
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Ange lösenfrasen för att låsa upp följande nyckel: { $key }
