@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-openpgp = OpenPGP
+openpgp-sig-key-id = Asulay n tsarut n unezmal: { $key }
 openpgp-unknown-key-id = Tasarut d tarussint
