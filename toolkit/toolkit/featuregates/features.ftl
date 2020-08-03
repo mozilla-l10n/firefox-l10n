@@ -86,3 +86,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Fejlesztői eszközök: Hibakeresés a Service Workerekben
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Engedélyezi a Service Workerek kísérleti támogatását a fejlesztői eszközök Hibakeresés panelján. A funkció lelassíthatja a fejlesztői eszközöket, és növelheti a memóriafogyasztást.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafika: sima nagyítás csípéssel
