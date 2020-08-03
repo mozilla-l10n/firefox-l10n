@@ -8,6 +8,7 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = Kemmel
     .buttonlabelhelp = Uɣal ɣer deffir
+key-wizard-warning = <b>Ma tesɛiḍ tasarut tudmawant</b>i tansa-a imayl, yessefk ad tt-tketreḍ. Ma ulac, ur tzemmreḍ ara ad tkecmeḍ ɣer yiɣbaren-ik•im n yimaylen yettwawgelhen, daɣen ur tzemmreḍ ara ad teɣreḍ imaylen yettwawgelhen i d-ttaznen wid i mazal seqdacen tasarut-ik•im i yellan yakan.
 key-wizard-learn-more = Issin ugar
 
 ## Generate key section
@@ -41,9 +42,19 @@ openpgp-keygen-import-complete =
     .label = Mdel
     .accesskey = M
 openpgp-keygen-long-expiry = Ur tezmireḍ ara ad d-tesnulfuḍ tasarut ara yemmten deg wugar n 100 n yiseggasen.
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Sirew tasarut tazayezt tufurt i { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Kter tasarut OpenPGP tudmawant i yellan yakan
+openpgp-import-key-description = Tzemreḍ ad tketreḍ tasarut tudmawant i yettwarnan s useɣẓan-nniḍen OpenPGP.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird yufa-d tasarut i izemren ad tettwakter.
+       *[other] Thunderbird yufa-d tisura i izemren ad ttwaketrent.
+    }
 openpgp-passphrase-prompt-title = Tlaq tefyirt tuffirt
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Ttxil sekcem tafyirt tuffirt i userreḥ n tsarut-a: { $key }
