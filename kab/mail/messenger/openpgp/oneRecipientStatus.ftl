@@ -11,3 +11,7 @@ openpgp-one-recipient-status-created-date =
 openpgp-one-recipient-status-expires-date =
     .label = Ad yemmet
 openpgp-key-own = Yettwaqbel (tasarut tudmawant)
+openpgp-key-verified = Yettwaqbel (ittwasenqed)
+openpgp-key-unverified = Yettwaqbel (ur ittwasenqed ara)
+openpgp-key-undecided = Ur yettwaqbel ara (ur yerkid ara)
+openpgp-key-rejected = Ur yettwaqbel ara (yettwagi)
