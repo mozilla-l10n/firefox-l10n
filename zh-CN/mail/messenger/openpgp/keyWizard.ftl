@@ -8,6 +8,7 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = 继续
     .buttonlabelhelp = 返回
+key-wizard-warning = <b>若您已有此邮箱的个人密钥</b>，应该直接导入该密钥，否则将无法再访问先前加密过的邮件，以及其他人使用您现有密钥加密发送给您的邮件。
 key-wizard-learn-more = 详细了解
 radio-create-key =
     .label = 新建 OpenPGP 密钥
@@ -22,7 +23,9 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = 生成 OpenPGP 密钥
+openpgp-generate-key-info = <b>密钥生成可能需要几分才能完成。</b>密钥生成过程中，请不要关闭应用程序。主动浏览上网，或进行频繁读写磁盘操作，可补充“随机数池”以加速密钥生成。完成后将提示您密钥已生成。
 openpgp-keygen-expiry-title = 密钥到期
+openpgp-keygen-expiry-description = 设定您新生成的密钥的到期时间，之后可根据需要进行延期。
 radio-keygen-expiry =
     .label = 密钥过期时间
     .accesskey = e
@@ -62,6 +65,7 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = 关闭
     .accesskey = C
+openpgp-keygen-missing-username = 尚未指定当前账户的名称。请在账户设置中的“你的名字”栏输入姓名。
 openpgp-keygen-long-expiry = 您不能创建有效期超过 100 年的密钥。
 openpgp-keygen-short-expiry = 您的密钥有效期不能少于 1 天。
 openpgp-keygen-ongoing = 已在生成密钥中！
@@ -85,6 +89,7 @@ openpgp-import-key-list-amount =
     { $count ->
        *[other] Thunderbird 找到 { $count } 个可以导入的密钥。
     }
+openpgp-import-key-list-description = 请确认哪些密钥是您的个人密钥。应该只将您自己创建，且显示您个人身份的密钥视为个人密钥。您可以稍后到“密钥属性”对话框更改此选项。
 openpgp-passphrase-prompt-title = 请输入密语
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = 请输入用于解密下列密钥的密语：{ $key }
