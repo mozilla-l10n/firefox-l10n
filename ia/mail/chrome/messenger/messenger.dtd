@@ -836,12 +836,32 @@
 <!ENTITY reloadCmd.accesskey "R">
 
 <!-- Statusbar -->
+<!ENTITY statusText.label "Facite">
 
 <!-- Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label "Minimisar">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Traher toto al avante">
+<!ENTITY zoomWindow.label "Zoomar">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac2.label       "Preferentias">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Servicios">
+<!ENTITY hideThisAppCmdMac.label        "Celar &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "C">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "">
+<!ENTITY hideOtherAppsCmdMac.commandkey "C">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Monstrar toto">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Optiones del icone del app…">
+<!ENTITY writeNewMessageDock.label      "Scriber nove message">
+<!ENTITY openAddressBookDock.label      "Aperir libro del adresses">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Ir un pagina retro">
 <!ENTITY browseForwardButton.tooltip "Avantiar un pagina">
