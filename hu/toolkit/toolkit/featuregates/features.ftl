@@ -89,3 +89,4 @@ experimental-features-devtools-serviceworker-debugger-support-description = Enge
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafika: sima nagyítás csípéssel
+experimental-features-graphics-desktop-zooming-description = Engedélyezi a csípéssel történő sima nagyítást az érintőkijelzőkön és precíziós érintőtáblákon.
