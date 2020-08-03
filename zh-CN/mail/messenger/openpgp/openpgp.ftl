@@ -300,10 +300,29 @@ import-info-bits = 位
 import-info-created = 创建于
 import-info-fpr = 指纹
 import-info-no-keys = 未导入密钥。
+# Strings in enigmailKeyManager.js
+import-from-clip = 您想要从剪贴板导入一些密钥吗？
+import-from-url = 请从下列 URL 下载公钥：
 key-man-button-refresh-all = 刷新所有密钥(&R)
 key-man-loading-keys = 正在加载密钥，请稍候...
 ascii-armor-file = ASCII 格式文件（*.asc）
+export-to-file = 将公钥导出为文件
+export-keypair-to-file = 将私钥和公钥导出为文件
+save-keys-failed = 密钥保存失败
+preview-failed = 无法读取公钥文件。
+general-error = 错误：{ $reason }
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = 照片
+user-att-photo = 用户属性（JPEG 图像）
+# Strings in key.jsm
+already-revoked = 该密钥已被吊销。
 openpgp-key-revoke-success = 已成功吊销密钥。
+delete-key-title = 删除 OpenPGP 密钥
+delete-external-key-title = 移除外部 GnuPG 密钥
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = 错误 - 密钥提取命令运行失败
+# Strings used in keyRing.jsm
+fail-cancel = 错误 - 用户取消接收密钥
