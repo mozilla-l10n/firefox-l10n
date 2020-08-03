@@ -2,11 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY toField4.label "A">
+<!ENTITY fromField4.label "De">
+<!ENTITY senderField4.label "Expeditor">
+<!ENTITY author.label "Autor">
+<!ENTITY organizationField4.label "Organisation">
 <!ENTITY replyToField4.label "Responder a">
 
+<!ENTITY subjectField4.label "Subjecto">
+<!ENTITY ccField4.label "CC">
+<!ENTITY bccField4.label "Ccn">
 <!ENTITY newsgroupsField4.label "Gruppos de discussion">
+<!ENTITY followupToField4.label "Facer sequer a">
+<!ENTITY tagsHdr4.label "Tags">
+<!ENTITY dateField4.label "Data">
+<!ENTITY userAgentField4.label "Agente del usator">
+<!ENTITY referencesField4.label "Referentias">
+<!ENTITY messageIdField4.label "ID-message">
 <!ENTITY inReplyToField4.label "In responsa a">
+<!ENTITY originalWebsite4.label "Sito web">
 
+<!ENTITY hdrArchiveButton1.label "Archivo">
+<!ENTITY hdrArchiveButton1.tooltip "Archivar iste message">
+<!ENTITY hdrOpenConversationButton1.label "Conversation">
+<!ENTITY hdrOpenConversationButton1.tooltip "Monstrar conversation de iste message">
 <!ENTITY hdrSmartReplyButton1.label "Responsa intelligente">
 <!ENTITY hdrReplyButton1.label "Responder">
 <!ENTITY hdrReplyButton2.tooltip "Responder al expeditor de iste message">
@@ -23,9 +42,29 @@
 <!ENTITY hdrTrashButton1.label "Deler">
 <!ENTITY hdrTrashButton1.tooltip "Deler iste message">
 
+<!ENTITY hdrViewToolbarShowFull.label "Monstrar icones e texto">
+<!ENTITY hdrViewToolbarShowFull.accesskey "e">
+<!ENTITY hdrViewToolbarShowIcons.label "Monstrar solo icones">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label "Monstrar texto solmente">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre monstrar Responder al expeditor">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
+<!ENTITY otherActionsButton2.label "Plus">
+<!ENTITY otherActionsButton.tooltip "Altere actiones">
+<!ENTITY otherActionsOpenConversation1.label "Aperir in conversation">
+<!ENTITY otherActionsOpenConversation1.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow1.label "Aperir in un nove fenestra">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "f">
+<!ENTITY otherActionsOpenInNewTab1.label "Aperir in un nove scheda">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "s">
+<!ENTITY markAsReadMenuItem1.label "Marcar como legite">
+<!ENTITY markAsReadMenuItem1.accesskey "l">
+<!ENTITY markAsUnreadMenuItem1.label "Marcar como non legite">
+<!ENTITY markAsUnreadMenuItem1.accesskey "l">
+<!ENTITY saveAsMenuItem1.label "Salvar como…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
 
 <!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Monstrar initialmente le pannello de annexos">
