@@ -64,6 +64,8 @@ openpgp-import-created-label = Yettwarna
 
 ## External Key section
 
+openpgp-external-key-title = TasarutGnuPG taẓɣarayt
+openpgp-external-key-description = Swel tasarut GnuPG taẓɣarayt s usekcem n usulay n tsarut
 openpgp-save-external-button = Sekles asulay n tsarut
 openpgp-external-key-label = Asulay n tsarut ufur:
 openpgp-external-key-input =
