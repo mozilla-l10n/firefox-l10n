@@ -5,7 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Stäng
     .title = Tidigare sett OTR-fingeravtryck
-finger-intro = OTR-nyckelfingeravtryck från tidigare end-to-end-krypterade konversationer.
+finger-intro = OTR-nyckelfingeravtryck från tidigare end-to-end krypterade konversationer.
 finger-screenName =
     .label = Kontakt
 finger-verified =

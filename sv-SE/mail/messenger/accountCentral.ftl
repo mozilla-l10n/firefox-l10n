@@ -49,4 +49,4 @@ search = Sök efter meddelanden
 filter = Hantera meddelandefilter
 nntp-subscription = Hantera prenumerationer på diskussionsgrupper
 rss-subscription = Hantera RSS-prenumerationer
-e2e = End-to-end-kryptering
+e2e = End-to-end kryptering

@@ -13,11 +13,10 @@
 <!ENTITY alwaysEncryptMessage.accesskey "K">
 <!ENTITY encryptionCert.message "Använd följande personliga certifikat:">
 
-<!ENTITY e2eTitle.label "End-to-End-kryptering">
-<!ENTITY e2eIntro.description "För att skicka krypterade eller digitalt signerade meddelanden måste du konfigurera en krypteringsteknik, antingen OpenPGP eller S/MIME.">
+<!ENTITY e2eTitle.label "End-to-end kryptering">
 <!ENTITY e2eLearnMore.label "Läs mer">
 
-<!ENTITY e2eEnc.description "Utan end-to-end-kryptering exponeras innehållet i meddelanden lätt för din e-postleverantör och för massövervakning.">
+<!ENTITY e2eEnc.description "Utan end-to-end kryptering exponeras innehållet i meddelanden lätt för din e-postleverantör och för massövervakning.">
 <!ENTITY e2eeReqWarning.description "Om du behöver kryptering måste du ha den offentliga nyckeln eller certifikatet för varje mottagare för att skicka ett meddelande.">
 
 <!ENTITY e2eSigning.description "En digital signatur gör det möjligt för mottagare att verifiera att meddelandet skickades av dig och att innehållet inte har ändrats.">
@@ -64,8 +63,6 @@
 <!ENTITY technologyOpenPGP.label "Föredra OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
-<!ENTITY manageKeys.label "Hantera OpenPGP-nycklar">
-<!ENTITY manageKeys.accesskey "n">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Välj certifikat">

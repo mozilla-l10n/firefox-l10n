@@ -225,9 +225,73 @@ openpgp-description =
         [one] Thunderbird hittade { $count } personlig OpenPGP-nyckel associerad med <b>{ $identity }</b>
        *[other] Thunderbird hittade { $count } personliga OpenPGP-nycklar associerade med <b>{ $identity }</b>
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Din nuvarande konfiguration använder nyckeln <b>{ $key }</b> som har upphört.
+openpgp-add-key-button =
+    .label = Lägg till nyckel…
+    .accesskey = L
+e2e-learn-more = Läs mer
+openpgp-keygen-success = OpenPGP-nyckeln har skapats!
+openpgp-keygen-import-success = OpenPGP-nycklar har importerats!
+openpgp-keygen-external-success = Extern GnuPG nyckel-ID sparad!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ingen
+openpgp-radio-none-desc = Använd inte OpenPGP för den här identiteten.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Upphör: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Nyckeln upphör om mindre än sex månader
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Upphört: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Nyckeln har upphört
+openpgp-key-expand-section =
+    .tooltiptext = Mer information
+openpgp-key-revoke-title = Återkalla nyckel
+openpgp-key-edit-title = Ändra OpenPGP-nyckel
+openpgp-key-edit-date-title = Förläng utgångsdatum
+openpgp-manager-description = Använd OpenPGP-nyckelhanterare för att visa och hantera publika nycklar för dina korrespondenter och alla andra nycklar som inte listas ovan.
+openpgp-manager-button =
+    .label = OpenPGP-nyckelhanterare
+    .accesskey = O
+openpgp-key-remove-external =
+    .label = Ta bort externt nyckel-ID
+    .accesskey = T
+key-external-label = Extern GnuPG-nyckel
+# Strings in keyDetailsDlg.xhtml
+key-type-public = publik nyckel
+key-type-primary = primär nyckel
+key-type-subkey = undernyckel
+key-type-pair = nyckelpar (hemlig nyckel och publik nyckel)
+key-expiry-never = aldrig
+key-usage-encrypt = Kryptera
+key-usage-sign = Signera
+key-usage-certify = Certifiera
+key-usage-authentication = Autentisering
+key-does-not-expire = Nyckeln upphör inte
+key-expired-date = Nyckeln upphörde { $keyExpiry }
+key-expired-simple = Nyckeln har upphört
+key-revoked-simple = Nyckeln återkallades
+key-do-you-accept = Accepterar du den här nyckeln för att verifiera digitala signaturer och för att kryptera meddelanden?
+key-accept-warning = Undvik att acceptera en skurknyckel. Använd en annan kommunikationskanal än e-post för att verifiera fingeravtrycket på din korrespondents nyckel.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Det går inte att skicka meddelandet eftersom det finns ett problem med din personliga nyckel. { $problem }
+cannot-encrypt-because-missing = Det går inte att skicka meddelandet med end-to-end kryptering eftersom det finns problem med nycklarna för följande mottagare: { $problem }
+window-locked = Skrivfönstret är låst; skicka avbruten
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Krypterad meddelandedel
+mime-decrypt-encrypted-part-concealed-data = Detta är en krypterad meddelandedel. Du måste öppna det i ett separat fönster genom att klicka på bilagan.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Avbruten
+keyserver-error-unknown = Ett okänt fel uppstod
+keyserver-error-server-error = Nyckelservern rapporterade ett fel.
+keyserver-error-import-error = Det gick inte att importera den nedladdade nyckeln.
+keyserver-error-unavailable = Nyckelservern är inte tillgänglig.
+keyserver-error-security-error = Nyckelservern stöder inte krypterad åtkomst.
+keyserver-error-certificate-error = Nyckelserverns certifikat är inte giltigt.
 
 ## Account settings export output
 
