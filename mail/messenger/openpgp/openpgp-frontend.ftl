@@ -26,9 +26,12 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = 此消息是用您没有的密钥所签名的。
 openpgp-search-signature-key =
     .label = 寻找…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = 这是一则被 MS Exchange 损坏的 OpenPGP 消息。若消息内容不正确，可以尝试进行自动修复。
 openpgp-broken-exchange-repair =
     .label = 修复消息
 openpgp-broken-exchange-wait = 请稍候…
 openpgp-cannot-decrypt-because-missing-key = 用于解密此消息的私钥不存在。
+openpgp-reminder-partial-display = 提醒：下方显示的消息只是原始消息的一部分。
 openpgp-partial-verify-button = 验证
 openpgp-partial-decrypt-button = 解密
