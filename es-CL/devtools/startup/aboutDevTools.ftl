@@ -13,7 +13,6 @@ enable-common-message = Las herramientas de desarrollador están desactivadas po
 enable-learn-more-link = Aprender más sobre las herramientas de desarrollador
 enable-enable-button = Habilitar herramientas de desarrollador
 enable-close-button = Cerrar esta pestaña
-
 welcome-title = ¡Bienvenido a las herramientas de desarrollador de Firefox!
 newsletter-title = Boletín de desarrollador de Mozilla
 newsletter-message = Obtén noticias, trucos y recursos para desarrolladores enviados directo a tu bandeja de entrada.
@@ -23,11 +22,9 @@ newsletter-privacy-label = No tengo problemas con que Mozilla maneje mi informac
 newsletter-subscribe-button = Suscribirme
 newsletter-thanks-title = ¡Gracias!
 newsletter-thanks-message = Si no has confirmado previamente una suscripción a un boletín relacionado a Mozilla, puede que tengas que hacerlo. Por favor, revisa tu bandeja de entrada o filtro de spam en busca de un email de nosotros.
-
 footer-title = Firefox Developer Edition
 footer-message = ¿Buscas más que unas simples herramientas de desarrollador? Revisa el navegador Firefox que está desarrollado específicamente para desarrolladores y flujos de trabajo modernos.
 footer-learn-more-link = Aprender más
-
 features-learn-more = Aprender más
 features-inspector-title = Inspector
 features-inspector-desc = Inspecciona y refina el código para construir plantillas a nivel de pixeles. <a data-l10n-name="learn-more">{ features-learn-more }</a>
@@ -50,7 +47,7 @@ features-memory-desc = Encuentra fugas de memoria y haz que tu aplicación sea l
 # Variables:
 #   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
 newsletter-error-common = Falló la solicitud de suscripción ({ $errorDescription }).
-newsletter-error-unknown = Un error inesperado ocurrió.
+newsletter-error-unknown = Ocurrió un error inesperado.
 newsletter-error-timeout = Tiempo agotado para la solicitud de suscripción.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
