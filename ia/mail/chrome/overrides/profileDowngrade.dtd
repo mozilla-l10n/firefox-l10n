@@ -12,7 +12,7 @@
 <!ENTITY window.title "Tu ha lanceate un version ancian de &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync2 "Un version plus recente de &brandProductName; pote haber facite cambiamentos a tu profilo que non es plus compatibile con iste version plus vetere. Usa iste profilo solo con le version plus recente o crea un nove profilo pro iste installation de &brandShortName;.">
+<!ENTITY window.nosync2 "Un version plus recente de &brandProductName; pote haber facite cambiamentos a tu profilo que non es plus compatibile con iste version plus vetere. Usa iste profilo solo con le version plus recente o crea un nove profilo pro iste installation de &brandShortName;. Crear un nove profilo require configurar de novo tu contos, calendarios e additivos.">
 
 <!ENTITY window.moreinfo "Plus de informationes…">
 <!ENTITY window.create "Crear nove profilo">
