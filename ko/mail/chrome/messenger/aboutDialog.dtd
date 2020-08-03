@@ -54,7 +54,7 @@
 <!ENTITY bottomLinks.rights         "소프트웨어 이용 권리">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "개인 정보 보호 정책">
+<!ENTITY bottomLinks.privacy        "개인정보처리방침">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "소프트웨어 업데이트를 확인 중…">
@@ -101,7 +101,6 @@
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "업데이트 적용중…">
-
 <!ENTITY update.restarting          "재시작중…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and

@@ -43,7 +43,7 @@ privacy-passwords-header = 비밀번호
 privacy-junk-header = 스팸
 collection-header = { -brand-short-name } 데이터 수집과 사용
 collection-description = { -brand-short-name }를 모두를 위해 제공하고 개선하기 위해서 필요한 것만 수집하고 선택권을 제공하기 위해 노력합니다. 개인 정보를 전송하기 전에 항상 허가여부를 묻습니다.
-collection-privacy-notice = 개인정보 고지
+collection-privacy-notice = 개인정보처리방침
 collection-health-report-telemetry-disabled = { -vendor-short-name }에서 더 이상 기술 및 상호 작용 데이터를 캡처할 수 없습니다. 모든 과거 데이터는 30일 이내에 삭제됩니다.
 collection-health-report-telemetry-disabled-link = 더 알아보기
 collection-health-report =
@@ -714,6 +714,3 @@ search-results-empty-message =
        *[other] 죄송합니다! “<span data-l10n-name="query"></span>”설정에 대한 결과가 없습니다.
     }
 search-results-help-link = 도움이 필요하세요? <a data-l10n-name="url">{ -brand-short-name } 지원</a>에 방문하세요.
-
-## Preferences UI Search Results
-
