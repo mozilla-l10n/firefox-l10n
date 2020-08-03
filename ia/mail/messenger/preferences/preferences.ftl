@@ -29,32 +29,93 @@ general-language-and-appearance-header = Lingua e apparentia
 general-incoming-mail-header = Messages entrante
 general-files-and-attachment-header = Files e annexos
 general-tags-header = Etiquettas
+general-reading-and-display-header = Leger e monstrar
 general-updates-header = Actualisationes
 general-network-and-diskspace-header = Rete e spatio sur disco
+general-indexing-label = Indexar
 composition-category-header = Composition
 composition-attachments-header = Annexos
+composition-spelling-title = Orthographia
+compose-html-style-title = Stylo HTML
+composition-addressing-header = Adresses
+privacy-main-header = Confidentialitate
 privacy-passwords-header = Contrasignos
 privacy-junk-header = Indesirate
+collection-header = Collecta e uso de datos per { -brand-short-name }
+collection-description = Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar { -brand-short-name } a totes. Nos sempre demanda permission ante reciper informationes personal.
+collection-privacy-notice = Aviso de confidentialitate
+collection-health-report-telemetry-disabled = Tu non plus permitte que { -vendor-short-name } captura datos technic e de interaction. Tote le datos jam capturate essera delite intra 30 dies.
+collection-health-report-telemetry-disabled-link = Saper plus
+collection-health-report =
+    .label = Permitter que { -brand-short-name } invia datos technic e de interaction a { -vendor-short-name }
+    .accesskey = P
+collection-health-report-link = Saper plus
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Le reporto de datos es inactive pro iste configuration de compilation
+collection-backlogged-crash-reports =
+    .label = Permitter a { -brand-short-name } de inviar reportos de collapso arretrate in tu nomine
+    .accesskey = c
+collection-backlogged-crash-reports-link = Saper plus
 privacy-security-header = Securitate
+privacy-scam-detection-title = Revelamento de fraude
+privacy-anti-virus-title = Antivirus
 privacy-certificates-title = Certificatos
 chat-pane-header = Chat
 chat-status-title = Stato
 chat-notifications-title = Notificationes
+choose-messenger-language-description = Elige le linguas usate pro monstrar menus, messages, e notificationes per { -brand-short-name }.
+manage-messenger-languages-button =
+    .label = Definir alternativas…
+    .accesskey = a
+confirm-messenger-language-change-description = Reinitiar { -brand-short-name } pro applicar iste cambiamentos
 confirm-messenger-language-change-button = Applicar e reinitiar
+update-pref-write-failure-title = Error de scriptura
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Incapace a salvar le option. Impossibile scriber al file: { $path }
+update-setting-write-failure-title = Impossibile registrar preferentias de actualisation
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } ha incontrate un error e non ha potite registrar iste cambiamento. Nota que modificar iste preferentia de actualisation necessita le permission de scriber al file mentionate infra. Tu, o un administrator de systema, pote forsan corriger le problema per conceder al gruppo Usatores le controlo complete de iste file.
+    
+    Impossibile scriber al file: { $path }
 update-in-progress-title = Actualisation in curso
+update-in-progress-message = Vole tu que { -brand-short-name } continua iste actualisation?
 update-in-progress-ok-button = &Discartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+addons-button = Extensiones e themas
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Pro crear un contrasigno principal, insere tu credentiales de accesso a Windows. Isto permitte de garantir le securitate de tu contos.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = crea un contrasigno principal
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Pro crear un contrasigno primari, insere tu credentiales de accesso a Windows. Isto permitte de garantir le securitate de tu contos.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Crear un contrasigno primari
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
 general-legend = Pagina initial de { -brand-short-name }
 start-page-label =
     .label = Quando { -brand-short-name } es lanceate, monstra le pagina initial in le area de messages
@@ -232,6 +293,15 @@ choose-folder-label =
             [macos] E
            *[other] P
         }
+new-tag-button =
+    .label = Nove…
+    .accesskey = N
+edit-tag-button =
+    .label = Rediger…
+    .accesskey = R
+delete-tag-button =
+    .label = Deler
+    .accesskey = D
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -256,22 +326,38 @@ auto-save-end = minutas
 
 ##
 
+language-popup-label =
+    .value = Lingua:
+    .accesskey = L
 download-dictionaries-link = Discargar altere dictionarios
+font-label =
+    .value = Typo de litteras:
+    .accesskey = l
 font-size-label =
     .value = Dimension:
     .accesskey = d
+font-color-label =
+    .value = Color del texto:
+    .accesskey = T
 bg-color-label =
     .value = Color de fundo:
     .accesskey = f
 restore-html-label =
     .label = Restaurar predefinitiones
     .accesskey = R
+directories-none-label =
+    .none = Nulle
 attachment-label =
     .label = Deteger omission de annexos
     .accesskey = o
 attachment-options-label =
     .label = Parolas clave…
     .accesskey = P
+cloud-share-size =
+    .value = MB
+remove-cloud-account =
+    .label = Remover
+    .accesskey = R
 
 ## Privacy Tab
 
@@ -317,6 +403,12 @@ do-not-track-label =
     .accesskey = n
 learn-button =
     .label = Saper plus
+master-password-label =
+    .label = Usar un contrasigno maestro
+    .accesskey = m
+master-password-button =
+    .label = Modificar le contrasigno maestro…
+    .accesskey = m
 junk-description = Configura hic le parametros global de posta indesirate. Le parametros de posta indesirate specific pro cata conto pote esser configurate in Parametros de contos.
 junk-log-label =
     .label = Registrar le activitate del filtro adaptive de posta indesirate
@@ -356,6 +448,9 @@ security-devices-button =
 
 notification-empty =
     .label = sin information
+chat-play-sound-label =
+    .label = Reproducer un sono
+    .accesskey = s
 chat-play-button =
     .label = Reproducer
     .accesskey = R
@@ -389,3 +484,4 @@ chat-header-label =
 
 ## Preferences UI Search Results
 
+search-results-header = Resultatos del recerca
