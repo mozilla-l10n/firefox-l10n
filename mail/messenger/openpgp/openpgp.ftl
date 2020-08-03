@@ -217,6 +217,14 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird har inte en personlig OpenPGP-nyckel för <b>{ $identity }</b>
+        [one] Thunderbird hittade { $count } personlig OpenPGP-nyckel associerad med <b>{ $identity }</b>
+       *[other] Thunderbird hittade { $count } personliga OpenPGP-nycklar associerade med <b>{ $identity }</b>
+    }
 
 ## OpenPGP Key selection area
 
