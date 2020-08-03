@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-compose-key-status-keys-heading = Tilgjengelegheit på OpenPGP-nøklar:
+openpgp-compose-key-status-title =
+    .title = OpenPGP-meldingssikkerheit
 openpgp-compose-key-status-recipient =
     .label = Mottakar
 openpgp-compose-key-status-status =
