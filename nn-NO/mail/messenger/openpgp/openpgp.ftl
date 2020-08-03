@@ -166,3 +166,37 @@ key-valid-expired = gått ut
 key-trust-untrusted = ikkje tiltrudd
 key-trust-marginal = marginal
 key-trust-full = tiltrudd
+key-trust-group = (gruppe)
+# Strings used in commonWorkflows.js
+import-key-file = Importer OpenPGP-nøkkelfil
+gnupg-file = GnuPG-filer
+import-keys-failed = Mislykka importering av nøklane
+key-man-button-generate-key = &Generer nøkkel
+key-abort = Avbryte nøkkelgenerering?
+key-man-button-generate-key-abort = &Avbryt nøkkelgenerering
+key-man-button-generate-key-continue = &Fortset nøkkelgenerering
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Feil - mislykka dekryptering
+fix-broken-exchange-msg-failed = Klarte ikkje å reparere melding.
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Send melding
+msg-compose-details-button-label = Detaljar…
+msg-compose-details-button-access-key = D
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importere følgjande nøklar?
+    { $key }
+do-import-one = Importere { $name } ({ $id })?
+cant-import = Feil ved import av offentleg nøkkel
+dlg-button-view = &Vis
+# Strings used in encryption.jsm
+not-required = Feil - inga kryptering påkravd
+# Strings used in windows.jsm
+no-photo-available = Ingen foto tilgjengelege
+dlg-button-ok = &OK
+dlg-button-close = &Lat att
+dlg-button-cancel = &Avbryt
+dlg-no-prompt = Ikkje vis denne dialogruta fleire gongar
+dlg-button-skip = &Hopp over
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP-feil
