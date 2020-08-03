@@ -237,8 +237,29 @@ key-man-button-refresh-all = &Atualizar todas as chaves
 key-man-loading-keys = Carregando chaves, aguarde…
 no-key-selected = Você deve selecionar pelo menos uma chave para executar a operação selecionada
 export-to-file = Exportar chave pública para arquivo
+export-secret-key = Quer incluir a chave secreta no arquivo de chave OpenPGP salvo?
 save-keys-ok = As chaves foram salvas com sucesso
 save-keys-failed = Falha ao salvar as chaves
+refresh-key-warn = Aviso: dependendo do número de chaves e da velocidade da conexão, atualizar todas as chaves pode ser um processo demorado!
+preview-failed = Não é possível ler o arquivo de chave pública.
+general-error = Erro: { $reason }
+dlg-button-delete = &Excluir
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Chave pública exportada com sucesso!</b>
+openpgp-export-public-fail = <b>Não foi possível exportar a chave pública selecionada!</b>
+openpgp-export-secret-success = <b>Chave secreta exportada com sucesso!</b>
+openpgp-export-secret-fail = <b>Não foi possível exportar a chave secreta selecionada!</b>
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Atributo do usuário (imagem JPEG)
+# Strings in key.jsm
+already-revoked = Esta chave já foi revogada.
+key-man-button-revoke-key = &Revogar chave
+openpgp-key-revoke-success = Chave revogada com sucesso.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importar
+delete-key-title = Excluir chave OpenPGP
+delete-external-key-title = Remover a chave GnuPG externa
+key-in-use-title = Chave OpenPGP em uso no momento
