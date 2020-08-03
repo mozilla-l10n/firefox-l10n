@@ -323,6 +323,29 @@ copy-to-clipbrd-ok = Nycklar kopierade till urklipp
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Användarattribut (JPEG-bild)
+# Strings in key.jsm
+already-revoked = Denna nyckel har redan återkallats.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Du håller på att återkalla nyckeln '{ $identity }'.
+    Du kommer inte längre att kunna signera med den här nyckeln och när den har distribuerats kommer andra inte längre att kunna kryptera med den nyckeln. Du kan fortfarande använda nyckeln för att dekryptera gamla meddelanden.
+    Vill du fortsätta?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Du har ingen nyckel (0x{ $keyId }) som matchar detta återkallningscertifikat!
+    Om du har tappat nyckeln måste du importera den (t.ex. från en nyckelserver) innan du importerar återkallningscertifikatet!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Nyckeln 0x{ $keyId } har redan återkallats.
+key-man-button-revoke-key = &Återkalla nyckel
+openpgp-key-revoke-success = Nyckel har återkallats.
+after-revoke-info =
+    Nyckeln har återkallats.
+    Dela den här publika nyckeln igen, genom att skicka den via e-post eller genom att ladda upp den till nyckelservrar, för att låta andra veta att du har återkallat din nyckel.
+    Så fort den programvara som används av andra människor lär sig om återkallelsen kommer den att sluta använda din gamla nyckel.
+    Om du använder en ny nyckel för samma e-postadress och bifogar den nya publika nyckeln till e-postmeddelanden som du skickar kommer information om din återkallade gamla nyckel att inkluderas automatiskt.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importera
 delete-key-title = Ta bort OpenPGP-nyckel
@@ -384,6 +407,35 @@ msg-compose-partially-encrypted-inlinePGP =
     Överväg att ta bort all citerad text från ditt svar till den här avsändaren.
 msg-compose-cannot-save-draft = Fel vid sparande av utkast
 msg-compose-partially-encrypted-short = Se upp för att läcka känslig information - delvis krypterad e-post.
+save-attachment-header = Spara dekrypterad bilaga
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importera följande nycklar?
+    { $key }
+do-import-one = Importera { $name } ({ $id })?
+cant-import = Fel vid import av publik nyckel
+unverified-reply = Indragen meddelandedel (svar) har troligen ändrats
+key-in-message-body = En nyckel hittades i meddelandet. Klicka på 'Importera nyckel' för att importera nyckeln
+sig-mismatch = Fel - Signatur matchar inte
+invalid-email = Fel - ogiltiga e-postadresser
+attachment-pgp-key =
+    Bilagan '{ $name }' du öppnar verkar vara en OpenPGP-nyckelfil.
+    Klicka på 'Importera' för att importera nycklarna eller 'Visa' för att se filinnehållet i ett webbläsarfönster
+dlg-button-view = &Visa
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Dekrypterat meddelande (återställ trasigt PGP e-postformat förmodligen orsakat av en gammal Exchange-server, så resultatet kanske inte går att läsa)
+# Strings used in encryption.jsm
+not-required = Fel - ingen kryptering krävs
+# Strings used in windows.jsm
+no-photo-available = Inget foto tillgängligt
+error-photo-path-not-readable = Fotosökväg '{ $photo }' är inte läsbar
+debug-log-title = OpenPGP Felsökningslogg
+# Strings used in dialog.jsm
+repeat-prefix = Denna varning kommer att upprepas { $count }
+repeat-suffix-singular = gång till.
+repeat-suffix-plural = gånger till.
+no-repeat = Denna varning visas inte igen.
+dlg-keep-setting = Kom ihåg mitt svar och fråga mig inte igen
 dlg-button-ok = &OK
 dlg-button-close = &Stäng
 dlg-button-cancel = &Avbryt
