@@ -19,6 +19,12 @@ radio-import-key =
 ## Generate key section
 
 openpgp-generate-key-title = Generer OpenPGP-nøkkel
+openpgp-keygen-days-label =
+    .label = dager
+openpgp-keygen-months-label =
+    .label = måneder
+openpgp-keygen-years-label =
+    .label = år
 
 ## Import Key section
 
