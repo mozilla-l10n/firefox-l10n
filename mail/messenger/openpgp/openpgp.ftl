@@ -297,12 +297,44 @@ keyserver-error-unsupported = Nyckelservern stöds inte.
 wkd-message-body-req =
     Din e-postleverantör behandlade din begäran om att ladda upp din publika nyckel till OpenPGP Web Key Directory.
     Bekräfta för att slutföra publiceringen av din publika nyckel.
+wkd-message-body-process =
+    Det här är ett e-postmeddelande relaterad till automatisk process för att ladda upp din publika nyckel till OpenPGP Web Key Directory.
+    Du behöver inte vidta några manuella åtgärder vid denna tidpunkt.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Det gick inte att dekryptera meddelandet med ämnet
+    { $subject }.
+    Vill du försöka igen med en annan lösenfras eller vill du hoppa över meddelandet?
+# Strings in gpg.jsm
+unknown-signing-alg = Okänd signeringsalgoritm (ID: { $id })
+unknown-hash-alg = Okänd kryptografisk hash (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Din nyckel { $desc } upphör om mindre än { $days } dagar.
+    Vi rekommenderar att du skapar ett nytt nyckelpar och konfigurerar motsvarande konton för att använda den.
+expiry-keys-expire-soon =
+    Följande nycklar upphör om mindre än { $days } dagar: { $desc }.
+    Vi rekommenderar att du skapar nya nycklar och konfigurerar motsvarande konton för att använda dem.
+expiry-key-missing-owner-trust =
+    Din hemliga nyckel { $desc } saknar förtroende.
+    Vi rekommenderar att du ställer in "Du litar på certifieringar" till "ultimat" i nyckelegenskaper.
+expiry-keys-missing-owner-trust =
+    Följande av dina hemliga nycklar saknar förtroende.
+    { $desc }.
+    Vi rekommenderar att du ställer in "Du litar på certifieringar" till "ultimat" i nyckelegenskaper.
+expiry-open-key-manager = Öppna OpenPGP-nyckelhanterare
 expiry-open-key-properties = Öppna nyckelegenskaper
 # Strings filters.jsm
 filter-folder-required = Du måste välja en målmapp.
+filter-decrypt-move-warn-experimental =
+    Varning - filteråtgärden "Dekryptera permanent" kan leda till förstörda meddelanden.
+    Vi rekommenderar starkt att du först testar filtret "Skapa dekrypterad kopia", testar resultatet noggrant och börjar bara använda detta filter när du är nöjd med resultatet.
 filter-term-pgpencrypted-label = OpenPGP krypterat
 filter-key-required = Du måste välja en mottagarnyckel.
 filter-key-not-found = Det gick inte att hitta en krypteringsnyckel för '{ $desc }'.
+filter-warn-key-not-secret =
+    Varning - filteråtgärden "Kryptera till nyckel" ersätter mottagarna.
+    Om du inte har den hemliga nyckeln för '{ $desc }' kommer du inte längre att kunna läsa e-postmeddelandena.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dekryptera permanent (OpenPGP)
 filter-decrypt-copy-label = Skapa dekrypterad kopia (OpenPGP)
@@ -331,9 +363,50 @@ delete-mix =
     VARNING: Du håller på att radera hemliga nycklar!
     Om du tar bort din hemliga nyckel kommer du inte längre att kunna dekryptera några meddelanden som är krypterade för den nyckeln.
     Vill du verkligen ta bort BÅDE, de valda hemliga och publika nycklarna?
+delete-pub-key =
+    Vill du ta bort den publika nyckeln
+    '{ $userId }'?
+delete-selected-pub-key = Vill du ta bort de publika nycklarna?
+refresh-all-question = Du valde ingen nyckel. Vill du uppdatera ALLA nycklar?
+key-man-button-export-sec-key = Exportera &hemliga nycklar
+key-man-button-export-pub-key = Exportera endast &publika nycklar
+key-man-button-refresh-all = &Uppdatera alla nycklar
+key-man-loading-keys = Laddar nycklar, vänta…
+ascii-armor-file = ASCII armerade filer (*.asc)
+no-key-selected = Du bör välja minst en nyckel för att utföra den valda åtgärden
+export-to-file = Exportera publik nyckel till fil
+export-keypair-to-file = Exportera hemlig och publik nyckel till fil
+export-secret-key = Vill du inkludera den hemliga nyckeln i den sparade OpenPGP-nyckelfilen?
+save-keys-ok = Nycklarna har sparats
+save-keys-failed = Det gick inte att spara nycklarna
+default-pub-key-filename = Exporterade-publika-nycklar
+default-pub-sec-key-filename = Backup-av-hemliga-nycklar
+refresh-key-warn = Varning: beroende på antalet nycklar och anslutningshastighet, kan uppdatering av alla nycklar ta en ganska lång tid!
+preview-failed = Kan inte läsa filen publik nyckelfil.
+general-error = Fel: { $reason }
+dlg-button-delete = &Ta bort
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Publik nyckel har exporterats!</b>
+openpgp-export-public-fail = <b>Det går inte att exportera den valda publika nyckeln!</b>
+openpgp-export-secret-success = <b>Hemlig nyckel har exporterats!</b>
+openpgp-export-secret-fail = <b>Det går inte att exportera den valda hemliga nyckeln!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Nyckeln { $userId } (nyckel-ID { $keyId }) har återkallats.
+key-ring-pub-key-expired = Nyckeln { $userId } (nyckel-ID { $keyId }) har upphört.
+key-ring-key-disabled = Nyckeln { $userId } (nyckel-ID { $keyId }) är inaktiverad; den kan inte användas.
+key-ring-key-invalid = Nyckeln { $userId } (nyckel-ID { $keyId }) är inte giltig. Överväg att verifiera den korrekt.
+key-ring-key-not-trusted = Nyckeln { $userId } (nyckel-ID { $keyId }) är inte tillräckligt betrodd. Vänligen ställ in din förtroendesnivå till "ultimat" för att använda den för att signera.
+key-ring-no-secret-key = Du verkar inte ha den hemliga nyckeln för { $userId } (nyckel-ID { $keyId }) på din nyckelring; du kan inte använda nyckeln för att signera.
+key-ring-pub-key-not-for-signing = Nyckeln { $userId } (nyckel-ID { $keyId }) kan inte användas för signering.
+key-ring-pub-key-not-for-encryption = Nyckeln { $userId } (nyckel-ID { $keyId }) kan inte användas för kryptering.
+key-ring-sign-sub-keys-revoked = Alla signerings-undernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har återkallats.
+key-ring-sign-sub-keys-expired = Alla signerings-undernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har upphört.
+key-ring-sign-sub-keys-unusable = Alla signerings-undernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har återkallats, upphört att gälla eller annars oanvändbara.
+key-ring-enc-sub-keys-revoked = Alla krypteringsundernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har återkallats.
+key-ring-enc-sub-keys-expired = Alla krypteringsundernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har upphört.
+key-ring-enc-sub-keys-unusable = Alla krypteringsundernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har återkallats, upphört eller annars oanvändbara.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Användarattribut (JPEG-bild)
@@ -390,7 +463,9 @@ key-valid-disabled = inaktiverad
 key-valid-revoked = återkallad
 key-valid-expired = upphörd
 key-trust-untrusted = ej betrodd
+key-trust-marginal = marginellt
 key-trust-full = betrodd
+key-trust-ultimate = ultimat
 key-trust-group = (grupp)
 # Strings used in commonWorkflows.js
 import-key-file = Importera OpenPGP-nyckelfil
