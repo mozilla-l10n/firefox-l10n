@@ -569,6 +569,7 @@
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Recerca global">
 <!ENTITY searchItem.title "Recerca veloce">
+<!ENTITY mailViewsToolbarItem.title "Vistas super le posta">
 <!ENTITY folderLocationToolbarItem.title "Loco del dossier">
 <!ENTITY tagButton.label "Etiquetta">
 <!ENTITY compactButton.label "Compacte">
@@ -577,6 +578,8 @@
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Recerca avantiate de messages">
 <!ENTITY getMsgButton.tooltip "Reciper nove messages">
+<!ENTITY getAllNewMsgCmd.label "Reception de tote le nove messages">
+<!ENTITY getAllNewMsgCmd.accesskey "R">
 <!ENTITY newMsgButton.tooltip "Crear un nove message">
 <!ENTITY replyButton.tooltip "Responder al message">
 <!ENTITY replyAllButton.tooltip "Responder al expeditor e a tote le destinatarios">
@@ -584,24 +587,57 @@
 <!ENTITY forwardButton.tooltip "Inviar ultra le message seligite">
 <!ENTITY forwardAsInline.tooltip "Inviar ultra le message seligite como parte del texto del message">
 <!ENTITY forwardAsAttachment.tooltip "Inviar ultra le message seligite como annexo">
+<!ENTITY fileButton.tooltip "Archivar le message seligite">
+<!ENTITY archiveButton.tooltip "Archivar le messages seligite">
+<!ENTITY openConversationButton.tooltip "Monstrar conversation del message seligite">
+<!ENTITY openMsgConversationButton.tooltip "Monstrar conversation del message seligite">
+<!ENTITY nextButton.tooltip "Mover al message sequente non legite">
+<!ENTITY nextMsgButton.tooltip "Mover al message sequente">
+<!ENTITY previousButton.tooltip "Mover al message precedente non legite">
+<!ENTITY previousMsgButton.tooltip "Mover al message precedente">
 <!ENTITY goForwardButton.tooltip "Inviar ultra un message">
+<!ENTITY goBackButton.tooltip "Receder de un message">
 <!ENTITY deleteButton.tooltip "Deler le message o dossier seligite">
+<!ENTITY undeleteButton.tooltip "Recuperar message selecte">
+<!ENTITY markButton.tooltip "Marcar messages">
 <!ENTITY printButton.tooltip "Imprimer iste message">
 <!ENTITY stopButton.tooltip "Interrumper le transferentia actual">
 <!ENTITY junkButton.tooltip "Marcar le message seligite como indesirate">
 <!ENTITY notJunkButton.tooltip "Marcar le message seligite como non indesirate">
+<!ENTITY addressBookButton.tooltip "Va al libro del adresses">
+<!ENTITY chatButton.tooltip "Monstrar le scheda Chat">
+<!ENTITY tagButton.tooltip "Messages de tags">
 <!ENTITY compactButton.tooltip "Remover le messages delite del dossier seligite">
+<!ENTITY appmenuButton1.tooltip "Monstrar le menu de &brandShortName;">
+<!ENTITY addonsButton.tooltip "Gere tu additivos">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Inviar ultra in linea">
 <!ENTITY buttonMenuForwardAsAttachment.label "Inviar ultra como annexo">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Monstrar contento remote in iste message">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "M">
+<!ENTITY editRemoteContentSettings.label "Rediger optiones de contento remote…">
+<!ENTITY editRemoteContentSettings.accesskey "R">
+<!ENTITY editRemoteContentSettingsUnix.label "Rediger preferentias del contento remote…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "R">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorar aviso pro iste message">
+<!ENTITY phishingOptionIgnore.accesskey "g">
+<!ENTITY phishingOptionSettings.label "Rediger optiones de relevamento fraudes…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Rediger preferentias de relevamento fraudes…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nove message">
+<!ENTITY appmenuNewContactCmd.label "Contacto del libro de adresses…">
 <!ENTITY appmenuEditMenu.label "Rediger">
+<!ENTITY appmenuToolbarLayout.label "Barra del instrumentos mappa…">
+<!ENTITY appmenuSelectThread.label "Discussion eligite">
+<!ENTITY appmenuSelectFlagged.label "Eliger messages stellate">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nove tag…">
@@ -658,6 +694,8 @@
 <!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Nomine o email contine:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.placeholder "Cercar messages…">
@@ -665,12 +703,14 @@
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subjecto">
 <!ENTITY searchFromMenu.label "De">
+<!ENTITY searchSubjectOrFromMenu.label "Subjecto o De">
 <!ENTITY searchRecipient.label "A o CC">
 <!ENTITY searchSubjectOrRecipientMenu.label "Subjecto, A o CC">
 <!ENTITY searchMessageBody.label "Message integre">
 <!ENTITY saveAsVirtualFolderMenu.label "Salvar le recerca como dossier…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Messages seligite">
 <!ENTITY threadColumn.label "Argumento">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatario">
@@ -696,6 +736,8 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Elige le columnas a monstrar">
+<!ENTITY selectColumn.tooltip "Commutar eliger tote le messages">
+<!ENTITY threadColumn2.tooltip "Monstrar discussiones del message">
 <!ENTITY fromColumn2.tooltip "Ordinar per mittente">
 <!ENTITY recipientColumn2.tooltip "Ordinar per destinatario">
 <!ENTITY correspondentColumn2.tooltip "Ordinar per correspondentes">
@@ -707,6 +749,8 @@
 <!ENTITY statusColumn2.tooltip "Ordinar per stato">
 <!ENTITY sizeColumn2.tooltip "Ordinar per dimension">
 <!ENTITY junkStatusColumn2.tooltip "Ordinar per stato indesirate">
+<!ENTITY unreadColumn2.tooltip "Numero de messages non legite in le discussion">
+<!ENTITY totalColumn2.tooltip "Numero total de messages in discussion">
 <!ENTITY readColumn2.tooltip "Ordinar per le data de lectura">
 <!ENTITY receivedColumn2.tooltip "Ordinar per data de reception">
 <!ENTITY starredColumn2.tooltip "Ordinar per stella">
@@ -726,6 +770,8 @@
      enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Aperir le message in un nove scheda">
 <!ENTITY contextOpenNewTab.accesskey "s">
+<!ENTITY contextOpenConversation.label "Aperir message in le conversation">
+<!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextOpenContainingFolder.label "Aperir message in dossier contentor">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Rediger como nove message">
@@ -858,18 +904,30 @@
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
+<!ENTITY AddToAddressBook.label "Adder al libro del adresses…">
+<!ENTITY AddToAddressBook.accesskey "l">
+<!ENTITY AddDirectlyToAddressBook.label "Adder al libro del adresses">
+<!ENTITY AddDirectlyToAddressBook.accesskey "l">
 <!ENTITY EditContact1.label "Rediger le contacto">
 <!ENTITY EditContact1.accesskey "R">
 <!ENTITY ViewContact.label "Vider contacto">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Abonar se al gruppo">
 <!ENTITY SubscribeToNewsgroup.accesskey "A">
+<!ENTITY SendMessageTo.label "Componer message A">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copiar le adresse email">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "Copia nomine e adresse email">
+<!ENTITY CopyNameAndEmailAddress.accesskey "n">
 <!ENTITY CopyNewsgroupName.label "Copiar le nomine del gruppo">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar le adresse URL del gruppo">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
+<!ENTITY CreateFilterFrom.label "Crear filtro De…">
+<!ENTITY CreateFilterFrom.accesskey "f">
+<!ENTITY reportPhishingURL.label "Reportar fraude via email">
+<!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Adder dictionarios…">
@@ -890,6 +948,8 @@
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openInBrowser.label "Aperir in navigator">
+<!ENTITY openInBrowser.accesskey "A">
 <!ENTITY openLinkInBrowser.label "Aperir ligamine in navigator">
 <!ENTITY openLinkInBrowser.accesskey "A">
 
