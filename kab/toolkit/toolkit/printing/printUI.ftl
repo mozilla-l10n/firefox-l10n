@@ -20,6 +20,8 @@ printui-page-custom-range =
 # Section title for the number of copies to print
 printui-copies-label = Anɣalen
 printui-orientation = Taɣda
+printui-landscape = S tehri
+printui-portrait = S teɣzi
 # Section title for the printer or destination device to target
 printui-destination-label = Aserken
 printui-more-settings = Ugar n yiɣewwaren
