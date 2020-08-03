@@ -92,12 +92,12 @@ newtab-privacy-modal-button-done = Hotovo
 newtab-privacy-modal-button-manage = Nastavení sponzorovaného obsahu
 newtab-privacy-modal-header = Na vašem soukromí záleží.
 newtab-privacy-modal-paragraph-2 =
-    Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných sponzorů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí { -brand-product-name.gender ->
+    Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí { -brand-product-name.gender ->
         [masculine] váš { -brand-product-name(case: "acc") }
         [feminine] vaši { -brand-product-name(case: "acc") }
         [neuter] vaše { -brand-product-name(case: "acc") }
        *[other] vaši aplikaci { -brand-product-name }
-    }</strong> - neodesílají se nám ani našim sponzorům.
+    }</strong> - neodesílají se nám ani našim partnerům.
 newtab-privacy-modal-link = Zjistěte, jak chráníme vaše soukromí na stránce nového panelu.
 
 ##
