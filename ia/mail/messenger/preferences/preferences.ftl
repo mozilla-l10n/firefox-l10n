@@ -259,6 +259,23 @@ smart-cache-label =
 clear-cache-button =
     .label = Rader ora
     .accesskey = C
+fonts-legend = Typos de litteras e colores
+default-font-label =
+    .value = Typo de character predefinite:
+    .accesskey = p
+default-size-label =
+    .value = Dimension:
+    .accesskey = D
+font-options-button =
+    .label = Avantiate…
+    .accesskey = A
+color-options-button =
+    .label = Colores…
+    .accesskey = C
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Monstrar emoticones como imagines
+    .accesskey = e
 style-label =
     .value = Stilo:
     .accesskey = y
@@ -282,6 +299,17 @@ smaller-size-item =
 quoted-text-color =
     .label = Color:
     .accesskey = o
+search-input =
+    .placeholder = Cercar
+type-column-label =
+    .label = Typo de contento
+    .accesskey = T
+action-column-label =
+    .label = Action
+    .accesskey = A
+save-to-label =
+    .label = Salvar le files in
+    .accesskey = S
 choose-folder-label =
     .label =
         { PLATFORM() ->
@@ -293,6 +321,9 @@ choose-folder-label =
             [macos] E
            *[other] P
         }
+always-ask-label =
+    .label = Sempre demandar me ubi salvar le files
+    .accesskey = S
 new-tag-button =
     .label = Nove…
     .accesskey = N
@@ -310,6 +341,11 @@ seconds-label = secundas
 
 ##
 
+open-msg-label =
+    .value = Aperir messages in:
+open-msg-tab =
+    .label = Un nove scheda
+    .accesskey = n
 
 ## Compose Tab
 
@@ -326,6 +362,9 @@ auto-save-end = minutas
 
 ##
 
+spellcheck-inline-label =
+    .label = Activar corrector orthographic durante que tu scribe
+    .accesskey = A
 language-popup-label =
     .value = Lingua:
     .accesskey = L
@@ -345,8 +384,14 @@ bg-color-label =
 restore-html-label =
     .label = Restaurar predefinitiones
     .accesskey = R
+send-options-label =
+    .label = Inviar optiones…
+    .accesskey = I
 directories-none-label =
     .none = Nulle
+edit-directories-label =
+    .label = Redaction de directorios…
+    .accesskey = R
 attachment-label =
     .label = Deteger omission de annexos
     .accesskey = o
@@ -355,6 +400,10 @@ attachment-options-label =
     .accesskey = P
 cloud-share-size =
     .value = MB
+add-cloud-account =
+    .label = Adder…
+    .accesskey = A
+    .defaultlabel = Adder…
 remove-cloud-account =
     .label = Remover
     .accesskey = R
@@ -403,6 +452,9 @@ do-not-track-label =
     .accesskey = n
 learn-button =
     .label = Saper plus
+passwords-button =
+    .label = Contrasignos salvate
+    .accesskey = s
 master-password-label =
     .label = Usar un contrasigno maestro
     .accesskey = m
