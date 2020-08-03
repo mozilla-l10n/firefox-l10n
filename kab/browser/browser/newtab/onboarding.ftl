@@ -86,6 +86,12 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Ṭṭef arwes n unagraw-ik·im
+        n wammud i tqeffalin, i wumuɣen d yisfuyla.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light =
     .title =
