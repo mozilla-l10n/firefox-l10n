@@ -517,6 +517,7 @@
 <!ENTITY devtoolsMenu.accesskey "i">
 <!ENTITY devToolboxCmd.label "Cassa del utensiles de disveloppator">
 <!ENTITY devToolboxCmd.accesskey "u">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depurar le additivos">
 <!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
