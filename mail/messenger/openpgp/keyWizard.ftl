@@ -57,6 +57,7 @@ openpgp-keygen-abort-title = Avbryte nøkkelgenerering?
 
 gnupg-file = GnuPG-filer
 openpgp-import-identity-label = Identitet
+openpgp-import-created-label = Laga
 openpgp-import-bits-label = Bit
 openpgp-import-key-props =
     .label = Nøkkeleigenskapar
