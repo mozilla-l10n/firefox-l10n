@@ -61,9 +61,51 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Bezárás
     .accesskey = B
+openpgp-keygen-missing-username = A jelenlegi fiókhoz nincs megadva név. Adjon meg egy értéket a fiókbeállítások  "Az Ön neve" mezőjében.
+openpgp-keygen-long-expiry = Nem hozhat létre olyan kulcsot, amely több mint 100 év múlva jár le.
+openpgp-keygen-short-expiry = A kulcsának legalább egy napig érvényesnek kell lennie.
+openpgp-keygen-ongoing = A kulcselőállítás már folyamatban van.
+openpgp-keygen-error-core = Az OpenPGP központi szolgáltatás előkészítése sikertelen
+openpgp-keygen-error-failed = Az OpenPGP-kulcs előállítása váratlanul sikertelen
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = A(z) OpenPGP-kulcs létrehozása sikeres, de nem sikerült megszerezni a(z) { $key } kulcs visszavonását.
+openpgp-keygen-abort-title = Megszakítja a kulcselőállítást?
+openpgp-keygen-abort = Az OpenPGP-kulcs előállítása jelenleg folyamatban van, biztos megszakítja?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Előállítja a nyilvános és titkos kulcsot { $identity } számára?
 
 ## Import Key section
 
+openpgp-import-key-title = Meglévő személyes OpenPGP-kulcs importálása
+openpgp-import-key-legend = Válasszon egy korábbi biztonsági mentési fájlt.
+openpgp-passphrase-prompt-title = Jelmondat szükséges
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Írja be a jelmondatot a következő kulcs feloldásához: { $key }
+openpgp-import-key-button =
+    .label = Válassza ki az importálandó fájlt…
+    .accesskey = V
+import-key-file = OpenPGP-kulcsfájl importálása
+import-key-personal-checkbox =
+    .label = E kulcs személyes kulcsként kezelése
+gnupg-file = GnuPG-fájlok
+import-error-file-size = <b>Hiba!</b> Az 5 MB-nál nagyobb fájlok nem támogatottak.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Hiba!</b> A fájl importálása sikertelen. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Hiba!</b> A kulcsok importálása sikertelen. { $error }
+openpgp-import-identity-label = Személyazonosság
+openpgp-import-fingerprint-label = Ujjlenyomat
+openpgp-import-created-label = Létrehozva
+openpgp-import-bits-label = Bitek
+openpgp-import-key-props =
+    .label = Kulcs tulajdonságai
+    .accesskey = K
 
 ## External Key section
 
+openpgp-external-key-title = Külső GnuPG-kulcs
+openpgp-external-key-description = Kulső GnuPG-kulcs beállítása a kulcsazonosító megadásával
+openpgp-save-external-button = Kulcsazonosító mentése
+openpgp-external-key-label = Titkos kulcsazonosító:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
