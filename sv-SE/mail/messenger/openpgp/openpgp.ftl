@@ -292,6 +292,34 @@ keyserver-error-import-error = Det gick inte att importera den nedladdade nyckel
 keyserver-error-unavailable = Nyckelservern är inte tillgänglig.
 keyserver-error-security-error = Nyckelservern stöder inte krypterad åtkomst.
 keyserver-error-certificate-error = Nyckelserverns certifikat är inte giltigt.
+keyserver-error-unsupported = Nyckelservern stöds inte.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Din e-postleverantör behandlade din begäran om att ladda upp din publika nyckel till OpenPGP Web Key Directory.
+    Bekräfta för att slutföra publiceringen av din publika nyckel.
+expiry-open-key-properties = Öppna nyckelegenskaper
+# Strings filters.jsm
+filter-folder-required = Du måste välja en målmapp.
+filter-term-pgpencrypted-label = OpenPGP krypterat
+filter-key-required = Du måste välja en mottagarnyckel.
+filter-key-not-found = Det gick inte att hitta en krypteringsnyckel för '{ $desc }'.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Dekryptera permanent (OpenPGP)
+filter-decrypt-copy-label = Skapa dekrypterad kopia (OpenPGP)
+filter-encrypt-label = Kryptera till nyckel (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Nycklar har importerats!
+import-info-bits = Bitar
+import-info-created = Skapad
+import-info-fpr = Fingeravtryck
+import-info-details = Visa detaljer och hantera nyckelacceptans
+import-info-no-keys = Inga nycklar importerade.
+# Strings in enigmailKeyManager.js
+import-from-clip = Vill du importera några nycklar från urklipp?
+import-from-url = Ladda ner publik nyckel från denna URL:
+copy-to-clipbrd-failed = Det gick inte att kopiera de valda nycklarna till urklippet.
+copy-to-clipbrd-ok = Nycklar kopierade till urklipp
 
 ## Account settings export output
 
@@ -360,10 +388,10 @@ dlg-button-ok = &OK
 dlg-button-close = &Stäng
 dlg-button-cancel = &Avbryt
 dlg-no-prompt = Visa inte denna dialogruta igen.
-enig-prompt = OpenPGP-prompt
-enig-confirm = OpenPGP-bekräftelse
-enig-alert = OpenPGP-varning
-enig-info = OpenPGP-information
+enig-prompt = OpenPGP Prompt
+enig-confirm = OpenPGP Bekräftelse
+enig-alert = OpenPGP Varning
+enig-info = OpenPGP Information
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Försök igen
 dlg-button-skip = &Hoppa över
