@@ -520,8 +520,11 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depurar le additivos">
 <!ENTITY debugAddonsCmd.accesskey "a">
+<!ENTITY tabsDebugCmd.label "Depurator de quadro del contento">
+<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "e">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Ardesia">
 <!ENTITY scratchpadCmd.accesskey "A">
 
@@ -529,8 +532,10 @@
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Reciper messages">
@@ -543,8 +548,10 @@
 <!ENTITY archiveButton.label "Archivo">
 <!ENTITY openConversationButton.label "Conversatione">
 <!ENTITY nextButton.label "Sequente">
+<!ENTITY nextButtonToolbarItem.label "Non legite sequente">
 <!ENTITY nextMsgButton.label "Sequente">
 <!ENTITY previousButton.label "Previe">
+<!ENTITY previousButtonToolbarItem.label "Non legite precedente">
 <!ENTITY previousMsgButton.label "Previe">
 <!ENTITY backButton1.label "Retro">
 <!ENTITY goForwardButton1.label "Inviar ultra">
@@ -554,11 +561,13 @@
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimer">
 <!ENTITY stopButton.label "Stoppar">
+<!ENTITY throbberItem.title "Indicator de activitate">
 <!ENTITY junkItem.title "Indesirate">
 <!ENTITY junkButton.label "Indesirate">
 <!ENTITY notJunkButton.label "Non indesirate">
 <!ENTITY addressBookButton.label "Libro del adresses">
 <!ENTITY chatButton.label "Chat">
+<!ENTITY glodaSearch.title "Recerca global">
 <!ENTITY searchItem.title "Recerca veloce">
 <!ENTITY folderLocationToolbarItem.title "Loco del dossier">
 <!ENTITY tagButton.label "Etiquetta">
