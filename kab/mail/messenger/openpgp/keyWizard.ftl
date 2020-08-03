@@ -14,6 +14,7 @@ key-wizard-learn-more = Issin ugar
 ## Generate key section
 
 openpgp-generate-key-title = Sirew tasarut OpenPGP
+openpgp-keygen-expiry-title = Azemz n taggara n tsarut
 openpgp-keygen-days-label =
     .label = ussan
 openpgp-keygen-months-label =
@@ -32,6 +33,7 @@ openpgp-keygen-progress-title = Asirew n tsarut-ik•im OpenPGP tamaynut…
 openpgp-keygen-import-progress-title = Aktar n tsura-k•m OpenPGP…
 openpgp-import-success = Yisura OpenPGP ttwaketrent akken iwata!
 openpgp-import-success-title = Smed akala n uktar
+openpgp-import-success-description = Akken ad tebduḍ aseqdec n tsarut-ik•im OpenPGP i yettwaketren i uwgelhen n yimaylen, mdel adiwenni-a tkecmeḍ ɣer yiɣewwaṛen n umiḍan akken ad t-tferneḍ.
 openpgp-keygen-confirm =
     .label = Sentem
 openpgp-keygen-dismiss =

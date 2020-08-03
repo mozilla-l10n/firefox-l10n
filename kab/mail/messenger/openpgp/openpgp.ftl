@@ -24,6 +24,7 @@ openpgp-key-id-label =
     .label = Asulay n tsarut
 openpgp-key-man-title =
     .title = Asefrak n tsarut OpenPGP
+openpgp-key-man-discover-progress = Anadi…
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kter tisura ɣer ufaylu
 openpgp-key-man-ctx-copy-to-clipbrd-label =
@@ -81,6 +82,14 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird ur yesɛi ara tasarut OpenPGP tudmawant i <b> { $identity } </b>
+        [one] Thunderbird yufa-d { $count } tasarut OpenPGP tudmawant i icudden ɣer </b> { $identity } </b>
+       *[other] Thunderbird yufa-d { $count } tisura OpenPGP tudmawanin i icudden ɣer <b> { $identity } </b>
+    }
 
 ## OpenPGP Key selection area
 
