@@ -37,6 +37,7 @@ openpgp-key-expiry-label =
     .label = 到期日
 openpgp-key-id-label =
     .label = 密钥 ID
+openpgp-cannot-change-expiry = 该密钥结构复杂，不支持更改到期日。
 openpgp-key-man-title =
     .title = OpenPGP 密钥管理器
 openpgp-key-man-generate =
@@ -191,6 +192,7 @@ openpgp-key-details-fingerprint-label = 指纹
 openpgp-key-details-sel-action =
     .label = 选择操作…
     .accesskey = S
+openpgp-key-details-also-known-label = 密钥拥有者声称的其他身份：
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = 关闭
 openpgp-acceptance-label =
@@ -199,6 +201,12 @@ openpgp-acceptance-rejected-label =
     .label = 不接受，拒绝此密钥。
 openpgp-acceptance-undecided-label =
     .label = 还没决定，之后再说。
+openpgp-acceptance-unverified-label =
+    .label = 接受，但我还未验证过是否为正确密钥。
+openpgp-acceptance-verified-label =
+    .label = 接受，我已验证这的确是正确的指纹。
+openpgp-personal-no-label =
+    .label = 不，请勿将其用作我的个人密钥。
 openpgp-personal-yes-label =
     .label = 是，将此密钥视为个人密钥。
 openpgp-copy-cmd-label =
@@ -206,6 +214,15 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] 请选择有效的密钥以启用 OpenPGP 协议。
+       *[other] 您当前配置使用 ID 为 <b>{ $key }</b> 的密钥
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = 您当前配置使用密钥 <b>{ $key }</b>，已经过期。
 openpgp-add-key-button =
     .label = 添加密钥...
     .accesskey = A
@@ -232,6 +249,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = 吊销密钥
 openpgp-key-edit-title = 更改 OpenPGP 密钥
 openpgp-key-edit-date-title = 延长有效期
+openpgp-manager-description = 使用 OpenPGP 密钥管理器可以查看往来通信者的公钥，以及所有上方未列出的密钥。
 openpgp-manager-button =
     .label = OpenPGP 密钥管理器
     .accesskey = K
@@ -246,8 +264,17 @@ key-type-subkey = 子密钥
 key-type-pair = 密钥对（私钥与公钥）
 key-expiry-never = 永不
 key-usage-encrypt = 加密
+key-usage-sign = 签名
+key-usage-certify = 认证
+key-usage-authentication = 验证
+key-does-not-expire = 密钥永不过期
+key-expired-date = 密钥已于 { $keyExpiry } 过期
 key-expired-simple = 密钥已过期
 key-revoked-simple = 密钥已被吊销
+key-do-you-accept = 您要接受将此密钥用于验证数字签名与加密消息吗？
+window-locked = 邮件撰写窗口已锁定；取消发送
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = 加密消息部分
 # Strings in keyserver.jsm
 keyserver-error-aborted = 已中止
 keyserver-error-unknown = 发生未知错误
@@ -260,7 +287,19 @@ keyserver-error-unsupported = 不支持此密钥服务器。
 # Strings in gpg.jsm
 unknown-signing-alg = 未知的签名算法（ID：{ $id }）
 unknown-hash-alg = 未知的加密哈希值（ID：{ $id }）
+expiry-open-key-manager = 打开 OpenPGP 密钥管理器
+expiry-open-key-properties = 打开密钥属性
+filter-term-pgpencrypted-label = OpenPGP 加密
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = 永久解密（OpenPGP）
+filter-decrypt-copy-label = 创建解密的副本（OpenPGP）
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = 成功！已导入密钥
+import-info-bits = 位
+import-info-created = 创建于
 import-info-fpr = 指纹
+import-info-no-keys = 未导入密钥。
 
 ## Account settings export output
 
