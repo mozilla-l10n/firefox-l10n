@@ -112,10 +112,10 @@ min-size-none =
 
 font-control-legend = Керування шрифтами
 use-document-fonts-checkbox =
-    .label = Дозволити листам використовувати інші шрифти
-    .accesskey = Р
+    .label = Дозволити повідомленням використовувати інші шрифти
+    .accesskey = р
 use-fixed-width-plain-checkbox =
-    .label = Використовувати шрифт фіксованої ширини для листів простим текстом
+    .label = Використовувати шрифт фіксованої ширини для повідомлення простим текстом
     .accesskey = ф
 
 ## Language settings

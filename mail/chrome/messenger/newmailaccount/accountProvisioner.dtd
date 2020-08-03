@@ -34,7 +34,7 @@
 <!ENTITY successful.customize "Пристосуйте &brandShortName; всякими кльовими додатками">
 <!ENTITY successful.customize.desc "Існують тисячі додатків, котрі дозволяють вам пристосувати &brandShortName; до власне ваших потреб.">
 <!ENTITY successful.attach "Додайте особистий підпис до ваших листів">
-<!ENTITY successful.attach.desc "Ви можете автоматично додавати цитати або якусь інформацію про себе у кінець кожного вашого листа.">
+<!ENTITY successful.attach.desc "Ви можете автоматично додавати цитати або якусь інформацію про себе у кінець кожного вашого повідомлення.">
 <!ENTITY successful.close "Закрити це вікно.">
 <!ENTITY input.namePlaceholder "Ваше ім’я або прізвисько">
 <!ENTITY input.search "Шукати">

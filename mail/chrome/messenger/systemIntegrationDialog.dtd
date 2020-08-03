@@ -17,5 +17,5 @@
 <!ENTITY checkOnStartup.label "Завжди виконувати цю перевірку при запуску &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "З">
 
-<!ENTITY searchIntegration.label "Дозволити &searchIntegration.engineName; шукати листи">
+<!ENTITY searchIntegration.label "Дозволити &searchIntegration.engineName; шукати повідомлення">
 <!ENTITY searchIntegration.accesskey "ш">

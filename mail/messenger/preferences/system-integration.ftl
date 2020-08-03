@@ -28,7 +28,7 @@ system-search-engine-name =
        *[other] { "" }
     }
 system-search-integration-label =
-    .label = Дозволити { system-search-engine-name } шукати листи
+    .label = Дозволити { system-search-engine-name } шукати повідомлення
     .accesskey = ш
 check-on-startup-label =
     .label = Завжди виконувати цю перевірку при запуску { -brand-short-name }

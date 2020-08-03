@@ -29,7 +29,7 @@
 <!ENTITY systemIntegration.label       "Системна інтеграція">
 <!ENTITY alwaysCheckDefault.label      "Перевіряти на старті чи &brandShortName; є типовою поштовою програмою">
 <!ENTITY alwaysCheckDefault.accesskey  "ш">
-<!ENTITY searchIntegration.label       "Дозволити &searchIntegration.engineName; шукати листи">
+<!ENTITY searchIntegration.label       "Дозволити &searchIntegration.engineName; шукати повідомлення">
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkDefaultsNow.label        "Перевірити зараз…">
 <!ENTITY checkDefaultsNow.accesskey    "з">

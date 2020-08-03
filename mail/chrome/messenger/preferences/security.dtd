@@ -9,13 +9,13 @@
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.">
-<!ENTITY manualMark.label "Коли я позначаю лист як спам:">
+<!ENTITY manualMark.label "Коли я позначаю повідомлення як спам:">
 <!ENTITY manualMark.accesskey "я">
 <!ENTITY manualMarkModeMove.label "Перемістити їх у теку «Спам»">
 <!ENTITY manualMarkModeMove.accesskey "т">
 <!ENTITY manualMarkModeDelete.label "Знищити їх">
 <!ENTITY manualMarkModeDelete.accesskey "н">
-<!ENTITY markAsReadOnSpam.label "Відмітити такі листи прочитаними">
+<!ENTITY markAsReadOnSpam.label "Позначити такі повідомлення прочитаними">
 <!ENTITY markAsReadOnSpam.accesskey "ч">
 <!ENTITY enableAdaptiveJunkLogging.label "Увімкнути журнал роботи адаптивного анти-спам фільтра">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "ж">
@@ -25,8 +25,8 @@
 <!ENTITY resetTrainingData.accesskey "С">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName; може аналізувати листи на предмет шахрайства, виявляючи усталені методи обману.">
-<!ENTITY enablePhishingDetector1.label    "Повідомляти мене, коли щодо листа, який я читаю, є підозри у шахрайстві">
+<!ENTITY phishingDetector1.intro  "&brandShortName; може аналізувати пошту на предмет шахрайства, виявляючи усталені методи обману.">
+<!ENTITY enablePhishingDetector1.label    "Повідомляти мене, коли повідомлення, яке я читаю підозрюється у шахрайстві">
 <!ENTITY enablePhishingDetector1.accesskey  "П">
 <!ENTITY useDownloadedList.label "Використовувати завантажений список електронних шахраїв">
 <!ENTITY useDownloadedList.accesskey "В">
@@ -42,7 +42,6 @@
 <!ENTITY savedPasswords.accesskey       "б">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; може полегшити роботу антивіруса при перевірці вхідних листів на наявність вірусів перед тим, як зберегти їх в поштові теки.">
-<!ENTITY antiVirus.label      "Дозволити антивірусу поміщати в карантин окремі вхідні листи">
+<!ENTITY antiVirus.intro      "&brandShortName; може полегшити роботу антивірусу під час перевірки вхідних повідомлень на наявність вірусів перед тим, як зберегти їх в поштові теки.">
+<!ENTITY antiVirus.label      "Дозволити антивірусу поміщати в карантин окремі вхідні повідомлення">
 <!ENTITY antiVirus.accesskey  "Д">
-

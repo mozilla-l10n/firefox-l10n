@@ -19,7 +19,7 @@
 <!ENTITY smaller.label                    "Менший">
 <!ENTITY quotedTextColor.label            "Колір:">
 <!ENTITY quotedTextColor.accesskey        "К">
-<!ENTITY displayWidth.label               "Лист у текстовому форматі">
+<!ENTITY displayWidth.label               "Повідомлення у текстовому форматі">
 <!ENTITY displayText.label                "При показі цитат у звичайних текстових повідомленнях:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
@@ -27,7 +27,7 @@
 <!ENTITY convertEmoticons.accesskey    "к">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label     "Мітки використовують для сортування та зазначення пріоритетів листів.">
+<!ENTITY displayTagsText.label     "Мітки використовують для сортування та зазначення пріоритетів повідомлень.">
 <!ENTITY newTagButton.label        "Нова…">
 <!ENTITY newTagButton.accesskey    "Н">
 <!ENTITY editTagButton1.label      "Змінити…">
@@ -53,7 +53,7 @@
 <!ENTITY showCondensedAddresses.label     "Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі">
 <!ENTITY showCondensedAddresses.accesskey "м">
 
-<!ENTITY autoMarkAsRead.label             "Автоматично позначати листи як прочитані">
+<!ENTITY autoMarkAsRead.label             "Автоматично позначати повідомлення як прочитані">
 <!ENTITY autoMarkAsRead.accesskey         "А">
 <!ENTITY markAsReadNoDelay.label          "Негайно при перегляді">
 <!ENTITY markAsReadNoDelay.accesskey      "г">
@@ -63,12 +63,12 @@
 <!ENTITY markAsReadDelay.label            "Як мине">
 <!ENTITY markAsReadDelay.accesskey        "Я">
 <!ENTITY secondsLabel.label               "секунд">
-<!ENTITY openMsgIn.label                  "Відкривати листи у:">
+<!ENTITY openMsgIn.label                  "Відкривати повідомлення в:">
 <!ENTITY openMsgInNewTab.label            "Новій вкладці">
 <!ENTITY openMsgInNewTab.accesskey        "в">
 <!ENTITY reuseExpRadio0.label             "новому вікні">
 <!ENTITY reuseExpRadio0.accesskey         "н">
 <!ENTITY reuseExpRadio1.label             "вже існуючому вікні">
 <!ENTITY reuseExpRadio1.accesskey         "у">
-<!ENTITY closeMsgOnMoveOrDelete.label     "Закривати вікно листа після видалення/переміщення">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Закривати вікно повідомлення після видалення/переміщення">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "З">

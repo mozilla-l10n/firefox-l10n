@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY emailSectionHdr.label        "Електронна пошта">
-<!ENTITY readMsgsLink.label           "Прочитати лист">
-<!ENTITY composeMsgLink.label         "Написати лист">
+<!ENTITY readMsgsLink.label           "Прочитати повідомлення">
+<!ENTITY composeMsgLink.label         "Написати повідомлення">
 
 <!ENTITY newsSectionHdr.label         "Групи новин">
 <!ENTITY subscribeNewsLink.label      "Упорядкувати групи новин">
@@ -21,7 +21,7 @@
 <!ENTITY setupNewAcct.label           "Налаштувати обліковий запис:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Додаткові властивості">
-<!ENTITY searchMsgsLink.label         "Пошук листів…">
-<!ENTITY filtersLink.label            "Створити фільтри листів">
+<!ENTITY searchMsgsLink.label         "Пошук повідомлень">
+<!ENTITY filtersLink.label            "Створити фільтри повідомлень">
 <!ENTITY junkSettings.label           "Параметри анти-спам фільтрів">
 <!ENTITY offlineLink.label            "Параметри автономної роботи">

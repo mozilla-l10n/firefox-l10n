@@ -6,18 +6,18 @@
 <!ENTITY sendMail.title               "Текстовому форматі">
 <!ENTITY autoDowngrade.label          "Надсилати повідомлення у вигляді звичайного тексту при можливості">
 <!ENTITY autoDowngrade.accesskey      "т">
-<!ENTITY sendMaildesc.label           "При надсиланні листів у форматі HTML, якщо вказано, що один або декілька з адресатів не можуть отримувати пошту у форматі HTML:">
+<!ENTITY sendMaildesc.label           "Під час надсилання повідомлення у форматі HTML, якщо вказано, що один або декілька з адресатів не можуть отримувати пошту у форматі HTML:">
 <!ENTITY askMe.label                  "Запитувати (поштовий клієнт запитає, який формат використовувати)">
 <!ENTITY askMe.accesskey              "З">
-<!ENTITY convertPlain.label           "Перетворити лист у текстовий (частину форматування може бути втрачено)">
+<!ENTITY convertPlain.label           "Перетворити повідомлення у текстове">
 <!ENTITY convertPlain.accesskey       "р">
-<!ENTITY sendHTML.label               "Відсилати лист в HTML">
+<!ENTITY sendHTML.label               "Все одно надіслати повідомлення в HTML">
 <!ENTITY sendHTML.accesskey           "а">
-<!ENTITY sendBoth.label               "Відсилати лист у текстовому та в HTML-форматах (більший розмір листа)">
+<!ENTITY sendBoth.label               "Надіслати повідомлення у текстовому та в HTML-форматах">
 <!ENTITY sendBoth.accesskey           "т">
 <!ENTITY override.label               "Примітка: бажані формати можна вказувати в адресній книзі.">
 
-<!ENTITY domaindesc.label             "При надсиланні листа на адресу, доменна частина якої знаходиться в одному із списків нижче &brandShortName; автоматично посилає лист в правильному форматі.">
+<!ENTITY domaindesc.label             "Під час надсилання повідомлення на адресу, доменна частина якої знаходиться в одному зі списків нижче &brandShortName; автоматично надсилає повідомлення в правильному форматі.">
 <!ENTITY HTMLTab.label                "Домени, що підтримують HTML">
 <!ENTITY HTMLTab.accesskey            "т">
 <!ENTITY PlainTextTab.label           "Домени, що підтримують тільки текст">

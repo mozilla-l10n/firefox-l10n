@@ -5,7 +5,7 @@
 receipts-dialog-window =
     .title = Сповіщення про отримання
 return-receipt-checkbox =
-    .label = Завжди просити сповіщення при надсиланні листів
+    .label = Завжди вимагати звіт про прочитання під час надсилання повідомлень
     .acceskey = з
 receipt-arrive-label = При отриманні сповіщення:
 receipt-leave-radio =
@@ -19,7 +19,7 @@ receipt-return-never-radio =
     .label = Ніколи не надсилати сповіщення про отримання
     .acceskey = Н
 receipt-return-some-radio =
-    .label = Надсилати сповіщення для деяких листів
+    .label = Надсилати сповіщення для деяких повідомлень
     .acceskey = с
 receipt-not-to-cc =
     .value = Якщо я не знаходжуся в списку «Кому» або «Копія»:
