@@ -320,6 +320,17 @@ import-from-clip = Vill du importera några nycklar från urklipp?
 import-from-url = Ladda ner publik nyckel från denna URL:
 copy-to-clipbrd-failed = Det gick inte att kopiera de valda nycklarna till urklippet.
 copy-to-clipbrd-ok = Nycklar kopierade till urklipp
+delete-secret-key =
+    VARNING: Du håller på att radera en hemlig nyckel!
+    
+    Om du tar bort din hemliga nyckel kommer du inte längre att kunna dekryptera några meddelanden som är krypterade för den nyckeln och du kan inte heller återkalla den.
+    
+    Vill du verkligen ta bort BÅDE, den hemliga nyckeln och den publika nyckeln
+    '{ $userId }'?
+delete-mix =
+    VARNING: Du håller på att radera hemliga nycklar!
+    Om du tar bort din hemliga nyckel kommer du inte längre att kunna dekryptera några meddelanden som är krypterade för den nyckeln.
+    Vill du verkligen ta bort BÅDE, de valda hemliga och publika nycklarna?
 
 ## Account settings export output
 
@@ -350,6 +361,28 @@ after-revoke-info =
 key-man-button-import = &Importera
 delete-key-title = Ta bort OpenPGP-nyckel
 delete-external-key-title = Ta bort den externa GnuPG-nyckeln
+delete-external-key-description = Vill du ta bort detta externa GnuPG nyckel-ID?
+key-in-use-title = OpenPGP-nyckel som för närvarande används
+delete-key-in-use-description = Det går inte att fortsätta! Den nyckel som du valde för borttagning används för närvarande av denna identitet. Välj en annan nyckel eller välj ingen och försök igen.
+revoke-key-in-use-description = Det går inte att fortsätta! Den nyckel du valt för återkallelse används för närvarande av denna identitet. Välj en annan nyckel eller välj ingen och försök igen.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = E-postadressen '{ $keySpec }' kan inte matchas med en nyckel på din nyckelring.
+key-error-key-id-not-found = Det konfigurerade nyckel-ID '{ $keySpec }' kan inte hittas på din nyckelring.
+key-error-not-accepted-as-personal = Du har inte bekräftat att nyckeln med ID '{ $keySpec }' är din personliga nyckel.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Funktionen du har valt är inte tillgänglig i offline-läge. Gå online och försök igen.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Vi kunde inte hitta någon nyckel som matchar de angivna sökkriterierna.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Fel - nyckelutvinning misslyckades
+# Strings used in keyRing.jsm
+fail-cancel = Fel - nyckelmottagning avbruten av användaren
+not-first-block = Fel - första OpenPGP-blocket inte blocket för en publik nyckel
+import-key-confirm = Importera publika nycklar som är inbäddade i meddelandet?
+fail-key-import = Fel - nyckelimport misslyckades
+file-write-failed = Det gick inte att skriva till filen { $output }
+no-pgp-block = Fel - inget giltigt, armerat OpenPGP-datablock hittades
+confirm-permissive-import = Importen misslyckades. Nyckeln du försöker importera kan vara skadad eller använda okända attribut. Vill du försöka importera de korrekta delarna? Detta kan resultera i import av ofullständiga och oanvändbara nycklar.
 # Strings used in trust.jsm
 key-valid-unknown = okänd
 key-valid-invalid = ogiltig
@@ -407,7 +440,27 @@ msg-compose-partially-encrypted-inlinePGP =
     Överväg att ta bort all citerad text från ditt svar till den här avsändaren.
 msg-compose-cannot-save-draft = Fel vid sparande av utkast
 msg-compose-partially-encrypted-short = Se upp för att läcka känslig information - delvis krypterad e-post.
+quoted-printable-warn =
+    Du har aktiverat 'quoted-printable'-kodning för att skicka meddelanden. Detta kan leda till felaktigt dekryptering och/eller verifiering av ditt meddelande.
+    Vill du stänga av att skicka 'quoted-printable' meddelanden nu?
+minimal-line-wrapping =
+    Du har ställt in radomslag till { $width } tecken. För korrekt kryptering och/eller signering måste detta värde vara minst 68.
+    Vill du ändra radomslag till 68 tecken nu?
+sending-hidden-rcpt = BCC-mottagare (dold kopia) kan inte användas när du skickar ett krypterat meddelande. För att skicka det krypterade meddelandet, antingen ta bort BCC-mottagarna eller flytta dem till CC-fältet.
+sending-news =
+    Krypterad skickaoperation avbröts.
+    Det här meddelandet kan inte krypteras eftersom det finns nyhetsgruppsmottagare. Skicka meddelandet igen utan kryptering.
+send-to-news-warning =
+    Varning: du håller på att skicka ett krypterat e-postmeddelande till en nyhetsgrupp.
+    Detta är inte klockt eftersom det bara är vettigt om alla medlemmar i gruppen kan dekryptera meddelandet, dvs meddelandet måste krypteras med tangenterna för alla gruppdeltagare. Skicka detta meddelande bara om du vet exakt vad du gör.
+    Fortsätt?
 save-attachment-header = Spara dekrypterad bilaga
+no-temp-dir =
+    Det gick inte att hitta en tillfällig katalog att skriva till
+    Ställ in TEMP-miljövariabeln
+possibly-pgp-mime = Eventuellt PGP/MIME-krypterat eller signerat meddelande; använd 'Dekryptera/verifiera'-funktionen för att verifiera
+cannot-send-sig-because-no-own-key = Det här meddelandet kan inte signeras digitalt, eftersom du ännu inte har konfigurerat end-to-end kryptering för <{ $key }>
+cannot-send-enc-because-no-own-key = Det går inte att skicka det här meddelandet krypterat eftersom du inte har konfigurerat end-to-end kryptering för <{ $key }>
 # Strings used in decryption.jsm
 do-import-multiple =
     Importera följande nycklar?
