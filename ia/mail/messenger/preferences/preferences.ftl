@@ -64,6 +64,7 @@ privacy-certificates-title = Certificatos
 chat-pane-header = Chat
 chat-status-title = Stato
 chat-notifications-title = Notificationes
+chat-pane-styling-header = Stylos
 choose-messenger-language-description = Elige le linguas usate pro monstrar menus, messages, e notificationes per { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Definir alternativas…
@@ -291,6 +292,7 @@ display-width-legend = Messages de texto simple
 convert-emoticons-label =
     .label = Monstrar emoticones como imagines
     .accesskey = e
+display-text-label = Quando on monstra messages de texto simple citate:
 style-label =
     .value = Stilo:
     .accesskey = y
@@ -532,6 +534,9 @@ idle-label =
 
 ##
 
+show-notification-label =
+    .label = Monstrar un notification
+    .accesskey = M
 notification-empty =
     .label = sin information
 chat-play-sound-label =
@@ -567,7 +572,29 @@ chat-variant-label =
 chat-header-label =
     .label = Monstrar capite
     .accesskey = c
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Cercar in optiones
+           *[other] Cercar in preferentias
+        }
 
 ## Preferences UI Search Results
 
 search-results-header = Resultatos del recerca
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Pardono! Il ha nulle resultatos in le optiones pro “<span data-l10n-name="query"></span>”.
+       *[other] Pardono! Il ha nulle resultatos in le preferentias pro “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Require adjuta? Visita <a data-l10n-name="url">Assistentia de { -brand-short-name }</a>
