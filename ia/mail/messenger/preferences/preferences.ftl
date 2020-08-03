@@ -461,7 +461,18 @@ master-password-label =
 master-password-button =
     .label = Modificar le contrasigno maestro…
     .accesskey = m
+primary-password-label =
+    .label = Usar un contrasigno primari
+    .accesskey = p
+primary-password-button =
+    .label = Modificar le contrasigno primari…
+    .accesskey = M
+forms-primary-pw-fips-title = Tu es actualmente in modo FIPS. Tal modo require un contrasigno primari non vacue.
+forms-master-pw-fips-desc = Le cambio de contrasigno ha fallite
 junk-description = Configura hic le parametros global de posta indesirate. Le parametros de posta indesirate specific pro cata conto pote esser configurate in Parametros de contos.
+junk-label =
+    .label = Quando io marca messages como indesirate:
+    .accesskey = i
 junk-log-label =
     .label = Registrar le activitate del filtro adaptive de posta indesirate
     .accesskey = R
@@ -495,6 +506,9 @@ security-devices-button =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Informar mi contactos que io es inactive post
+    .accesskey = p
 
 ##
 
