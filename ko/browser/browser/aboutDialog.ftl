@@ -29,7 +29,7 @@ community-2 = { -brand-short-name }는 모든 사람이 공공 자원으로서 �
 helpus = 돕고 싶으십니까? <label data-l10n-name="helpus-donateLink">기부</label>하시거나 <label data-l10n-name="helpus-getInvolvedLink">참여</label>하세요!
 bottomLinks-license = 라이선스 정보
 bottomLinks-rights = 사용자 권리
-bottomLinks-privacy = 개인정보 보호정책
+bottomLinks-privacy = 개인정보처리방침
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

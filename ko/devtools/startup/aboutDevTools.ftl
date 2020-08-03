@@ -18,7 +18,7 @@ newsletter-title = Mozilla 개발자 뉴스레터
 newsletter-message = 개발자 뉴스와 기법, 자료를 받은 편지함으로 바로 보내세요.
 newsletter-email-placeholder =
     .placeholder = 이메일
-newsletter-privacy-label = 저는 Mozilla가 <a data-l10n-name="privacy-policy">개인정보 보호정책</a>에 설명된 대로 내 정보를 다루는 것에 동의합니다.
+newsletter-privacy-label = 저는 Mozilla가 <a data-l10n-name="privacy-policy">개인정보처리방침</a>에 설명된 대로 내 정보를 다루는 것에 동의합니다.
 newsletter-subscribe-button = 구독
 newsletter-thanks-title = 고맙습니다!
 newsletter-thanks-message = 만약 이전에 Mozilla 관련 뉴스 레터 구독을 확인하지 않았다면 그렇게 해야 할 수 있습니다. 받은 편지함이나 스팸 필터에서 이메일을 확인하세요.

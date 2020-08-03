@@ -23,6 +23,6 @@ sync-label = 이메일 입력
 sync-input =
     .placeholder = 이메일
 sync-button = 계속
-sync-terms = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인정보 보호정책</a>에 동의하게 됩니다.
+sync-terms = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인정보처리방침</a>에 동의하게 됩니다.
 sync-first = { -sync-brand-name }를 처음 사용하십니까? 정보를 동기화하려면 설치된 Firefox 모두에 로그인해야 합니다.
 sync-learn = 더 알아보기

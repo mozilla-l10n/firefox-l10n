@@ -31,7 +31,7 @@ onboarding-join-form-body = 시작하려면 이메일 주소를 입력하세요.
 onboarding-join-form-email =
     .placeholder = 이메일 입력
 onboarding-join-form-email-error = 유효한 이메일이 필요합니다
-onboarding-join-form-legal = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인정보 보호정책</a>에 동의하게 됩니다.
+onboarding-join-form-legal = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인정보처리방침</a>에 동의하게 됩니다.
 onboarding-join-form-continue = 계속
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = 계정이 이미 있습니까?
@@ -139,7 +139,7 @@ onboarding-benefit-products-title = 유용한 제품
 onboarding-benefit-products-text = 내가 사용하는 모든 기기에서 개인 정보를 존중하는 도구를 사용합니다.
 onboarding-benefit-knowledge-title = 실용 지식
 onboarding-benefit-knowledge-text = 온라인에서 더 똑똑하고 안전하게 지내기 위해 알아야 할 모든 것을 배워 보세요.
-onboarding-benefit-privacy-title = 진정한 개인 정보 보호 정책
+onboarding-benefit-privacy-title = 진정한 개인 정보 보호
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
