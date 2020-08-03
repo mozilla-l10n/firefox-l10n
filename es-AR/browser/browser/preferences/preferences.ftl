@@ -440,7 +440,7 @@ browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
     .accesskey = R
 browsing-cfr-features =
-    .label = Recomiendar funciones mientras navega
+    .label = Recomendar funciones mientras navega
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Conocer más
 
