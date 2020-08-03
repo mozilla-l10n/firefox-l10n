@@ -133,6 +133,7 @@ openpgp-key-expired-image =
     .tooltiptext = Nøkkelen har gått ut
 openpgp-key-expand-section =
     .tooltiptext = Meir informasjon
+key-external-label = Ekstern GnuPG-nøkkel
 # Strings in keyDetailsDlg.xhtml
 key-type-public = offentleg nøkkel
 key-type-primary = primærnøkkel
