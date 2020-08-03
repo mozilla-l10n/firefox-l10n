@@ -6,3 +6,5 @@
 <!ENTITY name.label                     "Sala">
 <!ENTITY optional.label                 "(optional)">
 <!ENTITY account.label                  "Conto">
+<!ENTITY autojoin.label                 "Auto-junge te a iste sala chat">
+<!ENTITY autojoin.accesskey             "A">
