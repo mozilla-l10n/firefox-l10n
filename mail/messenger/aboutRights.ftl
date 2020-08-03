@@ -7,8 +7,8 @@ rights-intro = { -brand-full-name }는 무료 오픈 소스 소프트웨어이�
 rights-intro-point-1 = { -brand-short-name }는 다음 라이선스 조건하에서 사용 가능합니다 - <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>본 라이선스는 { -brand-short-name }를 다른 사람에게 사용, 복사, 배포할 수 있습니다. 또한, { -brand-short-name }의 소스 코드를 원하는 요구에 맞추어 고칠 수 있습니다. Mozilla Public License는 또한 고친 버전을 재배포할 수도 있습니다.
 rights-intro-point-2 = Mozilla는 Mozilla와 Thunderbird 상표 및 로고에 대한 사용 권한은 허가하지 않습니다. 자세한 사항은 상표권 부분을 참고하세요.<a data-l10n-name="mozilla-trademarks-link">자세히</a>.
 rights-intro-point-3 = { -brand-short-name }내 충돌 보고서 같은 기능은 { -vendor-short-name }에 피드백을 보냅니다. 의견 보내기를 누르면 { -vendor-short-name }에서 더 나은 제품을 만드는 데 의견을 웹 사이트에 게시, 배포하는 권한을 얻게 됩니다.
-rights-intro-point-4 = { -vendor-short-name }의 개인 정보 보호 정책에 대해서는 아래를 참고하세요. <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } 개인 정보 정책</a>.
-rights-intro-point-4-unbranded = 모든 적용 가능한 개인 정보 보호 정책은 아래에 기술되어 있습니다.
+rights-intro-point-4 = { -vendor-short-name }의 개인정보처리방침에 대해서는 아래를 참고하세요. <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }개인정보처리방침</a>.
+rights-intro-point-4-unbranded = 모든 적용 가능한 개인정보처리방침은 아래에 기술되어 있습니다.
 rights-intro-point-5 = { -brand-short-name }는 몇 가지 웹 사이트 서비스를 제공합니다. 하지만 이 서비스는 정확성 및 무결성을 보장하지 않습니다. 더 자세한 것은 서비스 약관을 참고하세요.<a data-l10n-name="mozilla-service-terms-link">서비스 약관</a>.
 rights-intro-point-5-unbranded = 이 제품이 웹 서비스를 지원하지 않으면 당 서비스의 서비스 조건은 링크에서 찾을 수 있습니다.<a data-l10n-name="mozilla-website-services-link">자세히</a> 보기
 rights-intro-point-6 = 특정 형식의 동영상 재생을 위해 { -brand-short-name }는 특정 제 삼자 콘텐츠 해석 모듈을 다운받습니다.
