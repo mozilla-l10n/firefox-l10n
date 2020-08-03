@@ -12,7 +12,11 @@ compatibility-all-elements-header = Akk uguren
 
 compatibility-issue-deprecated = (d aqbur)
 compatibility-issue-experimental = (armitan)
+compatibility-issue-prefixneeded = (uzwir yettusra)
 compatibility-issue-deprecated-experimental = (d aqbur, d armitan)
+compatibility-issue-deprecated-prefixneeded = (d aqbur, uzwir yettusra)
+compatibility-issue-experimental-prefixneeded = (d armitan, uzwir yettusra)
+compatibility-issue-deprecated-experimental-prefixneeded = (d aqbur, d armitan, uzwir yettusra)
 
 ## Messages used as labels and titles for buttons in the footer
 
