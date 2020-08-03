@@ -232,6 +232,12 @@
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Non legite">
 <!ENTITY unreadMsgsCmd.accesskey "N">
+<!ENTITY threadsWithUnreadCmd.label "Discussiones con messages non legite">
+<!ENTITY threadsWithUnreadCmd.accesskey "D">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Discussiones con messages non legite spectate">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "s">
+<!ENTITY ignoredThreadsCmd.label "Discussiones ignorate">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "Capites">
 <!ENTITY headersMenu.accesskey "C">
@@ -247,6 +253,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Texto simple">
 <!ENTITY bodyAsPlaintext.accesskey "s">
+<!ENTITY bodyAllParts.label "Tote le partes del corpore">
+<!ENTITY bodyAllParts.accesskey "T">
 
 <!ENTITY bodyMenuFeed.label "Corpore del message de fluxo como">
 <!ENTITY bodyMenuFeed.accesskey "C">
@@ -260,6 +268,11 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Monstrar annexos in message">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
+<!ENTITY pageSourceCmd.label "Fonte del message">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.key "n">
+<!ENTITY getNewMessagesCmd.key "t">
+<!ENTITY getAllNewMessagesCmd.key "e">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Cercar">
@@ -276,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Cercar messages…">
 <!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Recerca global…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Cercar adresses…">
 <!ENTITY searchAddressesCmd.accesskey "C">
 
@@ -302,6 +317,7 @@
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Message non legite">
 <!ENTITY prevUnreadMsgCmd.accesskey "n">
+<!ENTITY prevUnreadMsgCmd.key "l">
 <!ENTITY goForwardCmd.label "Inviar ultra">
 <!ENTITY goForwardCmd.accesskey "R">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -317,6 +333,8 @@
 <!ENTITY folderMenu.accesskey "o">
 <!ENTITY goRecentlyClosedTabs.label "Schedas claudite recentemente">
 <!ENTITY goRecentlyClosedTabs.accesskey "r">
+<!ENTITY startPageCmd.label "Pagina initial del email">
+<!ENTITY startPageCmd.accesskey "i">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Message">
@@ -402,6 +420,12 @@
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsUnreadCmd.label "Como non lecte">
 <!ENTITY markAsUnreadCmd.accesskey "n">
+<!ENTITY markThreadAsReadCmd.label "Discussion jam legite">
+<!ENTITY markThreadAsReadCmd.accesskey "D">
+<!ENTITY markThreadAsReadCmd.key "s">
+<!ENTITY markReadByDateCmd.label "Jam legite per data…">
+<!ENTITY markReadByDateCmd.accesskey "d">
+<!ENTITY markReadByDateCmd.key "t">
 <!ENTITY markAllReadCmd.label "Toto lecte">
 <!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "c">
@@ -419,6 +443,9 @@
 <!ENTITY openMessageWindowCmd.label "Aperir message">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "a">
+<!ENTITY openInConversationCmd.label "Aperir in conversation">
+<!ENTITY openInConversationCmd.accesskey "c">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Annexos">
 <!ENTITY openAttachmentListCmd.accesskey "x">
 <!ENTITY openFeedMessage1.label "Quando se aperi messages de fluxo">
@@ -437,11 +464,21 @@
 <!ENTITY tasksMenu.label "Utensiles">
 <!ENTITY tasksMenu.accesskey "U">
 <!ENTITY messengerCmd.label "Posta e gruppos">
+<!ENTITY messengerCmd.accesskey "n">
 <!ENTITY addressBookCmd.label "Libro del adresses">
 <!ENTITY addressBookCmd.accesskey "l">
 <!ENTITY addressBookCmd.key "l">
 <!ENTITY addons.label "Additivos">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addonPrefs.label "Optiones de additivo">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Preferentias de additivo">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Nulle parametros de additivo trovate.">
+<!ENTITY activitymanager.label "Gestor de activitate">
+<!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Stato del chat">
+<!ENTITY imAccountsStatus.accesskey "c">
 <!ENTITY imStatus.available          "Disponibile">
 <!ENTITY imStatus.unavailable        "Non disponibile">
 <!ENTITY imStatus.offline            "Foras de linea">
@@ -451,7 +488,14 @@
 <!ENTITY savedFiles.label "Files salvate">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Filtros de message">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Applicar filtros al dossier">
+<!ENTITY filtersApply.accesskey "r">
+<!ENTITY filtersApplyToSelection.label "Exeque filtros sur le messages eligite">
+<!ENTITY filtersApplyToSelection.accesskey "x">
+<!ENTITY filtersApplyToMessage.label "Exeque filtros sur le message">
+<!ENTITY filtersApplyToMessage.accesskey "x">
 <!ENTITY runJunkControls.label "Executar le controlos de posta indesirate in le dossier">
 <!ENTITY runJunkControls.accesskey "E">
 <!ENTITY deleteJunk.label "Deler le posta marcate como indesirate in le dossier">
@@ -471,6 +515,8 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Instrumentos de disveloppamento">
 <!ENTITY devtoolsMenu.accesskey "i">
+<!ENTITY devToolboxCmd.label "Cassa del utensiles de disveloppator">
+<!ENTITY devToolboxCmd.accesskey "u">
 <!ENTITY debugAddonsCmd.label "Depurar le additivos">
 <!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
@@ -834,6 +880,8 @@
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openLinkInBrowser.label "Aperir ligamine in navigator">
+<!ENTITY openLinkInBrowser.accesskey "A">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Facite">
