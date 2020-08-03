@@ -154,7 +154,7 @@ newtab-section-menu-add-topsite = 상위 사이트 추가
 newtab-section-menu-add-search-engine = 검색 엔진 추가
 newtab-section-menu-move-up = 위로 이동
 newtab-section-menu-move-down = 아래로 이동
-newtab-section-menu-privacy-notice = 개인정보 보호정책
+newtab-section-menu-privacy-notice = 개인정보처리방침
 
 ## Section aria-labels
 
