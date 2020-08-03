@@ -303,26 +303,61 @@ import-info-no-keys = 未导入密钥。
 # Strings in enigmailKeyManager.js
 import-from-clip = 您想要从剪贴板导入一些密钥吗？
 import-from-url = 请从下列 URL 下载公钥：
+delete-selected-pub-key = 您确定要删除公钥吗？
+key-man-button-export-sec-key = 导出私钥(&S)
+key-man-button-export-pub-key = 只导出公钥(&P)
 key-man-button-refresh-all = 刷新所有密钥(&R)
 key-man-loading-keys = 正在加载密钥，请稍候...
 ascii-armor-file = ASCII 格式文件（*.asc）
+no-key-selected = 您需至少选择一个密钥，才能执行所选操作
 export-to-file = 将公钥导出为文件
 export-keypair-to-file = 将私钥和公钥导出为文件
+save-keys-ok = 成功保存密钥
 save-keys-failed = 密钥保存失败
 preview-failed = 无法读取公钥文件。
 general-error = 错误：{ $reason }
+dlg-button-delete = 删除(&D)
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>成功导出公钥！</b>
+openpgp-export-public-fail = <b>无法导出选中的公钥！</b>
+openpgp-export-secret-success = <b>成功导出私钥！</b>
+openpgp-export-secret-fail = <b>无法导出选中的私钥！</b>
 # Strings in gnupg-keylist.jsm
 keyring-photo = 照片
 user-att-photo = 用户属性（JPEG 图像）
 # Strings in key.jsm
 already-revoked = 该密钥已被吊销。
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = 密钥  0x{ $keyId } 已被吊销。
+key-man-button-revoke-key = 吊销密钥(&R)
 openpgp-key-revoke-success = 已成功吊销密钥。
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = 导入(&I)
 delete-key-title = 删除 OpenPGP 密钥
 delete-external-key-title = 移除外部 GnuPG 密钥
+delete-external-key-description = 您要移除该 GnuPG 密钥 ID 吗？
+key-in-use-title = OpenPGP 密钥正在使用中
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = 错误 - 密钥提取命令运行失败
 # Strings used in keyRing.jsm
 fail-cancel = 错误 - 用户取消接收密钥
+fail-key-import = 错误 - 密钥导入失败
+file-write-failed = 写入到文件 { $output } 失败
+no-pgp-block = 错误 - 找不到有效的 armored 格式 OpenPGP 数据块
+# Strings used in trust.jsm
+key-valid-unknown = 未知
+key-valid-invalid = 无效
+key-valid-disabled = 已禁用
+key-valid-revoked = 已吊销
+key-valid-expired = 已过期
+key-trust-untrusted = 不受信任
+key-trust-full = 可信
+key-trust-ultimate = 完全信任
+key-trust-group = （群组）
+# Strings used in commonWorkflows.js
+import-key-file = 导入 OpenPGP 密钥文件
+import-rev-file = 导入 OpenPGP 吊销文件
+gnupg-file = GnuPG 文件
+import-keys-failed = 导入密钥失败
