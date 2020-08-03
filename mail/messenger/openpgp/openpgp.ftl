@@ -300,6 +300,9 @@ import-info-bits = 位
 import-info-created = 创建于
 import-info-fpr = 指纹
 import-info-no-keys = 未导入密钥。
+key-man-button-refresh-all = 刷新所有密钥(&R)
+key-man-loading-keys = 正在加载密钥，请稍候...
+ascii-armor-file = ASCII 格式文件（*.asc）
 
 ## Account settings export output
 
