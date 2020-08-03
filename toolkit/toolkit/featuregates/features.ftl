@@ -83,7 +83,7 @@ experimental-features-devtools-compatibility-panel-description = Un pannello lat
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie: SameSite=Lax predefinito
-experimental-features-cookie-samesite-lax-by-default2-description = Gestisci i cookie come “SameSite=lax” per impostazione predefinita se non viene specificato alcun attributo “SameSite”. Gli sviluppatori devono utilizzare esplicitamente “SameSite=None” per ripristinare il funzionamento attuale che non prevede alcuna limitazione d’uso.
+experimental-features-cookie-samesite-lax-by-default2-description = Gestisci i cookie come “SameSite=Lax” per impostazione predefinita se non viene specificato alcun attributo “SameSite”. Gli sviluppatori devono utilizzare esplicitamente “SameSite=None” per ripristinare il funzionamento attuale che non prevede alcuna limitazione d’uso.
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
