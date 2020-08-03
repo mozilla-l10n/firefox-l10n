@@ -71,12 +71,98 @@ openpgp-key-man-ctx-view-photo-label =
 openpgp-key-man-show-invalid-keys =
     .label = Vis ugyldige nøklar
     .accesskey = V
+openpgp-key-man-show-others-keys =
+    .label = Vis nøklar frå andre personar
+    .accesskey = a
+openpgp-key-man-user-id-label =
+    .label = Namn
+openpgp-key-man-select-all =
+    .label = Vel alle nøklar
+    .accesskey = V
+openpgp-key-man-filter-label =
+    .placeholder = Søk etter nøklar
+openpgp-key-man-select-all-key =
+    .key = a
+openpgp-key-man-key-details-key =
+    .key = I
+openpgp-key-details-title =
+    .title = Nøkkeleigenskapar
+openpgp-key-details-signatures-tab =
+    .label = Sertifiseringar
+openpgp-key-details-id-label =
+    .label = ID
+openpgp-key-details-key-type-label = Type
+openpgp-key-details-key-part-label =
+    .label = Nøkkeldel
+openpgp-key-details-algorithm-label =
+    .label = Algoritme
+openpgp-key-details-size-label =
+    .label = Størreslse
+openpgp-key-details-created-label =
+    .label = Laga
+openpgp-key-details-created-header = Laga
+openpgp-key-details-usage-label =
+    .label = Bruk
+openpgp-key-details-sel-action =
+    .label = Vel handling…
+    .accesskey = V
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Lat att
+openpgp-copy-cmd-label =
+    .label = Kopier
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = Legg til nøkkel…
+    .accesskey = L
+e2e-learn-more = Les meir
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ingen
+openpgp-radio-none-desc = Ikkje bruk OpenPGP for denne identiteten.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Går ut: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Nøkkelen går ut om mindre enn 6 månadar
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Gikk ut: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Nøkkelen har gått ut
+openpgp-key-expand-section =
+    .tooltiptext = Meir informasjon
+# Strings in keyDetailsDlg.xhtml
+key-type-public = offentleg nøkkel
+key-type-primary = primærnøkkel
+key-type-subkey = undernøkkel
+key-expiry-never = aldri
+key-usage-encrypt = Krypter
+key-usage-sign = Signer
+key-does-not-expire = Nøkkelen går ikkje ut
+key-expired-simple = Nøkkelen har gått ut
+# Strings in keyserver.jsm
+keyserver-error-aborted = Avbrote
+keyserver-error-unknown = Det oppstod ein ukjend feil
+import-info-bits = Bit
+import-info-created = Laga
+general-error = Feil: { $reason }
+dlg-button-delete = &Slett
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Brukarattribut (JPEG-bilde)
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importer
+delete-key-title = Slett OpenPGP-nøkkel
+# Strings used in trust.jsm
+key-valid-unknown = ukjend
+key-valid-invalid = ugyldig
+key-valid-disabled = slått av
+key-valid-expired = gått ut
+key-trust-untrusted = ikkje tiltrudd
+key-trust-marginal = marginal
+key-trust-full = tiltrudd
