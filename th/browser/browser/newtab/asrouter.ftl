@@ -120,7 +120,7 @@ cfr-whatsnew-lockwise-take-link-text = รับแอป
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = ค้นหาได้มากขึ้นโดยพิมพ์น้อยลงในแถบที่อยู่
-cfr-whatsnew-searchbar-body-topsites = เพียงเลือกแถบที่อยู่แล้วกล่องจะขยายออกพร้อมลิงก์ไปยังเว็บไซต์ยอดนิยมของคุณ
+cfr-whatsnew-searchbar-body-topsites = เพียงเลือกแถบที่อยู่แล้วกล่องจะขยายออกพร้อมลิงก์ไปยังไซต์เด่นของคุณ
 cfr-whatsnew-searchbar-icon-alt-text = ไอคอนรูปแว่นขยาย
 
 ## Picture-in-Picture
