@@ -395,6 +395,7 @@ revoke-key-not-present = 您沒有與此撤銷憑證相符的金鑰（0x{ $keyId
 revoke-key-already-revoked = 金鑰 0x{ $keyId } 已被撤銷。
 key-man-button-revoke-key = 撤銷金鑰 (&R)
 openpgp-key-revoke-success = 成功撤銷金鑰。
+after-revoke-info = 此金鑰已被撤銷。請使用電子郵件再次分享公鑰，或是上傳到金鑰伺服器，讓其他人知道您已撤銷此金鑰。當其他人使用的軟體知道金鑰已經撤銷後，就不會再使用您的舊金鑰。若您在相同信箱使用新的金鑰，並且將新的公鑰附加在您寄出的郵件中，那麼也會自動包含舊金鑰已經撤銷的資訊。
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = 匯入 (&I)
 delete-key-title = 刪除 OpenPGP 金鑰
@@ -420,6 +421,7 @@ import-key-confirm = 要匯入訊息中嵌入的公鑰嗎？
 fail-key-import = 錯誤 - 金鑰匯入失敗
 file-write-failed = 寫入到檔案 { $output } 失敗
 no-pgp-block = 錯誤 - 找不到有效的 armored 格式 OpenPGP 資料區塊
+confirm-permissive-import = 匯入失敗。您嘗試匯入的金鑰可能已經毀損或使用了未知的屬性。您想要嘗試匯入當中正確的部分嗎？可能會匯入不完整且無法使用的金鑰。
 # Strings used in trust.jsm
 key-valid-unknown = 未知
 key-valid-invalid = 無效
