@@ -387,6 +387,8 @@ keyring-photo = 相片
 user-att-photo = 使用者屬性（JPEG 圖片）
 # Strings in key.jsm
 already-revoked = 這把金鑰已被撤銷。
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question = 即將撤銷金鑰「{ $identity }」。撤銷後，將無法再使用這把金鑰進行簽署。且在公布後，其他人也將無法無法再使用該金鑰加密。您還是可以使用這把金鑰來解開舊訊息。確定要繼續嗎？
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present = 您沒有與此撤銷憑證相符的金鑰（0x{ $keyId }）！若您搞丟金鑰了，必須先重新匯入金鑰（例如從金鑰伺服器）才能匯入撤銷憑證！
 #   $keyId (String) - the id of the key being revoked
