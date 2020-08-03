@@ -9,5 +9,7 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Izen-a yettwazmel s tsarut urɛad tesɛiḍ.
 openpgp-search-signature-key =
     .label = Snirem…
+openpgp-broken-exchange-repair =
+    .label = Izen n useggem
 openpgp-broken-exchange-wait = Ttxil rǧu…
 openpgp-partial-verify-button = Senqed

@@ -16,6 +16,34 @@ openpgp-key-gen-key-size-label = Teɣzi n tsarut
 openpgp-key-gen-key-type-label = Anaw n tsarut
 openpgp-key-gen-key-type-rsa =
     .label = RSA
+openpgp-advanced-prefs-button-label =
+    .label = Talqayt…
+openpgp-key-expiry-label =
+    .label = Azemz n taggara
+openpgp-key-id-label =
+    .label = Asulay n tsarut
+openpgp-key-man-title =
+    .title = Asefrak n tsarut OpenPGP
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Kter tisura ɣer ufaylu
+openpgp-key-man-ctx-copy-to-clipbrd-label =
+    .label = Nɣel tisura tizuyaz ɣer afus
+openpgp-key-man-close =
+    .label = Mdel
+openpgp-key-man-ctx-view-photo-label =
+    .label = Sker asulay n tewlaft
+openpgp-key-man-user-id-label =
+    .label = Isem
+openpgp-key-man-fingerprint-label =
+    .label = Adsil umḍin
+openpgp-key-man-filter-label =
+    .placeholder = Anadi ɣef tsura
+openpgp-key-man-select-all-key =
+    .key = A
+openpgp-key-details-title =
+    .title = Iraten n tsarut
+openpgp-key-details-signatures-tab =
+    .label = Isleknen
 
 ## e2e encryption settings
 
