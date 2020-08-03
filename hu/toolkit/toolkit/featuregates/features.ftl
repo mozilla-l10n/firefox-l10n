@@ -35,6 +35,8 @@ experimental-features-media-avif-description = A funkció engedélyezésével a 
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Az <a data-l10n-name="mdn-inputmode">inputmode</a> globális attribútum implementációját frissítettük <a data-l10n-name="whatwg">a WHATWG-specifikáció</a> alapján, de még más változásokra is szükség lesz, mint például az elérhetővé tételéhez „contenteditable” típusú tartalom esetén. További részletek az <a data-l10n-name="bugzilla">1205133-as számú hibában</a> találhatók.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
