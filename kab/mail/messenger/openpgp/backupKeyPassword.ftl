@@ -5,3 +5,4 @@
 set-password-window =
     .title = Fren awal uffir iwakken ad tkelseḍ tasarut-ik•im OpenPGP
 set-password-legend = Fren awal uffir
+password-quality-meter = Asɣel n tɣara n wawal uffir
