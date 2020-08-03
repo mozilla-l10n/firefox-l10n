@@ -262,9 +262,17 @@
 
 
 <!-- Search Menu -->
+<!ENTITY findMenu.label "Cercar">
+<!ENTITY findMenu.accesskey "C">
+<!ENTITY findCmd.label "Cercar in iste message…">
+<!ENTITY findCmd.accesskey "C">
+<!ENTITY findCmd.key "c">
 <!ENTITY findAgainCmd.label "Cercar ancora">
 <!ENTITY findAgainCmd.accesskey "c">
 <!ENTITY findAgainCmd.key "c">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "Cercar messages…">
 <!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "f">
@@ -297,11 +305,18 @@
 <!ENTITY goForwardCmd.label "Inviar ultra">
 <!ENTITY goForwardCmd.accesskey "R">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Retro">
+<!ENTITY goBackCmd.accesskey "R">
+<!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "C">
 <!ENTITY goChatCmd2.key "H">
+<!ENTITY prevStarredMsgCmd.label "Message stellate">
+<!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Dossier">
 <!ENTITY folderMenu.accesskey "o">
+<!ENTITY goRecentlyClosedTabs.label "Schedas claudite recentemente">
+<!ENTITY goRecentlyClosedTabs.accesskey "r">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Message">
@@ -354,11 +369,22 @@
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copiar le adresse del message">
 <!ENTITY copyMessageLocation.accesskey "m">
+<!ENTITY copyMsgToMenu.label "Copiar a">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Displaciar de novo">
 <!ENTITY moveToFolderAgain.accesskey "v">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorar argumento">
 <!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Ignorar sub-argumento">
+<!ENTITY killSubthreadMenu.accesskey "s">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Surveliar le argumento">
+<!ENTITY watchThreadMenu.accesskey "S">
+<!ENTITY watchThreadMenu.key "s">
+<!ENTITY tagMenu.label "Tag">
+<!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -379,6 +405,9 @@
 <!ENTITY markAllReadCmd.label "Toto lecte">
 <!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Adder stella">
+<!ENTITY markStarredCmd.accesskey "s">
+<!ENTITY markStarredCmd.key "s">
 <!ENTITY markAsJunkCmd.label "Como indesirate">
 <!ENTITY markAsJunkCmd.accesskey "i">
 <!ENTITY markAsJunkCmd.key "i">
@@ -492,6 +521,7 @@
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Recerca avantiate de messages">
 <!ENTITY getMsgButton.tooltip "Reciper nove messages">
+<!ENTITY newMsgButton.tooltip "Crear un nove message">
 <!ENTITY replyButton.tooltip "Responder al message">
 <!ENTITY replyAllButton.tooltip "Responder al expeditor e a tote le destinatarios">
 <!ENTITY replyListButton.tooltip "Responder al lista de diffusion">
