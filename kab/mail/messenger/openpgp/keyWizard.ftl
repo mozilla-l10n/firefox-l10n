@@ -45,11 +45,19 @@ openpgp-keygen-long-expiry = Ur tezmireḍ ara ad d-tesnulfuḍ tasarut ara yemm
 ## Import Key section
 
 openpgp-passphrase-prompt-title = Tlaq tefyirt tuffirt
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Ttxil sekcem tafyirt tuffirt i userreḥ n tsarut-a: { $key }
 openpgp-import-key-button =
     .label = Fren afaylu i uktar…
     .accesskey = F
 import-key-file = Kter afaylu n tsarut OpenPGP
+import-key-personal-checkbox =
+    .label = Ḥseb tasarut-a am tsarut tudmawant
 gnupg-file = Ifuyla GnuPG
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Tuccḍa!</b> Aktar n ufaylu ur yeddi ara. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Tuccḍa!</b> Aktar n tsura ur yeddi ara. { $error }
 openpgp-import-identity-label = Tamagit
 openpgp-import-fingerprint-label = Adsil umḍin
 openpgp-import-created-label = Yettwarna
