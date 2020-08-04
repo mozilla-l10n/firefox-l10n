@@ -80,6 +80,9 @@ openpgp-key-copy-key =
 openpgp-key-export-key =
     .label = Exportar chave pública para arquivo
     .accesskey = E
+openpgp-key-backup-key =
+    .label = Fazer backup de chave secreta em arquivo
+    .accesskey = b
 openpgp-key-send-key =
     .label = Enviar chave pública por e-mail
     .accesskey = m
@@ -92,6 +95,9 @@ openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Copiar chaves públicas para área de transferência
 openpgp-key-man-close =
     .label = Fechar
+openpgp-key-man-reload =
+    .label = Recarregar cache de chaves
+    .accesskey = R
 openpgp-key-man-del-key =
     .label = Excluir chave(s)
     .accesskey = x
@@ -136,6 +142,7 @@ openpgp-key-details-signatures-tab =
     .label = Certificações
 openpgp-key-details-structure-tab =
     .label = Estrutura
+openpgp-key-details-user-id2-label = Proprietário alegado da chave
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Tipo
@@ -157,6 +164,8 @@ openpgp-key-details-sel-action =
     .accesskey = S
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Fechar
+openpgp-acceptance-label =
+    .label = Sua aceitação
 openpgp-acceptance-rejected-label =
     .label = Não, rejeitar esta chave.
 openpgp-acceptance-undecided-label =
@@ -174,6 +183,14 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] O Thunderbird não tem uma chave OpenPGP pessoal de <b>{ $identity }</b>
+        [one] O Thunderbird encontrou { $count } chave OpenPGP pessoal associada a <b>{ $identity }</b>
+       *[other] O Thunderbird encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
+    }
 openpgp-add-key-button =
     .label = Adicionar chave…
     .accesskey = A
@@ -183,6 +200,8 @@ openpgp-keygen-import-success = Chaves OpenPGP importadas com sucesso!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Nenhuma
 openpgp-radio-none-desc = Não usar OpenPGP para esta identidade.
 openpgp-key-expand-section =
     .tooltiptext = Mais informações
@@ -204,6 +223,7 @@ key-usage-sign = Assinar
 key-usage-certify = Certificar
 key-usage-authentication = Autenticação
 key-revoked-simple = A chave foi revogada
+key-do-you-accept = Você aceita esta chave para verificar assinaturas digitais e para criptografar mensagens?
 keyserver-error-unknown = Ocorreu um erro desconhecido
 keyserver-error-server-error = O servidor de chaves relatou um erro.
 keyserver-error-import-error = Falha ao importar a chave baixada.
@@ -268,6 +288,8 @@ keyring-photo = Foto
 user-att-photo = Atributo do usuário (imagem JPEG)
 # Strings in key.jsm
 already-revoked = Esta chave já foi revogada.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = A chave 0x{ $keyId } já foi revogada.
 key-man-button-revoke-key = &Revogar chave
 openpgp-key-revoke-success = Chave revogada com sucesso.
 # Strings in keyRing.jsm & decryption.jsm
