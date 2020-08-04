@@ -54,10 +54,16 @@ openpgp-keygen-progress-title = Genererer den nye OpenPGP-nøkkelen din…
 openpgp-keygen-import-progress-title = Importerer OpenPGP-nøklene dine…
 openpgp-import-success = OpenPGP-nøkler er importert!
 openpgp-import-success-title = Fullfør importprosessen
+openpgp-import-success-description = For å begynne å bruke den importerte OpenPGP-nøkkelen for e-postkryptering, lukker du denne dialogboksen og åpner kontoinnstillingene for å velge den.
 openpgp-keygen-confirm =
     .label = Bekreft
 openpgp-keygen-dismiss =
     .label = Avbryt
+openpgp-keygen-cancel =
+    .label = Avbryt prosess…
+openpgp-keygen-import-complete =
+    .label = Lukk
+    .accesskey = L
 
 ## Import Key section
 
