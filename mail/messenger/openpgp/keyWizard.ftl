@@ -8,6 +8,7 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = Tovább
     .buttonlabelhelp = Vissza
+key-wizard-warning = <b>Ha van létező személyes kulcsa</b> ehhez az e-mail-címhez, akkor importálnia kell. Ellenkező esetben nem férhet hozzá titkosított e-mailek archívumához, és nem fogja tudni elolvasni az olyan emberektől bejövő titkosított e-maileket, akik továbbra is használják a meglévő kulcsát.
 key-wizard-learn-more = További tudnivalók
 radio-create-key =
     .label = Új OpenPGP kulcs létrehozása
