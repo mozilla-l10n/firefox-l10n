@@ -80,6 +80,7 @@ openpgp-import-key-list-amount =
         [one] Thunderbird fann ein nøkkel som kan importerast.
        *[other] Thunderbird fann { $count } nøklar som kan importerast.
     }
+openpgp-passphrase-prompt-title = Passordfrase påkravd
 openpgp-import-key-button =
     .label = Vel ei fil å importere…
     .accesskey = V
