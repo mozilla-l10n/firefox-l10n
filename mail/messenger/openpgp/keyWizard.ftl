@@ -86,6 +86,36 @@ openpgp-import-key-list-amount =
         [one] Thunderbird a trouvé une clé qui peut être importée.
        *[other] Thunderbird a trouvé { $count } clés qui peuvent être importées.
     }
+openpgp-import-key-list-description = Confirmez quelles clés peuvent être considérées comme vos clés personnelles. Seules les clés que vous avez créées vous-même et qui indiquent votre propre identité doivent être utilisées comme clés personnelles. Vous pouvez modifier cette option ultérieurement depuis la boîte de dialogue Propriétés de la clé.
+openpgp-import-key-list-caption = Les clés marquées comme étant des clés personnelles seront répertoriées dans la section Chiffrement de bout en bout. Les autres seront disponibles dans le gestionnaire de clés.
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Veuillez saisir la phrase de passe pour déverrouiller la clé suivante : { $key }
+openpgp-import-key-button =
+    .label = Sélectionner le fichier à importer…
+    .accesskey = S
+import-key-file = Importer un fichier de clé OpenPGP
+import-key-personal-checkbox =
+    .label = Considérer cette clé comme une clé personnelle
+gnupg-file = Fichiers GnuPG
+import-error-file-size = <b>Erreur :</b> les fichiers de plus de 5 Mo ne sont pas pris en charge.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Erreur :</b> échec de l’importation du fichier. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Erreur :</b> échec de l’importation des clés. { $error }
+openpgp-import-identity-label = Identité
+openpgp-import-fingerprint-label = Empreinte
+openpgp-import-created-label = Date de création
+openpgp-import-key-props =
+    .label = Propriétés de la clé
+    .accesskey = P
 
 ## External Key section
 
+openpgp-external-key-title = Clé GnuPG externe
+openpgp-external-key-description = Configurer une clé GnuPG externe en saisissant l’identifiant de la clé
+openpgp-external-key-info = De plus, vous devez utiliser le gestionnaire de clés pour importer et accepter la clé publique correspondante.
+openpgp-external-key-warning = <b>Vous ne pouvez configurer qu’une seule clé GnuPG externe.</b> Votre entrée précédente sera remplacée.
+openpgp-save-external-button = Enregistrer l’identifiant de la clé
+openpgp-external-key-label = Identifiant de la clé secrète :
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
