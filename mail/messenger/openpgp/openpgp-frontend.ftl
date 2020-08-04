@@ -21,7 +21,11 @@ openpgp-has-sender-key = Questo messaggio dichiara di contenere la chiave pubbli
 openpgp-be-careful-new-key = Attenzione: la nuova chiave pubblica OpenPGP in questo messaggio differisce dalle chiavi pubbliche precedentemente accettate per { $email }.
 openpgp-import-sender-key =
     .label = Importa…
+openpgp-search-keys-openpgp =
+    .label = Individua la chiave OpenPGP
 openpgp-missing-signature-key = Questo messaggio è stato firmato con una chiave di cui ancora non si dispone.
+openpgp-search-signature-key =
+    .label = Individua…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
 openpgp-broken-exchange-info = Questo è un messaggio OpenPGP apparentemente danneggiato da MS-Exchange. Se il contenuto del messaggio non viene visualizzato correttamente, si può provare una riparazione automatica.
 openpgp-broken-exchange-repair =
