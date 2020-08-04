@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = Para enviar mensagens criptografadas ou assinadas digitalmente, você precisa configurar uma tecnologia de criptografia, pode ser OpenPGP ou S/MIME.
 openpgp-keygen-title-label =
     .title = Gerar chave OpenPGP
 openpgp-cancel-key =
@@ -174,6 +175,7 @@ openpgp-acceptance-unverified-label =
     .label = Sim, mas não verifiquei se é a chave correta.
 openpgp-acceptance-verified-label =
     .label = Sim, verifiquei pessoalmente que esta chave tem a impressão digital correta.
+key-personal-warning = Você mesmo criou esta chave e a propriedade da chave exibida refere-se a você?
 openpgp-personal-no-label =
     .label = Não, não usar como minha chave pessoal.
 openpgp-personal-yes-label =
@@ -224,6 +226,13 @@ key-usage-certify = Certificar
 key-usage-authentication = Autenticação
 key-revoked-simple = A chave foi revogada
 key-do-you-accept = Você aceita esta chave para verificar assinaturas digitais e para criptografar mensagens?
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Não foi possível enviar a mensagem, porque há um problema com sua chave pessoal. { $problem }
+cannot-encrypt-because-missing = Não foi possível enviar esta mensagem com criptografia de ponta a ponta, porque há problemas com as chaves dos seguintes destinatários: { $problem }
+window-locked = A janela de edição está bloqueada; envio cancelado
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Parte criptografada da mensagem
+mime-decrypt-encrypted-part-concealed-data = Esta é uma parte criptografada da mensagem. Você precisa abrir em uma janela separada, clicando no anexo.
 keyserver-error-unknown = Ocorreu um erro desconhecido
 keyserver-error-server-error = O servidor de chaves relatou um erro.
 keyserver-error-import-error = Falha ao importar a chave baixada.
