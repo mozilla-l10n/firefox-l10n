@@ -161,6 +161,8 @@ openpgp-key-man-filter-label =
     .placeholder = Sök efter nycklar
 openpgp-key-man-select-all-key =
     .key = a
+openpgp-key-man-key-details-key =
+    .key = N
 openpgp-key-details-title =
     .title = Nyckelegenskaper
 openpgp-key-details-signatures-tab =
@@ -224,6 +226,14 @@ openpgp-description =
         [0] Thunderbird har inte en personlig OpenPGP-nyckel för <b>{ $identity }</b>
         [one] Thunderbird hittade { $count } personlig OpenPGP-nyckel associerad med <b>{ $identity }</b>
        *[other] Thunderbird hittade { $count } personliga OpenPGP-nycklar associerade med <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Välj en giltig nyckel för att aktivera OpenPGP-protokollet
+        [one] Din nuvarande konfiguration använder nyckel-ID <b>{ $key }</b>
+       *[other] Din nuvarande konfiguration använder nyckel-ID <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Din nuvarande konfiguration använder nyckeln <b>{ $key }</b> som har upphört.
