@@ -353,3 +353,16 @@ key-not-found = Chave '{ $key }' não encontrada
 key-revoked = Chave '{ $key }' revogada
 msg-compose-internal-error = Ocorreu um erro interno.
 keys-to-export = Selecione chaves OpenPGP a inserir
+msg-compose-cannot-save-draft = Erro ao salvar rascunho
+save-attachment-header = Salvar anexo descriptografado
+no-temp-dir =
+    Não foi possível encontrar um diretório temporário onde gravar
+    Defina a variável de ambiente TEMP
+cannot-send-sig-because-no-own-key = Não é possível assinar digitalmente esta mensagem, porque você ainda não configurou a criptografia de ponta a ponta de <{ $key }>
+cannot-send-enc-because-no-own-key = Não é possível enviar esta mensagem criptografada, porque você ainda não configurou a criptografia de ponta a ponta de <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importar as seguintes chaves?
+    { $key }
+do-import-one = Importar { $name } ({ $id })?
+cant-import = Erro ao importar chave pública
