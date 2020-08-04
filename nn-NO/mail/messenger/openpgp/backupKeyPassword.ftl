@@ -10,4 +10,5 @@ set-password-backup-pw =
     .value = Passord for sikkerheitskopi av hemmeleg nøkkel:
 set-password-repeat-backup-pw =
     .value = Passord for sikkerheitskopi av hemmeleg nøkkel (igjen):
+set-password-reminder = <b>Viktig!</b> Om du har sikkerheitskopipassordet ditt fot hemmeleg nøkkel vil du ikkje kunne stille tilbake denne sikkerheitskopien seinare. Lagre han på ein trygg plass.
 password-quality-meter = Kvalitetsmålar for passord
