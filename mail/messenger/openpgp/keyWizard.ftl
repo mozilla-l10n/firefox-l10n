@@ -63,9 +63,34 @@ openpgp-keygen-import-complete =
     .accesskey = M
 openpgp-keygen-missing-username = Për llogarinë e tanishme s’ka emër të përcaktuar. Ju lutemi, jepni një vlerë te fusha "Emri juaj" te rregullimet e llogarisë.
 openpgp-keygen-long-expiry = S’mund të krijoni një kyç që skadon për më tepër se 100 vjet.
+openpgp-keygen-short-expiry = Kyçi juaj duhet të jetë i vlefshëm për të paktën një ditë.
+openpgp-keygen-ongoing = Prodhim kyçi tashmë në kryerje e sipër!
+openpgp-keygen-error-core = S’arrihet të niset Shërbimi Bazë OpenPGP
+openpgp-keygen-error-failed = Prodhimi i Kyçit OpenPGP dështoi papritmas
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Kyçi OpenPGP u krijua me sukses, por s’u arrit të merrej shfuqizim për kyçin { $key }
+openpgp-keygen-abort-title = Të ndërpritet prodhimi i kyçit?
+openpgp-keygen-abort = Prodhim Kyçi OpenPGP aktualisht në kryerje e sipër, jeni i sigurt se doni të anulohet?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Të prodhohen kyç publik dhe i fshehtë për { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Importoni një Kyç personal ekzistues OpenPGP
+openpgp-import-key-legend = Përzgjidhni një kartelë të kopjeruajtur më parë.
+openpgp-import-key-description = Mund të importoni kyçe personale që qenë krijuar me tjetër program OpenPGP.
+openpgp-import-key-info = Tjetër program mund të përshkruajë një kyç personal duke përdorur terma alternativë, bie fjala, kyçi juaj, kyç i fshehtë, kyç privat ose çift kyçesh.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird-i gjeti një kyç që mund të importohet.
+       *[other] Thunderbird-i gjeti { $count } kyçe që mund të importohen.
+    }
+openpgp-import-key-list-description = Ripohoni cilët kyçe mund të trajtohen si kyçet tuaj personalë. Si kyçe personalë duhen përdorur vetëm kyçe që krijuat ju vetë dhe që shfaqin identitetin tuaj. Këtë mundësi mund ta ndryshoni më vonë që nga dialogu Veti Kyçi.
+openpgp-import-key-list-caption = Kyçet e shënuar për t’u trajtuar si Kyçe Personalë do të radhiten te ndarja Fshehtëzim Skaj-Më-Skaj. Të tjerët do të jenë të passhëm brenda Përgjegjësit të Kyçeve.
+openpgp-passphrase-prompt-title = Lypset frazëkalim
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Ju lutemi, jepni frazëkalimin që të shkyçet kyçi vijues: { $key }
 
 ## External Key section
 
