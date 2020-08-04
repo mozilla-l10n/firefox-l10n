@@ -19,6 +19,6 @@ crashed-comment =
 crashed-include-URL = { -brand-short-name }에 오류가 발생할 때 이용한 사이트의 URL을 포함합니다.
 crashed-email-placeholder = 이메일 주소를 입력하세요
 crashed-email-me = 추가 정보가 있을 경우 이메일 받기
-crashed-report-sent = 충돌 보고서를 이미 전송했습니다. { -brand-short-name }가 보다 나아지도록 도와주셔서 고맙습니다!
+crashed-report-sent = 충돌 보고서가 이미 전송되었습니다. { -brand-short-name } 개선에 도움을 주셔서 감사합니다.
 crashed-request-auto-submit-title = 배경 탭 보고하기
 crashed-auto-submit-checkbox = { -brand-short-name }에 오류가 발생했을 때 자동으로 보고서를 전송하도록 설정을 변경합니다.

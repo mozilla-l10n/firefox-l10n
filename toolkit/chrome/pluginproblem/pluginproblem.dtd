@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "충돌 보고서 보내기">
 <!ENTITY report.submitting                                   "보고서 전송 중…">
-<!ENTITY report.submitted                                    "충돌 보고서를 제출 합니다.">
+<!ENTITY report.submitted                                    "충돌 보고서를 제출합니다.">
 <!ENTITY report.disabled                                     "충돌 보고서가 비활성화 되었습니다.">
 <!ENTITY report.failed                                       "제출에 실패했습니다.">
 <!ENTITY report.unavailable                                  "제출할 리포트가 없습니다.">
