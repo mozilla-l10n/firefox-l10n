@@ -54,12 +54,16 @@ context-gone_secure_private = Initiate conversation private con { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_unverified = Initiate conversation cryptate, ma non verificate, con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Conversation cryptate con { $name } reinitiate con successo.
 error-enc = Un error occurreva durante que on cryptava le message.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Tu inviava a { $name } datos cryptate que ille non attendeva.
 error-unreadable = Tu transmitteva un message cryptate non legibile.
 error-malformed = Tu transmitteva un message de datos malformate.
+resent = [reinviate]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } ha terminate su conversation cryptate con te; tu debe facer le mesmo.
