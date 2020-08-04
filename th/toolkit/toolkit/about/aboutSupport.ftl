@@ -137,6 +137,7 @@ audio-backend = แบ็กเอนด์เสียง
 max-audio-channels = จำนวนแชนเนลสูงสุด
 channel-layout = เค้าโครงแชนเนลที่ต้องการ
 sample-rate = อัตราการสุ่มตัวอย่างที่ต้องการ
+roundtrip-latency = เวลาหน่วงในการเดินทางแบบเป็นรอบ (ค่าเบี่ยงเบนมาตรฐาน)
 media-title = สื่อ
 media-output-devices-title = อุปกรณ์ส่งออก
 media-input-devices-title = อุปกรณ์รับข้อมูล
