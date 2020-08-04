@@ -23,7 +23,9 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP kulcs előállítása
+openpgp-generate-key-info = <b>A kulcs előállítása akár néhány percet is igénybe vehet.</b> Ne zárja be az alkalmazást, amíg a kulcs előállítása folyamatban van. A kulcselőállítás során az aktív böngészés vagy a lemezintenzív műveletek feltöltik a „véletlenszerűségi készletet”, és ez felgyorsítja a folyamatot. Értesítést kap, amikor a kulcselőállítás befejeződött.
 openpgp-keygen-expiry-title = Kulcs lejárata
+openpgp-keygen-expiry-description = Adja meg az újonnan előállított kulcs lejárati idejét. Később is meghosszabbíthatja, ha szükséges.
 radio-keygen-expiry =
     .label = A kulcs lejár:
     .accesskey = e
@@ -53,6 +55,7 @@ openpgp-keygen-progress-title = Új OpenPGP-kulcs előállítása…
 openpgp-keygen-import-progress-title = OpenPGP-kulcsok importálása…
 openpgp-import-success = Az OpenPGP kulcsok importálása sikerült!
 openpgp-import-success-title = Importálási folyamat befejezése
+openpgp-import-success-description = Az importált OpenPGP-kulcs e-mail titkosításhoz történő használatához zárja be ezt a párbeszédablakot, és válassza ki a Fiókbeállításokban.
 openpgp-keygen-confirm =
     .label = Megerősítés
 openpgp-keygen-dismiss =
@@ -79,6 +82,14 @@ openpgp-key-confirm = Előállítja a nyilvános és titkos kulcsot { $identity 
 
 openpgp-import-key-title = Meglévő személyes OpenPGP-kulcs importálása
 openpgp-import-key-legend = Válasszon egy korábbi biztonsági mentési fájlt.
+openpgp-import-key-description = Importálhat személyes kulcsokat más OpenPGP-t használó szoftverekből.
+openpgp-import-key-info = Más szoftverek másként nevezhetik a személyes kulcsot, például: saját kulcs, titkos kulcs, privát kulcs vagy kulcspár.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] A Thunderbird egy kulcsot talált, amely importálható.
+       *[other] A Thunderbird { $count } kulcsot talált, amely importálható.
+    }
 openpgp-passphrase-prompt-title = Jelmondat szükséges
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Írja be a jelmondatot a következő kulcs feloldásához: { $key }
