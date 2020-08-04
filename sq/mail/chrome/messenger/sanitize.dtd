@@ -24,6 +24,9 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Hollësi">
 <!ENTITY detailsProgressiveDisclosure.accesskey "h">
 
+
+<!ENTITY historyGroup.label                "Historik">
+
 <!ENTITY itemHistory.label                 "Historik Shfletimi">
 <!ENTITY itemHistory.accesskey             "S">
 <!ENTITY itemCookies.label                 "Cookies">
