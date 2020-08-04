@@ -576,7 +576,14 @@ junk-log-button =
 reset-junk-button =
     .label = Reinitialisar datos de exercitation
     .accesskey = R
+phishing-description = { -brand-short-name } pote analysar messages pro fraudes via emails suspecte per recerca del commun technicas usate pro illuder te.
+phishing-label =
+    .label = Dice me si le message que io lege es un suspecte fraude via email
+    .accesskey = D
 antivirus-description = { -brand-short-name } pote facilitar al programmas antivirus de deteger viruses in le messages de posta entrante ante que illos se immagazina localmente.
+antivirus-label =
+    .label = Permitter que programmas antivirus mitte in quarantena singule messages entrante
+    .accesskey = P
 certificate-description = Quando un servitor requesta mi certificato personal:
 certificate-auto =
     .label = Selectionar un automaticamente
@@ -599,6 +606,10 @@ security-devices-button =
 startup-label =
     .value = Quando { -brand-short-name } es initiate:
     .accesskey = i
+offline-label =
+    .label = Mantene mi contos chat sin connexion
+auto-connect-label =
+    .label = Connecter automaticamente mi contos chat
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -609,9 +620,16 @@ startup-label =
 idle-label =
     .label = Informar mi contactos que io es inactive post
     .accesskey = p
+idle-time-label = minutas de inactivitate
 
 ##
 
+away-message-label =
+    .label = e configura mi stato a Non disponibile con iste message de stato:
+    .accesskey = N
+send-typing-label =
+    .label = Invia avisos de scriptura in conversationes
+    .accesskey = I
 show-notification-label =
     .label = Monstrar un notification
     .accesskey = M
@@ -641,9 +659,12 @@ style-bubbles =
     .label = Bullas
 style-dark =
     .label = Obscur
+style-paper =
+    .label = Folios de papiro
 style-simple =
     .label = Simple
 preview-label = Vista preliminar:
+no-preview-label = Nulle vista preliminar disponibile
 no-preview-description = Iste thema non es valide o es actualmente indisponibile (ha disactivate additivo, safe-mode, …).
 chat-variant-label =
     .value = Variante:
