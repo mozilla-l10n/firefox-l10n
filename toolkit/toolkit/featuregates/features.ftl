@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Yn galluogi cefnogaeth arbrofol i Weithwyr Gwasanaeth yn y panel Dadfygiwr. Efallai y bydd y nodwedd hon yn arafu'r Offer Datblygwr ac yn cynyddu'r defnydd o gof.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Graffeg: Chwyddo Pinsio Llyfn
+experimental-features-graphics-desktop-zooming-description = Galluogi cefnogaeth i binsio llyfn chwyddo ar sgriniau cyffwrdd a phadiau cyffwrdd manwl gywir.
