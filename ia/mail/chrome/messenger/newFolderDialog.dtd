@@ -4,8 +4,12 @@
 
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Nove dossier">
+<!ENTITY name.label                 "Nomine:">
+<!ENTITY name.accesskey             "n">
 <!ENTITY description.label          "Crear como subdossier de:">
+<!ENTITY description.accesskey      "c">
 <!ENTITY folderRestriction1.label   "Iste servitor accepta solmente duo typos special de dossier.">
 <!ENTITY folderRestriction2.label   "Permitter que tu nove dossier contine:">
 <!ENTITY foldersOnly.label          "Dossiers solmente">
 <!ENTITY accept.label               "Crear dossier">
+<!ENTITY accept.accesskey           "r">
