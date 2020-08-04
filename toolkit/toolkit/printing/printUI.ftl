@@ -39,6 +39,11 @@ printui-scale-fit-to-page = Adatta alla pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Ridimensiona
 
+# Section title for miscellaneous print options
+printui-options = Opzioni
+printui-headers-footers-checkbox = Stampa intestazioni e piè di pagina
+printui-backgrounds-checkbox = Stampa sfondi
+
 printui-system-dialog-link = Stampa utilizzando la finestra di dialogo del sistema…
 
 printui-primary-button = Stampa
