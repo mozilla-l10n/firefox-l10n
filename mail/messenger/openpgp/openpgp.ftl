@@ -329,3 +329,27 @@ save-revoke-cert-as = Criar e salvar certificado de revogação
 revoke-cert-ok = O certificado de revogação foi criado com sucesso. Você pode usar para invalidar sua chave pública, por exemplo no caso de perder sua chave secreta.
 revoke-cert-failed = O certificado de revogação não pôde ser criado.
 gen-going = Geração de chaves já em andamento!
+keygen-missing-user-name = Não há um nome especificado na conta/identidade selecionada. Digite algo no campo "Seu nome" nas configurações da conta.
+expiry-too-short = Sua chave precisa ser válida por pelo menos um dia.
+key-confirm = Gerar chaves pública e secreta para '{ $id }'?
+key-man-button-generate-key = &Gerar chaves
+key-man-button-generate-key-continue = &Continuar geração de chaves
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Erro - Falha na descriptografia
+fix-broken-exchange-msg-failed = Não foi possível reparar a mensagem.
+signature-verified-ok = A assinatura do anexo { $attachment } foi verificada com sucesso
+signature-verify-failed = A assinatura do anexo { $attachment } não pôde ser verificada
+decrypt-ok-no-sig =
+    Aviso
+    A descriptografia foi bem-sucedida, mas a assinatura não pôde ser verificada corretamente
+msg-ovl-button-cont-anyway = &Continuar assim mesmo
+enig-content-note = *Anexos desta mensagem não foram assinados nem criptografados*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Enviar mensagem
+msg-compose-details-button-label = Detalhes…
+msg-compose-details-button-access-key = D
+key-not-trusted = Confiança insuficiente na chave '{ $key }'
+key-not-found = Chave '{ $key }' não encontrada
+key-revoked = Chave '{ $key }' revogada
+msg-compose-internal-error = Ocorreu um erro interno.
+keys-to-export = Selecione chaves OpenPGP a inserir
