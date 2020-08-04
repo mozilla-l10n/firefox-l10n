@@ -31,6 +31,10 @@ printui-scale = קנה מידה
 printui-scale-fit-to-page = התאמה לעמוד
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = קנה מידה
+# Section title for miscellaneous print options
+printui-options = אפשרויות
+printui-headers-footers-checkbox = הדפסת כותרות עיליות ותחתיות
+printui-backgrounds-checkbox = הדפסת רקעים
 printui-system-dialog-link = הדפסה באמצעות תיבת הדו־שיח של המערכת…
 printui-primary-button = הדפסה
 printui-cancel-button = ביטול
