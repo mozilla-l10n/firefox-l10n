@@ -32,6 +32,10 @@ printui-scale = Масштаб
 printui-scale-fit-to-page = Припасувати до сторінки
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Масштаб
+# Section title for miscellaneous print options
+printui-options = Параметри
+printui-headers-footers-checkbox = Друкувати колонтитули
+printui-backgrounds-checkbox = Друкувати тло
 printui-system-dialog-link = Друк за допомогою засобу системи…
 printui-primary-button = Надрукувати
 printui-cancel-button = Скасувати
