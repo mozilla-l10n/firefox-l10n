@@ -15,6 +15,9 @@ radio-create-key =
 radio-import-key =
     .label = Importer ein eksisterande OpenPGP-nøkkel
     .accesskey = I
+radio-gnupg-key =
+    .label = Bruk den eksterne nøkkelen din gjennom GnuPG (t.d. frå eit smartkort)
+    .accesskey = A
 
 ## Generate key section
 
@@ -58,6 +61,7 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Lat att
     .accesskey = L
+openpgp-keygen-long-expiry = Du kan ikkje lage ein nøkkel som går ut seinare enn 100 år.
 openpgp-keygen-short-expiry = Nøkkelen din må minst vere gyldig i ein dag.
 openpgp-keygen-ongoing = Nøkkelgenerering er allereie i gang!
 openpgp-keygen-abort-title = Avbryte nøkkelgenerering?
