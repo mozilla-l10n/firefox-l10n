@@ -55,9 +55,35 @@ openpgp-keygen-progress-title = Cynhyrchu eich Allwedd OpenPGP newydd ...
 openpgp-keygen-import-progress-title = Mewnforio eich Allweddi OpenPGP...
 openpgp-import-success = Allweddi OpenPGP wedi'u mewnforio'n llwyddiannus!
 openpgp-import-success-title = Cwblhewch y broses fewnforio
+openpgp-import-success-description = I ddechrau defnyddio'ch allwedd OpenPGP wedi'i fewnforio ar gyfer amgryptio e-bost, caewch y dialog hwn ac ewch i'ch Gosodiadau Cyfrif i'w ddewis.
+openpgp-keygen-confirm =
+    .label = Cadarnhau
+openpgp-keygen-dismiss =
+    .label = Diddymu
+openpgp-keygen-cancel =
+    .label = Diddymu'r broses ...
+openpgp-keygen-import-complete =
+    .label = Cau
+    .accesskey = C
+openpgp-keygen-missing-username = Nid oes enw wedi'i nodi ar gyfer y cyfrif cyfredol. Rhowch werth yn y maes "Eich enw" yng ngosodiadau'r cyfrif.
+openpgp-keygen-long-expiry = Nid oes modd i chi greu allwedd sy'n dod i ben mewn mwy na 100 mlynedd.
+openpgp-keygen-short-expiry = Rhaid i'ch allwedd fod yn ddilys am o leiaf un diwrnod.
+openpgp-keygen-ongoing = Eisoes wrthi'n cynhyrchu allwedd!
+openpgp-keygen-error-core = Methu cychwyn Gwasanaeth Craidd OpenPGP
+openpgp-keygen-error-failed = Yn annisgwyl, methwyd cynhyrchu allwedd OpenPGP
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Crëwyd Allwedd OpenPGP yn llwyddiannus, ond methodd â chael dirymiad ar gyfer allwedd { $key }
+openpgp-keygen-abort-title = Atal cynhyrchu allwedd?
+openpgp-keygen-abort = Mae cynhyrchu allwedd OpenPGP ar y gweill ar hyn o bryd, a ydych chi'n siŵr eich bod am ei ddiddymu?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Cynhyrchu allwedd gyhoeddus a chyfrinachol ar gyfer { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Mewnforio Allwedd OpenPGP personol sy'n bodoli eisoes
+openpgp-import-key-legend = Dewis ffeil a gadwyd wrth gefn.
+openpgp-import-key-description = Gallwch fewnforio allweddi personol a gafodd eu creu gyda meddalwedd OpenPGP arall.
+openpgp-import-key-info = Gall meddalwedd arall ddisgrifio allwedd bersonol gan ddefnyddio termau amgen fel eich allwedd eich hun, allwedd gyfrinachol, allwedd breifat neu bar o allweddi.
 
 ## External Key section
 
