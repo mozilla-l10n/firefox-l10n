@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+key-wizard-button =
+    .buttonlabelaccept = Avançar
+    .buttonlabelhelp = Voltar
 key-wizard-learn-more = Saiba mais
 radio-create-key =
     .label = Criar uma nova chave OpenPGP
@@ -24,6 +27,7 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = anos
 openpgp-keygen-advanced-title = Configurações avançadas
+openpgp-keygen-advanced-description = Controle as configurações avançadas da sua chave OpenPGP.
 openpgp-keygen-keytype =
     .value = Tipo de chave:
     .accesskey = t
@@ -39,20 +43,26 @@ openpgp-keygen-progress-title = Gerando sua nova chave OpenPGP…
 openpgp-keygen-import-progress-title = Importando suas chaves OpenPGP…
 openpgp-import-success = Chaves OpenPGP importadas com sucesso!
 openpgp-import-success-title = Concluir o processo de importação
+openpgp-import-success-description = Para começar a usar sua chave OpenPGP importada em criptografia de e-mail, feche este diálogo e acesse as configurações da conta para selecionar a chave.
 openpgp-keygen-confirm =
     .label = Confirmar
 openpgp-keygen-dismiss =
     .label = Cancelar
+openpgp-keygen-cancel =
+    .label = Cancelar processo…
 openpgp-keygen-import-complete =
     .label = Fechar
     .accesskey = F
 openpgp-keygen-short-expiry = Sua chave precisa ser válida por pelo menos um dia.
 openpgp-keygen-ongoing = Geração de chaves já em andamento!
 openpgp-keygen-error-failed = Geração de chaves OpenPGP falhou inesperadamente
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Gerar chaves pública e secreta para { $identity }?
 
 ## Import Key section
 
 openpgp-import-key-title = Importar uma chave pessoal OpenPGP existente
+openpgp-import-key-legend = Selecione um arquivo de backup criado anteriormente.
 openpgp-import-key-description = Você pode importar chaves pessoais criadas com outro software OpenPGP.
 openpgp-import-key-info = Outros softwares podem descrever uma chave pessoal usando termos alternativos, como chave própria, chave secreta, chave privada ou par de chaves.
 #   $count (Number) - the number of keys found in the selected files
@@ -63,9 +73,13 @@ openpgp-import-key-list-amount =
     }
 openpgp-import-key-list-description = Confirme quais podem ser tratadas como suas chaves pessoais. Somente chaves que você criou e que mostram sua própria identidade devem ser usadas como chaves pessoais. Você pode alterar esta opção mais tarde no diálogo de propriedades da chave.
 openpgp-import-key-list-caption = Chaves marcadas para ser tratadas como chaves pessoais aparecem na seção de criptografia de ponta a ponta. As outras ficam disponíveis no gerenciador de chaves.
+openpgp-passphrase-prompt-title = A senha é obrigatória
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Digite a senha para desbloquear a seguinte chave: { $key }
 openpgp-import-key-button =
     .label = Selecionar arquivo a importar…
     .accesskey = S
+import-key-file = Importar arquivo de chave OpenPGP
 import-key-personal-checkbox =
     .label = Tratar esta chave como uma chave pessoal
 gnupg-file = Arquivos GnuPG
@@ -85,5 +99,7 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Chave GnuPG externa
+openpgp-external-key-info = Além disso, você deve usar o gerenciador de chaves para importar e aceitar a chave pública correspondente.
+openpgp-external-key-warning = <b>Você só pode configurar uma chave GnuPG externa.</b> Sua entrada anterior será substituída.
 openpgp-external-key-input =
     .placeholder = 123456789341298340

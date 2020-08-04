@@ -272,5 +272,6 @@ import-key-confirm = Importar chave(s) pública(s) incorporada(s) na mensagem?
 fail-key-import = Erro - Falha na importação de chave
 file-write-failed = Falha ao gravar no arquivo { $output }
 # Strings used in trust.jsm
-key-valid-unknown = desconhecido
+key-valid-unknown = desconhecida
 key-valid-invalid = inválida
+key-valid-disabled = desativada
