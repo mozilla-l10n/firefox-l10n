@@ -18,6 +18,22 @@ experimental-features-avif =
 experimental-features-avif-description = Prisa en carga experimentala pel format d’imagte AVIF : AV1 Image File Format
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API : WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Mèdia : AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API : <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS : Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS : fuèlh d’estil constructibla
 # The title of the experiment should be kept in English as it may be referenced
