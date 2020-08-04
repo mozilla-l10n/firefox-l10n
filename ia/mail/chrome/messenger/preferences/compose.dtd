@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Adresses">
 <!ENTITY itemSpellCheck.label                "Orthographia">
 
+<!ENTITY dialogCompose.title                 "Componente">
 
 <!ENTITY forwardMsg.label                     "Inviar ultra messages:">
 <!ENTITY forwardMsg.accesskey                 "u">
@@ -41,10 +42,27 @@
 <!ENTITY warnOnSendAccelKey.label             "Confirmar per le via breve de claviero quando inviar message">
 <!ENTITY warnOnSendAccelKey.accesskey         "C">
 <!ENTITY autoSave.label                       "Salvar automaticamente cata">
+<!ENTITY autoSave.accesskey                   "S">
 <!ENTITY autoSaveEnd.label                    "minutas">
 
 <!ENTITY emailCollectionPicker.label           "Adder automaticamente le adresses de posta exiente a mi:">
+<!ENTITY emailCollectionPicker.accesskey       "A">
+<!ENTITY addressingTitle.label                 "Autocompletion del adresse">
+<!ENTITY autocompleteText.label                "Quando tu scribe le adresse del messages, presta attention al entratas concordante in:">
+<!ENTITY addressingEnable.label                "Libros del adresses local">
+<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY directories.label                     "Servitor de directorio:">
+<!ENTITY directories.accesskey                 "d">
+<!ENTITY directoriesNone.label                 "Nulle">
+<!ENTITY editDirectories.label                 "Redaction de directorios…">
+<!ENTITY editDirectories.accesskey             "R">
+<!ENTITY showAsDefault.label                   "Directorio initial in le fenestra de libro del adresses:">
+<!ENTITY showAsDefault.accesskey               "i">
+<!ENTITY showAsDefaultLast.label               "Ultime directorio usate">
 
+<!ENTITY sendOptionsDescription.label          "Configurar comportamento del formato texto">
+<!ENTITY sendOptions.label                     "Inviar optiones…">
+<!ENTITY sendOptions.accesskey                 "I">
 
 <!ENTITY attachmentReminder.label              "Deteger omission de annexos">
 <!ENTITY attachmentReminder.accesskey          "o">
