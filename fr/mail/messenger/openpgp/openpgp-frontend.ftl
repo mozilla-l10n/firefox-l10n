@@ -32,6 +32,7 @@ openpgp-broken-exchange-repair =
     .label = Réparer le message
 openpgp-broken-exchange-wait = Veuillez patienter…
 openpgp-cannot-decrypt-because-mdc = Ce message chiffré a recours à un mécanisme ancien et vulnérable. Il a pu être modifié pendant sa transmission, avec l’intention de dérober son contenu. Pour éviter ce risque, le contenu n’est pas affiché.
+openpgp-cannot-decrypt-because-missing-key = La clé secrète nécessaire pour déchiffrer ce message n’est pas disponible.
 openpgp-partially-signed =
     Seule une partie de ce message a été signée numériquement à l’aide d’OpenPGP.
     Si vous cliquez sur le bouton Vérifier, les parties non protégées seront masquées et l’état de la signature numérique sera affiché.
