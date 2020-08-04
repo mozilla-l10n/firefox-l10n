@@ -63,6 +63,34 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Shërbyes kyçesh
     .accesskey = b
+openpgp-key-man-close =
+    .label = Mbylle
+openpgp-key-man-change-expiry =
+    .label = Ndryshoni Datën e Skadimit
+    .accesskey = S
+openpgp-key-man-key-more =
+    .label = Më tepër
+    .accesskey = M
+openpgp-key-man-user-id-label =
+    .label = Emër
+openpgp-key-man-fingerprint-label =
+    .label = Shenja gishtash
+openpgp-key-man-select-all =
+    .label = Përzgjidhi Krejt Kyçet
+    .accesskey = K
+openpgp-key-details-signatures-tab =
+    .label = Dëshmi
+openpgp-key-details-structure-tab =
+    .label = Strukturë
+openpgp-key-details-id-label =
+    .label = ID
+openpgp-key-details-key-type-label = Lloj
+openpgp-key-details-algorithm-label =
+    .label = Algoritëm
+openpgp-key-details-size-label =
+    .label = Madhësi
+openpgp-key-details-usage-label =
+    .label = Përdorim
 
 ## e2e encryption settings
 
