@@ -4,4 +4,7 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewSetupTitle.label "Parametros de visualisation">
+<!ENTITY mailViewSetupTitle.label "Parametros de visualisation message">
+<!ENTITY mailViewHeading.label "Nomine vista message:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Quando es eligite iste vista, monstrar solo messages que:">
