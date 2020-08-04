@@ -25,3 +25,4 @@ openpgp-enc-key-id = ID-ja e kyçit tuaj të shfshehtëzimeve: { $key }
 openpgp-enc-key-with-subkey-id = ID-ja e kyçit tuaj të shfshehtëzimeve: { $key } (ID nënkyçi: { $subkey })
 openpgp-unknown-key-id = Kyç i panjohur
 openpgp-other-enc-additional-key-ids = Veç kësaj, mesazhi qe fshehtëzuar për të zotët e kyçeve vijues:
+openpgp-other-enc-all-key-ids = Mmesazhi qe fshehtëzuar për të zotët e kyçeve vijues:
