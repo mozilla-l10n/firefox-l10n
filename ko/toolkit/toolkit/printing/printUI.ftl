@@ -30,6 +30,10 @@ printui-scale = 배율
 printui-scale-fit-to-page = 페이지에 맞추기
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 배율
+# Section title for miscellaneous print options
+printui-options = 옵션
+printui-headers-footers-checkbox = 머리글 및 바닥글 인쇄
+printui-backgrounds-checkbox = 배경 인쇄
 printui-system-dialog-link = 시스템 대화 상자를 사용하여 인쇄…
 printui-primary-button = 인쇄
 printui-cancel-button = 취소
