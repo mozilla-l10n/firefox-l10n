@@ -87,3 +87,4 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafik: Smidig nypzoom
+experimental-features-graphics-desktop-zooming-description = Aktivera stöd för smidig nypzoomning på pekskärmar och precision touchpads.
