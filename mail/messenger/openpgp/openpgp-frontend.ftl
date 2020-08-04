@@ -39,3 +39,10 @@ openpgp-cannot-decrypt-because-missing-key = Nid yw'r allwedd gyfrinachol sy'n o
 openpgp-partially-signed =
     Dim ond is-set o'r neges hon a lofnodwyd yn ddigidol gan ddefnyddio OpenPGP.
     Os cliciwch y botwm gwirio, bydd y rhannau heb ddiogelwch yn cael eu cuddio, a bydd statws y llofnod digidol yn cael ei ddangos.
+openpgp-partially-encrypted =
+    Dim ond is-set o'r neges hon a amgryptiwyd gan ddefnyddio OpenPGP.
+    Nid yw rhannau darllenadwy o'r neges sy'n cael eu dangos eisoes wedi eu hamgryptio.
+    Os cliciwch y botwm dadgryptio, bydd cynnwys y rhannau wedi'u hamgryptio yn cael eu dangos.
+openpgp-reminder-partial-display = Nodyn i'ch atgoffa: Dim ond is-set o'r neges wreiddiol yw'r neges sy'n cael ei ddangos isod.
+openpgp-partial-verify-button = Gwirio
+openpgp-partial-decrypt-button = Dadgryptio
