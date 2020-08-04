@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+#   $identity (String) - the email address of the currently selected identity
+key-wizard-dialog-window =
+    .title = Shtoni një Kyç Personal OpenPGP për { $identity }
 key-wizard-button =
     .buttonlabelaccept = Vazhdo
     .buttonlabelhelp = Kthehu mbrapsht
+key-wizard-warning = <b>Nëse keni një kyç personal ekzistues</b> për këtë adresë email, duhet ta importoni. Përndryshe, s’do të mund të hyni te email-et tuaj të fshehtëzuar të arkivuar, as do të jeni në gjendje të lexoni email-e të fshehtëzuar që vijnë nga persona të cilët përdorin ende kyçin tuaj ekzistues.
 key-wizard-learn-more = Mësoni më tepër
 radio-create-key =
     .label = Krijoni një Kyç të ri OpenPGP
@@ -91,6 +95,33 @@ openpgp-import-key-list-caption = Kyçet e shënuar për t’u trajtuar si Kyçe
 openpgp-passphrase-prompt-title = Lypset frazëkalim
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Ju lutemi, jepni frazëkalimin që të shkyçet kyçi vijues: { $key }
+openpgp-import-key-button =
+    .label = Përzgjidhni Kartelë për Importim…
+    .accesskey = P
+import-key-file = Importo Kartelë Kyçi OpenPGP
+import-key-personal-checkbox =
+    .label = Trajtoje këtë si një Kyç Personal
+gnupg-file = Kartela GnuPG
+import-error-file-size = <b>Gabim!</b> Nuk mbulohen kartela më të mëdha se 5MB.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Gabim!</b> S’u arrit të importohej kartelë. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Gabim!</b> S’u arrit të importohen kyçe. { $error }
+openpgp-import-identity-label = Identitet
+openpgp-import-fingerprint-label = Shenja gishtash
+openpgp-import-created-label = U krijua
+openpgp-import-bits-label = Bite
+openpgp-import-key-props =
+    .label = Veti Kyçi
+    .accesskey = V
 
 ## External Key section
 
+openpgp-external-key-title = Kyç GnuPG i Jashtëm
+openpgp-external-key-description = Formësoni një kyç të jashtëm duke dhënë ID-në e Kyçit
+openpgp-external-key-info = Veç kësaj, duhet të përdorni Përgjegjës Kyçesh për të importuar dhe pranuar Kyçin Publik përkatës.
+openpgp-external-key-warning = <b>Mund të formësoni vetëm një Kyç të jashtëm GnuPG.</b> Zëri juaj i mëparshëm do të zëvendësohet.
+openpgp-save-external-button = Ruaj ID kyçi
+openpgp-external-key-label = ID Kyçi të Fshehtë:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
