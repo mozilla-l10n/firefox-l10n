@@ -84,3 +84,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Utvecklarverktyg: Felsökning av Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Aktiverar experimentellt stöd för Service Workers i felsökningspanelen. Den här funktionen kan få utvecklarverktygen att gå långsammare och öka minnesförbrukningen.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafik: Smidig nypzoom
