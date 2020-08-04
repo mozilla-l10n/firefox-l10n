@@ -6,6 +6,10 @@
 
 
 
+<!ENTITY plainTextAndHtml.label "Inviar in texto simple e HTML">
+<!ENTITY plainTextAndHtml.accesskey "i">
+<!ENTITY plainTextOnly.label "Inviar solo in texto simple">
+<!ENTITY plainTextOnly.accesskey "s">
 <!ENTITY htmlOnly.label "Inviar solo in HTML">
 <!ENTITY htmlOnly.accesskey "H">
 
