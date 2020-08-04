@@ -55,6 +55,9 @@ openpgp-key-man-edit-menu =
 openpgp-key-man-view-menu =
     .label = Affichage
     .accesskey = A
+openpgp-key-man-keyserver-menu =
+    .label = Serveur de clés
+    .accesskey = S
 
 ## e2e encryption settings
 
