@@ -297,6 +297,8 @@ key-man-button-import = &Importar
 delete-key-title = Excluir chave OpenPGP
 delete-external-key-title = Remover a chave GnuPG externa
 key-in-use-title = Chave OpenPGP em uso no momento
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Não foi possível encontrar nenhuma chave que corresponda aos critérios de pesquisa especificados.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Erro - Falha no comando de extração de chave
 # Strings used in keyRing.jsm
@@ -305,7 +307,25 @@ not-first-block = Erro - Primeiro bloco OpenPGP não é bloco de chave pública
 import-key-confirm = Importar chave(s) pública(s) incorporada(s) na mensagem?
 fail-key-import = Erro - Falha na importação de chave
 file-write-failed = Falha ao gravar no arquivo { $output }
+confirm-permissive-import = Falha na importação. A chave que você está tentando importar pode estar corrompida ou usar atributos desconhecidos. Quer tentar importar as partes que estão corretas? Isso pode resultar na importação de chaves incompletas e inutilizáveis.
 # Strings used in trust.jsm
 key-valid-unknown = desconhecida
 key-valid-invalid = inválida
 key-valid-disabled = desativada
+key-valid-revoked = revogada
+key-trust-untrusted = não confiável
+key-trust-marginal = marginal
+key-trust-full = confiável
+key-trust-group = (grupo)
+# Strings used in commonWorkflows.js
+import-key-file = Importar arquivo de chave OpenPGP
+import-rev-file = Importar arquivo de revogação OpenPGP
+gnupg-file = Arquivos GnuPG
+import-keys-failed = Falha na importação das chaves
+passphrase-prompt = Digite a senha que desbloqueia a seguinte chave: { $key }
+file-to-big-to-import = Este arquivo é grande demais. Não importe um conjunto grande de chaves de uma só vez.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Criar e salvar certificado de revogação
+revoke-cert-ok = O certificado de revogação foi criado com sucesso. Você pode usar para invalidar sua chave pública, por exemplo no caso de perder sua chave secreta.
+revoke-cert-failed = O certificado de revogação não pôde ser criado.
+gen-going = Geração de chaves já em andamento!
