@@ -64,11 +64,21 @@ openpgp-keygen-import-complete =
 openpgp-keygen-long-expiry = Du kan ikkje lage ein nøkkel som går ut seinare enn 100 år.
 openpgp-keygen-short-expiry = Nøkkelen din må minst vere gyldig i ein dag.
 openpgp-keygen-ongoing = Nøkkelgenerering er allereie i gang!
+openpgp-keygen-error-core = Klarte ikkje å initialisere OpenPGP Core Service
 openpgp-keygen-abort-title = Avbryte nøkkelgenerering?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Generer ein offentleg og hemmeleg nøkkel for { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Importer ein eksisterande personleg OpenPGP-nøkkel
 openpgp-import-key-legend = Vel ei tidlegare sikkerheitskopiert fil.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird fann ein nøkkel som kan importerast.
+       *[other] Thunderbird fann { $count } nøklar som kan importerast.
+    }
 openpgp-import-key-button =
     .label = Vel ei fil å importere…
     .accesskey = V
