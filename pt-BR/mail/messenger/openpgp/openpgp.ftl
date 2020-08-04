@@ -366,3 +366,21 @@ do-import-multiple =
     { $key }
 do-import-one = Importar { $name } ({ $id })?
 cant-import = Erro ao importar chave pública
+key-in-message-body = Uma chave foi encontrada no corpo da mensagem. Clique em 'Importar chave' para importar a chave
+invalid-email = Erro - Endereço(s) de e-mail inválido(s)
+dlg-button-view = &Ver
+# Strings used in windows.jsm
+no-photo-available = Nenhuma foto disponível
+error-photo-path-not-readable = O caminho da foto '{ $photo }' não é legível
+# Strings used in dialog.jsm
+repeat-prefix = Este alerta se repete { $count }
+repeat-suffix-singular = vez mais.
+repeat-suffix-plural = vezes mais.
+no-repeat = Este alerta não será exibido novamente.
+dlg-keep-setting = Lembrar minha resposta e não perguntar novamente
+dlg-button-ok = &OK
+dlg-button-close = &Fechar
+dlg-button-cancel = &Cancelar
+dlg-no-prompt = Não mostrar esse diálogo novamente
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Tentar novamente

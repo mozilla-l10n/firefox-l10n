@@ -26,9 +26,15 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Esta mensagem foi assinada com uma chave que você ainda não tem.
 openpgp-search-signature-key =
     .label = Descobrir…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = Esta é uma mensagem OpenPGP que aparentemente foi corrompida pelo MS-Exchange. Se o conteúdo da mensagem não for exibido conforme o esperado, você pode tentar um reparo automático.
 openpgp-broken-exchange-repair =
     .label = Reparar mensagem
 openpgp-broken-exchange-wait = Aguarde…
+openpgp-cannot-decrypt-because-mdc =
+    Esta é uma mensagem criptografada que usa um mecanismo antigo e vulnerável.
+    Pode ter sido modificado enquanto estava em trânsito, com a intenção de roubar seu conteúdo.
+    Para evitar esse risco, o conteúdo não é exibido.
 openpgp-cannot-decrypt-because-missing-key = A chave secreta necessária para descriptografar esta mensagem não está disponível.
 openpgp-reminder-partial-display = Lembrete: A mensagem exibida abaixo é apenas um subconjunto da mensagem original.
 openpgp-partial-verify-button = Verificar
