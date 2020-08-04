@@ -91,6 +91,11 @@ openpgp-key-details-size-label =
     .label = Madhësi
 openpgp-key-details-usage-label =
     .label = Përdorim
+openpgp-key-details-fingerprint-label = Shenja gishtash
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Mbylle
+openpgp-copy-cmd-label =
+    .label = Kopjoje
 
 ## e2e encryption settings
 
