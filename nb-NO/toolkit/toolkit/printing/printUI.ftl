@@ -31,6 +31,10 @@ printui-scale = Skalering
 printui-scale-fit-to-page = Tilpass til side
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalering
+# Section title for miscellaneous print options
+printui-options = Innstillinger
+printui-headers-footers-checkbox = Skriv ut topptekst og bunntekst
+printui-backgrounds-checkbox = Skriv ut bakgrunner
 printui-system-dialog-link = Skriv ut ved hjelp av systemdialogvinduet…
 printui-primary-button = Skriv ut
 printui-cancel-button = Avbryt
