@@ -23,6 +23,38 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Cynhyrchu Allwedd OpenPGP
+openpgp-generate-key-info = <b>Gall cynhyrchu allweddol gymryd rhai munudau i'w gwblhau.</b> Peidiwch â gadael y rhaglen tra bo'r allwedd yn cael ei gynhyrchu. Bydd pori neu berfformio gweithrediadau disg-ddwys yn ystod cynhyrchu'r allwedd yn ailgyflenwi'r 'gronfa ar hap' ac yn cyflymu'r broses. Cewch eich rhybuddio pan fydd cynhyrchu'r allweddol wedi'i gwblhau.
+openpgp-keygen-expiry-title = Allwedd yn dod i ben
+openpgp-keygen-expiry-description = Diffiniwch amser dod i ben eich allwedd sydd newydd ei chynhyrchu. Yn ddiweddarach, gallwch reoli'r dyddiad i'w ymestyn os oes angen.
+radio-keygen-expiry =
+    .label = Allwedd yn dod i ben ar
+    .accesskey = l
+radio-keygen-no-expiry =
+    .label = Nid yw'r allwedd yn dod i ben
+    .accesskey = N
+openpgp-keygen-days-label =
+    .label = diwrnod
+openpgp-keygen-months-label =
+    .label = mis
+openpgp-keygen-years-label =
+    .label = blwyddyn
+openpgp-keygen-advanced-title = Gosodiadau uwch
+openpgp-keygen-advanced-description = Rheoli gosodiadau uwch eich Allwedd OpenPGP.
+openpgp-keygen-keytype =
+    .value = Math o allwedd:
+    .accesskey = M
+openpgp-keygen-keysize =
+    .value = Maint yr allwedd:
+    .accesskey = a
+openpgp-keygen-type-rsa =
+    .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (Cromlin Elliptig)
+openpgp-keygen-button = Cynhyrchu allwedd
+openpgp-keygen-progress-title = Cynhyrchu eich Allwedd OpenPGP newydd ...
+openpgp-keygen-import-progress-title = Mewnforio eich Allweddi OpenPGP...
+openpgp-import-success = Allweddi OpenPGP wedi'u mewnforio'n llwyddiannus!
+openpgp-import-success-title = Cwblhewch y broses fewnforio
 
 ## Import Key section
 
