@@ -39,4 +39,5 @@
 <!ENTITY input.namePlaceholder "Tu nomine, o pseudonymo">
 <!ENTITY input.search "Cercar">
 <!ENTITY search_engine.title "Personalisa tu motor de recerca">
+<!ENTITY search_engine.message "Tu fornitor de servicios email pote alsi fornir te capacitates de recerca web.">
 <!ENTITY search_engine.button "Finir">
