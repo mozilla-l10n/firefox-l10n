@@ -17,6 +17,7 @@ openpgp-ctx-import-key =
 openpgp-ctx-verify-att =
     .label = Verificar assinatura
     .accesskey = V
+openpgp-has-sender-key = Esta mensagem alega conter a chave pública OpenPGP do remetente.
 openpgp-import-sender-key =
     .label = Importar…
 openpgp-search-keys-openpgp =
