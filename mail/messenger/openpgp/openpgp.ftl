@@ -65,6 +65,10 @@ openpgp-key-man-keyserver-menu =
 
 ## OpenPGP Key selection area
 
+openpgp-manager-description = Utilisez le gestionnaire de clés OpenPGP pour consulter et gérer les clés publiques de vos correspondants, ainsi que l’ensemble des autres clés non répertoriées ci-dessus.
+openpgp-manager-button =
+    .label = Gestionnaire de clés OpenPGP
+    .accesskey = G
 
 ## Account settings export output
 
