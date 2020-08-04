@@ -59,6 +59,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Ifecka n uneflay: Aserwes n tegrumma n yiniten
 experimental-features-devtools-execution-context-selector =
     .label = Ifecka n uneflay: Amsefren n usatal n uselkem
+experimental-features-devtools-execution-context-selector-description = Tamahilt-a teskanay-d taqeffalt deg yizirig n tladna n tdiwent ara ak·akem-yeǧǧen ad tesnifleḍ amnaḍ ideg ara tettwaselkem tenfalit ara teskecmeḍ. Wali <a data-l10n-name="bugzilla1">abug 1605154</a> d <a data-l10n-name="bugzilla2">wabug 1605153</a> i wugar n telqayt.
 experimental-features-devtools-compatibility-panel =
     .label = Ifecka n uneflay: Agalis n umṣada
 # Do not translate 'SameSite', 'Lax' and 'None'.
