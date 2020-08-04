@@ -84,6 +84,44 @@ openpgp-import-key-title = Mewnforio Allwedd OpenPGP personol sy'n bodoli eisoes
 openpgp-import-key-legend = Dewis ffeil a gadwyd wrth gefn.
 openpgp-import-key-description = Gallwch fewnforio allweddi personol a gafodd eu creu gyda meddalwedd OpenPGP arall.
 openpgp-import-key-info = Gall meddalwedd arall ddisgrifio allwedd bersonol gan ddefnyddio termau amgen fel eich allwedd eich hun, allwedd gyfrinachol, allwedd breifat neu bar o allweddi.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [zero] Daeth Thunderbird o hyd i allweddi { $count } y mae modd eu mewnforio.
+        [one] Daeth Thunderbird o hyd i allweddi { $count } y mae modd eu mewnforio.
+        [two] Daeth Thunderbird o hyd i allweddi { $count } y mae modd eu mewnforio.
+        [few] Daeth Thunderbird o hyd i allweddi { $count } y mae modd eu mewnforio.
+        [many] Daeth Thunderbird o hyd i allweddi { $count } y mae modd eu mewnforio.
+       *[other] Daeth Thunderbird o hyd i allweddi { $count } y mae modd eu mewnforio.
+    }
+openpgp-import-key-list-description = Cadarnhewch pa allweddi y mae modd eu trin fel eich allweddi personol. Dim ond allweddi y gwnaethoch chi eu creu eich hun ac sy'n dangos eich hunaniaeth eich hun y dylid eu defnyddio fel allweddi personol. Gallwch newid yr dewis hwn yn nes ymlaen yn y dialog Priodweddau Allweddi.
+openpgp-import-key-list-caption = Bydd allweddi sydd wedi'u marcio i'w trin fel Allweddi Personol yn cael eu rhestru yn yr adran Amgryptio Ben-i-Ben. Bydd y lleill ar gael y tu mewn i'r Rheolwr Allweddi.
+openpgp-passphrase-prompt-title = Mae angen cyfrinymadrodd
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Rhowch y cyfrinymadrodd i ddatgloi'r allwedd ganlynol: { $key }
+openpgp-import-key-button =
+    .label = Dewis Ffeil i'w Mewnforio ...
+    .accesskey = D
+import-key-file = Mewnforio Ffeil Allwedd OpenPGP
+import-key-personal-checkbox =
+    .label = Trin yr allwedd hon fel Allwedd Bersonol
+gnupg-file = Ffeiliau GnuPG
+import-error-file-size = <b>Gwall!</b> Nid yw ffeiliau mwy na 5MB yn cael eu cefnogi.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Gwall!</b> Wedi methu mewnforio ffeil. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Gwall!</b> Wedi methu mewnforio allweddi. { $error }
+openpgp-import-identity-label = Hunaniaeth
+openpgp-import-fingerprint-label = Bysbrint
+openpgp-import-created-label = Crëwyd
+openpgp-import-bits-label = Didau
+openpgp-import-key-props =
+    .label = Priodweddau'r Allwedd
+    .accesskey = P
 
 ## External Key section
 
+openpgp-external-key-title = Allwedd GnuPG Allanol
+openpgp-external-key-description = Ffurfweddu allwedd GnuPG allanol trwy nodi ID yr Allwedd
+openpgp-external-key-info = Yn ogystal, rhaid i chi ddefnyddio'r Rheolwr Allweddi i fewnforio a derbyn yr Allwedd Gyhoeddus gyfatebol.
+openpgp-external-key-warning = <b>Dim ond un Allwedd GnuPG allanol y gallwch chi ei ffurfweddu.</b> Bydd eich cofnod blaenorol yn cael ei ddisodli.
