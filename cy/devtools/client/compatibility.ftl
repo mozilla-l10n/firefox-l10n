@@ -12,7 +12,11 @@ compatibility-all-elements-header = Pob Cyhoeddiad
 
 compatibility-issue-deprecated = (anghymeradwy)
 compatibility-issue-experimental = (arbrofol)
+compatibility-issue-prefixneeded = (angen rhagddodiad)
 compatibility-issue-deprecated-experimental = (anghymeradwy, arbrofol)
+compatibility-issue-deprecated-prefixneeded = (anghymeradwy, angen rhagddodiad)
+compatibility-issue-experimental-prefixneeded = (arbrofol, angen rhagddodiad)
+compatibility-issue-deprecated-experimental-prefixneeded = anghymeradwy, arbrofol, angen rhagddodiad)
 
 ## Messages used as labels and titles for buttons in the footer
 
