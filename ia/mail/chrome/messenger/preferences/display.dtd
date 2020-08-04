@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY itemFormatting.label             "Formattation">
 <!ENTITY itemTags.label                   "Etiquettas">
 <!ENTITY itemAdvanced.label               "Avantiate">
 
@@ -26,6 +27,9 @@
 <!ENTITY convertEmoticons.accesskey    "e">
 
 <!-- labels -->
+<!ENTITY displayTagsText.label     "Tags pote esser usate pro categorisar e prioritarisar tu messages.">
+<!ENTITY newTagButton.label        "Nove…">
+<!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Rediger…">
 <!ENTITY editTagButton1.accesskey  "R">
 <!ENTITY removeTagButton.label     "Deler">
@@ -52,8 +56,19 @@
 <!ENTITY autoMarkAsRead.label             "Marcar automaticamente messages como legite">
 <!ENTITY autoMarkAsRead.accesskey         "a">
 <!ENTITY markAsReadNoDelay.label          "Immediatemente sur le schermo">
+<!ENTITY markAsReadNoDelay.accesskey      "e">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Post monstrar pro">
+<!ENTITY markAsReadDelay.accesskey        "m">
 <!ENTITY secondsLabel.label               "secundas">
+<!ENTITY openMsgIn.label                  "Aperir messages in:">
 <!ENTITY openMsgInNewTab.label            "Un nove scheda">
+<!ENTITY openMsgInNewTab.accesskey        "m">
+<!ENTITY reuseExpRadio0.label             "Un nove fenestra de message">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "Un fenestra existente de message">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Clauder fenestra/scheda de message al mover o deler">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
