@@ -51,6 +51,9 @@ openpgp-key-man-discover-progress = Ricerca in corso…
 openpgp-key-copy-key =
     .label = Copia chiave pubblica
     .accesskey = h
+openpgp-key-export-key =
+    .label = Esporta chiave pubblica in un file
+    .accesskey = u
 openpgp-key-backup-key =
     .label = Effettua backup della chiave segreta su file
     .accesskey = k
@@ -85,3 +88,8 @@ openpgp-copy-cmd-label =
 
 ## Account settings export output
 
+# Strings used in trust.jsm
+key-valid-unknown = sconosciuta
+key-valid-invalid = non valida
+key-valid-disabled = disattivata
+key-valid-revoked = revocata
