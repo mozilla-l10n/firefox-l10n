@@ -287,6 +287,9 @@ keyserver-error-unsupported = 不支持此密钥服务器。
 # Strings in gpg.jsm
 unknown-signing-alg = 未知的签名算法（ID：{ $id }）
 unknown-hash-alg = 未知的加密哈希值（ID：{ $id }）
+# Strings in keyUsability.jsm
+expiry-key-expires-soon = 您的密钥 { $desc } 将于 { $days } 天内到期。建议您重新生成密钥，并配置妥当对应账户来使用。
+expiry-keys-expire-soon = 您的下列密钥将于 { $days } 天内到期：{ $desc }。建议您重新生成密钥，并配置妥当对应账户来使用。
 expiry-open-key-manager = 打开 OpenPGP 密钥管理器
 expiry-open-key-properties = 打开密钥属性
 filter-term-pgpencrypted-label = OpenPGP 加密
@@ -354,10 +357,14 @@ delete-key-title = 删除 OpenPGP 密钥
 delete-external-key-title = 移除外部 GnuPG 密钥
 delete-external-key-description = 您要移除该 GnuPG 密钥 ID 吗？
 key-in-use-title = OpenPGP 密钥正在使用中
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = 找不到任何匹配搜索条件的密钥。
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = 错误 - 密钥提取命令运行失败
 # Strings used in keyRing.jsm
 fail-cancel = 错误 - 用户取消接收密钥
+not-first-block = 错误 - 第一个 OpenPGP 块不是公钥块
+import-key-confirm = 要导入消息中嵌入的公钥吗？
 fail-key-import = 错误 - 密钥导入失败
 file-write-failed = 写入到文件 { $output } 失败
 no-pgp-block = 错误 - 找不到有效的 armored 格式 OpenPGP 数据块
@@ -384,7 +391,51 @@ gen-going = 已在生成密钥中！
 expiry-too-short = 您的密钥有效期不能少于 1 天。
 expiry-too-long = 您不能创建有效期超过 100 年的密钥。
 key-confirm = 确定要生成“{ $id }”的公钥与私钥吗？
+key-man-button-generate-key = 生成密钥(&G)
 key-abort = 要中止生成密钥吗？
+key-man-button-generate-key-abort = 中止生成密钥(&A)
+key-man-button-generate-key-continue = 继续生成密钥(&C)
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = 错误 - 解密失败
+fix-broken-exchange-msg-failed = 消息修复失败。
+msg-ovl-button-cont-anyway = 仍然继续(&C)
 msg-compose-details-button-label = 详细信息…
+msg-compose-details-button-access-key = D
+send-aborted = 发送操作已中止。
+cannot-send-sig-because-no-own-key = 由于您还没有配置<{ $key }>的端到端加密，无法数字签名此消息
+do-import-one = 要导入 { $name }（{ $id }）吗？
+cant-import = 导入公钥时出错
+key-in-message-body = 在消息内容中发现密钥，请点击“导入密钥”以导入该密钥
+sig-mismatch = 错误 - 签名不匹配
+invalid-email = 错误 - 电子邮件地址无效
+attachment-pgp-key = 您正要打开的附件“{ $name }”似乎是 OpenPGP 密钥文件。请点击“导入”以导入密钥，或点击“查看”以在浏览器窗口中查看文件内容。
+dlg-button-view = 查看(&V)
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = 解密消息（从可能是由旧版 Exchange 服务器损坏的 PGP 邮件格式恢复，结果可能不易阅读）
+# Strings used in encryption.jsm
+not-required = 错误 - 未要求加密
+# Strings used in windows.jsm
+no-photo-available = 没有可用的照片
+error-photo-path-not-readable = 照片路径“{ $photo }”无法读取
+debug-log-title = OpenPGP 调试日志
+# Strings used in dialog.jsm
+repeat-prefix = 此警报将重复 { $count }
+repeat-suffix-singular = 次。
+repeat-suffix-plural = 次。
+no-repeat = 将不再显示该警报。
+dlg-keep-setting = 记住我的答案，不要再问我
+dlg-button-ok = 确定(&O)
+dlg-button-close = 关闭(&C)
+dlg-button-cancel = 取消(&C)
+dlg-no-prompt = 不再显示此对话框。
+enig-prompt = OpenPGP 提示
+enig-confirm = OpenPGP 确认
+enig-alert = OpenPGP 警报
+enig-info = OpenPGP 信息
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = 重试(&R)
+dlg-button-skip = 跳过(&S)
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP 错误
+enig-alert-title =
+    .title = OpenPGP 警报
