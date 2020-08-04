@@ -6,3 +6,4 @@ connection-window =
     .title = Novas importante
 continue-button =
     .label = Continuar
+main-text = Iste installation de { -brand-short-name } ha un nove profilo. Illo non comparti datos email, contrasignos, preferentias de usator e libros de adresses con altere installationes de { -brand-product-name } (anque { -brand-product-name }, { -brand-product-name } Beta e { -brand-product-name } Daily) sur iste computator.
