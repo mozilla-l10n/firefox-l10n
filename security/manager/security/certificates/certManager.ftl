@@ -176,6 +176,9 @@ delete-email-cert-impact = Eliminando il certificato email di una persona, non s
 cert-with-serial =
     .value = Certificato con numero seriale: { $serialNumber }
 
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Non inviare alcun certificato client
+
 ## Cert Viewer
 
 # Title used for the Certificate Viewer.
