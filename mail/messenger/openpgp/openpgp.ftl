@@ -51,9 +51,28 @@ openpgp-key-man-discover-progress = Ricerca in corso…
 openpgp-key-copy-key =
     .label = Copia chiave pubblica
     .accesskey = h
+openpgp-key-backup-key =
+    .label = Effettua backup della chiave segreta su file
+    .accesskey = k
 openpgp-key-man-copy-to-clipbrd =
     .label = Copia chiavi pubbliche negli appunti
     .accesskey = v
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Esporta chiavi su file
+openpgp-key-man-ctx-copy-to-clipbrd-label =
+    .label = Copia chiavi pubbliche negli appunti
+openpgp-key-man-close =
+    .label = Chiudi
+openpgp-key-man-user-id-label =
+    .label = Nome
+openpgp-key-man-select-all-key =
+    .key = A
+openpgp-key-man-key-details-key =
+    .key = I
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Chiudi
+openpgp-copy-cmd-label =
+    .label = Copia
 
 ## e2e encryption settings
 
