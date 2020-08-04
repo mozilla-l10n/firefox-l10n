@@ -31,6 +31,10 @@ printui-scale = Skala
 printui-scale-fit-to-page = Anpassa till sida
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skala
+# Section title for miscellaneous print options
+printui-options = Alternativ
+printui-headers-footers-checkbox = Skriv ut sidhuvud och sidfot
+printui-backgrounds-checkbox = Skriv ut bakgrunder
 printui-system-dialog-link = Skriv ut via systemets dialogruta…
 printui-primary-button = Skriv ut
 printui-cancel-button = Avbryt
