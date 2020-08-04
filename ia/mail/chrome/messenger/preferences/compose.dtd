@@ -4,22 +4,43 @@
 
 <!ENTITY itemGeneral.label                   "General">
 <!ENTITY itemAutoComplete.label              "Adresses">
+<!ENTITY itemSpellCheck.label                "Orthographia">
 
 
 <!ENTITY forwardMsg.label                     "Inviar ultra messages:">
 <!ENTITY forwardMsg.accesskey                 "u">
+<!ENTITY inline.label                         "In message">
 <!ENTITY asAttachment.label                   "Como annexo">
+<!ENTITY addExtension.label                   "adder extension al nomine de file">
+<!ENTITY addExtension.accesskey               "x">
 
+<!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Typo de litteras:">
+<!ENTITY font.accesskey                       "n">
 <!ENTITY fontSize.label                       "Dimension:">
 <!ENTITY fontSize.accesskey                   "d">
+<!ENTITY useReaderDefaults.label              "Usar le colores predefinite del lector">
+<!ENTITY useReaderDefaults.accesskey          "p">
+<!ENTITY fontColor.label                      "Color del texto:">
+<!ENTITY fontColor.accesskey                  "t">
 <!ENTITY bgColor.label                        "Color de fundo:">
 <!ENTITY bgColor.accesskey                    "f">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar predefinitiones">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY defaultToParagraph.label             "Usar de ordinario Formato paragrapho in vice de Corpore texto">
+<!ENTITY defaultToParagraph.accesskey         "C">
 
+<!ENTITY spellCheck.label                     "Controlar orthographia ante inviar">
+<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheckInline.label               "Activar corrector orthographic durante que tu scribe">
+<!ENTITY spellCheckInline1.accesskey          "A">
+<!ENTITY languagePopup.label                  "Lingua:">
+<!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Discargar altere dictionarios">
 
+<!ENTITY warnOnSendAccelKey.label             "Confirmar per le via breve de claviero quando inviar message">
+<!ENTITY warnOnSendAccelKey.accesskey         "C">
+<!ENTITY autoSave.label                       "Salvar automaticamente cata">
 <!ENTITY autoSaveEnd.label                    "minutas">
 
 <!ENTITY emailCollectionPicker.label           "Adder automaticamente le adresses de posta exiente a mi:">

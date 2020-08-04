@@ -4,4 +4,6 @@
 
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
+<!ENTITY title.label "Discargante certificatos">
+<!ENTITY info.message "Recerca del directorio pro certificatos de destinatarios. Isto pote prender alcun minutas.">
 <!ENTITY stop.label "Stoppar le rercerca">
