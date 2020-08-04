@@ -263,3 +263,14 @@ key-man-button-import = &Importar
 delete-key-title = Excluir chave OpenPGP
 delete-external-key-title = Remover a chave GnuPG externa
 key-in-use-title = Chave OpenPGP em uso no momento
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Erro - Falha no comando de extração de chave
+# Strings used in keyRing.jsm
+fail-cancel = Erro - Recebimento de chave cancelado pelo usuário
+not-first-block = Erro - Primeiro bloco OpenPGP não é bloco de chave pública
+import-key-confirm = Importar chave(s) pública(s) incorporada(s) na mensagem?
+fail-key-import = Erro - Falha na importação de chave
+file-write-failed = Falha ao gravar no arquivo { $output }
+# Strings used in trust.jsm
+key-valid-unknown = desconhecido
+key-valid-invalid = inválida
