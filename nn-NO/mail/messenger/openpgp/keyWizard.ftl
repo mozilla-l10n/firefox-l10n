@@ -22,6 +22,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Generer OpenPGP-nøkkel
+openpgp-generate-key-info = <b>Nøkkelgenerering kan ta opptil fleie minutt å fullføre.</b> Ikkje avslutt applikasjonen når nøkkelgenereringa held på. Dersom du aktivt surfar eller utfører diskintensive operasjonar under nøkkelgenerering, vil det fylle opp «randomness pool»-et og gjere prosessen raskare. Du blir varsla når nøkkelgenereringa er fullført.
 openpgp-keygen-expiry-title = Nøkkelen går ut
 radio-keygen-expiry =
     .label = Nøkkelen går ut om
