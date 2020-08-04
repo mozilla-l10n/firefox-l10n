@@ -146,6 +146,11 @@ key-expired-simple = Nøkkelen har gått ut
 # Strings in keyserver.jsm
 keyserver-error-aborted = Avbrote
 keyserver-error-unknown = Det oppstod ein ukjend feil
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Klarte ikkje å dekryptere meldinga med emnet
+    { $subject }.
+    Vil du prøve igjen med ei anna passordfrase eller vill du hoppe over meldinga?
 import-info-bits = Bit
 import-info-created = Laga
 general-error = Feil: { $reason }
@@ -172,6 +177,7 @@ key-trust-group = (gruppe)
 import-key-file = Importer OpenPGP-nøkkelfil
 gnupg-file = GnuPG-filer
 import-keys-failed = Mislykka importering av nøklane
+passphrase-prompt = Skriv inn passordfrasa som låser opp følgjande nøkkel: { $key }
 key-man-button-generate-key = &Generer nøkkel
 key-abort = Avbryte nøkkelgenerering?
 key-man-button-generate-key-abort = &Avbryt nøkkelgenerering
