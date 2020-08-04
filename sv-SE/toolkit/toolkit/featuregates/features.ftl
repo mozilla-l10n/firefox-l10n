@@ -56,6 +56,7 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Hela { -brand-short-name } implementationen av Media sessionen APIn är för närvarande experimentell.  APIn används för att konfigurera hanteringen av media relaterade notifikationer, för att hantera händelser och data som är användbara för att presentera ett användargränssnitt för att hantera media uppspelning, och för att tillhanda ha media meta-data filer. <a data-l10n-name="bugzilla">bug 1112032</a> innehåller fler detaljer.
 experimental-features-devtools-color-scheme-simulation =
     .label = Utvecklarverktyg: Simulering av färgschema
 experimental-features-devtools-execution-context-selector =
