@@ -376,3 +376,15 @@ import-key-file = 导入 OpenPGP 密钥文件
 import-rev-file = 导入 OpenPGP 吊销文件
 gnupg-file = GnuPG 文件
 import-keys-failed = 导入密钥失败
+file-to-big-to-import = 文件太大。请不要一次导入大量密钥。
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = 创建并保存吊销证书
+revoke-cert-failed = 无法创建吊销证书。
+gen-going = 已在生成密钥中！
+expiry-too-short = 您的密钥有效期不能少于 1 天。
+expiry-too-long = 您不能创建有效期超过 100 年的密钥。
+key-confirm = 确定要生成“{ $id }”的公钥与私钥吗？
+key-abort = 要中止生成密钥吗？
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = 错误 - 解密失败
+msg-compose-details-button-label = 详细信息…
