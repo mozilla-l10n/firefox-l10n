@@ -33,6 +33,10 @@ printui-scale = Skalowanje
 printui-scale-fit-to-page = Stronje přiměrić
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalować
+# Section title for miscellaneous print options
+printui-options = Nastajenja
+printui-headers-footers-checkbox = Hłowy a nohi ćišćeć
+printui-backgrounds-checkbox = Pozadki ćišćeć
 printui-system-dialog-link = Z pomocu systemoweho dialoga ćišćeć…
 printui-primary-button = Ćišćeć
 printui-cancel-button = Přetorhnyć
