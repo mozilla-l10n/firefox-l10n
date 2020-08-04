@@ -14,6 +14,7 @@ openpgp-good-sig = Signature numérique correcte
 openpgp-sig-uncertain-no-key = Ce message contient une signature numérique, mais il n’est pas certain qu’elle soit correcte. Pour vérifier la signature, vous devez obtenir une copie de la clé publique de l’expéditeur.
 openpgp-sig-uncertain-uid-mismatch = Ce message contient une signature numérique, mais une incompatibilité a été détectée. Le message a été envoyé à partir d’une adresse électronique qui ne correspond pas à la clé publique du signataire.
 openpgp-sig-uncertain-not-accepted = Ce message contient une signature numérique, mais vous n’avez pas encore indiqué si la clé du signataire vous paraît correcte ou non.
+openpgp-sig-invalid-rejected = Ce message contient une signature numérique, mais vous avez précédemment décidé de rejeter la clé du signataire.
 openpgp-sig-invalid-technical-problem = Ce message contient une signature numérique, mais une erreur technique a été détectée. Soit le message a été corrompu, soit le message a été modifié par quelqu’un d’autre.
 openpgp-sig-valid-unverified = Ce message comprend une signature numérique valide d’une clé que vous avez déjà acceptée. Cependant, vous n’avez pas encore vérifié que la clé appartient réellement à l’expéditeur.
 openpgp-sig-valid-verified = Ce message comprend une signature numérique valide d’une clé vérifiée.
