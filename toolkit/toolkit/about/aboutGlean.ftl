@@ -7,4 +7,6 @@
 
 about-glean-page-title = Om Glean
 about-glean-warning = Misbruk av dette grensesnittet kan krasje { -brand-short-name }.
+tag-pings-label = Merk alle sende ping med denne taggen
+log-pings-label = Logge ping-nyttelast før du sender?
 controls-button-label = Send inn innstillingar
