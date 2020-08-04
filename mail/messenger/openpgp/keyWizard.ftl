@@ -24,6 +24,7 @@ radio-gnupg-key =
 
 openpgp-generate-key-title = Génération d’une clé OpenPGP
 openpgp-keygen-expiry-title = Expiration de la clé
+openpgp-keygen-expiry-description = Définissez la date d’expiration de la clé que vous venez de générer. Vous pourrez par la suite modifier cette date pour prolonger le délai d’expiration si nécessaire.
 radio-keygen-expiry =
     .label = La clé expire dans
     .accesskey = L
@@ -63,6 +64,7 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Fermer
     .accesskey = F
+openpgp-keygen-missing-username = Aucun nom n’est spécifié pour le compte actuel. Veuillez saisir une valeur dans le champ « Votre nom » des paramètres du compte.
 openpgp-keygen-long-expiry = Vous ne pouvez pas créer de clé qui expire dans plus de 100 ans.
 openpgp-keygen-short-expiry = Votre clé doit être valide pendant au moins un jour.
 openpgp-keygen-ongoing = Génération de clé déjà en cours.
@@ -80,6 +82,7 @@ openpgp-key-confirm = Générer une clé publique et une clé secrète pour { $i
 openpgp-import-key-title = Importer une clé OpenPGP personnelle existante
 openpgp-import-key-legend = Sélectionnez un fichier précédemment sauvegardé.
 openpgp-import-key-description = Vous pouvez importer des clés personnelles qui ont été créées avec d’autres logiciels OpenPGP.
+openpgp-import-key-info = D’autres logiciels peuvent décrire une clé personnelle en utilisant des termes alternatifs tels que « votre propre clé », « clé secrète », « clé privée » ou « paire de clés ».
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
@@ -88,6 +91,7 @@ openpgp-import-key-list-amount =
     }
 openpgp-import-key-list-description = Confirmez quelles clés peuvent être considérées comme vos clés personnelles. Seules les clés que vous avez créées vous-même et qui indiquent votre propre identité doivent être utilisées comme clés personnelles. Vous pouvez modifier cette option ultérieurement depuis la boîte de dialogue Propriétés de la clé.
 openpgp-import-key-list-caption = Les clés marquées comme étant des clés personnelles seront répertoriées dans la section Chiffrement de bout en bout. Les autres seront disponibles dans le gestionnaire de clés.
+openpgp-passphrase-prompt-title = Phrase de passe nécessaire
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Veuillez saisir la phrase de passe pour déverrouiller la clé suivante : { $key }
 openpgp-import-key-button =
