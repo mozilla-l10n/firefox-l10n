@@ -63,6 +63,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Den här funktionen visar en knapp på konsolens kommandorad som låter dig ändra sammanhanget i vilket uttrycket du anger kommer att köras. Se <a data-l10n-name="bugzilla1"> bug 1605154</a> och <a data-l10n-name="bugzilla2"> bug 1605153</a> för mer detaljer.
 experimental-features-devtools-compatibility-panel =
     .label = Utvecklarverktyg: Kompatibilitetspanel
+experimental-features-devtools-compatibility-panel-description = En sidopanel för Sidoinspektören som visar information om din apps kross-kompatibilitetsstatus för webbläsare. Se <a data-l10n-name="bugzilla"> bug 1584464</a> för mer detaljer.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Kakor: SameSite=Lax som standard
