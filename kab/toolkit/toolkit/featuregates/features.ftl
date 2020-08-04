@@ -62,6 +62,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Tamahilt-a teskanay-d taqeffalt deg yizirig n tladna n tdiwent ara ak·akem-yeǧǧen ad tesnifleḍ amnaḍ ideg ara tettwaselkem tenfalit ara teskecmeḍ. Wali <a data-l10n-name="bugzilla1">abug 1605154</a> d <a data-l10n-name="bugzilla2">wabug 1605153</a> i wugar n telqayt.
 experimental-features-devtools-compatibility-panel =
     .label = Ifecka n uneflay: Agalis n umṣada
+experimental-features-devtools-compatibility-panel-description = Agalis adisan n umaswaḍ n usebter i d-yeskanayen talɣut s telqayt n waddaden n umṣada gar yiminigen n usnas-inek·inem. Wali <a data-l10n-name="bugzilla">abug 1584464</a> i wugar n telqayt.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Inagan n tuqqna: SameSite=Lax s wudem amezwer
