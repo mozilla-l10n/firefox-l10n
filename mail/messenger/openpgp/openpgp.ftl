@@ -37,6 +37,32 @@ openpgp-key-expiry-label =
     .label = Skadim
 openpgp-key-id-label =
     .label = ID Kyçi
+openpgp-cannot-change-expiry = Ky është një kyç me një strukturë komplekse, nuk mbulohet ndryshimi i datës së skadimit të tij.
+openpgp-key-man-title =
+    .title = Përgjegjës Kyçesh OpenPGP
+openpgp-key-man-generate =
+    .label = Çift i Ri Kyçesh
+    .accesskey = K
+openpgp-key-man-gen-revoke =
+    .label = Dëshmi Shfuqizimi
+    .accesskey = S
+openpgp-key-man-ctx-gen-revoke-label =
+    .label = Prodho & Ruaj Dëshmi Shfuqizimi
+openpgp-key-man-file-menu =
+    .label = Kartelë
+    .accesskey = K
+openpgp-key-man-edit-menu =
+    .label = Përpunoni
+    .accesskey = P
+openpgp-key-man-view-menu =
+    .label = Shihni
+    .accesskey = S
+openpgp-key-man-generate-menu =
+    .label = Prodhoje
+    .accesskey = P
+openpgp-key-man-keyserver-menu =
+    .label = Shërbyes kyçesh
+    .accesskey = b
 
 ## e2e encryption settings
 
