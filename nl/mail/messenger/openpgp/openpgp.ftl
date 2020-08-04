@@ -8,6 +8,13 @@
 
 ## OpenPGP Key selection area
 
+key-expiry-never = nooit
+key-usage-encrypt = Versleutelen
+key-usage-sign = Ondertekenen
+key-usage-authentication = Authenticatie
+# Strings in keyserver.jsm
+keyserver-error-aborted = Afgebroken
+keyserver-error-unknown = Er is een onbekende fout opgetreden
 
 ## Account settings export output
 
