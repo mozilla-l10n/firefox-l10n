@@ -39,6 +39,25 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = år
 openpgp-keygen-advanced-title = Avanserte innstillinger
+openpgp-keygen-keytype =
+    .value = Nøkkeltype:
+    .accesskey = t
+openpgp-keygen-keysize =
+    .value = Nøkkelstørrelse:
+    .accesskey = s
+openpgp-keygen-type-rsa =
+    .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (elliptisk kurve)
+openpgp-keygen-button = Generer nøkkel
+openpgp-keygen-progress-title = Genererer den nye OpenPGP-nøkkelen din…
+openpgp-keygen-import-progress-title = Importerer OpenPGP-nøklene dine…
+openpgp-import-success = OpenPGP-nøkler er importert!
+openpgp-import-success-title = Fullfør importprosessen
+openpgp-keygen-confirm =
+    .label = Bekreft
+openpgp-keygen-dismiss =
+    .label = Avbryt
 
 ## Import Key section
 
