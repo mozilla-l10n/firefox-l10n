@@ -630,11 +630,27 @@ away-message-label =
 send-typing-label =
     .label = Invia avisos de scriptura in conversationes
     .accesskey = I
+notification-label = Quando arriva messages directe a te:
 show-notification-label =
     .label = Monstrar un notification
     .accesskey = M
+notification-all =
+    .label = con nomine del expeditor e le vista preliminar del message
+notification-name =
+    .label = con nomine del expeditor solmente
 notification-empty =
     .label = sin information
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animar icone del bassino
+           *[other] Fulgurar le elemento in le barra del activitates
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Reproducer un sono
     .accesskey = s
