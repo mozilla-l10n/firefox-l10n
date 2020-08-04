@@ -4,6 +4,11 @@
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-encryption_required_part1 = Tu ha tentate inviar un non message non cryptate a { $name }. Como regulamento, le messages non cryptate non es consentite.
+msgevent-encryption_required_part2 = Tentativa pro initiar un conversation private. Tu message sera reinviate quando le conversation private initia.
+msgevent-encryption_error = Un error occurreva cryptante tu message. Message non inviate.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = Le ultime message a { $name } ha essite reinviate.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
