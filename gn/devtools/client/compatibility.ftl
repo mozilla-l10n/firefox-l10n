@@ -12,7 +12,10 @@ compatibility-all-elements-header = Opaite apañuãi
 
 compatibility-issue-deprecated = (oiko’ỹva)
 compatibility-issue-experimental = (mba’epyahu)
+compatibility-issue-prefixneeded = (prefix needed)
 compatibility-issue-deprecated-experimental = (oiko’ỹva, mba’epyahu)
+compatibility-issue-deprecated-prefixneeded = (ndoikói, oikotevẽ ñe’ẽpehẽ)
+compatibility-issue-experimental-prefixneeded = (ipyahúva, oikotevẽ ñe’ẽpehẽ)
 
 ## Messages used as labels and titles for buttons in the footer
 

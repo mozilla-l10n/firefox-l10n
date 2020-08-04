@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Ehai sa’ive, ejuhuve: Eheka { $engineName } kundaharape rendaite guive.
 urlbar-search-tips-redirect-2 = Eñepyrũ eheka kundaharape rendápe ehecha hag̃ua { $engineName } ñe’ẽporã ha ikundaha rembiasakue.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Techaukahakuéra
+urlbar-search-mode-tabs = Tendaykekuéra
+urlbar-search-mode-history = Tembiasakue
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,26 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Emoĩ jehekaha mongu’eha ijypykuévaramo ovetã ñemíme
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Techaukahakuéra ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Tendaykekuéra ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Tebiasakue ({ $restrict })
 
 ## Bookmark Panel
 
