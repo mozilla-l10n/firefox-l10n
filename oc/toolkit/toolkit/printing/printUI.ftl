@@ -15,6 +15,8 @@ printui-page-range-custom = Personalizar
 printui-page-range-label = Paginas
 printui-page-range-picker =
     .aria-label = Causir plaja de paginas
+printui-page-custom-range =
+    .aria-label = Picar una plaja de paginas personalizada
 # Section title for the number of copies to print
 printui-copies-label = Còpias
 printui-orientation = Orientacion
