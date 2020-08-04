@@ -125,3 +125,7 @@ openpgp-external-key-title = Allwedd GnuPG Allanol
 openpgp-external-key-description = Ffurfweddu allwedd GnuPG allanol trwy nodi ID yr Allwedd
 openpgp-external-key-info = Yn ogystal, rhaid i chi ddefnyddio'r Rheolwr Allweddi i fewnforio a derbyn yr Allwedd Gyhoeddus gyfatebol.
 openpgp-external-key-warning = <b>Dim ond un Allwedd GnuPG allanol y gallwch chi ei ffurfweddu.</b> Bydd eich cofnod blaenorol yn cael ei ddisodli.
+openpgp-save-external-button = Cadw ID yr allwedd
+openpgp-external-key-label = ID Allwedd Gyfrinachol:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
