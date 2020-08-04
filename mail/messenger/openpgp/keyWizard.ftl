@@ -42,6 +42,7 @@ openpgp-keygen-advanced-title = Avanserte innstillinger
 
 ## Import Key section
 
+openpgp-passphrase-prompt-title = Passordfrase kreves
 
 ## External Key section
 
