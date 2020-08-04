@@ -13,7 +13,11 @@
 <!ENTITY convertPlain.accesskey       "C">
 <!ENTITY sendHTML.label               "Inviar comocunque le message in HTML">
 <!ENTITY sendHTML.accesskey           "I">
+<!ENTITY sendBoth.label               "Inviar le message in ambe texto simple e HTML">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY override.label               "Nota: usar le Libro del adresses pro specificar le formatos texto preferite pro le destinatarios.">
 
+<!ENTITY domaindesc.label             "Quando tu invia un message a un adresse con un del nomines dominio in le lista de presentation infra, &brandShortName; automaticamente invia le message in le formato correcte.">
 <!ENTITY HTMLTab.label                "Dominios HTML">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Dominios texto simple">

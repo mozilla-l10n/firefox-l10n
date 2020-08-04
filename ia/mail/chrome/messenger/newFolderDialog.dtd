@@ -11,5 +11,6 @@
 <!ENTITY folderRestriction1.label   "Iste servitor accepta solmente duo typos special de dossier.">
 <!ENTITY folderRestriction2.label   "Permitter que tu nove dossier contine:">
 <!ENTITY foldersOnly.label          "Dossiers solmente">
+<!ENTITY messagesOnly.label         "Messages solmente">
 <!ENTITY accept.label               "Crear dossier">
 <!ENTITY accept.accesskey           "r">
