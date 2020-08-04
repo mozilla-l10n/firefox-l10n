@@ -25,11 +25,12 @@ experimental-features-avif-description = Experimentellt stöd för AVIF: AV1 Bil
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Detta nya API ger lågnivå stöd för att utföra beräkningar och grafikrenderingar genom att använda <a data-l10n-name="wikipedia"> Grafikprocessor (GPU)</a> på användarens enhet eller dator. <a data-l10n-name="spec">Specifikationen är fortfarande under bearbetning. Se <a data-l10n-name="bugzilla">bugg 1602129</a> för mer detaljer.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
-experimental-features-media-avif-description = Med den här funktionen aktiverad stöder { -brand-short-name } AVIF-format (AV1). Detta är ett stillbildsformat som utnyttjar funktionerna i AV1-videokomprimeringsalgoritmerna för att minska bildstorleken. Se <a data-l10n-name="bugzilla">bug 1443863</a> för mer information.
+experimental-features-media-avif-description = Med den här funktionen aktiverad stöder { -brand-short-name } AVIF-format (AV1). Detta är ett stillbildsformat som utnyttjar funktionerna i AV1-videokomprimeringsalgoritmerna för att minska bildstorleken. Se <a data-l10n-name="bugzilla">bug 1443863</a> för mer detaljer.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -42,7 +43,7 @@ experimental-features-web-api-link-preload =
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Tillåter att fokusstilar tillämpas på element som knappar och formkontroller, endast när de är fokuserade med hjälp av tangentbordet (t.ex. vid flikar mellan element), och inte när de är fokuserade med en mus eller annat pekdon. Se <a data-l10n-name="bugzilla">bug 1617600</a> för mer information.
+experimental-features-css-focus-visible-description = Tillåter att fokusstilar tillämpas på element som knappar och formkontroller, endast när de är fokuserade med hjälp av tangentbordet (t.ex. vid flikar mellan element), och inte när de är fokuserade med en mus eller annat pekdon. Se <a data-l10n-name="bugzilla">bug 1617600</a> för mer detaljer.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -59,6 +60,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Utvecklarverktyg: Simulering av färgschema
 experimental-features-devtools-execution-context-selector =
     .label = Utvecklarverktyg: Exekveringskontext väljare
+experimental-features-devtools-execution-context-selector-description = Den här funktionen visar en knapp på konsolens kommandorad som låter dig ändra sammanhanget i vilket uttrycket du anger kommer att köras. Se <a data-l10n-name="bugzilla1"> bug 1605154</a> och <a data-l10n-name="bugzilla2"> bug 1605153</a> för mer detaljer.
 experimental-features-devtools-compatibility-panel =
     .label = Utvecklarverktyg: Kompatibilitetspanel
 # Do not translate 'SameSite', 'Lax' and 'None'.
