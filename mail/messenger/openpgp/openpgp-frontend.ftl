@@ -17,10 +17,13 @@ openpgp-ctx-import-key =
 openpgp-ctx-verify-att =
     .label = Verifica firma
     .accesskey = f
+openpgp-has-sender-key = Questo messaggio dichiara di contenere la chiave pubblica OpenPGP del mittente.
 openpgp-be-careful-new-key = Attenzione: la nuova chiave pubblica OpenPGP in questo messaggio differisce dalle chiavi pubbliche precedentemente accettate per { $email }.
 openpgp-import-sender-key =
     .label = Importa…
 openpgp-missing-signature-key = Questo messaggio è stato firmato con una chiave di cui ancora non si dispone.
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = Questo è un messaggio OpenPGP apparentemente danneggiato da MS-Exchange. Se il contenuto del messaggio non viene visualizzato correttamente, si può provare una riparazione automatica.
 openpgp-broken-exchange-repair =
     .label = Ripara messaggio
 openpgp-broken-exchange-wait = Attendere…
@@ -36,5 +39,6 @@ openpgp-partially-encrypted =
     Solo un sottoinsieme di questo messaggio è stato crittato con OpenPGP.
     Le parti leggibili del messaggio che sono già visualizzate non sono state crittate.
     Se si fa clic sul pulsante di decrittazione, verrà visualizzato il contenuto delle parti crittate.
+openpgp-reminder-partial-display = Promemoria: il messaggio mostrato di seguito rappresenta solo una parte del messaggio originale.
 openpgp-partial-verify-button = Verifica
 openpgp-partial-decrypt-button = Decritta
