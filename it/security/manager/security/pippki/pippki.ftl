@@ -69,13 +69,13 @@ client-auth-cert-details = Dettagli del certificato selezionato:
 ## Set password (p12) dialog
 
 set-password-window =
-    .title = Scegliere una password per la copia di backup del certificato
-set-password-message = La password della copia di backup del certificato serve a proteggere l’archivio che ci si accinge a creare. Per procedere con la creazione dell’archivio è necessario impostare una password.
+    .title = Scelta della password per il backup del certificato
+set-password-message = Questa password serve a proteggere la copia di backup del certificato che si sta per creare. È necessario impostare una password per procedere con l’operazione.
 set-password-backup-pw =
-    .value = Password copia di backup del certificato:
+    .value = Password per il backup del certificato:
 set-password-repeat-backup-pw =
-    .value = Password copia di backup del certificato (conferma):
-set-password-reminder = Importante: se si dovesse scordare la password della copia di backup, non sarà possibile recuperare successivamente il contenuto. Si consiglia di conservare la password in un luogo sicuro.
+    .value = Password per il backup del certificato (conferma):
+set-password-reminder = Importante: se si dovesse scordare la password della copia di backup, non sarà possibile recuperarne successivamente il contenuto. Si consiglia di conservare la password in un luogo sicuro.
 
 ## Protected Auth dialog
 
