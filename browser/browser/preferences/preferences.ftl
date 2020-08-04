@@ -787,6 +787,10 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = ใช้รหัสผ่านหลัก
     .accesskey = ช
+forms-primary-pw-use =
+    .label = ใช้รหัสผ่านหลัก
+    .accesskey = ช
+forms-primary-pw-learn-more-link = เรียนรู้เพิ่มเติม
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -794,6 +798,10 @@ forms-master-pw-change =
     .label = เปลี่ยนรหัสผ่านหลัก…
     .accesskey = ผ
 forms-master-pw-fips-title = คุณกำลังอยู่ในโหมด FIPS ซึ่ง FIPS จำเป็นต้องมีรหัสผ่านหลักที่ไม่ว่างเปล่า
+forms-primary-pw-change =
+    .label = เปลี่ยนรหัสผ่านหลัก…
+    .accesskey = ล
+forms-primary-pw-fips-title = คุณกำลังอยู่ในโหมด FIPS ซึ่ง FIPS จำเป็นต้องมีรหัสผ่านหลักที่ไม่ว่างเปล่า
 forms-master-pw-fips-desc = การเปลี่ยนรหัสผ่านล้มเหลว
 
 ## OS Authentication dialog
@@ -805,6 +813,13 @@ master-password-os-auth-dialog-message-win = หากต้องการส�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = สร้างรหัสผ่านหลัก
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = หากต้องการสร้างรหัสผ่านหลัก ให้ป้อนข้อมูลประจำตัวการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่าง ๆ ของคุณ
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = สร้างรหัสผ่านหลัก
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
