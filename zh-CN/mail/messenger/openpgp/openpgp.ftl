@@ -303,6 +303,9 @@ import-info-no-keys = 未导入密钥。
 # Strings in enigmailKeyManager.js
 import-from-clip = 您想要从剪贴板导入一些密钥吗？
 import-from-url = 请从下列 URL 下载公钥：
+copy-to-clipbrd-failed = 无法将选中的密钥复制到剪贴板。
+copy-to-clipbrd-ok = 已将密钥复制到剪贴板
+delete-pub-key = 您确定要删除公钥“{ $userId }”吗？
 delete-selected-pub-key = 您确定要删除公钥吗？
 key-man-button-export-sec-key = 导出私钥(&S)
 key-man-button-export-pub-key = 只导出公钥(&P)
@@ -324,6 +327,18 @@ openpgp-export-public-success = <b>成功导出公钥！</b>
 openpgp-export-public-fail = <b>无法导出选中的公钥！</b>
 openpgp-export-secret-success = <b>成功导出私钥！</b>
 openpgp-export-secret-fail = <b>无法导出选中的私钥！</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = 密钥 { $userId }（密钥 ID { $keyId }）已吊销。
+key-ring-pub-key-expired = 密钥 { $userId }（密钥 ID { $keyId }）已过期。
+key-ring-key-disabled = 密钥 { $userId }（密钥 ID { $keyId }）已禁用，无法使用。
+key-ring-key-invalid = 密钥 { $userId }（密钥 ID { $keyId }）无效，请验证其是否正确。
+key-ring-key-not-trusted = 密钥 { $userId }（密钥 ID { $keyId }）信任度不足。请将您的密钥的信任度设为“完全信任”才能用于签名。
+key-ring-pub-key-not-for-signing = 密钥 { $userId }（密钥 ID { $keyId }）无法用于签名。
+key-ring-pub-key-not-for-encryption = 密钥 { $userId }（密钥 ID { $keyId }）无法用于加密。
+key-ring-sign-sub-keys-revoked = 密钥 { $userId }（密钥 ID { $keyId }）的所有签名用子密钥已被吊销。
+key-ring-sign-sub-keys-expired = 密钥 { $userId }（密钥 ID { $keyId }）的所有签名用子密钥已过期。
+key-ring-enc-sub-keys-revoked = 密钥 { $userId }（密钥 ID { $keyId }）的所有加密用子密钥已被吊销。
+key-ring-enc-sub-keys-expired = 密钥 { $userId }（密钥 ID { $keyId }）的所有加密用子密钥已过期。
 # Strings in gnupg-keylist.jsm
 keyring-photo = 照片
 user-att-photo = 用户属性（JPEG 图像）
