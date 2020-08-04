@@ -68,9 +68,15 @@ openpgp-keygen-long-expiry = Du kan ikke opprette en nøkkel som går ut senere 
 openpgp-keygen-short-expiry = Nøkkelen din må være gyldig i minst en dag.
 openpgp-keygen-ongoing = Nøkkelgenerering er allerede i gang!
 openpgp-keygen-error-core = Kan ikke å initialisere OpenPGP Core Service
+openpgp-keygen-error-failed = OpenPGP-nøkkelgenerering mislyktes uventet
+openpgp-keygen-abort-title = Avbryte nøkkelgenerering?
+openpgp-keygen-abort = OpenPGP-nøkkelgenerering pågår for øyeblikket, er du sikker på at du vil avbryte den?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Generer en offentlig og hemmelig nøkkel for { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Importer en eksisterende personlig OpenPGP-nøkkel
 openpgp-passphrase-prompt-title = Passordfrase kreves
 
 ## External Key section
