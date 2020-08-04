@@ -23,7 +23,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Generer OpenPGP-nøkkel
-openpgp-generate-key-info = <b>Nøkkelgenerering kan ta opptil flere minutter å fullføre.</b> Ikke avslutt applikasjonen mens nøkkelgenerering pågår. Hvis du aktivt surfer eller utfører diskintensive operasjoner under nøkkelgenerering, vil det oppfylle «tilfeldighetsbassenget» og gjøre prosessen raskere. Du blir varslet når nøkkelgenerering er fullført.
+openpgp-generate-key-info = <b>Nøkkelgenerering kan ta opptil flere minutter å fullføre.</b> Ikke avslutt applikasjonen mens nøkkelgenerering pågår. Hvis du aktivt surfer eller utfører diskintensive operasjoner under nøkkelgenerering, vil det fylle opp «randomness pool»-en og gjøre prosessen raskere. Du blir varslet når nøkkelgenerering er fullført.
 openpgp-keygen-expiry-title = Nøkkelen utløper
 openpgp-keygen-expiry-description = Definer utløpstiden for den nylig genererte nøkkelen. Du kan senere kontrollere datoen for å forlenge den om nødvendig.
 radio-keygen-expiry =
@@ -64,6 +64,10 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Lukk
     .accesskey = L
+openpgp-keygen-long-expiry = Du kan ikke opprette en nøkkel som går ut senere enn 100 år.
+openpgp-keygen-short-expiry = Nøkkelen din må være gyldig i minst en dag.
+openpgp-keygen-ongoing = Nøkkelgenerering er allerede i gang!
+openpgp-keygen-error-core = Kan ikke å initialisere OpenPGP Core Service
 
 ## Import Key section
 
