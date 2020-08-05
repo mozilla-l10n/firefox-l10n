@@ -48,6 +48,7 @@ onboarding-cards-dismiss =
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Tässä <span data-l10n-name="zap">{ -brand-short-name }</span>, tervetuloa
 onboarding-multistage-welcome-subtitle = Nopea, turvallinen ja yksityinen selain, jonka takana on voittoa tavoittelematon organisaatio.
+onboarding-multistage-welcome-primary-button-label = Aloita
 onboarding-multistage-welcome-secondary-button-label = Kirjaudu sisään
 onboarding-multistage-welcome-secondary-button-text = Onko sinulla jo tili?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -56,6 +57,9 @@ onboarding-multistage-import-header = Tuo salasanat, kirjanmerkit ja <span data-
 onboarding-multistage-import-subtitle = Oletko siirtymässä toisesta selaimesta? Tietojen tuominen { -brand-short-name }iin on helppoa.
 onboarding-multistage-import-primary-button-label = Aloita tuonti
 onboarding-multistage-import-secondary-button-label = Ei nyt
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Tässä listatut sivustot löydettiin tältä laitteelta. { -brand-short-name } ei tallenna eikä synkronoi tietoja toisesta selaimesta, jos päätät olla tuomatta niitä.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -74,12 +78,38 @@ onboarding-multistage-theme-label-automatic = Automaattinen
 onboarding-multistage-theme-description-automatic = Käytä järjestelmän teemaa
 onboarding-multistage-theme-label-light = Vaalea
 onboarding-multistage-theme-label-dark = Tumma
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Käytä käyttöjärjestelmän ulkoasua
+        painikkeille, valikoille ja ikkunoille.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Käytä vaaleaa ulkoasua painikkeille,
+        valikoille ja ikkunoille.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Käytä tummaa ulkoasua painikkeille,
+        valikoille ja ikkunoile.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Käytä värikästä ulkoasua painikkeille,
+        valikoille ja ikkunoille.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
