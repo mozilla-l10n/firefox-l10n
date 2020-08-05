@@ -69,6 +69,16 @@ openpgp-manager-description = Utilisez le gestionnaire de clés OpenPGP pour con
 openpgp-manager-button =
     .label = Gestionnaire de clés OpenPGP
     .accesskey = G
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    { $days ->
+        [one]
+            Votre clé { $desc } va expirer dans moins d’un jour.
+            Nous vous recommandons de créer une nouvelle paire de clés et de configurer les comptes associés pour l’utiliser.
+       *[other]
+            Votre clé { $desc } va expirer dans moins de { $days } jours.
+            Nous vous recommandons de créer une nouvelle paire de clés et de configurer les comptes associés pour l’utiliser.
+    }
 
 ## Account settings export output
 
