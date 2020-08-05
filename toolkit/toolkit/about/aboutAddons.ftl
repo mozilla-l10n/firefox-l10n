@@ -412,6 +412,8 @@ addon-detail-version-label = Version
 addon-detail-last-updated-label = Senast uppdaterad
 addon-detail-homepage-label = Hemsida
 addon-detail-rating-label = Betyg
+# Message for add-ons with a staged pending update.
+install-postponed-message = Detta tillägg kommer att uppdateras när { -brand-short-name } startar om.
 install-postponed-button = Uppdatera nu
 # The average rating that the add-on has received.
 # Variables:
