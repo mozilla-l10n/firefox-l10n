@@ -80,5 +80,5 @@ set-password-reminder = Viktig: Hvis du glemmer passordet til sertifikatsikkerhe
 
 protected-auth-window =
     .title = Autentisering med beskyttet tegn
-protected-auth-msg = Vennligst autentiser tegnet. Autentiseringsmetoden er avhengig av type signeringsenhet.
+protected-auth-msg = Autentifiser deg selv for dette symbolet. Autentiseringsmetoden er avhengig av type signeringsenhet.
 protected-auth-token = Token:

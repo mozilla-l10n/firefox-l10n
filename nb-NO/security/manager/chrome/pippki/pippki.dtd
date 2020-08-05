@@ -46,5 +46,5 @@
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Autentisering med beskyttet tegn">
-<!ENTITY protectedAuth.msg "Vennligst autentiser tegnet. Autentiseringsmetoden er avhengig av type signeringsenhet.">
+<!ENTITY protectedAuth.msg "Autentifiser deg selv for dette symbolet. Autentiseringsmetoden er avhengig av type signeringsenhet.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
