@@ -30,6 +30,10 @@ printui-scale = 縮放
 printui-scale-fit-to-page = 填滿頁面
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = 縮放比例
+# Section title for miscellaneous print options
+printui-options = 選項
+printui-headers-footers-checkbox = 列印頁首與頁尾
+printui-backgrounds-checkbox = 列印背景
 printui-system-dialog-link = 使用系統對話框列印…
 printui-primary-button = 列印
 printui-cancel-button = 取消
