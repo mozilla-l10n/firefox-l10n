@@ -12,5 +12,10 @@
 <!ENTITY newsgroups.label "Gruppos de discussion">
 <!ENTITY feeds.label "Fluxos">
 
+<!ENTITY unsetDefault.tooltip "Impossibile eliminar &brandShortName; del cliente predefinite in &brandShortName;. Pro render predefinite un altere application tu debe usar su fenestra de dialogo 'Predefinir'">
 
+<!ENTITY checkOnStartup.label "Facer sempre iste controlo al initio de &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "s">
 
+<!ENTITY searchIntegration.label "Permitter a &searchIntegration.engineName; de cercar messages">
+<!ENTITY searchIntegration.accesskey "c">
