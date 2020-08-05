@@ -24,6 +24,7 @@ appmenu-update-unsupported =
     .buttonaccesskey = L
     .secondarybuttonlabel = మూసివేయి
     .secondarybuttonaccesskey = C
+appmenu-update-unsupported-message = { -brand-shorter-name } యొక్క సరికొత్త వెర్షనుకి మీ వ్యవస్థలో తోడ్పాటు లేదు.
 appmenu-update-restart =
     .label = { -brand-shorter-name }‌ను తాజాకరించడానికి పునఃప్రారంభించండి.
     .buttonlabel = పునరుద్ధరించి పునఃప్రారంభించు
