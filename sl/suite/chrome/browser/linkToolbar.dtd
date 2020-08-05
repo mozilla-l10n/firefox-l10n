@@ -7,16 +7,26 @@
 <!-- Link Toolbar visibility options -->
 
 <!-- Toolbar buttons, menus, and menuitems -->
+<!ENTITY topButton.label "Na vrh">
+<!ENTITY upButton.label "Gor">
+<!ENTITY firstButton.label "Prvi">
+<!ENTITY prevButton.label "Prejšnji">
+<!ENTITY nextButton.label "Naslednji">
+<!ENTITY lastButton.label "Zadnji">
 
 <!ENTITY documentButton.label "Dokument">
 
+<!ENTITY tocButton.label "Kazalo vsebine">
 <!ENTITY chapterButton.label "Poglavja">
 <!ENTITY sectionButton.label "Odseki">
+<!ENTITY glossaryButton.label "Besednjak">
 
 <!ENTITY moreButton.label "Več">
 
 <!ENTITY helpButton.label "Pomoč">
+<!ENTITY searchButton.label "Iskanje">
 
+<!ENTITY authorButton.label "Avtor(ji)">
 
 <!ENTITY bookmarkButton.label "Zaznamki">
 
