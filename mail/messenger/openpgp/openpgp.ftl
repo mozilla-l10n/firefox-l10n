@@ -305,7 +305,11 @@ expiry-keys-missing-owner-trust =
     Vi anbefaler at du stiller inn «Du stoler på sertifiseringer» til «ultimat» i nøkkelegenskaper.
 expiry-open-key-manager = Åpne OpenPGP-nøkkelbehandler
 expiry-open-key-properties = Åpne nøkkelegenskaper
+# Strings filters.jsm
+filter-folder-required = Du må velge en målmappe
 filter-term-pgpencrypted-label = OpenPGP-kryptert
+filter-key-required = Du må velge en mottakernøkkel.
+filter-key-not-found = Kunne ikke finne en krypteringsnøkkel for «{ $desc }».
 
 ## Account settings export output
 
