@@ -315,6 +315,24 @@ keyserver-error-unsupported = Nid yw'r gweinydd allweddi'n cael ei gynnal
 wkd-message-body-req =
     Prosesodd eich darparwr e-bost eich cais i lwytho'ch allwedd gyhoeddus i fyny i Gyfeiriadur Allwedd Gwe OpenPGP.
     Cadarnhewch i gwblhau cyhoeddi eich allwedd gyhoeddus.
+wkd-message-body-process =
+    E-bost yw hwn sy'n gysylltiedig â'r prosesu awtomatig i lwytho'ch allwedd gyhoeddus i fyny i Gyfeiriadur Allwedd Gwe OpenPGP.
+    Nid oes angen i chi gymryd unrhyw gamau â llaw ar hyn o bryd.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Methu dadgryptio neges gyda'r pwnc
+    { $subject }.
+    Ydych chi am geisio eto gyda chyfrinair gwahanol neu a ydych chi am hepgor y neges?
+# Strings in gpg.jsm
+unknown-signing-alg = Algorithm llofnodi anhysbys (ID: { $id })
+unknown-hash-alg = Hash cryptograffig anhysbys (ID: { $id }
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Bydd eich allwedd { $desc } yn dod i ben mewn llai na { $days } diwrnod.
+    Rydym yn argymell eich bod yn creu pâr o allweddi newydd ac yn ffurfweddu'r cyfrifon cyfatebol i'w ddefnyddio.
+expiry-keys-expire-soon =
+    Bydd eich allwedd { $desc } yn dod i ben mewn llai na { $days } diwrnod.
+    Rydym yn argymell eich bod yn creu allweddi newydd ac yn ffurfweddu'r cyfrifon cyfatebol i'w ddefnyddio.
 
 ## Account settings export output
 
