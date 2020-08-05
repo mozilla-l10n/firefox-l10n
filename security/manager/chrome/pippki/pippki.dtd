@@ -42,7 +42,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Genererer en privat nøkkel">
 <!ENTITY createCertInfo.msg1 "Nøkkeloppretting foregår … Dette kan ta en stund …">
-<!ENTITY createCertInfo.msg2 "Vent …">
+<!ENTITY createCertInfo.msg2 "Vent litt…">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Autentisering med beskyttet tegn">
