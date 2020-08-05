@@ -91,6 +91,7 @@ newtab-menu-show-privacy-info = మా స్పాన్సర్లు & మ�
 newtab-privacy-modal-button-done = పూర్తయింది
 newtab-privacy-modal-button-manage = ప్రాయోజిత విషయపు అమరికలను నిర్వహించండి
 newtab-privacy-modal-header = మీ అంతరంగికత ముఖ్యమైనది.
+newtab-privacy-modal-link = కొత్త ట్యాబులో అంతరంగికత ఎలా పనిచేస్తుందో తెలుసుకోండి
 
 ##
 
@@ -131,6 +132,10 @@ newtab-label-download = దింపుకున్నవి
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ప్రాయోజితం
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = { $sponsor }చే ప్రాయోజితం
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -171,6 +176,8 @@ newtab-empty-section-topstories = మీరు పట్టుబడ్డార
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = మీరు అన్నీ చూసేసారు!
+newtab-discovery-empty-section-topstories-content = మరిన్న కథనాల కోసం కాసేపటి తర్వాత చూడండి.
 newtab-discovery-empty-section-topstories-try-again-button = మళ్ళీ ప్రయత్నించు
 newtab-discovery-empty-section-topstories-loading = వస్తోంది…
 
