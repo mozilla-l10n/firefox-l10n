@@ -273,7 +273,7 @@ key-expired-date = Nøkkelen utløp den { $keyExpiry }
 key-expired-simple = Nøkkelen er utløpt
 key-revoked-simple = Nøkkelen ble tilbakekalt
 key-do-you-accept = Godtar du denne nøkkelen for å bekrefte digitale signaturer og for å kryptere meldinger?
-key-accept-warning = Unngå å akseptere en useriøs skurkenøkkel. Bruk en annen kommunikasjonskanal enn e-post for å bekrefte fingeravtrykket til korrespondentens nøkkel.
+key-accept-warning = Unngå å akseptere en useriøs lurenøkkel. Bruk en annen kommunikasjonskanal enn e-post for å bekrefte fingeravtrykket til korrespondentens nøkkel.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kan ikke sende meldingen, fordi det er et problem med din personlige nøkkel. { $problem }
 cannot-encrypt-because-missing = Kan ikke sende denne meldingen med ende-til-ende-kryptering, fordi det er problemer med nøklene til følgende mottakere: { $problem }
@@ -284,6 +284,18 @@ mime-decrypt-encrypted-part-concealed-data = Dette er en kryptert meldingsdel. D
 # Strings in keyserver.jsm
 keyserver-error-aborted = Avbrutt
 keyserver-error-unknown = En ukjent feil oppstod
+keyserver-error-server-error = Nøkkelserveren rapporterte en feil.
+keyserver-error-import-error = Kunne ikke importere den nedlastede nøkkelen.
+keyserver-error-unavailable = Nøkkelserveren er ikke tilgjengelig.
+keyserver-error-security-error = Nøkkelserveren støtter ikke kryptert tilgang.
+keyserver-error-certificate-error = Nøkkelserverens sertifikat er ikke gyldig.
+keyserver-error-unsupported = Nøkkelserveren støttes ikke.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Din e-postleverandør behandlet forespørselen din om å laste opp den offentlige nøkkelen til OpenPGP Web Key Directory.
+    Bekreft for å fullføre publiseringen av din offentlige nøkkel.
+# Strings in gpg.jsm
+unknown-signing-alg = Ukjent signeringsalgoritme (ID: { $id })
 expiry-key-missing-owner-trust =
     Den hemmelige nøkkelen din { $desc } mangler tiltro.
     Vi anbefaler at du stiller inn «Du stoler på sertifiseringer» til «ultimat» i nøkkelegenskaper.
@@ -293,6 +305,7 @@ expiry-keys-missing-owner-trust =
     Vi anbefaler at du stiller inn «Du stoler på sertifiseringer» til «ultimat» i nøkkelegenskaper.
 expiry-open-key-manager = Åpne OpenPGP-nøkkelbehandler
 expiry-open-key-properties = Åpne nøkkelegenskaper
+filter-term-pgpencrypted-label = OpenPGP-kryptert
 
 ## Account settings export output
 
