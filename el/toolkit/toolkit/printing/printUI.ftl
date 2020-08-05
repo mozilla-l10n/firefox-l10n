@@ -31,6 +31,10 @@ printui-scale = Κλίμακα
 printui-scale-fit-to-page = Προσαρμογή στη σελίδα
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Κλίμακα
+# Section title for miscellaneous print options
+printui-options = Επιλογές
+printui-headers-footers-checkbox = Εκτύπωση κεφαλίδων και υποσέλιδων
+printui-backgrounds-checkbox = Εκτύπωση παρασκηνίου
 printui-system-dialog-link = Εκτύπωση μέσω διαλόγου συστήματος…
 printui-primary-button = Εκτύπωση
 printui-cancel-button = Ακύρωση
