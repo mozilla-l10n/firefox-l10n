@@ -405,6 +405,8 @@ addon-detail-version-label = 版本
 addon-detail-last-updated-label = 上次更新
 addon-detail-homepage-label = 主页
 addon-detail-rating-label = 评分
+# Message for add-ons with a staged pending update.
+install-postponed-message = 该扩展将在 { -brand-short-name } 重启后完成更新。
 install-postponed-button = 立即更新
 # The average rating that the add-on has received.
 # Variables:
