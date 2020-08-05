@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Zakazowanie aplikacyji { -brand-short-name } klud
 policy-DisableForgetButton = Zakazowanie dostympu do knefla "Przepōmnij".
 policy-DisableFormHistory = Wyłōnczanie spamiyntowanio historyje szukanio i formularōw.
 policy-DisableMasterPasswordCreation = Jak to je aktywne, to niy idzie zrychtować głōwnego hasła.
+policy-DisablePrimaryPasswordCreation = Jak to je aktywne, to niy idzie zrychtować głōwnego hasła.
 policy-DisablePasswordReveal = Zakazowanie pokazowanio haseł we spamiyntanych danych logowanio.
 policy-DisablePocket = Zastawianie funkcyje spamiyntowanio strōn w usudze Pocket.
 policy-DisablePrivateBrowsing = Zastawianie prywatnego przeglōndanio.
@@ -78,6 +79,7 @@ policy-LegacySameSiteCookieBehaviorEnabled = Załōnczanie bazowego sztalōnku z
 
 policy-LocalFileLinks = Zgoda, coby niykere strōny linkowały do lokalnych zbiorōw.
 policy-MasterPassword = Żōndanie abo zakoz używanio głōwnego hasła.
+policy-PrimaryPassword = Żōndanie abo zakoz używanio głōwnego hasła.
 policy-NetworkPrediction = Załōnczanie abo zastawianie wstympnego wczytowanio DNS.
 policy-NewTabPage = Załōnczanie abo zastawianie strōny nowyj karty.
 policy-NoDefaultBookmarks = Zastawianie rychtowanio bazowych zokłodek skuplowanych z aplikacyjōm { -brand-short-name } a szprytnych zokłodek (Nojwiyncyj nawiydzane, Niydowne etykety). Pozōr: te pravidło funguje ino, jak go użyjesz przed piyrszym sztartniyńciym profilu.
