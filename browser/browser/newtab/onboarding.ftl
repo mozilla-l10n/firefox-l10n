@@ -54,7 +54,16 @@ onboarding-multistage-welcome-secondary-button-text = Маеце ўліковы 
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Імпартуйце свае паролі, <br/>закладкі і <span data-l10n-name="zap">іншае</span>
+onboarding-multistage-import-subtitle = Пераходзіце з іншага браўзера? Перанесці ўсё ў { -brand-short-name } проста.
+onboarding-multistage-import-primary-button-label = Пачаць імпарт
 onboarding-multistage-import-secondary-button-label = Не зараз
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer =
+    Пералічаныя тут сайты былі знойдзены на гэтай прыладзе.
+    { -brand-short-name } не захоўвае і не сінхранізуе дадзеныя
+    з іншага браўзера, калі вы не выбралі
+    імпартаваць іх.
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Аўтаматычна
 # System refers to the operating system
