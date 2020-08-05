@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Ndaikatúi ehechajey ko mboajepyréva pe apoh
 cert-not-verified-ca-invalid = Ndaikatúi ojehechajey ko mboajepyréva pe mboajepyréva CA mba’éva ndoikói rupi.
 cert-not-verified_algorithm-disabled = Ndaikatúi ojehechajey ko mboajepyréva oñemboheraguapy rupi oipurukuévo peteĩ algoritmo mboheraguapy rehegua ojehejapyréva nahekorosãi haguére.
 cert-not-verified-unknown = Ndaikatuí ojehechajey ko mboajepyréva ha ndojekuaái mba’éicha rupi.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Ani emondo ñemuhára mboajepyréva
 
 ## Add Security Exception dialog
 
