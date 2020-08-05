@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-one-recipient-status-title =
+    .title = OpenPGP üzenetbiztonság
 openpgp-one-recipient-status-status =
     .label = Állapot
 openpgp-one-recipient-status-key-id =
@@ -14,6 +16,7 @@ openpgp-one-recipient-status-open-details =
     .label = Részletek megnyitása és elfogadás szerkesztése…
 openpgp-one-recipient-status-discover =
     .label = Új vagy frissített kulcs felfedezése
+openpgp-one-recipient-status-instruction1 = Végpontok között titkosított üzenet adott címzetthez való küldéséhez meg kell szereznie annak OpenPGP nyilvános kulcsát, és elfogadottként kell megjelölnie.
 openpgp-key-own = Elfogadva (személyes kulcs)
 openpgp-key-secret-not-personal = Nem használható
 openpgp-key-verified = Elfogadva (ellenőrzött)

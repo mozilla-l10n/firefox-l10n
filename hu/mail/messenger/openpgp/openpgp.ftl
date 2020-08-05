@@ -129,8 +129,16 @@ openpgp-key-man-key-props =
 openpgp-key-man-key-more =
     .label = Továbbiak
     .accesskey = T
+openpgp-key-man-view-photo =
+    .label = Fotóazonosító
+    .accesskey = F
+openpgp-key-man-ctx-view-photo-label =
+    .label = Fotóazonosító megtekintése
 openpgp-key-man-show-invalid-keys =
     .label = Érvénytelen kulcsok megjelenítése
+    .accesskey = m
+openpgp-key-man-show-others-keys =
+    .label = Kulcsok megjelenítése másoktól
     .accesskey = m
 openpgp-key-man-user-id-label =
     .label = Név
@@ -143,6 +151,8 @@ openpgp-key-man-empty-tree-tooltip =
     .label = Írja be a keresési kifejezéseket a fenti mezőbe
 openpgp-key-man-nothing-found-tooltip =
     .label = Egyik kulcs sem felel meg a keresési kifejezéseknek
+openpgp-key-man-please-wait-tooltip =
+    .label = Várjon amíg a kulcsok betöltésre kerülnek…
 openpgp-key-man-filter-label =
     .placeholder = Kulcsok keresése
 openpgp-key-man-select-all-key =
@@ -179,6 +189,7 @@ openpgp-key-details-fingerprint-label = Ujjlenyomat
 openpgp-key-details-sel-action =
     .label = Válasszon műveletet…
     .accesskey = V
+openpgp-key-details-also-known-label = A kulcstulajdonos állítólagos alternatív személyazonosságai:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Bezárás
 openpgp-acceptance-label =
@@ -201,17 +212,37 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] A Thunderbird nem rendelkezik OpenPGP-kulccsal a következőhöz: <b>{ $identity }</b>
+        [one] A Thunderbird { $count } személyes OpenPGP-kulcsot köt a következőhöz: <b>{ $identity }</b>
+       *[other] A Thunderbird { $count } személyes OpenPGP-kulcsot köt a következőhöz: <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Válasszon érvényes kulcsot az OpenPGP-protokoll használatához.
+        [one] A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsazonosítót használja.
+       *[other] A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsazonosítót használja.
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsot használja, ami lejárt.
 openpgp-add-key-button =
     .label = Kulcs hozzáadása…
     .accesskey = a
 e2e-learn-more = További tudnivalók
 openpgp-keygen-success = Az OpenPGP-kulcs sikeresen létrehozva.
 openpgp-keygen-import-success = Az OpenPGP-kulcsok importálása sikeres.
+openpgp-keygen-external-success = Külső GnuPG kulcsazonosító elmentve.
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Nincs
+openpgp-radio-none-desc = Ne használjon OpenPGP-t ehhez a személyazonossághoz.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Lejár: { $date }
 openpgp-key-expires-image =
@@ -246,6 +277,10 @@ key-does-not-expire = A kulcs nem jár le
 key-expired-date = A kulcs ekkor lejárt: { $keyExpiry }
 key-expired-simple = A kulcs lejárt
 key-revoked-simple = A kulcsot visszavonták
+window-locked = Az írási ablak zárolva van; küldés megszakítva
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Titkosított üzenetrész
+mime-decrypt-encrypted-part-concealed-data = Ez egy titkosított üzenetrész. A mellékletre kattintva, egy külön ablakban kell megnyitnia.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Megszakítva
 keyserver-error-unknown = Ismeretlen hiba történt
@@ -257,16 +292,35 @@ keyserver-error-certificate-error = A kulcskiszolgáló tanúsítványa nem érv
 keyserver-error-unsupported = A kulcskiszolgáló nem támogatott.
 # Strings in gpg.jsm
 unknown-signing-alg = Ismeretlen aláírási algoritmus (azonosító: { $id })
+expiry-open-key-manager = OpenPGP-kulcskezelő megnyitása
+expiry-open-key-properties = Kulcstulajdonságok megnyitása
+# Strings filters.jsm
+filter-folder-required = Ki kell választania a célmappát.
 filter-term-pgpencrypted-label = OpenPGP-vel titkosított
+filter-key-required = Ki kell választania a címzett kulcsát.
+filter-key-not-found = Nem található titkosítási kulcs a következőhöz: „{ $desc }”.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Végleges visszafejtés (OpenPGP)
 filter-decrypt-copy-label = Visszafejtett másolat létrehozása (OpenPGP)
+filter-encrypt-label = Titkosítás a kulcshoz (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Sikeres! Kulcsok importálva
 import-info-bits = Bitek
 import-info-created = Létrehozva
 import-info-fpr = Ujjlenyomat
+import-info-details = Részletek megtekintése és a kulcselfogadás kezelése
+import-info-no-keys = Nem lett kulcs importálva.
+# Strings in enigmailKeyManager.js
+import-from-clip = Szeretne kulcsokat importálni a vágólapról?
+import-from-url = Nyilvános kulcsok letöltése erről az URL-ről:
+copy-to-clipbrd-failed = A kiválasztott kulcsok nem másolhatók a vágólapra.
+copy-to-clipbrd-ok = Kulcsok a vágólapra másolva
+delete-secret-key =
+    FIGYELEM: Egy titkos kulcs törlésére készül!If you delete your secret key, you will no longer be able to decrypt any messages encrypted for that key, nor will you be able to revoke it.
+    
+    Do you really want to delete BOTH, the secret key and the public key
+    '{ $userId }'?
 save-keys-failed = A kulcsok mentése sikertelen
 general-error = Hiba: { $reason }
 dlg-button-delete = Tör&lés
