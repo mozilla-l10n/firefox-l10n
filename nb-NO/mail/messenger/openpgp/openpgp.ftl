@@ -344,6 +344,12 @@ delete-mix =
 delete-pub-key =
     Vil du slette den offentlige nøkkelen
     «{ $userId }»?
+delete-selected-pub-key = Vil du slette de offentlige nøklene?
+refresh-all-question = Du valgte ingen nøkkel. Vil du oppdatere ALLE nøkler?
+key-man-button-export-sec-key = Eksporter &hemmelige nøkler
+key-man-button-export-pub-key = Eksport kun &offentlige nøkler
+key-man-button-refresh-all = &Oppdater alle nøklene
+key-man-loading-keys = Laster inn nøkler, vent…
 
 ## Account settings export output
 
