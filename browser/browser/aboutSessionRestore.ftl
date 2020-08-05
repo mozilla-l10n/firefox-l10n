@@ -7,7 +7,7 @@ restore-page-tab-title = Restaurar sessão
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Desculpe, estamos com problemas para restaurar suas páginas.
 restore-page-problem-desc = Estamos tendo problemas para restaurar sua última sessão de navegação. Clique abaixo em 'Restaurar sessão' para tentar novamente.
-restore-page-try-this = Ainda não conseguiu restaurar sua sessão? Às vezes uma aba pode estar causando o problema. Veja as abas que estavam abertas, desmarque as que você não precisa recuperar e depois restaure.
+restore-page-try-this = Ainda não conseguiu restaurar a sessão? Às vezes uma aba pode estar causando o problema. Veja as abas que estavam abertas, desmarque as que você não precisa recuperar e depois restaure.
 restore-page-hide-tabs = Ocultar abas da sessão anterior
 restore-page-show-tabs = Exibir abas da sessão anterior
 # When tabs are distributed across multiple windows, this message is used as a
@@ -33,8 +33,8 @@ welcome-back-tab-title = Sucesso!
 welcome-back-page-title = Sucesso!
 welcome-back-page-info = O { -brand-short-name } está pronto.
 welcome-back-restore-button =
-    .label = Vamos!
+    .label = Vamos lá!
     .accesskey = V
 welcome-back-restore-all-label = Restaurar todas as janelas e abas
-welcome-back-restore-some-label = Restaurar só as que você deseja
-welcome-back-page-info-link = Suas extensões e personalizações foram removidas e as configurações do navegador foram restauradas. Se isto não resolver seu problema, <a data-l10n-name="link-more">saiba mais sobre o que você pode fazer.</a>
+welcome-back-restore-some-label = Restaurar só as que você quer
+welcome-back-page-info-link = Suas extensões e personalizações foram removidas e as configurações do navegador foram restauradas. Se isso não resolver o problema, <a data-l10n-name="link-more">saiba mais sobre o que você pode fazer</a>.
