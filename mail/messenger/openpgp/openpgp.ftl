@@ -377,6 +377,27 @@ delete-secret-key =
     
     Ydych chi wir eisiau DILEU'R allwedd gyfrinachol a'r allwedd gyhoeddus
     '{ $userId }'?
+delete-mix =
+    RHYBUDD: Rydych chi ar fin dileu allwedd gyfrinachol!
+    Os byddwch yn dileu eich allwedd gyfrinachol, ni fydd modd i chi ddadgryptio unrhyw negeseuon sydd wedi'u hamgryptio ar gyfer yr allwedd honno bellach.
+    Ydych chi wir eisiau DILEU'R allwedd gyfrinachol a'r un gyhoeddus?
+delete-pub-key =
+    Ydych chi eisiau dileu'r allwedd gyhoeddus
+    '{ $userId }'?
+delete-selected-pub-key = Ydych chi eisiau dileu'r allwedd gyhoeddus'?
+refresh-all-question = Nid ydych wedi dewis unrhyw allwedd. Hoffech chi adnewyddu POB allwedd?
+key-man-button-export-sec-key = &Allforio Allweddi Cyfrinachol
+key-man-button-export-pub-key = Allforion Allweddi &Cyhoeddus yn Unig
+key-man-button-refresh-all = Adnewyddu &Pob Allwedd
+key-man-loading-keys = Llwytho allweddi, arhoswch...
+ascii-armor-file = Ffeiliau Arfogaeth ASCII (* .asc)
+no-key-selected = Dylech ddewis o leiaf un allwedd er mwyn cyflawni'r weithred hon
+export-to-file = Allforio Allwedd Gyhoeddus i Ffeil
+export-keypair-to-file = Allforio Allwedd Gyfrinachol a Chyhoeddus i Ffeil
+export-secret-key = Ydych chi am gynnwys yr allwedd gyfrinachol yn y ffeil allwedd OpenPGP sydd wedi'i chadw?
+save-keys-ok = Cadwyd yr allweddi'n llwyddiannus
+save-keys-failed = Methodd cadw'r allweddi
+default-pub-key-filename = Allweddi cyhoeddus wedi'u hallforio
 
 ## Account settings export output
 
