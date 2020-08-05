@@ -101,3 +101,4 @@ experimental-features-devtools-serviceworker-debugger-support-description = ჩ�
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = გრაფიკა: Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = ჩართვა თითების ჟესტებით გლუვი მოახლოების, შეხების აღმქმელი ეკრანებისა და დაფებისთვის.
