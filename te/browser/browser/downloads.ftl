@@ -36,6 +36,9 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = ఫైండర్‌లో చూపించు
     .accesskey = F
+downloads-cmd-use-system-default =
+    .label = వ్యవస్థ దర్శనిలో తెరువు
+    .accesskey = V
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->

@@ -149,6 +149,8 @@ page-action-manage-extension =
     .label = పొడగింత నిర్వహణ…
 page-action-remove-from-urlbar =
     .label = చిరునామా పట్టీ నుండి తొలగించండి
+page-action-remove-extension =
+    .label = పొడగింతను తొలగించు
 
 ## Auto-hide Context Menu
 
@@ -298,6 +300,8 @@ urlbar-placeholder =
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
 urlbar-remote-control-notification-anchor =
     .tooltiptext = విహరణి వ్యవహిత నియంత్రణ కింద ఉంది
+urlbar-permissions-granted =
+    .tooltiptext = ఈ వెబ్‌సైటుకి మీరు అదనపు అనుమతులు ఇచ్చివున్నారు.
 urlbar-switch-to-tab =
     .value = ట్యాబుకు మారు:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -307,3 +311,5 @@ urlbar-go-button =
     .tooltiptext = ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి
 urlbar-page-action-button =
     .tooltiptext = పేజీ చర్యలు
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name }‌కి భద్రపరుచు
