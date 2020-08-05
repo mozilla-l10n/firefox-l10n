@@ -35,6 +35,10 @@ printui-scale = Graddfa
 printui-scale-fit-to-page = Yn ffitio'r dudalen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Graddfa
+# Section title for miscellaneous print options
+printui-options = Dewisiadau
+printui-headers-footers-checkbox = Argraffu penynnau a throedynnau
+printui-backgrounds-checkbox = Argraffu cefndiroedd
 printui-system-dialog-link = Argraffu gan ddefnyddio deialog y system ...
 printui-primary-button = Argraffu
 printui-cancel-button = Diddymu
