@@ -8,6 +8,7 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = Continua
     .buttonlabelhelp = Torna indietro
+key-wizard-warning = <b>Se si dispone di una chiave personale esistente</b> per questo indirizzo email, si dovrebbe importarla. In caso contrario, non si avrà accesso ai propri archivi di email crittate, né si sarà in grado di leggere le email crittate in arrivo da persone che stanno ancora utilizzando quella chiave.
 key-wizard-learn-more = Ulteriori informazioni
 radio-create-key =
     .label = Crea una nuova chiave OpenPGP
@@ -22,6 +23,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Genera chiave OpenPGP
+openpgp-generate-key-info = <b>Il completamento del processo di generazione della chiave potrebbe richiedere alcuni minuti.</b> Non uscire dall’applicazione mentre è in corso la generazione della chiave. Navigare attivamente o eseguire operazioni a uso intensivo del disco durante la generazione delle chiavi incrementerà il livello di casualità e accelererà il processo. Quando il processo di generazione della chiave sarà completato, si riceverà un avviso.
 openpgp-keygen-expiry-title = Scadenza chiave
 radio-keygen-expiry =
     .label = La chiave scade in
