@@ -91,7 +91,10 @@ openpgp-import-key-list-amount =
        *[other] Thunderbird fant { $count } nøkler som kan importeres.
     }
 openpgp-import-key-list-description = Bekreft hvilke nøkler som kan behandles som dine personlige nøkler. Bare nøkler som du opprettet selv og som viser din egen identitet, skal brukes som personlige nøkler. Du kan endre dette alternativet senere i dialogboksen Nøkkelegenskaper.
+openpgp-import-key-list-caption = Nøkler merket for å bli behandlet som personlige nøkler vil bli oppført i avsnittet ende-til-ende-kryptering. De andre vil være tilgjengelige i nøkkelbehandleren.
 openpgp-passphrase-prompt-title = Passordfrase kreves
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Skriv inn passordfrasen for å låse opp følgende nøkkel: { $key }
 openpgp-import-key-props =
     .label = Nøkkelegenskaper
     .accesskey = N
