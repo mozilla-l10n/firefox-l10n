@@ -30,6 +30,9 @@ printui-scale = Tỷ lệ
 printui-scale-fit-to-page = Vừa một trang
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Tỷ lệ
+# Section title for miscellaneous print options
+printui-options = Tùy chọn
+printui-headers-footers-checkbox = In đầu trang và chân trang
 printui-system-dialog-link = In bằng hộp thoại hệ thống…
 printui-primary-button = In
 printui-cancel-button = Hủy bỏ
