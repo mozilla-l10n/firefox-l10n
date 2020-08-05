@@ -890,7 +890,7 @@ sitedata-total-size-calculating = საიტის მუდმივი დ�
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = თქვენ მიერ შენახული ფუნთუშები, საიტის მუდმივი და დროებითი მონაცემები, ამჟამად დისკზე იკავებს { $value } { $unit } მოცულობას.
+sitedata-total-size = თქვენ მიერ შენახულ ფუნთუშებს, ასევე საიტის მუდმივ და დროებით მონაცემებს, ამჟამად დისკზე უკავია { $value } { $unit } მოცულობა.
 sitedata-learn-more = ვრცლად
 sitedata-delete-on-close =
     .label = ფუნთუშებისა და საიტის მონაცემების წაშლა, როცა { -brand-short-name } დაიხურება
