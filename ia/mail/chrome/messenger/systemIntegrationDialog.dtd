@@ -2,7 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY systemIntegration.title  "Integration de systema">
+<!ENTITY acceptIntegration.label  "Stabilir como predeterminate">
+<!ENTITY cancelIntegration.label  "Saltar integration">
+<!ENTITY cancelIntegration2.label  "Cancellar">
+<!ENTITY defaultClient.intro  "Usar &brandShortName; como cliente predefinite pro:">
 
+<!ENTITY email.label "Email">
 <!ENTITY newsgroups.label "Gruppos de discussion">
 <!ENTITY feeds.label "Fluxos">
 
