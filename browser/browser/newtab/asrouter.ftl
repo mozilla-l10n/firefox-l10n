@@ -105,6 +105,7 @@ cfr-whatsnew-tracking-blocked-title =
        *[other] ట్రాకర్లు నిరోధించబడ్డాయి
     }
 cfr-whatsnew-tracking-blocked-link-text = నివేదికను చూడండి
+cfr-whatsnew-lockwise-backup-title = మీ సంకేతపదాలను బ్యాకప్ తీసుకోండి
 cfr-whatsnew-lockwise-backup-link-text = బ్యాకప్‌లను చేతనించండి
 cfr-whatsnew-lockwise-take-title = మీ సంకేతపదాలను మీతో తీసుకెళ్ళండి
 cfr-whatsnew-lockwise-take-link-text = అనువర్తనాన్ని పొందండి
