@@ -414,3 +414,5 @@ openpgp-export-secret-fail = <b>Methu allforio'r allwedd gyfrinachol a ddewiswyd
 key-ring-pub-key-revoked = Mae'r allwedd { $userId } (ID allwedd { $keyId }) wedi'i dirymu.
 key-ring-pub-key-expired = Mae'r allwedd { $userId } (ID allwedd { $keyId }) wedi dod i ben.
 key-ring-key-disabled = Mae'r allwedd { $userId } (ID allwedd { $keyId }) wedi'i analluogi; nid oes modd ei defnyddio.
+key-ring-key-invalid = Nid yw'r allwedd { $userId } (ID allwedd { $keyId }) yn ddilys. Ystyriwch ei ddilysu'n gywir.
+key-ring-key-not-trusted = Nid yw'r allwedd { $userId } (ID allwedd { $keyId }) yn ddigon dibynadwy. Gosodwch lefel ymddiriedaeth eich allwedd i "eithaf" i'w defnyddio ar gyfer llofnodi.
