@@ -272,9 +272,13 @@ key-expired-date = 密钥已于 { $keyExpiry } 过期
 key-expired-simple = 密钥已过期
 key-revoked-simple = 密钥已被吊销
 key-do-you-accept = 您要接受将此密钥用于验证数字签名与加密消息吗？
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = 您的个人密钥有问题，无法发送消息。{ $problem }
+cannot-encrypt-because-missing = 由于下列收件人的密钥有问题，无法用端到端加密的方式发送此消息：{ $problem }
 window-locked = 邮件撰写窗口已锁定；取消发送
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = 加密消息部分
+mime-decrypt-encrypted-part-concealed-data = 这是加密过的消息部分。请点击附件用单独视窗打开。
 # Strings in keyserver.jsm
 keyserver-error-aborted = 已中止
 keyserver-error-unknown = 发生未知错误
@@ -284,6 +288,9 @@ keyserver-error-unavailable = 密钥服务器不可用。
 keyserver-error-security-error = 密钥服务器不支持加密访问。
 keyserver-error-certificate-error = 密钥服务器的证书无效。
 keyserver-error-unsupported = 不支持此密钥服务器。
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req = 您的邮件服务商处理了您要将公钥上传到网上 OpenPGP 密钥库的请求。请确认公钥是否已经完成发布。
+wkd-message-body-process = 这是一封关于自动将公钥上传到网上 OpenPGP 密钥库的邮件。您暂时不必进行任何操作。
 # Strings in gpg.jsm
 unknown-signing-alg = 未知的签名算法（ID：{ $id }）
 unknown-hash-alg = 未知的加密哈希值（ID：{ $id }）
