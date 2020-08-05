@@ -411,6 +411,8 @@ addon-detail-version-label = Lqem
 addon-detail-last-updated-label = Aleqqem aneggaru
 addon-detail-homepage-label = Asebter agejdan
 addon-detail-rating-label = Tizmilin
+# Message for add-ons with a staged pending update.
+install-postponed-message = Asiɣzef-a ad yettwaleqqem mi ara iɛawed { -brand-short-name } asenker.
 install-postponed-button = Leqqem tura
 # The average rating that the add-on has received.
 # Variables:

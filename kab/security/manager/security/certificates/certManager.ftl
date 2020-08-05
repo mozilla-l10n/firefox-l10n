@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Ur izmir ara ad isenqed aselkin-agi acku adab
 cert-not-verified-ca-invalid = Ur yezmir ara ad isenqed aselkin-agi acku aselkin CA d arameɣtu.
 cert-not-verified_algorithm-disabled = Ur izmir ara ad isenqed aselkin-agi acku ittuzmel s ulguritm n uzmul itturemeden imi alguritm-agi d araɣelsan.
 cert-not-verified-unknown = Ur izmir ara ad isenqed aselkin-agi imi taɣzint d tarussint.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Ur ttazen ula d yiwen n uselkin n umsaɣ
 
 ## Add Security Exception dialog
 
