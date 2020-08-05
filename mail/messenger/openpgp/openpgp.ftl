@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = For å sende krypterte eller digitalt signerte meldinger, må du konfigurere en krypteringsteknologi, enten OpenPGP eller S/MIME.
+openpgp-keygen-title-label =
+    .title = Generer OpenPGP-nøkkel
+openpgp-cancel-key =
+    .label = Avbryt
+    .tooltiptext = Avbryt nøkkelgenerering
+openpgp-key-gen-expiry-title =
+    .label = Nøkkelen utløper
+openpgp-key-gen-expire-label = Nøkkelen utløper om
 openpgp-key-gen-days-label =
     .label = dager
 openpgp-key-gen-months-label =
@@ -349,7 +358,7 @@ refresh-all-question = Du valgte ingen nøkkel. Vil du oppdatere ALLE nøkler?
 key-man-button-export-sec-key = Eksporter &hemmelige nøkler
 key-man-button-export-pub-key = Eksport kun &offentlige nøkler
 key-man-button-refresh-all = &Oppdater alle nøklene
-key-man-loading-keys = Laster inn nøkler, vent…
+key-man-loading-keys = Laster inn nøkler, vent litt…
 ascii-armor-file = ASCII armerte filer (* .asc)
 no-key-selected = Du bør velge minst en nøkkel for å utføre den valgte handlingen
 export-to-file = Eksporter offentlig nøkkel til fil
@@ -379,4 +388,6 @@ keyring-photo = Foto
 user-att-photo = Brukerattributt (JPEG-bilde)
 # Strings in key.jsm
 already-revoked = Denne nøkkelen er allerede trukket tilbake.
+key-man-button-revoke-key = &Tilbakekall nøkkel
+openpgp-key-revoke-success = Nøkkel er tilbakekalt.
 key-trust-ultimate = ultimat
