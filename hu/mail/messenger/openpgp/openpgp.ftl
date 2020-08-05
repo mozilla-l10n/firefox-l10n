@@ -317,19 +317,52 @@ import-from-url = Nyilvános kulcsok letöltése erről az URL-ről:
 copy-to-clipbrd-failed = A kiválasztott kulcsok nem másolhatók a vágólapra.
 copy-to-clipbrd-ok = Kulcsok a vágólapra másolva
 delete-secret-key =
-    FIGYELEM: Egy titkos kulcs törlésére készül!If you delete your secret key, you will no longer be able to decrypt any messages encrypted for that key, nor will you be able to revoke it.
+    FIGYELEM: Egy titkos kulcs törlésére készül!
     
-    Do you really want to delete BOTH, the secret key and the public key
-    '{ $userId }'?
+    Ha törli a titkos kulcsot, akkor többé nem fogja tudni visszafejteni az ahhoz a kulcshoz titkosított üzeneteket, és vissza sem fogja tudni vonni.
+    
+    Biztos, hogy törli a következő titkos ÉS nyilvános kulcsot is:
+    „{ $userId }”?
+delete-mix =
+    FIGYELEM: Egy titkos kulcs törlésére készül!
+    Ha törli a titkos kulcsot, akkor többé nem fogja tudni visszafejteni az ahhoz a kulcshoz titkosított üzeneteket.
+    Biztos, hogy törli a következő titkos ÉS nyilvános kulcsot is?
+delete-pub-key =
+    Biztos, hogy törli a következő nyilvános kulcsot:
+    „{ $userId }”?
+delete-selected-pub-key = Biztos, hogy törli a nyilvános kulcsokat?
+refresh-all-question = Nem választott ki egyetlen kulcsot sem. Frissíti az ÖSSZES kulcsot?
+key-man-button-export-sec-key = &Titkos kulcsok exportálása
+key-man-button-export-pub-key = Csak a &nyilvános kulcsok exportálása
+key-man-button-refresh-all = Az összes kulcs f&rissítése
+key-man-loading-keys = Kulcsok betöltése, kis türelmet…
+ascii-armor-file = ASCII páncélozott fájlok (*.asc)
+no-key-selected = Legalább egy kulcsot ki kell választania a kiválasztott művelet végrehajtásához
+export-to-file = Nyilvános kulcs exportálása fájlba
+export-keypair-to-file = Titkos és nyilvános kulcs exportálása fájlba
+export-secret-key = Biztos, hogy felveszi a titkos kulcsot az elmentett OpenPGP-kulcsfájlba?
+save-keys-ok = A kulcsok sikeresen elmentve
 save-keys-failed = A kulcsok mentése sikertelen
+preview-failed = Nem olvasható a nyilvános kulcs fájlja.
 general-error = Hiba: { $reason }
 dlg-button-delete = Tör&lés
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>A nyilvános kulcs exportálása sikeres!</b>
+openpgp-export-public-fail = <b>A kiválasztott nyilvános kulcs nem exportálható!</b>
+openpgp-export-secret-success = <b>A titkos kulcs exportálása sikeres!</b>
+openpgp-export-secret-fail = <b>A kiválasztott titkos kulcs nem exportálható!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = A(z) { $userId } kulcsot (kulcsazonosító: { $keyId }) visszavonták.
+key-ring-pub-key-expired = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) lejárt.
+key-ring-key-disabled = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) le van tiltva; nem használható.
+key-ring-key-invalid = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) érvénytelen. Fontolja meg a helyessége ellenőrzését.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fénykép
 user-att-photo = Felhasználói attribútum (JPEG-kép)
+key-man-button-revoke-key = Kulcs &visszavonása
+openpgp-key-revoke-success = A kulcs visszavonása sikeres.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importálás
 delete-key-title = OpenPGP-kulcs törlése
