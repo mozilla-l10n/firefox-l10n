@@ -82,5 +82,5 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Wuwiwarske nastroje: Pytanje zmylkow ze service worker
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
-    .label = Grafika: łahodne šćipate skalowanje
-experimental-features-graphics-desktop-zooming-description = Podpěru za łahodne šćipate skalowanje na dótknjeńskich wobrazowkach a preciznostne dótknjenske pola zmóžnić.
+    .label = Grafika: łahodne dwuporstowe skalowanje
+experimental-features-graphics-desktop-zooming-description = Podpěru za łahodne dwuporstowe skalowanje na dótknjeńskich wobrazowkach a preciznostne dótknjenske pola zmóžnić.
