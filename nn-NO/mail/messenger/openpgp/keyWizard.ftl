@@ -90,6 +90,8 @@ openpgp-import-key-list-amount =
         [one] Thunderbird fann ein nøkkel som kan importerast.
        *[other] Thunderbird fann { $count } nøklar som kan importerast.
     }
+openpgp-import-key-list-description = Bekreft hvilke nøklar som kan behandles som dine personlige nøkler. Bare nøkler som du opprettet selv og som viser din egen identitet, skal brukes som personlige nøkler. Du kan endre dette alternativet senere i dialogboksen Nøkkelegenskaper.
+openpgp-import-key-list-caption = Nøklar merkte for å bli behandla som personlege nøklar vil bli oppførte i avsnittet ende-til-ende-kryptering. Dei andre vil vere tilgjengelege i nøkkelhandteraren.
 openpgp-passphrase-prompt-title = Passordfrase påkravd
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Skriv inn passordfrasa for å låse opp følgjande nøkkel: { $key }
@@ -118,6 +120,7 @@ openpgp-import-key-props =
 openpgp-external-key-title = Ekstern GnuPG-nøkkel
 openpgp-external-key-description = Konfigurer ein ekstern GnuPG-nøkkel ved å skrive inn nøkkel-ID
 openpgp-external-key-info = I tillegg må du bruke nøkkelhandteraren for å importere og godta den tilsvareande offentlege nøkkelen.
+openpgp-external-key-warning = <b>Du kan berre konfigurere ein ekstern GnuPG-nøkkel.</b> Den tidlegare oppføringa di vert erstatta.
 openpgp-save-external-button = Lagre nøkkel-ID
 openpgp-external-key-label = Hemmeleg nøkkel-ID:
 openpgp-external-key-input =
