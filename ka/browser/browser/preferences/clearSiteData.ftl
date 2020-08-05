@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = მონაცემების გასუფთავება
     .style = width: 35em
-clear-site-data-description = ყველა ფუნთუშისა და საიტის მონაცემის გასუფთავების შედეგად, რომელთაც { -brand-short-name } ინახავს, შესაძლოა ვებსაიტბზე შესული ანგარიშებიდან გამოხვიდეთ. დროებითი კეშის გასუფთავება კი არ იმოქმედებს თქვენს ანგარიშებზე.
+clear-site-data-description = ყველა ფუნთუშისა და საიტის მონაცემის გასუფთავების შედეგად, რომელთაც { -brand-short-name } ინახავს, შესაძლოა ვებსაიტებზე შესული ანგარიშებიდან გამოხვიდეთ. დროებითი კეშის გასუფთავება კი არ იმოქმედებს თქვენს ანგარიშებზე.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
