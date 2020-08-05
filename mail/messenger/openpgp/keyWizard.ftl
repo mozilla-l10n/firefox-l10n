@@ -95,11 +95,33 @@ openpgp-import-key-list-caption = Nøkler merket for å bli behandlet som person
 openpgp-passphrase-prompt-title = Passordfrase kreves
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Skriv inn passordfrasen for å låse opp følgende nøkkel: { $key }
+openpgp-import-key-button =
+    .label = Velg en fil å importere…
+    .accesskey = V
+import-key-file = Importer OpenPGP-nøkkelfil
+import-key-personal-checkbox =
+    .label = Behandle denne nøkkelen som en personlig nøkkel
+gnupg-file = GnuPG-filer
+import-error-file-size = <b>Feil!</b> Filer som er større enn 5 MB støttes ikke.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Feil!</b> Kunne ikke importere filen. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Feil!</b> Kunne ikke importere nøkler. { $error }
+openpgp-import-identity-label = Identitet
+openpgp-import-fingerprint-label = Fingeravtrykk
+openpgp-import-created-label = Opprettet
+openpgp-import-bits-label = Bit
 openpgp-import-key-props =
     .label = Nøkkelegenskaper
     .accesskey = N
 
 ## External Key section
 
+openpgp-external-key-title = Ekstern GnuPG-nøkkel
+openpgp-external-key-description = Konfigurer en ekstern GnuPG-nøkkel ved å oppgi nøkkel-ID
+openpgp-external-key-info = I tillegg må du bruke nøkkelbehandler for å importere og godta den tilsvarende offentlige nøkkelen.
+openpgp-external-key-warning = <b>Du kan bare konfigurere en ekstern GnuPG-nøkkel.</b> Din tidligere oppføring blir erstattet.
+openpgp-save-external-button = Lagre nøkkel-ID
+openpgp-external-key-label = Hemmelig nøkkel-ID:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
