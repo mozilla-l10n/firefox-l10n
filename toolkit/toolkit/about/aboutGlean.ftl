@@ -6,3 +6,4 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = Sobre o Glean
+about-glean-description = O <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> é uma biblioteca de coleta de dados usada nos produtos Mozilla. Esta página é para desenvolvedores e testadores que precisam <a data-l10n-name="fog-debug-doc-link">configurar o estado de debug e log no Glean SDK</a>.
