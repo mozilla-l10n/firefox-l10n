@@ -82,5 +82,5 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Wuwijaŕske rědy: Pytanje zmólkow ze service worker
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
-    .label = Grafika: pózlažke šćipate skalěrowanje
-experimental-features-graphics-desktop-zooming-description = Pódpěru za pózlažke šćipate skalěrowanje na dotyknjeńskich wobrazowkach a preciznostne dótyknjeńske póla zmóžniś.
+    .label = Grafika: pózlažke dwójopalcowe skalěrowanje
+experimental-features-graphics-desktop-zooming-description = Pódpěru za pózlažke dwójopalcowe skalěrowanje na dotyknjeńskich wobrazowkach a preciznostne dótyknjeńske póla zmóžniś.
