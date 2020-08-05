@@ -195,15 +195,87 @@ openpgp-acceptance-unverified-label =
     .label = Ja, men jeg har ikke bekreftet at det er riktig nøkkel.
 openpgp-acceptance-verified-label =
     .label = Ja, jeg har bekreftet at denne nøkkelen har riktig fingeravtrykk.
+key-accept-personal =
+    For denne nøkkelen har du både den offentlige og den hemmelige delen. Du kan bruke den som en personlig nøkkel.
+    Hvis denne nøkkelen ble gitt til deg av noen andre, bruk den ikke som en personlig nøkkel.
+key-personal-warning = Har du opprettet denne nøkkelen selv, og det viste nøkkeleierskapet refererer til deg selv?
+openpgp-personal-no-label =
+    .label = Nei, ikke bruk den som min personlige nøkkel.
+openpgp-personal-yes-label =
+    .label = Ja, behandle denne nøkkelen som en personlig nøkkel.
+openpgp-copy-cmd-label =
+    .label = Kopier
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird har ikke en personlig OpenPGP-nøkkel for <b>{ $identity }</b>
+        [one] Thunderbird fant { $count } personlig OpenPGP-nøkkel assosiert med <b>{ $identity }</b>
+       *[other] Thunderbird fant { $count } personlige OpenPGP-nøkler assosiert med <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Velg en gyldig nøkkel for å aktivere OpenPGP-protokollen.
+       *[other] Din nåværende konfigurasjon bruker nøkkel-ID <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Din nåværende konfigurasjon bruker nøkkelen <b>{ $key }</b>, som er utløpt.
+openpgp-add-key-button =
+    .label = Legg til nøkkel…
+    .accesskey = L
+e2e-learn-more = Les mer
+openpgp-keygen-success = OpenPGP-nøkkel opprettet!
+openpgp-keygen-import-success = OpenPGP-nøkler importert!
+openpgp-keygen-external-success = Ekstern GnuPG-nøkkel-ID lagret!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ingen
+openpgp-radio-none-desc = Ikke bruk OpenPGP for denne identiteten.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Utløper den: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Nøkkelen utløper om mindre enn 6 måneder
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Utløpt den: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Nøkkel utløpt
+openpgp-key-expand-section =
+    .tooltiptext = Mer informasjon
+openpgp-key-revoke-title = Tilbakekall nøkkel
+openpgp-key-edit-title = Endre OpenPGP-nøkkel
+openpgp-key-edit-date-title = Utvid utløpsdato
 openpgp-manager-button =
     .label = OpenPGP-nøkkelbehandler
     .accesskey = k
+openpgp-key-remove-external =
+    .label = Fjern ekstern nøkkel-ID
+    .accesskey = F
+key-external-label = Ekstern GnuPG-nøkkel
+# Strings in keyDetailsDlg.xhtml
+key-type-public = offentlig nøkkel
+key-type-primary = primærnøkkel
+key-type-subkey = undernøkkel
+key-type-pair = nøkkelpar (hemmelig nøkkel og offentlig nøkkel)
+key-expiry-never = aldri
+key-usage-encrypt = Krypter
+key-usage-sign = Signer
+key-usage-certify = Sertifiser
+key-usage-authentication = Autentisering
+key-does-not-expire = Nøkkelen utløper ikke
+key-expired-date = Nøkkelen utløp den { $keyExpiry }
+key-expired-simple = Nøkkelen er utløpt
+key-revoked-simple = Nøkkelen ble tilbakekalt
+key-do-you-accept = Godtar du denne nøkkelen for å bekrefte digitale signaturer og for å kryptere meldinger?
+key-accept-warning = Unngå å akseptere en useriøs skurkenøkkel. Bruk en annen kommunikasjonskanal enn e-post for å bekrefte fingeravtrykket til korrespondentens nøkkel.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Kan ikke sende meldingen, fordi det er et problem med din personlige nøkkel. { $problem }
 expiry-key-missing-owner-trust =
     Den hemmelige nøkkelen din { $desc } mangler tiltro.
     Vi anbefaler at du stiller inn «Du stoler på sertifiseringer» til «ultimat» i nøkkelegenskaper.
