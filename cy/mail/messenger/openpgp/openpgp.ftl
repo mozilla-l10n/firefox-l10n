@@ -333,6 +333,14 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     Bydd eich allwedd { $desc } yn dod i ben mewn llai na { $days } diwrnod.
     Rydym yn argymell eich bod yn creu allweddi newydd ac yn ffurfweddu'r cyfrifon cyfatebol i'w ddefnyddio.
+expiry-key-missing-owner-trust =
+    Mae eich allwedd gyfrinachol { $desc } yn fyr o ymddiriedaeth.
+    Rydym yn argymell eich bod yn gosod "Rydych chi'n dibynnu ar ardystiadau" i "eithaf" ym mhriodweddau'r allwedd.
+expiry-keys-missing-owner-trust =
+    Mae'ch allweddi cyfrinachol canlynol { $desc } yn fyr o ymddiriedaeth.
+    { $desc }.
+    Rydym yn argymell eich bod yn gosod "Rydych chi'n dibynnu ar ardystiadau" i "eithaf" ym mhriodweddau'r allwedd.
+expiry-open-key-manager = Agor Rheolwr Allweddi OpenPGP
 
 ## Account settings export output
 
