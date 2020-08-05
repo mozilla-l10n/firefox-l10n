@@ -77,6 +77,15 @@ openpgp-key-confirm = Generer en offentlig og hemmelig nøkkel for { $identity }
 ## Import Key section
 
 openpgp-import-key-title = Importer en eksisterende personlig OpenPGP-nøkkel
+openpgp-import-key-legend = Velg en tidligere sikkerhetskopiert fil.
+openpgp-import-key-description = Du kan importere personlige nøkler som ble opprettet med annen OpenPGP-programvare.
+openpgp-import-key-info = Annen programvare kan beskrive en personlig nøkkel ved å bruke alternative termer som din egen nøkkel, hemmelig nøkkel, privat nøkkel eller nøkkelpar.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird fant en nøkkel som kan importeres.
+       *[other] Thunderbird fant { $count } nøkler som kan importeres.
+    }
 openpgp-passphrase-prompt-title = Passordfrase kreves
 
 ## External Key section
