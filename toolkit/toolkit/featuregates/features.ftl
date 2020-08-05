@@ -41,6 +41,9 @@ experimental-features-web-api-inputmode-description = Vår implementation av det
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Tanken bakom <a data-l10n-name="rel">rel</a>-attributet med värdet <code>"preload"</code> på ett <a data-l10n-name="link">&lt;link&gt;</a>-element är hjälpa till att förbättra prestanda så att du kan hämta resurser tidigare i en sidas livscykel. Därmed är resurserna tillgängliga tidigare, og det är mindre sannolikt att de blockerar renderingen av sidan . Läs <a data-l10n-name="readmore">“Preloading content with <code>rel="preload"</code>”</a>, eller se bugg <a data-l10n-name="bugzilla">bug 1583604</a> för mer detaljer.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
@@ -54,6 +57,7 @@ experimental-features-web-api-beforeinput =
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Tillägget av en konstruktör till <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-gränssnittet samt en serie relaterade förändringar gör det möjligt och bygga ny stiluppsättningar direkt utan att behöva lägga till uppsättningen i HTML. Detta gör det mycket enklare att bygga återanvändbara stiluppsättningar som kan användas med <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Se <a data-l10n-name="bugzilla">bug1520690</a> för mer detaljer.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
