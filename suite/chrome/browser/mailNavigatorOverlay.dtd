@@ -11,6 +11,9 @@
 <!ENTITY contextSendThisPage.label       "Pošlji to stran ...">
 <!ENTITY contextSendThisLink.label       "Pošlji to povezavo ...">
 <!ENTITY contextSendImage.label          "Pošlji sliko ...">
+<!ENTITY contextSendVideo.label          "Pošlji video …">
+<!ENTITY contextSendAudio.label          "Pošlji zvok …">
+<!ENTITY contextSendFrame.label          "Pošlji okvir ...">
 
 <!ENTITY sendLinkCmd.label               "Pošlji povezavo …"> 
 
