@@ -23,7 +23,11 @@ reset-password-window =
     .title = Poista pääsalasana
     .style = width: 40em
 pippki-failed-pw-change = Salasanaa ei voitu vaihtaa.
+pippki-incorrect-pw = Väärä salasana. Yritä uudestaan.
 pippki-pw-change-ok = Salasana vaihdettiin onnistuneesti.
+pippki-pw-erased-ok = Salasana poistettiin. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Varoitus! Olet ottanut salasanan pois käytöstä. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Olet parhaillaan FIPS-tilassa. FIPS edellyttää, että salasana ei ole tyhjä.
 
 ## Reset Primary Password dialog
 

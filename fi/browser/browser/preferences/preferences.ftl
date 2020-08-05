@@ -1190,7 +1190,14 @@ space-alert-under-5gb-message = { -brand-short-name(case: "ablative") } loppuu k
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Vain HTTPS -tila
 httpsonly-learn-more = Lue lisää
+httpsonly-radio-enabled =
+    .label = Käytä vain HTTPS -tilaa kaikissa ikkunoissa
+httpsonly-radio-enabled-pbm =
+    .label = Käytä vain HTTPS -tilaa vain yksityisissä ikkunoissa
+httpsonly-radio-disabled =
+    .label = Älä käytä vain HTTPS -tilaa
 
 ## The following strings are used in the Download section of settings
 
