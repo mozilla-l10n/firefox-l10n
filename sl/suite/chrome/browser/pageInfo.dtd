@@ -60,9 +60,15 @@
 
 <!ENTITY  securityView.identity.header   "Identiteta spletnega mesta">
 <!ENTITY  securityView.identity.owner    "Lastnik:">
+<!ENTITY  securityView.identity.domain   "Spletno mesto:">
+<!ENTITY  securityView.identity.verifier "Overil:">
 
 <!ENTITY  securityView.identity.validity "Poteče:">
 
 <!ENTITY  securityView.privacy.header                   "Zasebnost in zgodovina">
+<!ENTITY  securityView.privacy.cookies                  "Ali to spletno mesto shranjuje podatke (piškotke) na moj računalnik?">
+<!ENTITY  securityView.privacy.viewCookies              "Preglej piškotke">
+<!ENTITY  securityView.privacy.passwords                "Ali sem shranil kakšno geslo za to spletno mesto?">
+<!ENTITY  securityView.privacy.viewPasswords            "Preglej shranjena gesla">
 
 <!ENTITY  securityView.technical.header                 "Tehnične podrobnosti">
