@@ -341,6 +341,42 @@ expiry-keys-missing-owner-trust =
     { $desc }.
     Rydym yn argymell eich bod yn gosod "Rydych chi'n dibynnu ar ardystiadau" i "eithaf" ym mhriodweddau'r allwedd.
 expiry-open-key-manager = Agor Rheolwr Allweddi OpenPGP
+expiry-open-key-properties = Agor Priodweddau Allweddi
+# Strings filters.jsm
+filter-folder-required = Rhaid dewis ffolder targed.
+filter-decrypt-move-warn-experimental =
+    Rhybudd - gall y weithred hidlo "Dadgryptio yn barhaol" arwain at negeseuon wedi'u dinistrio.
+    Rydym yn argymell yn gryf eich bod yn gyntaf yn rhoi cynnig ar yr hidlydd "Creu Copi wedi'i ddadgryptio", profi'r canlyniad yn ofalus, a dim ond ar ôl i chi fod yn fodlon â'r canlyniad yn dechrau defnyddio'r hidlydd.
+filter-term-pgpencrypted-label = Amgryptio OpenPGP
+filter-key-required = Rhaid dewis allwedd derbynnydd.
+filter-key-not-found = Methu cnfod allwedd amgryptio ar gyfer '{ $desc }'.
+filter-warn-key-not-secret =
+    Rhybudd - mae'r weithred hidlo "Amgryptio i allwedd" yn disodli'r derbynwyr.
+    Os nad oes gennych yr allwedd gyfrinachol ar gyfer '{ $desc }' fyddwch chi ddim yn gallu darllen yr e-byst bellach.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Dadgryptio yn barhaol (OpenPGP)
+filter-decrypt-copy-label = Creu Copi wedi'i ddadgryptio (OpenPGP)
+filter-encrypt-label = Amgryptio i allwedd (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Llwyddiant! Allweddi wedi'u mewnforio
+import-info-bits = Didau
+import-info-created = Crëwyd
+import-info-fpr = Bysbrint
+import-info-details = Gweld Manylion a rheoli derbyniad allweddi
+import-info-no-keys = Dim allweddi wedi'u mewnforio.
+# Strings in enigmailKeyManager.js
+import-from-clip = Hoffech chi fewnforio rhywfaint o allweddi o'r clipfwrdd?
+import-from-url = Llwytho allwedd gyhoeddus i lawr o'r URL hwn:
+copy-to-clipbrd-failed = Methu copïo'r allweddi hyn i'r clipfwrdd.
+copy-to-clipbrd-ok = Copïwyd allweddi i'r clipfwrdd
+delete-secret-key =
+    RHYBUDD: Rydych chi ar fin dileu allwedd gyfrinachol!
+    
+    Os byddwch yn dileu eich allwedd gyfrinachol, ni fydd modd i chi ddadgryptio unrhyw negeseuon sydd wedi'u hamgryptio ar gyfer yr allwedd honno bellach, ac ni fyddwch yn gallu ei dirymu.
+    
+    Ydych chi wir eisiau DILEU'R allwedd gyfrinachol a'r allwedd gyhoeddus
+    '{ $userId }'?
 
 ## Account settings export output
 
