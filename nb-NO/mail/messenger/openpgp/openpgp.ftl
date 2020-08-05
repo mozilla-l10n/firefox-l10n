@@ -276,6 +276,14 @@ key-do-you-accept = Godtar du denne nøkkelen for å bekrefte digitale signature
 key-accept-warning = Unngå å akseptere en useriøs skurkenøkkel. Bruk en annen kommunikasjonskanal enn e-post for å bekrefte fingeravtrykket til korrespondentens nøkkel.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kan ikke sende meldingen, fordi det er et problem med din personlige nøkkel. { $problem }
+cannot-encrypt-because-missing = Kan ikke sende denne meldingen med ende-til-ende-kryptering, fordi det er problemer med nøklene til følgende mottakere: { $problem }
+window-locked = Meldingsvindu er låst; sending avbrutt
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Kryptert meldingsdel
+mime-decrypt-encrypted-part-concealed-data = Dette er en kryptert meldingsdel. Du må åpne det i et eget vindu ved å klikke på vedlegget.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Avbrutt
+keyserver-error-unknown = En ukjent feil oppstod
 expiry-key-missing-owner-trust =
     Den hemmelige nøkkelen din { $desc } mangler tiltro.
     Vi anbefaler at du stiller inn «Du stoler på sertifiseringer» til «ultimat» i nøkkelegenskaper.
