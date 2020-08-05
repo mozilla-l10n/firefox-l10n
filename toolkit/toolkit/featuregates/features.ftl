@@ -8,6 +8,10 @@ experimental-features-css-masonry =
     .label = CSS Masonry Layout
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS : Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu =
     .label = WebGPU
 experimental-features-web-gpu-description = API experimentala pel grafisme e los calculs sul Web
@@ -26,12 +30,20 @@ experimental-features-media-avif =
     .label = Mèdia : AVIF
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API : inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API : <link rel="preload">
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS : Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API : beforeinput Event
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
