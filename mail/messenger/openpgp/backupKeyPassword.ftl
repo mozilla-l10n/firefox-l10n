@@ -10,5 +10,5 @@ set-password-backup-pw =
     .value = Passord for sikkerhetskopi av hemmelig nøkkel:
 set-password-repeat-backup-pw =
     .value = Passord for sikkerhetskopi av hemmelig nøkkel (igjen):
-set-password-reminder = <b>Viktig!</b> Dersom du glemmer passordet til sikkerhetskopien for hemmelig nøkkel vil du ikke kunne få tilbake innholdet i sikkerhetskopien senere. Lagre den på et sikkert sted.
+set-password-reminder = <b>Viktig!</b> Hvis du glemmer passordet til sikkerhetskopien for hemmelig nøkkel vil du ikke kunne få tilbake innholdet i sikkerhetskopien senere. Lagre den på et sikkert sted.
 password-quality-meter = Kvalitetsmåling av passord

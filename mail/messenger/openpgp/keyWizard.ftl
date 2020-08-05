@@ -39,6 +39,7 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = år
 openpgp-keygen-advanced-title = Avanserte innstillinger
+openpgp-keygen-advanced-description = Kontroller de avanserte innstillingene for OpenPGP-nøkkelen din.
 openpgp-keygen-keytype =
     .value = Nøkkeltype:
     .accesskey = t
@@ -89,7 +90,11 @@ openpgp-import-key-list-amount =
         [one] Thunderbird fant en nøkkel som kan importeres.
        *[other] Thunderbird fant { $count } nøkler som kan importeres.
     }
+openpgp-import-key-list-description = Bekreft hvilke nøkler som kan behandles som dine personlige nøkler. Bare nøkler som du opprettet selv og som viser din egen identitet, skal brukes som personlige nøkler. Du kan endre dette alternativet senere i dialogboksen Nøkkelegenskaper.
 openpgp-passphrase-prompt-title = Passordfrase kreves
+openpgp-import-key-props =
+    .label = Nøkkelegenskaper
+    .accesskey = N
 
 ## External Key section
 
