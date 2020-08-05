@@ -55,7 +55,7 @@ experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
 # The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
 # and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Den globala <a data-l10n-name="mdn-beforeinput">beforeinput</a> händelsen avfyras på ett <a data-l10n-name="mdn-input">&lt;input&gt;</a> och <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> element, eller något element vars <a data-l10n-name="mdn-contenteditable">redigerbart innehåll attribut är aktiverat, omedelbart före elementets värde ändras. Händelsen tillåter webbappar att åsidosätta webbläsarens standardbeteende för användarinteraktion t.ex. webbappar kan avbryta användarinmatning för specifika tecken endast eller kan modifera inklistrad formaterad text att endast använda godkända stilar.
+experimental-features-web-api-beforeinput-description = Den globala <a data-l10n-name="mdn-beforeinput">beforeinput</a> händelsen avfyras på ett <a data-l10n-name="mdn-input">&lt;input&gt;</a> och <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> element, eller något element vars <a data-l10n-name="mdn-contenteditable">redigerbart innehåll attribut är aktiverat, omedelbart före elementets värde ändras. Händelsen tillåter webbappar att åsidosätta webbläsarens standardbeteende för användarinteraktion t.ex. webbappar kan avbryta användarinmatning för specifika tecken endast eller kan tvinga inklistrad formaterad text att endast använda godkända stilar.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
