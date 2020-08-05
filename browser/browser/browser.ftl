@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = აკრიფეთ ნაკლები, მონახეთ მეტი: გამოიყენეთ { $engineName } საძიებოდ პირდაპირ მისამართების ველიდან.
 urlbar-search-tips-redirect-2 = დაიწყეთ ძიება და შემოთავაზებებს მოგაწვდით { $engineName } ან იხილავთ დათვალიერების ისტორიიდან.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = სანიშნეები
+urlbar-search-mode-tabs = ჩანართები
+urlbar-search-mode-history = ისტორია
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,26 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ნაგულისხმევ საძიებოდ დაყენება პირად ფანჯრებში
     .accesskey = პ
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = სანიშნები ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = ჩანართები ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = ისტორია ({ $restrict })
 
 ## Bookmark Panel
 
