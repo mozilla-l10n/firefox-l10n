@@ -12,6 +12,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator "-">
 
 <!ENTITY mainWindow.titleprivate "Zasebno brskanje">
 
@@ -25,6 +26,7 @@
 <!ENTITY feedsMenu.label "Naroči se na to stran">
 
 
+<!ENTITY editBookmark.done.label "Končano">
 <!ENTITY editBookmark.cancel.label "Prekliči">
 
 <!-- Toolbar items --> 
@@ -34,10 +36,11 @@
 <!ENTITY forwardButton.tooltip        "Pojdi na naslednjo stran">
 <!ENTITY reloadButton.label           "Ponovno naloži">
 <!ENTITY reloadButton.tooltip         "Ponovno naloži trenutno stran">
+<!ENTITY stopButton.tooltip           "Ustavi nalaganje te strani">
+<!ENTITY searchButton.label           "Išči">
 <!ENTITY goButton.label               "Pojdi">
 <!ENTITY printButton.label            "Natisni">
 <!ENTITY printButton.tooltip          "Natisni to stran">
-
 
 
 
