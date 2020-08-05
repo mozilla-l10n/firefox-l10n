@@ -8,6 +8,7 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = Fortset
     .buttonlabelhelp = Gå tilbake
+key-wizard-warning = <b>Dersom du har ein eksisterende personleg nøkkel</b> for denne e-postadressa, bør du importere henne. Ellers har du ikkje tilgang til arkiva dine med krypterte e-postmeldingar, og du kan heller ikkje lese innkomande krypterte e-postar frå folk som enno brukar den eksisterande nøkkelen din.
 key-wizard-learn-more = Les meir
 radio-create-key =
     .label = Lag ein ny OpenPGP-nøkkel
@@ -24,6 +25,7 @@ radio-gnupg-key =
 openpgp-generate-key-title = Generer OpenPGP-nøkkel
 openpgp-generate-key-info = <b>Nøkkelgenerering kan ta opptil fleie minutt å fullføre.</b> Ikkje avslutt applikasjonen når nøkkelgenereringa held på. Dersom du aktivt surfar eller utfører diskintensive operasjonar under nøkkelgenerering, vil det fylle opp «randomness pool»-et og gjere prosessen raskare. Du blir varsla når nøkkelgenereringa er fullført.
 openpgp-keygen-expiry-title = Nøkkelen går ut
+openpgp-keygen-expiry-description = Definer når den nyleg genererte nøkkelenen skal gå ut. Du kan seinare kontrollere datoen for å forlenge den om nødvendig.
 radio-keygen-expiry =
     .label = Nøkkelen går ut om
     .accesskey = N
@@ -53,6 +55,7 @@ openpgp-keygen-progress-title = Genererer den nye OpenPGP-nøkkelen din…
 openpgp-keygen-import-progress-title = Importerer OpenPGP-nøklane dine…
 openpgp-import-success = OpenPGP-nøklar er importerte!
 openpgp-import-success-title = Fullfør importprosessen
+openpgp-import-success-description = For å begynne å bruke den importerte OpenPGP-nøkkelen for e-postkryptering, lèt du att denne dialogboksen og opnar kontoinnstillingane for å velje han.
 openpgp-keygen-confirm =
     .label = Stadfest
 openpgp-keygen-dismiss =
@@ -62,11 +65,16 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Lat att
     .accesskey = L
+openpgp-keygen-missing-username = Det er ikkje spesifisert noko namn på gjeldande konto. Skriv inn ein verdi i feltet «Namnet ditt» i kontoinnstillingane.
 openpgp-keygen-long-expiry = Du kan ikkje lage ein nøkkel som går ut seinare enn 100 år.
 openpgp-keygen-short-expiry = Nøkkelen din må minst vere gyldig i ein dag.
 openpgp-keygen-ongoing = Nøkkelgenerering er allereie i gang!
 openpgp-keygen-error-core = Klarte ikkje å initialisere OpenPGP Core Service
+openpgp-keygen-error-failed = OpenPGP-nøkkelgenerering feila uventa
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP-nøkkel laga, men klarte ikkje å få tilbakekalling for nøkkel { $key }
 openpgp-keygen-abort-title = Avbryte nøkkelgenerering?
+openpgp-keygen-abort = OpenPGP-nøkkelgenerering er no i framdrift, er du sikker på at du vil avbryte henne?
 #   $identity (String) - the name and email address of the currently selected identity
 openpgp-key-confirm = Generer ein offentleg og hemmeleg nøkkel for { $identity }?
 
@@ -74,6 +82,7 @@ openpgp-key-confirm = Generer ein offentleg og hemmeleg nøkkel for { $identity 
 
 openpgp-import-key-title = Importer ein eksisterande personleg OpenPGP-nøkkel
 openpgp-import-key-legend = Vel ei tidlegare sikkerheitskopiert fil.
+openpgp-import-key-description = Du kan importere personlege nøklar som vart laga med ei anna OpenPGP-programvare.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
