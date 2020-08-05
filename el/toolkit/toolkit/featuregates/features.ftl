@@ -62,7 +62,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Τα c
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = προσωρινή μνήμη εκκίνησης του about:home
+    .label = Προσωρινή μνήμη εκκίνησης του about:home
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =

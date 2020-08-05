@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Δεν είναι δυνατή η επαλή�
 cert-not-verified-ca-invalid = Δεν είναι δυνατή η επαλήθευση του παρόντος επειδή η αρχή πιστοποίησης είναι άκυρη.
 cert-not-verified_algorithm-disabled = Δεν ήταν δυνατή η επαλήθευση του πιστοποιητικού επειδή υπογράφηκε με ένα αλγόριθμο που έχει απενεργοποιηθεί επειδή θεωρούνταν μη ασφαλής.
 cert-not-verified-unknown = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού για άγνωστους λόγους.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Χωρίς αποστολή πιστοποιητικού πελάτη
 
 ## Add Security Exception dialog
 

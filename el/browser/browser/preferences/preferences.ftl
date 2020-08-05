@@ -803,6 +803,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Χρήση κύριου κωδικού
     .accesskey = ρ
+forms-primary-pw-use =
+    .label = Χρήση κύριου κωδικού πρόσβασης
+    .accesskey = Χ
 forms-primary-pw-learn-more-link = Μάθετε περισσότερα
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -811,6 +814,13 @@ forms-master-pw-change =
     .label = Αλλαγή κύριου κωδικού…
     .accesskey = γ
 forms-master-pw-fips-title = Βρίσκεστε σε λειτουργία FIPS . Το FIPS απαιτεί ένα μη-κενό Κύριο κωδικό.
+forms-primary-pw-change =
+    .label = Αλλαγή κύριου κωδικού πρόσβασης…
+    .accesskey = κ
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-master-pw-fips-desc = Αποτυχία αλλαγής κωδικού
 
 ## OS Authentication dialog
@@ -822,6 +832,11 @@ master-password-os-auth-dialog-message-win = Για να δημιουργήσε�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = δημιουργήσει κύριο κωδικό πρόσβασης
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = δημιουργήσει κύριο κωδικό πρόσβασης
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
