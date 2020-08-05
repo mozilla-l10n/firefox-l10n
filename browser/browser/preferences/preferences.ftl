@@ -821,6 +821,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = { "" }
+forms-primary-pw-fips-title = Είστε σε λειτουργία FIPS. Το FIPS απαιτεί μη κενό κύριο κωδικό πρόσβασης.
 forms-master-pw-fips-desc = Αποτυχία αλλαγής κωδικού
 
 ## OS Authentication dialog
@@ -832,6 +833,8 @@ master-password-os-auth-dialog-message-win = Για να δημιουργήσε�
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = δημιουργήσει κύριο κωδικό πρόσβασης
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Για να δημιουργήσετε έναν κύριο κωδικό πρόσβασης, εισάγετε τα διαπιστευτήρια των Windows σας. Αυτό θα συμβάλλει στην ασφάλεια των λογαριασμών σας.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
