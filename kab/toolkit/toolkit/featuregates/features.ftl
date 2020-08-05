@@ -39,6 +39,9 @@ experimental-features-web-api-inputmode =
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Imyerr <a data-l10n-name="rel">rel</a> s wazal <code>"preload"</code> ɣef uferdis <a data-l10n-name="link">&lt;link&gt;</a> yella-d i tallalt n usnerni n temlellit ayen ara ak·akem-yeǧǧen ad d-tesidreḍ tiɣbula qbel deg wallus n tudert n usebter, s uḍman n tilin-nsent rnu ur ssewḥalent ara asumer n usebter. Γer <a data-l10n-name="readmore">“agbur seld asali s <code>rel="preload"</code>”</a> neɣ wali <a data-l10n-name="bugzilla">abug 1583604</a> i wugar n telqayt.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
