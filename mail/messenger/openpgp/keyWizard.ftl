@@ -23,6 +23,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Génération d’une clé OpenPGP
+openpgp-generate-key-info = <b>La génération d’une clé peut prendre plusieurs minutes.</b> Veuillez ne pas quitter l’application tant que la génération de clé est en cours. Naviguer de façon soutenue sur le Web ou exécuter des opérations qui sollicitent le disque pendant la génération de clé renforcera le caractère aléatoire du processus et l’accélérera. Vous serez averti·e lorsque la génération de clé sera terminée.
 openpgp-keygen-expiry-title = Expiration de la clé
 openpgp-keygen-expiry-description = Définissez la date d’expiration de la clé que vous venez de générer. Vous pourrez par la suite modifier cette date pour prolonger le délai d’expiration si nécessaire.
 radio-keygen-expiry =
