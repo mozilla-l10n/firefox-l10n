@@ -398,6 +398,19 @@ export-secret-key = Ydych chi am gynnwys yr allwedd gyfrinachol yn y ffeil allwe
 save-keys-ok = Cadwyd yr allweddi'n llwyddiannus
 save-keys-failed = Methodd cadw'r allweddi
 default-pub-key-filename = Allweddi cyhoeddus wedi'u hallforio
+default-pub-sec-key-filename = Copi wrth gefn o allweddi cyfrinachol
+refresh-key-warn = Rhybudd: yn dibynnu ar nifer yr allweddi a chyflymder y cysylltiad, gall adnewyddu'r holl allweddi fod yn broses eithaf hir!
+preview-failed = Methu darllen ffeil allwedd gyhoeddus.
+general-error = Gwall: { $reason }
+dlg-button-delete = &Dileu
 
 ## Account settings export output
 
+openpgp-export-public-success = <b> Allforiwyd Allwedd Gyhoeddus yn llwyddiannus!</b>
+openpgp-export-public-fail = <b>Methu allforio'r allwedd gyhoeddus a ddewiswyd!</b>
+openpgp-export-secret-success = <b>Allforiwyd Allwedd Gyfrinachol yn llwyddiannus!</b>
+openpgp-export-secret-fail = <b>Methu allforio'r allwedd gyfrinachol a ddewiswyd!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Mae'r allwedd { $userId } (ID allwedd { $keyId }) wedi'i dirymu.
+key-ring-pub-key-expired = Mae'r allwedd { $userId } (ID allwedd { $keyId }) wedi dod i ben.
+key-ring-key-disabled = Mae'r allwedd { $userId } (ID allwedd { $keyId }) wedi'i analluogi; nid oes modd ei defnyddio.
