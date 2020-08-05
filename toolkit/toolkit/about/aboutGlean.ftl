@@ -10,4 +10,5 @@ about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a>>�
 about-glean-warning = 不当使用此接口可能会导致 { -brand-short-name } 崩溃。
 tag-pings-label = 使用此标签标记所有已发送的 Ping
 log-pings-label = 要在发送前记录 Ping 的有效负载吗？
+send-pings-label = 发送有命名的 Ping
 controls-button-label = 提交设置
