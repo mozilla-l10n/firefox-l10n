@@ -14,9 +14,15 @@ openpgp-key-details-title =
 ## OpenPGP Key selection area
 
 expiry-key-missing-owner-trust =
-    Den hemmelige nøkkelen din { $desc } mangler tillit.
-    Vi anbefaler at du stiller inn «Du stoler på sertifiseringer» til «ultimate» i nøkkelegenskaper.
+    Den hemmelige nøkkelen din { $desc } mangler tiltro.
+    Vi anbefaler at du stiller inn «Du stoler på sertifiseringer» til «ultimat» i nøkkelegenskaper.
+expiry-keys-missing-owner-trust =
+    Følgende av dine hemmelige nøkler mangler tiltro.
+    { $desc }.
+    Vi anbefaler at du stiller inn «Du stoler på sertifiseringer» til «ultimat» i nøkkelegenskaper.
 expiry-open-key-properties = Åpne nøkkelegenskaper
 
 ## Account settings export output
 
+key-ring-key-not-trusted = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikke tiltrodd nok. Angi klareringsnivået for nøkkelen din til «ultimat» for å bruke den til signering.
+key-trust-ultimate = ultimat
