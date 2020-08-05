@@ -34,6 +34,7 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = మార్పులను భద్రపరచు
     .accesskey = S
+permissions-autoplay-menu = వెబ్‌సైట్లన్నిటికీ అప్రమేయం:
 permissions-searchbox =
     .placeholder = వెబ్‌సైట్లను వెతకండి
 permissions-capabilities-autoplay-allow =

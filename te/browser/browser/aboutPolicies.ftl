@@ -7,6 +7,7 @@ about-policies-title = సంస్థ విధానాలు
 active-policies-tab = క్రియాశీలం
 errors-tab = దోషాలు
 documentation-tab = పత్రావళి
+no-specified-policies-message = ఎంటర్‌ప్రైజ్ విధానాల సేవ చేతనంగా ఉంది కానీ విధానాలు ఏమీ చేతనంగా లేవు.
 inactive-message = సంస్థాగత విధానాల సేవ అచేతనంగా ఉంది.
 policy-name = విధానపు పేరు
 policy-value = విధానపు విలువ

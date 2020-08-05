@@ -193,6 +193,8 @@ advanced-fonts =
 colors-settings =
     .label = రంగులు…
     .accesskey = C
+preferences-default-zoom-value =
+    .label = { $percentage }%
 language-header = భాష
 choose-language-description = పేజీలను చూపించడానికి మీ ప్రాధాన్య భాషను ఎంచుకోండి
 choose-button =
@@ -256,6 +258,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name }ను వాడు (అప్రమేయం)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] macOS అప్రమేయ అనువర్తనాన్ని వాడు
+            [windows] విండోస్ అప్రమేయ అనువర్తనాన్ని వాడు
+           *[other] వ్యవస్థలో అప్రమేయ అనువర్తనాన్ని వాడు
+        }
 applications-use-other =
     .label = వేరే వాటిని వాడు…
 applications-select-helper = సహాయక అనువర్తనాన్ని ఎన్నుకోండి
@@ -311,6 +320,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = ఇంకా తెలుసుకోండి
 update-application-title = { -brand-short-name } తాజాకరణలు
+update-application-description = ఉత్తమ పనితీరు, స్థిరత్వం, భద్రతల కొరకు { -brand-short-name } తాజాగా ఉంచుకోండి.
 update-application-version = సంచిక { $version } <a data-l10n-name="learn-more">కొత్తవి ఏమిటి</a>
 update-history =
     .label = తాజాకరణ చరిత్రను చూపించు…

@@ -126,3 +126,5 @@ onboarding-personal-data-promise-button = మా వాగ్దానాన్�
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = అద్భుతం, మీరు { -brand-short-name }‌ను తెచ్చుకున్నారు
+return-to-amo-get-started-button = { -brand-short-name }తో మెదలుపెట్టండి
