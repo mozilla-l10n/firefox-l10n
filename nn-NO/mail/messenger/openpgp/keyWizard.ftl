@@ -83,6 +83,7 @@ openpgp-key-confirm = Generer ein offentleg og hemmeleg nøkkel for { $identity 
 openpgp-import-key-title = Importer ein eksisterande personleg OpenPGP-nøkkel
 openpgp-import-key-legend = Vel ei tidlegare sikkerheitskopiert fil.
 openpgp-import-key-description = Du kan importere personlege nøklar som vart laga med ei anna OpenPGP-programvare.
+openpgp-import-key-info = Anna programvare kan beskrive ein personleg nøkkel ved å bruke alternative termar som din eigen nøkkel, hemmeleg nøkkel, privat nøkkel eller nøkkelpar.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
@@ -99,7 +100,13 @@ import-key-file = Importer OpenPGP-nøkkelfil
 import-key-personal-checkbox =
     .label = Behandle denne nøkkelen som ein personleg nøkkel
 gnupg-file = GnuPG-filer
+import-error-file-size = <b>Feil!</b> Filer som er større enn 5 MB er ikkje støtta.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Feil!</b> Klarte ikkje å importere fila. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Feil!</b> Klarte ikkje å importere nøklar. { $error }
 openpgp-import-identity-label = Identitet
+openpgp-import-fingerprint-label = Fingeravtrykk
 openpgp-import-created-label = Laga
 openpgp-import-bits-label = Bit
 openpgp-import-key-props =
@@ -109,6 +116,8 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Ekstern GnuPG-nøkkel
+openpgp-external-key-description = Konfigurer ein ekstern GnuPG-nøkkel ved å skrive inn nøkkel-ID
+openpgp-external-key-info = I tillegg må du bruke nøkkelhandteraren for å importere og godta den tilsvareande offentlege nøkkelen.
 openpgp-save-external-button = Lagre nøkkel-ID
 openpgp-external-key-label = Hemmeleg nøkkel-ID:
 openpgp-external-key-input =

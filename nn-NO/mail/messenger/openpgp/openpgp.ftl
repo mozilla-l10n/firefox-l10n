@@ -143,6 +143,7 @@ key-usage-encrypt = Krypter
 key-usage-sign = Signer
 key-does-not-expire = Nøkkelen går ikkje ut
 key-expired-simple = Nøkkelen har gått ut
+key-accept-warning = Unngå å akseptere ein useriøs lurenøkkel. Bruk ein annan kommunikasjonskanal enn e-post for å stadfeste fingeravtrykket på nøkkelen til korrespondenten din.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Avbrote
 keyserver-error-unknown = Det oppstod ein ukjend feil
