@@ -307,9 +307,43 @@ expiry-open-key-manager = Åpne OpenPGP-nøkkelbehandler
 expiry-open-key-properties = Åpne nøkkelegenskaper
 # Strings filters.jsm
 filter-folder-required = Du må velge en målmappe
+filter-decrypt-move-warn-experimental =
+    Advarsel - filterhandlingen «Dekrypter permanent» kan føre til ødelagte meldinger.
+    Vi anbefaler på det sterkeste at du først prøver filteret «Opprett dekryptert kopi», tester resultatet nøye, og begynner først å bruke dette filteret når du er fornøyd med resultatet.
 filter-term-pgpencrypted-label = OpenPGP-kryptert
 filter-key-required = Du må velge en mottakernøkkel.
 filter-key-not-found = Kunne ikke finne en krypteringsnøkkel for «{ $desc }».
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Dekrypter permanent (OpenPGP)
+filter-decrypt-copy-label = Lag dekryptert kopi (OpenPGP)
+filter-encrypt-label = Krypter til nøkkel (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Nøkler importert!
+import-info-bits = Bit
+import-info-created = Opprettet
+import-info-fpr = Fingeravtrykk
+import-info-details = Se detaljer og behandle nøkkelaksept
+import-info-no-keys = Ingen nøkler importert.
+# Strings in enigmailKeyManager.js
+import-from-clip = Vil du importere noen nøkler fra utklippstavlen?
+import-from-url = Last ned offentlig nøkkel fra denne nettadressen:
+copy-to-clipbrd-failed = Kunne ikke kopiere de valgte nøklene til utklippstavlen.
+copy-to-clipbrd-ok = Nøkler kopiert til utklippstavlen
+delete-secret-key =
+    ADVARSEL: Du er i ferd med å slette en hemmelig nøkkel!
+    
+    Hvis du sletter din hemmelige nøkkel, vil du ikke lenger kunne dekryptere noen meldinger som er kryptert for den nøkkelen, og du vil heller ikke kunne tilbakekalle den.
+    
+    Vil du virkelig slette BÅDE, den hemmelige nøkkelen og den offentlige nøkkelen
+    «{ $userId }»?
+delete-mix =
+    ADVARSEL: Du er i ferd med å slette hemmelige nøkler!
+    Hvis du sletter din hemmelige nøkkel, vil du ikke lenger kunne dekryptere noen meldinger som er kryptert for den nøkkelen.
+    Vil du virkelig slette BÅDE, de valgte hemmelige og offentlige nøklene?
+delete-pub-key =
+    Vil du slette den offentlige nøkkelen
+    «{ $userId }»?
 
 ## Account settings export output
 
