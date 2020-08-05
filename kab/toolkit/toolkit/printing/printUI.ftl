@@ -31,6 +31,10 @@ printui-scale = Sellum
 printui-scale-fit-to-page = Ṣeggem asebter
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Sellum
+# Section title for miscellaneous print options
+printui-options = Iɣewwaren
+printui-headers-footers-checkbox = Siggez iqerra d yiḍarren n usebter
+printui-backgrounds-checkbox = Siggez agilal
 printui-system-dialog-link = Siggez s useqdec n udiwenni anagraw…
 printui-primary-button = Siggez
 printui-cancel-button = Sefsex
