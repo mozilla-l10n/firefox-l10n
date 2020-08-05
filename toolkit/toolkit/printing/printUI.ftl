@@ -33,6 +33,7 @@ printui-scale-pcent = Tỷ lệ
 # Section title for miscellaneous print options
 printui-options = Tùy chọn
 printui-headers-footers-checkbox = In đầu trang và chân trang
+printui-backgrounds-checkbox = In phần nền
 printui-system-dialog-link = In bằng hộp thoại hệ thống…
 printui-primary-button = In
 printui-cancel-button = Hủy bỏ
