@@ -7,9 +7,7 @@ about-config-warning-title = Εδώ βρίσκονται δράκοι!
 about-config-warning-text = Η αλλαγή αυτών των προηγμένων ρυθμίσεων μπορεί να βλάψει τη σταθερότητα, την ασφάλεια και τις επιδόσεις αυτής της εφαρμογής. Συνεχίστε μόνο αν ξέρετε σίγουρα τι κάνετε.
 about-config-warning-checkbox = Να ενοχληθώ ξανά, παρακαλώ!
 about-config-warning-button = Αποδέχομαι τον κίνδυνο
-
 about-config2-title = Προηγμένες ρυθμίσεις
-
 about-config-search-input =
     .placeholder = Αναζήτηση
 
@@ -24,20 +22,16 @@ about-config-intro-warning-button = Αποδοχή κινδύνου και συ�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Η αλλαγή αυτών των προτιμήσεων μπορεί να επηρεάσει την απόδοση ή την ασφάλεια του { -brand-short-name }.
-
 about-config-page-title = Προηγμένες προτιμήσεις
-
 about-config-search-input1 =
     .placeholder = Αναζήτηση ονόματος προτίμησης
 about-config-show-all = Εμφάνιση όλων
-
 about-config-pref-add = Προσθήκη
 about-config-pref-toggle = Εναλλαγή
 about-config-pref-edit = Επεξεργασία
 about-config-pref-save = Αποθήκευση
 about-config-pref-reset = Επαναφορά
 about-config-pref-delete = Διαγραφή
-
 about-config-pref-add-button =
     .title = Προσθήκη
 about-config-pref-toggle-button =
@@ -54,8 +48,8 @@ about-config-pref-delete-button =
 ## Labels for the type selection radio buttons shown when adding preferences.
 
 about-config-pref-add-type-boolean = Αληθείας
-about-config-pref-add-type-number = Αριθμητικά
-about-config-pref-add-type-string = Αλφαριθμητικά
+about-config-pref-add-type-number = Αριθμητική
+about-config-pref-add-type-string = Αλφαριθμητική
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
