@@ -772,7 +772,7 @@
 <!ENTITY contextOpenNewTab.accesskey "τ">
 <!ENTITY contextOpenConversation.label "Άνοιγμα μηνύματος σε συζήτηση">
 <!ENTITY contextOpenConversation.accesskey "ν">
-<!ENTITY contextOpenContainingFolder.label "Άνοιγμα μηνύματος στον περιεχόμενο φάκελο">
+<!ENTITY contextOpenContainingFolder.label "Άνοιγμα μηνύματος στο φάκελο αποθήκευσης">
 <!ENTITY contextOpenContainingFolder.accesskey "φ">
 <!ENTITY contextEditMsgAsNew.label "Επεξεργασία ως νέο μήνυμα">
 <!ENTITY contextEditMsgAsNew.accesskey "ω">
