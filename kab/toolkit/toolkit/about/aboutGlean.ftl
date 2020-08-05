@@ -5,4 +5,5 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
+about-glean-page-title = Ɣef Glean
 controls-button-label = Iɣewwaṛen n tuzzna
