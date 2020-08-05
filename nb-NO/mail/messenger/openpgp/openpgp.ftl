@@ -350,8 +350,33 @@ key-man-button-export-sec-key = Eksporter &hemmelige nøkler
 key-man-button-export-pub-key = Eksport kun &offentlige nøkler
 key-man-button-refresh-all = &Oppdater alle nøklene
 key-man-loading-keys = Laster inn nøkler, vent…
+ascii-armor-file = ASCII armerte filer (* .asc)
+no-key-selected = Du bør velge minst en nøkkel for å utføre den valgte handlingen
+export-to-file = Eksporter offentlig nøkkel til fil
+export-keypair-to-file = Eksporter hemmelig og offentlig nøkkel til fil
+export-secret-key = Vil du inkludere den hemmelige nøkkelen i den lagrede OpenPGP-nøkkelfilen?
+save-keys-ok = Nøklene ble lagret
+save-keys-failed = Lagring av nøklene mislyktes
+default-pub-key-filename = Eksporterte-offentlige-nøkler
+default-pub-sec-key-filename = Sikkerhetskopi-av-hemmelige-nøkler
+general-error = Feil: { $reason }
+dlg-button-delete = &Slett
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Offentlig nøkkel eksportert!</b>
+openpgp-export-public-fail = <b>Det gikk ikke å eksportere den valgte offentlige nøkkelen!</b>
+openpgp-export-secret-success = <b>Hemmelig nøkkel eksportert!</b>
+openpgp-export-secret-fail = <b>Det gikk ikke å eksportere den valgte hemmelige nøkkelen!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er tilbakekalt.
+key-ring-pub-key-expired = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er utløpt.
+key-ring-key-disabled = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er deaktivert; den kan ikke brukes.
+key-ring-key-invalid = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikke gyldig. Vurder å bekrefte den korrekt.
 key-ring-key-not-trusted = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikke tiltrodd nok. Angi klareringsnivået for nøkkelen din til «ultimat» for å bruke den til signering.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Brukerattributt (JPEG-bilde)
+# Strings in key.jsm
+already-revoked = Denne nøkkelen er allerede trukket tilbake.
 key-trust-ultimate = ultimat
