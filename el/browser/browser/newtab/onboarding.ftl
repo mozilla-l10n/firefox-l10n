@@ -78,6 +78,30 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Αντιγραφή της εμφάνισης του λειτουργικού σας
+        συστήματος για τα κουμπιά, τα μενού και τα παράθυρα.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Χρήση ανοιχτόχρωμης εμφάνισης για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Χρήση σκουρόχρωμης εμφάνισης για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Χρήση πολύχρωμης εμφάνισης για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
