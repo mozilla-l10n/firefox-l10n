@@ -161,6 +161,8 @@ openpgp-key-man-filter-label =
     .placeholder = Chwilio am allweddi
 openpgp-key-man-select-all-key =
     .key = P
+openpgp-key-man-key-details-key =
+    .key = I
 openpgp-key-details-title =
     .title = Priodweddau'r Allwedd
 openpgp-key-details-signatures-tab =
@@ -307,6 +309,12 @@ keyserver-error-server-error = Adroddodd y gweinydd allweddi wall.
 keyserver-error-import-error = Wedi methu mewnforio'r allwedd wedi'i llwytho i lawr.
 keyserver-error-unavailable = Nid yw'r gweinydd allweddi ar gael.
 keyserver-error-security-error = Nid yw'r gweinydd allweddi'n cefnogi mynediad wedi'i amgryptio.
+keyserver-error-certificate-error = Nid yw tystysgrif y gweinydd allweddi'n ddilys.
+keyserver-error-unsupported = Nid yw'r gweinydd allweddi'n cael ei gynnal
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Prosesodd eich darparwr e-bost eich cais i lwytho'ch allwedd gyhoeddus i fyny i Gyfeiriadur Allwedd Gwe OpenPGP.
+    Cadarnhewch i gwblhau cyhoeddi eich allwedd gyhoeddus.
 
 ## Account settings export output
 
