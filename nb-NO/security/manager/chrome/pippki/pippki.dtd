@@ -34,7 +34,7 @@
 <!ENTITY pkcs12.setpassword.message  "Passordet du bestemmer her vil beskytte sikkerhetskopien du nå oppretter. Du må skrive inn dette passordet for å fortsette med sikkerhetskopieringen.">
 <!ENTITY pkcs12.setpassword.label1 "Passord for sikkerhetskopi:">
 <!ENTITY pkcs12.setpassword.label2 "Passord for sikkerhetskopi (igjen):">
-<!ENTITY pkcs12.setpassword.reminder "Viktig: Dersom du glemmer passordet til sertifikatsikkerhetskopien vil du ikke kunne få tilbake innholdet i sikkerhetskopien senere.  Skriv det ned på et sikkert sted.">
+<!ENTITY pkcs12.setpassword.reminder "Viktig: Hvis du glemmer passordet til sertifikatsikkerhetskopien vil du ikke kunne få tilbake innholdet i sikkerhetskopien senere.  Skriv det ned på et sikkert sted.">
 
 <!ENTITY chooseToken.title  "Velg symbol">
 <!ENTITY chooseToken.message1 "Velg symbol.">
