@@ -31,6 +31,10 @@ printui-scale = Schaal
 printui-scale-fit-to-page = Verkleinen tot papierformaat
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Schaal
+# Section title for miscellaneous print options
+printui-options = Opties
+printui-headers-footers-checkbox = Kop- en voetteksten afdrukken
+printui-backgrounds-checkbox = Achtergronden afdrukken
 printui-system-dialog-link = Afdrukken via het systeemdialoogvenster…
 printui-primary-button = Afdrukken
 printui-cancel-button = Annuleren
