@@ -64,11 +64,14 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Lukk
     .accesskey = L
+openpgp-keygen-missing-username = Det er ikke angitt noe navn på gjeldende konto. Skriv inn en verdi i feltet «Ditt navn» i kontoinnstillingene.
 openpgp-keygen-long-expiry = Du kan ikke opprette en nøkkel som går ut senere enn 100 år.
 openpgp-keygen-short-expiry = Nøkkelen din må være gyldig i minst en dag.
 openpgp-keygen-ongoing = Nøkkelgenerering er allerede i gang!
 openpgp-keygen-error-core = Kan ikke å initialisere OpenPGP Core Service
 openpgp-keygen-error-failed = OpenPGP-nøkkelgenerering mislyktes uventet
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP-nøkkel opprettet, men klarte ikke å få tilbakekalling for nøkkel { $key }
 openpgp-keygen-abort-title = Avbryte nøkkelgenerering?
 openpgp-keygen-abort = OpenPGP-nøkkelgenerering pågår for øyeblikket, er du sikker på at du vil avbryte den?
 #   $identity (String) - the name and email address of the currently selected identity
