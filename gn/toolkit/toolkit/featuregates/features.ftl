@@ -83,3 +83,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Mboguatahára rembipuru: Service Worker mopotĩha
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Embojuruja pytyvõha ipyahúva Service Workers peg̃uarã Mopotĩha rupápe. Ko tembiapoite ikatu omombegue umi Tembipuru ñemboguataha ha oipuruve mandu’arenda.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Ta’ãnga: Zoom pichãi mbegue
