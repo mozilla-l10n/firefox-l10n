@@ -31,6 +31,10 @@ printui-scale = Escala
 printui-scale-fit-to-page = Ajustar à página
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
+# Section title for miscellaneous print options
+printui-options = Opções
+printui-headers-footers-checkbox = Imprimir cabeçalhos e rodapés
+printui-backgrounds-checkbox = Imprimir planos de fundo
 printui-system-dialog-link = Imprimir usando o diálogo do sistema…
 printui-primary-button = Imprimir
 printui-cancel-button = Cancelar
