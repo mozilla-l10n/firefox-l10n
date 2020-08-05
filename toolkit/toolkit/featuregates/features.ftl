@@ -98,3 +98,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = ჩართავს საცდელ მხარდაჭერას Service Workers-ისთვის გასამართ არეში. შესაძლოა, ამ შესაძლებლობამ შეანელოს Developer Tools და გაზარდოს მეხსიერების მოხმარება.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = გრაფიკა: Smooth Pinch Zoom

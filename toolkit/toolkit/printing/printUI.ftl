@@ -31,6 +31,10 @@ printui-scale = ზომის ცვლილება
 printui-scale-fit-to-page = გვერდის სიგენეზე
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = ზომის ცვლილება
+# Section title for miscellaneous print options
+printui-options = პარამეტრები
+printui-headers-footers-checkbox = თავსართისა და ქვესართის ამობეჭდვა
+printui-backgrounds-checkbox = ფონის ამობეჭდვა
 printui-system-dialog-link = ამობეჭდვა სისტემის ფანჯრიდან…
 printui-primary-button = ამობეჭდვა
 printui-cancel-button = გაუქმება
