@@ -173,6 +173,7 @@ cfr-doorhanger-socialtracking-close-button = మూసివేయి
 cfr-doorhanger-socialtracking-dont-show-again = ఇలాంటి సందేశాలను నాకు మళ్ళీ చూపించకు
     .accesskey = D
 cfr-doorhanger-fingerprinters-heading = ఈ పేజీలో ఒక పింగర్‌ప్రింటర్ని { -brand-short-name } నిరోధించింది
+cfr-doorhanger-cryptominers-heading = ఈ పేజీలో ఒక క్రిప్టోమైనరును { -brand-short-name } నిరోధించింది
 
 ## Enhanced Tracking Protection Milestones
 
@@ -200,6 +201,7 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ప్రతీ�
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = బలహీనమైన సంకేతపదాల గురించి హెచ్చరికలను పొందండి
+cfr-whatsnew-passwords-icon-alt = బలహీన సంకేతపదపు తాళంచెవి ప్రతీకం
 
 ## Picture-in-Picture fullscreen message
 
@@ -215,6 +217,7 @@ cfr-whatsnew-better-pdf-header = మెరుగైన PDF అనుభవం
 
 ## DOH Message
 
+cfr-doorhanger-doh-header = మరింత సురక్షితం, ఎన్‌క్రిప్ట్ అయిన DNS శోధనలు
 cfr-doorhanger-doh-primary-button = సరే, అర్థమయ్యింది
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = అచేతనించు

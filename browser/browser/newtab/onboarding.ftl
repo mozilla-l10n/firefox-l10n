@@ -19,8 +19,11 @@ onboarding-button-label-get-started = మొదలుపెట్టండి
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name }కు స్వాగతం
+onboarding-welcome-body = మీరు విహారిణిని తెచ్చుకున్నారు.<br/>మిగతా { -brand-product-name }‌ను కలుసుకోండి.
 onboarding-welcome-learn-more = ప్రయోజనాల గురించి మరింత తెలుసుకోండి.
 onboarding-join-form-header = { -brand-product-name }‌తో చేరండి
+onboarding-welcome-modal-get-body = మీరు విహారిణిని తెచ్చుకున్నారు.<br/>ఇప్పుడు { -brand-product-name }‌ నుండి మరింత పొందండి.
+onboarding-welcome-modal-privacy-body = మీరు విహారిణిని తెచ్చుకున్నారు. ఇక మరికొంత గోప్యతా సంరక్షణను చేరుద్దాం.
 onboarding-welcome-modal-family-learn-more = { -brand-product-name } ఉత్పత్తుల కుటుంబం గురించి ఇంకా తెలుసుకోండి.
 onboarding-welcome-form-header = ఇక్కడ మొదలుపెట్టండి
 onboarding-join-form-body = మొదలుపెట్టడానికి మీ ఈమెయిలు చిరునామా ఇవ్వండి.
@@ -39,7 +42,13 @@ onboarding-cards-dismiss =
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span>కి స్వాగతం
 onboarding-multistage-welcome-secondary-button-text = ఖాతా ఉందా?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = మీ సంకేతపదాలను, ఇష్టాంశాలను <br/>, ఇంకా <span data-l10n-name="zap">మరెన్నిటినో</span> దిగుమతి చేసుకోండి
 onboarding-multistage-import-primary-button-label = దిగుమతిని మొదలుపెట్టు
 onboarding-multistage-import-secondary-button-label = ఇప్పుడు కాదు
 onboarding-multistage-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
@@ -103,7 +112,9 @@ onboarding-data-sync-title = మీ అమరికలను మీతో తీ
 onboarding-data-sync-button2 = { -sync-brand-short-name } లోనికి ప్రవేశించండి
 onboarding-browse-privately-title = అంతరంగికంగా విహరించండి
 onboarding-browse-privately-button = ఒక అంతరంగిక కిటికీ తెరవండి
+onboarding-firefox-send-title = మీరు పంచుకున్న ఫైళ్ళను అంతరంగికంగా ఉంచుకోండి
 onboarding-firefox-send-button = { -send-brand-name }‌ని ప్రయత్నించండి
+onboarding-mobile-phone-title = { -brand-product-name }‌ను మీ ఫోనులో పొందండి
 onboarding-pocket-anywhere-title = ఎక్కడైనా చదవండి, వినండి
 onboarding-pocket-anywhere-button = { -pocket-brand-name }‌ని ప్రయత్నించండి
 onboarding-lockwise-passwords-title = మీ సంకేతపదాలను మీతో ఎక్కడికైనా తీసుకెళ్ళండి
