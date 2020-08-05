@@ -74,7 +74,7 @@ set-password-backup-pw =
     .value = Passord for sikkerhetskopi:
 set-password-repeat-backup-pw =
     .value = Passord for sikkerhetskopi (igjen):
-set-password-reminder = Viktig: Dersom du glemmer passordet til sikkerhetskopien vil du ikke kunne få tilbake innholdet i sikkerhetskopien senere. Skriv det ned på et sikkert sted.
+set-password-reminder = Viktig: Dersom du glemmer passordet til sertifikatsikkerhetskopien vil du ikke kunne få tilbake innholdet i sikkerhetskopien senere. Skriv det ned på et sikkert sted.
 
 ## Protected Auth dialog
 
