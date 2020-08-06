@@ -271,16 +271,29 @@ expiry-open-key-properties = Apri le proprietà della chiave
 filter-folder-required = Selezionare la cartella di destinazione.
 filter-term-pgpencrypted-label = Crittato con OpenPGP
 filter-key-required = È necessario selezionare una chiave del destinatario.
+filter-key-not-found = Impossibile trovare una chiave di crittatura per “{ $desc }”.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Decritta in modo permanente (OpenPGP)
 filter-decrypt-copy-label = Crea copia decrittata (OpenPGP)
 filter-encrypt-label = Critta su chiave (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Chiavi importate correttamente.
 import-info-bits = Bit
 import-info-fpr = Impronta digitale
 import-info-details = Visualizza i dettagli e gestisci l’accettazione delle chiavi
 import-info-no-keys = Nessuna chiave importata.
+# Strings in enigmailKeyManager.js
+import-from-clip = Importare alcune chiavi dagli appunti?
+import-from-url = Scarica la chiave pubblica da questo indirizzo:
 copy-to-clipbrd-failed = Impossibile copiare le chiavi selezionate negli appunti.
 copy-to-clipbrd-ok = Chiavi copiate negli appunti
+delete-secret-key =
+    ATTENZIONE: si sta cercando di eliminare una chiave segreta.
+    
+    Se si elimina la propria chiave segreta, non sarà più possibile decrittare i messaggi crittati con quella chiave, né si potrà revocarla.
+    
+    Si vuole veramente eliminare ENTRAMBE le chiavi (segreta e pubblica) per “{ $userId }”?
 
 ## Account settings export output
 
