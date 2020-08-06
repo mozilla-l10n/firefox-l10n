@@ -212,17 +212,38 @@ key-usage-sign = Signar
 key-usage-certify = Certificar
 key-usage-authentication = Authentication
 key-does-not-expire = Le clave non expira
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Parte de message cryptate
+# Strings in keyserver.jsm
+keyserver-error-aborted = Abortate
+keyserver-error-unknown = Un error incognite occurreva
+keyserver-error-unavailable = Servitor-de-claves indisponibile
+keyserver-error-security-error = Le servitor non supporta accesso cryptate.
+keyserver-error-certificate-error = Le certificato del servitor-de-claves non es valide.
+keyserver-error-unsupported = Le servitor-de-claves non es disponibile.
+expiry-open-key-manager = Aperir le gestor de clave OpenPGP
+expiry-open-key-properties = Aperir proprietates del clave
 # Strings filters.jsm
-filter-folder-required = Tu debe eliger un dossier de destination.
+filter-folder-required = Tu debe eliger un plica de destination.
+filter-term-pgpencrypted-label = Cryptate OpenPGP
 import-info-bits = Bits
 import-info-created = Create
 import-info-fpr = Dactylogramma
+import-info-no-keys = Nulle claves importate
+# Strings in enigmailKeyManager.js
+import-from-clip = Vole tu importar alcun claves ab area de transferentia?
+import-from-url = Discargar clave public ex iste URL:
 key-man-loading-keys = Cargamento claves, attende…
 save-keys-ok = Claves salvate con successo.
 save-keys-failed = Salvamento claves fallite!
+general-error = Error: { $reason }
+dlg-button-delete = &Deler
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = Photo
+key-man-button-revoke-key = &Revocar clave
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Deler clave OpenPGP
@@ -240,3 +261,5 @@ import-rev-file = Importar le le revocation del file OpenPGP
 gnupg-file = Files GnuPG
 import-keys-failed = Importation de claves fallite!
 passphrase-prompt = Insere le phrase contrasigno que disbloca le sequente clave: { $key }
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Crear e salvar le certificato de revocation
