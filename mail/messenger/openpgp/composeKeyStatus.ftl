@@ -6,3 +6,6 @@ openpgp-compose-key-status-recipient =
     .label = Ontvanger
 openpgp-compose-key-status-status =
     .label = Status
+openpgp-recip-good = OK
+openpgp-recip-missing = geen sleutel beschikbaar
+openpgp-recip-none-accepted = geen geaccepteerde sleutel
