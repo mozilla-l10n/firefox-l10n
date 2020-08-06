@@ -169,6 +169,9 @@ openpgp-key-details-expiry-label =
     .label = Scadenza
 openpgp-key-details-expiry-header = Scadenza
 openpgp-key-details-fingerprint-label = Impronta digitale
+openpgp-key-details-sel-action =
+    .label = Seleziona azione...
+    .accesskey = z
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Chiudi
 openpgp-copy-cmd-label =
@@ -176,12 +179,49 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = Aggiungi chiave...
+    .accesskey = A
 e2e-learn-more = Ulteriori informazioni
 openpgp-keygen-success = Chiave OpenPGP creata correttamente.
 openpgp-keygen-import-success = Le chiavi OpenPGP sono state importate correttamente.
+openpgp-keygen-external-success = ID chiave esterna GnuPG salvato.
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none-desc = Non utilizzare OpenPGP per questa identità.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Scade il: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = La chiave scadrà tra meno di 6 mesi
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Scaduta il: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Chiave scaduta
+openpgp-key-expand-section =
+    .tooltiptext = Ulteriori informazioni
+openpgp-key-revoke-title = Revoca chiave
+openpgp-key-edit-title = Modifica chiave OpenPGP
+openpgp-key-edit-date-title = Estendi la data di scadenza
+openpgp-manager-description = Utilizzare il gestore delle chiavi OpenPGP per visualizzare e gestire le chiavi pubbliche dei corrispondenti e tutte le altre chiavi non elencate sopra.
+openpgp-key-remove-external =
+    .label = Rimuovi ID chiave esterna
+    .accesskey = m
+key-external-label = Chiave GnuPG esterna
+# Strings in keyDetailsDlg.xhtml
+key-type-public = chiave pubblica
+key-type-primary = chiave primaria
+key-type-subkey = sottochiave
+key-type-pair = coppia di chiavi (chiave segreta e chiave pubblica)
+key-expiry-never = mai
+key-usage-encrypt = Critta
+key-usage-sign = Firma
+key-usage-authentication = Autenticazione
+key-does-not-expire = La chiave non ha scadenza
+key-expired-date = La chiave è scaduta il { $keyExpiry }
+key-expired-simple = La chiave è scaduta
+key-revoked-simple = La chiave è stata revocata
+key-do-you-accept = Accettare questa chiave per la verifica delle firme digitali e per la crittatura dei messaggi?
 
 ## Account settings export output
 
