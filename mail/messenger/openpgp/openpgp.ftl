@@ -421,7 +421,7 @@ key-ring-pub-key-not-for-signing = Nid oed modd defnyddio'r allwedd { $userId } 
 key-ring-pub-key-not-for-encryption = Nid oed modd defnyddio'r allwedd { $userId } (ID allweddl { $keyId } ar gyfer amgryptio.
 key-ring-sign-sub-keys-revoked = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) yn cael eu dirymu.
 key-ring-sign-sub-keys-expired = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) wedi dod i ben.
-key-ring-sign-sub-keys-unusable = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) wedi eu dirymu, dod i ben neu fel arall.
+key-ring-sign-sub-keys-unusable = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allwedd { $keyId }) wedi eu dirymu, dod i ben neu fel arall.
 key-ring-enc-sub-keys-revoked = Mae pob is-allwedd amgryptio allwedd { $userId } (ID allwedd { $keyId }) yn cael ei ddirymu.
 key-ring-enc-sub-keys-expired = Mae pob is-allwedd amgryptio allwedd { $userId } (ID allwedd { $keyId }) wedi dod i ben.
 key-ring-enc-sub-keys-unusable = Mae pob is-allwedd amgryptio allwedd { $userId } (ID allwedd { $keyId }) wedi cael eu dirymu, wedi dod i ben neu fel arall.
@@ -525,3 +525,17 @@ send-aborted = Ataliwyd y weithred o anfon.
 key-not-trusted = Dim digon o ymddiriedaeth ar gyfer allwedd '{ $key }'
 key-not-found = Heb ddarganfod allwedd '{ $key }'
 key-revoked = Allwedd '{ $key }' wedi'i ddirymu
+key-expired = Allwedd '{ $key }' wedi dod i ben
+msg-compose-internal-error = Digwyddodd gwall mewnol.
+keys-to-export = Dewiswch Allweddi OpenPGP i'w Mewnosod
+msg-compose-partially-encrypted-inlinePGP =
+    Roedd y neges rydych chi'n ymateb iddi yn cynnwys rhannau heb eu hamgryptio ac wedi'u hamgryptio. Os nad oedd yr anfonwr yn gallu dadgryptio rhai rhannau o'r neges yn wreiddiol, efallai eich bod yn gollwng gwybodaeth gyfrinachol nad oedd yr anfonwr yn gallu dadgryptio ei hun yn wreiddiol.
+    Ystyriwch dynnu'r holl destun a ddyfynnwyd o'ch ateb i'r anfonwr hwn.
+msg-compose-cannot-save-draft = Gwall wrth gadw drafft
+msg-compose-partially-encrypted-short = Gwyliwch rhag gollwng gwybodaeth sensitif - e-bost wedi'i amgryptio'n rhannol.
+quoted-printable-warn =
+    Rydych wedi galluogi amgodio 'dyfyniad-argraffadwy' ar gyfer anfon negeseuon. Gall hyn arwain at ddadgryptio anghywir a/neu ddilysu'ch neges.
+    Ydych chi am ddiffodd anfon negeseuon 'dyfyniad-argraffadwy' nawr?
+minimal-line-wrapping =
+    Rydych chi wedi gosod lapio llinell i nodau { $width }. Ar gyfer amgryptio a/neu lofnodi cywir, mae angen i'r gwerth hwn fod yn 68 o leiaf.
+    Ydych chi am newid amlapio llinell i 68 nod nawr?
