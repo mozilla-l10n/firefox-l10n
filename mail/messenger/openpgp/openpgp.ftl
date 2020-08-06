@@ -539,3 +539,28 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Rydych chi wedi gosod lapio llinell i nodau { $width }. Ar gyfer amgryptio a/neu lofnodi cywir, mae angen i'r gwerth hwn fod yn 68 o leiaf.
     Ydych chi am newid amlapio llinell i 68 nod nawr?
+sending-hidden-rcpt = Nid oes modd defnyddio derbynwyr BCC (copi dall) wrth anfon neges wedi'i hamgryptio. I anfon y neges amgryptiedig hon, naill ai tynnwch y derbynwyr BCC neu eu symud i'r maes CC.
+sending-news =
+    Ataliwyd gweithrediad anfon wedi'i amgryptio.
+    Nid oes modd amgryptio'r neges hon oherwydd bod derbynwyr grwpiau newyddion. Ail-anfonwch y neges heb amgryptio.
+send-to-news-warning =
+    Rhybudd: rydych chi ar fin anfon e-bost wedi'i amgryptio i grŵp newyddion.
+    Nid yw hyn yn cael ei annog oherwydd nad yw ond yn gwneud synnwyr os yw pob aelod o'r grŵp yn gallu dadgryptio'r neges, h.y. mae angen amgryptio'r neges gydag allweddi holl gyfranogwyr y grŵp. Anfonwch y neges hon dim ond os ydych chi'n gwybod yn union beth rydych chi'n ei wneud.
+    Parhau?
+save-attachment-header = Cadw atodiad wedi'i ddadgryptio
+no-temp-dir =
+    Methu dod o hyd i gyfeiriadur dros dro i ysgrifennu ato
+    Gosodwch y newidyn amgylchedd TEMP
+possibly-pgp-mime = Neges wedi'i hamgryptio neu wedi'i llofnodi gan PGP / MIME o bosibl; defnyddiwch swyddogaeth 'Dadgryptio/Gwirio' i wirio
+cannot-send-sig-because-no-own-key = Methu llofnodi'r neges hon yn ddigidol, oherwydd nid ydych eto wedi ffurfweddu amgryptio pen-i-ben ar gyfer <{ $key }>
+cannot-send-enc-because-no-own-key = Methu anfon y neges hon wedi'i hamgryptio, oherwydd nid ydych eto wedi ffurfweddu amgryptio pen-i-ben ar gyfer <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Mewnforio'r allweddi canlynol?
+    { $key }
+do-import-one = Mewnforio { $name } ({ $id })?
+cant-import = Gwall wrth fewnforio allwedd gyhoeddus
+unverified-reply = Mae'n debyg bod rhan neges wedi'i mewnoli (ateb) wedi'i haddasu
+key-in-message-body = Wedi canfod allwedd yng nghorff y neges. Cliciwch 'Allwedd Mewnforio' i fewnforio'r allwedd
+sig-mismatch = Gwall - Camgydweddiad llofnod
+invalid-email = Gwall - cyfeiriad(au) e-bost annilys
