@@ -7,6 +7,9 @@ serviceworker-list-aboutdebugging = Apri <a>about:debugging</a> per service work
 serviceworker-worker-unregister = Deregistra
 serviceworker-worker-debug = Avvia debug
   .title = Il debug è disponibile solo per service worker in esecuzione
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+  .alt = Ispeziona
 serviceworker-worker-debug-forbidden = Avvia debug
   .title = Il debug per i service worker è disponibile solo se multi e10s è disattivato
 serviceworker-worker-start = Avvia
