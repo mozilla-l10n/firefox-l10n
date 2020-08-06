@@ -203,11 +203,30 @@ openpgp-acceptance-unverified-label =
     .label = Ja, men eg har ikkje stadfestat at det er rett nøkkel.
 openpgp-acceptance-verified-label =
     .label = Ja, eg har stadfesta at denne nøkkelen har rett fingeravtrykk.
+openpgp-personal-no-label =
+    .label = Nei, ikkje bruk han som den personlege nøkkelen min.
+openpgp-personal-yes-label =
+    .label = Ja, behandle denne nøkkelen som ein personeig nøkkel.
 openpgp-copy-cmd-label =
     .label = Kopier
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird har ikkje ein personleg OpenPGP-nøkkel for <b>{ $identity }</b>
+        [one] Thunderbird fant { $count } personleg OpenPGP-nøkkel assosiert med <b>{ $identity }</b>
+       *[other] Thunderbird fant { $count } personlege OpenPGP-nøklar assosierte med <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Vel ei gyldig nøkkel for å slå på OpenPGP-protokollen.
+       *[other] Den gjeldande konfigurasjonen din brukar nøkkel-ID <b>{ $key }</b>
+    }
 openpgp-add-key-button =
     .label = Legg til nøkkel…
     .accesskey = L
@@ -266,6 +285,13 @@ converter-decrypt-body-failed =
     Klarte ikkje å dekryptere meldinga med emnet
     { $subject }.
     Vil du prøve igjen med ei anna passordfrase eller vill du hoppe over meldinga?
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Dekrypter permanent (OpenPGP)
+filter-decrypt-copy-label = Lag dekryptert kopi (OpenPGP)
+filter-encrypt-label = Krypter til nøkkel (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Nøklar importerte!
 import-info-bits = Bit
 import-info-created = Laga
 default-pub-sec-key-filename = Sikkerheitskopi-av-hemmelege-nøklar

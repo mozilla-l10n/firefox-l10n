@@ -23,6 +23,7 @@ openpgp-import-sender-key =
     .label = Importer…
 openpgp-search-keys-openpgp =
     .label = Oppdag OpenPGP-nøkkel
+openpgp-missing-signature-key = Denne meldinga vart signert med ein nøkkel som du enno ikkje har.
 openpgp-search-signature-key =
     .label = Oppdag…
 openpgp-broken-exchange-repair =
