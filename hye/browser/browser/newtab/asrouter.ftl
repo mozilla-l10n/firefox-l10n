@@ -254,3 +254,4 @@ cfr-doorhanger-doh-secondary-button = Անջատել
 
 cfr-whatsnew-clear-cookies-header = Ինքնաշխատ պաշտպանութիւն գաղտնի հետագծման գործելակերպից
 cfr-whatsnew-clear-cookies-body = Որոշ հետագծիչներ ձեզ վերահասցէաւորում են այլ կայքեր, որոնք գաղտնի տեղադրում են նշոցիկներ։ { -brand-short-name }֊ն այժմ ինքնաբար մաքրում է այս նշոցիկները, որպէսզի ձեզ չհետեւեն։
+cfr-whatsnew-clear-cookies-image-alt = Նշոցիկն արգելափակեց պատկերը

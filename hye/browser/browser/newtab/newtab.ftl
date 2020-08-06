@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Մեր հովանաւորները եւ Ձեր գ
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Արուած
+newtab-privacy-modal-button-manage = Կառավարել հովանաւորուած բովանդակութեան կարգաւորումները
 newtab-privacy-modal-header = Ձեր գաղտնիութիւնը կարեւոր է։
 newtab-privacy-modal-paragraph-2 = Հետաքրքրաշարժ հոդուածներ առաջարկելուց բացի, մենք նաեւ ցուցադրում ենք մեր հիմնական հովանաւորների կողմից ներկայացուող բարձրակարգ նիւթ։ Համոզուած եղէք, <strong> որ Ձեր դիտարկած տուեալները երբեք դուրս չեն գալիս { -brand-product-name } — -ի ձեր անձնական պատճէնից։ Դրանք չենք տեսնում ինչպէս մենք, այնպէս էլ մեր հովանաւորները:
 newtab-privacy-modal-link = Իմացեք թե ինչպէս է գաղտնիութիւնն աշխատում նոր ներդիրում
@@ -132,6 +133,10 @@ newtab-label-download = Ներբեռնուած է
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource }: Հովանաւորուած
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = Հովանաւորուած { $sponsor }֊ի կողմից
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
