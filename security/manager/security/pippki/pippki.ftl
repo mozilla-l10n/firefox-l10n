@@ -25,6 +25,7 @@ reset-password-window =
 pippki-failed-pw-change = Salasanaa ei voitu vaihtaa.
 pippki-incorrect-pw = Väärä salasana. Yritä uudestaan.
 pippki-pw-change-ok = Salasana vaihdettiin onnistuneesti.
+pippki-pw-empty-warning = Tallennettuja salasanoja ja salaisia avaimia ei suojata.
 pippki-pw-erased-ok = Salasana poistettiin. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Varoitus! Olet ottanut salasanan pois käytöstä. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = Olet parhaillaan FIPS-tilassa. FIPS edellyttää, että salasana ei ole tyhjä.
@@ -37,6 +38,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Poista
 reset-password-text = Jos pääsalasana poistetaan, kaikki tallennetut sivusto- ja sähköpostisalasanat, lomaketiedot, henkilökohtaiset varmenteet ja salaiset avaimet unohdetaan. Poistetaanko pääsalasana?
+reset-primary-password-text = Jos pääsalasana poistetaan, kaikki tallennetut sivusto- ja sähköpostisalasanat, henkilökohtaiset varmenteet ja salaiset avaimet unohdetaan. Poistetaanko pääsalasana?
 pippki-reset-password-confirmation-title = Nollaa pääsalasana
 pippki-reset-password-confirmation-message = Pääsalasanasi on nollattu.
 

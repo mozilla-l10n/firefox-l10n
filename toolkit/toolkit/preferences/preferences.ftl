@@ -14,6 +14,7 @@ pw-change2empty-in-fips-mode = Olet FIPS-tilassa ja se vaatii pääsalasanan.
 failed-pp-change = Pääsalasanan vaihtaminen ei onnistunut
 incorrect-pp = Väärä pääsalasana. Yritä uudestaan.
 pp-change-ok = Pääsalasana vaihdettu onnistuneesti.
+pp-empty-warning = Tallennettuja salasanoja ja salaisia avaimia ei suojata.
 pp-erased-ok = Pääsalasana poistettiin. { pp-empty-warning }
 pp-not-wanted = Varoitus! Olet ottanut pääsalasanan pois käytöstä. { pp-empty-warning }
 pp-change2empty-in-fips-mode = Olet parhaillaan FIPS-tilassa. FIPS edellyttää, että pääsalasana ei ole tyhjä.
