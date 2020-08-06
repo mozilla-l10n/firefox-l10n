@@ -551,7 +551,7 @@ save-attachment-header = Cadw atodiad wedi'i ddadgryptio
 no-temp-dir =
     Methu dod o hyd i gyfeiriadur dros dro i ysgrifennu ato
     Gosodwch y newidyn amgylchedd TEMP
-possibly-pgp-mime = Neges wedi'i hamgryptio neu wedi'i llofnodi gan PGP / MIME o bosibl; defnyddiwch swyddogaeth 'Dadgryptio/Gwirio' i wirio
+possibly-pgp-mime = Neges wedi'i hamgryptio neu wedi'i llofnodi gan PGP/MIME o bosibl; defnyddiwch swyddogaeth 'Dadgryptio/Gwirio' i wirio
 cannot-send-sig-because-no-own-key = Methu llofnodi'r neges hon yn ddigidol, oherwydd nid ydych eto wedi ffurfweddu amgryptio pen-i-ben ar gyfer <{ $key }>
 cannot-send-enc-because-no-own-key = Methu anfon y neges hon wedi'i hamgryptio, oherwydd nid ydych eto wedi ffurfweddu amgryptio pen-i-ben ar gyfer <{ $key }>
 # Strings used in decryption.jsm
@@ -564,3 +564,36 @@ unverified-reply = Mae'n debyg bod rhan neges wedi'i mewnoli (ateb) wedi'i hadda
 key-in-message-body = Wedi canfod allwedd yng nghorff y neges. Cliciwch 'Allwedd Mewnforio' i fewnforio'r allwedd
 sig-mismatch = Gwall - Camgydweddiad llofnod
 invalid-email = Gwall - cyfeiriad(au) e-bost annilys
+attachment-pgp-key =
+    Mae'n ymddangos bod yr atodiad '{ $name }' rydych chi'n ei agor yn ffeil allwedd OpenPGP.
+    Cliciwch 'Mewnforio' i fewnforio'r allweddi sydd wedi'u cynnwys neu 'Golwg' i weld cynnwys y ffeil mewn ffenestr porwr
+dlg-button-view = &Golwg
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Neges wedi'i dadgryptio (fformat e-bost PGP wedi'i dorri wedi'i adfer yn ôl pob tebyg wedi'i achosi gan hen weinydd Exchange, fel na fyddai'r canlyniad yn berffaith i'w ddarllen o bosibl)
+# Strings used in encryption.jsm
+not-required = Gwall - nid oes angen amgryptio
+# Strings used in windows.jsm
+no-photo-available = Dim Llun ar gael
+error-photo-path-not-readable = Nid yw llwybr llun '{ $photo }' yn ddarllenadwy
+debug-log-title = Cofnod Dadfygio OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Bydd y rhybudd hwn yn ailadrodd { $count }
+repeat-suffix-singular = rhagor o amser.
+repeat-suffix-plural = rhagor o amser.
+no-repeat = Ni fydd y rhybudd hwn yn cael ei ddangos eto.
+dlg-keep-setting = Cofiwch fy ateb a pheidiwch â gofyn imi eto
+dlg-button-ok = &IAWN
+dlg-button-close = &Cau
+dlg-button-cancel = &Diddymu
+dlg-no-prompt = Peidio dangos y blwch deialog eto.
+enig-prompt = Anogwr OpenPGP
+enig-confirm = Cadarnhad OpenPGP
+enig-alert = Rhybudd OpenPGP
+enig-info = Manylion OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Ceisio eto
+dlg-button-skip = &Hepgor
+# Strings used in enigmailCommon.js
+enig-error = Gwall OpenPGP
+enig-alert-title =
+    .title = Rhybudd OpenPGP
