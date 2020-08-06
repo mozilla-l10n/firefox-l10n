@@ -312,6 +312,10 @@ copy-to-clipbrd-ok = Nøklar kopierte til utklippstavla
 delete-pub-key =
     Vil du slette den offentlege nøkkelen
     «{ $userId }»?
+delete-selected-pub-key = Vil du slette dei offentlege nøklane?
+refresh-all-question = Du valde ingen nøkkel. Vil du oppdatere ALLE nøklane?
+key-man-button-export-sec-key = Eksporter &hemmelege nøklar
+key-man-button-export-pub-key = Eksporter berre &offentlege nøklar
 default-pub-sec-key-filename = Sikkerheitskopi-av-hemmelege-nøklar
 general-error = Feil: { $reason }
 dlg-button-delete = &Slett
