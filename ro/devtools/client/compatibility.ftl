@@ -12,7 +12,11 @@ compatibility-all-elements-header = Toate problemele
 
 compatibility-issue-deprecated = (perimate)
 compatibility-issue-experimental = (experimentale)
+compatibility-issue-prefixneeded = (este nevoie de prefix)
 compatibility-issue-deprecated-experimental = (perimate, experimentale)
+compatibility-issue-deprecated-prefixneeded = (perimat, este nevoie de prefix)
+compatibility-issue-experimental-prefixneeded = (experimental, este nevoie de prefix)
+compatibility-issue-deprecated-experimental-prefixneeded = (perimat, experimental, este nevoie de prefix)
 
 ## Messages used as labels and titles for buttons in the footer
 
