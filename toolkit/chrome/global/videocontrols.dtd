@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Abspielen">
 <!ENTITY playButton.pauseLabel "Anhalten">
 <!ENTITY muteButton.muteLabel "Ton aus">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Frames dekodiert">
 <!ENTITY stats.framesPresented "Frames präsentiert">
 <!ENTITY stats.framesPainted "Frames gezeichnet">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "In Bild-in-Bild ansehen">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Spielen Sie Videos im Vordergrund ab, während Sie andere Dinge in &brandShortName; tun">
 
 <!ENTITY error.aborted "Laden des Videos gestoppt.">
 <!ENTITY error.network "Abspielen des Videos wegen eines Netzwerkfehlers abgebrochen.">

@@ -14,6 +14,7 @@ pw-change2empty-in-fips-mode = Sie sind derzeit im FIPS-Modus. FIPS benötigt ei
 failed-pp-change = Hauptpasswort konnte nicht geändert werden.
 incorrect-pp = Sie haben nicht das richtige aktuelle Hauptpasswort eingegeben. Bitte versuchen Sie es erneut.
 pp-change-ok = Hauptpasswort erfolgreich geändert.
+pp-empty-warning = Ihre gespeicherten Passwörter und privaten Schlüssel werden nicht geschützt.
 pp-erased-ok = Sie haben Ihr Hauptpasswort gelöscht. { pp-empty-warning }
 pp-not-wanted = Warnung! Sie haben sich entschieden, kein Hauptpasswort zu verwenden. { pp-empty-warning }
 pp-change2empty-in-fips-mode = Sie sind derzeit im FIPS-Modus. FIPS benötigt ein nicht leeres Hauptpasswort.
