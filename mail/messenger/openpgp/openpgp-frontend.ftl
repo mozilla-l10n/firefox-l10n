@@ -31,6 +31,10 @@ openpgp-broken-exchange-info = Dette er ei OpenPGP-melding som tydelegvis vart �
 openpgp-broken-exchange-repair =
     .label = Reparer melding
 openpgp-broken-exchange-wait = Vent litt…
+openpgp-cannot-decrypt-because-mdc =
+    Dette er ei kryptert melding som brukar ein gammel og sårbar mekanisme.
+    Han kan ha blitt endra under transport, med eit føremål om å stele innhaldet.
+    For å hindre denne risikoen vert ikkje innhaldet vist.
 openpgp-cannot-decrypt-because-missing-key = Den hemmelege nøkkelen som vert kravd for å dekryptere denne meldinga er ikkje tilgjengeleg.
 openpgp-reminder-partial-display = Påminning: Meldinga vist nedanfor er berre ei delmengde av den opprhavlege meldinga.
 openpgp-partial-verify-button = Stadfest
