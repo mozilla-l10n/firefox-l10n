@@ -342,6 +342,16 @@ dlg-button-delete = &Slett
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Offentleg nøkkel eksportert!</b>
+openpgp-export-public-fail = <b>Klarte ikkje å eksportere den valde offentlege nøkkelen!</b>
+openpgp-export-secret-success = <b>Hemmeleg nøkkel eksportert!</b>
+openpgp-export-secret-fail = <b>Det gjekk ikkje å eksportere den valde hemmelege nøkkelen!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er tilbakekalla.
+key-ring-pub-key-expired = Nøkkelen { $userId } (nøkkel-ID { $keyId }) har gått ut.
+key-ring-key-disabled = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er slått av; han kan ikkje brukast.
+key-ring-key-invalid = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikkje gyldig. Vurder å stadfeste han korrekt.
+key-ring-key-not-trusted = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikkje tiltrudd nok. Still inn klareringsnivået for nøkkelen din til «ultimat» for å bruke han til signering.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Brukarattribut (JPEG-bilde)
