@@ -11,6 +11,7 @@ openpgp-no-sig = Ingen digital signatur
 openpgp-uncertain-sig = Usikker digital signatur
 openpgp-invalid-sig = Ugyldig digital signatur
 openpgp-good-sig = Korrekt digital signatur
+openpgp-sig-uncertain-no-key = Denne meldinga inneheld ein digital signatur, men det er uvisst om han er rett. For å stadfeste signaturen, må du skaffe ein kopi av den offentlege nøkkelen til avsendaren.
 openpgp-sig-valid-verified = Denne meldinga inneheld ein gyldig digital signatur frå ein stadfesta nøkkel.
 openpgp-sig-valid-own-key = Denne meldinga inneheld ein gyldig digital signatur frå den personlege nøkkelen din.
 openpgp-sig-key-id = Signatarnøkkel-ID: { $key }
