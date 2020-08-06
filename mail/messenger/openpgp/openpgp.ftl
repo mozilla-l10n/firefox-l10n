@@ -322,7 +322,12 @@ ascii-armor-file = ASCII armerte filer (* .asc)
 no-key-selected = Du bør velje minst ein nøkkel for å utføre den valde handlinga
 export-to-file = Eksporter offentleg nøkkel til fil
 export-keypair-to-file = Eksporter hemmeleg og offentleg nøkkel til fil
+export-secret-key = Vil du inkludere den hemmelege nøkkelen i den lagra OpenPGP-nøkkelfila?
+save-keys-ok = Nøklane vart lagra
+save-keys-failed = Lagring av nøklane feila
+default-pub-key-filename = Eksporterte-offentlege-nøklar
 default-pub-sec-key-filename = Sikkerheitskopi-av-hemmelege-nøklar
+preview-failed = Klarte ikkje å lese inn offentleg nøkkelfil.
 general-error = Feil: { $reason }
 dlg-button-delete = &Slett
 
