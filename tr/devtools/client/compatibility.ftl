@@ -12,7 +12,11 @@ compatibility-all-elements-header = Tüm sorunlar
 
 compatibility-issue-deprecated = (kullanımdan kaldırıldı)
 compatibility-issue-experimental = (deneysel)
+compatibility-issue-prefixneeded = (ön ek gerekli)
 compatibility-issue-deprecated-experimental = (kullanımdan kaldırıldı, deneysel)
+compatibility-issue-deprecated-prefixneeded = (kullanımdan kaldırıldı, ön ek gerekli)
+compatibility-issue-experimental-prefixneeded = (deneysel, ön ek gerekli)
+compatibility-issue-deprecated-experimental-prefixneeded = (kullanımdan kaldırıldı, deneysel, ön ek gerekli)
 
 ## Messages used as labels and titles for buttons in the footer
 
