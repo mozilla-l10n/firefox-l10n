@@ -222,6 +222,40 @@ key-expired-date = La chiave è scaduta il { $keyExpiry }
 key-expired-simple = La chiave è scaduta
 key-revoked-simple = La chiave è stata revocata
 key-do-you-accept = Accettare questa chiave per la verifica delle firme digitali e per la crittatura dei messaggi?
+window-locked = La finestra di composizione è bloccata; invio annullato
+# Strings in keyserver.jsm
+keyserver-error-aborted = Interrotto
+keyserver-error-unknown = Si è verificato un errore sconosciuto
+keyserver-error-server-error = Il keyserver ha segnalato un errore.
+keyserver-error-import-error = Impossibile importare la chiave scaricata.
+keyserver-error-unavailable = Il keyserver non è disponibile.
+keyserver-error-security-error = Il keyserver non supporta l’accesso crittato.
+keyserver-error-certificate-error = Il certificato del keyserver non è valido.
+keyserver-error-unsupported = Il keyserver non è supportato.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Impossibile decrittare il messaggio con l’oggetto
+    { $subject }.
+    Riprovare con una passphrase diversa o saltare il messaggio?
+# Strings in gpg.jsm
+unknown-signing-alg = Algoritmo di firma sconosciuto (ID: { $id })
+unknown-hash-alg = Hash crittografico sconosciuto (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    La propria chiave { $desc } scadrà tra meno di { $days } giorni.
+    Si consiglia di creare una nuova coppia di chiavi e configurare gli account corrispondenti per utilizzarla.
+expiry-keys-expire-soon =
+    Le seguenti chiavi scadranno tra meno di { $days } giorni: { $desc }.
+    Si consiglia di creare nuove chiavi e configurare gli account corrispondenti per utilizzarle.
+expiry-open-key-manager = Apri il gestore delle chiavi OpenPGP
+expiry-open-key-properties = Apri le proprietà della chiave
+# Strings filters.jsm
+filter-folder-required = Selezionare la cartella di destinazione.
+filter-key-required = È necessario selezionare una chiave del destinatario.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Decritta in modo permanente (OpenPGP)
+filter-decrypt-copy-label = Crea copia decrittata (OpenPGP)
+filter-encrypt-label = Critta su chiave (OpenPGP)
 
 ## Account settings export output
 
