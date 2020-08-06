@@ -263,3 +263,26 @@ import-keys-failed = Importation de claves fallite!
 passphrase-prompt = Insere le phrase contrasigno que disbloca le sequente clave: { $key }
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear e salvar le certificato de revocation
+key-abort = Abortar le generation del clave?
+key-man-button-generate-key-abort = &Abortar le generation del clave
+key-man-button-generate-key-continue = &Continuar le generation del clave
+msg-ovl-button-cont-anyway = &Continuar comocunque
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = Inviar message (&Send)
+msg-compose-details-button-label = Detalios…
+msg-compose-details-button-access-key = D
+send-aborted = Invio abortate.
+msg-compose-internal-error = Error interne.
+do-import-one = Importar { $name } ({ $id })?
+dlg-button-view = &Vider
+repeat-suffix-singular = altere vice.
+repeat-suffix-plural = altere vices.
+dlg-button-ok = &OK
+dlg-button-close = &Clauder
+dlg-button-cancel = &Cancellar
+dlg-no-prompt = Non monstrar me plus iste fenestra de dialogo
+enig-confirm = Confirmation OpenPGP
+enig-alert = Alerta OpenPGP
+enig-info = Information OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Retentar
