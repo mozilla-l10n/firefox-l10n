@@ -418,6 +418,17 @@ keyring-photo = Foto
 user-att-photo = Brukerattributt (JPEG-bilde)
 # Strings in key.jsm
 already-revoked = Denne nøkkelen er allerede trukket tilbake.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Du er i ferd med å tilbakekalle nøkkelen «{ $identity }».
+    Du vil ikke lenger kunne signere med denne nøkkelen, og når den er distribuert, vil andre ikke lenger kunne kryptere med den nøkkelen. Du kan fremdeles bruke nøkkelen til å dekryptere gamle meldinger.
+    Vil du fortsette?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Du har ingen nøkkel (0x{ $keyId }) som samsvarer med dette tilbakekallingssertifikatet!
+    Hvis du har mistet nøkkelen, må du importere den (f.eks. fra en nøkkelserver) før du importerer tilbakekallingssertifikatet!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Nøkkelen 0x{ $keyId } er allerede trukket tilbake.
 key-man-button-revoke-key = &Tilbakekall nøkkel
 openpgp-key-revoke-success = Nøkkel er tilbakekalt.
 key-trust-ultimate = ultimat
