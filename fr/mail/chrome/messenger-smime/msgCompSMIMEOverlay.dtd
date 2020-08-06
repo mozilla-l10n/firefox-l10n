@@ -15,7 +15,7 @@
 -->
 
 <!ENTITY menu_securityEncryptRequire2.label "Exiger le chiffrement">
-<!ENTITY menu_securityEncryptRequire.accesskey "r">
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
 
 <!ENTITY menu_securitySign.label "Signer numériquement ce message">
 <!ENTITY menu_securitySign.accesskey "S">
