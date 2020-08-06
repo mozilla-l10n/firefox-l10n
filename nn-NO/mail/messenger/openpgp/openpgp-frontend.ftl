@@ -26,6 +26,8 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Denne meldinga vart signert med ein nøkkel som du enno ikkje har.
 openpgp-search-signature-key =
     .label = Oppdag…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = Dette er ei OpenPGP-melding som tydelegvis vart øydelagd av MS-Exchange. Dersom innhaldet i meldinga ikkje vert vist som forventa, kan du prøve ein automatisk reparasjon.
 openpgp-broken-exchange-repair =
     .label = Reparer melding
 openpgp-broken-exchange-wait = Vent litt…
