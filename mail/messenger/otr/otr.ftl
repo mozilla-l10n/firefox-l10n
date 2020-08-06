@@ -8,6 +8,9 @@ msgevent-encryption_required_part1 = { $name } kişisine şifrelenmemiş bir ile
 msgevent-encryption_error = İletiniz şifrelenirken bir hata oluştu. İleti gönderilmedi.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-setup_error = { $name } ile özel görüşme ayarlanırken bir hata oluştu.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-msg_resent = { $name } kişisine son ileti yeniden gönderildi.
 # Variables:
 #   $name (String) - the screen name of a chat contact person

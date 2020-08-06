@@ -4,7 +4,9 @@
 
 tag-dialog-window =
     .title = Yeni Etiket
-
 tag-name-label =
     .value = Etiket adı:
     .accesskey = t
+tag-color-label =
+    .value = Renk:
+    .accesskey = R

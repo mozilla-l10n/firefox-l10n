@@ -26,6 +26,12 @@ alert-refresh = { $name } adlı kişiyle şifrelenmiş görüşme yenileniyor.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = { $name } adlı kişiyle şifrelenmiş görüşme sona erdi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = { $name } adlı kişinin kimliği henüz doğrulanmadı. Sıradan gizli dinleme mümkün değildir ama biraz çaba sarf eden biri dinliyor olabilir. Bu kişinin kimliğini doğrulayarak gizli dinlemeyi önleyebilirsiniz.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } tanınmayan bir bilgisayardan sizinle iletişim kuruyor. Sıradan gizli dinleme mümkün değildir ama biraz çaba sarf eden biri dinliyor olabilir. Bu kişinin kimliğini doğrulayarak gizli dinlemeyi önleyebilirsiniz.
 state-not_private = Bu görüşme gizli değil.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
