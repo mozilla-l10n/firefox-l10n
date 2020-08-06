@@ -262,6 +262,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Tilbakekall nøkkel
 openpgp-key-edit-title = Endre OpenPGP-nøkkel
 openpgp-key-edit-date-title = Utvid utløpsdato
+openpgp-manager-description = Bruk OpenPGP-nøkkelbehandleren for å se og administrere offentlige nøkler til dine korrespondenter og alle andre nøkler som ikke er oppført ovenfor.
 openpgp-manager-button =
     .label = OpenPGP-nøkkelbehandler
     .accesskey = k
@@ -305,8 +306,24 @@ keyserver-error-unsupported = Nøkkelserveren støttes ikke.
 wkd-message-body-req =
     Din e-postleverandør behandlet forespørselen din om å laste opp den offentlige nøkkelen til OpenPGP Web Key Directory.
     Bekreft for å fullføre publiseringen av din offentlige nøkkel.
+wkd-message-body-process =
+    Dette er en e-postmelding relatert til automatisk prosessering for å laste opp din offentlige nøkkel til OpenPGP Web Key Directory.
+    Du trenger ikke gjøre noen manuelle tiltak på dette tidspunktet.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Kunne ikke dekryptere melding med emnet
+    { $subject }.
+    Ønsker du å prøve på nytt med en annen passordfrase, eller vil du hoppe over meldingen?
 # Strings in gpg.jsm
 unknown-signing-alg = Ukjent signeringsalgoritme (ID: { $id })
+unknown-hash-alg = Ukjent kryptografisk hash (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Nøkkelen din { $desc } utløper om mindre enn { $days } dager.
+    Vi anbefaler at du oppretter et nytt nøkkelpar og konfigurerer de tilsvarende kontoene for å bruke det.
+expiry-keys-expire-soon =
+    Følgende nøkler utløper om mindre enn { $days } dager:{ $desc }.
+    Vi anbefaler at du oppretter nye nøkler og konfigurerer de tilsvarende kontoene for å bruke dem.
 expiry-key-missing-owner-trust =
     Den hemmelige nøkkelen din { $desc } mangler tiltro.
     Vi anbefaler at du stiller inn «Du stoler på sertifiseringer» til «ultimat» i nøkkelegenskaper.
@@ -324,6 +341,9 @@ filter-decrypt-move-warn-experimental =
 filter-term-pgpencrypted-label = OpenPGP-kryptert
 filter-key-required = Du må velge en mottakernøkkel.
 filter-key-not-found = Kunne ikke finne en krypteringsnøkkel for «{ $desc }».
+filter-warn-key-not-secret =
+    Advarsel - filterhandlingen «Krypter til nøkkel» erstatter mottakerne.
+    Hvis du ikke har den hemmelige nøkkelen for «{ $desc }», vil du ikke lenger kunne lese e-postene.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dekrypter permanent (OpenPGP)
 filter-decrypt-copy-label = Lag dekryptert kopi (OpenPGP)
@@ -370,6 +390,7 @@ save-keys-ok = Nøklene ble lagret
 save-keys-failed = Lagring av nøklene mislyktes
 default-pub-key-filename = Eksporterte-offentlige-nøkler
 default-pub-sec-key-filename = Sikkerhetskopi-av-hemmelige-nøkler
+refresh-key-warn = Advarsel: avhengig av antall nøkler og tilkoblingshastighet, kan det være en lang prosess å oppdatere alle nøklene!
 general-error = Feil: { $reason }
 dlg-button-delete = &Slett
 
