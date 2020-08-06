@@ -10,8 +10,25 @@ openpgp-import-sender-key =
 openpgp-search-keys-openpgp =
     .label = Oppdag OpenPGP-nøkkel
 openpgp-missing-signature-key = Denne meldingen ble signert med en nøkkel som du ennå ikke har.
+openpgp-search-signature-key =
+    .label = Oppdag…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = Dette er en OpenPGP-melding som tilsynelatende ble ødelagt av MS-Exchange. Hvis meldingens innhold ikke vises som forventet, kan du prøve en automatisk reparasjon.
 openpgp-broken-exchange-repair =
     .label = Reparer melding
 openpgp-broken-exchange-wait = Vent litt…
+openpgp-cannot-decrypt-because-mdc =
+    Dette er en kryptert melding som bruker en gammel og sårbar mekanisme.
+    Den kan ha blitt endret under transport, med den hensikt å stjele innholdet.
+    For å forhindre denne risikoen vises ikke innholdet.
+openpgp-cannot-decrypt-because-missing-key = Den hemmelige nøkkelen som kreves for å dekryptere denne meldingen er ikke tilgjengelig.
+openpgp-partially-signed =
+    Bare en delmengde av denne meldingen ble signert digitalt ved hjelp av OpenPGP.
+    Hvis du klikker på bekreftelsesknappen, vil de ubeskyttede delene bli skjult, og statusen til den digitale signaturen vises.
+openpgp-partially-encrypted =
+    Bare et delmengde av denne meldingen ble kryptert ved hjelp av OpenPGP.
+    De lesbare delene av meldingen som allerede er vist, ble ikke kryptert.
+    Hvis du klikker på dekrypter-knappen, vises innholdet i de krypterte delene.
+openpgp-reminder-partial-display = Påminnelse: Meldingen vist nedenfor er bare en delmengde av den opprinnelige meldingen.
 openpgp-partial-verify-button = Bekreft
 openpgp-partial-decrypt-button = Dekrypter
