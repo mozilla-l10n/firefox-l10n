@@ -204,6 +204,9 @@ openpgp-key-revoke-title = Revoca chiave
 openpgp-key-edit-title = Modifica chiave OpenPGP
 openpgp-key-edit-date-title = Estendi la data di scadenza
 openpgp-manager-description = Utilizzare il gestore delle chiavi OpenPGP per visualizzare e gestire le chiavi pubbliche dei corrispondenti e tutte le altre chiavi non elencate sopra.
+openpgp-manager-button =
+    .label = Gestore delle chiavi OpenPGP
+    .accesskey = G
 openpgp-key-remove-external =
     .label = Rimuovi ID chiave esterna
     .accesskey = m
@@ -216,13 +219,21 @@ key-type-pair = coppia di chiavi (chiave segreta e chiave pubblica)
 key-expiry-never = mai
 key-usage-encrypt = Critta
 key-usage-sign = Firma
+key-usage-certify = Certifica
 key-usage-authentication = Autenticazione
 key-does-not-expire = La chiave non ha scadenza
 key-expired-date = La chiave è scaduta il { $keyExpiry }
 key-expired-simple = La chiave è scaduta
 key-revoked-simple = La chiave è stata revocata
 key-do-you-accept = Accettare questa chiave per la verifica delle firme digitali e per la crittatura dei messaggi?
+key-accept-warning = Evitare di accettare una chiave sconosciuta. Utilizzare un canale di comunicazione diverso dalle email per verificare l’impronta digitale della chiave del corrispondente.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Impossibile inviare il messaggio perché si è verificato un problema con la chiave personale. { $problem }
+cannot-encrypt-because-missing = Impossibile inviare questo messaggio con la crittografia end-to-end poiché ci sono problemi con le chiavi dei seguenti destinatari: { $problem }
 window-locked = La finestra di composizione è bloccata; invio annullato
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Parte crittata del messaggio
+mime-decrypt-encrypted-part-concealed-data = Questa è una parte crittata del messaggio. È necessario aprirlo in una finestra separata facendo clic sull’allegato.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Interrotto
 keyserver-error-unknown = Si è verificato un errore sconosciuto
@@ -232,6 +243,13 @@ keyserver-error-unavailable = Il keyserver non è disponibile.
 keyserver-error-security-error = Il keyserver non supporta l’accesso crittato.
 keyserver-error-certificate-error = Il certificato del keyserver non è valido.
 keyserver-error-unsupported = Il keyserver non è supportato.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Il proprio provider di posta elettronica ha elaborato la richiesta di caricare la chiave pubblica nella directory delle chiavi web di OpenPGP.
+    Confermare per completare la pubblicazione della chiave pubblica.
+wkd-message-body-process =
+    Questa è un’email relativa al processo automatico di caricamento della propria chiave pubblica nella directory delle chiavi web di OpenPGP.
+    Non sono necessari interventi manuali a questo punto.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Impossibile decrittare il messaggio con l’oggetto
@@ -251,6 +269,7 @@ expiry-open-key-manager = Apri il gestore delle chiavi OpenPGP
 expiry-open-key-properties = Apri le proprietà della chiave
 # Strings filters.jsm
 filter-folder-required = Selezionare la cartella di destinazione.
+filter-term-pgpencrypted-label = Crittato con OpenPGP
 filter-key-required = È necessario selezionare una chiave del destinatario.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Decritta in modo permanente (OpenPGP)
