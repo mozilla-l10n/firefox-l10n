@@ -37,6 +37,7 @@ openpgp-key-expiry-label =
     .label = Går ut
 openpgp-key-id-label =
     .label = Nøkkel-ID
+openpgp-cannot-change-expiry = Dette er ein nøkkel med ein kompleks struktur, det er ikkje støtte for å endre går ut-datoen.
 openpgp-key-man-title =
     .title = OpenPGP-nøkkelhandterar
 openpgp-key-man-generate =
