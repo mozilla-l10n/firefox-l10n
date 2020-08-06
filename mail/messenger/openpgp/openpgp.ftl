@@ -438,7 +438,7 @@ delete-external-key-title = Fjern den eksterne GnuPG-nøkkelen
 delete-external-key-description = Vil du fjerne denne eksterne GnuPG nøkkel-ID-en?
 key-in-use-title = OpenPGP-nøkkel for tiden i bruk
 delete-key-in-use-description = Kan ikke fortsette! Nøkkelen du valgte for sletting, brukes for øyeblikket av denne identiteten. Velg en annen nøkkel, eller velg ingen, og prøv igjen.
-revoke-key-in-use-description = Kan ikke fortsette! Nøkkelen du valgte for tilbakekall, brukes for øyeblikket av denne identiteten. Velg en annen nøkkel, eller velg ingen, og prøv igjen.
+revoke-key-in-use-description = Kan ikke fortsette! Nøkkelen du valgte for tilbakekalling, brukes for øyeblikket av denne identiteten. Velg en annen nøkkel, eller velg ingen, og prøv igjen.
 # Strings used in trust.jsm
 key-valid-unknown = ukjent
 key-valid-invalid = ugyldig
