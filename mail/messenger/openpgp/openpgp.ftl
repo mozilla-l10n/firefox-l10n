@@ -391,6 +391,7 @@ save-keys-failed = Lagring av nøklene mislyktes
 default-pub-key-filename = Eksporterte-offentlige-nøkler
 default-pub-sec-key-filename = Sikkerhetskopi-av-hemmelige-nøkler
 refresh-key-warn = Advarsel: avhengig av antall nøkler og tilkoblingshastighet, kan det være en lang prosess å oppdatere alle nøklene!
+preview-failed = Kan ikke lese inn offentlig nøkkelfil.
 general-error = Feil: { $reason }
 dlg-button-delete = &Slett
 
@@ -406,6 +407,12 @@ key-ring-pub-key-expired = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er utl�
 key-ring-key-disabled = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er deaktivert; den kan ikke brukes.
 key-ring-key-invalid = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikke gyldig. Vurder å bekrefte den korrekt.
 key-ring-key-not-trusted = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikke tiltrodd nok. Angi klareringsnivået for nøkkelen din til «ultimat» for å bruke den til signering.
+key-ring-no-secret-key = Det ser ikke ut til at du har den hemmelige nøkkelen for { $userId } (nøkkel-ID { $keyId }) på nøkkelringen din; du kan ikke bruke nøkkelen til signering.
+key-ring-pub-key-not-for-signing = Nøkkelen { $userId } (nøkkel-ID { $keyId }) kan ikke brukes til signering.
+key-ring-pub-key-not-for-encryption = Nøkkelen { $userId } (nøkkel-ID { $keyId }) kan ikke brukes til kryptering.
+key-ring-enc-sub-keys-revoked = Alle krypteringsundernøklene til nøkkel { $userId } (nøkkel-ID { $keyId }) er tilbakekalt.
+key-ring-enc-sub-keys-expired = Alle krypteringsundernøklene til nøkkel { $userId } (nøkkel-ID { $keyId }) er utløpt.
+key-ring-enc-sub-keys-unusable = Alle krypteringsundernøklene til nøkkel { $userId } (nøkkel-ID { $keyId }) er tilbakekalt, utgått eller på annen måte ubrukelig.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Brukerattributt (JPEG-bilde)
