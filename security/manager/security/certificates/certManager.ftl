@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Varmennetta ei voitu todentaa, koska sen myö
 cert-not-verified-ca-invalid = Varmennetta ei voitu todentaa, koska sen varmentajan varmenne on epäkelpo.
 cert-not-verified_algorithm-disabled = Varmennetta ei voitu todentaa, koska se on allekirjoitettu allekirjoitusalgoritmilla, joka ei ole turvallinen.
 cert-not-verified-unknown = Varmennetta ei voitu todentaa tuntemattomasta syystä.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Älä lähetä asiakasvarmennetta
 
 ## Add Security Exception dialog
 
