@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = For å sende krypterte eller digitalt signerte meldingar, må du konfigurere ein krypteringsteknologi, anten OpenPGP eller S/MIME.
 openpgp-key-user-id-label = Konto/Brukar-ID
 openpgp-keygen-title-label =
     .title = Generer OpenPGP-nøkkel
@@ -232,6 +233,9 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Tilbakekall nøkkel
 openpgp-key-edit-title = Endre OpenPGP-nøkkel
 openpgp-key-edit-date-title = Utvid går ut-dato
+openpgp-manager-button =
+    .label = OpenPGP-nøkkelhandterar
+    .accesskey = k
 openpgp-key-remove-external =
     .label = Fjern ekstern nøkkel-ID
     .accesskey = F
@@ -240,12 +244,19 @@ key-external-label = Ekstern GnuPG-nøkkel
 key-type-public = offentleg nøkkel
 key-type-primary = primærnøkkel
 key-type-subkey = undernøkkel
+key-type-pair = nøkkelpar (hemmeleg nøkkel og offentleg nøkkel)
 key-expiry-never = aldri
 key-usage-encrypt = Krypter
 key-usage-sign = Signer
+key-usage-certify = Sertifiser
+key-usage-authentication = Autentisering
 key-does-not-expire = Nøkkelen går ikkje ut
+key-expired-date = Nøkkelen gjekk ut den { $keyExpiry }
 key-expired-simple = Nøkkelen har gått ut
+key-revoked-simple = Nøkkelen vart tilbakekalla
 key-accept-warning = Unngå å akseptere ein useriøs lurenøkkel. Bruk ein annan kommunikasjonskanal enn e-post for å stadfeste fingeravtrykket på nøkkelen til korrespondenten din.
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Kryptert meldingsdel
 # Strings in keyserver.jsm
 keyserver-error-aborted = Avbrote
 keyserver-error-unknown = Det oppstod ein ukjend feil
