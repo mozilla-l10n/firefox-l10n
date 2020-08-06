@@ -285,6 +285,13 @@ converter-decrypt-body-failed =
     Klarte ikkje å dekryptere meldinga med emnet
     { $subject }.
     Vil du prøve igjen med ei anna passordfrase eller vill du hoppe over meldinga?
+expiry-open-key-manager = Opne OpenPGP-nøkkelhandterar
+expiry-open-key-properties = Opne nøkkeleigenskapar
+# Strings filters.jsm
+filter-folder-required = Du må velje ei målmappe
+filter-term-pgpencrypted-label = OpenPGP-kryptert
+filter-key-required = Du må velje ein mottakarnøkkel.
+filter-key-not-found = Kunne ikkje finne ein krypteringsnøkkel for «{ $desc }».
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dekrypter permanent (OpenPGP)
 filter-decrypt-copy-label = Lag dekryptert kopi (OpenPGP)
@@ -299,6 +306,12 @@ import-info-details = Vis detaljar og behandle nøkkelgodkjenning
 import-info-no-keys = Ingen nøklar importerte.
 # Strings in enigmailKeyManager.js
 import-from-clip = Vil du importere nokre nøklar fra utklippstavla?
+import-from-url = Last ned offentleg nøkkel frå denne nettadressa:
+copy-to-clipbrd-failed = Klarte ikkje å kopiere dei valde nøklane til utklippstavla.
+copy-to-clipbrd-ok = Nøklar kopierte til utklippstavla
+delete-pub-key =
+    Vil du slette den offentlege nøkkelen
+    «{ $userId }»?
 default-pub-sec-key-filename = Sikkerheitskopi-av-hemmelege-nøklar
 general-error = Feil: { $reason }
 dlg-button-delete = &Slett
