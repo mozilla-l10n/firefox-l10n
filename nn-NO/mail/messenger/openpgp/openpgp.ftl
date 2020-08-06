@@ -199,6 +199,8 @@ openpgp-acceptance-undecided-label =
     .label = Ikkje enno, kanskje seinare.
 openpgp-acceptance-unverified-label =
     .label = Ja, men eg har ikkje stadfestat at det er rett nøkkel.
+openpgp-acceptance-verified-label =
+    .label = Ja, eg har stadfesta at denne nøkkelen har rett fingeravtrykk.
 openpgp-copy-cmd-label =
     .label = Kopier
 
@@ -208,6 +210,9 @@ openpgp-add-key-button =
     .label = Legg til nøkkel…
     .accesskey = L
 e2e-learn-more = Les meir
+openpgp-keygen-success = OpenPGP-nøkkel laga!
+openpgp-keygen-import-success = OpenPGP-nøkler importert!
+openpgp-keygen-external-success = Ekstern GnuPG-nøkkel-ID lagra!
 
 ## OpenPGP Key selection area
 
@@ -225,6 +230,8 @@ openpgp-key-expired-image =
 openpgp-key-expand-section =
     .tooltiptext = Meir informasjon
 openpgp-key-revoke-title = Tilbakekall nøkkel
+openpgp-key-edit-title = Endre OpenPGP-nøkkel
+openpgp-key-edit-date-title = Utvid går ut-dato
 openpgp-key-remove-external =
     .label = Fjern ekstern nøkkel-ID
     .accesskey = F
