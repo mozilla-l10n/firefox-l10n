@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-mozilla-title-6-27 = Mozilla Kitabı, 6:27
+about-mozilla-from-6-27 = <strong>Mozilla Kitabı</strong>’ndan, 6:27
