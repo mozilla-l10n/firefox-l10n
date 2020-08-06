@@ -12,4 +12,6 @@ openpgp-one-recipient-status-created-date =
     .label = Create
 openpgp-one-recipient-status-expires-date =
     .label = Expira
+openpgp-one-recipient-status-discover =
+    .label = Discoperir claves nove o actualisate
 openpgp-key-secret-not-personal = Non usabile
