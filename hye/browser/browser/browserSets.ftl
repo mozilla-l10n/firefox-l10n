@@ -81,6 +81,8 @@ nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
     .key = H
+history-show-all-shortcut-mac =
+    .key = Y
 history-sidebar-shortcut =
     .key = H
 full-screen-shortcut =
@@ -123,6 +125,10 @@ full-zoom-reduce-shortcut =
 # to access the original shortcuts, the following shortcuts can be used.
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
+    .key = { "" }
+full-zoom-reduce-shortcut-alt-a =
+    .key = _
+full-zoom-reduce-shortcut-alt-b =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +

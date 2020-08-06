@@ -207,6 +207,10 @@ search-one-offs-engine-with-alias =
 
 search-one-offs-bookmarks =
     .tooltiptext = Էջանիշներ { $engineName } ({ $alias })
+search-one-offs-tabs =
+    .tooltiptext = Ներդիներներ ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Պատմութիւն ({ $restrict })
 
 ## Bookmark Panel
 
