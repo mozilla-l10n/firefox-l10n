@@ -297,6 +297,8 @@ import-info-created = Laga
 import-info-fpr = Fingeravtrykk
 import-info-details = Vis detaljar og behandle nøkkelgodkjenning
 import-info-no-keys = Ingen nøklar importerte.
+# Strings in enigmailKeyManager.js
+import-from-clip = Vil du importere nokre nøklar fra utklippstavla?
 default-pub-sec-key-filename = Sikkerheitskopi-av-hemmelege-nøklar
 general-error = Feil: { $reason }
 dlg-button-delete = &Slett
