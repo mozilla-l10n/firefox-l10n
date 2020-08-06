@@ -294,6 +294,10 @@ delete-secret-key =
     Se si elimina la propria chiave segreta, non sarà più possibile decrittare i messaggi crittati con quella chiave, né si potrà revocarla.
     
     Si vuole veramente eliminare ENTRAMBE le chiavi (segreta e pubblica) per “{ $userId }”?
+delete-mix =
+    ATTENZIONE: si sta cercando di eliminare delle chiavi segrete.
+    Se si elimina la propria chiave segreta, non sarà più possibile decrittare i messaggi crittati con quella chiave.
+    Si vuole veramente eliminare ENTRAMBE le chiavi (segreta e pubblica) per gli elementi selezionati?
 
 ## Account settings export output
 
