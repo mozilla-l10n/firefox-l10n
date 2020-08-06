@@ -95,20 +95,20 @@ onboarding-multistage-theme-tooltip-automatic =
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light =
     .title =
-        Käytä vaaleaa ulkoasua painikkeille,
-        valikoille ja ikkunoille.
+        Käytä vaaleaa ulkoasua
+        painikkeille, valikoille ja ikkunoille.
     .aria-label = { onboarding-multistage-theme-tooltip-light.title }
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark =
     .title =
-        Käytä tummaa ulkoasua painikkeille,
-        valikoille ja ikkunoile.
+        Käytä tummaa ulkoasua
+        painikkeille, valikoille ja ikkunoile.
     .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow =
     .title =
-        Käytä värikästä ulkoasua painikkeille,
-        valikoille ja ikkunoille.
+        Käytä värikästä ulkoasua
+        painikkeille, valikoille ja ikkunoille.
     .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
