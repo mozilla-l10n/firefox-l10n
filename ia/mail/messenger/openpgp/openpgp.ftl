@@ -56,12 +56,59 @@ openpgp-key-man-key-props =
 openpgp-key-man-key-more =
     .label = Plus
     .accesskey = P
+openpgp-key-man-view-photo =
+    .label = ID de photo
+    .accesskey = I
+openpgp-key-man-user-id-label =
+    .label = Nomine
+openpgp-key-man-fingerprint-label =
+    .label = Dactylogramma
+openpgp-key-details-title =
+    .title = Proprietates del clave
+openpgp-key-details-structure-tab =
+    .label = Structura
+openpgp-key-details-id-label =
+    .label = ID
+openpgp-key-details-key-type-label = Typo
+openpgp-key-details-algorithm-label =
+    .label = Algorithmo
+openpgp-key-details-size-label =
+    .label = Dimension
+openpgp-key-details-created-label =
+    .label = Crear
+openpgp-key-details-created-header = Create
+openpgp-key-details-usage-label =
+    .label = Uso
+openpgp-key-details-fingerprint-label = Dactylogramma
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Clauder
+openpgp-copy-cmd-label =
+    .label = Copiar
 
 ## e2e encryption settings
 
+e2e-learn-more = Saper plus
+openpgp-keygen-success = Clave OpenPGP generate con successo!
+openpgp-keygen-import-success = Clave OpenPGP importate con successo!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Nulle
+openpgp-key-revoke-title = Revocar le clave
+openpgp-key-edit-title = Cambiar claves OpenPGP
+key-external-label = Clave GnuPG externe
+key-expiry-never = nunquam
+key-usage-encrypt = Cryptar
+key-usage-sign = Signar
+key-usage-authentication = Authentication
+key-does-not-expire = Le clave non expira
+# Strings filters.jsm
+filter-folder-required = Tu debe eliger un dossier de destination.
+import-info-bits = Bits
+import-info-created = Create
+import-info-fpr = Dactylogramma
+key-man-loading-keys = Cargamento claves, attende…
 
 ## Account settings export output
 
