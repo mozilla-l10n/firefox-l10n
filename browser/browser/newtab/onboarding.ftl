@@ -64,6 +64,18 @@ onboarding-import-sites-disclaimer =
     { -brand-short-name } не захоўвае і не сінхранізуе дадзеныя
     з іншага браўзера, калі вы не выбралі
     імпартаваць іх.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Пачатак працы: экран { $current } з { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Выберыце <span data-l10n-name="zap">выгляд</span>
+onboarding-multistage-theme-subtitle = Персаналізуйце { -brand-short-name } тэмамі.
+onboarding-multistage-theme-primary-button-label = Захаваць тэму
+onboarding-multistage-theme-secondary-button-label = Не зараз
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Аўтаматычна
 # System refers to the operating system
