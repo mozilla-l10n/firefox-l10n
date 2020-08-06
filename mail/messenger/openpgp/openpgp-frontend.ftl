@@ -18,6 +18,7 @@ openpgp-ctx-verify-att =
     .label = Bekreft signatur
     .accesskey = B
 openpgp-has-sender-key = Denne meldingen hevder å inneholde avsenderens offentlige OpenPGP-nøkkel.
+openpgp-be-careful-new-key = Advarsel: Den nye offentlige OpenPGP-nøkkelen i denne meldingen skiller seg fra de offentlige nøklene som du tidligere aksepterte for { $email }.
 openpgp-import-sender-key =
     .label = Importer…
 openpgp-search-keys-openpgp =
