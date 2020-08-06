@@ -32,6 +32,7 @@ auth-questionAndAnswer-label =
 auth-sharedSecret-label =
     .label = { auth-sharedSecret }
 auth-how = Kişinin kimliğini nasıl doğrulamak istersiniz?
+auth-qaInstruction = Cevabını sadece sizin ve karşı tarafın bildiği bir soru düşünün. Soruyu ve cevabını girin, ardından karşı tarafın da cevabı girmesini bekleyin. Cevaplar eşleşmezse kullandığınız iletişim kanalı gözetim altında olabilir.
 auth-question = Bir soru girin:
 auth-answer = Cevabı girin (büyük-küçük harfe duyarlı):
 auth-secret = Sırrı girin:
