@@ -14,4 +14,7 @@ openpgp-one-recipient-status-expires-date =
     .label = Går ut
 openpgp-one-recipient-status-discover =
     .label = Oppdag ny eller oppdatert nøkkel
+openpgp-key-own = Godkjend (personleg nøkkel)
 openpgp-key-secret-not-personal = Ubrukande
+openpgp-key-verified = Godkjend (stadfesta)
+openpgp-key-unverified = Godkjend (ikkje stadfesta)
