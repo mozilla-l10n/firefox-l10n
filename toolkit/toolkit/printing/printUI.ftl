@@ -12,6 +12,13 @@ printui-sheets-count =
     }
 printui-page-range-all = Tümü
 printui-page-range-custom = Özel
+printui-page-range-label = Sayfalar
+printui-page-range-picker =
+    .aria-label = Sayfa aralığını seçin
+printui-page-custom-range =
+    .aria-label = Özel sayfa aralığı girin
+# Section title for the number of copies to print
+printui-copies-label = Kopya sayısı
 printui-orientation = Yönlendirme
 printui-landscape = Yatay
 printui-portrait = Dikey
@@ -24,5 +31,10 @@ printui-scale = Ölçek
 printui-scale-fit-to-page = Sayfaya sığdır
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Ölçek
+# Section title for miscellaneous print options
+printui-options = Seçenekler
+printui-headers-footers-checkbox = Üst bilgi ve alt bilgileri yazdır
+printui-backgrounds-checkbox = Arka planları yazdır
+printui-system-dialog-link = Sistem iletişim kutusunu kullanarak yazdır…
 printui-primary-button = Yazdır
 printui-cancel-button = Vazgeç
