@@ -109,6 +109,25 @@ import-info-bits = Bits
 import-info-created = Create
 import-info-fpr = Dactylogramma
 key-man-loading-keys = Cargamento claves, attende…
+save-keys-ok = Claves salvate con successo.
+save-keys-failed = Salvamento claves fallite!
 
 ## Account settings export output
 
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importar
+delete-key-title = Deler clave OpenPGP
+# Strings used in trust.jsm
+key-valid-unknown = incognite
+key-valid-invalid = non valide
+key-valid-disabled = disactivate
+key-valid-revoked = revocate
+key-valid-expired = expirate
+key-trust-marginal = marginal
+key-trust-group = (gruppo)
+# Strings used in commonWorkflows.js
+import-key-file = Importar le file clave OpenPGP
+import-rev-file = Importar le le revocation del file OpenPGP
+gnupg-file = Files GnuPG
+import-keys-failed = Importation de claves fallite!
+passphrase-prompt = Insere le phrase contrasigno que disbloca le sequente clave: { $key }

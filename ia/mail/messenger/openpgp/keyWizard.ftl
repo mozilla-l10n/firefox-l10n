@@ -72,7 +72,7 @@ openpgp-keygen-ongoing = Generation del clave jam in curso!
 openpgp-keygen-error-core = Impossibile initialisar le servicio nucleo de OpenPGP
 openpgp-keygen-error-failed = Generation del clave OpenPGP fallite inexpectatemente
 #   $identity (String) - the newly generate OpenPGP Key
-openpgp-keygen-error-revocation = Clave OpenPGP create con successo, ma falta a obtener le revocation pro le clave { $clave }
+openpgp-keygen-error-revocation = Clave OpenPGP create con successo, ma falta a obtener le revocation pro le clave { $key }
 openpgp-keygen-abort-title = Abortar le generation del clave?
 openpgp-keygen-abort = Generation del clave OpenPGP actualmente in curso, desira tu vermente cancellar lo?
 #   $identity (String) - the name and email address of the currently selected identity
@@ -94,7 +94,7 @@ openpgp-import-key-list-description = Confirmar que le claves pote esser tractat
 openpgp-import-key-list-caption = Le claves marcate pro esser tractate como claves personal sera presentate in le section Cryptographia end-to-end. Los altere sera disponibile intra le gestor del claves.
 openpgp-passphrase-prompt-title = Phrase contrasigno obligatori
 #   $identity (String) - the id of the key being imported
-openpgp-passphrase-prompt = Insere le phrase contrasigno pro disblocar le sequente clave: { $clave }
+openpgp-passphrase-prompt = Insere le phrase contrasigno pro disblocar le sequente clave: { $key }
 openpgp-import-key-button =
     .label = Elige le file a importar…
     .accesskey = E
