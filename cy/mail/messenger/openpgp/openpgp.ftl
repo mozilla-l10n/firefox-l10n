@@ -497,3 +497,31 @@ save-revoke-cert-as = Creu a Chadw Tystysgrif Dirymu
 revoke-cert-ok = Mae'r dystysgrif ddirymu wedi'i chreu'n llwyddiannus. Gallwch ei ddefnyddio i annilysu eich allwedd gyhoeddus, e.e. rhag ofn y byddwch yn colli'ch allwedd gyfrinachol.
 revoke-cert-failed = Nid oedd modd creu'r dystysgrif ddirymu.
 gen-going = Wrthi'n cynhyrchu allwedd!
+keygen-missing-user-name = Nid oes enw wedi'i nodi ar gyfer y cyfrif/hunaniaeth hon. Rhowch werth yn y maes   "Eich enw" yn yng ngosodiadau'r cyfrif.
+expiry-too-short = Rhaid i'ch allwedd fod yn ddilys am o leiaf un diwrnod.
+expiry-too-long = Nid oes modd i chi greu allwedd sy'n dod i ben mewn mwy na 100 mlynedd.
+key-confirm = Cynhyrchu allwedd gyhoeddus a chyfrinachol ar gyfer '{ $id }'?
+key-man-button-generate-key = &Cynhyrchu Allwedd
+key-abort = Atal cynhyrchu allwedd?
+key-man-button-generate-key-abort = &Atal Cynhyrchu Allwedd?
+key-man-button-generate-key-continue = &Parhau i Gynhyrchu Allweddi
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Gwall - methodd y dadgryptio
+fix-broken-exchange-msg-failed = Heb lwyddo i atgyweirio neges.
+attachment-no-match-from-signature = Methu cydweddu ffeil llofnod '{ $attachment }' ag atodiad
+attachment-no-match-to-signature = Methu cydweddu ffeil llofnod '{ $attachment }' â ffeil llofnod
+signature-verified-ok = Gwiriwyd y llofnod ar gyfer atodiad { $attachment } yn llwyddiannus
+signature-verify-failed = Methwyd gwirio y llofnod ar gyfer atodiad { $attachment }
+decrypt-ok-no-sig =
+    Rhybudd
+    Bu'r dadgryptio yn llwyddiant ond nid oedd modd gwirio'r llofnod yn iawn
+msg-ovl-button-cont-anyway = &Parhau Beth bynnag
+enig-content-note = *Nid yw atodiadau i'r neges hon wedi'u llofnodi na'u hamgryptio *
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Anfon Neges
+msg-compose-details-button-label = Manylion…
+msg-compose-details-button-access-key = M
+send-aborted = Ataliwyd y weithred o anfon.
+key-not-trusted = Dim digon o ymddiriedaeth ar gyfer allwedd '{ $key }'
+key-not-found = Heb ddarganfod allwedd '{ $key }'
+key-revoked = Allwedd '{ $key }' wedi'i ddirymu
