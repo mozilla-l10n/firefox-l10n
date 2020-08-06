@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Pro inviar messages cifrate o signate digitalmente, tu debe configurar un technologia de cryptographia OpenPGP o S/MIME.
+openpgp-key-user-id-label = Count/ID usator
 openpgp-keygen-title-label =
     .title = Generar clave OpenPGP
 openpgp-cancel-key =
@@ -26,6 +27,9 @@ openpgp-key-gen-key-type-rsa =
     .label = RSA
 openpgp-key-gen-key-type-ecc =
     .label = ECC (curva elliptic)
+openpgp-generate-key =
+    .label = Generar clave
+    .tooltiptext = Genera un nove clave conforme a OpenPGP pro cryptation o firma
 openpgp-advanced-prefs-button-label =
     .label = Avantiate…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">Nota: Le generation de clave pote occupar usque plure minutas pro completar.</a> Non exir del application durante que es in curso le generation del clave. Navigar activemente o exequer operationes intensive pro le disco durante le generation del clave replena le 'piscina aleatori' e accelera le procedura. Tu sera alertate quando generation del clave es completate.
@@ -131,6 +135,11 @@ openpgp-key-man-user-id-label =
     .label = Nomine
 openpgp-key-man-fingerprint-label =
     .label = Dactylogramma
+openpgp-key-man-select-all =
+    .label = Seliger tote le claves
+    .accesskey = S
+openpgp-key-man-nothing-found-tooltip =
+    .label = Nulle claves concorda tu terminos de recerca
 openpgp-key-man-filter-label =
     .placeholder = Cercar claves
 openpgp-key-man-select-all-key =
@@ -169,6 +178,8 @@ openpgp-card-details-close-window-label =
     .buttonlabelaccept = Clauder
 openpgp-acceptance-label =
     .label = Tu acceptation
+openpgp-acceptance-unverified-label =
+    .label = Si, ma io non ha verificate que isto es le clave correcte.
 openpgp-personal-yes-label =
     .label = Si, tractar iste clave como clave personal.
 openpgp-copy-cmd-label =
@@ -286,3 +297,8 @@ enig-alert = Alerta OpenPGP
 enig-info = Information OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Retentar
+dlg-button-skip = &Saltar
+# Strings used in enigmailCommon.js
+enig-error = Error OpenPGP
+enig-alert-title =
+    .title = Alerta OpenPGP
