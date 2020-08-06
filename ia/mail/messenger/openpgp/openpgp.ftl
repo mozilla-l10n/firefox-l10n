@@ -182,17 +182,34 @@ openpgp-add-key-button =
 e2e-learn-more = Saper plus
 openpgp-keygen-success = Clave OpenPGP generate con successo!
 openpgp-keygen-import-success = Clave OpenPGP importate con successo!
+openpgp-keygen-external-success = ID clave GnuPG externe salvate!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Nulle
+openpgp-key-expired-image =
+    .tooltiptext = Clave expirate
+openpgp-key-expand-section =
+    .tooltiptext = Plus de informationes
 openpgp-key-revoke-title = Revocar le clave
 openpgp-key-edit-title = Cambiar claves OpenPGP
+openpgp-manager-button =
+    .label = Gestor de clave OpenPGP
+    .accesskey = c
+openpgp-key-remove-external =
+    .label = Remover clave GnuPG externe
+    .accesskey = e
 key-external-label = Clave GnuPG externe
+# Strings in keyDetailsDlg.xhtml
+key-type-public = clave public
+key-type-primary = clave primari
+key-type-subkey = sub-clave
+key-type-pair = copula de claves (clave secrete e clave public)
 key-expiry-never = nunquam
 key-usage-encrypt = Cryptar
 key-usage-sign = Signar
+key-usage-certify = Certificar
 key-usage-authentication = Authentication
 key-does-not-expire = Le clave non expira
 # Strings filters.jsm
