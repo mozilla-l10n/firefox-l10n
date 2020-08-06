@@ -256,6 +256,12 @@ filter-key-required = È necessario selezionare una chiave del destinatario.
 filter-decrypt-move-label = Decritta in modo permanente (OpenPGP)
 filter-decrypt-copy-label = Crea copia decrittata (OpenPGP)
 filter-encrypt-label = Critta su chiave (OpenPGP)
+import-info-bits = Bit
+import-info-fpr = Impronta digitale
+import-info-details = Visualizza i dettagli e gestisci l’accettazione delle chiavi
+import-info-no-keys = Nessuna chiave importata.
+copy-to-clipbrd-failed = Impossibile copiare le chiavi selezionate negli appunti.
+copy-to-clipbrd-ok = Chiavi copiate negli appunti
 
 ## Account settings export output
 
