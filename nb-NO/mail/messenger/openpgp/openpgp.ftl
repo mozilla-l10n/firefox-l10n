@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = For å sende krypterte eller digitalt signerte meldinger, må du konfigurere en krypteringsteknologi, enten OpenPGP eller S/MIME.
+e2e-intro-description-more = Velg din personlige nøkkel for å aktivere bruk av OpenPGP, eller ditt personlige sertifikat for å aktivere bruk av S/MIME. For en personlig nøkkel eller sertifikat eier du den tilsvarende hemmelige nøkkelen.
 openpgp-key-user-id-label = Konto / bruker-ID
 openpgp-keygen-title-label =
     .title = Generer OpenPGP-nøkkel
