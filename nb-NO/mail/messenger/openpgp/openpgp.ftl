@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = For å sende krypterte eller digitalt signerte meldinger, må du konfigurere en krypteringsteknologi, enten OpenPGP eller S/MIME.
-e2e-intro-description-more = Velg din personlige nøkkel for å aktivere bruk av OpenPGP, eller ditt personlige sertifikat for å aktivere bruk av S/MIME. For en personlig nøkkel eller sertifikat eier du den tilsvarende hemmelige nøkkelen.
+e2e-intro-description-more = Velg din personlige nøkkel for å slå på OpenPGP, eller ditt personlige sertifikat for å slå på S/MIME. For en personlig nøkkel eller sertifikat eier du den tilsvarende hemmelige nøkkelen.
 openpgp-key-user-id-label = Konto / bruker-ID
 openpgp-keygen-title-label =
     .title = Generer OpenPGP-nøkkel
@@ -225,7 +225,7 @@ openpgp-description =
     { $count ->
         [0] Thunderbird har ikke en personlig OpenPGP-nøkkel for <b>{ $identity }</b>
         [one] Thunderbird fant { $count } personlig OpenPGP-nøkkel assosiert med <b>{ $identity }</b>
-       *[other] Thunderbird fant { $count } personlige OpenPGP-nøkler assosiert med <b>{ $identity }</b>
+       *[other] Thunderbird fant { $count } personlige OpenPGP-nøkler assosierte med <b>{ $identity }</b>
     }
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $key (String) - the currently selected OpenPGP key
@@ -350,17 +350,17 @@ filter-decrypt-copy-label = Lag dekryptert kopi (OpenPGP)
 filter-encrypt-label = Krypter til nøkkel (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
-    .title = Nøkler importert!
+    .title = Nøkler importerte!
 import-info-bits = Bit
 import-info-created = Opprettet
 import-info-fpr = Fingeravtrykk
 import-info-details = Se detaljer og behandle nøkkelaksept
-import-info-no-keys = Ingen nøkler importert.
+import-info-no-keys = Ingen nøkler importerte.
 # Strings in enigmailKeyManager.js
 import-from-clip = Vil du importere noen nøkler fra utklippstavlen?
 import-from-url = Last ned offentlig nøkkel fra denne nettadressen:
 copy-to-clipbrd-failed = Kunne ikke kopiere de valgte nøklene til utklippstavlen.
-copy-to-clipbrd-ok = Nøkler kopiert til utklippstavlen
+copy-to-clipbrd-ok = Nøkler kopierte til utklippstavlen
 delete-secret-key =
     ADVARSEL: Du er i ferd med å slette en hemmelig nøkkel!
     
