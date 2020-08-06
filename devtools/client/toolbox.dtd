@@ -93,7 +93,7 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "సర్వీస్ వర్కర్స్ ప్రారంభించు HTTP పైగా (టూల్ బాక్స్ తెరిచినప్పుడు)">
+<!ENTITY options.enableServiceWorkersHTTP.label     "(టూల్‌బాక్స్ తెరిచివున్నప్పుడు) HTTPలో కూడా సర్వీస్ వర్కర్లను చేతనించు">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "ఈ ఎంపికను ఆన్ చేయడం వల్ల టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP పైగా సేవ కార్మికులు ఎనేబుల్ చేస్తుంది.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
