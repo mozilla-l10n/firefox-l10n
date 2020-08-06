@@ -71,17 +71,26 @@ openpgp-keygen-short-expiry = La clave debe ser válida por al menos un día.
 openpgp-keygen-ongoing = ¡Generación de claves ya en proceso!
 openpgp-keygen-error-core = No se puede inicializar el servicio principal de OpenPGP
 openpgp-keygen-error-failed = La generación de clave OpenPGP falló inesperadamente
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = La clave OpenPGP se creó ccorrectamente pero no se pudo obtener la revocación de la clave { $key }
 openpgp-keygen-abort-title = ¿Abortar generación de clave?
+openpgp-keygen-abort = OpenPGP La generación de claves está en progreso, ¿está seguro de que desea cancelarla?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = ¿Generar clave pública y secreta para { $identity }?
 
 ## Import Key section
 
 openpgp-import-key-title = Importar una clave OpenPGP existente
+openpgp-import-key-legend = Seleccione un archivo respaldado previamente.
+openpgp-import-key-description = Puede importar claves personales que se crearon con otro software OpenPGP.
+openpgp-import-key-info = Otro software podría describir una clave personal utilizando términos alternativos como su propia clave, clave secreta, clave privada o par de claves.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
         [one] Thunderbird encontró una clave que puede ser importada.
        *[other] Thunderbird encontró { $count } claves que pueden ser importadas.
     }
+openpgp-import-key-list-description = Confirme qué claves pueden considerarse como sus claves personales. Solo las claves que creó usted mismo y que muestran su propia identidad deberían usarse como claves personales. Puede cambiar esta opción más adelante en el cuadro de diálogo Propiedades de clave.
 openpgp-import-key-button =
     .label = Seleccionar archivo para importar…
     .accesskey = S
