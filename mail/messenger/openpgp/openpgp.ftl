@@ -421,3 +421,4 @@ key-ring-pub-key-not-for-signing = Nid oed modd defnyddio'r allwedd { $userId } 
 key-ring-pub-key-not-for-encryption = Nid oed modd defnyddio'r allwedd { $userId } (ID allweddl { $keyId } ar gyfer amgryptio.
 key-ring-sign-sub-keys-revoked = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) yn cael eu dirymu.
 key-ring-sign-sub-keys-expired = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) wedi dod i ben.
+key-ring-sign-sub-keys-unusable = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) wedi eu dirymu, dod i ben neu fel arall.
