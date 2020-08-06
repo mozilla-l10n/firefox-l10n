@@ -20,3 +20,4 @@ openpgp-key-verified = Godkjend (stadfesta)
 openpgp-key-unverified = Godkjend (ikkje stadfesta)
 openpgp-key-undecided = Ikkje godkjend (ikkje bestemt)
 openpgp-key-rejected = Ikkje godkjend (avvist)
+openpgp-intro = Tilgjengelege offentlege nøklar for { $key }
