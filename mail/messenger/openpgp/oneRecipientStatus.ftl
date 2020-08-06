@@ -18,3 +18,5 @@ openpgp-key-own = Godkjend (personleg nøkkel)
 openpgp-key-secret-not-personal = Ubrukande
 openpgp-key-verified = Godkjend (stadfesta)
 openpgp-key-unverified = Godkjend (ikkje stadfesta)
+openpgp-key-undecided = Ikkje godkjend (ikkje bestemt)
+openpgp-key-rejected = Ikkje godkjend (avvist)
