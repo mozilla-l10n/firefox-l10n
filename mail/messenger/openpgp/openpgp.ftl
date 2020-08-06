@@ -422,3 +422,36 @@ key-ring-pub-key-not-for-encryption = Nid oed modd defnyddio'r allwedd { $userId
 key-ring-sign-sub-keys-revoked = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) yn cael eu dirymu.
 key-ring-sign-sub-keys-expired = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) wedi dod i ben.
 key-ring-sign-sub-keys-unusable = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) wedi eu dirymu, dod i ben neu fel arall.
+key-ring-enc-sub-keys-revoked = Mae pob is-allwedd amgryptio allwedd { $userId } (ID allwedd { $keyId }) yn cael ei ddirymu.
+key-ring-enc-sub-keys-expired = Mae pob is-allwedd amgryptio allwedd { $userId } (ID allwedd { $keyId }) wedi dod i ben.
+key-ring-enc-sub-keys-unusable = Mae pob is-allwedd amgryptio allwedd { $userId } (ID allwedd { $keyId }) wedi cael eu dirymu, wedi dod i ben neu fel arall.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Llun
+user-att-photo = Priodoledd defnyddiwr (delwedd JPEG)
+# Strings in key.jsm
+already-revoked = Mae'r allwedd hon eisoes wedi'i dirymu.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Rydych chi ar fin dirymu'r allwedd '{ $identity }'.
+    Ni fydd modd i chi llofnodi gyda'r allwedd hon mwyach, ac ar ôl ei dosbarthu, ni fydd eraill yn gallu amgryptio gyda'r allwedd honno mwyach. Gallwch barhau i ddefnyddio'r allwedd i ddadgryptio hen negeseuon.
+    Ydych chi am barhau?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Nid oes gennych allwedd (0x { $keyId }) sy'n cyfateb i'r dystysgrif ddirymu hon!
+    Os ydych wedi colli'ch allwedd, rhaid i chi ei fewnforio (e.e. o weinydd allweddi) cyn mewnforio'r dystysgrif ddirymu!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Mae'r allwedd 0x { $keyId } eisoes wedi'i dirymu.
+key-man-button-revoke-key = &Dirymu Allwedd
+openpgp-key-revoke-success = Dirymwyd yr allwedd yn llwyddiannus.
+after-revoke-info =
+    Mae'r allwedd wedi'i dirymu.
+    Rhannwch yr allwedd gyhoeddus hon eto, trwy ei hanfon trwy e-bost, neu trwy ei llwytho i weinyddion allweddi, i adael i eraill wybod eich bod wedi dirymu'ch allwedd.
+    Cyn gynted ag y bydd y feddalwedd sy'n cael ei ddefnyddio gan bobl eraill yn gwybod am y dirymiad, bydd yn rhoi'r gorau i ddefnyddio'ch hen allwedd.
+    Os ydych chi'n defnyddio allwedd newydd ar gyfer yr un cyfeiriad e-bost, a'ch bod chi'n atodi'r allwedd gyhoeddus newydd i e-byst rydych chi'n eu hanfon, yna bydd gwybodaeth am eich hen allwedd wedi'i dirymu yn cael ei chynnwys yn awtomatig.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Mewnforio
+delete-key-title = Dileu Allwedd OpenPGP
+delete-external-key-title = Tynnwch yr Allwedd GnuPG Allanol
+delete-external-key-description = Ydych chi am dynnu'r ID yr allwedd GnuPG Allanol hwn?
+key-in-use-title = Allwedd OpenPGP sy'n cael ei defnyddio ar hyn o bryd
+delete-key-in-use-description = Methu parhau! Mae'r allwedd rydych wedi'i dewis i'w dileu yn cael ei defnyddio ar hyn o bryd gan yr hunaniaeth hon. Dewiswch allwedd wahanol, neu dewiswch ddim, a cheisiwch eto.
