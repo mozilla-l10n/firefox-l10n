@@ -10,7 +10,10 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-BlockAboutConfig = about:onfig పేజీని చూడటాన్ని నిరోధించండి.
 policy-BlockAboutSupport = about:support పేజీని చూడకుండా నిరోధించు.
+policy-Cookies = వెబ్‌సైట్లు కుకీలను అమర్చేలా అనుమతించండి లేదా తిరస్కరించండి.
+policy-DisableDeveloperTools = డెవలపర్ పనిముట్లను చూడటాన్ని నిరోధించండి.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox Screenshots సౌలభ్యాన్ని అచేతనించు.
 policy-DisableFormHistory = వెతుకుడు, ఫారాల చరిత్రను గుర్తుపెట్టుకోవద్దు.
