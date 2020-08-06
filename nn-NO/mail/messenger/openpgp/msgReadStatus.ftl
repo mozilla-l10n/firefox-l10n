@@ -11,4 +11,6 @@ openpgp-no-sig = Ingen digital signatur
 openpgp-uncertain-sig = Usikker digital signatur
 openpgp-invalid-sig = Ugyldig digital signatur
 openpgp-good-sig = Korrekt digital signatur
+openpgp-sig-key-id = Signatarnøkkel-ID: { $key }
+openpgp-sig-key-id-with-subkey-id = Signatarnøkkel-ID: { $key } (Undernøkkel-ID: { $subkey })
 openpgp-unknown-key-id = Ukjend nøkkel
