@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = చర్యరద్దు
 customize-mode-lwthemes-my-themes =
     .value = నా అలంకారాలు
+customize-mode-touchbar-cmd =
+    .label = టచ్ బార్‌ను అభిమతీకరించు…
