@@ -6,26 +6,36 @@
      The label  for the button on the tab bar that toggles the visibility of
      the quick filter bar.
      -->
+<!ENTITY quickFilterBar.qfbShowFilterBar.label
+         "Filtro rapide">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label
+         "Barra de filtro rapide">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
+         "r">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
      The label to display for the "App Menu... Preferences..." menu item that
      controls whether the quick filter bar is visible.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
+         "Barra de filtro rapide">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
+         "Activar/disactivar barra de filtro rapide">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -41,43 +51,59 @@
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
+<!ENTITY quickFilterBar.unread.label
+         "Non legite">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
+<!ENTITY quickFilterBar.unread.tooltip
+         "Monstrar solo messages ancora a leger">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
+<!ENTITY quickFilterBar.starred.label
+         "">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
+<!ENTITY quickFilterBar.starred.tooltip
+         "Monstra solo messages stellate">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
      books.
      -->
+<!ENTITY quickFilterBar.inaddrbook.label
+         "Contacto">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
      books.
      -->
+<!ENTITY quickFilterBar.inaddrbook.tooltip
+         "Monstra solo messages de personas in tu libro del adresses">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+<!ENTITY quickFilterBar.tags.label
+         "Tags">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+<!ENTITY quickFilterBar.tags.tooltip
+         "Monstra solo messages con tags">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -102,11 +128,15 @@
      see the following URL For more information:
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
+<!ENTITY quickFilterBar.resultsLabel.some.formatString
+         "#1 message;#1 messages">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
+<!ENTITY quickFilterBar.resultsLabel.none
+         "Nulle resultatos">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
@@ -117,6 +147,8 @@
      size of the text box to the label's right.  (If your string for
      "no results" is longer than the "#### messages" case, then size for that.
      -->
+<!ENTITY quickFilterBar.resultsLabel.minWidth
+         "100">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base1):
      This is the base of the empty text for the text search box.  We replace
@@ -126,6 +158,8 @@
      the messages and that there is a hotkey they can press to get to the
      box faster.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.base1
+         "Filtrar iste messages #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
@@ -213,4 +247,3 @@
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
-
