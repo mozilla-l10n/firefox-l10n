@@ -26,7 +26,13 @@ printui-portrait = Pysty
 printui-destination-label = Kohde
 printui-more-settings = Enemmän asetuksia
 printui-less-settings = Vähemmän asetuksia
+# Section title (noun) for the print scaling options
+printui-scale = Koko
 printui-scale-fit-to-page = Sovita sivulle
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Koko
+# Section title for miscellaneous print options
+printui-options = Valinnat
 printui-headers-footers-checkbox = Tulosta ylä- ja alatunnisteet
 printui-backgrounds-checkbox = Tulosta taustat
 printui-system-dialog-link = Tulosta käyttäen järjestelmän tulostusikkunaa…
