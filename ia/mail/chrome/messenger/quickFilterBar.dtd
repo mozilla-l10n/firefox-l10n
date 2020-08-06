@@ -163,49 +163,64 @@
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2
+         "k">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
      linux (which use the control key).  This should match the value of
      quickFilterBar.show.key above.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
+         "&lt;Ctrl+Maiusc+K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
      This should match the value of quickFilterBar.show.key above.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
+         "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanMode.tooltip "Modo filtrage tag">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.label "Qualcunque de">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Al minus un del criterios de filtro tags selecte debe concordar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAll.label "Toto">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Tote le criterios selecte debe concordar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of
      extra whitespace.
      -->
+<!ENTITY quickFilterBar.textbox.idealWidth
+         "320">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
      The minimum width of the quick filter textbox in pixels.  This is the size
      which we should refuse to flex below.  When we hit this size, the buttons
      with labels will have their labels collapsed.
      -->
+<!ENTITY quickFilterBar.textbox.minWidth
+         "280">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
      This label explains what the sender/recipients/subject/body buttons do.
@@ -215,26 +230,36 @@
      tag sub-bar wants as much space as possible.  (Overflow is handled by an
      arrow scroll box.)
      -->
+<!ENTITY quickFilterBar.textFilter.explanation.label
+         "Filtrar le messages per:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.sender.label
+         "Expeditor">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.recipients.label
+         "Destinatarios">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.subject.label
+         "Subjecto">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.body.label
+         "">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
@@ -247,3 +272,5 @@
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
+         "Pulsa de novo 'Enter' pro continuar tu recerca de: #1">
