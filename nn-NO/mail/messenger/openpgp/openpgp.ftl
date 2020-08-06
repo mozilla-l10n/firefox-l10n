@@ -352,16 +352,27 @@ key-ring-pub-key-expired = Nøkkelen { $userId } (nøkkel-ID { $keyId }) har gå
 key-ring-key-disabled = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er slått av; han kan ikkje brukast.
 key-ring-key-invalid = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikkje gyldig. Vurder å stadfeste han korrekt.
 key-ring-key-not-trusted = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikkje tiltrudd nok. Still inn klareringsnivået for nøkkelen din til «ultimat» for å bruke han til signering.
+key-ring-no-secret-key = Det ser ikkje ut til at du har den hemmelege nøkkelen for { $userId } (nøkkel-ID { $keyId }) på nøkkelringen din; du kan ikkje bruke nøkkelen til signering.
+key-ring-pub-key-not-for-signing = Nøkkelen { $userId } (nøkkel-ID { $keyId }) kan ikkje brukast til signering.
+key-ring-pub-key-not-for-encryption = Nøkkelen { $userId } (nøkkel-ID { $keyId }) kan ikkje brukast til kryptering.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Brukarattribut (JPEG-bilde)
+key-man-button-revoke-key = &Tilbakekall nøkkel
+openpgp-key-revoke-success = Nøkkelen er tilbakekalla.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importer
 delete-key-title = Slett OpenPGP-nøkkel
+delete-external-key-title = Fjern den eksterne GnuPG-nøkkelen
+delete-external-key-description = Vil du fjerne denne eksterne GnuPG nøkkel-ID-en?
+key-in-use-title = OpenPGP-nøkkelen er for tida i bruk
+delete-key-in-use-description = Kan ikkje fortsetje! Nøkkelen du valde for sletting, vert for tida brukt av denne identiteten. Vel ein annan nøkkel, eller vel ingen, og prøv igjen.
+revoke-key-in-use-description = Kan ikkje fortsetje! Nøkkelen du valde for tilbakekalling, vert for tida brukt av denne identiteten. Vel ein annan nøkkel, eller vel ingen, og prøv igjen.
 # Strings used in trust.jsm
 key-valid-unknown = ukjend
 key-valid-invalid = ugyldig
 key-valid-disabled = slått av
+key-valid-revoked = tilbakekalla
 key-valid-expired = gått ut
 key-trust-untrusted = ikkje tiltrudd
 key-trust-marginal = marginal
