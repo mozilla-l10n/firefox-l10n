@@ -11,6 +11,7 @@ openpgp-no-sig = Nulle firma digital
 openpgp-uncertain-sig = Firma digital incerte
 openpgp-invalid-sig = Firma digital invalide
 openpgp-good-sig = Firma digital bon
+openpgp-sig-uncertain-no-key = Iste message include una firma digital, ma il es incerte si illo es correcte. Pro verificar le firma, tu debe obtener un copia del clave public del signatario.
 openpgp-sig-uncertain-uid-mismatch = Iste message include una firma digital, ma un discordantia ha essite revelate: le message ha essite inviate per un adresse email que non concorda con le clave public del signatario.
 openpgp-sig-uncertain-not-accepted = Iste message include una firma digital, ma tu non ha ancora decidite se le clave del signatario es acceptabile pro te.
 openpgp-sig-invalid-rejected = Iste message include una firma digital, ma tu ha previemente decidite rejectar le clave del signatario.
