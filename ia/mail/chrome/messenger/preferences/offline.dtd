@@ -2,8 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY offlineDialog.title "Parametros offline">
 
+<!ENTITY radioAlwaysOnlineState.label "Online">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Foras de linea">
+<!ENTITY radioAlwaysOffline.accesskey "o">
 
 <!ENTITY textGoingOnline "Inviar le messages non inviate quando se passa al modo in linea?">
+<!ENTITY radioAutoSend.label "Si">
+<!ENTITY radioAutoSend.accesskey "S">
+<!ENTITY radioNotSend.label "No">
+<!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Demandar me">
 <!ENTITY radioAskUnsent.accesskey "D">
+<!ENTITY radioAutoDownload.label "Si">
+<!ENTITY radioAutoDownload.accesskey "i">
+<!ENTITY radioNotDownload.label "No">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload.label "Demandar me">
+<!ENTITY radioAskDownload.accesskey "e">
