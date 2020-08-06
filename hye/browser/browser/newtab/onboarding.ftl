@@ -42,6 +42,16 @@ onboarding-cards-dismiss =
     .title = Բաց թողնել
     .aria-label = Բաց թողնել
 
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+onboarding-multistage-theme-subtitle = Համապատասխանեցնել { -brand-short-name }֊ը ոճապատկերով։
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+
 ## Welcome full page string
 
 onboarding-fullpage-welcome-subheader = Եկեք սկսենք ուսումնասիրել այն ամէնը, ինչ կարող եք անել։
