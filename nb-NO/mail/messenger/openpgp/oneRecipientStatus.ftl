@@ -22,6 +22,6 @@ openpgp-key-own = Godkjent (personlig nøkkel)
 openpgp-key-secret-not-personal = Ikke brukbar
 openpgp-key-verified = Godkjent (bekreftet)
 openpgp-key-unverified = Godkjent (ubekreftet)
-openpgp-key-undecided = Ikke akseptert (ikke bestemt)
+openpgp-key-undecided = Ikke godkjent (ikke bestemt)
 openpgp-key-rejected = Ikke akseptert (avvist)
 openpgp-intro = Tilgjengelige offentlige nøkler for { $key }
