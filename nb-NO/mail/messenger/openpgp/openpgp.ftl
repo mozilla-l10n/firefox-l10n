@@ -449,3 +449,10 @@ key-trust-untrusted = ikke tiltrodd
 key-trust-marginal = marginal
 key-trust-full = tiltrodd
 key-trust-ultimate = ultimat
+key-trust-group = (gruppe)
+# Strings used in commonWorkflows.js
+import-key-file = Importer OpenPGP-nøkkelfil
+import-rev-file = Importer OpenPGP-tilbakekallingsfil
+gnupg-file = GnuPG-filer
+import-keys-failed = Import av nøklene mislyktes
+passphrase-prompt = Skriv inn passordfrasen som låser opp følgende nøkkel: { $key }
