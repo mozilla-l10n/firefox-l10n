@@ -455,3 +455,45 @@ delete-external-key-title = Tynnwch yr Allwedd GnuPG Allanol
 delete-external-key-description = Ydych chi am dynnu'r ID yr allwedd GnuPG Allanol hwn?
 key-in-use-title = Allwedd OpenPGP sy'n cael ei defnyddio ar hyn o bryd
 delete-key-in-use-description = Methu parhau! Mae'r allwedd rydych wedi'i dewis i'w dileu yn cael ei defnyddio ar hyn o bryd gan yr hunaniaeth hon. Dewiswch allwedd wahanol, neu dewiswch ddim, a cheisiwch eto.
+revoke-key-in-use-description = Methu parhau! Mae'r allwedd rydych wedi'i dewis i'w dileu yn cael ei defnyddio ar hyn o bryd gan yr hunaniaeth hon. Dewiswch allwedd wahanol, neu dewiswch ddim, a cheisiwch eto.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Nid oes modd cydweddu'r cyfeiriad e-bost '{ $keySpec }' ag allwedd ar eich cylch allweddi.
+key-error-key-id-not-found = Nid oes modd dod o hyd i ID yr allwedd wedi'i ffurfweddu '{ $keySpec }' ar eich cylch allweddi.
+key-error-not-accepted-as-personal = Nid ydych wedi cadarnhau mai'r allwedd gydag ID '{ $keySpec }' yw eich allwedd bersonol.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Nid yw'r swyddogaeth rydych chi wedi'i dewis ar gael yn y modd all-lein. Ewch ar-lein a rhoi cynnig arall arni.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Nid oeddwn yn gallu canfod unrhyw allwedd sy'n cyfateb i'r meini prawf chwilio penodol yna.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Gwall - methodd y gorchymyn echdynnu allwedd
+# Strings used in keyRing.jsm
+fail-cancel = Gwall - Allwedd yn cael ei ddiddymu gan y defnyddiwr
+not-first-block = Gwall - Y bloc OpenPGP cyntaf nid bloc allwedd gyhoeddus
+import-key-confirm = Mewnforio allwedd(i) cyhoeddus wedi'u mewnblannu yn y neges?
+fail-key-import = Gwall - methodd mewnforio allweddi
+file-write-failed = Methwyd ysgrifennu at ffeil { $output }
+no-pgp-block = Gwall - Heb ddarganfod bloc data arfogaeth dilys OpenPGP
+confirm-permissive-import = Methodd y mewnforio. Efallai bod yr allwedd rydych chi'n ceisio ei fewnforio yn llygredig neu'n defnyddio priodoleddau anhysbys. Hoffech chi geisio mewnforio'r rhannau sy'n gywir? Gall hyn arwain at fewnforio allweddi anghyflawn ac nad oes modd eu defnyddio.
+# Strings used in trust.jsm
+key-valid-unknown = anhysbys
+key-valid-invalid = annilys
+key-valid-disabled = analluogwyd
+key-valid-revoked = dirymwyd
+key-valid-expired = daeth i ben
+key-trust-untrusted = di-ymddiried
+key-trust-marginal = ymylol
+key-trust-full = ymddiried ynddo
+key-trust-ultimate = eithaf
+key-trust-group = (grŵp)
+# Strings used in commonWorkflows.js
+import-key-file = Mewnforio Ffeil Allwedd OpenPGP
+import-rev-file = Mewnforio Ffeil Dirymu OpenPGP
+gnupg-file = Ffeiliau GnuPG
+import-keys-failed = Methodd mewnforio'r allweddi
+passphrase-prompt = Rhowch yr cyfrinymadrodd sy'n datgloi'r allwedd ganlynol: { $key }
+file-to-big-to-import = Mae'r ffeil hon yn rhy fawr. Peidiwch â mewnforio set fawr o allweddi ar unwaith.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Creu a Chadw Tystysgrif Dirymu
+revoke-cert-ok = Mae'r dystysgrif ddirymu wedi'i chreu'n llwyddiannus. Gallwch ei ddefnyddio i annilysu eich allwedd gyhoeddus, e.e. rhag ofn y byddwch yn colli'ch allwedd gyfrinachol.
+revoke-cert-failed = Nid oedd modd creu'r dystysgrif ddirymu.
+gen-going = Wrthi'n cynhyrchu allwedd!
