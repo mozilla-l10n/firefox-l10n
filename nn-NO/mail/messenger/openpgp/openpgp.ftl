@@ -280,11 +280,20 @@ mime-decrypt-encrypted-part-attachment-label = Kryptert meldingsdel
 # Strings in keyserver.jsm
 keyserver-error-aborted = Avbrote
 keyserver-error-unknown = Det oppstod ein ukjend feil
+keyserver-error-server-error = Nøkkelserveren rapporterte ein feil.
+keyserver-error-import-error = Kunne ikkje importere den nedlasta nøkkelen.
+keyserver-error-unavailable = Nøkkelserveren er ikkje tilgjengeleg.
+keyserver-error-security-error = Nøkkelserveren støttar ikkje kryptert tilgang.
+keyserver-error-certificate-error = Sertifikatet til nøkkelserverens er ikkje gyldig.
+keyserver-error-unsupported = Nøkkelserveren er ikkje støtta.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Klarte ikkje å dekryptere meldinga med emnet
     { $subject }.
     Vil du prøve igjen med ei anna passordfrase eller vill du hoppe over meldinga?
+# Strings in gpg.jsm
+unknown-signing-alg = Ukjend signeringsalgoritme (ID: { $id })
+unknown-hash-alg = Ukjend kryptografisk hash (ID: { $id })
 expiry-open-key-manager = Opne OpenPGP-nøkkelhandterar
 expiry-open-key-properties = Opne nøkkeleigenskapar
 # Strings filters.jsm
