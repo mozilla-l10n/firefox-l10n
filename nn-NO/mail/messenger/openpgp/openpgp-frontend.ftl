@@ -26,5 +26,7 @@ openpgp-search-signature-key =
 openpgp-broken-exchange-repair =
     .label = Reparer melding
 openpgp-broken-exchange-wait = Vent litt…
+openpgp-cannot-decrypt-because-missing-key = Den hemmelege nøkkelen som vert kravd for å dekryptere denne meldinga er ikkje tilgjengeleg.
+openpgp-reminder-partial-display = Påminning: Meldinga vist nedanfor er berre ei delmengde av den opprhavlege meldinga.
 openpgp-partial-verify-button = Stadfest
 openpgp-partial-decrypt-button = Dekrypter
