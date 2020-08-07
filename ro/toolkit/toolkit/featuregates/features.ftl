@@ -98,3 +98,7 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Unelte de dezvoltare: Depanarea scripturilor service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Activează un suport experimental pentru scripturi service worker în panoul Depanatorului. Această funcționalitate poate încetini Uneltele de dezvoltare și poate crește consumul de memorie.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafică: zoom lin prin gesturi tactile
+experimental-features-graphics-desktop-zooming-description = Activează suportul pentru zoom lin prin gesturi tactile pe ecrane tactile și zone tactile de precizie de pe laptopuri.

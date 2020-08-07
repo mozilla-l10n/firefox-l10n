@@ -32,6 +32,10 @@ printui-scale = Scară
 printui-scale-fit-to-page = Încadrare în pagină
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scară
+# Section title for miscellaneous print options
+printui-options = Opțiuni
+printui-headers-footers-checkbox = Tipărește antete și subsoluri
+printui-backgrounds-checkbox = Tipărește fundaluri
 printui-system-dialog-link = Tipărește folosind fereastra de dialog a sistemului…
 printui-primary-button = Tipărește
 printui-cancel-button = Renunță
