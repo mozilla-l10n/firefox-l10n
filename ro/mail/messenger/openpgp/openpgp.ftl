@@ -493,3 +493,22 @@ key-man-button-generate-key-continue = &Continuă generarea cheilor
 failed-decrypt = Eroare - decriptarea a eșuat
 fix-broken-exchange-msg-failed = Repararea mesajului nu a reușit.
 attachment-no-match-from-signature = Fișierul de semnătură „{ $attachment }” nu a putut fi corelat la un atașament
+attachment-no-match-to-signature = Atașamentul „{ $attachment }” nu a putut fi corelat la un fișier de semnătură
+signature-verified-ok = Semnătura pentru atașamentul { $attachment } a fost verificată cu succes
+signature-verify-failed = Semnătura pentru atașamentul { $attachment } nu a putut fi verificată
+decrypt-ok-no-sig =
+    Avertisment
+    Decriptarea a fost efectuată cu succes, dar semnătura nu a putut fi verificată corect
+msg-ovl-button-cont-anyway = &Continuă oricum
+enig-content-note = *Atașamentele acestui mesaj nu au fost semnate, nici criptate*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Trimite mesajul
+msg-compose-details-button-label = Detalii...
+msg-compose-details-button-access-key = D
+send-aborted = Operația de trimitere a fost abandonată.
+key-not-trusted = Cheia „{ $key }” nu are un nivel suficient de încredere
+key-not-found = Cheia „{ $key }” nu a fost găsită
+key-revoked = Cheia „{ $key }” a fost revocată
+key-expired = Cheia „{ $key }” a expirat
+msg-compose-internal-error = S-a produs o eroare internă.
+keys-to-export = Selectați cheile OpenPGP de inserat
