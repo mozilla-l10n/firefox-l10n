@@ -461,6 +461,7 @@ import-key-confirm = Vil du importere den offentlige nøkkelen innebygd i meldin
 fail-key-import = Feil - import av nøkkel mislyktes
 file-write-failed = Kunne ikke skrive til filen { $output }
 no-pgp-block = Feil - Ingen gyldig, armert OpenPGP-datablokk funnet
+confirm-permissive-import = Import mislyktes. Nøkkelen du prøver å importere kan være korrupt eller bruke ukjente attributter. Vil du prøve å importere de riktige delene? Dette kan føre til import av ufullstendige og ubrukelige nøkler.
 # Strings used in trust.jsm
 key-valid-unknown = ukjent
 key-valid-invalid = ugyldig
@@ -495,13 +496,42 @@ key-man-button-generate-key-continue = &Fortsett nøkkelgenerering
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Feil - dekryptering mislyktes
 fix-broken-exchange-msg-failed = Klarte ikke å reparere meldingen.
+attachment-no-match-from-signature = Kunne ikke samsvare signaturfilen «{ $attachment }» til et vedlegg
+attachment-no-match-to-signature = Kunne ikke samsvare vedlegg «{ $attachment }» til en signaturfil
+signature-verified-ok = Signaturen for vedlegget { $attachment } ble bekreftet
+signature-verify-failed = Signaturen for vedlegget { $attachment } kunne ikke bekreftes
+decrypt-ok-no-sig =
+    Advarsel
+    Dekryptering var vellykket, men signaturen kunne ikke bekreftes riktig
 msg-ovl-button-cont-anyway = &Fortsett likevell
 msg-compose-details-button-label = Detaljer…
 msg-compose-details-button-access-key = D
+key-in-message-body = En nøkkel ble funnet i meldingen. Klikk «Importer nøkkel» for å importere nøkkelen
+sig-mismatch = Feil - signaturen samsvarer ikke
+invalid-email = Feil - ugyldige e-postadresser
+attachment-pgp-key =
+    Vedlegget «{ $name }» du åpner ser ut til å være en OpenPGP-nøkkelfil.
+    Klikk på «Importer» for å importere nøklene eller «Vis» for å se filinnholdet i nettleservinduet
+dlg-button-view = &Vis
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Dekryptert melding (gjenopprettet ødelagt PGP-e-postformat sannsynligvis forårsaket av en gammel Exchange-server, slik at resultatet kanskje ikke er perfekt å lese)
+# Strings used in encryption.jsm
+not-required = Feil - ingen kryptering nødvendig
+# Strings used in windows.jsm
+no-photo-available = Ingen foto tilgjengelig
+error-photo-path-not-readable = Fotostien «{ $photo }» er ikke lesbar
+debug-log-title = OpenPGP-feilsøkingslogg
+# Strings used in dialog.jsm
+repeat-prefix = Denne varselen vil bli gjentatt { $count }
+repeat-suffix-singular = gang til.
+repeat-suffix-plural = ganger til.
+no-repeat = Dette varselet vises ikke igjen.
+dlg-keep-setting = Husk svaret mitt, og ikke spør meg igjen
 dlg-button-ok = &OK
 dlg-button-close = &Lukk
 dlg-button-cancel = &Avbryt
 dlg-no-prompt = Ikke vis denne dialogen igjen.
+enig-prompt = OpenPGP Prompt
 enig-confirm = OpenPGP-bekreftelse
 enig-alert = OpenPGP-varsel
 enig-info = OpenPGP-informasjon
