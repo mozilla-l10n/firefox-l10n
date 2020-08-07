@@ -9,7 +9,7 @@
 <!ENTITY viewFallbackCharset.desc        "(Brukt for legacy-innhold som ikke oppgir noen tegnkoding.)">
 
 <!ENTITY composingMessages.caption       "Meldingsskriving">
-<!ENTITY useMIME.label                   "Bruk 'quoted printable' MIME-koding for meldinger som har 8-bit tegn. La være tom for å sende meldingen som den er.">
+<!ENTITY useMIME.label                   "Bruk «quoted printable» MIME-koding for meldinger som bruker 8-bit tegn. La være tom for å sende meldingen som den er.">
 <!ENTITY useMIME.accesskey               "B">
 <!ENTITY sendDefaultCharset2.label       "Standard tekstkoding:">
 <!ENTITY sendDefaultCharset2.accesskey   "t">
