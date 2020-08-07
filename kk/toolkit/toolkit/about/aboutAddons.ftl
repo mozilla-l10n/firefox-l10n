@@ -411,6 +411,7 @@ addon-detail-version-label = Нұсқасы
 addon-detail-last-updated-label = Соңғы жаңартылған
 addon-detail-homepage-label = Үй парағы
 addon-detail-rating-label = Рейтингі
+install-postponed-button = Қазір жаңарту
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
