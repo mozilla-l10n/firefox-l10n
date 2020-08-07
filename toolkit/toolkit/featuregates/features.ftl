@@ -97,6 +97,10 @@ experimental-features-abouthome-startup-cache =
     .label = Cache di avvio per about:home
 experimental-features-abouthome-startup-cache-description = Attiva cache per la pagina about:home che viene caricata automaticamente all’avvio del browser. Lo scopo di questa cache è migliorare le prestazioni di avvio.
 
+experimental-features-print-preview-tab-modal =
+    .label = Anteprima di stampa ridisegnata
+experimental-features-print-preview-tab-modal-description = Introduce un nuovo design per l’anteprima di stampa e rende disponibile questa funzione in macOS. Attivando questo esperimento potrebbero verificarsi errori e non sono ancora disponibili tutte le opzioni relative alla stampa. Per accedere alle opzioni complete, utilizzare “Stampa utilizzando la finestra di dialogo del sistema…”.
+
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
