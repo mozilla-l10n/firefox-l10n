@@ -318,6 +318,11 @@ converter-decrypt-body-failed =
 # Strings in gpg.jsm
 unknown-signing-alg = Algorithmo de signar incognite (ID: { $id })
 unknown-hash-alg = Incognite cryptographic hash (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Tu clave { $desc } expirara in minus de { $dies } dies.
+    Nos consilia que tu crea un nove copula de claves e configura le contos correspondente pro usar lo.
+expiry-keys-expire-soon = Tu sequente claves expirara in minus de { $dies } dies:{ $desc }.¶ Nos te consilia crear nove claves e configurar le contos correspondente pro usar los.
 expiry-open-key-manager = Aperir le gestor de clave OpenPGP
 expiry-open-key-properties = Aperir proprietates del clave
 # Strings filters.jsm
