@@ -310,6 +310,51 @@ converter-decrypt-body-failed =
     Vrei să încerci din nou cu altă parolă sau vrei să sari peste mesaj?
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritm necunoscut de semnare (ID:{ $id })
+unknown-hash-alg = Hash criptografic necunoscut (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Cheia ta { $desc } va expira în mai puțin de { $days } zile.
+    Îți recomandăm să creezi o pereche nouă de chei și să configurezi conturile aferente pentru folosirea lor.
+expiry-keys-expire-soon =
+    Cheile tale următoare vor expira în mai puțin de { $days } zile:{ $desc }.
+    Îți recomandăm să creezi chei noi și să configurezi conturile aferente pentru folosirea lor.
+expiry-key-missing-owner-trust =
+    Cheia ta secretă { $desc } nu are nivelul de încredere setat.
+    Îți recomandăm să setezi „Încredere în certificări” pe „absolută” în proprietățile cheii.
+expiry-keys-missing-owner-trust =
+    Cheile tale secrete de mai jos nu au nivelul de încredere setat.
+    { $desc }.
+    Îți recomandăm să setezi „Încredere în certificări” pe „absolută” în proprietățile cheii.
+expiry-open-key-manager = Deschide managerul de chei OpenPGP
+expiry-open-key-properties = Deschide proprietățile cheii
+# Strings filters.jsm
+filter-folder-required = Trebuie să selectezi un dosar-țintă.
+filter-decrypt-move-warn-experimental =
+    Avertisment - Acțiunea de filtrare „Decriptează permanent” poate conduce la distrugerea mesajelor.
+    Îți recomandăm să încerci mai întâi filtrul „Creează copie decriptată”. Încearcă rezultatele cu grijă și apoi începe să folosești acest filtru după ce decizi că rezultatele sunt satisfăcătoare.
+filter-term-pgpencrypted-label = Criptat cu OpenPGP
+filter-key-required = Trebuie să selectezi cheia destinatarului.
+filter-key-not-found = Nu s-a găsit o cheie de criptare pentru „{ $desc }”.
+filter-warn-key-not-secret =
+    Avertisment - Acțiunea de filtrare „Criptare cu cheie” înlocuiește destinatarii.
+    Dacă nu ai cheia secretă pentru „{ $desc }”, nu vei mai putea citi mesajele de e-mail.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Decriptează permanent (OpenPGP)
+filter-decrypt-copy-label = Creează copie decriptată (OpenPGP)
+filter-encrypt-label = Criptează cu cheie (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Succes! Cheia a fost importată
+import-info-bits = Biți
+import-info-created = Creată
+import-info-fpr = Amprentă
+import-info-details = Vezi detaliile și gestionează acceptarea cheii
+import-info-no-keys = Nu a fost importată nicio cheie.
+# Strings in enigmailKeyManager.js
+import-from-clip = Vrei să imporți chei din clipboard?
+import-from-url = Descarcă o cheie publică de la acest URL:
+copy-to-clipbrd-failed = Copierea în clipboard a cheilor selecate a eșuat.
+copy-to-clipbrd-ok = Cheia(cheile) a(u) fost importată(e) în clipboard
 
 ## Account settings export output
 
