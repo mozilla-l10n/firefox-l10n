@@ -400,3 +400,18 @@ key-ring-pub-key-revoked = Cheia { $userId } (ID cheie { $keyId }) este revocat�
 key-ring-pub-key-expired = Cheia { $userId } (ID cheie { $keyId }) a expirat.
 key-ring-key-disabled = Cheia { $userId } (ID cheie { $keyId }) este dezactivată; nu poate fi utilizată.
 key-ring-key-invalid = Cheia { $userId } (ID cheie { $keyId }) nu este validă. Încearcă să o verifici corect.
+key-ring-key-not-trusted = Cheia { $userId } (ID cheie { $keyId }) nu are un nivel suficient de încredere. Setează nivelul de încredere al cheii pe „absolut” ca să o poți utiliza pentru semnături.
+key-ring-no-secret-key = Se pare că nu ai cheia secretă pentru { $userId } (ID cheie { $keyId }) în fișierul cu chei de criptare; nu poți utiliza cheia pentru semnături.
+key-ring-pub-key-not-for-signing = Cheia { $userId } (ID cheie { $keyId }) nu poate fi utilizată pentru semnături.
+key-ring-pub-key-not-for-encryption = Cheia { $userId } (ID cheie { $keyId }) nu poate fi utilizată pentru criptare.
+key-ring-sign-sub-keys-revoked = Toate subcheile de semnătură ale cheii { $userId } (ID cheie { $keyId }) sunt revocate.
+key-ring-sign-sub-keys-expired = Toate subcheile de semnătură ale cheii { $userId } (ID cheie { $keyId }) au expirat.
+key-ring-sign-sub-keys-unusable = Toate subcheile de semnătură ale cheii { $userId } (ID cheie { $keyId }) sunt revocate, expirate sau inutilizabile din alte motive.
+key-ring-enc-sub-keys-revoked = Toate subcheile de criptare ale cheii { $userId } (ID cheie { $keyId }) sunt revocate.
+key-ring-enc-sub-keys-expired = Toate subcheile de criptare ale cheii { $userId } (ID cheie { $keyId }) au expirat.
+key-ring-enc-sub-keys-unusable = Toate subcheile de criptare ale cheii { $userId } (ID cheie { $keyId }) sunt revocate, expirate sau inutilizabile din alte motive.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Fotografie
+user-att-photo = Atribut utilizator (imagine JPEG)
+# Strings in key.jsm
+already-revoked = Cheia a fost deja revocată.
