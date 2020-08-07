@@ -518,6 +518,10 @@ msg-compose-internal-error = En intern feil har oppstått.
 keys-to-export = Velg OpenPGP-nøkler du vil sette inn
 msg-compose-cannot-save-draft = Feil ved lagring av utkast
 msg-compose-partially-encrypted-short = Se opp for å lekke sensitiv informasjon - delvis kryptert e-post.
+minimal-line-wrapping =
+    Du har satt linjeskift til{ $width } tegn. For riktig kryptering og/eller signering, må denne verdien være minst 68.
+    Ønsker du å endre linjeskiften til 68 tegn nå?
+sending-hidden-rcpt = BCC-mottakere (blindkopi) kan ikke brukes når du sender en kryptert melding. For å sende denne krypterte meldingen, fjern enten BCC-mottakerne eller flytt dem til CC-feltet.
 save-attachment-header = Lagre dekryptert vedlegg
 no-temp-dir =
     Kunne ikke finne en midlertidig katalog å skrive til
