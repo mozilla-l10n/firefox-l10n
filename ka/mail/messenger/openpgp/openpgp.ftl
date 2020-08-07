@@ -5,12 +5,31 @@
 openpgp-key-man-select-all =
     .label = ყველა გასაღების შერჩევა
     .accesskey = ყ
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = დახურვა
+openpgp-acceptance-label =
+    .label = თქვენ მიერ დაშვება
+openpgp-acceptance-rejected-label =
+    .label = არა, ამ გასაღების უარყოფა.
+openpgp-acceptance-undecided-label =
+    .label = ჯერ არა, შეიძლება მოგვიანებით.
+openpgp-acceptance-unverified-label =
+    .label = დიახ, მაგრამ ჯერ დაუმოწმებელია, გასაღების მართებულობა.
+openpgp-acceptance-verified-label =
+    .label = დიახ, გადამოწმებულია პირადად, რომ ეს გასაღები, მართებული ანაბეჭდითაა.
+key-accept-personal =
+    ამ გასაღებისთვის, გაქვთ ორივე, საჯარო და საიდუმლო ნაწილი. შეგიძლიათ პირად გასაღებად გამოყენება.
+    თუ ეს გასაღები ვინმე სხვისგან მიიღეთ, მაშინ არ გამოიყენოთ პირად გასაღებად.
 
 ## e2e encryption settings
 
 
 ## OpenPGP Key selection area
 
+key-do-you-accept = გსურთ დაუშვათ ეს გასაღები, ციფრული ხელმოწერებისა და დაშიფრული წერილების დასამოწმებლად?
+key-accept-warning = თავი დაიცავით თაღლითური გასაღების დაშვებისგან. გამოიყენეთ სხვა ელფოსტისგან განსხვავებული დამაკავშირებელი არხები, შესაბამისი გასაღების ანაბეჭდის დასამოწმებლად.
+import-info-details = მონაცემების ნახვა და დაშვების მართვა
 
 ## Account settings export output
 
+key-error-not-accepted-as-personal = თქვენ არ დაგიდასტურებიათ, რომ გასაღები ID ნომრით „{ $keySpec }“, თქვენი პირადი გასაღებია.
