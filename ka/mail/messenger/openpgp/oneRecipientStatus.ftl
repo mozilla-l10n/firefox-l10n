@@ -17,6 +17,7 @@ openpgp-one-recipient-status-open-details =
 openpgp-one-recipient-status-discover =
     .label = ახალი ან განახლებული გასაღების მონახვა
 openpgp-one-recipient-status-instruction1 = გამჭოლად დაშიფრული წერილის გასაგზავნად მიმღებისთვის, საჭიროა მისი საჯარო OpenPGP-გასაღების მოპოვება და დაშვებულად მონიშვნა.
+openpgp-one-recipient-status-instruction2 = მათი საჯარო გასაღები, პირდაპირ შეიტანეთ ელფოსტაზე გამოგზავნილი ამ გასაღების შემცველი წერილიდან. გარდა ამისა, საჯარო გასაღების მონახვა შეგიძლიათ სცადოთ ცნობარშიც.
 openpgp-key-own = დაშვებული (პირადი გასაღები)
 openpgp-key-secret-not-personal = გამოუსადეგარი
 openpgp-key-verified = დაშვებული (დამოწმებული)
