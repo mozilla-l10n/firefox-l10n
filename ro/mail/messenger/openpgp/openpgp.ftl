@@ -235,9 +235,53 @@ openpgp-add-key-button =
     .accesskey = A
 e2e-learn-more = Află mai multe
 openpgp-keygen-success = Cheia OpenPGP a fost creată cu succes!
+openpgp-keygen-import-success = Cheile OpenPGP au fost importate cu succes!
+openpgp-keygen-external-success = ID-ul cheii externe GnuPG a fost salvat!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Niciuna
+openpgp-radio-none-desc = Nu folosi OpenPGP pentru această identitate.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Expiră la: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Cheia expiră în mai puțin de 6 luni
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Expiră la: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Cheia a expirat
+openpgp-key-expand-section =
+    .tooltiptext = Mai multe informații
+openpgp-key-revoke-title = Revocă cheia
+openpgp-key-edit-title = Schimbă cheia OpenPGP
+openpgp-key-edit-date-title = Prelungește perioada de valabilitate
+openpgp-manager-description = Folosește managerul de chei OpenPGP pentru a vizualiza și gestiona cheile publice ale persoanelor cu care corespondezi și toate celelalte chei care nu sunt enumerate mai sus.
+openpgp-manager-button =
+    .label = Manager de chei OpenPGP
+    .accesskey = K
+openpgp-key-remove-external =
+    .label = Elimină ID cheie externă
+    .accesskey = E
+key-external-label = Cheie GnuPG externă
+# Strings in keyDetailsDlg.xhtml
+key-type-public = cheie publică
+key-type-primary = cheie primară
+key-type-subkey = subcheie
+key-type-pair = pereche de chei (cheie secretă și cheie publică)
+key-expiry-never = niciodată
+key-usage-encrypt = Criptează
+key-usage-sign = Semnează
+key-usage-certify = Certifică
+key-usage-authentication = Autentificare
+key-does-not-expire = Cheia nu expiră
+key-expired-date = Cheia a expirat la { $keyExpiry }
+key-expired-simple = Cheia a expirat
+key-revoked-simple = Cheia a fost revocată
+key-do-you-accept = Accepți cheia pentru verificarea semnăturilor digitale și pentru criptarea mesajelor?
+key-accept-warning = Evită să accepți chei dubioase. Folosește alt canal de comunicare, nu adresa de e-mail, ca să verifici amprenta cheii corespondentului.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Mesajul nu poate fi trimis pentru că a apărut o problemă la cheia ta personală. { $problem }
 
 ## Account settings export output
 
