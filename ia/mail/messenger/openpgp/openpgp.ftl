@@ -307,11 +307,14 @@ keyserver-error-unsupported = Le servitor-de-claves non es disponibile.
 wkd-message-body-req =
     Tu fornitor de servicios email ha processate tu requesta de cargar tu clave public in le directorio de clave web OpenPGP.
     Confirma pro completar le publication de tu clave public.
+# Strings in gpg.jsm
+unknown-signing-alg = Algorithmo de signar incognite (ID: { $id })
 expiry-open-key-manager = Aperir le gestor de clave OpenPGP
 expiry-open-key-properties = Aperir proprietates del clave
 # Strings filters.jsm
 filter-folder-required = Tu debe eliger un plica de destination.
 filter-term-pgpencrypted-label = Cryptate OpenPGP
+filter-key-required = Tu debe seliger un clave destinatario.
 filter-encrypt-label = Crypta tu clave (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
