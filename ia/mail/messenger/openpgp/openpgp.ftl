@@ -206,6 +206,12 @@ openpgp-acceptance-unverified-label =
     .label = Si, ma io non ha verificate que isto es le clave correcte.
 openpgp-acceptance-verified-label =
     .label = Si, io ha verificate personalmente que isto es de facto le correcte impression digital.
+key-accept-personal =
+    Pro iste clave, tu ha le parte public e le secrete. Tu pote usar lo como clave personal.
+    Si iste clave ha essite date te per alcuno altere, alora non usa lo como clave personal.
+key-personal-warning = Ha tu create iste clave tu mesme e le proprietate del clave monstrate se refere a te mesme?
+openpgp-personal-no-label =
+    .label = No, non usar lo como mi clave personal.
 openpgp-personal-yes-label =
     .label = Si, tractar iste clave como clave personal.
 openpgp-copy-cmd-label =
