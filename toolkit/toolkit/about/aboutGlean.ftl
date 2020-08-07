@@ -6,4 +6,5 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = Acerca de Glean
+about-glean-warning = El mal uso de esta interfaz puede hacer fallar a { -brand-short-name }.
 controls-button-label = Enviar ajustes
