@@ -388,10 +388,12 @@ ascii-armor-file = Files ASCII Armored (*.asc)
 no-key-selected = Tu debe eliger al minus un clave pro exequer le seligite operation
 export-to-file = Exportar un clave public a file
 export-keypair-to-file = Exportar clave secrete e public a file
+export-secret-key = Vole tu includer le clave secrete in le file clave OpenPGP salvate?
 save-keys-ok = Claves salvate con successo.
 save-keys-failed = Salvamento claves fallite!
 default-pub-key-filename = Claves-public-exportate
 default-pub-sec-key-filename = Reserva-de-claves-secrete
+refresh-key-warn = ATTENTION: secundo le numero de claves e le velocitate de connexion, le actualisation de tote le claves pote esser un  processo bastante longe!
 preview-failed = Impossibile leger file clave public.
 general-error = Error: { $reason }
 dlg-button-delete = &Deler
@@ -399,7 +401,14 @@ dlg-button-delete = &Deler
 ## Account settings export output
 
 openpgp-export-public-success = <b>Clave public exportate con successo!</b>
+openpgp-export-public-fail = <b>Impossibile exportar le clave public seligite!</b>
 openpgp-export-secret-success = <b>Clave secrete exportate con successo!</b>
+openpgp-export-secret-fail = <b>Impossibile exportar le clave secrete seligite!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Le clave { $userId } (ID clave { $keyId }) es revocate.
+key-ring-pub-key-expired = Le clave { $userId } (ID clave { $keyId }) es expirate.
+key-ring-key-disabled = Le clave { $userId } (ID clave { $keyId }) es disactivate e non pote esser usate.
+key-ring-key-invalid = Le clave { $userId } (ID clave { $keyId }) non es valide.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Photo
 key-man-button-revoke-key = &Revocar clave
