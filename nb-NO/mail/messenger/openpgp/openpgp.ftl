@@ -448,6 +448,14 @@ revoke-key-in-use-description = Kan ikke fortsette! Nøkkelen du valgte for tilb
 key-error-key-spec-not-found = E-postadressen «{ $keySpec }» kan ikke matches med en nøkkel på nøkkelringen.
 key-error-key-id-not-found = Den konfigurerte nøkkel-ID-en «{ $keySpec }» kan ikke finnes på nøkkelringen.
 key-error-not-accepted-as-personal = Du har ikke bekreftet at nøkkelen med ID «{ $keySpec }» er din personlige nøkkel.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Funksjonen du har valgt er ikke tilgjengelig i frakoblet modus. Koble til og prøv igjen.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Vi kunne ikke finne noen nøkkel som samsvarer med de spesifiserte søkekriteriene.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Feil - nøkkelekstraksjonskommandoen mislyktes
+# Strings used in keyRing.jsm
+fail-cancel = Feil - Mottak av nøkkel avbrutt av bruker
 # Strings used in trust.jsm
 key-valid-unknown = ukjent
 key-valid-invalid = ugyldig
