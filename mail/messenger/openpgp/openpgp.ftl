@@ -282,6 +282,34 @@ key-do-you-accept = Accepți cheia pentru verificarea semnăturilor digitale și
 key-accept-warning = Evită să accepți chei dubioase. Folosește alt canal de comunicare, nu adresa de e-mail, ca să verifici amprenta cheii corespondentului.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Mesajul nu poate fi trimis pentru că a apărut o problemă la cheia ta personală. { $problem }
+cannot-encrypt-because-missing = Mesajul nu poate fi trimis criptat end-to-end deoarece sunt probleme legate de cheile următorilor destinatari: { $problem }
+window-locked = Fereastra de redactare a mesajelor este blocată; trimitere anulată
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Parte criptată a mesajului
+mime-decrypt-encrypted-part-concealed-data = Este o parte criptată a mesajului. Trebuie să o deschizi într-o fereastră separată dând clic pe atașament.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Abandonat
+keyserver-error-unknown = A apărut o eroare necunoscută
+keyserver-error-server-error = Serverul de chei a raportat o eroare.
+keyserver-error-import-error = Importul cheii descărcate a eșuat.
+keyserver-error-unavailable = Serverul de chei nu este disponibil.
+keyserver-error-security-error = Serverul de chei nu are suport pentru acces criptat.
+keyserver-error-certificate-error = Certificatul serverului de chei nu este valid.
+keyserver-error-unsupported = Serverul de chei nu este compatibil.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Furnizorul tău de e-mail ți-a procesat cererea de a încărca cheia publică în directorul web de chei OpenPGP.
+    Confirmă că vrei să finalizezi publicarea cheii tale publice.
+wkd-message-body-process =
+    Este un mesaj legat de procesarea automată de încărcare a cheii tale publice în directorul web de chei OpenPGP.
+    Deocamdată nu este necesară nicio acțiune manuală din partea ta.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Nu s-a reușit decriptarea mesajului cu subiectul
+    { $subject }.
+    Vrei să încerci din nou cu altă parolă sau vrei să sari peste mesaj?
+# Strings in gpg.jsm
+unknown-signing-alg = Algoritm necunoscut de semnare (ID:{ $id })
 
 ## Account settings export output
 
