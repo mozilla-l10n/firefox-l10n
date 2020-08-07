@@ -286,6 +286,9 @@ key-expired-date = Le clave ha expirate le { $keyExpiry }
 key-expired-simple = Le clave ha expirate
 key-revoked-simple = Le clave ha essite revocate
 key-do-you-accept = Accepta tu iste clave pro verificante firmas digital e pro cryptar messages?
+key-accept-warning = Evita acceptar un clave picaresc. Usa un canal de communication in ultra al email pro verificar le dactylogramma de clave de tu correspondente.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Impossibile inviar le message, perque il ha un problema con tu clave personal. { $problem }
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte de message cryptate
 # Strings in keyserver.jsm
