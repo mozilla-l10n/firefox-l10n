@@ -33,6 +33,7 @@ openpgp-generate-key =
     .tooltiptext = 生成新的 OpenPGP 兼容密钥，进行加密与/或签名
 openpgp-advanced-prefs-button-label =
     .label = 高级…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">注意：密钥生成可能需要几分才能完成。</a></b>密钥生成过程中，请不要关闭应用程序。主动浏览上网，或进行频繁读写磁盘操作，可补充“随机数池”以加速密钥生成。完成后将提示您密钥已生成。
 openpgp-key-expiry-label =
     .label = 到期日
 openpgp-key-id-label =
@@ -205,6 +206,8 @@ openpgp-acceptance-unverified-label =
     .label = 接受，但我还未验证过是否为正确密钥。
 openpgp-acceptance-verified-label =
     .label = 接受，我已验证这的确是正确的指纹。
+key-accept-personal = 您有此密钥的公钥与私钥部分，可以将其用作个人密钥。若此密钥是由别人提供给您的，则请勿将其用作个人密钥。
+key-personal-warning = 您是否自行创建了此密钥，且显示的拥有者信息也是您本人？
 openpgp-personal-no-label =
     .label = 不，请勿将其用作我的个人密钥。
 openpgp-personal-yes-label =
@@ -214,6 +217,13 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird 没有用于 <b>{ $identity }</b> 的 OpenPGP 个人密钥
+       *[other] Thunderbird 找到 { $count } 个 <b>{ $identity }</b> 的 OpenPGP 个人密钥
+    }
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status =
@@ -272,6 +282,7 @@ key-expired-date = 密钥已于 { $keyExpiry } 过期
 key-expired-simple = 密钥已过期
 key-revoked-simple = 密钥已被吊销
 key-do-you-accept = 您要接受将此密钥用于验证数字签名与加密消息吗？
+key-accept-warning = 请先使用电子邮件之外的通信渠道验证对方的密钥指纹，避免接受恶意密钥。
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = 您的个人密钥有问题，无法发送消息。{ $problem }
 cannot-encrypt-because-missing = 由于下列收件人的密钥有问题，无法用端到端加密的方式发送此消息：{ $problem }
@@ -291,15 +302,23 @@ keyserver-error-unsupported = 不支持此密钥服务器。
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req = 您的邮件服务商处理了您要将公钥上传到网上 OpenPGP 密钥库的请求。请确认公钥是否已经完成发布。
 wkd-message-body-process = 这是一封关于自动将公钥上传到网上 OpenPGP 密钥库的邮件。您暂时不必进行任何操作。
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed = 无法解密主题为 { $subject } 的消息。您想要使用不同密语再试一次，或是跳过此消息？
 # Strings in gpg.jsm
 unknown-signing-alg = 未知的签名算法（ID：{ $id }）
 unknown-hash-alg = 未知的加密哈希值（ID：{ $id }）
 # Strings in keyUsability.jsm
 expiry-key-expires-soon = 您的密钥 { $desc } 将于 { $days } 天内到期。建议您重新生成密钥，并配置妥当对应账户来使用。
 expiry-keys-expire-soon = 您的下列密钥将于 { $days } 天内到期：{ $desc }。建议您重新生成密钥，并配置妥当对应账户来使用。
+expiry-key-missing-owner-trust = 您对密钥 { $desc } 缺少信任设置。建议您到密钥属性中，将“密钥信任度”设为“完全信任”。
+expiry-keys-missing-owner-trust = 下列密钥少信任设置：{ $desc }。建议您到密钥属性中，将“密钥信任度”设为“完全信任”。
 expiry-open-key-manager = 打开 OpenPGP 密钥管理器
 expiry-open-key-properties = 打开密钥属性
+# Strings filters.jsm
+filter-folder-required = 必须选择一个目标文件夹。
 filter-term-pgpencrypted-label = OpenPGP 加密
+filter-key-required = 必须选择一个接收人密钥。
+filter-key-not-found = 找不到“{ $desc }”的加密密钥。
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = 永久解密（OpenPGP）
 filter-decrypt-copy-label = 创建解密的副本（OpenPGP）
@@ -309,12 +328,14 @@ import-info-title =
 import-info-bits = 位
 import-info-created = 创建于
 import-info-fpr = 指纹
+import-info-details = 查看详细信息并管理密钥接受度
 import-info-no-keys = 未导入密钥。
 # Strings in enigmailKeyManager.js
 import-from-clip = 您想要从剪贴板导入一些密钥吗？
 import-from-url = 请从下列 URL 下载公钥：
 copy-to-clipbrd-failed = 无法将选中的密钥复制到剪贴板。
 copy-to-clipbrd-ok = 已将密钥复制到剪贴板
+delete-secret-key = 警告：即将删除私钥！删除私钥后，将无法再解密使用该密钥加密的消息，也无法吊销该密钥。您确定要删除“{ $userId }”的公钥与私钥吗？
 delete-mix = 警告：即将删除私钥！删除私钥后，将无法再解密使用该密钥加密的消息。您确定要删除“{ $userId }”的公钥与私钥吗？
 delete-pub-key = 您确定要删除公钥“{ $userId }”吗？
 delete-selected-pub-key = 您确定要删除公钥吗？
@@ -369,12 +390,21 @@ revoke-key-question = 即将吊销密钥“{ $identity }”。吊销后，将无
 revoke-key-already-revoked = 密钥  0x{ $keyId } 已被吊销。
 key-man-button-revoke-key = 吊销密钥(&R)
 openpgp-key-revoke-success = 已成功吊销密钥。
+after-revoke-info = 此密钥已被吊销。请使用电子邮件再次分享公钥，或是上传到密钥服务器，让其他人知道您已吊销此密钥。当其他人使用的软件知道密钥已吊销后，就不会再使用您的旧密钥。若您在相同邮箱使用新的密钥，并将新的公钥附在您发送的邮件中，那么旧密钥已被吊销的信息也会自动包含在内。
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = 导入(&I)
 delete-key-title = 删除 OpenPGP 密钥
 delete-external-key-title = 移除外部 GnuPG 密钥
 delete-external-key-description = 您要移除该 GnuPG 密钥 ID 吗？
 key-in-use-title = OpenPGP 密钥正在使用中
+delete-key-in-use-description = 无法继续！您选择要删除的密钥目前正由此身份使用中。请选择其他密钥或取消选择并重试。
+revoke-key-in-use-description = 无法继续！您选择要吊销的密钥目前正由此身份使用中。请选择其他密钥或取消选择并重试。
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = 电子邮件地址“{ $keySpec }”无法与您密钥环上的密钥匹配。
+key-error-key-id-not-found = 未在您的密钥环找到配置的密钥 ID “{ $keySpec }”。
+key-error-not-accepted-as-personal = 您并未确认 ID 为“{ $keySpec }”的密钥是您的个人密钥。
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = 您选择的功能无法离线使用。请联网后再试。
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = 找不到任何匹配搜索条件的密钥。
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
@@ -386,6 +416,7 @@ import-key-confirm = 要导入消息中嵌入的公钥吗？
 fail-key-import = 错误 - 密钥导入失败
 file-write-failed = 写入到文件 { $output } 失败
 no-pgp-block = 错误 - 找不到有效的 armored 格式 OpenPGP 数据块
+confirm-permissive-import = 导入失败。您试图导入的密钥可能已损坏或使用了未知的属性。您想要尝试导入其中正确的部分吗？可能会导入不完整且无法使用的密钥。
 # Strings used in trust.jsm
 key-valid-unknown = 未知
 key-valid-invalid = 无效
