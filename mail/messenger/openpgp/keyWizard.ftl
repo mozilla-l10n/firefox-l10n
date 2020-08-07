@@ -5,6 +5,7 @@
 key-wizard-button =
     .buttonlabelaccept = განაგრძეთ
     .buttonlabelhelp = უკან დაბრუნება
+key-wizard-learn-more = ვრცლად
 
 ## Generate key section
 
