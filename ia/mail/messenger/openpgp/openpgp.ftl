@@ -382,6 +382,7 @@ delete-selected-pub-key =
 refresh-all-question = Tu non ha seligite ulle clave. Desira tu refrescar tote le claves?
 key-man-button-export-sec-key = Exportar claves &Secrete
 key-man-button-export-pub-key = Exportar solo claves &public
+key-man-button-refresh-all = &Refrescar tote le claves
 key-man-loading-keys = Cargamento claves, attende…
 export-to-file = Exportar un clave public a file
 export-keypair-to-file = Exportar clave secrete e public a file
