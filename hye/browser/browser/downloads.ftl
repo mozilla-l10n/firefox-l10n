@@ -131,8 +131,8 @@ downloads-history =
 downloads-details =
     .title = Ներբեռնել մանրամասները
 downloads-clear-downloads-button =
-    .label = Մաքրել ներբեռնումները
-    .tooltiptext = Հեռացնում է աւարտուած, չեղարկուած եւ ձախողուած ներբեռնումները
+    .label = Ջնջել ներբեռնումները
+    .tooltiptext = Ջնջում է աւարտուած, չեղարկուած եւ ձախողուած ներբեռնումները
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =

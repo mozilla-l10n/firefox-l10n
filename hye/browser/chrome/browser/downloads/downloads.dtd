@@ -119,7 +119,7 @@
 <!ENTITY openDownloadsFolder.label        "Բացել ներբեռնումների թղթապանակը">
 
 <!ENTITY clearDownloadsButton.label       "Մաքրել ներբեռնումները">
-<!ENTITY clearDownloadsButton.tooltip     "Հեռացնում է աւարտուած, չեղարկուած եւ ձախողուած ներբեռնումները">
+<!ENTITY clearDownloadsButton.tooltip     "Ջնջում է աւարտուած, չեղարկուած եւ ձախողուած ներբեռնումները">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
