@@ -369,6 +369,10 @@ delete-secret-key =
     
     Desira tu vermente deler AMBE: le clave de secrete e le clave public
     '{ $userId }'?
+delete-mix =
+    ATTENTION: Tu va deler le claves secrete!
+    Si tu dele tu clave secrete, tu non sera plus capace a decifrar ulle messages cryptate pro ille clave.
+    Vole tu vermente deler AMBE, le claves secrete e public seligite?
 delete-pub-key =
     Vole tu deler le clave public
     '{ $userId }'?
