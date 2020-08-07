@@ -42,7 +42,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "საიდუმლო გასაღების შექმნა">
 <!ENTITY createCertInfo.msg1 "მიმდინარეობს გასაღების შექმნა… შესაძლოა რამდენიმე წუთი დასჭირდეს…">
-<!ENTITY createCertInfo.msg2 "შეიცადეთ…">
+<!ENTITY createCertInfo.msg2 "გთხოვთ, მოითმინოთ…">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "უსაფრთხო შესვლა ანგარიშზე სიტყვა-ნიშნის საშუალებით">
