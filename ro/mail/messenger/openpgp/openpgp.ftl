@@ -512,3 +512,15 @@ key-revoked = Cheia „{ $key }” a fost revocată
 key-expired = Cheia „{ $key }” a expirat
 msg-compose-internal-error = S-a produs o eroare internă.
 keys-to-export = Selectați cheile OpenPGP de inserat
+msg-compose-partially-encrypted-inlinePGP =
+    Mesajul la care răspunzi avea și părți necriptate, și părți criptate. Dacă expeditorul nu a putut decripta inițial unele părți din mesaj, este posibil să divulgi informații confidențiale pe care expeditorul nu a reușit să le decripteze inițial.
+    Ia în calcul eliminarea completă a textului citat din răspunsul pe care îl trimiți acestui expeditor.
+msg-compose-cannot-save-draft = Eroare la salvarea ciornei
+msg-compose-partially-encrypted-short = Atenție la divulgarea de informații sensibile - mesaj parțial criptat.
+quoted-printable-warn =
+    Ai activat codarea „citat tipăribil” pentru transmiterea mesajelor. Poate conduce la decriptarea și/sau verificarea incorectă(e) a mesajelor tale.
+    Vrei să dezactivezi trimiterea de mesaje cu „citat tipăribil” acum?
+minimal-line-wrapping =
+    Ai setat încadrarea rândurilor la o lățime de { $width } (de) caractere. Pentru criptare și/sau semnare corectă(e), valoarea trebuie să fie de cel puțin 68.
+    Vrei să modifici încadrarea rândurilor pe 68 de caractere acum?
+sending-hidden-rcpt = Nu se poate folosi BCC (copie carbon cu destinatar ascuns) la transmiterea unui mesaj criptat. Pentru a trimite acest mesaj criptat, fie elimini destinatarii din BCC, fie îi muți în câmpul CC.
