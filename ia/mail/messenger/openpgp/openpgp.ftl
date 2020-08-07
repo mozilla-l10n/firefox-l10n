@@ -355,11 +355,20 @@ import-info-title =
 import-info-bits = Bits
 import-info-created = Create
 import-info-fpr = Dactylogramma
+import-info-details = Vider detalios e gerer acceptation del clave
 import-info-no-keys = Nulle claves importate
 # Strings in enigmailKeyManager.js
 import-from-clip = Vole tu importar alcun claves ab area de transferentia?
 import-from-url = Discargar clave public ex iste URL:
+copy-to-clipbrd-failed = Impossibile copiar le clave(s) seligite in le area de transferentia.
 copy-to-clipbrd-ok = Clave(s) copiate in le area de transferentia
+delete-secret-key =
+    ATTENTION: Tu va deler un clave secrete!
+    
+    Si tu dele tu clave secrete, tu non potera plus decifrar ulle messages cryptate pro ille clave, ni tu potera revocar lo.
+    
+    Desira tu vermente deler AMBE: le clave de secrete e le clave public
+    '{ $userId }'?
 delete-pub-key =
     Vole tu deler le clave public
     '{ $userId }'?
