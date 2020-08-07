@@ -8,7 +8,7 @@
 <!ENTITY setPassword.oldPassword.label "მიმდინარე პაროლი:">
 <!ENTITY setPassword.newPassword.label "ახალი პაროლი:">
 <!ENTITY setPassword.reenterPassword.label "ახალი პაროლი (კვლავ):">
-<!ENTITY setPassword.meter.label "პაროლის ხარისხის მზომი">
+<!ENTITY setPassword.meter.label "პაროლის ხარისხმზომი">
 
 <!-- Values for resetpassword.xhtml -->
 <!ENTITY resetPasswordButtonLabel "აღდგენა">
