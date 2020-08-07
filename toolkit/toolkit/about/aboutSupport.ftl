@@ -342,7 +342,7 @@ touch-enabled = intrare tactilă activată
 drag-enabled = tragerea barei de derulare activată
 keyboard-enabled = tastatură activată
 autoscroll-enabled = autoderulare activată
-zooming-enabled = Zoom lin prin apropiere/depărtare cu degetele activat
+zooming-enabled = Zoom lin prin gesturi tactile activat
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
