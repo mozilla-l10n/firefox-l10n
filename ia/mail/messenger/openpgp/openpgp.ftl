@@ -313,6 +313,9 @@ expiry-open-key-properties = Aperir proprietates del clave
 filter-folder-required = Tu debe eliger un plica de destination.
 filter-term-pgpencrypted-label = Cryptate OpenPGP
 filter-encrypt-label = Crypta tu clave (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Claves importate con successo
 import-info-bits = Bits
 import-info-created = Create
 import-info-fpr = Dactylogramma
