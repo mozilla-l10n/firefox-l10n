@@ -126,6 +126,10 @@ full-zoom-reduce-shortcut =
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
     .key = { "" }
+full-zoom-reduce-shortcut-alt-a =
+    .key = _
+full-zoom-reduce-shortcut-alt-b =
+    .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
 full-zoom-enlarge-shortcut-alt =
