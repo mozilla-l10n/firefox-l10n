@@ -33,6 +33,10 @@ printui-scale = Skalěrowanje
 printui-scale-fit-to-page = Bokoju pśiměriś
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalěrowaś
+# Section title for miscellaneous print options
+printui-options = Nastajenja
+printui-headers-footers-checkbox = Głowy a nogi śišćaś
+printui-backgrounds-checkbox = Slězyny śišćaś
 printui-system-dialog-link = Z pomocu systemowego dialoga śišćaś…
 printui-primary-button = Śišćaś
 printui-cancel-button = Pśetergnuś

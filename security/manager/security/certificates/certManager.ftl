@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Toś ten certifikat njedajo se pśespytaś, d
 cert-not-verified-ca-invalid = Toś ten certifikat njedajo se pśespytaś, dokulaž certifikat certifikatoweje awtority jo njepłaśiwy.
 cert-not-verified_algorithm-disabled = Toś ten certifikat njedajo se pśespytaś, dokulaž jo se ze signěrowańskim algoritmom signěrował, kótaryž jo se znjemóžnił, dokulaž algoritmus njejo wěsty.
 cert-not-verified-unknown = Toś ten certifikat njedajo se z njeznatych pśicynow pśespytaś.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Žeden klientowy certifikat pósłaś
 
 ## Add Security Exception dialog
 
