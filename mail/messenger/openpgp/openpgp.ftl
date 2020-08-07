@@ -431,6 +431,11 @@ revoke-key-not-present =
 revoke-key-already-revoked = Nøkkelen 0x{ $keyId } er allerede trukket tilbake.
 key-man-button-revoke-key = &Tilbakekall nøkkel
 openpgp-key-revoke-success = Nøkkel er tilbakekalt.
+after-revoke-info =
+    Nøkkelen er trukket tilbake.
+    Del denne offentlige nøkkelen igjen, ved å sende den via e-post, eller ved å laste den opp til nøkkelserverne, for å la andre få vite at du har tilbakekalt nøkkelen din.
+    Så snart programvaren som brukes av andre mennesker får vite om tilbakekallingen, vil den slutte å bruke den gamle nøkkelen.
+    Hvis du bruker en ny nøkkel for den samme e-postadressen, og du legger ved den nye offentlige nøkkelen til e-postmeldinger du sender, vil informasjon om den tilbakekalte gamle nøkkelen automatisk bli inkludert.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importer
 delete-key-title = Slett OpenPGP-nøkkel
@@ -439,6 +444,10 @@ delete-external-key-description = Vil du fjerne denne eksterne GnuPG nøkkel-ID-
 key-in-use-title = OpenPGP-nøkkel for tiden i bruk
 delete-key-in-use-description = Kan ikke fortsette! Nøkkelen du valgte for sletting, brukes for øyeblikket av denne identiteten. Velg en annen nøkkel, eller velg ingen, og prøv igjen.
 revoke-key-in-use-description = Kan ikke fortsette! Nøkkelen du valgte for tilbakekalling, brukes for øyeblikket av denne identiteten. Velg en annen nøkkel, eller velg ingen, og prøv igjen.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = E-postadressen «{ $keySpec }» kan ikke matches med en nøkkel på nøkkelringen.
+key-error-key-id-not-found = Den konfigurerte nøkkel-ID-en «{ $keySpec }» kan ikke finnes på nøkkelringen.
+key-error-not-accepted-as-personal = Du har ikke bekreftet at nøkkelen med ID «{ $keySpec }» er din personlige nøkkel.
 # Strings used in trust.jsm
 key-valid-unknown = ukjent
 key-valid-invalid = ugyldig
