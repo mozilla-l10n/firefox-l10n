@@ -315,6 +315,7 @@ import-from-clip = 您想要从剪贴板导入一些密钥吗？
 import-from-url = 请从下列 URL 下载公钥：
 copy-to-clipbrd-failed = 无法将选中的密钥复制到剪贴板。
 copy-to-clipbrd-ok = 已将密钥复制到剪贴板
+delete-mix = 警告：即将删除私钥！删除私钥后，将无法再解密使用该密钥加密的消息。您确定要删除“{ $userId }”的公钥与私钥吗？
 delete-pub-key = 您确定要删除公钥“{ $userId }”吗？
 delete-selected-pub-key = 您确定要删除公钥吗？
 refresh-all-question = 您没有选择任何密钥。要刷新所有密钥吗？
@@ -326,6 +327,7 @@ ascii-armor-file = ASCII 格式文件（*.asc）
 no-key-selected = 您需至少选择一个密钥，才能执行所选操作
 export-to-file = 将公钥导出为文件
 export-keypair-to-file = 将私钥和公钥导出为文件
+export-secret-key = 您要将私钥也包含在保存的 OpenPGP 密钥文件中吗？
 save-keys-ok = 成功保存密钥
 save-keys-failed = 密钥保存失败
 default-pub-key-filename = 导出的公钥
@@ -347,6 +349,7 @@ key-ring-pub-key-expired = 密钥 { $userId }（密钥 ID { $keyId }）已过期
 key-ring-key-disabled = 密钥 { $userId }（密钥 ID { $keyId }）已禁用，无法使用。
 key-ring-key-invalid = 密钥 { $userId }（密钥 ID { $keyId }）无效，请验证其是否正确。
 key-ring-key-not-trusted = 密钥 { $userId }（密钥 ID { $keyId }）信任度不足。请将您的密钥的信任度设为“完全信任”才能用于签名。
+key-ring-no-secret-key = 您的密钥环中似乎没有 { $userId }（密钥 ID { $keyId }）的私钥。无法使用该密钥进行签名。
 key-ring-pub-key-not-for-signing = 密钥 { $userId }（密钥 ID { $keyId }）无法用于签名。
 key-ring-pub-key-not-for-encryption = 密钥 { $userId }（密钥 ID { $keyId }）无法用于加密。
 key-ring-sign-sub-keys-revoked = 密钥 { $userId }（密钥 ID { $keyId }）的所有签名用子密钥已被吊销。
@@ -360,6 +363,8 @@ keyring-photo = 照片
 user-att-photo = 用户属性（JPEG 图像）
 # Strings in key.jsm
 already-revoked = 该密钥已被吊销。
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question = 即将吊销密钥“{ $identity }”。吊销后，将无法再使用此密钥进行签名。且在公布后，其他人也将无法再使用该密钥进行加密。您还是可以此密钥来解密旧消息。确定要继续吗？
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = 密钥  0x{ $keyId } 已被吊销。
 key-man-button-revoke-key = 吊销密钥(&R)
