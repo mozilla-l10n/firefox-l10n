@@ -245,6 +245,7 @@ import-info-no-keys = Nulle claves importate
 import-from-clip = Vole tu importar alcun claves ab area de transferentia?
 import-from-url = Discargar clave public ex iste URL:
 copy-to-clipbrd-ok = Clave(s) copiate in le area de transferentia
+key-man-button-export-pub-key = Exportar solo claves &public
 key-man-loading-keys = Cargamento claves, attende…
 save-keys-ok = Claves salvate con successo.
 save-keys-failed = Salvamento claves fallite!
