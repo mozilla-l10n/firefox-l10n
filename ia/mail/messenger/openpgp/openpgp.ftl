@@ -249,12 +249,21 @@ openpgp-keygen-external-success = ID clave GnuPG externe salvate!
 
 openpgp-radio-none =
     .label = Nulle
+openpgp-radio-none-desc = Non usa OpenPGP pro iste identitate.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Expira le: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Le clave expira in minus de 6 menses
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Expirate le: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Clave expirate
 openpgp-key-expand-section =
     .tooltiptext = Plus de informationes
 openpgp-key-revoke-title = Revocar le clave
 openpgp-key-edit-title = Cambiar claves OpenPGP
+openpgp-key-edit-date-title = Prorogar data de expiration
+openpgp-manager-description = Usa le Gestor de clave OpenPGP pro vider e gerer le claves public de tu correspondentes e tote le altere claves non in le lista de presentation supra.
 openpgp-manager-button =
     .label = Gestor de clave OpenPGP
     .accesskey = c
@@ -273,6 +282,10 @@ key-usage-sign = Signar
 key-usage-certify = Certificar
 key-usage-authentication = Authentication
 key-does-not-expire = Le clave non expira
+key-expired-date = Le clave ha expirate le { $keyExpiry }
+key-expired-simple = Le clave ha expirate
+key-revoked-simple = Le clave ha essite revocate
+key-do-you-accept = Accepta tu iste clave pro verificante firmas digital e pro cryptar messages?
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte de message cryptate
 # Strings in keyserver.jsm
