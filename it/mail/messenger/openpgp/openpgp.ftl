@@ -198,11 +198,21 @@ openpgp-acceptance-undecided-label =
 key-accept-personal =
     Per questa chiave, si possiede sia la parte pubblica che quella segreta. È possibile utilizzarla come chiave personale.
     Se questa chiave è stata fornita da qualcun altro, non utilizzarla come chiave personale.
+openpgp-personal-no-label =
+    .label = No, non utilizzarla come chiave personale.
 openpgp-copy-cmd-label =
     .label = Copia
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird non dispone di una chiave personale OpenPGP per <b>{ $identity }</b>
+        [one] Thunderbird ha trovato { $count } chiave personale OpenPGP associata a <b>{ $identity }</b>
+       *[other] Thunderbird ha trovato { $count } chiavi personali OpenPGP associate a <b>{ $identity }</b>
+    }
 openpgp-add-key-button =
     .label = Aggiungi chiave...
     .accesskey = A
