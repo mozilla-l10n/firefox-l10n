@@ -100,6 +100,29 @@ openpgp-import-key-button =
     .label = Selectează fișierul de importat…
     .accesskey = S
 import-key-file = Importă fișierul de cheie OpenPGP
+import-key-personal-checkbox =
+    .label = Tratează această cheie drept cheie personală
+gnupg-file = Fișiere GnuPG
+import-error-file-size = <b>Eroare!</b> Nu se acceptă fișiere mai mari de 5MB.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Eroare!</b> Importul fișierului a eșuat. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Eroare!</b> Importul cheilor a eșuat. { $error }
+openpgp-import-identity-label = Identitate
+openpgp-import-fingerprint-label = Amprentă
+openpgp-import-created-label = Create
+openpgp-import-bits-label = Biți
+openpgp-import-key-props =
+    .label = Proprietăți cheie
+    .accesskey = K
 
 ## External Key section
 
+openpgp-external-key-title = Cheie GnuPG externă
+openpgp-external-key-description = Configurează o cheie GnuPG externă prin introducerea ID-ului cheii
+openpgp-external-key-info = În plus, trebuie să folosești managerul de chei ca să imporți și să accepți cheia publică aferentă.
+openpgp-external-key-warning = <b>Poți configura numai o cheie GnuPG externă.</b> Datele introduse anterior vor fi înlocuite.
+openpgp-save-external-button = Salvează ID cheie
+openpgp-external-key-label = ID cheie secretă:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
