@@ -516,12 +516,25 @@ key-revoked = Nøkkel «{ $key }» tilbakekalt
 key-expired = Nøkkel «{ $key }» utløpt
 msg-compose-internal-error = En intern feil har oppstått.
 keys-to-export = Velg OpenPGP-nøkler du vil sette inn
+msg-compose-partially-encrypted-inlinePGP =
+    Meldingen du svarer på inneholder både ukrypterte og krypterte deler. Hvis avsenderen ikke kunne dekryptere noen meldingsdeler opprinnelig, kan det hende du lekker konfidensiell informasjon om at avsenderen ikke var i stand til å kunne dekryptere selv.
+    Vurder å fjerne all sitert tekst fra svaret til denne avsenderen.
 msg-compose-cannot-save-draft = Feil ved lagring av utkast
 msg-compose-partially-encrypted-short = Se opp for å lekke sensitiv informasjon - delvis kryptert e-post.
+quoted-printable-warn =
+    Du har slått på «quoted-printable»-koding for sending av meldinger. Dette kan føre til feil under dekryptering og/eller bekreftelse av meldingen.
+    Ønsker du å slå av å sende «quoted-printable»-meldinger nå?
 minimal-line-wrapping =
     Du har satt linjeskift til{ $width } tegn. For riktig kryptering og/eller signering, må denne verdien være minst 68.
     Ønsker du å endre linjeskiften til 68 tegn nå?
 sending-hidden-rcpt = BCC-mottakere (blindkopi) kan ikke brukes når du sender en kryptert melding. For å sende denne krypterte meldingen, fjern enten BCC-mottakerne eller flytt dem til CC-feltet.
+sending-news =
+    Kryptert sendingsoperasjon avbrutt.
+    Denne meldingen kan ikke krypteres fordi det er mottakere av temagrupper. Send meldingen på nytt uten kryptering.
+send-to-news-warning =
+    Advarsel: du er i ferd med å sende en kryptert e-post til en temagruppe.
+    Dette frarådes fordi det bare er fornuftig hvis alle medlemmene i gruppen kan dekryptere meldingen, dvs. meldingen må krypteres med nøkkelen til alle gruppedeltakerne. Send denne meldingen kun om du vet nøyaktig hva du gjør.
+    Fortsette?
 save-attachment-header = Lagre dekryptert vedlegg
 no-temp-dir =
     Kunne ikke finne en midlertidig katalog å skrive til
