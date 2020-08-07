@@ -223,6 +223,8 @@ openpgp-keygen-external-success = ID chiave esterna GnuPG salvato.
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Nessuna
 openpgp-radio-none-desc = Non utilizzare OpenPGP per questa identità.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Scade il: { $date }
@@ -332,11 +334,139 @@ delete-mix =
     ATTENZIONE: si sta cercando di eliminare delle chiavi segrete.
     Se si elimina la propria chiave segreta, non sarà più possibile decrittare i messaggi crittati con quella chiave.
     Si vuole veramente eliminare ENTRAMBE le chiavi (segreta e pubblica) per gli elementi selezionati?
+delete-pub-key =
+    Eliminare la chiave pubblica
+    “{ $userId }”?
+delete-selected-pub-key = Eliminare le chiavi pubbliche?
+refresh-all-question = Non è stata selezionata alcuna chiave. Aggiornare TUTTE le chiavi?
+key-man-loading-keys = Caricamento chiavi in corso, attendere...
+ascii-armor-file = File ASCII Armored (*.asc)
+no-key-selected = È necessario selezionare almeno una chiave per eseguire l’operazione scelta
+export-to-file = Esporta chiave pubblica in un file
+export-keypair-to-file = Esporta chiave segreta e pubblica in un file
+export-secret-key = Includere la chiave segreta nel file della chiave OpenPGP salvato?
+save-keys-ok = Le chiavi sono state salvate correttamente
+save-keys-failed = Salvataggio chiavi non riuscito
+preview-failed = Impossibile leggere il file della chiave pubblica.
+general-error = Errore: { $reason }
+dlg-button-delete = &Elimina
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Chiave pubblica esportata correttamente.</b>
+openpgp-export-public-fail = <b>Impossibile esportare la chiave pubblica selezionata.</b>
+openpgp-export-secret-success = <b>Chiave segreta esportata correttamente.</b>
+openpgp-export-secret-fail = <b>Impossibile esportare la chiave segreta selezionata.</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = La chiave { $userId } (ID chiave { $keyId }) è stata revocata.
+key-ring-pub-key-expired = La chiave { $userId } (ID chiave { $keyId }) è scaduta.
+key-ring-no-secret-key = Sembra che non si disponga della chiave segreta per { $userId } (ID chiave { $keyId }) nel proprio portachiavi; non è possibile utilizzare la chiave per firmare.
+key-ring-pub-key-not-for-signing = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per firmare.
+key-ring-pub-key-not-for-encryption = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per la crittografia.
+key-ring-sign-sub-keys-unusable = Tutte le sottochiavi per la firma della chiave { $userId } (ID chiave { $keyId }) sono revocate, scadute o altrimenti inutilizzabili.
+key-ring-enc-sub-keys-expired = Tutte le sottochiavi di crittografia della chiave { $userId } (ID chiave { $keyId }) sono scadute.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Attributo utente (immagine JPEG)
+# Strings in key.jsm
+already-revoked = Questa chiave è già stata revocata.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = La chiave 0x{ $keyId } è già stata revocata.
+openpgp-key-revoke-success = Chiave revocata correttamente.
+delete-key-title = Elimina chiave OpenPGP
+delete-external-key-description = Rimuovere questo ID chiave esterna GnuPG?
+key-in-use-title = Chiave OpenPGP attualmente in uso
+delete-key-in-use-description = Impossibile procedere. La chiave selezionata per l’eliminazione è attualmente utilizzata da questa identità. Selezionare una chiave diversa o non selezionarne alcuna e riprovare.
+revoke-key-in-use-description = Impossibile procedere. La chiave selezionata per la revoca è attualmente utilizzata da questa identità. Selezionare una chiave diversa o non selezionarne alcuna e riprovare.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = L’indirizzo email “{ $keySpec }” non può essere associato a una chiave del proprio portachiavi.
+key-error-key-id-not-found = L’ID chiave configurato “{ $keySpec }” non è stato trovato nel proprio portachiavi.
+key-error-not-accepted-as-personal = Non si è confermato che la chiave con ID “{ $keySpec }” è la propria chiave personale.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Impossibile trovare chiavi corrispondenti ai criteri di ricerca specificati.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Errore: comando di estrazione chiave non riuscito
+# Strings used in keyRing.jsm
+fail-cancel = Errore: ricezione chiave annullata dall’utente
+fail-key-import = Errore: importazione chiave non riuscita
+file-write-failed = Impossibile scrivere nel file { $output }
 # Strings used in trust.jsm
 key-valid-unknown = sconosciuta
 key-valid-invalid = non valida
 key-valid-disabled = disattivata
 key-valid-revoked = revocata
+key-valid-expired = scaduta
+key-trust-untrusted = non attendibile
+key-trust-marginal = marginale
+key-trust-full = attendibile
+key-trust-group = (gruppo)
+# Strings used in commonWorkflows.js
+import-key-file = Importa file chiave OpenPGP
+import-rev-file = Importa file di revoca OpenPGP
+gnupg-file = File GnuPG
+import-keys-failed = Importazione delle chiavi non riuscita
+revoke-cert-failed = Impossibile creare il certificato di revoca.
+gen-going = Generazione della chiave già in corso.
+expiry-too-short = La chiave deve essere valida per almeno un giorno.
+expiry-too-long = Non è possibile creare una chiave che scade tra più di 100 anni.
+key-confirm = Generare chiave pubblica e segreta per “{ $id }”?
+key-man-button-generate-key = &Genera chiave
+key-abort = Interrompere la generazione della chiave?
+key-man-button-generate-key-abort = &Interrompi generazione chiave
+key-man-button-generate-key-continue = &Continua generazione chiave
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Errore: decrittazione non riuscita
+fix-broken-exchange-msg-failed = Impossibile riparare il messaggio.
+attachment-no-match-to-signature = Impossibile associare l’allegato “{ $attachment }” a un file della firma
+signature-verified-ok = La firma per l’allegato { $attachment } è stata verificata correttamente
+signature-verify-failed = La firma per l’allegato { $attachment } non può essere verificata
+sending-hidden-rcpt = Quando si invia un messaggio crittato non è possibile utilizzare destinatari in Ccn (Copia conoscenza nascosta). Per inviare questo messaggio crittato, rimuovere i destinatari Ccn o spostarli nel campo Cc.
+sending-news =
+    Operazione di invio crittato interrotta.
+    Questo messaggio non può essere crittato perché sono presenti destinatari di un newsgroup. Si prega di inviare nuovamente il messaggio senza crittografia.
+send-to-news-warning =
+    Attenzione: si sta per inviare un’email crittata a un newsgroup.
+    Questo operazione è sconsigliata perché ha senso solo se tutti i membri del gruppo possono decrittare il messaggio, ovvero il messaggio deve essere crittato con le chiavi di tutti i partecipanti al gruppo. Inviare questo messaggio solo se si sa esattamente che cosa si sta facendo.
+    Continuare?
+save-attachment-header = Salva allegato decrittato
+no-temp-dir =
+    Impossibile trovare una directory temporanea in cui scrivere
+    Impostare la variabile di ambiente TEMP
+cannot-send-sig-because-no-own-key = Impossibile firmare digitalmente questo messaggio perché non è stata ancora configurata la crittografia end-to-end per <{ $key }>
+cannot-send-enc-because-no-own-key = Impossibile inviare questo messaggio crittato perché non è stata ancora configurata la crittografia end-to-end per <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importare le seguenti chiavi?
+    { $key }
+do-import-one = Importare { $name } ({ $id })?
+cant-import = Errore durante l’importazione della chiave pubblica
+key-in-message-body = È stata trovata una chiave nel corpo del messaggio. Fare clic su “Importa chiave” per importare la chiave
+sig-mismatch = Errore: mancata corrispondenza della firma
+invalid-email = Errore: indirizzo email non valido
+attachment-pgp-key =
+    L'allegato “{ $name }” che si sta aprendo sembra essere un file della chiave OpenPGP.
+    Fare clic su “Importa” per importare le chiavi contenute o su “Visualizza” per visualizzare il contenuto del file in una finestra del browser
+dlg-button-view = &Visualizza
+# Strings used in windows.jsm
+no-photo-available = Nessuna foto disponibile
+error-photo-path-not-readable = Il percorso della foto “{ $photo }” non è leggibile
+debug-log-title = Log di debug OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Questo avviso verrà ripetuto { $count }
+no-repeat = Questo avviso non verrà più visualizzato.
+dlg-keep-setting = Ricorda la risposta e non chiedere nuovamente
+dlg-button-ok = &OK
+dlg-button-close = &Chiudi
+dlg-button-cancel = &Annulla
+dlg-no-prompt = Non mostrare questa richiesta in futuro
+enig-prompt = Richiesta OpenPGP
+enig-confirm = Conferma OpenPGP
+enig-alert = Avviso OpenPGP
+enig-info = Informazioni OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Riprova
+dlg-button-skip = &Ignora
+# Strings used in enigmailCommon.js
+enig-error = Errore OpenPGP
+enig-alert-title =
+    .title = Avviso OpenPGP
