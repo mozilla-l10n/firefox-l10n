@@ -26,10 +26,19 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = ეს შეტყობინება ხელმოწერილია იმ გასაღებით, რომელიც თქვენ ჯერ არ გაქვთ.
 openpgp-search-signature-key =
     .label = მონახვა…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = ეს OpenPGP-წერილია, რომელიც, სავარაუდოდ MS-Exchange-ითაა დაზიანებული. თუ წერილის შიგთავსი არ გამოჩნდება სათანადოდ, შეგიძლიათ სცადოთ ავტომატური გასწორება.
 openpgp-broken-exchange-repair =
     .label = წერილის გასწორება
 openpgp-broken-exchange-wait = გთხოვთ, მოითმინოთ…
 openpgp-cannot-decrypt-because-missing-key = ამ წერილის გასაშიფრად საჭირო საიდუმლო გასაღები, მიუწვდომელია.
+openpgp-partially-signed =
+    ამ წერილის მხოლოდ ნაწილია ციფრულად ხელმოწერილი OpenPGP-ით.
+    თუ დააწკაპებთ დამოწმების ღილაკს, დაუცველი ნაწილი დაიმალება და ციფრული ხელმოწერის მდგომარეობა გამოჩნდება.
+openpgp-partially-encrypted =
+    ამ წერილის მხოლოდ ნაწილია დაშიფრული OpenPGP-ით.
+    წერილის ის არეები, რომლებიც იკითხება და უკვე ნაჩვენებია, დაუშიფრავია.
+    თუ დააწკაპებთ გაშიფვრის ღილაკს, დაშიფრული ნაწილიც გამოჩნდება.
 openpgp-reminder-partial-display = შეხსენება: ქვემოთ, სრული წერილის მხოლოდ ნაწილია ნაჩვენები.
 openpgp-partial-verify-button = დამოწმება
 openpgp-partial-decrypt-button = გაშიფვრა
