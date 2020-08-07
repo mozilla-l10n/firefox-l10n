@@ -440,3 +440,42 @@ delete-external-key-title = Elimină cheia externă GnuPG
 delete-external-key-description = Vrei să ștergi acest ID de cheie externă GnuPG?
 key-in-use-title = Cheie OpenPGP utilizată în prezent
 delete-key-in-use-description = Nu se poate continua! Cheia selectată pentru ștergere este utilizată în prezent de această identitate. Selectează o cheie diferită sau nu selecta niciuna și încearcă din nou.
+revoke-key-in-use-description = Nu se poate continua! Cheia selectată pentru revocare este utilizată în prezent de această identitate. Selectează o cheie diferită sau nu selecta niciuna și încearcă din nou.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Adresa de e-mail „{ $keySpec }” nu poate fi corelată cu o cheie din fișierul de chei.
+key-error-key-id-not-found = ID-ul cheii configurate „{ $keySpec }” nu se regăsește în fișierul de chei.
+key-error-not-accepted-as-personal = Nu ai confirmat cheia cu ID-ul „{ $keySpec }” drept cheie personală.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Funcția pe care ai selectat-o nu este disponibilă în modul offline. Treci în modul online și încearcă din nou.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Nu am găsit nicio cheie potrivită pentru criteriile de căutare specificate.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Eroare - Comanda de extragere a cheii a eșuat
+# Strings used in keyRing.jsm
+fail-cancel = Eroare - Recepția cheii a fost anulată de utilizator
+not-first-block = Eroare - Primul bloc OpenPGP nu este un bloc de chei publice
+import-key-confirm = Imporți cheia(cheile) înglobată(e) în mesaj?
+fail-key-import = Eroare - Importul cheii a eșuat
+file-write-failed = Nu s-a reușit scrierea în fișierul { $output }
+no-pgp-block = Eroare - Nu s-a găsit niciun bloc valid de date blindate OpenPGP
+# Strings used in trust.jsm
+key-valid-unknown = necunoscută
+key-valid-invalid = nevalidă
+key-valid-disabled = dezactivată
+key-valid-revoked = revocată
+key-valid-expired = expirată
+key-trust-untrusted = de neîncredere
+key-trust-marginal = marginală
+key-trust-full = de încredere
+key-trust-ultimate = absolută
+key-trust-group = (grupă)
+# Strings used in commonWorkflows.js
+import-key-file = Importă un fișier de chei OpenPGP
+import-rev-file = Importă un fișier de revocare OpenPGP
+gnupg-file = Fișiere GnuPG
+import-keys-failed = Importul cheilor a eșuat
+passphrase-prompt = Introdu parola de deblocare a cheii următoare: { $key }
+file-to-big-to-import = Fișierul este prea mare. Nu importa un set mare de chei deodată.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Creează și salvează certificatul de revocare
+revoke-cert-ok = Certificatul de revocare a fost creat cu succes. Îl poți folosi pentru invalidarea cheii tale publice, de ex., în cazul în care îți pierzi cheia secretă.
