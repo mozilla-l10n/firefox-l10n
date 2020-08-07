@@ -325,13 +325,26 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     Tu sequente claves expirara in minus de { $dies } dies:{ $desc }.
     Nos te consilia crear nove claves e configurar le contos correspondente pro usar los.
+expiry-key-missing-owner-trust =
+    Tu clave secrete { $desc } es carente de fide.
+    Nos te consilia configurar le "confidentia de certificationes" a "finite" in proprietates del clave.
+expiry-keys-missing-owner-trust =
+    Le sequente de tu claves secrete es carente de fide.
+    { $desc }.
+    Nos te consilia configurar le "confidentia de certificationes" a "finite" in proprietates del clave.
 expiry-open-key-manager = Aperir le gestor de clave OpenPGP
 expiry-open-key-properties = Aperir proprietates del clave
 # Strings filters.jsm
 filter-folder-required = Tu debe eliger un plica de destination.
+filter-decrypt-move-warn-experimental =
+    ATTENTION - le action del filtro "Decifrar permanentemente" pote ducer a destruer messages.
+    Nos consilia fortemente que tu prova primo le filtro "Crear copia decifrate", test le resultato accuratemente e comenciar a usar iste filtro solo un vice que tu es satisfacite del resultato.
 filter-term-pgpencrypted-label = Cryptate OpenPGP
 filter-key-required = Tu debe seliger un clave destinatario.
 filter-key-not-found = Impossibile trover un clave de cryptation pro '{ $desc }'.
+filter-warn-key-not-secret =
+    ATTENTION - le action del filtro "Cryptar al clave" replacia le destinatarios.
+    Si tu non ha le secreto clave secrete pro '{ $desc }' tu non potera plus leger le emails.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Decryptar permanentemente (OpenPGP)
 filter-decrypt-copy-label = Crear copia decryptate (OpenPGP)
