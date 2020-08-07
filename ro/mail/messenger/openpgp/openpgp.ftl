@@ -78,7 +78,7 @@ openpgp-key-man-import-from-url =
     .label = Importă chei din URL
     .accesskey = U
 openpgp-key-man-export-to-file =
-    .label = Exportă chei publice în fișier
+    .label = Exportă cheia(cheile) publică(e) în fișier
     .accesskey = E
 openpgp-key-man-send-keys =
     .label = Trimite chei publice prin e-mail
@@ -375,6 +375,28 @@ key-man-button-export-sec-key = Exportă chei &secrete
 key-man-button-export-pub-key = Exportă numai chei &publice
 key-man-button-refresh-all = &Reîmprospătează toate cheile
 key-man-loading-keys = Se încarcă cheile, te rugăm să aștepți...
+ascii-armor-file = Fișiere blindate ASCII (*.asc)
+no-key-selected = Trebuie să selectezi cel puțin o cheie ca să poți efectua operația selectată
+export-to-file = Exportă cheia publică într-un fișier
+export-keypair-to-file = Exportă cheia secretă și cheia publică într-un fișier
+export-secret-key = Vrei să incluzi cheia secretă în fișierul salvat de cheie OpenPGP?
+save-keys-ok = Cheile au fost salvate cu succes
+save-keys-failed = Salvarea cheilor a eșuat
+default-pub-key-filename = Chei publice exportate
+default-pub-sec-key-filename = Copie de siguranță cu chei secrete
+refresh-key-warn = Avertisment: În funcție de numărul de chei și viteza conexiunii, reîmprospătarea tuturor cheilor poate dura destul de mult!
+preview-failed = Fișierul de cheie publică nu poate fi citit.
+general-error = Eroare: { $reason }
+dlg-button-delete = &Șterge
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Cheie publică exportată cu succes!</b>
+openpgp-export-public-fail = <b>Cheia publică selectată nu a putut fi exportată!</b>
+openpgp-export-secret-success = <b>Cheia secretă a fost exportată cu succes!</b>
+openpgp-export-secret-fail = <b>Cheia secretă selectată nu a putut fi exportată!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Cheia { $userId } (ID cheie { $keyId }) este revocată.
+key-ring-pub-key-expired = Cheia { $userId } (ID cheie { $keyId }) a expirat.
+key-ring-key-disabled = Cheia { $userId } (ID cheie { $keyId }) este dezactivată; nu poate fi utilizată.
+key-ring-key-invalid = Cheia { $userId } (ID cheie { $keyId }) nu este validă. Încearcă să o verifici corect.
