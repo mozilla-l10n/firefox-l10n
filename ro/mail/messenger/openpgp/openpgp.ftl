@@ -68,7 +68,7 @@ openpgp-key-man-import-public-from-file =
     .label = Importă chei din fișier
     .accesskey = I
 openpgp-key-man-import-secret-from-file =
-    .label = Importă cheia/cheile secrete din fișier
+    .label = Importă chei secrete din fișier
 openpgp-key-man-import-sig-from-file =
     .label = Importă revocare/revocări din fișier
 openpgp-key-man-import-from-clipbrd =
@@ -77,6 +77,19 @@ openpgp-key-man-import-from-clipbrd =
 openpgp-key-man-import-from-url =
     .label = Importă chei din URL
     .accesskey = U
+openpgp-key-man-export-to-file =
+    .label = Exportă chei publice în fișier
+    .accesskey = E
+openpgp-key-man-send-keys =
+    .label = Trimite chei publice prin e-mail
+    .accesskey = S
+openpgp-key-man-backup-secret-keys =
+    .label = Fă o copie de rezervă cu cheile în fișier
+    .accesskey = B
+openpgp-key-man-discover-cmd =
+    .label = Caută chei online
+    .accesskey = D
+openpgp-key-man-discover-prompt = Pentru a căuta chei OpenPGP online, pe servere de chei sau folosind protocolul WKD, introdu o adresă de e-mail sau un ID de cheie.
 openpgp-key-man-discover-progress = Căutare în curs…
 openpgp-key-copy-key =
     .label = Copiază cheia publică
@@ -84,11 +97,14 @@ openpgp-key-copy-key =
 openpgp-key-export-key =
     .label = Exportă cheia publică într-un fișier
     .accesskey = E
+openpgp-key-backup-key =
+    .label = Fă o copie de rezervă cu cheia secretă în fișier
+    .accesskey = B
 openpgp-key-send-key =
     .label = Trimite cheia publică prin e-mail
     .accesskey = S
 openpgp-key-man-copy-to-clipbrd =
-    .label = Copiază cheia/cheile publice în clipboard
+    .label = Copiază chei publice în clipboard
     .accesskey = C
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportă cheile într-un fișier
@@ -96,11 +112,14 @@ openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Copiază cheile publice în clipboard
 openpgp-key-man-close =
     .label = Închide
+openpgp-key-man-reload =
+    .label = Reîncarcă cache-ul de chei
+    .accesskey = R
 openpgp-key-man-change-expiry =
     .label = Schimbă data de expirare
     .accesskey = E
 openpgp-key-man-del-key =
-    .label = Șterge cheia/cheile
+    .label = Șterge cheile
     .accesskey = D
 openpgp-delete-key =
     .label = Șterge cheia
@@ -114,6 +133,11 @@ openpgp-key-man-key-props =
 openpgp-key-man-key-more =
     .label = Mai multe
     .accesskey = M
+openpgp-key-man-view-photo =
+    .label = Fotografie de identificare
+    .accesskey = P
+openpgp-key-man-ctx-view-photo-label =
+    .label = Afișează fotografia de identificare
 openpgp-key-man-show-invalid-keys =
     .label = Afișează cheile nevalide
     .accesskey = D
@@ -151,6 +175,8 @@ openpgp-key-details-user-id2-label = Presupus proprietar al cheii
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Tip
+openpgp-key-details-key-part-label =
+    .label = Parte de cheie
 openpgp-key-details-algorithm-label =
     .label = Algoritm
 openpgp-key-details-size-label =
@@ -167,8 +193,11 @@ openpgp-key-details-fingerprint-label = Amprentă
 openpgp-key-details-sel-action =
     .label = Alege o acțiune...
     .accesskey = S
+openpgp-key-details-also-known-label = Identități alternative pretinse ale proprietarului cheii:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Închide
+openpgp-acceptance-label =
+    .label = Acceptare
 openpgp-acceptance-rejected-label =
     .label = Nu, respinge cheia.
 openpgp-acceptance-undecided-label =
@@ -180,6 +209,7 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     Pentru această cheie ai și partea publică, și partea secretă. O poți utiliza drept cheie personală.
     Dacă ți-a dat-o altcineva, nu o folosi drept cheie personală.
+key-personal-warning = Ai creat chiar tu această cheie și proprietarul afișat al cheii ești tu?
 openpgp-personal-no-label =
     .label = Nu, nu o folosi drept cheie personală.
 openpgp-personal-yes-label =
@@ -189,6 +219,22 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird nu are o cheie personală OpenPGP pentru <b>{ $identity }</b>
+        [one] Thunderbird a găsit { $count } cheie personală OpenPGP asociată cu <b>{ $identity }</b>
+        [few] Thunderbird a găsit { $count } chei personale OpenPGP asociate cu <b>{ $identity }</b>
+       *[other] Thunderbird a găsit { $count } de chei personale OpenPGP asociate cu <b>{ $identity }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Configurația ta curentă folosește cheia <b>{ $key }</b>, care a expirat.
+openpgp-add-key-button =
+    .label = Adaugă o cheie...
+    .accesskey = A
+e2e-learn-more = Află mai multe
+openpgp-keygen-success = Cheia OpenPGP a fost creată cu succes!
 
 ## OpenPGP Key selection area
 
