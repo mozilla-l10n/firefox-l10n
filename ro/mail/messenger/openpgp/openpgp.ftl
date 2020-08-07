@@ -415,3 +415,28 @@ keyring-photo = Fotografie
 user-att-photo = Atribut utilizator (imagine JPEG)
 # Strings in key.jsm
 already-revoked = Cheia a fost deja revocată.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Ești pe cale să revoci cheia '{ $identity }'.
+    Nu vei mai putea semna cu această cheie și, odată distribuită, alții nu vor mai putea cripta cu ea. O poți folosi în continuare la decriptarea mesajelor vechi.
+    Vrei să continui?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Nu ai nicio cheie (0x{ $keyId }) potrivit cu acest certificat de revocare!
+    Dacă ți-ai pierdut cheia, trebuie să o imporți (de ex., de pe un server de chei) înainte de a importa certificatul de revocare!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Cheia 0x{ $keyId } a fost deja revocată.
+key-man-button-revoke-key = &Revocă cheia
+openpgp-key-revoke-success = Cheia a fost revocată cu succes.
+after-revoke-info =
+    Cheia a fost revocată.
+    Partajează iar această cheie publică, trimițând-o prin e-mail sau încărcând-o pe serverele de chei, pentru a-i anunța pe ceilalți că ai revocat-o.
+    Imediat ce software-ul folosit de ceilalți găsește informația despre revocare, acesta va înceta să îți mai folosească cheia veche.
+    Dacă folosești o cheie nouă pentru aceeași adresă de e-mail și atașezi cheia publică nouă la mesajele pe care le trimiți prin e-mail, atunci informațiile despre cheia veche revocată vor fi incluse automat.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importă
+delete-key-title = Șterge cheia OpenPGP
+delete-external-key-title = Elimină cheia externă GnuPG
+delete-external-key-description = Vrei să ștergi acest ID de cheie externă GnuPG?
+key-in-use-title = Cheie OpenPGP utilizată în prezent
+delete-key-in-use-description = Nu se poate continua! Cheia selectată pentru ștergere este utilizată în prezent de această identitate. Selectează o cheie diferită sau nu selecta niciuna și încearcă din nou.
