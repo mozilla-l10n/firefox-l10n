@@ -380,11 +380,16 @@ openpgp-export-secret-fail = <b>Impossibile esportare la chiave segreta selezion
 key-ring-pub-key-revoked = La chiave { $userId } (ID chiave { $keyId }) è stata revocata.
 key-ring-pub-key-expired = La chiave { $userId } (ID chiave { $keyId }) è scaduta.
 key-ring-key-disabled = La chiave { $userId } (ID chiave { $keyId }) è stata disattivata e non può essere utilizzata.
+key-ring-key-invalid = La chiave { $userId } (ID chiave { $keyId }) non è valida. Si consiglia di verificarla correttamente.
 key-ring-no-secret-key = Sembra che non si disponga della chiave segreta per { $userId } (ID chiave { $keyId }) nel proprio portachiavi; non è possibile utilizzare la chiave per firmare.
 key-ring-pub-key-not-for-signing = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per firmare.
 key-ring-pub-key-not-for-encryption = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per la crittografia.
+key-ring-sign-sub-keys-revoked = Tutte le sottochiavi per la firma della chiave { $userId } (ID chiave { $keyId }) sono state revocate.
+key-ring-sign-sub-keys-expired = Tutte le sottochiavi per la firma della chiave { $userId } (ID chiave { $keyId }) sono scadute.
 key-ring-sign-sub-keys-unusable = Tutte le sottochiavi per la firma della chiave { $userId } (ID chiave { $keyId }) sono revocate, scadute o altrimenti inutilizzabili.
+key-ring-enc-sub-keys-revoked = Tutte le sottochiavi di crittografia della chiave { $userId } (ID chiave { $keyId }) sono state revocate.
 key-ring-enc-sub-keys-expired = Tutte le sottochiavi di crittografia della chiave { $userId } (ID chiave { $keyId }) sono scadute.
+key-ring-enc-sub-keys-unusable = Tutte le sottochiavi di crittografia della chiave { $userId } (ID chiave { $keyId }) sono revocate, scadute o inutilizzabili per altri motivi.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Attributo utente (immagine JPEG)
@@ -394,6 +399,7 @@ already-revoked = Questa chiave è già stata revocata.
 revoke-key-already-revoked = La chiave 0x{ $keyId } è già stata revocata.
 openpgp-key-revoke-success = Chiave revocata correttamente.
 delete-key-title = Elimina chiave OpenPGP
+delete-external-key-title = Rimozione chiave esterna GnuPG
 delete-external-key-description = Rimuovere questo ID chiave esterna GnuPG?
 key-in-use-title = Chiave OpenPGP attualmente in uso
 delete-key-in-use-description = Impossibile procedere. La chiave selezionata per l’eliminazione è attualmente utilizzata da questa identità. Selezionare una chiave diversa o non selezionarne alcuna e riprovare.
@@ -402,12 +408,15 @@ revoke-key-in-use-description = Impossibile procedere. La chiave selezionata per
 key-error-key-spec-not-found = L’indirizzo email “{ $keySpec }” non può essere associato a una chiave del proprio portachiavi.
 key-error-key-id-not-found = L’ID chiave configurato “{ $keySpec }” non è stato trovato nel proprio portachiavi.
 key-error-not-accepted-as-personal = Non si è confermato che la chiave con ID “{ $keySpec }” è la propria chiave personale.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = La funzione selezionata non è disponibile in modalità non in linea. Connettersi a Internet e riprovare.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Impossibile trovare chiavi corrispondenti ai criteri di ricerca specificati.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Errore: comando di estrazione chiave non riuscito
 # Strings used in keyRing.jsm
 fail-cancel = Errore: ricezione chiave annullata dall’utente
+import-key-confirm = Importare le chiavi pubbliche incluse nel messaggio?
 fail-key-import = Errore: importazione chiave non riuscita
 file-write-failed = Impossibile scrivere nel file { $output }
 # Strings used in trust.jsm
@@ -425,6 +434,7 @@ import-key-file = Importa file chiave OpenPGP
 import-rev-file = Importa file di revoca OpenPGP
 gnupg-file = File GnuPG
 import-keys-failed = Importazione delle chiavi non riuscita
+passphrase-prompt = Inserire la passphrase per sbloccare la seguente chiave: { $key }
 revoke-cert-failed = Impossibile creare il certificato di revoca.
 gen-going = Generazione della chiave già in corso.
 expiry-too-short = La chiave deve essere valida per almeno un giorno.
@@ -437,6 +447,7 @@ key-man-button-generate-key-continue = &Continua generazione chiave
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Errore: decrittazione non riuscita
 fix-broken-exchange-msg-failed = Impossibile riparare il messaggio.
+attachment-no-match-from-signature = Impossibile associare il file della firma “{ $attachment }” a un allegato
 attachment-no-match-to-signature = Impossibile associare l’allegato “{ $attachment }” a un file della firma
 signature-verified-ok = La firma per l’allegato { $attachment } è stata verificata correttamente
 signature-verify-failed = La firma per l’allegato { $attachment } non può essere verificata
@@ -467,12 +478,16 @@ attachment-pgp-key =
     L'allegato “{ $name }” che si sta aprendo sembra essere un file della chiave OpenPGP.
     Fare clic su “Importa” per importare le chiavi contenute o su “Visualizza” per visualizzare il contenuto del file in una finestra del browser
 dlg-button-view = &Visualizza
+# Strings used in encryption.jsm
+not-required = Errore: crittografia non richiesta
 # Strings used in windows.jsm
 no-photo-available = Nessuna foto disponibile
 error-photo-path-not-readable = Il percorso della foto “{ $photo }” non è leggibile
 debug-log-title = Log di debug OpenPGP
 # Strings used in dialog.jsm
 repeat-prefix = Questo avviso verrà ripetuto { $count }
+repeat-suffix-singular = altra volta.
+repeat-suffix-plural = altre volte.
 no-repeat = Questo avviso non verrà più visualizzato.
 dlg-keep-setting = Ricorda la risposta e non chiedere nuovamente
 dlg-button-ok = &OK
