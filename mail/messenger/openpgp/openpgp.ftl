@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Para enviar mensajes cifrados o firmados digitalmente, debe configurar una tecnología de cifrado, ya sea OpenPGP o S/MIME.
+e2e-intro-description-more = Seleccione su clave personal para habilitar el uso de OpenPGP o su certificado personal para habilitar el uso de S/MIME. Para una clave personal o certificado usted posee la clave secreta correspondiente.
 openpgp-key-user-id-label = Cuenta / ID de usuario
 openpgp-keygen-title-label =
     .title = Generar clave OpenPGP
@@ -32,6 +33,7 @@ openpgp-generate-key =
     .tooltiptext = Generar una nueva clave OpenPGP compatible para cifrar y/o firmar.
 openpgp-advanced-prefs-button-label =
     .label = Avanzadas…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">NOTA: La generación de clave puede tomar varios minutos para completarse.</a> No salga de la aplicación mientras la generación de clave esté en proceso. Navegar activamente o realizar operaciones de uso intensivo de disco mientras se genere la clave reaprovisionará el 'grupo de aleatoriedad' y acelerará el proceso. Aparecerá una alerta cuando se complete la generación de clave.
 openpgp-key-expiry-label =
     .label = Expiración
 openpgp-key-id-label =
@@ -80,6 +82,7 @@ openpgp-key-man-send-keys =
 openpgp-key-man-discover-cmd =
     .label = Descubrir claves en línea
     .accesskey = D
+openpgp-key-man-discover-prompt = Para descubrir claves OpenPGP en línea, en servidores de claves o utilizando el protocolo WKD, ingrese una dirección de correo electrónico o una ID de clave.
 openpgp-key-man-discover-progress = Buscando…
 openpgp-key-copy-key =
     .label = Copiar clave pública
@@ -174,8 +177,13 @@ openpgp-key-details-fingerprint-label = Huella digital
 openpgp-key-details-sel-action =
     .label = Seleccionar acción…
     .accesskey = S
+openpgp-key-details-also-known-label = Identidades alternativas presuntas del propietario de la clave:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Cerrar
+openpgp-acceptance-label =
+    .label = Aceptación
+openpgp-acceptance-rejected-label =
+    .label = No, rechazar esta clave.
 openpgp-copy-cmd-label =
     .label = Copiar
 
