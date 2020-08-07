@@ -22,14 +22,17 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "დაწვრილებით">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.accesskey "წ">
+
+
+<!ENTITY historyGroup.label                "ისტორია">
 
 <!ENTITY itemHistory.label                 "მონახულებული გვერდების ისტორია">
 <!ENTITY itemHistory.accesskey             "მ">
 <!ENTITY itemCookies.label                 "ფუნთუშები">
-<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCookies.accesskey             "თ">
 <!ENTITY itemCache.label                   "ბუფერი">
-<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemCache.accesskey               "უ">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
