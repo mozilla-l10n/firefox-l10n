@@ -390,7 +390,7 @@ key-man-button-generate-key-abort = &Avbryt nøkkelgenerering
 key-man-button-generate-key-continue = &Fortset nøkkelgenerering
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Feil - mislykka dekryptering
-fix-broken-exchange-msg-failed = Klarte ikkje å reparere melding.
+fix-broken-exchange-msg-failed = Klarte ikkje å reparere meldinga.
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Send melding
 msg-compose-details-button-label = Detaljar…
