@@ -347,11 +347,14 @@ save-keys-ok = Claves salvate con successo.
 save-keys-failed = Salvamento claves fallite!
 default-pub-key-filename = Claves-public-exportate
 default-pub-sec-key-filename = Reserva-de-claves-secrete
+preview-failed = Impossibile leger file clave public.
 general-error = Error: { $reason }
 dlg-button-delete = &Deler
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Clave public exportate con successo!</b>
+openpgp-export-secret-success = <b>Clave secrete exportate con successo!</b>
 # Strings in gnupg-keylist.jsm
 keyring-photo = Photo
 key-man-button-revoke-key = &Revocar clave
