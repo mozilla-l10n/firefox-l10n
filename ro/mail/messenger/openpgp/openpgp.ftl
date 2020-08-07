@@ -341,7 +341,7 @@ filter-warn-key-not-secret =
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Decriptează permanent (OpenPGP)
 filter-decrypt-copy-label = Creează copie decriptată (OpenPGP)
-filter-encrypt-label = Criptează cu cheie (OpenPGP)
+filter-encrypt-label = Criptează pentru cheie (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Succes! Cheia a fost importată
@@ -353,8 +353,28 @@ import-info-no-keys = Nu a fost importată nicio cheie.
 # Strings in enigmailKeyManager.js
 import-from-clip = Vrei să imporți chei din clipboard?
 import-from-url = Descarcă o cheie publică de la acest URL:
-copy-to-clipbrd-failed = Copierea în clipboard a cheilor selecate a eșuat.
+copy-to-clipbrd-failed = Cheia(cheile) selectată(e) nu a(u) putut fi copiată(e) în clipboard.
 copy-to-clipbrd-ok = Cheia(cheile) a(u) fost importată(e) în clipboard
+delete-secret-key =
+    AVERTISMENT: Ești pe cale să ștergi o cheie secretă!
+    
+    Dacă ștergi cheia secretă, nu vei mai putea decripta niciun mesaj criptat pentru cheia respectivă și nici nu o vei mai putea revoca.
+    
+    Sigur vrei să le ștergi pe AMBELE, și cheia secretă, și cheia publică
+    '{ $userId }'?
+delete-mix =
+    AVERTISMENT: Ești pe cale să ștergi chei secrete!
+    Dacă ștergi cheia secretă, nu vei mai putea decripta niciun mesaj criptat pentru cheia respectivă.
+    Sigur vrei să le ștergi pe AMBELE, și cheia secretă, și cheia publică?
+delete-pub-key =
+    Vrei să ștergi cheia publică
+    '{ $userId }'?
+delete-selected-pub-key = Vrei să ștergi cheile publice?
+refresh-all-question = Nu ai selectat nicio cheie. Vrei să reîmprospătezi TOATE cheile?
+key-man-button-export-sec-key = Exportă chei &secrete
+key-man-button-export-pub-key = Exportă numai chei &publice
+key-man-button-refresh-all = &Reîmprospătează toate cheile
+key-man-loading-keys = Se încarcă cheile, te rugăm să aștepți...
 
 ## Account settings export output
 
