@@ -103,6 +103,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = లింకుని ఇలా భద్రపరచు…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = లంకెను { -pocket-brand-name }కు భద్రపరుచు
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items

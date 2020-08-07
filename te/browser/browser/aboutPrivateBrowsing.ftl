@@ -24,6 +24,7 @@ about-private-browsing =
     .title = జాలంలో వెతకండి
 about-private-browsing-not-private = మీరు ప్రస్తుతం అంతరంగిక విండోలో లేరు.
 content-blocking-title = విషయ నిరోధం
+content-blocking-description = కొన్ని వెబ్‌సైట్లు అంతర్జాలంలో మీ కార్యకలాపాలను గమనించే ట్రాకర్లను వాడతాయి. అంతరంగిక కిటీకీలలో, మీ విహారణ అలవాట్ల గురించి సమాచారాన్ని సేకరించే అనేక ట్రాకర్లను { -brand-short-name } విషయ నిరోధం స్వయంచాలకంగా నిరోధిస్తుంది.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
