@@ -35,3 +35,5 @@ policy-InstallAddonsPermission = పొడగింతలను స్థాప�
 ##
 
 policy-Proxy = ప్రాక్సీ అమరికలను స్వరూపించండి.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = PKCS #11 మాడ్యూళ్ళను స్థాపించండి.
