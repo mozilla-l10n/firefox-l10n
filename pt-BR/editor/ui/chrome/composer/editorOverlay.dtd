@@ -169,7 +169,7 @@
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Lista">
 <!ENTITY formatlistMenu.accesskey "L">
-<!ENTITY noneCmd.label "Nenhuma">
+<!ENTITY noneCmd.label "Nenhum">
 <!ENTITY noneCmd.accesskey "N">
 <!ENTITY listBulletCmd.label "Com marcadores">
 <!ENTITY listBulletCmd.accesskey "C">
@@ -314,7 +314,6 @@
 <!ENTITY TextColorButton.tooltip "Escolher a cor do texto">
 <!ENTITY BackgroundColorButton.tooltip "Escolher cor para o fundo">
 <!ENTITY throbber.tooltip "Ir para a página inicial de &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Ir para a página inicial do &brandShortName;">
 <!ENTITY HighlightColorButton.label "Marca-texto">
 <!ENTITY HighlightColorButton.tooltip "Escolher cor para realçar o texto">
 
