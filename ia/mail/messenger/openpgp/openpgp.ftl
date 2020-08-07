@@ -289,20 +289,30 @@ key-do-you-accept = Accepta tu iste clave pro verificante firmas digital e pro c
 key-accept-warning = Evita acceptar un clave picaresc. Usa un canal de communication in ultra al email pro verificar le dactylogramma de clave de tu correspondente.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Impossibile inviar le message, perque il ha un problema con tu clave personal. { $problem }
+cannot-encrypt-because-missing = Impossibile inviar iste message con cryptographia end-to-end, perque il ha problemas con le claves del sequente destinatarios: { $problem }
+window-locked = Le fenestra de composition es blocate; invio cancellate
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte de message cryptate
+mime-decrypt-encrypted-part-concealed-data = Isto es un parte de message cryptate. Tu debe aperir lo in un fenestra separate cliccante sur le annexo.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Abortate
 keyserver-error-unknown = Un error incognite occurreva
+keyserver-error-server-error = Le servitor-de-clave ha signalate un error.
+keyserver-error-import-error = Falta a importar le clave discargate.
 keyserver-error-unavailable = Servitor-de-claves indisponibile
 keyserver-error-security-error = Le servitor non supporta accesso cryptate.
 keyserver-error-certificate-error = Le certificato del servitor-de-claves non es valide.
 keyserver-error-unsupported = Le servitor-de-claves non es disponibile.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Tu fornitor de servicios email ha processate tu requesta de cargar tu clave public in le directorio de clave web OpenPGP.
+    Confirma pro completar le publication de tu clave public.
 expiry-open-key-manager = Aperir le gestor de clave OpenPGP
 expiry-open-key-properties = Aperir proprietates del clave
 # Strings filters.jsm
 filter-folder-required = Tu debe eliger un plica de destination.
 filter-term-pgpencrypted-label = Cryptate OpenPGP
+filter-encrypt-label = Crypta tu clave (OpenPGP)
 import-info-bits = Bits
 import-info-created = Create
 import-info-fpr = Dactylogramma
