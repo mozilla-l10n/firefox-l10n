@@ -307,8 +307,17 @@ keyserver-error-unsupported = Le servitor-de-claves non es disponibile.
 wkd-message-body-req =
     Tu fornitor de servicios email ha processate tu requesta de cargar tu clave public in le directorio de clave web OpenPGP.
     Confirma pro completar le publication de tu clave public.
+wkd-message-body-process =
+    Isto es un email correlate al processo automatic pro cargar tu clave public in le directorio claves web OpenPGP.
+    Tu non debe prender ulle action manual a iste puncto.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Impossibile decifrar message con subjecto
+    { $subject }.
+    Vole tu reprobar con un differente phrase contrasigno o saltar le message?
 # Strings in gpg.jsm
 unknown-signing-alg = Algorithmo de signar incognite (ID: { $id })
+unknown-hash-alg = Incognite cryptographic hash (ID: { $id })
 expiry-open-key-manager = Aperir le gestor de clave OpenPGP
 expiry-open-key-properties = Aperir proprietates del clave
 # Strings filters.jsm
