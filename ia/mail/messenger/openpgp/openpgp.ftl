@@ -414,6 +414,9 @@ key-ring-no-secret-key = Tu non pare haber le clave secrete pro { $userId } (ID 
 key-ring-pub-key-not-for-signing = Le clave { $userId } (ID clave { $keyId }) non pote esser usate pro signar.
 key-ring-pub-key-not-for-encryption = Le clave { $userId } (ID clave { $keyId }) non pote esser usate pro cryptar.
 key-ring-sign-sub-keys-revoked = Tote le sub-claves-firma del clave { $userId } (ID clave { $keyId }) es expirate.
+key-ring-sign-sub-keys-expired = Tote le sub-claves-firma del clave { $userId } (ID clave { $keyId }) es expirate.
+key-ring-sign-sub-keys-unusable = Tote le sub-claves firma del clave { $userId } (ID clave { $keyId }) es revocate, expirate o alteremente inusabile.
+key-ring-enc-sub-keys-revoked = Tote le sub-claves-firma del clave { $userId } (ID clave { $keyId }) es revocate, expirate o alteremente inusabile.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Photo
 key-man-button-revoke-key = &Revocar clave
