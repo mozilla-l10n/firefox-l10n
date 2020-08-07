@@ -420,6 +420,11 @@ import-keys-failed = Importation de claves fallite!
 passphrase-prompt = Insere le phrase contrasigno que disbloca le sequente clave: { $key }
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear e salvar le certificato de revocation
+keygen-missing-user-name = Il ha nulle nomine specificate pro le conto/identitate seligite. Insere un valor in le campo · "Tu nomine" in le parametros del conto.
+expiry-too-short = Tu clave debe esser valide pro al minus un die.
+expiry-too-long = Tu non pote crea un clave que expira in plus de 100 annos.
+key-confirm = Generar clave public e secrete pro '{ $id }'?
+key-man-button-generate-key = &Generar clave
 key-abort = Abortar le generation del clave?
 key-man-button-generate-key-abort = &Abortar le generation del clave
 key-man-button-generate-key-continue = &Continuar le generation del clave
