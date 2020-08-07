@@ -71,9 +71,35 @@ openpgp-keygen-short-expiry = Cheia trebuie să fie valabilă pentru cel puțin 
 openpgp-keygen-ongoing = Generarea cheii este deja în curs!
 openpgp-keygen-error-core = Serviciul OpenPGP Core nu poate fi inițializat
 openpgp-keygen-error-failed = Generarea cheii OpenPGP a eșuat în mod neașteptat
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Cheia OpenPGP a fost creată cu succes, dar nu s-a reușit obținerea revocării pentru cheia { $key }
+openpgp-keygen-abort-title = Renunți la generarea cheii?
+openpgp-keygen-abort = Generare cheie OpenPGP în curs. Sigur vrei să o anulezi?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Generezi o cheie publică și secretă pentru { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Importă o cheie personală OpenPGP existentă
+openpgp-import-key-legend = Selectează un fișier de rezervă salvat anterior.
+openpgp-import-key-description = Poți importa chei personale create cu alte softuri OpenPGP.
+openpgp-import-key-info = Alte softuri pot descrie o cheie personală folosind termeni alternativi, precum cheie proprie, cheie secretă, cheie privată sau pereche de chei.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird a găsit o cheie pentru import.
+        [few] Thunderbird a găsit { $count } chei pentru import.
+       *[other] Thunderbird a găsit { $count } de chei pentru import.
+    }
+openpgp-import-key-list-description = Confirmă ce chei pot fi tratate drept cheile tale personale. Trebuie să folosești drept chei personale numai chei pe care le-ai creat chiar tu și care îți indică identitatea. Poți modifica această opțiune mai târziu, în fereastra de dialog Proprietăți cheie.
+openpgp-import-key-list-caption = Cheile marcate să fie tratate drept chei personale vor fi enumerate în secțiunea Criptare end-to-end. Celelalte vor fi disponibile în Managerul de chei.
+openpgp-passphrase-prompt-title = Necesită parolă
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Introdu parola pentru deblocarea cheii: { $key }
+openpgp-import-key-button =
+    .label = Selectează fișierul de importat…
+    .accesskey = S
+import-key-file = Importă fișierul de cheie OpenPGP
 
 ## External Key section
 
