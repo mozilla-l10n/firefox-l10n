@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Per inviare messaggi crittati o con firma digitale, configurare una tecnologia di crittografia OpenPGP o S/MIME.
+e2e-intro-description-more = Selezionare la propria chiave personale per utilizzare OpenPGP o il proprio certificato personale per utilizzare S/MIME. Per una chiave personale o un certificato si deve possedere la chiave segreta corrispondente.
 openpgp-key-user-id-label = Account/ID utente
 openpgp-keygen-title-label =
     .title = Genera chiave OpenPGP
@@ -187,6 +188,7 @@ openpgp-key-details-fingerprint-label = Impronta digitale
 openpgp-key-details-sel-action =
     .label = Seleziona azione...
     .accesskey = z
+openpgp-key-details-also-known-label = Presunte identità alternative del proprietario della chiave:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Chiudi
 openpgp-acceptance-label =
@@ -195,11 +197,18 @@ openpgp-acceptance-rejected-label =
     .label = No, rifiuta questa chiave.
 openpgp-acceptance-undecided-label =
     .label = Non ancora, forse più tardi.
+openpgp-acceptance-unverified-label =
+    .label = Sì, ma non ho ancora verificato che sia la chiave corretta.
+openpgp-acceptance-verified-label =
+    .label = Sì, ho verificato personalmente la correttezza dell’impronta digitale di questa chiave.
 key-accept-personal =
     Per questa chiave, si possiede sia la parte pubblica che quella segreta. È possibile utilizzarla come chiave personale.
     Se questa chiave è stata fornita da qualcun altro, non utilizzarla come chiave personale.
+key-personal-warning = Hai creato questa chiave personalmente e la chiave visualizzata è di tua proprietà?
 openpgp-personal-no-label =
     .label = No, non utilizzarla come chiave personale.
+openpgp-personal-yes-label =
+    .label = Sì, utilizza questa chiave come chiave personale.
 openpgp-copy-cmd-label =
     .label = Copia
 
@@ -213,6 +222,15 @@ openpgp-description =
         [one] Thunderbird ha trovato { $count } chiave personale OpenPGP associata a <b>{ $identity }</b>
        *[other] Thunderbird ha trovato { $count } chiavi personali OpenPGP associate a <b>{ $identity }</b>
     }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Selezionare una chiave valida per utilizzare il protocollo OpenPGP.
+       *[other] La configurazione attuale utilizza la chiave con ID <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = La configurazione attuale utilizza la chiave <b>{ $key }</b>, che è scaduta.
 openpgp-add-key-button =
     .label = Aggiungi chiave...
     .accesskey = A
@@ -347,6 +365,7 @@ export-keypair-to-file = Esporta chiave segreta e pubblica in un file
 export-secret-key = Includere la chiave segreta nel file della chiave OpenPGP salvato?
 save-keys-ok = Le chiavi sono state salvate correttamente
 save-keys-failed = Salvataggio chiavi non riuscito
+refresh-key-warn = Attenzione: a seconda del numero di chiavi e della velocità di connessione, l’aggiornamento di tutte le chiavi potrebbe richiedere molto tempo.
 preview-failed = Impossibile leggere il file della chiave pubblica.
 general-error = Errore: { $reason }
 dlg-button-delete = &Elimina
@@ -360,6 +379,7 @@ openpgp-export-secret-fail = <b>Impossibile esportare la chiave segreta selezion
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = La chiave { $userId } (ID chiave { $keyId }) è stata revocata.
 key-ring-pub-key-expired = La chiave { $userId } (ID chiave { $keyId }) è scaduta.
+key-ring-key-disabled = La chiave { $userId } (ID chiave { $keyId }) è stata disattivata e non può essere utilizzata.
 key-ring-no-secret-key = Sembra che non si disponga della chiave segreta per { $userId } (ID chiave { $keyId }) nel proprio portachiavi; non è possibile utilizzare la chiave per firmare.
 key-ring-pub-key-not-for-signing = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per firmare.
 key-ring-pub-key-not-for-encryption = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per la crittografia.
