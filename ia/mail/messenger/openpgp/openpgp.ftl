@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Pro inviar messages cifrate o signate digitalmente, tu debe configurar un technologia de cryptographia OpenPGP o S/MIME.
+e2e-intro-description-more = Elige tu clave personal pro activar le uso de OpenPGP o tu certificato personal pro activar le uso de S/MIME. Pro un clave personal o un certificato tu debe haber le correspondente clave secrete.
 openpgp-key-user-id-label = Count/ID usator
 openpgp-keygen-title-label =
     .title = Generar clave OpenPGP
@@ -151,9 +152,11 @@ openpgp-key-man-select-all =
     .label = Seliger tote le claves
     .accesskey = S
 openpgp-key-man-empty-tree-tooltip =
-    .label = Insere terminos de recerca in le cassa infra
+    .label = Insere terminos de recerca in le cassa supra
 openpgp-key-man-nothing-found-tooltip =
     .label = Nulle claves concorda tu terminos de recerca
+openpgp-key-man-please-wait-tooltip =
+    .label = Attende durante que le claves es cargate…
 openpgp-key-man-filter-label =
     .placeholder = Cercar claves
 openpgp-key-man-select-all-key =
@@ -190,6 +193,7 @@ openpgp-key-details-fingerprint-label = Dactylogramma
 openpgp-key-details-sel-action =
     .label = Eliger le action…
     .accesskey = E
+openpgp-key-details-also-known-label = Presumite identitates alternative del proprietario clave:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Clauder
 openpgp-acceptance-label =
