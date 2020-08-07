@@ -479,3 +479,17 @@ file-to-big-to-import = Fișierul este prea mare. Nu importa un set mare de chei
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Creează și salvează certificatul de revocare
 revoke-cert-ok = Certificatul de revocare a fost creat cu succes. Îl poți folosi pentru invalidarea cheii tale publice, de ex., în cazul în care îți pierzi cheia secretă.
+revoke-cert-failed = Certificatul de revocare nu a putut fi creat.
+gen-going = Generarea cheii este deja în derulare!
+keygen-missing-user-name = Nu există nicio denumire specificată pentru contul/identitatea selectat(ă). Introdu o valoare în câmpul  „Nume” din setările contului.
+expiry-too-short = Cheia trebuie să fie valabilă pentru cel puțin o zi.
+expiry-too-long = Nu poți crea o cheie care să expire în mai mult de 100 de ani.
+key-confirm = Generezi cheie publică și cheie secretă pentru „{ $id }”?
+key-man-button-generate-key = &Generează cheia
+key-abort = Abandonezi generarea cheilor?
+key-man-button-generate-key-abort = &Abandonează generarea cheilor
+key-man-button-generate-key-continue = &Continuă generarea cheilor
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Eroare - decriptarea a eșuat
+fix-broken-exchange-msg-failed = Repararea mesajului nu a reușit.
+attachment-no-match-from-signature = Fișierul de semnătură „{ $attachment }” nu a putut fi corelat la un atașament
