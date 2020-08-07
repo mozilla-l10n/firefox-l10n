@@ -291,6 +291,8 @@ popup-screen-sharing-never =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-disable-for-session =
+    .label = ఈ సెషనుకి పంచుకోలు రక్షణను అచేతనంచేయి
 
 ## DevTools F12 popup
 
