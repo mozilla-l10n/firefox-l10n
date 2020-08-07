@@ -16,3 +16,6 @@ all-tabs-menu-new-user-context =
     .label = Ak' texhlal txeyol kan tetz
 all-tabs-menu-hidden-tabs =
     .label = Texhlal uva' mujel kan
+all-tabs-menu-manage-user-context =
+    .label = Tilpu isuuchil unq'a txeyol tetze'
+    .accesskey = o
