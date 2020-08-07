@@ -103,6 +103,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = తక్కువ టైపు చేసి, ఎక్కువ కనుగొనండి: నేరుగా మీ చిరునామా పట్టీ నుండే { $engineName }‌లో వెతకండి.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -126,6 +127,8 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = మీరు ఈ వెబ్సైట్ కోసం నిరంతర నిల్వ నిరోధించారు.
 urlbar-popup-blocked =
     .tooltiptext = మీరు ఈ వెబ్‌సైటు యొక్క పాప్-అప్లను నిరోధించారు.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = ఈ వెబ్‌సైటులో ధ్వనితో స్వయంచాలకంగా ఆడే మాధ్యమాలను నిరోధించారు.
 urlbar-canvas-blocked =
     .tooltiptext = ఈ వెబ్‌సైటుని కాన్వాస్ డేటా వెలికితీయకుండా మీరు నిరోధించారు.
 urlbar-midi-blocked =
