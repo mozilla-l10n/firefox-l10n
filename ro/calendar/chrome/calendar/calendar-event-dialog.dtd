@@ -155,9 +155,9 @@
 
 <!ENTITY event.invite.attendees.label                     "Invită participanți…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
-<!ENTITY event.email.attendees.label                      "Compune un mesaj de e-mail către toți participanții…">
+<!ENTITY event.email.attendees.label                      "Scrie un mesaj de e-mail către toți participanții…">
 <!ENTITY event.email.attendees.accesskey                  "a">
-<!ENTITY event.email.tentative.attendees.label            "Compune un mesaj de e-mail către participanții indeciși…">
+<!ENTITY event.email.tentative.attendees.label            "Scrie un mesaj de e-mail către participanții indeciși…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
 <!ENTITY event.remove.attendees.label2                    "Elimină toți participanții">
 <!ENTITY event.remove.attendees.accesskey                 "r">
