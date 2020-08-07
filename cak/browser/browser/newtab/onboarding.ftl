@@ -86,6 +86,30 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Tichinäx kan ri rutzub'al samajel
+        aq'inoj pa taq pitz'b'äl, taq k'utsamaj chuqa' taq ruwi'.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Tokisäx jun saqsöj tzub'al pa taq pitz'b'äl,
+        taq k'utsamaj chuqa' pa taq ruwi'.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Tokisäx jun q'equm tzub'al pa taq pitz'b'äl,
+        taq k'utsamaj chuqa' pa taq ruwi'.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Tokisäx jeb'ejöj tzub'al pa taq pitz'b'äl,
+        taq k'utsamaj chuqa' pa taq ruwi'.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 

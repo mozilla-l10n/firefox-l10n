@@ -207,6 +207,10 @@ search-one-offs-engine-with-alias =
 
 search-one-offs-bookmarks =
     .tooltiptext = Taq yaketal ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Taq ruwi' ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Natab'äl ({ $restrict })
 
 ## Bookmark Panel
 
