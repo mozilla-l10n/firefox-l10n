@@ -315,6 +315,10 @@ expiry-open-key-properties = Aperir proprietates del clave
 filter-folder-required = Tu debe eliger un plica de destination.
 filter-term-pgpencrypted-label = Cryptate OpenPGP
 filter-key-required = Tu debe seliger un clave destinatario.
+filter-key-not-found = Impossibile trover un clave de cryptation pro '{ $desc }'.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Decryptar permanentemente (OpenPGP)
+filter-decrypt-copy-label = Crear copia decryptate (OpenPGP)
 filter-encrypt-label = Crypta tu clave (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
@@ -327,12 +331,22 @@ import-info-no-keys = Nulle claves importate
 import-from-clip = Vole tu importar alcun claves ab area de transferentia?
 import-from-url = Discargar clave public ex iste URL:
 copy-to-clipbrd-ok = Clave(s) copiate in le area de transferentia
+delete-pub-key =
+    Vole tu deler le clave public
+    '{ $userId }'?
+delete-selected-pub-key =
+    Vole tu deler le claves public
+    '{ $userId }'?
+refresh-all-question = Tu non ha seligite ulle clave. Desira tu refrescar tote le claves?
+key-man-button-export-sec-key = Exportar claves &Secrete
 key-man-button-export-pub-key = Exportar solo claves &public
 key-man-loading-keys = Cargamento claves, attende…
 export-to-file = Exportar un clave public a file
 export-keypair-to-file = Exportar clave secrete e public a file
 save-keys-ok = Claves salvate con successo.
 save-keys-failed = Salvamento claves fallite!
+default-pub-key-filename = Claves-public-exportate
+default-pub-sec-key-filename = Reserva-de-claves-secrete
 general-error = Error: { $reason }
 dlg-button-delete = &Deler
 
