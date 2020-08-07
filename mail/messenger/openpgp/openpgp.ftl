@@ -316,12 +316,15 @@ expiry-open-key-manager = 打开 OpenPGP 密钥管理器
 expiry-open-key-properties = 打开密钥属性
 # Strings filters.jsm
 filter-folder-required = 必须选择一个目标文件夹。
+filter-decrypt-move-warn-experimental = 警告：过滤器操作“永久解密”可能会损坏消息。我们强烈建议您先行使用“创建解密副本”过滤器，仔细测试结果，确认无误后再使用此过滤器。
 filter-term-pgpencrypted-label = OpenPGP 加密
 filter-key-required = 必须选择一个接收人密钥。
 filter-key-not-found = 找不到“{ $desc }”的加密密钥。
+filter-warn-key-not-secret = 警告：过滤器操作“使用密钥加密”会替换收件人。若您没有“{ $desc }”的私钥，将无法阅读邮件。
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = 永久解密（OpenPGP）
 filter-decrypt-copy-label = 创建解密的副本（OpenPGP）
+filter-encrypt-label = 使用密钥加密（OpenPGP）
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = 成功！已导入密钥
@@ -386,6 +389,8 @@ user-att-photo = 用户属性（JPEG 图像）
 already-revoked = 该密钥已被吊销。
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question = 即将吊销密钥“{ $identity }”。吊销后，将无法再使用此密钥进行签名。且在公布后，其他人也将无法再使用该密钥进行加密。您还是可以此密钥来解密旧消息。确定要继续吗？
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present = 您没有与此吊销证书匹配的密钥（0x{ $keyId }）！若您弄丢密钥，则须重新导入密钥（例如从密钥服务器）才能导入吊销证书！
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = 密钥  0x{ $keyId } 已被吊销。
 key-man-button-revoke-key = 吊销密钥(&R)
