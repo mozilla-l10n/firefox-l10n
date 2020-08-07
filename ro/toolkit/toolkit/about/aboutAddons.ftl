@@ -407,6 +407,8 @@ addon-detail-version-label = Versiune
 addon-detail-last-updated-label = Ultima actualizare
 addon-detail-homepage-label = Pagină de start
 addon-detail-rating-label = Evaluare
+# Message for add-ons with a staged pending update.
+install-postponed-message = Această extensie va fi actualizată la repornirea { -brand-short-name }.
 install-postponed-button = Actualizează acum
 # The average rating that the add-on has received.
 # Variables:
