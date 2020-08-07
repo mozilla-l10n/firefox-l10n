@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Азырақ теріп, көбірек табыңыз: { $engineName } қызметінен тура адрестік жолақтан іздеңіз.
 urlbar-search-tips-redirect-2 = { $engineName } және шолу тарихы ұсыныстарын көру үшін, іздеуді адрестік жолағында бастаңыз.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Бетбелгілер
+urlbar-search-mode-tabs = Беттер
+urlbar-search-mode-history = Тарих
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,26 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Жекелік терезелері үшін негізгі іздеу жүйесі ретінде орнату
     .accesskey = р
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Бетбелгілер ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Беттер ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Тарих ({ $restrict })
 
 ## Bookmark Panel
 

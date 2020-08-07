@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Сертификат верификацияс
 cert-not-verified-ca-invalid = Сертификат верификациясы мүмкін емес - орталықтың сертификаты жарамсыз.
 cert-not-verified_algorithm-disabled = Бұл сертификатты растау мүмкін емес, өйткені оған қауіпсіз емес болғаны үшін сөндірілген алгоритмімен қолтаңба қойылған.
 cert-not-verified-unknown = Сертификат верификациясы белгісіз себептерден мүмкін емес.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Клиент сертификатын жібермеу
 
 ## Add Security Exception dialog
 
