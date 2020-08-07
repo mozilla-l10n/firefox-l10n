@@ -504,8 +504,34 @@ decrypt-ok-no-sig =
     Advarsel
     Dekryptering var vellykket, men signaturen kunne ikke bekreftes riktig
 msg-ovl-button-cont-anyway = &Fortsett likevell
+enig-content-note = *Vedlegg til denne meldingen er ikke signert eller kryptert*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Send melding
 msg-compose-details-button-label = Detaljer…
 msg-compose-details-button-access-key = D
+send-aborted = Sendingsoperasjonen avbrutt.
+key-not-trusted = Ikke nok tillit til nøkkelen «{ $key }»
+key-not-found = Nøkkel «{ $key }» ikke funnet
+key-revoked = Nøkkel «{ $key }» tilbakekalt
+key-expired = Nøkkel «{ $key }» utløpt
+msg-compose-internal-error = En intern feil har oppstått.
+keys-to-export = Velg OpenPGP-nøkler du vil sette inn
+msg-compose-cannot-save-draft = Feil ved lagring av utkast
+msg-compose-partially-encrypted-short = Se opp for å lekke sensitiv informasjon - delvis kryptert e-post.
+save-attachment-header = Lagre dekryptert vedlegg
+no-temp-dir =
+    Kunne ikke finne en midlertidig katalog å skrive til
+    Angi TEMP-miljøvariabelen
+possibly-pgp-mime = Mulig PGP-/MIME-kryptert eller signert melding; bruk «Dekrypter/verifiser» -funksjonen for å bekrefte
+cannot-send-sig-because-no-own-key = Kan ikke signere denne meldingen digitalt, fordi du ennå ikke har konfigurert ende-til-ende-kryptering for <{ $key }>
+cannot-send-enc-because-no-own-key = Kan ikke sende denne meldingen kryptert, fordi du ennå ikke har konfigurert ende-til-ende-kryptering for <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importere følgende nøkler?
+    { $key }
+do-import-one = Importere { $name } ({ $id })?
+cant-import = Feil ved import av offentlig nøkkel
+unverified-reply = Innrykket meldingsdel (svar) ble trolig endret
 key-in-message-body = En nøkkel ble funnet i meldingen. Klikk «Importer nøkkel» for å importere nøkkelen
 sig-mismatch = Feil - signaturen samsvarer ikke
 invalid-email = Feil - ugyldige e-postadresser
