@@ -219,6 +219,24 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird non ha un clave openpgp personal pro <b>{ $identity }</b>
+        [one] Thunderbird ha trovate { $count } clave personal OpenPGP associate con <b>{ $identity }</b>
+       *[other] Thunderbird ha trovate { $count } claves personal OpenPGP associate con <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Eliger un clave valide pro activar le protocollo OpenPGP.
+        [one] Tu actual configuration usa ID clave <b>{ $key }</b>
+       *[other] Tu actual configuration usa ID clave <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Tu actual configuration usa le ID clave <b>{ $key }</b>, que es expirate.
 openpgp-add-key-button =
     .label = Adder clave…
     .accesskey = A
