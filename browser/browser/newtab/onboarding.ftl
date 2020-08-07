@@ -176,7 +176,7 @@ onboarding-ghostery-text = Surf raskere, smartere eller sikrere med utvidelser s
 onboarding-fxa-title = Synkroniser
 onboarding-fxa-text = Registrer deg for et { -fxaccount-brand-name } og synkroniser dine bokmerker, passord og åpne faner overalt hvor du bruker { -brand-short-name }.
 onboarding-tracking-protection-title2 = Beskyttelse mot sporing
-onboarding-tracking-protection-text2 = { -brand-short-name } bidrar til å stoppe nettsteder fra å spore deg på nettet, noe som gjør det vanskeligere for reklame å følge deg rundt på nettet.
+onboarding-tracking-protection-text2 = { -brand-short-name } bidrar til å stoppe nettsteder fra å spore deg på nettet, noe som gjør det vanskeligere for reklame å spore aktivitetene dine på nettet.
 onboarding-tracking-protection-button2 = Hvordan det virker
 onboarding-data-sync-title = Ta med deg innstillingene dine
 # "Sync" is short for synchronize.
