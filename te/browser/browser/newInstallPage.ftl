@@ -19,4 +19,5 @@ sync-input =
     .placeholder = ఈమెయిలు
 sync-button = కొనసాగించు
 sync-terms = కొనసాగడం ద్వారా, మీరు <a data-l10n-name="terms"></a>సేవా నిబంధనలు</a>, <a data-l10n-name="privacy"> గోప్యతా నోటీసు </a>లకు అంగీకరిస్తున్నారు.
+sync-first = { -sync-brand-name }‌ని వాడటం మొదటిసారా? మీ సమాచారాన్ని సింక్రనించుకోడానికి మీ ప్రతీ Firefox లోనూ ప్రవేశించివుండాలి.
 sync-learn = ఇంకా తెలుసుకోండి
