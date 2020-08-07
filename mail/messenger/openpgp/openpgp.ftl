@@ -2,9 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = Pentru a transmite mesaje criptate sau semnate digital, trebuie să configurezi o tehnologie de criptare, fie OpenPGP, fie S/MIME.
+e2e-intro-description-more = Selectează cheia personală pentru a permite utilizarea OpenPGP sau certificatul personal pentru a permite utilizarea S/MIME. Pentru cheile personale sau certificate ai cheia secretă corespunzătoare.
+openpgp-key-user-id-label = Cont / ID utilizator
+openpgp-keygen-title-label =
+    .title = Generează cheia OpenPGP
 openpgp-cancel-key =
     .label = Renunță
     .tooltiptext = Renunță la generarea cheii
+openpgp-key-gen-expiry-title =
+    .label = Data de expirare a cheii
 openpgp-key-gen-expire-label = Cheia expiră în
 openpgp-key-gen-days-label =
     .label = zile
@@ -128,6 +135,7 @@ openpgp-key-details-structure-tab =
     .label = Structură
 openpgp-key-details-uid-certified-col =
     .label = ID utilizator / certificat de
+openpgp-key-details-user-id2-label = Presupus proprietar al cheii
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Tip
@@ -162,6 +170,10 @@ key-accept-personal =
     Dacă ți-a dat-o altcineva, nu o folosi drept cheie personală.
 openpgp-personal-no-label =
     .label = Nu, nu o folosi drept cheie personală.
+openpgp-personal-yes-label =
+    .label = Da, tratează această cheie drept cheie personală.
+openpgp-copy-cmd-label =
+    .label = Copiază
 
 ## e2e encryption settings
 
