@@ -456,6 +456,11 @@ no-key-found = Vi kunne ikke finne noen nøkkel som samsvarer med de spesifisert
 fail-key-extract = Feil - nøkkelekstraksjonskommandoen mislyktes
 # Strings used in keyRing.jsm
 fail-cancel = Feil - Mottak av nøkkel avbrutt av bruker
+not-first-block = Feil - Første OpenPGP-blokk ikke offentlig nøkkelblokk
+import-key-confirm = Vil du importere den offentlige nøkkelen innebygd i meldingen?
+fail-key-import = Feil - import av nøkkel mislyktes
+file-write-failed = Kunne ikke skrive til filen { $output }
+no-pgp-block = Feil - Ingen gyldig, armert OpenPGP-datablokk funnet
 # Strings used in trust.jsm
 key-valid-unknown = ukjent
 key-valid-invalid = ugyldig
@@ -473,3 +478,37 @@ import-rev-file = Importer OpenPGP-tilbakekallingsfil
 gnupg-file = GnuPG-filer
 import-keys-failed = Import av nøklene mislyktes
 passphrase-prompt = Skriv inn passordfrasen som låser opp følgende nøkkel: { $key }
+file-to-big-to-import = Denne filen er for stor. Ikke importer et stort sett med nøkler på en gang.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Opprett og lagre tilbakekallingssertifikat
+revoke-cert-ok = Tilbakekallingssertifikatet er opprettet. Du kan bruke den til å ugyldiggjøre den offentlige nøkkelen, f.eks. i tilfelle du mister den hemmelige nøkkelen.
+revoke-cert-failed = Tilbakekallingssertifikatet kunne ikke opprettes.
+gen-going = Nøkkelgenerering er allerede i gang!
+keygen-missing-user-name = Det er ikke angitt noe navn for den valgte kontoen/identiteten. Skriv inn en verdi i feltet «Ditt navn» i kontoinnstillingene.
+expiry-too-short = Nøkkelen din må være gyldig i minst en dag.
+expiry-too-long = Du kan ikke opprette en nøkkel som går ut senere enn 100 år.
+key-confirm = Generer en offentlig og hemmelig nøkkel for «{ $id }»?
+key-man-button-generate-key = &Generer nøkkel
+key-abort = Avbryte nøkkelgenerering?
+key-man-button-generate-key-abort = &Avbryte nøkkelgenerering?
+key-man-button-generate-key-continue = &Fortsett nøkkelgenerering
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Feil - dekryptering mislyktes
+fix-broken-exchange-msg-failed = Klarte ikke å reparere meldingen.
+msg-ovl-button-cont-anyway = &Fortsett likevell
+msg-compose-details-button-label = Detaljer…
+msg-compose-details-button-access-key = D
+dlg-button-ok = &OK
+dlg-button-close = &Lukk
+dlg-button-cancel = &Avbryt
+dlg-no-prompt = Ikke vis denne dialogen igjen.
+enig-confirm = OpenPGP-bekreftelse
+enig-alert = OpenPGP-varsel
+enig-info = OpenPGP-informasjon
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Prøv igjen
+dlg-button-skip = &Hopp over
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP-feil
+enig-alert-title =
+    .title = OpenPGP-varsel
