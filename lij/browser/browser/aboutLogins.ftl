@@ -61,6 +61,7 @@ about-logins-list-item-breach-icon =
 
 ## Login
 
+login-item-username-label = Nomme utente
 about-logins-login-item-username =
     .placeholder = (nisciun nomme utente)
 login-item-copy-username-button-text = Còpia
@@ -89,6 +90,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## Master Password notification
 
 master-password-notification-message = Scrivi a teu poula segreta prinçipâ pe amiâ i login e poule segrete sarvæ
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = Intra
     .accesskey = I
@@ -139,3 +143,6 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Schedaio CSV
     }
+
+## Login Import Dialog
+
