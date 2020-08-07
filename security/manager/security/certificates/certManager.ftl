@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Nu se poate verifica acest certificat deoarec
 cert-not-verified-ca-invalid = Nu se poate verifica acest certificat deoarece certificatul AC este nevalid.
 cert-not-verified_algorithm-disabled = Nu am putut verifica acest certificat pentru că a fost semnat utilizând un algoritm de semnare care a fost dezactivat pentru că algoritmul nu este securizat.
 cert-not-verified-unknown = Nu se poate verifica acest certificat din motive necunoscute.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Nu trimite niciun certificat de client
 
 ## Add Security Exception dialog
 
