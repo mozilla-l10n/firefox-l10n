@@ -46,3 +46,19 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provare a
 inactive-css-not-display-block-on-floated-fix = Provare a rimuovere <strong>float</strong> o aggiungere <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Provare a impostare per la proprietà <strong>position</strong> un valore diverso da <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Provare ad aggiungere <strong>overflow:hidden</strong>. { learn-more }
+
+## In the Rule View when a CSS property may have compatibility issues with other browsers
+## we display an icon. When this icon is hovered this message is displayed to explain why
+## the property is incompatible and the platforms it is incompatible on.
+## Variables:
+##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
+##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
+
+css-compatibility-default-message = <strong>{ $property }</strong> non è supportato nei seguenti browser:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> era una proprietà sperimentale che è attualmente deprecata dagli standard W3C. Non è supportata nei seguenti browser:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> era una proprietà sperimentale che è attualmente deprecata dagli standard W3C.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> è deprecato dagli standard W3C. Non è supportato nei seguenti browser:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> è deprecato dagli standard W3C.
+css-compatibility-experimental-message = <strong>{ $property }</strong> è una proprietà sperimentale. Non è supportata nei seguenti browser:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> è una proprietà sperimentale.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Ulteriori informazioni</span> su <strong>{ $rootProperty }</strong>
