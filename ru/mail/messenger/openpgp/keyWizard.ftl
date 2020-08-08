@@ -93,6 +93,36 @@ openpgp-import-key-list-amount =
     }
 openpgp-import-key-list-description = Подтвердите, какие ключи могут рассматриваться в качестве ваших личных ключей. В качестве личных ключей должны использоваться только ключи, которые вы создали сами и которые идентифицируют вашу личность. Вы можете изменить эту настройку позже в диалоговом окне Свойства ключа.
 openpgp-import-key-list-caption = Ключи, помеченные как Личные, будут перечислены в разделе Сквозное шифрование. Другие будут доступны в Менеджере ключей.
+openpgp-passphrase-prompt-title = Требуется парольная фраза
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Введите, пожалуйста, парольную фразу, чтобы разблокировать следующий ключ: { $key }
+openpgp-import-key-button =
+    .label = Выбор файла для импорта…
+    .accesskey = ы
+import-key-file = Импорт файла ключа OpenPGP
+import-key-personal-checkbox =
+    .label = Рассматривать этот ключ в качестве Личного ключа
+gnupg-file = Файлы GnuPG
+import-error-file-size = <b>Ошибка!</b> Файлы размером более 5МБ не поддерживаются.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Ошибка!</b> Не удалось импортировать файл. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Ошибка!</b> Не удалось импортировать ключи. { $error }
+openpgp-import-identity-label = Личность
+openpgp-import-fingerprint-label = Отпечаток
+openpgp-import-created-label = Создан
+openpgp-import-bits-label = Биты
+openpgp-import-key-props =
+    .label = Свойства ключа
+    .accesskey = в
 
 ## External Key section
 
+openpgp-external-key-title = Внешний ключ GnuPG
+openpgp-external-key-description = Настройте внешний ключ GnuPG, введя идентификатор ключа
+openpgp-external-key-info = Кроме того, вы должны использовать Менеджер ключей для импорта и принятия соответствующего открытого ключа.
+openpgp-external-key-warning = <b>Вы можете настроить только один внешний ключ GnuPG.</b> Ваша предыдущая запись будет заменена.
+openpgp-save-external-button = Сохранить идентификатор ключа
+openpgp-external-key-label = Идентификатор секретного ключа:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
