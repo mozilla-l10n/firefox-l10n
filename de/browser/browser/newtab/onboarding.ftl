@@ -52,9 +52,16 @@ onboarding-multistage-welcome-secondary-button-label = Anmelden
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importieren Sie Ihre Passwörter, Lesezeichen und <span data-l10n-name="zap">mehr</span>
 onboarding-multistage-import-secondary-button-label = Jetzt nicht
+onboarding-multistage-theme-primary-button-label = Theme speichern
 onboarding-multistage-theme-secondary-button-label = Jetzt nicht
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatisch
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = System-Theme verwenden
 onboarding-multistage-theme-label-light = Hell
 onboarding-multistage-theme-label-dark = Dunkel
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
