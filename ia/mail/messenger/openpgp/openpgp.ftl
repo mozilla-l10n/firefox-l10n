@@ -516,13 +516,16 @@ msg-compose-button-send = Inviar message (&Send)
 msg-compose-details-button-label = Detalios…
 msg-compose-details-button-access-key = D
 send-aborted = Invio abortate.
+key-not-trusted = Insufficiente fide pro le clave '{ $key }'
 key-not-found = Clave '{ $key }' non trovate
 key-revoked = Clave '{ $key }' revocate
 key-expired = Clave '{ $key }' expirate
 msg-compose-internal-error = Error interne.
+keys-to-export = Eliger claves OpenPGP a inserer
 msg-compose-partially-encrypted-inlinePGP =
     Le message cuje tu replica contineva ambe partes non cryptate e cryptate. Si le expeditor non poteva originalmente decifrar alcun partes de message, tu informationes confidential que le expeditor non poteva originalmente decifrar ille mesme pote esser revelate.
     Considera remover tote le texto citate de tu replica a iste expeditor.
+msg-compose-cannot-save-draft = Error salvante le minuta
 msg-compose-partially-encrypted-short = Presta attention al revelation de datos sensibile - email partialmente cryptate.
 quoted-printable-warn =
     Tu ha activate codification 'citate-imprimibile' pro inviar messages. Isto pote comportar decryptation o verification non correcte de tu message.
@@ -540,6 +543,10 @@ send-to-news-warning =
     Isto es discoragiate perque illo solo face senso si tote le membros del gruppo poter decifrar le message, i.e. le message debe esser cryptate con le claves de tote le participantes del gruppo.
     Per favor invia iste message solo si tu sape exactemente lo que tu face.¶
     Continuar?
+save-attachment-header = Salvar le annexo decifrate
+no-temp-dir =
+    Impossibile trovar un directorio temporari pro scriber
+    Configura le variabile de ambiente TEMP
 possibly-pgp-mime = Forsan message cryptate o signate PGP/MIME; pro verificar usa le function 'Decifrar/Verificar'
 cannot-send-sig-because-no-own-key = Impossibile firmar digitalmente iste message, perque tu non ha ancora configurate le cryptographia end-to-end pro <{ $key }>
 cannot-send-enc-because-no-own-key = Impossibile firmar digitalmente iste message, perque tu non ha ancora configurate le cryptographia end-to-end pro <{ $key }>
@@ -549,6 +556,9 @@ do-import-multiple =
     { $key }
 do-import-one = Importar { $name } ({ $id })?
 cant-import = Error al importation del clave public
+unverified-reply = Le parte del message indentate (replica) ha essite probabilemente modificate
+key-in-message-body = Un clave ha essite trovate in le corpore del message.
+sig-mismatch = Error - discordantia firma
 invalid-email = Error - adresse(s) email  invalide
 attachment-pgp-key =
     Le annexo '{ $name }' que tu aperi appare esser un file clave OpenPGP.¶
@@ -560,6 +570,10 @@ decrypted-msg-with-format-error = Message decryptate (restaurate formato de emai
 not-required = Error - nulle cryptation requirite
 # Strings used in windows.jsm
 no-photo-available = Nulle photos disponibile
+error-photo-path-not-readable = Le percurso de photo '{ $photo }' non es legibile
+debug-log-title = Registro de depuration OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Iste aviso se repetera { $count }
 repeat-suffix-singular = altere vice.
 repeat-suffix-plural = altere vices.
 dlg-keep-setting = Rememora mi responsa e non demandar me de novo
@@ -567,6 +581,7 @@ dlg-button-ok = &OK
 dlg-button-close = &Clauder
 dlg-button-cancel = &Cancellar
 dlg-no-prompt = Non monstrar me plus iste fenestra de dialogo
+enig-prompt = Sollicitation OpenPGP
 enig-confirm = Confirmation OpenPGP
 enig-alert = Alerta OpenPGP
 enig-info = Information OpenPGP
