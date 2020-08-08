@@ -50,17 +50,26 @@ onboarding-multistage-welcome-header = Willkommen bei <span data-l10n-name="zap"
 onboarding-multistage-welcome-subtitle = Der schnelle, sichere und private Browser, der von einer gemeinnützigen Organisation unterstützt wird.
 onboarding-multistage-welcome-primary-button-label = Einrichtung starten
 onboarding-multistage-welcome-secondary-button-label = Anmelden
+onboarding-multistage-welcome-secondary-button-text = Du hast ein Konto?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importieren Sie Ihre Passwörter, Lesezeichen und <span data-l10n-name="zap">mehr</span>
+onboarding-multistage-import-subtitle = Kommst du von einem anderen Browser? Es ist einfach, alles zu { -brand-short-name } zu bringen.
 onboarding-multistage-import-primary-button-label = Import starten
 onboarding-multistage-import-secondary-button-label = Jetzt nicht
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Die hier aufgeführten Websites wurden auf diesem Gerät gefunden. { -brand-short-name } speichert oder synchronisiert keine Daten von einem anderen Browser, es sei denn, du wählst die Daten aus.
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Erste Schritte: Bildschirm { $current } von { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Wähle einen <span data-l10n-name="zap">Look</span>
+onboarding-multistage-theme-subtitle = Personalisiere { -brand-short-name } mit einem Theme.
 onboarding-multistage-theme-primary-button-label = Theme speichern
 onboarding-multistage-theme-secondary-button-label = Jetzt nicht
 # Automatic theme uses operating system color settings
@@ -220,4 +229,4 @@ return-to-amo-sub-header = Fantastisch, du hast jetzt { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = Hol dir auch <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Erweiterung installieren
-return-to-amo-get-started-button = Informationen zu { -brand-short-name }
+return-to-amo-get-started-button = Erste Schritte mit { -brand-short-name }
