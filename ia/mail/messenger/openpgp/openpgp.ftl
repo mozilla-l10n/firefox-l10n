@@ -511,6 +511,14 @@ msg-compose-internal-error = Error interne.
 msg-compose-partially-encrypted-inlinePGP =
     Le message cuje tu replica contineva ambe partes non cryptate e cryptate. Si le expeditor non poteva originalmente decifrar alcun partes de message, tu informationes confidential que le expeditor non poteva originalmente decifrar ille mesme pote esser revelate.
     Considera remover tote le texto citate de tu replica a iste expeditor.
+msg-compose-partially-encrypted-short = Presta attention al revelation de datos sensibile - email partialmente cryptate.
+quoted-printable-warn =
+    Tu ha activate codification 'citate-imprimibile' pro inviar messages. Isto pote comportar decryptation o verification non correcte de tu message.
+    Vole tu disactivar ora le invio de messages 'citate-imprimibile'?
+minimal-line-wrapping =
+    Tu ha configurate le ruptura e inveloppamento del lineas a { $width } characteres. Pro correcte cryptation o signatura, iste valor debe esser al minus 68.
+    Vole tu cambiar ora le ruptura e inveloppamento del lineas a 68 characteres
+sending-hidden-rcpt = Le destinatarios CCN (cec copia) non pote esser usate inviante un message cryptate. Pro inviar iste message cryptate, remove le destinatarios Ccn o move illes in le campo CC.
 do-import-one = Importar { $name } ({ $id })?
 dlg-button-view = &Vider
 repeat-suffix-singular = altere vice.
