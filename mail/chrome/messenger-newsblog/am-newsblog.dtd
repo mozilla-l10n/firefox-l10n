@@ -10,5 +10,5 @@
 <!ENTITY manageSubscriptions.label     "Διαχείριση συνδρομών...">
 <!ENTITY manageSubscriptions.accesskey "Δ">
 
-<!ENTITY feedWindowTitle.label         "Οδηγός λογαριασμού ροής">
+<!ENTITY feedWindowTitle.label         "Βοηθός λογαριασμών ροής">
 <!ENTITY feeds.accountName             "Blog &amp; ροές ειδήσεων">
