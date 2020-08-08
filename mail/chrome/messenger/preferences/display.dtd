@@ -53,7 +53,7 @@
 <!ENTITY showCondensedAddresses.label     "Εμφάνιση μόνο του ονόματος εμφάνισης για τα άτομα στο ευρετήριο διευθύνσεών μου">
 <!ENTITY showCondensedAddresses.accesskey "ε">
 
-<!ENTITY autoMarkAsRead.label             "Αυτόματη επισήμανση μηνυμάτων ως αναγνωσμένα">
+<!ENTITY autoMarkAsRead.label             "Αυτόματη επισήμανση μηνυμάτων ως αναγνωσμένων">
 <!ENTITY autoMarkAsRead.accesskey         "Α">
 <!ENTITY markAsReadNoDelay.label          "Άμεσα κατά την προβολή">
 <!ENTITY markAsReadNoDelay.accesskey      "μ">

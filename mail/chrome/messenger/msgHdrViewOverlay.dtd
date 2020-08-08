@@ -60,9 +60,9 @@
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "θ">
 <!ENTITY otherActionsOpenInNewTab1.label "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "τ">
-<!ENTITY markAsReadMenuItem1.label "Σημείωση ως αναγνωσμένο">
+<!ENTITY markAsReadMenuItem1.label "Επισήμανση ως αναγνωσμένο">
 <!ENTITY markAsReadMenuItem1.accesskey "γ">
-<!ENTITY markAsUnreadMenuItem1.label "Σημείωση ως μη αναγνωσμένο">
+<!ENTITY markAsUnreadMenuItem1.label "Επισήμανση ως μη αναγνωσμένο">
 <!ENTITY markAsUnreadMenuItem1.accesskey "μ">
 <!ENTITY saveAsMenuItem1.label "Αποθήκευση ως…">
 <!ENTITY saveAsMenuItem1.accesskey "ς">
