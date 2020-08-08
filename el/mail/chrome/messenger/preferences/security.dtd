@@ -15,7 +15,7 @@
 <!ENTITY manualMarkModeMove.accesskey "θ">
 <!ENTITY manualMarkModeDelete.label "Διαγραφή">
 <!ENTITY manualMarkModeDelete.accesskey "δ">
-<!ENTITY markAsReadOnSpam.label "Επισήμανση ανεπιθύμητων μηνυμάτων ως αναγνωσμένα">
+<!ENTITY markAsReadOnSpam.label "Επισήμανση ανεπιθύμητων μηνυμάτων ως αναγνωσμένων">
 <!ENTITY markAsReadOnSpam.accesskey "μ">
 <!ENTITY enableAdaptiveJunkLogging.label "Ενεργοποίηση καταγραφής προσαρμοστικού φίλτρου ανεπιθύμητων">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "γ">
