@@ -540,12 +540,17 @@ do-import-multiple =
     { $key }
 do-import-one = Importar { $name } ({ $id })?
 cant-import = Error al importation del clave public
+invalid-email = Error - adresse(s) email  invalide
 attachment-pgp-key =
     Le annexo '{ $name }' que tu aperi appare esser un file clave OpenPGP.¶
     Clicca 'Importar' pro importar le claves continite o 'Vider' pro vider le contentos del file in un fenestra de navigator
 dlg-button-view = &Vider
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Message decryptate (restaurate formato de email PGP corrupte, probabilemente causate per un vetere servitor Exchange, de maniera que le resultato pote non esser perfecte a leger)
+# Strings used in encryption.jsm
+not-required = Error - nulle cryptation requirite
+# Strings used in windows.jsm
+no-photo-available = Nulle photos disponibile
 repeat-suffix-singular = altere vice.
 repeat-suffix-plural = altere vices.
 dlg-keep-setting = Rememora mi responsa e non demandar me de novo
