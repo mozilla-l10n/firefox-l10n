@@ -38,6 +38,7 @@ openpgp-key-expiry-label =
     .label = Expiración
 openpgp-key-id-label =
     .label = ID de clave
+openpgp-cannot-change-expiry = Esta es una clave con una estructura compleja, no se admite cambiar su fecha de vencimiento.
 openpgp-key-man-title =
     .title = Administrador de claves OpenPGP
 openpgp-key-man-generate =
@@ -60,6 +61,9 @@ openpgp-key-man-view-menu =
 openpgp-key-man-generate-menu =
     .label = Generar
     .accesskey = G
+openpgp-key-man-keyserver-menu =
+    .label = Servidor de clave
+    .accesskey = K
 openpgp-key-man-import-public-from-file =
     .label = Importar clave(s) pública(s) desde archivo
     .accesskey = I
@@ -79,6 +83,9 @@ openpgp-key-man-export-to-file =
 openpgp-key-man-send-keys =
     .label = Enviar clave(s) pública(s) por correo electrónico
     .accesskey = s
+openpgp-key-man-backup-secret-keys =
+    .label = Respaldar clave(s) secreta(s) en un archivo
+    .accesskey = B
 openpgp-key-man-discover-cmd =
     .label = Descubrir claves en línea
     .accesskey = D
@@ -90,6 +97,9 @@ openpgp-key-copy-key =
 openpgp-key-export-key =
     .label = Exportar clave pública a archivo
     .accesskey = E
+openpgp-key-backup-key =
+    .label = Respaldar clave secreta en un archivo
+    .accesskey = B
 openpgp-key-send-key =
     .label = Enviar clave pública por correo electrónico
     .accesskey = b
@@ -149,6 +159,10 @@ openpgp-key-man-please-wait-tooltip =
     .label = Espere mientras las claves se cargan…
 openpgp-key-man-filter-label =
     .placeholder = Buscar claves
+openpgp-key-man-select-all-key =
+    .key = A
+openpgp-key-man-key-details-key =
+    .key = I
 openpgp-key-details-title =
     .title = Propiedades de clave
 openpgp-key-details-signatures-tab =
@@ -161,6 +175,8 @@ openpgp-key-details-user-id2-label = Presunto propietario de clave
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Tipo
+openpgp-key-details-key-part-label =
+    .label = Parte de la clave
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -190,6 +206,10 @@ openpgp-acceptance-unverified-label =
     .label = Sí, pero no he verificado que sea la clave correcta.
 openpgp-acceptance-verified-label =
     .label = Sí, he verificado en persona que esta clave tiene la huella digital correcta.
+key-accept-personal =
+    Para esta clave, tiene tanto la parte pública como la secreta. Puede utilizarla como clave personal.
+    Si otra persona le dio esta clave, no la use como clave personal.
+key-personal-warning = ¿Creó esta clave usted mismo y la propiedad de la clave que se muestra se refiere a usted mismo?
 openpgp-personal-no-label =
     .label = No, no usar como mi clave personal.
 openpgp-personal-yes-label =
@@ -207,15 +227,29 @@ openpgp-description =
         [one] Thunderbird encontró { $count } clave personal OpenPGP asociada con <b>{ $identity }</b>
        *[other] Thunderbird encontró { $count } claves personales OpenPGP asociadas con <b>{ $identity }</b>
     }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Elija una clave válida para habilitar el protocolo OpenPGP
+        [one] Su configuración actual usa la ID de clave <b> { $key } </b>
+       *[other] Sus configuraciones actuales usan la ID de clave <b> { $key } </b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Su configuración actual utiliza la clave <b>{ $key }</b> que ya caducó.
 openpgp-add-key-button =
     .label = Agregar clave…
     .accesskey = A
 e2e-learn-more = Conocer más
 openpgp-keygen-success = ¡Clave OpenPGP creada exitosamente!
 openpgp-keygen-import-success = ¡Clave OpenPGP importada exitosamente!
+openpgp-keygen-external-success = ¡ID de clave GnuPG externa guardada!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ninguna
+openpgp-radio-none-desc = No use OpenPGP para esta identidad.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expira el: { $date }
 openpgp-key-expires-image =
