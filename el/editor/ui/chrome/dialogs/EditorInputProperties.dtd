@@ -35,7 +35,7 @@
 <!ENTITY InputReadOnly.accesskey "ν">
 <!ENTITY InputDisabled.label "Απενεργοποιημένο">
 <!ENTITY InputDisabled.accesskey "π">
-<!ENTITY tabIndex.label "Κατάλογος στηλοθέτη:">
+<!ENTITY tabIndex.label "Ευρετήριο καρτέλας:">
 <!ENTITY tabIndex.accesskey "σ">
 <!ENTITY TextSize.label "Μέγεθος πεδίου:">
 <!ENTITY TextSize.accesskey "θ">

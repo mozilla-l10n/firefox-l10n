@@ -44,7 +44,7 @@
 <!ENTITY PreferMailFormat.accesskey     "μ">
 <!ENTITY PlainText.label                "Απλό κείμενο">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "Άγνωστο">
+<!ENTITY Unknown.label                  "Άγνωστη">
 <!ENTITY chatName.label                 "Όνομα συνομιλίας:">
 
 <!ENTITY WorkPhone.label                "Εργασία:">

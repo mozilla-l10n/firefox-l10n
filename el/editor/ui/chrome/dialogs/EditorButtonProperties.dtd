@@ -16,7 +16,7 @@
 <!ENTITY ButtonName.accesskey "ν">
 <!ENTITY ButtonValue.label "Τιμή:">
 <!ENTITY ButtonValue.accesskey "μ">
-<!ENTITY tabIndex.label "Κατάλογος στηλοθέτη:">
+<!ENTITY tabIndex.label "Ευρετήριο καρτέλας:">
 <!ENTITY tabIndex.accesskey "λ">
 <!ENTITY ButtonDisabled.label "Απενεργοποιημένο">
 <!ENTITY ButtonDisabled.accesskey "ν">

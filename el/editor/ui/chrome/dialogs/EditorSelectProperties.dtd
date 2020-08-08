@@ -13,7 +13,7 @@
 <!ENTITY SelectMultiple.accesskey "λ">
 <!ENTITY SelectDisabled.label "Απενεργοποιημένο">
 <!ENTITY SelectDisabled.accesskey "ε">
-<!ENTITY SelectTabIndex.label "Κατάλογος στηλοθέτη:">
+<!ENTITY SelectTabIndex.label "Ευρετήριο καρτέλας:">
 <!ENTITY SelectTabIndex.accesskey "σ">
 
 <!ENTITY OptGroup.label "Ομάδα επιλογής">

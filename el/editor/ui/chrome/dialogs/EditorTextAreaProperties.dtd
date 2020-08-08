@@ -16,7 +16,7 @@
 <!ENTITY TextAreaReadOnly.accessKey "ν">
 <!ENTITY TextAreaDisabled.label "Απενεργοποιημένο">
 <!ENTITY TextAreaDisabled.accessKey "π">
-<!ENTITY TextAreaTabIndex.label "Κατάλογος στηλοθέτη:">
+<!ENTITY TextAreaTabIndex.label "Ευρετήριο καρτέλας:">
 <!ENTITY TextAreaTabIndex.accessKey "λ">
 <!ENTITY TextAreaAccessKey.label "Κλειδί πρόσβασης:">
 <!ENTITY TextAreaAccessKey.accessKey "β">
