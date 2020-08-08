@@ -429,7 +429,14 @@ revoke-key-question =
     Tu va revocar le clave '{ $identity }'.
     Tu non potera plus signar con iste clave e un vice distribuite, le alteres non potera plus cryptar con iste clave. Tu pote ancora usar le clave pro decifrar vetere messages.
     Vole tu continuar?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Tu ha nulle clave (0x{ $keyId }) que concorda con iste certificato de revocation!
+    Si tu ha perdite tu clave, tu debe importar lo (e.g. de un servitor-de-claves) ante importar le certificato de revocation!!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Le clave 0x{ $keyId } ha jam essite revocate.
 key-man-button-revoke-key = &Revocar clave
+openpgp-key-revoke-success = Clave revocate con successo.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Deler clave OpenPGP
