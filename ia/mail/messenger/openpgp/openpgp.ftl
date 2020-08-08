@@ -437,9 +437,27 @@ revoke-key-not-present =
 revoke-key-already-revoked = Le clave 0x{ $keyId } ha jam essite revocate.
 key-man-button-revoke-key = &Revocar clave
 openpgp-key-revoke-success = Clave revocate con successo.
+after-revoke-info =
+    Le clave ha essite revocate.
+    Comparti iste clave public de novo, per inviar lo per email o per cargar lo a servitores-de-claves, pro facer saper al alteres que tu ha revocate tu clave.
+    A pena le software usate per altere personas apprende re le revocation, illo cessara usar tu vetere clave.
+    Si tu usa un nove clave pro le mesme adresse email, e tu attacca le nove clave public a emails que tu invia, le informationes re tu vetere clave revocate sera automaticamente includite.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Deler clave OpenPGP
+delete-external-key-title = Remover le clave externe GnuPG
+delete-external-key-description = Vole tu remover iste ID clave externe GnuPG?
+key-in-use-title = Clave OpenPGP actualmente in uso
+delete-key-in-use-description = Impossibile continuar! Le clave que tu ha seligite pro deletion es actualmente usate per iste identitate. Elige un clave differente o nulle e reproba.
+revoke-key-in-use-description = Impossibile continuar! Le clave que tu ha seligite pro revocation es actualmente usate per iste identitate. Elige un clave differente o nulle e reproba.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Le adresse email '{ $keySpec }' non pote esser concordate a un clave sur tu anello de claves.
+key-error-key-id-not-found = Le ID clave configurate '{ $keySpec }' non pote esser trovate sur tu anello de claves.
+key-error-not-accepted-as-personal = Tu non ha confirmate que le clave con ID '{ $keySpec }' es tu clave personal.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Le function que tu ha seligite non es disponibile in modo sin connexion. Per favor va online e reproba.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Impossibile trovar ulle clave concordante le criterios de recerca specificate.
 # Strings used in trust.jsm
 key-valid-unknown = incognite
 key-valid-invalid = non valide
