@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = کم ٹائپ کریں ، زیادہ ڈھونڈیں: اپنے ایڈریس بار  کے { $engineName } سے تلاش کریں۔
 urlbar-search-tips-redirect-2 = { $engineName } سے تجاویز اور براؤزنگ سبقات دیکھنے کے لیے پتے کی بار میں اپنی تلاش کاآغاز کریں
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = بک مارک
+urlbar-search-mode-tabs = ٹیبز
+urlbar-search-mode-history = سابقات
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,20 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = نجی ونڈوں کے لیئے طے شدہ تلاش انجن بنائیں
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
 
 ## Bookmark Panel
 

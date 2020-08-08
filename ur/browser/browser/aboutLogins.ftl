@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = لاگ ان اور پاس ورڈ
@@ -32,6 +27,7 @@ menu =
     .title = مینیو کھولیں
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = دوسرے براؤزر سے درآمد کریں…
+about-logins-menu-menuitem-import-from-a-file = فائل سے درآمد کریں...
 about-logins-menu-menuitem-export-logins = لاگ انس برآمد کریں…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -125,6 +121,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = محفوظ شدہ پ�
 ## Master Password notification
 
 master-password-notification-message = براہ کرم محفوظ لاگ ان اور پاس ورڈز کو دیکھنے کے لئے اپنا ماسٹر پاس ورڈ درج کریں
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = لاگ ان
     .accesskey = L
@@ -190,6 +189,19 @@ about-logins-export-file-picker-export-button = برآمد کریں
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV دستاویز
+       *[other] CSV فائل
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = لاگ ان فائل درآمد کریں
+about-logins-import-file-picker-import-button = درآمد کریں
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV دستاویز
        *[other] CSV فائل
