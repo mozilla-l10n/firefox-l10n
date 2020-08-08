@@ -47,11 +47,20 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Willkommen bei <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Der schnelle, sichere und private Browser, der von einer gemeinnützigen Organisation unterstützt wird.
+onboarding-multistage-welcome-primary-button-label = Einrichtung starten
 onboarding-multistage-welcome-secondary-button-label = Anmelden
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importieren Sie Ihre Passwörter, Lesezeichen und <span data-l10n-name="zap">mehr</span>
+onboarding-multistage-import-primary-button-label = Import starten
 onboarding-multistage-import-secondary-button-label = Jetzt nicht
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Erste Schritte: Bildschirm { $current } von { $total }
 onboarding-multistage-theme-primary-button-label = Theme speichern
 onboarding-multistage-theme-secondary-button-label = Jetzt nicht
 # Automatic theme uses operating system color settings
