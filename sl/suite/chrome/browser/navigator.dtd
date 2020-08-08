@@ -17,7 +17,13 @@
 <!ENTITY mainWindow.titleprivate "Zasebno brskanje">
 
 <!ENTITY editPageCmd.label "Uredi stran">
+<!ENTITY editPageCmd.accesskey "U">
+<!ENTITY editPageCmd.commandkey "e">
 
+<!ENTITY navbarCmd.label "Vrstica za brskanje">
+<!ENTITY navbarCmd.accesskey "b">
+<!ENTITY bookmarksToolbarCmd.label     "Vrstica zaznamkov">
+<!ENTITY bookmarksToolbarCmd.accesskey "z">
 
 <!ENTITY closeWindow.label "Zapri okno">
 
