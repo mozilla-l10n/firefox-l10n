@@ -82,6 +82,8 @@ onboarding-multistage-theme-label-automatic = Аўтаматычна
 onboarding-multistage-theme-description-automatic = Выкарыстоўваць сістэмную тэму
 onboarding-multistage-theme-label-light = Светлая
 onboarding-multistage-theme-label-dark = Цёмная
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
