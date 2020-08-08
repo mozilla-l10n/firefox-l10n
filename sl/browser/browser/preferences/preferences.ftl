@@ -940,8 +940,8 @@ addressbar-locbar-openpage-option =
     .label = odprte zavihke
     .accesskey = O
 addressbar-locbar-topsites-option =
-    .label = Glavne strani
-    .accesskey = G
+    .label = glavne strani
+    .accesskey = g
 addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 
 ## Privacy Section - Content Blocking
