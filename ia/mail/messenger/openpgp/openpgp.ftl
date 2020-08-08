@@ -417,8 +417,13 @@ key-ring-sign-sub-keys-revoked = Tote le sub-claves-firma del clave { $userId } 
 key-ring-sign-sub-keys-expired = Tote le sub-claves-firma del clave { $userId } (ID clave { $keyId }) es expirate.
 key-ring-sign-sub-keys-unusable = Tote le sub-claves firma del clave { $userId } (ID clave { $keyId }) es revocate, expirate o alteremente inusabile.
 key-ring-enc-sub-keys-revoked = Tote le sub-claves-firma del clave { $userId } (ID clave { $keyId }) es revocate, expirate o alteremente inusabile.
+key-ring-enc-sub-keys-expired = Tote le sub-claves cryptographic del clave { $userId } (ID clave { $keyId }) es expirate.
+key-ring-enc-sub-keys-unusable = Tote le sub-claves cryptographic del clave { $userId } (ID clave { $keyId }) es revocate, expirate o alteremente inusabile.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Photo
+user-att-photo = Attributo del usator (imagine JPEG)
+# Strings in key.jsm
+already-revoked = Iste clave ha jam essite revocate.
 key-man-button-revoke-key = &Revocar clave
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
