@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Καλώς ήλθατε στο &brandShortName;">
-<!ENTITY header2.label "Θα θέλατε μια νέα διεύθυνση email;">
+<!ENTITY header2.label "Θέλετε να αποκτήσετε μια νέα διεύθυνση email;">
 <!ENTITY other.languages "Σας εμφανίζουμε μόνο τους παρόχους που προσφέρουν email στην περιοχή σας.  Πατήστε εδώ για να εμφανίσετε όλους τους παρόχους.">
 <!ENTITY error.line1 "Λυπούμαστε, δεν βρέθηκε καμία προτεινόμενη διεύθυνση email.">
 <!ENTITY error.line2 "Μπορείτε να αναζητήσετε ψευδώνυμα ή άλλους όρους για να βρείτε περισσότερα email.">
@@ -20,13 +20,13 @@
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
 <!ENTITY success.title.before "Γεια σας ">
-<!ENTITY success.title.after ", οι ακόλουθες διευθύνσεις email είναι διαθέσιμες σε εσάς:">
+<!ENTITY success.title.after ", ακολουθούν οι διαθέσιμες επιλογές διεύθυνσης email:">
 <!ENTITY success.tip "(Μπορείτε επίσης να αναζητήσετε ψευδώνυμα ή άλλους όρους για να βρείτε περισσότερα email)">
 <!ENTITY partnership.description "Σε συνεργασία με αρκετούς παρόχους, το &brandShortName; μπορεί να σας προσφέρει ένα νέο λογαριασμό e-mail. Συμπληρώστε απλά το όνομα και το επώνυμό σας, ή οποιεσδήποτε άλλες λέξεις επιθυμείτε, στα παραπάνω πεδία για να ξεκινήσετε.">
 <!ENTITY existing.header "Έχετε ήδη μια διεύθυνση που θέλετε να χρησιμοποιήσετε;">
 <!ENTITY tinyheader.title "Έχετε ήδη μια διεύθυνση;">
 <!ENTITY tinyheader.existing "Παράλειψη και χρήση υπάρχοντος email">
-<!ENTITY content.close "Θα ρυθμίσω τον λογαριασμό μου αργότερα.">
+<!ENTITY content.close "Θα ρυθμίσω το λογαριασμό μου αργότερα">
 <!ENTITY successful.title "Συγχαρητήρια!">
 <!ENTITY successful.successMessage "Έχετε ρυθμίσει επιτυχώς το λογαριασμό σας.">
 <!ENTITY successful.write "Γράψτε κάποια μηνύματα">
