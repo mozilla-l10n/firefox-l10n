@@ -576,6 +576,7 @@ debug-log-title = Registro de depuration OpenPGP
 repeat-prefix = Iste aviso se repetera { $count }
 repeat-suffix-singular = altere vice.
 repeat-suffix-plural = altere vices.
+no-repeat = Iste aviso non sera plus monstrate.
 dlg-keep-setting = Rememora mi responsa e non demandar me de novo
 dlg-button-ok = &OK
 dlg-button-close = &Clauder
