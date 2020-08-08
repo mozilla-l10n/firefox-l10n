@@ -30,6 +30,8 @@ printui-scale = Масштаб
 printui-scale-fit-to-page = Бетке сыйдыру
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Масштаб
+# Section title for miscellaneous print options
+printui-options = Опциялар
 printui-system-dialog-link = Жүйелік сұхбатын қолданып, баспаға шығару…
 printui-primary-button = Баспаға шығару
 printui-cancel-button = Бас тарту
