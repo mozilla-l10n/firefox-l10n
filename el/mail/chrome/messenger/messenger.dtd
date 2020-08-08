@@ -366,7 +366,7 @@
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Προώθηση ως">
 <!ENTITY forwardAsMenu.accesskey "θ">
-<!ENTITY forwardAsInline.label "Ως αντικείμενο μέσα στο μήνυμα">
+<!ENTITY forwardAsInline.label "Εντός μηνύματος">
 <!ENTITY forwardAsInline.accesskey "τ">
 <!ENTITY forwardAsAttachmentCmd.label "Συνημμένο">
 <!ENTITY forwardAsAttachmentCmd.accesskey "μ">

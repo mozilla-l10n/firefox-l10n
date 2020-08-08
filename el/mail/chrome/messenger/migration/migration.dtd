@@ -17,11 +17,11 @@
 <!ENTITY importFromOutlook.accesskey    "O">
 
 <!ENTITY importSource.title             "Εισαγωγή ρυθμίσεων και δεδομένων">
-<!ENTITY importItems.title              "Αντικείμενα προς εισαγωγή">
-<!ENTITY importItems.label              "Επιλέξτε ποια αντικείμενα θα εισαχθούν:">
+<!ENTITY importItems.title              "Στοιχεία προς εισαγωγή">
+<!ENTITY importItems.label              "Επιλέξτε ποια στοιχεία θα εισαχθούν:">
 
 <!ENTITY migrating.title                "Εισαγωγή...">
-<!ENTITY migrating.label                "Τα ακόλουθα αντικείμενα εισάγονται αυτήν τη στιγμή...">
+<!ENTITY migrating.label                "Τα ακόλουθα στοιχεία εισάγονται αυτή τη στιγμή…">
 
 <!ENTITY selectProfile.title            "Επιλογή προφίλ">
 <!ENTITY selectProfile.label            "Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:">
