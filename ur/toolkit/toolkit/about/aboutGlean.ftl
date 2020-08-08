@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-unknowncontenttype-handleinternally =
-    .label = { -brand-short-name } کے ساتھ کھولیں
-    .accesskey = e
+
+### "Glean" and "Glean SDK" should remain in English.
+
+about-glean-page-title = گلین کے بارے میں
+controls-button-label = ترتیبات جمع کروائیں

@@ -5,9 +5,7 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = رازداری سے تحفظ
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = اپنی رازداری رپورٹ پر جائیں
+appmenuitem-protection-dashboard-title = حفاظتی ڈیش بورڈ
 appmenuitem-customize-mode =
     .label = تخصیص کریں…
 

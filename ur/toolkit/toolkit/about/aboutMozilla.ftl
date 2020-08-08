@@ -2,6 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-unknowncontenttype-handleinternally =
-    .label = { -brand-short-name } کے ساتھ کھولیں
-    .accesskey = e
+about-mozilla-title-6-27 = Mozillaکی کتاب سے 6:27
+about-mozilla-from-6-27 = <strong>Mozillaکی کتاب،</strong>سے 6:27
