@@ -20,13 +20,35 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Desfer a zarradura d'a zaguera pestanya
     .accesskey = D
-
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Desfer tancadura de pestanyas
+            [one] Desfer la tancadura d'a pestanya
+           *[other] Desfer la tancadura d'as pestanyas
+        }
+    .accesskey = D
+toolbar-context-menu-manage-extension =
+    .label = Chestionar extensión
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Borrar extensión
+    .accesskey = B
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Informar sobre extensión
+    .accesskey = o
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Penchar en o menú de sobreiximiento
     .accesskey = P
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Autoamagar en a barra de ferramientas
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Eliminar d'a barra de ferramientas
     .accesskey = E
