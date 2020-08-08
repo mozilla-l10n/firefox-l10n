@@ -25,7 +25,7 @@
 <!ENTITY customizeMailAlert.label         "Προσαρμογή…">
 <!ENTITY customizeMailAlert.accesskey     "μ">
 
-<!ENTITY showTrayIcon.label               "Εμφάνιση εικονιδίου στη γραμμή">
+<!ENTITY showTrayIcon.label               "Εμφάνιση εικονιδίου γραμμής">
 <!ENTITY showTrayIcon.accesskey           "μ">
 
 <!ENTITY play.label                       "Αναπαραγωγή">

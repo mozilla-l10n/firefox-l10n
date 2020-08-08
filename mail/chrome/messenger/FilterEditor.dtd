@@ -27,7 +27,6 @@
 <!ENTITY contextOutgoing.accesskey "S">
 <!ENTITY contextArchive.label "Αρχειοθέτηση">
 <!ENTITY contextArchive.accesskey "A">
-
 <!ENTITY contextPeriodic.accesskey "ε">
 
 <!ENTITY filterActionDesc.label "Εκτέλεση των ακόλουθων ενεργειών:  ">
@@ -41,7 +40,7 @@
 <!ENTITY copyMessage.label "Αντιγραφή μηνύματος σε">
 <!ENTITY forwardTo.label "Προώθηση σε:">
 <!ENTITY replyWithTemplate.label "Απάντηση με πρότυπο:">
-<!ENTITY markMessageRead.label "Σημείωση ως αναγνωσμένο">
+<!ENTITY markMessageRead.label "Επισήμανση ως αναγνωσμένο">
 <!ENTITY markMessageUnread.label "Επισήμανση ως μη αναγνωσμένο">
 <!ENTITY markMessageStarred.label "Προσθήκη αστεριού">
 <!ENTITY setPriority.label "Ορισμός προτεραιότητας σε">

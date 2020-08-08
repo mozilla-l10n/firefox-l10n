@@ -633,7 +633,7 @@ notification-empty =
 notification-type-label =
     .label =
         { PLATFORM() ->
-            [macos] Κίνηση εικονιδίου στην μπάρα εφαρμογών
+            [macos] Κίνηση εικονιδίου στη γραμμή εφαρμογών
            *[other] Αναλαμπή στοιχείου γραμμής εργασιών
         }
     .accesskey =
@@ -704,6 +704,3 @@ search-results-empty-message =
        *[other] Συγγνώμη! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Προτιμήσεις.
     }
 search-results-help-link = Χρειάζεστε βοήθεια; Επισκεφθείτε την <a data-l10n-name="url">Υποστήριξη { -brand-short-name }</a>
-
-## Preferences UI Search Results
-

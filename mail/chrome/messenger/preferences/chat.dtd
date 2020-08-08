@@ -33,7 +33,7 @@ sentence. -->
 <!ENTITY  dummyNotification.label             "χωρίς καμία πληροφορία">
 <!ENTITY  getAttention.label                  "Αναλαμπή στοιχείου γραμμής εργασιών">
 <!ENTITY  getAttention.accesskey              "Φ">
-<!ENTITY  getAttentionMac.label               "Κίνηση του εικονιδίου στην μπάρα">
+<!ENTITY  getAttentionMac.label               "Κίνηση εικονιδίου γραμμής">
 <!ENTITY  getAttentionMac.accesskey           "κ">
 <!ENTITY  chatSound.accesskey                 "χ">
 <!ENTITY  chatSound.label                     "Αναπαραγωγή ήχου">
