@@ -508,6 +508,9 @@ msg-compose-details-button-label = Detalios…
 msg-compose-details-button-access-key = D
 send-aborted = Invio abortate.
 msg-compose-internal-error = Error interne.
+msg-compose-partially-encrypted-inlinePGP =
+    Le message cuje tu replica contineva ambe partes non cryptate e cryptate. Si le expeditor non poteva originalmente decifrar alcun partes de message, tu informationes confidential que le expeditor non poteva originalmente decifrar ille mesme pote esser revelate.
+    Considera remover tote le texto citate de tu replica a iste expeditor.
 do-import-one = Importar { $name } ({ $id })?
 dlg-button-view = &Vider
 repeat-suffix-singular = altere vice.
