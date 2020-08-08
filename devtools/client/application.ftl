@@ -76,11 +76,16 @@ serviceworker-empty-suggestions-aboutdebugging = Examinar los service workers de
 serviceworker-empty-intro2 = Cap de service workers pas trobat
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Ne saber mai
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Veire los service workers d’autres domenis
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest d’aplicacion
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Vos cal apondre un manifèst d’aplicacion web per l’examinar aquí. <a>Ne saber mai</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Cap de manifèst d’aplicacion pas trobat
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Aprendre a apondre un fichièr de manifèst
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
