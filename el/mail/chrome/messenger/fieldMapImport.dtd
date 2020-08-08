@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Εισαγωγή Ευρετηρίου Διευθύνσεων">
+<!ENTITY fieldMapImport.title "Εισαγωγή ευρετηρίου διευθύνσεων">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Εισηγμένα δεδομένα για εγγραφή:">
 <!ENTITY fieldMapImport.next.label "Επόμενο">
@@ -14,7 +14,7 @@
 <!ENTITY fieldMapImport.up.accesskey "π">
 <!ENTITY fieldMapImport.down.label "Μετακίνηση κάτω">
 <!ENTITY fieldMapImport.down.accesskey "κ">
-<!ENTITY fieldMapImport.fieldListTitle "Πεδία  Ευρετηρίου Διευθύνσεων:">
+<!ENTITY fieldMapImport.fieldListTitle "Πεδία ευρετηρίου διευθύνσεων">
 <!ENTITY fieldMapImport.dataTitle "Δεδομένα εγγραφής για εισαγωγή:">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Η πρώτη εγγραφή περιέχει τα ονόματα πεδίων">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "π">
