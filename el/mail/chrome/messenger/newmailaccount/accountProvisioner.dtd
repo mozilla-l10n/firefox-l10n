@@ -5,15 +5,15 @@
 <!ENTITY window.title "Καλώς ήλθατε στο &brandShortName;">
 <!ENTITY header2.label "Θα θέλατε μια νέα διεύθυνση email;">
 <!ENTITY other.languages "Σας εμφανίζουμε μόνο τους παρόχους που προσφέρουν email στην περιοχή σας.  Πατήστε εδώ για να εμφανίσετε όλους τους παρόχους.">
-<!ENTITY error.line1 "Συγγνώμη, δεν βρέθηκε καμία από τις προτεινόμενες διευθύνσεις email.">
-<!ENTITY error.line2 "Μπορείτε να κάνετε αναζήτηση για nicknames ή για κάποιον άλλο όρο για να βρείτε περισσότερες διευθύνσεις">
+<!ENTITY error.line1 "Λυπούμαστε, δεν βρέθηκε καμία προτεινόμενη διεύθυνση email.">
+<!ENTITY error.line2 "Μπορείτε να αναζητήσετε ψευδώνυμα ή άλλους όρους για να βρείτε περισσότερα email.">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-<!ENTITY error.suggest.before "Μπορείτε ακόμα να προσπαθήσετε με κάποιον από τους  ">
-<!ENTITY error.suggest.middle "παρόχους δωρεάν λογαριασμών αλληλογραφίας">
+<!ENTITY error.suggest.before "Ακόμα, μπορείτε να δοκιμάσετε κάποια από τις">
+<!ENTITY error.suggest.middle "δωρεάν εναλλακτικές λογαριασμών email">
 <!ENTITY error.suggest.after ".">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
@@ -21,7 +21,7 @@
      around the name that the user has typed in to the search input. -->
 <!ENTITY success.title.before "Γεια σας ">
 <!ENTITY success.title.after ", οι ακόλουθες διευθύνσεις email είναι διαθέσιμες σε εσάς:">
-<!ENTITY success.tip "(Μπορείτε ακόμη να κάνετε αναζήτηση για nicknames ή για κάποιον άλλο όρο για να βρείτε περισσότερες διευθύνσεις)">
+<!ENTITY success.tip "(Μπορείτε επίσης να αναζητήσετε ψευδώνυμα ή άλλους όρους για να βρείτε περισσότερα email)">
 <!ENTITY partnership.description "Σε συνεργασία με αρκετούς παρόχους, το &brandShortName; μπορεί να σας προσφέρει ένα νέο λογαριασμό e-mail. Συμπληρώστε απλά το όνομα και το επώνυμό σας, ή οποιεσδήποτε άλλες λέξεις επιθυμείτε, στα παραπάνω πεδία για να ξεκινήσετε.">
 <!ENTITY existing.header "Έχετε ήδη μια διεύθυνση που θέλετε να χρησιμοποιήσετε;">
 <!ENTITY tinyheader.title "Έχετε ήδη μια διεύθυνση;">
@@ -36,7 +36,7 @@
 <!ENTITY successful.attach "Επισύναψη μιας υπογραφής στο μήνυμα">
 <!ENTITY successful.attach.desc "Μπορείτε να επισυνάψετε αυτόματα μια παράθεση ή κάποιες πληροφορίες για τον εαυτό σας στο τέλος κάθε μηνύματος που στέλνετε.">
 <!ENTITY successful.close "Κλείσιμο του παραθύρου.">
-<!ENTITY input.namePlaceholder "Το όνομα, ή το ψευδώνυμο">
+<!ENTITY input.namePlaceholder "Όνομα ή ψευδώνυμο">
 <!ENTITY input.search "Αναζήτηση">
 <!ENTITY search_engine.title "Προσαρμογή της μηχανής αναζήτησης">
 <!ENTITY search_engine.message "Ο πάροχος email μπορεί ακόμα να σας παρέχει κάποιες δυνατότητες αναζήτησης.">
