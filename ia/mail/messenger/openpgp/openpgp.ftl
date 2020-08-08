@@ -466,6 +466,7 @@ not-first-block = Error - Prime blocada de OpenPGP non es blocada de clave publi
 import-key-confirm = Importar clave(s) public integrate in le message?
 fail-key-import = Error - importation de clave fallite
 file-write-failed = Falta a scriber al file { $output }
+no-pgp-block = Error - Nulle valide bloco datos OpenPGP cuirassate trovate
 confirm-permissive-import = Importation fallite. Le clave que tu tenta importar pote esser corrumpite o usa attributos incognite. Vole tu tentar de importar le partes que es correcte? Isto pote comportar le importation de claves incomplete e inusabile.
 # Strings used in trust.jsm
 key-valid-unknown = incognite
@@ -501,6 +502,8 @@ key-man-button-generate-key-continue = &Continuar le generation del clave
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Error - decryptation fallite
 fix-broken-exchange-msg-failed = Insuccesso a reparar message.
+attachment-no-match-from-signature = Impossibile associar file firma '{ $annexo }' a un annexo
+attachment-no-match-to-signature = Impossibile associar annexo '{ $annexo }' a un file firma
 msg-ovl-button-cont-anyway = &Continuar comocunque
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = Inviar message (&Send)
