@@ -8,5 +8,10 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
+webrtc-sharing-browser-window = اپ { -brand-short-name } کا اشتراک کر رہے ہیں
 webrtc-sharing-screen = آپ اپنی پوری اسکرین شیئر کر رہے ہیں۔
 webrtc-stop-sharing-button = شراکت داری بند کریں
+webrtc-microphone-button =
+    .title = آپکا مائیکروفون شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
+webrtc-camera-button =
+    .title = آپکا کیمرہ شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
