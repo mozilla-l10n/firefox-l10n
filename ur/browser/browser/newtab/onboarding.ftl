@@ -41,6 +41,27 @@ onboarding-cards-dismiss =
     .title = برخاست کریں
     .aria-label = برخاست کریں
 
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+onboarding-multistage-welcome-secondary-button-label = سائن ان کریں
+onboarding-multistage-welcome-secondary-button-text = کیا آپ کا اکاؤنٹ ہے؟
+onboarding-multistage-import-primary-button-label = درآمد شروع کریں
+onboarding-multistage-import-secondary-button-label = ابھی نہیں
+onboarding-multistage-theme-primary-button-label = تھیم کو محفوظ کریں
+onboarding-multistage-theme-secondary-button-label = ابھی نہیں
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = خودکار
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = سسٹم تھیم استعمال کریں
+onboarding-multistage-theme-label-light = ہلکا
+onboarding-multistage-theme-label-dark = گہرا
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+
 ## Welcome full page string
 
 onboarding-fullpage-welcome-subheader = آئیے آپ جو کچھ بھی کر سکتے ہیں اس کی دریافت شروع کریں۔

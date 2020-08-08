@@ -48,6 +48,10 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = { -brand-short-name } تجربات
+category-experimental =
+    .tooltiptext = { -brand-short-name } تجربات
+pane-experimental-subtitle = احتیاط سے آگے بڑھیں
 help-button-label = { -brand-short-name } تعاون
 addons-button-label = ایکسٹینشن اور تھیم
 focus-search =
@@ -722,6 +726,10 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = ماسٹر پاس ورڈ استعمال کریں
     .accesskey = U
+forms-primary-pw-learn-more-link = مزید سیکھیں
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = ماسٹر پاس ورڈ تبدیل کریں…
     .accesskey = M
@@ -817,6 +825,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = اجازتوں کو منظم کریں…
     .accesskey = P
+sitedata-cookies-exceptions =
+    .label = مستثنیات کو منظم کریں…
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
@@ -831,6 +842,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ٹیب کھولیے
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = مقبول سائٹس
+    .accesskey = T
 addressbar-suggestions-settings = تلاش کے انجن کی تجاویز کے لئے ترجیحات کو بدلیں
 
 ## Privacy Section - Content Blocking

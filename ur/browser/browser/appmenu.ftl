@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = { -brand-shorter-name } کی تذکاری ڈونلوڈ کر رہے ہیں
 appmenuitem-protection-dashboard-title = حفاظتی ڈیش بورڈ
 appmenuitem-customize-mode =
     .label = تخصیص کریں…
