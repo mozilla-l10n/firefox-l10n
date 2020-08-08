@@ -13,6 +13,7 @@ openpgp-key-man-title =
 openpgp-manager-button =
     .label = Διαχείριση κλειδιών OpenPGP
     .accesskey = κ
+key-type-primary = κύριο κλειδί
 expiry-open-key-manager = Άνοιγμα διαχείρισης κλειδιών OpenPGP
 # Strings in enigmailKeyManager.js
 import-from-clip = Θέλετε να εισάγετε μερικά κλειδιά από το πρόχειρο;
