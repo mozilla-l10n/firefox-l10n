@@ -458,6 +458,10 @@ key-error-not-accepted-as-personal = Tu non ha confirmate que le clave con ID '{
 need-online = Le function que tu ha seligite non es disponibile in modo sin connexion. Per favor va online e reproba.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Impossibile trovar ulle clave concordante le criterios de recerca specificate.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Error - Commando de extraction clave fallite
+# Strings used in keyRing.jsm
+fail-cancel = Error - reception clave cancellate per le usator
 # Strings used in trust.jsm
 key-valid-unknown = incognite
 key-valid-invalid = non valide
