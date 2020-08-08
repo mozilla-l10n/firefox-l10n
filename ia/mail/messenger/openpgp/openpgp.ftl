@@ -487,6 +487,9 @@ passphrase-prompt = Insere le phrase contrasigno que disbloca le sequente clave:
 file-to-big-to-import = Iste file es troppo grande. Non importar grande gruppos de claves contemporaneemente.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear e salvar le certificato de revocation
+revoke-cert-ok = Le certificato de revocation ha essite create con successo. Tu pote usar lo pro invalidar tu clave public, e.g. in caso tu perde tu clave secrete.
+revoke-cert-failed = Le certificato de revocation non pote esser create.
+gen-going = Generation del clave jam in curso!
 keygen-missing-user-name = Il ha nulle nomine specificate pro le conto/identitate seligite. Insere un valor in le campo · "Tu nomine" in le parametros del conto.
 expiry-too-short = Tu clave debe esser valide pro al minus un die.
 expiry-too-long = Tu non pote crea un clave que expira in plus de 100 annos.
@@ -495,6 +498,9 @@ key-man-button-generate-key = &Generar clave
 key-abort = Abortar le generation del clave?
 key-man-button-generate-key-abort = &Abortar le generation del clave
 key-man-button-generate-key-continue = &Continuar le generation del clave
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Error - decryptation fallite
+fix-broken-exchange-msg-failed = Insuccesso a reparar message.
 msg-ovl-button-cont-anyway = &Continuar comocunque
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = Inviar message (&Send)
