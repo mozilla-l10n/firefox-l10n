@@ -424,6 +424,11 @@ keyring-photo = Photo
 user-att-photo = Attributo del usator (imagine JPEG)
 # Strings in key.jsm
 already-revoked = Iste clave ha jam essite revocate.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Tu va revocar le clave '{ $identity }'.
+    Tu non potera plus signar con iste clave e un vice distribuite, le alteres non potera plus cryptar con iste clave. Tu pote ancora usar le clave pro decifrar vetere messages.
+    Vole tu continuar?
 key-man-button-revoke-key = &Revocar clave
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
