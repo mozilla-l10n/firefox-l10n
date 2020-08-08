@@ -102,6 +102,8 @@ master-password-os-auth-dialog-message-win = Για να δημιουργήσε�
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = δημιουργήσει κύριο κωδικό πρόσβασης
 # This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Για να δημιουργήσετε έναν κύριο κωδικό πρόσβασης, εισάγετε τα διαπιστευτήρια των Windows σας. Αυτό θα βοηθήσει στην ασφάλεια των λογαριασμών σας.
+# This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
@@ -543,6 +545,14 @@ master-password-label =
 master-password-button =
     .label = Αλλαγή κύριου κωδικού πρόσβασης…
     .accesskey = β
+primary-password-description = Ο κύριος κωδικός πρόσβασης προστατεύει όλους τους κωδικούς πρόσβασής σας, αλλά θα πρέπει να τον εισάγετε σε κάθε συνεδρία.
+primary-password-label =
+    .label = Χρήση κύριου κωδικού πρόσβασης
+    .accesskey = Χ
+primary-password-button =
+    .label = Αλλαγή κύριου κωδικού πρόσβασης…
+    .accesskey = Α
+forms-primary-pw-fips-title = Είστε σε λειτουργία FIPS. Το FIPS απαιτεί μη κενό κύριο κωδικό πρόσβασης.
 forms-master-pw-fips-desc = Αποτυχία αλλαγής κωδικού πρόσβασης
 junk-description = Καθορίστε τις προεπιλεγμένες ρυθμίσεις ανεπιθύμητης αλληλογραφίας. Οι ρυθμίσεις για συγκεκριμένους λογαριασμούς μπορούν να τροποποιηθούν στις ρυθμίσεις λογαριασμού.
 junk-label =
