@@ -56,6 +56,21 @@ move-to-new-window =
 undo-close-tab =
     .label = Desfer a zarradura d'a zaguera pestanya
     .accesskey = D
+tab-context-close-multiple-tabs =
+    .label = Zarrar multiples pestanyas
+    .accesskey = m
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Desfer la tancadura
+            [one] Desfer la tancadura d'a pestanya
+           *[other] Desfer la tancadura d'as pestanyas
+        }
+    .accesskey = D
 close-tab =
     .label = Zarrar a pestaña
     .accesskey = t
@@ -67,4 +82,20 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = Mover la pestanya
+    .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zarrar la pestanya
+            [one] Zarrar la pestanya
+           *[other] Zarrar las pestanyas
+        }
+    .accesskey = Z
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mover pestanya
+            [one] Mover la pestanya
+           *[other] Mover las pestanyas
+        }
     .accesskey = v
