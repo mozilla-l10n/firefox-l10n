@@ -817,6 +817,10 @@ forms-master-pw-fips-title = Vous êtes actuellement en mode FIPS. Ce mode néce
 forms-primary-pw-change =
     .label = Changer le mot de passe principal…
     .accesskey = C
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Vous êtes actuellement en mode FIPS. Ce mode nécessite un mot de passe principal non vide.
 forms-master-pw-fips-desc = Échec de la modification du mot de passe principal
 
