@@ -215,6 +215,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = پکچر-ان-پکچر آئیکن
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-cta-link = حفاظتی ڈیش بورڈ دیکھیں
 
 ## Better PDF message
 
@@ -224,3 +225,6 @@ cfr-whatsnew-better-pdf-header = بہتر پی ڈی ایف کا تجربہ
 
 cfr-doorhanger-doh-primary-button = ٹھیک ہے مجھے سمجھ آگئی ہے
     .accesskey = O
+
+## What's new: Cookies message
+
