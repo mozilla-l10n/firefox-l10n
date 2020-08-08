@@ -507,6 +507,9 @@ msg-compose-button-send = Inviar message (&Send)
 msg-compose-details-button-label = Detalios…
 msg-compose-details-button-access-key = D
 send-aborted = Invio abortate.
+key-not-found = Clave '{ $key }' non trovate
+key-revoked = Clave '{ $key }' revocate
+key-expired = Clave '{ $key }' expirate
 msg-compose-internal-error = Error interne.
 msg-compose-partially-encrypted-inlinePGP =
     Le message cuje tu replica contineva ambe partes non cryptate e cryptate. Si le expeditor non poteva originalmente decifrar alcun partes de message, tu informationes confidential que le expeditor non poteva originalmente decifrar ille mesme pote esser revelate.
@@ -541,8 +544,11 @@ attachment-pgp-key =
     Le annexo '{ $name }' que tu aperi appare esser un file clave OpenPGP.¶
     Clicca 'Importar' pro importar le claves continite o 'Vider' pro vider le contentos del file in un fenestra de navigator
 dlg-button-view = &Vider
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Message decryptate (restaurate formato de email PGP corrupte, probabilemente causate per un vetere servitor Exchange, de maniera que le resultato pote non esser perfecte a leger)
 repeat-suffix-singular = altere vice.
 repeat-suffix-plural = altere vices.
+dlg-keep-setting = Rememora mi responsa e non demandar me de novo
 dlg-button-ok = &OK
 dlg-button-close = &Clauder
 dlg-button-cancel = &Cancellar
