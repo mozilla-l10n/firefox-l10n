@@ -184,11 +184,29 @@ openpgp-acceptance-label =
     .label = Aceptación
 openpgp-acceptance-rejected-label =
     .label = No, rechazar esta clave.
+openpgp-acceptance-undecided-label =
+    .label = Todavía no, quizás más tarde.
+openpgp-acceptance-unverified-label =
+    .label = Sí, pero no he verificado que sea la clave correcta.
+openpgp-acceptance-verified-label =
+    .label = Sí, he verificado en persona que esta clave tiene la huella digital correcta.
+openpgp-personal-no-label =
+    .label = No, no usar como mi clave personal.
+openpgp-personal-yes-label =
+    .label = Sí, tratar esta clave como una clave personal.
 openpgp-copy-cmd-label =
     .label = Copiar
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird no tiene una clave personal OpenPGP para <b>{ $identity }</b>
+        [one] Thunderbird encontró { $count } clave personal OpenPGP asociada con <b>{ $identity }</b>
+       *[other] Thunderbird encontró { $count } claves personales OpenPGP asociadas con <b>{ $identity }</b>
+    }
 openpgp-add-key-button =
     .label = Agregar clave…
     .accesskey = A
