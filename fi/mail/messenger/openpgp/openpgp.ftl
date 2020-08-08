@@ -14,6 +14,13 @@ openpgp-key-man-filter-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Ota OpenPGP-protokolla käyttöön valitsemalla voimassa oleva avain.
+       *[other] Nykyinen kokoonpanosi käyttää avaintunnusta <b>{ $key }</b>
+    }
 openpgp-add-key-button =
     .label = Lisää avain…
     .accesskey = L
