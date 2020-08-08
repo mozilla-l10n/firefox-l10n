@@ -65,9 +65,9 @@ remove-all =
 remove-all-shown =
     .label = Αφαίρεση όλων των εμφανιζόμενων
     .accesskey = Α
-remove-all-passwords-prompt = Είστε σίγουροι ότι θέλετε να αφαιρέσετε όλα τα συνθηματικά;
+remove-all-passwords-prompt = Θέλετε σίγουρα να αφαιρέσετε όλους τους κωδικούς πρόσβασης;
 remove-all-passwords-title = Αφαίρεση όλων των κωδικών πρόσβασης
-no-master-password-prompt = Θέλετε σίγουρα να εμφανιστούν οι κωδικοί πρόσβασής σας;
+no-master-password-prompt = Θέλετε σίγουρα να γίνει εμφάνιση των κωδικών πρόσβασής σας;
 
 ## OS Authentication dialog
 
