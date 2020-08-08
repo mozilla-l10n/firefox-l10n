@@ -169,6 +169,7 @@ about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 about-logins-confirm-remove-dialog-confirm-button = Guxūn
 about-logins-confirm-export-dialog-title = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi
+about-logins-confirm-export-dialog-message = Ngà lêchra nāginu sà’ nej da’nga’ huì huā ‘iát (Dàj rû’, BadP@ssw0rd) da’ ga’ue gīni’iāj ahuin mān’an duguî’ na’nïn archivo nan.
 about-logins-confirm-export-dialog-confirm-button = Gā’nïnj gān’an a’ngô hiūj u…
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
 confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
@@ -176,10 +177,17 @@ confirm-discard-changes-dialog-confirm-button = Dunâj man
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Nuguan’ nata’ sna’ānj sa huā riña sitio
 breach-alert-text = Gi'iaj tu nej si da'nga' huì hua 'iát nga nagi'iaj nakàt riña ayi'ìt sesiûn. Naduna da'nga' huì hua 'iát daj dugumînt si kuentât.
+about-logins-breach-alert-date = Nuguan’ nan gurugui’ riña { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Gūij riña { $hostname }
+about-logins-breach-alert-learn-more-link = Gāhuin chrūn doj
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Nitāj si ran hua da’nga’ huìi
 about-logins-vulnerable-alert-learn-more-link = Gāhuin chrūn doj
 
 ## Error Messages
