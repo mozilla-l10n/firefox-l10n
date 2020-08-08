@@ -502,9 +502,15 @@ key-man-button-generate-key-continue = &Continuar le generation del clave
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Error - decryptation fallite
 fix-broken-exchange-msg-failed = Insuccesso a reparar message.
-attachment-no-match-from-signature = Impossibile associar file firma '{ $annexo }' a un annexo
-attachment-no-match-to-signature = Impossibile associar annexo '{ $annexo }' a un file firma
+attachment-no-match-from-signature = Impossibile associar file firma '{ $attachment } a un annexo
+attachment-no-match-to-signature = Impossibile associar annexo '{ $attachment }' a un file firma
+signature-verified-ok = Le firma pro le annexo { $attachment } ha essite verificate con successo
+signature-verify-failed = Le firma pro le annexo { $attachment } non pote esser verificate
+decrypt-ok-no-sig =
+    ATTENTION¶
+    Decryptation exequite con successo, ma le firma non pote esser verificate correctemente
 msg-ovl-button-cont-anyway = &Continuar comocunque
+enig-content-note = *Annexos a iste message non ha essite signate ni cryptate*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = Inviar message (&Send)
 msg-compose-details-button-label = Detalios…
