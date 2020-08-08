@@ -90,6 +90,10 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Πίνακας συνημμένων">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "μ">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Επιλογή όλων">
 <!ENTITY selectAllCmd.accesskey "λ">
@@ -134,7 +138,7 @@
 <!ENTITY viewMenu.accesskey "β">
 <!ENTITY viewToolbarsMenuNew.label "Γραμμές εργαλείων">
 <!ENTITY viewToolbarsMenuNew.accesskey "λ">
-<!ENTITY menubarCmd.label "Γραμμή εργαλείων μενού">
+<!ENTITY menubarCmd.label "Γραμμή μενού">
 <!ENTITY menubarCmd.accesskey "μ">
 <!ENTITY showCompositionToolbarCmd.label "Γραμμή εργαλείων σύνταξης">
 <!ENTITY showCompositionToolbarCmd.accesskey "ξ">

@@ -43,7 +43,7 @@
 <!ENTITY viewMenu.accesskey        "ρ">
 <!ENTITY viewToolbarsMenu.label        "Γραμμές εργαλείων">
 <!ENTITY viewToolbarsMenu.accesskey      "γ">
-<!ENTITY showTaskbarCmd.label          "Γραμμή εργαλείων κατάστασης">
+<!ENTITY showTaskbarCmd.label          "Γραμμή κατάστασης">
 <!ENTITY showTaskbarCmd.accesskey        "σ">
 
 <!ENTITY closeCmd.label      "Κλείσιμο">

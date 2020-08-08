@@ -289,7 +289,7 @@
 <!ENTITY tableProperties.accesskey "δ">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Γραμμή εργαλείων μενού">
+<!ENTITY menuBar.tooltip "Γραμμή μενού">
 <!ENTITY formatToolbar.tooltip "Γραμμή εργαλείων μορφοποίησης">
 <!ENTITY cutToolbarCmd.tooltip "Αποκοπή">
 <!ENTITY copyToolbarCmd.tooltip "Αντιγραφή">
@@ -314,7 +314,6 @@
 <!ENTITY TextColorButton.tooltip "Επιλογή χρώματος κειμένου">
 <!ENTITY BackgroundColorButton.tooltip "Επιλογή χρώματος παρασκηνίου">
 <!ENTITY throbber.tooltip "Μετάβαση στην αρχική σελίδα της &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Μεταβείτε στην αρχική σελίδα του &brandShortName;">
 <!ENTITY HighlightColorButton.label "Επισήμαναση">
 <!ENTITY HighlightColorButton.tooltip "Επιλογή χρώματος επισήμανσης κειμένου">
 

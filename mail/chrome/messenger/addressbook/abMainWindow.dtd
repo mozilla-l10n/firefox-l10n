@@ -68,12 +68,12 @@
 <!ENTITY deleteContactsCmd.label                        "Διαγραφή επαφών">
 <!ENTITY deleteListCmd.label                            "Διαγραφή λίστας">
 <!ENTITY deleteListsCmd.label                           "Διαγραφή λιστών">
-<!ENTITY deleteItemsCmd.label                           "Διαγραφή αντικειμένων">
+<!ENTITY deleteItemsCmd.label                           "Διαγραφή στοιχείων">
 <!ENTITY selectAllCmd.label                             "Επιλογή όλων">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "λ">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Εναλλαγή Μικρού/Επιθέτου">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Εναλλαγή ονόματος/επωνύμου">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "μ">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
@@ -83,9 +83,9 @@
 <!ENTITY propertiesCmd.key                              "i">
 <!ENTITY abPropertiesMenu.label                         "Ιδιότητες ευρετηρίου διευθύνσεων">
 <!ENTITY abPropertiesMenu.accesskey                     "ι">
-<!ENTITY contactPropertiesMenu.label                    "Ιδιότητες Επαφής">
+<!ENTITY contactPropertiesMenu.label                    "Ιδιότητες επαφής">
 <!ENTITY contactPropertiesMenu.accesskey                "ι">
-<!ENTITY mailingListPropertiesMenu.label                "Ιδιότητες Λίστας Ταχυδρομείου">
+<!ENTITY mailingListPropertiesMenu.label                "Ιδιότητες λίστας αλληλογραφίας">
 <!ENTITY mailingListPropertiesMenu.accesskey            "ι">
 
 <!-- View Menu -->
@@ -93,9 +93,9 @@
 <!ENTITY viewMenu.accesskey                             "β">
 <!ENTITY viewToolbarsMenu.label                         "Γραμμές εργαλείων">
 <!ENTITY viewToolbarsMenu.accesskey                     "γ">
-<!ENTITY menubarCmd.label                               "Γραμμή εργαλείων μενού">
+<!ENTITY menubarCmd.label                               "Γραμμή μενού">
 <!ENTITY menubarCmd.accesskey                           "μ">
-<!ENTITY showAbToolbarCmd.label                         "Γραμμή εργαλείων βιβλίου διευθύνσεων">
+<!ENTITY showAbToolbarCmd.label                         "Γραμμή ευρετηρίων διευθύνσεων">
 <!ENTITY showAbToolbarCmd.accesskey                     "ρ">
 <!ENTITY showTaskbarCmd.label                           "Γραμμή κατάστασης">
 <!ENTITY showTaskbarCmd.accesskey                       "μ">
@@ -115,7 +115,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.accesskey                        "μ">
 <!ENTITY lastFirstCmd.label                             "Επώνυμο, Όνομα">
 <!ENTITY lastFirstCmd.accesskey                         "π">
-<!ENTITY displayNameCmd.label                           "Όνομα">
+<!ENTITY displayNameCmd.label                           "Εμφανιζόμενο όνομα">
 <!ENTITY displayNameCmd.accesskey                       "ν">
 <!ENTITY sortMenu.label                                 "Ταξινόμηση κατά">
 <!ENTITY sortMenu.accesskey                             "Τ">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.accesskey                         "λ">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY addressBookCmd.label                           "Ευρετήριο διευθύνσεων">
-<!ENTITY addressBookCmd.accesskey                       "a">
+<!ENTITY addressBookCmd.accesskey                       "δ">
 <!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Αναζήτηση διευθύνσεων">
 <!ENTITY searchAddressesCmd.accesskey                   "ζ">
@@ -190,7 +190,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.label                            "Όνομα">
 <!ENTITY GeneratedName.accesskey                        "ν">
 <!ENTITY PrimaryEmail.label                             "Email">
-<!ENTITY PrimaryEmail.accesskey                         "ε">
+<!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Όνομα συνομιλίας">
 <!ENTITY ChatName.accesskey                             "σ">
 <!ENTITY Company.label                                  "Οργανισμός">
@@ -198,7 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY NickName.label                                 "Ψευδώνυμο">
 <!ENTITY NickName.accesskey                             "δ">
 <!ENTITY SecondEmail.label                              "Επιπρόσθετο email">
-<!ENTITY SecondEmail.accesskey                          "υ">
+<!ENTITY SecondEmail.accesskey                          "θ">
 <!ENTITY Department.label                               "Τμήμα">
 <!ENTITY Department.accesskey                           "μ">
 <!ENTITY JobTitle.label                                 "Τίτλος">
