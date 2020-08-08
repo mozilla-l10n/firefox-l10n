@@ -272,7 +272,7 @@ addon-updates-reset-updates-to-manual = Przestaw wszystkie dodatki na ręczną a
 extensions-updates-updating =
     .value = Aktualizowanie dodatków…
 extensions-updates-installed =
-    .value = Dodatki zostały uaktualnione.
+    .value = Dodatki zostały zaktualizowane.
 extensions-updates-downloaded =
     .value = Pobrano aktualizacje dodatków.
 extensions-updates-restart =
@@ -285,7 +285,7 @@ extensions-updates-update-selected =
     .label = Zainstaluj aktualizacje
     .tooltiptext = Zainstaluj aktualizacje z tej listy
 addon-updates-updating = Aktualizowanie dodatków…
-addon-updates-installed = Dodatki zostały uaktualnione.
+addon-updates-installed = Dodatki zostały zaktualizowane.
 addon-updates-none-found = Nie znaleziono aktualizacji.
 addon-updates-manual-updates-found = Wyświetl dostępne aktualizacje
 
@@ -418,7 +418,7 @@ addon-detail-homepage-label = Strona domowa
 addon-detail-rating-label = Ocena
 # Message for add-ons with a staged pending update.
 install-postponed-message = To rozszerzenie zostanie zaktualizowane po ponownym uruchomieniu programu { -brand-short-name }.
-install-postponed-button = Aktualizuj teraz
+install-postponed-button = Zaktualizuj teraz
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
@@ -449,7 +449,7 @@ addon-detail-updates-radio-default = ustawienia domyślne
 addon-detail-updates-radio-on = włączone
 addon-detail-updates-radio-off = wyłączone
 addon-detail-update-check-label = Sprawdź dostępność aktualizacji
-install-update-button = Uaktualnij
+install-update-button = Zaktualizuj
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
