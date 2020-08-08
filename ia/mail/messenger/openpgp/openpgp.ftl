@@ -519,6 +519,10 @@ minimal-line-wrapping =
     Tu ha configurate le ruptura e inveloppamento del lineas a { $width } characteres. Pro correcte cryptation o signatura, iste valor debe esser al minus 68.
     Vole tu cambiar ora le ruptura e inveloppamento del lineas a 68 characteres
 sending-hidden-rcpt = Le destinatarios CCN (cec copia) non pote esser usate inviante un message cryptate. Pro inviar iste message cryptate, remove le destinatarios Ccn o move illes in le campo CC.
+sending-news =
+    Invio cryptate abortate.¶ 
+    Iste message non pote esser cryptate perque il ha como destinatarios gruppos de discussion.
+    Re-invia le message non cryptate.
 do-import-one = Importar { $name } ({ $id })?
 dlg-button-view = &Vider
 repeat-suffix-singular = altere vice.
