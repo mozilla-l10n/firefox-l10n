@@ -30,5 +30,10 @@ content-blocking-description = కొన్ని వెబ్‌సైట్ల
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = అంతరంగిక కిటికీలలో మీ అప్రమేయ శోధన యంత్రం { $engineName }
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] మరో శోధన యంత్రాన్ని ఎంచుకోడానికి <a data-l10n-name="link-options">ఎంపికల</a>కు వెళ్ళండి
+       *[other] మరో శోధన యంత్రాన్ని ఎంచుకోడానికి <a data-l10n-name="link-options">అభిరుచుల</a>కు వెళ్ళండి
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = మూసివేయి
