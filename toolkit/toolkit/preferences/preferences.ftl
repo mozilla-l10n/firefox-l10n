@@ -12,6 +12,7 @@ pw-erased-ok = Διαγράψατε τον Κύριο κωδικό σας. { pw-
 pw-not-wanted = Προειδοποίηση! Αποφασίσατε να μη χρησιμοποιήσετε ένα Κύριο κωδικό. { pw-empty-warning }
 pw-change2empty-in-fips-mode = Αυτή τη στιγμή είστε σε λειτουργία FIPS. Το FIPS απαιτεί ένα μη-κενό κύριο κωδικό.
 failed-pp-change = Δεν ήταν δυνατή η αλλαγή του κύριου κωδικού πρόσβασης.
+pp-change-ok = Επιτυχής αλλαγή κύριου κωδικού πρόσβασης.
 pw-change-success-title = Επιτυχής αλλαγή κωδικού
 pw-change-failed-title = Αποτυχία αλλαγής κωδικού
 pw-remove-button =
