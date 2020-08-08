@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (glodaFacetView.filters.label): Label at the top of the
      faceting sidebar.  Serves as a header both for the checkboxes under it as
      well for labeled facets with multiple options. -->
-<!ENTITY glodaFacetView.filters.label "Φίλτρο σε:">
+<!ENTITY glodaFacetView.filters.label "Φίλτρα">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
-<!ENTITY glodaFacetView.empty.label "Δεν βρέθηκαν μηνύματα που να ταιριάζουν στην αναζήτηση σας">
+<!ENTITY glodaFacetView.empty.label "Κανένα μήνυμα δεν ταιριάζει στην αναζήτησή σας">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
@@ -26,4 +26,4 @@
 
 <!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.tooltip):
      The tooltip to display when hovering over the openEmailAsList label. -->
-<!ENTITY glodaFacetView.openEmailAsList.tooltip "Προβολή όλων των μηνυμάτων ηλεκτρονικού ταχυδρομείου από την ενεργή καρτέλα σε μια νέα καρτέλα">
+<!ENTITY glodaFacetView.openEmailAsList.tooltip "Εμφάνιση όλων των email του ενεργού συνόλου σε νέα καρτέλα">
