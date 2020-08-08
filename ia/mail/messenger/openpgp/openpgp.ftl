@@ -462,6 +462,10 @@ no-key-found = Impossibile trovar ulle clave concordante le criterios de recerca
 fail-key-extract = Error - Commando de extraction clave fallite
 # Strings used in keyRing.jsm
 fail-cancel = Error - reception clave cancellate per le usator
+not-first-block = Error - Prime blocada de OpenPGP non es blocada de clave public
+import-key-confirm = Importar clave(s) public integrate in le message?
+fail-key-import = Error - importation de clave fallite
+file-write-failed = Falta a scriber al file { $output }
 # Strings used in trust.jsm
 key-valid-unknown = incognite
 key-valid-invalid = non valide
