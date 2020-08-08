@@ -188,6 +188,10 @@ about-logins-breach-alert-learn-more-link = Gāhuin chrūn doj
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Nitāj si ran hua da’nga’ huìi
+about-logins-vulnerable-alert-text2 = Ngà garâj sun nej si da’nga’ huì nan riña a’ngô kuenta, si gūruhuaj nī giri huì si man. Sisī gārasun ñût man nī ga’ue gà’uì’ yi’ìj nej si kuentât. Nādunā da’nga’ huì nan ân.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Gūij riña { $hostname }
 about-logins-vulnerable-alert-learn-more-link = Gāhuin chrūn doj
 
 ## Error Messages
@@ -202,6 +206,29 @@ about-logins-error-message-default = Hua 'ngo sa gire' ngà gahuin ruhuât na'n�
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Dūguachîn archivo nej riña gayì’ìt sēsiûn
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Gā’nïnj gān’an a’ngô hiūj u…
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Ñanj
+       *[other] CSV archivo
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Nākāj archivo nej riña gayì’ìt sēsiûn
+about-logins-import-file-picker-import-button = Gānāko'
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Ñanj
+       *[other] CSV Archivo
+    }

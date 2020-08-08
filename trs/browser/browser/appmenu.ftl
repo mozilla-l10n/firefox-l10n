@@ -5,9 +5,9 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Nej sa dugumîn sa hua huìi
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Ni'iāj dàj hua rayi'î sa huì huā 'iát
+appmenuitem-update-banner =
+    .label-update-downloading = Nādunïnj sa huā nākà guendâ { -brand-shorter-name }
+appmenuitem-protection-dashboard-title = Riña màn nej sa dugumîn
 appmenuitem-customize-mode =
     .label = Nagi'iô' daj huin ruhuô'...
 
@@ -26,3 +26,8 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nù huin sa nakà hua
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Gātāj na’ānj si huā sa nakà doj
+    .accesskey = ā
