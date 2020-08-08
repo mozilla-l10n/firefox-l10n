@@ -101,3 +101,4 @@ experimental-features-devtools-serviceworker-debugger-support-description = Вк
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Графика: Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = Включение поддержки плавного масштабирования на сенсорных экранах и точных сенсорных панелях.
