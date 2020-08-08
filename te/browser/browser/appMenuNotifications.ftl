@@ -31,6 +31,7 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = ఇప్పుడు వద్దు
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = పునఃప్రారంభమైన తర్వాత, అంతరంగిక విహరణలో లేని మీ తెరిచివున్న ట్యాబులను, కిటికీలను { -brand-shorter-name } పునరుద్ధరిస్తుంది.
 appmenu-addon-private-browsing-installed =
     .buttonlabel = సరే, అర్థమయ్యింది
     .buttonaccesskey = O
