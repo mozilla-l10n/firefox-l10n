@@ -466,13 +466,16 @@ not-first-block = Error - Prime blocada de OpenPGP non es blocada de clave publi
 import-key-confirm = Importar clave(s) public integrate in le message?
 fail-key-import = Error - importation de clave fallite
 file-write-failed = Falta a scriber al file { $output }
+confirm-permissive-import = Importation fallite. Le clave que tu tenta importar pote esser corrumpite o usa attributos incognite. Vole tu tentar de importar le partes que es correcte? Isto pote comportar le importation de claves incomplete e inusabile.
 # Strings used in trust.jsm
 key-valid-unknown = incognite
 key-valid-invalid = non valide
 key-valid-disabled = disactivate
 key-valid-revoked = revocate
 key-valid-expired = expirate
+key-trust-untrusted = non fidabile
 key-trust-marginal = marginal
+key-trust-full = fidabile
 key-trust-group = (gruppo)
 # Strings used in commonWorkflows.js
 import-key-file = Importar le file clave OpenPGP
