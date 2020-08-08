@@ -476,6 +476,7 @@ key-valid-expired = expirate
 key-trust-untrusted = non fidabile
 key-trust-marginal = marginal
 key-trust-full = fidabile
+key-trust-ultimate = ultimate
 key-trust-group = (gruppo)
 # Strings used in commonWorkflows.js
 import-key-file = Importar le file clave OpenPGP
@@ -483,6 +484,7 @@ import-rev-file = Importar le le revocation del file OpenPGP
 gnupg-file = Files GnuPG
 import-keys-failed = Importation de claves fallite!
 passphrase-prompt = Insere le phrase contrasigno que disbloca le sequente clave: { $key }
+file-to-big-to-import = Iste file es troppo grande. Non importar grande gruppos de claves contemporaneemente.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear e salvar le certificato de revocation
 keygen-missing-user-name = Il ha nulle nomine specificate pro le conto/identitate seligite. Insere un valor in le campo · "Tu nomine" in le parametros del conto.
