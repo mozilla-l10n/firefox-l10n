@@ -44,6 +44,7 @@
 
 # LOCALIZATION NOTE (mozdev_seamonkey):
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
+#define mozdev_seamonkey Razširitve za SeaMonkey z mozdev.org
 
 #define community_support Skupnost in podpora
 
@@ -57,6 +58,7 @@
 
 # LOCALIZATION NOTE (seamonkey_support):
 # link title for the mozillaZine SeaMonkey Support forum
+#define seamonkey_support Forum s podporo za SeaMonkey (mozillaZine)
 
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
