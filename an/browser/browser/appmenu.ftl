@@ -5,10 +5,9 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Proteccions de privacidat
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Ir ta lo tuyo informe de privacidat
-
+appmenuitem-update-banner =
+    .label-update-downloading = Se ye descargando l'actualización de { -brand-shorter-name }
+appmenuitem-protection-dashboard-title = Taulero de proteccions
 appmenuitem-customize-mode =
     .label = Personalizar…
 
@@ -26,3 +25,9 @@ fxa-toolbar-sync-now =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Novedatz
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Informar-me d'as nuevas funcionalidatz
+    .accesskey = f
