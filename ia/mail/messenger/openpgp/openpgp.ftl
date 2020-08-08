@@ -523,7 +523,23 @@ sending-news =
     Invio cryptate abortate.¶ 
     Iste message non pote esser cryptate perque il ha como destinatarios gruppos de discussion.
     Re-invia le message non cryptate.
+send-to-news-warning =
+    ATTENTION: tu va inviar un email cryptate a un gruppo de discussion.¶
+    Isto es discoragiate perque illo solo face senso si tote le membros del gruppo poter decifrar le message, i.e. le message debe esser cryptate con le claves de tote le participantes del gruppo.
+    Per favor invia iste message solo si tu sape exactemente lo que tu face.¶
+    Continuar?
+possibly-pgp-mime = Forsan message cryptate o signate PGP/MIME; pro verificar usa le function 'Decifrar/Verificar'
+cannot-send-sig-because-no-own-key = Impossibile firmar digitalmente iste message, perque tu non ha ancora configurate le cryptographia end-to-end pro <{ $key }>
+cannot-send-enc-because-no-own-key = Impossibile firmar digitalmente iste message, perque tu non ha ancora configurate le cryptographia end-to-end pro <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importar le claves sequente?
+    { $key }
 do-import-one = Importar { $name } ({ $id })?
+cant-import = Error al importation del clave public
+attachment-pgp-key =
+    Le annexo '{ $name }' que tu aperi appare esser un file clave OpenPGP.¶
+    Clicca 'Importar' pro importar le claves continite o 'Vider' pro vider le contentos del file in un fenestra de navigator
 dlg-button-view = &Vider
 repeat-suffix-singular = altere vice.
 repeat-suffix-plural = altere vices.
