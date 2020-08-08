@@ -45,7 +45,7 @@
 <!ENTITY autoSave.accesskey                   "υ">
 <!ENTITY autoSaveEnd.label                    "λεπτά">
 
-<!ENTITY emailCollectionPicker.label           "Αυτόματη προσθήκη των εξερχομένων διευθύνσεων e-mail σε:">
+<!ENTITY emailCollectionPicker.label           "Αυτόματη προσθήκη εξερχομένων διευθύνσεων email σε:">
 <!ENTITY emailCollectionPicker.accesskey       "τ">
 <!ENTITY addressingTitle.label                 "Αυτόματη συμπλήρωση διεύθυνσης">
 <!ENTITY autocompleteText.label                "Κατά τη διευθυνσιοδότηση μηνυμάτων, αναζήτηση για αντίστοιχες καταχωρήσεις σε:">

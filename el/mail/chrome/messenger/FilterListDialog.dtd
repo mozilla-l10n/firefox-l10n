@@ -20,7 +20,7 @@
 <!ENTITY reorderUpButton.accesskey "Ν">
 <!ENTITY reorderDownButton.label "Μετακίνηση προς τα κάτω">
 <!ENTITY reorderDownButton.accesskey "κ">
-<!ENTITY reorderBottomButton "Μετακίνηση στον πάτο">
+<!ENTITY reorderBottomButton "Μετακίνηση στο κάτω μέρος">
 <!ENTITY reorderBottomButton.accessKey "Π">
 <!ENTITY reorderBottomButton.toolTip "Επανακατάταξη φίλτρου ώστε να εκτελείται μετά από όλα τα υπόλοιπα">
 <!ENTITY filterHeader.label "Τα ενεργοποιημένα φίλτρα θα εκτελούνται με την παρακάτω σειρά.">
