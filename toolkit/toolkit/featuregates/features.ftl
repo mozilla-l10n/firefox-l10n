@@ -8,6 +8,10 @@ experimental-features-css-masonry =
     .label = CSS Masonry Layout
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu =
     .label = WebGPU
 experimental-features-web-gpu-description = Web üzerinde grafikler ve bilgi işlem için deneysel API
@@ -20,6 +24,10 @@ experimental-features-avif-description = Deneysel AVIF desteği: AV1 Görüntü 
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-avif =
+    .label = Media: AVIF
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -36,6 +44,16 @@ experimental-features-css-focus-visible =
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-session-api =
+    .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Geliştirici Araçları: Renk Şeması Simülasyonu
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Çerezler: Varsayılan olarak SameSite=Lax
@@ -47,3 +65,13 @@ experimental-features-cookie-samesite-none-requires-secure2 =
 experimental-features-abouthome-startup-cache =
     .label = about:home başlangıç önbelleği
 experimental-features-abouthome-startup-cache-description = Başlangıçta varsayılan olarak yüklenen about:home belgesi için önbellek. Bu önbelleğin amacı, başlangıç performansını artırmaktır.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Çerezler: Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Geliştirici Araçları: Service Worker hata ayıklama
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafik: Smooth Pinch Zoom
