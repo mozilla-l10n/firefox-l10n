@@ -82,3 +82,5 @@
 <!ENTITY viewCertManager.label       "Odpri upravitelja digitalnih potrdil">
 <!ENTITY viewCertManager.accesskey   "u">
 
+<!ENTITY zoomIn.tooltiptext          "Večje">
+<!ENTITY zoomOut.tooltiptext         "Manjše">

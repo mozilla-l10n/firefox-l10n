@@ -13,6 +13,8 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label "Zapri zavihke na desni">
 
+<!ENTITY uploadFile.label "Naloži datoteko …">
+<!ENTITY uploadFile.accesskey "ž">
 
 <!ENTITY printSetupCmd.label "Priprava strani …">
 
@@ -27,6 +29,7 @@ left instead of right. -->
 <!ENTITY useStyleSheetMenu.label "Uporabi slog">
 <!ENTITY useStyleSheetPersistentOnly.label "Privzeti slog">
 <!ENTITY pageSourceCmd.label "Vir strani">
+<!ENTITY pageInfoCmd.label "Podatki o strani">
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Pojdi">
