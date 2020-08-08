@@ -27,8 +27,10 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Nekatera orodja brskalnika &brandShortName;, na primer poročevalec o sesutjih, organizaciji &vendorShortName; omogočajo zbiranje povratnih informacij. S soglasjem dajete organizaciji &vendorShortName; dovoljenje, da povratne informacije uporabi za izboljšanje svojih programov, jih objavi na svojih spletnih straneh in jih razpečuje.">
 
 <!-- point 2da is technically point 3. in the list -->
+<!ENTITY rights.intro-point2da "Nekatera orodja brskalnika &brandShortName;, npr. poročevalec o sesutjih, organizaciji &vendorShortName; omogočajo zbiranje povratnih informacij. S soglasjem dajete organizaciji &vendorShortName; dovoljenje, da povratne informacije uporabi za izboljšanje svojih programov, jih objavi na svojih spletnih straneh in jih razpečuje.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Politiko zasebnosti izdelkov &vendorShortName; lahko najdete">
@@ -65,12 +67,15 @@
 <!ENTITY rights.safebrowsing-a "Varno brskanje:">
 <!ENTITY rights.safebrowsing-b "Možnosti Varno brskanje ni priporočljivo onemogočati, ker lahko zaradi tega zaidete na nevarne strani. Če želite možnost v celoti onemogočiti, sledite tem korakom:">
 <!ENTITY rights.safebrowsing-term1 "Odprite nastavitve programa">
+<!ENTITY rights.safebrowsing-term2 "Izberite glavno ploščo &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Počistite možnosti &quot;&blockAttackSites.label;&quot; in &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Varno brskanje je tako onemogočeno">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Brskanje, ki se zaveda položaja:">
 <!ENTITY rights.locationawarebrowsing-b "je vedno izbirno. Podatki o položaju se tako nikoli ne pošiljajo brez vašega dovoljenja. Če želite v celoti onemogočiti to možnost, sledite tem korakom:">
+<!ENTITY rights.locationawarebrowsing-term1 "Odprite nastavitve programa">
+<!ENTITY rights.locationawarebrowsing-term2 "Izberite glavno ploščo &security.label;">
 
 <!-- points 0-6 text for branded builds -->
 

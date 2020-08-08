@@ -15,6 +15,13 @@
 <!ENTITY importFromNothing.accesskey     "N">
 
 <!ENTITY importSource.title              "Uvoz nastavitev in podatkov">
+<!ENTITY importItems.title               "Možnosti uvoza">
+<!ENTITY importItems.label               "Izberite, kaj želite uvoziti:">
 
+<!ENTITY selectProfile.label             "Uvoz je možen iz naslednjih profilov:">
 
+<!ENTITY migrating.title                 "Uvažanje …">
+<!ENTITY migrating.label                 "Trenutno se uvaža ...">
 
+<!ENTITY done.title                      "Uvoz dokončan">
+<!ENTITY done.label                      "Naslednji predmeti so bili uspešno uvoženi:">
