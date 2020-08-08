@@ -128,7 +128,7 @@
 <!ENTITY redoMoveMsgCmd.label "Επανάληψη μετακίνησης μηνύματος">
 <!ENTITY undoCopyMsgCmd.label "Αναίρεση αντιγραφής μηνύματος">
 <!ENTITY redoCopyMsgCmd.label "Επανάληψη αντιγραφής μηνύματος">
-<!ENTITY undoMarkAllCmd.label "Αναίρεση σημείωσης όλων ως αναγνωσμένων">
+<!ENTITY undoMarkAllCmd.label "Αναίρεση επισήμανσης όλων ως αναγνωσμένων">
 <!ENTITY redoMarkAllCmd.label "Επανάληψη επισήμανσης όλων ως αναγνωσμένων">
 <!ENTITY undoDefaultCmd.label "Αναίρεση">
 <!ENTITY undoDefaultCmd.accesskey "ρ">
@@ -413,7 +413,7 @@
 <!ENTITY tagCmd7.key "7">
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
-<!ENTITY markMenu.label "Σημείωση">
+<!ENTITY markMenu.label "Επισήμανση">
 <!ENTITY markMenu.accesskey "μ">
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Ως αναγνωσμένο">
@@ -454,7 +454,7 @@
 <!ENTITY openFeedWebPage.accesskey "σ">
 <!ENTITY openFeedSummary.label "Άνοιγμα ως περίληψη">
 <!ENTITY openFeedSummary.accesskey "ψ">
-<!ENTITY openFeedWebPageInMP.label "Εναλλαγή ιστοσελίδας και περίληψης στο ταμπλό μηνυμάτων">
+<!ENTITY openFeedWebPageInMP.label "Εναλλαγή ιστοσελίδας και περίληψης στα μηνύματα">
 <!ENTITY openFeedWebPageInMP.accesskey "γ">
 
 <!-- Windows Menu -->
@@ -599,11 +599,11 @@
 <!ENTITY goBackButton.tooltip "Μετάβαση πίσω ένα μήνυμα">
 <!ENTITY deleteButton.tooltip "Διαγραφή επιλεγμένου μηνύματος ή φακέλου">
 <!ENTITY undeleteButton.tooltip "Ακύρωση διαγραφής επιλεγμένου μηνύματος">
-<!ENTITY markButton.tooltip "Σημείωση μηνυμάτων">
+<!ENTITY markButton.tooltip "Επισήμανση μηνυμάτων">
 <!ENTITY printButton.tooltip "Εκτύπωση μηνύματος">
 <!ENTITY stopButton.tooltip "Διακοπή της τρέχουσας μεταφοράς">
-<!ENTITY junkButton.tooltip "Σημείωση των επιλεγμένων μηνυμάτων ως ανεπιθύμητα">
-<!ENTITY notJunkButton.tooltip "Σημείωση των επιλεγμένων μηνυμάτων ως επιθυμητή αλληλογραφία">
+<!ENTITY junkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως ανεπιθύμητων">
+<!ENTITY notJunkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως μη ανεπιθύμητων">
 <!ENTITY addressBookButton.tooltip "Μετάβαση στο ευρετήριο διευθύνσεων">
 <!ENTITY chatButton.tooltip "Εμφάνιση της καρτέλας Συνομιλίας">
 <!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
@@ -678,9 +678,9 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "κ">
 <!ENTITY folderContextUnsubscribe.label "Αποχώρηση συνδρομητή">
 <!ENTITY folderContextUnsubscribe.accesskey "χ">
-<!ENTITY folderContextMarkNewsgroupRead.label "Σημείωση ομάδας συζήτησης ως αναγνωσμένης">
+<!ENTITY folderContextMarkNewsgroupRead.label "Επισήμανση ομάδας συζητήσεων ως αναγνωσμένης">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "γ">
-<!ENTITY folderContextMarkMailFolderRead.label "Σημείωση φακέλου ως αναγνωσμένου">
+<!ENTITY folderContextMarkMailFolderRead.label "Επισήμανση φακέλου ως αναγνωσμένου">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "κ">
 <!ENTITY folderContextSubscribe.label "Συνδρομή…">
 <!ENTITY folderContextSubscribe.accesskey "γ">
