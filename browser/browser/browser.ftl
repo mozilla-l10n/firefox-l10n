@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Pytać abo adresu zapodać
 urlbar-placeholder =
     .placeholder = Pytać abo adresu zapodać
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Pytajće z { $name } abo zapodajće adresu
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Wobhladowak so zdaloka wodźi
 urlbar-permissions-granted =
