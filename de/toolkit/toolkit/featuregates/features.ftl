@@ -90,7 +90,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Ein Cache für das anfängliche about:home-Dokument, das beim Start standardmäßig geladen wird. Der Zweck des Caches besteht darin, die Startleistung zu verbessern.
 experimental-features-print-preview-tab-modal =
     .label = Druckvorschau-Redesign
-experimental-features-print-preview-tab-modal-description = Führt die neu gestaltete Druckvorschau ein und stellt Druckvorschau auf macOS zur Verfügung. Dies führt potenziell zu Problemen und beinhaltet nicht alle druckbezogenen Einstellungen. Um auf alle druckbezogenen Einstellungen zuzugreifen, wählen Sie "Drucken über den Systemdialog…" aus der Druckansicht.
+experimental-features-print-preview-tab-modal-description = Führt die neu gestaltete Druckvorschau ein und stellt diese auf macOS zur Verfügung. Dies führt potenziell zu Problemen und beinhaltet nicht alle druckbezogenen Einstellungen. Um auf alle druckbezogenen Einstellungen zuzugreifen, wählen Sie "Drucken über den Systemdialog…" aus der Druckansicht.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
