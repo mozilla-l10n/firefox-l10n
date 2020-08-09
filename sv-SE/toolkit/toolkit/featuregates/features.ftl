@@ -88,6 +88,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Kakor 
 experimental-features-abouthome-startup-cache =
     .label = about:home startcache
 experimental-features-abouthome-startup-cache-description = En cache för startdokumentet about:home som laddas som standard vid start. Syftet med cachen är att förbättra startprestanda.
+experimental-features-print-preview-tab-modal =
+    .label = Omkonstruktion av förhandsgranska
+experimental-features-print-preview-tab-modal-description = Introducerar den omkonstruerade förhandsgranskning och gör förhandsgranskning tillgänglig på macOS. Detta introducerar potentiellt fel och inkluderar inte alla utskrifts-relaterade inställningar. För att komma åt alla utskrifts-relaterade inställningar, välj “Skriv ut genom att använda systemdialogen...” från Utskrifts-panelen.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
