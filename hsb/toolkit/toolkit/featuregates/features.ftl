@@ -64,6 +64,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Tuta funkcija tłóčatko w přikazowej lince konsole pokazuje, z kotrymž móžeće kontekst změnić, w kotrymž so ma zapodaty wuraz wuwjesć. Hlejće <a data-l10n-name="bugzilla1">zmylk 1605154</a> a <a data-l10n-name="bugzilla2">zmylk 1605153</a> za dalše podrobnosće.
 experimental-features-devtools-compatibility-panel =
     .label = Wuwiwarske nastroje: Wokno kompatibelnosće
+experimental-features-devtools-compatibility-panel-description = Bóčnica za inspektor stronow, kotraž wam informacije wo statusu kompatibelnosće cross-browser wašeho nałoženja pokazuje. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Placki: SameSite=Lax po standardźe
@@ -79,6 +80,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Pufrowak za spočatny dokument about:home, kotryž so po standardźe při startowanju začituje. Zaměr pufrowaka je, startowy wukon polěpšić.
 experimental-features-print-preview-tab-modal =
     .label = Nowy design ćišćerskeho přehlada
+experimental-features-print-preview-tab-modal-description = Zawjeduje nowo wuhotowany ćišćerski přehlad a staja ćišćerski přehlad na macOS k dispoziciji. To potencielnje problemy zawinuje a njewobsahuje wšě ćišćerske nastajenja. Zo byšće přistup ke wšěm ćišćerskim nastajenjam měł, wubjerće „Z pomocu systemoweho dialoga ćišćeć…“ z ćišćerskeho přehlada.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
