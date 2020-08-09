@@ -30,9 +30,29 @@ openpgp-keygen-type-rsa =
     .label = RSA
 openpgp-keygen-type-ecc =
     .label = ECC (Elliptic Curve)
+openpgp-keygen-button = Kluč wutworić
+openpgp-keygen-confirm =
+    .label = Wobkrućić
+openpgp-keygen-dismiss =
+    .label = Přetorhnyć
+openpgp-keygen-cancel =
+    .label = Proces přetorhnyć…
+openpgp-keygen-import-complete =
+    .label = Začinić
+    .accesskey = Z
 
 ## Import Key section
 
+gnupg-file = GnuPG-dataje
+openpgp-import-identity-label = Identita
+openpgp-import-fingerprint-label = Porstowy wotćišć
+openpgp-import-created-label = Wutworjeny
+openpgp-import-bits-label = Bity
+openpgp-import-key-props =
+    .label = KLučowe kajkosće
+    .accesskey = K
 
 ## External Key section
 
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
