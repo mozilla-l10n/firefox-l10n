@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Felsök
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Starta
     .title = Du kan endast starta Service Workers om multi e10s är inaktiverad
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Inspektera
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Starta
