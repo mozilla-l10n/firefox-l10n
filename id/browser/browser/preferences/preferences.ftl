@@ -790,6 +790,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Gunakan Sandi Utama
     .accesskey = S
+forms-primary-pw-learn-more-link = Pelajari lebih lanjut
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -1173,6 +1174,14 @@ space-alert-under-5gb-message = { -brand-short-name } kehabisan ruang disk. Kont
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Mode Hanya HTTPS
+httpsonly-learn-more = Pelajari lebih lanjut
+httpsonly-radio-enabled =
+    .label = Aktifkan Mode Hanya HTTPS di semua jendela
+httpsonly-radio-enabled-pbm =
+    .label = Aktifkan Mode Hanya HTTPS di jendela pribadi saja
+httpsonly-radio-disabled =
+    .label = Jangan aktifkan Mode Hanya HTTPS
 
 ## The following strings are used in the Download section of settings
 
