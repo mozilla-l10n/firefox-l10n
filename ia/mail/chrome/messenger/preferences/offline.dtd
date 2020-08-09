@@ -4,6 +4,8 @@
 
 <!ENTITY offlineDialog.title "Parametros offline">
 
+<!ENTITY titleStartUp "Stato manual al initio:">
+<!ENTITY radioRememberPrevState.label "Rememorar le stato in linea previe">
 <!ENTITY radioAlwaysOnlineState.label "Online">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Foras de linea">
