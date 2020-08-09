@@ -44,6 +44,29 @@ onboarding-cards-dismiss =
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Dobro došli u <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Brzi, sigurni i privatni preglednik iza kojeg stoji neprofitna organizacija.
+onboarding-multistage-welcome-primary-button-label = Započni postavljanje
+onboarding-multistage-welcome-secondary-button-label = Prijavi se
+onboarding-multistage-welcome-secondary-button-text = Imaš račun?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Uvezi svoje lozinke, <br/>zabilješke i <span data-l10n-name="zap">više</span>
+onboarding-multistage-import-subtitle = Dolaziš iz drugog preglednika? Lako je ponijeti sve u { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Započni uvoz
+onboarding-multistage-import-secondary-button-label = Ne sada
+onboarding-multistage-theme-primary-button-label = Spremi temu
+onboarding-multistage-theme-secondary-button-label = Ne sada
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatski
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Koristi temu sustava
+onboarding-multistage-theme-label-light = Svijetlo
+onboarding-multistage-theme-label-dark = Tamno
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
