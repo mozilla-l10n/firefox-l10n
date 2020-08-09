@@ -25,6 +25,8 @@ reset-password-window =
 pippki-failed-pw-change = Парольді өзгерту мүмкін емес.
 pippki-incorrect-pw = Сіз ағымдағы парольді қате енгіздіңіз. Қайтадан енгізіп көріңіз.
 pippki-pw-change-ok = Пароль сәтті өзгертілді.
+pippki-pw-empty-warning = Сіздің сақталған парольдер мен жеке кілттер қорғалмайтын болады.
+pippki-pw-erased-ok = Сіз өз пароліңізді өшірдіңіз. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 

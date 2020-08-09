@@ -32,6 +32,8 @@ printui-scale-fit-to-page = Бетке сыйдыру
 printui-scale-pcent = Масштаб
 # Section title for miscellaneous print options
 printui-options = Опциялар
+printui-headers-footers-checkbox = Үстіңгі және астыңғы тақырыптамаларды баспаға шығару
+printui-backgrounds-checkbox = Фондарды баспаға шығару
 printui-system-dialog-link = Жүйелік сұхбатын қолданып, баспаға шығару…
 printui-primary-button = Баспаға шығару
 printui-cancel-button = Бас тарту
