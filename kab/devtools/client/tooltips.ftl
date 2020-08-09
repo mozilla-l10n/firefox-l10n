@@ -64,6 +64,10 @@ inactive-text-overflow-when-no-overflow-fix = Ɛreḍ ad ternuḍ <strong>overfl
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> ur yettusefrak ara deg yiminigen i d-iteddun:
-css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> tella d timeẓli tarmitant d taqburt deg rrif tura s yilugan W3c. Ur yettusefrak ara deg yiminigen i d-iteddun:
-css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> tella d timezli tarmitant d taqburt s yilugan W3c.
-css-compatibility-deprecated-message = <strong>{ $property }</strong> d taqburt s yilugan W3c. Ur tettusefrak ara deg yiminigen i d-iteddun:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> tella d timeẓli tarmitant d taqburt deg rrif tura s yilugan W3C. Ur yettusefrak ara deg yiminigen i d-iteddun:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> tella d timezli tarmitant d taqburt s yilugan W3C.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> d taqburt s yilugan W3C. Ur tettusefrak ara deg yiminigen i d-iteddun:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong></strong> d taqburt s yilugan W3C.
+css-compatibility-experimental-message = <strong>{ $property }</strong> tella d timeẓli tarmitant. Ur yettusefrakara deg yiminigen i d-iteddun:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> tella d timeẓli tarmitant.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Issin ugar</span> ɣef <strong>{ $rootProperty }</strong>
