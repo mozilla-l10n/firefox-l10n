@@ -31,5 +31,10 @@ openpgp-broken-exchange-info = Si le contentos del message non es monstrate como
 openpgp-broken-exchange-repair =
     .label = Reparar le message
 openpgp-broken-exchange-wait = Per favor attende…
+openpgp-cannot-decrypt-because-mdc =
+    Isto es un message cryptate que usa un vetere e vulnerabile mechanismo.¶
+    Illo poterea haber essite modificate durante le transito, con le intention de robar su contentos.¶
+    Pro impedir iste risco, le contentos non es monstrate.
+openpgp-cannot-decrypt-because-missing-key = Le clave secrete que es necessari pro decifrar iste message non es disponibile.
 openpgp-partial-verify-button = Verificar
 openpgp-partial-decrypt-button = Decryptar
