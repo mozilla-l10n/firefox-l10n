@@ -22,7 +22,7 @@ onboarding-welcome-header = Willkommen bei { -brand-short-name }
 onboarding-welcome-body = Den Browser hast du schon. <br/>Lerne jetzt auch den Rest von { -brand-product-name } kennen.
 onboarding-welcome-learn-more = Weitere Infos zu den Vorteilen.
 onboarding-join-form-header = Komm zu { -brand-product-name }
-onboarding-welcome-modal-get-body = Den Browser haben Sie schon.<br/> Holen Sie jetzt das Beste aus { -brand-product-name } heraus.
+onboarding-welcome-modal-get-body = Den Browser hast du schon.<br/> Hole jetzt das Beste aus { -brand-product-name } heraus.
 onboarding-welcome-modal-supercharge-body = Erhöhe deinen Datenschutz.
 onboarding-welcome-modal-privacy-body = Du hast den Browser. Erhöhe deinen Datenschutz.
 onboarding-welcome-modal-family-learn-more = Erfahre mehr über die Produkte rund um { -brand-product-name }.
@@ -34,7 +34,7 @@ onboarding-join-form-email-error = Gültige E-Mail-Adresse erforderlich
 onboarding-join-form-legal = Indem du fortfährst, stimmst du unseren <a data-l10n-name="terms">Nutzungsbedingungen</a> und unserer <a data-l10n-name="privacy">Datenschutzerklärung</a> zu.
 onboarding-join-form-continue = Weiter
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
-onboarding-join-form-signin-label = Haben Sie schon ein Konto?
+onboarding-join-form-signin-label = Hast du schon ein Konto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Anmelden
 onboarding-start-browsing-button-label = Hier geht’s zum Browser
@@ -53,7 +53,7 @@ onboarding-multistage-welcome-secondary-button-label = Anmelden
 onboarding-multistage-welcome-secondary-button-text = Du hast ein Konto?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Importieren Sie Ihre Passwörter, Lesezeichen und <span data-l10n-name="zap">mehr</span>
+onboarding-multistage-import-header = Importiere deine Passwörter, Lesezeichen und <span data-l10n-name="zap">mehr</span>
 onboarding-multistage-import-subtitle = Kommst du von einem anderen Browser? Es ist einfach, alles zu { -brand-short-name } zu bringen.
 onboarding-multistage-import-primary-button-label = Import starten
 onboarding-multistage-import-secondary-button-label = Jetzt nicht
@@ -89,7 +89,7 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic =
     .title =
-        Das Erscheinungsbild Ihres Betriebssystems
+        Das Erscheinungsbild deines Betriebssystems
         für Schaltflächen, Menüs und Fenster übernehmen.
     .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
 # Tooltip displayed on hover of light theme
