@@ -88,6 +88,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = “Sam
 experimental-features-abouthome-startup-cache =
     .label = about:home 시작 캐시
 experimental-features-abouthome-startup-cache-description = 시작시 기본적으로 로드되는 초기 about:home 문서에 대한 캐시입니다. 캐시의 목적은 시작 성능을 향상시키는 것입니다.
+experimental-features-print-preview-tab-modal =
+    .label = 인쇄 미리보기 새 디자인
+experimental-features-print-preview-tab-modal-description = 새롭게 디자인된 인쇄 미리보기를 소개하고 macOS에서 인쇄 미리보기를 사용할 수 있도록 합니다. 이로 인해 손상이 발생할 수 있으며 인쇄 관련 설정이 모두 포함되어 있지는 않습니다. 모든 인쇄 관련 설정에 액세스하려면, 인쇄 패널에서 "시스템 대화 상자를 사용하여 인쇄…"를 선택하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =

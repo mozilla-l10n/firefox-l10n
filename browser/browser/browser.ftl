@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = 검색어 또는 주소 입력
 urlbar-placeholder =
     .placeholder = 검색어 또는 주소 입력
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } 검색 또는 주소 입력
 urlbar-remote-control-notification-anchor =
     .tooltiptext = 브라우저가 원격 제어중
 urlbar-permissions-granted =
