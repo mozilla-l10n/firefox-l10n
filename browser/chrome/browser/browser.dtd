@@ -916,6 +916,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "C">
 
 <!ENTITY contentBlocking.trackersView.label "Elementos de seguimiento">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Pa blocar totz los elementos de seguimiento, achusta lo nivel de bloqueyo de contenius como “Estricto”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos de puestos web">
@@ -926,17 +927,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fingerprinters.label "">
 <!ENTITY contentBlocking.fingerprintersView.label "">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Informar d'un problema">
+<!ENTITY contentBlocking.breakageReportView.label "Informar de problemas">
 <!ENTITY contentBlocking.breakageReportView.learnMore "">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Qué problemas has teniu? (Opcional)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Ninviar un reporte">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Cancelar">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Desactivar lo bloqueyo pa este puesto">
+<!ENTITY trackingProtection.unblock5.accesskey "s">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Desactivar temporalment lo bloqueyo">
 <!ENTITY trackingProtection.reload2.label "Recargar pachina">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
