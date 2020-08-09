@@ -17,12 +17,17 @@ openpgp-ctx-import-key =
 openpgp-ctx-verify-att =
     .label = Verificar le firma
     .accesskey = V
+openpgp-has-sender-key = Iste message assere continer le clave public OpenPGP del expeditor.
+openpgp-be-careful-new-key = ATTENTION: Le nove clave public OpenPGP in iste message differe del claves public que tu previemente ha acceptate pro { $email }.
 openpgp-import-sender-key =
     .label = Importar…
 openpgp-search-keys-openpgp =
     .label = Discoperir le clave OpenPGP
+openpgp-missing-signature-key = Iste message ha essite signate con un clave que tu ancora non ha.
 openpgp-search-signature-key =
     .label = Discoperir…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = Si le contentos del message non es monstrate como expectate, tu pote provar un reparation automatic.
 openpgp-broken-exchange-repair =
     .label = Reparar le message
 openpgp-broken-exchange-wait = Per favor attende…
