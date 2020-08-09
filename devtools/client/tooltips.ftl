@@ -65,4 +65,9 @@ inactive-text-overflow-when-no-overflow-fix = Experimente adicionar <strong>over
 
 css-compatibility-default-message = <strong>{ $property }</strong> is not supported in the following browsers:
 css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> was an experimental property that is now deprecated by W3C standards. It is not supported in the following browsers:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> era uma propriedade experimental que agora está obsoleta pelas normas W3C.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> está obsoleta pelas normas W3C. Não é suportada pelos seguintes navegadores:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> está obsoleta pelas normas W3C.
+css-compatibility-experimental-message = <strong>{ $property }</strong> é uma propriedade experimental. Não é suportada pelos seguintes navegadores:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> é uma propriedade experimental.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Saiba mais</span> sobre <strong>{ $rootProperty }</strong>
