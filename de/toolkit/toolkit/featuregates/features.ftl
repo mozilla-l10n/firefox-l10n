@@ -104,4 +104,4 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafik: Sanftes Zoomen durch Antippen
-experimental-features-graphics-desktop-zooming-description = Unterstützung für sanftes Zoomen durch Antippen auf Touchscreens und Präzisions-Touchpads aktivieren.
+experimental-features-graphics-desktop-zooming-description = Unterstützung für sanftes Zoomen durch Antippen auf Touchscreens und Präzisions-Touchpads aktivieren
