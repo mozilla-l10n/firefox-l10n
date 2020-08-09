@@ -144,21 +144,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Compreba lo tuyo correu">
 <!ENTITY fxa.unverified.description.label "Has de verificar la tuya cuenta antes de poder sincronizar.">
-<!ENTITY fxa.unverified.button.label "Ubrie las opcions de &syncBrand.shortName.label;">
+<!ENTITY fxa.unverified.button.label "Ubre los achustes de &syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Connectau como">
+<!ENTITY fxa.menu.manageAccount.label "Chestionar la cuenta…">
+<!ENTITY fxa.menu.syncSettings.label "Achustes de &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Amaga lo commutador d'imachen incrustada">
+<!ENTITY pictureInPictureHideToggle.accesskey "A">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "Achustes de &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Connectar belatro dispositivo…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Iniciar la sesión en &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
+<!ENTITY fxa.menu.account.label "Cuenta">
+<!ENTITY fxa.menu.settings.label "Achustes">
+<!ENTITY fxa.menu.accountSettings.label "Achustes d'a cuenta">
+<!ENTITY fxa.menu.manageAccount2.label "Chestionar la cuenta">
+<!ENTITY fxa.menu.signOut.label "Zarrar la sesión…">
+<!ENTITY fxa.menu.setupSync.label "Configurar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Ninviar a l'inte una pestanya ta qualsequier dispositivo en que tiens una sesión.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -180,6 +197,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Video incrustau">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -239,6 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Alzar los datos en l'almagazenamiento persistent">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Lo navegador ye controlau a distancia">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ubrir panel d'autenticación web">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Ubrir lo panel de permisos de navegación">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Chestiona a compartición d'a camera u microfono con iste puesto">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Chestiona a compartición d'o microfono con iste puesto">
@@ -257,9 +277,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha blocau las notificacions pa iste puesto web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ha blocau l'almagazenamiento persistent de datos pa iste puesto web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Has blocau las finestras emerchents en este puesto web.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Has blocau la lectura automatica de contenius multimedia con soniu en este puesto.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Has blocau la extracción de datos de lienzo pa este puesto web.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Yas blocau este puesto web pa que no pueda fer servir lo plugin Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tiens blocau l'acceso MIDI en esta web.">
+<!ENTITY urlbar.installBlocked.tooltip           "Has blocau la instalación de complementos dende este puesto web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amostrar lo historial">
 
@@ -267,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Inicio">
+<!ENTITY homeButton.defaultPage.tooltip "Pachina d'inicio de &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Marcapachinas">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -316,11 +339,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
 
+<!ENTITY inspectA11YContextMenu.label     "Examinar las propiedatz d'accesibilidat">
 
 <!ENTITY fileMenu.label         "Fichero">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nueva pestanya de contenedor">
 <!ENTITY newUserContext.accesskey         "c">
+<!ENTITY manageUserContext.label          "Chestionar contenedors">
+<!ENTITY manageUserContext.accesskey      "O">
 
 <!ENTITY newNavigatorCmd.label        "Nueva finestra">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -355,6 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "Inicios de sesión y claus">
 
 <!ENTITY clearRecentHistory.label               "Borrar o historial recient…">
 
@@ -386,6 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Borrar o historial recient…">
 <!ENTITY appMenuHistory.restoreSession.label "Recuperar a sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Amostrar a barra lateral de l'historial">
+<!ENTITY appMenuHistory.hideSidebar.label "Amagar la barra lateral de l'historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recient">
 <!ENTITY appMenuHelp.label "Aduya">
 
@@ -410,10 +438,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Quiere veyer aquí las pestanyas d'os atros dispositivos?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ubrir preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Dentrar pa veyer una lista de pestanyas d'os atros dispositivos.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Veyer una lista d'as pestanyas d'os atros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Fa falta verificar lo tuyo conto.">
 <!ENTITY appMenuRemoteTabs.signin.label "Dentrar en Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Iniciar la sesión en &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Activar &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Chestionar los servicios…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Amostrar la barra lateral de Pestanyas Sincronizadas">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Amagar la barra lateral de Pestanyas Sincronizadas">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connectar belatro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destacaus recients">
@@ -437,9 +469,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "E">
 <!ENTITY customizeMenu.addMoreItems.label "Adhibir mas elementos...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Autoamagar en a barra de ferramientas">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Chestionar la extensión">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
+<!ENTITY customizeMenu.removeExtension.label "Eliminar extensión">
+<!ENTITY customizeMenu.removeExtension.accesskey "l">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Informar sobre extensión">
+<!ENTITY customizeMenu.reportExtension.accesskey "f">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -584,9 +624,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Alzar en Pocket">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.label        "Alzar la pachina en Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Alzar lo vinclo en Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Amostrar la lista de Pocket">
 
 <!ENTITY emailPageCmd.label           "Ninviar vinclo por correu…">
 <!ENTITY emailPageCmd.accesskey       "e">
@@ -773,12 +819,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Feito">
+<!ENTITY editBookmark.showForNewBookmarks.label       "Amostrar l'editor mientres se grava">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Seguranza d'o puesto">
 
+<!ENTITY identity.connection "Connexión">
 <!ENTITY identity.connectionSecure "Connexión segura">
 <!ENTITY identity.connectionNotSecure "A connexion no ye segura">
 <!ENTITY identity.connectionFile "Ista pachina s'alza en o suyo ordinadora">
@@ -816,6 +866,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Mas información">
 
+<!ENTITY identity.clearSiteData "Borrar cookies y datos d'o puesto…">
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No ha dau garra permiso especial ta iste puesto.">
@@ -836,6 +887,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Encetar sesion en o &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
+<!ENTITY syncSyncNowItemSyncing.label "Sincronizando…">
 <!ENTITY syncSyncNowItem.accesskey    "z">
 <!ENTITY syncReAuthItem.label         "Reconnectar a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -850,6 +902,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Se compartirá audio d'a pestanya.">
 <!ENTITY getUserMedia.allWindowsShared.message "Se compartirán todas as finestras visibles en a suya pantalla.">
 
+<!ENTITY contentBlocking.title "Bloqueyo de conteniu">
 
 
 
