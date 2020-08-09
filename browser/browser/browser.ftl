@@ -244,6 +244,10 @@ identity-permissions-reload-hint = Talment haiga de recargar la pachina pa que s
 identity-permissions-empty = No ha dau garra permiso especial ta iste puesto.
 identity-clear-site-data =
     .label = Borrar cookies y datos d'o puesto…
+identity-connection-not-secure-security-view = No yes connectau de traza segura a este puesto:
+identity-connection-verified = Yes connectau de traza segura a este puesto:
+identity-ev-owner-label = Certificau emitiu a:
+identity-description-custom-root = Mozila no reconoix este emisor de certificaus. Talment te l'haiga anyadiu lo tuyo sistema operativo u bell administrador. <label data-l10n-name="link">Saber-ne mas</label>
 identity-remove-cert-exception =
     .label = Eliminar la excepción
     .accesskey = x
@@ -272,6 +276,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimizar
+browser-window-maximize-button =
+    .tooltiptext = Maximizar
+browser-window-restore-down-button =
+    .tooltiptext = Restaurar
 browser-window-close-button =
     .tooltiptext = Zarrar
 
@@ -284,12 +292,27 @@ popup-select-microphone =
     .value = Microfono ta compartir:
     .accesskey = M
 popup-all-windows-shared = Se compartirán todas as finestras visibles en a suya pantalla.
+popup-screen-sharing-not-now =
+    .label = No pas agora
+    .accesskey = g
+popup-screen-sharing-never =
+    .label = No permitir nunca
+    .accesskey = N
+popup-silence-notifications-checkbox = Desactivar notificacions de { -brand-short-name } mientras se comparte
+popup-silence-notifications-checkbox-warning = { -brand-short-name } no amostrará notificacions mientres compartes.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Yes compartindo { -brand-short-name }. Atras personas pueden veyer quán te mueves ta una nueva pestanya.
+sharing-warning-screen = Yes compartindo tota la pantalla. Atras personas pueden veyer quan cambias ta unatra pestanya.
+sharing-warning-proceed-to-tab =
+    .label = Pasar a la pestanya
+sharing-warning-disable-for-session =
+    .label = Desactivar la protección de compartición pa esta sesión
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Pa emplegar l'alcorce F12, ubre en primeras DevTools per medio d'o menú de desenvolvedor web.
 
 ## URL Bar
 
@@ -297,8 +320,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Termen a mirar u adreza
 urlbar-placeholder =
     .placeholder = Termen a mirar u adreza
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Mirar con { $name } u escribir una adreza
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Lo navegador ye controlau a distancia
+urlbar-permissions-granted =
+    .tooltiptext = Has dau permisos adicionals a este web.
 urlbar-switch-to-tab =
     .value = Ir ta la pestanya:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -308,3 +337,5 @@ urlbar-go-button =
     .tooltiptext = Ir ta la URL d'a barra d'adrezas
 urlbar-page-action-button =
     .tooltiptext = Accions de pachina
+urlbar-pocket-button =
+    .tooltiptext = Alzar en { -pocket-brand-name }
