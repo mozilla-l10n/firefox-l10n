@@ -158,7 +158,7 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kann Ident
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Auf dieses Lesezeichen auf dem Handy zugreifen
-cfr-doorhanger-sync-bookmarks-body = Haben Sie Ihre Passwörter, Chronik und mehr überall griffbereit, wo Sie mit { -brand-product-name } angemeldet sind.
+cfr-doorhanger-sync-bookmarks-body = Haben Sie Ihre Lesezeichen, Passwörter, Chronik und mehr überall griffbereit, wo Sie mit { -brand-product-name } angemeldet sind.
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } aktivieren
     .accesskey = a
 
