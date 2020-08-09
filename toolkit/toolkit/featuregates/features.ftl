@@ -89,8 +89,8 @@ experimental-features-abouthome-startup-cache =
     .label = about:home oppstartshurtigbuffer
 experimental-features-abouthome-startup-cache-description = Et hurtigbuffer for det første about:home-dokument som er lastet som standard ved oppstart. Hensikten med hurtigbufferet er å forbedre oppstartsytelsen.
 experimental-features-print-preview-tab-modal =
-    .label = Omkonstruksjon av forhåndsvisning
-experimental-features-print-preview-tab-modal-description = Introduserer den omkonstruerte forhåndsvisning av utskrifter og gjør forhåndsvisning av utskrift tilgjengelig på macOS. Dette introduserer potensielle feil og inkluderer ikke alle utskriftsrelaterte innstillinger. For å få tilgang til alle utskriftsrelaterte innstillinger, velger «Skriv ut ved hjelp av systemdialogvinduet…» fra utskriftspanelet.
+    .label = Redesign av forhåndsvisning
+experimental-features-print-preview-tab-modal-description = Introduserer den redesignete forhåndsvisning av utskrifter og gjør forhåndsvisning av utskrift tilgjengelig på macOS. Dette introduserer potensielle feil og inkluderer ikke alle utskriftsrelaterte innstillinger. For å få tilgang til alle utskriftsrelaterte innstillinger, velger «Skriv ut ved hjelp av systemdialogvinduet…» fra utskriftspanelet.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
