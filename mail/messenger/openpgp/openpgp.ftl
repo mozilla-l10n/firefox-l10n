@@ -204,6 +204,7 @@ openpgp-acceptance-unverified-label =
     .label = Ja, men eg har ikkje stadfestat at det er rett nøkkel.
 openpgp-acceptance-verified-label =
     .label = Ja, eg har stadfesta at denne nøkkelen har rett fingeravtrykk.
+key-personal-warning = Har du laga denne nøkkelen sjølv, og det viste nøkkeleigarskapet refererer til deg sjølv?
 openpgp-personal-no-label =
     .label = Nei, ikkje bruk han som den personlege nøkkelen min.
 openpgp-personal-yes-label =
@@ -228,6 +229,8 @@ openpgp-selection-status =
         [0] Vel ei gyldig nøkkel for å slå på OpenPGP-protokollen.
        *[other] Den gjeldande konfigurasjonen din brukar nøkkel-ID <b>{ $key }</b>
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Den gjeldande konfigurasjonen din brukar nøkkelen <b>{ $key }</b>, som har gått ut.
 openpgp-add-key-button =
     .label = Legg til nøkkel…
     .accesskey = L
@@ -254,6 +257,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Tilbakekall nøkkel
 openpgp-key-edit-title = Endre OpenPGP-nøkkel
 openpgp-key-edit-date-title = Utvid går ut-dato
+openpgp-manager-description = Bruk OpenPGP-nøkkelhandteraren for å sjå og administrere offentlege nøklar til korrespondentane dine og alle andre nøklar som ikkje er oppførte ovanfor.
 openpgp-manager-button =
     .label = OpenPGP-nøkkelhandterar
     .accesskey = k
@@ -276,6 +280,7 @@ key-expired-date = Nøkkelen gjekk ut den { $keyExpiry }
 key-expired-simple = Nøkkelen har gått ut
 key-revoked-simple = Nøkkelen vart tilbakekalla
 key-accept-warning = Unngå å akseptere ein useriøs lurenøkkel. Bruk ein annan kommunikasjonskanal enn e-post for å stadfeste fingeravtrykket på nøkkelen til korrespondenten din.
+window-locked = Meldingsvindauge er låst; sending avbroten
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Kryptert meldingsdel
 # Strings in keyserver.jsm
@@ -359,6 +364,8 @@ key-ring-pub-key-not-for-encryption = Nøkkelen { $userId } (nøkkel-ID { $keyId
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Brukarattribut (JPEG-bilde)
+# Strings in key.jsm
+already-revoked = Denne nøkkelen er allereie trekt tilbake.
 key-man-button-revoke-key = &Tilbakekall nøkkel
 openpgp-key-revoke-success = Nøkkelen er tilbakekalla.
 # Strings in keyRing.jsm & decryption.jsm
@@ -378,9 +385,11 @@ key-valid-expired = gått ut
 key-trust-untrusted = ikkje tiltrudd
 key-trust-marginal = marginal
 key-trust-full = tiltrudd
+key-trust-ultimate = ultimat
 key-trust-group = (gruppe)
 # Strings used in commonWorkflows.js
 import-key-file = Importer OpenPGP-nøkkelfil
+import-rev-file = Importer OpenPGP-tilbakekallingsfil
 gnupg-file = GnuPG-filer
 import-keys-failed = Mislykka importering av nøklane
 passphrase-prompt = Skriv inn passordfrasa som låser opp følgjande nøkkel: { $key }
