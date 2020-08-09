@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Debuguj
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Uruchom
     .title = Wątki usługowe można uruchamiać tylko, jeśli „multi e10s” jest wyłączone
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Zbadaj
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Uruchom
