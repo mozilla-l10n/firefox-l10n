@@ -28,7 +28,7 @@
 <!ENTITY tinyheader.existing "Salta aquest pas i utilitza l'adreça electrònica que ja tinc">
 <!ENTITY content.close "Crec que ja configuraré el meu compte més tard.">
 <!ENTITY successful.title "Felicitats.">
-<!ENTITY successful.successMessage "Heu configurat el vostre compte satisfactòriament.">
+<!ENTITY successful.successMessage "Heu configurat el vostre compte correctament.">
 <!ENTITY successful.write "Escriviu un correu">
 <!ENTITY successful.write.desc "Feu saber als vostres amics i a la vostra família que teniu una adreça electrònica nova. <br/> Que per això serveixen els comptes de correu, oi?">
 <!ENTITY successful.customize "Personalitzeu-vos el &brandShortName; amb alguns complements interessants">
