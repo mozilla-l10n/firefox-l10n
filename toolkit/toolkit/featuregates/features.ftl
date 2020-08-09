@@ -72,10 +72,22 @@ experimental-features-devtools-color-scheme-simulation-description = Fügt eine 
 experimental-features-devtools-execution-context-selector =
     .label = Entwicklerwerkzeuge: Ausführungskontextauswahl
 experimental-features-devtools-execution-context-selector-description = Diese Funktion zeigt eine Schaltfläche in der Kommandozeile der Konsole an, mit der Sie den Kontext ändern können, in dem der von Ihnen eingegebene Ausdruck ausgeführt wird. Weitere Informationen finden Sie unter <a data-l10n-name="bugzilla1">Bug 1605154</a> und <a data-l10n-name="bugzilla2">Bug 1605153</a>.
+experimental-features-devtools-compatibility-panel =
+    .label = Entwicklerwerkzeuge: Kompatibilitätspanel
+experimental-features-devtools-compatibility-panel-description = Eine Seitenleiste für den Seiteninspektor, die Ihnen Informationen über den Cross-Browser-Kompatibilitätsstatus Ihrer App anzeigt. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1584464</a>.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax standardmäßig
+experimental-features-cookie-samesite-lax-by-default2-description = Cookies werden standardmäßig als "SameSite=Lax" behandelt, wenn kein "SameSite"-Attribut angegeben ist. Entwickler müssen sich für den aktuellen Status quo der uneingeschränkten Nutzung entscheiden, indem sie explizit "SameSite=None" festlegen.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None erfordert "secure"-Attribut
+experimental-features-cookie-samesite-none-requires-secure2-description = Cookies mit dem Attribut "SameSite=None" erfordern das "secure"-Attribut. Diese Funktion erfordert "Cookies: SameSite=Lax standardmäßig".
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home-Start-Cache
+experimental-features-abouthome-startup-cache-description = Ein Cache für das anfängliche about:home-Dokument, das beim Start standardmäßig geladen wird. Der Zweck des Caches besteht darin, die Startleistung zu verbessern.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
