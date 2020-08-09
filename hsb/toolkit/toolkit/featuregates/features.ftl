@@ -25,10 +25,12 @@ experimental-features-avif-description = Eksperimentelna podpěra za AVIF: wobra
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Tutón nowy API podpěru na niskim niwowje za wuwjedźenje wobličenjow a grafiske zwobraznjenje z  <a data-l10n-name="wikipedia">Graphics Processing Unit (GPU)</a> grata abo ličaka wužiwarja skići. <a data-l10n-name="spec">Specifikacija</a> je hišće w dźěle. Dalše informacije dóstanjeće w <a data-l10n-name="bugzilla">zmylkowej rozprawje 1602129</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Hdyž tuta funkcija je zmóžnjena, podpěruje { -brand-short-name } AVIF-format (AV1 Image File). To je datajowy format za stejace wobrazy, kotryž kmanosće algoritmusow widejokomprimowanja AV1 wužiwa, zo by wobrazowu wulkosć redukował. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
