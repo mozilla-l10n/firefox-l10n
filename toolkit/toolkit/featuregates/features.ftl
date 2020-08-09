@@ -88,6 +88,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 experimental-features-abouthome-startup-cache =
     .label = Кэш запуска about:home
 experimental-features-abouthome-startup-cache-description = Кэш для изначального документа about:home, который загружается по умолчанию при запуске. Целью кеша является повышение скорости запуска.
+experimental-features-print-preview-tab-modal =
+    .label = Переработанный предварительный просмотр печати
+experimental-features-print-preview-tab-modal-description = Активирует переработанный предварительный просмотр печати, а также добавляет предварительный просмотр печати на macOS. Потенциально, это может привести к ошибкам, и не включает в себя все настройки, связанные с печатью. Чтобы открыть все настройки, связанные с печатью, выберите «Печатать, используя системный диалог…» из панели «Печать».
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
