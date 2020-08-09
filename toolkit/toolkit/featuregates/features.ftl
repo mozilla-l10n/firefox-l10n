@@ -88,6 +88,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Ciaste
 experimental-features-abouthome-startup-cache =
     .label = Pamięć podręczna uruchamiania about:home
 experimental-features-abouthome-startup-cache-description = Pamięć podręczna dla początkowego dokumentu about:home, który jest domyślnie wczytywany podczas uruchamiania. Celem tej pamięci podręcznej jest przyspieszenie uruchamiania.
+experimental-features-print-preview-tab-modal =
+    .label = Przeprojektowany podgląd wydruku
+experimental-features-print-preview-tab-modal-description = Włącza przeprojektowany podgląd wydruku i udostępnia go w systemie macOS. Może nie działać i nie zawiera wszystkich ustawień związanych z drukowaniem. Kliknij „Drukuj za pomocą okna systemowego…” w panelu drukowania, aby móc korzystać ze wszystkich ustawień.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
