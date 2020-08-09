@@ -707,6 +707,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
+forms-generate-passwords =
+    .label = Sucherir y chenerar claus fuertes
+    .accesskey = u
 forms-breach-alerts-learn-more-link = Saber-ne mas
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -869,6 +872,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizau
     .accesskey = P
+content-blocking-custom-desc = Triga qué quiers blocar
 content-blocking-third-party-cookies = Cookies de seguimiento de tercers
 
 ## These strings are used to define the different levels of
@@ -887,6 +891,8 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-custom-desc = Tría qué elementos de seguimiento y seqüencias de comandos blocar.
+content-blocking-private-windows = Conteniu que fa seguimiento en as finestras privadas
 content-blocking-cross-site-tracking-cookies = Cookies de seguimiento entre puestos
 content-blocking-cross-site-tracking-cookies-plus-isolate = Las cookies de seguimiento entre puestos, y aíslar las cookies restants
 content-blocking-social-media-trackers = Elementos de seguimiento de retz socials
@@ -922,9 +928,21 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = Mas información
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criptominers
+    .accesskey = C
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Cheneradors de ditaladas dichitals
+    .accesskey = d
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Chestionar excepcions…
+    .accesskey = h
 
 ## Privacy Section - Permissions
 
