@@ -193,9 +193,57 @@ openpgp-key-details-fingerprint-label = Отпечаток
 openpgp-key-details-sel-action =
     .label = Выберите действие…
     .accesskey = б
+openpgp-key-details-also-known-label = Предполагаемые альтернативные идентификационные данные владельца ключа:
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Закрыть
+openpgp-acceptance-label =
+    .label = Ваше согласие
+openpgp-acceptance-rejected-label =
+    .label = Нет, отклонить этот ключ.
+openpgp-acceptance-undecided-label =
+    .label = Пока нет, может позже.
+openpgp-acceptance-unverified-label =
+    .label = Да, но я не подтвердил, что это правильный ключ.
+openpgp-acceptance-verified-label =
+    .label = Да, я лично убедился, что у этого ключа правильный отпечаток.
+key-accept-personal =
+    Для этого ключа у вас есть как открытая, так и секретная часть. Вы можете использовать его в качестве личного ключа.
+    Если этот ключ был передан вам кем-то другим, не используйте его в качестве личного ключа.
+key-personal-warning = Вы сами создали этот ключ и отображаемая информация о владельце относится к вам?
+openpgp-personal-no-label =
+    .label = Нет, не использовать его как мой личный ключ.
+openpgp-personal-yes-label =
+    .label = Да, рассматривать этот ключ как личный ключ.
+openpgp-copy-cmd-label =
+    .label = Копировать
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] В Thunderbird нет личного ключа OpenPGP для <b>{ $identity }</b>
+        [one] Thunderbird обнаружил { $count } личный ключ OpenPGP, связанный с <b>{ $identity }</b>
+        [few] Thunderbird обнаружил { $count } личных ключа OpenPGP, связанных с <b>{ $identity }</b>
+       *[many] Thunderbird обнаружил { $count } личных ключей OpenPGP, связанных с <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Выберите подходящий ключ, чтобы включить протокол OpenPGP.
+        [one] Ваша текущая конфигурация использует идентификатор ключа <b>{ $key }</b>
+        [few] Ваша текущая конфигурация использует идентификатор ключа <b>{ $key }</b>
+       *[many] Ваша текущая конфигурация использует идентификатор ключа <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Ваша текущая конфигурация использует ключ <b>{ $key }</b>, срок которого истёк.
+openpgp-add-key-button =
+    .label = Добавить ключ…
+    .accesskey = б
+e2e-learn-more = Узнать больше
+openpgp-keygen-success = Ключ OpenPGP успешно создан!
 
 ## OpenPGP Key selection area
 
