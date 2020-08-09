@@ -70,7 +70,7 @@
 <!ENTITY nssFailure2.title "Wěsty zwisk je so poradźił">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Strona, kotruž pospytujeće sej wobhladać, njeda so pokazać, dokelž awtentnosć přijatych datow njeda so přepruwować.</li> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Wěsty zwisk je so njeporadźił">
+<!ENTITY nssBadCert.title "Wěsty zwisk njeje so poradźił">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>To móhło problem z konfiguraciju serwera być abo něchtó pospytuje serwer napodobnić.</li> <li>Jeli běšće w zańdźenosći ze serwerom wuspěšnje zwjazany, zmylk móhł nachwilny być, a móžeće pozdźišo hišće raz spytać.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Sydło snano nachwilu k dispoziciji njesteji abo je přećežene. Spytajće za mało wokomikow hišće raz.</li> <li>Jeli njemóžeće strony začitać, přepruwujće syćowy zwisk wašeho ličaka.</li> <li>Jeli waš ličak abo waša syć so přez wohnjowu murju abo proksy škita, zawěsćće, zo &brandShortName; smě z webom zwjazać.</li> </ul>">

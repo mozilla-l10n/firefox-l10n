@@ -70,7 +70,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. https://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Aktualizowanje njeje so poradźiło. ">
+<!ENTITY update.failed.start        "Aktualizowanje njeje so poradźiło.">
 <!ENTITY update.failed.linkText     "Najnowšu wersiju sćahnyć">
 <!ENTITY update.failed.end          "">
 
