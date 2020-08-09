@@ -22,7 +22,7 @@ radio-gnupg-key =
 
 ## Generate key section
 
-openpgp-generate-key-title = Сгенерировать ключ OpenPGP
+openpgp-generate-key-title = Создать ключ OpenPGP
 openpgp-generate-key-info = <b>Генерация ключа может занять до нескольких минут.</b> Не выходите из приложения, пока идёт процесс генерации ключа. Активный просмотр или выполнение операций с интенсивным использованием диска во время генерации ключа пополнит «пул случайностей» и ускорит процесс. Вы будете предупреждены, когда генерация ключа будет завершена.
 openpgp-keygen-expiry-title = Срок действия ключа
 openpgp-keygen-expiry-description = Определите срок действия вашего нового сгенерированного ключа. Позже вы можете управлять датой, чтобы продлить её при необходимости.
@@ -50,7 +50,7 @@ openpgp-keygen-type-rsa =
     .label = RSA
 openpgp-keygen-type-ecc =
     .label = ECC (эллиптические кривые)
-openpgp-keygen-button = Сгенерировать ключ
+openpgp-keygen-button = Создать ключ
 openpgp-keygen-progress-title = Генерация вашего нового ключа OpenPGP…
 openpgp-keygen-import-progress-title = Импорт ваших ключей OpenPGP…
 openpgp-import-success = Ключи OpenPGP успешно импортированы!
@@ -76,7 +76,7 @@ openpgp-keygen-error-revocation = Ключ OpenPGP создан успешно, 
 openpgp-keygen-abort-title = Прервать генерацию ключа?
 openpgp-keygen-abort = Генерация ключа OpenPGP в настоящее время продолжается, вы уверены, что хотите её отменить?
 #   $identity (String) - the name and email address of the currently selected identity
-openpgp-key-confirm = Сгенерировать открытый и секретный ключ для { $identity }?
+openpgp-key-confirm = Создать открытый и секретный ключ для { $identity }?
 
 ## Import Key section
 
