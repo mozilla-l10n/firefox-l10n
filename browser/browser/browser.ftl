@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Kirjoita osoite tai hakutermi
 urlbar-placeholder =
     .placeholder = Kirjoita osoite tai hakutermi
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Hae hakukoneelle { $name } tai kirjoita osoite
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Selain on kauko-ohjauksessa
 urlbar-permissions-granted =
