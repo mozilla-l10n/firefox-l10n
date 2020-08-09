@@ -41,6 +41,9 @@ experimental-features-web-api-inputmode-description = Globaalin attribuutin <a d
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = <a data-l10n-name="rel">rel</a>-attribuutin arvo <code>"preload"</code> <a data-l10n-name="link">&lt;link&gt;</a>-elementissä on tarkoitettu auttamaan suorituskyvyn parantamisessa. Arvon ansiosta resurssit voidaan ladata aiemmin sivun elinkaaren aikana, minkä johdosta ne ovat saatavilla aiemmin ja siten estävät epätodennäköisemmin sivun piirtämisen. Lue lisää artikkelista <a data-l10n-name="readmore">”Preloading content with <code>rel="preload"</code>”</a> tai <a data-l10n-name="bugzilla">bugista 1583604</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
