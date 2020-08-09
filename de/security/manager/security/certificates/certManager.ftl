@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Dieses Zertifikat konnte nicht verifiziert we
 cert-not-verified-ca-invalid = Dieses Zertifikat konnte nicht verifiziert werden, da das CA-Zertifikat ungültig ist.
 cert-not-verified_algorithm-disabled = Das Zertifikat konnte nicht verifiziert werden, weil es mit einem Signatur-Algorithmus signiert wurde, der deaktiviert wurde, weil er nicht sicher ist.
 cert-not-verified-unknown = Dieses Zertifikat konnte aus unbekannten Gründen nicht verifiziert werden.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Kein Client-Zertifikat senden
 
 ## Add Security Exception dialog
 

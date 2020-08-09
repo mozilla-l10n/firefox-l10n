@@ -421,6 +421,9 @@ addon-detail-version-label = Version
 addon-detail-last-updated-label = Zuletzt aktualisiert
 addon-detail-homepage-label = Homepage
 addon-detail-rating-label = Bewertung
+# Message for add-ons with a staged pending update.
+install-postponed-message = Diese Erweiterung wird beim Neustart von { -brand-short-name } aktualisiert.
+install-postponed-button = Jetzt aktualisieren
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
