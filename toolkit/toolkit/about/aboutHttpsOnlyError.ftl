@@ -15,3 +15,6 @@ about-httpsonly-title = El { -brand-short-name } ha detectat un problema potenci
 about-httpsonly-explanation-unavailable = Navegueu en mode només HTTPS i no hi ha disponible la versió HTTPS segura de <em>{ $websiteUrl }</em>.
 about-httpsonly-explanation-question = Quin motiu podria haver-hi?
 about-httpsonly-explanation-nosupport = El més probable és que el lloc web no admeti HTTPS.
+about-httpsonly-explanation-risk = També podria ser un intent d'atac. Si decidiu visitar el lloc web, no hi hauríeu d’introduir informació confidencial com ara contrasenyes, adreces electròniques o targetes de crèdit.
+about-httpsonly-button-accept-and-continue = Accepto el risc i vull continuar
+about-httpsonly-button-go-back = Vés enrere
