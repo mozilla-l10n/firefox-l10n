@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Untersuchen
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Starten
     .title = Service-Worker können nur untersucht werden, wenn nicht mehr als ein 1 Prozess für Webinhalte existiert (kein multi-e10s).
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Untersuchen
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Starten

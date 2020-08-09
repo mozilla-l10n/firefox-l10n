@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Suche oder Adresse eingeben
 urlbar-placeholder =
     .placeholder = Suche oder Adresse eingeben
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Mit { $name } suchen oder Adresse eingeben
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser wird ferngesteuert
 urlbar-permissions-granted =
