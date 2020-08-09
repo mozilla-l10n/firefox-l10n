@@ -641,12 +641,21 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
+forms-breach-alerts-learn-more-link = Saber-ne mas
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Autorreplenar usuarios y claus
+    .accesskey = i
 forms-saved-logins =
     .label = Inicios de sesión alzaus
     .accesskey = I
 forms-master-pw-use =
     .label = Usar una clau mayestra
     .accesskey = s
+forms-primary-pw-use =
+    .label = Fer servir una clau primaria
+    .accesskey = u
+forms-primary-pw-learn-more-link = Saber-ne mas
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -654,10 +663,24 @@ forms-master-pw-change =
     .label = Cambiar a clau mayestra…
     .accesskey = m
 forms-master-pw-fips-title = Se troba en modo FIPS. Iste modo requiere una clau mayestra no vueda.
+forms-primary-pw-change =
+    .label = Cambiar a clau primaria…
+    .accesskey = P
 forms-master-pw-fips-desc = O cambio de clau ha fallau
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = Crear una clau mayestra
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Crear una clau primaria
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -709,10 +732,18 @@ sitedata-total-size-calculating = Calculando los datos d'o puesto y la grandaria
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Las tuyas cookies, datos d'o puesto y caché son usando per agora { $value } { $unit } d'o espacio de disco
 sitedata-learn-more = Saber-ne mas
+sitedata-allow-cookies-option =
+    .label = Acceptar cookies y datos d'o puesto
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Blocar cookies y datos d'o puesto
+    .accesskey = B
 sitedata-option-block-cross-site-trackers =
     .label = Elementos de seguimiento entre puestos
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Elementos de seguimiento de puestos y retz socials
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Elementos de seguimiento entre puestos y en retz socials, y aíslar las de demás.
 sitedata-option-block-unvisited =
     .label = Cookies de webs no visitaus
 sitedata-option-block-all-third-party =
@@ -753,6 +784,7 @@ addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en m
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueyo de conteniu
+content-blocking-enhanced-tracking-protection = Protección reforzada contra seguimiento
 content-blocking-learn-more = Saber-ne mas
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -783,14 +815,22 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-cross-site-tracking-cookies = Cookies de seguimiento entre puestos
+content-blocking-cross-site-tracking-cookies-plus-isolate = Las cookies de seguimiento entre puestos, y aíslar las cookies restants
+content-blocking-social-media-trackers = Elementos de seguimiento de retz socials
+content-blocking-all-cookies = Totas las cookies
+content-blocking-unvisited-cookies = Cookies de puestos no visitaus
+content-blocking-all-windows-trackers = Elementos de seguimiento conoixius en totas las finestras
+content-blocking-all-windows-tracking-content = Conteniu que fa seguimiento en totas las finestras
 content-blocking-all-third-party-cookies = Totas las cookies de tercers
 content-blocking-cryptominers = Criptominers
 content-blocking-fingerprinters = Ditaladas dichitals
 content-blocking-warning-title = Atención!
 content-blocking-learn-how = Aprende cómo
 content-blocking-warning-learn-how = Aprende cómo
+content-blocking-reload-description = Habrás de recargar las tuyas pestanyas pa aplicar estes cambios.
 content-blocking-reload-tabs-button =
-    .label = Tornar a cargar todas as pestanyas
+    .label = Tornar a cargar totas las pestanyas
     .accesskey = r
 content-blocking-trackers-label =
     .label = Elementos de seguimiento
