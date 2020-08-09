@@ -88,6 +88,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = 属性
 experimental-features-abouthome-startup-cache =
     .label = about:home 启动缓存
 experimental-features-abouthome-startup-cache-description = 缓存启动时默认加载的 about:home 初始文件，以提高启动性能。
+experimental-features-print-preview-tab-modal-description = 引入了重新设计的打印预览功能，并使其在 macOS 上也可用。该实验项可能不够稳定，且尚未包含完整的打印选项。若有后者需求，请点击打印面板中的“使用系统对话框打印...”。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
