@@ -16,6 +16,12 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge Legacy
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = No importar cosa
     .accesskey = p
@@ -61,6 +67,7 @@ import-close-source-browser = Asegure-se de que o navegador trigau ye zarrau ant
 imported-bookmarks-source = Dende o { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
@@ -81,10 +88,57 @@ imported-edge-reading-list = Lista de lectura (dende Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Historial de navegación y marcapachinas
+           *[other] Historial de navegación
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] HIstorial de navegación y marcapachinas
+           *[other] Historial de navegación
+        }
+browser-data-formdata-checkbox =
+    .label = Historial de formularios alzaus
+browser-data-formdata-label =
+    .value = Historial de formularios alzaus
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Inicios de sesión y claus alzaus
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Inicios de sesión y claus alzaus
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favoritos
+            [edge] Favoritos
+           *[other] Marcapachinas
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favoritos
+            [edge] Favoritos
+           *[other] Marcapachinas
+        }
+browser-data-otherdata-checkbox =
+    .label = Atros datos
+browser-data-otherdata-label =
+    .label = Atros datos
 browser-data-session-checkbox =
     .label = Finestras y pestanyas
 browser-data-session-label =
