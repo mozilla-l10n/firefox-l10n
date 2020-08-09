@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = 除錯
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = 開始
     .title = 僅能於停用 multi e10s 時，才能啟動 service worker
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = 檢測
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = 開始
