@@ -8,12 +8,11 @@ enable-inspect-element-title = Включване на развойните ин
 enable-inspect-element-message = Проверявайте и променяйте HTML и CSS с инспектора на инструментите на разработчика.
 enable-about-debugging-message = Разработвайте и отстранявайте дефекти от WebExtensions, обслужващи нишки и много други с инструментите на разработчика във Firefox.
 enable-key-shortcut-message = Използвахте клавишна комбинация от развойните инструменти. Ако сте го направили по погрешка може да затворите този раздел.
-enable-menu-message = Усъвършенствайте HTML, CSS и JavaScript на страницата си с инструментите като инспектор и дебъгер.
+enable-menu-message = Усъвършенствайте HTML, CSS и JavaScript на страницата си с инструменти като инспектор и дебъгер.
 enable-common-message = Инструментите на разработчика във Firefox са изключени по подразбиране, за да имате по-добър контрол върху своя четец.
 enable-learn-more-link = Научете повече за развойните инструменти
 enable-enable-button = Включване
 enable-close-button = Затваряне на раздела
-
 welcome-title = Добре дошли в развойните инструменти на Firefox!
 newsletter-title = Бюлетин на разработчиците на Мозила
 newsletter-message = Получавайте новини, хитрости и ресурси за програмисти директно в своята поща.
@@ -23,11 +22,9 @@ newsletter-privacy-label = Съгласен съм Mozilla да борави с 
 newsletter-subscribe-button = Абониране
 newsletter-thanks-title = Благодарим!
 newsletter-thanks-message = Ако преди не сте потвърждавали абонамент за бюлетин на Mozilla ще трябва да го направите сега. Моля, проверете входящата или папката с нежелана поща за писмо от нас.
-
 footer-title = Firefox Developer Edition
 footer-message = Търсите нещо повече от развойни инструменти? Изпробвайте мрежовият четец Firefox, създаден специално за разработчици и съвременни похвати на разработка.
 footer-learn-more-link = Научете повече
-
 features-learn-more = Научете повече
 features-inspector-title = Инспектор
 features-inspector-desc = Проверка и усъвършенстване на кода на перфектни до пиксела дизайни. <a data-l10n-name="learn-more">{ features-learn-more }</a>
