@@ -9,5 +9,6 @@ about-glean-page-title = Ɣef Glean
 about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> d tamkerḍit n ulqaḍ n yisefka yettwaseqdacen deg yifarisen n Mozilla. Asebter-a yella-d i yineflayen d yimsekyaden i yesran ad <a data-l10n-name="fog-debug-doc-link">sewlen addad n temseɣtayt d usniɣmes deg Glean SDK</a>.
 about-glean-warning = Yir aseqdec n ugrudem-a yezmer ad iseɣli { -brand-short-name }.
 tag-pings-label = Err tacreḍt ɣef meṛṛa pings yettwaznen s tebzimt-a
+log-pings-label = Sekles asali n ping send tuzzna?
 send-pings-label = Azen ping yettwasemman
 controls-button-label = Iɣewwaṛen n tuzzna
