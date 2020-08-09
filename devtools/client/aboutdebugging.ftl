@@ -35,7 +35,7 @@ aboutdebugging-sidebar-runtime-connection-status-connected = Verbunden
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = Getrennt
 # Text displayed in the about:debugging sidebar when no device was found.
-about-debugging-sidebar-no-devices = Keine Geräte erkannt
+about-debugging-sidebar-no-devices = Keine Geräte gefunden
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Verbinden
