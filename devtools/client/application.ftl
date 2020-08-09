@@ -106,7 +106,7 @@ manifest-item-icons = Symbole
 # Text displayed while we are loading the manifest file
 manifest-loading = Manifest wird geladen…
 # Text displayed when the manifest has been successfully loaded
-manifest-loaded-ok = Manifest geladen
+manifest-loaded-ok = Manifest geladen.
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
 manifest-loaded-error = Beim Laden des Manifests trat ein Fehler auf:
