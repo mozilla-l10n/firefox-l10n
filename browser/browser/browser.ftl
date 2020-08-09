@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Іздеу немесе адрес
 urlbar-placeholder =
     .placeholder = Іздеу немесе адрес
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } көмегімен іздеу немесе адрес
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Браузер қашықтан басқарылуда
 urlbar-permissions-granted =
