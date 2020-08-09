@@ -90,6 +90,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Кешування початкового вмісту about:home, який типово завантажується під час запуску. Метою кешування є пришвидшення запуску.
 experimental-features-print-preview-tab-modal =
     .label = Новий вигляд вікна друку
+experimental-features-print-preview-tab-modal-description = Вмикає оновлене вікно друку та робить попередній перегляд друку доступним на macOS. Це потенційно може призвести до помилок і не включає всі налаштування друку. Щоб отримати доступ до всіх налаштувань друку, виберіть “Друк за допомогою засобу системи…” на панелі Друк.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
