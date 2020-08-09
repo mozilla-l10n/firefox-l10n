@@ -64,4 +64,10 @@ inactive-text-overflow-when-no-overflow-fix = Försök att lägga till <strong>o
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> stöds inte i följande webbläsare:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> var ett experimentellt värde som nu är föråldrat enligt W3C standarder Det stöds inte i följande webbläsare:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> var ett experimentellt värde som nu föråldras med W3C standarder.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> är föråldrat enligt W3C-standarder. Det stöds inte i följande webbläsare:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> är föråldrat enligt W3C-standarder.
+css-compatibility-experimental-message = <strong>{ $property }</strong> är ett experimentellt värde. Det stöds inte i följande webbläsare:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> är ett experimentellt värde.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Läs mer</span> om <strong>{ $rootProperty }</strong>
