@@ -38,11 +38,11 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
-<!ENTITY pictureInPictureToggle.label "In Bild-in-Bild ansehen">
+<!ENTITY pictureInPictureToggle.label "In Bild-im-Bild ansehen">
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
-<!ENTITY pictureInPictureExplainer "Spielen Sie Videos im Vordergrund ab, während Sie andere Dinge in &brandShortName; tun">
+<!ENTITY pictureInPictureExplainer "Spielen Sie Videos im Vordergrund ab, während Sie anderweitig in &brandShortName; beschäftigt sind">
 
 <!ENTITY error.aborted "Laden des Videos gestoppt.">
 <!ENTITY error.network "Abspielen des Videos wegen eines Netzwerkfehlers abgebrochen.">
