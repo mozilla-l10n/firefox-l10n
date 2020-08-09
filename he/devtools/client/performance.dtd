@@ -61,7 +61,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
-<!ENTITY performanceUI.options.filter.tooltiptext "נא לבחור מה להציג בציר הזמן">
+<!ENTITY performanceUI.options.filter.tooltiptext "בחירת הנתונים להצגה בציר הזמן">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
