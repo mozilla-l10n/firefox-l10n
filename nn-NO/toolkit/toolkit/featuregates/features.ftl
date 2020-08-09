@@ -88,6 +88,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Infoka
 experimental-features-abouthome-startup-cache =
     .label = about:home oppstartshurtigbuffer
 experimental-features-abouthome-startup-cache-description = Ein hurtigbuffer for det første about:home-dokumentet som er lasta som standard ved oppstart. Føremålet med hurtigbufferen er å forbetre oppstartytinga.
+experimental-features-print-preview-tab-modal =
+    .label = Omkonstruksjon av førehandsvising
+experimental-features-print-preview-tab-modal-description = Introduserer den omkonstruerte førehandsvisinga og gjer førehandsvising tilgjengeleg på macOS. Dette introduserer potensielle feil og inkluderer ikkje alle utskrifts-relaterte innstillingar. For å få tilgang til allet alla utskriftsrelaterte innnstillingar, vel «Skriv ut ved å bruke systemdialogen...» frå utskrifstspanelet.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
