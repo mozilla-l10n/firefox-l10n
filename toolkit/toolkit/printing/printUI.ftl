@@ -24,7 +24,7 @@ printui-orientation = Orientacja
 printui-landscape = Pozioma
 printui-portrait = Pionowa
 # Section title for the printer or destination device to target
-printui-destination-label = Gdzie wydrukować
+printui-destination-label = Drukarka
 printui-more-settings = Więcej ustawień
 printui-less-settings = Mniej ustawień
 # Section title (noun) for the print scaling options
