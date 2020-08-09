@@ -19,6 +19,7 @@ safeb-blocked-phishing-page-learn-more = 到 <a data-l10n-name='learn_more_link'
 safeb-blocked-malware-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> 被<a data-l10n-name='error_desc_link'>举报含有恶意软件</a>。您可以<a data-l10n-name='report_detection'>反映侦测有误</a>或<a data-l10n-name='ignore_warning_link'>忽略此风险</a>并继续前往这个不安全的网站。
 safeb-blocked-malware-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> 被<a data-l10n-name='error_desc_link'>举报含有恶意软件</a>。您可以<a data-l10n-name='report_detection'>反映侦测有误</a>。
 safeb-blocked-malware-page-learn-more = 到 <a data-l10n-name='learn_more_link'>StopBadware.org</a> 可以详细了解有害的网页内容（包括病毒和其他恶意软件），网站上还介绍了保护您的电脑的小知识。到 <a data-l10n-name='firefox_support'>support.mozilla.org</a> 可以详细了解 { -brand-short-name } 防范钓鱼和恶意软件的机制。
+safeb-blocked-malware-page-learn-more-sumo = 访问 <a data-l10n-name='firefox_support'>support.mozilla.org</a> 详细了解 { -brand-short-name } 的钓鱼网站与恶意网站防护功能。
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> 被<a data-l10n-name='error_desc_link'>举报含有有害软件</a>。您可以<a data-l10n-name='ignore_warning_link'>忽略此风险</a>并继续前往这个不安全的网站。
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> 被<a data-l10n-name='error_desc_link'>举报含有有害软件</a>。
 safeb-blocked-unwanted-page-learn-more = 查阅 <a data-l10n-name='learn_more_link'>流氓软件政策</a> 可以详细了解有害和流氓的软件。到 <a data-l10n-name='firefox_support'>support.mozilla.org</a> 可以详细了解 { -brand-short-name } 防范钓鱼和恶意软件的机制。

@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = 调试
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = 启动
     .title = 只能在禁用多进程模式的情况下启动 Service Worker
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = 检查
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = 开始

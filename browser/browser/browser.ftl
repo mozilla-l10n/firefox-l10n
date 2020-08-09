@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = 搜索或输入网址
 urlbar-placeholder =
     .placeholder = 搜索或输入网址
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = 使用 { $name } 搜索，或者输入网址
 urlbar-remote-control-notification-anchor =
     .tooltiptext = 浏览器正被远程控制
 urlbar-permissions-granted =
