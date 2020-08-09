@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Picar un tèrme de recercar o una adreça
 urlbar-placeholder =
     .placeholder = Picar un tèrme de recercar o una adreça
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Recercar amb %S o picar una adreça
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Lo navegador es contrarotlat a distància
 urlbar-permissions-granted =
