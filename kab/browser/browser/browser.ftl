@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Nadi neɣ sekcem tansa
 urlbar-placeholder =
     .placeholder = Nadi neɣ sekcem tansa
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Nadi s { $name } neɣ sekcem tansa
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Iminig yettwaṭṭef s wudem anmeggag
 urlbar-permissions-granted =

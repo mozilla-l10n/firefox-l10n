@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Tamseɣtayt
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Bdu
     .title = Izmer kan ad yessenker imeẓla workers ma yella multi e10s yensa
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Sweḍ
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Bdu
