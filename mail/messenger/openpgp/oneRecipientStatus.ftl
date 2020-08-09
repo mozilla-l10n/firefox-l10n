@@ -10,3 +10,6 @@ openpgp-one-recipient-status-created-date =
     .label = Wutworjeny
 openpgp-one-recipient-status-expires-date =
     .label = Płaćiwy do
+openpgp-one-recipient-status-discover =
+    .label = Nowy abo zaktualizowany kluč namakać
+openpgp-key-secret-not-personal = Njewužiwajomny
