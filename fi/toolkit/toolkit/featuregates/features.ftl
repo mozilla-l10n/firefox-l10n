@@ -88,6 +88,7 @@ experimental-features-print-preview-tab-modal-description = Otaa käyttöön tul
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Evästeet: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Käsittele evästeitä samasta verkkotunnuksesta mutta eri skeemasta (esim. http://example.com ja https://example.com) sivustorajat ylittävinä äläkä saman sivuston evästeinä. Parantaa tietoturvaa, mutta voi aiheuttaa toimimattomuutta.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Web-työkalut: Service Worker -vianjäljitys
