@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Escriviu menys i trobeu més: Cerqueu amb { $engineName } directament des de la barra d'adreces.
 urlbar-search-tips-redirect-2 = Comenceu la vostra cerca en la barra d'adreces per veure suggeriments de { $engineName } i del vostre historial de navegació.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Adreces d'interès
+urlbar-search-mode-tabs = Pestanyes
+urlbar-search-mode-history = Historial
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,26 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Defineix com a motor de cerca per defecte per a les finestres privades
     .accesskey = D
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Adreces d'interès ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Pestanyes ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historial ({ $restrict })
 
 ## Bookmark Panel
 
@@ -294,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Escriviu una cerca o adreça
 urlbar-placeholder =
     .placeholder = Escriviu una cerca o adreça
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Cerqueu amb { $name } o escriviu una adreça
 urlbar-remote-control-notification-anchor =
     .tooltiptext = El navegador està sota control remot
 urlbar-permissions-granted =

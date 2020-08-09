@@ -24,9 +24,14 @@ graph-private-window = En les finestres privades, el { -brand-short-name } segue
 graph-week-summary-private-window = Elements de seguiments que el { -brand-short-name } ha blocat aquesta setmana
 protection-report-webpage-title = Tauler de proteccions
 protection-report-page-content-title = Tauler de proteccions
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = El { -brand-short-name } pot protegir la vostra privadesa de forma transparent mentre navegueu. Aquest és un resum personalitzat de les proteccions, amb eines per tenir el control de la vostra seguretat a Internet.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = El { -brand-short-name } protegeix la vostra privadesa de forma transparent mentre navegueu. Aquest és un resum personalitzat de les proteccions, amb eines per tenir el control de la vostra seguretat a Internet.
 protection-report-settings-link = Gestiona els paràmetres de privadesa i seguretat
 etp-card-title-always = Protecció contra el seguiment millorada: Sempre activada
 etp-card-title-custom-not-blocking = Protecció contra el seguiment millorada: DESACTIVADA
+etp-card-content-description = El { -brand-short-name } bloca automàticament les empreses que, en secret, us fan el seguiment mentre navegueu.
 protection-report-etp-card-content-custom-not-blocking = Actualment totes les proteccions estan desactivades. Trieu quins elements de seguiment voleu blocar en els paràmetres de protecció del { -brand-short-name }.
 protection-report-manage-protections = Gestiona els paràmetres
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,

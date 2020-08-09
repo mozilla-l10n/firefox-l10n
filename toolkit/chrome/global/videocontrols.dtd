@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Reprodueix">
 <!ENTITY playButton.pauseLabel "Pausa">
 <!ENTITY muteButton.muteLabel "Silencia">
@@ -30,6 +34,15 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesDecoded "Fotogrames descodificats">
 <!ENTITY stats.framesPresented "Fotogrames presentats">
 <!ENTITY stats.framesPainted "Fotogrames pintats">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Mostra en mode d'Imatge sobre Imatge">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Reproduïu vídeos en primer pla mentre feu altres coses en el &brandShortName;">
 
 <!ENTITY error.aborted "S'ha aturat la càrrega del vídeo.">
 <!ENTITY error.network "S'ha interromput la reproducció del vídeo a causa d'un problema de la xarxa.">
