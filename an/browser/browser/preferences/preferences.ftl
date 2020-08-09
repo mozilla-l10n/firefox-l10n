@@ -402,9 +402,14 @@ browsing-picture-in-picture-learn-more = Saber-ne mas
 browsing-cfr-recommendations =
     .label = Recomendar extensions mientres navegas
     .accesskey = R
+browsing-cfr-features =
+    .label = Recomendar caracteristicas mientres navegas
+    .accesskey = c
+browsing-cfr-recommendations-learn-more = Saber-ne mas
 
 ## General Section - Proxy
 
+network-settings-title = Configuración de ret
 network-proxy-connection-description = Configurar cómo { -brand-short-name } se connecta con internet.
 network-proxy-connection-learn-more = Saber-ne mas
 network-proxy-connection-settings =
@@ -543,10 +548,19 @@ search-keyword-warning-bookmark = Ha trigau una parola clau que ya emplega unatr
 ## Containers Section
 
 containers-back-link = « Ir enta zaga
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Tornar ta opcions
+           *[other] Tornar ta preferencias
+        }
 containers-header = Pestanyas contenederas
 containers-add-button =
     .label = Anyader nuevo contenedor
     .accesskey = A
+containers-new-tab-check =
+    .label = Triar un contenedor pa cada pestanya nueva
+    .accesskey = T
 containers-preferences-button =
     .label = Preferencias
 containers-remove-button =
@@ -586,6 +600,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Desconnectar...
     .accesskey = D
+sync-sign-out =
+    .label = Zarrar la sesión…
+    .accesskey = Z
 sync-manage-account = Chestionar la cuenta
     .accesskey = t
 sync-signedin-unverified = { $email } no ye verificau.
@@ -604,6 +621,9 @@ sync-signedin-settings-desc = Trigar qué sincronizar en os tuyos dispostivos fe
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-setup =
+    .label = Configurar { -sync-brand-short-name }
+    .accesskey = C
 
 ## The list of things currently syncing.
 
@@ -623,6 +643,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Inicios
     .tooltiptext = Nombres d'usario y claus que has alzaus
+    .accesskey = I
+sync-engine-logins-passwords =
+    .label = Inicios de sesión y claus
+    .tooltiptext = Inicios de sesión y claus que has alzau
     .accesskey = I
 sync-engine-addresses =
     .label = Adrezas
@@ -657,6 +681,9 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Alzar
     .accesskey = z
+sync-connect-another-device = Connectar belatro dispositivo
+sync-manage-devices = Chestionar dispositivos
+sync-fxa-begin-pairing = Asociar un dispositivo
 sync-tos-link = Termins d'o Servicio
 sync-fxa-privacy-notice = Nota sobre privacidat
 
@@ -666,9 +693,13 @@ privacy-header = Privacidat d'o navegador
 
 ## Privacy Section - Forms
 
+logins-header = Inicios de sesión y claus
 
 ## Privacy Section - Logins and Passwords
 
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Inicios de sesión y claus
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Demandar alzar usuarios y claus d'os puestos web
@@ -902,6 +933,10 @@ permissions-location = Puesto
 permissions-location-settings =
     .label = Achustes…
     .accesskey = t
+permissions-xr = Realidat Virtual
+permissions-xr-settings =
+    .label = Configuración…
+    .accesskey = C
 permissions-camera = Camara
 permissions-camera-settings =
     .label = Achustes…
@@ -918,9 +953,16 @@ permissions-notification-link = Saber-ne mas
 permissions-notification-pause =
     .label = Notificacions de pausa dica que { -brand-short-name } se reinicie
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Blocar que pachinas web reproduzcan sonius automaticament
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Excepcions…
     .accesskey = E
+permissions-autoplay = Reproducción automatica
+permissions-autoplay-settings =
+    .label = Configuración…
+    .accesskey = C
 permissions-block-popups =
     .label = Blocar finestras emerchents
     .accesskey = B
@@ -943,6 +985,7 @@ permissions-a11y-privacy-link = Saber-ne mas
 collection-header = Replega de datos y uso de { -brand-short-name }
 collection-description = Nos esforzamos pa dar-te opcions y replegar nomás lo que necesitamos pa ofrir y amillorar  { -brand-short-name } pa totz. Siempre demandamos permiso antes de recibir información personal.
 collection-privacy-notice = Nota sobre privacidat
+collection-health-report-telemetry-disabled-link = Saber-ne mas
 collection-health-report =
     .label = Permitir que { -brand-short-name } ninvie datos tecnicos y d'interacción ta { -vendor-short-name }
     .accesskey = r
@@ -950,6 +993,7 @@ collection-health-report-link = Saber-ne mas
 collection-studies =
     .label = Permitir que { -brand-short-name } instale y execute estudios
 collection-studies-link = Veyer estudios de { -brand-short-name }
+addon-recommendations-link = Saber-ne mas
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa
@@ -1021,6 +1065,8 @@ space-alert-under-5gb-message = { -brand-short-name } se ye quedando sin espacio
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Modo nomás HTTPS
+httpsonly-learn-more = Saber-ne mas
 
 ## The following strings are used in the Download section of settings
 
