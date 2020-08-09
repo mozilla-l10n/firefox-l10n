@@ -244,9 +244,100 @@ openpgp-add-key-button =
     .accesskey = б
 e2e-learn-more = Узнать больше
 openpgp-keygen-success = Ключ OpenPGP успешно создан!
+openpgp-keygen-import-success = Ключи OpenPGP успешно импортированы!
+openpgp-keygen-external-success = Идентификатор внешнего ключа GnuPG сохранён!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Нет
+openpgp-radio-none-desc = Не использовать OpenPGP для этой учётной записи.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Истекает: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Ключ истекает менее, чем через 6 месяцев
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Срок действия истёк: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Срок действия ключа истёк
+openpgp-key-expand-section =
+    .tooltiptext = Дополнительная информация
+openpgp-key-revoke-title = Отозвать ключ
+openpgp-key-edit-title = Изменить ключ OpenPGP
+openpgp-key-edit-date-title = Продлить срок действия
+openpgp-manager-description = Используйте Менеджер ключей OpenPGP, чтобы просмотреть и управлять открытыми ключами ваших корреспондентов и всех других ключей, не перечисленных выше.
+openpgp-manager-button =
+    .label = Менеджер ключей OpenPGP
+    .accesskey = ж
+openpgp-key-remove-external =
+    .label = Удалить идентификатор внешнего ключа
+    .accesskey = л
+key-external-label = Внешний ключ GnuPG
+# Strings in keyDetailsDlg.xhtml
+key-type-public = открытый ключ
+key-type-primary = основной ключ
+key-type-subkey = подчинённый ключ
+key-type-pair = ключевая пара (секретный ключ и открытый ключ)
+key-expiry-never = никогда
+key-usage-encrypt = Зашифровать
+key-usage-sign = Подписать
+key-usage-certify = Удостоверить
+key-usage-authentication = Аутентификация
+key-does-not-expire = У ключа нет срока действия
+key-expired-date = Срок действия ключа истёк { $keyExpiry }
+key-expired-simple = Срок действия ключа истёк
+key-revoked-simple = Ключ был отозван
+key-do-you-accept = Принимаете ли вы этот ключ для проверки цифровых подписей и для шифрования сообщений?
+key-accept-warning = Избегайте принятия мошеннических ключей. Используйте канал связи, отличный от электронной почты, чтобы проверить отпечаток ключа вашего корреспондента.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Невозможно отправить сообщение, так как существует проблема с вашим личным ключом. { $problem }
+cannot-encrypt-because-missing = Невозможно отправить это сообщение с использованием сквозного шифрования, потому что существуют проблемы с ключами следующих получателей: { $problem }
+window-locked = Окно составления сообщения заблокировано; отправка отменена
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Часть зашифрованного сообщения
+mime-decrypt-encrypted-part-concealed-data = Это часть зашифрованного сообщения. Вам нужно открыть его в отдельном окне, щёлкнув по вложению.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Прервано
+keyserver-error-unknown = Произошла неизвестная ошибка
+keyserver-error-server-error = Сервер ключей сообщил об ошибке.
+keyserver-error-import-error = Не удалось импортировать загруженный ключ.
+keyserver-error-unavailable = Сервер ключей недоступен.
+keyserver-error-security-error = Сервер ключей не поддерживает зашифрованный доступ.
+keyserver-error-certificate-error = Сертификат сервера ключей недействителен.
+keyserver-error-unsupported = Сервер ключей не поддерживается.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Ваш провайдер электронной почты обработал ваш запрос на выгрузку вашего открытого ключа в каталог веб-ключей OpenPGP.
+    Пожалуйста, подтвердите, чтобы завершить публикацию вашего открытого ключа.
+wkd-message-body-process =
+    Это электронное письмо, связанное с автоматической обработкой для выгрузки вашего открытого ключа в каталог веб-ключей OpenPGP.
+    Вам не нужно предпринимать каких-либо ручных действий на этом этапе.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Не удалось расшифровать сообщение с темой
+    { $subject }.
+    Вы хотите повторить попытку с другой парольной фразой или пропустить сообщение?
+# Strings in gpg.jsm
+unknown-signing-alg = Неизвестный алгоритм подписи (Идентификатор: { $id })
+unknown-hash-alg = Неизвестный криптографический хеш (Идентификатор: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Срок действия вашего ключа { $desc } истекает менее, чем через { $days } дней.
+    Мы рекомендуем вам создать новую пару ключей и настроить соответствующие учётные записи для её использования.
+expiry-keys-expire-soon =
+    Срок действия следующих ключей истекает менее, чем через { $days } дней: { $desc }.
+    Мы рекомендуем вам создать новые ключи и настроить соответствующие учётные записи для их использования.
+expiry-key-missing-owner-trust =
+    Ваш секретный ключ { $desc } не имеет доверия.
+    Мы рекомендуем вам установить «Вы полагаетесь на сертификации» в вариант «окончательный» в свойствах ключа.
+expiry-keys-missing-owner-trust =
+    Следующим из ваших секретных ключей не хватает доверия.
+    { $desc }.
+    Мы рекомендуем вам установить «Вы полагаетесь на сертификации» в вариант «окончательный» в свойствах ключа.
+expiry-open-key-manager = Открыть Менеджер ключей OpenPGP
+expiry-open-key-properties = Открыть свойства ключа
+# Strings filters.jsm
+filter-folder-required = Вы должны выбрать целевую папку.
 
 ## Account settings export output
 
