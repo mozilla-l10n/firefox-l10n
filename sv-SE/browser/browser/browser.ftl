@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Sök eller ange adress
 urlbar-placeholder =
     .placeholder = Sök eller ange adress
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Sök med { $name } eller ange adress
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Webbläsaren är fjärrstyrd
 urlbar-permissions-granted =
