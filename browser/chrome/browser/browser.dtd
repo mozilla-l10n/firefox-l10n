@@ -836,6 +836,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Ista ye una pachina segura de &brandShortName;.">
 <!ENTITY identity.extensionPage "Esta pachina ye estada cargada dende una extensión.">
 <!ENTITY identity.insecureLoginForms2 "Los datos de dentrada escritos en ista pachina pueden estar compromesos.">
+<!ENTITY identity.customRoot "Connexión verificada per un emisor de certificaus que no ye reconoixiu per Mozilla.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocau partes d'ista pachina que no son seguras.">
@@ -854,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Tot y que &brandShortName; ha blocau bell conteniu, encara queda conteniu no seguro en a pachina (p.eix. imachens).">
 <!ENTITY identity.description.activeLoaded "Iste puesto web tien contenius que no son seguros (p. eix. scripts) y a suya connexión no ye privada.">
 <!ENTITY identity.description.activeLoaded2 "A información que comparte con iste puesto podría estar vista por atros (como claus, mensaches, tarchetas de credito, etc.).">
+<!ENTITY identity.description.customRoot "Mozila no reconoix este emisor de certificaus. Talment te l'haiga anyadiu lo tuyo sistema operativo u bell administrador.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar a protección">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "v">
@@ -871,6 +873,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No ha dau garra permiso especial ta iste puesto.">
 <!ENTITY identity.permissionsReloadHint "Talment haiga de recargar la pachina pa que s'apliquen los cambios.">
+<!ENTITY identity.permissionsPreferences.tooltip "Ubrir las preferencias de permisos">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Ubrir las preferencias de bloqueyo de contenius">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -903,13 +907,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Se compartirán todas as finestras visibles en a suya pantalla.">
 
 <!ENTITY contentBlocking.title "Bloqueyo de conteniu">
+<!ENTITY contentBlocking.detected "S'ha detectau contenius blocable en este puesto.">
+<!ENTITY contentBlocking.notDetected "No s'ha trobau garra conteniu blocable en esta pachina.">
 
+<!ENTITY contentBlocking.trackingProtection3.label "Elementos de seguimiento">
 
+<!ENTITY contentBlocking.manageSettings.label "Chestionar lo bloqueyo de contenius">
+<!ENTITY contentBlocking.manageSettings.accesskey "C">
 
+<!ENTITY contentBlocking.trackersView.label "Elementos de seguimiento">
 
+<!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies y datos de puestos web">
 
+<!ENTITY contentBlocking.cryptominers.label "">
+<!ENTITY contentBlocking.cryptominersView.label "">
 
+<!ENTITY contentBlocking.fingerprinters.label "">
+<!ENTITY contentBlocking.fingerprintersView.label "">
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Ninviar un reporte">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Cancelar">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -917,6 +937,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.reload2.label "Recargar pachina">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Amostrar tot">
 <!ENTITY pluginNotification.showAll.accesskey "m">
@@ -948,7 +970,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Desactivar extensión">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.keepButton.label "Mantener los cambios">
+<!ENTITY homepageControlled.keepButton.accesskey "n">
+<!ENTITY homepageControlled.disableButton.label "Desactivar extensión">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Acceder a las tuyas pestanyas amagadas">
+<!ENTITY tabHideControlled.keepButton.label "Mantener las tuyas pestanyas amagadas">
+<!ENTITY tabHideControlled.keepButton.accesskey "n">
+<!ENTITY tabHideControlled.disableButton.label "Desactivar extensión">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Accions de pachina">
 <!ENTITY pageAction.addToUrlbar.label "Anyader ta la barra d'adrezas">
@@ -957,6 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 
+<!ENTITY pageAction.shareUrl.label "Compartir">
+<!ENTITY pageAction.shareMore.label "Mas…">
 
 <!ENTITY libraryButton.tooltip "Veyer lo historial, los marcapachinas alzaus, y mas">
 
