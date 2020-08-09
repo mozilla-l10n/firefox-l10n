@@ -88,12 +88,19 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = about:home-Start-Cache
 experimental-features-abouthome-startup-cache-description = Ein Cache für das anfängliche about:home-Dokument, das beim Start standardmäßig geladen wird. Der Zweck des Caches besteht darin, die Startleistung zu verbessern.
+experimental-features-print-preview-tab-modal =
+    .label = Druckvorschau-Redesign
+experimental-features-print-preview-tab-modal-description = Führt die neu gestaltete Druckvorschau ein und stellt Druckvorschau auf macOS zur Verfügung. Dies führt potenziell zu Problemen und beinhaltet nicht alle druckbezogenen Einstellungen. Um auf alle druckbezogenen Einstellungen zuzugreifen, wählen Sie "Drucken über den Systemdialog…" aus der Druckansicht.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Cookies aus derselben Domain, aber mit verschiedenen Schemata (z. B. http://example.com und https://example.com) werden als seitenübergreifende Cookies statt innerhalb einer Website behandelt. Verbessert die Sicherheit, führt aber potenziell zu Problemen.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Entwicklertools: Service-Worker-Debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Aktiviert experimentelle Unterstützung für Service-Worker in der Debugger-Ansicht. Diese Funktion kann die Entwicklerwerkzeuge verlangsamen und den Speicherverbrauch erhöhen.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafik: Sanftes Zoomen durch Antippen
