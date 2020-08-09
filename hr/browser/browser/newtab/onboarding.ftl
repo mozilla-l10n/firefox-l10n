@@ -69,6 +69,7 @@ onboarding-welcome-steps-indicator =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Odaberite <span data-l10n-name="zap">izgled</span>
+onboarding-multistage-theme-subtitle = Prilagodite { -brand-short-name } s temom.
 onboarding-multistage-theme-primary-button-label = Spremi temu
 onboarding-multistage-theme-secondary-button-label = Ne sada
 # Automatic theme uses operating system color settings
@@ -85,6 +86,24 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Naslijedite izgled svog operativnog
+        sustava za tipke, izbornike i prozore.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Koristite svijetli izgled za tipke,
+        izbornike i prozore.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Koristite tamni izgled za tipke,
+        izbornike i prozore.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
 
 ## Welcome full page string
 
