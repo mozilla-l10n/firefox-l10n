@@ -89,7 +89,7 @@ tab-context-close-tabs =
             [one] Tab schließen
            *[other] Tabs schließen
         }
-    .accesskey = s
+    .accesskey = c
 tab-context-move-tabs =
     .label =
         { $tabCount ->
