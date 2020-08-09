@@ -431,6 +431,7 @@ home-prefs-recommended-by-header =
 
 ##
 
+home-prefs-recommended-by-learn-more = Cómo funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articlos esponsorizaus
 home-prefs-highlights-header =
@@ -467,6 +468,8 @@ search-bar-shown =
     .label = Anyader la barra de busqueda en a barra de ferramientas
 search-engine-default-header = Motor de busca por defecto
 search-engine-default-desc = Trigar lo motor de busqueda per defecto a fer servir en a barra d'adrezas y barra de busqueda.
+search-engine-default-private-desc-2 = Triar un motor de busqueda per defecto diferent, nomás pa finestras privadas
+search-suggestions-header = Sucherencias de busqueda
 search-suggestions-option =
     .label = Dar sucherencia de busca
     .accesskey = b
@@ -762,16 +765,51 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizau
     .accesskey = P
+content-blocking-third-party-cookies = Cookies de seguimiento de tercers
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Estricto
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizau
+    .accesskey = P
 
 ##
 
+content-blocking-all-third-party-cookies = Totas las cookies de tercers
+content-blocking-cryptominers = Criptominers
+content-blocking-fingerprinters = Ditaladas dichitals
+content-blocking-warning-title = Atención!
+content-blocking-learn-how = Aprende cómo
+content-blocking-warning-learn-how = Aprende cómo
+content-blocking-reload-tabs-button =
+    .label = Tornar a cargar todas as pestanyas
+    .accesskey = r
+content-blocking-trackers-label =
+    .label = Elementos de seguimiento
+    .accesskey = t
+content-blocking-tracking-content-label =
+    .label = Conteniu de seguimiento
+    .accesskey = t
+content-blocking-tracking-protection-option-all-windows =
+    .label = En totas las finestras
+    .accesskey = a
+content-blocking-option-private =
+    .label = Nomás en finestras privadas
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Cambiar a lista de bloqueyos
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Mas información
 
 ## Privacy Section - Tracking
 
