@@ -319,6 +319,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = חיפוש או הקלדת כתובת
 urlbar-placeholder =
     .placeholder = חיפוש או הקלדת כתובת
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = ‏ניתן לחפש עם { $name } או להקליד כתובת
 urlbar-remote-control-notification-anchor =
     .tooltiptext = הדפדפן נשלט מרחוק
 urlbar-permissions-granted =
