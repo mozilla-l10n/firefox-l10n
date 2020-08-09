@@ -29,6 +29,7 @@ experimental-features-web-gpu2 =
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Kun tämä ominaisuus on käytössä, { -brand-short-name } tukee AV1-kuvatiedostomuotoa (AVIF). Se on liikkumattoman kuvan tiedostomuoto, joka hyödyntää AV1-videopakkausalgoritmin keinoja kuvan koon pienentämiseksi. Lisätietoja on <a data-l10n-name="bugzilla">bugissa 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -57,7 +58,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Web-työkalut: Väriteeman simulointi
 experimental-features-devtools-execution-context-selector =
     .label = Web-työkalut: Suorituskontekstin valitsin
-experimental-features-devtools-execution-context-selector-description = Tämä ominaisuus näyttää konsolin komentorivillä painikkeen, josta voi muuttaa kontekstia, missä kirjoitettu lauseke suoritetaan. Lisätietoja on <a data-l10n-name="bugzilla1">bugissa 1605154</a> ja <a data-l10n-name="bugzilla2">bugissa 1605153</a>.
+experimental-features-devtools-execution-context-selector-description = Tämä ominaisuus näyttää konsolin komentorivillä painikkeen, josta voi vaihtaa kontekstin, missä kirjoitettu lauseke suoritetaan. Lisätietoja on <a data-l10n-name="bugzilla1">bugissa 1605154</a> ja <a data-l10n-name="bugzilla2">bugissa 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Web-työkalut: Compatibility-paneeli
 experimental-features-devtools-compatibility-panel-description = Sivupaneeli sivun Inspector-työkalulle. Näyttää tietoja sovelluksen selainyhteensopivuudesta. Lisätietoja on <a data-l10n-name="bugzilla">bugissa 1584464</a>.
