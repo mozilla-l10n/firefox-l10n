@@ -75,3 +75,6 @@ experimental-features-abouthome-startup-cache-description = Un cache pel documen
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies : Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Aisinas de desvolopament : debuggatge del service worker
