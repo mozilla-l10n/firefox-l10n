@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Зневадження
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Почати
     .title = Можливо запустити service workers лише якщо вимкнено e10s
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Дослідити
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Почати
