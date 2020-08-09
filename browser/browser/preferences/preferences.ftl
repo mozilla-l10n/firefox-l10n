@@ -801,6 +801,10 @@ forms-master-pw-fips-title = คุณกำลังอยู่ในโหม
 forms-primary-pw-change =
     .label = เปลี่ยนรหัสผ่านหลัก…
     .accesskey = ล
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = คุณกำลังอยู่ในโหมด FIPS ซึ่ง FIPS จำเป็นต้องมีรหัสผ่านหลักที่ไม่ว่างเปล่า
 forms-master-pw-fips-desc = การเปลี่ยนรหัสผ่านล้มเหลว
 

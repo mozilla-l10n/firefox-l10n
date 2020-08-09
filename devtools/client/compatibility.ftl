@@ -12,7 +12,11 @@ compatibility-all-elements-header = ปัญหาทั้งหมด
 
 compatibility-issue-deprecated = (เลิกใช้)
 compatibility-issue-experimental = (ทดลอง)
+compatibility-issue-prefixneeded = (จำเป็นต้องใส่คำนำหน้า)
 compatibility-issue-deprecated-experimental = (เลิกใช้, ทดลอง)
+compatibility-issue-deprecated-prefixneeded = (เลิกใช้แล้ว และจำเป็นต้องใส่คำนำหน้า)
+compatibility-issue-experimental-prefixneeded = (เป็นคุณลักษณะทดลอง และจำเป็นต้องใส่คำนำหน้า)
+compatibility-issue-deprecated-experimental-prefixneeded = (เลิกใช้แล้ว เป็นคุณลักษณะทดลอง และจำเป็นต้องใส่คำนำหน้า)
 
 ## Messages used as labels and titles for buttons in the footer
 
