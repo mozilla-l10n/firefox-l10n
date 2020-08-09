@@ -1191,6 +1191,7 @@ space-alert-under-5gb-message = { -brand-short-name(case: "ablative") } loppuu k
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Vain HTTPS -tila
+httpsonly-description = HTTPS:n avulla { -brand-short-name } muodostaa suojatun ja salatun yhteyden vierailemiisi sivustoihin. Useimmat sivustot tukevat HTTPS:ää, ja jos vain HTTPS -tila on käytössä, { -brand-short-name } muuntaa kaikki yhteydet käyttämään HTTPS:ää.
 httpsonly-learn-more = Lue lisää
 httpsonly-radio-enabled =
     .label = Käytä vain HTTPS -tilaa kaikissa ikkunoissa
