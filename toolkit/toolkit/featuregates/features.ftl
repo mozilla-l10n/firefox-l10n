@@ -73,6 +73,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Placki
 experimental-features-abouthome-startup-cache =
     .label = startowy pufrowak about:home
 experimental-features-abouthome-startup-cache-description = Pufrowak za spočatny dokument about:home, kotryž so po standardźe při startowanju začituje. Zaměr pufrowaka je, startowy wukon polěpšić.
+experimental-features-print-preview-tab-modal =
+    .label = Nowy design ćišćerskeho přehlada
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
