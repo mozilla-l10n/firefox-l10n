@@ -69,3 +69,5 @@ css-compatibility-deprecated-experimental-supported-message = <strong>{ $propert
 css-compatibility-deprecated-message = <strong>{ $property }</strong> es rendite obsolete per le standards del W3C. Illo non es supportate in le sequente navigatores:
 css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> es rendite obsolete per le standards del W3C.
 css-compatibility-experimental-message = <strong>{ $property }</strong> es un proprietate experimental. Illo non es supportate in le sequente navigatores:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> es un proprietate experimental.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Lege plus</span> sur <strong>{ $rootProperty }</strong>
