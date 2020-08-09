@@ -53,6 +53,11 @@ experimental-features-css-constructable-stylesheets =
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-devtools-color-scheme-simulation =
+    .label = Web-työkalut: Väriteeman simulointi
+experimental-features-devtools-compatibility-panel =
+    .label = Web-työkalut: Compatibility-paneeli
+experimental-features-devtools-compatibility-panel-description = Sivupaneeli sivun Inspector-työkalulle. Näyttää tietoja sovelluksen selainyhteensopivuudesta. Lisätietoja on <a data-l10n-name="bugzilla">bugissa 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Evästeet: SameSite=Lax oletusarvoisesti
@@ -65,3 +70,12 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Attrib
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home-sivun käynnistyksen välimuisti
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Web-työkalut: Service Worker -vianjäljitys
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Ottaa käyttöön kokeellisen Service Worker -tuen Debugger-paneelissa. Tämä voi hidastaa web-työkaluja ja lisätä muistinkulutusta.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafiikka: Sulava nipistyszoomaus
+experimental-features-graphics-desktop-zooming-description = Ota käyttöön tuki zoomaamiseen nipistämällä, kun käytetään kosketusnäyttöä tai tarkkuuskosketuslevyä.
