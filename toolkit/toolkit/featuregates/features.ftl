@@ -30,3 +30,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = "SameS
 experimental-features-abouthome-startup-cache =
     .label = about:home іске қосылу кэші
 experimental-features-abouthome-startup-cache-description = Іске қосылғанда, автоматты түрде жүктелетін about:home құжаты үшін кэш. Кэштің мақсаты - іске қосылу өнімділігін жақсарту.
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Графика: Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = Сенсорлық экрандарда және дәл сенсорлық тақталарда тегіс масштабтауды іске қосу.
