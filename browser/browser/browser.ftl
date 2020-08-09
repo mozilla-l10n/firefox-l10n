@@ -344,6 +344,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Zadejte webovou adresu nebo dotaz pro vyhledávač
 urlbar-placeholder =
     .placeholder = Zadejte webovou adresu nebo dotaz pro vyhledávač
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Zadejte webovou adresu nebo dotaz pro vyhledávač { $name }
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Prohlížeč je ovládán vzdáleně
 urlbar-permissions-granted =

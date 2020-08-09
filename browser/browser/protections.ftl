@@ -84,7 +84,13 @@ protection-report-save-passwords-button = Uložit hesla
 protection-report-manage-passwords-button = Správa hesel
     .title = Spravovat hesla v { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Vezměte si svá hesla všude s sebou
-lockwise-no-logins-card-content = Používejte hesla uložená ve { -brand-short-name(case: "loc") } na jakémkoliv zařízení.
+lockwise-no-logins-card-content =
+    Používejte hesla uložená { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    } na jakémkoliv zařízení.
 lockwise-app-links = { -lockwise-brand-name } pro <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
