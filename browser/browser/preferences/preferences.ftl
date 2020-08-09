@@ -327,6 +327,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Esviellar automaticament los motors de busca
     .accesskey = e
+update-pref-write-failure-title = Fallo d'escritura
 
 ## General Section - Performance
 
@@ -705,12 +706,28 @@ sitedata-total-size-calculating = Calculando los datos d'o puesto y la grandaria
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Las tuyas cookies, datos d'o puesto y caché son usando per agora { $value } { $unit } d'o espacio de disco
 sitedata-learn-more = Saber-ne mas
+sitedata-option-block-cross-site-trackers =
+    .label = Elementos de seguimiento entre puestos
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Elementos de seguimiento de puestos y retz socials
+sitedata-option-block-unvisited =
+    .label = Cookies de webs no visitaus
+sitedata-option-block-all-third-party =
+    .label = Totas las cookies de tercers (puede causar errors en os puestos web)
+sitedata-option-block-all =
+    .label = Totas las cookies (qualques puestos no funcionarán correctament)
 sitedata-clear =
     .label = Borrar los datos…
     .accesskey = r
 sitedata-settings =
     .label = Chestionar datos…
     .accesskey = C
+sitedata-cookies-permissions =
+    .label = Chestionar permisos…
+    .accesskey = P
+sitedata-cookies-exceptions =
+    .label = Chestionar excepcions…
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
@@ -725,10 +742,26 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Ubrir as pestanyas
     .accesskey = O
+addressbar-locbar-topsites-option =
+    .label = Puestos mas visitaus
+    .accesskey = F
 addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en motors de busca…
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Bloqueyo de conteniu
+content-blocking-learn-more = Saber-ne mas
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Estricto
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalizau
+    .accesskey = P
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -736,6 +769,9 @@ addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en m
 
 ##
 
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
