@@ -60,10 +60,14 @@ experimental-features-web-api-beforeinput-description = Das globale <a data-l10n
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Durch die Hinzufügung eines Konstruktors zur <a data-l10n-name="mdn-cssylesheet">CSSStyleSheet</a>-Schnittstelle sowie einer Vielzahl damit zusammenhängender Änderungen können direkt neue Stylesheets erstellt werden, ohne dass das Sheet dem HTML hinzugefügt werden muss. Das macht es viel einfacher, wiederverwendbare Stylesheets für den Einsatz mit <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> zu erstellen. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1520690</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Die gesamte { -brand-short-name }-Implementierung der Media Session API ist derzeit experimentell. Diese API dient dazu, den Umgang mit medienbezogenen Benachrichtigungen anzupassen, Ereignisse und Daten zu verwalten, die für die Darstellung einer Benutzeroberfläche zur Verwaltung der Medienwiedergabe nützlich sind, und Metadaten von Mediendateien zu erhalten. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 112032</a>.
+experimental-features-devtools-color-scheme-simulation =
+    .label = Entwicklerwerkzeuge: Farbschemasimulation
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
