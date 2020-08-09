@@ -1191,6 +1191,7 @@ space-alert-under-5gb-message = { -brand-short-name } a pas mai d'espaci disc. L
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mòde HTTPS solament
+httpsonly-description = Lo HTTPS provesís una connexion segura e chifrada entre { -brand-short-name } e lo site web que visitatz. La màger part dels site web son compatibles HTTPS, se lo mòde HTTPS solament es activat { -brand-short-name } passarà totas las connexion en HTTPS.
 httpsonly-learn-more = Ne saber mai
 httpsonly-radio-enabled =
     .label = Activar lo mòde HTTPS solament dins totas las fenèstras

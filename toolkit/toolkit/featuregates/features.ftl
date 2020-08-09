@@ -78,3 +78,6 @@ experimental-features-cookie-samesite-schemeful =
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Aisinas de desvolopament : debuggatge del service worker
+# Desktop zooming experiment
+experimental-features-graphics-desktop-zooming =
+    .label = Grafics : Smooth Pinch Zoom
