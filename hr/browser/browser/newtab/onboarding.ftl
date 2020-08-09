@@ -57,6 +57,18 @@ onboarding-multistage-import-header = Uvezi svoje lozinke, <br/>zabilješke i <s
 onboarding-multistage-import-subtitle = Dolaziš iz drugog preglednika? Lako je ponijeti sve u { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Započni uvoz
 onboarding-multistage-import-secondary-button-label = Ne sada
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Stranice s ovog popisa su pronađene na ovom uređaju. { -brand-short-name } ne sprema ili sinkronizira podatke s drugim preglednicima osim ako ne odaberete uvoz iz drugog preglednika.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Kako započeti: ekran { $current } od { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Odaberite <span data-l10n-name="zap">izgled</span>
 onboarding-multistage-theme-primary-button-label = Spremi temu
 onboarding-multistage-theme-secondary-button-label = Ne sada
 # Automatic theme uses operating system color settings
