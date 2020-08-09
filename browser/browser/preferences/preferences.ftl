@@ -580,6 +580,9 @@ sync-signedout-account-create = No tiens encara cuenta? Empecipia
 sync-signedout-account-signin =
     .label = Inicia la sesión…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Dentrar en { -sync-brand-short-name }…
+    .accesskey = D
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -621,15 +624,44 @@ sync-signedin-settings-desc = Trigar qué sincronizar en os tuyos dispostivos fe
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincronización: Activada
+prefs-syncing-off = Sincronización: Desactivada
 prefs-sync-setup =
     .label = Configurar { -sync-brand-short-name }
     .accesskey = C
+prefs-sync-offer-setup-label = Sincroniza os tuyos marcapachinas, historial, pestanyas, claus, complementos y preferencias entre totz os tuyos dispositivos.
+prefs-sync-now =
+    .labelnotsyncing = Sincronizar agora
+    .accesskeynotsyncing = N
+    .labelsyncing = Se ye sincronizando…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Marcapachinas
+sync-currently-syncing-history = Historial
+sync-currently-syncing-tabs = Ubrir as pestanyas
+sync-currently-syncing-logins-passwords = Inicios de sesión y claus
+sync-currently-syncing-addresses = Adrezas
+sync-currently-syncing-creditcards = Tarchetas de credito
+sync-currently-syncing-addons = Complementos
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opcions
+       *[other] Preferencias
+    }
+sync-change-options =
+    .label = Cambiar
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Tría qué quiers sincronizar
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Alzar cambios
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra2 = Desconnectau…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Marcapachinas
     .accesskey = M
@@ -710,6 +742,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sucherir y chenerar claus fuertes
     .accesskey = u
+forms-breach-alerts =
+    .label = Amostrar alertas sobre claus en puestos relacionaus con filtracions de datos
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Saber-ne mas
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
