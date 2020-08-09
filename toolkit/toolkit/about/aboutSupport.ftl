@@ -14,7 +14,9 @@ extensions-name = Nom
 extensions-enabled = Habilitada
 extensions-version = Versió
 extensions-id = ID
+support-addons-title = Complements
 support-addons-name = Nom
+support-addons-type = Tipus
 support-addons-version = Versió
 support-addons-id = ID
 security-software-title = Programari de seguretat
@@ -34,6 +36,7 @@ app-basics-title = Paràmetres bàsics de l'aplicació
 app-basics-name = Nom
 app-basics-version = Versió
 app-basics-build-id = Identificador del muntatge
+app-basics-distribution-id = ID de distribució
 app-basics-update-channel = Canal d'actualitzacions
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -73,6 +76,9 @@ show-dir-label =
         [windows] Obre la carpeta
        *[other] Obre el directori
     }
+experimental-features-title = Funcions experimentals
+experimental-features-name = Nom
+experimental-features-value = Valor
 modified-key-prefs-title = Preferències modificades importants
 modified-prefs-name = Nom
 modified-prefs-value = Valor
@@ -92,6 +98,8 @@ graphics-crash-guards-title = Característiques del protector de fallades desact
 graphics-workarounds-title = Solucions temporals
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocol de finestres
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Entorn d'escriptori
 place-database-title = Base de dades de llocs
 place-database-integrity = Integritat
 place-database-verify-integrity = Verifica la integritat
@@ -116,6 +124,11 @@ sandbox-sys-call-number = Crida del sistema
 sandbox-sys-call-args = Arguments
 safe-mode-title = Proveu el mode segur
 restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
+clear-startup-cache-title = Proveu d'esborrar la memòria cau d'inici
+clear-startup-cache-label = Esborra la memòria cau d'inici…
+startup-cache-dialog-title = Esborra la memòria cau d’inici
+startup-cache-dialog-body = Reinicieu el { -brand-short-name } per esborrar la memòria cau d'inici. Això no canviarà els vostres paràmetres ni eliminarà cap extensió que hàgiu afegit al { -brand-short-name }.
+restart-button-label = Reinicia
 
 ## Media titles
 
@@ -123,6 +136,7 @@ audio-backend = Sistema de fons d'àudio
 max-audio-channels = Nombre màxim de canals
 channel-layout = Disposició de canals preferida
 sample-rate = Freqüència de mostratge preferida
+roundtrip-latency = Latència d'anada i tornada (desviació estàndard)
 media-title = Multimèdia
 media-output-devices-title = Dispositius de sortida
 media-input-devices-title = Dispositius d'entrada
@@ -268,6 +282,7 @@ sandbox-proc-type-content = contingut
 sandbox-proc-type-media-plugin = connector multimèdia
 launcher-process-status-0 = Activat
 launcher-process-status-1 = Desactivat a causa d'un error
+launcher-process-status-unknown = Estat desconegut
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
