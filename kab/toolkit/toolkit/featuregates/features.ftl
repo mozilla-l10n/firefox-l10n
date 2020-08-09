@@ -35,6 +35,8 @@ experimental-features-media-avif-description = S tmahilt-a yettwaremden, { -bran
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = API web: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Asebded-nneɣ i yimyerr amatu <a data-l10n-name="mdn-inputmode">inputmode</a> yettuleqqem almend n <a data-l10n-name="whatwg">ulugen WHATWG</a>, maca mazal nesra ad neg kra n yisnifal daɣen, d amedya ad t-nerr yella deg ugbur ara yettwaẓergen. Wali <a data-l10n-name="bugzilla">abug1205133</a> i wugar n telqayt.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
