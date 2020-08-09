@@ -90,6 +90,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = 啟動時，對預設載入的 about:home 文件進行快取，以改善啟動效能。
 experimental-features-print-preview-tab-modal =
     .label = Print Preview Redesign
+experimental-features-print-preview-tab-modal-description = 帶來重新設計過的預覽列印功能，並讓此功能在 macOS 也能使用。此功能在某些情況下，可能會造成列印功能故障，並且還沒有包含完整的列印選項。若要使用完整列印功能，請點擊列印面板當中的「使用系統對話框列印…」。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
