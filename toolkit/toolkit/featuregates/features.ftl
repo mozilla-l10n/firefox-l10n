@@ -48,6 +48,7 @@ experimental-features-web-api-link-preload-description = Atribut <a data-l10n-na
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Zmóžnja nałožowanje fokusowych stilow na elementy kaž tłóčatka a formularne wodźenske elementy, hdyž so z pomocu tastatury fokusuja (na př. z tabulatorowej tastu při pohibowanje po elementach) a nic, hdyž so z myšku abo druhim pokazowanskim gratom fokusuja. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1617600</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -88,9 +89,12 @@ experimental-features-print-preview-tab-modal-description = Zawjeduje nowo wuhot
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Placki: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Z plackami ze samsneje domeny, ale z rozdźělnymi šemami (na př. http://example.com a https://example.com) jako placki mjez wjacorymi sydłami město samsneho sydła wobchadźeja. Polěpšuje wěstotu, ale zawinuje potencielnje problemy.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Wuwiwarske nastroje: Pytanje zmylkow ze service worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Zmóžnja eksperimentelnu podpěru za service worker we woknje Pytanje za zmylkami. Tuta funkcija móže wuwiwarske nastroje spomalić a přetrjebu składa powyšić.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafika: łahodne dwuporstowe skalowanje
