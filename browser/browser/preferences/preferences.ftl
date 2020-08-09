@@ -56,6 +56,7 @@ category-experimental =
 pane-experimental-subtitle = Ves con cuenta!
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: Ves con cuenta
 help-button-label = Soporte de { -brand-short-name }
+addons-button-label = Extensions y temas
 focus-search =
     .key = f
 close-button =
@@ -86,12 +87,18 @@ extension-controlled-homepage-override = Una extensión, <img data-l10n-name="ic
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando la tuya pachina de Nueva Pestanya.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando este parametro.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Una extensión, <img data-l10n-name="icon"/> { $name }, ha fixau lo tuyo motor de busqueda per defecto.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Una extensión, <img data-l10n-name="icon"/> { $name }, requiere Pestanyas Contenederas.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando este parametro.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando cómo { -brand-short-name } se connecta a internet.
@@ -199,11 +206,21 @@ advanced-fonts =
 colors-settings =
     .label = Colors…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Zoom per defecto
+    .accesskey = Z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zoom nomás en o texto
+    .accesskey = t
 language-header = Idioma
 choose-language-description = Trigar l'idioma preferiu ta amostrar as pachinas web
 choose-button =
     .label = Trigar…
     .accesskey = T
+confirm-browser-language-change-button = Aplicar y reiniciar
 translate-web-pages =
     .label = Traducir o conteniu web
     .accesskey = T
@@ -277,9 +294,15 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usar { $plugin-name } (en o { -brand-short-name })
+applications-open-inapp =
+    .label = Ubrir en { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -291,12 +314,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -328,6 +355,10 @@ update-enable-search-update =
     .label = Esviellar automaticament los motors de busca
     .accesskey = e
 update-pref-write-failure-title = Fallo d'escritura
+update-in-progress-ok-button = &Descartar
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Continar
 
 ## General Section - Performance
 
@@ -367,6 +398,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Mirar textos malas que s'escomienza a tecliar
     .accesskey = x
+browsing-picture-in-picture-learn-more = Saber-ne mas
+browsing-cfr-recommendations =
+    .label = Recomendar extensions mientres navegas
+    .accesskey = R
 
 ## General Section - Proxy
 
@@ -738,6 +773,12 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = Blocar cookies y datos d'o puesto
     .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipo de conteniu blocau
+    .accesskey = T
+sitedata-option-block-trackers =
+    .label = Elementos de seguimiento de tercers
 sitedata-option-block-cross-site-trackers =
     .label = Elementos de seguimiento entre puestos
 sitedata-option-block-cross-site-and-social-media-trackers =
