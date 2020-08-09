@@ -82,7 +82,7 @@ serviceworker-empty-intro-link = Weitere Informationen
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
-serviceworker-empty-suggestions2 = Wenn die aktuelle Seite einen Service-Worker haben sollte, könnten Sie nach Fehlern in der <a>Konsole</a> suchen oder die Registrierung Ihres Service-Worker im <span>Debugger</span> durchlaufen.
+serviceworker-empty-suggestions2 = Wenn die aktuelle Seite einen Service-Worker besitzen sollte, könnten Sie in der <a>Konsole</a> nach Fehlern suchen oder die Registrierung Ihres Service-Workers schrittweise im <span>Debugger</span> durchlaufen.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Service-Worker von anderen Domains ansehen
@@ -106,7 +106,7 @@ manifest-item-icons = Symbole
 # Text displayed while we are loading the manifest file
 manifest-loading = Manifest wird geladen…
 # Text displayed when the manifest has been successfully loaded
-manifest-loaded-ok = Manifest geladen.
+manifest-loaded-ok = Manifest geladen
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
 manifest-loaded-error = Beim Laden des Manifests trat ein Fehler auf:
