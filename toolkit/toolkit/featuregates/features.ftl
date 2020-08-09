@@ -88,6 +88,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = 使用
 experimental-features-abouthome-startup-cache =
     .label = about:home startup cache
 experimental-features-abouthome-startup-cache-description = 啟動時，對預設載入的 about:home 文件進行快取，以改善啟動效能。
+experimental-features-print-preview-tab-modal =
+    .label = Print Preview Redesign
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
