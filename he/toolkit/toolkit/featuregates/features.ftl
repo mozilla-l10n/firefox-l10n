@@ -66,6 +66,8 @@ experimental-features-cookie-samesite-lax-by-default2 =
 experimental-features-abouthome-startup-cache =
     .label = מטמון הפעלה של about:home
 experimental-features-abouthome-startup-cache-description = מטמון עבור המסמך about:home הראשוני שנטען כברירת מחדל בעת ההפעלה. מטרת המטמון היא לשפר את ביצועי ההפעלה.
+experimental-features-print-preview-tab-modal =
+    .label = עיצוב מחדש לתצוגה מקדימה להדפסה
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = כלי פיתוח: ניפוי שגיאות של Service Worker
