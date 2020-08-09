@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = 디버그
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = 시작
     .title = 다중 e10s가 비활성화 된 경우에만 Service Worker를 시작할 수 있습니다.
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = 검사
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = 시작
