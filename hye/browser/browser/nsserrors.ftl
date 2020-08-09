@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
@@ -16,26 +22,26 @@ psmerr-hostreusedissuerandserial =
     Դուք ստացել եք սխալ վկայագիր։ Կապուեք սպասարկիչի կառաւարիչի հետ կամ նամակ գրէք նրան եւ ուղարկէք հետեւեալ տեղեկութիւնները.
     
     Ձեր վկայագիրը պարունակում է միեւնոյն սերիական համարը, ինչ մեկ այլ վկայագիր՝ տրուած վկայագրման նոյն կենտրոնի կողմից։ Խնդրում ենք ստանալ նոր վկայագիր՝ իր բացառիկ համարով։
-ssl-error-export-only-server = Անհնար է ապահովել անուտանգ տեղեկութեան փոխանցում։ Հանգոյցը չի ապահովում բարձրաստիճան գաղտնագրում։
+ssl-error-export-only-server = Անհնար է ապահովել տեղեկութեան անվտանգ փոխանցում։ Նմանասարքը չի ապահովում բարձրակարգ գաղտնագրում։
 ssl-error-us-only-server = Անհնար է ապահովել անվտանգ տեղեկութեան փոխանցում։ Հանգոյցը պահանջում է բարձրաստիճան գաղտնագրում, որը ապահովուած չէ։
 ssl-error-no-cypher-overlap = Չի ստացուում անվտանգ տեղեկութեան փոխանակում հանգոյցի հետ։ Չկա ընդհանուր գաղտնագրման հաշուեկարգ(եր)։
 ssl-error-no-certificate = Չի ստացուում գտնել վաւերացման համար անհրաժեշտ վկայագիր կամ բանալի։
-ssl-error-bad-certificate = Չստացուեց հաստատել ապահով կապ հանգոյցի հետ՝ հանգոյցի վկայագիրը մերժուեց։
+ssl-error-bad-certificate = Չստացուեց հաստատել ապահով կապ նմանասարքի հետ՝ նմանասարքի վկայագիրը մերժուեց։
 ssl-error-bad-client = Սպասարկիչը հանդիպել է սխալ տուեալի սպասառուից։
 ssl-error-bad-server = Սպասառուն հանդիպել է սխալ տուեալի սպասարկիչից։
 ssl-error-unsupported-certificate-type = Անընդունելի վկայագրի տեսակ։
-ssl-error-unsupported-version = Հանգոյցը աւգտագործում է անվտանգութեան կանխագրի անընդունելի տարբերակ։
+ssl-error-unsupported-version = Նմանասարքն աւգտագործում է անվտանգութեան կանխագրի անընդունելի տարբերակ։
 ssl-error-wrong-certificate = Չհաջողուած սպասառուի վաւերացումը` բանալիների տուեալների բազայի անհատական բանալին  տարբերուում է վկայագրերի տուեալների բազայի հանրային բանալուց։
-ssl-error-bad-cert-domain = Անհնար է ապահովել անվտանգ կապ հանգոյցի հետ՝ հարցուած տիրոյթին անունը չի համապատասխանում սպասարկիչի վկայագրում նշուածին։
+ssl-error-bad-cert-domain = Անհնար է ապահովել անվտանգ կապ նմանասարքի հետ՝ հարցուած տիրոյթի անունը չի համապատասխանում սպասարկչի վկայագրում նշուածին։
 ssl-error-post-warning = Անուերականգնելի SSL սխալի կոդ.
-ssl-error-ssl2-disabled = Հանգոյցը ապահովում է միայն SSL ի 2-րդ տարբերակը, որը տաղայնաւրէն կասեցուած է։
+ssl-error-ssl2-disabled = Նմանասարքն ապահովում է միայն SSL ի 2-րդ տարբերակը, որը մասնակիաւրէն կասեցուած է։
 ssl-error-bad-mac-read = SSL-ը ստացաւ հաղորդագրութեան վաւերացման սխալ կոդ։
-ssl-error-bad-mac-alert = SSL հանգոյցը հաղորդեց վաւերացման կոդի սխալի մասին։
-ssl-error-bad-cert-alert = SSL հանգոյցը չի կարողանում հաստատել Ձեր վկայագիրը։
-ssl-error-revoked-cert-alert = SSL հանգոյցը մերժեց Ձեր վկայագիրը, որպէս ետ կանչուած։
-ssl-error-expired-cert-alert = SSL հանգոյցը մերժեց Ձեր վկայագիրը, որպէս ժամկէտանց։
+ssl-error-bad-mac-alert = SSL նմանասարքը հաղորդեց վաւերացման կոդի սխալի մասին։
+ssl-error-bad-cert-alert = SSL նմանասարքը չի կարողանում հաստատել Ձեր վկայագիրը։
+ssl-error-revoked-cert-alert = SSL նմանասարքը մերժեց Ձեր վկայագիրը, որպէս ետ կանչուած։
+ssl-error-expired-cert-alert = SSL նմանասարքը մերժեց Ձեր վկայագիրը՝ որպէս ժամկէտանց։
 ssl-error-ssl-disabled = Կապակցումը չհաջողուեց՝ SSL-ը անջատուած է։
-ssl-error-fortezza-pqg = Կապակցումը չհաջողուեց՝ հանգոյցը գտնուում է այլ FORTEZZA տիրոյթում։
+ssl-error-fortezza-pqg = Կապակցումը չհաջողուեց՝ նմանասարքը գտնուում է այլ FORTEZZA տիրոյթում։
 ssl-error-unknown-cipher-suite = Պահանջուեց SSL-ի անյայտ կոդերի համախումբ։
 ssl-error-no-ciphers-supported = Այս ծրագրում գոյութիւն չունի կոդերի ոչ մի համախումբ։
 ssl-error-bad-block-padding = SSL-ը ստացաւ վատ պարունակութեամբ տուեալների բլոկ։
