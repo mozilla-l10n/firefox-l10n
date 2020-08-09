@@ -41,14 +41,21 @@ experimental-features-web-api-inputmode-description = Unsere Implementierung des
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Das <a data-l10n-name="rel">rel</a>-Attribut mit dem Wert <code>"preload"</code> auf einem <a data-l10n-name="link">&lt;link&gt;</a>-Element soll dazu beitragen, Leistungssteigerungen zu erzielen, indem Sie Ressourcen früher im Seitenlebenszyklus herunterladen, damit sie früher verfügbar sind und weniger wahrscheinlich das Rendern von Seiten blockieren. Lesen Sie <a data-l10n-name="readmore">"Preloading content with <code>rel="preload"</code>"</a> oder <a data-l10n-name="bugzilla">Bug 1583604</a> für weitere Details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Ermöglicht die Anwendung von Fokusstilen auf Elemente wie Schaltflächen und Formularsteuerelemente, wenn sie mithilfe der Tastatur fokussiert werden (z. B. beim Tabben zwischen Elementen) und nicht, wenn sie mit einer Maus oder einem anderen Zeigegerät fokussiert sind. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1617600</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Das globale <a data-l10n-name="mdn-beforeinput">beforeinput</a>-Event wird auf <a data-l10n-name="mdn-input">&lt;input&gt;</a>- und <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>-Elementen oder jedem Element, dessen <ein data-l10n-name="mdn-contenteditable">contenteditable</a>-Attribut aktiviert ist, unmittelbar vor der Wertänderung des Elements ausgelöst. Das Event ermöglicht es Web-Apps, das Standardverhalten des Browsers für die Benutzerinteraktion zu überschreiben, z. B. können Web-Apps die Benutzereingabe nur für bestimmte Zeichen abbrechen oder das Einfügen von stilisiertem Text nur mit freigeschalteten Stilen verändern.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
