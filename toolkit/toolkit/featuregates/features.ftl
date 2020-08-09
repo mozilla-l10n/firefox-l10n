@@ -55,6 +55,9 @@ experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
     .label = Web-työkalut: Väriteeman simulointi
+experimental-features-devtools-execution-context-selector =
+    .label = Web-työkalut: Suorituskontekstin valitsin
+experimental-features-devtools-execution-context-selector-description = Tämä ominaisuus näyttää konsolin komentorivillä painikkeen, josta voi muuttaa kontekstia, missä kirjoitettu lauseke suoritetaan. Lisätietoja on <a data-l10n-name="bugzilla1">bugissa 1605154</a> ja <a data-l10n-name="bugzilla2">bugissa 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Web-työkalut: Compatibility-paneeli
 experimental-features-devtools-compatibility-panel-description = Sivupaneeli sivun Inspector-työkalulle. Näyttää tietoja sovelluksen selainyhteensopivuudesta. Lisätietoja on <a data-l10n-name="bugzilla">bugissa 1584464</a>.
@@ -70,6 +73,14 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Attrib
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home-sivun käynnistyksen välimuisti
+experimental-features-abouthome-startup-cache-description = Käynnistyksessä oletuksena ladattavan about:home-sivun välimuisti. Sen tarkoitus on parantaa käynnistymisen suorituskykyä.
+experimental-features-print-preview-tab-modal =
+    .label = Tulostuksen esikatselun uusi design
+experimental-features-print-preview-tab-modal-description = Otaa käyttöön tulostuksen esikatselun uuden designin ja mahdollistaa tulostuksen esikatselun macOS-käyttöjärjestelmässä. Tämä ei välttämättä toimi täysin eikä sisällä kaikki tulostusasetuksia. Loppujen tulostusasetusten muuttamiseksi tarvitsee valita ”Tulosta käyttäen järjestelmän tulostusikkunaa…” Tulosta-paneelista.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Evästeet: Schemeful SameSite
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Web-työkalut: Service Worker -vianjäljitys
