@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Введите поисковый запрос или адрес
 urlbar-placeholder =
     .placeholder = Введите поисковый запрос или адрес
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Найдите в { $name } или введите адрес
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Браузер находится под удалённым управлением
 urlbar-permissions-granted =
