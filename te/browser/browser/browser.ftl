@@ -69,6 +69,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = సందేశపు ప్యానెలును తెరువు
 urlbar-geolocation-notification-anchor =
     .tooltiptext = స్థాన అభ్యర్థన ప్యానెలును తెరువు
+urlbar-xr-notification-anchor =
+    .tooltiptext = వర్చువల్ రియాలిటీ అనుమతి ప్యానెల్ తెరవండి
 urlbar-storage-access-anchor =
     .tooltiptext = విహారణ కార్యకరాలపు అనుమతి ప్యానెలును తెరువు
 urlbar-translate-notification-anchor =
@@ -117,6 +119,8 @@ urlbar-search-mode-history = చరిత్ర
 
 urlbar-geolocation-blocked =
     .tooltiptext = మీ స్థాన సమాచారాన్ని వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.
+urlbar-xr-blocked =
+    .tooltiptext = మీరు ఈ వెబ్‌సైట్ కోసం వర్చువల్ రియాలిటీ పరికర ప్రాప్యతను నిరోధించారు.
 urlbar-web-notifications-blocked =
     .tooltiptext = నోటిఫికేషన్లు చూపించకుండా ఈ వెబ్‌సైటుని నిరోధించారు.
 urlbar-camera-blocked =
