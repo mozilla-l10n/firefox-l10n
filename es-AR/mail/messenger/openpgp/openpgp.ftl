@@ -263,6 +263,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Revocar clave
 openpgp-key-edit-title = Cambiar clave OpenPGP
 openpgp-key-edit-date-title = Extender fecha de expiración
+openpgp-manager-description = Usar OpenPGP Key Manager para ver y administrar las claves públicas de sus corresponsales y todas las demás claves que no se enumeran anteriormente.
 openpgp-manager-button =
     .label = Administrador de claves OpenPGP
     .accesskey = G
@@ -278,13 +279,29 @@ key-type-pair = par de claves (clave secreta y clave pública)
 key-expiry-never = nunca
 key-usage-encrypt = Cifrar
 key-usage-sign = Firma
+key-usage-certify = Certificar
 key-usage-authentication = Autenticación
 key-does-not-expire = La clave no expira
 key-expired-date = La clave expiró el { $keyExpiry }
 key-expired-simple = La clave ha expirado
 key-revoked-simple = La clave fue revocada
 key-do-you-accept = ¿Acepta está clave para verificar firmas digitales y para cortar mensajes?
+key-accept-warning = Evite aceptar una clave falsa. Utilice un canal de comunicación que no sea el correo electrónico para verificar la huella digital de la clave de su interlocutor.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = No se puede enviar el mensaje porque hay un problema con su clave personal. { $problem }
+cannot-encrypt-because-missing = No se puede enviar este mensaje cifardo de punta a punta porque hay problemas con las claves de los siguientes destinatarios: { $problem }
+window-locked = La ventana de redacción está bloqueada; enviar cancelado
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Parte del mensaje cifrado
+mime-decrypt-encrypted-part-concealed-data = Esta es una parte de mensaje cifrado. Tiene que abrirla en una ventana separada haciendo clic en el archivo adjunto.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Abortado
 keyserver-error-unknown = Ocurrió un error desconocido
+keyserver-error-server-error = El servidor de claves informó de un error.
+keyserver-error-import-error = No se pudo importar la clave descargada.
+keyserver-error-unavailable = El servidor de claves no está disponible.
+keyserver-error-security-error = El servidor de claves no admite el acceso cifrado.
+keyserver-error-certificate-error = El certificado del servidor de claves no es válido.
 expiry-open-key-manager = Abrir administrador de claves OpenPGP
 
 ## Account settings export output
