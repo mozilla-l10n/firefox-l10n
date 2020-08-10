@@ -28,5 +28,6 @@ openpgp-search-signature-key =
 openpgp-broken-exchange-repair =
     .label = Üzenet javítása
 openpgp-broken-exchange-wait = Kis türelmet…
+openpgp-reminder-partial-display = Emlékeztető: Az alább látható üzenet csak az eredeti üzenet egy részét tartalmazza.
 openpgp-partial-verify-button = Ellenőrzés
 openpgp-partial-decrypt-button = Visszafejtés

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = Titkosított vagy digitálisan aláírt üzenetek küldéséhez be kell állítania egy titkosítási technológiát, az OpenPGP-t vagy az S/MIME-ot.
 openpgp-key-user-id-label = Fiók / felhasználói azonosító
 openpgp-keygen-title-label =
     .title = OpenPGP-kulcs előállítása
@@ -31,6 +32,7 @@ openpgp-generate-key =
     .tooltiptext = Új OpenPGP-nek megfelelő kulcsot állít elő titkosításhoz és aláíráshoz
 openpgp-advanced-prefs-button-label =
     .label = Speciális…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">MEGJEGYZÉS: A kulcs előállítása akár néhány percet is igénybe vehet.</a> Ne zárja be az alkalmazást, amíg a kulcs előállítása folyamatban van. A kulcselőállítás során az aktív böngészés vagy a lemezintenzív műveletek feltöltik a „véletlenszerűségi készletet”, és ez felgyorsítja a folyamatot. Értesítést kap, amikor a kulcselőállítás befejeződött.
 openpgp-key-expiry-label =
     .label = Lejárat
 openpgp-key-id-label =
@@ -86,6 +88,7 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Kulcsok felfedezése online
     .accesskey = f
+openpgp-key-man-discover-prompt = Az OpenPGP-kulcsok online felfedezéséhez – kulcskiszolgálókon vagy a WKD protokoll használatával – adjon meg egy e-mail-címet vagy egy kulcsazonosítót.
 openpgp-key-man-discover-progress = Keresés…
 openpgp-key-copy-key =
     .label = Nyilvános kulcs másolása
@@ -202,6 +205,9 @@ openpgp-acceptance-unverified-label =
     .label = Igen, de nem ellenőriztem, hogy a kulcs helyes-e.
 openpgp-acceptance-verified-label =
     .label = Igen, személyesen ellenőriztem, hogy valóban ez a helyes ujjlenyomat.
+key-accept-personal =
+    Ennél a kulcsnál megvan a nyilvános és a titkos rész is. Használhatja személyes kulcsként.
+    Ha ezt a kulcsot valaki más adta Önnek, akkor ne használja személyes kulcsként.
 key-personal-warning = Ön készítette ezt a kulcsot, és a megjelenített kulcstulajdon Önre vonatkozik?
 openpgp-personal-no-label =
     .label = Nem, ne használja személyes kulcsként.
@@ -256,6 +262,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Kulcs visszavonása
 openpgp-key-edit-title = OpenPGP-kulcs módosítása
 openpgp-key-edit-date-title = Lejárati dátum kitolása
+openpgp-manager-description = Az OpenPGP kulcskezelővel megtekintheti és kezelheti levelezőpartnerei nyilvános kulcsait, és az összes többi, a fentiekben fel nem sorolt kulcsot.
 openpgp-manager-button =
     .label = OpenPGP-kulcskezelő
     .accesskey = k
