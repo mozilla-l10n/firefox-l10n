@@ -31,6 +31,10 @@ printui-scale = Méret
 printui-scale-fit-to-page = Laphoz igazítás
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Méret
+# Section title for miscellaneous print options
+printui-options = Beállítások
+printui-headers-footers-checkbox = Fejlécek és láblécek nyomtatása
+printui-backgrounds-checkbox = Hátterek nyomtatása
 printui-system-dialog-link = Nyomtatás a rendszer párbeszédablakával…
 printui-primary-button = Nyomtatás
 printui-cancel-button = Mégse
