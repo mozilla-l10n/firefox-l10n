@@ -119,3 +119,9 @@ openpgp-import-key-props =
 
 openpgp-external-key-title = Chave GnuPG externa
 openpgp-external-key-description = Configure uma chave GnuPG externa inserindo o ID da chave
+openpgp-external-key-info = Além disto, você deve utilizar o Gestor de chaves para importar e aceitar a chave pública correspondente.
+openpgp-external-key-warning = <b>Apenas pode configurar uma chave GnuPG externa.</b> A sua entrada anterior será substituída.
+openpgp-save-external-button = Guardar ID da chave
+openpgp-external-key-label = ID da chave secreta:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
