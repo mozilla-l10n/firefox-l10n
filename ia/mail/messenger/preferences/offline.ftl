@@ -4,6 +4,16 @@
 
 offline-dialog-window =
     .title = Parametros offline
+autodetect-online-label =
+    .label = Passar automaticamente al stato in linea
+    .accesskey = P
+startup-label = Stato manual al initio:
+status-radio-remember =
+    .label = Rememorar le stato in linea previe
+    .accesskey = R
+status-radio-ask =
+    .label = Demandar me pro stato in linea
+    .accesskey = D
 status-radio-always-online =
     .label = Online
     .accesskey = l
