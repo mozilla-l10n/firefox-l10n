@@ -64,3 +64,10 @@ inactive-text-overflow-when-no-overflow-fix = Essayez d’ajouter <strong>overfl
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> n’est pas pris en charge par les navigateurs suivants :
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> était une propriété expérimentale qui est désormais obsolète d’après les normes du W3C. Elle n’est plus prise en charge par les navigateurs suivants :
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> était une propriété expérimentale qui est désormais obsolète d’après les normes du W3C.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> est obsolète d’après les normes du W3C. La propriété n’est plus prise en charge par les navigateurs suivants :
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> est obsolète d’après les normes du W3C.
+css-compatibility-experimental-message = <strong>{ $property }</strong> est une propriété expérimentale. Elle n’est pas prise en charge par les navigateurs suivants :
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> est une propriété expérimentale.
+css-compatibility-learn-more-message = <span data-l10n-name="link">En savoir plus</span> à propos de <strong>{ $rootProperty }</strong>
