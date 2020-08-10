@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Pour envoyer des messages chiffrés ou signés numériquement, vous devez configurer une technologie de chiffrement, soit OpenPGP soit S/MIME.
-e2e-intro-description-more = Sélectionnez votre clé personnelle pour utiliser OpenPGP, ou votre certificat personnel pour utiliser S/MIME. Vous devez posséder la clé secrète correspondant à la clé personnelle ou au certificat personnel.
+e2e-intro-description-more = Sélectionnez votre clé personnelle pour utiliser OpenPGP, ou votre certificat personnel pour utiliser S/MIME. Vous devez posséder la clé secrète associée à la clé personnelle ou au certificat personnel.
 openpgp-key-user-id-label = Compte / Identifiant utilisateur
 openpgp-keygen-title-label =
     .title = Générer une clé OpenPGP
@@ -526,3 +526,65 @@ key-revoked = Clé « { $key } » révoquée
 key-expired = Clé « { $key } » expirée
 msg-compose-internal-error = Une erreur interne s’est produite.
 keys-to-export = Sélectionnez les clés OpenPGP à insérer
+msg-compose-partially-encrypted-inlinePGP =
+    Le courriel auquel vous répondez comprend à la fois des parties chiffrées et non chiffrées. Si l’expéditeur n’a pas réussi à déchiffrer initialement les parties cachées du courriel, vous divulguerez peut-être des renseignements confidentiels que l’expéditeur n’a pas réussi à déchiffrer.
+    Veuillez envisager d’effacer tout texte cité de votre réponse à cet expéditeur.
+msg-compose-cannot-save-draft = Erreur lors de l’enregistrement du brouillon
+quoted-printable-warn =
+    Vous avez activé l’encodage « citation imprimable » pour l’envoi de courriels. Cela peut entraîner un déchiffrement ou une vérification incorrects de votre courriel.
+    Souhaitez-vous désactiver maintenant l’envoi de courriels avec cette option ?
+minimal-line-wrapping =
+    Vous avez défini le retour à la ligne automatique à { $width } caractères. Pour un chiffrement ou une signature corrects, cette valeur doit être d’au moins 68.
+    Souhaitez-vous définir le retour à la ligne automatique à 68 caractères maintenant ?
+sending-hidden-rcpt = Il n’est pas possible de mettre des destinataires en « Copie cachée à » lors de l’envoi d’un message chiffré. Pour envoyer ce message chiffré, supprimez les destinataires du champ « Copie cachée à » ou déplacez-les vers le champ « Copie à ».
+sending-news =
+    L’opération d’envoi chiffré a été annulée.
+    Ce courriel ne peut pas être chiffré, car certains destinataires sont des forums. Veuillez renvoyer le courriel sans chiffrement.
+send-to-news-warning =
+    Avertissement : vous êtes sur le point d’envoyer un courriel chiffré à un forum.
+    Cela est déconseillé, car il ne serait logique de le faire que si tous les membres du forum peuvent déchiffrer le courriel, c.-à-d. que le courriel doit être chiffré avec les clés de tous les membres du forum. Veuillez n’envoyer ce courriel que si vous savez exactement ce que vous faites.
+    Continuer ?
+save-attachment-header = Enregistrer la pièce jointe déchiffrée
+no-temp-dir =
+    Impossible de trouver un répertoire temporaire dans lequel écrire.
+    Veuillez définir la variable d’environnement TEMP
+possibly-pgp-mime = Message potentiellement chiffré ou signé via PGP/MIME ; utilisez la fonction « Déchiffrer/Vérifier » pour vous en assurer
+cannot-send-sig-because-no-own-key = Impossible de signer numériquement ce message, car vous n’avez pas encore configuré le chiffrement de bout en bout pour <{ $key }>
+cannot-send-enc-because-no-own-key = Impossible d’envoyer ce message chiffré, car vous n’avez pas encore configuré le chiffrement de bout en bout pour <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple = Importer les clés suivantes ? { $key }
+do-import-one = Importer { $name } ({ $id }) ?
+cant-import = Erreur lors de l’importation de la clé publique
+unverified-reply = La partie du message en retrait (la réponse) a probablement été modifiée
+key-in-message-body = Une clé a été détectée dans le corps du message. Cliquez sur « Importer la clé » pour l’importer
+attachment-pgp-key =
+    La pièce jointe « { $name } » que vous essayez d’ouvrir semble être un fichier de clé OpenPGP.
+    Cliquez sur « Importer » pour importer les clés contenues ou sur « Afficher » pour afficher le contenu du fichier dans une fenêtre de navigateur.
+dlg-button-view = &Afficher
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Courriel déchiffré (restauration d’un format de courriel PGP défectueux probablement causé par un ancien serveur Exchange ; le résultat pourrait ne pas être complètement lisible)
+# Strings used in windows.jsm
+no-photo-available = Aucune photo disponible
+error-photo-path-not-readable = L’emplacement « { $photo } » de la photo ne peut pas être lu
+debug-log-title = Journal de débogage OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Cette alerte sera répétée { $count }
+repeat-suffix-singular = fois.
+repeat-suffix-plural = fois.
+no-repeat = Cette alerte ne sera plus affichée.
+dlg-keep-setting = Se souvenir de ma réponse et ne plus me demander
+dlg-button-ok = &Ok
+dlg-button-close = &Fermer
+dlg-button-cancel = &Annuler
+dlg-no-prompt = Ne plus afficher ce dialogue à l’avenir
+enig-prompt = Boîte de dialogue OpenPGP
+enig-confirm = Confirmation OpenPGP
+enig-alert = Alerte OpenPGP
+enig-info = Information OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Réessayer
+dlg-button-skip = &Ignorer
+# Strings used in enigmailCommon.js
+enig-error = Erreur OpenPGP
+enig-alert-title =
+    .title = Alerte OpenPGP
