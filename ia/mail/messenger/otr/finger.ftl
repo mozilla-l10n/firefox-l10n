@@ -5,6 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Clauder
     .title = Dactylogrammas OTR previemente vidite
+finger-intro = Dactylogrammas clave OTR de previe conversationes cryptate end-to-end.
 finger-screenName =
     .label = Contacto
 finger-verified =
