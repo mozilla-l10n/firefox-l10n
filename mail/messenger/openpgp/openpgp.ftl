@@ -339,6 +339,56 @@ filter-folder-required = Debe seleccionar una carpeta de destino.
 filter-decrypt-move-warn-experimental =
     Advertencia: la acción de filtrado "Descifrar permanentemente" puede provocar la destrucción de mensajes.
     Le recomendamos encarecidamente que primero pruebe el filtro "Crear copia descifrada", pruebe el resultado con cuidado y comience a usar este filtro solo una vez que esté satisfecho con el resultado.
+filter-term-pgpencrypted-label = OpenPGP cifrado
+filter-key-required = Debe seleccionar una clave de destinatario.
+filter-key-not-found = No se pudo encontrar una clave de cifrado para '{ $desc }'.
+filter-warn-key-not-secret =
+    Advertencia: la acción de filtro "Cifrar en clave" reemplaza a los destinatarios.
+    Si no tiene la clave secreta para '{ $desc }', ya no podrá leer los correos electrónicos.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Descifrar permanentemente (OpenPGP)
+filter-decrypt-copy-label = Crear copia descifrada (OpenPGP)
+filter-encrypt-label = Cifrar a clave (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = ¡Claves importadas correctamente!
+import-info-bits = Bits
+import-info-created = Creado
+import-info-fpr = Huella digital
+import-info-details = Ver Detalles y administrar la aceptación de claves
+import-info-no-keys = No se importaron las claves.
+# Strings in enigmailKeyManager.js
+import-from-clip = ¿Quiere importar alguna(s) clave(s) del portapapeles?
+import-from-url = Descargue la clave pública de esta URL:
+copy-to-clipbrd-failed = No se pudieron copiar las claves seleccionadas al portapapeles.
+copy-to-clipbrd-ok = Clave(s) copiada(s) al portapapeles
+delete-secret-key =
+    ADVERTENCIA: ¡Está a punto de eliminar una clave secreta!
+    
+    Si elimina su clave secreta, ya no podrá descifrar ningún mensaje cifrado para esa clave, ni podrá revocarla.
+    
+    ¿Realmente quiere eliminar AMBOS, la clave secreta y la clave pública?
+    '{ $userId }'?
+delete-mix =
+    ADVERTENCIA: ¡Está a punto de eliminar una clave secreta!
+    Si elimina su clave secreta, ya no podrá descifrar ningún mensaje cifrado para esa clave, ni podrá revocarla.
+    ¿Realmente quiere eliminar AMBOS, la clave secreta y la clave pública?
+delete-pub-key =
+    ¿Quiere eliminar la clave pública?
+    '{ $userId }'?
+delete-selected-pub-key = ¿Quiere eliminar las claves públicas?
+refresh-all-question = No seleccionó ninguna tecla. ¿Le gustaría actualizar TODAS las claves?
+key-man-button-export-sec-key = Exportar las &claves secretas
+key-man-button-export-pub-key = Exportar solo las &claves públicas
+key-man-button-refresh-all = &Actualizar todas las claves
+key-man-loading-keys = Cargando claves, espere ...
+ascii-armor-file = Archivos blindados ASCII (* .asc)
+no-key-selected = Debe seleccionar al menos una tecla para realizar la operación seleccionada
+export-to-file = Exportar clave pública a un archivo
+export-keypair-to-file = Exportar clave pública y secreta al archivo
+export-secret-key = ¿Quiere incluir la clave secreta en el archivo de claves OpenPGP guardado?
+save-keys-ok = Las claves se guardaron correctamente
+save-keys-failed = Falló el guardado de claves
 
 ## Account settings export output
 
