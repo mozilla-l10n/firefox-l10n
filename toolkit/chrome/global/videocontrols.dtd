@@ -42,6 +42,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Agachatz de vidèos en primièr plan mentre que fasètz d’autras causas dins &brandShortName;">
 
 <!ENTITY error.aborted "Cargament de la vidèo arrestat.">
 <!ENTITY error.network "La lectura de la vidèo es estada arrestada a causa d'una error de ret.">
