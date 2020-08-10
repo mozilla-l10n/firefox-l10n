@@ -40,8 +40,8 @@ openpgp-partially-signed =
     Bare en delmengde av denne meldingen ble signert digitalt ved hjelp av OpenPGP.
     Hvis du klikker på bekreftelsesknappen, vil de ubeskyttede delene bli skjult, og statusen til den digitale signaturen vises.
 openpgp-partially-encrypted =
-    Bare et delmengde av denne meldingen ble kryptert ved hjelp av OpenPGP.
-    De lesbare delene av meldingen som allerede er vist, ble ikke kryptert.
+    Bare en delmengde av denne meldingen ble kryptert ved hjelp av OpenPGP.
+    De delene av meldingen som kan leses og som allerede er viste, ble ikke krypterte.
     Hvis du klikker på dekrypter-knappen, vises innholdet i de krypterte delene.
 openpgp-reminder-partial-display = Påminnelse: Meldingen vist nedenfor er bare en delmengde av den opprinnelige meldingen.
 openpgp-partial-verify-button = Bekreft
