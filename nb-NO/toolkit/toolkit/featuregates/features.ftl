@@ -104,4 +104,4 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafikk: Jevn knipeskalering
-experimental-features-graphics-desktop-zooming-description = Aktiver støtte for jevn knipeskalering med berøringsskjermer og presisjonspekeplate.
+experimental-features-graphics-desktop-zooming-description = Aktiver støtte for jevn knipeskalering med berøringsskjermer og presisjonsstyreplate.
