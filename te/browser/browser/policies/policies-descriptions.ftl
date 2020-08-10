@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-BlockAboutConfig = about:onfig పేజీని చూడటాన్ని నిరోధించండి.
+policy-BlockAboutProfiles = about:profiles పేజీని చూడటాన్ని నిరోధించు.
 policy-BlockAboutSupport = about:support పేజీని చూడకుండా నిరోధించు.
 policy-Cookies = వెబ్‌సైట్లు కుకీలను అమర్చేలా అనుమతించండి లేదా తిరస్కరించండి.
 policy-DisableDeveloperTools = డెవలపర్ పనిముట్లను చూడటాన్ని నిరోధించండి.
