@@ -39,6 +39,10 @@ openpgp-cannot-decrypt-because-missing-key = Den hemmelege nøkkelen som vert kr
 openpgp-partially-signed =
     Berre ei delmengde av denne meldinga vart signert digitalt ved hjelp av OpenPGP.
     Dersom du klikkar på stadfestingsknappen, vil dei ubeskytta delane bli skjult, og statusen til den digitale signaturen bli vist.
+openpgp-partially-encrypted =
+    Berre ei delmengde av denne meldinga vart kryptert ved hjelp av OpenPGP.
+    Dei delane av meldinga som kan lesast og som allereie er viste, vart ikkje krypterte.
+    Dersom du klikkar på dekrypter-knappen, vert innhaldet vist i dei krypterte delane.
 openpgp-reminder-partial-display = Påminning: Meldinga vist nedanfor er berre ei delmengde av den opprhavlege meldinga.
 openpgp-partial-verify-button = Stadfest
 openpgp-partial-decrypt-button = Dekrypter
