@@ -458,6 +458,9 @@ msg-compose-details-button-label = Detaljar…
 msg-compose-details-button-access-key = D
 send-aborted = Sendingsoperasjonen avbroten.
 key-not-trusted = Ikkje nok tillit til nøkkelen «{ $key }»
+key-not-found = Fann ikkje nøkkelen «{ $key }»
+key-revoked = Nøkkelen «{ $key }» kalla tilbake
+key-expired = Nøkkelen «{ $key }» har gått ut
 msg-compose-internal-error = Det oppstod ein intern feil.
 keys-to-export = Vel OpenPGP-nøklar du vil setje inn
 msg-compose-cannot-save-draft = Feil ved lagring av utkast
@@ -469,6 +472,7 @@ do-import-multiple =
 do-import-one = Importere { $name } ({ $id })?
 cant-import = Feil ved import av offentleg nøkkel
 sig-mismatch = Feil - signaturen samsvarar ikkje
+invalid-email = Feil - ugyldige e-postadresser
 dlg-button-view = &Vis
 # Strings used in encryption.jsm
 not-required = Feil - inga kryptering påkravd
