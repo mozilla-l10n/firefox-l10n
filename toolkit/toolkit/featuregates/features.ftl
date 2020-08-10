@@ -76,6 +76,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = A „S
 experimental-features-abouthome-startup-cache =
     .label = about:home indítási gyorsítótár
 experimental-features-abouthome-startup-cache-description = Gyorsítótár a kezdeti about:home dokumentumhoz, amely alapértelmezés szerint betöltődik indításkor. A gyorsítótár célja az indítási teljesítmény javítása.
+experimental-features-print-preview-tab-modal =
+    .label = A nyomtatási kép újratervezése
+experimental-features-print-preview-tab-modal-description = Új nyomtatási képet vezet be, és elérhetővé teszi a nyomtatási képen macOS-en is. Ez potenciálisan törést okoz, és nem tartalmaz minden nyomtatással kapcsolatos beállítást. A nyomtatással kapcsolatos beállítások eléréséhez válassza a „Nyomtatás a rendszer párbeszédablakával…” lehetőséget a Nyomtatás panelen.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
