@@ -519,6 +519,9 @@ key-revoked = Nøkkelen «{ $key }» kalla tilbake
 key-expired = Nøkkelen «{ $key }» har gått ut
 msg-compose-internal-error = Det oppstod ein intern feil.
 keys-to-export = Vel OpenPGP-nøklar du vil setje inn
+msg-compose-partially-encrypted-inlinePGP =
+    Meldinga du svarar på inneheld både ukrypterte og krypterte delar. Dersom avsendaren ikkje klarte å dekryptere nokre meldingsdelar frå byrjinga av, kan det hende du lek konfidensiell informasjon om at avsendaren ikkje var i stand til å kunne dekryptere sjølv.
+    Vurder å fjerne all sitert tekst frå svaret til denne avsendaren.
 msg-compose-cannot-save-draft = Feil ved lagring av utkast
 save-attachment-header = Lagre dekryptert vedlegg
 no-temp-dir =
