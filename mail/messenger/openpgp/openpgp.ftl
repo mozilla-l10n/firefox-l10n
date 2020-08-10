@@ -521,6 +521,12 @@ msg-compose-internal-error = Det oppstod ein intern feil.
 keys-to-export = Vel OpenPGP-nøklar du vil setje inn
 msg-compose-cannot-save-draft = Feil ved lagring av utkast
 save-attachment-header = Lagre dekryptert vedlegg
+no-temp-dir =
+    Klarte ikkje å finne ein mellombels katalog å skrive til
+    Spesifiser TEMP-miljøvariabelen
+possibly-pgp-mime = Eventuelt PGP-/MIME-kryptert eller signert melding; bruk «Dekrypter/stadfest»-funksjonen for å stadfeste
+cannot-send-sig-because-no-own-key = Klarte ikkje å signere denne meldinga digitalt, fordi du enno ikkje har konfigurert ende-til-ende-kryptering for <{ $key }>
+cannot-send-enc-because-no-own-key = Klarte ikkje å sende denne meldinga kryptert, fordi du enno ikkje har konfigurert ende-til-ende-kryptering for <{ $key }>
 # Strings used in decryption.jsm
 do-import-multiple =
     Importere følgjande nøklar?
@@ -531,7 +537,12 @@ unverified-reply = Innrykket meldingsdel (svar) vart truleg endra
 key-in-message-body = Ein nøkkel vart funnen i meldinga. Klikk «Importer nøkkel» for å importere nøkkelen
 sig-mismatch = Feil - signaturen samsvarar ikkje
 invalid-email = Feil - ugyldige e-postadresser
+attachment-pgp-key =
+    Vedlegget «{ $name }» du opnar ser ut til å vere ein OpenPGP-nøkkelfil.
+    Klikk på «Importer» for å importere nøklane eller «Vis» for å sjå filinnhaldet i nettlesarvindauget
 dlg-button-view = &Vis
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Dekryptert melding (retta oppatt øydelagd PGP-e-postformat sannsynlegvis forårsaka av ein gammal Exchange-server, slik at resultatet kanskje ikkje er perfekt å lese)
 # Strings used in encryption.jsm
 not-required = Feil - inga kryptering påkravd
 # Strings used in windows.jsm
