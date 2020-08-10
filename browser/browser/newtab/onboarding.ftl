@@ -42,6 +42,75 @@ onboarding-cards-dismiss =
     .title = Sbittar
     .aria-label = Sbittar
 
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Bainvegni en <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Il navigatur svelt, segir e privat – sustegnì dad ina organisaziun senza finamira da profit.
+onboarding-multistage-welcome-primary-button-label = Cumenzar cun la configuraziun
+onboarding-multistage-welcome-secondary-button-label = S'annunziar
+onboarding-multistage-welcome-secondary-button-text = Has in conto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importescha tes pleds-clav, <br/>segnapaginas e <span data-l10n-name="zap">dapli</span>
+onboarding-multistage-import-subtitle = Vegns ti dad in auter navigatur? Igl è simpel dad importar tut en { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Lantschar l'import
+onboarding-multistage-import-secondary-button-label = Betg ussa
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Las websites mussadas qua èn vegnidas chattadas sin quest apparat. { -brand-short-name } na memorisescha u sincronisescha naginas datas dad in auter navigatur senza che ti decidas da las importar.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Emprims pass: visur { $current } da { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Tscherna in'<span data-l10n-name="zap">apparientscha</span>
+onboarding-multistage-theme-subtitle = Persunalisescha { -brand-short-name } cun in design.
+onboarding-multistage-theme-primary-button-label = Memorisar il design
+onboarding-multistage-theme-secondary-button-label = Betg ussa
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatic
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Utilisar il design dal sistem
+onboarding-multistage-theme-label-light = Cler
+onboarding-multistage-theme-label-dark = Stgir
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        Surpigliar l'apparientscha da tes sistem
+        operativ per buttuns, menus e fanestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Utilisar ina apparientscha clera per buttuns,
+        menus e fanestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Utilisar ina apparientscha stgira per buttuns,
+        menus e fanestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Utilisar ina apparientscha giaglia per buttuns,
+        menus e fanestras.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
+
 ## Welcome full page string
 
 onboarding-fullpage-welcome-subheader = Scuvrin tut quai che ti pos far.
