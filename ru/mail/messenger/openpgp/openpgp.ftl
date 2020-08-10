@@ -418,6 +418,12 @@ key-ring-sign-sub-keys-expired = Срок действия всех подчин
 key-ring-sign-sub-keys-unusable = Все подчинённые ключи для подписания ключа { $userId } (идентификатор ключа { $keyId }) отозваны, просрочены или непригодны для использования по иным причинам.
 key-ring-enc-sub-keys-revoked = Все подчинённые ключи для шифрования ключа { $userId } (идентификатор ключа { $keyId }) отозваны.
 key-ring-enc-sub-keys-expired = Срок действия всех подчинённых ключей для шифрования ключа { $userId } (идентификатор ключа { $keyId }) истёк.
+key-ring-enc-sub-keys-unusable = Все подчинённые ключи для шифрования ключа { $userId } (идентификатор ключа { $keyId }) отозваны, просрочены или непригодны для использования по иным причинам.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Фото
+user-att-photo = Атрибут пользователя (изображение JPEG)
+# Strings in key.jsm
+already-revoked = Этот ключ уже был отозван.
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     У вас нет ключа (0x{ $keyId }), который соответствует этому сертификату отзыва!!
