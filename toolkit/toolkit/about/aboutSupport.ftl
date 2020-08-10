@@ -285,6 +285,9 @@ blocklisted-bug = Dodano na seznam zavrnjenih zaradi znanih težav
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = hrošč { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Dodano na seznam zavrnjenih zaradi znanih težav: <a data-l10n-name="bug-link">hrošč { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Dodano na seznam zavrnjenih; koda napake { $failureCode }
 d3d11layers-crash-guard = Sestavljalnik D3D11

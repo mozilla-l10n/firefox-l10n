@@ -270,3 +270,4 @@ cfr-doorhanger-doh-secondary-button = Onemogoči
 
 cfr-whatsnew-clear-cookies-header = Samodejna zaščita pred zahrbtnimi sledilnimi pristopi
 cfr-whatsnew-clear-cookies-body = Nekateri sledilci vas preusmerijo na druga spletna mesta, ki skrivaj nastavljajo piškotke. { -brand-short-name } zdaj samodejno počisti te piškotke, tako da vam ne morejo slediti.
+cfr-whatsnew-clear-cookies-image-alt = Ilustracija zavrnjenega piškotka

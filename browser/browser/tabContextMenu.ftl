@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Zapri več zavihkov
     .accesskey = č
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -81,3 +85,23 @@ move-tabs =
 move-tab =
     .label = Premakni zavihek
     .accesskey = k
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zapri zavihek
+            [one] Zapri zavihek
+            [two] Zapri zavihka
+            [few] Zapri zavihke
+           *[other] Zapri zavihke
+        }
+    .accesskey = Z
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Premakni zavihek
+            [one] Premakni zavihek
+            [two] Premakni zavihka
+            [few] Premakni zavihke
+           *[other] Premakni zavihke
+        }
+    .accesskey = m
