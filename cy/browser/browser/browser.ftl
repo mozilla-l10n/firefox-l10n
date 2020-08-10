@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Chwilio neu gyfeiriad gwe
 urlbar-placeholder =
     .placeholder = Chwilio neu gyfeiriad gwe
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Chwilio gyda { $name } neu rhoi'r cyfeiriad
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Mae'r porwr o dan reolaeth bell
 urlbar-permissions-granted =
