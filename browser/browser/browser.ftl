@@ -305,6 +305,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
 urlbar-placeholder =
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
 urlbar-remote-control-notification-anchor =
     .tooltiptext = విహరణి వ్యవహిత నియంత్రణ కింద ఉంది
 urlbar-permissions-granted =
