@@ -424,7 +424,7 @@ already-revoked = Denne nøkkelen er allereie trekt tilbake.
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     Du er i ferd med å kalle tilbake nøkkelen «{ $identity }».
-    Du vil ikkje lenger kunne signere med denne nøkkelen, og når han er distribuert, vil andre ikkje lenger kunne kryptere med denne nøkkelen. Du kan framleis bruke nøkkelen til å dekryptere gamle meldingar.
+    Du vil ikkje lenger kunne signere med denne nøkkelen, og når han er distribuert, vil andre ikkje lenger kunne kryptere med nøkkelen. Du kan framleis bruke nøkkelen til å dekryptere gamle meldingar.
     Vil du fortsetje?
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
