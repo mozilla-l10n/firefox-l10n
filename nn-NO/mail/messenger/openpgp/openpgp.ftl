@@ -352,6 +352,7 @@ save-keys-ok = Nøklane vart lagra
 save-keys-failed = Lagring av nøklane feila
 default-pub-key-filename = Eksporterte-offentlege-nøklar
 default-pub-sec-key-filename = Sikkerheitskopi-av-hemmelege-nøklar
+refresh-key-warn = Åtvaring: Avhengig av talet på nøklar og tilkoplingsfart, kan det vere ein lang prosess å oppdatere alle nøklane!
 preview-failed = Klarte ikkje å lese inn offentleg nøkkelfil.
 general-error = Feil: { $reason }
 dlg-button-delete = &Slett
