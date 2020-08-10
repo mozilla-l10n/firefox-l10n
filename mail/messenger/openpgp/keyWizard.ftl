@@ -91,6 +91,7 @@ openpgp-import-key-list-amount =
        *[other] A Thunderbird { $count } kulcsot talált, amely importálható.
     }
 openpgp-import-key-list-description = Erősítse meg, hogy mely kulcsok kezelhetők személyes kulcsaiként. Csak azokat a kulcsokat használja személyes kulcsként, amelyeket saját maga készített, és az Ön személyazonosságát mutatják. Ezt a beállítást később is megváltoztathatja a Kulcstulajdonságok párbeszédablakon.
+openpgp-import-key-list-caption = A személyes kulcsként kezeltként megjelölt kulcsok a végpontok közötti titkosítás szakaszban vannak felsorolva. A többi a Kulcskezelőben érhető el.
 openpgp-passphrase-prompt-title = Jelmondat szükséges
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Írja be a jelmondatot a következő kulcs feloldásához: { $key }
@@ -118,6 +119,8 @@ openpgp-import-key-props =
 
 openpgp-external-key-title = Külső GnuPG-kulcs
 openpgp-external-key-description = Kulső GnuPG-kulcs beállítása a kulcsazonosító megadásával
+openpgp-external-key-info = Továbbá a Kulcskezelő használatával kell importálnia és elfogadnia a megfelelő nyilvános kulcsot.
+openpgp-external-key-warning = <b>Csak egy külső GnuPG-kulcsot konfigurálhat.</b> Az előző bejegyzés felül lesz írva.
 openpgp-save-external-button = Kulcsazonosító mentése
 openpgp-external-key-label = Titkos kulcsazonosító:
 openpgp-external-key-input =

@@ -284,6 +284,10 @@ key-does-not-expire = A kulcs nem jár le
 key-expired-date = A kulcs ekkor lejárt: { $keyExpiry }
 key-expired-simple = A kulcs lejárt
 key-revoked-simple = A kulcsot visszavonták
+key-do-you-accept = Elfogadja ezt a kulcsot a digitális aláírások ellenőrzéséhez és az üzenetek titkosításához?
+key-accept-warning = Kerülje le a hamis kulcsok elfogadását. Használjon egy az e-mailtől eltérő kommunikációs csatornát a levelezőpartner kulcsának ujjlenyomatának ellenőrzéséhez.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Az üzenet nem küldhető el, mert probléma van a személyes kulcsával. { $problem }
 window-locked = Az írási ablak zárolva van; küldés megszakítva
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Titkosított üzenetrész
@@ -350,6 +354,8 @@ export-keypair-to-file = Titkos és nyilvános kulcs exportálása fájlba
 export-secret-key = Biztos, hogy felveszi a titkos kulcsot az elmentett OpenPGP-kulcsfájlba?
 save-keys-ok = A kulcsok sikeresen elmentve
 save-keys-failed = A kulcsok mentése sikertelen
+default-pub-key-filename = Exportált nyilvános kulcsok
+default-pub-sec-key-filename = Titkos kulcsok biztonsági mentése
 preview-failed = Nem olvasható a nyilvános kulcs fájlja.
 general-error = Hiba: { $reason }
 dlg-button-delete = Tör&lés
@@ -365,6 +371,14 @@ key-ring-pub-key-revoked = A(z) { $userId } kulcsot (kulcsazonosító: { $keyId 
 key-ring-pub-key-expired = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) lejárt.
 key-ring-key-disabled = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) le van tiltva; nem használható.
 key-ring-key-invalid = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) érvénytelen. Fontolja meg a helyessége ellenőrzését.
+key-ring-pub-key-not-for-signing = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem használható aláíráshoz.
+key-ring-pub-key-not-for-encryption = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem használható titkosításhoz.
+key-ring-sign-sub-keys-revoked = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes aláírási alkulcsát visszavonták.
+key-ring-sign-sub-keys-expired = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes aláírási alkulcsa lejárt.
+key-ring-sign-sub-keys-unusable = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes aláírási alkulcsa visszavonásra került, lejárt vagy más okból nem használható.
+key-ring-enc-sub-keys-revoked = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes titkosítási alkulcsát visszavonták.
+key-ring-enc-sub-keys-expired = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes titkosítási alkulcsa lejárt.
+key-ring-enc-sub-keys-unusable = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes titkosítási alkulcsa visszavonásra került, lejárt vagy más okból nem használható.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fénykép
 user-att-photo = Felhasználói attribútum (JPEG-kép)
@@ -373,6 +387,15 @@ openpgp-key-revoke-success = A kulcs visszavonása sikeres.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importálás
 delete-key-title = OpenPGP-kulcs törlése
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Hiba – a kulcskinyerési parancs sikertelen
+# Strings used in keyRing.jsm
+fail-cancel = Hiba – a felhasználó megszakította a kulcs fogadását
+not-first-block = Hiba – az első OpenPGP blokk nem nyilvános kulcs blokk
+import-key-confirm = Importálja az üzenetbe ágyazott nyilvános kulcsokat?
+fail-key-import = Hiba – a kulcs importálása sikertelen
+file-write-failed = A(z) { $output } fájlba írás sikertelen
+no-pgp-block = Hiba – nem található érvényes páncélozott OpenPGP-adatblokk
 # Strings used in trust.jsm
 key-valid-unknown = ismeretlen
 key-valid-invalid = érvénytelen
