@@ -587,3 +587,7 @@ enig-info = Информация OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Повторить
 dlg-button-skip = Пропуст&ить
+# Strings used in enigmailCommon.js
+enig-error = Ошибка OpenPGP
+enig-alert-title =
+    .title = Предупреждение OpenPGP
