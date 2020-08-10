@@ -393,6 +393,46 @@ key-man-button-export-pub-key = Exporter les clés &publiques uniquement
 key-man-button-refresh-all = &Actualiser toutes les clés
 key-man-loading-keys = Chargement des clés, veuillez patienter…
 ascii-armor-file = Fichiers blindés ASCII (*.asc)
+no-key-selected = Vous devez sélectionner au moins une clé pour effectuer l’opération sélectionnée
+export-to-file = Exporter la clé publique vers un fichier
+export-keypair-to-file = Exporter la clé secrète et la clé publique vers un fichier
+save-keys-ok = Les clés ont été correctement enregistrées
+save-keys-failed = Échec de l’enregistrement des clés
+default-pub-key-filename = Clés-publiques-exportées
+default-pub-sec-key-filename = Sauvegarde-des-clés-secrètes
+refresh-key-warn = Attention : en fonction du nombre de clés et de la vitesse de connexion, l’actualisation de l’ensemble des clés peut être un processus assez long.
+preview-failed = Impossible de lire le fichier de clé publique.
+general-error = Erreur : { $reason }
+dlg-button-delete = &Supprimer
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Clé publique correctement exportée !</b>
+openpgp-export-public-fail = <b>Impossible d’exporter la clé publique sélectionnée.</b>
+openpgp-export-secret-success = <b>Clé secrète correctement exportée !</b>
+openpgp-export-secret-fail = <b>Impossible d’exporter la clé secrète sélectionnée.</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = La clé { $userId } (Identifiant de clé { $keyId }) est révoquée.
+key-ring-pub-key-expired = La clé { $userId } (Identifiant de clé { $keyId }) est expirée.
+key-ring-key-disabled = La clé { $userId } (Identifiant de clé { $keyId }) est désactivée ; elle ne peut pas être utilisée.
+key-ring-key-invalid = La clé { $userId } (Identifiant de clé { $keyId }) est invalide. Veuillez envisager de la vérifier correctement.
+key-ring-key-not-trusted = Vous n’avez pas accordé un niveau de confiance suffisant à la clé { $userId } (Identifiant de clé { $keyId }). Veuillez définir le niveau de confiance de votre clé à « absolu » afin de l’utiliser pour signer.
+key-ring-no-secret-key = Vous ne semblez pas avoir la clé privée pour { $userId } (Identifiant de clé { $keyId }) dans votre trousseau ; vous ne pouvez pas utiliser la clé pour signer.
+key-ring-pub-key-not-for-signing = La clé { $userId } (Identifiant de clé { $keyId }) ne peut pas être utilisée pour signer.
+key-ring-pub-key-not-for-encryption = La clé { $userId } (Identifiant de clé { $keyId }) ne peut pas être utilisée pour chiffrer.
+key-ring-sign-sub-keys-revoked = Toutes les sous-clés de signature de la clé { $userId } (Identifiant de clé { $keyId }) sont révoquées.
+key-ring-sign-sub-keys-expired = Toutes les sous-clés de signature de la clé { $userId } (Identifiant de clé { $keyId }) ont expiré.
+key-ring-sign-sub-keys-unusable = Toutes les sous-clés de signature de la clé { $userId } (Identifiant de clé { $keyId }) sont révoquées, ont expiré ou sont inutilisables.
+key-ring-enc-sub-keys-revoked = Toutes les sous-clés de chiffrement de la clé { $userId } (Identifiant de clé { $keyId }) sont révoquées.
+key-ring-enc-sub-keys-expired = Toutes les sous-clés de chiffrement de la clé { $userId } (Identifiant de clé { $keyId }) ont expiré.
+key-ring-enc-sub-keys-unusable = Toutes les sous-clés de chiffrement de la clé { $userId } (Identifiant de clé { $keyId }) sont révoquées, ont expiré ou sont inutilisables.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Photo
+user-att-photo = Attribut utilisateur (image JPEG)
+# Strings in key.jsm
+already-revoked = Cette clé a déjà été révoquée.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Vous êtes sur le point de révoquer la clé « { $identity } ».
+    Vous ne serez plus en mesure de signer avec cette clé, et une fois que la révocation sera propagée, les autres ne pourront plus chiffrer avec cette clé. Vous pouvez encore l’utiliser pour déchiffrer les courriels anciens.
+    Voulez-vous continuer ?
