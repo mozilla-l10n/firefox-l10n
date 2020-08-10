@@ -396,6 +396,7 @@ import-key-confirm = Importálja az üzenetbe ágyazott nyilvános kulcsokat?
 fail-key-import = Hiba – a kulcs importálása sikertelen
 file-write-failed = A(z) { $output } fájlba írás sikertelen
 no-pgp-block = Hiba – nem található érvényes páncélozott OpenPGP-adatblokk
+confirm-permissive-import = Az importálás sikertelen. Lehet, hogy az importálandó kulcs sérült vagy ismeretlen attribútumokat használ. Megpróbálja a helyes részek importálását? Ez hiányos és használhatatlan kulcsokat eredményezhet.
 # Strings used in trust.jsm
 key-valid-unknown = ismeretlen
 key-valid-invalid = érvénytelen
@@ -412,8 +413,11 @@ import-key-file = OpenPGP-kulcsfájl importálása
 import-rev-file = OpenPGP visszavonási fájl importálása
 gnupg-file = GnuPG-fájlok
 import-keys-failed = A kulcsok importálása sikertelen
+passphrase-prompt = Írja be a jelmondatot, amely feloldja a következő kulcsot: { $key }
+file-to-big-to-import = A fájl túl nagy. Nem importáljon nagy kulcskészleteket egyszerre.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Visszavonási tanúsítvány létrehozása és mentése
+revoke-cert-ok = A visszavonási tanúsítvány sikeresen létrejött. Használhatja a nyilvános kulcs érvénytelenítéséhez, például abban az esetben, ha elveszíti a titkos kulcsát.
 key-man-button-generate-key = Kulcs &előállítása
 key-abort = Megszakítja a kulcselőállítást?
 # Strings used in enigmailMessengerOverlay.js
