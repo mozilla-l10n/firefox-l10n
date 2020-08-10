@@ -455,6 +455,12 @@ msg-compose-partially-encrypted-inlinePGP =
     Az üzenet, amelyre válaszol, titkosítatlan és titkosított részeket is tartalmaz. Ha a küldő eredetileg nem tudott visszafejteni néhány üzenetrészt, akkor bizalmas információkat szivárogtathat ki, amelyeket a feladó eredetileg nem volt képes visszafejteni.
     Fontolja meg az összes idézett szöveg eltávolítását a feladónak küldött válaszból.
 msg-compose-cannot-save-draft = Hiba a piszkozat mentésekor
+msg-compose-partially-encrypted-short = Figyeljen a bizalmas információk kiszivárogtatására – részlegesen titkosított e-mail.
+save-attachment-header = Visszafejtett melléklet mentése
+no-temp-dir =
+    Nem található ideiglenes könyvtár, amelybe írni lehetne
+    Állítsa be a TEMP környezeti változót
+possibly-pgp-mime = Lehet, hogy PGP/MIME segítségével titkosított vagy aláírt üzenet; az ellenőrzéshez használja a „Visszafejtés/Ellenőrzés” funkciót
 dlg-button-ok = &Rendben
 dlg-button-close = &Bezárás
 dlg-button-cancel = &Mégse
