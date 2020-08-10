@@ -65,13 +65,16 @@ experimental-features-css-constructable-stylesheets-description = A <a data-l10n
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
-experimental-features-media-session-api-description = Jelenleg a Media Session API teljes implementációja kísérleti a { -brand-short-name }ban. Ezzel az API-val testreszabható a médiával kapcsolatos értesítések kezelése, kezelhetők az események és adatok, melyek hasznosak a lejátszáskezelő felhasználói felületek létrehozásához, és megszerezhetők vele a médiafájlok metaadatai. További részletékért lásd a <a data-l10n-name="bugzilla">1112032-es számú jegyet</a>.
+experimental-features-media-session-api-description = Jelenleg a Media Session API teljes implementációja kísérleti a { -brand-short-name }ban. Ezzel az API-val testreszabható a médiával kapcsolatos értesítések kezelése, kezelhetők az események és adatok, melyek hasznosak a lejátszáskezelő felhasználói felületek létrehozásához, és megszerezhetők vele a médiafájlok metaadatai. További részletékért lásd az <a data-l10n-name="bugzilla">1112032-es számú jegyet</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Fejlesztői eszközök: Színséma szimuláció
+experimental-features-devtools-color-scheme-simulation-description = Hozzáadja azt a lehetőséget, hogy különböző színsémákat szimuláljon, hogy tesztelhesse a <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> médialekérdezéseket. A médialekérdezés használatával válaszolhat a stíluslapja arra, hogy a felhasználó a világos vagy a sötét felhasználó felületet részesíti előnyben. A funkcióval úgy tesztelheti a kódját, hogy közben nem kell megváltoztatnia a böngészője beállítását (vagy az operációs rendszeréjét, ha a böngésző a rendszerszintű színséma-beállítást követi). További részletekért lásd az <a data-l10n-name="bugzilla1">1550804-es</a> és az <a data-l10n-name="bugzilla2">1137699-es</a> számú jegyet.
 experimental-features-devtools-execution-context-selector =
     .label = Fejlesztői eszközök: Végrehajtásikörnyezet-választó
+experimental-features-devtools-execution-context-selector-description = Ez a funkció megjelenít egy gombot a konzol parancssorán, amellyel módosíthatja azt a környezetet, amelyben a beírt kifejezés végrehajtásra kerül. További részletekért lásd az <a data-l10n-name="bugzilla1">1605154-es</a> és az <a data-l10n-name="bugzilla2">1605153-as</a> számú jegyeket.
 experimental-features-devtools-compatibility-panel =
     .label = Fejlesztői eszközök: Kompatibilitási panel
+experimental-features-devtools-compatibility-panel-description = Egy oldalsáv a Lapvizsgálóhoz, amely információkat jelenít meg az alkalmazás böngészők közti kompatibilitási állapotáról. További részletekért lásd az <a data-l10n-name="bugzilla">1584464-es számú jegyet</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=lax by default
