@@ -71,9 +71,51 @@ openpgp-keygen-short-expiry = A sua chave deve ser válida durante, pelo menos, 
 openpgp-keygen-ongoing = Geração de chave já em curso!
 openpgp-keygen-error-core = Não foi possível inicializar o OpenPGP Core Service
 openpgp-keygen-error-failed = A geração da chave OpenPGP falhou inesperadamente
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Chave OpenPGP criada com sucesso, mas falhou a obtenção da revogação para a chave { $key }
+openpgp-keygen-abort-title = Abortar geração de chave?
+openpgp-keygen-abort = Geração de chaves OpenPGP em curso. Tem a certeza de que deseja cancelar este processo?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Gerar chave pública e secreta para { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Importar uma chave OpenPGP pessoal existente
+openpgp-import-key-legend = Selecione um ficheiro de cópia anterior.
+openpgp-import-key-description = Pode importar chaves pessoais que foram criadas com outro software OpenPGP.
+openpgp-import-key-info = Outros softwares podem descrever uma chave pessoal utilizando termos alternativos, como chave própria, chave secreta, chave privada ou par de chaves.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] O Thunderbird encontrou { $count } chave que pode ser importada.
+       *[other] O Thunderbird encontrou { $count } chaves que podem ser importadas.
+    }
+openpgp-import-key-list-description = Confirme quais as chaves podem ser tratadas como as suas chaves pessoais. Apenas as chaves que você mesmo criou e que mostram a sua própria identidade devem ser utilizadas como chaves pessoais. Você pode alterar esta opção mais tarde na janela Propriedades da chave.
+openpgp-import-key-list-caption = As chaves marcadas para serem tratadas como chaves pessoais serão listadas na secção Encriptação de ponto a ponto. As outras estarão disponíveis dentro do Gestor de chaves.
+openpgp-passphrase-prompt-title = Frase secreta necessária
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Por favor, especifique a sua frase secreta para desbloquear a seguinte chave: { $key }
+openpgp-import-key-button =
+    .label = Selecionar o ficheiro a importar...
+    .accesskey = S
+import-key-file = Importar o ficheiro de chave OpenPGP
+import-key-personal-checkbox =
+    .label = Tratar esta chave como uma chave pessoal
+gnupg-file = Ficheiros GnuPG
+import-error-file-size = <b>Erro!</b> Não são suportados ficheiros maiores que 5MB.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Erro!</b> A importação do ficheiro falhou. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Erro!</b> A importação das chaves falhou. { $error }
+openpgp-import-identity-label = Identidade
+openpgp-import-fingerprint-label = Impressão digital
+openpgp-import-created-label = Criada
+openpgp-import-bits-label = Bits
+openpgp-import-key-props =
+    .label = Propriedades da chave
+    .accesskey = v
 
 ## External Key section
 
+openpgp-external-key-title = Chave GnuPG externa
+openpgp-external-key-description = Configure uma chave GnuPG externa inserindo o ID da chave
