@@ -19,12 +19,12 @@ printui-page-range-picker =
 printui-page-custom-range =
     .aria-label = Введите пользовательский диапазон страниц
 # Section title for the number of copies to print
-printui-copies-label = Копий
+printui-copies-label = Число копий
 printui-orientation = Ориентация
 printui-landscape = Альбомная
 printui-portrait = Книжная
 # Section title for the printer or destination device to target
-printui-destination-label = Получатель
+printui-destination-label = Устройство
 printui-more-settings = Все настройки
 printui-less-settings = Основные настройки
 # Section title (noun) for the print scaling options
@@ -34,7 +34,7 @@ printui-scale-fit-to-page = По размеру страницы
 printui-scale-pcent = Масштаб
 # Section title for miscellaneous print options
 printui-options = Настройки
-printui-headers-footers-checkbox = Колонтитулы печати
+printui-headers-footers-checkbox = Печатать колонтитулы
 printui-backgrounds-checkbox = Печатать фон
 printui-system-dialog-link = Печатать, используя системный диалог...
 printui-primary-button = Печать
