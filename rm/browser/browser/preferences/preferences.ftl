@@ -50,6 +50,11 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Experiments da { -brand-short-name }
+category-experimental =
+    .tooltiptext = Experiments da { -brand-short-name }
+pane-experimental-subtitle = Proceder cun precauziun
+pane-experimental-search-results-header = Experiments da { -brand-short-name }: Cuntinuar cun precauziun
 help-button-label = Agid da { -brand-short-name }
 addons-button-label = Extensiuns & designs
 focus-search =
@@ -499,7 +504,6 @@ home-prefs-topsites-description = Las paginas che ti visitas il pli savens
 
 home-prefs-recommended-by-header =
     .label = Recumandà da { $provider }
-home-prefs-recommended-by-description = Cuntegn interessant ord il web, persunalisà per tai
 home-prefs-recommended-by-description-update = Cuntegn excepziunal ord il web, tschernì da { $provider }
 
 ##
@@ -563,7 +567,6 @@ search-show-suggestions-above-history-option =
     .label = Mussar las propostas da tschertga avant la cronologia da navigaziun en ils resultats da la trav d'adressas
 search-show-suggestions-private-windows =
     .label = Mussar propostas da tschertga en fanestras privatas
-suggestions-addressbar-settings = Modifitgar las preferenzas per las propostas da la cronologia da navigaziun, dals segnapaginas e dals tabs
 suggestions-addressbar-settings-generic = Midar las preferenzas per avair autras propostas en la trav d'adressas
 search-suggestions-cant-show = Propostas da tschertgar na vegnan betg mussadas en la trav d'adressas perquai che ti has configurà { -brand-short-name } uschia che la cronologia na vegn betg memorisada.
 search-one-click-header = Maschinas da tschertgar cun-in-clic
@@ -799,10 +802,21 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Utilisar in pled-clav universal
     .accesskey = u
+forms-primary-pw-use =
+    .label = Utilisar in pled-clav universal
+    .accesskey = U
+forms-primary-pw-learn-more-link = Ulteriuras infurmaziuns
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Midar il pled-clav universal…
     .accesskey = d
 forms-master-pw-fips-title = Ti es actualmain en il modus FIPS. FIPS pretenda in pled-clav universal.
+forms-primary-pw-change =
+    .label = Midar il pled-clav universal…
+    .accesskey = p
+forms-primary-pw-fips-title = Ti es actualmain en il modus FIPS. FIPS pretenda in pled-clav universal (betg vid).
 forms-master-pw-fips-desc = I n'è betg reussì da midar il pled-clav
 
 ## OS Authentication dialog
@@ -814,6 +828,13 @@ master-password-os-auth-dialog-message-win = Per crear in pled-clav universal, e
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = crear in pled-clav universal
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Per crear in pled-clav universal, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crear in pled-clav universal
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -1161,6 +1182,18 @@ space-alert-under-5gb-ok-button =
     .label = OK, chapì
     .accesskey = K
 space-alert-under-5gb-message = La memoria da { -brand-short-name } è prest plaina. Il cuntegn da websites na vegn forsa betg pli visualisà correctamain. Clicca sin «Ulteriuras infurmaziuns» per optimar l'utilisaziun da la memoria e per meglierar la prestaziun durant navigar.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = Modus mo HTTPS
+httpsonly-description = HTTPS porscha ina connexiun segira, criptada tranter { -brand-short-name } e las websites che ti visitas. Las bleras websites sustegnan HTTPS e sch'il modus «mo HTTPS» è activà, connectescha { -brand-short-name } automaticamain cun HTTPS.
+httpsonly-learn-more = Ulteriuras infurmaziuns
+httpsonly-radio-enabled =
+    .label = Activar il modus mo HTTPS en tut las fanestras
+httpsonly-radio-enabled-pbm =
+    .label = Activar il modus mo HTTPS sulettamain en fanestras privatas
+httpsonly-radio-disabled =
+    .label = Betg activar il modus mo HTTPS
 
 ## The following strings are used in the Download section of settings
 

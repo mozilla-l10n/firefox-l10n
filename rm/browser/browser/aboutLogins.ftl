@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Infurmaziuns d'annunzia & pleds-clav
@@ -32,6 +27,7 @@ menu =
     .title = Avrir il menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar dad in auter navigatur…
+about-logins-menu-menuitem-import-from-a-file = Importar dad ina datoteca…
 about-logins-menu-menuitem-export-logins = Exportar infurmaziuns d'annunzia…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -72,12 +68,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Tschertgas ti tias infurmaziuns d'annunzia memorisadas? Configurescha { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Tschertgas ti tias infurmaziuns d'annunzia memorisadas? Configurescha { -sync-brand-short-name } u las importescha.
 about-logins-login-intro-heading-logged-in = Chattà naginas infurmaziuns d'annunzia sincronisadas.
 login-intro-description = Sche ti has memorisà tias infurmaziuns d'annunzia en { -brand-product-name } sin in auter apparat, vegns ti a savair qua co acceder ad ellas:
 login-intro-instruction-fxa = Acceda al u creescha in { -fxaccount-brand-name } cun l'apparat nua che las infurmaziuns d'annunzia èn memorisadas
 login-intro-instruction-fxa-settings = Controllescha che la chaschetta da controlla «Infurmaziuns d'annunzia» saja activada en las preferenzas da { -sync-brand-short-name }
 about-logins-intro-instruction-help = Per agid, visitar <a data-l10n-name="help-link">il support da { -lockwise-brand-short-name }</a>
 about-logins-intro-import = En cas che las infurmaziuns d'annunzia èn memorisadas en in auter navigatur èsi pussaivel da las <a data-l10n-name="import-link">importar en { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Sche tias infurmaziuns d'annunzia èn memorisadas ordaifer { -brand-product-name }, pos ti <a data-l10n-name="import-browser-link">las importar dad in auter navigatur</a> u <a data-l10n-name="import-file-link">dad ina datoteca</a>
 
 ## Login
 
@@ -136,6 +134,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportar las infurm
 ## Master Password notification
 
 master-password-notification-message = Per plaschair endatar tes pled-clav universal per vesair las infurmaziuns d'annunzia memorisadas & ils pleds-clav
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Per plaschair endatar tes pled-clav universal per vesair las infurmaziuns d'annunzia memorisadas & ils pleds-clav
 master-password-reload-button =
     .label = Annunzia
     .accesskey = A
@@ -213,6 +215,19 @@ about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Document CSV
+       *[other] Datoteca CSV
+    }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importar ina datoteca cun infurmaziuns d'annunzia
+about-logins-import-file-picker-import-button = Importar
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Document CSV
        *[other] Datoteca CSV

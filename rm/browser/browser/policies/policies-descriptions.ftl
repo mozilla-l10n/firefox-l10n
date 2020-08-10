@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Impedir che { -brand-short-name } exequeschia stu
 policy-DisableForgetButton = Impedir l'access al buttun «Emblidar».
 policy-DisableFormHistory = Betg memorisar las endataziuns en champs da tschertgar ed en formulars.
 policy-DisableMasterPasswordCreation = Sche activà èsi impussibel da crear in pled-clav universal.
+policy-DisablePrimaryPasswordCreation = Sche activà, èsi impussibel da crear in pled-clav universal.
 policy-DisablePasswordReveal = Betg permetter da mussar pleds-clav en las infurmaziuns d'annunzia memorisadas.
 policy-DisablePocket = Deactivar la funcziun da memorisar paginas d'internet en Pocket.
 policy-DisablePrivateBrowsing = Deactivar il modus privat.
@@ -79,6 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revegnir al cumportame
 
 policy-LocalFileLinks = Permetter a websites specificas dad utilisar colliaziuns a datotecas localas.
 policy-MasterPassword = Pretender u impedir l'utilisaziun dad in pled-clav universal.
+policy-PrimaryPassword = Pretender u impedir l'utilisaziun dad in pled-clav universal.
 policy-NetworkPrediction = Activar u deactivar «network prediction» (prelectura DNS).
 policy-NewTabPage = Activar u deactivar la pagina «Nov tab».
 policy-NoDefaultBookmarks = Deactivar la creaziun dals segnapaginas predefinids da { -brand-short-name } ed ils segnapaginas intelligents (Visità il pli savens, Chavazzins utilisads dacurt). Remartga: questa directiva ha mo effect sch'ella vegn utilisada avant ch'il profil vegn avert l'emprima giada.
