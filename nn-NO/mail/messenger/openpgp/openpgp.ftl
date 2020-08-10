@@ -33,7 +33,7 @@ openpgp-generate-key =
     .tooltiptext = Genererer ein ny OpenPGP-kompatibel nøkkel for kryptering og/eller signering
 openpgp-advanced-prefs-button-label =
     .label = Avansert…
-openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">Merk: Nøkkelgenerering kan ta opptil fleire minutt å fullføre.</a> Ikkje avslutt applikasjonen mendan nøkkelgenereringa er i gang. Dersom du aktivt surfar eller utfører diskintensive operasjonar under ei nøkkelgenerering, vil det fylle opp «randomness pool»-en og gjere prosessen raskare. Du vert varsla når nøkkelgenereringa er fullført.
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">Merk: Nøkkelgenerering kan ta opptil fleire minutt å fullføre.</a> Ikkje avslutt applikasjonen medan nøkkelgenereringa er i gang. Dersom du aktivt surfar eller utfører diskintensive operasjonar under ei nøkkelgenerering, vil det fylle opp «randomness pool»-en og gjere prosessen raskare. Du vert varsla når nøkkelgenereringa er fullført.
 openpgp-key-expiry-label =
     .label = Går ut
 openpgp-key-id-label =
@@ -510,7 +510,7 @@ do-import-multiple =
 do-import-one = Importere { $name } ({ $id })?
 cant-import = Feil ved import av offentleg nøkkel
 unverified-reply = Innrykket meldingsdel (svar) vart truleg endra
-key-in-message-body = Ein nøkkelvart funnen i meldinga. Klikk «Importer nøkkel» for å importere nøkkelen
+key-in-message-body = Ein nøkkel vart funnen i meldinga. Klikk «Importer nøkkel» for å importere nøkkelen
 sig-mismatch = Feil - signaturen samsvarar ikkje
 invalid-email = Feil - ugyldige e-postadresser
 dlg-button-view = &Vis
