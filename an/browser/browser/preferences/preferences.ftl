@@ -954,7 +954,9 @@ addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en m
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueyo de conteniu
+content-blocking-section-description = Proteche la tuya privacidat mientres navegas. Bloca lo conteniu invisible que fa seguimiento d'os puestos que vesitas y debuixa lo tuyo perfil. Blocar parte d'este conteniu puede fer que las pachinas se carguen mas aprisa.
 content-blocking-enhanced-tracking-protection = Protección reforzada contra seguimiento
+content-blocking-section-top-level-description = Los elementos de seguimiento te siguen en linia pa replegar información sobre los tuyos habitos de navegación y intereses. { -brand-short-name } bloca muitos d'estes elementos de seguimiento y atros programas maliciosos.
 content-blocking-learn-more = Saber-ne mas
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
