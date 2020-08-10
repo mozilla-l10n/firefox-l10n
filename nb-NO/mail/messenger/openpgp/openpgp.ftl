@@ -364,7 +364,7 @@ copy-to-clipbrd-ok = Nøkler kopierte til utklippstavlen
 delete-secret-key =
     ADVARSEL: Du er i ferd med å slette en hemmelig nøkkel!
     
-    Hvis du sletter din hemmelige nøkkel, vil du ikke lenger kunne dekryptere noen meldinger som er kryptert for den nøkkelen, og du vil heller ikke kunne tilbakekalle den.
+    Hvis du sletter den hemmelige nøkkel din, vil du ikke lenger kunne dekryptere noen meldinger som er kryptert for den nøkkelen, og du vil heller ikke kunne tilbakekalle den.
     
     Vil du virkelig slette BÅDE, den hemmelige nøkkelen og den offentlige nøkkelen
     «{ $userId }»?
