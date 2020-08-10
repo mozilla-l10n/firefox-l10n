@@ -283,7 +283,7 @@
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Xuất bản Lịch…">
 <!ENTITY calendar.context.publish.accesskey            "b">
-<!ENTITY calendar.context.export.label                 "Xuất Lịch…">
+<!ENTITY calendar.context.export.label                 "Xuất lịch…">
 <!ENTITY calendar.context.export.accesskey             "X">
 <!ENTITY calendar.context.properties.label             "Thuộc tính">
 <!ENTITY calendar.context.properties.accesskey         "T">
