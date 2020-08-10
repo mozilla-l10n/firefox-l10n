@@ -60,10 +60,12 @@ experimental-features-web-api-beforeinput-description = A globális <a data-l10n
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = A <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> interfész konstruktorának hozzáadása, valamint a kapcsolódó módosítások lehetővé teszik az új stíluslapok létrehozását, anélkül hogy hozzá kellene tennie a lapot HTML-hez. Ez sokkal könnyebbé teszi az újrahasznosítható stíluslapok készítését a <a data-l10n-name="mdn-shadowdom">Shadow DOM-mal</a> történő használathoz. További részletekért lásd az <a data-l10n-name="bugzilla">1520690-es számú jegyet</a>
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
     .label = Web API: Media Session API
+experimental-features-media-session-api-description = Jelenleg a Media Session API teljes implementációja kísérleti a { -brand-short-name }ban. Ezzel az API-val testreszabható a médiával kapcsolatos értesítések kezelése, kezelhetők az események és adatok, melyek hasznosak a lejátszáskezelő felhasználói felületek létrehozásához, és megszerezhetők vele a médiafájlok metaadatai. További részletékért lásd a <a data-l10n-name="bugzilla">1112032-es számú jegyet</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Fejlesztői eszközök: Színséma szimuláció
 experimental-features-devtools-execution-context-selector =
