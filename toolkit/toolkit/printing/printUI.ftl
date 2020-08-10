@@ -24,7 +24,7 @@ printui-orientation = Ориентация
 printui-landscape = Альбомная
 printui-portrait = Книжная
 # Section title for the printer or destination device to target
-printui-destination-label = Устройство
+printui-destination-label = Получатель
 printui-more-settings = Все настройки
 printui-less-settings = Основные настройки
 # Section title (noun) for the print scaling options
@@ -36,6 +36,6 @@ printui-scale-pcent = Масштаб
 printui-options = Настройки
 printui-headers-footers-checkbox = Печатать колонтитулы
 printui-backgrounds-checkbox = Печатать фон
-printui-system-dialog-link = Печатать, используя системный диалог...
+printui-system-dialog-link = Печатать, используя системный диалог…
 printui-primary-button = Печать
 printui-cancel-button = Отмена
