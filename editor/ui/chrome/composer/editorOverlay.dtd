@@ -311,7 +311,6 @@
 <!ENTITY TextColorButton.tooltip "Изберете цвят на текста">
 <!ENTITY BackgroundColorButton.tooltip "Изберете цвят за фона">
 <!ENTITY throbber.tooltip "Към началната страница на &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Към страницата на &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Изберете цвят на откроения текст">
 
 <!-- Editor toolbar -->
@@ -323,17 +322,26 @@
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Увеличаване размера на текста">
 <!ENTITY bold.label "Получер">
 <!ENTITY boldToolbarCmd.tooltip "Удебелен">
+<!ENTITY italic.label "Курсив">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
+<!ENTITY underline.label "Подчертан">
 <!ENTITY underlineToolbarCmd.tooltip "Подчертан">
 <!ENTITY bulletListToolbarCmd.tooltip "Прилагане или премахване на неподреден списък">
 <!ENTITY numberListToolbarCmd.tooltip "Прилагане или премахване на номериран списък">
+<!ENTITY outdent.label "Без отстъп">
 <!ENTITY outdentToolbarCmd.tooltip "Намаляване отстъпа (преместване вляво)">
+<!ENTITY indent.label "Отстъп">
 <!ENTITY indentToolbarCmd.tooltip "Отстъп в началото на текста (надясно)">
+<!ENTITY AlignPopupButton.label "Подравняване">
 <!ENTITY AlignPopupButton.tooltip "Изберете подравняване на текста">
+<!ENTITY InsertPopupButton.label "Вмъкване">
 <!ENTITY InsertPopupButton.tooltip "Вмъкване на връзка, котва, изображение, хоризонтална линия или таблица">
+<!ENTITY alignLeftButton.label "Ляво подравняване">
 <!ENTITY alignLeftButton.tooltip "Подравняване на текста към лявата граница">
+<!ENTITY alignCenterButton.label "Центрирано">
 <!ENTITY alignCenterButton.tooltip "Подравняване в средата">
 <!ENTITY alignRightButton.tooltip "Подравняване на текста към дясната граница">
+<!ENTITY alignJustifyButton.label "Двустранно подравняване">
 <!ENTITY alignJustifyButton.tooltip "Подравняване на текста към лявата и дясната граница">
 
 <!-- Structure Toolbar Context Menu items -->
