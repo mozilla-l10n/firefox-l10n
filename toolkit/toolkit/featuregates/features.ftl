@@ -36,7 +36,7 @@ experimental-features-media-avif-description = Wenn diese Funktion aktiviert ist
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
-experimental-features-web-api-inputmode-description = Unsere Implementierung des globalen Attributs <a data-l10n-name="mdn-inputmode">inputmode</a> wurde nach <a data-l10n-name="Whatwg">der WHATWG-Spezifikation</a> aktualisiert, aber wir müssen noch weitere Änderungen vornehmen, wie z.B. die Bereitstellung auf "contenteditable"-Inhalte. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1205133</a>.
+experimental-features-web-api-inputmode-description = Unsere Implementierung des globalen Attributs <a data-l10n-name="mdn-inputmode">inputmode</a> wurde nach <a data-l10n-name="whatwg">der WHATWG-Spezifikation</a> aktualisiert, aber wir müssen noch weitere Änderungen vornehmen, wie z.B. die Bereitstellung auf "contenteditable"-Inhalte. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
@@ -60,7 +60,7 @@ experimental-features-web-api-beforeinput-description = Das globale <a data-l10n
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
-experimental-features-css-constructable-stylesheets-description = Durch die Hinzufügung eines Konstruktors zur <a data-l10n-name="mdn-cssylesheet">CSSStyleSheet</a>-Schnittstelle sowie einer Vielzahl damit zusammenhängender Änderungen können direkt neue Stylesheets erstellt werden, ohne dass das Sheet dem HTML hinzugefügt werden muss. Das macht es viel einfacher, wiederverwendbare Stylesheets für den Einsatz mit <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> zu erstellen. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1520690</a>.
+experimental-features-css-constructable-stylesheets-description = Durch die Hinzufügung eines Konstruktors zur <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-Schnittstelle sowie einer Vielzahl damit zusammenhängender Änderungen können direkt neue Stylesheets erstellt werden, ohne dass das Sheet dem HTML hinzugefügt werden muss. Das macht es viel einfacher, wiederverwendbare Stylesheets für den Einsatz mit <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> zu erstellen. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1520690</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
