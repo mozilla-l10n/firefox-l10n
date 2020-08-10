@@ -28,7 +28,7 @@ printui-more-settings = Mehr Einstellungen
 printui-less-settings = Weniger Einstellungen
 # Section title (noun) for the print scaling options
 printui-scale = Skalierung
-printui-scale-fit-to-page = Auf Seite anpassen
+printui-scale-fit-to-page = An Seite anpassen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalierung
 # Section title for miscellaneous print options
