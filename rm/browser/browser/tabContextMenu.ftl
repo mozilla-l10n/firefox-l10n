@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Serrar plirs tabs
     .accesskey = r
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -78,4 +82,20 @@ move-tabs =
     .accesskey = p
 move-tab =
     .label = Spustar il tab
+    .accesskey = p
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Serrar il tab
+            [one] Serrar il tab
+           *[other] Serrar ils tabs
+        }
+    .accesskey = S
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Spustar il tab
+            [one] Spustar il tab
+           *[other] Spustar ils tabs
+        }
     .accesskey = p

@@ -17,7 +17,10 @@ extensions-name = Num
 extensions-enabled = Activà
 extensions-version = Versiun
 extensions-id = ID
+support-addons-title = Supplements
 support-addons-name = Num
+support-addons-type = Tip
+support-addons-enabled = Activà
 support-addons-version = Versiun
 support-addons-id = ID
 security-software-title = Software da segirezza
@@ -77,6 +80,9 @@ show-dir-label =
         [windows] Avrir l'ordinatur
        *[other] Avrir l'ordinatur
     }
+experimental-features-title = Funcziuns experimentalas
+experimental-features-name = Num
+experimental-features-value = Valur
 modified-key-prefs-title = Impurtantas preferenzas modifitgadas
 modified-prefs-name = Num
 modified-prefs-value = Valur
@@ -268,6 +274,9 @@ blocklisted-bug = Sin la glista naira pervia da problems enconuschents
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Bloccà pervia da sbagls enconuschents: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Sin la glista naira; numer da sbagl { $failureCode }
