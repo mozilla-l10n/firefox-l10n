@@ -90,6 +90,7 @@ openpgp-import-key-list-amount =
         [one] A Thunderbird egy kulcsot talált, amely importálható.
        *[other] A Thunderbird { $count } kulcsot talált, amely importálható.
     }
+openpgp-import-key-list-description = Erősítse meg, hogy mely kulcsok kezelhetők személyes kulcsaiként. Csak azokat a kulcsokat használja személyes kulcsként, amelyeket saját maga készített, és az Ön személyazonosságát mutatják. Ezt a beállítást később is megváltoztathatja a Kulcstulajdonságok párbeszédablakon.
 openpgp-passphrase-prompt-title = Jelmondat szükséges
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Írja be a jelmondatot a következő kulcs feloldásához: { $key }
