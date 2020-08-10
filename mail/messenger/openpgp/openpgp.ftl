@@ -206,6 +206,9 @@ openpgp-acceptance-unverified-label =
     .label = Ja, men eg har ikkje stadfestat at det er rett nøkkel.
 openpgp-acceptance-verified-label =
     .label = Ja, eg har stadfesta at denne nøkkelen har rett fingeravtrykk.
+key-accept-personal =
+    For denne nøkkelen har du både den offentlege og den hemmelege delen. Du kan bruke han som ein personlig nøkkel.
+    Dersom denne nøkkelen vart gitt til deg av nokon andre, ikkje bruk han som ein personleg nøkkel.
 key-personal-warning = Har du laga denne nøkkelen sjølv, og det viste nøkkeleigarskapet refererer til deg sjølv?
 openpgp-personal-no-label =
     .label = Nei, ikkje bruk han som den personlege nøkkelen min.
@@ -303,6 +306,9 @@ keyserver-error-unsupported = Nøkkelserveren er ikkje støtta.
 wkd-message-body-req =
     E-postleverandøren din behandla førespurnaden din om å laste opp den offentlege nøkkelen til OpenPGP Web Key Directory.
     Stadfest for å fullføre publiseringa av den offentlige nøkkelen din.
+wkd-message-body-process =
+    Dette er ei e-postmelding relatert til automatisk prosessering for å laste opp den offentlige nøkkelen din til OpenPGP Web Key Directory.
+    Ingen manuelle tiltak er nødvendige no
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Klarte ikkje å dekryptere meldinga med emnet
@@ -311,6 +317,20 @@ converter-decrypt-body-failed =
 # Strings in gpg.jsm
 unknown-signing-alg = Ukjend signeringsalgoritme (ID: { $id })
 unknown-hash-alg = Ukjend kryptografisk hash (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Nøkkelen din { $desc } går ut om mindre enn { $days } dagar.
+    Vi tilrår at du lagar eit nytt nøkkelpar og konfigurerer dei tilsvarande kontoane for å bruke det.
+expiry-keys-expire-soon =
+    Følgjande nøklar går ut om mindre enn { $days } dagar:{ $desc }.
+    Vi tilrår at du lagar nye nøklar og konfigurerer dei tilsvarande kontoane for å bruke dei.
+expiry-key-missing-owner-trust =
+    Den hemmelege nøkkelen din { $desc } manglar tiltru.
+    Vi tilrår at du stiller inn «Du stolar på sertifiseringar» til «ultimat», i nøkkeleigenskapar.
+expiry-keys-missing-owner-trust =
+    Følgjande av dei hemmelege nøklane dine manglar tiltru.
+    { $desc }.
+    Vi tilrår at du stiller inn «Du stolar på sertifiseringar» til «ultimat», i nøkkeleigenskapar.
 expiry-open-key-manager = Opne OpenPGP-nøkkelhandterar
 expiry-open-key-properties = Opne nøkkeleigenskapar
 # Strings filters.jsm
@@ -472,6 +492,7 @@ do-import-multiple =
     { $key }
 do-import-one = Importere { $name } ({ $id })?
 cant-import = Feil ved import av offentleg nøkkel
+unverified-reply = Innrykket meldingsdel (svar) vart truleg endra
 sig-mismatch = Feil - signaturen samsvarar ikkje
 invalid-email = Feil - ugyldige e-postadresser
 dlg-button-view = &Vis
