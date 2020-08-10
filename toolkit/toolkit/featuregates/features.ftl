@@ -88,6 +88,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Mae cw
 experimental-features-abouthome-startup-cache =
     .label = about:home storfa cychwyn
 experimental-features-abouthome-startup-cache-description = Storfa ar gyfer y ddogfen gychwynnol about:home sy'n cael ei llwytho yn ragosodedig wrth gychwyn. Pwrpas y storfa yw gwella perfformiad cychwyn.
+experimental-features-print-preview-tab-modal =
+    .label = Ailgynllunio'r Rhagolwg Argraffu
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
