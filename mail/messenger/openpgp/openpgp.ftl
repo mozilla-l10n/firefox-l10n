@@ -383,6 +383,8 @@ keyring-photo = Foto
 user-att-photo = Brukarattribut (JPEG-bilde)
 # Strings in key.jsm
 already-revoked = Denne nøkkelen er allereie trekt tilbake.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Nøkkelen 0x{ $keyId } er allereie trekt tilbake.
 key-man-button-revoke-key = &Tilbakekall nøkkel
 openpgp-key-revoke-success = Nøkkelen er tilbakekalla.
 # Strings in keyRing.jsm & decryption.jsm
@@ -393,6 +395,9 @@ delete-external-key-description = Vil du fjerne denne eksterne GnuPG nøkkel-ID-
 key-in-use-title = OpenPGP-nøkkelen er for tida i bruk
 delete-key-in-use-description = Kan ikkje fortsetje! Nøkkelen du valde for sletting, vert for tida brukt av denne identiteten. Vel ein annan nøkkel, eller vel ingen, og prøv igjen.
 revoke-key-in-use-description = Kan ikkje fortsetje! Nøkkelen du valde for tilbakekalling, vert for tida brukt av denne identiteten. Vel ein annan nøkkel, eller vel ingen, og prøv igjen.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = E-postadressa «{ $keySpec }» kan ikkje matchast med ein nøkkel på nøkkelringen.
+key-error-key-id-not-found = Klarte ikkje å finne den konfigurerte nøkkel-ID-en «{ $keySpec }» på nøkkelringen.
 # Strings used in trust.jsm
 key-valid-unknown = ukjend
 key-valid-invalid = ugyldig
