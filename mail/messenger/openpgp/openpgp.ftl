@@ -413,6 +413,11 @@ key-ring-key-not-trusted = К ключу { $userId } (идентификатор
 key-ring-no-secret-key = У вас, судя по всему, нет секретного ключа для { $userId } (идентификатор ключа { $keyId }) в вашем наборе ключей; вы не сможете использовать ключ для подписи.
 key-ring-pub-key-not-for-signing = Ключ { $userId } (идентификатор ключа { $keyId }) нельзя использовать для подписи.
 key-ring-pub-key-not-for-encryption = Ключ { $userId } (идентификатор ключа { $keyId }) нельзя использовать для шифрования.
+key-ring-sign-sub-keys-revoked = Все подчинённые ключи для подписания ключа { $userId } (идентификатор ключа { $keyId }) отозваны.
+key-ring-sign-sub-keys-expired = Срок действия всех подчинённых ключей для подписания ключа { $userId } (идентификатор ключа { $keyId }) истёк.
+key-ring-sign-sub-keys-unusable = Все подчинённые ключи для подписания ключа { $userId } (идентификатор ключа { $keyId }) отозваны, просрочены или непригодны для использования по иным причинам.
+key-ring-enc-sub-keys-revoked = Все подчинённые ключи для шифрования ключа { $userId } (идентификатор ключа { $keyId }) отозваны.
+key-ring-enc-sub-keys-expired = Срок действия всех подчинённых ключей для шифрования ключа { $userId } (идентификатор ключа { $keyId }) истёк.
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     У вас нет ключа (0x{ $keyId }), который соответствует этому сертификату отзыва!!
