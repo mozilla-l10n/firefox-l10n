@@ -396,6 +396,7 @@ ascii-armor-file = Fichiers blindés ASCII (*.asc)
 no-key-selected = Vous devez sélectionner au moins une clé pour effectuer l’opération sélectionnée
 export-to-file = Exporter la clé publique vers un fichier
 export-keypair-to-file = Exporter la clé secrète et la clé publique vers un fichier
+export-secret-key = Voulez-vous inclure la clé secrète dans le fichier de clé OpenPGP enregistré ?
 save-keys-ok = Les clés ont été correctement enregistrées
 save-keys-failed = Échec de l’enregistrement des clés
 default-pub-key-filename = Clés-publiques-exportées
@@ -471,8 +472,9 @@ fail-key-extract = Erreur – échec de la commande d’extraction de clé
 fail-cancel = Erreur — réception de clé annulée par l’utilisateur
 not-first-block = Erreur — le premier bloc OpenPGP n’est pas un bloc de clé publique
 import-key-confirm = Importer la ou les clés publiques incluses dans le message ?
-fail-key-import = Erreur — échec de l’importation de la clé
+fail-key-import = Erreur — échec de l’importation de la clé
 file-write-failed = Échec de l’écriture dans le fichier { $output }
+no-pgp-block = Erreur — aucun bloc de données OpenPGP blindé valide n’a été trouvé
 confirm-permissive-import = Échec de l’importation. La clé que vous essayez d’importer est peut-être corrompue ou utilise des attributs inconnus. Souhaitez-vous essayer d’importer les parties correctes ? Cela peut entraîner l’importation de clés incomplètes et inutilisables.
 # Strings used in trust.jsm
 key-valid-unknown = inconnue
@@ -505,6 +507,8 @@ key-man-button-generate-key = &Générer une clé
 key-abort = Annuler la génération de la clé ?
 key-man-button-generate-key-abort = &Annuler la génération de clé
 key-man-button-generate-key-continue = &Poursuivre la génération de clé
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Erreur — échec du déchiffrement
 fix-broken-exchange-msg-failed = Impossible de réparer le message.
 attachment-no-match-from-signature = Impossible de faire correspondre le fichier de signature « { $attachment } » à une pièce jointe
 attachment-no-match-to-signature = Impossible de faire correspondre la pièce jointe « { $attachment } » à un fichier de signature
@@ -530,6 +534,7 @@ msg-compose-partially-encrypted-inlinePGP =
     Le courriel auquel vous répondez comprend à la fois des parties chiffrées et non chiffrées. Si l’expéditeur n’a pas réussi à déchiffrer initialement les parties cachées du courriel, vous divulguerez peut-être des renseignements confidentiels que l’expéditeur n’a pas réussi à déchiffrer.
     Veuillez envisager d’effacer tout texte cité de votre réponse à cet expéditeur.
 msg-compose-cannot-save-draft = Erreur lors de l’enregistrement du brouillon
+msg-compose-partially-encrypted-short = Faites attention à ne pas divulguer des renseignements sensibles ; le courriel est chiffré partiellement.
 quoted-printable-warn =
     Vous avez activé l’encodage « citation imprimable » pour l’envoi de courriels. Cela peut entraîner un déchiffrement ou une vérification incorrects de votre courriel.
     Souhaitez-vous désactiver maintenant l’envoi de courriels avec cette option ?
@@ -557,12 +562,16 @@ do-import-one = Importer { $name } ({ $id }) ?
 cant-import = Erreur lors de l’importation de la clé publique
 unverified-reply = La partie du message en retrait (la réponse) a probablement été modifiée
 key-in-message-body = Une clé a été détectée dans le corps du message. Cliquez sur « Importer la clé » pour l’importer
+sig-mismatch = Erreur — la signature ne correspond pas
+invalid-email = Erreur — une ou plusieurs adresses électroniques ne sont pas valides
 attachment-pgp-key =
     La pièce jointe « { $name } » que vous essayez d’ouvrir semble être un fichier de clé OpenPGP.
     Cliquez sur « Importer » pour importer les clés contenues ou sur « Afficher » pour afficher le contenu du fichier dans une fenêtre de navigateur.
 dlg-button-view = &Afficher
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Courriel déchiffré (restauration d’un format de courriel PGP défectueux probablement causé par un ancien serveur Exchange ; le résultat pourrait ne pas être complètement lisible)
+# Strings used in encryption.jsm
+not-required = Erreur — aucun chiffrement nécessaire
 # Strings used in windows.jsm
 no-photo-available = Aucune photo disponible
 error-photo-path-not-readable = L’emplacement « { $photo } » de la photo ne peut pas être lu
