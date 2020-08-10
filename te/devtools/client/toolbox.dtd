@@ -82,19 +82,19 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "JavaScript * అచేతనంచేయి">
-<!ENTITY options.disableJavaScript.tooltip   "ఈ ఎంపిక ఆన్ చేయుట వలన ఈ ప్రస్తుత ట్యాబ్ కొరకు జావాస్క్రిప్ట్ అచేతనంచేయబడును. ఒకవేళ ట్యాబ్ లేదా సాధనపెట్టె మూయబడితే అప్పుడు ఈ అమరిక మర్చిపోబడును.">
+<!ENTITY options.disableJavaScript.tooltip   "ఈ ఎంపికను చేతనం చేయడం వలన ప్రస్తుత ట్యాబులో జావాస్క్రిప్ట్ అచేతనమవుతుంది. ఈ ట్యాబుని లేక పనిముట్లపెట్టెను మూసివేసినపుడు ఈ అమరిక మర్చిపోబడుతుంది.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "HTTP కాష్‌ని అచేతనించు (టూల్‌బాక్స్ తెరిచివున్నప్పుడు)">
-<!ENTITY options.disableHTTPCache.tooltip   "ఈ ఎంపికను టర్నింగ్ టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP కాష్ ను ఆపివేస్తుంది. సేవా ఉద్యోగులు ఈ ఎంపిక ద్వారా ప్రభావితం కాదు.">
+<!ENTITY options.disableHTTPCache.tooltip   "ఈ ఎంపికను చేతనం చేయడం వలన పనిముట్లపెట్టె తెరిచివున్న ట్యాబులన్నిటిలోనూ HTTP క్యాషె అచేతనమవుతుంది. ఈ ఎంపిక సర్వీస్ వర్కర్లను ప్రభావితం చెయ్యదు.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 <!ENTITY options.enableServiceWorkersHTTP.label     "(టూల్‌బాక్స్ తెరిచివున్నప్పుడు) HTTPలో కూడా సర్వీస్ వర్కర్లను చేతనించు">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "ఈ ఎంపికను ఆన్ చేయడం వల్ల టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP పైగా సేవ కార్మికులు ఎనేబుల్ చేస్తుంది.">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "ఈ ఎంపికను చేతనం చేయడం వలన పనిముట్ల పెట్టె తెరిచివున్న ట్యాబులన్నిటిలోనూ HTTP ద్వారా సర్వీస్ వర్కర్లు చేతనమవుతాయి.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
