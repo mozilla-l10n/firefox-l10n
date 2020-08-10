@@ -523,6 +523,13 @@ msg-compose-partially-encrypted-inlinePGP =
     Meldinga du svarar på inneheld både ukrypterte og krypterte delar. Dersom avsendaren ikkje klarte å dekryptere nokre meldingsdelar frå byrjinga av, kan det hende du lek konfidensiell informasjon om at avsendaren ikkje var i stand til å kunne dekryptere sjølv.
     Vurder å fjerne all sitert tekst frå svaret til denne avsendaren.
 msg-compose-cannot-save-draft = Feil ved lagring av utkast
+quoted-printable-warn =
+    Du har slått på «quoted-printable»-koding for sending av meldingar. Dette kan føre til feil under dekryptering og/eller stadfesting av meldinga.
+    Ønskjer du å slå av sending av «quoted-printable»-meldingar no?
+minimal-line-wrapping =
+    Du har stilt inn linjeskift til{ $width } teikn. For rett kryptering og/eller signering, må denne verdien vere minst 68.
+    Ønskjer du å endre linjeskiftet til 68 tegn nå?
+sending-hidden-rcpt = Du kan ikkje bruke BCC-mottakarar (blindkopi) når du sender ei kryptert melding. For å sende denne krypterte meldinga, fjern anten BCC-mottakarane eller flytt dei til CC-feltet.
 save-attachment-header = Lagre dekryptert vedlegg
 no-temp-dir =
     Klarte ikkje å finne ein mellombels katalog å skrive til
