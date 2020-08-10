@@ -335,9 +335,15 @@ expiry-open-key-manager = Opne OpenPGP-nøkkelhandterar
 expiry-open-key-properties = Opne nøkkeleigenskapar
 # Strings filters.jsm
 filter-folder-required = Du må velje ei målmappe
+filter-decrypt-move-warn-experimental =
+    Åtvaring - filterhandlinga «Dekrypter permanent» kan føre til øydelagde meldingar.
+    Vi tilrår på det sterkaste at du først prøver filteret «Lag dekryptert kopi», testar resultatet nøye, og begynner først å bruke dette filteret når du er fornøgd med resultatet.
 filter-term-pgpencrypted-label = OpenPGP-kryptert
 filter-key-required = Du må velje ein mottakarnøkkel.
 filter-key-not-found = Kunne ikkje finne ein krypteringsnøkkel for «{ $desc }».
+filter-warn-key-not-secret =
+    Åtvaring - filterhandlinga «Krypter til nøkkel» erstatter mottakarane.
+    Dersom du ikkje har den hemmelege nøkkelen for «{ $desc }», vil du ikkje lenger kunne lese e-postane.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dekrypter permanent (OpenPGP)
 filter-decrypt-copy-label = Lag dekryptert kopi (OpenPGP)
@@ -355,6 +361,17 @@ import-from-clip = Vil du importere nokre nøklar fra utklippstavla?
 import-from-url = Last ned offentleg nøkkel frå denne nettadressa:
 copy-to-clipbrd-failed = Klarte ikkje å kopiere dei valde nøklane til utklippstavla.
 copy-to-clipbrd-ok = Nøklar kopierte til utklippstavla
+delete-secret-key =
+    ÅTVARING: Du er i ferd med å slette eIn hemmelg nøkkel!
+    
+    Dersom du slettar den hemmelege nøkkelen din, vil du ikkje lenger kunne dekryptere meldingar som er krypterte for den nøkkelen, og du vil heller ikkje kunne kalle han tilbake.
+    
+    Vil du verkeleg slette BÅDE, den hemmelege nøkkelen og den offentlige nøkkelen
+    «{ $userId }»?
+delete-mix =
+    ÅTVARING: Du er i ferd med å slette hemmelEge nøklAr!
+    Dersom du slettar den hemmelege nøkkelen din, vil du ikkje lenger kunne dekryptere meldingar som er krypterte for den nøkkelen.
+    Vil du verkeleg slette BÅDE, dei valde hemmelege og offentlege nøklane?
 delete-pub-key =
     Vil du slette den offentlege nøkkelen
     «{ $userId }»?
@@ -493,6 +510,7 @@ do-import-multiple =
 do-import-one = Importere { $name } ({ $id })?
 cant-import = Feil ved import av offentleg nøkkel
 unverified-reply = Innrykket meldingsdel (svar) vart truleg endra
+key-in-message-body = Ein nøkkelvart funnen i meldinga. Klikk «Importer nøkkel» for å importere nøkkelen
 sig-mismatch = Feil - signaturen samsvarar ikkje
 invalid-email = Feil - ugyldige e-postadresser
 dlg-button-view = &Vis
