@@ -485,8 +485,10 @@ passphrase-prompt = Skriv inn passordfrasa som låser opp følgjande nøkkel: { 
 file-to-big-to-import = Denne fila er for stor. Ikkje importer eit stort sett med nøklar på ein gong.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Lag og lagre tilbakekallingssertifikat
+revoke-cert-ok = Tilbakekallingssertifikatet er laga. Du kan bruke det til å gjere den offentlige nøkkelen ugyldig, t.d. i tilfelle du mistar den hemmelege nøkkelen.
 revoke-cert-failed = Klarte ikkje å lage tilbakekallingssertifikatet.
 gen-going = Nøkkelgenerering er allereie i gang!
+keygen-missing-user-name = Det er ikkje spesifisert noko namn for den valde kontoen/identiteten. Skriv inn ein verdi i feltet «Namnet ditt» i kontoinnstillingane.
 expiry-too-short = Nøkkelen din må vere gyldig i minst ein dag.
 expiry-too-long = Du kan ikkje lage ein nøkkel som går ut seinare enn 100 år.
 key-confirm = Generere ein offentlig og hemmeleg nøkkel for «{ $id }»?
@@ -499,6 +501,8 @@ failed-decrypt = Feil - mislykka dekryptering
 fix-broken-exchange-msg-failed = Klarte ikkje å reparere meldinga.
 attachment-no-match-from-signature = Klarte ikkje å samsvare signaturfilen «{ $attachment }» til eit vedlegg
 attachment-no-match-to-signature = Klarte ikkje å samsvare vedlegg «{ $attachment }» til ei signaturfil
+signature-verified-ok = Signaturen for vedlegget { $attachment } vart stadfesta
+signature-verify-failed = Klarte ikkje å stadfeste signaturen for vedlegget { $attachment }
 decrypt-ok-no-sig =
     Åtvaring
     Dekryptering var vellykka, men klarte ikkje å stadfeste signaturen rett
