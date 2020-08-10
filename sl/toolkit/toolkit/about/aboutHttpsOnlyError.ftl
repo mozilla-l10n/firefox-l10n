@@ -15,5 +15,6 @@ about-httpsonly-title = { -brand-short-name } je odkril morebitno varnostno tež
 about-httpsonly-explanation-unavailable = Brskate v načinu "samo HTTPS" in varna različica HTTPS strani <em>{ $websiteUrl }</em> ni na voljo.
 about-httpsonly-explanation-question = Kaj bi lahko povzročilo to?
 about-httpsonly-explanation-nosupport = Najverjetneje spletno mesto ne podpira HTTPS.
+about-httpsonly-explanation-risk = Možno je tudi, da je vpleten napadalec. Če se odločite za obisk spletnega mesta, ne vnašajte nobenih občutljivih podatkov, kot so gesla, e-poštni naslovi ali podrobnosti kreditnih kartic.
 about-httpsonly-button-accept-and-continue = Sprejmi tveganje in nadaljuj
 about-httpsonly-button-go-back = Nazaj

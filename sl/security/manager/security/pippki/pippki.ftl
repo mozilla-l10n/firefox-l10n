@@ -8,6 +8,8 @@ password-quality-meter = Merilnik kakovosti gesla
 
 change-password-window =
     .title = Spreminjanje glavnega gesla
+change-device-password-window =
+    .title = Spremeni geslo
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Varnostna naprava: { $tokenName }
@@ -23,6 +25,7 @@ reset-password-window =
 pippki-failed-pw-change = Gesla ni bilo mogoče spremeniti.
 pippki-incorrect-pw = Vneseno geslo je napačno. Poskusite znova.
 pippki-pw-change-ok = Geslo je uspešno spremenjeno.
+pippki-pw-empty-warning = Vaša shranjena gesla in zasebni ključi ne bodo zaščiteni.
 pippki-pw-erased-ok = Zbrisali ste svoje geslo. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Pozor! Odločili ste se, da ne boste uporabljali gesla. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = Trenutno ste v načinu FIPS. FIPS zahteva geslo, ki ni prazno.
@@ -32,6 +35,7 @@ pippki-pw-change2empty-in-fips-mode = Trenutno ste v načinu FIPS. FIPS zahteva 
 reset-password-button-label =
     .label = Ponastavi
 reset-password-text = Če ponastavite glavno geslo, bodo vsi vaši osebni podatki pozabljeni (shranjena spletna in e-poštna gesla, podatki o obrazcih, osebna digitalna potrdila in zasebni ključi). Ste prepričani, da želite ponastaviti svoje glavno geslo?
+reset-primary-password-text = Če ponastavite glavno geslo, bodo vsi vaši osebni podatki pozabljeni (shranjena spletna in e-poštna gesla, osebna digitalna potrdila in zasebni ključi). Ste prepričani, da želite ponastaviti svoje glavno geslo?
 pippki-reset-password-confirmation-message = Vaše glavno geslo je bilo ponastavljeno.
 
 ## Downloading cert dialog

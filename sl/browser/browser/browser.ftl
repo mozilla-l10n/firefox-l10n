@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Tipkajte manj, najdite več: Iščite z iskalnikom { $engineName } iz vrstice z naslovom.
 urlbar-search-tips-redirect-2 = Začnite z iskanjem v naslovni vrstici ter spremljajte predloge iskalnika { $engineName } in zgodovine vašega brskanja.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Zaznamki
+urlbar-search-mode-tabs = Zavihki
+urlbar-search-mode-history = Zgodovina
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,20 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Nastavi kot privzeti iskalnik za zasebna okna
     .accesskey = z
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
 
 ## Bookmark Panel
 
@@ -294,6 +314,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Iskanje ali naslov strani
 urlbar-placeholder =
     .placeholder = Iskanje ali naslov strani
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Iščite z iskalnikom { $name } ali vnesite naslov
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Brskalnik je pod daljinskim upravljanjem
 urlbar-permissions-granted =
