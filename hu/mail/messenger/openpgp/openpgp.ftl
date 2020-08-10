@@ -418,10 +418,19 @@ file-to-big-to-import = A fájl túl nagy. Nem importáljon nagy kulcskészletek
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Visszavonási tanúsítvány létrehozása és mentése
 revoke-cert-ok = A visszavonási tanúsítvány sikeresen létrejött. Használhatja a nyilvános kulcs érvénytelenítéséhez, például abban az esetben, ha elveszíti a titkos kulcsát.
+revoke-cert-failed = A visszavonási tanúsítványt nem sikerült létrehozni.
+gen-going = A kulcselőállítás már folyamatban van.
+keygen-missing-user-name = A kiválasztott fiókhoz/személyazonossághoz nincs megadva név. Adjon meg egy értéket a fiókbeállítások  „Az Ön neve” mezőjében.
+expiry-too-short = A kulcsának legalább egy napig érvényesnek kell lennie.
+expiry-too-long = Nem hozhat létre olyan kulcsot, amely több mint 100 év múlva jár le.
+key-confirm = Előállítja a nyilvános és titkos kulcsot „{ $id }” számára?
 key-man-button-generate-key = Kulcs &előállítása
 key-abort = Megszakítja a kulcselőállítást?
+key-man-button-generate-key-abort = Kulcselőállítás &megszakítása
+key-man-button-generate-key-continue = Kulcselőállítás &folytatása
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Hiba – a visszafejtés sikertelen
+fix-broken-exchange-msg-failed = Az üzenet javítása nem sikerült.
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = Üzenet &küldése
 msg-compose-details-button-label = Részletek…
