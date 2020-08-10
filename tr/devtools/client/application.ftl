@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Hata ayıkla
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Başlat
     .title = Service worker'lar yalnızca çoklu e10s devre dışıysa başlatılabilir
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Denetle
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Başlat

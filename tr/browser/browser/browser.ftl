@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Arama yapın veya adres yazın
 urlbar-placeholder =
     .placeholder = Arama yapın veya adres yazın
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } ile arama yapın veya adres yazın
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Tarayıcı uzaktan kontrol ediliyor
 urlbar-permissions-granted =
