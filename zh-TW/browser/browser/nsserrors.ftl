@@ -2,24 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
+# This file gets parsed into a JS dictionary of all known error message ids in
+# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
+# refactoring them in some way, the script will need updating.
+
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = 連線到 { $hostname } 時發生錯誤。{ $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = 錯誤碼: { $error }
-
 psmerr-ssl-disabled = 無法安全連線，因為 SSL 通訊協定已停用。
 psmerr-ssl2-disabled = 無法安全連線，因為該網站使用舊版、不安全的 SSL 通訊協定。
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     您收到無效的憑證，請與伺服器管理員或郵件聯絡人聯絡，並提供下列資訊:
     
     您的憑證內含與其他憑證機構所簽發憑證相同的序號，請用不同的序號產生新的憑證。
-
 ssl-error-export-only-server = 無法安全通訊，節點不支援高等級加密。
 ssl-error-us-only-server = 無法安全通訊，不支援節點所要求的高等級加密。
 ssl-error-no-cypher-overlap = 無法安全地與對方通訊: 無雙方接受的加密演算法。
@@ -199,7 +201,7 @@ sec-internal-only = **專供內部使用的模組**
 sec-error-invalid-key = 金鑰不支援所請求的操作。
 sec-error-unknown-critical-extension = 憑證含未知的 Critical 擴充欄位。
 sec-error-old-crl = 新憑證廢止清冊不能比目前的清冊還晚。
-sec-error-no-email-cert = 未加密或簽章: 您尚未擁有 Email 憑證。
+sec-error-no-email-cert = 未加密或簽署: 您尚未擁有 Email 憑證。
 sec-error-no-recipient-certs-query = 未加密: 您尚未擁有每個收件人的憑證。
 sec-error-not-a-recipient = 無法解密: 您不是收件人或是找不到相符的憑證或私密金鑰。
 sec-error-pkcs7-keyalg-mismatch = 無法解密: 金鑰加密演算法和您的憑證不符。
