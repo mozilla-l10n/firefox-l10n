@@ -263,7 +263,7 @@ applications-type-column =
     .label = 콘텐츠 유형
     .accesskey = T
 applications-action-column =
-    .label = 실행
+    .label = 동작
     .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
