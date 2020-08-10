@@ -110,6 +110,7 @@ openpgp-import-keys-failed = <b>Erreur :</b> échec de l’importation des clé
 openpgp-import-identity-label = Identité
 openpgp-import-fingerprint-label = Empreinte
 openpgp-import-created-label = Date de création
+openpgp-import-bits-label = Bits
 openpgp-import-key-props =
     .label = Propriétés de la clé
     .accesskey = P
