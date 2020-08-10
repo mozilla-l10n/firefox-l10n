@@ -41,7 +41,6 @@ composition-addressing-header = Địa chỉ
 privacy-main-header = Riêng tư
 privacy-passwords-header = Mật khẩu
 privacy-junk-header = Thư rác
-privacy-data-collection-header = Thu thập và sử dụng dữ liệu
 collection-header = Thu thập và sử dụng dữ liệu { -brand-short-name }
 collection-description = Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện { -brand-short-name } cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.
 collection-privacy-notice = Chính sách riêng tư
@@ -96,14 +95,19 @@ addons-button = Tiện ích mở rộng & chủ đề
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Xác nhận danh tính của bạn để tạo mật khẩu chính.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Để tạo mật khẩu chính, hãy nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật của tài khoản của bạn.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = tạo một mật khẩu chính
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Để tạo mật khẩu chính, hãy nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật của tài khoản của bạn.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = tạo một mật khẩu chính
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Thay đổi mật khẩu chính…
     .accesskey = C
+primary-password-description = Mật khẩu chính bảo vệ tất cả mật khẩu của bạn, nhưng bạn phải nhập mật khẩu một lần mỗi phiên.
+primary-password-label =
+    .label = Sử dụng mật khẩu chính
+    .accesskey = U
+primary-password-button =
+    .label = Thay đổi mật khẩu chính…
+    .accesskey = C
+forms-primary-pw-fips-title = Bạn hiện đang ở chế độ FIPS. FIPS yêu cầu tính năng mật khẩu chính.
+forms-master-pw-fips-desc = Thay đổi mật khẩu không thành công
 junk-description = Đặt cài đặt thư rác mặc định của bạn. Cài đặt thư rác dành riêng cho tài khoản có thể được định cấu hình trong cài đặt tài khoản.
 junk-label =
     .label = Khi tôi đánh dấu thư là thư rác:
