@@ -269,6 +269,7 @@ openpgp-manager-button =
 openpgp-key-remove-external =
     .label = Eliminar ID de clave externa
     .accesskey = E
+key-external-label = C!ave GnuPG externa
 # Strings in keyDetailsDlg.xhtml
 key-type-public = clave pública
 key-type-primary = clave primaria
@@ -282,6 +283,7 @@ key-does-not-expire = La clave no expira
 key-expired-date = La clave expiró el { $keyExpiry }
 key-expired-simple = La clave ha expirado
 key-revoked-simple = La clave fue revocada
+key-do-you-accept = ¿Acepta está clave para verificar firmas digitales y para cortar mensajes?
 keyserver-error-unknown = Ocurrió un error desconocido
 expiry-open-key-manager = Abrir administrador de claves OpenPGP
 
