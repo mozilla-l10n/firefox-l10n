@@ -415,7 +415,7 @@ key-ring-sign-sub-keys-expired = Alle signerings-undernøklene til nøkkel { $us
 key-ring-sign-sub-keys-unusable = Alle signerings-undernøklene til nøkkel { $userId } (nøkkel-ID { $keyId }) er tilbakekalt, utgått eller på annen måte ubrukelig.
 key-ring-enc-sub-keys-revoked = Alle krypteringsundernøklene til nøkkel { $userId } (nøkkel-ID { $keyId }) er tilbakekalt.
 key-ring-enc-sub-keys-expired = Alle krypteringsundernøklene til nøkkel { $userId } (nøkkel-ID { $keyId }) er utløpt.
-key-ring-enc-sub-keys-unusable = Alle krypteringsundernøklene til nøkkel { $userId } (nøkkel-ID { $keyId }) er tilbakekalt, utgått eller på annen måte ubrukelig.
+key-ring-enc-sub-keys-unusable = Alle krypteringsundernøklene for nøkkelen { $userId } (nøkkel-ID { $keyId }) er tilbakekalt, utgått eller på annen måte ubrukelige.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Brukerattributt (JPEG-bilde)
