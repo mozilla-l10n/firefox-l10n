@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Za zmólkami pytaś
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Startowaś
     .title = Móžo jano service workers startowaś, jolic multiporcesowy e10s jo znjemóžnjony
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Pśepytowaś
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Start
