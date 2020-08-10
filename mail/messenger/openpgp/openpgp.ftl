@@ -336,6 +336,63 @@ expiry-keys-expire-soon =
             Les clés suivantes vont expirer dans moins de { $days } jours : { $desc }.
             Nous vous recommandons de créer de nouvelles paires de clés et de configurer les comptes associés pour les utiliser.
     }
+expiry-key-missing-owner-trust =
+    Votre clé privée { $desc } ne possède pas de déclaration de confiance.
+    Nous vous recommandons de définir « Vous comptez sur des certifications » sur « absolue » dans les propriétés de cette clé.
+expiry-keys-missing-owner-trust =
+    Vos clés privées suivantes ne possèdent pas de déclaration de confiance.
+    { $desc }.
+    Nous vous recommandons de définir « Vous comptez sur des certifications » sur « absolue » dans les propriétés de ces clés.
+expiry-open-key-manager = Ouvrir le gestionnaire de clés OpenPGP
+expiry-open-key-properties = Ouvrir les propriétés de la clé
+# Strings filters.jsm
+filter-folder-required = Vous devez sélectionner un dossier cible.
+filter-decrypt-move-warn-experimental =
+    Avertissement : l’action de filtrage « Déchiffrement permanent » pourrait détruire des courriels.
+    Nous vous recommandons fortement d’essayer d’abord le filtre « Créer une copie déchiffrée », de tester le résultat avec soin et de ne commencer à utiliser ce filtre qu’une fois que vous serez satisfait·e du résultat.
+filter-term-pgpencrypted-label = Chiffré avec OpenPGP
+filter-key-required = Vous devez sélectionner une clé de destinataire.
+filter-key-not-found = Aucune clé de chiffrement trouvée pour « { $desc } ».
+filter-warn-key-not-secret =
+    Avertissement : l’action de filtrage « Chiffrer avec la clé » remplace les destinataires.
+    Si vous ne possédez pas la clé privée de « { $desc } », vous ne pourrez plus lire les courriels.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Déchiffrement permanent (OpenPGP)
+filter-decrypt-copy-label = Créer une copie déchiffrée (OpenPGP)
+filter-encrypt-label = Chiffrer avec la clé (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Clés correctement importées
+import-info-bits = Bits
+import-info-created = Date de création
+import-info-fpr = Empreinte
+import-info-details = Afficher les détails et gérer l’acceptation des clés
+import-info-no-keys = Aucune clé importée.
+# Strings in enigmailKeyManager.js
+import-from-clip = Voulez-vous importer certaines clés du presse-papiers ?
+import-from-url = Télécharger la clé publique à partir de cette URL :
+copy-to-clipbrd-failed = Impossible de copier la ou les clés sélectionnées dans le presse-papiers.
+copy-to-clipbrd-ok = La ou les clés ont été copiées dans le presse-papiers
+delete-secret-key =
+    AVERTISSEMENT : vous êtes sur le point de supprimer une clé secrète !
+    
+    Si vous supprimez votre clé secrète, vous ne pourrez plus déchiffrer les messages chiffrés pour cette clé et vous ne pourrez plus la révoquer.
+    
+    Voulez-vous vraiment supprimer LES DEUX clés, la clé secrète et la clé publique « { $userId } » ?
+delete-mix =
+    AVERTISSEMENT : vous êtes sur le point de supprimer des clés secrètes !
+    
+    Si vous supprimez votre clé secrète, vous ne pourrez plus déchiffrer les messages chiffrés pour cette clé et vous ne pourrez plus la révoquer.
+    
+    Voulez-vous vraiment supprimer les paires de clés, les clés secrètes ET les clés publiques sélectionnées ?
+delete-pub-key = Voulez-vous supprimer la clé publique « { $userId } » ?
+delete-selected-pub-key = Voulez-vous supprimer les clés publiques ?
+refresh-all-question = Vous n’avez sélectionné aucune clé. Voulez-vous actualiser TOUTES les clés ?
+key-man-button-export-sec-key = Exporter les clés &secrètes
+key-man-button-export-pub-key = Exporter les clés &publiques uniquement
+key-man-button-refresh-all = &Actualiser toutes les clés
+key-man-loading-keys = Chargement des clés, veuillez patienter…
+ascii-armor-file = Fichiers blindés ASCII (*.asc)
 
 ## Account settings export output
 
