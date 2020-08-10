@@ -208,6 +208,7 @@
 <!ENTITY alignJustify.tooltip "Двустранно подравняване">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Позициониране">
 <!ENTITY layer.tooltip "Слой">
 <!ENTITY decreaseZIndex.label "На заден план">
 <!ENTITY layerSendToBack.tooltip "На заден план">
