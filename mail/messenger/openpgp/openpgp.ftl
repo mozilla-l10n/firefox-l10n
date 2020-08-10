@@ -506,7 +506,7 @@ signature-verify-failed = Signaturen for vedlegget { $attachment } kunne ikke be
 decrypt-ok-no-sig =
     Advarsel
     Dekryptering var vellykket, men signaturen kunne ikke bekreftes riktig
-msg-ovl-button-cont-anyway = &Fortsett likevell
+msg-ovl-button-cont-anyway = &Fortsett likevel
 enig-content-note = *Vedlegg til denne meldingen er ikke signert eller kryptert*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Send melding
