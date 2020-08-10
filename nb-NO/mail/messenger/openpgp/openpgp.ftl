@@ -485,7 +485,7 @@ passphrase-prompt = Skriv inn passordfrasen som låser opp følgende nøkkel: { 
 file-to-big-to-import = Denne filen er for stor. Ikke importer et stort sett med nøkler på en gang.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Opprett og lagre tilbakekallingssertifikat
-revoke-cert-ok = Tilbakekallingssertifikatet er opprettet. Du kan bruke den til å ugyldiggjøre den offentlige nøkkelen, f.eks. i tilfelle du mister den hemmelige nøkkelen.
+revoke-cert-ok = Tilbakekallingssertifikatet er opprettet. Du kan bruke det til å ugyldiggjøre den offentlige nøkkelen, f.eks. i tilfelle du mister den hemmelige nøkkelen.
 revoke-cert-failed = Tilbakekallingssertifikatet kunne ikke opprettes.
 gen-going = Nøkkelgenerering er allerede i gang!
 keygen-missing-user-name = Det er ikke angitt noe navn for den valgte kontoen/identiteten. Skriv inn en verdi i feltet «Ditt navn» i kontoinnstillingene.
@@ -528,8 +528,8 @@ quoted-printable-warn =
     Du har slått på «quoted-printable»-koding for sending av meldinger. Dette kan føre til feil under dekryptering og/eller bekreftelse av meldingen.
     Ønsker du å slå av å sende «quoted-printable»-meldinger nå?
 minimal-line-wrapping =
-    Du har satt linjeskift til{ $width } tegn. For riktig kryptering og/eller signering, må denne verdien være minst 68.
-    Ønsker du å endre linjeskiften til 68 tegn nå?
+    Du har satt linjeskift til { $width } tegn. For riktig kryptering og/eller signering, må denne verdien være minst 68.
+    Ønsker du å endre linjeskiftet til 68 tegn nå?
 sending-hidden-rcpt = BCC-mottakere (blindkopi) kan ikke brukes når du sender en kryptert melding. For å sende denne krypterte meldingen, fjern enten BCC-mottakerne eller flytt dem til CC-feltet.
 sending-news =
     Kryptert sendingsoperasjon avbrutt.
