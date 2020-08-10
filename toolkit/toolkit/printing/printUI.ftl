@@ -13,6 +13,10 @@ printui-sheets-count =
 printui-page-range-all = Toutes
 printui-page-range-custom = Personnalisé
 printui-page-range-label = Pages
+printui-page-range-picker =
+    .aria-label = Choisir un intervalle de pages
+printui-page-custom-range =
+    .aria-label = Saisir un intervalle de pages personnalisé
 # Section title for the number of copies to print
 printui-copies-label = Copies
 printui-orientation = Orientation
