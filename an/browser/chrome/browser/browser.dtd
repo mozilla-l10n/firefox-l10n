@@ -921,16 +921,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos de puestos web">
 
-<!ENTITY contentBlocking.cryptominers.label "">
-<!ENTITY contentBlocking.cryptominersView.label "">
 
-<!ENTITY contentBlocking.fingerprinters.label "">
-<!ENTITY contentBlocking.fingerprintersView.label "">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Informar d'un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Informar de problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "Lo bloqueyo de contenius puede dar problemas con bella pachina web. Quan informas sobre problemas, yes aduyando a fer &brandShortName; millor pa totz. Chunto a l'informe se ninviará a Mozilla la URL y información sobre los achustes d'o navegador.">
-<!ENTITY contentBlocking.breakageReportView.learnMore "">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Qué problemas has teniu? (Opcional)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Ninviar un reporte">
