@@ -488,6 +488,9 @@ failed-decrypt = Feil - mislykka dekryptering
 fix-broken-exchange-msg-failed = Klarte ikkje å reparere meldinga.
 attachment-no-match-from-signature = Klarte ikkje å samsvare signaturfilen «{ $attachment }» til eit vedlegg
 attachment-no-match-to-signature = Klarte ikkje å samsvare vedlegg «{ $attachment }» til ei signaturfil
+decrypt-ok-no-sig =
+    Åtvaring
+    Dekryptering var vellykka, men klarte ikkje å stadfeste signaturen rett
 msg-ovl-button-cont-anyway = &Fortset likevel
 enig-content-note = *Vedlegg til denne meldinga er ikkje signerte eller krypterte*
 # Strings used in enigmailMsgComposeOverlay.js
