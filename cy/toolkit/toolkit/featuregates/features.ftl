@@ -90,6 +90,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Storfa ar gyfer y ddogfen gychwynnol about:home sy'n cael ei llwytho yn ragosodedig wrth gychwyn. Pwrpas y storfa yw gwella perfformiad cychwyn.
 experimental-features-print-preview-tab-modal =
     .label = Ailgynllunio'r Rhagolwg Argraffu
+experimental-features-print-preview-tab-modal-description = Mae rhagolwg argraffu wedi'i ailgynllunio ac yn cynnig rhagolwg argraffu ar y macOS. Gall hyn o bosibl gyflwyno toriadau ac nid yw'n cynnwys yr holl osodiadau sy'n gysylltiedig ag argraffu. I gael mynediad at yr holl osodiadau sy'n gysylltiedig ag argraffu, dewiswch "Argraffu gan ddefnyddio deialog y system..." o fewn y panel Argraffu.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
