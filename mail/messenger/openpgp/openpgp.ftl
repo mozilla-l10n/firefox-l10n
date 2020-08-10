@@ -471,3 +471,58 @@ fail-key-extract = Erreur – échec de la commande d’extraction de clé
 fail-cancel = Erreur — réception de clé annulée par l’utilisateur
 not-first-block = Erreur — le premier bloc OpenPGP n’est pas un bloc de clé publique
 import-key-confirm = Importer la ou les clés publiques incluses dans le message ?
+fail-key-import = Erreur — échec de l’importation de la clé
+file-write-failed = Échec de l’écriture dans le fichier { $output }
+confirm-permissive-import = Échec de l’importation. La clé que vous essayez d’importer est peut-être corrompue ou utilise des attributs inconnus. Souhaitez-vous essayer d’importer les parties correctes ? Cela peut entraîner l’importation de clés incomplètes et inutilisables.
+# Strings used in trust.jsm
+key-valid-unknown = inconnue
+key-valid-invalid = invalide
+key-valid-disabled = désactivée
+key-valid-revoked = révoquée
+key-valid-expired = expirée
+key-trust-untrusted = non fiable
+key-trust-marginal = marginale
+key-trust-full = fiable
+key-trust-ultimate = absolu
+key-trust-group = (groupe)
+# Strings used in commonWorkflows.js
+import-key-file = Importer un fichier de clé OpenPGP
+import-rev-file = Importer un fichier de révocation OpenPGP
+gnupg-file = Fichiers GnuPG
+import-keys-failed = Échec de l’importation des clés
+passphrase-prompt = Veuillez saisir la phrase de passe pour déverrouiller la clé suivante : { $key }
+file-to-big-to-import = Ce fichier est trop volumineux. Veuillez ne pas importer un nombre important de clés à la fois.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Créer et enregistrer un certificat de révocation
+revoke-cert-ok = Le certificat de révocation a été créé. Vous pouvez l’utiliser pour invalider votre clé publique, par exemple dans le cas où vous perdriez votre clé secrète.
+revoke-cert-failed = Le certificat de révocation n’a pas pu être créé.
+gen-going = Génération de clé déjà en cours.
+keygen-missing-user-name = Aucun nom n’est spécifié pour le compte ou l’identité sélectionnée. Veuillez saisir une valeur dans le champ « Votre nom » des paramètres du compte.
+expiry-too-short = Votre clé doit être valide pendant au moins un jour.
+expiry-too-long = Vous ne pouvez pas créer de clé qui expire dans plus de 100 ans.
+key-confirm = Générer une clé publique et une clé secrète pour { $id } ?
+key-man-button-generate-key = &Générer une clé
+key-abort = Annuler la génération de la clé ?
+key-man-button-generate-key-abort = &Annuler la génération de clé
+key-man-button-generate-key-continue = &Poursuivre la génération de clé
+fix-broken-exchange-msg-failed = Impossible de réparer le message.
+attachment-no-match-from-signature = Impossible de faire correspondre le fichier de signature « { $attachment } » à une pièce jointe
+attachment-no-match-to-signature = Impossible de faire correspondre la pièce jointe « { $attachment } » à un fichier de signature
+signature-verified-ok = La signature a été vérifiée avec succès pour la pièce jointe { $attachment }
+signature-verify-failed = Impossible de vérifier la signature de la pièce jointe { $attachment }
+decrypt-ok-no-sig =
+    Avertissement
+    Le déchiffrement a réussi, mais la signature n’a pas pu être vérifiée correctement
+msg-ovl-button-cont-anyway = &Continuer quand même
+enig-content-note = *Les pièces jointes à ce message n’ont pas été signées ni chiffrées*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Envoyer le message
+msg-compose-details-button-label = Détails…
+msg-compose-details-button-access-key = D
+send-aborted = L’opération d’envoi a été abandonnée.
+key-not-trusted = Le niveau de confiance de la clé « { $key } » est insuffisant
+key-not-found = Clé « { $key } » introuvable
+key-revoked = Clé « { $key } » révoquée
+key-expired = Clé « { $key } » expirée
+msg-compose-internal-error = Une erreur interne s’est produite.
+keys-to-export = Sélectionnez les clés OpenPGP à insérer
