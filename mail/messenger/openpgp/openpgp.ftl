@@ -542,7 +542,7 @@ save-attachment-header = Lagre dekryptert vedlegg
 no-temp-dir =
     Kunne ikke finne en midlertidig katalog å skrive til
     Angi TEMP-miljøvariabelen
-possibly-pgp-mime = Mulig PGP-/MIME-kryptert eller signert melding; bruk «Dekrypter/verifiser» -funksjonen for å bekrefte
+possibly-pgp-mime = Mulig PGP-/MIME-kryptert eller signert melding; bruk «Dekrypter/verifiser»-funksjonen for å bekrefte
 cannot-send-sig-because-no-own-key = Kan ikke signere denne meldingen digitalt, fordi du ennå ikke har konfigurert ende-til-ende-kryptering for <{ $key }>
 cannot-send-enc-because-no-own-key = Kan ikke sende denne meldingen kryptert, fordi du ennå ikke har konfigurert ende-til-ende-kryptering for <{ $key }>
 # Strings used in decryption.jsm
