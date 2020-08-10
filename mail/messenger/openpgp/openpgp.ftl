@@ -436,3 +436,11 @@ revoke-key-question =
     Vous êtes sur le point de révoquer la clé « { $identity } ».
     Vous ne serez plus en mesure de signer avec cette clé, et une fois que la révocation sera propagée, les autres ne pourront plus chiffrer avec cette clé. Vous pouvez encore l’utiliser pour déchiffrer les courriels anciens.
     Voulez-vous continuer ?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Vous ne possédez pas de clé (0x{ $keyId }) qui correspond à ce certificat de révocation.
+    Si vous avez perdu votre clé, vous devez l’importer (par exemple, d’un serveur de clés) avant d’importer le certificat de révocation.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = La clé 0x{ $keyId } a déjà été révoquée.
+key-man-button-revoke-key = &Révoquer la clé
+openpgp-key-revoke-success = La clé a été révoquée.
