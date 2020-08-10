@@ -451,6 +451,10 @@ key-revoked = A(z) „{ $key }” kulcs visszavonva
 key-expired = A(z) „{ $key }” kulcs lejárt
 msg-compose-internal-error = Belső hiba történt.
 keys-to-export = Válassza ki az importálandó OpenPGP-kulcsokat
+msg-compose-partially-encrypted-inlinePGP =
+    Az üzenet, amelyre válaszol, titkosítatlan és titkosított részeket is tartalmaz. Ha a küldő eredetileg nem tudott visszafejteni néhány üzenetrészt, akkor bizalmas információkat szivárogtathat ki, amelyeket a feladó eredetileg nem volt képes visszafejteni.
+    Fontolja meg az összes idézett szöveg eltávolítását a feladónak küldött válaszból.
+msg-compose-cannot-save-draft = Hiba a piszkozat mentésekor
 dlg-button-ok = &Rendben
 dlg-button-close = &Bezárás
 dlg-button-cancel = &Mégse
