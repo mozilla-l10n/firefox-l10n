@@ -30,6 +30,7 @@ going-online-not =
 going-online-ask =
     .label = Demandar me
     .accesskey = D
+going-offline-label = Discargar messages pro uso sin connexion al disconnexion?
 going-offline-auto =
     .label = Si
     .accesskey = S
