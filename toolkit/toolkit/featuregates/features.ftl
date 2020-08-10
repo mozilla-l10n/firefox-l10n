@@ -41,10 +41,14 @@ experimental-features-web-api-inputmode-description = Az <a data-l10n-name="mdn-
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = A <a data-l10n-name="link">&lt;link&gt;</a> elemen lévő, <code>"preload"</code> értékű <a data-l10n-name="rel">rel</a> attribútum arra szolgál, hogy teljesítménybeli javulást nyújtson azáltal, hogy az erőforrásokat hamarabb letölthesse az oldal életciklusában, biztosítva hogy korábban elérhetők legyenek, és kevésbe legyen valószínű, hogy blokkolják a lap megjelenítését. További részletekért olvassa el a <a data-l10n-name="readmore">„Preloading content with <code>rel="preload"</code>”</a> című leírást vagy lásd a <a data-l10n-name="bugzilla">1583604-es számú jegyet</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Lehetővé teszi, hogy a fókuszstílusok csak akkor legyenek alkalmazva az olyan elemeken, mint a gombok és űrlapvezérlők, amikor billentyűzettel kerülnek fókuszba (például tabulátorral történő váltáskor), de egér és más mutatóeszközökkel nem. További részletekért lásd a <a data-l10n-name="bugzilla">1617600-as számú hibát</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
