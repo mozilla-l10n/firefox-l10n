@@ -20,3 +20,4 @@ openpgp-key-verified = Acceptate (verificate)
 openpgp-key-unverified = Acceptate (non-verificate)
 openpgp-key-undecided = Non acceptate (non-decidite)
 openpgp-key-rejected = Non acceptate (rejectate)
+openpgp-intro = Activar claves public pro { $key }
