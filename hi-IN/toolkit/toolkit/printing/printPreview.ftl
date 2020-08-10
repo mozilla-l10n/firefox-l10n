@@ -33,6 +33,7 @@ printpreview-of =
     .value = का
 printpreview-custom-prompt =
     .value = मनपसंद मापक...
+printpreview-custom-scale-prompt-title = कस्टम स्केल
 printpreview-page-setup =
     .label = पृष्ठ सेटअप...
     .accesskey = u
@@ -58,4 +59,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = अंतिम पन्ना
-
