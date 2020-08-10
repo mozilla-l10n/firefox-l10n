@@ -372,6 +372,12 @@ key-ring-key-not-trusted = Nøkkelen { $userId } (nøkkel-ID { $keyId }) er ikkj
 key-ring-no-secret-key = Det ser ikkje ut til at du har den hemmelege nøkkelen for { $userId } (nøkkel-ID { $keyId }) på nøkkelringen din; du kan ikkje bruke nøkkelen til signering.
 key-ring-pub-key-not-for-signing = Nøkkelen { $userId } (nøkkel-ID { $keyId }) kan ikkje brukast til signering.
 key-ring-pub-key-not-for-encryption = Nøkkelen { $userId } (nøkkel-ID { $keyId }) kan ikkje brukast til kryptering.
+key-ring-sign-sub-keys-revoked = Alle signerings-undernøklane til nøkkel { $userId } (nøkkel-ID { $keyId }) er kalla tilbake.
+key-ring-sign-sub-keys-expired = Alle signerings-undernøklane for nøkkelen { $userId } (nøkkel-ID { $keyId }) har gått ut.
+key-ring-sign-sub-keys-unusable = Alle signerings-undernøklane for nøkkelen{ $userId } (nøkkel-ID { $keyId }) er kalla tilbake, gått ut eller på annan måte ubrukelege.
+key-ring-enc-sub-keys-revoked = Alle krypteringsundernøklane for nøkkelen { $userId } (nøkkel-ID { $keyId }) er kalla tilbake.
+key-ring-enc-sub-keys-expired = Alle krypteringsundernøklane for nøkkelen { $userId } (nøkkel-ID { $keyId }) har gått ut.
+key-ring-enc-sub-keys-unusable = Alle krypteringsundernøklane for nøkkelen { $userId } (nøkkel-ID { $keyId }) er kalla tilbake, gått ut eller på annan måte ubrukelege.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Brukarattribut (JPEG-bilde)
