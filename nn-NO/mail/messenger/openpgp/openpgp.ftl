@@ -528,7 +528,7 @@ quoted-printable-warn =
     Du har slått på «quoted-printable»-koding for sending av meldingar. Dette kan føre til feil under dekryptering og/eller stadfesting av meldinga.
     Ønskjer du å slå av sending av «quoted-printable»-meldingar no?
 minimal-line-wrapping =
-    Du har stilt inn linjeskift til{ $width } teikn. For rett kryptering og/eller signering, må denne verdien vere minst 68.
+    Du har stilt inn linjeskift til { $width } teikn. For rett kryptering og/eller signering, må denne verdien vere minst 68.
     Ønskjer du å endre linjeskiftet til 68 tegn nå?
 sending-hidden-rcpt = Du kan ikkje bruke BCC-mottakarar (blindkopi) når du sender ei kryptert melding. For å sende denne krypterte meldinga, fjern anten BCC-mottakarane eller flytt dei til CC-feltet.
 sending-news =
