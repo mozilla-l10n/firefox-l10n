@@ -116,6 +116,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery जैसे एक्सटेंशन की मदद से तेजी, होशियारी या सुरक्षापूर्वक ब्राउज़ करें, जो आपको फालतू विज्ञापनों को रोकने देता है।
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = संकलित करें
+onboarding-fxa-text = { -fxaccount-brand-name } के लिए साइन अप करें और अपने बुकमार्क, पासवर्ड और खुले टैब को हर उस जगह सिंक करें जहाँ आप { -brand-short-name } का उपयोग करते हैं।
 onboarding-tracking-protection-title2 = ट्रैकिंग से सुरक्षा
 onboarding-tracking-protection-text2 = { -brand-short-name } वेबसाइटों को ऑनलाइन आपको ट्रैक करने से रोकने में मदद करता है, जिससे विज्ञापनों के लिए वेब पर आपका अनुसरण करना कठिन हो जाता है।
 onboarding-tracking-protection-button2 = यह किस प्रकार काम करता है

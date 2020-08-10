@@ -143,6 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "अपने ईमेल की जाँच करें">
 <!ENTITY fxa.unverified.description.label "सिंक करने से पहले आपको अपने खाते को सत्यापित करना जरुरी होगा।">
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; सेटिंग खोलें…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
@@ -234,7 +235,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "रूकें">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "स्थान पट्टी पर पता में जाएँ">
 
 <!ENTITY printButton.label            "छापें">
@@ -252,7 +252,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्लग-इन उपयोग को प्रबंधित करें">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "परिवर्तन करें ताकी आप साइटों से सूचनाएं प्राप्त कर सकते हैं">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "स्थायी संग्रहण में आँकड़े संचित करें">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ब्राउज़र रिमोट कंट्रोल के तहत है">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "वेब प्रमाणीकरण पैनल को खोले">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "ब्राउज़िंग गतिविधि अनुमति पैनल खोलें">
@@ -280,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दिखाएँ">
-
-
 
 <!ENTITY searchItem.title             "खोज">
 
@@ -391,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "बाज़ू पट्टी">
 <!ENTITY viewSidebarMenu.accesskey "e">
-
 <!ENTITY viewCustomizeToolbar.label       "मनपसंद बनाएँ…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
@@ -486,7 +482,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "अधिक">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "खोजें या पता दर्ज करें">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
