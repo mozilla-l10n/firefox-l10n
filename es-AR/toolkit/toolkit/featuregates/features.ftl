@@ -88,6 +88,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Las co
 experimental-features-abouthome-startup-cache =
     .label = about:home startup cache
 experimental-features-abouthome-startup-cache-description = Un caché para el documento inicial about:home que se carga de manera predeterminada al inicio. El propósito del caché es mejorar el rendimiento de inicio.
+experimental-features-print-preview-tab-modal =
+    .label = Rediseño de la vista previa de impresión
+experimental-features-print-preview-tab-modal-description = Presenta la vista previa de impresión rediseñada y hace que la vista previa de impresión esté disponible en macOS. Esto podría fallar y no incluye todas las configuraciones relacionadas con la impresión. Para acceder a todos los ajustes relacionados con la impresión, seleccione "Imprimir usando el cuadro de diálogo del sistema ..." desde el panel Imprimir.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
