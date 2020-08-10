@@ -434,6 +434,11 @@ revoke-key-not-present =
 revoke-key-already-revoked = Nøkkelen 0x{ $keyId } er allereie trekt tilbake.
 key-man-button-revoke-key = &Tilbakekall nøkkel
 openpgp-key-revoke-success = Nøkkelen er tilbakekalla.
+after-revoke-info =
+    Nøkkelen er trekt tilbake.
+    Del denne offentlege nøkkelen igjen, ved å sende den via e-post, eller ved å laste han opp til nøkkelserverane, for å la andre få vite at du har kalla tilbake nøkkelen din.
+    Så snart programvara som vert brukt av andre personar får vite om tilbakekallinga, vil ho slutte å bruke den gamle nøkkelen.
+    Dersom du brukar ein ny nøkkel for den same e-postadressea, og du legg ved den nye offentlige nøkkelen til e-postmeldingar du sender, vil informasjon om den tilbakekalla gamle nøkkelen automatisk bli inkludert.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importer
 delete-key-title = Slett OpenPGP-nøkkel
@@ -459,6 +464,7 @@ import-key-confirm = Vil du importere den offentlege nøkkelen innebygd i meldin
 fail-key-import = Feil - import av nøkkel feila
 file-write-failed = Klarte ikkje å skrive til fila { $output }
 no-pgp-block = Feil - Inga gyldig, armert OpenPGP-datablokk funnen
+confirm-permissive-import = Mislykka import. Nøkkelen du prøver å importere kan vere øydelagd eller bruke ukjende attributtar. Vil du prøve å importere dei rette delane? Dette kan føre til import av ufullstendige og ubrukelege nøklar.
 # Strings used in trust.jsm
 key-valid-unknown = ukjend
 key-valid-invalid = ugyldig
