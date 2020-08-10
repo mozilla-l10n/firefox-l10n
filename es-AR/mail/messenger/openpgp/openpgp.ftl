@@ -302,7 +302,43 @@ keyserver-error-import-error = No se pudo importar la clave descargada.
 keyserver-error-unavailable = El servidor de claves no está disponible.
 keyserver-error-security-error = El servidor de claves no admite el acceso cifrado.
 keyserver-error-certificate-error = El certificado del servidor de claves no es válido.
+keyserver-error-unsupported = El servidor de claves no es compatible.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Su proveedor de correo electrónico procesó su solicitud para cargar su clave pública en el directorio de claves web de OpenPGP.
+    Confirme para completar la publicación de su clave pública.
+wkd-message-body-process =
+    Este es un correo electrónico relacionado con el procesamiento automático para cargar su clave pública en el directorio de claves web de OpenPGP.
+    No es necesario que realice ninguna acción manual en este momento.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    No se pudo descifrar el mensaje con el asunto
+    { $subject }.
+    ¿Quiere volver a intentarlo con una frase de contraseña diferente o quiere saltarte el mensaje?
+# Strings in gpg.jsm
+unknown-signing-alg = Algoritmo de firma desconocido (ID): { $id })
+unknown-hash-alg = Hash criptográfico desconocido (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Su clave { $desc } caducará en menos de { $days } días.
+    Le recomendamos que cree un nuevo par de claves y que configure las cuentas correspondientes para usarla.
+expiry-keys-expire-soon =
+    Sus siguientes claves caducarán en menos de { $days } días:{ $desc }.
+    Le recomendamos que cree nuevas claves y que configure las cuentas correspondientes para usarlas.
+expiry-key-missing-owner-trust =
+    Su clave secreta { $desc } perdió confianza.
+    Le recomendamos que cambie "confía en las certificaciones" a "ultimate" en la propiedades de la clave.
+expiry-keys-missing-owner-trust =
+    Las siguientes claves secretas no tienen confianza.
+    { $desc }.
+    Le recomendamos que establezca "Confía en las certificaciones" en "ultimate" en las propiedades de la clave.
 expiry-open-key-manager = Abrir administrador de claves OpenPGP
+expiry-open-key-properties = Abrir propiedades de la clave
+# Strings filters.jsm
+filter-folder-required = Debe seleccionar una carpeta de destino.
+filter-decrypt-move-warn-experimental =
+    Advertencia: la acción de filtrado "Descifrar permanentemente" puede provocar la destrucción de mensajes.
+    Le recomendamos encarecidamente que primero pruebe el filtro "Crear copia descifrada", pruebe el resultado con cuidado y comience a usar este filtro solo una vez que esté satisfecho con el resultado.
 
 ## Account settings export output
 
