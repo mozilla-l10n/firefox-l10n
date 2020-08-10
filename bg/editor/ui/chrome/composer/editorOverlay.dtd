@@ -209,7 +209,9 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Слой">
+<!ENTITY decreaseZIndex.label "На заден план">
 <!ENTITY layerSendToBack.tooltip "На заден план">
+<!ENTITY increaseZIndex.label "На преден план">
 <!ENTITY layerBringToFront.tooltip "На преден план">
 
 <!ENTITY increaseIndent.label "Увеличаване на отстъпа">
@@ -311,6 +313,7 @@
 <!ENTITY TextColorButton.tooltip "Изберете цвят на текста">
 <!ENTITY BackgroundColorButton.tooltip "Изберете цвят за фона">
 <!ENTITY throbber.tooltip "Към началната страница на &vendorShortName;">
+<!ENTITY HighlightColorButton.label "Маркер">
 <!ENTITY HighlightColorButton.tooltip "Изберете цвят на откроения текст">
 
 <!-- Editor toolbar -->
@@ -326,7 +329,9 @@
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
 <!ENTITY underline.label "Подчертан">
 <!ENTITY underlineToolbarCmd.tooltip "Подчертан">
+<!ENTITY bullets.label "Водещи символи">
 <!ENTITY bulletListToolbarCmd.tooltip "Прилагане или премахване на неподреден списък">
+<!ENTITY numbers.label "Номериране">
 <!ENTITY numberListToolbarCmd.tooltip "Прилагане или премахване на номериран списък">
 <!ENTITY outdent.label "Без отстъп">
 <!ENTITY outdentToolbarCmd.tooltip "Намаляване отстъпа (преместване вляво)">
@@ -336,10 +341,11 @@
 <!ENTITY AlignPopupButton.tooltip "Изберете подравняване на текста">
 <!ENTITY InsertPopupButton.label "Вмъкване">
 <!ENTITY InsertPopupButton.tooltip "Вмъкване на връзка, котва, изображение, хоризонтална линия или таблица">
-<!ENTITY alignLeftButton.label "Ляво подравняване">
+<!ENTITY alignLeftButton.label "Подравняване от ляво">
 <!ENTITY alignLeftButton.tooltip "Подравняване на текста към лявата граница">
 <!ENTITY alignCenterButton.label "Центрирано">
 <!ENTITY alignCenterButton.tooltip "Подравняване в средата">
+<!ENTITY alignRightButton.label "Подравняване от дясно">
 <!ENTITY alignRightButton.tooltip "Подравняване на текста към дясната граница">
 <!ENTITY alignJustifyButton.label "Двустранно подравняване">
 <!ENTITY alignJustifyButton.tooltip "Подравняване на текста към лявата и дясната граница">
