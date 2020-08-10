@@ -73,6 +73,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = startowy pufrowak about:home
 experimental-features-abouthome-startup-cache-description = Pufrowak za zachopny dokument about:home, kótaryž se pó standarźe pśi startowanju zacytujo. Zaměr pufrowaka jo, startowe wugbaśe pólěpšyś.
+experimental-features-print-preview-tab-modal =
+    .label = Nowy design śišćaŕskego pśeglěda
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
