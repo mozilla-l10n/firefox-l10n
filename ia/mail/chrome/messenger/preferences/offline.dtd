@@ -4,8 +4,13 @@
 
 <!ENTITY offlineDialog.title "Parametros offline">
 
+<!ENTITY checkAutoDetect.label "Passar automaticamente al stato in linea">
+<!ENTITY checkAutoDetect.accesskey "S">
 <!ENTITY titleStartUp "Stato manual al initio:">
 <!ENTITY radioRememberPrevState.label "Rememorar le stato in linea previe">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskState.label "Demandar me pro stato in linea">
+<!ENTITY radioAskState.accesskey "D">
 <!ENTITY radioAlwaysOnlineState.label "Online">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Foras de linea">
@@ -18,6 +23,7 @@
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Demandar me">
 <!ENTITY radioAskUnsent.accesskey "D">
+<!ENTITY textGoingOffline "Discargar messages pro uso sin connexion al disconnexion?">
 <!ENTITY radioAutoDownload.label "Si">
 <!ENTITY radioAutoDownload.accesskey "i">
 <!ENTITY radioNotDownload.label "No">
