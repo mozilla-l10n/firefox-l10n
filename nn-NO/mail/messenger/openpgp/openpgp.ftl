@@ -457,6 +457,11 @@ msg-compose-button-send = &Send melding
 msg-compose-details-button-label = Detaljar…
 msg-compose-details-button-access-key = D
 send-aborted = Sendingsoperasjonen avbroten.
+key-not-trusted = Ikkje nok tillit til nøkkelen «{ $key }»
+msg-compose-internal-error = Det oppstod ein intern feil.
+keys-to-export = Vel OpenPGP-nøklar du vil setje inn
+msg-compose-cannot-save-draft = Feil ved lagring av utkast
+save-attachment-header = Lagre dekryptert vedlegg
 # Strings used in decryption.jsm
 do-import-multiple =
     Importere følgjande nøklar?
