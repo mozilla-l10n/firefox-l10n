@@ -384,6 +384,10 @@ user-att-photo = Brukarattribut (JPEG-bilde)
 # Strings in key.jsm
 already-revoked = Denne nøkkelen er allereie trekt tilbake.
 #   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Du har ingen nøkkel (0x{ $keyId }) som samsvarar med dette tilbakekallingssertifikatet!
+    Dersom du har mista nøkkelen, må du importere han (t.d. frå ein nøkkelserver) før du importerer tilbakekallingssertifikatet!
+#   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Nøkkelen 0x{ $keyId } er allereie trekt tilbake.
 key-man-button-revoke-key = &Tilbakekall nøkkel
 openpgp-key-revoke-success = Nøkkelen er tilbakekalla.
@@ -446,16 +450,19 @@ failed-decrypt = Feil - mislykka dekryptering
 fix-broken-exchange-msg-failed = Klarte ikkje å reparere meldinga.
 attachment-no-match-from-signature = Klarte ikkje å samsvare signaturfilen «{ $attachment }» til eit vedlegg
 attachment-no-match-to-signature = Klarte ikkje å samsvare vedlegg «{ $attachment }» til ei signaturfil
+msg-ovl-button-cont-anyway = &Fortset likevell
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Send melding
 msg-compose-details-button-label = Detaljar…
 msg-compose-details-button-access-key = D
+send-aborted = Sendingsoperasjonen avbroten.
 # Strings used in decryption.jsm
 do-import-multiple =
     Importere følgjande nøklar?
     { $key }
 do-import-one = Importere { $name } ({ $id })?
 cant-import = Feil ved import av offentleg nøkkel
+sig-mismatch = Feil - signaturen samsvarar ikkje
 dlg-button-view = &Vis
 # Strings used in encryption.jsm
 not-required = Feil - inga kryptering påkravd
