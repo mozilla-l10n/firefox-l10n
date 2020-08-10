@@ -449,7 +449,7 @@ delete-key-in-use-description = Kan ikke fortsette! Nøkkelen du valgte for slet
 revoke-key-in-use-description = Kan ikke fortsette! Nøkkelen du valgte for tilbakekalling, brukes for øyeblikket av denne identiteten. Velg en annen nøkkel, eller velg ingen, og prøv igjen.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = E-postadressen «{ $keySpec }» kan ikke matches med en nøkkel på nøkkelringen.
-key-error-key-id-not-found = Den konfigurerte nøkkel-ID-en «{ $keySpec }» kan ikke finnes på nøkkelringen.
+key-error-key-id-not-found = Fant ikke den konfigurerte nøkkel-ID-en «{ $keySpec }» på nøkkelringen.
 key-error-not-accepted-as-personal = Du har ikke bekreftet at nøkkelen med ID «{ $keySpec }» er din personlige nøkkel.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Funksjonen du har valgt er ikke tilgjengelig i frakoblet modus. Koble til og prøv igjen.
