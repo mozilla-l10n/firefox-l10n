@@ -237,6 +237,10 @@ translate-attribution = Traduccions de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Usar los achustes de “{ $localeName }” d'o tuyo sistema operativo pa lo formato de datas, horas, numersos y midas.
 check-user-spelling =
     .label = Comprebar la ortografía entre que escribo
     .accesskey = t
@@ -285,6 +289,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Usar { $app-name } (por defecto)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Usar l'aplicación per defecto de macOS
+            [windows] Usar l'aplicación per defecto de Windows
+           *[other] Usar l'aplicación per defecto d'o sistema
+        }
 applications-use-other =
     .label = Usar unatra…
 applications-select-helper = Trigue l'aplicación d'aduya
@@ -355,6 +366,7 @@ update-application-check-choose =
 update-application-manual =
     .label = No comprebar nunca las actualizacions
     .accesskey = N
+update-application-warning-cross-user-setting = Esta configuración s'aplicará a totas las cuentas de Windows y perfils de { -brand-short-name } que fagan servir esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Instalar as actualizacions en un segundo plan
     .accesskey = p
@@ -362,6 +374,12 @@ update-enable-search-update =
     .label = Esviellar automaticament los motors de busca
     .accesskey = e
 update-pref-write-failure-title = Fallo d'escritura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = No se puede alzar esta configuación. No s'ha puesto escribir en o fichero: { $path }
+update-setting-write-failure-title = Error en alzar als preferencias d'actualización
+update-in-progress-title = Actualización en curso
+update-in-progress-message = Quiers que { -brand-short-name } contine con esta actualización?
 update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -405,6 +423,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Mirar textos malas que s'escomienza a tecliar
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Activar los controls de video incrustau
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Saber-ne mas
 browsing-cfr-recommendations =
     .label = Recomendar extensions mientres navegas
@@ -475,6 +496,7 @@ home-prefs-topsites-description = Los puestos que mas vesitas
 
 home-prefs-recommended-by-header =
     .label = Recomendau per { $provider }
+home-prefs-recommended-by-description-update = Conteniu excepcional de tot lo web, triau per { $provider }
 
 ##
 
@@ -515,8 +537,13 @@ search-bar-shown =
     .label = Anyader la barra de busqueda en a barra de ferramientas
 search-engine-default-header = Motor de busca por defecto
 search-engine-default-desc = Trigar lo motor de busqueda per defecto a fer servir en a barra d'adrezas y barra de busqueda.
+search-engine-default-desc-2 = Este ye lo tuyo motor de busqueda per defecto en a barra d'adrezas y en a barra de busqueda. Puetz cambiar-lo en qualsequier momento.
 search-engine-default-private-desc-2 = Triar un motor de busqueda per defecto diferent, nomás pa finestras privadas
+search-separate-default-engine =
+    .label = Fer servir este motor de busqueda en finestras privadas
+    .accesskey = v
 search-suggestions-header = Sucherencias de busqueda
+search-suggestions-desc = Tría cómo amaneixerán las sucherencias d'os motors de busqueda.
 search-suggestions-option =
     .label = Dar sucherencia de busca
     .accesskey = b
@@ -530,6 +557,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Amostrar las sucherencias de busqueda antes de l'hstorial de navegación en os resultasu d'a barra d'adrezas
+search-show-suggestions-private-windows =
+    .label = Amostrar las sucherencias de busqueda en as finestras privadas
 suggestions-addressbar-settings-generic = Cambiar las preferencias d'atras sucherencias de barra d'adrezas
 search-suggestions-cant-show = No s'amostrarán sucherencias de busca a os resultaus d'a barra d'ubicación porque ha configurau o { -brand-short-name } pa que no recuerde nunca o historial.
 search-one-click-header = Motors de busca d'un solo click
@@ -645,6 +674,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Actualment se sincronizan estes elementos:
 sync-currently-syncing-bookmarks = Marcapachinas
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Ubrir as pestanyas
@@ -778,15 +808,24 @@ forms-master-pw-fips-title = Se troba en modo FIPS. Iste modo requiere una clau 
 forms-primary-pw-change =
     .label = Cambiar a clau primaria…
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Anteriorment clamada «Clau mayestra»
+forms-primary-pw-fips-title = Actualment ye en modo FIPS. FIPS requiere una clau primaria.
 forms-master-pw-fips-desc = O cambio de clau ha fallau
 
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Pa crear una clau mayestra, escribe las tuyas credencials d'acceso a Windos. Esto te aduya a protecher la seguranza d'as tuyas cuentas.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = Crear una clau mayestra
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Pa crear una clau primaria, escribe las tuyas credencials d'acceso a Windos. Esto te aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -844,6 +883,10 @@ sitedata-total-size-calculating = Calculando los datos d'o puesto y la grandaria
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Las tuyas cookies, datos d'o puesto y caché son usando per agora { $value } { $unit } d'o espacio de disco
 sitedata-learn-more = Saber-ne mas
+sitedata-delete-on-close =
+    .label = Borrar las cookies y datos d'o puesto quan { -brand-short-name } siga zarrau
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = En o modo de navegación privada permanent, las cookies y datos de puesto siempre se borrarán en zarrar { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Acceptar cookies y datos d'o puesto
     .accesskey = A
@@ -915,7 +958,9 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizau
     .accesskey = P
+content-blocking-strict-description = Una protección mas fuerte, pero podría causar que bell puesto no funcione bien.
 content-blocking-custom-desc = Triga qué quiers blocar
+content-blocking-private-trackers = Elementos de seguimiento conoixius, nomás en a finestras privadas
 content-blocking-third-party-cookies = Cookies de seguimiento de tercers
 
 ## These strings are used to define the different levels of
@@ -934,6 +979,8 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Equilibrau entre protección y rendimiento. Las pachinas se cargarán normalment.
+content-blocking-etp-strict-desc = Mayor protección, pero podría fer que bella pachina u conteniu no funcione bien.
 content-blocking-etp-custom-desc = Tría qué elementos de seguimiento y seqüencias de comandos blocar.
 content-blocking-private-windows = Conteniu que fa seguimiento en as finestras privadas
 content-blocking-cross-site-tracking-cookies = Cookies de seguimiento entre puestos
