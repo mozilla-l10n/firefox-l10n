@@ -397,7 +397,20 @@ delete-key-in-use-description = Kan ikkje fortsetje! Nøkkelen du valde for slet
 revoke-key-in-use-description = Kan ikkje fortsetje! Nøkkelen du valde for tilbakekalling, vert for tida brukt av denne identiteten. Vel ein annan nøkkel, eller vel ingen, og prøv igjen.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = E-postadressa «{ $keySpec }» kan ikkje matchast med ein nøkkel på nøkkelringen.
-key-error-key-id-not-found = Klarte ikkje å finne den konfigurerte nøkkel-ID-en «{ $keySpec }» på nøkkelringen.
+key-error-key-id-not-found = Fann ikkje den konfigurerte nøkkel-ID-en «{ $keySpec }» på nøkkelringen.
+key-error-not-accepted-as-personal = Du har ikkje stadfesta at nøkkelen med ID «{ $keySpec }» er den personlege nøkkelen din.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Funksjonen du har valt er ikkje tilgjengeleg i fråkopla modus. Kople til og prøv igjen.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Vi klarte ikkje å finne nokon nøkkel som samsvarar med dei spesifiserte søkjekriteria.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Feil - nøkkelekstraksjonskommandoen feila
+# Strings used in keyRing.jsm
+fail-cancel = Feil - Mottak av nøkkel avbroten av brukar
+not-first-block = Feil - Første OpenPGP-blokk ikkje offentleg nøkkelblokk
+import-key-confirm = Vil du importere den offentlege nøkkelen innebygd i meldinga?
+fail-key-import = Feil - import av nøkkel feila
+file-write-failed = Klarte ikkje å skrive til fila { $output }
 # Strings used in trust.jsm
 key-valid-unknown = ukjend
 key-valid-invalid = ugyldig
