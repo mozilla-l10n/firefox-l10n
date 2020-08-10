@@ -48,6 +48,7 @@ login-list-count =
 login-list-sort-label-text = इसके अनुसार:
 login-list-name-option = नाम (A-Z)
 login-list-name-reverse-option = नाम (Z-A)
+about-logins-login-list-alerts-option = चेतावनी
 login-list-last-changed-option = अंतिम परिवर्तन
 login-list-last-used-option = अंतिम प्रयुक्त
 login-list-intro-title = कोई लॉग इन नहीं मिला
@@ -59,6 +60,8 @@ login-list-item-subtitle-new-login = अपनी लॉगिन जानक�
 login-list-item-subtitle-missing-username = (कोई उपयोगकर्ता नाम नहीं)
 about-logins-list-item-breach-icon =
     .title = उलंघित वेबसाइट
+about-logins-list-item-vulnerable-password-icon =
+    .title = असुरक्षित पासवर्ड
 
 ## Introduction screen
 
@@ -103,6 +106,8 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = अपने लॉगिन को संपादित करने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = सहेजे गए लॉगिन को संपादित करें
@@ -116,6 +121,9 @@ about-logins-copy-password-os-auth-dialog-message-macosx = सहेजे ग�
 ## Master Password notification
 
 master-password-notification-message = सहेजे गए लॉगिन और पासवर्ड देखने के लिए कृपया अपना मास्टर पासवर्ड दर्ज करें
+
+## Primary Password notification
+
 master-password-reload-button =
     .label = लॉग इन
     .accesskey = L
