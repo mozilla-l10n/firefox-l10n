@@ -338,9 +338,81 @@ expiry-open-key-manager = Открыть Менеджер ключей OpenPGP
 expiry-open-key-properties = Открыть свойства ключа
 # Strings filters.jsm
 filter-folder-required = Вы должны выбрать целевую папку.
+filter-decrypt-move-warn-experimental =
+    Предупреждение — действие фильтра «Всегда расшифровывать» может привести к уничтожению сообщений.
+    Мы настоятельно рекомендуем сначала попробовать фильтр «Создать расшифрованную копию», тщательно протестировать результат и начать использовать этот фильтр только после того, как вы будете удовлетворены результатом.
+filter-term-pgpencrypted-label = Зашифровано OpenPGP
+filter-key-required = Вы должны выбрать ключ получателя.
+filter-key-not-found = Не удалось найти ключ шифрования для '{ $desc }'.
+filter-warn-key-not-secret =
+    Предупреждение — действие фильтра «Зашифровывать ключом» заменяет получателей.
+    Если у вас нет секретного ключа для '{ $desc }', вы больше не сможете читать электронные письма.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Всегда расшифровывать (OpenPGP)
+filter-decrypt-copy-label = Создать расшифрованную копию (OpenPGP)
+filter-encrypt-label = Зашифровывать ключом (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Успешно! Ключи импортированы
+import-info-bits = Биты
+import-info-created = Создано
+import-info-fpr = Отпечаток
+import-info-details = Просмотреть подробности и управлять принятием ключа
+import-info-no-keys = Ключи не импортированы.
+# Strings in enigmailKeyManager.js
+import-from-clip = Вы хотите импортировать некоторые ключи из буфера обмена?
+import-from-url = Загрузите открытый ключ по этому URL:
+copy-to-clipbrd-failed = Не удалось скопировать выделенные ключи в буфер обмена.
+copy-to-clipbrd-ok = Ключи скопированы в буфер обмена
+delete-secret-key =
+    ПРЕДУПРЕЖДЕНИЕ: Вы собираетесь удалить секретный ключ!
+    
+    Если вы удалите свой секретный ключ, вы больше не сможете расшифровывать любые сообщения, зашифрованные для этого ключа, а также не сможете его отозвать.
+    
+    Вы действительно хотите удалить ОБА ключа, секретный и открытый
+    '{ $userId }'?
+delete-mix =
+    ПРЕДУПРЕЖДЕНИЕ: Вы собираетесь удалить секретные ключи!
+    Если вы удалите свой секретный ключ, вы больше сможете расшифровывать любые сообщения, зашифрованные для этого ключа.
+    Вы действительно хотите удалить ОБА ключа, секретный и открытый?
+delete-pub-key =
+    Вы хотите удалить открытый ключ
+    '{ $userId }'?
+delete-selected-pub-key = Вы хотите удалить открытые ключи?
+refresh-all-question = Вы не выбрали ни одного ключа. Хотите обновить ВСЕ ключи?
+key-man-button-export-sec-key = Экспорт &секретных ключей
+key-man-button-export-pub-key = Экспорт только &открытых ключей
+key-man-button-refresh-all = &Обновить все ключи
+key-man-loading-keys = Загрузка ключей, пожалуйста, подождите…
+ascii-armor-file = Защищённые файлы ASCII (*.asc)
+no-key-selected = Вы должны выбрать хотя бы один ключ, чтобы выполнить выбранную операцию
+export-to-file = Экспорт открытого ключа в файл
+export-keypair-to-file = Экспорт секретного и открытого ключа в файл
+export-secret-key = Вы хотите включить секретный ключ в сохранённый файл ключа OpenPGP?
+save-keys-ok = Ключи успешно сохранены
+save-keys-failed = Не удалось сохранить ключи
+default-pub-key-filename = Экспортированные_открытые_ключи
+default-pub-sec-key-filename = Резервная_копия_секретных_ключей
+refresh-key-warn = Предупреждение: в зависимости от числа ключей и скорости соединения обновление всех ключей может быть довольно длительным процессом!
+preview-failed = Не удалось прочитать файл с открытым ключом.
+general-error = Ошибка: { $reason }
+dlg-button-delete = &Удалить
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Открытый ключ успешно экспортирован!</b>
+openpgp-export-public-fail = <b>Невозможно экспортировать выбранный открытый ключ!</b>
+openpgp-export-secret-success = <b>Секретный ключ успешно экспортирован!</b>
+openpgp-export-secret-fail = <b>Невозможно экспортировать выбранный секретный ключ!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Ключ { $userId } (идентификатор ключа { $keyId }) отозван.
+key-ring-pub-key-expired = Срок действия ключа { $userId } (идентификатор ключа { $keyId }) истёк.
+key-ring-key-disabled = Ключ { $userId } (идентификатор ключа { $keyId }) отключён; его нельзя использовать.
+key-ring-key-invalid = Ключ { $userId } (идентификатор ключа { $keyId }) недействителен. Пожалуйста, рассмотрите возможность произвести правильную проверку.
+key-ring-key-not-trusted = К ключу { $userId } (идентификатор ключа { $keyId }) недостаточно доверия. Пожалуйста, установите уровень доверия вашего ключа в положение «окончательный», чтобы использовать его для подписи.
+key-ring-no-secret-key = У вас, судя по всему, нет секретного ключа для { $userId } (идентификатор ключа { $keyId }) в вашем наборе ключей; вы не сможете использовать ключ для подписи.
+key-ring-pub-key-not-for-signing = Ключ { $userId } (идентификатор ключа { $keyId }) нельзя использовать для подписи.
+key-ring-pub-key-not-for-encryption = Ключ { $userId } (идентификатор ключа { $keyId }) нельзя использовать для шифрования.
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     У вас нет ключа (0x{ $keyId }), который соответствует этому сертификату отзыва!!
