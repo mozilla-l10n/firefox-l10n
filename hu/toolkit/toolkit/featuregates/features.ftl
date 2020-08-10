@@ -53,6 +53,9 @@ experimental-features-css-focus-visible-description = Lehetővé teszi, hogy a f
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = A globális <a data-l10n-name="mdn-beforeinput">beforeinput</a> esemény <a data-l10n-name="mdn-input">&lt;input&gt;</a> és <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> elemeken tüzel, vagy bármilyen olyan elemen, amelyen engedélyezett a <a data-l10n-name="mdn-contenteditable">contenteditable</a> attribútum. Ez közvetlenül az elem értékének megváltozása előtt történik. Az esemény lehetővé teszi a webalkalmazásoknak, hogy felülírják a böngésző alapértelmezett viselkedését a felhasználói interakcióknál, például a webalkalmazások megszakíthatják a felhasználói bemenetet bizonyos karakterek esetén, vagy módosíthatják a beillesztett szöveg stílusát, a megengedett stílusoknak megfelelően.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
