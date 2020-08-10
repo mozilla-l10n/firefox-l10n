@@ -31,6 +31,7 @@
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!ENTITY usernameEx.placeholder          "YOURDOMAIN\yourusername">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Вход в домейн">
 
 <!ENTITY protocol.label                  "Протокол:">
 <!ENTITY imapLong.label                  "IMAP (отдалечени папки)">
@@ -111,6 +112,7 @@
 <!ENTITY changeSettings.label            "Промяна на настройките">
 <!ENTITY changeSettings.accesskey        "н">
 
+<!ENTITY contactYourProvider.description "&brandShortName; ви дава възможност да получавате пощата си с помощта на дадените настройки. Въпреки това се свържете с вашия администратор или доставчик относно тези неправилни връзки. За повече информация вижте ЧЗВ на Thunderbird.">
 
 <!ENTITY insecureServer.tooltip.title    "Внимание! Това е незащитен сървър.">
 <!ENTITY insecureServer.tooltip.details  "Щракнете на кръгчето за подробности.">
