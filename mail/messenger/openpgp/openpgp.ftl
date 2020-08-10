@@ -292,6 +292,31 @@ cannot-encrypt-because-missing = Impossible d’envoyer ce message avec un chiff
 window-locked = La fenêtre de rédaction est verrouillée ; envoi annulé
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Partie de message chiffré
+mime-decrypt-encrypted-part-concealed-data = Il s’agit d’une partie d’un message chiffré. Vous devez l’ouvrir dans une fenêtre séparée en cliquant sur la pièce jointe.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Abandon
+keyserver-error-unknown = Une erreur inconnue est survenue
+keyserver-error-server-error = Le serveur de clés a signalé une erreur.
+keyserver-error-import-error = Échec de l’importation de la clé téléchargée.
+keyserver-error-unavailable = Le serveur de clés n’est pas disponible.
+keyserver-error-security-error = Le serveur de clés ne prend pas en charge l’accès chiffré.
+keyserver-error-certificate-error = Le certificat du serveur de clés n’est pas valide.
+keyserver-error-unsupported = Le serveur de clés n’est pas pris en charge.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Votre fournisseur de messagerie a traité votre demande d’envoi de votre clé publique vers l’annuaire de clés web (WKD) d’OpenPGP.
+    Veuillez confirmer pour terminer la publication de votre clé publique.
+wkd-message-body-process =
+    Ce courriel est relatif au traitement automatique pour l’envoi de votre clé publique vers l’annuaire de clés web (WKD) d’OpenPGP.
+    Vous n’avez aucune action manuelle à effectuer pour l’instant.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Impossible de déchiffrer le message dont le sujet est
+    « { $subject } ».
+    Voulez-vous recommencer avec une phrase de passe différente ou plutôt ignorer ce message ?
+# Strings in gpg.jsm
+unknown-signing-alg = Algorithme de signature inconnu (Identifiant : { $id })
+unknown-hash-alg = Empreinte cryptographique inconnue (Identifiant : { $id })
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     { $days ->
@@ -301,6 +326,15 @@ expiry-key-expires-soon =
        *[other]
             Votre clé { $desc } va expirer dans moins de { $days } jours.
             Nous vous recommandons de créer une nouvelle paire de clés et de configurer les comptes associés pour l’utiliser.
+    }
+expiry-keys-expire-soon =
+    { $days ->
+        [one]
+            Les clés suivantes vont expirer dans moins d’un jour : { $desc }.
+            Nous vous recommandons de créer de nouvelles paires de clés et de configurer les comptes associés pour les utiliser.
+       *[other]
+            Les clés suivantes vont expirer dans moins de { $days } jours : { $desc }.
+            Nous vous recommandons de créer de nouvelles paires de clés et de configurer les comptes associés pour les utiliser.
     }
 
 ## Account settings export output
