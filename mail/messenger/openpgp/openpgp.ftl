@@ -88,6 +88,7 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Oppdag nøklar på nettet
     .accesskey = O
+openpgp-key-man-discover-prompt = Skriv inn ei e-postadresse eller ein nøkkel-ID for å oppdage OpenPGP-nøklar på nettet, på nøkkelserverar eller ved å bruke WKD-protokollen,
 openpgp-key-man-discover-progress = Søkjer…
 openpgp-key-copy-key =
     .label = Kopier offentleg nøkkel
@@ -279,10 +280,15 @@ key-does-not-expire = Nøkkelen går ikkje ut
 key-expired-date = Nøkkelen gjekk ut den { $keyExpiry }
 key-expired-simple = Nøkkelen har gått ut
 key-revoked-simple = Nøkkelen vart tilbakekalla
+key-do-you-accept = Godtar du denne nøkkelen for å stadfeste digitale signaturar og for å kryptere meldingar?
 key-accept-warning = Unngå å akseptere ein useriøs lurenøkkel. Bruk ein annan kommunikasjonskanal enn e-post for å stadfeste fingeravtrykket på nøkkelen til korrespondenten din.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Klarte ikkje å sende meldinga, fordi det er eit problem med den personlege nøkkelen din. { $problem }
+cannot-encrypt-because-missing = Klarte ikkje å sende denne meldinga med ende-til-ende-kryptering, fordi det er problem med nøklane til følgjande mottakarar: { $problem }
 window-locked = Meldingsvindauge er låst; sending avbroten
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Kryptert meldingsdel
+mime-decrypt-encrypted-part-concealed-data = Dette er ein kryptert meldingsdel. Du må opne det i eit eige vindauge ved å klikke på vedlegget.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Avbrote
 keyserver-error-unknown = Det oppstod ein ukjend feil
@@ -292,6 +298,10 @@ keyserver-error-unavailable = Nøkkelserveren er ikkje tilgjengeleg.
 keyserver-error-security-error = Nøkkelserveren støttar ikkje kryptert tilgang.
 keyserver-error-certificate-error = Sertifikatet til nøkkelserverens er ikkje gyldig.
 keyserver-error-unsupported = Nøkkelserveren er ikkje støtta.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    E-postleverandøren din behandla førespurnaden din om å laste opp den offentlege nøkkelen til OpenPGP Web Key Directory.
+    Stadfest for å fullføre publiseringa av den offentlige nøkkelen din.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Klarte ikkje å dekryptere meldinga med emnet
