@@ -33,6 +33,7 @@ openpgp-generate-key =
     .tooltiptext = Genererer ein ny OpenPGP-kompatibel nøkkel for kryptering og/eller signering
 openpgp-advanced-prefs-button-label =
     .label = Avansert…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">Merk: Nøkkelgenerering kan ta opptil fleire minutt å fullføre.</a> Ikkje avslutt applikasjonen mendan nøkkelgenereringa er i gang. Dersom du aktivt surfar eller utfører diskintensive operasjonar under ei nøkkelgenerering, vil det fylle opp «randomness pool»-en og gjere prosessen raskare. Du vert varsla når nøkkelgenereringa er fullført.
 openpgp-key-expiry-label =
     .label = Går ut
 openpgp-key-id-label =
