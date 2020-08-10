@@ -86,7 +86,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Mae cw
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = about:home storfa cychwyn
+    .label = about:home startup cache
 experimental-features-abouthome-startup-cache-description = Storfa ar gyfer y ddogfen gychwynnol about:home sy'n cael ei llwytho yn ragosodedig wrth gychwyn. Pwrpas y storfa yw gwella perfformiad cychwyn.
 experimental-features-print-preview-tab-modal =
     .label = Ailgynllunio'r Rhagolwg Argraffu
