@@ -431,15 +431,26 @@ key-man-button-generate-key-continue = Kulcselőállítás &folytatása
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Hiba – a visszafejtés sikertelen
 fix-broken-exchange-msg-failed = Az üzenet javítása nem sikerült.
+attachment-no-match-from-signature = Nem sikerült egyeztetni a(z) „{ $attachment }” aláírási fájlt egy melléklettel
+attachment-no-match-to-signature = Nem sikerült egyeztetni a(z) „{ $attachment }” mellékletet egy aláírási fájllal
+signature-verified-ok = A(z) { $attachment } melléklet aláírása sikeresen ellenőrizve lett
+signature-verify-failed = A(z) { $attachment } melléklet aláírását nem lehetett ellenőrizni
+decrypt-ok-no-sig =
+    Figyelem
+    A visszafejtés sikeres volt, de az aláírást nem lehetett helyesen ellenőrizni
+msg-ovl-button-cont-anyway = &Folytatás mindenképp
+enig-content-note = *Az üzenet mellékletei nem lettek aláírva, sem titkosítva*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = Üzenet &küldése
 msg-compose-details-button-label = Részletek…
 msg-compose-details-button-access-key = R
 send-aborted = A küldési művelet megszakítva.
+key-not-trusted = A(z) „{ $key }” nem elég megbízható
 key-not-found = A(z) „{ $key }” kulcs nem található
 key-revoked = A(z) „{ $key }” kulcs visszavonva
 key-expired = A(z) „{ $key }” kulcs lejárt
 msg-compose-internal-error = Belső hiba történt.
+keys-to-export = Válassza ki az importálandó OpenPGP-kulcsokat
 dlg-button-ok = &Rendben
 dlg-button-close = &Bezárás
 dlg-button-cancel = &Mégse
