@@ -424,10 +424,46 @@ keyring-photo = Фото
 user-att-photo = Атрибут пользователя (изображение JPEG)
 # Strings in key.jsm
 already-revoked = Этот ключ уже был отозван.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Вы собираетесь отозвать ключ '{ $identity }'.
+    Вы больше не сможете подписывать сообщения с помощью этого ключа, и после распространения сведений об отзыве другие не смогут более шифровать на этот ключ. Вы всё ещё сможете использовать этот ключ для расшифровки старых сообщений.
+    Вы хотите продолжить?
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     У вас нет ключа (0x{ $keyId }), который соответствует этому сертификату отзыва!!
     Если вы потеряли свой ключ, вы должны импортировать его (например, с сервера ключей) перед импортом сертификата отзыва!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Ключ 0x{ $keyId } уже был отозван.
+key-man-button-revoke-key = &Отозвать ключ
+openpgp-key-revoke-success = Ключ успешно отозван.
+after-revoke-info =
+    Ключ был отозван.
+    Поделитесь этим открытым ключом снова, отправив по электронной почте или выгрузив его на сервера ключей, чтобы сообщить другим, что вы отозвали свой ключ.
+    Как только программное обеспечение, используемое другими людьми, узнает об отзыве, оно прекратит использовать ваш старый ключ.
+    Если вы используете новый ключ для того же адреса электронной почты и прикрепляете новый открытый ключ к отправляемым сообщениям электронной почты, информация о вашем отозванном старом ключе будет автоматически включена.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Импортировать
+delete-key-title = Удалить ключ OpenPGP
+delete-external-key-title = Удалить внешний ключ GnuPG
+delete-external-key-description = Вы хотите удалить этот идентификатор внешнего ключа GnuPG?
+key-in-use-title = Ключ OpenPGP сейчас используется
+delete-key-in-use-description = Обработка невозможна! Выбранный вами для удаления ключ в настоящее время используется этой учётной записью. Выберите другой ключ или не выберите ни одного ключа и попробуйте снова.
+revoke-key-in-use-description = Обработка невозможна! Выбранный вами для отзыва ключ в настоящее время используется этой учётной записью. Выберите другой ключ или не выберите ни одного ключа и попробуйте снова.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Адрес электронной почты '{ $keySpec }' не может быть сопоставлен с ключом в вашей связке.
+key-error-key-id-not-found = Сконфигурированный идентификатор ключа '{ $keySpec }' не найден в вашей связке.
+key-error-not-accepted-as-personal = Вы не подтвердили, что ключ с идентификатором '{ $keySpec }' является вашим личным ключом.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Выбранная вами функция недоступна в автономном режиме. Пожалуйста, подключитесь к Интернету и попробуйте снова.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Мы не смогли найти ключ, соответствующий заданным критериям поиска.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Ошибка — Команда извлечения ключа не выполнена
+# Strings used in keyRing.jsm
+fail-cancel = Ошибка — Получение ключа отменено пользователем
+not-first-block = Ошибка — Первый блок OpenPGP не является блоком открытого ключа
+import-key-confirm = Импортировать открытые ключи, встроенные в сообщение?
 import-rev-file = Импорт файла отзыва OpenPGP
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Создать и сохранить сертификат отзыва
