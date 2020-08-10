@@ -88,6 +88,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = Bộ nhớ đệm tự chạy của about:home
 experimental-features-abouthome-startup-cache-description = Một bộ nhớ đệm cho tài liệu about:home được tải theo mặc định khi khởi động. Mục đích của bộ nhớ đệm là cải thiện hiệu suất khởi động.
+experimental-features-print-preview-tab-modal =
+    .label = Thiết kế lại bản xem trước khi in
+experimental-features-print-preview-tab-modal-description = Giới thiệu bản xem trước bản in được thiết kế lại và cung cấp bản xem trước bản in trên macOS. Điều này có khả năng gây ra vỡ và không bao gồm tất cả các cài đặt liên quan đến in. Để truy cập tất cả các cài đặt liên quan đến in, hãy chọn “In bằng hộp thoại hệ thống…” từ trong bảng In.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
