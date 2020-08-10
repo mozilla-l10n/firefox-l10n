@@ -55,6 +55,7 @@ category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
 pane-experimental-subtitle = Ves con cuenta!
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: Ves con cuenta
+pane-experimental-description = Lo cambio d'as preferencias de configuración abanzadas puede afectar a lo rendimiento u la seguranza de { -brand-short-name }.
 help-button-label = Soporte de { -brand-short-name }
 addons-button-label = Extensions y temas
 focus-search =
@@ -378,6 +379,14 @@ update-pref-write-failure-title = Fallo d'escritura
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = No se puede alzar esta configuación. No s'ha puesto escribir en o fichero: { $path }
 update-setting-write-failure-title = Error en alzar als preferencias d'actualización
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } ha trobau una error y no ha alzau este cambio. Para cuenta que pa cambiar esta configuración s'ha de poder escribir en o fichero d'abaixo. Tu, u bell administrador de sistema podetz resolver esta error permitiendo a lo grupo d'Usuarios lo control total d'este fichero.
+    
+    No s'ha puesto escribir en: { $path }
 update-in-progress-title = Actualización en curso
 update-in-progress-message = Quiers que { -brand-short-name } contine con esta actualización?
 update-in-progress-ok-button = &Descartar
@@ -958,6 +967,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizau
     .accesskey = P
+content-blocking-standard-desc = Equilibrau entre protección y rendimiento. Permite bell elemento de seguimiento pa que los webs funcionen bien.
 content-blocking-strict-description = Una protección mas fuerte, pero podría causar que bell puesto no funcione bien.
 content-blocking-custom-desc = Triga qué quiers blocar
 content-blocking-private-trackers = Elementos de seguimiento conoixius, nomás en a finestras privadas
@@ -994,7 +1004,9 @@ content-blocking-all-third-party-cookies = Totas las cookies de tercers
 content-blocking-cryptominers = Criptominers
 content-blocking-fingerprinters = Ditaladas dichitals
 content-blocking-warning-title = Atención!
+content-blocking-warning-description = Lo bloqueyo de conteniu puede fer que bella pachina no funcione bien. Ye facil desactivar lo bloqueyo pa las pachinas que i confías.
 content-blocking-learn-how = Aprende cómo
+content-blocking-and-isolating-etp-warning-description = Lo bloqueyo d'elementos de seguimiento y l'aíslamiento de cookies podrían afectar a la funcionalidat de bell puesto. Recarga la pachina con elementos de seguimiento pa cargar tot lo conteniu.
 content-blocking-warning-learn-how = Aprende cómo
 content-blocking-reload-description = Habrás de recargar las tuyas pestanyas pa aplicar estes cambios.
 content-blocking-reload-tabs-button =
@@ -1093,6 +1105,7 @@ permissions-a11y-privacy-link = Saber-ne mas
 collection-header = Replega de datos y uso de { -brand-short-name }
 collection-description = Nos esforzamos pa dar-te opcions y replegar nomás lo que necesitamos pa ofrir y amillorar  { -brand-short-name } pa totz. Siempre demandamos permiso antes de recibir información personal.
 collection-privacy-notice = Nota sobre privacidat
+collection-health-report-telemetry-disabled = Ya no permites que { -vendor-short-name } obtienga datos tecnicos y d'interacción. Totz los datos anteriors se borrarán en 30 días.
 collection-health-report-telemetry-disabled-link = Saber-ne mas
 collection-health-report =
     .label = Permitir que { -brand-short-name } ninvie datos tecnicos y d'interacción ta { -vendor-short-name }
@@ -1101,6 +1114,8 @@ collection-health-report-link = Saber-ne mas
 collection-studies =
     .label = Permitir que { -brand-short-name } instale y execute estudios
 collection-studies-link = Veyer estudios de { -brand-short-name }
+addon-recommendations =
+    .label = Permite que { -brand-short-name } faga recomendacions d'extensión personalizadas
 addon-recommendations-link = Saber-ne mas
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -1174,10 +1189,21 @@ space-alert-under-5gb-message = { -brand-short-name } se ye quedando sin espacio
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo nomás HTTPS
+httpsonly-description = HTTPS permite una connexión segura, encriptada entre { -brand-short-name } y las pachinas web que vesitas. La mayor parte d'os web funcionan con HTTPS, y si s'activa lo modo Nomás-HTTPS, { -brand-short-name } pasará totas las connexions a HTTPS.
 httpsonly-learn-more = Saber-ne mas
+httpsonly-radio-enabled =
+    .label = Activar lo modo Nomás-HTTPS en totas las finestras
+httpsonly-radio-enabled-pbm =
+    .label = Activar lo modo Nomás-HTTPS nomás en as finestras privadas
+httpsonly-radio-disabled =
+    .label = No activar lo modo Nomás-HTTPS
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Trigar a carpeta de descargas:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Alzar fichers en { $service-name }
