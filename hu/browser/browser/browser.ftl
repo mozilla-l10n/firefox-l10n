@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Keresés vagy cím
 urlbar-placeholder =
     .placeholder = Keresés vagy cím
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Keressen a(z) { $name } keresővel vagy adjon meg egy címet
 urlbar-remote-control-notification-anchor =
     .tooltiptext = A böngészőt távolról irányítják
 urlbar-permissions-granted =
