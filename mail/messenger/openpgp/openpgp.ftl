@@ -507,7 +507,7 @@ decrypt-ok-no-sig =
     Advarsel
     Dekryptering var vellykket, men signaturen kunne ikke bekreftes riktig
 msg-ovl-button-cont-anyway = &Fortsett likevel
-enig-content-note = *Vedlegg til denne meldingen er ikke signert eller kryptert*
+enig-content-note = *Vedlegg til denne meldingen er ikke signerte eller krypterte*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Send melding
 msg-compose-details-button-label = Detaljer…
