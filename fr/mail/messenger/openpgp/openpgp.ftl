@@ -444,3 +444,30 @@ revoke-key-not-present =
 revoke-key-already-revoked = La clé 0x{ $keyId } a déjà été révoquée.
 key-man-button-revoke-key = &Révoquer la clé
 openpgp-key-revoke-success = La clé a été révoquée.
+after-revoke-info =
+    La clé a été révoquée.
+    Partagez à nouveau cette clé publique, en l’envoyant par courriel ou sur des serveurs de clés, pour informer les autres personnes que vous avez révoqué votre clé.
+    Dès que les logiciels utilisés par les autres personnes auront eu connaissance de la révocation, ils cesseront d’utiliser votre ancienne clé.
+    Si vous utilisez une nouvelle clé pour la même adresse électronique et que vous attachez la nouvelle clé publique aux courriels que vous envoyez, des informations à propos de votre ancienne clé révoquée seront automatiquement incluses.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importer
+delete-key-title = Supprimer la clé OpenPGP
+delete-external-key-title = Supprimer la clé GnuPG externe
+delete-external-key-description = Voulez-vous supprimer cet identifiant de clé GnuPG externe ?
+key-in-use-title = Clé OpenPGP en cours d’utilisation
+delete-key-in-use-description = Impossible de poursuivre. La clé que vous souhaitez supprimer est actuellement utilisée par cette identité. Sélectionnez une autre clé, ou sélectionnez « Aucune », et essayez à nouveau.
+revoke-key-in-use-description = Impossible de poursuivre. La clé que vous souhaitez révoquer est actuellement utilisée par cette identité. Sélectionnez une autre clé, ou sélectionnez « Aucune », et essayez à nouveau.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = L’adresse électronique « { $keySpec } » ne correspond à aucune clé de votre trousseau.
+key-error-key-id-not-found = L’identifiant de clé « { $keySpec } » configuré ne se trouve pas dans votre trousseau.
+key-error-not-accepted-as-personal = Vous n’avez pas confirmé que la clé avec l’identifiant « { $keySpec } » est votre clé personnelle.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = La fonction que vous avez sélectionnée n’est pas disponible en mode hors connexion. Veuillez vous connecter et réessayer.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Nous n’avons trouvé aucune clé correspondant aux critères de recherche spécifiés.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Erreur – échec de la commande d’extraction de clé
+# Strings used in keyRing.jsm
+fail-cancel = Erreur — réception de clé annulée par l’utilisateur
+not-first-block = Erreur — le premier bloc OpenPGP n’est pas un bloc de clé publique
+import-key-confirm = Importer la ou les clés publiques incluses dans le message ?
