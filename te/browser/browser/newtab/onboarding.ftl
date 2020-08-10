@@ -45,14 +45,22 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span>కి స్వాగతం
+onboarding-multistage-welcome-primary-button-label = అమర్పు మొదలుపెట్టు
+onboarding-multistage-welcome-secondary-button-label = ప్రవేశించు
 onboarding-multistage-welcome-secondary-button-text = ఖాతా ఉందా?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = మీ సంకేతపదాలను, ఇష్టాంశాలను <br/>, ఇంకా <span data-l10n-name="zap">మరెన్నిటినో</span> దిగుమతి చేసుకోండి
 onboarding-multistage-import-primary-button-label = దిగుమతిని మొదలుపెట్టు
 onboarding-multistage-import-secondary-button-label = ఇప్పుడు కాదు
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = ఒక <span data-l10n-name="zap">రూపం</span> ఎంచుకోండి
+onboarding-multistage-theme-subtitle = ఒక అలంకారంతో { -brand-short-name }‌ని వ్యక్తిగతీకరించుకోండి.
 onboarding-multistage-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
 onboarding-multistage-theme-secondary-button-label = ఇప్పుడు కాదు
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = స్వయంచాలకం
 # System refers to the operating system
 onboarding-multistage-theme-description-automatic = వ్యవస్థ అలంకారం వాడు
 onboarding-multistage-theme-label-light = తెల్లని
@@ -122,9 +130,11 @@ onboarding-lockwise-passwords-button2 = అనువర్తనాన్ని 
 onboarding-lockwise-strong-passwords-button = మీ ప్రవేశాలను నిర్వహించుకోండి
 onboarding-facebook-container-title = ఫేస్‌బుక్‌కి హద్దులు గీయండి
 onboarding-facebook-container-button = పొడగింతను చేర్చు
+onboarding-import-browser-settings-button = క్రోమ్ డేటాను దిగుమతి చేయి
 onboarding-personal-data-promise-button = మా వాగ్దానాన్ని చదవండి
 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = అద్భుతం, మీరు { -brand-short-name }‌ను తెచ్చుకున్నారు
+return-to-amo-extension-button = పొడగింతను చేర్చు
 return-to-amo-get-started-button = { -brand-short-name }తో మెదలుపెట్టండి

@@ -104,6 +104,7 @@ cfr-whatsnew-tracking-blocked-title =
         [one] ట్రాకరు నిరోధించబడింది
        *[other] ట్రాకర్లు నిరోధించబడ్డాయి
     }
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } నుండి
 cfr-whatsnew-tracking-blocked-link-text = నివేదికను చూడండి
 cfr-whatsnew-lockwise-backup-title = మీ సంకేతపదాలను బ్యాకప్ తీసుకోండి
 cfr-whatsnew-lockwise-backup-link-text = బ్యాకప్‌లను చేతనించండి
@@ -173,6 +174,7 @@ cfr-doorhanger-socialtracking-close-button = మూసివేయి
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = ఇలాంటి సందేశాలను నాకు మళ్ళీ చూపించకు
     .accesskey = D
+cfr-doorhanger-socialtracking-heading = ఇక్కడ మిమ్మల్ని ట్రాక్ చేయకుండా ఒక సామాజిక నెట్‌వర్క్‌ని { -brand-short-name } ఆపివేసింది
 cfr-doorhanger-fingerprinters-heading = ఈ పేజీలో ఒక పింగర్‌ప్రింటర్ని { -brand-short-name } నిరోధించింది
 cfr-doorhanger-cryptominers-heading = ఈ పేజీలో ఒక క్రిప్టోమైనరును { -brand-short-name } నిరోధించింది
 
