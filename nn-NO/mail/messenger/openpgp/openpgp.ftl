@@ -369,7 +369,7 @@ delete-secret-key =
     Vil du verkeleg slette BÅDE, den hemmelege nøkkelen og den offentlige nøkkelen
     «{ $userId }»?
 delete-mix =
-    ÅTVARING: Du er i ferd med å slette hemmelEge nøklAr!
+    ÅTVARING: Du er i ferd med å slette hemmelege nøklar!
     Dersom du slettar den hemmelege nøkkelen din, vil du ikkje lenger kunne dekryptere meldingar som er krypterte for den nøkkelen.
     Vil du verkeleg slette BÅDE, dei valde hemmelege og offentlege nøklane?
 delete-pub-key =
