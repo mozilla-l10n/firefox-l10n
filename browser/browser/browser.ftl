@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
 urlbar-placeholder =
     .placeholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Tìm kiếm với { $name } hoặc nhập địa chỉ
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Trình duyệt đang ở trong chế độ truy cập từ xa
 urlbar-permissions-granted =
