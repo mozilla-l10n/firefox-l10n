@@ -432,6 +432,11 @@ passphrase-prompt = Skriv inn passordfrasa som låser opp følgjande nøkkel: { 
 file-to-big-to-import = Denne fila er for stor. Ikkje importer eit stort sett med nøklar på ein gong.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Lag og lagre tilbakekallingssertifikat
+revoke-cert-failed = Klarte ikkje å lage tilbakekallingssertifikatet.
+gen-going = Nøkkelgenerering er allereie i gang!
+expiry-too-short = Nøkkelen din må vere gyldig i minst ein dag.
+expiry-too-long = Du kan ikkje lage ein nøkkel som går ut seinare enn 100 år.
+key-confirm = Generere ein offentlig og hemmeleg nøkkel for «{ $id }»?
 key-man-button-generate-key = &Generer nøkkel
 key-abort = Avbryte nøkkelgenerering?
 key-man-button-generate-key-abort = &Avbryt nøkkelgenerering
@@ -439,6 +444,8 @@ key-man-button-generate-key-continue = &Fortset nøkkelgenerering
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Feil - mislykka dekryptering
 fix-broken-exchange-msg-failed = Klarte ikkje å reparere meldinga.
+attachment-no-match-from-signature = Klarte ikkje å samsvare signaturfilen «{ $attachment }» til eit vedlegg
+attachment-no-match-to-signature = Klarte ikkje å samsvare vedlegg «{ $attachment }» til ei signaturfil
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Send melding
 msg-compose-details-button-label = Detaljar…
@@ -458,10 +465,22 @@ error-photo-path-not-readable = Klarer ikkje å lese fotostien «{ $photo }»
 debug-log-title = OpenPGP-feilsøkingslogg
 # Strings used in dialog.jsm
 repeat-prefix = Dette varselet vert repetert { $count }
+repeat-suffix-singular = gong til.
+repeat-suffix-plural = gongar til.
+no-repeat = Dette varselet vert ikkje vist meir.
+dlg-keep-setting = Hugs svaret mitt, og ikkje spør meg meir
 dlg-button-ok = &OK
 dlg-button-close = &Lat att
 dlg-button-cancel = &Avbryt
 dlg-no-prompt = Ikkje vis denne dialogruta fleire gongar
+enig-prompt = OpenPGP Prompt
+enig-confirm = OpenPGP-stadfesting
+enig-alert = OpenPGP-varsel
+enig-info = OpenPGP-informasjon
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Prøv igjen
 dlg-button-skip = &Hopp over
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP-feil
+enig-alert-title =
+    .title = OpenPGP-varsel
