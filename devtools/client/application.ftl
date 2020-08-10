@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Depurar
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Iniciar
     .title = Solo puedes iniciar service workers si multi e10s es desactivado
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Inspeccionar
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Iniciar
