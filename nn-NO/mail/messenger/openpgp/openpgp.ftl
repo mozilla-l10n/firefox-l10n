@@ -411,6 +411,7 @@ not-first-block = Feil - Første OpenPGP-blokk ikkje offentleg nøkkelblokk
 import-key-confirm = Vil du importere den offentlege nøkkelen innebygd i meldinga?
 fail-key-import = Feil - import av nøkkel feila
 file-write-failed = Klarte ikkje å skrive til fila { $output }
+no-pgp-block = Feil - Inga gyldig, armert OpenPGP-datablokk funnen
 # Strings used in trust.jsm
 key-valid-unknown = ukjend
 key-valid-invalid = ugyldig
@@ -428,6 +429,9 @@ import-rev-file = Importer OpenPGP-tilbakekallingsfil
 gnupg-file = GnuPG-filer
 import-keys-failed = Mislykka importering av nøklane
 passphrase-prompt = Skriv inn passordfrasa som låser opp følgjande nøkkel: { $key }
+file-to-big-to-import = Denne fila er for stor. Ikkje importer eit stort sett med nøklar på ein gong.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Lag og lagre tilbakekallingssertifikat
 key-man-button-generate-key = &Generer nøkkel
 key-abort = Avbryte nøkkelgenerering?
 key-man-button-generate-key-abort = &Avbryt nøkkelgenerering
@@ -450,6 +454,10 @@ dlg-button-view = &Vis
 not-required = Feil - inga kryptering påkravd
 # Strings used in windows.jsm
 no-photo-available = Ingen foto tilgjengelege
+error-photo-path-not-readable = Klarer ikkje å lese fotostien «{ $photo }»
+debug-log-title = OpenPGP-feilsøkingslogg
+# Strings used in dialog.jsm
+repeat-prefix = Dette varselet vert repetert { $count }
 dlg-button-ok = &OK
 dlg-button-close = &Lat att
 dlg-button-cancel = &Avbryt
