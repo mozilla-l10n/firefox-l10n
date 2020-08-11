@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Impussibel da verifitgar quest certificat, pe
 cert-not-verified-ca-invalid = Impussibel da verifitgar quest certificat, perquai ch'il certificat CA è nunvalid.
 cert-not-verified_algorithm-disabled = Impussibel da verifitgar quest certificat perquai ch'el è vegnì suttascrit cun in algoritmus da suttascriver ch'è vegnì deactivà perquai che quest algoritmus n'è betg segir.
 cert-not-verified-unknown = Impussibel da verifitgar quest certificat per motivs nunenconuschents.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Na trametter nagin certificat da client
 
 ## Add Security Exception dialog
 
