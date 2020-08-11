@@ -327,6 +327,10 @@ expiry-keys-expire-soon =
 expiry-key-missing-owner-trust =
     L’affidabilità non è specificata per la chiave privata { $desc }.
     Impostare “assoluta” nelle proprietà della chiave alla voce “Affidabilità certificati”.
+expiry-keys-missing-owner-trust =
+    L’affidabilità non è specificata per le seguenti chiavi segrete.
+    { $desc }.
+    Impostare “assoluta” nelle proprietà della chiave alla voce “Affidabilità certificati”.
 expiry-open-key-manager = Apri il gestore delle chiavi OpenPGP
 expiry-open-key-properties = Apri le proprietà della chiave
 # Strings filters.jsm
@@ -449,6 +453,7 @@ key-valid-expired = scaduta
 key-trust-untrusted = non attendibile
 key-trust-marginal = marginale
 key-trust-full = attendibile
+key-trust-ultimate = assoluta
 key-trust-group = (gruppo)
 # Strings used in commonWorkflows.js
 import-key-file = Importa file chiave OpenPGP
@@ -472,6 +477,14 @@ attachment-no-match-from-signature = Impossibile associare il file della firma �
 attachment-no-match-to-signature = Impossibile associare l’allegato “{ $attachment }” a un file della firma
 signature-verified-ok = La firma per l’allegato { $attachment } è stata verificata correttamente
 signature-verify-failed = La firma per l’allegato { $attachment } non può essere verificata
+key-not-trusted = Affidabilità non sufficiente per la chiave “{ $key }”
+keys-to-export = Seleziona chiavi OpenPGP da inserire
+quoted-printable-warn =
+    È stata attivata la codifica “quoted-printable” per l'invio dei messaggi. Questo potrebbe causare errori durante la decrittazione o la verifica del messaggio.
+    Disattivare l’invio di messaggi “quoted-printable”?
+minimal-line-wrapping =
+    Il ritorno a capo è impostato a { $width } caratteri. Per crittare o firmare correttamente, questo valore deve essere di almeno 68 caratteri.
+    Impostare il ritorno a capo a 68 caratteri?
 sending-hidden-rcpt = Quando si invia un messaggio crittato non è possibile utilizzare destinatari in Ccn (Copia conoscenza nascosta). Per inviare questo messaggio crittato, rimuovere i destinatari Ccn o spostarli nel campo Cc.
 sending-news =
     Operazione di invio crittato interrotta.
