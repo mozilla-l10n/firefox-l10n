@@ -487,7 +487,11 @@ signature-verify-failed = La firma per l’allegato { $attachment } non può ess
 msg-compose-details-button-label = Dettagli…
 msg-compose-details-button-access-key = D
 key-not-trusted = Affidabilità non sufficiente per la chiave “{ $key }”
+key-not-found = Chiave “{ $key }” non trovata
+key-revoked = Chiave “{ $key }” revocata
+key-expired = Chiave “{ $key }” scaduta
 keys-to-export = Seleziona chiavi OpenPGP da inserire
+msg-compose-cannot-save-draft = Errore durante il salvataggio della bozza
 quoted-printable-warn =
     È stata attivata la codifica “quoted-printable” per l'invio dei messaggi. Questo potrebbe causare errori durante la decrittazione o la verifica del messaggio.
     Disattivare l’invio di messaggi “quoted-printable”?
