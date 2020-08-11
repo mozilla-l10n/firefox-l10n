@@ -55,3 +55,12 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Eñeha’
 inactive-css-not-display-block-on-floated-fix = Embogue <strong>vevúiva</strong> térã embojuaju <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Eñeha’ã emboheko <strong>rendatee</strong> mba’éva tuichavéva <strong>opytáva</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Eñeha’ã embojuaju <strong>overflow:hidden</strong>. { learn-more }
+
+## In the Rule View when a CSS property may have compatibility issues with other browsers
+## we display an icon. When this icon is hovered this message is displayed to explain why
+## the property is incompatible and the platforms it is incompatible on.
+## Variables:
+##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
+##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
+
+css-compatibility-default-message = <strong>{ $property }</strong> ndorekói pytyvõ ko’ã kundaharape:
