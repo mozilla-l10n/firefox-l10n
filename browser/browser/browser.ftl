@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Cari atau masukkan alamat
 urlbar-placeholder =
     .placeholder = Cari atau masukkan alamat
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Cari lewat { $name } atau masukkan alamat
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Peramban dalam kendali jarak jauh
 urlbar-permissions-granted =
