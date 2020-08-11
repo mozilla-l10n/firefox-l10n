@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Ne eblis kontroli ĉi tiun atestilon ĉar la 
 cert-not-verified-ca-invalid = Ne eblis kontroli tiun ĉi atestilon ĉar la atestilo de la CA ne estas valida.
 cert-not-verified_algorithm-disabled = Ne eblis kontroli tiun ĉi atestilon ĉar ĝi estis subskribita per susbkriba algoritmo kiu ne plu estas aktiva ĉar ĝi ne estas sekura.
 cert-not-verified-unknown = Ne eblis kontroli ĉi tiun atestilon pro nekonataj kialoj.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Ne sendi klientan atestilon
 
 ## Add Security Exception dialog
 
