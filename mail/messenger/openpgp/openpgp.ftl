@@ -405,6 +405,7 @@ key-ring-pub-key-revoked = La chiave { $userId } (ID chiave { $keyId }) è stata
 key-ring-pub-key-expired = La chiave { $userId } (ID chiave { $keyId }) è scaduta.
 key-ring-key-disabled = La chiave { $userId } (ID chiave { $keyId }) è stata disattivata e non può essere utilizzata.
 key-ring-key-invalid = La chiave { $userId } (ID chiave { $keyId }) non è valida. Si consiglia di verificarla correttamente.
+key-ring-key-not-trusted = La chiave { $userId } (ID chiave { $keyId }) non ha un livello di sicurezza sufficiente. Impostare il livello di affidabilità su “assoluta” per la propria chiave se si desidera utilizzarla per la firma.
 key-ring-no-secret-key = Sembra che non si disponga della chiave segreta per { $userId } (ID chiave { $keyId }) nel proprio portachiavi; non è possibile utilizzare la chiave per firmare.
 key-ring-pub-key-not-for-signing = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per firmare.
 key-ring-pub-key-not-for-encryption = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per la crittografia.
@@ -509,6 +510,7 @@ do-import-multiple =
     { $key }
 do-import-one = Importare { $name } ({ $id })?
 cant-import = Errore durante l’importazione della chiave pubblica
+unverified-reply = La parte del messaggio soggetta a indentazione (risposta) è stata probabilmente modificata
 key-in-message-body = È stata trovata una chiave nel corpo del messaggio. Fare clic su “Importa chiave” per importare la chiave
 sig-mismatch = Errore: mancata corrispondenza della firma
 invalid-email = Errore: indirizzo email non valido
