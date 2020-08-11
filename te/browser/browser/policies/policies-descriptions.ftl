@@ -10,6 +10,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = అభిమత అనువర్తన తాజాకరణ URLను అమర్చు.
+policy-BlockAboutAddons = పొడగింతల నిర్వహణను (about:addons) చూడటాన్ని నిరోధించు.
 policy-BlockAboutConfig = about:onfig పేజీని చూడటాన్ని నిరోధించండి.
 policy-BlockAboutProfiles = about:profiles పేజీని చూడటాన్ని నిరోధించు.
 policy-BlockAboutSupport = about:support పేజీని చూడకుండా నిరోధించు.
@@ -17,6 +19,7 @@ policy-Cookies = వెబ్‌సైట్లు కుకీలను అమ�
 policy-DisableDeveloperTools = డెవలపర్ పనిముట్లను చూడటాన్ని నిరోధించండి.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox Screenshots సౌలభ్యాన్ని అచేతనించు.
+policy-DisableForgetButton = మర్చిపోయే బొత్తానికి ప్రాప్యతను నిరోధించు.
 policy-DisableFormHistory = వెతుకుడు, ఫారాల చరిత్రను గుర్తుపెట్టుకోవద్దు.
 policy-DisableMasterPasswordCreation = నిజమైతే, ప్రధాన సంకేతపదం సృష్టించలేరు.
 policy-DisablePocket = Pocketకు వెబ్‌పేజీలను భద్రపరిచే సౌలభ్యాన్ని అచేతనం చేయండి.
