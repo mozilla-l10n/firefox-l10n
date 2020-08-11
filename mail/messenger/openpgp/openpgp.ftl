@@ -181,9 +181,14 @@ openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
     .label = Dimensione
+openpgp-key-details-created-label =
+    .label = Data di creazione
+openpgp-key-details-created-header = Data di creazione
 openpgp-key-details-expiry-label =
     .label = Scadenza
 openpgp-key-details-expiry-header = Scadenza
+openpgp-key-details-usage-label =
+    .label = Uso
 openpgp-key-details-fingerprint-label = Impronta digitale
 openpgp-key-details-sel-action =
     .label = Seleziona azione...
@@ -319,13 +324,22 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     Le seguenti chiavi scadranno tra meno di { $days } giorni: { $desc }.
     Si consiglia di creare nuove chiavi e configurare gli account corrispondenti per utilizzarle.
+expiry-key-missing-owner-trust =
+    L’affidabilità non è specificata per la chiave privata { $desc }.
+    Impostare “assoluta” nelle proprietà della chiave alla voce “Affidabilità certificati”.
 expiry-open-key-manager = Apri il gestore delle chiavi OpenPGP
 expiry-open-key-properties = Apri le proprietà della chiave
 # Strings filters.jsm
 filter-folder-required = Selezionare la cartella di destinazione.
+filter-decrypt-move-warn-experimental =
+    Attenzione: l’azione del filtro “Decritta in modo permanente” può comportare il danneggiamento dei messaggi.
+    Si consiglia di provare prima il filtro “Crea copia decrittata”, verificando il risultato accuratamente, e solo dopo utilizzare questo filtro se il risultato corrisponde alle aspettative.
 filter-term-pgpencrypted-label = Crittato con OpenPGP
 filter-key-required = È necessario selezionare una chiave del destinatario.
 filter-key-not-found = Impossibile trovare una chiave di crittatura per “{ $desc }”.
+filter-warn-key-not-secret =
+    Attenzione: l’azione del filtro “Critta su chiave“ sostituisce i destinatari.
+    Se non si possiede la chiave segreta per “{ $desc }“ non sarà più possibile leggere le email.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Decritta in modo permanente (OpenPGP)
 filter-decrypt-copy-label = Crea copia decrittata (OpenPGP)
