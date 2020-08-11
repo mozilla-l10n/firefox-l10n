@@ -51,8 +51,15 @@ onboarding-multistage-welcome-secondary-button-text = ఖాతా ఉందా?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = మీ సంకేతపదాలను, ఇష్టాంశాలను <br/>, ఇంకా <span data-l10n-name="zap">మరెన్నిటినో</span> దిగుమతి చేసుకోండి
+onboarding-multistage-import-subtitle = మరో విహారిణి నుండి వస్తున్నారా? కావలసిన వాటన్నింటినీ { -brand-short-name }‌కి తెచ్చుకోవడం చాలా తేలిక.
 onboarding-multistage-import-primary-button-label = దిగుమతిని మొదలుపెట్టు
 onboarding-multistage-import-secondary-button-label = ఇప్పుడు కాదు
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = మొదలుపెట్టండి: { $total } తెరలలో { $current }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = ఒక <span data-l10n-name="zap">రూపం</span> ఎంచుకోండి
@@ -127,9 +134,11 @@ onboarding-pocket-anywhere-title = ఎక్కడైనా చదవండి, 
 onboarding-pocket-anywhere-button = { -pocket-brand-name }‌ని ప్రయత్నించండి
 onboarding-lockwise-passwords-title = మీ సంకేతపదాలను మీతో ఎక్కడికైనా తీసుకెళ్ళండి
 onboarding-lockwise-passwords-button2 = అనువర్తనాన్ని తెచ్చుకో
+onboarding-lockwise-strong-passwords-title = బలమైన సంకేతపదాలను సృష్టించుకోండి, భద్రపరుచుకోండి
 onboarding-lockwise-strong-passwords-button = మీ ప్రవేశాలను నిర్వహించుకోండి
 onboarding-facebook-container-title = ఫేస్‌బుక్‌కి హద్దులు గీయండి
 onboarding-facebook-container-button = పొడగింతను చేర్చు
+onboarding-import-browser-settings-title = మీ ఇష్టాంశాలు, సంకేతపదాలు, ఇంకా మరెన్నిటినో దిగుమతి చేసుకోండి
 onboarding-import-browser-settings-button = క్రోమ్ డేటాను దిగుమతి చేయి
 onboarding-personal-data-promise-button = మా వాగ్దానాన్ని చదవండి
 

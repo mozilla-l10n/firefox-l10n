@@ -124,6 +124,7 @@ cfr-whatsnew-pip-cta = ఇంకా తెలుసుకోండి
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = విసిగించే పాప్-అప్స్ తక్కువవుతాయి
 cfr-whatsnew-permission-prompt-cta = ఇంకా తెలుసుకోండి
 
 ## Fingerprinter Counter
@@ -159,6 +160,8 @@ cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name }ను చే�
 
 cfr-doorhanger-send-tab-header = ప్రయాణంలో ఉన్నప్పుడు దీన్ని చదవండి
 cfr-doorhanger-send-tab-recipe-header = ఈ రెసిపీని వంటగదికి తీసుకెళ్ళండి
+cfr-doorhanger-send-tab-ok-button = ట్యాబు పంపడాన్ని ప్రయత్నించండి
+    .accesskey = T
 
 ## Firefox Send
 
