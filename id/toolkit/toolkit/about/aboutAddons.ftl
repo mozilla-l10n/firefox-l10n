@@ -4,77 +4,56 @@
 
 addons-window =
     .title = Pengelola Pengaya
-
 addons-page-title = Pengelola Pengaya
-
 search-header =
     .placeholder = Cari addons.mozilla.org
     .searchbuttonlabel = Cari
-
 search-header-shortcut =
     .key = f
-
 loading-label =
     .value = Memuat…
-
 list-empty-installed =
     .value = Anda tidak memiliki pengaya terpasang jenis ini
-
 list-empty-available-updates =
     .value = Tidak ada versi baru ditemukan
-
 list-empty-recent-updates =
     .value = Anda masih belum memasang versi baru pengaya
-
 list-empty-find-updates =
     .label = Periksa Versi Baru
-
 list-empty-button =
     .label = Pelajari lebih lanjut tentang pengaya
-
 install-addon-from-file =
     .label = Pasang Pengaya dari Berkas…
     .accesskey = B
-
 help-button = Dukungan Pengaya
-
 sidebar-help-button-title =
     .title = Dukungan Pengaya
-
 preferences =
     { PLATFORM() ->
         [windows] Opsi { -brand-short-name }
        *[other] Preferensi { -brand-short-name }
     }
-
 tools-menu =
     .tooltiptext = Alat untuk semua pengaya
-
 sidebar-preferences-button-title =
     .title =
         { PLATFORM() ->
             [windows] Opsi { -brand-short-name }
            *[other] Preferensi { -brand-short-name }
         }
-
 show-unsigned-extensions-button =
     .label = Beberapa ekstensi tidak dapat diverifikasi
-
 show-all-extensions-button =
     .label = Tampilkan semua ekstensi
-
 debug-addons =
     .label = Debug Pengaya
     .accesskey = b
-
 cmd-show-details =
     .label = Tampilkan Informasi Lebih Lanjut
     .accesskey = i
-
 cmd-find-updates =
     .label = Temukan Versi Baru
     .accesskey = B
-
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -86,100 +65,71 @@ cmd-preferences =
             [windows] P
            *[other] P
         }
-
 cmd-enable-theme =
     .label = Gunakan Tema
     .accesskey = G
-
 cmd-disable-theme =
     .label = Berhenti Menggunakan Tema
     .accesskey = B
-
 cmd-install-addon =
     .label = Pasang
     .accesskey = P
-
 cmd-contribute =
     .label = Berkontribusi
     .accesskey = k
     .tooltiptext = Ikut berkontribusi pengembangan pengaya ini
-
 discover-title = Apa itu Pengaya?
-
 discover-description = Pengaya adalah aplikasi dapat Anda tambahkan pada { -brand-short-name } untuk menambahkan fungsionalitas atau tampilan ekstra yang berbeda. Coba gunakan bilah samping hemat waktu, pemberi kabar cuaca, atau tema yang sama sekali berbeda untuk { -brand-short-name } Anda.
-
 discover-footer = Jika Anda tersambung ke Internet, panel ini akan menampilkan pengaya unggulan dan populer yang dapat Anda coba.
-
 detail-version =
     .label = Versi
-
 detail-last-updated =
     .label = Terakhir Diperbarui
-
 detail-contributions-description = Pengembang pengaya ini memohon bantuan dukungan Anda untuk membantu kesinambungan pengembangan pengaya dengan memberikan kontribusi kecil.
-
 detail-contributions-button = Berkontribusi
     .title = Berkontribusi dalam pengembangan pengaya ini
     .accesskey = k
-
 detail-update-type =
     .value = Pemutakhiran Otomatis
-
 detail-update-default =
     .label = Bawaan
     .tooltiptext = Otomatis pasang pemutakhiran hanya jika pengaturan bawaan diatur demikian
-
 detail-update-automatic =
     .label = Aktif
     .tooltiptext = Otomatis memasang pemutakhiran
-
 detail-update-manual =
     .label = Mati
     .tooltiptext = Jangan otomatis memasang pemutakhiran
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Jalankan di Jendela Pribadi
-
 detail-private-browsing-description2 = Jika diizinkan, ekstensi akan memiliki akses ke aktivitas daring Anda saat menjelajah secara pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut </label>
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Tidak Diizinkan di Jendela Pribadi
 detail-private-disallowed-description = Ekstensi ini tidak berjalan saat penjelajahan pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut</label>
-
 detail-private-disallowed-description2 = Ekstensi ini tidak berjalan saat penjelajahan pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Membutuhkan Akses ke Jendela Pribadi
 detail-private-required-description = Ekstensi ini memiliki akses ke aktivitas daring Anda saat menjelajah pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut</label>
-
 detail-private-required-description2 = Ekstensi ini memiliki akses ke aktivitas daring Anda saat penjelajahan pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
-
 detail-private-browsing-on =
     .label = Izinkan
     .tooltiptext = Aktifkan di Penjelajahan Pribadi
-
 detail-private-browsing-off =
     .label = Jangan Izinkan
     .tooltiptext = Nonaktifkan di Penjelajahan Pribadi
-
 detail-home =
     .label = Beranda
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Profil Pengaya
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Periksa versi baru
     .accesskey = v
     .tooltiptext = Periksa versi baru pengaya ini
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -196,50 +146,35 @@ detail-show-preferences =
             [windows] Ubah pengaturan pengaya ini
            *[other] Ubah pengaturan pengaya ini
         }
-
 detail-rating =
     .value = Peringkat
-
 addon-restart-now =
     .label = Mulai ulang sekarang
-
 disabled-unsigned-heading =
     .value = Beberapa pengaya telah dinonaktifkan
-
 disabled-unsigned-description = Pengaya berikut belum diverifikasi untuk digunakan di { -brand-short-name }. Anda dapat <label data-l10n-name="find-addons">temukan pengganti</label> atau minta pengembangnya untuk memverifikasi.
-
 disabled-unsigned-learn-more = Pelajari tentang usaha kami untuk menjaga keselamatan daring Anda.
-
 disabled-unsigned-devinfo = Pengembang yang tertarik untuk memverifikasi pengayanya dapat terus melanjutkan membaca <label data-l10n-name="learn-more">manual</label> kami.
-
 plugin-deprecation-description = Kehilangan sesuatu? Beberapa plugin tidak didukung lagi oleh { -brand-short-name }. <label data-l10n-name="learn-more">Pelajari Lebih Lanjut.</label>
-
 legacy-warning-show-legacy = Tampilkan ekstensi peninggalan
-
 legacy-extensions =
     .value = Ekstensi Peninggalan
-
 legacy-extensions-description = Ekstensi ini tidak memenuhi standar { -brand-short-name } saat ini sehingga telah dinonaktifkan. <label data-l10n-name="legacy-learn-more">Pelajari tentang perubahan terhadap pengaya</label>
-
 private-browsing-description2 =
     { -brand-short-name } mengubah cara kerja ekstensi di mode penjelajahan pribadi. Setiap ekstensi baru yang Anda tambahkan
     ke { -brand-short-name } tidak akan berjalan secara baku di Jendela Pribadi. Kecuali Anda mengizinkannya dalam pengaturan,
     ekstensi tidak akan berfungsi saat menjelajah secara pribadi dan tidak akan memiliki akses ke aktivitas daring Anda
     pada jendela pribadi tersebut. Kami telah membuat perubahan ini untuk menjaga penelusuran pribadi Anda tetap pribadi.
     <label data-l10n-name="private-browsing-learn-more">Pelajari cara mengelola pengaturan ekstensi.</label>
-
 extensions-view-discopane =
     .name = Rekomendasi
     .tooltiptext = { extensions-view-discopane.name }
-
 extensions-view-recent-updates =
     .name = Versi Baru
     .tooltiptext = { extensions-view-recent-updates.name }
-
 extensions-view-available-updates =
     .name = Versi Baru yang Tersedia
     .tooltiptext = { extensions-view-available-updates.name }
-
 addon-category-discover = Rekomendasi
 addon-category-discover-title =
     .title = Rekomendasi
@@ -271,25 +206,20 @@ extensions-warning-safe-mode-label =
     .value = Semua pengaya telah dinonaktifkan dalam mode aman.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
-
 extensions-warning-check-compatibility-label =
     .value = Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
-
 extensions-warning-check-compatibility-enable =
     .label = Aktifkan
     .tooltiptext = Aktifkan pemeriksaan kompatibilitas pengaya
-
 extensions-warning-update-security-label =
     .value = Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
-
 extensions-warning-update-security-enable =
     .label = Aktifkan
     .tooltiptext = Aktifkan pemeriksaan keamanan pemutakhiran pengaya
-
 extensions-warning-safe-mode = Semua pengaya telah dinonaktifkan dalam mode aman.
 extensions-warning-check-compatibility = Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.
 extensions-warning-check-compatibility-button = Aktifkan
@@ -298,17 +228,14 @@ extensions-warning-update-security = Pemeriksaan keamanan pemutakhiran pengaya t
 extensions-warning-update-security-button = Aktifkan
     .title = Aktifkan pemeriksaan keamanan pemutakhiran pengaya
 
-
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
     .label = Periksa Versi Baru
     .accesskey = P
-
 extensions-updates-view-updates =
     .label = Tampilkan Versi Baru
     .accesskey = V
-
 addon-updates-check-for-updates = Periksa Versi Baru
     .accesskey = P
 addon-updates-view-updates = Tampilkan Versi Baru
@@ -320,7 +247,6 @@ addon-updates-view-updates = Tampilkan Versi Baru
 extensions-updates-update-addons-automatically =
     .label = Otomatis Perbarui Pengaya
     .accesskey = O
-
 addon-updates-update-addons-automatically = Otomatis Perbarui Pengaya
     .accesskey = O
 
@@ -333,11 +259,9 @@ addon-updates-update-addons-automatically = Otomatis Perbarui Pengaya
 extensions-updates-reset-updates-to-automatic =
     .label = Setel Ulang Semua Pengaya agar Diperbarui Otomatis
     .accesskey = S
-
 extensions-updates-reset-updates-to-manual =
     .label = Setel Ulang Semua Pengaya agar Hanya Diperbarui Manual
     .accesskey = M
-
 addon-updates-reset-updates-to-automatic = Setel Ulang Semua Pengaya agar Diperbarui Otomatis
     .accesskey = S
 addon-updates-reset-updates-to-manual = Setel Ulang Semua Pengaya agar Hanya Diperbarui Manual
@@ -360,7 +284,6 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Pasang Versi Baru
     .tooltiptext = Pasang versi baru yang ada pada daftar ini
-
 addon-updates-updating = Memperbarui pengaya
 addon-updates-installed = Pengaya Anda telah diperbarui.
 addon-updates-none-found = Tidak ada versi baru ditemukan
@@ -380,51 +303,39 @@ addon-open-about-debugging = Debug Pengaya
 manage-extensions-shortcuts =
     .label = Kelola Pintasan Ekstensi
     .accesskey = K
-
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Kelola Pintasan Ekstensi
     .accesskey = K
-
 shortcuts-no-addons = Anda tidak memiliki ekstensi yang aktif.
 shortcuts-no-commands = Ekstensi berikut tidak memiliki pintasan:
 shortcuts-input =
     .placeholder = Ketikkan pintasan
-
 shortcuts-browserAction = Aktifkan ekstensi
-
 shortcuts-browserAction2 = Aktifkan tombol bilah alat
 shortcuts-pageAction = Aktifkan tindakan laman
 shortcuts-sidebarAction = Aktifkan/Nonaktifkan bilah samping
-
 shortcuts-modifier-mac = Sertakan Ctrl, Alt, atau ⌘
 shortcuts-modifier-other = Sertakan Ctrl atau Alt
 shortcuts-invalid = Kombinasi tidak valid
 shortcuts-letter = Ketikkan huruf
 shortcuts-system = Tidak bisa menimpa pintasan { -brand-short-name }
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Pintasan ganda
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } digunakan sebagai pintasan di lebih dari satu tempat. Pintasan duplikat dapat menyebabkan perilaku yang tidak terduga.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Sudah digunakan oleh { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Tampilkan { $numberToShow } Lainnya
     }
-
 shortcuts-card-collapse-button = Lebih Sedikit
-
 go-back-button =
     .tooltiptext = Mundur
-
 header-back-button =
     .title = Mundur
 
@@ -435,15 +346,12 @@ header-back-button =
 discopane-intro =
     Ekstensi dan tema seperti layaknya aplikasi untuk browser Anda, dan mereka bisa digunakan untuk melindungi kata sandi, mengunduh video, menemukan penawaran, memblokir iklan yang mengganggu, mengubah tampilan peramban Anda, dan banyak lagi. Program perangkat lunak kecil ini banyak dikembangkan oleh pihak ketiga. Berikut adalah pilihan 
     <a data-l10n-name="learn-more-trigger">yang disarankan</a> { -brand-product-name } berdasarkan keamanan, kinerja, dan fungsionalitas mereka.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Beberapa rekomendasi ini dipersonalisasi. Rekomendasi tersebut didasarkan pada ekstensi lain
     yang Anda pasang, preferensi profil, dan statistik penggunaan.
 discopane-notice-learn-more = Pelajari lebih lanjut
-
 privacy-policy = Kebijakan Privasi
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -458,7 +366,6 @@ install-theme-button = Pasang Tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Kelola
 find-more-addons = Temukan lebih banyak pengaya
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -485,46 +392,38 @@ preferences-addon-button =
 details-addon-button = Detail
 release-notes-addon-button = Catatan Rilis
 permissions-addon-button = Hak Akses
-
 addons-enabled-heading = Diaktifkan
 addons-disabled-heading = Dinonaktifkan
-
 extension-enabled-heading = Aktif
 extension-disabled-heading = Nonaktif
-
 theme-enabled-heading = Aktif
 theme-disabled-heading = Nonaktif
-
 plugin-enabled-heading = Aktif
 plugin-disabled-heading = Nonaktif
-
 dictionary-enabled-heading = Aktif
 dictionary-disabled-heading = Nonaktif
-
 locale-enabled-heading = Aktif
 locale-disabled-heading = Nonaktif
-
 ask-to-activate-button = Minta untuk Mengaktifkan
 always-activate-button = Selalu Aktif
 never-activate-button = Jangan Pernah Aktifkan
-
 addon-detail-author-label = Penyusun
 addon-detail-version-label = Versi
 addon-detail-last-updated-label = Terakhir Diperbarui
 addon-detail-homepage-label = Beranda
 addon-detail-rating-label = Peringkat
-
+# Message for add-ons with a staged pending update.
+install-postponed-message = Ekstensi ini akan diperbarui ketika { -brand-short-name } dimulai ulang.
+install-postponed-button = Perbarui Sekarang
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Peringkat { NUMBER($rating, maximumFractionDigits: 1) } dari 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (dinonaktifkan)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -539,19 +438,16 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> telah dihapus.
 pending-uninstall-undo-button = Batal
-
 addon-detail-updates-label = Izinkan pembaruan otomatis
 addon-detail-updates-radio-default = Baku
 addon-detail-updates-radio-on = Aktif
 addon-detail-updates-radio-off = Nonaktif
 addon-detail-update-check-label = Periksa Versi Baru
 install-update-button = Perbarui
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Diizinkan di jendela pribadi
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -560,30 +456,23 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Jika diizinkan, ekstensi akan memiliki akses ke aktivitas daring Anda saat menjelajah secara pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 addon-detail-private-browsing-allow = Izinkan
 addon-detail-private-browsing-disallow = Jangan Izinkan
-
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
     .title = Disarankan
     .alt = Disarankan
-
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended2 =
     .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
     .aria-label = { addon-badge-recommended2.title }
-
 available-updates-heading = Versi Baru yang Tersedia
 recent-updates-heading = Versi Terkini
-
 release-notes-loading = Memuat…
 release-notes-error = Maaf, galat terjadi ketika memuat catatan rilis.
-
 addon-permissions-empty = Ekstensi ini tidak memerlukan izin apa pun
-
 recommended-extensions-heading = Ekstensi yang Disarankan
 recommended-themes-heading = Tema yang Disarankan
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Merasa kreatif? <a data-l10n-name="link">Buat tema Anda sendiri dengan Firefox Color.</a>
@@ -598,10 +487,8 @@ locale-heading = Kelola bahasa Anda
 updates-heading = Kelola Pembaruan Anda
 discover-heading = Personalisasikan { -brand-short-name } Anda
 shortcuts-heading = Kelola Pintasan Ekstensi
-
 default-heading-search-label = Temukan lebih banyak pengaya
 addons-heading-search-input =
     .placeholder = Cari addons.mozilla.org
-
 addon-page-options-button =
     .title = Alat untuk semua pengaya

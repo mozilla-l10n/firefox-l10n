@@ -1175,6 +1175,7 @@ space-alert-under-5gb-message = { -brand-short-name } kehabisan ruang disk. Kont
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mode Hanya HTTPS
+httpsonly-description = HTTPS menyediakan koneksi yang aman, terenkripsi antara { -brand-short-name } dan situs web yang anda kunjungi. Kebanyakan situs web mendukuk HTTPS, dan jika Mode Hanya HTTPS diaktifkan, maka { -brand-short-name } akan meningkatkan semua koneksi ke HTTPS.
 httpsonly-learn-more = Pelajari lebih lanjut
 httpsonly-radio-enabled =
     .label = Aktifkan Mode Hanya HTTPS di semua jendela
