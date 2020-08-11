@@ -444,9 +444,11 @@ no-key-found = Impossibile trovare chiavi corrispondenti ai criteri di ricerca s
 fail-key-extract = Errore: comando di estrazione chiave non riuscito
 # Strings used in keyRing.jsm
 fail-cancel = Errore: ricezione chiave annullata dall’utente
+not-first-block = Errore: il primo blocco OpenPGP non è il blocco della chiave pubblica
 import-key-confirm = Importare le chiavi pubbliche incluse nel messaggio?
 fail-key-import = Errore: importazione chiave non riuscita
 file-write-failed = Impossibile scrivere nel file { $output }
+no-pgp-block = Errore: non è stato trovato alcun blocco blindato di dati OpenPGP
 # Strings used in trust.jsm
 key-valid-unknown = sconosciuta
 key-valid-invalid = non valida
@@ -518,6 +520,8 @@ attachment-pgp-key =
     L'allegato “{ $name }” che si sta aprendo sembra essere un file della chiave OpenPGP.
     Fare clic su “Importa” per importare le chiavi contenute o su “Visualizza” per visualizzare il contenuto del file in una finestra del browser
 dlg-button-view = &Visualizza
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Messaggio decrittato (ripristinato formato di posta PGP danneggiato, probabilmente a causa di un server Exchange obsoleto, per questo motivo il risultato potrebbe non essere completamente leggibile)
 # Strings used in encryption.jsm
 not-required = Errore: crittografia non richiesta
 # Strings used in windows.jsm
