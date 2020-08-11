@@ -57,6 +57,12 @@ onboarding-multistage-import-header = Importujte svoje heslá, záložky a <span
 onboarding-multistage-import-subtitle = Prechádzate z iného prehliadača? Všetko si môžete jednoducho preniesť.
 onboarding-multistage-import-primary-button-label = Importovať
 onboarding-multistage-import-secondary-button-label = Teraz nie
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Začíname: stránka { $current } z { $total }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Vyberte si <span data-l10n-name="zap">vzhľad</span>
@@ -65,23 +71,14 @@ onboarding-multistage-theme-primary-button-label = Uložiť tému vzhľadu
 onboarding-multistage-theme-secondary-button-label = Teraz nie
 onboarding-multistage-theme-label-light = Svetlá
 onboarding-multistage-theme-label-dark = Tmavá
-onboarding-multistage-theme-label-colorful = Farebná
-# Tooltip displayed on hover of top sites in import settings screen during onboarding flow.
-# This support welcome screen showing top sites imported from the user's default browser.
-# Title text is kept multiline to ensure tooltip container width is not more than 40 characters.
-onboarding-import-sites-info =
-    .title =
-        Tieto stránky boli nájdené na tomto zariadení.¶
-        { -brand-short-name } neukladá ani nesynchronizuje údaje¶
-        z iných prehliadačov ak si ich¶
-        neimportujete.
-    .aria-label = { onboarding-import-sites-info.title }
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Začíname: stránka { $current } z { $total }
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
 
 ## Welcome full page string
 

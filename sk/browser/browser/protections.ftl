@@ -24,19 +24,6 @@ graph-total-tracker-summary =
 graph-private-window = Aplikácia { -brand-short-name } naďalej blokuje sledovacie prvky v súkromných oknách, ale neukladá si informácie o tom, čo bolo zablokované.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Sledovacie prvky zablokované tento týždeň
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Je nastavená <b>štandardná</b> úroveň ochrany
-    .title = Prejsť na nastavenia súkromia
-protection-report-header-details-strict = Je nastavená <b>prísna</b> úroveň ochrany
-    .title = Prejsť na nastavenia ochrany
-protection-report-header-details-custom = Je nastavená <b>vlastná</b> úroveň ochrany
-    .title = Prejsť na nastavenia súkromia
-protection-report-page-title = Ochrana súkromia
-protection-report-content-title = Ochrana súkromia
-etp-card-title = Rozšírená ochrana pred sledovaním
-etp-card-content = Sledovacie prvky zbierajú informácie o tom, čo na internete robíte. { -brand-short-name } blokuje množstvo takýchto prvkov a ďalších škodlivých skriptov.
 protection-report-webpage-title = Nástenka ochrany súkromia
 protection-report-page-content-title = Nástenka ochrany súkromia
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -69,12 +56,9 @@ mobile-app-title = Blokovanie sledujúcich reklám naprieč zariadeniami
 mobile-app-card-content = Používajte mobilný prehliadač so vstavanou ochranou pred sledujúcimi reklamami.
 mobile-app-links = Prehliadač { -brand-product-name } pre <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Už žiadne zabudnuté heslá
-lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Správa hesiel
 lockwise-header-content = { -lockwise-brand-name } bezpečne uchováva vaše heslá vo vašom prehliadači.
 lockwise-header-content-logged-in = Ukladajte a synchronizujte heslá bezpečne naprieč svojimi zariadeniami.
-protection-report-view-logins-button = Zobraziť prihlasovacie údaje
-    .title = Prejsť na prihlasovacie údaje
 protection-report-save-passwords-button = Uložiť heslá
     .title = Uložiť heslá do { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Spravovať heslá
@@ -82,32 +66,22 @@ protection-report-manage-passwords-button = Spravovať heslá
 lockwise-mobile-app-title = Vezmite si svoje heslá so sebou
 lockwise-no-logins-card-content = Používajte heslá uložené v { -brand-short-name } na akomkoľvek zariadení.
 lockwise-app-links = { -lockwise-brand-name } pre <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-lockwise-passwords-stored =
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
     { $count ->
-        [one] Heslo bolo bezpečne uložené <a data-l10n-name="lockwise-how-it-works">Ako to funguje</a>
-        [few] Heslá boli bezpečne uložené <a data-l10n-name="lockwise-how-it-works">Ako to funguje</a>
-       *[other] Heslá boli bezpečne uložené <a data-l10n-name="lockwise-how-it-works">Ako to funguje</a>
+        [one] Jedno heslo je bezpečne uložené.
+       *[other] Vaše heslá sú bezpečne uložené.
     }
 lockwise-how-it-works-link = Ako to funguje
 turn-on-sync = Zapnúť { -sync-brand-short-name }…
     .title = Prejsť na nastavenie synchronizácie
-manage-connected-devices = Spravovať zariadenia…
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-connected-device-status =
-    { $count ->
-        [one] Prepojené s { $count } ďalším zariadením
-        [few] Prepojené s { $count } ďalšími zariadeniami
-       *[other] Prepojené s { $count } ďalšími zariadeniami
-    }
 monitor-title = Pozor na úniky dát
 monitor-link = Ako to funguje
 monitor-header-content-no-account = { -monitor-brand-name } skontroluje, či boli vaše údaje súčasťou nejakého známeho úniku dát a upozorní vás, ak sa vyskytnú v nejakom novom.
 monitor-header-content-signed-in = { -monitor-brand-name } vás upozorní, ak sa vaše údaje objavia v známom úniku dát.
-monitor-sign-up = Prihláste sa na odber upozornení
 monitor-sign-up-link = Prihláste sa na odber upozornení
     .title = Prihláste sa na odber upozornení cez { -monitor-brand-name }
 auto-scan = Automaticky skenované: dnes
@@ -137,16 +111,6 @@ info-exposed-passwords-found =
         [one] Počet vašich uniknutých hesiel
         [few] Počet vašich uniknutých hesiel
        *[other] Počet vašich uniknutých hesiel
-    }
-full-report-link = Pozrite si úplnú správu v službe <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-# This string is displayed after a large numeral that indicates the total number
-# of saved logins which may have been exposed. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Uložené prihlasovacie údaje mohli byť súčasťou úniku dát. Z bezpečnostných dôvodov odporúčame zmenu hesla. <a data-l10n-name="lockwise-link">Zobraziť uložené prihlasovacie údaje</a>
-        [few] Uložené prihlasovacie údaje mohli byť súčasťou úniku dát. Z bezpečnostných dôvodov odporúčame zmenu hesla. <a data-l10n-name="lockwise-link">Zobraziť uložené prihlasovacie údaje</a>
-       *[other] Uložené prihlasovacie údaje mohli byť súčasťou úniku dát. Z bezpečnostných dôvodov odporúčame zmenu hesla. <a data-l10n-name="lockwise-link">Zobraziť uložené prihlasovacie údaje</a>
     }
 monitor-no-breaches-title = Dobré správy!
 monitor-breaches-unresolved-description = Po preskúmaní podrobností o úniku a prijatí opatrení na ochranu vašich osobných údajov môžete označiť úniky ako vyriešené.
