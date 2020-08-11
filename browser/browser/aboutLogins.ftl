@@ -75,6 +75,7 @@ login-intro-instruction-fxa = Krei konton aŭ komencu seancon en { -fxaccount-br
 login-intro-instruction-fxa-settings = Certu esti elektinta la markobutonon Legitimiloj en la agordoj de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Vizitu <a data-l10n-name="help-link">helpo pri { -lockwise-brand-short-name }</a> por pli da informo
 about-logins-intro-import = Se viaj legitimiloj estas konservitaj en alia retumilo, vi povas <a data-l10n-name="import-link">enporti ilin en { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Se viaj legitimiloj estas konservitaj ekster { -brand-product-name }, vi povas <a data-l10n-name="import-browser-link">enporti ilin el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>
 
 ## Login
 
@@ -224,3 +225,10 @@ about-logins-export-file-picker-csv-filter-title =
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Enporti dosieron de legitimiloj
 about-logins-import-file-picker-import-button = Enporti
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Dosiero CSV
+       *[other] Dosiero CSV
+    }
