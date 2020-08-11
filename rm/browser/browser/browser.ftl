@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Tschertgar u endatar in'adressa
 urlbar-placeholder =
     .placeholder = Tschertgar u endatar in'adressa
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Tschertgar cun { $name } u endatar in'adressa
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Il navigatur vegn controllà a distanza
 urlbar-permissions-granted =
