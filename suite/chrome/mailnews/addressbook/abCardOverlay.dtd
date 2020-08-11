@@ -29,6 +29,8 @@
 <!ENTITY NameField2.accesskey           "P">
 <!ENTITY PhoneticField1.label           "Fonetično:">
 <!ENTITY PhoneticField2.label           "Fonetično:">
+<!ENTITY DisplayName.label              "Prikaži:">
+<!ENTITY DisplayName.accesskey          "r">
 <!ENTITY preferDisplayName.label        "Vedno daj prednost prikaznemu imenu namesto glavi sporočila">
 <!ENTITY preferDisplayName.accesskey    "g">
 <!ENTITY preferDisplayName2.accesskey   "g">
