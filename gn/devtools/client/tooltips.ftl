@@ -67,3 +67,6 @@ css-compatibility-default-message = <strong>{ $property }</strong> ndorekói pyt
 css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva ha ko’ág̃a ndoikovéima pe W3C he’iháicha. Ndojokupytýi ko’ã kundahára ndive:
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva ha ko’ág̃a ndoikovéima pe W3C he’iháicha.
 css-compatibility-deprecated-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva ha ko’ág̃a ndoikovéima pe W3C he’iháicha. Ndojokupytýi ko’ã kundahára ndive:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> ndoikovéima pe W3C he’iháicha.
+css-compatibility-experimental-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva. Ndorekói ñepytyvõ ko’ã kundahárape:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva.
