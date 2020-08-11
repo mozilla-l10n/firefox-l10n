@@ -39,6 +39,9 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = వ్యవస్థ దర్శనిలో తెరువు
     .accesskey = V
+downloads-cmd-always-use-system-default =
+    .label = ఎల్లప్పుడూ వ్యవస్థ దర్శినిలో తెరువు
+    .accesskey = w
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
