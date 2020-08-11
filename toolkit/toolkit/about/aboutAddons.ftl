@@ -404,6 +404,9 @@ addon-detail-version-label = Versio
 addon-detail-last-updated-label = Laste ĝisdatigita
 addon-detail-homepage-label = Ĉefpaĝo
 addon-detail-rating-label = Taksado
+# Message for add-ons with a staged pending update.
+install-postponed-message = Tiu ĉi etendaĵo estos ĝisdatigita dum restarto de { -brand-short-name }.
+install-postponed-button = Ĝisdatigi nun
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
