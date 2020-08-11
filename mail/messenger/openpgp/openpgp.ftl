@@ -466,6 +466,8 @@ import-rev-file = Importa file di revoca OpenPGP
 gnupg-file = File GnuPG
 import-keys-failed = Importazione delle chiavi non riuscita
 passphrase-prompt = Inserire la passphrase per sbloccare la seguente chiave: { $key }
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Crea e salva il certificato di revoca
 revoke-cert-failed = Impossibile creare il certificato di revoca.
 gen-going = Generazione della chiave già in corso.
 expiry-too-short = La chiave deve essere valida per almeno un giorno.
