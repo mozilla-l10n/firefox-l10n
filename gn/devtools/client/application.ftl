@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = Mopotĩ
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Ñepyrũ
     .title = Ndaikatúi emopitĩ service workers ha'eñóramo multi e10s
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Ma’ẽag̃ui
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Eñepyrũ
