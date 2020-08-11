@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Ñe’ẽreka ýrõ kundaharape
 urlbar-placeholder =
     .placeholder = Ñe’ẽreka ýrõ kundaharape
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Eheka { $name } ndive térã emoinge kundaharape
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Kundahára oĩ ñangarekoha okayguáva poguýpe
 urlbar-permissions-granted =
