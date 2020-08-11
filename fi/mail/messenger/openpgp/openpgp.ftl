@@ -2,6 +2,38 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = Salattujen tai digitaalisesti allekirjoitettujen viestien lähettämistä varten on määritettävä joko OpenPGP- tai S/MIME-salaustekniikka.
+e2e-intro-description-more = Ota käyttöön OpenPGP valitsemalla henkilökohtainen avaimesi, tai S/MIME valitsemalla henkilökohtainen varmenteesi. Henkilökohtaista avainta tai varmennetta varten sinulla on vastaava oma salainen avain.
+openpgp-key-user-id-label = Tili / käyttäjätunnus
+openpgp-keygen-title-label =
+    .title = Luo OpenPGP-avain
+openpgp-cancel-key =
+    .label = Keskeytä
+    .tooltiptext = Keskeytä avaimen luonti
+openpgp-key-gen-expiry-title =
+    .label = Avaimen voimassaoloaika
+openpgp-key-gen-expire-label = Avain vanhenee
+openpgp-key-gen-days-label =
+    .label = vuorokaudessa
+openpgp-key-gen-months-label =
+    .label = kuukaudessa
+openpgp-key-gen-years-label =
+    .label = vuodessa
+openpgp-key-gen-no-expiry-label =
+    .label = Avain ei vanhene
+openpgp-key-gen-key-size-label = Avaimen koko
+openpgp-key-gen-console-label = Avaimen luominen
+openpgp-key-gen-key-type-label = Avaintyyppi
+openpgp-key-gen-key-type-rsa =
+    .label = RSA
+openpgp-key-gen-key-type-ecc =
+    .label = ECC (elliptinen käyrä)
+openpgp-generate-key =
+    .label = Luo avain
+    .tooltiptext = Luo uuden salauksessa ja/tai allekirjoittamisessa tarvittavan OpenPGP -yhteensopivan avaimen
+openpgp-advanced-prefs-button-label =
+    .label = Lisäasetukset…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">HUOMAA: Avaimen luominen saattaa kestää useita minuutteja.</a> Älä sulje sovellusta avaimen luomisen aikana. Aktiivinen selaaminen tai muiden levyintensiivisten toimintojen suorittaminen avaimen luomisen aikana tehostaa 'satunnaisuusaluetta' ja nopeuttaa prosessia. Kun avaimen luominen valmistuu, siitä annetaan ilmoitus.
 openpgp-key-man-user-id-label =
     .label = Nimi
 openpgp-key-man-fingerprint-label =
