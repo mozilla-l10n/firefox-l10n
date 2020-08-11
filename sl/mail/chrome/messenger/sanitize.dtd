@@ -24,11 +24,14 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Podrobnosti">
 <!ENTITY detailsProgressiveDisclosure.accesskey "P">
 
-<!ENTITY itemHistory.label                 "Zgodovina brskanja">
+
+<!ENTITY historyGroup.label                "Zgodovino">
+
+<!ENTITY itemHistory.label                 "zgodovino brskanja">
 <!ENTITY itemHistory.accesskey             "b">
-<!ENTITY itemCookies.label                 "Piškotki">
+<!ENTITY itemCookies.label                 "piškotke">
 <!ENTITY itemCookies.accesskey             "P">
-<!ENTITY itemCache.label                   "Predpomnilnik">
+<!ENTITY itemCache.label                   "predpomnilnik">
 <!ENTITY itemCache.accesskey               "r">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
