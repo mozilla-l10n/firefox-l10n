@@ -98,6 +98,18 @@ onboarding-multistage-theme-tooltip-light =
         Uporabi svetel videz gumbov,
         menijev in oken.
     .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Uporabi temen videz gumbov,
+        menijev in oken.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Uporabi barvit videz gumbov,
+        menijev in oken.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
