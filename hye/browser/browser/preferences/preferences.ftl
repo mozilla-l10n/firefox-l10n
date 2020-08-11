@@ -54,6 +54,7 @@ pane-experimental-title = { -brand-short-name } Փորձարկումներ
 category-experimental =
     .tooltiptext = { -brand-short-name } Փորձարկումներ
 pane-experimental-subtitle = Շարունակէք զգուշաւորութեամբ
+pane-experimental-search-results-header = { -brand-short-name } Փորձարկումներ․ զգուշութեամբ շարունակէք
 pane-experimental-description = Կազմաձեւի առաջատար նախընտրանքերի փոփոխութիւնը կարող է ազդել { -brand-short-name }֊ի կատարման կամ անվտանգութեան վրաj:
 help-button-label = { -brand-short-name }-ի աջակցում
 addons-button-label = Ընդլայնումներ եւ Ոճեր
@@ -214,6 +215,9 @@ preferences-default-zoom = Սկզբնադիր խոշորացում
     .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = մեծացնել միայն գրոյթը
+    .accesskey = գ
 language-header = Լեզուն
 choose-language-description = Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար
 choose-button =
@@ -316,6 +320,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Աւգտագործել { $plugin-name } ({ -brand-short-name }-ում)
+applications-open-inapp =
+    .label = Բացել { -brand-short-name }֊ում
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -327,12 +333,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -496,6 +506,7 @@ home-prefs-topsites-description = Ամենաշատ այցելած կայքեր
 
 home-prefs-recommended-by-header =
     .label = Առաջարկուում է { $provider }
+home-prefs-recommended-by-description-update = Բացառիկ բովանդակութիւն համացանցից՝ կազմակերպուած { $provider }֊ի կողմից
 
 ##
 
@@ -558,6 +569,7 @@ search-show-suggestions-above-history-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդիւնքների ամենավերեւում
 search-show-suggestions-private-windows =
     .label = Ցույց տալ որոնման առաջարկները մասնաւոր պատուհանում
+suggestions-addressbar-settings-generic = Փոխել ընտրանքները այլ հասցէգաւտիների առաջարկների համար
 search-suggestions-cant-show = Որոնման առաջարկութիւնները չեն ցուցադրուի գտնման վայրի տողի արդիւնքներում, քանի որ դուք կազմաձեւել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմութիւնը։
 search-one-click-header = Մեկ սեղմամբ որոնիչներ
 search-one-click-desc = Ընտրեք այլ ընտրանքային որոնիչներ, որոնք կերեւան ստորեւ հասցեի գոտում եւ որոնման գոտիում, երբ մուտքագրեք հիմնաբառ:
@@ -792,6 +804,10 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Աւգտագործել Հիմնական գաղտնաբառ
     .accesskey = Օ
+forms-primary-pw-use =
+    .label = Աւգտագործէք հիմնական գաղտնաբառ
+    .accesskey = Ա
+forms-primary-pw-learn-more-link = Իմանալ աւելին
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -799,6 +815,13 @@ forms-master-pw-change =
     .label = Փոխել Հիմնական գաղտնաբառը…
     .accesskey = Հ
 forms-master-pw-fips-title = Դուք այժմ աւգտագործում էք FIPS եղանակը: FIPS-ը պահանջում է Հիմնական Գաղտնաբառի աւգտագործում:
+forms-primary-pw-change =
+    .label = Փոխել Հիմնական գաղտնաբառը
+    .accesskey = Հ
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Նախկինում յայտնի որպէս Հիմնական գաղտնաբառ
 forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխութիւնը Չյաջողուեց
 
 ## OS Authentication dialog
