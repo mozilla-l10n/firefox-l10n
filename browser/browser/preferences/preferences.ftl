@@ -55,6 +55,7 @@ category-experimental =
     .tooltiptext = Experiments da { -brand-short-name }
 pane-experimental-subtitle = Proceder cun precauziun
 pane-experimental-search-results-header = Experiments da { -brand-short-name }: Cuntinuar cun precauziun
+pane-experimental-description = La modificaziun da la configuraziun da las preferenzas avanzadas po cumprometter la prestaziun u la segirezza da { -brand-short-name }.
 help-button-label = Agid da { -brand-short-name }
 addons-button-label = Extensiuns & designs
 focus-search =
