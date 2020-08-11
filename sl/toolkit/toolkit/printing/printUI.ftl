@@ -24,6 +24,8 @@ printui-copies-label = Kopije
 printui-orientation = Usmerjenost
 printui-landscape = Ležeče
 printui-portrait = Pokončno
+# Section title for the printer or destination device to target
+printui-destination-label = Cilj
 printui-more-settings = Več nastavitev
 printui-less-settings = Manj nastavitev
 # Section title (noun) for the print scaling options
