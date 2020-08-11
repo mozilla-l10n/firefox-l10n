@@ -54,6 +54,10 @@ experimental-features-media-session-api =
     .label = Web API: Media Session API
 experimental-features-devtools-color-scheme-simulation =
     .label = Geliştirici Araçları: Renk Şeması Simülasyonu
+experimental-features-devtools-execution-context-selector =
+    .label = Geliştirici Araçları: Execution Context Selector
+experimental-features-devtools-compatibility-panel =
+    .label = Geliştirici Araçları: Uyumluluk Paneli
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Çerezler: Varsayılan olarak SameSite=Lax
@@ -65,6 +69,8 @@ experimental-features-cookie-samesite-none-requires-secure2 =
 experimental-features-abouthome-startup-cache =
     .label = about:home başlangıç önbelleği
 experimental-features-abouthome-startup-cache-description = Başlangıçta varsayılan olarak yüklenen about:home belgesi için önbellek. Bu önbelleğin amacı, başlangıç performansını artırmaktır.
+experimental-features-print-preview-tab-modal =
+    .label = Yeni yazdırma ön izleme tasarımı
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -72,6 +78,9 @@ experimental-features-cookie-samesite-schemeful =
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Geliştirici Araçları: Service Worker hata ayıklama
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Hata ayıklama panelinde Service Worker’lar için deneysel destek sağlar. Bu özellik, Geliştirici Araçlarını yavaşlatabilir ve bellek tüketimini artırabilir.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafik: Smooth Pinch Zoom
+experimental-features-graphics-desktop-zooming-description = Dokunmatik ekranlarda ve hassas dokunmatik yüzeylerde yumuşak pinch zooming desteğini etkinleştirin.
