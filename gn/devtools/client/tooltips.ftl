@@ -63,4 +63,7 @@ inactive-text-overflow-when-no-overflow-fix = Eñeha’ã embojuaju <strong>over
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
-css-compatibility-default-message = <strong>{ $property }</strong> ndorekói pytyvõ ko’ã kundaharape:
+css-compatibility-default-message = <strong>{ $property }</strong> ndorekói pytyvõ ko’ã kundahárape:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva ha ko’ág̃a ndoikovéima pe W3C he’iháicha. Ndojokupytýi ko’ã kundahára ndive:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva ha ko’ág̃a ndoikovéima pe W3C he’iháicha.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva ha ko’ág̃a ndoikovéima pe W3C he’iháicha. Ndojokupytýi ko’ã kundahára ndive:
