@@ -423,6 +423,8 @@ already-revoked = Questa chiave è già stata revocata.
 revoke-key-already-revoked = La chiave 0x{ $keyId } è già stata revocata.
 key-man-button-revoke-key = &Revoca chiave
 openpgp-key-revoke-success = Chiave revocata correttamente.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importa
 delete-key-title = Elimina chiave OpenPGP
 delete-external-key-title = Rimozione chiave esterna GnuPG
 delete-external-key-description = Rimuovere questo ID chiave esterna GnuPG?
@@ -477,6 +479,8 @@ attachment-no-match-from-signature = Impossibile associare il file della firma �
 attachment-no-match-to-signature = Impossibile associare l’allegato “{ $attachment }” a un file della firma
 signature-verified-ok = La firma per l’allegato { $attachment } è stata verificata correttamente
 signature-verify-failed = La firma per l’allegato { $attachment } non può essere verificata
+msg-compose-details-button-label = Dettagli…
+msg-compose-details-button-access-key = D
 key-not-trusted = Affidabilità non sufficiente per la chiave “{ $key }”
 keys-to-export = Seleziona chiavi OpenPGP da inserire
 quoted-printable-warn =
