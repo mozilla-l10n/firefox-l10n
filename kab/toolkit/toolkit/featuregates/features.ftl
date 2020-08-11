@@ -75,6 +75,10 @@ experimental-features-cookie-samesite-lax-by-default2 =
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Inagan n tuqqna: SameSite=None yesra imyerr aɣelsan
 experimental-features-cookie-samesite-none-requires-secure2-description = Inagan n tuqqna s yimyerr “SameSite=None” sran imyerr aɣelsan. Tamahilt-a tesra “Inagan n tuqqna: SameSite=Lax by default”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = ɣef: tuffirt n usenker agensan
 experimental-features-abouthome-startup-cache-description = Tuffirt i ugbur amezwaru ɣef:isemli agejdan i d-yulin s wudem amewer deg usenker. Iswi seg tuffra-a  d asnerni n temlellit n usenker.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
