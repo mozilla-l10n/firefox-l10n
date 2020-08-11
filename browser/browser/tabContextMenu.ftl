@@ -59,6 +59,10 @@ undo-close-tab =
 tab-context-close-multiple-tabs =
     .label = Zavrieť viaceré karty
     .accesskey = Z
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -80,3 +84,17 @@ move-tabs =
 move-tab =
     .label = Presunúť kartu
     .accesskey = s
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zatvoriť kartu
+           *[other] Zatvoriť karty
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Presunúť kartu
+           *[other] Presunúť karty
+        }
+    .accesskey = v
