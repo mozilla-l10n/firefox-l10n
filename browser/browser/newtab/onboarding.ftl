@@ -130,6 +130,10 @@ onboarding-browse-privately-button = ఒక అంతరంగిక కిట�
 onboarding-firefox-send-title = మీరు పంచుకున్న ఫైళ్ళను అంతరంగికంగా ఉంచుకోండి
 onboarding-firefox-send-button = { -send-brand-name }‌ని ప్రయత్నించండి
 onboarding-mobile-phone-title = { -brand-product-name }‌ను మీ ఫోనులో పొందండి
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = మొబైలు విహారిణిని దించుకోండి
+onboarding-send-tabs-title = తక్షణమే మీకు ట్యాబులను పంపించుకోండి
 onboarding-pocket-anywhere-title = ఎక్కడైనా చదవండి, వినండి
 onboarding-pocket-anywhere-button = { -pocket-brand-name }‌ని ప్రయత్నించండి
 onboarding-lockwise-passwords-title = మీ సంకేతపదాలను మీతో ఎక్కడికైనా తీసుకెళ్ళండి
