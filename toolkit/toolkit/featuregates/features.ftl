@@ -78,7 +78,7 @@ experimental-features-devtools-compatibility-panel-description = Eine Seitenleis
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax standardmäßig
-experimental-features-cookie-samesite-lax-by-default2-description = Cookies werden standardmäßig als "SameSite=Lax" behandelt, wenn kein "SameSite"-Attribut angegeben ist. Entwickler müssen sich für den aktuellen Status quo der uneingeschränkten Nutzung entscheiden, indem sie explizit "SameSite=None" festlegen.
+experimental-features-cookie-samesite-lax-by-default2-description = Cookies werden standardmäßig als "SameSite=Lax" behandelt, wenn kein "SameSite"-Attribut angegeben ist. Entwickler können den aktuellen Status quo der uneingeschränkten Nutzung verwenden, indem sie explizit "SameSite=None" festlegen.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=None erfordert "secure"-Attribut
