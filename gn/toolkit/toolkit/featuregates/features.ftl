@@ -74,6 +74,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Umi ko
 experimental-features-abouthome-startup-cache =
     .label = about:home kache ñepyrũgua
 experimental-features-abouthome-startup-cache-description = Kache kuatia ñepyrũguápe g̃uarã about:home henyhẽva ijehegui oñepyrũnguévo. Ko kache rembiaporã ha’e oikoporãve hag̃ua oñepyrũvo.
+experimental-features-print-preview-tab-modal =
+    .label = Japojey jehecha ypy ñemonguatia
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =

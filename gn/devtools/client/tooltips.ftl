@@ -70,3 +70,4 @@ css-compatibility-deprecated-message = <strong>{ $property }</strong> ha’e pet
 css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> ndoikovéima pe W3C he’iháicha.
 css-compatibility-experimental-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva. Ndorekói ñepytyvõ ko’ã kundahárape:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> ha’e peteĩ mba’etee ipyahúva.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Eikuaave</span> rehegua <strong>{ $rootProperty }</strong>
