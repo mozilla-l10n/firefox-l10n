@@ -90,7 +90,7 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 onboarding-multistage-theme-tooltip-automatic =
     .title =
         Mengikuti tampilan dari sistem operasi
-        anda untuk tombol, menu, dan jendela.
+        Anda untuk tombol, menu, dan jendela.
     .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light =

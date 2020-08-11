@@ -15,14 +15,14 @@ printui-page-range-label = Halaman
 printui-page-range-picker =
     .aria-label = Pilih rentang halaman
 printui-page-custom-range =
-    .aria-label = Masukkan rentang halaman kustom
+    .aria-label = Masukkan rentang halaman khusus
 # Section title for the number of copies to print
 printui-copies-label = Salinan
 printui-orientation = Orientasi
 printui-landscape = Mendatar
 printui-portrait = Tegak
 # Section title for the printer or destination device to target
-printui-destination-label = Destinasi
+printui-destination-label = Tujuan
 printui-more-settings = Pengaturan lainnya
 printui-less-settings = Beberapa pengaturan
 # Section title (noun) for the print scaling options
