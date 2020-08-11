@@ -1,11 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Legitimiloj kaj pasvortoj
@@ -32,6 +27,7 @@ menu =
     .title = Malfermi menuon
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Enporti el alia retumilo…
+about-logins-menu-menuitem-import-from-a-file = Enporti el dosiero …
 about-logins-menu-menuitem-export-logins = Elporti legitimilojn…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -72,6 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Ĉu vi serĉas viajn konservitajn legitimilojn? Agordu { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Ĉu vi serĉas viajn konservitajn legitimilojn? Agordu { -sync-brand-short-name } aŭ enportu Ilin.
 about-logins-login-intro-heading-logged-in = Neniu spegulita legitimilo trovita.
 login-intro-description = Se vi konservis viajn legitimilojn en { -brand-product-name } en alia aparato, vi povas havi ilin ankaŭ ĉi tie jene:
 login-intro-instruction-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name } en la aparato, kie la legitimiloj estas konservitaj
@@ -136,6 +133,10 @@ about-logins-export-password-os-auth-dialog-message-macosx = Elporto konservis l
 ## Master Password notification
 
 master-password-notification-message = Bonvolu tajpi vian ĉefan pasvorton por vidi konservitajn legitimilojn kaj pasvortojn
+
+## Primary Password notification
+
+about-logins-primary-password-notification-message = Bonvolu tajpi vian ĉefan pasvorton por vidi konservitajn legitimilojn kaj pasvortojn
 master-password-reload-button =
     .label = Komenci seancon
     .accesskey = K
@@ -217,3 +218,9 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] Dosiero CVS
        *[other] Dosiero CVS
     }
+
+## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Enporti dosieron de legitimiloj
+about-logins-import-file-picker-import-button = Enporti
