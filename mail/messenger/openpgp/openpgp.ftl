@@ -409,19 +409,53 @@ key-ring-key-disabled = La clave { $userId } (ID clave { $keyId }) está deshabi
 key-ring-key-invalid = La clave { $userId } (ID de clave { $keyId }) no es válida. Considere verificarla correctamente.
 key-ring-key-not-trusted = La clave { $userId } (ID de clave { $keyId }) no es suficientemente confiable. Establezca el nivel de confianza de su clave para "ultimate" y úselo para firmar.
 key-ring-no-secret-key = No parece tener la clave secreta para { $userId } (ID de clave { $keyId }) en su llavero; no puede utilizar la clave para firmar.
-key-ring-pub-key-not-for-signing = La clave { $userId } (ID de clave { $keyId }) no puede ussssarse para firmar.
+key-ring-pub-key-not-for-signing = La clave { $userId } (ID de clave { $keyId }) no puede usarse para firmar.
 key-ring-pub-key-not-for-encryption = La clave { $userId } (ID clave { $keyId }) no puede usarse para el cifrado.
 key-ring-sign-sub-keys-revoked = Todas las subclaves de firma de la clave { $userId } (ID clave { $keyId }) están revocadas.
-key-ring-sign-sub-keys-expired = Todas las subclaves de firma de la clave { $userId } (ID clave { $keyId }) ya caducaron.
+key-ring-sign-sub-keys-expired = Todas las subclaves de firma de la clave { $userId } (ID clave { $keyId }) caducaron.
 key-ring-sign-sub-keys-unusable = Todas las subclaves de firma de la clave { $userId } (ID clave { $keyId }) se revocaron o caducaron. No se pueden usar.
 key-ring-enc-sub-keys-revoked = Todas las subclaves de cifrado de la clave { $userId } (ID clave { $keyId }) están revocadas.
 key-ring-enc-sub-keys-expired = Todas las subclaves de cifrado de la clave { $userId } (ID clave { $keyId }) caducaron.
 key-ring-enc-sub-keys-unusable = Todas las subclaves de cifrado de la clave { $userId } (ID clave { $keyId }) están revocadas o caducadas. No se pueden usar.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Atributo de usuario (imagen JPEG)
+# Strings in key.jsm
+already-revoked = Esta clave ya fue revocada.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Está a punto de revocar la clave '{ $identity }'.
+    Ya no podrá firmar con esta clave y, una vez distribuida, otras personas ya no podrán cifrar con esa clave. Aún puede usar la clave para descifrar mensajes antiguos.
+    ¿Quiere proceder?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    No tiene ninguna clave (0x{ $keyId }) que coincida con este certificado de revocación.
+    Si perdió su clave, ¡tiene que importarla (por ejemplo, desde un servidor de teclado) antes de importar el certificado de revocación!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = La clave 0x { $keyId } ya fue revocada.
 key-man-button-revoke-key = &Revocar clave
+openpgp-key-revoke-success = Clave revocada correctamente.
+after-revoke-info =
+    La clave fue revocada.
+    Comparta esta clave pública de nuevo, enviándola por correo electrónico o subiéndola a los servidores de claves para que otros sepan que revocó su clave.
+    Tan pronto como el software usado por otras personas se entere de la revocación, dejará de usar su antigua clave.
+    Si está usando una nueva clave para la misma dirección de correo electrónico, y adjunta la nueva clave pública a los correos que envía, la información sobre su antigua clave revocada se va a incluir automáticamente.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Borrar clave OpenPGP
 delete-external-key-title = Eliminar la clave GnuPG externa
+delete-external-key-description = ¿Quiere eliminar esta ID de clave GnuPG externa?
+key-in-use-title = Clave OpenPGP actualmente en uso
+delete-key-in-use-description = ¡No se puede proceder! La clave que seleccionó para eliminar está siendo usada por esta identidad. Seleccione una clave diferente o ningua, y vuelva a intentarlo.
+revoke-key-in-use-description = ¡No se puede proceder! La clave que seleccionó para revocar está siendo usada por esta identidad. Seleccione una clave diferente o ningua, y vuelva a intentarlo.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = La dirección de correo '{ $keySpec }' no puede coincidir con una clave en su llavero.
+key-error-key-id-not-found = La clave configurada '{ $keySpec }' no se encuentra en su llavero.
+key-error-not-accepted-as-personal = No confirmó que la clave con ID '{ $keySpec }' sea su clave personal.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = La función que seleccionó no está disponible en el modo fuera de línea. Conéctese y vuelva a intentarlo.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = No pudimos encontrar ninguna clave que coincida con los criterios de búsqueda especificados.
 gnupg-file = Archivos GnuPG
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear y guardar certificado de revocación
