@@ -5,9 +5,8 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Protekto de privateco
-appmenuitem-protection-report-tooltip =
-    .tooltiptext = Vidu vian raporton pri privateco
+appmenuitem-update-banner =
+    .label-update-downloading = Ĝisdatigo de { -brand-shorter-name } elŝutata
 appmenuitem-protection-dashboard-title = Panelo de protektoj
 appmenuitem-customize-mode =
     .label = Personecigi…
