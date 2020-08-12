@@ -8,7 +8,8 @@ password-quality-meter = Mezurilo de pasvorta kvalito
 
 change-password-window =
     .title = Ŝanĝi ĉefan pasvorton
-
+change-device-password-window =
+    .title = Ŝanĝi pasvorton
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sekureca aparato: { $tokenName }
@@ -21,9 +22,25 @@ change-password-reenter = Nova pasvorto (denove):
 reset-password-window =
     .title = Nuligi ĉefan pasvorton
     .style = width: 40em
+pippki-failed-pw-change = Ne eblas ŝanĝi la ĉefan pasvorton.
+pippki-incorrect-pw = Vi ne tajpis la ĝustan (nunan) ĉefan pasvorton. Bonvolu klopodi denove.
+pippki-pw-change-ok = Ĉefa pasvorto sukcese ŝanĝita.
+pippki-pw-empty-warning = Viaj konservitaj pasvortoj kaj privataj ŝlosiloj ne estos protektitaj.
+pippki-pw-erased-ok = Vi forigis vian pasvorton. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Averto! Vi decidis ne uzi ĉefan pasvorton. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Vi estas nun en FIPSa reĝimo. FIPS postulas nemalplenan  ĉefan pasvorton.
+
+## Reset Primary Password dialog
+
+reset-primary-password-window =
+    .title = Remeti ĉefan pasvorton
+    .style = width: 40em
 reset-password-button-label =
     .label = Rekomenci
 reset-password-text = Se vi nuligas vian ĉefan pasvorton ĉiuj viaj konservitaj TTTaj kaj retpoŝtaj pasvortoj estos forgesitaj, kune kun via formulara informo, personaj atestiloj kaj privataj ŝlosiloj. Ĉu vi certe volas nuligi vian ĉefan pasvorton?
+reset-primary-password-text = Se vi nuligas vian ĉefan pasvorton ĉiuj viaj konservitaj TTTaj kaj retpoŝtaj pasvortoj estos forgesitaj, kune kun via formulara informo, personaj atestiloj kaj privataj ŝlosiloj. Ĉu vi certe volas nuligi vian ĉefan pasvorton?
+pippki-reset-password-confirmation-title = Remeti ĉefan pasvorton
+pippki-reset-password-confirmation-message = Via ĉefa pasvorto estis forigita.
 
 ## Downloading cert dialog
 
