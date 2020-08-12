@@ -6,3 +6,4 @@ connection-window =
     .title = Dôležité novinky
 continue-button =
     .label = Pokračovať
+main-text = Táto inštalácia aplikácie { -brand-short-name } má nový profil. Nezdieľa údaje o e-mailoch, heslá, nastavenia a adresáre s ostatnými inštaláciami aplikácie { -brand-product-name } (vrátane aplikácií { -brand-product-name }, { -brand-product-name } Beta a { -brand-product-name } Daily).

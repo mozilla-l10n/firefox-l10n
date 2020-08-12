@@ -41,6 +41,8 @@ policy-DontCheckDefaultClient = Vypne kontrolu predvoleného klienta pri spusten
 policy-DownloadDirectory = Nastaví a uzamkne umiestnenie pre preberanie súborov.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Zapne alebo vypne blokovanie obsahu a prípadne túto funkciu uzamkne.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Zapne alebo vypne Encrypted Media Extensions a prípadne uzamkne toto nastavenie.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.

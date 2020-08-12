@@ -134,6 +134,9 @@ add-search-engine =
 remove-search-engine =
     .label = Odstrániť
     .accesskey = i
+minimize-to-tray-label =
+    .label = Ak je { -brand-short-name } minimalizovaný, presunúť ho do zásobníka
+    .accesskey = m
 new-message-arrival = Pri prijatí novej správy
 mail-play-sound-label =
     .label =
@@ -711,6 +714,3 @@ search-results-empty-message =
        *[other] Mrzí nás to, no pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
     }
 search-results-help-link = Potrebujete pomoc? Navštívte <a data-l10n-name="url">podporu aplikácie { -brand-short-name }</a>
-
-## Preferences UI Search Results
-
