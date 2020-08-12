@@ -169,9 +169,64 @@ openpgp-key-details-signatures-tab =
     .label = Certificações
 openpgp-key-details-structure-tab =
     .label = Estrutura
+openpgp-key-details-uid-certified-col =
+    .label = ID de utilizador / certificado por
+openpgp-key-details-user-id2-label = Suposto proprietário da chave
+openpgp-key-details-id-label =
+    .label = ID
+openpgp-key-details-key-type-label = Tipo
+openpgp-key-details-key-part-label =
+    .label = Parte da chave
+openpgp-key-details-algorithm-label =
+    .label = Algoritmo
+openpgp-key-details-size-label =
+    .label = Tamanho
+openpgp-key-details-created-label =
+    .label = Criada
+openpgp-key-details-created-header = Criada
+openpgp-key-details-expiry-label =
+    .label = Validade
+openpgp-key-details-expiry-header = Validade
+openpgp-key-details-usage-label =
+    .label = Utilização
+openpgp-key-details-fingerprint-label = Identificador digital
+openpgp-key-details-sel-action =
+    .label = Selecione a ação…
+    .accesskey = S
+openpgp-key-details-also-known-label = Alegadas identidades alternativas do proprietário da chave:
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Fechar
+openpgp-acceptance-label =
+    .label = A sua aceitação
+openpgp-acceptance-rejected-label =
+    .label = Não, rejeitar esta chave.
+openpgp-acceptance-undecided-label =
+    .label = Ainda não, talvez mais tarde.
+openpgp-acceptance-unverified-label =
+    .label = Sim, mas não verifiquei se é a chave correta.
+openpgp-acceptance-verified-label =
+    .label = Sim, verifiquei pessoalmente que esta chave tem a identificação digital correta.
+key-accept-personal =
+    Para esta chave, você tem a parte pública e a parte secreta. Você pode utilizar a mesma como uma chave pessoal.
+    Se esta chave lhe foi atribuída por outra pessoa, não a utilize como uma chave pessoal.
+key-personal-warning = A chave foi criada por si e a propriedade da chave refere-se a si próprio?
+openpgp-personal-no-label =
+    .label = Não, não utilizar como a minha chave pessoal.
+openpgp-personal-yes-label =
+    .label = Sim, tratar esta chave como uma chave pessoal.
+openpgp-copy-cmd-label =
+    .label = Copiar
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] O Thunderbird não tem uma chave OpenPGP pessoal para <b>{ $identity }</b>
+        [one] O Thunderbird encontrou { $count } chave OpenPGP pessoal associada a <b>{ $identity }</b>
+       *[other] O Thunderbird encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
+    }
 
 ## OpenPGP Key selection area
 
