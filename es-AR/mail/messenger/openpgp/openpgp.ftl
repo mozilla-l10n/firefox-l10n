@@ -389,10 +389,21 @@ export-keypair-to-file = Exportar clave pública y secreta al archivo
 export-secret-key = ¿Quiere incluir la clave secreta en el archivo de claves OpenPGP guardado?
 save-keys-ok = Las claves se guardaron correctamente
 save-keys-failed = Falló el guardado de claves
+default-pub-key-filename = Claves-públicas-exportadas
+default-pub-sec-key-filename = Respaldo-de-claves-secretas
+refresh-key-warn = Advertencia: dependiendo de la cantidad de claves y la velocidad de conexión, actualizar todas las claves puede ser un proceso bastante largo.
+preview-failed = No se puede leer el archivo de la clave pública.
+general-error = Error: { $reason }
+dlg-button-delete = &Eliminar
 
 ## Account settings export output
 
+openpgp-export-public-success = <b> ¡Clave pública exportada correctamente! </b>
+openpgp-export-public-fail = <b>¡No se puede exportar la clave pública seleccionada!</b>
 openpgp-export-secret-success = <b>¡Clave secreta exitosamente exportada!</b>
+openpgp-export-secret-fail = <b>¡No se puede exportar la clave pública seleccionada!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = La clave { $userId } (ID de clave { $keyId }) está revocada.
 key-man-button-revoke-key = &Revocar clave
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
