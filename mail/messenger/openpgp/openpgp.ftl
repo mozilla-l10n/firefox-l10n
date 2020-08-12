@@ -404,6 +404,9 @@ openpgp-export-secret-success = <b>¡Clave secreta exitosamente exportada!</b>
 openpgp-export-secret-fail = <b>¡No se puede exportar la clave pública seleccionada!</b>
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = La clave { $userId } (ID de clave { $keyId }) está revocada.
+key-ring-pub-key-expired = La clave { $userId } (ID de clave { $keyId }) ya caducó.
+key-ring-key-disabled = La clave { $userId } (ID clave { $keyId }) está deshabilitada; no puede usarse.
+key-ring-key-invalid = La clave { $userId } (ID de clave { $keyId }) no es válida. Considere verificarla correctamente.
 key-man-button-revoke-key = &Revocar clave
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
