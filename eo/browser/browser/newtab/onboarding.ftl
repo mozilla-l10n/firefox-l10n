@@ -88,8 +88,20 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic =
-    .title = Heriti la aspekton de via mastruma sistemo por butonoj, menuoj kaj fenestroj.
+    .title = Heredi la aspekton de via mastruma sistemo por butonoj, menuoj kaj fenestroj.
     .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title = Uzi helan aspekton por butonoj, menuoj kaj fenestroj.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title = Uzi malhelan aspekton por butonoj, menuoj kaj fenestroj.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title = Uzi kolorplenan aspekton por butonoj, menuoj kaj fenestroj.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
