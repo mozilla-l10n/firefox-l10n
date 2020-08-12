@@ -50,6 +50,12 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Eksperimentoj de { -brand-short-name }
+category-experimental =
+    .tooltiptext = Eksperimentoj de { -brand-short-name }
+pane-experimental-subtitle = Daŭrigu singarde
+pane-experimental-search-results-header = Eksperimentoj de { -brand-short-name }: daŭrigu singarde
+pane-experimental-description = La ŝanĝo de spertulaj agordaj preferoj povas efiki sur la sekureco kaj efikeco de { -brand-short-name }.
 help-button-label = Helpo pri { -brand-short-name }
 addons-button-label = Etendaĵoj kaj etosoj
 focus-search =
@@ -499,7 +505,6 @@ home-prefs-topsites-description = Viaj plej vizititaj retejoj
 
 home-prefs-recommended-by-header =
     .label = Rekomendita de { $provider }
-home-prefs-recommended-by-description = Bonega enhavo de la tuta Teksaĵo, personecigita por vi
 home-prefs-recommended-by-description-update = Eksterordinara enhavo el la reto, reviziita de { $provider }
 
 ##
@@ -563,7 +568,6 @@ search-show-suggestions-above-history-option =
     .label = Montri serĉajn sugestojn antaŭ ol retuman historion en la resultoj de la adresa strio
 search-show-suggestions-private-windows =
     .label = Montri serĉajn sugestojn en privataj fenestroj
-suggestions-addressbar-settings = Ŝanĝi preferojn por retuma historio, legosignoj kaj langetaj sugestoj
 suggestions-addressbar-settings-generic = Ŝanĝi preferojn por la aliaj sugestoj de la adresa strio
 search-suggestions-cant-show = Sugestoj de serĉiloj ne aperos en la rezultoj de la adresa strio ĉar vi petis al { -brand-short-name } neniam memori la historion.
 search-one-click-header = Serĉiloj per unu alklako
@@ -799,10 +803,25 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Uzi ĉefan pasvorton
     .accesskey = U
+forms-primary-pw-use =
+    .label = Uzi ĉefan pasvorton
+    .accesskey = U
+forms-primary-pw-learn-more-link = Pli da informo
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Ŝanĝi ĉefan pasvorton…
     .accesskey = v
 forms-master-pw-fips-title = Vi estas nun en FIPSa reĝimo. FIPS postulas nemalplenan  ĉefan pasvorton.
+forms-primary-pw-change =
+    .label = Ŝanĝi ĉefan pasvorton…
+    .accesskey = p
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
+forms-primary-pw-fips-title = Vi estas nun en FIPSa reĝimo. FIPS postulas nemalplenan ĉefan pasvorton.
 forms-master-pw-fips-desc = Pasvorto malsukcese ŝanĝita
 
 ## OS Authentication dialog
@@ -814,6 +833,13 @@ master-password-os-auth-dialog-message-win = Por krei ĉefan pasvorton vi devas 
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = krei ĉefan pasvorton
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Por krei ĉefan pasvorton vi devas tajpi vian legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = krei ĉefan pasvorton
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -1161,6 +1187,18 @@ space-alert-under-5gb-ok-button =
     .label = En ordo, mi komprenis
     .accesskey = o
 space-alert-under-5gb-message = Elĉerpiĝas la diska spaco por { -brand-short-name }. Enhavo de retejoj povas aperi malĝuste. Vizitu “Pli da informo” por optimumigi la uzon de diska spaco, por pli bona retuma sperto.
+
+## Privacy Section - HTTPS-Only
+
+httpsonly-header = HTTPS-nura reĝimo
+httpsonly-description = HTTPS provizas sekuran, ĉifritan konekton inter { -brand-short-name } kaj la vizitataj retejoj. Plimulto de la retejoj subtenas HTTPS kaj, se la HTTPS-nura reĝimo estas aktiva, { -brand-short-name } movos ĉiujn konektojn al HTTPS.
+httpsonly-learn-more = Pli da informo
+httpsonly-radio-enabled =
+    .label = Aktivigi HTTPS-nuran reĝimon en ĉiuj fenestroj
+httpsonly-radio-enabled-pbm =
+    .label = Aktivigi HTTPS-nuran reĝimon nur en privataj fenestroj
+httpsonly-radio-disabled =
+    .label = Ne aktivigi HTTPS-nuran reĝimon
 
 ## The following strings are used in the Download section of settings
 
