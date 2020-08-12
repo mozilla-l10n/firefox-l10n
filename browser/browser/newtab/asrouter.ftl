@@ -210,6 +210,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vidi ĉiujn
     .accesskey = V
+cfr-doorhanger-milestone-close-button = Fermi
+    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 
@@ -243,3 +245,15 @@ cfr-whatsnew-protections-icon-alt = Emblemo de ŝildo
 
 cfr-whatsnew-better-pdf-header = Pli bona sperto kun PDF
 cfr-whatsnew-better-pdf-body = Dokumentoj PDF malfermiĝas nun rekte en { -brand-short-name }, kio helpas teni viajn aferojn ĉemane.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Via privateco gravas. Ekde nun, se tio eblas, { -brand-short-name } sendos viajn petojn DNS al servo provizata de asociito por protekti vin dum vi retumas.
+cfr-doorhanger-doh-header = Petoj DNS pli sekuraj kaj ĉifritaj
+cfr-doorhanger-doh-primary-button = En ordo, mi komprenis
+    .accesskey = E
+cfr-doorhanger-doh-secondary-button = Malaktivigi
+    .accesskey = M
+
+## What's new: Cookies message
+
