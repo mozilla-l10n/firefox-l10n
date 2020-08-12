@@ -318,6 +318,18 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Inserisci un indirizzo o avvia una ricerca
 urlbar-placeholder =
     .placeholder = Inserisci un indirizzo o avvia una ricerca
+
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+  .placeholder = Cerca sul Web
+
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+  .placeholder = Immetti i termini di ricerca
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
