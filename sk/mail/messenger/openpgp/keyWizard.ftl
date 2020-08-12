@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-buddy.username=Používateľské meno
-buddy.account=Účet
-contact.tags=Značky
+key-wizard-learn-more = Ďalšie informácie
 
-otr.tag=Stav OTR
-message.status=Správa je zašifrovaná
+## Generate key section
+
+
+## Import Key section
+
+
+## External Key section
+

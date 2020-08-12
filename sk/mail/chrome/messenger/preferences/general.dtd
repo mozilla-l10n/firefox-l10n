@@ -43,4 +43,5 @@
 <!ENTITY removeSearchEngine.label         "Odstrániť">
 <!ENTITY removeSearchEngine.accesskey     "i">
 
+<!ENTITY minimizeToTray.label             "Ak je &brandShortName; minimalizovaný, presunúť ho do zásobníka">
 <!ENTITY minimizeToTray.accesskey         "m">

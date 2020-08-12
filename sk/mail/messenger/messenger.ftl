@@ -2,9 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-buddy.username=Používateľské meno
-buddy.account=Účet
-contact.tags=Značky
-
-otr.tag=Stav OTR
-message.status=Správa je zašifrovaná
+about-rights-notification-text = { -brand-short-name } je voľne šíriteľný otvorený softvér vytvorený spoločenstvom tisícov prispievateľov z celého sveta.

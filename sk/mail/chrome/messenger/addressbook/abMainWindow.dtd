@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "R">
 <!ENTITY newAddressBookCmd.label                        "Adresár">
 <!ENTITY newAddressBookCmd.accesskey                    "A">
+<!ENTITY newCardDAVBookCmd.label                        "Adresár typu CardDAV">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Priečinok LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newMessageCmd.label                            "Správa">
