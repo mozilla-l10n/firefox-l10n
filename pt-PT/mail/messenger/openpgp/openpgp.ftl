@@ -227,9 +227,68 @@ openpgp-description =
         [one] O Thunderbird encontrou { $count } chave OpenPGP pessoal associada a <b>{ $identity }</b>
        *[other] O Thunderbird encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
     }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Selecione uma chave válida para ativar o protocolo OpenPGP.
+       *[other] A sua configuração atual utiliza a chave com o ID <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = A sua configuração atual utiliza a chave <b>{ $key }</b>, que expirou.
+openpgp-add-key-button =
+    .label = Adicionar chave...
+    .accesskey = A
+e2e-learn-more = Saber mais
+openpgp-keygen-success = Chave OpenPGP criada com sucesso!
+openpgp-keygen-import-success = Chaves OpenPGP importadas com sucesso!
+openpgp-keygen-external-success = ID da chave GnuPG externa guardada!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Nenhuma
+openpgp-radio-none-desc = Não utilizar o OpenPGP para esta identidade.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Expira a: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = A chave expira em menos de 6 meses
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Expirou a: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Chave expirada
+openpgp-key-expand-section =
+    .tooltiptext = Mais informação
+openpgp-key-revoke-title = Revogar chave
+openpgp-key-edit-title = Alterar chave OpenPGP
+openpgp-key-edit-date-title = Prolongar data de validade
+openpgp-manager-description = Utilizar o gestor de chaves OpenPGP para visualizar e gerir as chaves públicas dos seus correspondentes e todas as outras chaves não listadas acima.
+openpgp-manager-button =
+    .label = Gestor de chaves OpenPGP
+    .accesskey = h
+openpgp-key-remove-external =
+    .label = Remover ID de chave externa
+    .accesskey = e
+key-external-label = Chave GnuPG externa
+# Strings in keyDetailsDlg.xhtml
+key-type-public = chave pública
+key-type-primary = chave primária
+key-type-subkey = sub-chave
+key-type-pair = par de chaves (chave secreta e chave pública)
+key-expiry-never = Nunca
+key-usage-encrypt = Encriptar
+key-usage-sign = Assinar
+key-usage-certify = Certificar
+key-usage-authentication = Autenticar
+key-does-not-expire = A chave não expira
+key-expired-date = A chave expirou a { $keyExpiry }
+key-expired-simple = A chave expirou
+key-revoked-simple = A chave foi revogada
+key-do-you-accept = Aceita esta chave para validar assinaturas digitais e para encriptar mensagens?
+key-accept-warning = Evite aceitar uma chave falsa. Utilize um canal de comunicação diferente do e-mail para confirmar a identificação digital da chave do seu correspondente.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Não foi possível enviar a mensagem porque existe um problema com a sua chave pessoal. { $problem }
+cannot-encrypt-because-missing = Não foi possível enviar esta mensagem com encriptação ponto a ponto, porque existem problemas com as chaves dos seguintes destinatários: { $problem }
 
 ## Account settings export output
 
