@@ -8,6 +8,9 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Kendu { $type } eremua
 #   $type (String) - the type of the addressing row
+remove-address-row-type-label =
+    .tooltiptext = Kendu { $type } eremua
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
