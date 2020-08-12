@@ -257,3 +257,6 @@ cfr-doorhanger-doh-secondary-button = Malaktivigi
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Aŭtomata proteko kontraŭ kaŝitaj spurilaj taktikoj
+cfr-whatsnew-clear-cookies-body = Kelkaj retejoj redirektas vin al aliaj retejoj, kiuj sekrete konservas kuketojn. { -brand-short-name } nun aŭtomate viŝas tiujn kuketojn, tiel ke ili ne povos sekvi vin.
+cfr-whatsnew-clear-cookies-image-alt = Ilustraĵo de blokita kuketo
