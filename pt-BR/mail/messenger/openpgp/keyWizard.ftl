@@ -56,6 +56,8 @@ openpgp-keygen-import-complete =
 openpgp-keygen-short-expiry = Sua chave precisa ser válida por pelo menos um dia.
 openpgp-keygen-ongoing = Geração de chaves já em andamento!
 openpgp-keygen-error-failed = Geração de chaves OpenPGP falhou inesperadamente
+openpgp-keygen-abort-title = Interromper geração de chave?
+openpgp-keygen-abort = Geração de chave OpenPGP em andamento. Tem certeza que quer cancelar?
 #   $identity (String) - the name and email address of the currently selected identity
 openpgp-key-confirm = Gerar chaves pública e secreta para { $identity }?
 

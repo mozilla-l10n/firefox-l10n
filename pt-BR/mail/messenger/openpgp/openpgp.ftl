@@ -233,6 +233,8 @@ window-locked = A janela de edição está bloqueada; envio cancelado
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte criptografada da mensagem
 mime-decrypt-encrypted-part-concealed-data = Esta é uma parte criptografada da mensagem. Você precisa abrir em uma janela separada, clicando no anexo.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Interrompido
 keyserver-error-unknown = Ocorreu um erro desconhecido
 keyserver-error-server-error = O servidor de chaves relatou um erro.
 keyserver-error-import-error = Falha ao importar a chave baixada.
@@ -342,6 +344,8 @@ keygen-missing-user-name = Não há um nome especificado na conta/identidade sel
 expiry-too-short = Sua chave precisa ser válida por pelo menos um dia.
 key-confirm = Gerar chaves pública e secreta para '{ $id }'?
 key-man-button-generate-key = &Gerar chaves
+key-abort = Interromper geração de chave?
+key-man-button-generate-key-abort = &Interromper geração de chave
 key-man-button-generate-key-continue = &Continuar geração de chaves
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Erro - Falha na descriptografia
@@ -357,12 +361,16 @@ enig-content-note = *Anexos desta mensagem não foram assinados nem criptografad
 msg-compose-button-send = &Enviar mensagem
 msg-compose-details-button-label = Detalhes…
 msg-compose-details-button-access-key = D
+send-aborted = Operação de envio interrompida
 key-not-trusted = Confiança insuficiente na chave '{ $key }'
 key-not-found = Chave '{ $key }' não encontrada
 key-revoked = Chave '{ $key }' revogada
 msg-compose-internal-error = Ocorreu um erro interno.
 keys-to-export = Selecione chaves OpenPGP a inserir
 msg-compose-cannot-save-draft = Erro ao salvar rascunho
+sending-news =
+    A operação de envio criptografado foi interrompida.
+    Esta mensagem não pode ser criptografada porque há destinatários de grupos de notícias. Reenvie a mensagem sem criptografia.
 save-attachment-header = Salvar anexo descriptografado
 no-temp-dir =
     Não foi possível encontrar um diretório temporário onde gravar
