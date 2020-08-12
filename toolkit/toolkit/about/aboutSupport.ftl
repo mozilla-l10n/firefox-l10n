@@ -14,7 +14,10 @@ extensions-name = Nomo
 extensions-enabled = Aktiva
 extensions-version = Versio
 extensions-id = ID
+support-addons-title = Aldonaĵoj
 support-addons-name = Nomo
+support-addons-type = Tipo
+support-addons-enabled = Aktiva
 support-addons-version = Versio
 support-addons-id = ID
 security-software-title = Sekureca programaro
@@ -74,6 +77,9 @@ show-dir-label =
         [windows] Malfermi dosierujon
        *[other] Malfermi dosierujon
     }
+experimental-features-title = Eksperimentaj trajtoj
+experimental-features-name = Nomo
+experimental-features-value = Valoro
 modified-key-prefs-title = Modifitaj preferoj
 modified-prefs-name = Nomo
 modified-prefs-value = Valoro
@@ -265,6 +271,9 @@ blocklisted-bug = En la bloklisto pro konataj problemoj
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = cimo { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Blokita pro konataj problemoj: <a data-l10n-name="bug-link">eraro{ $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = En bloklisto; kodo de malsukceso { $failureCode }
