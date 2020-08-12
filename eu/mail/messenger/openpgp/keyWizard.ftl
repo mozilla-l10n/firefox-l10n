@@ -4,31 +4,31 @@
 
 #   $identity (String) - the email address of the currently selected identity
 key-wizard-dialog-window =
-    .title = Gehitu OpenPGP giltza pertsonala { $identity }(e)ntzat
+    .title = Gehitu OpenPGP gako pertsonala { $identity }(e)ntzat
 key-wizard-button =
     .buttonlabelaccept = Jarraitu
     .buttonlabelhelp = atzera
 key-wizard-learn-more = Argibide gehiago
 radio-create-key =
-    .label = Sortu OpenPGPgiltza berria
+    .label = Sortu OpenPGP gako berria
     .accesskey = S
 radio-import-key =
-    .label = Inportatu badagoen OpenPGP giltza
+    .label = Inportatu badagoen OpenPGP gakoa
     .accesskey = I
 radio-gnupg-key =
-    .label = Erabili zure kanpoko giltza GnuPG zehar (Adibidez txartel digitala)
+    .label = Erabili zure kanpoko gakoa GnuPG zehar (Adibidez txartel digitala)
     .accesskey = E
 
 ## Generate key section
 
-openpgp-generate-key-title = Sortarazi OpenPGP giltza
-openpgp-keygen-expiry-title = Giltza iraungitzea
-openpgp-keygen-expiry-description = Definitu sortu berri duzun giltzaren iraungitze denbora. Ondoren data kontrola dezakezu luzatzea beharrezkoa balitz.
+openpgp-generate-key-title = Sortarazi OpenPGP gakoa
+openpgp-keygen-expiry-title = Gakoaren iraungitzea
+openpgp-keygen-expiry-description = Definitu sortu berri duzun gakoaren iraungitze denbora. Ondoren data kontrola dezakezu luzatzea beharrezkoa balitz.
 radio-keygen-expiry =
-    .label = Giltza iraungitzen da
+    .label = Gakoa iraungitzen da
     .accesskey = G
 radio-keygen-no-expiry =
-    .label = Giltza ez da iraungitzen
+    .label = Gakoa ez da iraungitzen
     .accesskey = e
 openpgp-keygen-days-label =
     .label = egun
@@ -37,6 +37,10 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = urte
 openpgp-keygen-advanced-title = Ezarpen aurreratuak
+openpgp-keygen-advanced-description = Kontrolatu zure OpenPGP gakoaren ezarpen aurreratuak.
+openpgp-keygen-keytype =
+    .value = Gako mota:
+    .accesskey = m
 
 ## Import Key section
 

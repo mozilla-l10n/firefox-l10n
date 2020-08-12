@@ -3,16 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-change-key-expiry-title =
-    .title = Aldatu giltzaren iraungitzea
-info-will-expire = Orain giltza ondorengo datan iraungitzeko konfiguratu da: { $date }
-info-already-expired = Giltza jada iraungia dago.
-info-does-not-expire = Giltza ez dadin iraungi konfiguratu da.
-info-explanation-1 = <b>Giltza iraungi ondoren</b>, ez da posible izango erabiltzea zifratzeko edo digitalki sinatzeko.
-info-explanation-2 = Giltza hau epe luzeagoan erabiltzeko, aldatu bere iraungitze data,eta orduan banatu giltza publikoa zure elkarrizketatuekin berriro.
+    .title = Aldatu gakoaren iraungitzea
+info-will-expire = Orain gakoa ondorengo datan iraungitzeko konfiguratu da: { $date }
+info-already-expired = Gakoa iraungia dago.
+info-does-not-expire = Gakoa ez dadin iraungi konfiguratu da.
+info-explanation-1 = <b>Gakoa iraungi ondoren</b>, ez da posible izango erabiltzea zifratzeko edo digitalki sinatzeko.
+info-explanation-2 = Gakoa hau epe luzeagoan erabiltzeko, aldatu bere iraungitze data,eta orduan banatu gako publikoa zure elkarrizketatuekin berriro.
 expire-dont-change =
     .label = Ez aldatu iraungitze datarik
 expire-never-label =
-    .label = Giltza ez da inoiz iraungiko
+    .label = Gakoa ez da inoiz iraungiko
 expire-in-label =
-    .label = Giltza iraungiko da:
+    .label = Gakoa iraungiko da:
 expire-in-months = hilabete
