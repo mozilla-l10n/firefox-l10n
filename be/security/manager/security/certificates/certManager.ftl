@@ -208,6 +208,8 @@ cert-not-verified-issuer-unknown = Немагчыма пацвердзіць г�
 cert-not-verified-ca-invalid = Немагчыма пацвердзіць гэты сертыфікат, таму што сертыфікат ЦС не сапраўдны.
 cert-not-verified_algorithm-disabled = Немагчыма праверыць гэты сертыфікат, бо ён падпісаны з дапамогаю алгарытму подпісаў, які забаронены, бо не з'яўляецца бяспечным.
 cert-not-verified-unknown = Немагчыма пацвердзіць гэты сертыфікат з невядомай прычыны.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Не адпраўляць сертыфікат кліента
 
 ## Add Security Exception dialog
 
