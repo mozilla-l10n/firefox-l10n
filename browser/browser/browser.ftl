@@ -320,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Шукаць ці ўвесці адрас
 urlbar-placeholder =
     .placeholder = Шукаць ці ўвесці адрас
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Шукайце ў { $name } або ўвядзіце адрас
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Браўзер знаходзіцца пад аддаленым кіраваннем
 urlbar-permissions-granted =
