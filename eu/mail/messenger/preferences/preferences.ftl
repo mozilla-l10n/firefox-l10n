@@ -41,7 +41,6 @@ composition-addressing-header = Helbideratzea
 privacy-main-header = Pribatutasuna
 privacy-passwords-header = Pasahitzak
 privacy-junk-header = Zaborra
-privacy-data-collection-header = Datuen bilketa eta erabilera
 collection-header = { -brand-short-name } datuen bilketa eta erabilera
 collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } denontzat hobetzeko behar ditugun datuak soilik biltzeko. Informazio pertsonala jaso aurretik zure baimena eskatzen dugu beti.
 collection-privacy-notice = Pribatutasun-oharra
@@ -96,14 +95,19 @@ addons-button = Hedapenak eta Gaiak
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Egiaztatu zure identitatea pasahitz nagusia sortzeko.
-# This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message-win = Pasahitz nagusi bat sortzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = sortu pasahitz nagusia
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Pasahitz nagusi bat sortzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Sortu pasahitz nagusia
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -541,6 +545,15 @@ master-password-label =
 master-password-button =
     .label = Aldatu pasahitz nagusia…
     .accesskey = A
+primary-password-description = Pasahitz nagusiak zure pasahitz guztiak babesten ditu, baina saio bakoitzeko behin sartu behar duzu.
+primary-password-label =
+    .label = Erabili pasahitz nagusia
+    .accesskey = E
+primary-password-button =
+    .label = Aldatu pasahitz nagusia…
+    .accesskey = A
+forms-primary-pw-fips-title = Une honetan FIPS moduan zaude. FIPS moduak pasahitz nagusia ezartzea eskatzen du.
+forms-master-pw-fips-desc = Pasahitz aldaketak huts egin du
 junk-description = Ezarri zabor-postaren ezarpen lehenetsiak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfiguratu daitezke.
 junk-label =
     .label = Mezuak zabor gisa markatzen ditudanean:
