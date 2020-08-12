@@ -420,10 +420,24 @@ keyring-photo = Foto
 user-att-photo = Attributo utente (immagine JPEG)
 # Strings in key.jsm
 already-revoked = Questa chiave è già stata revocata.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Si sta per revocare la chiave “{ $identity }”.
+    Non sarà più possibile firmare con questa chiave e, una volta distribuita, altre persone non potranno più utilizzarla per crittare i messaggi. È comunque possibile continuare a utilizzarla per decrittare i vecchi messaggi.
+    Procedere con l’operazione?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Non si dispone di alcuna chiave (0x{ $keyId }) che corrisponde a questo certificato di revoca.
+    Se si è persa la propria chiave, è necessario importarla (ad es. da un keyserver) prima di importare il certificato di revoca.
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = La chiave 0x{ $keyId } è già stata revocata.
 key-man-button-revoke-key = &Revoca chiave
 openpgp-key-revoke-success = Chiave revocata correttamente.
+after-revoke-info =
+    La chiave è stata revocata.
+    Condividere di nuovo questa chiave pubblica inviandola tramite email o caricandola sui keyserver per far sapere agli altri che la propria chiave è stata revocata.
+    Non appena il software utilizzato dalle altre persone verrà a conoscenza della revoca, smetterà di usare la vecchia chiave.
+    Se si utilizza una nuova chiave per lo stesso indirizzo email e si allega la nuova chiave pubblica alle email inviate, le informazioni sulla vecchia chiave revocata verranno incluse automaticamente.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importa
 delete-key-title = Elimina chiave OpenPGP
@@ -449,6 +463,7 @@ import-key-confirm = Importare le chiavi pubbliche incluse nel messaggio?
 fail-key-import = Errore: importazione chiave non riuscita
 file-write-failed = Impossibile scrivere nel file { $output }
 no-pgp-block = Errore: non è stato trovato alcun blocco blindato di dati OpenPGP
+confirm-permissive-import = Importazione non riuscita. La chiave che si sta tentando di importare potrebbe essere danneggiata o utilizza degli attributi sconosciuti. Tentare l’importazione delle parti corrette? Ciò potrebbe comportare l’importazione di chiavi incomplete e inutilizzabili.
 # Strings used in trust.jsm
 key-valid-unknown = sconosciuta
 key-valid-invalid = non valida
@@ -466,10 +481,13 @@ import-rev-file = Importa file di revoca OpenPGP
 gnupg-file = File GnuPG
 import-keys-failed = Importazione delle chiavi non riuscita
 passphrase-prompt = Inserire la passphrase per sbloccare la seguente chiave: { $key }
+file-to-big-to-import = Questo file è troppo grande. Non importare un numero eccessivo di chiavi.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crea e salva il certificato di revoca
+revoke-cert-ok = Il certificato di revoca è stato creato correttamente. È possibile utilizzarlo per invalidare la propria chiave pubblica, ad esempio nel caso in cui si perdesse la chiave segreta.
 revoke-cert-failed = Impossibile creare il certificato di revoca.
 gen-going = Generazione della chiave già in corso.
+keygen-missing-user-name = Non è stato specificato alcun nome per l’account corrente. Inserire un valore nel campo “Il tuo nome” nelle impostazioni dell’account.
 expiry-too-short = La chiave deve essere valida per almeno un giorno.
 expiry-too-long = Non è possibile creare una chiave che scade tra più di 100 anni.
 key-confirm = Generare chiave pubblica e segreta per “{ $id }”?
@@ -484,14 +502,27 @@ attachment-no-match-from-signature = Impossibile associare il file della firma �
 attachment-no-match-to-signature = Impossibile associare l’allegato “{ $attachment }” a un file della firma
 signature-verified-ok = La firma per l’allegato { $attachment } è stata verificata correttamente
 signature-verify-failed = La firma per l’allegato { $attachment } non può essere verificata
+decrypt-ok-no-sig =
+    Attenzione
+    La decrittazione ha avuto esito positivo, ma non è stato possibile verificare correttamente la firma
+msg-ovl-button-cont-anyway = &Continua comunque
+enig-content-note = *Gli allegati a questo messaggio non sono stati firmati né crittati*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Invia messaggio
 msg-compose-details-button-label = Dettagli…
 msg-compose-details-button-access-key = D
+send-aborted = Operazione di invio interrotta.
 key-not-trusted = Affidabilità non sufficiente per la chiave “{ $key }”
 key-not-found = Chiave “{ $key }” non trovata
 key-revoked = Chiave “{ $key }” revocata
 key-expired = Chiave “{ $key }” scaduta
+msg-compose-internal-error = Si è verificato un errore interno.
 keys-to-export = Seleziona chiavi OpenPGP da inserire
+msg-compose-partially-encrypted-inlinePGP =
+    Il messaggio a cui si sta rispondendo contiene sia parti crittate che non crittate. Se il mittente non è stato in grado di decrittare alcune parti del messaggio originale, si potrebbe esporre alcune informazioni riservate che il mittente non è stato in grado di decrittare.
+    Si consiglia di rimuovere tutto il testo citato dalla risposta a questo mittente.
 msg-compose-cannot-save-draft = Errore durante il salvataggio della bozza
+msg-compose-partially-encrypted-short = Attenzione alla fuga di informazioni sensibili: l’email è solo parzialmente crittata.
 quoted-printable-warn =
     È stata attivata la codifica “quoted-printable” per l'invio dei messaggi. Questo potrebbe causare errori durante la decrittazione o la verifica del messaggio.
     Disattivare l’invio di messaggi “quoted-printable”?
@@ -510,6 +541,7 @@ save-attachment-header = Salva allegato decrittato
 no-temp-dir =
     Impossibile trovare una directory temporanea in cui scrivere
     Impostare la variabile di ambiente TEMP
+possibly-pgp-mime = Probabilmente il messaggio è crittato o firmato con PGP/MIME: utilizzare la funzione “Decritta/Verifica“
 cannot-send-sig-because-no-own-key = Impossibile firmare digitalmente questo messaggio perché non è stata ancora configurata la crittografia end-to-end per <{ $key }>
 cannot-send-enc-because-no-own-key = Impossibile inviare questo messaggio crittato perché non è stata ancora configurata la crittografia end-to-end per <{ $key }>
 # Strings used in decryption.jsm
