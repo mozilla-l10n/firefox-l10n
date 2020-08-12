@@ -456,6 +456,16 @@ key-error-not-accepted-as-personal = No confirmó que la clave con ID '{ $keySpe
 need-online = La función que seleccionó no está disponible en el modo fuera de línea. Conéctese y vuelva a intentarlo.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = No pudimos encontrar ninguna clave que coincida con los criterios de búsqueda especificados.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Error: falló el comando de extracción de claves
+# Strings used in keyRing.jsm
+fail-cancel = Error: la recepción de clave fue cancelada por el usuario
+not-first-block = Error: el primer bloque OpenPGP no es un bloque de clave pública
+import-key-confirm = ¿Importar clave(s) pública(s) incrustadas en el mensaje?
+fail-key-import = Error: no se pudo importar la clave
+file-write-failed = Fallo al escribir en el archivo { $output }
+no-pgp-block = Error: no se encontró un bloque de datos OpenPGP blindado válido
+confirm-permissive-import = La importación falló. La clave que está intentando importar puede estar dañada o utilizar atributos desconocidos. ¿Le gustaría intentar importar las partes correctas? Esto puede resultar en la importación de claves incompletas e inutilizables.
 gnupg-file = Archivos GnuPG
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear y guardar certificado de revocación
