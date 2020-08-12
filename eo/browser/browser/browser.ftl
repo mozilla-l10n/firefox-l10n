@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Tajpu malpli, trovi pli: serĉi per { $engineName } rekte el via adresa strio.
 urlbar-search-tips-redirect-2 = Komencu vian serĉon en la adresa strio por vidi sugestojn el { $engineName } kaj el via retuma historio.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Legosignoj
+urlbar-search-mode-tabs = Langetoj
+urlbar-search-mode-history = Historio
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,26 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Igi ĝin la norma serĉilo en privataj fenestroj
     .accesskey = n
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Legosignoj ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Folioj ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historio ({ $restrict })
 
 ## Bookmark Panel
 
@@ -294,6 +320,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Serĉu ion aŭ tajpu adreson
 urlbar-placeholder =
     .placeholder = Serĉu ion aŭ tajpu adreson
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Serĉi per { $name } aŭ tajpi adreson
 urlbar-remote-control-notification-anchor =
     .tooltiptext = La retumilo estas sub fora regado
 urlbar-permissions-granted =
