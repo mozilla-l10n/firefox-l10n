@@ -28,3 +28,13 @@ printui-more-settings = Pli da agordoj
 printui-less-settings = Malpli da agordoj
 # Section title (noun) for the print scaling options
 printui-scale = Skalo
+printui-scale-fit-to-page = Alĝustigi al la paĝo
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Skalo
+# Section title for miscellaneous print options
+printui-options = Ebloj
+printui-headers-footers-checkbox = Presi paĝokapojn kaj paĝopiedojn
+printui-backgrounds-checkbox = Presi fonojn
+printui-system-dialog-link = Presi per la sistema dialogo…
+printui-primary-button = Presi
+printui-cancel-button = Nuligi
