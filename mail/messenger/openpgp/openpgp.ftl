@@ -289,6 +289,41 @@ key-accept-warning = Evite aceitar uma chave falsa. Utilize um canal de comunica
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Não foi possível enviar a mensagem porque existe um problema com a sua chave pessoal. { $problem }
 cannot-encrypt-because-missing = Não foi possível enviar esta mensagem com encriptação ponto a ponto, porque existem problemas com as chaves dos seguintes destinatários: { $problem }
+window-locked = A janela de composição está bloqueada; envio cancelado
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Parte encriptada da mensagem
+mime-decrypt-encrypted-part-concealed-data = Esta é uma parte encriptada da mensagem. Você precisa de abrir a mesma numa janela separada clicando no anexo.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Abortado
+keyserver-error-unknown = Ocorreu um erro desconhecido
+keyserver-error-server-error = O servidor de chaves reportou um erro.
+keyserver-error-import-error = A importação da chave transferida falhou.
+keyserver-error-unavailable = O servidor de chaves não está disponível.
+keyserver-error-security-error = O servidor de chaves não suporta acessos encriptados.
+keyserver-error-certificate-error = O certificado do servidor de chaves não é válido.
+keyserver-error-unsupported = O servidor de chaves não é suportado.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    O seu fornecedor de e-mail processou o seu pedido para enviar a sua chave pública para o OpenPGP Web Key Directory.
+    Por favor, confirme para concluir a publicação da sua chave pública.
+wkd-message-body-process =
+    Este é um e-mail relacionado com o processamento automático do envio da sua chave pública para o OpenPGP Web Key Directory.
+    Não precisa realizar qualquer ação manual neste momento.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Não foi possível desencriptar a mensagem com assunto
+    { $subject }.
+    Quer tentar novamente com uma frase de acesso diferente ou deseja ignorar a mensagem?
+# Strings in gpg.jsm
+unknown-signing-alg = Algoritmo de assinatura desconhecido (ID: { $id })
+unknown-hash-alg = Hash criptográfica desconhecida (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    A sua chave { $desc } irá expirar em menos de { $days } dias.
+    Recomendamos que crie um novo par de chaves e configure as contas correspondentes para as utilizar.
+expiry-keys-expire-soon =
+    As chaves seguintes irão expirar em menos de { $days } dias: { $desc }.
+    Recomendamos que crie novas chaves e configure as contas correspondentes para utilizarem as mesmas.
 
 ## Account settings export output
 
