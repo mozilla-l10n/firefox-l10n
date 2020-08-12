@@ -36,6 +36,7 @@ policy-DisableFirefoxStudies = Malpermesi al { -brand-short-name } fari studojn.
 policy-DisableForgetButton = Malpermesi aliron al la butono "Forgesi".
 policy-DisableFormHistory = Ne memori serĉan kah formularan historion.
 policy-DisableMasterPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
+policy-DisablePrimaryPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
 policy-DisablePasswordReveal = Ne permesi malkaŝi pasvortojn en konservitaj legitimiloj.
 policy-DisablePocket = Malaktivigi la eblon konservi retpaĝojn en Pocket.
 policy-DisablePrivateBrowsing = Malaktivigi privatan retumon
