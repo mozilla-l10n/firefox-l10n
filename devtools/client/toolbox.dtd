@@ -183,7 +183,7 @@
 <!ENTITY options.sourceeditor.detectindentation.label   "ఇన్‌డెంటేషన్ గుర్తించు">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "సోర్స్ కాంటెంట్‌పై ఆధారపడి ఇండెంటేషన్ అంచనావేయి">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "బ్రాకెట్లను స్వయంచాలకంగా మూసివేయి">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "మూసివేత బ్రాకెట్లు స్వయంచాలకంగా చొప్పించును">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "మూసివేత బ్రాకెట్లను స్వయంచాలకంగా చొప్పించు">
 <!ENTITY options.sourceeditor.expandtab.label           "ఇండెంటు కోసం ఖాళీలు వాడు">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "ట్యాబు కారెక్టర్ బదులు ఖాళీలు ఉపయోగించు">
 <!ENTITY options.sourceeditor.tabsize.label             "ట్యాబు పరిమాణం">

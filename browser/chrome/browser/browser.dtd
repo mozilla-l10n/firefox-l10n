@@ -941,6 +941,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "పొడగింతను అచేతనం చేయి">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "దాచివున్న ట్యాబులను చూడండి">
 <!ENTITY tabHideControlled.keepButton.label "ట్యాబులను దాచి ఉంచు">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "పొడగింతను అచేతనం చేయి">
