@@ -19,3 +19,4 @@ about-httpsonly-explanation-risk = Potrebbe anche trattarsi di un tentativo di a
 about-httpsonly-button-make-exception = Accetta il rischio e continua sul sito
 about-httpsonly-button-accept-and-continue = Accetta il rischio e continua
 about-httpsonly-button-go-back = Torna indietro
+about-httpsonly-link-learn-more = Ulteriori informazioni…
