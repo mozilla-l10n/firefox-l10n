@@ -320,10 +320,44 @@ unknown-hash-alg = Hash criptográfica desconhecida (ID: { $id })
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     A sua chave { $desc } irá expirar em menos de { $days } dias.
-    Recomendamos que crie um novo par de chaves e configure as contas correspondentes para as utilizar.
+    Recomendamos que crie um novo par de chaves e que configure as contas correspondentes para utilizarem o mesmo.
 expiry-keys-expire-soon =
     As chaves seguintes irão expirar em menos de { $days } dias: { $desc }.
     Recomendamos que crie novas chaves e configure as contas correspondentes para utilizarem as mesmas.
+expiry-key-missing-owner-trust =
+    A sua chave secreta { $desc } tem falta de confiança.
+    Recomendamos que defina "Confia em certificações" como "totalmente" nas propriedades da chave.
+expiry-keys-missing-owner-trust =
+    As suas chaves secretas seguintes tem falta de confiança.
+    { $desc }.
+    Recomendamos que defina "Confia em certificações" como "totalmente" nas propriedades das chaves.
+expiry-open-key-manager = Abrir o gestor de chaves OpenPGP
+expiry-open-key-properties = Abrir propriedades da chave
+# Strings filters.jsm
+filter-folder-required = Tem de escolher uma pasta de destino.
+filter-decrypt-move-warn-experimental =
+    Aviso - a ação do filtro "Desencriptar de forma permanente" pode levar à destruição de mensagens.
+    Recomendamos fortemente que primeiro experimente o filtro "Criar cópia desencriptada", teste cuidadosamente o resultado e só comece a utilizar este filtro quando estiver satisfeito com o resultado.
+filter-term-pgpencrypted-label = Encriptado com o OpenPGP
+filter-key-required = Deve selecionar uma chave do destinatário.
+filter-key-not-found = Não foi possível encontrar uma chave de encriptação para '{ $desc }'.
+filter-warn-key-not-secret =
+    Aviso - a ação do filtro "Encriptar para a chave" substitui os destinatários.
+    Se não tiver a chave secreta para '{ $desc }', deixará de conseguir ler os e-mails.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Desencriptar de forma permanente (OpenPGP)
+filter-decrypt-copy-label = Criar uma cópia desencriptada (OpenPGP)
+filter-encrypt-label = Encriptar para a chave (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Sucesso! Chaves importadas
+import-info-bits = Bits
+import-info-created = Criada
+import-info-fpr = Identificador digital
+import-info-details = Ver detalhes e gerir a aceitação da chave
+import-info-no-keys = Sem chaves importadas.
 
 ## Account settings export output
 
+key-ring-key-not-trusted = A chave { $userId } (ID da chave { $keyId }) não é suficientemente confiável. Defina o nível de confiança da sua chave como "totalmente" para utilizar a mesma para assinaturas.
+key-trust-ultimate = totalmente
