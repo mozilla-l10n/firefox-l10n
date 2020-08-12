@@ -388,8 +388,15 @@ export-keypair-to-file = Exportar chave pública e chave privada para um ficheir
 export-secret-key = Pretende incluir a chave secreta no ficheiro de chaves OpenPGP guardado?
 save-keys-ok = As chaves foram guardadas com sucesso
 save-keys-failed = Falha ao guardar as chaves
+default-pub-key-filename = chaves-publicas-exportadas
+default-pub-sec-key-filename = cópia-das-chaves-secretas
+refresh-key-warn = Aviso: dependendo do número de chaves e da velocidade da ligação, a atualização de todas as chaves pode ser um processo bastante demorado!
+preview-failed = Não foi possível ler o ficheiro da chave pública.
+general-error = Erro: { $reason }
+dlg-button-delete = E&liminar
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Chave pública exportada com sucesso!</b>
 key-ring-key-not-trusted = A chave { $userId } (ID da chave { $keyId }) não é suficientemente confiável. Defina o nível de confiança da sua chave como "totalmente" para utilizar a mesma para assinaturas.
 key-trust-ultimate = totalmente
