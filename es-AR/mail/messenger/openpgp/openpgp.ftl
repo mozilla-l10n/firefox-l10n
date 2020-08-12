@@ -407,6 +407,16 @@ key-ring-pub-key-revoked = La clave { $userId } (ID de clave { $keyId }) está r
 key-ring-pub-key-expired = La clave { $userId } (ID de clave { $keyId }) ya caducó.
 key-ring-key-disabled = La clave { $userId } (ID clave { $keyId }) está deshabilitada; no puede usarse.
 key-ring-key-invalid = La clave { $userId } (ID de clave { $keyId }) no es válida. Considere verificarla correctamente.
+key-ring-key-not-trusted = La clave { $userId } (ID de clave { $keyId }) no es suficientemente confiable. Establezca el nivel de confianza de su clave para "ultimate" y úselo para firmar.
+key-ring-no-secret-key = No parece tener la clave secreta para { $userId } (ID de clave { $keyId }) en su llavero; no puede utilizar la clave para firmar.
+key-ring-pub-key-not-for-signing = La clave { $userId } (ID de clave { $keyId }) no puede ussssarse para firmar.
+key-ring-pub-key-not-for-encryption = La clave { $userId } (ID clave { $keyId }) no puede usarse para el cifrado.
+key-ring-sign-sub-keys-revoked = Todas las subclaves de firma de la clave { $userId } (ID clave { $keyId }) están revocadas.
+key-ring-sign-sub-keys-expired = Todas las subclaves de firma de la clave { $userId } (ID clave { $keyId }) ya caducaron.
+key-ring-sign-sub-keys-unusable = Todas las subclaves de firma de la clave { $userId } (ID clave { $keyId }) se revocaron o caducaron. No se pueden usar.
+key-ring-enc-sub-keys-revoked = Todas las subclaves de cifrado de la clave { $userId } (ID clave { $keyId }) están revocadas.
+key-ring-enc-sub-keys-expired = Todas las subclaves de cifrado de la clave { $userId } (ID clave { $keyId }) caducaron.
+key-ring-enc-sub-keys-unusable = Todas las subclaves de cifrado de la clave { $userId } (ID clave { $keyId }) están revocadas o caducadas. No se pueden usar.
 key-man-button-revoke-key = &Revocar clave
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
