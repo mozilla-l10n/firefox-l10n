@@ -15,6 +15,7 @@ policy-BlockAboutAddons = పొడగింతల నిర్వహణను (
 policy-BlockAboutConfig = about:onfig పేజీని చూడటాన్ని నిరోధించండి.
 policy-BlockAboutProfiles = about:profiles పేజీని చూడటాన్ని నిరోధించు.
 policy-BlockAboutSupport = about:support పేజీని చూడకుండా నిరోధించు.
+policy-CertificatesDescription = ధ్రువపత్రాలను చేర్చడం లేదా అంతర్నిర్మిత ధ్రువపత్రాలను వాడటం.
 policy-Cookies = వెబ్‌సైట్లు కుకీలను అమర్చేలా అనుమతించండి లేదా తిరస్కరించండి.
 policy-DisableDeveloperTools = డెవలపర్ పనిముట్లను చూడటాన్ని నిరోధించండి.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -31,6 +32,7 @@ policy-DisableSystemAddonUpdate = వ్యవస్థ పొడగింతల
 policy-DisableTelemetry = టెలిమెట్రీని ఆపివేయి.
 policy-DisplayBookmarksToolbar = అప్రమేయంగా ఇష్టాంశాల పట్టీని చూపించు.
 policy-DisplayMenuBar = మెనూ పట్టీని అప్రమేయంగా చూపించు.
+policy-DNSOverHTTPS = HTTPS పై DNSను స్వరూపించడం.
 policy-DontCheckDefaultBrowser = మొదలయ్యేటపుడు అప్రమేయ విహారిణియేనా అని తనిఖీ చేయడాన్ని అచేతనించు.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = విషయ నిరోధాన్ని చేతనం చేయండి లేదా అచేతనం చేయండి, లేక ఐచ్ఛికంగా దానికి తాళం వేయండి.
