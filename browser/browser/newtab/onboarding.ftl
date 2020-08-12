@@ -47,14 +47,49 @@ onboarding-cards-dismiss =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Bonvenon al <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = La rapida, sekura kaj privata retumilo apogata de neprofitcela organizo.
+onboarding-multistage-welcome-primary-button-label = Komenci agordon
 onboarding-multistage-welcome-secondary-button-label = Komenci seancon
 onboarding-multistage-welcome-secondary-button-text = Ĉu vi havas konton?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Enporti viajn pasvortojn, <br/>legosignojn, kaj <span data-l10n-name="zap">pli</span>
+onboarding-multistage-import-subtitle = Ĉu vi venas el alia retumilo? Estas facile porti ĉion al { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Komenci enporton
+onboarding-multistage-import-secondary-button-label = Ne nun
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = La retejoj listita ĉi tie estis trovitaj en tiu ĉi aparato. { -brand-short-name } ne konservas aŭ spegulas datumojn de aliaj retumiloj, krom se vi petas tion al ĝi.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Unua paŝoj: ekrano { $current } de { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Elektu <span data-l10n-name="zap">aspekton</span>
+onboarding-multistage-theme-subtitle = Personecigu { -brand-short-name } per etoso.
+onboarding-multistage-theme-primary-button-label = Konservi etoson
+onboarding-multistage-theme-secondary-button-label = Ne nun
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Aŭtomate
+# System refers to the operating system
+onboarding-multistage-theme-description-automatic = Uzi sisteman etoson
+onboarding-multistage-theme-label-light = Hela
+onboarding-multistage-theme-label-dark = Malhela
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title = Heriti la aspekton de via mastruma sistemo por butonoj, menuoj kaj fenestroj.
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
 
 ## Welcome full page string
 
