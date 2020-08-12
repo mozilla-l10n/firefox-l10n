@@ -356,6 +356,38 @@ import-info-created = Criada
 import-info-fpr = Identificador digital
 import-info-details = Ver detalhes e gerir a aceitação da chave
 import-info-no-keys = Sem chaves importadas.
+# Strings in enigmailKeyManager.js
+import-from-clip = Pretende importar algumas chaves da área de transferência?
+import-from-url = Transferir a chave pública deste endereço:
+copy-to-clipbrd-failed = Não foi possível copiar a(s) chave(s) selecionada(s) para a área de transferência.
+copy-to-clipbrd-ok = Chave(s) copiada(s) para a área de transferência
+delete-secret-key =
+    AVISO: Você está prestes a eliminar uma chave secreta!
+    
+    Se excluir a sua chave secreta, deixará de poder desencriptar qualquer mensagem encriptada para esta chave, nem a poderá revogar.
+    
+    Você quer mesmo eliminar AMBAS, a chave secreta e a chave pública
+    '{ $userId }'?
+delete-mix =
+    AVISO: Você está prestes a eliminar as chaves secretas!
+    Se excluir a sua chave secreta, deixará de poder desencriptar qualquer mensagem encriptada para esta chave.
+    Tem certeza que pretende eliminar AMBAS, as chaves secretas e públicas selecionadas?
+delete-pub-key =
+    Pretende eliminar a chave pública
+    '{ $userId }'?
+delete-selected-pub-key = Pretende eliminar as chaves públicas?
+refresh-all-question = Não selecionou qualquer chave. Gostaria de atualizar TODAS as chaves?
+key-man-button-export-sec-key = Exportar chaves &secretas
+key-man-button-export-pub-key = Exportar apenas chaves &públicas
+key-man-button-refresh-all = Atuali&zar todas as chaves
+key-man-loading-keys = A carregar chaves, por favor aguarde...
+ascii-armor-file = ASCII Armored Files (*.asc)
+no-key-selected = Deve selecionar pelo menos uma chave para realizar a operação selecionada
+export-to-file = Exportar chave pública para um ficheiro
+export-keypair-to-file = Exportar chave pública e chave privada para um ficheiro
+export-secret-key = Pretende incluir a chave secreta no ficheiro de chaves OpenPGP guardado?
+save-keys-ok = As chaves foram guardadas com sucesso
+save-keys-failed = Falha ao guardar as chaves
 
 ## Account settings export output
 
