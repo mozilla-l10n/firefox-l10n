@@ -486,3 +486,36 @@ file-to-big-to-import = Este ficheiro é demasiado grande. Não importe um grand
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Criar e guardar um certificado de revogação
 revoke-cert-ok = O certificado de revogação foi criado com sucesso. Pode utilizar o mesmo para invalidar a sua chave pública, por exemplo, no caso de perder a sua chave secreta.
+revoke-cert-failed = O certificado de revogação não pôde ser criado.
+gen-going = Geração de chave já em curso!
+keygen-missing-user-name = Não existe nenhum nome especificado para a conta/identidade. Por favor, introduza um valor no campo "O seu nome" nas definições da conta.
+expiry-too-short = A sua chave deve ser válida durante, pelo menos, um dia.
+expiry-too-long = Não pode criar uma chave que expire em mais de 100 anos.
+key-confirm = Gerar chave pública e secreta para '{ $id }'?
+key-man-button-generate-key = &Gerar chave
+key-abort = Abortar a geração da chave?
+key-man-button-generate-key-abort = &Abortar a geração da chave
+key-man-button-generate-key-continue = &Continuar a geração da chave
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Erro - a desencriptação falhou
+fix-broken-exchange-msg-failed = Falha ao reparar a mensagem.
+attachment-no-match-from-signature = Não foi possível corresponder o ficheiro de assinatura '{ $attachment }' com um anexo
+attachment-no-match-to-signature = Não foi possível corresponder o anexo '{ $attachment }' com um ficheiro de assinatura
+signature-verified-ok = A assinatura para o anexo { $attachment } foi confirmada com sucesso
+signature-verify-failed = Não foi possível confirmar a assinatura para o anexo { $attachment }
+decrypt-ok-no-sig =
+    Aviso
+    A desencriptação foi bem-sucedida, mas a assinatura não pôde ser corretamente confirmada
+msg-ovl-button-cont-anyway = &Continuar ainda assim
+enig-content-note = *Os anexos desta mensagem não foram assinados nem encriptados*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Enviar mensagem
+msg-compose-details-button-label = Detalhes…
+msg-compose-details-button-access-key = D
+send-aborted = Operação de envio cancelada.
+key-not-trusted = Não existe confiança suficiente para a chave '{ $key }'
+key-not-found = A chave '{ $key }' não foi encontrada
+key-revoked = A chave '{ $key }' foi revogada
+key-expired = A chave '{ $key }' expirou
+msg-compose-internal-error = Ocorreu um erro interno.
+keys-to-export = Selecionar as chaves OpenPGP a inserir
