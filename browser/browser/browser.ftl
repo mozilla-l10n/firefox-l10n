@@ -110,6 +110,12 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Укуцајте мање, пронађите више: претражујте { $engineName } директно из ваше адресне траке.
 urlbar-search-tips-redirect-2 = Започните вашу претрагу у адресној траци да бисте видели { $engineName } предлоге и вашу историју прегледања.
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = Обележивачи
+urlbar-search-mode-tabs = Језичци
+urlbar-search-mode-history = Историја
+
 ##
 
 urlbar-geolocation-blocked =
@@ -185,6 +191,26 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Постави као подразумевани претраживач за приватни Windows
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = Обележивачи ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Језичци ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Историја ({ $restrict })
 
 ## Bookmark Panel
 
@@ -292,8 +318,23 @@ enable-devtools-popup-description = Да бисте користили преч�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Претражи или унеси адресу
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Претражи или унеси адресу
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Претражи веб
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Унеси појам за претрагу
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Претражи уз { $name } или унеси адресу
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Прегледач је под удаљеним управљањем
 urlbar-permissions-granted =
