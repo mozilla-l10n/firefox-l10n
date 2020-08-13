@@ -466,6 +466,17 @@ fail-key-import = Error: no se pudo importar la clave
 file-write-failed = Fallo al escribir en el archivo { $output }
 no-pgp-block = Error: no se encontró un bloque de datos OpenPGP blindado válido
 confirm-permissive-import = La importación falló. La clave que está intentando importar puede estar dañada o utilizar atributos desconocidos. ¿Le gustaría intentar importar las partes correctas? Esto puede resultar en la importación de claves incompletas e inutilizables.
+# Strings used in trust.jsm
+key-valid-unknown = desconocido
+key-valid-invalid = Inválido
+key-valid-disabled = deshabilitado
+key-valid-revoked = revocado
+key-valid-expired = caducado
+key-trust-untrusted = no confiable
+key-trust-marginal = marginal
+key-trust-full = confiable
+key-trust-ultimate = último
+key-trust-group = (grupo)
 gnupg-file = Archivos GnuPG
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear y guardar certificado de revocación
