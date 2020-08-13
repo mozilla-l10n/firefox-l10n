@@ -519,3 +519,28 @@ key-revoked = A chave '{ $key }' foi revogada
 key-expired = A chave '{ $key }' expirou
 msg-compose-internal-error = Ocorreu um erro interno.
 keys-to-export = Selecionar as chaves OpenPGP a inserir
+msg-compose-partially-encrypted-inlinePGP =
+    A mensagem à qual está a responder continha partes encriptadas e não encriptadas. Se, originalmente, o remetente não foi capaz de desencriptar algumas partes da mensagem, você pode estar divulgar informações confidenciais que o remetente não foi capaz de desencriptar originalmente.
+    Considere remover todo o texto citado da sua resposta para este remetente.
+msg-compose-cannot-save-draft = Erro ao guardar o rascunho
+msg-compose-partially-encrypted-short = Tenha cuidado com a divulgação de informação sensível - e-mail parcialmente encriptado.
+quoted-printable-warn =
+    Ativou a codificação 'quoted-printable' para enviar mensagens. Isto pode resultar na incorreta desencriptação e/ou confirmação da sua mensagem.
+    Deseja desativar o envio de mensagens 'quoted-printable' agora?
+minimal-line-wrapping =
+    Você definiu a quebra de linha para { $width } caracteres. Para uma correta encriptação e/ou assinatura, este valor deve ser de, pelo menos, 68.
+    Deseja alterar a quebra de linha para 68 caracteres agora?
+sending-hidden-rcpt = Não podem ser utilizados destinatários BCC (cópia oculta) ao enviar uma mensagem encriptada. Para enviar esta mensagem encriptada, remova os destinatários BCC ou mova os mesmos para o campo CC.
+sending-news =
+    A operação de envio encriptado foi cancelada.
+    Esta mensagem não pode ser encriptada porque existem destinatários de grupos de notícias. Reenvie a mensagem sem encriptação.
+send-to-news-warning =
+    Aviso: você está prestes a enviar um e-mail encriptado para um grupo de notícias.
+    Isto é desencorajado porque só faz sentido se todos os membros do grupo puderem desencriptar a mensagem, ou seja, a mensagem precisa ser encriptada com as chaves de todos os participantes do grupo. Envie esta mensagem apenas se souber exatamente o que está a fazer.
+    Continuar?
+save-attachment-header = Guardar anexo desencriptado
+no-temp-dir =
+    Não foi possível encontrar um diretório temporário para escrever
+    Por favor, configue a variável de ambiente TEMP
+possibly-pgp-mime = Possível mensagem encriptada ou assinada por PGP/MIME; utilize a função 'Desencriptar/Verificar' para verificar
+cannot-send-sig-because-no-own-key = Não é possível assinar digitalmente esta mensagem, porque ainda não configurou a encriptação ponto a ponto para <{ $key }>
