@@ -318,8 +318,19 @@ enable-devtools-popup-description = For å bruke F12-snarveien, må du først å
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Søk eller skriv inn adresse
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Søk eller skriv inn adresse
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Søk på nettet
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Skriv inn søketekst
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
