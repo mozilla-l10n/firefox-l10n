@@ -577,3 +577,14 @@ dlg-button-ok = &OK
 dlg-button-close = &Fechar
 dlg-button-cancel = &Cancelar
 dlg-no-prompt = Não voltar a mostrar esta janela
+enig-prompt = Questão OpenPGP
+enig-confirm = Confirmação OpenPGP
+enig-alert = Alerta OpenPGP
+enig-info = Informação OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Repetir
+dlg-button-skip = &Ignorar
+# Strings used in enigmailCommon.js
+enig-error = Erro de OpenPGP
+enig-alert-title =
+    .title = Alerta do OpenPGP
