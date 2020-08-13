@@ -62,6 +62,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Herramientas para desarrolladores: simulación de esquemas de color
 experimental-features-devtools-execution-context-selector =
     .label = Herramientas de desarrollo: Selector de contexto de ejecución
+experimental-features-devtools-execution-context-selector-description = Esta función muestra un botón en la línea de comandos de la consola que te permite cambiar el contexto en el que se ejecutará la expresión que ingreses. Consulta el <a data-l10n-name="bugzilla">bug 1605154</a> y el <a data-l10n-name="bugzilla2">bug 1605153</a> para obtener más detalles.
 experimental-features-devtools-compatibility-panel =
     .label = Herramientas de desarrollado: Panel de compatibilidad
 experimental-features-devtools-compatibility-panel-description = Un panel lateral para el Inspector de página que muestra información detallando el estado de compatibilidad entre navegadores para tu aplicación. Consulta el <a data-l10n-name="bugzilla">bug 1584464</a> para obtener más detalles.
