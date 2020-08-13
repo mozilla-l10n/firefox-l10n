@@ -88,6 +88,9 @@ extension-controlled-homepage-override = Rozšěrjenje <img data-l10n-name="icon
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Rozšěrjenje <img data-l10n-name="icon"/> { $name } wašu stronu noweho rajtarka wodźi.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Rozšěrjenje, <img data-l10n-name="icon"/> { $name }, tute nastajenje kontroluje.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Rozšěrjenje, <img data-l10n-name="icon"/> { $name }, tute nastajenje wodźi.
