@@ -318,8 +318,19 @@ enable-devtools-popup-description = Para usar o atalho F12, primeiro abra as fer
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Pesquisar ou abrir endereço
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Pesquisar ou abrir endereço
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Pesquise na web
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Digite termos de pesquisa
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
