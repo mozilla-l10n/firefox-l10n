@@ -546,6 +546,33 @@ no-temp-dir =
 possibly-pgp-mime = Posiblemente mensaje cifrado o firmado PGP / MIME; use la función 'Decrypt/Verify' para verificar
 cannot-send-sig-because-no-own-key = No se puede firmar digitalmente este mensaje porque todavía no configuró elcifrado de punta a punta para <{ $key }>
 cannot-send-enc-because-no-own-key = No se puede enviar este mensaje cifrado, porque todavía no configuró el cifrado de punta a punta  para <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    ¿Importar las siguientes claves?
+    { $key }
+do-import-one = ¿Importar { $name } ({ $id })?
+cant-import = Error al importar la clave pública
+unverified-reply = La parte del mensaje con sangría (respuesta) fue probablemente modificada
+key-in-message-body = Se encontró una clave en el cuerpo del mensaje. Haga clic en 'Importar clave' para importar la clave
+sig-mismatch = Error: discrepancia en la firma
+invalid-email = Error: direcciones de correo electrónico inválidas
+attachment-pgp-key =
+    El adjunto '{ $name }' que estáa abriendo parece ser un archivo de claves OpenPGP.
+    Haga clic en 'Importar' para importar las claves que contiene o 'Ver' para ver los contenidos del archivo en una ventana del navegador
+dlg-button-view = &Ver
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Mensaje descifrado (formato de correo electrónico PGP roto restaurado probablemente causado por un servidor Exchange antiguo, por lo que el resultado podría no ser perfecto para leer)
+# Strings used in encryption.jsm
+not-required = Error: no se requiere cifrado
+# Strings used in windows.jsm
+no-photo-available = No hay foto disponible
+error-photo-path-not-readable = La ruta de la foto '{ $photo }' no es legible
+debug-log-title = Registro de depuración de OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Esta alerta se repetirá { $count }
+repeat-suffix-singular = más tiempo.
+repeat-suffix-plural = mas veces.
+no-repeat = Esta alerta no se va a volver a mostrar.
 dlg-button-ok = &Aceptar
 dlg-button-close = &Cerrar
 dlg-button-cancel = &Cancelar
