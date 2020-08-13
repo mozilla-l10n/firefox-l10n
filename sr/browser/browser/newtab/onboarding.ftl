@@ -92,6 +92,24 @@ onboarding-multistage-theme-tooltip-automatic =
         Наследите изглед вашег оперативног
         система за тастере, меније и прозоре.
     .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        Користите светли изглед за тастере,
+        меније и прозоре.
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        Користите тамни изглед за тастере,
+        меније и прозоре.
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        Користите шарени изглед за тастере,
+        меније и прозоре.
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 

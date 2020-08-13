@@ -88,6 +88,9 @@ extension-controlled-homepage-override = Екстензија <img data-l10n-nam
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Екстензија <img data-l10n-name="icon"/> { $name } управља вашом страницом за нови језичак.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Проширење <img data-l10n-name="icon"/> { $name } управља овим подешавањем.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Проширење <img data-l10n-name="icon"/> { $name } управља овим подешавањем.
@@ -810,6 +813,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Користите главну лозинку
     .accesskey = U
+forms-primary-pw-learn-more-link = Сазнајте више
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -820,6 +824,10 @@ forms-master-pw-fips-title = У овом тренутку налазите се 
 forms-primary-pw-change =
     .label = Промените главну лозинку
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Од раније позната као главна лозинка
 forms-primary-pw-fips-title = Тренутно сте у FIPS режиму. Овај режим захтева коришћење главне лозинке.
 forms-master-pw-fips-desc = Грешка приликом промене лозинке
 
