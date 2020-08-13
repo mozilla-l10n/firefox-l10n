@@ -528,6 +528,24 @@ msg-compose-partially-encrypted-short = Tenga cuidado con la filtración de info
 quoted-printable-warn =
     Habilitó la codificación 'quoted-printable' para enviar mensajes. Esto puede resultar en un descifrado incorrecto y/o verificación de su mensaje.
     ¿Quiere desactivar ahora el envío de mensajes "quoted-printable"?
+minimal-line-wrapping =
+    Configuró la línea para cubrir { $width } caracteres. Para un cifrado y/o firma correctos, este valor debe ser al menos de 68.
+    ¿Quiere cambiar la línea que envuelve a 68 caracteres ahora?
+sending-hidden-rcpt = Los destinatarios CCO (copia oculta) no se pueden utilizar al enviar un mensaje cifrado. Para enviar este mensaje cifrado, elimine los destinatarios CCO o muévalos al campo CC.
+sending-news =
+    Se abortó la operación de envío cifrado.
+    Este mensaje no se puede cifrar porque hay destinatarios de grupos de noticias. Vuelva a enviar el mensaje sin cifrar.
+send-to-news-warning =
+    Advertencia: está a punto de enviar un correo electrónico cifrado a un grupo de noticias.
+    Esto se desaconseja porque solo tiene sentido si todos los miembros del grupo pueden descifrar el mensaje, es decir, el mensaje debe cifrarse con las claves de todos los participantes del grupo. Envíe este mensaje solo si sabe exactamente lo que está haciendo.
+    ¿Continúa?
+save-attachment-header = Guardar adjunto descifrado
+no-temp-dir =
+    No se pudo encontrar un directorio temporal en el que escribir
+    Establezca la variable de entorno TEMP
+possibly-pgp-mime = Posiblemente mensaje cifrado o firmado PGP / MIME; use la función 'Decrypt/Verify' para verificar
+cannot-send-sig-because-no-own-key = No se puede firmar digitalmente este mensaje porque todavía no configuró elcifrado de punta a punta para <{ $key }>
+cannot-send-enc-because-no-own-key = No se puede enviar este mensaje cifrado, porque todavía no configuró el cifrado de punta a punta  para <{ $key }>
 dlg-button-ok = &Aceptar
 dlg-button-close = &Cerrar
 dlg-button-cancel = &Cancelar
