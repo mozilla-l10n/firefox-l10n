@@ -27,7 +27,7 @@ inactive-css-not-grid-container = ל־<strong>{ $property }</strong> אין הש
 inactive-css-not-flex-item = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו פריט flex.
 inactive-css-not-flex-container = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו מיכל flex.
 inactive-css-property-because-of-display = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שה־display שלו מוגדר כ־<strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = הערך של <strong>display</strong> השתנה על־ידי המנוע ל־<strong>block</strong> כיוון שהרכיב הוא <strong>floated<strong>.
+inactive-css-not-display-block-on-floated = הערך של <strong>display</strong> השתנה על־ידי המנוע ל־<strong>block</strong> מכיוון שהרכיב הוא <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = אי אפשר לדרוס את <strong>{ $property }</strong> עקב מגבלת <strong>‎:visited</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
