@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Most likely, the website simply does not
 about-httpsonly-explanation-risk = It’s also possible that an attacker is involved. If you decide to visit the website, you should not enter any sensitive information like passwords, emails, or credit card details.
 about-httpsonly-button-accept-and-continue = Accept the Risk and Continue
 about-httpsonly-button-go-back = Go Back
+about-httpsonly-link-learn-more = Learn More…
