@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Швидше за все, вебсайт
 about-httpsonly-explanation-risk = Також, можливі дії зловмисників. Якщо ви вирішили відвідати вебсайт, вам не варто вводити жодної приватної інформації, як-от паролів, адрес електронної пошти чи даних кредитних карток.
 about-httpsonly-button-accept-and-continue = Погодитися на ризик і продовжити
 about-httpsonly-button-go-back = Назад
+about-httpsonly-link-learn-more = Докладніше…
