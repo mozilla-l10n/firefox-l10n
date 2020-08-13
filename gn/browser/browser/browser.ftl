@@ -318,8 +318,19 @@ enable-devtools-popup-description = Eipurútarõ mbopya’eha F12 embojurujara�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Ñe’ẽreka ýrõ kundaharape
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Ñe’ẽreka ýrõ kundaharape
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Eheka ñandutípe
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Emoinge ñe’ẽ ehekaséva
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
