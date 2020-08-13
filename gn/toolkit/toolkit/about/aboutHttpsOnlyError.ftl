@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Pe ikatúva hína ñanduti renda ndojoku
 about-httpsonly-explanation-risk = Ikatu avei mba’evaiapoha ojapo. Eikeséramo ñanduti rendápe, aníke eme’ẽ marandu kañyguáva, taha’e ñe’ẽñemi, ñanduti veve térã mba’emimi kuatia’atã ñemurã reheguáva.
 about-httpsonly-button-accept-and-continue = Emoneĩ imarãkuaaha ha eku’ejey
 about-httpsonly-button-go-back = Guevijey
+about-httpsonly-link-learn-more = Eikuaave…
