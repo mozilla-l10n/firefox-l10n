@@ -88,6 +88,9 @@ extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } 확장 기능이 새 탭 페이지를 제어하고 있습니다.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = <img data-l10n-name="icon"/> { $name } 확장 기능이 이 설정을 제어하고 있습니다.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = <img data-l10n-name="icon"/> { $name } 확장 기능이 이 설정을 제어하고 있습니다.
