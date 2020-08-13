@@ -21,12 +21,12 @@ learn-more = <span data-l10n-name="link">מידע נוסף</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
-inactive-css-not-grid-or-flex-item = ל־<strong>{ $property }</strong> אין השפעה על הרכיב הזה כיוון שאינו פריט grid או flex.
-inactive-css-not-grid-item = ל־<strong>{ $property }</strong> אין השפעה על הרכיב הזה כיוון שאינו פריט grid.
+inactive-css-not-grid-or-flex-item = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו פריט grid או flex.
+inactive-css-not-grid-item = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו פריט grid.
+inactive-css-not-grid-container = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו מיכל grid.
 inactive-css-not-flex-item = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו פריט flex.
 inactive-css-not-flex-container = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו מיכל flex.
-inactive-css-not-inline-or-tablecell = ל־<strong>{ $property }</strong> אין השפעה על הרכיב הזה כיוון שאינו רכיב inline או table-cell.
-inactive-css-property-because-of-display = ל־<strong>{ $property }</strong> אין השפעה על הרכיב הזה כיוון שה־display שלו הוא <strong>{ $display }</strong>.
+inactive-css-property-because-of-display = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שה־display שלו מוגדר כ־<strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = הערך של <strong>display</strong> השתנה על־ידי המנוע ל־<strong>block</strong> כיוון שהרכיב הוא <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = אי אפשר לדרוס את <strong>{ $property }</strong> עקב מגבלת <strong>‎:visited</strong>.
 
