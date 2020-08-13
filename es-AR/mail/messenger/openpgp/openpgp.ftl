@@ -491,19 +491,43 @@ revoke-cert-failed = El certificado de revocación no pudo ser creado.
 gen-going = ¡Generación de claves ya está en proceso!
 keygen-missing-user-name = No hay nombre especificado para la cuenta actual. Ingrese un valor el el campo "Your name" en la configuración de cuenta.
 expiry-too-short = La clave debe ser válida por al menos un día.
+expiry-too-long = No se puede crear una clave que caduque en más de 100 años.
+key-confirm = ¿Generar clave pública y secreta para '{ $id }'?
 key-man-button-generate-key = &Generar clave
 key-abort = ¿Abortar generación de clave?
 key-man-button-generate-key-abort = &Abortar generación de clave
 key-man-button-generate-key-continue = &Continuar generación de clave
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Error: no se pudo descifrar
+fix-broken-exchange-msg-failed = No se pudo reparar el mensaje.
+attachment-no-match-from-signature = No se pudo hacer coincidir el archivo de firma '{ $attachment }' con un adjunto
+attachment-no-match-to-signature = No se pudo hacer coincidir el archivo adjunto '{ $attachment }' con un archivo de firma
+signature-verified-ok = La firma del archivo adjunto { $attachment } se verificó correctamente
+signature-verify-failed = No se pudo verificar la firma del archivo adjunto { $attachment }
+decrypt-ok-no-sig =
+    Advertencia
+    El descifrado se realizó correctamente, pero la firma no se pudo verificar correctamente
+msg-ovl-button-cont-anyway = &Continuar de todas maneras
+enig-content-note = *Los archivos adjuntos a este mensaje no se firmaros ni cifraron*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = Enviar men&saje
 msg-compose-details-button-label = Detalles…
 msg-compose-details-button-access-key = D
+send-aborted = Operación de envío abortada.
+key-not-trusted = No hay suficiente confianza para la clave '{ $key }'
 key-not-found = Clave '{ $key }' no encontrada
 key-revoked = Clave '{ $key }' revocada
 key-expired = Clave '{ $key }' expirada
 msg-compose-internal-error = Ocurrió un error interno.
 keys-to-export = Seleccionar claves OpenPGP para insertar
+msg-compose-partially-encrypted-inlinePGP =
+    El mensaje al que está respondiendo contenía partes cifradas y no cifradas. Si el remitente no pudo descifrar algunas partes del mensaje, es posible que usted esté filtrando información confidencial que el remitente no pudo descifrar por su cuenta.
+    Considere eliminar todo el texto citado de su respuesta a este remitente.
+msg-compose-cannot-save-draft = Error al guardar el borrador
+msg-compose-partially-encrypted-short = Tenga cuidado con la filtración de información confidencial: correo electrónico parcialmente cifrado.
+quoted-printable-warn =
+    Habilitó la codificación 'quoted-printable' para enviar mensajes. Esto puede resultar en un descifrado incorrecto y/o verificación de su mensaje.
+    ¿Quiere desactivar ahora el envío de mensajes "quoted-printable"?
 dlg-button-ok = &Aceptar
 dlg-button-close = &Cerrar
 dlg-button-cancel = &Cancelar
