@@ -53,6 +53,18 @@ openpgp-keygen-progress-title = OpenPGP gako berria sortzen…
 openpgp-keygen-import-progress-title = Zure OpenPGP gakoak inportzatzen…
 openpgp-import-success = OpenPGP gakoak ondo inportatu dira!
 openpgp-import-success-title = Burutu inportazio prozesua
+openpgp-import-success-description = zure inportatutako OpenPGP gakoak posta zifratuetan erabiltzen hasteko, itxi elkarrizketa hau eta joan zure kontuaren ezarpenetara aukeratzeko.
+openpgp-keygen-confirm =
+    .label = Berretsi
+openpgp-keygen-dismiss =
+    .label = Utzi
+openpgp-keygen-cancel =
+    .label = utzi prozesua…
+openpgp-keygen-import-complete =
+    .label = Itxi
+    .accesskey = I
+openpgp-keygen-missing-username = Ez dago izenik zehaztuta uneko konturako. Mesedez sartu balioa  "zure Izena" eremuan kontuko ezarpenetan.
+openpgp-keygen-long-expiry = Ezin duzu sortu, 100 urte baino beranduago iraungiko den gakoa.
 
 ## Import Key section
 
