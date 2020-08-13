@@ -325,7 +325,7 @@ urlbar-placeholder =
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 urlbar-placeholder-search-mode-web =
-    .placeholder = 在网上搜索
+    .placeholder = 网上搜索
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
 # tabs).
