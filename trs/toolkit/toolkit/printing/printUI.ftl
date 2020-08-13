@@ -22,3 +22,19 @@ printui-copies-label = Ñadu'ua
 printui-orientation = Dàj ginùj
 printui-landscape = Dàj huaj
 printui-portrait = Ñadu'ua
+# Section title for the printer or destination device to target
+printui-destination-label = Riña gūchij
+printui-more-settings = Doj sa gā’ue nāgi’io’
+printui-less-settings = Dòj sa gā’ue nāgi’io’
+# Section title (noun) for the print scaling options
+printui-scale = Skâla:
+printui-scale-fit-to-page = Dunañu man riña pajina
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Skâla:
+# Section title for miscellaneous print options
+printui-options = Sa huā gi'iát
+printui-headers-footers-checkbox = Nārī rà nī dakó pajina
+printui-backgrounds-checkbox = Nārī ñadu'ua Fôndo
+printui-system-dialog-link = Ngà chrún nuguan’an nārīt ñadu’ua…
+printui-primary-button = Nārī ñadu’ua
+printui-cancel-button = Dūyichin'
