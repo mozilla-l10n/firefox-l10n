@@ -88,6 +88,9 @@ extension-controlled-homepage-override = Uma extensão, <img data-l10n-name="ico
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Uma extensão, <img data-l10n-name="icon"/> { $name }, está a controlar a sua página Novo separador.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Uma extensão, <img data-l10n-name="icon"/> { $name }, está a controlar esta definição.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Uma extensão, <img data-l10n-name="icon"/> { $name }, está a controlar esta definição.
