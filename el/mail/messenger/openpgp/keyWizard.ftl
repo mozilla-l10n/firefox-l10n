@@ -9,9 +9,29 @@ key-wizard-button =
     .buttonlabelaccept = Συνέχεια
     .buttonlabelhelp = Επιστροφή
 key-wizard-learn-more = Μάθετε περισσότερα
+radio-create-key =
+    .label = Δημιουργία νέου κλειδιού OpenPGP
+    .accesskey = Δ
+radio-import-key =
+    .label = Εισαγωγή υπάρχοντος κλειδιού OpenPGP
+    .accesskey = Ε
 
 ## Generate key section
 
+openpgp-generate-key-title = Δημιουργία κλειδιού OpenPGP
+openpgp-keygen-expiry-title = Λήξη κλειδιού
+radio-keygen-expiry =
+    .label = Το κλειδί λήγει σε
+    .accesskey = ε
+radio-keygen-no-expiry =
+    .label = Το κλειδί δεν λήγει
+    .accesskey = δ
+openpgp-keygen-days-label =
+    .label = ημέρες
+openpgp-keygen-months-label =
+    .label = μήνες
+openpgp-keygen-years-label =
+    .label = έτη
 openpgp-keygen-advanced-title = Προηγμένες ρυθμίσεις
 openpgp-keygen-keytype =
     .value = Τύπος κλειδιού:
@@ -33,9 +53,14 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Κλείσιμο
     .accesskey = Κ
+openpgp-keygen-abort-title = Ακύρωση δημιουργίας κλειδιού;
 
 ## Import Key section
 
+openpgp-import-key-button =
+    .label = Επιλέξτε αρχείο για εισαγωγή…
+    .accesskey = Ε
+import-key-file = Εισαγωγή αρχείου κλειδιού OpenPGP
 gnupg-file = Αρχεία GnuPG
 openpgp-import-identity-label = Ταυτότητα
 openpgp-import-key-props =
