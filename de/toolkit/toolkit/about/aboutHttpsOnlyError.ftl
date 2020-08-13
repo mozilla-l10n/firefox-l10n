@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Höchstwahrscheinlich unterstützt die W
 about-httpsonly-explanation-risk = Es ist auch möglich, dass ein Angreifer beteiligt ist. Falls Sie sich dafür entscheiden, die Website aufzurufen, sollten Sie nicht sensible Informationen wie Passwörter, E-Mail-Adressen oder Kreditkartendaten in diese eingeben.
 about-httpsonly-button-accept-and-continue = Risiko akzeptieren und fortfahren
 about-httpsonly-button-go-back = Zurück
+about-httpsonly-link-learn-more = Weitere Informationen…
