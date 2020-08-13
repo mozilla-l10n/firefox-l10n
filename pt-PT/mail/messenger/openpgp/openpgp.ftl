@@ -407,4 +407,31 @@ key-ring-pub-key-expired = A chave { $userId } (ID da chave { $keyId }) expirou.
 key-ring-key-disabled = A chave { $userId } (ID da chave { $keyId }) está desativada; não pode ser utilizada.
 key-ring-key-invalid = A chave { $userId } (ID da chave { $keyId })  não é válida. Por favor, considere confirmar a mesma corretamente.
 key-ring-key-not-trusted = A chave { $userId } (ID da chave { $keyId }) não é suficientemente confiável. Defina o nível de confiança da sua chave como "totalmente" para utilizar a mesma para assinaturas.
+key-ring-no-secret-key = Parece que você não tem a chave secreta para { $userId } (ID da chave { $keyId }) no seu chaveiro; você não pode utilizar a chave para assinar.
+key-ring-pub-key-not-for-signing = A chave { $userId } (ID da chave { $keyId }) não pode ser utilizada para assinar.
+key-ring-pub-key-not-for-encryption = A chave { $userId } (ID da chave { $keyId }) não pode ser utilizada para encriptar.
+key-ring-sign-sub-keys-revoked = Todas as sub-chaves de assinatura da chave { $userId } (ID da chave { $keyId }) estão revogadas.
+key-ring-sign-sub-keys-expired = Todas as sub-chaves de assinatura da chave { $userId } (ID da chave { $keyId }) estão expiradas.
+key-ring-sign-sub-keys-unusable = Todas as sub-chaves de assinatura da chave { $userId } (ID da chave { $keyId }) estão revogadas, expiradas ou inutilizáveis.
+key-ring-enc-sub-keys-revoked = Todas as sub-chaves de encriptação da chave { $userId } (ID da chave { $keyId }) estão revogadas.
+key-ring-enc-sub-keys-expired = Todas as sub-chaves de encriptação da chave { $userId } (ID da chave { $keyId }) estão expiradas.
+key-ring-enc-sub-keys-unusable = Todas as sub-chaves de encriptação da chave { $userId } (ID da chave { $keyId }) estão revogadas, expiradas ou inutilizáveis.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Fotografia
+user-att-photo = Atributo do utilizador (imagem JPEG)
+# Strings in key.jsm
+already-revoked = Esta chave já foi revogada.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Você está prestes a revogar a chave '{ $identity }'.
+    Deixará de poder assinar utilizando esta chave e, uma vez distribuída, outros deixarão de poder encriptar com esta chave. Ainda pode utilizar a chave para desencriptar mensagens antigas.
+    Pretende continuar?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Não tem nenhuma chave (0x{ $keyId }) que corresponda a este certificado de revogação!
+    Se perdeu a sua chave, deve importar a mesma (por exemplo, a partir de um servidor de chaves) antes de importar o certificado de revogação!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = A chave 0x{ $keyId } já foi revogada.
+key-man-button-revoke-key = &Revogar chave
+openpgp-key-revoke-success = A chave foi revogada com sucesso.
 key-trust-ultimate = totalmente
