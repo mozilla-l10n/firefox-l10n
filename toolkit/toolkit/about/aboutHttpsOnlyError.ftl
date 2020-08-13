@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Mest sannsynleg støttar nettstaden gans
 about-httpsonly-explanation-risk = Det er også mogleg at ein angripar er involvert. Dersom du bestemmer deg for å besøke nettstaden, bør du ikkje oppgi sensitiv informasjon som passord, e-post eller betalingskortinformasjon.
 about-httpsonly-button-accept-and-continue = Godta risikoen og fortset
 about-httpsonly-button-go-back = Gå tilbake
+about-httpsonly-link-learn-more = Les meir…

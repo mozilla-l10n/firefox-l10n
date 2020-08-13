@@ -12,5 +12,20 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">Importer innlogginga di frå { $browser }</div>
     <div data-l10n-name="line2">for { $host } og andre nettstadar</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+autocomplete-import-logins-chrome =
+    <div data-l10n-name="line1">Importer innlogginga di frå Google Chrome</div>
+    <div data-l10n-name="line2">for { $host } og andre nettstadar</div>
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line1">Importer innloggingea di frå Chromium</div>
+    <div data-l10n-name="line2">for { $host } og andre nettstadar</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line1">Importer innlogginga di frå Microsoft Edge</div>
+    <div data-l10n-name="line2">for { $host } og andre nettstadar</div>
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Les meir
