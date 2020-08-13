@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Troligtvis stöder webbplatsen helt enke
 about-httpsonly-explanation-risk = Det är också möjligt att en angripare är involverad. Om du väljer att besöka webbplatsen bör du inte ange någon känslig information som lösenord, e-post eller kreditkortsuppgifter.
 about-httpsonly-button-accept-and-continue = Acceptera risken och fortsätt
 about-httpsonly-button-go-back = Gå tillbaka
+about-httpsonly-link-learn-more = Läs mer…

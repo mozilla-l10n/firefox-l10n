@@ -318,8 +318,19 @@ enable-devtools-popup-description = För att använda tangentbordskommandot F12,
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Sök eller ange adress
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Sök eller ange adress
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Sök på webben
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Ange söktermer
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
