@@ -14,3 +14,4 @@ about-httpsonly-explanation-question = Τι μπορεί να το προκαλ�
 about-httpsonly-explanation-nosupport = Πιθανότατα, η ιστοσελίδα απλά δεν υποστηρίζει HTTPS.
 about-httpsonly-button-accept-and-continue = Αποδοχή κινδύνου και συνέχεια
 about-httpsonly-button-go-back = Επιστροφή
+about-httpsonly-link-learn-more = Μάθετε περισσότερα…
