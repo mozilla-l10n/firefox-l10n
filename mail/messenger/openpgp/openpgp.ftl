@@ -468,4 +468,21 @@ confirm-permissive-import = A importação falhou. A chave que está a tentar im
 # Strings used in trust.jsm
 key-valid-unknown = desconhecida
 key-valid-invalid = inválida
+key-valid-disabled = desativada
+key-valid-revoked = revogada
+key-valid-expired = expirada
+key-trust-untrusted = não confiável
+key-trust-marginal = marginal
+key-trust-full = confiável
 key-trust-ultimate = totalmente
+key-trust-group = (grupo)
+# Strings used in commonWorkflows.js
+import-key-file = Importar ficheiro de chave OpenPGP
+import-rev-file = Importar ficheiro de revogação OpenPGP
+gnupg-file = Ficheiros GnuPG
+import-keys-failed = A importação das chaves falhou
+passphrase-prompt = Por favor, especifique a frase secreta que desbloqueia a seguinte chave: { $key }
+file-to-big-to-import = Este ficheiro é demasiado grande. Não importe um grande conjunto de chaves de uma vez.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Criar e guardar um certificado de revogação
+revoke-cert-ok = O certificado de revogação foi criado com sucesso. Pode utilizar o mesmo para invalidar a sua chave pública, por exemplo, no caso de perder a sua chave secreta.
