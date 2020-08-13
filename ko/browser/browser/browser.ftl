@@ -318,8 +318,19 @@ enable-devtools-popup-description = F12 단축키를 사용하려면, 먼저 웹
 
 urlbar-default-placeholder =
     .defaultPlaceholder = 검색어 또는 주소 입력
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = 검색어 또는 주소 입력
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = 웹 검색
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = 검색어 입력
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
