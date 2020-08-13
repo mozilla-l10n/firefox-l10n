@@ -5,3 +5,10 @@
 openpgp-manage-keys-openpgp-cmd =
     .label = Διαχείριση κλειδιών OpenPGP
     .accesskey = O
+openpgp-search-signature-key =
+    .label = Ανακάλυψη…
+openpgp-broken-exchange-repair =
+    .label = Επιδιόρθωση μηνύματος
+openpgp-broken-exchange-wait = Παρακαλούμε περιμένετε…
+openpgp-partial-verify-button = Επαλήθευση
+openpgp-partial-decrypt-button = Αποκρυπτογράφηση
