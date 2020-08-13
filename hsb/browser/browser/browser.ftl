@@ -318,8 +318,19 @@ enable-devtools-popup-description = Zo byšće tastu F12 wužiwał, wočińće n
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Pytać abo adresu zapodać
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Pytać abo adresu zapodać
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Web přepytać
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Pytanske wurazy zapodać
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =

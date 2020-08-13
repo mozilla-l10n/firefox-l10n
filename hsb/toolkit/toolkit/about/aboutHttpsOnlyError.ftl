@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Najskerje websydło prosće HTTPS njepod
 about-httpsonly-explanation-risk = Je tež móžno, zo nadpadnik je wobdźěleny. Jeli so rozsudźeće websydło wopytać, njeměł wy sensibelne daty kaž hesła, e-mejlowe adresy abo podrobnosće kreditnych kartow zapodać.
 about-httpsonly-button-accept-and-continue = Riziko akceptować a pokročować
 about-httpsonly-button-go-back = Wróćo
+about-httpsonly-link-learn-more = Dalše informacije…
