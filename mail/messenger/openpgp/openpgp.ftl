@@ -434,4 +434,38 @@ revoke-key-not-present =
 revoke-key-already-revoked = A chave 0x{ $keyId } já foi revogada.
 key-man-button-revoke-key = &Revogar chave
 openpgp-key-revoke-success = A chave foi revogada com sucesso.
+after-revoke-info =
+    A chave foi revogada.
+    Partilhe novamente esta chave pública, enviando a mesma por e-mail ou para servidores de chaves, para que outros saibam que você revogou a sua chave.
+    Assim que o software utilizado por outros tiver conhecimento da revogação, este deixará de utilizar a sua chave antiga.
+    Se você estiver a utilizar uma nova chave para o mesmo endereço de e-mail e anexar a nova chave pública aos e-mails que envia, as informações sobre a chave antiga revogada serão automaticamente incluídas.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importar
+delete-key-title = Eliminar a chave OpenPGP
+delete-external-key-title = Remover a chave externa do GnuPG
+delete-external-key-description = Pretende remover este ID de chave externa do GnuPG?
+key-in-use-title = Chave OpenPGP está a ser utilizada
+delete-key-in-use-description = Não foi possível continuar! A chave que selecionou para ser removida está a ser utilizada por esta identidade. Selecione uma chave diferente ou nenhuma e tente novamente.
+revoke-key-in-use-description = Não foi possível continuar! A chave que selecionou para ser revogada está a ser utilizada por esta identidade. Selecione uma chave diferente ou nenhuma e tente novamente.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Não foi possível corresponder o endereço de e-mail '{ $keySpec }' a uma chave do seu chaveiro.
+key-error-key-id-not-found = A ID da chave configurada '{ $keySpec }' não foi encontrada no seu chaveiro.
+key-error-not-accepted-as-personal = Não confirmou que a chave com ID '{ $keySpec }' é a sua chave pessoal.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = A função que selecionou não está disponível no modo desligado. Ligue-se à Internet e tente novamente.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Não foi possível encontrar qualquer chave que corresponda aos critérios de pesquisa especificados.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Erro - o comando de extração da chave falhou
+# Strings used in keyRing.jsm
+fail-cancel = Erro - a receção da chave foi cancelada pelo utilizador
+not-first-block = Erro - o primeiro bloco OpenPGP não é o bloco da chave pública
+import-key-confirm = Importar chave(s) pública(s) incorporada(s) na mensagem?
+fail-key-import = Erro - a importação da chave falhou
+file-write-failed = Falha ao escrever no ficheiro { $output }
+no-pgp-block = Erro - não foi encontrado nenhum bloco de dados OpenPGP blindado válido
+confirm-permissive-import = A importação falhou. A chave que está a tentar importar pode estar corrompida ou a utilizar atributos desconhecidos. Gostaria de tentar importar as partes corretas? Isto pode resultar na importação de chaves incompletas e inutilizáveis.
+# Strings used in trust.jsm
+key-valid-unknown = desconhecida
+key-valid-invalid = inválida
 key-trust-ultimate = totalmente
