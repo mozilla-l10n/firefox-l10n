@@ -317,8 +317,14 @@ sharing-warning-disable-for-session =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = חיפוש או הקלדת כתובת
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = חיפוש או הקלדת כתובת
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = חיפוש ברשת
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
