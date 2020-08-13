@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Hoogstwaarschijnlijk ondersteunt de webs
 about-httpsonly-explanation-risk = Mogelijk is er sprake van een aanval. Als u besluit de website te bezoeken, zou u geen gevoelige gegevens zoals wachtwoorden, e-mailadressen of creditcardgegevens moeten invoeren.
 about-httpsonly-button-accept-and-continue = Het risico aanvaarden en doorgaan
 about-httpsonly-button-go-back = Terug
+about-httpsonly-link-learn-more = Meer info…
