@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Lo más probable es que el sitio web sim
 about-httpsonly-explanation-risk = También es posible que un atacante esté involucrado. Si decide visitar el sitio web, no debe ingresar información confidencial como contraseñas, correos electrónicos o detalles de tarjetas de crédito.
 about-httpsonly-button-accept-and-continue = Aceptar el riesgo y continuar
 about-httpsonly-button-go-back = Retroceder
+about-httpsonly-link-learn-more = Conocer más…
