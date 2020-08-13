@@ -191,6 +191,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Als standaardzoekmachine voor privévensters instellen
     .accesskey = p
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -199,6 +205,12 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Bladwijzers ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Tabbladen ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Geschiedenis ({ $restrict })
 
 ## Bookmark Panel
 
@@ -306,8 +318,19 @@ enable-devtools-popup-description = Open eerst DevTools in het menu Webontwikkel
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Voer zoekterm of adres in
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Voer zoekterm of adres in
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Zoeken op het web
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Voer zoektermen in
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser wordt op afstand bestuurd
 urlbar-permissions-granted =
