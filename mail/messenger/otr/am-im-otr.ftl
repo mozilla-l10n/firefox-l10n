@@ -17,6 +17,10 @@ otr-log =
     .label = Gehitu OTR zifratutako mezuak elkarrizketen egunkarian
 otr-requireEncryption =
     .label = Muturretik muturrerako zifraketa behar da banakako elkarrizketetarako
+otr-require-encryption-info =
+    Muturretik-muturrerako zifraketa eskatzean, bat-banako elkarrizketetako
+    mezuak ez dira bidaliko ezin badira zifratu. Jasotako zifratu gabeko mezuak
+    ez dira erakutsiko elkarrizketa arrunt bateko atal bezala, eta ez dira erregistratuko.
 otr-verifyNudge =
     .label = Beti gogorarazi egiaztatzea egiaztatu gabeko kontaktuak
 otr-notYetAvailable = oraindik ez dago erabilgarri
