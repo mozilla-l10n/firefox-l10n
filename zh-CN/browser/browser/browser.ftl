@@ -318,8 +318,19 @@ enable-devtools-popup-description = 请通过“Web 开发者”菜单打开开�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = 搜索或输入网址
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = 搜索或输入网址
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = 在网上搜索
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = 输入搜索词
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
