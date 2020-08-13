@@ -1190,15 +1190,15 @@ space-alert-under-5gb-message = { -brand-short-name } er i ferd med å gå tom f
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Bare HTTPS-modus
-httpsonly-description = HTTPS gir en sikker, kryptert forbindelse mellom { -brand-short-name } og nettstedene du besøker. De fleste nettsteder støtter HTTPS, og hvis bare HTTPS-modus er aktivert, vil { -brand-short-name } oppgradere alle tilkoblinger til HTTPS.
+httpsonly-header = Kun-HTTPS-modus
+httpsonly-description = HTTPS gir en sikker, kryptert forbindelse mellom { -brand-short-name } og nettstedene du besøker. De fleste nettsteder støtter HTTPS, og hvis kun-HTTPS er aktivert, vil { -brand-short-name } oppgradere alle tilkoblinger til HTTPS.
 httpsonly-learn-more = Les mer
 httpsonly-radio-enabled =
-    .label = Aktiver bare HTTPS-modus i alle vinduer
+    .label = Aktiver kun-HTTPS i alle vinduer
 httpsonly-radio-enabled-pbm =
-    .label = Aktiver bare HTTPS-modus kun i private vinduer
+    .label = Aktiver kun-HTTPS kun i private vinduer
 httpsonly-radio-disabled =
-    .label = Ikke aktiver bare HTTPS-modus
+    .label = Ikke aktiver kun-HTTPS
 
 ## The following strings are used in the Download section of settings
 
