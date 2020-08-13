@@ -40,6 +40,8 @@ openpgp-key-man-generate-menu =
     .label = Δημιουργία
     .accesskey = Δ
 openpgp-key-man-discover-progress = Αναζήτηση…
+openpgp-copy-cmd-label =
+    .label = Αντιγραφή
 
 ## e2e encryption settings
 
