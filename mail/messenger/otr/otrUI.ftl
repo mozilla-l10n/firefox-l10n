@@ -64,4 +64,4 @@ waiting-title = Egiaztapen eskaria bidalita
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure
-otr-genkey-failed = OTR giltza pribatua sortzean huts egin du: { $error }
+otr-genkey-failed = OTR gako pribatua sortzean huts egin du: { $error }
