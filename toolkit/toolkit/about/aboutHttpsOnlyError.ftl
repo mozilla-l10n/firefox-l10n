@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Provavelmente, o site simplesmente não 
 about-httpsonly-explanation-risk = Também é possível que um invasor esteja envolvido. Se você decidir visitar o site, não deve inserir nenhuma informação sensível, como senhas, e-mails ou detalhes de cartões de crédito.
 about-httpsonly-button-accept-and-continue = Aceitar o risco e continuar
 about-httpsonly-button-go-back = Voltar
+about-httpsonly-link-learn-more = Saiba mais…
