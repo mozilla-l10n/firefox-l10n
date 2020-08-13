@@ -22,6 +22,7 @@ openpgp-keygen-keytype =
 openpgp-keygen-keysize =
     .value = Sleutelgrootte:
     .accesskey = g
+openpgp-import-success-title = Het importproces voltooien
 openpgp-keygen-confirm =
     .label = Bevestigen
 openpgp-keygen-dismiss =
@@ -31,9 +32,13 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Sluiten
     .accesskey = S
+openpgp-keygen-long-expiry = U kunt geen sleutel aanmaken die over meer dan 100 jaar verloopt.
+openpgp-keygen-short-expiry = Uw sleutel moet ten minste een dag geldig zijn.
+openpgp-keygen-ongoing = Er wordt al een sleutel aangemaakt!
 
 ## Import Key section
 
+openpgp-import-key-legend = Selecteer een eerder reservekopiebestand.
 openpgp-passphrase-prompt-title = Wachtwoordzin vereist
 gnupg-file = GnuPG-bestanden
 openpgp-import-identity-label = Identiteit
