@@ -88,6 +88,9 @@ extension-controlled-homepage-override = 擴充套件「<img data-l10n-name="ico
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = 擴充套件「<img data-l10n-name="icon"/> { $name }」正在控制您的新分頁內容。
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = 擴充套件<img data-l10n-name="icon"/> { $name } 正在控制此設定。
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = 擴充套件<img data-l10n-name="icon"/> { $name } 正在控制此設定。
