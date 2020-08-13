@@ -544,3 +544,36 @@ no-temp-dir =
     Por favor, configue a variável de ambiente TEMP
 possibly-pgp-mime = Possível mensagem encriptada ou assinada por PGP/MIME; utilize a função 'Desencriptar/Verificar' para verificar
 cannot-send-sig-because-no-own-key = Não é possível assinar digitalmente esta mensagem, porque ainda não configurou a encriptação ponto a ponto para <{ $key }>
+cannot-send-enc-because-no-own-key = Não é possível enviar esta mensagem encriptada, porque ainda não configurou a encriptação ponto a ponto para <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importar as seguintes chaves?
+    { $key }
+do-import-one = Importar { $name } ({ $id })?
+cant-import = Erro ao importar a chave pública
+unverified-reply = Parte da mensagem (resposta) indentada foi, provavelmente, modificada
+key-in-message-body = Foi encontrada uma chave no corpo da mensagem. Clique em 'Importar chave' para importar a chave
+sig-mismatch = Erro - erro de correspondência de assinatura
+invalid-email = Erro - endereço(s) de e-mail inválido(s)
+attachment-pgp-key =
+    O anexo '{ $name }' que está abrir parece ser um ficheiro de chave OpenPGP.
+    Clique em 'Importar' para importar as chaves contidas ou em 'Visualizar' para visualizar o conteúdo do ficheiro numa janela do navegador
+dlg-button-view = &Ver
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Mensagem desencriptada (o formato de e-mail PGP corrompido foi restaurado, provavelmente devido a um servidor Exchange antigo, pelo que o resultado pode não ser perfeito para ser lido)
+# Strings used in encryption.jsm
+not-required = Erro - não é necessária encriptação
+# Strings used in windows.jsm
+no-photo-available = Nenhuma foto disponível
+error-photo-path-not-readable = O caminho da foto '{ $photo }' não é legível
+debug-log-title = Registo de depuração do OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Este alerta será repetido { $count } vezes
+repeat-suffix-singular = mais tempo.
+repeat-suffix-plural = mais vezes.
+no-repeat = Este alerta não será apresentado novamente.
+dlg-keep-setting = Memorizar a minha resposta e não questionar novamente
+dlg-button-ok = &OK
+dlg-button-close = &Fechar
+dlg-button-cancel = &Cancelar
+dlg-no-prompt = Não voltar a mostrar esta janela
