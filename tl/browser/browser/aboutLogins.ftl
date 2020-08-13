@@ -27,6 +27,7 @@ menu =
     .title = Buksan ang menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Mag-import mula sa Ibang Browser…
+about-logins-menu-menuitem-import-from-a-file = Kunin mula sa File…
 about-logins-menu-menuitem-export-logins = i-Export ang mga Login…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -203,3 +204,5 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Kunin ang Logins File
