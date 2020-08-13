@@ -301,8 +301,14 @@ enable-devtools-popup-description = Ak chcete použiť skratku F12, najprv otvor
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Zadajte adresu alebo výraz vyhľadávania
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Zadajte adresu alebo výraz vyhľadávania
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Vyhľadajte cez { $name } alebo zadajte webovú adresu
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Prehliadač je ovládaný na diaľku
 urlbar-permissions-granted =
