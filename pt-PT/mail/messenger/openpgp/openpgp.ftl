@@ -398,5 +398,13 @@ dlg-button-delete = E&liminar
 ## Account settings export output
 
 openpgp-export-public-success = <b>Chave pública exportada com sucesso!</b>
+openpgp-export-public-fail = <b>Não foi possível exportar a chave pública selecionada!</b>
+openpgp-export-secret-success = <b>Chave secreta exportada com sucesso!</b>
+openpgp-export-secret-fail = <b>Não foi possível exportar a chave secreta selecionada!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = A chave { $userId } (ID da chave { $keyId }) foi revogada.
+key-ring-pub-key-expired = A chave { $userId } (ID da chave { $keyId }) expirou.
+key-ring-key-disabled = A chave { $userId } (ID da chave { $keyId }) está desativada; não pode ser utilizada.
+key-ring-key-invalid = A chave { $userId } (ID da chave { $keyId })  não é válida. Por favor, considere confirmar a mesma corretamente.
 key-ring-key-not-trusted = A chave { $userId } (ID da chave { $keyId }) não é suficientemente confiável. Defina o nível de confiança da sua chave como "totalmente" para utilizar a mesma para assinaturas.
 key-trust-ultimate = totalmente
