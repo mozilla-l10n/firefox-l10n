@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Provavelmente, o site simplesmente não 
 about-httpsonly-explanation-risk = Também é possível que um atacante esteja envolvido. Se decidir visitar o site, não deve introduzir quaisquer informações sensíveis, como palavras-passe, e-mails ou detalhes de cartões de crédito.
 about-httpsonly-button-accept-and-continue = Aceitar o risco e continuar
 about-httpsonly-button-go-back = Retroceder
+about-httpsonly-link-learn-more = Saber mais…
