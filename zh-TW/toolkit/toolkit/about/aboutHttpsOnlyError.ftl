@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = 很有可能只是網站不支援 HTTPS�
 about-httpsonly-explanation-risk = 也可能是有人正打算攻擊您。若您還是要開啟此網站，就不該在網站中輸入密碼、E-Mail 帳號、信用卡資料等敏感性資訊。
 about-httpsonly-button-accept-and-continue = 接受風險並繼續
 about-httpsonly-button-go-back = 回上一頁
+about-httpsonly-link-learn-more = 了解更多…
