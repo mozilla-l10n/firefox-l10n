@@ -41,6 +41,18 @@ openpgp-keygen-advanced-description = Kontrolatu zure OpenPGP gakoaren ezarpen a
 openpgp-keygen-keytype =
     .value = Gako mota:
     .accesskey = m
+openpgp-keygen-keysize =
+    .value = Gako tamaina:
+    .accesskey = t
+openpgp-keygen-type-rsa =
+    .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (kurba eliptikoa)
+openpgp-keygen-button = Sortu gakoa
+openpgp-keygen-progress-title = OpenPGP gako berria sortzen…
+openpgp-keygen-import-progress-title = Zure OpenPGP gakoak inportzatzen…
+openpgp-import-success = OpenPGP gakoak ondo inportatu dira!
+openpgp-import-success-title = Burutu inportazio prozesua
 
 ## Import Key section
 
