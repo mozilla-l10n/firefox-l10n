@@ -477,10 +477,20 @@ key-trust-marginal = marginal
 key-trust-full = confiable
 key-trust-ultimate = último
 key-trust-group = (grupo)
+# Strings used in commonWorkflows.js
+import-key-file = Importar archivo de clave de OpenPGP
+import-rev-file = Importar archivo de revocación de OpenPGP
 gnupg-file = Archivos GnuPG
+import-keys-failed = Falló la importación de las claves
+passphrase-prompt = Ingrese la frase de contraseña para desbloquear la siguiente clave: { $key }
+file-to-big-to-import = Este archivo es demasiado grande. No importe un gran conjunto de claves a la vez.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear y guardar certificado de revocación
+revoke-cert-ok = El certificado de revocación se creó correctamente. Puede usarlo para invalidar su clave pública, por ejemplo en caso de que perdiera su clave secreta.
 revoke-cert-failed = El certificado de revocación no pudo ser creado.
+gen-going = ¡Generación de claves ya está en proceso!
+keygen-missing-user-name = No hay nombre especificado para la cuenta actual. Ingrese un valor el el campo "Your name" en la configuración de cuenta.
+expiry-too-short = La clave debe ser válida por al menos un día.
 key-man-button-generate-key = &Generar clave
 key-abort = ¿Abortar generación de clave?
 key-man-button-generate-key-abort = &Abortar generación de clave
