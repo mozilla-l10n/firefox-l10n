@@ -53,6 +53,7 @@
 <!ENTITY rights.addons-a "Utvidingstenester: ">
 <!ENTITY rights.addons-term1 "Opne programinnstillingane">
 <!ENTITY rights.addons-term2 "Vel &smart.label;-panelet i &advance.label;-kategorien">
+<!ENTITY rights.addons-term3 "Fjern avkryssinga til &quot;&autoAddOnsUpdates.label;&quot; og &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Tillegstenestene er slått av no">
 
 <!-- safe browsing points for branded builds -->
@@ -60,6 +61,7 @@
 <!ENTITY rights.safebrowsing-b "Å slå av Trygg nettlesing-funksjonen er ikkje tilrådd, sidan det kan føra til at du vitjar utrygge nettstader.  Dersom du ynskjer å skru av funksjonen heilt, følg desse stega:">
 <!ENTITY rights.safebrowsing-term1 "Opna programinnstillingane">
 <!ENTITY rights.safebrowsing-term2 "Vel hovudpanelet på &security.label;-panelet">
+<!ENTITY rights.safebrowsing-term3 "Fjern avkryssinga frå &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Trygg nettlesing er no slått av">
 
 <!-- location aware browsing points for branded builds -->
@@ -67,6 +69,7 @@
 <!ENTITY rights.locationawarebrowsing-term1 "Opne program-innstillingane">
 <!ENTITY rights.locationawarebrowsing-term2 "Vel hovudpanelet på &security.label;-panelet">
 <!ENTITY rights.locationawarebrowsing-term3 "Vel alternativet for å &quot;&geoDisabled.label;&quot;">
+<!ENTITY rights.locationawarebrowsing-term4 "Stadmedviten nettlesing er no slått av">
 
 <!-- points 0-6 text for branded builds -->
 
