@@ -318,8 +318,14 @@ enable-devtools-popup-description = Aby móc użyć skrótu F12, najpierw otwór
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Wprowadź adres lub szukaj
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Wprowadź adres lub szukaj
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Szukaj w Internecie
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
