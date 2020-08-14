@@ -43,12 +43,12 @@ experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
-experimental-features-web-api-link-preload-description = Atribut <a data-l10n-name="rel">rel</a>z hódnotu <code>"preload"</code> na elemenće <a data-l10n-name="link">&lt;link&gt;</a> m k tomu přinošować, stopnjowanja wukona docpěć, hdyž resursy zašo w žiwjenskim cyklusu strony sćahujeće, zo bychu zašo k dispoziciji byli a mjenje najskerje rysowanje stronow blokowali. Čitajće <a data-l10n-name="readmore">"Preloading content with <code>rel="preload"</code>"</a> abo <a data-l10n-name="bugzilla">zmylkowu rozprawu 1583604</a> za dalše podrobnosće.
+experimental-features-web-api-link-preload-description = Atribut <a data-l10n-name="rel">rel</a>z hódnotu <code>"preload"</code> na elemenće <a data-l10n-name="link">&lt;link&gt;</a> ma k tomu přinošować, stopnjowanja wukona docpěć, hdyž resursy zašo w žiwjenskim cyklusu strony sćahujeće, zo bychu zašo k dispoziciji byli a mjenje najskerje rysowanje stronow blokowali. Čitajće <a data-l10n-name="readmore">"Preloading content with <code>rel="preload"</code>"</a> abo <a data-l10n-name="bugzilla">zmylkowu rozprawu 1583604</a> za dalše podrobnosće.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Zmóžnja nałožowanje fokusowych stilow na elementy kaž tłóčatka a formularne wodźenske elementy, hdyž so z pomocu tastatury fokusuja (na př. z tabulatorowej tastu při pohibowanje po elementach) a nic, hdyž so z myšku abo druhim pokazowanskim gratom fokusuja. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1617600</a>.
+experimental-features-css-focus-visible-description = Zmóžnja nałožowanje fokusowych stilow na elementy kaž tłóčatka a formularne wodźenske elementy, hdyž so z pomocu tastatury fokusuja (na př. z tabulatorowej tastu při pohibowanju po elementach) a nic, hdyž so z myšku abo druhim pokazowanskim gratom fokusuja. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1617600</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
