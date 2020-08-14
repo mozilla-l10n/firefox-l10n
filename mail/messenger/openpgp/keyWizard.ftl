@@ -55,6 +55,7 @@ openpgp-keygen-progress-title = Δημιουργία νέου κλειδιού O
 openpgp-keygen-import-progress-title = Εισαγωγή κλειδιών OpenPGP…
 openpgp-import-success = Τα κλειδιά OpenPGP εισήχθησαν με επιτυχία!
 openpgp-import-success-title = Ολοκλήρωση της διαδικασίας εισαγωγής
+openpgp-import-success-description = Για να ξεκινήσετε να χρησιμοποιείτε το εισηγμένο κλειδί OpenPGP για κρυπτογράφηση της ηλεκτρονικής αλληλογραφίας, κλείστε αυτό το παράθυρο διαλόγου και μεταβείτε στις Ρυθμίσεις Λογαριασμού σας για να το επιλέξετε.
 openpgp-keygen-confirm =
     .label = Επιβεβαίωση
 openpgp-keygen-dismiss =
@@ -64,6 +65,12 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Κλείσιμο
     .accesskey = Κ
+openpgp-keygen-missing-username = Δεν υπάρχει καθορισμένο όνομα για τον τρέχοντα λογαριασμό. Εισαγάγετε μια τιμή στο πεδίο  "Το όνομά σας" στις ρυθμίσεις του λογαριασμού
+openpgp-keygen-long-expiry = Δεν μπορείτε να δημιουργήσετε ένα κλειδί που λήγει σε περισσότερο από 100 χρόνια.
+openpgp-keygen-short-expiry = Το κλειδί σας πρέπει να έχει ισχύ για τουλάχιστον μία ημέρα.
+openpgp-keygen-ongoing = Η δημιουργία κλειδιού είναι ήδη σε εξέλιξη!
+openpgp-keygen-error-core = Δεν ήταν δυνατή η αρχικοποίηση της Κύριας Υπηρεσίας του OpenPGP
+openpgp-keygen-error-failed = Η δημιουργία κλειδιού OpenPGP απέτυχε απροσδόκητα
 openpgp-keygen-abort-title = Ακύρωση δημιουργίας κλειδιού;
 
 ## Import Key section
