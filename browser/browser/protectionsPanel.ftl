@@ -36,6 +36,7 @@ protections-panel-not-blocking-why-label = ఎందుకు?
 protections-panel-no-trackers-found = { -brand-short-name }కి తెలిసిన ట్రాకర్లేమీ ఈ పేజీలో కనబడలేదు.
 protections-panel-content-blocking-socialblock = సామాజిక మాధ్యమాల ట్రాకర్లు
 protections-panel-content-blocking-cryptominers-label = క్రిప్టోమైనర్లు
+protections-panel-content-blocking-fingerprinters-label = ఫింగర్‌ప్రింటర్లు
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
