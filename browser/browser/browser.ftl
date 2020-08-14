@@ -325,6 +325,11 @@ urlbar-placeholder =
 # entire web.
 urlbar-placeholder-search-mode-web =
     .placeholder = חיפוש ברשת
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = נא להקליד מונח לחיפוש
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
