@@ -8,6 +8,7 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = Συνέχεια
     .buttonlabelhelp = Επιστροφή
+key-wizard-warning = <b>Αν διαθέτετε ήδη ένα προσωπικό κλειδί</b> για αυτή τη διεύθυνση ηλεκτρονικού ταχυδρομείου, πρέπει να το εισαγάγετε. Διαφορετικά δε θα έχετε πρόσβαση στο αρχείο σας από κρυπτογραφημένα μηνύματα, ούτε θα μπορείτε να διαβάζετε εισερχόμενη κρυπτογραφημένη αλληλογραφία από ανθρώπους που χρησιμοποιούν το υπάρχον κλειδί σας.
 key-wizard-learn-more = Μάθετε περισσότερα
 radio-create-key =
     .label = Δημιουργία νέου κλειδιού OpenPGP
@@ -15,6 +16,9 @@ radio-create-key =
 radio-import-key =
     .label = Εισαγωγή υπάρχοντος κλειδιού OpenPGP
     .accesskey = Ε
+radio-gnupg-key =
+    .label = Χρήση του εξωτερικού σας κλειδιού μέσω του GnuPG (πχ. από έξυπνη κάρτα)
+    .accesskey = ρ
 
 ## Generate key section
 
