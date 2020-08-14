@@ -318,8 +318,19 @@ enable-devtools-popup-description = Per utilizar l’acorchi F12, dobrissètz d�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Picar un tèrme de recercar o una adreça
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Picar un tèrme de recercar o una adreça
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Recèrca sul web
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Picar un tèrme de recèrca
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
