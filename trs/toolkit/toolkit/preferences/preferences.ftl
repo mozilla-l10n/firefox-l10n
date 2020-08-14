@@ -13,6 +13,7 @@ pw-not-wanted = ¡Gā gudadû! Dadin’ nu gārasunt ‘ngō da’nga’ huì a�
 pw-change2empty-in-fips-mode = Akuan’ nïn nī nunt ngà modô FIPS. FIPS nī ni’ñan ‘ngō Da’nga’ Huì a’nïn’ïn.
 failed-pp-change = Nitāj si hūaj nādūnā da’nga’ huì arâj sunt doj.
 incorrect-pp = Nu gāchrūn hue’êt da’nga’ huì araāj sunt doj huā nākàa. Ginù huin ñû.
+pp-change-ok = Ngà nadunâ da’nga’ huì arâj sunt doj.
 pw-change-success-title = Ngà gisîj ga’ue nadunât Da’nga’ Huìi
 pw-change-failed-title = Nu ga’ue nādunaj Da’nga’ Huìi
 pw-remove-button =
