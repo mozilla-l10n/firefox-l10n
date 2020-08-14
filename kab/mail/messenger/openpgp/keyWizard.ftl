@@ -54,6 +54,8 @@ openpgp-keygen-import-complete =
     .accesskey = M
 openpgp-keygen-missing-username = Ulac isem i d-yettufernen i umiḍan amiran. Ttxil-k·m sekcem azal deg wurti  "isem-inek·inem" deg yiɣewwaren n umiḍan.
 openpgp-keygen-long-expiry = Ur tezmireḍ ara ad d-tesnulfuḍ tasarut ara yemmten deg wugar n 100 n yiseggasen.
+openpgp-keygen-short-expiry = Tasarut-ik·im ilaq ad tili d tameɣtut xerṣum yiwen wass.
+openpgp-keygen-ongoing = Asirew n tsarut yebda yakan iteddu!
 #   $identity (String) - the name and email address of the currently selected identity
 openpgp-key-confirm = Sirew tasarut tazayezt tufurt i { $identity }?
 
