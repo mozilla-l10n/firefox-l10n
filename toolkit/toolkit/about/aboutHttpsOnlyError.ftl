@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Valószínűleg a webhely egyszerűen ne
 about-httpsonly-explanation-risk = Az is lehet, hogy ezt egy támadó okozza. Ha úgy dönt, hogy meglátogatja a webhelyet, akkor ne adjon meg olyan érzékeny információt, mint a jelszó, e-mail-cím vagy a kártyaadatok.
 about-httpsonly-button-accept-and-continue = Kockázat elfogadása és továbblépés
 about-httpsonly-button-go-back = Ugrás vissza
+about-httpsonly-link-learn-more = További tudnivalók…

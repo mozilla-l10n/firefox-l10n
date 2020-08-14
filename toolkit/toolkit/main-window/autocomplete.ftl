@@ -12,5 +12,20 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">Importálja a bejelentkezéseit a { $browser } böngészőből</div>
     <div data-l10n-name="line2">ehhez: { $host }, és más webhelyekhez</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+autocomplete-import-logins-chrome =
+    <div data-l10n-name="line1">Importálja a bejelentkezéseit a Google Chrome-ból</div>
+    <div data-l10n-name="line2">ehhez: { $host }, és más webhelyekhez</div>
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line1">Importálja a bejelentkezéseit a Chromiumból</div>
+    <div data-l10n-name="line2">ehhez: { $host }, és más webhelyekhez</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line1">Importálja a bejelentkezéseit a Microsoft Edge-ből</div>
+    <div data-l10n-name="line2">ehhez: { $host }, és más webhelyekhez</div>
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = További tudnivalók
