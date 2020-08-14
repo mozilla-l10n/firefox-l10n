@@ -22,6 +22,7 @@ search-bookmarks = ఇష్టాంశాలు
 search-history = చరిత్ర
 search-opentabs = తెరిచివున్న ట్యాబులు
 search-tags = ట్యాగులు
+search-titles = శీర్షికలు
 
 ##
 
