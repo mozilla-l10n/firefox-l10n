@@ -48,3 +48,5 @@ printui-system-dialog-link = Stampa utilizzando la finestra di dialogo del siste
 
 printui-primary-button = Stampa
 printui-cancel-button = Annulla
+
+printui-loading = Preparazione anteprima
