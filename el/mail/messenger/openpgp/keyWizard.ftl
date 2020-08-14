@@ -71,16 +71,46 @@ openpgp-keygen-short-expiry = Το κλειδί σας πρέπει να έχε�
 openpgp-keygen-ongoing = Η δημιουργία κλειδιού είναι ήδη σε εξέλιξη!
 openpgp-keygen-error-core = Δεν ήταν δυνατή η αρχικοποίηση της Κύριας Υπηρεσίας του OpenPGP
 openpgp-keygen-error-failed = Η δημιουργία κλειδιού OpenPGP απέτυχε απροσδόκητα
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Το κλειδί OpenPGP δημιουργήθηκε με επιτυχία, αλλά απέτυχε η ανάκληση του κλειδιού { $key }
 openpgp-keygen-abort-title = Ακύρωση δημιουργίας κλειδιού;
+openpgp-keygen-abort = Η δημιουργία κλειδιού OpenPGP είναι σε εξέλιξη, είστε βέβαιοι ότι θέλετε να την ακυρώσετε;
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Να δημιουργηθεί το δημόσιο και ιδιωτικό κλειδί για την ταυτότητα { $identity };
 
 ## Import Key section
 
+openpgp-import-key-title = Εισαγωγή υπάρχοντος προσωπικού κλειδιού OpenPGP
+openpgp-import-key-legend = Επιλέξτε ένα αρχείο αντιγράφου ασφαλείας που έχετε δημιουργήσει στο παρελθόν.
+openpgp-import-key-description = Μπορείτε να εισαγάγετε προσωπικά κλειδιά που δημιουργήθηκαν με άλλο λογισμικό OpenPGP.
+openpgp-import-key-info = Άλλο λογισμικό ενδέχεται να περιγράφει ένα προσωπικό κλειδί χρησιμοποιώντας εναλλακτικούς όρους, όπως το δικό σας κλειδί, μυστικό κλειδί, ιδιωτικό κλειδί ή ζεύγος κλειδιών.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Το Thunderbird βρήκε ένα κλειδί που μπορεί να εισαχθεί.
+       *[other] Το Thunderbird βρήκε { $count } κλειδιά που μπορούν να εισαχθούν.
+    }
+openpgp-import-key-list-description = Επιβεβαιώστε ποια κλειδιά μπορούν να θεωρηθούν ως προσωπικά σας κλειδιά. Μόνο κλειδιά που δημιουργήσατε εσείς και που δείχνουν τη δική σας ταυτότητα θα πρέπει να χρησιμοποιούνται ως προσωπικά κλειδιά. Μπορείτε να αλλάξετε αυτήν την επιλογή αργότερα στο παράθυρο διαλόγου Ιδιότητες Κλειδιού.
+openpgp-import-key-list-caption = Τα κλειδιά που έχουν επισημανθεί ως Προσωπικά Κλειδιά θα εμφανίζονται στην ενότητα Κρυπτογράφηση Από-Άκρο-Σε-Άκρο. Τα άλλα θα είναι διαθέσιμα στη Διαχείριση Κλειδιών.
+openpgp-passphrase-prompt-title = Απαιτείται κωδικός πρόσβασης
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Εισαγάγετε τον κωδικό πρόσβασης για να ξεκλειδώσετε το ακόλουθο κλειδί: { $key }
 openpgp-import-key-button =
     .label = Επιλέξτε αρχείο για εισαγωγή…
     .accesskey = Ε
 import-key-file = Εισαγωγή αρχείου κλειδιού OpenPGP
+import-key-personal-checkbox =
+    .label = Αυτό το κλειδί να αντιμετωπίζεται ως Προσωπικό Κλειδί
 gnupg-file = Αρχεία GnuPG
+import-error-file-size = <b>Σφάλμα!</b> Αρχεία μεγαλύτερα των 5MB δεν υποστηρίζονται.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Σφάλμα!</b> Αδύνατη η εισαγωγή του αρχείου. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Σφάλμα!</b> Αδύνατη η εισαγωγή των κλειδιών. { $error }
 openpgp-import-identity-label = Ταυτότητα
+openpgp-import-fingerprint-label = Αποτύπωμα
+openpgp-import-created-label = Δημιουργήθηκε
+openpgp-import-bits-label = Bits
 openpgp-import-key-props =
     .label = Ιδιότητες κλειδιού
     .accesskey = Ι
