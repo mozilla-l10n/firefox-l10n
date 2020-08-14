@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Prawdopodobnie witryna po prostu nie obs
 about-httpsonly-explanation-risk = Możliwe jest również, że atakujący próbuje przechwycić informacje. Jeśli zdecydujesz się otworzyć tę witrynę, nie powinno się podawać na niej żadnych prywatnych informacji, takich jak hasła, adresy e-mail czy dane karty płatniczej.
 about-httpsonly-button-accept-and-continue = Akceptuję ryzyko, kontynuuj
 about-httpsonly-button-go-back = Wróć do poprzedniej strony
+about-httpsonly-link-learn-more = Więcej informacji…
