@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Fòrt probablament lo site web pren simp
 about-httpsonly-explanation-risk = Es tanben possible qu’un malfactor siá implicat, se decidissètz de visitar lo site web, val mai evitar de dintrar d’informacions sensiblas coma de senhals, adreças electronicas o de cartas bancàrias.
 about-httpsonly-button-accept-and-continue = Acceptar lo risc e contunhar
 about-httpsonly-button-go-back = Tornar
+about-httpsonly-link-learn-more = Ne saber mai…
