@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Yn fwyaf tebygol, nid yw'r wefan yn cefn
 about-httpsonly-explanation-risk = Mae hefyd yn bosibl bod ymosodwr yn ceisio ymyrryd. Os penderfynwch ymweld â'r wefan, peidiwch â rhannu unrhyw fanylion sensitif fel cyfrineiriau, e-byst, neu fanylion cardiau credyd.
 about-httpsonly-button-accept-and-continue = Derbyn y Perygl a Pharhau
 about-httpsonly-button-go-back = Mynd Nôl
+about-httpsonly-link-learn-more = Dysgu Rhagor…

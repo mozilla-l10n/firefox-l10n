@@ -318,8 +318,19 @@ enable-devtools-popup-description = I ddefnyddio llwybr byr F12 agorwch DevTools
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Chwilio neu gyfeiriad gwe
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Chwilio neu gyfeiriad gwe
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Chwilio'r We
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Rhowch dermau chwilio
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
