@@ -48,6 +48,7 @@ experimental-features-web-api-link-preload-description = Atribut <a data-l10n-na
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Zmóžnja nałožowanje fokusowych stilow na elementy ako tłocaški a formularne wóźeńske elementy, gaž se z pomocu tastatury fokusěruju (na pś. z tabulatoroweju tastu pśi gibanju pó elementach) a nic, gaž se z myšku abo drugim pokazowańskim rědom fokusěruju. Glejśo <a data-l10n-name="bugzilla">zmólkowu rozpšawu 1617600</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
@@ -67,6 +68,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Toś ta funkcija tłocašk w pśikazowej smužce konsole pokazujo, z kótarymž móžośo kontekst změniś, w kótaremž se ma zapódany wuraz wuwjasć. Glejśo <a data-l10n-name="bugzilla1">zmólka 1605154</a> a <a data-l10n-name="bugzilla2">zmólka 1605153</a> za dalšne drobnostki.
 experimental-features-devtools-compatibility-panel =
     .label = Wuwijaŕske rědy: Wokno kompatibelnosći
+experimental-features-devtools-compatibility-panel-description = Bocnica za inspektor bokow, kótaraž wam informacije wó statusu kompatibelnosći cross-browser wašogo nałoženja pokazujo. Glejśo <a data-l10n-name="bugzilla">zmólkowu rozpšawu 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookieje: SameSite=Lax by default
@@ -82,13 +84,17 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Pufrowak za zachopny dokument about:home, kótaryž se pó standarźe pśi startowanju zacytujo. Zaměr pufrowaka jo, startowe wugbaśe pólěpšyś.
 experimental-features-print-preview-tab-modal =
     .label = Nowy design śišćaŕskego pśeglěda
+experimental-features-print-preview-tab-modal-description = Zawjedujo nowo wugótowany śišćaŕski pśeglěd a staja śišćaŕski pśeglěd na macOS k dispoziciji. To potencielnje problemy zawinujo a njewopśimujo wšykne śišćaŕske nastajenja. Aby pśistup ku wšym śišćaŕskim nastajenjam měł, wubjeŕśo „Z pomocu systemowego dialoga śišćaś…“ z śišćaŕskego pśeglěda.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookieje: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Z cookiejami z teje samskeje domeny, ale z rozdźělnymi šemami (na pś. http://example.com a https://example.com) ako cookieje mjazy někotarymi sedłami město togo samskego sedła wobchadaju. Pólěpšujo wěstotu, ale zawinujo potencielnje problemy.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Wuwijaŕske rědy: Pytanje zmólkow ze service worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Zmóžnja eksperimentelnu pódpěru za service worker we woknje Pytanje za zmólkami. Toś ta funkcija móžo wuwijaŕske rědy spómałšyś a pśetrjebu składa pówušyś.
 # Desktop zooming experiment
 experimental-features-graphics-desktop-zooming =
     .label = Grafika: pózlažke dwójopalcowe skalěrowanje
