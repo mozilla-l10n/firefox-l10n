@@ -65,6 +65,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "ముద్రించు…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "మరో విహారిణి నుండి దిగుమతిచేయి…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 
@@ -82,6 +83,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "ఇష్టాంశాలు">
 <!ENTITY bookmarksToolbarItem.label "ఇష్టాంశాల పట్టీ అంశాలు">
 
 <!ENTITY pageSourceCmd.label "పేజీ మూలం">
@@ -149,9 +151,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; అమరికలు">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; సేవలు">
 <!ENTITY fxa.menu.account.label "ఖాతా">
+<!ENTITY fxa.menu.settings.label "అమరికలు">
 <!ENTITY fxa.menu.accountSettings.label "ఖాతా అమరికలు">
 <!ENTITY fxa.menu.manageAccount2.label "ఖాతా నిర్వహణ">
 
@@ -881,6 +885,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "క్రిప్టోమైనర్లు">
 <!ENTITY contentBlocking.cryptominersView.label "క్రిప్టోమైనర్లు">
 
+<!ENTITY contentBlocking.fingerprinters.label "ఫింగర్‌ప్రింటర్లు">
+<!ENTITY contentBlocking.fingerprintersView.label "ఫింగర్‌ప్రింటర్లు">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "ఒక సమస్యను నివేదించండి">
 <!ENTITY contentBlocking.breakageReportView.label "సమస్యలను నివేదించండి">
