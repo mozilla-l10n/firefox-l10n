@@ -118,5 +118,10 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Εξωτερικό κλειδί GnuPG
+openpgp-external-key-description = Διαμόρφωση ενό εξωτερικού κλειδιού GnuPG με εισαγωγή του αναγνωριστικού κλειδιού
+openpgp-external-key-info = Επιπλέον, πρέπει να χρησιμοποιήσετε τη Διαχείριση Κλειδιών για εισαγωγή και αποδοχή του αντίστοιχου Δημόσιου Κλειδιού.
+openpgp-external-key-warning = <b>Μπορείτε να παραμετροποιήσετε μόνο ένα εξωτερικό κλειδί GnuPG.</b> Η προηγούμενη καταχώρισή σας θα αντικατασταθεί.
+openpgp-save-external-button = Αποθήκευση αναγνωριστικού κλειδιού
+openpgp-external-key-label = Αναγνωριστικό μυστικού κλειδιού:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
