@@ -41,6 +41,9 @@ experimental-features-web-api-inputmode-description = Naša implementacija globa
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = Atribut <a data-l10n-name="rel">rel</a>z gódnotu <code>"preload"</code> na elemenśe <a data-l10n-name="link">&lt;link&gt;</a> dej k tomu pśinosowaś, pówušenje wugbaśa dojśpiś, gaž resurse jěsnjej w žywjeńskem cyklusu boka ześěgujośo, aby jěsnjej k dispoziciji byli a mjenjej wěrjepódobnje kreslenje bokow blokěrowali. Cytajśo <a data-l10n-name="readmore">"Preloading content with <code>rel="preload"</code>"</a> abo <a data-l10n-name="bugzilla">zmólkowu rozpšawu 1583604</a> za dalšne drobnostki.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
