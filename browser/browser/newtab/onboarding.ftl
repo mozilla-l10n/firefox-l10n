@@ -97,6 +97,7 @@ onboarding-sync-form-skip-login-button = ఈ అంచెను దాటవే�
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = మీ ఈమెయిలును ఇవ్వండి
+onboarding-sync-form-sub-header = { -sync-brand-name }కి కొనసాగడానికి
 
 ## These are individual benefit messages shown with an image, title and
 ## description.

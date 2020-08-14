@@ -4,6 +4,7 @@
 
 url-classifier-title = URL Classifier సమాచారం
 url-classifier-search-result-title = ఫలితాలు
+url-classifier-search-features = సౌలభ్యాలు
 url-classifier-search-listType = జాబితా రకం
 url-classifier-provider-title = సమర్పకులు
 url-classifier-provider = ప్రొవైడర్
@@ -30,7 +31,6 @@ url-classifier-debug-sb-modules = సురక్షిత బ్రౌజిం
 url-classifier-debug-modules = ప్రస్తుత లాగ్ మాడ్యూళ్ళు
 url-classifier-debug-sbjs-modules = సురక్షిత బ్రౌజింగ్ JS లాగ్
 url-classifier-debug-file = ప్రస్తుత లాగ్ ఫైలు
-
 url-classifier-not-available = వర్తించదు
 url-classifier-disable-sbjs-log = సురక్షిత బ్రౌజింగ్ JS లాగ్ని ఆపివేయి
 url-classifier-enable-sbjs-log = సురక్షిత బ్రౌజింగ్ JS లాగ్ని ప్రారంభించండి
