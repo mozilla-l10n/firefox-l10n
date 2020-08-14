@@ -318,8 +318,19 @@ enable-devtools-popup-description = Pour utiliser le raccourci F12, ouvrez d’a
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Saisir un terme à rechercher ou une adresse
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Saisir un terme à rechercher ou une adresse
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Rechercher sur le Web
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Saisissez les termes de recherche
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
