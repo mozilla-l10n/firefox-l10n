@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Nejskerjej websedło jadnorje HTTPS njep
 about-httpsonly-explanation-risk = Jo teke móžno,až napadowaŕ jo wobźělony. Jolic se rozsuźujośo, se k websedłoju woglědaś, njeměł wy sensibelne daty ako gronidła, e-mailowe adrese abo drobnostki kreditowych kórtow zapódaś.
 about-httpsonly-button-accept-and-continue = Riziko akceptěrowaś a pókšacowaś
 about-httpsonly-button-go-back = Slědk
+about-httpsonly-link-learn-more = Dalšne informacije…
