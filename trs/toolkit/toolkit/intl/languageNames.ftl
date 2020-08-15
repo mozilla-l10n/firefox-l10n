@@ -188,6 +188,7 @@ language-name-tlh = Klingôn
 language-name-tn = Tisuâna
 language-name-to = Tônga
 language-name-tr = Tûrko
+language-name-trs = Nânj nï’ïn
 language-name-ts = Tsônga
 language-name-tt = Tatâr
 language-name-tw = Tuî
