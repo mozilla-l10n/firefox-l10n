@@ -98,12 +98,90 @@ openpgp-acceptance-verified-label =
     .label = Evet, bu anahtarın doğru parmak izine sahip olduğunu doğruladım.
 openpgp-personal-no-label =
     .label = Hayır, kişisel anahtarım olarak kullanma.
+openpgp-copy-cmd-label =
+    .label = Kopyala
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = Anahtar ekle…
+    .accesskey = e
+e2e-learn-more = Daha fazla bilgi al
+openpgp-keygen-success = OpenPGP anahtarı başarıyla oluşturuldu!
+openpgp-keygen-import-success = OpenPGP anahtarları başarıyla içe aktarıldı!
+openpgp-keygen-external-success = Harici GnuPG anahtar kimliği kaydedildi!
 
 ## OpenPGP Key selection area
 
+openpgp-key-expired-image =
+    .tooltiptext = Anahtarın süresi doldu
+openpgp-key-expand-section =
+    .tooltiptext = Daha fazla bilgi
+openpgp-manager-button =
+    .label = OpenPGP Anahtar Yöneticisi
+    .accesskey = Y
+key-external-label = Harici GnuPG anahtarı
+key-type-subkey = alt anahtar
+key-expiry-never = hiçbir zaman
+key-usage-encrypt = Şifrele
+key-usage-sign = İmzala
+expiry-open-key-manager = OpenPGP anahtar yöneticisini aç
+expiry-open-key-properties = Anahtar özelliklerini aç
+# Strings filters.jsm
+filter-folder-required = Bir hedef klasör seçmelisiniz.
+filter-key-required = Bir alıcı anahtarı seçmelisiniz.
+import-info-bits = Bit
+import-info-fpr = Parmak izi
+save-keys-ok = Anahtarlar başarıyla kaydedildi
+general-error = Hata: { $reason }
+dlg-button-delete = &Sil
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = Fotoğraf
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &İçe aktar
+delete-key-title = OpenPGP anahtarını sil
+# Strings used in trust.jsm
+key-valid-unknown = bilinmiyor
+key-valid-invalid = geçersiz
+key-valid-disabled = devre dışı
+key-valid-revoked = iptal edildi
+key-valid-expired = süresi doldu
+key-trust-untrusted = güvenilmeyen
+key-trust-marginal = marjinal
+key-trust-full = güvenilir
+key-trust-group = (grup)
+gnupg-file = GnuPG dosyaları
+key-man-button-generate-key = Anahtar &oluştur
+msg-compose-details-button-label = Ayrıntılar…
+msg-compose-details-button-access-key = n
+key-not-found = '{ $key }' anahtarı bulunamadı
+key-revoked = '{ $key }' anahtarı iptal edildi
+key-expired = '{ $key }' anahtarının süresi doldu
+msg-compose-cannot-save-draft = Taslak kaydedilirken hata oluştu
+sig-mismatch = Hata - İmza uyuşmazlığı
+# Strings used in encryption.jsm
+not-required = Hata - şifreleme gerekmiyor
+# Strings used in windows.jsm
+no-photo-available = Fotoğraf yok
+error-photo-path-not-readable = '{ $photo }' fotoğraf yolu okunamıyor
+debug-log-title = OpenPGP hata ayıklama günlüğü
+# Strings used in dialog.jsm
+repeat-prefix = Bu uyarı { $count }
+repeat-suffix-singular = kere daha tekrarlanacak.
+repeat-suffix-plural = kere daha tekrarlanacak.
+no-repeat = Bu uyarı bir daha gösterilmeyecek.
+dlg-keep-setting = Yanıtımı hatırla ve bir daha sorma
+dlg-button-ok = &Tamam
+dlg-button-close = &Kapat
+dlg-button-cancel = &Vazgeç
+dlg-no-prompt = Bu iletişim kutusunu bir daha gösterme
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Yeniden dene
+dlg-button-skip = &Geç
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP hatası
+enig-alert-title =
+    .title = OpenPGP uyarısı
