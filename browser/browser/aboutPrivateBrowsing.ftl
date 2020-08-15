@@ -4,7 +4,6 @@
 
 about-private-browsing-learn-more = Μάθετε περισσότερα σχετικά με την <a data-l10n-name="learn-more">Ιδιωτική Περιήγηση</a>.
 about-private-browsing-info-visited = Σελίδες που έχετε επισκεφθεί
-
 privatebrowsingpage-open-private-window-label = Άνοιγμα ιδιωτικού παραθύρου
     .accesskey = ι
 about-private-browsing-info-notsaved = Όταν πλοηγείστε σε ένα Ιδιωτικό Παράθυρο, το { -brand-short-name } <strong>δεν αποθηκεύει</strong>:
@@ -12,7 +11,7 @@ about-private-browsing-search-placeholder = Αναζήτηση στο διαδί
 about-private-browsing-info-bookmarks = Σελιδοδείκτες
 about-private-browsing-info-title = Βρίσκεστε σε ένα ιδιωτικό παράθυρο
 about-private-browsing-info-searches = Αναζητήσεις
-about-private-browsing-info-downloads = Λήψεις
+about-private-browsing-info-downloads = λήψεις
 private-browsing-title = Ιδιωτική περιήγηση
 about-private-browsing-info-saved = Το { -brand-short-name } <strong>θα αποθηκεύσει</strong> τα εξής δεδομένα σας:
 about-private-browsing-info-myths = Κοινοί μύθοι για την ιδιωτική περιήγηση
@@ -27,7 +26,6 @@ about-private-browsing-not-private = Αυτή τη στιγμή, δεν βρίσ
 content-blocking-title = Φραγή περιεχομένου
 content-blocking-description = Μερικές ιστοσελίδες χρησιμοποιούν ιχνηλάτες που μπορούν να παρακολουθούν την δραστηριότητά σας στο διαδίκτυο. Στα ιδιωτικά παράθυρα, η Φραγή περιεχομένου του { -brand-short-name } αποκλείει αυτόματα πολλούς ιχνηλάτες που μπορούν να συλλέγουν πληροφορίες για την περιήγησή σας.
 about-private-browsing-info-description = Το { -brand-short-name } διαγράφει το ιστορικό αναζήτησης και περιήγησής σας όταν κλείνετε την εφαρμογή ή όλα τα παράθυρα και τις καρτέλες ιδιωτικής περιήγησης. Αν και δεν έχετε πλήρη ανωνυμία στις ιστοσελίδες ή τον πάροχο υπηρεσίας διαδικτύου, μπορείτε να διατηρείτε τις δραστηριότητές σας ιδιωτικές από τους άλλους χρήστες αυτού του υπολογιστή πιο εύκολα.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

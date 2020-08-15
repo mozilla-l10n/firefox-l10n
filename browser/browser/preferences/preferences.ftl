@@ -1195,7 +1195,7 @@ httpsonly-learn-more = Μάθετε περισσότερα
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Επιφάνεια εργασίας
-downloads-folder-name = Ληφθέντα αρχεία
+downloads-folder-name = Στοιχεία λήψεων
 choose-download-folder-title = Επιλογή φακέλου λήψεων:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...

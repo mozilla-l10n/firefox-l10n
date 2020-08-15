@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = Μια νέα ενημέρωση για το { -brand-shorter-name } είναι διαθέσιμη.
+    .label = Διατίθεται μια νέα ενημέρωση για το { -brand-shorter-name }.
     .buttonlabel = Λήψη ενημέρωσης
     .buttonaccesskey = Λ
     .secondarybuttonlabel = Όχι τώρα
@@ -15,7 +15,7 @@ appmenu-update-manual =
     .buttonaccesskey = Λ
     .secondarybuttonlabel = Όχι τώρα
     .secondarybuttonaccesskey = Ό
-appmenu-update-manual-message = Κάντε λήψη μιας φρέσκιας έκδοσης του { -brand-shorter-name } και θα σάς βοηθήσουμε να την εγκαταστήσετε.
+appmenu-update-manual-message = Κάντε λήψη μιας νέας έκδοσης του { -brand-shorter-name } και θα σας βοηθήσουμε να την εγκαταστήσετε.
 appmenu-update-whats-new =
     .value = Δείτε τι νέο υπάρχει.
 appmenu-update-unsupported =
@@ -47,7 +47,6 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = Ε
 appmenu-addon-private-browsing-message = Τυχόν νέες επεκτάσεις που προσθέτετε στο { -brand-shorter-name } δεν θα λειτουργούν στα ιδιωτικά παράθυρα, εκτός κι αν το επιτρέψετε στις ρυθμίσεις.
 appmenu-addon-private-browsing-learn-more = Μάθετε πώς να διαχειρίζεστε τις ρυθμίσεις επεκτάσεων
-    
 appmenu-new-tab-controlled =
     .label = Η νέα σας καρτέλα έχει αλλάξει.
     .buttonlabel = Διατήρηση αλλαγών
