@@ -72,6 +72,8 @@ onboarding-multistage-theme-label-automatic = స్వయంచాలకం
 onboarding-multistage-theme-description-automatic = వ్యవస్థ అలంకారం వాడు
 onboarding-multistage-theme-label-light = తెల్లని
 onboarding-multistage-theme-label-dark = నల్లని
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
