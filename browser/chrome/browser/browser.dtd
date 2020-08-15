@@ -232,6 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశపు ప్యానెలును తెరువు">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "స్థాన అభ్యర్థన ప్యానెలును తెరువు">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "ఆటోప్లే ప్యానెలును తెరువు">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "కాన్వాస్ వెలికితీత అనుమతిని నిర్వహించండి">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్‌లైన్ నిల్వ సందేశ ప్యానెలును తెరువు">
