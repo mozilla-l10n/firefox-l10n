@@ -17,6 +17,7 @@ openpgp-one-recipient-status-open-details =
 openpgp-one-recipient-status-discover =
     .label = Új vagy frissített kulcs felfedezése
 openpgp-one-recipient-status-instruction1 = Végpontok között titkosított üzenet adott címzetthez való küldéséhez meg kell szereznie annak OpenPGP nyilvános kulcsát, és elfogadottként kell megjelölnie.
+openpgp-one-recipient-status-instruction2 = A nyilvános kulcs megszerzéséhez importálja őket egy olyan e-mailből, amelyet Önnek küldtek, és tartalmazza azt. Alternatív megoldásként megpróbálhatja felfedezni a nyilvános kulcsot egy címtárban.
 openpgp-key-own = Elfogadva (személyes kulcs)
 openpgp-key-secret-not-personal = Nem használható
 openpgp-key-verified = Elfogadva (ellenőrzött)
