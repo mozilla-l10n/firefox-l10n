@@ -409,6 +409,15 @@ keyring-photo = Fénykép
 user-att-photo = Felhasználói attribútum (JPEG-kép)
 # Strings in key.jsm
 already-revoked = Ezt a kulcsot már visszavonták.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Arra készül, hogy visszavonja a(z) „{ $identity }” kulcsot.
+    A továbbiakban már nem fog tud aláírni ezzel a kulccsal, és miután elosztották, mások sem fognak tudni titkosítani ezzel a kulccsal. A kulcsot továbbra is használhatja a régi üzenetek visszafejtéséhez.
+    Folytatná?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Nincs olyan kulcsa (0x{ $keyId }), mely megfelel ennek a visszavonási tanúsítványnak!
+    Ha elveszett a kulcsa, akkor a visszavonási tanúsítvány importálása előtt importálnia kell azt (pl. egy kulcskiszolgálóból)!
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = A 0x{ $keyId } kulcsot már visszavonták.
 key-man-button-revoke-key = Kulcs &visszavonása
