@@ -568,6 +568,12 @@ not-required = Hiba – titkosítás nem szükséges
 no-photo-available = Nincs elérhető fénykép
 error-photo-path-not-readable = A(z) „{ $photo }” fényképútvonal nem olvasható
 debug-log-title = OpenPGP hibakeresési napló
+# Strings used in dialog.jsm
+repeat-prefix = Ez a figyelmeztetés { $count }
+repeat-suffix-singular = alkalommal meg lesz ismételve.
+repeat-suffix-plural = alkalommal meg lesz ismételve.
+no-repeat = Ez a figyelmeztetés nem jelenik meg újra.
+dlg-keep-setting = Jegyezze meg a válaszomat, és ne kérdezze meg újra
 dlg-button-ok = &Rendben
 dlg-button-close = &Bezárás
 dlg-button-cancel = &Mégse
