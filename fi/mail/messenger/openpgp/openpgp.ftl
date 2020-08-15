@@ -335,8 +335,12 @@ expiry-open-key-manager = Avaa OpenPGP-avainhallinta
 expiry-open-key-properties = Avaimen ominaisuudet
 # Strings filters.jsm
 filter-folder-required = Kohdekansio on valittava.
+filter-decrypt-move-warn-experimental =
+    Varoitus - suodatustoiminto "Pura salaus pysyvästi" saattaa johtaa tuhoutuneisiin viesteihin.
+    Suositteleme vahvasti, että kokeilet ensin "Luo salauksesta purettu kopio"-suodatinta, testaat tuloksen huolellisesti, ja aloitat tämän suodattimen käytön vasta kun olet tyytyyväinen lopputulokseen.
 filter-term-pgpencrypted-label = OpenPGP-salattu
 filter-key-required = Vastaanottajan avain on valittava.
+filter-key-not-found = Ei löytynyt salausavainta seuraaville '{ $desc }'.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Pura salaus pysyvästi (OpenPGP)
 filter-decrypt-copy-label = Luo salauksesta purettu kopio (OpenPGP)
@@ -375,6 +379,7 @@ save-keys-ok = Avaimet tallennettiin onnistuneesti
 save-keys-failed = Avainten tallentaminen epäonnistui
 default-pub-key-filename = Viedyt-julkiset-avaimet
 default-pub-sec-key-filename = Salaisten-avainten-varmuuskopio
+refresh-key-warn = Varoitus: riippuen avainten määrästä ja yhteyden nopeudesta, kaikkien avainten päivittäminen saattaa kestää!
 preview-failed = Julkisen avaintiedoston lukeminen ei onnistu.
 general-error = Virhe: { $reason }
 dlg-button-delete = &Poista
@@ -389,6 +394,8 @@ openpgp-export-secret-fail = <b>Valitun salaisen avaimen vienti ei onnistunut!</
 key-ring-pub-key-revoked = Avain { $userId } (avaimen tunniste { $keyId }) on kumottu.
 key-ring-pub-key-expired = Avain { $userId } (avaimen tunniste { $keyId }) on vanhentunut.
 key-ring-key-disabled = Avain { $userId } (avaimen tunniste { $keyId }) on poistettu käytöstä; sitä ei voi käyttää.
+key-ring-key-invalid = Avain { $userId } (avaimen tunniste { $keyId }) ei ole kelvollinen. Harkitse sen kelvollista vahvistamista.
+key-ring-key-not-trusted = Avain { $userId } (avaimen tunniste { $keyId }) ei ole riittävän luotettu. Aseta avaimesi luottamustasoksi "ultimaattinen" käyttääksesi sitä allekirjoitukseen.
 key-ring-pub-key-not-for-signing = Avainta { $userId } (avaimen tunniste { $keyId }) ei voi käyttää allekirjoittamiseen.
 key-ring-pub-key-not-for-encryption = Avainta { $userId } (avaimen tunniste { $keyId }) ei voi käyttää salaukseen.
 # Strings in gnupg-keylist.jsm
@@ -406,6 +413,7 @@ delete-key-title = Poista OpenPGP-avain
 delete-external-key-title = Poista ulkoinen GnuPG-avain
 delete-external-key-description = Haluatko poistaa tämän ulkoisen GnuPG-avaimen tunnisteen?
 key-in-use-title = OpenPGP-avain on parhaillaan käytössä
+key-error-key-id-not-found = Määritettyä avaimen tunnistetta '{ $keySpec }' ei löydy avainnipustasi.
 key-error-not-accepted-as-personal = Et ole vahvistanut, että avain tunnisteella '{ $keySpec }' on henkilökohtainen avaimesi.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Valitsemasi toiminto ei ole käytettävissä yhteydettömässä tilassa. Yhdistä verkkoon ja yritä uudelleen.
@@ -483,7 +491,9 @@ save-attachment-header = Tallenna salauksesta purettu liite
 no-temp-dir =
     Kirjoituskelpoista väliaikaishakemistoa ei löytynyt
     Aseta TEMP-ympäristömuuttuja
+possibly-pgp-mime = Mahdollisesti PGP/MIME-salattu tai allekirjoitettu viesti; käytä "Pura salaus/Vahvista'-toimintoa vahvistaaksesi
 cannot-send-sig-because-no-own-key = Tätä viestiä ei voi digitaalisesti allekirjoittaa, koska et ole vielä määrittänyt päästä päähän -salausta avaimelle <{ $key }>
+cannot-send-enc-because-no-own-key = Tätä viestiä ei voi lähettää salattuna, koska et ole vielä määrittänyt päästä päähän -salausta avaimelle <{ $key }>
 # Strings used in decryption.jsm
 do-import-multiple =
     Haluatko tuoda seuraavat avaimet?
