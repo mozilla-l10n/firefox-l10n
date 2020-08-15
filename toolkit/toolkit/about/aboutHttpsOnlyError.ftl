@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Rất có thể, trang web chỉ đơn g
 about-httpsonly-explanation-risk = Nó cũng có thể là một kẻ tấn công có liên quan. Nếu bạn quyết định truy cập trang web, bạn không nên nhập bất kỳ thông tin nhạy cảm nào như mật khẩu, email hoặc chi tiết thẻ tín dụng.
 about-httpsonly-button-accept-and-continue = Chấp nhận rủi ro và tiếp tục
 about-httpsonly-button-go-back = Quay lại
+about-httpsonly-link-learn-more = Tìm hiểu thêm…
