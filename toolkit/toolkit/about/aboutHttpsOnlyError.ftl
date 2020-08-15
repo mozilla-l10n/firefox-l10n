@@ -18,3 +18,4 @@ about-httpsonly-explanation-nosupport = Скорее всего, веб-сайт
 about-httpsonly-explanation-risk = Также возможно, что это было вызвано злоумышленником. Если вы решите посетить веб-сайт, вам не следует вводить на нём какие-либо конфиденциальные данные, такие как пароли, адреса электронной почты или данные банковских карт.
 about-httpsonly-button-accept-and-continue = Принять риск и продолжить
 about-httpsonly-button-go-back = Вернуться назад
+about-httpsonly-link-learn-more = Подробнее…
