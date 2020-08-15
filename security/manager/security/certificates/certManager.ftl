@@ -69,7 +69,7 @@ certmgr-expires-on = Λήγει στις
 certmgr-expires-label =
     .label = Λήγει στις
 certmgr-email =
-    .label = Ηλεκτρονική διεύθυνση
+    .label = Διεύθυνση email
 certmgr-serial =
     .label = Σειριακός Αριθμός
 certmgr-view =
@@ -166,8 +166,8 @@ delete-ca-cert-title =
 delete-ca-cert-confirm = Ζητήσατε να διαγράψετε αυτά τα πιστοποιητικά CA. Για τα ενσωματωμένα πιστοποιητικά υπάρχει και η επιλογή της άρσης εμπιστοσύνης που έχει το ίδιο αποτέλεσμα. Θέλετε τα τα διαγράψετε ή να άρετε την εμπιστοσύνη σας;
 delete-ca-cert-impact = Αν διαγράψετε ή άρετε την εμπιστοσύνη σας σε ένα πιστοποιητικό αρχής πιστοποίησης (CA), αυτή η εφαρμογή δεν θα εμπιστεύεται πια πιστοποιητικά από αυτή την CA.
 delete-email-cert-title =
-    .title = Διαγραφή πιστοποιητικών e-mail
-delete-email-cert-confirm = Θέλετε σίγουρα να διαγράψετε τα πιστοποιητικά e-mail αυτών των ατόμων;
+    .title = Διαγραφή πιστοποιητικών email
+delete-email-cert-confirm = Θέλετε σίγουρα να διαγράψετε τα πιστοποιητικά email αυτών των ατόμων;
 delete-email-cert-impact = Εάν διαγράψετε ένα πιστοποιητικό e-mail,  δεν θα μπορείτε πια να στέλνετε κρυπτογραφημένη αλληλογραφία σε αυτούς τους ανθρώπους.
 # Used for semi-uniquely representing a cert.
 #
