@@ -318,8 +318,19 @@ enable-devtools-popup-description = Voit käyttää F12-pikanäppäintä, kun ol
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Kirjoita osoite tai hakutermi
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Kirjoita osoite tai hakutermi
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Hae verkosta
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Kirjoita hakuehdot
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
