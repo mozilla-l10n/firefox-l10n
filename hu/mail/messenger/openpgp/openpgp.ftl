@@ -307,8 +307,24 @@ keyserver-error-unsupported = A kulcskiszolgáló nem támogatott.
 wkd-message-body-req =
     Az e-mail szolgáltatója feldolgozta a nyilvános kulcs feltöltésére vonatkozó kérését az OpenPGP webes kulcstárba.
     Erősítse meg, hogy befejezze a nyilvános kulcs közzétételét.
+wkd-message-body-process =
+    Ez az e-mail az OpenPGP webes kulcstárba feltöltött nyilvános kulcs automatikus feldolgozásával kapcsolatos.
+    Jelenleg nincs semmilyen teendője.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Nem sikerült visszafejteni a következő tárgyú üzenetet:
+    { $subject }.
+    Újrapróbálkozik egy másik jelszóval, vagy ki akarja hagyni az üzenetet?
 # Strings in gpg.jsm
 unknown-signing-alg = Ismeretlen aláírási algoritmus (azonosító: { $id })
+unknown-hash-alg = Ismeretlen kriptográfiai ujjlenyomat (azonosító: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    A(z) { $desc } kulcsa kevesebb, mint { $days } nap múlva lejár.
+    Javasoljuk, hogy hozzon létre egy új kulcspárt, és konfigurálja a megfelelő fiókokat annak használatához.
+expiry-keys-expire-soon =
+    A következő kulcsok kevesebb, mint { $days } napon belül lejárnak: { $desc }.
+    Javasoljuk, hogy hozzon létre új kulcsokat, és konfigurálja a megfelelő fiókokat azok használatához.
 expiry-open-key-manager = OpenPGP-kulcskezelő megnyitása
 expiry-open-key-properties = Kulcstulajdonságok megnyitása
 # Strings filters.jsm
