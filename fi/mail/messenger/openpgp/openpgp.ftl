@@ -198,6 +198,11 @@ openpgp-acceptance-undecided-label =
     .label = Ei vielä, ehkä myöhemmin.
 openpgp-acceptance-unverified-label =
     .label = Kyllä, mutta en ole varmistanut, että tämä on oikea avain.
+openpgp-acceptance-verified-label =
+    .label = Kyllä, olen henkilökohtaisesti varmistanut, että tällä avaimella on oikea sormenjälki.
+key-personal-warning = Loitko tämän avaimen itse, ja viittaako näytetty avaimen omistajuus sinuun?
+openpgp-personal-no-label =
+    .label = Ei, älä käytä sitä henkilökohtaisena avaimenani.
 openpgp-personal-yes-label =
     .label = Kyllä, käytä tätä avainta henkilökohtaisena avaimenani.
 openpgp-copy-cmd-label =
@@ -306,8 +311,12 @@ key-ring-pub-key-expired = Avain { $userId } (avaimen tunniste { $keyId }) on va
 key-ring-key-disabled = Avain { $userId } (avaimen tunniste { $keyId }) on poistettu käytöstä; sitä ei voi käyttää.
 key-ring-pub-key-not-for-signing = Avainta { $userId } (avaimen tunniste { $keyId }) ei voi käyttää allekirjoittamiseen.
 key-ring-pub-key-not-for-encryption = Avainta { $userId } (avaimen tunniste { $keyId }) ei voi käyttää salaukseen.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Kuva
 # Strings in key.jsm
 already-revoked = Tämä avain on jo kumottu.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Avain 0x{ $keyId } on jo kumottu.
 key-man-button-revoke-key = &Kumoa avain
 openpgp-key-revoke-success = Avain kumottu onnistuneesti.
 # Strings in keyRing.jsm & decryption.jsm
@@ -315,7 +324,7 @@ key-man-button-import = &Tuo
 delete-key-title = Poista OpenPGP-avain
 key-in-use-title = OpenPGP-avain on parhaillaan käytössä
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Hakuehtoihin vastaavia avaimia ei löytynyt.
+no-key-found = Hakuehtoja vastaavia avaimia ei löytynyt.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Virhe - avaimen purkamiskomento epäonnistui
 fail-key-import = Virhe - avaimen tuominen epäonnistui
