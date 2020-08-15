@@ -91,7 +91,7 @@
 
 <!ENTITY forwardButton.tooltip  "Μετάβαση μπροστά">
 
-<!ENTITY detailsPane.selectAnItemText.description "Επιλέξτε ένα αντικείμενο για προβολή ή επεξεργασία των ιδιοτήτων του">
+<!ENTITY detailsPane.selectAnItemText.description "Επιλέξτε ένα στοιχείο για προβολή και επεξεργασία ιδιοτήτων">
 
 <!ENTITY view.label               "Προβολή">
 <!ENTITY view.accesskey           "β">
