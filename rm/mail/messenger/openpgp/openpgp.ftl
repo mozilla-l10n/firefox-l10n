@@ -290,6 +290,7 @@ key-accept-warning = Fa la segira che ti acceptas mo clavs autenticas. Utilisesc
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Impussibel da trametter il messadi. I dat in problem cun tia clav persunala. { $problem }
 cannot-encrypt-because-missing = Impussibel da trametter quest messadi cun criptadi da fin a fin. I dat problems cun las clavs dals suandants destinaturs: { $problem }
+window-locked = La fanestra da rediger è bloccada; spediziun annullada
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Part criptada dal messadi
 mime-decrypt-encrypted-part-concealed-data = Quai è ina part criptada dal messadi. Ti stos l'avrir en ina fanestra separada cun cliccar sin l'agiunta.
@@ -331,6 +332,30 @@ expiry-keys-missing-owner-trust =
     La fidaivladad n'è betg specifitgada per tias clavs secretas suandantas:
     { $desc }.
     Nus ta recumandain da drizzar la «Fidaivladad dals certificats» sin «absoluta» en las caracteristicas da questas clavs.
+expiry-open-key-manager = Avrir l'administraziun da clavs OpenPGP
+expiry-open-key-properties = Avrir las caracteristicas da la clav
+# Strings filters.jsm
+filter-folder-required = Ti stos tscherner in ordinatur da destinaziun.
+filter-decrypt-move-warn-experimental =
+    Attenziun! L'acziun dal filter «Decriptar permanent» po destruir messadis.
+    Nus recumandain dad exnum empruvar l'emprim il filter «Crear ina copia decriptada», lura controllar bain il resultat e pir cumenzar ad utilisar quest filter sch'il resultat satisfa.
+filter-term-pgpencrypted-label = Criptà cun OpenPGP
+filter-key-required = Ti stos tscherner ina clav dal destinatur.
+filter-key-not-found = Impussibel da chattar ina clav da criptadi per «{ $desc }».
+filter-warn-key-not-secret =
+    Attenziun! L'acziun dal filter «Criptar cun la clav» remplazza ils destinaturs.
+    Sche ti na possedas betg la clav secreta per «{ $desc }», na vegns ti betg pli a pudair leger ils e-mails.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Decriptar permanent (OpenPGP)
+filter-decrypt-copy-label = Crear ina copia decriptada (OpenPGP)
+filter-encrypt-label = Criptar cun la clav (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Importà las clavs cun success
+import-info-bits = Bits
+import-info-created = Creà
+import-info-fpr = Impronta
+import-info-details = Mussar ils detagls ed administrar l'acceptaziun da las clavs
 
 ## Account settings export output
 
