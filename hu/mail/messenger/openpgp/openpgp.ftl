@@ -408,6 +408,7 @@ key-ring-pub-key-expired = A(z) { $userId } kulcs (kulcsazonosító: { $keyId })
 key-ring-key-disabled = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) le van tiltva; nem használható.
 key-ring-key-invalid = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) érvénytelen. Fontolja meg a helyessége ellenőrzését.
 key-ring-key-not-trusted = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem eléggé megbízható. Állítsa be a kulcs bizalmi értékét „teljesen megbízhatóra”, hogy aláírásra használhassa.
+key-ring-no-secret-key = Úgy tűnik, hogy nem rendelkezik a(z) { $userId } kulccsal (kulcsazonosító: { $keyId }) a kulcstartójában: nem használhatja a kulcsot aláíráshoz.
 key-ring-pub-key-not-for-signing = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem használható aláíráshoz.
 key-ring-pub-key-not-for-encryption = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem használható titkosításhoz.
 key-ring-sign-sub-keys-revoked = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes aláírási alkulcsát visszavonták.
@@ -442,6 +443,13 @@ after-revoke-info =
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importálás
 delete-key-title = OpenPGP-kulcs törlése
+delete-external-key-title = Külső GnuPG-kulcs eltávolítása
+delete-external-key-description = Eltávolítaná ezt a külső GnuPG-kulcsazonosítót?
+key-in-use-title = Jelenleg használt OpenPGP-kulcs
+delete-key-in-use-description = Nem lehet folytatni. A törlésre kiválasztott kulcsot jelenleg ez a személyazonosság használja. Válasszon egy másik kulcsot, vagy szüntesse meg a kiválasztást, és próbálja újra.
+revoke-key-in-use-description = Nem lehet folytatni. A visszavonásra kiválasztott kulcsot jelenleg ez a személyazonosság használja. Válasszon egy másik kulcsot, vagy szüntesse meg a kiválasztást, és próbálja újra.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = A(z) „{ $keySpec }” e-mail-cím nem felel meg a kulcstartó egyetlen kulcsának sem.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Hiba – a kulcskinyerési parancs sikertelen
 # Strings used in keyRing.jsm
