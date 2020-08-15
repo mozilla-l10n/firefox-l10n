@@ -318,8 +318,19 @@ enable-devtools-popup-description = Чтобы использовать клав
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Введите поисковый запрос или адрес
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Введите поисковый запрос или адрес
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Поиск в Интернете
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Введите поисковый запрос
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
