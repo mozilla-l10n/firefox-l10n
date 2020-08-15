@@ -333,6 +333,7 @@ gen-going = Avaimen luominen on jo meneillään!
 expiry-too-short = Avaimesi tulee olla kelvollinen vähintään yhden päivän ajan.
 expiry-too-long = Et voi luoda avainta, joka vanhenee yli 100 vuoden päästä.
 key-man-button-generate-key = &Luo avain
+decrypt-ok-no-sig = VaroitusDecryption was successful, but the signature could not be verified correctly
 msg-ovl-button-cont-anyway = &Jatka silti
 enig-content-note = *Tämän viestin liitteitä ei ole allekirjoitettu tai salattu*
 # Strings used in enigmailMsgComposeOverlay.js
@@ -349,6 +350,7 @@ do-import-multiple =
     { $key }
 do-import-one = Haluatko tuoda { $name } ({ $id })?
 cant-import = Virhe tuotaessa julkista avainta
+key-in-message-body = Avain löydettiin viestin sisällöstä. Napsauta "Tuo avain" tuodaksesi avaimen
 sig-mismatch = Virhe - Allekirjoituksen yhteensopimattomuus
 invalid-email = Virhe - yksi tai useampi virheellinen sähköpostiosoite
 # Strings used in encryption.jsm
