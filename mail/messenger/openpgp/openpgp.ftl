@@ -514,6 +514,10 @@ sending-hidden-rcpt = Piilokopioita (BCC) ei voi käyttää, kun on tarkoitus l�
 sending-news =
     Salattu lähetys keskeytetty.
     Tätä viestiä ei voi salata, koska vastaanottajissa on uutisryhmiä. Lähetä tämä viesti uudelleen ilman salausta.
+send-to-news-warning =
+    Varoitus: olet aikeissa lähettää salatun sähköpostin uutisryhmään.
+    Tämä ei ole suositeltavaa, koska siinä on järkeä vain jos kaikilla ryhmän jäsenillä on mahdollisuus purkaa viestin salaus. Toisin sanoen viesti tulee olla salattu kaikkien ryhmän jäsenten avaimilla. Lähetä tämä viesti vain, jos tiedät tarkalleen mitä olet tekemässä.
+    Haluatko jatkaa?
 save-attachment-header = Tallenna salauksesta purettu liite
 no-temp-dir =
     Kirjoituskelpoista väliaikaishakemistoa ei löytynyt
