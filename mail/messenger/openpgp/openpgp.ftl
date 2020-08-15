@@ -263,6 +263,8 @@ expiry-open-key-manager = Avaa OpenPGP-avainhallinta
 filter-folder-required = Kohdekansio on valittava.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Pura salaus pysyvästi (OpenPGP)
+filter-decrypt-copy-label = Luo salauksesta purettu kopio (OpenPGP)
+filter-encrypt-label = Salaa avaimeen (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Onnistui! Avaimet tuotu
@@ -326,6 +328,10 @@ import-key-file = Tuo OpenPGP-avaintiedosto
 import-rev-file = Tuo OpenPGP-kumoamistiedosto
 gnupg-file = GnuPG-tiedostot
 import-keys-failed = Avainten tuonti epäonnistui
+revoke-cert-failed = Kumoamisvarmennetta ei voitu luoda.
+gen-going = Avaimen luominen on jo meneillään!
+expiry-too-short = Avaimesi tulee olla kelvollinen vähintään yhden päivän ajan.
+expiry-too-long = Et voi luoda avainta, joka vanhenee yli 100 vuoden päästä.
 key-man-button-generate-key = &Luo avain
 msg-ovl-button-cont-anyway = &Jatka silti
 enig-content-note = *Tämän viestin liitteitä ei ole allekirjoitettu tai salattu*
@@ -336,7 +342,25 @@ key-revoked = Avain '{ $key }' kumottu
 key-expired = Avain '{ $key }' vanhentui
 msg-compose-internal-error = Tapahtui sisäinen virhe.
 msg-compose-cannot-save-draft = Virhe luonnosta tallennettaessa
+save-attachment-header = Tallenna salauksesta purettu liite
+# Strings used in decryption.jsm
+do-import-multiple =
+    Haluatko tuoda seuraavat avaimet?
+    { $key }
+do-import-one = Haluatko tuoda { $name } ({ $id })?
+cant-import = Virhe tuotaessa julkista avainta
+sig-mismatch = Virhe - Allekirjoituksen yhteensopimattomuus
+invalid-email = Virhe - yksi tai useampi virheellinen sähköpostiosoite
+# Strings used in encryption.jsm
+not-required = Virhe - salausta ei vaadita
+# Strings used in windows.jsm
+no-photo-available = Ei kuvaa saatavilla
+error-photo-path-not-readable = Kuvan polku '{ $photo }' ei ole luettavissa
 debug-log-title = OpenPGP-vianjäljitysloki
+# Strings used in dialog.jsm
+repeat-prefix = Tämä hälytys toistetaan { $count }
+repeat-suffix-singular = kerran.
+repeat-suffix-plural = kertaa.
 no-repeat = Tätä hälytystä ei näytetä uudelleen.
 dlg-keep-setting = Muista vastaukseni, älä kysy uudestaan
 dlg-button-ok = &OK
