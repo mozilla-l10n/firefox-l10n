@@ -556,6 +556,18 @@ unverified-reply = A behúzott üzenetrész (válasz) valószínűleg módosítv
 key-in-message-body = Kulcs található az üzenettörzsben. Az importálásához kattintson a „Kulcs importálására”
 sig-mismatch = Hiba – az aláírás nem egyezik meg
 invalid-email = Hiba – érvénytelen e-mail-címek
+attachment-pgp-key =
+    A(z) „{ $name }” melléklet amit megnyit egy OpenPGP-kulcsfájlnak tűnik.
+    Kattintson az „Importálásra” a tartalmazott kulcs importálásához, vagy a „Nézetre”, hogy megtekintse a fájl tartalmát egy böngészőablakban
+dlg-button-view = &Nézet
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Visszafejtett üzenet (visszaállított hibás PGP e-mail-formátum, valószínűleg egy régi Exchange kiszolgáló miatt, így az eredmény lehet, hogy nem tökéletesen olvasható)
+# Strings used in encryption.jsm
+not-required = Hiba – titkosítás nem szükséges
+# Strings used in windows.jsm
+no-photo-available = Nincs elérhető fénykép
+error-photo-path-not-readable = A(z) „{ $photo }” fényképútvonal nem olvasható
+debug-log-title = OpenPGP hibakeresési napló
 dlg-button-ok = &Rendben
 dlg-button-close = &Bezárás
 dlg-button-cancel = &Mégse
