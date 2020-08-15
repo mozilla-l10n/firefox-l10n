@@ -63,9 +63,18 @@ openpgp-keygen-abort = OpenPGP anahtar üretimi şu anda devam ediyor. İptal et
 
 ## Import Key section
 
+openpgp-passphrase-prompt-title = Parola gerekli
 gnupg-file = GnuPG dosyaları
 openpgp-import-identity-label = Kimlik
+openpgp-import-fingerprint-label = Parmak izi
+openpgp-import-bits-label = Bit
+openpgp-import-key-props =
+    .label = Anahtar özellikleri
+    .accesskey = A
 
 ## External Key section
 
 openpgp-external-key-title = Harici GnuPG anahtarı
+openpgp-save-external-button = Anahtar kimliğini kaydet
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
