@@ -293,6 +293,8 @@ window-locked = Kirjoitusikkuna on lukittu; lähetys peruutettu
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Salattu viestiosa
 mime-decrypt-encrypted-part-concealed-data = Tämä on salattu viestiosa. Avaa se erillisessä ikkunassa napsauttamalla liitettä.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Keskeytetty
 keyserver-error-unknown = Tapahtui tuntematon virhe
 keyserver-error-server-error = Avainpalvelin ilmoitti virheestä.
 keyserver-error-import-error = Ladatun avaimen tuonti epäonnistui.
@@ -307,9 +309,28 @@ wkd-message-body-req =
 wkd-message-body-process =
     Tämä sähköpostiviesti liittyy julkisen avaimesi automaattiseen lähettämiseen OpenPGP-verkkoavainhakemistoon.
     Tässä vaiheessa sinulta ei edellytetä mitään toimia.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Ei pystytty purkamaan viestiä aiheella
+    { $subject }.
+    Haluatko yrittää uudelleen toisella tunnuslauseella, vai haluatko ohittaa viestin?
 # Strings in gpg.jsm
 unknown-signing-alg = Tuntematon allekirjoitusalgoritmi (tunniste: { $id })
 unknown-hash-alg = Tuntematon salaustiiviste (tunniste: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Avaimesi { $desc } vanhenemiseen on vähemmän kuin { $days } vuorokautta.
+    Suosittelemme, että luot uuden avainparin ja määrität vastaavat tilit käyttämään sitä.
+expiry-keys-expire-soon =
+    Seuraavien avaimiesi vanhenemiseen on vähemmän kuin { $days } vuorokautta:{ $desc }.
+    Suosittelemme, että luot uudet avaimet ja määrität vastaavat tilit käyttämään niitä.
+expiry-key-missing-owner-trust =
+    Salaiselta avaimeltasi { $desc } puuttuu luottamus.
+    Suosittelemme, että vaihdat avaimen ominaisuuksissa ominaisuuden "Luotan varmenteisiin" arvoon  "ultimaattinen".
+expiry-keys-missing-owner-trust =
+    Seuraavilta salaisilta avaimiltasi puuttuu luottamus.
+    { $desc }.
+    Suosittelemme, että vaihdat avaimen ominaisuuksissa ominaisuuden "Luotan varmenteisiin" arvoon  "ultimaattinen".
 expiry-open-key-manager = Avaa OpenPGP-avainhallinta
 expiry-open-key-properties = Avaimen ominaisuudet
 # Strings filters.jsm
