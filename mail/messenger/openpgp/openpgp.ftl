@@ -306,6 +306,31 @@ keyserver-error-unsupported = Il server da clavs na vegn betg sustegnì.
 wkd-message-body-req =
     Tes purschider dad e-mail ha elavurà tia dumonda da transferir tia clav publica en il OpenPGP Web Key Directory.
     Conferma per plaschair per cumplettar la publicaziun da tia clav publica.
+wkd-message-body-process =
+    Quest è in e-mail en connex cun l'elavuraziun automatica per transferir tia clav publica en il OpenPGP Web Key Directory.
+    I na dovra naginas intervenziuns manualas per il mument.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Impussibel da decriptar il messadi cun l'object
+    { $subject }.
+    Vuls ti empruvar anc ina giada cun in'autra frasa-clav u sursiglir il messadi?
+# Strings in gpg.jsm
+unknown-signing-alg = Algoritmus da signatura nunenconuschent (ID: { $id })
+unknown-hash-alg = Hash criptografic nunenconuschent (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Tia clav { $desc } scada en damain che { $days } dis.
+    Nus ta recumandain da crear in nov pèr da clavs e configurar ils contos correspundents per l'utilisaziun.
+expiry-keys-expire-soon =
+    Tia clavs suandantas scadan en damain che { $days } dis:{ $desc }.
+    Nus ta recumandain da crear novas clavs e configurar ils contos correspundents per las utilisar.
+expiry-key-missing-owner-trust =
+    La fidaivladad n'è betg specifitgada per tia clav secreta { $desc }.
+    Nus ta recumandain da drizzar la «Fidaivladad dals certificats» sin «absoluta» en las caracteristicas da questa clav.
+expiry-keys-missing-owner-trust =
+    La fidaivladad n'è betg specifitgada per tias clavs secretas suandantas:
+    { $desc }.
+    Nus ta recumandain da drizzar la «Fidaivladad dals certificats» sin «absoluta» en las caracteristicas da questas clavs.
 
 ## Account settings export output
 
