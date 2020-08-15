@@ -396,8 +396,15 @@ key-ring-pub-key-expired = Avain { $userId } (avaimen tunniste { $keyId }) on va
 key-ring-key-disabled = Avain { $userId } (avaimen tunniste { $keyId }) on poistettu käytöstä; sitä ei voi käyttää.
 key-ring-key-invalid = Avain { $userId } (avaimen tunniste { $keyId }) ei ole kelvollinen. Harkitse sen kelvollista vahvistamista.
 key-ring-key-not-trusted = Avain { $userId } (avaimen tunniste { $keyId }) ei ole riittävän luotettu. Aseta avaimesi luottamustasoksi "ultimaattinen" käyttääksesi sitä allekirjoitukseen.
+key-ring-no-secret-key = Sinulla ei vaikuta olevan salaista avainta käyttäjälle { $userId } (avaimen tunniste { $keyId }) avainnipussasi; et voi käyttää avainta allekirjoitukseen.
 key-ring-pub-key-not-for-signing = Avainta { $userId } (avaimen tunniste { $keyId }) ei voi käyttää allekirjoittamiseen.
 key-ring-pub-key-not-for-encryption = Avainta { $userId } (avaimen tunniste { $keyId }) ei voi käyttää salaukseen.
+key-ring-sign-sub-keys-revoked = Kaikki avaimen { $userId } (avaimen tunniste { $keyId }) allekirjoitukseen tarkoitetut aliavaimet on kumottu.
+key-ring-sign-sub-keys-expired = Kaikki avaimen { $userId } (avaimen tunniste { $keyId }) allekirjoitukseen tarkoitetut aliavaimet ovat vanhentuneet.
+key-ring-sign-sub-keys-unusable = Kaikki avaimen { $userId } (avaimen tunniste { $keyId }) allekirjoitukseen tarkoitetut aliavaimet on kumottu, vanhentuneet tai muuten käyttökelvottomia.
+key-ring-enc-sub-keys-revoked = Kaikki avaimen { $userId } (avaimen tunniste { $keyId }) salaukseen tarkoitetut aliavaimet on kumottu.
+key-ring-enc-sub-keys-expired = Kaikki avaimen { $userId } (avaimen tunniste { $keyId }) salaukseen tarkoitetut aliavaimet ovat vanhentuneet.
+key-ring-enc-sub-keys-unusable = Kaikki avaimen { $userId } (avaimen tunniste { $keyId }) salaukseen tarkoitetut aliavaimet on kumottu, vanhentuneet tai muuten käyttökelvottomia.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Kuva
 user-att-photo = Käyttäjän ominaisuus (JPEG-kuva)
