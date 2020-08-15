@@ -325,6 +325,13 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     A következő kulcsok kevesebb, mint { $days } napon belül lejárnak: { $desc }.
     Javasoljuk, hogy hozzon létre új kulcsokat, és konfigurálja a megfelelő fiókokat azok használatához.
+expiry-key-missing-owner-trust =
+    A(z) { $desc } titkos kulcs nem eléggé megbízható.
+    Javasoljuk, hogy a kulcstulajdonságokban állítsa be a „Tanúsítványokra támaszkodik” értékét „teljesen megbízhatóra”.
+expiry-keys-missing-owner-trust =
+    A következő titkos kulcsok nem eléggé megbízhatók.
+    { $desc }.
+    Javasoljuk, hogy a kulcstulajdonságokban állítsa be a „Tanúsítványokra támaszkodik” értékét „teljesen megbízhatóra”.
 expiry-open-key-manager = OpenPGP-kulcskezelő megnyitása
 expiry-open-key-properties = Kulcstulajdonságok megnyitása
 # Strings filters.jsm
@@ -449,7 +456,7 @@ key-valid-expired = lejárt
 key-trust-untrusted = nem megbízható
 key-trust-marginal = marginális
 key-trust-full = megbízható
-key-trust-ultimate = végső
+key-trust-ultimate = teljesen megbízható
 key-trust-group = (csoport)
 # Strings used in commonWorkflows.js
 import-key-file = OpenPGP-kulcsfájl importálása
