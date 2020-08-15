@@ -329,6 +329,9 @@ expiry-open-key-manager = OpenPGP-kulcskezelő megnyitása
 expiry-open-key-properties = Kulcstulajdonságok megnyitása
 # Strings filters.jsm
 filter-folder-required = Ki kell választania a célmappát.
+filter-decrypt-move-warn-experimental =
+    Figyelmeztetés – a „Végleges visszafejtés” szűrési művelet tönkrement üzeneteket eredményezhet.
+    Erősen javasolt, hogy először használja a „Visszafejtett másolat létrehozása” szűrőt, ellenőrizze az eredményt, és csak akkor kezdje el a szűrőt használni, ha elégedett az eredménnyel.
 filter-term-pgpencrypted-label = OpenPGP-vel titkosított
 filter-key-required = Ki kell választania a címzett kulcsát.
 filter-key-not-found = Nem található titkosítási kulcs a következőhöz: „{ $desc }”.
@@ -404,8 +407,17 @@ key-ring-enc-sub-keys-unusable = A(z) { $userId } kulcs (kulcsazonosító: { $ke
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fénykép
 user-att-photo = Felhasználói attribútum (JPEG-kép)
+# Strings in key.jsm
+already-revoked = Ezt a kulcsot már visszavonták.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = A 0x{ $keyId } kulcsot már visszavonták.
 key-man-button-revoke-key = Kulcs &visszavonása
 openpgp-key-revoke-success = A kulcs visszavonása sikeres.
+after-revoke-info =
+    A kulcsot visszavonták.
+    Ossza meg újra ezt a nyilvános kulcsot, e-mailben elküldve, vagy kulcskiszolgálókra feltöltve, hogy mások tudják, hogy visszavonta a kulcsot.
+    Amint a mások által használt szoftver megtudja a visszavonást, az már nem használja a régi kulcsot.
+    Ha ugyanahhoz az e-mail-címhez új kulcsot használ, és az új nyilvános kulcsot csatolja az elküldött e-mailekhez, akkor a visszavont régi kulcsra vonatkozó információk automatikusan belekerülnek.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importálás
 delete-key-title = OpenPGP-kulcs törlése
