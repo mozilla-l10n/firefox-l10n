@@ -190,6 +190,14 @@ openpgp-key-details-sel-action =
     .accesskey = V
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Sulje
+openpgp-acceptance-label =
+    .label = Hyväksyntäsi
+openpgp-acceptance-rejected-label =
+    .label = Ei, hylkää tämä avain.
+openpgp-acceptance-undecided-label =
+    .label = Ei vielä, ehkä myöhemmin.
+openpgp-acceptance-unverified-label =
+    .label = Kyllä, mutta en ole varmistanut, että tämä on oikea avain.
 openpgp-personal-yes-label =
     .label = Kyllä, käytä tätä avainta henkilökohtaisena avaimenani.
 openpgp-copy-cmd-label =
@@ -210,6 +218,7 @@ openpgp-add-key-button =
 e2e-learn-more = Lue lisää
 openpgp-keygen-success = OpenPGP-avain luotu onnistuneesti!
 openpgp-keygen-import-success = OpenPGP-avainten tuonti onnistui!
+openpgp-keygen-external-success = Ulkoisen GnuPG-avaimen tunniste tallennettu!
 
 ## OpenPGP Key selection area
 
@@ -219,8 +228,14 @@ openpgp-key-expires-image =
     .tooltiptext = Avain vanhenee alle 6 kuukaudessa
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Vanhentunut: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Avain on vanhentunut
 openpgp-key-revoke-title = Kumoa avain
 openpgp-key-edit-title = Vaihda OpenPGP-avain
+openpgp-key-edit-date-title = Myöhäistä vanhenemispäivää
+openpgp-manager-button =
+    .label = OpenPGP-avainhallinta
+    .accesskey = O
 key-external-label = Ulkoinen GnuPG-avain
 # Strings in keyDetailsDlg.xhtml
 key-type-public = julkinen avain
@@ -232,19 +247,41 @@ key-usage-sign = Allekirjoita
 key-does-not-expire = Avain ei vanhene
 key-expired-date = Avain vanhentui { $keyExpiry }
 key-expired-simple = Avain on vanhentunut
+key-revoked-simple = Avain kumottiin
+window-locked = Kirjoitusikkuna on lukittu; lähetys peruutettu
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Salattu viestiosa
 keyserver-error-unknown = Tapahtui tuntematon virhe
 keyserver-error-server-error = Avainpalvelin ilmoitti virheestä.
+keyserver-error-import-error = Ladatun avaimen tuonti epäonnistui.
+keyserver-error-unavailable = Avainpalvelin ei ole käytettävissä.
+keyserver-error-security-error = Avainpalvelin ei tue salattua käyttöä.
+keyserver-error-certificate-error = Avainpalvelimen varmenne ei ole kelvollinen.
+keyserver-error-unsupported = Avainpalvelin ei ole tuettu.
 expiry-open-key-manager = Avaa OpenPGP-avainhallinta
 # Strings filters.jsm
 filter-folder-required = Kohdekansio on valittava.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Pura salaus pysyvästi (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Onnistui! Avaimet tuotu
 import-info-created = Luotu
 import-info-fpr = Sormenjälki
+import-info-details = Näytä yksityiskohdat ja hallitse avaimen hyväksyntää
 import-info-no-keys = Avaimia ei ole tuotu.
+# Strings in enigmailKeyManager.js
+import-from-clip = Haluatko tuoda yhden tai useamman avaimen leikepöydältä?
 import-from-url = Lataa julkinen avain tästä osoitteesta:
+copy-to-clipbrd-failed = Yhtä tai useampaa valittua avainta ei voitu kopioida leikepöydälle.
 copy-to-clipbrd-ok = Yksi tai useampi avain kopioitu leikepöydälle
+delete-pub-key =
+    Haluatko poistaa julkisen avaimen
+    '{ $userId }'?
+delete-selected-pub-key = Haluatko poistaa julkiset avaimet?
+refresh-all-question = Et valinnut yhtäkään avainta. Haluatko päivittää KAIKKI avaimet?
+key-man-button-export-sec-key = Vie &salaiset avaimet
+key-man-button-export-pub-key = Vie vain &julkiset avaimet
 key-man-button-refresh-all = &Päivitä kaikki avaimet
 key-man-loading-keys = Ladataan avaimia, odota hetki…
 export-to-file = Vie julkinen avain tiedostoon
@@ -257,6 +294,16 @@ dlg-button-delete = &Poista
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Julkinen avain viety onnistuneesti!</b>
+openpgp-export-public-fail = <b>Valitun julkisen avaimen vienti ei onnistunut!</b>
+openpgp-export-secret-success = <b>Salainen avain viety onnistuneesti!</b>
+openpgp-export-secret-fail = <b>Valitun salaisen avaimen vienti ei onnistunut!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Avain { $userId } (avaimen tunniste { $keyId }) on kumottu.
+key-ring-pub-key-expired = Avain { $userId } (avaimen tunniste { $keyId }) on vanhentunut.
+key-ring-key-disabled = Avain { $userId } (avaimen tunniste { $keyId }) on poistettu käytöstä; sitä ei voi käyttää.
+key-ring-pub-key-not-for-signing = Avainta { $userId } (avaimen tunniste { $keyId }) ei voi käyttää allekirjoittamiseen.
+key-ring-pub-key-not-for-encryption = Avainta { $userId } (avaimen tunniste { $keyId }) ei voi käyttää salaukseen.
 # Strings in key.jsm
 already-revoked = Tämä avain on jo kumottu.
 key-man-button-revoke-key = &Kumoa avain
