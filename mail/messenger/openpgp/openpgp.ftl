@@ -528,6 +528,13 @@ msg-compose-partially-encrypted-short = Figyeljen a bizalmas információk kiszi
 quoted-printable-warn =
     Engedélyezte az „idézett-nyomtatható” kódolást az üzenetek küldéséhez. Ez hibás visszafejtést vagy üzenet ellenőrzést eredményezhet.
     Kikapcsolja az „idézett-nyomtatható” üzeneteket?
+minimal-line-wrapping =
+    { $width } karakteresre állította a sortördelést. A helyes titkosításhoz és aláíráshoz ennek az értéknek legalább 68-nak kell lennie.
+    68 karakteresre állítja a sortördelést?
+sending-hidden-rcpt = A BCC (titkos másolat) címzettek nem használhatók titkosított üzenetek küldésekor. Titkosított üzenet küldéséhez távolítsa el a BCC címzetteket, vagy helyezze át azokat a CC mezőbe.
+sending-news =
+    A titkosított küldési művelet megszakítva.
+    Ezt az üzenetet nem lehet titkosítani, mert vannak hírcsoport-címzettek. Küldje el újra az üzenetet titkosítás nélkül.
 save-attachment-header = Visszafejtett melléklet mentése
 no-temp-dir =
     Nem található ideiglenes könyvtár, amelybe írni lehetne
