@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Titkosított vagy digitálisan aláírt üzenetek küldéséhez be kell állítania egy titkosítási technológiát, az OpenPGP-t vagy az S/MIME-ot.
+e2e-intro-description-more = Válassza ki a személyes kulcsát az OpenPGP használatának engedélyezéséhez, vagy a személyes tanúsítványát az S/MIME használatához. Személyes kulcs vagy tanúsítvány esetén Ön a titkos kulcs tulajdonosa.
 openpgp-key-user-id-label = Fiók / felhasználói azonosító
 openpgp-keygen-title-label =
     .title = OpenPGP-kulcs előállítása
@@ -288,6 +289,7 @@ key-do-you-accept = Elfogadja ezt a kulcsot a digitális aláírások ellenőrz�
 key-accept-warning = Kerülje le a hamis kulcsok elfogadását. Használjon egy az e-mailtől eltérő kommunikációs csatornát a levelezőpartner kulcsának ujjlenyomatának ellenőrzéséhez.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Az üzenet nem küldhető el, mert probléma van a személyes kulcsával. { $problem }
+cannot-encrypt-because-missing = Az üzenetet nem lehet végpontok közötti titkosítással elküldeni, mert problémák vannak a következő címzettek kulcsaival: { $problem }
 window-locked = Az írási ablak zárolva van; küldés megszakítva
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Titkosított üzenetrész
@@ -301,6 +303,10 @@ keyserver-error-unavailable = A kulcskiszolgáló nem érhető el.
 keyserver-error-security-error = A kulcskiszolgáló nem támogatja a titkosított hozzáférést.
 keyserver-error-certificate-error = A kulcskiszolgáló tanúsítványa nem érvényes.
 keyserver-error-unsupported = A kulcskiszolgáló nem támogatott.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Az e-mail szolgáltatója feldolgozta a nyilvános kulcs feltöltésére vonatkozó kérését az OpenPGP webes kulcstárba.
+    Erősítse meg, hogy befejezze a nyilvános kulcs közzétételét.
 # Strings in gpg.jsm
 unknown-signing-alg = Ismeretlen aláírási algoritmus (azonosító: { $id })
 expiry-open-key-manager = OpenPGP-kulcskezelő megnyitása
