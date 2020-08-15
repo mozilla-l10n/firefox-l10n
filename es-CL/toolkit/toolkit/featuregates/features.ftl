@@ -41,18 +41,26 @@ experimental-features-web-api-inputmode-description = Nuestra implementación de
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
+# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
+# values that do not get translated.
+experimental-features-web-api-link-preload-description = El atributo <a data-l10n-name="rel">rel</a> con valor <code>"preload"</code> en un elemento <a data-l10n-name="link">&lt;link&gt;</a> está destinado a ayudar a proveer mejoras de rendimiento al permitir descargar recursos de la página previamente, asegurando que estén disponibles antes y de esa forma reduciendo la posibilidad de que bloqueen el dibujo de la página. Lee <a data-l10n-name="readmore">“Precargando contenido con <code>rel="preload"</code>”</a> o consulta el <a data-l10n-name="bugzilla">bug 1583604</a> para obtener más detalles.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
     .label = CSS: Pseudo-class: :focus-visible
+experimental-features-css-focus-visible-description = Permite que los estilos de enfoque se apliquen a elementos como botones y controles de formularios, solo cuando se enfocan usando el teclado (por ejemplo, al cambiar de pestaña entre elementos), y no cuando se enfocan usando un ratón u otro dispositivo. Consulta el <a data-l10n-name="bugzilla">bug 1617600</a> para obtener más detalles.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = El evento global <a data-l10n-name="mdn-beforeinput">beforeinput</a> se activa en elementos <a data-l10n-name="mdn-input">&lt;input&gt;</a> y <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, o cualquier otro elemento cuyo atributo <a data-l10n-name="mdn-contenteditable">contenteditable</a> esté habilitado, inmediatamente antes de que cambie el valor del elemento. El evento permite que las aplicaciones web anulen el comportamiento predeterminado del navegador para la interacción del usuario permitiendo, por ejemplo, que las aplicaciones web puedan cancelar la entrada del usuario solo para caracteres específicos o puedan modificar el pegar texto con estilo permitiendo solo estilos aprobados.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = La adición de un constructor a la interfaz <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> así como una variedad de cambios relacionados hace posible crear directamente nuevas hojas de estilo sin tener que agregar la hoja al HTML. Esto hace más fácil crear hojas de estilo reutilizables para usar con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consulta el <a data-l10n-name="bugzilla">bug 1520690</a> para obtener más detalles.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-session-api =
@@ -60,6 +68,7 @@ experimental-features-media-session-api =
 experimental-features-media-session-api-description = La implementación completa de { -brand-short-name } de Media Session API es actualmente experimental. Esta API se usa para personalizar el manejo de notificaciones relacionadas con los medios, para manejar eventos y datos útiles para presentar una interfaz de usuario para manejar reproducción de medios y para obtener metadatos de los archivos. Consulta el <a data-l10n-name="bugzilla">bug 1112032</a> para obtener más detalles.
 experimental-features-devtools-color-scheme-simulation =
     .label = Herramientas para desarrolladores: simulación de esquemas de color
+experimental-features-devtools-color-scheme-simulation-description = Añade una opción para simular diferentes esquemas de color que te permiten probar las consultas de medios <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. El uso de esta función permite que tu hoja de estilo responda si el usuario prefiere una interfaz de usuario clara u oscura. Esto te permite probar el código sin tener que cambiar la configuración del navegador (o sistema operativo, si el navegador sigue una configuración de esquema de color establecida para todo el sistema). Consulta el <a data-l10n-name="bugzilla">bug 1550804</a> y el <a data-l10n-name="bugzilla2">bug 1137699</a> para obtener más detalles.
 experimental-features-devtools-execution-context-selector =
     .label = Herramientas de desarrollo: Selector de contexto de ejecución
 experimental-features-devtools-execution-context-selector-description = Esta función muestra un botón en la línea de comandos de la consola que te permite cambiar el contexto en el que se ejecutará la expresión que ingreses. Consulta el <a data-l10n-name="bugzilla">bug 1605154</a> y el <a data-l10n-name="bugzilla2">bug 1605153</a> para obtener más detalles.
