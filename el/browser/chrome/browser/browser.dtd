@@ -239,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Διακοπή">
 <!ENTITY stopCmd.accesskey            "Δ">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 <!ENTITY goEndCap.tooltip             "Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων">
 
 <!ENTITY printButton.label            "Εκτύπωση">
@@ -257,7 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Διαχείριση χρήσης αρθρωμάτων">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Αλλαγή του αν θα λαμβάνετε ειδοποιήσεις από τον ιστοτόπο">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Αποθήκευση δεδομένων στην επίμονη αποθήκευση">
-
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Άνοιγμα πίνακα διαδικτυακής ταυτοποίησης">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Άνοιγμα πίνακα δικαιωμάτων δραστηριότητας περιήγησης">
@@ -286,9 +284,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Έχετε αποκλείσει την εγκατάσταση προσθέτων για αυτή την ιστοσελίδα.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Έχετε χορηγήσει πρόσθετα δικαιώματα σε αυτή την ιστοσελίδα.">
-
 
 <!ENTITY searchItem.title             "Αναζήτηση">
 
@@ -398,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ρ">
 <!ENTITY viewSidebarMenu.label "Πλευρική στήλη">
 <!ENTITY viewSidebarMenu.accesskey "ε">
-
 <!ENTITY viewCustomizeToolbar.label       "Προσαρμογή…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Π">
 
@@ -493,7 +487,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Περισσότερα">
 
 <!ENTITY openCmd.commandkey           "l">
-
 <!ENTITY urlbar.placeholder2          "Αναζήτηση όρου ή εισαγωγή διεύθυνσης">
 <!ENTITY urlbar.accesskey             "δ">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -827,7 +820,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
-<!ENTITY editBookmark.done.label                     "Προσθήκη">
+<!ENTITY editBookmark.done.label                     "Τέλος">
 <!ENTITY editBookmark.showForNewBookmarks.label       "Εμφάνιση επεξεργαστή κατά την αποθήκευση">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "Ε">
 
