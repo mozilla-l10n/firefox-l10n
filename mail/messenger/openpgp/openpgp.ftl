@@ -215,6 +215,12 @@ openpgp-keygen-import-success = OpenPGP-avainten tuonti onnistui!
 
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Vanhenee: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Avain vanhenee alle 6 kuukaudessa
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Vanhentunut: { $date }
+openpgp-key-revoke-title = Kumoa avain
+openpgp-key-edit-title = Vaihda OpenPGP-avain
 key-external-label = Ulkoinen GnuPG-avain
 # Strings in keyDetailsDlg.xhtml
 key-type-public = julkinen avain
@@ -229,6 +235,8 @@ key-expired-simple = Avain on vanhentunut
 keyserver-error-unknown = Tapahtui tuntematon virhe
 keyserver-error-server-error = Avainpalvelin ilmoitti virheestä.
 expiry-open-key-manager = Avaa OpenPGP-avainhallinta
+# Strings filters.jsm
+filter-folder-required = Kohdekansio on valittava.
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Onnistui! Avaimet tuotu

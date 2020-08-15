@@ -91,6 +91,7 @@ openpgp-import-key-list-amount =
        *[other] Thunderbird löysi { $count } avainta, jotka voidaan tuoda.
     }
 openpgp-import-key-list-description = Vahvista mitä avaimia voidaan käsitellä henkilökohtaisina avaiminasi. Vain avaimia, jotka olet luonut itse ja edustavat identiteettiäsi, tulisi käyttää henkilökohtaisina avaimia. Voit muuttaa tätä valintaa myöhemmin Avaimen ominaisuudet -ikkunassa.
+openpgp-import-key-list-caption = Avaimet, jotka on merkitty käsiteltäväksi henkilökohtaisina avaimia, listataan Päästä päähän -salauksen osiossa. Muut avaimet ovat saatavilla avainhallinnan kautta.
 openpgp-passphrase-prompt-title = Salalause vaaditaan
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Kirjoita salalause avataksesi seuraavan avaimen: { $key }
