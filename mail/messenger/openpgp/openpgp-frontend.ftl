@@ -31,6 +31,10 @@ openpgp-broken-exchange-info = Ez egy OpenPGP üzenet, amely úgy tűnik, hogy m
 openpgp-broken-exchange-repair =
     .label = Üzenet javítása
 openpgp-broken-exchange-wait = Kis türelmet…
+openpgp-cannot-decrypt-because-mdc =
+    Ez egy titkosított üzenet, amely régi és sérülékeny mechanizmusokat használ.
+    Az is lehet, hogy továbbítás során módosítva lett, a tartalma ellopása céljából.
+    E kockázat elkerülése érdekében a tartalom nem jelenik meg.
 openpgp-reminder-partial-display = Emlékeztető: Az alább látható üzenet csak az eredeti üzenet egy részét tartalmazza.
 openpgp-partial-verify-button = Ellenőrzés
 openpgp-partial-decrypt-button = Visszafejtés
