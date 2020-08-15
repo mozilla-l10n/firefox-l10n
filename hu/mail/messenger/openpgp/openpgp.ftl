@@ -450,6 +450,12 @@ delete-key-in-use-description = Nem lehet folytatni. A törlésre kiválasztott 
 revoke-key-in-use-description = Nem lehet folytatni. A visszavonásra kiválasztott kulcsot jelenleg ez a személyazonosság használja. Válasszon egy másik kulcsot, vagy szüntesse meg a kiválasztást, és próbálja újra.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = A(z) „{ $keySpec }” e-mail-cím nem felel meg a kulcstartó egyetlen kulcsának sem.
+key-error-key-id-not-found = A beállított „{ $keySpec }” kulcsazonosító nem található a kulcstartóban.
+key-error-not-accepted-as-personal = Nem erősítette meg, hogy a(z) „{ $keySpec }” azonosítójú kulcs a személyes kulcsa.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = A kiválasztott funkció offline módban nem érhető el. Kapcsolódjon és próbálja újra.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Nem található olyan kulcs, amely megfelelne a keresési feltételeknek.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Hiba – a kulcskinyerési parancs sikertelen
 # Strings used in keyRing.jsm
@@ -519,6 +525,9 @@ msg-compose-partially-encrypted-inlinePGP =
     Fontolja meg az összes idézett szöveg eltávolítását a feladónak küldött válaszból.
 msg-compose-cannot-save-draft = Hiba a piszkozat mentésekor
 msg-compose-partially-encrypted-short = Figyeljen a bizalmas információk kiszivárogtatására – részlegesen titkosított e-mail.
+quoted-printable-warn =
+    Engedélyezte az „idézett-nyomtatható” kódolást az üzenetek küldéséhez. Ez hibás visszafejtést vagy üzenet ellenőrzést eredményezhet.
+    Kikapcsolja az „idézett-nyomtatható” üzeneteket?
 save-attachment-header = Visszafejtett melléklet mentése
 no-temp-dir =
     Nem található ideiglenes könyvtár, amelybe írni lehetne
