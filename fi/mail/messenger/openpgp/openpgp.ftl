@@ -417,6 +417,11 @@ keyring-photo = Kuva
 user-att-photo = Käyttäjän ominaisuus (JPEG-kuva)
 # Strings in key.jsm
 already-revoked = Tämä avain on jo kumottu.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Olet aikeissa kumota avaimen '{ $identity }'.
+    Et voi enää allekirjoittaa tällä avaimella, ja kun jaettu muille, muut eivät enää pysty salata kyseisellä avaimella. Voit silti käyttää avainta vanhojen viestien salauksen purkamiseen.
+    Haluatko jatkaa?
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     Sinulla ei ole avainta (0x{ $keyId }) mikä täsmäisi tätä kumoamisvarmennetta!
@@ -505,8 +510,14 @@ key-not-found = Avainta '{ $key }' ei löytynyt
 key-revoked = Avain '{ $key }' kumottu
 key-expired = Avain '{ $key }' vanhentui
 msg-compose-internal-error = Tapahtui sisäinen virhe.
+msg-compose-partially-encrypted-inlinePGP =
+    Viesti johon vastaat sisälsi sekä salaamattomia että salattuja osia. Jos lähettäjä ei kyennyt purkamaan joitain viestin osia alunperin, saatat vuotaa arkaluonteista tietoa, jota lähettäjä ei aiemmin itse pystynyt purkamaan salauksesta.
+    On suositeltavaa poistaa kaikki lainattu teksti vastauksestasi tälle lähettäjälle.
 msg-compose-cannot-save-draft = Virhe luonnosta tallennettaessa
 msg-compose-partially-encrypted-short = Varo vuotamasta arkaluonteisia tietoja - osittain salattu sähköposti.
+quoted-printable-warn =
+    Olet ottanut käyttöön 'quoted-printable'-enkoodauksen lähettäville viesteille. Tämä saattaa johtaa virheelliseen salauksen purkuun tai viestisi vahvistukseen.
+    Haluatko poistaa käytöstä 'quoted-printable'-viestien lähettämisen nyt?
 minimal-line-wrapping =
     Olet asettanut rivityksen { $width } merkkiin. Oikeaoppisen salauksen ja/tai allekirjoituksen vuoksi tämän arvon tulee olla vähintään 68.
     Haluatko muuttaa rivityksen arvon 68 merkkiin?
