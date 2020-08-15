@@ -18,6 +18,7 @@ openpgp-ctx-verify-att =
     .label = Aláírás ellenőrzése
     .accesskey = e
 openpgp-has-sender-key = Ez az üzenet állítja, hogy tartalmazza a feladó OpenPGP nyilvános kulcsát.
+openpgp-be-careful-new-key = Figyelmeztetés: Az üzenetben szereplő új OpenPGP nyilvános kulcs eltér a(z) { $email } címhez előzőleg elfogadott nyilvános kulcsoktól.
 openpgp-import-sender-key =
     .label = Importálás…
 openpgp-search-keys-openpgp =
@@ -25,6 +26,8 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Ezt az üzenetet olyan kulccsal írták alá, amellyel még nem rendelkezik.
 openpgp-search-signature-key =
     .label = Felfedezés…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = Ez egy OpenPGP üzenet, amely úgy tűnik, hogy megsérült az MS-Exchange miatt. Ha az üzenet tartalma nem a várt módon jelenik meg, akkor kipróbálhatja az automatikus javítást.
 openpgp-broken-exchange-repair =
     .label = Üzenet javítása
 openpgp-broken-exchange-wait = Kis türelmet…
