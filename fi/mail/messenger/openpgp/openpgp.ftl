@@ -8,8 +8,8 @@ openpgp-key-user-id-label = Tili / käyttäjätunnus
 openpgp-keygen-title-label =
     .title = Luo OpenPGP-avain
 openpgp-cancel-key =
-    .label = Keskeytä
-    .tooltiptext = Keskeytä avaimen luonti
+    .label = Peruuta
+    .tooltiptext = Peruuta avaimen luonti
 openpgp-key-gen-expiry-title =
     .label = Avaimen voimassaoloaika
 openpgp-key-gen-expire-label = Avain vanhenee
@@ -154,6 +154,10 @@ openpgp-key-man-please-wait-tooltip =
     .label = Odota, avaimia ladataan ...
 openpgp-key-man-filter-label =
     .placeholder = Etsi avaimia
+openpgp-key-man-select-all-key =
+    .key = K
+openpgp-key-man-key-details-key =
+    .key = T
 openpgp-key-details-title =
     .title = Avaimen ominaisuudet
 openpgp-key-details-signatures-tab =
@@ -184,6 +188,12 @@ openpgp-key-details-fingerprint-label = Sormenjälki
 openpgp-key-details-sel-action =
     .label = Valitse toiminto…
     .accesskey = V
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Sulje
+openpgp-personal-yes-label =
+    .label = Kyllä, käytä tätä avainta henkilökohtaisena avaimenani.
+openpgp-copy-cmd-label =
+    .label = Kopioi
 
 ## e2e encryption settings
 
@@ -205,11 +215,29 @@ openpgp-keygen-import-success = OpenPGP-avainten tuonti onnistui!
 
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Vanhenee: { $date }
+key-external-label = Ulkoinen GnuPG-avain
+# Strings in keyDetailsDlg.xhtml
+key-type-public = julkinen avain
+key-type-primary = ensisijainen avain
+key-type-subkey = aliavain
 key-expiry-never = ei koskaan
+key-usage-encrypt = Salaa
+key-usage-sign = Allekirjoita
+key-does-not-expire = Avain ei vanhene
+key-expired-date = Avain vanhentui { $keyExpiry }
 key-expired-simple = Avain on vanhentunut
 keyserver-error-unknown = Tapahtui tuntematon virhe
 keyserver-error-server-error = Avainpalvelin ilmoitti virheestä.
+expiry-open-key-manager = Avaa OpenPGP-avainhallinta
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Onnistui! Avaimet tuotu
+import-info-created = Luotu
 import-info-fpr = Sormenjälki
+import-info-no-keys = Avaimia ei ole tuotu.
+import-from-url = Lataa julkinen avain tästä osoitteesta:
+copy-to-clipbrd-ok = Yksi tai useampi avain kopioitu leikepöydälle
+key-man-button-refresh-all = &Päivitä kaikki avaimet
 preview-failed = Julkisen avaintiedoston lukeminen ei onnistu.
 general-error = Virhe: { $reason }
 dlg-button-delete = &Poista

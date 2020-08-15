@@ -26,9 +26,23 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Tämä viesti allekirjoitettiin avaimella, jota sinulla ei vielä ole.
 openpgp-search-signature-key =
     .label = Löydä…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-info = Tämä on OpenPGP-viesti, jonka ilmeisesti Microsoft Exchange rikkoi. Jos viestin sisältö ei näytä odotetun kaltaiselta, voit yrittää korjata viestin automaattisesti.
 openpgp-broken-exchange-repair =
     .label = Korjaa viesti
 openpgp-broken-exchange-wait = Odota hetki…
+openpgp-cannot-decrypt-because-mdc =
+    Tämä on salattu viesti, joka käyttää vanhaa ja haavoittuvaa mekanismia.
+    Sitä on saatettu muuttaa välityksen aikana, aikeena varastaa viestin sisältö.
+    Riskin estämiseksi sisältöä ei näytetä.
 openpgp-cannot-decrypt-because-missing-key = Salainen avain, jota tarvitaan tämän viestin salauksen purkamiseen, ei ole käytettävissä.
+openpgp-partially-signed =
+    Vain osa tästä viestistä digitaalisesti allekirjoitettiin OpenPGP:llä.
+    Jos napsautat vahvistuspainiketta, ei-suojatut osat piilotetaan, ja digitaalisen allekirjoituksen tila näytetään.
+openpgp-partially-encrypted =
+    Vain osa tästä viestistä salattiin OpenPGP:llä.
+    Luettavissa oleva osa viestistä, joka tässä jo näytetään, ei ollut salattu.
+    Jos napsautat salauksen purkupainiketta, salattu sisältö näytetään tässä.
+openpgp-reminder-partial-display = Muistutus: Alla näytettävä viesti on vain osajoukko alkuperäisestä viestistä.
 openpgp-partial-verify-button = Vahvista
 openpgp-partial-decrypt-button = Pura salaus
