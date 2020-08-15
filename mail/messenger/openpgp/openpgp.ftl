@@ -342,6 +342,9 @@ filter-decrypt-move-warn-experimental =
 filter-term-pgpencrypted-label = OpenPGP-vel titkosított
 filter-key-required = Ki kell választania a címzett kulcsát.
 filter-key-not-found = Nem található titkosítási kulcs a következőhöz: „{ $desc }”.
+filter-warn-key-not-secret =
+    Figyelmeztetés – a „Titkosítás kulcshoz” szűrési művelet lecseréli a címzetteket.
+    Ha nincs meg a titkos kulcs ehhez: „{ $desc }”, akkor többé nem fogja tudni elolvasni az e-maileket.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Végleges visszafejtés (OpenPGP)
 filter-decrypt-copy-label = Visszafejtett másolat létrehozása (OpenPGP)
@@ -388,6 +391,7 @@ save-keys-ok = A kulcsok sikeresen elmentve
 save-keys-failed = A kulcsok mentése sikertelen
 default-pub-key-filename = Exportált nyilvános kulcsok
 default-pub-sec-key-filename = Titkos kulcsok biztonsági mentése
+refresh-key-warn = Figyelmeztetés: a kulcsok számától és a kapcsolat sebességétől függően, az összes kulcs frissítése meglehetősen hosszú folyamat lehet.
 preview-failed = Nem olvasható a nyilvános kulcs fájlja.
 general-error = Hiba: { $reason }
 dlg-button-delete = Tör&lés
@@ -403,6 +407,7 @@ key-ring-pub-key-revoked = A(z) { $userId } kulcsot (kulcsazonosító: { $keyId 
 key-ring-pub-key-expired = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) lejárt.
 key-ring-key-disabled = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) le van tiltva; nem használható.
 key-ring-key-invalid = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) érvénytelen. Fontolja meg a helyessége ellenőrzését.
+key-ring-key-not-trusted = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem eléggé megbízható. Állítsa be a kulcs bizalmi értékét „teljesen megbízhatóra”, hogy aláírásra használhassa.
 key-ring-pub-key-not-for-signing = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem használható aláíráshoz.
 key-ring-pub-key-not-for-encryption = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem használható titkosításhoz.
 key-ring-sign-sub-keys-revoked = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes aláírási alkulcsát visszavonták.
