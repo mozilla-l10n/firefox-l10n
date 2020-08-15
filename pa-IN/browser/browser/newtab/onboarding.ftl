@@ -57,6 +57,9 @@ onboarding-multistage-import-header = ਆਪਣੇ ਪਾਸਵਰਡ, <br/>ਬ�
 onboarding-multistage-import-subtitle = ਹੋਰ ਬਰਾਊਜ਼ਰ ਨੂੰ ਛੱਡ ਕੇ ਆ ਰਹੇ ਹੋ? { -brand-short-name } ਲਈ ਹਰ ਚੀਜ਼ ਲਿਆਉਣ ਸੌਖੀ ਹੈ।
 onboarding-multistage-import-primary-button-label = ਦਰਾਮਦ ਸ਼ੁਰੂ ਕਰੋ
 onboarding-multistage-import-secondary-button-label = ਹਾਲੇ ਨਹੀਂ
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = ਇੱਥੇ ਸੂਚੀਬੱਧ ਸਾਈਟਾਂ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਮਿਲੀਆਂ ਸਨ। { -brand-short-name } ਕਿਸੇ ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਡਾਟਾ ਉਦੋੱ ਤੱਕ ਸੰਭਾਲਦਾ ਜਾਂ ਸਿੰਕ ਨਹੀਂ ਕਰਦਾ, ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਇਸ ਨੂੰ ਦਰਾਮਦ ਕਰਨ ਦੀ ਚੋਣ ਨਹੀਂ ਕਰਦੇ।
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -83,6 +86,30 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic =
+    .title =
+        ਬਟਨ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਆਪਣੇ ਓਪਰੇਟਿੰਗ
+        ਸਿਸਟਮ ਦੀ ਦਿੱਖ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ।
+    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light =
+    .title =
+        ਬਟਨਾਂ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਫਿੱਕੀ ਦਿੱਖ
+        ਵਰਤੋ।
+    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark =
+    .title =
+        ਬਟਨਾਂ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਗੂੜ੍ਹੀ
+        ਦਿੱਖ ਵਰਤੋ।
+    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow =
+    .title =
+        ਬਟਨਾਂ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਰੰਗਦਾਰ
+        ਦਿੱਖ ਵਰਤੋ।
+    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 
 ## Welcome full page string
 
