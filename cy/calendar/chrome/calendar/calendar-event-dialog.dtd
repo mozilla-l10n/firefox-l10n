@@ -255,7 +255,7 @@
 <!ENTITY event.reminder.1day.before.label                 "1 diwrnod cyn" >
 <!ENTITY event.reminder.2days.before.label                "2 diwrnod cyn" >
 <!ENTITY event.reminder.1week.before.label                "1 wythnos cyn" >
-<!ENTITY event.reminder.custom.label                      "Cyfaddas…" >
+<!ENTITY event.reminder.custom.label                      "Cyfaddasu…" >
 
 <!ENTITY event.reminder.multiple.label                    "Atgoffwyr Niferus…" >
 
@@ -272,7 +272,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "Pythefnosol">
 <!ENTITY event.repeat.monthly.label                     "Misol">
 <!ENTITY event.repeat.yearly.label                      "Blynyddol">
-<!ENTITY event.repeat.custom.label                      "Cyfaddas…">
+<!ENTITY event.repeat.custom.label                      "Cyfaddasu…">
 
 <!ENTITY event.recurrence.pattern.label                 "Patrwm ailddigwydd">
 <!ENTITY event.recurrence.occurs.label                  "Ailadrodd" >
