@@ -284,6 +284,8 @@ key-does-not-expire = Avain ei vanhene
 key-expired-date = Avain vanhentui { $keyExpiry }
 key-expired-simple = Avain on vanhentunut
 key-revoked-simple = Avain kumottiin
+key-do-you-accept = Hyväksytkö tämän avaimen digitaalisten allekirjoitusten todentamiseksi ja viestien salaamiseksi?
+key-accept-warning = Vältä vilpillisen avaimen hyväksymistä. Vahvista vastapuolen avaimen sormenjälki jollakin muulla viestintäkanavalla kuin sähköpostilla.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Viestiä ei voida lähettää, koska henkilökohtaisessa avaimessasi on ongelma. { $problem }
 cannot-encrypt-because-missing = Tätä viestiä ei voi lähettää päästä päähän -salauksella, koska seuraavien vastaanottajien avaimissa on ongelmia: { $problem }
@@ -309,6 +311,7 @@ expiry-open-key-manager = Avaa OpenPGP-avainhallinta
 # Strings filters.jsm
 filter-folder-required = Kohdekansio on valittava.
 filter-term-pgpencrypted-label = OpenPGP-salattu
+filter-key-required = Vastaanottajan avain on valittava.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Pura salaus pysyvästi (OpenPGP)
 filter-decrypt-copy-label = Luo salauksesta purettu kopio (OpenPGP)
@@ -360,6 +363,7 @@ key-ring-pub-key-not-for-signing = Avainta { $userId } (avaimen tunniste { $keyI
 key-ring-pub-key-not-for-encryption = Avainta { $userId } (avaimen tunniste { $keyId }) ei voi käyttää salaukseen.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Kuva
+user-att-photo = Käyttäjän ominaisuus (JPEG-kuva)
 # Strings in key.jsm
 already-revoked = Tämä avain on jo kumottu.
 #   $keyId (String) - the id of the key being revoked
@@ -392,7 +396,9 @@ key-valid-disabled = pois käytöstä
 key-valid-revoked = kumottu
 key-valid-expired = vanhentunut
 key-trust-untrusted = ei luotettu
+key-trust-marginal = marginaalinen
 key-trust-full = luotettu
+key-trust-ultimate = ultimaattinen
 key-trust-group = (ryhmä)
 # Strings used in commonWorkflows.js
 import-key-file = Tuo OpenPGP-avaintiedosto
@@ -408,6 +414,7 @@ revoke-cert-failed = Kumoamisvarmennetta ei voitu luoda.
 gen-going = Avaimen luominen on jo meneillään!
 expiry-too-short = Avaimesi tulee olla kelvollinen vähintään yhden päivän ajan.
 expiry-too-long = Et voi luoda avainta, joka vanhenee yli 100 vuoden päästä.
+key-confirm = Haluatko luoda julkisen ja salaisen avaimen identiteetille '{ $id }'?
 key-man-button-generate-key = &Luo avain
 key-abort = Lopetetaanko avaimen luominen?
 key-man-button-generate-key-abort = &Lopeta avaimen luominen
@@ -437,6 +444,7 @@ save-attachment-header = Tallenna salauksesta purettu liite
 no-temp-dir =
     Kirjoituskelpoista väliaikaishakemistoa ei löytynyt
     Aseta TEMP-ympäristömuuttuja
+cannot-send-sig-because-no-own-key = Tätä viestiä ei voi digitaalisesti allekirjoittaa, koska et ole vielä määrittänyt päästä päähän -salausta avaimelle <{ $key }>
 # Strings used in decryption.jsm
 do-import-multiple =
     Haluatko tuoda seuraavat avaimet?
