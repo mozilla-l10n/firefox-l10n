@@ -37,6 +37,7 @@ master-password-warning = Sasà’ ginun ruhuât si yugui ‘ngō da’nga’ hu
 remove-password =
     .title = Nadure’ da’nga’ huì a’nïn’ïn
 primary-password-admin = Da’uît gā ‘ngō da’nga’ huì yitïnj ïn da’ nā’nïnj sà’t a’ngô nej riña gayi'ìt sēsiûn nī da’nga’ huì huā ‘iát achín nì’iaj sa nikāj ñu’ūnj aga’ nan.
+primary-password-description = Huā niñā ‘ngō da’nga’ huì ‘ia da’ dūgumij nej nuguan’ āhī hua ‘iát, dàj rû’ riña gayi’ìt sēsiûn asi nej da’nga’ huì nīkājt riña aga’ nan. Si gīrīt ‘ngō da’nga’ huì ña’āan, nī gāchin man riñant da’ ruhuât gātūt sēsiûn nga { -brand-short-name } nari’ nej nuguan’ dugumî da’nga’ huì nan.
 remove-info =
     .value = Da’uît gachrūnt da’nga’ huì rajsunt akuan’ nïn da’ ga’ue gan’ānjt ne’ ñaan:
 remove-warning1 = Da’nga’ huì a’nïn’ nikājt dan nī rugûñun’un da’ dugumînt nej nuguan’ huā ‘iát riña huājt.
