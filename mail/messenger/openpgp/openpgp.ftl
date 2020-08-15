@@ -545,6 +545,17 @@ no-temp-dir =
     Állítsa be a TEMP környezeti változót
 possibly-pgp-mime = Lehet, hogy PGP/MIME segítségével titkosított vagy aláírt üzenet; az ellenőrzéshez használja a „Visszafejtés/Ellenőrzés” funkciót
 cannot-send-sig-because-no-own-key = Nem lehet digitálisan aláírni ezt az üzenetet, mert még nem állította be a végpontok közti titkosítást a(z) <{ $key }> számára
+cannot-send-enc-because-no-own-key = Nem küldheti el titkosítva ezt az üzenetet, mert még nem állította be a végpontok közti titkosítást a(z) <{ $key }> számára
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importálja a következő kulcsokat?
+    { $key }
+do-import-one = { $name } ({ $id }) importálása?
+cant-import = Hiba a nyilvános kulcs importálásakor
+unverified-reply = A behúzott üzenetrész (válasz) valószínűleg módosítva lett
+key-in-message-body = Kulcs található az üzenettörzsben. Az importálásához kattintson a „Kulcs importálására”
+sig-mismatch = Hiba – az aláírás nem egyezik meg
+invalid-email = Hiba – érvénytelen e-mail-címek
 dlg-button-ok = &Rendben
 dlg-button-close = &Bezárás
 dlg-button-cancel = &Mégse
