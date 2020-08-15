@@ -28,7 +28,7 @@ newtab-topsites-add-topsites-header = ਨਵੀਂ ਉਪਰਲੀ ਸਾਈਟ
 newtab-topsites-edit-topsites-header = ਉਪਰਲੀ ਸਾਈਟ ਸੋਧੋ
 newtab-topsites-title-label = ਸਿਰਲੇਖ
 newtab-topsites-title-input =
-    .placeholder = ਸਿਰਲੇਖ ਦਾਖਲ ਕਰੋ
+    .placeholder = ਸਿਰਲੇਖ ਦਿਓ
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ਕੋਈ URL ਲਿਖੋ ਜਾਂ ਚੇਪੋ
@@ -91,6 +91,10 @@ newtab-menu-show-privacy-info = ਸਾਡੇ ਸਪਾਂਸਰ ਅਤੇ ਤੁ
 newtab-privacy-modal-button-done = ਸਮਾਪਤ
 newtab-privacy-modal-button-manage = ਸਪਾਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਦੇ ਇੰਤਜ਼ਾਮ ਲਈ ਸੈਟਿੰਗਾਂ
 newtab-privacy-modal-header = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਮਹੱਤਵ ਰੱਖਦੀ ਹੈ।
+newtab-privacy-modal-paragraph-2 =
+    ਮਨਮੋਹਣੀਆਂ ਕਹਾਣੀਆਂ ਪਰੋਸਣ ਤੋਂ ਇਲਾਵਾ, ਅਸੀਂ ਤੁਹਾਨੂੰ ਢੁਕਵੇਂ,
+    ਚੋਣਵੇਂ ਪੇਸ਼ਕਾਰਾਂ ਤੋਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਜਾਂਚੀ ਗਈ ਸਮੱਗਰੀ ਵਿਖਾਵਾਂਗੇ। ਭਰੋਸਾ ਕਰੋ, <strong>ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਿੰਗ¶ ਡਾਟਾ ਤੁਹਾਡੇ { -brand-product-name } — ਦੀ ਨਿੱਜੀ ਕਾਪੀ ਤੋਂ ਕਦੇ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦਾ</strong> — ਅਸੀਂ ਇਸਨੂੰ ਨਹੀਂ ਵੇਖਦੇ, ਅਤੇ ਸਾਡੇ
+    ਸਪੌਂਸਰ ਵੀ ਕਦੇ ਨਹੀਂ।
 newtab-privacy-modal-link = ਸਿੱਖੋ ਕਿ ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਪਰਦੇਦਾਰੀ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ।
 
 ##
