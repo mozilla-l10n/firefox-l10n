@@ -398,6 +398,7 @@ not-first-block = Virhe - Ensimmäinen OpenPGP-lohko ei ole julkisen avaimen loh
 import-key-confirm = Haluatko tuoda yhden tai useamman viestiin upotetun julkisen avaimen?
 fail-key-import = Virhe - avaimen tuominen epäonnistui
 file-write-failed = Kirjoitus tiedostoon { $output } epäonnistui
+no-pgp-block = Virhe - Kelvollista panssaroitua OpenPGP-datalohkoa ei löytynyt
 # Strings used in trust.jsm
 key-valid-unknown = tuntematon
 key-valid-invalid = virheellinen
