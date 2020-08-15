@@ -65,21 +65,35 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Sulje
     .accesskey = S
+openpgp-keygen-missing-username = Nykyiselle tilille ei ole määritetty nimeä. Anna arvo kenttään "Nimesi" tilin asetuksissa.
 openpgp-keygen-long-expiry = Et voi luoda avainta, joka vanhenee yli 100 vuoden päästä.
 openpgp-keygen-short-expiry = Avaimesi tulee oltava kelvollinen vähintään yhden päivän ajan.
 openpgp-keygen-ongoing = Avaimen luominen on jo meneillään!
+openpgp-keygen-error-core = OpenPGP Core Service -ydinpalvelujen alustaminen ei onnistunut
 openpgp-keygen-error-failed = OpenPGP-avaimen luonti epäonnistui odottamatta
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP-avain luotiin onnistuneesti, mutta avaimelle { $key } ei saatu kumoamismahdollisuutta
+openpgp-keygen-abort-title = Perutaanko avaimen luonti?
+openpgp-keygen-abort = OpenPGP-avaimen luonti on meneillään. Haluatko perua avaimen luonnin?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Haluatko luoda julkisen ja yksityisen avaimen identiteetille { $identity }?
 
 ## Import Key section
 
 openpgp-import-key-title = Tuo olemassa oleva henkilökohtainen OpenPGP-avain
 openpgp-import-key-legend = Valitse aiemmin varmuuskopioitu tiedosto.
+openpgp-import-key-description = Voit tuoda henkilökohtaisia avaimia, jotka on luotu jollain muulla OpenPGP-ohjelmistolla.
+openpgp-import-key-info = Muut ohjelmistot saattavat viitata henkilökohtaiseen avaimeen termeillä kuten oma avain, salainen avain, yksityinen avain tai avainpari.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
         [one] Thunderbird löysi yhden avaimen, joka voidaan tuoda.
        *[other] Thunderbird löysi { $count } avainta, jotka voidaan tuoda.
     }
+openpgp-import-key-list-description = Vahvista mitä avaimia voidaan käsitellä henkilökohtaisina avaiminasi. Vain avaimia, jotka olet luonut itse ja edustavat identiteettiäsi, tulisi käyttää henkilökohtaisina avaimia. Voit muuttaa tätä valintaa myöhemmin Avaimen ominaisuudet -ikkunassa.
+openpgp-passphrase-prompt-title = Salalause vaaditaan
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Kirjoita salalause avataksesi seuraavan avaimen: { $key }
 openpgp-import-key-button =
     .label = Valitse tuotava tiedosto…
     .accesskey = V
@@ -103,5 +117,10 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Ulkoinen GnuPG-avain
+openpgp-external-key-description = Määritä ulkoinen GnuPG-avain kiroittamalla avaimen tunnisteen (Key ID)
+openpgp-external-key-info = Lisäksi sinun tulee käyttää avainhallintaa tuodaksesi ja hyväksyäksesi vastaavan julkisen avaimen.
+openpgp-external-key-warning = <b>Voit määrittää vain yhden ulkoisen GnuPG-avaimen.</b> Aiempi tietue korvataan.
+openpgp-save-external-button = Tallenna avaimen tunniste
+openpgp-external-key-label = Salaisen avaimen tunniste:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
