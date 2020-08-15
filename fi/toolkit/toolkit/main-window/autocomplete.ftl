@@ -12,5 +12,20 @@ autocomplete-import-logins =
     <div data-l10n-name="line1">Tuo kirjautumistietosi ohjelmasta { $browser }</div>¶
     <div data-l10n-name="line2"> sivustoa { $host } ja muita sivustoja varten</div>
 
+## Variables:
+##   $host (String) - Host name of the current site.
+
+autocomplete-import-logins-chrome =
+    <div data-l10n-name="line1">Tuo kirjautumistietosi Google Chromesta</div>
+    <div data-l10n-name="line2">sivustoa { $host } ja muita sivustoja varten</div>
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line1">Tuo kirjautumistietosi Chromiumista</div>
+    <div data-l10n-name="line2">sivustoa { $host } ja muita sivustoja varten</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line1">Tuo kirjautumistietosi Microsoft Edgestä</div>
+    <div data-l10n-name="line2">sivustoa { $host } ja muita sivustoja varten</div>
+
+##
+
 autocomplete-import-logins-info =
     .tooltiptext = Lue lisää
