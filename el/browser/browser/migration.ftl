@@ -51,10 +51,10 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = Δεν βρέθηκαν προγράμματα τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.
 import-source-page-title = Εισαγωγή ρυθμίσεων και δεδομένων
-import-items-page-title = Αντικείμενα προς εισαγωγή
-import-items-description = Επιλέξτε ποια αντικείμενα θα εισαχθούν:
+import-items-page-title = Στοιχεία προς εισαγωγή
+import-items-description = Επιλέξτε στοιχεία προς εισαγωγή:
 import-migrating-page-title = Εισαγωγή...
-import-migrating-description = Τα ακόλουθα αντικείμενα εισάγονται αυτήν τη στιγμή...
+import-migrating-description = Γίνεται εισαγωγή των παρακάτω στοιχείων αυτή τη στιγμή…
 import-select-profile-page-title = Επιλογή προφίλ
 import-select-profile-description = Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:
 import-done-page-title = Η εισαγωγή ολοκληρώθηκε
@@ -88,6 +88,7 @@ imported-edge-reading-list = Λίστα ανάγνωσης (Από Edge)
 ## chrome
 ## edge
 ## firefox
+## ie
 ## safari
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
