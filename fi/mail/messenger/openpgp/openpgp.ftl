@@ -425,6 +425,11 @@ revoke-key-not-present =
 revoke-key-already-revoked = Avain 0x{ $keyId } on jo kumottu.
 key-man-button-revoke-key = &Kumoa avain
 openpgp-key-revoke-success = Avain kumottu onnistuneesti.
+after-revoke-info =
+    Avain on kumottu.
+    Jaa tämä julkinen avain uudelleen, lähettämällä se ihmisille sähköpostitse tai lähettämällä avainpalvelimille, jotta muut saavat tietää sinun kumonneen avaimesi.
+    Kun muiden ihmisten käyttämät ohjelmat saavat tiedon kumoamisesta, ohjelmat lopettavat vanhan avaimesi käytön.
+    Jos käytät uutta avainta samaan sähköpostiosoitteeseen, ja liität uuden julkisen avaimesi lähettämiisi sähköposteihin, niin tieto kumotusta vanhasta avaimestasi sisällytetään automaattisesti.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Tuo
 delete-key-title = Poista OpenPGP-avain
@@ -508,7 +513,7 @@ minimal-line-wrapping =
 sending-hidden-rcpt = Piilokopioita (BCC) ei voi käyttää, kun on tarkoitus lähettää salattu viesti. Lähettääksesi tämän salatun viestin, poista piilokopion vastaanottajat tai siirrä ne kopiokenttään.
 sending-news =
     Salattu lähetys keskeytetty.
-    Tätä viestiä ei voi salata, koska vastaanottajissa on postituslistoja. Lähetä tämä viesti uudelleen ilman salausta.
+    Tätä viestiä ei voi salata, koska vastaanottajissa on uutisryhmiä. Lähetä tämä viesti uudelleen ilman salausta.
 save-attachment-header = Tallenna salauksesta purettu liite
 no-temp-dir =
     Kirjoituskelpoista väliaikaishakemistoa ei löytynyt
@@ -522,6 +527,7 @@ do-import-multiple =
     { $key }
 do-import-one = Haluatko tuoda { $name } ({ $id })?
 cant-import = Virhe tuotaessa julkista avainta
+unverified-reply = Sisennettyä viestin osaa (vastaus) luultavasti muokattiin
 key-in-message-body = Avain löydettiin viestin sisällöstä. Napsauta "Tuo avain" tuodaksesi avaimen
 sig-mismatch = Virhe - Allekirjoituksen yhteensopimattomuus
 invalid-email = Virhe - yksi tai useampi virheellinen sähköpostiosoite
