@@ -284,9 +284,13 @@ key-does-not-expire = Avain ei vanhene
 key-expired-date = Avain vanhentui { $keyExpiry }
 key-expired-simple = Avain on vanhentunut
 key-revoked-simple = Avain kumottiin
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Viestiä ei voida lähettää, koska henkilökohtaisessa avaimessasi on ongelma. { $problem }
+cannot-encrypt-because-missing = Tätä viestiä ei voi lähettää päästä päähän -salauksella, koska seuraavien vastaanottajien avaimissa on ongelmia: { $problem }
 window-locked = Kirjoitusikkuna on lukittu; lähetys peruutettu
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Salattu viestiosa
+mime-decrypt-encrypted-part-concealed-data = Tämä on salattu viestiosa. Avaa se erillisessä ikkunassa napsauttamalla liitettä.
 keyserver-error-unknown = Tapahtui tuntematon virhe
 keyserver-error-server-error = Avainpalvelin ilmoitti virheestä.
 keyserver-error-import-error = Ladatun avaimen tuonti epäonnistui.
@@ -294,6 +298,13 @@ keyserver-error-unavailable = Avainpalvelin ei ole käytettävissä.
 keyserver-error-security-error = Avainpalvelin ei tue salattua käyttöä.
 keyserver-error-certificate-error = Avainpalvelimen varmenne ei ole kelvollinen.
 keyserver-error-unsupported = Avainpalvelin ei ole tuettu.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Sähköpostipalveluntarjoajasi käsitteli pyyntösi julkisen avaimesi lähettämiseksi OpenPGP-verkkoavainhakemistoon.
+    Vahvista julkisen avaimesi julkaiseminen.
+wkd-message-body-process =
+    Tämä sähköpostiviesti liittyy julkisen avaimesi automaattiseen lähettämiseen OpenPGP-verkkoavainhakemistoon.
+    Tässä vaiheessa sinulta ei edellytetä mitään toimia.
 expiry-open-key-manager = Avaa OpenPGP-avainhallinta
 # Strings filters.jsm
 filter-folder-required = Kohdekansio on valittava.
@@ -329,6 +340,8 @@ export-keypair-to-file = Vie salainen ja julkinen avain tiedostoon
 export-secret-key = Haluatko sisällyttää salaisen avaimen tallennettuun OpenPGP-avaintiedostoon?
 save-keys-ok = Avaimet tallennettiin onnistuneesti
 save-keys-failed = Avainten tallentaminen epäonnistui
+default-pub-key-filename = Viedyt-julkiset-avaimet
+default-pub-sec-key-filename = Salaisten-avainten-varmuuskopio
 preview-failed = Julkisen avaintiedoston lukeminen ei onnistu.
 general-error = Virhe: { $reason }
 dlg-button-delete = &Poista
@@ -359,12 +372,16 @@ delete-key-title = Poista OpenPGP-avain
 delete-external-key-title = Poista ulkoinen GnuPG-avain
 delete-external-key-description = Haluatko poistaa tämän ulkoisen GnuPG-avaimen tunnisteen?
 key-in-use-title = OpenPGP-avain on parhaillaan käytössä
+key-error-not-accepted-as-personal = Et ole vahvistanut, että avain tunnisteella '{ $keySpec }' on henkilökohtainen avaimesi.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Valitsemasi toiminto ei ole käytettävissä yhteydettömässä tilassa. Yhdistä verkkoon ja yritä uudelleen.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Hakuehtoja vastaavia avaimia ei löytynyt.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Virhe - avaimen purkamiskomento epäonnistui
+# Strings used in keyRing.jsm
+fail-cancel = Virhe - Avaimen vastaanotto peruttu käyttäjän toimesta
+not-first-block = Virhe - Ensimmäinen OpenPGP-lohko ei ole julkisen avaimen lohko
 import-key-confirm = Haluatko tuoda yhden tai useamman viestiin upotetun julkisen avaimen?
 fail-key-import = Virhe - avaimen tuominen epäonnistui
 file-write-failed = Kirjoitus tiedostoon { $output } epäonnistui
@@ -409,6 +426,8 @@ enig-content-note = *Tämän viestin liitteitä ei ole allekirjoitettu tai salat
 msg-compose-button-send = &Lähetä viesti
 msg-compose-details-button-label = Lisätiedot…
 msg-compose-details-button-access-key = L
+send-aborted = Lähetys keskeytetty.
+key-not-trusted = Ei riittävästi luottamusta avaimeen '{ $key }'
 key-not-found = Avainta '{ $key }' ei löytynyt
 key-revoked = Avain '{ $key }' kumottu
 key-expired = Avain '{ $key }' vanhentui
@@ -427,6 +446,9 @@ cant-import = Virhe tuotaessa julkista avainta
 key-in-message-body = Avain löydettiin viestin sisällöstä. Napsauta "Tuo avain" tuodaksesi avaimen
 sig-mismatch = Virhe - Allekirjoituksen yhteensopimattomuus
 invalid-email = Virhe - yksi tai useampi virheellinen sähköpostiosoite
+attachment-pgp-key =
+    Liite '{ $name }' vaikuttaa olevan OpenPGP-avaintiedosto.
+    Napsauta "Tuo" tuodaksesi avaimen tai "Näytä" tarkastellaksesi tiedoston sisältöä selainikkunassa
 dlg-button-view = &Näytä
 # Strings used in encryption.jsm
 not-required = Virhe - salausta ei vaadita
