@@ -307,7 +307,11 @@ wkd-message-body-req =
 wkd-message-body-process =
     Tämä sähköpostiviesti liittyy julkisen avaimesi automaattiseen lähettämiseen OpenPGP-verkkoavainhakemistoon.
     Tässä vaiheessa sinulta ei edellytetä mitään toimia.
+# Strings in gpg.jsm
+unknown-signing-alg = Tuntematon allekirjoitusalgoritmi (tunniste: { $id })
+unknown-hash-alg = Tuntematon salaustiiviste (tunniste: { $id })
 expiry-open-key-manager = Avaa OpenPGP-avainhallinta
+expiry-open-key-properties = Avaimen ominaisuudet
 # Strings filters.jsm
 filter-folder-required = Kohdekansio on valittava.
 filter-term-pgpencrypted-label = OpenPGP-salattu
@@ -440,6 +444,7 @@ key-revoked = Avain '{ $key }' kumottu
 key-expired = Avain '{ $key }' vanhentui
 msg-compose-internal-error = Tapahtui sisäinen virhe.
 msg-compose-cannot-save-draft = Virhe luonnosta tallennettaessa
+msg-compose-partially-encrypted-short = Varo vuotamasta arkaluonteisia tietoja - osittain salattu sähköposti.
 save-attachment-header = Tallenna salauksesta purettu liite
 no-temp-dir =
     Kirjoituskelpoista väliaikaishakemistoa ei löytynyt
@@ -474,8 +479,10 @@ dlg-button-ok = &OK
 dlg-button-close = &Sulje
 dlg-button-cancel = &Peruuta
 dlg-no-prompt = Älä näytä tätä ikkunaa uudestaan
+enig-prompt = OpenPGP-kehote
 enig-confirm = OpenPGP-vahvistus
 enig-alert = OpenPGP-hälytys
+enig-info = OpenPGP-tiedot
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Yritä uudelleen
 dlg-button-skip = &Ohita
