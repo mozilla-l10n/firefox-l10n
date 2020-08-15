@@ -357,6 +357,13 @@ import-from-clip = Haluatko tuoda yhden tai useamman avaimen leikepöydältä?
 import-from-url = Lataa julkinen avain tästä osoitteesta:
 copy-to-clipbrd-failed = Yhtä tai useampaa valittua avainta ei voitu kopioida leikepöydälle.
 copy-to-clipbrd-ok = Yksi tai useampi avain kopioitu leikepöydälle
+delete-secret-key =
+    VAROITUS: Olet aikeissa poistaa salaisen avaimen!
+    
+    Jos poistat salaisen avaimen, et voi enää purkaa minkään kyseiselle avaimelle salatun viestin salausta, etkä pysty kumoamaan sitä.
+    
+    Haluatko varmasti poistaa MOLEMMAT, salaisen avaimen ja julkisen avaimen
+    '{ $userId }'?
 delete-mix =
     VAROITUS: Olet aikeissa poistaa salaisia avaimia!
     Jos poistat salaisen avaimesi, et pysty enää avata niiden viestien salausta, jotka on salattu kyseisellä avaimella.
@@ -411,6 +418,10 @@ user-att-photo = Käyttäjän ominaisuus (JPEG-kuva)
 # Strings in key.jsm
 already-revoked = Tämä avain on jo kumottu.
 #   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Sinulla ei ole avainta (0x{ $keyId }) mikä täsmäisi tätä kumoamisvarmennetta!
+    Jos olet kadottanut avaimesi, sinun tulee tuoda (esim. avainpalvelimelta), ennen kuin tuot kumoamisvarmenteen!
+#   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Avain 0x{ $keyId } on jo kumottu.
 key-man-button-revoke-key = &Kumoa avain
 openpgp-key-revoke-success = Avain kumottu onnistuneesti.
@@ -420,6 +431,8 @@ delete-key-title = Poista OpenPGP-avain
 delete-external-key-title = Poista ulkoinen GnuPG-avain
 delete-external-key-description = Haluatko poistaa tämän ulkoisen GnuPG-avaimen tunnisteen?
 key-in-use-title = OpenPGP-avain on parhaillaan käytössä
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Sähköpostiosoitetta '{ $keySpec }' ei voida täsmätä avainnipussasi olevaan avaimeen.
 key-error-key-id-not-found = Määritettyä avaimen tunnistetta '{ $keySpec }' ei löydy avainnipustasi.
 key-error-not-accepted-as-personal = Et ole vahvistanut, että avain tunnisteella '{ $keySpec }' on henkilökohtainen avaimesi.
 # Strings used in enigmailKeyManager.js & windows.jsm
@@ -468,6 +481,8 @@ key-man-button-generate-key-continue = &Jatka avaimen luomista
 # Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Virhe - salauksen purkaminen epäonnistui
 fix-broken-exchange-msg-failed = Viestin korjaaminen ei onnistunut.
+attachment-no-match-from-signature = Allekirjoitustiedostoa '{ $attachment }' ei voitu täsmätä liitteeseen
+attachment-no-match-to-signature = Liitettä '{ $attachment }' ei voitu täsmätä allekirjoitustiedostoon
 signature-verified-ok = Liitteen { $attachment } allekirjoitus vahvistettiin onnistuneesti
 signature-verify-failed = Liitteen { $attachment } allekirjoitusta ei voitu vahvistaa
 decrypt-ok-no-sig =
