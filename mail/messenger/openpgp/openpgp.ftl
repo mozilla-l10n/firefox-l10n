@@ -332,6 +332,10 @@ import-from-clip = Haluatko tuoda yhden tai useamman avaimen leikepöydältä?
 import-from-url = Lataa julkinen avain tästä osoitteesta:
 copy-to-clipbrd-failed = Yhtä tai useampaa valittua avainta ei voitu kopioida leikepöydälle.
 copy-to-clipbrd-ok = Yksi tai useampi avain kopioitu leikepöydälle
+delete-mix =
+    VAROITUS: Olet aikeissa poistaa salaisia avaimia!
+    Jos poistat salaisen avaimesi, et pysty enää avata niiden viestien salausta, jotka on salattu kyseisellä avaimella.
+    Haluatko varmasti poistaa MOLEMMAT, sekä valitut salaiset että julkiset avaimet?
 delete-pub-key =
     Haluatko poistaa julkisen avaimen
     '{ $userId }'?
@@ -341,6 +345,7 @@ key-man-button-export-sec-key = Vie &salaiset avaimet
 key-man-button-export-pub-key = Vie vain &julkiset avaimet
 key-man-button-refresh-all = &Päivitä kaikki avaimet
 key-man-loading-keys = Ladataan avaimia, odota hetki…
+ascii-armor-file = ASCII-panssaroidut tiedostot (*.asc)
 no-key-selected = Valitse vähintään yksi avain suorittaaksesi valitun toimenpiteen
 export-to-file = Vie julkinen avain tiedostoon
 export-keypair-to-file = Vie salainen ja julkinen avain tiedostoon
