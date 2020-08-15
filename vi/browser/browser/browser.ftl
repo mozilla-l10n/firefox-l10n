@@ -318,8 +318,19 @@ enable-devtools-popup-description = Để sử dụng phím tắt F12, trước 
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+urlbar-placeholder-search-mode-web =
+    .placeholder = Tìm kiếm trên mạng
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon) and local search modes (e.g., bookmarks, history,
+# tabs).
+urlbar-placeholder-search-mode-other =
+    .placeholder = Nhập từ tìm kiếm
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
