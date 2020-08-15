@@ -535,6 +535,10 @@ sending-hidden-rcpt = A BCC (titkos másolat) címzettek nem használhatók titk
 sending-news =
     A titkosított küldési művelet megszakítva.
     Ezt az üzenetet nem lehet titkosítani, mert vannak hírcsoport-címzettek. Küldje el újra az üzenetet titkosítás nélkül.
+send-to-news-warning =
+    Figyelmeztetés: arra készül, hogy titkosított üzenetet küljdön egy hírcsoportnak.
+    Ez nem javasolt, mert csak akkor van értelme, ha a csoport összes tagja vissza tudja fejteni az üzenetet, azaz az üzenetet az összes résztvevő kulcsával titkosítani kell. Csak akkor küldje el ezt a levelet, ha pontosan tudja mit csinál.
+    Folytatja?
 save-attachment-header = Visszafejtett melléklet mentése
 no-temp-dir =
     Nem található ideiglenes könyvtár, amelybe írni lehetne
