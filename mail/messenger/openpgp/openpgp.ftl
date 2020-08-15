@@ -40,11 +40,15 @@ openpgp-key-man-generate-menu =
     .label = Δημιουργία
     .accesskey = Δ
 openpgp-key-man-discover-progress = Αναζήτηση…
+openpgp-key-details-created-label =
+    .label = Δημιουργήθηκε
+openpgp-key-details-created-header = Δημιουργήθηκε
 openpgp-copy-cmd-label =
     .label = Αντιγραφή
 
 ## e2e encryption settings
 
+openpgp-keygen-success = Επιτυχής δημιουργία κλειδιού OpenPGP!
 
 ## OpenPGP Key selection area
 
@@ -53,6 +57,7 @@ openpgp-manager-button =
     .accesskey = κ
 key-type-primary = κύριο κλειδί
 expiry-open-key-manager = Άνοιγμα διαχείρισης κλειδιών OpenPGP
+import-info-created = Δημιουργήθηκε
 # Strings in enigmailKeyManager.js
 import-from-clip = Θέλετε να εισάγετε μερικά κλειδιά από το πρόχειρο;
 
