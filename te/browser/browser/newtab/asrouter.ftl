@@ -231,3 +231,4 @@ cfr-doorhanger-doh-secondary-button = అచేతనించు
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = ట్రాకింగ్ జిత్తుల నుండి స్వయంచాలక సంరక్షణ
