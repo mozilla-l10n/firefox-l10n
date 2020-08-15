@@ -314,6 +314,12 @@ openpgp-key-revoke-success = Avain kumottu onnistuneesti.
 key-man-button-import = &Tuo
 delete-key-title = Poista OpenPGP-avain
 key-in-use-title = OpenPGP-avain on parhaillaan käytössä
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Hakuehtoihin vastaavia avaimia ei löytynyt.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Virhe - avaimen purkamiskomento epäonnistui
+fail-key-import = Virhe - avaimen tuominen epäonnistui
+file-write-failed = Kirjoitus tiedostoon { $output } epäonnistui
 # Strings used in trust.jsm
 key-valid-unknown = tuntematon
 key-valid-invalid = virheellinen
@@ -328,12 +334,26 @@ import-key-file = Tuo OpenPGP-avaintiedosto
 import-rev-file = Tuo OpenPGP-kumoamistiedosto
 gnupg-file = GnuPG-tiedostot
 import-keys-failed = Avainten tuonti epäonnistui
+passphrase-prompt = Kirjoita salalause joka avaa seuraavan avaimen: { $key }
+file-to-big-to-import = Tämä tiedosto on liian suuri. Älä tuo liian suurta määrää avaimia kerralla.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Luo ja tallenna kumoamisvarmenne
 revoke-cert-failed = Kumoamisvarmennetta ei voitu luoda.
 gen-going = Avaimen luominen on jo meneillään!
 expiry-too-short = Avaimesi tulee olla kelvollinen vähintään yhden päivän ajan.
 expiry-too-long = Et voi luoda avainta, joka vanhenee yli 100 vuoden päästä.
 key-man-button-generate-key = &Luo avain
-decrypt-ok-no-sig = VaroitusDecryption was successful, but the signature could not be verified correctly
+key-abort = Lopetetaanko avaimen luominen?
+key-man-button-generate-key-abort = &Lopeta avaimen luominen
+key-man-button-generate-key-continue = &Jatka avaimen luomista
+# Strings used in enigmailMessengerOverlay.js
+failed-decrypt = Virhe - salauksen purkaminen epäonnistui
+fix-broken-exchange-msg-failed = Viestin korjaaminen ei onnistunut.
+signature-verified-ok = Liitteen { $attachment } allekirjoitus vahvistettiin onnistuneesti
+signature-verify-failed = Liitteen { $attachment } allekirjoitusta ei voitu vahvistaa
+decrypt-ok-no-sig =
+    Varoitus
+    Viestin salauksen purkaminen onnistui, mutta allekirjoitusta ei voitu vahvistaa oikeaoppisesti
 msg-ovl-button-cont-anyway = &Jatka silti
 enig-content-note = *Tämän viestin liitteitä ei ole allekirjoitettu tai salattu*
 # Strings used in enigmailMsgComposeOverlay.js
@@ -344,6 +364,9 @@ key-expired = Avain '{ $key }' vanhentui
 msg-compose-internal-error = Tapahtui sisäinen virhe.
 msg-compose-cannot-save-draft = Virhe luonnosta tallennettaessa
 save-attachment-header = Tallenna salauksesta purettu liite
+no-temp-dir =
+    Kirjoituskelpoista väliaikaishakemistoa ei löytynyt
+    Aseta TEMP-ympäristömuuttuja
 # Strings used in decryption.jsm
 do-import-multiple =
     Haluatko tuoda seuraavat avaimet?
