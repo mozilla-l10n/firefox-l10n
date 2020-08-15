@@ -238,26 +238,57 @@ import-info-no-keys = Avaimia ei ole tuotu.
 import-from-url = Lataa julkinen avain tästä osoitteesta:
 copy-to-clipbrd-ok = Yksi tai useampi avain kopioitu leikepöydälle
 key-man-button-refresh-all = &Päivitä kaikki avaimet
+key-man-loading-keys = Ladataan avaimia, odota hetki…
+export-to-file = Vie julkinen avain tiedostoon
+export-keypair-to-file = Vie salainen ja julkinen avain tiedostoon
+save-keys-ok = Avaimet tallennettiin onnistuneesti
+save-keys-failed = Avainten tallentaminen epäonnistui
 preview-failed = Julkisen avaintiedoston lukeminen ei onnistu.
 general-error = Virhe: { $reason }
 dlg-button-delete = &Poista
 
 ## Account settings export output
 
+# Strings in key.jsm
+already-revoked = Tämä avain on jo kumottu.
+key-man-button-revoke-key = &Kumoa avain
+openpgp-key-revoke-success = Avain kumottu onnistuneesti.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Tuo
 delete-key-title = Poista OpenPGP-avain
+key-in-use-title = OpenPGP-avain on parhaillaan käytössä
 # Strings used in trust.jsm
 key-valid-unknown = tuntematon
+key-valid-invalid = virheellinen
+key-valid-disabled = pois käytöstä
+key-valid-revoked = kumottu
+key-valid-expired = vanhentunut
+key-trust-untrusted = ei luotettu
+key-trust-full = luotettu
+key-trust-group = (ryhmä)
+# Strings used in commonWorkflows.js
+import-key-file = Tuo OpenPGP-avaintiedosto
+import-rev-file = Tuo OpenPGP-kumoamistiedosto
 gnupg-file = GnuPG-tiedostot
 import-keys-failed = Avainten tuonti epäonnistui
+key-man-button-generate-key = &Luo avain
+msg-ovl-button-cont-anyway = &Jatka silti
+enig-content-note = *Tämän viestin liitteitä ei ole allekirjoitettu tai salattu*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Lähetä viesti
 key-not-found = Avainta '{ $key }' ei löytynyt
+key-revoked = Avain '{ $key }' kumottu
+key-expired = Avain '{ $key }' vanhentui
+msg-compose-internal-error = Tapahtui sisäinen virhe.
+msg-compose-cannot-save-draft = Virhe luonnosta tallennettaessa
+debug-log-title = OpenPGP-vianjäljitysloki
+no-repeat = Tätä hälytystä ei näytetä uudelleen.
+dlg-keep-setting = Muista vastaukseni, älä kysy uudestaan
 dlg-button-ok = &OK
 dlg-button-close = &Sulje
 dlg-button-cancel = &Peruuta
 dlg-no-prompt = Älä näytä tätä ikkunaa uudestaan
+enig-confirm = OpenPGP-vahvistus
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Yritä uudelleen
 dlg-button-skip = &Ohita
