@@ -451,6 +451,13 @@ key-expired = Avain '{ $key }' vanhentui
 msg-compose-internal-error = Tapahtui sisäinen virhe.
 msg-compose-cannot-save-draft = Virhe luonnosta tallennettaessa
 msg-compose-partially-encrypted-short = Varo vuotamasta arkaluonteisia tietoja - osittain salattu sähköposti.
+minimal-line-wrapping =
+    Olet asettanut rivityksen { $width } merkkiin. Oikeaoppisen salauksen ja/tai allekirjoituksen vuoksi tämän arvon tulee olla vähintään 68.
+    Haluatko muuttaa rivityksen arvon 68 merkkiin?
+sending-hidden-rcpt = Piilokopioita (BCC) ei voi käyttää, kun on tarkoitus lähettää salattu viesti. Lähettääksesi tämän salatun viestin, poista piilokopion vastaanottajat tai siirrä ne kopiokenttään.
+sending-news =
+    Salattu lähetys keskeytetty.
+    Tätä viestiä ei voi salata, koska vastaanottajissa on postituslistoja. Lähetä tämä viesti uudelleen ilman salausta.
 save-attachment-header = Tallenna salauksesta purettu liite
 no-temp-dir =
     Kirjoituskelpoista väliaikaishakemistoa ei löytynyt
