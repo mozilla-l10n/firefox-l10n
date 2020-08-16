@@ -42,7 +42,7 @@ protections-panel-no-trackers-found = 이 페이지에서 { -brand-short-name }�
 protections-panel-content-blocking-tracking-protection = 추적 콘텐츠
 protections-panel-content-blocking-socialblock = 소셜 미디어 추적기
 protections-panel-content-blocking-cryptominers-label = 암호화폐 채굴기
-protections-panel-content-blocking-fingerprinters-label = 핑거프린터
+protections-panel-content-blocking-fingerprinters-label = 디지털 지문
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -77,7 +77,7 @@ protections-panel-site-not-working-view-send-report = 보고서 보내기
 
 protections-panel-cross-site-tracking-cookies = 이러한 쿠키는 사용자가 온라인에서 수행하는 작업에 대한 데이터를 수집하기 위해 사이트 간에 사용자를 따라갑니다. 광고사나 분석 회사와 같은 제3자가 설정합니다.
 protections-panel-cryptominers = 암호화폐 채굴기는 디지털 화폐를 채굴하기 위해 시스템의 연산 능력을 사용합니다. 암호 해독 스크립트는 배터리를 소모하고 컴퓨터 속도를 저하시키며 에너지 요금을 증가시킬 수 있습니다.
-protections-panel-fingerprinters = 핑거프린터는 브라우저와 컴퓨터에서 설정을 수집하여 사용자의 프로필을 만듭니다. 이 디지털 지문을 사용하여 여러 웹 사이트에서 사용자를 추적할 수 있습니다.
+protections-panel-fingerprinters = 디지털 지문은 브라우저와 컴퓨터에서 설정을 수집하여 사용자의 프로필을 만듭니다. 이를 사용하여 여러 웹 사이트에서 사용자를 추적할 수 있습니다.
 protections-panel-tracking-content = 웹 사이트에서 외부 광고, 동영상 및 기타 추적 코드가 포함된 콘텐츠를 로드할 수 있습니다. 추적 콘텐츠를 차단하면 사이트를 더 빨리 로드할 수 있지만 일부 버튼, 양식 및 로그인 필드는 작동하지 않을 수 있습니다.
 protections-panel-social-media-trackers = 소셜 네트워크는 다른 웹 사이트에 추적기를 배치하여 온라인에서 한 일이나 본 것, 재생한 것을 추적합니다. 이를 통해 소셜 미디어 회사들은 소셜 미디어 프로필에서 공유하는 것 이상의 자세한 정보를 얻을 수 있습니다.
 protections-panel-content-blocking-manage-settings =
