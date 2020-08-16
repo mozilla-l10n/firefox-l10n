@@ -90,6 +90,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = დროებით შენახული მონაცემები, საწყისი about:home დოკუმენტისთვის, რომლებიც იტვირთება გაშვებისას. ამ კეშის მიზანია, მეტად აასწრაფოს პროგრამის გაშვება.
 experimental-features-print-preview-tab-modal =
     .label = ამობეჭდვის განახლებული შეთვალიერება
+experimental-features-print-preview-tab-modal-description = წარდგენა ამობეჭდვის განახლებული შესათვალიერებელი ფანჯრის და macOS-ზე მხარდაჭერის დამატების. ამას, შესაძლოა ახლდეს ხარვეზები და რაღაც პარამეტრების ნაკლებობა. ამობეჭდვის ყველა პარამეტრთან წვდომისთვის, აირჩიეთ „ამობეჭდვა სისტემის ფანჯრიდან…“ ამობეჭდვის არეში.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
