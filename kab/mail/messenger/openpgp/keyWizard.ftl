@@ -23,6 +23,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Sirew tasarut OpenPGP
+openpgp-generate-key-info = <b>Asirew n tsarut yezmer ad yeṭṭef  aṭas n tesdidin akken ad yemmed. </b> Ur teffeɣ ara seg usnas ma iteddu usirew n tsarut. Tunigin turmidt neɣ aselken n temhalin tussidin ɣef uḍebsi ma iteddu usirew n tsarut ad d-yerr 'amsegaw agacuran' d urured n ukala. Ad d-teṭṭfeḍ ulɣu mi ara yemmed usirew n tsarut.
 openpgp-keygen-expiry-title = Azemz n taggara n tsarut
 radio-keygen-expiry =
     .label = Tasarut ad temmet deg
