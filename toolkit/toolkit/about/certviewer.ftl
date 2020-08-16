@@ -9,7 +9,12 @@ certificate-viewer-certificate-section-title = प्रमाणपत्र
 
 ## Certificate information labels
 
+certificate-viewer-algorithm = एल्गोरिथ्म
+certificate-viewer-certificate-authority = प्रमाणपत्र प्राधिकार
 certificate-viewer-email-address = ईमेल पता
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = { $firstCertName } के लिए प्रमाणपत्र
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = सम्मिलित देश
 certificate-viewer-country = देश
